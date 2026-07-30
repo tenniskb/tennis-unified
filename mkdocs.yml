@@ -1,0 +1,244 @@
+site_name: Tennis Unified Library
+site_description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Foundation/Advanced/Elite, Anatomy Lab, Angle Atlas, Reference Library, and more
+site_author: Henry Pham
+copyright: © 2026 Henry Phạm Đức · Tennis Future Lab Research · All contents are for educational purpose.
+theme:
+  name: material
+  custom_dir: docs/theme
+  palette:
+    primary: teal
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.prune
+    - search.highlight
+    - search.suggest
+    - alternate
+  language: en
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Tiếng Việt
+      link: /vi/
+      lang: vi
+extra_css:
+  - assets/css/style.css
+  - assets/css/extra.css
+  - assets/css/enhancements.css
+  - assets/css/phase5.css
+extra_javascript:
+  - assets/js/extra.js
+markdown_extensions:
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - tables
+  - footnotes
+plugins:
+  - i18n:
+      docs_structure: folder
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+          nav_translations:
+            Home: Home
+            Fundamentals: Fundamentals
+            Footwork: Footwork
+            Strokes: Strokes
+            Grips: Grips
+            Footwork Patterns: Footwork Patterns
+            Court Positioning: Court Positioning
+            Balance & Rhythm: Balance & Rhythm
+            Teaching Systems: Teaching Systems
+            Classic Lessons: Classic Lessons
+            Famous Coaches: Famous Coaches
+            High Performance: High Performance
+            Mental Game: Mental Game
+            Physical Training: Physical Training
+            Strategy: Strategy
+            Ultimate Drill Games: Ultimate Drill Games
+            Ultimate Fundamentals: Ultimate Fundamentals
+            More: More
+            Tennis Science: Tennis Science
+            Stroke Analysis: Stroke Analysis
+            Advanced Tennis: Advanced Tennis
+            Biomechanics: Biomechanics
+            The Heavy Ball: The Heavy Ball
+            Tour Strokes: Tour Strokes
+            Your Strokes: Your Strokes
+            New Issue: New Issue
+            Foundation: Foundation
+            Overview: Overview
+            Basics: Basics
+            Deep Dives: Deep Dives
+            Advanced: Advanced
+            Elite: Elite
+            Anatomy Lab: Anatomy Lab
+            Angle Atlas: Angle Atlas
+            Reference Library: Reference Library
+            Coauthored Books: Coauthored Books
+            Technical Reference: Technical Reference
+            Training Programs: Training Programs
+            Player Profiles: Player Profiles
+            Rivalry Analyses: Rivalry Analyses
+            Tennis Lexicon: Tennis Lexicon
+            Visual Library: Visual Library
+            Tennis Wiki Reference: Tennis Wiki Reference
+            Grip: Grip
+            Forehand: Forehand
+            Backhand: Backhand
+            Serve: Serve
+            Return: Return
+            Volley: Volley
+            Footwork: Footwork
+            Lob & Overhead: Lob & Overhead
+            Tactics: Tactics
+            Pressure & Neurology: Pressure & Neurology
+            Specialty Shots: Specialty Shots
+            Doubles: Doubles
+            Biomechanics & Neurology: Biomechanics & Neurology
+        - locale: vi
+          name: Tiếng Việt
+          build: true
+          nav_translations:
+            Home: Trang Chủ
+            Fundamentals: Cơ Bản
+            Footwork: Di Chuyển Chân
+            Strokes: Các Cú Đánh
+            Grips: Cách Cầm Vợt
+            Footwork Patterns: Các Mẫu Di Chuyển
+            Court Positioning: Vị Trí Trên Sân
+            Balance & Rhythm: Cân Bằng & Nhịp Điệu
+            Teaching Systems: Hệ Thống Dạy Học
+            Classic Lessons: Bài Học Kinh Điển
+            Famous Coaches: Các Huấn Luyện Viên Nổi Tiếng
+            High Performance: Hiệu Suất Cao
+            Mental Game: Trò Chơi Tâm Lý
+            Physical Training: Huấn Luyện Thể Lực
+            Strategy: Chiến Thuật
+            Ultimate Drill Games: Các Trò Đào Tạo Tối Thượng
+            Ultimate Fundamentals: Cơ Bản Tối Thượng
+            More: Thêm
+            Tennis Science: Khoa Học Tennis
+            Stroke Analysis: Phân Tích Cú Đánh
+            Advanced Tennis: Tennis Nâng Cao
+            Biomechanics: Cơ Sinh Học
+            The Heavy Ball: Quả Bóng Nặng
+            Tour Strokes: Cú Đánh Tour
+            Your Strokes: Cú Đánh Của Bạn
+            New Issue: Vấn Đề Mới
+            Foundation: Nền Tảng
+            Overview: Tổng Quan
+            Basics: Cơ Bản
+            Deep Dives: Chuyên Sâu
+            Advanced: Cao Cấp
+            Elite: Tinh Hoa
+            Anatomy Lab: Phòng Thí Nghiệm Giải Phẫu
+            Angle Atlas: Atlas Góc Độ
+            Reference Library: Thư Viện Tham Khảo
+            Coauthored Books: Sách Đồng Tác Giả
+            Technical Reference: Tài Liệu Kỹ Thuật
+            Training Programs: Chương Trình Huấn Luyện
+            Player Profiles: Hồ Sơ Cầu Thủ
+            Rivalry Analyses: Phân Tích Đối Kháng
+            Tennis Lexicon: Từ Điển Tennis
+            Visual Library: Thư Viện Hình Ảnh
+            Tennis Wiki Reference: Tham Khảo Tennis Wiki
+            Grip: Cầm Vợt
+            Forehand: Cú Thuận Tay
+            Backhand: Cú Trái Tay
+            Serve: Giao Bóng
+            Return: Đỡ Giao Bóng
+            Volley: Đánh Bóng Bổng
+            Footwork: Di Chuyển Chân
+            Lob & Overhead: Bóng Bổng & Bóng Cao
+            Tactics: Chiến Thuật
+            Pressure & Neurology: Áp Lực & Thần Kinh Học
+            Specialty Shots: Cú Đánh Chuyên Biệt
+            Doubles: Đánh Đôi
+            Biomechanics & Neurology: Cơ Sinh Học & Thần Kinh Học
+      fallback_to_default: true
+
+nav:
+  - Home: index.md
+  - Fundamentals:
+      - Overview: fundamentals/index.md
+      - Footwork: fundamentals/footwork/index.md
+      - Strokes:
+          - Overview: fundamentals/strokes/index.md
+          - Forehand: fundamentals/strokes/forehand/index.md
+          - Backhand: fundamentals/strokes/backhand/index.md
+          - Serve: fundamentals/strokes/serve/index.md
+          - Return of Serve: fundamentals/strokes/return-of-serve/index.md
+          - Volley: fundamentals/strokes/volley/index.md
+          - Overhead: fundamentals/strokes/overhead/index.md
+          - Slice: fundamentals/strokes/slice/index.md
+          - Drop Shot & Lob: fundamentals/strokes/drop-shot-lob/index.md
+          - Approach Shot: fundamentals/strokes/approach-shot/index.md
+      - Grips: fundamentals/grips/index.md
+      - Footwork Patterns: fundamentals/footwork-patterns/index.md
+      - Court Positioning: fundamentals/court-positioning/index.md
+      - Balance & Rhythm: fundamentals/balance-rhythm/index.md
+      - Teaching Systems: fundamentals/teaching-systems/index.md
+      - Classic Lessons: fundamentals/classic-lessons/index.md
+      - Famous Coaches: fundamentals/famous-coaches/index.md
+      - High Performance: fundamentals/high-performance/index.md
+      - Mental Game: fundamentals/mental-game/index.md
+      - Physical Training: fundamentals/physical-training/index.md
+      - Strategy: fundamentals/strategy/index.md
+      - Ultimate Drill Games: fundamentals/ultimate-drill-games/index.md
+      - Ultimate Fundamentals: fundamentals/ultimate-fundamentals/index.md
+  - More:
+      - Tennis Science: more/tennis-science/index.md
+  - Stroke Analysis:
+      - Advanced Tennis: stroke-analysis/advanced-tennis/index.md
+      - Biomechanics: stroke-analysis/biomechanics/index.md
+      - The Heavy Ball: stroke-analysis/the-heavy-ball/index.md
+      - Tour Strokes: stroke-analysis/tour-strokes/index.md
+      - Your Strokes: stroke-analysis/your-strokes/index.md
+  - New Issue: new-issue/index.md
+  - Foundation:
+      - Overview: foundation/index.md
+      - Basics: foundation/basics/index.md
+      - Deep Dives: foundation/deep-dives/index.md
+  - Advanced:
+      - Overview: advanced/index.md
+      - Deep Dives: advanced/deep-dives/index.md
+      - Manuals: advanced/manuals/index.md
+  - Elite:
+      - Overview: elite/index.md
+      - Deep Dives: elite/deep-dives/index.md
+      - Manual: elite/manual/index.md
+  - Anatomy Lab: anatomy-lab/index.md
+  - Angle Atlas: angle-atlas/index.md
+  - Reference Library:
+      - Coauthored Books: reference-library/coauthored-books/index.md
+      - Technical Reference: reference-library/technical-reference/index.md
+      - Training Programs: reference-library/training-programs/index.md
+      - Player Profiles: reference-library/player-profiles/index.md
+      - Rivalry Analyses: reference-library/rivalry-analyses/index.md
+      - Tennis Lexicon: reference-library/tennis-lexicon/index.md
+      - Visual Library: reference-library/visual-library/index.md
+  - Tennis Wiki Reference:
+      - Grip: tennis-wiki-reference/grip/index.md
+      - Forehand: tennis-wiki-reference/forehand/index.md
+      - Backhand: tennis-wiki-reference/backhand/index.md
+      - Serve: tennis-wiki-reference/serve/index.md
+      - Return: tennis-wiki-reference/return/index.md
+      - Volley: tennis-wiki-reference/volley/index.md
+      - Footwork: tennis-wiki-reference/footwork/index.md
+      - Lob & Overhead: tennis-wiki-reference/lob-overhead/index.md
+      - Tactics: tennis-wiki-reference/tactics/index.md
+      - Pressure & Neurology: tennis-wiki-reference/pressure-neurology/index.md
+  - Specialty Shots: specialty-shots/index.md
+  - Doubles: doubles/index.md
+  - Biomechanics & Neurology: biomechanics-neurology/index.md
