@@ -1,4 +1,5 @@
 site_name: Tennis Unified Library
+use_directory_urls: false
 site_description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Foundation/Advanced/Elite, Anatomy Lab, Angle Atlas, Reference Library, and more
 site_author: Henry Pham
 copyright: © 2026 Henry Phạm Đức · Tennis Future Lab Research · All contents are for educational purpose.
