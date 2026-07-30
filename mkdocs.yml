@@ -172,7 +172,9 @@ nav:
   - Home: index.md
   - Fundamentals:
       - Overview: fundamentals/index.md
-      - Footwork: fundamentals/footwork/index.md
+      - Footwork:
+          - Overview: fundamentals/footwork/index.md
+          - Contact Moves Introduction: fundamentals/footwork/return-of-serve-contact-moves-introduction.md
       - Strokes:
           - Overview: fundamentals/strokes/index.md
           - Forehand: fundamentals/strokes/forehand/index.md
