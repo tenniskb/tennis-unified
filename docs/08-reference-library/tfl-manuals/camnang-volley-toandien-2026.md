@@ -139,15 +139,14 @@ Nguyên lý Proximal-to-Distal Sequencing mô tả sự tăng tốc và giảm t
 tuần tự của các bộ phận cơ thể, bắt đầu từ các khối cơ lớn ở trung tâm
 và kết thúc ở các bộ phận nhẹ, ngoại vi.
 
-+--------------------------------------------------------------------+
-| **Chuỗi truyền tải tối ưu:**                                       |
-+--------------------------------------------------------------------+
-| **Vùng chậu → Thân mình → Vai → Cánh tay trên → Cẳng tay → Vợt**   |
-|                                                                    |
-| *Điểm mấu chốt: Các tay vợt Elite đạt vận tốc hông tối đa TRƯỚC    |
-| khi tiếp xúc bóng, sau đó \"phanh\" hông lại để tạo hiệu ứng quất  |
-| roi cho phần thân trên.*                                           |
-+--------------------------------------------------------------------+
+| **Chuỗi truyền tải tối ưu:** |
+| --- |
+| **Vùng chậu → Thân mình → Vai → Cánh tay trên → Cẳng tay → Vợt** |
+|  |
+| *Điểm mấu chốt: Các tay vợt Elite đạt vận tốc hông tối đa TRƯỚC |
+| khi tiếp xúc bóng, sau đó \"phanh\" hông lại để tạo hiệu ứng quất |
+| roi cho phần thân trên.* |
+
 
 **Benchmark: Sinner vs. Alcaraz**
 
@@ -331,21 +330,20 @@ thoại giữa cẳng tay và trục vợt:
 - Công thức tay cầm lý tưởng: Soft hand + Firm wrist + Slightly open
   face + Short slice = A volley you can PLACE, not just block.
 
-+--------------------------------------------------------------------+
-| **Phân tích kỹ thuật Volley của Roger Federer:**                   |
-+--------------------------------------------------------------------+
-| • Chuẩn bị gọn gàng: Hầu như không có backswing -- chỉ xoay phần   |
-| thân trên và đưa vợt vào vị trí.                                   |
-|                                                                    |
-| • Góc mặt vợt: Chỉ hơi mở khi tiếp xúc, chỉ vài độ -- không mở     |
-| nhiều như người nghiệp dư nghĩ.                                    |
-|                                                                    |
-| • Đường vung: Di chuyển vợt qua phần sau của bóng trên mặt phẳng   |
-| ngang, tạo underspin sắc bén.                                      |
-|                                                                    |
-| • Grip: Sử dụng grip \"giữa Continental và Eastern forehand\" để   |
-| duy trì ổn định cổ tay.                                            |
-+--------------------------------------------------------------------+
+| **Phân tích kỹ thuật Volley của Roger Federer:** |
+| --- |
+| • Chuẩn bị gọn gàng: Hầu như không có backswing -- chỉ xoay phần |
+| thân trên và đưa vợt vào vị trí. |
+|  |
+| • Góc mặt vợt: Chỉ hơi mở khi tiếp xúc, chỉ vài độ -- không mở |
+| nhiều như người nghiệp dư nghĩ. |
+|  |
+| • Đường vung: Di chuyển vợt qua phần sau của bóng trên mặt phẳng |
+| ngang, tạo underspin sắc bén. |
+|  |
+| • Grip: Sử dụng grip \"giữa Continental và Eastern forehand\" để |
+| duy trì ổn định cổ tay. |
+
 
 **PHẦN II: KỸ THUẬT CƠ BẢN VOLLEY**
 
@@ -380,17 +378,16 @@ Split Step là động tác nảy nhẹ bằng hai chân đúng lúc đối th�
 bóng. Đây là \"công tắc\" kích hoạt toàn bộ hệ thần kinh vận động để
 phản ứng tức thì.
 
-+--------------------------------------------------------------------+
-| **3 thời điểm quan trọng của Split Step:**                         |
-+--------------------------------------------------------------------+
-| 7.  LOAD: Khi đối thủ đưa vợt ra sau -- bắt đầu nảy nhẹ.           |
-|                                                                    |
+| **3 thời điểm quan trọng của Split Step:** |
+| --- |
+| 7.  LOAD: Khi đối thủ đưa vợt ra sau -- bắt đầu nảy nhẹ. |
+|  |
 | 8.  SPLIT: Đúng lúc đối thủ tiếp xúc bóng -- hai chân tiếp đất nhẹ |
-|     nhàng.                                                         |
-|                                                                    |
-| 9.  REACT: Ngay sau khi xác định hướng bóng -- bước đầu tiên dứt   |
-|     khoát vào hướng bóng.                                          |
-+--------------------------------------------------------------------+
+| nhàng. |
+|  |
+| 9.  REACT: Ngay sau khi xác định hướng bóng -- bước đầu tiên dứt |
+| khoát vào hướng bóng. |
+
 
 **3.3. Bước Chân Tiếp Xúc (Contact Step)**
 
@@ -922,18 +919,17 @@ kiểm soát tâm lý.
                                      lên lưới theo approach shot.
   ---------------------- ----------- ----------------------------------
 
-+--------------------------------------------------------------------+
-| **KPI Đánh Giá Tiến Độ Sau 4 Tuần:**                               |
-+--------------------------------------------------------------------+
+| **KPI Đánh Giá Tiến Độ Sau 4 Tuần:** |
+| --- |
 | Kỹ thuật: 80%+ Volley có underspin kiểm soát được (không bổng hoặc |
-| ngắn)                                                              |
-|                                                                    |
-| Chiến thuật: Consistently vào vị trí bisector sau mỗi Volley       |
-|                                                                    |
-| Tâm lý: Tự tin lên lưới trong 70%+ tình huống approach có cơ hội   |
-|                                                                    |
-| Thể lực: Không mệt mỏi sau 3 set doubles với 1 tiếng nghỉ giữa     |
-+--------------------------------------------------------------------+
+| ngắn) |
+|  |
+| Chiến thuật: Consistently vào vị trí bisector sau mỗi Volley |
+|  |
+| Tâm lý: Tự tin lên lưới trong 70%+ tình huống approach có cơ hội |
+|  |
+| Thể lực: Không mệt mỏi sau 3 set doubles với 1 tiếng nghỉ giữa |
+
 
 **Lời Kết**
 

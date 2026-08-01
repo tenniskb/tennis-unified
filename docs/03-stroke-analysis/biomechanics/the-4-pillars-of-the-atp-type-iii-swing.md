@@ -39,8 +39,7 @@ will try to explain the pillars in more conventional teaching language.
 Hopefully the two reinforce each other!
 
 ![A person playing tennis Description automatically
-generated](media_the-4-pillars-of-the-atp-type-iii-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-4-pillars-of-the-atp-type-iii-swing/media/image1.webp)
 
 **What are the key components not in some so-called ATP forehands, but
 in the Type III swing?**
@@ -165,21 +164,20 @@ concepts to the video analysis of some current players in the next
 article. These players will represent a diverse cross-section of
 forehand options in the professional realm. Should be interesting!
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                 | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-4-pillars-of-the-atp-type-iii-swing/media/image6.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                              | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                              | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                              | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                              | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                              | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                              | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                              | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                              |                                                               |
-|                                                                                                                                                                                              | To visit his website, [**[Click                               |
-|                                                                                                                                                                                              | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                              |                                                               |
-|                                                                                                                                                                                              | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                              | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+==============================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-4-pillars-of-the-atp-type-iii-swing/media/image6.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

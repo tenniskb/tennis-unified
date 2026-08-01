@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A football player throwing a football Description automatically
-generated](media_flowing-in-the-zone/media/image1.jpg){width="4.861111111111111in"
-height="4.416666666666667in"}
+generated](media_flowing-in-the-zone/media/image1.jpg)
 
 **Tom Brady seems to live in a state of flow.**
 
@@ -14,7 +13,7 @@ You perform in the zone when you are performing at your best and it
 seems to come without great or deliberate effort. Another name for the
 zone is flow state.
 
-One great example isTom Brady, the New England Patriots\' great
+One great example isTom Brady, the New England Patriots' great
 quarterback, who appears to always be in a flow state. His progressions
 in looking for the open receiver seem to happen automatically.
 
@@ -25,7 +24,7 @@ maintained his high level of play without much \"effort.\"
 
 The idea of \"flow\" or being \"in the zone\" is associated with what
 Jim Loehr first called the ideal performance state. ([Click
-Here](The%20Ideal%20Performance%20State.docx).) It\'s a state of
+Here](The%20Ideal%20Performance%20State.docx).) It's a state of
 effortless effort and complete focus.
 
 Here are some characteristics of being in the zone or being in a state
@@ -39,8 +38,7 @@ If a player experiences these, he stands a good chance of reaching his
 ideal performance state on a regular basis.
 
 ![A person playing tennis Description automatically
-generated](media_flowing-in-the-zone/media/image2.jpg){width="2.6041666666666665in"
-height="3.7604166666666665in"}
+generated](media_flowing-in-the-zone/media/image2.jpg)
 
 **Roger Federer: still effortless after all these years.**
 
@@ -48,7 +46,7 @@ height="3.7604166666666665in"}
 
 Getting into the zone is easier described than achieved. Getting there
 means allowing yourself to get there, rather than trying to get there.
-But let\'s outline some of the many processes that can help you let the
+But let's outline some of the many processes that can help you let the
 zone happen.
 
 **[[First, develop a regular pregame warm up. It should be dynamic and
@@ -77,8 +75,7 @@ yourself that can help lead you into the zone.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_flowing-in-the-zone/media/image3.jpg){width="3.4in"
-height="5.004803149606299in"}
+confidence](media_flowing-in-the-zone/media/image3.jpg)
 
 **Many or even most players wrestle with negative thinking.**
 
@@ -96,7 +93,7 @@ take you out of the moment.
 Too much thinking causes confusion and takes you away from a zone
 experience. How often do you wrestle with telling yourself to stop
 negative thinking and replace it with positive thinking, yet your
-feelings don\'t comply?
+feelings don't comply?
 
 In his book The Path of No Resistance, Garret Kramer states, \"Only when
 your mind is free from the burden of trying to find mental clarity does
@@ -109,14 +106,13 @@ beyond your control. Inside-out thinking is when you chose what thoughts
 to believe and act on and let your feelings follow these
 thoughts.]{.mark}]{.underline}**
 
-We all have random and uncontrollable thoughts every day. They can\'t be
+We all have random and uncontrollable thoughts every day. They can't be
 stopped by some act of will. But we can choose which thoughts we believe
 and act on.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_flowing-in-the-zone/media/image4.jpg){width="3.6458333333333335in"
-height="3.8333333333333335in"}
+confidence](media_flowing-in-the-zone/media/image4.jpg)
 
 **Focusing on negative thoughts leads to negative feelings.**
 
@@ -125,7 +121,7 @@ we give attention to and the feelings they elicit affect our ability to
 get into the zone.]{.mark}]{.underline}**
 
 Our feelings are not something we can always turn on or off on command.
-But each human being has an innate ability to self-correct. You don\'t
+But each human being has an innate ability to self-correct. You don't
 have to try to correct your counterproductive feelings to get into the
 zone. You can trust your inner self to clear them out naturally, by
 letting your feelings follow positive thoughts.
@@ -147,8 +143,7 @@ A quarterback may use imagery to review his progressions while on the
 sideline before taking the field.
 
 ![A baseball player hitting a ball with a bat Description automatically
-generated](media_flowing-in-the-zone/media/image5.jpg){width="3.8194444444444446in"
-height="3.9583333333333335in"}
+generated](media_flowing-in-the-zone/media/image5.jpg)
 
 **Hitters can visualize before swinging.**
 
@@ -178,8 +173,7 @@ negative energy.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_flowing-in-the-zone/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_flowing-in-the-zone/media/image6.webp)
 
 **Visualize the path of the shot before striking the ball.**
 
@@ -192,7 +186,7 @@ visualize yourself overcoming these barriers.
 **Positive Attitude toward Pressure**
 
 **[[Athletes spend relatively little time practicing under pressure.
-Part of this is because it\'s hard to simulate genuine pressure
+Part of this is because it's hard to simulate genuine pressure
 situations in practice. But there are things you can do to gain
 simulated experience dealing with pressure.]{.mark}]{.underline}**
 
@@ -207,12 +201,11 @@ prepared]{.underline}]{.mark}** **[[mentally and emotionally to handle
 the real conditions.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_flowing-in-the-zone/media/image7.jpg){width="3.6458333333333335in"
-height="3.0625in"}
+generated](media_flowing-in-the-zone/media/image7.jpg)
 
 **Can you develop a positive attitude toward pressure?**
 
-Some great examples are the type of drill games in Jorge Capestany\'s
+Some great examples are the type of drill games in Jorge Capestany's
 series on Tennisplayer ([Click
 Here](https://www.tennisplayer.net/members/ultimate_fundamentals/jorge_capestany/horse/).)
 You can also set up actual on court scenarios based on your If Then
@@ -230,15 +223,14 @@ handle pressure situations on match day. It will also give you an
 opportunity to develop a positive attitude toward pressure situations by
 working on them systematically in practice.
 
-Follow some or all of the suggestions above and see if they don\'t help
+Follow some or all of the suggestions above and see if they don't help
 you get into the zone more often and more naturally.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_flowing-in-the-zone/media/image8.jpeg){width="1.7215277777777778in"
-height="2.3652777777777776in"}
+confidence](media_flowing-in-the-zone/media/image8.jpeg)
 
-Ben Loeb has been the varsity tennis coach for the boys\' and girls\'
+Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
 years. His teams have won more than 1000 dual matches, made 38
 appearances in the final four of the state team championships, and won
@@ -248,12 +240,11 @@ to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
 ![A cover of a book Description automatically generated with medium
-confidence](media_flowing-in-the-zone/media/image9.jpeg){width="1.8263888888888888in"
-height="2.6in"}
+confidence](media_flowing-in-the-zone/media/image9.jpeg)
 
 **Next-Level Coaching!**
 
-Ben\'s new book, Next-Level Coaching, outlines the principles he has
+Ben's new book, Next-Level Coaching, outlines the principles he has
 developed over his career as a player and a championship coach to help
 overcome the mental and emotional challenges of playing and enjoying
 competitive tennis. It includes detailed self-assessment questionnaires

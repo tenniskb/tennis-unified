@@ -6,10 +6,9 @@
 
 ![A baseball player holding a bat Description automatically generated
 with medium
-confidence](media_using-statistics-in-coaching/media/image1.jpg){width="4.166666666666667in"
-height="2.763888888888889in"}
+confidence](media_using-statistics-in-coaching/media/image1.jpg)
 
-**What didn\'t Mickey Mantle understand about baseball?**
+**What didn't Mickey Mantle understand about baseball?**
 
 Over the last 70 years, statistics have exploded in sports at all
 levels\--in high school, in college and especially in professional
@@ -18,13 +17,13 @@ the pro golf tours be without all the data they collect?
 
 In tennis we have Roger Federer, Novak Djokovic, Alexander Zverev, Andy
 Murray and many WTA players paying companies like Tennis Analytics,
-Golden Set Analytics, or Craig O\'Shannessy, and others to study both
-their own and their opponent\'s statistics.
+Golden Set Analytics, or Craig O'Shannessy, and others to study both
+their own and their opponent's statistics.
 
 Data collection can be important for every level of athlete no matter
 what sport. As Mickey Mantle once said about baseball when he began to
-learn about statistics: \"It\'s unbelievable how much you don\'t know
-about a game you\'ve played all your life.\"
+learn about statistics: \"It's unbelievable how much you don't know
+about a game you've played all your life.\"
 
 **The Same Page**
 
@@ -34,8 +33,7 @@ can quantify it. This way the whole team has solid data to help make
 decisions.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_using-statistics-in-coaching/media/image2.png){width="3.6770833333333335in"
-height="1.8333333333333333in"}
+generated](media_using-statistics-in-coaching/media/image2.png)
 
 **Statistics in junior tennis can put the whole team on the same page.**
 
@@ -44,7 +42,7 @@ services. Many coaches use past experiences that were successful to mold
 students. But how do we really know that the player is maximizing
 improvement?
 
-Early on in an athlete\'s career, it is more important than ever to make
+Early on in an athlete's career, it is more important than ever to make
 sure that they are on a path to succeed. Data collection can support
 decisions regarding strokes, tactics, and fitness.
 
@@ -55,28 +53,27 @@ coach on the same page.
 
 The team can immediately see if a change is working. It takes
 indecisiveness out of shot selection. The team can measure long term
-trends in the player\'s game. It improves communication in the team.
+trends in the player's game. It improves communication in the team.
 Furthermore scouting with statistics eliminates hunches and guessing
 about opponents. Everyone learns why a player wins or loses a specific
 match.
 
 **The History**
 
-Let\'s take a look at the history of data collection in tennis. Then I
+Let's take a look at the history of data collection in tennis. Then I
 will introduce a new app I have created that can allow any player and
 coach at any level to develop a statistical picture, either for free or
 a more detailed picture for minimal additional cost.
 
 ![A person sitting at a desk with a computer Description automatically
 generated with medium
-confidence](media_using-statistics-in-coaching/media/image3.jpg){width="4.861111111111111in"
-height="3.5277777777777777in"}
+confidence](media_using-statistics-in-coaching/media/image3.jpg)
 
 **Bill Jacobson with the original CompuTennis scoring computer.**
 
 I know that John Yandell has believed in the use of statistics for many
 years, so I want to thank him for allowing me to talk about the subject
-and to introduce my new app on Tennisplayer. We\'ll also talk about what
+and to introduce my new app on Tennisplayer. We'll also talk about what
 his match charting showed in pro tennis and junior tennis.
 
 In tennis the beginning of the statistics revolution goes back to a
@@ -96,21 +93,20 @@ player, Roger Federer.
 **CompuTennis**
 
 Soon after Old retired, a South African tennis player turned geophysical
-engineer, Bill Jacobson, started hand charting his son\'s tennis game.
+engineer, Bill Jacobson, started hand charting his son's tennis game.
 The advent of portable computers was just coming about and he designed a
 four pound laptop to allow a scorer to enter key match information. He
 founded a company based on this new technology and named it CompuTennis.
 
 ![A person holding a trophy Description automatically
-generated](media_using-statistics-in-coaching/media/image4.jpg){width="4.861111111111111in"
-height="3.9722222222222223in"}
+generated](media_using-statistics-in-coaching/media/image4.jpg)
 
 **CompuTennis tracked every John McEnroe match when he won the U.S. Open
 in 1984.**
 
 Eventually top players, colleges, tennis associations, and coaches
-started using Bill\'s information. Dennis Ralston and John Newcombe,
-among others, used CompuTennis in coaching to evaluate players\'
+started using Bill's information. Dennis Ralston and John Newcombe,
+among others, used CompuTennis in coaching to evaluate players'
 strengths and weaknesses.
 
 In August 1983, for the first time, live match data was fed online to a
@@ -125,7 +121,7 @@ that most of us see on TV, used universally by the WTA and ATP.
 
 In 1984, NBC used CompuTennis to score the French Open and Wimbledon for
 TV. Arthur Ashe used CompuTennis with his Davis Cup team. All of John
-McEnroe\'s matches were charted at the U.S. Open the same year.
+McEnroe's matches were charted at the U.S. Open the same year.
 
 At this point the number of tennis players using CompuTennis passed the
 1000 mark. Starting in 1985 the TV networks used CompuTennis for 4
@@ -140,8 +136,7 @@ errors less unforced errors.
 
 ![A couple of men holding a trophy Description automatically generated
 with low
-confidence](media_using-statistics-in-coaching/media/image5.jpg){width="4.166666666666667in"
-height="3.9305555555555554in"}
+confidence](media_using-statistics-in-coaching/media/image5.jpg)
 
 **How did Federer really win the historic 2006 Wimbledon final?**
 
@@ -171,7 +166,7 @@ might conclude Rafa was the winner.
 
 So how did Roger win in 4 sets? Forced Errors. Nadal pressured Federer
 into 38 forced errors. But Roger pressured Rafa into 61 unforced errors.
-That\'s a huge 23 point difference.
+That's a huge 23 point difference.
 
 This difference is the key to understanding the match. When you add in
 the forced errors, Federer actually won a total of 133 points---20 more
@@ -179,22 +174,21 @@ total points than Nadal.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_using-statistics-in-coaching/media/image6.jpg){width="4.166666666666667in"
-height="2.986111111111111in"}
+confidence](media_using-statistics-in-coaching/media/image6.jpg)
 
 **Statistics are important or more important at all levels below pro
 tennis.**
 
 If we look at the Aggressive Margin for the match, adding together
-winners and forced errors and then subtracting unforced errors, Roger\'s
-Aggressive Margin for the match was +71. Rafa\'s was +51.
+winners and forced errors and then subtracting unforced errors, Roger's
+Aggressive Margin for the match was +71. Rafa's was +51.
 
 This explains the 20 point difference. Without knowing the unforced
 errors and how that affected the Aggressive Margin, the results based on
 statistics can be incomplete and puzzling.
 
-To this day, television statistics don\'t reflect forced errors. Craig
-O\'Shannessy recently published a piece on Tennisplayer about the
+To this day, television statistics don't reflect forced errors. Craig
+O'Shannessy recently published a piece on Tennisplayer about the
 importance of this overlooked statistic. ([Click
 Here](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/forced_error/).)
 
@@ -206,8 +200,8 @@ stroke in the classic 2001 U.S. Open final between Pete Sampras and
 Andre Agassi. ([Click
 Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Aggressive_Margin_images/Yandell_Aggressive_Margin.html).)
 
-But the Aggressive Margin isn\'t just a statistic that\'s relevant in
-pro matches. It\'s as important, if not more important at all lower
+But the Aggressive Margin isn't just a statistic that's relevant in
+pro matches. It's as important, if not more important at all lower
 levels, where players are often clueless about how they win and lose
 points. In a final article in his series on statistics, John showed this
 by breaking down matches won and lost for a top player on his high
@@ -216,17 +210,16 @@ Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_s
 
 **CompuTennis Continued**
 
-Living in England at the time I showed teaching pros how to use Bill\'s
+Living in England at the time I showed teaching pros how to use Bill's
 CompuTennis scoring system, and worked personally with many players at
 all levels, including a player named Sara Gomer, helping her to reach #2
 in the United Kingdom.
 
 ![A person holding a sign Description automatically generated with
 medium
-confidence](media_using-statistics-in-coaching/media/image7.jpg){width="2.5555555555555554in"
-height="3.5555555555555554in"}
+confidence](media_using-statistics-in-coaching/media/image7.jpg)
 
-**In 2015 Bill Jacobson\'s contributions were recognized when he was
+**In 2015 Bill Jacobson's contributions were recognized when he was
 voted in the USTA Norcal Hall of Fame.**
 
 At about this time, Bill had gotten contracts to do TV stats for
@@ -240,9 +233,9 @@ Arthur Ashe and Barry MacKay.
 
 That deal lasted for 4 years. In 1991, IBM, now a major TV sponsor,
 looked at CompuTennis and some competitors to continue doing stats at
-the Grand Slam tournaments. But for reasons that weren\'t clear, IBM
-didn\'t choose to continue with Bill and instead IBM ended up doing a
-deal with one of Bill\'s scorers, Leo Levin, who incorrectly claimed to
+the Grand Slam tournaments. But for reasons that weren't clear, IBM
+didn't choose to continue with Bill and instead IBM ended up doing a
+deal with one of Bill's scorers, Leo Levin, who incorrectly claimed to
 be the father of modern tennis statistics.
 
 CompuTennis ended up closing in the mid 90s, and Bill Jacobson began
@@ -254,19 +247,18 @@ the game.
 
 The inspiration for my work is to carry on the revolution Bill Jacobson
 started and to help players at all levels benefit from the same
-information used by the world\'s best players. To do this I have created
+information used by the world's best players. To do this I have created
 an app called RacketStats, with both a free and a paid version. ([Click
 Here](https://racketstats.com/).)
 
 To show how RacketStats works, next month I will present and analyze the
-statistics from the recent French Open women\'s final between Sofia
+statistics from the recent French Open women's final between Sofia
 Kenin and Iga Swiatek. I will also explain how this kind of analysis can
 apply to all the other levels.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_using-statistics-in-coaching/media/image8.jpeg){width="2.34375in"
-height="2.2083333333333335in"}
+confidence](media_using-statistics-in-coaching/media/image8.jpeg)
 
 Andy Durham is the founder of RacketStats.com, an app allowing parents,
 players and coaches an easy system to chart and get access to vital

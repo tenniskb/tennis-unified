@@ -6,15 +6,14 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-totally-against-you/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-totally-against-you/media/image1.webp)
 
 **When momentum is totally against you it can lead to mental and
 physical negativity, even at the pro level.**
 
 When the momentum is totally against you, it is the easiest thing in the
-world to believe it\'s just not your day. At one point you were up a
-set. But now you\'re 4-1 down in the third. We\'ve all been there. For
+world to believe it's just not your day. At one point you were up a
+set. But now you're 4-1 down in the third. We've all been there. For
 most players it seems that the hill is too big to climb.
 
 They conclude that the flow of the match is irreversibly with the
@@ -31,26 +30,25 @@ course of a match.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person in a tank top Description automatically generated with medium
-   confidence](media_when-momentum-is-totally-against-you/media/image2.jpg){width="2.0833333333333335in"
-                                                                              height="2.8958333333333335in"}
+   confidence](media_when-momentum-is-totally-against-you/media/image2.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **Champions know matches can turn around from \"impossible situations.\"**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you can shift the momentum to a different stage, the match can start
-to change before your eyes. Miracle comebacks aren\'t actually miracles.
+to change before your eyes. Miracle comebacks aren't actually miracles.
 They are the inevitable result of shifting and controlling momentum. The
 object should not be the comeback itself. The object should be to turn
 around the underlying dynamics that control the outcome. Still, changing
 momentum from this stage is the most difficult transition in tennis.
-It\'s mentally tougher than moving up a stage at any other time. But if
+It's mentally tougher than moving up a stage at any other time. But if
 you can recover from the stage where momentum is totally against you,
 then turning points may emerge. The match may subtly begin to turn
 around, and the nerves of your opponent may start to work in your favour
 instead of the other way around.
 
-**Don\'t Lose Hope**
+**Don't Lose Hope**
 
 **[[The most important thing when the momentum is totally against you,
 is not to lose hope.]{.underline}]{.mark}** It is not easily done,
@@ -63,8 +61,7 @@ chance of turning things around.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person wearing a white shirt Description automatically generated with medium
-   confidence](media_when-momentum-is-totally-against-you/media/image3.jpg){width="2.0833333333333335in"
-                                                                                    height="2.65625in"}
+   confidence](media_when-momentum-is-totally-against-you/media/image3.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   **Moving momentum when you are far behind is mentally tougher than at any other time.**
 
@@ -72,34 +69,33 @@ chance of turning things around.
 
 Your opponent may seem to be playing too well for you to have a chance
 of victory, but you should remember how easy it is to play well when the
-momentum is totally with you. It is the same for them. They won\'t be as
+momentum is totally with you. It is the same for them. They won't be as
 good when the momentum has shifted.
 
 The road to making a comeback is steep at first but it will get easier
 if you can dig in and get a foothold. Once you have stuck in and begun
 to make a comeback, two factors will work in your favour: you will begin
-to feel better and your opponent will dislike the fact that it\'s not as
+to feel better and your opponent will dislike the fact that it's not as
 easy as it was. This double change in energy gives the best conditions
 for a change in the flow of the match.
 
 **Take Your Time**
 
 When the momentum is totally against you, take your time. Let the steam
-go out of your opponent\'s game. You have to take the time allowed and
+go out of your opponent's game. You have to take the time allowed and
 find some way of getting points on the scoreboard. Momentum in this
 situation tends to change slowly, and you have to build the foundations
 for a change.
 
 ![A picture containing text, tennis, person, sport Description
 automatically
-generated](media_when-momentum-is-totally-against-you/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_when-momentum-is-totally-against-you/media/image4.webp)\
 **Giving up hope means giving up the chance of changing momentum.**
 
 **[[Playing one point at a time is very
 important.]{.underline}]{.mark}** When you are well behind in momentum,
 it is not possible just to collect points quickly like you can when you
-are in the lead. It\'s a bit like trying to get out of a pit. Put great
+are in the lead. It's a bit like trying to get out of a pit. Put great
 emphasis on every step.
 
 **[\
@@ -120,13 +116,13 @@ a potential turning point that occurs when you are not so far behind in
 the momentum.
 
 It is particularly important not to lose hope when you are tired. You
-never know how tired your opponent is as well. Don\'t let things slide.
+never know how tired your opponent is as well. Don't let things slide.
 Stay in touch with the score by trying to win the first point of each
 game and taking each point one at a time.
 
 **Have a Cunning Plan**
 
-Here\'s an interesting ploy: If you are a set up, but well behind in the
+Here's an interesting ploy: If you are a set up, but well behind in the
 second set of a three-set match, you might consider the effect of
 starting the final set fresh, having had a set in which you can, as it
 were, take a break from the tactics and intensity of play which won you
@@ -134,8 +130,7 @@ the first set.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-totally-against-you/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-totally-against-you/media/image5.webp)
 
 **\"Exhibition Tennis\" can produce winners that move momentum.**
 
@@ -152,13 +147,12 @@ approach of exhibition tennis may allow you to unsettle your opponent
 with quick, spectacular one-off winners to get yourself quickly out of
 the momentum totally against you stage. It is then possible to revert to
 the strategy that won you the first set, knowing that you have got back
-the necessary momentum and that your opponent\'s nerves may become a
+the necessary momentum and that your opponent's nerves may become a
 factor as you continue your comeback.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person wearing a white shirt Description automatically generated with low
-   confidence](media_when-momentum-is-totally-against-you/media/image6.jpg){width="2.0833333333333335in"
-                                                                              height="3.6354166666666665in"}
+   confidence](media_when-momentum-is-totally-against-you/media/image6.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **The stages of momentum control the outcome\--not the score at a given moment.**
 
@@ -174,11 +168,11 @@ appear to have a life of your own. Therefore be wise. Realise there is
 always a strong chance that it will change.
 
 Let that knowledge give you hope when you are well behind. The key is to
-control your own mental energy and watch for signs of your opponent\'s
+control your own mental energy and watch for signs of your opponent's
 change in mental energy, particularly after obviously significant
 events.
 
-Remember what makes momentum turn: A change in your opponent\'s mental
+Remember what makes momentum turn: A change in your opponent's mental
 energy \-- either gradual or sudden. Or a change in your mental energy
 \-- either gradual or sudden. Remember it is the stage of momentum, not
 the score at the moment that will ultimately determine the outcome of
@@ -186,8 +180,7 @@ the match.
 
 ![A person with his eyes closed Description automatically generated with
 low
-confidence](media_when-momentum-is-totally-against-you/media/image7.jpeg){width="1.1215277777777777in"
-height="1.5215277777777778in"}
+confidence](media_when-momentum-is-totally-against-you/media/image7.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -200,8 +193,7 @@ study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
 ![Map Description automatically generated with low
-confidence](media_when-momentum-is-totally-against-you/media/image8.jpeg){width="1.04375in"
-height="1.4520833333333334in"}
+confidence](media_when-momentum-is-totally-against-you/media/image8.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

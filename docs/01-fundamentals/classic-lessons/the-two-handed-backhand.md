@@ -13,16 +13,15 @@ two-handed backhand.
 
 ![](media_the-two-handed-backhand/media/image1.wmf)
 
-**Hit \'Play\' to see the basic and advanced forehand.**
+**Hit 'Play' to see the basic and advanced forehand.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, posing Description automatically                                                                                                        Rich Berman has been playing tennis for over 50
-  generated](media_the-two-handed-backhand/media/image2.jpeg){width="1.5597222222222222in"   years, and teaching for over 40. A top ten ranked
-  height="2.0520833333333335in"}                                                                                                                                                 Southern California junior who competed against
+  generated](media_the-two-handed-backhand/media/image2.jpeg)                                                                                                                                                 Southern California junior who competed against
                                                                                                                                                                                  players including Stan Smith and Bob Lutz, Rich
                                                                                                                                                                                  went on to become an All-American at Cal State
-                                                                                                                                                                                 Long Beach. In the early 1980\'s he moved back to
-                                                                                                                                                                                 Colorado, founding Rich\'s Tennis School 1990,
+                                                                                                                                                                                 Long Beach. In the early 1980's he moved back to
+                                                                                                                                                                                 Colorado, founding Rich's Tennis School 1990,
                                                                                                                                                                                  where he has worked with hundreds of players at
                                                                                                                                                                                  all levels including nationally ranked juniors
                                                                                                                                                                                  and state high school champions. He is also the

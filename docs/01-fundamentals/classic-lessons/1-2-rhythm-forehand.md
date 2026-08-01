@@ -8,8 +8,7 @@
 
 ![A person running on a tennis court Description automatically generated
 with medium
-confidence](media_1-2-rhythm-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-forehand/media/image1.webp)
 
 **1-2 Rhythm: deliberate then explosive.**
 
@@ -24,7 +23,7 @@ the execution phase which is explosive and full of energy.
 
 1-2 Rhythm can help players improve their timing and their energy
 transfer into their shots. It applies across all strokes, and in this
-first article we\'ll see how that works on the forehand.
+first article we'll see how that works on the forehand.
 
 A commonality among elite players is exceptional rhythm. I have found
 that focusing on improving rhythm can work wonders for players of all
@@ -41,8 +40,7 @@ transition point. At this moment what are the key characteristics of the
 arms, legs, torso and racket?
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_1-2-rhythm-forehand/media/image2.jpg){width="6.5in"
-height="2.2597222222222224in"}
+confidence](media_1-2-rhythm-forehand/media/image2.jpg)
 
 **Elite English junior players and the differences in position at the
 completion of Phase 1**
@@ -54,13 +52,12 @@ often leads to better overall technique.
 
 **[[Phase 1: Smooth and Deliberate]{.underline}]{.mark}**
 
-So, let\'s identify the two phases in the forehand and the transition
+So, let's identify the two phases in the forehand and the transition
 point, when Phase 1 ends and Phase 2 begins.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_1-2-rhythm-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-forehand/media/image3.webp)
 
 **Phase 1: substantial backward racket movement with the racket head
 above the racket handle.**
@@ -91,8 +88,7 @@ relation to the baseline.]{.mark}]{.underline}**
 **[[Phase 2: Explosive]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-forehand/media/image4.webp)
 
 **Phase 2: watch the rate of the acceleration increase.**
 
@@ -126,8 +122,7 @@ feeling that the stroke should be flowing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_1-2-rhythm-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-forehand/media/image5.webp)
 
 **Phase 2: fueled in part by hip rotation**
 
@@ -159,8 +154,7 @@ students do shadow swings before hitting live balls.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_1-2-rhythm-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-forehand/media/image6.webp)
 
 **Phase 1 can last twice as long or more as Phase 2.**
 
@@ -195,8 +189,7 @@ clear 1-2 Rhythm but the timing and emphasis of the key words must be
 adapted to the reality of the shot the player is trying to hit.
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-forehand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-forehand/media/image7.webp)
 
 **Watch how Andy keeps his opposite hand on the frame to maintain 1-2
 Rhythm.**
@@ -222,28 +215,27 @@ The emphasis is on explosiveness through contact. The player however is
 focused on the simple keys of the 1-2 Rhythm without artificially
 attempting to create these benefits.
 
-So that\'s it for 1-2 Rhythm part 1. Stay tuned as we turn next to the
+So that's it for 1-2 Rhythm part 1. Stay tuned as we turn next to the
 backhand.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                            | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_1-2-rhythm-forehand/media/image8.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                          | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                         | competitions since formation, and over the last 2 |
-|                                                                                                                                                                         | years alone, his junior players have won 19       |
-|                                                                                                                                                                         | singles tournaments between them at county level. |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                         | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                         | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                         | players at all levels, including former British   |
-|                                                                                                                                                                         | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | His unique teaching video series, covering every  |
-|                                                                                                                                                                         | aspect of the game, is available on his website   |
-|                                                                                                                                                                         | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | You can also                                      |
-+=========================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_1-2-rhythm-forehand/media/image8.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also |
+
 
 ------------------------------------------------------------------------

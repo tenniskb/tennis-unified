@@ -74,4 +74,4 @@ description: John Yandell analyses — modern forehand/backhand, pro strokes, my
 
 ---
 
-**Start here:** [Modern Tennis Forehand Where Are We Now](john-yandell-modern-tennis-forehand-where-are-we-now.md) → [Your Forehand Series](john-yandell-your-forehand-and-the-modern-forehand.md) → [Djokovic Forehand](john-yandell-novak-djokovics-forehand-a-new-synthesis.md)
+**Start here:** [Modern Tennis Forehand Where Are We Now](../../03-stroke-analysis/advanced-tennis/john-yandell-modern-tennis-forehand-where-are-we-now.md) → [Your Forehand Series](../../03-stroke-analysis/advanced-tennis/john-yandell-your-forehand-and-the-modern-forehand.md) → [Djokovic Forehand](../../03-stroke-analysis/advanced-tennis/john-yandell-novak-djokovic-s-forehand-a-new-synthesis.md)

@@ -17,8 +17,7 @@ options when there are no others.
 
 ![A picture containing person, tree, outdoor, person Description
 automatically
-generated](media_responding-to-lobs/media/image2.jpeg){width="1.8243055555555556in"
-height="2.279861111111111in"}
+generated](media_responding-to-lobs/media/image2.jpeg)
 
 Leo Giraldi is originally from the Cannes area in the French Riviera,
 where he trained with world class French coach, Guy Lumbruso. He has

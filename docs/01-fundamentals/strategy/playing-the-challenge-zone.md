@@ -6,8 +6,7 @@
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_playing-the-challenge-zone/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_playing-the-challenge-zone/media/image1.webp)
 
 **How do you learn to play with confidence in the Challenge Zone?**
 
@@ -33,7 +32,7 @@ middle of the court, regardless whether the movement is forward or
 backward. That is simply a fact.
 
 The key to overcoming this limitation is embracing play the mid court
-area, including the dreaded no man\'s land. I prefer to call this area,
+area, including the dreaded no man's land. I prefer to call this area,
 the Challenge Zone. In this article I want to outline ways to develop
 your skills in the Challenge Zone and turn them from a weakness into a
 strength.
@@ -44,7 +43,7 @@ The solution is different thinking and different playing patterns.
 Playing in the Challenge Zone actually requires less court movement and
 coverage. However, you need to be much better at volleys, half-volleys
 and taking the ball out of the air. In order to adjust from traditional
-thinking and playing patterns it\'s imperative to practice different
+thinking and playing patterns it's imperative to practice different
 shots from these non-traditional position areas.
 
 I am not advocating abandoning traditional position play. I am
@@ -56,8 +55,8 @@ provide the most comprehensive game improvement for all levels and
 styles of play.
 
 A coach can learn a lot by listening to players comments. Normally they
-repeat advice\--and it\'s not incorrect---they have heard from coaches
-with traditional thinking. \"You should\'ve taken another step, you need
+repeat advice\--and it's not incorrect---they have heard from coaches
+with traditional thinking. \"You should've taken another step, you need
 to get closer to the net. This way balls will not be hit at your feet
 and you can attack the volley more quickly.\"
 
@@ -67,13 +66,13 @@ an average or a 60+ player thinking about retirement so you can play
 tennis more than one or two times a week, you need adjustment
 strategies.
 
-If the other team\'s favorite shots are the lob or chip and you are
+If the other team's favorite shots are the lob or chip and you are
 having trouble covering them when you are at the net, adjust by moving
-back to the service line. You\'re signaling the other team, now I am
+back to the service line. You're signaling the other team, now I am
 more difficult to lob\--go ahead try to hit at my feet. Your partner if
 he is in the backcourt also has to be ready to cover the short chip.
 This means coming in at least two steps or around the middle of no
-man\'s land to take the ball out of the air or to move up and cover the
+man's land to take the ball out of the air or to move up and cover the
 chip.
 
 If you are persuaded by this argument, you need to practice in a
@@ -84,8 +83,7 @@ four drills I have developed that will make the difference.
 
 ![A group of people play tennis Description automatically generated with
 medium
-confidence](media_playing-the-challenge-zone/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_playing-the-challenge-zone/media/image2.webp)
 
 **4 players at the service line hitting down the line, then the same
 drill crosscourt.**
@@ -107,27 +105,26 @@ keeping the ball low. Keep the ball low, and you control the show.
 Now progress to doing the same drill crosscourt. Do both directions 3
 minutes each. Make sure each player gets to play from each position.
 
-**Drill #2: One Team in No Man\'s Land**
+**Drill #2: One Team in No Man's Land**
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_playing-the-challenge-zone/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_playing-the-challenge-zone/media/image3.webp)
 
-**One team starts in no man\'s land and moves forward.**
+**One team starts in no man's land and moves forward.**
 
-In this drill, the fed players move back to the No Man\'s Land mid area
+In this drill, the fed players move back to the No Man's Land mid area
 between base and service line. The pro or feeder will again feed both
 players simultaneously. The players block, punch or push the ball down
 the line moving toward the service line ready to intercept. The
 opposition players are blocking the ball back down the line, trying to
-keep it low, as well . Don\'t back up, think forward. Then have the
+keep it low, as well . Don't back up, think forward. Then have the
 players switch sides Again make sure all 4 players drill from all 4
 positions.
 
-**Drill #3: No Man\'s Land: Short Ball**
+**Drill #3: No Man's Land: Short Ball**
 
-Next, all 4 players move back to the No Man\'s Land or Challenge Zone
+Next, all 4 players move back to the No Man's Land or Challenge Zone
 mid area. The feeder feeds a short down the line approach shot. The
 players hit a drive approach shot down the line and move forward. The
 opposite player is ready to block punch or push the ball back down the
@@ -135,15 +132,14 @@ line also moving forward.
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_playing-the-challenge-zone/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_playing-the-challenge-zone/media/image4.webp)
 
-**Now move both teams to No Man\'s Land. Feeds can be approach shots or
+**Now move both teams to No Man's Land. Feeds can be approach shots or
 hit in the air.**
 
-**Drill #4: No Man\'s Land: High Ball**
+**Drill #4: No Man's Land: High Ball**
 
-Drill #4 Again all 4 at the No Man\'s Land mid area, coach will feed a
+Drill #4 Again all 4 at the No Man's Land mid area, coach will feed a
 highball (to both sides). The players will take the ball out of the air,
 hitting down the alley and of course moving forward to the service line.
 The opposing player is response ready to block, punch or push the ball
@@ -151,21 +147,20 @@ back thinking defense.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_playing-the-challenge-zone/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_playing-the-challenge-zone/media/image1.webp)
 
-**Take a high ball in the air in no man\'s land and move forward.**
+**Take a high ball in the air in no man's land and move forward.**
 
 Initially when I do this drill, I often hear complaints. \"Why am I
-here, why can\'t I move up or back? Why are we doing this?\" Initially
+here, why can't I move up or back? Why are we doing this?\" Initially
 these positions can feel awkward because for years they have been
 considered tennis taboo. The goal is to change this thinking and develop
 confidence getting the ball back from anywhere on the court. There
-should be no place that you think you can\'t push block or punch the
+should be no place that you think you can't push block or punch the
 ball back into the court.
 
-One of my more timid players asked why it wouldn\'t be better to go
-behind the baseline if the opponent is going to smash the ball. \"Don\'t
+One of my more timid players asked why it wouldn't be better to go
+behind the baseline if the opponent is going to smash the ball. \"Don't
 you feel I would have less chance of being maimed?\"
 
 That is an OK position if the opponents only hit hard overheads. But if
@@ -182,8 +177,7 @@ results.
 Haley Thoresen.**
 
 ![A person holding a tennis racket Description automatically
-generated](media_playing-the-challenge-zone/media/image5.jpeg){width="1.5652777777777778in"
-height="2.061111111111111in"}
+generated](media_playing-the-challenge-zone/media/image5.jpeg)
 
 Ray Reppert has had a distinguished career in coaching at all levels. He
 stated as a high school coach, and then moved to the Port Washington

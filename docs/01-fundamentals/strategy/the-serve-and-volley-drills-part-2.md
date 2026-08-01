@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A picture containing outdoor, athletic game Description automatically
-generated](media_the-serve-and-volley-drills-part-2/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-serve-and-volley-drills-part-2/media/image1.webp)
 
 **The table not only allows you to practice serve and volley alone, it
 gives you a wide variety of \"returns.\"**
@@ -14,7 +13,7 @@ gives you a wide variety of \"returns.\"**
 In the last article we looked at three original drills I developed to
 incorporate serve and volley into your game ([Click
 Here](The%20Serve%20and%20Volley%20Drills%20Part%201.docx)), part of my
-comprehensive new series. Now let\'s follow up with two more!
+comprehensive new series. Now let's follow up with two more!
 
 **The Table**
 
@@ -29,7 +28,7 @@ my serve in front of the wall to create a realistic \"return.\"
 
 Overtime this inevitably led to bad service mechanics. So, I found a way
 to do it on the court, by placing a hard table (or two) around the
-service line in the receiver\'s service box.
+service line in the receiver's service box.
 
 The ball bounces in front of the table, hits it, and then rebounds at
 unpredictable angles back to the server. This allows the player to serve
@@ -38,7 +37,7 @@ importantly generate an unlimited number of these repetitions.
 
 One of the great benefits is that the \"returns\" vary so much depending
 on exactly where the serve lands, and how hard it strikes the table. You
-don\'t need a partner, and the table never misses a return.
+don't need a partner, and the table never misses a return.
 
 The table drill teaches the importance of timing, footwork, and
 explosiveness to the ball. It allows players to work on the critical
@@ -47,21 +46,21 @@ anywhere around the service box for target practice and can adjust the
 tilt angle of the table top by putting towels or a can or balls or a
 ball hopper under the legs.
 
-My students love this drill. It\'s one of the greatest ways I have found
+My students love this drill. It's one of the greatest ways I have found
 to build real confidence in the attacking game.
 
 I have my students play games in which I designate a specific area to
 hit the first volley. One point if they make the location, one point to
-the table if they don\'t. I have them play games or even entire sets.
+the table if they don't. I have them play games or even entire sets.
 
 Two players can also play against each other, taking turns serving to
 see who be the first to \"win\" 10 points with the correct placement.
-Despite it\'s surprising returning prowess, nobody wants to lose to a
+Despite it's surprising returning prowess, nobody wants to lose to a
 table!
 
 **3 Variations**
 
-It\'s important for players to realize that playing serve and volley
+It's important for players to realize that playing serve and volley
 requires dealing with a wide variety of return balls. The volleys you
 must hit depend on the quality of your serve, the location of your
 serve, and the ability of returner.
@@ -73,8 +72,7 @@ frustrated and/or not prepared.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-serve-and-volley-drills-part-2/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-serve-and-volley-drills-part-2/media/image2.webp)
 
 **The 3 Variations Drill game teaches consistency, patience, and mental
 toughness.**
@@ -82,7 +80,7 @@ toughness.**
 You have to understand that one reason serve and volley works is the
 cumulative pressure it inflicts over the course of a match.
 
-It\'s important not to allow the returner\'s defensive skills to upset
+It's important not to allow the returner's defensive skills to upset
 you. This drill teaches players patience and mental toughness because it
 requires players to hit three different shots to win a single point: a
 swinging volley, a regular volley, and an overhead. .
@@ -99,9 +97,9 @@ Meanwhile the returner scores a point winning any one of the three
 exchanges. I like to play until one player wins 15 points. This builds
 stamina as well as mental and physical skills.
 
-When you first start to work with this drill it\'s typical for the
+When you first start to work with this drill it's typical for the
 returner gets off to a big lead. The server learns over time, however,
-that they simply can\'t miss makeable volleys, and that it often takes
+that they simply can't miss makeable volleys, and that it often takes
 multiple shots to finish a point at the net.
 
 Implementing serve and volley requires the type of controlled situations
@@ -111,8 +109,7 @@ and volley successfully in your matches.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-serve-and-volley-drills-part-2/media/image3.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-serve-and-volley-drills-part-2/media/image3.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

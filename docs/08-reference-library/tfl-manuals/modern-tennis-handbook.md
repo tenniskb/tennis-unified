@@ -1,33 +1,33 @@
 # Modern_Tennis_Handbook
 
-+:---------------------------------------------------------------------:+
-| **THE COMPLETE**                                                      |
-|                                                                       |
-| **MODERN TENNIS**                                                     |
-|                                                                       |
-| **HANDBOOK**                                                          |
-|                                                                       |
-| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                      |
-|                                                                       |
-| From Fundamentals to Specialty Shots                                  |
-|                                                                       |
-| Breaking Free into Modern, Elite-Level Tennis                         |
-|                                                                       |
-| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                                      |
-|                                                                       |
-| Based on Absolute Tennis \| Tennis Doctor Modern Tennis \|            |
-| Biomechanics of Tennis                                                |
-|                                                                       |
-| ITF Level 2 Biomechanics \| Winning Tennis Tactics \| Tennis Strategy |
-| & Technique                                                           |
-|                                                                       |
-| & More Than 50 Expert Sources                                         |
-+-----------------------------------------------------------------------+
+| **THE COMPLETE** |  |  |
+| --- | --- | --- |
+|  |  |  |
+| **MODERN TENNIS** |  |  |
+|  |  |  |
+| **HANDBOOK** |  |  |
+|  |  |  |
+| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ |  |  |
+|  |  |  |
+| From Fundamentals to Specialty Shots |  |  |
+|  |  |  |
+| Breaking Free into Modern, Elite-Level Tennis |  |  |
+|  |  |  |
+| ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ |  |  |
+|  |  |  |
+| Based on Absolute Tennis \ | Tennis Doctor Modern Tennis \ |  |
+| Biomechanics of Tennis |  |  |
+|  |  |  |
+| ITF Level 2 Biomechanics \ | Winning Tennis Tactics \ | Tennis Strategy |
+| & Technique |  |  |
+|  |  |  |
+| & More Than 50 Expert Sources |  |  |
+
 
 > **HOW TO USE THIS HANDBOOK**
 
 This handbook is organised in a deliberate learning sequence that
-mirrors how the world\'s best players actually develop --- from
+mirrors how the world's best players actually develop --- from
 rock-solid fundamentals, through specialty and advanced shots, and
 finally into the free-flowing, instinctive modern game.
 
@@ -54,14 +54,14 @@ finally into the free-flowing, instinctive modern game.
                         chain, injury prevention
   --------------------- --------------------------------------------
 
-+-----------------------------------------------------------------+
-| **The Golden Rule**                                             |
-|                                                                 |
-| Master the fundamentals so completely that you no longer need   |
-| to think about them. Only then can you play freely,             |
-| instinctively, and at a truly high level. Technique is not the  |
-| ceiling --- it is the floor.                                    |
-+-----------------------------------------------------------------+
+| **The Golden Rule** |
+| --- |
+|  |
+| Master the fundamentals so completely that you no longer need |
+| to think about them. Only then can you play freely, |
+| instinctively, and at a truly high level. Technique is not the |
+| ceiling --- it is the floor. |
+
 
 **PART ONE**
 
@@ -69,13 +69,13 @@ finally into the free-flowing, instinctive modern game.
 
 Grips · Stances · Footwork · Core Strokes · Volleys · Serve
 
-+-----------------------------------------------------------------+
-| **CHAPTER 1**                                                   |
-|                                                                 |
-| **GRIPS**                                                       |
-|                                                                 |
-| The Foundation of Every Stroke in Tennis                        |
-+-----------------------------------------------------------------+
+| **CHAPTER 1** |
+| --- |
+|  |
+| **GRIPS** |
+|  |
+| The Foundation of Every Stroke in Tennis |
+
 
 A grip is not merely how you hold a racket --- it is the primary
 determinant of your contact zone, your natural swing path, the amount of
@@ -121,37 +121,37 @@ starting at the top). The grip is identified by where the index knuckle
   Backhand**            forehand. Dominant grip in modern game.
   --------------------- --------------------------------------------
 
-+:-------------------------:+-------------------------------------+
-| **Continental Grip**      | The server\'s and volleyer\'s best  |
-|                           | friend. Place the index knuckle on  |
-| ╔══════╗                  | the top bevel (bevel 2). The hand   |
-|                           | feels as if you are shaking hands   |
-| ║ 8 ║                     | with the racket edge-on. This grip  |
-|                           | allows wrist pronation for flat     |
-| 7║ ║1                     | serves and produces natural         |
-|                           | underspin on volleys and slice      |
-| ║ 4 ║                     | groundstrokes. Use for: Serve, all  |
-|                           | volleys, overhead smash, slice      |
-| ╚══════╝                  | backhand, drop shot.                |
-|                           |                                     |
-| **Bevel 2 / 2**           |                                     |
-+---------------------------+-------------------------------------+
+| **Continental Grip** | The server's and volleyer's best |
+| --- | --- |
+|  | friend. Place the index knuckle on |
+| ╔══════╗ | the top bevel (bevel 2). The hand |
+|  | feels as if you are shaking hands |
+| ║ 8 ║ | with the racket edge-on. This grip |
+|  | allows wrist pronation for flat |
+| 7║ ║1 | serves and produces natural |
+|  | underspin on volleys and slice |
+| ║ 4 ║ | groundstrokes. Use for: Serve, all |
+|  | volleys, overhead smash, slice |
+| ╚══════╝ | backhand, drop shot. |
+|  |  |
+| **Bevel 2 / 2** |  |
 
-+:-------------------------:+-------------------------------------+
-| **Semi-Western Forehand** | The most common modern forehand     |
-|                           | grip. Move the hand one bevel       |
-| ╔══════╗                  | clockwise from the eastern. The     |
-|                           | palm is slightly under the handle.  |
-| ║ 8 ║                     | Ideal for the modern baseline game  |
-|                           | --- produces natural topspin,       |
-| 7║ ║1                     | excellent mid-height contact,       |
-|                           | comfortable with high-bouncing      |
-| ║ 4 ║                     | balls. Federer uses a modified      |
-|                           | eastern; Djokovic uses              |
-| ╚══════╝                  | semi-western. Choose based on your  |
-|                           | ball-strike height preference.      |
-| **Bevel 4 / 3.5**         |                                     |
-+---------------------------+-------------------------------------+
+
+| **Semi-Western Forehand** | The most common modern forehand |
+| --- | --- |
+|  | grip. Move the hand one bevel |
+| ╔══════╗ | clockwise from the eastern. The |
+|  | palm is slightly under the handle. |
+| ║ 8 ║ | Ideal for the modern baseline game |
+|  | --- produces natural topspin, |
+| 7║ ║1 | excellent mid-height contact, |
+|  | comfortable with high-bouncing |
+| ║ 4 ║ | balls. Federer uses a modified |
+|  | eastern; Djokovic uses |
+| ╚══════╝ | semi-western. Choose based on your |
+|  | ball-strike height preference. |
+| **Bevel 4 / 3.5** |  |
+
 
   --------- -------------------------------------------------------------
    **PRO**  The grip you choose is not right or wrong --- it is a
@@ -167,30 +167,30 @@ starting at the top). The grip is identified by where the index knuckle
 Grip pressure should be a 3-4 out of 10 at the point of preparing for a
 shot, then briefly firming to 6-7 at the moment of impact. A death-grip
 kills racket head speed, kills feel, and causes arm injuries. Pros
-describe their grip as \'firm but relaxed\' --- the racket is controlled
+describe their grip as 'firm but relaxed' --- the racket is controlled
 but the arm stays loose. Think of holding a small bird: tight enough
 that it cannot fly away, loose enough that you do not crush it.
 
-+-----------------------------------------------------------------+
-| **Common Grip Mistake**                                         |
-|                                                                 |
+| **Common Grip Mistake** |
+| --- |
+|  |
 | Switching to a full Western forehand grip too early. This locks |
-| you into deep-baseline, defensive tennis. Learn the eastern or  |
-| modified eastern first --- it builds the attacking skills you   |
-| need before adopting heavier topspin grips.                     |
-+-----------------------------------------------------------------+
+| you into deep-baseline, defensive tennis. Learn the eastern or |
+| modified eastern first --- it builds the attacking skills you |
+| need before adopting heavier topspin grips. |
 
-+-----------------------------------------------------------------+
-| **CHAPTER 2**                                                   |
-|                                                                 |
-| **STANCES & READY POSITION**                                    |
-|                                                                 |
-| Setting the Platform for Power and Control                      |
-+-----------------------------------------------------------------+
+
+| **CHAPTER 2** |
+| --- |
+|  |
+| **STANCES & READY POSITION** |
+|  |
+| Setting the Platform for Power and Control |
+
 
 Modern tennis has evolved dramatically in stance use. Where classical
 instruction taught a closed or neutral stance on almost every shot,
-today\'s professionals use open, semi-open, closed, and neutral stances
+today's professionals use open, semi-open, closed, and neutral stances
 fluidly depending on court position, ball trajectory, time available,
 and tactical intent.
 
@@ -208,7 +208,7 @@ and tactical intent.
   **Neutral Stance**    Feet parallel to baseline, shoulder-width
                         apart. Natural starting point for beginners.
                         Used by pros when stepping into short balls
-                        (the \'step down\' contact move).
+                        (the 'step down' contact move).
 
   **Semi-Open Stance**  Front foot slightly open (turned toward
                         net). Blends weight transfer and rotation.
@@ -228,67 +228,67 @@ The ready position is your reset point between every shot. Getting it
 wrong costs you fractions of a second on every ball --- enough to lose
 the point.
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Feet**                                                  |
-|       |                                                           |
-|       | Shoulder-width apart. Weight on the balls of the feet     |
-|       | (not the heels). Knees slightly bent --- like an athlete  |
-|       | about to react, not a tired person leaning on their legs. |
-+-------+-----------------------------------------------------------+
+| **1** | **Feet** |
+| --- | --- |
+|  |  |
+|  | Shoulder-width apart. Weight on the balls of the feet |
+|  | (not the heels). Knees slightly bent --- like an athlete |
+|  | about to react, not a tired person leaning on their legs. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Torso**                                                 |
-|       |                                                           |
-|       | Slight forward lean. Spine upright but inclined 5-10      |
-|       | degrees forward. Core lightly engaged.                    |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Racket & Arms**                                         |
-|       |                                                           |
-|       | Racket held at the throat with non-dominant hand. Racket  |
-|       | face roughly parallel to net, elbow slightly in front of  |
-|       | hips. Both arms comfortably extended in front --- never   |
-|       | tucked against body.                                      |
-+-------+-----------------------------------------------------------+
+| **2** | **Torso** |
+| --- | --- |
+|  |  |
+|  | Slight forward lean. Spine upright but inclined 5-10 |
+|  | degrees forward. Core lightly engaged. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Eyes**                                                  |
-|       |                                                           |
-|       | Fixed on the opponent. Specifically watch the racket face |
-|       | and the ball simultaneously as the opponent makes         |
-|       | contact.                                                  |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **5** | **Split Step**                                            |
-|       |                                                           |
-|       | As opponent contacts the ball, perform a small hop (2-4   |
-|       | inches). Land as they hit --- this loads both legs and    |
-|       | allows you to push off explosively in any direction.      |
-+-------+-----------------------------------------------------------+
+| **3** | **Racket & Arms** |
+| --- | --- |
+|  |  |
+|  | Racket held at the throat with non-dominant hand. Racket |
+|  | face roughly parallel to net, elbow slightly in front of |
+|  | hips. Both arms comfortably extended in front --- never |
+|  | tucked against body. |
+
+
+| **4** | **Eyes** |
+| --- | --- |
+|  |  |
+|  | Fixed on the opponent. Specifically watch the racket face |
+|  | and the ball simultaneously as the opponent makes |
+|  | contact. |
+
+
+| **5** | **Split Step** |
+| --- | --- |
+|  |  |
+|  | As opponent contacts the ball, perform a small hop (2-4 |
+|  | inches). Land as they hit --- this loads both legs and |
+|  | allows you to push off explosively in any direction. |
+
 
   --------- -------------------------------------------------------------
    **PRO**  The split step is the single most important footwork habit
             you can build. It does not need to be large --- it needs to
-            be timed. Land as your opponent\'s racket meets the ball, not
+            be timed. Land as your opponent's racket meets the ball, not
             before or after.
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 3**                                                   |
-|                                                                 |
-| **FOOTWORK**                                                    |
-|                                                                 |
-| The Engine That Drives Every Shot                               |
-+-----------------------------------------------------------------+
+| **CHAPTER 3** |
+| --- |
+|  |
+| **FOOTWORK** |
+|  |
+| The Engine That Drives Every Shot |
+
 
 Footwork in tennis is not simply running to the ball. It is a
 sophisticated system of steps, stops, pivots, hops, and recovery
 patterns that position your body optimally for each unique shot
-situation. World-class players have mastered 15 distinct \'Contact
-Moves\' --- footwork patterns that occur during the actual strike of the
+situation. World-class players have mastered 15 distinct 'Contact
+Moves' --- footwork patterns that occur during the actual strike of the
 ball.
 
 **The 6 Essential Athletic Skills**
@@ -315,7 +315,7 @@ ball.
                         forehands and jump forehands.
 
   **5.                  Small, quick hops in any direction to
-  Multi-Directional     fine-tune position. The \'cha-cha\' steps
+  Multi-Directional     fine-tune position. The 'cha-cha' steps
   Hopping**             used to adjust last centimetres before
                         contact.
 
@@ -346,49 +346,49 @@ foot from a neutral stance. It is the most fundamental offensive contact
 move --- used when players have time to set up properly and want maximum
 control.
 
-+:-----:+-----------------------------------------------------------+
-| **A** | **Ready Steps**                                           |
-|       |                                                           |
-|       | Small side-to-side adjustments while watching the ball.   |
-|       | Split step timed to opponent\'s contact.                  |
-+-------+-----------------------------------------------------------+
+| **A** | **Ready Steps** |
+| --- | --- |
+|  |  |
+|  | Small side-to-side adjustments while watching the ball. |
+|  | Split step timed to opponent's contact. |
 
-+:-----:+-----------------------------------------------------------+
-| **B** | **Step Out / Step Forward**                               |
-|       |                                                           |
-|       | A sideways step to set up width, followed by a forward    |
-|       | step with the front foot into the ball. Back foot stays   |
-|       | loaded until contact.                                     |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **C** | **Contact**                                               |
-|       |                                                           |
-|       | Strike the ball with weight beginning to transfer         |
-|       | forward. Both feet may be on ground or back foot may      |
-|       | begin to rise.                                            |
-+-------+-----------------------------------------------------------+
+| **B** | **Step Out / Step Forward** |
+| --- | --- |
+|  |  |
+|  | A sideways step to set up width, followed by a forward |
+|  | step with the front foot into the ball. Back foot stays |
+|  | loaded until contact. |
 
-+:-----:+-----------------------------------------------------------+
-| **D** | **Balance Move**                                          |
-|       |                                                           |
-|       | Back leg adjusts based on ball height: bends low for low  |
-|       | balls, kicks back for high balls.                         |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **E** | **Recovery**                                              |
-|       |                                                           |
-|       | Step-around with rear leg, then crossover steps and       |
-|       | shuffle steps back to base position.                      |
-+-------+-----------------------------------------------------------+
+| **C** | **Contact** |
+| --- | --- |
+|  |  |
+|  | Strike the ball with weight beginning to transfer |
+|  | forward. Both feet may be on ground or back foot may |
+|  | begin to rise. |
+
+
+| **D** | **Balance Move** |
+| --- | --- |
+|  |  |
+|  | Back leg adjusts based on ball height: bends low for low |
+|  | balls, kicks back for high balls. |
+
+
+| **E** | **Recovery** |
+| --- | --- |
+|  |  |
+|  | Step-around with rear leg, then crossover steps and |
+|  | shuffle steps back to base position. |
+
 
 **The Running Open Stance (High-Speed Move)**
 
 Used at full speed, primarily on hard courts. The key: contact is made
 before the front foot touches the ground. The back foot serves as the
 power base. After contact, the crossing step of the front foot acts as a
-counterbalance (Federer\'s famous crossing right leg).
+counterbalance (Federer's famous crossing right leg).
 
   --------- -------------------------------------------------------------
    **PRO**  Federer makes contact before his front foot lands. Nadal uses
@@ -404,7 +404,7 @@ counterbalance (Federer\'s famous crossing right leg).
 An extreme version of the running open stance. The back leg loads
 explosively before a powerful lunge into the ball. This converts a
 defensive, wide-running shot into an offensive weapon. The back leg
-generates a \'slingshot\' effect --- think of a sprinter pushing off
+generates a 'slingshot' effect --- think of a sprinter pushing off
 their starting block.
 
 **The Mogul Move (Defensive Control Move)**
@@ -418,7 +418,7 @@ elements:
 
 - Stay low, maintain bent knees throughout
 
-- Take a \'Mogul Step\' beyond contact, then push off outside foot to
+- Take a 'Mogul Step' beyond contact, then push off outside foot to
   recover
 
 - Use crossover steps then shuffle steps to return to centre
@@ -442,50 +442,50 @@ Pivot moves manage low, hard-hit balls, half-volleys, and shots taken on
 the rise. Two types: the Two-Foot Pivot (open/semi-open stance, both
 feet rotate 90-180 degrees during swing) and the One-Foot Pivot (pivot
 on outside foot while front foot lifts --- primarily for high topspin
-balls in men\'s tennis).
+balls in men's tennis).
 
 **The Float Move (Net Approach)**
 
 Used when approaching the net aggressively. The player moves forward
-smoothly, taking a \'float step\' that keeps feet light and mobile. This
+smoothly, taking a 'float step' that keeps feet light and mobile. This
 prevents planting too hard before a first volley and allows rapid
 adjustment when the opponent hits a passing shot.
 
-+-----------------------------------------------------------------+
-| **Recovery Myth Debunked**                                      |
-|                                                                 |
-| High-speed video proves that top players do NOT begin their     |
-| recovery step until the forward swing is complete. Starting     |
+| **Recovery Myth Debunked** |
+| --- |
+|  |
+| High-speed video proves that top players do NOT begin their |
+| recovery step until the forward swing is complete. Starting |
 | recovery early disrupts body rotation and timing. Let the swing |
-| finish naturally --- then recover. This feels counterintuitive  |
-| but is biomechanically essential.                               |
-+-----------------------------------------------------------------+
+| finish naturally --- then recover. This feels counterintuitive |
+| but is biomechanically essential. |
+
 
 **Court Zones and Positioning**
 
-+:---------------------------------------------------------------:+
-| **TENNIS COURT**                                                |
-|                                                                 |
-| ┌────────────────────────────────────┐                          |
-|                                                                 |
-| │ Deuce │ Ad Court │                                            |
-|                                                                 |
-| │ Service │ Service Box │                                       |
-|                                                                 |
-| │────────────┼────────────────────────│                         |
-|                                                                 |
-| │━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│                          |
-|                                                                 |
-| │────────────┼────────────────────────│                         |
-|                                                                 |
-| │ Service │ Service Box │                                       |
-|                                                                 |
-| │ Deuce │ Ad Court │                                            |
-|                                                                 |
-| └────────────────────────────────────┘                          |
-|                                                                 |
-| **\[ Court Zones: Baseline, No-Man\'s Land, Net Zone \]**       |
-+-----------------------------------------------------------------+
+| **TENNIS COURT** |
+| --- |
+|  |
+| ┌────────────────────────────────────┐ |
+|  |
+| │ Deuce │ Ad Court │ |
+|  |
+| │ Service │ Service Box │ |
+|  |
+| │────────────┼────────────────────────│ |
+|  |
+| │━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│ |
+|  |
+| │────────────┼────────────────────────│ |
+|  |
+| │ Service │ Service Box │ |
+|  |
+| │ Deuce │ Ad Court │ |
+|  |
+| └────────────────────────────────────┘ |
+|  |
+| **\[ Court Zones: Baseline, No-Man's Land, Net Zone \]** |
+
 
   --------------------- --------------------------------------------
   **Zone**              **Strategy**
@@ -498,7 +498,7 @@ adjustment when the opponent hits a passing shot.
                         from here. Stay 1-2 feet behind baseline
                         when rallying.
 
-  **No Man\'s Land      Avoid lingering here --- balls at your feet
+  **No Man's Land      Avoid lingering here --- balls at your feet
   (Service Line Area)** are hardest to handle. Transition through
                         quickly.
 
@@ -511,13 +511,13 @@ adjustment when the opponent hits a passing shot.
                         overheads.
   --------------------- --------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 4**                                                   |
-|                                                                 |
-| **THE FOREHAND**                                                |
-|                                                                 |
-| The Cornerstone of the Modern Game                              |
-+-----------------------------------------------------------------+
+| **CHAPTER 4** |
+| --- |
+|  |
+| **THE FOREHAND** |
+|  |
+| The Cornerstone of the Modern Game |
+
 
 The forehand is the most studied stroke in tennis, and for good reason
 --- it is the primary attacking weapon for most players. Modern
@@ -528,14 +528,14 @@ threads allows any player to dramatically improve their forehand.
 **The Unit Turn: Where the Forehand Begins**
 
 The forehand does NOT begin with the racket. It begins with a
-simultaneous rotation of the feet and shoulders --- the \'unit turn.\'
+simultaneous rotation of the feet and shoulders --- the 'unit turn.'
 The moment you recognise a ball coming to your forehand side, your feet
 and shoulders turn together as a single unit toward the fence behind
 you. This is the most important technical concept in the forehand.
 
 Common mistake: Moving the racket arm back independently before the unit
 turn. This limits shoulder rotation, produces arm-only swings, and
-causes the dreaded \'fly swatter\' stroke. Always lead with the body
+causes the dreaded 'fly swatter' stroke. Always lead with the body
 rotation, never with the arm.
 
 **The Non-Racket Arm: The Unsung Hero**
@@ -550,15 +550,15 @@ creates maximum separation between the shoulders. Key rules:
 - Do NOT cross the non-racket arm too far left --- creates a blocking
   force
 
-- Use it as a \'measuring device\' to stay the right distance from the
+- Use it as a 'measuring device' to stay the right distance from the
   ball
 
-- At the follow-through, the non-racket arm should \'catch\' the racket
+- At the follow-through, the non-racket arm should 'catch' the racket
   --- this drill reinforces proper motion
 
 **The Backswing: Myth vs. Reality**
 
-\'Get your racket back early\' is one of the most damaging myths in
+'Get your racket back early' is one of the most damaging myths in
 tennis. The backswing is secondary --- it is the unit turn that matters.
 Once the body has turned properly, the racket finds its position
 naturally. The loop backswing used by pros is a consequence of good
@@ -576,7 +576,7 @@ technique, not a cause of it.
 
 The position of the hitting arm at the start of the forward swing is the
 most overlooked element in most tennis instruction. The arm should form
-a relaxed \'L\' or \'U\' shape, with the elbow slightly in front of the
+a relaxed 'L' or 'U' shape, with the elbow slightly in front of the
 body --- not glued to the ribs and not extended outward. The racket head
 is below wrist level, allowing for a low-to-high swing path.
 
@@ -594,7 +594,7 @@ or in front of the lead hip.
   --------------------- --------------------------------------------
   **Common Myth**       **The Reality**
 
-  **Myth: Wrist Snap    Reality: The \'wrist snap\' seen in
+  **Myth: Wrist Snap    Reality: The 'wrist snap' seen in
   Creates Power**       slow-motion is a consequence of body
                         rotation and forearm pronation --- not an
                         intentional wrist flip. Deliberately
@@ -608,8 +608,8 @@ or in front of the lead hip.
                         focus creates body stability, not ball
                         tracking.
 
-  **Myth: Lag and Snap  Reality: The \'lag\' is a consequence of
-  Creates Spin**        proper body sequence; the \'snap\' is
+  **Myth: Lag and Snap  Reality: The 'lag' is a consequence of
+  Creates Spin**        proper body sequence; the 'snap' is
                         forearm pronation. Neither is intentionally
                         manufactured --- both result from correct
                         technique.
@@ -641,7 +641,7 @@ Two essential components define the follow-through:
   **Forehand Type**     **Description**
 
   **Type II (WTA        More compact swing, often with less extreme
-  Style)**              grip. Common in women\'s professional
+  Style)**              grip. Common in women's professional
                         tennis. Reliable and consistent, though less
                         powerful than Type III.
 
@@ -683,25 +683,25 @@ Two essential components define the follow-through:
   Half-Western (4.5)**  topspin. Nadal. Deep-baseline preference.
   --------------------- --------------------------------------------
 
-+-----------------------------------------------------------------+
-| **The High Ball Challenge**                                     |
-|                                                                 |
-| The more extreme your grip, the better you handle high balls    |
-| --- and the more you struggle with low balls. Conversely,       |
+| **The High Ball Challenge** |
+| --- |
+|  |
+| The more extreme your grip, the better you handle high balls |
+| --- and the more you struggle with low balls. Conversely, |
 | eastern grips excel on low, flat balls but are harder to use on |
-| high-bouncing topspin. Choose your grip based on the surfaces   |
-| and opponents you face most.                                    |
-+-----------------------------------------------------------------+
+| high-bouncing topspin. Choose your grip based on the surfaces |
+| and opponents you face most. |
 
-+-----------------------------------------------------------------+
-| **CHAPTER 5**                                                   |
-|                                                                 |
-| **THE BACKHAND**                                                |
-|                                                                 |
-| One-Handed Elegance & Two-Handed Power                          |
-+-----------------------------------------------------------------+
 
-The backhand is often a player\'s most psychologically vulnerable
+| **CHAPTER 5** |
+| --- |
+|  |
+| **THE BACKHAND** |
+|  |
+| One-Handed Elegance & Two-Handed Power |
+
+
+The backhand is often a player's most psychologically vulnerable
 stroke, yet executed correctly it can be a devastating weapon. The
 modern game features two dominant styles --- the two-handed backhand and
 the single-handed backhand --- each with distinct advantages,
@@ -771,8 +771,8 @@ coil to match two-handed power.
                         the forward swing.
 
   **Hitting Arm**       Forms a long lever. The arm extends through
-                        contact, creating \'swing through\' rather
-                        than \'punch through.\' Keep elbow slightly
+                        contact, creating 'swing through' rather
+                        than 'punch through.' Keep elbow slightly
                         bent at contact.
 
   **Contact Zone**      Further in front of body than two-handed
@@ -785,7 +785,7 @@ coil to match two-handed power.
 
   **Key Advantage**     Reach, angles, disguise, and slice
                         variation. Devastating on high balls when
-                        mastered (Wawrinka\'s backhand winner).
+                        mastered (Wawrinka's backhand winner).
   --------------------- --------------------------------------------
 
 **The Backhand Slice**
@@ -795,49 +795,49 @@ recreational tennis, yet one of the most strategically important at all
 levels. It disrupts rhythm, stays low (especially on fast surfaces), is
 perfect for approach shots, and buys recovery time when under pressure.
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Grip**                                                  |
-|       |                                                           |
-|       | Continental grip. This is essential for the correct       |
-|       | brushing action. Do not use a forehand grip --- it will   |
-|       | close the face and kill the underspin.                    |
-+-------+-----------------------------------------------------------+
+| **1** | **Grip** |
+| --- | --- |
+|  |  |
+|  | Continental grip. This is essential for the correct |
+|  | brushing action. Do not use a forehand grip --- it will |
+|  | close the face and kill the underspin. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Unit Turn**                                             |
-|       |                                                           |
-|       | Full shoulder turn --- more than you think. The           |
-|       | non-dominant hand stays on the racket at the throat until |
-|       | the start of the forward swing.                           |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Backswing**                                             |
-|       |                                                           |
-|       | Racket rises to shoulder height. Face slightly open       |
-|       | (tilted upward). High-to-low swing path begins.           |
-+-------+-----------------------------------------------------------+
+| **2** | **Unit Turn** |
+| --- | --- |
+|  |  |
+|  | Full shoulder turn --- more than you think. The |
+|  | non-dominant hand stays on the racket at the throat until |
+|  | the start of the forward swing. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Contact**                                               |
-|       |                                                           |
-|       | Swing from high to low with a forward and downward        |
-|       | motion, brushing under and through the ball. Contact is   |
-|       | in front of the body, with the arm relatively extended.   |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **5** | **Follow-Through**                                        |
-|       |                                                           |
-|       | Racket finishes forward and low, roughly at hip height.   |
-|       | Avoid letting the face collapse --- keep it open through  |
-|       | the entire swing.                                         |
-+-------+-----------------------------------------------------------+
+| **3** | **Backswing** |
+| --- | --- |
+|  |  |
+|  | Racket rises to shoulder height. Face slightly open |
+|  | (tilted upward). High-to-low swing path begins. |
+
+
+| **4** | **Contact** |
+| --- | --- |
+|  |  |
+|  | Swing from high to low with a forward and downward |
+|  | motion, brushing under and through the ball. Contact is |
+|  | in front of the body, with the arm relatively extended. |
+
+
+| **5** | **Follow-Through** |
+| --- | --- |
+|  |  |
+|  | Racket finishes forward and low, roughly at hip height. |
+|  | Avoid letting the face collapse --- keep it open through |
+|  | the entire swing. |
+
 
   --------- -------------------------------------------------------------
-   **PRO**  The slice is not a defensive \'push\' --- it is an attacking
-            tool. Fed to a right-hander\'s one-handed backhand, a heavy
-            slice that stays low can produce a forced error. Federer\'s
+   **PRO**  The slice is not a defensive 'push' --- it is an attacking
+            tool. Fed to a right-hander's one-handed backhand, a heavy
+            slice that stays low can produce a forced error. Federer's
             slice backhand has been ranked by analysts as one of the most
             effective shots in tennis history.
 
@@ -850,23 +850,23 @@ backhand from the ad court targeting the wide corner. Used for: return
 of serve in the deuce court (safer diagonal), attacking short balls, and
 disrupting aggressive opponents who crowd the centre.
 
-+-----------------------------------------------------------------+
-| **Backhand Performance Factors**                                |
-|                                                                 |
-| Research shows backhand effectiveness is primarily determined   |
-| by: (1) grip stability at impact, (2) shoulder coil depth, (3)  |
-| contact point height relative to the swing path, and (4)        |
-| topspin vs. flat ratio. Players with weak backhands almost      |
-| always fail in one of these four areas.                         |
-+-----------------------------------------------------------------+
+| **Backhand Performance Factors** |
+| --- |
+|  |
+| Research shows backhand effectiveness is primarily determined |
+| by: (1) grip stability at impact, (2) shoulder coil depth, (3) |
+| contact point height relative to the swing path, and (4) |
+| topspin vs. flat ratio. Players with weak backhands almost |
+| always fail in one of these four areas. |
 
-+-----------------------------------------------------------------+
-| **CHAPTER 6**                                                   |
-|                                                                 |
-| **THE SERVE**                                                   |
-|                                                                 |
-| Your Most Powerful Weapon --- And How to Master It              |
-+-----------------------------------------------------------------+
+
+| **CHAPTER 6** |
+| --- |
+|  |
+| **THE SERVE** |
+|  |
+| Your Most Powerful Weapon --- And How to Master It |
+
 
 The serve is the only shot in tennis where you have complete control ---
 you choose the pace, spin, placement, and timing. A great serve is not
@@ -877,20 +877,20 @@ dominance over your opponent.
 **Grip: The Foundation**
 
 The continental grip is the required grip for all serves. Eastern
-forehand grips create a \'waiter\'s tray\' effect --- the wrist lays
+forehand grips create a 'waiter's tray' effect --- the wrist lays
 back, the racket face points to the sky, and the serve becomes flat,
 weak, and inconsistent under pressure. If you use a forehand grip on
 your serve, this is the single most important change to make.
 
-+-----------------------------------------------------------------+
-| **Why Continental?**                                            |
-|                                                                 |
-| The continental grip allows internal rotation of the shoulder   |
-| to drive through the ball, forearm pronation to add speed and   |
+| **Why Continental?** |
+| --- |
+|  |
+| The continental grip allows internal rotation of the shoulder |
+| to drive through the ball, forearm pronation to add speed and |
 | spin, and wrist roll to create topspin on kick serves. Forehand |
-| grips mechanically prevent all three of these power sources     |
-| from engaging properly.                                         |
-+-----------------------------------------------------------------+
+| grips mechanically prevent all three of these power sources |
+| from engaging properly. |
+
 
 **The 1-2 Rhythm System**
 
@@ -923,83 +923,83 @@ durations.
 
 **The 8-Stage Serve Model**
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Starting Position**                                     |
-|       |                                                           |
-|       | Sideways to the net (platform or pinpoint stance). Feet   |
-|       | positioned: front foot aimed toward the net post, back    |
-|       | foot parallel to baseline. Weight balanced, shoulders     |
-|       | relaxed.                                                  |
-+-------+-----------------------------------------------------------+
+| **1** | **Starting Position** |
+| --- | --- |
+|  |  |
+|  | Sideways to the net (platform or pinpoint stance). Feet |
+|  | positioned: front foot aimed toward the net post, back |
+|  | foot parallel to baseline. Weight balanced, shoulders |
+|  | relaxed. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **The Ritual**                                            |
-|       |                                                           |
-|       | Ball bounces, visualisation of the target, breathing.     |
-|       | Federer bounces 1-2 times. Nadal bounces 5-7 times. Find  |
-|       | your ritual and make it consistent.                       |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **The Toss**                                              |
-|       |                                                           |
-|       | The tossing arm moves smoothly down and up. Release the   |
-|       | ball at full arm extension --- not from the fingers       |
-|       | flicking but from the hand opening. Ball should rise to   |
-|       | 1-2 feet above contact height. For flat serve: toss       |
-|       | slightly in front of body. For kick serve: toss slightly  |
-|       | behind head (more to the left).                           |
-+-------+-----------------------------------------------------------+
+| **2** | **The Ritual** |
+| --- | --- |
+|  |  |
+|  | Ball bounces, visualisation of the target, breathing. |
+|  | Federer bounces 1-2 times. Nadal bounces 5-7 times. Find |
+|  | your ritual and make it consistent. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Trophy Position**                                       |
-|       |                                                           |
-|       | Knees bent (70-degree squat), hitting arm elbow at        |
-|       | shoulder height, wrist and racket dropped behind. Tossing |
-|       | arm is still raised. This is not a static position --- it |
-|       | is a moment passing through.                              |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **5** | **The Racket Drop (Butt-Scratch)**                        |
-|       |                                                           |
-|       | The racket drops behind the back as the legs begin to     |
-|       | drive. This dropping motion stretches the triceps,        |
-|       | creating a slingshot that accelerates the racket          |
-|       | violently upward. The sensation is as if \'touching the   |
-|       | thumb to the shoulder\' as the elbow drives up.           |
-+-------+-----------------------------------------------------------+
+| **3** | **The Toss** |
+| --- | --- |
+|  |  |
+|  | The tossing arm moves smoothly down and up. Release the |
+|  | ball at full arm extension --- not from the fingers |
+|  | flicking but from the hand opening. Ball should rise to |
+|  | 1-2 feet above contact height. For flat serve: toss |
+|  | slightly in front of body. For kick serve: toss slightly |
+|  | behind head (more to the left). |
 
-+:-----:+-----------------------------------------------------------+
-| **6** | **Explosive Leg Drive & Hip/Shoulder Separation**         |
-|       |                                                           |
-|       | Legs drive upward and forward. Hips begin rotating first, |
-|       | then shoulders surge ahead of hips just before contact    |
-|       | --- this hip-shoulder separation is the primary power     |
-|       | source. The back leg kicks backward for balance (platform |
-|       | stance) or forward to join the front (pinpoint).          |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **7** | **Contact: Pronation and Full Extension**                 |
-|       |                                                           |
-|       | At contact, the body is fully extended from toes to       |
-|       | fingertips. The shoulder internally rotates, and the      |
-|       | forearm pronates (turns over), driving the racket face    |
-|       | into the ball. Contact should be at maximum reach --- 6-8 |
-|       | inches in front of the baseline. Wrist snaps naturally as |
-|       | a consequence.                                            |
-+-------+-----------------------------------------------------------+
+| **4** | **Trophy Position** |
+| --- | --- |
+|  |  |
+|  | Knees bent (70-degree squat), hitting arm elbow at |
+|  | shoulder height, wrist and racket dropped behind. Tossing |
+|  | arm is still raised. This is not a static position --- it |
+|  | is a moment passing through. |
 
-+:-----:+-----------------------------------------------------------+
-| **8** | **Follow-Through**                                        |
-|       |                                                           |
-|       | Racket decelerates rapidly after contact (from 90 mph to  |
-|       | 30 mph in 1/10th second). The arm follows across the body |
-|       | and finishes on the left hip (right-handed). The front    |
-|       | foot lands 1-1.5 feet inside the court --- proper leg     |
-|       | drive indicator.                                          |
-+-------+-----------------------------------------------------------+
+
+| **5** | **The Racket Drop (Butt-Scratch)** |
+| --- | --- |
+|  |  |
+|  | The racket drops behind the back as the legs begin to |
+|  | drive. This dropping motion stretches the triceps, |
+|  | creating a slingshot that accelerates the racket |
+|  | violently upward. The sensation is as if 'touching the |
+|  | thumb to the shoulder' as the elbow drives up. |
+
+
+| **6** | **Explosive Leg Drive & Hip/Shoulder Separation** |
+| --- | --- |
+|  |  |
+|  | Legs drive upward and forward. Hips begin rotating first, |
+|  | then shoulders surge ahead of hips just before contact |
+|  | --- this hip-shoulder separation is the primary power |
+|  | source. The back leg kicks backward for balance (platform |
+|  | stance) or forward to join the front (pinpoint). |
+
+
+| **7** | **Contact: Pronation and Full Extension** |
+| --- | --- |
+|  |  |
+|  | At contact, the body is fully extended from toes to |
+|  | fingertips. The shoulder internally rotates, and the |
+|  | forearm pronates (turns over), driving the racket face |
+|  | into the ball. Contact should be at maximum reach --- 6-8 |
+|  | inches in front of the baseline. Wrist snaps naturally as |
+|  | a consequence. |
+
+
+| **8** | **Follow-Through** |
+| --- | --- |
+|  |  |
+|  | Racket decelerates rapidly after contact (from 90 mph to |
+|  | 30 mph in 1/10th second). The arm follows across the body |
+|  | and finishes on the left hip (right-handed). The front |
+|  | foot lands 1-1.5 feet inside the court --- proper leg |
+|  | drive indicator. |
+
 
 **Platform vs. Pinpoint Stance**
 
@@ -1037,7 +1037,7 @@ durations.
 
   **Slice Serve**       Side spin makes ball curve and skid. Toss
                         slightly to the right. Brush the right side
-                        of the ball (1-2 o\'clock position).
+                        of the ball (1-2 o'clock position).
                         Effective wide in deuce court or into body
                         in ad court. Difficult to attack.
 
@@ -1046,13 +1046,13 @@ durations.
                         required (push chest out, pull up from
                         ribcage --- not bending at waist). Toss
                         slightly to left/behind. Brush up the ball
-                        from 6 to 12 o\'clock (topspin) or 7 to 1
-                        o\'clock (topspin-slice).
+                        from 6 to 12 o'clock (topspin) or 7 to 1
+                        o'clock (topspin-slice).
 
   **Twist Serve**       Extreme version of kick. Racket path from 7
-                        to 2 o\'clock. Creates violent sidespin and
+                        to 2 o'clock. Creates violent sidespin and
                         topspin, causing the ball to bounce sharply
-                        away from the opponent\'s body. Deceptive
+                        away from the opponent's body. Deceptive
                         and difficult to attack.
   --------------------- --------------------------------------------
 
@@ -1080,13 +1080,13 @@ durations.
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 7**                                                   |
-|                                                                 |
-| **VOLLEYS & NET PLAY**                                          |
-|                                                                 |
-| Controlling the Court from the Net                              |
-+-----------------------------------------------------------------+
+| **CHAPTER 7** |
+| --- |
+|  |
+| **VOLLEYS & NET PLAY** |
+|  |
+| Controlling the Court from the Net |
+
 
 The volley is the most technically demanding stroke to teach because it
 violates every instinct beginners have --- they want to swing, but the
@@ -1117,8 +1117,8 @@ have mastered readiness, minimal backswing, and perfect arm framework.
   **Arm Frameworks**    The elbow maintains a U-shape (upper arm and
                         racket at 45 degrees to forearm). This shape
                         ensures the shoulder drives the motion
-                        rather than the wrist. Wrist stays \'back
-                        against itself\' --- firm and slightly
+                        rather than the wrist. Wrist stays 'back
+                        against itself' --- firm and slightly
                         angled.
 
   **Split Step Timing** Time the split step as the opponent contacts
@@ -1151,30 +1151,30 @@ correct on the backhand volley.
 
 **Net Positioning on the Court**
 
-+:---------------------------------------------------------------:+
-| **TENNIS COURT**                                                |
-|                                                                 |
-| ┌────────────────────────────────────┐                          |
-|                                                                 |
-| │ Deuce │ Ad Court │                                            |
-|                                                                 |
-| │ Service │ Service Box │                                       |
-|                                                                 |
-| │────────────┼────────────────────────│                         |
-|                                                                 |
-| │━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│                          |
-|                                                                 |
-| │────────────┼────────────────────────│                         |
-|                                                                 |
-| │ Service │ Service Box │                                       |
-|                                                                 |
-| │ Deuce │ Ad Court │                                            |
-|                                                                 |
-| └────────────────────────────────────┘                          |
-|                                                                 |
-| **\[ Optimal Net Position: Half-Way Between Service Line and    |
-| Net \]**                                                        |
-+-----------------------------------------------------------------+
+| **TENNIS COURT** |
+| --- |
+|  |
+| ┌────────────────────────────────────┐ |
+|  |
+| │ Deuce │ Ad Court │ |
+|  |
+| │ Service │ Service Box │ |
+|  |
+| │────────────┼────────────────────────│ |
+|  |
+| │━━━━━━━━━━━━━━━━━━ NET ━━━━━━━━━━━━━│ |
+|  |
+| │────────────┼────────────────────────│ |
+|  |
+| │ Service │ Service Box │ |
+|  |
+| │ Deuce │ Ad Court │ |
+|  |
+| └────────────────────────────────────┘ |
+|  |
+| **\[ Optimal Net Position: Half-Way Between Service Line and |
+| Net \]** |
+
 
   --------- -------------------------------------------------------------
    **PRO**  The best volleyers in history --- McEnroe, Edberg,
@@ -1192,13 +1192,13 @@ correct on the backhand volley.
 Drop Shot · Lob · Overhead · Swing Volley · Half-Volley · Drive Volley ·
 Topspin Lob
 
-+-----------------------------------------------------------------+
-| **CHAPTER 8**                                                   |
-|                                                                 |
-| **THE OVERHEAD SMASH**                                          |
-|                                                                 |
-| The Lynchpin of an Attacking Game                               |
-+-----------------------------------------------------------------+
+| **CHAPTER 8** |
+| --- |
+|  |
+| **THE OVERHEAD SMASH** |
+|  |
+| The Lynchpin of an Attacking Game |
+
 
 The overhead smash is the put-away shot --- when you have the
 opportunity to hit one, the point should be over. Players like Sampras,
@@ -1206,73 +1206,73 @@ Agassi, and McEnroe almost never missed smashes. If your overhead is
 weak, your entire net game crumbles because opponents will lob freely,
 neutralising your attacks.
 
-+-----------------------------------------------------------------+
-| **Psychological Power of the Overhead**                         |
-|                                                                 |
-| A great overhead smash creates FEAR in your opponent --- fear   |
+| **Psychological Power of the Overhead** |
+| --- |
+|  |
+| A great overhead smash creates FEAR in your opponent --- fear |
 | to lob. This simplifies your net game dramatically: without the |
 | lob threat, opponents can only pass left or right. One powerful |
-| overhead in the warm-up communicates to your opponent: \'Don\'t |
-| lob me.\'                                                       |
-+-----------------------------------------------------------------+
+| overhead in the warm-up communicates to your opponent: 'Don't |
+| lob me.' |
+
 
 **Overhead Smash Technique --- Step by Step**
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Unit Turn & Continental Grip**                          |
-|       |                                                           |
-|       | The moment you see a lob, turn your feet and torso        |
-|       | sideways simultaneously (unit turn) while switching to    |
-|       | the continental grip. This happens within the first 2-3   |
-|       | steps of movement.                                        |
-+-------+-----------------------------------------------------------+
+| **1** | **Unit Turn & Continental Grip** |
+| --- | --- |
+|  |  |
+|  | The moment you see a lob, turn your feet and torso |
+|  | sideways simultaneously (unit turn) while switching to |
+|  | the continental grip. This happens within the first 2-3 |
+|  | steps of movement. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Movement --- Footwork**                                 |
-|       |                                                           |
-|       | Use quick crossover steps combined with a drop-step for   |
-|       | deep lobs. For easy lobs, side-shuffle backward while     |
-|       | maintaining sideways orientation. Get behind the ball --- |
-|       | it is better to move back too far and step in than to be  |
-|       | under the ball.                                           |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Arm Setup**                                             |
-|       |                                                           |
-|       | Two styles: (a) Keep hands connected to racket and raise  |
-|       | together, or (b) Separate hands early with a shorter      |
-|       | backswing similar to the serve. Both work --- be          |
-|       | consistent. Non-dominant hand points at the ball for as   |
-|       | long as possible.                                         |
-+-------+-----------------------------------------------------------+
+| **2** | **Movement --- Footwork** |
+| --- | --- |
+|  |  |
+|  | Use quick crossover steps combined with a drop-step for |
+|  | deep lobs. For easy lobs, side-shuffle backward while |
+|  | maintaining sideways orientation. Get behind the ball --- |
+|  | it is better to move back too far and step in than to be |
+|  | under the ball. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Trophy Position**                                       |
-|       |                                                           |
-|       | Similar to serve trophy position. Elbow high, wrist and   |
-|       | racket dropped behind back. Knees slightly bent if        |
-|       | stationary.                                               |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **5** | **Internal Shoulder Rotation**                            |
-|       |                                                           |
-|       | The critical power source. Internal rotation snaps the    |
-|       | racket downward with force, driving the ball into the     |
-|       | court. Finish with the top of the racket in the centre of |
-|       | the body, elbow high. This rotation differentiates a      |
-|       | put-away smash from a push.                               |
-+-------+-----------------------------------------------------------+
+| **3** | **Arm Setup** |
+| --- | --- |
+|  |  |
+|  | Two styles: (a) Keep hands connected to racket and raise |
+|  | together, or (b) Separate hands early with a shorter |
+|  | backswing similar to the serve. Both work --- be |
+|  | consistent. Non-dominant hand points at the ball for as |
+|  | long as possible. |
 
-+:-----:+-----------------------------------------------------------+
-| **6** | **Scissor Kick (for difficult lobs)**                     |
-|       |                                                           |
-|       | For lobs you must jump for, jump backward while swinging  |
-|       | the back leg forward --- the scissor kick. This provides  |
-|       | balance and power while airborne. Land balanced and       |
-|       | ready.                                                    |
-+-------+-----------------------------------------------------------+
+
+| **4** | **Trophy Position** |
+| --- | --- |
+|  |  |
+|  | Similar to serve trophy position. Elbow high, wrist and |
+|  | racket dropped behind back. Knees slightly bent if |
+|  | stationary. |
+
+
+| **5** | **Internal Shoulder Rotation** |
+| --- | --- |
+|  |  |
+|  | The critical power source. Internal rotation snaps the |
+|  | racket downward with force, driving the ball into the |
+|  | court. Finish with the top of the racket in the centre of |
+|  | the body, elbow high. This rotation differentiates a |
+|  | put-away smash from a push. |
+
+
+| **6** | **Scissor Kick (for difficult lobs)** |
+| --- | --- |
+|  |  |
+|  | For lobs you must jump for, jump backward while swinging |
+|  | the back leg forward --- the scissor kick. This provides |
+|  | balance and power while airborne. Land balanced and |
+|  | ready. |
+
 
 **Overhead Smash Variations**
 
@@ -1315,13 +1315,13 @@ neutralising your attacks.
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 9**                                                   |
-|                                                                 |
-| **THE LOB**                                                     |
-|                                                                 |
-| Offensive Weapon and Defensive Lifesaver                        |
-+-----------------------------------------------------------------+
+| **CHAPTER 9** |
+| --- |
+|  |
+| **THE LOB** |
+|  |
+| Offensive Weapon and Defensive Lifesaver |
+
 
 The lob is one of the most strategically rich shots in tennis, yet it is
 often treated as a panic shot. The best players use it offensively
@@ -1331,7 +1331,7 @@ afraid to approach the net.
 
 **Defensive Lob**
 
-When deep out of position, the defensive lob neutralises an opponent\'s
+When deep out of position, the defensive lob neutralises an opponent's
 attack. Hit with a slightly open racket face and a long, sweeping swing
 from low to high. The ball should clear the opponent by at least 6-8
 feet while still landing inside the baseline. Key: do not try to win the
@@ -1360,46 +1360,46 @@ point with a defensive lob --- win the recovery.
 
 **Offensive Topspin Lob**
 
-One of tennis\'s most spectacular and effective weapons. The topspin lob
+One of tennis's most spectacular and effective weapons. The topspin lob
 disguises as a passing shot until the last moment, then arches over the
 approaching net player and kicks away beyond reach. Players: Nadal is
 the master, but all elite players have it.
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Disguise**                                              |
-|       |                                                           |
-|       | Begin with the same preparation as a passing shot ---     |
-|       | same unit turn, same swing initiation. The opponent       |
-|       | cannot read the topspin lob until the last quarter of the |
-|       | swing.                                                    |
-+-------+-----------------------------------------------------------+
+| **1** | **Disguise** |
+| --- | --- |
+|  |  |
+|  | Begin with the same preparation as a passing shot --- |
+|  | same unit turn, same swing initiation. The opponent |
+|  | cannot read the topspin lob until the last quarter of the |
+|  | swing. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Open-Up the Swing Path**                                |
-|       |                                                           |
-|       | Drastically open the swing path upward mid-swing,         |
-|       | brushing steeply up the back of the ball to create        |
-|       | extreme topspin. This is often accompanied by a reverse   |
-|       | finish (Nadal\'s hand finishing above his head on the     |
-|       | same side as the racket).                                 |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Contact Point**                                         |
-|       |                                                           |
-|       | Contact slightly higher than normal groundstroke but      |
-|       | still in front of body. The extreme low-to-high swing     |
-|       | path does the work.                                       |
-+-------+-----------------------------------------------------------+
+| **2** | **Open-Up the Swing Path** |
+| --- | --- |
+|  |  |
+|  | Drastically open the swing path upward mid-swing, |
+|  | brushing steeply up the back of the ball to create |
+|  | extreme topspin. This is often accompanied by a reverse |
+|  | finish (Nadal's hand finishing above his head on the |
+|  | same side as the racket). |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Topspin Bounce**                                        |
-|       |                                                           |
-|       | The heavy topspin causes the ball to arc over the net     |
-|       | player and then kick sharply away, often bouncing over    |
-|       | the fence. Aim for a few feet above the opponent\'s       |
-|       | extended racket.                                          |
-+-------+-----------------------------------------------------------+
+
+| **3** | **Contact Point** |
+| --- | --- |
+|  |  |
+|  | Contact slightly higher than normal groundstroke but |
+|  | still in front of body. The extreme low-to-high swing |
+|  | path does the work. |
+
+
+| **4** | **Topspin Bounce** |
+| --- | --- |
+|  |  |
+|  | The heavy topspin causes the ball to arc over the net |
+|  | player and then kick sharply away, often bouncing over |
+|  | the fence. Aim for a few feet above the opponent's |
+|  | extended racket. |
+
 
   --------- -------------------------------------------------------------
    **PRO**  The topspin lob works best when your opponent is inside the
@@ -1409,13 +1409,13 @@ the master, but all elite players have it.
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 10**                                                  |
-|                                                                 |
-| **THE DROP SHOT**                                               |
-|                                                                 |
-| The Art of the Short Game                                       |
-+-----------------------------------------------------------------+
+| **CHAPTER 10** |
+| --- |
+|  |
+| **THE DROP SHOT** |
+|  |
+| The Art of the Short Game |
+
 
 The drop shot is the chess piece of tennis --- a shot of deception,
 touch, and tactical intelligence. Used correctly, it drags the opponent
@@ -1424,85 +1424,85 @@ psychologically frustrates baseline grinders who hate running forward.
 
 **Drop Shot Technique**
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Setup and Disguise**                                    |
-|       |                                                           |
-|       | The single most important element. Begin your preparation |
-|       | identically to a normal groundstroke. The disguise must   |
-|       | be convincing. Open-stance backhands and neutral-stance   |
-|       | forehands work best.                                      |
-+-------+-----------------------------------------------------------+
+| **1** | **Setup and Disguise** |
+| --- | --- |
+|  |  |
+|  | The single most important element. Begin your preparation |
+|  | identically to a normal groundstroke. The disguise must |
+|  | be convincing. Open-stance backhands and neutral-stance |
+|  | forehands work best. |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Grip Change**                                           |
-|       |                                                           |
-|       | Transition to continental grip (or maintain it if you use |
-|       | it for your slice) as you commit to the shot. This should |
-|       | happen as part of a natural forward swing deceleration.   |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Swing Deceleration**                                    |
-|       |                                                           |
-|       | The key mechanical element: the swing decelerates through |
-|       | contact --- the opposite of a normal stroke. The \'feel\' |
-|       | is of catching the ball gently rather than hitting it.    |
-|       | Slow the hand and racket head dramatically.               |
-+-------+-----------------------------------------------------------+
+| **2** | **Grip Change** |
+| --- | --- |
+|  |  |
+|  | Transition to continental grip (or maintain it if you use |
+|  | it for your slice) as you commit to the shot. This should |
+|  | happen as part of a natural forward swing deceleration. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Open Racket Face & Underspin**                          |
-|       |                                                           |
-|       | The racket face is open (tilted upward) at contact and    |
-|       | the string brushes lightly under and slightly forward.    |
-|       | This creates backspin, which causes the ball to \'check\' |
-|       | on bounce, dying low.                                     |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **5** | **Target and Arc**                                        |
-|       |                                                           |
-|       | The ball should clear the net by 1-2 feet (enough margin  |
-|       | for consistency) and land as close to the net as possible |
-|       | in the opponent\'s service box. The shorter the bounce,   |
-|       | the harder it is to retrieve.                             |
-+-------+-----------------------------------------------------------+
+| **3** | **Swing Deceleration** |
+| --- | --- |
+|  |  |
+|  | The key mechanical element: the swing decelerates through |
+|  | contact --- the opposite of a normal stroke. The 'feel' |
+|  | is of catching the ball gently rather than hitting it. |
+|  | Slow the hand and racket head dramatically. |
 
-+:-----:+-----------------------------------------------------------+
-| **6** | **Post-Drop Positioning**                                 |
-|       |                                                           |
-|       | After the drop shot, move immediately toward the net. If  |
-|       | executed well, your opponent must sprint forward and hit  |
-|       | up --- their reply will be a weak floater that you can    |
-|       | volley away.                                              |
-+-------+-----------------------------------------------------------+
 
-+-----------------------------------------------------------------+
-| **When to Use the Drop Shot**                                   |
-|                                                                 |
-| Best situations: (1) When you are INSIDE the baseline (short    |
-| court position --- reduces the net distance), (2) When your     |
-| opponent is deep behind the baseline, (3) After a short ball    |
-| brings you inside the court, (4) After a long, tiring rally to  |
-| change pace. Worst situations: from behind the baseline (net    |
-| too far), when opponent is already inside the court, or when    |
-| the score is 30-40 or break point (high risk shot).             |
-+-----------------------------------------------------------------+
+| **4** | **Open Racket Face & Underspin** |
+| --- | --- |
+|  |  |
+|  | The racket face is open (tilted upward) at contact and |
+|  | the string brushes lightly under and slightly forward. |
+|  | This creates backspin, which causes the ball to 'check' |
+|  | on bounce, dying low. |
+
+
+| **5** | **Target and Arc** |
+| --- | --- |
+|  |  |
+|  | The ball should clear the net by 1-2 feet (enough margin |
+|  | for consistency) and land as close to the net as possible |
+|  | in the opponent's service box. The shorter the bounce, |
+|  | the harder it is to retrieve. |
+
+
+| **6** | **Post-Drop Positioning** |
+| --- | --- |
+|  |  |
+|  | After the drop shot, move immediately toward the net. If |
+|  | executed well, your opponent must sprint forward and hit |
+|  | up --- their reply will be a weak floater that you can |
+|  | volley away. |
+
+
+| **When to Use the Drop Shot** |
+| --- |
+|  |
+| Best situations: (1) When you are INSIDE the baseline (short |
+| court position --- reduces the net distance), (2) When your |
+| opponent is deep behind the baseline, (3) After a short ball |
+| brings you inside the court, (4) After a long, tiring rally to |
+| change pace. Worst situations: from behind the baseline (net |
+| too far), when opponent is already inside the court, or when |
+| the score is 30-40 or break point (high risk shot). |
+
 
 **The Slice Approach and Drop Shot Combination**
 
-A powerful pattern: Hit a deep slice to your opponent\'s backhand
+A powerful pattern: Hit a deep slice to your opponent's backhand
 (pulling them wide), then as they respond with a weak reply, step in and
 drop shot crosscourt to the open court. This combination is a staple of
-Federer\'s all-court game.
+Federer's all-court game.
 
-+-----------------------------------------------------------------+
-| **CHAPTER 11**                                                  |
-|                                                                 |
-| **THE SWING VOLLEY**                                            |
-|                                                                 |
-| The Modern Game\'s Decisive Weapon                              |
-+-----------------------------------------------------------------+
+| **CHAPTER 11** |
+| --- |
+|  |
+| **THE SWING VOLLEY** |
+|  |
+| The Modern Game's Decisive Weapon |
+
 
 The swing volley has become a defining shot of the modern game. Rather
 than waiting for the ball to bounce when it sits up in the midcourt,
@@ -1533,7 +1533,7 @@ Federer, Nadal, and Alcaraz have elevated this shot to an art form.
                         Never hit this shot flat.
 
   **Elastic Wrist and   Relaxed, elastic wrist and forearm produce a
-  Forearm**             \'brushing action\' underneath the ball. If
+  Forearm**             'brushing action' underneath the ball. If
                         the arm is tight, the ball flies long. Think
                         of a whippy, elastic swing, not a rigid
                         drive.
@@ -1551,37 +1551,37 @@ Federer, Nadal, and Alcaraz have elevated this shot to an art form.
 
 **When to Use the Swing Volley**
 
-- When the opponent\'s groundstroke sits up in the midcourt --- any ball
+- When the opponent's groundstroke sits up in the midcourt --- any ball
   above hip height that floats, attack it
 
 - After hitting an approach shot and the reply comes back high and short
 
 - During a net rush when the opponent loops a high defensive ball
 
-- In doubles when the opposing net player\'s lob is not deep enough
+- In doubles when the opposing net player's lob is not deep enough
 
   --------- -------------------------------------------------------------
-   **PRO**  The swing volley is a \'confidence shot\' --- hesitation
+   **PRO**  The swing volley is a 'confidence shot' --- hesitation
             destroys it. If you start the motion and pull back, you get
             the worst of both worlds: no pace and no control. Commit
-            fully or don\'t start. Practice this shot repeatedly until
+            fully or don't start. Practice this shot repeatedly until
             the decision to swing is automatic when you see a floating
             ball.
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 12**                                                  |
-|                                                                 |
-| **HALF-VOLLEY, DRIVE VOLLEY & RETURN**                          |
-|                                                                 |
-| Completing the Shot Repertoire                                  |
-+-----------------------------------------------------------------+
+| **CHAPTER 12** |
+| --- |
+|  |
+| **HALF-VOLLEY, DRIVE VOLLEY & RETURN** |
+|  |
+| Completing the Shot Repertoire |
+
 
 **The Half-Volley**
 
 The half-volley is hit immediately after the ball bounces --- often
-forced when transitioning through no-man\'s land. It is not a chosen
+forced when transitioning through no-man's land. It is not a chosen
 shot but a survival skill. Hit it with a short, compact swing using a
 slightly open face to lift the ball over the net. Keep the wrist firm
 and the swing low-to-high. The key is positioning: if you must hit a
@@ -1615,7 +1615,7 @@ on the opponent.
 
   **Split Step Timing** The most critical timing in all of tennis.
                         Your split step must land exactly as the
-                        opponent\'s racket contacts the ball. Too
+                        opponent's racket contacts the ball. Too
                         early or too late and you are caught
                         flat-footed.
 
@@ -1654,13 +1654,13 @@ on the opponent.
 The Open-Skill Game · Modern Body Mechanics · Beyond Classical
 Instruction
 
-+-----------------------------------------------------------------+
-| **CHAPTER 13**                                                  |
-|                                                                 |
-| **TENNIS AS AN OPEN-SKILL SPORT**                               |
-|                                                                 |
-| Why Rigid Technique Fails and How to Break Free                 |
-+-----------------------------------------------------------------+
+| **CHAPTER 13** |
+| --- |
+|  |
+| **TENNIS AS AN OPEN-SKILL SPORT** |
+|  |
+| Why Rigid Technique Fails and How to Break Free |
+
 
 Classical tennis instruction treats the sport as a closed-skill activity
 --- as if every forehand occurs in the same environment with the same
@@ -1668,29 +1668,29 @@ ball at the same height. The reality: tennis is an open-skill sport,
 meaning every single ball is unique in pace, spin, height, direction,
 and timing. Your response must be unique every time.
 
-+-----------------------------------------------------------------+
-| **The Fundamental Truth**                                       |
-|                                                                 |
-| No two balls in tennis are exactly the same. The player who     |
-| tries to produce a \'perfect\' stroke according to a mental     |
-| template will always be a step behind the player who has        |
-| learned to read and adapt in real-time. Technique is the        |
-| starting point --- adaptability is the destination.             |
-+-----------------------------------------------------------------+
+| **The Fundamental Truth** |
+| --- |
+|  |
+| No two balls in tennis are exactly the same. The player who |
+| tries to produce a 'perfect' stroke according to a mental |
+| template will always be a step behind the player who has |
+| learned to read and adapt in real-time. Technique is the |
+| starting point --- adaptability is the destination. |
+
 
 **The Problem with Traditional Instruction**
 
-Traditional coaching gives complex verbal instructions: \'prepare early,
+Traditional coaching gives complex verbal instructions: 'prepare early,
 swing low to high, keep a firm wrist, rotate your hips, make contact in
-front, bend your knees, keep your eyes on the ball.\' This creates
+front, bend your knees, keep your eyes on the ball.' This creates
 information overload. Pete Sampras, when asked about his technique,
-described it as \'natural\' and could not explain the technical details
+described it as 'natural' and could not explain the technical details
 --- because great tennis is felt, not calculated.
 
 **The Visual Tennis Approach**
 
 Rather than giving players verbal rules to mentally process during a
-point, the Visual Tennis system builds \'kinetic images\' --- mental and
+point, the Visual Tennis system builds 'kinetic images' --- mental and
 physical models that include both visual and sensory information. The
 player internalises what the stroke should look and feel like, then
 allows the body to produce that feeling dynamically in response to each
@@ -1699,69 +1699,69 @@ unique ball.
   --------------------- --------------------------------------------
   **Approach**          **Description**
 
-  **Closed-Skill        Fixed technique. Verbal cues. \'Get racket
-  Teaching**            back early.\' \'Step into the ball.\' Same
+  **Closed-Skill        Fixed technique. Verbal cues. 'Get racket
+  Teaching**            back early.' 'Step into the ball.' Same
                         motion every time. Creates mechanical,
                         inflexible players.
 
-  **Open-Skill          Adaptable response. Kinetic images. \'Feel
-  Teaching**            the correct contact.\' Adjust footwork
+  **Open-Skill          Adaptable response. Kinetic images. 'Feel
+  Teaching**            the correct contact.' Adjust footwork
                         dynamically. Creates fluid, reactive,
                         effective players.
 
   **The Bridge**        Master the fundamentals as closed skills
                         first. Practice until technique is
-                        automatic. Then \'forget\' the technique and
+                        automatic. Then 'forget' the technique and
                         play with feel. The fundamentals are not
                         abandoned --- they are internalized.
   --------------------- --------------------------------------------
 
-**The 5 R\'s: The Modern Tennis Framework**
+**The 5 R's: The Modern Tennis Framework**
 
 The complete structure of tennis execution can be understood through
 five interconnected elements:
 
-+:------:+-----------------------------------------------------------+
-| **R1** | **Read**                                                  |
-|        |                                                           |
-|        | Perceive the ball\'s pace, spin, height, and direction    |
-|        | early. Watch the opponent\'s body and racket face before  |
-|        | their contact. The best players are reading three shots   |
-|        | ahead.                                                    |
-+--------+-----------------------------------------------------------+
+| **R1** | **Read** |
+| --- | --- |
+|  |  |
+|  | Perceive the ball's pace, spin, height, and direction |
+|  | early. Watch the opponent's body and racket face before |
+|  | their contact. The best players are reading three shots |
+|  | ahead. |
 
-+:------:+-----------------------------------------------------------+
-| **R2** | **React**                                                 |
-|        |                                                           |
-|        | The split step response. Explosive first movement toward  |
-|        | the ball\'s landing zone. React, do not anticipate ---    |
-|        | reacting to what you see rather than guessing eliminates  |
-|        | most unforced errors.                                     |
-+--------+-----------------------------------------------------------+
 
-+:------:+-----------------------------------------------------------+
-| **R3** | **Run**                                                   |
-|        |                                                           |
-|        | Efficient footwork to the ball. Use the appropriate       |
-|        | contact move for the situation. Get the outside foot to   |
-|        | the ball --- this is the first law of footwork.           |
-+--------+-----------------------------------------------------------+
+| **R2** | **React** |
+| --- | --- |
+|  |  |
+|  | The split step response. Explosive first movement toward |
+|  | the ball's landing zone. React, do not anticipate --- |
+|  | reacting to what you see rather than guessing eliminates |
+|  | most unforced errors. |
 
-+:------:+-----------------------------------------------------------+
-| **R4** | **Recover**                                               |
-|        |                                                           |
-|        | After contact, immediately begin recovery toward base     |
-|        | position. The recovery step is not begun during the       |
-|        | forward swing --- only after it completes.                |
-+--------+-----------------------------------------------------------+
 
-+:------:+-----------------------------------------------------------+
-| **R5** | **Rally**                                                 |
-|        |                                                           |
-|        | Maintain the point structure. Control pace, spin, and     |
-|        | direction to impose your tactical plan. Every shot is     |
-|        | part of a rally plan.                                     |
-+--------+-----------------------------------------------------------+
+| **R3** | **Run** |
+| --- | --- |
+|  |  |
+|  | Efficient footwork to the ball. Use the appropriate |
+|  | contact move for the situation. Get the outside foot to |
+|  | the ball --- this is the first law of footwork. |
+
+
+| **R4** | **Recover** |
+| --- | --- |
+|  |  |
+|  | After contact, immediately begin recovery toward base |
+|  | position. The recovery step is not begun during the |
+|  | forward swing --- only after it completes. |
+
+
+| **R5** | **Rally** |
+| --- | --- |
+|  |  |
+|  | Maintain the point structure. Control pace, spin, and |
+|  | direction to impose your tactical plan. Every shot is |
+|  | part of a rally plan. |
+
 
 **The Spanish System: Maximum Body Coil**
 
@@ -1775,7 +1775,7 @@ from classical instruction:
 - Airborne power --- players jump into shots rather than planting and
   driving through
 
-- \'On the drop\' technique --- letting the ball drop into the ideal
+- 'On the drop' technique --- letting the ball drop into the ideal
   strike zone before contact, rather than taking it early
 
 - Loose, whippy wrist and forearm for maximum racket head speed and
@@ -1793,13 +1793,13 @@ from classical instruction:
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 14**                                                  |
-|                                                                 |
-| **MODERN BIOMECHANICS**                                         |
-|                                                                 |
-| The Kinetic Chain and Body Rotation                             |
-+-----------------------------------------------------------------+
+| **CHAPTER 14** |
+| --- |
+|  |
+| **MODERN BIOMECHANICS** |
+|  |
+| The Kinetic Chain and Body Rotation |
+
 
 Modern tennis technique is governed by biomechanical principles that
 have only been fully understood through the advent of high-speed filming
@@ -1818,7 +1818,7 @@ bench-press very much weight.
   **Chain Segment**     **Energy Transfer**
 
   **1. Ground Reaction  The legs push down into the ground. The
-  Force**               ground pushes back up --- this is Newton\'s
+  Force**               ground pushes back up --- this is Newton's
                         Third Law. This ground reaction force is the
                         primary energy source in tennis.
 
@@ -1827,7 +1827,7 @@ bench-press very much weight.
 
   **3. Hip Rotation**   The hips rotate toward the target,
                         transferring energy to the core. This is the
-                        \'engine\' of the stroke --- hip speed is
+                        'engine' of the stroke --- hip speed is
                         the biggest differentiator between players.
 
   **4. Trunk/Core       The core twists, transferring hip energy to
@@ -1837,7 +1837,7 @@ bench-press very much weight.
 
   **5. Shoulder         Shoulders add their angular momentum,
   Rotation**            driving the arm forward. The arm is
-                        essentially being \'cracked like a whip\' by
+                        essentially being 'cracked like a whip' by
                         the rotation below.
 
   **6. Elbow            The elbow extends, accelerating the forearm.
@@ -1855,19 +1855,19 @@ total racket head speed. Yet most recreational players hit primarily
 with their arm. The single fastest improvement most players can make is
 increasing their shoulder and hip rotation on every groundstroke.
 
-+-----------------------------------------------------------------+
-| **The Rotation Test**                                           |
-|                                                                 |
-| Hit a forehand with only your arm (body stationary). Then hit   |
-| with full hip and shoulder rotation while your arm stays        |
+| **The Rotation Test** |
+| --- |
+|  |
+| Hit a forehand with only your arm (body stationary). Then hit |
+| with full hip and shoulder rotation while your arm stays |
 | relatively passive. You will immediately feel the difference in |
-| power. The arm should feel like it is being \'carried\' by the  |
-| body rotation --- not generating the power itself.              |
-+-----------------------------------------------------------------+
+| power. The arm should feel like it is being 'carried' by the |
+| body rotation --- not generating the power itself. |
+
 
 **Hip-Shoulder Separation: The Power Gap**
 
-Elite players (Sampras, Federer, Djokovic) create a \'power gap\'
+Elite players (Sampras, Federer, Djokovic) create a 'power gap'
 between hip rotation and shoulder rotation. The hips rotate first, and
 then the shoulders surge ahead just before contact. This separation
 stretches the core muscles like a coiled spring, which then releases
@@ -1902,13 +1902,13 @@ a point is counterproductive.
 
 Patterns of Play · Singles · Doubles · Tiebreakers · Opponent Profiling
 
-+-----------------------------------------------------------------+
-| **CHAPTER 15**                                                  |
-|                                                                 |
-| **SINGLES STRATEGY**                                            |
-|                                                                 |
-| Building Your Game Plan and Reading the Match                   |
-+-----------------------------------------------------------------+
+| **CHAPTER 15** |
+| --- |
+|  |
+| **SINGLES STRATEGY** |
+|  |
+| Building Your Game Plan and Reading the Match |
+
 
 Winning tennis is not simply about hitting harder or faster --- it is
 about making consistently better decisions than your opponent. The best
@@ -1964,7 +1964,7 @@ stopped working.
                         redirect short angle crosscourt --- opponent
                         cannot reach.
 
-  **High Topspin to     Hit heavy topspin to opponent\'s backhand
+  **High Topspin to     Hit heavy topspin to opponent's backhand
   Backhand + Approach** (especially one-hander), forcing weak reply,
                         then approach down the line.
 
@@ -1972,7 +1972,7 @@ stopped working.
                         backhand, drawing a weak mid-court reply,
                         then drop shot to the open court.
 
-  **Body Serve + Open   Serve into opponent\'s body (jams them),
+  **Body Serve + Open   Serve into opponent's body (jams them),
   Court**               they push ball to open court, which you
                         attack with forehand winner.
   --------------------- --------------------------------------------
@@ -2000,7 +2000,7 @@ Before and during each match, build a mental profile of your opponent:
     After long rallies?
 
   --------- -------------------------------------------------------------
-   **PRO**  Once you identify an opponent\'s weakness, attack it
+   **PRO**  Once you identify an opponent's weakness, attack it
             relentlessly until they prove they can handle it. Many
             recreational players feel uncomfortable exploiting a weakness
             repeatedly --- do not. Professional players attack weaknesses
@@ -2025,7 +2025,7 @@ tennis.
 - Alternate deep and short to force horizontal and vertical movement
   simultaneously
 
-- The \'figureeight\' pattern: deep crosscourt, wait, short angle to
+- The 'figureeight' pattern: deep crosscourt, wait, short angle to
   force sprint
 
 **Tiebreaker Strategy**
@@ -2042,19 +2042,19 @@ Tiebreakers require a specific mental approach --- every point is worth
 - Serve and return patterns should reflect practice --- execute what
   works, not experiments
 
-- Do NOT play to \'not lose\' --- play aggressively and take calculated
+- Do NOT play to 'not lose' --- play aggressively and take calculated
   risks
 
 - Managing a 3-0 lead: stay focused, do not protect. Managing a 0-3
   deficit: win points one at a time, do not panic
 
-+-----------------------------------------------------------------+
-| **CHAPTER 16**                                                  |
-|                                                                 |
-| **DOUBLES STRATEGY**                                            |
-|                                                                 |
-| Controlling the Net and Playing as a Unit                       |
-+-----------------------------------------------------------------+
+| **CHAPTER 16** |
+| --- |
+|  |
+| **DOUBLES STRATEGY** |
+|  |
+| Controlling the Net and Playing as a Unit |
+
 
 Doubles is the most social and intellectually demanding form of tennis.
 The condensed court, two opponents, and net-centric tactics create a
@@ -2072,14 +2072,14 @@ singles.
 
   **Both Back at        Defensive formation when both players are
   Baseline**            under extreme pressure. Best used
-                        temporarily --- transition to \'one up, one
-                        back\' or \'both up\' as soon as possible.
+                        temporarily --- transition to 'one up, one
+                        back' or 'both up' as soon as possible.
 
   **One Up, One Back    Server at baseline, partner at net. The net
   (I-Formation)**       player is the threat --- they poach or stay
                         depending on serve placement.
 
-  **Australian (I)      Server\'s partner stands on same side as
+  **Australian (I)      Server's partner stands on same side as
   Formation**           server at net. Forces returner to change
                         natural crosscourt return.
   --------------------- --------------------------------------------
@@ -2089,7 +2089,7 @@ singles.
 The poach is the net player moving aggressively across to intercept a
 crosscourt ball. It is the great equaliser in doubles --- it puts
 pressure on returners, wins free points, and disrupts the baseline
-player\'s rhythm. A poach requires coordination with the partner: signal
+player's rhythm. A poach requires coordination with the partner: signal
 it before the point, then commit fully. Half-hearted poaches result in
 losing the point.
 
@@ -2097,14 +2097,14 @@ losing the point.
 
 In doubles, approaching the net behind your serve is a strong tactical
 choice regardless of serve speed. The net controls angles and shortens
-the opponent\'s time. Serve wide (opens the court), follow in
+the opponent's time. Serve wide (opens the court), follow in
 aggressively, first volley deep crosscourt, partner covers the opposite
 half of the court.
 
 **Return Strategy in Doubles**
 
 Three primary return targets in doubles: (1) Crosscourt away from net
-player --- the safest and most common, (2) At the net player\'s feet ---
+player --- the safest and most common, (2) At the net player's feet ---
 produces a difficult low volley, (3) Lob over net player --- forces the
 net player to spin around and the server to race forward. The lob return
 is an underused weapon in recreational doubles.
@@ -2115,13 +2115,13 @@ is an underused weapon in recreational doubles.
 
 Visualisation · Muscle Memory · Choking · The Art of Winning
 
-+-----------------------------------------------------------------+
-| **CHAPTER 17**                                                  |
-|                                                                 |
-| **THE ART OF WINNING**                                          |
-|                                                                 |
-| Hidden Protocols That Champions Use                             |
-+-----------------------------------------------------------------+
+| **CHAPTER 17** |
+| --- |
+|  |
+| **THE ART OF WINNING** |
+|  |
+| Hidden Protocols That Champions Use |
+
 
 In nine years of coaching 68 national junior singles title winners, one
 pattern emerged clearly: the common thread among winners was not perfect
@@ -2137,43 +2137,43 @@ mental imagery can improve serving speed, accuracy, focus, and overall
 points won. Jack Nicklaus, Jim Brown, and Arnold Schwarzenegger credited
 visualisation as central to their performance.
 
-+:-----:+-----------------------------------------------------------+
-| **1** | **Identify Key Technical Images**                         |
-|       |                                                           |
-|       | For each stroke, identify 1-2 \'stroke keys\' ---         |
-|       | specific visual images of the correct position or         |
-|       | feeling. Example: \'The left arm extended during my unit  |
-|       | turn\' or \'The high elbow on my kick serve.\'            |
-+-------+-----------------------------------------------------------+
+| **1** | **Identify Key Technical Images** |
+| --- | --- |
+|  |  |
+|  | For each stroke, identify 1-2 'stroke keys' --- |
+|  | specific visual images of the correct position or |
+|  | feeling. Example: 'The left arm extended during my unit |
+|  | turn' or 'The high elbow on my kick serve.' |
 
-+:-----:+-----------------------------------------------------------+
-| **2** | **Set Visualisation Sessions**                            |
-|       |                                                           |
-|       | Begin with 3 sessions of 5 minutes each per week. Sit     |
-|       | comfortably, close your eyes, and imagine executing       |
-|       | strokes flawlessly. Engage all senses --- feel the        |
-|       | racket, hear the ball on strings, see the ball\'s path.   |
-+-------+-----------------------------------------------------------+
 
-+:-----:+-----------------------------------------------------------+
-| **3** | **Pre-Point Ritual**                                      |
-|       |                                                           |
-|       | Before every single point in a match, visualise the       |
-|       | intended shot. Andre Agassi described this: \'I always    |
-|       | had a vision of what I would do before I did it.\' This   |
-|       | converts intention into execution.                        |
-+-------+-----------------------------------------------------------+
+| **2** | **Set Visualisation Sessions** |
+| --- | --- |
+|  |  |
+|  | Begin with 3 sessions of 5 minutes each per week. Sit |
+|  | comfortably, close your eyes, and imagine executing |
+|  | strokes flawlessly. Engage all senses --- feel the |
+|  | racket, hear the ball on strings, see the ball's path. |
 
-+:-----:+-----------------------------------------------------------+
-| **4** | **Combine Strokes and Patterns**                          |
-|       |                                                           |
-|       | Visualise not just single shots but full patterns:        |
-|       | serve + approach + volley, or crosscourt forehand + open  |
-|       | court attack. Neural pathways for these patterns are      |
-|       | built in imagination.                                     |
-+-------+-----------------------------------------------------------+
 
-**The Between-Point Ritual (Jim Loehr\'s Framework)**
+| **3** | **Pre-Point Ritual** |
+| --- | --- |
+|  |  |
+|  | Before every single point in a match, visualise the |
+|  | intended shot. Andre Agassi described this: 'I always |
+|  | had a vision of what I would do before I did it.' This |
+|  | converts intention into execution. |
+
+
+| **4** | **Combine Strokes and Patterns** |
+| --- | --- |
+|  |  |
+|  | Visualise not just single shots but full patterns: |
+|  | serve + approach + volley, or crosscourt forehand + open |
+|  | court attack. Neural pathways for these patterns are |
+|  | built in imagination. |
+
+
+**The Between-Point Ritual (Jim Loehr's Framework)**
 
 Research by performance psychologist Jim Loehr identified four stages
 that elite players cycle through between every point:
@@ -2206,22 +2206,22 @@ that elite players cycle through between every point:
 **Overcoming Choking**
 
 Choking is the result of excessive verbal thought intruding on automated
-motor skills. \'I hope I don\'t miss this serve\' --- that verbal fear
+motor skills. 'I hope I don't miss this serve' --- that verbal fear
 triggers a different neural pathway than the one trained in practice,
 producing a mechanical, hesitant stroke. The antidote is mental imagery:
 replace verbal self-talk with visual stroke keys. Visualise the outcome,
-feel the sensation, and let the body\'s trained automation execute.
+feel the sensation, and let the body's trained automation execute.
 
-+-----------------------------------------------------------------+
-| **Billie Jean King\'s Discovery**                               |
-|                                                                 |
-| Billie Jean King transformed her career by transitioning from   |
-| spontaneous pre-visualisation to systematic mental imagery for  |
-| every single shot. She stopped thinking about technique and     |
-| started seeing and feeling the outcome. This became a           |
-| cornerstone of her mental game and her unmatched consistency    |
-| under pressure.                                                 |
-+-----------------------------------------------------------------+
+| **Billie Jean King's Discovery** |
+| --- |
+|  |
+| Billie Jean King transformed her career by transitioning from |
+| spontaneous pre-visualisation to systematic mental imagery for |
+| every single shot. She stopped thinking about technique and |
+| started seeing and feeling the outcome. This became a |
+| cornerstone of her mental game and her unmatched consistency |
+| under pressure. |
+
 
 **Understanding Momentum --- Turning the Match**
 
@@ -2282,12 +2282,12 @@ tenacity.
                         smashes) --- not just forehands and
                         backhands.
 
-  **Opponent            Final review of opponent\'s tendencies,
+  **Opponent            Final review of opponent's tendencies,
   Profiling**           serve patterns, and weaknesses. Set your
                         Plan A, B, and C for the match.
 
   **10 Minutes Before** Short visualisation session. Create your
-                        \'Game Face\' --- the confident, focused
+                        'Game Face' --- the confident, focused
                         mental state you want to carry onto the
                         court.
   --------------------- --------------------------------------------
@@ -2299,13 +2299,13 @@ tenacity.
 Fitness · Kinetic Chain Training · Injury Prevention · Explosive
 Movement
 
-+-----------------------------------------------------------------+
-| **CHAPTER 18**                                                  |
-|                                                                 |
-| **FITNESS FOR TENNIS**                                          |
-|                                                                 |
-| Building the Athletic Foundation                                |
-+-----------------------------------------------------------------+
+| **CHAPTER 18** |
+| --- |
+|  |
+| **FITNESS FOR TENNIS** |
+|  |
+| Building the Athletic Foundation |
+
 
 Tennis requires a unique physical profile: explosive short-distance
 speed, the ability to change direction multiple times per point,
@@ -2444,13 +2444,13 @@ perfecting the kinetic chain sequence:
 
   --------- -------------------------------------------------------------
 
-+-----------------------------------------------------------------+
-| **CHAPTER 19**                                                  |
-|                                                                 |
-| **PLAYING STYLE ARCHETYPES**                                    |
-|                                                                 |
-| Finding and Developing Your Game Identity                       |
-+-----------------------------------------------------------------+
+| **CHAPTER 19** |
+| --- |
+|  |
+| **PLAYING STYLE ARCHETYPES** |
+|  |
+| Finding and Developing Your Game Identity |
+
 
 Every great player has a clearly defined game identity --- a style they
 execute under pressure with conviction. Finding your identity does not
@@ -2501,8 +2501,8 @@ framework suits your physical attributes, temperament, and strengths.
 Alcaraz represents the new pinnacle of complete-player development:
 explosive athleticism combined with advanced technique, emotional
 brilliance, and tactical intelligence beyond his years. He combines
-Nadal\'s physicality and fighting spirit with Federer\'s shot-making
-variety and Djokovic\'s defensive recovery. Key hallmarks: extreme hip
+Nadal's physicality and fighting spirit with Federer's shot-making
+variety and Djokovic's defensive recovery. Key hallmarks: extreme hip
 rotation, high backswing hand position, explosive lateral footwork, drop
 shot at will, and serve-and-volley patterns on crucial points.
 
@@ -2524,7 +2524,7 @@ shot at will, and serve-and-volley patterns on crucial points.
                         above outright winners.
 
   **The Lesson**        Both are correct for their game identities.
-                        Federer\'s efficiency and Nadal\'s
+                        Federer's efficiency and Nadal's
                         resilience are equally valid paths to elite
                         tennis. Choose your grip and style based on
                         your temperament and court environment ---
@@ -2537,7 +2537,7 @@ shot at will, and serve-and-volley patterns on crucial points.
 
 - Read the incoming ball: pace, spin, height, direction
 
-- React with split step --- time it to opponent\'s contact
+- React with split step --- time it to opponent's contact
 
 - Identify the appropriate contact move (attacking/building/defensive)
 
@@ -2617,17 +2617,17 @@ shot at will, and serve-and-volley patterns on crucial points.
   only**                formed early take years to fix.
   --------------------- --------------------------------------------
 
-+:---------------------------------------------------------------------:+
-| **CLOSING THOUGHTS**                                                  |
-|                                                                       |
-| Master the fundamentals. Add the weapons. Break free from the rules.  |
-|                                                                       |
+| **CLOSING THOUGHTS** |
+| --- |
+|  |
+| Master the fundamentals. Add the weapons. Break free from the rules. |
+|  |
 | The path in tennis is not mysterious. It has been walked by thousands |
-| before you.                                                           |
-|                                                                       |
-| Learn the correct technique. Practice it until it becomes invisible.  |
-|                                                                       |
-| **Then play --- freely, instinctively, and joyfully.**                |
-|                                                                       |
-| --- Based on the collective wisdom of 50+ expert sources ---          |
-+-----------------------------------------------------------------------+
+| before you. |
+|  |
+| Learn the correct technique. Practice it until it becomes invisible. |
+|  |
+| **Then play --- freely, instinctively, and joyfully.** |
+|  |
+| --- Based on the collective wisdom of 50+ expert sources --- |
+

@@ -5,13 +5,12 @@
 ### Scott Murphy
 
 ![A person running on a tennis court Description automatically
-generated](media_the-swing-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-swing-volley/media/image1.webp)
 
 **Roger Federer effectively mixes swinging volleys into his attacking
 game.**
 
-If you didn\'t happen to see it in USA Today, staff tennis writer Doug
+If you didn't happen to see it in USA Today, staff tennis writer Doug
 Robson recently did an extensive article on the rise and the
 effectiveness of the swinging volley in pro tennis. The improvement in
 string technology, and specifically, the incredible spin producing
@@ -21,24 +20,23 @@ aggressively on both sides.
 This is resulting in at least an incremental increase in the frequency
 of net approaches. Also due to the effects of poly, conventional
 volleys, even well placed volleys, have become more and more susceptible
-to the opponent\'s heavily spun passing shots.
+to the opponent's heavily spun passing shots.
 
 But attacking players can counteract this by hitting swinging volleys
 out of the air generating their own additional pace and heaviness to tip
-the balance of the exchanges their way. If you saw Roger Federer\'s
+the balance of the exchanges their way. If you saw Roger Federer's
 brilliant use of net attack in the Wimbledon final against Andy Murray,
 you noted several instances where he used swinging volleys on his
 forehand side to pressure Andy or hit outright winners.
 
 The USA today article went on to talk about how coaches at
-IMG/Bollettieri\'s and at the USTA training center have now integrated
+IMG/Bollettieri's and at the USTA training center have now integrated
 the swinging volleys into the development process of high performance
 junior players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-swing-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-swing-volley/media/image2.webp)
 
 **I have hit swinging volleys for years---and taught them to my students
 at all levels.**
@@ -71,15 +69,14 @@ two-hander. USA Today quotes Mardy Fish as saying the swinging
 two-handed backhand volley is natural for him and very effective.
 
 ![A person playing tennis Description automatically
-generated](media_the-swing-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-swing-volley/media/image3.webp)
 
-**If you can hit a topspin wiper groundstroke, you\'re ready for the
+**If you can hit a topspin wiper groundstroke, you're ready for the
 swinging volley.**
 
 ### Learning Keys
 
-So what are the keys to hitting swinging volleys? Let\'s start with the
+So what are the keys to hitting swinging volleys? Let's start with the
 forehand.
 
 The first key is ball height. Even in pro tennis, you rarely see players
@@ -104,8 +101,7 @@ the reduced time interval you have in taking the ball out of the
 air.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-swing-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-swing-volley/media/image4.webp)
 
 **The swinging volley, high velocity, heavy spin, slightly compact.**
 
@@ -119,7 +115,7 @@ my hand, arm and racket turn over roughly 180 degrees between the
 contact and the finish. In effect, the tip of my racket goes from
 pointing from one sideline to the other. The extra spin is usually
 necessary since you are inside the court or close to the net, and so
-much closer to your opponent\'s baseline.
+much closer to your opponent's baseline.
 
 ### Court Position
 
@@ -135,13 +131,12 @@ balls.]{.underline}]{.mark}**
 
 **[[Swinging volleys are great for finishing when you have closed the
 net, have an open court, but are hitting a ball without a lot of
-pace.]{.underline}]{.mark}** **[[In these cases, it\'s sometimes hard to
+pace.]{.underline}]{.mark}** **[[In these cases, it's sometimes hard to
 put the ball away even if you hit it perfectly into the
 opening.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-swing-volley/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-swing-volley/media/image5.webp)
 
 **A demonstrative way to finish at the net!**
 
@@ -178,8 +173,7 @@ see David Bailey break down this move.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-swing-volley/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-swing-volley/media/image6.webp)
 
 **A great way to attack moon balls and approach---note the hop.**
 
@@ -196,7 +190,7 @@ increasing number of players who hit two-handed backhand swinging
 volleys as well. Two-handed players who try it find, as with the
 forehand, that the shot is not as difficult as they may have imagined.
 
-**[[As with the forehand, it\'s basically a more compact version of the
+**[[As with the forehand, it's basically a more compact version of the
 regular two-handed groundstroke. And it has the same
 applications.]{.underline}]{.mark}**
 
@@ -210,8 +204,7 @@ ball than would be possible with a traditional approach played off the
 bounce.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-swing-volley/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-swing-volley/media/image7.webp)
 
 **The two-handed swinging volley: equally viable!**
 
@@ -220,7 +213,7 @@ to generate more pace, take time away from the opponent, and close the
 net to finish on a future shot---be an easy traditional volley, an
 overhead, or another screaming swinging winner.
 
-My last advice is that you don\'t simply read this article and start
+My last advice is that you don't simply read this article and start
 swinging at balls out of the air. A good ball machine is ideal for
 mastering the swinging volleys from the various positions on the court
 and dealing with varying ball heights and speeds.
@@ -235,12 +228,11 @@ continuing to evolve your game. I know I got a lot of satisfaction out
 of adding the swinging volley dimension and it has paid off repeatedly
 in match play.
 
-Here\'s hoping this article helps you have the same experience. Be sure
+Here's hoping this article helps you have the same experience. Be sure
 and let me know how it goes and if you have further questions!
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-swing-volley/media/image8.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-swing-volley/media/image8.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -254,7 +246,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website
+Check out Scott's website
 at [**scottmurphytennis.net**](http://www.scottmurphytennis.net/)
 
 You can contact Scott directly

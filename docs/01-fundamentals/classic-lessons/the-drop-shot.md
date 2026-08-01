@@ -4,39 +4,37 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-drop-shot/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-drop-shot/media/image1.webp)
 
 **The drop shot has made a pro comeback but has always been effective at
 lower levels.**
 
-In today\'s game of big hitting and infrequent ventures to the net, the
+In today's game of big hitting and infrequent ventures to the net, the
 drop shot has made a comeback. In the days of wood rackets, the drop
-shot was used more readily because it wasn\'t possible to crush the ball
+shot was used more readily because it wasn't possible to crush the ball
 time after time from the baseline. So finesse and feel had to play more
-of a part in a player\'s overall game.
+of a part in a player's overall game.
 
 With the advent of graphite rackets, the drop shot almost disappeared.
 But in the last few years that has started to change. The top players
 have discovered that the drop shot can help counter the repetitive,
-power groundstrokes that epitomize today\'s game.
+power groundstrokes that epitomize today's game.
 
-Let\'s see how the top players hit this misunderstood shot, and how they
-use tactically. Let\'s also see how to apply it in your game. When
+Let's see how the top players hit this misunderstood shot, and how they
+use tactically. Let's also see how to apply it in your game. When
 properly executed, the drop shot has always been a fantastic strategy in
 junior and club tennis. It can be an almost magic weapon for winning
 points in many situations.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image2.webp)
 
 **The Drop Shot: aggressive in two ways.**
 
 **Aggressive Shot**
 
 The drop shot first and foremost is an aggressive shot. The ball may
-bounce short in the court when you hit it, but don\'t let that mislead
+bounce short in the court when you hit it, but don't let that mislead
 you. The drop shot is aggressive in two ways.
 
 **[First it is aggressive strategically, because the purpose is to end
@@ -45,13 +43,12 @@ ball.]{.underline}** **[But the drop shot is also an aggressive shot in
 a second way. This is in terms of the generation of spin.]{.underline}**
 
 Many players think the drop shot is a light, feathery shot. It may look
-that way at times but it\'s critical to understand just how much spin is
+that way at times but it's critical to understand just how much spin is
 required to hit it successfully. Mastering the correct type and amount
 of spin is the key to developing your own drop shot.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image3.webp)
 
 **As much spin as many topspin groundstrokes.**
 
@@ -79,8 +76,7 @@ rotation. But on the drop shot, this sidespin component can be quite
 high.
 
 ![A person hitting a tennis ball with a racket Description automatically
-generated](media_the-drop-shot/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image4.webp)
 
 **The swing path to contact is downward and outside in.**
 
@@ -106,14 +102,13 @@ will produce underspin mixed with a less amount
 sidespin.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image5.webp)
 
 **The speed of the racket path helps dictate the level of spin.**
 
 The velocity of the swing is crucial in hitting a great drop shot. It
 the arm moves too slowly through the ball the ball will not react with
-enough spin. If the ball doesn\'t react correctly, no matter where you
+enough spin. If the ball doesn't react correctly, no matter where you
 place it, it will float, and also tend to bounce up and carry through
 the court, making it much easier for the opponent to run it down. The
 speed of the swing will determine the speed of the ball rotation.
@@ -124,15 +119,14 @@ just as important in a good drop shot as in a heavy topspin
 groundstroke.]{.underline}]{.mark}**
 
 Whether it is a backhand or a forehand the proper grip is the
-continental. Usually this is similar to the player\'s serve grip,
+continental. Usually this is similar to the player's serve grip,
 although it can be slightly milder. At a minimum part of the heel pad
 must be on the top bevel of the frame.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image6.webp)
 
-**If the wrist releases, it\'s a consequence of the swing after
+**If the wrist releases, it's a consequence of the swing after
 contact.**
 
 Some may argue that execution of a drop shot can be done with other
@@ -152,8 +146,7 @@ the wrist will release somewhat after contact, but that is a response of
 the deceleration of the swing which can be quite abrupt.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}\
+generated](media_the-drop-shot/media/image7.webp)\
 **The forward swing is with the arm and racket moving as a unit.**
 
 The core aspect of the forward movement of the swing is from the
@@ -182,8 +175,7 @@ not truly out of position. Unless you opponent is very slow, you are now
 inviting him to hit a winner.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-drop-shot/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-drop-shot/media/image8.webp)
 
 **The sequence: pull the opponent out of position then hit the drop
 shot.**
@@ -193,7 +185,7 @@ forcing your opponent deep in the court to open up the front. This can
 take time to develop, sometimes several balls in a given rally. It may
 also require a certain pattern of exchange. For example, to push the
 opponent off the court a player may need to hit inside out forehands to
-the opponent\'s backhand. But it could be many other exchange diagonals
+the opponent's backhand. But it could be many other exchange diagonals
 as well.
 
 A great time to play the shot is when you have the opponent scrambling
@@ -208,15 +200,14 @@ reply. This is what allows you to move forward and attack with the drop
 shot.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image9.webp)
 
 **Disguise is the final element that makes the drop shot even more
 effective.**
 
 In terms of disguise the pros will often take the racket back like they
 are going to blast the ball with topspin and then suddenly open the
-face, creating an element of surprise. That\'s great, but in normal club
+face, creating an element of surprise. That's great, but in normal club
 play simply executing the basic shot well is usually enough. At the very
 least a player should master the basic shot before trying to add
 disguise.
@@ -232,8 +223,8 @@ If a player is nervous or uncertain when making any aggressive shot,
 including the drop shot, it usually ends in an error.
 
 In certain matches hitting a drop shot at anytime is the wrong thing to
-do. A good example is Novak Djokovic\'s loss to Roger Federer in last
-year\'s US Open final. Djokovic likes to play the drop shot and has a
+do. A good example is Novak Djokovic's loss to Roger Federer in last
+year's US Open final. Djokovic likes to play the drop shot and has a
 very good one, but Federer covers the court incredibly well and
 anticipated the shot before it was coming. The drop shot hurt Djokovic
 virtually every time he tried it. Eventually he lost confidence and
@@ -245,8 +236,7 @@ semi-final. This change was part of the reason for the difference in the
 outcome.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image10.webp)
 
 **When to play the drop shot will vary with the opponent.**
 
@@ -254,7 +244,7 @@ The progression in learning a great drop shot has to start with learning
 how to control the spin. The second step is to analyze when are the best
 times to play the shot.
 
-Focus on the opponent\'s position first and then on where you are
+Focus on the opponent's position first and then on where you are
 positioned. When placing the drop shot make the opponent run the
 furthest distance. If your opponent is far behind the baseline and off
 to the right side, target the corner near the net on the left side. This
@@ -264,7 +254,7 @@ precisely off both wings is critical.
 **Your Response**
 
 The final element is knowing the right response after you hit a good
-drop shot. What are your opponent\'s possible replies to a drop shot? Do
+drop shot. What are your opponent's possible replies to a drop shot? Do
 you walk away thinking you have the point won or do you stay ready for a
 reply?
 
@@ -274,8 +264,7 @@ seem like a clear winner. So the right response is to stay alert and be
 ready to move.
 
 ![A person playing tennis Description automatically
-generated](media_the-drop-shot/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image11.webp)
 
 **Often the aggressive play after a drop shot is to move forward.**
 
@@ -301,8 +290,7 @@ forward, you can cut off this angle and you will then have the whole
 court open down the line.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-drop-shot/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-drop-shot/media/image12.webp)
 
 **Players may respond with a sharply angled shot the runs almost
 parallel to the net.**
@@ -319,7 +307,7 @@ on this approach. Your best response against this type of slower
 underspin approach is usually the lob. In fact, many players think of
 this as two shot combination\--a drop shot to bring the player in,
 followed by a lob to win the point. Successfully executing a couple of
-drop shot/lob combos can have a devastating impact on your opponent\'s
+drop shot/lob combos can have a devastating impact on your opponent's
 confidence, cause them to make errors on other shots, and reduce their
 willingness to fight.
 
@@ -331,8 +319,7 @@ court for passes and well as lobs.
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_the-drop-shot/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-drop-shot/media/image13.webp)
 
 **The drop shot and lob combination can be devastating, especially at
 the club level.**
@@ -349,33 +336,32 @@ wings. You can also do a point play drill in which both players can only
 win the point by attempting a drop shot. In this drill the start of the
 point can be done with a drop and hit much like a simple baseline game.
 
-Don\'t expect immediate, consistent success when you start to
+Don't expect immediate, consistent success when you start to
 incorporate the drop shot in your matches. Like every new shot you have
 to be patient and keep trying it even when your results are mixed.
-Initially it\'s good to try it in games when you are up 40-0 or 40-15.
-Then the consequences of a miss aren\'t quite as negative. Remember to
+Initially it's good to try it in games when you are up 40-0 or 40-15.
+Then the consequences of a miss aren't quite as negative. Remember to
 be aggressive and think attack!
 
 Good luck and have fun!
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                         | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_the-drop-shot/media/image14.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                      | numerous ranked junior players and coached  |
-|                                                                                                                                                                     | a series of championship high school teams. |
-|                                                                                                                                                                     | He was highly ranked both sectionally and   |
-|                                                                                                                                                                     | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                     |                                             |
-|                                                                                                                                                                     | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                     | the John Yandell Tennis School in San       |
-|                                                                                                                                                                     | Francisco, California Kerry and his partner |
-|                                                                                                                                                                     | are now splitting time between homes in     |
-|                                                                                                                                                                     | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                     | continued to coach and to have great        |
-|                                                                                                                                                                     | competitive success winning Canadian        |
-|                                                                                                                                                                     | National seniors titles---not to mention    |
-|                                                                                                                                                                     | continuing to write articles for            |
-|                                                                                                                                                                     | Tennisplayer from his unique perspective.   |
-+=====================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_the-drop-shot/media/image14.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

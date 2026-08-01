@@ -12,21 +12,20 @@ Here](Contact%20Moves%20-%20The%20Front%20Foot%20Hop.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-spin-moves/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-spin-moves/media/image1.webp)
 
 **Can you recognize the 3 types of Spin Moves?**
 
-Now let\'s move on to our second category, the Neutral Contact Moves.
+Now let's move on to our second category, the Neutral Contact Moves.
 Players use neutral Contact Moves to maintain their position in rallies,
 to neutralize fast deep balls, and to counterattack, depending on the
 situation.
 
-In this article we\'ll look at the first set of neutral moves, what I
-call the Spin Moves. Then in we\'ll move onto other types of neutral
+In this article we'll look at the first set of neutral moves, what I
+call the Spin Moves. Then in we'll move onto other types of neutral
 contact moves in the next articles.
 
-If you are reading my series for the first time, let\'s review the basic
+If you are reading my series for the first time, let's review the basic
 concept of a Contact Move once again. The Contact Move is a concept I
 created that synthesizes all the components of court movement. These
 include out steps, the step to the ball and the hitting stances, the
@@ -39,15 +38,14 @@ movement in the pro game, as well as evaluate how players move at all
 other levels.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_contact-moves-the-spin-moves/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-spin-moves/media/image2.webp)
 
 **The toes of the outside foot point in the shot direction after the
 landing.**
 
 **Spin Moves**
 
-So now let\'s address the Spin moves. **[[Spin Moves are contact moves
+So now let's address the Spin moves. **[[Spin Moves are contact moves
 in which the hips rotate around a central axis. Players use Spin Moves
 to neutralize or counterattack, by spinning their hips and also their
 feet during the swing.]{.underline}]{.mark}**
@@ -70,8 +68,7 @@ court position.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-spin-moves/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-spin-moves/media/image3.webp)
 
 **Low Spin: the hips and legs spin after contact with the landing on the
 outside foot.**
@@ -85,7 +82,7 @@ that are either relatively low bouncing or played on the
 rise.]{.underline}]{.mark}**
 
 **This makes [the contact at around hip height]{.underline}, versus the
-higher contact point on the other spin moves we\'ll see below.** **The
+higher contact point on the other spin moves we'll see below.** **The
 Low Spin can also be used [when the ball is hit at the body]{.underline}
 or when the player [moves around the ball to hit inside]{.underline},
 again [depending on contact height.]{.underline}**
@@ -114,8 +111,7 @@ back at an angle in the direction of the shot.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-spin-moves/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-spin-moves/media/image4.webp)
 
 **The inside knee comes up, the contact is higher, and the landing is on
 the outside foot.**
@@ -148,8 +144,7 @@ the Low Spin, the toes of the outside foot usually point in the
 direction of the shot.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-spin-moves/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-spin-moves/media/image5.webp)
 
 **Reverse Spin: The front toes rotate towards one side fence with the
 sole of the rear shoe pointing to the other.**
@@ -177,11 +172,10 @@ back on a diagonal to position for this shot.]{.underline}]{.mark}**
 **[[But the rotation during the hit reverses this and gets the body
 moving back toward the baseline.]{.underline}]{.mark}**
 
-So that\'s it for the Spin Moves. Stay tuned next for the Two Foot
+So that's it for the Spin Moves. Stay tuned next for the Two Foot
 Pivot!
 
-![](media_contact-moves-the-spin-moves/media/image6.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_contact-moves-the-spin-moves/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

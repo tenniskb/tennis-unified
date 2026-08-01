@@ -7,10 +7,10 @@ Your Forehand and the Modern Forehand**
 
 This month we continue with \"The Backswing: Part 2.\" Amazing that it
 takes two parts! But when you really start looking at this complex and
-misunderstood motion frame by frame, it\'s amazing. No two pros do the
+misunderstood motion frame by frame, it's amazing. No two pros do the
 same thing, and none of the usual teaching descriptions seem accurate.
 So what is really happening\--and what should you apply, or not, in your
-own game? That\'s what this article is all about.
+own game? That's what this article is all about.
 
 AND let us know what you think by posting a comment in the Forum!
 
@@ -20,8 +20,7 @@ AND let us know what you think by posting a comment in the Forum!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-2/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-2/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

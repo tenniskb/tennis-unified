@@ -7,7 +7,7 @@ conclusion was that either stroke can be effective at all levels,
 depending on the player. ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_1)).
 
-Now let\'s outline an assessment process for players and coaches to help
+Now let's outline an assessment process for players and coaches to help
 in the decision of which to choose. Specifically, what are the
 underlying physical and psychological factors to consider in the
 decision making process?
@@ -26,14 +26,12 @@ up-and-coming big, tall boys on the tour with two-handers.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_evaluating-players/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_evaluating-players/media/image1.webp)
 
 **My one handed students: younger, older, girls, boys.**
 
 ![A person holding a tennis racket Description automatically
-generated](media_evaluating-players/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_evaluating-players/media/image2.webp)
 
 **As with juniors, some club players are definite one-handers.**
 
@@ -41,7 +39,7 @@ I do tend to teach smaller boys two-handers, unless they show great
 aptitude and preference for the one-hander. But there are exceptions
 there as well based on the other factors outlined below.
 
-It\'s the same for girls and for club players. It can all go either way.
+It's the same for girls and for club players. It can all go either way.
 Male club players often are far better off with one hand, but I have
 even taught one-handers to beginning women.
 
@@ -51,18 +49,17 @@ Coordination is also a big factor. Some players are more right or
 left-side dominant. Kids that show a clear dominance or at least balance
 with their opposite side are great two-hander candidates.
 
-Think of Rafa\'s backhand since he was naturally right handed. These
+Think of Rafa's backhand since he was naturally right handed. These
 players will show an immediate talent for the two-handed swing.
 
 Some players literally may not be wired to synchronize both arms
-together. They just don\'t activate or coordinate their left side very
+together. They just don't activate or coordinate their left side very
 well.
 
 ![A person holding a tennis racket Description automatically
-generated](media_evaluating-players/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_evaluating-players/media/image3.webp)
 
-**Being naturally right-handed contributes to Rafa\'s incredible
+**Being naturally right-handed contributes to Rafa's incredible
 two-hander.**
 
 These players will show aptitude for the one-hander if the coach lets
@@ -93,8 +90,7 @@ challenge in the critical area of the return of serve.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_evaluating-players/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_evaluating-players/media/image4.webp)
 
 **There are major differences in the shape and length of the backswings
 between the one and two-hander at the world class level.**
@@ -112,10 +108,10 @@ out. This is a critical and unless the player eventually comes on board
 with the decision, the other factors are irrelevant.
 
 Has the player dreamed since he was a child about having a Roger Federer
-backhand? Or does he admire Novak Djokovic\'s two hander? The dream and
+backhand? Or does he admire Novak Djokovic's two hander? The dream and
 vision of the player is a very important factor.
 
-Mental toughness is also important. In the 10\'s and 12\'s divisions,
+Mental toughness is also important. In the 10's and 12's divisions,
 the one handed player can face tremendous adversity due to lack of
 strength and height.
 
@@ -123,8 +119,7 @@ To overcome this, one handed players have to be brave and rebellious.
 They must be willing to stand out from the herd.
 
 ![A person playing tennis Description automatically
-generated](media_evaluating-players/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_evaluating-players/media/image5.webp)
 
 **I want players to experiment with both backhands for significant
 time.**
@@ -132,7 +127,7 @@ time.**
 They need to be iconoclasts with a strong self-image and self-belief,
 and a strong vision of themselves in the future. Timid or mentally
 fragile kids will generally be better served by having a solid
-two-hander, which doesn\'t expose them to as much adversity in younger
+two-hander, which doesn't expose them to as much adversity in younger
 years.
 
 For all these reasons I often experiment with both backhands for a
@@ -142,12 +137,12 @@ play with it for a month or two, and ask the parents to respect this
 process.
 
 At the end I have players go both ways then decide for themselves. Often
-it isn\'t an obvious decision. But it is a player centered approach that
+it isn't an obvious decision. But it is a player centered approach that
 takes time, not just one lesson.
 
 ### What About Female Players?
 
-It\'s easy to understand why most girls play two-handed, if we consider
+It's easy to understand why most girls play two-handed, if we consider
 the physiological and psychological factors mentioned previously.
 However, tall, strong, and mentally tough girls who crave a one-hander
 should not be denied!
@@ -157,38 +152,36 @@ Remember Justin Henin? No doubt she had one of the great all time
 one-handed backhands. What if she had been forced into a two?
 
 ![A person playing tennis Description automatically
-generated](media_evaluating-players/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_evaluating-players/media/image6.webp)
 
 **Justine Henin: one of the all time great one-handers.**
 
-It\'s funny but I was teaching my wife, who is a beginner, and she just
+It's funny but I was teaching my wife, who is a beginner, and she just
 hated hitting with two-hands. She experimented with the one-hander and
 loved the physical movement of the stroke. The two-hander felt
 constricting and tight for her.
 
 She loved the freedom of opening up her body with the one-hander. It
-felt more flowing and artistic to her. The two-hander just didn\'t fit
+felt more flowing and artistic to her. The two-hander just didn't fit
 her personality and brain wiring.
 
-And that can be true of players at all levels. Some just don\'t like the
+And that can be true of players at all levels. Some just don't like the
 \"feel\" what to them is the constricted, two handed swing. It just
-doesn\'t feel as creative or artistic and emotionally \"handcuffs\" the
+doesn't feel as creative or artistic and emotionally \"handcuffs\" the
 person.
 
 As we have noted, the two handed backhand dominates junior tennis. And
 the dominance is almost universal among girls.
 
 But then look at Mayo Hibi, a relatively slight player who caused a
-sensation by dominating the girls 18s at last year\'s Easter Bowl and
+sensation by dominating the girls 18s at last year's Easter Bowl and
 winning 2 other ITF junior events. Check out her incredible flowing
 one-hander.
 
 ### Natural One-Handers
 
 ![A person playing tennis Description automatically
-generated](media_evaluating-players/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_evaluating-players/media/image7.webp)
 
 **Mayo Hibi, a dominant junior with a gorgeous one-handed backhand.**
 
@@ -221,8 +214,7 @@ disguise.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_evaluating-players/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_evaluating-players/media/image8.webp)
 
 **The question is which arm is driving the swing---with a 10 year old
 Pete Sampras or with any junior.**
@@ -266,8 +258,7 @@ what feels more appropriate for you and your student, boy or girl.
 
 ![A young child playing tennis Description automatically generated with
 medium
-confidence](media_evaluating-players/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_evaluating-players/media/image9.webp)
 
 **For the right player, the one hander is definitely the right choice.**
 
@@ -294,12 +285,11 @@ developed to the world-class level and the disadvantages of each one can
 be mitigated with the proper training protocols during the development
 years.
 
-Next: Let\'s begin discussing the specific technical reference points
+Next: Let's begin discussing the specific technical reference points
 and building that world class one-hander from the ground up! Stay Tuned!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_evaluating-players/media/image10.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_evaluating-players/media/image10.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -316,7 +306,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

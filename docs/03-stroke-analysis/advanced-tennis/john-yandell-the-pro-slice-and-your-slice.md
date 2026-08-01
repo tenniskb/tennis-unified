@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image1.webp)
 
 **The pro slice-necessary to deal with modern speed and spin?**
 
@@ -35,15 +34,14 @@ Rosewall?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image2.webp)
 
-**Giancarlo\'s pro-style slice: ultra high wrap around backswing,
+**Giancarlo's pro-style slice: ultra high wrap around backswing,
 radical downward swing, racket tip ending below wrist, finish across the
 body.**
 
 For this article Giancarlo Andreani, our incredible video editor, and I
-decided to experiment with that question. Giancarlo\'s slice is hit
+decided to experiment with that question. Giancarlo's slice is hit
 pretty much dead on the pro model, with a wrap around backswing and a
 downward swing that finishes across his body.
 
@@ -53,7 +51,7 @@ Division in Northern California, and played on USTA teams at the 5.0 and
 
 I learned to hit my slice in the 1960s with a wooden racket more on the
 Rosewall model. So my backswing is more compact and the swing plane is
-flatter than Giancarlo\'s. It was good enough to help me win two Norcal
+flatter than Giancarlo's. It was good enough to help me win two Norcal
 4.5 singles tournaments 10 years apart (that was 7 matches in 9 days in
 each one, thank you) and reach a top 20 ranking in both the 5.5 and
 senior divisions.
@@ -79,10 +77,9 @@ keep the ball in the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image3.webp)
 
-**A slice from the 60\'s: backswing at shoulder level, a flatter swing
+**A slice from the 60's: backswing at shoulder level, a flatter swing
 plane, more extension, and a higher finish with the racket tip above the
 wrist.**
 
@@ -91,31 +88,30 @@ definitely was creating more underspin, and some of his balls were
 bouncing just inches off the court surface on the other side. My ball
 was bouncing somewhat higher, but was still low.
 
-The video shows the technical differences. Giancarlo\'s backswing is
-like Federer\'s. His hand reaches the top of his head with his elbow
+The video shows the technical differences. Giancarlo's backswing is
+like Federer's. His hand reaches the top of his head with his elbow
 bent 90 degrees or maybe more, and the face of his racket is actually on
 edge or perpendicular to the court.
 
 In my backswing my racket hand reaches only about shoulder level. The
-racket doesn\'t go nearly as far back, the elbow is bent less, and the
+racket doesn't go nearly as far back, the elbow is bent less, and the
 racket face is close to parallel to the court rather than turned on
 edge.
 
-In the forward swing, Giancarlo\'s racket tip comes all the way down
+In the forward swing, Giancarlo's racket tip comes all the way down
 close to the top of his socks. As we saw with Federer and Nadal, the
 racket is way below wrist level, and most often stays that way all the
 way through the swing. In comparison, my racket tip stays at about waist
 level with the racket tip still above my wrist.
 
-Giancarlo\'s finish extends less distance outward to the target, is much
+Giancarlo's finish extends less distance outward to the target, is much
 lower with his hand just above waist level, and crosses much further to
 his left side. These are all the characteristics of the pro slice.
 
 ![A person hitting a tennis ball with a racket Description automatically
-generated](media_john-yandell-the-pro-slice-and-your-slice/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-and-your-slice/media/image4.webp)
 
-**Giancarlo\'s pro slice: translating 3500rpm of topspin off the court
+**Giancarlo's pro slice: translating 3500rpm of topspin off the court
 into 3500rpm of underspin off the racket.**
 
 My finish is extended more forward, is significantly higher, and crosses
@@ -137,17 +133,16 @@ than in the first experiment. This, in conjunction with the spin, caused
 the ball to bounce higher with a contact point that was around shoulder
 level.
 
-So what happened then? For Giancarlo, the change in the ball didn\'t
+So what happened then? For Giancarlo, the change in the ball didn't
 create any real problems. In fact, his technical motion looked extremely
 similar.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image5.webp)
 
 **When we cranked up the incoming ball and the contact height,
-Giancarlo\'s swing stayed exactly the same.**
+Giancarlo's swing stayed exactly the same.**
 
 The same high wrap around backswing. The same downward swing pattern.
 And the same finish, low and across the body with the racket tip still
@@ -164,7 +159,7 @@ range as Federer and Nadal at around 3500rpm.
 
 For me, the change initially caused major problems. I was sailing a lot
 of balls long and floating some that went in much higher than in the
-first scenario. I felt that I couldn\'t really take control of the ball
+first scenario. I felt that I couldn't really take control of the ball
 and make it do want I wanted. I felt I needed more racket speed - a lot
 more.
 
@@ -174,8 +169,7 @@ least some of the attempts.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image6.webp)
 
 **[[To gain some control I naturally raised my backswing and increased
 the downward swing - but some classic elements
@@ -184,20 +178,20 @@ remained.]{.underline}]{.mark}**
 What was interesting though was what this adjustment naturally did to my
 technical swing pattern. I was not conscious of the changes, but the
 video showed that on the pro level ball my motion had morphed somewhat
-in the direction of Ginacarlo\'s.
+in the direction of Ginacarlo's.
 
 My backswing was higher, reaching eye level. I was also rotating the
 plane of the racket closer to on edge. My finish was also lower and
 further across.
 
-However my racket head didn\'t move as radically down as in the pro
+However my racket head didn't move as radically down as in the pro
 model, and the tip stayed at around wrist level. Which may explain the
 differences in spin levels. My shots had about a third less spin than
-Giancarlo\'s, coming in at around 2400rpm.
+Giancarlo's, coming in at around 2400rpm.
 
 Which probably explains the quality of the balls I was producing. I
-simply wasn\'t able hit the same type of slice drives. The difference in
-the pace between my ball and Giancarlo\'s was also much more pronounced
+simply wasn't able hit the same type of slice drives. The difference in
+the pace between my ball and Giancarlo's was also much more pronounced
 than in the first experiment.
 
 **Conclusions?**
@@ -212,15 +206,14 @@ of the pro ball.
 
 And there is one more caveat that probably adds additional weight to
 that hypothesis. Although I believe we simulated the spin and the
-trajectory of the pro forehand quite accurately, we probably didn\'t
+trajectory of the pro forehand quite accurately, we probably didn't
 match the speed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image7.webp)
 
-**Too bad we didn\'t have Jack Kramer to do the experiment with
+**Too bad we didn't have Jack Kramer to do the experiment with
 Giancarlo and me.**
 
 By timing the duration of the flight of the ball between the baselines
@@ -229,8 +222,8 @@ about 80% of the actual tour velocities. If so then the difficulty of
 hitting through the ball with an older style slice drive is probably
 even greater.
 
-Of course we didn\'t have Rosewall or Budge or Kramer out there for our
-test, and it\'s obviously true that world class players could generate
+Of course we didn't have Rosewall or Budge or Kramer out there for our
+test, and it's obviously true that world class players could generate
 significantly more racket head speed than I did in our tests.
 
 Going back to the previous article we saw that on lower balls players
@@ -239,8 +232,8 @@ model. But that may actually reinforce the ideas that when the ball is
 really high, hitting a slice on a 90mph forehand spinning at 3500rpm
 requires more radical technique.
 
-I tend to think that\'s true. But I\'m not convinced that on many balls
-in the pro game, players couldn\'t also drive more directly through if
+I tend to think that's true. But I'm not convinced that on many balls
+in the pro game, players couldn't also drive more directly through if
 they wished to or adapted their swings.
 
 And then there is the converse point, for the rest of the world. What
@@ -258,8 +251,7 @@ Those are my thoughts, but what are yours - let us know in the Forum.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image8.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

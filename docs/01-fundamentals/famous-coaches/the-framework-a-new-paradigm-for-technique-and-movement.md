@@ -6,8 +6,7 @@
 
 ![A picture containing athletic game, sport, outdoor, court Description
 automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image1.webp)
 
 **Great coaching leads to flowing, sublime moments.**
 
@@ -35,14 +34,13 @@ reverberates. Visceral images revisit us throughout our day and when our
 eyes are closed.
 
 Guiding a youngster towards perfection brings goose bumps up on the back
-of one\'s neck. Sharing the moments of change with an avid adult makes a
+of one's neck. Sharing the moments of change with an avid adult makes a
 coach grow young. When a group of players feels this kind of impact,
 tennis grows. Our sport and its players crave more superb teachers.
 
 ![A picture containing text, tennis, person, player Description
 automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image2.webp)
 
 **Technique and movement are inexorably interwoven.**
 
@@ -65,13 +63,12 @@ Getting a hold, so to speak, of an activity with so many moving pieces
 makes us shake our heads as we yearn to find an elusive center. I think
 many of us have had the following experiences.
 
-You are sure you know what is wrong with a player\'s game. She is an
+You are sure you know what is wrong with a player's game. She is an
 intermediate with some proficiency.
 
 ![A person running on a field Description automatically generated with
 low
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image3.webp)
 
 **A clean open stance backhand going back. But unlike Novak, some
 players cannot create the same mastery in all directions.**
@@ -95,13 +92,12 @@ Your student is a young boy, skinny arms and chicken legs. He has good
 hand-eye, the outlines of acceptable strokes, but overall his game lacks
 organization.
 
-There is something sloppy, messy. He\'s a sort of baby octopus. Figuring
+There is something sloppy, messy. He's a sort of baby octopus. Figuring
 out where to start is surprisingly complicated and elusive.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image4.webp)
 
 **What is needed: an approach that sees technique and movement as parts
 of a whole.**
@@ -113,7 +109,7 @@ conferences, in books and on-line was an ever-expanding number of
 educational sources.
 
 Some was very sophisticated, informative, but seemed to be written for
-tennis Ph\'ds. More accessible information was lacking or simplistic.
+tennis Ph'ds. More accessible information was lacking or simplistic.
 
 The technically orientated lessons and sites broke down the basics of
 individual strokes and then informed the lessons with some \"thinking du
@@ -141,8 +137,7 @@ constantly nudged by memories of playing the greats.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image5.webp)
 
 **Memories of playing the greats---beauty and anguish.**
 
@@ -175,8 +170,7 @@ forehand, backhand, forehand volley etc. I have worked to establish and
 label the most salient elements contained in all shots.
 
 ![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image6.webp)
 
 **We need to see more clearly what goes on in all shots---including
 slice.**
@@ -207,7 +201,7 @@ ball is artificial and unhelpful.
 Framework\" assumes that an effective analysis of a shot, any shot, must
 look at the shot from start to finish, from split-step to recovery.
 
-The higher the player\'s level the more important it is to analyze how
+The higher the player's level the more important it is to analyze how
 technique and movement support or work against each other. (For the
 purposes of these articles, we are excluding the serve.)
 
@@ -217,8 +211,7 @@ speed.]{.mark}*** In fact this reduction of variables actually increases
 both.
 
 ![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image7.webp)
 
 **The Framework evaluates the quality of 7 stages in every shot.**
 
@@ -246,35 +239,32 @@ The Framework works with the premise that great technique/movement
 eliminates as many variables as possible without sacrificing racquet and
 foot speed. In fact eliminating variables will increase both.
 
-+-----------------------------------------------------------------------------------------------+
-| **[THE SEVEN STAGES:]{.underline}**                                                           |
-+============================+========================================+=========================+
-| **[Movement]{.underline}** | **[Technique]{.underline}**            |                         |
-+----------------------------+----------------------------------------+-------------------------+
-| 1.  **Split Step**         | 1.  **Ready Position**                 |                         |
-|                            |                                        |                         |
-| 2.  **Unit Turn**          | 2.  **Grip Change (When Needed)**      |                         |
-|                            |                                        |                         |
-| 3.  **Footwork Pattern**   | 3.  **Loop or Take Back**              |                         |
-|                            |                                        |                         |
-| 4.  **Loading**            | 4.  **Pull Position**                  |                         |
-|                            |                                        |                         |
-| 5.  **Unloading**          | 5.  **Contact**                        |                         |
-|                            |                                        |                         |
-| 6.  **End of Rotation**    | 6.  **Finish**                         |                         |
-|                            |                                        |                         |
-| 7.  **Recovery**           | 7.  **Ready Position**                 |                         |
-+----------------------------+----------------------------------------+-------------------------+
+| **[THE SEVEN STAGES:]{.underline}** |  |  |
+| --- | --- | --- |
+| **[Movement]{.underline}** | **[Technique]{.underline}** |  |
+| 1.  **Split Step** | 1.  **Ready Position** |  |
+|  |  |  |
+| 2.  **Unit Turn** | 2.  **Grip Change (When Needed)** |  |
+|  |  |  |
+| 3.  **Footwork Pattern** | 3.  **Loop or Take Back** |  |
+|  |  |  |
+| 4.  **Loading** | 4.  **Pull Position** |  |
+|  |  |  |
+| 5.  **Unloading** | 5.  **Contact** |  |
+|  |  |  |
+| 6.  **End of Rotation** | 6.  **Finish** |  |
+|  |  |  |
+| 7.  **Recovery** | 7.  **Ready Position** |  |
 
-So let\'s outline the stages in preparation for jumping into detail in
+
+So let's outline the stages in preparation for jumping into detail in
 the upcoming articles in this series. We will revisit them in as we work
 through how the function within great shot making. But here is a first
 look. Note that each of the seven stages has a movement component paired
 with a technique component.
 
 ![A person playing tennis Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image8.webp)
 
 **Each stage combines a movement component and a technical component.**
 
@@ -340,8 +330,7 @@ not as readily obvious in many other methods.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image9.jpeg){width="1.5659722222222223in"
-height="2.1319444444444446in"}
+generated](media_the-framework-a-new-paradigm-for-technique-and-movement/media/image9.jpeg)
 
 Following a legendary professional playing career, Tim Mayotte is now
 focused on developing the best tennis training program in America. For

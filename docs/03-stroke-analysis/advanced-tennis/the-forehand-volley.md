@@ -3,8 +3,7 @@
 # John Yandell
 
 ![A person playing tennis Description automatically
-generated](media_the-forehand-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-volley/media/image1.webp)
 
 **Why are the volleys difficult to understand and to master?**
 
@@ -16,23 +15,22 @@ In my opinion, most teaching information about how to hit the volley is
 inaccurate and counterproductive. This may help partially explain why so
 few players volley confidently and well.
 
-Let\'s see if we can do something to improve all that. In this article
-we\'ll start with the forehand volley. We\'ll isolate the illusive core
+Let's see if we can do something to improve all that. In this article
+we'll start with the forehand volley. We'll isolate the illusive core
 elements in the forehand volleys of the best players of the world.
 
-Specifically in this first article, we\'ll look at the critical and
-misunderstood role of the hitting arm. Then we\'ll go on to look at some
+Specifically in this first article, we'll look at the critical and
+misunderstood role of the hitting arm. Then we'll go on to look at some
 of the variations and complexities of the forehand volley.
 
-Then we\'ll take a look at the patterns of the footwork, including the
+Then we'll take a look at the patterns of the footwork, including the
 role of the split step, as well as the other critical step patterns
-before and after leading to the execution of the shot. From there we\'ll
+before and after leading to the execution of the shot. From there we'll
 progress to the backhand volley and do the same.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image2.webp)
 
 **The extreme range of contact heights makes the volleys unique.**
 
@@ -41,23 +39,23 @@ height="2.5in"}
 If the volleys are so compact, why are they also so difficult to
 understand, teach and execute? There are several reasons.
 
-First, even in the digital video era, there\'s a lot less video to
+First, even in the digital video era, there's a lot less video to
 study. Compared to groundstrokes, returns, and serves, there are,
 obviously, far fewer volleys hit in the modern pro game, and this is
 reflected in the available data bases.
 
 The footage in the Stroke Archives shows this. There are about 700 total
-Rafael Nadal stroke clips. But less than 20 of them are volleys. That\'s
+Rafael Nadal stroke clips. But less than 20 of them are volleys. That's
 about 3% of the total stroke clips. With Roger Federer there are over 70
-volley examples. But that\'s still less than 10% of the total shots.
+volley examples. But that's still less than 10% of the total shots.
 
 A second problem has to do with nature of the video data. Because the
 motions are so brief, seeing exactly what happens around contact is
 difficult even in the regular stroke archive footage, which is filmed at
 30 frames a second.
 
-Third, the contact point can be over the player\'s head, or at the level
-of the ankles, or anywhere in between. That\'s more extreme than every
+Third, the contact point can be over the player's head, or at the level
+of the ankles, or anywhere in between. That's more extreme than every
 other stroke in the game. There are also significant variations in the
 spin. Some volleys are hit quite flat, others with underspin that can
 exceed 2000rpm. That changes the shape of the swing around contact more
@@ -65,10 +63,9 @@ than other strokes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image3.webp)
 
-**The player\'s movement, the oncoming ball, and the shot line can all
+**The player's movement, the oncoming ball, and the shot line can all
 be different diagonals.**
 
 Additionally, the players tend to be moving much more directly forward
@@ -81,15 +78,15 @@ Finally, the shot angles the player choose are usually sharper at the
 net than off the ground. All of this can require significant, rapid
 adjustments in the shape of directions of the swing patterns.
 
-So it\'s all more complex than it may appear. That\'s why I\'m so
+So it's all more complex than it may appear. That's why I'm so
 excited about this article, and the corresponding addition we are making
-to the High Speed Archive. With this issue, we\'re starting an entirely
+to the High Speed Archive. With this issue, we're starting an entirely
 new data base of high speed footage strictly of the volleys of the top
 players, all filmed by Advanced Tennis Research in live pro matches
 ([Click
 Here](http://www.tennisplayer.net/members/high_speed_archive/volleys/forehand_volley/forehand_volley_high_speed.html?TimHenmanFHVWarmUpFront-001-0001_Tennisplayer440.pct).)
 
-This footage was shot at 250 frames a second. That\'s eight times more
+This footage was shot at 250 frames a second. That's eight times more
 information than regular video. Together with this series of articles I
 think this data base will go a long way in helping us understand what
 really happens at the net and how any player can develop superior
@@ -100,8 +97,7 @@ Here](http://www.tennisplayer.net/members/teaching_systems/john_yandell/using_te
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image4.webp)
 
 **The secret to understanding the volleys\--hitting arm position.**
 
@@ -116,7 +112,7 @@ a Firm Wrist.\" Neither is an accurate description of the actual volley
 motions.]{.mark}**
 
 Now if hearing one of those phrases makes you volley like Tim Henman, I
-say great, stick with it. My point is that these common tips don\'t
+say great, stick with it. My point is that these common tips don't
 describe what happens in a world class volley. So if you suspect that
 your volley could actually improve\--and maybe dramatically\--these
 articles will give you clear models of the actual elements in the stroke
@@ -130,7 +126,7 @@ largely unrecognized in coaching and teaching.
 
 **[This secret is the positioning of the hitting arm.]{.mark}** The
 positioning in the preparation, and especially, in the forward motion to
-the contact. Let\'s use the footage to identify how this works for the
+the contact. Let's use the footage to identify how this works for the
 top players and how to develop it yourself. But before we do, we have to
 address one other basic question, grips.
 
@@ -141,17 +137,14 @@ tennis are hit with some version of a mild eastern backhand or
 continental grip. But which version do the top players use, and which
 version is right for you?
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------+
-| ![A picture containing text Description automatically                                                                                                                      |                   |
-| generated](media_the-forehand-volley/media/image5.jpg){width="2.2777777777777777in" |                   |
-| height="2.9166666666666665in"}![A picture containing ground, hand Description automatically                                                                                |                   |
-| generated](media_the-forehand-volley/media/image6.jpg){width="2.875in"              |                   |
-| height="2.9166666666666665in"}                                                                                                                                             |                   |
-+:==========================================================================================================================================================================:+:=================:+
-| The relationship between the racket bevels, the heel pad and the index knuckle determines the grip.                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing text Description automatically |  |
+| --- | --- |
+| generated](media_the-forehand-volley/media/image5.jpg)![A picture containing ground, hand Description automatically |  |
+| generated](media_the-forehand-volley/media/image6.jpg) |  |
+| The relationship between the racket bevels, the heel pad and the index knuckle determines the grip. |  |
 
-To understand we can use the grip terminology we\'ve developed to
+
+To understand we can use the grip terminology we've developed to
 describe how the hand connects with the racket on the other strokes. To
 do this we look at how the player positions the index knuckle and the
 heel pad in relation to the bevels on the grip handles. The pictures
@@ -168,8 +161,7 @@ on Bevel 2 slide part of the heel pad off Bevel 1 and slightly toward
 the second bevel.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-forehand-volley/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image7.webp)
 
 **John McEnroe used a mild forehand volley grip that is probably
 well-suited to most players.**
@@ -177,13 +169,13 @@ well-suited to most players.**
 And many players use a slightly milder grip, more like a 2 1/2  /  1
 1/2. This means the heel pad is at most halfway on top of the frame,
 sometimes less, and the index knuckle is straddling the edge between
-bevels 2 and 3. Even in the footage it\'s hard to see all this
+bevels 2 and 3. Even in the footage it's hard to see all this
 precisely, but I think this discussion at least covers the range of
 options.
 
 In my experience the mildest grip in this range---the 2 1/2  /  1
 1/2\--is also the one that works the best for most players, especially
-below the highest levels of the game. It\'s the grip used by one of the
+below the highest levels of the game. It's the grip used by one of the
 greatest volleyers of all time, John McEnroe, so it must be pretty
 effective at the world class level as well.
 
@@ -192,7 +184,7 @@ player immediately try to master a true volley grip or should he start
 with an eastern forehand grip\--a 3 / 3 grip in our new terminology?
 
 There are passionate advocates on both sides of this issue, but in my
-opinion the answer isn\'t absolute. Yes, you want a true volley grip.
+opinion the answer isn't absolute. Yes, you want a true volley grip.
 But my experience is that many players at the club level who start with
 some version of a backhand grip never learn to make solid contact.
 
@@ -201,13 +193,11 @@ far downward during the swing. The contact point is often late.
 Frequently the ball pops up and/or floats. This makes it almost
 impossible to hit a winner at the net.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                               | ![A tennis player hitting the ball with his racket Description automatically generated with medium                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                    |
-| generated](media_the-forehand-volley/media/image8.jpg){width="2.4722222222222223in" | confidence](media_the-forehand-volley/media/image9.jpg){width="2.0416666666666665in" | confidence](media_the-forehand-volley/media/image10.jpg){width="2.2222222222222223in" |
-| height="3.0416666666666665in"}                                                                                                                                             | height="3.0416666666666665in"}                                                                                                                                              | height="3.0416666666666665in"}                                                                                                                                               |
-+:==========================================================================================================================================================================:+:===========================================================================================================================================================================:+:============================================================================================================================================================================:+
-| **Pro forehand volley grips fall within a limited range but are tough to define precisely.**                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically | ![A tennis player hitting the ball with his racket Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| generated](media_the-forehand-volley/media/image8.jpg) |  |  |
+| **Pro forehand volley grips fall within a limited range but are tough to define precisely.** |  |  |
+
 
 If you have these problems on your volley, you need to move to an
 eastern grip and learn to hit flat, solid volleys with the proper swing
@@ -221,25 +211,22 @@ probably correct.
 
 Whether you can train yourself to make these shifts systematically in
 high speed exchanges\--or whether the shifts just happen
-instinctively\--that\'s another question. But this is secondary to
-developing the core elements in the forehand volley. So let\'s address
+instinctively\--that's another question. But this is secondary to
+developing the core elements in the forehand volley. So let's address
 the basic issues for now, and think about subtle, advanced grip shifts
 later on.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                    | ![](media_the-forehand-volley/media/image12.jpg){width="3.0277777777777777in" | ![A baseball player swinging a bat Description automatically generated with medium                                                                                           |
-| confidence](media_the-forehand-volley/media/image11.jpg){width="3.0416666666666665in" | height="2.361111111111111in"}                                                                                                                                        | confidence](media_the-forehand-volley/media/image13.jpg){width="2.8194444444444446in" |
-| height="2.361111111111111in"}                                                                                                                                                |                                                                                                                                                                      | height="2.361111111111111in"}                                                                                                                                                |
-+==============================================================================================================================================================================+======================================================================================================================================================================+==============================================================================================================================================================================+
-| **The Open 'U\" hitting arm shape\--secret to the forehand volley.**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![](media_the-forehand-volley/media/image12.jpg) |
+| --- | --- |
+| **The Open 'U\" hitting arm shape\--secret to the forehand volley.** |  |
+
 
 **The Secret of the Hitting Arm**
 
-So now let\'s get back to the secret: how players position the hitting
+So now let's get back to the secret: how players position the hitting
 arm and racket. This is the critical unrecognized element in the
 forehand volley. But every top pro player uses it. And if you learn what
-it\'s about and learn to set it up correctly, it\'s a magic key that
+it's about and learn to set it up correctly, it's a magic key that
 makes a great forehand volley possible at virtually any level.
 
 What do I mean by **[hitting arm position? I mean the shape of the
@@ -267,16 +254,15 @@ forearm or base.]{.underline}***
 **[This \"U\" shape, is the core hitting arm
 configuration.]{.underline}** It is probably easiest to recognize when
 the forearm is horizontal, or parallel to the court surface, but as
-we\'ll see when we explore all the variations, the \"U\" can turn and
+we'll see when we explore all the variations, the \"U\" can turn and
 move in different directions and at many different angles.
 
 **A Perfect Model**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-forehand-volley/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-volley/media/image14.webp)
 
-**Watch Henman\'s perfect unit turn and positioning of the hitting
+**Watch Henman's perfect unit turn and positioning of the hitting
 arm.**
 
 We can thank Tim Henman for giving us a virtually perfect example of
@@ -291,8 +277,8 @@ separate, the body continues to turn until it reaches a 45 degree angle
 to the net, roughly the same as the outside foot. The left arm also
 points across the body at a similar angle.
 
-If you\'ve read the articles on preparation on the forehand in the
-Advanced Tennis section, you\'ll realize that this is basically a
+If you've read the articles on preparation on the forehand in the
+Advanced Tennis section, you'll realize that this is basically a
 segment of the same unitary preparation as on the forehand groundstroke.
 ([Click Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
 Rather than the shoulders and feet turning 90 degrees plus, they turn
@@ -310,14 +296,13 @@ movement.
 **The Forward Swing**
 
 ![A person playing tennis Description automatically
-generated](media_the-forehand-volley/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-volley/media/image15.webp)
 
 **The forward swing with the shoulder driving the hitting arm shape.**
 
 So what happens next? Watch that from this position there is a small
 additional backswing to change the direction of the racket. In my
-experience, this happens naturally. It\'s not something the player has
+experience, this happens naturally. It's not something the player has
 to do consciously.
 
 The player needs to know where the racket should be at the critical
@@ -347,15 +332,14 @@ emphasis on early contact can be a negative because it causes players to
 extend the arm from the elbow and lose the hitting arm shape.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-forehand-volley/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-volley/media/image16.webp)
 
 **Another look at how the hitting arm retains its shape moving through
 contact.**
 
 **Other Angles**
 
-Let\'s see the movement of the hitting arm in the forward swing from
+Let's see the movement of the hitting arm in the forward swing from
 another angle looking at a Pete Sampras volley, filmed from behind. Note
 that Pete has achieved the same elements we just looked at in the
 preparation phase. These are the unit turn and the creation of the
@@ -378,8 +362,7 @@ racket and arm moving on a curve or an arc from the shoulder.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-volley/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image17.webp)
 
 **The finish for the hitting arm position with the butt of the racket
 pointing off the front leg.**
@@ -397,7 +380,7 @@ a technically sound forehand volley.
 
 Watch how the integrity of the shape is maintained through the hit. The
 rotation of the shoulder drives the hitting arm forward. There is no
-internal movement in the hitting arm and the shape of the \"U\' remains
+internal movement in the hitting arm and the shape of the \"U' remains
 unchanged.
 
 From this side view we can see a great checkpoint for maintaining this
@@ -412,16 +395,13 @@ the final checkpoint to master in developing the core motion.
                                                                                        Turn                                                                                                                                                                         Contact                                                                                                                                                                         Finish
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A person playing tennis Description automatically generated with medium                                                                                                       ![A person hitting a ball with a tennis racket Description automatically                                                                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-forehand-volley/media/image18.jpg){width="1.7361111111111112in"   generated](media_the-forehand-volley/media/image19.jpg){width="1.9027777777777777in"    confidence](media_the-forehand-volley/media/image20.jpg){width="1.5138888888888888in"
-                                                                          height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}
+   confidence](media_the-forehand-volley/media/image18.jpg)
 
                                                                ![A person playing tennis Description automatically                                                                                                                 ![A person playing tennis Description automatically generated with medium                                                                                                                 ![A person playing tennis Description automatically
-   generated](media_the-forehand-volley/media/image21.jpg){width="1.9444444444444444in"    confidence](media_the-forehand-volley/media/image22.jpg){width="1.8472222222222223in"   generated](media_the-forehand-volley/media/image23.jpg){width="1.6527777777777777in"
-                                                                          height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}
+   generated](media_the-forehand-volley/media/image21.jpg)
 
                                                     ![A person playing tennis Description automatically generated with medium                                                                                                       ![A person hitting a ball with a tennis racket Description automatically                                                                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-forehand-volley/media/image24.jpg){width="1.7916666666666667in"   generated](media_the-forehand-volley/media/image25.jpg){width="1.6111111111111112in"    confidence](media_the-forehand-volley/media/image26.jpg){width="1.4166666666666667in"
-                                                                          height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}                                                                                                                                                 height="2.5277777777777777in"}
+   confidence](media_the-forehand-volley/media/image24.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
  
@@ -430,67 +410,65 @@ the final checkpoint to master in developing the core motion.
 
 ![A picture containing tennis, sport, athletic game, racket Description
 automatically
-generated](media_the-forehand-volley/media/image27.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-volley/media/image27.webp)
 
-**Terms like \"Punch\" and \"Firm Wrist\" don\'t correspond with how the
+**Terms like \"Punch\" and \"Firm Wrist\" don't correspond with how the
 volley is actually hit.**
 
 Once we understand the shape and the motion of the hitting arm, we can
 see why the traditional teaching descriptions of the forehand volley
-don\'t make sense. The idea that the volley is a \"punch\" creates the
+don't make sense. The idea that the volley is a \"punch\" creates the
 belief that the key motion is to straighten out the arm and extend it
 forward from the elbow.
 
 This destroys the integrity of the hitting arm shape. The arm now forms
 a straight line rather than an open \"U.\" The idea of simply extending
 the arm in a punch also tends to take the push or the rotation of the
-back shoulder out of the shot. In my opinion, you couldn\'t think of a
-better phrase than \"punch\" to make sure you\'ll never execute the
+back shoulder out of the shot. In my opinion, you couldn't think of a
+better phrase than \"punch\" to make sure you'll never execute the
 actual technical elements of a good forehand volley.
 
 There are similar problems with the second major teaching idea\--\"keep
 the wrist firm.\" **[[As we can see the wrist is actually laid slightly
 back.]{.underline}]{.mark}** This is a fundamental aspect of creating
-the open \"U\" shape. **[[It\'s what allows the player to make contact
+the open \"U\" shape. **[[It's what allows the player to make contact
 slightly in front with the racket face more or less square to the
 ball.]{.underline}]{.mark}**
 
 **[Without this laid back wrist position, the ball will get past the
 front edge of the body and the contact will be late.]{.mark}** If that
-happens, yes, you better keep your wrist firm\--really firm. You\'ll
+happens, yes, you better keep your wrist firm\--really firm. You'll
 need to be quite tense to compensate for the flaws in your motion and in
 your timing that created the late contact.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-forehand-volley/media/image28.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image28.webp)
 
 **But how do we account for the wild range of forehand volley
 variations?**
 
 **Not That Simple**
 
-So is that really all there is to it? If it\'s that simple why haven\'t
-more people picked up on the hitting arm concept and why don\'t players
-and coaches notice it when they watch the top players? Doesn\' it seem
+So is that really all there is to it? If it's that simple why haven't
+more people picked up on the hitting arm concept and why don't players
+and coaches notice it when they watch the top players? Doesn' it seem
 that there is often a lot more backswing and a lot more followthrough on
-many or most volleys than in the examples I\'ve given?
+many or most volleys than in the examples I've given?
 
 What about the way the forearm rotates or supinates backwards before the
 forward swing\--especially with the bigger backswings\--and then forward
-into the shot? Doesn\'t the wrist break and come forward on many
+into the shot? Doesn't the wrist break and come forward on many
 forehand volleys? What about when the ball is super high or super low?
 
-What about underspin? Doesn\'t the angle and shape of the arm and racket
-change during the forward swing to create spin? Doesn\'t the racket face
+What about underspin? Doesn't the angle and shape of the arm and racket
+change during the forward swing to create spin? Doesn't the racket face
 slide under the ball and open up during and after the contact? How do
 you account for all of these factors in the theory of the hitting arm
 shape?
 
-All of the above questions and comments are valid. Actually they don\'t
-invalidate or contradict the role of the basic elements I\'ve
+All of the above questions and comments are valid. Actually they don't
+invalidate or contradict the role of the basic elements I've
 identified. But the focus on the complexities are a major source of the
 difficulties most people have trying to develop the volley. So go back
 the sequence photos and master the three key positions with the check
@@ -498,8 +476,7 @@ points. Then watch the magic start to happen.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-volley/media/image29.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-volley/media/image29.webp)
 
 **The 3 key positions: Turn, Contact, Finish**
 
@@ -511,21 +488,20 @@ players. ([Click
 Here](http://www.tennisplayer.net/members/tour_strokes/bill_mountford/modern_volley/modern_volley.html).)
 
 These complexities and variations are what we are going to look at
-closely in the upcoming articles. We\'ll see how the hitting arm
+closely in the upcoming articles. We'll see how the hitting arm
 position expands and contracts, how it rotates backwards and forwards,
 what happens with different ball heights, and spins, how the shape of
 the swing changes, and more, including the many footwork variations,
 some including split steps and some not.
 
-But in looking through this forest, let\'s not lose site of what all the
-trees have in common. We\'ve identified a magic core dimension in this
+But in looking through this forest, let's not lose site of what all the
+trees have in common. We've identified a magic core dimension in this
 motion, and you can use it build a rock solid forehand volley at any
 level of play. Work on that and Stay Tuned!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-forehand-volley/media/image30.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-forehand-volley/media/image30.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

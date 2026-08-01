@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image1.webp)
 
 **Serve and volleyers: a rare breed in pro tennis.**
 
@@ -17,23 +16,22 @@ returns can intimidate the server from moving forward to the
 net.]{.underline}]{.mark}**
 
 But there is no doubt that adding serve and volley tactics can result in
-winning more matches, especially against certain opponent. It\'s not
-easy, but it certainly has a place in today\'s game.
+winning more matches, especially against certain opponent. It's not
+easy, but it certainly has a place in today's game.
 
-This is why it\'s a regular part of the work we do at the Academy. In
+This is why it's a regular part of the work we do at the Academy. In
 this final article in the Strategy Zone series for Tennisplayer.net,
-we\'ll outline exactly what we teach and how to incorporate it into your
+we'll outline exactly what we teach and how to incorporate it into your
 own game. ([Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see the whole series.)
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image2.webp)
 
 **Mixing in serve and volley points can yield points and create mental
 pressure on the opponent.**
 
-Serve and volley rarely becomes a player\'s predominant strategic style.
+Serve and volley rarely becomes a player's predominant strategic style.
 But for most players, and this includes all levels, it can add an
 element of surprise that can yield the few extra points that make the
 difference in close matches.
@@ -72,8 +70,7 @@ uncertain.]{.underline}]{.mark}**
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image3.webp)
 
 **Establishing control with the service placement is the first step.**
 
@@ -101,8 +98,8 @@ steps he moves forward and the split step. Timing the footwork allows
 the player to establish a solid foundation and then react effectively
 and move forward to the first volley.]{.underline}]{.mark}**
 
-**[[In the modern game, it\'s not about how far the players get in
-toward the net, it\'s about getting balanced, so they have a chance to
+**[[In the modern game, it's not about how far the players get in
+toward the net, it's about getting balanced, so they have a chance to
 successfully volley those rocketing, dipping returns. If you watch the
 best players in the world, after landing on the serve, they take only
 one or two steps before the split in most
@@ -110,13 +107,12 @@ sequences.]{.underline}]{.mark}**
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image4.webp)
 
 **The split occurs at roughly the time of the return.**
 
 **[[This means that the split step is usually about halfway between the
-service line and the baseline.]{.underline}]{.mark}** **[[It\'s a very
+service line and the baseline.]{.underline}]{.mark}** **[[It's a very
 difficult position from which to achieve volley control and explains a
 lot about the reduced serve and volley play in pro
 tennis.]{.underline}]{.mark}**
@@ -127,18 +123,17 @@ air by the time the ball is actually struck or shortly
 thereafter.]{.underline}]{.mark}**
 
 **[[But the goal in making the split step is not to reach some specific
-spot. It\'s about timing.]{.underline}]{.mark}** **[[The point is to
+spot. It's about timing.]{.underline}]{.mark}** **[[The point is to
 time the split to be on balance and able to react and move to the
-opponent\'s ball.]{.underline}]{.mark}** **[[Players at lower levels may
+opponent's ball.]{.underline}]{.mark}** **[[Players at lower levels may
 actually be able to close further than the top players depending on the
 pace of the exchanges.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image5.webp)
 
-**It\'s not about getting closer to the net, it\'s about balance.**
+**It's not about getting closer to the net, it's about balance.**
 
 **Anticipation**
 
@@ -146,7 +141,7 @@ height="2.5in"}
 anticipate the return. This means anticipating the ball speed,
 placement, height, and type and amount of spin.]{.underline}]{.mark}**
 **[[Good anticipation results from the ability to read the cues from the
-returner\'s body position and swing, but also from the ability to read
+returner's body position and swing, but also from the ability to read
 the shot as it leaves the racket.]{.underline}]{.mark}**
 
 In addition, certain serve placements will tend to produce certain
@@ -160,21 +155,20 @@ you find you have almost a sixth sense of what the opponent is going to
 do.]{.underline}]{.mark}** But remember, to develop this skill and the
 ability to use it effectively, you have to commit to actually trying it
 and doing so repeatedly both in practices and in matches, even if
-initially it doesn\'t yield the optimum result.
+initially it doesn't yield the optimum result.
 
 **[[A basic principle here to adjust the path of your approach to the
 location of the serve, and therefore the place from which your opponent
 makes his return.]{.underline}]{.mark}** For example, if you serve wide
 in the deuce court, you will approach on a diagonal somewhat more from
-your right to your left to stay in the middle of your opponent\'s
+your right to your left to stay in the middle of your opponent's
 angles. If you serve down the T or directly at the body, your approach
 is more directly forward, again following the line of your serve
 placement.
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image6.webp)
 
 **The 3 runways: behind the opponent, down the middle, and the open
 court.**
@@ -193,29 +187,28 @@ volley back to or behind your opponent? When is the low down the center
 volley the best play? What about short angles and drop volleys?
 
 **[[The principle for finishing at the net is the same as in the other
-sequences we\'ve looked at. You should try to finish at the net when we
+sequences we've looked at. You should try to finish at the net when we
 can hit successfully into a large target area and either hit a clean
 winner or force the opponent further at of position and/or into an
 error.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image7.webp)
 
 **Hitting at or behind the opponent can set up the finish on the second
 volley.**
 
-**[[This is why it\'s not necessarily right to hit the ball into the
+**[[This is why it's not necessarily right to hit the ball into the
 open court, particularly on the first volley.]{.underline}]{.mark}**
 **[[Hitting into the open court may seem like the obvious play. It can
 result in winners if your opponent is far enough out of position and
-can\'t catch up to the ball, or if you can sharpen the angle or
+can't catch up to the ball, or if you can sharpen the angle or
 successfully drop the ball.]{.mark}]{.underline}**
 
 **[[But what if your opponent covers the shot? Now your court can be
 wide open down the line for his passing shot. So, if cannot truly hurt
-your opponent or finish the point, it\'s better to go back at your
+your opponent or finish the point, it's better to go back at your
 opponent or behind him, because this reduces the angles for a possible
 pass. It also allows you the critical time you need to close
 further.]{.mark}]{.underline}**
@@ -231,8 +224,7 @@ players a range of progressive drills to develop all these options.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image8.webp)
 
 **Practicing all the options is the groundwork for execution in
 matches.**
@@ -255,23 +247,22 @@ off either side to all three runways? Do you know when to finish and can
 you hit the angles and placements to do so?]{.underline}]{.mark}**
 
 **[[This is just one example of the great challenges and potential
-satisfactions in the game of tennis. Here\'s wishing you a lifetime of
+satisfactions in the game of tennis. Here's wishing you a lifetime of
 success in developing all the strategic aspects of your game and
 becoming as complete and successful player as
 possible.]{.mark}]{.underline}**
 
-We hope you\'ve enjoyed and learned from our presentation of the
+We hope you've enjoyed and learned from our presentation of the
 Strategy Zone concepts and the three-point progression of control, hurt,
 and finish. [Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
 to see a list of the whole series. See everyone later on Tennisplayer!
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                       Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image9.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                                 Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image9.jpeg)                                                                                                                                                                 Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                                  Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                                  academy concept and has watched his vision grow
-                                                                                                                                                                                                 for over 30 years into the world\'s premier
+                                                                                                                                                                                                 for over 30 years into the world's premier
                                                                                                                                                                                                  tennis training ground at IMG Bollettieri in
                                                                                                                                                                                                  Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                                  collaborated with many of the leading innovators
@@ -279,7 +270,7 @@ to see a list of the whole series. See everyone later on Tennisplayer!
                                                                                                                                                                                                  concepts into training programs at the Academy.\
                                                                                                                                                                                                  \
                                                                                                                                                                                                  Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                                 Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                                 Zone, is one of the world's leading analysts of
                                                                                                                                                                                                  statistics and strategy, and the Head of
                                                                                                                                                                                                  Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                                  Academies. Lance was a pioneer in the video

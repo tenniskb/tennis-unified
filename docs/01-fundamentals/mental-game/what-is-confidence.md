@@ -6,8 +6,7 @@
 
 ![A picture containing person, outdoor, person, athletic game
 Description automatically
-generated](media_what-is-confidence/media/image1.jpg){width="2.4925371828521437in"
-height="2.342982283464567in"}
+generated](media_what-is-confidence/media/image1.jpg)
 
 **Vic Braden was really, really smart.**
 
@@ -16,7 +15,7 @@ was late to see the presentation of The Wizard Of Coto de Caza, Vic
 Braden.
 
 Just a few months before, I had the fortuitous opportunity to question
-the tennis world\'s greatest Grand Slam winner, Rod Laver, regarding the
+the tennis world's greatest Grand Slam winner, Rod Laver, regarding the
 nuts and bolts of the mental game. Stalking the Rocket through an
 airport terminal in the post midnight hours yielded surprising and
 disheartening revelations. The key to winning, The Rocket believed, was
@@ -30,8 +29,8 @@ discover the hidden truth of peak performance in tennis, surely it was
 this great wizard.
 
 Was this sequence of encounters coincidence I asked myself? I would now
-be face to face with the world\'s sharpest coach after having also
-having recently quizzed the world\'s greatest player? I hoped Vic could
+be face to face with the world's sharpest coach after having also
+having recently quizzed the world's greatest player? I hoped Vic could
 ease the monumental uncertainties and contradictions that continued to
 keep me awake at night.
 
@@ -48,8 +47,7 @@ without the massive does of LSD.
 
 ![A person holding a baseball bat Description automatically generated
 with medium
-confidence](media_what-is-confidence/media/image2.jpg){width="2.813432852143482in"
-height="3.3536111111111113in"}
+confidence](media_what-is-confidence/media/image2.jpg)
 
 **Braden did his secret research at his tennis laboratory in Coto De
 Caza.**
@@ -67,11 +65,11 @@ provide maximal acceleration on a forehand. He kept all of this \"data\"
 in a top secret sport science laboratory in Coto de Caza, California.
 
 The scope of his interests was breathtaking. Vic was interested in open
-and closed neural systems, in the size of a person\'s arm ligaments, and
-in the types of people\'s brains.
+and closed neural systems, in the size of a person's arm ligaments, and
+in the types of people's brains.
 
 But Dr. Vic Braden had another side. He was a people person. During his
-presentation he was continually talking about \"taking care of people\'s
+presentation he was continually talking about \"taking care of people's
 needs.\"
 
 He invariably treated everyone with kindness and respect. He was the
@@ -84,13 +82,12 @@ if he was about to peg you with a water balloon.
 Yet, standing at the podium on this particular morning, Vic looked half
 asleep, like he had just rolled out of bed 30 seconds earlier. His eyes
 were barely open behind his big metal framed glasses, and his graying,
-thinning hair looked like it hadn\'t been combed in days. At 5\'7\", the
+thinning hair looked like it hadn't been combed in days. At 5'7\", the
 bottom of his chin was barely at the top of the lectern.
 
 ![A person wearing a hat and smoking a cigarette Description
 automatically generated with medium
-confidence](media_what-is-confidence/media/image3.jpg){width="3.8194444444444446in"
-height="2.125in"}
+confidence](media_what-is-confidence/media/image3.jpg)
 
 **My journalistic hero: the late great Hunter S. Thompson.**
 
@@ -101,11 +98,11 @@ scientists with whom he was currently collaborating.
 He was investigating eyesight. He was studying both skiing and golf. Vic
 had very little time to sleep.
 
-Vic\'s favorite topic, however, was myths in tennis teaching. He
-informed his rapt audience that, \"We\'re doing videos now to refute the
+Vic's favorite topic, however, was myths in tennis teaching. He
+informed his rapt audience that, \"We're doing videos now to refute the
 twenty most prevalent myths of tennis.\"
 
-\"I\'m going to be producing one new video per month from now on. We
+\"I'm going to be producing one new video per month from now on. We
 want you teaching pros to be able to teach the right things to people.\"
 His mantra was \"Show me the data.\" He had launched a personal crusade
 against malpracticing, incompetent coaches - presumably including a
@@ -115,12 +112,11 @@ After his speech, Vic was mobbed by an adoring throng of questioners and
 well-wishers. I watched in fascination as he patiently answered each
 person.
 
-\"I\'d have to say that Jack Kramer was the best player I ever saw,\" he
+\"I'd have to say that Jack Kramer was the best player I ever saw,\" he
 responded to a short blonde teaching pro from Denver, Colorado.
 
 ![A picture containing person, outdoor, posing Description automatically
-generated](media_what-is-confidence/media/image4.jpg){width="4.166666666666667in"
-height="2.4027777777777777in"}
+generated](media_what-is-confidence/media/image4.jpg)
 
 **Vic felt Jack Kramer was the best of all time.**
 
@@ -144,14 +140,13 @@ factor in success.\"]{.underline}]{.mark}**
 Always?]{.mark}]{.underline}**
 
 **Was this the same approach Rod Laver had revealed to me under
-interrogation in the early morning hours in O\'Hare airport? Wasn\'t Vic
+interrogation in the early morning hours in O'Hare airport? Wasn't Vic
 aware that the desire to win was fatal for so many players? That it
 actually made them play much worse?**
 
 ![A person in a suit and tie Description automatically generated with
 medium
-confidence](media_what-is-confidence/media/image5.jpg){width="3.1944444444444446in"
-height="3.763888888888889in"}
+confidence](media_what-is-confidence/media/image5.jpg)
 
 **Was Vic endorsing the Rod Laver mean streak theory?**
 
@@ -165,11 +160,11 @@ waiting for the moment to take his next big shot in the name of truth.
 As the two of them began a long march through the casino to the
 restaurant, I sidled up alongside Vic and introduced myself.
 
-\"Hi Vic. It\'s great to see you again,\" I said with the obsequious,
+\"Hi Vic. It's great to see you again,\" I said with the obsequious,
 cautious tone of voice I always use when addressing
 celebrities\--initially.
 
-\"I don\'t know if you remember me, but my name is Jeff McCullough. We
+\"I don't know if you remember me, but my name is Jeff McCullough. We
 met a couple of years ago in San Diego. You were there with Tracy Austin
 doing TV commentary.\"
 
@@ -179,20 +174,19 @@ to read my article on the two-handed forehand.) Two years ago Vic and I
 had discussed my work and shared thoughts on the tennis book publishing
 business.
 
-But the tone of Vic\'s response betrayed that he now longer knew me from
+But the tone of Vic's response betrayed that he now longer knew me from
 Adam Ant. \"Oh sure Jeff\...ahh\...how are you doing?\"
 
 Undaunted, I took a deep breath and prepared to pull the mighty sport
-psychology trigger. Vic,\" I said, \"I\'d like to ask you about
+psychology trigger. Vic,\" I said, \"I'd like to ask you about
 something unrelated to what you talked about today\--if I might?\"
 
 ![A picture containing person, wall, indoor Description automatically
-generated](media_what-is-confidence/media/image6.jpg){width="3.1940299650043746in"
-height="5.174325240594926in"}
+generated](media_what-is-confidence/media/image6.jpg)
 
 **Was it me following Vic Braden, or was it MTV star Adam Ant?**
 
-\"What\'s that?\" he replied tiredly.
+\"What's that?\" he replied tiredly.
 
 At that moment I realized Vic actually looked about as much like a
 famous tennis coach as Rod Laver had looked like a famous player on that
@@ -205,22 +199,22 @@ month, \"trying harder to win or just letting it happen and allowing
 your best effort to come forth?\"
 
 Suddenly, enthusiasm spread across his little round face. \"I think
-you\'ve got to let it happen, to get to that automatic level of
-response, of course. But, I\'ve known and interviewed a lot of great
+you've got to let it happen, to get to that automatic level of
+response, of course. But, I've known and interviewed a lot of great
 champions\--people like Laver, Kramer and Gonzalez\--and they all had a
-great desire to win. That\'s essential.\"
+great desire to win. That's essential.\"
 
 \"They were killers in white shorts. Pure and simple.\"
 
 \"But how about people that want to win so badly that they get so
-over-aroused that they can\'t play to their potential,\" I asked.
-\"Sometimes that causes choking. Doesn\'t it?\"
+over-aroused that they can't play to their potential,\" I asked.
+\"Sometimes that causes choking. Doesn't it?\"
 
 Vic peered down at me paternally. \"Oh yeah sure, I know exactly what
 you mean,\" he replied.
 
 \"There are a lot of people like that. I believe some of them become
-anxious and choke because they\'re afraid to win and that\'s their way
+anxious and choke because they're afraid to win and that's their way
 of avoiding it. But the fear of losing is a far bigger problem.\"
 
 This seemed fantastic! Vic Braden was apparently confirming my firmly
@@ -229,8 +223,7 @@ both lose and win.
 
 ![A picture containing person, athletic game, sport Description
 automatically
-generated](media_what-is-confidence/media/image7.jpg){width="2.4305555555555554in"
-height="4.541666666666667in"}
+generated](media_what-is-confidence/media/image7.jpg)
 
 **Was losing an actual, pathological condition?**
 
@@ -244,18 +237,18 @@ absolute assurance.
 The Wilson rep was now walking well out ahead trying to speed up our
 procession. He was beginning to lose patience with the tall, blonde
 tennis conventioneer who was slowing down his star. He had traveled
-hundreds of miles to have lunch with the world\'s smartest coach, and he
+hundreds of miles to have lunch with the world's smartest coach, and he
 was visibly annoyed.
 
 We came to a halt in the lobby so that Vic could call some other major
-mover and shaker on the pay phone. \"I\'ll be here \'til four o\'clock
-today,\" he said hurriedly. \"Then I\'m flying out for another
+mover and shaker on the pay phone. \"I'll be here 'til four o'clock
+today,\" he said hurriedly. \"Then I'm flying out for another
 meeting.\" The clock was apparently ticking.
 
 Vic hung up the phone, turned back around, and noticed with surprise
 that I was still there. I remembered seeing that same look of disbelief
-and irritation on Laver\'s face. It said: \"What do I have to do to get
-rid of this pest?\" Vic\'s vaunted good guy people skills were showing
+and irritation on Laver's face. It said: \"What do I have to do to get
+rid of this pest?\" Vic's vaunted good guy people skills were showing
 signs of wear and tear.
 
 Meanwhile, I was beginning to experience the same odd feeling of
@@ -265,34 +258,33 @@ another big fish on the string!
 **The Loehr Kryptonite**
 
 I now felt pressure to come up with a blockbuster question. \"Do you
-think that it\'s helpful for these personally troubled sorts of players
+think that it's helpful for these personally troubled sorts of players
 to utilize performance goals like Jim Loehr advocates,\" I asked, \"to
 take their attention off the outcome, to reduce the pressure and help
 them play better tennis. Avoid choking?\"
 
 ![A picture containing person, suit Description automatically
-generated](media_what-is-confidence/media/image8.jpg){width="2.7777777777777777in"
-height="3.7222222222222223in"}
+generated](media_what-is-confidence/media/image8.jpg)
 
 **Jim Loehr: his message was like Kryptonite.**
 
-\"No, I don\'t like that aspect of Loehr\'s approach,\" he stated with a
-severe scowl, and I immediately recalled Rod Laver\'s similar dismissive
+\"No, I don't like that aspect of Loehr's approach,\" he stated with a
+severe scowl, and I immediately recalled Rod Laver's similar dismissive
 response.
 
-\"I want my players to stay focused on winning\--always. I don\'t want
-them to ever feel satisfied when they lose.\" Loehr\'s name was like
+\"I want my players to stay focused on winning\--always. I don't want
+them to ever feel satisfied when they lose.\" Loehr's name was like
 kryptonite to these old school tennis supermen like Vic and the Rocket!
 ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/mentalgame.html)
-to peruse Jim Loehr\'s fabulous work on Tennisplayer.)
+to peruse Jim Loehr's fabulous work on Tennisplayer.)
 
 \"I want losing to make them feel so uncomfortable that they want to
 scientifically determine why they lost and then correct it.\"
 
 \"Uhhh\...scientifically?\" I asked
 
-\"Much of the time it\'s nothing more than faulty mechanics that cause
+\"Much of the time it's nothing more than faulty mechanics that cause
 people to lose, which, if corrected, would enable them to possibly
 win.\"
 
@@ -303,44 +295,42 @@ mental toughness?\"
 
 At this precise moment, we arrived at an arched entrance above which
 read \"Flamingo Room\" in bright shocking pink neon lights. It was lunch
-time. The look on the Rep\'s face said surely this would be the
+time. The look on the Rep's face said surely this would be the
 separation point.
 
 We stood facing a plastic hostess stand with a sign: \"Please Wait to be
 Seated.\" Fortunately, the hostess was nowhere to be seen. I was still
 in the game.
 
-![](media_what-is-confidence/media/image9.jpg){width="4.08955271216098in"
-height="2.3018339895013122in"}
+![](media_what-is-confidence/media/image9.jpg)
 
 **Vegas: pursuing spiritual truth in the land of fear and loathing.**
 
 **Narcissistic Injury**
 
 Vic turned toward me and gave me a very serious look. \"Listen. This is
-something I don\'t normally talk about. Or write about.\" He hesitated
-as if he wasn\'t certain that he should continue. The Rep fidgeted,
+something I don't normally talk about. Or write about.\" He hesitated
+as if he wasn't certain that he should continue. The Rep fidgeted,
 looking around for the hostess.
 
 \"What do you mean Vic?\"
 
 \"A lot of these pathological chokers need to be in psychotherapy to
-work through their problems. Until they do, they\'re going to be
+work through their problems. Until they do, they're going to be
 blocked.\"
 
 He paused to underscore the importance of what he was about to say.
-\"Jeff, they just can\'t play their best when they have issues that
+\"Jeff, they just can't play their best when they have issues that
 remain unaddressed.
 
-\"That\'s why therapy is a normal part of my work with some of my
+\"That's why therapy is a normal part of my work with some of my
 players. Why should we assume that tennis players are less complex or
-less troubled than other people? Remember, they\'re people first.\"
+less troubled than other people? Remember, they're people first.\"
 
 \"What sort of issues. What do you mean?\"
 
 ![A picture containing outdoor Description automatically
-generated](media_what-is-confidence/media/image10.jpg){width="2.7777777777777777in"
-height="4.458333333333333in"}
+generated](media_what-is-confidence/media/image10.jpg)
 
 **Dr. Vic: psychotherapist of winners.**
 
@@ -350,7 +340,7 @@ choke because losing is so painful for them.\"
 
 \"What do you mean? Emotional trauma? Abuse?\"
 
-\"Yes. That\'s right. And losing reinforces the low self-esteem and
+\"Yes. That's right. And losing reinforces the low self-esteem and
 internalized shame that they developed in childhood. They so fear having
 to re-experience these feelings that they tighten up and choke.\"
 
@@ -359,7 +349,7 @@ to re-experience these feelings that they tighten up and choke.\"
 \"Yes. A lot of juniors come from out of state, or out of the country,
 to work with me. I get to know them on a more personal level. I become a
 surrogate father to some of them and encounter things that most pros
-don\'t.\"
+don't.\"
 
 \"Such as?\"
 
@@ -373,18 +363,17 @@ they lose racquet head speed, and positive body language deteriorates.
 And rarely do they prevail.\"
 
 \"I get them to process their feelings, release the pain of childhood,
-grieve for their losses. They unburden themselves. It\'s re-parenting
+grieve for their losses. They unburden themselves. It's re-parenting
 basically. You have to let them know that you value them as a person.
 Unconditionally.
 
 \"Most of these kids grew up in environments in which they were only
 valued when they won. When they lost they were shamed, which reinforced
 their low-self-esteem. This sort of therapy frees them up to play.
-Really play. It\'s game changing. Life changing.\"
+Really play. It's game changing. Life changing.\"
 
 ![A picture containing person Description automatically
-generated](media_what-is-confidence/media/image11.jpg){width="2.2916666666666665in"
-height="3.5416666666666665in"}
+generated](media_what-is-confidence/media/image11.jpg)
 
 **The third alternative: healing severe narcissistic injury in
 childhood.**
@@ -398,7 +387,7 @@ Now Dr. Vic Braden was staking out a whole new coaching territory.
 Psychotherapy. Crazy! Radical!
 
 \"We need to get to these kids before they quit the game. They just
-can\'t take the constant discomfort that comes along with choking. A lot
+can't take the constant discomfort that comes along with choking. A lot
 of them gravitate toward team sports where the pressure is less. Tennis
 needs to keep these kids for their sake and for the sake of the game.\"
 
@@ -407,7 +396,7 @@ needs to keep these kids for their sake and for the sake of the game.\"
 \"How many sir?\" she said perfunctorily to the exasperated rep
 stationed at the head of our delegation.
 
-I was holding my breath, waiting for the rep\'s response, hoping to hear
+I was holding my breath, waiting for the rep's response, hoping to hear
 the magic word \"Three.\" But no! It was \"Two.\" The bastard had cut me
 out of the lunchtime equation.
 
@@ -425,18 +414,17 @@ mustachioed man in a fancy tennis getup. The guy looked kind of
 familiar.
 
 ![A person holding a tennis racket Description automatically
-generated](media_what-is-confidence/media/image12.jpg){width="3.0555555555555554in"
-height="3.2916666666666665in"}
+generated](media_what-is-confidence/media/image12.jpg)
 
 **Maybe there was another guru I should have been following.**
 
 I was so flummoxed by the rep and the words of the great Vic Braden that
-I didn\'t realize it was Nick Bollettierri. Maybe I should have been
+I didn't realize it was Nick Bollettierri. Maybe I should have been
 following him instead.
 
 **The Ongoing Dilemma**
 
-So was Vic right or was he wrong? I really didn\'t know. I had no choice
+So was Vic right or was he wrong? I really didn't know. I had no choice
 but to continue to reserve judgment.
 
 But now I had a third alternative to contemplate. The key to winning
@@ -448,33 +436,31 @@ The Mystery of Competition was unmercifully still out there on the
 murky, dark road extending endlessly ahead.
 
 Suddenly feeling weak, depressed, and devastated, I collapsed on to a
-grimy, sticky stool in front of a slot machine. \"I\'m over here
-bitches! Start plying me with free drinks for God\'s sake!\" I knocked
+grimy, sticky stool in front of a slot machine. \"I'm over here
+bitches! Start plying me with free drinks for God's sake!\" I knocked
 down three drinks and ended up passed out on a craps table.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text, person, person, posing Description automatically                                                                              Jeffrey F. McCullough has been a leading California
-  generated](media_what-is-confidence/media/image13.jpeg){width="1.0375in"   teaching pro for over 30 years. In the early 80\'s,
-  height="1.6715277777777777in"}                                                                                                                             he worked at San Francisco\'s legendary Golden Gate
+  generated](media_what-is-confidence/media/image13.jpeg)                                                                                                                             he worked at San Francisco's legendary Golden Gate
                                                                                                                                                              Park where he taught side by side with John
                                                                                                                                                              Yandell\--and for a year shared an ocean view
-                                                                                                                                                             apartment in the city\'s Sunset district. For the
+                                                                                                                                                             apartment in the city's Sunset district. For the
                                                                                                                                                              last 13 years he has taught in San Diego, California
                                                                                                                                                              at the George E. Barnes Family Jr. Tennis Center.
                                                                                                                                                              Specializing in developing junior players, he has
                                                                                                                                                              coached over 50 juniors who have gone on to win
                                                                                                                                                              tournaments at all levels in USTA play. Jeff is also
                                                                                                                                                              the author of the seminal work on the two-handed
-                                                                                                                                                             game, \"Two Handed Tennis: How to Play a Winner\'s
+                                                                                                                                                             game, \"Two Handed Tennis: How to Play a Winner's
                                                                                                                                                              Game.\"
   ---------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Text Description automatically                                                                                                                            \"In Two-Handed Tennis: How to Play a Winner\'s Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
-  generated](media_what-is-confidence/media/image14.jpeg){width="1.19375in"   the two-handed style, the essential biomechanical differences between one and two-handed shots\--including the various advantages
-  height="1.8208333333333333in"}                                                                                                                              of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
+  ![Text Description automatically                                                                                                                            \"In Two-Handed Tennis: How to Play a Winner's Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
+  generated](media_what-is-confidence/media/image14.jpeg)                                                                                                                              of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
                                                                                                                                                               including how to develop a two-handed forehand in several variations. This classic work was first published in 1984. [Click
                                                                                                                                                               Here](http://www.amazon.com/Two-Handed-Tennis-Play-Winners-Game/dp/0871314258/ref=sr_1_1?ie=UTF8&s=books&qid=1219008484&sr=1-1)
                                                                                                                                                               to order!

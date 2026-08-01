@@ -7,8 +7,7 @@
 ------------------------------------------------------------------------
 
 ![A person in a suit Description automatically generated with medium
-confidence](media_my-mentor/media/image1.jpg){width="3.361111111111111in"
-height="4.486111111111111in"}
+confidence](media_my-mentor/media/image1.jpg)
 
 **My mentor as a high school senior.**
 
@@ -52,8 +51,7 @@ desired.
 
 ![A picture containing text, sport, person, athletic game Description
 automatically
-generated](media_my-mentor/media/image2.jpg){width="3.125in"
-height="5.055555555555555in"}
+generated](media_my-mentor/media/image2.jpg)
 
 **My mentor (right) was a gifted athlete in multiple sports.**
 
@@ -95,8 +93,7 @@ life, but the one that you can control is your own personal effort. It's
 a reflection of you as an employee, a person, and a leader.
 
 ![A sign on a building Description automatically generated with low
-confidence](media_my-mentor/media/image3.jpg){width="4.5040004374453195in"
-height="5.464853455818023in"}
+confidence](media_my-mentor/media/image3.jpg)
 
 **One of the two restaurants owned by my mentor.**
 
@@ -141,11 +138,9 @@ lacked closeness. There was never any real verbal guidance. But the
 lessons were there.
 
 ![A person holding a baby Description automatically
-generated](media_my-mentor/media/image4.jpg){width="2.96in"
-height="3.1757075678040243in"}![A picture containing person Description
+generated](media_my-mentor/media/image4.jpg)![A picture containing person Description
 automatically
-generated](media_my-mentor/media/image5.jpg){width="3.1242279090113736in"
-height="3.16in"}
+generated](media_my-mentor/media/image5.jpg)
 
 **The first and last pictures ever taken with me and my father.**
 
@@ -160,8 +155,7 @@ if you are a tennis teacher, the lessons you teach.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_my-mentor/media/image6.jpeg){width="2.079861111111111in"
-height="1.9041666666666666in"}
+confidence](media_my-mentor/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

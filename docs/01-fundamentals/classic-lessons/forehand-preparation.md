@@ -10,26 +10,25 @@ One universal problem I see when people come to my teaching court or
 camps is **[[poor preparation on the forehand
 groundstroke.]{.mark}]{.underline}** If this fundamental element is
 incomplete or poor it is likely the stroke will never reach its
-potential. Using pictures of some of the world\'s great pros as
-examples, let\'s examine the elements of sound forehand preparation.
+potential. Using pictures of some of the world's great pros as
+examples, let's examine the elements of sound forehand preparation.
 
 ### Watching the Ball
 
 Good preparation for any stroke starts with effective use of the eyes.
-**[Firstly, by using your eyes, you\'ll know when to make an
+**[Firstly, by using your eyes, you'll know when to make an
 all-important ready hop. [Just before]{.underline} your opponent strikes
-the ball it\'s crucial to make a balanced ready hop.]{.mark}** **You
+the ball it's crucial to make a balanced ready hop.]{.mark}** **You
 want to try to time the landing of the hop so the [feet touch the ground
 just as your opponent hits the ball.]{.underline}** This will set your
 leg muscles to move one way or the other; **knowing when to ready hop
-means you\'ll [respond more quickly and accurately]{.underline} because
-you\'re [assessing]{.underline} [physical cues]{.underline} your
+means you'll [respond more quickly and accurately]{.underline} because
+you're [assessing]{.underline} [physical cues]{.underline} your
 opponent may be giving you [just ahead of the ball leaving his
 racket]{.underline}.**
 
 ![A person playing tennis Description automatically
-generated](media_forehand-preparation/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_forehand-preparation/media/image1.webp)
 
 **Watch Agassi prepare with torso rotation first. The left arm extends
 across the body.**
@@ -39,7 +38,7 @@ problem]{.underline}]{.mark}** I see constantly, **[[the inability to
 establish the correct lateral distance from the
 ball.]{.mark}]{.underline} [Players will actually [place their bodies
 where their racquets need to be]{.underline}, in great part [because
-they don\'t track the ball long enough or with a still enough head to
+they don't track the ball long enough or with a still enough head to
 avoid overreacting while establishing position]{.underline}]{.mark}**.
 **[[Keep your head still, your shoulders level, and watch the ball until
 you hear it hit your strings.]{.underline}]{.mark}** There are two other
@@ -48,15 +47,14 @@ momentarily.
 
 ### Turning the Body
 
-Once you\'ve established the ball is coming to the forehand side,
+Once you've established the ball is coming to the forehand side,
 initiate a unit turn, or the \"coiling\" phase of the stroke. **[[The
 hips, trunk, and shoulders, in that order, rotate back until the
 shoulders are sideways to the target.]{.underline}]{.mark}** The racquet
 is actually the last part of this kinetic chain.
 
 ![A person in a black shirt Description automatically generated with low
-confidence](media_forehand-preparation/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-preparation/media/image2.webp)
 
 **The wrist drops into the laid back position, with the elbow in, and
 the racket on the right side.**
@@ -67,7 +65,7 @@ shoulders.]{.underline}]{.mark}** Most pros will **[[keep the
 non-hitting hand on the racquet throat to help initiate the turn and
 ensure the position of the arm before letting go.]{.mark} [The position
 of the non-racket arm can also assist in distancing yourself laterally
-from the ball.]{.mark} [Keeping the ball at that arm\'s length will
+from the ball.]{.mark} [Keeping the ball at that arm's length will
 prevent crowding of the swing.]{.mark} [Additionally, it helps assists
 overall balance and sets up a synchronization of the arms during the
 forward swing.]{.mark}]{.underline}**
@@ -80,8 +78,7 @@ shoulders.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-preparation/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-preparation/media/image3.webp)
 
 **Federer aligned and fully loaded with the back foot inside the ball.**
 
@@ -90,17 +87,16 @@ be planted with the weight of the body loaded on the back
 leg.]{.underline}]{.mark}** **[[*The position of the back foot should be
 to the inside of where the ball will be struck. This is yet another
 means to avoid crowding the shot.* If the back foot is planted to the
-outside of the incoming ball you\'ll be right in its path, thereby
+outside of the incoming ball you'll be right in its path, thereby
 causing you to pull your shot in an attempt to make room for the
 swing.]{.underline}]{.mark}**
 
-**[[Now you\'re ready to pull the trigger]{.underline}]{.mark}**. In the
-next article I\'ll talk about how to best utilize good preparation and
+**[[Now you're ready to pull the trigger]{.underline}]{.mark}**. In the
+next article I'll talk about how to best utilize good preparation and
 complete the forehand ground stroke package.
 
 ![A person holding a tennis racket Description automatically
-generated](media_forehand-preparation/media/image4.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_forehand-preparation/media/image4.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -114,7 +110,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

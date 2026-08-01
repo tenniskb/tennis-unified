@@ -4,8 +4,7 @@
 
 ![A picture containing tennis, athletic game, racket, sport Description
 automatically
-generated](media_effective-practice/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_effective-practice/media/image1.webp)
 
 **What are the 4 steps to solidifying improvement in competition?**
 
@@ -15,7 +14,7 @@ the surprisingly wide range of opportunities to compete and even travel
 internationally. ([Click
 Here](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx).)
 
-Now let\'s turn our attention to game improvement, and the critical role
+Now let's turn our attention to game improvement, and the critical role
 of drill games. Although this article is directed to adults, the
 approach I am outlining also applies across all ages.
 
@@ -32,7 +31,7 @@ they practice, and this prevents them from improving. They take a lesson
 and then jump into a match and wonder why what seemed so simple and so
 great with their instructor is now impossible to replicate.
 
-Solidifying change is progressive. You can\'t go from a lesson to a
+Solidifying change is progressive. You can't go from a lesson to a
 match. Intermediate competitive situations, or drill games, are
 necessary to build your confidence under pressure. Without them you are
 wasting your time and money if you are truly committed to raising your
@@ -45,8 +44,7 @@ tactical change. The steps are defined by both your level of competence
 and your awareness of that level.
 
 ![A person holding a tennis racket Description automatically
-generated](media_effective-practice/media/image2.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_effective-practice/media/image2.webp)
 
 **To create non-cognizant competence you need drill games.**
 
@@ -83,8 +81,7 @@ Playing groundstroke points to 21 is a classic practice game. But I like
 to add an initial twist which makes it simulate match play more closely.
 
 ![A person holding a tennis racket Description automatically
-generated](media_effective-practice/media/image3.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_effective-practice/media/image3.webp)
 
 **How you start backcourt games is what makes them realistic and
 effective.**
@@ -95,7 +92,7 @@ The first to win 21 points wins the game.
 
 But if the ball is put in play down the middle, there is a tendency to
 continue to hit the ball directly back and forth, exactly what you
-don\'t want to do during match play. I refer to this as the \"Companion
+don't want to do during match play. I refer to this as the \"Companion
 Syndrome.\"
 
 To correct this, I modify how the first ball is put in play. Either
@@ -108,21 +105,20 @@ shift. Vary it to keep things fresh.
 
 The point is to work on changes in your groundstrokes in the context of
 competitive backcourt points without having to deal with an actual serve
-or return. You\'ll get far more repetitions this way, as well as the
+or return. You'll get far more repetitions this way, as well as the
 opportunity to win points based on sound geometric patterns.
 
 **Solo Serving**
 
 I actually came up with this game when I found myself at the courts with
 no one in sight to play with. Solo serving is great for a couple of
-reasons. First you don\'t need a partner. Secondly as you improve you
+reasons. First you don't need a partner. Secondly as you improve you
 can increase the difficulty step by step. But I like it because, like
 the other games in this article, it creates pressure to execute, but
 less pressure than a club or league match.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_effective-practice/media/image4.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_effective-practice/media/image4.webp)
 
 **The imaginary defeat of great players through increased serving
 accuracy.**
@@ -156,8 +152,7 @@ court.
 
 ![A couple of people playing tennis Description automatically generated
 with medium
-confidence](media_effective-practice/media/image5.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_effective-practice/media/image5.webp)
 
 **The half court volley game develops consistency and confidence.**
 
@@ -179,8 +174,8 @@ that the volley must land beyond the service squares. This drill is the
 perfect first step for the aspiring attacking player.
 
 It teaches the player that consistency is the key to commanding the net.
-When you don\'t make errors at net, the baseline player is forced to
-perform. Under pressure many opponents can\'t.
+When you don't make errors at net, the baseline player is forced to
+perform. Under pressure many opponents can't.
 
 **Volleyball Scoring**
 
@@ -189,8 +184,7 @@ serve and being able to break. Spin to find out who serves first.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_effective-practice/media/image6.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_effective-practice/media/image6.webp)
 
 **Volleyball Scoring: serving to score points and returning to gain
 scoring position.**
@@ -203,22 +197,21 @@ Instead of just winning 4 points to hold serve, the server must now win
 11. The returner on the other hand sees the critical importance of
 breaking serve. Without doing so, he is unable to score at all.
 
-It\'s a great game and can be very dramatic. As you improve you can also
+It's a great game and can be very dramatic. As you improve you can also
 play to 21 points combining the basics of the game with endurance.
 
 Master these 4 drill games and you can raise your game a full level or
-more. A final point about practice partners. They don\'t all have to be
+more. A final point about practice partners. They don't all have to be
 at your level of play, hopefully there will be a mix, and you can enjoy
 playing these drill games against different levels and quality of balls.
 
-In fact, that\'s recommended! So, take your time. Work on the changes
+In fact, that's recommended! So, take your time. Work on the changes
 you need, practice correctly, and enjoy the experience of growing your
 game!
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                          Rod Heckelman has been the general manager of
-  confidence](media_effective-practice/media/image7.jpeg){width="1.7166666666666666in"   the famed Mt. Tam Racquet Club in Marin County,
-  height="2.3583333333333334in"}                                                                                                                                             California for the last 30 years. He was
+  confidence](media_effective-practice/media/image7.jpeg)                                                                                                                                             California for the last 30 years. He was
                                                                                                                                                                              formerly the youngest head pro at the John
                                                                                                                                                                              Gardner Tennis Ranch in Scottsdale, Arizona,
                                                                                                                                                                              and has been ranked numerous times in Northern

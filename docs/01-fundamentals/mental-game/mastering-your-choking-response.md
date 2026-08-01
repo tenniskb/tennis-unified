@@ -5,21 +5,20 @@
 ------------------------------------------------------------------------
 
 \"Choking.\" Probably the most dreaded word in tennis. There was a time
-when players and coaches didn\'t even say the word, for fear they could
+when players and coaches didn't even say the word, for fear they could
 spread the choking response like a virus.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person swinging a baseball bat Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image1.webp){width="2.6875in"
-                                                                           height="2.34375in"}
+   confidence](media_mastering-your-choking-response/media/image1.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **Choking is a biochemical event, not a character flaw.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Today, we know enough to say that, without doubt, choking is not a
-character flaw or some permanent disability that isn\'t possible to
-overcome. There is hope, even if you\'ve been prone to choking
+character flaw or some permanent disability that isn't possible to
+overcome. There is hope, even if you've been prone to choking
 throughout your tennis life, you can overcome it.
 
 The fact is that even the greatest players in the world occasionally
@@ -47,14 +46,13 @@ physiological, biochemical state in your body.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person in a garment Description automatically generated with low
-   confidence](media_mastering-your-choking-response/media/image2.webp){width="2.8229166666666665in"
-                                                                            height="2.2291666666666665in"}
+   confidence](media_mastering-your-choking-response/media/image2.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **When you choke your breathing gets shorter and so do your strokes.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-When you choke in tennis matches, your body\'s most primitive response
+When you choke in tennis matches, your body's most primitive response
 mechanism has been triggered. Fear \-- the fight or flight response.
 
 Choking is a biochemical event that can happen to anyone. When we choke,
@@ -88,8 +86,7 @@ court.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image3.jpg){width="2.6041666666666665in"
-                                                                                 height="2.84375in"}
+   confidence](media_mastering-your-choking-response/media/image3.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **Learn to view competition as stimulating rather than threatening.**
 
@@ -102,15 +99,15 @@ It means learning how to create your own IPS at will.
 ### Controlling Your Choking Response
 
 Controlling your own choking response is not some in born genetic
-talent, it\'s a learned skill. Here are the steps you can follow to
+talent, it's a learned skill. Here are the steps you can follow to
 learn to develop the challenge response and reduce or eliminate choking
 from your game.
 
-First, you can\'t just set out not to choke in a particular match. If
+First, you can't just set out not to choke in a particular match. If
 you become obsessed with not choking, it is almost certain you will
 choke. Remember, choking is a normal human response to pressure.
 
-Your attitude should be, if you choke, you choke. It\'s okay. And then
+Your attitude should be, if you choke, you choke. It's okay. And then
 let it go. Stay positive and move on.
 
 Second, set performance, rather than outcome, goals for your matches.
@@ -128,8 +125,7 @@ and problem-solving opportunity.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image4.jpg){width="2.6041666666666665in"
-                                                                                 height="2.78125in"}
+   confidence](media_mastering-your-choking-response/media/image4.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **No matter how you feel, project the image of a strong, confident fighter.**
 
@@ -157,7 +153,7 @@ that will take place in increments over time.
 
 As you work to respond to pressure in a positive way, there will be many
 times during matches that you will still be nervous. Acknowledge how you
-feel, but don\'t show it with your physical body.
+feel, but don't show it with your physical body.
 
 Continue to project the image of a strong and confident fighter.
 Practice the stages of mentally tough behavior between points. In fact,
@@ -179,13 +175,13 @@ set match with Greg Rusedski, Pete Sampras missed an extremely easy
 overhead that would have given him a 5-0 and probably insurmountable
 lead. After the miss, Pete smiled, laughed, turned and walked away.
 
-He didn\'t allow the miss to affect him. Even though Rusedski came back
+He didn't allow the miss to affect him. Even though Rusedski came back
 to make the breaker close, Pete maintained his positive approach and won
 both the breaker and the match. That match was a watershed for Pete, and
 the rest is history as he went on to take his fourteenth Grand Slam
 title.
 
-**[[The message here is: Don\'t berate yourself with negative self-talk.
+**[[The message here is: Don't berate yourself with negative self-talk.
 For many players, the first error is not the problem. Instead, the
 emotional abuse they heap on themselves when they choke is what really
 perpetuates the negative cycle.]{.underline}]{.mark}**
@@ -201,14 +197,13 @@ pressure.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically generated with medium
-   confidence](media_mastering-your-choking-response/media/image5.webp){width="2.7395833333333335in"
-                                                                            height="2.4479166666666665in"}
+   confidence](media_mastering-your-choking-response/media/image5.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             **Under pressure stay aggressive and execute your game plan.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Don\'t try to think in words about what you\'re trying to do
+**[[Don't try to think in words about what you're trying to do
 technically on the court or how to correct errors. Instead, think in
 pictures. Visualize how you want to hit a specific
 shot.]{.underline}]{.mark}**
@@ -226,7 +221,7 @@ player.]{.underline}]{.mark}**
 
 **[[When you are nervous, stay with what you set out to do in the match.
 If one aspect of your game plan is clearly not working, try another.
-But, in the long run, it\'s better to play the way you want to play and
+But, in the long run, it's better to play the way you want to play and
 lose than to compromise your development for the sake of that one
 match.]{.underline}]{.mark}**
 
@@ -236,10 +231,9 @@ get inspired.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A person holding a baseball bat Description automatically generated with low
-   confidence](media_mastering-your-choking-response/media/image6.webp){width="2.7291666666666665in"
-                                                                                  height="2.375in"}
+   confidence](media_mastering-your-choking-response/media/image6.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              **What\'s the point of playing tennis if it\'s not fun?**
+                                                              **What's the point of playing tennis if it's not fun?**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -265,8 +259,7 @@ the court.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mastering-your-choking-response/media/image7.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                      himself who still competes nationally in USTA
+  confidence](media_mastering-your-choking-response/media/image7.jpeg)                                                                                                                                                      himself who still competes nationally in USTA
                                                                                                                                                                                       events, Jim created the field of Mental
                                                                                                                                                                                       Toughness training with his revolutionary study
                                                                                                                                                                                       of elite pro players. He has been one of the

@@ -6,12 +6,11 @@
 
 ![A picture containing graphical user interface Description
 automatically
-generated](media_mysteries-of-the-heavy-ball-introduction/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_mysteries-of-the-heavy-ball-introduction/media/image1.webp)
 
 **Do certain players really produce a \"heavier\" ball than others?**
 
-\"The Heavy Ball.\" It\'s a mythical term. \"His ball was so heavy it
+\"The Heavy Ball.\" It's a mythical term. \"His ball was so heavy it
 was like hitting a bowling ball.\" Most tennis players and coaches have
 had the experience of playing an opponent whose ball seemed unusually
 \"heavy\".
@@ -25,7 +24,7 @@ Everywhere I go in tennis I hear different versions of the same story.
 This player or that player had the \"secret\" of the heavy ball. It was
 Don Budge, Bjorn Borg, Tomas Muster, or Pete Sampras\--or some legendary
 local college or pro player that you or I never heard of. \"This guy hit
-the heaviest forehand I\'ve ever played against.\"
+the heaviest forehand I've ever played against.\"
 
 So \"heavy ball\" is a term with a lot of connotations for a lot of
 people. But does it have any real meaning? Is there in fact any such a
@@ -34,10 +33,10 @@ quantify it, and/or teach it?
 
 If the heavy ball does really exist, it must be some combination of
 speed, spin, and shot trajectory. But what combination? Is it something
-that\'s just natural for a few gifted or lucky players? Is there a way
+that's just natural for a few gifted or lucky players? Is there a way
 to intentionally maximize the weight of your shots?
 
-In this section of Tennisplayer, we\'ve set out to investigate these
+In this section of Tennisplayer, we've set out to investigate these
 questions in a different way. Thanks to new filming and analytic
 technologies, it is now possible to measure the shot signatures of the
 top players and to distinguish how they play by the quality of the ball
@@ -45,8 +44,7 @@ they produce.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_mysteries-of-the-heavy-ball-introduction/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_mysteries-of-the-heavy-ball-introduction/media/image2.webp)
 
 **If the heavy ball exists, is it some unique combination of ball speed
 and spin?**
@@ -56,27 +54,26 @@ Research[(AdvancedTennis.com)](http://www.advancedtennis.com) have been
 investigating these factors of ball speed, spin, and trajectory, and
 beginning to put the pieces of the puzzle together. A big part of the
 story is the evolution in technologies that makes this possible. And
-that\'s part of the ongoing story we plan to tell
+that's part of the ongoing story we plan to tell
 
 **Ball Speed**
 
-We\'ll start with ball speed, and the ground-breaking research Advanced
+We'll start with ball speed, and the ground-breaking research Advanced
 Tennis scientists began on the speed of the ball in 1997 and 1998. This
 was the first quantitative study to measure the speed of the ball in pro
 tennis, beyond what the radar guns told us about the initial velocity of
 the serve. We not only studied the speed of the serve, but also of the
 groundstrokes, the returns and the volleys.
 
-Although it\'s absolutely invisible to the human eye, virtually every
+Although it's absolutely invisible to the human eye, virtually every
 shot in pro tennis lost half or more of its speed by the time it reached
-the opponent\'s baseline.
+the opponent's baseline.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_mysteries-of-the-heavy-ball-introduction/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_mysteries-of-the-heavy-ball-introduction/media/image3.webp)
 
-**It\'s invisible, but every shot in pro tennis, like this serve, loses
+**It's invisible, but every shot in pro tennis, like this serve, loses
 half of its speed between the players.**
 
 In the first article we go into detail about how we developed this
@@ -85,7 +82,7 @@ looking for an edge.
 
 **Ball Spin**
 
-After looking at the study of ball speed, we\'ll go on to look at the
+After looking at the study of ball speed, we'll go on to look at the
 first ever study of the actual spin rates in pro tennis. In 1997, we
 filmed at the U.S. Open using a new high speed digital camera technology
 that filmed at 250 frames per second. This was the first time that live
@@ -101,17 +98,16 @@ We found for example that there was no such thing as a \"flat\" first
 serve in the pro game. In reality, a 120mph Pete Sampras serve was
 actually spinning at an average of over 2500rpm.
 
-We also found that although many people believed that Andre Agassi\'s
+We also found that although many people believed that Andre Agassi's
 forehand was hit with \"heavy\" topspin, it was actually spinning at
 about 1800rpm, less than half what some of the European players were
 developing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_mysteries-of-the-heavy-ball-introduction/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_mysteries-of-the-heavy-ball-introduction/media/image4.webp)
 
-**Contrary to popular belief, Agassi\'s forehand isn\'t hit with
+**Contrary to popular belief, Agassi's forehand isn't hit with
 \"heavy\" tospin relative to other pros.**
 
 We also saw for the first time what happened to spin during the bounce
@@ -135,7 +131,7 @@ simultaneously, instead of in separate studies. To do this required a
 new, more elaborate filming protocol and new original motion analysis
 software, developed by Nasif Iskander.
 
-**Nasif was able to measure the speed of 10 returns hit by Pete\'s
+**Nasif was able to measure the speed of 10 returns hit by Pete's
 opponents, as well as 3 returns hit by Sampras.**
 
 In 2000 we were able to put these new tools into action. We were able to
@@ -148,13 +144,12 @@ most complete picture yet of the heavy ball.
 
 ![A picture containing text, tennis, sport, athletic game Description
 automatically
-generated](media_mysteries-of-the-heavy-ball-introduction/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_mysteries-of-the-heavy-ball-introduction/media/image5.webp)
 
 **How does speed interact with different types spin over the flight of
 the serve?**
 
-A critical advance in Nasif\'s software was the ability to measure the
+A critical advance in Nasif's software was the ability to measure the
 components in the spin of top players, for example, the level of
 sidespin and topspin in the deliveries of Sampras and Rusedski. In
 addition, Nasif developed a \"shot simulator\" that actually allowed us
@@ -174,8 +169,7 @@ the return.]{.underline}]{.mark}**
 
 ![A picture containing sport, athletic game, indoor, tennis Description
 automatically
-generated](media_mysteries-of-the-heavy-ball-introduction/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_mysteries-of-the-heavy-ball-introduction/media/image6.webp)
 
 **High speed filming shows that 2/3s or more of the spin on pro serves
 is actually sidespin.**
@@ -204,10 +198,9 @@ ball, as well as the path each shot takes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_mysteries-of-the-heavy-ball-introduction/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_mysteries-of-the-heavy-ball-introduction/media/image7.webp)
 
-**How does the \"weight\" of Roddick\'s ball compare to Sampras?**
+**How does the \"weight\" of Roddick's ball compare to Sampras?**
 
 The one factor that Shot Spot cannot directly measure is spin, which
 requires an additional, even faster high speed camera trained
@@ -229,8 +222,7 @@ facilitate the quest for the heavy ball. So Stay Tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_mysteries-of-the-heavy-ball-introduction/media/image8.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_mysteries-of-the-heavy-ball-introduction/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

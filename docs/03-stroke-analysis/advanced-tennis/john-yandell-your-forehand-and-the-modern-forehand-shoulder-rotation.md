@@ -5,15 +5,14 @@ Your Forehand and the Modern Forehand**
 
 # Shoulder Rotation
 
-This month, we\'ll take a look at another common and controversial
+This month, we'll take a look at another common and controversial
 technical component: torso rotation. Top players are rotating their
 shoulders 90 degrees or more in the forward swing on many balls. How
 does this factor work, when does it happen, and how does it apply to
 your game?
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image1.webp)
 
 Shoulder rotation has become extreme in pro tennis, but how does this
 apply to you?
@@ -22,8 +21,7 @@ apply to you?
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image3.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-shoulder-rotation/media/image3.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

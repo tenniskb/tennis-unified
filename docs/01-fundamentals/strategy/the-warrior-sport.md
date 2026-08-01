@@ -5,18 +5,17 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-warrior-sport/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-warrior-sport/media/image1.webp)
 
 **Every match is a small hunt.**
 
 Tennis is a Warrior sport. I believe that all of us have had other lives
 where there were no games, just hunting animals or your neighbor. Every
-match/point is a small hunt. It\'s in the DNA of all people. It\'s kill,
+match/point is a small hunt. It's in the DNA of all people. It's kill,
 raid, destroy, eat, or be eaten.
 
 The Warrior mentality is the opposite of The Disruptor mentality, well
-described in Joel Drucker\'s recent article. ([Click
+described in Joel Drucker's recent article. ([Click
 Here](Confessions%20of%20a%20Tennis%20Disruptor.docx).) There is a place
 for the Disruptor in the game and he can be is a challenging opponent
 for those who are unprepared.
@@ -46,12 +45,11 @@ weak and strong enemies. He has history on his side.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-warrior-sport/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-warrior-sport/media/image2.webp)
 
 **His weapons allow the Warrior to do whatever he has to do.**
 
-His weapons are better than the enemies\' weapons. He has practiced and
+His weapons are better than the enemies' weapons. He has practiced and
 sharpened and honed his tactics to a confident edge. He spends hours
 perfecting his strings and frames and grips.
 
@@ -85,20 +83,19 @@ The Warrior does not listen to the quiet fears. This is why he does not
 choke. The Warrior knows he will hit his targets.
 
 He steps up to the line to kill. There is no thought, just a picture in
-his mind\'s eye.
+his mind's eye.
 
 The Warrior has kick, twist, slice, top slice. The kick is going to
 move. The twist will jerk sideways. The slice will slide out wide. The
 flat ball is going to skid low and kick out as well.
 
 ![A person raising the hand Description automatically generated with low
-confidence](media_the-warrior-sport/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-warrior-sport/media/image3.webp)
 
 **The Warrior knows that his serve can kill.**
 
-He feels the exact, small spot on the ball he plans to hit. There\'s a
-sniper scope trained on it. It\'s a small spot, but he feels it is huge.
+He feels the exact, small spot on the ball he plans to hit. There's a
+sniper scope trained on it. It's a small spot, but he feels it is huge.
 He has no doubt about the right frame path.
 
 There is the soft rocking motion before the toss goes up. The start of
@@ -135,13 +132,12 @@ return.
 
 If he has to back up he will. If he has to shorten his stroke he will.
 He will run around the backhand on any serve he can to use his best
-weapon to great effect. He will go into the net with speed when he\'s
+weapon to great effect. He will go into the net with speed when he's
 hurt his enemy.
 
 ![A picture containing tennis, sport, athletic game, person Description
 automatically
-generated](media_the-warrior-sport/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-warrior-sport/media/image4.webp)
 
 **The Warrior return: disrespect for careful serves.**
 
@@ -156,25 +152,24 @@ He knows how to adjust his contact point to the speed and height of the
 serve and to create depth and angle.
 
 He feels the spot on the ball to go down the line or cross court, or
-right at the enemy\'s feet if the enemy is serving and volleying. He can
+right at the enemy's feet if the enemy is serving and volleying. He can
 use a two or three shot tactic to pass. A backhand pass down the line
 feels like a perfect sniper shot---to the head.
 
 **Playing the Disruptor**
 
-The Warrior\'s approach to the Disruptor is this. Make the Disruptor see
-that he has no answer for the Warrior\'s skills, tactics, mentality, and
+The Warrior's approach to the Disruptor is this. Make the Disruptor see
+that he has no answer for the Warrior's skills, tactics, mentality, and
 will.
 
 ![A person playing tennis Description automatically
-generated](media_the-warrior-sport/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-warrior-sport/media/image5.webp)
 
 **Play the Disruptor from inside the baseline.**
 
 When the Disruptor slows the ball down, the Warrior moves two feet
 inside the base line. He will come into net on most or all of the
-Disruptor\'s serves. He will come in on most opr all of his serves,
+Disruptor's serves. He will come in on most opr all of his serves,
 first and second. He will make the Disruptor lob when he sees he cannot
 pass or cause errors with short soft angles.
 
@@ -191,8 +186,7 @@ bump---or even a handshake\--calm, satisfied, happy.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                     Geoff Williams grew up playing tennis in his
-  generated](media_the-warrior-sport/media/image6.jpeg){width="1.8722222222222222in"   hometown of Richmond, California, winning his
-  height="2.727777777777778in"}                                                                                                                                     first and only junior tournament at age 11. Over
+  generated](media_the-warrior-sport/media/image6.jpeg)                                                                                                                                     first and only junior tournament at age 11. Over
                                                                                                                                                                     the years he went on to become a fixture on the
                                                                                                                                                                     Northern California NTRP tournament scene,
                                                                                                                                                                     winning numerous titles at both the 4.5 and 5.0

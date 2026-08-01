@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image1.webp)
 
 **How does the mind of the baseliner relate to the attacking game?**
 
@@ -39,8 +38,7 @@ to, incorporating, and following through with this addition to my game
 in high level competitive tennis.
 
 ![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image2.webp)
 
 **How did I change the baseline mind set I loved?**
 
@@ -73,8 +71,7 @@ Here](https://www.tennisplayer.net/members/rob_heckelman/incorporate_approach/).
 
 ![A picture containing person, sky, outdoor, person Description
 automatically
-generated](media_the-mind-of-the-baseliner/media/image3.jpg){width="2.878261154855643in"
-height="3.497086614173228in"}
+generated](media_the-mind-of-the-baseliner/media/image3.jpg)
 
 **From legs cramps to working with Paul Cohen.**
 
@@ -105,8 +102,7 @@ seen.
 
 ![A person with his arms crossed Description automatically generated
 with low
-confidence](media_the-mind-of-the-baseliner/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-mind-of-the-baseliner/media/image4.webp)
 
 **Was it possible I should be closing \"all the time\"?**
 
@@ -139,8 +135,7 @@ the automatic, instinctive responses that I had honed for years?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-mind-of-the-baseliner/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-mind-of-the-baseliner/media/image5.webp)
 
 **The fact was I enjoyed dictating from the backcourt.**
 
@@ -170,8 +165,7 @@ mentality.
 
 ![A picture containing sport, tennis, athletic game Description
 automatically
-generated](media_the-mind-of-the-baseliner/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image6.webp)
 
 **I enjoyed the corner to corner struggle of backcourt points.**
 
@@ -203,8 +197,7 @@ experience, where my opponent was hitting and what I could see off his
 racquet, I developed good anticipation.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image7.webp)
 
 **A big first serve never gave me as much satisfaction as a tough rally
 point.**
@@ -242,8 +235,7 @@ of tolerance and some have much less. I prided myself on having a higher
 tolerance than most of my opponents.
 
 ![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image8.webp)
 
 **A mentality like Rafael Nadal\--based on shot tolerance.**
 
@@ -310,8 +302,7 @@ idea, the reality was I simply couldn't afford the cognitive risk
 associated with trying to close the net.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image9.webp)
 
 **A simple idea: use my forehand and back it up with an easy volley.**
 
@@ -340,8 +331,7 @@ them with my best shot, my forehand.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-mind-of-the-baseliner/media/image10.jpg){width="3.773912948381452in"
-height="3.2304680664916887in"}
+confidence](media_the-mind-of-the-baseliner/media/image10.jpg)
 
 **Working with Paul, I realized I needed a better technical volley.**
 
@@ -357,7 +347,7 @@ learning multiple volley sequences that began with traditional slice
 approaches.
 
 Still, when Paul Cohen had me at the net angling volleys like a
-beginner, I thought, \"You\'ve got to be kidding. What the hell I am
+beginner, I thought, \"You've got to be kidding. What the hell I am
 doing?\"
 
 **[[Yet as we got into working on this strategy, it became apparent that
@@ -375,8 +365,7 @@ natural opportunities to get in and how to exploit
 them.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image11.webp)
 
 **Rod helped me with footwork and balance in the midcourt.**
 
@@ -400,15 +389,14 @@ or an angled overhead. We also developed a series of competitive
 drill/games and set up certain types of matches to make the transition
 to tournament play in progressive stages.
 
-I needed to pay more attention to see how short my opponent\'s shots
+I needed to pay more attention to see how short my opponent's shots
 landed on my side to make my decision to get in. This was challenging
 because it required me to be more cognizant of my strategic intention.
 Over time recognizing the shot to attack started to feel nearly as
 automatic and effortless as a groundstroke rally ball.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-mind-of-the-baseliner/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image12.webp)
 
 **Not attack within 4 balls? You lose the point.**
 
@@ -443,8 +431,7 @@ longer so foreign, I felt I could use the entire court for the first
 time in my life.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_the-mind-of-the-baseliner/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-mind-of-the-baseliner/media/image13.webp)
 
 **I started to love the moment I recognized the short ball.**
 
@@ -473,13 +460,12 @@ attacking to your game. Remember, it isn't all or nothing. It's an added
 weapon in the arsenal and you can use it as much or as little as you
 like.
 
-![](media_the-mind-of-the-baseliner/media/image14.png){width="3.3333333333333335in"
-height="2.5in"}
+![](media_the-mind-of-the-baseliner/media/image14.png)
 
 **Opportunity attacking was a dramatic shift that led to an
 international title.**
 
-I think it\'s actually possible to be a very good player but never
+I think it's actually possible to be a very good player but never
 really understand the game very well at all. If you are a good athlete,
 train hard and have the good fortune of being physically fit you can do
 very well. But after developing an opportunity attacking game, I
@@ -507,8 +493,7 @@ tennis of your life.
 
 ![A tennis player hitting a ball Description automatically generated
 with low
-confidence](media_the-mind-of-the-baseliner/media/image15.jpeg){width="1.5909722222222222in"
-height="2.078472222222222in"}
+confidence](media_the-mind-of-the-baseliner/media/image15.jpeg)
 
 The Best Tennis of Your Life
 
@@ -516,7 +501,7 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff\'s book: \"a
+and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
 [Click Here to
@@ -524,14 +509,13 @@ Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/re
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-mind-of-the-baseliner/media/image16.jpeg){width="1.3736111111111111in"
-height="1.64375in"}
+confidence](media_the-mind-of-the-baseliner/media/image16.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
 Association and trains numerous players around the world on the mental
-game. As a player in the men\'s 35 and over age division he attained an
-ITF #1 world ranking, as well as the #1 ranking in men\'s singles and
+game. As a player in the men's 35 and over age division he attained an
+ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
@@ -540,5 +524,5 @@ published by Betterway. [Click Here to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at
-jeff@mentaledge.net. You can also visit Jeff\'s website at
+jeff@mentaledge.net. You can also visit Jeff's website at
 [www.mentaledge.net](http://www.mentaledge.net/).

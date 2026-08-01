@@ -6,35 +6,33 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image1.webp)
 
 **Playing inside forehands is basic at the world class level.**
 
 Roger Federer, Pete Sampras, Steffi Graf. Some of the greatest champions
 in tennis history. You might think their games are completely different,
-and in many ways you\'d be right. But they have one thing in common
+and in many ways you'd be right. But they have one thing in common
 underlying their success: Mastery of the Inside Out position.
 
 To a greater or lesser extent every top player plays from this position.
 You can see that by looking at the number of files in the Stroke
 Archive. Of 150 Federer forehands in the archive, Roger hits over 30%
 from the inside position, more than from any other position on the
-court. It\'s the same for Rafael Nadal. More than 30% of his forehands
+court. It's the same for Rafael Nadal. More than 30% of his forehands
 are inside out or inside in, the highest percentage of any player in the
 archive. Even players like Agassi or David Nalbandian who play more from
 the center of the court still hit 20% or more of their forehands from
 the inside position.
 
-![](media_pro-patterns-the-inside-out-diagonal/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+![](media_pro-patterns-the-inside-out-diagonal/media/image2.webp)\
 **Even if they tend to play from the center, top players like Agassi
 still hit 20% of their forehands from an inside position.**
 
 Why is the inside game so critical in professional tennis? What is it
 about controlling this diagonal that has allowed our greatest players to
 dominate the sport? What do these champions know about the inside out
-game that we don\'t? This article will delineate the strategic
+game that we don't? This article will delineate the strategic
 components of the inside out position. It will instruct you how to
 master your own inside game. It could be the information you need to
 transform the outcome of your backcourt points, and the outcome of your
@@ -43,7 +41,7 @@ close matches.
 **Why Inside?**
 
 **[[Why play inside out? The obvious advantage is that it allows you to
-use your forehand against your opponent\'s
+use your forehand against your opponent's
 backhand.]{.underline}]{.mark}** **[[In general, we know very few top
 pros have obvious weaknesses on their backhand sides, yet they still
 chose to move around and play a large percentage of balls from the
@@ -51,18 +49,17 @@ inside out position.]{.underline}]{.mark}**
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image3.webp)\
 **If so many pros use the inside out to hit to the backhand, what about
 club players?**
 
-Let\'s think about what that means from the perspective of the average
+Let's think about what that means from the perspective of the average
 player. How many club players can honestly say that that their backhand
 side is as strong as their forehand? In almost cases, the backhand is
 the weaker side. This applies to most club players, and it applies to
-their opponent\'s as well\--other club players with similarly weaker
+their opponent's as well\--other club players with similarly weaker
 backhands. How much of an advantage would it be in the average club
-match to use your strength to hit to your opponent\'s weakness as the
+match to use your strength to hit to your opponent's weakness as the
 basic diagonal in backcourt exchanges?
 
 **Inside Offense**
@@ -77,8 +74,7 @@ to your opponent's forehand. Or you can approach inside-out to his
 backhand.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp)\
 **Dominating inside out produces balls to destroy inside in.**
 
 **[[There are many other options. If your opponent hits short and low,
@@ -90,7 +86,7 @@ the line and attack.]{.underline}]{.mark}**
 
 The above decisions are offensive in nature. But often a quality
 opponent will attempt to disrupt your offensive intentions by altering
-your command of the inside-out diagonal. Let\'s go through the options
+your command of the inside-out diagonal. Let's go through the options
 to counteract these efforts.
 
 **[Standing on the ad side, you appear vulnerable if your opponent hits
@@ -108,8 +104,7 @@ opponent in the inside position.
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image5.webp)
 
 **Sampras used the slice backhand to set up the inside in forehand.**
 
@@ -122,8 +117,7 @@ behind his opponent, who had moved to cover the forehand crosscourt.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image6.webp)
 
 **Sampras dared his opponents to hit into the open court and answered
 with his running forehand.**
@@ -131,34 +125,32 @@ with his running forehand.**
 Another option is to use the slice. Federer slices this ball back
 crosscourt short, inviting, his opponent to come to the net off a low
 ball against his forehand passing shot. We all know the result as
-Roger\'s forehand pass is one of the best in the game.
+Roger's forehand pass is one of the best in the game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image7.webp)
 
 **Federer uses the slice to invite his opponent in, then passes with his
 running forehand.**
 
 Steffi Graf also used the slice to set up the points playing the inside
 game. She would pound inside out forehands until she was far enough
-ahead to finish hitting inside in. When opponent\'s hit to her backhand,
+ahead to finish hitting inside in. When opponent's hit to her backhand,
 she would bide her time slicing back crosscourt hitting wide and/or
 short until she could go around the ball and attack with her forehand.
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image8.webp)
 
 **Steffi Graf was the master of setting up her inside forehand\--one of
-the biggest weapons in the history of the women\'s game.**
+the biggest weapons in the history of the women's game.**
 
-Alternatively, against her opponent\'s drives deep to her backhand,
+Alternatively, against her opponent's drives deep to her backhand,
 Steffi would chip down the line short, and force her opponent to hit to
 her forehand side, once again allowing her to employ the greatest weapon
-in the women\'s game.
+in the women's game.
 
 **[[Another tactic players try against the inside position is to try to
 hit short angles to the backhand side, usually
@@ -180,11 +172,10 @@ attack.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-the-inside-out-diagonal/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_pro-patterns-the-inside-out-diagonal/media/image9.webp)\
 **The slice counterplay up the line and the forehand volley winner.**
 
-That covers all of the tactical options. So, let\'s review. What are the
+That covers all of the tactical options. So, let's review. What are the
 patterns and shot combinations you need to master inside play?
 
 **These are:**
@@ -203,11 +194,10 @@ patterns and shot combinations you need to master inside play?
 - **Backhand chip down the line with volley combination.**
 
 ![A person playing tennis Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-the-inside-out-diagonal/media/image10.webp)
 
 **Learn to attack or defend from the inside out position, like the
-game\'s masters.**
+game's masters.**
 
 With these tools you can both attack and defend the inside out position
 with authority and play like the masters of the game.
@@ -219,8 +209,7 @@ and return to establish control of the diagonals at the start of the
 point. Stay Tuned.
 
 ![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-the-inside-out-diagonal/media/image11.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_pro-patterns-the-inside-out-diagonal/media/image11.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

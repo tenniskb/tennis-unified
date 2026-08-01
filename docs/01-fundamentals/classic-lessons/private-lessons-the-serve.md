@@ -6,51 +6,45 @@
 
 ### Scott Murphy
 
-**[[It\'s generally accepted that the serve is one of the two most
+**[[It's generally accepted that the serve is one of the two most
 important shots in tennis]{.underline}]{.mark}** (the other is the
 return of serve), because it starts every point, and is the only shot
-not dependent on how the ball is delivered off the opponent\'s racquet.
+not dependent on how the ball is delivered off the opponent's racquet.
 
 As in all the strokes, learning the fundamentals is imperative if a
 player is to achieve consistent placement, depth, spin, and power.
-Having confidence in one\'s serve is something that can really set a
+Having confidence in one's serve is something that can really set a
 player apart. To serve well takes many hours of repetitive practice, but
-the rewards are well worth it, and remember you don\'t need a partner to
+the rewards are well worth it, and remember you don't need a partner to
 do it.
 
 On my teaching court and at my Nike Tahoe Tennis Camps, [(Click here for
 info)](http://www.ussportscamps.com/sporthigh.asp?Vendor=1&SubCampType=&Sport=TENN&CampType=1).
 I see many of the same service mistakes over and over. The next two
 articles will identify them and discuss what can be done to remedy
-problems. In this article, I\'ll talk about the grips, the hitting arm,
+problems. In this article, I'll talk about the grips, the hitting arm,
 and the tossing arm.
 
 ### The Grips
 
-### ![A picture containing person Description automatically generated](media_private-lessons-the-serve/media/image1.jpg){width="2.0833333333333335in" height="2.6770833333333335in"}
+### ![A picture containing person Description automatically generated](media_private-lessons-the-serve/media/image1.jpg)
 
-**Without a service grip, you\'re doomed to the \"waiter\'s\" delivery.
-It may work fine when serving martinis, but it won\'t deliver power and
+**Without a service grip, you're doomed to the \"waiter's\" delivery.
+It may work fine when serving martinis, but it won't deliver power and
 spin.**
 
-Let\'s start with the grips. Plain and simple, there are just too many
+Let's start with the grips. Plain and simple, there are just too many
 players using eastern forehand and even semi-western grips when serving.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](media_private-lessons-the-serve/media/image2.jpg){width="2.0833333333333335in" | ![A picture containing person Description automatically                                                                                                                        |
-| height="2.6666666666666665in"}                                                                                                                                         | generated](media_private-lessons-the-serve/media/image3.jpg){width="2.0833333333333335in"  |
-|                                                                                                                                                                        | height="2.6666666666666665in"}                                                                                                                                                 |
-+:======================================================================================================================================================================:+:==============================================================================================================================================================================:+
-| **The two viable service grips, the continental\                                                                                                                                                                                                                                                                                                        |
-| (above) and the eastern backhand.**                                                                                                                                                                                                                                                                                                                     |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](media_private-lessons-the-serve/media/image4.jpg){width="2.0833333333333335in" | ![A close-up of a person\'s arm Description automatically generated with low                                                                                                   |
-| height="2.6666666666666665in"}                                                                                                                                         | confidence](media_private-lessons-the-serve/media/image5.jpg){width="2.0833333333333335in" |
-|                                                                                                                                                                        | height="2.6666666666666665in"}                                                                                                                                                 |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](media_private-lessons-the-serve/media/image2.jpg) | generated](media_private-lessons-the-serve/media/image3.jpg) |
+| --- | --- |
+| **The two viable service grips, the continental\ |  |
+| (above) and the eastern backhand.** |  |
+| ![](media_private-lessons-the-serve/media/image4.jpg) | confidence](media_private-lessons-the-serve/media/image5.jpg) |
+
 
 For the novice or the unschooled veteran, these grips feel supportive,
-but invariably using them leads to the \"waiter\'s position.\" It\'s
+but invariably using them leads to the \"waiter's position.\" It's
 called that because it appears as though the player is supporting a tray
 of food with the racquet prior to swinging at the ball.
 
@@ -79,8 +73,7 @@ practice sessions away!
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A picture containing text, person Description automatically
-   generated](media_private-lessons-the-serve/media/image6.gif){width="2.6458333333333335in"
-                                                                                  height="2.5in"}
+   generated](media_private-lessons-the-serve/media/image6.gif)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 The backswing and movement to the cocking position.
 
@@ -109,13 +102,11 @@ To initiate the backswing some players let the racquet head drop while
 others will lift it straight up. This is strictly a matter of preference
 but either way two things are imperative.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically generated with medium                                                                                             | ![A picture containing person, outdoor Description automatically                                                                                                              |
-| confidence](media_private-lessons-the-serve/media/image7.jpg){width="2.0833333333333335in" | generated](media_private-lessons-the-serve/media/image8.jpg){width="2.0833333333333335in" |
-| height="2.90625in"}                                                                                                                                                            | height="2.90625in"}                                                                                                                                                           |
-+:==============================================================================================================================================================================:+:=============================================================================================================================================================================:+
-| **Two views of the racquet drop. Note the racquet is perpendicular to the back-but definitely not scratching it.**                                                                                                                                                                                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically generated with medium | ![A picture containing person, outdoor Description automatically |
+| --- | --- |
+| confidence](media_private-lessons-the-serve/media/image7.jpg) |  |
+| **Two views of the racquet drop. Note the racquet is perpendicular to the back-but definitely not scratching it.** |  |
+
 
 **\
 The first is that the [[racquet face stays closed]{.underline}]{.mark}
@@ -129,7 +120,7 @@ the side fence).]{.underline}**
 **[[This is the cocking position. At this point the elbow is bent
 creating a \"V\" formation from the]{.underline}]{.mark}** **[[shoulder
 to the elbow to the hand.]{.underline}]{.mark}** This cocking of the
-racquet is a part of what\'s called the \"trophy position\" that I\'ll
+racquet is a part of what's called the \"trophy position\" that I'll
 discuss in more detail in part two.
 
 **[[The cocking position automatically begets the next phase, the
@@ -139,23 +130,22 @@ less perpendicular to the back.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person wearing glasses Description automatically generated with low
-   confidence](media_private-lessons-the-serve/media/image9.jpg){width="3.6458333333333335in"
-                                                                           height="2.4270833333333335in"}
+   confidence](media_private-lessons-the-serve/media/image9.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                     **A good way to set the racquet in the drop position is to visualize touching your thumb to your shoulder.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Another way of accomplishing this is to imagine touching the base of
-your thumb to your hitting shoulder from the cocked position. You won\'t
+your thumb to your hitting shoulder from the cocked position. You won't
 actually touch the shoulder but the elbow is automatically driven up and
 out.
 
 **[[From here the racquet begins its rapid ascent to contact.]{.mark}
 [This is the upward swing to the ball. This is where it can get tricky
 and discouraging for the uninitiated.]{.mark}]{.underline}**
-**[[There\'s great incentive here though, because this movement, when
-correct, provides the serve\'s single greatest power
+**[[There's great incentive here though, because this movement, when
+correct, provides the serve's single greatest power
 source.]{.underline}]{.mark}**
 
 When the movement is right there is, an internal rotation of the
@@ -163,8 +153,7 @@ shoulder as the racquet is driven upward. This is followed by pronation
 of the forearm and an outward rolling of the wrist through impact.
 
 ![A person playing tennis Description automatically
-generated](media_private-lessons-the-serve/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_private-lessons-the-serve/media/image10.webp)
 
 **Pete Sampra Serve**
 
@@ -174,14 +163,13 @@ of the ball a high five.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A picture containing text, person Description automatically
-   generated](media_private-lessons-the-serve/media/image11.webp){width="2.4895833333333335in"
-                                                                                  height="2.5in"}
+   generated](media_private-lessons-the-serve/media/image11.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                     **Watch the internal rotation of the arm and racquet head, and the pronation and the rolling of the wrist**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you\'re right handed your forearm will rotate from left to right
+If you're right handed your forearm will rotate from left to right
 placing the palm of your hand at the back of the ball (opposite for a
 lefty).
 
@@ -193,50 +181,48 @@ will accomplish the same result if you imagine hitting the upper left
 hand corner of the ball).
 
 Next, try holding the racquet normally and do the same thing until you
-can consistently hit the ball squarely. Later on you\'ll learn to modify
+can consistently hit the ball squarely. Later on you'll learn to modify
 this \"square on\" contact to produce different spins.
 
 ### The Follow Through
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a baseball bat Description automatically
-  generated](media_private-lessons-the-serve/media/image12.webp){width="2.5833333333333335in"
-  height="2.5in"}
+  generated](media_private-lessons-the-serve/media/image12.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **To get the feel for the internal arm rotation, try it holding the racquet by the throat.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Now you\'re ready for the follow through.
+Now you're ready for the follow through.
 
 After you strike the ball keep the racquet going up and out. Your wrist
 should roll to the outside and the racquet should decelerate down and
 past the left leg (right hander).
 
-Don\'t make the mistake of stopping the racquet on the right side or
+Don't make the mistake of stopping the racquet on the right side or
 somewhere out in front. These are stunted versions of the follow through
-that don\'t allow for true completion of the swing.
+that don't allow for true completion of the swing.
 
-When you\'re comfortable with the movement of the hitting arm and
-racquet, it\'s time to focus your attention on the toss and the role of
+When you're comfortable with the movement of the hitting arm and
+racquet, it's time to focus your attention on the toss and the role of
 the tossing arm throughout the serve.
 
-All that work you\'ve done on the information above means nothing if
+All that work you've done on the information above means nothing if
 your toss is all over the place!
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_private-lessons-the-serve/media/image13.jpg){width="2.0833333333333335in"
-  height="3.125in"}
+  generated](media_private-lessons-the-serve/media/image13.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Don\'t make the mistake of stopping after pronation. Your arm should be relaxed and continue all the way across your body.**
+  **Don't make the mistake of stopping after pronation. Your arm should be relaxed and continue all the way across your body.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###  The Toss
 
 To me, \"toss\" is a bit of a misnomer because it suggests a throwing
-motion**[[. I think of the toss as more of a \"lift\" in which there\'s
+motion**[[. I think of the toss as more of a \"lift\" in which there's
 a delicate placement of the ball]{.underline}]{.mark}**. **Prior to
 releasing the ball it should be [on the pads of your
 fingers]{.underline}, not the tips and not back in the palm.** **[[The
@@ -244,7 +230,7 @@ palm should be facing up, the arm extended and lifted by means of the
 shoulder.]{.underline}]{.mark}**
 
 Make sure the arm drops so that your hand is just inside the thigh of
-your front leg, otherwise you won\'t get enough momentum to avoid
+your front leg, otherwise you won't get enough momentum to avoid
 forcing the toss. The release of the ball should be as high as you can
 without tossing it back over your shoulder.
 
@@ -252,11 +238,11 @@ without tossing it back over your shoulder.
 opening.]{.underline}]{.mark}** **[[The]{.underline}]{.mark}**
 **[[fingers should \"spread\" away from the ball]{.underline}]{.mark}**
 not \"snap\" away from it. A great way to practice this is to work at
-tossing the ball so it doesn\'t spin on the way up.
+tossing the ball so it doesn't spin on the way up.
 
 High-speed video has shown that Sampras is a master of this and he does
 it repeatedly during matches! Once you can do this, notice how quiet and
-relaxed the lift has become. In the long run **[[it\'s more the idea
+relaxed the lift has become. In the long run **[[it's more the idea
 behind the no- spin toss that will make you a better
 tosser.]{.underline}]{.mark}**
 
@@ -265,14 +251,13 @@ the ball on the toss.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person holding a fruit Description automatically generated with low                                                                                               ![A person writing on a blackboard Description automatically generated with medium
-   confidence](media_private-lessons-the-serve/media/image14.jpg){width="2.6041666666666665in"   confidence](media_private-lessons-the-serve/media/image15.gif){width="2.625in"
-                                                                                 height="2.09375in"}                                                                                                                                                   height="2.1770833333333335in"}
+   confidence](media_private-lessons-the-serve/media/image14.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **Holding the ball on your finger pads at the start of the toss is crucial.**                                                                                                 **Lift the ball with your fingers opening like the petals of a flower.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A study has shown that **[[the world\'s top players generally toss to a
+A study has shown that **[[the world's top players generally toss to a
 spot somewhere between 8 and 12 inches higher than their point of
 contact. The toss needs to be at least as high as the length of your
 hitting arm and racquet but that extra height (within reason) allows for
@@ -287,19 +272,18 @@ ball to that spot.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_private-lessons-the-serve/media/image16.jpg){width="2.0833333333333335in"
-  height="3.0104166666666665in"}
+  generated](media_private-lessons-the-serve/media/image16.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **[[The tossing arm moves to extensions after the release and stays there until the racquet is cocked.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[[Your tossing arm should continue upward after the ball is released
-so that it\'s extended straight up as if pointing at the
+so that it's extended straight up as if pointing at the
 ball.]{.underline}]{.mark}**
 
 A common mistake is to discard the arm the instant the ball is released.
-Don\'t do this! It tends to speed up the hitting motion, prematurely
+Don't do this! It tends to speed up the hitting motion, prematurely
 open the shoulders and create a jack-knife effect on the body.
 
 **[[The reality is the arm should remain extended until the moment the
@@ -314,8 +298,7 @@ Work on these elements individually, then simultaneously, and get ready
 for part two!
 
 ![A person holding a tennis racket Description automatically
-generated](media_private-lessons-the-serve/media/image17.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_private-lessons-the-serve/media/image17.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -329,7 +312,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

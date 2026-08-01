@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_timing-and-the-feel-of-the-racket-head/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-feel-of-the-racket-head/media/image1.webp)
 
 **Timing and ball striking\--essential skills to reach the top.**
 
@@ -28,8 +27,7 @@ those ball-striking skills.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image2.webp)
 
 **The racket head and only the racket head strikes the tennis ball.**
 
@@ -40,7 +38,7 @@ simplistic.
 You can draw an analogy between movement and timing. Genetic factors do
 place an ultimate ceiling on your speed, but training techniques to
 improve footwork and maximize your physical ability can greatly improve
-a player\'s court coverage.
+a player's court coverage.
 
 Similarly, I have found that if players become aware of the racket head
 and practice various key skills, they can substantially improve their
@@ -59,8 +57,7 @@ the potential variations in speed, spin, angle, depth, and
 location.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image3.webp)
 
 **Are you connected to the pocket?**
 
@@ -86,8 +83,7 @@ forward.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image4.webp)
 
 **Why do top players hit the ball with their hitting arms so relaxed?**
 
@@ -96,7 +92,7 @@ head]{.underline}. This is what ideally strikes the ball.]{.mark}** When
 a player really feels the weight of the racket head he becomes
 \"connected\" to that pocket.
 
-**[[So, it\'s very important to distinguish between simply swinging the
+**[[So, it's very important to distinguish between simply swinging the
 racket, and having a feel for the racket head and the
 pocket.]{.mark}]{.underline}**
 
@@ -112,13 +108,12 @@ these exercises you can.
 Some of the exercises I will share here may seem incredibly basic, but
 if you practice them I can assure you will improve your timing
 tremendously. Or make the point another way: if you cannot execute these
-basic exercises successfully, it demonstrates that you don\'t currently
+basic exercises successfully, it demonstrates that you don't currently
 have the feel you need to realize the potential of your strokes.
 
 ![A tennis player hitting the ball Description automatically generated
 with low
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image5.webp)
 
 **At the contact point, do you feel the forearm\--or the racket head?**
 
@@ -146,8 +141,7 @@ help I take the wrist of the hitting arm and hold it between my fingers.
 
 ![A picture containing tennis, person, racket, sport Description
 automatically
-generated](media_timing-and-the-feel-of-the-racket-head/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-feel-of-the-racket-head/media/image6.webp)
 
 **Shifting the pressure points from the finger and thumb to the palm of
 the hand.**
@@ -189,14 +183,13 @@ ball as well and you are not able to roll it as fast.
 
 I highly recommend that you do this drill regularly \-- it will really
 help you develop more feel for the racket head. It may seem simple, but
-it\'s amazing how many players can\'t do it successfully. I use it even
+it's amazing how many players can't do it successfully. I use it even
 with nationally junior players, when they complain that their timing is
 off.
 
 ![A picture containing tennis, athletic game, sport, racket Description
 automatically
-generated](media_timing-and-the-feel-of-the-racket-head/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-feel-of-the-racket-head/media/image7.webp)
 
 **Can you roll the ball around the racket head? From one side to the
 other?**
@@ -208,8 +201,7 @@ ball as the ball reaches the point of inertia.
 
 ![A close-up of a dragonfly Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image8.webp)
 
 **In slow motion the quarter stays put until well after contact.**
 
@@ -231,8 +223,7 @@ ball on the racket face without the aid of the additional hand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image9.webp)
 
 **A progression of catching exercises puts your attention on the racket
 head.**
@@ -262,8 +253,7 @@ heightened awareness to actual play.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image10.webp)
 
 **Hitting with the ball starting on the racket face produces a natural,
 compact loop.**
@@ -296,16 +286,15 @@ with a full western grip.
 
 **The Real Deal**
 
-Now let\'s apply some of these basic principles to hitting actual
+Now let's apply some of these basic principles to hitting actual
 forehands. I divide the forward swing into two phases. The first phase
 is the unit turn. The second phase includes the racket drop or loop, and
-the forward swing. Let\'s see how the awareness of the racket comes into
+the forward swing. Let's see how the awareness of the racket comes into
 play, especially in the second phase.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image11.webp)
 
 **A slight pause at the completion of the turn.**
 
@@ -338,12 +327,11 @@ of the racket head for the shot you are about to
 hit.]{.underline}]{.mark}** **[[In this way, the unit turn is actually
 slightly different for every ball. Great players have this subtle,
 continuous feeling and that helps make tough shots look
-easy.]{.underline}]{.mark} [Most recreational players don\'t, and this
+easy.]{.underline}]{.mark} [Most recreational players don't, and this
 is why they can make easy shots look hard.]{.mark}**
 
 ![A child playing tennis Description automatically generated with low
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image12.webp)
 
 **After the turn the motion continues with the \"gravity drop.\"**
 
@@ -389,8 +377,7 @@ keeping the racket head on this path as long as
 possible.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_timing-and-the-feel-of-the-racket-head/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-feel-of-the-racket-head/media/image13.webp)
 
 **Feel the weight and the orientation of the racket head throughout
 phase 2.**
@@ -426,8 +413,7 @@ shot path.
 
 ![A picture containing person, tennis, athletic game, outdoor
 Description automatically
-generated](media_timing-and-the-feel-of-the-racket-head/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-feel-of-the-racket-head/media/image14.webp)
 
 **Weighting an old racket increases feel for the swing trajectory along
 the line of the shot.**
@@ -444,7 +430,7 @@ should hold the weighted racket with only the thumb and middle finger on
 the racket. Now the player has no choice but to let the momentum of the
 racket work for him. This drill is also great for working on the volley.
 
-So that\'s it for Part 1. In the next article let\'s see how the timing
+So that's it for Part 1. In the next article let's see how the timing
 of the release of the racket changes given the specific ball the player
 is receiving and trying to hit himself. Stay tuned!
 
@@ -455,8 +441,7 @@ for the fantastic job demonstrating the strokes and the exercises.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing tennis, person, racket, player Description automatically                                                                                                                Don Brosseau, shown here with two of his
-  generated](media_timing-and-the-feel-of-the-racket-head/media/image15.jpeg){width="1.8208333333333333in"   students, Angela Kulikov (left) and Lestter
-  height="1.9402777777777778in"}                                                                                                                                                                 Yeh (right), is one of the leading independent
+  generated](media_timing-and-the-feel-of-the-racket-head/media/image15.jpeg)                                                                                                                                                                 Yeh (right), is one of the leading independent
                                                                                                                                                                                                  teaching pros in the Southern California area,
                                                                                                                                                                                                  based at Griffith Park in Los Angeles. A
                                                                                                                                                                                                  former All American college player, Don played

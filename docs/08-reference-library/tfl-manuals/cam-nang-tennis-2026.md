@@ -1,18 +1,18 @@
 # CAM_NANG_TENNIS_2026
 
-+:---------------------------------------------------------------------:+
-| 🎾                                                                    |
-|                                                                       |
-| **CẨM NANG TENNIS HIỆN ĐẠI HOÀN CHỈNH**                               |
-|                                                                       |
-| **PHIÊN BẢN 2026 --- ADVANCED SYNTHESIS EDITION**                     |
-|                                                                       |
-| *Sinh Cơ Học • Thần Kinh Học Hiệu Suất • Trí Tuệ Nhân Tạo*            |
-|                                                                       |
-| **Tác giả: Henry Pham (Phạm Đức Hải)**                                |
-|                                                                       |
-| *Tennis Future Lab \| Phát hành: 03/05/2026*                          |
-+-----------------------------------------------------------------------+
+| 🎾 |  |
+| --- | --- |
+|  |  |
+| **CẨM NANG TENNIS HIỆN ĐẠI HOÀN CHỈNH** |  |
+|  |  |
+| **PHIÊN BẢN 2026 --- ADVANCED SYNTHESIS EDITION** |  |
+|  |  |
+| *Sinh Cơ Học • Thần Kinh Học Hiệu Suất • Trí Tuệ Nhân Tạo* |  |
+|  |  |
+| **Tác giả: Henry Pham (Phạm Đức Hải)** |  |
+|  |  |
+| *Tennis Future Lab \ | Phát hành: 03/05/2026* |
+
 
 > **LỜI MỞ ĐẦU**
 
@@ -1686,7 +1686,7 @@ trào.
 
 > **11.3.2. Bài Tập Tăng Cường Cổ Tay**
 
-78. Farmer\'s Walk 10--15kg mỗi tay: Đi bộ 50m, tay thẳng. 3 set/ngày.
+78. Farmer's Walk 10--15kg mỗi tay: Đi bộ 50m, tay thẳng. 3 set/ngày.
 
 79. Wrist Roller: Cuộn dây chì lên xuống. 5 phút/hướng × 3 set.
 

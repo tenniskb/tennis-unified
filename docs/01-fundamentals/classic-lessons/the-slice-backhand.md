@@ -4,83 +4,74 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-slice-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-slice-backhand/media/image1.webp)
 
 **The slice drive is a great offensive shot at all levels.**
 
 When I watch players today, they seem to treat the slice backhand as a
-second-class citizen. I\'ve always thought of the slice as a versatile
+second-class citizen. I've always thought of the slice as a versatile
 shot that can be used for either offensive or defensive. Now I rarely
 see the players use it in an offensive manner.
 
 I think the emphasis when kids are young on hitting topspin from both
 sides, and hitting backhands with two-hands, has resulting in a loss of
-understanding learning about the value of the slice. I think that it\'s
-a shot which you need to have in your arsenal. Maybe it\'s not as
-important now as when players used wood rackets, but it\'s important.
+understanding learning about the value of the slice. I think that it's
+a shot which you need to have in your arsenal. Maybe it's not as
+important now as when players used wood rackets, but it's important.
 
 Even when I watch the players like Roger Federer who do hit the slice,
-it looks to me like they\'re taking that word \"slice\" way too
+it looks to me like they're taking that word \"slice\" way too
 literally. They have a very open racket face at the start of the swing
-and they\'re hitting way too much high to low. When you swing downward
-so much, you\'re taking the pace off the ball to an extreme degree. Also
+and they're hitting way too much high to low. When you swing downward
+so much, you're taking the pace off the ball to an extreme degree. Also
 notice how far Federer finishes around and to his side. Again, this
 reduces pace because the racket pace travel along the line of the shot
 for a shorter period.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-slice-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-slice-backhand/media/image2.webp)
 
 **Most pro players finish the slice lower and further across the body.**
 
 I think there are other options that can be very effective. I think you
-can hit through the ball a little flatter, more like you\'re sweeping
+can hit through the ball a little flatter, more like you're sweeping
 off the top of a table with the racket face. If you do this you can hit
 the ball with slice and generate pace and keep the point neutral. You
-can use the slice for depth and for placement. That\'s different than
-what I see with a lot of pro players. It\'s like they are almost
-admitting they\'re in trouble and resorting to the slice hoping to get a
+can use the slice for depth and for placement. That's different than
+what I see with a lot of pro players. It's like they are almost
+admitting they're in trouble and resorting to the slice hoping to get a
 chance to start the point over.
 
-I think the slice could be more effective in the pro game. But that\'s
+I think the slice could be more effective in the pro game. But that's
 even more true for the other 99.9% of all tennis players on the planet.
 I see a lot of recreational players who think they have killer topspin
 backhands, but the ball lands short all the time. Slice is the easiest
 way to hit the ball deep. If you can have a good \"flat\" slice, as I
 like to call it, you can keep the ball deep consistently. If you can do
-hit the ball deep, you\'re going to win a lot of tennis matches.
+hit the ball deep, you're going to win a lot of tennis matches.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
      ![A person playing tennis Description automatically                                                                                                         ![A person playing tennis Description automatically                                                                                                                      ![A person swinging a tennis racket Description automatically
-     generated](media_the-slice-backhand/media/image3.jpg){width="1.375in"   generated](media_the-slice-backhand/media/image4.jpg){width="1.2604166666666667in"   generated](media_the-slice-backhand/media/image5.jpg){width="1.0833333333333333in"
-     height="1.8965518372703412in"}                                                                                                                              height="1.9242989938757655in"}                                                                                                                                           height="1.9345253718285214in"} ![A tennis player hitting a ball with a racket Description automatically generated with medium
-                                                                                                                                                                                                                                                                                                                                          confidence](media_the-slice-backhand/media/image6.jpg){width="1.0799431321084865in"
-                                                                                                                                                                                                                                                                                                                                          height="1.9284722222222221in"}
+     generated](media_the-slice-backhand/media/image3.jpg) ![A tennis player hitting a ball with a racket Description automatically generated with medium
+                                                                                                                                                                                                                                                                                                                                          confidence](media_the-slice-backhand/media/image6.jpg)
   -- ----------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A tennis player is swinging his racket Description automatically generated with low                                                                                     ![A person playing tennis Description automatically generated with medium                                                                                                    ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-slice-backhand/media/image7.jpg){width="1.1944160104986876in"   confidence](media_the-slice-backhand/media/image8.jpg){width="1.3020833333333333in"      confidence](media_the-slice-backhand/media/image9.jpg){width="1.3333333333333333in"
-  height="1.8097222222222222in"}                                                                                                                                            height="1.8210958005249345in"}                                                                                                                                               height="1.7897101924759404in"} ![A person playing tennis Description automatically generated with medium
-                                                                                                                                                                                                                                                                                                                                                         confidence](media_the-slice-backhand/media/image10.jpg){width="1.3613998250218722in"
-                                                                                                                                                                                                                                                                                                                                                         height="1.7680555555555555in"}
+  confidence](media_the-slice-backhand/media/image7.jpg) ![A person playing tennis Description automatically generated with medium
+                                                                                                                                                                                                                                                                                                                                                         confidence](media_the-slice-backhand/media/image10.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                   | ![A person swinging a tennis racket Description automatically generated with medium                                                                                      |                    | ![A person swinging a tennis racket Description automatically generated with medium                                                                                      |
-| confidence](media_the-slice-backhand/media/image11.jpg){width="1.375in" | confidence](media_the-slice-backhand/media/image12.jpg){width="1.1770833333333333in" |                    | confidence](media_the-slice-backhand/media/image13.jpg){width="1.5104166666666667in" |
-| height="1.978416447944007in"}                                                                                                                               | height="2.0294542869641297in"}                                                                                                                                           |                    | height="2.0274059492563428in"} ![A person swinging a tennis racket Description automatically                                                                             |
-|                                                                                                                                                             |                                                                                                                                                                          |                    | generated](media_the-slice-backhand/media/image14.jpg){width="1.6875in"              |
-|                                                                                                                                                             |                                                                                                                                                                          |                    | height="2.0331353893263344in"}                                                                                                                                           |
-+:===========================================================================================================================================================:+:========================================================================================================================================================================:+:==================:+:========================================================================================================================================================================:+
-| **The legendary slice drive of Ken Rosewall. My thought was: why not copy the best?**                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person swinging a tennis racket Description automatically generated with medium |  | ![A person swinging a tennis racket Description automatically generated with medium |
+| --- | --- | --- | --- |
+| confidence](media_the-slice-backhand/media/image11.jpg) ![A person swinging a tennis racket Description automatically |  |  |  |
+|  |  |  | generated](media_the-slice-backhand/media/image14.jpg) |
+| **The legendary slice drive of Ken Rosewall. My thought was: why not copy the best?** |  |  |  |
+
 
 I developed my slice by modeling it on Ken Rosewall. My dad gave me a
 tennis book with a photo sequence of Rosewall hitting his backhand. At
@@ -88,8 +79,7 @@ that time in the mid 1960s many people considered Rosewall the best
 player in the world. So I figured, why not copy the best?
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-slice-backhand/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-slice-backhand/media/image15.webp)
 
 **The high finishes means that the racket face accelerates through the
 contact.**
@@ -118,119 +108,113 @@ more control.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-slice-backhand/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-slice-backhand/media/image16.webp)
 
 **Hit the slice drive on the rise to create depth and pace.**
 
 **[[A really important part of hitting an offensive slice is not letting
-the ball drop from its apex. It\'s very difficult to hit a good
+the ball drop from its apex. It's very difficult to hit a good
 offensive slice if the ball drops. I actually try to hit it while the
-ball is still on the rise and make contact just as it\'s about to reach
+ball is still on the rise and make contact just as it's about to reach
 its apex.]{.underline}]{.mark}**
 
-**[[This allows you to stand in closer to the baseline. It\'s a real
-advantage compared to a topspin backhand. It\'s easier to hit a flat
-slice on the rise, so it\'s easier to play aggressively from the
+**[[This allows you to stand in closer to the baseline. It's a real
+advantage compared to a topspin backhand. It's easier to hit a flat
+slice on the rise, so it's easier to play aggressively from the
 baseline.]{.underline}]{.mark}**
 
-You don\'t see it in the pros, but it\'s also a great shot to use to
+You don't see it in the pros, but it's also a great shot to use to
 pass. It worked for Ken Rosewall for about 40 years. He never hit a
 topspin passing shot. **[[With the slice drive you can hit the passing
 shot on the rise, hit it with plenty of pace and keep the ball low going
-either way, and/or play the ball well at the volleyer\'s
+either way, and/or play the ball well at the volleyer's
 feet.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-slice-backhand/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-slice-backhand/media/image17.webp)
 
 **Mark Philippoussis hits through the slice and finishes higher than
 most pro players.**
 
 One of my favorite backhands of the modern era is Mark Philippoussis. He
 may not be ranked number one in the world. But when he approaches a
-backhand, whether it\'s flat, or a topspin backhand, or a slice, he
-makes sure to have a big finish on it. It\'s not a negative shot. He
-lets his opponents know that he\'s not afraid to hit an assertive
+backhand, whether it's flat, or a topspin backhand, or a slice, he
+makes sure to have a big finish on it. It's not a negative shot. He
+lets his opponents know that he's not afraid to hit an assertive
 looking slice. And that is a great thing to have.
 
 In addition to the high follow-through another important point is the
 position of the body. **[[I]{.underline}]{.mark}** **[[think in order to
 really achieve the cleanest hit on your backhand and the most depth and
 power you must have a big turn. But you must also keep turned through
-the swing. You don\'t want to open up too fast. You want to trust your
+the swing. You don't want to open up too fast. You want to trust your
 swing and stay sideways through the hit.]{.underline}]{.mark}**
 
 The front foot is another key to this. Rosewall is stepping across and
 into the shot. His foot is right there at the edge of the contact zone.
 He has most of his weight planted on the front foot and it stays that
-way. Even in the last frame it\'s still solidly on the court and the
+way. Even in the last frame it's still solidly on the court and the
 heel is just starting to come up.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                | ![A person playing tennis Description automatically generated with medium                                                                                                | ![A person playing tennis Description automatically generated with medium                                                                                                |
-| confidence](media_the-slice-backhand/media/image18.jpg){width="1.2083333333333333in" | confidence](media_the-slice-backhand/media/image19.jpg){width="1.6145833333333333in" | confidence](media_the-slice-backhand/media/image20.jpg){width="1.3541666666666667in" |
-| height="2.4479166666666665in"}                                                                                                                                           | height="2.4479166666666665in"}                                                                                                                                           | height="2.4479166666666665in"}                                                                                                                                           |
-+:========================================================================================================================================================================:+:========================================================================================================================================================================:+:========================================================================================================================================================================:+
-| **Three key frames I copied from Rosewall: the turn, the contact, and the finish.**                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_the-slice-backhand/media/image18.jpg) |  |  |
+| **Three key frames I copied from Rosewall: the turn, the contact, and the finish.** |  |  |
+
 
 After the hit you move through the ball, especially if you are going to
-the net. You don\'t necessarily want to come to a complete stop when you
+the net. You don't necessarily want to come to a complete stop when you
 hit. But a lot of players may get the wrong idea observing with the
 naked eye, and rotate through the shot with the feet too soon.
 
-If you look at the Rosewall sequence, you\'ll see that at the time he
+If you look at the Rosewall sequence, you'll see that at the time he
 reaches that high finish, his back foot is still behind the front foot,
 and his shoulders are still almost all the way sideways to the net.
 
-You also want to note **[[how Ken\'s arm forms an \"L\".at the start of
+You also want to note **[[how Ken's arm forms an \"L\".at the start of
 the backswing. He keeps that shape until he starts the forward swing.
 The arm straightens out as he moves to the contact and that provides a
 lot of the zip on the shot.]{.underline}]{.mark}**
 
-**[[But it\'s really important to note that even though the elbow is
+**[[But it's really important to note that even though the elbow is
 bent on the backswing, it does straighten out fully before the
-contact.]{.underline}]{.mark}** If you don\'t really look at the stroke
+contact.]{.underline}]{.mark}** If you don't really look at the stroke
 frame by frame you might miss that.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-slice-backhand/media/image21.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-slice-backhand/media/image21.webp)
 
 **For players at most levels the slice drive can often be a more
 effective weapon than hitting with topspin.**
 
-That\'s a problem you see with a lot of club players. They bend the arm
+That's a problem you see with a lot of club players. They bend the arm
 on the backswing but they never get it straightened out and end up
 leading the shot with the elbow. Look at how long Rosewall keeps that
-arm straight all the way through to that high finish that\'s the
+arm straight all the way through to that high finish that's the
 hallmark of the flat slice drive.
 
 It may not be trendy and it may not be used in the pro game as much as
 some people (including myself) think it could be. But I can guarantee
 you that this is a great shot that will work in almost any situation for
-most players. It can give you an edge that a lot of your opponent\'s
-probably haven\'t even thought of developing. (Note for example of a
+most players. It can give you an edge that a lot of your opponent's
+probably haven't even thought of developing. (Note for example of a
 club player who changed his high to low slice to a slice drive, [**Click
 Here**](http://www.tennisplayer.net/members/your_strokes/carl_sutherland_slice_bh_11_01_05/carl_sutherland_slice_bh_11_01_05.html).)
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| ![A person with a mustache Description automatically generated with low                                                                                                   | Trey Waltke was an elite American junior player     |
-| confidence](media_the-slice-backhand/media/image22.jpeg){width="1.2708333333333333in" | from St. Louis, Missouri, who went on to a 10-year  |
-| height="1.7083333333333333in"}                                                                                                                                            | career on the professional tour, reaching a ranking |
-|                                                                                                                                                                           | as high as #40 in the world. Known for his          |
-|                                                                                                                                                                           | graceful, attacking style and classic slice         |
-|                                                                                                                                                                           | backhand drive, Trey had wins over most of the      |
-|                                                                                                                                                                           | great players of his generation, including John     |
-|                                                                                                                                                                           | McEnroe, Jimmy Connors, Stan Smith, and Illie       |
-|                                                                                                                                                                           | Nastase. With partner Billie Jean King, he also won |
-|                                                                                                                                                                           | World Team Tennis Mixed Doubles Championship.       |
-|                                                                                                                                                                           |                                                     |
-|                                                                                                                                                                           | Trey is currently the general manager at the Los    |
-|                                                                                                                                                                           | Angeles Tennis Club, the legendary training ground  |
-|                                                                                                                                                                           | of some of the great players in the history of      |
-|                                                                                                                                                                           | tennis from Bill Tilden, to Jack Kramer, Bobby      |
-|                                                                                                                                                                           | Riggs, and Pancho Gonzales.                         |
-+===========================================================================================================================================================================+=====================================================+
+| ![A person with a mustache Description automatically generated with low | Trey Waltke was an elite American junior player |
+| --- | --- |
+| confidence](media_the-slice-backhand/media/image22.jpeg) | career on the professional tour, reaching a ranking |
+|  | as high as #40 in the world. Known for his |
+|  | graceful, attacking style and classic slice |
+|  | backhand drive, Trey had wins over most of the |
+|  | great players of his generation, including John |
+|  | McEnroe, Jimmy Connors, Stan Smith, and Illie |
+|  | Nastase. With partner Billie Jean King, he also won |
+|  | World Team Tennis Mixed Doubles Championship. |
+|  |  |
+|  | Trey is currently the general manager at the Los |
+|  | Angeles Tennis Club, the legendary training ground |
+|  | of some of the great players in the history of |
+|  | tennis from Bill Tilden, to Jack Kramer, Bobby |
+|  | Riggs, and Pancho Gonzales. |
+

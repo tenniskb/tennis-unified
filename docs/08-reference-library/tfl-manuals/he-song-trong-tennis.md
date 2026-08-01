@@ -54,9 +54,9 @@ tế quan trọng phản ánh sức khỏe tim mạch.
 
 Trong bối cảnh tennis, sóng thủy lực có ý nghĩa sâu sắc hơn nhiều người
 nghĩ. Lưu lượng máu đến cơ bắp ảnh hưởng trực tiếp đến khả năng co cơ,
-tốc độ phục hồi sau mỗi điểm đấu, và thậm chí là cảm giác \'nặng tay\'
-hay \'nhẹ tay\' mà các vận động viên thường mô tả. Các vận động viên
-được khởi động đúng cách --- không phải để \'làm ấm cơ\' mà để thiết lập
+tốc độ phục hồi sau mỗi điểm đấu, và thậm chí là cảm giác 'nặng tay'
+hay 'nhẹ tay' mà các vận động viên thường mô tả. Các vận động viên
+được khởi động đúng cách --- không phải để 'làm ấm cơ' mà để thiết lập
 nhịp sóng thủy lực tối ưu cho toàn hệ thống.
 
 Hơn nữa, dịch não tủy (Cerebrospinal Fluid --- CSF) cũng tạo ra các sóng
@@ -82,9 +82,9 @@ lại chưa đến 200 ms để thực hiện toàn bộ cú đánh. Điều nà
 thuyết là không thể --- nhưng tennis elite vẫn thực hiện được điều đó
 mỗi ngày.
 
-Bí mật nằm ở chỗ não bộ không \'ra lệnh\' từng cử động riêng lẻ. Thay
+Bí mật nằm ở chỗ não bộ không 'ra lệnh' từng cử động riêng lẻ. Thay
 vào đó, thông qua quá trình tập luyện hàng nghìn giờ, não xây dựng các
-\'chương trình vận động\' tự động --- những mẫu sóng thần kinh được kích
+'chương trình vận động' tự động --- những mẫu sóng thần kinh được kích
 hoạt như một khối. Đây là lý do kỹ năng tennis thực sự không thể học
 trong một ngày, nhưng một khi đã học được sẽ không bao giờ quên.
 
@@ -121,17 +121,17 @@ bộ hóa tinh tế của cả ba tầng sóng:
   qua chuỗi kinetic chain từ chân đến đầu vợt.
 
 Khi ba tầng sóng này đồng bộ hoàn hảo, vận động viên trải nghiệm cảm
-giác \'effortless power\' --- cú đánh dường như không cần lực nhưng lại
+giác 'effortless power' --- cú đánh dường như không cần lực nhưng lại
 tạo ra kết quả vượt trội. Đây chính là hiện tượng mà các vận động viên
-elite mô tả là \'flow state\' hay \'zone\'.
+elite mô tả là 'flow state' hay 'zone'.
 
 **1.4 Ứng Dụng Trong Huấn Luyện**
 
 Hiểu được bản chất sóng của vận động cơ thể dẫn đến những thay đổi căn
-bản trong phương pháp huấn luyện tennis. Thay vì tập trung vào \'sức
-mạnh cơ bắp\', HLV cần hướng dẫn vận động viên \'quản lý dòng chảy
-sóng\'. Thay vì yêu cầu vận động viên \'đánh mạnh hơn\', họ cần học cách
-\'để sóng đi qua một cách đầy đủ\'.
+bản trong phương pháp huấn luyện tennis. Thay vì tập trung vào 'sức
+mạnh cơ bắp', HLV cần hướng dẫn vận động viên 'quản lý dòng chảy
+sóng'. Thay vì yêu cầu vận động viên 'đánh mạnh hơn', họ cần học cách
+'để sóng đi qua một cách đầy đủ'.
 
 Điều này có nghĩa thực tiễn rằng: khởi động cần thiết lập nhịp sóng
 (không phải chỉ làm ấm cơ), bài tập kỹ thuật cần chú trọng vào timing và
@@ -171,22 +171,22 @@ chuyển giữa giá trị dương và âm.
 Khi một nhà vật lý hiện đại viết phương trình sóng y = A·sin(ωt + φ), họ
 đang mô tả chính xác điều mà Thái Cực đã diễn đạt bằng ngôn ngữ triết
 học hàng ngàn năm trước: dao động liên tục giữa hai cực, với biên độ A
-là mức độ \'chuyển cực\', tần số ω là tốc độ luân chuyển, và pha φ là
+là mức độ 'chuyển cực', tần số ω là tốc độ luân chuyển, và pha φ là
 trạng thái khởi đầu của chu kỳ.
 
 **2.2 Âm Cực Sinh Dương --- Cơ Chế Sinh Học**
 
-Câu ngạn ngữ Thái Cực \'Âm cực sinh Dương, Dương cực sinh Âm\' không chỉ
+Câu ngạn ngữ Thái Cực 'Âm cực sinh Dương, Dương cực sinh Âm' không chỉ
 là lời khuyên triết học --- đây là mô tả chính xác của cơ chế
 Stretch-Shortening Cycle (SSC) trong sinh lý học vận động.
 
 Khi một cơ bắp bị kéo dài trong pha eccentric (âm cực), protein đàn hồi
 titin và các sợi collagen trong gân tích lũy năng lượng đàn hồi ---
-giống như kéo dây cung. Đây là pha \'âm\': cơ đang ở trạng thái tiêu cực
+giống như kéo dây cung. Đây là pha 'âm': cơ đang ở trạng thái tiêu cực
 về mặt chiều dài, nhưng đang ở trạng thái tích cực về mặt năng lượng
 tiềm năng. Khi pha eccentric đạt cực điểm, một điểm chuyển cực xảy ra
 --- isometric transition --- trong đó cơ không còn kéo dài nhưng chưa
-bắt đầu rút ngắn. Ngay tại đây, \'âm cực sinh dương\': năng lượng đàn
+bắt đầu rút ngắn. Ngay tại đây, 'âm cực sinh dương': năng lượng đàn
 hồi bắt đầu chuyển thành động năng, kích hoạt pha concentric explosion
 (dương cực).
 
@@ -217,15 +217,15 @@ Sự tương đồng giữa mô hình Thái Cực và khoa học sinh lý học 
   Chuẩn bị nạp lại
 
 Mỗi kỹ thuật tennis elite đều tuân thủ nghiêm ngặt chu kỳ này. Khi một
-vận động viên \'phá vỡ\' chu kỳ --- ví dụ bỏ qua knee bend trong serve,
+vận động viên 'phá vỡ' chu kỳ --- ví dụ bỏ qua knee bend trong serve,
 hay không xoay đủ trong unit turn của forehand --- họ đang cắt ngắn pha
 âm, làm giảm biên độ sóng, và kết quả là cú đánh yếu hơn dù dùng nhiều
 lực hơn.
 
-**2.4 Khái Niệm \'Relaxed Power\' --- Nghịch Lý Lớn Nhất**
+**2.4 Khái Niệm 'Relaxed Power' --- Nghịch Lý Lớn Nhất**
 
 Một trong những nguyên lý khó hiểu nhất trong Thái Cực --- và trong
-tennis elite --- là khái niệm \'relaxed power\': sức mạnh được tạo ra từ
+tennis elite --- là khái niệm 'relaxed power': sức mạnh được tạo ra từ
 trạng thái thư giãn. Đây là nghịch lý dưới góc nhìn của người mới: nếu
 muốn đánh mạnh, chẳng phải phải gồng cơ, phải co cứng, phải dùng hết sức
 sao?
@@ -238,7 +238,7 @@ thanh, một cơ thể căng cứng không thể tạo ra whip effect.
 
 Ngược lại, khi cơ thể đủ mềm (compliance cao), sóng truyền qua tự do và
 được khuếch đại ở mỗi điểm nối tiếp. Nhưng không phải hoàn toàn mềm ---
-cần có sự cứng đúng lúc, đúng nơi để \'điều hướng\' sóng. Đây chính là
+cần có sự cứng đúng lúc, đúng nơi để 'điều hướng' sóng. Đây chính là
 nguyên lý Âm--Dương: mềm (Âm) để nhận sóng, cứng (Dương) để phóng sóng.
 
 Federer, Djokovic, Nadal hay Alcaraz đều sở hữu khả năng chuyển đổi cực
@@ -253,27 +253,27 @@ Một quan sát thú vị về các vận động viên tennis elite là họ kh
 giờ hoàn toàn đứng yên giữa các điểm đấu. Họ luôn duy trì một sự dao
 động nhỏ, nhịp nhàng --- nhún nhẹ, di chuyển trọng tâm từ chân này sang
 chân kia, bounce nhẹ gót chân. Đây không phải là thói quen thần kinh vô
-ý --- đây là một chiến lược có chủ đích để duy trì \'sóng nền\'.
+ý --- đây là một chiến lược có chủ đích để duy trì 'sóng nền'.
 
 Theo mô hình Thái Cực, cơ thể lý tưởng không bao giờ hoàn toàn đứng ở
 một cực âm hay một cực dương --- nó luôn ở giữa, dao động nhỏ, sẵn sàng
 chuyển cực nhanh chóng theo bất kỳ hướng nào. Đứng hoàn toàn yên là
-trạng thái \'chết sóng\' --- giống như mặt nước phẳng lặng hoàn toàn, nó
+trạng thái 'chết sóng' --- giống như mặt nước phẳng lặng hoàn toàn, nó
 cần thời gian và năng lượng để tạo sóng mới khi có kích thích.
 
 Về mặt sinh lý học, micro-oscillation duy trì Stretch-Shortening Cycle ở
-mức thấp --- gân và cơ luôn trong trạng thái \'tiền tải\' nhỏ, sẵn sàng
+mức thấp --- gân và cơ luôn trong trạng thái 'tiền tải' nhỏ, sẵn sàng
 kích hoạt phản xạ tủy sống với thời gian trễ tối thiểu. Split step ---
 kỹ thuật nhảy nhỏ ngay khi đối thủ tiếp bóng --- là cách vận động viên
-\'khởi động lại\' sóng nền ngay trước mỗi cú đánh.
+'khởi động lại' sóng nền ngay trước mỗi cú đánh.
 
 **2.6 Thái Cực Trong Chiến Thuật Thi Đấu**
 
 Nguyên lý Âm--Dương không chỉ áp dụng cho từng cú đánh riêng lẻ mà còn
 cho toàn bộ chiến thuật trong một trận đấu. Một trận tennis giỏi là sự
-quản lý nhịp điệu toàn cục: biết khi nào cần \'chơi âm\' (phòng thủ,
-chậm nhịp, kéo dài điểm đấu, tích lũy cơ hội) và khi nào cần \'chuyển
-sang dương\' (tấn công, tăng nhịp, kết thúc điểm đấu dứt khoát).
+quản lý nhịp điệu toàn cục: biết khi nào cần 'chơi âm' (phòng thủ,
+chậm nhịp, kéo dài điểm đấu, tích lũy cơ hội) và khi nào cần 'chuyển
+sang dương' (tấn công, tăng nhịp, kết thúc điểm đấu dứt khoát).
 
 Djokovic là bậc thầy của nghệ thuật này: anh có thể chơi phòng thủ trong
 nhiều cú đánh liên tiếp (pha âm kéo dài), tích lũy áp lực vô hình, sau
@@ -315,7 +315,7 @@ Hình dung đơn giản hơn: tương tự như khi bạn vung một chiếc roi
 cán roi dày và nặng chuyển động chậm, nhưng phần đầu roi mảnh và nhẹ
 chuyển động cực nhanh vì cùng một lượng năng lượng được tập trung vào
 một khối lượng nhỏ hơn nhiều. Cơ thể người trong tennis hoạt động theo
-cùng nguyên lý --- đây là \'whip effect\' mà nhiều HLV đề cập nhưng ít
+cùng nguyên lý --- đây là 'whip effect' mà nhiều HLV đề cập nhưng ít
 ai giải thích được tại sao nó xảy ra.
 
 **3.2 Bốn Điểm Khuếch Đại Trong Kinetic Chain**
@@ -327,7 +327,7 @@ Trong chuỗi kinetic chain của một cú tennis đầy đủ, có bốn đi�
 
 Mọi sóng đều cần nguồn năng lượng. Trong cơ thể người khi đứng trên mặt
 đất, nguồn năng lượng duy nhất để tạo ra lực là phản lực mặt đất (Ground
-Reaction Force --- GRF). Chân không chỉ là \'chân đế\' để giữ thăng bằng
+Reaction Force --- GRF). Chân không chỉ là 'chân đế' để giữ thăng bằng
 --- chân là máy bơm năng lượng.
 
 Knee bend (gập gối) là pha âm: toàn bộ hệ thống cơ chân, gân Achilles và
@@ -355,12 +355,12 @@ Từ thân, sóng truyền lên vai và cánh tay. Ở đây, hiệu ứng whip 
 thể hiện rõ ràng. Với cú serve ATP, tốc độ xoay trong của khớp vai đạt
 6,500--7,500 độ/giây --- đây là tốc độ xoay nhanh nhất được ghi nhận
 trong bất kỳ hoạt động thể thao nào. Nhưng vận động viên không cảm thấy
-mình đang cố gắng tạo ra tốc độ đó --- vai đang \'bị kéo\' bởi sóng từ
+mình đang cố gắng tạo ra tốc độ đó --- vai đang 'bị kéo' bởi sóng từ
 dưới lên.
 
 Đây là điểm mấu chốt: trong kinetic chain lý tưởng, phần trên không chủ
 động tạo lực mà bị lôi kéo bởi sóng từ phần dưới. Khi vai cố gắng
-\'giúp\' bằng cách co cơ chủ động, nó thực ra đang làm gián đoạn luồng
+'giúp' bằng cách co cơ chủ động, nó thực ra đang làm gián đoạn luồng
 sóng --- giống như người ngồi trong đoàn tàu đang chạy mà cố thêm lực
 bằng cách đẩy vào ghế ngồi.
 
@@ -373,7 +373,7 @@ căng đến mức tối đa, tích lũy năng lượng đàn hồi. Ngay trư�
 bóng, sóng đảo chiều: cổ tay bung ra tự nhiên, chuyển từ âm cực sang
 dương cực, tạo ra đoạn gia tốc cuối cùng của đầu vợt.
 
-Điều quan trọng là cổ tay không tự vung --- nó được \'bung\' bởi sóng từ
+Điều quan trọng là cổ tay không tự vung --- nó được 'bung' bởi sóng từ
 dưới lên. Người cố chủ động vung cổ tay thường sẽ làm đứt sóng, mất hiệu
 ứng whip, và tăng nguy cơ chấn thương.
 
@@ -381,14 +381,14 @@ dưới lên. Người cố chủ động vung cổ tay thường sẽ làm đ�
 
 Sự khuếch đại trong kinetic chain chỉ xảy ra khi các phân đoạn hoạt động
 đúng trình tự và đúng thời điểm. Nếu hông mở quá sớm trước khi sóng từ
-chân đến, năng lượng bị \'rò rỉ\' ra ngoài. Nếu vai xoay cùng lúc với
+chân đến, năng lượng bị 'rò rỉ' ra ngoài. Nếu vai xoay cùng lúc với
 hông thay vì trễ hơn một chút, hiệu ứng xoắn trunk biến mất. Nếu cổ tay
 bung quá sớm hoặc quá muộn, điểm tiếp bóng không đạt tốc độ tối đa.
 
 Timing của kinetic chain không thể học bằng cách nghĩ về nó --- nó được
 học thông qua lặp lại và phản hồi cảm giác. Sau hàng nghìn lần lặp lại,
 não xây dựng được một chương trình vận động tự động --- và đây là lý do
-vận động viên giỏi có vẻ \'tự nhiên\' và \'không cần nghĩ\'.
+vận động viên giỏi có vẻ 'tự nhiên' và 'không cần nghĩ'.
 
 **3.4 Những Ngắt Sóng Phổ Biến Và Cách Sửa**
 
@@ -403,11 +403,11 @@ ra ở những điểm nhất định:
   đặt ngang vai).
 
 - Ngắt sóng tại trunk: Cơ lõi không đủ ổn định để truyền sóng, bị
-  \'xẹp\' dưới tải. Sửa: tập plank, Pallof press, và các bài tập
+  'xẹp' dưới tải. Sửa: tập plank, Pallof press, và các bài tập
   anti-rotation.
 
 - Ngắt sóng tại cổ tay: Cổ tay cứng, chủ động vung thay vì để tự bung.
-  Sửa: cầm vợt lỏng hơn, tập cảm giác \'vợt nặng kéo cổ tay\'.
+  Sửa: cầm vợt lỏng hơn, tập cảm giác 'vợt nặng kéo cổ tay'.
 
 **3.5 Đo Lường Hiệu Quả Kinetic Chain**
 
@@ -415,13 +415,13 @@ Trong khoa học thể thao hiện đại, hiệu quả của kinetic chain đư
 thông qua hai chỉ số chính: tốc độ đầu vợt (racket head speed) và tỷ số
 giữa lực cơ thể sử dụng và tốc độ đầu vợt tạo ra. Một kinetic chain hiệu
 quả tạo ra tốc độ đầu vợt cao với mức lực cơ thể thấp --- đây là dấu
-hiệu của \'relaxed power\'.
+hiệu của 'relaxed power'.
 
 Các thiết bị cảm biến hiện đại như EMG (đo hoạt động điện cơ), force
 plates (đo GRF), và motion capture (theo dõi chuyển động 3D) cho phép
 các HLV và nhà khoa học thể thao phân tích kinetic chain ở từng phân
-đoạn. Nhưng cảm giác chủ quan của vận động viên --- cảm giác \'sóng đi
-qua\' hay \'bị ngắt\' --- vẫn là thước đo quan trọng không thể bỏ qua.
+đoạn. Nhưng cảm giác chủ quan của vận động viên --- cảm giác 'sóng đi
+qua' hay 'bị ngắt' --- vẫn là thước đo quan trọng không thể bỏ qua.
 
 > *\"Kinetic chain không phải là chuỗi truyền lực --- đó là chuỗi sóng
 > cộng hưởng, trong đó mỗi vòng khâu khuếch đại năng lượng từ vòng
@@ -429,7 +429,7 @@ qua\' hay \'bị ngắt\' --- vẫn là thước đo quan trọng không thể b
 
 **Chương 4**
 
-**Sóng Thần Kinh Và Trạng Thái \'The Zone\'**
+**Sóng Thần Kinh Và Trạng Thái 'The Zone'**
 
 *Não Bộ Và Hiệu Suất Đỉnh Cao*
 
@@ -449,7 +449,7 @@ tính toán:
 
 - Thời gian cơ bắp thực sự co và bắt đầu vận động: 50--100 ms
 
-Tổng cộng: 230--400 ms chỉ để \'bắt đầu\' chuyển động --- trong khi bóng
+Tổng cộng: 230--400 ms chỉ để 'bắt đầu' chuyển động --- trong khi bóng
 đã đến nơi sau 400--500 ms. Về mặt lý thuyết, người nhận giao bóng không
 có đủ thời gian để phản ứng nếu chờ đến khi thực sự nhìn thấy bóng đi.
 Vậy mà các vận động viên ATP làm điều này mỗi ngày, thậm chí còn đủ thời
@@ -474,7 +474,7 @@ là cơ chế phục hồi và củng cố ký ức vận động quan trọng.
 **Sóng Theta (4--8 Hz) --- Thiền Và Trực Giác**
 
 Sóng theta liên quan đến trạng thái thiền, sáng tạo và trực giác. Vận
-động viên trong giai đoạn \'đọc game\' sâu --- dự đoán ý đồ đối thủ,
+động viên trong giai đoạn 'đọc game' sâu --- dự đoán ý đồ đối thủ,
 nhận ra mẫu hình chiến thuật --- thường có tăng cường sóng theta ở vùng
 trán. Điều này lý giải tại sao thiền định và visualisation trở nên phổ
 biến trong tennis hiện đại: chúng tăng cường khả năng xử lý theta, cải
@@ -482,9 +482,9 @@ thiện trực giác thi đấu.
 
 **Sóng Alpha (8--13 Hz) --- Cân Bằng Lý Tưởng**
 
-Sóng alpha là \'vùng vàng\' của trạng thái thi đấu. Khi alpha chiếm ưu
-thế ở vùng vỏ não vận động, vận động viên ở trạng thái \'nghỉ ngơi tỉnh
-thức\' --- thư giãn nhưng cực kỳ chú ý, tĩnh lặng bên trong nhưng phản
+Sóng alpha là 'vùng vàng' của trạng thái thi đấu. Khi alpha chiếm ưu
+thế ở vùng vỏ não vận động, vận động viên ở trạng thái 'nghỉ ngơi tỉnh
+thức' --- thư giãn nhưng cực kỳ chú ý, tĩnh lặng bên trong nhưng phản
 ứng sắc bén bên ngoài. Nghiên cứu neurofeedback cho thấy vận động viên
 elite có tỷ lệ alpha/theta đặc trưng ở vùng trán cao hơn đáng kể so với
 vận động viên trung bình, đặc biệt ngay trước khi thực hiện cú đánh.
@@ -493,38 +493,38 @@ vận động viên trung bình, đặc biệt ngay trước khi thực hiện c
 
 Beta cao là kẻ thù của hiệu suất tennis. Khi vận động viên lo lắng, phân
 tích kỹ thuật quá mức, hoặc bị áp lực điểm số, beta tăng vọt --- và đây
-là lúc \'over-thinking\' gây ra lỗi. Người chơi mới thường ở trạng thái
+là lúc 'over-thinking' gây ra lỗi. Người chơi mới thường ở trạng thái
 beta cao --- mỗi cú đánh đều được phân tích ý thức, chậm và không chắc
-chắn. Vận động viên elite học cách \'tắt beta\' trước và trong cú đánh,
+chắn. Vận động viên elite học cách 'tắt beta' trước và trong cú đánh,
 để kỹ năng tự động làm việc.
 
 **Sóng Gamma (30--100 Hz) --- Ý Thức Cao Và Quyết Định**
 
 Gamma xuất hiện trong các khoảnh khắc ra quyết định nhanh, nhận thức cao
 độ. Một nghiên cứu thú vị cho thấy gamma tăng trong vài mili-giây ngay
-trước khi một ý tưởng sáng tạo xuất hiện --- \'aha moment\'. Trong
+trước khi một ý tưởng sáng tạo xuất hiện --- 'aha moment'. Trong
 tennis, gamma có thể liên quan đến khoảnh khắc nhận ra cơ hội và thực
 hiện cú đánh bất ngờ.
 
-**4.3 \'Quiet Eye\' --- Sóng Thị Giác Và Tập Trung**
+**4.3 'Quiet Eye' --- Sóng Thị Giác Và Tập Trung**
 
 Một trong những phát hiện quan trọng nhất trong tâm lý thể thao là hiện
-tượng \'quiet eye\' (mắt yên tĩnh): các vận động viên elite duy trì điểm
+tượng 'quiet eye' (mắt yên tĩnh): các vận động viên elite duy trì điểm
 nhìn tập trung vào mục tiêu lâu hơn và ổn định hơn ngay trước và trong
 khi thực hiện kỹ năng, so với vận động viên trung bình. Nghiên cứu trên
 các vận động viên tennis cho thấy quiet eye duration ở vận động viên
 elite dài hơn 50--100 ms so với vận động viên amateur.
 
 Cơ chế thần kinh đằng sau quiet eye liên quan đến việc giảm sóng beta ở
-vùng vỏ não vận động (giảm \'tiếng ồn\' thần kinh) và tăng sóng alpha
-(trạng thái sẵn sàng thư giãn). Đây là cách não \'yên lặng\' đủ để cơ
+vùng vỏ não vận động (giảm 'tiếng ồn' thần kinh) và tăng sóng alpha
+(trạng thái sẵn sàng thư giãn). Đây là cách não 'yên lặng' đủ để cơ
 chế tự động hoạt động. Người cố gắng đánh đúng kỹ thuật bằng ý thức phân
 tích (beta cao) thực ra đang làm chậm và kém chính xác hơn so với người
 để cơ chế tự động dẫn dắt (alpha cao).
 
 **4.4 Flow State --- Khi Sóng Não Đồng Bộ Với Sóng Cơ Thể**
 
-Trạng thái \'flow\' hay \'zone\' --- mà các vận động viên mô tả như cảm
+Trạng thái 'flow' hay 'zone' --- mà các vận động viên mô tả như cảm
 giác thời gian chậm lại, mọi cú đánh tự nhiên đến một cách dễ dàng, và
 bản thân gần như là người quan sát từ bên ngoài --- là trạng thái đồng
 bộ hóa hoàn hảo giữa sóng não và sóng cơ thể.
@@ -533,12 +533,12 @@ Nghiên cứu neuroscience cho thấy trong flow state, có sự đồng bộ h�
 thường giữa các vùng não: thùy trán trước (lý trí, kiểm soát) giảm hoạt
 động (giảm beta), trong khi các mạng lưới liên quan đến xử lý vận động
 tự động tăng hoạt động (tăng alpha và theta). Điều này giải thích cảm
-giác \'không suy nghĩ\' trong flow --- không phải vì não kém hoạt động,
+giác 'không suy nghĩ' trong flow --- không phải vì não kém hoạt động,
 mà vì các chức năng ý thức nhường quyền cho các chức năng tự động cao
 cấp hơn.
 
-Bản chất sóng của flow state: não đang vận hành ở một \'tần số cộng
-hưởng\' đặc biệt với cơ thể. Các vòng phản hồi thần kinh--cơ bắp đang
+Bản chất sóng của flow state: não đang vận hành ở một 'tần số cộng
+hưởng' đặc biệt với cơ thể. Các vòng phản hồi thần kinh--cơ bắp đang
 hoạt động ở hiệu suất tối đa, và toàn bộ hệ thống --- não, thần kinh,
 cơ, gân --- đang rung ở cùng một nhịp.
 
@@ -560,7 +560,7 @@ lời là có --- thông qua các kỹ thuật quản lý sóng não:
   giãn.
 
 - Anchor kinesthetic: Cảm giác vật lý cụ thể (như cảm giác vợt trong
-  tay, lòng bàn chân trên mặt sân) đưa não về \'đây và bây giờ\', giảm
+  tay, lòng bàn chân trên mặt sân) đưa não về 'đây và bây giờ', giảm
   sóng beta lo lắng.
 
 > *\"Mặt nước yên tĩnh phản chiếu hoàn hảo. Tâm trí yên tĩnh phản ứng
@@ -591,7 +591,7 @@ sóng bên trong chu kỳ Âm--Dương.
 Forehand bắt đầu từ khoảnh khắc vận động viên nhận ra bóng đang đến bên
 phải (với tay phải). Pha âm --- thu sóng --- là giai đoạn cơ thể chuẩn
 bị tích lũy năng lượng. Đây là giai đoạn mà người mới thường bỏ qua hoặc
-thực hiện không đầy đủ vì muốn \'đánh ngay\'.
+thực hiện không đầy đủ vì muốn 'đánh ngay'.
 
 **Unit Turn --- Xoay Như Một Khối**
 
@@ -618,7 +618,7 @@ tạo ra cú đánh mạnh hơn nhiều khi đứng thẳng.
 
 Khi cánh tay di chuyển về phía sau cùng với unit turn, cổ tay tự nhiên
 tụt lại phía sau so với cánh tay --- đây là wrist lag. Gân cổ tay bị kéo
-căng, tích lũy năng lượng đàn hồi. Lag cổ tay là \'âm cực\' của phần
+căng, tích lũy năng lượng đàn hồi. Lag cổ tay là 'âm cực' của phần
 cuối kinetic chain --- điểm mà nếu thiếu, whip effect của cổ tay sẽ
 không xảy ra.
 
@@ -626,7 +626,7 @@ không xảy ra.
 
 Đây là khoảnh khắc ngắn nhất nhưng quan trọng nhất trong forehand: điểm
 mà chuyển động không còn về sau nhưng chưa bắt đầu về trước. Trong Thái
-Cực, đây là điểm \'trung hòa\' --- không âm, không dương. Trong sinh lý
+Cực, đây là điểm 'trung hòa' --- không âm, không dương. Trong sinh lý
 học, đây là giai đoạn isometric --- cơ đang tạo lực mà không thay đổi
 chiều dài.
 
@@ -645,9 +645,9 @@ vai kéo theo → cánh tay → cổ tay bung.
 
 **Hông Dẫn Trước**
 
-Hông không chỉ \'mở\' --- hông chủ động dẫn dắt. Tốc độ mở hông quyết
+Hông không chỉ 'mở' --- hông chủ động dẫn dắt. Tốc độ mở hông quyết
 định tốc độ của toàn bộ chuỗi phía sau. Vận động viên elite có hông mở
-nhanh và dứt khoát, trong khi người mới thường để hông \'trôi\' theo chứ
+nhanh và dứt khoát, trong khi người mới thường để hông 'trôi' theo chứ
 không dẫn. Một bài tập cổ điển: đứng với đai kháng lực quanh hông, tập
 thảo động tác forehand với lực cản --- điều này buộc hông phải chủ động
 dẫn.
@@ -658,12 +658,12 @@ dẫn.
 tưởng nhất, điểm tiếp bóng ở phía trước thân một chút, ngang hoặc cao
 hơn hông một chút. Đây là điểm mà tất cả các sóng cộng hưởng --- sóng từ
 chân, từ hông, từ vai, từ cổ tay --- đều đạt cực điểm cùng một lúc. Đây
-là \'sweet spot\' về timing, không chỉ về không gian.
+là 'sweet spot' về timing, không chỉ về không gian.
 
 **Follow Through --- Dương Suy**
 
 Follow through không chỉ là phần thừa sau khi tiếp bóng. Đây là pha
-\'dương suy\' --- sóng đang tắt dần một cách có kiểm soát. Follow
+'dương suy' --- sóng đang tắt dần một cách có kiểm soát. Follow
 through đúng bảo vệ khớp và gân bằng cách giảm dần tốc độ thay vì dừng
 đột ngột. Nó cũng ảnh hưởng đến topspin: follow through quét lên cao hơn
 tạo ra nhiều topspin hơn so với follow through về phía trước.
@@ -673,20 +673,20 @@ tạo ra nhiều topspin hơn so với follow through về phía trước.
 Trong tennis hiện đại có hai phong cách forehand chính, mỗi phong cách
 phản ánh một cách quản lý sóng khác nhau:
 
-**Phong Cách \'Western\' (Grip Dày)**
+**Phong Cách 'Western' (Grip Dày)**
 
 Federer và nhiều vận động viên châu Âu sử dụng semi-western hoặc eastern
 grip --- bàn tay đặt ở vị trí trung bình trên grip. Forehand này tạo ra
 ít topspin hơn nhưng có thể đánh ở nhiều độ cao và nhiều góc khác nhau
-linh hoạt hơn. Sóng trong forehand này có tính chất \'phẳng\' hơn --- ít
+linh hoạt hơn. Sóng trong forehand này có tính chất 'phẳng' hơn --- ít
 xoắn dọc, nhiều ngang.
 
-**Phong Cách \'Tây Ban Nha\' (Grip Rất Dày)**
+**Phong Cách 'Tây Ban Nha' (Grip Rất Dày)**
 
 Nadal và nhiều vận động viên sử dụng western hoặc extreme western grip
 --- bàn tay đặt rất thấp trên grip. Forehand này tạo ra topspin cực kỳ
 nhiều nhưng cần tiếp bóng ở độ cao cao hơn. Sóng trong forehand này có
-tính chất \'xoắn\' --- năng lượng được chuyển đổi thành spin nhiều hơn
+tính chất 'xoắn' --- năng lượng được chuyển đổi thành spin nhiều hơn
 là speed. Đây là forehand phù hợp nhất cho sân đất nện nơi bóng nảy cao.
 
 > *\"Một cú forehand mạnh không bắt đầu từ tay --- nó bắt đầu từ sự xoay
@@ -710,8 +710,8 @@ thể, từ chân đến đầu vợt, trong một chuỗi liên tục không th
 Phân tích sinh cơ học cho thấy serve ATP đỉnh cao bao gồm: 51--55% lực
 đến từ leg drive, 20--25% từ trunk rotation, 15--20% từ shoulder
 internal rotation, và chỉ 5--10% từ wrist và forearm. Điều này hoàn toàn
-trái với cảm nhận của người mới --- họ nghĩ rằng mình đang \'đánh bằng
-tay\' trong khi thực ra tay chỉ là bộ khuếch đại sóng cuối cùng.
+trái với cảm nhận của người mới --- họ nghĩ rằng mình đang 'đánh bằng
+tay' trong khi thực ra tay chỉ là bộ khuếch đại sóng cuối cùng.
 
 **6.2 Giai Đoạn 1: Knee Bend --- Pha Âm Từ Chân**
 
@@ -722,7 +722,7 @@ Achilles tích lũy năng lượng đàn hồi, cơ quadriceps và hamstring b�
 eccentric.
 
 Đây là pha âm tuyệt đối: trọng tâm đi xuống, năng lượng được tích lũy,
-hệ thống đang \'nạp\'. Nếu không có knee bend, serve chỉ là một cú tay
+hệ thống đang 'nạp'. Nếu không có knee bend, serve chỉ là một cú tay
 --- thiếu mất hơn 50% năng lượng tiềm năng. Đây là lỗi phổ biến nhất ở
 người mới: họ serve gần như đứng thẳng, cố gắng bù đắp bằng lực tay, và
 kết quả là serve yếu và dễ bị chấn thương vai.
@@ -736,8 +736,8 @@ trunk đang xoay vào trong (âm), vai đang ở abduction và external
 rotation (chuẩn bị cho internal rotation --- dương), cẳng tay đang ở
 pronation (âm).
 
-Tên \'trophy position\' đến từ hình dạng giống như cúp thể thao ---
-nhưng ý nghĩa sâu xa hơn là đây là khoảnh khắc \'cân bằng tối đa\' trong
+Tên 'trophy position' đến từ hình dạng giống như cúp thể thao ---
+nhưng ý nghĩa sâu xa hơn là đây là khoảnh khắc 'cân bằng tối đa' trong
 Thái Cực: tất cả năng lượng đã được tích lũy, toàn bộ hệ thống đang ở
 đỉnh điểm âm cực, và chuẩn bị cho sự chuyển đổi sang dương cực bùng nổ.
 
@@ -747,35 +747,35 @@ Khi chân đẩy lên (leg drive), pha dương bắt đầu. GRF bùng phát, đ
 bộ cơ thể lên trên. Đồng thời, trunk bắt đầu xoay từ âm (xoay vào trong)
 sang dương (xoay ra ngoài). Đây là hai sóng khuếch đại đầu tiên.
 
-Khoảnh khắc này quan trọng đến mức các HLV thường nói: \'Serve bắt đầu
-từ chân, không phải từ tay.\' Nhưng một cách chính xác hơn: \'Sóng của
-serve bắt đầu từ chân.\' Leg drive không chỉ tạo chiều cao --- nó tạo
+Khoảnh khắc này quan trọng đến mức các HLV thường nói: 'Serve bắt đầu
+từ chân, không phải từ tay.' Nhưng một cách chính xác hơn: 'Sóng của
+serve bắt đầu từ chân.' Leg drive không chỉ tạo chiều cao --- nó tạo
 momentum cho toàn bộ chuỗi sóng phía trên.
 
 **6.5 Giai Đoạn 4: Internal Rotation Vai --- Khuếch Đại Lần Hai**
 
 Sau khi trunk rotation kích hoạt, vai thực hiện internal rotation (xoay
 vào trong) với tốc độ 6,500--7,500 độ/giây. Đây là chuyển động nhanh
-nhất trong thể thao. Điều thú vị là vận động viên không \'cố\' xoay vai
+nhất trong thể thao. Điều thú vị là vận động viên không 'cố' xoay vai
 nhanh --- vai được kéo bởi sóng từ trunk bên dưới, và khi không có lực
 cản, nó tự nhiên đạt được tốc độ khổng lồ này.
 
 Đây là cơ chế tương tự như người ném bóng chày hay bóng bầu dục: tốc độ
 cánh tay đến từ sóng toàn thân, không phải từ lực cánh tay riêng lẻ. Các
-nghiên cứu cho thấy cố gắng tăng tốc độ cánh tay bằng cách \'dùng lực
-tay hơn\' thực ra làm giảm tốc độ đầu vợt --- vì nó làm gián đoạn dòng
+nghiên cứu cho thấy cố gắng tăng tốc độ cánh tay bằng cách 'dùng lực
+tay hơn' thực ra làm giảm tốc độ đầu vợt --- vì nó làm gián đoạn dòng
 sóng từ dưới lên.
 
 **6.6 Giai Đoạn 5: Pronation Và Tiếp Bóng --- Dương Cực**
 
 Ngay trước tiếp bóng, cổ tay và cẳng tay thực hiện pronation (sấp xuống)
---- đây là cú \'roi\' cuối cùng. Toàn bộ năng lượng từ chân qua hông qua
+--- đây là cú 'roi' cuối cùng. Toàn bộ năng lượng từ chân qua hông qua
 vai đang hội tụ tại điểm đầu vợt. Tốc độ đầu vợt trong serve ATP có thể
 đạt 200--220 km/h --- gần bằng tốc độ ô tô trên cao tốc.
 
 Điểm tiếp bóng lý tưởng là ở phía trước và trên đầu --- điểm cao nhất mà
-vận động viên có thể với tới với cánh tay duỗi hoàn toàn. Đây là \'dương
-cực tuyệt đối\': mọi sóng đều đã đến đây, năng lượng ở mức tối đa, và
+vận động viên có thể với tới với cánh tay duỗi hoàn toàn. Đây là 'dương
+cực tuyệt đối': mọi sóng đều đã đến đây, năng lượng ở mức tối đa, và
 được truyền vào bóng trong khoảng thời gian tiếp xúc 4--5 mili-giây.
 
 **6.7 Ba Loại Serve --- Ba Kiểu Quản Lý Sóng**
@@ -804,11 +804,11 @@ bóng ở ô bên phải) kéo đối thủ ra ngoài và mở toang sân để 
 
 **6.8 Phân Tích Serve Của Federer, Djokovic Và Zverev**
 
-Mỗi vận động viên elite có một \'chữ ký sóng\' riêng trong serve, phản
+Mỗi vận động viên elite có một 'chữ ký sóng' riêng trong serve, phản
 ánh cơ thể học và phong cách thi đấu của họ:
 
 Federer: Serve thanh lịch và hiệu quả. Knee bend vừa phải, trophy
-position hoàn hảo, leg drive mượt mà. Điểm đặc biệt là \'shoulder tilt\'
+position hoàn hảo, leg drive mượt mà. Điểm đặc biệt là 'shoulder tilt'
 --- vai ngã về sau nhiều, tạo ra góc tiếp bóng dốc xuống lý tưởng. Serve
 của Federer không nhanh nhất ATP nhưng placement và variation bậc nhất.
 
@@ -834,7 +834,7 @@ serve thứ nhất trung bình nhanh nhất ATP trong nhiều năm.
 **7.1 Thách Thức Sinh Cơ Học Của Backhand**
 
 Backhand đặt ra một thách thức độc đáo không có trong forehand hay
-serve: cơ thể phải truyền sóng theo hướng \'không tự nhiên\' --- từ phía
+serve: cơ thể phải truyền sóng theo hướng 'không tự nhiên' --- từ phía
 sau người sang phía trước theo hướng mà thân người không hỗ trợ tốt bằng
 forehand. Điều này giải thích tại sao backhand thường là mặt yếu hơn của
 nhiều vận động viên, và tại sao các đối thủ thường nhắm vào backhand.
@@ -857,7 +857,7 @@ topspin.
 người thuận tay phải) là tay tạo ra phần lớn sức mạnh. Tay không thuận
 cầm ở phần trên của grip và thực hiện động tác giống như forehand từ
 phía ngược lại. Đây là lý do nhiều HLV dạy backhand hai tay bằng cách
-giải thích \'tay không thuận đánh forehand, tay thuận chỉ hỗ trợ\'.
+giải thích 'tay không thuận đánh forehand, tay thuận chỉ hỗ trợ'.
 
 **Unit Turn Đặc Biệt Quan Trọng**
 
@@ -870,9 +870,9 @@ thiếu ổn định.
 **Hip-Shoulder Separation Trong Backhand**
 
 Tương tự forehand, hông cần mở trước vai trong backhand để tạo hiệu ứng
-xoắn trunk. Tuy nhiên, do hai tay cùng cầm vợt, vai bị \'kéo\' bởi cánh
+xoắn trunk. Tuy nhiên, do hai tay cùng cầm vợt, vai bị 'kéo' bởi cánh
 tay nhanh hơn, làm giảm hip-shoulder separation tự nhiên. Vận động viên
-elite học cách chủ động \'giữ\' vai lại trong khi để hông mở --- một kỹ
+elite học cách chủ động 'giữ' vai lại trong khi để hông mở --- một kỹ
 năng khó nhưng quyết định sức mạnh của backhand.
 
 **7.3 Backhand Một Tay --- Kỹ Thuật Và Nghệ Thuật**
@@ -895,20 +895,20 @@ tay khó hơn backhand hai tay --- margin for error nhỏ hơn nhiều.
 Trong backhand một tay, pha âm đặc biệt quan trọng cho cổ tay và cẳng
 tay. Khi vợt được kéo về phía sau, cổ tay ở trạng thái extension (cúi
 xuống) --- đây là wrist lag của backhand. Biên độ extension quyết định
-độ mạnh của \'bung\' khi tiếp bóng. Vân động viên elite như Federer có
+độ mạnh của 'bung' khi tiếp bóng. Vân động viên elite như Federer có
 cổ tay extension rất sâu trong pha chuẩn bị.
 
-**The \'Brush\' --- Sóng Ma Sát Trong Backhand Topspin**
+**The 'Brush' --- Sóng Ma Sát Trong Backhand Topspin**
 
 Backhand topspin một tay --- được Federer và Gasquet sử dụng thường
-xuyên --- tạo ra spin bằng cách \'quét\' mặt vợt từ thấp lên cao qua
+xuyên --- tạo ra spin bằng cách 'quét' mặt vợt từ thấp lên cao qua
 bóng. Đây là sóng ma sát theo chiều đứng, tương tự cơ chế topspin của
 forehand nhưng với biên độ nhỏ hơn do giới hạn của một tay. Thách thức
 là thực hiện brush đủ nhanh trong khi vẫn đưa bóng đi đủ xa và đủ mạnh.
 
 **7.4 Slice Backhand --- Sóng Ngược**
 
-Slice backhand là \'âm\' của backhand topspin: thay vì quét từ dưới lên
+Slice backhand là 'âm' của backhand topspin: thay vì quét từ dưới lên
 (dương), vợt trượt từ trên xuống dưới (âm). Điều này tạo ra backspin ---
 bóng quay ngược chiều với hướng bay --- khiến bóng nảy thấp và trượt dài
 sau khi chạm đất.
@@ -950,19 +950,19 @@ Volley đòi hỏi tư duy hoàn toàn ngược lại với baseline game. Trong
 forehand hay serve, mục tiêu là TẠO RA sóng --- tích lũy năng lượng rồi
 phóng ra. Trong volley, mục tiêu là HƯỚNG DẪN sóng --- nhận năng lượng
 từ bóng đang đến rồi điều hướng nó đi theo ý muốn. Đây là sự khác biệt
-triết học căn bản: từ \'phát sóng\' sang \'phản xạ sóng\'.
+triết học căn bản: từ 'phát sóng' sang 'phản xạ sóng'.
 
 Trong Thái Cực, đây là sự chuyển từ dương sang âm: thay vì tạo ra lực,
 vận động viên nhận lực. Thay vì khuếch đại sóng, họ điều hướng sóng. Đây
-là lý do các HLV huấn luyện volley thường nói \'đừng đánh bóng --- để
-bóng đến vợt\'. Câu này không phải thơ văn mà là mô tả chính xác của cơ
+là lý do các HLV huấn luyện volley thường nói 'đừng đánh bóng --- để
+bóng đến vợt'. Câu này không phải thơ văn mà là mô tả chính xác của cơ
 chế vật lý.
 
-**8.2 Vợt Như \'Gương Phẳng\' --- Nguyên Lý Phản Xạ**
+**8.2 Vợt Như 'Gương Phẳng' --- Nguyên Lý Phản Xạ**
 
 Hình tượng tốt nhất để hiểu volley là gương phẳng: ánh sáng đến gương và
 bị phản xạ đi theo góc bằng nhau. Vợt trong volley hoạt động tương tự
---- bóng đến và bị \'phản xạ\' theo góc mặt vợt quyết định. Sóng năng
+--- bóng đến và bị 'phản xạ' theo góc mặt vợt quyết định. Sóng năng
 lượng từ bóng được truyền qua vợt và được điều hướng bởi góc mặt vợt.
 
 Điều này có nghĩa là: cổ tay phải đứng --- nếu cổ tay mềm, nó hấp thụ
@@ -972,15 +972,15 @@ có --- vì năng lượng đến từ bóng, không cần tạo thêm từ back
 
 **8.3 Tầm Quan Trọng Của Cổ Tay Cứng**
 
-Trong volley, \'cổ tay cứng\' không có nghĩa là căng cứng toàn bộ --- mà
+Trong volley, 'cổ tay cứng' không có nghĩa là căng cứng toàn bộ --- mà
 là ổn định ở một góc cụ thể. Cổ tay locked ở vị trí neutral hoặc slight
-dorsiflexion tạo ra một \'mặt gương\' cứng cho bóng phản xạ. Ngược lại,
+dorsiflexion tạo ra một 'mặt gương' cứng cho bóng phản xạ. Ngược lại,
 cổ tay mềm (collapsed) khi tiếp bóng sẽ hấp thụ năng lượng, tạo ra
 volley yếu và kém chính xác.
 
 Một bài kiểm tra đơn giản: thực hiện volley rồi kiểm tra cổ tay sau khi
 tiếp bóng --- nó có ở cùng góc như trước khi tiếp không? Nếu cổ tay bị
-\'đẩy lùi\' hay \'gập xuống\' khi tiếp bóng, đây là dấu hiệu cổ tay
+'đẩy lùi' hay 'gập xuống' khi tiếp bóng, đây là dấu hiệu cổ tay
 không đủ cứng, và vận động viên cần tập grip strength cùng với wrist
 stability exercises.
 
@@ -996,7 +996,7 @@ grip bắt buộc cho volley vì nhiều lý do:
   điều chỉnh.
 
 - Cho phép dễ dàng tạo backspin bằng cách trượt mặt vợt qua bóng ---
-  điều này giúp volley \'ngồi xuống\' thay vì nảy cao.
+  điều này giúp volley 'ngồi xuống' thay vì nảy cao.
 
 Người chơi dùng semi-western hay western grip khi volley sẽ gặp khó khăn
 vì mặt vợt hướng xuống dưới --- cần điều chỉnh cổ tay phức tạp, tạo thêm
@@ -1010,14 +1010,14 @@ Có hai dạng volley với triết học khác nhau:
 
 Thực hiện khi vận động viên ở gần lưới và bóng đến ở tầm trung bình hoặc
 cao. Có một punch nhỏ về phía trước --- không phải swing lớn, mà là một
-\'đẩy\' ngắn để tăng thêm một chút năng lượng vào phản xạ sóng. Đây là
-\'dương nhỏ\' trong một kỹ thuật chủ yếu \'âm\'. Điểm tiếp bóng phải ở
+'đẩy' ngắn để tăng thêm một chút năng lượng vào phản xạ sóng. Đây là
+'dương nhỏ' trong một kỹ thuật chủ yếu 'âm'. Điểm tiếp bóng phải ở
 trước thân và cao hơn lưới để có góc đánh xuống.
 
 **Volley Phòng Thủ (Drop Volley/Block)**
 
 Khi bóng đến nhanh và vận động viên không kịp chuẩn bị, volley phòng thủ
-là \'giữ\' vợt và để bóng tự phản xạ. Đây là âm hoàn toàn --- không thêm
+là 'giữ' vợt và để bóng tự phản xạ. Đây là âm hoàn toàn --- không thêm
 năng lượng, chỉ điều hướng. Kỹ năng ở đây là căn thật chính xác góc mặt
 vợt và vị trí vợt để bóng đi đúng nơi mong muốn dù không có thêm lực.
 
@@ -1046,10 +1046,10 @@ viên có thể bao phủ cả lưới và xử lý các tình huống bóng kh�
 Slice là kỹ thuật sử dụng sóng ma sát thay vì sóng tốc độ. Khi mặt vợt
 trượt từ trên xuống và chéo qua bóng, lực ma sát tạo ra backspin ---
 bóng quay theo chiều ngược với hướng bay. Hiệu ứng Magnus (Magnus
-effect) khiến bóng có backspin bị \'hút\' xuống, tạo ra quỹ đạo bay thấp
+effect) khiến bóng có backspin bị 'hút' xuống, tạo ra quỹ đạo bay thấp
 hơn so với bóng không spin.
 
-Sau khi chạm đất, backspin tiếp tục: bóng \'trượt\' thay vì nảy, giữ
+Sau khi chạm đất, backspin tiếp tục: bóng 'trượt' thay vì nảy, giữ
 thấp và chạy dài. Điều này hoàn toàn thay đổi nhịp điệu so với topspin.
 Đối thủ quen với bóng topspin nảy cao phải đột ngột điều chỉnh cho bóng
 nảy thấp, trượt, và đến muộn hơn dự kiến.
@@ -1076,12 +1076,12 @@ Trong slice, sóng ma sát là lực quyết định --- không phải sóng t�
 Slice backhand là kỹ thuật phòng thủ quan trọng nhất trong tennis hiện
 đại. Trong các tình huống bị áp lực --- bóng sâu, tốc độ cao, thân hình
 không cân bằng --- slice backhand cho phép vận động viên trả bóng an
-toàn trong khi phục hồi vị trí. Đây là \'âm chiến lược\': chấp nhận
+toàn trong khi phục hồi vị trí. Đây là 'âm chiến lược': chấp nhận
 nhượng bộ trong một cú đánh để duy trì vị thế tổng thể.
 
 Federer sử dụng slice backhand như một vũ khí tấn công chiến thuật,
 không chỉ là biện pháp phòng thủ. Bằng cách đan xen topspin backhand với
-slice backhand, anh liên tục thay đổi \'sóng\' mà đối thủ phải xử lý ---
+slice backhand, anh liên tục thay đổi 'sóng' mà đối thủ phải xử lý ---
 khi cao khi thấp, khi nảy mạnh khi trượt thấp --- phá vỡ nhịp điệu và
 tạo cơ hội tấn công.
 
@@ -1094,7 +1094,7 @@ người thuận tay phải) --- bóng có thể kéo đối thủ ra ngoài h�
 rộng toàn bộ khu vực để đánh winner với cú thứ hai.
 
 Djokovic, Federer và nhiều vận động viên top 10 sử dụng slice serve như
-\'vũ khí bí mật\' --- đặc biệt trong các điểm đấu quan trọng khi đối thủ
+'vũ khí bí mật' --- đặc biệt trong các điểm đấu quan trọng khi đối thủ
 đang tập trung phòng thủ slice serve ra biên, họ chuyển sang flat serve
 giữa sân bất ngờ.
 
@@ -1103,7 +1103,7 @@ giữa sân bất ngờ.
 Drop shot là slice ở mức độ cực đoan: thay vì tạo ra spin để kiểm soát
 quỹ đạo, mục tiêu là tạo ra spin và speed tối thiểu để bóng rơi ngay sau
 lưới. Đây là kỹ thuật đòi hỏi cảm giác tay cực kỳ tinh tế --- phải
-\'bắt\' đủ spin để bóng không bay xa, nhưng không quá nhiều để bóng
+'bắt' đủ spin để bóng không bay xa, nhưng không quá nhiều để bóng
 không bị ra ngoài.
 
 Drop shot hiệu quả khi đối thủ đứng sâu sau đường baseline --- khoảng
@@ -1128,7 +1128,7 @@ Từ góc độ người nhận bóng slice, điều quan trọng là nhận bi�
   lưới cao.
 
 > *\"Slice không phải là cú đánh yếu --- đó là sự thay đổi ngôn ngữ
-> sóng. Khi đối thủ quen nói \'topspin\', bạn đột nhiên nói \'slice\'
+> sóng. Khi đối thủ quen nói 'topspin', bạn đột nhiên nói 'slice'
 > --- và họ mất đi khả năng hiểu.\"*
 
 **Chương 10**
@@ -1188,7 +1188,7 @@ trước serve đi đâu và đã sẵn sàng di chuyển ngay khi chân chạm 
 **10.4 Compact Swing --- Tối Giản Hóa Sóng**
 
 Return xuất sắc không cố gắng thực hiện full swing như baseline game ---
-backswing được rút ngắn tối đa. Đây là \'tối giản hóa sóng\': thay vì
+backswing được rút ngắn tối đa. Đây là 'tối giản hóa sóng': thay vì
 tích lũy năng lượng từ backswing dài (không có đủ thời gian), vận động
 viên sử dụng compact swing --- đón bóng với racket face đã ở vị trí gần
 điểm tiếp, với một chuyển động nhỏ về phía trước.
@@ -1197,7 +1197,7 @@ Agassi --- được coi là người nhận giao bóng xuất sắc nhất lịc
 nổi tiếng với return technique rút backswing gần như về không. Anh đứng
 gần baseline hơn bình thường, đón bóng sớm khi còn đang lên cao, và sử
 dụng sóng từ serve của đối thủ để tạo ra return mạnh. Đây là ví dụ hoàn
-hảo của \'phản xạ sóng\' --- sử dụng năng lượng của đối phương thay vì
+hảo của 'phản xạ sóng' --- sử dụng năng lượng của đối phương thay vì
 tạo ra năng lượng mới.
 
 **10.5 Agassi Vs Federer --- Hai Triết Học Return**
@@ -1226,7 +1226,7 @@ nhất trong tennis. Khi đối thủ giao bóng thứ hai --- thường chậm 
 kém agressive hơn --- vận động viên có nhiều thời gian hơn để thực hiện
 full swing và tấn công.
 
-Chiến thuật phổ biến: \'bước vào\' serve thứ hai --- đứng gần baseline
+Chiến thuật phổ biến: 'bước vào' serve thứ hai --- đứng gần baseline
 hơn, đón bóng sớm hơn, và return agressive hơn bình thường. Điều này tạo
 áp lực tâm lý lớn cho người giao bóng --- biết rằng nếu giao bóng thứ
 hai yếu, sẽ bị tấn công ngay lập tức.
@@ -1319,7 +1319,7 @@ nhanh. Chấn thương phổ biến nhất: gối và mắt cá do va đập cao
 **Sân Đất Nện (Clay Court)**
 
 Bề mặt mềm, ma sát cao. Bóng nảy cao và chậm. Footwork cho phép
-\'trượt\' --- slide vào bóng thay vì dừng đột ngột. Trượt trên đất nện
+'trượt' --- slide vào bóng thay vì dừng đột ngột. Trượt trên đất nện
 giảm tải lên khớp gối và mắt cá so với dừng đột ngột trên sân cứng.
 Nadal là bậc thầy của footwork trên đất nện, sử dụng slide như một phần
 tự nhiên của di chuyển.
@@ -1366,9 +1366,9 @@ giả.
 
 Từ góc độ sóng não, áp lực thi đấu tạo ra sự tăng vọt của sóng beta ---
 phân tích, lo lắng, suy nghĩ quá mức. Khi beta tăng quá cao, nó
-\'nhiễu\' các mạng lưới tự động, khiến vận động viên bắt đầu \'nghĩ về
-kỹ thuật\' thay vì để kỹ thuật tự động xảy ra. Đây là hiện tượng
-\'choking\' (bóp nghẹt) --- vận động viên đột nhiên mắc những lỗi kỹ
+'nhiễu' các mạng lưới tự động, khiến vận động viên bắt đầu 'nghĩ về
+kỹ thuật' thay vì để kỹ thuật tự động xảy ra. Đây là hiện tượng
+'choking' (bóp nghẹt) --- vận động viên đột nhiên mắc những lỗi kỹ
 thuật cơ bản nhất trong những điểm đấu quan trọng nhất.
 
 **12.2 Hiện Tượng Choking --- Sóng Beta Tràn Ngập**
@@ -1376,8 +1376,8 @@ thuật cơ bản nhất trong những điểm đấu quan trọng nhất.
 Choking trong thể thao được nghiên cứu rộng rãi trong tâm lý học thể
 thao. Về cơ chế thần kinh, choking xảy ra khi vỏ não trước trán
 (prefrontal cortex --- PFC) --- vùng não của tư duy phân tích và kiểm
-soát ý thức --- can thiệp vào mạng lưới vận động tự động. PFC \'cố gắng
-giúp đỡ\' bằng cách kiểm tra lại từng bước của kỹ thuật --- nhưng điều
+soát ý thức --- can thiệp vào mạng lưới vận động tự động. PFC 'cố gắng
+giúp đỡ' bằng cách kiểm tra lại từng bước của kỹ thuật --- nhưng điều
 này thực ra làm gián đoạn luồng sóng tự động.
 
 Một thí nghiệm kinh điển: yêu cầu vận động viên tennis đánh golf (không
@@ -1385,7 +1385,7 @@ quen) và đánh tennis (quen) trong khi đồng thời thực hiện nhiệm v�
 thức (đếm ngược, phân loại âm thanh). Kết quả: nhiệm vụ nhận thức ảnh
 hưởng lớn đến golf (kỹ năng mới, cần ý thức nhiều) nhưng ảnh hưởng ít
 hoặc không đến tennis (kỹ năng tự động). Điều này xác nhận rằng kỹ năng
-được học thành thục ở cấp độ tự động và không cần \'ý thức\' trong thực
+được học thành thục ở cấp độ tự động và không cần 'ý thức' trong thực
 hiện.
 
 **12.3 Pre-Shot Routine --- Neo Sóng Alpha**
@@ -1431,21 +1431,21 @@ thao cho thấy vận động viên elite xử lý những điểm đấu này k
 ràng so với vận động viên trung bình:
 
 - Elite: Tập trung vào một cú đánh cụ thể tại một thời điểm (process
-  focus). Họ không nghĩ \'đây là match point\' --- họ nghĩ \'toss tốt,
-  leg drive mạnh\'.
+  focus). Họ không nghĩ 'đây là match point' --- họ nghĩ 'toss tốt,
+  leg drive mạnh'.
 
 - Không elite: Tập trung vào kết quả và hậu quả (outcome focus). Họ nghĩ
-  \'nếu tôi thua điểm này\...\' --- và sóng beta leo thang.
+  'nếu tôi thua điểm này\...' --- và sóng beta leo thang.
 
 **12.6 Resilience --- Phục Hồi Sóng Sau Lỗi**
 
 Cách xử lý điểm đấu thua là một trong những yếu tố phân biệt elite và
 không elite rõ ràng nhất. Trong tennis, thua một điểm là không thể tránh
 khỏi --- ngay cả Djokovic cũng mắc lỗi unforced error. Câu hỏi không
-phải là \'làm thế nào để không bao giờ mắc lỗi\' --- mà là \'làm thế nào
-để phục hồi nhanh nhất sau lỗi\'.
+phải là 'làm thế nào để không bao giờ mắc lỗi' --- mà là 'làm thế nào
+để phục hồi nhanh nhất sau lỗi'.
 
-Djokovic nổi tiếng với khả năng \'reset\' --- sau một điểm đấu thua dù
+Djokovic nổi tiếng với khả năng 'reset' --- sau một điểm đấu thua dù
 tệ đến đâu, anh trở về baseline với cùng một trạng thái bình tĩnh. Đây
 không phải thiếu cảm xúc --- đây là quản lý cảm xúc ở cấp độ cao nhất.
 Anh cho phép bản thân cảm nhận thất vọng trong 15--20 giây, rồi chủ động
@@ -1463,7 +1463,7 @@ chuyển sang pre-shot routine và state của điểm đấu tiếp theo.
 
 **13.1 Chấn Thương Là Sóng Bệnh Lý**
 
-Trong framework sóng, chấn thương tennis không phải là \'tai nạn\' ngẫu
+Trong framework sóng, chấn thương tennis không phải là 'tai nạn' ngẫu
 nhiên --- mà là hệ quả có thể dự đoán của việc để sóng bệnh lý đi qua hệ
 thống. Sóng bệnh lý xuất hiện khi: sóng quá mạnh (quá tải), sóng sai tần
 số (cộng hưởng không mong muốn), hoặc hệ thống không có đủ khả năng lọc
@@ -1489,7 +1489,7 @@ không bị hấp thụ. Qua hàng nghìn lần lặp lại, vi tổn thương t
 
 Giải pháp sóng: cầm vợt lỏng hơn. Grip lỏng hoạt động như bộ giảm chấn
 sinh học --- hấp thụ sóng xoắn tần số cao trước khi chúng gây tổn thương
-gân. Đây là lý do nguyên lý \'cầm lỏng\' không chỉ cải thiện kỹ thuật mà
+gân. Đây là lý do nguyên lý 'cầm lỏng' không chỉ cải thiện kỹ thuật mà
 còn bảo vệ cơ thể.
 
 **13.3 Chấn Thương Vai --- Sóng Cộng Hưởng Bệnh Lý**
@@ -1502,18 +1502,18 @@ gồm:
 - Rotator cuff strain/tear: Bốn cơ rotator cuff (supraspinatus,
   infraspinatus, teres minor, subscapularis) chịu lực lớn trong internal
   rotation của serve. Khi kinetic chain bị ngắt --- ví dụ leg drive kém
-  --- shoulder phải \'bù\' bằng lực cơ lớn hơn bình thường, gây
+  --- shoulder phải 'bù' bằng lực cơ lớn hơn bình thường, gây
   overload.
 
 - SLAP tear: Rách sụn viền ổ khớp vai. Thường xảy ra do sự kết hợp của
   abduction cao và external rotation cực đại trong trophy position ---
-  gây ra \'peel-off\' mechanism.
+  gây ra 'peel-off' mechanism.
 
 - AC joint injury: Va đập hoặc áp lực tích lũy tại khớp
   acromioclavicular.
 
 Bảo vệ vai hiệu quả nhất: tập luyện rotator cuff strengthening để tạo
-\'bộ lọc\' đủ mạnh cho sóng xoắn, và đảm bảo kinetic chain đủ mạnh để
+'bộ lọc' đủ mạnh cho sóng xoắn, và đảm bảo kinetic chain đủ mạnh để
 không cần bù bằng lực vai quá mức.
 
 **13.4 Chấn Thương Gối --- Sóng Nén Tích Lũy**
@@ -1547,7 +1547,7 @@ metatarsal) và cột sống thắt lưng (spondylolysis). Phòng ngừa: nghỉ
 
 **13.6 Warm-Up Và Cool-Down --- Quản Lý Sóng Trước Và Sau**
 
-Warm-up hiệu quả không phải là \'làm ấm cơ\' --- đây là thiết lập hệ
+Warm-up hiệu quả không phải là 'làm ấm cơ' --- đây là thiết lập hệ
 thống sóng. Mục tiêu:
 
 - Tăng nhiệt độ cơ: tăng tốc độ phản ứng hóa học trong cơ bắp, tăng vận
@@ -1555,7 +1555,7 @@ thống sóng. Mục tiêu:
 
 - Tăng lưu lượng máu: thiết lập sóng thủy lực tối ưu đến cơ bắp.
 
-- Kích hoạt hệ thần kinh: \'bật\' các chương trình vận động tự động
+- Kích hoạt hệ thần kinh: 'bật' các chương trình vận động tự động
   thông qua các bài tập kỹ thuật nhẹ.
 
 - Giảm độ cứng gân và cơ: tăng compliance, cho phép sóng cơ học truyền
@@ -1578,15 +1578,15 @@ giúp phục hồi nhanh hơn.
 
 **14.1 Từ Lặp Lại Cơ Học Đến Huấn Luyện Sóng**
 
-Phương pháp huấn luyện tennis truyền thống tập trung vào \'lặp lại đúng
-kỹ thuật\' --- thực hiện động tác đúng hình thức hàng nghìn lần cho đến
+Phương pháp huấn luyện tennis truyền thống tập trung vào 'lặp lại đúng
+kỹ thuật' --- thực hiện động tác đúng hình thức hàng nghìn lần cho đến
 khi trở thành phản xạ. Phương pháp này có giá trị nhưng không đầy đủ, vì
 nó tập trung vào hình dạng bên ngoài mà không phải chất lượng sóng bên
 trong.
 
-Huấn luyện sóng (wave training) là một bước tiến: không chỉ hỏi \'cú
-đánh có đúng hình dạng không?\' mà hỏi \'sóng có đi qua đầy đủ không? Có
-ngắt sóng ở đâu không? Chu kỳ âm-dương có hoàn chỉnh không?\' Sự khác
+Huấn luyện sóng (wave training) là một bước tiến: không chỉ hỏi 'cú
+đánh có đúng hình dạng không?' mà hỏi 'sóng có đi qua đầy đủ không? Có
+ngắt sóng ở đâu không? Chu kỳ âm-dương có hoàn chỉnh không?' Sự khác
 biệt này dẫn đến các phương pháp và bài tập hoàn toàn khác nhau.
 
 **14.2 Bài Tập Cảm Nhận Sóng (Wave Sensing Drills)**
@@ -1595,7 +1595,7 @@ biệt này dẫn đến các phương pháp và bài tập hoàn toàn khác nh
 
 Dùng vợt nặng hơn bình thường (hoặc thêm trọng lượng vào đầu vợt) để
 thực hiện shadow swings (vung vợt không có bóng). Vợt nặng hơn làm chậm
-chuyển động và giúp vận động viên \'cảm nhận\' sóng rõ ràng hơn --- cảm
+chuyển động và giúp vận động viên 'cảm nhận' sóng rõ ràng hơn --- cảm
 giác sóng đi từ chân lên hông lên vai lên cổ tay. Đây là cách phát triển
 kinesthetic awareness về sóng.
 
@@ -1629,7 +1629,7 @@ Một chu kỳ periodization điển hình cho tennis chuyên nghiệp:
   tập luyện đạt cực dương.
 
 - Giai đoạn thi đấu: Giảm volume, duy trì cường độ. Hệ thống được phép
-  \'phát sóng\' trong thi đấu thực.
+  'phát sóng' trong thi đấu thực.
 
 - Giai đoạn phục hồi (1--2 tuần): Giảm mạnh tất cả tải. Sóng tập luyện
   về âm --- tích lũy năng lượng cho chu kỳ tiếp theo.
@@ -1642,7 +1642,7 @@ Người tập bóng (ball machine hay partner) liên tục đưa bóng theo m�
 pattern nhất định --- vận động viên phải thực hiện cùng một cú đánh
 nhiều lần liên tiếp. Điều này cho phép não build pattern recognition và
 consolidate kinetic chain mà không cần xử lý uncertainty của rally thật.
-Sau 50--100 lần lặp cùng một cú đánh, cơ thể bắt đầu \'tự động hóa\'
+Sau 50--100 lần lặp cùng một cú đánh, cơ thể bắt đầu 'tự động hóa'
 chuỗi sóng.
 
 **Live Ball Drilling**
@@ -1676,7 +1676,7 @@ kế với tư duy sóng:
   Mục tiêu: tạo hệ thống bộ lọc sóng đủ mạnh cho shoulder.
 
 - Core anti-rotation: Plank variations, dead bug, bird dog. Mục tiêu:
-  trunk đủ cứng để truyền sóng mà không \'xẹp\'.
+  trunk đủ cứng để truyền sóng mà không 'xẹp'.
 
 - Reactive training: Jump training, agility ladders, cone drills. Mục
   tiêu: hệ thống SSC hoạt động hiệu quả trong footwork.
@@ -1705,7 +1705,7 @@ cơ).
 
 Carbohydrates là nguồn năng lượng chính cho tennis --- cả hệ thống
 ATP-PC (ngắn hạn, bùng nổ) và glycolytic system (trung hạn, sustained
-effort). Glycogen (dạng lưu trữ glucose trong cơ và gan) là \'pin\' cho
+effort). Glycogen (dạng lưu trữ glucose trong cơ và gan) là 'pin' cho
 sóng tốc độ cao.
 
 Dấu hiệu glycogen cạn kiệt trong tennis: tốc độ phản ứng chậm lại, cú
@@ -1750,12 +1750,12 @@ ma sát và tải trọng), và nhiệt độ cơ thể khó điều tiết hơn
 
 Giấc ngủ là công cụ phục hồi mạnh nhất mà không tốn tiền. Trong giấc ngủ
 sâu (slow-wave sleep), não giải phóng growth hormone --- kích thích tổng
-hợp protein cơ bắp và phục hồi mô. Trong REM sleep, não \'consolidate\'
+hợp protein cơ bắp và phục hồi mô. Trong REM sleep, não 'consolidate'
 ký ức vận động --- chuyển kỹ năng từ conscious practice sang
 subconscious automaticity.
 
 Nghiên cứu trên vận động viên Stanford cho thấy tăng giấc ngủ từ 6 lên
-10 giờ/đêm (tăng ngủ \'ngân hàng\') cải thiện tốc độ sprint 4%, điểm
+10 giờ/đêm (tăng ngủ 'ngân hàng') cải thiện tốc độ sprint 4%, điểm
 serve chính xác tăng 9%, và mood (tâm trạng) cải thiện đáng kể --- tất
 cả trong vòng 5--7 tuần. Đây không phải một số nhỏ --- đây là sự khác
 biệt giữa thắng và thua ở top level.
@@ -1771,7 +1771,7 @@ tốc phục hồi:
   chuyển hóa. Đây là ứng dụng sóng nhiệt để điều hướng sóng thủy lực.
 
 - Contrast therapy: Luân phiên nước nóng và lạnh. Sự chuyển đổi nhiệt
-  tạo ra \'bơm\' thủy lực trong mạch máu --- giống như bóp bỏng xốp.
+  tạo ra 'bơm' thủy lực trong mạch máu --- giống như bóp bỏng xốp.
   Nhiều vận động viên tennis ATP sử dụng phương pháp này sau mỗi trận
   đấu.
 
@@ -1799,8 +1799,8 @@ trận đấu --- tạo ra nhịp điệu thuận lợi cho mình và phá vỡ 
 đối thủ.
 
 Mỗi cú đánh không chỉ là một hành động độc lập --- nó là một nốt nhạc
-trong bản nhạc của cả trận đấu. Federer nổi tiếng với khả năng \'tạo
-nhạc\' --- xây dựng điểm đấu như một nhạc sỹ xây dựng giai điệu, với
+trong bản nhạc của cả trận đấu. Federer nổi tiếng với khả năng 'tạo
+nhạc' --- xây dựng điểm đấu như một nhạc sỹ xây dựng giai điệu, với
 tempo, rhythm và crescendo (đỉnh điểm) được sắp xếp tỉ mỉ.
 
 **16.2 Tempo --- Tần Số Của Sóng Trận Đấu**
@@ -1825,7 +1825,7 @@ nhịp điệu đối thủ đang ở tempo cao, bắt họ điều chỉnh lạ
 
 **16.3 Spin --- Xoay Sóng Chiến Thuật**
 
-Spin (xoáy bóng) là cách thay đổi \'tần số\' của sóng nhịp điệu. Topspin
+Spin (xoáy bóng) là cách thay đổi 'tần số' của sóng nhịp điệu. Topspin
 mạnh tạo ra bóng nảy cao và tiến về phía trước nhanh --- khó xử lý khi
 đối thủ quen với bóng thấp. Backspin (slice) tạo ra bóng nảy thấp và
 trượt dài --- khó xử lý khi đối thủ quen với bóng cao. Sự thay đổi spin
@@ -1834,11 +1834,11 @@ trượt dài --- khó xử lý khi đối thủ quen với bóng cao. Sự thay
 Nadal trên sân đất nện sử dụng chiến thuật spin tối thượng: topspin cực
 kỳ mạnh (vòng quay 4,000--5,000 RPM) tạo ra bóng nảy lên vai và thậm chí
 trên đầu của đối thủ --- khu vực mà con người khó thực hiện kỹ thuật
-nhất. Đây là \'sóng bẫy\' --- bóng đến ở nơi không ai muốn.
+nhất. Đây là 'sóng bẫy' --- bóng đến ở nơi không ai muốn.
 
 **16.4 Court Geometry --- Địa Hình Của Sóng**
 
-Sân tennis là \'địa hình\' mà sóng thi đấu diễn ra. Hiểu và tận dụng
+Sân tennis là 'địa hình' mà sóng thi đấu diễn ra. Hiểu và tận dụng
 geometry của sân là kỹ năng chiến thuật căn bản:
 
 - Cross-court: Đường chéo dài hơn down-the-line --- cho nhiều không gian
@@ -1855,8 +1855,8 @@ geometry của sân là kỹ năng chiến thuật căn bản:
 
 **16.5 Pattern Of Play --- Sóng Lặp Lại Có Chủ Đích**
 
-Pattern of play là chuỗi cú đánh được lên kế hoạch trước --- một \'mẫu
-sóng\' được sử dụng lặp lại trong tình huống nhất định. Ví dụ:
+Pattern of play là chuỗi cú đánh được lên kế hoạch trước --- một 'mẫu
+sóng' được sử dụng lặp lại trong tình huống nhất định. Ví dụ:
 
 - Serve wide + forehand inside-in: Serve ra biên kéo đối thủ ra ngoài,
   tạo không gian ở giữa để đánh forehand về góc đó.
@@ -1867,15 +1867,15 @@ sóng\' được sử dụng lặp lại trong tình huống nhất định. Ví
 - High topspin backhand + forehand attack: Đánh topspin cao về backhand
   để đối thủ trả bóng yếu, tấn công forehand winner.
 
-Những pattern này không phải là kế hoạch cứng nhắc --- chúng là \'ngôn
-ngữ sóng\' mà vận động viên dùng để tạo ra cơ hội. Việc nhận biết và phá
+Những pattern này không phải là kế hoạch cứng nhắc --- chúng là 'ngôn
+ngữ sóng' mà vận động viên dùng để tạo ra cơ hội. Việc nhận biết và phá
 vỡ pattern của đối thủ là một trong những kỹ năng chiến thuật cấp cao
 nhất.
 
 **16.6 Phân Tích Đối Thủ --- Đọc Sóng**
 
 Vận động viên elite không chỉ tập kỹ thuật --- họ học cách đọc đối thủ.
-\'Đọc sóng\' bao gồm:
+'Đọc sóng' bao gồm:
 
 - Nhận biết toss pattern của serve: đối thủ tung bóng khác nhau cho
   flat/kick/slice serve không?
@@ -1900,25 +1900,25 @@ Vận động viên elite không chỉ tập kỹ thuật --- họ học cách �
 
 **17.1 Federer --- Sóng Hoàn Mỹ**
 
-Roger Federer thường được mô tả bằng các tính từ như \'thanh lịch\',
-\'tự nhiên\', \'effortless\' --- nhưng đây là mô tả về cảm nhận, không
+Roger Federer thường được mô tả bằng các tính từ như 'thanh lịch',
+'tự nhiên', 'effortless' --- nhưng đây là mô tả về cảm nhận, không
 phải về cơ chế. Dưới góc độ sóng học, Federer là người tổ chức sóng hoàn
 hảo nhất trong lịch sử tennis.
 
 Điều đặc biệt về Federer: anh có thể đạt cùng một kết quả với nhiều con
-đường khác nhau. Không như nhiều vận động viên chỉ có một \'kiểu sóng\'
+đường khác nhau. Không như nhiều vận động viên chỉ có một 'kiểu sóng'
 (ví dụ Nadal với topspin mạnh), Federer có thể flat, topspin, slice,
 thay đổi tempo, thay đổi spin, thay đổi direction --- tất cả từ cùng một
-tư thế chuẩn bị. Đây là khả năng \'biến hóa sóng\' đỉnh cao.
+tư thế chuẩn bị. Đây là khả năng 'biến hóa sóng' đỉnh cao.
 
 Kỹ thuật đặc trưng của Federer: SABR (Sneak Attack By Roger) --- tiến
 lên gần lưới và return serve khi bóng còn đang lên cao, lấy hoàn toàn
-thời gian của đối thủ. Đây là ví dụ hoàn hảo của việc \'đọc sóng\' đối
+thời gian của đối thủ. Đây là ví dụ hoàn hảo của việc 'đọc sóng' đối
 thủ và phản xạ sóng ngược lại với tốc độ tối đa.
 
 **17.2 Djokovic --- Sóng Đàn Hồi Không Giới Hạn**
 
-Novak Djokovic có thể không \'đẹp\' như Federer theo mắt nhìn thông
+Novak Djokovic có thể không 'đẹp' như Federer theo mắt nhìn thông
 thường, nhưng từ góc độ sóng học, Djokovic có một thuộc tính vượt trội:
 tính đàn hồi sóng (wave elasticity) phi thường. Anh có thể nhận những cú
 đánh ở những vị trí bất lợi nhất --- bóng thấp sát mặt sân, bóng ra
@@ -1927,7 +1927,7 @@ ngoài biên, bóng vào body --- và vẫn trả lại với chất lượng ca
 Cơ chế của Djokovic: flexibility đặc biệt cho phép anh tiếp bóng ở những
 góc mà hầu hết vận động viên khác không thể. Cùng với footwork xuất sắc,
 anh luôn có thể đưa cơ thể vào vị trí gần tối ưu ngay cả với những bóng
-khó nhất. Đây là \'khả năng duy trì sóng trong mọi điều kiện\' --- không
+khó nhất. Đây là 'khả năng duy trì sóng trong mọi điều kiện' --- không
 để sóng bị đứt dù đối thủ cố tình phá.
 
 Serve của Djokovic là bữa tiệc chiến thuật sóng: anh sử dụng cùng một
@@ -1946,7 +1946,7 @@ hoàn toàn.
 Triết học sóng của Nadal: kiên trì. Mỗi điểm đấu là một marathon --- xây
 dựng áp lực liên tục, không bao giờ bỏ cuộc, và chờ đối thủ gãy sóng
 trước. Tỷ lệ winner/error của Nadal thấp hơn Federer, nhưng unforced
-error cũng thấp hơn đáng kể --- đây là \'sóng kiên định\', không hào
+error cũng thấp hơn đáng kể --- đây là 'sóng kiên định', không hào
 nhoáng nhưng cực kỳ khó phá.
 
 Điều thú vị: Nadal trên đất nện là người gần như không thể đánh bại.
@@ -1964,8 +1964,8 @@ Djokovic. Ở tuổi 21, anh đã là số 1 thế giới.
 
 Điều đặc biệt về Alcaraz là tốc độ di chuyển và tốc độ recover --- anh
 có thể chạy đến những bóng mà người khác bỏ qua, và phục hồi vị trí
-nhanh đến mức đối thủ không tạo được góc bất lợi. Đây là \'sóng không
-gian\' --- không cho đối thủ tìm thấy khoảng trống.
+nhanh đến mức đối thủ không tạo được góc bất lợi. Đây là 'sóng không
+gian' --- không cho đối thủ tìm thấy khoảng trống.
 
 **17.5 Những Huyền Thoại Khác --- Đa Dạng Sóng**
 
@@ -1985,8 +1985,8 @@ Lịch sử tennis là lịch sử của những phong cách sóng đa dạng:
 - Agassi: Return-of-serve xuất sắc nhất lịch sử, ground game flat và
   mạnh. Sóng của Agassi là tốc độ và sớm --- lấy thời gian của đối thủ.
 
-> *\"Mỗi vĩ nhân tennis không chỉ có kỹ thuật tốt --- họ có một \'ngôn
-> ngữ sóng\' riêng, một cách nhìn và quản lý năng lượng hoàn toàn độc
+> *\"Mỗi vĩ nhân tennis không chỉ có kỹ thuật tốt --- họ có một 'ngôn
+> ngữ sóng' riêng, một cách nhìn và quản lý năng lượng hoàn toàn độc
 > đáo.\"*
 
 **Chương 18**
@@ -2020,7 +2020,7 @@ thể đo chính xác:
 
 - Ball deformation --- mức độ biến dạng bóng khi tiếp xúc vợt
 
-Phân tích high-speed video của Federer\'s forehand cho thấy wrist lag
+Phân tích high-speed video của Federer's forehand cho thấy wrist lag
 tối đa đạt khoảng 90 độ, và thời gian chuyển cực từ wrist lag cực đại
 đến impact chỉ khoảng 50--60 ms --- xác nhận cơ chế whip effect được mô
 tả trong framework sóng.
@@ -2061,7 +2061,7 @@ sau.
 **18.5 EMG --- Nghe Sóng Điện Cơ**
 
 Electromyography (EMG) đo hoạt động điện trong cơ bắp --- về cơ bản là
-đo \'sóng điện hóa\' kích hoạt từng nhóm cơ. Dữ liệu EMG cho phép xác
+đo 'sóng điện hóa' kích hoạt từng nhóm cơ. Dữ liệu EMG cho phép xác
 định:
 
 - Thứ tự kích hoạt cơ trong kinetic chain (cơ nào bật trước, cơ nào sau)
@@ -2127,7 +2127,7 @@ làm việc.
 
 **19.1 Thiền Định Không Phải Là Ngồi Yên**
 
-Khi nghe \'thiền định trong tennis\', nhiều người hình dung vận động
+Khi nghe 'thiền định trong tennis', nhiều người hình dung vận động
 viên ngồi khoanh tay nhắm mắt trước trận đấu. Nhưng thiền định trong bối
 cảnh thể thao có nghĩa rộng hơn nhiều: đó là quá trình huấn luyện năng
 lực chú ý và tự nhận thức để có thể duy trì trạng thái alpha --- trạng
@@ -2157,10 +2157,10 @@ Thiền định thay đổi sóng não theo cách có thể đo được. Nghiê
   đến nhận thức cao và tích hợp thông tin
 
 Điều thú vị là sau nhiều năm thực hành thiền định, những thay đổi sóng
-não này trở thành trạng thái \'mặc định\' --- não ở trạng thái alpha
+não này trở thành trạng thái 'mặc định' --- não ở trạng thái alpha
 nhiều hơn ngay cả khi không thiền. Đây là lý do vận động viên thiền định
 lâu năm có thể duy trì bình tĩnh trong áp lực --- não của họ đã được
-\'tái lập trình\' về mặt sóng.
+'tái lập trình' về mặt sóng.
 
 **19.3 Mindfulness --- Chú Ý Sóng Hiện Tại**
 
@@ -2170,16 +2170,16 @@ mà không phán xét. Trong tennis, điều này có nghĩa là:
 - Nhận biết cảm giác vật lý trong từng cú đánh --- cảm giác vợt, chân
   trên sân, sóng qua cơ thể
 
-- Nhận biết trạng thái cảm xúc mà không bị cuốn vào --- \'tôi đang cảm
-  thấy lo lắng\' thay vì \'tôi đang lo lắng và cần phải không lo lắng\'
+- Nhận biết trạng thái cảm xúc mà không bị cuốn vào --- 'tôi đang cảm
+  thấy lo lắng' thay vì 'tôi đang lo lắng và cần phải không lo lắng'
 
-- Nhận biết suy nghĩ mà không theo đuổi chúng --- \'tôi đang nghĩ về
-  điểm số\' thay vì bị phân tán bởi suy nghĩ đó
+- Nhận biết suy nghĩ mà không theo đuổi chúng --- 'tôi đang nghĩ về
+  điểm số' thay vì bị phân tán bởi suy nghĩ đó
 
-Về mặt sóng, mindfulness là khả năng \'nghe\' sóng cơ thể trong thời
+Về mặt sóng, mindfulness là khả năng 'nghe' sóng cơ thể trong thời
 gian thực --- nhận biết khi nào cơ thể quá căng (cần thư giãn), khi nào
 cơ thể mất tập trung (cần kéo về hiện tại), khi nào kinetic chain bị
-ngắt (cần điều chỉnh kỹ thuật). Đây là \'biofeedback\' tự nhiên mà bất
+ngắt (cần điều chỉnh kỹ thuật). Đây là 'biofeedback' tự nhiên mà bất
 kỳ vận động viên nào cũng có thể phát triển.
 
 **19.4 Visualization --- Lập Trình Sóng Trước**
@@ -2219,7 +2219,7 @@ visualization cho buổi tập hoặc trận đấu trong ngày.
 **Trước Tập Luyện (5 phút)**
 
 Body scan --- đi qua từng phần cơ thể từ chân lên đầu, nhận biết tension
-và thư giãn. Đây là cách \'kiểm tra sóng cơ thể\' trước khi tập --- phát
+và thư giãn. Đây là cách 'kiểm tra sóng cơ thể' trước khi tập --- phát
 hiện những khu vực quá căng cần được thư giãn trước.
 
 **Trong Tập Luyện**
@@ -2252,8 +2252,8 @@ từng kỹ thuật tennis cụ thể, và cuối cùng đến những công c�
 hiện đại. Nhưng tất cả những kiến thức đó đều hội tụ về một điểm: tennis
 không phải là cuộc chiến của sức mạnh --- đó là nghệ thuật quản lý sóng.
 
-Khi bạn nhìn một vận động viên tennis elite đánh bóng và cảm thấy \'sao
-mà trông nhẹ nhàng và dễ dàng vậy\', đó không phải ảo giác --- đó là sự
+Khi bạn nhìn một vận động viên tennis elite đánh bóng và cảm thấy 'sao
+mà trông nhẹ nhàng và dễ dàng vậy', đó không phải ảo giác --- đó là sự
 thật. Họ đang làm điều gì đó thực sự ít tốn lực hơn người chơi trung
 bình, không phải vì họ có cơ bắp ít hơn, mà vì họ để sóng làm việc thay
 vì cơ bắp. Sóng kinetic chain khuếch đại năng lượng qua từng phân đoạn.
@@ -2276,7 +2276,7 @@ Sau nhiều tháng đến nhiều năm luyện tập, vận động viên bắt 
 sử dụng kinetic chain. Họ nhận ra tầm quan trọng của footwork, của
 hip-shoulder separation, của wrist lag. Kỹ thuật cải thiện đáng kể, tốc
 độ bóng tăng lên dù không dùng nhiều lực hơn. Đây là khi tennis bắt đầu
-thực sự thú vị --- khi bạn lần đầu tiên cảm thấy cú serve \'bùng nổ\' từ
+thực sự thú vị --- khi bạn lần đầu tiên cảm thấy cú serve 'bùng nổ' từ
 chân lên chứ không phải từ tay.
 
 **Cấp Độ 3 --- Người Điều Khiển Âm Dương Của Sóng**
@@ -2298,10 +2298,10 @@ việc với HLV để tinh chỉnh kỹ thuật. Đây không phải sự thi�
 --- đây là bản chất của sóng: nó luôn có thể được tinh tế hơn, hài hòa
 hơn, và đẹp hơn.
 
-Thái Cực dạy rằng \'hoàn hảo\' không phải là điểm đến --- đó là quá
+Thái Cực dạy rằng 'hoàn hảo' không phải là điểm đến --- đó là quá
 trình luân chuyển liên tục giữa âm và dương, ngày càng mượt mà và hài
-hòa hơn. Người chơi tennis giỏi nhất không phải người \'hoàn thiện kỹ
-thuật\' mà là người liên tục tìm kiếm sự hài hòa tốt hơn trong hệ thống
+hòa hơn. Người chơi tennis giỏi nhất không phải người 'hoàn thiện kỹ
+thuật' mà là người liên tục tìm kiếm sự hài hòa tốt hơn trong hệ thống
 sóng của mình.
 
 **20.4 Ứng Dụng Rộng Hơn --- Sóng Ngoài Sân Tennis**
@@ -2325,15 +2325,15 @@ mọi khía cạnh của cuộc sống:
 
 **20.5 Lời Nhắn Cuối --- Cưỡi Trên Sóng**
 
-Federer, Djokovic, Nadal và những vận động viên elite khác không \'đánh
-tennis\' theo nghĩa thông thường. Họ để cơ thể trở thành kênh dẫn sóng
+Federer, Djokovic, Nadal và những vận động viên elite khác không 'đánh
+tennis' theo nghĩa thông thường. Họ để cơ thể trở thành kênh dẫn sóng
 --- từ mặt đất qua từng phân đoạn lên đến đầu vợt, với ít trở ngại nhất
 có thể. Họ không chống lại sóng. Họ cưỡi trên sóng.
 
 Và đây là mục tiêu cuối cùng mà cuốn sách này muốn truyền tải: không
-phải là học \'kỹ thuật đúng\' theo từng bước --- mà là hiểu sâu sắc bản
+phải là học 'kỹ thuật đúng' theo từng bước --- mà là hiểu sâu sắc bản
 chất sóng của vận động con người, áp dụng nguyên lý Âm--Dương, và từ từ
-xây dựng khả năng \'cưỡi sóng\' ngày một tốt hơn.
+xây dựng khả năng 'cưỡi sóng' ngày một tốt hơn.
 
 Mỗi buổi tập là một cơ hội để tinh chỉnh sóng. Mỗi trận đấu là một bài
 thực hành quản lý sóng trong điều kiện áp lực. Mỗi thất bại là thông tin

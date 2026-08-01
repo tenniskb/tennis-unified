@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image1.webp)
 
 **Even watching slow motion, the technical differences in serve
 placements in the deuce court seem invisible.**
@@ -14,7 +13,7 @@ In a previous article we looked at how Roger Federer varied his upward
 swing in the ad court to produce serves wide and down the T. ([Click
 Here](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx).)
 
-Now let\'s turn to the same issue in the other box. What are the
+Now let's turn to the same issue in the other box. What are the
 differences in the motion to serve the corners of the deuce court?
 
 When we looked at the ad court, we saw that were slight differences in
@@ -34,8 +33,7 @@ Here](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image2.webp)
 
 **Watch the rotation of the upper arm drive the swing and the 180
 rotation of the racket head.**
@@ -56,7 +54,7 @@ and slightly more than 180 degrees, or past perpendicular to the court.
 
 **So What?**
 
-So what about the deuce court? It\'s a similar explanation---the key is
+So what about the deuce court? It's a similar explanation---the key is
 understanding the timing of the rotation. But it requires close analysis
 of high speed video to determine because the differences are measured in
 hundredths of a second.
@@ -68,32 +66,31 @@ possible, resources available literally nowhere else in the world.
 
 ![A picture containing text, sport, athletic game, player Description
 automatically
-generated](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image3.webp)
 
 **The wide serve and and serve down the T are hit off the same toss
 location.**
 
-Sometimes I tend to take what we\'ve created a little for granted. But
+Sometimes I tend to take what we've created a little for granted. But
 not when I puzzle over an issue as subtle as placement control in pro
 serving.
 
-Before we go into what the high speed video actually shows, let\'s look
+Before we go into what the high speed video actually shows, let's look
 at two alternative explanations that are widespread in teaching. Both
 are inaccurate and usually lead to critical losses in speed, spin, and
 disguise.
 
 The first idea is that to hit the corners in the deuce box you need to
 use different toss placements. The claim is that the toss for the wide
-serve should be significantly further to the player\'s right.
+serve should be significantly further to the player's right.
 
 One obvious problem is that significant, observable differences in the
-toss will telegraph the serve. But that\'s the least of the problems
+toss will telegraph the serve. But that's the least of the problems
 tossing to the far right causes on the wide serve.
 
-Tossing to the right limits a player\'s ability to execute the
+Tossing to the right limits a player's ability to execute the
 fundamental arm and racket rotation that generates racket speed in the
-first place. With this ball position at contact the server can\'t turn
+first place. With this ball position at contact the server can't turn
 the racket over nearly as fully.
 
 The result is players tend to make contact closer with the racket moving
@@ -107,10 +104,9 @@ or inside the hitting hand with the racket tip beveled back to the left.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image4.webp)
 
-**The racket head doesn\'t \"carve\" the ball on the slice serve---it
+**The racket head doesn't \"carve\" the ball on the slice serve---it
 turns in the opposite direction.**
 
 The second idea\--often taught in conjunction with the right toss
@@ -135,8 +131,7 @@ it reduces or even destroys the biomechanics of a sound serving motion.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image5.webp){width="6.5in"
-height="2.417361111111111in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image5.webp)
 
 **In the ad court, the racket head turns sooner and slightly further on
 the wide serve. The rotation starts later on the T serve and turns
@@ -144,7 +139,7 @@ slightly less.**
 
 **The Same Principle**
 
-So what\'s the real explanation? The principle is the same as in the ad
+So what's the real explanation? The principle is the same as in the ad
 court. The key to hitting the corners is slight differences in the
 timing and amount of arm and racket rotation.
 
@@ -161,8 +156,7 @@ other.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image6.webp)
 
 **Changes in the arm and racket rotation produce differences in the
 racket head angle at contact.**
@@ -200,8 +194,7 @@ barely starting to rotate.
 
 ![A picture containing text, person, athletic game, player Description
 automatically
-generated](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image7.webp){width="6.5in"
-height="2.254861111111111in"}
+generated](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image7.webp)
 
 **In the deuce court, the racket head starts to turn and also rotates
 further sooner in the T serve compared to the serve wide.**
@@ -224,7 +217,7 @@ the differences in the timing of rotation of the arm and racket. But
 from this view we can see something else distinguishing the swings.
 
 This is the path of the swing. In both cases the arm and racket are
-traveling on a diagonal from the player\'s left to the player\'s right.
+traveling on a diagonal from the player's left to the player's right.
 
 But the swing on the wide serve is more directly forward and toward the
 net. The swing on the serve to the T travels on an angle further to the
@@ -232,14 +225,13 @@ right.
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image8.webp){width="6.5in"
-height="1.8076388888888888in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image8.webp)
 
 **On the wide serve the arm travels more forward. On the serve down the
 T the arm travels further to the right.**
 
 You can see this by comparing the angle of the arm to the line of
-Federer\'s torso. The angle on the wide serve is something like 30
+Federer's torso. The angle on the wide serve is something like 30
 degrees.
 
 The angle of the arm to the torso on the wide serve is greater, maybe
@@ -251,7 +243,7 @@ critical for maximizing speed and spin on both placements.
 
 In this particular rear view we can also see that the total arm and
 racket rotation on the T serve is greater turning over slightly more. If
-we look at multiple examples that isn\'t always the case.
+we look at multiple examples that isn't always the case.
 
 So what does that mean for the average player trying to develop control
 of his placements and spins? There are several possible keys to
@@ -268,9 +260,9 @@ outward and forward across the baseline.
 The key in all these cases is to maintain the way the arm and racket
 turn over. These means never holding back on the rotation in the swing.
 
-I\'ll have more to say about all in my series in Teaching Systems on
+I'll have more to say about all in my series in Teaching Systems on
 building the serve, including a series of drills and drill games for
-developing placements and spin. But next we\'ll look at two final
+developing placements and spin. But next we'll look at two final
 placement and spin combinations.
 
 Those are the kick serves in the deuce and ad court---what they have in
@@ -278,8 +270,7 @@ common and how they differ. Stay tuned for that!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image9.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-federer-serve-locations-1st-serve-deuce/media/image9.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -11,26 +11,24 @@ share on the one-handed forward swing, and also, some of the differences
 between the classical and extreme players. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand-The%20Forward%20Swing.docx).)
 
-Now let\'s take a look at another complex issue: the hitting stances.
-When we look at the footage it\'s quite surprising. The footage, as we
+Now let's take a look at another complex issue: the hitting stances.
+When we look at the footage it's quite surprising. The footage, as we
 would suspect, shows that the top players hit from neutral, open, and
 closed stances.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image1.webp)
 
 **Closed stance dominates on the pro one-handed backhand, but why?**
 
-**[But what\'s surprising is that the predominant stance by far is the
-closed stance, and quite often an extreme version]{.mark}**. It\'s
+**[But what's surprising is that the predominant stance by far is the
+closed stance, and quite often an extreme version]{.mark}**. It's
 similar to what we found with the two-handed backhand, only more so. The
 players sometimes close the stance by stepping across their bodies a
 distance of up to 4 or more feet.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image2.webp)
 
 **Top players can step across with a stance several feet wide.**
 
@@ -44,12 +42,12 @@ extreme players both use the closed stance most of the time, probably on
 So the closed stance rules on the one-handed backhand in pro tennis. The
 question is why? On the forehand, the closed stance is a major taboo,
 because it blocks the use of the shoulders and legs. But what the
-footage shows is that on the one-hander it\'s the exact opposite.
+footage shows is that on the one-hander it's the exact opposite.
 ***[The closed stance actually increases the role of both the shoulders
 and the legs.]{.mark}***
 
-That may seem counterintuitive, so let\'s look closely at all the
-stances. Then let\'s focus on the relationship between the stance, the
+That may seem counterintuitive, so let's look closely at all the
+stances. Then let's focus on the relationship between the stance, the
 shoulder turn, and the uncoiling of the legs and see why the top players
 prefer to step across the ball. Even after many years of video study,
 the complexity and variation of the shots in the pro game continue to
@@ -57,8 +55,7 @@ amaze me.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image3.webp)
 
 **Watch the reverse pivot step and the neutral stance on this center
 ball.**
@@ -74,7 +71,7 @@ neutral stance, around the middle of the court.]{.mark}*** This is most
 true when they begin the unit turn with a reverse pivot, or a step back
 and away from the ball.
 
-That\'s similar to what we found with the two-handed backhand.
+That's similar to what we found with the two-handed backhand.
 One-handers will also use a neutral stance at times from wider
 positions, most typically when they are going straight down the line.
 
@@ -93,17 +90,16 @@ forcing return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image4.webp)
 
 **Open stance is also basic, depending on the ball.**
 
 Players are sometimes caught off balance trying to recover from the
 landing on the serve. A deep drive return then forces them to move
-backwards. So they hit open stance off the back foot since they don\'t
+backwards. So they hit open stance off the back foot since they don't
 have the time to set up and step in. The same thing can also happen in
 backcourt exchanges when they are forced backwards by the depth and
-height of the opponent\'s ball.
+height of the opponent's ball.
 
 The other instance in which players hit open stance is when they are
 pushed wide or are on the run. Although this is less common, you can
@@ -117,11 +113,10 @@ difference is that the coiling and knee bend are in the back or outside
 leg, as opposed to the neutral and closed stances where there is usually
 significant front knee bend. This ability to position to the ball with
 the rear foot is actually critical for most players to learn alignment
-and balance, as we\'ll also see below.]{.mark}**
+and balance, as we'll also see below.]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image5.webp)
 
 **Roger adjusts his set up to make sure he can step across.**
 
@@ -134,7 +129,7 @@ animation.
 
 Watch how he sets up on this wide ball where he has plenty of time.
 Rather than moving closer and positioning to step directly forward,
-it\'s clear that Roger is stopping at a distance and aligning himself to
+it's clear that Roger is stopping at a distance and aligning himself to
 step across to the hit.
 
 So what dictates the closed stance preference? First take a close look
@@ -151,8 +146,7 @@ stance. Notice the turn is about the same, or maybe a little more
 pronounced.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image6.webp)
 
 **Compare the amount of shoulder turn on the three stances.**
 
@@ -165,7 +159,7 @@ opponent.
 
 **How Does It Work?**
 
-To understand how this works, let\'s look a little more closely at the
+To understand how this works, let's look a little more closely at the
 relationship between the line of the feet and the line of the shoulders
 in the closed stance. If you draw a line across the tips of the toes and
 another line across the shoulders in most cases they are virtually
@@ -179,8 +173,7 @@ turn this much in either an open or a neutral stance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image7.webp)
 
 **With the extreme stance, the shoulder rotation forward to contact
 increases.**
@@ -188,7 +181,7 @@ increases.**
 Now watch what happens as the players start the forward swing from this
 extreme turn. The shoulders rotate forward into the contact until they
 are perpendicular to the net, or sometimes a little further in the case
-of the extreme players. So that\'s at least 45 degrees more rotation
+of the extreme players. So that's at least 45 degrees more rotation
 than if they had simply turned the shoulders perpendicular to the net.
 
 **[[What this footage shows is that torso rotation is a big part of the
@@ -197,13 +190,12 @@ players who stay more or less sideways at the hit are rotating the hips
 and the shoulders substantially prior to contact. And the reason they
 are able to do this is the closed stance.
 
-The total rotation doesn\'t approach what we see in the modern forehand,
-but it\'s still significant. This explains why the players work hard to
+The total rotation doesn't approach what we see in the modern forehand,
+but it's still significant. This explains why the players work hard to
 set up and take that diagonal cross step to the ball.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image8.webp)
 
 **Watch the coiling and uncoiling of the knees in the forward swing.**
 
@@ -241,8 +233,7 @@ version of the same bio-mechanical process. This is the value of the
 closed stance\--it seems to maximize both factors in this stroke.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image9.webp)
 
 **Do you have the strength, balance, and fundamentals to hit closed?**
 
@@ -274,13 +265,12 @@ technique\--and you have already mastered the open and the neutral
 stance.]{.underline}]{.mark}***
 
 And yes, I realize that, no matter the actual condition of your
-backhand, I can\'t stop you from trying, nor do I really want to. But
+backhand, I can't stop you from trying, nor do I really want to. But
 before you run out to the practice court and start trying to emulate
-Guga\'s super human cross step, at least ponder these questions.
+Guga's super human cross step, at least ponder these questions.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image10.webp)
 
 **Which ball does he hit neutral, and which does he hit closed?**
 
@@ -294,7 +284,7 @@ effectively from an open stance?]{.mark}***
 It may seem strange to say this but there is a direct relationship
 between this last point, your ability to set up in the open stance, and
 your ability to widen the stance and test some of the advanced
-techniques we\'ve just analyzed.
+techniques we've just analyzed.
 
 Why? As some of our other writers, especially Kerry Mitchell, have
 pointed out ([Click
@@ -304,18 +294,17 @@ chase the ball with the front foot.
 
 What this means is the player never gets fully turned, balanced or
 coiled. Good alignment means having the ability to create a balanced
-position before the step to the ball. It\'s critical on the forehand,
+position before the step to the ball. It's critical on the forehand,
 but equally so on the one-hander.
 
 ***[[So when players with poor alignment decide that the key to
 improving their backhand is to emulate the extreme cross steps and
-closed stances of the top pros, they aren\'t solving their problems.
+closed stances of the top pros, they aren't solving their problems.
 They are making them worse.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image11.webp)
 
 **Developing open stance teaches the elements for all stances.**
 
@@ -333,13 +322,13 @@ stance.
 ***[To hit an effective open stance backhand, you have to get behind the
 ball and get coiled, balanced and aligned. The top players achieve this
 same position whether they step in, step across or hit open. But most
-lower level players don\'t. Hitting open stance forces them to develop
+lower level players don't. Hitting open stance forces them to develop
 it.]{.mark}***
 
 ***[[Most club players reach the ball on the front foot without
 gathering themselves and establishing this critical position. Usually
 they are only partially turned, and are also leaning forward and/or over
-to the side. Since they haven\'t controlled their momentum or achieved
+to the side. Since they haven't controlled their momentum or achieved
 balance, they crash through the shot, over rotate, and swing the rear
 foot around too soon.]{.underline}]{.mark}***
 
@@ -352,10 +341,9 @@ development and use of all the stances from everywhere on the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image12.webp)
 
-**It\'s hard to beat Federer as a classic model.**
+**It's hard to beat Federer as a classic model.**
 
 The first coach I know who advocated this use of open stance on the
 one-hander is my old friend, Bob Hansen, coach of the Division 3
@@ -365,13 +353,13 @@ in our lesson archive is a compact jewel on the subject and highly
 recommended. ([Click
 Here](http://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_BH/Hansen_Court_Movement_BH.html).)
 
-So assuming you add the open stance set up, what\'s the best model
+So assuming you add the open stance set up, what's the best model
 stroke to emulate? How about Roger Federer hitting a classic, neutral
 stance topspin backhand from the center of the court? If the average
 club player had control of the elements in this stroke, he or she would
 be invincible on the backhand side.
 
-We\'ve looked at most of the factors involved in this amazing stroke
+We've looked at most of the factors involved in this amazing stroke
 before: the compact unit turn and backswing, the full shoulder turn, the
 straight hitting arm position, a neutral step forward into the shot, the
 head still, the sideways torso position at contact, and the extended
@@ -379,15 +367,14 @@ finish with the wrist at eye level. If you are a high level player and
 have chosen a more extreme grip, most of the same elements apply, with
 the variations we have discussed previously.
 
-So we\'re getting close to completing our analysis. Next time, let\'s
+So we're getting close to completing our analysis. Next time, let's
 look at one more advanced element: the use of hand and arm rotation, a
 central aspect in the modern forehand that the top players are now using
 more and more on the backhand side as well.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image13.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-hitting-stances/media/image13.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

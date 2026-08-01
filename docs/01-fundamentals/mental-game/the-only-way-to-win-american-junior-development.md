@@ -4,21 +4,20 @@
 
 ------------------------------------------------------------------------
 
-Jim Loehr\'s fantastic original series comes to a close with his
+Jim Loehr's fantastic original series comes to a close with his
 personal analysis of American junior tennis. What would it take to bring
-more Americans back into the mix at the top of the game? In Jim\'s view
+more Americans back into the mix at the top of the game? In Jim's view
 one thing: money. The prohibitive cost of junior development in the
 states is excluding huge numbers of young athletes who are potentially
 elite players. Having just returned from the 2014 Easter Bowl\--the
-elite American junior tournament\--the luxury SUV\'s in the parking lot
+elite American junior tournament\--the luxury SUV's in the parking lot
 make it hard to argue.
 
 ![](media_the-only-way-to-win-american-junior-development/media/image1.png)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-only-way-to-win-american-junior-development/media/image2.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                                      himself who still competes nationally in USTA
+  confidence](media_the-only-way-to-win-american-junior-development/media/image2.jpeg)                                                                                                                                                                      himself who still competes nationally in USTA
                                                                                                                                                                                                       events, Jim created the field of Mental
                                                                                                                                                                                                       Toughness training with his revolutionary study
                                                                                                                                                                                                       of elite pro players. He has been one of the

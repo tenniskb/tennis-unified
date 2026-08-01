@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-one-handed-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-one-handed-backhand/media/image1.webp)
 
 **On the one-hander the hips are closely aligned with the shot line.**
 
@@ -27,8 +26,7 @@ close at contact and also out into the followthrough, although with more
 extreme grips the body rotation can be somewhat more.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-one-handed-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-one-handed-backhand/media/image2.webp)
 
 **Like two-handers one-handers hit open, neutral, and closed.**
 
@@ -57,8 +55,7 @@ directions. The front leg kicks forward and the back leg kicks behind.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-one-handed-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-one-handed-backhand/media/image3.webp)
 
 **Watch the legs scissor Slamming the Door.**
 
@@ -86,8 +83,7 @@ target.
 
 ![A picture containing text, person, tennis, scoreboard Description
 automatically
-generated](media_true-alignment-the-one-handed-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-one-handed-backhand/media/image4.webp)
 
 **Players keep true alignment in neutral stance by moving the back foot
 backwards behind them.**
@@ -96,7 +92,7 @@ This is the problem with teaching the recovery step as part of the
 stroke. It causes over rotation of the body and reduces power by making
 the swing line much less linear.
 
-As John Yandell\'s research shows, at the pro level, most one-handers,
+As John Yandell's research shows, at the pro level, most one-handers,
 as with two handers are hit with closed stances. ([Click
 Here](../../Stroke%20Analysis/Advanced%20Tennis/The%20myth%20of%20the%20Recovery%20Step%20-%20Backhand.docx).)
 Closed stance allows a bit more body turn in the set up.
@@ -105,8 +101,7 @@ This is advanced hitting and not what I recommend for club players. It
 takes great core strength and balance.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_true-alignment-the-one-handed-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-one-handed-backhand/media/image5.webp)
 
 **The counter movement of the back foot is probably even more important
 in closed stance.**
@@ -121,16 +116,15 @@ The challenge in the closed stance is maintaining True Alignment.
 player before the recovery. It keeps the hips from moving too much too
 soon.]{.underline}]{.mark}**
 
-It\'s a huge key for power and proper swing line in the pro game. Look
-at the perfect alignment of Roger\'s hips to the shot line in the
+It's a huge key for power and proper swing line in the pro game. Look
+at the perfect alignment of Roger's hips to the shot line in the
 animation.
 
 **The Hop**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-one-handed-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-one-handed-backhand/media/image6.webp)
 
 **The hop forward on to the front foot with the back leg moving back
 behind the player.**
@@ -168,8 +162,7 @@ After an initial step with the front foot the back foot passes ahead of
 the front foot with a Karaoke Step towards the intended target.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-one-handed-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-one-handed-backhand/media/image7.webp)
 
 **The Karaoke Step helps maintain true alignment on short balls.**
 
@@ -190,22 +183,21 @@ alignment.
 That concluded my discussion of True Alignment on the groundstrokes.
 Stay tuned and we will look next at the serve and the volleys.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                                 | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_true-alignment-the-one-handed-backhand/media/image8.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                              | numerous ranked junior players and coached  |
-|                                                                                                                                                                                             | a series of championship high school teams. |
-|                                                                                                                                                                                             | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                             | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                             |                                             |
-|                                                                                                                                                                                             | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                             | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                             | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                             | are now splitting time between homes in     |
-|                                                                                                                                                                                             | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                             | continued to coach and to have great        |
-|                                                                                                                                                                                             | competitive success winning Canadian        |
-|                                                                                                                                                                                             | National seniors titles---not to mention    |
-|                                                                                                                                                                                             | continuing to write articles for            |
-|                                                                                                                                                                                             | Tennisplayer from his unique perspective.   |
-+=============================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_true-alignment-the-one-handed-backhand/media/image8.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

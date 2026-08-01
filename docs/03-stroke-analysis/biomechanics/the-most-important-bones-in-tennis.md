@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A picture containing text, clothing, indoor Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image1.jpg){width="6.5in"
-height="3.626388888888889in"}**The ulna styloid and the humerus. The
+generated](media_the-most-important-bones-in-tennis/media/image1.jpg)**The ulna styloid and the humerus. The
 movement of these two bones is a key to understanding stroke
 production.**
 
@@ -16,7 +15,7 @@ important in tennis?
 For the purposes of this article I am limiting myself to the upper body.
 The two bones are the ulna styloid and the humerus.
 
-I won\'t deny that tennis is a game of moving with some hitting. As
+I won't deny that tennis is a game of moving with some hitting. As
 such, getting yourself in proper position allows proper stroking of the
 ball. This is where the pros excel far beyond any amateur. However,
 assuming you can get yourself in proper position, these two bones can be
@@ -39,8 +38,7 @@ carried the slogan "feel what the pros feel\". ([Click
 Here](http://squarehittennis.com/index.html).)
 
 ![A picture containing dark Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-important-bones-in-tennis/media/image2.webp)
 
 **Agassi: wrist laid back before, during, and after contact.**
 
@@ -66,11 +64,10 @@ the follow-through as part of the deceleration phase of the stroke.
 In My Book the Art and Science of Ball Watching ([Click
 Here](https://drpaulhamori.com/product/the-art-and-science-of-ball-watching/).)
 I have a section devoted to the physics of tennis. In that section I
-talk about Bruce Lee\'s 1 inch punch.
+talk about Bruce Lee's 1 inch punch.
 
 ![A picture containing outdoor, person Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image3.jpg){width="3.3208956692913385in"
-height="2.859346019247594in"}
+generated](media_the-most-important-bones-in-tennis/media/image3.jpg)
 
 **Bruce Lee used massive acceleration in his one inch and six inch
 punches.**
@@ -79,7 +76,7 @@ Bruce Lee could break a board starting from a one-inch distance. He
 accomplished this with extreme acceleration.
 
 He also had a 6-inch punch. And this punch is more apropos to the
-kinetics of tennis strokes. In the 6-inch punch Bruce Lee\'s combination
+kinetics of tennis strokes. In the 6-inch punch Bruce Lee's combination
 of flexing of the legs, coiling of the torso, flexion of the arm, and
 external rotation of the shoulder--followed by the unwinding of this
 process, which led to tremendous hand speed.
@@ -102,13 +99,12 @@ in tennis strokes. Yes, the forearm rotates. But this is because it is
 attached to the upper arm.
 
 ![A picture containing dark Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-important-bones-in-tennis/media/image4.webp)
 
 **Pronation: Independent counter-clockwise rotation of the hand from the
 elbow joint.**
 
-It\'s not an independent movement. What we perceive to be pronation is
+It's not an independent movement. What we perceive to be pronation is
 actually caused by internal or external shoulder rotation.
 
 For the purposes of tennis, and acceleration through the kinetic chain,
@@ -125,15 +121,14 @@ entire process leads to a synergistic acceleration of the racquet head
 providing power and spin.
 
 The last part of this chain is the rotation of the arm from the
-shoulder. So, let\'s look at the forehand, the one handed backhand and
+shoulder. So, let's look at the forehand, the one handed backhand and
 the serve, the 3 shots where the rotation of the arm is most dramatic,
 and see how this works.
 
 **Forehand**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-important-bones-in-tennis/media/image5.webp)
 
 **Look at how the ulna bone has rotated until it is pointing basically
 up at the sky in the full wiper motion.**
@@ -177,8 +172,7 @@ image]{.underline}]{.mark}** **[[is a great key to insure full external
 rotation.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-important-bones-in-tennis/media/image6.webp)
 
 **On the backhand the external rotation of the hitting arm from the
 shoulder means the ulna styloid at the joint with the wrist points
@@ -187,7 +181,7 @@ directly up at the sky**
 **Serve**
 
 There are a multitude of ways to get to the trophy position in the serve
-and I won\'t go into those details. From the trophy position you will
+and I won't go into those details. From the trophy position you will
 see that the ulnar styloid is pointing 45° to the sky with the shoulder
 externally rotated.
 
@@ -196,8 +190,7 @@ upward trajectory of the hand. As the hand rises, we then internally
 rotate the shoulder.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-most-important-bones-in-tennis/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-important-bones-in-tennis/media/image7.webp)
 
 **Watch the hand arm and racket rotate until the ulner styloid points
 directly down at the court.**
@@ -220,8 +213,7 @@ game.
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_the-most-important-bones-in-tennis/media/image8.jpeg){width="1.8208333333333333in"
-height="2.1118055555555557in"}
+confidence](media_the-most-important-bones-in-tennis/media/image8.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -232,7 +224,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

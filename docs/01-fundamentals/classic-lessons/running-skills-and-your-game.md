@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person running on a track Description automatically
-generated](media_running-skills-and-your-game/media/image1.webp){width="2.53125in"
-height="2.5in"}
+generated](media_running-skills-and-your-game/media/image1.webp)
 
 **Trainers rarely talk about it, but improving your technical running
 could lead to a huge improvement in your game.**
@@ -31,13 +30,12 @@ the professional level. I made attempts to improve my fitness in college
 and again latter in life, but was frustrated with my lack of knowledge
 and motivation. I did a lot of running, focusing on stamina, which
 seemed to do very little to help improve my game. Finally at the age of
-35, I decided to seek help in working on my conditioning. I just didn\'t
+35, I decided to seek help in working on my conditioning. I just didn't
 realize my quest for better conditioning would also become an education
 on the technique of running.
 
 ![A couple of men smiling Description automatically generated with low
-confidence](media_running-skills-and-your-game/media/image2.jpg){width="3.125in"
-height="2.5208333333333335in"}
+confidence](media_running-skills-and-your-game/media/image2.jpg)
 
 **Hiring Malcolm Thompson (right) as my trainer turned out to be lucky
 because of his background in track.**
@@ -54,13 +52,13 @@ and lead to a big jump in my level of play.
 
 **Running Technique**
 
-Before we started on actual running technique, Malcolm\'s initial goal
+Before we started on actual running technique, Malcolm's initial goal
 for me was improved stamina and quickness. Immediately he put me on the
 stair climber and treadmill for a combined 40 minutes. I had never done
 anything like that before. I was incredibly tired by the end of our
 first session. I had thought I was in ok shape because I was playing 4-6
 times a week. But I was wrong. I started doing these kinds of workout 3
-times a week on top of my tennis playing. I can\'t count the number of
+times a week on top of my tennis playing. I can't count the number of
 times I played tennis completely exhausted because of an extremely hard
 workout earlier in the day. This laid the base for addressing the issue
 of on court speed and better on court movement.
@@ -79,8 +77,7 @@ category number one, but unfortunately only a small percentage do.
 
 ![A person holding a tennis racket Description automatically generated
 with low
-confidence](media_running-skills-and-your-game/media/image3.webp){width="2.8645833333333335in"
-height="2.1458333333333335in"}
+confidence](media_running-skills-and-your-game/media/image3.webp)
 
 **Using your arms \"cheek to cheek\" increases your speed by actually
 pulling your feet through.**
@@ -93,7 +90,7 @@ As I soon learned working with Malcolm, my running technique was not a
 thing of beauty. If someone had asked me I would have said that, yes,
 there must be such a thing as good technique in running as in any sport.
 But I had never really thought about it in terms of improving my tennis.
-I\'d never heard of it in tennis coaching either.
+I'd never heard of it in tennis coaching either.
 
 All great athletes have an air of confidence and readiness when they are
 in the midst of competition. Malcolm uses a term that is a perfect
@@ -109,7 +106,7 @@ sprinting.
 The first thing that Malcolm talked about in terms of running was a term
 called **[[\"efficiency of movement\". When the whole body is working
 together in the right sequence, more energy is produced with less
-effort.]{.underline}]{.mark}** It\'s the same principle in running as
+effort.]{.underline}]{.mark}** It's the same principle in running as
 for the tennis strokes themselves.
 
 When I first started to train to improve my running technique, I felt
@@ -123,8 +120,7 @@ speed would improve also.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_running-skills-and-your-game/media/image4.webp){width="2.8645833333333335in"
-height="2.3854166666666665in"}
+confidence](media_running-skills-and-your-game/media/image4.webp)
 
 **How you move and how fast you move-the best movers are great in both
 categories.**
@@ -170,8 +166,7 @@ will occur naturally.
 
 ![A person wearing roller skates Description automatically generated
 with low
-confidence](media_running-skills-and-your-game/media/image5.webp){width="2.8645833333333335in"
-height="2.1458333333333335in"}
+confidence](media_running-skills-and-your-game/media/image5.webp)
 
 **To learn to stay on the balls of my feet, I did interval training on
 stadium stairs.**
@@ -181,7 +176,7 @@ to move quicker (quicker exchange). As I mentioned above, I had made
 various attempts to get into shape by running. That running usually
 entailed jogging for some distance. In distance running, and
 particularly in jogging, the foot landing is heal first. In sprinting,
-the heal of the foot never touches the ground. I didn\'t realize how
+the heal of the foot never touches the ground. I didn't realize how
 difficult this was until I started doing all my running this way. My
 calves were burning after only a short time. It took me quite awhile to
 gain stamina running this way. My calves were never as sore at any time
@@ -205,8 +200,7 @@ to one set interval.]{.underline}]{.mark}**
 
 ![A picture containing person, indoor, person, preparing Description
 automatically
-generated](media_running-skills-and-your-game/media/image6.jpg){width="3.125in"
-height="2.3854166666666665in"}
+generated](media_running-skills-and-your-game/media/image6.jpg)
 
 **Using a treadmill in front of a mirror allowed me to see my own
 running technique.**
@@ -261,14 +255,13 @@ improvement on an upward climb.
 
 ![A person standing on a track Description automatically generated with
 medium
-confidence](media_running-skills-and-your-game/media/image7.jpg){width="2.6041666666666665in"
-height="3.5625in"}
+confidence](media_running-skills-and-your-game/media/image7.jpg)
 
 **After three years of working with Malcolm, I was in the best shape of
 my life and my game took an incredible jump.**
 
 Where did I find the time you might be asking? My time like everyone
-else\'s can be very limited. The way I was able accomplish this was to
+else's can be very limited. The way I was able accomplish this was to
 take advantage of my free time as often as possible. This became my
 highest priority in terms of scheduling free time. Even over my tennis
 playing. Missing a few extra days of tennis did not seem to lower the
@@ -284,7 +277,7 @@ in an interval sequence either at the beginning or at the end. Sometimes
 I would even do two different interval sequences in one 45 minute cardio
 workout.
 
-You\'re often told by fitness experts to switch workout routines after a
+You're often told by fitness experts to switch workout routines after a
 certain number of weeks to push your body in different ways. I took this
 to the ultimate by changing subtly something almost every day. I treated
 my workouts like a tennis match where unexpected stresses can happen at
@@ -306,7 +299,7 @@ to limit myself in any way. I remain convinced that I have not reached
 my potential, and that improvement is just a matter of dedication and
 hard work.
 
-**Next: we\'ll look at the strength training side of my program and how
+**Next: we'll look at the strength training side of my program and how
 the two worked together in my quest for improvement.**
 
 One final personal note: Along with Malcolm, I would like to thank Lisa
@@ -328,21 +321,20 @@ Malcolm Thompson Physical Trainer
 
 Email: MalcolmTShot@aol.com
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                             | Kerry Mitchell was a leading Bay Area teaching   |
-| confidence](media_running-skills-and-your-game/media/image8.jpeg){width="1.45625in" | pro for 20 years. He developed numerous ranked   |
-| height="1.3916666666666666in"}                                                                                                                                          | junior players and coached a series of           |
-|                                                                                                                                                                         | championship high school teams. He was highly    |
-|                                                                                                                                                                         | ranked both sectionally and nationally in men\'s |
-|                                                                                                                                                                         | 30 and 35 singles..                              |
-|                                                                                                                                                                         |                                                  |
-|                                                                                                                                                                         | After 15 years as the Head Teaching Pro at the   |
-|                                                                                                                                                                         | John Yandell Tennis School in San Francisco,     |
-|                                                                                                                                                                         | California Kerry and his partner are now         |
-|                                                                                                                                                                         | splitting time between homes in Merida, Mexico   |
-|                                                                                                                                                                         | and Toronto, Canada. He has continued to coach   |
-|                                                                                                                                                                         | and to have great competitive success winning    |
-|                                                                                                                                                                         | Canadian National seniors titles---not to        |
-|                                                                                                                                                                         | mention continuing to write articles for         |
-|                                                                                                                                                                         | Tennisplayer from his unique perspective.        |
-+=========================================================================================================================================================================+==================================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area teaching |
+| --- | --- |
+| confidence](media_running-skills-and-your-game/media/image8.jpeg) | junior players and coached a series of |
+|  | championship high school teams. He was highly |
+|  | ranked both sectionally and nationally in men's |
+|  | 30 and 35 singles.. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at the |
+|  | John Yandell Tennis School in San Francisco, |
+|  | California Kerry and his partner are now |
+|  | splitting time between homes in Merida, Mexico |
+|  | and Toronto, Canada. He has continued to coach |
+|  | and to have great competitive success winning |
+|  | Canadian National seniors titles---not to |
+|  | mention continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

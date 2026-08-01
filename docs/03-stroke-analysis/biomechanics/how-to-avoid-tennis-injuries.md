@@ -5,8 +5,7 @@ Medicine &
 Nutrition](https://www.thephysiomovement.com.au/category/sports-medicine-nutrition/)**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image1.jpeg){width="6.5in"
-height="4.334027777777778in"}
+generated](media_how-to-avoid-tennis-injuries/media/image1.jpeg)
 
 ## **How to Avoid a Tennis Shoulder Injury** 
 
@@ -51,8 +50,7 @@ upwards and forwards toward an explosive ball impact.
  
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image3.png){width="2.0in"
-height="3.1215277777777777in"}
+generated](media_how-to-avoid-tennis-injuries/media/image3.png)
 
 **Serve preparation phase prior to ball impact**
 
@@ -66,8 +64,7 @@ cuff.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_how-to-avoid-tennis-injuries/media/image4.png){width="2.3305555555555557in"
-height="3.1215277777777777in"}
+confidence](media_how-to-avoid-tennis-injuries/media/image4.png)
 
 **Deceleration phase following ball impact**
 
@@ -90,8 +87,7 @@ impact for the tennis serve.
 elevation**
 
 ![A person lifting weights Description automatically generated with low
-confidence](media_how-to-avoid-tennis-injuries/media/image5.png){width="3.1215277777777777in"
-height="3.1215277777777777in"}
+confidence](media_how-to-avoid-tennis-injuries/media/image5.png)
 
 **Exercise 1: Banded external rotation at neutral shoulder elevation**
 
@@ -99,8 +95,7 @@ height="3.1215277777777777in"}
 shoulder elevation**
 
 ![A person lifting weights Description automatically generated with low
-confidence](media_how-to-avoid-tennis-injuries/media/image6.png){width="3.1215277777777777in"
-height="3.1215277777777777in"}** **
+confidence](media_how-to-avoid-tennis-injuries/media/image6.png)** **
 
 **Exercise 2: Banded external rotation at 90 degrees shoulder
 elevation**
@@ -110,8 +105,7 @@ abduction**
 
 ![A person holding a balloon Description automatically generated with
 medium
-confidence](media_how-to-avoid-tennis-injuries/media/image7.png){width="2.338888888888889in"
-height="3.1215277777777777in"}
+confidence](media_how-to-avoid-tennis-injuries/media/image7.png)
 
 **Exercise 3: Swiss Ball wall bounces at 90 degrees abduction**
 
@@ -260,8 +254,7 @@ have the right racquet for you and your playing style.
 
 [Rami G.
 Alrabaa](https://www.ncbi.nlm.nih.gov/pubmed/?term=Alrabaa%20RG%5BAuthor%5D&cauthor=true&cauthor_uid=32827301),![corresponding
-author](media_how-to-avoid-tennis-injuries/media/image8.gif){width="6.944444444444445e-2in"
-height="9.583333333333334e-2in"} [Mario H.
+author](media_how-to-avoid-tennis-injuries/media/image8.gif) [Mario H.
 Lobao](https://www.ncbi.nlm.nih.gov/pubmed/?term=Lobao%20MH%5BAuthor%5D&cauthor=true&cauthor_uid=32827301),
 and [William N.
 Levine](https://www.ncbi.nlm.nih.gov/pubmed/?term=Levine%20WN%5BAuthor%5D&cauthor=true&cauthor_uid=32827301)
@@ -478,8 +471,7 @@ limiting anterior translation of the humeral head in abduction and
 external rotation ultimately leading to internal impingement.
 
 [![Diagram Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image9.jpeg){width="6.5in"
-height="4.947222222222222in"}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/figure/Fig1/)
+generated](media_how-to-avoid-tennis-injuries/media/image9.jpeg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/figure/Fig1/)
 
 **With repetitive abduction and external rotation, the overhead athlete
 can develop internal impingement leading to partial-thickness tearing of
@@ -772,8 +764,7 @@ lesions were identified on ABER views
 \[[52](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/#CR52)\].
 
 [![A close-up of a planet Description automatically generated with low
-confidence](media_how-to-avoid-tennis-injuries/media/image10.jpeg){width="6.5in"
-height="6.161111111111111in"}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/figure/Fig2/)
+confidence](media_how-to-avoid-tennis-injuries/media/image10.jpeg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/figure/Fig2/)
 
 MR arthrogram of the dominant right shoulder of a 20-year-old male
 overhead athlete showing partial articular-sided tearing of the
@@ -966,8 +957,7 @@ kinematics
 \[[74](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7661672/#CR74)•\].
 
 [![A picture containing indoor, different Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image11.jpeg){width="6.5in"
-height="6.215972222222222in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig3_HTML.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image11.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig3_HTML.jpg)
 
 Transtendon repair technique of the partial articular cuff tear shown on
 imaging in Fig.
@@ -989,8 +979,7 @@ of the tendon thickness, so the decision was made to proceed with
 transtendon repair (BT, biceps tendon; HH, humeral head)
 
 [![A picture containing calendar Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image12.jpeg){width="6.316666666666666in"
-height="9.0in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig4_HTML.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image12.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig4_HTML.jpg)
 
 Transtendon repair technique of the partial articular cuff tear shown on
 imaging in
@@ -1022,8 +1011,7 @@ together using a knot pusher to reduce the tear (BT, biceps tendon; HH,
 humeral head)
 
 [![Diagram Description automatically generated with medium
-confidence](media_how-to-avoid-tennis-injuries/media/image13.jpeg){width="6.5in"
-height="6.115277777777778in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig5_HTML.jpg)
+confidence](media_how-to-avoid-tennis-injuries/media/image13.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig5_HTML.jpg)
 
 Transtendon repair technique of the partial articular cuff tear shown on
 imaging in Fig.
@@ -1068,8 +1056,7 @@ the sport.
 
 [![A picture containing indoor, black, dark, silver Description
 automatically
-generated](media_how-to-avoid-tennis-injuries/media/image14.jpeg){width="5.497222222222222in"
-height="9.0in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig6_HTML.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image14.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7661672_12178_2020_9675_Fig6_HTML.jpg)
 
 The arthroscopic repair of a laminated rotator cuff tear referred to as
 a PAINT (partial-thickness articular surface intratendinous tear) lesion
@@ -1292,7 +1279,7 @@ Sports Med Arthrosc Rev. 2014;22(2):101--109.
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24787724)\] \[[Google
 Scholar](https://scholar.google.com/scholar_lookup?journal=Sports+Med+Arthrosc+Rev&title=Rotator+cuff+tears+in+the+throwing+athlete&author=B+Shaffer&author=D+Huttman&volume=22&issue=2&publication_year=2014&pages=101-109&pmid=24787724&)\]
 
-10\. Connor PM, Banks DM, Tyson AB, Coumas JS, D\'Alessandro DF.
+10\. Connor PM, Banks DM, Tyson AB, Coumas JS, D'Alessandro DF.
 Magnetic resonance imaging of the asymptomatic shoulder of overhead
 athletes: a 5-year follow-up study. Am J Sports Med.
 2003;31(5):724--727.
@@ -1683,7 +1670,7 @@ Med. 2008;42(3):165--171.
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/18070811)\] \[[Google
 Scholar](https://scholar.google.com/scholar_lookup?journal=Br+J+Sports+Med&title=Internal+impingement+in+the+tennis+player:+rehabilitation+guidelines&author=AM+Cools&author=G+Declercq&author=B+Cagnie&author=D+Cambier&author=E+Witvrouw&volume=42&issue=3&publication_year=2008&pages=165-171&pmid=18070811&)\]
 
-72\. Mazzocca AD, Rincon LM, O\'Connor RW, Obopilwe E, Andersen M,
+72\. Mazzocca AD, Rincon LM, O'Connor RW, Obopilwe E, Andersen M,
 Geaney L, Arciero RA. Intra-articular partial-thickness rotator cuff
 tears: analysis of injured and repaired strain behavior. Am J Sports
 Med. 2008;36(1):110--116.
@@ -1801,16 +1788,13 @@ here courtesy of **Humana Press**
 ## Share
 
 - [![Share on
-  Facebook](media_how-to-avoid-tennis-injuries/media/image15.png){width="0.33055555555555555in"
-  height="0.33055555555555555in"}Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F)
+  Facebook](media_how-to-avoid-tennis-injuries/media/image15.png)Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F)
 
 - [![Share on
-  Twitter](media_how-to-avoid-tennis-injuries/media/image16.png){width="0.33055555555555555in"
-  height="0.33055555555555555in"}Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F&text=Rotator%20Cuff%20Injuries%20in%20Tennis%20Players)
+  Twitter](media_how-to-avoid-tennis-injuries/media/image16.png)Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F&text=Rotator%20Cuff%20Injuries%20in%20Tennis%20Players)
 
 - [![Share on Google
-  Plus](media_how-to-avoid-tennis-injuries/media/image17.png){width="0.33055555555555555in"
-  height="0.33055555555555555in"}Google+](https://plus.google.com/share?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F)
+  Plus](media_how-to-avoid-tennis-injuries/media/image17.png)Google+](https://plus.google.com/share?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC7661672%2F)
 
 ### Save items
 
@@ -1893,8 +1877,8 @@ Off](javascript:historyDisplayState('HTOff'))
   tennis player.](https://www.ncbi.nlm.nih.gov/pubmed/22554841/)\[Br J
   Sports Med. 2012\]
 
-- [Epidemiology of National Collegiate Athletic Association men\'s and
-  women\'s tennis injuries,
+- [Epidemiology of National Collegiate Athletic Association men's and
+  women's tennis injuries,
   2009/2010-2014/2015.](https://www.ncbi.nlm.nih.gov/pubmed/26719502/)\[Br
   J Sports Med. 2016\]
 
@@ -1922,12 +1906,12 @@ Off](javascript:historyDisplayState('HTOff'))
   and treatment.](https://www.ncbi.nlm.nih.gov/pubmed/25667400/)\[J Am
   Acad Orthop Surg. 2015\]
 
-- [Injury surveillance at the USTA Boys\' Tennis Championships: a 6-yr
+- [Injury surveillance at the USTA Boys' Tennis Championships: a 6-yr
   study.](https://www.ncbi.nlm.nih.gov/pubmed/7658943/)\[Med Sci Sports
   Exerc. 1995\]
 
-- [Epidemiology of National Collegiate Athletic Association men\'s and
-  women\'s tennis injuries,
+- [Epidemiology of National Collegiate Athletic Association men's and
+  women's tennis injuries,
   2009/2010-2014/2015.](https://www.ncbi.nlm.nih.gov/pubmed/26719502/)\[Br
   J Sports Med. 2016\]
 
@@ -1940,7 +1924,7 @@ Off](javascript:historyDisplayState('HTOff'))
   study.](https://www.ncbi.nlm.nih.gov/pubmed/12975193/)\[Am J Sports
   Med. 2003\]
 
-- [Asymptomatic Elite Adolescent Tennis Players\' Signs of Tendinosis in
+- [Asymptomatic Elite Adolescent Tennis Players' Signs of Tendinosis in
   Their Dominant Shoulder Compared With Their Nondominant
   Shoulder.](https://www.ncbi.nlm.nih.gov/pubmed/26651279/)\[J Athl
   Train. 2015\]
@@ -2450,7 +2434,7 @@ well balanced action of the rotator cuff muscles and capsular structures
 is necessary to obtain a stable centre of rotation during the overhead
 action. This review concerns shoulder injuries, related to the overhead
 motion in tennis players, which can be explained by the same mechanism
-as thrower\'s shoulder.
+as thrower's shoulder.
 
 **Keywords:** shoulder, tennis, kinetic chain, glenohumeral internal
 rotation deficit, SICK scapula
@@ -2460,7 +2444,7 @@ design provides stability allowing a wide range of motion in all
 directions. This leads to a fragile equilibrium between stability and
 mobility, particularly in the tennis player, who is trying to generate
 as much energy as possible for the serving motion. In sports science
-literature, this is referred to as the "thrower\'s dilemma". The
+literature, this is referred to as the "thrower's dilemma". The
 repetition of the abduction‐external rotation movement of the arm during
 the overhead action---for example, in a tennis serve, baseball throw,
 and javelin throw---carries an increased risk of overloading various
@@ -2490,8 +2474,7 @@ maximal abduction‐external rotation); (*d*) acceleration phase
 
 [![A group of people with their hands in the air Description
 automatically generated with low
-confidence](media_how-to-avoid-tennis-injuries/media/image18.jpeg){width="5.209027777777778in"
-height="3.165277777777778in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f1.jpg)
+confidence](media_how-to-avoid-tennis-injuries/media/image18.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f1.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig1/?report=objectonly)
@@ -2512,8 +2495,7 @@ scapular function, and intact dynamic and static stabilisers of the
 shoulder.
 
 [![Text, letter Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image19.jpeg){width="5.034722222222222in"
-height="1.3215277777777779in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f2.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image19.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f2.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig2/?report=objectonly)
@@ -2542,8 +2524,7 @@ kinetic chain (shoulder, elbow, and wrist) are more susceptible to
 overuse and injury than the proximal parts.
 
 [![Diagram Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image20.jpeg){width="5.04375in"
-height="5.4in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f3.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image20.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f3.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig3/?report=objectonly)
@@ -2592,8 +2573,7 @@ stabilising muscles (trapezius, rhomboideus) (fig
 
 [![A picture containing person, posing, underpants Description
 automatically
-generated](media_how-to-avoid-tennis-injuries/media/image21.jpeg){width="6.5in"
-height="4.878472222222222in"}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig4/)
+generated](media_how-to-avoid-tennis-injuries/media/image21.jpeg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig4/)
 
 **Figure 4** Type II scapular dyskinesis of the right shoulder in a man
 with anterior instability. The patient has given permission for
@@ -2612,8 +2592,7 @@ the shoulder (fig
 5[​5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig5/)).
 
 [![Diagram, engineering drawing Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image22.jpeg){width="4.330555555555556in"
-height="4.878472222222222in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f5.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image22.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f5.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig5/?report=objectonly)
@@ -2695,7 +2674,7 @@ the shoulder. Usually, there is an increase in external rotation and a
 decrease in internal rotation. Burkhart *et
 al*[^6^](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/#ref6)
 proposed that this loss of internal rotation caused by posteroinferior
-capsular contracture is the essential lesion in thrower\'s shoulder.
+capsular contracture is the essential lesion in thrower's shoulder.
 GIRD can be defined as the loss in degrees of glenohumeral internal
 rotation of the throwing shoulder compared with the non‐throwing
 shoulder. It has been suggested there is an association of GIRD with the
@@ -2726,7 +2705,7 @@ with hypertrophy and reduced capsular pliability. The stiffness and
 shortening of the posterior structures have consequences for
 stabilisation of the shoulder during abduction and external rotation.
 
-According to the theory of O\'Brien *et
+According to the theory of O'Brien *et
 al*,[^9^](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/#ref9)
 the IGHL is the most important stabilising capsular component in the
 shoulder (anterior band in abduction/external rotation; posterior band
@@ -2743,8 +2722,7 @@ al*[^6^](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/#ref6)
 2[​2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig2/)).
 
 [![Diagram Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image23.jpeg){width="5.0in"
-height="2.495833333333333in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f6.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image23.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f6.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig6/?report=objectonly)
@@ -2775,7 +2753,7 @@ is, breakage of the labral ring causes apparent laxity to the opposite
 side of the ring.
 
 The model described by Burkhart *et al* seems to be the most appropriate
-at this time to explain the pathological findings in thrower\'s
+at this time to explain the pathological findings in thrower's
 shoulder. In clinical practice, the biomechanical findings correlate
 well with the clinical signs and symptoms occurring in tennis players
 with shoulder problems.
@@ -2824,8 +2802,7 @@ measured (fig
 
 [![A picture containing person, indoor, sport, exercise device
 Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image24.jpeg){width="5.0in"
-height="1.84375in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f7.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image24.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f7.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig7/?report=objectonly)
@@ -2881,7 +2858,7 @@ disease. Sometimes it is possible to provoke specific pain experienced
 by the athlete in the cocking phase by placing the arm in the cocking
 position and manually resisting active internal rotation by the athlete
 from that position, simulating acceleration of the upper arm (the
-thrower\'s test).
+thrower's test).
 
 The flexibility and strength of the hip and trunk also need to be
 investigated. A weakness in the hip abductors can be detected by the one
@@ -2909,8 +2886,7 @@ radiological sign of a SLAP lesion (fig
 8[​8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig8/)).
 
 [![A picture containing text, indoor Description automatically
-generated](media_how-to-avoid-tennis-injuries/media/image25.jpeg){width="5.0in"
-height="1.95625in"}](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f8.jpg)
+generated](media_how-to-avoid-tennis-injuries/media/image25.jpeg)](https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=2577490_sm23218.f8.jpg)
 
 [Open in a separate
 window](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2577490/figure/fig8/?report=objectonly)
@@ -3031,7 +3007,7 @@ serious intra‐articular damage.
 
 ### What this study adds
 
-- The theoretical assumptions of the pathophysiology of the thrower\'s
+- The theoretical assumptions of the pathophysiology of the thrower's
   shoulder can be used for the tennis player, as, during the serve, the
   same phases can be distinguished
 
@@ -3122,7 +3098,7 @@ of stiffness and soreness after eccentric exercise. Med Sci Sport Exerc
 \[[Google
 Scholar](https://scholar.google.com/scholar_lookup?journal=Med+Sci+Sport+Exerc&volume=37&pages=929-936&)\]
 
-9\. O\'Brien S J, Neves M C, Arnoczky S P.*et al* The anatomy and
+9\. O'Brien S J, Neves M C, Arnoczky S P.*et al* The anatomy and
 histology of the inferior glenohumeral ligament complex of the shoulder.
 Am J Sports Med . 1990;18449--456.
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/2252083)\]
@@ -3144,7 +3120,7 @@ Scholar](https://scholar.google.com/scholar_lookup?journal=J+Shoulder+Elbow+Surg
 \[[Google
 Scholar](https://scholar.google.com/scholar_lookup?journal=J+Shoulder+Elbow+Surg&volume=3&publication_year=2004&pages=39-44&pmid=14735072&)\]
 
-13\. McFarland E G, O\'Neill O, Hsu C. Reliability and reproducibility
+13\. McFarland E G, O'Neill O, Hsu C. Reliability and reproducibility
 of shoulder laxity testing. J Bone Joint Surg \[Br\] 200082(suppl
 II)156--157. \[[Google
 Scholar](https://scholar.google.com/scholar_lookup?journal=J+Bone+Joint+Surg+%5bBr%5d&volume=82&publication_year=2000&pages=156-157&)\]

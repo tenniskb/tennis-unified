@@ -3,16 +3,15 @@
 # John Yandell
 
 \"Serving is just like pitching a baseball.\" Probably everyone who ever
-took a serving lesson has heard this claim. It\'s is one of the most
-common myths in teaching. Unfortunately, it\'s not an accurate
-description. It\'s of minimal value in learning to serve and can even be
+took a serving lesson has heard this claim. It's is one of the most
+common myths in teaching. Unfortunately, it's not an accurate
+description. It's of minimal value in learning to serve and can even be
 counterproductive. This is especially true if the student has actually
 played baseball and can throw or pitch well.
 
 ![A baseball player prepares to throw a baseball Description
 automatically generated with medium
-confidence](media_myth-of-the-pitch/media/image1.webp){width="2.6145833333333335in"
-height="2.3020833333333335in"}
+confidence](media_myth-of-the-pitch/media/image1.webp)
 
 **Is this the model for the serve? How much does the serve really have
 in common with the pitching motion in baseball?**
@@ -20,20 +19,20 @@ in common with the pitching motion in baseball?**
 Actually the baseball pitching analogy is part of a larger category of
 misleading analogy myths. Hitting a one-handed backhand is \"just like\"
 drawing a sword out of scabbard. Hitting a forehand volley is \"just
-like\" throwing a punch. **Then there\'s a teaching pro, and a regular
-correspondent who insists that serving isn\'t really like throwing a
-ball at all. Really, it\'s just like throwing a javelin!**
+like\" throwing a punch. **Then there's a teaching pro, and a regular
+correspondent who insists that serving isn't really like throwing a
+ball at all. Really, it's just like throwing a javelin!**
 
 There are two related problems with these analogies. First, rather than
 simplifying our explanations of the strokes, they actually make them
-more complex. ***[What a tennis serve most resembles isn\'t a baseball
+more complex. ***[What a tennis serve most resembles isn't a baseball
 pitch, a javelin throw, or any other motion from any other
 sport.]{.mark}*** The motion a tennis serve most resembles is a tennis
 serve! Why try to hit a serve by emulating a motion from some other
 sport that may be bio-mechanically completely different?
 
 **[[Which brings me to the second problem with these analogies. They
-imply that we can\'t really understand tennis strokes on their own
+imply that we can't really understand tennis strokes on their own
 terms.]{.underline}]{.mark}** They have to be compared to other motions
 so we can learn them. This is not only misleading, it makes tennis seem
 like a second rate sport. Tennis strokes are among the most beautiful
@@ -43,18 +42,17 @@ pitcher that a fastball is really just like a first serve.
 
 ![A picture containing text, tennis, athletic game, sport Description
 automatically
-generated](media_myth-of-the-pitch/media/image2.webp){width="2.5833333333333335in"
-height="2.3229166666666665in"}
+generated](media_myth-of-the-pitch/media/image2.webp)
 
 **The bio-mechanics of the serve have little in common with the pitching
 motion and should be understood on its own terms instead of through
 confusing analogies.**
 
 To examine the limited and often counterproductive value of the myth of
-the pitch, let\'s compare the delivery of Jason Schmidt, one of the top
+the pitch, let's compare the delivery of Jason Schmidt, one of the top
 pitchers in the National League, to Pete Sampras, one of the great
 servers in tennis history. By comparing a major league pitching motion
-side by side with Pete\'s serve, we\'ll see that the differences vastly
+side by side with Pete's serve, we'll see that the differences vastly
 out way the similarities.
 
 **The Obvious Differences**
@@ -71,15 +69,14 @@ than a tennis ball, weighs more than twice as much, and has protruding,
 stitched seems.]{.mark}**
 
 ***[A third major difference is the trajectories of the two balls. With
-the racquet in his hand, a player of roughly Pete\'s height makes
+the racquet in his hand, a player of roughly Pete's height makes
 contact with the ball about 10 feet above the court. A pitcher of the
 same size releases the ball at a height of about 6 feet above the
 ground\--about 4 feet lower than the height of the serve at
 contact.]{.mark}***
 
 ![Diagram Description automatically
-generated](media_myth-of-the-pitch/media/image3.jpg){width="6.5in"
-height="2.7118055555555554in"}
+generated](media_myth-of-the-pitch/media/image3.jpg)
 
 **Relative trajectories of a tennis serve and a baseball pitch**
 
@@ -87,15 +84,13 @@ The starting points of the pitch and the serve are therefore quite
 different. So are the ensuing flight paths. A pitch travels about 60
 feet and passes through the strike zone at height of around 3 feet. It
 travels on a fairly straight line, dropping at most about 3 feet over
-it\'s entire flight. If things go according to plan, it never touches
+it's entire flight. If things go according to plan, it never touches
 the ground.
 
 ![A baseball player throwing a ball Description automatically
-generated](media_myth-of-the-pitch/media/image4.jpg){width="2.125in"
-height="3.2395833333333335in"} ![A person playing tennis Description
+generated](media_myth-of-the-pitch/media/image4.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_myth-of-the-pitch/media/image5.jpg){width="2.0833333333333335in"
-height="3.2395833333333335in"}
+confidence](media_myth-of-the-pitch/media/image5.jpg)
 
 **Two characteristics both motions share: the ability to rotate the arm
 internally backward from the shoulder, and the resulting pronation after
@@ -120,8 +115,8 @@ clear.
 
 **Two Points in Common**
 
-So let\'s turn to the bio-mechanics, and compare the positions of the
-body at various stages in the two motions. Let\'s start by acknowledging
+So let's turn to the bio-mechanics, and compare the positions of the
+body at various stages in the two motions. Let's start by acknowledging
 the two points that the motions really do share in common.
 
 First, there is the relatively low level of muscle tension in the body.
@@ -136,11 +131,9 @@ the more extreme the pronation.
 
 ![A baseball player standing on a field Description automatically
 generated with low
-confidence](media_myth-of-the-pitch/media/image6.jpg){width="2.0833333333333335in"
-height="2.8854166666666665in"} ![A person playing tennis Description
+confidence](media_myth-of-the-pitch/media/image6.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_myth-of-the-pitch/media/image7.jpg){width="2.0833333333333335in"
-height="2.8854166666666665in"}
+confidence](media_myth-of-the-pitch/media/image7.jpg)
 
 **Note the differences in the shoulders and the feet. Jason starts
 basically facing the target zone. Pete begins with the feet and
@@ -158,27 +151,25 @@ pitch is such a poor model for developing the serve.
 
 **Starting Stance**
 
-Let\'s begin by comparing the starting stances. Pete starts with his
+Let's begin by comparing the starting stances. Pete starts with his
 torso sideways to the net. His left foot is in front and his right foot
-is set behind. Jason\'s torso is square or parallel to home plate. His
+is set behind. Jason's torso is square or parallel to home plate. His
 feet are also parallel to this same line. And just to repeat the
 obvious: Pete has a racquet in his dominant hand, not a baseball.
 
 ![A baseball player throwing a ball Description automatically generated
 with medium
-confidence](media_myth-of-the-pitch/media/image8.jpg){width="2.0833333333333335in"
-height="3.0625in"} ![A person playing tennis Description automatically
+confidence](media_myth-of-the-pitch/media/image8.jpg) ![A person playing tennis Description automatically
 generated with medium
-confidence](media_myth-of-the-pitch/media/image9.jpg){width="2.0833333333333335in"
-height="3.0625in"}
+confidence](media_myth-of-the-pitch/media/image9.jpg)
 
-**Pete has his weight coiled primarily on the front leg, while Jason\'s
+**Pete has his weight coiled primarily on the front leg, while Jason's
 front leg is kicking back toward his chest! Note also the angle of the
 torsos.**
 
 ### The Contact Point/Release
 
-### ![A baseball player throwing a ball Description automatically generated](media_myth-of-the-pitch/media/image10.jpg){width="2.0833333333333335in" height="2.7708333333333335in"} ![A person playing tennis Description automatically generated with medium confidence](media_myth-of-the-pitch/media/image11.jpg){width="2.0833333333333335in" height="2.7708333333333335in"}
+### ![A baseball player throwing a ball Description automatically generated](media_myth-of-the-pitch/media/image10.jpg) ![A person playing tennis Description automatically generated with medium confidence](media_myth-of-the-pitch/media/image11.jpg)
 
 ### A core difference: at contact Pete has uncoiled upward into the air, while Jason has both feet planted in a wide stance.
 
@@ -195,12 +186,12 @@ ball described above.
 Also note again the angle of the torso. Due to the tossing position and
 the \"left launch,\" [(Click
 here)](https://www.tennisplayer.net/members/worldclassstrokes/john_yandell/sampras_serve/sampras_serve_left_launch_part6_images/sampras_serve_left_launch_part6.html),
-Pete\'s torso is leaving the court at a angle to his left. Jason is
+Pete's torso is leaving the court at a angle to his left. Jason is
 almost perfectly straight up and down from the waist.
 
 Finally, there is the position of the head. Pete has perfect head
 position, looking up at the moment of contact, even with his toss fairly
-far to the left. [(Click here for Pete\'s
+far to the left. [(Click here for Pete's
 Toss)](https://www.tennisplayer.net/members/worldclassstrokes/john_yandell/sampras_serve/sampras_serve_tossingarm_part3_pg1_images/sampras_serve_tossingarm_part3_pg1.html).
 Jason, on the other hand, is looking forward, with his head toward the
 target zone.
@@ -212,13 +203,11 @@ Whereas the pitcher releases the ball with his torso already facing the
 batter, the server is still rotating his torso and is at about a 45
 degree angle to the net at the time of contact.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A baseball player throwing a ball Description automatically                                                                                                             | ![A picture containing tennis, sport, athletic game, grass Description automatically                                                                                      |
-| generated](media_myth-of-the-pitch/media/image12.jpg){width="2.0833333333333335in" | generated](media_myth-of-the-pitch/media/image13.jpg){width="2.0833333333333335in" |
-| height="2.5in"}                                                                                                                                                           | height="2.5in"}                                                                                                                                                           |
-+===========================================================================================================================================================================+===========================================================================================================================================================================+
-| #### **A pitcher rotates his torso ahead, parallel to the target zone while his arm lags behind. At the same point in the motion, Pete\'s shoulders are still about 60 degrees to the baseline.**                                                                                                                                                     |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A baseball player throwing a ball Description automatically | ![A picture containing tennis, sport, athletic game, grass Description automatically |
+| --- | --- |
+| generated](media_myth-of-the-pitch/media/image12.jpg) |  |
+| #### **A pitcher rotates his torso ahead, parallel to the target zone while his arm lags behind. At the same point in the motion, Pete's shoulders are still about 60 degrees to the baseline.** |  |
+
 
 If a tennis player with a good feel for throwing a baseball took the
 pitch analogy seriously, he would rotate far too early and end up with
@@ -241,13 +230,11 @@ in the hand, but on the serve, this dissipates energy in the service
 motion and is widely recognized as a technical flaw, for example in the
 motion of a player such as Anna Kournikova.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A baseball player throwing a ball Description automatically generated with medium                                                                                        | ![A person playing tennis Description automatically                                                                                                                       |
-| confidence](media_myth-of-the-pitch/media/image14.jpg){width="2.0833333333333335in" | generated](media_myth-of-the-pitch/media/image15.jpg){width="2.0833333333333335in" |
-| height="2.5729166666666665in"}                                                                                                                                             | height="2.5729166666666665in"}                                                                                                                                            |
-+============================================================================================================================================================================+===========================================================================================================================================================================+
-| #### **Modeling the serve on the pitching motion can lead to a disastrous bend at the waist on the followthrough.**                                                                                                                                                                                                                                    |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A baseball player throwing a ball Description automatically generated with medium | ![A person playing tennis Description automatically |
+| --- | --- |
+| confidence](media_myth-of-the-pitch/media/image14.jpg) |  |
+| #### **Modeling the serve on the pitching motion can lead to a disastrous bend at the waist on the followthrough.** |  |
+
 
 ### Followthrough
 
@@ -259,18 +246,16 @@ waist with their shoulders and hips more closely in line. This probably
 has to do with the lower trajectory taken by the baseball.
 
 ***[Again, as any good teaching pro knows, bending too much at the waist
-is a disaster on the serve. It\'s a common problem with junior players
+is a disaster on the serve. It's a common problem with junior players
 and even effects top pros like Venus Williams. The throwing analogy,
 taken seriously, can encourage these torso movements-early rotation and
 bending at the waist. Both are destructive to the serve.]{.mark}***
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A baseball player throwing a ball Description automatically                                                                                                             | ![A person playing tennis Description automatically generated with medium                                                                                                  |
-| generated](media_myth-of-the-pitch/media/image16.jpg){width="2.0833333333333335in" | confidence](media_myth-of-the-pitch/media/image17.jpg){width="2.0833333333333335in" |
-| height="2.6875in"}                                                                                                                                                        | height="2.6875in"}                                                                                                                                                         |
-+===========================================================================================================================================================================+============================================================================================================================================================================+
-| #### **The pitcher releases with both feet on the ground. The server uncoils and leaves the court before contact.**                                                                                                                                                                                                                                    |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A baseball player throwing a ball Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| generated](media_myth-of-the-pitch/media/image16.jpg) |  |
+| #### **The pitcher releases with both feet on the ground. The server uncoils and leaves the court before contact.** |  |
+
 
 ### The Legs
 
@@ -293,8 +278,7 @@ or more.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_myth-of-the-pitch/media/image18.jpg){width="2.0833333333333335in"
-  height="2.7395833333333335in"}\
+  confidence](media_myth-of-the-pitch/media/image18.jpg)\
   **Here Pete has transferred his weight to his front leg on his way to the net.**
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -314,7 +298,7 @@ the motion. He has landed on balance on the front foot, and now has the
 option to either take the next step forward to the net, or recover into
 the ready position if he plans to stay back.]{.mark}**
 
-Compare this to Jason\'s leg. There is a long, almost lazy cross step
+Compare this to Jason's leg. There is a long, almost lazy cross step
 forward and across his body with his back foot, the natural effect of
 the continuing momentum of his delivery. Unlike Pete, who takes this
 step as part of a movement pattern forward, the step for the pitcher is
@@ -322,35 +306,30 @@ a natural consequence of the delivery. For the tennis player, stepping
 through the motion in any way that approximates the pitch is a technical
 kiss of death.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+--------------------------------------------------+
-| ![A baseball player throwing a ball Description automatically generated with medium                                                                                        |                                                  |                                                  |
-| confidence](media_myth-of-the-pitch/media/image19.jpg){width="2.0833333333333335in" |                                                  |                                                  |
-| height="2.5208333333333335in"} ![A baseball player throwing a ball Description automatically generated with medium                                                         |                                                  |                                                  |
-| confidence](media_myth-of-the-pitch/media/image20.jpg){width="2.0833333333333335in" |                                                  |                                                  |
-| height="2.5208333333333335in"} ![A baseball player on the mound Description automatically generated with medium                                                            |                                                  |                                                  |
-| confidence](media_myth-of-the-pitch/media/image21.jpg){width="2.0833333333333335in" |                                                  |                                                  |
-| height="2.5208333333333335in"}                                                                                                                                             |                                                  |                                                  |
-+============================================================================================================================================================================+==================================================+==================================================+
-| #### **In contrast to Sampras above, the pitcher\'s weight remains on the front foot and the back leg has taken a long lazy step forward.**                                                                                                                                      |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A baseball player throwing a ball Description automatically generated with medium |  |  |
+| --- | --- | --- |
+| confidence](media_myth-of-the-pitch/media/image19.jpg) ![A baseball player throwing a ball Description automatically generated with medium |  |  |
+| confidence](media_myth-of-the-pitch/media/image20.jpg) ![A baseball player on the mound Description automatically generated with medium |  |  |
+| confidence](media_myth-of-the-pitch/media/image21.jpg) |  |  |
+| #### **In contrast to Sampras above, the pitcher's weight remains on the front foot and the back leg has taken a long lazy step forward.** |  |  |
+
 
 Rather than stretching for analogies in other sports, the key to the
 serve as well as the other strokes in tennis is a careful analysis of
 the stroke itself. This is the point of many of our series articles,
-such as the one on Pete\' serve, as well as Stroke Archive
+such as the one on Pete' serve, as well as Stroke Archive
 
 With the [Stroke
 Archive](https://www.tennisplayer.net/members/strokearchive/strokearchive.html)
 you have the chance to see exactly what the top players are doing at
 each key moment in all the strokes and to use these players as physical
-and visual models for your own game. Doesn\'t that sound like a better
+and visual models for your own game. Doesn't that sound like a better
 idea-modeling your serve on a great server\--instead of an athlete from
-some other sport that isn\'t even played with a tennis racquet?
+some other sport that isn't even played with a tennis racquet?
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_myth-of-the-pitch/media/image22.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_myth-of-the-pitch/media/image22.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

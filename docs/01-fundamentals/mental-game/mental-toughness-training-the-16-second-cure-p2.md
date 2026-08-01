@@ -6,18 +6,17 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image1.jpg){width="2.6041666666666665in"
-height="3.0625in"}
+confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image1.jpg)
 
 **Top players stay emotionally positive by developing their own unique
 patterns of between point behavior.**
 
 In the last article we identified the 4 Stages of the 16-Second Cure and
 how top players use this time between points to maintain their Ideal
-Performance State. Now let\'s talk a little more about how to get used
+Performance State. Now let's talk a little more about how to get used
 to practicing the stages and how to incorporate them into your own play.
 
-For every player this should be a creative, individual process. Let\'s
+For every player this should be a creative, individual process. Let's
 take a look at some of the top (and most mentally tough) players in the
 pro game and see how they have ritualized the between point times and
 created their own distinctive patterns.
@@ -34,30 +33,24 @@ reacts to what happens by practicing the 16-second cure.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image2.jpg){width="2.71875in"
-height="2.5in"}\
+confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image2.jpg)\
 **Can you recognize the 4 Stages of the 16 Second Cure as practiced by
 the top players?**
 
 It should be a fun, creative process. Take your time, use your
 intuition, and experiment over a series of matches.
 
-+--------------------------------------+
-| ### 4 Stages or the 16 Second Cure:  |
-+======================================+
-| - **Stage 1 Positive Physical        |
-|   Response 3-5 Seconds **            |
-+--------------------------------------+
-| - **Stage 2 Relaxation 5-15          |
-|   Seconds **                         |
-+--------------------------------------+
-| - **Stage 3 Preparation 3-5          |
-|   Seconds **                         |
-+--------------------------------------+
-| - **Stage 4 Ritual 5-8 Seconds **    |
-+--------------------------------------+
-| - **TOTAL 16-25 Seconds **           |
-+--------------------------------------+
+| ### 4 Stages or the 16 Second Cure: |
+| --- |
+| - **Stage 1 Positive Physical |
+| Response 3-5 Seconds ** |
+| - **Stage 2 Relaxation 5-15 |
+| Seconds ** |
+| - **Stage 3 Preparation 3-5 |
+| Seconds ** |
+| - **Stage 4 Ritual 5-8 Seconds ** |
+| - **TOTAL 16-25 Seconds ** |
+
 
 By mastering and personalizing the 4 Stages, you will develop the
 ability to create calm in the center of the storm.
@@ -78,8 +71,7 @@ radical and unfamiliar departure from old patterns.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image3.jpg){width="2.5118055555555556in"
-                                                                                   height="2.1902777777777778in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                **Agassi, like successful, often pumps himself up after a good shot.**
 
@@ -106,12 +98,12 @@ stalling or delaying play. Sometimes, old opponents will question this
 new behavior.
 
 Learn to enjoy playing at a new rhythm. Notice that by setting the pace,
-you\'re exerting more control over the course of the match and
+you're exerting more control over the course of the match and
 ultimately the outcome.
 
 Give yourself time to get familiar with the stages.
 
-If you\'ve not practiced them before, it will take you several matches
+If you've not practiced them before, it will take you several matches
 or more to get comfortable and adapt them.
 
 As you become comfortable with taking a minimum of 16 seconds, work to
@@ -119,8 +111,7 @@ become more precise in the practice and differentiation of the stages.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image4.webp){width="2.615972222222222in"
-                                                                                   height="2.296527777777778in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image4.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             **Stage1: Serena stays positive by rehearsing corrections after an error.**
 
@@ -142,7 +133,7 @@ No matter how the point ends, maintain a strong, positive posture. You
 can pump yourself up for a great shot. This has become common at all
 levels of professional and junior tennis.
 
-You can acknowledge a great shot by your opponent. We\'ve all seen
+You can acknowledge a great shot by your opponent. We've all seen
 Agassi do this even at critical points in close matches.
 
 You can rehearse the correction to an error. Serena Williams is a top
@@ -151,15 +142,14 @@ mentally and emotionally positive.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A picture containing text, person, person Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image5.webp){width="2.5118055555555556in"
-                                                                                   height="2.1194444444444445in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image5.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **Stage 2: Agassi recovers from the previous point, typically staying focused on the strings.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now, winner or error, turn and walk away from the point with your
-shoulders back. It\'s good to place the racquet in your non-dominant
+shoulders back. It's good to place the racquet in your non-dominant
 hand.
 
 Your arms should be relaxed, your head up, and your eyes forward and
@@ -174,12 +164,11 @@ equilibrium.
 
 Typically in Stage 2 players focus on the strings of the racquet. Keep
 your thoughts and self talk to a minimum, limited to things like \"Stay
-calm, it\'s OK, no problem, keep fighting, etc..\"
+calm, it's OK, no problem, keep fighting, etc..\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A picture containing text, person, player Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image6.webp){width="2.5118055555555556in"
-                                                                                   height="2.3131944444444446in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image6.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                       **Stage 3: As Guga moves into position, he thinks how to play the next point, keeping a strong, positive body posture.**
 
@@ -189,7 +178,7 @@ calm, it\'s OK, no problem, keep fighting, etc..\"
 where you are in the match, and how you intend to play the next point.
 
 Where are you going to serve? What patterns are you going to play? Are
-you going to attack an opponent\'s weakness? Serve into the body? Follow
+you going to attack an opponent's weakness? Serve into the body? Follow
 the first serve to the net? Rally from the baseline? Attack the first
 short ball?
 
@@ -200,15 +189,14 @@ your play in relation to your overall game plan.
 
 Stage 3 begins as a player moves into position to play. Frequently,
 players make a strong statement with their bodies, looking up to the
-opponent\'s side and adopting a posture that seems to say: \"I\'m going
+opponent's side and adopting a posture that seems to say: \"I'm going
 to win this point!\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A picture containing text, person Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image7.webp){width="2.5118055555555556in"
-                                                                                   height="2.0618055555555554in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p2/media/image7.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                         **Stage 4: Watch Agassi\'s unique return ritual.**
+                                                                         **Stage 4: Watch Agassi's unique return ritual.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -223,7 +211,7 @@ pause just before the start of the motion. On your return, it can be a
 series or rapid steps or a swaying motion in the ready position.
 
 But no two pros look exactly the same. Your rituals should be just as
-individual. Watch Agassi\'s distinctive pattern of steps forward and
+individual. Watch Agassi's distinctive pattern of steps forward and
 back before going into his ready position for the return.
 
 Or the way he often neatly folds his shirttail around his waist at the
@@ -247,7 +235,7 @@ Some of the greatest players of all time also had the most distinctive
 rituals.
 
 Think of the way Jimmy Connors pumped himself up (and the crowd) after a
-big point, or think of John McEnroe\'s unique rocking motion up and down
+big point, or think of John McEnroe's unique rocking motion up and down
 at the start of his serve.
 
 You can create your own rituals that are every bit as distinctive.
@@ -281,8 +269,7 @@ tough in your matches as the toughest of the pros.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                                    Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image10.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                                       himself who still competes nationally in USTA
+  confidence](media_mental-toughness-training-the-16-second-cure-p2/media/image10.jpeg)                                                                                                                                                                       himself who still competes nationally in USTA
                                                                                                                                                                                                        events, Jim created the field of Mental
                                                                                                                                                                                                        Toughness training with his revolutionary study
                                                                                                                                                                                                        of elite pro players. He has been one of the

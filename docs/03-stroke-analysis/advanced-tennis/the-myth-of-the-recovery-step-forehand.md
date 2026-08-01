@@ -10,8 +10,7 @@ court, is a continuous flow of motion, out to the shot, through the
 shot, then back in the direction of the next shot.]{.underline}***
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-recovery-step-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-recovery-step-forehand/media/image1.webp)
 
 **What is a recovery step and when should it happen?**
 
@@ -37,8 +36,7 @@ earlier rotation of the body actually \"improves\" the stroke by adding
 more racket speed.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-recovery-step-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-recovery-step-forehand/media/image2.webp)
 
 **The back foot can actually move backwards behind the front foot before
 swinging around.**
@@ -48,7 +46,7 @@ at all levels. But what shape do they actually take and when do they
 actually occur?
 
 As with so many technical issues, the answers are surprising when we
-look at high speed video of the top players. In this article let\'s take
+look at high speed video of the top players. In this article let's take
 a look at the actual sequence of the recovery steps on the forehand,
 including movement in several directions. Then in the next article we
 can do the same for the backhand.
@@ -60,21 +58,20 @@ myth. The reality is that the top players only begin the recovery when
 the forward swing is complete.
 
 In fact, rather than swinging the foot around top players often move the
-\"recovery\" foot backwards during the swing. That\'s correct, the
+\"recovery\" foot backwards during the swing. That's correct, the
 outside foot can first move in the opposite direction.
 
 Why? To preserve the proper sequencing of the stroke and especially, the
 body rotation. The reality is that taking the recovery step too early
 can destroy the timing of this key rotational sequence, no matter what
-you may have heard about it\'s benefits.
+you may have heard about it's benefits.
 
-Let\'s examine the actual patterns of the recovery step. Let\'s see how
+Let's examine the actual patterns of the recovery step. Let's see how
 when players are moving to various parts of the court, starting with
 less extreme movement and then looking at more radical patterns.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-recovery-step-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-recovery-step-forehand/media/image2.webp)
 
 **The outside leg stays in line with the torso until the extension is
 complete.**
@@ -96,14 +93,14 @@ the racket reaches it most forward and or upward position.
 The leg and foot basically stay aligned with the right outside edge of
 the torso. In this example, if anything, the outside, right foot
 actually turns slightly backwards away from the direction of movement.
-We\'ll see other examples where it is much more pronounced.
+We'll see other examples where it is much more pronounced.
 
 ***[[The fact is the actual recovery step does not begin until the
 racket starts to move backwards and downward, what is usually called the
 wrap. This is final deceleration phase of the
 swing.]{.mark}]{.underline}***
 
-Let\'s see the sequence. As Roger starts to descend out the air the
+Let's see the sequence. As Roger starts to descend out the air the
 right foot finally begins to swing around. It then lands, clearly to the
 right of the torso, but again long after the forward swing is complete.
 This landing provides the foundation for the push off or the crossover
@@ -111,8 +108,7 @@ step across the body as Roger starts to move back toward the center of
 the court.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-recovery-step-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-recovery-step-forehand/media/image3.webp)
 
 **Look at the position of the racket and the outside foot prior to the
 recovery step.**
@@ -125,7 +121,7 @@ swing of recovery step after the forward swing is a constant.
 
 **Running Open Stance**
 
-Which patterns does this recovery pattern apply on? Let\'s look at a
+Which patterns does this recovery pattern apply on? Let's look at a
 running forehand hit off an open stance by Rafa Nadal.
 
 The lower ball in turn results in a wider base or distance between his
@@ -150,8 +146,7 @@ recover step until the forward swing is complete.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-recovery-step-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-forehand/media/image4.webp)
 
 **Look at the position of the \"recovery\" foot after the hit on this
 closed stance running forehand.**
@@ -162,7 +157,7 @@ delayed even more. After the hit the rear leg is actually extended
 backward parallel to the baseline!
 
 In this instance, the recover step is truly critical. Watch how far it
-swings around. Watch Nadal\'s foot actually skid on a hard court. Look
+swings around. Watch Nadal's foot actually skid on a hard court. Look
 at the force of his push back to the middle!
 
 But there is no way he could possibly swing the back foot around during
@@ -172,7 +167,7 @@ racket is starting to reverse.
 
 **Moving Back**
 
-Now let\'s look at two more common court positionings on the forehand
+Now let's look at two more common court positionings on the forehand
 and see how the recovery step functions there. These are when the
 players are moving back, and also when they are playing inside.
 
@@ -187,8 +182,7 @@ back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-recovery-step-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-forehand/media/image5.webp)
 
 **Two options when players move back, with landings on either foot!**
 
@@ -220,10 +214,9 @@ recovery steps are necessary to control the forces generated by high
 level movement.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-myth-of-the-recovery-step-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-forehand/media/image6.webp)
 
-**The recovery step logic doesn\'t apply when players move inside.**
+**The recovery step logic doesn't apply when players move inside.**
 
 Previously, we have published brilliant, detailed articles from David
 Bailey on the whole range of footwork patterns\--including the recovery
@@ -237,12 +230,12 @@ from the recovery.
 
 Many players, especially those with athletic backgrounds in other
 sports, will naturally create the right patterns with the right steps at
-the right times. When they don\'t it can be necessary to intervene with
+the right times. When they don't it can be necessary to intervene with
 video analysis and help them model footwork patterns, including recovery
 steps.
 
 But these patterns need to be based on what actually happens, not what
-coaches think is happening or think is more advanced. That\'s the reason
+coaches think is happening or think is more advanced. That's the reason
 we have something called Stroke Archives on Tennsiplayer right? The
 ultimate data base for investigating the truth.
 
@@ -251,8 +244,7 @@ side!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-myth-of-the-recovery-step-forehand/media/image7.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-myth-of-the-recovery-step-forehand/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

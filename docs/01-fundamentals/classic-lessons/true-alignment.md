@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image1.webp)
 
 **Look closely at the legs\--can you see True Alignment?**
 
@@ -30,14 +29,13 @@ often a struggle for both the player and the instructor.
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_true-alignment/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image2.webp)
 
 **Can teaching extreme stances create more problems than it solves?**
 
 Now many coaches are teaching open stance almost exclusively, even to
 beginners from the first ball they hit. This has caused a new set of
-problems that often leads to poor leg position around the hit. Don\'t
+problems that often leads to poor leg position around the hit. Don't
 get me wrong, open stance is important for players at all levels on all
 shots. It should be taught, and every player should eventually learn it.
 
@@ -54,10 +52,10 @@ difficult to see with normal video images. Now with high-speed video we
 can see just what the legs and hips do in the most crucial section of
 the stroke.
 
-Let\'s see what happens in the pro game and see how this relates to what
+Let's see what happens in the pro game and see how this relates to what
 is sometimes taught. In this article I will look at True Alignment on
-the forehand. In the next article, I\'ll explain how true alignment
-works on the backhand. Then after that, I\'ll go on to the volley and
+the forehand. In the next article, I'll explain how true alignment
+works on the backhand. Then after that, I'll go on to the volley and
 the serve.
 
 **True Alignment: Forehand**
@@ -77,8 +75,7 @@ same line all the way through the swing. Usually (though not always)
 this is followed by a recovery step around and to the side.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_true-alignment/media/image3.webp)
 
 **In the Neutral Stance the feet align along the target line.**
 
@@ -90,11 +87,10 @@ is well out into the follow-through and/or wrap.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image4.webp)
 
 **On neutral stance balls, the back foot can actually kick backwards and
-behind the player\'s to his left.**
+behind the player's to his left.**
 
 **[[On many neutral balls the player will align to the target line as
 above, but then he will actually kick his rear leg backwards, to his
@@ -109,7 +105,7 @@ this kick back step.
 
 **Semi Open Stance**
 
-With the semi open stance, obviously the players don\'t step directly
+With the semi open stance, obviously the players don't step directly
 into the line of the shot. But the interesting thing is that the
 position of the legs and hips still comes back to the neutral stance
 hitting position at contact, or to a variation on that position.
@@ -123,8 +119,7 @@ air.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image5.webp)
 
 **A line along the stance is parallel to the target line. Again, the
 step through with the back foot comes after the hit.**
@@ -139,7 +134,7 @@ shoulder and hip rotation at contact, and the line may be slightly more
 over-rotated, spinning the body around and causing a loss of
 power.]{.underline}]{.mark}** Despite all the effort that seems to go
 into this type of rotating swing, the player never produces the pace
-that he hopes for. In reality, it\'s the opposite. **[[When the player
+that he hopes for. In reality, it's the opposite. **[[When the player
 reaches true alignment, it seems to naturally decreases the hip
 rotation.]{.underline}]{.mark}**
 
@@ -153,8 +148,7 @@ net.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image6.webp)
 
 **Watch the left leg move from the extreme open stance into true
 alignment.**
@@ -187,7 +181,7 @@ We can see true alignment quite clearly on two of the most explosive
 shots in tennis. **[[The first is the inside out or inside in
 forehand.]{.mark}]{.underline}** This is actually where I would say that
 the concept of true alignment is seen most clearly. If you look at the
-animation at the top of the article, you\'ll recognize this and see the
+animation at the top of the article, you'll recognize this and see the
 scissoring of the legs. **[[Players set up on their rear foot in an open
 stance, then explode into the ball opening the shoulders at the same
 time the legs are snapped closed back into a neutral
@@ -196,8 +190,7 @@ incredible arm acceleration.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image7.webp)
 
 **After pulling into alignment, the legs scissor, and move in opposite
 directions.**
@@ -215,21 +208,19 @@ stage.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_true-alignment/media/image8.webp)
 
 **The step with the rear foot, the front foot pulls into alignment, the
 contact with the torso square, and finally the recovery step.**
 
 **[[So in all the cases, we see the recover step happens after the swing
-is complete.]{.underline}]{.mark}** It\'s true on all the stances from
+is complete.]{.underline}]{.mark}** It's true on all the stances from
 neutral to extreme open. This goes against current teaching which
 stresses rotating the hips and feet through the shot, including bringing
 the outside foot around for a recovery step during the actual swing.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_true-alignment/media/image9.webp)
 
 **Regardless of stance the foot comes around after the follow-through.**
 
@@ -254,8 +245,7 @@ that goes with it.
 
 ![A picture containing tennis, athletic game, sport, person Description
 automatically
-generated](media_true-alignment/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_true-alignment/media/image10.webp)
 
 **Artificially keeping the back foot down and behind you can help
 develop a feel for true alignment.**
@@ -272,27 +262,26 @@ Another alternative is to practice the neutral stance and the back leg
 kick back. For advanced players who leave the ground and explode up into
 high balls, you can experiment with controlling the left leg and
 bringing it forward and in toward you as you swing. None of this will be
-possible without the use of on court video. As I said, it\'s just too
+possible without the use of on court video. As I said, it's just too
 hard to see with the naked eye.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                          | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_true-alignment/media/image11.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                       | numerous ranked junior players and coached  |
-|                                                                                                                                                                      | a series of championship high school teams. |
-|                                                                                                                                                                      | He was highly ranked both sectionally and   |
-|                                                                                                                                                                      | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                      |                                             |
-|                                                                                                                                                                      | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                      | the John Yandell Tennis School in San       |
-|                                                                                                                                                                      | Francisco, California Kerry and his partner |
-|                                                                                                                                                                      | are now splitting time between homes in     |
-|                                                                                                                                                                      | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                      | continued to coach and to have great        |
-|                                                                                                                                                                      | competitive success winning Canadian        |
-|                                                                                                                                                                      | National seniors titles---not to mention    |
-|                                                                                                                                                                      | continuing to write articles for            |
-|                                                                                                                                                                      | Tennisplayer from his unique perspective.   |
-+======================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_true-alignment/media/image11.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

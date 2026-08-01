@@ -24,8 +24,7 @@ first stage is the Split Step / Ready Position or what I call the Split
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-split-step-ready-position/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-split-step-ready-position/media/image1.webp)
 
 **Movement and the swing are inseparable parts of all shots.**
 
@@ -37,8 +36,7 @@ that fetishizes glossy finishes.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-split-step-ready-position/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-split-step-ready-position/media/image2.webp)
 
 **The Split / Ready is misunderstood and under emphasized.**
 
@@ -68,12 +66,11 @@ greatness begins!
 **Immersion**
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image3.webp)
 
 **The complexity of one shot can almost defy description.**
 
-**So now let\'s begin to immerse ourselves in the
+**So now let's begin to immerse ourselves in the
 [[specifics]{.underline}]{.mark}.** I use the word \"specifics\" with
 caution. I am humbled by the reality that each shot, even just one shot,
 is an unfolding of elements so complex as to almost defy comprehension.
@@ -82,7 +79,7 @@ examination.
 
 Also, keep in mind, this is a model of analysis and not a method of
 teaching. Every coach teaches in their own way just as each student
-learns in theirs. It\'s always a process of trial and error with the
+learns in theirs. It's always a process of trial and error with the
 unexpected being the norm.
 
 To teach skills we do need to isolate at times and at other times we
@@ -98,7 +95,7 @@ side of their head on the forehand follow through in homage to the
 Spaniard.
 
 Faux Feds meticulously hold their eyes on the back of the racquet after
-contact like the Maestro. It\'s telling and funny how many of their
+contact like the Maestro. It's telling and funny how many of their
 shots end up half way up the net. These impersonations make great public
 theatre.
 
@@ -107,8 +104,7 @@ practicing what the greats do at the start of each shot \--or at the end
 of each shot, depending on how you look at it. This is the Split /Ready.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image4.webp)
 
 **The Split / Ready: it happens first and it happens last.**
 
@@ -133,39 +129,37 @@ lob that lands just inside the baseline. The grace of this move to his
 last shot belies the sheer power of his locomotion.
 
 How do we use the Framework to analyze such mastery? What can we learn
-from this great tennis about the Split / Ready? Let\'s examine in
+from this great tennis about the Split / Ready? Let's examine in
 through the lens of the four rules of the Framework.
 
-+----------------------------------------------------------------------+------------------------------------+
-| **Rule #1**                                                          |                                    |
-|                                                                      |                                    |
-| **Effective analysis of all shots must consider how movement to the  |                                    |
-| ball and the movement of the racket are interwoven.**                |                                    |
-|                                                                      |                                    |
-| **Rule #2**                                                          |                                    |
-|                                                                      |                                    |
-| **The Framework is based on the assumption that every shot is a      |                                    |
-| succession of stages built one upon the other.**                     |                                    |
-|                                                                      |                                    |
-| **Rule #3**                                                          |                                    |
-|                                                                      |                                    |
-| **The Framework focuses on the importance of the continuous powerful |                                    |
-| and smooth transfer of energy and momentum through the whole shot    |                                    |
-| (and the recovery to the next one.)**                                |                                    |
-|                                                                      |                                    |
-| **Rule #4**                                                          |                                    |
-|                                                                      |                                    |
-| **The Framework works with the premise that great technique/movement |                                    |
-| eliminates as many variables as possible without sacrificing racquet |                                    |
-| and foot speed. In fact eliminating variables will increase both.**  |                                    |
-+======================================================================+====================================+
-| ** **                                                                                                     |
-+-----------------------------------------------------------------------------------------------------------+
+| **Rule #1** |  |
+| --- | --- |
+|  |  |
+| **Effective analysis of all shots must consider how movement to the |  |
+| ball and the movement of the racket are interwoven.** |  |
+|  |  |
+| **Rule #2** |  |
+|  |  |
+| **The Framework is based on the assumption that every shot is a |  |
+| succession of stages built one upon the other.** |  |
+|  |  |
+| **Rule #3** |  |
+|  |  |
+| **The Framework focuses on the importance of the continuous powerful |  |
+| and smooth transfer of energy and momentum through the whole shot |  |
+| (and the recovery to the next one.)** |  |
+|  |  |
+| **Rule #4** |  |
+|  |  |
+| **The Framework works with the premise that great technique/movement |  |
+| eliminates as many variables as possible without sacrificing racquet |  |
+| and foot speed. In fact eliminating variables will increase both.** |  |
+| ** ** |  |
+
 
 ![A picture containing tennis, person, athletic game, sport Description
 automatically
-generated](media_the-split-step-ready-position/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image5.webp)
 
 **A Great Split / Ready puts the body in motion with the strongest, best
 timed push.**
@@ -193,8 +187,7 @@ they do.
 **Posture and Stability**
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image6.webp)
 
 **Perfect posture: head and torso aligned above the hips and legs.**
 
@@ -222,14 +215,13 @@ excessive lean forward. McHale and others struggle when forced to move
 backward and forward.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image7.webp)
 
 **Despite his athleticism, Gael Monfils is limited by poor posture.**
 
 When forced to back up her center of gravity shifts excessively from and
 extreme forward to a extreme backwards. Balance is compromised. Besides
-adding variables to her shots Christina\'s strokes loses the benefits of
+adding variables to her shots Christina's strokes loses the benefits of
 full rotational capacity. She also finishes just a bit off balance. A
 killer at the top level.
 
@@ -248,10 +240,9 @@ every shot\--helps reduce the number of variables that any athlete needs
 to figure out.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image8.webp)
 
-**Leaning forward on her forehand compromises Wozniacki\'s power and
+**Leaning forward on her forehand compromises Wozniacki's power and
 balance.**
 
 Great posture allows for easy breathing. It helps with balance. It helps
@@ -282,8 +273,7 @@ from 3 inches or more to barely coming off the ground.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-split-step-ready-position/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-split-step-ready-position/media/image9.webp)
 
 **Federer leaves the ground before contact, and his split peaks at the
 hit.**
@@ -305,14 +295,13 @@ into how the best do what they do.
 **Width**
 
 The importance of the width cannot be overstated. Width is the distance
-a player\'s legs are apart when they land the split. In general a player
+a player's legs are apart when they land the split. In general a player
 wants to get as wide as possible and still be able to push off to the
 shot with power, balance and rhythm.
 
 ![A picture containing grass, athletic game, tennis, sport Description
 automatically
-generated](media_the-split-step-ready-position/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image10.webp)
 
 **Increased height on the split allows the player to sink further into
 the court.**
@@ -342,8 +331,7 @@ explore, the Unit Turn / Grip Change.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-split-step-ready-position/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-split-step-ready-position/media/image11.webp)
 
 **The split is wider on returns and volleys.**
 
@@ -369,8 +357,7 @@ automatically ready to start the swing without any further movement of
 the arms below the elbow.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image12.webp)
 
 **The greats often turn the feet in the air in the direction of their
 movement.**
@@ -388,7 +375,7 @@ into some form of loop.
 
 In an attempt to describe the mastery we witnessed in the point
 described above, many observers, fans, and devotees use dance as an
-analogue. Federer\'s movement in particular receives such billing.
+analogue. Federer's movement in particular receives such billing.
 
 The Maestro is often said to move like a ballet dancer. Djokovic and a
 handful of others deserve this acclaim as well. If Fed is the ballet
@@ -401,8 +388,7 @@ a shot. Explosiveness is married to flow, balance, and seamless movement
 into recovery.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image13.webp)
 
 **The racquet work parameters facilitate the beginning of the swing.**
 
@@ -437,8 +423,7 @@ acceleration and deceleration. And after the recovery this happens in
 reverse.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image14.webp)
 
 **The Split / Ready punctuates the start and the finish of every
 mini-dance.**
@@ -450,7 +435,7 @@ equilibrium. Federer and Djokovic do this ball after ball.
 
 Watch even slightly lesser players like Berdych who often struggle (just
 slightly) to absorb and stabilize. This is one reason why there have
-been no truly great tall players over 6\' 4\". This is also why I have
+been no truly great tall players over 6' 4\". This is also why I have
 great respect for players like John Isner. The work involved in changing
 directions is more difficult the larger the athlete.
 
@@ -480,8 +465,7 @@ body even when navigating moguls. This stillness allows the parameters
 of the Ready Position to be maintained.
 
 ![A person playing tennis Description automatically
-generated](media_the-split-step-ready-position/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-split-step-ready-position/media/image15.webp)
 
 **After every shot, deceleration, absorption, acceleration.**
 
@@ -507,8 +491,7 @@ our students to win high level rallies, they must learn the meticulous
 execution of this first stage.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-split-step-ready-position/media/image16.jpeg){width="1.5659722222222223in"
-height="2.1319444444444446in"}
+generated](media_the-split-step-ready-position/media/image16.jpeg)
 
 Following a legendary professional playing career, Tim Mayotte is now
 focused on developing the best tennis training program in America. For

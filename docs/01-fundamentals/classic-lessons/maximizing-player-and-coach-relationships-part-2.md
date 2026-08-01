@@ -6,8 +6,7 @@
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_maximizing-player-and-coach-relationships-part-2/media/image1.jpg){width="4.861111111111111in"
-height="3.0416666666666665in"}
+confidence](media_maximizing-player-and-coach-relationships-part-2/media/image1.jpg)
 
 **Who are the coach and the player - as people?**
 
@@ -18,8 +17,8 @@ conjunction with Stanford University. A key question was who the player
 and coach were as people, and another critical factor was their ability
 to communicate.
 
-But now let\'s look at a further vital factor, having a team concept. In
-great coaching the team, the athlete and the athlete\'s security, both
+But now let's look at a further vital factor, having a team concept. In
+great coaching the team, the athlete and the athlete's security, both
 mental and physical, came first. Great athlete coach relationships
 always have the coach working with the athlete, never for them.
 
@@ -39,8 +38,7 @@ genuine interest in your own game.
 
 ![A person shaking hands with a person Description automatically
 generated with low
-confidence](media_maximizing-player-and-coach-relationships-part-2/media/image2.jpg){width="4.166666666666667in"
-height="4.041666666666667in"}
+confidence](media_maximizing-player-and-coach-relationships-part-2/media/image2.jpg)
 
 **Does the coach want to be successful or does he want the player to be
 successful?**
@@ -55,20 +53,20 @@ I am speaking about who comes first. Does the coach want to be
 successful or does he or she want the player to be successful?
 
 Does the coach want dinner at 9pm or does the player? Oftentimes,
-coaches get into a mode of what\'s best or most convenient for them.
+coaches get into a mode of what's best or most convenient for them.
 
 Do coaches base critical and non-critical decisions on their experience,
 expertise and understanding or on their own egos? When they release the
-ego, it\'s surprising how many more good decisions coaches do make.
+ego, it's surprising how many more good decisions coaches do make.
 
-As an athlete, a coach\'s ego can be difficult for two reasons. The
+As an athlete, a coach's ego can be difficult for two reasons. The
 first is that you are trying to be respectful and not question what the
 coach says or does, assuming they are basing that on their expertise.
 
 The second is that it can be hard for athletes to distinguish between
 ego and knowledge. A coach wants to practice earlier than usual. Is this
 because he/she wants his athlete to have an earlier night before his
-athlete\'s match tomorrow or so that he/she can get back to the hotel to
+athlete's match tomorrow or so that he/she can get back to the hotel to
 watch some big game?
 
 But if you remember from the first article, creating a positive learning
@@ -78,8 +76,7 @@ beneficial for you both.
 
 ![A picture containing tree, outdoor, green, road Description
 automatically
-generated](media_maximizing-player-and-coach-relationships-part-2/media/image3.jpg){width="4.861111111111111in"
-height="3.5416666666666665in"}
+generated](media_maximizing-player-and-coach-relationships-part-2/media/image3.jpg)
 
 **At Saddlebrook there was a clearly understood coaching culture.**
 
@@ -110,12 +107,11 @@ Some coaches would leave the room when he walked in. One day, a new
 teaching professional arranged activities on his court differently from
 the Saddlebrook way. Before the director could eviscerate him, two
 fellow coaches ran over, and politely but emphatically told the new
-coach, "That\'s not how we do things here.\"
+coach, "That's not how we do things here.\"
 
 ![A group of people holding tennis rackets Description automatically
 generated with medium
-confidence](media_maximizing-player-and-coach-relationships-part-2/media/image4.jpg){width="4.861111111111111in"
-height="3.625in"}
+confidence](media_maximizing-player-and-coach-relationships-part-2/media/image4.jpg)
 
 **The right culture means standards are inherently learned.**
 
@@ -125,8 +121,8 @@ tennis director might create a different structure, but whatever the
 structure, the team members need to embrace it or leave the team.
 
 But as an athlete, it is also fundamental to develop your own standards.
-By establishing high standards for yourself, it\'s never an issue of
-crossing your coach\'s perceived line. It will be an issue of crossing
+By establishing high standards for yourself, it's never an issue of
+crossing your coach's perceived line. It will be an issue of crossing
 your own line.
 
 That type of accountability garners respect and enhances the athlete
@@ -138,8 +134,7 @@ standard.
 **Meticulous and Detailed Practices**
 
 ![A picture containing person, sport, female Description automatically
-generated](media_maximizing-player-and-coach-relationships-part-2/media/image5.jpg){width="4.513888888888889in"
-height="2.986111111111111in"}
+generated](media_maximizing-player-and-coach-relationships-part-2/media/image5.jpg)
 
 **Rafa and his drink bottles.**
 
@@ -159,7 +154,7 @@ there.
 But so were many other parts. The color of the sports drink in the
 cooler, the angle of the benches, the height of the targets on the
 court, the manipulation of crowd noises and wind patterns to emulate a
-rival\'s home turf. Think of Nadal and his obsessive placement of his
+rival's home turf. Think of Nadal and his obsessive placement of his
 drink bottles.
 
 Some of these things might sound over the top, but there are an example
@@ -168,11 +163,9 @@ preparation and feeling of control in the mostly uncontrollable
 environment of match play.
 
 ![A person holding a tennis racket Description automatically
-generated](media_maximizing-player-and-coach-relationships-part-2/media/image6.jpg){width="2.855999562554681in"
-height="3.750051399825022in"}![A person hitting a ball with a tennis
+generated](media_maximizing-player-and-coach-relationships-part-2/media/image6.jpg)![A person hitting a ball with a tennis
 racket Description automatically
-generated](media_maximizing-player-and-coach-relationships-part-2/media/image7.jpg){width="3.401307961504812in"
-height="3.7488888888888887in"}**Another training camp, this time for
+generated](media_maximizing-player-and-coach-relationships-part-2/media/image7.jpg)**Another training camp, this time for
 Arantxa Rus and Viktorija Golubic.**
 
 For athletes going through what may seem endless repetitions, repeated
@@ -190,8 +183,7 @@ from the Netherlands and Viktorija Golubic from Switzerland.
 
 ![A group of men posing for a picture Description automatically
 generated with medium
-confidence](media_maximizing-player-and-coach-relationships-part-2/media/image8.jpg){width="3.8194444444444446in"
-height="4.958333333333333in"}
+confidence](media_maximizing-player-and-coach-relationships-part-2/media/image8.jpg)
 
 **The training camp I ran for Arantxa Rus from the Netherlands and Kiki
 Bertens from Switzerland ended with thank you notes - from me.**
@@ -229,8 +221,7 @@ them feel.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_maximizing-player-and-coach-relationships-part-2/media/image9.jpeg){width="2.079861111111111in"
-height="1.9041666666666666in"}
+confidence](media_maximizing-player-and-coach-relationships-part-2/media/image9.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

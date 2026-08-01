@@ -6,13 +6,12 @@ Part 3: Racket Speed and Power Building**
 **Chris Lewit**
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image1.webp)
 
 **Racket head speed should be an obsession in junior development.**
 
 As I explained in the first article in this series, racket speed is an
-obsession in Spain, and I don\'t see why it isn\'t an obsession in every
+obsession in Spain, and I don't see why it isn't an obsession in every
 player development system and for every coach around the world.
 ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
@@ -34,18 +33,17 @@ development of high performance juniors.
 A common developmental mistake, in my opinion, is to focus on the shape
 of the swing alone without an equally strong emphasis on the speed of
 the swing. I think this is what leads to a lot of the pushing that you
-see in the juniors because the kids don\'t have the confidence that
+see in the juniors because the kids don't have the confidence that
 comes from constantly going for their shots.
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image2.webp)
 
-**It\'s a mistake to focus on swing shape only, and not swing speed.**
+**It's a mistake to focus on swing shape only, and not swing speed.**
 
-The kids with the really pretty strokes who can\'t rip heavy kicking
-topspin forehands or pound a ball down the opponent\'s throat simply
-won\'t reach their potential in the juniors, or thereafter.
+The kids with the really pretty strokes who can't rip heavy kicking
+topspin forehands or pound a ball down the opponent's throat simply
+won't reach their potential in the juniors, or thereafter.
 
 Creating more racket acceleration can be a difficult battle to win with
 young kids, most of whom lack much awareness of their actual swing
@@ -62,18 +60,17 @@ massive racket speed, starting with some of the classic hand fed
 exercises that are so prevalent in Spain. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/).)
 
-Now in this third article, let\'s add more drills, this time drills fed
+Now in this third article, let's add more drills, this time drills fed
 with a racket, rather than by hand. These drills are also common in
 Spain, drawn from my experience studying and training with top Spanish
-coaches. Let\'s also finish the article with a few strength building
+coaches. Let's also finish the article with a few strength building
 drills that mimic the strokes and help kids - and all players\--develop
 power in a very natural, fun way.
 
 **The Classic Spanish Volley Racket Speed Drill**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image3.webp)
 
 This drill is one of the most common racket speed building exercises
 that I see on my trips to Spain. The coach volleys the ball softly,
@@ -96,8 +93,7 @@ a great drill to create the mind set to destroy pushers.
 **Racket Speed Swinging Volley**
 
 ![A person holding a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image4.webp)
 
 The swinging volley is a regular part of racket speed drilling in Spain.
 This exercise develops the swinging volley, but also racket head speed
@@ -107,7 +103,7 @@ position, load and then explode with whip into every ball in quick
 succession.
 
 The feeds can become quicker and the coach can move the ball around to
-challenge the player\'s footwork, positioning, and timing. This drill is
+challenge the player's footwork, positioning, and timing. This drill is
 critical to help a young player become comfortable taking the ball out
 of the air with maximum acceleration and no fear. At the same time this
 drill boosts confidence in unleashing completely on forehand
@@ -116,8 +112,7 @@ groundstrokes.
 **Swinging Volley Racket Speed - Double Time**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image5.webp)
 
 Here is a more advanced and difficult version of the same swinging
 volley drill. Now the coach doubles the speed of the feed, feeding the
@@ -132,8 +127,7 @@ again in point situations.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image6.webp)
 
 This is the racket fed version of the drill we saw in the last article
 using a hand feed. Its purpose is to develop racket speed when the
@@ -149,13 +143,12 @@ rotation. Usually this shot is hit with an open or semi-open stance.
 
 **The Easiest Ball in the World**
 
-![](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image7.webp)
 
 I have to credit my long time mentor Gilad Bloom, the subject of a
 previous article ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/))
-for creating and naming this drill. It\'s a favorite with my students.
+for creating and naming this drill. It's a favorite with my students.
 
 The title has a certain irony as the drill is not easy to do well. We
 all know from watching junior matches that the \"easy\" balls are the
@@ -176,8 +169,7 @@ flatter.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image8.webp)
 
 Here the player is fed three short balls in the midcourt. The idea is to
 kill the ball moving forward abd wide, then moving directly forward, and
@@ -190,7 +182,7 @@ ball, etc.
 The coach can vary the positions of the feeds as the player gets the
 feel for the drill. This is a great attacking movement exercise,
 emphasizing maximum whip and racket speed. It works on the most common
-kill shot situations, building the player\'s comfort and confidence in
+kill shot situations, building the player's comfort and confidence in
 finishing the point. To develop a great forehand weapon, players need to
 have no fear in pulling the trigger and ripping a big forehand.
 
@@ -210,14 +202,13 @@ dreaming about doing it.
 **EtchSwing Trainer**
 
 ![A picture containing person Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image9.webp)
 
 Renowned physical trainer Pat Etcheberry ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/physicaltraining/physicaltraining.html) to
 see his training system on Tennisplayer) developed this swing trainer
-and I like to use it in workouts with my players. I\'m not big on
-gimmicks, but I\'ve found this swing trainer to be valuable tool. It
+and I like to use it in workouts with my players. I'm not big on
+gimmicks, but I've found this swing trainer to be valuable tool. It
 looks cool and the kids always enjoy working with it. For more info
 about getting an EtchSwing, [**[Click
 Here]{.underline}**](http://etcheberryexperience.com/en/info/the_etch_swing).
@@ -227,20 +218,19 @@ trainer off court, or even on the court when waiting for the next drill
 in group situations. I like this drill because the player is actually
 building strength by practicing the correct technical swing. Here, I
 have one of my future superstars using the trainer to build that big
-forehand gun. He\'s 9 now but watch out when he hits 16. He\'s going to
+forehand gun. He's 9 now but watch out when he hits 16. He's going to
 have a weapon of mass destruction.
 
 **Etch Swing Superset**
 
 ![A picture containing person, person, holding, posing Description
 automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image10.webp)
 
 This is a great superset drill. Work the Etch Swing 10 times and then
 immediately transition to the regular racket for 10 more reps, what the
 Spanish call The Wind Exercise. The Etch Swing makes the racket feel
-like a toothpick in the player\'s hand and this makes this drill a great
+like a toothpick in the player's hand and this makes this drill a great
 way to work on whip. The classic Spanish wind exercise can also be
 performed solo for 10-15 repetitions. The goal is for the player to load
 and unload, accelerating the racket so fast, one can hear the wind
@@ -251,11 +241,10 @@ speed bag or shadow punching in boxing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image11.webp)
 
 Another option to develop strength and power is to hold two rackets or
-tape two rackets together if the player can\'t control them both with
+tape two rackets together if the player can't control them both with
 the racket hand. Now have the player swing the double weight for 10-12
 repetitions. Lead tape can be also used for a less extreme effect. An
 old 15 ounce wooden racquet makes a great heavy swing trainer. For me,
@@ -263,7 +252,7 @@ this is like working the heavy bag in boxing rather than the speed bag.
 It facilitates power development in a slightly different, complementary
 way.
 
-Just be careful with the shoulders of young players. Don\'t overdo this
+Just be careful with the shoulders of young players. Don't overdo this
 drill. A little goes a long way. Use an appropriate weight for the age
 and strength of a student and monitor any sign of shoulder strain very
 carefully.
@@ -271,11 +260,10 @@ carefully.
 **Medicine Ball Power Building**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image12.webp)
 
 Medicine ball training is absolutely one of the best ways to train power
-in players. It should have a regular place in every kid\'s training
+in players. It should have a regular place in every kid's training
 regimen - both on and off court. And adult players can benefit just as
 much. The medicine ball is so versatile and allows for very tennis
 specific training. The kids love it and you can use it to play a variety
@@ -288,12 +276,11 @@ the loading in the open stance version.
 
 ![A picture containing tennis, road, sport, athletic game Description
 automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image13.webp)
 
 The kids probably enjoy doing these drills with each other more than
 with the coach. Here both players are required to throw with neutral
-stance. Notice that since the players aren\'t perfectly accurate with
+stance. Notice that since the players aren't perfectly accurate with
 their throws, their partners are forced to work on movement and
 positioning as well, in order to execute the neutral stance. Again the
 correspondence with the strokes and court movement is one of the things
@@ -303,8 +290,7 @@ that makes medicine ball drills so great.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image14.webp)
 
 This last exercise is the same except that the players now must set up
 and throw from an open stance. Again notice how this promotes the
@@ -316,7 +302,7 @@ These are just a few of the possible exercises coaches can use and all
 of the ones I have presented can of course have multiple vartiations. I
 hope they spur the imagination of coaches to design innovative exercises
 to facilitate better weapon, power, and racket speed development in
-their players\' games.
+their players' games.
 
 Next, I will give my opinions about some of the problems coaches run
 into in traditional junior teaching that limit the development of
@@ -327,8 +313,7 @@ for the doing the awesome demonstrations of the Spanish forehand that
 made this article possible.**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image15.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image15.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -345,14 +330,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image16.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image16.jpeg)
 
 **The Secrets of Spanish Tennis**
 

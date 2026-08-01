@@ -18,29 +18,27 @@ eastern forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image1.webp)
 
 **The role of hand and arm rotation on the two-hander is unrecognized
 and** **misunderstood.**
 
 **The Role of Rotation**
 
-Now let\'s look at the rotation of the hands and arms, another important
+Now let's look at the rotation of the hands and arms, another important
 and interrelated element on the two-hander. One of the most widely
 misunderstood elements on the two-hander is the common tendency of top
 players to drop the racket head at an angle well below the ball at the
 start of the forward swing.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image2.webp)
 
 **What is happening when the racket tip points down at the start of the
 forward swing?**
 
-Over the last few years, I\'ve received a lot of emails from players and
-coaches trying to figure out why this happens. I\'ve heard a lot of
+Over the last few years, I've received a lot of emails from players and
+coaches trying to figure out why this happens. I've heard a lot of
 explanations. Players are \"cocking their wrists,\" in order to \"snap\"
 them later on. Or they are \"closing the racket face\" to generate
 topspin. The high speed video shows that neither of these is a correct
@@ -60,8 +58,7 @@ technical element used at various times by most of the top men and women
 despite the other significant differences in their stroke patterns.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image3.webp)
 
 **Watch how the hand and arms rotate slightly backward, then forward to
 the hit.**
@@ -80,13 +77,12 @@ racket head by turning the hands and arms backwards allows them more
 forward rotation.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image4.webp)\
 **The rotation of the hands and arms occurs across all the hitting arm
 combinations.**
 
 The difference is that on the forehand, the rotation is more visible in
-the finish with the racket face turning over. On the two-handers it\'s
+the finish with the racket face turning over. On the two-handers it's
 more visible in the backswing because of where the racket tip points. On
 the forehand, most players come to the ball with the racket head only
 slightly below the ball. On the two-hander, if we look at the angle of
@@ -110,18 +106,17 @@ rotation works.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image5.webp)
 
 **Compared to pro semi-western forehands, the racket is further below
 the ball on the two-hander.**
 
-With the more extreme forehand grips, we saw that the players\' forearms
+With the more extreme forehand grips, we saw that the players' forearms
 are already naturally rotated backwards in the way the players hold the
 racket. This is a function of the way the hand slides under the handle.
 With a westernized forehand grip, the palm of the hand and underside of
 the forearm already point partially or mostly upward at the sky. The
-player doesn\'t have to tilt the racket down to achieve this position
+player doesn't have to tilt the racket down to achieve this position
 with the forearm turned back. ([Click
 Here](Building%20the%20Modern%20Forehand-Differences%20Across%20the%20Grip%20Styles.docx)
 to read more about how this works on the forehand.) As the players swing
@@ -141,38 +136,33 @@ causes the tip of the racket to point downward at a more severe angle
 that the forehand. This is also the move that has caused so much
 confusion in coaching.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing grass, person, sport, outdoor Description automatically                                                                                                                         | ![A person playing tennis Description automatically generated with medium                                                                                                                               | ![A picture containing tennis, person, sport, athletic game Description automatically                                                                                                                   |
-| generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image6.jpg){width="2.1875in"  | confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image7.jpg){width="2.1875in"  | generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image8.jpg){width="2.1875in"   |
-| height="1.8125in"}                                                                                                                                                                                     | height="1.8125in"}                                                                                                                                                                                      | height="1.8125in"}                                                                                                                                                                                      |
-+========================================================================================================================================================================================================+=========================================================================================================================================================================================================+=========================================================================================================================================================================================================+
-| ![A person singing into a microphone Description automatically generated with medium                                                                                                                   | ![A person playing tennis Description automatically generated with medium                                                                                                                               | ![A person playing tennis Description automatically generated with medium                                                                                                                               |
-| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image9.jpg){width="2.1875in" | confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image10.jpg){width="2.1875in" | confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image11.jpg){width="2.1875in" |
-| height="1.8125in"}                                                                                                                                                                                     | height="1.8125in"}                                                                                                                                                                                      | height="1.8125in"}                                                                                                                                                                                      |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The bottom hand is usually in some version of a continental or mild eastern backhand. The top hand can verge on a mild continental or range from eastern to mild semi-western.**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing grass, person, sport, outdoor Description automatically | ![A person playing tennis Description automatically generated with medium | ![A picture containing tennis, person, sport, athletic game Description automatically |
+| --- | --- | --- |
+| generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image6.jpg) |  |  |
+| ![A person singing into a microphone Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image9.jpg) |  |  |
+| **The bottom hand is usually in some version of a continental or mild eastern backhand. The top hand can verge on a mild continental or range from eastern to mild semi-western.** |  |  |
+
 
 The key to understanding this move is to look at the back arm as the
-racket drops. It\'s subtle and happens in a fraction of a second, only a
+racket drops. It's subtle and happens in a fraction of a second, only a
 few frames even in the high speed video. This is what makes it so tough
 to understand. Watch in the animations how the rear arm rotates as a
 unit. As the racket tip drops, the forearm turns upward so that the
 underside points more toward the sky. If the player has already set up
 the back arm hitting position with the elbow in and the wrist laid back,
 this hitting arm position tends to stay the same during the backward arm
-rotation. If they haven\'t, they tend to find this position at the
+rotation. If they haven't, they tend to find this position at the
 completion of this backward motion.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image12.webp)
 
 **The backward rotation of the hands and arms takes only a few frames
 even in high speed video.**
 
-It\'s also important to note that the way the angle of the racket head
+It's also important to note that the way the angle of the racket head
 drops has nothing to do with \"wrist action\" in the forward swing.
 There are 4 major combinations of possible arm positions. But in all
 four, the players set up the correct hitting arm position at the start
@@ -190,17 +180,13 @@ the angle of the racket face at the start of the forward swing, you can
 see that it is usually close to on edge, or closed a few degrees at
 most.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A tennis player swings a racket Description automatically generated with medium                                                                                                                       | ![A picture containing sport, athletic game, outdoor, tennis Description automatically                                                                                                                  |
-| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image13.jpg){width="2.1875in" | generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image14.jpg){width="2.1875in"  |
-| height="1.8125in"}                                                                                                                                                                                      | height="1.8125in"}                                                                                                                                                                                      |
-+=========================================================================================================================================================================================================+=========================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                               | ![A person playing tennis Description automatically generated with medium                                                                                                                               |
-| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image15.jpg){width="2.1875in" | confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image16.jpg){width="2.1875in" |
-| height="1.8125in"}                                                                                                                                                                                      | height="1.8125in"}                                                                                                                                                                                      |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Note the rear hitting arm with the wrist laid back after contact.**                                                                                                                                                                                                                                                                                                                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A tennis player swings a racket Description automatically generated with medium | ![A picture containing sport, athletic game, outdoor, tennis Description automatically |
+| --- | --- |
+| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image13.jpg) |  |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image15.jpg) |  |
+| **Note the rear hitting arm with the wrist laid back after contact.** |  |
+
 
 Unfortunately too many junior players (and coaches) believe that the
 racket face should close all the way.
@@ -217,33 +203,31 @@ make this happen.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image17.webp)\
 **Venus demonstrates extreme backward rotation with the racket 60
 degrees to the court or maybe more.**
 
-Now that we have identified how the rotation works, it\'s important to
+Now that we have identified how the rotation works, it's important to
 put this factor in context with the overall biomechanics of the
-two-hander. Yes, the hand and arm rotation definitely happens. And it\'s
+two-hander. Yes, the hand and arm rotation definitely happens. And it's
 something that most of the top players do to some extent most of the
-time. For some players it\'s much more pronounced on more balls, with
-the tilt commonly reaching 60 degress. On the men\'s side we all
+time. For some players it's much more pronounced on more balls, with
+the tilt commonly reaching 60 degress. On the men's side we all
 recognize this move in the backhand of Andre Agassi, who has two
-straight hitting arms. It\'s probably the most extreme in some of the
-women\'s players who hit with both arms bent Venus or Vera Zvonareva,
+straight hitting arms. It's probably the most extreme in some of the
+women's players who hit with both arms bent Venus or Vera Zvonareva,
 for example. Both of them have great backhands.
 
 ![Graphical user interface Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image18.webp)
 
 **Two of the best backhands in tennis: Safin and Thomas Johannson have
 the least backward rotation.**
 
-For most players it\'s much less extreme or even minimal. The fact is
-that most two-handers don\'t rotate the tip of the racket back in an
-extreme fashion on most balls. This includes some of the best men\'s
+For most players it's much less extreme or even minimal. The fact is
+that most two-handers don't rotate the tip of the racket back in an
+extreme fashion on most balls. This includes some of the best men's
 two-handers in the game, players like Marat Safin, Nicholas Kiefer, and
 Thomas Johannson. It also includes some of the top women, such as
 Lindsay Davenport and Maria Sharapova. On the majority of balls they all
@@ -252,18 +236,17 @@ other players seem to vary the hand and arm rotation more from ball to
 ball, and can be at either extreme or somewhere in between. Juan Carlos
 Ferrero and Carlos Moya are two examples here.
 
-So hand and arm rotation is not a constant. It\'s a variable. In terms
+So hand and arm rotation is not a constant. It's a variable. In terms
 of developing your own two-hander and certainly in teaching the
 two-hander, this is very important to understand. As the above
-discussion clearly shows, the amount of hand and arm rotation doesn\'t
+discussion clearly shows, the amount of hand and arm rotation doesn't
 seem to be related to grip style or even the four combinations of
-hitting arm positions. It\'s a factor two-handed players with any
+hitting arm positions. It's a factor two-handed players with any
 technical style can use to a greater or lesser degree, depending on the
 circumstances.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image19.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image19.webp)
 
 **Some of the top women also have minimal racket drop and backward
 rotation.**
@@ -284,8 +267,7 @@ eye level, with the elbows bent.
 
 ![A picture containing text, athletic game, tennis, sport Description
 automatically
-generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image20.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image20.webp)
 
 **Some two handers \"windshield wiper\" some finishes.**
 
@@ -300,13 +282,12 @@ the 4 variations in hitting arm positions. You see Kim Clijsters finish
 quite a few balls with the face somewhat turned over. You see it in men
 who hit with the front arm bent and the rear arm straight\--you can see
 it clearly the animation of Robin Soderling. Although Agassi i is
-probably the king of the perfect vertical finish, you\'ll see him doing
+probably the king of the perfect vertical finish, you'll see him doing
 it at times as well, even though he hits with both arms straight
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image21.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image21.webp)
 
 **Even Agassi, the king of the vertical finish can turn the racket over
 at times in the followthrough.**
@@ -315,17 +296,16 @@ So what does it all mean? In a future article we are going to look at
 the basic building blocks of the two-hander and the commonalities across
 the hitting arm positions. These elements include the unit turn, the
 stances, the rotational patterns, etc. But when it comes to extra arm
-rotation, I think it\'s a question of icing versus cake. Yes, increased
-use of the hands is a real factor in pro tennis, but it\'s important to
+rotation, I think it's a question of icing versus cake. Yes, increased
+use of the hands is a real factor in pro tennis, but it's important to
 understand it accurately, and to see it in the context of the whole
 stroke. When you have a solid basic pattern that is consistent and
-naturally powerful, that\'s the time to start experimenting with how to
+naturally powerful, that's the time to start experimenting with how to
 get a little more out of the shot by copying this element from the pros.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image22.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-two-handed-backhand-hand-and-arm-rotation/media/image22.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

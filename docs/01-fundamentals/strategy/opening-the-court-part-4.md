@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-George Zink\'s fourth pattern is about changing direction and spin.
+George Zink's fourth pattern is about changing direction and spin.
 Three topspin backhands crosscourt. Then the slice down the line. This
 pattern often draws forehand errors, especially against players with
 extreme grips. Depending on the response it can also leave the backhand
@@ -17,8 +17,7 @@ side open for attack.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-4/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-4/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

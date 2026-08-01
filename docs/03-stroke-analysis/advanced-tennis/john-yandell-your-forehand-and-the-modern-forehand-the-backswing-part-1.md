@@ -5,9 +5,9 @@ Your Forehand and the Modern Forehand**
 
 # The Backswing: Part 1 
 
-This month we continue with \"The Backswing: Part 1.\" It\'s a
-confusing, complex topic. So much so that it\'s going to take two
-articles to sort it all out. So here\'s Part 1. Find out the real
+This month we continue with \"The Backswing: Part 1.\" It's a
+confusing, complex topic. So much so that it's going to take two
+articles to sort it all out. So here's Part 1. Find out the real
 purpose of the backswing and see what applies to your game in pro
 tennis.
 
@@ -17,8 +17,7 @@ AND let us know what you think by posting a comment in the Forum!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-1/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-backswing-part-1/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

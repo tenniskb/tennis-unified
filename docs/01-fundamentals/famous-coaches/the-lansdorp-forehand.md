@@ -16,27 +16,26 @@ look pretty good.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-lansdorp-forehand/media/image1.webp){width="2.6770833333333335in"
-  height="2.25in"}**[[\
+  confidence](media_the-lansdorp-forehand/media/image1.webp)**[[\
   Pete Sampras hits through the ball with a classic forehand grip and perfect followthrough.]{.underline}]{.mark}**
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The limitations don\'t show up until later, in the older age
+**[[The limitations don't show up until later, in the older age
 divisions or when a good young player first tests himself in
-professional tennis. Now these same kids suddenly don\'t look so great.
+professional tennis. Now these same kids suddenly don't look so great.
 They have severe problems handling the pace in the pro game, especially
 when the ball is low and skidding.]{.underline}]{.mark}**
 
 **[[But nobody talks about these problems. Kids hold the rackets with
-the extreme grip and think it\'s alright. Nobody stands up and says that
+the extreme grip and think it's alright. Nobody stands up and says that
 teaching extreme western grips are actually ruining these
 kids.]{.underline}]{.mark}**
 
 Nobody explains to the parents that if you take your 8-year old to a
-coach who let\'s the kid hit with an extreme grip, you\'re already up
-the creek - you just won\'t know it for another 8 years. This is what I
+coach who let's the kid hit with an extreme grip, you're already up
+the creek - you just won't know it for another 8 years. This is what I
 call the disaster of teaching methods in American junior tennis.
 
 **[[The great players in the history of the game (with very few
@@ -50,12 +49,10 @@ when it is hit hard and is skidding.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A picture containing tennis, racket, athletic game, sport Description automatically                                            ![A picture containing tennis, athletic game, racket, sport Description automatically
-   generated](media_the-lansdorp-forehand/media/image2.jpg){width="1.8541666666666667in"  generated](media_the-lansdorp-forehand/media/image3.jpg){width="1.8541666666666667in"
-                                                                        height="2.2916666666666665in"}                                                                       height="2.2916666666666665in"}
+   generated](media_the-lansdorp-forehand/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically                                                        **[Eastern or Classic:]{.mark}**\
-   generated](media_the-lansdorp-forehand/media/image4.jpg){width="1.8541666666666667in"  \
-                                                                             height="2.78125in"}                                                                             **The classic eastern grip shown with the hand closed and open. With the hand open, you can see how the grip places most of the palm behind the handle. The classic
+   generated](media_the-lansdorp-forehand/media/image4.jpg)                                                                             **The classic eastern grip shown with the hand closed and open. With the hand open, you can see how the grip places most of the palm behind the handle. The classic
                                                                                                                                                                              follow-through with this grip insures the player hits through the ball. This is the foundation for building the forehand**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -66,7 +63,7 @@ not be able to put the ball away like she does.
 
 Of course, if a kid is very talented, he can have success with western
 grips, but it makes it so much more difficult. People point to Juan
-Carlos Ferraro. They argue that he\'s got an extreme grip and he\'s in
+Carlos Ferraro. They argue that he's got an extreme grip and he's in
 the top 10 in the world. Maybe Ferraro is so strong he can put the ball
 away with his forehand, but it takes so much effort. How good would he
 be if he had learned to hit through the ball with a more classical grip?
@@ -81,16 +78,13 @@ foundation with the right grips. I also want to explain the critical
 relationship between the grip and the follow-through, something else
 that is rarely discussed in junior coaching.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing tennis, sport, athletic game, racket Description automatically                                                                                    | ![A picture containing tennis, racket, person, athletic game Description automatically                                                                                   |
-| generated](media_the-lansdorp-forehand/media/image5.jpg){width="1.8541666666666667in" | generated](media_the-lansdorp-forehand/media/image6.jpg){width="1.8541666666666667in" |
-| height="2.2916666666666665in"}                                                                                                                                           | height="2.2916666666666665in"}                                                                                                                                           |
-+:========================================================================================================================================================================:+==========================================================================================================================================================================+
-| ![A person holding a tennis racket Description automatically                                                                                                             | ### Semi Western:                                                                                                                                                        |
-| generated](media_the-lansdorp-forehand/media/image7.jpg){width="1.8541666666666667in" |                                                                                                                                                                          |
-| height="2.78125in"}                                                                                                                                                      | **After a young player has developed the ability to hit the ball, it\'s acceptable for his grip to slide slightly toward a western grip to develop more topspin, as      |
-|                                                                                                                                                                          | shown here. Note the difference in the follow-through compared to the classic grip above.**                                                                              |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing tennis, sport, athletic game, racket Description automatically | ![A picture containing tennis, racket, person, athletic game Description automatically |
+| --- | --- |
+| generated](media_the-lansdorp-forehand/media/image5.jpg) |  |
+| ![A person holding a tennis racket Description automatically | ### Semi Western: |
+| generated](media_the-lansdorp-forehand/media/image7.jpg) | **After a young player has developed the ability to hit the ball, it's acceptable for his grip to slide slightly toward a western grip to develop more topspin, as |
+|  | shown here. Note the difference in the follow-through compared to the classic grip above.** |
+
 
 ### The Follow-through
 
@@ -114,18 +108,17 @@ This will show you the exact position of the hand on the racket handle.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-lansdorp-forehand/media/image8.jpg){width="1.875in"
-                                                                  height="2.8020833333333335in"}
+   confidence](media_the-lansdorp-forehand/media/image8.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
                      **Hit through the ball: The racquet stays behind the ball and moves through the line of the shot before moving upward.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Watch the follow-through as he hits. You\'ll see the way the stroke
+Watch the follow-through as he hits. You'll see the way the stroke
 finishes correlate with how the player holds the racket.
 
 When I start young players, I treat them all as if they can become
-champions. I\'m teaching them the grips that give them the foundation to
+champions. I'm teaching them the grips that give them the foundation to
 become as good as they possibly can, maybe even a world champion.
 
 Over the years, people who watched junior tennis would say they could
@@ -154,22 +147,20 @@ ball.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A picture containing tennis, racket, person, athletic game Description automatically                                            ![A person holding a snake Description automatically generated with low
-   generated](media_the-lansdorp-forehand/media/image9.jpg){width="1.8541666666666667in"   confidence](media_the-lansdorp-forehand/media/image10.jpg){width="1.8541666666666667in"
-                                                                        height="2.2916666666666665in"}                                                                        height="2.2916666666666665in"}
+   generated](media_the-lansdorp-forehand/media/image9.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically                                                         **Extreme Under the Handle\
-   generated](media_the-lansdorp-forehand/media/image11.jpg){width="1.8541666666666667in"  \
-                                                                              height="2.78125in"}                                                                             The extreme under the handle grip and the extreme western followthrough, another common grip in high level junior tennis. Note the awkward followthrough. With the extreme
-                                                                                                                                                                              grip, the player\'s ability to hit through the ball is even more limited.**
+   generated](media_the-lansdorp-forehand/media/image11.jpg)                                                                             The extreme under the handle grip and the extreme western followthrough, another common grip in high level junior tennis. Note the awkward followthrough. With the extreme
+                                                                                                                                                                              grip, the player's ability to hit through the ball is even more limited.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-If you start you child out right, half the battle is won. If you don\'t
+If you start you child out right, half the battle is won. If you don't
 start kids out right, they have to be so exceptionally good to succeed.
 
 If the kid gets comfortable with one of the extreme grips first, the
-damage is done. You\'ve limited their potential, probably permanently.
-It\'s almost impossible to make them change without taking their
+damage is done. You've limited their potential, probably permanently.
+It's almost impossible to make them change without taking their
 forehand away and completely destroying their confidence.
 
 In addition to the grip, the other critical element in building a good
@@ -178,10 +169,10 @@ follow-through as taught is a huge problem in junior tennis. No one
 understands the real significance of follow-through.
 
 The follow-through shows whether the player really hit through the ball.
-What\'s critical is how the ball comes off the racket, that the ball is
+What's critical is how the ball comes off the racket, that the ball is
 solid off the racket.
 
-**[[You have to imagine that the ball doesn\'t leave the racket right
+**[[You have to imagine that the ball doesn't leave the racket right
 away, that you keep the racket behind the ball.]{.underline}]{.mark}**
 **[[You have to feel the ball, you have drive through the ball. The
 follow-through shows whether a player is doing this or
@@ -189,89 +180,82 @@ not.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically generated with medium                                                                                           
-  confidence](media_the-lansdorp-forehand/media/image12.webp){width="3.3333333333333335in"   
-  height="2.5in"}                                                                                                                                                              
+  confidence](media_the-lansdorp-forehand/media/image12.webp)                                                                                                                                                              
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **\
-Pete Sampras\' Forehand-age 9.**
+Pete Sampras' Forehand-age 9.**
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text Description automatically                                                                                                                     | ![A person playing tennis Description automatically generated with medium                                                                                                  |
-| generated](media_the-lansdorp-forehand/media/image13.webp){width="2.5833333333333335in" | confidence](media_the-lansdorp-forehand/media/image14.jpg){width="2.5833333333333335in" |
-| height="2.5in"}                                                                                                                                                           | height="2.5in"}                                                                                                                                                            |
-+===========================================================================================================================================================================+============================================================================================================================================================================+
-| #### **Maria Sharapova, age 13, one of the world\'s top young juniors, demonstrates how to check the follow-through by leaving the racket out front.**                    | #### ** Note how the player holds the finish position so that the racquet stays on edge.**                                                                                 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing text Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| generated](media_the-lansdorp-forehand/media/image13.webp) |  |
+| #### **Maria Sharapova, age 13, one of the world's top young juniors, demonstrates how to check the follow-through by leaving the racket out front.** | #### ** Note how the player holds the finish position so that the racquet stays on edge.** |
+
 
 **[[Today kids have extreme \"wraps\" at the
 finish]{.underline}]{.mark}**. They bring the racket immediately up and
 around the neck. And this is considered good! Coaches teach it. **[[In
-reality the extreme wrap guarantees the player won\'t hit through the
+reality the extreme wrap guarantees the player won't hit through the
 ball. Instead, he pulls off the ball to wrap the finish, so the racket
-doesn\'t go out through the line of the shot]{.underline}]{.mark}**.
+doesn't go out through the line of the shot]{.underline}]{.mark}**.
 **[[When you teach this big rap at the beginning players never get the
 feeling of staying with the shot.]{.underline}]{.mark}**
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                     | ![A person playing tennis Description automatically generated with low                                                                                        |
-| generated](media_the-lansdorp-forehand/media/image15.jpg){width="1.875in" | confidence](media_the-lansdorp-forehand/media/image16.jpg){width="1.875in" |
-| height="2.3020833333333335in"}                                                                                                                               | height="2.3020833333333335in"}                                                                                                                                |
-+==============================================================================================================================================================+===============================================================================================================================================================+
-| #### **Two views of Pete Sampras\' follow-through, with his hand coming all the way through the shot before the racket wraps over the shoulder.**                                                                                                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with low |
+| --- | --- |
+| generated](media_the-lansdorp-forehand/media/image15.jpg) |  |
+| #### **Two views of Pete Sampras' follow-through, with his hand coming all the way through the shot before the racket wraps over the shoulder.** |  |
+
 
 If you really hit through the ball, the follow-through is with the arm
 up towards the chin. The racket is straight up and down, on edge, and
 slightly above the wrist. To see if the player is hitting through, I
 teach him or her to stop with the arm up and out. I have them \"come out
-front\" or \"leave the racket out front.\" They aren\'t allowed to come
+front\" or \"leave the racket out front.\" They aren't allowed to come
 around the neck. If they can \"leave it out front,\" then I know they
 are hitting through the ball perfectly.
 
-This is a teaching technique. It\'s a little stiff to do when playing.
-But in matches the follow-through still won\'t immediately wrap around
-the neck. Watch Pete for example. You\'ll see that, on his
+This is a teaching technique. It's a little stiff to do when playing.
+But in matches the follow-through still won't immediately wrap around
+the neck. Watch Pete for example. You'll see that, on his
 follow-through, he brings his hand close to his left cheek first. If a
 player has learned to hit through the ball at a young age the way Pete
-and Lindsay did then a longer follow-through won\'t affect the ability
+and Lindsay did then a longer follow-through won't affect the ability
 to do this.
 
 In addition to the critical role of the grip and the follow-through,
 here are my views on some of the other issues in developing the
 forehand.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                     | ![A person playing tennis Description automatically generated with medium                                                                                     |
-| confidence](media_the-lansdorp-forehand/media/image17.jpg){width="1.875in" | confidence](media_the-lansdorp-forehand/media/image18.jpg){width="1.875in" |
-| height="2.53125in"}                                                                                                                                           | height="2.53125in"}                                                                                                                                           |
-+===============================================================================================================================================================+===============================================================================================================================================================+
-| #### **Pete demonstrates the ideal backswing, with the racket at about shoulder height.**                                                                     | #### **Keep the racket face level and on edge, the same position as when hitting the ball.**                                                                  |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_the-lansdorp-forehand/media/image17.jpg) |  |
+| #### **Pete demonstrates the ideal backswing, with the racket at about shoulder height.** | #### **Keep the racket face level and on edge, the same position as when hitting the ball.** |
+
 
 ### The Backswing
 
-With the follow-through, there\'s no choice, there\'s one way and
-that\'s it. On the backswing, you do have a choice. But I would prefer
+With the follow-through, there's no choice, there's one way and
+that's it. On the backswing, you do have a choice. But I would prefer
 you bring the racket back about shoulder high. Keep your arm relaxed,
-and don\'t use a lot of wrist.
+and don't use a lot of wrist.
 
-I believe you should make the stroke as long as possible. I\'m
-completely against shortening the backswing too soon. It\'s very
-dangerous. You\'ll never learn how to drive the ball. It\'s a lot easier
-to shorten it up than to make it big. Don\'t start a kid out with short
+I believe you should make the stroke as long as possible. I'm
+completely against shortening the backswing too soon. It's very
+dangerous. You'll never learn how to drive the ball. It's a lot easier
+to shorten it up than to make it big. Don't start a kid out with short
 backswings, a kid will never learn how to swing.
 
-Since the racket has to be level at the time you hit the ball, I don\'t
-see that it\'s worth all that much to close the racket face. If you get
+Since the racket has to be level at the time you hit the ball, I don't
+see that it's worth all that much to close the racket face. If you get
 the racket face back in the position you are going to hit the ball, with
-the racket straight up and down or level, you\'re far better off. There
+the racket straight up and down or level, you're far better off. There
 is far less room for error.
 
 Teach them how to return serve with a complete swing. Because at the
-beginning, the serves aren\'t hard. If you\'re solid off the ground,
+beginning, the serves aren't hard. If you're solid off the ground,
 your return is good. If someone serves 130mph, then some players may
 have to consider shortening it up.
 
@@ -279,31 +263,29 @@ have to consider shortening it up.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-lansdorp-forehand/media/image19.jpg){width="1.875in"
-  height="2.2708333333333335in"}
+  confidence](media_the-lansdorp-forehand/media/image19.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The wrist is laid back at contact. If you want to slap the ball, move to Spain and play on red clay.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **[[The wrist has to be laid back at the hit. But you have to be very
-careful you don\'t lay your wrist back too far or you may end up
+careful you don't lay your wrist back too far or you may end up
 slapping the ball. The wrist is moving slightly through the hit but it
-doesn\'t flop or whip.]{.underline}]{.mark}**
+doesn't flop or whip.]{.underline}]{.mark}**
 
 Too much wrist is very dangerous. It has to be controlled. With extreme
-topspin the wrist can flop all over the place. I don\'t like all that
+topspin the wrist can flop all over the place. I don't like all that
 rolling and turning unless you are going to move to Spain and play on
 the red clay.
 
-**[[If the wrist starts to slap, then the player doesn\'t have control
+**[[If the wrist starts to slap, then the player doesn't have control
 and it becomes difficult to get the feel of hitting through the
 ball.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically
-  generated](media_the-lansdorp-forehand/media/image20.jpg){width="1.875in"
-  height="2.1875in"}
+  generated](media_the-lansdorp-forehand/media/image20.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
   **At the completion of the backswing, the racket drops slightly below the ball to hit through the shot with topspin.**
 
@@ -316,19 +298,18 @@ They think players are getting extra topspin, but actually they are
 pulling off the ball. They are not driving through the ball with
 topspin, so you get a mediocre ball that sits up way too much. A player
 like Hingis has so much motion she cannot drive through the ball. Her
-ball sits, where as Lindsay\'s ball moves.
+ball sits, where as Lindsay's ball moves.
 
 At the completion of the backswing, drop the racket slightly below the
-level of the ball, you\'ll hit with a little bit of topspin but the
-topspin isn\'t obvious. When Lindsay or Pete hit a forehand it\'s often
-described as a flat ball but it\'s not flat. They are hitting through
+level of the ball, you'll hit with a little bit of topspin but the
+topspin isn't obvious. When Lindsay or Pete hit a forehand it's often
+described as a flat ball but it's not flat. They are hitting through
 the ball with topspin. But when you hit the ball harder, the way they
 do, you definitely hit it flatter.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-lansdorp-forehand/media/image21.jpg){width="1.875in"
-  height="2.6145833333333335in"}
+  confidence](media_the-lansdorp-forehand/media/image21.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Develop a player with the closed stance. Sometimes you have to step into the ball even in pro tennis.**
 
@@ -338,17 +319,17 @@ do, you definitely hit it flatter.
 
 I like to teach the closed stance at the start, and even go back to it
 at the later stages. With a closed off stance, you can hit through the
-ball better. With the open stance there\'s a danger that players are
+ball better. With the open stance there's a danger that players are
 going to start wrapping around the body too quickly.
 
-When you start a kid with an open stance, you\'re asking for trouble.
+When you start a kid with an open stance, you're asking for trouble.
 **[[Develop the closed stance and then go open stance, because when you
 are running wide for a forehand it should be some variation of the open
 stance - or at least a stance in which the player steps though with the
 front foot after the hit]{.mark}]{.underline}** (for examples of open
 stance forehands see [Reverse Forehand](The%20Reverse%20Forehand.docx)
 article). But players have to understand the difference. They have to
-understand there are times when it\'s better to step into the ball, even
+understand there are times when it's better to step into the ball, even
 in pro tennis.
 
   ------------------
@@ -357,15 +338,14 @@ in pro tennis.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-lansdorp-forehand/media/image22.gif){width="1.3125in"
-  height="1.914063867016623in"}
+  generated](media_the-lansdorp-forehand/media/image22.gif)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Robert Lansdorp is the legendary Southern California coach who has
 developed dozens of world class junior and professional players.
-Robert\'s players include 4 champions who have gone on to become number
+Robert's players include 4 champions who have gone on to become number
 one in the world: Maria Sharapova, Pete Sampras, Lindsay Davenport, and
 Tracy Austin. In these articles, found exclusively on Tennisplayer,
 Robert share his views on what goes into the making of a champion, and

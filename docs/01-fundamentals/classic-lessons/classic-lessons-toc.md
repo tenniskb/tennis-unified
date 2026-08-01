@@ -6,8 +6,7 @@
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_classic-lessons-toc/media/image1.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_classic-lessons-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -22,10 +21,10 @@ teaching tennis to an art form. They create magic everyday on the
 teaching court.
 
 In this section you have the opportunity to meet some of these pros and
-learn from them directly. It\'s the next best thing to visiting their
+learn from them directly. It's the next best thing to visiting their
 private teaching courts, but without the travel expenses.
 
-The teachers in classic lessons are among the best I\'ve seen at working
+The teachers in classic lessons are among the best I've seen at working
 with students at all levels. They are also personal friends and
 colleagues with whom I have spent hundreds of hours talking about and
 studying tennis, sharing input about students, as well as hitting balls
@@ -37,11 +36,11 @@ acknowledged as the top independent teaching pro in Marin County
 California, has been one of my best friends and practice partners for
 almost as long.
 
-Scott\'s lessons present a systematic approach to developing every
-stroke in the game. Kerry\'s are more thematically oriented, on topics
+Scott's lessons present a systematic approach to developing every
+stroke in the game. Kerry's are more thematically oriented, on topics
 like rhythm and rally speed, defining open stance, and the pluses and
 minuses of the various grips. Enjoy their lessons and be sure to let us
-know what you think on the Tennisplayer bulletin boards. There\'s also
+know what you think on the Tennisplayer bulletin boards. There's also
 an excellent chance Kerry and Scott will write back!
 
 Chris Lewit

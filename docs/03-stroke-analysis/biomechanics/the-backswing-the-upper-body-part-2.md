@@ -6,30 +6,29 @@
 
 In the last article, we examined the role of the lower body during the
 back swing ([Click Here](The%20Backswing%20-%20Part%201.docx)). Now
-let\'s move on to the upper body motion in the backswing. This includes
+let's move on to the upper body motion in the backswing. This includes
 the movement of the trunk, the hitting arm segments, and the racquet
 itself.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-the-upper-body-part-2/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-the-upper-body-part-2/media/image1.webp)
 
 **What are the real factors that create racket speed in the backswing?**
 
 **[The ability to generate racket speed in the back swing is one of the
 main differentiating factors at all levels of play, including
-professionals.]{.mark}** So let\'s take the backswing motion apart and
+professionals.]{.mark}** So let's take the backswing motion apart and
 see what we can learn from our quantitative studies.
 
-Then let\'s see how we can apply this knowledge in player development,
-using the example of our young player\'s serve from the previous
+Then let's see how we can apply this knowledge in player development,
+using the example of our young player's serve from the previous
 articles, and the data provided on his service motion in the 3D
 interface below.
 
 **4 Goals**
 
-**[[To begin, let\'s identify the four primary upper body goals of the
+**[[To begin, let's identify the four primary upper body goals of the
 backswing.]{.underline}]{.mark}**
 
 1.  **[The first goal is to have all of the joints in configurations
@@ -47,8 +46,7 @@ backswing.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-the-upper-body-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-the-upper-body-part-2/media/image2.webp)
 
 **How do \"motion dependent effects\" drive pro backswings?**
 
@@ -81,7 +79,7 @@ results in a force being placed on the upper
 arm.]{.underline}]{.mark}*** To understand this force, it is necessary
 to take a detailed look at trunk motion during the backswing.
 
-I\'ve already established **[[a link between the lower body and upper
+I've already established **[[a link between the lower body and upper
 body with the discussion of hip rotation]{.mark}]{.underline}** in the
 last article. **[[The legs drive the hip rotation, which facilitates an
 upper trunk (shoulder) twisting rotation, that occurs around the
@@ -95,17 +93,16 @@ racquet speed in the upward swing.
 
 ![A picture containing sport, tennis, ball, athletic game Description
 automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image3.webp)
 
-**Note the subtle additional backward lean during Pete\'s backswing.**
+**Note the subtle additional backward lean during Pete's backswing.**
 
 **The twisting rotation of the upper trunk is not, however, as simple as
-it appears. It\'s effectiveness in driving the motion of the hitting
+it appears. It's effectiveness in driving the motion of the hitting
 arm, especially late in the back swing, is related to the angle of the
 trunk at the end of the backswing.**
 
-As we have seen, **[[the server\'s trunk inclines or leans backward (as
+As we have seen, **[[the server's trunk inclines or leans backward (as
 seen in a back view) during the windup as a function of the knee
 bend.]{.underline}]{.mark}**
 
@@ -136,15 +133,14 @@ cartwheel rotation of the trunk. However, its primary cause is the upper
 trunk twist once the body has achieved the proper angle of incline.
 
 ![A picture containing yellow Description automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image4.webp){width="3.0833333333333335in"
-height="3.6354166666666665in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image4.webp)
 
 **The backswing is a motion dependent effect, [driven mainly by forces
 from the legs and the trunk twist.]{.underline}**
 
 A quick reference to the data interface and our example player shows
 more about how this occurs. It is directly related to the position of
-the player\'s center of mass.
+the player's center of mass.
 
 Looking at the stick figure in the center (the pure back view), we can
 see that the center of mass, which is near the line of the trunk and
@@ -177,10 +173,9 @@ joint]{.underline}. This in turn affects the motion of the hitting arm
 and racquet, which we will now look at in detail.]{.mark}**
 
 ![A picture containing diagram Description automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.6770833333333335in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image5.webp)
 
-**Note the subtle additional backward lean during Pete\'s backswing.**
+**Note the subtle additional backward lean during Pete's backswing.**
 
 **The Hitting Arm and Racquet**
 
@@ -215,8 +210,7 @@ in elbow extension and ulnar deviation in the upward swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-the-upper-body-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-the-upper-body-part-2/media/image2.webp)
 
 **The shape of the loop is determined by forward racket movement.**
 
@@ -229,7 +223,7 @@ Greek letter \"g\" (which may appear inverted).
 
 At the start of the Gamma Loop, watch how the elbow flexion stays
 unchanged, with the forearm at about 90 degrees to the upper arm. As the
-drop starts, watch the player\'s hand. Compared to the Alpha Loop, the
+drop starts, watch the player's hand. Compared to the Alpha Loop, the
 hand in the Gamma Loop starts down more steeply. The racket tip points
 more to the side as the racket starts down, instead of pointing directly
 forward.
@@ -257,13 +251,12 @@ consequence.
 How does the server achieve this? It is reasonable to assume that if a
 server contracted the muscles surrounding the shoulder joint in the
 direction of the external rotation, he could cause the external rotation
-motion to occur. In reality though, this isn\'t exactly the way it
+motion to occur. In reality though, this isn't exactly the way it
 works.
 
 ![A close-up of a stethoscope Description automatically generated with
 medium
-confidence](media_the-backswing-the-upper-body-part-2/media/image6.webp){width="3.4375in"
-height="4.427083333333333in"}
+confidence](media_the-backswing-the-upper-body-part-2/media/image6.webp)
 
 **The relationship between the forces on the shoulder and external
 rotation.**
@@ -294,15 +287,14 @@ Transition, there is some amount of conscious muscle contraction. But
 once the racket tip starts to drop, the rest of the external rotation
 comes from the motion dependent effect.
 
-So let\'s see more specifically the complex interplay that drives the
-backswing. We\'ll do this by breaking the motion into 3 parts, each
+So let's see more specifically the complex interplay that drives the
+backswing. We'll do this by breaking the motion into 3 parts, each
 covering roughly the same amount downward motion in the racket tip.
 
 **The First Third**
 
 ![A picture containing sport, athletic game Description automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image7.webp){width="3.9583333333333335in"
-height="5.510416666666667in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image7.webp)
 
 **Trunk twist drives the first third of the backswing.**
 
@@ -345,7 +337,7 @@ Understanding this mechanism is critical for coaches in learning how to
 increase the effectiveness of the backswing in the serve. You may recall
 from the previous article, that the timing of the leg drive was critical
 to the development of racket speed in the back swing. In the first
-third, its importance relates to the leg\'s influence in generating spin
+third, its importance relates to the leg's influence in generating spin
 momentum and hip/trunk rotation.
 
 You may also recall that our young player, whose data we have been
@@ -373,13 +365,12 @@ racquet downward with the arm in this position, the force must become
 more vertical. This is in fact what we see in the NCAA player composite
 animation during the second third.**
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person swinging a tennis racket Description automatically generated with medium                                                                                                      |
-| confidence](media_the-backswing-the-upper-body-part-2/media/image8.webp){width="3.3333333333333335in" |
-| height="4.635416666666667in"}                                                                                                                                                            |
-|                                                                                                                                                                                          |
-| **In the second third of the motion, the legs drive the racket downward.**                                                                                                               |
-+==========================================================================================================================================================================================+
+| ![A person swinging a tennis racket Description automatically generated with medium |
+| --- |
+| confidence](media_the-backswing-the-upper-body-part-2/media/image8.webp) |
+|  |
+| **In the second third of the motion, the legs drive the racket downward.** |
+
 
 To understand the origin of this vertical influence, we must recall what
 trunk motion occurs at this time. There are two factors consider. The
@@ -394,8 +385,7 @@ the racket downward.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A close-up of a toy Description automatically generated with low
-   confidence](media_the-backswing-the-upper-body-part-2/media/image9.webp){width="3.3333333333333335in"
-                                                                                     height="4.40625in"}
+   confidence](media_the-backswing-the-upper-body-part-2/media/image9.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **The external rotation in the backswing puts the internal rotators on stretch.**
 
@@ -412,7 +402,7 @@ rotate the shoulder in the opposite direction through contraction of
 internal rotating muscles. This may seem surprising, but actually it is
 probably a critical factor in creating racket speed.
 
-**Let\'s see how this happens.**
+**Let's see how this happens.**
 
 The NCAA player composite animation illustrates the relationship here.
 The rotating arrow drawn around the upper arm shows the average
@@ -439,10 +429,9 @@ injury.]{.underline}]{.mark}***
 
 ![A picture containing tennis, court, sport, athletic game Description
 automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image10.webp)
 
-**Does the speed of Andy\'s backswing increase the stretch in the
+**Does the speed of Andy's backswing increase the stretch in the
 internal rotators?**
 
 ***[[This is how the leg drive functions in the motion, allowing the
@@ -475,8 +464,7 @@ execution of his backswing.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A picture containing wall, person, indoor, female Description automatically
-   generated](media_the-backswing-the-upper-body-part-2/media/image11.webp){width="3.3333333333333335in"
-                                                                                height="4.635416666666667in"}
+   generated](media_the-backswing-the-upper-body-part-2/media/image11.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                **In the third segment of the backswing, the primary force comes once again from trunk twist.**
 
@@ -518,8 +506,7 @@ developing players.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    ![A picture containing female Description automatically
-   generated](media_the-backswing-the-upper-body-part-2/media/image12.webp){width="3.3333333333333335in"
-                                                                                height="5.208333333333333in"}
+   generated](media_the-backswing-the-upper-body-part-2/media/image12.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                **Two other joint motions: the wrist laying back, and the upper arm lifting from the shoulder.**
 
@@ -548,7 +535,7 @@ in the next installment.
 One of the primary goals for the backswing we identified at the
 beginning of the article was the creation racquet head speed. This
 effect is one of the first things I look for in developing players. So
-let\'s take a look at our example player and see what we can see.
+let's take a look at our example player and see what we can see.
 
 In the data interface racket head speed can be assessed in two ways. The
 first is by selecting \"Stroke Phase Statistics\" in the \"Data
@@ -561,18 +548,17 @@ back swing, an increasing slope should be evident.
 But even among pro players, there seems to be great variation in the
 speed of the racquet at the end of the back swing. This is not
 surprising as this speed is the result of a very complex array of
-seemingly independent body actions, actions I\'ve tried my best to
+seemingly independent body actions, actions I've tried my best to
 describe in this article.
 
 ![A picture containing tennis, road, player, athletic game Description
 automatically
-generated](media_the-backswing-the-upper-body-part-2/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-backswing-the-upper-body-part-2/media/image13.webp)
 
 **Even in pro tennis there is a wide range of backswing speeds.**
 
 To assess how these body actions are linked to the speed of the racquet,
-let\'s look at some more of the supporting 3 dimensional data in our
+let's look at some more of the supporting 3 dimensional data in our
 interface. This will allow us to see quantitatively how these factors
 actually contribute the speed of the racquet at the end of the back
 swing.
@@ -588,7 +574,7 @@ contributors to racquet speed at the end of the back swing are hip
 rotation speed, wrist extension, and shoulder joint external rotation in
 that order. Based on earlier observations this pattern makes sense.
 
-Our subject\'s less than impressive increase in racket speed seems to
+Our subject's less than impressive increase in racket speed seems to
 relate to two factors. These are a disappointing contribution from
 shoulder external rotation and virtually zero contribution from upper
 trunk twisting rotation.
@@ -597,8 +583,7 @@ trunk twisting rotation.
 
   --
 
-![](media_the-backswing-the-upper-body-part-2/media/image14.webp){width="3.3333333333333335in"
-height="4.5in"}
+![](media_the-backswing-the-upper-body-part-2/media/image14.webp)
 
   --
 
@@ -637,15 +622,14 @@ twist accounts for 22% of 29 m.p.h. or 6.4 m.p.h. (junior = 0% of 19.4
 m.p.h. or 0 m.p.h.) of racquet speed, and shoulder external rotation 26%
 of 29 m.p.h. or 7.5 m.p.h. (junior = 24% of 19.4 or 4.6 m.p.h.).
 
-Let\'s finish our analysis by identifying the key ending positions for
+Let's finish our analysis by identifying the key ending positions for
 the backswing back swing. As with the wind up, this list is not
-exhaustive but provides a frame of reference to assess a server\'s
+exhaustive but provides a frame of reference to assess a server's
 motion at the end of this phase.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A person swinging a tennis racket Description automatically
-   generated](media_the-backswing-the-upper-body-part-2/media/image15.jpg){width="2.986111111111111in"
-                                                                               height="3.2777777777777777in"}
+   generated](media_the-backswing-the-upper-body-part-2/media/image15.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **Racket Drop: from the mid hip to the lowest point of the racket tip.**
 
@@ -667,8 +651,7 @@ and their racquet is long relative to their body size.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      ![A person playing tennis Description automatically
-   generated](media_the-backswing-the-upper-body-part-2/media/image16.jpg){width="3.3333333333333335in"
-                                                                                height="3.861111111111111in"}
+   generated](media_the-backswing-the-upper-body-part-2/media/image16.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  **Elbow Angle: measured between the uper arm and forearm.**
 
@@ -690,8 +673,7 @@ from 70 \-- 90 degrees.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, sport, athletic game, male Description automatically
-  generated](media_the-backswing-the-upper-body-part-2/media/image17.jpg){width="3.611111111111111in"
-  height="3.375in"}\
+  generated](media_the-backswing-the-upper-body-part-2/media/image17.jpg)\
   \
   **Upper Arm Angle: For gifted players the angle may approach zero.**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -720,8 +702,7 @@ degrees.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-backswing-the-upper-body-part-2/media/image18.jpg){width="2.095833333333333in"
-                                                                                height="2.421527777777778in"}
+   confidence](media_the-backswing-the-upper-body-part-2/media/image18.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   **Trunk Segments: when do the shoulders and hips align?**
 
@@ -770,21 +751,20 @@ Noffal, G. **Where do high speed serves come from**?, In B. Elliott, B.
 Gibson, and D. Knudson (Eds.), XVIIth International Symposium on
 Biomechanics in Sports, 1999.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                              | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-backswing-the-upper-body-part-2/media/image19.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                             | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                           | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                           | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                           | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                           | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                           | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                           | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                           | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                           |                                                               |
-|                                                                                                                                                                                           | To visit his website, [**[Click                               |
-|                                                                                                                                                                                           | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                           |                                                               |
-|                                                                                                                                                                                           | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                           | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+===========================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-backswing-the-upper-body-part-2/media/image19.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

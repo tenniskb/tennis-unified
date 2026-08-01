@@ -5,11 +5,11 @@
 ### John Yandell
 
 We need a simpler and more accurate way to describe the forehand grips
-in the modern game. It\'s commonly believed that most pro players use a
+in the modern game. It's commonly believed that most pro players use a
 \"semi-western\" grip. But that term has become almost meaningless. In
 the old days the terms \"eastern,\" \"semi-western,\" and \"western\"
 were considered sufficient. But if we really look at what is going on in
-the modern game, it\'s more complex than that. The range of grips is
+the modern game, it's more complex than that. The range of grips is
 much wider than is normally recognized. The differences in the actual
 grip structures can be hard to see, but these differences have a
 fundamental influence over the capabilities and style of the top
@@ -17,13 +17,12 @@ players. Because of this, grips dictate much of what his happening.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_modern-forehand-grip-variations-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_modern-forehand-grip-variations-part-1/media/image1.webp)
 
 **The forehand grips of the two top players\--opposite ends of the
 spectrum.**
 
-As we\'ll see in these two articles, there are at least 6 distinct
+As we'll see in these two articles, there are at least 6 distinct
 forehand grips that are used at the highest levels of the pro game. At
 least 3 of these could be considered some version of \"semi-western.\"
 But there are a significant number of top pro players who play with less
@@ -34,51 +33,49 @@ version of \"western,\" including Rafael Nadal.
 When we look the top two players in the game\--Federer and Nadal\--they
 are at the opposite ends of the grips spectrum, with the rest of the
 players somewhere in between. That fact alone shows how complex and
-diverse the modern game really is. Correct me if I\'m wrong but it would
+diverse the modern game really is. Correct me if I'm wrong but it would
 be crazy to suggest that there were 6 different grips in golf or in
 baseball.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_modern-forehand-grip-variations-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_modern-forehand-grip-variations-part-1/media/image2.webp)
 
 **There are at least 3 distinct \"semi-western\" grips.**
 
 So how can we identify the differences in the grips of the various top
-players? Is it possible to develop a clear terminology that let\'s us
+players? Is it possible to develop a clear terminology that let's us
 see where certain players fit on the scale from conservative to extreme?
 
-In this series of articles on the modern forehand, we\'ve looked closely
+In this series of articles on the modern forehand, we've looked closely
 at the grips of several top players, and talked about the positioning of
 their hands on the racket. ([Click
 Here](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
-We\'ve also looked at the differences in the swings associated with the
+We've also looked at the differences in the swings associated with the
 differences in the grips. But some of the most frequent questions I get
 from subscribers are still about the forehand grip. What grip does a
 certain pro player hold? What grip should I use? Or, if I use a certain
 grip, how do I make this or that happen?
 
-So let\'s look more systematically at the whole issue of grips. Let\'s
+So let's look more systematically at the whole issue of grips. Let's
 see how they affect the range of options on the forehand swings in pro
-tennis. Then let\'s see what that shows us about which grip may or may
+tennis. Then let's see what that shows us about which grip may or may
 not be right for you.
 
-In the first article we\'ll start by outlining a more sophisticated and
+In the first article we'll start by outlining a more sophisticated and
 precise method for describing how the hand connects to the tennis
-racket. Then we\'ll look at the first 3 grip variations in the modern
+racket. Then we'll look at the first 3 grip variations in the modern
 game, the more conservative grip structures used by players including
 Pete Sampras, Roger Federer and Andre Agassi.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                        ![A picture containing text Description automatically
-   generated](media_modern-forehand-grip-variations-part-1/media/image3.jpg){width="2.0833333333333335in"
-                                                                                  height="2.6666666666666665in"}
+   generated](media_modern-forehand-grip-variations-part-1/media/image3.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     The shape of the racket handle is an octagon with 8 bevels.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In the second article next month, we\'ll go into detail about the three
+In the second article next month, we'll go into detail about the three
 more extreme grip varations, used by players ranging from David
 Nalbandian to Andy Roddick to Rafael Nadal.
 
@@ -88,8 +85,8 @@ To really understand the subtlety and the complexity of the forehand
 grips, we need to look at the racket handle and the racket hand in a
 different way. This is by looking first, at the bevels on the frame,
 and, second, by looking at two key reference points on the hand. These
-are the index knuckle and the lower heel pad. We\'ve done this with some
-specific players in previous articles, but now let\'s try to create a
+are the index knuckle and the lower heel pad. We've done this with some
+specific players in previous articles, but now let's try to create a
 more general framework and terminology that covers the entire range.
 
 If we look at the racket handle we can see that it is actually in the
@@ -99,8 +96,7 @@ Bevel 8.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   ![A picture containing ground, person Description automatically
-   generated](media_modern-forehand-grip-variations-part-1/media/image4.jpg){width="2.7083333333333335in"
-                                                                                         height="2.75in"}
+   generated](media_modern-forehand-grip-variations-part-1/media/image4.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                 **The index knuckle and the center of the heel pad. Their positions on the bevels determine grip.**
 
@@ -127,17 +123,16 @@ a name that reflects this, although this terminology is less important
 than the actual position of the hand on the racket.
 
 ![A person playing tennis Description automatically
-generated](media_modern-forehand-grip-variations-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_modern-forehand-grip-variations-part-1/media/image5.webp)
 
-**We can\'t necessarily infer grip structure from the swing.**
+**We can't necessarily infer grip structure from the swing.**
 
 It sounds like a great plan, and it is. But when we look at images of
 the top players, the exact position of the key points on the bevels
-isn\'t always easy to see. Because of the synthesis of conservative and
-extreme elements in the swings, we can\'t infer the grip structure
+isn't always easy to see. Because of the synthesis of conservative and
+extreme elements in the swings, we can't infer the grip structure
 simply by looking at the swing patterns themselves. Plus the swings
-happen very fast, and even filming from quite close to the court, it\'s
+happen very fast, and even filming from quite close to the court, it's
 tough to get a clear look at the hand.
 
 There are other challenges. First, players often position the knuckle
@@ -146,7 +141,7 @@ players spread their fingers out while others keep them bunched
 together. Third, some players shift their hands upwards or downwards on
 the handle. Federer for example, players with part of his hand off the
 handle. Also, players play with different size grip handles. Federer,
-I\'ve been told, actually plays with a 4 and 3/8\" handle.
+I've been told, actually plays with a 4 and 3/8\" handle.
 
 All these factors affect what the hand looks like on the handle and make
 the process more difficult. Still, if we look closely I think we can
@@ -159,42 +154,37 @@ take pictures from every angle I want. You never know, it could happen.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_modern-forehand-grip-variations-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_modern-forehand-grip-variations-part-1/media/image6.webp)
 
 **A classic forehand with a classic grip.**
 
 **3 / 3 Grip: Modern Eastern**
 
 So we said there are probably at least 6 distinct combinations that are
-used in the pro game. Let\'s start with the most conservative grip, or
+used in the pro game. Let's start with the most conservative grip, or
 the most \"eastern.\" Then we can work our way underneath the handle
 toward the \"west.\"
 
-In one of our previous articles we identified Pete Sampras\'s grip as a
+In one of our previous articles we identified Pete Sampras's grip as a
 \"3 / 3.\" We called this a modern eastern. This is the most
 conservative grip that we see in pro tennis. What that means is that his
 index knuckle is in the center of the third bevel down. The same is true
 for his heel pad.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                                     | ![A person holding a tennis racket Description automatically                                                                                                                                 |
-| generated](media_modern-forehand-grip-variations-part-1/media/image7.jpg){width="4.453125546806649in" | generated](media_modern-forehand-grip-variations-part-1/media/image8.jpg){width="4.166666666666667in" |
-| height="1.875in"}                                                                                                                                                                            | height="1.7777777777777777in"}                                                                                                                                                               |
-+:============================================================================================================================================================================================:+:============================================================================================================================================================================================:+
-| **Tim Henman\'s 3 / 3 Eastern grip\--index knuckle and heel pad behind Bevel 3.**                                                                                                                                                                                                                                                                                                           |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person holding a tennis racket Description automatically |
+| --- | --- |
+| generated](media_modern-forehand-grip-variations-part-1/media/image7.jpg) |  |
+| **Tim Henman's 3 / 3 Eastern grip\--index knuckle and heel pad behind Bevel 3.** |  |
+
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_modern-forehand-grip-variations-part-1/media/image9.jpg){width="3.1784897200349955in"
-                                                                                        height="1.84375in"}
+   generated](media_modern-forehand-grip-variations-part-1/media/image9.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                           **Dominic Hrbaty\'s eastern 3 / 3, appears virtually identical to Pete\'s.**
+                                                           **Dominic Hrbaty's eastern 3 / 3, appears virtually identical to Pete's.**
 
                                                              ![A person playing tennis Description automatically generated with medium
-       confidence](media_modern-forehand-grip-variations-part-1/media/image10.jpg){width="3.15625in"
-                                                                                   height="1.729861111111111in"}
+       confidence](media_modern-forehand-grip-variations-part-1/media/image10.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This grip structure aligns the palm of the hand with the face of the
@@ -207,28 +197,26 @@ and the heel pad.
 
 Besides Sampras, two other top players who use this grip are Tim Henman
 and Dominik Hrbaty. In general these players tend to spread their
-fingers out somewhat up the handle. Hrbaty\'s index finger is probably
+fingers out somewhat up the handle. Hrbaty's index finger is probably
 gapped a little more than Pete or Tim.
 
 Pete and Tim also play with a little bit of the hand off the end of the
-grip at the bottom of the racket, while Hrbaty\'s heel pad is fully on
+grip at the bottom of the racket, while Hrbaty's heel pad is fully on
 the handle. The 3 / 3 alignment though appears to be virtually the same
 for all three. This grip is usually associated with an attacking style
 of play, since Pete and Tim both play serve and volley as much as
 possible, especially on grass. But it can be effective in the back court
-as well. In Hrbaty\'s case it is associated with standing quite far
+as well. In Hrbaty's case it is associated with standing quite far
 back, retrieving, and hitting a large number of balls with a netural
 stance. Sampras and Henman tend to play up closer to the baseline when
 they stay back, and hit more or even most of their forehands from open
 stance.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                                      | ![A person swinging a tennis racket Description automatically                                                                                                                                 |
-| generated](media_modern-forehand-grip-variations-part-1/media/image11.jpg){width="4.166666666666667in" | generated](media_modern-forehand-grip-variations-part-1/media/image12.jpg){width="4.166666666666667in" |
-| height="1.9166666666666667in"}                                                                                                                                                                | height="1.9305555555555556in"}                                                                                                                                                                |
-+:=============================================================================================================================================================================================:+:=============================================================================================================================================================================================:+
-| **2 views of Federer\'s 3 1/2 / 3 or modified eastern grip.**                                                                                                                                                                                                                                                                                                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person swinging a tennis racket Description automatically |
+| --- | --- |
+| generated](media_modern-forehand-grip-variations-part-1/media/image11.jpg) |  |
+| **2 views of Federer's 3 1/2 / 3 or modified eastern grip.** |  |
+
 
 **3 1/2 / 3 Grip: Modified Eastern**
 
@@ -238,10 +226,10 @@ on the edges between the bevels, half way between one and another.
 
 This definitely applies to Roger Federer. He the obvious, most
 outstanding example of the second grip, what we call a \"3 1/2 / 3.\"
-What this means is that the index knuckle isn\'t directly behind the
+What this means is that the index knuckle isn't directly behind the
 handle but shifts a quarter of an inch or so downward, so that it is on
 the edge between Bevel 3 and Bevel 4. His heel pad is the same as Pete
-or Tim, aligned directly with Bevel 3. We\'ve already looked at this in
+or Tim, aligned directly with Bevel 3. We've already looked at this in
 detail in the Federer forehand articles. ([Click
 Here](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx).)
 
@@ -251,23 +239,21 @@ difference with the 3 / 3 players described above. Two other players who
 seem to have nearly identical 3 1/2 / 3 grip structures are Mario Ancic
 and Paradorn Scrichaphan.
 
-I call this a modified eastern grip, because I think it\'s closer to the
+I call this a modified eastern grip, because I think it's closer to the
 grip of Pete or Henman, than to that of a mild semi-western player like
 Agassi. (See more on this below.) But the terminology is less important
 than the alignment between the bevels and the key points on the hand.
-Brett Hobden for example calls Federer\'s grip a \"hybrid grip.\" Other
+Brett Hobden for example calls Federer's grip a \"hybrid grip.\" Other
 knowledgeable coaches prefer to think of it as a version of the
 semi-western. Terminology in tennis can be confusing and problematic,
 and this is nowhere more true than with the grips. What is more
 important is where the hand actually sits on the handle.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                      | ![A person hitting a tennis ball with a racket Description automatically                                                                                                                      |
-| confidence](media_modern-forehand-grip-variations-part-1/media/image13.jpg){width="4.166666666666667in" | generated](media_modern-forehand-grip-variations-part-1/media/image14.jpg){width="4.166666666666667in" |
-| height="1.9166666666666667in"}                                                                                                                                                                 | height="1.8611111111111112in"}                                                                                                                                                                |
-+:==============================================================================================================================================================================================:+:=============================================================================================================================================================================================:+
-| **See the slight downward shift of the index knuckle for Paradorn and Mario Ancic.**                                                                                                                                                                                                                                                                                                           |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person hitting a tennis ball with a racket Description automatically |
+| --- | --- |
+| confidence](media_modern-forehand-grip-variations-part-1/media/image13.jpg) |  |
+| **See the slight downward shift of the index knuckle for Paradorn and Mario Ancic.** |  |
+
 
 I like the eastern terminology, because in general this grip is
 associated with a very versatile all court style. Federer and Ancic are
@@ -284,7 +270,7 @@ style.
 When Andre Agassi exploded on the scene over 20 years ago, his grip was
 considered as radical as his hair, his clothes, and his fingernail
 polish. Today his grip is considered one of the more conservative in pro
-tennis. You don\'t have to look much further to see how the game has
+tennis. You don't have to look much further to see how the game has
 evolved and now much it is now dominated by heavy topspin exchanges from
 far behind the baseline. **[Now, instead of a heavy topspin player,
 Agassi is known as one the best ball strikers in tennis history, in
@@ -294,48 +280,45 @@ possible.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_modern-forehand-grip-variations-part-1/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_modern-forehand-grip-variations-part-1/media/image15.webp)
 
 **The 4 / 3 grip structure: a mild semi-western that allows players to
 step in and hit early.**
 
-If we look at his hand we can see that Andre\'s heel pad is on Bevel 3.
-That\'s actually the same as Sampras and Federer. His index knuckle is
-lower than either of those two players though. It\'s in the center of
-Bevel 4. That makes his grip a \"4 / 3.\" In my opinion, it\'s the first
+If we look at his hand we can see that Andre's heel pad is on Bevel 3.
+That's actually the same as Sampras and Federer. His index knuckle is
+lower than either of those two players though. It's in the center of
+Bevel 4. That makes his grip a \"4 / 3.\" In my opinion, it's the first
 grip structure we should consider truly \"semi-western.\" This is
-because, unlike Pete or Roger, it\'s the first grip in which one of the
+because, unlike Pete or Roger, it's the first grip in which one of the
 two key check points has moved partially underneath the handle, as
 opposed to primarily behind. I call this \"4 / 3 \" grip a \"mild semi
-western,\" since it\'s less extreme than most all of the other
+western,\" since it's less extreme than most all of the other
 semi-western players, as we shall see.
 
-When he was coming up, commentators remarked on Agassi\'s incredible
+When he was coming up, commentators remarked on Agassi's incredible
 topspin in comparison to other top players\--for example, John McEnroe
 or Jimmy Connors. Not anymore. As our studies have shown ([Click
 Here](Ball%20Spin%20in%20Pro%20Tennis.docx)) Agassi, like Sampras,
 averages around 1800rpm on his forehands. This is 30% less than a player
 like Andy Roddick, whose average is about 2700rpm. In the modern game,
 Agassi is considered one of the great \"flat\" ball strikers. Again,
-it\'s amazing to witness how much the game has changed, in this case
+it's amazing to witness how much the game has changed, in this case
 over the course of the career of one great player like Andre.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                    
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_modern-forehand-grip-variations-part-1/media/image16.jpg){width="2.9270833333333335in"
-                                                                                   height="1.4986111111111111in"}
+   generated](media_modern-forehand-grip-variations-part-1/media/image16.jpg)
 
                                                               ![A person playing tennis Description automatically generated with medium
-   confidence](media_modern-forehand-grip-variations-part-1/media/image17.jpg){width="3.0729166666666665in"
-                                                                                    height="1.573611111111111in"}
+   confidence](media_modern-forehand-grip-variations-part-1/media/image17.jpg)
 
                                                     **The 4 / 3style: The ability to hit early, hit flat, but also to rotate the hand and arm.**
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Agassi\'s grip is critical to his strategic style. The grip separates
+Agassi's grip is critical to his strategic style. The grip separates
 him technically from the other semi-western players in two ways.
 
 **[First a \"4 / 3 \" grip is ideally suited for making contact at the
@@ -349,12 +332,12 @@ As we saw in our stance article ([Click Here](Forehand%20Stances.docx))
 on the stances, ***[[the players with more extreme grips have bigger
 shoulder or torso rotational patterns. This makes it awkward to step
 into the ball and hit on the rise, because the front foot actually
-blocks the body rotation.]{.underline}]{.mark}*** If Agassi\'s grip were
+blocks the body rotation.]{.underline}]{.mark}*** If Agassi's grip were
 any more extreme, he would not be able to play the way he plays.
 
 Most semi-western players on the tour use the more extreme styles
 described below, but there are some other top players whose grips are
-similar or identical to Agassi\'s. Nickolas Kiefer is one example. Marat
+similar or identical to Agassi's. Nickolas Kiefer is one example. Marat
 Safin is another. Like Agassi, Kiefer is a gifted player with the
 ability to take the ball early and make great shot making appear
 effortless. James Blake is one more. Technically the \"4 / 3 \" grip is
@@ -372,7 +355,7 @@ grip structures for the average player.
 
 **Roger Federer and Your Game**
 
-In the second part of this article, we\'ll look at the other 3 more
+In the second part of this article, we'll look at the other 3 more
 extreme variations, and talk more about which grips are best suited to
 what types of players, and especially at what levels. But if we look at
 the three more conservative grips presented here we can make several
@@ -413,14 +396,13 @@ any technical advantage than the need to play the ball so much higher.
 If you are a talented college player or an elite junior but play with a
 baseline style, then it may make sense to model your game on Lleyton
 Hewitt or even Rafael Nadal. If you just want to be club champion at the
-4.0 level, then Roger Federer may be your man. Interesting isn\'t it?
+4.0 level, then Roger Federer may be your man. Interesting isn't it?
 More on all this later in Part 2, after we take a detailed look at the
 extreme grips as well.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_modern-forehand-grip-variations-part-1/media/image18.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_modern-forehand-grip-variations-part-1/media/image18.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

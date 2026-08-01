@@ -4,14 +4,13 @@
 
 ![A picture containing sport, athletic game, tennis, player Description
 automatically
-generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image1.webp)
 
 **How do top players develop the ability to place the ball to the
 corners on second serve?**
 
 In the last two articles in this series, we looked at the technical
-variations in Roger Federer\'s serve for the different placements for
+variations in Roger Federer's serve for the different placements for
 the first serve in both the ad court ([Click
 Here](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx))
 and in the deuce court ([Click
@@ -27,11 +26,11 @@ everywhere in between.]{.mark}**
 
 **[The same factor\--the timing of the rotation of the racket\--and the
 resulting angle at contact explain the placement on the second serves as
-well.]{.mark}** So let\'s see how that works in both courts.
+well.]{.mark}** So let's see how that works in both courts.
 
 **Toss**
 
-Before we do though let\'s review a key difference between the first and
+Before we do though let's review a key difference between the first and
 second serve, the placement of the toss. We looked at the differences in
 the ball position between the first and second serve in my recent series
 on new methods for building or improving your strokes ([Click
@@ -42,14 +41,13 @@ Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_ser
 
 ![A picture containing text, tennis, ball, racket Description
 automatically
-generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image2.webp)
 
-**On the second serve the toss moves to the player\'s left and slightly
+**On the second serve the toss moves to the player's left and slightly
 backwards.**
 
 The difference is that on a second serve the toss is further to the
-player\'s left, and also slightly further back. From behind, the contact
+player's left, and also slightly further back. From behind, the contact
 for top players appears to be somewhere between the edge and the middle
 of the head.
 
@@ -82,8 +80,7 @@ independent rotation of the forearm at the elbow.
 
 ![A picture containing text, person, outdoor, hitting Description
 automatically
-generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image3.webp)
 
 **Watch the elbow to see how the rotation of the upper arm drives the
 motion.**
@@ -101,8 +98,8 @@ starts while the arm is straightening from the elbow.
 the arm and racket in a virtual straight line moving out into the
 followthrough.]{.mark}**
 
-It\'s the timing of this unitary rotation that controls the angle of the
-racket face and therefore the direction of the serve. So let\'s see
+It's the timing of this unitary rotation that controls the angle of the
+racket face and therefore the direction of the serve. So let's see
 specifically how this works for the second serve in both courts.
 
 **Deuce Court**
@@ -112,8 +109,7 @@ second ball, the direction is still controlled in the same way.
 
 ![A group of people sitting in a stadium Description automatically
 generated with low
-confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image4.webp){width="6.5in"
-height="2.4069444444444446in"}
+confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image4.webp)
 
 **Compare the timing of the rotation of the racket head into contact.**
 
@@ -145,8 +141,7 @@ face angle slightly open at contact, the path of the racket is moves a
 little more forward toward the net.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image5.webp){width="6.5in"
-height="2.4069444444444446in"}
+confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image5.webp)
 
 **Now compare the angle of the arm moving across the baseline as the
 rotation completes.**
@@ -175,15 +170,14 @@ face starting to square up to the ball a few hundredths of a second
 sooner.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image6.webp){width="6.5in"
-height="2.4069444444444446in"}
+generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image6.webp)
 
 **On the T serve the racket face turns later compared to the wide
 serve.**
 
 Now watch the path of the followthrough. The differences are more
 dramatic than in the deuce court. On the serve down the T the arm and
-racket definitely move to the server\'s right, but they also move
+racket definitely move to the server's right, but they also move
 slightly more forward.
 
 On the wide serve, the arm and racket travel on a path that is further
@@ -199,8 +193,7 @@ entire motion is clear.
 
 ![A collage of a person playing tennis Description automatically
 generated with medium
-confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image7.webp){width="6.5in"
-height="2.4069444444444446in"}
+confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image7.webp)
 
 **The differences in the angle of the arms crossing the baseline on the
 corner serves in the ad court.**
@@ -235,8 +228,7 @@ slightly more directly forward than on the wide delivery.
 
 ![A picture containing text, sport, athletic game, tennis Description
 automatically
-generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-federer-serve-locations-2nd-serve/media/image8.webp)
 
 **The key to second serve control: visualize the hand and arm rotation,
 the angle of the racket face at contact, and the angle of the arm going
@@ -255,8 +247,7 @@ technique and how to apply it to your game!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image9.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-federer-serve-locations-2nd-serve/media/image9.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

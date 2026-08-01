@@ -102,7 +102,7 @@ thấy ba nguyên tắc phổ quát áp dụng trực tiếp vào tennis:
 
 Trước mỗi cú đánh mạnh, cơ thể phải chìm xuống, ổn định và kết nối với
 mặt sân. Đầu gối gập, hông tải lực, trọng tâm hạ thấp. Trong võ thuật,
-đây gọi là \'lấy gốc rễ\'. Trong tennis, đây là giai đoạn nạp lực trước
+đây gọi là 'lấy gốc rễ'. Trong tennis, đây là giai đoạn nạp lực trước
 khi chuỗi động học kích hoạt.
 
 **Nguyên Tắc 2: Xoắn và Căng Giãn**
@@ -133,7 +133,7 @@ soát nhiều hơn tạo ra lực phản hồi lớn hơn. Đây là bí quyết
 mạnh mà không tốn quá nhiều sức.
 
 > **HLV:** *Điều này giải thích tại sao nhiều vận động viên ưu tú
-> \'trông\' như không cố gắng --- nhưng bóng lại cực kỳ nặng. Họ không
+> 'trông' như không cố gắng --- nhưng bóng lại cực kỳ nặng. Họ không
 > dùng cơ bắp để tạo lực, họ dùng toàn bộ hệ thống đàn hồi của cơ thể.*
 
 **1.5 Điểm Tiếp Xúc Tối Ưu --- Optimal Contact Point**
@@ -157,8 +157,8 @@ Cân bằng trong tennis không phải là đứng yên --- đó là duy trì tr
 thể được luyện tập và phát triển.
 
 Các yếu tố của cân bằng động: trọng tâm thấp, base rộng vừa đủ, đầu ổn
-định, và khả năng điều chỉnh liên tục. Elite players không \'cân bằng\'
---- họ liên tục \'cân bằng lại\'.
+định, và khả năng điều chỉnh liên tục. Elite players không 'cân bằng'
+--- họ liên tục 'cân bằng lại'.
 
 **CHƯƠNG 2**
 
@@ -195,7 +195,7 @@ người --- không chỉ cánh tay. Đây là sự khác biệt giữa forehand
 dư và forehand chuyên nghiệp.
 
 Trong forehand hiện đại, vai và hông xoay cùng nhau như một đơn vị.
-Racket được \'mang theo\' bởi chuyển động của cơ thể, không phải kéo bởi
+Racket được 'mang theo' bởi chuyển động của cơ thể, không phải kéo bởi
 cánh tay.
 
 > **HLV:** *Khi tôi muốn học sinh cải thiện forehand, điều đầu tiên tôi
@@ -219,11 +219,11 @@ này với các mức độ supination khác nhau.
 
 Cảm giác đúng khi chuẩn bị forehand:
 
-- \'Lòng bàn tay hơi hướng lên trên trong giai đoạn chuẩn bị\'
+- 'Lòng bàn tay hơi hướng lên trên trong giai đoạn chuẩn bị'
 
-- \'Vợt được mang bởi chuyển động cơ thể\'
+- 'Vợt được mang bởi chuyển động cơ thể'
 
-- \'Thả lỏng ra ngoài qua bóng\'
+- 'Thả lỏng ra ngoài qua bóng'
 
 **2.4 Chuyển Từ Backswing Sang Forward Swing**
 
@@ -284,7 +284,7 @@ lưới với biên độ an toàn, trong khi vẫn đưa bóng xuống sân.
 
 Topspin được tạo ra bởi swing path (đường vợt từ thấp lên cao, từ trong
 ra ngoài) kết hợp với racket face đóng lại nhẹ. Không phải từ việc
-\'cuộn cổ tay\' một cách có chủ ý.
+'cuộn cổ tay' một cách có chủ ý.
 
 > *\"Topspin không đến từ cổ tay --- nó đến từ toàn bộ chuỗi động học và
 > góc mặt vợt.\"*
@@ -326,8 +326,8 @@ racket đi qua bóng. Cẳng tay dần chuyển về trạng thái trung lập t
 quá trình tiếp xúc.
 
 Khác với forehand, backhand một tay nhấn mạnh extension (duỗi) hơn là
-rotational release. Hãy nghĩ: \'bàn tay dẫn, cánh tay duỗi, vai theo
-sau\'.
+rotational release. Hãy nghĩ: 'bàn tay dẫn, cánh tay duỗi, vai theo
+sau'.
 
 > **HLV:** *Bí mật của backhand một tay là giai đoạn preparation. 80%
 > chất lượng cú đánh được quyết định trong backswing --- không phải
@@ -471,10 +471,10 @@ sau, nhìn lên về phía bóng tung, cằm nhẹ hướng lên hoặc về ph�
 bóng.
 
 Điều này: giúp cân bằng trong khi đánh lên, theo dõi bóng tốt hơn, hỗ
-trợ tư thế \'arch\' (cung lưng) đúng của thân trên, và ngăn đầu gục sớm.
+trợ tư thế 'arch' (cung lưng) đúng của thân trên, và ngăn đầu gục sớm.
 
 > **HLV:** *Một lỗi phổ biến: tung bóng lên rồi ngay lập tức cúi đầu
-> xuống \'để nhìn cú đánh\'. Điều này giết chết serve. Hãy giữ đầu ổn
+> xuống 'để nhìn cú đánh'. Điều này giết chết serve. Hãy giữ đầu ổn
 > định như camera trên tripod --- có thể ngả nhẹ ra sau để theo dõi bóng
 > nhưng không dao động hay lao về phía trước khi đánh.*
 
@@ -485,7 +485,7 @@ mạnh khi cánh tay xoay bạo lực lên trên, trong khi cẳng tay pronate
 theo.
 
 Điều này: tạo ra tốc độ vợt khổng lồ, bảo vệ cánh tay, và giúp tạo xoáy.
-Đừng cố tình \'snap\' cổ tay --- để pronation xuất hiện từ relaxation.
+Đừng cố tình 'snap' cổ tay --- để pronation xuất hiện từ relaxation.
 
 > *\"Serve không phải là cú đánh --- đó là cú ném lên trên với vợt.\"*
 
@@ -539,13 +539,13 @@ hơn. Đừng ép buộc snap cổ tay. Để pronation xảy ra tự nhiên t�
 
 - Mở mặt vợt quá sớm --- mất tốc độ vợt
 
-**5.7 Cảm Giác Elite: \'Ném Vợt Lên Núi\'**
+**5.7 Cảm Giác Elite: 'Ném Vợt Lên Núi'**
 
 Nhiều server đỉnh cao cảm nhận: vợt leo lên trên, cơ thể phóng lên trên,
 cánh tay whip lên trên. Điều này tạo ra: spin nặng, pace nhẹ nhàng và cơ
 học vai an toàn hơn.
 
-> *\"Server giỏi nhất không \'cơ bắp\' bóng. Họ tạo căng giãn, elastic
+> *\"Server giỏi nhất không 'cơ bắp' bóng. Họ tạo căng giãn, elastic
 > whip, rotational acceleration và chuyển động nổ lực thư giãn.\"*
 
 **5.8 Chiến Thuật Sử Dụng Kick Serve**
@@ -662,8 +662,8 @@ cũng vô dụng nếu bạn không thể đặt mình vào vị trí đúng đ�
 **7.1 Forward Momentum --- Động Lực Tiến Về Phía Trước**
 
 Forward momentum trong tennis là khả năng di chuyển năng lượng cơ thể
-qua cú đánh và vào sân một cách hiệu quả. Không chỉ đơn giản là \'chạy
-về phía trước\' --- đó là một chuỗi phối hợp bao gồm: hướng bàn chân,
+qua cú đánh và vào sân một cách hiệu quả. Không chỉ đơn giản là 'chạy
+về phía trước' --- đó là một chuỗi phối hợp bao gồm: hướng bàn chân,
 truyền trọng lượng, phản lực từ đất, căn chỉnh hông và thân người, thời
 điểm, cân bằng và chủ đích.
 
@@ -888,7 +888,7 @@ Người chơi được dạy cạnh tranh cho mọi điểm, ngay cả trong t�
 
 Các HLV Tây Ban Nha tập trung ít hơn vào cú đánh hoa mỹ và nhiều hơn
 vào: xây dựng điểm kiên nhẫn, khai thác điểm yếu, thích nghi với mặt
-sân, hiểu momentum trận đấu. Người chơi học cách \'xây dựng\' điểm thay
+sân, hiểu momentum trận đấu. Người chơi học cách 'xây dựng' điểm thay
 vì kết thúc rally nhanh.
 
 **10.4 Cơ Học Topspin Nặng**
@@ -949,8 +949,8 @@ Nguyên tắc vàng đầu tiên: bạn chỉ có thể kiểm soát điểm TI�
 phải điểm vừa rồi, không phải set score, không phải những gì đối thủ
 đang làm. Chỉ có điểm tiếp theo.
 
-> **HLV:** *Tôi luôn hỏi vận động viên: \'Bạn đang chơi điểm tiếp theo
-> hay điểm vừa rồi?\' Đây là câu hỏi đơn giản nhưng phân biệt những
+> **HLV:** *Tôi luôn hỏi vận động viên: 'Bạn đang chơi điểm tiếp theo
+> hay điểm vừa rồi?' Đây là câu hỏi đơn giản nhưng phân biệt những
 > người thắng với những người thua khi điểm số sít sao.*
 
 **11.2 Routine Giữa Điểm**
@@ -989,8 +989,8 @@ Thua là không thể tránh khỏi --- ngay cả Federer, Nadal và Djokovic đ
 thua nhiều lần. Điều quan trọng không phải là không thua --- mà là học
 được gì từ mỗi lần thua.
 
-> *\"Federer nói: \'Tôi không bao giờ bỏ cuộc, ngay cả khi tôi thua. Đó
-> không phải là phong cách của tôi.\'\"*
+> *\"Federer nói: 'Tôi không bao giờ bỏ cuộc, ngay cả khi tôi thua. Đó
+> không phải là phong cách của tôi.'\"*
 
 **CHƯƠNG 12**
 
@@ -1229,7 +1229,7 @@ một người ở baseline, partner ở service box. Khi cả hai ở baseline 
 transition vào lưới cùng nhau. Khi một người lên lưới --- partner theo
 sau.
 
-**16.2 Net Player\'s Role**
+**16.2 Net Player's Role**
 
 Net player trong doubles: poach aggressively, intercept cross-court
 shots, cover center, create psychological pressure. Đứng im tại lưới là
@@ -1242,7 +1242,7 @@ lãng phí vị trí.
 **16.3 Serve Doubles**
 
 Trong doubles: serve thường nhắm vào T hoặc body của receiver để hạn chế
-góc return. Server\'s partner đứng gần lưới, di chuyển theo bóng.
+góc return. Server's partner đứng gần lưới, di chuyển theo bóng.
 
 **16.4 Return Doubles**
 
@@ -1251,8 +1251,8 @@ lob qua net player. Tránh đánh thẳng vào net player.
 
 **16.5 Communication**
 
-Communication là linh hồn của doubles tốt: gọi bóng (\'mine!\' hay
-\'yours!\'), tín hiệu cho poach, encourage partner, discuss strategy
+Communication là linh hồn của doubles tốt: gọi bóng ('mine!' hay
+'yours!'), tín hiệu cho poach, encourage partner, discuss strategy
 giữa điểm.
 
 > *\"Doubles tốt là khi hai người chơi như một.\"*

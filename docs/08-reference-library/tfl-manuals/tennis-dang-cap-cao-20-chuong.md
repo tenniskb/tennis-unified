@@ -54,8 +54,8 @@ aerobic cho vận động viên 5.0*
 
 ## 1.1 Tại Sao Tim Mạch Là Nền Tảng Của Mọi Kỹ Thuật
 
-Trong thế giới tennis chuyên nghiệp, câu nói \'Fitness wins matches\'
-không bao giờ lỗi thời. Nhưng với vận động viên 5.0, \'fitness\' không
+Trong thế giới tennis chuyên nghiệp, câu nói 'Fitness wins matches'
+không bao giờ lỗi thời. Nhưng với vận động viên 5.0, 'fitness' không
 chỉ đơn giản là không mệt --- mà là khả năng duy trì tốc độ phản ứng, độ
 chính xác và tư duy chiến thuật qua từng set, từng game, từng điểm đấu
 cuối cùng trong trận đấu 3 tiếng đồng hồ.
@@ -104,13 +104,13 @@ họ dao động từ 50 đến 65 ml/kg/phút --- thấp hơn đáng kể so v�
 động viên marathon hay xe đạp đỉnh cao.
 
 Điều này không có nghĩa là tennis kém đòi hỏi về tim mạch. Ngược lại,
-tennis đòi hỏi một loại \'trí tuệ tim mạch\' khác: khả năng phục hồi
+tennis đòi hỏi một loại 'trí tuệ tim mạch' khác: khả năng phục hồi
 nhanh sau những đợt burst cường độ cao, khả năng duy trì nhịp tim ổn
 định trong trạng thái căng thẳng tâm lý, và khả năng kiểm soát nhịp tim
 một cách có ý thức giữa các điểm đấu.
 
 Đối với vận động viên 5.0, mục tiêu không phải là đạt VO2 max cao nhất
-có thể, mà là tối ưu hóa \'cardiac efficiency\' --- hiệu suất tim mạch.
+có thể, mà là tối ưu hóa 'cardiac efficiency' --- hiệu suất tim mạch.
 Điều này có nghĩa là cùng một nhịp tim, cơ thể tống ra nhiều oxy hơn cho
 cơ bắp hoạt động. Đây là điểm phân biệt vận động viên bền bỉ qua 3 set
 và người kiệt sức ở cuối set thứ 2.
@@ -151,7 +151,7 @@ Zone 1 (50-60% nhịp tim tối đa) là vùng phục hồi tích cực, lý tư
 ngày sau trận đấu căng thẳng. Zone 2 (60-70%) là vùng aerobic cơ bản,
 xây dựng nền tảng sức bền và hiệu quả đốt mỡ --- đây là zone bị bỏ qua
 nhiều nhất nhưng lại quan trọng nhất trong dài hạn. Zone 3 (70-80%) là
-vùng \'comfortably hard\', nơi VO2 max được cải thiện dần dần. Zone 4
+vùng 'comfortably hard', nơi VO2 max được cải thiện dần dần. Zone 4
 (80-90%) là ngưỡng lactate, nơi cơ thể bắt đầu sản xuất lactic acid
 nhanh hơn khả năng xử lý. Zone 5 (90-100%) là vùng anaerobic tối đa, chỉ
 duy trì được trong vài giây.
@@ -322,9 +322,9 @@ bắt đầu từ tiếp xúc chân-đất (ground reaction force), qua cẳng c
 core. Những vận động viên dùng tay quá nhiều trong cú đánh thường bị
 chấn thương khuỷu tay và cổ tay, đồng thời không bao giờ phát huy được
 hết tiềm năng power. Vận động viên đẳng cấp cao sử dụng tay chỉ như
-\'roi\' để chuyển năng lượng từ core ra bóng.
+'roi' để chuyển năng lượng từ core ra bóng.
 
-Một \'rò rỉ\' tại bất kỳ điểm nào trong chuỗi động học sẽ làm giảm đáng
+Một 'rò rỉ' tại bất kỳ điểm nào trong chuỗi động học sẽ làm giảm đáng
 kể lực tổng hợp. Rò rỉ phổ biến nhất ở vận động viên 5.0 là: yếu core,
 hông cứng, đặt chân sai vị trí, và timing không chính xác giữa rotation
 hông và vai.
@@ -338,7 +338,7 @@ hông và vai.
 
 Plyometrics --- rèn luyện sức mạnh bùng nổ --- là phương pháp tập luyện
 hiệu quả nhất để phát triển power cho vận động viên tennis. Nguyên lý cơ
-bản là khai thác \'stretch-shortening cycle\' (SSC): cơ bắp được kéo
+bản là khai thác 'stretch-shortening cycle' (SSC): cơ bắp được kéo
 giãn nhanh (eccentric phase) trước khi co lại bùng nổ (concentric
 phase), giống như dây thun kéo căng trước khi thả.
 
@@ -359,28 +359,28 @@ chấn thương.
 
 Trước khi phát triển power, vận động viên cần có strength --- sức mạnh
 nền tảng. Đây là điều mà nhiều vận động viên tennis 5.0 bỏ qua vì họ
-nghĩ gym training sẽ làm họ \'nặng nề\' hơn. Quan niệm sai lầm này đã
+nghĩ gym training sẽ làm họ 'nặng nề' hơn. Quan niệm sai lầm này đã
 cản trở sự phát triển của vô số vận động viên tài năng.
 
 Thực tế, chương trình strength training đúng đắn không làm vận động viên
 tennis to cơ hay chậm đi --- ngược lại, nó tạo ra nền tảng để hệ thần
 kinh kích hoạt cơ nhanh hơn và mạnh hơn. Đây là khái niệm
-\'neuromuscular efficiency\' --- không phải cơ to mà là cơ \'thông
-minh\'.
+'neuromuscular efficiency' --- không phải cơ to mà là cơ 'thông
+minh'.
 
 Những bài tập strength cốt lõi cho tennis 5.0 bao gồm: Romanian Deadlift
 (phát triển posterior chain --- chuỗi cơ phía sau cơ thể --- cực kỳ quan
 trọng cho tốc độ di chuyển và phòng ngừa chấn thương lưng), Split Squat
 và Single-leg Squat (phát triển sức mạnh đơn chân thực tế vì tennis luôn
 đặt trọng lực lên một chân), Cable rotation exercises (mô phỏng chính
-xác cơ học của cú đánh tennis), và Farmer\'s Walk với nhiều biến thể
+xác cơ học của cú đánh tennis), và Farmer's Walk với nhiều biến thể
 (phát triển sức mạnh toàn thân và khả năng chịu tải).
 
 ## 2.5 Core Stability: Trung Tâm Quyền Lực
 
-Trong tennis, \'core\' không chỉ là bụng 6 múi. Core bao gồm toàn bộ hệ
+Trong tennis, 'core' không chỉ là bụng 6 múi. Core bao gồm toàn bộ hệ
 thống cơ từ đáy chậu lên đến cơ hoành, từ cơ bụng sâu (transverse
-abdominis) đến cơ dựng lưng và cơ chéo. Đây là \'trung tâm quyền lực\'
+abdominis) đến cơ dựng lưng và cơ chéo. Đây là 'trung tâm quyền lực'
 --- power station --- của mọi cú đánh.
 
 Core yếu là nguyên nhân số 1 của rò rỉ kinetic chain ở vận động viên
@@ -404,8 +404,8 @@ throws, Landmine exercises.
 
 Nghiên cứu so sánh cấu trúc cơ thể của vận động viên tennis với vận động
 viên gym thuần túy cho thấy những kết quả thú vị. Vận động viên tennis
-có xu hướng phát triển cơ bắp \'functional\' --- cơ bắp hoạt động tốt
-trong context thực tế --- thay vì cơ bắp \'isolated\' như khi tập từng
+có xu hướng phát triển cơ bắp 'functional' --- cơ bắp hoạt động tốt
+trong context thực tế --- thay vì cơ bắp 'isolated' như khi tập từng
 nhóm cơ riêng lẻ trong phòng gym.
 
 Tennis đòi hỏi cơ thể tích hợp chuyển động --- toàn bộ cơ thể hoạt động
@@ -448,7 +448,7 @@ hồi.
 
 Giai đoạn Hypertrophy (Off-season, 4-6 tuần): Số lần lặp cao (12-15
 reps), trọng lượng vừa (65-75% 1RM), nghỉ ngắn (60-90 giây). Mục tiêu:
-tăng thể tích cơ như \'nguyên liệu thô\' cho power.
+tăng thể tích cơ như 'nguyên liệu thô' cho power.
 
 Giai đoạn Strength (Pre-season, 4-6 tuần): Số lần lặp trung bình (5-8
 reps), trọng lượng cao (80-90% 1RM), nghỉ dài (2-3 phút). Mục tiêu: phát
@@ -470,7 +470,7 @@ km/h. Vận động viên chỉ có khoảng 0.6 giây để quyết định, di
 up và thực hiện cú đánh.
 
 Rèn luyện hệ thần kinh để tốc độ phản ứng và quyết định nhanh hơn là một
-trong những \'secret weapon\' của các HLV đẳng cấp cao. Phương pháp được
+trong những 'secret weapon' của các HLV đẳng cấp cao. Phương pháp được
 chứng minh hiệu quả bao gồm: Reaction ball training (bóng phản xạ),
 visual training drills, shadow footwork với cue ngẫu nhiên, và contrast
 method (xen kẽ bài tập nặng và bài tập bùng nổ trong cùng một session).
@@ -478,8 +478,8 @@ method (xen kẽ bài tập nặng và bài tập bùng nổ trong cùng một s
 ## 2.10 Tích Hợp Sức Mạnh Vào Kỹ Thuật Tennis
 
 Bước cuối cùng và quan trọng nhất: tích hợp sức mạnh đã phát triển trong
-phòng gym vào kỹ thuật tennis thực tế. Đây là giai đoạn \'transfer
-training\' và nhiều HLV bỏ qua bước này, khiến vận động viên mạnh trong
+phòng gym vào kỹ thuật tennis thực tế. Đây là giai đoạn 'transfer
+training' và nhiều HLV bỏ qua bước này, khiến vận động viên mạnh trong
 gym nhưng không mạnh trên sân.
 
 Nguyên tắc specificity: huấn luyện phải càng gần với điều kiện thi đấu
@@ -487,7 +487,7 @@ thực tế càng tốt. Điều này có nghĩa là tập sức mạnh cuối c
 thực hiện với vợt, với bóng, trên sân, ở tốc độ và cường độ thi đấu
 thực.
 
-Drill \'Heavy-Light Complex\': thực hiện 3 rep Romanian Deadlift với
+Drill 'Heavy-Light Complex': thực hiện 3 rep Romanian Deadlift với
 trọng lượng nặng, ngay lập tức ra sân thực hiện 10 cú forehand với
 maximum effort. Cơ thể sẽ kích hoạt nhiều sợi cơ nhanh hơn bình thường
 trong trạng thái PAP (Post-Activation Potentiation), tạo ra cú đánh mạnh
@@ -515,8 +515,8 @@ trong tennis 5.0*
 
 ## 3.1 Tại Sao Footwork Là Kỹ Thuật Quan Trọng Nhất
 
-Hỏi bất kỳ huấn luyện viên tennis hàng đầu thế giới: \'Kỹ năng nào quan
-trọng nhất ở cấp độ elite?\' --- câu trả lời gần như luôn luôn là
+Hỏi bất kỳ huấn luyện viên tennis hàng đầu thế giới: 'Kỹ năng nào quan
+trọng nhất ở cấp độ elite?' --- câu trả lời gần như luôn luôn là
 footwork. Không phải forehand, không phải serve, không phải volleys ---
 mà là footwork. Lý do đơn giản: bạn không thể đánh bóng tốt nếu không ở
 đúng vị trí.
@@ -627,7 +627,7 @@ Yếu tố thứ 4 phụ thuộc vào training và genetics.
 Bài tập phát triển first step: Resistance band sprints (dây kháng lực
 buộc ở hông), overspeed running với dây đẩy nhẹ, và đặc biệt là contrast
 method --- xen kẽ resistance band sprint và free sprint, não bộ học
-\'feel\' của bước đầu nhanh hơn.
+'feel' của bước đầu nhanh hơn.
 
 > **\[BENCHMARK 5.0\]** *Quay video 240fps góc bên và đo thời gian từ
 > khi bóng rời vợt đối thủ đến khi vận động viên bắt đầu di chuyển. Con
@@ -642,13 +642,13 @@ giảm hiệu quả của lateral movement và crossover step, đồng thời t�
 gánh nặng lên gối và lưng dưới.
 
 Chương trình hip mobility hàng ngày cho tennis (20 phút/ngày): Hip
-flexor stretching (world\'s greatest stretch), Hip rotation drills
+flexor stretching (world's greatest stretch), Hip rotation drills
 (90/90 stretch), Lateral band walks, Cossack squats, và Pigeon pose. Kết
 quả thường thấy rõ sau 4-6 tuần: tầm vươn rộng hơn, di chuyển mượt mà
 hơn và ít đau lưng hơn.
 
 Ngoài flexibility, hip strength là yếu tố không kém quan trọng. Cơ
-abductor (cơ khép đùi ngoài) yếu dẫn đến \'knee valgus\' --- đầu gối đổ
+abductor (cơ khép đùi ngoài) yếu dẫn đến 'knee valgus' --- đầu gối đổ
 vào trong khi decelerate --- tăng nguy cơ ACL injury đáng kể. Lateral
 band walks và single-leg exercises là những bài tập thiết yếu cho sức
 mạnh hông theo phương ngang.
@@ -677,11 +677,11 @@ Học từ những bậc thầy luôn là cách hiệu quả nhất. Phân tích
 các huyền thoại tennis cung cấp những bài học vô giá cho cả huấn luyện
 viên và vận động viên.
 
-Roger Federer nổi tiếng với \'gliding footwork\' --- di chuyển mượt mà
+Roger Federer nổi tiếng với 'gliding footwork' --- di chuyển mượt mà
 đến mức dường như không cần nỗ lực. Bí mật là khả năng prediction cực
 tốt và split step timing hoàn hảo, cho phép anh luôn ở đúng vị trí trước
 khi bóng đến. Rafael Nadal có footwork năng động, tích cực nhất trong
-lịch sử --- \'Octopus footwork\' mà anh sử dụng để cover wide balls với
+lịch sử --- 'Octopus footwork' mà anh sử dụng để cover wide balls với
 stance cực rộng đòi hỏi hip flexibility và inner thigh strength phi
 thường.
 
@@ -708,8 +708,8 @@ pattern --- không đứng yên chờ bóng vì đó là thói quen nguy hiểm.
 Sau 12 tuần áp dụng chương trình này, benchmark thành công cho vận động
 viên 5.0 bao gồm: Cải thiện 15-20% trong Reactive Agility Test, Giảm số
 lần đánh bóng ở tư thế mất balance xuống dưới 10% tổng số cú đánh, và
-phản hồi chủ quan của vận động viên rằng họ \'luôn cảm thấy có thêm thời
-gian\' trên sân --- dấu hiệu rõ nhất của footwork xuất sắc.
+phản hồi chủ quan của vận động viên rằng họ 'luôn cảm thấy có thêm thời
+gian' trên sân --- dấu hiệu rõ nhất của footwork xuất sắc.
 
 ────────────────────────────────────────────────────────────
 
@@ -736,12 +736,12 @@ của trận đấu.
 
 Trong các điểm đấu cường độ cao, cơ thể chủ yếu đốt glycogen
 (carbohydrate đã dự trữ trong cơ và gan). Giữa các điểm, trong thời gian
-đổi sân và nghỉ, cơ thể chuyển sang đốt mỡ để \'tiết kiệm\' glycogen.
+đổi sân và nghỉ, cơ thể chuyển sang đốt mỡ để 'tiết kiệm' glycogen.
 Đây là lý do tại sao cả carbohydrate lẫn chất béo đều quan trọng trong
 dinh dưỡng tennis --- không phải chỉ một trong hai.
 
 Khi glycogen cạn kiệt (thường xảy ra sau 60-90 phút chơi cường độ cao mà
-không nạp lại), cơ thể bước vào trạng thái \'hitting the wall\' --- hiệu
+không nạp lại), cơ thể bước vào trạng thái 'hitting the wall' --- hiệu
 suất giảm đột ngột, quyết định chậm, kỹ thuật sụp đổ. Đây là lý do tại
 sao fueling strategy trước và trong trận đấu là chiến thuật thi đấu,
 không chỉ là vấn đề sức khỏe.
@@ -767,7 +767,7 @@ tập nặng và sau chấn thương. Phân phối protein đều trong ngày (4
 25-40g/bữa) hiệu quả hơn nhiều so với ăn nhiều protein trong một bữa.
 
 > **\[TIMING DINH DƯỠNG\]** *Nguyên tắc vàng: ăn protein trong vòng 30
-> phút sau mỗi buổi tập nặng. Đây là \'anabolic window\' --- cửa sổ đồng
+> phút sau mỗi buổi tập nặng. Đây là 'anabolic window' --- cửa sổ đồng
 > hóa --- khi cơ bắp hấp thụ amino acids hiệu quả nhất. Whey protein
 > shake với chuối là lựa chọn nhanh, tiện lợi và hiệu quả.*
 
@@ -822,7 +822,7 @@ gây đầy bụng. Gel năng lượng (energy gels) là lựa chọn hiện đ�
 theo và tiêu hóa nhanh trong 10-15 phút.
 
 Quan trọng: hãy luyện tập in-match fueling trong các buổi tập và giải
-nhỏ trước khi áp dụng trong giải đấu quan trọng. Dạ dày cần được \'tập\'
+nhỏ trước khi áp dụng trong giải đấu quan trọng. Dạ dày cần được 'tập'
 để hấp thụ thức ăn trong khi hoạt động --- điều này không phải tự nhiên
 với mọi người.
 
@@ -859,8 +859,8 @@ dịch.
 
 Supplement chưa đủ bằng chứng hoặc không hiệu quả cho tennis: hầu hết
 amino acid supplement (nếu ăn đủ protein từ thực phẩm), hầu hết
-\'pre-workout\' thương mại (chỉ là caffeine + các thành phần không cần
-thiết với giá cao), và phần lớn \'fat burners\' trên thị trường.
+'pre-workout' thương mại (chỉ là caffeine + các thành phần không cần
+thiết với giá cao), và phần lớn 'fat burners' trên thị trường.
 
 > **\[CẢNH BÁO DOPING\]** *Luôn kiểm tra supplement trên trang NSF
 > Certified for Sport hoặc Informed Sport trước khi khuyến nghị vận động
@@ -874,7 +874,7 @@ Giải đấu kéo dài 3-7 ngày với có thể 1-2 trận/ngày đặt ra th�
 dinh dưỡng đặc biệt: phục hồi nhanh giữa các trận, duy trì năng lượng
 qua nhiều ngày, và quản lý căng thẳng tiêu hóa.
 
-Chiến lược \'tournament nutrition\': ăn đơn giản và nhất quán. Đây không
+Chiến lược 'tournament nutrition': ăn đơn giản và nhất quán. Đây không
 phải thời điểm để thử thực phẩm mới. Stick với những gì đã hoạt động tốt
 trong tập luyện. Ưu tiên thực phẩm dễ tiêu hóa, ít gây đầy hơi, và nhanh
 nạp năng lượng.
@@ -943,7 +943,7 @@ thích nghi. Quá trình thích nghi thực sự xảy ra khi bạn nghỉ, đ�
 là khi ngủ.
 
 Supercompensation là nguyên lý cơ bản: sau một stimulus (buổi tập), cơ
-thể không chỉ phục hồi về trạng thái cũ mà còn \'over-recover\' --- phục
+thể không chỉ phục hồi về trạng thái cũ mà còn 'over-recover' --- phục
 hồi lên một mức cao hơn để chuẩn bị cho stress tiếp theo. Đây là cơ sở
 của mọi sự cải thiện thể thao. Nhưng nếu stimulus tiếp theo đến quá sớm
 --- trước khi supercompensation hoàn thành --- cơ thể không kịp phục hồi
@@ -962,10 +962,10 @@ không phải ngẫu nhiên --- đây là sự đầu tư có ý thức vào rec
 mạnh mẽ nhất mà con người có.
 
 Trong giấc ngủ sâu (slow-wave sleep), cơ thể tiết hormone tăng trưởng
-(Growth Hormone) ở mức cao nhất trong ngày --- đây là \'xây dựng lại cơ
-bắp\' mode. Giấc ngủ REM phục hồi và củng cố trí nhớ vận động --- những
-kỹ năng kỹ thuật được \'file\' và củng cố trong giai đoạn này. Hệ miễn
-dịch được \'recharged\' trong khi ngủ, giải thích tại sao thiếu ngủ tăng
+(Growth Hormone) ở mức cao nhất trong ngày --- đây là 'xây dựng lại cơ
+bắp' mode. Giấc ngủ REM phục hồi và củng cố trí nhớ vận động --- những
+kỹ năng kỹ thuật được 'file' và củng cố trong giai đoạn này. Hệ miễn
+dịch được 'recharged' trong khi ngủ, giải thích tại sao thiếu ngủ tăng
 nguy cơ bệnh và chấn thương.
 
 Nghiên cứu tại Stanford trên vận động viên bóng rổ cho thấy: tăng thời
@@ -977,7 +977,7 @@ tập bổ sung nào tạo ra cải thiện tương đương.
 > **\[ĐẦU TƯ VÀO GIẤC NGỦ\]** *Mục tiêu tối thiểu: 8 giờ ngủ đêm + 20-30
 > phút nap trưa trong các ngày thi đấu. Nap trưa sau 1pm nên giới hạn 20
 > phút để tránh ảnh hưởng giấc ngủ đêm. Nhiều tay vợt chuyên nghiệp coi
-> nap là \'session thứ 3\' trong ngày tập luyện.*
+> nap là 'session thứ 3' trong ngày tập luyện.*
 
 ## 5.3 Tối Ưu Hóa Môi Trường Giấc Ngủ
 
@@ -1043,14 +1043,14 @@ là biết lên lịch thông minh --- biết khi nào push, khi nào pull back.
 Quy tắc 3:1 --- 3 tuần tăng tải, 1 tuần deload --- là framework phổ biến
 và hiệu quả. Trong tuần deload, giảm volume 40-60% nhưng duy trì cường
 độ. Ví dụ: nếu bình thường tập 5 buổi/tuần × 2 giờ/buổi = 10 giờ, tuần
-deload tập 3 buổi × 1.5 giờ = 4.5 giờ. Cảm giác \'fresh\' sau tuần
+deload tập 3 buổi × 1.5 giờ = 4.5 giờ. Cảm giác 'fresh' sau tuần
 deload không phải laziness --- đó là cơ thể đã được phục hồi và sẵn sàng
 cho giai đoạn tiếp theo.
 
 Trước giải đấu quan trọng: taper (giảm tải) 7-14 ngày trước. Giảm volume
-40-60% nhưng duy trì một số sessions cường độ cao ngắn để \'nhắc nhở\'
-cơ thể thi đấu. Nhiều vận động viên sợ taper vì cảm thấy \'không tập
-đủ\' --- nhưng nghiên cứu nhất quán cho thấy taper cải thiện hiệu suất
+40-60% nhưng duy trì một số sessions cường độ cao ngắn để 'nhắc nhở'
+cơ thể thi đấu. Nhiều vận động viên sợ taper vì cảm thấy 'không tập
+đủ' --- nhưng nghiên cứu nhất quán cho thấy taper cải thiện hiệu suất
 thi đấu 2-3%.
 
 ## 5.7 Phục Hồi Tâm Lý: Không Chỉ Là Cơ Thể
@@ -1063,7 +1063,7 @@ hồi không kém gì cơ bắp.
 
 Dấu hiệu mental fatigue: khó tập trung trong tập luyện, quyết định chiến
 thuật chậm, mất motivation, dễ nổi cáu, và cảm giác mệt mỏi dù thể xác
-đã nghỉ đủ. Đây là tín hiệu cần \'mental rest day\' --- một ngày không
+đã nghỉ đủ. Đây là tín hiệu cần 'mental rest day' --- một ngày không
 nghĩ về tennis, không xem match analysis, và làm những thứ hoàn toàn
 khác.
 
@@ -1076,7 +1076,7 @@ nature exposure (đi bộ trong thiên nhiên có tác dụng phục hồi tâm 
 
 ## 5.8 Monitoring Recovery: Khi Nào Tập, Khi Nào Nghỉ
 
-Việc quyết định có nên tập hay không dựa trên \'cảm giác\' là không đủ ở
+Việc quyết định có nên tập hay không dựa trên 'cảm giác' là không đủ ở
 cấp độ 5.0. Cần các chỉ số khách quan để đưa ra quyết định dựa trên dữ
 liệu.
 
@@ -1118,17 +1118,17 @@ khi clearance. Trở lại quá sớm là nguyên nhân số 1 của tái chấn
 ## 5.10 Xây Dựng Văn Hóa Phục Hồi Trong Nhóm Vận Động Viên
 
 Phục hồi không chỉ là việc cá nhân --- đó là văn hóa mà huấn luyện viên
-cần xây dựng. Nhiều vận động viên cảm thấy \'nghỉ ngơi là yếu đuối\'
+cần xây dựng. Nhiều vận động viên cảm thấy 'nghỉ ngơi là yếu đuối'
 hoặc cạnh tranh không lành mạnh về việc ai tập nhiều hơn. Đây là văn hóa
 nguy hiểm cần thay đổi.
 
 Như một huấn luyện viên, hãy normalize việc nghỉ ngơi và phục hồi bằng
 cách: ghi nhận và khen ngợi khi vận động viên tuân thủ recovery
 protocol, chia sẻ khoa học về supercompensation với nhóm, và thường
-xuyên nhắc nhở rằng \'rest is part of the training, not the absence of
-it\'.
+xuyên nhắc nhở rằng 'rest is part of the training, not the absence of
+it'.
 
-Tạo \'recovery culture checklist\' cho nhóm: bao gồm hydration protocol,
+Tạo 'recovery culture checklist' cho nhóm: bao gồm hydration protocol,
 post-practice nutrition, sleep hygiene, và stretching routine. Khi cả
 nhóm áp dụng nhất quán, peer accountability sẽ đảm bảo mọi người thực
 hiện --- không cần huấn luyện viên phải nhắc nhở liên tục.
@@ -1151,8 +1151,8 @@ tennis 5.0*
 ## 6.1 Tennis Là Môn Thể Thao Của Tâm Trí
 
 Jim Loehr, nhà tâm lý học thể thao hàng đầu thế giới và người đã làm
-việc với hàng trăm tay vợt chuyên nghiệp, từng nói: \'Tennis là môn thể
-thao mà tâm trí quyết định đến 70% kết quả.\' Ở cấp độ 5.0, nơi kỹ thuật
+việc với hàng trăm tay vợt chuyên nghiệp, từng nói: 'Tennis là môn thể
+thao mà tâm trí quyết định đến 70% kết quả.' Ở cấp độ 5.0, nơi kỹ thuật
 và thể lực của các đối thủ gần ngang nhau, tâm lý trở thành yếu tố phân
 biệt quyết định nhất.
 
@@ -1171,15 +1171,15 @@ không được rèn luyện đúng cách.
 
 ## 6.2 The Performance Equation: Hiệu Suất = Tiềm Năng - Nhiễu Loạn
 
-Timothy Gallwey, tác giả của \'The Inner Game of Tennis\', đã đưa ra một
+Timothy Gallwey, tác giả của 'The Inner Game of Tennis', đã đưa ra một
 công thức đơn giản nhưng sâu sắc: Hiệu suất = Tiềm năng - Nhiễu Loạn
 (Interference). Tiềm năng là tất cả những gì bạn có thể làm trong điều
 kiện lý tưởng. Nhiễu loạn là tất cả những gì ngăn cản bạn thể hiện tiềm
 năng đó --- lo lắng, tự phê phán, suy nghĩ quá mức, phán xét.
 
-Huấn luyện tâm lý không phải là \'thêm\' thứ gì vào vận động viên --- đó
+Huấn luyện tâm lý không phải là 'thêm' thứ gì vào vận động viên --- đó
 là loại bỏ những nhiễu loạn đang ngăn cản họ thể hiện những gì họ đã có.
-Khi một vận động viên 5.0 đột nhiên bắt đầu thi đấu \'trên tiềm năng\',
+Khi một vận động viên 5.0 đột nhiên bắt đầu thi đấu 'trên tiềm năng',
 điều đó thường có nghĩa là họ đã học cách giảm interference, không phải
 là kỹ thuật của họ đột ngột tốt hơn.
 
@@ -1207,7 +1207,7 @@ Giúp vận động viên xây dựng between-point ritual riêng: 15-20 giây s
 khi kết thúc điểm, vận động viên thực hiện một chuỗi hành động nhất quán
 --- quay lưng về đối thủ, nhìn xuống dây vợt, hít thở sâu, nói câu
 self-talk tích cực, nhìn lên và focus vào next ball. Ritual này tạo ra
-\'reset\' tâm lý sau mỗi điểm --- dù thắng hay thua.
+'reset' tâm lý sau mỗi điểm --- dù thắng hay thua.
 
 > **\[XÂY DỰNG RITUAL\]** *Dành 2 buổi tập chuyên biệt để vận động viên
 > thiết kế và luyện tập between-point ritual. Quan trọng: ritual phải
@@ -1222,16 +1222,16 @@ này có tác động trực tiếp đến hiệu suất. Nghiên cứu nhất q
 positive, instructional self-talk cải thiện hiệu suất; negative,
 evaluative self-talk làm giảm hiệu suất.
 
-Có ba loại self-talk chính. Motivational self-talk (\'Tôi có thể làm
-được!\', \'Tiếp tục đấu!\') tăng effort và persistence. Instructional
-self-talk (\'Tung bóng cao hơn\', \'Follow through\') hướng dẫn kỹ thuật
-trong điểm. Và đặc biệt, Process-focused self-talk (\'Tập trung vào
-bóng\', \'Một điểm một lần\') giữ sự chú ý ở present moment.
+Có ba loại self-talk chính. Motivational self-talk ('Tôi có thể làm
+được!', 'Tiếp tục đấu!') tăng effort và persistence. Instructional
+self-talk ('Tung bóng cao hơn', 'Follow through') hướng dẫn kỹ thuật
+trong điểm. Và đặc biệt, Process-focused self-talk ('Tập trung vào
+bóng', 'Một điểm một lần') giữ sự chú ý ở present moment.
 
-Kỹ thuật \'Stop-Replace\': khi vận động viên nhận ra negative self-talk
-(\'Tôi tệ quá!\'), ngay lập tức dừng lại bằng cách nói (hoặc nghĩ)
-\'Stop!\' và thay thế bằng neutral hoặc positive statement (\'Tôi sẽ
-đánh tốt hơn điểm tới\'). Kỹ thuật này cần được luyện tập trong tập
+Kỹ thuật 'Stop-Replace': khi vận động viên nhận ra negative self-talk
+('Tôi tệ quá!'), ngay lập tức dừng lại bằng cách nói (hoặc nghĩ)
+'Stop!' và thay thế bằng neutral hoặc positive statement ('Tôi sẽ
+đánh tốt hơn điểm tới'). Kỹ thuật này cần được luyện tập trong tập
 luyện trước khi có thể sử dụng hiệu quả trong thi đấu.
 
 ## 6.5 Arousal Management: Kiểm Soát Mức Kích Thích Tâm Lý
@@ -1241,16 +1241,16 @@ và hiệu suất: quá ít arousal = buồn ngủ, thiếu tập trung; quá nh
 arousal = lo lắng, mất kiểm soát; arousal tối ưu = peak performance. Cân
 bằng này thay đổi theo từng người và từng nhiệm vụ.
 
-Vận động viên 5.0 cần nhận biết \'individual optimal zone\' của mình ---
+Vận động viên 5.0 cần nhận biết 'individual optimal zone' của mình ---
 mức arousal nào giúp họ thi đấu tốt nhất. Một số người thi đấu tốt khi
-\'lạnh lùng\' và kiểm soát; số khác cần mức năng lượng cao. Không có
+'lạnh lùng' và kiểm soát; số khác cần mức năng lượng cao. Không có
 đúng hay sai --- chỉ có phù hợp hay không phù hợp.
 
 Kỹ thuật tăng arousal khi quá thụ động: music motivational, cues ngôn
 ngữ mạnh, di chuyển năng động hơn giữa các điểm. Kỹ thuật giảm arousal
 khi quá lo lắng: box breathing (hít vào 4s, giữ 4s, thở ra 4s, giữ 4s),
 body scan để nhận ra và thả lỏng cơ căng thẳng, và cue words bình tĩnh
-như \'relax\', \'slow down\', \'breath\'.
+như 'relax', 'slow down', 'breath'.
 
 ## 6.6 Focus Và Attention: Nghệ Thuật Hiện Diện
 
@@ -1260,16 +1260,16 @@ Tennis là trò chơi của sự chú ý. Vận động viên phải theo dõi b
 vài giây. Khả năng quản lý sự chú ý này là một kỹ năng có thể được huấn
 luyện.
 
-Nidffer\'s Model of Attentional Focus mo ta 4 loai focus: Broad-External
+Nidffer's Model of Attentional Focus mo ta 4 loai focus: Broad-External
 (doc toan canh tran dau), Narrow-External (focus vao bong dang den),
 Broad-Internal (phan tich chien thuat), Narrow-Internal (kiem soat cam
 xuc, ky thuat). Van dong vien elite co kha nang chuyen doi linh hoat
 giua cac loai focus nay theo yeu cau cua tung tinh huong.
 
-\'Watch the ball\' nghe có vẻ đơn giản nhưng thực ra cực kỳ phức tạp để
+'Watch the ball' nghe có vẻ đơn giản nhưng thực ra cực kỳ phức tạp để
 làm đúng. Vận động viên 5.0 cần xem cụ thể: spin của bóng khi rời vợt
 đối thủ, điểm bóng nảy trên sân, điểm tiếp xúc bóng-vợt của mình. Đây là
-\'tiêu chuẩn vàng\' của ball-watching và mức này cần được luyện tập
+'tiêu chuẩn vàng' của ball-watching và mức này cần được luyện tập
 thành phản xạ.
 
 ## 6.7 Xử Lý Áp Lực: Thi Đấu Tốt Nhất Ở Những Điểm Quan Trọng Nhất
@@ -1279,17 +1279,17 @@ lực tâm lý đặc biệt mà nhiều vận động viên không xử lý đ�
 chính là nơi mà sự chuẩn bị tâm lý tạo ra sự khác biệt lớn nhất.
 
 Vận động viên 5.0 thường có hai mô hình phản ứng dưới áp lực:
-\'choking\' (choke) --- thu mình lại, chơi safe, mắc nhiều unforced
-errors; hoặc \'clutch\' --- thực sự chơi tốt hơn dưới áp lực. Sự khác
+'choking' (choke) --- thu mình lại, chơi safe, mắc nhiều unforced
+errors; hoặc 'clutch' --- thực sự chơi tốt hơn dưới áp lực. Sự khác
 biệt nằm ở cognitive appraisal --- cách não bộ diễn giải tình huống áp
 lực.
 
-Reframing kỹ thuật: thay vì \'Đây là break point, nếu thua tôi thua
-game\', thay bằng \'Đây là cơ hội để break đối thủ --- đây là điểm quan
-trọng tôi đã tập luyện cho.\' Cùng một tình huống, hai cách diễn giải
+Reframing kỹ thuật: thay vì 'Đây là break point, nếu thua tôi thua
+game', thay bằng 'Đây là cơ hội để break đối thủ --- đây là điểm quan
+trọng tôi đã tập luyện cho.' Cùng một tình huống, hai cách diễn giải
 hoàn toàn khác nhau, tạo ra trạng thái tâm lý hoàn toàn khác nhau.
 
-## 6.8 Mental Toughness: Không Chỉ Là \'Cứng Đầu\'
+## 6.8 Mental Toughness: Không Chỉ Là 'Cứng Đầu'
 
 Mental toughness --- sức mạnh tâm lý --- không phải là không cảm thấy
 gì, không bao giờ tức giận, hay không bao giờ buồn khi thua. Đó là khả
@@ -1335,9 +1335,9 @@ practice weaknesses thay vì chỉ tập strengths. Và họ duy trì enjoyment
 với môn thể thao dù gặp khó khăn.
 
 Nhiệm vụ của huấn luyện viên: nuôi dưỡng growth mindset trong văn hóa
-training. Khen ngợi effort và learning, không chỉ kết quả. \'Cú đó bạn
-thử chiến thuật mới --- tốt lắm!\' quan trọng hơn \'Cú đó bạn win the
-point!\' Đây là sự thay đổi nhỏ trong ngôn ngữ nhưng có tác động lớn đến
+training. Khen ngợi effort và learning, không chỉ kết quả. 'Cú đó bạn
+thử chiến thuật mới --- tốt lắm!' quan trọng hơn 'Cú đó bạn win the
+point!' Đây là sự thay đổi nhỏ trong ngôn ngữ nhưng có tác động lớn đến
 cách vận động viên phát triển tư duy.
 
 ────────────────────────────────────────────────────────────
@@ -1363,15 +1363,15 @@ tục, cho đến khi đối thủ mắc lỗi hoặc một cơ hội thực s�
 tư duy xác suất --- một trong những thay đổi lớn nhất cần xảy ra trong
 đầu vận động viên khi tiến từ 4.5 lên 5.0.
 
-Ở cấp độ 5.0, cú đánh \'safe\' thực sự là tốt. Đánh vào giữa sân ở 70%
+Ở cấp độ 5.0, cú đánh 'safe' thực sự là tốt. Đánh vào giữa sân ở 70%
 tốc độ vào net 5 lần và thắng 4 điểm tốt hơn đánh đường line chết góc
-100% tốc độ vào net 5 lần và thắng 2 điểm --- dù cú thứ hai \'đẹp\' hơn
+100% tốc độ vào net 5 lần và thắng 2 điểm --- dù cú thứ hai 'đẹp' hơn
 nhiều. Toán học xác suất không quan tâm đến thẩm mỹ.
 
 Hai sai lầm phổ biến nhất ở cấp 5.0 về mặt chiến thuật: underestimating
 (chơi quá an toàn và chậm chạp đến mức không tạo áp lực cho đối thủ) và
 overestimating (cố gắng những cú đánh vượt quá khả năng nhất quán của
-mình). Tìm ra \'sweet spot\' cá nhân --- mức độ rủi ro/phần thưởng tối
+mình). Tìm ra 'sweet spot' cá nhân --- mức độ rủi ro/phần thưởng tối
 ưu của từng vận động viên --- là một phần quan trọng của coaching 5.0.
 
 ## 7.2 Pattern Play: Tạo Và Khai Thác Patterns
@@ -1383,18 +1383,18 @@ tình huống họ muốn.
 
 Pattern phổ biến và hiệu quả cho vận động viên 5.0 bên phải: Serve out
 wide vào tay thuận phải → forehand đánh chéo → tiến lên đánh approach
-vào backhand đối thủ → volley winner. Pattern này được gọi là \'S+1\'
+vào backhand đối thủ → volley winner. Pattern này được gọi là 'S+1'
 (Serve plus one) và là nền tảng của chiến thuật serve-and-volley hiện
 đại.
 
 Điều quan trọng về patterns: chúng phải được luyện tập đến mức tự động
 trong training để có thể sử dụng trong thi đấu. Một pattern chưa được
 tập luyện đủ sẽ không thể thực hiện dưới áp lực --- cơ thể và não bộ cần
-\'file\' pattern trước. Đây là lý do tại sao scenario drilling --- tập
+'file' pattern trước. Đây là lý do tại sao scenario drilling --- tập
 đặc biệt cho các tình huống cụ thể --- quan trọng hơn free hitting ở cấp
 độ 5.0.
 
-> **\[THIẾT KẾ PATTERNS\]** *Thiết kế \'3 Core Patterns\' riêng cho mỗi
+> **\[THIẾT KẾ PATTERNS\]** *Thiết kế '3 Core Patterns' riêng cho mỗi
 > vận động viên dựa trên strengths và tendencies của họ. Ví dụ: forehand
 > dominant player: Pattern 1: Serve Body → Open Court FH; Pattern 2: FH
 > Inside Out → BH Cross; Pattern 3: Short Ball → Approach BH → Volley.
@@ -1416,7 +1416,7 @@ lý áp lực như thế nào? Họ có tendencies rõ ràng nào (ví dụ: 80%
 đầu vào tay thuận)?
 
 Thông tin này được sử dụng để điều chỉnh game plan trong trận đấu. Đây
-không phải \'lý thuyết\' trên bảng --- đây là thông tin thời gian thực
+không phải 'lý thuyết' trên bảng --- đây là thông tin thời gian thực
 cần được xử lý và áp dụng ngay trong trận đấu.
 
 ## 7.4 Game Plan Development: Chuẩn Bị Trước Trận Đấu
@@ -1443,7 +1443,7 @@ Serve là cú đánh duy nhất trong tennis hoàn toàn do vận động viên 
 soát --- không có yếu tố đối thủ hay tình cờ. Điều này khiến nó trở
 thành công cụ chiến thuật cực kỳ mạnh mẽ nếu được sử dụng thông minh.
 
-Serve tactic không chỉ là \'đánh vào\' --- đó là về placement, spin,
+Serve tactic không chỉ là 'đánh vào' --- đó là về placement, spin,
 speed, và body reading kết hợp với nhau. Ở cấp 5.0, vận động viên cần 3
 loại serve khác nhau: Serve T (trung tâm), Serve Body (vào người), và
 Serve Wide (ra rộng). Kết hợp ba loại này với hai loại spin (flat và
@@ -1470,7 +1470,7 @@ spectacularity.
 
 Reading serve: học cách đọc body language của server trước khi bóng rời
 tay --- toss position, shoulder rotation, hip opening --- để predict
-hướng serve sớm hơn. Mỗi server có \'tells\' riêng và đây là thông tin
+hướng serve sớm hơn. Mỗi server có 'tells' riêng và đây là thông tin
 cực kỳ giá trị. Trong warm-up, chú ý đặc biệt vào correlation giữa body
 language và hướng serve.
 
@@ -1496,7 +1496,7 @@ it. Khi đang chạy wide, đang mất balance, hoặc bóng đến nhanh và lo
 
 ## 7.8 Net Game Trong Tennis Hiện Đại
 
-Nhiều người nghĩ net game đã \'chết\' trong tennis hiện đại vì baseline
+Nhiều người nghĩ net game đã 'chết' trong tennis hiện đại vì baseline
 game thống trị. Điều này không hoàn toàn đúng --- ở cấp 5.0, khả năng
 approach net đúng lúc và finish ở net vẫn là vũ khí chiến thuật quan
 trọng, đặc biệt khi đối thủ là baseliner thuần túy không thoải mái khi
@@ -1524,8 +1524,8 @@ dựng áp lực từ baseline.
 Đổi pattern khi đang thua không có nghĩa là panic --- đó là
 problem-solving. Vận động viên 5.0 cần hiểu sự khác biệt giữa hai điều
 này. Panic change là thay đổi vì cảm xúc --- không có plan rõ ràng.
-Strategic adjustment là thay đổi vì analysis --- \'chiến thuật X không
-hiệu quả với đối thủ này vì Y, vì vậy tôi sẽ thử chiến thuật Z\'.
+Strategic adjustment là thay đổi vì analysis --- 'chiến thuật X không
+hiệu quả với đối thủ này vì Y, vì vậy tôi sẽ thử chiến thuật Z'.
 
 ## 7.10 Phát Triển Tennis IQ
 
@@ -1543,7 +1543,7 @@ quyết định chiến thuật đúng và sai. Và đọc --- có nhiều tài 
 sắc về tennis tactics từ Vic Braden, Brad Gilbert và các chuyên gia
 khác.
 
-Như huấn luyện viên, hãy thường xuyên hỏi vận động viên \'Why?\' --- tại
+Như huấn luyện viên, hãy thường xuyên hỏi vận động viên 'Why?' --- tại
 sao bạn đánh cú đó? Tại sao bạn chọn hướng đó? Tư duy chiến thuật phát
 triển khi vận động viên phải articulate reasoning của mình, không chỉ
 thực hiện theo instruction.
@@ -1598,7 +1598,7 @@ ranh giới của khả năng hiện tại (không quá dễ, không quá khó),
 feedback ngay lập tức và cụ thể, và đòi hỏi sự chú ý tập trung hoàn toàn
 --- không thể thực hiện trong khi xem TV hay nói chuyện.
 
-Điều đáng lo ngại: phần lớn thời gian \'tập luyện\' của nhiều vận động
+Điều đáng lo ngại: phần lớn thời gian 'tập luyện' của nhiều vận động
 viên 5.0 không phải deliberate practice --- đó là enjoyable play. Chơi
 sets, đánh bóng vui, tán chuyện trên sân. Những điều này có giá trị
 nhưng không phải phương tiện nhanh nhất để cải thiện kỹ năng. Deliberate
@@ -1613,13 +1613,13 @@ hết mọi người tránh né.
 
 ## 8.3 Feedback: Loại Nào, Khi Nào, Bao Nhiêu
 
-Feedback là \'thức ăn\' của motor learning. Nhưng không phải tất cả
+Feedback là 'thức ăn' của motor learning. Nhưng không phải tất cả
 feedback đều giống nhau --- loại feedback, timing và frequency đều ảnh
 hưởng đến tốc độ học kỹ năng.
 
 Augmented feedback từ huấn luyện viên (verbal, video) khi cho nhiều quá
-thực ra làm chậm quá trình học dài hạn. Đây được gọi là \'guidance
-hypothesis\' --- khi vận động viên phụ thuộc vào feedback liên tục, họ
+thực ra làm chậm quá trình học dài hạn. Đây được gọi là 'guidance
+hypothesis' --- khi vận động viên phụ thuộc vào feedback liên tục, họ
 không phát triển khả năng tự đánh giá và điều chỉnh. Mục tiêu cuối cùng
 là intrinsic feedback --- tự cảm nhận đúng sai từ bên trong.
 
@@ -1641,7 +1641,7 @@ sang thi đấu) tốt hơn đáng kể trong dài hạn.
 
 Điều này phản trực giác nhưng đã được nghiên cứu xác nhận nhiều lần: khó
 khăn trong tập luyện (desirable difficulties) thực sự tạo ra học sâu
-hơn. Khi não bộ phải \'work harder\' để retrieve và áp dụng kỹ năng
+hơn. Khi não bộ phải 'work harder' để retrieve và áp dụng kỹ năng
 trong context khác nhau, nó lưu thông tin sâu hơn và có thể truy cập
 trong nhiều tình huống hơn.
 
@@ -1661,13 +1661,13 @@ tự tạo ra transfer tốt hơn.
 Cách tạo contextual interference trong tập luyện tennis: feed ngẫu nhiên
 thay vì feed pattern cố định, cho vận động viên đánh với đối tác có
 style khác nhau (topspin heavy, slice heavy, flat heavy), và đặc biệt là
-hạn chế sử dụng ball machine feed cố định --- nó tạo ra \'robot\'
+hạn chế sử dụng ball machine feed cố định --- nó tạo ra 'robot'
 tennis, không phải real tennis.
 
 Game-based practice là hình thức training phù hợp nhất với nguyên lý
 contextual interference: thay vì drill thuần túy, chơi points với điều
-kiện cụ thể (ví dụ: \'điểm bắt đầu bằng serve vào backhand, sau đó chơi
-tự do\'). Vận động viên phải apply kỹ năng trong context cạnh tranh
+kiện cụ thể (ví dụ: 'điểm bắt đầu bằng serve vào backhand, sau đó chơi
+tự do'). Vận động viên phải apply kỹ năng trong context cạnh tranh
 thực, tạo ra learning transfer xuất sắc hơn.
 
 ## 8.6 Mental Imagery Trong Học Kỹ Năng
@@ -1704,10 +1704,10 @@ chuyển sang variable. Game Application (30 phút) --- áp dụng kỹ năng v�
 tập vào point play với condition. Match Play (15 phút) --- free play để
 integrate. Cool-down (10 phút) --- static stretching + reflection.
 
-Mỗi buổi tập nên có một \'theme\' kỹ thuật rõ ràng. Đừng cố gắng cải
+Mỗi buổi tập nên có một 'theme' kỹ thuật rõ ràng. Đừng cố gắng cải
 thiện 5 thứ cùng một lúc --- focus beats multitasking trong motor
-learning. Sau session, hỏi vận động viên: \'Điều gì bạn chú ý nhất hôm
-nay? Bạn cải thiện được gì? Bạn cần tập thêm gì?\' --- reflection phát
+learning. Sau session, hỏi vận động viên: 'Điều gì bạn chú ý nhất hôm
+nay? Bạn cải thiện được gì? Bạn cần tập thêm gì?' --- reflection phát
 triển metacognition và tăng tốc learning.
 
 ## 8.8 Kỹ Năng Trong Điều Kiện Áp Lực: Training Under Pressure
@@ -1719,15 +1719,15 @@ intentionally tạo áp lực trong tập luyện.
 
 Cách tạo áp lực trong tập: competition với hậu quả thực (người thua làm
 điều gì đó, dù nhỏ --- mang thiết bị, làm push-ups, mua nước cho nhóm),
-time pressure (\'hoàn thành drill trong thời gian giới hạn\'), audience
-(\'biểu diễn trước nhóm\'), và đặc biệt là performance tracking công
+time pressure ('hoàn thành drill trong thời gian giới hạn'), audience
+('biểu diễn trước nhóm'), và đặc biệt là performance tracking công
 khai --- khi vận động viên biết kết quả được ghi lại, áp lực tăng tự
 nhiên.
 
 Nguyên lý specificity: train the way you compete. Nếu thi đấu luôn có
 score, tiếng ồn, đối thủ real, áp lực về thời gian --- tập luyện nên
 simulate những điều này thường xuyên hơn. Môi trường tập luyện quá
-comfortable tạo ra vận động viên \'practice players\' --- tốt trong tập
+comfortable tạo ra vận động viên 'practice players' --- tốt trong tập
 nhưng kém trong trận thật.
 
 ## 8.9 Overcoming Plateaus: Vượt Qua Giai Đoạn Đình Trệ
@@ -1738,7 +1738,7 @@ luyện viên phản ứng sai: hoặc tập nhiều hơn (không phải giải 
 lo lắng và mất confidence (phản tác dụng).
 
 Thực tế về plateau: thường là dấu hiệu của consolidation --- não bộ đang
-\'tiêu hóa\' và củng cố kỹ năng đã học trước khi có thể tiếp nhận cấp độ
+'tiêu hóa' và củng cố kỹ năng đã học trước khi có thể tiếp nhận cấp độ
 tiếp theo. Đây là quá trình bình thường cần được tôn trọng, không phải
 vượt qua bằng force.
 
@@ -1756,10 +1756,10 @@ bắt đầu. Vận động viên có kinh nghiệm có established motor progra
 thói quen kỹ thuật ăn sâu. Thay đổi những điều này tốn thời gian và cần
 patience cả từ vận động viên lẫn huấn luyện viên.
 
-Nguyên lý \'unlearn before relearn\': đôi khi cần phá bỏ pattern cũ
+Nguyên lý 'unlearn before relearn': đôi khi cần phá bỏ pattern cũ
 trước khi xây dựng pattern mới. Điều này tạm thời làm tệ hơn hiệu suất
 --- và đây là thời điểm quan trọng để quản lý tâm lý vận động viên. Giải
-thích rõ ràng \'J-curve of technical change\' --- hiệu suất giảm trước
+thích rõ ràng 'J-curve of technical change' --- hiệu suất giảm trước
 khi tăng khi thay đổi kỹ thuật lớn.
 
 Lấy sự đồng thuận của vận động viên: thay đổi kỹ thuật không nên áp đặt
@@ -1807,8 +1807,8 @@ cảnh. Những kỹ năng này theo vận động viên ra khỏi sân và vào
 ## 9.2 Accountability: Bạn Chịu Trách Nhiệm Hoàn Toàn
 
 Tennis đơn là môn thể thao cô đơn nhất --- bạn không có đồng đội để đổ
-lỗi, không có chiếc gậy chỉ huy để ẩn nấp sau, và không thể \'ngồi ghế
-dự bị\' khi chơi kém. Mọi quyết định, mọi cú đánh, mọi line call đều là
+lỗi, không có chiếc gậy chỉ huy để ẩn nấp sau, và không thể 'ngồi ghế
+dự bị' khi chơi kém. Mọi quyết định, mọi cú đánh, mọi line call đều là
 trách nhiệm của một mình bạn.
 
 Đây là bài học accountability khắc nghiệt nhất mà thể thao có thể dạy.
@@ -1818,8 +1818,8 @@ mất tập trung. Bạn phải đối mặt với chính mình.
 
 Kỹ năng accountability từ tennis chuyển sang cuộc sống: khả năng nhận
 sai sót mà không tự trừng phạt, khả năng analyze performance một cách
-khách quan để cải thiện, và tư duy \'mọi kết quả đều bắt đầu từ những
-quyết định của tôi\'. Đây là mindset của những nhà lãnh đạo và
+khách quan để cải thiện, và tư duy 'mọi kết quả đều bắt đầu từ những
+quyết định của tôi'. Đây là mindset của những nhà lãnh đạo và
 entrepreneurs thành công nhất.
 
 ## 9.3 Resilience: Khả Năng Phục Hồi Sau Nghịch Cảnh
@@ -1833,17 +1833,17 @@ tennis dạy.
 Mỗi khi thua một game, mất serve, hay sụp đổ sau khi dẫn trước, vận động
 viên phải lựa chọn: chìm đắm trong thất bại hay phục hồi và tiếp tục.
 Lựa chọn này, được lặp lại hàng nghìn lần trên sân, dần dần xây dựng một
-\'cơ bắp tâm lý\' resilience mà không có lớp học hay sách vở nào có thể
+'cơ bắp tâm lý' resilience mà không có lớp học hay sách vở nào có thể
 dạy hiệu quả như vậy.
 
-Nghiên cứu của Angela Duckworth về \'grit\' --- kiên trì và đam mê dài
+Nghiên cứu của Angela Duckworth về 'grit' --- kiên trì và đam mê dài
 hạn --- xác định đây là predictor mạnh nhất của thành công trong dài
 hạn, hơn cả IQ hay talent. Tennis, với yêu cầu kiên trì qua nhiều năm
 rèn luyện và vô số thất bại, là môi trường lý tưởng để phát triển grit.
 
 > **\[COACHING SAU THẤT BẠI\]** *Khi một vận động viên thua trận, thay
-> vì chỉ nói \'chơi tốt hơn lần sau\', hãy hỏi: \'Em học được gì từ trận
-> hôm nay?\' và \'Quyết định nào em muốn thay đổi?\' Đây chuyển thua từ
+> vì chỉ nói 'chơi tốt hơn lần sau', hãy hỏi: 'Em học được gì từ trận
+> hôm nay?' và 'Quyết định nào em muốn thay đổi?' Đây chuyển thua từ
 > failure thành data point và phát triển growth mindset --- bài học
 > không chỉ cho tennis.*
 
@@ -1861,7 +1861,7 @@ cú đánh của bạn tệ đi --- không thể che giấu. Nếu bạn không 
 serve yếu đi. Tennis là môn thể thao honest --- nó phản ánh chính xác
 những gì bạn đã đầu tư.
 
-Theo Dr. Jim Gavin, tác giả \'The Exercise Habit\', tennis phát triển
+Theo Dr. Jim Gavin, tác giả 'The Exercise Habit', tennis phát triển
 positive personality characteristics mạnh hơn golf, inline skating và
 hầu hết môn thể thao khác. Ông cho rằng đây là do yêu cầu combination
 độc đáo của tennis: technical precision, physical conditioning, tactical
@@ -1878,7 +1878,7 @@ trong khi vẫn duy trì hiệu suất là kỹ năng tennis cốt lõi.
 Vận động viên 5.0 thực sự giỏi thích nghi --- thay đổi tactics giữa trận
 khi cần, điều chỉnh kỹ thuật cho điều kiện sân, và đặc biệt là xử lý
 những điều nằm ngoài tầm kiểm soát (gió, tiếng ồn, đối thủ hành xử thiếu
-fair play). \'Manage the uncontrollables\' là bài học tennis có giá trị
+fair play). 'Manage the uncontrollables' là bài học tennis có giá trị
 đặc biệt trong cuộc sống hiện đại đầy bất ổn.
 
 Trong business, adaptability được coi là một trong những kỹ năng quan
@@ -1956,14 +1956,14 @@ vùng não như vậy là unusual và có lợi.
 Các nghiên cứu về cognitive aging (lão hóa nhận thức) cho thấy: vận động
 viên tennis có tốc độ xử lý thông tin cao hơn, working memory tốt hơn,
 và executive function mạnh hơn so với cùng nhóm tuổi không chơi tennis.
-Đây là lý do tennis được coi là một trong những \'brain exercises\' tốt
+Đây là lý do tennis được coi là một trong những 'brain exercises' tốt
 nhất --- một công cụ phòng ngừa cognitive decline khi về già.
 
 ## 9.10 Tennis Và Wellbeing Tổng Thể
 
 Khi kết hợp tất cả những lợi ích đã đề cập --- thể chất, tâm lý, xã hội
 và nhận thức --- tennis không chỉ là môn thể thao mà là một lối sống
-tích cực. Khái niệm \'sport for a lifetime\' không phải slogan marketing
+tích cực. Khái niệm 'sport for a lifetime' không phải slogan marketing
 --- đó là mô tả chính xác về một môn thể thao có thể được chơi, học hỏi
 và tận hưởng từ 4 tuổi đến 90 tuổi.
 
@@ -1977,7 +1977,7 @@ sức khỏe này.
 Như một huấn luyện viên, bạn không chỉ dạy tennis --- bạn đang giúp vận
 động viên xây dựng những habits, mindsets và skills sẽ phục vụ họ suốt
 đời. Đây là trách nhiệm vĩ đại và đặc quyền đặc biệt. Và đây là lý do
-tại sao tennis coaching ở cấp độ cao nhất không chỉ là \'dạy kỹ thuật\'
+tại sao tennis coaching ở cấp độ cao nhất không chỉ là 'dạy kỹ thuật'
 --- đó là craft của việc phát triển con người toàn diện.
 
 ────────────────────────────────────────────────────────────
@@ -2005,8 +2005,8 @@ khoa hoc xac nhan - dac biet cho phu nu sau man kinh va nguoi cao tuoi.
 
 Co che bao ve: khi chan tiep xuc dat trong moi buoc chay, nay, dung -
 impact forces truyen qua xuong, kich thich osteoblasts (te bao tao
-xuong) tang cuong san xuat xuong moi. Day la nguyen ly \'bone
-remodeling\' theo Wolff\'s Law: xuong thich nghi voi tai trong dat len
+xuong) tang cuong san xuat xuong moi. Day la nguyen ly 'bone
+remodeling' theo Wolff's Law: xuong thich nghi voi tai trong dat len
 chung. Tennis, voi hang tram impact moi tran dau, la bai tap xuong hieu
 qua nhat trong cac mon the thao dua tren court.
 
@@ -2052,11 +2052,11 @@ Mot so nguoi lo ngai rằng tennis, voi nhieu tac dong va thay doi huong
 dot ngot, se gay ton hai san khop. Nghien cuu cho thay dieu nguoc lai:
 van dong vien tennis thu gian choi tennis thu xuan, giam nguy co viem
 khop khop goi va hong hon so voi nguoi it van dong. Ly do: hoat dong the
-chat vua phai kich thich san xuat synovial fluid (dich khop) - \'dau boi
-tron\' cua khop. Viem khop phat sinh do khop it duoc su dung, khong phai
+chat vua phai kich thich san xuat synovial fluid (dich khop) - 'dau boi
+tron' cua khop. Viem khop phat sinh do khop it duoc su dung, khong phai
 do su dung nhieu.
 
-Dieu quan trong: \'vua phai\' la tu khoa. Tennis 5.0 thi dau qua nhieu
+Dieu quan trong: 'vua phai' la tu khoa. Tennis 5.0 thi dau qua nhieu
 trong thoi gian ngan ma khong co du thoi gian phuc hoi thi nguy co ton
 hai san khop tang len. Day la ly do periodization va recovery protocol
 trong chuong 5 quan trong cho suc khoe lau dai, khong chi cho hieu suat.
@@ -2066,7 +2066,7 @@ trong chuong 5 quan trong cho suc khoe lau dai, khong chi cho hieu suat.
 Tennis khong chi phat trien mot nhom co don le ma xay dung mot he thong
 co xuong phoi hop hoan chinh. Day la diem khac biet cot loi voi gym
 training truyen thong, noi cac bai tap isolation phat trien tung co
-rieng le trong khi de lai nhung \'lo hong\' trong phat trien tich hop.
+rieng le trong khi de lai nhung 'lo hong' trong phat trien tich hop.
 
 Nghien cuu so sanh mo hinh co ban cua van dong vien tennis voi nguoi tap
 the duc noi chung cho thay: van dong vien tennis co su phat trien dong
@@ -2096,8 +2096,8 @@ tang cot song sau), va Pallof Press (chong rotation stability - quan
 trong nhat cho tennis).
 
 Tu the ngoai san cung quan trong: van dong vien 5.0 thuong danh nhieu
-gio ngoi viet, lam viec truoc man hinh - day la nguyen nhan \'tech
-neck\' va rounded shoulders. Chuong trinh ergonomics va van phong +
+gio ngoi viet, lam viec truoc man hinh - day la nguyen nhan 'tech
+neck' va rounded shoulders. Chuong trinh ergonomics va van phong +
 tennis co the giup giam thieu van de nay: standing desk, regular
 movement breaks, va posture exercises sau moi buoi lam viec dai.
 
@@ -2105,7 +2105,7 @@ movement breaks, va posture exercises sau moi buoi lam viec dai.
 
 Dau man tinh - chronic pain - la van de phuc tap va pho bien o van dong
 vien ky cuu 5.0. Sau nhieu nam thi dau, nhieu nguoi chap nhan mot muc do
-dau nhat dinh nhu \'binh thuong\'. Day la sai lam nguy hiem co the rut
+dau nhat dinh nhu 'binh thuong'. Day la sai lam nguy hiem co the rut
 ngan su nghiep va giam chat luong cuoc song.
 
 Cac nguyen nhan pho bien cua dau man tinh trong tennis: overuse injuries
@@ -2134,7 +2134,7 @@ man tinh (chronic inflammation) - mot trong nhung nguyen nhan lon nhat
 cua benh tat hien dai.
 
 Tuy nhien, overtraining thi nguoc lai: tap qua muc ma khong phuc hoi du
-gay \'open window\' period - giai doan sau tap cuong do cao khi mien
+gay 'open window' period - giai doan sau tap cuong do cao khi mien
 dich tam thoi suy giam. Day la ly tai sao van dong vien thuong bi om
 ngay sau giai dau Marathon hoac sau giai dau tennis dai ngay. Quan ly
 tai luong tap la bao ve mien dich.
@@ -2153,7 +2153,7 @@ trinh nay dong thoi - dieu ma khong thuoc nao hay supplement nao co the
 lam duoc.
 
 Nghien cuu dac biet quan trong: ITF (International Tennis Federation) va
-USTA da chung minh rằng \'senior tennis players\' (tren 50 tuoi) co
+USTA da chung minh rằng 'senior tennis players' (tren 50 tuoi) co
 Balance, coordination va reaction time tot hon dang ke so voi cung nhom
 tuoi khong tap the duc, va tuong duong voi nhung nguoi tre hon nhieu.
 
@@ -2254,8 +2254,8 @@ cao xac suat).
 
 Phat trien anticipation: xem nhieu match video voi muc dich hoc -
 pausing video truoc khi bong roi vot va du doan huong, sau do kiem tra.
-Drill voi partner an hieu khong noi: partner ra hieu \'serve T\' hoac
-\'serve wide\' bang body language ma khong noi, player phai doc va
+Drill voi partner an hieu khong noi: partner ra hieu 'serve T' hoac
+'serve wide' bang body language ma khong noi, player phai doc va
 react. Day la cach hieu qua nhat de tap anticipation doi voi serve.
 
 ## 11.3 Decision Making Under Pressure
@@ -2269,8 +2269,8 @@ Recognition-Primed Decision (RPD) model, phat trien boi Gary Klein, mo
 ta cach expert decision makers thuc su lam viec: khong phan tich tat ca
 options va chon cai tot nhat (qua cham). Thay vao do, ho recognize
 situation pattern, retrieve mot action quen thuoc, va implement - tat ca
-trong phan giay. Day la cach cac tennis player elite xuat hien \'doc
-game\' vo cung nhanh va dung.
+trong phan giay. Day la cach cac tennis player elite xuat hien 'doc
+game' vo cung nhanh va dung.
 
 Phat trien RPD trong tennis: tao ra library lon cac pattern-action pairs
 qua deliberate practice. Khi thay Pattern A (short ball to tay backhand
@@ -2278,16 +2278,16 @@ doi phuong, ho dang ra rong), tu dong retrieve Action A (approach shot
 deep DTL, tien len net). Cang nhieu pattern-action pairs, quyet dinh
 cang nhanh va chinh xac.
 
-> **\[PHAT TRIEN TENNIS IQ\]** *Game \'Freeze Frame\': bat video match
-> play, freeze ngau nhien, hoi van dong vien \'Em se danh gi tiep theo
-> va tai sao?\' Thuc hanh nay phat trien meta-cognitive awareness - kha
+> **\[PHAT TRIEN TENNIS IQ\]** *Game 'Freeze Frame': bat video match
+> play, freeze ngau nhien, hoi van dong vien 'Em se danh gi tiep theo
+> va tai sao?' Thuc hanh nay phat trien meta-cognitive awareness - kha
 > nang suy nghi ve tu duy cua chinh minh - mot ky nang quan trong cua
 > tennis IQ cao.*
 
 ## 11.4 Visual Processing: Mat Tennis
 
 Mat cua van dong vien tennis cap do cao xu ly thong tin khac voi nguoi
-thuong. Ho khong \'nhin\' theo nghia binh thuong - ho scan, filter va
+thuong. Ho khong 'nhin' theo nghia binh thuong - ho scan, filter va
 process visual information de lay nhung gi quan trong nhat va bo qua
 nhung gi khong lien quan.
 
@@ -2298,7 +2298,7 @@ khi (thong tin it gia tri hon). Thay doi eye movement pattern nay co the
 kha nang cao yeu cau training dac biet.
 
 Quiet Eye - mot trong nhung phat hien quan trong nhat trong sports
-vision research: trong cac cuoc thi dau chi nhau, chu ky \'quiet eye\'
+vision research: trong cac cuoc thi dau chi nhau, chu ky 'quiet eye'
 dai hon truoc khi thuc hien action du doan thanh cong tot hon. Trong
 tennis, day co the la: giu mat co dinh hon trong khung cuoi cua chuyen
 bi truoc khi thuc hien cuu danh.
@@ -2360,20 +2360,20 @@ lanh dao gia tri, duoc rèn luyen qua moi tran dau tennis.
 Mot tran tennis 5.0 keo dai 90-150 phut, doi hoi duy tri tap trung qua
 hang tram diem dau. Day la marathon cua su tap trung - mot trong nhung
 thu thach nhan thuc kho nhat trong the thao. Nhieu van dong vien chi dat
-duoc \'peak concentration\' trong vai game roi bat dau \'drifting\' va
+duoc 'peak concentration' trong vai game roi bat dau 'drifting' va
 danh hong nhieu hon.
 
 Concentration is a muscle - can duoc tap luyen. Chuong trinh
 concentration training bao gom: Meditation sessions tang dan (bat dau 5
 phut, tang len 20 phut), Deliberate concentration drills trong tap luyen
-(dat timer, phat hien moi khi attention wandered), va \'Total focus\'
+(dat timer, phat hien moi khi attention wandered), va 'Total focus'
 points trong tap luyen - mot so diem dau nhat dinh moi buoi tap phai
 choi voi 100% focus nhu trong tran dau that.
 
 Energy management trong tran dau: khong the duy tri 100% focus trong
-toan bo tran 2 tieng. Van dong vien elite thuc tu duy \'concentration
-windows\' - tap trung toi da trong nhung diem quan trong nhat (break
-point, game point, 5-5 trong set) va cho phep minh \'relax focus\' trong
+toan bo tran 2 tieng. Van dong vien elite thuc tu duy 'concentration
+windows' - tap trung toi da trong nhung diem quan trong nhat (break
+point, game point, 5-5 trong set) va cho phep minh 'relax focus' trong
 nhung diem it quan trong hon, de bao ton nang luong nhan thuc.
 
 ## 11.9 Pattern Recognition: Tri Tue Khong Loi
@@ -2388,8 +2388,8 @@ giay.
 Hieu de phat trien pattern recognition: practice variety (da dang hon,
 hoc nhanh hon), play against many different opponents (moi style day
 pattern moi), va dac biet la deliberate analysis sau thi dau. Khi van
-dong vien ngoi xem lai video va noi \'o, toi nhan ra anh ta luon slice
-backhand khi toi tan cong phia nay\' - do la moment pattern duoc
+dong vien ngoi xem lai video va noi 'o, toi nhan ra anh ta luon slice
+backhand khi toi tan cong phia nay' - do la moment pattern duoc
 explicit va stored vao long-term memory.
 
 ## 11.10 Tich Hop Nhan Thuc - Co The - Cam Xuc: Su Toan Ven
@@ -2403,7 +2403,7 @@ sai lam khi cam xuc mat kiem soat.
 Tri tue cua van dong vien 5.0 la tri tue tich hop - khong phan chia.
 Trong mot diem dau, co the thuc hien pattern footwork da hoc, trong khi
 nao bo xu ly thong tin ve bong va doi phuong, trong khi he cam xuc duy
-tri trang thai calm va ready. Day la trang thai \'flow\' ma
+tri trang thai calm va ready. Day la trang thai 'flow' ma
 Csikszentmihalyi mo ta - noi khop noi kho tan bien va chi con bong dao
 dien ra.
 
@@ -2508,18 +2508,18 @@ nao co nghia.
 
 ## 12.5 Khoa Hoc Cua Hai Long Va Su Gan Ket
 
-Oxytocin - \'hormone gan ket\' - duoc tiet ra trong cac tuong tac xa hoi
+Oxytocin - 'hormone gan ket' - duoc tiet ra trong cac tuong tac xa hoi
 tich cuc, bao gom the duc the thao nhom. O van dong vien tennis,
 oxytocin duoc tiet ra trong warm-up rally cung ban, trong cam on sau
 tran dau, va trong nhung celebrations chung. Hormone nay khong chi lam
 ban cam thay tot - no cung co tac dung sinh ly nhu giam cortisol, ha
 huyet ap va tang he mien dich.
 
-Ket noi xa hoi qua tennis cung tao ra dopamine - \'hormone thuong\' - va
-serotonin - \'hormone hanh phuc\'. Khi ban win a point voi partner
+Ket noi xa hoi qua tennis cung tao ra dopamine - 'hormone thuong' - va
+serotonin - 'hormone hanh phuc'. Khi ban win a point voi partner
 doubles, ca hai nao bo deu tiet ra dopamine. Khi ban duoc dong nghiep
 khen mot cu danh dep, serotonin tang. Day la li do tai sao tennis thuong
-coi la \'hanh phuc hon\' hon tap mot minh o gym.
+coi la 'hanh phuc hon' hon tap mot minh o gym.
 
 Nghien cuu cho thay: van dong vien tennis co partner thuong xuyen
 (regular hitting partner) va nho ban choi have higher long-term
@@ -2529,7 +2529,7 @@ ai do, ban thuong xu ly tot hon.
 
 ## 12.6 Tennis Va Suc Khoe Tam Ly Xa Hoi
 
-Co don - loneliness - duoc goi la \'dich benh the ky 21\'. Co don co anh
+Co don - loneliness - duoc goi la 'dich benh the ky 21'. Co don co anh
 huong suc khoe tuong duong hut thuoc 15 dieu/ngay theo mot so nghien
 cuu. Tennis, voi su ket noi xa hoi bat buoc trong moi tran dau, la mot
 trong nhung bien phap chong co don hieu qua nhat.
@@ -2541,15 +2541,15 @@ biet - su ket hop cua van dong the chat, su tham gia nhan thuc va ket
 noi xa hoi - tao ra mot tong the lon hon tong cac phan.
 
 O cap do 5.0, khi cuoc song ngay cang phuc tap va ap luc nghe nghiep
-ngay cang lon, san tennis tro thanh mot \'sanctuary\' - mot noi van dong
+ngay cang lon, san tennis tro thanh mot 'sanctuary' - mot noi van dong
 vien co the buong bo nhung lo lang va hien dien hoan toan voi bong. Day
-la \'functional escape\' lanh manh, khong phai tranh ne - no nap lai
+la 'functional escape' lanh manh, khong phai tranh ne - no nap lai
 nang luong tinh than de tro lai cuoc song voi nam luong va cai nhin tot
 hon.
 
 ## 12.7 Tennis Trong Cong Dong Doanh Nghiep
 
-Tennis va business co moi quan he lich su lau dai. \'Business tennis\' -
+Tennis va business co moi quan he lich su lau dai. 'Business tennis' -
 su dung tennis lam net trong doanh nghiep - pho bien trong nhieu nen van
 hoa, dac biet la Nhat Ban, Chau Au va Bac My. Tai sao tennis dac biet
 huu ich cho networking kinh doanh?
@@ -2623,7 +2623,7 @@ trong the gioi thuc.
 Thach thuc cho huan luyen vien: dam bao cong nghe phuc vu muc dich thi
 dau va hoc tap, khong phai lam phân tán hoặc thay the ket noi that su.
 Khi van dong vien dang noi chuyện dien thoai trong buoi tap, hay dat
-dien thoai xuong va hoi \'em dang tap voi ai hom nay?\'
+dien thoai xuong va hoi 'em dang tap voi ai hom nay?'
 
 ────────────────────────────────────────────────────────────
 
@@ -2651,11 +2651,11 @@ Trong tennis, khong ai ep ban tap luyen, khong ai bat ban an dung, khong
 ai nhat thiet ep ban phuc hoi dung cach. Tat ca nhung quyet dinh nay la
 cua ban. Nhung van dong vien tu khy luong - nhung nguoi tu ep minh tap
 khi khong muon, tu giu diet khi bo bat, tu di ngu som khi muon thuc - ho
-phat trien mot \'self-discipline muscle\' co gia tri khong the do dem
+phat trien mot 'self-discipline muscle' co gia tri khong the do dem
 trong moi linh vuc cuoc song.
 
-Peter Drucker, cha de cua quan tri hien dai, da noi: \'You can\'t manage
-others well until you manage yourself first.\' Tennis la noi ban can
+Peter Drucker, cha de cua quan tri hien dai, da noi: 'You can't manage
+others well until you manage yourself first.' Tennis la noi ban can
 phai self-manage hang ngay - trong tung buoi tap, tung tran dau, tung
 quyet dinh dinh duong va phuc hoi. Day la dao tao lanh dao thuc tien
 nhat co the co.
@@ -2676,21 +2676,21 @@ lam dung 100%.
 
 Truong hop nghien cuu: mot CEO cong ty cong nghe chia se rang ong hoc
 duoc bai hoc quan ly khung hoang quan trong nhat khong phai tu MBA ma tu
-cuoc song chuyen nghiep tennis khi con tre. \'Khi ban bi phu 4-1 trong
+cuoc song chuyen nghiep tennis khi con tre. 'Khi ban bi phu 4-1 trong
 set cuoi, ban co hai lua chon: hoang loan hoac tiep tuc danh trong tung
 diem. Tennis day toi rang mot mau ke hoach va binh tinh con kha nang
-thanh cong co nhung chien luoc la lan lon ban.\'
+thanh cong co nhung chien luoc la lan lon ban.'
 
 ## 13.3 Resilience Lanh Dao: Noi Day Sau Sap Do
 
 Khong co nha lanh dao nao thanh cong ma khong trai qua nhung that bai
 nghiem trong. Apple bi sa thai Steve Jobs. J.K. Rowling bi tu choi boi
-hang chuc nha xuat ban. Walt Disney bi noi rang \'thieu tu tuong sang
-tao\'. Nhung gi phan biet ho khoi nguoi binh thuong la kha nang phuc
+hang chuc nha xuat ban. Walt Disney bi noi rang 'thieu tu tuong sang
+tao'. Nhung gi phan biet ho khoi nguoi binh thuong la kha nang phuc
 hoi.
 
 Tennis day resilience theo cach khong the so sanh: trong mot tran dau,
-van dong vien trai qua hang tram \'that bai nho\' - nhung diem thua,
+van dong vien trai qua hang tram 'that bai nho' - nhung diem thua,
 nhung cu danh hong, nhung chien luoc that bai. Moi lan, ho phai phuc hoi
 trong vong giay de thi dau di tiep. Nay tieu cai nay luyen tap dan dan
 kha nang khong bat cac that bai lon hon.
@@ -2701,7 +2701,7 @@ tuc thong thuong thich nghi voi failure tot hon nhung nguoi co
 background the thao team. Ly do: trong tennis don, khong co ai de do
 loi - tam ly phai chap nhan va hoc tu that bai la thu thach.
 
-> **\[LEARNING FROM LOSS\]** *Sau moi tran thua \'quan trong\', yeu cau
+> **\[LEARNING FROM LOSS\]** *Sau moi tran thua 'quan trong', yeu cau
 > van dong vien viet 3 dieu ho hoc duoc va 3 dieu ho se thay doi trong
 > buoi tap tiep theo. Bien that bai tu emotional event thanh learning
 > event - day la ky nang lanh dao quan trong nhat co the truyen dat.*
@@ -2733,7 +2733,7 @@ cam xuc nguoi khac (empathy), va quan ly moi quan he (relationship
 management).
 
 Tennis rèn luyen ca bon thanh phan nay. Tu nhan thuc: can phai biet khi
-nao minh dang bi \'tilt\' - mat binh tinh thi dau - va nhan ra cam xuc
+nao minh dang bi 'tilt' - mat binh tinh thi dau - va nhan ra cam xuc
 truoc khi chung kiem soat hành động. Tu quan ly: biet tat co khong binh
 tinh va danh trong diem tiep theo voi cai dau lanh. Empathy: doc cam xuc
 cua doi phuong de predict hanh dong. Quan ly moi quan he: xu ly tranh
@@ -2774,12 +2774,12 @@ nhat trong moi truong cong viec. Tennis, voi vong feedback lien tuc
 dong vien cach xu ly feedback theo ca hai chieu.
 
 Trong tennis, feedback la tuc thì va ro rang - bong khong doi. Van dong
-vien hoc rang feedback la thong tin, khong phai ban an. \'Bong vao
-luoi\' la du lieu, khong phai phat xet ve gia tri ban than. Kha nang xu
+vien hoc rang feedback la thong tin, khong phai ban an. 'Bong vao
+luoi' la du lieu, khong phai phat xet ve gia tri ban than. Kha nang xu
 ly feedback mot cach de dang va su dung no de cai thien - ma khong de
 ego bi ton thuong - la ky nang vo gia trong cuoc song va su nghiep.
 
-Huan luyen vien tot tao ra \'feedback culture\' - moi truong noi
+Huan luyen vien tot tao ra 'feedback culture' - moi truong noi
 feedback duoc chao don, khong phai so hai. Dieu nay doi hoi su nhat
 quan: khen ngoi khi dang khen, va dua feedback xay dung khi can thay
 doi - nhung khong bao gio personal attack. Cach ban dua feedback thuong
@@ -2795,7 +2795,7 @@ thoi diem kho.
 Nhung bai hoc doubles tennis chuyen truc tiep sang team building trong
 cong viec: cac vai tro ro rang (serve va volley, baseline va net), giao
 tiep ngan gon va hieu qua (khong the co cuoc hop dai trong khi bong bay
-toi), co lap len nhau thu moi \'partner\', va quan trong nhat - tin
+toi), co lap len nhau thu moi 'partner', va quan trong nhat - tin
 tuong vao quyet dinh cua nhau trong nhung tinh huong cuoi cung.
 
 Nhung nguoi tung choi doubles o cap do cao thuong tro thanh nhung team
@@ -2813,7 +2813,7 @@ trong moi nguoi.
 
 Nhu huan luyen vien tennis 5.0, ban co co hoi la transformational
 leader. Khi ban giup van dong vien pha vo mot han che tu minh dat ra
-(\'toi khong the win set cuoi khi dang thua 4-1\'), khi ban giup ho kham
+('toi khong the win set cuoi khi dang thua 4-1'), khi ban giup ho kham
 pha tiem nang ho chua biet, va khi ban tao ra moi truong noi ho dam thu
 nghiem va that bai ma khong so hanh - ban dang lam transformational
 work.
@@ -2827,10 +2827,10 @@ luyen vien.
 ## 13.10 Tu Tinh Than Cham Tranh Den Lanh Dao Tich Cuc
 
 Co mot nghich ly thu vi trong lanh dao tennis: nhung van dong vien thi
-dau gioi nhat thuong phai hoc duoc cach \'tranh\' cam giac tham vong
+dau gioi nhat thuong phai hoc duoc cach 'tranh' cam giac tham vong
 tu-da-bat-no - dieu lam ho qua focus vao ban than va mat di cai nhin
 toan dien. Lanh dao hieu qua doi hoi mot su chuyen doi: tu tinh than
-\'toi se thang\' sang tinh than \'chung ta se thanh cong\'.
+'toi se thang' sang tinh than 'chung ta se thanh cong'.
 
 Nhieu van dong vien 5.0 cung la lanh dao trong cuoc song - quan ly, chu
 doanh nghiep, lanh dao cong dong. Ho thuong noi rang cuoc hanh trinh tu
@@ -2849,7 +2849,7 @@ ban la ai - va do la di san that su cua mon the thao nay.
 
 Tu lanh dao ca nhan den su phat trien chuyen mon, tennis tao ra nhung
 nen tang la toan dien. Chuong 14 se kham pha mot chu de hap dan: phat
-trien tennis trong tre em va tam quan trong cua \'sport for a lifetime\'
+trien tennis trong tre em va tam quan trong cua 'sport for a lifetime'
 bat dau tu som.
 
 **CHUONG 14**
@@ -2863,8 +2863,8 @@ tao nen tang toan dien cho cuoc doi*
 
 ## 14.1 Giai Doan Vang Trong Phat Trien Van Dong: Windows of Trainability
 
-Long-term Athletic Development (LTAD) model xac dinh cac \'windows of
-trainability\' - giai doan toi uu de phat trien cac ky nang the chat va
+Long-term Athletic Development (LTAD) model xac dinh cac 'windows of
+trainability' - giai doan toi uu de phat trien cac ky nang the chat va
 tinh than cu the. Hieu nhung giai doan nay giup huan luyen vien dat ung
 dong dung cho dung nam, tranh vua qua som vua qua muon.
 
@@ -2876,8 +2876,8 @@ giai doan nay. Hoi han neu qua muon: neu mot van dong vien 5.0 thieu ABC
 tu ban dau, do la ly do tai sao khac phuc footwork yeu khan hơn nguyen
 vong.
 
-Learn to Train Stage (8-11 tuoi nu, 9-12 tuoi nam): \'Golden Age of
-Motor Development\' - giai doan nao bo hap thu ky nang van dong nhanh
+Learn to Train Stage (8-11 tuoi nu, 9-12 tuoi nam): 'Golden Age of
+Motor Development' - giai doan nao bo hap thu ky nang van dong nhanh
 nhat. Day la luc ly tuong de gioi thieu ky thuat tennis chinh thuc. Van
 dong vien 5.0 da chuyen nghiep hoa trong giai doan nay so voi nhung
 nguoi bat dau muon thuong co ky thuat nen tang tot hon.
@@ -2888,11 +2888,11 @@ Nhung gi xay ra trong nao bo cua mot tre em khi hoc tennis la dang kinh
 ngac. Moi lan tre phai xu ly thong tin thi giac (bong dang den), chay
 den vi tri dung, setup footwork, chon co danh va thuc hien - tat ca
 trong vai giay - cac nuron than kinh ket noi theo nhung cach phuc tap va
-tao ra thu gi do goi la \'neurological scaffold\' cho kha nang nhan thuc
+tao ra thu gi do goi la 'neurological scaffold' cho kha nang nhan thuc
 phuc tap.
 
 Tre em choi tennis hoc tot hon o truong - khong phai vi tennis lam cho
-tre em \'thong minh hon\' theo nghia thu thuat, ma vi phat trien nao bo
+tre em 'thong minh hon' theo nghia thu thuat, ma vi phat trien nao bo
 tu tennis overlap voi kha nang can de hoc: working memory, xu ly nhanh
 thong tin, focus keo dai, va kha nang chuyen doi attention nhanh chong.
 
@@ -2907,15 +2907,15 @@ luat ca nhan.
 Nhieu huan luyen vien 5.0 cung day tre em - va day la co hoi tuyet voi
 nhung cung la thach thuc. Kinh nghiem choi o cap do cao khong tu dong
 chich ngan truyen dat hieu qua cho tre em. Thuc te, doi khi kinh nghiep
-cao co the can tro: ban qua quen voi cach tennis nen \'feel\' de kho
+cao co the can tro: ban qua quen voi cach tennis nen 'feel' de kho
 giai thich cho nguoi khac, dac biet la tre em.
 
-Khi day tre em, chuyen sang \'constraints-led approach\': thay vi giai
+Khi day tre em, chuyen sang 'constraints-led approach': thay vi giai
 thich ky thuat va yeu cau thuc hanh, tao ra environment (ky thuat) buoc
 tre em kham pha ky thuat tot tu ben trong. Vi du: ha luoi xuong mot nua
-de khong phai day \'lift bong khi danh cross-court\' - nguong luoi thap
-lam cho nang ky thuat nay tu nhien.) \'If the environment is set up
-right, good technique emerges.\' David Whiteside, motor learning
+de khong phai day 'lift bong khi danh cross-court' - nguong luoi thap
+lam cho nang ky thuat nay tu nhien.) 'If the environment is set up
+right, good technique emerges.' David Whiteside, motor learning
 researcher.
 
 ## 14.4 Mot Ho Sinh Ly Cua Tre Em La Khac Nguoi Lon
@@ -2950,7 +2950,7 @@ chung soma hoa (dau bung, dau dau thường xuyen truoc ngay thi dau), va
 thu minh trong quan he xa hoi (khong muon tiep xuc ban be, gia dinh).
 
 Bien phap phong ngua: dam bao van dong vien co nhieu hoat dong va su
-quan tam ngoai tennis (\'early specialization\' la nguyen nhan hang dau
+quan tam ngoai tennis ('early specialization' la nguyen nhan hang dau
 cua burnout), giu cho game la fun - tennis phai la nguon vui chu khong
 phai nguon cang thang - va tap trung cac giai dau phu hop lua tuoi thay
 vi ep cac em thi dau o giai lon qua som.
@@ -2964,32 +2964,32 @@ dong gop tich cuc, trong khi phu huynh khong duoc huong dan (ap luc, so
 sanh, song thong qua con) co the pha hoai du hoan toan bat ke huan luyen
 tot den dau.
 
-Workshop \'Tennis Parenting 101\' cho cac phu huynh cua van dong vien
+Workshop 'Tennis Parenting 101' cho cac phu huynh cua van dong vien
 5.0 (nhung nguoi cung co con choi tennis): nguyen tac 24-hour rule
 (khong ban luan ve hieu suat thi dau trong 24 gio sau khi ket thuc),
-language of encouragement (\'Em da co gang het suc\' thay vi \'Em phai
-thang\'), va dac biet la understanding the difference giua parental
+language of encouragement ('Em da co gang het suc' thay vi 'Em phai
+thang'), va dac biet la understanding the difference giua parental
 pride va parental pressure.
 
 ## 14.7 Talent Identification: Ai Se Tro Thanh Van Dong Vien Gioi?
 
 Talent identification trong tennis - qua trinh nhan biet cac van dong
 vien tiem nang cat cao - la mot trong nhung chu de phuc tap va thuong bi
-hieu sai nhat trong tennis. Nhieu van dong vien da bi \'discarded\' som
+hieu sai nhat trong tennis. Nhieu van dong vien da bi 'discarded' som
 vi khong the hien dau hieu ro rang o do tuoi, trong khi nhung nguoi se
 thanh cong thuong con lam nguoi than tu ti than.
 
 Nghien cuu cua Mark Williams va cac cong su cho thay: y nghia cua
-\'talent\' trong tennis it hon chung ta nghi. Nhieu co cau sinh ly hoc
-manh co the duoc phat trien thong qua tap luyen dung cach. Nhung \'early
-bloomers\' - nhung tre choi gioi som - thuong co loi the ve mat sinh ly
+'talent' trong tennis it hon chung ta nghi. Nhieu co cau sinh ly hoc
+manh co the duoc phat trien thong qua tap luyen dung cach. Nhung 'early
+bloomers' - nhung tre choi gioi som - thuong co loi the ve mat sinh ly
 tam thoi (lon hon, manh hon vi sinh ngay dau trong nam la phan lon)
-nhung thu nhap so voi \'late bloomers\' trong cuoi cung.
+nhung thu nhap so voi 'late bloomers' trong cuoi cung.
 
 Relative Age Effect la mot hien tuong duoc ghi nhan ro trong tennis: do
 cach chia nhom tuoi theo nam sinh, tre sinh dau nam co loi the lon tuoi
 (du chi 11 thang) va phat trien sinh ly manh hon trong nhom trang lua.
-Nhieu tai nang that su sinh cuoi nam bi \'cut\' som vi khong the canh
+Nhieu tai nang that su sinh cuoi nam bi 'cut' som vi khong the canh
 tranh trong hien tai. Huan luyen vien thong minh biet dieu chinh ky vong
 theo ngay sinh, khong chi theo tuoi lich.
 
@@ -3001,7 +3001,7 @@ dong the chat (dac biet tennis) cai thien ket qua hoc tap, giam ty le
 bao luc truong hoc, va phat trien kha nang xa hoi-cam xuc (SEL) cua hoc
 sinh.
 
-Chuong trinh \'Tennis For Schools\' cua ITF da cho thay: hoc sinh tham
+Chuong trinh 'Tennis For Schools' cua ITF da cho thay: hoc sinh tham
 gia tennis duoc 3 buoi/tuan trong mot hoc ky co diem so tot hon, ti le
 vang hoc thap hon va tu bao cao hanh phuc cao hon so voi nhom doi chieu.
 Nhung loi ich nay dac biet ro net o hoc sinh tu nha o thieu khuyen le
@@ -3022,7 +3022,7 @@ duy tri dong co tu ben trong (intrinsic motivation) thay vi ben ngoai
 
 Huan luyen vien 5.0 co vai tro dac biet quan trong trong giai doan
 chuyen tiep nay: giup van dong vien tim lai ly do ho choi tennis
-(personal \'why\'), thiet lap muc tieu thuc te cho giai doan cuoc song
+(personal 'why'), thiet lap muc tieu thuc te cho giai doan cuoc song
 nay, va tao ra cau truc luyen tap phu hop voi nhip song nguoi lon. Nhung
 huan luyen vien gioi la nhung nguoi giup van dong vien phat trien va yen
 thuong tennis trong con duong truong thanh.
@@ -3097,7 +3097,7 @@ trong nhat khong phai la app nao ban dung ma la cach ban su dung du lieu
 de thay doi hanh vi trong tap luyen. Video ma khong co follow-up action
 plans chi la bong toi trong bong.
 
-> **\[SU DUNG VIDEO HIEU QUA\]** *Quy tac \'sandwich feedback\': khi
+> **\[SU DUNG VIDEO HIEU QUA\]** *Quy tac 'sandwich feedback': khi
 > review video, bat dau voi dieu lam tot (cai gi hoat dong), sau do chi
 > ra diem can cai thien cu the voi bang chung video, va ket thuc voi lap
 > ke hoach cu the cho buoi tap tiep theo. Phuong phap nay duy tri
@@ -3121,8 +3121,8 @@ va cham tren vot.
 Cach su dung du lieu wearable hieu qua: xac dinh 2-3 chi so quan trong
 nhat cho van dong vien cu the, theo doi nhung chi so nay theo thoi gian
 de nhin xu huong (khong chi nhin so rieng le), va dat targets cu the: vi
-du \'tang spin rate forehand len 100 RPM trong 8 tuan\' thay vi muc tieu
-mo ho \'danh tot hon\'.
+du 'tang spin rate forehand len 100 RPM trong 8 tuan' thay vi muc tieu
+mo ho 'danh tot hon'.
 
 ## 15.4 Hawk-Eye Va Ball Tracking: Du Lieu Bong
 
@@ -3187,7 +3187,7 @@ fancy nhat.
 ## 15.7 Data-Driven Coaching: Tu Cam Nhan Den Chung Cu
 
 Data-driven coaching - huan luyen dua tren du lieu - la mot su chuyen
-doi tu \'coach bang cam giac\' sang \'coach bang bang chung.\' Dieu nay
+doi tu 'coach bang cam giac' sang 'coach bang bang chung.' Dieu nay
 khong co nghia la lo cuc ve so lieu - no co nghia la su dung du lieu de
 ho tro quyet dinh, khong chay quyet dinh.
 
@@ -3195,20 +3195,20 @@ Quy trinh data-driven coaching gom 5 buoc: Thu thap du lieu relevant
 (khong phai moi du lieu la co gia tri), Phan tich de nhan biet patterns
 va co hoi cai thien, Dich bien du lieu thanh insights co the giai thich
 cho van dong vien de hieu, Tao ra hypotheses co the kiem tra (ví du:
-\'neu chung ta cai thien first serve percentage len 70%, win rate se
-tang\'), va Theo doi ket qua sau khi thay doi.
+'neu chung ta cai thien first serve percentage len 70%, win rate se
+tang'), va Theo doi ket qua sau khi thay doi.
 
-Tránh \'analysis paralysis\': qua nhieu du lieu co the dan den quyet
+Tránh 'analysis paralysis': qua nhieu du lieu co the dan den quyet
 dinh cham hay khong quyet dinh. Luon bat dau bang muc tieu ro rang truoc
-khi thu thap du lieu - \'du lieu nay giup toi cai thien dieu gi cu
-the?\' phai la cau hoi dau tien, khong phai cuoi cung.
+khi thu thap du lieu - 'du lieu nay giup toi cai thien dieu gi cu
+the?' phai la cau hoi dau tien, khong phai cuoi cung.
 
 ## 15.8 Cong Nghe Phuc Hoi Va Tai Tao
 
 Cong nghe cung dang cach mang hoa linh vuc phuc hoi, cho phep van dong
 vien phuc hoi nhanh hon va thong minh hon sau khi thi dau va tap luyen.
 Nhung nay la nhung cong nghe da duoc chung minh khoa hoc roi mat nhung
-\'gimmicks\' de tranh.
+'gimmicks' de tranh.
 
 Effective recovery technologies: Hyperbaric oxygen therapy (HOT) - tang
 pressure oxy de cai thien oxygenation to thuoc va phuc hoi nhanh hon
@@ -3218,8 +3218,8 @@ luong mau va giam sot co, va lien tục theo dõi giac ngu qua devices nhu
 Oura Ring hoac Whoop.
 
 Cong nghe phuc hoi de tranh hoặc tiep can voi canh giac: nhieu san pham
-\'recovery\' tren thi truong co marketing tot hon khoa hoc. Hat deo nang
-luong, vong tay bi giap phi thinh khoa hoc, va nhieu \'biohacking\'
+'recovery' tren thi truong co marketing tot hon khoa hoc. Hat deo nang
+luong, vong tay bi giap phi thinh khoa hoc, va nhieu 'biohacking'
 gadgets khong co nen tang nghien cuu vung chac. Ho tu dan den nhung
 nguoi cho minh la duoc tin. Nghiem khac: neu mot cong nghe phuc hoi
 khong co nghien cuu ngang hang (peer-reviewed research) ho tro, hay tiep
@@ -3247,14 +3247,14 @@ dong vien 5.0 co lich ban ron.
 
 Nhin ve tuong lai, cong nghe se tiep tuc thay doi tennis coaching theo
 nhung cach dang kinh ngac. Virtual Reality (VR) training bat dau cho
-phep van dong vien \'choi\' voi cac tai nang hang dau the gioi trong moi
+phep van dong vien 'choi' voi cac tai nang hang dau the gioi trong moi
 truong ao, hoc tu nhung tinh huong ma ho se khong bao gio gặp trong cuoc
-song that. AI coaching systems se ngay cang \'hieu\' boi canh phuc tap
+song that. AI coaching systems se ngay cang 'hieu' boi canh phuc tap
 hon va dua ra guidance ca nhan hoa hon.
 
 Nhung gi se khong thay doi: nhu cau co mot con nguoi quan tam, hieu va
 truyen cam hung cho van dong vien. Cong nghe co the thu thap du lieu va
-dua ra goi y, nhung chi co con nguoi moi co the thuc su \'see\' van dong
+dua ra goi y, nhung chi co con nguoi moi co the thuc su 'see' van dong
 vien, hieu nhung gi dang xay ra ben trong, va truyen cam hung de vuot
 qua nhung kho khan ma cuoc song nem vao.
 
@@ -3300,7 +3300,7 @@ tuoi tac (sau 35, phuc hoi cham hon va nguy co tai thuong tang).
 
 Tennis elbow (lateral epicondylitis) la chan thuong pho bien nhat trong
 tennis, anh huong den 40-50% van dong vien o mot thoi diem nao do trong
-su nghiep. Boi roi la, chi 5% nguoi bi \'tennis elbow\' thuc su choi
+su nghiep. Boi roi la, chi 5% nguoi bi 'tennis elbow' thuc su choi
 tennis - nguyen nhan that su thuong la overuse cua co canh tay duoi
 trong cong viec van phong va cac hoat dong nghe nghiep.
 
@@ -3315,7 +3315,7 @@ co kiem soat), vat ly tri lieu man chap chieu song xung quanh (shockwave
 therapy) cho nhung truong hop khang tri, va dinh hinh lai ky thuat danh
 bong - thuong la nguyen nhan goc re ma it nguoi giai quyet.
 
-> **\[KY THUAT VA CHAN THUONG\]** *Kiem tra \'backhand mechanics\' cua
+> **\[KY THUAT VA CHAN THUONG\]** *Kiem tra 'backhand mechanics' cua
 > van dong vien khi ho bi tennis elbow. Trong nhieu truong hop, mot-tay
 > backhand voi co tay bi flexed tai diem contact la nguyen nhan chinh.
 > Chuyen sang hai-tay backhand hoac co tai ky thuat contact point la
@@ -3434,7 +3434,7 @@ nang the thao - khong phai khi het dau hoac khi du thoi gian tu lich.
 
 Warm-up hop ly va cool-down day du la nhung bien phap phong ngua chan
 thuong don gian nhat, re tien nhat va bi bo qua nhieu nhat o cap do 5.0.
-Nhieu van dong vien co the nhay vao tap ngay vi \'khong du thoi gian\'
+Nhieu van dong vien co the nhay vao tap ngay vi 'khong du thoi gian'
 hoac vi nghi rang warm-up la lang phi thoi gian.
 
 Dynamic warm-up cho tennis (15 phut): 3-5 phut jogging nhe hoac rope
@@ -3464,7 +3464,7 @@ biet so dien thoai cua bac si the thao gan nhat.
 Van hoa an toan: khuyen khich van dong vien bao cao dau va kho chiu som,
 khong bao gio pressure van dong vien thi dau khi bi chan thuong, va lam
 guong bang cach khong bao gio coi thuong chan thuong. Mot moi truong noi
-van dong vien so bi xet neu noi \'toi bi dau\' la moi truong tao ra
+van dong vien so bi xet neu noi 'toi bi dau' la moi truong tao ra
 nhieu chan thuong lon hon.
 
 ────────────────────────────────────────────────────────────
@@ -3494,8 +3494,8 @@ duoc quan ly dung cach.
 
 Nhung nguoi duy tri cong tac hang nhap cao nhat trong nhieu thap ky
 thường co mot diem chung: ho luon tim thay nhung ly do moi de yeq va hoc
-hoi trong mon the thao. Ho khong bi ket voi identity la \'van dong vien
-5.0\' - ho coi minh la \'nguoi hoc tennis truong doi\'. Day la su thay
+hoi trong mon the thao. Ho khong bi ket voi identity la 'van dong vien
+5.0' - ho coi minh la 'nguoi hoc tennis truong doi'. Day la su thay
 doi subtlety but profound.
 
 Nhu huan luyen vien, ban co the giup van dong vien xay dung quan he voi
@@ -3526,8 +3526,8 @@ tiep den muc do engagement lau dai cua van dong vien.
 ## 17.3 Flow State: Cao Trao Dang Say Me
 
 Mihaly Csikszentmihalyi, nguoi dinh nghia va nghien cuu flow state sau
-sau nhat, mo ta flow nhu \'trang thai toi uu cua trai nghiem con nguoi -
-noi minh hoan toan bat chim vao viec dang lam.\' Trong tennis, flow la
+sau nhat, mo ta flow nhu 'trang thai toi uu cua trai nghiem con nguoi -
+noi minh hoan toan bat chim vao viec dang lam.' Trong tennis, flow la
 khi mo hoi, thoi gian, dau, khat nuoc, score tat ca bien mat - chi con
 bong va cuoc thi dau trong hien tai.
 
@@ -3538,13 +3538,13 @@ hanh trinh tennis dai han. Ho giup ban dat duoc trang thai flow thuong
 xuyen hon.
 
 Phat trien kha nang dat flow: thiet ke tap luyen va thi dau o
-\'challenge sweet spot\', minimize disruptions trong khi choi (tat dien
+'challenge sweet spot', minimize disruptions trong khi choi (tat dien
 thoai, goi han che, tao khong gian cho su hien dien), va nhung biet
 nhung dieu gi dua ban vao flow va tu co tinh tao ra nhung dieu kien do.
 Flow khong chi xay ra - no co the duoc design.
 
 > **\[THIET KE FLOW\]** *Hoi van dong vien sau moi buoi tap tuyets voi:
-> \'Em co cam thay flow trong buoi tap hom nay khong?\' Ghi lai nhung
+> 'Em co cam thay flow trong buoi tap hom nay khong?' Ghi lai nhung
 > dieu kien dua den flow cho moi nguoi - va co gang tao lai nhung dieu
 > kien nay thuong xuyen nhat co the. Flow la phan thuong cua coaching
 > tot.*
@@ -3557,7 +3557,7 @@ va nhieu hon the. Cach tennis dap ung nhung thay doi nay quan trong hon
 cho su gan ket lau dai hon bat ky ky thuat nao.
 
 Cac giai doan cuoc song can chuyen doi quan he voi tennis: Tro nen
-cha/me: tennis co the la \'me time\' quy gia, nhung lich phai linh hoat
+cha/me: tennis co the la 'me time' quy gia, nhung lich phai linh hoat
 hon. Chuyen doi nghe nghiep: tennis la su on dinh va quen thuoc trong
 thoi ky thay doi. Lao hoa: tennis thich nghi voi nhung thay doi ve the
 chat neu tiep can dung cach. Benh tat: tennis recovery co the la mot
@@ -3572,7 +3572,7 @@ de phuc vu cuoc song, khong ngược lai.
 
 Muc tieu (goals) la nhiên liệu cho dong co - nhung khong phai moi muc
 tieu deu hoat dong nhu nhau theo thoi gian. Muc tieu kien qua (outcome
-goals) nhu \'toi muon dat 5.5\' la dong co tot trong ngan han nhung de
+goals) nhu 'toi muon dat 5.5' la dong co tot trong ngan han nhung de
 dan den disappointment neu khong dat duoc hoac indifference sau khi dat
 duoc.
 
@@ -3583,7 +3583,7 @@ tools), va Process goals (nhung hanh dong hang ngay - thay doi thoi quen
 va hanh vi). Trong do Process goals la quan trong nhat cho su phat trien
 dai han vi chung la nhung gi co the kiem soat hoan toan.
 
-Tao ra \'Goal Pyramid\': o dinh la 1-2 outcome goal lon. O giua la 3-5
+Tao ra 'Goal Pyramid': o dinh la 1-2 outcome goal lon. O giua la 3-5
 performance goals. O day la nhieu process goals hang ngay va hang tuan.
 Nhin len dinh thap dung dong vien, nhung hang ngay thi dau voi process
 goals - do la noi su phat trien that su xay ra.
@@ -3602,7 +3602,7 @@ cong dong nay, khong chi la moi truong tap luyen.
 Cach xay dung cong dong gan ket: tu chuc cac su kien khong phai thi dau
 (BBQ sau tran dau, birthday party, xem giai dau cung nhau), co so thu
 nhap tu khong quan trong trong nhom (de trainer hay experienced player
-san sang giup nhung nguoi moi), va tao ra \'team identity\' - ten nhom,
+san sang giup nhung nguoi moi), va tao ra 'team identity' - ten nhom,
 dong phuc, va nhung truyen thong chung.
 
 ## 17.7 Cam Khu Bien Gioi Va Suc Khoe
@@ -3618,11 +3618,11 @@ to bao ve quan trong. Van dong vien khoe manh bien gioi giua tennis va
 phan con lai cua cuoc song. Ho co the hoan toan dau tu trong buoi tap va
 sau do xong, nghi ngoi va song cuoc song day du ngoai san.
 
-Trong xa hoi ngay cang coi trong \'passion\' va \'dedication\' den muc
+Trong xa hoi ngay cang coi trong 'passion' va 'dedication' den muc
 cuc doan, nhac nho van dong vien rang tennis nen phuc vu cho wellbeing
 toan dien cua ho, khong phai nguoc lai. Mot nguoi hanh phuc, khoe manh
 va ket noi tot trong cuoc song thong thuong la mot van dong vien tennis
-tot hon mot nguoi \'all in\' den muc bi mat can bang.
+tot hon mot nguoi 'all in' den muc bi mat can bang.
 
 ## 17.8 Hoc Hoi Tu Nguoi That Bai Va Tu Bo
 
@@ -3637,7 +3637,7 @@ viec moi, di chuyen), mat thu vi vi khong co thach thuc moi, chan thuong
 man tinh khong duoc quan ly du, va roi bo moi quan he voi huan luyen
 vien.
 
-Nhu huan luyen vien, chien luoc phong ngua: thuong xuyen \'check in\'
+Nhu huan luyen vien, chien luoc phong ngua: thuong xuyen 'check in'
 voi van dong vien ve muc do dong co va hanh phuc cua ho (khong chi hieu
 suat), lien tuc gioi thieu nhung thu thach moi, linh hoat voi lich trong
 nhung giai doan cuoc song kho khan, va dac biet la biet khi nao mot giai
@@ -3645,7 +3645,7 @@ lao la phu hop hon la ep tiep tuc.
 
 ## 17.9 Tai Cam Hung Va Doi Moi Trong Tennis
 
-Khi say me giam bot, doi khi can mot \'renewal event\' - mot trai nghiem
+Khi say me giam bot, doi khi can mot 'renewal event' - mot trai nghiem
 moi lam mat lai tinh yeu voi mon the thao. Day co the la: tham du giai
 chuyen nghiep de cam nhan lai mo hinh that su cua game, tap voi mot
 coach moi co phong cach day khac hoan toan, tham gia mot camp tennis o
@@ -3710,7 +3710,7 @@ o nhung nguoi ban ron nhat - nhung nhung nguoi ban ron nhat lai la nhung
 nguoi it co thoi gian nhat cho tennis. Giai quyet nghich ly nay la ky
 nang quan trong de giup van dong vien duy tri tennis trong cuoc song.
 
-Nghien cuu ve \'time affluence\' - cam giac co du thoi gian - cho thay:
+Nghien cuu ve 'time affluence' - cam giac co du thoi gian - cho thay:
 nguoi cam thay thieu thoi gian, du ho co bao nhieu thoi gian thuc su,
 thuong co well-being thap hon va kem suc khoe hon. Thay doi cach chung
 ta nghi ve thoi gian - khong chi them thoi gian vao cuoc song - la phan
@@ -3726,12 +3726,12 @@ khong phai cai gi ban noi la quan trong.
 Audit thoi gian: yeu cau van dong vien ghi lai tat ca hoat dong trong
 mot tuan (7 ngay x 24 gio). Sau do phan tich: bao nhieu gio dung cha?
 Bao nhieu gio o mang xa hoi? Bao nhieu gio ngu? Phan tich nay thuong la
-\'eye-opening\' va tiet lo thoi gian co san de phan bo cho tennis, phuc
+'eye-opening' va tiet lo thoi gian co san de phan bo cho tennis, phuc
 hoi va chuong trinh rèn luyen.
 
-Nguyen tac \'Big Rocks First\': xac dinh nhung buoi tap quan trong nhat
+Nguyen tac 'Big Rocks First': xac dinh nhung buoi tap quan trong nhat
 trong tuan va dat vao lich truoc tien (nhu cuoc hop va su kien khong the
-thay doi). Neu ban cho doi \'khoang trong\' de tap, no se khong bao gio
+thay doi). Neu ban cho doi 'khoang trong' de tap, no se khong bao gio
 xay ra. Tennis phai duoc scheduled, khong phai lam khi ranh rang.
 
 ## 18.3 Cuoc Song Gia Dinh Va Tennis: Khong Phai Doi Lap
@@ -3749,15 +3749,15 @@ that hon de quan ly stress cuoc song. Nhung nguoi dong cho ban thoi gian
 choi tennis dang dau tu vao phien ban tot nhat cua ban.
 
 Chuyen truyen cam hung: dan gia dinh vao tennis khi co the. Choi doubles
-voi nguoi yeu, day con choi trong khi tap, va to chuc \'gia dinh tennis
-trip\' de ket hop du lich voi tennis. Khi tennis tro thanh mot phan cua
+voi nguoi yeu, day con choi trong khi tap, va to chuc 'gia dinh tennis
+trip' de ket hop du lich voi tennis. Khi tennis tro thanh mot phan cua
 van hoa gia dinh chu khong phai thu canh tranh voi no, moi thuong thay
 doi theo huong tot hon.
 
 ## 18.4 Quan Ly Nang Luong, Khong Chi Thoi Gian
 
-Tony Schwartz va Jim Loehr trong cuon sach noi tieng \'The Power of Full
-Engagement\' lap luan rang: van de thuc su khong phai la thieu thoi gian
+Tony Schwartz va Jim Loehr trong cuon sach noi tieng 'The Power of Full
+Engagement' lap luan rang: van de thuc su khong phai la thieu thoi gian
 ma la thieu nang luong. Ban co the co du thoi gian nhung neu miet moi,
 stress va kiet suc - ban khong the thuc hien tot bat cu dieu gi.
 
@@ -3767,10 +3767,10 @@ quan he tot, kiem soat cam xuc), nang luong tinh than (tap trung, sang
 tao, hien dien), va nang luong tinh than (muc dich, y nghia, gia tri).
 Tennis tap luyen dung cach ho tro tat ca bon loai nay.
 
-Tao ra \'energy rituals\': nhung hanh vi nho de nap lai nang luong nhuan
+Tao ra 'energy rituals': nhung hanh vi nho de nap lai nang luong nhuan
 trong ngay. 5 phut thien dinh buoi sang, bua trua ngu ngoai troi, tap
-luyen tennis giua buoi chieu, va \'digital detox\' truoc khi ngu - nhung
-ritual nay tao ra \'energy dividends\' theo thoi gian.
+luyen tennis giua buoi chieu, va 'digital detox' truoc khi ngu - nhung
+ritual nay tao ra 'energy dividends' theo thoi gian.
 
 ## 18.5 Stress Management Va Tennis Nhu La Dieu Hoa
 
@@ -3785,8 +3785,8 @@ tang. Muc dich: 3-4 buoi tuan o Zone 2 (nhip tim vua phai) la dieu hoa
 stress hieu qua nhat, trong khi 2 buoi cuong do cao moi tuan thi cau
 truc gioi han de tranh them stress cho he than kinh.
 
-Tao ra distinction giua \'performance mode\' (tap luyen va thi dau voi
-focus va noi luc) va \'play mode\' (choi tennis khi vui, khong lo lang
+Tao ra distinction giua 'performance mode' (tap luyen va thi dau voi
+focus va noi luc) va 'play mode' (choi tennis khi vui, khong lo lang
 ve ket qua). Ca hai deu co gia tri va can thiet cho well-being lau dai.
 100% performance mode la con duong den burnout. 100% play mode la con
 duong den stagnation. Ket hop chinh xac la nghe thuat.
@@ -3806,7 +3806,7 @@ tot dep.
 
 Khi phong chat len tennis community thuong xuyen - tien thuong sau tran,
 di an cung nhau, chia se cac buon vui cuoc song - moi truong tennis tro
-thanh mot trong nhung \'thu quan\' xa hoi quan trong nhat trong cuoc doi
+thanh mot trong nhung 'thu quan' xa hoi quan trong nhat trong cuoc doi
 van dong vien. La huan luyen vien, ban co co hoi tao ra va bao ve khong
 gian quy gia nay.
 
@@ -3822,10 +3822,10 @@ Chien luoc toi uu hoa cho van dong vien ban ron: tap luyen trong buoi
 sang truoc khi ngay lam viec bat dau (buoi sang co y chi va nang luong
 tinh than tot nhat cho nhieu nguoi), nhom cac hoat dong phuc hoi vao
 nhung nguyen nhan qua co (xem phim trong khi foam rolling, nghe podcast
-trong khi di bo), va dung \'bi quyet\' la tap han hon nhung tap thong
+trong khi di bo), va dung 'bi quyet' la tap han hon nhung tap thong
 minh hon.
 
-Nguyen tac \'80/20 trong thoi gian han che\': khi chi co 3 buoi tap moi
+Nguyen tac '80/20 trong thoi gian han che': khi chi co 3 buoi tap moi
 tuan thay vi 5, ban nen phan bo thoi gian cho dieu gi? 80% cho nhung
 dieu co tac dong lon nhat den hieu suat (footwork, fitness, ky thuat co
 ban), 20% cho tinh te. Day la cach ky luat cua nguoi ban ron yeu cau.
@@ -3836,12 +3836,12 @@ Mot thach thuc dac biet hien dai: san tennis la mot trong nhung noi hiem
 hoi con lai noi nguoi ta khong the dung dien thoai trong khi dang thuc
 hien hoat dong chinh. Day la mot gia tri, khong phai mot bat tien. Trong
 mot the gioi ngay cang phuc tap va lien tuc bi ngat quang, kha nang
-\'unplug\' hoan toan trong 1-2 gio la mot luxuries tinh than vo gia.
+'unplug' hoan toan trong 1-2 gio la mot luxuries tinh than vo gia.
 
 Nhung neu van dong vien thuc su khong the tach khoi dien thoai, nhung
-tran dau tennis se tro nen \'digital detox\' bo ich cho ho thu ha va nap
-lai nang luong. Nhieu CEO noi rang buoi choi tennis sang la \'brain
-cleanse\' giup ho tu duy sang suot hon phần con lai trong ngay - bởi đây
+tran dau tennis se tro nen 'digital detox' bo ich cho ho thu ha va nap
+lai nang luong. Nhieu CEO noi rang buoi choi tennis sang la 'brain
+cleanse' giup ho tu duy sang suot hon phần con lai trong ngay - bởi đây
 là hoạt động đòi hỏi toàn bộ sự chú ý mà không có tín hiệu số.
 
 Dat gioi han ro rang: dien thoai trong tui trong suot buoi tap va tran
@@ -3900,7 +3900,7 @@ trien tri tue suot doi*
 ## 19.1 Nao Bo Lao Hoa: Nhung Gi Khoa Hoc Biet
 
 Lao hoa nao bo la mot qua trinh phuc tap hon nhieu so voi truyen thong
-la chung ta \'mat di te bao nao.\' Thuc te phuc tap hon nhieu: mot so
+la chung ta 'mat di te bao nao.' Thuc te phuc tap hon nhieu: mot so
 chuc nang nao bo giam theo tuoi tac (toc do xu ly thong tin, kha nang
 nho ngan han) trong khi nhung chuc nang khac cai thien (crystallized
 intelligence - tri thuc tich luy, pattern recognition, emotional
@@ -3913,7 +3913,7 @@ dan truyen than kinh, va giam kha nang tao ra ket noi than kinh moi
 lai dang ke boi tap luyen the chat dung cach - va tennis la mot trong
 nhung can thiep hieu qua nhat.
 
-BDNF - Brain-Derived Neurotrophic Factor - la \'phan bo nao bo\' - mot
+BDNF - Brain-Derived Neurotrophic Factor - la 'phan bo nao bo' - mot
 protein thuc day su truong thanh, su song sot va bao tu the cua te bao
 nao. Tap luyen the chat, dac biet cac hoat dong aerobic, la kich thich
 san xuat BDNF manh nhat duoc biet den. Tennis, voi dac trung aerobic hoa
@@ -3922,7 +3922,7 @@ tron, lam tang BDNF o cac muc do rat cao.
 ## 19.2 Tennis Nhu La Phong Ngua Dementia
 
 Dementia - sa sut tri tue - la mot trong nhung van de suc khoe cong cong
-lon nhat the ky 21. Alzheimer\'s disease la dang pho bien nhat, anh
+lon nhat the ky 21. Alzheimer's disease la dang pho bien nhat, anh
 huong den hon 50 trieu nguoi tren toan cau. Va trong khi khoa hoc y hoc
 van dang nho tim thuoc chua, nhieu nghien cuu cho thay ho co the da tim
 ra bien phap phong ngua hieu qua nhat: tap luyen the chat thuong xuyen.
@@ -3936,7 +3936,7 @@ tac dung bao ve tot hon cả loại hinh tap luyen don le.
 
 Co che bao ve: tang BDNF ho tro su song sot cua te bao nao, giam viem he
 thong (mot yeu to chinh trong nguyen nhan cua Alzheimer), cai thien
-luong mau den nao, va quan trong nhat - tang \'cognitive reserve\' - kha
+luong mau den nao, va quan trong nhat - tang 'cognitive reserve' - kha
 nang nao bo chong lai ton thuong va duy tri chuc nang ngay ca khi co
 nhung thay doi sinh ly lien quan den tuoi tac.
 
@@ -3962,8 +3962,8 @@ dong xa hoi tang cognitive reserve (va tennis la hoat dong xa hoi ban
 than).
 
 Ke thua cua nhung dieu nay: van dong vien thi dau tennis trong nhieu
-thap ky co the dang xay dung cognitive reserve manh me - mot \'ngan
-hang\' suc khoe nao bo cho nhung thap ky phia truoc. Luong cognitive
+thap ky co the dang xay dung cognitive reserve manh me - mot 'ngan
+hang' suc khoe nao bo cho nhung thap ky phia truoc. Luong cognitive
 reserve nay khong the do thi thi dau, nhung no co the la anh huong tich
 cuc sau sac nhat cua tennis len cuoc doi.
 
@@ -3984,9 +3984,9 @@ executive function khi lao hoa.
 
 Nghien cuu so sanh van dong vien tennis cao tuoi (tren 60 tuoi) voi nhom
 doi chieu cung tuoi khong tap the thao: van dong vien tennis cho thay
-executive function tot hon dang ke, dac biet la \'cognitive
-flexibility\' (kha nang thich nghi khi quy tac thay doi) va \'inhibitory
-control\' (kha nang uc che phan ung tu dong khong phu hop). Nhung ky
+executive function tot hon dang ke, dac biet la 'cognitive
+flexibility' (kha nang thich nghi khi quy tac thay doi) va 'inhibitory
+control' (kha nang uc che phan ung tu dong khong phu hop). Nhung ky
 nang nay lan loi sang cuoc song hang ngay phong phu va doc lap hon.
 
 ## 19.5 Tennis Va Suc Khoe Tinh Than Tuoi Gia
@@ -4025,7 +4025,7 @@ chuyen dong), va proprioception (cam giac vi tri than the - de tang
 trong cac khop va co). Tap luyen tat ca ba he thong nay dong thoi trong
 tennis la thiet ke ly tuong cho phong ngua te nga.
 
-Chuong trinh \'Tennis for Falls Prevention\' da duoc nghien cuu o
+Chuong trinh 'Tennis for Falls Prevention' da duoc nghien cuu o
 Australia (xem cua van dong vien lap tuc 65-80 tuoi: giam 35% nguy co te
 nga sau 6 thang, cai thien gait speed 12%, va tang confidence trong
 chuyen dong hang ngay. Nhung ket qua nay tot hon nhieu so voi cac can
@@ -4036,7 +4036,7 @@ thiep phong ngua te nga truyen thong.
 Mot trong nhung kham pha khoa hoc quan trong nhat cua the ky 20 la: nao
 bo nguoi lon co the tiep tuc tao ket noi nao bo moi va hoc ky nang moi
 suot doi - mot kha nang goi la neuroplasticity. Truoc day, nguoi ta nghi
-rang nao bo \'cung lai\' sau tuoi truong thanh. Chung ta biet rang dieu
+rang nao bo 'cung lai' sau tuoi truong thanh. Chung ta biet rang dieu
 nay sai.
 
 Hoc mot ky nang moi o bat ky tuoi nao tao ra ket noi than kinh moi va
@@ -4059,18 +4059,18 @@ nhat the gioi - nhung nguoi da chung minh rang tennis la mon the thao co
 the duoc choi o bat ky tuoi nao.
 
 ITF va cac to chuc quoc gia to chuc cac giai dau cho van dong vien tu
-70, 80 den 90+ tuoi. Nhung van dong vien nay khong chi \'choi qua
-ngay\' - ho thi dau voi cu danh tot, footwork tho lu chu y, chien thuat
+70, 80 den 90+ tuoi. Nhung van dong vien nay khong chi 'choi qua
+ngay' - ho thi dau voi cu danh tot, footwork tho lu chu y, chien thuat
 thong minh va thi luc cao. Ho la bang chung song ve tat ca nhung gi cuon
 sach nay da noi ve loi ich lau dai cua tennis.
 
 Cau chuyen cam hung: Van dong vien tennis cao tuoi nhat thi dau ITF
 Super-Seniors World Championships la nguoi Dan Mach Niels Bohr (khong
 phai nha vat ly noi tieng) - o tuoi 95 van dang thi dau o giai quoc te.
-Khi duoc hoi bi quyet, ong noi: \'tennis giu cho toi song. No giu cho
-toi con ly do thuc day sang hom nay.\'
+Khi duoc hoi bi quyet, ong noi: 'tennis giu cho toi song. No giu cho
+toi con ly do thuc day sang hom nay.'
 
-## 19.9 Tuong Lai Cua \'Sport For A Lifetime\'
+## 19.9 Tuong Lai Cua 'Sport For A Lifetime'
 
 Ralph Paffenbarger, bac si da nghien cuu hon 10.000 nguoi trong 20 nam,
 da chung minh rằng choi tennis 3 gio/tuan o cuong do hop ly giam rui ro
@@ -4080,8 +4080,8 @@ le nao.
 
 Khi cong nghe y te tiep tuc phat trien va tuoi tho trung binh tang,
 chung ta se thay ngay cang nhieu nguoi song den 90, 100 tuoi. Cau hoi
-quan trong khong phai la \'song bao lau\' ma la \'song nhu the nao trong
-nhung nam cuoi.\' Tennis la cong cu manh me nhat de dam bao rang nhung
+quan trong khong phai la 'song bao lau' ma la 'song nhu the nao trong
+nhung nam cuoi.' Tennis la cong cu manh me nhat de dam bao rang nhung
 nam do la nhung nam co chat luong: khoe manh, tich cuc, co ket noi xa
 hoi va co y nghia.
 
@@ -4337,8 +4337,8 @@ hanh dong cho ban - nguoi huan luyen vien tennis 5.0:
 
 ## 20.10 Tennis La The Thao Cua Ca Cuoc Doi: Loi Ket
 
-Chung ta bat dau bang mot tuyen bo: tennis la \'the thao cua ca cuoc
-doi.\' Qua 20 chuong, chung ta da thay tai sao tuyen bo nay khong chi la
+Chung ta bat dau bang mot tuyen bo: tennis la 'the thao cua ca cuoc
+doi.' Qua 20 chuong, chung ta da thay tai sao tuyen bo nay khong chi la
 slogan marketing - do la su that khoa hoc da duoc chung minh nhieu lan
 tu nhieu goc do khac nhau.
 

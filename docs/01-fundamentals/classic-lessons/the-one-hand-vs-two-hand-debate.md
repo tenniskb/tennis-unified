@@ -1,8 +1,7 @@
 # Building a World-Class One-Handed Backhand Part 1: The One Hand Versus Two Hand Debate
 
 ![A person playing tennis Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image1.webp)
 
 **The most elegant shot in tennis---but should you learn it?**
 
@@ -35,8 +34,7 @@ generate a lot of racquet speed using the left side of the body and can
 synchronize both arms efficiently.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image2.webp)
 
 **A young player needs aptitude, desire and strength to hit with one
 hand.**
@@ -66,8 +64,7 @@ levels, up to and including world-class. But juniors typically do not
 see many if any one-handers at local tournaments.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image3.webp)
 
 **The two-hander: compact swing, power, disguise, early success.**
 
@@ -95,8 +92,7 @@ serves and off the ground.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-hand-vs-two-hand-debate/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-one-hand-vs-two-hand-debate/media/image4.webp)
 
 **A two hander can be an advantage for players who rely on their
 returns.**
@@ -132,8 +128,7 @@ one-handed slice when stretched.
 
 ![A picture containing text, sport, grass, person Description
 automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image5.webp)
 
 **The slice: a critical mitigation for the two handed game.**
 
@@ -164,8 +159,7 @@ see these players, if they have the right aptitude, learn a two-hander
 to help their return and passing shots.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image6.webp)
 
 **Does the one hander give a reach advantage on the run?**
 
@@ -192,8 +186,7 @@ transitioning between slice and topspin drives, and is often more likely
 to use his slice stroke.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image7.webp)
 
 **One handers usually transition seamlessly from drive to slice.**
 
@@ -225,8 +218,7 @@ Pete had a great two-hander.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_the-one-hand-vs-two-hand-debate/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-one-hand-vs-two-hand-debate/media/image8.webp)
 
 **Rare footage of Pete Sampras's two-hander from 1981.**
 
@@ -250,8 +242,7 @@ outline the technical process for building a world class one-hander.
 Stay tuned.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-one-hand-vs-two-hand-debate/media/image9.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_the-one-hand-vs-two-hand-debate/media/image9.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -268,7 +259,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

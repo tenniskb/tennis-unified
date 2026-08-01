@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-few-matches-i-lost-and-how/media/image1.jpg){width="4.166666666666667in"
-height="2.7777777777777777in"}
+confidence](media_a-few-matches-i-lost-and-how/media/image1.jpg)
 
 **Winning 52% of your total points makes you number one.**
 
@@ -15,8 +14,8 @@ In the last article ([Click
 Here](Adapting%20Your%20Game%20to%20Win%20Matches.docx)) I talked about
 how I adapted my game to win matches in NTRP and seniors tournaments.
 Although I was successful, won a couple of tournaments, and was ranked
-in several divisions in Norcal, there were plenty of players I couldn\'t
-or didn\'t beat, including a few that stood out as lost opportunities,
+in several divisions in Norcal, there were plenty of players I couldn't
+or didn't beat, including a few that stood out as lost opportunities,
 and losses I tried to learn from.
 
 These were all essentially mental and emotional breakdowns. I suspect
@@ -42,8 +41,7 @@ have a lot of chances for high percentage passes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-few-matches-i-lost-and-how/media/image2.jpg){width="4.166666666666667in"
-height="3.125in"}
+confidence](media_a-few-matches-i-lost-and-how/media/image2.jpg)
 
 **Richard had a good serve, but not a great serve.**
 
@@ -55,7 +53,7 @@ the court open one way or the other.
 
 I usually passed well on both sides. But in the early going, I choked
 pass after pass. According the theory of winning more total points, that
-shouldn\'t have been the end of the world.
+shouldn't have been the end of the world.
 
 But I got into a very negative frame of mind and started berating
 myself. I knew I would normally beat this guy, and here I was missing
@@ -63,12 +61,12 @@ shots I normally make. My entire body felt like concrete. Now I was
 missing returns too. I saw the final and the trophy disappear in the
 distance.
 
-I wasn\'t able to pull myself out of it and the guy won in two sets. I
+I wasn't able to pull myself out of it and the guy won in two sets. I
 sat by the side of the court for about 45 minutes after the match.
 
-It\'s a cliché but true that you have to play one ball at a time. I once
-saw Jimmy Connors say in a press conference that the ball doesn\'t know
-when it\'s set point. Later when I worked with Jim Loehr and he wrote
+It's a cliché but true that you have to play one ball at a time. I once
+saw Jimmy Connors say in a press conference that the ball doesn't know
+when it's set point. Later when I worked with Jim Loehr and he wrote
 \"From Negative to Positive\" for Tennisplayer, I understood better what
 had happened to me. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_from_negative_to_positive_images/jim_loehr_from_negative_to_positive.html).)
@@ -84,10 +82,9 @@ every point he lost. Annoyingly, he would address me by name, \"John
 this, John that.\" My mistake was listening to him.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_a-few-matches-i-lost-and-how/media/image3.jpg){width="5.066888670166229in"
-height="2.634782370953631in"}
+generated](media_a-few-matches-i-lost-and-how/media/image3.jpg)
 
-**Rusty\'s goal was to get enraged and play his best.**
+**Rusty's goal was to get enraged and play his best.**
 
 He had a great one-handed backhand that he hit early. I found that
 hitting my forehand crosscourt to it was not a winning pattern. He was
@@ -99,8 +96,8 @@ We got to five all in the third. And I missed an inside in forehand that
 probably would have been a winner. He said something like, \"You really
 had me there, John, too bad you choked that one.\"
 
-I\'d been annoyed for over two hours, and finally I exploded. \"Why
-don\'t you just shut the fuck up and just play tennis?\"
+I'd been annoyed for over two hours, and finally I exploded. \"Why
+don't you just shut the fuck up and just play tennis?\"
 
 To my surprise, that was just what he wanted to hear. The guy was one of
 these rare guys who played his best when enraged. This was why he had
@@ -113,18 +110,17 @@ there as fast as possible.
 
 **Andy**
 
-This one was another heart breaker---the semi-final in a men\'s Norcal
+This one was another heart breaker---the semi-final in a men's Norcal
 40 and over. The guy was good, and we were playing along to about 4-all
 in the first.
 
-I hit an obvious let first serve, which he didn\'t call, but hit the
-return for an alleged winner. I didn\'t go for the ball and immediately
+I hit an obvious let first serve, which he didn't call, but hit the
+return for an alleged winner. I didn't go for the ball and immediately
 called the let. All of a sudden, he was in my face telling me only the
-returner could call a let. That\'s not true in an unofficiated match.
+returner could call a let. That's not true in an unofficiated match.
 
 ![A tennis ball on a net Description automatically generated with low
-confidence](media_a-few-matches-i-lost-and-how/media/image4.jpg){width="4.166666666666667in"
-height="2.7777777777777777in"}
+confidence](media_a-few-matches-i-lost-and-how/media/image4.jpg)
 
 **Who calls a let in unoffiated matches?**
 
@@ -132,26 +128,26 @@ He refused to play the point over and just went over to the other court,
 like he expected me to acknowledge it was his point and go over there
 and serve to him. I refused.
 
-I knew the rule, so I was calm. I said, let\'s go get the tournament
+I knew the rule, so I was calm. I said, let's go get the tournament
 director and he can educate you on this. Well, the tournament director
 it so happened was playing in his own tournament. The person at the desk
 said he was unavailable.
 
 So, I went over to his court and interrupted his match. He was very
-pissed. Worse, he didn\'t actually understand the rule and said it was
-Andy\'s point whether I went for the ball or not. Andy chimed in that I
+pissed. Worse, he didn't actually understand the rule and said it was
+Andy's point whether I went for the ball or not. Andy chimed in that I
 had tried to play his return and called the let after I missed the ball.
-That didn\'t help.
+That didn't help.
 
 But I was still undeterred because I happened to have the rule book in
 my bag. I said something like you are mistaken, here is the rule and
 tried to hand him the book. He got angrier and said he was the
-tournament director, he knew the rule, didn\'t need to look at the book,
+tournament director, he knew the rule, didn't need to look at the book,
 and furthermore, I was breaking the rules by interrupting his match.
 
-I said let\'s go call someone at the Northern California Tennis
+I said let's go call someone at the Northern California Tennis
 Association---they had some type of hotline for match disputes. The
-tournament director said if you don\'t go back to your court and finish
+tournament director said if you don't go back to your court and finish
 your match right now, I will default you. Then he turned and went back
 to his match.
 
@@ -166,8 +162,7 @@ tournaments. I went back to find the tournament director but he had
 left. I wrote him a letter later, but he never responded.
 
 ![A close-up of a tennis racket Description automatically
-generated](media_a-few-matches-i-lost-and-how/media/image5.jpg){width="2.7777777777777777in"
-height="5.0in"}
+generated](media_a-few-matches-i-lost-and-how/media/image5.jpg)
 
 **A new racket and a loss of shot and emotional control.**
 
@@ -194,14 +189,14 @@ audible obscenity.\" I turned around and there was my very least
 favorite Norcal official, who was apparently serving as a roving judge.
 He had his arms crossed and was looking very stern.
 
-I\'d seen him around for years. Sorry, most officials are fine, but
+I'd seen him around for years. Sorry, most officials are fine, but
 observing him you could see how important this power made him feel.
 Being anti-establishment, I started thinking about how this official was
 a petty tyrant, blah blah.
 
-And now he\'s camped out on my match, arms folded, not going anywhere
+And now he's camped out on my match, arms folded, not going anywhere
 and staring at me. I may have said something like, \"You really do enjoy
-your job, don\'t you?\" He said something like \"If you say one more
+your job, don't you?\" He said something like \"If you say one more
 word I will default you.\" Somehow his thick German accent made it all
 worse.
 
@@ -217,8 +212,7 @@ story.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_a-few-matches-i-lost-and-how/media/image6.jpeg){width="1.8263888888888888in"
-height="2.64375in"}
+confidence](media_a-few-matches-i-lost-and-how/media/image6.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

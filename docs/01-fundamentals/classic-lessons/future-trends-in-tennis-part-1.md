@@ -8,13 +8,12 @@ Part 1**
 This new series of articles are thought experiments about the future of
 tennis\--where the sport could be headed, at the club and competitive
 professional level, in the teaching and coaching realm, and even in the
-more distance future with the evolution of machine intelligence. Let\'s
+more distance future with the evolution of machine intelligence. Let's
 start in this first article by discussing the evolution of players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_future-trends-in-tennis-part-1/media/image1.webp)
 
 **Bjorn Borg: a genius who anticipated the future.**
 
@@ -28,7 +27,7 @@ competitive edge in the future.
 
 Imagine, for example, having an impenetrable two-handed backhand, a
 heavy topspin forehand, and the fitness level of Rafael Nadal---not now
-but back in the 1970\'s. That was the game of Bjorn Borg, a genius who
+but back in the 1970's. That was the game of Bjorn Borg, a genius who
 had technique that anticipated the future of tennis. He was a player
 ahead of his time.
 
@@ -39,8 +38,7 @@ predict future trends and train those skills before others either see
 the trend or admit there is a trend in that direction.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image2.jpg){width="3.4722222222222223in"
-height="4.166666666666667in"}
+generated](media_future-trends-in-tennis-part-1/media/image2.jpg)
 
 **The Arias forehand became the Bollettieri forehand.**
 
@@ -48,7 +46,7 @@ An example from Nick Bollettieri illustrates my point. Jimmy Arias
 arrived at the Academy from upstate New York in 1977.
 
 While Bollettieri was housing most students at a nearby motel, he put up
-Arias, the national 14\'s champion, at his home on Longboat Key. When
+Arias, the national 14's champion, at his home on Longboat Key. When
 little Jimmy leaped up to smack the full-cut forehand that his father,
 Antonio, had taught him, Bollettieri saw the future flash before his
 eyes.
@@ -56,13 +54,13 @@ eyes.
 According to Nick, \"He shocked us all by jumping off the ground,
 throwing his full body into his forehand and wrapping his shoulder
 around on his follow-through,\" Bollettieri said of Arias. \"Add to this
-his \"weird\" strong semi western grip and you get a preview of today\'s
+his \"weird\" strong semi western grip and you get a preview of today's
 game.\"
 
-Antonio\'s invention soon belonged to Nick.
+Antonio's invention soon belonged to Nick.
 
-\"I called my staff over and said, \'Here\'s the new Bollettieri
-forehand. My other juniors started to imitate Jimmy\'s forehand, and it
+\"I called my staff over and said, 'Here's the new Bollettieri
+forehand. My other juniors started to imitate Jimmy's forehand, and it
 became the signature stroke of the Academy. I believe that it
 revolutionized tennis and that Jimmy Arias deserves credit for
 initiating the power game.\"
@@ -75,13 +73,12 @@ Here]{.underline}](https://www.tennisplayer.net/members/tour_strokes/jimmy_arias
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_future-trends-in-tennis-part-1/media/image1.webp)
 
 **Lluis Bruguera allowed his son to develop his heavy game in face of
 conventional nay sayers.**
 
-The same phenomenon occurred contemporaneously in Spain in the 1980\'s
+The same phenomenon occurred contemporaneously in Spain in the 1980's
 when Lluis Bruguera allowed his son Sergi to play with heavy spin and a
 similar semi-western grip to Arias. Many coaches at the time told Lluis
 he would destroy his son, but Bruguera saw the future and let Sergi play
@@ -92,26 +89,25 @@ status by identifying and teaching future trends before everyone else
 did.
 
 The bottom line is that tennis is constantly evolving. Some coaches
-teach the game of the past. Better coaches teach today\'s modern game.
+teach the game of the past. Better coaches teach today's modern game.
 Superior coaches identify and teach the game of the future.
 
 **Breaking Age Barriers**
 
 I believe the phenomenon of tennis players continuing to play
-successfully into their 30\'s and even 40\'s will continue and may
+successfully into their 30's and even 40's will continue and may
 become the norm. It was not long ago that 30 was consider the accepted
 retirement age on the pro tours. That is changing rapidly.
 
 With better sports medicine and health care and improved recovery
 modalities, players are able to compete at a high level and sustain
-longer careers. We may even see players competing well into their 40\'s
+longer careers. We may even see players competing well into their 40's
 in singles as many top doubles specialists do already. Recreational
 players will also benefit and will enjoy the game longer with fewer
 injuries and a higher level of play as they age.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image3.jpg){width="4.513888888888889in"
-height="2.736111111111111in"}
+generated](media_future-trends-in-tennis-part-1/media/image3.jpg)
 
 **Will we see Roger Federer competing into his 40s?**
 
@@ -122,11 +118,11 @@ there is a huge emphasis on physical conditioning. This trend should
 continue throughout the next century and beyond.
 
 Larger athletes have the capability to transcend the dimensions of the
-tennis court, whose original designers probably didn\'t anticipate very
+tennis court, whose original designers probably didn't anticipate very
 tall athletes like John Isner and Ivo Karlovic playing the sport.
 
-Expect to see more basketball size players 6\'6\" and above for men and
-over 6\' for women. This size player may become the rule rather than the
+Expect to see more basketball size players 6'6\" and above for men and
+over 6' for women. This size player may become the rule rather than the
 exception. This could also help revive the serve and volley game as
 discussed below.
 
@@ -134,10 +130,9 @@ discussed below.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-1/media/image4.jpg){width="3.125in"
-height="4.833333333333333in"}
+confidence](media_future-trends-in-tennis-part-1/media/image4.jpg)
 
-**Expect to see more 6\'6\" and taller players, like Karen Khachanov.**
+**Expect to see more 6'6\" and taller players, like Karen Khachanov.**
 
 Double-handed players have always been part of the game and in the
 future there will likely be more double-handed players on the tour.
@@ -178,8 +173,7 @@ with laterality training to enhance ambidexterity.
 
 ![A picture containing athletic game, sport, racquetball, tennis
 Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image5.jpg){width="4.166666666666667in"
-height="2.611111111111111in"}
+generated](media_future-trends-in-tennis-part-1/media/image5.jpg)
 
 **How could new racket designs like this one affect the game?**
 
@@ -196,17 +190,16 @@ the future might play if they had better laterality training.
 
 Future players and coaches might build off the Battistone innovations to
 create new strokes mechanics such as an improved running-jump serve. For
-example, if a very athletic 6\'6\" to 6\'10\" athlete learned a running
+example, if a very athletic 6'6\" to 6'10\" athlete learned a running
 jump serve, he could conceivably jump 5-6 feet into the court and be on
 top of the service line in one bound and a step, making the serve and
 volley strategy very attractive.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_future-trends-in-tennis-part-1/media/image6.webp)
 
-**Could Brian Battistone\'s serve motion be something more than an
+**Could Brian Battistone's serve motion be something more than an
 anomaly?**
 
 This player would also have tremendous angle down into the box,
@@ -223,7 +216,7 @@ It is a contrarian viewpoint, but if players are getting taller and more
 athletic like basketball players, the serve and volley strategy may
 become more common again. It will take a very explosive, tall athlete
 with long arms and quick reactions to blanket the net and neutralize the
-speed and effectiveness of today\'s return and passing shot game.
+speed and effectiveness of today's return and passing shot game.
 
 John Yandell is on record saying that he thinks the return of serve and
 volley could also include a higher percentage of swinging volleys that
@@ -233,8 +226,7 @@ in the future, that could also help accelerate the return of the serve
 and volley.
 
 ![A person playing tennis Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_future-trends-in-tennis-part-1/media/image7.webp)
 
 **The return of serve and volley might include a high percentage of
 swinging volleys.**
@@ -252,22 +244,21 @@ Hsieh, for example.
 
 Another grip structure that is becoming more prevalent on tour is the
 semi-western backhand grip/semi-western forehand combination. With this
-grip structure the grip actually doesn\'t need to be shifted much, if at
+grip structure the grip actually doesn't need to be shifted much, if at
 all, and the player hits the ball off the same side of the racquet face
 for both forehand and backhand. This eliminates the time cost of a grip
 change in other traditional grip structures, and is an advantage in
 particularly time critical situations like the return of serve.
 
 Former ATP pros Thomas Muster, Guga Kuerten, and current American pro
-Jack Sock exemplify this style of grip. Sock\'s variation is the
+Jack Sock exemplify this style of grip. Sock's variation is the
 two-handed backhand variety. But one-handers are gravitating to this
 grip structure more and more as they seek a grip structure that can help
 them mitigate the effects of high balls above the shoulder and also help
 them generate more topspin.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_future-trends-in-tennis-part-1/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_future-trends-in-tennis-part-1/media/image8.webp)
 
 **How about a grip structure that requires little or no shift in which
 the player hits forehands and backhands with the same face of the
@@ -281,7 +272,7 @@ back to essentially the same hand position.
 
 Ironically, going too far western with the forehand actually puts the
 grip on the backhand more Eastern to continental, which is less
-desirable in today\'s modern game. There is an inverse relationship
+desirable in today's modern game. There is an inverse relationship
 there.
 
 For this reason, most one-handed players will likely stop at
@@ -300,27 +291,25 @@ Rick Macci have been predicting\--and they are in fact training those
 players as I am myself.
 
 ![A person holding a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_future-trends-in-tennis-part-1/media/image9.webp)
 
 **Female juniors are being developed to play with ATP style strokes.**
 
 As women get stronger and as they receive better coaching, they will use
 shorter swing radius pathways to save time while generating equal or
-more power. This could transform the women\'s tour and open up new
-tactical implications for the women\'s game.
+more power. This could transform the women's tour and open up new
+tactical implications for the women's game.
 
 A Note:
 
 The predictions in this article are meant to provoke thought and
-discussion. I\'m sure I will not cover every possible future trend in
+discussion. I'm sure I will not cover every possible future trend in
 this series, nor is that my intent. I look forward to getting feedback
 and other ideas from the Tennisplayer community. Please share your
 comments and your own predictions in the Forum!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-1/media/image10.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_future-trends-in-tennis-part-1/media/image10.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -337,7 +326,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

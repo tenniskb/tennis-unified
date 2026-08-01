@@ -4,8 +4,7 @@
 
 **Dr. Brian Gordon**
 
-![](media_the-backswing-part-1/media/image1.webp){width="3.3333333333333335in"
-height="4.5in"}
+![](media_the-backswing-part-1/media/image1.webp)
 
 **The backswing; more complex than it looks, but with clear
 benchmarks.**
@@ -14,17 +13,17 @@ benchmarks.**
 ([Click
 Here](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx)).**
 
-Now let\'s move on to the second phase, the backswing. It may look
+Now let's move on to the second phase, the backswing. It may look
 simple, but far and away, the backswing is the most difficult phase of
-the serve to comprehend. So let\'s examine its components and see what
+the serve to comprehend. So let's examine its components and see what
 makes it so complex.
 
-We\'ll also outline the conditions for maximizing the backswing in your
-motion. Since there are a lot of issues to cover, we\'ll analyze the
+We'll also outline the conditions for maximizing the backswing in your
+motion. Since there are a lot of issues to cover, we'll analyze the
 backswing in two parts: part 1 in this article and part 2 to follow in
 the next issue.
 
-Before we start, let\'s review what we\'ve established so far. First we
+Before we start, let's review what we've established so far. First we
 divided the serve into 4 parts or Phases.
 
   -----------------------------
@@ -46,8 +45,7 @@ success in the later phases.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image2.webp)
 
 **Wind Ups can be circular, abbreviated, or somewhere in between.**
 
@@ -63,14 +61,13 @@ or lateral.
 We saw that the choice of footwork has implications for several
 important biomechanical characteristics of the overall motion. These
 include the direction of the ground reaction force, the ending position
-of the server\'s center of mass, the generation of forward angular
+of the server's center of mass, the generation of forward angular
 momentum, and the timing of the leg flexion and extension. ([Click
 Here](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx).)
 
 ![A tennis player hitting a ball with his racket Description
 automatically generated with medium
-confidence](media_the-backswing-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image3.webp)
 
 **The range of footwork options in the wind up.**
 
@@ -87,9 +84,9 @@ the data gives way to the art of coaching.
 
 **The Backswing**
 
-Now let\'s move forward to the second phase of the serve: the back
+Now let's move forward to the second phase of the serve: the back
 swing. What are the conditions or benchmarks you want to achieve as a
-server at the end of the backswing phase? As an example, we\'ll use the
+server at the end of the backswing phase? As an example, we'll use the
 serve of the same junior player we saw in the first article. Again, you
 can access the 3-D data on his motion through the interface below.
 
@@ -108,8 +105,7 @@ Mario Ancic.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image4.webp)
 
 **How far the racket travels during the backswing varies with windup
 style.**
@@ -141,8 +137,7 @@ measure.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image5.webp)
 
 **The correlation of the racket drop and leg drive is difficult to
 verify.**
@@ -171,8 +166,7 @@ backswing phase.]{.underline}]{.mark}**
 
 ![A tennis player is serving the ball Description automatically
 generated with low
-confidence](media_the-backswing-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image6.webp)
 
 **The transition from windup to backswing affects the timing of the leg
 drive.**
@@ -184,7 +178,7 @@ backswing at continuous or at an accelerating pace. With the hesitation
 transition, the racket slows down or even
 hesitates.]{.underline}]{.mark}**
 
-Either transition can be fine. It\'s a matter of how the transition
+Either transition can be fine. It's a matter of how the transition
 affects the coordination of the timing of the arm and racquet with the
 timing the leg drive.
 
@@ -201,8 +195,7 @@ leg drive.
 
 ![A picture containing athletic game, sport, player, female Description
 automatically
-generated](media_the-backswing-part-1/media/image7.webp){width="3.3333333333333335in"
-height="4.59375in"}
+generated](media_the-backswing-part-1/media/image7.webp)
 
 **An example from our research of the leg drive outrunning the racket
 drop.**
@@ -234,12 +227,12 @@ be covered in the next article.
 **The Three Roles of the Leg Drive**
 
 So, again, maximizing the influence of the leg drive requires precise
-timing between the motion in the upper and lower body. Now let\'s get
+timing between the motion in the upper and lower body. Now let's get
 more specific about the nature of these upper and lower body motions and
 what they should accomplish from a mechanical perspective.
 
-We\'ll start with the lower body or legs and address their role in the
-remainder of this article. Then we\'ll move on to the upper body action
+We'll start with the lower body or legs and address their role in the
+remainder of this article. Then we'll move on to the upper body action
 in the second backswing article next month.
 
 **[The leg drive has three primary roles during the back swing. These
@@ -255,13 +248,12 @@ are:]{.mark}**
 
 **The role of the legs in vertically accelerating the body is the
 easiest concept to understand. If you push down on the ground with the
-legs, your body\'s center of mass will rise vertically in response. For
+legs, your body's center of mass will rise vertically in response. For
 most servers this means you will leave the ground.**
 
 ![A toy figurine holding a sword Description automatically generated
 with low
-confidence](media_the-backswing-part-1/media/image8.webp){width="3.3333333333333335in"
-height="4.96875in"}
+confidence](media_the-backswing-part-1/media/image8.webp)
 
 **The red arrow shows the force placed on the upper arm by the motion of
 the trunk. Part of this comes from vertical acceleration of the body via
@@ -313,8 +305,7 @@ directing a high speed serve into the service box.
 
 ![A picture containing tennis, racket, person, court Description
 automatically
-generated](media_the-backswing-part-1/media/image9.webp){width="3.3333333333333335in"
-height="3.46875in"}
+generated](media_the-backswing-part-1/media/image9.webp)
 
 **The ground force causes forward angular momentum when directed behind
 the center of mass.**
@@ -337,8 +328,7 @@ same axis.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backswing-part-1/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image10.webp)
 
 **The \"Cart Wheel\": the forward rotation of the trunk, along an axis
 parallel to the baseline.**
@@ -356,11 +346,11 @@ angular momentum to racquet speed at contact is a modest 5 \-- 10 %.
 However, there is a major indirect benefit. This is because the creation
 and redistribution of forward angular momentum has a beneficial
 influence on the segmental sequencing of the motion in the upper body,
-as we\'ll see in a later article. ***[[For this reason, it is important
+as we'll see in a later article. ***[[For this reason, it is important
 to generate as much forward angular momentum as
 possible.]{.underline}]{.mark}***
 
-The lion\'s share of forward angular momentum generated during the serve
+The lion's share of forward angular momentum generated during the serve
 is generated during the back swing. As the player pushes on the ground
 with the legs, a reactionary ground force then pushes back on the body.
 **[If this force can be directed [behind]{.underline} the body center of
@@ -368,8 +358,7 @@ mass (as seen from the side along the baseline), the player adds more
 forward angular momentum to that generated already during the wind
 up.]{.mark}**
 
-![](media_the-backswing-part-1/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-backswing-part-1/media/image11.webp)
 
 **For our player a narrower platform increased the push from the
 ground.**
@@ -377,14 +366,13 @@ ground.**
 **The direction of the ground force, the size of the ground force, and
 the position of the body center of mass during the leg drive are factors
 that determine how much angular momentum is generated. [[But to a great
-extent, the player\'s ability to generate these factors in the backswing
+extent, the player's ability to generate these factors in the backswing
 is also related to what happened in the previous or first phase, the
 wind up.]{.underline}]{.mark}**
 
 ![A tennis player is serving the ball Description automatically
 generated with low
-confidence](media_the-backswing-part-1/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image12.webp)
 
 **The third leg drive contributor is hip rotation.**
 
@@ -467,8 +455,7 @@ foot will tend to be much more effective in creating spin momentum of
 the body, and therefore rotation of the hips. This is because it located
 further from the center of mass.
 
-![](media_the-backswing-part-1/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-backswing-part-1/media/image13.webp)
 
 **Horizontal ground force from the back foot creates hip rotation.**
 
@@ -496,8 +483,7 @@ compared to the other axes.
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_the-backswing-part-1/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image14.webp)
 
 **The back leg encounters less resistance and leaves the ground first.**
 
@@ -525,8 +511,7 @@ platform stance.
 
 ![A tennis player jumping in the air Description automatically generated
 with medium
-confidence](media_the-backswing-part-1/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-backswing-part-1/media/image15.webp)
 
 **Hip rotation: one of the myriad factors that contributes to effective
 serving.**
@@ -549,21 +534,20 @@ maximize their potential.
 More in the next article on how the upper body interacts with legs in
 the backswing phase. Stay tuned.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                               | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-backswing-part-1/media/image16.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                              | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                            | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                            | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                            | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                            | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                            | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                            | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                            | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                            |                                                               |
-|                                                                                                                                                                            | To visit his website, [**[Click                               |
-|                                                                                                                                                                            | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                            |                                                               |
-|                                                                                                                                                                            | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                            | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+============================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-backswing-part-1/media/image16.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

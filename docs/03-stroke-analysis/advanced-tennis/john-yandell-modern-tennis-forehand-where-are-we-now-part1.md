@@ -11,14 +11,13 @@ The Forehand Part 1**
 **John Yandell**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image1.png){width="2.34375in"
-height="3.9791666666666665in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image1.png)
 
-**That\'s me upper left, looking through my goggles at Pete Sampras in
+**That's me upper left, looking through my goggles at Pete Sampras in
 high speed video at the US Open in 1997.**
 
 In 1997, we did our first high speed filming of professional tennis. And
-we have continued to film the top players ever since. It\'s now been 20
+we have continued to film the top players ever since. It's now been 20
 years.
 
 So what have we learned? How has the game evolved technically? And what
@@ -36,7 +35,7 @@ was becoming much more widespread, but players including Sampras, Pat
 Rafter, Tim Henman, and Greg Rusedski were still winning playing serve
 and volley.
 
-Most players still had conservative grips by today\'s standards---not
+Most players still had conservative grips by today's standards---not
 continental certainly, but eastern or modified eastern or mild
 semi-westerns. Off the ground, hard relatively flat winners were
 predominant at least on hard courts.
@@ -58,10 +57,9 @@ just on clay but on all surfaces.
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image2.webp)
 
-**Bruguera\'s spin levels seemed like an anomaly in 1997.**
+**Bruguera's spin levels seemed like an anomaly in 1997.**
 
 We saw in a previous article ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/))
@@ -75,7 +73,7 @@ the more extreme elements had become the norm on the forehand. In many
 ways it appeared there was now an increasing disconnect on the forehand
 between the highest levels of tennis and the recreational game.
 
-The question became then what can we learn from these elite players\'
+The question became then what can we learn from these elite players'
 forehands---if anything? Were the differences so fundamental that
 players were better off with more purely classical models?
 
@@ -90,8 +88,7 @@ Here]{.underline}**](https://www.tennisplayer.net/members/teaching_systems/welby
 
 ![A picture containing text, outdoor, player, scoreboard Description
 automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image3.webp)
 
 **What can the average player learn from the evolution of the modern
 forehand?**
@@ -99,12 +96,12 @@ forehand?**
 But what about the great modern players? I believe that certain core
 fundamentals in the current game still apply across all levels. In fact
 some of the most foundational elements are actually stronger with
-today\'s top players and these players are actually better models in
+today's top players and these players are actually better models in
 some ways for all players. And because of our high speed filming, these
 model elements can be clearly identified across the entire range of
 elite pros.
 
-Many of the current pro elements of course don\'t apply, despite the
+Many of the current pro elements of course don't apply, despite the
 hopes and delusions of many club players. The important question is
 which ones do?And how do we separate foundational from advanced? This is
 what I have tried to do in my series on the Ultimate Fundamentals
@@ -122,21 +119,20 @@ Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gor
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image4.webp)
 
 **What applications of pro elements are delusional and which are
 possible?**
 
-So in this article let\'s summarize what and how we can learn from the
-pros forehands. But it\'s important to understand I am not saying \"play
+So in this article let's summarize what and how we can learn from the
+pros forehands. But it's important to understand I am not saying \"play
 like the pros.\" The players that can play like the pros are the pros.
-We aren\'t them. But we can still be inspired by the top players and
+We aren't them. But we can still be inspired by the top players and
 develop tremendous technical foundations using core elements as models.
 
 **Split Step**
 
-Let\'s start with the split step. As Tim Mayotte has recently written
+Let's start with the split step. As Tim Mayotte has recently written
 ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/famouscoach/tim_mayotte/the_split_step_ready_position/))
 a great split step separates players even at the pro level. Roger
@@ -154,10 +150,9 @@ disastrous.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image5.webp)
 
-**Federer\'s split step perfection---starting before contact, the top of
+**Federer's split step perfection---starting before contact, the top of
 the split at the hit and a balanced landing in a wide base.**
 
 The time between the hits in club tennis is usually a little more than a
@@ -166,11 +161,11 @@ that time. This makes executing a fundamentally sound groundstroke
 impossible.
 
 You may not time your split like Roger. But it only takes focus and
-intention to begin to split at the opponent\'s hit.
+intention to begin to split at the opponent's hit.
 
 You may not have the strength or flexibility to split in a base that is
 twice your shoulder width with substantial knee bend like Federer---it
-fact you probably or undoubtedly don\'t. But you have to develop a feel
+fact you probably or undoubtedly don't. But you have to develop a feel
 for a width and depth in your own split that is comfortable for you and
 that lets you immediately initiate the preparation on landing.
 
@@ -188,8 +183,7 @@ extreme grips are far better suited to heavy high bouncing balls that
 are common in the pro game.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image6.webp)
 
 **The modern game includes the full range of grips from Eastern to Full
 Western.**
@@ -204,28 +198,27 @@ heights from his waist to mid chest. In the pro game this requires the
 super human ability to play 90mph balls with heavy spin on the rise.
 
 For the huge majority of all players, that same contact height matches
-the top of the bounce on most incoming balls. You don\'t have to hit on
+the top of the bounce on most incoming balls. You don't have to hit on
 the rise. You can also hit slightly on the way down. That makes the
 Eastern a great choice, or at most a mild semi-western.
 
 **Preparation**
 
 No matter what you may have heard about delaying preparation and
-\"stalking\" the ball by keeping the racket in front of your body, it\'s
+\"stalking\" the ball by keeping the racket in front of your body, it's
 unarguable that good preparation begins instantaneously after landing
 the split---or sometimes even in the air. The high speed footage is
 conclusive. Preparation starts immediately with a unitary body turn
 involving the feet torso and racket.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image7.webp)
 
 **The start of the body turn with the racket staying in front of the
 torso.**
 
 The other end of the advice spectrum from \"stalking\" is to immediately
-\"take your racket back,\" with independent motion of the arm. Don\'t do
+\"take your racket back,\" with independent motion of the arm. Don't do
 it. Instead start the unitary body turn immediately after the split.
 
 In the initial phase of the turn, the shoulders turn about 45 degrees.
@@ -249,8 +242,7 @@ is still in front of the torso and moving back mainly as a natural
 consequence of the body rotation.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image8.webp)
 
 **The hands can separate at slightly different times and the opposite
 arm can be straight or slightly bent. The keys are in the shoulder, hip
@@ -264,7 +256,7 @@ The shoulders and hips continue to rotate until the shoulders are at
 least 90 degrees to the net or usually more.
 
 Some players, like Djokovic, hold on longer with the opposite hand. The
-left arm stretch starts a little later and the arm doesn\'t always
+left arm stretch starts a little later and the arm doesn't always
 straighten out completely. But most players are going to get a better
 turn by focusing on the straight arm and probably a little sooner
 separation of the hands.
@@ -278,8 +270,7 @@ degrees to the court, tilted only slightly to the right.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image9.webp)
 
 **The ATP backswing---more compact and more powerful.**
 
@@ -305,14 +296,13 @@ calls the \"tap the dog\" position. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
 
 From this backswing position, the racket moves down with the hitting
-hand staying the player\'s right side. This is in comparison to the
+hand staying the player's right side. This is in comparison to the
 so-called WTA backswing of a player like Madison Keys in which the hand
 moves backward behind the plane of the body. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/bulletin/forum/tennisplayer/66212-interactive-forum-october-2017-madison-keys-groundstrokes).)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image10.webp)
 
 **From the outside backswing position, the hand, arm and racket rotate
 backward from the shoulder as the they move downward preparing for the
@@ -338,18 +328,17 @@ automatic consequence of the move through the flip.
 
 It is situational and tends to happen most on lower balls and far less
 on higher balls. And many great, great forehands---for example Juan
-Martin Delpotro\'s forehand have little to no racket face closure. (For
+Martin Delpotro's forehand have little to no racket face closure. (For
 an article on the Myth of the Dog Pat [**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_dog/).)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image11.webp)
 
 **Is there an acceleration benefit in pointing the tip of the racket
 more toward the opponent?**
 
-So don\'t think about patting the dog! It will destroy the timing of the
+So don't think about patting the dog! It will destroy the timing of the
 completion of the flip and diminish the creation of energy and the
 natural and automatic benefits of the outside backswing by putting a
 mechanical muscle movement into the middle of a critical part of the
@@ -370,8 +359,7 @@ tip of the racket is pointing forward, possibly this effect is
 increased. That hypothesis is shared by Brian Gordon.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image12.webp)
 
 **Federer tilts the racket tip around 30 degrees forward, but Nadal
 points it straight upward or close.**
@@ -383,7 +371,7 @@ the racket tip almost directly upward.
 
 So pointing the tip is not something fundamental to a great forehand.
 And it adds complexity to the movement and takes somewhat more time.
-It\'s not something that the average player should try to build in to
+It's not something that the average player should try to build in to
 underlying fundamentals. If you have or develop a rock solid technical
 motion---ok then sure try the experiment. But if you have a rock solid
 technical forehand, you might wonder why.
@@ -402,8 +390,7 @@ about the current top players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image13.webp)
 
 **Compare the racket movement, racket tip angle and backward arm
 rotation for Djokovic and Sock.**
@@ -427,16 +414,15 @@ racket as the backswing descends and moves into the forward swing.
 
 As the animations of Agassi and Federer show, players with the ATP
 backswing and relatively mild grips show, the racket tip as well as the
-hand stay on the player\'s hitting side.
+hand stay on the player's hitting side.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image14.webp)
 
 **Compare the similar outside backswings of Andre Agassi and Roger
 Federer.**
 
-It\'s the hand position that\'s the important element here. Many players
+It's the hand position that's the important element here. Many players
 with grips further under the handle will actually point the racket tip
 behind them at the bottom of the backswing.
 
@@ -451,23 +437,22 @@ most of the palm of the hand is behind the handle, basically parallel
 with the string bed. The key to evaluating the backswing is to look at
 the hand not the racket tip.
 
-The angle of the racket tip isn\'t a problem. Conceivably it may take
+The angle of the racket tip isn't a problem. Conceivably it may take
 some small additional fraction of time for the racket head to get around
 to the contact. But the angle is a natural component and just because
-the racket points behind the torso it doesn\'t mean the hand went too
-far back or indicate that the player isn\'t using the more compact ATP
+the racket points behind the torso it doesn't mean the hand went too
+far back or indicate that the player isn't using the more compact ATP
 style motion with his hand on his hitting side.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image15.webp)
 
 **With extreme grips the hand can be on the hitting side, but the racket
 tip itself is angled behind the torso.**
 
 **Stance**
 
-Now let\'s move onto another important misunderstood element: stance.
+Now let's move onto another important misunderstood element: stance.
 There is widespread confusion about stances in pro tennis---and how they
 apply at the levels below. One mantra you hear is: \"play open stance
 like the pros.\" This usually is interpreted to mean fully open stance,
@@ -475,23 +460,22 @@ with both feet parallel to the baseline. You hear this from online gurus
 but also amazingly from experienced tour coaches.
 
 The actuality is that pro players hit the vast majority of all forehands
-with semi-open stances. The feet aren\'t parallel to the baseline. A
+with semi-open stances. The feet aren't parallel to the baseline. A
 line across the toes is at an angle of 30 to 45 degrees to the baseline.
 
-But if open is good isn\'t more open better? It\'s the opposite. If the
+But if open is good isn't more open better? It's the opposite. If the
 feet stay parallel to the baseline it restricts the rotation of the
 hips, left leg and left foot. Players cannot coil and load as fully. In
 fact if you look at a pro player like Andy Murray, one of the problems
-in his forehand is that he uses more fully open stances and doesn\'t
+in his forehand is that he uses more fully open stances and doesn't
 turn as fully as players like Nadal, Federer or Djokovic on balls where
 he could. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/).)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image16.webp)
 
-**Fully open stance reduces coiling. Note the angle of Andy\'s shoulders
+**Fully open stance reduces coiling. Note the angle of Andy's shoulders
 and hips and the reduced left arm stretch.**
 
 **Forward Torso Rotation**
@@ -510,8 +494,7 @@ speeds up to 100mph or even higher and spin up to and exceeding 3000rpm.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image17.webp)
 
 **The back shoulder rotates around 180 degrees in the forward swing,
 finishing facing the net.**
@@ -534,13 +517,12 @@ forehand, generating \"linear\" energy in the direction of the ball.
 That has been completely replaced on the vast majority of pro forehands
 by the forces of torso rotation, which create \"angular\" energy. If
 stepping directly forward into the shot would generate more power, you
-would see the top players do it. They don\'t. The neutral step puts the
+would see the top players do it. They don't. The neutral step puts the
 front foot in the way of the forward rotation of the back shoulder,
 which is what maximizes racket speed, velocity and spin.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image18.webp)
 
 **In pro tennis the semi-open set up allows an easy, natural transition
 to neutral stance or lower or shorter balls.**
@@ -551,8 +533,8 @@ amount of rotation is common in elite junior tennis and college tennis.
 But is it realistic for us? No\--and recreational players who try it
 often look awkward or comical.
 
-It\'s not only the more extreme and more athletic movement that is far
-more difficult and as well more difficult to time. It\'s also related to
+It's not only the more extreme and more athletic movement that is far
+more difficult and as well more difficult to time. It's also related to
 contact height. Pro players in general play the ball at far more extreme
 contact heights with one or both feet fully in the air.
 
@@ -568,23 +550,22 @@ open stance is the magic key to a \"modern\" forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image19.webp)
 
 **High contact goes hand in hand with full body rotation with both feet
 in the air.**
 
 In fact with lower level players, I usually prioritize a great turn with
 a either a solid semi-open stance or a neutral stance above the exact
-size or shape of the backswing---assuming it isn\'t gigantically huge.
-If the hand goes a little bit behind the body, that\'s ok as a player
+size or shape of the backswing---assuming it isn't gigantically huge.
+If the hand goes a little bit behind the body, that's ok as a player
 works to create great preparation. Again, in the crazy internet world
 you see an obsession with the outside, ATP backswing but when you look
 at the players they often have terrible turns and extreme open stances.
 
 With the neutral stance the torso rotation through the swing will be
 about 90 degrees. With a great semi open stance often slightly more. But
-don\'t try to throw your back shoulder through the shot! Let the
+don't try to throw your back shoulder through the shot! Let the
 rotation happen naturally in the course of forward swing---something we
 will look at in similar detail in the second article. Stay tuned!
 
@@ -592,8 +573,7 @@ will look at in similar detail in the second article. Stay tuned!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image20.jpeg){width="1.8263888888888888in"
-height="2.64375in"}
+confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part1/media/image20.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

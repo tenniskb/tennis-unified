@@ -24,7 +24,7 @@ Hầu hết các HLV và vận động viên đều tiếp cận tennis như m�
 thao thuần kỹ thuật: đánh bóng đúng kỹ thuật, di chuyển đủ nhanh, chiến
 thuật đủ thông minh là thắng. Cách tiếp cận này đúng nhưng thiếu. Nó
 giải thích tại sao rất nhiều tay vợt 5.0 có kỹ thuật đẹp nhưng vẫn thua
-những đối thủ \'xấu\' hơn trong trận đấu thực.
+những đối thủ 'xấu' hơn trong trận đấu thực.
 
 Tennis ở cấp độ 5.0 trở lên không còn là trận chiến giữa hai bộ kỹ năng.
 Đó là cuộc đối đầu giữa hai hệ thần kinh, hai tâm trí, hai luồng năng
@@ -58,15 +58,15 @@ Ba tầng này không hoạt động tuần tự. Chúng hoạt động ĐỒNG 
 phản hồi lẫn nhau trong mỗi điểm tennis. Đây là điều phân biệt hệ thống
 này với mọi coaching model truyền thống.
 
-+-----------------------------------------------------------------------+
-| **🎯 INSIGHT CỐT LÕI**                                                |
-|                                                                       |
-| Một tay vợt 5.0 đang cùng lúc xử lý: vị trí của 1.728 điểm trên sân,  |
+| **🎯 INSIGHT CỐT LÕI** |
+| --- |
+|  |
+| Một tay vợt 5.0 đang cùng lúc xử lý: vị trí của 1.728 điểm trên sân, |
 | quỹ đạo bóng ở 120+ km/h, trạng thái cơ học của 17 khớp xương, ý định |
 | chiến thuật của đối thủ, và nhịp hơi thở của chính mình. Không có não |
-| người nào làm điều này bằng suy nghĩ có ý thức. Đây là lý do tại sao  |
-| Thần --- tầng vô thức --- là tầng quyết định nhất.                    |
-+-----------------------------------------------------------------------+
+| người nào làm điều này bằng suy nghĩ có ý thức. Đây là lý do tại sao |
+| Thần --- tầng vô thức --- là tầng quyết định nhất. |
+
 
 **1.3 Tại Sao Tay Vợt 5.0 Cần Hệ Thống Này?**
 
@@ -108,16 +108,16 @@ kiến trúc tổng thể. Với vai trò là HLV của các VĐV 5.0, bạn có
 dụng từng chương như một module training độc lập, hoặc đi theo lộ trình
 tuần tự.
 
-+-----------------------------------------------------------------------+
-| **📌 NGUYÊN TẮC ĐỌC**                                                 |
-|                                                                       |
-| Mỗi khái niệm trong sách này có thể được kiểm tra ngay trên sân.      |
+| **📌 NGUYÊN TẮC ĐỌC** |
+| --- |
+|  |
+| Mỗi khái niệm trong sách này có thể được kiểm tra ngay trên sân. |
 | Trước khi tiếp tục chương tiếp theo, hãy dành ít nhất một buổi tập để |
 | thử nghiệm thực tế. Lý thuyết không có giá trị nếu không được thể xác |
-| hóa.                                                                  |
-+-----------------------------------------------------------------------+
+| hóa. |
 
-**1.5 Định Nghĩa Lại \'Vận Động Viên Hoàn Chỉnh\'**
+
+**1.5 Định Nghĩa Lại 'Vận Động Viên Hoàn Chỉnh'**
 
 Mô hình coaching truyền thống định nghĩa VĐV hoàn chỉnh theo các chiều:
 kỹ thuật, thể lực, chiến thuật, tâm lý. Đây là mô hình song song --- bốn
@@ -142,12 +142,12 @@ chủ đích (điều chỉnh Khí) có thể reset cả Tinh và Thần trong 3
 
 **1.6 Tinh Thần Của Mushin Và Flow**
 
-Trong Thiền Tông Nhật Bản, trạng thái Mushin (無心 --- \'Vô Tâm\') là
+Trong Thiền Tông Nhật Bản, trạng thái Mushin (無心 --- 'Vô Tâm') là
 trạng thái mà tâm trí không bám víu vào bất kỳ suy nghĩ hay cảm xúc nào.
 Không phải trống rỗng --- mà là sẵn sàng hoàn toàn.
 
 Mihaly Csikszentmihalyi gọi trạng thái tương đương trong tâm lý học hiện
-đại là \'Flow\' --- điểm giao thoa giữa thách thức và kỹ năng, nơi ý
+đại là 'Flow' --- điểm giao thoa giữa thách thức và kỹ năng, nơi ý
 thức tự ngã tan biến và hành động diễn ra tự nhiên và hiệu quả nhất.
 
 Với tay vợt 5.0, Mushin/Flow không phải là thứ xuất hiện tình cờ trong
@@ -157,14 +157,14 @@ thống ba tầng Tinh--Khí--Thần.
 
 Cuốn sách này là lộ trình để đến đó.
 
-+-----------------------------------------------------------------------+
-| **🧘 CÂU HỎI MỞ CHƯƠNG**                                              |
-|                                                                       |
-| Hãy nhớ lại lần cuối bạn chơi tennis trong trạng thái \'flow\' ---    |
-| khi mọi thứ tự nhiên, khi bóng đến chậm hơn, khi quyết định đến tự    |
-| nhiên không cần suy nghĩ. Điều gì đã xảy ra trước đó? Đó chính là     |
-| điểm bắt đầu của hành trình này.                                      |
-+-----------------------------------------------------------------------+
+| **🧘 CÂU HỎI MỞ CHƯƠNG** |
+| --- |
+|  |
+| Hãy nhớ lại lần cuối bạn chơi tennis trong trạng thái 'flow' --- |
+| khi mọi thứ tự nhiên, khi bóng đến chậm hơn, khi quyết định đến tự |
+| nhiên không cần suy nghĩ. Điều gì đã xảy ra trước đó? Đó chính là |
+| điểm bắt đầu của hành trình này. |
+
 
 **CHƯƠNG 2**
 
@@ -182,16 +182,16 @@ của những quyết định đó dưới áp lực thi đấu thực.
 Điểm khác biệt giữa tay vợt 4.0 và 5.0 không chỉ là kỹ thuật hay thể
 lực. Đó là tốc độ và độ chính xác của Tinh. Ở cấp 5.0, bóng đến nhanh
 đến mức não không có đủ thời gian xử lý thông tin qua con đường ý thức.
-Tay vợt giỏi không \'suy nghĩ\' --- họ \'nhận diện và phản ứng\'.
+Tay vợt giỏi không 'suy nghĩ' --- họ 'nhận diện và phản ứng'.
 
-+-----------------------------------------------------------------------+
-| **🧠 KHOA HỌC THẦN KINH**                                             |
-|                                                                       |
+| **🧠 KHOA HỌC THẦN KINH** |
+| --- |
+|  |
 | Nghiên cứu của Anders Ericsson về chuyên gia cho thấy: các quyết định |
-| của chuyên gia hầu hết diễn ra ở não giữa và não bò sát --- không     |
+| của chuyên gia hầu hết diễn ra ở não giữa và não bò sát --- không |
 | phải vỏ não trước trán (nơi xử lý logic). Điều này giải thích tại sao |
-| \'nghĩ nhiều\' trong thi đấu lại là kẻ thù của hiệu suất.             |
-+-----------------------------------------------------------------------+
+| 'nghĩ nhiều' trong thi đấu lại là kẻ thù của hiệu suất. |
+
 
 **2.2 Ba Cấp Độ Của Tinh**
 
@@ -199,19 +199,19 @@ Tay vợt giỏi không \'suy nghĩ\' --- họ \'nhận diện và phản ứng\
 
 Đây là cấp độ cơ bản nhất của Tinh. Tay vợt phải có thư viện mô thức
 phong phú trong não: cross rally, DTL attack, angle approach, lob
-defense\... Mỗi mô thức là một \'chunk\' thần kinh --- não xử lý cả cụm
+defense\... Mỗi mô thức là một 'chunk' thần kinh --- não xử lý cả cụm
 thông tin như một đơn vị duy nhất thay vì từng phần nhỏ.
 
 Một tay vợt 5.0 nên có ít nhất 20--30 mô thức được tự động hóa hoàn
-toàn. Khi não nhận ra situation tương ứng với mô thức, nó \'tải\' toàn
+toàn. Khi não nhận ra situation tương ứng với mô thức, nó 'tải' toàn
 bộ chuỗi phản ứng mà không cần xử lý từng bước.
 
 **Cấp 2 --- Tactical Selection (Lựa Chọn Chiến Thuật)**
 
 Ở cấp này, Tinh không chỉ nhận diện mà còn đánh giá và lựa chọn: trong
 situation này, với đối thủ này, ở điểm score này, mô thức nào có xác
-suất thắng cao nhất? Đây là tầng mà HLV thường gọi là \'game sense\' hay
-\'court IQ\'.
+suất thắng cao nhất? Đây là tầng mà HLV thường gọi là 'game sense' hay
+'court IQ'.
 
 Tay vợt 5.0 phải có khả năng thực hiện việc này trong \<0.5 giây. Điều
 đó chỉ có thể đạt được thông qua tập luyện có chủ đích (Deliberate
@@ -238,15 +238,15 @@ Pattern Library (Thư Viện Mô Thức) là nền tảng của Tinh. Mỗi mô 
 
 8.  Exit trigger: Khi nào cần abandon mô thức và switch?
 
-+-----------------------------------------------------------------------+
-| **⚙️ VÍ DỤ MÔ THỨC --- Cross → Cross → DTL Attack**                   |
-|                                                                       |
-| SITUATION: Rally trung lập, đối thủ ở baseline, bóng có thể build.    |
-| EXECUTION: (1) Cross sâu tốc độ trung bình → (2) Cross tiếp tục, đợi  |
+| **⚙️ VÍ DỤ MÔ THỨC --- Cross → Cross → DTL Attack** |
+| --- |
+|  |
+| SITUATION: Rally trung lập, đối thủ ở baseline, bóng có thể build. |
+| EXECUTION: (1) Cross sâu tốc độ trung bình → (2) Cross tiếp tục, đợi |
 | bóng ngắn → (3) DTL với tốc độ cao khi bóng lên cao hơn net. SUCCESS: |
-| Đối thủ bị kéo ra wide sau cross thứ hai. EXIT TRIGGER: Nếu sau 2     |
-| cross đối thủ vẫn ổn định → chuyển sang angle attack.                 |
-+-----------------------------------------------------------------------+
+| Đối thủ bị kéo ra wide sau cross thứ hai. EXIT TRIGGER: Nếu sau 2 |
+| cross đối thủ vẫn ổn định → chuyển sang angle attack. |
+
 
 **2.4 Decision Speed --- Tốc Độ Quyết Định**
 
@@ -265,15 +265,15 @@ bóng. Họ đọc:
 - Weight distribution trước shot
 
 Thông tin này được xử lý PRE-CONSCIOUSLY --- dưới ngưỡng ý thức. Đây là
-lý do tại sao luyện tập \'cue reading\' quan trọng hơn luyện tập
-\'reaction time\'. Bạn không rèn luyện khả năng phản ứng --- bạn rèn
+lý do tại sao luyện tập 'cue reading' quan trọng hơn luyện tập
+'reaction time'. Bạn không rèn luyện khả năng phản ứng --- bạn rèn
 luyện khả năng đọc.
 
 **2.5 Fail Mode Của Tinh**
 
 Khi Tinh bị rối loạn, tay vợt có các triệu chứng sau:
 
-- Analysis paralysis: Đứng yên, không di chuyển vì \'đang nghĩ\'
+- Analysis paralysis: Đứng yên, không di chuyển vì 'đang nghĩ'
 
 - Pattern switching: Liên tục thay đổi kế hoạch trong cùng một rally
 
@@ -282,13 +282,13 @@ Khi Tinh bị rối loạn, tay vợt có các triệu chứng sau:
 - Recency bias: Chỉ phản ứng với shot vừa xảy ra, không đọc được xu
   hướng
 
-+-----------------------------------------------------------------------+
-| **🔧 QUICK FIX TRONG TRẬN**                                           |
-|                                                                       |
-| Khi nhận ra Tinh đang bị rối: (1) Reset về mô thức đơn giản nhất      |
-| (cross rally), (2) Giảm tốc độ quyết định --- lấy 1 nhịp thêm, (3)    |
-| Dùng cue ngắn: \'Pattern. Next ball.\' để tái kích hoạt hệ thống.     |
-+-----------------------------------------------------------------------+
+| **🔧 QUICK FIX TRONG TRẬN** |
+| --- |
+|  |
+| Khi nhận ra Tinh đang bị rối: (1) Reset về mô thức đơn giản nhất |
+| (cross rally), (2) Giảm tốc độ quyết định --- lấy 1 nhịp thêm, (3) |
+| Dùng cue ngắn: 'Pattern. Next ball.' để tái kích hoạt hệ thống. |
+
 
 **2.6 Tinh Và Score Management**
 
@@ -326,21 +326,21 @@ Khí trong tennis là toàn bộ chiều năng lượng: cách năng lượng đ
 ra, lưu thông, và chuyển giao vào bóng. Điều này bao gồm: chuỗi động lực
 kinetic chain từ chân lên tới cổ tay, nhịp hơi thở đồng bộ với từng
 shot, footwork rhythm, và đặc biệt là Kình lực --- loại năng lượng đàn
-hồi mà các HLV hiện đại gọi là \'elastic energy\'.
+hồi mà các HLV hiện đại gọi là 'elastic energy'.
 
 Khác với quan niệm sức mạnh thô (hit harder), Khí trong hệ thống này đề
 cập đến CHẤT LƯỢNG của năng lượng --- năng lượng được tạo ra hiệu quả
-nhất từ ít nỗ lực nhất. Đây là bí mật của những tay vợt trông \'nhẹ
-nhàng\' nhưng bóng lại rất nặng.
+nhất từ ít nỗ lực nhất. Đây là bí mật của những tay vợt trông 'nhẹ
+nhàng' nhưng bóng lại rất nặng.
 
-+-----------------------------------------------------------------------+
-| **⚡ ĐỊNH NGHĨA KÌNH LỰC (Elastic Tone)**                             |
-|                                                                       |
+| **⚡ ĐỊNH NGHĨA KÌNH LỰC (Elastic Tone)** |
+| --- |
+|  |
 | Kình không phải là cứng và không phải là mềm. Kình là Sẵn Sàng Có Cấu |
-| Trúc --- cơ bắp ở trạng thái pre-loaded (đã tích lũy năng lượng đàn   |
+| Trúc --- cơ bắp ở trạng thái pre-loaded (đã tích lũy năng lượng đàn |
 | hồi), sẵn sàng giải phóng theo chuỗi từ lớn đến nhỏ. Đây là nguyên lý |
-| của cả Thái Cực Quyền lẫn serve của Novak Djokovic.                   |
-+-----------------------------------------------------------------------+
+| của cả Thái Cực Quyền lẫn serve của Novak Djokovic. |
+
 
 **3.2 Kinetic Chain --- Chuỗi Động Lực**
 
@@ -383,14 +383,14 @@ impact. Grunting giúp:
 HLV nên dạy VĐV thở theo nhịp: hít vào trong split step --- thở ra khi
 impact. Nhịp này, khi được tự động hóa, trở thành metronome của Khí.
 
-+-----------------------------------------------------------------------+
-| **🔬 NGHIÊN CỨU**                                                     |
-|                                                                       |
-| Nghiên cứu của đại học Vienna (2019) trên 200 tay vợt cho thấy: tay   |
-| vợt có nhịp thở nhất quán giữa các điểm có UE rate thấp hơn 23% so    |
-| với nhóm đối chứng. Hơi thở không phải là chi tiết nhỏ --- đó là      |
-| infrastructure của Khí.                                               |
-+-----------------------------------------------------------------------+
+| **🔬 NGHIÊN CỨU** |
+| --- |
+|  |
+| Nghiên cứu của đại học Vienna (2019) trên 200 tay vợt cho thấy: tay |
+| vợt có nhịp thở nhất quán giữa các điểm có UE rate thấp hơn 23% so |
+| với nhóm đối chứng. Hơi thở không phải là chi tiết nhỏ --- đó là |
+| infrastructure của Khí. |
+
 
 **3.4 Footwork Như Một Ngôn Ngữ Năng Lượng**
 
@@ -423,14 +423,14 @@ giải thích tại sao backswing VÀ loading quan trọng hơn swing speed: n�
 cơ bắp được pre-stretched đúng cách (x lớn hơn), năng lượng giải phóng
 sẽ lớn hơn theo bình phương của biên độ.
 
-+-----------------------------------------------------------------------+
-| **⚡ ỨNG DỤNG THỰC TẾ**                                               |
-|                                                                       |
-| Federer không hit harder hơn Nadal. Nhưng Federer có kinetic chain    |
-| sạch hơn --- năng lượng mất mát ít hơn ở mỗi khớp. Kết quả: racket    |
-| head speed tương đương nhưng cảm giác \'nhẹ nhàng\' hơn nhiều. Đây là |
-| Kình lực đỉnh cao.                                                    |
-+-----------------------------------------------------------------------+
+| **⚡ ỨNG DỤNG THỰC TẾ** |
+| --- |
+|  |
+| Federer không hit harder hơn Nadal. Nhưng Federer có kinetic chain |
+| sạch hơn --- năng lượng mất mát ít hơn ở mỗi khớp. Kết quả: racket |
+| head speed tương đương nhưng cảm giác 'nhẹ nhàng' hơn nhiều. Đây là |
+| Kình lực đỉnh cao. |
+
 
 **3.6 Recovery Và Tái Tạo Khí Giữa Điểm**
 
@@ -451,7 +451,7 @@ VĐV giao thức cụ thể:
 19. Giây 21--25: Ready state --- split step position, mắt tracking
     opponent
 
-Giao thức này biến 25 giây \'chờ\' thành 25 giây \'nạp lại hệ thống\'.
+Giao thức này biến 25 giây 'chờ' thành 25 giây 'nạp lại hệ thống'.
 Sau 6 tuần luyện tập, VĐV nên có thể vào trạng thái ready hoàn toàn
 trong ≤20 giây.
 
@@ -493,13 +493,13 @@ diện tuyệt đối, và trạng thái nội tâm mà từ đó mọi quyết 
 định thường là Thần: ai giữ được tâm trí ổn định hơn khi điểm số căng,
 khi gặp bad luck, khi thể trạng không tốt.
 
-+-----------------------------------------------------------------------+
-| **🧘 NGHỊCH LÝ CỦA THẦN**                                             |
-|                                                                       |
-| Thần không thể bị ép buộc. Càng cố \'tập trung hơn\', Thần càng biến  |
-| mất. Thần đến khi điều kiện đúng được tạo ra --- giống như nước tìm   |
-| chỗ thấp. Nhiệm vụ của HLV là xây dựng điều kiện đó.                  |
-+-----------------------------------------------------------------------+
+| **🧘 NGHỊCH LÝ CỦA THẦN** |
+| --- |
+|  |
+| Thần không thể bị ép buộc. Càng cố 'tập trung hơn', Thần càng biến |
+| mất. Thần đến khi điều kiện đúng được tạo ra --- giống như nước tìm |
+| chỗ thấp. Nhiệm vụ của HLV là xây dựng điều kiện đó. |
+
 
 **4.2 Ba Trạng Thái Thần Trong Thi Đấu**
 
@@ -511,7 +511,7 @@ cấp thấp nhất --- tồn tại ở mọi người, không cần luyện t�
 
 **Trạng Thái 2 --- Thinking (Suy Nghĩ Có Ý Thức)**
 
-Tay vợt đang cố gắng \'nghĩ đúng\' --- nhớ lại coaching cues, tự nhắc
+Tay vợt đang cố gắng 'nghĩ đúng' --- nhớ lại coaching cues, tự nhắc
 nhở kỹ thuật, phân tích điểm số. Đây là trạng thái nhiều HLV vô tình dạy
 VĐV hướng đến --- nhưng trong thi đấu, nó thực ra CẢN TRỞ hiệu suất vì
 chiếm dụng bandwidth của não.
@@ -530,28 +530,28 @@ thái 3 trở thành default, không phải exception.
 
 Có 4 kẻ thù chính của Thần trong thi đấu:
 
-20. Future thinking: \'Nếu thua set này thì\...\' --- Thần rời khỏi hiện
+20. Future thinking: 'Nếu thua set này thì\...' --- Thần rời khỏi hiện
     tại
 
-21. Past dwelling: \'Sao lại double fault lúc nãy\...\' --- Thần bị kéo
+21. Past dwelling: 'Sao lại double fault lúc nãy\...' --- Thần bị kéo
     về quá khứ
 
-22. Self-judgment: \'Mình chơi tệ quá\...\' --- Thần tự phá hủy
+22. Self-judgment: 'Mình chơi tệ quá\...' --- Thần tự phá hủy
 
-23. Outcome attachment: \'Phải thắng điểm này\...\' --- Thần bị khóa
+23. Outcome attachment: 'Phải thắng điểm này\...' --- Thần bị khóa
     cứng
 
 Cả bốn đều có chung một cơ chế: Thần rời khỏi HIỆN TẠI. Và khi Thần
 không ở hiện tại, Tinh không thể đọc đúng và Khí không thể flow.
 
-+-----------------------------------------------------------------------+
-| **🎯 NGUYÊN TẮC CỐT LÕI**                                             |
-|                                                                       |
-| Điểm tennis chỉ tồn tại trong HIỆN TẠI. Mọi shot chỉ xảy ra ở HIỆN    |
+| **🎯 NGUYÊN TẮC CỐT LÕI** |
+| --- |
+|  |
+| Điểm tennis chỉ tồn tại trong HIỆN TẠI. Mọi shot chỉ xảy ra ở HIỆN |
 | TẠI. Thần ở đâu --- hiệu suất ở đó. Đây không phải triết lý mơ hồ --- |
-| đây là sự thật sinh lý học: hệ thần kinh chỉ hoạt động tối ưu khi     |
-| được cho phép tập trung vào TÍN HIỆU HIỆN TẠI.                        |
-+-----------------------------------------------------------------------+
+| đây là sự thật sinh lý học: hệ thần kinh chỉ hoạt động tối ưu khi |
+| được cho phép tập trung vào TÍN HIỆU HIỆN TẠI. |
+
 
 **4.4 Xây Dựng Routine Giữa Điểm**
 
@@ -562,13 +562,13 @@ kế để reset hệ thống trong 20--25 giây.
 BPR phải có 4 phase:
 
 - Physical release: Bước đi, gõ dây, turn away from the point --- tín
-  hiệu cho não \'điểm đó đã qua\'
+  hiệu cho não 'điểm đó đã qua'
 
 - Breath reset: 1--2 hơi thở sâu kích hoạt vagal tone
 
 - Cue word: 1 từ/cụm từ ngắn định hướng Thần cho điểm tới
 
-- Ready trigger: Hành động vật lý đánh dấu \'sẵn sàng 100%\' (grip
+- Ready trigger: Hành động vật lý đánh dấu 'sẵn sàng 100%' (grip
   check, bounce ball)
 
 Rafael Nadal có BPR được nghiên cứu kỹ nhất trong lịch sử tennis --- 19
@@ -580,25 +580,25 @@ Thần hoàn hảo nhất mà thể thao hiện đại từng tạo ra.
 Điểm xấu (double fault, easy miss, net cord) là khoảnh khắc nguy hiểm
 nhất cho Thần. HLV cần trang bị cho VĐV Reset Protocol cụ thể:
 
-24. Accept: Thừa nhận cảm xúc tiêu cực mà không kháng cự (\'Ừ, tức
-    thật\')
+24. Accept: Thừa nhận cảm xúc tiêu cực mà không kháng cự ('Ừ, tức
+    thật')
 
 25. Release: Cơ chế vật lý giải phóng cảm xúc (thở ra mạnh, đập đất nhẹ)
 
-26. Reframe: Một câu chuyện mới (\'Mình đã cố --- lần này làm tốt hơn\')
+26. Reframe: Một câu chuyện mới ('Mình đã cố --- lần này làm tốt hơn')
 
 27. Refocus: Trở về cue word của hiện tại
 
-Cả quá trình này phải diễn ra trong ≤10 giây. Nếu dài hơn, Thần bị \'bội
-thực\' cảm xúc.
+Cả quá trình này phải diễn ra trong ≤10 giây. Nếu dài hơn, Thần bị 'bội
+thực' cảm xúc.
 
-+-----------------------------------------------------------------------+
-| **💡 KỸ THUẬT \'SCOREBOARD BLINDNESS\'**                              |
-|                                                                       |
-| Dạy VĐV nhìn scoreboard tối đa 2 lần trong một set --- sau game 4 và  |
-| sau game 8. Mọi thời điểm còn lại, score là thông tin, không phải áp  |
-| lực. Điều này giúp Thần không bị distract bởi outcome.                |
-+-----------------------------------------------------------------------+
+| **💡 KỸ THUẬT 'SCOREBOARD BLINDNESS'** |
+| --- |
+|  |
+| Dạy VĐV nhìn scoreboard tối đa 2 lần trong một set --- sau game 4 và |
+| sau game 8. Mọi thời điểm còn lại, score là thông tin, không phải áp |
+| lực. Điều này giúp Thần không bị distract bởi outcome. |
+
 
 **4.6 Thần Trong Các Điểm Quan Trọng**
 
@@ -611,7 +611,7 @@ thiệp vào hệ thống đã được tự động hóa. Nghiên cứu của S
 (Choke, 2010) cho thấy: yêu cầu chuyên gia giải thích từng bước họ đang
 làm khiến performance sụt giảm ngay lập tức.
 
-Giải pháp: HLV không bao giờ yêu cầu VĐV \'nghĩ kỹ hơn\' ở điểm quan
+Giải pháp: HLV không bao giờ yêu cầu VĐV 'nghĩ kỹ hơn' ở điểm quan
 trọng. Thay vào đó, hướng dẫn họ vào physical routine và 1 cue word duy
 nhất. Ít suy nghĩ hơn = Thần tốt hơn = hiệu suất cao hơn.
 
@@ -645,24 +645,24 @@ tự --- đó là trạng thái song song đa tầng.
 
 Ba tầng ảnh hưởng lẫn nhau theo mô hình vòng lặp:
 
-+-----------------------------------------------------------------------+
-| **🔄 VÒNG PHẢN HỒI DƯƠNG (Upward Spiral)**                            |
-|                                                                       |
+| **🔄 VÒNG PHẢN HỒI DƯƠNG (Upward Spiral)** |
+| --- |
+|  |
 | Thần bình thản → Tinh đọc rõ hơn → Khí flow tốt hơn → Shot chất lượng |
 | cao → Kết quả tốt → Thần được củng cố. Đây là trạng thái khi VĐV đang |
-| \'on fire\'.                                                          |
-+-----------------------------------------------------------------------+
+| 'on fire'. |
 
-+-----------------------------------------------------------------------+
-| **🔄 VÒNG PHẢN HỒI ÂM (Downward Spiral)**                             |
-|                                                                       |
+
+| **🔄 VÒNG PHẢN HỒI ÂM (Downward Spiral)** |
+| --- |
+|  |
 | Thần lo lắng → Tinh bị distract → Khí co cứng → Shot kém → Kết quả tệ |
-| → Thần càng lo → Loop tiếp tục. Đây là cơ chế của choking.            |
-+-----------------------------------------------------------------------+
+| → Thần càng lo → Loop tiếp tục. Đây là cơ chế của choking. |
+
 
 Hiểu được hai vòng lặp này là công cụ coaching mạnh nhất. Câu hỏi không
-phải là \'sửa kỹ thuật gì?\' mà là \'can thiệp vào vòng lặp âm ở điểm
-nào để đảo chiều nhanh nhất?\'
+phải là 'sửa kỹ thuật gì?' mà là 'can thiệp vào vòng lặp âm ở điểm
+nào để đảo chiều nhanh nhất?'
 
 **5.3 Điểm Can Thiệp Tối Ưu**
 
@@ -672,7 +672,7 @@ Mỗi tầng có thể là điểm can thiệp để đảo chiều downward spi
 
 Thay đổi hơi thở có thể đảo chiều toàn bộ hệ thống trong 3 hơi thở. Đây
 là can thiệp nhanh nhất vì Khí có tốc độ phản hồi cao nhất. Lệnh đơn
-giản: \'Thở ra dài.\' Vagal tone kích hoạt → parasympathetic system →
+giản: 'Thở ra dài.' Vagal tone kích hoạt → parasympathetic system →
 toàn bộ hệ thống calms down.
 
 **Can thiệp qua Tinh (chậm hơn, bền hơn)**
@@ -710,11 +710,11 @@ HLV cần nhận diện và chỉ ra cho VĐV:
 
 Làm sao biết VĐV đang ở trạng thái tích hợp cao? HLV cần quan sát:
 
-- Footwork trở nên \'tự nhiên\' --- không có do dự ở split step
+- Footwork trở nên 'tự nhiên' --- không có do dự ở split step
 
 - Shot selection nhất quán trong cùng một tình huống
 
-- Recovery time ngắn lại --- VĐV \'tự động\' về vị trí
+- Recovery time ngắn lại --- VĐV 'tự động' về vị trí
 
 - Facial expression neutral --- không quá vui sau điểm thắng, không sụp
   đổ sau điểm thua
@@ -723,13 +723,13 @@ Làm sao biết VĐV đang ở trạng thái tích hợp cao? HLV cần quan sá
 
 - Body language ổn định xuyên suốt set
 
-+-----------------------------------------------------------------------+
-| **📊 KPI TÍCH HỢP**                                                   |
-|                                                                       |
-| Chỉ số đo lường tích hợp tốt nhất: tỷ lệ UE/Winner so với average.    |
-| Khi hệ thống tích hợp tốt, tỷ lệ này ổn định bất kể score. Khi tỷ lệ  |
+| **📊 KPI TÍCH HỢP** |
+| --- |
+|  |
+| Chỉ số đo lường tích hợp tốt nhất: tỷ lệ UE/Winner so với average. |
+| Khi hệ thống tích hợp tốt, tỷ lệ này ổn định bất kể score. Khi tỷ lệ |
 | xấu đi ở điểm quan trọng --- đó là dấu hiệu tích hợp đang break down. |
-+-----------------------------------------------------------------------+
+
 
 **5.6 Lộ Trình Phát Triển Tích Hợp**
 
@@ -746,7 +746,7 @@ HLV cần hiểu rằng sự tích hợp phát triển theo giai đoạn --- kh�
     thức đầy đủ. Review sau trận. Tinh chỉnh hàng tuần.
 
 Giai đoạn 1 thường bị bỏ qua --- HLV muốn đốt cháy thẳng vào tích hợp.
-Kết quả là VĐV có \'integration\' mong manh, tan vỡ ngay khi áp lực thật
+Kết quả là VĐV có 'integration' mong manh, tan vỡ ngay khi áp lực thật
 xuất hiện. Hãy kiên nhẫn với giai đoạn phân tách.
 
   ----------------------- ----------------------- -----------------------
@@ -766,7 +766,7 @@ xuất hiện. Hãy kiên nhẫn với giai đoạn phân tách.
 
 Proprioception --- khả năng cảm nhận vị trí cơ thể, góc khớp, trọng
 lượng phân bố và vận tốc chuyển động mà không cần nhìn --- là cơ chế vật
-lý của Khí. Đây là \'giác quan thứ sáu\' của VĐV đỉnh cao: họ không tính
+lý của Khí. Đây là 'giác quan thứ sáu' của VĐV đỉnh cao: họ không tính
 toán chuyển động --- họ CẢM chuyển động.
 
 Ở mức 5.0, proprioception là yếu tố phân biệt player giỏi và player xuất
@@ -774,14 +774,14 @@ sắc. Tay vợt xuất sắc biết chính xác vị trí racket face khi khôn
 biết khoảng cách từ cơ thể đến bóng không cần đánh giá có ý thức, và tự
 động điều chỉnh balance trong mọi tư thế.
 
-+-----------------------------------------------------------------------+
-| **🔬 KHOA HỌC**                                                       |
-|                                                                       |
-| Proprioceptors (cơ quan cảm thụ bản thể) nằm trong cơ, gân, khớp và   |
-| da. Chúng gửi tín hiệu về não với tốc độ 120m/s --- nhanh hơn nhiều   |
-| so với visual input (70m/s). Điều này giải thích tại sao mắt không    |
-| phải là cảm quan nhanh nhất trong tennis --- cơ thể mới là.           |
-+-----------------------------------------------------------------------+
+| **🔬 KHOA HỌC** |
+| --- |
+|  |
+| Proprioceptors (cơ quan cảm thụ bản thể) nằm trong cơ, gân, khớp và |
+| da. Chúng gửi tín hiệu về não với tốc độ 120m/s --- nhanh hơn nhiều |
+| so với visual input (70m/s). Điều này giải thích tại sao mắt không |
+| phải là cảm quan nhanh nhất trong tennis --- cơ thể mới là. |
+
 
 **6.2 Ba Hệ Thống Proprioceptive Trong Tennis**
 
@@ -789,30 +789,30 @@ biết khoảng cách từ cơ thể đến bóng không cần đánh giá có �
 
 Tai trong liên tục cập nhật thông tin về gia tốc và hướng đầu. Trong
 tennis, split step kích hoạt hệ vestibular cho phép tái định hướng
-nhanh. VĐV có vestibular kém thường bị \'lắc\' sau khi đổi hướng đột
+nhanh. VĐV có vestibular kém thường bị 'lắc' sau khi đổi hướng đột
 ngột.
 
 **Hệ Thống Muscle Spindle (Cơ)**
 
 Muscle spindles cảm nhận sự kéo dài của cơ bắp. Đây là nền tảng của
 pre-stretch trong kinetic chain. Khi backswing được thực hiện đúng,
-spindles \'set\' trong cơ bắp cho phép phản xạ kéo căng tự động tạo
+spindles 'set' trong cơ bắp cho phép phản xạ kéo căng tự động tạo
 power mà không cần voluntary force.
 
 **Hệ Thống Golgi Tendon (Gân)**
 
 Golgi tendon organs bảo vệ gân bằng cách giải phóng tension khi vượt
 ngưỡng. Khi được training tốt, chúng cho phép VĐV generate max power mà
-không bị injured --- vì cơ thể \'biết\' giới hạn của mình.
+không bị injured --- vì cơ thể 'biết' giới hạn của mình.
 
 **6.3 Phát Triển Proprioception Cho Tay Vợt 5.0**
 
 **Shadow Swing Training**
 
 Swing không bóng với tập trung hoàn toàn vào cảm giác --- không phải
-hình thức visual. HLV yêu cầu VĐV nhắm mắt và mô tả: \'Cảm giác ở vai
+hình thức visual. HLV yêu cầu VĐV nhắm mắt và mô tả: 'Cảm giác ở vai
 như thế nào? Hông đang ở đâu trong không gian? Trọng lượng đang trên
-chân nào?\'
+chân nào?'
 
 Bắt đầu chậm --- đủ chậm để ý thức theo kịp cảm giác. Sau đó tăng tốc
 dần. Mục tiêu là cảm giác đi trước kỹ thuật, không phải ngược lại.
@@ -863,27 +863,27 @@ Giao thức chống fatigue-induced proprioceptive loss:
 
 31. Hydration: Dehydration 2% giảm proprioceptive accuracy 15%
 
-32. Micro-rest: 30 giây \'reset\' position giữa các game --- không phải
+32. Micro-rest: 30 giây 'reset' position giữa các game --- không phải
     nghỉ mà là conscious body scan
 
 33. Breathing: Hơi thở sâu phục hồi proprioceptive tone nhanh hơn bất kỳ
     can thiệp nào khác
 
 34. Active recovery footwork: Giữa games, shuffle bước nhẹ thay vì đứng
-    yên --- giữ proprioceptive system \'warm\'
+    yên --- giữ proprioceptive system 'warm'
 
-+-----------------------------------------------------------------------+
-| **🎯 COACHING CUE CHO PROPRIOCEPTION**                                |
-|                                                                       |
-| \'Cảm nhận mặt đất qua đế giày.\' --- Đây là cue kích hoạt toàn bộ    |
-| proprioceptive chain từ chân lên. Khi VĐV ground awareness tốt, mọi   |
-| thứ phía trên --- hông, thân, vai --- sẽ tự align theo.               |
-+-----------------------------------------------------------------------+
+| **🎯 COACHING CUE CHO PROPRIOCEPTION** |
+| --- |
+|  |
+| 'Cảm nhận mặt đất qua đế giày.' --- Đây là cue kích hoạt toàn bộ |
+| proprioceptive chain từ chân lên. Khi VĐV ground awareness tốt, mọi |
+| thứ phía trên --- hông, thân, vai --- sẽ tự align theo. |
+
 
   ----------------------- ----------------------- -----------------------
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
 
-    **Read through the    **Feel → don\'t think → **Ground contact. Body
+    **Read through the    **Feel → don't think → **Ground contact. Body
           feet**                  move**                  scan.**
   ----------------------- ----------------------- -----------------------
 
@@ -919,14 +919,14 @@ của một pattern:
 
 - Kick serve (ad court wide): Kéo đối thủ ra wide, setup forehand attack
 
-+-----------------------------------------------------------------------+
-| **🎯 SERVE SELECTION MATRIX**                                         |
-|                                                                       |
+| **🎯 SERVE SELECTION MATRIX** |
+| --- |
+|  |
 | Đối thủ BH yếu + Deuce court → T serve → BH return → Forehand attack. |
-| Đối thủ slow mover + Deuce court → Wide serve → Có court mở. Đối thủ  |
-| mạnh return + Break point → Body serve → Force errors. Đây là Tinh    |
-| của serve --- không phải ném bóng vào tường.                          |
-+-----------------------------------------------------------------------+
+| Đối thủ slow mover + Deuce court → Wide serve → Có court mở. Đối thủ |
+| mạnh return + Break point → Body serve → Force errors. Đây là Tinh |
+| của serve --- không phải ném bóng vào tường. |
+
 
 **7.3 Khí Trong Serve --- Kinetic Chain Phân Tích**
 
@@ -934,10 +934,10 @@ Serve có kinetic chain dài và phức tạp nhất trong tennis. Phân tích t
 phase:
 
 35. Trophy position: Đây là điểm loading quan trọng nhất. Shoulder
-    external rotation và knee bend tạo ra potential energy. \'Kingham\'
+    external rotation và knee bend tạo ra potential energy. 'Kingham'
     ở đây được tích lũy để release sau đó.
 
-36. Drop and loop: Racket drop xuống \'slot\' tạo pre-stretch cho cơ
+36. Drop and loop: Racket drop xuống 'slot' tạo pre-stretch cho cơ
     posterior shoulder. Không phải pulling down --- mà là falling down
     nhờ gravity.
 
@@ -958,7 +958,7 @@ phase:
 **7.4 Thần Trong Serve --- Vượt Qua Serve Yips**
 
 Serve yips (mất kiểm soát serve đột ngột) là biểu hiện kinh điển của
-Thần can thiệp tiêu cực vào Khí. Khi VĐV \'nghĩ về serve\', prefrontal
+Thần can thiệp tiêu cực vào Khí. Khi VĐV 'nghĩ về serve', prefrontal
 cortex overrides hệ thống tự động --- và serve vỡ.
 
 Giao thức phòng chống serve yips:
@@ -969,30 +969,30 @@ Giao thức phòng chống serve yips:
 42. Target visualization: Nhìn vào target 2 giây, commit hoàn toàn, nhìn
     về phía toss.
 
-43. Cue word release: Một từ duy nhất ngay trước motion bắt đầu: \'Up\',
-    \'Free\', \'Go\'.
+43. Cue word release: Một từ duy nhất ngay trước motion bắt đầu: 'Up',
+    'Free', 'Go'.
 
 44. Trust: Không can thiệp sau khi cue word được nói. Cơ thể đã biết làm
     gì.
 
-+-----------------------------------------------------------------------+
-| **🔬 NGHIÊN CỨU VỀ SERVE YIPS**                                       |
-|                                                                       |
-| Nghiên cứu của Richard Masters (Implicit Learning Theory) cho thấy:   |
-| serve yips phổ biến hơn ở tay vợt học serve thông qua explicit        |
-| instructions (verbal rules). Tay vợt học serve implicit               |
-| (observation + feel) ít bị yips hơn 60%. Đây là bằng chứng mạnh nhất  |
-| cho tầm quan trọng của Thần trong serve.                              |
-+-----------------------------------------------------------------------+
+| **🔬 NGHIÊN CỨU VỀ SERVE YIPS** |
+| --- |
+|  |
+| Nghiên cứu của Richard Masters (Implicit Learning Theory) cho thấy: |
+| serve yips phổ biến hơn ở tay vợt học serve thông qua explicit |
+| instructions (verbal rules). Tay vợt học serve implicit |
+| (observation + feel) ít bị yips hơn 60%. Đây là bằng chứng mạnh nhất |
+| cho tầm quan trọng của Thần trong serve. |
+
 
 **7.5 Phát Triển Second Serve Dưới Áp Lực**
 
 Second serve là nơi Thần bị thách thức nhất. Sau double fault hoặc miss
-first serve, brain tạo ra \'protect\' mode --- và serve trở nên
+first serve, brain tạo ra 'protect' mode --- và serve trở nên
 defensive, spinny, yếu.
 
 Giải pháp: Luyện tập second serve ở HIGHER PRESSURE HƠN THỰC TẾ. Drill:
-chỉ được 1 serve (không có first serve). Đây là \'overload training\'
+chỉ được 1 serve (không có first serve). Đây là 'overload training'
 cho Thần --- khi áp lực tập luyện cao hơn thi đấu, serve yips không có
 cơ hội xuất hiện.
 
@@ -1037,14 +1037,14 @@ bản. Điều này đòi hỏi cả ba tầng TKT hoạt động ở level cao.
 
 Mỗi forehand nên được lựa chọn từ matrix 2x2:
 
-+-----------------------------------------------------------------------+
-| **📊 FOREHAND DECISION MATRIX**                                       |
-|                                                                       |
-| HIGH ball + OPEN stance → Heavy topspin cross (Tinh: build pressure)  |
-| HIGH ball + CLOSED stance → Aggressive DTL (Tinh: attack) LOW ball +  |
-| OPEN stance → Dip cross, spin-heavy (Tinh: reset) LOW ball + CLOSED   |
-| stance → Slice or block (Tinh: defensive)                             |
-+-----------------------------------------------------------------------+
+| **📊 FOREHAND DECISION MATRIX** |
+| --- |
+|  |
+| HIGH ball + OPEN stance → Heavy topspin cross (Tinh: build pressure) |
+| HIGH ball + CLOSED stance → Aggressive DTL (Tinh: attack) LOW ball + |
+| OPEN stance → Dip cross, spin-heavy (Tinh: reset) LOW ball + CLOSED |
+| stance → Slice or block (Tinh: defensive) |
+
 
 HLV cần drill từng ô của matrix riêng biệt trước khi VĐV có thể chọn
 trong thời gian thực. Pattern recognition của Tinh được xây dựng qua
@@ -1052,13 +1052,13 @@ repetition trong drill, không phải trong match.
 
 **8.3 Khí Của Forehand --- Heavy Ball Physics**
 
-\'Heavy ball\' --- cảm giác bóng nặng hơn tốc độ thực của nó --- là kết
+'Heavy ball' --- cảm giác bóng nặng hơn tốc độ thực của nó --- là kết
 quả của sự kết hợp tối ưu giữa pace và spin. Công thức:
 
 Heavy Ball = Forward Pace × Topspin RPM × Contact Quality
 
 Ba yếu tố này phải được tối ưu đồng thời. Forehand chỉ fast nhưng không
-có spin thì \'nhẹ\' và dễ block. Forehand chỉ có spin nhưng không có
+có spin thì 'nhẹ' và dễ block. Forehand chỉ có spin nhưng không có
 pace thì dễ attack. Heavy ball balance cả hai.
 
 **Kình Lực Trong Forehand**
@@ -1109,14 +1109,14 @@ giờ là forehand WINNER trừ khi situation cực kỳ rõ ràng.
 55. Phase 6 --- Weaponization: Forehand kết hợp với movement, with
     patterns, với split-second decisions.
 
-+-----------------------------------------------------------------------+
-| **💡 DRILL: HEAVY BALL DEVELOPMENT**                                  |
-|                                                                       |
-| Mục tiêu: 20 forehands liên tiếp với đối thủ cảm nhận \'nặng\'. Cách  |
+| **💡 DRILL: HEAVY BALL DEVELOPMENT** |
+| --- |
+|  |
+| Mục tiêu: 20 forehands liên tiếp với đối thủ cảm nhận 'nặng'. Cách |
 | test: Đối thủ đứng baseline, nhận forehand với bộ vợt bình thường. Họ |
 | cảm thấy bị đẩy ra sau không? Đó là heavy ball. Progression: Tăng RPM |
-| (brushing angle) tuần 1--3. Tăng pace tuần 4--6. Kết hợp tuần 7+.     |
-+-----------------------------------------------------------------------+
+| (brushing angle) tuần 1--3. Tăng pace tuần 4--6. Kết hợp tuần 7+. |
+
 
 **8.6 Forehand Pattern Integration**
 
@@ -1188,8 +1188,8 @@ Two-handed backhand có kinetic chain ngắn hơn forehand. Điểm mấu chốt
 
 **Thần: Dũng Cảm Với Backhand**
 
-Two-handed backhand fail mode thường là \'defensive mentality\' --- VĐV
-dùng nó để \'keep the ball in\' thay vì tấn công. Thần cần re-frame:
+Two-handed backhand fail mode thường là 'defensive mentality' --- VĐV
+dùng nó để 'keep the ball in' thay vì tấn công. Thần cần re-frame:
 backhand là cơ hội, không phải vấn đề cần giải quyết.
 
 **9.3 One-Handed Backhand --- The Art Form**
@@ -1225,14 +1225,14 @@ TKT, đó là vũ khí chiến lược đa năng:
 - Angle creation: Slice sang wide angle tạo geometry không thể đạt với
   topspin
 
-+-----------------------------------------------------------------------+
-| **⚡ DRILL: SLICE MASTERY**                                           |
-|                                                                       |
-| Drill 1: 50 slices với target landing dưới service line --- float     |
-| slice là tội lỗi. Drill 2: Slice vào góc wide của doubles alley ---   |
-| angle slice cần precision. Drill 3: Slice → Approach → Volley         |
-| sequence --- three-shot combo integration.                            |
-+-----------------------------------------------------------------------+
+| **⚡ DRILL: SLICE MASTERY** |
+| --- |
+|  |
+| Drill 1: 50 slices với target landing dưới service line --- float |
+| slice là tội lỗi. Drill 2: Slice vào góc wide của doubles alley --- |
+| angle slice cần precision. Drill 3: Slice → Approach → Volley |
+| sequence --- three-shot combo integration. |
+
 
 **9.5 Backhand Down The Line --- Điểm Quyết Định**
 
@@ -1301,14 +1301,14 @@ dựa trên 4 trigger:
 63. Chip and charge: Đặc biệt trong doubles hoặc chống lại pusher ---
     second serve return chip → charge net
 
-+-----------------------------------------------------------------------+
-| **🎯 TINH TÁCH BIỆT: KHI NÀO KHÔNG LÊN NET**                          |
-|                                                                       |
+| **🎯 TINH TÁCH BIỆT: KHI NÀO KHÔNG LÊN NET** |
+| --- |
+|  |
 | Khi bóng đến là HIGH + HEAVY: đối thủ sẽ có passing shot dễ. Khi đứng |
 | ở defensive position: approach phải có time và position. Khi score là |
-| 30-40 hoặc breakpoint: highest-percentage play → baseline. Timl cần   |
-| Tinh rõ ràng: đây là quyết định trước khi bóng đến, không phải sau.   |
-+-----------------------------------------------------------------------+
+| 30-40 hoặc breakpoint: highest-percentage play → baseline. Timl cần |
+| Tinh rõ ràng: đây là quyết định trước khi bóng đến, không phải sau. |
+
 
 **10.3 Khí Của Volley --- Compact Energy**
 
@@ -1414,14 +1414,14 @@ Timing của split step: Feet leave ground khi đối thủ bắt đầu forward
 swing. Land exactly khi đối thủ contacts ball. Khoảnh khắc landing =
 khoảnh khắc direction reading = ngay lập tức first move.
 
-+-----------------------------------------------------------------------+
-| **⚡ CRITICAL TIMING NOTE**                                           |
-|                                                                       |
-| Split step TRE = tiếp đất trước khi đối thủ đánh → bị trapped. Split  |
-| step EARLY = tiếp đất sau khi biết hướng → mất reactive advantage.    |
-| Split step PERFECT = landing đúng lúc đối thủ contacts ball → 0.2     |
-| giây advantage.                                                       |
-+-----------------------------------------------------------------------+
+| **⚡ CRITICAL TIMING NOTE** |
+| --- |
+|  |
+| Split step TRE = tiếp đất trước khi đối thủ đánh → bị trapped. Split |
+| step EARLY = tiếp đất sau khi biết hướng → mất reactive advantage. |
+| Split step PERFECT = landing đúng lúc đối thủ contacts ball → 0.2 |
+| giây advantage. |
+
 
 **11.3 Năm Loại Di Chuyển Cần Tự Động Hóa**
 
@@ -1465,14 +1465,14 @@ recovery. Thần component: không panic, breathe through.
 
 **Drill B: Shadow Footwork Với Cue**
 
-HLV gọi \'Cross!\', \'DTL!\', \'Net!\', \'Lob!\' và VĐV di chuyển +
+HLV gọi 'Cross!', 'DTL!', 'Net!', 'Lob!' và VĐV di chuyển +
 shadow swing tương ứng. Không bóng thật. Focus hoàn toàn vào footwork
 quality và split step timing.
 
 **Drill C: Random Feed Pressure**
 
 HLV feed bóng random với pace cao. VĐV chỉ được TRACK bóng --- không
-được anticipate. Drill này phá vỡ bad habit của \'early movement\' ---
+được anticipate. Drill này phá vỡ bad habit của 'early movement' ---
 di chuyển trước khi biết hướng bóng.
 
 **11.5 Court Geometry --- Tư Duy Về Không Gian**
@@ -1483,20 +1483,20 @@ footwork và proactive footwork.
 
 Court geometry awareness gồm:
 
-- Biết \'optimal recovery position\' sau mỗi shot type
+- Biết 'optimal recovery position' sau mỗi shot type
 
 - Đọc angle của shot mình vừa đánh để predict đối thủ sẽ đánh về đâu
 
 - Positioning để tối đa hóa coverage của 2 loại bóng nguy hiểm nhất
 
-+-----------------------------------------------------------------------+
-| **📊 POSITIONING RULES**                                              |
-|                                                                       |
-| Sau forehand cross: recover slightly right of center. Sau forehand    |
-| DTL: recover toward center-left. Sau serve wide: recover toward T.    |
-| Sau serve T: recover toward wide. Những quy tắc này tối ưu hóa        |
-| coverage mà không cần phải predict.                                   |
-+-----------------------------------------------------------------------+
+| **📊 POSITIONING RULES** |
+| --- |
+|  |
+| Sau forehand cross: recover slightly right of center. Sau forehand |
+| DTL: recover toward center-left. Sau serve wide: recover toward T. |
+| Sau serve T: recover toward wide. Những quy tắc này tối ưu hóa |
+| coverage mà không cần phải predict. |
+
 
   ----------------------- ----------------------- -----------------------
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
@@ -1538,15 +1538,15 @@ Trước mỗi trận, HLV và VĐV cần xây dựng Game Plan theo structure s
 
 73. Return Strategy: Return intention và positioning
 
-+-----------------------------------------------------------------------+
-| **📋 GAME PLAN TEMPLATE**                                             |
-|                                                                       |
+| **📋 GAME PLAN TEMPLATE** |
+| --- |
+|  |
 | Đối thủ: \[Tên\] Kiểu chơi: \[Baseline/Aggressive/Net rusher/Pusher\] |
-| Điểm mạnh: \[3 điểm\] Điểm yếu: \[3 điểm\] Pattern chính: \[Pattern   |
-| A\] và \[Pattern B\] Serve plan: \[Target và type cho deuce/ad        |
-| court\] Return plan: \[Position và intention\] Cue word cho hôm nay:  |
-| \[1 từ\]                                                              |
-+-----------------------------------------------------------------------+
+| Điểm mạnh: \[3 điểm\] Điểm yếu: \[3 điểm\] Pattern chính: \[Pattern |
+| A\] và \[Pattern B\] Serve plan: \[Target và type cho deuce/ad |
+| court\] Return plan: \[Position và intention\] Cue word cho hôm nay: |
+| \[1 từ\] |
+
 
 **12.3 In-Match Adaptation --- Thay Đổi Trong Khi Đánh**
 
@@ -1582,7 +1582,7 @@ hơn ngay lúc này. HLV cần dạy VĐV các công cụ momentum management:
   phá nhịp đang chạy tốt của đối thủ
 
 - Consolidate momentum: Khi thắng 2--3 điểm liên tiếp, stay in same
-  pattern --- \'if it ain\'t broke, don\'t fix it\'
+  pattern --- 'if it ain't broke, don't fix it'
 
 **12.5 Managing Score --- Các Điểm Quan Trọng**
 
@@ -1599,17 +1599,17 @@ không phòng thủ.
 
 **Set Points**
 
-Không thay đổi gì. Execute pattern bình thường. Thần: \'just another
-point\'. Sự neutral hóa điểm quan trọng là kỹ năng tâm lý cao cấp nhất.
+Không thay đổi gì. Execute pattern bình thường. Thần: 'just another
+point'. Sự neutral hóa điểm quan trọng là kỹ năng tâm lý cao cấp nhất.
 
-+-----------------------------------------------------------------------+
-| **🎯 MATCH MINDSET CUE**                                              |
-|                                                                       |
-| \'Score is information, not instruction.\' --- Điểm số cho tôi biết   |
-| tình huống, nhưng không nói tôi phải chơi khác đi. Pattern vẫn là     |
-| pattern. Khí vẫn là Khí. Thần vẫn là Thần. Chỉ có Tinh có thể adjust  |
-| risk level --- và điều đó đã được planning trước.                     |
-+-----------------------------------------------------------------------+
+| **🎯 MATCH MINDSET CUE** |
+| --- |
+|  |
+| 'Score is information, not instruction.' --- Điểm số cho tôi biết |
+| tình huống, nhưng không nói tôi phải chơi khác đi. Pattern vẫn là |
+| pattern. Khí vẫn là Khí. Thần vẫn là Thần. Chỉ có Tinh có thể adjust |
+| risk level --- và điều đó đã được planning trước. |
+
 
   ----------------------- ----------------------- -----------------------
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
@@ -1671,7 +1671,7 @@ Giao thức đồng bộ Khí trong doubles:
 - Pre-point ritual cùng nhau: Brief eye contact, single nod --- đây là
   anchor cho shared Khí
 
-- Call \'mine/yours\': Rõ ràng nhất trong game. Không do dự = không
+- Call 'mine/yours': Rõ ràng nhất trong game. Không do dự = không
   collision
 
 - Poach signal: Trước serve, net player ra hiệu sẽ poach hay không. Loại
@@ -1691,21 +1691,21 @@ Rules of partnership Thần:
 - Không blame partner --- bao giờ hết. Mỗi lỗi là machine learning cho
   cả cặp.
 
-- Celebrate partner\'s winners --- energy boost cho cả hai
+- Celebrate partner's winners --- energy boost cho cả hai
 
 - Quick reset together --- sau double fault hay easy miss, BỞI NGƯỜI
   NÀO, cả hai cùng reset
 
-- Trust implicit calls --- không challenge \'mine/yours\' call của
+- Trust implicit calls --- không challenge 'mine/yours' call của
   partner real-time
 
-+-----------------------------------------------------------------------+
-| **💡 DOUBLES THẦN CUE**                                               |
-|                                                                       |
-| Sau lỗi của partner: một ánh mắt encourage, một cái gật đầu, và nhìn  |
-| về phía trước. Không gesture tiêu cực, không body language thở dài.   |
-| Đây không phải sự giả dối --- đây là commitment với shared Thần.      |
-+-----------------------------------------------------------------------+
+| **💡 DOUBLES THẦN CUE** |
+| --- |
+|  |
+| Sau lỗi của partner: một ánh mắt encourage, một cái gật đầu, và nhìn |
+| về phía trước. Không gesture tiêu cực, không body language thở dài. |
+| Đây không phải sự giả dối --- đây là commitment với shared Thần. |
+
 
 **13.5 Net Player Excellence**
 
@@ -1734,7 +1734,7 @@ Return options trong doubles:
 - Drive at net player: High-risk, nhưng có thể intimidate và force
   errors
 
-- Dip at net player\'s feet: Soft return xuống feet của net player ---
+- Dip at net player's feet: Soft return xuống feet của net player ---
   không volley được dễ
 
   ----------------------- ----------------------- -----------------------
@@ -1754,7 +1754,7 @@ Return options trong doubles:
 
 Không có thể lực tốt, Khí không thể duy trì xuyên suốt trận. Tinh bắt
 đầu sai ở game 8 vì não thiếu glucose. Thần sụp đổ vì cơ thể gửi stress
-signal khi mệt. Thể lực không phải là \'add-on\' cho TKT --- đó là
+signal khi mệt. Thể lực không phải là 'add-on' cho TKT --- đó là
 SUBSTRATE của TKT.
 
 Ở cấp 5.0, một trận đấu có thể kéo dài 2--3 giờ với 200--400 điểm. Mỗi
@@ -1774,7 +1774,7 @@ dài \> 10 shot bắt đầu rely vào hệ thống khác.
 **Glycolytic System (10 giây -- 2 phút)**
 
 Nguồn năng lượng của rallies dài và sustained effort. Tạo ra lactate ---
-nguyên nhân của \'cứng cơ\'. Hệ thống này có thể được train để trì hoãn
+nguyên nhân của 'cứng cơ'. Hệ thống này có thể được train để trì hoãn
 lactate threshold.
 
 **Aerobic System (\>2 phút)**
@@ -1783,13 +1783,13 @@ Nguồn năng lượng của recovery giữa điểm và giữa game. Aerobic ca
 tốt = recovery nhanh hơn = sẵn sàng hơn cho điểm tiếp theo = Khí dồi dào
 hơn xuyên suốt trận.
 
-+-----------------------------------------------------------------------+
-| **⚡ TRAINING IMPLICATION**                                           |
-|                                                                       |
-| Tennis players cần TẤT CẢ ba hệ thống được train. Chỉ chạy bộ         |
-| (aerobic) không đủ. Chỉ lift weights (phosphocreatine) không đủ. Cần  |
-| interval training có cấu trúc mô phỏng tennis energy demands.         |
-+-----------------------------------------------------------------------+
+| **⚡ TRAINING IMPLICATION** |
+| --- |
+|  |
+| Tennis players cần TẤT CẢ ba hệ thống được train. Chỉ chạy bộ |
+| (aerobic) không đủ. Chỉ lift weights (phosphocreatine) không đủ. Cần |
+| interval training có cấu trúc mô phỏng tennis energy demands. |
+
 
 **14.3 Tennis-Specific Conditioning**
 
@@ -1874,25 +1874,25 @@ phút --- reset nervous system baseline.
 
 **15.1 Tại Sao 10.000 Giờ Không Đủ?**
 
-Anders Ericsson --- người phổ biến khái niệm \'10.000 giờ\' --- thực ra
+Anders Ericsson --- người phổ biến khái niệm '10.000 giờ' --- thực ra
 không nói 10.000 giờ bất kỳ loại luyện tập nào. Ông nói 10.000 giờ
 DELIBERATE PRACTICE --- luyện tập có chủ đích, với phản hồi liên tục, ở
 biên giới năng lực hiện tại.
 
 Hầu hết tay vợt không luyện deliberate practice --- họ luyện
-\'comfortable practice\': lặp lại những gì đã biết, trong comfort zone,
+'comfortable practice': lặp lại những gì đã biết, trong comfort zone,
 với ít feedback có giá trị. Comfortable practice cho comfortable results
 --- không phải improvement.
 
-+-----------------------------------------------------------------------+
-| **🎯 ĐỊNH NGHĨA DELIBERATE PRACTICE**                                 |
-|                                                                       |
-| Deliberate Practice có 4 yếu tố bắt buộc: 1. Specific goal (mục tiêu  |
-| cụ thể, không phải \'chơi tốt hơn\') 2. Expert feedback (feedback từ  |
-| HLV hoặc video self-analysis) 3. Maximal mental effort (operating at  |
-| edge of capability) 4. Immediate correction (adjust trong session,    |
-| không phải tuần sau)                                                  |
-+-----------------------------------------------------------------------+
+| **🎯 ĐỊNH NGHĨA DELIBERATE PRACTICE** |
+| --- |
+|  |
+| Deliberate Practice có 4 yếu tố bắt buộc: 1. Specific goal (mục tiêu |
+| cụ thể, không phải 'chơi tốt hơn') 2. Expert feedback (feedback từ |
+| HLV hoặc video self-analysis) 3. Maximal mental effort (operating at |
+| edge of capability) 4. Immediate correction (adjust trong session, |
+| không phải tuần sau) |
+
 
 **15.2 Cấu Trúc Session Deliberate Practice**
 
@@ -1920,7 +1920,7 @@ Drill 1 --- Pattern lock: VĐV chỉ được dùng 1 pattern trong 15 phút.
 Không có lựa chọn thứ hai. Force Tinh vào commitment hoàn toàn.
 
 Drill 2 --- Shot selection trigger: HLV feed bóng và VĐV phải call
-\'Cross!\' hoặc \'DTL!\' trước khi bóng đến. Build decision speed.
+'Cross!' hoặc 'DTL!' trước khi bóng đến. Build decision speed.
 
 Drill 3 --- 21-ball challenge: VĐV phải đưa 21 bóng vào target zone liên
 tiếp. Reset về 0 mỗi khi miss. High-pressure Tinh training.
@@ -1994,7 +1994,7 @@ góc nhìn first-person, (3) bao gồm cả cảm giác cơ thể, không chỉ 
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
 
   **Specific target → Max    **Feel the chain.      **See it. Feel it.
-    effort → Immediate       Don\'t think the           Trust it.**
+    effort → Immediate       Don't think the           Trust it.**
         feedback**               chain.**         
   ----------------------- ----------------------- -----------------------
 
@@ -2007,7 +2007,7 @@ góc nhìn first-person, (3) bao gồm cả cảm giác cơ thể, không chỉ 
 **16.1 Tại Sao Đo Lường?**
 
 Coaching mà không có dữ liệu là phỏng đoán. Ở cấp độ 5.0, cảm giác chủ
-quan (\'tôi thấy mình chơi tốt hơn\') không đủ để drive improvement. Cần
+quan ('tôi thấy mình chơi tốt hơn') không đủ để drive improvement. Cần
 data để xác nhận progress, identify patterns, và guide decision về
 priority của training.
 
@@ -2021,7 +2021,7 @@ duy nhất nào capture toàn bộ --- cần constellation of metrics.
   opportunity
 
 - Shot selection accuracy: % decisions trong post-match self-report được
-  coi là \'right call\'
+  coi là 'right call'
 
 - Return quality rating: 1--5 scale cho average return quality mỗi trận
 
@@ -2031,13 +2031,13 @@ duy nhất nào capture toàn bộ --- cần constellation of metrics.
 - Error type breakdown: % UFE vs. forced errors --- forced \> UFE là chỉ
   số Tinh tốt
 
-+-----------------------------------------------------------------------+
-| **📊 TINH TARGET METRICS CHO 5.0**                                    |
-|                                                                       |
-| Pattern success rate: \>55% UFE per set: \<8 First serve +1           |
-| conversion: \>60% Return quality avg: \>3.0/5.0 Forced/Unforced       |
-| ratio: \>1.5                                                          |
-+-----------------------------------------------------------------------+
+| **📊 TINH TARGET METRICS CHO 5.0** |
+| --- |
+|  |
+| Pattern success rate: \>55% UFE per set: \<8 First serve +1 |
+| conversion: \>60% Return quality avg: \>3.0/5.0 Forced/Unforced |
+| ratio: \>1.5 |
+
 
 **16.3 Khí Metrics --- Năng Lượng Và Hiệu Quả**
 
@@ -2068,22 +2068,22 @@ Thần khó đo nhất nhưng có các proxy metrics:
 - Between-point routine consistency: % thời gian có full routine vs.
   rushed
 
-- Self-reported flow state: 1--10 scale sau trận --- \'Cảm giác
-  connected với game đến mức nào?\'
+- Self-reported flow state: 1--10 scale sau trận --- 'Cảm giác
+  connected với game đến mức nào?'
 
 **16.5 Match Log System**
 
 HLV nên có VĐV hoàn thành Match Log sau mỗi trận đấu:
 
-+-----------------------------------------------------------------------+
-| **📝 MATCH LOG TEMPLATE**                                             |
-|                                                                       |
-| Ngày: \_\_\_ Đối thủ: \_\_\_ Score: \_\_\_ TINH: Pattern nào hiệu     |
-| quả? Pattern nào fail? KHÍ: Năng lượng duy trì đến khi nào? Footwork  |
-| ra sao? THẦN: Pressure moments được handle như thế nào? Momentum      |
-| shifts? 3 điều học được: 1. 2. 3. Priority cho tập luyện tiếp theo:   |
-| \_\_\_                                                                |
-+-----------------------------------------------------------------------+
+| **📝 MATCH LOG TEMPLATE** |
+| --- |
+|  |
+| Ngày: \_\_\_ Đối thủ: \_\_\_ Score: \_\_\_ TINH: Pattern nào hiệu |
+| quả? Pattern nào fail? KHÍ: Năng lượng duy trì đến khi nào? Footwork |
+| ra sao? THẦN: Pressure moments được handle như thế nào? Momentum |
+| shifts? 3 điều học được: 1. 2. 3. Priority cho tập luyện tiếp theo: |
+| \_\_\_ |
+
 
 **16.6 Weekly Review Protocol**
 
@@ -2205,15 +2205,15 @@ ngày/tuần:
 
 - Single-leg calf raise: 3×15 slow
 
-+-----------------------------------------------------------------------+
-| **⚠️ RETURN-TO-PLAY PROTOCOL**                                        |
-|                                                                       |
-| Sau chấn thương, không return đến khi: 1. No pain in daily life 2.    |
-| Full range of motion 3. Strength symmetry (\>90% of uninjured side)   |
-| 4. Sport-specific movements pain-free 5. Confidence restored (Thần    |
-| ready) Thần component thường là yếu tố cuối cùng --- và quan trọng    |
-| nhất.                                                                 |
-+-----------------------------------------------------------------------+
+| **⚠️ RETURN-TO-PLAY PROTOCOL** |
+| --- |
+|  |
+| Sau chấn thương, không return đến khi: 1. No pain in daily life 2. |
+| Full range of motion 3. Strength symmetry (\>90% of uninjured side) |
+| 4. Sport-specific movements pain-free 5. Confidence restored (Thần |
+| ready) Thần component thường là yếu tố cuối cùng --- và quan trọng |
+| nhất. |
+
 
 **17.4 Warm-Up Không Thể Thiếu**
 
@@ -2243,7 +2243,7 @@ toàn trận.
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
 
       **Prevention is      **Warm up. Cool down.     **Listen to your
-        winning.**              Recover.**          body\'s signals.**
+        winning.**              Recover.**          body's signals.**
   ----------------------- ----------------------- -----------------------
 
 **CHƯƠNG 18**
@@ -2254,13 +2254,13 @@ toàn trận.
 
 **18.1 Tâm Lý Tennis Là Khoa Học**
 
-Sport psychology không phải \'soft skill\' hay \'nice to have\' --- đó
+Sport psychology không phải 'soft skill' hay 'nice to have' --- đó
 là hard science với đầy đủ research backing. Ở cấp 5.0, tâm lý thường
-quyết định kết quả của 30--40% matches mà tay vợt \'nên\' thắng về mặt
+quyết định kết quả của 30--40% matches mà tay vợt 'nên' thắng về mặt
 technical. Đây là chiều mà HLV có ROI lớn nhất.
 
-Hệ thống TKT tiếp cận tâm lý không phải từ \'think positively\' hay
-\'believe in yourself\' --- mà từ neuroscience và behavioral psychology:
+Hệ thống TKT tiếp cận tâm lý không phải từ 'think positively' hay
+'believe in yourself' --- mà từ neuroscience và behavioral psychology:
 xây dựng hệ thống thần kinh có khả năng operate under pressure một cách
 có dự đoán.
 
@@ -2284,7 +2284,7 @@ channel vào performance thay vì freeze.
 
 **18.3 Xây Dựng Cue Word System**
 
-Cue word là \'anchor\' của Thần --- một từ ngắn mà khi được nói (thành
+Cue word là 'anchor' của Thần --- một từ ngắn mà khi được nói (thành
 tiếng hoặc trong đầu) sẽ kích hoạt trạng thái tâm trí mong muốn. Điều
 này hoạt động thông qua cơ chế classical conditioning --- được establish
 qua luyện tập lặp đi lặp lại.
@@ -2295,8 +2295,8 @@ Cách thiết lập cue word system cho VĐV:
      nhất --- words, sensations, images
 
 111. Choose 1 cue word: Một từ capture cảm giác đó. Thường là action
-     word (không phải evaluation). Ví dụ: \'Flow\', \'Now\', \'Go\',
-     \'Free\', \'Yes\'.
+     word (không phải evaluation). Ví dụ: 'Flow', 'Now', 'Go',
+     'Free', 'Yes'.
 
 112. Condition it: Mỗi lần luyện tập khi cảm thấy flow, nói cue word.
      Over time, word triggers state.
@@ -2304,14 +2304,14 @@ Cách thiết lập cue word system cho VĐV:
 113. Test under pressure: Dùng word khi nervous. Nếu state không
      activate, cần more conditioning.
 
-+-----------------------------------------------------------------------+
-| **💡 CUE WORD EXAMPLES**                                              |
-|                                                                       |
-| Tay vợt của Rafael Nadal: Có ritual thay vì word. Tay vợt pro khác:   |
-| \'Vamos!\' --- energy và aggression \'Breathe\' --- calming signal    |
-| \'Now\' --- present moment \'Trust\' --- commitment to training Tay   |
-| vợt của bạn cần tìm cue word riêng --- không copy ai.                 |
-+-----------------------------------------------------------------------+
+| **💡 CUE WORD EXAMPLES** |
+| --- |
+|  |
+| Tay vợt của Rafael Nadal: Có ritual thay vì word. Tay vợt pro khác: |
+| 'Vamos!' --- energy và aggression 'Breathe' --- calming signal |
+| 'Now' --- present moment 'Trust' --- commitment to training Tay |
+| vợt của bạn cần tìm cue word riêng --- không copy ai. |
+
 
 **18.4 Pre-Match Routine**
 
@@ -2356,14 +2356,14 @@ có giao thức changeover:
 121. 30 giây đầu: Nước và towel --- không nói gì. Cho VĐV calm body
      trước.
 
-122. 15 giây tiếp: 1 observation cụ thể (không đánh giá): \'Footwork về
-     trung tâm đang chậm lại.\'
+122. 15 giây tiếp: 1 observation cụ thể (không đánh giá): 'Footwork về
+     trung tâm đang chậm lại.'
 
-123. 10 giây tiếp: 1 instruction đơn giản: \'Mỗi điểm, nhớ recover về
-     center.\'
+123. 10 giây tiếp: 1 instruction đơn giản: 'Mỗi điểm, nhớ recover về
+     center.'
 
-124. 5 giây cuối: Positive intention: \'Giờ thì chơi thôi. Bạn đã biết
-     cách rồi.\'
+124. 5 giây cuối: Positive intention: 'Giờ thì chơi thôi. Bạn đã biết
+     cách rồi.'
 
   ----------------------- ----------------------- -----------------------
    **TINH (Quyết Định)**   **KHÍ (Năng Lượng)**     **THẦN (Tâm Trí)**
@@ -2391,7 +2391,7 @@ tôi?), và TKT Profile (tầng nào của tôi mạnh nhất?).
 
 **19.2 Xác Định Game Identity**
 
-Game Identity là câu trả lời cho câu hỏi: \'Bạn thắng như thế nào?\' Có
+Game Identity là câu trả lời cho câu hỏi: 'Bạn thắng như thế nào?' Có
 5 archetype chính:
 
 **1. Baseline Controller**
@@ -2426,15 +2426,15 @@ thực ra là incomplete in multiple areas.
 
 **19.3 Template Xây Dựng Playbook**
 
-+-----------------------------------------------------------------------+
-| **📋 PLAYBOOK STRUCTURE**                                             |
-|                                                                       |
-| GAME IDENTITY: \[Archetype\] SIGNATURE PATTERNS: Attack Pattern 1:    |
-| \_\_\_ Attack Pattern 2: \_\_\_ Build Pattern: \_\_\_ Defense         |
-| Pattern: \_\_\_ Serve Pattern: \_\_\_ TKT STRENGTHS: \_\_\_ TKT       |
-| DEVELOPMENT AREAS: \_\_\_ CUE WORD: \_\_\_ BETWEEN-POINT ROUTINE:     |
-| \_\_\_ PRE-MATCH ROUTINE SUMMARY: \_\_\_ ADVERSITY PROTOCOL: \_\_\_   |
-+-----------------------------------------------------------------------+
+| **📋 PLAYBOOK STRUCTURE** |
+| --- |
+|  |
+| GAME IDENTITY: \[Archetype\] SIGNATURE PATTERNS: Attack Pattern 1: |
+| \_\_\_ Attack Pattern 2: \_\_\_ Build Pattern: \_\_\_ Defense |
+| Pattern: \_\_\_ Serve Pattern: \_\_\_ TKT STRENGTHS: \_\_\_ TKT |
+| DEVELOPMENT AREAS: \_\_\_ CUE WORD: \_\_\_ BETWEEN-POINT ROUTINE: |
+| \_\_\_ PRE-MATCH ROUTINE SUMMARY: \_\_\_ ADVERSITY PROTOCOL: \_\_\_ |
+
 
 **19.4 Pattern Development --- Từ 3 Đến 10**
 
@@ -2469,7 +2469,7 @@ Mỗi pattern nên được tagged theo 3 chiều:
 - Thần: \[Patience\] / \[Pressure\] / \[Reset\]
 
 Trong trận, Tinh không cần recall tên pattern --- chỉ cần identify:
-\'Attack + Fast + Pressure\'. Playbook sẽ auto-load đúng pattern. Đây là
+'Attack + Fast + Pressure'. Playbook sẽ auto-load đúng pattern. Đây là
 cách tối giản hóa cognitive load ở điểm quyết định.
 
 **19.6 Updating The Playbook**
@@ -2481,7 +2481,7 @@ review:
 
 126. Add patterns mới phát triển trong tập luyện
 
-127. Promote patterns từ \'development\' lên \'match-ready\'
+127. Promote patterns từ 'development' lên 'match-ready'
 
 128. Update cue words nếu trigger đã mất tính hiệu quả
 
@@ -2510,15 +2510,15 @@ và HLV Ivan Ljubicic --- tinh chỉnh serve mechanics, xây dựng pattern
 mới, phát triển Thần cho những challenge mới của tuổi tác. Mastery không
 kết thúc --- nó chỉ deepens.
 
-+-----------------------------------------------------------------------+
-| **🎯 TRIẾT LÝ KAIZEN**                                                |
-|                                                                       |
-| Kaizen (改善) --- \'cải tiến liên tục từng bước nhỏ\' --- là triết lý |
+| **🎯 TRIẾT LÝ KAIZEN** |
+| --- |
+|  |
+| Kaizen (改善) --- 'cải tiến liên tục từng bước nhỏ' --- là triết lý |
 | phù hợp nhất cho hành trình TKT. Không phải nhảy vọt đột ngột (dễ dẫn |
-| đến injury và burnout), mà là 1% improvement mỗi ngày, tích lũy qua   |
-| thời gian. 1.01\^365 = 37.78. Cải tiến 1% mỗi ngày = năm sau tốt hơn  |
-| 37 lần.                                                               |
-+-----------------------------------------------------------------------+
+| đến injury và burnout), mà là 1% improvement mỗi ngày, tích lũy qua |
+| thời gian. 1.01\^365 = 37.78. Cải tiến 1% mỗi ngày = năm sau tốt hơn |
+| 37 lần. |
+
 
 **20.2 Năm Cấp Độ Của Sự Làm Chủ**
 
@@ -2531,7 +2531,7 @@ kiện tiên quyết của growth.
 **Cấp 2 --- Conscious Competence**
 
 VĐV có thể làm đúng khi tập trung hoàn toàn vào nó. Shot đẹp, nhưng phải
-\'nghĩ\'. Phổ biến nhất ở tay vợt đang develop --- và đây là cấp độ mà
+'nghĩ'. Phổ biến nhất ở tay vợt đang develop --- và đây là cấp độ mà
 hầu hết coaching truyền thống giúp VĐV đến. Nhưng trong match pressure,
 conscious competence không đủ.
 
@@ -2544,8 +2544,8 @@ Kỹ năng đã được tự động hóa. Không cần nghĩ --- cơ thể bi�
 **Cấp 4 --- Mastery**
 
 Không chỉ tự động hóa --- mà còn có khả năng intentionally access,
-modify, và refine kỹ năng trong real-time. Tay vợt ở cấp 4 có thể \'slow
-down\' và observe chính mình trong action --- và adjust. Đây là TKT
+modify, và refine kỹ năng trong real-time. Tay vợt ở cấp 4 có thể 'slow
+down' và observe chính mình trong action --- và adjust. Đây là TKT
 integration hoàn chỉnh.
 
 **Cấp 5 --- Teaching Mastery**
@@ -2568,7 +2568,7 @@ của tiến hóa thật:
 - Curiosity thay thế anxiety về challenges --- khó trở thành
   interesting, không phải threatening
 
-- Teaching ability tăng --- có thể articulate \'tại sao\' rõ ràng hơn
+- Teaching ability tăng --- có thể articulate 'tại sao' rõ ràng hơn
 
 - Enjoyment deepens --- chơi vì tình yêu game, không vì sợ thua
 
@@ -2590,7 +2590,7 @@ Sự thay đổi trong vai trò HLV theo cấp độ VĐV:
 - VĐV 5.0: HLV là người đồng hành (partner) --- explore together,
   challenge assumptions
 
-- VĐV elite: HLV là người phục vụ (servant) --- facilitate VĐV\'s own
+- VĐV elite: HLV là người phục vụ (servant) --- facilitate VĐV's own
   insights
 
 **20.5 Tennis Như Một Kính Chiếu**
@@ -2608,15 +2608,15 @@ VĐV học cách sống với tension giữa effort và ease, giữa control và
 surrender, giữa planning và improvisation. Những bài học này vượt ra
 khỏi đường baseline và đi vào toàn bộ cuộc sống.
 
-+-----------------------------------------------------------------------+
-| **🌟 LỜI KẾT**                                                        |
-|                                                                       |
-| Một ngày nào đó, bạn sẽ đứng trên sân và nhận ra: bạn không còn       |
-| \'chơi tennis\' nữa. Bạn đang \'là\' tennis --- không có khoảng cách  |
-| giữa ý định và action, giữa đọc và phản ứng, giữa hiện tại và khoảnh  |
+| **🌟 LỜI KẾT** |
+| --- |
+|  |
+| Một ngày nào đó, bạn sẽ đứng trên sân và nhận ra: bạn không còn |
+| 'chơi tennis' nữa. Bạn đang 'là' tennis --- không có khoảng cách |
+| giữa ý định và action, giữa đọc và phản ứng, giữa hiện tại và khoảnh |
 | khắc. Đó là trạng thái mà tất cả chúng ta theo đuổi --- và cũng là lý |
-| do tại sao chúng ta không bao giờ thực sự muốn hành trình kết thúc.   |
-+-----------------------------------------------------------------------+
+| do tại sao chúng ta không bao giờ thực sự muốn hành trình kết thúc. |
+
 
 **20.6 Thư Gửi Coach**
 

@@ -4,30 +4,29 @@
 
 \"Show me the butt of the racquet!\"
 
-Visit almost any junior academy and you\'ll see dozens of eager younger
+Visit almost any junior academy and you'll see dozens of eager younger
 players trying hard to whip the racquet head up and over the shoulder
 and point the butt of the racquet at the instructor.
 
-It\'s a mantra in junior coaching. The exaggerated \"wrap\"
+It's a mantra in junior coaching. The exaggerated \"wrap\"
 follow-through is widely advocated as the magic key to \"racquet head
 acceleration\" in the modern topspin forehand.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-wrap/media/image1.webp){width="2.625in"
-height="2.4583333333333335in"}
+generated](media_the-myth-of-the-wrap/media/image1.webp)
 
 **Many junior players appear to model their strokes after top players
 like Lleyton Hewitt with a big \"wrap\" finish. But how close are they
 really?**
 
-All the top players have big \"wrap\" finishes, right? So shouldn\'t
+All the top players have big \"wrap\" finishes, right? So shouldn't
 other players copy them by trying to wrap the finish?
 
 The answer is no. The belief that the \"wrap\" finish creates racquet
 head acceleration is a myth. In fact, the truth is probably exactly the
 opposite.
 
-The wrap isn\'t the cause of a good forehand, it\'s an effect. By trying
+The wrap isn't the cause of a good forehand, it's an effect. By trying
 to wrap the finish, junior players are changing the fundamental shape of
 their swings in a way that has significant negative consequences.
 
@@ -52,21 +51,16 @@ considered the end of the technical swing pattern. Everything that
 happens thereafter (i.e., the wrap) should be considered a reaction or a
 consequence, and part of the recovery for the next shot.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Click on the photo of any player below to see a digital movie of the entire stroke.**                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+:============================================================================================================================================================================:+:============================================================================================================================================================================:+:============================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                                    | ![A person playing tennis Description automatically generated with medium                                                                                                    | ![A person playing tennis Description automatically generated with medium                                                                                                    |
-| confidence](media_the-myth-of-the-wrap/media/image2.jpg){width="2.0104166666666665in" | confidence](media_the-myth-of-the-wrap/media/image3.jpg){width="2.0104166666666665in" | confidence](media_the-myth-of-the-wrap/media/image4.jpg){width="2.0104166666666665in" |
-| height="2.4375in"}                                                                                                                                                           | height="2.4375in"}                                                                                                                                                           | height="2.4375in"}                                                                                                                                                           |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                    | ![A person playing tennis Description automatically                                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                    |
-| confidence](media_the-myth-of-the-wrap/media/image5.jpg){width="2.0104166666666665in" | generated](media_the-myth-of-the-wrap/media/image6.jpg){width="2.0104166666666665in"  | confidence](media_the-myth-of-the-wrap/media/image7.jpg){width="2.0104166666666665in" |
-| height="2.4375in"}                                                                                                                                                           | height="2.4375in"}                                                                                                                                                           | height="2.4375in"}                                                                                                                                                           |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Compare the point of maximum extension of these top pro players to juniors with similar grip styles. The lack of extension in the juniors is the direct result of the mechanical wrap.**                                                                                                                                                                                                                                                                                                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Click on the photo of any player below to see a digital movie of the entire stroke.** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_the-myth-of-the-wrap/media/image2.jpg) |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_the-myth-of-the-wrap/media/image5.jpg) |  |  |
+| **Compare the point of maximum extension of these top pro players to juniors with similar grip styles. The lack of extension in the juniors is the direct result of the mechanical wrap.** |  |  |
 
-Let\'s compare the finishes of these 3 pro players to 3 junior players
+
+Let's compare the finishes of these 3 pro players to 3 junior players
 with similar grip styles. These are typical examples of the dozens of
 sectionally and nationally ranked players I have filmed who have what I
 call mechanical wraps. Click on the photos above and you will see
@@ -74,7 +68,7 @@ exactly what I am talking about. Study the pro player and the junior
 with the corresponding grip style. Click through the video frame by
 frame and you will see the differences in the extension of the motion.
 
-The juniors simply don\'t extend through the hitting zone in the same
+The juniors simply don't extend through the hitting zone in the same
 way. Their racquets come off the line of the shot much sooner. Note how
 much less extension all three players have compared to the pros with
 similar grip styles. Their strokes look almost collapsed as if the
@@ -86,24 +80,22 @@ Instead of hitting all the way through the ball, they pull rapidly off
 the shot, trying to force or muscle the racquet into the wrap position.
 
 Their swing planes are shorter and steeper. Often they generate a lot of
-topspin, but they tend to lack depth and pace. Their balls just don\'t
+topspin, but they tend to lack depth and pace. Their balls just don't
 penetrate the court, despite what appears to be great effort in making
 the swing.
 
 Of all the myths and misguided beliefs that I see in teaching and
 coaching, I have to say this is one of the most counterproductive. I
-can\'t stand to watch junior players with mechanical wraps for more than
+can't stand to watch junior players with mechanical wraps for more than
 a few balls. Sometimes it actually makes me feel physically ill, because
 I see so many players laboring under the same delusion.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A picture containing text, tennis, outdoor, person Description automatically
-   generated](media_the-myth-of-the-wrap/media/image8.webp){width="2.5208333333333335in"
-                                                                         height="2.4166666666666665in"}
+   generated](media_the-myth-of-the-wrap/media/image8.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                ![A person playing tennis Description automatically
-        generated](media_the-myth-of-the-wrap/media/image9.gif){width="2.53125in"
-                                                                               height="2.40625in"}
+        generated](media_the-myth-of-the-wrap/media/image9.gif)
 
                                                **Compare the extension between Guga and this junior player with a similar grip.**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -112,14 +104,14 @@ This is why, when I do video clinics for elite juniors, I hear top
 coaches like Elliot Teltscher criticize the shape of the followthrough
 in one talented player after another.
 
-In the physical world, for every action, there\'s an equal and opposite
+In the physical world, for every action, there's an equal and opposite
 reaction, and in tennis, the reaction to a great, positive forward swing
-on the forehand is a relaxed, fluid wrap. It\'s not something players
+on the forehand is a relaxed, fluid wrap. It's not something players
 should try to make happen.
 
 Research shows that the wrapping phase of the forehand has nothing to do
 with racquet head acceleration. Advanced Tennis measurements show that
-during the wrap, the racquet is not accelerating. Actually, it\'s the
+during the wrap, the racquet is not accelerating. Actually, it's the
 opposite.
 
 During the wrap, the racquet head is decelerating, and decelerating
@@ -149,7 +141,7 @@ So the mantra of junior tennis, \"show me the butt of the racquet,\" is
 well-intentioned, but misguided. Ironically, the traditional emphasis on
 hitting through the ball, and extending the follow-through forward and
 upward is probably still the key to developing the so-called modern
-forehand. It\'s just that with the \"westernized\" grips the shape of
+forehand. It's just that with the \"westernized\" grips the shape of
 swing and the hitting arm positions look a little different, and the
 check points need to be adjusted accordingly.
 
@@ -157,46 +149,44 @@ This was the principle change Robert Lansdorp made when Russian phenom
 Maria Sharapova first came to him several years ago. [Click
 here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html)
 and you can see how Lansdorp trained her to hit through her forehand,
-when she was just 13, although he didn\'t try to change her semi-western
+when she was just 13, although he didn't try to change her semi-western
 grip. It may be the single most important reason she is one of the
-rising stars on the women\'s tour.
+rising stars on the women's tour.
 
 You can also see this relationship between extension, racquet head
 acceleration, and the wrap quite clearly in the Stroke Archives when you
 click through the forehands of the top players frame by frame.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-myth-of-the-wrap/media/image10.webp){width="2.5833333333333335in"
-height="2.46875in"} ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-wrap/media/image11.gif){width="2.59375in"
-height="2.4479166666666665in"}
+confidence](media_the-myth-of-the-wrap/media/image10.webp) ![A person playing tennis Description automatically
+generated](media_the-myth-of-the-wrap/media/image11.gif)
 
 **The whole strokes may look the same, but compare the critical path of
 the racquet through the contact zone.**
 
 Just watch how far the racquet head really travels with every click.
-You\'ll see that during the wrap the racquet head travels the least
+You'll see that during the wrap the racquet head travels the least
 distance compared with other parts of the swing, especially compared to
 the movement just before and after the hit.
 
-The pros don\'t wrap the racquet to generate racquet head speed. They
+The pros don't wrap the racquet to generate racquet head speed. They
 wrap the racquet because they have racquet head speed. Good players wrap
 the finish because they have to, to decelerate the racquet and get ready
 for the next shot.
 
 The irony is the wrap is not some new development that appeared recently
-in the high speed modern game. It\'s an inevitable part of a high level
+in the high speed modern game. It's an inevitable part of a high level
 forehand, regardless of grip structure.
 
 The wrap has been a part of high level tennis since the beginning, as
-the amazing animation of Big Bill Tilden\'s classic forehand (below)
+the amazing animation of Big Bill Tilden's classic forehand (below)
 makes clear. Watch him hit through the line of the shot, then wrap the
 racquet over his shoulder, just like the so-called \"modern\" forehand.
 
-And Tilden wasn\'t an exception. It was the same for all the great
+And Tilden wasn't an exception. It was the same for all the great
 champions who followed. Don Budge, Jack Kramer, Pancho Gonzales, Rod
-Laver-they all wrapped. If you don\'t believe me, just check out Ed
-Atkinson\'s classic Kings of the Court video. [(Click
+Laver-they all wrapped. If you don't believe me, just check out Ed
+Atkinson's classic Kings of the Court video. [(Click
 here.)](http://www.tennis-warehouse.com/descpage.html?PCODE=VKINGS)
 
 **So how did this myth become so prevalent?**
@@ -207,17 +197,16 @@ extreme as well. Since the racquet is moving slower at the wrap than at
 any part of the swing, this exaggerated motion is also much easier to
 observe than what is actually happening around the contact.
 
-The problem is compounded by the fact that most coaches didn\'t learn to
+The problem is compounded by the fact that most coaches didn't learn to
 hit their own strokes with the extreme grips their students are now
 using, and there is no established teaching methodology to help players
 learn the new patterns.
 
 ![A picture containing road, outdoor, player, athletic game Description
 automatically
-generated](media_the-myth-of-the-wrap/media/image12.webp){width="2.6041666666666665in"
-height="2.4791666666666665in"}
+generated](media_the-myth-of-the-wrap/media/image12.webp)
 
-**The wrap has been around as long as tennis as Big Bill\'s classic
+**The wrap has been around as long as tennis as Big Bill's classic
 eastern forehand shows.**
 
 Virtually all the teaching systems, along with the tennis tips passed
@@ -235,20 +224,19 @@ finish, junior players learned to reduce rather than increase their
 ability to accelerate the racquet through the hit. This is something the
 video clips make only too clear.
 
-Here is an important qualification: I\'m not necessarily arguing that
+Here is an important qualification: I'm not necessarily arguing that
 the more extreme western grips that players like Hewitt and Guga use are
 the way to go for juniors, much less for the average club player. In
 fact, I still think Pete Sampras has the best grip and the best
 technical pattern to model, especially for lower level players.
 
-Agassi looks almost classical by modern standards, and I can\'t see why
+Agassi looks almost classical by modern standards, and I can't see why
 anyone would want a more extreme grip than his \"mild\" semi-western.
-But that\'s just my opinion.
+But that's just my opinion.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-myth-of-the-wrap/media/image13.webp){width="2.6145833333333335in"
-height="2.4479166666666665in"}
+confidence](media_the-myth-of-the-wrap/media/image13.webp)
 
 **The extreme wrap is obvious in the modern forehand, but not the
 technical key to developing it.**
@@ -259,15 +247,15 @@ coach might think. And teaching the wrap is definitely the wrong
 approach.
 
 What we need instead is a way to bring the swing patterns of our junior
-players more closely in line with the world\'s top players who have the
+players more closely in line with the world's top players who have the
 same grip styles.
 
 So if the wrap is a consequence rather than a cause of a good swing what
 should coaches teach instead? And how does the wrap relate to the rest
 of the technical swing pattern?
 
-Let\'s look in more detail at Kuerten, Safin, and Hewitt. As different
-as these players\' forehands may appear, when we study them in high
+Let's look in more detail at Kuerten, Safin, and Hewitt. As different
+as these players' forehands may appear, when we study them in high
 speed video, there are three important commonalities when it comes to
 the extension and finish.
 
@@ -276,8 +264,7 @@ a distance of up to 2 or 3 feet after the contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-wrap/media/image14.webp){width="2.5416666666666665in"
-height="2.3854166666666665in"}
+confidence](media_the-myth-of-the-wrap/media/image14.webp)
 
 **Marat Safin demonstrates the characteristic extension and finish of a
 top modern forehand.**
@@ -297,11 +284,11 @@ This is the furthermost point before the racquet actually starts to move
 backwards. It signifies the technical end of the forward swing pattern
 and the start of the wrap.
 
-The player\'s hand typically reaches about eye level. The hand is also
+The player's hand typically reaches about eye level. The hand is also
 well forward, about two feet in front of the plane of the body and
 roughly in line with the left shoulder.
 
-The player\'s forearm is at about a 45 degree angle to the plane of the
+The player's forearm is at about a 45 degree angle to the plane of the
 court with the elbow bent. The upper arm is parallel to the court.
 
 Only after passing through this position do good players begin to wrap
@@ -309,14 +296,13 @@ the finish. As we have noted, the wrap signals the final deceleration
 phase of the swing, and the beginning of the recovery for the next shot.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-myth-of-the-wrap/media/image15.webp){width="2.6145833333333335in"
-height="2.4479166666666665in"}
+generated](media_the-myth-of-the-wrap/media/image15.webp)
 
 **The challenge in teaching the modern forehand is distinguishing
 between cause and effect when it comes to the contact, the extension,
 and the wrap.**
 
-Let\'s be clear: the problem here is not something for which the players
+Let's be clear: the problem here is not something for which the players
 and coaches should be blamed. The problem lies in the difficulty of
 observing and analyzing the game itself, and particularly the evolution
 in technique.
@@ -331,19 +317,18 @@ from what is an effect in the various stroke patterns, especially the
 new forehands.
 
 The fact that a particular movement is happening over the course of the
-stroke (i.e., the wrap) doesn\'t necessarily mean that players should
+stroke (i.e., the wrap) doesn't necessarily mean that players should
 try to make that movement happen - even if it appears to be quite
 prominent and distinctive, as in the case with the modern forehand.
 
-That\'s why we need more high speed video, more quantitative analysis,
+That's why we need more high speed video, more quantitative analysis,
 and especially more discussion and give and take between coaches and
 players in determining what is positive, constructive information in
 teaching the modern game.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-myth-of-the-wrap/media/image16.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-myth-of-the-wrap/media/image16.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

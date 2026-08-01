@@ -4,23 +4,22 @@
 
 **Machar Reid, Miguel Crespo, Damian Farrow**
 
-![](media_anticipating-the-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_anticipating-the-serve/media/image1.webp)
 
 **What strategies do great returners use to anticipate a 125mph serve?**
 
-Many elite players, particularly in the men\'s game, are able to direct
+Many elite players, particularly in the men's game, are able to direct
 serves in excess of 125 mph to all parts of the service box. This
 presents a considerable challenge to their opponents, standing some 78
 feet away, **[[who have approximately one third of a second between the
-hit and the ball bounce to assess the ball\'s flight and begin a
+hit and the ball bounce to assess the ball's flight and begin a
 well-timed return.]{.underline}]{.mark}**
 
 The battle between the server and returner has attracted the interest of
 researchers for more than 20 years. Various researchers have focused on
 what information or cues returners can use in that third of a second of
 ball flight---as well as the split seconds prior to the hit \--to help
-determine the serve\'s likely direction, allowing for an improved motor
+determine the serve's likely direction, allowing for an improved motor
 response.
 
 **[[Skilled players have been shown to use two forms of advance
@@ -36,15 +35,13 @@ of these specific event probabilities buys the returners additional time
 to prepare a response.
 
 ![A picture containing diagram Description automatically
-generated](media_anticipating-the-serve/media/image2.jpg){width="6.33599956255468in"
-height="2.870153105861767in"}
+generated](media_anticipating-the-serve/media/image2.jpg)
 
 ![Text Description automatically
-generated](media_anticipating-the-serve/media/image3.jpg){width="2.9333366141732284in"
-height="0.7040004374453194in"}
+generated](media_anticipating-the-serve/media/image3.jpg)
 
 **Highly skilled players access information to help predict serve
-location from the movement of the server\'s racket and arm (red boxes)
+location from the movement of the server's racket and arm (red boxes)
 with the 300 milliseconds before impact up until impact particularly
 informative. On the other hand, less-skilled players almost exclusively
 track the ball toss (blue boxes) and have no systematic search pattern,
@@ -61,15 +58,14 @@ players picked up this cue by the end of the first set, while
 less-skilled players were unable to detect it at all.
 
 ![A person playing tennis Description automatically
-generated](media_anticipating-the-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_anticipating-the-serve/media/image4.webp)
 
-**Studying the server\'s biomechanics can help the returner gain 300
+**Studying the server's biomechanics can help the returner gain 300
 milliseconds.**
 
 **Bio-Mechanical Elements**
 
-The biomechanical elements of the server\'s action are also thought to
+The biomechanical elements of the server's action are also thought to
 provide anticipatory information that has been shown to help skilled
 players accurately predict service direction some 300 milliseconds
 before the ball is struck.
@@ -77,7 +73,7 @@ before the ball is struck.
 With so little time available to respond to the serve, players need to
 extract every bit of information that they can to most effectively
 return serve. Highly skilled players can generally interpret where the
-ball is going to be hit based on the mechanics of their opponent\'s
+ball is going to be hit based on the mechanics of their opponent's
 service action.
 
 **These players pick up cues well before the racket meets the ball,
@@ -96,24 +92,21 @@ return.
 Often players will also do something as simple as adjusting their
 position on return to buy themselves more time to perceive and respond.
 In the graphic, with the distance in inches, we see the average return
-of serve position on both first and second serves of 16 of the game\'s
+of serve position on both first and second serves of 16 of the game's
 best male and female players during a recent Australian Open tournament.
 
 ![Chart Description automatically
-generated](media_anticipating-the-serve/media/image5.jpg){width="5.339130577427822in"
-height="2.455999562554681in"}
+generated](media_anticipating-the-serve/media/image5.jpg)
 
 ![Chart, scatter chart Description automatically
-generated](media_anticipating-the-serve/media/image6.jpg){width="5.98952646544182in"
-height="2.08in"}
+generated](media_anticipating-the-serve/media/image6.jpg)
 
-The charts show return positions of the game\'s best players on first
+The charts show return positions of the game's best players on first
 and second serves, measured in inches relative to the baseline.
 
 ![A picture containing person, person, outdoor, male Description
 automatically
-generated](media_anticipating-the-serve/media/image7.jpeg){width="1.5597222222222222in"
-height="1.9840277777777777in"}
+generated](media_anticipating-the-serve/media/image7.jpeg)
 
 Machar Reid is the innovation catalyst at Tennis Australia. He
 established the Sports Science and Medicine Unit there in 2008. He is
@@ -121,8 +114,7 @@ the coauthor of several books on tennis sports science and coaching.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_anticipating-the-serve/media/image8.jpeg){width="1.5597222222222222in"
-height="1.5597222222222222in"}
+confidence](media_anticipating-the-serve/media/image8.jpeg)
 
 Damian Farrow holds a joint appointment within the College of Sport &
 Exercise Science, and the Australian Institute of Sport, where he
@@ -133,8 +125,7 @@ Australia, Netball Australia, Surfing Australia, the Australian Rugby
 Union and Swimming Australia.
 
 ![Graphical user interface, application, Teams Description automatically
-generated](media_anticipating-the-serve/media/image9.jpeg){width="1.5597222222222222in"
-height="1.9201388888888888in"}
+generated](media_anticipating-the-serve/media/image9.jpeg)
 
 Miguel Crespo is the research officer at the International Tennis
 Federation Development Department, Spain. He oversees the ITF's coach

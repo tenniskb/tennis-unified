@@ -3,8 +3,7 @@
 ### **Michael Friedman**
 
 ![A person playing tennis Description automatically
-generated](media_more-on-the-step-step-rip/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_more-on-the-step-step-rip/media/image1.webp)
 
 **Every shot in tennis has a two-step rhythm to that triggers the
 shot.**
@@ -28,7 +27,7 @@ Step, Hit\" allows you to keep moving on any ball with a pro 2 step
 pattern that will automatically trigger your rhythm and timing.
 
 The two steps will differ depending on the stroke and the situation. In
-this article, we\'ll explore the specific patterns to hit on the rise,
+this article, we'll explore the specific patterns to hit on the rise,
 to hit with an open stance, to hit the modern \"load and explode\"
 forehand, to hit the one-handed backhand, and finally to hit the
 overhead smash.
@@ -49,8 +48,7 @@ rise.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image2.webp){width="2.9277777777777776in"
-                                                                       height="2.1958333333333333in"}
+   generated](media_more-on-the-step-step-rip/media/image2.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  **The step with the right, the step with the left, the hit on the rise.**
 
@@ -63,23 +61,22 @@ bounce of the ball and the step with the right foot. The left foot steps
 forward or slightly to the side, and a continuous swing flow is
 generated as the ball comes up off the bounce. **[[For a right hander,
 the two-step pattern is: right foot step, left foot step, hit. Again,
-that\'s right foot, left foot, then rip!]{.underline}]{.mark}**
+that's right foot, left foot, then rip!]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image3.webp){width="2.9277777777777776in"
-                                                                       height="2.1958333333333333in"}
+   generated](media_more-on-the-step-step-rip/media/image3.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 **To hit on the rise with an open stance, the step pattern reversed: Right foot step, left foot step, hit.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This two-step rhythm also applies when hitting on the rise from the full
-open stance. It\'s just that the sequence of the steps is usually
+open stance. It's just that the sequence of the steps is usually
 reversed. Instead of stepping right then stepping left, you step left
 first, then step right.
 
-Watch Federer\'s last two steps. He takes the cross step with the left
+Watch Federer's last two steps. He takes the cross step with the left
 foot, then lands and loads on his right foot, then hits.
 
 Grips can play a big role in which stance you use. Eastern or milder
@@ -91,8 +88,7 @@ rise from the open stance more exclusively.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image4.webp){width="2.9277777777777776in"
-                                                                       height="2.1958333333333333in"}
+   generated](media_more-on-the-step-step-rip/media/image4.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **The model for the modern forehand: two steps to load and explode.**
 
@@ -107,19 +103,18 @@ behind on the baseline.
 David Nalbandian is an example of how to use this right, left pattern
 \"to load and explode\" on the forehand. His stroke is efficient,
 powerful and dependable. He hits it with great ease and confidence. To
-me he\'s a perfect model for the modern forehand.
+me he's a perfect model for the modern forehand.
 
 **[[Look closely at the last two steps. The first is a cross step with
 the left foot. The second step is with the right leg. With the right leg
 he loads with the knee bend and then explodes to the
 ball.]{.mark}]{.underline}** Watch how he keeps the left leg in front of
-the body in the air until the swing is finished. So, it\'s left foot
+the body in the air until the swing is finished. So, it's left foot
 cross step, right foot load, then rip.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
-   generated](media_more-on-the-step-step-rip/media/image5.webp){width="2.9277777777777776in"
-                                                                       height="2.1958333333333333in"}
+   generated](media_more-on-the-step-step-rip/media/image5.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            **A small adjusting step with the left foot, then a step to the ball with the right.**
 
@@ -133,9 +128,9 @@ triggered by the step, step rhythm.
 
 **One-Handed Backhand**
 
-I think that Roger Federer\'s one-handed backhand is the ultimate model
+I think that Roger Federer's one-handed backhand is the ultimate model
 to emulate. Every aspect of his swing is designed for power, spin and
-reliability. But let\'s focus on the timing and rhythm of his feet. Look
+reliability. But let's focus on the timing and rhythm of his feet. Look
 at how he makes a small adjustment step out of the split step. He then
 drives off his left foot, stabilizes on his right leg with the knees
 coiled, and triggers his swing. **[[This is a perfect example of the
@@ -146,19 +141,17 @@ landing\" and resists moving, allowing the swing to accelerate through
 the contact point. Note how the back leg actually moves backwards away
 from the hit!
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                        |
-+:======================================================================================================================================================================:+
-| ![A person running on a tennis court Description automatically                                                                                                         |
-| generated](media_more-on-the-step-step-rip/media/image6.webp){width="2.9277777777777776in" |
-| height="2.1958333333333333in"}                                                                                                                                         |
-|                                                                                                                                                                        |
-| **The first step is the positioning step with the foot closest to the ball. The second step is forward into the volley.**                                              |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A person running on a tennis court Description automatically |
+| generated](media_more-on-the-step-step-rip/media/image6.webp) |
+|  |
+| **The first step is the positioning step with the foot closest to the ball. The second step is forward into the volley.** |
+
 
 **The Volley**
 
-Tim Henman\'s footwork on his volley is impeccable. He never seems to be
+Tim Henman's footwork on his volley is impeccable. He never seems to be
 in the wrong position, or moving the wrong way at the net. **[After the
 split step, his first step is with the foot closest to the ball. This
 step is the positioning step. [This is his right foot on the forehand
@@ -177,8 +170,7 @@ the ball]{.underline}
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person playing tennis Description automatically generated with medium
-   confidence](media_more-on-the-step-step-rip/media/image7.webp){width="2.9277777777777776in"
-                                                                       height="2.1958333333333333in"}
+   confidence](media_more-on-the-step-step-rip/media/image7.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                        **The Step, Step, Hit on an overhead moving backwards: A crossover with the right foot and then a launch upward off the left.**
 
@@ -189,7 +181,7 @@ the ball]{.underline}
 Andre Agassi and Martina Navratalova both have great overhead smashes.
 Here we have two very different overheads, but both use the step, step
 footwork rhythm. As with all the strokes this footwork is used as a
-timing device to trigger the kinetic chain. Watch Martina\'s last two
+timing device to trigger the kinetic chain. Watch Martina's last two
 steps. She crosses over with the right foot, then lands on the coiled
 left leg and launches up, triggering her swing. This right, left two
 step rhythm enables the player to use the natural timing of their swing,
@@ -203,15 +195,13 @@ makes two subtle steps.]{.underline}]{.mark}** **[[The first is with his
 front foot from his left to his right. Then second is forward with his
 rear foot, triggering the swing.]{.underline}]{.mark}**
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                         |
-+:=======================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                               |
-| confidence](media_more-on-the-step-step-rip/media/image8.webp){width="2.9277777777777776in" |
-| height="2.1958333333333333in"}                                                                                                                                          |
-|                                                                                                                                                                         |
-| **On a lob where the ball bounces, watch Agassi step first from right to left, then from back to front!**                                                               |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A person playing tennis Description automatically generated with medium |
+| confidence](media_more-on-the-step-step-rip/media/image8.webp) |
+|  |
+| **On a lob where the ball bounces, watch Agassi step first from right to left, then from back to front!** |
+
 
 As we saw in the first article, the way to develop a feel for all these
 combinations is by actually saying \"Step, Step, Hit\" to yourself as
@@ -229,13 +219,12 @@ powerful new way to execute your shots under match pressure.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with his tongue out Description automatically generated with medium                                                                                            **Michael Friedman** has been devoted to
-  confidence](media_more-on-the-step-step-rip/media/image9.jpeg){width="2.079861111111111in"   teaching and coaching tennis for over 30
-  height="1.663888888888889in"}                                                                                                                                             years. Currently he is the Tennis Director at
+  confidence](media_more-on-the-step-step-rip/media/image9.jpeg)                                                                                                                                             years. Currently he is the Tennis Director at
                                                                                                                                                                             the Millennium Sports Club in Rancho Solano,
                                                                                                                                                                             where he runs an active junior development as
                                                                                                                                                                             well as adult program. Michael has been a
                                                                                                                                                                             mainstay in the United States Professional
-                                                                                                                                                                            Tennis Association\'s Northern California
+                                                                                                                                                                            Tennis Association's Northern California
                                                                                                                                                                             Division, and served as President from 2000
                                                                                                                                                                             through 2001. He has been a featured speaker
                                                                                                                                                                             at many USTA and USPTA tennis workshops

@@ -8,33 +8,32 @@
 
 ![A picture containing fence, person, outdoor, player Description
 automatically
-generated](media_emotional-and-mental-pitfalls/media/image1.jpg){width="5.226087051618547in"
-height="3.4492180664916887in"}
+generated](media_emotional-and-mental-pitfalls/media/image1.jpg)
 
 **How can you as a player or a coach work to overcome emotional
 obstacles faced in competitive matches?**
 
 In my last article in this new series for Tennisplayer, we looked at
 techniques for developing confidence. ([Click
-Here.](Techniques%20for%20Developing%20Confidence.docx)) Now let\'s look
+Here.](Techniques%20for%20Developing%20Confidence.docx)) Now let's look
 at some of the pitfalls many players encounter and must strive to
 overcome in that pursuit.
 
 **Learned Helplessness**
 
 **[[The first pitfall is learned helplessness.]{.underline}]{.mark}**
-Learned helplessness is the belief that you can\'t change the course of
+Learned helplessness is the belief that you can't change the course of
 negative events\--that failure is inevitable and insurmountable. This is
 an ego protection mechanism.
 
 When an athlete sees himself as victimized by the circumstances, he
 performs as if he were helpless. The belief is that failure is beyond
-the athlete\'s control, and nothing can be done about it. These players
+the athlete's control, and nothing can be done about it. These players
 tend to have lower expectations and give less effort.
 
 They may blame referees or umpires for their mistakes, or the wind, the
 heat, or the cold. They may exaggerate hurts and pains to have an excuse
-in case they don\'t win. Learned helplessness can also include the
+in case they don't win. Learned helplessness can also include the
 belief that opponents always get lucky breaks.
 
 **[[These players are challenge avoiders.
@@ -49,15 +48,14 @@ has to be a conscious choice based on self-awareness of what is holding
 them back.
 
 **[[They must choose to become challenge seekers.]{.underline}]{.mark}**
-Challenge seekers choose to believe they\'re in control of their own
+Challenge seekers choose to believe they're in control of their own
 fate. They feel they have influence on an outcome even if they cannot
 control it. When circumstances that affect their performance arise, they
 need to react to that challenge.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_emotional-and-mental-pitfalls/media/image2.jpg){width="4.861111111111111in"
-height="3.9722222222222223in"}
+confidence](media_emotional-and-mental-pitfalls/media/image2.jpg)
 
 **Fear of failure can damage self-esteem.**
 
@@ -75,7 +73,7 @@ Harper in baseball have all battled doubt at times when the threat of
 failure loomed.
 
 **[[The fear of failure is a preoccupation with the perceived
-consequences of losing.]{.underline}]{.mark}** It\'s not being able to
+consequences of losing.]{.underline}]{.mark}** It's not being able to
 get your mind off how terrible it will feel if you lose. Typically, this
 leads to a lot of anxiety over outcome before and during the event.
 
@@ -101,8 +99,7 @@ them.]{.mark}]{.underline}**
 
 ![A picture containing person, outdoor, player, sport Description
 automatically
-generated](media_emotional-and-mental-pitfalls/media/image3.jpg){width="3.9027777777777777in"
-height="4.541666666666667in"}
+generated](media_emotional-and-mental-pitfalls/media/image3.jpg)
 
 **Most athletes in all sports have struggled with doubt and fear of
 failure.**
@@ -148,13 +145,12 @@ takes any time off.
 Perfectionists are intolerant of their own mistakes. Some sports
 encourage perfectionism by nature. Sports like gymnastics, figure
 skating, diving, or cheerleading are geared toward striving for perfect
-scores. Some of these athletes are never satisfied, because it\'s nearly
+scores. Some of these athletes are never satisfied, because it's nearly
 impossible to be perfect.
 
 ![A picture containing text, person, sport, track and field Description
 automatically
-generated](media_emotional-and-mental-pitfalls/media/image4.jpg){width="4.861111111111111in"
-height="2.5in"}
+generated](media_emotional-and-mental-pitfalls/media/image4.jpg)
 
 **Some sports require perfection to succeed---but not tennis.**
 
@@ -177,15 +173,14 @@ points.**
 - **[[How you deal with mistakes is critical to how much stress you
   incur and how much enjoyment you experience.]{.underline}]{.mark}**
 
-- **[[It\'s okay to strive for personal excellence but realize that you
+- **[[It's okay to strive for personal excellence but realize that you
   will be imperfect along the way.]{.mark}]{.underline}**
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_emotional-and-mental-pitfalls/media/image5.jpeg){width="1.7215277777777778in"
-height="2.3652777777777776in"}
+confidence](media_emotional-and-mental-pitfalls/media/image5.jpeg)
 
-Ben Loeb has been the varsity tennis coach for the boys\' and girls\'
+Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
 years. His teams have won more than 1000 dual matches, made 38
 appearances in the final four of the state team championships, and won
@@ -195,12 +190,11 @@ to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
 ![A cover of a book Description automatically generated with medium
-confidence](media_emotional-and-mental-pitfalls/media/image6.jpeg){width="1.8263888888888888in"
-height="2.6in"}
+confidence](media_emotional-and-mental-pitfalls/media/image6.jpeg)
 
 **Next-Level Coaching!**
 
-Ben\'s new book, Next-Level Coaching, outlines the principles he has
+Ben's new book, Next-Level Coaching, outlines the principles he has
 developed over his career as a player and a championship coach to help
 overcome the mental and emotional challenges of playing and enjoying
 competitive tennis. It includes detailed self-assessment questionnaires

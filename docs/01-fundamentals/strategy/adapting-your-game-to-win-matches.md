@@ -6,38 +6,37 @@
 
 ![A picture containing person, person, sport, male Description
 automatically
-generated](media_adapting-your-game-to-win-matches/media/image1.jpg){width="2.5304352580927385in"
-height="3.67207239720035in"}
+generated](media_adapting-your-game-to-win-matches/media/image1.jpg)
 
-**That\'s me playing in the 1980\'s in the days of Fila shorts.**
+**That's me playing in the 1980's in the days of Fila shorts.**
 
 As Allen Fox once said there are two ways to win matches. Beat the
 player to death with your strengths or vary your shots and adapt your
 game to your opponent.
 
 In the first variation, you need to be the better player. In the second
-you don\'t necessarily. You just need to find a way to win more points.
+you don't necessarily. You just need to find a way to win more points.
 
-We\'ve looked at many approaches to strategy in articles over the years.
-Both Allen\'s and Craig Cignarelli\'s patterns analysis. Ground-breaking
-research from Craig O\'Shannessey on point duration. ([Click
+We've looked at many approaches to strategy in articles over the years.
+Both Allen's and Craig Cignarelli's patterns analysis. Ground-breaking
+research from Craig O'Shannessey on point duration. ([Click
 Here](https://www.tennisplayer.net/members/strategy/).)
 
 This article is different---a personal account of playing and winning
-matches in the real world. Starting in the early 1980\'s, over a 15-year
+matches in the real world. Starting in the early 1980's, over a 15-year
 period, I played NTRP tournaments, Norcal Seniors tournaments, and
-league matches. I was ranked in the top 10 several times in the 4.5\'s
+league matches. I was ranked in the top 10 several times in the 4.5's
 and won two 4.5 tournaments 10 years apart---back when that meant
 winning 7 matches in 9 days. I was also ranked in the top 20 in Norcal
 seniors and in the 5.5 NTRPs.
 
-I had a solid all-around game, moved well, and was, let\'s say,
+I had a solid all-around game, moved well, and was, let's say,
 competitive. But no dominating weapons. Most of the matches I won I
 tried to get every first serve and every return in play and then figure
 out the best backcourt diagonal to get errors from opponents and/or
 openings for winners or to go in.
 
-But since my game wasn\'t dominating, that didn\'t always work. So I
+But since my game wasn't dominating, that didn't always work. So I
 learned to vary my play to exploit the games of various opponents. There
 was a huge variety in ability and playing styles in those tournaments.
 Finding ways to win was challenging and fun.
@@ -48,8 +47,7 @@ So here are some stories of some of my matches that might ring some
 bells and give other players some ideas to win more matches themselves.
 
 ![A person playing tennis Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image2.jpg){width="3.263888888888889in"
-height="3.875in"}
+generated](media_adapting-your-game-to-win-matches/media/image2.jpg)
 
 **Jack was a banger.**
 
@@ -68,21 +66,20 @@ Great exchanges! But the result was Jack took my up-pace return shots
 and hit them back harder for a lot of winners. I quickly lost the first
 set 6-0.
 
-I didn\'t make many errors. He was just on fire. I said no way I am
+I didn't make many errors. He was just on fire. I said no way I am
 going to lose to this guy. So starting with the second set, I just
 matched pace with every ball he hit. This is the concept of the rhythm
 rally Kerry Mitchell and I developed teaching together in San Francisco.
 ([Click Here](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx)
-for Kerry\'s article.)
+for Kerry's article.)
 
 It took a while but we split. At the start of the third, he looked
-exhausted. He wasn\'t used to having to play 2 or 3 or 6 extra balls a
+exhausted. He wasn't used to having to play 2 or 3 or 6 extra balls a
 point. He started over hitting and missing. In a turnaround from the
 first, I won the third 6-0.
 
 ![A person holding a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image3.jpg){width="3.4722222222222223in"
-height="3.4444444444444446in"}
+generated](media_adapting-your-game-to-win-matches/media/image3.jpg)
 
 **William told everyone he would volley me off the court.**
 
@@ -104,13 +101,12 @@ softly at his feet. If that came back which it usually did, I tried for
 another low shot or two.
 
 I only went for passes when the court was ridiculously open and made
-most of them. He wasn\'t that great moving side to side at the net. He
+most of them. He wasn't that great moving side to side at the net. He
 started to try to do more with the low volleys and began making errors.
 He was very unhappy when I won in straight sets.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image4.jpg){width="3.4722222222222223in"
-height="3.2222222222222223in"}
+generated](media_adapting-your-game-to-win-matches/media/image4.jpg)
 
 **Rummy had a great kick serve and great volleys.**
 
@@ -132,7 +128,7 @@ He was in control and won the first set. I decided my only chance was to
 try to beat him up to the net.
 
 So, I started kicking every serve to his backhand and going in myself.
-That didn\'t stop him from approaching the net as well. If anyone had
+That didn't stop him from approaching the net as well. If anyone had
 been watching the match, they would have said it looked insane---both of
 us on the service line or inside on most points.
 
@@ -144,8 +140,7 @@ his second serve. This unnerved him just enough that I was able to
 squeak out a couple of breaks and won the last two sets.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image5.jpg){width="6.5in"
-height="8.840277777777779in"}
+generated](media_adapting-your-game-to-win-matches/media/image5.jpg)
 
 **Mark was a 4.5 version of Gene Mayer.**
 
@@ -165,7 +160,7 @@ reach. He won the match in two easy sets.
 The second time we played I changed my patterns. I tried to hit all
 short slice. And I mean all short slice, even hitting mostly slice
 forehands. The lower, slower balls tipped the balance in the exchanges.
-He couldn\'t hit his own angles with as much pace and spin and the same
+He couldn't hit his own angles with as much pace and spin and the same
 was true on his drives.
 
 He started going for more and missing. Instead of trying to drive the
@@ -181,7 +176,7 @@ him in two tight sets.
 **Enzo**
 
 Enzo was a former professional soccer player (or so he said). He was a
-retriever and was known for his regular bad line calls. He didn\'t have
+retriever and was known for his regular bad line calls. He didn't have
 much power, so his strategy was to make an outrageous call early, get
 you upset and cause you to self-destruct. Game versus game he should
 never have beaten the people he was beating.
@@ -194,8 +189,7 @@ what I would do if he made bad calls, etc.
 
 ![A person in a blue uniform kicking a football ball Description
 automatically generated with medium
-confidence](media_adapting-your-game-to-win-matches/media/image6.jpg){width="4.166666666666667in"
-height="2.5in"}
+confidence](media_adapting-your-game-to-win-matches/media/image6.jpg)
 
 **Enzo was a former professional soccer player\--he said.**
 
@@ -215,7 +209,7 @@ So, the week before I hit about 25 overheads everyday. One to the open
 court if it was a good lob, and hopefully the second for a winner. While
 practicing overheads, I visualized it was match point for me and
 imagined the pressure that goes with it, tried to relax and go for it.
-That helped in the match, and I didn\'t miss many.
+That helped in the match, and I didn't miss many.
 
 After I beat him in straight sets, I continued talking to him like he
 was my best friend, congratulating him on his various wins. I thought I
@@ -225,15 +219,14 @@ might have to play him again, although I never did.
 
 One of the higher-level players I ever beat was Butch in a Norcal 5.5
 tournament. He was seeded fourth or something and that win was why I got
-ranked in the top 20 in the 5.5\'s that year.
+ranked in the top 20 in the 5.5's that year.
 
 Butch had a bigger game than I did, but I was just staying with him,
 mainly playing defense but trying to hit an aggressive shot when I
 could, which was not that often.
 
 ![A person sitting on a tractor Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image7.jpg){width="3.4722222222222223in"
-height="3.1527777777777777in"}
+generated](media_adapting-your-game-to-win-matches/media/image7.jpg)
 
 **I owed my win over Butch to the tractor.**
 
@@ -275,8 +268,7 @@ lesson by serving and volley every point---something he had never done
 in a tournament match so far as I knew.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image8.jpg){width="4.166666666666667in"
-height="2.7777777777777777in"}
+generated](media_adapting-your-game-to-win-matches/media/image8.jpg)
 
 **Roscoe went on to win a lot of senior titles.**
 
@@ -284,7 +276,7 @@ From the start I knew at that stage of his development it was a bluff.
 But there he was making one great volley after another, low ones, high
 ones, then scissor kick overheads.
 
-Somehow, I knew he wouldn\'t be able to go the distance though. One of
+Somehow, I knew he wouldn't be able to go the distance though. One of
 my friends was watching and came up and asked the score. Roscoe had run
 it to 5-3 serving in the second, having won the first. My friend gave me
 that look like "Oh, too bad.\"
@@ -298,7 +290,7 @@ stared to miss everything. He kept coming in on his serve, but suddenly
 his low volley deserted him. He choked some overheads. He got made and
 started over hitting returns. I felt my confidence surge and ending up
 running off 4 games to take the second set 7-5. The third was like 6-2
-for me. It\'s funny how your intuition about a player can be so
+for me. It's funny how your intuition about a player can be so
 accurate.
 
 Roscoe begged me many times after that to play him in practice. Finally,
@@ -309,31 +301,30 @@ He had a lot of talent and had worked passionately on his game. Although
 that bad practice loss was mildly painful, it was also great to see him
 mature as a player.
 
-We\'ve stayed good friends over the years, but I always remind him,
+We've stayed good friends over the years, but I always remind him,
 particularly after he wins a title, that I am one and one lifetime with
 him and won the last match that mattered. It makes him seethe, but I
 always get a smile out of it.
 
 **Mitchell**
 
-Mitchell was a Neanderthal. That\'s how he looked and acted---although
+Mitchell was a Neanderthal. That's how he looked and acted---although
 that could be an insult to Neanderthals. He was a member of the San
-Francisco Tennis Club as I have been for 30 plus years. I\'d be in the
+Francisco Tennis Club as I have been for 30 plus years. I'd be in the
 weight room doing incline bench presses and he would come over, push the
 bar down on top of me and yell, "Put some weight on it.\"
 
-I\'d tell him to get the fuck away from me. Mitch took up tennis in his
-20\'s. He took some lessons from Brad Gilbert. He was always bragging
+I'd tell him to get the fuck away from me. Mitch took up tennis in his
+20's. He took some lessons from Brad Gilbert. He was always bragging
 about his 120mph serve, supposedly measured in some radar cage.
 
 ![A picture containing person, wearing, looking, mask Description
 automatically
-generated](media_adapting-your-game-to-win-matches/media/image9.jpg){width="2.0in"
-height="1.175in"}
+generated](media_adapting-your-game-to-win-matches/media/image9.jpg)
 
 **Mitchell gave Neanderthals a bad name.**
 
-He\'d seen me play practice matches at the club and kept telling me how
+He'd seen me play practice matches at the club and kept telling me how
 he would crush me. I told him, enter some tournaments Bucko and you can
 maybe test that claim. But of course, he never did.
 
@@ -342,7 +333,7 @@ business, reading the paper. Mitch was playing some other guy on a court
 nearby. Unfortunately, he came over and started telling me how I was
 afraid to play him.
 
-That sent me over the edge. I didn\'t even have my rackets. I told him I
+That sent me over the edge. I didn't even have my rackets. I told him I
 going to beat him 6-0 with his own racket and took his extra
 racket---some hideous heavy club. He was very excited. He may have been
 drooling.
@@ -354,17 +345,17 @@ only hit down the line when it went in.
 
 His vaunted 120mph serve went in about 20% of the time. Again, he used a
 forehand grip and so it was almost totally flat. I stood way back and
-just blocked every first serve to his backhand. I didn\'t miss one
+just blocked every first serve to his backhand. I didn't miss one
 return. If he got it back, I just hit the ball to his backhand until he
 missed---usually within 2 balls.
 
 I kicked all my serves to his backhand and he may not have made 3
 returns. No matter what I hit every ball that come back to his
-backhand---no matter how open the court was. I don\'t think he actually
+backhand---no matter how open the court was. I don't think he actually
 hit a forehand. He won maybe 3 points and I beat him 6-0 in about 20
 minutes.
 
-After the set he didn\'t say a thing, just stormed off the court. I left
+After the set he didn't say a thing, just stormed off the court. I left
 his racket at the net post---no idea if he ever got it back.
 
 The next week I got a call from Mitch. He wanted to come over to my
@@ -377,13 +368,13 @@ got married and quite the club. I never saw him again.
 **Victor**
 
 Victor was probably the most challenging and annoying guy I ever played.
-It\'s my favorite win of all time. This was in another 4.5 final. After
+It's my favorite win of all time. This was in another 4.5 final. After
 I won my semi, I went over to catch the end of the other semi-final
 match. The guy I expected to play in the final was a Division 2 college
 player I had seen before with a gorgeous, technical game who took the
 ball early and was really accurate.
 
-When I got there, I couldn\'t believe what I was seeing. Victor was
+When I got there, I couldn't believe what I was seeing. Victor was
 camped 10 feet behind the baseline hitting only, and I mean only,
 30-foot high moonballs. He had one of those old Dunlop rackets that had
 almost a triangular head---somehow it felt like the racket shape was
@@ -403,8 +394,7 @@ replied, "For your comfort, I suggest you may get a linesman.\" It was
 way too late for that.
 
 ![A picture containing athletic game, sport Description automatically
-generated](media_adapting-your-game-to-win-matches/media/image10.jpg){width="3.4722222222222223in"
-height="4.583333333333333in"}
+generated](media_adapting-your-game-to-win-matches/media/image10.jpg)
 
 **Who would play with a racket with this head shape?**
 
@@ -456,8 +446,7 @@ happy.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_adapting-your-game-to-win-matches/media/image11.jpeg){width="1.8263888888888888in"
-height="2.64375in"}
+confidence](media_adapting-your-game-to-win-matches/media/image11.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

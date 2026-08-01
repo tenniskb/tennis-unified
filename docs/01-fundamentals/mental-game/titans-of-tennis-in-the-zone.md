@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_titans-of-tennis-in-the-zone/media/image1.jpg){width="3.791304680664917in"
-height="2.7573129921259842in"}
+confidence](media_titans-of-tennis-in-the-zone/media/image1.jpg)
 
 **Tim Gallwey: Harvard tennis captain, voyager to India, creator of the
 Inner Game.**
@@ -19,16 +18,16 @@ and the process of reaching it can be different for different performers
 ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/damien_lafont/does_zone_exist/)).
 
-Now in this article let\'s narrow our focus and discuss the fundamental
+Now in this article let's narrow our focus and discuss the fundamental
 pillars of our understanding of the zone in tennis. These are the work
 of Tim Gallwey and the work of Dr. Jim Loehr.
 
-We\'ll see that, as for other sports, each describes different aspects
+We'll see that, as for other sports, each describes different aspects
 of the zone and different ways of approaching it. But, interestingly,
 together they provide an approach that fuses point play with the other
 critical aspects that surround it.
 
-Tim Gallwey\'s seminal best selling book, The Inner Game of Tennis,
+Tim Gallwey's seminal best selling book, The Inner Game of Tennis,
 published 40 years ago in 1974, virtually created the field of mental
 game studies in sport. His work is sometimes summarized as a simple
 message \"watch the ball.\" However the work and its implications are
@@ -42,8 +41,7 @@ called his method \"Yoga Tennis,\" but he renamed his approach \"the
 Inner Game\" as he worked on the book of that title.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_titans-of-tennis-in-the-zone/media/image2.jpg){width="2.9478258967629047in"
-height="3.172422353455818in"}
+generated](media_titans-of-tennis-in-the-zone/media/image2.jpg)
 
 **Gallwey transformed Yoga Tennis into the Inner Game.**
 
@@ -85,8 +83,7 @@ dialogue between them blocked entrance to the zone.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_titans-of-tennis-in-the-zone/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_titans-of-tennis-in-the-zone/media/image3.webp)
 
 **The Inner Game: watching the ball impacts the entire experience of
 playing.**
@@ -95,7 +92,7 @@ Self 1, the conscious mind, constantly gave instructions on how to play.
 But this interfered with Self 2 which actually played the game at a
 deeper level than words.
 
-Tim Gallwey\'s belief was that to play at your peak, you needed to
+Tim Gallwey's belief was that to play at your peak, you needed to
 silence Self 1 and release Self 2. This involved three steps.
 
 First, observing your current behavior and internal dialogue but without
@@ -120,15 +117,14 @@ Furthermore, the seams are here and now, and if the mind is on them it
 is kept from wandering to the past or the future.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_titans-of-tennis-in-the-zone/media/image4.jpg){width="2.611111111111111in"
-height="3.4444444444444446in"}
+generated](media_titans-of-tennis-in-the-zone/media/image4.jpg)
 
 **Jim Loehr created the field of mental toughness training almost 25
 years ago.**
 
 **Mental Toughness Training**
 
-**Gallwey\'s inspirational book is still worth reading today and in fact
+**Gallwey's inspirational book is still worth reading today and in fact
 was one factor that inspired the subsequent work of our second titan:
 Dr. Jim Loehr.**
 
@@ -136,9 +132,9 @@ When Jim Loehr wrote his first book he literally coined the phrase
 \"mental toughness,\" which went on to become a universal concept in all
 sports and virtually every field of endeavor. But ironically Loehr could
 not initially find a publisher and \"Mental Toughness Training for
-Sports\" was first self-published with help from Jim\'s family.
+Sports\" was first self-published with help from Jim's family.
 
-Unlike Gallwey\'s insights, which stemmed primarily from
+Unlike Gallwey's insights, which stemmed primarily from
 self-reflection, Loehr took an empirical approach. He interviewed
 athletes and asked them to describe their experiences when they were
 playing in their \"finest hour.\"
@@ -154,15 +150,14 @@ physical performance and was also self-reinforcing. Anxiety and fear
 reduced performance and reduced performance produced more anxiety and
 fear.]{.mark}]{.underline}**
 
-According to Jim: \"An athlete\'s thoughts prompt certain emotions, and
+According to Jim: \"An athlete's thoughts prompt certain emotions, and
 those emotions have physical consequences. They prompt physiological
 responses including increased heart rate, muscle tightness, shortness of
 breath, reduced blood flow and narrowing of vision.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_titans-of-tennis-in-the-zone/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_titans-of-tennis-in-the-zone/media/image5.webp)
 
 **Could other players achieve the performance state of a player like
 Federer?**
@@ -205,26 +200,25 @@ executing on the court, sometimes visualizing entire games.
 
 ![A picture containing sport, grass, person, athletic game Description
 automatically
-generated](media_titans-of-tennis-in-the-zone/media/image6.jpg){width="4.027777777777778in"
-height="2.4166666666666665in"}
+generated](media_titans-of-tennis-in-the-zone/media/image6.jpg)
 
-**Ivan lendl: the champion\'s mentality was not innate, but created.**
+**Ivan lendl: the champion's mentality was not innate, but created.**
 
-Observing Lendl and other players, Loehr concluded that the champion\'s
+Observing Lendl and other players, Loehr concluded that the champion's
 mentality was the result of disciplined and balanced training rather
 than merely innate qualities possessed by superior competitors.
 
-Loehr\'s enduring contribution was to devise a specific on court and off
+Loehr's enduring contribution was to devise a specific on court and off
 court program to create these positive mental, emotional, and bodily
 states. This was principally through his prescription of rituals and
 disciplined thought patterns between points and games. But it included
 off court reprogramming and positive visualizations as well.
 
-Loehr\'s work has been widely copied, paraphrased, and appropriated by
+Loehr's work has been widely copied, paraphrased, and appropriated by
 dozens if not hundreds of self-styled mental gurus. But it remains the
 foundation for the field that he virtually created. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/mentalgame/mentalgame.html)
-for the presentation of Jim\'s entire system on Tennisplayer.)
+for the presentation of Jim's entire system on Tennisplayer.)
 
 Taken together the work of Gallwey and Loehr, so different in approach,
 style, and tone still provide a framework for the mental game\--during
@@ -234,8 +228,7 @@ defining and creating the zone.
 
 ![A person smiling with his eyes closed Description automatically
 generated with low
-confidence](media_titans-of-tennis-in-the-zone/media/image7.jpeg){width="1.8263888888888888in"
-height="2.173611111111111in"}
+confidence](media_titans-of-tennis-in-the-zone/media/image7.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
 Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
@@ -245,8 +238,7 @@ improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
 
 ![Graphical user interface, application Description automatically
-generated](media_titans-of-tennis-in-the-zone/media/image8.jpeg){width="1.6694444444444445in"
-height="2.495833333333333in"}
+generated](media_titans-of-tennis-in-the-zone/media/image8.jpeg)
 
 Back to the Zone
 

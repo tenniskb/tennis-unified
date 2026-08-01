@@ -7,24 +7,23 @@ groundstrokes? Even smaller players like Hewitt and Chang manage to
 generate a tremendous amount of force. Over the past decade a more
 efficient use of tennis footwork has evolved to create this power and
 also to keep up with the decreasing amount of time a player has to get
-to the ball and to recover in today\'s power game.
+to the ball and to recover in today's power game.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                               ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-hitting-stance/media/image1.webp){width="2.6770833333333335in"
-                                                                           height="2.5in"}
+   confidence](media_the-hitting-stance/media/image1.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   **Stepping in - the back foot judges the contact point in order for the last step to trigger the swing. Notice how Agassi\'s right foot does not move until the
+   **Stepping in - the back foot judges the contact point in order for the last step to trigger the swing. Notice how Agassi's right foot does not move until the
                                                                       completion of the swing.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The following article on the different hitting stances will demonstrate
-how the tennis tour\'s best movers generate effortless power in
+how the tennis tour's best movers generate effortless power in
 different hitting situations.
 
 Three basic principles all the great players have in common are.
-balance, ground force, and the proper implementation of the body\'s
+balance, ground force, and the proper implementation of the body's
 kinetic chain.
 
 The different stances described in this article are the Step In (Andre
@@ -47,13 +46,11 @@ vertical the racquet should be in a horizontal position. Rotating around
 a body axis that stays vertical until the end of the follow through is a
 sign of good balance.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                        | ![A person playing tennis Description automatically generated with medium                                                                                        |
-| confidence](media_the-hitting-stance/media/image2.jpg){width="2.0833333333333335in" | confidence](media_the-hitting-stance/media/image3.jpg){width="2.0833333333333335in" |
-| height="2.90625in"}                                                                                                                                              | height="3.0520833333333335in"}                                                                                                                                   |
-+:================================================================================================================================================================:+:================================================================================================================================================================:+
-| **Agassi plants his left foot parallel to the baseline. His right foot steps in toward the net, pointed at a 45 degree angle. This keeps his hips sideways until the left knee rotates towards the net. Then the hips and hands are fired toward and through the contact point. Note the toe touch (rear foot).**                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_the-hitting-stance/media/image2.jpg) |  |
+| **Agassi plants his left foot parallel to the baseline. His right foot steps in toward the net, pointed at a 45 degree angle. This keeps his hips sideways until the left knee rotates towards the net. Then the hips and hands are fired toward and through the contact point. Note the toe touch (rear foot).** |  |
+
 
 The topspin swing is a low to high diagonal. The majority of the force
 generated by the racquet through the plane the ball is on is horizontal,
@@ -84,19 +81,17 @@ start the kinetic chain. To be able to hit the ball in a higher contact
 point you can jump off the ground driving off the front foot and kicking
 the back foot back towards the back fence as the body rotates.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                        | ![A person playing tennis Description automatically generated with medium                                                                                        |
-| confidence](media_the-hitting-stance/media/image4.jpg){width="2.0833333333333335in" | confidence](media_the-hitting-stance/media/image5.jpg){width="2.0833333333333335in" |
-| height="2.53125in"}                                                                                                                                              | height="2.53125in"}                                                                                                                                              |
-+:================================================================================================================================================================:+:================================================================================================================================================================:+
-| Serena\'s drives off her right foot setting in motion a kinetic chain generating a tremendous amount of power. Her back knee begins to rotate into the \"K\" position where it will almost touch the front knee .                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_the-hitting-stance/media/image4.jpg) |  |
+| Serena's drives off her right foot setting in motion a kinetic chain generating a tremendous amount of power. Her back knee begins to rotate into the \"K\" position where it will almost touch the front knee . |  |
+
 
 ### **Open Stance**
 
-In today\'s game the open stance is used for two main reasons.
+In today's game the open stance is used for two main reasons.
 
-1.  At the speed the ball is coming, players don\'t have time to step
+1.  At the speed the ball is coming, players don't have time to step
     into the ball.             
 
 2.  It is more efficient to recover back to the middle.
@@ -105,7 +100,7 @@ For every one extra step taken to the ball, it takes at least one (if
 not two) to get back to the middle, therefore, hitting with a closed
 stance slows recovery time.
 
-Using the open stance, Serenas\'s shoulders turn 90 degrees to the net
+Using the open stance, Serenas's shoulders turn 90 degrees to the net
 while her hips stay at 45 degrees to the net. When she drives off the
 right foot and rotates her right knee, she fires her hips a little,
 which rotates her shoulders a lot. This is the same principle used in
@@ -113,15 +108,12 @@ the golf swing, where shoulders turn more than hips on the backswing.
 When the hips are turned on the forward swing, the shoulders are whipped
 through, creating greater club head speed.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                        | ![A person playing tennis Description automatically generated with medium                                                                                        |
-| generated](media_the-hitting-stance/media/image6.jpg){width="2.0833333333333335in" | confidence](media_the-hitting-stance/media/image7.jpg){width="2.1041666666666665in" |
-| height="2.53125in"}                                                                                                                                             | height="2.53125in"}                                                                                                                                              |
-+:===============================================================================================================================================================:+:================================================================================================================================================================:+
-| **Hewitt kicks back with his right leg to balance and brake the body rotation. Notice how straight up and down he keeps his rotating axis.**                    | **Agassi moves in on a short ball, steps in with his left foot and kicks back with his right foot to balance the body.**                                         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **If the right foot comes around too soon the elbow flies away from the body, the racquet face closes and the ball goes into the net. Kicking back keeps the body from over rotating and keeps the elbow in so the racquet face stays perpendicular to the ground through impact.**                                                |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| generated](media_the-hitting-stance/media/image6.jpg) |  |
+| **Hewitt kicks back with his right leg to balance and brake the body rotation. Notice how straight up and down he keeps his rotating axis.** | **Agassi moves in on a short ball, steps in with his left foot and kicks back with his right foot to balance the body.** |
+| **If the right foot comes around too soon the elbow flies away from the body, the racquet face closes and the ball goes into the net. Kicking back keeps the body from over rotating and keeps the elbow in so the racquet face stays perpendicular to the ground through impact.** |  |
+
 
 ### **Kinetic Chain**
 
@@ -137,7 +129,7 @@ centrifugal force applies in tennis, a little body rotation will
 generate much greater racquet speed]{.underline}**.
 
 **[[The biomechanical sequence starts by pushing off the back foot,
-turning the back leg\'s shin, knee, and thigh towards the net creating
+turning the back leg's shin, knee, and thigh towards the net creating
 the \"K\" position where the back knee rotates to a point almost
 touching the front knee, not unlike the letter
 \"K\".]{.underline}]{.mark}** **[[The core of the body - the hips,
@@ -155,15 +147,14 @@ an anchor, stopping the rotation.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically
-  generated](media_the-hitting-stance/media/image8.webp){width="2.8645833333333335in"
-  height="2.3854166666666665in"}
+  generated](media_the-hitting-stance/media/image8.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###  **Sampras\' Running Forehand**
+###  **Sampras' Running Forehand**
 
-Sampras\'s lethal running forehand uses the hitting arm to swing while
+Sampras's lethal running forehand uses the hitting arm to swing while
 stepping across with his left foot. He hits with a closed stance in
 order to keep his body from rotating too much as he swings.
 
@@ -176,15 +167,14 @@ weight back.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-hitting-stance/media/image9.webp){width="2.71875in"
-  height="2.375in"}
+  confidence](media_the-hitting-stance/media/image9.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Resistance Stance**
 
-The resistance stance is used when there isn\'t time to get the entire
+The resistance stance is used when there isn't time to get the entire
 body into the optimum position to swing the racquet. Here Serena faces a
 hard, deep shot at the baseline and is forced to hit a half volley.
 
@@ -195,13 +185,12 @@ stays still through the follow through.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with his tongue out Description automatically generated with medium                                                                                      **Michael Friedman** has been devoted to
-  confidence](media_the-hitting-stance/media/image10.jpeg){width="2.079861111111111in"   teaching and coaching tennis for over 30
-  height="1.663888888888889in"}                                                                                                                                       years. Currently he is the Tennis Director at
+  confidence](media_the-hitting-stance/media/image10.jpeg)                                                                                                                                       years. Currently he is the Tennis Director at
                                                                                                                                                                       the Millennium Sports Club in Rancho Solano,
                                                                                                                                                                       where he runs an active junior development as
                                                                                                                                                                       well as adult program. Michael has been a
                                                                                                                                                                       mainstay in the United States Professional
-                                                                                                                                                                      Tennis Association\'s Northern California
+                                                                                                                                                                      Tennis Association's Northern California
                                                                                                                                                                       Division, and served as President from 2000
                                                                                                                                                                       through 2001. He has been a featured speaker
                                                                                                                                                                       at many USTA and USPTA tennis workshops

@@ -20,16 +20,15 @@ Find out why the Push Serve is highly preferable.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-push-serve-and-pull-serve/media/image2.jpeg){width="1.5597222222222222in"
-height="2.0722222222222224in"}
+confidence](media_the-push-serve-and-pull-serve/media/image2.jpeg)
 
 Dr. Ben Kibler is an orthopedic surgeon and Medical Director at the
 Lexington Clinic Sports Medicine Center, in Lexington, Kentucky. He is
 the Sports Medicine Advisor to the Professional Tennis Registry and also
-the Women\'s Tennis Association. Ben is currently working with WTA tour
-officials and coaches on a study of women\'s professional serving. Ben
+the Women's Tennis Association. Ben is currently working with WTA tour
+officials and coaches on a study of women's professional serving. Ben
 is a member of the USTA Sports Science Committee and was a founding
 member, and is Past President, of the Society for Tennis Medicine and
-Science. In 1998, he received PTR\'s Stanley Plagenhoef Award for his
+Science. In 1998, he received PTR's Stanley Plagenhoef Award for his
 work in sport science. In 2009, he received the International Tennis
 Hall of Fame Educational Merit Award.

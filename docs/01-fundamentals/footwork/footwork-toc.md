@@ -8,8 +8,7 @@ Top of Form
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_footwork-toc/media/image1.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_footwork-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -18,15 +17,15 @@ Few topics in playing and coaching are as complex, confusing\--and
 generally overlooked\--as footwork and court movement.
 
 In this section of Tennisplayer, we are beginning to redress that
-problem by looking closely at every aspect of how player\'s move\--and
+problem by looking closely at every aspect of how player's move\--and
 should move\--in all dimensions of play.
 
 Bob Hansen was far ahead of his time when he and I first worked together
 over 10 years ago presenting his \"controversial\" theories of how to
-position to the ball. It\'s similar to what happened to Jim Loehr\'s
+position to the ball. It's similar to what happened to Jim Loehr's
 theories of mental toughness. The things Bob understood a long time ago
-are no longer considered controversial. They\'ve been widely adopted and
-used by the world\'s top coaches.
+are no longer considered controversial. They've been widely adopted and
+used by the world's top coaches.
 
 Michael Friedman is another is a long list of talented North California
 teaching pros who have made important contributions to teaching theory,
@@ -37,7 +36,7 @@ complex movements used by the pros to deal with the wide variety of
 balls faced in actual play.
 
 This is an area where we hope Tennisplayer will make a significant
-contribution to the game. They\'ll be a lot more to come, not only from
+contribution to the game. They'll be a lot more to come, not only from
 Bob and Michael, but from Australian Coach David Bailey and others, stay
 tuned!
 

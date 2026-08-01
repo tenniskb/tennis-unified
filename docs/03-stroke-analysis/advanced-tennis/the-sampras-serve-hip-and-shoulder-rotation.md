@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image1.webp)
 
 **What actually happens when the torso rotates in elite serving?**
 
@@ -18,12 +17,12 @@ Roger Federer\-- turn away from the ball so far that their backs
 approach parallel to the baseline.
 
 Many other top players turn far less including players from Greg
-Rusedski to Novak Djokovic to Rafael Nadal. And on the women\'s side,
+Rusedski to Novak Djokovic to Rafael Nadal. And on the women's side,
 with few exceptions, the turn is usually very limited. This is in fact a
 possible explanation for the serving problems of some top players.
 ([Click
 Here](https://www.tennisplayer.net/members/your_strokes/2009/jelena_jankovic_serve/jelena_jankovic_serve.html)
-for an analysis of Jelena Jankovic\'s motion.)
+for an analysis of Jelena Jankovic's motion.)
 
 In the first article in this new series, we addressed one of the other
 major disputed issues in pro serving, \"racket head speed,\" a term that
@@ -34,8 +33,7 @@ Here](The%20Sampras%20Serve-Racquet%20Head%20Speed.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image2.webp)
 
 **Many pro servers have far less turn away from the ball-especially
 among the women.**
@@ -47,11 +45,11 @@ contributor Brian Gordon, we did a 3D filming of the serve of Pete
 Sampras during an exhibition he played against Sam Querry\--part of his
 preparation for his match series against Roger Federer.
 
-Brian\'s work is taking our understanding of the game to a different
+Brian's work is taking our understanding of the game to a different
 level, not only in his creation of quantified data bases, but in his
 evolving ability to do real time 3D measurements of players at all
 levels. More on all that in the near future. (In the meantime, to see
-Brian\'s articles on the serve [Click
+Brian's articles on the serve [Click
 Here](https://www.tennisplayer.net/members/biomechanics/scienceofbio.html).)
 I feel very lucky to be collaborating with him and, through his
 generosity, to have the opportunity to ask some of my own questions of
@@ -67,26 +65,25 @@ a fraction of the duration of the motion, which, in its entirety, takes
 over 2 seconds to complete!
 
 ![A person playing tennis Description automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image3.webp)
 
 **How much does Pete rotate, when, and what the differences in the hips
 and shoulders?**
 
-Now in this second article let\'s ask some similar questions about the
+Now in this second article let's ask some similar questions about the
 rotation of the hips and shoulders, and see what this revolutionary,
-scientific perspective can tell us. Let\'s see how much turn there
-really is Sampras\'s serve, when this turn occurs, and the critical and
+scientific perspective can tell us. Let's see how much turn there
+really is Sampras's serve, when this turn occurs, and the critical and
 surprising differences in the position of the hips and shoulders over
 the course of the motion.
 
-We\'ll see in particular **[how the angle between the hips and the
+We'll see in particular **[how the angle between the hips and the
 shoulders changes dramatically in that same critical fraction of a
 second when most of the racket head acceleration occurs-the 1/10th of a
 second between the racket drop and the contact.]{.mark}** Is this an
 unrecognized key in developing a high level serve?
 
-Previously, in writing about the topic of body turn on the serve, I\'ve
+Previously, in writing about the topic of body turn on the serve, I've
 danced around the distinction between the hips and the shoulders,
 referring to the movement as \"torso\" rotation. In studying video I
 found it was very difficult to accurately perceive differences between
@@ -96,15 +93,14 @@ tell.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image4.webp)
 
-**With Brian\'s data we can actually measure the timing and angles of
+**With Brian's data we can actually measure the timing and angles of
 body rotation.**
 
 Now we have the data to actually do that analysis, and see what the
 angles are over the course of the motion. To make this possible, I asked
-Brian to draw one line across Pete\'s body connecting the hip joints,
+Brian to draw one line across Pete's body connecting the hip joints,
 and a second line connecting the joints of the shoulders. By comparing
 the angles of these two lines to the baseline as Pete goes through his
 motion, we can see the positions of the hip and shoulders, and their
@@ -133,10 +129,9 @@ frame some of the issues.
   -----------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image5.webp)
 
-**In the first half second, Pete\'s body turns about 40 degrees, with
+**In the first half second, Pete's body turns about 40 degrees, with
 the shoulders turned slightly further than the hips.**
 
 **So?**
@@ -144,17 +139,17 @@ the shoulders turned slightly further than the hips.**
 So how much does Pete turn and when? What are the relative angles of his
 hips and shoulders to the baseline and to each other at the various
 stages of the motion? How long do each of these phases really take?
-Let\'s start at the beginning of the motion and see.
+Let's start at the beginning of the motion and see.
 
-In his starting position, Pete\'s entire torso appears to be at about a
+In his starting position, Pete's entire torso appears to be at about a
 right angle, or 90 degrees to the baseline, as we have noted in previous
 analyses. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
 
-Brian\'s data shows that the hips are actually turned a little further
+Brian's data shows that the hips are actually turned a little further
 away, at 92 degrees to the baseline, or just past perpendicular. The
 shoulders in contrast are turned slightly less and are slightly open, at
-about 85 degrees to the baseline. Still that\'s pretty close to square.
+about 85 degrees to the baseline. Still that's pretty close to square.
 
 Now what happens as the torso starts to turn away from the net? As the
 motion starts, the arms start to drop. As this happens, the entire body
@@ -183,8 +178,7 @@ the shoulders are turned slightly further than the hips, even though
 they started a little more open.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image6.webp)
 
 **The full turn: 160 degrees to the baseline, tossing arm extended,
 maximum knee bend, racket forearm horizontal**.
@@ -192,16 +186,16 @@ maximum knee bend, racket forearm horizontal**.
 **Maximum Turn**
 
 From the arm drop, it takes about another half second to reach the point
-of maximum body turn. It\'s always been an interesting question how far
-this really is in Pete\'s motion. Brian\'s data shows that it is about
+of maximum body turn. It's always been an interesting question how far
+this really is in Pete's motion. Brian's data shows that it is about
 160 degrees to the baseline.
 
-So his body doesn\'t turn all the way parallel to the baseline, but it
+So his body doesn't turn all the way parallel to the baseline, but it
 is within 20 degrees. This is the largest amount of turn of probably any
 player in the history of the modern game, with the possible exception of
 John McEnroe.
 
-What\'s the relation between the hips and shoulders at this point?
+What's the relation between the hips and shoulders at this point?
 Remember in the first half second, the shoulders were ahead. But when
 Pete reaches the maximum turn, the hips have caught up and are now even
 with the shoulders. Both are at that same 160 degree angle to the
@@ -230,21 +224,20 @@ duration of the serve.]{.mark}**
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image7.webp)
 
 **Did McEnroe have as much or more turn than Pete?**
 
 **The Rest of the Body**
 
 The next question is, at this point of the greatest turn, where is the
-racket and where is the rest of Pete\'s body in the progression of the
+racket and where is the rest of Pete's body in the progression of the
 motion?
 
 The completion of the turning motion coincides with the extension of the
 tossing arm. The racket is still on the way up from the bottom of the
 wind up. The arm and racket have yet to reach the power position, and
-the forearm is roughly parallel to the court. Although I haven\'t yet
+the forearm is roughly parallel to the court. Although I haven't yet
 asked Brian for an angle on this, the bend in the legs also seems to be
 just about exactly at the maximum in the motion.
 
@@ -260,13 +253,12 @@ more interesting and complex.
 
 In the first article we saw that the critical position to create racket
 acceleration is what I call the pro racket drop. This is with the racket
-falling along Pete\'s side, at about a right angle to his torso, and
+falling along Pete's side, at about a right angle to his torso, and
 with the racket tip pointing basically straight down at the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image8.webp)
 
 **At the drop the shoulders are square and the hips are slightly
 ahead.**
@@ -310,7 +302,7 @@ point of maximum turn.
 
 **Pro Drop**
 
-But that\'s not the end of it. In the 1/10th of second it takes for the
+But that's not the end of it. In the 1/10th of second it takes for the
 racket to move from its lowest point to the pro drop, the relationship
 changes again! Suddenly the hips surge ahead again. When the racket
 reaches the pro drop, the hips have rotated about 12 degrees ahead of
@@ -318,8 +310,7 @@ the shoulders.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image9.webp)
 
 **From 30mph to 90mph in about 1/10th of a second.**
 
@@ -362,27 +353,26 @@ So have we hit on a critical element in the development of racket head
 speed?
 
 ![A person playing tennis Description automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image10.webp)
 
 **From some high speed camera angles you can actually see the shoulder
 surge.**
 
-Let\'s look at the numbers in a little more detail. Let\'s compare the
+Let's look at the numbers in a little more detail. Let's compare the
 angles at drop to those at the contact. The shoulders have gone from an
 angle of 90 degrees to the baseline to an angle of 20 degrees to the
 baseline. That is 70 degrees of rotation in 1/10th of a second!
 
-The shoulders catch up and race ahead of the hips. But it\'s important
-to note that the hips don\'t stand still. In this same 1/10th of a
+The shoulders catch up and race ahead of the hips. But it's important
+to note that the hips don't stand still. In this same 1/10th of a
 second, the hips actually rotate 30 degrees. So they rotate a huge
 increment, but just not as much as the shoulders.
 
-Again let\'s look at it in terms of the angles. When Pete strikes the
+Again let's look at it in terms of the angles. When Pete strikes the
 ball, the hips are at about 45 degrees to the baseline. But the
 shoulders are around 25 degrees ahead at an angle of slightly less than
 20 degrees. In that critical interval from drop to contact, both are
-speeding up and rotating. It\'s just that the shoulders lead this
+speeding up and rotating. It's just that the shoulders lead this
 movement, going from an angle of 12 degrees behind the hips to an angle
 25 degrees ahead.
 
@@ -397,8 +387,7 @@ over what this really means.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image11.webp)
 
 **As the racket decelerates, the hips and shoulders come back into
 alignment.**
@@ -419,7 +408,7 @@ During this same interval the angle of the hips stays almost unchanged.
 But by the time the racket has actually decelerated to 30 mph, the hips
 are catching up again. A split second later, the hips and shoulders once
 again reach even. Now the angle of both is about 10 degrees to the
-baseline. So the torso is still slightly closed just before Pete\'s
+baseline. So the torso is still slightly closed just before Pete's
 front foot lands inside the court, with the hips and shoulders once
 again aligned..
 
@@ -439,11 +428,10 @@ speed video of Pete many times over the years, the fact that the numbers
 show the body is closed at contact is hardly surprising. What is a
 little surprising though is that 20 degree angle of the shoulders. In
 many examples on video, the angle appears to be more severe, that is,
-with the shoulders more closed than the numbers in Brian\'s study.
+with the shoulders more closed than the numbers in Brian's study.
 
 ![A person playing tennis Description automatically
-generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-hip-and-shoulder-rotation/media/image12.webp)
 
 **The appearance of the torso angles can be deceiving or are they?**
 
@@ -457,7 +445,7 @@ court. Do the numbers differ significantly if the serve is hit wide?
 What about in the deuce court? Do they vary slightly for even the same
 placement in the same court, depending, for example, or speed or spin?
 
-I\'m willing to bet that the basic fact that there is a surge of the
+I'm willing to bet that the basic fact that there is a surge of the
 shoulders from the drop to the contact will stay a constant, but it
 would be interesting to see if there are differences in the relative
 amounts of the rotation.
@@ -473,8 +461,7 @@ how?
 
 ![A couple of tennis players on a court Description automatically
 generated with low
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image13.webp)
 
 **Will we see similar patterns of hip and shoulder rotation in other
 elite servers?**
@@ -517,10 +504,9 @@ contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image14.webp)
 
-**Pete\'s use of the extreme turn, means something for sure, but we need
+**Pete's use of the extreme turn, means something for sure, but we need
 to learn more.**
 
 **Implications**
@@ -540,9 +526,9 @@ Or is the main advantage in the big turn actually not biomechanical and
 really a matter of disguise? Or is it some combination of both? Do
 players with less turn have the same shoulder surge or any at all?
 
-Before we attempt to address those questions, however, let\'s continue
-to mine Brian\'s incredible data. We\'ve looked at the angle of the hips
-and shoulders in this article. In the next installment, we\'ll look at
+Before we attempt to address those questions, however, let's continue
+to mine Brian's incredible data. We've looked at the angle of the hips
+and shoulders in this article. In the next installment, we'll look at
 the actual speeds of these rotations\--not just the angles\-- and see
 what that information confirms, denies, confuses, or further reveals.
 Stay tuned!
@@ -554,8 +540,7 @@ here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analy
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image15.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-sampras-serve-hip-and-shoulder-rotation/media/image15.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

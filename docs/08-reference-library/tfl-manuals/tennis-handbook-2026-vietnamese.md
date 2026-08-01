@@ -28,7 +28,7 @@ xương khi té ngã nhưng không giải thích được tại sao Federer có 
 forehand 145 km/h mà cánh tay gần như\... thư giãn hoàn toàn.
 
 Sự thật là cơ thể con người không phải máy móc cứng nhắc. Nó là một hệ
-thống Tensegrity -- từ ghép của \'tension\' (căng) và \'integrity\'
+thống Tensegrity -- từ ghép của 'tension' (căng) và 'integrity'
 (toàn vẹn). Kiến trúc sư Buckminster Fuller đề xuất khái niệm này năm
 1955, và nhà sinh lý học Stephen Levin sau đó áp dụng vào sinh học năm
 1981, gọi là Biotensegrity.
@@ -39,7 +39,7 @@ Trong một cấu trúc Tensegrity:
 
 - Các thành phần chịu NÉN (xương) KHÔNG chạm nhau trực tiếp.
 
-- Chúng \'lơ lửng\' trong một mạng lưới chịu CĂNG liên tục (mạc cơ, gân,
+- Chúng 'lơ lửng' trong một mạng lưới chịu CĂNG liên tục (mạc cơ, gân,
   dây chằng).
 
 - Lực không đi qua một điểm mà PHÂN TÁN đều khắp hệ thống.
@@ -62,7 +62,7 @@ Trong một cấu trúc Tensegrity:
   **Lực truyền theo      Lực lan tỏa đồng thời qua mạng lưới phi
   chuỗi tuyến tính**     tuyến
 
-  **Khớp là điểm chuyển  Khớp là \'nút sóng\' linh hoạt
+  **Khớp là điểm chuyển  Khớp là 'nút sóng' linh hoạt
   tiếp cứng**            
 
   **Gồng cơ = mạnh hơn** Gồng cơ = chặn sóng = yếu hơn
@@ -77,7 +77,7 @@ Trong một cấu trúc Tensegrity:
 
 Fascia là lớp mô liên kết bao bọc, thấm qua và kết nối mọi cơ quan, cơ
 bắp, dây thần kinh và mạch máu trong cơ thể. Cho đến thập niên 2000, các
-sách giải phẫu học hầu như bỏ qua fascia như một lớp \'bao bì\' vô
+sách giải phẫu học hầu như bỏ qua fascia như một lớp 'bao bì' vô
 nghĩa. Ngày nay, chúng ta biết fascia là bộ phận quan trọng nhất trong
 cơ thể vận động viên.
 
@@ -89,7 +89,7 @@ Fascia được cấu tạo từ:
 
 - Elastin: Sợi đàn hồi, giúp mạc cơ co giãn như cao su sinh học.
 
-- Axit Hyaluronic (HA): Chất bôi trơn \'ma thuật\' nằm giữa các lớp
+- Axit Hyaluronic (HA): Chất bôi trơn 'ma thuật' nằm giữa các lớp
   fascia.
 
 - Tế bào cơ sợi: Có khả năng co rút chủ động, không phụ thuộc tín hiệu
@@ -100,7 +100,7 @@ Fascia được cấu tạo từ:
 Axit Hyaluronic là phân tử đặc biệt: một gram HA có thể hút và giữ tới 6
 lít nước. Khi HA hoạt động tốt, các lớp fascia trượt lên nhau êm ái như
 hai tấm kính có nước giữa. Khi HA bị kết tụ (do căng thẳng, thiếu vận
-động, lạnh), các lớp fascia \'dính\' vào nhau, tạo ra \'nhiễu\' trong hệ
+động, lạnh), các lớp fascia 'dính' vào nhau, tạo ra 'nhiễu' trong hệ
 thống truyền sóng.
 
   ------------------------------------------------------------------
@@ -122,20 +122,20 @@ Fascia không chỉ truyền lực mà còn LƯU TRỮ thông tin vật lý. Khi
 luyện một kỹ thuật đúng đắn đủ nhiều, fascia tái cấu trúc theo hướng tối
 ưu cho kỹ thuật đó. Đây là lý do:
 
-- VĐV Elite có \'bộ nhớ cơ thể\' sâu hơn VĐV nghiệp dư.
+- VĐV Elite có 'bộ nhớ cơ thể' sâu hơn VĐV nghiệp dư.
 
 - Sau chấn thương, fascia cần 6 tháng đến 2 năm để phục hồi hoàn toàn.
 
-- Tập luyện sai kỹ thuật liên tục sẽ \'lập trình\' fascia theo chiều
+- Tập luyện sai kỹ thuật liên tục sẽ 'lập trình' fascia theo chiều
   hướng xấu.
 
-**1.3. Trạng Thái \'Tùng\' (Song): Bí Quyết Từ Thái Cực Quyền**
+**1.3. Trạng Thái 'Tùng' (Song): Bí Quyết Từ Thái Cực Quyền**
 
-Trong Thái Cực Quyền cổ điển, \'Tùng\' (tiếng Hán: 鬆, phát âm Song) là
-nguyên lý cao nhất. Nó KHÔNG có nghĩa là \'lỏng lẻo\' hay \'yếu đuối\'.
+Trong Thái Cực Quyền cổ điển, 'Tùng' (tiếng Hán: 鬆, phát âm Song) là
+nguyên lý cao nhất. Nó KHÔNG có nghĩa là 'lỏng lẻo' hay 'yếu đuối'.
 Tùng là trạng thái:
 
-**1.3.1. Định Nghĩa Kỹ Thuật của \'Tùng\'**
+**1.3.1. Định Nghĩa Kỹ Thuật của 'Tùng'**
 
 - Thư giãn: Không có sự co rút cơ không cần thiết.
 
@@ -143,16 +143,16 @@ Tùng là trạng thái:
   căng phồng).
 
 - Áp suất nội tại: Duy trì một áp lực nội tại đủ để sóng lan truyền
-  nhưng không tạo \'nhiễu\'.
+  nhưng không tạo 'nhiễu'.
 
-- Sẵn sàng: Có thể phản ứng tức thì mà không cần \'khởi động\' từ trạng
+- Sẵn sàng: Có thể phản ứng tức thì mà không cần 'khởi động' từ trạng
   thái căng cứng.
 
-> *Phép thử \'Tùng\': Đứng thẳng, thả vai xuống, hít thở sâu và cảm nhận
+> *Phép thử 'Tùng': Đứng thẳng, thả vai xuống, hít thở sâu và cảm nhận
 > không gian giữa các đốt sống mở ra. Đây là trạng thái mạng lưới
 > Tensegrity đang hoạt động tối ưu.*
 
-**1.3.2. Tại Sao \'Tùng\' Tạo Ra Tốc Độ?**
+**1.3.2. Tại Sao 'Tùng' Tạo Ra Tốc Độ?**
 
 Điều này có vẻ phản trực giác nhưng có cơ sở vật lý rõ ràng. Khi cơ bắp
 co cứng:
@@ -161,11 +161,11 @@ co cứng:
 
 2.  Axit Hyaluronic bị vắt ra, tăng ma sát nội hàm.
 
-3.  Xung lực từ sóng bị \'dội ngược\' tại các điểm cứng, tạo nhiễu.
+3.  Xung lực từ sóng bị 'dội ngược' tại các điểm cứng, tạo nhiễu.
 
 4.  Năng lượng bị tiêu tốn cho việc chống lại chính sức co cơ mình.
 
-Ngược lại, khi đạt trạng thái \'Tùng\':
+Ngược lại, khi đạt trạng thái 'Tùng':
 
 5.  Fascia giãn ra, tạo không gian dẫn truyền tối ưu.
 
@@ -178,7 +178,7 @@ Ngược lại, khi đạt trạng thái \'Tùng\':
 **1.4. Các Đường Ray Fascia Chính Trong Tennis**
 
 Nhà nghiên cứu Thomas Myers đã lập bản đồ 12 đường ray fascia chính
-trong cơ thể người (cuốn sách \'Anatomy Trains\', 2001). Trong tennis, 4
+trong cơ thể người (cuốn sách 'Anatomy Trains', 2001). Trong tennis, 4
 đường ray quan trọng nhất là:
 
   ------------------ ------------------------ -----------------------
@@ -203,7 +203,7 @@ trong cơ thể người (cuốn sách \'Anatomy Trains\', 2001). Trong tennis, 
 
 **1.5.1. Bài Tập Kích Hoạt Fascia (Myofascial Release)**
 
-Sử dụng foam roller và bóng tennis để \'đánh thức\' hệ thống fascia
+Sử dụng foam roller và bóng tennis để 'đánh thức' hệ thống fascia
 trước tập:
 
 - Foam roll toàn thân: 30-60 giây mỗi vùng cơ lớn.
@@ -214,7 +214,7 @@ trước tập:
 - Lăn bóng vào cẳng tay: Chuẩn bị đường ray cánh tay cho hoạt động đánh
   bóng.
 
-**1.5.2. Bài Tập Phát Triển Cảm Giác \'Tùng\'**
+**1.5.2. Bài Tập Phát Triển Cảm Giác 'Tùng'**
 
 - Shake-down: Đứng thẳng, rung nhẹ toàn thân từ gót chân lên đầu trong
   30 giây.
@@ -235,8 +235,8 @@ Bài test đơn giản để đánh giá mức độ Tensegrity của VĐV:
   **Nhảy và hạ cánh**    Hạ xuống êm, không tiếng động, đầu gối tự
                          nhiên gập
 
-  **Xoay người 360°**    Cảm giác trơn tru, không có điểm \'kẹt\' hay
-                         \'lách cách\'
+  **Xoay người 360°**    Cảm giác trơn tru, không có điểm 'kẹt' hay
+                         'lách cách'
 
   **Vung tay mạnh**      Âm thanh vun vút, không cảm giác căng tại cổ
                          tay hay khuỷu
@@ -251,7 +251,7 @@ Bài test đơn giản để đánh giá mức độ Tensegrity của VĐV:
 
 Hơn 80% chấn thương trong tennis (Tennis Elbow, đau vai, căng cơ lưng)
 đến từ một nguyên nhân chung: GRF không được chuyển hóa qua hệ thống
-Tensegrity mà \'đổ thẳng\' vào xương và khớp.
+Tensegrity mà 'đổ thẳng' vào xương và khớp.
 
   ------------------------------------------------------------------
   **Chuỗi Chấn Thương Điển Hình (VĐV Nghiệp Dư)**
@@ -318,7 +318,7 @@ sống.*
 **ĐỘNG LỰC HỌC SÓNG PHẢN LỰC MẶT ĐẤT (GRF) Pin Trái Đất -- Nguồn Sóng
 Đầu Tiên**
 
-*Mục tiêu: Phân tích cách \'thu hoạch\' năng lượng từ mặt đất và chuyển
+*Mục tiêu: Phân tích cách 'thu hoạch' năng lượng từ mặt đất và chuyển
 hóa nó thành sóng dọc xuyên suốt cột sống -- nền tảng của mọi cú đánh
 elite.*
 
@@ -348,13 +348,13 @@ Các nghiên cứu biomechanics sử dụng force plate (bảng đo lực) ghi n
 > phải hấp thụ và chuyển hóa toàn bộ GRF thành sóng dọc. Đây là nhiệm vụ
 > đòi hỏi fascia phải hoạt động hoàn hảo.*
 
-**2.2. \'Pin Trái Đất\' -- Khái Niệm Mới Trong Tennis**
+**2.2. 'Pin Trái Đất' -- Khái Niệm Mới Trong Tennis**
 
 Trong vật lý, pin là thiết bị lưu trữ năng lượng và giải phóng có kiểm
-soát. Khi VĐV chủ động \'sạc\' vào mặt đất (đạp xuống) và nhận lại GRF,
+soát. Khi VĐV chủ động 'sạc' vào mặt đất (đạp xuống) và nhận lại GRF,
 họ đang dùng trái đất như một cục pin khổng lồ.
 
-**2.2.1. Cơ Chế \'Sạc Pin\'**
+**2.2.1. Cơ Chế 'Sạc Pin'**
 
 Quá trình sạc pin xảy ra trong 3 giai đoạn:
 
@@ -374,13 +374,13 @@ Quá trình sạc pin xảy ra trong 3 giai đoạn:
                                               dọc đi lên.
   ------------------ ------------------------ -----------------------
 
-**2.2.2. Điều Kiện Để \'Pin\' Hoạt Động Hiệu Quả**
+**2.2.2. Điều Kiện Để 'Pin' Hoạt Động Hiệu Quả**
 
 - Fascia phải đủ ấm và đủ đàn hồi (đã khởi động).
 
-- Cơ bắp phải ở trạng thái \'Tùng\' -- không gồng cứng khi tiếp đất.
+- Cơ bắp phải ở trạng thái 'Tùng' -- không gồng cứng khi tiếp đất.
 
-- Tư thế phải cho phép lực truyền thẳng lên cột sống (không bị \'gãy\'
+- Tư thế phải cho phép lực truyền thẳng lên cột sống (không bị 'gãy'
   tại hông hay lưng).
 
 - Footwork phải chủ động -- không bị động chờ bóng đến mới di chuyển.
@@ -433,16 +433,16 @@ thực hiện theo hướng xoay để tạo mô-men xoắn.
   khi bàn chân đặt ổn    
   định)**                
 
-  **Duỗi quá trễ (sau    Chuỗi TJE bị phá vỡ, lực \'gãy\' tại hông
+  **Duỗi quá trễ (sau    Chuỗi TJE bị phá vỡ, lực 'gãy' tại hông
   khi hông đã xoay)**    
 
   **Duỗi cổ chân không   GRF bị hấp thụ ở gót thay vì lòng bàn chân
   đủ**                   
 
-  **Khóa đầu gối (duỗi   Sóng bị \'khóa\', không thể tiếp tục đi lên
+  **Khóa đầu gối (duỗi   Sóng bị 'khóa', không thể tiếp tục đi lên
   thẳng hoàn toàn)**     
 
-  **Gập lưng về phía     Sóng bị \'rò rỉ\' ra phía trước, mất lực
+  **Gập lưng về phía     Sóng bị 'rò rỉ' ra phía trước, mất lực
   trước**                thẳng đứng
   ---------------------- --------------------------------------------
 
@@ -470,7 +470,7 @@ fascia hoàn hảo.
 > tiếng ồn nhỏ nhất có thể. Kết quả sẽ ngay lập tức cải thiện chất lượng
 > di chuyển và giảm chấn thương.*
 
-**2.6. Footwork Như Là \'Đặt Nút Sóng\'**
+**2.6. Footwork Như Là 'Đặt Nút Sóng'**
 
 Hầu hết HLV dạy footwork như một chuỗi bước chân để đến đúng vị trí.
 Trong lý thuyết sóng, footwork là nghệ thuật ĐẶT NÚT SÓNG -- tức là chọn
@@ -499,7 +499,7 @@ chính xác điểm tiếp đất sao cho sóng GRF được định hướng t�
                                               gian phản ứng dài hơn
   ------------------ ------------------------ -----------------------
 
-**2.7. Bài Tập Phát Triển \'Pin Trái Đất\'**
+**2.7. Bài Tập Phát Triển 'Pin Trái Đất'**
 
 **2.7.1. Plyometrics Có Kiểm Soát**
 
@@ -541,9 +541,9 @@ chính xác điểm tiếp đất sao cho sóng GRF được định hướng t�
   không phải từ tay.
 
   **→** Fascia là bộ biến đổi: Chuyển GRF thành sóng dọc thay vì để
-  nó \'đổ\' vào xương.
+  nó 'đổ' vào xương.
 
-  **→** Triple Joint Extension là \'công tắc\': Đồng bộ 3 khớp để
+  **→** Triple Joint Extension là 'công tắc': Đồng bộ 3 khớp để
   tạo sóng mạnh và sạch.
 
   **→** Im lặng = hiệu quả: Bước chân êm chứng tỏ fascia đang làm
@@ -560,7 +560,7 @@ chính xác điểm tiếp đất sao cho sóng GRF được định hướng t�
 
 **ĐIỂM NÚT (NODE) Nghệ Thuật Triệt Tiêu Phản Lực Và Bảo Vệ Khớp**
 
-*Mục tiêu: Xác định và quản lý các \'Điểm Nút\' -- nơi dao động bằng
+*Mục tiêu: Xác định và quản lý các 'Điểm Nút' -- nơi dao động bằng
 không -- để bảo vệ các khớp xương và dẫn truyền năng lượng mà không gây
 chấn thương.*
 
@@ -584,7 +584,7 @@ này:
 
 - Không có xung lực nào truyền ngược qua cán vợt vào tay.
 
-- Cảm giác đánh bóng \'ngọt\' -- không rung tay, không đau.
+- Cảm giác đánh bóng 'ngọt' -- không rung tay, không đau.
 
 > *Điểm nút chính của vợt: Nằm cách phần chân cán khoảng 15-18cm (vị trí
 > bàn tay nắm vợt). Đây không phải ngẫu nhiên -- đây là kết quả của hàng
@@ -609,7 +609,7 @@ Tương tự như vợt, cơ thể người cũng có các điểm nút sóng si
   (Shoulder)                                  do
 
   Cột sống (Spine)   Trung lập, cong sinh lý  GRF truyền thẳng không
-                                              bị \'gãy\'
+                                              bị 'gãy'
 
   Hông (Hip)         Trung lập khi đứng, gập  Điểm chuyển hóa từ sóng
                      khi đánh                 dọc → sóng ngang
@@ -625,8 +625,8 @@ Tương tự như vợt, cơ thể người cũng có các điểm nút sóng si
 
 Tennis Elbow (viêm gân khuỷu ngoài -- Lateral Epicondylitis) ảnh hưởng
 tới hơn 50% người chơi tennis và 40% VĐV chuyên nghiệp tại một thời điểm
-nào đó trong sự nghiệp. Nguyên nhân THỰC SỰ không phải là \'đánh quá
-nhiều\' mà là sóng năng lượng từ bóng truyền ngược vào khuỷu tay do khớp
+nào đó trong sự nghiệp. Nguyên nhân THỰC SỰ không phải là 'đánh quá
+nhiều' mà là sóng năng lượng từ bóng truyền ngược vào khuỷu tay do khớp
 không ở vị trí Nút Sóng.
 
 **3.3.1. Cơ Chế Hình Thành Tennis Elbow Theo Lý Thuyết Sóng**
@@ -681,9 +681,9 @@ cách khác nhau.
                                               xác hơn
   ------------------ ------------------------ -----------------------
 
-**3.5. Trạng Thái \'Tùng\' Để Thiết Lập Nút Sóng Sinh Học**
+**3.5. Trạng Thái 'Tùng' Để Thiết Lập Nút Sóng Sinh Học**
 
-Để các khớp hoạt động như Nút Sóng, chúng cần phải ở trạng thái \'Tùng\'
+Để các khớp hoạt động như Nút Sóng, chúng cần phải ở trạng thái 'Tùng'
 -- thư giãn bành trướng. Khi gồng cứng, khớp trở thành điểm CỨNG và sóng
 sẽ bị DỘI NGƯỢC thay vì đi qua.
 
@@ -703,15 +703,15 @@ Bài test đơn giản để kiểm tra xem cổ tay có đang là Nút Sóng ha
 **3.6. Nút Sóng Ở Cấp Độ Thần Kinh (Neurological Nodes)**
 
 Ngoài các nút sóng vật lý tại khớp, còn có các nút sóng ở cấp độ thần
-kinh. Đây là các điểm trong hệ thần kinh nơi tín hiệu được \'lọc\' và
-\'làm sạch\' trước khi truyền xuống cơ.
+kinh. Đây là các điểm trong hệ thần kinh nơi tín hiệu được 'lọc' và
+'làm sạch' trước khi truyền xuống cơ.
 
   ------------------------------------------------------------------
   **3 Loại Nút Sóng Thần Kinh Quan Trọng Trong Tennis**
 
   **→** Hạch Nền (Basal Ganglia): Lọc các tín hiệu vận động không
-  cần thiết, chỉ cho phép các lệnh tối ưu đi qua. Đây là \'bộ lọc tự
-  động\' của VĐV Elite.
+  cần thiết, chỉ cho phép các lệnh tối ưu đi qua. Đây là 'bộ lọc tự
+  động' của VĐV Elite.
 
   **→** Tiểu Não (Cerebellum): Điều chỉnh timing và phối hợp. Khi
   tiểu não hoạt động tốt, mọi cú đánh có timing hoàn hảo mà không
@@ -744,21 +744,21 @@ kinh. Đây là các điểm trong hệ thần kinh nơi tín hiệu được \'
   giữ ở đâu.
 
 - Partner Push Test: Người khác đẩy nhẹ vào vai bạn khi bạn ở tư thế
-  đánh, cảm nhận điểm \'ổn định tự nhiên\'.
+  đánh, cảm nhận điểm 'ổn định tự nhiên'.
 
 **3.8. Ứng Dụng Coaching: Ngôn Ngữ Nút Sóng**
 
   ---------------------- --------------------------------------------
   **Vấn Đề Thường Gặp**  **Hướng Dẫn Theo Lý Thuyết Nút Sóng**
 
-  **Cổ tay đau sau khi   Nới lỏng lực cầm vợt 20%, để cổ tay \'trôi\'
+  **Cổ tay đau sau khi   Nới lỏng lực cầm vợt 20%, để cổ tay 'trôi'
   đánh**                 tự nhiên
 
   **Khuỷu tay đau khi    Hơi gập khuỷu, vai thư giãn, để cánh tay
   đánh backhand**        treo tự nhiên
 
   **Cảm giác bóng        Đón bóng tại điểm ngọt vợt, không chủ động
-  \'nặng\' khi đỡ        block mạnh
+  'nặng' khi đỡ        block mạnh
   serve**                
 
   **Vai đau sau nhiều cú Vai phải là Nút Sóng -- thư giãn ổ chảo, để
@@ -841,9 +841,9 @@ A₂
 Đây là lý do tại sao Federer có thể tạo ra cú forehand 130 km/h bằng
 cánh tay dường như rất nhẹ nhàng.
 
-**4.3. Cơ Chế \'Phát Kình\' (Fajin) -- Sự Giải Phóng Bùng Nổ**
+**4.3. Cơ Chế 'Phát Kình' (Fajin) -- Sự Giải Phóng Bùng Nổ**
 
-\'Fajin\' (Phát kình) là khái niệm trong võ thuật Trung Hoa mô tả việc
+'Fajin' (Phát kình) là khái niệm trong võ thuật Trung Hoa mô tả việc
 giải phóng năng lượng cực kỳ nhanh và mạnh. Trong vật lý học, đây là quá
 trình chuyển hóa tức thời từ thế năng đàn hồi thành động năng.
 
@@ -861,7 +861,7 @@ trình chuyển hóa tức thời từ thế năng đàn hồi thành động n�
   40 -- 60ms         Hông bắt đầu xoay,       Hông và AOS
                      X-Factor được kích hoạt  
 
-  60 -- 90ms         Vai được \'giải phóng\', Vai và cánh tay trên
+  60 -- 90ms         Vai được 'giải phóng', Vai và cánh tay trên
                      ISR bắt đầu              
 
   90 -- 120ms        Cánh tay và cổ tay       Cánh tay dưới và cổ tay
@@ -871,7 +871,7 @@ trình chuyển hóa tức thời từ thế năng đàn hồi thành động n�
                      -- TIẾP BÓNG!            
   ------------------ ------------------------ -----------------------
 
-**4.4. Hiệu Ứng \'Roi Quất\' (Passive Whip Effect)**
+**4.4. Hiệu Ứng 'Roi Quất' (Passive Whip Effect)**
 
 Đây là một trong những khái niệm khó chấp nhận nhất nhưng quan trọng
 nhất trong tennis hiện đại: cánh tay KHÔNG tạo ra lực. Cánh tay chỉ là
@@ -958,7 +958,7 @@ hoàn hảo để tạo Bụng Sóng tại điểm tiếp bóng trên cao.
 - Catch and Release: Đối tác ném bóng, bạn tập quất nhẹ nhàng nhất có
   thể nhưng mạnh nhất có thể.
 
-- Shadow Whip: Vung vợt không có bóng tập trung vào âm thanh \'vút\' tại
+- Shadow Whip: Vung vợt không có bóng tập trung vào âm thanh 'vút' tại
   điểm tiếp bóng giả.
 
 - ISR Isolation: Đứng yên, chỉ tập xoay trong cánh tay (ISR) từ từ, cảm
@@ -979,7 +979,7 @@ hoàn hảo để tạo Bụng Sóng tại điểm tiếp bóng trên cao.
   trong chưa đầy 150ms.
 
   **→** Cánh tay là roi thụ động: Đừng chủ động đánh bằng tay -- hãy
-  để sóng \'quất\' đầu vợt.
+  để sóng 'quất' đầu vợt.
 
   **→** Timing là tất cả: Sóng dọc và sóng ngang phải gặp nhau đúng
   lúc để cộng hưởng xảy ra.
@@ -1012,7 +1012,7 @@ backswing. Trong tennis, X-Factor được mở rộng thành:
 > ra lực serve mạnh hơn, không phụ thuộc vào X-Factor tĩnh. Điều này có
 > nghĩa: CÁCH bạn chuyển đổi quan trọng hơn ĐỘ XOAY bạn đạt được.*
 
-**5.2. \'Điểm Ngọt\' 40ms -- 80ms: Cửa Sổ Thế Năng**
+**5.2. 'Điểm Ngọt' 40ms -- 80ms: Cửa Sổ Thế Năng**
 
 Nghiên cứu biomechanics từ AIS (Australian Institute of Sport) xác định
 rằng khoảng trễ lý tưởng giữa khi hông bắt đầu xoay và khi vai bắt đầu
@@ -1040,13 +1040,13 @@ AOS bị kéo căng như dây đàn hồi, tích lũy thế năng đàn hồi KH
 - Cú đánh phụ thuộc nhiều vào co cơ chủ động → mệt mỏi nhanh, tốc độ
   thấp.
 
-- Kiểu đánh \'cứng\' điển hình của VĐV nghiệp dư.
+- Kiểu đánh 'cứng' điển hình của VĐV nghiệp dư.
 
 **5.2.3. Điều Gì Xảy Ra Nếu Trễ Quá Dài (\> 80ms)?**
 
 - AOS bị căng quá mức → nguy cơ chấn thương mạc cơ.
 
-- Timing sẽ sai -- khi vai \'bắn ra\' thì đầu vợt đã bỏ lỡ điểm tiếp xúc
+- Timing sẽ sai -- khi vai 'bắn ra' thì đầu vợt đã bỏ lỡ điểm tiếp xúc
   lý tưởng.
 
 - Cú đánh mất kiểm soát và độ chính xác.
@@ -1068,7 +1068,7 @@ AOS bị kéo căng như dây đàn hồi, tích lũy thế năng đàn hồi KH
 
 - Độ trễ AOS vừa phải (\~50-60ms), ưu tiên kiểm soát.
 
-- ISR ở backhand singlehand đặc biệt tinh tế, cánh tay như \'vẽ\' qua
+- ISR ở backhand singlehand đặc biệt tinh tế, cánh tay như 'vẽ' qua
   bóng.
 
 **5.3.3. Nadal -- Serve (X-Factor \~50° -- 60°)**
@@ -1085,7 +1085,7 @@ AOS bị kéo căng như dây đàn hồi, tích lũy thế năng đàn hồi KH
 đơn thuần. Nó đến từ sự co rút đàn hồi phi tuyến của hệ thống mạc cơ bị
 kéo căng.
 
-**5.4.1. Tại Sao \'Phi Tuyến\'?**
+**5.4.1. Tại Sao 'Phi Tuyến'?**
 
 Trong một hệ tuyến tính, nếu bạn kéo gấp đôi thì bạn nhận lại gấp đôi.
 Nhưng trong hệ fascia phi tuyến:
@@ -1120,10 +1120,10 @@ tăng ĐỘT BIẾN, không tuyến tính.
 - Delayed Shoulder Drill: Dùng một tay giữ vai lại trong khi hông xoay,
   cảm nhận độ trễ.
 
-- Timing Shadow: Đếm \'1\' khi hông bắt đầu, đếm \'2\' khi vai bắt đầu
+- Timing Shadow: Đếm '1' khi hông bắt đầu, đếm '2' khi vai bắt đầu
   -- đảm bảo khoảng cách.
 
-**5.6. Lỗi Phổ Biến: \'Xoay Cùng Lúc\'**
+**5.6. Lỗi Phổ Biến: 'Xoay Cùng Lúc'**
 
 Lỗi phổ biến nhất trong tennis nghiệp dư là xoay hông và vai ĐỒNG THỜI.
 Điều này:
@@ -1132,12 +1132,12 @@ Lỗi phổ biến nhất trong tennis nghiệp dư là xoay hông và vai ĐỒ
 
 - Không tạo ra thế năng đàn hồi.
 
-- Buộc cánh tay phải \'đập\' bóng chủ động.
+- Buộc cánh tay phải 'đập' bóng chủ động.
 
 - Dẫn đến mệt mỏi nhanh, tốc độ thấp và chấn thương vai.
 
 > *Phép Test: Đứng trước gương, tập backswing. Nếu hông và vai kết thúc
-> backswing CÙNG LÚC → bạn đang mắc lỗi \'xoay cùng lúc\'. Hãy tập để
+> backswing CÙNG LÚC → bạn đang mắc lỗi 'xoay cùng lúc'. Hãy tập để
 > hông LUÔN đến trước vai.*
 
 **5.7. Tóm Tắt Chương 5**
@@ -1145,7 +1145,7 @@ Lỗi phổ biến nhất trong tennis nghiệp dư là xoay hông và vai ĐỒ
   ------------------------------------------------------------------
   **5 Điểm Cốt Lõi Cần Nhớ**
 
-  **→** X-Factor là \'cánh cung\': Độ chênh lệch hông-vai tích lũy
+  **→** X-Factor là 'cánh cung': Độ chênh lệch hông-vai tích lũy
   thế năng đàn hồi trong AOS.
 
   **→** 40-80ms là cửa sổ vàng: Giữ vai sau hông đúng thời gian này
@@ -1154,27 +1154,27 @@ Lỗi phổ biến nhất trong tennis nghiệp dư là xoay hông và vai ĐỒ
   **→** Lực đàn hồi phi tuyến: Càng kéo căng đúng cách, lực bung ra
   càng vượt mong đợi.
 
-  **→** VĐV Elite dùng AOS như lò xo: Họ \'nạp\' năng lượng vào mạc
+  **→** VĐV Elite dùng AOS như lò xo: Họ 'nạp' năng lượng vào mạc
   cơ chứ không co cơ.
 
-  **→** Lỗi \'cùng lúc\' triệt tiêu tất cả: Hông và vai xoay cùng
+  **→** Lỗi 'cùng lúc' triệt tiêu tất cả: Hông và vai xoay cùng
   nhau = mất hoàn toàn X-Factor.
   ------------------------------------------------------------------
 
 *Chương tiếp theo sẽ lập bản đồ các đường ray fascia chính (Sling
-Systems) -- những \'xa lộ\' dẫn truyền sóng năng lượng trong cơ thể.*
+Systems) -- những 'xa lộ' dẫn truyền sóng năng lượng trong cơ thể.*
 
 **CHƯƠNG 6**
 
 **HỆ THỐNG MẠCH (SLING SYSTEMS) Các Xa Lộ Dẫn Truyền Sóng**
 
-*Mục tiêu: Nhận diện các \'đường ray\' mạc cơ chính trong cơ thể và cách
+*Mục tiêu: Nhận diện các 'đường ray' mạc cơ chính trong cơ thể và cách
 chúng dẫn truyền xung lực từ chân lên tay một cách tối ưu.*
 
 **6.1. Khái Niệm Sling Systems (Hệ Thống Mạch)**
 
 Nhà vật lý trị liệu Vladimir Janda và sau đó là Paul Hodges (Đại học
-Queensland) đã xác định các \'Sling Systems\' -- các hệ thống cơ-fascia
+Queensland) đã xác định các 'Sling Systems' -- các hệ thống cơ-fascia
 liên kết chéo qua cơ thể, tạo ra các đường dẫn truyền lực tự nhiên.
 
 Có 4 Sling System chính trong cơ thể người, và cả 4 đều đóng vai trò
@@ -1196,13 +1196,13 @@ AOS kết nối:
 
 **6.2.2. Vai Trò Trong Tennis**
 
-AOS là \'đường ray\' chính cho tất cả các cú đánh xoay (forehand,
+AOS là 'đường ray' chính cho tất cả các cú đánh xoay (forehand,
 backhand, serve):
 
 - Khi hông phải xoay về trước: AOS từ hông phải qua lõi đến vai trái bị
   KÉO CĂNG.
 
-- Khi AOS được giải phóng: Nó \'bắn\' sóng từ hông trái → lõi → vai
+- Khi AOS được giải phóng: Nó 'bắn' sóng từ hông trái → lõi → vai
   phải.
 
 - Đây là cơ chế giải thích tại sao chân TRÁI của Djokovic tạo ra sức
@@ -1219,7 +1219,7 @@ backhand, serve):
   **→** 3. Hông phải xoay → AOS từ hông phải đến vai trái bị kéo
   căng thêm.
 
-  **→** 4. Vai phải được \'bắn ra\' bởi AOS đàn hồi → ISR kích hoạt.
+  **→** 4. Vai phải được 'bắn ra' bởi AOS đàn hồi → ISR kích hoạt.
 
   **→** 5. Sóng truyền ra đầu vợt → Fajin!
   ------------------------------------------------------------------
@@ -1238,15 +1238,15 @@ POS kết nối:
 
 **6.3.2. Vai Trò Trong Tennis**
 
-- POS ổn định cột sống trong pha vung vợt -- ngăn lưng bị \'vặn\' quá
+- POS ổn định cột sống trong pha vung vợt -- ngăn lưng bị 'vặn' quá
   mức.
 
 - Trong serve: POS kết nối cánh tay đập bóng với chân đối diện.
 
-- Trong pha kết thúc cú đánh: POS \'kéo phanh\' để ngăn chấn thương vai
+- Trong pha kết thúc cú đánh: POS 'kéo phanh' để ngăn chấn thương vai
   và lưng.
 
-- Cơ mông lớn là \'động cơ\' của POS -- VĐV có cơ mông yếu thường bị đau
+- Cơ mông lớn là 'động cơ' của POS -- VĐV có cơ mông yếu thường bị đau
   lưng mãn tính.
 
 **6.4. Deep Longitudinal Sling (DLS) -- Dải Dọc Sâu**
@@ -1265,11 +1265,11 @@ DLS chạy thẳng đứng dọc theo sau cơ thể:
 
 **6.4.2. Vai Trò Trong Tennis**
 
-- DLS là \'đường ray\' chính cho sóng dọc GRF từ bàn chân lên đỉnh đầu.
+- DLS là 'đường ray' chính cho sóng dọc GRF từ bàn chân lên đỉnh đầu.
 
 - Trong serve: DLS truyền sóng từ gót chân → cột sống → vai → đỉnh đầu.
 
-- Yếu DLS = không thể \'duỗi thẳng\' khi đánh serve → mất chiều cao tiếp
+- Yếu DLS = không thể 'duỗi thẳng' khi đánh serve → mất chiều cao tiếp
   bóng.
 
 **6.5. Lateral Sling (LS) -- Dải Ngang**
@@ -1286,7 +1286,7 @@ LS kết nối theo chiều ngang:
 
 **6.5.2. Vai Trò Trong Tennis**
 
-- LS ổn định hông trong các bước chạy ngang -- ngăn hông \'đổ\' sang
+- LS ổn định hông trong các bước chạy ngang -- ngăn hông 'đổ' sang
   bên.
 
 - Di chuyển lateral footwork hiệu quả phụ thuộc hoàn toàn vào LS.
@@ -1298,7 +1298,7 @@ LS kết nối theo chiều ngang:
 
 Trong y học cổ truyền Trung Hoa, Đan Điền (丹田) là trung tâm năng lượng
 nằm khoảng 3 ngón tay dưới rốn. Trong biomechanics hiện đại, vùng này
-tương ứng với \'Lõi Sâu\' (Deep Core):
+tương ứng với 'Lõi Sâu' (Deep Core):
 
 - Cơ ngang bụng (Transversus Abdominis -- TVA)
 
@@ -1308,7 +1308,7 @@ tương ứng với \'Lõi Sâu\' (Deep Core):
 
 - Cơ đáy chậu (Pelvic Floor)
 
-> *4 cơ này tạo ra một \'khoang áp suất\' xung quanh cột sống. Khi được
+> *4 cơ này tạo ra một 'khoang áp suất' xung quanh cột sống. Khi được
 > kích hoạt đúng cách, chúng nén trường sóng trước khi phát Fajin, giống
 > như ngón tay cái chặn vòi nước → áp suất tăng → tia nước mạnh hơn.*
 
@@ -1389,18 +1389,18 @@ hợp nhất tất cả các Sling Systems:
   đa chiều đó.
   ------------------------------------------------------------------
 
-*Chương tiếp theo sẽ giải mã \'động cơ sóng ẩn\' cuối cùng và mạnh nhất:
+*Chương tiếp theo sẽ giải mã 'động cơ sóng ẩn' cuối cùng và mạnh nhất:
 Sự Xoay Trong Của Vai (Internal Shoulder Rotation -- ISR).*
 
 **CHƯƠNG 7**
 
 **SỰ XOAY TRONG CỦA VAI (ISR) Động Cơ Sóng Ẩn**
 
-*Mục tiêu: Giải mã \'động cơ\' cuối cùng và mạnh nhất trong chuỗi truyền
+*Mục tiêu: Giải mã 'động cơ' cuối cùng và mạnh nhất trong chuỗi truyền
 sóng phi tuyến -- cơ chế xoay trục dọc của cánh tay trên để tạo ra vận
 tốc đầu vợt cực đại.*
 
-**7.1. ISR Là Gì? Vật Lý Học Của \'Động Cơ Ẩn\'**
+**7.1. ISR Là Gì? Vật Lý Học Của 'Động Cơ Ẩn'**
 
 Internal Shoulder Rotation (ISR) -- Xoay Trong Khớp Vai -- là chuyển
 động xoay của xương cánh tay trên (Humerus) quanh TRỤC DỌC của chính nó,
@@ -1448,16 +1448,16 @@ QUAY TRỤC -- giống như một con quay hồi chuyển.
 Tốc độ 2500-3000°/s là cực kỳ nguy hiểm nếu khớp vai không được bảo vệ
 đúng cách. Hệ thống bảo vệ tự nhiên gồm:
 
-- Rotator Cuff (4 cơ cuff): Hoạt động như \'trục ổn định\' cho xương
+- Rotator Cuff (4 cơ cuff): Hoạt động như 'trục ổn định' cho xương
   cánh tay.
 
 - Labrum (Sụn vành): Tăng độ sâu ổ chảo, ngăn trật khớp.
 
 - Gân Biceps dài: Bổ sung ổn định phía trước.
 
-- Trạng thái \'Tùng\' của vai: Ngăn gồng cứng gây kẹt khớp.
+- Trạng thái 'Tùng' của vai: Ngăn gồng cứng gây kẹt khớp.
 
-**7.3. ISR Như \'Sóng Xoắn\'**
+**7.3. ISR Như 'Sóng Xoắn'**
 
 Điều đặc biệt nhất của ISR là nó KHÔNG tạo ra lực thẳng -- nó tạo ra
 SÓNG XOẮN (Spiral Wave). Khi xương cánh tay xoay, năng lượng truyền theo
@@ -1469,7 +1469,7 @@ SÓNG XOẮN (Spiral Wave). Khi xương cánh tay xoay, năng lượng truyền 
 **7.4. Bảo Vệ Nút Sóng Tại Khớp Vai**
 
 Vai phải là NÚT SÓNG, không phải là nguồn phát lực trực tiếp. Khi vai
-được giữ ở trạng thái \'Tùng\':
+được giữ ở trạng thái 'Tùng':
 
 - Ổ chảo cánh tay (Glenoid Fossa) hoạt động như một vòng bi được bôi
   trơn.
@@ -1484,10 +1484,10 @@ Vai phải là NÚT SÓNG, không phải là nguồn phát lực trực tiếp. 
 
 - Không cảm thấy căng tại vùng trên vai (Trapezius Upper).
 
-- Khi vung vợt, cảm giác như vai \'đứng yên\' trong khi cánh tay chuyển
+- Khi vung vợt, cảm giác như vai 'đứng yên' trong khi cánh tay chuyển
   động.
 
-- Không nghe tiếng \'click\' hay cảm giác \'kẹt\' tại khớp vai khi xoay.
+- Không nghe tiếng 'click' hay cảm giác 'kẹt' tại khớp vai khi xoay.
 
 **7.4.2. Dấu Hiệu Vai Bị Gồng (Xấu)**
 
@@ -1495,7 +1495,7 @@ Vai phải là NÚT SÓNG, không phải là nguồn phát lực trực tiếp. 
 
 - Cảm giác căng cứng tại vùng cơ thang.
 
-- Cú đánh cảm thấy \'nặng tay\' và mau mệt.
+- Cú đánh cảm thấy 'nặng tay' và mau mệt.
 
 - Đau nhức vai sau buổi tập.
 
@@ -1503,14 +1503,14 @@ Vai phải là NÚT SÓNG, không phải là nguồn phát lực trực tiếp. 
 
 **7.5.1. ISR Trong Serve**
 
-Trong serve, ISR diễn ra tại pha \'Trophy to Contact\' -- từ khi cánh
+Trong serve, ISR diễn ra tại pha 'Trophy to Contact' -- từ khi cánh
 tay đạt vị trí cao nhất đến khi tiếp bóng:
 
-31. Cánh tay ở vị trí \'lay back\' (gập sau) tối đa -- ISR đã bắt đầu.
+31. Cánh tay ở vị trí 'lay back' (gập sau) tối đa -- ISR đã bắt đầu.
 
 32. Khuỷu tay dẫn đầu hướng lên trên.
 
-33. ISR \'bắn\' xương cánh tay xoay vào trong → cổ tay quất qua.
+33. ISR 'bắn' xương cánh tay xoay vào trong → cổ tay quất qua.
 
 34. Đầu vợt đạt vận tốc đỉnh tại điểm tiếp xúc.
 
@@ -1521,7 +1521,7 @@ trọng:
 
 35. Sau khi vai xoay về phía trước, ISR bắt đầu.
 
-36. Cổ tay \'quất\' qua bóng tự nhiên nhờ ISR -- không cần \'lăn tay\'
+36. Cổ tay 'quất' qua bóng tự nhiên nhờ ISR -- không cần 'lăn tay'
     chủ động.
 
 37. Follow-through tự nhiên kết thúc với lòng bàn tay hướng xuống đất.
@@ -1532,7 +1532,7 @@ ISR là phản xạ tự nhiên nhưng thường bị CHẶN bởi các thói qu
 
 - Gồng cứng cánh tay: Ngăn sóng xoắn đi qua.
 
-- Chủ động \'đánh\' bằng cổ tay: Ghi đè lên ISR tự nhiên.
+- Chủ động 'đánh' bằng cổ tay: Ghi đè lên ISR tự nhiên.
 
 - Sợ mất kiểm soát: Não bộ can thiệp vào quá trình tự động.
 
@@ -1568,7 +1568,7 @@ ISR là phản xạ tự nhiên nhưng thường bị CHẶN bởi các thói qu
 **7.7.3. ISR Integration Drill**
 
 - Towel Serve Drill: Giữ khăn thay vợt, tập serve với tốc độ tối đa --
-  âm thanh \'vút\' xác nhận ISR đúng.
+  âm thanh 'vút' xác nhận ISR đúng.
 
 - Slow Motion ISR Serve: Tập serve với tốc độ 20% để nhận thức cảm giác
   ISR tại pha tiếp bóng.
@@ -1581,7 +1581,7 @@ ISR là phản xạ tự nhiên nhưng thường bị CHẶN bởi các thói qu
   ------------------------------------------------------------------
   **5 Điểm Cốt Lõi Cần Nhớ**
 
-  **→** ISR đóng góp 40% lực serve: Đây là \'động cơ ẩn\' mạnh nhất
+  **→** ISR đóng góp 40% lực serve: Đây là 'động cơ ẩn' mạnh nhất
   trong chuỗi truyền sóng.
 
   **→** Tốc độ 2500-3000°/s: ISR nhanh hơn con người có thể nhận
@@ -1602,10 +1602,10 @@ Mắt Tĩnh (Quiet Eye) -- bí quyết kiểm soát thần kinh của VĐV Elite
 
 **CHƯƠNG 8**
 
-**KỸ THUẬT \'MẮT TĨNH\' (QUIET EYE) Ổn Định Nút Sóng Thần Kinh**
+**KỸ THUẬT 'MẮT TĨNH' (QUIET EYE) Ổn Định Nút Sóng Thần Kinh**
 
-*Mục tiêu: Tối ưu hóa hệ thống điều khiển trung tâm để loại bỏ \'nhiễu
-thần kinh\' và bảo vệ sự toàn vẹn của trường sóng phi tuyến.*
+*Mục tiêu: Tối ưu hóa hệ thống điều khiển trung tâm để loại bỏ 'nhiễu
+thần kinh' và bảo vệ sự toàn vẹn của trường sóng phi tuyến.*
 
 **8.1. Quiet Eye (QE) Là Gì?**
 
@@ -1634,7 +1634,7 @@ lực.
 **8.2.1. Cơ Chế Não Bộ**
 
 Khi mắt di chuyển liên tục (Saccades -- saccadic eye movements), não bộ
-phải liên tục xử lý thông tin thị giác MỚI. Điều này tạo ra \'nhiễu\'
+phải liên tục xử lý thông tin thị giác MỚI. Điều này tạo ra 'nhiễu'
 cho các mạch thần kinh điều khiển vận động.
 
 Khi đạt QE (mắt cố định):
@@ -1654,8 +1654,8 @@ mắt di chuyển ngược chiều để ổn định hình ảnh. Đây là ph�
 NHANH (kích hoạt chỉ trong 5-10ms).
 
 Vấn đề trong tennis: Khi VĐV di chuyển đầu để theo dõi bóng trong lúc
-vung vợt, VOR kích hoạt và gửi tín hiệu \'hiệu chỉnh\' đến các cơ cổ,
-vai → tạo \'nhiễu\' trong hệ thống truyền sóng → mất lực và độ chính
+vung vợt, VOR kích hoạt và gửi tín hiệu 'hiệu chỉnh' đến các cơ cổ,
+vai → tạo 'nhiễu' trong hệ thống truyền sóng → mất lực và độ chính
 xác.
 
   ------------------------------------------------------------------
@@ -1665,7 +1665,7 @@ xác.
 
   **→** Bước 2: VOR kích hoạt trong 5-10ms.
 
-  **→** Bước 3: Não gửi tín hiệu \'giảm ga\' đến cơ vai và cổ để ổn
+  **→** Bước 3: Não gửi tín hiệu 'giảm ga' đến cơ vai và cổ để ổn
   định đầu.
 
   **→** Bước 4: Cơ vai gồng nhẹ → ISR bị cản trở → mất 10-20% lực.
@@ -1700,7 +1700,7 @@ trong (Internal Focus):
 
   **Chú ý đến vai**      Chú ý đến góc mặt vợt
 
-  **Kiểm soát ý thức     Để \'cảm giác\' dẫn dắt chuyển động
+  **Kiểm soát ý thức     Để 'cảm giác' dẫn dắt chuyển động
   từng cơ**              
 
   **Phân tích trong khi  Hoàn toàn tập trung vào bóng
@@ -1710,26 +1710,26 @@ trong (Internal Focus):
 **8.6. Basal Ganglia: Bộ Lọc Sóng Tự Động**
 
 Hạch Nền (Basal Ganglia) là cấu trúc não bộ chịu trách nhiệm cho
-\'Implicit Motor Learning\' -- học vận động tiềm thức. Khi một động tác
+'Implicit Motor Learning' -- học vận động tiềm thức. Khi một động tác
 được luyện tập đủ nhiều:
 
-- Basal Ganglia lưu trữ \'chương trình\' hoàn chỉnh.
+- Basal Ganglia lưu trữ 'chương trình' hoàn chỉnh.
 
 - Khi cần thực hiện, nó chạy chương trình tự động -- không cần ý thức.
 
 - Tốc độ xử lý qua Basal Ganglia: \~30ms, nhanh hơn nhiều so với ý thức
   (\~200ms).
 
-> *Khi VĐV đạt trạng thái QE + External Focus, Basal Ganglia \'tiếp
-> quản\' từ vỏ não ý thức và chạy các chương trình vận động tối ưu ở tốc
+> *Khi VĐV đạt trạng thái QE + External Focus, Basal Ganglia 'tiếp
+> quản' từ vỏ não ý thức và chạy các chương trình vận động tối ưu ở tốc
 > độ thần kinh đầy đủ.*
 
 **8.7. Giao Thức Rèn Luyện Quiet Eye**
 
 **8.7.1. Drill Cơ Bản**
 
-- Gaze Awareness Drill: Tập forehand, sau mỗi cú hỏi \'bạn nhìn vào đâu
-  khi tiếp bóng?\' -- xây dựng nhận thức.
+- Gaze Awareness Drill: Tập forehand, sau mỗi cú hỏi 'bạn nhìn vào đâu
+  khi tiếp bóng?' -- xây dựng nhận thức.
 
 - Contact Point Stare: Tập nhìn chằm chằm vào điểm tiếp xúc bóng-vợt
   trong 0.5 giây SAU khi bóng đã rời vợt.
@@ -1745,8 +1745,8 @@ Hạch Nền (Basal Ganglia) là cấu trúc não bộ chịu trách nhiệm cho
 - Peripheral Vision Serve: Tập serve trong khi chú ý vào điểm bóng bằng
   tầm nhìn ngoại vi.
 
-- Quiet Head Rally: Rallying bình thường nhưng với quy tắc \'đầu không
-  được di chuyển sau tiếp bóng\'.
+- Quiet Head Rally: Rallying bình thường nhưng với quy tắc 'đầu không
+  được di chuyển sau tiếp bóng'.
 
 **8.7.3. Lệnh Coaching Theo Quiet Eye**
 
@@ -1763,7 +1763,7 @@ Hạch Nền (Basal Ganglia) là cấu trúc não bộ chịu trách nhiệm cho
   sớm**                  
 
   **VĐV mất lực tại tiếp Giữ đầu tĩnh lặng sau khi đánh đến khi đếm
-  bóng**                 \'1\'.
+  bóng**                 '1'.
 
   **VĐV nervous trước    Nhìn vào đường chỉ may của bóng -- đây là
   điểm quan trọng**      neo định.
@@ -1771,7 +1771,7 @@ Hạch Nền (Basal Ganglia) là cấu trúc não bộ chịu trách nhiệm cho
 
 **8.8. Flow State: Khi QE Và Sóng Phi Tuyến Hợp Nhất**
 
-Trạng thái \'Flow\' (dòng chảy) của Csikszentmihalyi là khi VĐV hoạt
+Trạng thái 'Flow' (dòng chảy) của Csikszentmihalyi là khi VĐV hoạt
 động ở hiệu suất tối đa mà không cảm thấy nỗ lực. Đây chính là khi:
 
 - QE đạt mức tự nhiên và không cần cố gắng.
@@ -1780,7 +1780,7 @@ Trạng thái \'Flow\' (dòng chảy) của Csikszentmihalyi là khi VĐV hoạt
 
 - Sóng phi tuyến truyền tự do qua hệ thống Tensegrity.
 
-- Thần đạt độ tĩnh lặng tuyệt đối -- không còn \'đánh\' bóng mà \'là\'
+- Thần đạt độ tĩnh lặng tuyệt đối -- không còn 'đánh' bóng mà 'là'
   trường sóng.
 
 **8.9. Tóm Tắt Chương 8**
@@ -1801,7 +1801,7 @@ Trạng thái \'Flow\' (dòng chảy) của Csikszentmihalyi là khi VĐV hoạt
   về cơ thể mình.
 
   **→** Basal Ganglia là tự động hóa: Luyện đủ để Basal Ganglia
-  \'tiếp quản\' từ ý thức.
+  'tiếp quản' từ ý thức.
   ------------------------------------------------------------------
 
 *Chương tiếp theo sẽ khám phá Học Tập Vi Sai (Differential Learning) --
@@ -1815,20 +1815,20 @@ thân.*
 *Mục tiêu: Xây dựng hệ thống huấn luyện dựa trên sự biến đổi để tối ưu
 hóa khả năng tự tổ chức của mạng lưới mạc cơ và hệ thần kinh.*
 
-**9.1. Phá Vỡ Tư Duy \'Kỹ Thuật Hoàn Hảo\'**
+**9.1. Phá Vỡ Tư Duy 'Kỹ Thuật Hoàn Hảo'**
 
 Trong nhiều thập kỷ, coaching truyền thống tập trung vào một mục tiêu:
-tái tạo \'kỹ thuật hoàn hảo\' -- một template duy nhất cho mỗi cú đánh.
-VĐV lặp lại hàng nghìn lần cho đến khi động tác trở nên \'cơ học\' và
+tái tạo 'kỹ thuật hoàn hảo' -- một template duy nhất cho mỗi cú đánh.
+VĐV lặp lại hàng nghìn lần cho đến khi động tác trở nên 'cơ học' và
 bất biến.
 
 Nghiên cứu của Wolfgang Schöllhorn (Đại học Mainz) từ 2000-2010 đã chứng
 minh điều ngược lại: sự biến đổi LIÊN TỤC trong luyện tập tạo ra kết quả
 TỐT HƠN so với lặp lại bất biến.
 
-> *\'Không có hai cú đánh nào hoàn toàn giống nhau trong lịch sử tennis.
+> *'Không có hai cú đánh nào hoàn toàn giống nhau trong lịch sử tennis.
 > Thay vì chiến đấu với thực tế này, Differential Learning khai thác
-> nó.\' -- Wolfgang Schöllhorn*
+> nó.' -- Wolfgang Schöllhorn*
 
 **9.2. Nguyên Lý Differential Learning (DL)**
 
@@ -1850,9 +1850,9 @@ Trong vật lý, Stochastic Resonance là hiện tượng: thêm một lượng 
 ngẫu nhiên vừa phải vào hệ thống YẾU sẽ cải thiện khả năng phát hiện tín
 hiệu. Trong học vận động:
 
-- Biến đổi nhỏ = \'nhiễu\' có kiểm soát được đưa vào hệ thống.
+- Biến đổi nhỏ = 'nhiễu' có kiểm soát được đưa vào hệ thống.
 
-- Hệ thần kinh sử dụng \'nhiễu\' này để tìm các giải pháp tối ưu hơn.
+- Hệ thần kinh sử dụng 'nhiễu' này để tìm các giải pháp tối ưu hơn.
 
 - Kết quả là kỹ năng mạnh hơn, không phải yếu hơn.
 
@@ -1866,7 +1866,7 @@ hiệu. Trong học vận động:
 
 - Tập với cán vợt dài hơn → tăng cảm nhận Bụng Sóng tại đầu vợt.
 
-- Tập với vợt độ căng dây thấp hơn → cảm nhận \'dwell time\' dài hơn.
+- Tập với vợt độ căng dây thấp hơn → cảm nhận 'dwell time' dài hơn.
 
 **9.3.2. Biến Đổi Bề Mặt Sân**
 
@@ -1910,7 +1910,7 @@ tích lũy thế năng từ từ, rồi giải phóng bùng nổ trong tức th�
 41. Transfer (Truyền): Sóng đàn hồi lan từ fascia → cơ → xương → vợt →
     bóng.
 
-**9.4.2. Bài Tập \'Pre-stretch\' Để Kích Hoạt Catapult**
+**9.4.2. Bài Tập 'Pre-stretch' Để Kích Hoạt Catapult**
 
 - Counter Movement Jump: Nhảy xuống nhẹ trước rồi bật lên -- sử dụng đàn
   hồi fascia chân.
@@ -1996,7 +1996,7 @@ Kiểm tra chất lượng fascia bằng tiêu chuẩn im lặng:
 - Footwork nhanh mà không rồn ã → GRF được chuyển hóa hoàn toàn thành
   sóng.
 
-- Âm thanh \'vút\' của vợt → sóng ISR hoàn hảo, không bị cản trở.
+- Âm thanh 'vút' của vợt → sóng ISR hoàn hảo, không bị cản trở.
 
 **9.8. Tóm Tắt Chương 9**
 
@@ -2046,11 +2046,11 @@ học Trung Hoa cổ đại. Trong bối cảnh tennis hiện đại:
 
 **10.2. TINH -- Cơ Thể Tensegrity Lý Tưởng**
 
-**10.2.1. Đặc Điểm Của \'Tinh\' Đạt Chuẩn**
+**10.2.1. Đặc Điểm Của 'Tinh' Đạt Chuẩn**
 
 - Hệ thống fascia đủ ấm, đủ đàn hồi, đủ thủy hóa.
 
-- Cơ thể ở trạng thái \'Tùng\' -- thư giãn nhưng bành trướng, không xẹp
+- Cơ thể ở trạng thái 'Tùng' -- thư giãn nhưng bành trướng, không xẹp
   lép.
 
 - Tất cả các khớp ở vị trí Nút Sóng tự nhiên của chúng.
@@ -2059,7 +2059,7 @@ học Trung Hoa cổ đại. Trong bối cảnh tennis hiện đại:
 
 - Lõi (Dan Dien) ổn định nhưng không gồng cứng.
 
-**10.2.2. Giao Thức Đạt \'Tinh\' Trước Thi Đấu**
+**10.2.2. Giao Thức Đạt 'Tinh' Trước Thi Đấu**
 
 46. Warm-up 20 phút: Foam roll + dynamic stretching + activation
     exercises.
@@ -2082,15 +2082,15 @@ là vật lý học của hệ phi tuyến phức tạp.
 
 **10.3.2. Dấu Hiệu Khí Đang Chảy Đúng**
 
-- Cú đánh cảm thấy \'nhẹ\' nhưng bóng đi rất mạnh.
+- Cú đánh cảm thấy 'nhẹ' nhưng bóng đi rất mạnh.
 
 - Không cảm thấy mệt mỏi cục bộ tại cánh tay sau nhiều cú đánh.
 
-- Cảm giác như bóng \'tự đi\' mà bạn chỉ hướng dẫn.
+- Cảm giác như bóng 'tự đi' mà bạn chỉ hướng dẫn.
 
-- Âm thanh tiếp bóng đặc, gọn, không có rung \'chát\'.
+- Âm thanh tiếp bóng đặc, gọn, không có rung 'chát'.
 
-- Cơ thể cảm thấy \'một khối\' không phải tập hợp các phần.
+- Cơ thể cảm thấy 'một khối' không phải tập hợp các phần.
 
 **10.3.3. Dấu Hiệu Khí Bị Chặn**
 
@@ -2100,15 +2100,15 @@ là vật lý học của hệ phi tuyến phức tạp.
 
 - Bóng đi không đúng hướng dù đã cố gắng.
 
-- Cảm giác \'gãy\' ở lưng hoặc hông khi vung vợt.
+- Cảm giác 'gãy' ở lưng hoặc hông khi vung vợt.
 
-- Âm thanh tiếp bóng \'cộc cộc\' không gọn.
+- Âm thanh tiếp bóng 'cộc cộc' không gọn.
 
 **10.4. THẦN -- Tâm Trí Điều Khiển Sóng**
 
 **10.4.1. Tầng Thần Trong Tennis**
 
-\'Thần\' là tầng cao nhất và khó đạt nhất. Đây là:
+'Thần' là tầng cao nhất và khó đạt nhất. Đây là:
 
 - Quiet Eye và khả năng duy trì nó dưới áp lực.
 
@@ -2120,21 +2120,21 @@ là vật lý học của hệ phi tuyến phức tạp.
 
 - Sự chấp nhận -- không sợ sai, không sợ thắng thua.
 
-**10.4.2. Tại Sao \'Thần\' Khó Đạt?**
+**10.4.2. Tại Sao 'Thần' Khó Đạt?**
 
 Hệ thống não bộ tiến hóa để BẢO VỆ chúng ta -- không phải để chơi tennis
 tốt. Khi áp lực tăng:
 
-- Amygdala (hạch hạnh nhân) kích hoạt \'fight or flight\'.
+- Amygdala (hạch hạnh nhân) kích hoạt 'fight or flight'.
 
 - Cortisol và adrenaline tràn vào máu.
 
-- Vỏ não trước trán (Prefrontal Cortex) \'thâu tóm\' điều khiển từ Basal
+- Vỏ não trước trán (Prefrontal Cortex) 'thâu tóm' điều khiển từ Basal
   Ganglia.
 
-- Kết quả: VĐV \'overthink\', bị \'choke\', mất đi kỹ năng đã có.
+- Kết quả: VĐV 'overthink', bị 'choke', mất đi kỹ năng đã có.
 
-**10.4.3. Giao Thức Phát Triển \'Thần\'**
+**10.4.3. Giao Thức Phát Triển 'Thần'**
 
 - Mindfulness Meditation: 10-20 phút/ngày để tăng khả năng kiểm soát
   Amygdala.
@@ -2169,12 +2169,12 @@ hòa:
                      Basal Ganglia điều khiển suy nghĩ
   ------------------ ------------------------ -----------------------
 
-**10.6. Khung Coaching Mới: Từ \'Sửa Tư Thế\' Đến \'Tinh Chỉnh Sóng\'**
+**10.6. Khung Coaching Mới: Từ 'Sửa Tư Thế' Đến 'Tinh Chỉnh Sóng'**
 
-Coach hiện đại không còn là người \'sửa tay\' hay \'chỉnh chân\' của
+Coach hiện đại không còn là người 'sửa tay' hay 'chỉnh chân' của
 VĐV. Coach là người:
 
-- Phát hiện các điểm \'nhiễu\' trong hệ thống sóng của VĐV.
+- Phát hiện các điểm 'nhiễu' trong hệ thống sóng của VĐV.
 
 - Thiết kế môi trường để hệ thống tự tổ chức (Self-organization).
 
@@ -2235,7 +2235,7 @@ Và bây giờ, bạn đã có bản đồ để đi đến nơi đó.
   **→** Ch.1 -- Tensegrity: Cơ thể là mạng lưới sóng, không phải máy
   móc cứng nhắc.
 
-  **→** Ch.2 -- GRF: Mọi lực bắt đầu từ đất. \'Pin Trái Đất\' là
+  **→** Ch.2 -- GRF: Mọi lực bắt đầu từ đất. 'Pin Trái Đất' là
   nguồn năng lượng chính.
 
   **→** Ch.3 -- Nút Sóng: Đặt khớp đúng vị trí để triệt tiêu phản
@@ -2265,7 +2265,7 @@ Và bây giờ, bạn đã có bản đồ để đi đến nơi đó.
 
 **10.10. Lời Nhắn Đến HLV và VĐV**
 
-Cuốn sách này không phải là quy trình bạn \'thực hiện\' một lần rồi
+Cuốn sách này không phải là quy trình bạn 'thực hiện' một lần rồi
 thôi. Đây là một triết lý sống và tập luyện. Mỗi ngày trên sân là một cơ
 hội để lắng nghe sóng trong cơ thể bạn, tinh chỉnh nó, và cho phép nó
 bùng nổ tự do hơn một chút.

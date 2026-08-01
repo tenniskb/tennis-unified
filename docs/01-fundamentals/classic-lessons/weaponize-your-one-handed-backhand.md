@@ -3,8 +3,7 @@
 ### By Geoff Williams
 
 ![A person holding a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image1.webp)
 
 **Weaponizing your one-handed backhand: a physical and mental event.**
 
@@ -13,7 +12,7 @@ father, who was just a hacker, never hit a single topspin back hand in
 his life. As a child I was a fan of Ken Rosewall. My dad taught me that
 slice at the age of 10-11.
 
-A lack of topspin didn\'t stop Rosewall from winning 8 grand slams and
+A lack of topspin didn't stop Rosewall from winning 8 grand slams and
 making the US Open final at age 39. But one day, after watching Bjorn
 Borg play John McEnroe, and seeing Big Mac hit one-handed topspin shots,
 I decided to learn how to hit it myself.
@@ -24,16 +23,14 @@ down into the dirt. Eventually, I switched to a \"Uni Grip.\" That means
 that, instead of shifting grips I turned the racket over and hit the
 ball with the same side of the strings on both sides.
 
-![](media_weaponize-your-one-handed-backhand/media/image2.jpg){width="6.474048556430446in"
-height="0.9925371828521434in"}
+![](media_weaponize-your-one-handed-backhand/media/image2.jpg)
 
 My Uni Grip gave me a strong semi-western grip on both the forehand and
 the backhand sides, ideal grips for heavy spin. With this change, I
 officially became a topspin hitter.
 
 ![A person holding a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image3.webp)
 
 **The Uni Grip in action going both ways.**
 
@@ -50,15 +47,14 @@ Since the change over 30 years ago, my attacking topspin backhand has
 become my best shot. I went from a mindless slice that laid up for
 anyone to crush, to a backhand with real velocity and heavy spin.
 
-Now, I don\'t ever slice my backhand return and I don\'t slice much at
+Now, I don't ever slice my backhand return and I don't slice much at
 all, except when chipping/charging and I want to keep the ball low and
 away. My shot was not a conservative shot, and it goes against what many
-coaches teach. It certainly didn\'t end up look like Johnny Mac\'s.
+coaches teach. It certainly didn't end up look like Johnny Mac's.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_weaponize-your-one-handed-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image4.webp)
 
 **I never slice a backhand return.**
 
@@ -76,8 +72,7 @@ confident. I would open the court, get my opponent on the run, and
 generate a weak shot for another easy put away.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image5.webp)
 
 **As my backhand became stronger, I began to hear a voice.**
 
@@ -85,21 +80,20 @@ Today, the voice is seldom wrong. My goal is to construct points so that
 I can crush backhands. Drive opponents wide, get weak returns, and put
 their weak, crappy shots away.
 
-I developed an attitude and believed \"I\'m going to kill this shot.\"
-There\'s nothing like the sweet feeling of absolutely nailing a heavy
-backhand winner. And that\'s what I hope you will be able to do after
+I developed an attitude and believed \"I'm going to kill this shot.\"
+There's nothing like the sweet feeling of absolutely nailing a heavy
+backhand winner. And that's what I hope you will be able to do after
 reading this piece. Absolutely nail your one hander, not just on
 sitters, but on serve returns as well, so your backhand will become a
 great source of happiness.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image6.webp)
 
 **Nailing the one-hander: a great source of personal happiness.**
 
 But learning how to do all this without coaching, or mentors, has at
-times felt like an impossible journey. In this article, I\'d like to
+times felt like an impossible journey. In this article, I'd like to
 shorten that journey for anyone interested in learning how to do the
 same thing. As you will see however, the stroke that I created is
 unorthodox in many ways.
@@ -114,7 +108,7 @@ rotate your hips into the shot.]{.mark}]{.underline}**
 You want to strike the ball with speed not moderation, strike in offense
 rather than in defense.**
 
-So, let\'s see how to set up this hip rotation, by looking the
+So, let's see how to set up this hip rotation, by looking the
 preparation, including the unit turn and the footwork.
 
 **[[The first point that makes this stroke unusual is the position of
@@ -126,12 +120,11 @@ racket. But it is unlike any coach will currently
 teach.]{.mark}]{.underline}**
 
 Have you ever seen a baseball player with his batting hands separated in
-the middle of the bat? Only when he bunts. And that\'s what too many
+the middle of the bat? Only when he bunts. And that's what too many
 one-handers are doing, bunting the ball.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image7.webp)
 
 **The key to weaponizing: vicious hip rotation.**
 
@@ -141,7 +134,7 @@ balls and when returning kick serves because the non dominant hand is
 not restricting their full coil.
 
 I have incorporated this same advantage into my one hander. With both
-hands close together on the grip, the forearm isn\'t restricting the
+hands close together on the grip, the forearm isn't restricting the
 take back.
 
 This allows me to create a faster, bigger coil. This increased coil is
@@ -150,8 +143,7 @@ with spin, the two characteristics of the heavy ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_weaponize-your-one-handed-backhand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image8.webp)
 
 **I increase the coil more like a two hander with the hands closer
 together.**
@@ -174,7 +166,7 @@ target arrives.]{.mark}]{.underline}**
 
 **Uncoil**
 
-Now let\'s look closely and see what happens in the forward swing. Watch
+Now let's look closely and see what happens in the forward swing. Watch
 that the front hip opens first. Watch how the arm and racket drag
 slightly behind. This is a similar lag to what Brian Gordon has found on
 the ATP forehand ([Click
@@ -188,7 +180,7 @@ chop. This is followed by a full follow-through across and then
 continuing back and to the right.]{.underline}**
 
 **[[Any backhand punch is outlawed by the Queensbury rules in pro
-boxing. It\'s too powerful to allow in boxing, yet is allowed in martial
+boxing. It's too powerful to allow in boxing, yet is allowed in martial
 arts. And in tennis.]{.mark}]{.underline}**
 
 **[(How to perform a Karate Chop]{.underline}
@@ -198,8 +190,7 @@ arts. And in tennis.]{.mark}]{.underline}**
 <https://www.youtube.com/watch?v=Gm0SyEqc7ns> [)]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image9.webp)
 
 **The hips open before the racket comes around.**
 
@@ -209,8 +200,7 @@ A key to making the hip rotation work in a backhand weapon is the shape
 and alignment of your hitting arm. I call this the \"arm bar.\"
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image10.webp)
 
 **The \"arm bar,\" like a 2x4 at contact, straight at the elbow.**
 
@@ -230,27 +220,27 @@ impact.]{.mark}]{.underline}**
 **Contact**
 
 Watching video of Andre Agassi taught me to never let the ball play you.
-Agassi always defended his contact point out in front, and that\'s what
+Agassi always defended his contact point out in front, and that's what
 I intuitively learned how to do as well.
 
 The point of contact location on my backhand is much further in front
 than many coaches teach---at times as much as a full shoulder width.
 Some coaches mistakenly teach a contact point even with the hitting
-foot, because that\'s where the contact point is located for the
+foot, because that's where the contact point is located for the
 forehand.
 
 With the topspin uni grip backhand, a shot hit even with the front foot
 is a shot hit up to a shoulders width late. This late contact also robs
-you of up to a full shoulders\' width of acceleration.
+you of up to a full shoulders' width of acceleration.
 
 **[[Defending your contact point means keeping all shots in front of
-your body, no matter what the incoming shot\'s speed/spin/height. You
+your body, no matter what the incoming shot's speed/spin/height. You
 wait for the ball to approach your hitting zone and then you rotate into
 your strike!]{.mark}]{.underline}**
 
 This is timed inside your own body and has nothing to do with the bounce
-of the ball or its depth. It has everything to do with the ball\'s
-distance from your correct contact point. If you don\'t hit out front on
+of the ball or its depth. It has everything to do with the ball's
+distance from your correct contact point. If you don't hit out front on
 the topspin shot, racket speed is radically reduced at impact.
 
 Most of the racket speed in pro shots is developed in the last portion
@@ -258,8 +248,7 @@ of the forward swing before impact. That is why defending the contact
 point is so important.
 
 ![A person holding a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image11.webp)
 
 **Always defend your contact point.**
 
@@ -269,7 +258,7 @@ and striking full force, an instant of pure acceleration.
 
 **Footwork**
 
-Now let\'s look at how we set up the coil and rotate when there is
+Now let's look at how we set up the coil and rotate when there is
 movement to the ball, as there almost always is in match play. Here is
 the basic footwork pattern.
 
@@ -289,8 +278,7 @@ be neutral, directly forward.
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_weaponize-your-one-handed-backhand/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image12.webp)
 
 **Split step, unit turn, cross steps, plant step, hitting step**.
 
@@ -302,14 +290,13 @@ as it comes around and pounds down hard on the court. I then push off
 and backpedal rather than sidestep if I have significant distance to
 recover.
 
-Have you ever watched cornerbacks moving back in coverage? They don\'t
-use shuffle steps---that\'s too slow. Instead, they backpedal. This
+Have you ever watched cornerbacks moving back in coverage? They don't
+use shuffle steps---that's too slow. Instead, they backpedal. This
 pattern is very effective in tennis especially if you are moving
 backwards.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image13.webp)
 
 **The Pound Down Recovery Step followed by backpedaling.**
 
@@ -332,8 +319,7 @@ cross step is what makes it possible to maximize the hip
 rotation.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_weaponize-your-one-handed-backhand/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image14.webp)
 
 **Closed stance is critical for hip rotation and power.**
 
@@ -351,8 +337,8 @@ long, and takes away your planted weight, and moves your head,
 shoulders, and frame upwards too early before the impact of the ball.
 
 **[[All that is fine if the ball has already been struck and the weight
-transferred properly. It\'s not impossible to hit great shots by lifting
-off too early, but it\'s a lot harder.]{.mark}]{.underline}**
+transferred properly. It's not impossible to hit great shots by lifting
+off too early, but it's a lot harder.]{.mark}]{.underline}**
 
 A simple thing to concentrate on is keeping your chin stable and even.
 When you are grounded, with your knees bent, weight down, shoulder and
@@ -367,13 +353,12 @@ Keep your feet and your entire lower body moving fast into the shot.
 
 Fast feet and a relaxed/fluid upper torso will also give your unit turn
 more speed. Relax the shoulders and arms and hands after impact and keep
-the feet fast as you recover and move to the next plant. It\'s the
+the feet fast as you recover and move to the next plant. It's the
 \"drunken monkey\" or fearless snake for the upper body, and samurai
 speed for the lower body.
 
 ![A person playing tennis Description automatically
-generated](media_weaponize-your-one-handed-backhand/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_weaponize-your-one-handed-backhand/media/image15.webp)
 
 **Fearless play equals maximum acceleration.**
 
@@ -386,12 +371,12 @@ potential of your swing.
 
 **Passive Attitude**
 
-If you don\'t believe your backhand is a weapon, this can result in a
+If you don't believe your backhand is a weapon, this can result in a
 passive match play attitude. It also results in a passive practice
 routine, where you simply keeping the ball in play in a \"lull\" mode.
 
 This causes your own shots to lay up for easy hitting by your opponents.
-If you don\'t attack the shot in practice with a full, forceful
+If you don't attack the shot in practice with a full, forceful
 accelerated strike, you certainly will not be able to do it in a match.
 
 **Not Defending the Contact Point**
@@ -410,8 +395,7 @@ best players have a \"lull\" mode.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_weaponize-your-one-handed-backhand/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image16.webp)
 
 **The best protector is the best attacker.**
 
@@ -444,8 +428,7 @@ bar.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_weaponize-your-one-handed-backhand/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_weaponize-your-one-handed-backhand/media/image17.webp)
 
 **A short ball: drop step, smaller movement steps, great knee bend.**
 
@@ -456,7 +439,7 @@ but in a very fluid, fast way.]{.mark}]{.underline}**
 
 **[[The faster you can arrive at the point where you are ready to strike
 from a big coil, the better shot you will be able to
-hit.]{.underline}]{.mark}** That\'s why the best players always seem to
+hit.]{.underline}]{.mark}** That's why the best players always seem to
 have so much time. And then, in emergency situations, they are so used
 to uncoiling very fast that they are able to handle it better.
 
@@ -467,8 +450,7 @@ you will\--and if you do\--that you enjoy your powerful new back hand!
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                                              Geoff Williams grew up playing tennis in his
-  generated](media_weaponize-your-one-handed-backhand/media/image18.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                                        first and only junior tournament at age 11. Over
+  generated](media_weaponize-your-one-handed-backhand/media/image18.jpeg)                                                                                                                                                                        first and only junior tournament at age 11. Over
                                                                                                                                                                                              the years he went on to become a fixture on the
                                                                                                                                                                                              Northern California NTRP tournament scene,
                                                                                                                                                                                              winning numerous titles at both the 4.5 and 5.0

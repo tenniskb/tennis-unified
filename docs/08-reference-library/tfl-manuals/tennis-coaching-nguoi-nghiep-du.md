@@ -93,7 +93,7 @@ hai cột.
 Sân được chia thành nhiều khu vực quan trọng mà học viên cần ghi nhớ:
 Baseline (đường cuối sân) là vị trí xuất phát của hầu hết các cú đánh;
 Service boxes (ô giao bóng) là khu vực mà bóng phải rơi vào khi giao
-bóng; Net (lưới) phân chia hai bên; và No-Man\'s Land (khu vực giữa sân,
+bóng; Net (lưới) phân chia hai bên; và No-Man's Land (khu vực giữa sân,
 giữa đường service và baseline) là vị trí mà người mới chơi thường đứng
 sai.
 
@@ -114,7 +114,7 @@ sai.
 
   Ad side: Nửa sân bên trái -- phía backhand cho người thuận tay phải
 
-  No Man\'s Land: Khu giữa sân giữa service line và baseline -- tránh
+  No Man's Land: Khu giữa sân giữa service line và baseline -- tránh
   đứng ở đây
 
   T: Giao điểm giữa service line và center service line -- điểm serve
@@ -207,8 +207,8 @@ gối đáng kể.
 
 Nhiều HLV bỏ qua việc dạy luật cho học viên mới, dẫn đến tình trạng học
 viên tập kỹ thuật mà không hiểu mục đích của từng cú đánh trong ngữ cảnh
-trận đấu thực tế. Dạy luật cơ bản từ sớm giúp học viên chơi \'có ý
-nghĩa\' hơn và tăng động lực học.
+trận đấu thực tế. Dạy luật cơ bản từ sớm giúp học viên chơi 'có ý
+nghĩa' hơn và tăng động lực học.
 
 Cách tính điểm trong tennis: Love (0), 15, 30, 40, Game. Khi cả hai đạt
 40-40, gọi là Deuce -- từ đây cần thắng 2 điểm liên tiếp để thắng game.
@@ -386,7 +386,7 @@ bóng nhẹ trên mặt sàn bằng Continental grip để cảm nhận control.
 Với người mới học forehand, Eastern grip là điểm khởi đầu tốt nhất. Grip
 này tạo ra mặt vợt tự nhiên tương đối phẳng, cho phép đánh bóng flat với
 một chút topspin tự nhiên, và không đòi hỏi contact point cực đoan. Đây
-là grip mà người ta hay gọi là \'handshake grip\' vì cầm vợt như bắt
+là grip mà người ta hay gọi là 'handshake grip' vì cầm vợt như bắt
 tay.
 
 Cách check Eastern forehand: đặt lòng bàn tay áp vào mặt vợt (như tát
@@ -459,7 +459,7 @@ ngay sau đó.
 
 Yêu cầu học viên bounce bóng trên sàn với vợt, giữ cho grip thật nhẹ.
 Nếu vợt không bị văng và bóng bounce ổn định, grip pressure đang ở mức
-tốt. Sau đó tăng dần tốc độ. Đây là cách trực quan để dạy \'feel\' của
+tốt. Sau đó tăng dần tốc độ. Đây là cách trực quan để dạy 'feel' của
 grip pressure mà không cần giải thích lý thuyết nhiều.
 
 **2.8 Lỗi Grip Phổ Biến Và Cách Sửa**
@@ -497,7 +497,7 @@ grip pressure mà không cần giải thích lý thuyết nhiều.
 Forehand là cú đánh tự nhiên nhất với hầu hết người mới vì nó dùng phía
 thuận tay và chuyển động gần giống như ném bóng. Đây là lý do tại sao
 hầu hết HLV bắt đầu với forehand trong buổi tập đầu tiên. Tuy nhiên,
-\'tự nhiên\' không có nghĩa là \'không cần dạy\' -- có rất nhiều chi
+'tự nhiên' không có nghĩa là 'không cần dạy' -- có rất nhiều chi
 tiết kỹ thuật mà người mới cần được hướng dẫn để tránh hình thành thói
 quen xấu ngay từ đầu.
 
@@ -521,7 +521,7 @@ vào đó, để phần xoay của người kéo vợt theo.
 
 **Drill Unit Turn Không Có Bóng**
 
-Đứng ở baseline, khi HLV nói \'Forehand!\', học viên xoay unit turn hoàn
+Đứng ở baseline, khi HLV nói 'Forehand!', học viên xoay unit turn hoàn
 chỉnh và giữ nguyên vị trí. HLV kiểm tra: vai có xoay đủ 90 độ không?
 Hông có xoay theo không? Vợt có ở phía sau không? Lặp lại 20--30 lần cho
 đến khi thành phản xạ. Sau đó thêm yếu tố di chuyển nhỏ trước unit turn.
@@ -536,7 +536,7 @@ bóng. Chuyển động này tạo ra topspin giúp bóng vào sân an toàn hơ
 Contact point lý tưởng: phía trước người khoảng 30--45cm, ngang hông đến
 vùng bụng dưới (với Semi-Western grip), và ở tầm giữa đến thấp (không
 quá cao hoặc quá thấp). Contact quá muộn (gần người hoặc sau người) là
-lỗi rất phổ biến với người mới -- họ đợi bóng \'đến tận nơi\' thay vì
+lỗi rất phổ biến với người mới -- họ đợi bóng 'đến tận nơi' thay vì
 chủ động tiến đến bóng.
 
   --------------------------------------------------------------------
@@ -607,7 +607,7 @@ không split step, họ sẽ luôn bị bất ngờ bởi hướng của bóng.
   Vợt drop quá thấp trong takeback   Video hoặc gương để học viên tự
                                      thấy; tập shadow swing
 
-  Nhìn vợt thay vì nhìn bóng         Nhắc \'Nhìn bóng!\' -- dán sticker
+  Nhìn vợt thay vì nhìn bóng         Nhắc 'Nhìn bóng!' -- dán sticker
                                      lên vợt để divert attention
 
   Cổ tay flip sớm (chicken wing)     Drill holding follow-through để
@@ -643,7 +643,7 @@ theo khi người học chưa thành thạo phần trước.
 
 *Xây dựng backhand vững chắc và đáng tin cậy*
 
-**4.1 Tâm Lý Về Backhand -- Vượt Qua \'Điểm Yếu\'**
+**4.1 Tâm Lý Về Backhand -- Vượt Qua 'Điểm Yếu'**
 
 Hầu hết người mới chơi tennis đều ngại backhand và cố tránh nó bằng cách
 chạy vòng để đánh forehand. Điều này tạo ra điểm yếu rõ ràng mà đối thủ
@@ -672,10 +672,10 @@ hai tay đồng thời đẩy qua bóng. Follow-through kết thúc trên vai ph
 **Vai Trò Của Tay Trái Trong 2HBH**
 
 Sai lầm phổ biến nhất với 2HBH là để tay phải (thuận) làm mọi việc trong
-khi tay trái chỉ \'theo\'. Thực ra tay trái cần chủ động: nó drive swing
+khi tay trái chỉ 'theo'. Thực ra tay trái cần chủ động: nó drive swing
 qua contact và generate phần lớn power. Drill đơn giản: tập swing chỉ
 bằng tay trái (không thuận) 20 lần. Khi học viên cảm nhận được tay trái
-\'kéo\' swing, 2HBH sẽ tốt hơn ngay lập tức.
+'kéo' swing, 2HBH sẽ tốt hơn ngay lập tức.
 
 **4.3 One-Handed Backhand -- Cho Học Viên Muốn Thử Thách**
 
@@ -718,7 +718,7 @@ pace (thay đổi nhịp) để làm đối thủ mất timing, và xử lý bó
 Kỹ thuật slice backhand: Continental grip (bắt buộc), takeback cao (vợt
 head trên vai), swing path từ cao xuống thấp với mặt vợt hơi mở (open
 face), và follow-through thấp và về phía trước. Âm thanh của bóng khi
-gặp slice đúng khác với topspin -- có tiếng \'shh\' thay vì \'pop\'.
+gặp slice đúng khác với topspin -- có tiếng 'shh' thay vì 'pop'.
 
 **4.5 Footwork Cho Backhand**
 
@@ -731,7 +731,7 @@ với bóng đến nhanh.
 Điểm quan trọng cho người mới: không bao giờ đứng yên chờ bóng đến
 backhand side. Phải split step, đọc hướng bóng, và bắt đầu di chuyển
 ngay lập tức. Người mới thường phản ứng chậm vì không split step và
-không \'read\' bóng sớm đủ.
+không 'read' bóng sớm đủ.
 
 **4.6 Drills Backhand Hiệu Quả**
 
@@ -762,7 +762,7 @@ backhand side ngẫu nhiên.
 
 Drill chuyển đổi cơ bản: HLV đứng ở lưới và hand feed luân phiên sang
 forehand và backhand. Học viên phải đổi grip và di chuyển phù hợp giữa
-mỗi cú đánh. Bắt đầu chậm với báo trước (\'Forehand!\', \'Backhand!\'),
+mỗi cú đánh. Bắt đầu chậm với báo trước ('Forehand!', 'Backhand!'),
 sau đó tăng tốc dần và bỏ báo trước.
 
   ---------------------------------- ----------------------------------
@@ -827,7 +827,7 @@ dạy toss riêng biệt trước khi ghép với swing.
 
 Toss lý tưởng cho flat/slice serve: phía trước và hơi sang phải của
 người (với người thuận tay phải), cao hơn điểm contact khoảng 20--30cm
-(để có thể \'đánh vào\' bóng thay vì \'đuổi bắt\' bóng đang rơi), và
+(để có thể 'đánh vào' bóng thay vì 'đuổi bắt' bóng đang rơi), và
 cách người khoảng 1 chiều rộng vai. Toss nhả bằng đầu ngón tay, không
 dùng cổ tay.
 
@@ -866,7 +866,7 @@ với đủ pace và placement để không cho đối thủ tấn công dễ d�
 Placement quan trọng hơn speed cho người nghiệp dư: serve vào body (vào
 người nhận bóng) làm đối thủ khó di chuyển hơn là serve mạnh nhưng ra
 giữa sân. Serve vào T (góc gần đường giữa) tạo góc nhỏ nhất và dễ follow
-up nhất. Hãy dạy học viên suy nghĩ về \'serve + 1\' -- serve tạo điều
+up nhất. Hãy dạy học viên suy nghĩ về 'serve + 1' -- serve tạo điều
 kiện gì cho cú đánh tiếp theo?
 
 **5.5 Second Serve -- Đáng Tin Cậy Hơn Mạnh Hơn**
@@ -930,7 +930,7 @@ lên đối thủ.
 
 Ở cấp độ nghiệp dư, đặc biệt là người mới chơi, lên lưới đúng cách có
 thể là vũ khí rất hiệu quả vì đối thủ thường chưa đủ kỹ năng để lob hay
-pass tốt. Dạy học viên nhận biết \'cơ hội lên lưới\' -- khi đối thủ bị
+pass tốt. Dạy học viên nhận biết 'cơ hội lên lưới' -- khi đối thủ bị
 đẩy ra ngoài hoặc trả bóng ngắn -- và tự tin tiến lên khai thác.
 
 **6.2 Continental Grip Cho Volley -- Không Có Lựa Chọn Khác**
@@ -951,7 +951,7 @@ flexible như forehand baseline), khuỷu tay hơi gấp và ổn định.
 Contact point: phía trước thân người, trước khi bóng vượt qua thân. Đây
 là lỗi phổ biến nhất -- học viên để bóng đi qua mình rồi mới đánh (late
 volley). Drill tốt nhất: HLV đứng gần và feed bóng chậm, yêu cầu học
-viên catch bóng bằng vợt (không swing) -- cảm giác \'catching\' là gần
+viên catch bóng bằng vợt (không swing) -- cảm giác 'catching' là gần
 với volley đúng nhất.
 
 **6.4 Kỹ Thuật Backhand Volley**
@@ -1004,14 +1004,14 @@ góc tấn công, và bạn phải tiếp tục di chuyển về phía lưới n
 
 Approach shot tốt thường là slice hoặc flat -- không phải heavy topspin
 (bóng topspin nảy cao cho đối thủ thêm thời gian). Aim vào back corner
-và tiến lên vị trí \'split position\' ở service line sau khi đánh. Từ vị
+và tiến lên vị trí 'split position' ở service line sau khi đánh. Từ vị
 trí này, bạn sẵn sàng intercept bóng của đối thủ.
 
 **6.7 Net Positioning -- Đứng Đúng Chỗ Là Một Nửa Thành Công**
 
 Vị trí tốt tại lưới là yếu tố quyết định hiệu quả của net game. Nhiều
 người mới tiến lên nhưng đứng quá gần lưới (dễ bị lob qua đầu) hoặc quá
-xa (không cover được các góc). Vị trí lý tưởng là \'split position\':
+xa (không cover được các góc). Vị trí lý tưởng là 'split position':
 cách lưới khoảng 2--3m, ở giữa đường từ bóng của đối thủ đến hai góc sân
 của mình.
 
@@ -1043,7 +1043,7 @@ Recovery (về vị trí sau khi đánh).
 
 Split step là bước nhảy nhỏ (2--5cm) với hai chân tách ra bằng vai, thực
 hiện ngay khi đối thủ đang đánh bóng. Mục đích: khi chân tiếp đất sau
-split step, cơ thể đang trong trạng thái \'on the balls of feet\' (đầu
+split step, cơ thể đang trong trạng thái 'on the balls of feet' (đầu
 ngón chân) -- tư thế lý tưởng để bật về bất kỳ hướng nào nhanh nhất.
 
 Timing của split step: khi đối thủ đang bắt đầu forward swing. Nếu split
@@ -1158,8 +1158,8 @@ giản nhưng hiệu quả có thể áp dụng ngay. Thực ra, ở cấp độ
 chiến thuật đôi khi quan trọng hơn kỹ thuật -- người chơi thông minh
 thường thắng người chơi mạnh hơn nhưng thiếu tư duy.
 
-Tư duy chiến thuật cơ bản nhất: \'Giảm lỗi của mình và tạo lỗi cho đối
-thủ.\' Ở cấp độ nghiệp dư, khoảng 80% điểm kết thúc do unforced error
+Tư duy chiến thuật cơ bản nhất: 'Giảm lỗi của mình và tạo lỗi cho đối
+thủ.' Ở cấp độ nghiệp dư, khoảng 80% điểm kết thúc do unforced error
 (lỗi tự ngã) chứ không phải do winner (bóng thắng điểm trực tiếp). Điều
 này có nghĩa là người chơi ít lỗi hơn sẽ thắng -- không cần đánh mạnh,
 chỉ cần đánh đúng.
@@ -1174,8 +1174,8 @@ chuyển xa hơn.
 
 Quy tắc cho người mới: Khi không có cơ hội tấn công rõ ràng, luôn đánh
 cross-court. Down-the-line (đánh dọc sân) là cú đánh nguy hiểm hơn và
-chỉ dùng khi có cơ hội tốt. Dạy học viên nhận biết: \'Khi nào mình có
-thể tấn công? Khi không có cơ hội, phải play safe.\'
+chỉ dùng khi có cơ hội tốt. Dạy học viên nhận biết: 'Khi nào mình có
+thể tấn công? Khi không có cơ hội, phải play safe.'
 
   --------------------------------------------------------------------
   **NGUYÊN TẮC CHIẾN THUẬT CƠ BẢN CHO NGƯỜI NGHIỆP DƯ**
@@ -1207,7 +1207,7 @@ buộc họ phải đứng xa sau baseline để đánh, giới hạn góc tấn
 và tạo thời gian cho bạn recover. Bóng ngắn landing trong sân của đối
 thủ cho họ cơ hội tấn công bạn.
 
-Target cho người nghiệp dư: aim vào \'service line đến baseline\' zone
+Target cho người nghiệp dư: aim vào 'service line đến baseline' zone
 -- 1/3 cuối của sân đối thủ. Đây là zone an toàn tốt hơn cố aim vào
 đường biên góc. Đặt cone trong zone target và tập aim vào đó trong mỗi
 buổi tập.
@@ -1219,8 +1219,8 @@ Một trong những kỹ năng chiến thuật quan trọng nhất là đọc v�
 forehand side, đánh vào backhand side của họ (open court). Nếu họ di
 chuyển sang trái, đánh sang phải.
 
-Với người mới, dạy nguyên tắc đơn giản: \'Đánh vào chỗ đối thủ KHÔNG
-đứng.\' Điều này nghe hiển nhiên nhưng trong stress của thi đấu, nhiều
+Với người mới, dạy nguyên tắc đơn giản: 'Đánh vào chỗ đối thủ KHÔNG
+đứng.' Điều này nghe hiển nhiên nhưng trong stress của thi đấu, nhiều
 người mới cứ đánh vào người đối thủ vì sợ lỗi khi aim vào góc. Hãy tập
 nguyên tắc này với drill: HLV di chuyển sang một side, học viên phải
 đánh vào side kia.
@@ -1245,8 +1245,8 @@ Thay đổi nhịp độ -- lúc flat, lúc topspin, lúc slice, lúc lob -- là
 thủ mất nhịp và dễ mắc lỗi hơn. Đây là chiến thuật cực kỳ hiệu quả ở cấp
 nghiệp dư vì hầu hết người mới chưa quen xử lý sự thay đổi.
 
-Cách dạy change of pace: Trong drill rally, đưa vào quy tắc \'mỗi 4--5
-bóng phải đánh 1 bóng khác loại (slice, lob, hoặc drop shot)\'. Ban đầu
+Cách dạy change of pace: Trong drill rally, đưa vào quy tắc 'mỗi 4--5
+bóng phải đánh 1 bóng khác loại (slice, lob, hoặc drop shot)'. Ban đầu
 học viên sẽ thấy awkward, nhưng dần dần sẽ phát triển sense về khi nào
 và tại sao nên thay đổi.
 
@@ -1254,8 +1254,8 @@ và tại sao nên thay đổi.
 
 Với người nghiệp dư mới bắt đầu thi đấu, có một kế hoạch đơn giản cho
 mỗi trận là bước tiến lớn. Kế hoạch không cần phức tạp -- 1--2 điểm
-chiến thuật là đủ. Ví dụ: \'Hôm nay mình sẽ serve vào body và đánh nhiều
-về backhand của đối thủ.\' Đơn giản, cụ thể, và có thể thực hiện được.
+chiến thuật là đủ. Ví dụ: 'Hôm nay mình sẽ serve vào body và đánh nhiều
+về backhand của đối thủ.' Đơn giản, cụ thể, và có thể thực hiện được.
 
 Sau trận, cùng học viên review: kế hoạch có được thực hiện không? Nếu
 không thực hiện được thì tại sao? Điều gì đã worked và điều gì chưa? Quá
@@ -1288,15 +1288,15 @@ tâm lý. Người chơi giỏi dùng thời gian này để: hít thở sâu v�
 cơ thể, reset focus về điểm tiếp theo (không nghĩ về điểm vừa thua), và
 chuẩn bị mentally cho serve hoặc return tiếp theo.
 
-Dạy học viên về \'ritual giữa điểm\': một chuỗi hành động nhất quán giúp
+Dạy học viên về 'ritual giữa điểm': một chuỗi hành động nhất quán giúp
 reset tâm lý. Ví dụ: sau khi điểm kết thúc, nhìn đường chỉ vợt 2--3
 giây, hít thở sâu, bước đến vị trí tiếp theo với tư thế tự tin. Hành
-động nhất quán này tạo ra \'anchor\' tâm lý và giảm lo lắng.
+động nhất quán này tạo ra 'anchor' tâm lý và giảm lo lắng.
 
   --------------------------------------------------------------------
   **RITUAL GIỮA ĐIỂM -- TEMPLATE CHO NGƯỜI MỚI**
 
-  Ngay sau điểm: Dù thắng hay thua, nói với mình \'Điểm tiếp theo\' và
+  Ngay sau điểm: Dù thắng hay thua, nói với mình 'Điểm tiếp theo' và
   đi
 
   Bước 1 (2--3 giây): Nhìn đường chỉ vợt hoặc nhìn xuống đất -- không
@@ -1317,13 +1317,13 @@ giây, hít thở sâu, bước đến vị trí tiếp theo với tư thế t�
 Cách mỗi người phản ứng với lỗi tiết lộ nhiều về mental game của họ. Có
 ba phản ứng phổ biến và tác động của chúng: Tức giận (đập vợt, chửi thề,
 la hét) -- tốn energy và làm tập trung kém hơn; Self-criticism quá mức
-(\'Mình tệ quá, sao mình cứ miss mãi\') -- tạo ra vòng xoáy tiêu cực; và
+('Mình tệ quá, sao mình cứ miss mãi') -- tạo ra vòng xoáy tiêu cực; và
 Accept & Move On -- phản ứng tốt nhất.
 
-Dạy học viên \'lỗi + học = tiến bộ\'. Mỗi lỗi là thông tin, không phải
+Dạy học viên 'lỗi + học = tiến bộ'. Mỗi lỗi là thông tin, không phải
 thất bại. Sau khi miss một cú đánh, thay vì tự trách mình, hãy nhanh
-chóng phân tích: \'Lỗi đó do đâu? Mình cần làm gì khác ở điểm tiếp
-theo?\' Rồi release và focus vào điểm tiếp theo.
+chóng phân tích: 'Lỗi đó do đâu? Mình cần làm gì khác ở điểm tiếp
+theo?' Rồi release và focus vào điểm tiếp theo.
 
 **9.4 Áp Lực Điểm Quan Trọng -- Break Point Và Set Point**
 
@@ -1344,7 +1344,7 @@ nghiệp dư. Có những thời điểm tâm trí đi lang thang: nghĩ về c�
 lo lắng về trận đấu sau, hoặc bị distract bởi tiếng ồn xung quanh. Nhận
 biết khi mình đang unfocused là bước đầu tiên để fix.
 
-Kỹ thuật refocus: \'Bounce and look\' -- mỗi khi cảm thấy mất tập trung,
+Kỹ thuật refocus: 'Bounce and look' -- mỗi khi cảm thấy mất tập trung,
 cố ý nhìn thật kỹ vào bóng khi đối thủ đánh và cảm nhận texture của bóng
 khi mình đánh. Sự chú ý vào sensory detail ngay lập tức kéo tâm trí về
 hiện tại. Dạy kỹ thuật này và luyện tập trong practice trước khi cần
@@ -1353,8 +1353,8 @@ dùng trong trận thật.
 **9.6 Tự Tin Và Nỗi Sợ**
 
 Sợ hãi là cảm xúc phổ biến nhất trong tennis: sợ lỗi, sợ thua, sợ bị
-cười. Những nỗi sợ này làm người chơi \'play not to lose\' thay vì
-\'play to win\' -- tức là chơi an toàn quá mức, không dám attack kể cả
+cười. Những nỗi sợ này làm người chơi 'play not to lose' thay vì
+'play to win' -- tức là chơi an toàn quá mức, không dám attack kể cả
 khi có cơ hội tốt. Kết quả là một lối chơi thụ động không hiệu quả.
 
 Cách xây dựng tự tin: bắt đầu bằng những tình huống practice có kiểm
@@ -1377,7 +1377,7 @@ phút. Buổi tập tốt có mục tiêu rõ ràng, cấu trúc logic, progress
 đấu. Thiếu kế hoạch dẫn đến buổi tập lãng phí thời gian và không có tiến
 bộ rõ ràng.
 
-Nguyên tắc \'Progressive Overload\' áp dụng trong tennis: mỗi buổi tập
+Nguyên tắc 'Progressive Overload' áp dụng trong tennis: mỗi buổi tập
 cần tăng dần độ khó hoặc phức tạp so với buổi trước. Nếu học viên đang
 thoải mái với mọi drill và không bao giờ thách thức, họ không tiến bộ.
 Tuy nhiên, khó quá mức cũng counterproductive -- tỷ lệ thành công
@@ -1411,7 +1411,7 @@ Tuy nhiên, khó quá mức cũng counterproductive -- tỷ lệ thành công
 
 **10.3 Warm-Up Đúng Cách**
 
-Warm-up không phải chỉ là \'khởi động cho cơ thể nóng lên\' -- nó là quá
+Warm-up không phải chỉ là 'khởi động cho cơ thể nóng lên' -- nó là quá
 trình chuẩn bị cả thể chất lẫn tinh thần cho buổi tập. Warm-up đúng cách
 bao gồm: tăng nhiệt độ cơ thể (5 phút jogging nhẹ), dynamic stretching
 (không phải static stretch trước khi tập -- nghiên cứu cho thấy static
@@ -1421,12 +1421,12 @@ stretch trước tập làm giảm performance), và tennis-specific activation
 Mini-tennis là phần warm-up tuyệt vời thường bị bỏ qua: hai người rally
 trong service box với bóng bounce nhẹ. Điều này warm up coordination
 tay-mắt, tập touch/feel với bóng, và tạo ra không gian cho tâm trí
-chuyển về \'tennis mode\'. Không bao giờ skip mini-tennis trong warm-up.
+chuyển về 'tennis mode'. Không bao giờ skip mini-tennis trong warm-up.
 
   --------------------------------------------------------------------
   **TEMPLATE BUỔI TẬP CHO NGƯỜI MỚI -- 90 PHÚT**
 
-  0--15 phút: Warm-up (5\' jog + 5\' dynamic stretch + 5\'
+  0--15 phút: Warm-up (5' jog + 5' dynamic stretch + 5'
   mini-tennis)
 
   15--30 phút: Kỹ thuật cú đánh cụ thể (forehand hoặc backhand hoặc
@@ -1447,16 +1447,16 @@ chuyển về \'tennis mode\'. Không bao giờ skip mini-tennis trong warm-up.
 **10.4 Cách Đưa Feedback Hiệu Quả**
 
 Timing và cách đưa feedback quan trọng không kém nội dung feedback.
-Feedback ngay lập tức sau mỗi cú đánh (\'Không đúng! Phải thế này!\')
+Feedback ngay lập tức sau mỗi cú đánh ('Không đúng! Phải thế này!')
 tạo ra môi trường lo lắng và làm học viên tập trung vào việc không mắc
 lỗi thay vì học. Feedback hiệu quả hơn: quan sát một pattern (3--5 cú
 đánh), rồi dừng và đưa feedback cụ thể.
 
-Phương pháp \'Sandwich Feedback\': bắt đầu bằng điều tốt, đưa ra điều
-cần cải thiện, kết thúc bằng điều tốt khác. Ví dụ: \'Unit turn của em
+Phương pháp 'Sandwich Feedback': bắt đầu bằng điều tốt, đưa ra điều
+cần cải thiện, kết thúc bằng điều tốt khác. Ví dụ: 'Unit turn của em
 rất tốt. Tuy nhiên contact point hơi muộn -- cần gặp bóng sớm hơn một
 chút. Nhưng follow-through của em đã cải thiện nhiều so với tuần
-trước.\' Học viên nghe được cả hai và cảm thấy được support.
+trước.' Học viên nghe được cả hai và cảm thấy được support.
 
 **10.5 Drill Design -- Tạo Ra Drill Phù Hợp**
 
@@ -1640,7 +1640,7 @@ experiential learning -- chúng cần chạm, cảm nhận, và thử nghiệm, 
 cần ngồi nghe giải thích về kỹ thuật. Lesson cho trẻ em phải có ít nhất
 70--80% thời gian là games và activities.
 
-ITF đã phát triển chương trình \'Play + Stay\' với bóng foam và sân thu
+ITF đã phát triển chương trình 'Play + Stay' với bóng foam và sân thu
 nhỏ cho trẻ em: Red ball (dưới 8 tuổi) dùng bóng foam đỏ trên sân 6m ×
 12m; Orange ball (8--10 tuổi) dùng bóng áp suất thấp trên sân 18m; Green
 ball (10--12 tuổi) dùng bóng gần tiêu chuẩn trên sân đầy. Progression
@@ -1656,7 +1656,7 @@ này đảm bảo trẻ thành công sớm và duy trì hứng thú.
 - Tất cả là games: Biến mọi drill thành game với điểm, quy tắc, và phần
   thưởng nhỏ
 
-- Praise effort, not result: Khen nỗ lực (\'Con cố gắng rất tốt!\') hơn
+- Praise effort, not result: Khen nỗ lực ('Con cố gắng rất tốt!') hơn
   là kết quả
 
 - Nhóm nhỏ: 4--6 trẻ/HLV là tối ưu -- nhiều hơn sẽ không control được
@@ -1712,7 +1712,7 @@ strengthen rotator cuff trước khi bắt đầu. Lưng → Core strengthening 
 
 **13.1 Tại Sao Cần Đo Lường Tiến Bộ**
 
-\'Không thể quản lý điều bạn không đo lường\' -- nguyên tắc này áp dụng
+'Không thể quản lý điều bạn không đo lường' -- nguyên tắc này áp dụng
 hoàn hảo trong huấn luyện tennis. Không có hệ thống đánh giá, cả HLV lẫn
 học viên đều không biết chính xác họ đang ở đâu và cần cải thiện điều
 gì. Đánh giá định kỳ giúp: xác nhận tiến bộ (tăng motivation), phát hiện
@@ -1795,16 +1795,16 @@ Học viên thường ngạc nhiên khi thấy cú đánh thực tế của mìn
 những gì họ nghĩ họ đang làm.
 
 Cách dùng video hiệu quả: Không chỉ record và show -- cùng học viên phân
-tích. Hỏi: \'Em thấy điều gì khác so với những gì em nghĩ mình đang
-làm?\' Điều này develop self-awareness, kỹ năng quan trọng để học viên
+tích. Hỏi: 'Em thấy điều gì khác so với những gì em nghĩ mình đang
+làm?' Điều này develop self-awareness, kỹ năng quan trọng để học viên
 tự cải thiện kể cả khi không có HLV bên cạnh.
 
 **13.5 Mục Tiêu SMART Cho Học Viên**
 
 SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) là
-framework hiệu quả để set mục tiêu. Thay vì \'Tôi muốn chơi tennis tốt
-hơn\', hãy set: \'Tôi sẽ đạt first serve % 60% trong vòng 3 tháng, đo
-bằng serve test mỗi tháng.\' Cụ thể, có thể đo, khả thi, liên quan, và
+framework hiệu quả để set mục tiêu. Thay vì 'Tôi muốn chơi tennis tốt
+hơn', hãy set: 'Tôi sẽ đạt first serve % 60% trong vòng 3 tháng, đo
+bằng serve test mỗi tháng.' Cụ thể, có thể đo, khả thi, liên quan, và
 có deadline.
 
 Cùng học viên set 1--2 SMART goals mỗi tháng. Không nhiều hơn -- quá
@@ -1820,14 +1820,14 @@ không? Nếu không, tại sao? Cần thay đổi gì? Quá trình này tạo r
 
 **14.1 Khi Nào Học Viên Sẵn Sàng Thi Đấu?**
 
-Một câu hỏi phổ biến mà học viên hỏi HLV: \'Em có thể thi đấu chưa?\'
-Câu trả lời không phải là \'khi kỹ thuật hoàn hảo\' -- vì kỹ thuật không
+Một câu hỏi phổ biến mà học viên hỏi HLV: 'Em có thể thi đấu chưa?'
+Câu trả lời không phải là 'khi kỹ thuật hoàn hảo' -- vì kỹ thuật không
 bao giờ hoàn hảo. Học viên sẵn sàng thi đấu khi: họ biết luật cơ bản, có
 thể sustain rally 3--5 bóng, có serve vào sân dù chậm, và quan trọng
 nhất -- họ muốn thi đấu và không sợ thua.
 
-Tôi thường khuyến khích học viên thi đấu sớm hơn họ nghĩ mình \'sẵn
-sàng\'. Thi đấu thực tế là người thầy tốt nhất mà không drill nào có thể
+Tôi thường khuyến khích học viên thi đấu sớm hơn họ nghĩ mình 'sẵn
+sàng'. Thi đấu thực tế là người thầy tốt nhất mà không drill nào có thể
 thay thế. Áp lực của trận đấu thực sự tiết lộ những kỹ năng nào thực sự
 đã internalized và kỹ năng nào còn cần practice. Hãy frame thi đấu sớm
 như là learning experience, không phải test.
@@ -1868,12 +1868,12 @@ tiêu là experience và learning, không phải thắng hay thua.
 Trận đầu tiên không phải là lúc thử những chiến thuật phức tạp. Kế hoạch
 đơn giản nhất và hiệu quả nhất cho người mới: Serve vào sân (consistency
 over power), Return vào sân (any return in court is good), Rally
-cross-court (safe choice), Aim deep (reduce opponent\'s attack options),
+cross-court (safe choice), Aim deep (reduce opponent's attack options),
 và Enjoy the experience (be present, not worried about score).
 
 Một điểm tâm lý quan trọng: nhiều người mới chơi trận đầu với mindset
-\'không được thua\'. Đây là pressure không cần thiết. Hãy frame lại:
-\'Mỗi điểm là cơ hội để practice điều mình đã tập.\' Với mindset này,
+'không được thua'. Đây là pressure không cần thiết. Hãy frame lại:
+'Mỗi điểm là cơ hội để practice điều mình đã tập.' Với mindset này,
 win hay lose đều là win về mặt learning.
 
 **14.4 Post-Match Review**
@@ -1884,7 +1884,7 @@ lập tức. Chờ 30--60 phút, uống nước, rồi ngồi cùng học viên 
 
 Framework review 3-1-1: 3 điều đã làm tốt, 1 điều cần cải thiện, 1 bài
 học chiến thuật cho trận tới. Không dài hơn 10 phút. Kết thúc bằng câu
-hỏi: \'Em cảm thấy thế nào về trận hôm nay?\' Cảm xúc của học viên là
+hỏi: 'Em cảm thấy thế nào về trận hôm nay?' Cảm xúc của học viên là
 thông tin quan trọng để HLV điều chỉnh cách coaching.
 
 **14.5 Các Giải Đấu Dành Cho Người Nghiệp Dư**
@@ -1928,7 +1928,7 @@ Khác biệt cốt lõi: Sân doubles rộng hơn 2.74m mỗi bên (alley); Net
 player đóng vai trò quan trọng; Communication giữa hai đối tác là yếu tố
 sống còn; Chiến thuật hoàn toàn khác -- ai giao bóng, ai lên lưới, khi
 nào switch. Hiểu những khác biệt này giúp học viên chơi doubles thực sự
-hiệu quả chứ không phải \'2 người chơi singles gần nhau\'.
+hiệu quả chứ không phải '2 người chơi singles gần nhau'.
 
 **15.2 Formation Cơ Bản Trong Doubles**
 
@@ -1938,9 +1938,9 @@ giao bóng xong, người giao bóng có thể tiến lên lưới hoặc ở l�
 tùy chiến thuật. Net player luôn phải split step và sẵn sàng intercept.
 
 Lỗi phổ biến nhất trong doubles: Cả hai người đứng ở baseline (không ai
-ở lưới). Đây gọi là \'both back\' formation và không hiệu quả vì để
-nhiều không gian cho đối thủ tấn công. Lý tưởng là \'one up, one back\'
-hoặc \'both up\' khi có cơ hội. Dạy học viên cảm thấy comfortable ở lưới
+ở lưới). Đây gọi là 'both back' formation và không hiệu quả vì để
+nhiều không gian cho đối thủ tấn công. Lý tưởng là 'one up, one back'
+hoặc 'both up' khi có cơ hội. Dạy học viên cảm thấy comfortable ở lưới
 -- đây là foundation của doubles tốt.
 
   --------------------------------------------------------------------
@@ -1948,11 +1948,11 @@ hoặc \'both up\' khi có cơ hội. Dạy học viên cảm thấy comfortable
 
   Trước mỗi điểm: Partner discuss target serve và ai cover đường nào
 
-  Trong điểm: \'Mine!\' khi bóng đến phía mình; \'Yours!\' khi bóng
+  Trong điểm: 'Mine!' khi bóng đến phía mình; 'Yours!' khi bóng
   đến phía partner
 
-  Sau điểm: Brief encourage hoặc quick tactical note (\'Lần sau mình
-  lên sớm hơn\')
+  Sau điểm: Brief encourage hoặc quick tactical note ('Lần sau mình
+  lên sớm hơn')
 
   Không blame partner: Doubles là team -- thắng thua cùng nhau
 
@@ -1984,7 +1984,7 @@ fault trong doubles cảm giác tệ hơn -- bạn làm cả team mất điểm.
 Return trong doubles: aim cross-court và aim xuống thấp (dips qua lưới)
 để net player đối thủ khó intercept. Lob là lựa chọn tốt khi net player
 đứng gần lưới. Return vào net player -- intentionally -- là lỗi cần
-tránh (tặng điểm cho họ). Aim \'down the middle\' khi cả hai đối thủ
+tránh (tặng điểm cho họ). Aim 'down the middle' khi cả hai đối thủ
 đang ở lưới -- tạo confusion về ai đánh.
 
 **15.5 Communication Và Partnership**
@@ -1995,7 +1995,7 @@ game đầu, ai có forehand side, và khi nào switch. Trong trận: brief,
 positive, và actionable. Sau điểm: brief encouragement. Không phân tích
 dài trong changeover -- giữ ngắn gọn và forward-looking.
 
-Kỹ năng quan trọng nhất trong doubles: \'Read your partner\'. Biết đối
+Kỹ năng quan trọng nhất trong doubles: 'Read your partner'. Biết đối
 tác sẽ làm gì để bạn có thể complement, không conflict. Nếu partner đánh
 bóng sang trái, di chuyển về phải để cover. Nếu partner tiến lên lưới,
 bạn phải quyết định: follow up hay stay back? Những quyết định này cần
@@ -2026,7 +2026,7 @@ ra cộng đồng.
 **16.2 Tổ Chức Social Events**
 
 Buổi tập xã hội (social mixers) là cách đơn giản nhất để xây dựng cộng
-đồng. Format phổ biến: \'Round robin doubles\' -- mọi người rotate
+đồng. Format phổ biến: 'Round robin doubles' -- mọi người rotate
 partner sau mỗi game, ai cũng chơi với ai. Không có áp lực thắng thua,
 chỉ có vui vẻ và gặp gỡ. Tổ chức mỗi tháng một lần vào cuối tuần với bữa
 ăn nhẹ sau đó -- đây là formula đơn giản nhưng tạo ra community mạnh.
@@ -2041,7 +2041,7 @@ community luôn có điều gì đó để mong chờ.
 
 Một trong những services valuable nhất HLV có thể cung cấp là connect
 học viên với nhau. Biết ai đang tìm partner ở level nào, giới thiệu học
-viên mới với người chơi cùng trình độ, và tạo ra \'tennis buddy system\'
+viên mới với người chơi cùng trình độ, và tạo ra 'tennis buddy system'
 -- đặc biệt hữu ích cho người mới không có ai để chơi cùng.
 
 Group chat hoặc community app: Tạo một group chat cho học viên để tự
@@ -2063,7 +2063,7 @@ không có mặt. Đây là dấu hiệu của community healthy và sustainable
 
   Bước 5: Tổ chức giải đấu fun tournament mỗi 6 tháng
 
-  Bước 6: Tạo \'beginners club\' -- nhóm riêng cho người mới để giảm
+  Bước 6: Tạo 'beginners club' -- nhóm riêng cho người mới để giảm
   intimidation
   --------------------------------------------------------------------
 
@@ -2090,7 +2090,7 @@ content hữu ích (tip kỹ thuật ngắn, drill video, câu chuyện tiến b
 học viên). Consistency quan trọng hơn quality -- 2--3 posts mỗi tuần đều
 đặn tốt hơn 10 posts một lúc rồi im lặng.
 
-Content ideas: \'1-minute technique tip\', \'Common mistake and fix\',
+Content ideas: '1-minute technique tip', 'Common mistake and fix',
 student transformation story (với phép của học viên), behind-the-scenes
 của buổi tập, local event announcement. Video ngắn (Reels/TikTok style)
 thường reach nhiều người hơn ảnh tĩnh. Chia sẻ kiến thức thực sự hữu ích
@@ -2217,7 +2217,7 @@ tại sân khi ký ức còn mới.
   ---------------------------------- ----------------------------------
   **App / Tool**                     **Tính Năng & Ứng Dụng**
 
-  Coach\'s Eye / Hudl Technique      Video analysis với drawing tools,
+  Coach's Eye / Hudl Technique      Video analysis với drawing tools,
                                      frame-by-frame
 
   SwingVision                        AI tự động track bóng và phân tích
@@ -2242,8 +2242,8 @@ học viên. Khi machine feed bóng, HLV có thể quan sát kỹ thuật từ n
 góc khác nhau, đi vòng quanh học viên để check footwork và positioning,
 và dành toàn bộ attention cho feedback thay vì phải feed bóng.
 
-Sử dụng ball machine hiệu quả: không dùng machine để học viên \'tập một
-mình\' -- HLV phải ở đó quan sát và feedback. Machine tốt nhất khi dùng
+Sử dụng ball machine hiệu quả: không dùng machine để học viên 'tập một
+mình' -- HLV phải ở đó quan sát và feedback. Machine tốt nhất khi dùng
 để tạo ra repetition cao trong một kỹ năng cụ thể (ví dụ: 100 backhands
 cross-court trong 20 phút). Sau session với machine, luôn chuyển sang
 live ball để học viên adapt với tính không dự đoán của bóng thật.
@@ -2285,8 +2285,8 @@ nghĩa hơn.
 **19.1 Tennis Coaching Như Một Nghề**
 
 Nhiều người bắt đầu dạy tennis vì passion và dần dần nhận ra họ cần biến
-nó thành sustainable business. Đây là bước ngoặt quan trọng: từ \'dạy
-tennis\' sang \'chạy một business coaching tennis\'. Hai thứ này không
+nó thành sustainable business. Đây là bước ngoặt quan trọng: từ 'dạy
+tennis' sang 'chạy một business coaching tennis'. Hai thứ này không
 mâu thuẫn -- bạn vẫn có thể passionate về tennis trong khi cũng
 professional và strategic về kinh doanh.
 
@@ -2358,7 +2358,7 @@ và một hệ thống đặt lịch đơn giản (có thể qua nhắn tin ho�
 Cancellation policy: Có policy rõ ràng từ đầu và communicate với học
 viên. Thông thường: cancel ít nhất 24 giờ trước thì không tính phí;
 cancel muộn hơn thì tính 50--100% buổi đó. Policy này tôn trọng thời
-gian của cả hai bên và prevent \'last minute cancel\' habit của một số
+gian của cả hai bên và prevent 'last minute cancel' habit của một số
 học viên.
 
 **19.5 Đạo Đức Trong Tennis Coaching**
@@ -2411,8 +2411,8 @@ thay đổi.
   những bước tiến và những bước lùi. HLV phải là người giữ vững niềm tin
   cho cả hai
 
-- Học không bao giờ ngừng: HLV tốt nhất là người luôn tự hỏi \'Mình có
-  thể làm tốt hơn thế nào?\'
+- Học không bao giờ ngừng: HLV tốt nhất là người luôn tự hỏi 'Mình có
+  thể làm tốt hơn thế nào?'
 
 - Tính cách quan trọng hơn kỹ năng: Dạy học viên trở thành người chơi
   tốt và người tốt -- tennis là công cụ xây dựng tính cách

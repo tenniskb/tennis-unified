@@ -6,8 +6,7 @@
 
 ![A picture containing text, tennis, court, outdoor Description
 automatically
-generated](media_the-serve-and-volley-drills-part-1/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
 
 In the soft catch drill the player has to use feel to catch and control
 the ball when moving forward after the serve.
@@ -15,13 +14,13 @@ the ball when moving forward after the serve.
 In the last four articles, we have discussed serve and volley
 inspiration, mentality, tactics, and critical shots. ([Click
 Here](The%20Serve%20and%20Volley%20Three%20Critical%20Shots.docx).) Now
-in the next two articles we\'ll look at a series of original drills I
+in the next two articles we'll look at a series of original drills I
 have developed to incorporate serve and volley into your own game. I
 have found them powerful, effective, and fun. See if you agree!
 
 **Soft Catch**
 
-**[[A big issue in serve and volley is touch and feel. It\'s difficult
+**[[A big issue in serve and volley is touch and feel. It's difficult
 for players to transition from the kinesthetic feel of hitting a hard
 serve to a looser grip and the soft hands needed for a controlled
 volley.]{.mark}]{.underline}**
@@ -33,14 +32,13 @@ body.
 
 ![A picture containing text, tennis, court, outdoor Description
 automatically
-generated](media_the-serve-and-volley-drills-part-1/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-serve-and-volley-drills-part-1/media/image1.webp)
 
 **In the soft catch drill the player has to use feel to catch and
 control the ball when moving forward after the serve.**
 
 But a serve and volley player sees a variety of return speeds and
-placements over a course of a match, some of which won\'t be conducive
+placements over a course of a match, some of which won't be conducive
 to pounding the volley. You must be able to relax and develop a feel for
 the ball. This sense of relaxation and control, despite the urgency of
 the situation, is a vital skill that takes time to develop in players of
@@ -76,8 +74,7 @@ my students because it helps them work on consistency and control.
 
 ![A couple of people playing tennis Description automatically generated
 with medium
-confidence](media_the-serve-and-volley-drills-part-1/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-serve-and-volley-drills-part-1/media/image2.webp)
 
 **The Tango is a cooperative drill to work on confidence and accuracy.**
 
@@ -91,7 +88,7 @@ and with each volley they move closer to the net.
 Then the leader gives directions to move backwards, or left, or right,
 or forward. The follower shadows the leader keeping the ball in the air.
 
-The volleys can be from 3/4 court or 3 feet from the net. It\'s all up
+The volleys can be from 3/4 court or 3 feet from the net. It's all up
 to the leader. Players will quickly learn how hard or soft, firm or
 loose they must hit the volley and hold their racquet.
 
@@ -104,26 +101,25 @@ a specific number of hits.
 Not every volley we receive is going to shoulder high. Every serve and
 volley player must have the ability to hit half volleys. Many players
 will immediately hit the panic button in this situation because they
-never practice it and therefore don\'t have the confidence to rely on it
+never practice it and therefore don't have the confidence to rely on it
 in a match.
 
 ![Two people playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-drills-part-1/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-serve-and-volley-drills-part-1/media/image3.webp)
 
 **The 4 Corner Box drill gives players the repetitions they need to
 develop the half volley.**
 
 By hitting an effectively half volley, you maintain control of the
 point, but you also maintain confidence, knowing you can deal with your
-opponent\'s effort to put you in a tough spot.
+opponent's effort to put you in a tough spot.
 
 The 4 Corner Half Volley drill allows you to practice your ability to
 execute this difficult shot and make it more routine.
 
 Place 4 cones behind the service line creating a rectangle. You can make
-the rectangle smaller or deeper depending on your students\' level. Now
+the rectangle smaller or deeper depending on your students' level. Now
 the feeder hits balls randomly to all 4 corners.
 
 The student must let the ball bounce, but keep it in front of him,
@@ -137,8 +133,7 @@ serve and volley. Next stay tuned for 3 more!
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-serve-and-volley-drills-part-1/media/image4.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-serve-and-volley-drills-part-1/media/image4.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

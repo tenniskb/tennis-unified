@@ -6,8 +6,7 @@
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing a guitar Description automatically generated with medium
-  confidence](media_court-movement-the-forehand/media/image1.webp){width="2.9756944444444446in"
-  height="1.9902777777777778in"}
+  confidence](media_court-movement-the-forehand/media/image1.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The Initial Move: a push with the Inside Foot and a step with the Outside Foot toward the ball.**
 
@@ -26,14 +25,13 @@ Without good movement, you may as well leave all those beautiful strokes
 on the practice court. Effective movement means the ability to move
 relatively quickly and arrive in position to hit the ball.
 
-Focus on the smooth, effortless movement of the world\'s great players
+Focus on the smooth, effortless movement of the world's great players
 when you watch matches on television. By learning the same movement
 patterns yourself, you will take a big step toward reaching your real
 potential\--beyond just working on your strokes.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_court-movement-the-forehand/media/image2.jpg){width="2.9756944444444446in"
-height="2.2319444444444443in"}
+confidence](media_court-movement-the-forehand/media/image2.jpg)
 
 **The Outside Foot is the right foot, closer to the ball, and the Inside
 Foot is the left.**
@@ -56,8 +54,7 @@ ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_court-movement-the-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_court-movement-the-forehand/media/image3.webp)
 
 **Position to the ball with the Outside Foot.**
 
@@ -78,8 +75,7 @@ with the Outside Foot.]{.underline}]{.mark}**
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_court-movement-the-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_court-movement-the-forehand/media/image4.webp)
 
 **Positioning behind the ball allows you to hit open stance
 effectively.**
@@ -100,8 +96,7 @@ players at all levels should develop as well.**
 
 [ ]{.underline}![A person playing tennis Description automatically
 generated with medium
-confidence](media_court-movement-the-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_court-movement-the-forehand/media/image5.webp)
 
 **[[3 movement errors:]{.mark}]{.underline}**
 
@@ -126,12 +121,11 @@ movers are not only skilled at getting out to the ball in position. They
 are also skilled at quickly getting back into position to move to the
 next ball.]{.underline}]{.mark}** We want the most efficient possible
 method with the fewest possible steps. Your goal is to return to the
-center of your opponent\'s possible angles and re-establish a good ready
+center of your opponent's possible angles and re-establish a good ready
 position before he hits.
 
 ![A picture containing player, tennis Description automatically
-generated](media_court-movement-the-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_court-movement-the-forehand/media/image6.webp)
 
 **Watch a close up of the exchange, followed by a wide view of the
 entire pattern and the movement back to the middle.**
@@ -148,7 +142,7 @@ or side-stepping back toward the middle.]{.mark}]{.underline}**
 upright.]{.underline}]{.mark}** This keeps you grounded and stops you
 from jumping, so your movement is smooth and rhythmic. If there is not
 enough time to recover all the way to the center, re-establish the ready
-position prior to the opponent\'s hit.
+position prior to the opponent's hit.
 
 This is critical so that you can move with equal ease to reach a ball in
 either direction. With this pattern I have gone no further than is
@@ -167,19 +161,17 @@ back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_court-movement-the-forehand/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_court-movement-the-forehand/media/image7.webp)
 
 **Common recovery errors: running through; swinging the outside foot;
 recovering with the left foot.**
 
-In the next article we\'ll look at patterns of great court movement on
+In the next article we'll look at patterns of great court movement on
 the backhand.
 
 ![A picture containing tree, outdoor, person, purple Description
 automatically
-generated](media_court-movement-the-forehand/media/image8.jpeg){width="1.2958333333333334in"
-height="1.520138888888889in"}
+generated](media_court-movement-the-forehand/media/image8.jpeg)
 
 **Bob Hansen** is the long time mens varsity coach at the University of
 California at Santa Cruz, where he has lead his beloved Banana Slugs to

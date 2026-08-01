@@ -1,12 +1,12 @@
 # tennis_control_system_manual
 
-+:---------------------------------------------------------------------:+
-| **TENNIS CONTROL SYSTEM**                                             |
-|                                                                       |
-| *A Complete Coaching Manual*                                          |
-|                                                                       |
-| Biomechanics · Control Theory · Motor Learning · Match Performance    |
-+-----------------------------------------------------------------------+
+| **TENNIS CONTROL SYSTEM** |
+| --- |
+|  |
+| *A Complete Coaching Manual* |
+|  |
+| Biomechanics · Control Theory · Motor Learning · Match Performance |
+
 
 **10 Chapters · Advanced Coaching Framework**
 
@@ -18,13 +18,13 @@ Level 3.5 → 5.0 Player Development
 
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **CHAPTER ONE**                                                       |
-|                                                                       |
-| **The Philosophy of the Tennis Control System**                       |
-|                                                                       |
-| *Why technique is the output, not the input*                          |
-+-----------------------------------------------------------------------+
+| **CHAPTER ONE** |
+| --- |
+|  |
+| **The Philosophy of the Tennis Control System** |
+|  |
+| *Why technique is the output, not the input* |
+
 
 1.1 The Problem with Traditional Coaching
 
@@ -42,24 +42,24 @@ the ball arrives at unexpected pace. Their backhand --- technically
 sound in isolation --- falls apart in a close match.
 
 The problem is not that technique is unimportant. It is that technique
-is downstream of something more fundamental: the state of the body\'s
+is downstream of something more fundamental: the state of the body's
 control systems. A player who cannot accurately sense the position of
 their racket head cannot produce reliable contact, regardless of how
 many times the correct swing path has been drilled. A player whose
 kinetic chain is blocked at the pelvis cannot generate topspin,
 regardless of how correctly their wrist rolls.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *The traditional model teaches what the body should do. The Control   |
-| System model teaches the body to know what it is doing. One is        |
-| instruction; the other is development.*                               |
-+-----------------------------------------------------------------------+
+| **COACH NOTE** |
+| --- |
+|  |
+| *The traditional model teaches what the body should do. The Control |
+| System model teaches the body to know what it is doing. One is |
+| instruction; the other is development.* |
+
 
 1.2 The Control System Model: An Overview
 
-The Tennis Control System (TCS) framework treats the player\'s body,
+The Tennis Control System (TCS) framework treats the player's body,
 nervous system, and decision-making architecture as an integrated
 control system --- analogous to the industrial control systems used to
 manage complex, dynamic processes. Instead of thinking about technique
@@ -146,15 +146,15 @@ single joint bears excessive stress. The wrist does not have to fight
 alone to maintain racket-face angle. The contact point is controlled by
 the whole frame, not by muscular grip.
 
-+-----------------------------------------------------------------------+
-| **KEY PRINCIPLE --- The Diamond Frame**                               |
-|                                                                       |
-| The diamond formed by shoulders, arms, and racket is not a technique  |
+| **KEY PRINCIPLE --- The Diamond Frame** |
+| --- |
+|  |
+| The diamond formed by shoulders, arms, and racket is not a technique |
 | tip --- it is a structural foundation. All other mechanics operate on |
-| top of it. When the diamond collapses, the player begins gripping,    |
-| forcing, and fighting. When it holds, the player redirects and        |
-| guides.                                                               |
-+-----------------------------------------------------------------------+
+| top of it. When the diamond collapses, the player begins gripping, |
+| forcing, and fighting. When it holds, the player redirects and |
+| guides. |
+
 
 1.5 The Elbow as Structural Strut
 
@@ -208,35 +208,35 @@ is tense, the tension is likely caused by an upstream blockage --- a
 rigid torso, a frozen shoulder, a locked hip. The TCS coach learns to
 read the whole system and trace symptoms to their upstream causes.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *When a player tells you \'my forehand feels forced,\' do not look at |
-| their forehand. Look at their hip loading pattern. The forehand is    |
-| the symptom. The hip is the diagnosis.*                               |
-+-----------------------------------------------------------------------+
+| **COACH NOTE** |
+| --- |
+|  |
+| *When a player tells you 'my forehand feels forced,' do not look at |
+| their forehand. Look at their hip loading pattern. The forehand is |
+| the symptom. The hip is the diagnosis.* |
+
 
 1.7 The Tai Chi Analogy: Jia Zi and Jin
 
 Across the chapters of this manual, we will occasionally refer to
 principles from Tai Chi Chuan --- not as an exotic cross-reference, but
-because Tai Chi represents one of the world\'s most sophisticated
+because Tai Chi represents one of the world's most sophisticated
 practical systems for understanding how the body transmits force. Two
 concepts are particularly relevant.
 
-The first is Jia Zi, which translates approximately as \'structural
-frame\' or \'posture frame.\' In Tai Chi practice, maintaining the Jia
+The first is Jia Zi, which translates approximately as 'structural
+frame' or 'posture frame.' In Tai Chi practice, maintaining the Jia
 Zi means keeping the body organized so that force can flow through it
 without interruption. A collapsed frame --- a rounded shoulder, a tucked
 elbow, a locked knee --- breaks the Jia Zi. The practitioner then cannot
-\'receive\' force without absorbing it in the wrong places, and cannot
-\'issue\' force without losing it to structural inefficiency. The
+'receive' force without absorbing it in the wrong places, and cannot
+'issue' force without losing it to structural inefficiency. The
 diamond frame in tennis is the Jia Zi of the upper body.
 
 The second concept is Jin, which refers to trained force --- force that
 is intelligent, directed, and whole-body in origin. Jin is explicitly
 distinguished from Li, which is brute muscular force. Li is local; Jin
-is systemic. A player who \'muscles\' the ball --- who hits with the arm
+is systemic. A player who 'muscles' the ball --- who hits with the arm
 alone --- is using Li. A player whose lower body loads, whose hip
 rotates, whose torso uncoils, whose arm merely guides the final
 trajectory --- that player is approaching Jin. This is what the kinetic
@@ -250,19 +250,19 @@ system, it produces more force, more consistently, with less effort, and
 with far less injury risk than when it operates as a collection of
 independently contracting muscles.
 
-1.8 The Coach\'s Fundamental Reframe
+1.8 The Coach's Fundamental Reframe
 
-Everything in this manual flows from a single reframe of the coach\'s
+Everything in this manual flows from a single reframe of the coach's
 role. The traditional coach is a technique teacher: they hold the model
 of the correct stroke and help the player approximate it. The TCS coach
-is a systems engineer: they observe the player\'s control system,
+is a systems engineer: they observe the player's control system,
 identify which layer is failing, and design training interventions that
 restore function at that layer before building upward.
 
 This reframe has profound practical implications. A TCS coach does not
-tell a player to \'roll the wrist more\' on the forehand when the real
+tell a player to 'roll the wrist more' on the forehand when the real
 problem is a frozen hip. A TCS coach does not instruct a player to
-\'stay balanced\' when the real problem is that their split-step timing
+'stay balanced' when the real problem is that their split-step timing
 is destroying their proprioceptive baseline before the shot begins. A
 TCS coach does not work on anticipation with a player who cannot yet
 accurately sense where their racket is during the swing.
@@ -272,14 +272,14 @@ And the answer to that question determines everything that follows ---
 the drills, the feedback style, the progression, the KPIs, and the
 timeline.
 
-+-----------------------------------------------------------------------+
-| **TCS COACHING PRINCIPLE**                                            |
-|                                                                       |
-| Never work on a higher layer when a lower layer is failing. Fix the   |
-| structure before the sensor. Fix the sensor before the controller.    |
-| Fix the controller before the predictor. The hierarchy is             |
-| non-negotiable.                                                       |
-+-----------------------------------------------------------------------+
+| **TCS COACHING PRINCIPLE** |
+| --- |
+|  |
+| Never work on a higher layer when a lower layer is failing. Fix the |
+| structure before the sensor. Fix the sensor before the controller. |
+| Fix the controller before the predictor. The hierarchy is |
+| non-negotiable. |
+
 
 1.9 How to Use This Manual
 
@@ -317,7 +317,7 @@ development.
 
 The central argument of the Tennis Control System is this: tennis
 performance is not primarily a technique problem. It is a systems
-problem. The player\'s body, nervous system, and mind must function as
+problem. The player's body, nervous system, and mind must function as
 an integrated control system --- structurally sound, sensorially
 accurate, corrective in real time, predictive in advance, and adaptive
 under chaos. Technique is what emerges when all these layers are
@@ -338,44 +338,44 @@ perform reliably under pressure, who improve their game without constant
 technical intervention, who find the flow state in competition ---
 justify every unconventional investment.
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 1 --- Foundational Assessment Drills**      |
-|                                                                       |
-| • Shadow swing observation: Watch player shadow-swing forehand,       |
-| backhand, volley. Note: Is diamond frame present? Are elbows serving  |
-| as struts? Does the frame collapse at any point?                      |
-|                                                                       |
-| • Wall tap drill: Player taps ball against wall continuously. Coach   |
-| watches the whole frame --- not just the contact. Where does the      |
-| structure first break down?                                           |
-|                                                                       |
-| • Eyes-closed ready position hold: Player closes eyes, adopts ready   |
+| **DRILL BLOCK --- Chapter 1 --- Foundational Assessment Drills** |
+| --- |
+|  |
+| • Shadow swing observation: Watch player shadow-swing forehand, |
+| backhand, volley. Note: Is diamond frame present? Are elbows serving |
+| as struts? Does the frame collapse at any point? |
+|  |
+| • Wall tap drill: Player taps ball against wall continuously. Coach |
+| watches the whole frame --- not just the contact. Where does the |
+| structure first break down? |
+|  |
+| • Eyes-closed ready position hold: Player closes eyes, adopts ready |
 | position, holds for 10 seconds. Coach observes frame geometry without |
-| the player\'s visual compensation system.                             |
-|                                                                       |
+| the player's visual compensation system. |
+|  |
 | • One-hand, one-finger grip volley: Player holds racket with only the |
-| index finger and thumb. Forces the frame to do the work rather than   |
-| the grip. Reveals structural deficiencies immediately.                |
-|                                                                       |
-| • Catch-and-freeze: Coach feeds balls. Player catches each one and    |
-| freezes at the moment of \'contact.\' Coach photographs or records    |
-| the frame at contact for analysis.                                    |
-+-----------------------------------------------------------------------+
+| index finger and thumb. Forces the frame to do the work rather than |
+| the grip. Reveals structural deficiencies immediately. |
+|  |
+| • Catch-and-freeze: Coach feeds balls. Player catches each one and |
+| freezes at the moment of 'contact.' Coach photographs or records |
+| the frame at contact for analysis. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER TWO**                                                       |
-|                                                                       |
-| **The Kinetic Chain**                                                 |
-|                                                                       |
-| *How energy travels from ground to racket head*                       |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER TWO** |
+| --- |
+|  |
+| **The Kinetic Chain** |
+|  |
+| *How energy travels from ground to racket head* |
+
 
 2.1 The Ground Is Where the Power Begins
 
 It is one of the most counterintuitive facts in all of sports: in a 130
 km/h forehand, the arm contributes less than 20 percent of the final
 racket-head speed. The rest comes from the ground up. The legs push
-against the earth. The earth pushes back --- Newton\'s third law,
+against the earth. The earth pushes back --- Newton's third law,
 applied to sport. This ground reaction force is the spark that initiates
 the entire power cascade.
 
@@ -395,16 +395,16 @@ Each must be developed. And critically, each must activate in the
 correct sequence --- proximal before distal, base before apex,
 slow-moving large segments before fast-moving small ones.
 
-+-----------------------------------------------------------------------+
-| **THE WHIP PRINCIPLE**                                                |
-|                                                                       |
-| A whip creates its crack because mass decreases from handle to tip    |
+| **THE WHIP PRINCIPLE** |
+| --- |
+|  |
+| A whip creates its crack because mass decreases from handle to tip |
 | while force transmits sequentially. The large handle decelerates; the |
-| thin tip accelerates dramatically. The human kinetic chain operates   |
-| identically. The hip is the handle --- large, slow, powerful. The     |
-| racket head is the tip --- small, fast, carrying the accumulated      |
-| energy of everything below it.                                        |
-+-----------------------------------------------------------------------+
+| thin tip accelerates dramatically. The human kinetic chain operates |
+| identically. The hip is the handle --- large, slow, powerful. The |
+| racket head is the tip --- small, fast, carrying the accumulated |
+| energy of everything below it. |
+
 
 2.2 The Foot-Ground Interface: Building the Foundation
 
@@ -418,14 +418,14 @@ The optimal foot-ground interface for a groundstroke involves the entire
 foot --- heel, lateral arch, ball, and toes --- making contact with the
 surface in a way that creates maximum ground reaction force. This is not
 a passive contact. The great players actively drive into the court.
-Observe a top player\'s leg drive on the forehand: the loading leg does
+Observe a top player's leg drive on the forehand: the loading leg does
 not simply plant --- it explodes downward and inward, loading the whole
 leg spring before the hip begins its rotation.
 
 The split-step deserves special attention here. The split-step is not
 merely a footwork technique --- it is a neurological preparation
 mechanism. The light bounce and simultaneous landing of both feet
-immediately before the opponent\'s contact creates a pre-loaded state in
+immediately before the opponent's contact creates a pre-loaded state in
 the muscular system (the stretch-shortening cycle) that dramatically
 reduces the time needed to initiate movement in any direction. A player
 who does not split-step is always starting from zero. A player who
@@ -453,7 +453,7 @@ hip rotation begins.
 The ankle and calf (Achilles tendon complex) provide a secondary elastic
 system. On approach shots and serves, the push-off from the balls of the
 feet engages the powerful elastic properties of the Achilles. This is
-why tennis coaches emphasize \'staying light on your feet\' --- it is
+why tennis coaches emphasize 'staying light on your feet' --- it is
 not a matter of weight but of readiness; players on their heels cannot
 access the ankle spring, and therefore lose the first link in the
 kinetic chain.
@@ -467,7 +467,7 @@ deep rotators --- are among the strongest muscle groups in the human
 body. They are designed for exactly the kind of explosive rotational
 power that tennis demands.
 
-The hip\'s contribution to racket-head speed is primarily rotational. As
+The hip's contribution to racket-head speed is primarily rotational. As
 the body coils during preparation, the hips are loaded in the opposite
 direction of the swing --- the right hip (for a right-handed player)
 moves backward and inward on a forehand, storing rotational potential
@@ -482,15 +482,15 @@ shoulder rotation while the hip is already decelerating. This sequence,
 repeated correctly, produces the separation that drives high racket-head
 speed.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *When a player hits \'all arm,\' the diagnostic is almost always      |
-| insufficient hip loading --- not a problem with the arm itself. Have  |
-| the player hold a medicine ball and practice the hip loading pattern  |
-| before they touch a racket. Once the hips fire correctly, arm speed   |
-| often resolves itself.*                                               |
-+-----------------------------------------------------------------------+
+| **COACH NOTE** |
+| --- |
+|  |
+| *When a player hits 'all arm,' the diagnostic is almost always |
+| insufficient hip loading --- not a problem with the arm itself. Have |
+| the player hold a medicine ball and practice the hip loading pattern |
+| before they touch a racket. Once the hips fire correctly, arm speed |
+| often resolves itself.* |
+
 
 2.5 The Pelvis: Torque Converter
 
@@ -501,7 +501,7 @@ rotation that will drive the shoulder. Without a stable, mobile pelvis,
 energy from the legs simply does not make it to the upper body
 effectively.
 
-\'Stable yet mobile\' sounds paradoxical but describes precisely what
+'Stable yet mobile' sounds paradoxical but describes precisely what
 the pelvis must be during a groundstroke. Stable meaning: the pelvis
 does not tilt anteriorly or posteriorly (losing lumbar alignment) or
 collapse laterally (losing the hip-to-spine energy bridge). Mobile
@@ -590,7 +590,7 @@ capsule. When the internal rotation releases --- driven by the momentum
 of the chain below, not by active shoulder muscling --- it adds a final
 burst of angular acceleration to the arm.
 
-A shoulder that is tense or \'trying to help\' shortens this lag. The
+A shoulder that is tense or 'trying to help' shortens this lag. The
 player who consciously pulls their shoulder into the swing, rather than
 allowing it to be pulled by the momentum of the chain, is
 short-circuiting the amplification mechanism. This is felt as effort
@@ -600,12 +600,12 @@ pace.
 2.8 The Arm: Bridge, Not Motor
 
 Here the coaching counter-intuition reaches its peak. The arm --- the
-part of the body that most players identify as \'the thing that hits the
-ball\' --- is, from a kinetic chain perspective, a bridge and a guide.
+part of the body that most players identify as 'the thing that hits the
+ball' --- is, from a kinetic chain perspective, a bridge and a guide.
 It does not generate the power. It transmits and directs what the whole
 chain below it has generated.
 
-A relaxed arm transmits the chain\'s energy with high efficiency. A
+A relaxed arm transmits the chain's energy with high efficiency. A
 tense arm --- gripped, rigid, trying to add force --- creates a
 blockage. The wave hits the tense arm and reflects back, reducing the
 energy reaching the racket head. This is not a metaphor:
@@ -630,12 +630,12 @@ groundstroke, particularly the forehand topspin, it provides a final
 amplification: the lag of the wrist behind the arm, followed by its snap
 through contact, is the last whip in the cascade. This wrist lag is not
 actively created --- it is the natural elastic response of a relaxed
-wrist to the acceleration of the forearm. Players who try to \'snap the
-wrist\' consciously usually eliminate the lag by contracting too early.
+wrist to the acceleration of the forearm. Players who try to 'snap the
+wrist' consciously usually eliminate the lag by contracting too early.
 
 In the volley and return of serve, the wrist shifts to a stability
 function --- it locks the racket face relative to the forearm, ensuring
-that the diamond frame\'s structural properties are maintained through
+that the diamond frame's structural properties are maintained through
 the contact. A loose wrist on a volley is like a broken weld in a truss:
 the whole frame loses its geometric rigidity at the critical moment.
 
@@ -687,45 +687,45 @@ and their upstream causes are described below.
                                  overwork          
   -------------- --------------- ----------------- ----------------
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 2 --- Kinetic Chain Development Drills**    |
-|                                                                       |
-| • Medicine ball hip throw: Player loads hips, throws medicine ball    |
-| against wall with both hands. Focus on hip initiation --- not arm     |
-| throw. Feel the power source.                                         |
-|                                                                       |
+| **DRILL BLOCK --- Chapter 2 --- Kinetic Chain Development Drills** |
+| --- |
+|  |
+| • Medicine ball hip throw: Player loads hips, throws medicine ball |
+| against wall with both hands. Focus on hip initiation --- not arm |
+| throw. Feel the power source. |
+|  |
 | • Separation drill: Player coils (hip and shoulder both turned), then |
-| releases hip ONLY while shoulder stays back. Counts to \'one\' on hip |
-| fire. Then releases shoulder. Builds sequential timing.               |
-|                                                                       |
-| • Arm hang forehand: Player swings forehand with arm completely limp  |
-| (only holding racket with light touch). Teaches that the arm can be   |
-| passive while the chain generates speed.                              |
-|                                                                       |
-| • Rubber band resistance hip drill: Resistance band around hips,      |
-| player must fight through resistance to complete rotation. Develops   |
-| hip power and awareness.                                              |
-|                                                                       |
-| • Chain stop drill: Player executes full forehand but freezes at      |
-| contact. Coach checks: are hips past the ball? Is shoulder still      |
-| opening? Is wrist lagged? Builds sequential awareness.                |
-|                                                                       |
+| releases hip ONLY while shoulder stays back. Counts to 'one' on hip |
+| fire. Then releases shoulder. Builds sequential timing. |
+|  |
+| • Arm hang forehand: Player swings forehand with arm completely limp |
+| (only holding racket with light touch). Teaches that the arm can be |
+| passive while the chain generates speed. |
+|  |
+| • Rubber band resistance hip drill: Resistance band around hips, |
+| player must fight through resistance to complete rotation. Develops |
+| hip power and awareness. |
+|  |
+| • Chain stop drill: Player executes full forehand but freezes at |
+| contact. Coach checks: are hips past the ball? Is shoulder still |
+| opening? Is wrist lagged? Builds sequential awareness. |
+|  |
 | • Knee bend measurement: Tape a piece of tape at a specific height on |
-| a cone. Player must clear it with their back knee on forehand         |
-| preparation. Ensures consistent elastic loading.                      |
-|                                                                       |
-| • Closed-eyes forehand feed: Close eyes, coach feeds slowly. Player   |
-| must \'feel\' the chain firing rather than watching the ball. Builds  |
-| internal kinetic awareness.                                           |
-+-----------------------------------------------------------------------+
+| a cone. Player must clear it with their back knee on forehand |
+| preparation. Ensures consistent elastic loading. |
+|  |
+| • Closed-eyes forehand feed: Close eyes, coach feeds slowly. Player |
+| must 'feel' the chain firing rather than watching the ball. Builds |
+| internal kinetic awareness. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER THREE**                                                     |
-|                                                                       |
-| **Structural Integrity and Frame Mechanics**                          |
-|                                                                       |
-| *Building the chassis before building the engine*                     |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER THREE** |
+| --- |
+|  |
+| **Structural Integrity and Frame Mechanics** |
+|  |
+| *Building the chassis before building the engine* |
+
 
 3.1 Why Structure Comes First
 
@@ -747,7 +747,7 @@ to some degree.
 3.2 The Ready Position as Structural Baseline
 
 The ready position is not a rest state. It is a structurally optimal
-preparation state --- the body\'s equivalent of a bridge in its unloaded
+preparation state --- the body's equivalent of a bridge in its unloaded
 configuration, engineered to respond to load in any direction without
 collapse. Every element of the correct ready position serves a
 structural or mechanical purpose.
@@ -785,44 +785,44 @@ triangles (upper and lower diamonds) organized to move efficiently in
 any direction, receive force from any angle, and transmit energy through
 any stroke.
 
-+---------------------------------+------------------------------------+
-| **Structural Ready Position     | **Common Ready Position Failures** |
-| Checklist**                     |                                    |
-|                                 | ✗ Feet too narrow --- unstable     |
-| ✓ Wide base (shoulder-width+)   | base                               |
-|                                 |                                    |
-| ✓ Knees 15-25° flexed           | ✗ Knees locked --- no spring       |
-|                                 | loading                            |
-| ✓ Hips forward, gluteals        |                                    |
-| engaged                         | ✗ Pelvis tucked --- gluteals       |
-|                                 | disengaged                         |
-| ✓ Spine upright, thorax open    |                                    |
-|                                 | ✗ Racket at hip --- outside visual |
-| ✓ Arms in front, elbows at      | frame                              |
-| 100-130°                        |                                    |
-|                                 | ✗ Elbows tucked --- no structural  |
-| ✓ Racket at sternum height      | strut                              |
-|                                 |                                    |
-| ✓ Shoulders relaxed and wide    | ✗ Shoulders hunched --- diamond    |
-|                                 | collapsed                          |
-| ✓ Head neutral, eyes level      |                                    |
-|                                 | ✗ Chin up --- cervical strain      |
-| ✓ Weight on balls of feet       |                                    |
-|                                 | ✗ Heels down --- ankle spring      |
-| ✓ Diamond frame present         | unavailable                        |
-|                                 |                                    |
-|                                 | ✗ Weight back --- first step       |
-|                                 | delayed                            |
-|                                 |                                    |
-|                                 | ✗ Arms separated --- frame open    |
-+---------------------------------+------------------------------------+
+| **Structural Ready Position | **Common Ready Position Failures** |
+| --- | --- |
+| Checklist** |  |
+|  | ✗ Feet too narrow --- unstable |
+| ✓ Wide base (shoulder-width+) | base |
+|  |  |
+| ✓ Knees 15-25° flexed | ✗ Knees locked --- no spring |
+|  | loading |
+| ✓ Hips forward, gluteals |  |
+| engaged | ✗ Pelvis tucked --- gluteals |
+|  | disengaged |
+| ✓ Spine upright, thorax open |  |
+|  | ✗ Racket at hip --- outside visual |
+| ✓ Arms in front, elbows at | frame |
+| 100-130° |  |
+|  | ✗ Elbows tucked --- no structural |
+| ✓ Racket at sternum height | strut |
+|  |  |
+| ✓ Shoulders relaxed and wide | ✗ Shoulders hunched --- diamond |
+|  | collapsed |
+| ✓ Head neutral, eyes level |  |
+|  | ✗ Chin up --- cervical strain |
+| ✓ Weight on balls of feet |  |
+|  | ✗ Heels down --- ankle spring |
+| ✓ Diamond frame present | unavailable |
+|  |  |
+|  | ✗ Weight back --- first step |
+|  | delayed |
+|  |  |
+|  | ✗ Arms separated --- frame open |
+
 
 3.3 The Volley Frame: Maximum Structural Rigidity
 
 The volley demands the highest structural rigidity of any tennis stroke.
 The ball arrives fast, contact time is measured in milliseconds, and
 there is no time for the elastic generation cycle of a groundstroke. The
-player must redirect the ball\'s energy through a frame that does not
+player must redirect the ball's energy through a frame that does not
 deform at contact.
 
 In a correctly executed volley, the diamond frame is maintained from the
@@ -839,16 +839,16 @@ the elbow collapses, the shoulders round forward. These are not
 technique failures --- they are structural failures, and they are
 diagnosed and corrected structurally.
 
-+-----------------------------------------------------------------------+
-| **THE BLOCK VOLLEY MODEL**                                            |
-|                                                                       |
-| Think of the block volley as a wall, not a swing. The wall does not   |
-| move toward the ball --- the ball comes to the wall and redirects. A  |
-| structurally perfect volley barely moves. The movement that is        |
-| visible (the step forward, the slight lean) is structural             |
-| positioning, not swing. The racket face simply intercepts the ball\'s |
-| path.                                                                 |
-+-----------------------------------------------------------------------+
+| **THE BLOCK VOLLEY MODEL** |
+| --- |
+|  |
+| Think of the block volley as a wall, not a swing. The wall does not |
+| move toward the ball --- the ball comes to the wall and redirects. A |
+| structurally perfect volley barely moves. The movement that is |
+| visible (the step forward, the slight lean) is structural |
+| positioning, not swing. The racket face simply intercepts the ball's |
+| path. |
+
 
 3.4 The Return of Serve Frame: Controlled Redirection
 
@@ -864,7 +864,7 @@ highly active. The split-step is critical here: without it, the return
 is always late. With it, the body can coil even in the limited time
 available and redirect the serve with controlled force.
 
-The return backswing --- often described simply as a \'shoulder turn\'
+The return backswing --- often described simply as a 'shoulder turn'
 --- is structurally a unit rotation: the entire upper body frame rotates
 as a unit toward the ball, and then rotates back. There is no
 independent arm backswing. The arm stays within the diamond. The
@@ -876,7 +876,7 @@ Groundstrokes present a more complex structural picture because the
 frame must transition from a stable, organized state (preparation)
 through a dynamically elastic state (swing) back to a stable state
 (follow-through and recovery). This transition --- often described
-simply as \'relaxing into the swing\' --- is a structural phenomenon
+simply as 'relaxing into the swing' --- is a structural phenomenon
 that takes months to develop and years to master.
 
 The preparation frame for a forehand looks much like the ready position
@@ -930,13 +930,13 @@ resisted years of direct correction --- may have a fascial or movement
 restriction component that requires off-court bodywork (massage, yoga,
 fascial release techniques) before on-court improvement is possible.
 Referring players to appropriate practitioners is part of the TCS
-coach\'s toolkit.
+coach's toolkit.
 
 3.7 Structural Assessment Protocol
 
 Before beginning any technical work with a new player, the TCS coach
 conducts a structural assessment. This is a 15-20 minute session that
-evaluates the key structural elements of the player\'s current system.
+evaluates the key structural elements of the player's current system.
 It does not involve feeding balls or running drills --- it is a
 diagnostic baseline.
 
@@ -992,24 +992,24 @@ for achieving this. But the process begins with structural work, because
 the nervous system cannot reliably recognize a structure it has not yet
 experienced clearly.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *When a player looks more tense after structural coaching than        |
-| before, it is usually because they are now consciously trying to      |
+| **COACH NOTE** |
+| --- |
+|  |
+| *When a player looks more tense after structural coaching than |
+| before, it is usually because they are now consciously trying to |
 | implement what they just learned. This is a normal phase --- it looks |
-| like regression but is actually a necessary step. Be patient. The     |
+| like regression but is actually a necessary step. Be patient. The |
 | conscious effort phase precedes the automatic phase. Tell the player: |
-| \'Your brain is learning to hold this without thinking. Right now it  |
-| needs to think. In six weeks it won\'t.\'*                            |
-+-----------------------------------------------------------------------+
+| 'Your brain is learning to hold this without thinking. Right now it |
+| needs to think. In six weeks it won't.'* |
+
 
 3.9 Structure Under Pressure: Why Competition Breaks the Frame
 
 Every TCS coach has observed the phenomenon: a player whose structure
 looks excellent in practice completely dismantles it in competition. The
 diamond collapses. The elbows tuck in. The shoulder hunches. The wrist
-grips. And the player reports \'just feeling nervous.\'
+grips. And the player reports 'just feeling nervous.'
 
 This collapse under pressure is not primarily a mental problem --- it is
 a structural training problem. The player has achieved structural
@@ -1028,9 +1028,9 @@ environments. TCS structural training deliberately introduces pressure
 during critical moments --- so that the structural framework is trained
 at multiple arousal levels.
 
-The KPI for successful structural training is not \'does the frame look
-correct in shadow swings?\' but \'does the frame maintain its essential
-geometry at 30-40 in a third-set tiebreak?\' The gap between these two
+The KPI for successful structural training is not 'does the frame look
+correct in shadow swings?' but 'does the frame maintain its essential
+geometry at 30-40 in a third-set tiebreak?' The gap between these two
 measures is the gap that must be closed.
 
 3.10 Building Structure: The Foundation Phase
@@ -1045,7 +1045,7 @@ on:
 
 - Building split-step consistency and landing quality
 
-- Training the non-dominant arm\'s role in maintaining the upper diamond
+- Training the non-dominant arm's role in maintaining the upper diamond
 
 - Introducing proprioceptive markers (closed-eyes drills, partner touch
   points) to build body awareness
@@ -1075,53 +1075,53 @@ structural KPIs are consistently met.
   Structure under light Collapses with score     Maintained in 3-point
   pressure drill        context                  pressure sets
 
-  Grip pressure         Grips tightly under pace Reports \'light but
-  self-report                                    connected\' consistently
+  Grip pressure         Grips tightly under pace Reports 'light but
+  self-report                                    connected' consistently
   --------------------- ------------------------ ------------------------
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 3 --- Structural Integrity Drills**         |
-|                                                                       |
-| • Diamond hold drill: Player adopts ready position and partner tests  |
-| the frame by applying light pressure from multiple angles. Goal:      |
-| frame absorbs without collapsing.                                     |
-|                                                                       |
-| • Non-dominant arm discipline volley: During volley feeds,            |
+| **DRILL BLOCK --- Chapter 3 --- Structural Integrity Drills** |
+| --- |
+|  |
+| • Diamond hold drill: Player adopts ready position and partner tests |
+| the frame by applying light pressure from multiple angles. Goal: |
+| frame absorbs without collapsing. |
+|  |
+| • Non-dominant arm discipline volley: During volley feeds, |
 | non-dominant arm must remain actively in front. Coach or elastic band |
-| cue keeps it in position.                                             |
-|                                                                       |
-| • Frame photograph sequence: Camera records player at 5 positions:    |
-| ready, prep, loading, contact, follow-through. Coach and player       |
-| review together. Builds structural self-awareness.                    |
-|                                                                       |
-| • Pressure hold forehand: Player executes forehand, then holds the    |
+| cue keeps it in position. |
+|  |
+| • Frame photograph sequence: Camera records player at 5 positions: |
+| ready, prep, loading, contact, follow-through. Coach and player |
+| review together. Builds structural self-awareness. |
+|  |
+| • Pressure hold forehand: Player executes forehand, then holds the |
 | follow-through position for 3 full seconds. Forces awareness of final |
-| frame geometry.                                                       |
-|                                                                       |
-| • Blind contact drill: Player closes eyes. Coach feeds gently to      |
-| forehand side. Player makes contact by structural feel only --- no    |
-| visual cue. Trains non-visual structural organization.                |
-|                                                                       |
-| • Score-pressure shadow drill: Player shadow swings while coach       |
-| announces pressure score. Player must maintain frame quality          |
-| regardless of score called.                                           |
-|                                                                       |
-| • Towel-clamp elbow drill: Player places small towel under both       |
-| armpits. Swing must not drop towels --- keeps elbows at strut angle   |
-| throughout. Simple, effective proprioceptive cue.                     |
-+-----------------------------------------------------------------------+
+| frame geometry. |
+|  |
+| • Blind contact drill: Player closes eyes. Coach feeds gently to |
+| forehand side. Player makes contact by structural feel only --- no |
+| visual cue. Trains non-visual structural organization. |
+|  |
+| • Score-pressure shadow drill: Player shadow swings while coach |
+| announces pressure score. Player must maintain frame quality |
+| regardless of score called. |
+|  |
+| • Towel-clamp elbow drill: Player places small towel under both |
+| armpits. Swing must not drop towels --- keeps elbows at strut angle |
+| throughout. Simple, effective proprioceptive cue. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER FOUR**                                                      |
-|                                                                       |
-| **Proprioception and the Sensory System**                             |
-|                                                                       |
-| *Training the body to know itself*                                    |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER FOUR** |
+| --- |
+|  |
+| **Proprioception and the Sensory System** |
+|  |
+| *Training the body to know itself* |
+
 
 4.1 The Sixth Sense of Athletic Performance
 
-Athletes often speak of \'feel\' --- the ability to know without looking
+Athletes often speak of 'feel' --- the ability to know without looking
 where their racket is, whether the contact was clean, whether the weight
 transfer was complete. This feel is not mystical. It is the output of
 the proprioceptive system: the network of sensory receptors embedded in
@@ -1148,22 +1148,22 @@ contact. All of this information is processed in parallel, largely below
 conscious awareness, to produce the moment-by-moment adjustments that
 distinguish skilled from unskilled movement.
 
-+-----------------------------------------------------------------------+
-| **THE PROPRIOCEPTIVE PARADOX**                                        |
-|                                                                       |
-| The player who looks at their racket during the swing is trying to    |
-| use vision to compensate for poor proprioception. But this            |
-| compensatory visual reliance actually prevents proprioceptive         |
+| **THE PROPRIOCEPTIVE PARADOX** |
+| --- |
+|  |
+| The player who looks at their racket during the swing is trying to |
+| use vision to compensate for poor proprioception. But this |
+| compensatory visual reliance actually prevents proprioceptive |
 | development --- the brain outsources the sensing work to the eyes and |
-| never builds the internal model. TCS proprioceptive training          |
-| systematically removes visual reliance to force development of the    |
-| internal sensing system.                                              |
-+-----------------------------------------------------------------------+
+| never builds the internal model. TCS proprioceptive training |
+| systematically removes visual reliance to force development of the |
+| internal sensing system. |
+
 
 4.2 Proprioception Layer Failure Modes
 
-When proprioception is poor or disrupted, the player\'s experience is
-one of unreliability: they cannot reproduce the \'good\' shots they
+When proprioception is poor or disrupted, the player's experience is
+one of unreliability: they cannot reproduce the 'good' shots they
 sometimes hit because they have no accurate internal model of what
 produced them. They cannot feel the difference between a clean contact
 and a slightly mishit. They cannot sense the lag in their wrist or the
@@ -1175,7 +1175,7 @@ are:
 
 - Grip too tight: High grip pressure desensitizes the mechanoreceptors
   in the hand, reducing the feedback from contact. The player loses the
-  racket-face \'feel\' that guides precision.
+  racket-face 'feel' that guides precision.
 
 - Excessive visual compensation: Players who have developed the habit of
   watching their racket head, or keeping eyes on the court rather than
@@ -1189,12 +1189,12 @@ are:
 
 - Fatigue and overuse: Proprioceptive receptor sensitivity degrades with
   fatigue. Matches and training sessions that extend beyond the
-  player\'s current conditioning level produce proprioceptive
+  player's current conditioning level produce proprioceptive
   degradation that compounds technical errors in the late stages.
 
 - Injury history: Even healed ankle sprains, knee injuries, and shoulder
   injuries can permanently disrupt local proprioceptive networks. This
-  is why \'old\' injuries often correlate with persistent technique
+  is why 'old' injuries often correlate with persistent technique
   problems in the associated segments.
 
 4.3 Training Proprioception: Core Principles
@@ -1227,7 +1227,7 @@ between training and performance.
 The feet contain the highest density of proprioceptive tissue in the
 body. The soles of the feet are extraordinarily sensitive to pressure
 distribution, surface texture, and movement direction. This sensitivity
-is the body\'s primary ground-truth sensor --- the anchor point from
+is the body's primary ground-truth sensor --- the anchor point from
 which all other proprioceptive information is referenced.
 
 Modern tennis shoes, with their thick cushioning and rigid soles,
@@ -1246,7 +1246,7 @@ recovery after wide balls.
 
 4.5 Hip and Pelvis Proprioception
 
-The hip joint is the kinetic chain\'s primary motor (Chapter 2), and
+The hip joint is the kinetic chain's primary motor (Chapter 2), and
 proprioceptive accuracy in the hip and pelvis determines the quality of
 kinetic chain initiation. A player who cannot accurately sense their hip
 position --- whether the hip is loaded, how much rotation has occurred,
@@ -1260,7 +1260,7 @@ movements that require the player to sense the beginning, middle, and
 end of hip rotation without visual feedback. Medicine ball rotational
 exercises with eyes closed, resistance band hip loading with position
 holds, and partner-guided hip rotation with proprioceptive questioning
-(\'Where is your hip now? How far has it rotated?\') all develop this
+('Where is your hip now? How far has it rotated?') all develop this
 awareness.
 
 The payoff is significant: players with accurate hip proprioception
@@ -1283,8 +1283,8 @@ In developing players, shoulder proprioception is often the limiting
 factor in swing repeatability. The player cannot reproduce the same
 swing path twice because they do not accurately know where the arm was
 on the previous swing. They cannot feel the external rotation lag (the
-\'loading\' of the shoulder) or the internal rotation release (the
-\'firing\'). The swing is, for them, a fairly undifferentiated
+'loading' of the shoulder) or the internal rotation release (the
+'firing'). The swing is, for them, a fairly undifferentiated
 experience of moving the arm --- they cannot access the granular
 positional information that would allow them to fine-tune it.
 
@@ -1319,8 +1319,8 @@ adjustments that characterize skilled play. They are hitting with a
 blunt instrument rather than a sensitive one.
 
 Teaching lighter grip is therefore not a mechanical instruction ---
-\'hold it like a bird\' is a cliche but not wrong in principle. It is a
-sensory instruction: open up the hand\'s proprioceptive channel. The
+'hold it like a bird' is a cliche but not wrong in principle. It is a
+sensory instruction: open up the hand's proprioceptive channel. The
 mechanical improvements in contact quality that follow are the
 consequence of better sensing, not better mechanics.
 
@@ -1373,11 +1373,11 @@ instead of one.
 This multi-point sensing gives the brain much more accurate information
 about the position and orientation of the racket than a single-hand grip
 on a racket hanging passively from one arm would provide. The brain can
-triangulate the racket\'s position from multiple sensory inputs,
+triangulate the racket's position from multiple sensory inputs,
 producing a more accurate and reliable internal model.
 
 This is one reason why two-handed backhand players often report feeling
-more \'connected\' to the ball than one-handed players --- the second
+more 'connected' to the ball than one-handed players --- the second
 hand adds a proprioceptive anchor that enriches the sensory model. And
 it is one reason why learning the two-handed backhand before the
 one-hander (a practice recommendation of the TCS framework for
@@ -1390,11 +1390,11 @@ Just as structural integrity degrades under pressure (Chapter 3),
 proprioceptive accuracy degrades under pressure. High cortical arousal
 narrows attention --- the brain, facing a perceived threat (losing a
 critical point), focuses its processing resources on the most
-consciously accessible information (the ball\'s position, the
-opponent\'s location) and effectively reduces the bandwidth allocated to
+consciously accessible information (the ball's position, the
+opponent's location) and effectively reduces the bandwidth allocated to
 proprioceptive processing.
 
-The result is the characteristic \'numbness\' that players report in
+The result is the characteristic 'numbness' that players report in
 pressure moments: they lose the feel of the racket, cannot sense their
 body position clearly, and find themselves executing shots that feel
 disconnected from intention. This is not imagination --- it is a genuine
@@ -1429,55 +1429,55 @@ integrity, but the TCS framework provides several observable KPIs:
   after wide ball       reset                    1 stride of contact
 
   Grip pressure         Cannot report own grip   Can adjust grip to
-  self-monitoring       pressure                 \'light-firm\' on command
+  self-monitoring       pressure                 'light-firm' on command
 
   Split-step landing    Frequent heel landing,   \>85% ball-of-foot landing,
   quality               off-balance              stable on both sides
 
   Hip position          Cannot describe current  Accurately reports
-  reporting             hip angle                \'loaded/unloaded/rotating\'
+  reporting             hip angle                'loaded/unloaded/rotating'
                                                  on demand
   --------------------- ------------------------ ------------------------------
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 4 --- Proprioceptive Training Drills**      |
-|                                                                       |
-| • Sweetspot seek: Player closes eyes, coach touches different parts   |
-| of racket face. Player identifies where the touch was. Builds         |
-| racket-face proprioceptive map.                                       |
-|                                                                       |
-| • Eyes-closed split-step: Player stands at baseline, eyes closed. On  |
+| **DRILL BLOCK --- Chapter 4 --- Proprioceptive Training Drills** |
+| --- |
+|  |
+| • Sweetspot seek: Player closes eyes, coach touches different parts |
+| of racket face. Player identifies where the touch was. Builds |
+| racket-face proprioceptive map. |
+|  |
+| • Eyes-closed split-step: Player stands at baseline, eyes closed. On |
 | voice signal, performs split-step and reports which foot landed first |
-| and how balanced they feel.                                           |
-|                                                                       |
-| • Contact quality report: After every ball in a feed session, player  |
-| immediately reports \'clean,\' \'thin,\' \'heavy,\' or \'wide face.\' |
-| Coach confirms with video. Builds real-time contact sensing.          |
-|                                                                       |
-| • Foam pad groundstroke: Player stands on foam pad during forehand    |
-| feeding. Unstable surface amplifies foot and ankle proprioception.    |
-| Begin slow.                                                           |
-|                                                                       |
-| • Hip rotation position stops: Player coils forehand prep and stops.  |
-| Coach asks: \'How far have you rotated? Where is your weight?\'       |
-| Player describes. Builds hip proprioceptive vocabulary.               |
-|                                                                       |
-| • Vibration feel drill: Player holds racket and partner taps face     |
-| with finger in different locations. Player identifies location and    |
-| intensity of tap with eyes closed.                                    |
-|                                                                       |
-| • Slow motion proprioceptive swing: Player swings at 10% speed,       |
-| stopping at 5 predetermined positions. At each stop, coach asks       |
-| position questions. Player develops positional language.              |
-+-----------------------------------------------------------------------+
+| and how balanced they feel. |
+|  |
+| • Contact quality report: After every ball in a feed session, player |
+| immediately reports 'clean,' 'thin,' 'heavy,' or 'wide face.' |
+| Coach confirms with video. Builds real-time contact sensing. |
+|  |
+| • Foam pad groundstroke: Player stands on foam pad during forehand |
+| feeding. Unstable surface amplifies foot and ankle proprioception. |
+| Begin slow. |
+|  |
+| • Hip rotation position stops: Player coils forehand prep and stops. |
+| Coach asks: 'How far have you rotated? Where is your weight?' |
+| Player describes. Builds hip proprioceptive vocabulary. |
+|  |
+| • Vibration feel drill: Player holds racket and partner taps face |
+| with finger in different locations. Player identifies location and |
+| intensity of tap with eyes closed. |
+|  |
+| • Slow motion proprioceptive swing: Player swings at 10% speed, |
+| stopping at 5 predetermined positions. At each stop, coach asks |
+| position questions. Player develops positional language. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER FIVE**                                                      |
-|                                                                       |
-| **PID Control --- Real-Time Error Correction**                        |
-|                                                                       |
-| *The body\'s automatic feedback loop*                                 |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER FIVE** |
+| --- |
+|  |
+| **PID Control --- Real-Time Error Correction** |
+|  |
+| *The body's automatic feedback loop* |
+
 
 5.1 What Is PID Control?
 
@@ -1495,11 +1495,11 @@ corrective output that attempts to eliminate the error. This
 comparison-correction cycle repeats continuously, typically many times
 per second.
 
-The \'P\' component produces a correction proportional to the current
-error --- the bigger the error, the bigger the correction. The \'I\'
+The 'P' component produces a correction proportional to the current
+error --- the bigger the error, the bigger the correction. The 'I'
 component accounts for accumulated past errors --- systematic errors
 that repeat over time are corrected by building up an integral
-correction. The \'D\' component responds to the rate of change of the
+correction. The 'D' component responds to the rate of change of the
 error --- if the error is growing rapidly, the derivative component
 amplifies the correction; if the error is already being corrected, it
 dampens the response to prevent overshoot.
@@ -1512,18 +1512,18 @@ controllers. But the functional structure is similar: sense the current
 state, compare to the desired state, compute correction, apply
 correction, repeat.
 
-+-----------------------------------------------------------------------+
-| **PID IN TENNIS --- A SIMPLE EXAMPLE**                                |
-|                                                                       |
-| A player is executing a forehand. The desired state is: racket face   |
-| perpendicular to target at contact, contact point at body height in   |
-| front of the body. The sensory system reports: racket face slightly   |
-| open (tilting backward), contact point slightly behind the body. The  |
-| PID system generates corrections: the wrist adjusts to close the      |
-| face, the body rotates slightly more to bring the contact point       |
-| forward. These adjustments happen in milliseconds, below conscious    |
-| awareness, dozens of times per stroke.                                |
-+-----------------------------------------------------------------------+
+| **PID IN TENNIS --- A SIMPLE EXAMPLE** |
+| --- |
+|  |
+| A player is executing a forehand. The desired state is: racket face |
+| perpendicular to target at contact, contact point at body height in |
+| front of the body. The sensory system reports: racket face slightly |
+| open (tilting backward), contact point slightly behind the body. The |
+| PID system generates corrections: the wrist adjusts to close the |
+| face, the body rotates slightly more to bring the contact point |
+| forward. These adjustments happen in milliseconds, below conscious |
+| awareness, dozens of times per stroke. |
+
 
 5.2 The P Component: Proportional Correction
 
@@ -1542,7 +1542,7 @@ address the error) or over-scaled (too much correction, producing
 overshoot and new errors).
 
 The classic over-correction pattern --- known in engineering as
-\'hunting\' --- appears in tennis as the player who consistently
+'hunting' --- appears in tennis as the player who consistently
 alternates between two error types: hitting too long and then too short,
 too wide left and then too wide right. The P component is too
 aggressive, generating corrections that overshoot the target and create
@@ -1664,7 +1664,7 @@ Cascade control is an extension of PID control applied to systems with
 hierarchical structure. In cascade control, an outer control loop sets
 the reference point for an inner control loop. The inner loop then uses
 PID control to achieve the reference set by the outer loop,
-independently of the outer loop\'s own operation.
+independently of the outer loop's own operation.
 
 In tennis, cascade control describes the sequential activation of the
 kinetic chain. The outer loop --- the strategic intention (direction,
@@ -1678,8 +1678,8 @@ below.
 The practical coaching implication of cascade thinking is this: correct
 sequencing produces correct individual segment outputs automatically. A
 player whose hip fires at the right time, with the right speed and
-direction, \'tells\' the torso what to do. A torso that uncoils
-correctly \'tells\' the shoulder what to do. The cascade down through
+direction, 'tells' the torso what to do. A torso that uncoils
+correctly 'tells' the shoulder what to do. The cascade down through
 the chain means that fixing the first link (hip initiation) often
 resolves problems throughout the rest of the chain without explicitly
 correcting them.
@@ -1691,16 +1691,16 @@ The result is that each segment must do more work independently,
 producing the effortful, muscled appearance of a player fighting against
 their own kinetic chain.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *When a player\'s arm seems to be doing everything --- swinging too   |
+| **COACH NOTE** |
+| --- |
+|  |
+| *When a player's arm seems to be doing everything --- swinging too |
 | hard, breaking the wrist early, trying to generate pace independently |
-| --- the diagnostic is not \'arm problem.\' It is \'cascade            |
-| breakdown.\' The arm is overworking because the hip and torso did not |
-| provide their reference. Find the cascade break point, and the arm    |
-| typically calms down on its own.*                                     |
-+-----------------------------------------------------------------------+
+| --- the diagnostic is not 'arm problem.' It is 'cascade |
+| breakdown.' The arm is overworking because the hip and torso did not |
+| provide their reference. Find the cascade break point, and the arm |
+| typically calms down on its own.* |
+
 
 5.8 Common PID Failure Patterns in Match Play
 
@@ -1789,48 +1789,48 @@ automation. This is why the TCS curriculum allocates 3 full weeks to
 control development (Weeks 4-6 of the 12-week plan), and why the drills
 during this phase are high-volume and varied.
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 5 --- PID and Cascade Control Drills**      |
-|                                                                       |
-| • Error-correction forehand sequence: Coach feeds ball to force late  |
-| contact point. Player corrects and reports what they changed. Next    |
+| **DRILL BLOCK --- Chapter 5 --- PID and Cascade Control Drills** |
+| --- |
+|  |
+| • Error-correction forehand sequence: Coach feeds ball to force late |
+| contact point. Player corrects and reports what they changed. Next |
 | ball fed earlier --- player must under-correct. Builds P calibration. |
-|                                                                       |
-| • Cascade stop drill: Player begins forehand swing. Coach calls       |
-| \'stop\' at random point. Player freezes. Coach evaluates: have hips  |
-| fired? Has shoulder separated? Is cascade sequenced correctly?        |
-|                                                                       |
-| • Variation feed rally: 10-ball feed with random speed and spin       |
-| variation. Player adjusts on each ball. No pattern. Develops general  |
-| PID adaptive capacity.                                                |
-|                                                                       |
-| • Target zone narrowing: Player aims at 1m x 1m target zone.          |
-| Gradually narrow target to 0.5m x 0.5m, then 0.3m x 0.3m. Each        |
-| reduction requires finer PID precision.                               |
-|                                                                       |
-| • Recovery correction drill: Coach feeds wide, forcing full stretch.  |
-| Player reaches and makes contact. Next ball fed to the opposite       |
-| corner --- player must fully recover and reposition. Develops D       |
-| component (predicting next position needed).                          |
-|                                                                       |
-| • Hip first, stop, then swing: Player loads hip. Coach calls \'hip\'  |
-| --- player fires hip only and freezes. Coach calls \'torso\' ---      |
-| torso fires. Coach calls \'arm\' --- arm completes. Builds cascade    |
-| awareness.                                                            |
-|                                                                       |
-| • Consecutive error detection: Player hits 10 balls. For each,        |
-| immediately reports: \'early, late, clean, wide-face, closed-face.\'  |
-| Coach records and discusses. Builds I component --- systematic error  |
-| awareness.                                                            |
-+-----------------------------------------------------------------------+
+|  |
+| • Cascade stop drill: Player begins forehand swing. Coach calls |
+| 'stop' at random point. Player freezes. Coach evaluates: have hips |
+| fired? Has shoulder separated? Is cascade sequenced correctly? |
+|  |
+| • Variation feed rally: 10-ball feed with random speed and spin |
+| variation. Player adjusts on each ball. No pattern. Develops general |
+| PID adaptive capacity. |
+|  |
+| • Target zone narrowing: Player aims at 1m x 1m target zone. |
+| Gradually narrow target to 0.5m x 0.5m, then 0.3m x 0.3m. Each |
+| reduction requires finer PID precision. |
+|  |
+| • Recovery correction drill: Coach feeds wide, forcing full stretch. |
+| Player reaches and makes contact. Next ball fed to the opposite |
+| corner --- player must fully recover and reposition. Develops D |
+| component (predicting next position needed). |
+|  |
+| • Hip first, stop, then swing: Player loads hip. Coach calls 'hip' |
+| --- player fires hip only and freezes. Coach calls 'torso' --- |
+| torso fires. Coach calls 'arm' --- arm completes. Builds cascade |
+| awareness. |
+|  |
+| • Consecutive error detection: Player hits 10 balls. For each, |
+| immediately reports: 'early, late, clean, wide-face, closed-face.' |
+| Coach records and discusses. Builds I component --- systematic error |
+| awareness. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER SIX**                                                       |
-|                                                                       |
-| **Stroke Mechanics Through the Control Lens**                         |
-|                                                                       |
-| *Each stroke as a distinct control problem*                           |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER SIX** |
+| --- |
+|  |
+| **Stroke Mechanics Through the Control Lens** |
+|  |
+| *Each stroke as a distinct control problem* |
+
 
 6.1 Strokes as Control Problems
 
@@ -1853,14 +1853,14 @@ The block volley represents the tennis stroke that places the highest
 demands on structural integrity and the lowest demands on elastic
 generation. The ball arrives with its own energy --- typically at speeds
 between 80 and 160 km/h for a well-struck groundstroke --- and the
-player\'s task is to redirect that energy with minimal addition of their
+player's task is to redirect that energy with minimal addition of their
 own force.
 
 From a control perspective, the block volley is a force redirection
-problem. The incoming force vector (the ball\'s momentum) must be
+problem. The incoming force vector (the ball's momentum) must be
 intercepted by the racket at the correct angle and absorbed into a frame
 that does not deform significantly at contact. The output --- the
-ball\'s new direction and speed --- is determined primarily by the angle
+ball's new direction and speed --- is determined primarily by the angle
 of the racket face at contact, and only secondarily by any additional
 force the player applies.
 
@@ -1880,15 +1880,15 @@ well adjusts the racket face angle, the contact height, and the body
 position before the ball arrives, so that the intercept is correct
 without any reactive correction.
 
-+-----------------------------------------------------------------------+
-| **VOLLEY CONTROL PRINCIPLE**                                          |
-|                                                                       |
-| The volley is won or lost before the ball arrives. The 200-300ms      |
-| window between perceiving the ball and making contact is the only     |
-| window for PID control to operate. After contact begins, the outcome  |
+| **VOLLEY CONTROL PRINCIPLE** |
+| --- |
+|  |
+| The volley is won or lost before the ball arrives. The 200-300ms |
+| window between perceiving the ball and making contact is the only |
+| window for PID control to operate. After contact begins, the outcome |
 | is already determined by whatever frame was in place. Great volleyers |
-| are great anticipators.                                               |
-+-----------------------------------------------------------------------+
+| are great anticipators. |
+
 
 6.3 The Return of Serve: Controlled Deflection Under Time Pressure
 
@@ -1906,7 +1906,7 @@ observers realize.
 
 The return of serve therefore relies heavily on pre-contact prediction
 (Chapter 7): the player must begin anticipating direction and speed
-before the ball is struck, based on reading the server\'s toss, stance,
+before the ball is struck, based on reading the server's toss, stance,
 ball placement, and service motion. The PID control loop for a return of
 serve is almost entirely predictive --- the correction must be in place
 before the ball arrives, not after.
@@ -1997,7 +1997,7 @@ preparation loads the entire shoulder-arm complex elastically.
 
 The cascade for the one-handed backhand fires sequentially: hip leads,
 torso uncoils, shoulder pulls the arm through like a fishing rod, the
-elbow extends, and the arm follows the shoulder\'s momentum out toward
+elbow extends, and the arm follows the shoulder's momentum out toward
 contact. The contact point is in front of the body --- further in front
 than most beginners expect --- and the follow-through completes with the
 arm fully extended and the wrist firm.
@@ -2016,7 +2016,7 @@ The slice occupies a structural middle ground between the volley
 controlled deceleration through contact --- the opposite of the
 acceleration through contact in a topspin stroke --- and generates its
 characteristic backspin by the downward angle of the swing path relative
-to the ball\'s flight.
+to the ball's flight.
 
 Structurally, the slice requires a more rigid upper diamond than the
 topspin forehand, but a more active arm than the block volley. The elbow
@@ -2034,11 +2034,11 @@ and eliminate the spin-generating deceleration.
 6.7 The Serve: The Complete Control System in a Single Stroke
 
 The serve is the only stroke in tennis initiated entirely by the player
-without responding to an opponent\'s ball. This removes the
+without responding to an opponent's ball. This removes the
 time-pressure and ball-tracking demands that dominate all other strokes,
 but introduces the unique challenge of building speed from a standing
 start. The serve must generate the full elastic kinetic chain without
-the benefit of the ball\'s incoming energy.
+the benefit of the ball's incoming energy.
 
 The serve cascade is the longest and most complex in tennis: foot push →
 knee extension → hip drive → torso lean → shoulder elevation → external
@@ -2052,20 +2052,20 @@ sport.
 The TCS approach to serve development begins, as always, with structure:
 the stance, the toss, the basic catch-position (where the body is at the
 moment of ball toss). It then develops the leg drive --- the kinetic
-chain\'s foundation --- before addressing any upper body element. Serves
-developed \'top-down\' (fixing the arm before the legs) consistently
-fail to generate pace and break down under pressure because the chain\'s
+chain's foundation --- before addressing any upper body element. Serves
+developed 'top-down' (fixing the arm before the legs) consistently
+fail to generate pace and break down under pressure because the chain's
 foundation is never built.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *A player with a beautiful trophy position but no leg drive has a     |
-| technically correct serve that produces no power. A player with       |
-| imperfect trophy position but explosive legs has a serve that always  |
-| generates pace, even when mechanics are not perfect. Build the legs   |
-| first. Always.*                                                       |
-+-----------------------------------------------------------------------+
+| **COACH NOTE** |
+| --- |
+|  |
+| *A player with a beautiful trophy position but no leg drive has a |
+| technically correct serve that produces no power. A player with |
+| imperfect trophy position but explosive legs has a serve that always |
+| generates pace, even when mechanics are not perfect. Build the legs |
+| first. Always.* |
+
 
 6.8 Footwork as Control Layer Foundation
 
@@ -2079,7 +2079,7 @@ poor output --- regardless of arm position, grip, or follow-through.
 The split-step is the foundational footwork element, covered in Chapter
 3. But the recovery footwork after each stroke is equally critical and
 less often trained systematically. Recovery footwork determines the
-player\'s structural state at the beginning of the next shot: a good
+player's structural state at the beginning of the next shot: a good
 recovery leaves the player in a balanced ready position with the diamond
 frame intact and the proprioceptive baseline stable. A poor recovery
 leaves the player off-balance, leaning in the wrong direction, with a
@@ -2098,8 +2098,8 @@ Individual stroke mechanics are necessary but not sufficient for
 match-level performance. The real control challenge is multi-shot
 sequencing: maintaining structural integrity, proprioceptive accuracy,
 and PID control quality across a sequence of five, ten, or twenty shots
-in a rally. Each shot\'s structural quality affects the next shot\'s
-baseline; each contact\'s PID outcome shapes the next contact\'s
+in a rally. Each shot's structural quality affects the next shot's
+baseline; each contact's PID outcome shapes the next contact's
 reference state.
 
 Players who can execute a perfect forehand in isolation but fall apart
@@ -2107,7 +2107,7 @@ in a ten-ball rally are demonstrating a sequencing failure: they have
 not developed the capacity to reset the control system between shots.
 The physical recovery (back to ready position), the proprioceptive reset
 (re-establishing sensory baseline), and the cognitive reset (clearing
-the previous shot\'s memory and focusing on the next ball) all take time
+the previous shot's memory and focusing on the next ball) all take time
 and practice.
 
 Sequencing drills --- specifically, multi-ball rally sequences that
@@ -2130,54 +2130,54 @@ positions that are mechanically optimal.
 
 This is the deepest claim of the TCS framework: technique is not
 installed by instruction. Technique emerges from system function. The
-coach\'s job is to build the system. The technique takes care of itself.
+coach's job is to build the system. The technique takes care of itself.
 
 This does not mean coaches never discuss technique. It means that
-technique discussion is always in service of a system diagnosis: \'Your
+technique discussion is always in service of a system diagnosis: 'Your
 elbow is tucking in (observation) because your shoulder is tensing early
-(diagnosis) because your hip is not fully loading (root cause).\' The
+(diagnosis) because your hip is not fully loading (root cause).' The
 technical observation leads immediately to a system-level cause, and the
 intervention addresses the system, not the observable symptom.
 
-+-----------------------------------------------------------------------+
 | **DRILL BLOCK --- Chapter 6 --- Stroke Mechanics Integration Drills** |
-|                                                                       |
-| • Stroke comparison contrast: Hit 5 block volleys, then 5 forehand    |
-| topspin. Notice the different structural modes. Then alternate one    |
-| volley, one forehand. Trains rapid mode switching.                    |
-|                                                                       |
+| --- |
+|  |
+| • Stroke comparison contrast: Hit 5 block volleys, then 5 forehand |
+| topspin. Notice the different structural modes. Then alternate one |
+| volley, one forehand. Trains rapid mode switching. |
+|  |
 | • Cascade breakdown forehand: Perform forehand with only hip rotation |
-| (no arm swing). Then add torso. Then add shoulder. Then full swing.   |
-| Each stage adds one cascade link.                                     |
-|                                                                       |
-| • One-handed backhand wrist drill: Perform full backhand but freeze   |
-| the wrist at contact. Hold the contact position for 3 seconds.        |
-| Develop proprioceptive contact point precision.                       |
-|                                                                       |
-| • Return simulation: Partner mimics serve toss (without actual        |
-| serve). Returner reads toss and begins preparation. Develops          |
-| predictive return preparation without ball.                           |
-|                                                                       |
+| (no arm swing). Then add torso. Then add shoulder. Then full swing. |
+| Each stage adds one cascade link. |
+|  |
+| • One-handed backhand wrist drill: Perform full backhand but freeze |
+| the wrist at contact. Hold the contact position for 3 seconds. |
+| Develop proprioceptive contact point precision. |
+|  |
+| • Return simulation: Partner mimics serve toss (without actual |
+| serve). Returner reads toss and begins preparation. Develops |
+| predictive return preparation without ball. |
+|  |
 | • Serve leg drive isolation: Execute serve motion but pause at trophy |
-| position. Check leg engagement --- are both legs driving upward? Add  |
-| leg drive before adding arm speed.                                    |
-|                                                                       |
-| • 15-ball consistency challenge: Coach feeds 15 balls to forehand.    |
-| Player counts how many maintain structural quality at contact (as     |
-| judged by proprioceptive report). Goal: 12/15.                        |
-|                                                                       |
+| position. Check leg engagement --- are both legs driving upward? Add |
+| leg drive before adding arm speed. |
+|  |
+| • 15-ball consistency challenge: Coach feeds 15 balls to forehand. |
+| Player counts how many maintain structural quality at contact (as |
+| judged by proprioceptive report). Goal: 12/15. |
+|  |
 | • Recovery race drill: Player hits forehand, sprints to touch the net |
-| post, returns to center, and is immediately fed another forehand.     |
-| Trains reset and structural recovery under fatigue.                   |
-+-----------------------------------------------------------------------+
+| post, returns to center, and is immediately fed another forehand. |
+| Trains reset and structural recovery under fatigue. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER SEVEN**                                                     |
-|                                                                       |
+
+| **CHAPTER SEVEN** |
+| --- |
+|  |
 | **Model Predictive Control --- Anticipation and Pattern Recognition** |
-|                                                                       |
-| *Seeing the future before it arrives*                                 |
-+-----------------------------------------------------------------------+
+|  |
+| *Seeing the future before it arrives* |
+
 
 7.1 What Is Model Predictive Control?
 
@@ -2190,7 +2190,7 @@ model to select the current action that will produce the best outcome
 over the next several steps.
 
 In tennis, MPC corresponds to anticipation: the ability to predict where
-the ball will be, what the opponent is likely to do, and what one\'s own
+the ball will be, what the opponent is likely to do, and what one's own
 best response is --- all before any of these events have occurred. A
 player operating in MPC mode is not simply responding to the ball in
 front of them; they are simulating the next two or three shots of the
@@ -2199,37 +2199,37 @@ simulated future.
 
 MPC in tennis operates at multiple timescales. At the fastest timescale
 (milliseconds to hundreds of milliseconds), it manifests as ball-flight
-prediction: the player reads the ball\'s trajectory from the moment of
+prediction: the player reads the ball's trajectory from the moment of
 contact and predicts where it will land and bounce without waiting for
 the ball to arrive. At a medium timescale (seconds), it manifests as
-tactical anticipation: the player reads the opponent\'s positioning and
+tactical anticipation: the player reads the opponent's positioning and
 body language to predict their likely shot selection. At the slowest
 timescale (over rallies), it manifests as pattern play: the player
 constructs a multi-shot sequence designed to produce a specific opening,
 rather than simply hitting each ball in isolation.
 
-+-----------------------------------------------------------------------+
-| **THE MPC ADVANTAGE**                                                 |
-|                                                                       |
-| A player who predicts correctly has more time, better position, and   |
-| better structural preparation than a player who merely reacts. On     |
-| balls that travel at 120 km/h across a 23m court, the difference      |
-| between predicting and reacting is approximately 0.2 seconds --- the  |
-| equivalent of moving 2-3 additional steps or setting the frame 2-3    |
-| times more completely. This is the gap between offensive and          |
-| defensive play.                                                       |
-+-----------------------------------------------------------------------+
+| **THE MPC ADVANTAGE** |
+| --- |
+|  |
+| A player who predicts correctly has more time, better position, and |
+| better structural preparation than a player who merely reacts. On |
+| balls that travel at 120 km/h across a 23m court, the difference |
+| between predicting and reacting is approximately 0.2 seconds --- the |
+| equivalent of moving 2-3 additional steps or setting the frame 2-3 |
+| times more completely. This is the gap between offensive and |
+| defensive play. |
+
 
 7.2 Ball-Flight Prediction: The Internal Trajectory Model
 
 The first level of MPC in tennis is ball-flight prediction: the ability
-to compute, from the moment of the opponent\'s contact, approximately
+to compute, from the moment of the opponent's contact, approximately
 where the ball will land, how high it will bounce, and at what speed it
 will arrive. This computation happens entirely within the nervous
 system, using a learned internal model of ball physics.
 
 Expert tennis players begin moving toward the predicted landing zone
-approximately 100-150ms after the opponent\'s contact --- before the
+approximately 100-150ms after the opponent's contact --- before the
 ball has traveled more than 3-4 meters. Beginners typically wait until
 the ball has crossed the net, sometimes until it has bounced, before
 beginning to move. This difference --- roughly 0.5 to 1 second of extra
@@ -2238,7 +2238,7 @@ between expert and novice players.
 
 The internal trajectory model is built through experience: tens of
 thousands of observations of ball flight, each providing training data
-that refines the model\'s predictions. This is why young players who
+that refines the model's predictions. This is why young players who
 spend more time simply watching high-level tennis (developing their
 internal model through observation) often improve faster than those who
 spend the same time in mechanical drills. The model must be built, and
@@ -2279,7 +2279,7 @@ cues simultaneously:
   aggressive groundstroke or approach. A player on their heels predicts
   a defensive shot, likely lofted and toward the center of the court.
 
-The coach\'s role in MPC Layer 2 development is to make these cues
+The coach's role in MPC Layer 2 development is to make these cues
 explicit --- to bring them into conscious awareness --- before they can
 be processed automatically. This is the reading the game phase of player
 development, and it requires deliberate attention training, not just
@@ -2321,8 +2321,8 @@ spins, and trajectories.
 
 The most efficient training methods for MPC development include:
 
-- Predict-before-bounce drill: Player calls the landing zone (\'deep
-  cross,\' \'wide,\' \'body\') before the ball bounces. Develops
+- Predict-before-bounce drill: Player calls the landing zone ('deep
+  cross,' 'wide,' 'body') before the ball bounces. Develops
   ball-flight prediction. Begin with slow balls, progress to fast.
 
 - Opponent reading exercises: Player watches video of opponent
@@ -2342,7 +2342,7 @@ The most efficient training methods for MPC development include:
   predicts. Builds rapid pattern recognition.
 
 - Shadow tennis: Player watches a live match or video and mirrors the
-  players\' movements --- including the movements made before the ball
+  players' movements --- including the movements made before the ball
   is struck. Builds predictive movement habits.
 
 7.6 MPC and Tactical Intelligence
@@ -2358,16 +2358,16 @@ Tactical MPC begins with understanding the basic geometry of forced
 responses: a ball hit wide and low to the backhand of a player running
 at full speed will almost always return cross-court, high, and
 relatively slow --- because physics and biomechanics give them no other
-option. A ball hit aggressively to the body disrupts the player\'s
+option. A ball hit aggressively to the body disrupts the player's
 kinetic chain setup and produces a shorter, less pace-laden response. A
 deep, heavy cross-court forehand to the corner pushes the opponent
 behind the baseline and opens the opposite side.
 
 These forced-response patterns are the raw material of tactical MPC. A
-player who understands them can plan three shots ahead: \'I will hit
+player who understands them can plan three shots ahead: 'I will hit
 this ball wide to the backhand, predict the forced cross-court response,
 be ready in the center, and hit my forehand inside-out to the open
-court.\' This is not reactive tennis --- it is proactive, designed,
+court.' This is not reactive tennis --- it is proactive, designed,
 system-level play.
 
 7.7 The MPC Layer and Decision Speed
@@ -2380,10 +2380,10 @@ pauses, considers patterns, and sometimes seems slower on the ball than
 before the training began.
 
 This is a necessary and temporary phase. The conscious processing of MPC
-information --- \'his toss is to the right, predict wide serve\' ---
+information --- 'his toss is to the right, predict wide serve' ---
 requires cortical processing time that reactive play does not. But as
 the MPC patterns become learned and automatic, the processing time drops
-dramatically. An expert player reads the opponent\'s preparation
+dramatically. An expert player reads the opponent's preparation
 automatically, without conscious thought, and begins moving before they
 are consciously aware of having made a prediction.
 
@@ -2393,7 +2393,7 @@ think. As the patterns become automatic, ball speed is progressively
 increased, compressing the available decision time until the pattern
 recognition is happening at match speed. This progression --- from slow
 and conscious to fast and automatic --- takes weeks to months, depending
-on the player\'s prior experience and pattern vocabulary.
+on the player's prior experience and pattern vocabulary.
 
 7.8 MPC Failure Modes in Match Play
 
@@ -2403,7 +2403,7 @@ Specific failure modes include:
 
 - Toss-reading failure: Player consistently returns to the wrong side of
   the court on service returns, suggesting they are not reading the
-  server\'s toss at all.
+  server's toss at all.
 
 - Pattern blindness: Player does not recognize when they have been
   maneuvered into a pattern --- they hit ball 2 of a 3-ball setup as if
@@ -2411,7 +2411,7 @@ Specific failure modes include:
   setting up ball 3.
 
 - Prediction overconfidence: Player over-reads cues and commits to a
-  direction before the opponent\'s contact. When the opponent disguises
+  direction before the opponent's contact. When the opponent disguises
   or changes direction, the player is badly wrong-footed.
 
 - Pattern repetition: Player repeatedly executes the same pattern, even
@@ -2440,19 +2440,19 @@ your own strategy. This is the domain of strategic deception, pattern
 variation, and tactical unpredictability.
 
 A player who never varies their serve pattern is easy to model --- the
-opponent builds an accurate MPC of the server\'s behavior and prepares
+opponent builds an accurate MPC of the server's behavior and prepares
 accordingly. A player who varies their serve pattern without strategic
-logic is merely random --- the opponent\'s MPC fails, but so does the
-server\'s own tactical logic. The sophisticated player varies their
-serve pattern strategically: serving wide until the opponent\'s weight
+logic is merely random --- the opponent's MPC fails, but so does the
+server's own tactical logic. The sophisticated player varies their
+serve pattern strategically: serving wide until the opponent's weight
 is drifting wide, then targeting the body; hitting cross-court until the
 opponent is cheating that direction, then going down the line.
 
 Teaching this level of tactical adaptation requires the coach to develop
-the player\'s ability to observe and model the opponent\'s MPC --- to
+the player's ability to observe and model the opponent's MPC --- to
 notice when the opponent is anticipating, when they are surprised, and
 how to exploit those states. This is advanced coaching that belongs in
-the later stages of the TCS curriculum, but it should be in the coach\'s
+the later stages of the TCS curriculum, but it should be in the coach's
 conceptual framework from the beginning.
 
 7.10 MPC KPIs and Training Progression
@@ -2482,52 +2482,52 @@ conceptual framework from the beginning.
                                                  pressure points
   --------------------- ------------------------ ------------------------
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 7 --- MPC and Anticipation Drills**         |
-|                                                                       |
+| **DRILL BLOCK --- Chapter 7 --- MPC and Anticipation Drills** |
+| --- |
+|  |
 | • Predict before bounce: All feeds at 60% speed. Player calls landing |
 | zone before ball bounces. Coach confirms. 10-ball blocks. Progress to |
-| 80% speed over weeks.                                                 |
-|                                                                       |
-| • Toss reading: Partner practices serving toss only (no strike).      |
-| Returner calls predicted direction. 20 repetitions. Develop toss      |
-| vocabulary before live serves.                                        |
-|                                                                       |
-| • 3-ball pattern construction: Coach specifies pattern (e.g., serve   |
+| 80% speed over weeks. |
+|  |
+| • Toss reading: Partner practices serving toss only (no strike). |
+| Returner calls predicted direction. 20 repetitions. Develop toss |
+| vocabulary before live serves. |
+|  |
+| • 3-ball pattern construction: Coach specifies pattern (e.g., serve |
 | body, return crosscourt, approach DTL). Player executes. 5 sets of 3. |
-| Review what broke the pattern.                                        |
-|                                                                       |
-| • Video anticipation: Show match video. Pause at opponent contact     |
-| preparation. Player calls shot direction before playing forward.      |
-| Builds pre-contact reading.                                           |
-|                                                                       |
-| • Shadow tennis with prediction: Player shadows a live rally, moving  |
-| to the predicted ball position before the actual ball arrives. Used   |
-| with video initially, then live matches.                              |
-|                                                                       |
+| Review what broke the pattern. |
+|  |
+| • Video anticipation: Show match video. Pause at opponent contact |
+| preparation. Player calls shot direction before playing forward. |
+| Builds pre-contact reading. |
+|  |
+| • Shadow tennis with prediction: Player shadows a live rally, moving |
+| to the predicted ball position before the actual ball arrives. Used |
+| with video initially, then live matches. |
+|  |
 | • Constrained rally play: During practice rally, player must announce |
-| their next shot (\'cross\', \'line\', \'drop\') before hitting it.    |
-| Forces conscious MPC planning.                                        |
-|                                                                       |
-| • Wrong-foot detection drill: Coach signals direction with hand.      |
-| Player moves that direction. Coach occasionally sends ball the other  |
-| way. Player must detect the \'wrong-foot\' setup and recover.         |
-+-----------------------------------------------------------------------+
+| their next shot ('cross', 'line', 'drop') before hitting it. |
+| Forces conscious MPC planning. |
+|  |
+| • Wrong-foot detection drill: Coach signals direction with hand. |
+| Player moves that direction. Coach occasionally sends ball the other |
+| way. Player must detect the 'wrong-foot' setup and recover. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER EIGHT**                                                     |
-|                                                                       |
-| **Chaos, Fuzzy Logic, and Adaptive Control**                          |
-|                                                                       |
-| *Performing reliably in uncertain environments*                       |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER EIGHT** |
+| --- |
+|  |
+| **Chaos, Fuzzy Logic, and Adaptive Control** |
+|  |
+| *Performing reliably in uncertain environments* |
+
 
 8.1 The Nature of Chaos in Tennis
 
 Tennis is a chaotic sport. This is not a casual observation --- it is a
-precise technical claim. The ball\'s incoming trajectory is never
+precise technical claim. The ball's incoming trajectory is never
 exactly predictable: spin variation, wind, court surface imperfections,
-racket-string interaction, and the opponent\'s technical variability all
+racket-string interaction, and the opponent's technical variability all
 introduce uncertainty into every shot. No two balls are identical. No
 two rallies unfold exactly the same way. The player who can only
 function in perfectly predictable conditions cannot function reliably in
@@ -2555,38 +2555,38 @@ Classical logic is binary: a statement is either true or false. A ball
 is either in or out. A shot is either correct or incorrect. Classical
 PID control assumes that errors can be measured precisely and
 corrections computed mathematically. But real match play does not
-present precise information. The ball is \'kind of early,\' the opponent
-is \'a bit wide,\' the serve was \'slightly too deep.\' Decisions must
+present precise information. The ball is 'kind of early,' the opponent
+is 'a bit wide,' the serve was 'slightly too deep.' Decisions must
 be made on approximate, partial, uncertain information --- often within
 200 milliseconds.
 
 Fuzzy logic is a mathematical framework that extends classical logic to
-handle approximate, graded truths. Instead of \'the ball is fast\' (true
-or false), fuzzy logic allows \'the ball is 70% fast, 30% medium\' --- a
+handle approximate, graded truths. Instead of 'the ball is fast' (true
+or false), fuzzy logic allows 'the ball is 70% fast, 30% medium' --- a
 graded membership across categories. This allows reasoning systems to
 make sensible decisions from imprecise input data, producing decisions
 that are not perfect but are reliably reasonable.
 
 The human nervous system operates in a functionally fuzzy mode during
 match play. Experienced players have developed internal fuzzy categories
---- \'about this fast,\' \'roughly that direction,\' \'approximately at
-contact height\' --- and their control systems can operate effectively
+--- 'about this fast,' 'roughly that direction,' 'approximately at
+contact height' --- and their control systems can operate effectively
 on these approximate classifications. Novice players, lacking these
 fuzzy categories, are often paralyzed by uncertainty: they cannot commit
 to a response because they do not have crisp information to drive a
 crisp decision.
 
-+-----------------------------------------------------------------------+
-| **DEVELOPING FUZZY DECISION CAPACITY**                                |
-|                                                                       |
-| The goal is not to eliminate uncertainty --- that is impossible in    |
-| match play. The goal is to develop the capacity to make good          |
-| decisions from uncertain information. A player who can decide and     |
-| commit quickly on imprecise information will outperform a player who  |
-| requires perfect information to decide, because perfect information   |
-| never arrives. Acceptable is the enemy of perfect in tennis           |
-| decision-making.                                                      |
-+-----------------------------------------------------------------------+
+| **DEVELOPING FUZZY DECISION CAPACITY** |
+| --- |
+|  |
+| The goal is not to eliminate uncertainty --- that is impossible in |
+| match play. The goal is to develop the capacity to make good |
+| decisions from uncertain information. A player who can decide and |
+| commit quickly on imprecise information will outperform a player who |
+| requires perfect information to decide, because perfect information |
+| never arrives. Acceptable is the enemy of perfect in tennis |
+| decision-making. |
+
 
 8.3 Entropy Training: Systematic Exposure to Chaos
 
@@ -2598,8 +2598,8 @@ randomizes these variables --- and progressively increases the degree of
 randomization as the player develops adaptive capacity.
 
 The neurological rationale for entropy training is well-established in
-motor learning science under the label \'random practice\' or
-\'contextual interference.\' The interference that variability
+motor learning science under the label 'random practice' or
+'contextual interference.' The interference that variability
 introduces into practice forces the nervous system to reconstruct the
 appropriate motor program for each repetition from scratch, rather than
 simply repeating a cached pattern. This extra computational work is
@@ -2663,7 +2663,7 @@ players reach Level 5-6 during the Chaos Phase (Weeks 9-10) of the
 
 8.5 The Freeze Response: When Chaos Overwhelms Control
 
-When entropy exceeds the player\'s adaptive capacity, a characteristic
+When entropy exceeds the player's adaptive capacity, a characteristic
 failure mode emerges: the freeze. The player stops moving. They hesitate
 at the moment of commitment. They swing and miss entirely, or they block
 the ball with no preparation. The internal experience is one of
@@ -2672,20 +2672,20 @@ clearly correct, the decision engine paralyzed by a combinatorial
 explosion of possibilities.
 
 The freeze is not a character failure. It is a control system failure:
-the player\'s fuzzy logic capacity has been exceeded, and the system has
+the player's fuzzy logic capacity has been exceeded, and the system has
 no default mode to fall back on. In engineering terms, the controller
 has been given an input outside its operating range and has gone to a
 fail state.
 
 The solution is not to avoid challenging situations but to build the
 operating range progressively. Entropy training at the appropriate level
---- challenging but not overwhelming --- expands the player\'s operating
+--- challenging but not overwhelming --- expands the player's operating
 range incrementally. Players who are consistently exposed to entropy at
 Level 3-4 while they are genuinely functioning at Level 2-3 eventually
 develop the capacity for Level 3-4 without freezing. Then they can be
 challenged at Level 4-5.
 
-A practical coaching indicator for entropy overload: the player\'s
+A practical coaching indicator for entropy overload: the player's
 split-step timing degrades, or disappears entirely. The split-step is
 the foundational preparation mechanism --- when it disappears, the
 player has lost access to their basic structural preparation because the
@@ -2713,25 +2713,25 @@ ball position based on wind strength and direction --- have a
 significant advantage in outdoor play.
 
 TCS wind adaptation training involves practicing in conditions with
-actual wind whenever possible, and using coaches\' manual feed
+actual wind whenever possible, and using coaches' manual feed
 disruption (feeding balls with added spin or irregular pace to simulate
 wind effects) when outdoor conditions are unavailable. The goal is to
-build a wind-compensation model within the player\'s MPC layer: the
+build a wind-compensation model within the player's MPC layer: the
 ability to automatically adjust trajectory predictions based on
 environmental conditions.
 
 8.7 Pressure as Entropy Amplifier
 
 Match pressure does not just create anxiety --- it functionally
-increases the entropy of the player\'s control system. Under pressure,
-the player\'s attentional narrowing reduces the precision of
+increases the entropy of the player's control system. Under pressure,
+the player's attentional narrowing reduces the precision of
 proprioceptive sensing. Their cardiovascular activation changes their
 body state (increased muscle tension, different breathing pattern,
 altered timing). Their conscious interference with automatic processes
---- the classic \'yips\' effect, where thinking about an automatic skill
+--- the classic 'yips' effect, where thinking about an automatic skill
 disrupts it --- introduces noise into every control layer.
 
-The consequence is that a player\'s effective entropy tolerance drops
+The consequence is that a player's effective entropy tolerance drops
 under pressure. A player who handles Level 5 entropy in a relaxed
 practice session may only be able to handle Level 3 entropy in a
 pressure match. This drop in effective capacity is predictable and
@@ -2746,16 +2746,16 @@ will bring them back to Level 4. Players who train only up to their
 desired performance level will find that pressure pushes them below that
 level in match play.
 
-+-----------------------------------------------------------------------+
-| **COACH NOTE**                                                        |
-|                                                                       |
-| *When a player says \'I play much better in practice than in          |
-| matches,\' the diagnostic is almost always a practice-entropy         |
-| deficit. Their practice entropy level is significantly below their    |
-| match entropy level, so they have not built the buffer capacity       |
-| needed to maintain performance under pressure. Raise the practice     |
-| entropy.*                                                             |
-+-----------------------------------------------------------------------+
+| **COACH NOTE** |
+| --- |
+|  |
+| *When a player says 'I play much better in practice than in |
+| matches,' the diagnostic is almost always a practice-entropy |
+| deficit. Their practice entropy level is significantly below their |
+| match entropy level, so they have not built the buffer capacity |
+| needed to maintain performance under pressure. Raise the practice |
+| entropy.* |
+
 
 8.8 Error Acceptance and Resilience
 
@@ -2776,7 +2776,7 @@ disturbance) that impairs the next operation.
 
 Developing error acceptance is part of the chaotic resilience training
 protocol. Specific practices include: drills where errors are expected
-and acceptable (high entropy deliberately beyond the player\'s current
+and acceptable (high entropy deliberately beyond the player's current
 capacity), score formats that reward resilience after errors (points
 scored after an error count double), and explicit post-error reset
 protocols (a consistent physical and breathing routine that
@@ -2825,51 +2825,51 @@ alone would predict.
 This closing of the practice-match gap is the most observable
 consequence of TCS chaotic resilience training. Players who have
 completed the chaos phase of the curriculum frequently report that
-matches feel \'easier\' --- not because they are easier, but because the
+matches feel 'easier' --- not because they are easier, but because the
 control systems are functioning at a higher level than the match
 environment requires. The match is Level 6 entropy; the player is
 functioning at Level 7. The experience is one of surplus capacity rather
 than overwhelm.
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 8 --- Chaos and Adaptive Control Drills**   |
-|                                                                       |
-| • Random spin and speed feed: Coach feeds with random spin (topspin,  |
-| slice, flat) and random speed (60-100%). No warning of what\'s        |
+| **DRILL BLOCK --- Chapter 8 --- Chaos and Adaptive Control Drills** |
+| --- |
+|  |
+| • Random spin and speed feed: Coach feeds with random spin (topspin, |
+| slice, flat) and random speed (60-100%). No warning of what's |
 | coming. Player must read and adapt. Start 5-ball blocks, build to 15. |
-|                                                                       |
-| • Messy rally constraint: During rally practice, no pattern is        |
-| allowed. Both players must change direction every shot. Eliminates    |
-| pattern reliance, forces genuine ball-reading.                        |
-|                                                                       |
-| • Constrained decision time: Coach feeds at medium pace but player    |
-| must begin movement before the ball crosses the net (pre-contact      |
-| movement requirement). Forces predictive commitment.                  |
-|                                                                       |
-| • Pressure + chaos tiebreak: Play tiebreak format with chaotic feed   |
-| instead of normal serve. Every point involves random feed to start.   |
-| Score is kept. Combines entropy and pressure.                         |
-|                                                                       |
-| • Defensive scramble recovery: Coach feeds extremely difficult balls  |
-| --- wide, short, deep, fast, random. Player must make contact only    |
-| (no direction requirement). Develops pure adaptive control.           |
-|                                                                       |
+|  |
+| • Messy rally constraint: During rally practice, no pattern is |
+| allowed. Both players must change direction every shot. Eliminates |
+| pattern reliance, forces genuine ball-reading. |
+|  |
+| • Constrained decision time: Coach feeds at medium pace but player |
+| must begin movement before the ball crosses the net (pre-contact |
+| movement requirement). Forces predictive commitment. |
+|  |
+| • Pressure + chaos tiebreak: Play tiebreak format with chaotic feed |
+| instead of normal serve. Every point involves random feed to start. |
+| Score is kept. Combines entropy and pressure. |
+|  |
+| • Defensive scramble recovery: Coach feeds extremely difficult balls |
+| --- wide, short, deep, fast, random. Player must make contact only |
+| (no direction requirement). Develops pure adaptive control. |
+|  |
 | • Error reset protocol practice: Intentionally miss 5 balls in a row. |
-| After each, execute reset routine (breath, bounce, bounce, ready).    |
-| Then hit 3 balls at full quality. Trains error resilience.            |
-|                                                                       |
-| • Wind simulation: Coach stands 1m from net and creates fan-like      |
+| After each, execute reset routine (breath, bounce, bounce, ready). |
+| Then hit 3 balls at full quality. Trains error resilience. |
+|  |
+| • Wind simulation: Coach stands 1m from net and creates fan-like |
 | disturbance with towel on every other ball. Player must adapt contact |
-| timing. Simulates wind variability.                                   |
-+-----------------------------------------------------------------------+
+| timing. Simulates wind variability. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER NINE**                                                      |
-|                                                                       |
-| **Instinct, Flow, and the Integrated Player**                         |
-|                                                                       |
-| *When the system disappears and only the game remains*                |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER NINE** |
+| --- |
+|  |
+| **Instinct, Flow, and the Integrated Player** |
+|  |
+| *When the system disappears and only the game remains* |
+
 
 9.1 The Paradox of Expert Performance
 
@@ -2886,18 +2886,18 @@ This disappearance of the training architecture is not a failure --- it
 is the goal. The systems do not cease to exist in the flow state; they
 become so fully automated that they operate without cortical oversight.
 The conscious mind is freed from system management and can engage with
-the game at a purely strategic, intuitive level. The player\'s attention
+the game at a purely strategic, intuitive level. The player's attention
 is on the ball, the opponent, the pattern of the rally --- not on the
 mechanics generating the shots that execute the strategy.
 
 This is what the TCS framework ultimately builds toward: a player whose
 seven control layers operate automatically, in parallel, in real time,
-without conscious management --- leaving the player\'s awareness free to
+without conscious management --- leaving the player's awareness free to
 inhabit the game rather than monitor their own body.
 
 9.2 The Concept of Instinct in Motor Learning
 
-\'Instinct\' in the context of athletic performance is a specific
+'Instinct' in the context of athletic performance is a specific
 technical concept, not a mystical one. It describes motor patterns that
 have been trained to the level of implicit memory --- stored not in the
 cortical, conscious, declarative memory system (where we store facts and
@@ -2914,7 +2914,7 @@ basal ganglia, and motor cortex operate the skill in a highly automated
 way that requires minimal prefrontal oversight.
 
 For the TCS coach, this neurological reality means that the path from
-\'consciously correct\' to \'automatically correct\' requires volume ---
+'consciously correct' to 'automatically correct' requires volume ---
 enormous volume of quality repetitions across varied conditions. There
 is no shortcut. The only way to encode a motor pattern at the
 subcortical level is to repeat it enough times, in enough contexts, with
@@ -2922,16 +2922,16 @@ enough precision, that the subcortical systems take over its management.
 This is why TCS Phase 5 (instinct formation) is deliberately high-volume
 and deliberately stripped of conscious instruction.
 
-+-----------------------------------------------------------------------+
-| **THE AUTOMATICITY THRESHOLD**                                        |
-|                                                                       |
-| Research in motor learning suggests that a complex motor pattern      |
+| **THE AUTOMATICITY THRESHOLD** |
+| --- |
+|  |
+| Research in motor learning suggests that a complex motor pattern |
 | reaches initial automaticity after approximately 5,000-10,000 quality |
-| repetitions. \'Quality\' means correctly executed --- repetitions of  |
-| poor form reinforce poor patterns at the same rate. This is why       |
-| structural training comes first: you cannot afford to spend 5,000     |
-| repetitions encoding a structurally deficient movement pattern.       |
-+-----------------------------------------------------------------------+
+| repetitions. 'Quality' means correctly executed --- repetitions of |
+| poor form reinforce poor patterns at the same rate. This is why |
+| structural training comes first: you cannot afford to spend 5,000 |
+| repetitions encoding a structurally deficient movement pattern. |
+
 
 9.3 From Cascade to Collapse: The Instinct Transition
 
@@ -2950,11 +2950,11 @@ elements have become invisible to consciousness because they are
 executing automatically.
 
 Coaching a player who has achieved cascade collapse requires a
-significant style shift. The TCS coach\'s role changes from technical
+significant style shift. The TCS coach's role changes from technical
 instructor to performance environment designer. The coach is no longer
-correcting mechanics --- the player\'s body is managing mechanics
+correcting mechanics --- the player's body is managing mechanics
 without cortical input. The coach is instead designing the practice
-environment to maintain and develop the player\'s performance
+environment to maintain and develop the player's performance
 characteristics: the match pressure level, the opponent variety, the
 pattern complexity, the entropy level. The coach becomes a curator of
 challenge, not a teacher of technique.
@@ -2979,12 +2979,12 @@ signal processing.
 
 Flow is not a mystical state available only to elite athletes. It is a
 state accessible to anyone whose skill level is appropriately matched to
-the challenge level of the activity. Csikszentmihalyi\'s core finding
+the challenge level of the activity. Csikszentmihalyi's core finding
 was that flow occurs when challenge and skill are in balance --- when
 the activity is neither too easy (producing boredom) nor too hard
-(producing anxiety), but precisely at the edge of the player\'s current
+(producing anxiety), but precisely at the edge of the player's current
 capacity. This has direct implications for practice design:
-flow-supporting practice operates at the edge of the player\'s current
+flow-supporting practice operates at the edge of the player's current
 performance capacity, not comfortably below it or overwhelmingly above
 it.
 
@@ -3000,17 +3000,17 @@ necessary for flow to occur in tennis practice and match play:
 
 - Proprioceptive richness: The player must be sensing accurately without
   thinking about sensing. When proprioception is functioning
-  automatically, the player can be \'in the ball\' rather than \'in
-  their body.\'
+  automatically, the player can be 'in the ball' rather than 'in
+  their body.'
 
 - PID automation: Error corrections must be happening below conscious
   awareness. A player monitoring their own corrections cannot enter full
   flow --- they are observing rather than performing.
 
 - Clear goals: The player must have a clear, present-moment intention.
-  Vague, outcome-focused goals (\'I need to win this match\') disrupt
-  flow. Specific, process-focused goals (\'I will attack the backhand
-  when the ball is short\') facilitate it.
+  Vague, outcome-focused goals ('I need to win this match') disrupt
+  flow. Specific, process-focused goals ('I will attack the backhand
+  when the ball is short') facilitate it.
 
 - Challenge-skill balance: The match must be genuinely challenging but
   not overwhelming. A player dramatically outmatched or dramatically
@@ -3032,17 +3032,17 @@ execution rather than conscious learning.
 
 Specific elements of flow-training weeks include: long rally sets with
 minimal coaching interruption; match-play formats where the player must
-function without technical feedback between points; \'no-stop\' training
+function without technical feedback between points; 'no-stop' training
 (continuous play for 30-60 minutes without pause for correction); and
-performance focus training --- where the player\'s explicit attention is
+performance focus training --- where the player's explicit attention is
 on the game (ball, opponent, pattern) rather than on their own
 mechanics.
 
-The coach\'s communication style changes dramatically in these phases.
-Instead of \'your elbow is dropping --- fix it,\' the TCS coach says
-\'that was great --- what did you notice about where the ball went?\'
-The player\'s experience of their own performance becomes the focus of
-discussion, not the coach\'s observation. This shift supports
+The coach's communication style changes dramatically in these phases.
+Instead of 'your elbow is dropping --- fix it,' the TCS coach says
+'that was great --- what did you notice about where the ball went?'
+The player's experience of their own performance becomes the focus of
+discussion, not the coach's observation. This shift supports
 internalized performance awareness rather than coach-dependency.
 
 This is also the phase where mental performance work --- visualization,
@@ -3057,20 +3057,20 @@ to prime.
 9.7 The Inner Game: Attention and Distraction
 
 The greatest internal enemy of flow is self-interference: the tendency
-of the player\'s conscious mind to comment on, evaluate, and try to
-control their own automatic processes. \'Your backswing is too long.\'
-\'You\'re not watching the ball.\' \'You\'re going to miss this.\' These
+of the player's conscious mind to comment on, evaluate, and try to
+control their own automatic processes. 'Your backswing is too long.'
+'You're not watching the ball.' 'You're going to miss this.' These
 internal commentaries are not helpful even when accurate --- they
 introduce cortical processing into a subcortical system and degrade
 automatic performance.
 
-Timothy Gallwey\'s \'Inner Game of Tennis\' --- published in 1974, long
+Timothy Gallwey's 'Inner Game of Tennis' --- published in 1974, long
 before flow state research --- identified this self-interference pattern
-and proposed a conceptual framework for minimizing it. His \'Self 1\'
-(the critical, instructing mind) versus \'Self 2\' (the natural,
+and proposed a conceptual framework for minimizing it. His 'Self 1'
+(the critical, instructing mind) versus 'Self 2' (the natural,
 automatic performance system) maps precisely onto the cortical versus
 subcortical distinction in modern neuroscience. The TCS framework
-endorses and integrates Gallwey\'s practical insights, particularly his
+endorses and integrates Gallwey's practical insights, particularly his
 technique of occupying Self 1 with a benign task (like noticing the
 seams of the ball or counting bounces) so that Self 2 can perform
 without interference.
@@ -3110,13 +3110,13 @@ Key elements of flow-supporting pre-match preparation include:
   present-moment external focus (ball seams, contact sound, court feel).
 
 - Intention setting: a brief, specific statement of process intention
-  for the match --- not an outcome goal but a behavioral commitment. \'I
-  will attack balls in the service box\' is an appropriate intention.
-  \'I must win this match\' is not.
+  for the match --- not an outcome goal but a behavioral commitment. 'I
+  will attack balls in the service box' is an appropriate intention.
+  'I must win this match' is not.
 
 9.9 The Integrated Player: All Layers Simultaneous
 
-The integrated player is the TCS framework\'s ultimate product: a player
+The integrated player is the TCS framework's ultimate product: a player
 who is simultaneously structural (the diamond frame holds
 automatically), proprioceptively accurate (sensing is rich and
 continuous without attention), corrective (PID loops running without
@@ -3153,54 +3153,54 @@ trainable skill.
 
 TCS coaches teach players to develop a post-session flow reflection
 practice: a brief (5-10 minute) structured review immediately after
-practice that captures the player\'s experience of their own performance
-state. \'When did I feel most automatic? What was I paying attention to
-during those moments? What disrupted it? How quickly did I recover?\'
+practice that captures the player's experience of their own performance
+state. 'When did I feel most automatic? What was I paying attention to
+during those moments? What disrupted it? How quickly did I recover?'
 This metacognitive awareness of their own flow patterns allows players
 to identify their personal flow triggers and disruptors --- and to
 manage their practice and match environment to support flow more
 consistently over time.
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Chapter 9 --- Instinct and Flow Training Drills**   |
-|                                                                       |
-| • 10-ball no-thinking rally: Rally 10 balls with a partner. Rule: no  |
-| internal commentary allowed. After the rally, report only what you    |
-| noticed externally (ball, opponent). Builds external focus.           |
-|                                                                       |
-| • 30-minute continuous play: Play points for 30 minutes without any   |
-| coaching interruption. No corrections, no breaks for feedback. Coach  |
-| only observes. Trains sustained automatic performance.                |
-|                                                                       |
-| • Seam awareness forehand: Player focuses exclusively on the ball\'s  |
-| seam rotation while hitting forehand feeds. Occupies conscious        |
-| attention externally while body executes automatically.               |
-|                                                                       |
-| • Pre-performance routine practice: Design and practice a 3-minute    |
-| pre-match routine (physical, proprioceptive, attentional,             |
-| intentional). Execute before every practice set for the remainder of  |
-| the curriculum.                                                       |
-|                                                                       |
-| • Flow detection exercise: After every practice set, rate on 1-10:    |
-| \'How automatic did my body feel?\' Record and track over sessions.   |
-| Builds metacognitive flow awareness.                                  |
-|                                                                       |
-| • No-stop sets: Play full sets (or 25-ball rally sequences) with no   |
-| stopping for any reason. Complete automaticity required --- the game  |
-| must continue regardless of what happens.                             |
-|                                                                       |
-| • Internal-to-external attention shift: At signal from coach, player  |
-| must shift from an internal focus word (\'smooth\') to an external    |
-| focus (\'seams\') mid-rally. Trains attentional control speed.        |
-+-----------------------------------------------------------------------+
+| **DRILL BLOCK --- Chapter 9 --- Instinct and Flow Training Drills** |
+| --- |
+|  |
+| • 10-ball no-thinking rally: Rally 10 balls with a partner. Rule: no |
+| internal commentary allowed. After the rally, report only what you |
+| noticed externally (ball, opponent). Builds external focus. |
+|  |
+| • 30-minute continuous play: Play points for 30 minutes without any |
+| coaching interruption. No corrections, no breaks for feedback. Coach |
+| only observes. Trains sustained automatic performance. |
+|  |
+| • Seam awareness forehand: Player focuses exclusively on the ball's |
+| seam rotation while hitting forehand feeds. Occupies conscious |
+| attention externally while body executes automatically. |
+|  |
+| • Pre-performance routine practice: Design and practice a 3-minute |
+| pre-match routine (physical, proprioceptive, attentional, |
+| intentional). Execute before every practice set for the remainder of |
+| the curriculum. |
+|  |
+| • Flow detection exercise: After every practice set, rate on 1-10: |
+| 'How automatic did my body feel?' Record and track over sessions. |
+| Builds metacognitive flow awareness. |
+|  |
+| • No-stop sets: Play full sets (or 25-ball rally sequences) with no |
+| stopping for any reason. Complete automaticity required --- the game |
+| must continue regardless of what happens. |
+|  |
+| • Internal-to-external attention shift: At signal from coach, player |
+| must shift from an internal focus word ('smooth') to an external |
+| focus ('seams') mid-rally. Trains attentional control speed. |
 
-+-----------------------------------------------------------------------+
-| **CHAPTER TEN**                                                       |
-|                                                                       |
-| **The 12-Week Curriculum and Assessment Framework**                   |
-|                                                                       |
-| *Complete training system from structure to flow*                     |
-+-----------------------------------------------------------------------+
+
+| **CHAPTER TEN** |
+| --- |
+|  |
+| **The 12-Week Curriculum and Assessment Framework** |
+|  |
+| *Complete training system from structure to flow* |
+
 
 10.1 Curriculum Philosophy
 
@@ -3209,12 +3209,12 @@ progressive framework with built-in flexibility for individual
 variation. Players develop at different rates; some will move through
 early phases quickly and need extra time in chaos and instinct training;
 others will require extended foundation work before control training is
-appropriate. The curriculum provides a structure, but the coach\'s
+appropriate. The curriculum provides a structure, but the coach's
 ongoing assessment determines the actual progression for each player.
 
 The non-negotiable principle is layered progression: no player advances
 past a phase until the KPIs for that phase are consistently met.
-\'Consistently\' means across multiple sessions and in varied conditions
+'Consistently' means across multiple sessions and in varied conditions
 --- not just on the best day of a given week. The temptation to rush ---
 to move a player into tactical MPC work because they are enthusiastic,
 even though their structural baseline is still fragile --- is one of the
@@ -3331,7 +3331,7 @@ tactical intentions.
 By the end of Phase 3, the player should be able to describe their
 tactical intention before playing a point and execute patterns at least
 40% of the time. The 60% that does not execute as planned represents the
-opponent\'s disruption --- which is entirely normal and expected. What
+opponent's disruption --- which is entirely normal and expected. What
 matters is that the tactical intention is present and is influencing
 shot selection, even when execution is imperfect.
 
@@ -3340,7 +3340,7 @@ shot selection, even when execution is imperfect.
 Phase 4 is the most psychologically demanding phase of the curriculum.
 Random feed replaces structured feed in most drills. Score pressure is
 integrated into every hitting segment. The player is deliberately
-challenged beyond their current comfort zone, and the coach\'s role
+challenged beyond their current comfort zone, and the coach's role
 shifts from instructor to challenge architect.
 
 The key transition coaching task in Phase 4 is helping the player
@@ -3351,27 +3351,27 @@ and reliable performance that Phase 2-3 produced. The coach must help
 them understand that this disorientation is not regression but
 challenge-level expansion.
 
-+-----------------------------------------------------------------------+
-| **DRILL BLOCK --- Phase 4 Weekly Structure**                          |
-|                                                                       |
-| • Monday: Entropy Level 4 drilling (random direction + spin). No      |
-| score. Focus on adaptive control only.                                |
-|                                                                       |
-| • Tuesday: Entropy Level 4-5 + light score context (first to 5        |
-| points, chaos feed). Trains adaptive control under mild pressure.     |
-|                                                                       |
-| • Wednesday: Active recovery. Light movement, proprioceptive work     |
-| only. No entropy.                                                     |
-|                                                                       |
-| • Thursday: Entropy Level 5 + full match score pressure. Tiebreaker   |
-| format with chaos feed.                                               |
-|                                                                       |
-| • Friday: Match-play sets with opponent who plays pattern-disrupting  |
-| style. Real competitive entropy.                                      |
-|                                                                       |
-| • Weekend: Free play. No coaching instruction. Player implements      |
-| independently.                                                        |
-+-----------------------------------------------------------------------+
+| **DRILL BLOCK --- Phase 4 Weekly Structure** |
+| --- |
+|  |
+| • Monday: Entropy Level 4 drilling (random direction + spin). No |
+| score. Focus on adaptive control only. |
+|  |
+| • Tuesday: Entropy Level 4-5 + light score context (first to 5 |
+| points, chaos feed). Trains adaptive control under mild pressure. |
+|  |
+| • Wednesday: Active recovery. Light movement, proprioceptive work |
+| only. No entropy. |
+|  |
+| • Thursday: Entropy Level 5 + full match score pressure. Tiebreaker |
+| format with chaos feed. |
+|  |
+| • Friday: Match-play sets with opponent who plays pattern-disrupting |
+| style. Real competitive entropy. |
+|  |
+| • Weekend: Free play. No coaching instruction. Player implements |
+| independently. |
+
 
 10.6 Phase 5 --- Instinct Formation (Week 11)
 
@@ -3382,17 +3382,17 @@ limited to pre-session goal-setting (behavioral intentions) and
 post-session reflection. During play, the coach observes silently except
 for safety or logistical necessity.
 
-The player\'s task in Week 11 is to play without thinking about
+The player's task in Week 11 is to play without thinking about
 technique. This is harder than it sounds. Players who have spent ten
 weeks deliberately attending to their control systems will have a strong
 habit of monitoring themselves. The coach helps them redirect this
-attention outward: to the ball\'s seams, to the opponent\'s positioning,
+attention outward: to the ball's seams, to the opponent's positioning,
 to the sound of contact --- anything external.
 
 By the end of Week 11, measurable automaticity should be visible: the
-player\'s structural variables (diamond frame, split-step, elbow angles)
+player's structural variables (diamond frame, split-step, elbow angles)
 should hold without coaching during full-match-speed play. If they do
-not --- if the player\'s structure still collapses during competitive
+not --- if the player's structure still collapses during competitive
 points --- they need additional work at Phase 2-3 before Phase 5 is
 appropriate.
 
@@ -3400,7 +3400,7 @@ appropriate.
 
 The final week integrates everything. The format is primarily match play
 --- real competitive sets, pressure situations, tactical challenges. The
-coach\'s role is minimal during play but richly analytical after:
+coach's role is minimal during play but richly analytical after:
 identifying where the player accessed flow, what disrupted it, and how
 quickly they recovered.
 
@@ -3493,13 +3493,13 @@ The most important principle for post-curriculum development is
 maintenance of the structural foundation under increasing challenge. As
 players engage in more competitive match play, at higher levels and
 higher pressure, their structural integrity will be tested more
-rigorously. The TCS coach\'s role evolves into periodic structural
+rigorously. The TCS coach's role evolves into periodic structural
 audits --- checking that the foundation remains solid as the game
 evolves --- combined with ongoing MPC and chaos development at
 increasingly high levels.
 
 Elite players --- those at 5.0 and above --- continue to develop their
-control systems throughout their careers. A professional player\'s
+control systems throughout their careers. A professional player's
 kinetic chain is still being refined after fifteen years of play. Their
 MPC pattern vocabulary continues expanding. Their chaos resilience
 continues improving. The TCS framework describes a development
@@ -3514,15 +3514,15 @@ right thing, but because the right thing has become who they are as a
 player. That is the player the Tennis Control System is designed to
 produce.
 
-+-----------------------------------------------------------------------+
-| **TCS FINAL PRINCIPLE**                                               |
-|                                                                       |
+| **TCS FINAL PRINCIPLE** |
+| --- |
+|  |
 | The goal of this entire framework --- all 12 weeks, all 7 layers, all |
-| the drills and KPIs and assessment protocols --- is a single moment:  |
+| the drills and KPIs and assessment protocols --- is a single moment: |
 | the moment when a player is in a tight match, facing a crucial point, |
-| and they do not think about their technique. They think about the     |
-| ball. Their body knows what to do. And it does it.                    |
-+-----------------------------------------------------------------------+
+| and they do not think about their technique. They think about the |
+| ball. Their body knows what to do. And it does it. |
+
 
 Appendix: Drill Library Quick Reference
 
@@ -3617,7 +3617,7 @@ Glossary of Key Terms
   Proprioception       The sensory system that reports body-segment position,
                        velocity, and force to the nervous system.
 
-  Split-step           The small bilateral jump timed to the opponent\'s
+  Split-step           The small bilateral jump timed to the opponent's
                        contact that pre-loads the musculoskeletal system for
                        rapid directional movement.
 

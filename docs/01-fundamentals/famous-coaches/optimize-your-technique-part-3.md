@@ -7,11 +7,9 @@ his analysis of the true fundamentals of the return, the volley, and the
 serve.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_optimize-your-technique-part-3/media/image1.jpg){width="2.0833333333333335in"
-height="2.4270833333333335in"} ![A person playing tennis Description
+generated](media_optimize-your-technique-part-3/media/image1.jpg) ![A person playing tennis Description
 automatically
-generated](media_optimize-your-technique-part-3/media/image2.jpg){width="2.0833333333333335in"
-height="2.4270833333333335in"}
+generated](media_optimize-your-technique-part-3/media/image2.jpg)
 
 **Note the quick turn of the shoulders and compact backswing as Agassi
 prepares to hit a backhand return and Hingis hits a forehand return.**
@@ -24,7 +22,7 @@ forehand and backhand returns.
 the ball. Focus on when contact is made to track the ball. Front
 shoulder. Think in terms of a quick turn of your front shoulder to
 rotate your upper body. Technically, other things will be happening, but
-you don\'t need to worry about them. A quick loading of the upper body
+you don't need to worry about them. A quick loading of the upper body
 will enable you to take a short backswing yet still generate power on
 your return.
 
@@ -37,7 +35,7 @@ zone by moving your feet. Try to keep your feet underneath you, as
 opposed to stretching for the ball. If you attempt to use your feet to
 get to the ball without reaching, you will move your feet more quickly
 and stay on balance. If the ball is far away or coming quickly, you will
-automatically stretch out to reach for it. The idea is that you don\'t
+automatically stretch out to reach for it. The idea is that you don't
 want to reach for the ball unless absolutely necessary.
 
 **Swing.** If you take the serve early, you should feel like you are
@@ -48,8 +46,7 @@ from the ground.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-3/media/image3.webp){width="2.65625in"
-                                                                            height="2.46875in"}
+   generated](media_optimize-your-technique-part-3/media/image3.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                       **Andre Agassi thinks only about keeping the racquet close to his body and turn his shoulders.**
 
@@ -83,13 +80,11 @@ swing on the volley, the harder it is to master the stroke. Unlike on
 ground strokes, there is not as much variation in technique on the
 volley among the top professionals.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                          |
-| confidence](media_optimize-your-technique-part-3/media/image4.jpg){width="1.9270833333333333in" | confidence](media_optimize-your-technique-part-3/media/image5.jpg){width="1.9270833333333333in" | confidence](media_optimize-your-technique-part-3/media/image6.jpg){width="1.9270833333333333in" |
-| height="2.5104166666666665in"}                                                                                                                                                     | height="2.5104166666666665in"}                                                                                                                                                     | height="2.5104166666666665in"}                                                                                                                                                     |
-+:==================================================================================================================================================================================:+:==================================================================================================================================================================================:+:==================================================================================================================================================================================:+
-| **Tim Henman prepares to hit a backhand volley.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_optimize-your-technique-part-3/media/image4.jpg) |  |  |
+| **Tim Henman prepares to hit a backhand volley.** |  |  |
+
 
 - **Prepare your racquet first and then move.** **[[When you are setting
   up for the volley, think in terms of preparing your racquet first and
@@ -123,13 +118,11 @@ volley among the top professionals.
   the strength you need on the shot, then step. This will help load the
   large-muscle groups of your upper body.]{.underline}]{.mark}**
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                      | ![A person playing tennis Description automatically                                                                                                                               | ![A person playing tennis Description automatically                                                                                                                               |
-| generated](media_optimize-your-technique-part-3/media/image7.jpg){width="1.9270833333333333in" | generated](media_optimize-your-technique-part-3/media/image8.jpg){width="1.9270833333333333in" | generated](media_optimize-your-technique-part-3/media/image9.jpg){width="1.9270833333333333in" |
-| height="2.2604166666666665in"}                                                                                                                                                    | height="2.2604166666666665in"}                                                                                                                                                    | height="2.2604166666666665in"}                                                                                                                                                    |
-+:=================================================================================================================================================================================:+:=================================================================================================================================================================================:+:=================================================================================================================================================================================:+
-| **Roger Federer executes a forehand volley. Federer displays beautiful, simple technique.**                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically |
+| --- | --- | --- |
+| generated](media_optimize-your-technique-part-3/media/image7.jpg) |  |  |
+| **Roger Federer executes a forehand volley. Federer displays beautiful, simple technique.** |  |  |
+
 
 - **Keep your elbow out on the forehand**. **[[Keep your elbow bent and
   slightly out in front of your body as you prepare for a forehand
@@ -164,8 +157,7 @@ or flipping their racquet head around on the follow-through.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-3/media/image10.webp){width="2.6666666666666665in"
-                                                                             height="2.3958333333333335in"}
+   generated](media_optimize-your-technique-part-3/media/image10.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                   **Rusedski demonstrates the two basic principles: keeping racquet work simple and being aggressive with the feet.**
 
@@ -201,15 +193,13 @@ courtesy car at the U.S. Open. I mentioned the story to him. He
 remembered the tournament but not the young boy asking him about the
 volley. The important thing is I didn't forget!
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                               |
-| confidence](media_optimize-your-technique-part-3/media/image11.webp){width="2.6875in" |
-| height="2.4375in"}                                                                                                                                                      |
-+:=======================================================================================================================================================================:+
-| **From the age of 12 Greg Rusedski followed my advice for developing and practicing his serve.**                                                                        |
-|                                                                                                                                                                         |
-|                                                                                                                                                                         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium |
+| --- |
+| confidence](media_optimize-your-technique-part-3/media/image11.webp) |
+| **From the age of 12 Greg Rusedski followed my advice for developing and practicing his serve.** |
+|  |
+|  |
+
 
 ### Serve
 
@@ -272,17 +262,13 @@ you will help your serve significantly.
   of power when you hold your breath on the hit.
 
 ![A person holding a tennis racket Description automatically
-generated](media_optimize-your-technique-part-3/media/image12.jpg){width="1.9791666666666667in"
-height="2.5833333333333335in"} ![A person playing tennis Description
+generated](media_optimize-your-technique-part-3/media/image12.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_optimize-your-technique-part-3/media/image13.jpg){width="1.9791666666666667in"
-height="2.5833333333333335in"}![A person doing a handstand in a gym
+confidence](media_optimize-your-technique-part-3/media/image13.jpg)![A person doing a handstand in a gym
 Description automatically generated with low
-confidence](media_optimize-your-technique-part-3/media/image14.jpg){width="1.9791666666666667in"
-height="2.5833333333333335in"}![A picture containing text, road, tennis,
+confidence](media_optimize-your-technique-part-3/media/image14.jpg)![A picture containing text, road, tennis,
 player Description automatically
-generated](media_optimize-your-technique-part-3/media/image15.jpg){width="1.9791666666666667in"
-height="2.5833333333333335in"}
+generated](media_optimize-your-technique-part-3/media/image15.jpg)
 
 **Andy Roddick's powerful serve.**
 
@@ -367,11 +353,10 @@ the champions of today.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have
-  confidence](media_optimize-your-technique-part-3/media/image16.jpeg){width="1.6347222222222222in"   in common and shows you how to develop them for yourself. Reading Nick\'s critically
-  height="2.3305555555555557in"}                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
+  confidence](media_optimize-your-technique-part-3/media/image16.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
                                                                                                                                                                                          the elements you can control. Play to your personal strengths. And much more. Drawing
                                                                                                                                                                                          on his experience as a player, educator and coach Nick describes the developmental
-                                                                                                                                                                                         processes followed by the world\'s top players. In clear concise language, he outlines
+                                                                                                                                                                                         processes followed by the world's top players. In clear concise language, he outlines
                                                                                                                                                                                          the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                          full potential and enhance your love of the game.\
                                                                                                                                                                                          \
@@ -382,30 +367,29 @@ the champions of today.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person wearing a white shirt Description automatically generated with medium                                                                                                     | Nick Saviano is one of the world\'s leading       |
-| confidence](media_optimize-your-technique-part-3/media/image17.jpeg){width="1.6347222222222222in" | developmental coaches and the founder and         |
-| height="2.078472222222222in"}                                                                                                                                                        | director of Saviano High Performance Tennis       |
-|                                                                                                                                                                                      | Academy, located in Davie, Florida. A former      |
-|                                                                                                                                                                                      | elite American junior player and a two time       |
-|                                                                                                                                                                                      | All-American at Stanford, Nick played on the      |
-|                                                                                                                                                                                      | professional tour for a decade, was ranked in the |
-|                                                                                                                                                                                      | top 50 in singles, and had wins over numerous     |
-|                                                                                                                                                                                      | world top 10 players. He is also the former       |
-|                                                                                                                                                                                      | director of men\'s coaching and coaching          |
-|                                                                                                                                                                                      | education for the USTA. Nick has headlined as a   |
-|                                                                                                                                                                                      | presenter at coaching conventions throughout the  |
-|                                                                                                                                                                                      | world and his critically acclaimed book \"Maximum |
-|                                                                                                                                                                                      | Tennis: 10 Keys to Unleashing Your On-Court       |
-|                                                                                                                                                                                      | Potential\" is a best selling instructional       |
-|                                                                                                                                                                                      | title.                                            |
-|                                                                                                                                                                                      |                                                   |
-|                                                                                                                                                                                      | [Click Here](http://www.savianotennis.com/) for   |
-|                                                                                                                                                                                      | more information on training with Nick Saviano.   |
-+======================================================================================================================================================================================+===================================================+
+| ![A person wearing a white shirt Description automatically generated with medium | Nick Saviano is one of the world's leading |
+| --- | --- |
+| confidence](media_optimize-your-technique-part-3/media/image17.jpeg) | director of Saviano High Performance Tennis |
+|  | Academy, located in Davie, Florida. A former |
+|  | elite American junior player and a two time |
+|  | All-American at Stanford, Nick played on the |
+|  | professional tour for a decade, was ranked in the |
+|  | top 50 in singles, and had wins over numerous |
+|  | world top 10 players. He is also the former |
+|  | director of men's coaching and coaching |
+|  | education for the USTA. Nick has headlined as a |
+|  | presenter at coaching conventions throughout the |
+|  | world and his critically acclaimed book \"Maximum |
+|  | Tennis: 10 Keys to Unleashing Your On-Court |
+|  | Potential\" is a best selling instructional |
+|  | title. |
+|  |  |
+|  | [Click Here](http://www.savianotennis.com/) for |
+|  | more information on training with Nick Saviano. |
 
-+------------------------------------------------------------------------+
-|   -------------------------------------------------------------------- |
-|                                                                        |
-|   -------------------------------------------------------------------- |
-+========================================================================+
+
+| -------------------------------------------------------------------- |
+| --- |
+|  |
+| -------------------------------------------------------------------- |
+

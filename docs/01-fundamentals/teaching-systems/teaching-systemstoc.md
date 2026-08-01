@@ -8,7 +8,7 @@
 Information can flow to the student almost randomly at
 times.]{.underline}]{.mark}** Even well know coaches and teachers,
 including some of the great ones with articles here on Tennisplayer,
-teach more or less situationally. And that\'s not necessarily bad. In
+teach more or less situationally. And that's not necessarily bad. In
 fact, it can be good or even great.
 
 But there are a handful of more systematic approaches out there, and I
@@ -18,40 +18,39 @@ that run through all the strokes, or on principles of learning theory,
 or on standardized teaching progressions, or all of the
 above.]{.underline}]{.mark}**
 
-So, in Teaching Systems we\'ll present some of these approaches,
+So, in Teaching Systems we'll present some of these approaches,
 starting with a legendary and in my opinion under recognized pioneer in
-coaching, Welby Van Horn. Never heard of him? If you\'ve ever been to
-Indian Wells (and it\'s a highly recommended event!) you may have seen
-his name on the backboards on the teaching courts: \"Welby\'s Wall.\" He
+coaching, Welby Van Horn. Never heard of him? If you've ever been to
+Indian Wells (and it's a highly recommended event!) you may have seen
+his name on the backboards on the teaching courts: \"Welby's Wall.\" He
 lives in the desert now, where his most famous former player Charlie
 Pasarell runs one of the biggest tournaments in the world outside the
 Slams.
 
-Welby\'s in his 80s, and he\'s one of the sharpest observers of the game
-I\'ve ever met. I found that he understood the modern game in great
-depth. I learned a lot listening to him, and we\'re privileged to be
+Welby's in his 80s, and he's one of the sharpest observers of the game
+I've ever met. I found that he understood the modern game in great
+depth. I learned a lot listening to him, and we're privileged to be
 starting a series of articles with him that will explicate his
 incredible teaching system for the first time, a system that starts with
 timeless fundamentals but can progress seamlessly to advanced pro
 technique.
 
-We\'re also going to present some of my own work here, the Visual Tennis
-teaching system. We\'ll start with the critical role imagery plays in
+We're also going to present some of my own work here, the Visual Tennis
+teaching system. We'll start with the critical role imagery plays in
 learning tennis, talk about how the approach worked for John McEnroe
 (which was notable I feel\...) and then work our way through the
 strokes, with an emphasis on what I find to be **[[one the most vital
 and overlooked elements in teaching and playing: the role of the hitting
 arm in biomechanics.]{.underline}]{.mark}**
 
-And that\'s just to get started. We\'ll be bringing complete
+And that's just to get started. We'll be bringing complete
 presentations of other important approaches, some that are very well
-known, and others that you\'ll hear about for the first time on
+known, and others that you'll hear about for the first time on
 Tennisplayer.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_teaching-systemstoc/media/image1.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_teaching-systemstoc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -318,7 +317,7 @@ Mental Imagery in Building Strokes
 
 Three Lessons I Learned From Rafa in Miami\--and You Can Too
 
-Imagery and Elite Players: Justine Henin\'s Forehand
+Imagery and Elite Players: Justine Henin's Forehand
 
 Mental Imagery: Synthesizing the Physical and Mental Games
 

@@ -17,8 +17,7 @@ all levels below the pro game.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A person holding a trophy Description automatically generated with low
-   confidence](media_measuring-ball-height/media/image1.webp){width="2.6666666666666665in"
-                                                                                height="2.25in"}
+   confidence](media_measuring-ball-height/media/image1.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                   **Measuring ball height is the key to taking the ball at a comfortable height for your particular stroke.**
 
@@ -51,8 +50,7 @@ also modify their stance to deal with higher balls.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_measuring-ball-height/media/image2.jpg){width="2.2916666666666665in"
-                                                                              height="3.3125in"}
+   generated](media_measuring-ball-height/media/image2.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **The most common error measuring ball height: believing the ball is going to be high in the hitting zone.**
 
@@ -73,7 +71,7 @@ going to be higher in the hitting zone than it actually
 is.]{.mark}]{.underline}**
 
 This in turn stems from two basic misperceptions about the flight of the
-ball. The first is the initial trajectory off the opponent\'s racket.
+ball. The first is the initial trajectory off the opponent's racket.
 The second is the height at which the ball crosses the net. If the
 initial trajectory of the ball is high and the ball is high when it
 crosses the net, players tend to conclude that the ball will inevitably
@@ -92,8 +90,7 @@ it is also the factor club players pay least attention to.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A person playing a guitar Description automatically generated with medium
-   confidence](media_measuring-ball-height/media/image3.webp){width="2.65625in"
-                                                                         height="2.1875in"}
+   confidence](media_measuring-ball-height/media/image3.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
         At the club level, the \"V\" swing pattern - hitting down and then up in a \"V\" shape - results from the inability to correctly measure ball height.
 
@@ -128,8 +125,7 @@ bounce.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                ![A person hitting a ball with a tennis racket Description automatically                                                                                                    ![A person holding a tennis racket Description automatically
-  generated](media_measuring-ball-height/media/image4.jpg){width="1.6770833333333333in"   generated](media_measuring-ball-height/media/image5.jpg){width="2.4479166666666665in"   generated](media_measuring-ball-height/media/image6.jpg){width="1.7083333333333333in"
-  height="2.5in"}                                                                                                                                                             height="2.4895833333333335in"}                                                                                                                                              height="2.4895833333333335in"}
+  generated](media_measuring-ball-height/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -152,13 +148,13 @@ finish.**
 
 This tendency to take the racket back too high is compounded by a number
 of other factors: the onslaught of the new powerful, high-tech rackets,
-club players\' almost desperate belief about the need for heavy topspin,
+club players' almost desperate belief about the need for heavy topspin,
 and the irresistible tendency to copy the large, circular backswings
 used by some elite pros.
 
 **[For all these reasons, swing trajectories or the plane at which the
 racket travels through the hitting zone have become a real problem in
-today\'s game. [No matter what the backswing, the racket need to move
+today's game. [No matter what the backswing, the racket need to move
 upwards on a smooth curve from low to high as it starts forward to the
 ball. This is just as true if not more true for the large circular
 backswings used by some pros.]{.mark}]{.underline}**
@@ -176,28 +172,27 @@ The \"V\" shaped swing has another, often unintended, consequence and
 that is the westernization of the grip. The grip naturally slips under
 the handle, because with the \"V\" motion the player has a somewhat
 better chance of getting the ball back over the net with a more extreme
-grip. But this shift doesn\'t solve the problem, and it has the further
+grip. But this shift doesn't solve the problem, and it has the further
 negative effect of making lower balls more and more difficult hit (and
 thus to attack).
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_measuring-ball-height/media/image7.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                             | numerous ranked junior players and coached  |
-|                                                                                                                                                                            | a series of championship high school teams. |
-|                                                                                                                                                                            | He was highly ranked both sectionally and   |
-|                                                                                                                                                                            | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                            |                                             |
-|                                                                                                                                                                            | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                            | the John Yandell Tennis School in San       |
-|                                                                                                                                                                            | Francisco, California Kerry and his partner |
-|                                                                                                                                                                            | are now splitting time between homes in     |
-|                                                                                                                                                                            | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                            | continued to coach and to have great        |
-|                                                                                                                                                                            | competitive success winning Canadian        |
-|                                                                                                                                                                            | National seniors titles---not to mention    |
-|                                                                                                                                                                            | continuing to write articles for            |
-|                                                                                                                                                                            | Tennisplayer from his unique perspective.   |
-+============================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_measuring-ball-height/media/image7.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

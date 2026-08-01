@@ -2,7 +2,7 @@
 
 **David Bailey**
 
-When we published David Bailey\'s series on the 12 Golden Moves in world
+When we published David Bailey's series on the 12 Golden Moves in world
 class footwork ([Click
 Here](https://www.tennisplayer.net/members/footwork/)), one question I
 got was---is there a way I can look at them all together---not just one
@@ -12,8 +12,7 @@ summaries by David himself.
 
 ![](media_the-12-golden-moves-an-overview/media/image1.wmf)
 
-![](media_the-12-golden-moves-an-overview/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-12-golden-moves-an-overview/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

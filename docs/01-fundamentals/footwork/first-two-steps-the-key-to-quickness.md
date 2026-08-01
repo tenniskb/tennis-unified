@@ -4,15 +4,14 @@
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_first-two-steps-the-key-to-quickness/media/image1.webp){width="2.8125in"
-height="1.875in"}
+confidence](media_first-two-steps-the-key-to-quickness/media/image1.webp)
 
 **Learn how to cover the whole court by learning the same footwork
 patterns as the pros.**
 
 Improvisation is what makes tennis so much fun. Every ball you hit or
 react to is different from the one before. Your opponent tries to hit a
-ball you can\'t get to, and you try to do the same. The unpredictability
+ball you can't get to, and you try to do the same. The unpredictability
 of the outcome makes each point fun. If every ball is different, then it
 makes sense for you have to have a movement system that can put you in
 the proper relationship to hit the ball no matter where it is on the
@@ -20,18 +19,18 @@ court.
 
 On television, the pros make their side of the court look small because
 they get to almost every ball. On the other hand, when you get on the
-court, your side looks huge because you can\'t imagine being able to get
+court, your side looks huge because you can't imagine being able to get
 to every ball yourself.
 
 I believe you can get to almost any ball by starting quickly and
-efficiently like the pros. And I can show you how. Let\'s go over the
+efficiently like the pros. And I can show you how. Let's go over the
 core principles of movement, and then see the top pro players use these
 patterns in actual competitive play.
 
 ### **The First Two Steps are the Key!**
 
 Have you ever been walking down the sidewalk and, suddenly, see a can
-you can\'t wait to kick? As you approach the can you don\'t consciously
+you can't wait to kick? As you approach the can you don't consciously
 change stride, but you naturally seem to get into position to kick it
 with your dominant foot, and then, let it rip! We all have the ability
 to see a distance and calculate the space and time with our feet to get
@@ -39,27 +38,26 @@ to where we want to go. When playing tennis, this means getting to where
 the incoming ball is going, so that it is on our strike zone.
 
 **[[Basically, there are two types of balls any player needs to reach.
-If the ball is easy to get to, we call it the Inner Ball. If it\'s
+If the ball is easy to get to, we call it the Inner Ball. If it's
 harder to get to, we call it the Outer Ball.]{.underline}]{.mark}**
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------+
-| ![A picture containing text, outdoor Description automatically                                                                                                                    | **Pete\'s Backhand to an Inner Ball:   |
-| generated](media_first-two-steps-the-key-to-quickness/media/image2.webp){width="2.6666666666666665in" | Watch this basic three step pattern in |
-| height="2.0in"}                                                                                                                                                                   | the animation on the left.**           |
-|                                                                                                                                                                                   |                                        |
-|                                                                                                                                                                                   | 1.  **Pete\'s first step with his      |
-|                                                                                                                                                                                   |     right foot is fairly small and     |
-|                                                                                                                                                                                   |     across, parallel to the            |
-|                                                                                                                                                                                   |     baseline.**                        |
-|                                                                                                                                                                                   |                                        |
-|                                                                                                                                                                                   | 2.  **His second step with his left    |
-|                                                                                                                                                                                   |     foot is lined up with his strike   |
-|                                                                                                                                                                                   |     zone**                             |
-|                                                                                                                                                                                   |                                        |
-|                                                                                                                                                                                   | 3.  **and he drives off his left or    |
-|                                                                                                                                                                                   |     back foot into the third step for  |
-|                                                                                                                                                                                   |     a great step/hit rhythm.**         |
-+===================================================================================================================================================================================+========================================+
+| ![A picture containing text, outdoor Description automatically | **Pete's Backhand to an Inner Ball: |
+| --- | --- |
+| generated](media_first-two-steps-the-key-to-quickness/media/image2.webp) | the animation on the left.** |
+|  |  |
+|  | 1.  **Pete's first step with his |
+|  | right foot is fairly small and |
+|  | across, parallel to the |
+|  | baseline.** |
+|  |  |
+|  | 2.  **His second step with his left |
+|  | foot is lined up with his strike |
+|  | zone** |
+|  |  |
+|  | 3.  **and he drives off his left or |
+|  | back foot into the third step for |
+|  | a great step/hit rhythm.** |
+
 
 ### **Mastering the Basic Movement Patterns**
 
@@ -67,19 +65,16 @@ In tennis you must be able to move in any direction. Using an initial
 weight shift, and then a two-step movement pattern, you can move
 efficiently in any direction.
 
-With the steps I\'m going to show you, you can cover half the court. As
+With the steps I'm going to show you, you can cover half the court. As
 our animations show, these are the same steps used by the best players
 in the world, like Pete Sampras and Venus Williams.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
-| ![A person playing tennis Description automatically                                                                                                                                |                             |
-| generated](media_first-two-steps-the-key-to-quickness/media/image3.jpg){width="2.1041666666666665in"  |                             |
-| height="2.7708333333333335in"} ![A person playing tennis Description automatically generated with medium                                                                           |                             |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image4.jpg){width="2.0833333333333335in" |                             |
-| height="2.7708333333333335in"}                                                                                                                                                     |                             |
-+:==================================================================================================================================================================================:+:===========================:+
-| **The first move or the weight shift on the forehand and on the backhand. Now you\'re ready for the first step.**                                                                                                |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically |  |
+| --- | --- |
+| generated](media_first-two-steps-the-key-to-quickness/media/image3.jpg) ![A person playing tennis Description automatically generated with medium |  |
+| confidence](media_first-two-steps-the-key-to-quickness/media/image4.jpg) |  |
+| **The first move or the weight shift on the forehand and on the backhand. Now you're ready for the first step.** |  |
+
 
 ### **The First Move**
 
@@ -96,19 +91,15 @@ are moving to your left, or your left foot if you are moving to your
 right. The same would be true for movement in any direction - the step
 is across in the direction you are moving.
 
-+-------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-|                                                                                           |                                                                                           |
-+:=========================================================================================:+:=========================================================================================:+
-| ![A person running on a track Description automatically generated with low                                                                                                            |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image5.jpg){width="1.932075678040245in"     |
-| height="1.4490562117235346in"} ![A picture containing sport, tennis, athletic game, person Description automatically                                                                  |
-| generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg){width="1.9440004374453193in"     |
-| height="1.4579997812773404in"} ![A person playing tennis Description automatically generated with low                                                                                 |
-| confidence](media_first-two-steps-the-key-to-quickness/media/image7.jpg){width="1.936000656167979in"     |
-| height="1.4520002187226597in"}                                                                                                                                                        |
-|                                                                                                                                                                                       |
-| **The first step is across the body, turning the torso sideways and dictating the stride length.**                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |  |
+| --- | --- |
+| ![A person running on a track Description automatically generated with low |  |
+| confidence](media_first-two-steps-the-key-to-quickness/media/image5.jpg) ![A picture containing sport, tennis, athletic game, person Description automatically |  |
+| generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg) ![A person playing tennis Description automatically generated with low |  |
+| confidence](media_first-two-steps-the-key-to-quickness/media/image7.jpg) |  |
+|  |  |
+| **The first step is across the body, turning the torso sideways and dictating the stride length.** |  |
+
 
 **[This first step across turns the whole body sideways to the net. The
 first step is either small, medium or large depending on where the ball
@@ -129,19 +120,16 @@ forward.
 to the strike zone or contact point.]{.underline}]{.mark}** This step
 judges the relationship of your body and racquet to the ball. If you are
 too close to the ball, your second step with the back foot got you too
-close. If you are too far away from the ball, your second step didn\'t
+close. If you are too far away from the ball, your second step didn't
 get you close enough.
 
 ![A picture containing sport, person, athletic game, person Description
 automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image8.jpg){width="1.875in"
-height="1.40625in"} ![A picture containing sport, tennis, athletic game,
+generated](media_first-two-steps-the-key-to-quickness/media/image8.jpg) ![A picture containing sport, tennis, athletic game,
 person Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg){width="1.875in"
-height="1.40625in"} ![A picture containing tennis, sport, athletic game,
+generated](media_first-two-steps-the-key-to-quickness/media/image6.jpg) ![A picture containing tennis, sport, athletic game,
 outdoor Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image9.jpg){width="1.875in"
-height="1.40625in"}
+generated](media_first-two-steps-the-key-to-quickness/media/image9.jpg)
 
 **The second step positions you to the ball, with the back foot parallel
 to the baseline, keeping your knees and hips sideways.**
@@ -163,23 +151,19 @@ to cover.
 ### **The Gravity Step**
 
 In addition to the basic Two Step pattern, there is one additional step
-you\'ll need, **[[the \"Gravity Step.\" You make this step on balls that
+you'll need, **[[the \"Gravity Step.\" You make this step on balls that
 are furthest away. The gravity step is a drop
 step.]{.underline}]{.mark}** The back foot pulls back slightly under the
 body, and this allow you to push off harder so your step across can go
-even further (Read Jim McLennan\'s articles on Gravity Motion part 1,
+even further (Read Jim McLennan's articles on Gravity Motion part 1,
 part 2, and part 3). This a very important aspect of footwork employed
 by all great movers on the tennis court.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_first-two-steps-the-key-to-quickness/media/image10.gif){width="2.59375in"
-  height="2.2395833333333335in"}
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  confidence](media_first-two-steps-the-key-to-quickness/media/image10.gif)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Pete\'s Gravity Step Backhand to an Outer Ball: As Pete lands from his
+Pete's Gravity Step Backhand to an Outer Ball: As Pete lands from his
 split step his left foot drops under him as his weight is shifting to
 the left (see animation). The right foot steps across and covers a lot
 of ground. The second step gets all the way to the singles sideline
@@ -187,25 +171,23 @@ pointing parallel to the baseline in a hurry. His third step is slightly
 after contact but keeps him in balance throughout the finish of the
 swing.
 
-Let\'s see some more examples of how great movers like Pete Sampras and
+Let's see some more examples of how great movers like Pete Sampras and
 Venus Williams use these patterns in various combinations to reach all
 these balls.
 
-**Pete\'s Backhand: Moving Back to an Inner Ball**
+**Pete's Backhand: Moving Back to an Inner Ball**
 
 ![A picture containing text, outdoor, person Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image11.webp){width="3.0in"
-height="2.25in"}
+generated](media_first-two-steps-the-key-to-quickness/media/image11.webp)
 
 This ball has Pete moving back away from the baseline. The ball bounces
 fairly deep and he has to get his left foot back and away from the ball
 in order to drive off of it into the swing.
 
-**Venus\'s Backhand: Moving Forward On a Diagonal to an Inner Ball**
+**Venus's Backhand: Moving Forward On a Diagonal to an Inner Ball**
 
 ![A picture containing text Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image12.webp){width="2.90625in"
-height="2.5in"}
+generated](media_first-two-steps-the-key-to-quickness/media/image12.webp)
 
 Venus starts with her right foot with a big step forward and across at a
 diagonal towards the ball. Her second step sets up right behind her
@@ -213,43 +195,39 @@ first. If she had to go further the second step would have taken a
 bigger stride past the first step. Her third step triggers the back leg
 drive and rotation into the shot. Classic kinetic chain!
 
-**Pete\'s Forehand: Moving Forward to an Inner Ball**
+**Pete's Forehand: Moving Forward to an Inner Ball**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_first-two-steps-the-key-to-quickness/media/image13.webp){width="2.6770833333333335in"
-height="2.5in"}
+confidence](media_first-two-steps-the-key-to-quickness/media/image13.webp)
 
 After the split step, the left foot starts forward into the court. The
 second step gets Pete sideways and into position relative to the contact
 point, and drives into his swing.\
 \
-**Pete\'s Forehand Moving Away to an Inner Ball**
+**Pete's Forehand Moving Away to an Inner Ball**
 
 ![A picture containing text, sport Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image14.webp){width="2.4791666666666665in"
-height="2.21875in"}
+generated](media_first-two-steps-the-key-to-quickness/media/image14.webp)
 
 In this situation Pete does not have to go very far. He takes small
 lateral adjustment steps in order to get his right foot into position
 for his inside out forehand. Great follow through!
 
-**Pete\'s Forehand Moving Away for the Outer Ball**
+**Pete's Forehand Moving Away for the Outer Ball**
 
 ![A picture containing text Description automatically
-generated](media_first-two-steps-the-key-to-quickness/media/image15.webp){width="2.8645833333333335in"
-height="2.1458333333333335in"}
+generated](media_first-two-steps-the-key-to-quickness/media/image15.webp)
 
 Pete is moving here to hit an inside out or down the line forehand. He
 uses four slide steps to his left starting and ending with the left foot
 in order to get his right foot into a perfect position, ready to drive
 into the swing.
 
-**Pete\'s Backhand Moving Straight Ahead for an Inner Ball**
+**Pete's Backhand Moving Straight Ahead for an Inner Ball**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_first-two-steps-the-key-to-quickness/media/image16.webp){width="2.8229166666666665in"
-height="2.3645833333333335in"}
+confidence](media_first-two-steps-the-key-to-quickness/media/image16.webp)
 
 For Pete, this is an Inner Ball, but for you and me it might be
 considered an Outer Ball, Pete takes a Gravity step with his left foot
@@ -262,15 +240,13 @@ uses four slide or adjustment steps to his left starting and ending with
 the left foot, in order to get his right foot into a perfect position,
 ready to make his last step into the swing.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with his tongue out Description automatically generated with medium                                                                                                        **Michael Friedman** has been devoted to
-  confidence](media_first-two-steps-the-key-to-quickness/media/image17.jpeg){width="2.079861111111111in"   teaching and coaching tennis for over 30
-  height="1.663888888888889in"}                                                                                                                                                         years. Currently he is the Tennis Director at
+  confidence](media_first-two-steps-the-key-to-quickness/media/image17.jpeg)                                                                                                                                                         years. Currently he is the Tennis Director at
                                                                                                                                                                                         the Millennium Sports Club in Rancho Solano,
                                                                                                                                                                                         where he runs an active junior development as
                                                                                                                                                                                         well as adult program. Michael has been a
                                                                                                                                                                                         mainstay in the United States Professional
-                                                                                                                                                                                        Tennis Association\'s Northern California
+                                                                                                                                                                                        Tennis Association's Northern California
                                                                                                                                                                                         Division, and served as President from 2000
                                                                                                                                                                                         through 2001. He has been a featured speaker
                                                                                                                                                                                         at many USTA and USPTA tennis workshops
@@ -280,4 +256,3 @@ ready to make his last step into the swing.
                                                                                                                                                                                         USPTA Norcal Pro of the Year in 2003
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

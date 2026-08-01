@@ -19,7 +19,7 @@ Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gor
 
 The Four Pillars article, combined with the concepts from Part 1 of this
 article, should provide a mechanical framework to better understand many
-forehand options. So now let\'s see how these concepts apply to a number
+forehand options. So now let's see how these concepts apply to a number
 of forehands on both professional tours. I break them down into 4
 categories:
 
@@ -53,8 +53,8 @@ by my definition.
 
 **The ATP Classical Forehand**
 
-This is the most common forehand style on the men\'s tour and it is
-becoming more prevalent on the women\'s as well. It utilizes an outside
+This is the most common forehand style on the men's tour and it is
+becoming more prevalent on the women's as well. It utilizes an outside
 oriented hand and racquet position entering the forward swing, so it is
 moderately linear. The primary difference from the Type III forehand is
 that the elbow is bent. This minimizes independent arm motion, alters
@@ -103,7 +103,7 @@ included here.
 
 Garbine Muguruza and Simona Halep are typical examples of the WTA Type
 II forehand style. This stroke has held up well at the highest level of
-women\'s tennis for a very long time. I\'ve pointed out though that I
+women's tennis for a very long time. I've pointed out though that I
 believe this swing type is on its way out. The reason is that it is best
 suited for hitting hard and flat (little variability) and does not have
 great solutions for certain incoming shots like higher balls. Halep is
@@ -149,21 +149,20 @@ based on the previous articles are summarized below:
       ESR Source***       Dependent                                                    Loop
   --------------------------------------------------------------------------------------------------
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                    | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_understanding-professional-forehand-part-2/media/image5.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                   | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                 | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                 | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                 | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                 | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                 | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                 | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                 | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                 |                                                               |
-|                                                                                                                                                                                                 | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                 | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                 |                                                               |
-|                                                                                                                                                                                                 | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                 | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+=================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_understanding-professional-forehand-part-2/media/image5.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

@@ -6,8 +6,7 @@
 
 ![A picture containing person, dancer, player, sport Description
 automatically
-generated](media_resistance-points-and-breakthrough-points/media/image1.jpg){width="3.4722222222222223in"
-height="2.986111111111111in"}
+generated](media_resistance-points-and-breakthrough-points/media/image1.jpg)
 
 **The "zone"\--allegedly where the maestro conducts a perfect
 symphony.**
@@ -44,8 +43,7 @@ year's semifinal between Novak Djokovic and Roger Federer.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A picture containing person, sport, player, athletic game Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image2.jpg){width="3.3854166666666665in"
-                                                                                height="2.0833333333333335in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **Every match, even at the highest levels, has momentum shifts in both directions.**
 
@@ -78,8 +76,7 @@ opponent Sam Stosur.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A picture containing person, sport Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image3.jpg){width="3.888888888888889in"
-                                                                                       height="2.5in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image3.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          **Even a player like Serena can be blindsided by unexpected developments.**
 
@@ -114,8 +111,7 @@ desire.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, outdoor, crowd, player Description automatically
-  generated](media_resistance-points-and-breakthrough-points/media/image4.jpg){width="3.4722222222222223in"
-  height="3.0694444444444446in"}
+  generated](media_resistance-points-and-breakthrough-points/media/image4.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Serena reached a resistance point she could not overcome when called for a foot fault in the 2010 Open.**
 
@@ -149,8 +145,7 @@ likely lose the match or be put at an extreme disadvantage.\"
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person holding a tennis racket Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image5.jpg){width="2.5in"
-                                                                                height="3.75in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image5.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **Resistance points caused by line calling is common at all levels.**
 
@@ -192,8 +187,7 @@ call. Then ask them to watch the lines more closely because you will be.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_resistance-points-and-breakthrough-points/media/image6.jpg){width="3.125in"
-                                                                           height="3.986111111111111in"}
+   confidence](media_resistance-points-and-breakthrough-points/media/image6.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  **Frustration and anger are often the result of resistance points around goals.**
 
@@ -232,8 +226,7 @@ not reach my objective.\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A person holding a tennis racket Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image7.jpg){width="2.5694444444444446in"
-                                                                                 height="3.861111111111111in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image7.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    **Resistance points can actually start before matches.**
 
@@ -276,8 +269,7 @@ play your best.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A picture containing person, person, outdoor, player Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image8.jpg){width="3.8194444444444446in"
-                                                                                height="3.1944444444444446in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image8.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   **Djokovic had a breakthrough point with a single return.**
 
@@ -309,10 +301,9 @@ perspective on what happened.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A picture containing person, outdoor, person, crowd Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image9.jpg){width="4.513888888888889in"
-                                                                                      height="3.875in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image9.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                          **Novak\'s return created a resistance point Federer could not overcome.**
+                                                          **Novak's return created a resistance point Federer could not overcome.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -350,8 +341,7 @@ breakers all the time in practice.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   ![A picture containing text, sign Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image10.jpg){width="3.8472222222222223in"
-                                                                                        height="2.25in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image10.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  **Your beliefs about tiebreakers can lead to breakthroughs.**
 
@@ -359,7 +349,7 @@ breakers all the time in practice.
 
 As a result of this constant practice and the belief instilled by my
 coach, my tiebreaker record improved considerably. If I got to 6-6, my
-thinking would immediately shift to \"it\'s time for a breakthrough\"
+thinking would immediately shift to \"it's time for a breakthrough\"
 and the breakthroughs occurred frequently when I was able to get into
 that mindset.
 
@@ -388,8 +378,7 @@ momentum in the wrong direction.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A picture containing person, sport, athletic game, player Description automatically
-   generated](media_resistance-points-and-breakthrough-points/media/image11.jpg){width="4.166666666666667in"
-                                                                                 height="3.013888888888889in"}
+   generated](media_resistance-points-and-breakthrough-points/media/image11.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 **Consistent momentum will lead to realizing your potential.**
 
@@ -420,14 +409,13 @@ continue to rise to your full potential.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person in a black shirt Description automatically generated with medium                                                                                                                   For the past 30 years, Joey Johnson has been competing,
-  confidence](media_resistance-points-and-breakthrough-points/media/image12.jpeg){width="1.773611111111111in"   coaching, and consulting in the area of human performance.
-  height="2.652083333333333in"}                                                                                                                                                                 Growing up in frigid Northern Minnesota, he discovered
+  confidence](media_resistance-points-and-breakthrough-points/media/image12.jpeg)                                                                                                                                                                 Growing up in frigid Northern Minnesota, he discovered
                                                                                                                                                                                                 tennis at the age of 11 and went on to an All American
                                                                                                                                                                                                 career at Ole Miss. He has coached and played on the ATP
                                                                                                                                                                                                 tour, coached at Brigham Young University, and worked with
                                                                                                                                                                                                 amateur, Olympic, and professional athletes in a variety of
                                                                                                                                                                                                 sports. He is the author of Worthy to Win: Emerging from
-                                                                                                                                                                                                Fear and Self Doubt. Want to learn more about Joey\'s Worthy
+                                                                                                                                                                                                Fear and Self Doubt. Want to learn more about Joey's Worthy
                                                                                                                                                                                                 to Win training and consulting programs? [Click
                                                                                                                                                                                                 Here!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
@@ -436,8 +424,7 @@ continue to rise to your full potential.]{.mark}]{.underline}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Website Description automatically generated with low                                                                                                                                         In Worthy to Win, Joey Johnson shows how at the core of
-  confidence](media_resistance-points-and-breakthrough-points/media/image13.jpeg){width="1.8263888888888888in"   every successful performer is a deserving mind set. This
-  height="2.7305555555555556in"}                                                                                                                                                                 mindset creates the belief and confidence that will propel
+  confidence](media_resistance-points-and-breakthrough-points/media/image13.jpeg)                                                                                                                                                                 mindset creates the belief and confidence that will propel
                                                                                                                                                                                                  you toward your potential. Worthy to Win outlines 8 steps
                                                                                                                                                                                                  that will revolutionize the way you prepare for matches and
                                                                                                                                                                                                  lead to the breakthroughs and big wins you dream about.

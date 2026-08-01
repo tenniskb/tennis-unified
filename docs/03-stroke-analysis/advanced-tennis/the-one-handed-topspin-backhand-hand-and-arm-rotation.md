@@ -12,14 +12,13 @@ the stroke, the stances, and the differences between the classical and
 extreme styles. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand-Hitting%20Stances.docx).)
 
-Now let\'s move on to one final element. This is hand and arm rotation.
+Now let's move on to one final element. This is hand and arm rotation.
 The rotation of the hand, arm, and racket are critical in understanding
 the forehand, as we have seen. But they are also a basic, if less
 extreme factor, in the one-hander.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image1.webp)
 
 **Watch the racket face turn over and the difference in where it
 points.**
@@ -30,8 +29,7 @@ forearm during the forward swing. The result is the clockwise rotation
 of the racket head during the contact.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image2.webp)
 
 **The hand and arm and turn over as a unit with the racket facing the
 net.**
@@ -59,8 +57,7 @@ the game of the top players and how should the average player utilize it
 at lower levels?]{.underline}]{.mark}***
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image3.webp)
 
 **The hand and racket comes through with less rotation on flatter
 shots.**
@@ -68,10 +65,10 @@ shots.**
 When we think of the classic one-handed drive, we think of the racket
 coming through with the racket edge close perpendicular to the net at
 the finish. ***[If you watch closely as the hitting arm moves through
-the hit, you\'ll see that there actually is some rotation of the hand
-and arm in the classic on edge finish.]{.mark}*** It\'s subtle and
+the hit, you'll see that there actually is some rotation of the hand
+and arm in the classic on edge finish.]{.mark}*** It's subtle and
 usually limited to about 45 degrees or so. But if you look for it, you
-can see that it\'s there.
+can see that it's there.
 
 **Rotation Variations**
 
@@ -90,8 +87,7 @@ high balls. Even when the ball is well above waist level, Guga is able
 to hit through the shot with little hand rotation and tremendous pace.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image4.webp)
 
 **More players are using more rotation more often.**
 
@@ -103,17 +99,17 @@ hand and racket face more, and doing this on more and more balls.
 
 The purpose of this additional rotation is analogous to what we saw on
 the forehand. It allows players to increase topspin by making the path
-of the racket head slightly steeper just before the contact. It\'s
+of the racket head slightly steeper just before the contact. It's
 possible that it may also contribute to overall racket head speed.
 
 We saw in our analysis of the forehand that the racket head can rotate
 up to 180 degrees, or even more. We also saw that one of the things that
-makes Federer\'s forehand special is the degree and the variety of this
+makes Federer's forehand special is the degree and the variety of this
 rotation. We are now seeing a similar range of variation on the backhand
 side.
 
 As with the forehand, if we learn to recognize the position of the
-racket face at the most extended point in the followthrough, it\'s a
+racket face at the most extended point in the followthrough, it's a
 good indicator of how much the hand and arm have rotated, as well as an
 indicator of the total amount of spin a player has hit on a given ball.
 
@@ -127,14 +123,13 @@ internal play in the hitting arm from the elbow downward as the hand
 turns over.]{.underline}]{.mark}***
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image5.webp)
 
 **Watch the additional rotation on the second backhand, as indicated by
 the position of the Swoosh.**
 
 This use of the forearm allows the player to rotate the racket further
-than would be possible from the shoulder alone. It\'s actually similar
+than would be possible from the shoulder alone. It's actually similar
 to the rotation of the arm on the serve, which comes partially from the
 shoulder and partially from the forearm, as the racket moves upward
 through the hit and out into the followthrough.
@@ -144,14 +139,14 @@ the serve or the forehand. This makes it more difficult to recognize
 and/or gauge with the naked eye, or even at times when looking at video.
 
 We saw that the rotation is about 45 degrees in the classic finish. In
-the more extreme version it\'s probably a maximum of about 90 degrees.
-But if you look closely it\'s clear. Take a look at the two Federer
+the more extreme version it's probably a maximum of about 90 degrees.
+But if you look closely it's clear. Take a look at the two Federer
 backhands to the right, again similar balls hit from similar positions
 on the court. The first backhand is a classic finish and the second one
 has the extreme rotation.
 
-Watch the Nike swoosh on Federer\'s sweatband at the end of the
-animation. In the first backhand, it\'s not really visible because it
+Watch the Nike swoosh on Federer's sweatband at the end of the
+animation. In the first backhand, it's not really visible because it
 still faces upward. On the second backhand the arm rotates until the
 Swoosh is visible. So in the second video the Swoosh rotated further.
 Rather than stopping when it was pointing upward at the sky at contact,
@@ -163,23 +158,20 @@ classic finish. If you look at the stills below, you can see the
 difference not only in the position of the Swoosh, but in the angle of
 the hand to the court.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                    |                         | ![A person swinging a tennis racket Description automatically generated with medium                                                                                                                           |
-| confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image6.jpg){width="3.763888888888889in" |                         | confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image7.jpg){width="3.6527777777777777in" |
-| height="3.0694444444444446in"}                                                                                                                                                                               |                         | height="3.0694444444444446in"}                                                                                                                                                                                |
-+:============================================================================================================================================================================================================:+:=======================:+:=============================================================================================================================================================================================================:+
-| **A closer look: note the position of the Swoosh in the second still, but also the angle of the hand\--the difference is the increased rotation.**                                                                                                                                                                                                                                                                                                     |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium |  | ![A person swinging a tennis racket Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image6.jpg) |  |  |
+| **A closer look: note the position of the Swoosh in the second still, but also the angle of the hand\--the difference is the increased rotation.** |  |  |
+
 
 **Is It the Wrist?**
 
-Notice when I said hand and arm rotation I didn\'t say \"wrist.\" It\'s
+Notice when I said hand and arm rotation I didn't say \"wrist.\" It's
 important if you want to experiment with this factor to understand how
 it is really generated.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image8.webp)
 
 **When the wrist releases after the hit, the tip of the racket tilts
 forward.**
@@ -188,11 +180,11 @@ With a one-handed backhand grip, whether classical or extreme, the wrist
 is naturally laid back when part of the hand rotates to the top of the
 frame during the grip change. Because the entire arm turns over, the
 wrist turns over as part of this unitary movement. But this is not an
-independent movement. It\'s part of the larger rotation.
+independent movement. It's part of the larger rotation.
 
 Yes, because of the secondary rotation of the forearm, the hand and
 wrist may turn over further than the upper arm. But the position of the
-wrist relative to the forearm and the racket doesn\'t change during the
+wrist relative to the forearm and the racket doesn't change during the
 contact.
 
 After the hit, you can definitely see the wrist flex forward on some
@@ -208,8 +200,7 @@ of the forces of the swing.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image9.webp)
 
 **Incredible elevation, with the hand and arm rotating as a
 unit\--before the wrap.**
@@ -241,8 +232,7 @@ cause.]{.underline}]{.mark}**
 
 ![A person running on a green surface Description automatically
 generated with low
-confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image10.webp)
 
 **On low balls, extreme rotation can lead to an earlier bend in the
 elbow.**
@@ -256,14 +246,14 @@ increased by the additional hand and arm rotation.]{.mark}**
 
 In these cases the rotation from the forearm probably gets ahead of the
 upper arm rotation, and just takes over the brushing action. Since the
-arm isn\'t (or shouldn\'t be) totally rigid, the elbow naturally bends.
+arm isn't (or shouldn't be) totally rigid, the elbow naturally bends.
 You can see this effect on occasion with most of the one-handed players,
-but be careful about trying this one at home as well. It\'s the
+but be careful about trying this one at home as well. It's the
 exception, not the norm.
 
 **The Implications**
 
-Federer\'s amazing backhand acrobatics aside, what are the practical
+Federer's amazing backhand acrobatics aside, what are the practical
 implications here, if any? I think they are significant for players at
 all levels\--as important as hand and arm rotation on the forehand, and
 maybe at times even more so.
@@ -271,13 +261,12 @@ maybe at times even more so.
 **[[Why? Because it is more difficult to generate substantial topspin on
 the one-handed backhand. Too many club players are obsessed with topspin
 for its own sake. They end up hitting shorter looping balls, or using
-extreme grips that aren\'t warranted by their natural pace or the types
+extreme grips that aren't warranted by their natural pace or the types
 of balls they have to hit, because they think topspin in and of itself
 is the goal.]{.underline}]{.mark}**
 
 ![A person standing in front of a chalkboard Description automatically
-generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image11.webp)
 
 **Rotate the hand and racket as a unit finishing at eye level with the
 strings facing the net.**
@@ -290,7 +279,7 @@ the net and/or hit deep looping replies. A third is to control fast high
 bouncing balls. Another is to hit topspin lobs.]{.mark}***
 
 Players who want to develop this should experiment first in controlled
-drill, ideally with a teaching pro or on a ball machine. Don\'t just
+drill, ideally with a teaching pro or on a ball machine. Don't just
 read the article and assume you can make it work in your next match.
 
 ***[[Visualize rotating everything as a unit. Be careful not to lose the
@@ -305,16 +294,15 @@ develop hand and arm rotation progressively, you can add an important
 dimension to your one-hander that can make a difference in your
 competitive outcomes.
 
-So that\'s it for our one-handed series. I learned a lot in creating it,
-and I hope you did as well. We\'ll be doing some condensed summaries of
+So that's it for our one-handed series. I learned a lot in creating it,
+and I hope you did as well. We'll be doing some condensed summaries of
 the key points in all the multi-part Advanced Tennis articles in the
 future, forehand, both backhands, serve, etc. In the meantime, let us
 know what you think in the Forum.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image12.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

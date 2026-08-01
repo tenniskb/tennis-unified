@@ -4,15 +4,14 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image1.webp)
 
 **Why is the closed stance preferred by top players on the one-hander?**
 
 In the last article we looked at the surprising dominance of the closed
 stance on the pro two-handed backhand. ([Click
 Here](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx).)
-We found that the clear preference of the top two-handed men\'s players
+We found that the clear preference of the top two-handed men's players
 was to hit closed by taking a large diagonal cross step to the ball. We
 also saw that there were clear biomechanical advantages in doing so.
 
@@ -33,8 +32,7 @@ balls hit in most exchanges.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image2.webp)
 
 **One handers hit with all stances, including neutral and open.**
 
@@ -65,14 +63,13 @@ transfer.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image3.webp)
 
 **A diagonal cross step means greater rotation of the torso and greater
 uncoling of the legs in the forward swing.**
 
 Hip and shoulder rotation in the one-hander is a very interesting and
-also misunderstood topic. Isn\'t one of the keys not to over rotate in
+also misunderstood topic. Isn't one of the keys not to over rotate in
 the forward swing?
 
 Correct! A very common error especially for lower level players is to
@@ -92,21 +89,20 @@ This is particularly true for players with more extreme grips. They
 already tend to be more open at contact even with neutral stances.
 
 So should the classic model be taught first? Possibly for many players,
-but not necessarily. Just look at Chris Lewit\'s wonderful series on the
+but not necessarily. Just look at Chris Lewit's wonderful series on the
 one hander. ([Click Here](The%20One%20Handed%20Topspin%20Backhand.docx)
 for the current article and [Click
 Here](https://www.tennisplayer.net/members/music_videos/chris_lewit_one_hander/)
 for the music video of his actual students.)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image4.webp)
 
 **Torso rotation is often increased somewhat with closed stance,
 especially with more extreme backhand grips.**
 
-But as Chris\'s work shows, the key with the closed stance is holding
-all the technical components together. So let\'s see how the closed
+But as Chris's work shows, the key with the closed stance is holding
+all the technical components together. So let's see how the closed
 stance relates to the other core elements.
 
 **The Turn**
@@ -130,8 +126,7 @@ another line drawn across the shoulders. Notice that these lines are
 basically parallel. That is tremendous upper body coil.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image5.webp)
 
 **The unit turn which then continues past perpendicular with the cross
 step into the closed stance.**
@@ -141,10 +136,10 @@ bend 45 degrees and even further, sometimes approaching 90 degrees.
 
 This is only possible with a wider base provided by the larger diagonal
 cross step. Interestingly, this is a point Nick Bollettieri has made for
-years in describing Tommy Haas\'s amazing one-hander. ([Click
+years in describing Tommy Haas's amazing one-hander. ([Click
 Here](https://www.tennisplayer.net/members/tour_strokes/nick_bollettieri/nick_bollet_haas_backhand_images/nick_bollet_haas_backhand.html).)
 
-It\'s no different for Federer or Wawrinka or for Richard Gasquet, or
+It's no different for Federer or Wawrinka or for Richard Gasquet, or
 Nicholas Almagro, or Grigor Dimitrov. Again we find that great players
 find similar ways to maximize technical potential, regardless of what
 conventional coaching wisdom may say.
@@ -159,13 +154,12 @@ the body and legs that come with the closed stance.
 **The Back Leg**
 
 But there is another vital point to understand about closed stance on
-the one-hander, and it\'s the same as we saw on the two. This has to do
+the one-hander, and it's the same as we saw on the two. This has to do
 with the role of the back leg.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image6.webp)
 
 **The increased turn and the cross step: universal for world class
 one-handers.**
@@ -180,12 +174,12 @@ The discovery of the recovery step has lead to the coaching directive to
 actively and intentionally swing the foot around. Unfortunately,
 following this advice can destroy your backhand.
 
-As with any piece of teaching theory allegedly based on the pros, it\'s
+As with any piece of teaching theory allegedly based on the pros, it's
 important to understand what top players actually do, when they do it,
 and especially, in what sequence. In my opinion that is only possible
 with the study of high speed video.
 
-Watch the great one handers. ***[The back foot doesn\'t come around
+Watch the great one handers. ***[The back foot doesn't come around
 until the players have extended the swing all the way forward and
 outward.]{.mark}***
 
@@ -196,10 +190,9 @@ towards the net during the course of the forward
 swing!]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image7.webp)
 
-**Watch how the rear foot stays behind and actually on the player\'s
+**Watch how the rear foot stays behind and actually on the player's
 right side til after extension before coming around in the \"recovery\"
 step.**
 
@@ -208,7 +201,7 @@ the torso rotation. This allows the rotation to unfold with the right
 timing, and keeps it from becoming too extreme.]{.mark}**
 
 ***[We know the shoulders need to stay relatively sideways during the
-contact and followthrough, regardless of stance.]{.mark}*** That\'s
+contact and followthrough, regardless of stance.]{.mark}*** That's
 impossible if you are trying to intentionally throw your back foot
 around.
 
@@ -220,8 +213,8 @@ of tennis elbow.
 
 And even at the pro level, there are many balls where the outside
 recovery step never happens and the movement back toward the middle
-appears to initiate with the right or inside foot. That\'s critical to
-understand\--you don\'t have to make a swinging recovery step on every
+appears to initiate with the right or inside foot. That's critical to
+understand\--you don't have to make a swinging recovery step on every
 ball!
 
 Recovery footwork is, of course, very important for players at all
@@ -238,8 +231,7 @@ Here](https://www.tennisplayer.net/members/teaching_systems/kerry_mitchell/the_l
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image8.webp)
 
 **The inside or right foot often initiates the recovery even at the pro
 level.**
@@ -250,7 +242,7 @@ in mind the more fundamental elements in the stroke are more important.
 
 **The Open Stance Paradox**
 
-For players who over rotate, as Kerry\'s article shows, working on
+For players who over rotate, as Kerry's article shows, working on
 hitting open stance is, paradoxically, often the key to understanding
 correct movement and positioning. In fact it can be the key to
 eventually progressing to the advanced diagonal step\--or even just
@@ -258,22 +250,21 @@ developing an effective, more basic neutral stance.
 
 **What About the Women?**
 
-So that\'s it for the pro men on the backhand stances. In the next
-article we\'ll look at the variety of stances in the women\'s game,
+So that's it for the pro men on the backhand stances. In the next
+article we'll look at the variety of stances in the women's game,
 which for some players are similar to the men, but for others are quite
-different. We\'ll see how grip and hitting arm positions affect and in
+different. We'll see how grip and hitting arm positions affect and in
 some cases create these differences, and what that all means.
 
-Eventually we\'ll do a teaching article about the backhand stances and
-correcting common problems. We\'ll discuss which stance to develop and
+Eventually we'll do a teaching article about the backhand stances and
+correcting common problems. We'll discuss which stance to develop and
 when, depending on your level of play, the level of development in your
 stroke, and your grip and hitting arm configurations. Stay tuned for
 that!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image9.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image9.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

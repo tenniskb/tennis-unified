@@ -7,8 +7,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_situational-and-scenario-analysis-part-1/media/image1.webp)
 
 **Learning to win means learning to adapt.**
 
@@ -30,11 +29,11 @@ scenarios that can occur in matches, and how to adapt to them.
 
 Specifically, we will discuss the strategic problems and challenges that
 must be answered and overcome in order to win. The situations apply in
-pro tennis, and we\'ll use pro players as examples. But if you play
-competitive tennis, you\'ll recognize many of the scenarios from your
+pro tennis, and we'll use pro players as examples. But if you play
+competitive tennis, you'll recognize many of the scenarios from your
 own experience.
 
-**[[We\'ll assume the scenarios all occur on a medium paced hardcourt,
+**[[We'll assume the scenarios all occur on a medium paced hardcourt,
 with an average ball bounce height. They are far from exhaustive, and
 the goal should not be to memorize the \"answers.\" The goal is to learn
 techniques for assessing situations and creating solutions for the
@@ -49,8 +48,7 @@ satisfying.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image2.webp)
 
 **What if your opponent is like Safin, powerful and consistent?**
 
@@ -91,8 +89,7 @@ favor.]{.underline}]{.mark}**
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_situational-and-scenario-analysis-part-1/media/image3.webp)
 
 **What if your opponent has you pinned with a superior backhand?**
 
@@ -136,8 +133,7 @@ volley.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image4.webp)
 
 **On tough low returns, stop, hit an approach, then finish.**
 
@@ -160,14 +156,13 @@ Close and finish from there.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image5.webp)
 
 **Against fast, consistent players, the match has to get shorter\--or
 longer.**
 
 You should also be mixing up your pace, depth, and spins on serves to
-take away the returner\'s rhythm. Another option to test is hitting
+take away the returner's rhythm. Another option to test is hitting
 higher kick serves with more spin and less pace to allow yourself time
 to get in tighter to the net. The returner will be taking the ball from
 a higher position and have more trouble getting it down quickly.
@@ -188,13 +183,12 @@ groundstroke winners. Your plan is to make the opponent hit four passing
 shots before you can hit four volley or overhead winners.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_situational-and-scenario-analysis-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image6.webp)
 
 **How do you counter great backhand angles?**
 
 **[Scenario 5:]{.underline}** Your opponent can hit great backhand
-angles and you can\'t get around the ball to hit your big forehand. Pro
+angles and you can't get around the ball to hit your big forehand. Pro
 Example: Martina Hingis.
 
 When you opponent uses sharp angles to keep you from hitting your
@@ -214,13 +208,12 @@ in the hitting zone.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image7.webp)
 
 **Facing the big bomb, adjust your position and/or float the return.**
 
 **[Scenario 6:]{.underline}** Your opponent is bombing serves and you
-just can\'t seem to hit the ball deep enough on returns to neutralize
+just can't seem to hit the ball deep enough on returns to neutralize
 the point. Pro Example: Andy Roddick.
 
 Against a player with a huge serve, you must begin to recognize the
@@ -239,8 +232,7 @@ and she is winning a close match. Pro Example: Amelie Mauresmo.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_situational-and-scenario-analysis-part-1/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-1/media/image8.webp)
 
 **What if your opponent is beating you to the net?**
 
@@ -258,14 +250,13 @@ volley player even if you are normally a committed baseliner.
 
 In all these scenarios, you are trying to assess\--and implement\--your
 best chance to win a particular match against a particular opponent.
-That\'s the underlying theme. It\'s learning to think about your match
+That's the underlying theme. It's learning to think about your match
 play from a broader, more flexible and creative perspective than most
 players ever develop in the juniors. Stay tuned for more situational
 play examples in Part 2!
 
 ![A person holding a tennis racket Description automatically
-generated](media_situational-and-scenario-analysis-part-1/media/image9.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_situational-and-scenario-analysis-part-1/media/image9.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

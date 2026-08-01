@@ -13,11 +13,11 @@ học, wave mechanics và y học thể thao --- nghiên cứu về cách ba h�
 tay, mắt và chân hoạt động như một thể thống nhất trong mỗi cú đánh
 tennis.*
 
-+:---------------------:+:---------------------:+:---------------------:+
-| **3**                 | **12**                | **48**                |
-|                       |                       |                       |
-| HỆ THỐNG CHÍNH        | CHƯƠNG NỘI DUNG       | BÀI TẬP THỰC HÀNH     |
-+-----------------------+-----------------------+-----------------------+
+| **3** | **12** | **48** |
+| --- | --- | --- |
+|  |  |  |
+| HỆ THỐNG CHÍNH | CHƯƠNG NỘI DUNG | BÀI TẬP THỰC HÀNH |
+
 
 Henry Project Manuscript · Hand Proprioception in Tennis · Advanced
 Edition
@@ -182,7 +182,7 @@ thông tin xử lý cực cao. Cerebellum chịu trách nhiệm:
   tranh thống nhất
 
 Khi bạn luyện tập một cú forehand hàng nghìn lần, cerebellum xây dựng
-một \'internal model\' ngày càng chính xác hơn về cú đánh đó. Mô hình
+một 'internal model' ngày càng chính xác hơn về cú đánh đó. Mô hình
 này cho phép não dự đoán chính xác lực cần thiết, timing cần thiết và vị
 trí cần thiết --- ngay cả trước khi nhận được phản hồi từ cơ thể.
 
@@ -205,7 +205,7 @@ thưởng và kỳ vọng. Não học nhanh nhất khi kết quả không hoàn 
 dự đoán: không quá dễ (không có học) và không quá khó (không có thành
 công để củng cố).
 
-Đây là cơ sở khoa học cho khái niệm \'zone of proximal development\'
+Đây là cơ sở khoa học cho khái niệm 'zone of proximal development'
 trong luyện tập: mức độ thách thức lý tưởng là khoảng 60--80% tỷ lệ
 thành công. Tập luyện ở mức này tối đa hóa việc phóng thích dopamine và
 tốc độ học của cerebellum.
@@ -263,7 +263,7 @@ thời điểm:
                    rời vợt       chuẩn bị hồi vị
   ---------------- ------------- ----------------------------------------
 
-> *Không phải \'cố nhìn bóng\'. Mà là \'để attention tự khóa vào bóng\'.
+> *Không phải 'cố nhìn bóng'. Mà là 'để attention tự khóa vào bóng'.
 > Cảm giác đúng là camera autofocus bắt chủ thể --- mọi thứ khác fade
 > out, contact xảy ra gần như tự động.*
 
@@ -303,7 +303,7 @@ nhảy thẳng đến điểm dự đoán bóng sẽ đến).
 
 Tay vợt elite hầu như luôn dùng predictive gaze: thay vì chase bóng bằng
 mắt liên tục, họ dự đoán điểm nảy và đặt mắt sẵn ở đó. Điều này cho phép
-\'quiet eye\' --- gaze ổn định hơn nhiều tại thời điểm quan trọng.
+'quiet eye' --- gaze ổn định hơn nhiều tại thời điểm quan trọng.
 
 Người mới thường dùng smooth pursuit --- mắt luôn hơi chậm hơn bóng, dẫn
 đến gaze không bao giờ thực sự ổn định tại impact. Luyện tập predictive
@@ -311,29 +311,28 @@ gaze là một kỹ năng thị giác cụ thể, có thể phát triển.
 
 **3.4 Quiet Eye --- Khoa Học Và Thực Hành**
 
-\'Quiet eye\' là khái niệm được nhà khoa học Joan Vickers (Đại học
+'Quiet eye' là khái niệm được nhà khoa học Joan Vickers (Đại học
 Calgary) phát triển từ năm 1996. Qua nghiên cứu tracking mắt với nhiều
 VĐV elite, bà phát hiện một pattern nhất quán: tất cả các cú thực hiện
-tốt đều có giai đoạn \'quiet eye\' --- gaze ổn định tại contact point
+tốt đều có giai đoạn 'quiet eye' --- gaze ổn định tại contact point
 hoặc gần đó trong tối thiểu 100ms trước impact.
 
-+-----------------------------------+-----------------------------------+
-| **QUIET EYE ĐÚNG**                | **QUIET EYE SAI**                 |
-+-----------------------------------+-----------------------------------+
-| - Gaze ổn định tại contact zone   | - Gaze nhảy sang target court     |
-|   100--200ms trước và sau impact  |   trước khi đánh                  |
-|                                   |                                   |
-| - Đầu frozen --- không di chuyển  | - Ngẩng đầu trước contact để      |
-|   trong lúc contact               |   \'xem bóng đi đâu\'             |
-|                                   |                                   |
-| - Nheo mắt rất nhẹ, không căng    | - Nheo cứng, mặt căng, cổ căng    |
-|                                   |                                   |
-| - Jaw relaxed --- không cắn răng  | - Chase bóng bằng smooth pursuit  |
-|                                   |   liên tục                        |
-| - Attention tự động lock, không   |                                   |
-|   cần cố                          | - Cố \'nhìn rõ\' thay vì          |
-|                                   |   \'attention tự khóa\'           |
-+-----------------------------------+-----------------------------------+
+| **QUIET EYE ĐÚNG** | **QUIET EYE SAI** |
+| --- | --- |
+| - Gaze ổn định tại contact zone | - Gaze nhảy sang target court |
+| 100--200ms trước và sau impact | trước khi đánh |
+|  |  |
+| - Đầu frozen --- không di chuyển | - Ngẩng đầu trước contact để |
+| trong lúc contact | 'xem bóng đi đâu' |
+|  |  |
+| - Nheo mắt rất nhẹ, không căng | - Nheo cứng, mặt căng, cổ căng |
+|  |  |
+| - Jaw relaxed --- không cắn răng | - Chase bóng bằng smooth pursuit |
+|  | liên tục |
+| - Attention tự động lock, không |  |
+| cần cố | - Cố 'nhìn rõ' thay vì |
+|  | 'attention tự khóa' |
+
 
 **3.5 Peripheral Vision và Tactical Reading**
 
@@ -342,47 +341,47 @@ peripheral awareness. Trong giai đoạn Wide Perception và sau impact,
 peripheral vision cực kỳ quan trọng để: đọc vị trí đối thủ, nhận biết
 khoảng trống trên sân, chuẩn bị hồi vị và đọc phản ứng sau cú đánh.
 
-Elite player thực sự duy trì một dạng \'dual attention\': central focus
+Elite player thực sự duy trì một dạng 'dual attention': central focus
 sắc nét vào bóng kết hợp với peripheral awareness mờ của toàn sân. Đây
 không phải là mâu thuẫn --- hai loại attention này có thể đồng tồn tại
 khi được huấn luyện đúng.
 
 **3.6 Bài Tập Phát Triển Visual System**
 
-+:------:+--------------------------------------------------------------+
-| **01** | **Drill \'See the Seam\'**                                   |
-|        |                                                              |
-|        | Tập trung nhìn vào đường may (seam) hoặc logo trên bóng      |
-|        | trong lúc hit. Không cần thực sự thấy rõ --- việc cố gắng    |
-|        | thấy ép quality gaze lên cao hơn. Shadow swing chậm với      |
-|        | focus tuyệt đối vào contact point.                           |
-+--------+--------------------------------------------------------------+
+| **01** | **Drill 'See the Seam'** |
+| --- | --- |
+|  |  |
+|  | Tập trung nhìn vào đường may (seam) hoặc logo trên bóng |
+|  | trong lúc hit. Không cần thực sự thấy rõ --- việc cố gắng |
+|  | thấy ép quality gaze lên cao hơn. Shadow swing chậm với |
+|  | focus tuyệt đối vào contact point. |
 
-+:------:+--------------------------------------------------------------+
-| **02** | **Drill \'Freeze the Head\'**                                |
-|        |                                                              |
-|        | Đặt tờ giấy nhỏ trên đầu. Đánh forehand mà không để giấy rơi |
-|        | trong suốt swing và ngay sau contact. Bài tập này ép đầu ổn  |
-|        | định, kéo theo mắt ổn định và quiet eye tự nhiên hơn.        |
-+--------+--------------------------------------------------------------+
 
-+:------:+--------------------------------------------------------------+
-| **03** | **Drill \'Look Longer\'**                                    |
-|        |                                                              |
-|        | Sau mỗi cú đánh, đếm thầm \'1-2\' trước khi mắt rời contact  |
-|        | zone. Hầu hết người mới nhìn bóng quá ngắn. Bài tập này      |
-|        | luyện gaze duration dài hơn --- thường ngay lập tức cải      |
-|        | thiện contact quality.                                       |
-+--------+--------------------------------------------------------------+
+| **02** | **Drill 'Freeze the Head'** |
+| --- | --- |
+|  |  |
+|  | Đặt tờ giấy nhỏ trên đầu. Đánh forehand mà không để giấy rơi |
+|  | trong suốt swing và ngay sau contact. Bài tập này ép đầu ổn |
+|  | định, kéo theo mắt ổn định và quiet eye tự nhiên hơn. |
 
-+:------:+--------------------------------------------------------------+
-| **04** | **Drill \'Background Blur\'**                                |
-|        |                                                              |
-|        | Trước khi đối thủ đánh, chủ động \'blur\' mental attention   |
-|        | khỏi background. Nhìn đến đó nhưng không \'đọc\' nó. Khi     |
-|        | bóng rời vợt, focus sắc lại vào bóng. Tập với partner ném    |
-|        | bóng từ baseline, 30 lần mỗi bên.                            |
-+--------+--------------------------------------------------------------+
+
+| **03** | **Drill 'Look Longer'** |
+| --- | --- |
+|  |  |
+|  | Sau mỗi cú đánh, đếm thầm '1-2' trước khi mắt rời contact |
+|  | zone. Hầu hết người mới nhìn bóng quá ngắn. Bài tập này |
+|  | luyện gaze duration dài hơn --- thường ngay lập tức cải |
+|  | thiện contact quality. |
+
+
+| **04** | **Drill 'Background Blur'** |
+| --- | --- |
+|  |  |
+|  | Trước khi đối thủ đánh, chủ động 'blur' mental attention |
+|  | khỏi background. Nhìn đến đó nhưng không 'đọc' nó. Khi |
+|  | bóng rời vợt, focus sắc lại vào bóng. Tập với partner ném |
+|  | bóng từ baseline, 30 lần mỗi bên. |
+
 
 **CHƯƠNG 4** VISUAL CUES --- ĐỌC ĐỐI THỦ TRƯỚC KHI BÓNG RỜI VỢT
 
@@ -413,7 +412,7 @@ bóng rời vợt là muộn. Bạn PHẢI bắt đầu di chuyển trước khi
 **4.2 Cue Hierarchy --- Tầm Quan Trọng Của Các Tín Hiệu**
 
 Không phải tất cả visual cue đều có giá trị như nhau. Nghiên cứu
-eye-tracking với tay vợt elite cho thấy một \'cue hierarchy\' rõ ràng:
+eye-tracking với tay vợt elite cho thấy một 'cue hierarchy' rõ ràng:
 
   ---------------- ------------------------------------------------------
   **Cue cấp 1 ---  Vị trí toss --- cách baseline, cách thân người --- dự
@@ -462,23 +461,23 @@ Nghiên cứu của Farrow và Abernethy (2002) chứng minh protocol này cải
 thiện anticipation đáng kể trong 6 buổi tập, và cải thiện này chuyển đổi
 được sang sân thực.
 
-+:------:+--------------------------------------------------------------+
-| **05** | **Drill \'Contact Freeze\'**                                 |
-|        |                                                              |
-|        | Nhờ partner hit ball. Ngay khi bóng rời vợt partner, la lớn  |
-|        | hướng bóng (\'cross\' hoặc \'line\') trước khi bóng qua      |
-|        | lưới. Tập này ép bạn đọc cue từ cơ thể đối thủ thay vì chờ   |
-|        | bóng bay. Mục tiêu: 70% chính xác sau 2 tuần.                |
-+--------+--------------------------------------------------------------+
+| **05** | **Drill 'Contact Freeze'** |
+| --- | --- |
+|  |  |
+|  | Nhờ partner hit ball. Ngay khi bóng rời vợt partner, la lớn |
+|  | hướng bóng ('cross' hoặc 'line') trước khi bóng qua |
+|  | lưới. Tập này ép bạn đọc cue từ cơ thể đối thủ thay vì chờ |
+|  | bóng bay. Mục tiêu: 70% chính xác sau 2 tuần. |
 
-+:------:+--------------------------------------------------------------+
-| **06** | **Drill \'Shoulder Lock\'**                                  |
-|        |                                                              |
-|        | Yêu cầu partner hit và nhìn ONLY vào shoulder line đối thủ   |
-|        | trước khi bóng rời vợt. Mọi thứ khác blur. Đây là cue cấp 2  |
-|        | --- học cách đọc vai cho thấy cải thiện anticipation nhanh   |
-|        | nhất cho người mới.                                          |
-+--------+--------------------------------------------------------------+
+
+| **06** | **Drill 'Shoulder Lock'** |
+| --- | --- |
+|  |  |
+|  | Yêu cầu partner hit và nhìn ONLY vào shoulder line đối thủ |
+|  | trước khi bóng rời vợt. Mọi thứ khác blur. Đây là cue cấp 2 |
+|  | --- học cách đọc vai cho thấy cải thiện anticipation nhanh |
+|  | nhất cho người mới. |
+
 
 **CHƯƠNG 5** VISUAL--MOTOR INTEGRATION --- KẾT NỐI MẮT VỚI CHUYỂN ĐỘNG
 
@@ -504,7 +503,7 @@ transformation đơn giản hơn và sai số nhỏ hơn.
 **5.2 Efference Copy --- Tiên Đoán Trước Hành Động**
 
 Một cơ chế thần kinh quan trọng là efference copy: khi não gửi lệnh vận
-động đến cơ bắp, nó đồng thời gửi một \'bản sao\' của lệnh đó đến
+động đến cơ bắp, nó đồng thời gửi một 'bản sao' của lệnh đó đến
 cerebellum. Cerebellum dùng bản sao này để dự đoán cảm giác sẽ nhận được
 --- trước khi cảm giác thực tế đến.
 
@@ -522,7 +521,7 @@ tiền đình) cung cấp thông tin chính xác hơn, và footwork hiệu quả
 Ngược lại: khi mắt di chuyển quá nhiều --- chase bóng bằng smooth
 pursuit, ngẩng đầu sớm, nhìn target --- vestibular system bị nhiễu, làm
 chân kém ổn định. Đây là một cơ chế ít được biết đến giải thích tại sao
-\'xem bóng\' cũng cải thiện footwork.
+'xem bóng' cũng cải thiện footwork.
 
 > Công thức thực hành: Stable gaze → Stable head → Stable vestibular →
 > Better ground contact → Better kinetic chain → Cleaner impact. Cải
@@ -540,23 +539,23 @@ chính xác. Đây là thứ được xây dựng qua luyện tập có repetiti
 không phải qua hiểu biết lý thuyết. Nhưng hiểu biết lý thuyết giúp bạn
 tập đúng phương hướng.
 
-+:------:+--------------------------------------------------------------+
-| **07** | **Drill \'Three Peak Sync\'**                                |
-|        |                                                              |
-|        | Shadow swing với focus tìm cảm giác 3 đỉnh đồng thời: (1)    |
-|        | tưởng tượng bóng ở contact zone, (2) cảm giác chân plant     |
-|        | hoàn thành, (3) cảm giác wrist acceleration tối đa. Tập chậm |
-|        | 50%, tìm cảm giác sync trước khi tăng tốc.                   |
-+--------+--------------------------------------------------------------+
+| **07** | **Drill 'Three Peak Sync'** |
+| --- | --- |
+|  |  |
+|  | Shadow swing với focus tìm cảm giác 3 đỉnh đồng thời: (1) |
+|  | tưởng tượng bóng ở contact zone, (2) cảm giác chân plant |
+|  | hoàn thành, (3) cảm giác wrist acceleration tối đa. Tập chậm |
+|  | 50%, tìm cảm giác sync trước khi tăng tốc. |
 
-+:------:+--------------------------------------------------------------+
-| **08** | **Drill \'Metronome Impact\'**                               |
-|        |                                                              |
-|        | Bật metronome 80--100 BPM. Mỗi nhịp = một impact. Shadow     |
-|        | swing với bóng tưởng tượng, đảm bảo contact ĐÚNG nhịp        |
-|        | metronome. Bài tập này xây dựng internal timing clock cực kỳ |
-|        | hiệu quả.                                                    |
-+--------+--------------------------------------------------------------+
+
+| **08** | **Drill 'Metronome Impact'** |
+| --- | --- |
+|  |  |
+|  | Bật metronome 80--100 BPM. Mỗi nhịp = một impact. Shadow |
+|  | swing với bóng tưởng tượng, đảm bảo contact ĐÚNG nhịp |
+|  | metronome. Bài tập này xây dựng internal timing clock cực kỳ |
+|  | hiệu quả. |
+
 
 **CHƯƠNG 6** HỆ THỐNG CHÂN --- GROUND FORCE VÀ FOOTWORK
 
@@ -570,16 +569,16 @@ force.
 
 **6.1 Ba Điểm Tiếp Xúc Của Bàn Chân**
 
-Cảm giác \'dán xuống đất\' --- mà nhiều tay vợt mô tả như điều kiện tiên
+Cảm giác 'dán xuống đất' --- mà nhiều tay vợt mô tả như điều kiện tiên
 quyết của cú đánh tốt --- thực ra đến từ ba điểm tiếp xúc chủ động của
 bàn chân với mặt sân:
 
   ------------------ ----------------------------------------------------
-  **Ụ ngón cái (ball Tạo lực đẩy chính và định hướng đẩy. Khi \'vặn\'
+  **Ụ ngón cái (ball Tạo lực đẩy chính và định hướng đẩy. Khi 'vặn'
   of big toe)**      xuống sân, kích hoạt cơ mông và đùi ngoài.
 
-  **Ụ ngón út (ball  Tạo lateral stability. Cùng với ụ ngón cái tạo \'cây
-  of little toe)**   cầu\' ngang qua lòng bàn chân.
+  **Ụ ngón út (ball  Tạo lateral stability. Cùng với ụ ngón cái tạo 'cây
+  of little toe)**   cầu' ngang qua lòng bàn chân.
 
   **Gót (heel) ---   Chỉ chạm hờ sau hai điểm trước. Nếu gót chạm trước
   chạm rất nhẹ**     --- mất khả năng vặn và dán.
@@ -593,12 +592,12 @@ bàn chân với mặt sân:
 
 **Giai đoạn 1: Split Step --- Nạp Lò Xo**
 
-Split step là không phải cú nhảy lên cao --- đó là một nhịp \'nạp lò
-xo\' nhỏ. Ngay khi đối thủ chạm bóng, bật nhẹ 2--3cm, tiếp đất bằng mũi
+Split step là không phải cú nhảy lên cao --- đó là một nhịp 'nạp lò
+xo' nhỏ. Ngay khi đối thủ chạm bóng, bật nhẹ 2--3cm, tiếp đất bằng mũi
 chân, gối gập khoảng 130 độ. Trọng tâm hạ thấp, gót không chạm đất. Từ
 vị trí này bạn có thể đẩy ra mọi hướng trong tối thiểu thời gian.
 
-Timing của split step là tất cả: quá sớm → chân đã \'chết\' trước khi
+Timing của split step là tất cả: quá sớm → chân đã 'chết' trước khi
 biết bóng đi đâu; quá muộn → bỏ lỡ giai đoạn elastic potential. Timing
 đúng là khi FEET chạm đất đồng thời với lúc đối thủ chạm bóng.
 
@@ -606,14 +605,14 @@ biết bóng đi đâu; quá muộn → bỏ lỡ giai đoạn elastic potential
 
 Bước cuối cùng trước khi đánh, chân ngoài (chân phải nếu đánh forehand
 thuận tay phải) đặt chéo 45 độ so với lưới. Không bước dài quá --- đây
-là sai lầm phổ biến nhất. Cảm giác \'dán\' xuất hiện khi chủ động xoắn
+là sai lầm phổ biến nhất. Cảm giác 'dán' xuất hiện khi chủ động xoắn
 bàn chân xuống sân, như vặn một con ốc, để cơ mông và đùi ngoài căng
 lên. Gót chỉ chạm hờ, 70% trọng lượng ở lòng bàn chân trước.
 
 **Giai đoạn 3: Plant & Push --- Dính Rồi Bật**
 
 Khi bóng vào vùng đánh, giữ nguyên áp lực 3 điểm đó trong 0.2 giây, rồi
-đẩy ngược lại từ chính chỗ \'dán\' đó. Nếu đúng, nghe tiếng \'kít\' rất
+đẩy ngược lại từ chính chỗ 'dán' đó. Nếu đúng, nghe tiếng 'kít' rất
 ngắn trên hard court, không phải tiếng kéo lê. Đây không chỉ là cảm giác
 ổn định mà là ground reaction force đang được tận dụng.
 
@@ -632,7 +631,7 @@ chứ không lao tới.
 Split step sớm ngay khi thấy bóng đi rộng. Bước đầu tiên là bước chéo
 mạnh bằng chân trái qua trước người --- không phải bước ngang. 2--3 bước
 shuffle nhỏ điều chỉnh, mũi chân luôn hướng về lưới. Bước cuối: chân
-phải đặt ngoài, ngón chân hơi chếch vào sân, \'vặn\' xuống để dán. Sai
+phải đặt ngoài, ngón chân hơi chếch vào sân, 'vặn' xuống để dán. Sai
 lầm phổ biến: chạy bằng bước dài, đặt gót chân phải trước.
 
 **Mẫu 3: Drop step + Open stance --- Bóng sâu phải lùi**
@@ -644,8 +643,8 @@ trước --- không kéo tay.
 
 **6.4 Happy Feet --- Trạng Thái Chân Giữa Các Cú Đánh**
 
-\'Happy feet\' không phải là nhảy tưng tưng cho vui --- đó là trạng thái
-chân luôn \'sống\' giữa các cú đánh để khi cần mới có thể dán xuống đúng
+'Happy feet' không phải là nhảy tưng tưng cho vui --- đó là trạng thái
+chân luôn 'sống' giữa các cú đánh để khi cần mới có thể dán xuống đúng
 lúc. Federer giữa hai cú forehand: gót không bao giờ chạm hẳn xuống đất,
 đầu gối nhún 2--3cm liên tục, mũi chân gõ nhẹ như đang nghe nhạc.
 
@@ -659,7 +658,7 @@ lúc. Federer giữa hai cú forehand: gót không bao giờ chạm hẳn xuốn
   **✓ Split được bất Không cần chuẩn bị thêm, vì chân đã ở trên mũi liên
   cứ lúc**           tục
 
-  **✗ Gót chạm đất   Mỗi lần gót chạm là một lần \'chết chân\' --- mất
+  **✗ Gót chạm đất   Mỗi lần gót chạm là một lần 'chết chân' --- mất
   giữa nhịp**        elastic potential
   ------------------ ----------------------------------------------------
 
@@ -675,7 +674,7 @@ là hệ thống sóng có pha trễ --- wave cascade với phase delays tự nh
 **7.1 Ground Reaction Force --- Điểm Bắt Đầu**
 
 Khi bàn chân plant và tạo áp lực xuống mặt sân, mặt sân đẩy ngược lại
-với lực bằng và ngược chiều (Newton\'s 3rd Law). Đây là ground reaction
+với lực bằng và ngược chiều (Newton's 3rd Law). Đây là ground reaction
 force (GRF) --- lực khởi đầu cho toàn bộ cú đánh. Kích thước GRF phụ
 thuộc vào: lực của cú plant, thời gian duy trì áp lực, và góc của bàn
 chân với mặt sân.
@@ -696,7 +695,7 @@ ATP cho thấy một chuỗi pha trễ tự nhiên:
 >
 > → Forearm unwind (delay \~15ms) → Racket whip (delay \~10ms)
 
-Mỗi segment đến sau một chút so với segment trước --- \'lag\' này không
+Mỗi segment đến sau một chút so với segment trước --- 'lag' này không
 phải là điều cần tránh mà là cơ chế tạo lực. Giống như vung roi: đầu roi
 chuyển động nhanh hơn tay rất nhiều vì có cascade phase delay tự nhiên.
 Grip cứng phá vỡ chuỗi này --- đó là lý do sâu xa nhất tại sao grip cứng
@@ -720,9 +719,9 @@ thống.
 
 **7.4 Racket Lag --- Hiện Tượng Wave Delay**
 
-\'Lag racket\' là một khái niệm nhiều HLV dạy nhưng ít giải thích đúng
+'Lag racket' là một khái niệm nhiều HLV dạy nhưng ít giải thích đúng
 cơ chế. Racket lag không phải là động tác chủ động --- không có tay vợt
-nào \'cố lag racket\'. Nó là kết quả tự nhiên của inertia và elastic
+nào 'cố lag racket'. Nó là kết quả tự nhiên của inertia và elastic
 chain:
 
 - Khi thân xoay, cánh tay có inertia lớn hơn thân nên bị trễ
@@ -736,14 +735,14 @@ chain:
   whip
 
 Bóp grip cứng kết nối cứng forearm với racket, loại bỏ phase delay cuối
-cùng và biến \'whip\' thành \'push\'. Racket head speed giảm đáng kể,
+cùng và biến 'whip' thành 'push'. Racket head speed giảm đáng kể,
 spin giảm, power giảm.
 
 **7.5 Impedance Matching --- Grip Như Giao Điểm Sóng**
 
 Trong vật lý sóng, khi sóng truyền từ môi trường này sang môi trường
 khác, một phần sóng được phản xạ lại phụ thuộc vào sự khác biệt về
-\'impedance\' (khả năng chống lại chuyển động) giữa hai môi trường. Nếu
+'impedance' (khả năng chống lại chuyển động) giữa hai môi trường. Nếu
 impedance khớp hoàn hảo --- không có phản xạ, toàn bộ sóng truyền qua.
 
 Grip tối ưu trong tennis hoạt động theo nguyên lý impedance matching:
@@ -792,7 +791,7 @@ bắt đầu bằng chân phải bước ngang --- mở hông quá sớm, mất 
 
 **Backhand --- Outside Leg Bridge (Bóng sang trái)**
 
-Chân trái là \'outside leg\' cho backhand thuận tay phải. Chuỗi: Split →
+Chân trái là 'outside leg' cho backhand thuận tay phải. Chuỗi: Split →
 Chân trái bước chéo ra trước (crossover lead) → Shuffle → Plant chân
 trái, vặn mũi chân xuống 30° → Thân xoay quanh trục chân trái → Chân
 phải giữ thăng bằng phía sau. Chân phải không mang trọng lượng trong
@@ -817,52 +816,52 @@ lưới.
 
 Carlos Alcaraz sử dụng chuỗi 5 nhịp cho forehand kéo rộng: (1) Split
 đúng lúc khi đối thủ contact, (2) Crossover lead bằng chân trái, (3)
-Shuffle 2--3 bước nhỏ điều chỉnh, (4) Plant \'phanh\' chân phải chếch
+Shuffle 2--3 bước nhỏ điều chỉnh, (4) Plant 'phanh' chân phải chếch
 30--45°, (5) Dán và đẩy hồi vị ngay sau swing.
 
 Jannik Sinner trong bóng vừa phải: thêm 3 bước stutter sau crossover,
-\'nhảy tại chỗ\' để giữ cơ đùi căng, không đến sớm và đứng chết. Đây là
-cách giải quyết vấn đề \'tới sớm rồi chân nguội\' đặc trưng của bóng vừa
+'nhảy tại chỗ' để giữ cơ đùi căng, không đến sớm và đứng chết. Đây là
+cách giải quyết vấn đề 'tới sớm rồi chân nguội' đặc trưng của bóng vừa
 phải.
 
 **8.4 Bài Tập Footwork Có Hệ Thống**
 
-+:------:+--------------------------------------------------------------+
-| **09** | **Drill \'Gravity Step\'**                                   |
-|        |                                                              |
-|        | Đứng giữa baseline, tưởng tượng bóng forehand phải. Bật      |
-|        | split, thả lỏng để chân phải tự rơi chéo ra sau theo trọng   |
-|        | lực --- không chủ động bước. Chân chạm đất bằng mũi. 20 lần  |
-|        | mỗi bên. Bài tập này xây dựng cảm giác chân \'rơi đúng\'     |
-|        | thay vì \'bước cứng\'.                                       |
-+--------+--------------------------------------------------------------+
+| **09** | **Drill 'Gravity Step'** |
+| --- | --- |
+|  |  |
+|  | Đứng giữa baseline, tưởng tượng bóng forehand phải. Bật |
+|  | split, thả lỏng để chân phải tự rơi chéo ra sau theo trọng |
+|  | lực --- không chủ động bước. Chân chạm đất bằng mũi. 20 lần |
+|  | mỗi bên. Bài tập này xây dựng cảm giác chân 'rơi đúng' |
+|  | thay vì 'bước cứng'. |
 
-+:------:+--------------------------------------------------------------+
-| **10** | **Drill \'Cone 1-2-Plant\'**                                 |
-|        |                                                              |
-|        | Đặt 3 nón cách nhau 1.5m theo hình chữ V. Chạy shuffle tới   |
-|        | nón 1, 2 bước điều chỉnh nhỏ, plant và giữ 2 giây ở tư thế   |
-|        | semi-open. Nghe tiếng \'kít\' ngắn là đúng. 4 vòng qua 3     |
-|        | nón, nghỉ 30s giữa vòng.                                     |
-+--------+--------------------------------------------------------------+
 
-+:------:+--------------------------------------------------------------+
-| **11** | **Drill \'Stutter Steps\'**                                  |
-|        |                                                              |
-|        | Bật metronome 120 BPM. Sau crossover, shuffle đúng 3 nhịp    |
-|        | metronome (3 bước nhỏ), plant ở nhịp 4. Bài tập dạy não đến  |
-|        | \'đúng lúc\' với bóng vừa phải --- không đến sớm, không đến  |
-|        | muộn.                                                        |
-+--------+--------------------------------------------------------------+
+| **10** | **Drill 'Cone 1-2-Plant'** |
+| --- | --- |
+|  |  |
+|  | Đặt 3 nón cách nhau 1.5m theo hình chữ V. Chạy shuffle tới |
+|  | nón 1, 2 bước điều chỉnh nhỏ, plant và giữ 2 giây ở tư thế |
+|  | semi-open. Nghe tiếng 'kít' ngắn là đúng. 4 vòng qua 3 |
+|  | nón, nghỉ 30s giữa vòng. |
 
-+:------:+--------------------------------------------------------------+
-| **12** | **Drill \'Khăn Không Trượt\'**                               |
-|        |                                                              |
-|        | Đặt khăn mỏng dưới mũi chân phải ở vị trí plant. Shadow      |
-|        | forehand nhiều lần với yêu cầu khăn không xê dịch. Nếu khăn  |
-|        | trượt: đặt gót trước hoặc không vặn đủ. Bài tập kiểm tra     |
-|        | quality of plant trực tiếp nhất.                             |
-+--------+--------------------------------------------------------------+
+
+| **11** | **Drill 'Stutter Steps'** |
+| --- | --- |
+|  |  |
+|  | Bật metronome 120 BPM. Sau crossover, shuffle đúng 3 nhịp |
+|  | metronome (3 bước nhỏ), plant ở nhịp 4. Bài tập dạy não đến |
+|  | 'đúng lúc' với bóng vừa phải --- không đến sớm, không đến |
+|  | muộn. |
+
+
+| **12** | **Drill 'Khăn Không Trượt'** |
+| --- | --- |
+|  |  |
+|  | Đặt khăn mỏng dưới mũi chân phải ở vị trí plant. Shadow |
+|  | forehand nhiều lần với yêu cầu khăn không xê dịch. Nếu khăn |
+|  | trượt: đặt gót trước hoặc không vặn đủ. Bài tập kiểm tra |
+|  | quality of plant trực tiếp nhất. |
+
 
 **CHƯƠNG 9** HỆ THỐNG TAY --- GRIP, PROPRIOCEPTION VÀ WAVE
 
@@ -897,7 +896,7 @@ cung cấp thông tin khác nhau:
 
 **9.2 Giải Phẫu Grip Theo Chức Năng**
 
-Grip không phải là \'nắm vợt\' mà là một hệ thống 3 lớp chức năng, mỗi
+Grip không phải là 'nắm vợt' mà là một hệ thống 3 lớp chức năng, mỗi
 lớp đảm nhiệm vai trò riêng biệt trong chuỗi truyền sóng:
 
   ------------------- ---------------------------------------------------
@@ -936,58 +935,58 @@ trễ và tạo rigid collision.
 
 **9.4 Dead Hand vs. Alive Hand**
 
-+-----------------------------------+-----------------------------------+
-| **DEAD HAND**                     | **ALIVE HAND**                    |
-|                                   |                                   |
-| - Bóp cứng toàn bàn tay           | - Elastic, responsive, adaptive   |
-|                                   |                                   |
-| - Cổ tay bị khóa trong swing      | - Cổ tay có micro-freedom tự      |
-|                                   |   nhiên                           |
-| - Cẳng tay co căng liên tục       |                                   |
-|                                   | - Cẳng tay thư giãn trong swing   |
-| - Mất cảm giác đầu vợt            |                                   |
-|                                   | - Cảm nhận inertia rõ ràng        |
-| - Mất racket lag                  |                                   |
-|                                   | - Racket lag sâu và tự nhiên      |
-| **Kết quả:**                      |                                   |
-|                                   | **Kết quả:**                      |
-| - Bóng flat, ít spin              |                                   |
-|                                   | - Bóng nặng, explosive, nhiều RPM |
-| - Tennis elbow, wrist pain        |                                   |
-|                                   | - Effortless power                |
-| - Mệt nhanh, racket head speed    |                                   |
-|   thấp                            | - Federer, Alcaraz, Sinner đặc    |
-|                                   |   trưng                           |
-+-----------------------------------+-----------------------------------+
+| **DEAD HAND** | **ALIVE HAND** |
+| --- | --- |
+|  |  |
+| - Bóp cứng toàn bàn tay | - Elastic, responsive, adaptive |
+|  |  |
+| - Cổ tay bị khóa trong swing | - Cổ tay có micro-freedom tự |
+|  | nhiên |
+| - Cẳng tay co căng liên tục |  |
+|  | - Cẳng tay thư giãn trong swing |
+| - Mất cảm giác đầu vợt |  |
+|  | - Cảm nhận inertia rõ ràng |
+| - Mất racket lag |  |
+|  | - Racket lag sâu và tự nhiên |
+| **Kết quả:** |  |
+|  | **Kết quả:** |
+| - Bóng flat, ít spin |  |
+|  | - Bóng nặng, explosive, nhiều RPM |
+| - Tennis elbow, wrist pain |  |
+|  | - Effortless power |
+| - Mệt nhanh, racket head speed |  |
+| thấp | - Federer, Alcaraz, Sinner đặc |
+|  | trưng |
+
 
 **9.5 Racket Như Extension Của Nervous System**
 
 Khi trình độ tăng, racket không còn là object bên ngoài. Nó trở thành
 sensor extension, neural extension, dynamic limb. Trong neuroscience,
-đây là \'tool embodiment\' --- não bộ tích hợp công cụ vào body schema.
+đây là 'tool embodiment' --- não bộ tích hợp công cụ vào body schema.
 
 Player elite có thể: cảm nhận inertia rất nhỏ, đoán hướng bóng qua
 vibration, điều chỉnh mặt vợt cực nhanh mà không cần nhìn vào vợt. Đặc
 biệt quan trọng trong volley, return serve và one-handed backhand ---
 những cú đòi hỏi phản ứng trong \<100ms.
 
-+:------:+--------------------------------------------------------------+
-| **13** | **Drill \'Two-Finger Awareness\'**                           |
-|        |                                                              |
-|        | Chỉ tập trung awareness vào ngón trỏ và ngón cái. Ba ngón    |
-|        | còn lại để mềm hoàn toàn. Shadow swing chậm 50%. Cảm nhận:   |
-|        | mặt vợt thay đổi thế nào? Inertia đầu vợt kéo theo hướng     |
-|        | nào? Luyện proprioception chính xác hơn bất kỳ drill nào     |
-|        | khác.                                                        |
-+--------+--------------------------------------------------------------+
+| **13** | **Drill 'Two-Finger Awareness'** |
+| --- | --- |
+|  |  |
+|  | Chỉ tập trung awareness vào ngón trỏ và ngón cái. Ba ngón |
+|  | còn lại để mềm hoàn toàn. Shadow swing chậm 50%. Cảm nhận: |
+|  | mặt vợt thay đổi thế nào? Inertia đầu vợt kéo theo hướng |
+|  | nào? Luyện proprioception chính xác hơn bất kỳ drill nào |
+|  | khác. |
 
-+:------:+--------------------------------------------------------------+
-| **14** | **Drill \'Floating Racket\'**                                |
-|        |                                                              |
-|        | Cầm vợt chỉ đủ để không rơi (\~15% lực). Đi bộ và xoay thân. |
-|        | Cảm nhận đầu vợt tự đung đưa theo quán tính. Nếu đầu vợt     |
-|        | \'chết\', đang bóp quá mạnh. 5 phút trước mỗi buổi tập.      |
-+--------+--------------------------------------------------------------+
+
+| **14** | **Drill 'Floating Racket'** |
+| --- | --- |
+|  |  |
+|  | Cầm vợt chỉ đủ để không rơi (\~15% lực). Đi bộ và xoay thân. |
+|  | Cảm nhận đầu vợt tự đung đưa theo quán tính. Nếu đầu vợt |
+|  | 'chết', đang bóp quá mạnh. 5 phút trước mỗi buổi tập. |
+
 
 **CHƯƠNG 10** CÚ ĐÁNH CỤ THỂ --- PHÂN TÍCH TÍCH HỢP
 
@@ -1044,7 +1043,7 @@ anatomy của cánh tay.
 
 **Footwork đặc thù:**
 
-Chân trái là \'outside leg\' --- cần tạo bridge hoàn hảo. Plant với mũi
+Chân trái là 'outside leg' --- cần tạo bridge hoàn hảo. Plant với mũi
 chân chếch vào sân 30°, gối gập sâu. Thân xoay quanh trục chân trái ---
 chân phải lơ lửng phía sau chỉ để thăng bằng. Đây là pattern hoàn toàn
 ngược với forehand.
@@ -1057,8 +1056,8 @@ ngẩng đầu theo hướng đánh --- luyện tập cụ thể là cần thi�
 
 **Grip đặc thù:**
 
-Wrist không flop, nhưng cũng không rigid. \'Stabilized elasticity\' ---
-đây là đặc điểm nổi bật của Federer\'s one-handed backhand. Contact feel
+Wrist không flop, nhưng cũng không rigid. 'Stabilized elasticity' ---
+đây là đặc điểm nổi bật của Federer's one-handed backhand. Contact feel
 đúng: bóng ở trên dây lâu hơn, impact clean, effortless penetration.
 
 **10.3 Serve --- Sức Mạnh Và Chính Xác**
@@ -1112,7 +1111,7 @@ adjustment, fingertip sensing trong mili giây.
 **Phân Tích Tay Vợt Elite: Hệ Thống Tích Hợp Trong Thực Tế**
 
 Phân tích chuyển động của tay vợt elite không chỉ là ngưỡng mộ kỹ thuật
---- đó là nghiên cứu khoa học. Mỗi tay vợt top-10 có một \'solution\'
+--- đó là nghiên cứu khoa học. Mỗi tay vợt top-10 có một 'solution'
 riêng cho bài toán tích hợp tay--mắt--chân, phù hợp với thể hình, phong
 cách và điểm mạnh của họ.
 
@@ -1129,12 +1128,12 @@ phần lớn tay vợt khác. Đầu frozen cực kỳ ổn định --- rất kh
 
 Federer nổi tiếng với happy feet liên tục --- không bao giờ đứng chết
 giữa các cú. Điểm đặc biệt: ông arrive sớm và dùng 3--4 bước stutter nhỏ
-để \'fine-tune\' vị trí thay vì bước lớn cuối cùng. Plant của Federer
+để 'fine-tune' vị trí thay vì bước lớn cuối cùng. Plant của Federer
 cực kỳ chính xác nhờ những bước nhỏ điều chỉnh này.
 
 **Hệ thống tay:**
 
-\'Alive wrist\' và \'relaxed hand\' là hallmark của Federer. One-handed
+'Alive wrist' và 'relaxed hand' là hallmark của Federer. One-handed
 backhand của ông là ví dụ hoàn hảo về stabilized elasticity --- wrist
 không flop, không rigid. Unbelievable touch ở volley đến từ
 proprioception cực cao --- racket là phần mở rộng thực sự của nervous
@@ -1154,7 +1153,7 @@ Federer và Djokovic.
 Alcaraz sử dụng footwork kiểu crossover rất linh hoạt --- chuyển đổi
 giữa các pattern cực nhanh. Đặc biệt trong di chuyển ngang, chuỗi 5 nhịp
 của ông (split → crossover → shuffle 2--3 bước → plant → dán) được thực
-hiện ở tốc độ gần như tối đa. Khả năng \'phanh\' và đổi hướng ngay sau
+hiện ở tốc độ gần như tối đa. Khả năng 'phanh' và đổi hướng ngay sau
 plant là phi thường.
 
 **Hệ thống tay:**
@@ -1180,7 +1179,7 @@ power, tìm extra consistency.
 Compact footwork --- Sinner không chạy xa nhưng cover sân hiệu quả. Điểm
 đặc biệt: stutter steps của Sinner trong bóng vừa phải là đáng học nhất
 --- ông luôn có 3 bước nhỏ điều chỉnh trước plant, giữ cơ đùi căng và
-chân \'sống\'. Không bao giờ đứng chết rồi mới plant.
+chân 'sống'. Không bao giờ đứng chết rồi mới plant.
 
 **Hệ thống tay:**
 
@@ -1298,12 +1297,12 @@ Tập trong điều kiện gần thực chiến nhất:
 
 Bạn biết tích hợp đang hoạt động khi:
 
-- Không còn phải \'nghĩ\' về từng hệ thống --- chúng tự xảy ra
+- Không còn phải 'nghĩ' về từng hệ thống --- chúng tự xảy ra
 
-- Cú đánh cảm thấy \'nhẹ\' hơn dù lực không giảm --- effortless power
+- Cú đánh cảm thấy 'nhẹ' hơn dù lực không giảm --- effortless power
 
-- Timing cải thiện mà không cần cố --- bóng \'đến đúng lúc\' thay vì
-  \'phải đuổi theo\'
+- Timing cải thiện mà không cần cố --- bóng 'đến đúng lúc' thay vì
+  'phải đuổi theo'
 
 - Mệt mỏi giảm vì bộ máy hiệu quả hơn, không lãng phí lực
 
@@ -1320,7 +1319,7 @@ Bạn biết tích hợp đang hoạt động khi:
   **V02 --- Freeze    Giấy trên đầu không rơi trong suốt cú đánh
   the Head**          
 
-  **V03 --- Look      Đếm \'1-2\' trước khi mắt rời contact zone sau mỗi
+  **V03 --- Look      Đếm '1-2' trước khi mắt rời contact zone sau mỗi
   Longer**            cú
 
   **V04 ---           Mental blur background, focus sắc chỉ vào bóng
@@ -1350,7 +1349,7 @@ Bạn biết tích hợp đang hoạt động khi:
   **V11 --- Soft Eyes Di chuyển quanh sân với soft focus --- không nhìn
   Walk**              sắc vào thứ gì. Luyện Wide Perception
 
-  **V12 --- Toss      Return serve: la \'body/wide/T\' ngay khi toss xảy
+  **V12 --- Toss      Return serve: la 'body/wide/T' ngay khi toss xảy
   Tracking**          ra
 
   **V13 --- Head      Return serve với ý thức giữ đầu không di chuyển đến
@@ -1381,7 +1380,7 @@ Bạn biết tích hợp đang hoạt động khi:
   **F04 --- Khăn      Khăn dưới mũi chân phải, shadow forehand --- khăn
   Không Trượt**       không xê dịch
 
-  **F05 --- Split     Partner la \'now\' random, bật split step ngay lập
+  **F05 --- Split     Partner la 'now' random, bật split step ngay lập
   Step Timer**        tức. Đo reaction time
 
   **F06 --- Happy     Nhún mũi chân liên tục 30s, gót không chạm đất ---
@@ -1443,8 +1442,8 @@ Bạn biết tích hợp đang hoạt động khi:
   **G06 --- Volley    Đứng gần lưới, partner hit nhẹ --- redirect bóng
   Catch**             không dùng lực, chỉ timing và grip
 
-  **G07 --- Touch     Shadow drop shot với cảm giác \'đón bóng\' --- grip
-  Drop Shadow**       lỏng tối đa tại \'impact\'
+  **G07 --- Touch     Shadow drop shot với cảm giác 'đón bóng' --- grip
+  Drop Shadow**       lỏng tối đa tại 'impact'
 
   **G08 --- Impact    Đập vợt nhẹ vào đệm. Cảm nhận đúng khoảnh khắc
   Pulse**             pulse grip tối đa
@@ -1472,7 +1471,7 @@ Bạn biết tích hợp đang hoạt động khi:
   **G15 --- Tension   Tự đánh giá grip tension 1--10 sau mỗi cú. Mục
   Scale**             tiêu: 2--3 trong swing, 5 tại impact
 
-  **G16 ---           Đánh forehand với cảm giác \'tay nhẹ nhất có thể\'.
+  **G16 ---           Đánh forehand với cảm giác 'tay nhẹ nhất có thể'.
   Effortless          Nếu bóng vẫn đi nặng: grip đúng
   Forehand**          
   ------------------- ---------------------------------------------------

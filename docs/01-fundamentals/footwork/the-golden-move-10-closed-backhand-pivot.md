@@ -6,7 +6,7 @@
 
 **David Bailey**
 
-What\'s the most commonly used golden move in pro tennis? The Closed
+What's the most commonly used golden move in pro tennis? The Closed
 Backhand Pivot. Research has shown that high level players hit the
 majority of backhands with closed stances. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_backhand_stances/two_hander/)
@@ -19,8 +19,7 @@ hander by players coached by David!
 
 ![](media_the-golden-move-10-closed-backhand-pivot/media/image1.png)
 
-![](media_the-golden-move-10-closed-backhand-pivot/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-10-closed-backhand-pivot/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

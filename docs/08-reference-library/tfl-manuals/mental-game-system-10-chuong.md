@@ -68,13 +68,13 @@ các vận động viên hàng đầu không nhất thiết phải đánh tốt 
 họ là tốc độ phục hồi tâm lý --- khả năng không để một điểm thua ảnh
 hưởng đến điểm tiếp theo.
 
-+---+---------------------------------------------------------+
-|   | *\"Trong tennis, bạn không thể kiểm soát được điểm vừa  |
-|   | qua. Bạn chỉ có thể kiểm soát được điểm tiếp theo.      |
-|   | Reset là cây cầu nối giữa hai điểm đó.\"*               |
-|   |                                                         |
-|   | **--- Rafael Nadal**                                    |
-+---+---------------------------------------------------------+
+|  | *\"Trong tennis, bạn không thể kiểm soát được điểm vừa |
+| --- | --- |
+|  | qua. Bạn chỉ có thể kiểm soát được điểm tiếp theo. |
+|  | Reset là cây cầu nối giữa hai điểm đó.\"* |
+|  |  |
+|  | **--- Rafael Nadal** |
+
 
 **1.2 Khoa Học Thần Kinh Đằng Sau Vòng Xoáy Cảm Xúc**
 
@@ -86,42 +86,41 @@ Hạch hạnh nhân (amygdala) --- trung tâm xử lý mối đe dọa của nã
 kích hoạt ngay lập tức.
 
 Sự kích hoạt của amygdala gây ra một chuỗi phản ứng sinh lý học được gọi
-là \'Amygdala Hijack\' (theo thuật ngữ trong The Neuro-Motor Manual).
+là 'Amygdala Hijack' (theo thuật ngữ trong The Neuro-Motor Manual).
 Cortisol và adrenaline được giải phóng vào máu. Nhịp tim tăng lên. Các
 cơ bắp trở nên căng thẳng. Tầm nhìn ngoại vi thu hẹp lại. Và quan trọng
 nhất --- não bộ chuyển quyền kiểm soát vận động từ hệ thống tiềm thức
 nhanh (Basal Ganglia và Cerebellum) sang hệ thống ý thức chậm
 (Prefrontal Cortex).
 
-Kết quả là gì? Vận động viên bắt đầu \'suy nghĩ\' về từng động tác thay
+Kết quả là gì? Vận động viên bắt đầu 'suy nghĩ' về từng động tác thay
 vì thực hiện chúng một cách tự nhiên. Swing trở nên cứng nhắc. Chân mất
 đi sự linh hoạt. Những kỹ thuật đã được mài giũa qua hàng nghìn giờ
 luyện tập đột nhiên cảm thấy xa lạ. Đây chính là hiện tượng mà người
-Pháp gọi là \'Petit Bras\' --- bàn tay nhỏ --- một sự co rút vô thức của
+Pháp gọi là 'Petit Bras' --- bàn tay nhỏ --- một sự co rút vô thức của
 toàn bộ hệ thống vận động.
 
 Nguy hiểm nhất là hiệu ứng dây chuyền này. Một sai lầm dẫn đến căng
 thẳng, căng thẳng dẫn đến kỹ thuật kém hơn, kỹ thuật kém hơn dẫn đến
 thêm sai lầm, thêm sai lầm làm tăng thêm căng thẳng. Các tâm lý gia thể
-thao gọi đây là \'downward spiral\' --- vòng xoáy đi xuống. Và đó là lý
+thao gọi đây là 'downward spiral' --- vòng xoáy đi xuống. Và đó là lý
 do tại sao các trận đấu thường bị mất từ 3-0 thành 6-3 trong một khoảng
 thời gian ngắn đến đáng kinh ngạc.
 
-+:----------------------------------------------------------------+
-| **CƠ CHẾ THẦN KINH CỦA VÒNG XOÁY ÂM**                           |
-+-----------------------------------------------------------------+
-| BƯỚC 1: Sai lầm → Amygdala kích hoạt phản ứng đe dọa            |
-|                                                                 |
-| BƯỚC 2: Cortisol tăng → Cơ bắp căng cứng, tầm nhìn thu hẹp      |
-|                                                                 |
-| BƯỚC 3: Kiểm soát chuyển sang Prefrontal Cortex (chậm, có ý     |
-| thức)                                                           |
-|                                                                 |
-| BƯỚC 4: Kỹ thuật trở nên cứng nhắc, mất đi tính tự nhiên        |
-| (\'Petit Bras\')                                                |
-|                                                                 |
-| BƯỚC 5: Thêm sai lầm → Vòng xoáy tiếp tục sâu hơn               |
-+-----------------------------------------------------------------+
+| **CƠ CHẾ THẦN KINH CỦA VÒNG XOÁY ÂM** |
+| --- |
+| BƯỚC 1: Sai lầm → Amygdala kích hoạt phản ứng đe dọa |
+|  |
+| BƯỚC 2: Cortisol tăng → Cơ bắp căng cứng, tầm nhìn thu hẹp |
+|  |
+| BƯỚC 3: Kiểm soát chuyển sang Prefrontal Cortex (chậm, có ý |
+| thức) |
+|  |
+| BƯỚC 4: Kỹ thuật trở nên cứng nhắc, mất đi tính tự nhiên |
+| ('Petit Bras') |
+|  |
+| BƯỚC 5: Thêm sai lầm → Vòng xoáy tiếp tục sâu hơn |
+
 
 **1.3 Giải Phẫu Của Một Reset Routine Hoàn Hảo**
 
@@ -140,8 +139,8 @@ chuyển động vật lý. Điều này có thể bao gồm một cú vẫy v�
 một vài bước đi nhanh, hay đơn giản là lắc nhẹ bàn tay.
 
 Mục đích của giai đoạn này là kích hoạt hệ thần kinh phó giao cảm
-(parasympathetic nervous system) --- đối lập với phản ứng \'fight or
-flight\' của amygdala. Chuyển động nhẹ nhàng và có chủ đích gửi tín hiệu
+(parasympathetic nervous system) --- đối lập với phản ứng 'fight or
+flight' của amygdala. Chuyển động nhẹ nhàng và có chủ đích gửi tín hiệu
 đến não rằng mối đe dọa đã qua đi và cơ thể có thể bắt đầu trở về trạng
 thái bình thường.
 
@@ -161,11 +160,11 @@ thuật ở mức độ tiềm thức có thể tiếp tục.
 **Giai Đoạn 3: Neo Đậu Nhận Thức --- Mỏ Neo Hiện Tại (20-30 giây)**
 
 Giai đoạn cuối cùng liên quan đến việc đưa sự chú ý của bạn trở về thực
-tại hiện tại thông qua một \'mỏ neo nhận thức\' (cognitive anchor) cụ
+tại hiện tại thông qua một 'mỏ neo nhận thức' (cognitive anchor) cụ
 thể. Đây có thể là việc cảm nhận cảm giác của dây vợt trong tay, nhìn
 vào một điểm cụ thể trên sân, hay lặp lại một câu nói ngắn gọn trong nội
-tâm. Mục đích là chuyển hướng tâm trí từ \'điểm đã qua\' hoặc \'điểm sắp
-tới\' về thực tại ngay bây giờ.
+tâm. Mục đích là chuyển hướng tâm trí từ 'điểm đã qua' hoặc 'điểm sắp
+tới' về thực tại ngay bây giờ.
 
 Các vận động viên đỉnh cao như Novak Djokovic sử dụng chuỗi nảy bóng
 trước khi serve như một mỏ neo nhận thức --- không phải vì thói quen hay
@@ -227,24 +226,23 @@ thị giác (điểm tập trung cụ thể). Sự đa dạng này đảm bảo 
 bạn thực sự được đưa về thực tại hiện tại, không chỉ thực hiện các động
 tác máy móc trong khi vẫn đang suy nghĩ về điểm vừa qua.
 
-+:----------------------------------------------------------------+
-| **MẪU RESET ROUTINE 25 GIÂY**                                   |
-+-----------------------------------------------------------------+
+| **MẪU RESET ROUTINE 25 GIÂY** |
+| --- |
 | Giây 0-5: Bước về phía sau baseline, nhìn xuống đất (không nhìn |
-| vào đối thủ hay khán giả)                                       |
-|                                                                 |
+| vào đối thủ hay khán giả) |
+|  |
 | Giây 5-10: Một hơi thở sâu --- hít vào 4 giây qua mũi, thở ra 6 |
-| giây qua miệng                                                  |
-|                                                                 |
-| Giây 10-15: Điều chỉnh dây vợt bằng hai tay --- cảm nhận        |
-| texture của dây trong ngón tay                                  |
-|                                                                 |
-| Giây 15-20: Một câu cue ngắn gọn trong nội tâm (ví dụ: \'Điểm   |
-| tiếp theo\' hoặc \'Fresh start\')                               |
-|                                                                 |
-| Giây 20-25: Quay về vị trí, thiết lập lại tư thế, \'Quiet Eye\' |
-| vào điểm serve/return                                           |
-+-----------------------------------------------------------------+
+| giây qua miệng |
+|  |
+| Giây 10-15: Điều chỉnh dây vợt bằng hai tay --- cảm nhận |
+| texture của dây trong ngón tay |
+|  |
+| Giây 15-20: Một câu cue ngắn gọn trong nội tâm (ví dụ: 'Điểm |
+| tiếp theo' hoặc 'Fresh start') |
+|  |
+| Giây 20-25: Quay về vị trí, thiết lập lại tư thế, 'Quiet Eye' |
+| vào điểm serve/return |
+
 
 **1.5 Các Mẫu Reset Từ Vận Động Viên Đỉnh Cao**
 
@@ -259,7 +257,7 @@ Djokovic nổi tiếng với thói quen nảy bóng nhiều lần trước khi s
 đôi khi lên đến 15-20 lần. Điều mà nhiều người không nhận ra là số lần
 nảy bóng này không cố định; nó phụ thuộc vào trạng thái tâm lý của anh.
 Djokovic đã chia sẻ rằng anh tiếp tục nảy bóng cho đến khi cảm thấy nhịp
-thở của mình đã ổn định và tâm trí trở nên \'tĩnh lặng\'. Đây là một ví
+thở của mình đã ổn định và tâm trí trở nên 'tĩnh lặng'. Đây là một ví
 dụ hoàn hảo về việc sử dụng phản hồi nội cảm (interoception) để hướng
 dẫn quá trình reset.
 
@@ -267,7 +265,7 @@ dẫn quá trình reset.
 
 Alcaraz sử dụng một phương pháp ngược lại hoàn toàn: thay vì kéo dài quá
 trình reset, anh cố tình rút ngắn nó. Phong cách của anh là sử dụng năng
-lượng cảm xúc tích cực --- bơm tay, hét lên \'Vamos!\' --- như một cách
+lượng cảm xúc tích cực --- bơm tay, hét lên 'Vamos!' --- như một cách
 chuyển hóa ngay lập tức sự thất vọng thành nhiên liệu cho điểm tiếp
 theo. Đây hoạt động hiệu quả vì nó phù hợp với kiểu khí chất extrovert,
 năng động của anh. Điều quan trọng cần lưu ý là nó vẫn phục vụ cùng một
@@ -278,10 +276,10 @@ chỉ là thông qua một kênh khác.
 
 Sinner là ví dụ thuần túy nhất của reset dựa trên nhịp điệu. Anh duy trì
 khoảng thời gian 25 giây đồng đều giữa MỌI điểm --- thắng hay thua, quan
-trọng hay không quan trọng. Điều này tạo ra một \'cơ sở hạ tầng nhịp
-điệu\' (tempo infrastructure) ngăn chặn sự dao động cảm xúc cao thấp làm
+trọng hay không quan trọng. Điều này tạo ra một 'cơ sở hạ tầng nhịp
+điệu' (tempo infrastructure) ngăn chặn sự dao động cảm xúc cao thấp làm
 gián đoạn luồng hiệu suất. Đối thủ mô tả cách chơi của Sinner là
-\'robot-like\' --- và đó chính xác là mục tiêu.
+'robot-like' --- và đó chính xác là mục tiêu.
 
 **1.6 Protocol Luyện Tập Reset Routine**
 
@@ -317,26 +315,25 @@ luyện tập hoặc huấn luyện viên quan sát và nhận xét.
 Thực hành routine trong các tình huống giả lập áp lực cao: tie-break
 điểm cuối, match point, hay các điểm quan trọng với khán giả. Mục tiêu
 là kiểm tra xem routine có hoạt động ổn định khi amygdala được kích hoạt
-hay không. Nếu thấy routine bị \'vỡ\' dưới áp lực, đây là thông tin quan
+hay không. Nếu thấy routine bị 'vỡ' dưới áp lực, đây là thông tin quan
 trọng để điều chỉnh.
 
-+:----------------------------------------------------------------+
-| **DRILL: PRESSURE INOCULATION RESET TRAINING**                  |
-+-----------------------------------------------------------------+
-| Thiết lập: Chơi match với đối tác, nhưng mỗi điểm thua = -2     |
-| điểm thực, mỗi điểm thắng = +1 điểm                             |
-|                                                                 |
-| Quy tắc: PHẢI thực hiện routine đầy đủ sau mỗi điểm thua trong  |
-| vòng 25 giây                                                    |
-|                                                                 |
-| Nếu vi phạm thời gian hoặc bỏ qua routine: -3 điểm phạt thêm    |
-|                                                                 |
-| Mục tiêu: Tạo ra áp lực thi đấu thực sự để kiểm tra tính bền    |
-| vững của routine                                                |
-|                                                                 |
-| Tiến độ: Tăng mức thưởng/phạt mỗi tuần để tăng cường mức độ áp  |
-| lực                                                             |
-+-----------------------------------------------------------------+
+| **DRILL: PRESSURE INOCULATION RESET TRAINING** |
+| --- |
+| Thiết lập: Chơi match với đối tác, nhưng mỗi điểm thua = -2 |
+| điểm thực, mỗi điểm thắng = +1 điểm |
+|  |
+| Quy tắc: PHẢI thực hiện routine đầy đủ sau mỗi điểm thua trong |
+| vòng 25 giây |
+|  |
+| Nếu vi phạm thời gian hoặc bỏ qua routine: -3 điểm phạt thêm |
+|  |
+| Mục tiêu: Tạo ra áp lực thi đấu thực sự để kiểm tra tính bền |
+| vững của routine |
+|  |
+| Tiến độ: Tăng mức thưởng/phạt mỗi tuần để tăng cường mức độ áp |
+| lực |
+
 
 **1.7 Chỉ Số Đo Lường Hiệu Quả Reset**
 
@@ -388,7 +385,7 @@ tiết kiệm rất nhiều thời gian và công sức.
   thái trung tính trong cả hai trường hợp.
 
 - Sai lầm 2 --- Phân tích kỹ thuật trong thời gian reset: Dùng 25 giây
-  giữa các điểm để nghĩ \'Tại sao mình đánh sai?\' là lãng phí hoàn toàn
+  giữa các điểm để nghĩ 'Tại sao mình đánh sai?' là lãng phí hoàn toàn
   thời gian reset. Phân tích kỹ thuật cần diễn ra trong buổi luyện tập,
   không phải trong trận đấu.
 
@@ -433,24 +430,23 @@ triển một Pressure Plan toàn diện --- không chỉ cho những khoảnh k
 sau sai lầm, mà cho toàn bộ cấu trúc tâm lý khi đối mặt với áp lực cao
 nhất của trận đấu.
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 1**                                       |
-+-----------------------------------------------------------------+
+| **ĐIỂM CỐT LÕI CHƯƠNG 1** |
+| --- |
 | 1\. Reset routine là kỹ năng có thể luyện tập và phát triển --- |
-| không phải khả năng bẩm sinh                                    |
-|                                                                 |
-| 2\. Hiệu quả của reset dựa trên 3 cơ chế thần kinh: giải phóng  |
-| vật lý, thở kích thích vagus nerve, mỏ neo nhận thức            |
-|                                                                 |
-| 3\. Routine phải nhất quán sau CẢ điểm thắng và điểm thua ---   |
-| không chỉ sau sai lầm                                           |
-|                                                                 |
-| 4\. Thực hành dưới áp lực là yêu cầu bắt buộc --- không chỉ     |
-| trong môi trường thư giãn                                       |
-|                                                                 |
-| 5\. Routine cá nhân hóa sẽ hiệu quả hơn routine sao chép từ     |
-| người khác                                                      |
-+-----------------------------------------------------------------+
+| không phải khả năng bẩm sinh |
+|  |
+| 2\. Hiệu quả của reset dựa trên 3 cơ chế thần kinh: giải phóng |
+| vật lý, thở kích thích vagus nerve, mỏ neo nhận thức |
+|  |
+| 3\. Routine phải nhất quán sau CẢ điểm thắng và điểm thua --- |
+| không chỉ sau sai lầm |
+|  |
+| 4\. Thực hành dưới áp lực là yêu cầu bắt buộc --- không chỉ |
+| trong môi trường thư giãn |
+|  |
+| 5\. Routine cá nhân hóa sẽ hiệu quả hơn routine sao chép từ |
+| người khác |
+
 
 **CHƯƠNG 02**
 
@@ -467,30 +463,30 @@ nhất của trận đấu.
 Áp lực không phải là kẻ thù của hiệu suất. Áp lực, khi được hiểu và quản
 lý đúng cách, là nhiên liệu cho những màn trình diễn tốt nhất của vận
 động viên. Sự phân biệt quan trọng nhất cần hiểu là: áp lực không phải
-là thứ xảy ra \'với bạn\' mà là thứ bạn tạo ra \'trong tâm trí của
-mình\' dựa trên cách bạn diễn giải một tình huống.
+là thứ xảy ra 'với bạn' mà là thứ bạn tạo ra 'trong tâm trí của
+mình' dựa trên cách bạn diễn giải một tình huống.
 
 Hai vận động viên đứng trước cùng một điểm match point có thể trải
 nghiệm hoàn toàn khác nhau: một người cảm thấy nghẹt thở trong lo âu,
 người kia cảm thấy hứng khởi trước thách thức. Cùng một kích thích bên
 ngoài, nhưng phản ứng nội tâm hoàn toàn trái ngược. Sự khác biệt nằm ở
-hệ thống nhận thức của họ --- cách họ \'diễn giải\' ý nghĩa của tình
+hệ thống nhận thức của họ --- cách họ 'diễn giải' ý nghĩa của tình
 huống đó.
 
-Khoa học thần kinh hiện đại, đặc biệt là nghiên cứu về \'Yerkes-Dodson
-Law\' (Quy Luật Kích Thích Tối Ưu), cho thấy rằng mức độ kích thích sinh
+Khoa học thần kinh hiện đại, đặc biệt là nghiên cứu về 'Yerkes-Dodson
+Law' (Quy Luật Kích Thích Tối Ưu), cho thấy rằng mức độ kích thích sinh
 lý học vừa phải thực sự cải thiện hiệu suất. Vấn đề không phải là cảm
 thấy lo âu --- mà là việc lo âu vượt quá ngưỡng tối ưu và chuyển thành
 trạng thái ức chế thần kinh (neural inhibition).
 
-+---+---------------------------------------------------------+
-|   | *\"Áp lực là đặc quyền. Chỉ những người đang cố gắng    |
-|   | đạt điều gì đó quan trọng mới cảm thấy áp lực. Tôi đón  |
-|   | nhận nó như một dấu hiệu cho thấy mình đang ở đúng chỗ  |
-|   | cần phải ở.\"*                                          |
-|   |                                                         |
-|   | **--- Billie Jean King**                                |
-+---+---------------------------------------------------------+
+|  | *\"Áp lực là đặc quyền. Chỉ những người đang cố gắng |
+| --- | --- |
+|  | đạt điều gì đó quan trọng mới cảm thấy áp lực. Tôi đón |
+|  | nhận nó như một dấu hiệu cho thấy mình đang ở đúng chỗ |
+|  | cần phải ở.\"* |
+|  |  |
+|  | **--- Billie Jean King** |
+
 
 **2.2 Vật Lý Của Áp Lực --- Điều Gì Xảy Ra Trong Cơ Thể**
 
@@ -505,29 +501,28 @@ giảm lượng CO2 và gây ra cảm giác lo âu thêm.
 Từ góc độ tiến hóa, đây là hệ thống tuyệt vời --- được thiết kế để giúp
 tổ tiên chúng ta chạy thoát khỏi con báo. Vấn đề là khi bạn đứng trước
 một match point quan trọng, não bộ của bạn không phân biệt được giữa
-\'mối đe dọa thực sự\' và \'mối đe dọa biểu tượng\'. Nó xử lý áp lực thi
-đấu với cùng một cơ chế như xử lý nguy hiểm vật lý --- dẫn đến \'Petit
-Bras\' và mất đi kỹ năng tinh tế đã được xây dựng qua nhiều năm luyện
+'mối đe dọa thực sự' và 'mối đe dọa biểu tượng'. Nó xử lý áp lực thi
+đấu với cùng một cơ chế như xử lý nguy hiểm vật lý --- dẫn đến 'Petit
+Bras' và mất đi kỹ năng tinh tế đã được xây dựng qua nhiều năm luyện
 tập.
 
-+:----------------------------------------------------------------+
-| **CHUỖI PHẢN ỨNG ÁP LỰC --- TỪ NHẬN THỨC ĐẾN CƠ THỂ**           |
-+-----------------------------------------------------------------+
-| GIAI ĐOẠN 1 --- Nhận thức mối đe dọa: \'Tôi phải thắng điểm     |
-| này\' (Threat appraisal)                                        |
-|                                                                 |
-| GIAI ĐOẠN 2 --- Amygdala kích hoạt: Cortisol + Adrenaline giải  |
-| phóng (0-500ms)                                                 |
-|                                                                 |
-| GIAI ĐOẠN 3 --- Phản ứng thể chất: Tim đập nhanh, cơ căng, thở  |
-| nông (\<1 giây)                                                 |
-|                                                                 |
-| GIAI ĐOẠN 4 --- Suy giảm nhận thức: Prefrontal cortex bị \'ngắt |
-| kết nối\' khỏi motor control                                    |
-|                                                                 |
-| GIAI ĐOẠN 5 --- Petit Bras: Cứng cơ, mất kết nối với kinetic    |
-| chain, kỹ thuật suy giảm                                        |
-+-----------------------------------------------------------------+
+| **CHUỖI PHẢN ỨNG ÁP LỰC --- TỪ NHẬN THỨC ĐẾN CƠ THỂ** |
+| --- |
+| GIAI ĐOẠN 1 --- Nhận thức mối đe dọa: 'Tôi phải thắng điểm |
+| này' (Threat appraisal) |
+|  |
+| GIAI ĐOẠN 2 --- Amygdala kích hoạt: Cortisol + Adrenaline giải |
+| phóng (0-500ms) |
+|  |
+| GIAI ĐOẠN 3 --- Phản ứng thể chất: Tim đập nhanh, cơ căng, thở |
+| nông (\<1 giây) |
+|  |
+| GIAI ĐOẠN 4 --- Suy giảm nhận thức: Prefrontal cortex bị 'ngắt |
+| kết nối' khỏi motor control |
+|  |
+| GIAI ĐOẠN 5 --- Petit Bras: Cứng cơ, mất kết nối với kinetic |
+| chain, kỹ thuật suy giảm |
+
 
 **2.3 Thiết Kế Pressure Plan --- Ba Tầng Phòng Thủ**
 
@@ -541,9 +536,9 @@ xuất hiện đến khi nó đã đạt đỉnh điểm.
 Tầng đầu tiên hoạt động trước khi áp lực xuất hiện. Mục tiêu là nâng cao
 ngưỡng mà tại đó áp lực bắt đầu ảnh hưởng tiêu cực đến hiệu suất. Điều
 này đạt được thông qua ba phương pháp chính: 1) Exposure Training ---
-thường xuyên luyện tập trong các tình huống áp lực cao để tạo ra \'kháng
-thể\' tâm lý; 2) Reframing --- rèn luyện thói quen diễn giải áp lực như
-\'challenge\' thay vì \'threat\'; 3) Confidence Building --- xây dựng bộ
+thường xuyên luyện tập trong các tình huống áp lực cao để tạo ra 'kháng
+thể' tâm lý; 2) Reframing --- rèn luyện thói quen diễn giải áp lực như
+'challenge' thay vì 'threat'; 3) Confidence Building --- xây dựng bộ
 nhớ thành công (success inventory) để có nguồn năng lượng dự trữ khi
 cần.
 
@@ -555,17 +550,17 @@ các kỹ thuật điều tiết sinh lý học để ngăn chặn áp lực leo
 công cụ chính bao gồm: Physiological Sigh (thở ra hai lần để giảm CO2
 nhanh nhất), Cold Water Flush (nhìn chằm chằm vào một điểm lạnh để reset
 tầm nhìn ngoại vi), và Score Neutralization (đọc lại tỷ số theo cách
-trung tính: \'40-30\' thay vì \'Match point\').
+trung tính: '40-30' thay vì 'Match point').
 
 **Tầng 3: Phục Hồi --- Sau Khi Áp Lực Đạt Đỉnh**
 
 Tầng thứ ba được kích hoạt khi áp lực đã vượt qua ngưỡng và bạn đang ở
-trong trạng thái \'choking\' hay gần choking. Mục tiêu là phục hồi nhanh
+trong trạng thái 'choking' hay gần choking. Mục tiêu là phục hồi nhanh
 nhất có thể và ngăn chặn sự sụp đổ hoàn toàn. Các kỹ thuật bao gồm:
 Pattern Interrupt (phá vỡ vòng suy nghĩ tiêu cực bằng một hành động vật
 lý đột ngột), Tactical Simplification (giảm phức tạp chiến thuật xuống
-còn một điểm duy nhất: \'chỉ cần đánh vào\', \'chỉ cần đưa bóng vào
-cuộc\'), và Process Focus Shift (chuyển từ outcome thinking sang process
+còn một điểm duy nhất: 'chỉ cần đánh vào', 'chỉ cần đưa bóng vào
+cuộc'), và Process Focus Shift (chuyển từ outcome thinking sang process
 thinking).
 
   ----------------------- ------------------------------------------
@@ -586,7 +581,7 @@ thinking).
 **2.4 Kỹ Thuật Physiological Sigh --- Công Cụ Nhanh Nhất**
 
 Trong số tất cả các kỹ thuật điều tiết sinh lý học, Physiological Sigh
-(Thở Ra Kép) được Stanford\'s Dr. Andrew Huberman xác định là phương
+(Thở Ra Kép) được Stanford's Dr. Andrew Huberman xác định là phương
 pháp nhanh nhất và hiệu quả nhất để giảm lo âu trong thời gian thực ---
 chỉ cần một chu kỳ thở duy nhất.
 
@@ -607,39 +602,38 @@ thể thực hiện trong chưa đến 10 giây và không cần bất kỳ chu�
 
 Một trong những kỹ thuật mạnh mẽ nhất trong quản lý áp lực là Cognitive
 Reframing --- thay đổi cách bạn diễn giải một tình huống. Não bộ không
-phản ứng với thực tế khách quan; nó phản ứng với cách bạn đang \'kể câu
-chuyện\' về thực tế đó trong nội tâm.
+phản ứng với thực tế khách quan; nó phản ứng với cách bạn đang 'kể câu
+chuyện' về thực tế đó trong nội tâm.
 
 Hãy xem xét một ví dụ cụ thể: Bạn đang serve at 5-5 trong set ba, break
 point against. Trong Threat Frame (khung nhìn đe dọa), nội dung tâm trí
-có thể là: \'Nếu tôi thua điểm này, tôi có thể thua set và thua trận.\'
-Trong Challenge Frame (khung nhìn thách thức), nội dung trở thành: \'Đây
+có thể là: 'Nếu tôi thua điểm này, tôi có thể thua set và thua trận.'
+Trong Challenge Frame (khung nhìn thách thức), nội dung trở thành: 'Đây
 là cơ hội để chứng minh bản thân trong áp lực. Tôi đã luyện tập cho
-chính xác những khoảnh khắc như thế này.\'
+chính xác những khoảnh khắc như thế này.'
 
 Điều thú vị là hai khung nhìn này tạo ra hai trạng thái sinh lý học hoàn
 toàn khác nhau. Threat Frame kích hoạt amygdala và hệ thống phòng thủ.
 Challenge Frame kích hoạt dopamine và hệ thống tưởng thưởng --- dẫn đến
 hiệu suất cao hơn, không phải thấp hơn.
 
-+:----------------------------------------------------------------+
-| **BẢNG CHUYỂN ĐỔI THREAT → CHALLENGE FRAME**                    |
-+-----------------------------------------------------------------+
-| THREAT: \'Tôi không thể để thua điểm này\' → CHALLENGE: \'Mỗi   |
-| điểm là cơ hội mới --- hãy tập trung vào quá trình\'            |
-|                                                                 |
-| THREAT: \'Tôi đang run và căng thẳng\' → CHALLENGE: \'Cơ thể    |
-| tôi đang chuẩn bị cho hiệu suất cao\'                           |
-|                                                                 |
-| THREAT: \'Đối thủ đang đánh rất tốt\' → CHALLENGE: \'Đây là thử |
-| thách thực sự --- điều này sẽ làm tôi mạnh hơn\'                |
-|                                                                 |
-| THREAT: \'Tôi sắp thua\' → CHALLENGE: \'Trận đấu chưa kết thúc  |
-| --- mọi điểm đều có thể xảy ra\'                                |
-|                                                                 |
-| THREAT: \'Tôi không muốn mắc sai lầm\' → CHALLENGE: \'Tôi muốn  |
-| tấn công và kiểm soát điểm này\'                                |
-+-----------------------------------------------------------------+
+| **BẢNG CHUYỂN ĐỔI THREAT → CHALLENGE FRAME** |
+| --- |
+| THREAT: 'Tôi không thể để thua điểm này' → CHALLENGE: 'Mỗi |
+| điểm là cơ hội mới --- hãy tập trung vào quá trình' |
+|  |
+| THREAT: 'Tôi đang run và căng thẳng' → CHALLENGE: 'Cơ thể |
+| tôi đang chuẩn bị cho hiệu suất cao' |
+|  |
+| THREAT: 'Đối thủ đang đánh rất tốt' → CHALLENGE: 'Đây là thử |
+| thách thực sự --- điều này sẽ làm tôi mạnh hơn' |
+|  |
+| THREAT: 'Tôi sắp thua' → CHALLENGE: 'Trận đấu chưa kết thúc |
+| --- mọi điểm đều có thể xảy ra' |
+|  |
+| THREAT: 'Tôi không muốn mắc sai lầm' → CHALLENGE: 'Tôi muốn |
+| tấn công và kiểm soát điểm này' |
+
 
 **2.6 Pressure Plan Cho Các Tình Huống Cụ Thể**
 
@@ -651,12 +645,12 @@ là các kịch bản quan trọng nhất và chiến lược ứng phó cụ th
 
 Đây là một trong những tình huống áp lực nhất trong tennis --- khi bạn
 serve để kết thúc trận đấu. Nghiên cứu cho thấy nhiều vận động viên vô
-thức giảm tốc độ serve và tăng spin để \'chơi an toàn\', nhưng điều này
+thức giảm tốc độ serve và tăng spin để 'chơi an toàn', nhưng điều này
 thực ra làm tăng tỷ lệ thua vì cho đối thủ thêm thời gian và tạo ra bóng
 dễ tấn công hơn. Pressure Plan: Trước điểm này, thực hiện một chu kỳ
 Physiological Sigh. Commit với một serve plan cụ thể (ví dụ: flat serve
-vào thân người đối thủ). Tập trung vào cảm giác toss và việc \'ném vợt
-lên bóng\' thay vì kết quả. Sau điểm, thực hiện full reset routine bất
+vào thân người đối thủ). Tập trung vào cảm giác toss và việc 'ném vợt
+lên bóng' thay vì kết quả. Sau điểm, thực hiện full reset routine bất
 kể kết quả.
 
 **Kịch Bản 2: Sau Một Cú Double Fault**
@@ -667,17 +661,17 @@ tennis vì nó hoàn toàn nằm trong tầm kiểm soát của bạn --- không
 Pressure Plan: Sử dụng Pattern Interrupt --- một hành động vật lý đột
 ngột (vỗ nhẹ vào đùi, lắc đầu nhẹ một lần) để ngắt dòng suy nghĩ tiêu
 cực. Sau đó, full reset routine. Quan trọng nhất: commit với 100% first
-serve --- không giảm tốc hay \'thêm spin để chắc chắn\'.
+serve --- không giảm tốc hay 'thêm spin để chắc chắn'.
 
-**Kịch Bản 3: Khi Đang Dẫn Trước Và Cảm Thấy \'Cần Bảo Vệ Tỷ Số\'**
+**Kịch Bản 3: Khi Đang Dẫn Trước Và Cảm Thấy 'Cần Bảo Vệ Tỷ Số'**
 
 Một trong những áp lực ít được nói đến nhất trong tennis là áp lực khi
 đang dẫn trước. Nhiều vận động viên chuyển từ offensive mindset sang
 defensive mindset khi đang dẫn, dẫn đến việc họ không còn đánh tennis
-của mình mà bắt đầu \'không đánh sai\' --- một chiến lược thất bại chắc
+của mình mà bắt đầu 'không đánh sai' --- một chiến lược thất bại chắc
 chắn. Pressure Plan: Khi nhận ra mình đang ở trong defensive mode, sử
-dụng câu trigger nội tâm: \'Tiếp tục tấn công.\' Thay đổi mục tiêu từ
-\'không sai\' sang \'tấn công vào điểm yếu của đối thủ\'. Nhắc nhở bản
+dụng câu trigger nội tâm: 'Tiếp tục tấn công.' Thay đổi mục tiêu từ
+'không sai' sang 'tấn công vào điểm yếu của đối thủ'. Nhắc nhở bản
 thân rằng offensive tennis là cách bạn đã dẫn trước --- hãy tiếp tục làm
 điều đó.
 
@@ -718,24 +712,23 @@ giảm lo âu ngay lập tức, Cognitive Reframing để chuyển đổi threat
 thành challenge frame, và các plan cụ thể cho từng tình huống áp lực phổ
 biến.
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 2**                                       |
-+-----------------------------------------------------------------+
-| 1\. Áp lực không phải kẻ thù --- cách bạn diễn giải áp lực mới  |
-| quyết định ảnh hưởng của nó                                     |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 2** |
+| --- |
+| 1\. Áp lực không phải kẻ thù --- cách bạn diễn giải áp lực mới |
+| quyết định ảnh hưởng của nó |
+|  |
 | 2\. Physiological Sigh là công cụ giảm lo âu nhanh nhất --- chỉ |
-| cần một chu kỳ thở                                              |
-|                                                                 |
-| 3\. Challenge Frame thay vì Threat Frame kích hoạt hệ thống     |
-| thần kinh hoàn toàn khác                                        |
-|                                                                 |
-| 4\. Pressure Plan phải được lên kế hoạch TRƯỚC trận đấu ---     |
-| không phải trong lúc đang bị áp lực                             |
-|                                                                 |
-| 5\. Offensive tennis là cách bảo vệ tỷ số tốt nhất --- không    |
-| phải defensive tennis                                           |
-+-----------------------------------------------------------------+
+| cần một chu kỳ thở |
+|  |
+| 3\. Challenge Frame thay vì Threat Frame kích hoạt hệ thống |
+| thần kinh hoàn toàn khác |
+|  |
+| 4\. Pressure Plan phải được lên kế hoạch TRƯỚC trận đấu --- |
+| không phải trong lúc đang bị áp lực |
+|  |
+| 5\. Offensive tennis là cách bảo vệ tỷ số tốt nhất --- không |
+| phải defensive tennis |
+
 
 **CHƯƠNG 03**
 
@@ -758,9 +751,9 @@ kỹ thuật không sắc bén, timing bị lệch, hay bóng không đi đúng 
 muốn. Điều làm họ vĩ đại không phải là việc luôn có A-game, mà là khả
 năng vẫn thắng khi chỉ có B-game.
 
-Djokovic từng chia sẻ sau một trận thắng không thuyết phục: \'Hôm nay
+Djokovic từng chia sẻ sau một trận thắng không thuyết phục: 'Hôm nay
 không phải ngày tốt nhất của tôi, nhưng tôi biết cách tìm ra con đường
-thắng ngay cả khi không cảm thấy tốt trên sân.\' Đây chính là bản chất
+thắng ngay cả khi không cảm thấy tốt trên sân.' Đây chính là bản chất
 của B-Game Adaptation --- không phải là giả vờ mọi thứ đang ổn, mà là có
 một kế hoạch hành động rõ ràng khi mọi thứ không ổn.
 
@@ -770,9 +763,9 @@ Bước đầu tiên trong B-Game Adaptation là nhận ra sớm khi bạn đang
 một ngày B-game --- trong buổi warm-up hoặc những game đầu tiên của trận
 đấu --- thay vì nhận ra quá muộn sau khi đã thua 3-0. Các dấu hiệu phổ
 biến bao gồm: timing bị lệch (bóng đến sớm hoặc muộn hơn bình thường),
-cảm giác racket không \'tự nhiên\' trong tay, sai lỗi unforced ngay cả
+cảm giác racket không 'tự nhiên' trong tay, sai lỗi unforced ngay cả
 với các cú đánh đơn giản, chân không di chuyển linh hoạt, và cảm giác
-\'không thể đặt bóng vào đúng vị trí\'.
+'không thể đặt bóng vào đúng vị trí'.
 
 Quan trọng là phải phân biệt giữa ngày B-game thực sự và tình huống đối
 thủ đang áp đảo bạn. Dấu hiệu phân biệt: nếu khả năng vận động và cảm
@@ -792,8 +785,8 @@ Khi A-game không có mặt, cách nhanh nhất để phục hồi là đơn gi�
 tennis của bạn xuống đến mức cơ bản nhất. Thay vì cố gắng đánh những
 winner phức tạp hay sử dụng những kỹ thuật đang không hoạt động tốt hôm
 nay, hãy xây dựng điểm từ những cú đánh an toàn, consistent vào các vùng
-sân mà bạn biết chắc mình có thể thực hiện. Đây không phải là \'chơi
-nhát\' --- đây là trí tuệ chiến thuật.
+sân mà bạn biết chắc mình có thể thực hiện. Đây không phải là 'chơi
+nhát' --- đây là trí tuệ chiến thuật.
 
 Nguyên tắc cụ thể: Giảm target từ các góc độ hẹp sang các vùng sân rộng
 hơn ở giữa sân. Tăng clearance lưới thêm 30-50cm để có biên độ an toàn.
@@ -804,7 +797,7 @@ winner. Tập trung vào việc kéo dài rally thay vì kết thúc điểm nha
 
 Trong mọi ngày thi đấu, dù tốt hay kém, bao giờ cũng có một vài cú đánh
 hoạt động tốt hơn những cú khác. B-game adaptation đòi hỏi bạn phải
-nhanh chóng xác định đâu là \'hôm nay đang hoạt động\' và xây dựng chiến
+nhanh chóng xác định đâu là 'hôm nay đang hoạt động' và xây dựng chiến
 lược xoay quanh điều đó. Ví dụ: nếu forehand hôm nay không ổn nhưng
 serve đang tốt, xây dựng nhiều điểm hơn từ serve + backhand combination.
 Nếu baseline không ổn nhưng volley cảm thấy tốt, tăng frequency tấn công
@@ -823,7 +816,7 @@ hảo nhưng đánh vào điểm mạnh.
 **3.4 Tư Duy Điều Chỉnh --- Từ Frustration Đến Problem-Solving**
 
 Một trong những thách thức tâm lý lớn nhất trong ngày B-game là tâm lý
-\'cưỡng lại thực tế\' --- bạn liên tục cố gắng đánh những cú mà hôm nay
+'cưỡng lại thực tế' --- bạn liên tục cố gắng đánh những cú mà hôm nay
 không hoạt động, hi vọng chúng sẽ đột nhiên bắt đầu ổn. Đây là định
 nghĩa của sự bất lực: làm cùng một việc nhiều lần và mong đợi kết quả
 khác nhau.
@@ -835,13 +828,13 @@ thắng là gì?). Đây là sự khác biệt giữa vận động viên chỉ 
 khi đang tốt và vận động viên thực sự vĩ đại --- những người tìm ra con
 đường thắng ngay cả khi mọi thứ không theo ý muốn.
 
-+---+---------------------------------------------------------+
-|   | *\"Tôi không biết cách đánh tốt hôm nay. Nhưng tôi biết |
-|   | cách chiến đấu hôm nay. Và đôi khi đó là tất cả những   |
-|   | gì bạn cần.\"*                                          |
-|   |                                                         |
-|   | **--- Novak Djokovic**                                  |
-+---+---------------------------------------------------------+
+|  | *\"Tôi không biết cách đánh tốt hôm nay. Nhưng tôi biết |
+| --- | --- |
+|  | cách chiến đấu hôm nay. Và đôi khi đó là tất cả những |
+|  | gì bạn cần.\"* |
+|  |  |
+|  | **--- Novak Djokovic** |
+
 
 **3.5 Protocol Phân Tích Trong Trận Đấu**
 
@@ -858,8 +851,8 @@ trận đấu của mình một cách nhanh chóng và khách quan trong khi đa
 
 - B --- Brainstorm (Suy Nghĩ Phương Án): Với thông tin từ bước A, nhanh
   chóng xác định 1-2 điều chỉnh chiến thuật cụ thể. Không cần phức tạp
-  --- thường thì một thay đổi đơn giản đã đủ. Ví dụ: \'Serve vào thân
-  người nhiều hơn\' hoặc \'Kéo đối thủ ra góc trái nhiều hơn\'.
+  --- thường thì một thay đổi đơn giản đã đủ. Ví dụ: 'Serve vào thân
+  người nhiều hơn' hoặc 'Kéo đối thủ ra góc trái nhiều hơn'.
 
 - C --- Commit (Cam Kết): Commit với kế hoạch mới ít nhất trong 3 game
   tiếp theo trước khi đánh giá lại. Đừng thay đổi chiến thuật sau mỗi
@@ -872,27 +865,26 @@ thuật không ở mức đỉnh cao. Nó dựa trên ba trụ cột: giảm thi
 bằng cách đơn giản hóa bài tennis, tận dụng những gì đang hoạt động tốt
 hôm nay, và khai thác điểm yếu của đối thủ một cách chiến thuật. Quan
 trọng nhất là sự chuyển đổi tư duy từ frustration sang problem-solving
---- khả năng hỏi \'Tôi có thể thắng như thế nào với những gì tôi đang
-có?\' thay vì \'Tại sao tôi không thể đánh như bình thường?\'
+--- khả năng hỏi 'Tôi có thể thắng như thế nào với những gì tôi đang
+có?' thay vì 'Tại sao tôi không thể đánh như bình thường?'
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 3**                                       |
-+-----------------------------------------------------------------+
-| 1\. Mọi vận động viên đều có ngày B-game --- sự khác biệt là    |
-| khả năng vẫn cạnh tranh hiệu quả                                |
-|                                                                 |
-| 2\. Nhận diện sớm dấu hiệu B-game trong warm-up thay vì quá     |
-| muộn sau khi đã thua nhiều game                                 |
-|                                                                 |
-| 3\. Ba trụ cột: Giảm rủi ro, Tận dụng vũ khí mạnh nhất, Khai    |
-| thác điểm yếu đối thủ                                           |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 3** |
+| --- |
+| 1\. Mọi vận động viên đều có ngày B-game --- sự khác biệt là |
+| khả năng vẫn cạnh tranh hiệu quả |
+|  |
+| 2\. Nhận diện sớm dấu hiệu B-game trong warm-up thay vì quá |
+| muộn sau khi đã thua nhiều game |
+|  |
+| 3\. Ba trụ cột: Giảm rủi ro, Tận dụng vũ khí mạnh nhất, Khai |
+| thác điểm yếu đối thủ |
+|  |
 | 4\. Chuyển đổi từ Frustration Mode sang Problem-Solving Mode là |
-| chìa khóa                                                       |
-|                                                                 |
-| 5\. A-B-C Framework giúp phân tích và điều chỉnh chiến thuật    |
-| ngay trong trận đấu                                             |
-+-----------------------------------------------------------------+
+| chìa khóa |
+|  |
+| 5\. A-B-C Framework giúp phân tích và điều chỉnh chiến thuật |
+| ngay trong trận đấu |
+
 
 **CHƯƠNG 04**
 
@@ -906,18 +898,18 @@ có?\' thay vì \'Tại sao tôi không thể đánh như bình thường?\'
 
 **4.1 Bản Chất Thực Sự Của Sự Tự Tin**
 
-Sự tự tin trong thể thao không phải là cảm giác \'tôi sẽ thắng mọi
-điểm\'. Đó là niềm tin sâu sắc rằng \'tôi có những công cụ, kỹ năng, và
-khả năng để đối mặt với bất kỳ thách thức nào trong trận đấu hôm nay\'.
+Sự tự tin trong thể thao không phải là cảm giác 'tôi sẽ thắng mọi
+điểm'. Đó là niềm tin sâu sắc rằng 'tôi có những công cụ, kỹ năng, và
+khả năng để đối mặt với bất kỳ thách thức nào trong trận đấu hôm nay'.
 Sự phân biệt này rất quan trọng: một là confidence giả tạo dựa trên
 outcome, một là confidence thực sự dựa trên quá trình và năng lực.
 
 Từ góc độ thần kinh học, sự tự tin thực sự là kết quả của việc não bộ đã
 mã hóa đủ nhiều kinh nghiệm thành công. Khi bạn đối mặt với một tình
-huống áp lực, não bộ truy cập kho ký ức và hỏi: \'Trước đây tôi đã xử lý
-được tình huống tương tự không?\' Nếu câu trả lời là \'có\', một tín
-hiệu tự tin được gửi đến hệ thống thực thi. Nếu câu trả lời là \'không
-chắc\', amygdala kích hoạt cảnh báo nguy hiểm.
+huống áp lực, não bộ truy cập kho ký ức và hỏi: 'Trước đây tôi đã xử lý
+được tình huống tương tự không?' Nếu câu trả lời là 'có', một tín
+hiệu tự tin được gửi đến hệ thống thực thi. Nếu câu trả lời là 'không
+chắc', amygdala kích hoạt cảnh báo nguy hiểm.
 
 **4.2 Success Inventory --- Ngân Hàng Ký Ức Thành Công**
 
@@ -929,8 +921,8 @@ chiến tích hay trophy --- mà là các khoảnh khắc cụ thể, chi tiết
 tình huống tight, một rally dài đã thắng bằng footwork tốt.
 
 Tại sao cần phải cụ thể? Vì não bộ phân biệt giữa tuyên bố chung chung
-(\'Tôi là người chơi tốt\') và bằng chứng cụ thể (\'Ngày 15 tháng 3, tôi
-serve-and-volley thành công trong tiebreak quan trọng\'). Loại thứ nhất
+('Tôi là người chơi tốt') và bằng chứng cụ thể ('Ngày 15 tháng 3, tôi
+serve-and-volley thành công trong tiebreak quan trọng'). Loại thứ nhất
 là tự trấn an rỗng tuếch. Loại thứ hai là bằng chứng thực tế mà não bộ
 có thể sử dụng để xây dựng phản ứng tự tin.
 
@@ -939,7 +931,7 @@ có thể sử dụng để xây dựng phản ứng tự tin.
 Confidence hoạt động theo vòng lặp tự củng cố: Tự tin → Hiệu suất tốt
 hơn → Thêm bằng chứng thành công → Thêm tự tin. Nhiệm vụ của bạn là bắt
 đầu vòng lặp này ngay cả khi bạn chưa cảm thấy tự tin ban đầu. Điều này
-được thực hiện thông qua \'Acting As If\' --- hành động như một người tự
+được thực hiện thông qua 'Acting As If' --- hành động như một người tự
 tin ngay cả khi bạn không hoàn toàn cảm thấy như vậy bên trong.
 
 Nghiên cứu của Amy Cuddy về Power Posing đã chứng minh rằng tư thế cơ
@@ -948,21 +940,20 @@ testosterone và giảm cortisol. Áp dụng trong tennis: giữ đầu thẳng,
 mở, bước đi tự tin giữa các điểm không chỉ là vấn đề hình thức --- nó
 thực sự thay đổi hóa học trong não bộ.
 
-+:----------------------------------------------------------------+
-| **VÒNG LẶP CONFIDENCE CYCLE --- 4 GIAI ĐOẠN**                   |
-+-----------------------------------------------------------------+
-| GIAI ĐOẠN 1: Acting As If --- Hành động tự tin (tư thế, bước    |
-| đi, ngôn ngữ cơ thể) trước khi cảm thấy tự tin                  |
-|                                                                 |
-| GIAI ĐOẠN 2: Improved Performance --- Tư thế tự tin cải thiện   |
-| hormone và do đó cải thiện hiệu suất thực tế                    |
-|                                                                 |
+| **VÒNG LẶP CONFIDENCE CYCLE --- 4 GIAI ĐOẠN** |
+| --- |
+| GIAI ĐOẠN 1: Acting As If --- Hành động tự tin (tư thế, bước |
+| đi, ngôn ngữ cơ thể) trước khi cảm thấy tự tin |
+|  |
+| GIAI ĐOẠN 2: Improved Performance --- Tư thế tự tin cải thiện |
+| hormone và do đó cải thiện hiệu suất thực tế |
+|  |
 | GIAI ĐOẠN 3: Evidence Accumulation --- Hiệu suất tốt hơn tạo ra |
-| bằng chứng mới cho Success Inventory                            |
-|                                                                 |
-| GIAI ĐOẠN 4: Genuine Confidence --- Bằng chứng tích lũy chuyển  |
-| hóa thành tự tin thực sự, không còn \'giả vờ\'                  |
-+-----------------------------------------------------------------+
+| bằng chứng mới cho Success Inventory |
+|  |
+| GIAI ĐOẠN 4: Genuine Confidence --- Bằng chứng tích lũy chuyển |
+| hóa thành tự tin thực sự, không còn 'giả vờ' |
+
 
 **4.4 Kỹ Thuật Xây Dựng Confidence Trong Luyện Tập**
 
@@ -992,24 +983,23 @@ trừng phạt, mà để lấy thông tin hữu ích. BƯỚC 3 --- Affirm (Kh�
 Nhắc lại 3 điều trong Success Inventory của bạn để tái kết nối với năng
 lực của mình.
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 4**                                       |
-+-----------------------------------------------------------------+
-| 1\. Confidence thực sự là niềm tin vào quá trình và năng lực    |
-| --- không phải vào outcome                                      |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 4** |
+| --- |
+| 1\. Confidence thực sự là niềm tin vào quá trình và năng lực |
+| --- không phải vào outcome |
+|  |
 | 2\. Success Inventory là cơ sở thần kinh học của confidence --- |
-| hãy xây dựng và duy trì nó                                      |
-|                                                                 |
-| 3\. Confidence Cycle là vòng lặp tự củng cố --- hãy bắt đầu nó  |
-| ngay cả khi chưa cảm thấy tự tin                                |
-|                                                                 |
-| 4\. Tư thế cơ thể ảnh hưởng trực tiếp đến hormone confidence    |
-| --- luôn giữ tư thế quyền lực                                   |
-|                                                                 |
-| 5\. Failure Reframing 3-Step bảo vệ confidence khỏi tác động    |
-| của thất bại                                                    |
-+-----------------------------------------------------------------+
+| hãy xây dựng và duy trì nó |
+|  |
+| 3\. Confidence Cycle là vòng lặp tự củng cố --- hãy bắt đầu nó |
+| ngay cả khi chưa cảm thấy tự tin |
+|  |
+| 4\. Tư thế cơ thể ảnh hưởng trực tiếp đến hormone confidence |
+| --- luôn giữ tư thế quyền lực |
+|  |
+| 5\. Failure Reframing 3-Step bảo vệ confidence khỏi tác động |
+| của thất bại |
+
 
 **CHƯƠNG 05**
 
@@ -1040,21 +1030,21 @@ thi kỹ năng ở mức độ tiềm thức.
 **5.2 Ba Loại Self-Talk Và Ảnh Hưởng Của Chúng**
 
 LOẠI 1 --- Motivational Self-Talk: Các câu nói nhằm thúc đẩy nỗ lực và
-cam kết. Ví dụ: \'Hãy tiếp tục chiến đấu!\', \'Tôi có thể làm được điều
-này\'. Đây là loại phổ biến nhất và hoạt động tốt để duy trì energy và
+cam kết. Ví dụ: 'Hãy tiếp tục chiến đấu!', 'Tôi có thể làm được điều
+này'. Đây là loại phổ biến nhất và hoạt động tốt để duy trì energy và
 effort level, đặc biệt trong các điểm dài hay khi mệt mỏi.
 
 LOẠI 2 --- Instructional Self-Talk: Các cue kỹ thuật ngắn gọn hướng dẫn
-chuyển động. Ví dụ: \'Theo dõi bóng\', \'Chân lên\', \'Finish cao\'.
+chuyển động. Ví dụ: 'Theo dõi bóng', 'Chân lên', 'Finish cao'.
 Loại này hoạt động tốt nhất khi học kỹ năng mới hoặc khi cần nhắc nhở
 một khía cạnh kỹ thuật cụ thể đang bị mất. Lưu ý quan trọng: trong trận
 đấu thực sự ở mức cao, quá nhiều instructional self-talk có thể gây ra
-\'paralysis by analysis\'.
+'paralysis by analysis'.
 
 LOẠI 3 --- Rational Self-Talk: Các câu nói giúp quản lý cảm xúc và duy
-trì perspective. Ví dụ: \'Đây chỉ là một điểm\', \'Tôi đã ở trong tình
-huống như thế này trước đây\', \'Tập trung vào những gì tôi có thể kiểm
-soát\'. Loại này đặc biệt quan trọng dưới áp lực và sau sai lầm.
+trì perspective. Ví dụ: 'Đây chỉ là một điểm', 'Tôi đã ở trong tình
+huống như thế này trước đây', 'Tập trung vào những gì tôi có thể kiểm
+soát'. Loại này đặc biệt quan trọng dưới áp lực và sau sai lầm.
 
 **5.3 Audit Giọng Nói Bên Trong Hiện Tại**
 
@@ -1078,27 +1068,27 @@ Performance Cue Library --- bộ sưu tập các câu trigger ngắn gọn, mạ
 cho các tình huống khác nhau trong trận đấu. Các câu này phải: ngắn (1-4
 từ), cụ thể (liên quan đến một hành động hay trạng thái cụ thể), tích
 cực (diễn đạt những gì BẠN MUỐN, không phải những gì bạn muốn tránh), và
-có resonance cá nhân (phải \'cảm thấy đúng\' với bạn).
+có resonance cá nhân (phải 'cảm thấy đúng' với bạn).
 
   ----------------------- ------------------------------------------
   **Tình Huống**          **Ví Dụ Performance Cue**
 
-  **Serve tension**       \'Thoải mái và tung lên\' hoặc \'Thư giãn
-                          --- phóng\'
+  **Serve tension**       'Thoải mái và tung lên' hoặc 'Thư giãn
+                          --- phóng'
 
-  **Sau sai lầm**         \'Điểm tiếp theo\' hoặc \'Fresh start\'
-                          hoặc \'Let it go\'
+  **Sau sai lầm**         'Điểm tiếp theo' hoặc 'Fresh start'
+                          hoặc 'Let it go'
 
-  **Tight moments**       \'Breathe and compete\' hoặc \'Stay
-                          process\'
+  **Tight moments**       'Breathe and compete' hoặc 'Stay
+                          process'
 
-  **Need more effort**    \'Fight!\' hoặc \'Vào đây!\' hoặc \'Keep
-                          pushing\'
+  **Need more effort**    'Fight!' hoặc 'Vào đây!' hoặc 'Keep
+                          pushing'
 
-  **Need precision**      \'Watch the ball\' hoặc \'See it clearly\'
+  **Need precision**      'Watch the ball' hoặc 'See it clearly'
 
-  **Recovery mode**       \'One shot at a time\' hoặc \'Find your
-                          rhythm\'
+  **Recovery mode**       'One shot at a time' hoặc 'Find your
+                          rhythm'
   ----------------------- ------------------------------------------
 
 **5.5 Luyện Tập Inner Voice Training**
@@ -1112,24 +1102,23 @@ chỉ nhận ra mà không theo), và In-Practice Monitoring (đặt một đố
 luyện tập quan sát và note lại bất kỳ lúc nào bạn tự nói tiêu cực với
 bản thân).
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 5**                                       |
-+-----------------------------------------------------------------+
-| 1\. Giọng nói bên trong ảnh hưởng trực tiếp đến hoạt động thần  |
-| kinh và hiệu suất                                               |
-|                                                                 |
-| 2\. Inner Voice Audit giúp nhận biết giọng nói hiện tại ---     |
-| thường là tiêu cực hơn bạn nghĩ                                 |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 5** |
+| --- |
+| 1\. Giọng nói bên trong ảnh hưởng trực tiếp đến hoạt động thần |
+| kinh và hiệu suất |
+|  |
+| 2\. Inner Voice Audit giúp nhận biết giọng nói hiện tại --- |
+| thường là tiêu cực hơn bạn nghĩ |
+|  |
 | 3\. Ba loại self-talk: Motivational, Instructional, và Rational |
-| --- mỗi loại dùng trong bối cảnh khác nhau                      |
-|                                                                 |
-| 4\. Performance Cue Library cung cấp những câu trigger ngắn,    |
-| mạnh mẽ cho từng tình huống                                     |
-|                                                                 |
-| 5\. Inner Voice Training là kỹ năng --- cần luyện tập có hệ     |
-| thống và nhất quán                                              |
-+-----------------------------------------------------------------+
+| --- mỗi loại dùng trong bối cảnh khác nhau |
+|  |
+| 4\. Performance Cue Library cung cấp những câu trigger ngắn, |
+| mạnh mẽ cho từng tình huống |
+|  |
+| 5\. Inner Voice Training là kỹ năng --- cần luyện tập có hệ |
+| thống và nhất quán |
+
 
 **CHƯƠNG 06**
 
@@ -1150,15 +1139,15 @@ thuật, chiến thuật, và tâm lý. Không có vận động viên nào có 
 sự tập trung ở mức tối đa trong suốt thời gian đó --- não bộ đơn giản là
 không được thiết kế để làm điều đó.
 
-Vấn đề thực sự không phải là \'làm thế nào để tập trung suốt 3 giờ\' mà
-là \'làm thế nào để tập trung đúng thứ vào đúng thời điểm\'. Focus
+Vấn đề thực sự không phải là 'làm thế nào để tập trung suốt 3 giờ' mà
+là 'làm thế nào để tập trung đúng thứ vào đúng thời điểm'. Focus
 Framework không dạy bạn cách tập trung liên tục --- nó dạy bạn cách quản
 lý nhịp độ tập trung như một nguồn lực quý giá, sử dụng đúng lúc cần
 thiết và phục hồi hiệu quả trong các khoảng nghỉ.
 
 **6.2 Quiet Eye --- Nền Tảng Thần Kinh Của Sự Tập Trung**
 
-Nghiên cứu của Joan Vickers về \'Quiet Eye\' (Mắt Tĩnh Lặng) cung cấp
+Nghiên cứu của Joan Vickers về 'Quiet Eye' (Mắt Tĩnh Lặng) cung cấp
 một trong những hiểu biết quan trọng nhất về sự tập trung trong thể
 thao. Quiet Eye là khoảng thời gian mà mắt vận động viên dừng lại trên
 một điểm cụ thể trong không gian (thường là bóng hoặc điểm tiếp xúc dự
@@ -1180,8 +1169,8 @@ tennis.
 
 GIAI ĐOẠN 1 --- Strategic Focus (Giữa Các Điểm): Đây là lúc dành cho
 việc lên kế hoạch và điều chỉnh chiến thuật. Tâm trí của bạn hoạt động ở
-mức độ phân tích cao. Câu hỏi cần trả lời: \'Điểm tiếp theo tôi sẽ build
-như thế nào? Tôi đang khai thác điểm yếu nào của đối thủ?\'
+mức độ phân tích cao. Câu hỏi cần trả lời: 'Điểm tiếp theo tôi sẽ build
+như thế nào? Tôi đang khai thác điểm yếu nào của đối thủ?'
 
 GIAI ĐOẠN 2 --- Technical Focus (Chuẩn Bị Điểm): Khi bạn đang chuẩn bị
 serve hay return, focus chuyển từ strategic sang technical --- một focal
@@ -1220,24 +1209,23 @@ và hiệu quả: cảm nhận texture của grip trong bàn tay, nhìn vào c�
 hay logo trên vợt giữa các điểm, một câu trigger ngắn gọn liên quan đến
 một điểm kỹ thuật cụ thể.
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 6**                                       |
-+-----------------------------------------------------------------+
-| 1\. Focus là nguồn lực có hạn --- hãy quản lý nó như năng       |
-| lượng, không cố gắng duy trì tối đa liên tục                    |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 6** |
+| --- |
+| 1\. Focus là nguồn lực có hạn --- hãy quản lý nó như năng |
+| lượng, không cố gắng duy trì tối đa liên tục |
+|  |
 | 2\. Quiet Eye là nền tảng thần kinh của sự tập trung --- có thể |
-| luyện tập và cải thiện                                          |
-|                                                                 |
-| 3\. Three-Phase Focus Model: Strategic → Technical → External   |
-| --- mỗi giai đoạn có focal point khác nhau                      |
-|                                                                 |
-| 4\. R-O-R Framework (Recognize-Orient-Refocus) xử lý            |
-| distraction trong 3-5 giây                                      |
-|                                                                 |
+| luyện tập và cải thiện |
+|  |
+| 3\. Three-Phase Focus Model: Strategic → Technical → External |
+| --- mỗi giai đoạn có focal point khác nhau |
+|  |
+| 4\. R-O-R Framework (Recognize-Orient-Refocus) xử lý |
+| distraction trong 3-5 giây |
+|  |
 | 5\. Focus Anchors cá nhân hóa giúp phục hồi nhanh chóng khi tâm |
-| trí bị phân tán                                                 |
-+-----------------------------------------------------------------+
+| trí bị phân tán |
+
 
 **CHƯƠNG 07**
 
@@ -1252,7 +1240,7 @@ một điểm kỹ thuật cụ thể.
 **7.1 Cảm Xúc Là Thông Tin, Không Phải Kẻ Thù**
 
 Một sai lầm phổ biến trong đào tạo mental game là dạy vận động viên
-\'không cảm thấy cảm xúc\' hay \'kiểm soát cảm xúc\' theo nghĩa suppress
+'không cảm thấy cảm xúc' hay 'kiểm soát cảm xúc' theo nghĩa suppress
 chúng. Đây là cách tiếp cận sai. Cảm xúc --- kể cả những cảm xúc khó
 chịu như lo âu, thất vọng, hay tức giận --- đều là thông tin quan trọng
 mà hệ thống thần kinh của bạn đang gửi đến. Vấn đề không phải là cảm xúc
@@ -1260,14 +1248,14 @@ mà hệ thống thần kinh của bạn đang gửi đến. Vấn đề không 
 
 Emotional Regulation không có nghĩa là không cảm thấy gì cả. Nó có nghĩa
 là có khả năng cảm nhận cảm xúc mà không để chúng điều khiển hành động
-của bạn. Đây là sự phân biệt giữa \'cảm thấy tức giận\' và \'hành động
-theo cơn giận\'. Vận động viên đỉnh cao không ít cảm xúc hơn --- họ có
+của bạn. Đây là sự phân biệt giữa 'cảm thấy tức giận' và 'hành động
+theo cơn giận'. Vận động viên đỉnh cao không ít cảm xúc hơn --- họ có
 khả năng xử lý cảm xúc mà không để nó làm gián đoạn quá trình thực thi
 kỹ năng.
 
 **7.2 Window of Tolerance --- Vùng Hiệu Suất Tối Ưu**
 
-Khái niệm \'Window of Tolerance\' (Cửa Sổ Chịu Đựng), được phát triển
+Khái niệm 'Window of Tolerance' (Cửa Sổ Chịu Đựng), được phát triển
 bởi nhà thần kinh học Dan Siegel, mô tả vùng kích thích sinh lý học tối
 ưu mà trong đó con người có thể hoạt động hiệu quả nhất. Khi ở trong
 window này, bạn đủ kích thích để tập trung và phản ứng nhanh, nhưng
@@ -1275,7 +1263,7 @@ không quá kích thích đến mức lo âu hay không đủ kích thích đế
 chán và uể oải.
 
 Trong tennis, mỗi vận động viên có một Window of Tolerance khác nhau.
-Một số người chơi tốt nhất khi họ \'fired up\' và aggressive. Người khác
+Một số người chơi tốt nhất khi họ 'fired up' và aggressive. Người khác
 chơi tốt nhất khi họ cảm thấy tương đối bình tĩnh và controlled. Nhiệm
 vụ của Emotional Regulation là học cách nhận biết khi bạn đang ra ngoài
 window và sử dụng các công cụ để quay trở lại.
@@ -1285,7 +1273,7 @@ window và sử dụng các công cụ để quay trở lại.
 Emotional Regulation đòi hỏi hai loại công cụ khác nhau tùy theo hướng
 bạn cần điều chỉnh. UP-REGULATION (khi năng lượng quá thấp, buồn chán,
 mất tập trung): Hít thở ngắn và mạnh, chuyển động nhanh (nhảy nhẹ, vẫy
-tay), self-talk kích thích (\'Come on!\', \'Let\'s go!\'), và nhớ lại
+tay), self-talk kích thích ('Come on!', 'Let's go!'), và nhớ lại
 một khoảnh khắc thành công trong quá khứ để kích hoạt hệ thống tưởng
 thưởng.
 
@@ -1308,7 +1296,7 @@ Immediate pattern interrupt --- một hành động vật lý đột ngột (nh�
 gõ vợt xuống sân, xoay tròn vợt trong tay) để ngắt dòng cảm xúc. BƯỚC 2
 (5-15 giây): Channel anger constructively --- thay vì suppress cơn giận,
 sử dụng năng lượng đó như nhiên liệu cho điểm tiếp theo thông qua một
-câu trigger như \'Show me what you\'ve got\'. BƯỚC 3 (15-25 giây): Full
+câu trigger như 'Show me what you've got'. BƯỚC 3 (15-25 giây): Full
 reset routine để trở về trạng thái bình tĩnh và tập trung.
 
 **7.5 Xây Dựng Emotional Intelligence Qua Thời Gian**
@@ -1323,23 +1311,22 @@ window, điều gì kích hoạt điều đó, và công cụ nào đã hoặc k
 suy nghĩ mà không phán xét, tạo ra khoảng cách giữa stimulus và
 response).
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 7**                                       |
-+-----------------------------------------------------------------+
-| 1\. Cảm xúc là thông tin --- không suppress mà học cách xử lý   |
-| mà không để chúng điều khiển hành động                          |
-|                                                                 |
-| 2\. Window of Tolerance là vùng kích thích tối ưu --- cá nhân   |
-| hóa cho từng vận động viên                                      |
-|                                                                 |
-| 3\. Up-regulation và down-regulation là hai bộ công cụ khác     |
-| nhau cho hai hướng điều chỉnh                                   |
-|                                                                 |
-| 4\. Anger Protocol 3 bước: Interrupt → Channel → Reset          |
-|                                                                 |
-| 5\. Reflective Practice và Mindfulness là nền tảng phát triển   |
-| Emotional Intelligence lâu dài                                  |
-+-----------------------------------------------------------------+
+| **ĐIỂM CỐT LÕI CHƯƠNG 7** |
+| --- |
+| 1\. Cảm xúc là thông tin --- không suppress mà học cách xử lý |
+| mà không để chúng điều khiển hành động |
+|  |
+| 2\. Window of Tolerance là vùng kích thích tối ưu --- cá nhân |
+| hóa cho từng vận động viên |
+|  |
+| 3\. Up-regulation và down-regulation là hai bộ công cụ khác |
+| nhau cho hai hướng điều chỉnh |
+|  |
+| 4\. Anger Protocol 3 bước: Interrupt → Channel → Reset |
+|  |
+| 5\. Reflective Practice và Mindfulness là nền tảng phát triển |
+| Emotional Intelligence lâu dài |
+
 
 **CHƯƠNG 08**
 
@@ -1421,7 +1408,7 @@ Visualization (hay Mental Rehearsal) là một trong những công cụ mạnh m
 nhất trong PPR. Nghiên cứu neuroimaging đã chứng minh rằng khi bạn hình
 dung một hành động với đủ chi tiết, cùng các neuron và các pathway thần
 kinh được kích hoạt như khi bạn thực sự thực hiện hành động đó. Về mặt
-thực tế, visualization là một buổi luyện tập \'miễn phí\' --- không tốn
+thực tế, visualization là một buổi luyện tập 'miễn phí' --- không tốn
 sức lực vật lý nhưng vẫn xây dựng và củng cố neural pathways.
 
 Để visualization hiệu quả tối đa: (1) Thực hiện trong trạng thái thư
@@ -1441,24 +1428,23 @@ chuyện xã hội (tránh các cuộc thảo luận có thể kích thích lo �
 tập trung), và lựa chọn âm nhạc một cách chiến lược (playlist được thiết
 kế để điều chỉnh arousal level theo hướng mong muốn).
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 8**                                       |
-+-----------------------------------------------------------------+
+| **ĐIỂM CỐT LÕI CHƯƠNG 8** |
+| --- |
 | 1\. PPR đưa bạn vào trạng thái tâm lý tối ưu một cách nhất quán |
-| trước mỗi trận                                                  |
-|                                                                 |
-| 2\. Ba mục tiêu: Optimal Activation, Intention Setting, và      |
-| Confidence Activation                                           |
-|                                                                 |
-| 3\. Framework 90 phút cung cấp cấu trúc rõ ràng --- điều chỉnh  |
-| để phù hợp cá nhân                                              |
-|                                                                 |
-| 4\. Visualization kích hoạt cùng neural pathways như practice   |
-| thực sự --- sử dụng đủ giác quan                                |
-|                                                                 |
-| 5\. Quản lý môi trường và thông tin trước trận là phần thường   |
-| bị bỏ qua nhưng quan trọng                                      |
-+-----------------------------------------------------------------+
+| trước mỗi trận |
+|  |
+| 2\. Ba mục tiêu: Optimal Activation, Intention Setting, và |
+| Confidence Activation |
+|  |
+| 3\. Framework 90 phút cung cấp cấu trúc rõ ràng --- điều chỉnh |
+| để phù hợp cá nhân |
+|  |
+| 4\. Visualization kích hoạt cùng neural pathways như practice |
+| thực sự --- sử dụng đủ giác quan |
+|  |
+| 5\. Quản lý môi trường và thông tin trước trận là phần thường |
+| bị bỏ qua nhưng quan trọng |
+
 
 **CHƯƠNG 09**
 
@@ -1515,9 +1501,9 @@ Outcome (thắng hay thua, tỷ số) cung cấp thông tin về hiệu quả t�
 nhưng không cho biết tại sao. Process --- cụ thể là những gì bạn đã làm
 và cách bạn đã làm --- là nơi chứa đựng bài học thực sự.
 
-Một cách hữu ích để phân biệt: hãy đặt câu hỏi \'Nếu tôi chơi cùng cách
+Một cách hữu ích để phân biệt: hãy đặt câu hỏi 'Nếu tôi chơi cùng cách
 như trận đấu vừa rồi trong 100 trận đấu tương tự, kết quả trung bình sẽ
-là gì?\' Đây là cách tiếp cận probabilistic --- đánh giá chất lượng của
+là gì?' Đây là cách tiếp cận probabilistic --- đánh giá chất lượng của
 quá trình, không phải kết quả của một lần thực hiện cụ thể. Đôi khi bạn
 chơi tốt nhưng thua vì đối thủ chơi xuất sắc hơn. Đôi khi bạn chơi kém
 nhưng thắng vì đối thủ còn kém hơn. Reflection tốt phải phân biệt được
@@ -1548,26 +1534,25 @@ số vận động viên thấy việc viết tay giúp xử lý cảm xúc sâu
 khác thích digital vì dễ dàng search và track patterns theo thời gian.
 Điều quan trọng không phải là format --- mà là tính nhất quán.
 Reflection chỉ có giá trị nếu bạn thực hiện nó sau mỗi trận đấu, không
-phải chỉ sau những trận \'quan trọng\'.
+phải chỉ sau những trận 'quan trọng'.
 
-+:----------------------------------------------------------------+
-| **ĐIỂM CỐT LÕI CHƯƠNG 9**                                       |
-+-----------------------------------------------------------------+
-| 1\. Kinh nghiệm chỉ tạo ra learning khi được phản ánh có chủ    |
-| đích --- không có reflection, không có growth                   |
-|                                                                 |
-| 2\. Framework 3 phần: Emotional Processing → Performance        |
-| Analysis → Action Items                                         |
-|                                                                 |
-| 3\. Focus vào process, không phải outcome --- \'Nếu tôi chơi    |
-| như vậy 100 lần, kết quả trung bình là gì?\'                    |
-|                                                                 |
-| 4\. Long-term pattern recognition là một trong những giá trị    |
-| lớn nhất của reflection system                                  |
-|                                                                 |
+| **ĐIỂM CỐT LÕI CHƯƠNG 9** |
+| --- |
+| 1\. Kinh nghiệm chỉ tạo ra learning khi được phản ánh có chủ |
+| đích --- không có reflection, không có growth |
+|  |
+| 2\. Framework 3 phần: Emotional Processing → Performance |
+| Analysis → Action Items |
+|  |
+| 3\. Focus vào process, không phải outcome --- 'Nếu tôi chơi |
+| như vậy 100 lần, kết quả trung bình là gì?' |
+|  |
+| 4\. Long-term pattern recognition là một trong những giá trị |
+| lớn nhất của reflection system |
+|  |
 | 5\. Tính nhất quán quan trọng hơn format --- phải thực hiện sau |
-| MỖI trận đấu                                                    |
-+-----------------------------------------------------------------+
+| MỖI trận đấu |
+
 
 **CHƯƠNG 10**
 
@@ -1597,11 +1582,11 @@ vượt qua những thách thức, thất vọng, và ngày tháng khó khăn.
 **10.2 Flow State --- Trạng Thái Hiệu Suất Đỉnh Cao**
 
 Mihaly Csikszentmihalyi, nhà tâm lý học người Mỹ gốc Hungary, định nghĩa
-Flow là \'trạng thái ý thức tối ưu nơi chúng ta cảm thấy tốt nhất và
-thực hiện tốt nhất\'. Trong Flow, hành động diễn ra dường như không cần
+Flow là 'trạng thái ý thức tối ưu nơi chúng ta cảm thấy tốt nhất và
+thực hiện tốt nhất'. Trong Flow, hành động diễn ra dường như không cần
 nỗ lực, thời gian trở nên méo mó, và ý thức bản thân biến mất. Các vận
-động viên thường mô tả trạng thái này là \'ở trong zone\', \'đang nổi\',
-hay \'mọi thứ đang chảy\'.
+động viên thường mô tả trạng thái này là 'ở trong zone', 'đang nổi',
+hay 'mọi thứ đang chảy'.
 
 Điều thú vị từ góc độ thần kinh học là Flow state tương ứng chính xác
 với trạng thái Mushin được mô tả trong The Neuro-Motor Manual --- khi
@@ -1613,7 +1598,7 @@ thần kinh học tương ứng.
 
 **10.3 Điều Kiện Của Flow --- Flow Triggers**
 
-Flow không phải là thứ bạn có thể \'quyết định có\' --- nhưng bạn có thể
+Flow không phải là thứ bạn có thể 'quyết định có' --- nhưng bạn có thể
 tạo ra điều kiện tối ưu cho nó xuất hiện. Csikszentmihalyi xác định một
 số điều kiện cốt lõi: (1) Challenge-Skill Balance --- thách thức phải
 vừa đủ để giữ sự chú ý nhưng không quá vượt quá khả năng; (2) Clear
@@ -1649,14 +1634,14 @@ giúp não bộ phục hồi trạng thái play mode nguyên thủy và tái k�
 lý do tại sao tennis là một trò chơi đẹp đẽ.
 
 THỰC HÀNH 3 --- Curiosity Over Judgment: Trong luyện tập, thay thế
-attitude phán xét (\'Tôi đã đánh tệ như thế nào.\') bằng attitude tò mò
-(\'Thú vị --- tại sao cú đánh đó không hoạt động? Tôi có thể thử điều
-gì?\'). Tò mò là một trạng thái tâm lý gần với Flow hơn nhiều so với
+attitude phán xét ('Tôi đã đánh tệ như thế nào.') bằng attitude tò mò
+('Thú vị --- tại sao cú đánh đó không hoạt động? Tôi có thể thử điều
+gì?'). Tò mò là một trạng thái tâm lý gần với Flow hơn nhiều so với
 phán xét.
 
 **10.5 Tích Hợp Joy Vào Training Culture**
 
-Joy không chỉ là điều bạn cảm thấy trong một buổi luyện tập \'thú vị\'
+Joy không chỉ là điều bạn cảm thấy trong một buổi luyện tập 'thú vị'
 --- nó là một chiến lược phát triển dài hạn cần được tích hợp một cách
 có chủ đích vào training culture của bạn. Điều này bao gồm: tạo ra một
 training environment cho phép creativity và experimentation (không phải
@@ -1669,18 +1654,18 @@ tế, nghiên cứu nhất quán cho thấy rằng intrinsic motivation (niềm 
 bên trong) dẫn đến higher levels of mastery theo thời gian so với
 extrinsic motivation (phần thưởng và kết quả bên ngoài). Nói cách khác,
 việc duy trì niềm vui không phải là thứ xa xỉ hay chỉ dành cho những
-người chơi \'không nghiêm túc\' --- đó là chiến lược tối ưu nhất cho
+người chơi 'không nghiêm túc' --- đó là chiến lược tối ưu nhất cho
 long-term excellence.
 
-+---+---------------------------------------------------------+
-|   | *\"Tennis là một trong những trò chơi cá nhân nhất trên |
-|   | thế giới. Không ai khác có thể đánh bóng cho bạn. Không |
-|   | ai khác có thể cảm nhận thay cho bạn. Chỉ bạn và bóng,  |
-|   | và khoảnh khắc hiện tại. Đó là lý do tôi yêu trò chơi   |
-|   | này.\"*                                                 |
-|   |                                                         |
-|   | **--- Roger Federer**                                   |
-+---+---------------------------------------------------------+
+|  | *\"Tennis là một trong những trò chơi cá nhân nhất trên |
+| --- | --- |
+|  | thế giới. Không ai khác có thể đánh bóng cho bạn. Không |
+|  | ai khác có thể cảm nhận thay cho bạn. Chỉ bạn và bóng, |
+|  | và khoảnh khắc hiện tại. Đó là lý do tôi yêu trò chơi |
+|  | này.\"* |
+|  |  |
+|  | **--- Roger Federer** |
+
 
 **10.6 Tổng Kết Hệ Thống Mental Game**
 
@@ -1704,21 +1689,20 @@ homeostasis cảm xúc. Pre-Performance Routine (Ch. 8) là phễu vào trận
 là vòng học tập --- chuyển đổi kinh nghiệm thành growth. Joy & Flow (Ch.
 10) là động cơ dài hạn --- duy trì passion và excellence qua nhiều năm.
 
-+:----------------------------------------------------------------+
-| **LỜI KẾT --- MENTAL GAME LÀ HÀNH TRÌNH SUỐT ĐỜI**              |
-+-----------------------------------------------------------------+
-| Hệ thống mental game không phải là điểm đến --- đây là hành     |
-| trình phát triển liên tục                                       |
-|                                                                 |
-| Bắt đầu với một thành phần, xây dựng nó cho đến khi trở thành   |
-| habit, rồi thêm thành phần tiếp theo                            |
-|                                                                 |
+| **LỜI KẾT --- MENTAL GAME LÀ HÀNH TRÌNH SUỐT ĐỜI** |
+| --- |
+| Hệ thống mental game không phải là điểm đến --- đây là hành |
+| trình phát triển liên tục |
+|  |
+| Bắt đầu với một thành phần, xây dựng nó cho đến khi trở thành |
+| habit, rồi thêm thành phần tiếp theo |
+|  |
 | Nhất quán quan trọng hơn hoàn hảo --- một routine đơn giản được |
-| thực hiện mỗi ngày \> một hệ thống phức tạp chỉ thỉnh thoảng    |
-|                                                                 |
-| Đo lường tiến bộ không chỉ qua kết quả trận đấu mà còn qua quá  |
-| trình và growth                                                 |
-|                                                                 |
-| Hãy nhớ: mỗi vận động viên vĩ đại đã bắt đầu từ đây --- từ      |
-| quyết định xây dựng mental game một cách có hệ thống            |
-+-----------------------------------------------------------------+
+| thực hiện mỗi ngày \> một hệ thống phức tạp chỉ thỉnh thoảng |
+|  |
+| Đo lường tiến bộ không chỉ qua kết quả trận đấu mà còn qua quá |
+| trình và growth |
+|  |
+| Hãy nhớ: mỗi vận động viên vĩ đại đã bắt đầu từ đây --- từ |
+| quyết định xây dựng mental game một cách có hệ thống |
+

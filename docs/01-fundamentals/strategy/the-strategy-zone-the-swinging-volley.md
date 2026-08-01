@@ -7,19 +7,18 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-swinging-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-swinging-volley/media/image1.webp)
 
-**Did we go crazy introducing the swinging volley in the 1980\'s?**
+**Did we go crazy introducing the swinging volley in the 1980's?**
 
 At the Academy, we started training players to hit Swinging Volleys in
-the late 1980\'s. People thought we were crazy! Taking a big swing was
-considered the worst mistake you could possibly make at the net. \"It\'s
+the late 1980's. People thought we were crazy! Taking a big swing was
+considered the worst mistake you could possibly make at the net. \"It's
 impossible to control the ball when you swing at the net.\" We heard
 that over and over from the \"experts\" in tennis.
 
-But you know what? It turned out we weren\'t crazy after all. It turned
-out we were right. It turned out the shot wasn\'t impossible. It turned
+But you know what? It turned out we weren't crazy after all. It turned
+out we were right. It turned out the shot wasn't impossible. It turned
 out that shott was vital. Monica Seles and a few other players proved
 that, and proved the skeptics wrong.
 
@@ -27,20 +26,19 @@ Over the years we have taught hundreds and hundreds of players to hit
 swinging volleys and hit them well. And now the conventional wisdom is
 the complete opposite. The swinging volley is now considered a standard
 shot that every player in pro and in junior tennis must develop. So
-let\'s see how to do that!
+let's see how to do that!
 
 **Swinging Volley Finish**
 
-In this series of articles, we\'ve outlined our concept of how to build
+In this series of articles, we've outlined our concept of how to build
 points through a progression we call \"Control, Hurt, Finish.\" ([Click
 Here](The%20Strategy%20Zone%20-%20Introduction.docx).) In the previous
 article we took a detailed look at the groundstroke finishes. How does
-the swinging volley fit in? It\'s another basic finish option, and the
+the swinging volley fit in? It's another basic finish option, and the
 preferred alternative in many situations.
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-swinging-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-swinging-volley/media/image2.webp)
 
 **Maximum power and more winners from deeper in the court.**
 
@@ -67,8 +65,7 @@ high, slower paced balls.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-swinging-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-swinging-volley/media/image3.webp)
 
 **In a two-handed world, the swinging volley is a weapon on either
 side.**
@@ -84,21 +81,18 @@ the groundstroke. The difference obviously is that you take the ball in
 the air before it bounces, but the technical swings are quite
 similar.]{.mark}]{.underline}**
 
-Let\'s go over the important technical elements. These are as follows:
+Let's go over the important technical elements. These are as follows:
 ball recognition, explosive early footwork, preparation and stance, and
 finally, the swing pattern itself.
 
-+-------------------------------------------------+
-| The Elements:                                   |
-+:======================:+:======================:+
-| Ball Recognition       | Explosive Footwork     |
-+------------------------+------------------------+
-| Preparation and Stance | Swing Pattern          |
-+------------------------+------------------------+
+| The Elements: |  |
+| --- | --- |
+| Ball Recognition | Explosive Footwork |
+| Preparation and Stance | Swing Pattern |
+
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-swinging-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-swinging-volley/media/image4.webp)
 
 **Move forward at the moment you recognize the opportunity.**
 
@@ -110,12 +104,12 @@ the players come forward.]{.underline}]{.mark}** **[[This is different
 from a traditional approach sequence in which the player is already
 moving forward and committed to coming in.]{.underline}]{.mark}**
 
-**[[Does this mean that the pro players are slow in reacting? It\'s the
+**[[Does this mean that the pro players are slow in reacting? It's the
 opposite. They are reacting virtually instantaneously to the opportunity
-presented by the opponent\'s next ball.]{.mark}]{.underline}**
+presented by the opponent's next ball.]{.mark}]{.underline}**
 
 **[[They may recognize the shot just as the ball comes off the
-opponent\'s racket. But in some cases, they are moving before the
+opponent's racket. But in some cases, they are moving before the
 opponent actually hits. They anticipate the next ball will be short
 enough and high enough for them to come forward. This is because they
 sense that their previous shot will force the opponent to hit a weak or
@@ -131,8 +125,7 @@ initial explosive steps are usually followed by a series of small
 adjusting steps to position more precisely to the oncoming ball.
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-swinging-volley/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-swinging-volley/media/image5.webp)
 
 **The swing is usually a slightly more compact than the groundstroke.
 Compare the racket hand heights.**
@@ -160,8 +153,7 @@ player and the individual ball as well.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-swinging-volley/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-swinging-volley/media/image6.webp)
 
 **Topspin is critical because of your position on the court.**
 
@@ -180,14 +172,13 @@ can be lower on shorter weaker balls.]{.underline}]{.mark}**
 
 **Basic Patterns**
 
-Now let\'s look at how the Swinging Volley works in the context of
+Now let's look at how the Swinging Volley works in the context of
 points, as the finishing shot in our strategy sequences. The patterns
 are worth looking at because they are less familiar than the ways points
 are finished off the ground.
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-the-swinging-volley/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-the-swinging-volley/media/image7.webp)
 
 **A deep groundstroke drive and a swinging volley winner into the
 opening.**
@@ -217,8 +208,7 @@ return to your backhand side, it can be a crosscourt backhand swinging
 volley.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-the-swinging-volley/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-swinging-volley/media/image8.webp)
 
 **A wide serve to open the court and then a power swinging volley to
 finish.**
@@ -246,8 +236,7 @@ the other way crosscourt.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-the-swinging-volley/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-the-swinging-volley/media/image9.webp)
 
 **An aggressive return on a second serve sets up another opportunity.**
 
@@ -265,16 +254,15 @@ court and the potential of this shot to end the point, you will
 naturally put together the combinations that work for you against a
 given opponent.]{.underline}]{.mark}**
 
-Next: Let\'s look at Finish Sequences based on Approaches and
+Next: Let's look at Finish Sequences based on Approaches and
 Traditional Volleys.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-the-swinging-volley/media/image10.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                          Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-the-swinging-volley/media/image10.jpeg)                                                                                                                                                          Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                           Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                           academy concept and has watched his vision grow
-                                                                                                                                                                                          for over 30 years into the world\'s premier
+                                                                                                                                                                                          for over 30 years into the world's premier
                                                                                                                                                                                           tennis training ground at IMG Bollettieri in
                                                                                                                                                                                           Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                           collaborated with many of the leading innovators
@@ -282,7 +270,7 @@ Traditional Volleys.
                                                                                                                                                                                           concepts into training programs at the Academy.\
                                                                                                                                                                                           \
                                                                                                                                                                                           Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                          Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                          Zone, is one of the world's leading analysts of
                                                                                                                                                                                           statistics and strategy, and the Head of
                                                                                                                                                                                           Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                           Academies. Lance was a pioneer in the video

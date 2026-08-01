@@ -6,10 +6,9 @@ Stroke Shaping and Hand Feeding**
 **Chris Lewit**
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image1.webp)
 
-**Now let\'s start to look at the drills and exercises to build the
+**Now let's start to look at the drills and exercises to build the
 Spanish forehand.**
 
 In the first article in this series, I outlined the theoretical
@@ -28,25 +27,24 @@ the holy grail of the Spanish forehand. Racket speed is what allows
 players to produce a heavy ball combining velocity and spin in various
 balances.
 
-Now let\'s look at some of the drills and exercises I use with my
+Now let's look at some of the drills and exercises I use with my
 students. These are based on what I have learned in my studies with some
 of the great Spanish coaches, taken from other famous coaches, and also,
 what I have developed and evolved through my own teaching experience. In
-this article we\'ll look at what I call Shaping Exercises and Hand Fed
-Ball Drills. Then we\'ll move on to Racket Fed Drills and Power Building
-Drills. We\'ll also address common problems that emerge when developing
+this article we'll look at what I call Shaping Exercises and Hand Fed
+Ball Drills. Then we'll move on to Racket Fed Drills and Power Building
+Drills. We'll also address common problems that emerge when developing
 the Spanish forehand at all levels.
 
 **Manual Forearm Hinge**
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image2.webp)
 
 The Manual Forearm Hinge exercise is helpful for players who have
 difficulty getting the feeling of the steep upward trajectory necessary
-to achieve heavy spin. I\'m a big believer in manual manipulation of the
+to achieve heavy spin. I'm a big believer in manual manipulation of the
 body to help students learn particular technical movements. It can be
 the difference in breaking through technical sticking points.
 
@@ -58,8 +56,7 @@ action of the modern forehand.
 **Forearm Hinge**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image3.webp)
 
 This second exercise is a progression from the first hinge drill, adding
 a hand fed ball. The player takes the feeling of the shadow movement and
@@ -74,17 +71,16 @@ faster to achieve more speed and rpms.
 
 ![Two people playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image4.webp)
 
-It is said that good coaches invent, great coaches steal. Here I\'m
+It is said that good coaches invent, great coaches steal. Here I'm
 stealing from the work legendary Robert Lansdorp has done on
 Tennisplayer. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html) to
-see Robert\'s article that includes his original version of this drill.)
+see Robert's article that includes his original version of this drill.)
 
 The purpose of the drill is to force the player to extend through the
-ball by holding the finish. But I\'ve incorporated this extension with
+ball by holding the finish. But I've incorporated this extension with
 more of a topspin focus and also use it with open and semi open stances.
 Here I have one of my beginning tournament players get the feeling of
 extending before taking the followthrough up and over the shoulder.
@@ -96,8 +92,7 @@ knowing that the extension component will be preserved.
 **Parabola**
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image5.webp)
 
 This shadow exercise gives players a visual of the Spanish swing shape.
 It graphic demonstrates how this parabolic shape, differs from the more
@@ -116,15 +111,14 @@ how full body rotation contributes to creating the swing shape.
 **Circle Leg Drive and Landing**
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image6.webp)
 
-In this exercise, I\'m breaking the old school rule by encouraging my
-students to jump and rotate through the shot. I\'m trying to develop
-power and athleticism, coordination and balance. I\'m trying to develop
+In this exercise, I'm breaking the old school rule by encouraging my
+students to jump and rotate through the shot. I'm trying to develop
+power and athleticism, coordination and balance. I'm trying to develop
 the kinetic chain, starting with a great leg drive and transferring
 energy up through the hips and core into the ball. This energy is then
-harmoniously linked with tremendous arm speed. That\'s how you develop a
+harmoniously linked with tremendous arm speed. That's how you develop a
 big, whipping forehand like Nadal or Verdasco.
 
 I pay special attention the landing because that is how balance is
@@ -138,24 +132,23 @@ circle.
 
 ![A person swinging a tennis racket Description automatically generated
 with medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image7.webp)
 
 This is the all-time Spanish classic and I have seen many variation of
-this drill in Spain. This exercise is hand fed from the side. It\'s the
+this drill in Spain. This exercise is hand fed from the side. It's the
 number one drill that I use to develop power, racket speed, and
 coordination of the different energy linkages.
 
 This drill is generally for more advanced players who have the basic
 swing shape and now need to develop coordination, timing, and huge whip.
 Watch how the player is loading his legs, exploding upward, and
-accelerating his arm at maximum speed. It\'s also a good first
+accelerating his arm at maximum speed. It's also a good first
 progression for teaching kids how to hit a swinging volley, a very
 important shot in the Spanish system.
 
 I tend to do 3-5 sets of 10-20 repetitions in one lesson. You need to be
 careful. You want to challenge the arm musculature to get a good
-training effect but you don\'t want to overload the shoulders or
+training effect but you don't want to overload the shoulders or
 arm/wrist so much that the player is risking injury. So use common
 sense, especially with players under 10 and with older adults, and ask
 for feedback from the player as to arm fatigue.
@@ -167,21 +160,20 @@ the air at first, but can progress to that later.
 
 All-in-all, this type of drill is the best way I know to build the
 vicious arm speed and to get that heavy ball that typifies the modern
-professional forehand. For those familiar with boxing, it\'s a bit like
+professional forehand. For those familiar with boxing, it's a bit like
 working on the speed bag in the gym to train the fast twitch muscles.
 
 **Racket Speed Front Feed**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image8.webp)
 
 This racket speed drill is fed from the front, another variation of the
 classic Spanish approach. The front feed also involves movement, so it
 is more challenging. Players should develop proficiency with the side
 feed first and then move to this drill next.
 
-It\'s a great drill to simultaneously develop hand-eye, footwork and
+It's a great drill to simultaneously develop hand-eye, footwork and
 positioning as well as the tremendous arm whip. The coach can vary the
 toss direction and height to make the drill more difficult, depending on
 the level. The same cautions about over use apply as with the side feed,
@@ -192,8 +184,7 @@ players.
 
 ![A couple of people stand on a tennis court Description automatically
 generated with medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image9.webp)
 
 Here is a version of the classic Spanish defensive movement drill that I
 have written about in a previous article for Tennisplayer. ([**[Click
@@ -205,7 +196,7 @@ between her hips and shoulders. Note she is using the characteristic
 Spanish double-rhythm method of footwork to defend the court, as
 discussed in the previous article.
 
-She loads with an open stance and explodes upward into the ball. I\'m
+She loads with an open stance and explodes upward into the ball. I'm
 looking for smooth rhythmic movement along the defensive V, good
 balance, and then huge leg drive and racket speed to create heavy spin.
 
@@ -222,14 +213,13 @@ curriculum, what Jose Higueras calls 360 degree movement.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image10.webp)
 
-As I have written previously, I feel today\'s competitive juniors need a
+As I have written previously, I feel today's competitive juniors need a
 complete game that combines defense and attack. I think it is equally
 important to train them to take the ball on the rise, not just on the
 fall. This is a basic drill that I do on regular basis to develop this.
-I toss the ball quickly at the player\'s feet. The player must use a
+I toss the ball quickly at the player's feet. The player must use a
 whipping forearm action to pick up the ball on the rise. This is a
 difficult drill, and the coach can vary the challenge by tossing faster
 or slower. Although it is possible to hit the ball on the rise with an
@@ -240,8 +230,7 @@ concept of playing up and attacking the ball.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image11.webp)
 
 I call this my \"Workshop Drill,\" because this is the drill that I use
 to build and rebuild technique and to work on proper lateral movement
@@ -257,7 +246,7 @@ a technical aspect.
 I highly recommend this Workshop Drill as a basic structure when shaping
 the mechanics of the Spanish forehand. In this drill, I pull the player
 out wide towards the sideline. He must then execute a flawless technical
-swing, and recover with the proper footwork back around the cone. It\'s
+swing, and recover with the proper footwork back around the cone. It's
 a simple drill, physically tiring, and a great way to build that
 beautiful modern forehand shape.
 
@@ -271,8 +260,7 @@ the repetitions to 20 or more balls.
 **Emergency Drill**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image12.webp)
 
 The Emergency Drill is great for developing quickness and adaptability
 on the run when a player is in trouble. The animation shows a variation
@@ -298,14 +286,13 @@ Watch how my player demonstrates a nice reverse finish in this clip,
 applying extra topspin and height to the ball to give him time to
 recover and grind!
 
-**Uncle Toni\'s Favorite**
+**Uncle Toni's Favorite**
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image13.webp)
 
-This drill is rumored to be a favorite of Rafa\'s coach, Uncle Toni. I
+This drill is rumored to be a favorite of Rafa's coach, Uncle Toni. I
 believe Jose Higueras is also using a variation of this drill now in the
 curriculum for the USTA Elite Player Development. The idea is to push a
 player forward and back developing his footwork, spin and whip, and ball
@@ -317,12 +304,12 @@ change directions and move back and forth in the middle of the drill.
 This drill also helps players develop natural feel for the reverse
 finishes.
 
-In this drill, I\'m feeding the ball low and my player has to use his
+In this drill, I'm feeding the ball low and my player has to use his
 forearm whip and hand speed to control the ball at his feet. Pato
 Alvarez, a famous Spanish coach, also does a variation of this drill but
 focusing more on the rhythm footwork and higher balls.
 
-So that\'s it for shaping and hand feed drills. In the future I\'ll
+So that's it for shaping and hand feed drills. In the future I'll
 present the racket fed drills I use, plus strengthening exercises, and
 some of the common problems I see developing the Spanish style modern
 forehand. See you then!
@@ -332,8 +319,7 @@ for the doing the awesome demonstrations of the Spanish forehand that
 made this article possible.**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image14.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image14.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -350,14 +336,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image15.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image15.jpeg)
 
 **The Secrets of Spanish Tennis**
 
@@ -371,16 +356,15 @@ USTA High Performance Coach Chris Lewit.
 [**[Click Here to
 Order!]{.underline}**](http://www.amazon.com/gp/product/1937559491/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687522&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0982618212&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1J1QMC9PW98986T3ENJ0)
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
-| | **Tennisplayer Forum**                                                                      | ![forum](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image16.gif){width="1.8729166666666666in" | |
-| |                                                                                             | height="1.3958333333333333in"}                                                                                                                                                                                   | |
-| +---------------------------------------------------------------------------------------------+                                                                                                                                                                                                                  | |
-| | **Let\'s Talk About this Article!\                                                          |                                                                                                                                                                                                                  | |
-| | \                                                                                           |                                                                                                                                                                                                                  | |
-| | Share Your Thoughts with our Subscribers and Authors!\                                      |                                                                                                                                                                                                                  | |
-| | \                                                                                           |                                                                                                                                                                                                                  | |
-| | [[Click                                                                                     |                                                                                                                                                                                                                  | |
-| | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/?view=stream)** |                                                                                                                                                                                                                  | |
-| +=============================================================================================+==================================================================================================================================================================================================================+ |
-+====================================================================================================================================================================================================================================================================================================================+
+| +---------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Tennisplayer Forum** | ![forum](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image16.gif) |  |
+| +---------------------------------------------------------------------------------------------+ |  |  |  |
+|  | **Let's Talk About this Article!\ |  |  |
+|  | \ |  |  |
+|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
+|  | \ |  |  |
+|  | [[Click |  |  |
+|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/?view=stream)** |  |  |
+| +=============================================================================================+==================================================================================================================================================================================================================+ |  |  |  |
+

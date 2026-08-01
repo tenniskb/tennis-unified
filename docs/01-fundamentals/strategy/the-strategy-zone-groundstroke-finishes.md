@@ -8,8 +8,7 @@
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image1.webp)
 
 **The top players make up their minds and then finish. But how?**
 
@@ -17,15 +16,15 @@ The final component in the Strategy Zone system is called \"Finish.\"
 How do you hit winners in match play against a wide variety of
 opponents?
 
-I\'ve been very fortunate to work with many of the best players in the
+I've been very fortunate to work with many of the best players in the
 world. Andre Agassi, Monica Seles, Venus Williams, Serena Williams,
 Tommy Haas, and Maria Sharapova, among many others. These players know
-when to finish. They make up their mind, and that\'s it. But how do they
+when to finish. They make up their mind, and that's it. But how do they
 know when to and how do they execute\> Those are the key questions.
 
 **3 Components**
 
-In previous articles we\'ve looked at how to establish the first two
+In previous articles we've looked at how to establish the first two
 components of winning strategy \"Control\" and \"Hurt.\" You can learn
 to create Control with your groundstrokes, with your return, and with
 your serve. ([Click
@@ -36,13 +35,12 @@ shot combinations once you are in control of the point, shot
 combinations that punish your opponent and/or keep him on the run.
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-groundstroke-finishes/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-groundstroke-finishes/media/image2.webp)
 
 **Agassi demonstrates a simple change of direction to Finish.**
 
 **[[These first two steps\--Control and Hurt\--set you up to Finish. You
-can\'t jump over the steps.]{.underline}]{.mark}** I can\'t stress too
+can't jump over the steps.]{.underline}]{.mark}** I can't stress too
 strongly that for top players, winners are part of a sequence that you
 build over the course of the point.
 
@@ -54,7 +52,7 @@ ball, and the chance to hit it into the open court for a winner.
 **[[The goal of the Finish shot is to hit a winner, but a well-placed
 Finish shot may also force the opponent to make an
 error.]{.underline}]{.mark}** **[[But whichever, these finishing shots
-don\'t occur randomly. The key point to understand is that they are the
+don't occur randomly. The key point to understand is that they are the
 outcome of a strategic pattern or process.]{.underline}]{.mark}**
 
 At the Academy we work on hitting the finishing or put away shot
@@ -63,8 +61,7 @@ leads to better choices about when to hit the winning shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image3.webp)
 
 **Federer hits a wide serve, then moves forward to finish.**
 
@@ -80,17 +77,16 @@ the opponent with a drive to the open court, then changes direction for
 the winning Finish shot.
 
 Both players make the process look effortless because they have mastered
-the Control and Hurt Phases. That\'s what we want to help you do as
+the Control and Hurt Phases. That's what we want to help you do as
 well. Build the point, and create you own unique patterns.
 
-In this article we\'ll start by exploring the basic finishing shots off
-the ground. In upcoming articles, we\'ll also look at the various
+In this article we'll start by exploring the basic finishing shots off
+the ground. In upcoming articles, we'll also look at the various
 finishing strategies at the net.
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image4.webp)
 
 **A drive to the open court court and a change of direction to finish.**
 
@@ -106,7 +102,7 @@ recognize opportunities prevents them from hitting winners that would
 otherwise be possible and routine.]{.underline}]{.mark}**
 
 **[[Higher level players recognize the oncoming shot as it comes off the
-opponent\'s racket. But at the top levels of the game, it\'s a different
+opponent's racket. But at the top levels of the game, it's a different
 world.]{.underline}]{.mark}** **[[Top players actually base their
 movement and preparation on how well they hit the previous ball. They
 choose the correct shot instinctively and without hesitation based on
@@ -120,8 +116,7 @@ details on the specific patterns in his articles.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image5.webp)
 
 **Instant recognition, explosive forward movement, and a forehand
 finish.**
@@ -145,7 +140,7 @@ two factors.]{.underline}]{.mark}**
 **[[If the opponent is clearly out of position and the court is open,
 the player can finish with a controlled amount of pace and a higher spin
 component.]{.underline}]{.mark}** **[[When the opponent is in the
-process of recovering closer to a good neutral position, it\'s a
+process of recovering closer to a good neutral position, it's a
 different situation.]{.underline}]{.mark}**
 
 **[[Now you have a smaller target area to hit into in order to finish.
@@ -154,7 +149,7 @@ to make sure the winner really gets past the
 opponent.]{.underline}]{.mark}**
 
 **[[But the main point for players at lower levels is this]{.underline}.
-[If you are effective in the first two phases, you don\'t necessarily
+[If you are effective in the first two phases, you don't necessarily
 have to hit the ball hard to finish.]{.underline}]{.mark}** **[[The
 first two phases are designed to illicit a weak reply so that we can hit
 the Finish shot into a large target area when possible. Placement is
@@ -162,8 +157,7 @@ actually much more important than power.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image6.webp)
 
 **Test your basic ability to hit finishing shots to the target areas.**
 
@@ -178,7 +172,7 @@ consistency.]{.underline}]{.mark}**
 
 **[[In general players obsess over the minutiae of stroke technique at
 the expense of the geometric construction of winning
-points.]{.underline}]{.mark}** **[[This may sound harsh but it\'s true.
+points.]{.underline}]{.mark}** **[[This may sound harsh but it's true.
 Unless you can effectively hit the patterns outlined in this series, all
 the information you believe you have mastered about technique is has
 very little value\--at least if you goal is to win
@@ -198,19 +192,18 @@ very comfortable hitting the targets 8 of 10 times on a regular basis.
 
 ![A picture containing tennis, sky, sport, court Description
 automatically
-generated](media_the-strategy-zone-groundstroke-finishes/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-groundstroke-finishes/media/image7.webp)
 
 **Finishing shots off the ground come when half the court is open.**
 
 **Half Court Finish**
 
-Now let\'s look at two other drills that help players learn how to
-execute the basic groundstroke finish. We\'ve said that when players
+Now let's look at two other drills that help players learn how to
+execute the basic groundstroke finish. We've said that when players
 establish control and then are able to hurt the opponent, they create a
 large target area to finish.
 
-**[[The reality is this. If you watch pro players you\'ll see that they
+**[[The reality is this. If you watch pro players you'll see that they
 can only finish successfully when they have half a court to hit
 into.]{.underline}]{.mark}** **[[This means the opponent has been pushed
 far enough out of position that they cannot recover to a neutral
@@ -236,8 +229,7 @@ matches.]{.underline}]{.mark}**
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_the-strategy-zone-groundstroke-finishes/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-groundstroke-finishes/media/image8.webp)
 
 **To finish on the short ball, the player needs to come forward into the
 court at least halfway between the baseline and the service line.**
@@ -255,21 +247,20 @@ far too many low percentage winners from positions that are too deep in
 the court.]{.underline}]{.mark}** This game teaches you to associate the
 finishing shot with a ball on which you can come forward.
 
-So that\'s it for the basics of groundstroke finishes. There are many,
+So that's it for the basics of groundstroke finishes. There are many,
 many patterns that can lead to winners off the ground. Just remember
 that they are set up by your ability to control the point, and open the
 court.
 
-Next we\'ll start to look at the other possible Finish combinations at
+Next we'll start to look at the other possible Finish combinations at
 the net, including the swinging volleys.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                 Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-groundstroke-finishes/media/image9.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                           Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-groundstroke-finishes/media/image9.jpeg)                                                                                                                                                           Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                            Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                            academy concept and has watched his vision grow
-                                                                                                                                                                                           for over 30 years into the world\'s premier
+                                                                                                                                                                                           for over 30 years into the world's premier
                                                                                                                                                                                            tennis training ground at IMG Bollettieri in
                                                                                                                                                                                            Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                            collaborated with many of the leading innovators
@@ -277,7 +268,7 @@ the net, including the swinging volleys.
                                                                                                                                                                                            concepts into training programs at the Academy.\
                                                                                                                                                                                            \
                                                                                                                                                                                            Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                           Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                           Zone, is one of the world's leading analysts of
                                                                                                                                                                                            statistics and strategy, and the Head of
                                                                                                                                                                                            Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                            Academies. Lance was a pioneer in the video

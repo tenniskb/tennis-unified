@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image1.webp)
 
 **The pro backhand slice - more spin than the fiercest forehands.**
 
@@ -16,8 +15,8 @@ fiercest topspin forehands. ([Click
 Here](John%20Yandell-The%20Pro%20Slice-Spin%20Levels.docx).)
 
 Looking at dozens of examples, we found Federer and Nadal both averaged
-over 3500rpm. This is an even higher average spin rate than Nadal\'s
-topspin forehand, which is 3200rpm. It\'s substantially higher than the
+over 3500rpm. This is an even higher average spin rate than Nadal's
+topspin forehand, which is 3200rpm. It's substantially higher than the
 forehands of either Federer or Djokovic which are in the 2700-2800rpm
 range.
 
@@ -29,16 +28,14 @@ Federer and Nadal, averaging 2800rpm, virtually the same as his
 forehand.
 
 Which all leads to the next question - **[how does this spin happen?
-Let\'s break down the pro slice backhand into its technical
-components.]{.underline}** Let\'s see how Roger and Rafa do it, what
+Let's break down the pro slice backhand into its technical
+components.]{.underline}** Let's see how Roger and Rafa do it, what
 Novak does, and how they are all similar and different.
 
 ![A picture containing text Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image2.jpg){width="2.2777777777777777in"
-height="2.9166666666666665in"}![A picture containing ground, hand
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image2.jpg)![A picture containing ground, hand
 Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image3.jpg){width="2.875in"
-height="2.9166666666666665in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image3.jpg)
 
 The relationships between the racket bevels, the heel pad and the index
 knuckle determines the grip.
@@ -47,10 +44,10 @@ knuckle determines the grip.
 
 Grip for the slice can be a controversial issue, similar to what we saw
 in discussing the volleys ([Click Here](The%20Forehand%20Volley.docx)).
-Let\'s use our trusty grip system again to see how this works.
+Let's use our trusty grip system again to see how this works.
 
 This system lays out the 8 bevels of the racket handle, and the two key
-points that connect the hand to the bevels. It\'s been widely copied by
+points that connect the hand to the bevels. It's been widely copied by
 our competitors, so if you see it somewhere else, remember, it was
 (another) Tennisplayer first.
 
@@ -67,22 +64,20 @@ Tennisplayer terminology, what I think of as a continental would be a 2
 1/2 - 1 1/2.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image4.jpg){width="2.7777777777777777in"
-height="2.263888888888889in"}![A person playing tennis Description
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image4.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image5.jpg){width="2.638888888888889in"
-height="2.263888888888889in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image5.jpg)
 
 **Federer has his index knuckle close to the center of bevel 2 and much
 but not all of his heel pad on top of the frame on bevel 1.**
 
-It\'s important to note that many coaches will use these same names to
+It's important to note that many coaches will use these same names to
 describe slightly different grips, and this is true for some of our
 great contributors. And who knows, maybe their terms are better than
 mine.
 
-But if you encounter this, don\'t let it confuse you. Remember it\'s not
-the name assigned to the grip, it\'s the grip itself and how the hand
+But if you encounter this, don't let it confuse you. Remember it's not
+the name assigned to the grip, it's the grip itself and how the hand
 connects with the racket that really matters.
 
 Federer probably has the strongest grip of the three. His index knuckle
@@ -94,11 +89,9 @@ frame on bevel 1.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image6.jpg){width="2.9166666666666665in"
-height="2.1666666666666665in"}![A person playing tennis Description
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image6.jpg)![A person playing tennis Description
 automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image7.jpg){width="2.5416666666666665in"
-height="2.1666666666666665in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image7.jpg)
 
 **Novak is a little weaker probably than Federer, with both his heel pad
 and his knuckle shifted a little more downward toward the forehand.**
@@ -108,41 +101,39 @@ a little bit downward. You can tell this because the top of the handle
 is partially visible instead of completely covered by his hand. The heel
 pad is mainly on bevel 1 but partially on bevel 2.
 
-Djokovic\'s grip is pretty close to the same as Roger\'s, but I think
+Djokovic's grip is pretty close to the same as Roger's, but I think
 just slightly weaker. His index knuckle also appears to be mostly on
 bevel 2 but shifted a little further down. From the rear view, you can
 also see a little more of the top of the handle than with Roger, so the
 heel pad is shifted down a little more toward bevel 2.
 
-Compared toFederer or Djokovic, Nadal\'s grip is significantly weaker.
+Compared toFederer or Djokovic, Nadal's grip is significantly weaker.
 To me it appears that his index knuckle is on the edge between bevels 2
 and 3. His heel pad appears to be partially on top but mostly on bevel
-2. So Nadal\'s grip is shifted a little more to the forehand than even
+2. So Nadal's grip is shifted a little more to the forehand than even
 what I call the continental in Tennisplayer terminology.
 
 As with grips on all the strokes, these are just my best estimates based
-on looking at high speed footage from multiple angles. It\'s very
+on looking at high speed footage from multiple angles. It's very
 difficult to be precise, and things look different sometimes from
 different views.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image8.jpg){width="2.861111111111111in"
-height="2.125in"}![A person hitting a ball with a tennis racket
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image8.jpg)![A person hitting a ball with a tennis racket
 Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image9.jpg){width="2.6527777777777777in"
-height="2.125in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image9.jpg)
 
 **Rafa has the slice grip shifted most toward the forehand. His knuckle
 seems to be on the edge between bevels 2 and 3. Part of his heel pad is
 on top of the handle, but it appears mostly on bevel 2.**
 
-But it\'s the best we can do without asking the players to let me on
+But it's the best we can do without asking the players to let me on
 court to film them at close range in a tour match, which is unlikely to
 happen. (Hey, maybe in practice someday, who knows?)
 
 Also, telling the differences on the slice grips is particularly tricky
 because they are typically less than the other groundstrokes. In fact,
-as we\'ll see below, one of the best clues to understanding grips on the
+as we'll see below, one of the best clues to understanding grips on the
 slice is not to look at the hands, but rather the contact points.
 
 So we can always evolve this discussion. And if you have other images or
@@ -154,8 +145,7 @@ question is this: how do the players establish them? And the answer is
 in different ways.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image10.webp)
 
 **A range of grips in the ready position before the shift for the slice
 during the unit turn.**
@@ -165,32 +155,31 @@ make different degrees of grip shift to get to the slice. Federer and
 Djokovic appear to wait with intermediate grips, but Nadal is much
 closer to his under the handle forehand grip in the ready position.
 
-Federer\'s intermediate grip is shifted the more toward the top of the
+Federer's intermediate grip is shifted the more toward the top of the
 frame than Novak, with his knuckle already on the edge between bevel 2
 and 3. That makes sense given his modified eastern forehand grip.
 
 Compared to Federer, Nadal waits with his hand still under the handle.
-This may explain help explain why he doesn\'t shift as far on top as
+This may explain help explain why he doesn't shift as far on top as
 Federer or Djokovic, since he has further to go.
 
-Interestingly, Djokovic\'s forehand grip is as extreme as Nadal\'s. But
+Interestingly, Djokovic's forehand grip is as extreme as Nadal's. But
 he waits in a position that is much closer to Federer, something like an
 eastern forehand grip with the index knuckle on bevel 3. This may help
 explain why even with his extreme forehand his slice grip is closer to
-Roger\'s. ([Click
+Roger's. ([Click
 Here](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)
-for more on Djokovic\'s forehand grip and his forehand in general.)
+for more on Djokovic's forehand grip and his forehand in general.)
 
-It\'s got to be easier to make all the grip shifts, to the forehand,
+It's got to be easier to make all the grip shifts, to the forehand,
 backhand, slice, volley\--from some position closer to the middle, and
 probably the majority of the players do this. But, on the other hand,
 Nadal makes his slice work with the less extreme grip. You wonder though
-if it\'s truly a grip by choice, and if his starting position limits him
+if it's truly a grip by choice, and if his starting position limits him
 in how far he feels he can go.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image11.webp)
 
 **A great checkpoint: shoulders square to net at the ball bounce.**
 
@@ -220,8 +209,7 @@ This is similar to the one-handed topspin backhand. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image12.webp)
 
 **The line of the stance and the line of the shoulders are parallel,
 allowing more turn and forward rotation.**
@@ -236,7 +224,7 @@ body on a diagonal of about 30 to 45 degrees or even more.
 
 The explanation for the closed stance on the slice is the same as for
 topspin drive and is related to the shoulder turn. If you draw a line
-across the tips of the feet, you\'ll see that it is roughly parallel to
+across the tips of the feet, you'll see that it is roughly parallel to
 a line across the shoulders. The shoulders turn 30 to 45 degrees past
 perpendicular to the net, and the line across the feet is parallel and
 along this same angle. ([Click
@@ -253,8 +241,7 @@ the net or slightly open.
 **Backswing**
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image13.webp)
 
 **The extreme wrap at the top of the backswing.**
 
@@ -270,7 +257,7 @@ around the body at the top of the backswing. At maximum wrap, the elbow
 can be 90 degrees.
 
 The tip of the racket at this point actually crosses behind the
-player\'s body. In the extreme case, the shaft of the racket is parallel
+player's body. In the extreme case, the shaft of the racket is parallel
 with the baseline, with the tip of the racket pointing perpendicular to
 the sideline.
 
@@ -289,8 +276,7 @@ hand reaches about the mid chest area, although it is sometimes lower as
 well.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image14.webp)
 
 **Novak: less extreme backswing, lower contact points.**
 
@@ -318,13 +304,12 @@ swing all three of our players share.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image15.webp)
 
 **The hitting arm structure is straight on the pro slice\--and all good
 slice backhands.**
 
-***[This is the shape of the hitting arm prior to contact. It\'s
+***[This is the shape of the hitting arm prior to contact. It's
 straight.]{.mark}*** This straight arm hitting structure is critical,
 just as we saw on the topspin backhand.
 
@@ -351,7 +336,7 @@ elbow.]{.underline}]{.mark}**
 
 **[[This leads to late contact, loss of power, lack of control, and
 also, the inability to hit crosscourt. And maybe, tennis
-elbow.]{.mark}]{.underline}** Other than that, it\'s not a problem.
+elbow.]{.mark}]{.underline}** Other than that, it's not a problem.
 
 For the club player I highly recommend two other great articles that
 talk about the key elements on the slice and the arm postion, the first
@@ -370,18 +355,17 @@ stunning though is just how steep the downward plane of the swing
 actually is in the pro slice.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image16.webp)
 
 **Watch the front shoulder muscles bring the arm forward and down to
 contact.**
 
-Let\'s see how the players come out of the wrap around backswing and
-start the racket down to the ball. Then let\'s follow the path of the
+Let's see how the players come out of the wrap around backswing and
+start the racket down to the ball. Then let's follow the path of the
 racket to the contact, see how far the swing continues down, then see
 what happens in the followthrough.
 
-We\'ve already seen that at the start of the swing, the torso starts to
+We've already seen that at the start of the swing, the torso starts to
 rotate forward and around, going from the closed position in line with
 the stance to roughly sideways at contact. Obviously this rotation is
 contributing somewhat to the motion toward contact.
@@ -398,25 +382,24 @@ the hitting arm is coming down. This makes achieving the straight arm
 hitting position impossible.]{.mark}**
 
 It also causes the front shoulder to over rotate. The end result is late
-contact with the hitting arm still bent. That\'s a recipe for a bad
-slice and maybe tennis elbow. So let\'s just say it\'s a good idea to
+contact with the hitting arm still bent. That's a recipe for a bad
+slice and maybe tennis elbow. So let's just say it's a good idea to
 get the hitting arm straight as soon as possible, closer to the timing
 of Nadal on this critical element.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image17.webp)
 
 **The swing plane can be downward on a 50 degree angle.**
 
 **Downward Angle**
 
-Now let\'s look at that amazing downward angle. As the forward swing
+Now let's look at that amazing downward angle. As the forward swing
 starts, the racket hand comes down and around and aligning the racket
 head behind the ball as it moves to the contact. What is amazing here is
 how steep this downward motion actually is.
 
-As usual, I\'d love some 3D data from Brian Gordon that would make this
+As usual, I'd love some 3D data from Brian Gordon that would make this
 analysis more scientific, but some rough measurements off the high speed
 video show the racket appears to be moving downward on angle of around
 50 degrees.
@@ -429,16 +412,15 @@ are generally higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image18.webp)
 
-**The pro slice swing plane approximates Nadal\'s forehand.**
+**The pro slice swing plane approximates Nadal's forehand.**
 
 Interestingly, the swing plane on the slice is roughly the same angle as
-on Nadal\'s most extreme forehands with the over the head finishes
+on Nadal's most extreme forehands with the over the head finishes
 (though moving in the other direction). Again, according to my very
 rough measurements, that swing plane angle is around 50 degrees.
-Whatever the precise measurements, it\'s obvioius the swing is radically
+Whatever the precise measurements, it's obvioius the swing is radically
 high to low.
 
 **Sideways Component**
@@ -446,7 +428,7 @@ high to low.
 But there is another radical element, that is as surprising, maybe more
 surprising. **[And this is the sideways motion in the swing.]{.mark}**
 
-Watch how far to the player\'s right the racket moves after contact (to
+Watch how far to the player's right the racket moves after contact (to
 the left obviously for Nadal.) The swing actually appears to make
 something like a 90 degree turn.
 
@@ -454,22 +436,21 @@ Watch how after contact the hitting arm can end up actually pointing at
 the sideline! Do you think this means that there is significant sidespin
 on the pro slice?
 
-That has got to be the case. It\'s something like the windshield wiper
+That has got to be the case. It's something like the windshield wiper
 where most of the sideways movement occurs after contact. But the
 sideways motion is starts, changing the angle of the racket path
 slightly contact. We can see this in the path the ball takes through the
 air, and the sideways movement we often see at the bounce.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image19.webp)
 
 **Watch the arm and racket make a 90 degree turn after contact.**
 
 What percentage is underspin and what percentage is sidespin in the pro
 slice? That is going to have to await further analysis, but we can
 imagine that on a slice backhand spinning at 3500rpm, the sidespin
-component is significant, I\'m thinking sometimes as much as 30
+component is significant, I'm thinking sometimes as much as 30
 percent - similar to the maximum topspin component in a spin serve.
 ([Click
 Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
@@ -492,13 +473,12 @@ followthrough. **[This means the shaft of the racket is literally at a
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image20.webp)
 
 **With the extreme downward swing, the racket tip and finish pointing at
 the court.**
 
-This racket angle doesn\'t seem to be some independent technical element
+This racket angle doesn't seem to be some independent technical element
 that the players can vary. It appears to be an inherent component of the
 path of the swing.
 
@@ -508,10 +488,10 @@ angle at the end of the followthrough as at the contact.
 
 **Novak**
 
-They may be common, but these radical elements don\'t happen for all pro
+They may be common, but these radical elements don't happen for all pro
 players on all balls. When we compare Novak to Roger and Rafa, we see
 that, as with the backswing, this effect is less frequent and less
-extreme in Novak\'s slice backhand.
+extreme in Novak's slice backhand.
 
 His racket and hand generally starts to the ball from a lower position,
 and the angle of the downward swing appears substantially less. If we
@@ -520,23 +500,22 @@ traditional position, above the hand and pointing upward.
 
 But again, an important caveat here is the average contact height for
 Djokovic is much lower. This may explain why his swing shape is
-different. Or his swing shape may explain why he doesn\'t hit as much
+different. Or his swing shape may explain why he doesn't hit as much
 slice on higher balls.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image21.webp)
 
 **A lower backswing and a more conventional finish with the racket tip
 above the hand.**
 
 **Contact**
 
-When we look at the player\'s from the side view at contact, we can see
+When we look at the player's from the side view at contact, we can see
 substantial differences in the three players. Also we can see a direct
-relationship between the contact point and the players\' grips.
+relationship between the contact point and the players' grips.
 
-In fact it\'s probably easier to discern the relative strength of the
+In fact it's probably easier to discern the relative strength of the
 grips by looking at the contact than by looking at the hands. The
 stronger the grip the earlier the contact.
 
@@ -549,7 +528,7 @@ the front edge of the leg. Novak is in between on the grip, and in
 between on the contact as well, although closer to Roger than Nadal.
 
 The important point here for all players is that there is no absolute
-right contact point on the slice backhand. It\'s primarily grip
+right contact point on the slice backhand. It's primarily grip
 dependent, just as on the one-handed topspin drive. What would therefore
 be late for one player with one grip can on time for another. So the
 images of these players at contact can serve as models only after they
@@ -564,8 +543,7 @@ create slice.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image22.webp)
 
 **Note the slightly open racket face - and the position of contact
 related to grip.**
@@ -595,8 +573,7 @@ from the full turn position to the contact. There is a comparable amount
 of rotation from the contact to the finish.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-stroke-components/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-stroke-components/media/image23.webp)
 
 **The range of backward movement of the rear arm - and the torso
 rotation after contact.**
@@ -610,7 +587,7 @@ However, with our three players we can again see a range of movement
 with the rear arm. This also seems to correlate with how far the torso
 eventually comes around.
 
-Roger\'s back arm motion is extreme to say the least. As his left arm
+Roger's back arm motion is extreme to say the least. As his left arm
 moves backwards it points at the back fence, but continues to move far
 past that position, often pointing behind him at a 45 degrees or more.
 If nothing else, that shows his incredible flexibility.
@@ -618,14 +595,14 @@ If nothing else, that shows his incredible flexibility.
 But it also seems to correlate with his relatively sideways torso
 position.
 
-Rafa\'s arm movement is far less and at the other end of the extreme.
-Although his opposite arm does move backward somewhat, Rafa doesn\'t
+Rafa's arm movement is far less and at the other end of the extreme.
+Although his opposite arm does move backward somewhat, Rafa doesn't
 even straighten it, keeping the elbow bent and tucked in toward his
 waist. This is probably related to his increased torso rotation at the
 end of the movement and also the way his feet seem to come around
 further and sooner than Federer.
 
-As we\'ve seen, Djokovic\'s motion is in so many respects between either
+As we've seen, Djokovic's motion is in so many respects between either
 Federer or Nadal, and the same applies here. Watch how his arm goes
 straight back but not radically behind his body like Roger. This motion
 moderates the front shoulder rotation, so it is also less than Nadal.
@@ -639,13 +616,12 @@ pointing down at the court. Other finishes can be higher still, reaching
 eye level.
 
 If the forward swing on the pro slice is radically downward and then
-across\--and if the upward motion can\'t affect the ball after it has
+across\--and if the upward motion can't affect the ball after it has
 left the strings\--why pro players still finish high?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image24.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image24.webp)
 
 **After contact, the finish is high, often reaching shoulder level.**
 
@@ -658,7 +634,7 @@ On most pro swings, the hitting arm and racket reach the bottom of the
 potential range of motion shortly after contact. So the only way left to
 go is up.
 
-Players who aim for the contact and don\'t allow the racket to move
+Players who aim for the contact and don't allow the racket to move
 freely through the finish also probably lose racket head speed. **[[To
 maximize acceleration, the swing needs to be free and relaxed, and this
 means allow the arm and racket to continue and to move and this means
@@ -669,17 +645,16 @@ club game, the high finish has additional purpose when players drive
 through the ball with underspin and lower levels of contact height and
 ball speed. One question is whether this type of swing can even work in
 the pro game, and if so would it be more or less effective on which
-balls when. More on that question and whether it\'s possible to answer
+balls when. More on that question and whether it's possible to answer
 later on.
 
 All and all the slice backhand is a fascinating shot. At the pro level
-it is difficult to understand and, I admit, something I\'ve been putting
-off tackling until now. And now, I\'m glad I\'m in! Stay tuned for more.
+it is difficult to understand and, I admit, something I've been putting
+off tackling until now. And now, I'm glad I'm in! Stay tuned for more.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-pro-slice-stroke-components/media/image25.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-pro-slice-stroke-components/media/image25.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

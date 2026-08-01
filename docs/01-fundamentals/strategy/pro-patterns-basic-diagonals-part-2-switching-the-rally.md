@@ -8,8 +8,7 @@
 
 ![A tennis player on a court Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image1.webp)
 
 **The battle for control of the diagonals can make pro patterns
 complicated.**
@@ -18,11 +17,11 @@ In the first article in this series on pro patterns, we started with a
 simple premise. The bottom line in competitive tennis is the style
 versus style match-up. What type of game do I have versus what type of
 game does my opponent have? What are my inherent strengths and what are
-my opponent\'s weaknesses? How can the strengths of my style prey upon
+my opponent's weaknesses? How can the strengths of my style prey upon
 the weaknesses of his style?
 
-**[[It\'s that simple but few players break it down to the essence.
-It\'s not about strokes, it\'s about points. It\'s no different if you
+**[[It's that simple but few players break it down to the essence.
+It's not about strokes, it's about points. It's no different if you
 want to win in the pros or any other level.]{.underline}]{.mark}**
 
 The first article looked at the multiple variations in baseline
@@ -35,8 +34,7 @@ far from the whole story.
 
 ![A picture containing sport, athletic game, court, blue Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image2.webp)
 
 **Pro tennis is a constant battle for diagonal control.**
 
@@ -46,25 +44,24 @@ and to force them to play their preferred patterns. For this reason, the
 patterns in most pro matches are much more complicated than simple
 crosscourt exchanges.
 
-**[[It\'s a chess game with many options and
-decisions.]{.underline}]{.mark}** So, let\'s investigate the
-possibilities. Let\'s look at patterns from actual professional points
+**[[It's a chess game with many options and
+decisions.]{.underline}]{.mark}** So, let's investigate the
+possibilities. Let's look at patterns from actual professional points
 and see how the top players deal with the battle for control. In this
-article we\'ll start by analyzing the forehand and backhand diagonals.
+article we'll start by analyzing the forehand and backhand diagonals.
 The next article will be devoted to a full analysis of the inside out
 position which has become such a dominant force in the modern game.
 
 ![A picture containing sport, tennis, athletic game, road Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image3.webp)\
 **To switch the rally players must hit down the line.**
 
 **Switching the Rally**
 
 When your opponent finds himself in an unfavorable crosscourt
 exchange\--if he understands patterns\--he will undoubtedly try to
-switch the rally to one that favors him. Let\'s say you are in a
+switch the rally to one that favors him. Let's say you are in a
 forehand-to-forehand rally, which is your strength, and your opponent
 would prefer to hit backhand to backhand.
 
@@ -76,8 +73,7 @@ from.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)
 
 **Switching the rally on a ball in the middle gives you more room for
 error.**
@@ -93,15 +89,14 @@ match.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image4.webp)\
 **Pinning your opponent in the corner keeps him from switching the
 rally.**
 
-But let\'s investigate what happens when your opponent is able to switch
+But let's investigate what happens when your opponent is able to switch
 the rally, because you have either hit short, close to the middle, or
 given him a slow-paced ball. The choices that follow are offensive in
-nature but use a counterattack mentality, waiting for your opponent\'s
+nature but use a counterattack mentality, waiting for your opponent's
 choice of shots, before choosing your own. If your opponent is able to
 hit successfully down the line, you will be forced to choose whether to
 play crosscourt or to hit back down the line in order to keep your
@@ -118,16 +113,15 @@ to move quickly and may give you an immediate advantage or a clean
 winner.
 
 ![A picture containing match Description automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image5.webp)
 
-**If you are balanced and can step in, punish your opponent\'s attempt
+**If you are balanced and can step in, punish your opponent's attempt
 to switch the rally.**
 
 You are telling your opponent that if he wants to switch the rally
 direction, he better hit a great shot or he is in trouble. This holds
 great advantage later in the match when pressure builds and great shots
-become more difficult. It\'s a high percentage play assuming you can
+become more difficult. It's a high percentage play assuming you can
 hurt your opponent.
 
 Players who feel they can do this consistently may actually try to lure
@@ -140,34 +134,32 @@ winning shot.
 
 ![A close-up of a football goal Description automatically generated with
 low
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image6.webp)
 
 **A change of pace response to the down the line is the soft cross court
 roll.**
 
 Once you have proven that you can hurt your opponent crosscourt in this
-way, you may also choose to roll a soft angle on your opponent\'s change
+way, you may also choose to roll a soft angle on your opponent's change
 of direction, since he will probably be backing up waiting for you to
 attack deep crosscourt. Mixing these two options will give you your best
 results.
 
-But assume the result isn\'t as forcing as described above. If your
-crosscourt isn\'t a winner or fails to produce a weak reply, your
+But assume the result isn't as forcing as described above. If your
+crosscourt isn't a winner or fails to produce a weak reply, your
 opponent has succeeded in changing the diagonal. He has gained the
 advantage of a crosscourt rally that favors him. A good player learns
 quickly whether he can use this shot.
 
 ![A picture containing tennis, sport, athletic game, road Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image7.webp)\
 **A crosscourt response is the best defense to a forcing down the
 line.**
 
 **When You Are Off Balance**
 
-Let\'s go back and examine another option: what happens if your opponent
+Let's go back and examine another option: what happens if your opponent
 is able to hit a forcing shot down the line to change the rally. A
 forcing down the line shot can put you on the run.
 
@@ -187,8 +179,7 @@ you actually have other choices, besides hitting crossing court.
 
 ![A picture containing floor, blue, athletic game, sport Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image8.webp)
 
 **One option: answer the down the line with a down the line loop.**
 
@@ -198,11 +189,11 @@ First, you may choose to hit your own shot down the line, regaining the
 crosscourt rally advantage. If you attempt this, recognize several
 things. The main point is you are not changing the direction of the
 ball, as it has just been hit straight to you. Because of this your own
-down the line shot will be easier than your opponent\'s.
+down the line shot will be easier than your opponent's.
 
 Tactically, due to the height of the net and the shorter court, this
 down the line ball often should be looped with heavy spin to get it out
-of the opponent\'s strike zone or driven hard to go on the attack. Also,
+of the opponent's strike zone or driven hard to go on the attack. Also,
 you must account for your sideways momentum and aim several feet inside
 the sideline to compensate. After hitting his down-the-line, your
 opponent will move to cover the crosscourt ball and position himself
@@ -214,8 +205,7 @@ of catching him moving the wrong way.
 
 ![A picture containing sport, tennis, green, match Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image9.webp)
 
 **Going back down the line can catch the opponent moving the wrong
 way.**
@@ -239,15 +229,14 @@ foot will allow him to stay in the point.
 
 ![A picture containing athletic game, sport, tennis Description
 automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image10.webp)
 
 **Power and speed lets Nadal hit down the line and stay in the point.**
 
 **Crosscourt Angle**
 
 Another option is a crosscourt angle. If you are balanced and feel your
-opponent\'s footspeed is not excellent; you may attempt an angle to
+opponent's footspeed is not excellent; you may attempt an angle to
 drive him off the court.
 
 This shot carries many advantages. First, you are forcing your opponent
@@ -260,8 +249,7 @@ again.
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image11.webp)
 
 **A crosscourt angle off the down the line can drive your opponent off
 the court.**
@@ -273,7 +261,7 @@ also allow you to attack down the line.
 
 **Drop Shot Options**
 
-Another potential response to your opponent\'s change of direction is to
+Another potential response to your opponent's change of direction is to
 hit a drop shot yourself. Because your opponent will be recovering
 crosscourt off his down the line shot, and because the shortest distance
 for a ball to travel is down the line, you may reply with a down the
@@ -281,31 +269,29 @@ line drop shot. You will be trying to get the ball to the drop shot
 location as quickly as possible and wrong foot your opponent, who will
 then have to both recover balance and begin a sprint. If the drop shot
 is good enough, you can actually follow it into the net knowing that if
-your opponent reaches the ball, he\'ll have to hit up giving you as easy
+your opponent reaches the ball, he'll have to hit up giving you as easy
 volley.
 
-A player like Nadal can make this look easy. It\'s definitely worth the
+A player like Nadal can make this look easy. It's definitely worth the
 experiment against many opponents, especially if their forward movement
 is suspect. You may uncover a pattern that can yield you a few extra
 points, something that can be critical in close matches.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image12.webp)
 
 **You can answer a down the line with a drop shot, and sometimes follow
 that up with an approach.**
 
-So that\'s it for the forehand and backhand diagonals. Next, we\'ll see
-how some of history\'s greatest players, from Pete Sampras and Steffi
+So that's it for the forehand and backhand diagonals. Next, we'll see
+how some of history's greatest players, from Pete Sampras and Steffi
 Graf to Roger Federer, have produced Grand Slam titles playing from the
 inside out forehand position, and how that position has become a
 dominant force in the modern game.
 
 ![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image13.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/image13.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

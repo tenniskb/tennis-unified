@@ -10,17 +10,16 @@ In the first two articles on the one-handed backhand, we looked at the
 grips, the grip shifts, and the start of the preparation, or the unit
 turn. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
-Now let\'s look at the shape, or shapes, of the backswings themselves.
+Now let's look at the shape, or shapes, of the backswings themselves.
 
-We\'ll also see how the backswing is related to the completion of the
-turn. Again we\'ll look at both the classical and the extreme variations
+We'll also see how the backswing is related to the completion of the
+turn. Again we'll look at both the classical and the extreme variations
 and see where they overlap and how they differ, although you may be
-surprised at what we do, or don\'t find.
+surprised at what we do, or don't find.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image1.webp)
 
 **Is there meaning in the size and shapes of the backswings?**
 
@@ -31,7 +30,7 @@ backswings were exactly alike. We also found that with the forehand
 there were no clear correlations between grip style and backswing size
 and shape. ([Click
 Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Backswing%20Part%201%20.docx).)
-It\'s a similar picture with the one-handed backhand.
+It's a similar picture with the one-handed backhand.
 
 When you start looking closely at the motions of the top one-handed
 players, each one is different. The range of differences is probably
@@ -39,8 +38,7 @@ less than the forehands, but contrary to what is often claimed, there
 are no absolute distinctions between the classical and extreme styles.
 
 ![A picture containing text, player, male Description automatically
-generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image2.webp)
 
 **How do we judge backswing height: the hand or the racket?**
 
@@ -50,12 +48,12 @@ tip of the racket. The second factor is the height of the hand. The
 third factor is side to side movement, or how far away the player takes
 the hand and racket away from the body.]{.mark}*** These three factors
 can be combined in many ways, and the way they are combined accounts for
-the unique shape of every player\'s motion.
+the unique shape of every player's motion.
 
 **Backswing Height**
 
 Looking at the backswing height first, we can see that the height of the
-hand and the height of the racket don\'t necessarily go together. You
+hand and the height of the racket don't necessarily go together. You
 see players with high racket positions and low hand positions, and vice
 versa.
 
@@ -65,17 +63,13 @@ tip more directly upward the racket position will be higher. If the
 player angles the tip more backwards, the racket height will be
 lower.]{.underline}]{.mark}***
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a microphone Description automatically generated with medium                                                                                                                         | ![A person playing tennis Description automatically                                                                                                                                                    | ![A person playing tennis Description automatically generated with medium                                                                                                                               | ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A person playing tennis Description automatically generated with medium                                                                                                                               |
-| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image3.jpg){width="1.7638888888888888in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image4.jpg){width="1.8055555555555556in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image5.jpg){width="1.7222222222222223in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image6.jpg){width="1.5138888888888888in"  | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image7.jpg){width="1.5416666666666667in" |
-| height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                         | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.763888888888889in"}                                                                                                                                                                            | height="2.7777777777777777in"}                                                                                                                                                                          |
-+=========================================================================================================================================================================================================+========================================================================================================================================================================================================+=========================================================================================================================================================================================================+==========================================================================================================================================================================================================+=========================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically                                                                                                                                                     | ![A person swinging a golf club Description automatically                                                                                                                                              | ![A person swinging a golf club Description automatically                                                                                                                                               | ![A person swinging a tennis racket Description automatically generated with medium                                                                                                                      | ![A person swinging a tennis racket Description automatically                                                                                                                                           |
-| generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image8.jpg){width="1.5833333333333333in"  | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image9.jpg){width="1.7777777777777777in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image10.jpg){width="1.6527777777777777in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image11.jpg){width="1.7083333333333333in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image12.jpg){width="1.6111111111111112in" |
-| height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                         | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **[The height of the backswing varies across the classical and extreme styles.]{.mark}**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a microphone Description automatically generated with medium | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- | --- | --- |
+| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image3.jpg) |  |  |  |  |
+| ![A person playing tennis Description automatically | ![A person swinging a golf club Description automatically | ![A person swinging a golf club Description automatically | ![A person swinging a tennis racket Description automatically generated with medium | ![A person swinging a tennis racket Description automatically |
+| generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image8.jpg) |  |  |  |  |
+| **[The height of the backswing varies across the classical and extreme styles.]{.mark}** |  |  |  |  |
+
 
 Some players point the tip almost directly up,but keep the hand position
 relatively low. But a player can also have a very high hand position at
@@ -92,14 +86,13 @@ and Haas, have a much lower hand position. But the tip of their racket
 is higher than Guga because it points basically straight up and down.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image13.webp)
 
 **A lower hand position is often combined with an upright racket tip.**
 
 But this same combination of a lower hand and higher racket tip is also
 used by several extreme players, for example Justine Henin-Hardenne and
-Gaston Gaudio. So there isn\'t really a correlation with grip style. The
+Gaston Gaudio. So there isn't really a correlation with grip style. The
 players seem to combine the elements as a matter of personal style. Mark
 Philippoussis, also classical grip player, has a higher hand position
 than either Justine or Gaudio, but he has a higher racket position as
@@ -107,7 +100,7 @@ well, bending his elbow at the top of the backswing more than most other
 players, and pointing the racket tip directly upward.
 
 Having said all this, it is definitely true that some extreme players do
-combine the high hand and racket position. It\'s just not a universal
+combine the high hand and racket position. It's just not a universal
 characteristic of that style as is sometimes argued. The two extreme
 players with the highest backswing positions are Fernando Gonzales and
 Tommy Rebredo. Their hands are at about shoulder level, and the racket
@@ -118,8 +111,7 @@ slightly lower than Rebredo or Gonzales.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image14.webp)
 
 **How much variety is there in sideways motion?**
 
@@ -141,29 +133,24 @@ outside. You can see this is the stills of Gaudio, Kuerten, Gonzales,
 and Robredo. But only Gonzales and Robredo combine this outside position
 with a super high hand and racket position.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A person holding a racket Description automatically generated with medium                                                                                                                              | ![A person playing tennis Description automatically generated with medium                                                                                                                               | ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A person playing tennis Description automatically                                                                                                                                                     |
-| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image15.jpg){width="1.6388888888888888in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image16.jpg){width="1.4027777777777777in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image17.jpg){width="1.625in"             | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image18.jpg){width="1.6388888888888888in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image19.jpg){width="1.6944444444444444in" |
-| height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          |
-+==========================================================================================================================================================================================================+==========================================================================================================================================================================================================+=========================================================================================================================================================================================================+:========================================================================================================================================================================================================:+=========================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A person playing tennis Description automatically                                                                                                                                                      | ![A picture containing tennis, ball, sport, person Description automatically                                                                                                                            | ![A person playing tennis Description automatically generated with low                                                                                                                                   | ![A person playing tennis Description automatically                                                                                                                                                     |
-| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image20.jpg){width="1.5833333333333333in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image21.jpg){width="1.5833333333333333in"  | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image22.jpg){width="1.6527777777777777in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image23.jpg){width="1.5277777777777777in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image24.jpg){width="1.6388888888888888in" |
-| height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The variations in distance between the hand and torso.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person holding a racket Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically |
+| --- | --- | --- | --- | --- |
+| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image15.jpg) |  |  |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically | ![A picture containing tennis, ball, sport, person Description automatically | ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically |
+| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image20.jpg) |  |  |  |  |
+| **The variations in distance between the hand and torso.** |  |  |  |  |
+
 
 **Backswing Path**
 
-So we\'ve looked at the height and the width, but how does the backswing
+So we've looked at the height and the width, but how does the backswing
 motion actually start? What path does the racket take to reach the
-various positions we\'ve detailed above? Again we can find a partial
+various positions we've detailed above? Again we can find a partial
 correlation between racket path and grip.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image25.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image25.webp)
 
 **The racket can travel immediately upward or straight back.**
 
@@ -192,8 +179,7 @@ and keeps it below head level.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image26.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image26.webp)
 
 **There are no absolute correlations between grip and backswing.**
 
@@ -210,7 +196,7 @@ for players with classic grips tend to be more compact, and extreme
 players tend to have the largest backswings, but there is a lot of
 middle ground with different combinations of the backswing elements
 across the grip styles. And the more players you look at, the more
-variations and combinations, you\'ll find. So how important are these
+variations and combinations, you'll find. So how important are these
 differences? What does all that really mean?
 
 **Bottom of the Backswing**
@@ -224,8 +210,7 @@ increase our understanding.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image27.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image27.webp)
 
 **[The purpose of the backswing is to position the racket to
 hit.]{.mark}**
@@ -241,7 +226,7 @@ start of the forward swing. The same basic point applies on the
 one-hander. The backswing delivers the racket to a similar point for the
 all the players just before the swing starts forward. In all cases the
 hand comes in toward the body from the widest point in the swing. The
-racket head drops slightly below the level of the ball, and as we\'ll
+racket head drops slightly below the level of the ball, and as we'll
 see below, the tip of the racket points behind the player toward the
 sideline, with the left hand still on the throat of the racket.
 
@@ -254,17 +239,13 @@ and come up on the toes of the rear foot. Note the bend in the front
 knee, and also, how they are all staying relatively upright in the
 torso.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A picture containing tennis, person, player, hitting Description automatically                                                                                                                        | ![A person playing tennis Description automatically generated with medium                                                                                                                                |
-| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image28.jpg){width="1.9861111111111112in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image29.jpg){width="1.6111111111111112in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image30.jpg){width="1.5in"                | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image31.jpg){width="1.8055555555555556in" |
-| height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                           |
-+==========================================================================================================================================================================================================+==========================================================================================================================================================================================================+=========================================================================================================================================================================================================+==========================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                | ![A tennis player holding a racket Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically                                                                                                                                                     | ![A person playing tennis Description automatically generated with medium                                                                                                                                |
-| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image32.jpg){width="1.5694444444444444in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image33.jpg){width="1.7361111111111112in" | generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image34.jpg){width="1.6527777777777777in" | confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image35.jpg){width="1.9027777777777777in" |
-| height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                           | height="2.7777777777777777in"}                                                                                                                                                                          | height="2.7777777777777777in"}                                                                                                                                                                           |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **What are the key similarities and differences at the bottom of the backswing?**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A picture containing tennis, person, player, hitting Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- | --- |
+| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image28.jpg) |  |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A tennis player holding a racket Description automatically generated with medium | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image32.jpg) |  |  |  |
+| **What are the key similarities and differences at the bottom of the backswing?** |  |  |  |
+
 
 Those are the similarities, but now look at ***[the two main
 differences. These are the exact distance of the hand from the torso,
@@ -274,13 +255,12 @@ interrelated. ***[More shoulder turn seems to coincide with a closer in
 hand position at the bottom of the backswing.]{.mark}***
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image36.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-backswing-s/media/image36.webp)
 
 **The step and the full turn coincide with the bottom of the
 backswing.**
 
-Again it\'s difficult to correlate the distance of the hand from the
+Again it's difficult to correlate the distance of the hand from the
 body and the amount of turn with the grip style. At the bottom of the
 backswing, Paradorn Scrichaphan has the hand position furthest from the
 body and slightly less shoulder turn. This is especially interesting
@@ -307,8 +287,7 @@ parallel with the baseline or close to it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image37.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image37.webp)
 
 **How far is the racket behind and what is the angle of the tip?**
 
@@ -319,7 +298,7 @@ baseline. His racket has gone quite far behind his body as well, with
 the racket head actually on his right side.
 
 The other players have less extreme versions of this position, and again
-it\'s on a continuum. The further the shoulder turn and the closer the
+it's on a continuum. The further the shoulder turn and the closer the
 hand position to the body, the closer the racket is to parallel with the
 baseline and the further the racket head tends to reach behind the body.
 
@@ -338,37 +317,35 @@ circumstance, they will use open stance as well.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image38.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image38.webp)
 
 **Top players use multiple stances depending on position and
 circumstance.**
 
-Let me make it clear now that I\'m not necessarily advocating the closed
+Let me make it clear now that I'm not necessarily advocating the closed
 stance for the average player, and in most cases, probably the opposite.
-It\'s just that the closed stance reveals some of the differences in the
-backswings we\'ve been studying. In a subsequent article, we\'ll look
+It's just that the closed stance reveals some of the differences in the
+backswings we've been studying. In a subsequent article, we'll look
 more closely at the stances and what they mean, why the pros hit so many
 closed stance backhands, and how you should model the stance for
 yourself.
 
 **The Pay Off**
 
-So it\'s a lot of detailed analysis to pick out the differences and the
+So it's a lot of detailed analysis to pick out the differences and the
 similarities in the backswing motions. Why go to the effort? In coaching
 and teaching I find that players and teaching pros often focus on
-idiosyncratic aspects of a particular player\'s motion, and often this
+idiosyncratic aspects of a particular player's motion, and often this
 aspect is the backswing. We tend to think if a player has a great
 backhand and a really large backswing, well, it must be the large
 backswing. Or if a player has a really great backhand and a very compact
-backswing, well, maybe it\'s the compact backswing. I\'ve heard it
-passionately argued both ways. Those judgments don\'t make sense though
+backswing, well, maybe it's the compact backswing. I've heard it
+passionately argued both ways. Those judgments don't make sense though
 when we look closely at the entire motion.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image39.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image39.webp)
 
 **Studying the range of players is the key to understanding the
 backswing.**
@@ -389,7 +366,7 @@ There may be some advantages if the hand position is in closer to the
 body at the start of the swing, including increases in the amount of the
 body turn. My opinion is that everything else being equal, more turn and
 a tighter hand position at the start of the forward swing are probably
-better. But these differences don\'t seem related to the height of the
+better. But these differences don't seem related to the height of the
 backswing or even the width. They can be achieved with very different
 sizes and shapes in the backswing motion.
 
@@ -400,8 +377,7 @@ about to emerge. Stay tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image40.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-the-backswing-s/media/image40.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

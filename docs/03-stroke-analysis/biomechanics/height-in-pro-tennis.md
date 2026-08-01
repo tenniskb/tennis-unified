@@ -9,12 +9,12 @@ Miami to discuss the reasons height makes a difference in the
 performance capabilities of elite players. The interview was to acquire
 background for their profile of Diego Schwartzman who has defied common
 belief by reaching top 10 status despite his reported standing height of
-5\' 7\'\'.
+5' 7''.
 
 The interview was wide ranging, exploring the implications of height in
 tennis from a sport science perspective. The profile nature of the piece
 caused most of the technical explanations to be edited out of the final
-production leaving behind only some of Dr. Gordon\'s more general
+production leaving behind only some of Dr. Gordon's more general
 observations. \"Diego Schwartzman the Giant Slayer\" can be seen as a
 feature of 60 Minutes+ which streams on Paramount+.
 
@@ -28,12 +28,11 @@ cutting room floor in the 60 Minutes piece.
 
 ![A person swinging a baseball bat Description automatically generated
 with low
-confidence](media_height-in-pro-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_height-in-pro-tennis/media/image2.webp)
 
 **What is the ideal height for pro tennis?**
 
-There are many factors that determine a player\'s ability to attain
+There are many factors that determine a player's ability to attain
 elite world-class status. In contrast to the past where certain
 limitations could be compensated for, today a player must rate high in
 all factors to make it to the very top. Currently the competition pool
@@ -62,14 +61,13 @@ elite status in tennis.
 
 **The Trees**
 
-There are several reasons a player\'s height is important to their
+There are several reasons a player's height is important to their
 success on the court. The primary reasons include simple geometry,
 physiology and biomechanical considerations.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_height-in-pro-tennis/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_height-in-pro-tennis/media/image3.webp)
 
 **Greater height means vertical reach.**
 
@@ -112,8 +110,7 @@ different types (genetically determined) that complicate the speed vs.
 force analysis.
 
 ![A person playing tennis Description automatically
-generated](media_height-in-pro-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_height-in-pro-tennis/media/image4.webp)
 
 **The benefit of longer segments is dependent on technique.**
 
@@ -151,8 +148,7 @@ to accelerate the body horizontally and this complicates speed
 acquisition and agility.
 
 ![A person playing tennis Description automatically
-generated](media_height-in-pro-tennis/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_height-in-pro-tennis/media/image5.webp)
 
 **Less height may be an advantage on returns.**
 
@@ -169,14 +165,14 @@ There are advantages and disadvantages to height. Extremes on one end of
 the spectrum (short) of the other (tall) make it more inherently more
 difficult to reach and stay at the highest level of the sport.
 
-**[[It is pretty clear that for men the optimal height is in the 6\'1'\'
--- 6\'4\" range. Presumably]{.underline}]{.mark}** **[[this height
+**[[It is pretty clear that for men the optimal height is in the 6'1''
+-- 6'4\" range. Presumably]{.underline}]{.mark}** **[[this height
 averages out the benefits and detriments of the extremes. It]{.mark}
 [also seems evident that this optimum is gradually increasing. So, what
 does that mean for outlier individuals to that
 range?]{.mark}]{.underline}**
 
-It by no means says that these individuals can\'t be great players and
+It by no means says that these individuals can't be great players and
 enjoy tremendous success in tennis. And this was the point I made in the
 60 Minutes piece (that hit the cutting room floor) -- **[[Mr.
 Schwartzman has had great success by excelling on return of serve,
@@ -185,21 +181,20 @@ toughness.]{.underline}]{.mark}** **[[It will be very difficult for him,
 however, to achieve the elite status of the perennial top 10 players
 like Federer, Nadal and Djokovic.]{.underline}]{.mark}**
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                              | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_height-in-pro-tennis/media/image6.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                             | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                           | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                           | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                           | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                           | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                           | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                           | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                           | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                           |                                                               |
-|                                                                                                                                                                           | To visit his website, [**[Click                               |
-|                                                                                                                                                                           | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                           |                                                               |
-|                                                                                                                                                                           | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                           | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+===========================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_height-in-pro-tennis/media/image6.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

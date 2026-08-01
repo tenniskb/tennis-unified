@@ -117,7 +117,7 @@ any ball on either side.
 
   ---------- ---------------------------------------------------------
    **READY   *\"Racket in front, elbow soft, weight forward, eyes on
-   POSITION  the opponent\'s wrist.\" --- If you can repeat this
+   POSITION  the opponent's wrist.\" --- If you can repeat this
     CUE**    phrase and feel it in your body simultaneously, you are
              in the correct ready position.*
 
@@ -327,7 +327,7 @@ ball flying long.
 
   ---------- ---------------------------------------------------------
   **THE KEY  *\"Set the racket and let the ball do the work.\" --- The
-   PHRASE**  opponent\'s pace becomes your pace. Your only job is to
+   PHRASE**  opponent's pace becomes your pace. Your only job is to
              provide a clean, stable, correctly angled surface.*
 
   ---------- ---------------------------------------------------------
@@ -381,27 +381,27 @@ elbow to wrist to racket --- forms a curved, open U-shape.
 
 **U-Configuration --- Frontal View (Ready Position)**
 
-+--------------------------------------------------------------------+
-| SHOULDER                                                           |
-|                                                                    |
-| /                                                                  |
-|                                                                    |
-| / ← upper arm hangs slightly away from body                        |
-|                                                                    |
-| ELBOW                                                              |
-|                                                                    |
-| \\                                                                 |
-|                                                                    |
-| \\ ← forearm rises from elbow toward wrist                         |
-|                                                                    |
-| WRIST                                                              |
-|                                                                    |
-| \\                                                                 |
-|                                                                    |
-| \\ ← racket head continues upward                                  |
-|                                                                    |
-| RACKET HEAD (above wrist level)                                    |
-+--------------------------------------------------------------------+
+| SHOULDER |
+| --- |
+|  |
+| / |
+|  |
+| / ← upper arm hangs slightly away from body |
+|  |
+| ELBOW |
+|  |
+| \\ |
+|  |
+| \\ ← forearm rises from elbow toward wrist |
+|  |
+| WRIST |
+|  |
+| \\ |
+|  |
+| \\ ← racket head continues upward |
+|  |
+| RACKET HEAD (above wrist level) |
+
 
 In the U-configuration:
 
@@ -488,27 +488,27 @@ moment of forehand volley contact. Viewed from above (bird's-eye
 perspective), the arm from the shoulder to the elbow, and from the elbow
 to the wrist and racket, forms an L-shape.
 
-**L-Configuration --- Bird\'s-Eye View (Forehand Contact Moment)**
+**L-Configuration --- Bird's-Eye View (Forehand Contact Moment)**
 
-+--------------------------------------------------------------------+
-| SHOULDER \-\-\-\-\-\-\-- ELBOW                                     |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| \| ← forearm turns 90° from upper arm                              |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| WRIST                                                              |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| RACKET HEAD                                                        |
-|                                                                    |
-| (upper arm points toward net) + (forearm points to side court)     |
-+--------------------------------------------------------------------+
+| SHOULDER \-\-\-\-\-\-\-- ELBOW |  |
+| --- | --- |
+|  |  |
+| \ |  |
+|  |  |
+| \ | ← forearm turns 90° from upper arm |
+|  |  |
+| \ |  |
+|  |  |
+| WRIST |  |
+|  |  |
+| \ |  |
+|  |  |
+| \ |  |
+|  |  |
+| RACKET HEAD |  |
+|  |  |
+| (upper arm points toward net) + (forearm points to side court) |  |
+
 
 In the L-configuration at contact:
 
@@ -521,7 +521,7 @@ In the L-configuration at contact:
 - This creates a right-angle (or close to it) at the elbow at the moment
   of contact.
 
-- The elbow is in front of the body\'s mid-line --- clearly forward of
+- The elbow is in front of the body's mid-line --- clearly forward of
   the hip.
 
 - The wrist is in front of the elbow, and the contact point is in front
@@ -541,26 +541,26 @@ In the L-configuration at contact:
 On the backhand volley, the L-configuration is mirrored. Viewed from
 above:
 
-**L-Configuration --- Bird\'s-Eye View (Backhand Contact Moment)**
+**L-Configuration --- Bird's-Eye View (Backhand Contact Moment)**
 
-+--------------------------------------------------------------------+
-| RACKET HEAD                                                        |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| \| ← forearm extends from elbow toward racket                      |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| WRIST                                                              |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| ELBOW \-\-\-\-\-\-\-- SHOULDER                                     |
-|                                                                    |
-| (forearm points toward net) + (upper arm points toward             |
-| body/opposite side)                                                |
-+--------------------------------------------------------------------+
+| RACKET HEAD |  |
+| --- | --- |
+|  |  |
+| \ |  |
+|  |  |
+| \ | ← forearm extends from elbow toward racket |
+|  |  |
+| \ |  |
+|  |  |
+| WRIST |  |
+|  |  |
+| \ |  |
+|  |  |
+| ELBOW \-\-\-\-\-\-\-- SHOULDER |  |
+|  |  |
+| (forearm points toward net) + (upper arm points toward |  |
+| body/opposite side) |  |
+
 
 On the backhand, the L-configuration means:
 
@@ -698,33 +698,33 @@ anatomically much weaker and far less consistent than a locked wrist.
 
 **LATE CONTACT --- The Broken L (V-Shape Error)**
 
-+--------------------------------------------------------------------+
-| (bird\'s-eye view)                                                 |
-|                                                                    |
-| SHOULDER                                                           |
-|                                                                    |
-| \\                                                                 |
-|                                                                    |
-| \\ ← upper arm opens backward                                      |
-|                                                                    |
-| \\                                                                 |
-|                                                                    |
-| ELBOW (too far back, behind body midline)                          |
-|                                                                    |
-| /                                                                  |
-|                                                                    |
-| / ← forearm must angle forward to reach ball                       |
-|                                                                    |
-| /                                                                  |
-|                                                                    |
-| CONTACT POINT (ball has already passed body)                       |
-|                                                                    |
-| Result: V-shape instead of L. Face opens. Ball goes long or high.  |
-+--------------------------------------------------------------------+
+| (bird's-eye view) |
+| --- |
+|  |
+| SHOULDER |
+|  |
+| \\ |
+|  |
+| \\ ← upper arm opens backward |
+|  |
+| \\ |
+|  |
+| ELBOW (too far back, behind body midline) |
+|  |
+| / |
+|  |
+| / ← forearm must angle forward to reach ball |
+|  |
+| / |
+|  |
+| CONTACT POINT (ball has already passed body) |
+|  |
+| Result: V-shape instead of L. Face opens. Ball goes long or high. |
+
 
 **4.1.2 Consequence 2: Power Source Disappears**
 
-The L-configuration works as a lever because the shoulder\'s forward
+The L-configuration works as a lever because the shoulder's forward
 motion amplifies into racket-head speed. When the ball is behind the
 midline, the shoulder cannot move forward anymore --- it has already
 moved forward past the ball. The only remaining power source is the
@@ -950,7 +950,7 @@ things happen simultaneously:
     face angle, without any wrist manipulation.
 
 2.  The shoulder can rotate forward cleanly. A high elbow blocks the
-    shoulder\'s forward rotation. A correct elbow height allows the
+    shoulder's forward rotation. A correct elbow height allows the
     shoulder to drive the arm forward through the L as a unified
     structure.
 
@@ -975,29 +975,29 @@ and direct.
 
 **Elbow Tracks Ball Height --- Side View**
 
-+--------------------------------------------------------------------+
-| HIGH BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at shoulder     |
-| height)                                                            |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| (L maintained at shoulder level)                                   |
-|                                                                    |
-| MID BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at chest height) |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| (L maintained at chest level)                                      |
-|                                                                    |
-| LOW BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at waist or      |
-| below)                                                             |
-|                                                                    |
-| \|                                                                 |
-|                                                                    |
-| (L maintained at waist level --- knees drop, elbow drops)          |
-|                                                                    |
-| Rule: Elbow = Ball Height. Always. The L-angle does not change.    |
-+--------------------------------------------------------------------+
+| HIGH BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at shoulder |  |
+| --- | --- |
+| height) |  |
+|  |  |
+| \ |  |
+|  |  |
+| (L maintained at shoulder level) |  |
+|  |  |
+| MID BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at chest height) |  |
+|  |  |
+| \ |  |
+|  |  |
+| (L maintained at chest level) |  |
+|  |  |
+| LOW BALL: ELBOW \-\-\-- WRIST \-\-\-- RACKET (all at waist or |  |
+| below) |  |
+|  |  |
+| \ |  |
+|  |  |
+| (L maintained at waist level --- knees drop, elbow drops) |  |
+|  |  |
+| Rule: Elbow = Ball Height. Always. The L-angle does not change. |  |
+
 
 This tracking relationship is what makes the instruction "lower the
 elbow" so powerful: it is usually given when a player is hitting a

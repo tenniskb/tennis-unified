@@ -10,11 +10,10 @@ myth of the toss, because there are two predominant misunderstandings
 here that have damaged players at all levels for years.
 
 ![A person playing tennis Description automatically
-generated](media_myth-of-the-toss/media/image1.webp){width="2.5in"
-height="2.34375in"}
+generated](media_myth-of-the-toss/media/image1.webp)
 
-**What\'s the real shape of the service toss? Look closely at how
-Pete\'s toss arcs from right to left, dropping up to two feet at
+**What's the real shape of the service toss? Look closely at how
+Pete's toss arcs from right to left, dropping up to two feet at
 contact.**
 
 **[The first has to do with toss height - the common belief that players
@@ -30,7 +29,7 @@ toss drop, so that it falls to the court in front of the front foot (for
 a right-handed player.)
 
 Advanced Tennis high speed video shows that neither of these two beliefs
-are accurate. They don\'t describe what top players do when they toss.
+are accurate. They don't describe what top players do when they toss.
 Following these two myths can destroy your service rhythm and
 drastically reduce your body leverage, power, and spin.
 
@@ -43,8 +42,7 @@ or more at contact.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_myth-of-the-toss/media/image2.webp){width="2.5520833333333335in"
-  height="2.4375in"}\
+  generated](media_myth-of-the-toss/media/image2.webp)\
   **Even players with quick motions like Rusedski make contact well below the top of the toss.**
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,31 +69,29 @@ In the case a player like Pete Sampras, who has the most shoulder turn
 in the game, the tossing arm can end at a right angle to the sideline
 (or parallel to the baseline) at the time he releases the ball.
 
-For top servers, the tossing arm doesn\'t move straight up and down, and
+For top servers, the tossing arm doesn't move straight up and down, and
 neither does the flight of the ball during the toss. Rather than moving
 up and down on a straight line, the path of the ball toss is actually
 curved like an arc.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with low                                                                                      | ![A person hitting a ball with a tennis racket Description automatically                                                                                   | ![A person playing tennis Description automatically generated with medium                                                                                   |
-| confidence](media_myth-of-the-toss/media/image3.jpg){width="1.875in" | generated](media_myth-of-the-toss/media/image4.jpg){width="1.875in" | confidence](media_myth-of-the-toss/media/image5.jpg){width="1.875in" |
-| height="2.7916666666666665in"}                                                                                                                              | height="2.7916666666666665in"}                                                                                                                             | height="2.7916666666666665in"}                                                                                                                              |
-+=============================================================================================================================================================+============================================================================================================================================================+=============================================================================================================================================================+
-| #### **Rusedski\'s tossing motion. Note how just before the release his tossing arm is angled toward the sideline.**                                                                                                                                                                                                                                                                                                                                                                   |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with low | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_myth-of-the-toss/media/image3.jpg) |  |  |
+| #### **Rusedski's tossing motion. Note how just before the release his tossing arm is angled toward the sideline.** |  |  |
 
-Because the tossing arm is pointing to the side, it\'s necessary for the
+
+Because the tossing arm is pointing to the side, it's necessary for the
 server to toss the ball back towards the contact zone on an arc. For a
 right handed player, this arc is from the players right to left.
 
 Since the path of the toss is a curve, not straight up and down, there
-is no way for the toss to land in front of the server\'s front foot.
+is no way for the toss to land in front of the server's front foot.
 Instead, of dropping directly in front of the front foot, the toss would
 actually land on the left side of the body.
 
 ### Sampras Versus Rusedski
 
-Let\'s examine the toss height, the tossing motion, and the placement of
+Let's examine the toss height, the tossing motion, and the placement of
 the toss by comparing two of the top servers in the pro game, Pete
 Sampras and Greg Rusedski. They make good examples not only because of
 their serving effectiveness, but because of the differences in their
@@ -116,7 +112,7 @@ toss back toward the contact zone.
 
 ### Toss Height
 
-Let\'s look at the height of the toss first. It has been argued that
+Let's look at the height of the toss first. It has been argued that
 there are two reasons for hitting the ball at the top of the toss.
 First, at the top of the toss, the ball is actually stationary for a
 split second - supposedly, this makes it easier to time. The second
@@ -125,21 +121,20 @@ speed up the motion and therefore increases racquet head speed.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_myth-of-the-toss/media/image6.webp){width="2.4375in"
-  height="2.4166666666666665in"}\
-  **Watch the arc in Pete\'s toss, moving from his right to his left and dropping as much as two feet before contact.**
+  confidence](media_myth-of-the-toss/media/image6.webp)\
+  **Watch the arc in Pete's toss, moving from his right to his left and dropping as much as two feet before contact.**
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Neither of these reasons makes sense. The supposed timing advantage of
 hitting the ball when it is still at the top of the toss is negligible
-at best. When the ball drops two feet or so before contact, it\'s
+at best. When the ball drops two feet or so before contact, it's
 velocity is minimal, 15 mph or less depending on the height of the drop.
 This is far less than the speed of a groundstroke hit by an intermediate
 player (about 40mph). So if you have the ability to rally at even
 moderate speeds, hitting a ball dropping at the much slower speed of
-your toss isn\'t going to be a problem.
+your toss isn't going to be a problem.
 
 Second, regarding the alleged gain in racquet head speed from the lower
 toss, our studies have shown players with the most racquet head speed,
@@ -147,7 +142,7 @@ such as Pete, often have the highest tosses.
 
 A side by side comparison with Rusedski, who has a much lower toss and a
 much quicker overall motion, demonstrated the time from racquet drop to
-contact was indistinguishable between the two players. If Rusedski\'s
+contact was indistinguishable between the two players. If Rusedski's
 quicker motion is giving him more racquet head speed, this gain is
 easily matched by the deeper knee bend and greater body turn used by
 Sampras.
@@ -172,8 +167,7 @@ need a higher toss.]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing baseball Description automatically generated with low
-  confidence](media_myth-of-the-toss/media/image7.webp){width="2.4166666666666665in"
-  height="2.375in"}\
+  confidence](media_myth-of-the-toss/media/image7.webp)\
   **Tossing height creates the necessary interval to develop rhythm, especially with a full body coil like Pete.**
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -184,32 +178,32 @@ velocity and oncoming force), the service motion in general is much more
 relaxed than are groundstrokes or volleys, both of which involve
 collisions with speeding balls.
 
-It\'s almost impossible to do all this with an ultra low toss. That\'s
+It's almost impossible to do all this with an ultra low toss. That's
 why the few players that have perfected the low toss
 delivery-Ivanisievic or Kevin Curren or the legendary Roscoe
 Tanner\--had minimal bio-mechanical motions relying on the arm swing.
-Who knows, maybe that\'s also one reason Goran has a rotator cuff that
+Who knows, maybe that's also one reason Goran has a rotator cuff that
 is now 80% torn.
 
 It also worth noting that these are probably the only 3 top players over
 the past 30 years who used this motion! Virtually every other top player
-on both the men\'s and women\'s side has had a high toss, with the ball
+on both the men's and women's side has had a high toss, with the ball
 dropping at contact.
 
 I find it amazing that so many coaches, television commentators, and
 teachers still seem to believe the best place to hit the ball is at the
-top of the toss (Usually they don\'t even serve that way themselves!).
+top of the toss (Usually they don't even serve that way themselves!).
 
 Try it yourself. Hit practice serves and gradually lower your toss.
-You\'ll find there is a point at which you start to tense up and muscle
+You'll find there is a point at which you start to tense up and muscle
 the racquet in the rush to get to the contact point. For most people,
 this tension occurs at a toss height that is still far above the contact
 point. That is why trying to lower the toss in the hope of developing
 more racquet head speed is so counterproductive.
 
 Even if you do have a naturally quick rhythm and a minimal biomechanical
-motion like Rusedski, the chances are overwhelming you\'ll still need to
-hit the ball on the way down to develop a smooth motion that doesn\'t
+motion like Rusedski, the chances are overwhelming you'll still need to
+hit the ball on the way down to develop a smooth motion that doesn't
 feel rushed and muscled.
 
 ### Toss Height
@@ -221,7 +215,7 @@ chance to do multi-camera quantitative filming, but for the purposes of
 an estimate, we can say it drops at least 18\" and possibly as much as 2
 feet.
 
-Rusedski\'s toss is much lower, as the animation also shows, but it
+Rusedski's toss is much lower, as the animation also shows, but it
 still drops substantially. We can estimate this drop to be at least 8 to
 12 inches or possibly a little more.
 
@@ -259,19 +253,17 @@ by placing a handkerchief on the court in front of his front foot,
 letting his toss drop until he could hit the handkerchief 100 times in a
 row.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                   | ![A person playing tennis Description automatically generated with low                                                                                      | ![A tennis player serving the ball Description automatically generated with medium                                                                           |
-| confidence](media_myth-of-the-toss/media/image8.jpg){width="1.875in" | confidence](media_myth-of-the-toss/media/image9.jpg){width="1.875in" | confidence](media_myth-of-the-toss/media/image10.jpg){width="1.875in" |
-| height="3.0625in"}                                                                                                                                          | height="3.0625in"}                                                                                                                                          | height="3.0625in"}                                                                                                                                           |
-+:===========================================================================================================================================================:+:===========================================================================================================================================================:+:============================================================================================================================================================:+
-| **Due to his more extreme turn, Pete\'s tossing arm is parallel to the baseline at the time of release.**                                                                                                                                                                                                                                                                                                                                                                                |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with low | ![A tennis player serving the ball Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_myth-of-the-toss/media/image8.jpg) |  |  |
+| **Due to his more extreme turn, Pete's tossing arm is parallel to the baseline at the time of release.** |  |  |
 
-Maybe that\'s how Kramer practiced, but that\'s not actually where he
-tossed the ball when he played! [(Check out Jack\'s real toss in the
+
+Maybe that's how Kramer practiced, but that's not actually where he
+tossed the ball when he played! [(Check out Jack's real toss in the
 Stroke
 Archive)](https://www.tennisplayer.net/members/strokearchive/strokearchive.html).
-It\'s not where any top server in the modern game tosses either.
+It's not where any top server in the modern game tosses either.
 
 As noted above, the shoulder turn is an important key to good serving,
 something shared to a greater or lesser degree by top players. Since the
@@ -290,8 +282,7 @@ understood how to turn his shoulders in his serving motion.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_myth-of-the-toss/media/image11.webp){width="2.5in"
-  height="2.40625in"}**[\
+  confidence](media_myth-of-the-toss/media/image11.webp)**[\
   The toss is dropping and moving on an arc toward Rusedski at contact. Due to his quick motion and slice delivery both elements are less extreme than
   Pete.]{.mark}**
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -308,25 +299,25 @@ their bodies!]{.mark}**
 **[The amount of shoulder turn, and therefore the exact position of the
 tossing arm, varies from player to player. Rusedski has one of the more
 limited turns. But his tossing arm is still pointing to the sideline at
-about a 45 degree angle at the time of release. Pete\'s turn goes
+about a 45 degree angle at the time of release. Pete's turn goes
 further and so does his tossing arm. At the time of his ball release,
-it\'s 90 degrees to the sideline and actually parallel to the
+it's 90 degrees to the sideline and actually parallel to the
 baseline.]{.mark}**
 
 **[[This is why the path of the toss has to be an arc. To reach the
 contact zone, the ball has to travel back toward the player. The contact
 point occurs somewhere along this arced flight. Left undisturbed, this
-arced toss would actually land on the opposite side of the player\'s
+arced toss would actually land on the opposite side of the player's
 body.]{.underline}]{.mark}**
 
 Because his turn is less extreme, the shape of this arc is also less
 extreme for Greg compared to Pete. This is also related to the different
-contact points for the two players. Rusedski\'s contact point is further
+contact points for the two players. Rusedski's contact point is further
 to his side. He therefore intercepts the toss further away from his body
 (more to his left), so that the contact is above or slightly to the side
 of his hitting shoulder.
 
-Pete\'s ball travels further along the arc, back closer to his torso
+Pete's ball travels further along the arc, back closer to his torso
 since his contact zone is closer to his body, somewhere between his
 shoulder and the edge of his head.
 
@@ -336,13 +327,11 @@ For Pete, the movement between the release of the ball and the contact
 point is probably about 2 1/2 to 3 feet. For Rusedski, it may be more
 like 1 to 2 feet.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A tennis player serving the ball Description automatically generated with medium                                                                             | ![A person hitting a ball with a tennis racket Description automatically                                                                                      |
-| confidence](media_myth-of-the-toss/media/image12.jpg){width="2.34375in" | generated](media_myth-of-the-toss/media/image13.jpg){width="2.34375in" |
-| height="3.5208333333333335in"}                                                                                                                                 | height="3.5208333333333335in"}                                                                                                                                |
-+================================================================================================================================================================+===============================================================================================================================================================+
-| #### **Your exact contact point and the arc of your toss will depend on your individual technical style, somewhere between the extremes of these two great servers.**                                                                                                                                                          |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A tennis player serving the ball Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically |
+| --- | --- |
+| confidence](media_myth-of-the-toss/media/image12.jpg) |  |
+| #### **Your exact contact point and the arc of your toss will depend on your individual technical style, somewhere between the extremes of these two great servers.** |  |
+
 
 (These differing contact points in large part account for the different
 patterns of spin. More on this later and a quantitative analysis of the
@@ -355,7 +344,7 @@ torso. Actually stand on the court in serving position and model your
 contact point with your arm and racquet.]{.underline}]{.mark}***
 
 The exact position will depend, on the nature of your delivery and
-whether you try to generate more topspin or slice. But it\'s a good bet
+whether you try to generate more topspin or slice. But it's a good bet
 it will fall somewhere between the extremes of Sampras and Rusedski.
 
 Next model your body turn and the actual position of your tossing arm at
@@ -364,19 +353,18 @@ traveling on an arc to the contact point. Remember, in all cases this
 point should be out over the baseline and into the court.
 
 As with most technical issues in the strokes, the only way to assess how
-close you are to your models is to video yourself. That\'s where the
+close you are to your models is to video yourself. That's where the
 [Stroke
 Archives](https://www.tennisplayer.net/members/strokearchive/strokearchive.html)
 is an invaluable resource. Whoever your model, Pete, Rusedski,
 Invanisevic, Rafter, McEnroe, etc, go there and compare your own tossing
 motion and rhythm to the best players in the world. It takes work, sure,
-but at least now you\'re free from two tossing myths that may have been
+but at least now you're free from two tossing myths that may have been
 holding you back for years.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_myth-of-the-toss/media/image14.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_myth-of-the-toss/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

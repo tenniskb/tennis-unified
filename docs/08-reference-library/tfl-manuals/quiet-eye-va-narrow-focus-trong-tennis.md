@@ -19,17 +19,17 @@ tích chuyên sâu về cơ chế Quiet Eye, Narrow Focus, vai trò của việc
 mắt, và những giới hạn của ẩn dụ camera lens khi áp dụng vào hệ thần
 kinh con người.
 
-+-----------------------------------------------------------------------+
-| **GIỚI HẠN BĂNG THÔNG NÃO BỘ**                                        |
-|                                                                       |
-| Mắt tiếp nhận khoảng 10.000.000 bit/giây thông tin thị giác thô.      |
-|                                                                       |
-| Ý thức chỉ xử lý được khoảng 50 bit/giây.                             |
-|                                                                       |
-| Mọi kỹ thuật thị giác trong tennis --- nheo mắt, lock-on, tunnel      |
+| **GIỚI HẠN BĂNG THÔNG NÃO BỘ** |
+| --- |
+|  |
+| Mắt tiếp nhận khoảng 10.000.000 bit/giây thông tin thị giác thô. |
+|  |
+| Ý thức chỉ xử lý được khoảng 50 bit/giây. |
+|  |
+| Mọi kỹ thuật thị giác trong tennis --- nheo mắt, lock-on, tunnel |
 | attention --- đều nhằm một mục đích duy nhất: thu hẹp dòng input ngay |
-| từ nguồn để não không bị quá tải.                                     |
-+-----------------------------------------------------------------------+
+| từ nguồn để não không bị quá tải. |
+
 
 1.1 Hai chế độ vận hành của hệ thị giác
 
@@ -148,13 +148,13 @@ dụng chu kỳ thị giác sau, lặp lại liên tục trong mỗi điểm bó
 - Nhìn nơi muốn đánh (Look at target): lỗi phổ biến nhất của người chơi
   phong trào --- ngẩng đầu nhìn sân quá sớm sẽ phá hỏng điểm contact.
 
-+-----------------------------------------------------------------------+
-| **TRẠNG THÁI LÝ TƯỞNG**                                               |
-|                                                                       |
+| **TRẠNG THÁI LÝ TƯỞNG** |
+| --- |
+|  |
 | Khi hệ thống vận hành trơn tru, người chơi có cảm giác thời gian chậm |
 | lại, trái bóng "nổi" lên, và việc tiếp xúc bóng xảy ra tự động, chính |
-| xác.                                                                  |
-+-----------------------------------------------------------------------+
+| xác. |
+
 
 Phần III --- Cơ chế Nheo Mắt: Quang học & Thần kinh
 
@@ -411,15 +411,15 @@ trung ương.
 "nheo càng mạnh = focus càng tốt", giống như đóng aperture camera đến
 tối đa.
 
-+-----------------------------------------------------------------------+
-| **NGUYÊN TẮC CỐT LÕI**                                                |
-|                                                                       |
-| Thực tế hoàn toàn ngược lại. Mắt người cần đủ nheo để lọc nhiễu,      |
-| nhưng đủ thả lỏng để não không vào trạng thái stress.                 |
-|                                                                       |
+| **NGUYÊN TẮC CỐT LÕI** |
+| --- |
+|  |
+| Thực tế hoàn toàn ngược lại. Mắt người cần đủ nheo để lọc nhiễu, |
+| nhưng đủ thả lỏng để não không vào trạng thái stress. |
+|  |
 | Điểm tối ưu không phải là kỹ thuật --- mà là cảm giác: thả lỏng nhưng |
-| sắc bén, mờ ngoại vi nhưng không cố tình, bóng nổi lên tự nhiên chứ   |
-| không phải vì đang cố nhìn.                                           |
-+-----------------------------------------------------------------------+
+| sắc bén, mờ ngoại vi nhưng không cố tình, bóng nổi lên tự nhiên chứ |
+| không phải vì đang cố nhìn. |
+
 
 *--- Hết tài liệu ---*

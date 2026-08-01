@@ -8,8 +8,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-totally-with-you/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_when-momentum-is-totally-with-you/media/image1.webp)\
 **Even when momentum is totally with you, are there things you should do
 to keep it that way?**
 
@@ -20,9 +19,9 @@ always in one stage of momentum or another. If you learn how to identify
 and react to each momentum stage, you will be able to have more say
 about which way momentum moves, or even if it moves at all.
 
-In this article let\'s begin taking a closer look at how you can manage
+In this article let's begin taking a closer look at how you can manage
 and influence momentum, starting with the first stage: When Momentum Is
-Totally with You. We\'ll work our way from there to the other stages
+Totally with You. We'll work our way from there to the other stages
 when things are less positive and more problematic. But there are still
 important lessons to learn when momentum seems totally with you, at
 least if you wish to keep it that way.
@@ -31,8 +30,7 @@ least if you wish to keep it that way.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person swinging a tennis racket Description automatically
-   generated](media_when-momentum-is-totally-with-you/media/image2.jpg){width="2.0833333333333335in"
-                                                                            height="3.1041666666666665in"}
+   generated](media_when-momentum-is-totally-with-you/media/image2.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              **When things are going your way it can all seem very easy.**
 
@@ -51,7 +49,7 @@ frustrated and is probably showing signs of it. Indeed, later we will
 see how you can even try a bit of gambling\--but first a word of
 warning.
 
-If your opponent is a player at a similar level, it\'s very possible
+If your opponent is a player at a similar level, it's very possible
 that the momentum may swing back in their favor. Occasionally this can
 happen in a dramatic way. There can be a specific turning point. But
 more often when the flow is heavily in one direction, momentum shifts
@@ -59,25 +57,25 @@ gradually back in the other direction. The shift can be subtle at first,
 but typically it will gather more pace as it moves.
 
 Often times, because it is so gradual, the player who has been winning
-won\'t realize what has happened until it\'s too late. But this gradual,
+won't realize what has happened until it's too late. But this gradual,
 creeping change in momentum can be averted if you know the warning
 signals and how to deal with them. Specifically, to keep momentum on
 your side as much as possible you need to know how to:
 
-+-----------------------------------+-------------------------------+
-| Recognize and Avoid the Dangers   | Prepare to Fight              |
-+===================================+===============================+
-| Understand the Scoring System\    | Win the First Point           |
-| (it isn\'t football)              |                               |
+| Recognize and Avoid the Dangers | Prepare to Fight |
+| --- | --- |
+| Understand the Scoring System\ | Win the First Point |
+| (it isn't football) |  |
+
 |                                   +-------------------------------+
-|                                   | Watch for a Change in Tactics |
-+-----------------------------------+-------------------------------+
-| Know How You Got There            | Step It Up a Gear             |
-+-----------------------------------+-------------------------------+
+|  | Watch for a Change in Tactics |
+| --- | --- |
+| Know How You Got There | Step It Up a Gear |
+
 
 **Avoid the Dangers**
 
-The momentum may switch but at least make sure it\'s because your
+The momentum may switch but at least make sure it's because your
 opponent gained it, not because you lost it. **[[When the momentum is
 totally for you, it is crucial that you do not allow yourself to get
 distracted.]{.mark}]{.underline}** This often happens because players
@@ -86,17 +84,16 @@ their favour. They are playing well, their opponent may be playing
 badly, and it seems fine to relax and enjoy completing the win.
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-totally-with-you/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-totally-with-you/media/image3.webp)
 
-**A few careless errors and suddenly you\'re frustrated while the match
+**A few careless errors and suddenly you're frustrated while the match
 gets much closer.**
 
-Be warned! That big gap between your best tennis and your opponent\'s
+Be warned! That big gap between your best tennis and your opponent's
 worst tennis can become increasingly smaller if your opponent starts to
 play just a bit better and you drop a few careless points here and
 there. Your opponent then starts to feel better and therefore plays
-better, while you get frustrated because you know you shouldn\'t have
+better, while you get frustrated because you know you shouldn't have
 relaxed, and now you start to play worse. The whole situation can then
 start to escalate and feed off itself.
 
@@ -105,7 +102,7 @@ many games as your opponent, do not be fooled by the score - it may not
 mean you are five times better than your opponent! In fact at 5-1, the
 Momentum may have already shifted in his favor.
 
-**[Understand the scoring system (it isn\'t football or what you
+**[Understand the scoring system (it isn't football or what you
 Americans call soccer).]{.underline}**
 
 If this was a football (or soccer) match and the score was 5-1, then the
@@ -115,26 +112,25 @@ playing relaxed exhibition football.
 
 ![A picture containing text, outdoor, sport, player Description
 automatically
-generated](media_when-momentum-is-totally-with-you/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-totally-with-you/media/image4.webp)
 
-**Unlike other sports, you can\'t ease off when you have the lead.**
+**Unlike other sports, you can't ease off when you have the lead.**
 
 But tennis is not like football, where there is a fixed time limit to
 the match and where a 5-1 lead means almost certain victory. There is no
 time limit in tennis, and there are potential dangers for the player in
 the lead because no one can be sure exactly where the finish line is!
 
-Don\'t be fooled into thinking you\'ve got a bigger lead than you really
-have. A 5-1 lead suggests you\'ve only got to win one of the next four
-games, and anyone will do. Statistically that\'s true of course, but if
+Don't be fooled into thinking you've got a bigger lead than you really
+have. A 5-1 lead suggests you've only got to win one of the next four
+games, and anyone will do. Statistically that's true of course, but if
 you play a couple of loose games and your opponent gets encouraged and
-gains momentum, 5-3 will feel very different, particularly if you\'ve
+gains momentum, 5-3 will feel very different, particularly if you've
 missed a set point or two.
 
 **Know How You Got There**
 
-If you relax without knowing why you have the lead, you probably won\'t
+If you relax without knowing why you have the lead, you probably won't
 notice if anything changes, and you are likely to pay a price for your
 complacency.
 
@@ -150,8 +146,7 @@ understand why you are 4-1 ahead.
 
 ![A person running on a track Description automatically generated with
 low
-confidence](media_when-momentum-is-totally-with-you/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-totally-with-you/media/image5.webp)
 
 **When the momentum starts to turn, you have to be prepared to fight.**
 
@@ -185,17 +180,16 @@ at a time when they may be clinging onto any last signs of hope before
 they lose heart.
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-totally-with-you/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-totally-with-you/media/image6.webp)
 
 **When you have the lead winning the first point can kill your
-opponent\'s hope.**
+opponent's hope.**
 
 **Watch for a Changes in Tactics**
 
 **[[Knowing how you got ahead allows you to spot changes in the tactics
 of your opponent more quickly. You may not know the answer to your
-opponent\'s new tactics, but don\'t be caught, realizing that they have
+opponent's new tactics, but don't be caught, realizing that they have
 changed only after the match is even.]{.underline}]{.mark}**
 
 If your opponent does change tactics, be sure to renew your efforts.
@@ -207,19 +201,18 @@ combat them well.
 
 **Step Up a Gear**
 
-As long as you are aware of everything we\'ve talked about so far, now
+As long as you are aware of everything we've talked about so far, now
 is the time you can gamble, take more risks and try to step up a gear.
 
 ![A person swinging a tennis racket Description automatically generated
 with medium
-confidence](media_when-momentum-is-totally-with-you/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-totally-with-you/media/image7.webp)
 
 **You can try to step it up a gear to finish the match when you have a
 cushion.**
 
 **[[You can use the cushion of a lead to try and kill off the match if
-it\'s getting near the end. Or if it\'s not near the end, you may step
+it's getting near the end. Or if it's not near the end, you may step
 up and play so well that your opponent thinks you are invincible, which
 in turn may have a big effect on the outcome of the match.]{.mark} [He
 may give up more quickly. Some players make it a policy to step up every
@@ -232,20 +225,19 @@ volley if you like. Realize though that it is a calculated gamble and be
 ready to return to your tactics if you feel things slightly starting to
 slip.]{.underline}]{.mark}**
 
-**[[It\'s also a good time to vary your game. You are feeling good, so
-variations are more likely to work. Not only this, your opponent won\'t
+**[[It's also a good time to vary your game. You are feeling good, so
+variations are more likely to work. Not only this, your opponent won't
 realise you vary your game only when the momentum is totally with you,
-they\'ll just remember that you may vary it.]{.underline}]{.mark}**
+they'll just remember that you may vary it.]{.underline}]{.mark}**
 
 **[[The danger here is gambling for too long and giving your opponent
 cheap points by trying to hit too many winners. Cheap points, of course,
-are exactly what your opponent wants when he is far behind \-- it\'s
+are exactly what your opponent wants when he is far behind \-- it's
 easier climbing steep hills with a helping hand.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-totally-with-you/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-totally-with-you/media/image8.webp)
 
 **When momentum is totally with you, experiment to find your
 potential.**
@@ -266,14 +258,13 @@ Just think about how many perfect returns you have hit after you called
 the serve out. To relax your mind and let things happen when the points
 are live takes practice and courage, but it can be done.
 
-When the momentum is totally with you, it\'s a good time to begin
+When the momentum is totally with you, it's a good time to begin
 learning about this ability to step up a gear and experimenting to find
 your full potential.
 
 ![A person with his eyes closed Description automatically generated with
 low
-confidence](media_when-momentum-is-totally-with-you/media/image9.jpeg){width="1.1215277777777777in"
-height="1.5215277777777778in"}
+confidence](media_when-momentum-is-totally-with-you/media/image9.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -286,8 +277,7 @@ study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
 ![Map Description automatically generated with low
-confidence](media_when-momentum-is-totally-with-you/media/image10.jpeg){width="1.04375in"
-height="1.4520833333333334in"}
+confidence](media_when-momentum-is-totally-with-you/media/image10.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

@@ -10,20 +10,19 @@ In my previous forehand articles for Tennisplayer, I presented a new
 approach to understanding a forehand model similar to what you see on
 the ATP tour ([Click
 Here](Developing%20an%20ATP%20Forehand%20-%20Part1.docx)). Now in this
-new series, let\'s turn to the two-handed backhand and see what I
+new series, let's turn to the two-handed backhand and see what I
 consider to be the optimal ATP two-handed model, a model I believe is
 applicable for players at all levels.
 
-In this article, I\'ll start by explaining the research and the teaching
-experience that underlies the development of the model. Next I\'ll
+In this article, I'll start by explaining the research and the teaching
+experience that underlies the development of the model. Next I'll
 outline the three different variations of the two-hander in the current
 game, variations that I see as steps or progression toward the optimal
 swing. In the following articles we will look at the components of the
 ideal swing in detail.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image1.webp)
 
 **Novak: the optimum two-handed backhand type.**
 
@@ -41,16 +40,15 @@ some pro players at various levels.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image2.webp)
 
 **10 cameras, 400 frames per second\--quantitative 3D measurements.**
 
 The system creates optimal models from the perspective of the
-neuromuscular-skeletal system. Rick\'s contribution has been to use his
+neuromuscular-skeletal system. Rick's contribution has been to use his
 unparalleled experience as a developmental coach to transform this
 information in to on court teaching progressions. Implementing it also
-includes the regular assessment of player\'s development using
+includes the regular assessment of player's development using
 quantitative 3D analysis
 
 The data we have used comes from scientific measurement and analysis
@@ -58,9 +56,9 @@ systems that make 3D biomechanical measurements. Currently at the Macci
 Academy in Boca Raton we use a scientific grade infrared system
 manufactured with 10 cameras filming at 400 frames per second.
 
-The cameras read reflective spheres attached to the player\'s body and
+The cameras read reflective spheres attached to the player's body and
 racket and are accurate to within one tenth of a millimeter. Based on
-that information and using proprietary software I\'ve developed, I do
+that information and using proprietary software I've developed, I do
 computations to determine where the skeleton is and from there calculate
 the biomechanics. This includes joint angles, velocities, accelerations,
 and other mechanical parameters.
@@ -70,16 +68,15 @@ happening scientifically. The larger goal has been to define optimal
 technique and then assess how players are moving toward it.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image3.webp)
 
 **Our model looks very much like the two-handed players hit on the
-men\'s tour.**
+men's tour.**
 
 As it turns out, the two-handed model developed from our research looks
 very much like the two-handed backhands of the best players in the
 world. Since I have not measured players like Novak Djokovic, however, I
-can\'t scientifically demonstrate that they are using these exact
+can't scientifically demonstrate that they are using these exact
 techniques. However, studying the high speed video on Tennisplayer, I
 believe it is a reasonable assumption that they are biomechanically very
 similar to our models.
@@ -92,12 +89,12 @@ models. Looking at the game broadly, we have identified three broad
 classifications, or three two-handed backhand types.
 
 You can look at them as discrete backhands, or as I prefer, steps on a
-path towards an optimal swing model. So let\'s go through and look at
+path towards an optimal swing model. So let's go through and look at
 the 3 Types and the differences, starting with the backswings.
 
 **[The first backhand style I call Type 1. This type has a full loop
 backswing that has significant lateral or sideways movement with the
-racket going back behind the player\'s body.]{.mark}**
+racket going back behind the player's body.]{.mark}**
 
 ***[Our Type 2 backhand also has a full loop but the looping motion is
 primarily backward with a minimal lateral or sideways component, usually
@@ -113,10 +110,9 @@ most prevalent on the ATP tour.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image4.webp)
 
-**Sharapova\'s Type 1 backhand with a lateral loop going back behind her
+**Sharapova's Type 1 backhand with a lateral loop going back behind her
 body.**
 
 Maria Sharapova is a great pro example of a Type 1 backhand and her
@@ -136,8 +132,7 @@ like a 30 degree angle.
 
 ![A picture containing text, person, player, athletic game Description
 automatically
-generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image5.webp)
 
 **Elena Dementieva, a backward loop that stays on the hitting side of
 her body.**
@@ -147,7 +142,7 @@ good example. Dementieva has a full loop as well, like Sharapova. But
 the path is different.
 
 **[But rather than going back laterally behind the body, her loop moves
-backwards. It usually doesn\'t break into the lateral
+backwards. It usually doesn't break into the lateral
 plane.]{.underline}**
 
 Look at the difference in the tip of the racket. Unlike Maria, her
@@ -157,22 +152,21 @@ sideline.
 You can also see that her left elbow is not nearly as far behind the
 body. Essentially the racket stays on the hitting side of the body.
 
-This positioning is a more advanced element. It\'s very important and
+This positioning is a more advanced element. It's very important and
 what we consider a key part of the optimal approach.
 
 **Type 3**
 
-Now let\'s compare than to the Type 3 backhand. Let\'s use Novak
+Now let's compare than to the Type 3 backhand. Let's use Novak
 Djokovic as an example. There is a big difference here compared to
 Sharapova or Dementieva. **[[Compared to either of the full loop
 variations, the racket is actually pulled all the way back at the
-completion of the unit turn. It\'s essentially a straight back swing
+completion of the unit turn. It's essentially a straight back swing
 with a half loop.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image6.webp)
 
 **The racket head on the Type 3 backhand\--above and slightly outside
 the hands.**
@@ -199,13 +193,12 @@ critical muscles in the forward swing more explosively.
 **Forward Swing**
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image7.webp)
 
-**Sharapova\'s forward swing with the elbows bent and tight to the
+**Sharapova's forward swing with the elbows bent and tight to the
 body.**
 
-Now let\'s look at the differences in the three types in the forward
+Now let's look at the differences in the three types in the forward
 swing. How do the different backswings affect what happens next?
 
 With the Type 1 two hander and the full lateral loop, Sharapova hits the
@@ -230,12 +223,11 @@ the arms. Again this is an advance toward optimal technique.
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-3-general-types/media/image8.webp)
 
 **Dementieva moves the left arm through the swing more than Sharapova.**
 
-But now let\'s take that to the next level in the Type 3 swing. The Type
+But now let's take that to the next level in the Type 3 swing. The Type
 3 is also a multi-segment swing. But in the Type 3, even compared to the
 Type 2, there is a significantly greater amount of independent left arm
 motion from the shoulder joint.
@@ -256,8 +248,7 @@ we explain in more detail in the next two articles.
 **Summarizing**
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image9.webp)
 
 **Djokovic a straighter top arm with more movement and earlier
 contact.**
@@ -271,7 +262,7 @@ range of motion in the swing.
 
 This is a shorter swing and we can confirm this is true by measuring the
 exact lengths. That means there is a decrease in time required to move
-from the unit turn to the contact. It\'s a quick hitting type of stroke.
+from the unit turn to the contact. It's a quick hitting type of stroke.
 
 Furthermore there is added use of the arms in two ways: synchronized arm
 motion and independent arm motion from the shoulder joints. In the next
@@ -283,21 +274,20 @@ players, especially younger players, use the much larger lateral
 backswings associated with Type 1. Can we really build Type 3 backhands
 from the ground up? And if so how? Stay tuned for the answers.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                          | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image10.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                         | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                       | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                       | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                       | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                       | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                       | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                       | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                       | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                       |                                                               |
-|                                                                                                                                                                                                       | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                       | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                       |                                                               |
-|                                                                                                                                                                                                       | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                       | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+=======================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-atp-two-handed-backhand-the-3-general-types/media/image10.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

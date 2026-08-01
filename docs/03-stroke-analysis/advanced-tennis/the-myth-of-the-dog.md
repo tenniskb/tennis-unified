@@ -3,17 +3,16 @@
 # John Yandell
 
 Do you \"pat the dog\" on your totally modern forehand? You want to
-don\'t you? Because that\'s what Roger does. Just go on YouTube and the
+don't you? Because that's what Roger does. Just go on YouTube and the
 \"experts\" will tell you he does---he points his racket face down to
 the court and pulls it forward like it was coming off a table top!
 
 Is \"patting the dog\" like that some kind of modern forehand magic
-bullet? No. It\'s the opposite. It\'s one of the worst things you could
+bullet? No. It's the opposite. It's one of the worst things you could
 possibly focus on.
 
 **v**![A person playing tennis Description automatically
-generated](media_the-myth-of-the-dog/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image1.webp)
 
 **Does Roger Pat the Dog? When? Why?**
 
@@ -23,7 +22,7 @@ he also closes it at different points in the swing.
 
 **[[Rarely is his racket fully face down---that only happens on really
 low balls like in the animation above. Does he do it intentionally? No
-it\'s a natural consequence of other underlying
+it's a natural consequence of other underlying
 factors.]{.mark}]{.underline}**
 
 **Accuracy**
@@ -35,7 +34,7 @@ see---what really happens in high level technical strokes, and then to
 use that video evidence to evaluate the accuracy and value of the wildly
 contradictory teaching information that permeates the tennis world.
 
-And we\'ve accomplished that, filming every year, creating a data base
+And we've accomplished that, filming every year, creating a data base
 of tens of thousands of clips including dozens of the best players in
 the history of the game. And for 20 years we have analyzed that growing
 data base, examining the top players, extracting reality, and applying
@@ -43,8 +42,7 @@ reality to help players at all levels from elite pro players to college
 players to club players to beginners.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-myth-of-the-dog/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image2.webp)
 
 **How much does Roger \"pat\" and when?**
 
@@ -64,7 +62,7 @@ In the last few years the proliferation of filming that has saturated
 YouTube---much of it illegal---has received literally millions of views
 and created a way for virtually any teaching pro to expound his or her
 theories on what the \"pros\" do. And share it all with the tennis world
-for free on YouTube! Doesn\'t that sound great?
+for free on YouTube! Doesn't that sound great?
 
 I have no problem with multiple voices and approaches to understanding
 the game. We can all learn from each other and different players
@@ -79,21 +77,20 @@ Or look at the Classic Lessons section ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/classiclessons.html)).
 Dozens and dozens of reality based articles from great, smart coaches.
 
-But that\'s different from the profusion we see on You Tube. **[Most of
-the new internet experts haven\'t done the research to back up their
-claims and don\'t have much if any experience in coaching or developing
+But that's different from the profusion we see on You Tube. **[Most of
+the new internet experts haven't done the research to back up their
+claims and don't have much if any experience in coaching or developing
 players or helping established players correct technical
 problems.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-dog/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-dog/media/image3.webp)
 
 **Pete only won 14 Grand Slams with his on edge backswing.**
 
 **[Instead they look at one or two clips---usually from practice\--and
-generalize, and those theories usually do harm not good. But it\'s all
+generalize, and those theories usually do harm not good. But it's all
 free! Yes, and there is usually correlation between cost and actual
 value.]{.mark}**
 
@@ -127,12 +124,11 @@ no.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-dog/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-dog/media/image4.webp)
 
 **Serena: great forehand, minimal pat.**
 
-Are there players with great, great forehands who don\'t do much if any
+Are there players with great, great forehands who don't do much if any
 patting? Yes! And the most important question for you---should you be
 trying to consciously and mechanically pat the dog? Please god no.
 
@@ -145,14 +141,14 @@ necessary to have a great forehand? No it is not.
 [So how is this article so far for ambiguity and confusion?]{.mark}
 
 Why so? Because the angle of the racket face in the backswing is not
-some core or basic requirement. It\'s a varied consequence of backswing
+some core or basic requirement. It's a varied consequence of backswing
 shapes and motions and the shot the player is hitting.
 
 Does patting the dog to any various extent make an incremental
 contribution to racket speed? Yes.
 
 Are there more important fundamental elements that all great forehands
-share? Yes. This is why it\'s crazy to focus on a consequence like \"pat
+share? Yes. This is why it's crazy to focus on a consequence like \"pat
 the dog\" and neglect the underlying foundation of a great forehand.
 
 If patting the dog is really so vital, why do some players with some of
@@ -161,17 +157,16 @@ example. Or Serena Williams, or Maria Sharapova. Or Juan Martin
 Delpotro.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-dog/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image5.webp)
 
-**Del Potro: proof you don\'t need the big pat to rocket the forehand.**
+**Del Potro: proof you don't need the big pat to rocket the forehand.**
 
 Wait, Pete is retired and he is old school. He only won 14 Slams. A real
 forehand needs to be totally \"modern.\"
 
 And Serena and Maria? They have \"old\" style backswings that tend to go
-back behind the plane of the body. They couldn\'t models. Unless you
-don\'t care if someone compares your backswing to Serena when you rocket
+back behind the plane of the body. They couldn't models. Unless you
+don't care if someone compares your backswing to Serena when you rocket
 a 75 mph forehand winner past them.
 
 But how about an elite male player like Juan Martin Delpotro? He has one
@@ -185,7 +180,7 @@ patting. Sure.
 
 **But Roger**
 
-So then how about Roger? That\'s the forehand everyone wants and
+So then how about Roger? That's the forehand everyone wants and
 everyone models or tries to model or thinks they are modeling. Does he
 Pat the Dog? Again there is no one dog pat.
 
@@ -194,8 +189,7 @@ Looking through dozens and dozens of clips I found only a handful of
 pats that could rightfully be described as on the table top.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_the-myth-of-the-dog/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-dog/media/image6.webp)
 
 **[[Roger varies how much the face closes in part depending on ball
 height.]{.underline}]{.mark}**
@@ -225,8 +219,7 @@ there trying.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-dog/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-dog/media/image7.webp)
 
 **Look at the differences in where the racket tip can point at maximum
 pat.**
@@ -261,19 +254,18 @@ rotation, the forward internal rotation in the forward swing. This adds
 what Brian Gordon has called a turbo charge effect. The combination of
 these rotations, according to Brian, work together to generate extra
 racket speed the same way they do on the serve. (If you really want to
-understand this technically, read Brian\'s brilliant articles in the
+understand this technically, read Brian's brilliant articles in the
 Biomechanics section. [Click
 Here](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx).)
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-dog/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image8.webp)
 
 **After his arm straightens it rotates backward---then forward toward
 the contact.**
 
-This is all a natural function of Roger\'s backswing movements. And the
-amount depends on the timing and intention of the forward swing. It\'s
+This is all a natural function of Roger's backswing movements. And the
+amount depends on the timing and intention of the forward swing. It's
 something players feel and do naturally but undoubtedly have no idea
 they are doing or how.
 
@@ -294,15 +286,14 @@ tends to make the racket go faster and they tend to do those things
 unconsciously.]{.mark}**
 
 You can see the same thing---a slightly closed racket face---in the
-forehands of Delpo and Serena. But that\'s not the same as an
+forehands of Delpo and Serena. But that's not the same as an
 intentional on the table top full dog pat.
 
 **Automatic Pat**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-dog/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-dog/media/image9.webp)
 
 **It turns out that even an edge to edge forehand can have some pat.**
 
@@ -330,13 +321,12 @@ ball.
 
 **Double Bend Dog Pat**
 
-But it\'s not just Roger. You can see the same effect with players with
+But it's not just Roger. You can see the same effect with players with
 a double bend hitting arm structure. Novak Djokovic for example also
 pats the dog naturally as a consequence of his own, different backswing.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-dog/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image10.webp)
 
 **Novak gets to his own version of pat the dog with a different arm
 configuration and backswing.**
@@ -350,7 +340,7 @@ for the double bend. [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hitting_arm_positions/your_forehand_and_the_modern_forehand_straight_elbow_arm_position.html)
 for the straight arm.)
 
-Novak\'s backswing isn\'t as compact as Federer\'s, but when he rotates
+Novak's backswing isn't as compact as Federer's, but when he rotates
 the arm backward from this backswing position, he pats the dog to a
 similar degree. And again this varies automatically depending on the
 incoming and outgoing ball.
@@ -367,18 +357,17 @@ Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/t
 Players think they see what the pros do, then torture themselves trying
 to manipulate what should be automatic, consequential movements.
 
-***[[So many players don\'t realize that if they set up and coil
+***[[So many players don't realize that if they set up and coil
 correctly and swing forward correctly all that craziness will or will
 not happen on its own at the right time as a result of having simple,
 underlying fundamentals.]{.underline}]{.mark}*** Just check out Scott
-Murphy\'s two articles on forehand preparation ([Click
+Murphy's two articles on forehand preparation ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_preparation_images/scott_murphy_forehand_preparation.html))
 and on forehand completion ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_completion_images/scott_murphy_forehand_completion.html)).
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-the-dog/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-dog/media/image11.webp)
 
 **Commonalities that transcend patting the dog: coiling and extension.
 And yet the dog pat happens.**
@@ -397,8 +386,8 @@ depending on the ball.
 across the body even with the edge of the left side of the torso. Great
 spacing between the racket hand and the body.]{.mark}***
 
-Swing to the image of that position. You won\'t even know if you pat the
-dog, or how much. And it won\'t matter. But you will if you need to.
+Swing to the image of that position. You won't even know if you pat the
+dog, or how much. And it won't matter. But you will if you need to.
 
 Simple, powerful, magical. Two keys to create the physical, mental,
 emotional, and aesthetic pleasure of a great technical swing and a
@@ -410,8 +399,7 @@ you have access to the true knowledge.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-myth-of-the-dog/media/image12.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-myth-of-the-dog/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

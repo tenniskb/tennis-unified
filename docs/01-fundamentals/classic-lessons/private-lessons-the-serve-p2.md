@@ -10,8 +10,7 @@ players at all levels. Part 2 continues the analysis beginning with the
 critical, but little understood, concept of rhythm.
 
 ![A person playing a guitar Description automatically generated with low
-confidence](media_private-lessons-the-serve-p2/media/image1.webp){width="2.625in"
-height="2.3958333333333335in"}
+confidence](media_private-lessons-the-serve-p2/media/image1.webp)
 
 **Creating the \"calm before the storm\" increasing your chance of
 having a consistent serving rhythm.**
@@ -22,7 +21,7 @@ serve. **[[To this end, everything you do prior to launching yourself to
 the point of contact should be done smoothly and
 calmly.]{.underline}]{.mark}**
 
-I see too many players start their service motions like they\'ve got a
+I see too many players start their service motions like they've got a
 train to catch! Typically, players who rush at the outset have
 inconsistent tosses and wind up either muscling the ball or dinking it.
 
@@ -36,8 +35,7 @@ happen when it should, in the launching phase.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                           ![A person hitting a tennis ball with his racket Description automatically
-  confidence](media_private-lessons-the-serve-p2/media/image2.jpg){width="2.6041666666666665in"   generated](media_private-lessons-the-serve-p2/media/image3.jpg){width="2.9895833333333335in"
-  height="2.0625in"}                                                                                                                                                                  height="2.0625in"}
+  confidence](media_private-lessons-the-serve-p2/media/image2.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Starting with the hands too high is a likely cause of a rushed motion.**                                                                                                          **This is a good, low ready position, with the racquet supported with the tossing hand.**
 
@@ -50,16 +48,15 @@ times.]{.underline}]{.mark}** **[[Support the racquet with the tossing
 hand in the ready position to keep the hitting arm
 relaxed.]{.underline}]{.mark}**
 
-Now decide exactly what serve you are going to hit and where. Don\'t
+Now decide exactly what serve you are going to hit and where. Don't
 serve without a purpose! Without taking a long stare to give away your
-intent, **[[draw a line in your mind\'s eye to the area you\'d like the
+intent, **[[draw a line in your mind's eye to the area you'd like the
 ball to land, take a deep breath and calmly begin your
 serve.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_private-lessons-the-serve-p2/media/image4.webp){width="2.6458333333333335in"
-  height="2.5in"}
+  generated](media_private-lessons-the-serve-p2/media/image4.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The knees flex down as the hands go up.**
 
@@ -71,29 +68,28 @@ One of the most common problems I see with servers is the improper knee
 bend. Players will bend their knees at the wrong time, over bend them,
 or not bend them at all**[[. Proper knee bend keeps the serve rhythmical
 and provides an effective launch to the ball.]{.underline}]{.mark}**
-**[[For someone who doesn\'t know better, it\'s very instinctive to bend
+**[[For someone who doesn't know better, it's very instinctive to bend
 the knees at the same time you drop your hands to begin the service
 motion.]{.underline}]{.mark}**
 
 **[[This, however, is incorrect because it will invariably lead
 to]{.underline}]{.mark}** **[[straightening the legs too early, before
 the swing is ever made]{.underline}]{.mark}**. This disrupts rhythm and
-eliminates any launch. **[[It\'s not necessarily the depth of the knee
-bend\--that varies with the individual. It\'s the
+eliminates any launch. **[[It's not necessarily the depth of the knee
+bend\--that varies with the individual. It's the
 timing.]{.underline}]{.mark}**
 
 My recommendation is **[[to remain basically upright as you begin to
 serve.]{.underline}]{.mark}** Keep extra curricular movement at a
 minimum!
 
-**There\'s a simple formula to time the knee bend.** **[[Flex the knees
+**There's a simple formula to time the knee bend.** **[[Flex the knees
 down as the hands are going up. The knee bend should be fullest just
 after you release the toss.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A close-up of a person\'s legs Description automatically generated with low
-  confidence](media_private-lessons-the-serve-p2/media/image5.jpg){width="2.6041666666666665in"
-  height="1.8020833333333333in"}
+  ![A close-up of a person's legs Description automatically generated with low
+  confidence](media_private-lessons-the-serve-p2/media/image5.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Lifting your heels increases knee bend and eliminates excessive movement.**
 
@@ -104,7 +100,7 @@ stomach, but with concerted practice both on and away from the court, it
 will soon solidify.
 
 Experiment to find out how much you can drop your weight naturally in
-the bending phase. **[[Relax, let your weight fall, and don\'t force the
+the bending phase. **[[Relax, let your weight fall, and don't force the
 bend]{.underline}]{.mark}** because you saw how far down Pete Sampras
 can go.
 
@@ -115,14 +111,13 @@ critical to generating power.]{.underline}]{.mark}**
 
 Another way to enhance the knee bend is to **[[simultaneously lift your
 heels.]{.underline}]{.mark}** You can bend your knees with your feet
-flat but you won\'t do it consistently, because it\'s simply not
+flat but you won't do it consistently, because it's simply not
 comfortable. In addition, with the heels up you truly \"lock down\" your
 feet eliminating any excessive movement.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                          ![A person in shorts and a blue shirt on a tennis court Description automatically generated with low
-   confidence](media_private-lessons-the-serve-p2/media/image6.jpg){width="2.6041666666666665in"
-                                                                                  height="3.4375in"}
+   confidence](media_private-lessons-the-serve-p2/media/image6.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **The pinpoint stance can lead not only to foot faults, but also the loss of power from the legs and body rotation.**
 
@@ -130,8 +125,8 @@ feet eliminating any excessive movement.
 
 Not only will excessive movement create the potential for being off
 balance but it can lead to a real bone of contention with me, and that
-is foot faulting. I know a lot of players figure it\'s not a big deal,
-but the simple fact is that it\'s cheating. It\'s particularly
+is foot faulting. I know a lot of players figure it's not a big deal,
+but the simple fact is that it's cheating. It's particularly
 disconcerting when the player doing the foot faulting is a serve and
 volleyer, because it gives the unfair advantage of getting to the net
 faster.
@@ -144,7 +139,7 @@ pro level.
 
 In any event, **[[starting with a foot on the baseline or touching the
 baseline or the court in front of it before striking the ball is against
-the rules!]{.mark}]{.underline}** I\'m not sure you gain anything from
+the rules!]{.mark}]{.underline}** I'm not sure you gain anything from
 this stance. In fact, you may actually lose leverage from the legs, and
 also, run the risk of rotating through the motion too soon. In my
 teaching I strive to eliminate this extra step.
@@ -157,8 +152,7 @@ because it allows for a better stretch of the body and encourages
 swinging up.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_private-lessons-the-serve-p2/media/image7.jpg){width="2.6041666666666665in"
-height="2.4479166666666665in"}
+confidence](media_private-lessons-the-serve-p2/media/image7.jpg)
 
 **Note the tilt in the shoulder position, about 45 degrees to the
 court.**
@@ -180,13 +174,12 @@ will just happen.]{.underline}]{.mark}**
 
 Lastly, some thoughts about weight transfer. I see too many people not
 transfer their weight at all, and in some cases actually go backwards,
-in large part because they don\'t set up the lower body correctly or
+in large part because they don't set up the lower body correctly or
 they toss too far back to get any forward momentum.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing glasses Description automatically generated with low
-  confidence](media_private-lessons-the-serve-p2/media/image8.webp){width="2.6770833333333335in"
-  height="2.0104166666666665in"}
+  confidence](media_private-lessons-the-serve-p2/media/image8.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The motion of the racquet should be upward toward the \"ceiling,\" not forward toward the \"wall.\"**
 
@@ -204,7 +197,7 @@ sizeable jump.]{.underline}]{.mark}**
 of the baseline, the back leg kicks back and then quickly comes forward
 to stabilize and or propel you forward.]{.mark}]{.underline}**
 
-**It\'s important to note that [[the jump is purely
+**It's important to note that [[the jump is purely
 incidental]{.underline}]{.mark} and [[results from the upward thrust of
 the legs pushing off the ground.]{.underline}]{.mark}**
 
@@ -215,33 +208,30 @@ the back leg swings around into the court]{.underline}]{.mark}**. Be
 sure, however, **[[to not hit off of a flat front
 foot.]{.underline}]{.mark}**
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                                  |
-+==================================================================================================================================================================================+
-| ![A picture containing text Description automatically                                                                                                                            |
-| generated](media_private-lessons-the-serve-p2/media/image9.webp){width="2.7083333333333335in" |
-| height="2.1666666666666665in"}                                                                                                                                                   |
-|                                                                                                                                                                                  |
-| **Pete Sampras demonstrates the thrust, landing on the front foot with the back foot kicking back.**                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A picture containing text Description automatically |
+| generated](media_private-lessons-the-serve-p2/media/image9.webp) |
+|  |
+| **Pete Sampras demonstrates the thrust, landing on the front foot with the back foot kicking back.** |
 
-I recommend this traditional footwork for the novice server, as it\'s
+
+I recommend this traditional footwork for the novice server, as it's
 simpler. **[[But as soon as the other elements in the motion are solid,
-every player should begin to develop the thrust.]{.mark} [It\'s one of
+every player should begin to develop the thrust.]{.mark} [It's one of
 the few things that every player can really learn to do like the top
 pros.]{.mark}]{.underline}**
 
 That concludes the second part on the serve. But one final note. **[[If
-you don\'t love to serve you should work on it until you
+you don't love to serve you should work on it until you
 do!]{.underline}]{.mark}**
 
 **[[Developing a sound service motion improves your athleticism and can
-give you the confidence to take charge of a match. It\'s well worth the
+give you the confidence to take charge of a match. It's well worth the
 effort!]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_private-lessons-the-serve-p2/media/image10.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_private-lessons-the-serve-p2/media/image10.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -255,7 +245,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

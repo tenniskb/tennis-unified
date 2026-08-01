@@ -6,7 +6,7 @@
 
 One of the most obvious commonalities in the modern forehand is the open
 stance. If you look through a few hundred forehand files in the Stroke
-Archive, you\'ll see that around 80% of pro forehands are hit with some
+Archive, you'll see that around 80% of pro forehands are hit with some
 version of an open stance.
 
 A common belief is that the open stance generates more power. There is
@@ -18,8 +18,7 @@ beginning level up.
 
 ![A hockey player on the ice Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image1.webp)
 
 **Open stance in pro tennis: what does it really mean?**
 
@@ -33,8 +32,7 @@ usually flexible as a player develops.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image2.webp)
 
 **Is neutral stance hitting a better fundamental base?**
 
@@ -50,14 +48,13 @@ definitively. The issue is complex and depends on many factors. There
 are situational and tactical issues, particularly ball height. And there
 are technical issues that relate to grip, swing pattern and body
 rotation. In the end it might come down to natural ability, playing
-style, and personal preference. Let\'s take a close look at when and how
+style, and personal preference. Let's take a close look at when and how
 the top players use these two basic stances, and then see what we can
 extrapolate for players at other levels.
 
 ![A person swinging a tennis racket Description automatically generated
 with medium
-confidence](media_forehand-stances/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image3.webp)
 
 **With the open stance explosion off the court, the ball is out of the
 strike zone.**
@@ -65,22 +62,21 @@ strike zone.**
 **Coming Attractions**
 
 Before we proceed, one note on the future. The issue of hitting stances
-is complex and can\'t really be separated from the larger question of
-court movement. That\'s why I\'m excited by a new series of articles
-we\'ll be unveiling soon from Australian coach and footwork specialist
+is complex and can't really be separated from the larger question of
+court movement. That's why I'm excited by a new series of articles
+we'll be unveiling soon from Australian coach and footwork specialist
 David Bailey. David has completed the most detailed study of movement,
 stances, balance moves, and recovery patterns ever undertaken in pro
 tennis, based partially on the video resources of our Stroke Archive.
 His articles will systematically address the entire spectrum of footwork
 patterns used by top players in every position on the tennis court.
-It\'s groundbreaking work. I\'ve already learned a lot from David, and
-he\'ll go far beyond this article in helping us understand the use of
-stances in the pro game. But for now let\'s look at some general points.
+It's groundbreaking work. I've already learned a lot from David, and
+he'll go far beyond this article in helping us understand the use of
+stances in the pro game. But for now let's look at some general points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image4.webp)
 
 **Controlling contact height\--a fundamental problem in pro tennis.**
 
@@ -105,8 +101,7 @@ bounce over his shoulder, if not the top of his head.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image5.webp)
 
 **Even with one foot on the ground at contact, Federer is still
 elevating to control contact height.**
@@ -116,7 +111,7 @@ these shots because jumping is some type of technical advantage. They
 are going up in the air because the explosiveness of the swings and the
 uncoiling of the legs naturally lift the player off the
 court.]{.mark}*** This can happen even on waist high balls. But on high
-balls, it\'s a necessity to create a comfortable contact height. The
+balls, it's a necessity to create a comfortable contact height. The
 ball can bounce so high in the pro game that even with both feet off the
 ground the contact point can still be at the shoulder or above.
 
@@ -140,18 +135,16 @@ to 45 degree angle on some balls. As they swing, the back leg naturally
 uncoils generating the energy the players need to explode up into the
 air.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with low                                                                                                   | ![A person playing tennis Description automatically                                                                                                                     | ![A person swinging a tennis racket Description automatically                                                                                                          |
-| confidence](media_forehand-stances/media/image6.jpg){width="2.4166666666666665in" | generated](media_forehand-stances/media/image7.jpg){width="2.5277777777777777in" | generated](media_forehand-stances/media/image8.jpg){width="2.888888888888889in" |
-| height="3.5416666666666665in"}                                                                                                                                           | height="3.5416666666666665in"}                                                                                                                                          | height="3.5416666666666665in"}                                                                                                                                         |
-+:========================================================================================================================================================================:+:=======================================================================================================================================================================:+:======================================================================================================================================================================:+
-| **Turn, align, coil\--the principle are the same across the stances.**                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically | ![A person swinging a tennis racket Description automatically |
+| --- | --- | --- |
+| confidence](media_forehand-stances/media/image6.jpg) |  |  |
+| **Turn, align, coil\--the principle are the same across the stances.** |  |  |
+
 
 **[[Because so many balls in pro tennis are played partially or wholly
 in the air, a new mantra in open stance teaching is \"load, explode,
-land.\"]{.underline}]{.mark}** Fair enough. No doubt it\'s real and
-it\'s necessary depending on the ball. But is going airborne an inherent
+land.\"]{.underline}]{.mark}** Fair enough. No doubt it's real and
+it's necessary depending on the ball. But is going airborne an inherent
 part of the modern forehand? Should every ball hit with one or both feet
 in the air. The answer is definitely no.
 
@@ -166,37 +159,35 @@ the front foot still on the court.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image9.webp)
 
 **A textbook old style forehand?**
 
 **Neutral Stance**
 
-It\'s true that you see players with all grip styles hit open stance.
+It's true that you see players with all grip styles hit open stance.
 You also players across the grip spectrum stepping into the ball and
 hitting with neutral stances. This happens typically when the ball is
 shorter and lower, or when the player is hitting on the rise. Even
 players with extreme grips are stepping in a certain percentage of the
-time, about 1 out of every 5 balls. It\'s also true that the top players
+time, about 1 out of every 5 balls. It's also true that the top players
 can also hit low balls with open stances, but again this is situational,
 usually when the ball forces them, or they want to break off an angle
 with more hand and arm rotation.
 
-With Federer on some short balls, it looks like he\'s hitting a text
+With Federer on some short balls, it looks like he's hitting a text
 book eastern square stance forehand. It's the same for Agassi when he
 squares his stance to hit on the rise. Agassi will also step in on a low
 rally ball. A few years ago, I filmed a match between Andre and Greg
 Rusedski with a lot of crosscourt exchanges\--Andre hitting crosscourt
-forehands to Rusedski\'s lefty slice backhand. Because Rusedski was
+forehands to Rusedski's lefty slice backhand. Because Rusedski was
 hitting slice, the ball coming back to Agassi stayed much lower than the
 typical crosscourt forehand. Andre would step in and hit with a neutral
 stance, with the contact point between knee and waist level.
 
 ![A tennis player in a white shirt Description automatically generated
 with low
-confidence](media_forehand-stances/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image10.webp)
 
 **On a lower rally ball, Andre is also comfortable stepping in.**
 
@@ -222,28 +213,27 @@ something close. The players need to be open to complete this rotation.
 
 ![A tennis player hitting a ball with a racket Description automatically
 generated with medium
-confidence](media_forehand-stances/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image11.webp)
 
 **With an extreme grip the front foot bails out and rotates across the
 body.**
 
 When extreme grip players step into the ball, the position of the feet
 blocks them. For the torso to continue to come around, the players have
-to rotate off that front foot so the torso doesn\'t twist against the
+to rotate off that front foot so the torso doesn't twist against the
 front foot and leg. To finish his rotation, the front foot needs to come
 around with the rest of the swing. The great players make this happen,
-but it doesn\'t look natural. It seems to impede the natural flow of the
+but it doesn't look natural. It seems to impede the natural flow of the
 motion.
 
 There is another related element. **When extreme players drive the ball,
 they turn the hand and racket over, but they also extend the swing
 outward, similar to players with less extreme grips**. **[[When the
-front foot blocks the torso rotation it also impedes the players\'
+front foot blocks the torso rotation it also impedes the players'
 ability to extend the hand and arm.]{.underline}]{.mark}** When you see
 top players break off angles, they sometimes stop the torso rotation and
 bring the hand and racket over and across sooner with less extension,
-even with the open stance. But this isn\'t as effective when they are
+even with the open stance. But this isn't as effective when they are
 trying to drive the ball.
 
 In some cases, players try to adjust the footwork by stepping with the
@@ -257,16 +247,15 @@ style.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image12.webp)
 
 **Guga steps on point with the left foot, but the rotation still twists
 it across.**
 
-Now, let\'s be clear. ***[You do see players like Federer and Agassi
+Now, let's be clear. ***[You do see players like Federer and Agassi
 rotate their shoulders further and also use additional hand and arm
-rotation. A hall mark of Federer\'s forehand is his ability to do this
-on virtually any ball.]{.mark}*** But for the less extreme players it\'s
+rotation. A hall mark of Federer's forehand is his ability to do this
+on virtually any ball.]{.mark}*** But for the less extreme players it's
 an option not a necessity. ***[[When Federer rotates further, for
 example, he does it from an open stance and often when he is in the air
 with both feet.]{.underline}]{.mark}*** The same is true of Agassi. The
@@ -278,13 +267,12 @@ There is another difference. Because they have less rotation, the flow
 often takes the less extreme players forward naturally. The uncoiling
 may lift a player off the court from the neutral stance. But the front
 foot flows forward toward the net in the direction of the shot. This is
-very different than the more extreme rotation which lifts the player\'s
-foot off the court and carries it to the player\'s side.
+very different than the more extreme rotation which lifts the player's
+foot off the court and carries it to the player's side.
 
 ![A picture containing text, athletic game, sport, outdoor Description
 automatically
-generated](media_forehand-stances/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_forehand-stances/media/image13.webp)
 
 **In the air Federer can rotate the torso and the hand like the extreme
 players.**
@@ -300,7 +288,7 @@ balls coming in at waist height or a little higher or lower?
 In junior tennis, looping topspin and high bouncing balls are the norm,
 and junior players, obviously, are usually shorter than adults. Because
 they players hit the ball quite hard and with so much spin even at young
-ages, it\'s easy to see why the more extreme grips dominate. This means
+ages, it's easy to see why the more extreme grips dominate. This means
 open stance as well. Together they make it possible to stay back well
 behind the baseline, answer spin with spin, and play matches of
 attrition.
@@ -314,54 +302,52 @@ in at the club level.
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_forehand-stances/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image14.webp)
 
 **With less rotation, the flow is forward.**
 
 ***[But many club players are obsessed with copying the more extreme
-pros, and also, with hitting topspin for it\'s own sake. [Because of
+pros, and also, with hitting topspin for it's own sake. [Because of
 this they generate spin levels that are excessive compared with the
 velocity of their shots. This affects their ability to create depth and
 penetrate the court, and can generate a lot of short, fat balls for
 their opponents]{.underline}]{.mark}***[.]{.underline}
 
-Again, let me make sure that I\'m not being misunderstood. There are
+Again, let me make sure that I'm not being misunderstood. There are
 plenty of situations where any player at any level needs the ability to
 hit open stance. This includes club and recreational players from the
-3.0 level up. I\'m not saying that the square stance is superior or that
+3.0 level up. I'm not saying that the square stance is superior or that
 this is the one and only way the game should be played. I am not
 rejecting so-called modern tennis, or even the more extreme
 grips\--quite the opposite. I have spent enough time with high level
 juniors, college players, and lower level tour players to know that a
 more extreme style is often their best alternative for maximizing their
-competitive results. I\'ve worked hard through video analysis and the
+competitive results. I've worked hard through video analysis and the
 use of pro imagery to help them do this. Furthermore, if you are a 3.5
 or a 4.0 player and are overwhelmed by a deep need to copy Rafael
 Nadal\--and even to wear those pants\--I say, go for it.
 
-What I am saying is that these issues aren\'t black and white. They are
+What I am saying is that these issues aren't black and white. They are
 situational. I am saying that it makes sense to tailor the development
 of your technical game to the level and qualities of your play\--and I
 believe the choice of grips and stances is basic to doing this. If 80%
 of all pro forehands are hit open stance, at lower levels, that balance
 could be the opposite. Because of this, players who blindly try to
 develop stances and grip structures based on the pros, can limit their
-potential. We can see one example of this in this month\'s Your Strokes.
+potential. We can see one example of this in this month's Your Strokes.
 The article demonstrates what happens to a club player who has been
 taught that the open stance should be the norm for every forehand. And
-yes, if you are wondering, I do fall into the camp that believes it\'s
+yes, if you are wondering, I do fall into the camp that believes it's
 better to develop players with conventional grips and square
 stances\--initially at least. My own experience is that fundamentals are
 much easier to feel from a square stance with a grip like Roger
-Federer\'s or Andre Agassi\'s. Players can always evolve to a more
-extreme style. As Robert Landsdorp points out, it\'s easy to go from
-conservative to extreme. But it\'s a lot tougher, if not impossible to
+Federer's or Andre Agassi's. Players can always evolve to a more
+extreme style. As Robert Landsdorp points out, it's easy to go from
+conservative to extreme. But it's a lot tougher, if not impossible to
 go the opposite way.
 
 ![A person playing baseball Description automatically generated with low
-confidence](media_forehand-stances/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image15.webp)
 
 **If the open stance is more, the left or front foot is offset by a
 foot.**
@@ -397,8 +383,7 @@ swing.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forehand-stances/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_forehand-stances/media/image16.webp)
 
 **If the stance is semi-open, the front foot is closer to the net.**
 
@@ -451,7 +436,7 @@ up on the outside foot.
 tennis stem from a misunderstanding about this relationship between the
 set up and the hitting stance.]{.underline}]{.mark}*** The fact is that
 it is more than possible to hit open stance with conventional grips and
-to hit well. The possible advantage of extreme grips doesn\'t really
+to hit well. The possible advantage of extreme grips doesn't really
 come in play until the rally balls you face are consistently quite high.
 If you play most of your balls at waist level, why would you adopt
 stances or a grip style that were suited to the heavy, high velocity pro
@@ -462,8 +447,7 @@ play.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_forehand-stances/media/image17.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_forehand-stances/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

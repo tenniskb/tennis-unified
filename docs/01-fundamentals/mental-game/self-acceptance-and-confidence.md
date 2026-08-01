@@ -6,17 +6,16 @@
 
 ![A picture containing grass, outdoor, sky, person Description
 automatically
-generated](media_self-acceptance-and-confidence/media/image1.jpg){width="6.25in"
-height="4.847222222222222in"}
+generated](media_self-acceptance-and-confidence/media/image1.jpg)
 
 **The sports psychology principles I have developed have helped my high
 school teams win 17 state titles---so far.**
 
-The boys\' and girls\' high school tennis teams I have coached have had
+The boys' and girls' high school tennis teams I have coached have had
 thirty-eight final four appearances and won seventeen state titles\--and
 counting. The successes of these teams have come in part by the
 application of concepts and techniques I developed to systematically
-explore and improve the mental and emotional elements in my players\'
+explore and improve the mental and emotional elements in my players'
 development.
 
 The origin of this work is grounded in my own experiences as a player.
@@ -25,26 +24,25 @@ into my twenties, I played in many summer tennis tournaments at the
 Dwight Davis Tennis Center in Forest Park in St. Louis, Missouri.
 
 I used to practice so hard in preparation for these tournaments. But
-then, during the tournaments, I\'d find myself getting in my own way
-more often than I\'d like. I would get nervous and worry about the
+then, during the tournaments, I'd find myself getting in my own way
+more often than I'd like. I would get nervous and worry about the
 outcome before each match, and I knew it was because I was afraid of
 failure. I believe this fear of failure stemmed from my not being
 confident that I could win the match.
 
-I was a comparer. Often, I\'d know the opponent\'s ability level before
+I was a comparer. Often, I'd know the opponent's ability level before
 the match and predetermine who was likely to win. If the outcome was in
 doubt near the end of the match, my pecking order mentality too often
 affected the match outcome.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_self-acceptance-and-confidence/media/image2.jpg){width="2.7291666666666665in"
-height="2.0in"}
+confidence](media_self-acceptance-and-confidence/media/image2.jpg)
 
 **The origin of my work lies in my own experience as a player.**
 
-My mother, who was not sports oriented, gave me the best advice I\'ve
-ever heard. Before I\'d leave the house to go to the tennis tournament,
+My mother, who was not sports oriented, gave me the best advice I've
+ever heard. Before I'd leave the house to go to the tennis tournament,
 she would always say, \"Relax and have fun.\"
 
 Simple Advice
@@ -54,7 +52,7 @@ was naive. I was not out there flying kites or recreationally throwing
 horseshoes; I was experiencing a clash in my head between wanting to win
 and being afraid of losing.
 
-But, over time, I came to interpret my mother\'s message: True
+But, over time, I came to interpret my mother's message: True
 competitors have fun competing. True competitors look at the situation
 as a challenge and find fun in that challenge. Yes, they take it
 seriously, but there is also the element of thrill in the competition.
@@ -73,8 +71,7 @@ athletes minimize the pitfalls that I had experienced.
 
 ![A picture containing person, sport, outdoor, athletic game Description
 automatically
-generated](media_self-acceptance-and-confidence/media/image3.jpg){width="4.434782370953631in"
-height="3.274915791776028in"}
+generated](media_self-acceptance-and-confidence/media/image3.jpg)
 
 **In 30 years I have worked with hundreds of players on overcoming
 mental and emotional obstacles.**
@@ -96,21 +93,20 @@ real changes in your competitive results.
 
 These are for any athlete to use on their own or for coaches to use with
 their athletes in order to improve the mental and emotional side of
-their games. But let\'s start by outlining what I think are some of the
-meta issues involved. Let\'s start with self-acceptance and confidence.
+their games. But let's start by outlining what I think are some of the
+meta issues involved. Let's start with self-acceptance and confidence.
 
 **Conditional or Unconditional Self-Acceptance**
 
 Do you accept yourself conditionally or unconditionally in competitive
-athletics? If it\'s conditionally then your confidence and mental
+athletics? If it's conditionally then your confidence and mental
 toughness is likely to drop when you face adversity. You are likely to
 have a psychological tug-of-war with fear undermining your ability to
 stay connected to yourself. Fear and frustration is normal at times and
-it\'s a matter of how the athlete will deal with it.
+it's a matter of how the athlete will deal with it.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image4.jpg){width="2.7777777777777777in"
-height="5.361111111111111in"}
+generated](media_self-acceptance-and-confidence/media/image4.jpg)
 
 **Accepting yourself sets you free.**
 
@@ -134,13 +130,13 @@ reservation or fear of the outcome.
 Have you ever watched a match where it was clear one player was superior
 to the other? I remember watching an Olympics boxing match where it was
 clear which boxer was going be the winner and likely a medalist and
-which one wasn\'t going anywhere near the podium. And yet, the other guy
+which one wasn't going anywhere near the podium. And yet, the other guy
 kept coming back. He kept punching. While he ultimately lost the match,
 in my view he left that ring a hero. He fought until the end.
 
 How did he manage in the face of such odds? Confidence. Confidence is
 the firm belief in your ability to overcome the obstacles before you.
-It\'s the belief that you have the ability to execute a task
+It's the belief that you have the ability to execute a task
 successfully and win. Confidence is a sureness that you can do it.
 Confidence is the single most important mental factor in sport success.
 Are you, the athlete, your own worst enemy by being full of self-doubt?
@@ -148,21 +144,20 @@ Or are you your best ally by having genuine confidence?
 
 **Confidence Challenge**
 
-It\'s easy to stay confident when you\'re performing well, when the
-conditions are ideal, and when you\'re competing against someone you\'re
+It's easy to stay confident when you're performing well, when the
+conditions are ideal, and when you're competing against someone you're
 better than. The real test of confidence, however, is how you respond
-when things aren\'t going your way.
+when things aren't going your way.
 
 ![A person holding a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image5.jpg){width="4.861111111111111in"
-height="3.513888888888889in"}
+generated](media_self-acceptance-and-confidence/media/image5.jpg)
 
 **Genuine confidence is a sureness you can do it.**
 
 Dr. Jim Taylor, an authority on the psychology of performance in
 business, sport, and parenting, calls this the confidence challenge. He
 explains that what separates the best athletes from the rest is that the
-best are able to maintain their confidence when they\'re not at the top
+best are able to maintain their confidence when they're not at the top
 of their games.
 
 By staying confident, they continue to work hard instead of giving up,
@@ -170,19 +165,19 @@ because they know that their performance will come around in time.
 Consider the confidence (and perseverance) of teams in professional
 basketball, baseball, or hockey that have trailed 3 games to 1 in a best
 4 of 7 game series and have come back to win. Maintaining confidence is
-a factor in these teams\' abilities to win the overall series.
+a factor in these teams' abilities to win the overall series.
 
 Most athletes who perform poorly get caught in the vicious cycle of low
 confidence and low performance. Low performance leads to low confidence,
 which leads to a continuation of low performance and low confidence.
 Once you slip into that downward spiral, you rarely can get out of it in
-the short term. It\'s not fun and it\'s tough to get off that
+the short term. It's not fun and it's tough to get off that
 merry-go-round.
 
 In contrast, athletes with confidence can ride out the downward flows of
 the game and seek out ways to return to their previous level. Confidence
-is a deep, lasting, and resilient belief in one\'s ability. All athletes
-will go through periods when they don\'t perform well. The skill is not
+is a deep, lasting, and resilient belief in one's ability. All athletes
+will go through periods when they don't perform well. The skill is not
 getting caught in the vicious cycle and being able to get out of the
 down periods quickly.
 
@@ -191,8 +186,7 @@ develop the attitude that demanding situations are challenges that
 should be sought out.
 
 ![A person holding a tennis racket Description automatically
-generated](media_self-acceptance-and-confidence/media/image6.jpg){width="3.835277777777778in"
-height="2.6956528871391074in"}
+generated](media_self-acceptance-and-confidence/media/image6.jpg)
 
 **When it comes to your confidence level, round up!**
 
@@ -218,15 +212,14 @@ up in your self-assessment to think you can do it in a competitive
 situation. If you have a realistic chance, instead of focusing on how
 you have an 85 percent confidence level, round
 up.]{.underline}]{.mark}** Think, I can. Give yourself a 90 percent
-rating or higher. When do this you are using what\'s called realistic
+rating or higher. When do this you are using what's called realistic
 positive conviction.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_self-acceptance-and-confidence/media/image7.jpeg){width="1.7215277777777778in"
-height="2.3652777777777776in"}
+confidence](media_self-acceptance-and-confidence/media/image7.jpeg)
 
-Ben Loeb has been the varsity tennis coach for the boys\' and girls\'
+Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
 years. His teams have won more than 1000 dual matches, made 38
 appearances in the final four of the state team championships, and won
@@ -236,12 +229,11 @@ to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
 ![A cover of a book Description automatically generated with medium
-confidence](media_self-acceptance-and-confidence/media/image8.jpeg){width="1.8263888888888888in"
-height="2.6in"}
+confidence](media_self-acceptance-and-confidence/media/image8.jpeg)
 
 **Next-Level Coaching!**
 
-Ben\'s new book, Next-Level Coaching, outlines the principles he has
+Ben's new book, Next-Level Coaching, outlines the principles he has
 developed over his career as a player and a championship coach to help
 overcome the mental and emotional challenges of playing and enjoying
 competitive tennis. It includes detailed self-assessment questionnaires

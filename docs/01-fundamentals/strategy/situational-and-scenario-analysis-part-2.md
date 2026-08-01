@@ -11,20 +11,19 @@ various game styles in the pro game and at all other levels. In Part 1
 of this article. ([Click
 Here](Situational%20and%20Scenario%20Analysis%20-%20Part%201.docx)) we
 presented some examples of the incredible range of scenarios that can
-occur in matches. Let\'s continue in Part 2 by looking at another series
+occur in matches. Let's continue in Part 2 by looking at another series
 of scenarios most players at most levels encounter sooner or later.
 
 **[[Developing your ability to do situational analysis both before and
 during matches is a learned skill, a skill that frequently makes the
 difference between winning and losing.]{.underline}]{.mark}** No two
-match situations are ever exactly the same, and the point isn\'t to
+match situations are ever exactly the same, and the point isn't to
 memorize a series of fixed answers. The point is to study these examples
 in order to help you learn the process of adaptation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-2/media/image1.webp)
 
 **What if you are losing the war, side to side?**
 
@@ -35,7 +34,7 @@ Nadal
 You are playing into his hands by trying to run with this opponent, even
 if movement is one of your strengths. Examine the rally direction on the
 big points. If you are hitting side to side and losing, then you are
-probably going down the line into your opponent\'s strength or going
+probably going down the line into your opponent's strength or going
 down the line too soon. Reel in your game somewhat, make the points
 simpler, and focus on finding the best diagonal. Play your serves and
 returns with the intent of forcing your opponent to hit crosscourt into
@@ -54,8 +53,7 @@ are still losing in the rallies, it is worth the experiment.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-2/media/image2.webp)
 
 **How do you reverse an inside attack?**
 
@@ -67,7 +65,7 @@ to your backhand to get an advantage and then go inside in to hurt you
 or hit winners. Your first goal is to change the rally on either a short
 ball or one that is closer to the middle. You can generate balls closer
 to the middle, by hitting down the middle yourself and taking away the
-opponent\'s angle for attack. ([Click
+opponent's angle for attack. ([Click
 Here](Pro%20Patterns%20-%20Basic%20Diagonals%20-%20Part%202%20Switching%20the%20Rally.docx)
 for more detail on how this works.)
 
@@ -82,8 +80,7 @@ pressured on the passing shot and miss some balls, especially at
 critical times.
 
 ![A person holding a stick Description automatically generated with low
-confidence](media_situational-and-scenario-analysis-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-2/media/image3.webp)
 
 **What if high balls are making you hit short?**
 
@@ -106,8 +103,7 @@ shoulder.
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_situational-and-scenario-analysis-part-2/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-2/media/image4.webp)
 
 **What about a fast opponent with great angles?**
 
@@ -130,8 +126,7 @@ somewhat more to the middle, which will not open the court as sharply
 for her crosscourt passes.
 
 ![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_situational-and-scenario-analysis-part-2/media/image5.webp)
 
 **How do you counter hard, deep and down the middle?**
 
@@ -153,8 +148,7 @@ swing longer to get the same depth as you had when you were one step
 closer to the line.
 
 ![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_situational-and-scenario-analysis-part-2/media/image6.webp)
 
 **What if the return puts you on defense?**
 
@@ -171,8 +165,7 @@ high, deep, and crosscourt to neutralize the attacking returns.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_situational-and-scenario-analysis-part-2/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_situational-and-scenario-analysis-part-2/media/image7.webp)
 
 **How to you counter a deep drive followed by a drop shot?**
 
@@ -188,8 +181,7 @@ dropshot on the run. You may also choose simply to increase your pace,
 as the dropshot is also more difficult to execute off faster balls.
 
 ![A person playing tennis Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_situational-and-scenario-analysis-part-2/media/image8.webp)
 
 **What if your opponent cuts off your loops with swinging volleys?**
 
@@ -206,13 +198,12 @@ Attempt to take the net from her when you can and put her on the
 defensive by mixing in some approaches of your own.
 
 Got a scenario for me versus a tough opponent of your own? Post a
-description in the Forum under the \"Strategy\" section, and I\'ll try
+description in the Forum under the \"Strategy\" section, and I'll try
 to come up with some suggestions on how you can adapt and counter it in
 your own matches.
 
 ![A person holding a tennis racket Description automatically
-generated](media_situational-and-scenario-analysis-part-2/media/image9.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_situational-and-scenario-analysis-part-2/media/image9.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

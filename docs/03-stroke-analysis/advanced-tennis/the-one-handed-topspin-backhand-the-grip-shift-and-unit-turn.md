@@ -12,17 +12,16 @@ showed how the players construct their grips by the way they connect the
 hand to the racket. ([Click
 Here.)](The%20One%20Handed%20Topspin%20Backhand-Introduction.docx)
 
-Now let\'s start to work our way through the stroke itself, including
+Now let's start to work our way through the stroke itself, including
 the commonalities and the variations between the grip styles. In this
-article we\'ll cover the initial preparation, including the grip shift
-and the unit turn. We\'ll discover something very surprising about the
-grip shift. Then we\'ll see the core similarities between the classic
+article we'll cover the initial preparation, including the grip shift
+and the unit turn. We'll discover something very surprising about the
+grip shift. Then we'll see the core similarities between the classic
 and the extreme versions when it comes to the first move.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image1.webp)
 
 **The grip shift and the unit turn across the grip styles.**
 
@@ -42,21 +41,20 @@ would add an element of complexity and difficulty to executing the
 stroke.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image2.webp)
 
 **Watch as Federer shifts to a neutral or intermediate grip after his
 forehand, then makes the backhand shift.**
 
 **[[You might assume that, if the players were actually making that kind
-of grip shift. But they\'re not.]{.underline}]{.mark}** When I started
+of grip shift. But they're not.]{.underline}]{.mark}** When I started
 looking closely at the high speed footage I was amazed to see what was
-actually happening. So far as I know, it hasn\'t been previously
+actually happening. So far as I know, it hasn't been previously
 understood or analyzed.
 
-The players aren\'t making that huge grip shift because they are not
+The players aren't making that huge grip shift because they are not
 holding their actual forehand grips in the ready position. But they
-aren\'t waiting with their backhand grips either. Instead they are
+aren't waiting with their backhand grips either. Instead they are
 waiting with a grip somewhere in between. The starting point for most
 pro players actually appears to be an intermediate grip something like
 an old style eastern forehand, with the index knuckle on bevel 3 and the
@@ -72,26 +70,25 @@ and half bevels or two.
 
 ![A picture containing text, athletic game, sport, outdoor Description
 automatically
-generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image3.webp)
 
 **Extreme players like Gonzo also recover to an intermediate grip and
 shift to the back as part of the first move.**
 
 The shift is even less in the case of a player like Roger Federer. We
-know that Federer\'s forehand grip is one of the most conservative in
+know that Federer's forehand grip is one of the most conservative in
 the pro game, with most of his hand directly behind the handle and the
 index knuckle shifted slightly downward, what we have labeled a 3 and
 1/2 / 3. ([Click
 Here](John%20Yandell-Modern%20Tennis%20Forehand-Where%20Are%20We%20Now-Part1.docx).)
 
-Federer\'s backhand grip is also classical, as we saw in part one of
+Federer's backhand grip is also classical, as we saw in part one of
 this series, with his index knuckle and most of his heel pad directly on
 the top bevel of the frame, what we call a \"1 / 1\" in our new
 terminology. So from the neutral position the distance he has to rotate
 is even less. Does that help or make things easier when you play up on
 the baseline and try to take the ball earlier and on the rise? It
-couldn\'t hurt, and it might be a critical element for success for
+couldn't hurt, and it might be a critical element for success for
 attacking baseline players.
 
 Watch what happens in the Federer animation as he finishes his forehand.
@@ -101,8 +98,7 @@ forehand return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image4.webp)
 
 **Some players like Justine open the fingers and rotate the racket with
 the left hand to execute the grip shift.**
@@ -113,7 +109,7 @@ racket lightly at the throat with the left hand. He relaxes his fingers
 and then rotates the racket hand to create his backhand drive grip with
 the index knuckle and the palm on top.
 
-It\'s the same sequence for the extreme players, they just have slightly
+It's the same sequence for the extreme players, they just have slightly
 to go further from the intermediate position. Watch the animation of
 Fernando Gonzales, who has an extreme semi-western forehand grip as well
 as an extreme backhand. Like Federer he waits with a neutral grip that
@@ -130,8 +126,7 @@ backhand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image5.webp)
 
 **The unit turn: torso arm and racket rotating together with minimal or
 no arm motion.**
@@ -143,35 +138,34 @@ Srichaphan are good examples. Instead of cradling the racket and turning
 the hand, Justine releases the fingers on the racket hand and then uses
 of the left hand to rotate the racket shaft back towards her until the
 bevels are aligned with the key points on the hand. But which ever way
-the change happens it\'s instantaneous with the start of the
+the change happens it's instantaneous with the start of the
 preparation.
 
 **Preparation**
 
 Which brings us to the next aspect of the preparation. \"Take your
-racket back early!\" It\'s the universal teaching mantra in private
+racket back early!\" It's the universal teaching mantra in private
 lessons across the planet. We spent quite a bit of time investigating
 why this phrase was bad advice on the forehand. ([Click
 Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
-And it\'s the same on the one-handed backhand.
+And it's the same on the one-handed backhand.
 
-It\'s not that you don\'t want to initiate the preparation immediately
-upon recognizing the shot. You do and that\'s critical. The failure to
+It's not that you don't want to initiate the preparation immediately
+upon recognizing the shot. You do and that's critical. The failure to
 prepare is probably the most basic problem in teaching. Late preparation
 is shockingly universal in club tennis. **[But the point is that the
-racket doesn\'t \"prepare\" independently of the rest of the
+racket doesn't \"prepare\" independently of the rest of the
 body.]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image6.webp)
 
 **The Unit Turn: the sideway rotation or turning of the feet and the
 torso.**
 
 ***[The racket preparation happens as part of a larger pattern of body
 movement that involves the feet and the torso.]{.mark}*** ***[[This
-movement is the Unit Turn.]{.underline}]{.mark}*** ***It\'s the
+movement is the Unit Turn.]{.underline}]{.mark}*** ***It's the
 fundamental, critical move that all good one-handers share, at all
 levels of play. In this first phase of the preparation, the racket
 preparation is automatic as part of the unit, the same as we saw on the
@@ -182,14 +176,13 @@ counterproductive. **Trying to follow this advice, club players pull the
 hand and the racket sideways across the body. Meanwhile the shoulder
 turn is severely restricted. As the arm and racket move, the elbow bends
 too much too soon and the hand and racket move too far to the left and
-the side of the player\'s.** **The result? The classic club one-hand
+the side of the player's.** **The result? The classic club one-hand
 backhand, a weak push hit mainly with the arm, often with the elbow bent
 and leading the forward swing.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image7.webp)
 
 **The actual footwork patterns and positions at the completion of the
 unit turn vary depending on circumstances.**
@@ -216,8 +209,7 @@ of footwork options in the modern game. But the key point is that these
 steps are part of the sideways turning motion of the body.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image8.webp)
 
 **Gaudio: pure unitary rotation of the shoulders, arms and racket.**
 
@@ -235,14 +227,13 @@ the shoulders are working together to initiate turn.]{.mark}***
 The Gaston Gaudio animation is a great example of this pure, minimal
 unit turn in the upper body. After the grip shift, the hands, arms and
 racket are virtually still, moving only as a function of rotation of the
-body sideways. It\'s beautiful, simple, and efficient.
+body sideways. It's beautiful, simple, and efficient.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image9.webp)
 
-**Guga\'s unit turn with the additional upward movement of his hands.**
+**Guga's unit turn with the additional upward movement of his hands.**
 
 Some players have some independent movement with the hands during the
 unit turn. Sometimes this is associated with the grip change, as we saw
@@ -256,15 +247,14 @@ upward as he is turning.
 In other cases, this movement is more an illusion. Richard Gasquet, for
 example, points the tip of the racket upward as he changes the grip, but
 still turns with virtually no backwards motion in the hands or arms.
-It\'s just that the racket is at a more extreme angle than most of the
+It's just that the racket is at a more extreme angle than most of the
 players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image10.webp)
 
-**The position of Gasquet\'s racket can create the illusion that he is
+**The position of Gasquet's racket can create the illusion that he is
 starting the backswing during the unit turn.**
 
 Every player looks slightly different depending on how they hold the
@@ -275,15 +265,14 @@ of the unit turn. This appears to be virtually identical for all the
 one-handers both with classical and extreme grips.
 
 So the intermediate grip and the unit turn are major commonalities
-across the grip styles. In the next article we\'ll look at the backswing
+across the grip styles. In the next article we'll look at the backswing
 and the completion of the turn, where the similarities differences
 between the classic and extreme styles are more ambiguous and complex.
 Stay Tuned!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image11.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/media/image11.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

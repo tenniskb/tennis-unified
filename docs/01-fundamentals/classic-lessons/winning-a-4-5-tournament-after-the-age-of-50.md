@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image1.webp)
 
 Could I actually win a 4.5 tournament over age 50. Yes but that is only
 part of the story.
@@ -29,15 +28,14 @@ When I first started playing tennis, 43 years ago, I had a Bancroft
 wooden racquet that cost 25 cents at the Salvation Army store. (Dad had
 three jobs and 8 kids, no mom.) The strings were made of piano wire.
 
-The metal strings were rusty and stunk of used engine oil. (Dad\'s idea
+The metal strings were rusty and stunk of used engine oil. (Dad's idea
 to keep the strings from rusting.) I had to keep it in a wood press or
 it would warp. I used to sleep with it, watching it by the light of a
 candle with a long yellow flame.
 
 ![A tennis racket and a ball Description automatically generated with
 medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image2.jpg){width="3.4722222222222223in"
-height="3.1944444444444446in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image2.jpg)
 
 High tech pro frames never felt as good as my old Bancroft.
 
@@ -55,13 +53,13 @@ there was a polly wog trench, filled with gooey lime green algae, and
 lots of frogs.
 
 My friend Eddy and I, both age 8, used to amuse ourselves jumping on the
-trains as they rolled by at 5mph on the way into the tunnel. We\'d grab
+trains as they rolled by at 5mph on the way into the tunnel. We'd grab
 the handle on the red ladders on the flatbed cars and swing ourselves up
 onto the train.
 
 Eddy got his leg cut off trying to jump the train one day. Lots of blood
 and screaming, people panicking. Eddy was too fat to play tennis, and
-too fat to jump trains. His family eventually moved away and I\'m not
+too fat to jump trains. His family eventually moved away and I'm not
 sure what ever happened to him.
 
 I hit balls that landed on the roof of the Plunge via miss hits, as did
@@ -73,15 +71,14 @@ grabbing onto any branch I could on the way down. Of course, it helped
 that I weighed only about 50 lbs.
 
 ![A person holding a tennis racket Description automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image3.jpg){width="4.485074365704287in"
-height="3.2053324584426948in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image3.jpg)
 
 **One of the old Richmond courts still exists, though unplayable for
 years.**
 
 I am quite a ways from there now, age 54, an electrical contractor,
 married and living in the East Bay Hills, playing with \$400 rackets
-custom Head rackets. But those rackets still don\'t feel quite as good
+custom Head rackets. But those rackets still don't feel quite as good
 as that warped Bancroft. The simple joy of beating your father for the
 first time stays with you forever, even though he let me win.
 
@@ -97,7 +94,7 @@ had a lot of power.
 
 I continued to play until my twenties, when I began to play Northern
 California tournaments. I rose to the top three, first in the B and then
-the A division, analogous in today\'s terminology to NTRP 4.5, and 5.0.
+the A division, analogous in today's terminology to NTRP 4.5, and 5.0.
 This was the late 1970s through the mid 1980s.
 
 I did this without coaching, without junior tennis background, without
@@ -106,8 +103,7 @@ self taught foot work.
 
 ![A picture containing athletic game, outdoor, sport, tennis Description
 automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image4.jpg){width="3.2686570428696413in"
-height="3.312237532808399in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image4.jpg)
 
 **They painted the building but the wall still exists amid the
 wreckage.**
@@ -142,7 +138,7 @@ you to face the awful humiliation of my mighty celebration over your
 dead and stinking carcass.\"
 
 **Australian psych**: \"I must say you are
-serving/playing/volleying/moving/hitting well, today. I\'ve never seen
+serving/playing/volleying/moving/hitting well, today. I've never seen
 anyone hit their forehand quite that well, congratuations.\" This is on
 the changeover after the first game.
 
@@ -153,8 +149,7 @@ will stall. My purpose is to take you into the foggy/anger zone, you
 young fool.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image5.webp)
 
 **One grip, two groundstrokes.**
 
@@ -164,14 +159,14 @@ every game thereafter.
 
 **The Insult psych**: \"I will call a referee before a single point is
 played, to make sure you know everyone thinks you are a cheater.\"
-Variation: \"I didn\'t see the butt of the racquet, so you have to spin
+Variation: \"I didn't see the butt of the racquet, so you have to spin
 it again, as I think you are lying about who won the toss.\"
 
 **Anal Retentive psych**: \"Will you take your towel down off the fence?
 It is bothering me from 100 feet away. Will you move your bag one foot
 closer to the bench, as I may run into it from the other side of the
 net?\" \"Will you pick up the ball that is resting in the bottom of the
-net, as it\'s non- movingness is distracting me.\" \"You are foot
+net, as it's non- movingness is distracting me.\" \"You are foot
 faulting by 1/2\", and I will call it, 80 feet away, while still making
 my return.\"
 
@@ -195,7 +190,7 @@ talk you until you cross over to my side of the net and punch me out.\"
 pro father, have the best equipment, the best form, the most power, the
 best string, the prettiest face, the best abs, the hottest girl friend,
 and the coolest car. You on the other hand are a pathetic, ugly loser.
-You can\'t afford to buy my hair spray.\"
+You can't afford to buy my hair spray.\"
 
 Any of those sound familiar?
 
@@ -215,14 +210,13 @@ motorcycle capable of very high speeds.
 
 ![A picture containing bicycle, red, microphone Description
 automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image6.jpg){width="4.62238845144357in"
-height="2.4328357392825897in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image6.jpg)
 
 **Thermo Tabs: finally something that helped with the cramping.**
 
 Like many \"invulnerable,\" young and dumb guys, I made few attempts to
-rehab or prevent injuries. It\'s always easier to prevent an injury,
-than it is to rehab one, but I didn\'t know that yet....
+rehab or prevent injuries. It's always easier to prevent an injury,
+than it is to rehab one, but I didn't know that yet....
 
 Beyond injuries, the even bigger problem I had was a bad tendency to
 cramp. In the class tournaments, it was commonplace if you were winning
@@ -245,15 +239,14 @@ lbs, stick in hand. That was enough to set me back until this year.
 
 ![A picture containing tennis, sport, athletic game, player Description
 automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image7.webp)
 
-**Delpo\'s forehand on Tennisplayer: inspiration.**
+**Delpo's forehand on Tennisplayer: inspiration.**
 
 Why did I come back again? It was inspiration. I got the bug again after
 gong online and visting Tennisplayer.net. I read virtually every article
 on the site. I studied video clips of Sampras serving. I studied
-Delpo\'s forehand. I decided to play tournaments again.
+Delpo's forehand. I decided to play tournaments again.
 
 **Preparation**
 
@@ -272,23 +265,22 @@ Run along now, you puny 3.5 liar.\"
 What I really needed was a local court scene with a hot bed of good
 players who wanted to work and drill and help me get back into combat
 shape. I tried Davies Stadium in Oakland, as there is a USTA 4.5-5.0
-team there. They shunned me as if I wasn\'t good enough to hit with
+team there. They shunned me as if I wasn't good enough to hit with
 them.
 
-I then tried Alameda\'s Washington Park. They only wanted to play
+I then tried Alameda's Washington Park. They only wanted to play
 4.0-4.5 doubles. I heard one player complain, \"Geoff hits too many
 winners. No one wants to play with him.\"
 
 I tried the storied Berkeley Tennis Club. Strange, they wanted me to
 become a member. But I decided to pass on the \$7,000 initiation fee and
-monthly dues. Beyond the cost barrier, I wasn\'t sure I could find three
-members to sponsor me, willing to hear me grunt loudly every day. It\'s
+monthly dues. Beyond the cost barrier, I wasn't sure I could find three
+members to sponsor me, willing to hear me grunt loudly every day. It's
 kind of a no grunting place.
 
 ![A couple of men stand near each other holding tennis rackets
 Description automatically generated with medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image8.jpg){width="3.701492782152231in"
-height="2.3689555993000875in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image8.jpg)
 
 **My friend and practice partner Josh Om and myself at San Pablo Park in
 Berkeley.**
@@ -317,11 +309,11 @@ I also had to admit the days were long past\--20 years and 50 pounds
 past\-- when I notched wins over some of the best 5.0 and even Open
 level players using speed and fighting spirit.
 
-I\'m in my 50s, now, and I refuse stop eating good food, drinking good
-wine, and good sake. This means I can\'t (or at least won\'t) go below
-220 lbs. It\'s like carrying a 50 lb. back pack into the Iraqi desert,
+I'm in my 50s, now, and I refuse stop eating good food, drinking good
+wine, and good sake. This means I can't (or at least won't) go below
+220 lbs. It's like carrying a 50 lb. back pack into the Iraqi desert,
 and trying to run down speedy little insurgents who are gunning for you.
-The insurgents are not carrying 50 lb. packs. (They also aren\'t
+The insurgents are not carrying 50 lb. packs. (They also aren't
 drinking too much wine or eating too well.) They carry AK47 and
 replacement mag clips.
 
@@ -338,11 +330,11 @@ I tried fluid recovery powder. ([Click
 Here](http://www.weightloss-hq.biz/recovery-drinks-and-bars/fluid-recovery-drink-review.html)).
 I also found that chocolate milk, has the same portions of
 carbohydrate/protein 4/1 that a lot of the expensive drinks have, as a
-recovery drink, but it\'s a lot cheaper.
+recovery drink, but it's a lot cheaper.
 
 **Injuries**
 
-It\'s always easier to prevent one than to heal one. So, I stretch,
+It's always easier to prevent one than to heal one. So, I stretch,
 putting my legs and lower back into extreme flexion, in the evening,
 like Federer does. I bend over and I tense my abdomen, near the navel,
 and then the perineum, alternatively, to \"shove\" and then to \"suck\"
@@ -360,10 +352,9 @@ various internet message boards, since it no longer easily accessible
 from Head.
 
 ![A picture containing text, plane Description automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image9.jpg){width="2.861877734033246in"
-height="1.6121905074365703in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image9.jpg)
 
-**See the magic identification code on the frame? That\'s PT57A.**
+**See the magic identification code on the frame? That's PT57A.**
 
 Soderling, Glubis, and Wawrinka, are examples of pro players that use
 the PT57A, either that or the E version which is slightly stiffer. Very
@@ -373,7 +364,7 @@ injuries caused by stiff sticks.
 I leaded them up from 320g to 360g for more plow through. Whenever I
 tried that with the Babs, I got huge arm/shoulder/elbow pain. I also
 gave up on Luxilon big banger original rough, a piano wire like string,
-reminiscent of my original racquet\'s string\--actual piano wire. After
+reminiscent of my original racquet's string\--actual piano wire. After
 trying many hundreds of hybrids, and strings, I switched to Global Gut,
 \$10/set, hybrid with Alu Power Lux.
 
@@ -385,14 +376,13 @@ the flexy nature, and increased confidence at high swing speed.
 I learned to use New Balance shoes, due to the fact they are the only
 shoe that fits my Neanderthal 4E flat foot. Thorlo tennis socks, doubled
 up, to provide more cushion on the oft injured foot pads, and a super
-powered running shoe insert. Sunscreen up to 55 spf, as I\'ve already
+powered running shoe insert. Sunscreen up to 55 spf, as I've already
 had skin cancer on my face. I also use a large towel, which I keep on
 the back fence, to take time in between points, and recover, and wipe
 off blinding sweat. (Bugs the crap out of the young dumb guys who want
 to rush you.)
 
-![](media_winning-a-4-5-tournament-after-the-age-of-50/media/image10.jpg){width="4.104477252843394in"
-height="3.447761373578303in"}
+![](media_winning-a-4-5-tournament-after-the-age-of-50/media/image10.jpg)
 
 **Global Gut in a hybrid with Alu Power Lux, glowing in the spring
 light.**
@@ -401,7 +391,7 @@ light.**
 
 Most of the 4.5 guys, develop consistency as their main weapon. They may
 be able to hit a few forehands topspin winners, or a few aces, or knock
-off a volley here and there, but most don\'t have the power to approach
+off a volley here and there, but most don't have the power to approach
 and blast off both sides. Speed and consistency wins the tournaments.
 
 But with my speed gone, and my long history of injuries, my tactics now
@@ -421,15 +411,14 @@ it, or punch it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image11.webp)
 
 **Studying Sampras was the key to improving my second serve.**
 
-I also needed to be able to probe and hunt for weaknesses, in people\'s
+I also needed to be able to probe and hunt for weaknesses, in people's
 games. Everybody has some. So I learned to change my serve position on
 the line, hunting for a weak return. Sometimes I hit the slice wide to
-the forehand in the deuce court. Sometimes it\'s the twist to the
+the forehand in the deuce court. Sometimes it's the twist to the
 backhand in the ad side. I change the pace and spin and placements not
 only of my serve but also my ground game.
 
@@ -440,7 +429,7 @@ matches a day, carrying 50 lbs. of extra weight.
 
 **Loss of Condition**
 
-It\'s not a secret that it\'s harder to lose and maintain weight when
+It's not a secret that it's harder to lose and maintain weight when
 you get older. My biggest problem was being unwilling to stop eating
 well and drinking well. My one pleasure in life\--eating like a medieval
 king. (And I never use a fork.)
@@ -456,8 +445,7 @@ illegal. I believe it causes lots of overuse injuries. Directors have
 only so much time/schedule/courts and usually are forced to do this.
 
 ![A person holding a tennis racket Description automatically
-generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image12.webp)
 
 **More winning volleys at the net, before the grinders could wear me
 down.**
@@ -467,19 +455,19 @@ pulverized, with horrible cramping, sore muscles, ripping and searing
 physical pain. I move too fast, try too hard, pump too much blood, for
 my own good. But until a lawyer or two gets hurt playing, and they gang
 up on the directors en masse, nothing will change. Any wimpy lawyers out
-there, who hate playing two a day? Call me up. I\'m ready for a class
-action suit. \"It\'s all your fault, you damn tournament director. You
+there, who hate playing two a day? Call me up. I'm ready for a class
+action suit. \"It's all your fault, you damn tournament director. You
 made me enter this damn thing.\"
 
 Then there is the nasty summer heat. Burn the skin off your forehead
 heat. Burn your feet heat. Skin cancer heat. Horrible cramping heat. So
-I don\'t play the tournaments anymore that are too far away from the
+I don't play the tournaments anymore that are too far away from the
 California coast where it can be 20 degrees cooler than inland.
 Otherwise, I come back looking like a fat faced lobster, ready for the
 pot. I have to rub off the sweat, and off with it comes the sun's cream.
 
 And then, finally, there are the sandbaggers. These are the guys who
-aren\'t really 4.5 level, but are playing for easy matches and trophies.
+aren't really 4.5 level, but are playing for easy matches and trophies.
 How do you deal with a guy playing down? The truth is many guys who win
 tournaments are playing down. You are going to run into them sooner or
 later.
@@ -501,8 +489,7 @@ again, playing three matches in 24 hours.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image13.webp)
 
 **In the final I jumped on short backhands.**
 
@@ -521,7 +508,7 @@ better serves, hit better returns, move faster.\" I went to super fast
 feet mode, and fire in the eyes on the return.
 
 I broke back. Held. Broke again, Held, and Held again for a 6\--4 set.
-The guy said, \"Shit. Now it\'s split.\" I asked for new balls, and the
+The guy said, \"Shit. Now it's split.\" I asked for new balls, and the
 director was nice enough to give us three new ones.
 
 I took a bathroom break, came out and immediately broke. Got broken
@@ -532,8 +519,7 @@ in the third, due I think to the pressure I had put on his serve.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image14.webp)
 
 **A critical adjustment\--looping deep to the backhand.**
 
@@ -566,19 +552,18 @@ and determined opponent.
 
 ![Train tracks going through a tunnel Description automatically
 generated with medium
-confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image15.jpg){width="5.134875328083989in"
-height="2.798507217847769in"}
+confidence](media_winning-a-4-5-tournament-after-the-age-of-50/media/image15.jpg)
 
 **40 years later the tunnel by the courts is just the same.**
 
-In the end, haven\'t we all felt a little like fat Eddy, stumbling along
+In the end, haven't we all felt a little like fat Eddy, stumbling along
 on the oil stained gravel bed by the old railroad tracks near the tunnel
 with the creosote covered ties, our pudgy dominant hand clutching the
 red ladder, clutching victory? Only to feel our dominant hand slipping,
 our legs rotating under the weight of defeat? A little bit of self
 belief, cut away with each loss.
 
-The train rolled over his right leg. Blood soaked blue jeans. Eddy\'s
+The train rolled over his right leg. Blood soaked blue jeans. Eddy's
 leg hung by a sliver. My stomach turned nauseous; the blood rushed out
 of my head; the world went dark. I stumbled off to the right side of the
 gravel bed and collapsed next to the tennis courts. Tears. My hand did
@@ -586,8 +571,7 @@ not slip on the red ladder.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                                                        Geoff Williams grew up playing tennis in his
-  generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image16.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                                                  first and only junior tournament at age 11. Over
+  generated](media_winning-a-4-5-tournament-after-the-age-of-50/media/image16.jpeg)                                                                                                                                                                                  first and only junior tournament at age 11. Over
                                                                                                                                                                                                        the years he went on to become a fixture on the
                                                                                                                                                                                                        Northern California NTRP tournament scene,
                                                                                                                                                                                                        winning numerous titles at both the 4.5 and 5.0

@@ -5,7 +5,7 @@ Your Forehand and the Modern Forehand**
 
 # The Forward Swing Hand and Arm Extension
 
-# This month we\'ll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We\'ll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
+# This month we'll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We'll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
 
 # ![](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension/media/image1.png)
 
@@ -13,8 +13,7 @@ Your Forehand and the Modern Forehand**
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-extension/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -9,7 +9,7 @@
 Now that readiness, mechanics, and footwork have been discussed (see
 [part
 one](The%20Volley%20Part%201%20-%20Are%20You%20Really%20Ready.docx) and
-[part two](The%20Volley%20Part%202%20-%20Private%20lessons.docx)), it\'s
+[part two](The%20Volley%20Part%202%20-%20Private%20lessons.docx)), it's
 on to the various types of volleys and their tactical considerations.
 The fact is, there really is no such thing as \"the\" volley. There are
 a myriad of situations: high balls, low balls, wide volleys, half
@@ -21,15 +21,14 @@ primer on what you need to volley effectively in match play.
 ### The High Volley
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-3-types-and-tactics/media/image1.webp){width="2.8333333333333335in"
-height="2.125in"}
+generated](media_the-volley-part-3-types-and-tactics/media/image1.webp)
 
 **Play aggressively on the \"ideal\" volley, but maintain solid
 mechanics.**
 
-Let\'s start with the high volley. **[[The volley we all love to play is
+Let's start with the high volley. **[[The volley we all love to play is
 the \"ideal\" high volley. This is a ball above the net, from mid chest
-to just above shoulder height]{.underline}]{.mark}**. Assuming you\'re
+to just above shoulder height]{.underline}]{.mark}**. Assuming you're
 somewhere in the front two-thirds of the service box, it provides you
 with the opportunity to play aggressively.
 
@@ -42,16 +41,15 @@ mechanics.]{.underline}]{.mark}**
 
 Too often this volley is there for the taking, but for lack of moving
 forward, the ball winds up dropping below the net where you no longer
-have the upper hand. Once this happens, don\'t make the mistake of
+have the upper hand. Once this happens, don't make the mistake of
 trying to play an aggressive shot as a means of making up for your blown
 opportunity. It has now become a low volley and should be played
 accordingly.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-3-types-and-tactics/media/image2.webp){width="2.8229166666666665in"
-height="2.4479166666666665in"}
+generated](media_the-volley-part-3-types-and-tactics/media/image2.webp)
 
-**Don\'t fall for the \"sucker\" ball. Volley firmly outward and go for
+**Don't fall for the \"sucker\" ball. Volley firmly outward and go for
 depth.**
 
 ### The Sucker Ball
@@ -80,32 +78,31 @@ going out (unless it has very heavy topspin), so take a good look before
 you strike.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-3-types-and-tactics/media/image3.webp){width="2.8229166666666665in"
-height="2.40625in"}
+generated](media_the-volley-part-3-types-and-tactics/media/image3.webp)
 
 **A wide base and good knee bend take your shoulders and head closer to
 the ball.**
 
 ### The Low Volley
 
-Because it\'s hit below the net, the low volley is more of a defensive
-or set up shot. **[[If you\'re making this shot moving towards the net
-but you\'re in the back third of the service box, it\'s best to try and
+Because it's hit below the net, the low volley is more of a defensive
+or set up shot. **[[If you're making this shot moving towards the net
+but you're in the back third of the service box, it's best to try and
 hit this deep and either down the line or down the middle, before
 continuing to move forward.]{.mark}]{.underline}** If the incoming ball
 has a lot of pace you can borrow that pace by holding the racquet firmly
 and letting the ball bounce off your strings. If it lacks pace be sure
 to accelerate the racquet through the volley.
 
-**[[Practicing the low volley when you\'re closer to the net is
+**[[Practicing the low volley when you're closer to the net is
 essential because the position of the racquet face is critical. Ideally,
-it\'s open just enough that the ball stays down after it clears the net.
+it's open just enough that the ball stays down after it clears the net.
 If the racquet face is too open, the ball can sit up for a passing
 shot.]{.underline}]{.mark}**
 
-More often than not the problem here is that players simply don\'t get
+More often than not the problem here is that players simply don't get
 low enough to avoid some sort of racquet compensation, resulting in an
-error or a weak shot. It\'s what I call the \"giraffe at the watering
+error or a weak shot. It's what I call the \"giraffe at the watering
 hole syndrome,\" where bending at the waist or not bending at all is the
 order of the day.
 
@@ -121,24 +118,23 @@ your back foot on its side or dragging the top of your
 shoe.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-3-types-and-tactics/media/image4.webp){width="2.78125in"
-height="2.46875in"}
+generated](media_the-volley-part-3-types-and-tactics/media/image4.webp)
 
 **For the drop volley, imagine catching an egg.**
 
 ### Drop Volley
 
 The drop volley can be a deadly shot on low volleys and in other
-situations, as long as it\'s not overdone. There\'s almost something
-narcotic about the drop volley. But we\'re not all John McEnroe or Pete
-Sampras, so you have to be selective when it comes to this shot. I\'ve
+situations, as long as it's not overdone. There's almost something
+narcotic about the drop volley. But we're not all John McEnroe or Pete
+Sampras, so you have to be selective when it comes to this shot. I've
 seen players make one sensational drop volley and then proceed to miss
-the next five trying to duplicate it. Then there\'s the player who\'ll
+the next five trying to duplicate it. Then there's the player who'll
 miss the first five in a row trying to prove he can actually do it.
 
 One of the real crowd pleasers in pro matches is the angled crosscourt
 drop volley off a low ball that just dies after it hits. (One of the
-advantages here, is that it\'s being hit over the lowest part of the
+advantages here, is that it's being hit over the lowest part of the
 net). Of course, the reverse side of this is when it sits up too long
 and an alert, speedy player races in and rips a passing shot. You need
 to try and keep this shot relatively low to the net or this will often
@@ -150,15 +146,14 @@ court, or is obviously quite slow.]{.mark}]{.underline}**
 
 Hitting a drop volley involves decelerating the racquet head at impact.
 Imagine someone tossing you an egg or a water balloon in which you pull
-back a bit to ease the impact of the catch. That\'s really what you\'re
+back a bit to ease the impact of the catch. That's really what you're
 doing on a drop volley, \"catching\" the ball. **[[Generally, a little
 cupping of the racquet face accompanies this \"catch\", providing enough
 backspin to brake the ball even more.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-volley-part-3-types-and-tactics/media/image5.webp){width="2.8645833333333335in"
-height="2.3229166666666665in"}
+confidence](media_the-volley-part-3-types-and-tactics/media/image5.webp)
 
 **Use a crossover step and think bout angling your wide volley**
 
@@ -166,41 +161,40 @@ height="2.3229166666666665in"}
 
 The wide volley requires you to stretch your arm out. You may often find
 yourself without the supportive benefit of a laid back wrist. Remember
-Boris Becker\'s exciting wide volley lunges at Wimbledon? Those were
+Boris Becker's exciting wide volley lunges at Wimbledon? Those were
 real emergencies and the fact that he had grass to fall on likely
 enhanced his ability to pull them off.
 
 When you have very little time to react and have to take a lunge step,
-your legs won\'t be able to help you much, if at all, in accelerating
+your legs won't be able to help you much, if at all, in accelerating
 your volley. At the same time, your arm and wrist will virtually be in a
 straight line, so your shoulder will have to be the deciding factor in
 controlling and accelerating the shot.
 
 If possible, make your lunge with a crossover step, because your reach
-will be longer, your balance will be better, and you\'ll be able to
-recover faster. When you\'re hitting the wide volley from this position,
+will be longer, your balance will be better, and you'll be able to
+recover faster. When you're hitting the wide volley from this position,
 you can think more about angling it. This is one of the few instances
 where the head of the racquet will actually be ahead of the wrist.
 
 Speaking of the angled volley, whether it is wide or not, how many times
 have you gone to angle the ball into a mile of open court and wound up
-hitting it into the alley or beyond? It\'s painful isn\'t it? In your
+hitting it into the alley or beyond? It's painful isn't it? In your
 haste to take advantage of a golden opportunity, you wind up overdoing
 it.
 
 **[[The main thing to remember here is that there is a MILE of open
 court. Most of the time, all you have to do is \"bump\" the ball over
 there, leaving a lot more margin for error.]{.underline}]{.mark}** On
-rare occasions, where you\'re playing someone with Lleyton Hewitt type
+rare occasions, where you're playing someone with Lleyton Hewitt type
 speed, it may be necessary to hit the volley more crisply. Spend the
 time practicing this shot because it can be devastating when you miss it
 in a match.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-volley-part-3-types-and-tactics/media/image6.webp){width="2.7708333333333335in"
-height="2.2083333333333335in"}
+confidence](media_the-volley-part-3-types-and-tactics/media/image6.webp)
 
-**Recover after every volley and never assume the ball won\'t come
+**Recover after every volley and never assume the ball won't come
 back!**
 
 ### Recovery
@@ -208,18 +202,17 @@ back!**
 **[[One last thing, and that is the need to recover from volley to
 volley. This is very important!]{.underline}]{.mark}**
 
-Never assume the ball won\'t come back, even in the most offensive
-situations, particularly if you\'ve played a low volley or a wide
-volley. Don\'t languish! Recover your form and continue to be proactive.
-Remember, you\'re closer to the action and it\'s important to keep the
+Never assume the ball won't come back, even in the most offensive
+situations, particularly if you've played a low volley or a wide
+volley. Don't languish! Recover your form and continue to be proactive.
+Remember, you're closer to the action and it's important to keep the
 pressure on the player trying to pass.
 
 Next, half volleys, swinging volleys, the lob volley, and dealing with
 those shots right at your body.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-3-types-and-tactics/media/image7.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-volley-part-3-types-and-tactics/media/image7.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -233,7 +226,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

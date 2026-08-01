@@ -3,8 +3,7 @@
 ### Bill Mountford
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image1.webp)
 
 **Volley techniques have changed in the \"modern\" game.**
 
@@ -19,7 +18,7 @@ is that when players do get to the net, or near to it anyway, the shots
 they play have evolved. This article will explore those changes and the
 modern techniques that are necessary for success.
 
-Why aren\'t players rushing the net more regularly? Certainly the
+Why aren't players rushing the net more regularly? Certainly the
 returns of serves at the professional level have taken a quantum leap
 forward in the past two decades. It used to be that servers, even at the
 top of the sport, would aim most deliveries toward the backhand and
@@ -27,8 +26,7 @@ rarely would the return get blistered past them. This is positively no
 longer the case.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-modern-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image2.webp)
 
 **Aggressive returns have blunted serve and volley play.**
 
@@ -58,8 +56,7 @@ sharply angled shots with considerable pace.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-modern-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image3.webp)
 
 **Are the new strings part of the explanation for the spins and
 angles?**
@@ -69,7 +66,7 @@ Roger Federer and Pete Sampras that can be explained by the change in
 string. The players use similar racket frames, but Federer is able to
 create more angles off the ground than Sampras ever did. Volleying, or
 trying to volley, against these fierce, dipping balls is particularly
-challenging. Yes, as some of the articles on Federer\'s forehand have
+challenging. Yes, as some of the articles on Federer's forehand have
 explored, he has tremendous variety in the way he rotates the hand and
 arm, and this is partially responsible for his ability to hit phenomenal
 angles and spin. But is it possible that the bite and the resulting spin
@@ -81,8 +78,7 @@ volley with polyester strings. While the polyester strings help on the
 serves, returns, and groundstrokes, they are not advantageous for the
 volleyer.
 
-![](media_the-modern-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-modern-volley/media/image4.webp)
 
 **The \"Big Game\" was a simple idea\--get to net as quickly as
 possible.**
@@ -95,10 +91,10 @@ return). Keep coming forward to volley while daring your opponent to
 attempt risky passing shots or lobs.
 
 This style worked for players at all levels for decades. I was lucky
-enough to speak with Kramer\'s old doubles partner Ted Schroeder about
+enough to speak with Kramer's old doubles partner Ted Schroeder about
 this, before he sadly passed away a few months ago. I asked Ted how he
 would have played on clay against the best baseliners of this current
-era. The answer wasn\'t surprising. A former Wimbledon and US Nationals
+era. The answer wasn't surprising. A former Wimbledon and US Nationals
 champion, the feisty Schroeder explained that he would rally crosscourt
 until he earned a short ball and then approach down-the-line and then
 follow that with a winning volley. \"Simple as can be,\" Schroeder said.
@@ -114,42 +110,40 @@ in that effort can be a tall order. Is it worth it? Yes and I think the
 reasons are compelling.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-modern-volley/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image5.webp)
 
 **For Federer a few points at the net helped him beat Nadal.**
 
 With the ballistic nature of modern groundstrokes, knowing how to seize
 the initiative by moving forward after hurting an opponent is about more
-than just having a complete game. It\'s often the difference in top
+than just having a complete game. It's often the difference in top
 professional matches. Championship matches are often decided by ten
 points or less. Even when the actual number of total points decided at
 the net is relatively few, it can surely tip the balance.
 
-People ask why Federer doesn\'t volley more, but take a look at what
+People ask why Federer doesn't volley more, but take a look at what
 happens when he does. In the Wimbledon final versus Nadal, Federer won
 133 points. Nadal won 113 points. Of that 20 point difference,
-Federer\'s positive margin on net points accounted for 13, or 65% of his
+Federer's positive margin on net points accounted for 13, or 65% of his
 winning margin. It was similar in Shanghai: Federer won 75 points, Nadal
-65. Of those 10 points, Federer\'s margin at the net accounted for
+65. Of those 10 points, Federer's margin at the net accounted for
 8\--this time 80% of the difference in the match.
 
-Is the real point that Federer doesn\'t go to the net that much? Or is
+Is the real point that Federer doesn't go to the net that much? Or is
 it that Federer knows when he can go to the net on opportunities that
 make the difference in wining the biggest titles in tennis?
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image6.webp)
 
 **How hard would you work if you knew your volley could be the
 difference?**
 
-You don\'t just get lucky and somehow execute a huge swinging forehand
+You don't just get lucky and somehow execute a huge swinging forehand
 volley, backed up by a stretch backhand volley angled winner, the way
 Federer did when Nadal was serving at 4-5 in the second set in Shanghai.
 The ability to make those kinds of shots at crucial moments in big
-matches can be traced back to the fundamentals of a player\'s
+matches can be traced back to the fundamentals of a player's
 development as a junior.
 
 When you see one or two brilliant volleys, what you are actually seeing
@@ -166,7 +160,7 @@ were going to play 90% of all your points from the baseline? Would it
 still be worth it? Maybe more juniors should ask themselves that
 question.
 
-Even if few players will ever match Federer\'s grace at the net, it does
+Even if few players will ever match Federer's grace at the net, it does
 not require brilliant technique to block a ball into the open court
 after you have worked your opponent six steps out of court with your
 huge serve and or groundstrokes. Andy Roddick has proved this at times,
@@ -174,19 +168,18 @@ and there is a reason that he continues to work on his volleys and
 continues to use them more.
 
 ![A picture containing sport, athletic game Description automatically
-generated](media_the-modern-volley/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image7.webp)
 
-**If you open the court far enough, it\'s easy to hit volley winners.**
+**If you open the court far enough, it's easy to hit volley winners.**
 
 At a more prosaic level, what if your aggressive baseline game is just
-not as good as your opponent\'s aggressive baseline game? Then either
+not as good as your opponent's aggressive baseline game? Then either
 you lose, or you need another option to help you win points and, perhaps
 more importantly, disrupt the natural rhythm of your confident opponent.
 Playing some good volleys, or even just the process of rushing the net
 and forcing your opponent to pass, can often accomplish this. Again,
 most players never find out if this option will work for them because
-they don\'t try it very often.
+they don't try it very often.
 
 Tactically speaking, it makes sense to occasionally serve and volley
 against players who return powerful (first) serves with a block return
@@ -197,7 +190,7 @@ returner is not expecting to see you there.
 
 Finally, As Bobby Bernstein noted in an article on the pro return,
 players are playing returns of second serves (which are usually high
-kickers, in the men\'s game anyway) from well behind the baseline. A few
+kickers, in the men's game anyway) from well behind the baseline. A few
 serve and volley forays behind the second serve will force your opponent
 to become much more precise with his return. If the opponent is ten feet
 behind the baseline in the ad court, all it takes is a moderately
@@ -205,8 +198,7 @@ competent volley to win the point.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-modern-volley/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image8.webp)
 
 **What if you actually want to play doubles?**
 
@@ -232,8 +224,7 @@ doubles. Many of these players, no matter how talented, were unable to
 succeed financially in the insanely competitive world of tour singles.
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image9.webp)
 
 **Many pro volleys can still be hit with \"classic\" technique.**
 
@@ -254,14 +245,13 @@ moving forward.
 
 **Classic, Block, and Swing**
 
-I\'ll talk about a few more less common variations below, but let\'s
+I'll talk about a few more less common variations below, but let's
 start by looking at the three most common modern volleys. What I call
 the Classic Volley, the Block Volley, and the Swing Volley.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-modern-volley/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image10.webp)
 
 **A block volley can deal with the speed of the modern game.**
 
@@ -291,8 +281,7 @@ little. Bob and Mike Bryan, the best doubles players in the world, take
 very lengthy swipes at slow moving balls.
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image11.webp)
 
 **When the ball is slower and higher, expand the backswing.**
 
@@ -315,8 +304,7 @@ hit many of them with a \"weaker\" Continental grip (perilously close to
 an Eastern forehand grip) for some backhand volleys.
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image12.webp)
 
 **Rafter and Becker: two champions with slightly unconventional grips**
 
@@ -325,7 +313,7 @@ Interestingly, both of these big, strong, athletic players used size 4
 racquet handle \"wrong\" but hit the ball plenty \"right.\"
 
 This was a harbinger of the future because handle sizes are smaller than
-ever these days. Rafael Nadal, a muscular 6\' 2\" athlete, plays with a
+ever these days. Rafael Nadal, a muscular 6' 2\" athlete, plays with a
 4 1/4\" grip. For perspective, Chrissie Evert played with a 4 5/8\" grip
 throughout her career. This is relevant because with a smaller handle
 size it is easier to hold the racquet \"incorrectly\" yet still play
@@ -345,8 +333,7 @@ exactly that. The best way for any player to find their own brand of the
 practice.
 
 ![A person playing tennis Description automatically
-generated](media_the-modern-volley/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image13.webp)
 
 **The swinging mid court volley is an established shot on the tour.**
 
@@ -375,8 +362,7 @@ thrive when they understand how/when to play this shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-modern-volley/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image14.webp)
 
 **The modern game may actually offer more drop volley opportunities.**
 
@@ -396,13 +382,12 @@ into open space (in singles) or softly at the feet of other players
 positioned at net (in doubles). It is a \"hands\" shot, and with
 practice a player will know when and how to control the length of this
 soft shot. It is not a drop volley, nor is it a block volley. Often, a
-player\'s feet will be moving independently of the hands when attempting
+player's feet will be moving independently of the hands when attempting
 this shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-modern-volley/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image15.webp)
 
 **The Flick Volley, perfected by Pete Sampras.**
 
@@ -415,7 +400,7 @@ and try to simply block it back. Instead, players might learn to take a
 flat swipe at the ball, creating pace off this shot when nothing more
 than a defensive shot is expected. The effect can be startling. It robs
 the opponent of time. Consider that simply blocking the ball back is
-usually not going to get it done in today\'s game, so a more aggressive
+usually not going to get it done in today's game, so a more aggressive
 mindset really helps. You are at net to win the point abruptly, and this
 unconventional volley will help in that regard.
 
@@ -427,14 +412,13 @@ of play-based opportunities to work on their shots. It should be
 experiential.
 
 ![A picture containing player, sport Description automatically
-generated](media_the-modern-volley/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-modern-volley/media/image16.webp)
 
 **Going to the net at every opportunity: a path to mastery?**
 
 I heard a story about Rod Laver recently that applies directly to this
 developmental concept. As a young player over a half-century ago,
-Laver\'s volleys were considered suspect. He was challenged by a coach
+Laver's volleys were considered suspect. He was challenged by a coach
 to rush the net behind every serve and as often as possible on return
 games. The Rocket followed this advice, although by doing so he lost
 dozens of practice sets to inferior competition. In the process,
@@ -445,7 +429,7 @@ crafty volleyer, but he needed to get up there and \"give it a go\" in
 thousands of \"live point\" situations before he eventually got it.
 
 This task may be all the more challenging for the modern player, but the
-process is similar. Rod Laver\'s willingness to develop his forecourt
+process is similar. Rod Laver's willingness to develop his forecourt
 game as a young player is an extreme example. It is hard to imagine a
 young player today choosing to rush the net at every opportunity so that
 he masters the nuances of shots that he will rarely play. In some
@@ -456,8 +440,7 @@ need to put players in position to develop confidence and belief.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-modern-volley/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-modern-volley/media/image17.webp)
 
 **Nadal: the intention to rush the net and become number One.**
 
@@ -482,10 +465,9 @@ level.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing tennis, racket, person, sport Description automatically                                                                                               Bill Mountford has been the Director of Tennis at the
-  generated](media_the-modern-volley/media/image18.jpeg){width="1.3888888888888888in"   USTA Billie Jean King National Tennis Center since
-  height="2.1875in"}                                                                                                                                                           2001. He is a graduate of the USA Tennis High
+  generated](media_the-modern-volley/media/image18.jpeg)                                                                                                                                                           2001. He is a graduate of the USA Tennis High
                                                                                                                                                                                Performance Coaching Program and is a \"master
-                                                                                                                                                                               trainer\" for the USTA\'s Recreation Coaches Workshop
+                                                                                                                                                                               trainer\" for the USTA's Recreation Coaches Workshop
                                                                                                                                                                                initiative. His articles have been published in
                                                                                                                                                                                several industry magazines. He writes the popular
                                                                                                                                                                                weekly \"Ask Bill\" column for the USTA.com. Click

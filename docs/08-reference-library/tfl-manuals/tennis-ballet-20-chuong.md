@@ -27,7 +27,7 @@ tennis --- dù đã tập luyện hàng năm --- vẫn trông hối hả, mất 
 bằng, và đến bóng trễ? Câu trả lời, hóa ra, nằm không phải ở tốc độ hay
 thể lực, mà ở cách họ hiểu và thực hành di chuyển chân.
 
-Tôi gọi hệ thống trong cuốn sách này là \'Tennis Ballet\' --- không phải
+Tôi gọi hệ thống trong cuốn sách này là 'Tennis Ballet' --- không phải
 vì tennis giống múa ba lê, mà vì cả hai nghệ thuật chia sẻ cùng một
 triết lý: hiệu quả tuyệt đối, cân bằng trong chuyển động, và các bước
 chuyển tiếp mượt mà đến mức trông như vô hình.
@@ -39,7 +39,7 @@ một nền tảng vững chắc mà bạn có thể mang ra sân và áp dụng
 
 Dù bạn là người mới bắt đầu hay đã có nhiều năm kinh nghiệm, tôi hứa
 rằng sau khi đọc và thực hành cuốn sách này, bạn sẽ không bao giờ nhìn
-tennis theo cách cũ nữa. Bạn sẽ bắt đầu \'đọc\' sân đấu khác đi, di
+tennis theo cách cũ nữa. Bạn sẽ bắt đầu 'đọc' sân đấu khác đi, di
 chuyển khác đi, và --- quan trọng nhất --- bạn sẽ cảm thấy khác đi khi
 đứng trên sân.
 
@@ -62,8 +62,8 @@ thao của sức mạnh. Đó là khoảnh khắc họ chứng kiến ai đó di
 sân theo một cách khiến mọi thứ trông dễ dàng đến đáng sợ. Không có sự
 hối hả. Không có sự căng thẳng rõ ràng. Chỉ là dòng chảy thuần túy.
 
-Nhận xét phổ biến nhất mà người xem đưa ra về Federer là ông \'trông như
-không cố gắng.\' Đây không phải lời khen về thể lực --- Federer làm việc
+Nhận xét phổ biến nhất mà người xem đưa ra về Federer là ông 'trông như
+không cố gắng.' Đây không phải lời khen về thể lực --- Federer làm việc
 cực kỳ chăm chỉ. Đây là lời nhận xét về hiệu quả di chuyển. Khi mỗi bước
 chân đều có mục đích, khi không có bước nào lãng phí, toàn bộ cơ thể bắt
 đầu di chuyển theo một nhịp điệu tự nhiên và liền mạch.
@@ -77,7 +77,7 @@ mỗi chuyển động.
 **1.2 Ba Nguyên Tắc Cốt Lõi**
 
 Hệ thống Tennis Ballet được xây dựng trên ba nguyên tắc căn bản, mà tôi
-gọi là \'Tam giác Vàng của Di chuyển\':
+gọi là 'Tam giác Vàng của Di chuyển':
 
 - Hiệu quả --- Không có bước nào bị lãng phí. Mỗi chuyển động phục vụ
   một mục đích cụ thể, đưa bạn đến đúng vị trí với ít nỗ lực nhất.
@@ -94,7 +94,7 @@ Khi ba nguyên tắc này hoạt động cùng nhau, điều kỳ diệu xảy r
 hơn mà không cần tập luyện kỹ thuật nhiều hơn. Và bạn phục hồi về vị trí
 tốt hơn mà không cần cố gắng.
 
-**1.3 Sự Khác Biệt Giữa \'Hiểu\' và \'Làm\'**
+**1.3 Sự Khác Biệt Giữa 'Hiểu' và 'Làm'**
 
 Một trong những thách thức lớn nhất trong việc cải thiện di chuyển chân
 là khoảng cách giữa hiểu về mặt trí tuệ và thực hiện được trên sân. Bạn
@@ -142,7 +142,7 @@ split step của bạn không tốt.
 
 Split step là một cú nhảy nhỏ, nhẹ, mà bạn thực hiện ngay trước khi đối
 thủ tiếp xúc với bóng. Nó không phải là cú nhảy cao hay mạnh --- đó là
-một \'bước nhún\' tinh tế, đủ để nâng trọng lượng cơ thể khỏi mặt sân và
+một 'bước nhún' tinh tế, đủ để nâng trọng lượng cơ thể khỏi mặt sân và
 cho phép bạn di chuyển sang bất kỳ hướng nào ngay lập tức khi bóng rời
 vợt đối thủ.
 
@@ -163,13 +163,13 @@ Hãy phân tích từng yếu tố của một split step đúng kỹ thuật:
 - Chiều rộng: Hai chân đáp xuống rộng hơn vai một chút --- đủ để tạo nền
   tảng ổn định nhưng không quá rộng đến mức khó xoay trở.
 
-- Đầu gối: Mềm, hơi khuỵu. Đây là vị trí \'loaded\' --- như lò xo sẵn
+- Đầu gối: Mềm, hơi khuỵu. Đây là vị trí 'loaded' --- như lò xo sẵn
   sàng bật.
 
 **2.3 Tại Sao Thời Điểm Là Tất Cả**
 
 Split step sai thời điểm cũng tệ như không split step. Nếu bạn tiếp đất
-quá sớm, cơ thể bạn đã \'chốt\' vào mặt sân trước khi bạn biết bóng đi
+quá sớm, cơ thể bạn đã 'chốt' vào mặt sân trước khi bạn biết bóng đi
 đâu --- bạn phải phản ứng từ một vị trí hoàn toàn tĩnh. Nếu bạn tiếp đất
 quá muộn, bạn vẫn đang ở trong không khí khi bóng đã bay và mất luôn cơ
 hội phản ứng.
@@ -214,7 +214,7 @@ có vẻ nghiêm khắc, nhưng nó buộc não bạn phải chú ý.
 
 > *\"Nếu bạn đến trễ, mọi thứ khác đã hỏng rồi.\"*
 >
-> **💡 Cue của chương:** *Nói nhẩm \'split\' mỗi lần đối thủ đánh bóng
+> **💡 Cue của chương:** *Nói nhẩm 'split' mỗi lần đối thủ đánh bóng
 > trong 5 buổi tập tiếp theo. Đây là cách đơn giản nhất để xây dựng thói
 > quen.*
 
@@ -231,7 +231,7 @@ là di chuyển hiệu quả về phía đó. Đối với những quả bóng �
 vừa phải --- không quá gần, không quá xa --- chassé step là lựa chọn tốt
 nhất.
 
-Chassé bắt nguồn từ tiếng Pháp có nghĩa là \'đuổi theo.\' Trong ballet,
+Chassé bắt nguồn từ tiếng Pháp có nghĩa là 'đuổi theo.' Trong ballet,
 đây là bước di chuyển ngang cơ bản nhất: bước-cùng-bước theo nhịp điệu
 đều đặn, mượt mà. Trong tennis, nó hoạt động theo cùng một nguyên tắc:
 một chân dẫn, chân kia bắt kịp, rồi lại dẫn tiếp, tạo ra chuyển động
@@ -239,19 +239,19 @@ ngang không bao giờ bắt chéo hai chân.
 
 **3.2 Tại Sao Không Bắt Chéo Chân?**
 
-Câu hỏi phổ biến nhất khi học chassé step là: \'Tại sao không được bắt
-chéo chân? Nó không nhanh hơn sao?\' Câu trả lời nằm ở vật lý học của cơ
+Câu hỏi phổ biến nhất khi học chassé step là: 'Tại sao không được bắt
+chéo chân? Nó không nhanh hơn sao?' Câu trả lời nằm ở vật lý học của cơ
 thể.
 
 Khi bạn bắt chéo chân trong khi di chuyển, bạn tạm thời đặt bản thân vào
 vị trí không thể thay đổi hướng. Hai chân bắt chéo nhau tạo ra một
-\'điểm mù\' --- khoảng thời gian ngắn khi bạn hoàn toàn không thể phản
+'điểm mù' --- khoảng thời gian ngắn khi bạn hoàn toàn không thể phản
 ứng với sự thay đổi hướng của bóng. Đối thủ giỏi biết cách khai thác
 khoảnh khắc đó.
 
 Chassé step giữ chân bạn luôn song song, luôn sẵn sàng. Bất cứ lúc nào
 trong quá trình di chuyển, bạn có thể dừng lại, đổi hướng, hoặc thực
-hiện một cú đánh --- mà không cần \'giải phóng\' bản thân khỏi tư thế
+hiện một cú đánh --- mà không cần 'giải phóng' bản thân khỏi tư thế
 bắt chéo chân.
 
 **3.3 Kỹ Thuật Chi Tiết**
@@ -261,13 +261,13 @@ Phân tích từng yếu tố của một chassé step hoàn hảo:
 - Chân dẫn: Chân về phía hướng bạn di chuyển bước ra trước, tạo khoảng
   cách.
 
-- Chân theo: Chân còn lại nhanh chóng \'bắt kịp\' đến vị trí gần chân
+- Chân theo: Chân còn lại nhanh chóng 'bắt kịp' đến vị trí gần chân
   dẫn, nhưng không vượt qua.
 
 - Khoảng cách: Duy trì khoảng cách giữa hai chân gần bằng vai --- không
   quá hẹp (mất ổn định) và không quá rộng (chậm di chuyển).
 
-- Độ thấp: Hông luôn ở mức thấp. Đừng \'bật\' lên giữa các bước --- di
+- Độ thấp: Hông luôn ở mức thấp. Đừng 'bật' lên giữa các bước --- di
   chuyển theo chiều ngang, không phải chiều dọc.
 
 - Tốc độ: Nhịp điệu đều đặn và có kiểm soát. Nhanh không bằng chính xác.
@@ -284,7 +284,7 @@ Chassé là lựa chọn tốt nhất cho:
 - Di chuyển ở lưới --- khi bạn cần phản ứng nhanh với bóng sang trái
   hoặc phải.
 
-- Khi bạn đã đến gần bóng và chỉ cần \'đặt vị trí cuối cùng\' cho cú
+- Khi bạn đã đến gần bóng và chỉ cần 'đặt vị trí cuối cùng' cho cú
   đánh.
 
 **3.5 Lỗi Phổ Biến**
@@ -296,7 +296,7 @@ Bước quá rộng làm hạ thấp hông không đều và phá vỡ nhịp đ
 hoạt động hiệu quả. Hông phải ở thấp, đầu gối phải khuỵu.
 
 Dừng đột ngột: Chassé là bước di chuyển liên tục. Nếu bạn dừng lại sau
-mỗi bước đôi, bạn đang phá vỡ dòng chảy và tạo ra các \'điểm chết\'
+mỗi bước đôi, bạn đang phá vỡ dòng chảy và tạo ra các 'điểm chết'
 trong di chuyển.
 
 > *\"Trượt nhẹ nhàng, đừng đuổi theo. Bóng không trốn chạy bạn --- bạn
@@ -342,7 +342,7 @@ việc không thể đổi hướng là không đáng kể, vì bạn đã biế
 
 Sau khi bạn đánh bóng ở góc rộng, đây là chuỗi động tác cần thực hiện:
 
-- Bước 1: Kết thúc cú đánh với một chân \'neo\' để không mất thăng bằng.
+- Bước 1: Kết thúc cú đánh với một chân 'neo' để không mất thăng bằng.
 
 - Bước 2: Chân ngoài (chân xa tâm sân) bước chéo sang sau hoặc sang
   trước chân trong.
@@ -372,14 +372,14 @@ Bài tập 2 bóng: Đối tác feed một quả bóng rộng. Bạn đánh, r�
 tức cross-step về trung tâm. Đối tác feed quả tiếp theo sang phía đối
 diện. Đây là bài tập cơ bản nhất để xây dựng phản xạ phục hồi.
 
-Thử thách \'không đứng yên\': Trong 10 điểm liên tiếp, bạn mất điểm tự
+Thử thách 'không đứng yên': Trong 10 điểm liên tiếp, bạn mất điểm tự
 động nếu đứng yên quá 1 giây sau khi đánh bóng. Quy tắc này buộc bạn
 phải di chuyển, ngay cả khi không biết bóng đi đâu.
 
 > *\"Cú đánh của bạn không kết thúc điểm --- sự phục hồi của bạn mới kết
 > thúc điểm.\"*
 >
-> **💡 Cue của chương:** *\'Đừng ngắm nhìn --- hãy phục hồi.\' Sau mỗi
+> **💡 Cue của chương:** *'Đừng ngắm nhìn --- hãy phục hồi.' Sau mỗi
 > cú đánh, hành động đầu tiên của bạn là bước về phía trung tâm sân.*
 
 **CHƯƠNG 5**
@@ -408,8 +408,8 @@ với một vài điều chỉnh cho sân đấu.
 - Đầu gối: Khuỵu, nhưng không quá sâu. Góc khoảng 120-140 độ. Đầu gối
   căn thẳng trên ngón chân --- không gập vào trong.
 
-- Hông: Hạ xuống, không phải ngả người ra sau. Hãy nghĩ về việc \'ngồi\'
-  hơn là \'cúi\'.
+- Hông: Hạ xuống, không phải ngả người ra sau. Hãy nghĩ về việc 'ngồi'
+  hơn là 'cúi'.
 
 - Ngực: Hơi nghiêng về phía trước, không thẳng hoàn toàn và không gập
   xuống. Tạo ra một đường thẳng từ đầu đến gót chân.
@@ -419,13 +419,13 @@ với một vài điều chỉnh cho sân đấu.
 
 **5.3 Tại Sao Tư Thế Thấp Quan Trọng**
 
-Câu hỏi thường gặp: \'Tại sao cần phải đứng thấp? Đứng thẳng không thoải
-mái hơn sao?\' Câu trả lời nằm ở vật lý học cơ bản.
+Câu hỏi thường gặp: 'Tại sao cần phải đứng thấp? Đứng thẳng không thoải
+mái hơn sao?' Câu trả lời nằm ở vật lý học cơ bản.
 
 Khi bạn đứng thẳng, trọng tâm của bạn cao. Để di chuyển nhanh, bạn phải
 hạ thấp trọng tâm trước --- điều này tốn thời gian. Khi bạn đã ở tư thế
 thấp, bạn đã sẵn sàng và chỉ cần bắt đầu di chuyển. Đây là lý do các tay
-vợt nhanh trông \'phản xạ\' tốt --- họ không phản xạ nhanh hơn, họ chỉ
+vợt nhanh trông 'phản xạ' tốt --- họ không phản xạ nhanh hơn, họ chỉ
 không phải mất thời gian hạ thấp người trước khi di chuyển.
 
 Nghiên cứu về sinh kỹ của các tay vợt elite cho thấy họ duy trì trọng
@@ -437,7 +437,7 @@ giây --- đủ để tạo ra sự khác biệt giữa thắng và thua.
 
 Một trong những thách thức lớn nhất là duy trì tư thế thấp khi mệt mỏi.
 Khi cơ đùi bắt đầu mỏi, cơ thể tự nhiên muốn đứng thẳng hơn để giảm tải.
-Đây là khi footwork của bạn bắt đầu \'cao dần lên\' và hiệu quả di
+Đây là khi footwork của bạn bắt đầu 'cao dần lên' và hiệu quả di
 chuyển giảm sút.
 
 Giải pháp không phải là gắng sức nhiều hơn mà là xây dựng sức mạnh cơ
@@ -447,33 +447,33 @@ tập cơ bản mà mọi tay vợt nghiêm túc cần thực hiện thường x
 **5.5 Plié Động vs Plié Tĩnh**
 
 Tư thế sẵn sàng của bạn không phải là một tư thế tĩnh --- đó là một
-trạng thái \'loaded spring\', luôn có sự chuyển động nhỏ. Các tay vợt
+trạng thái 'loaded spring', luôn có sự chuyển động nhỏ. Các tay vợt
 chuyên nghiệp thường thực hiện những chuyển động nhỏ liên tục giữa các
-điểm --- như \'nhún\' nhẹ để duy trì cơ bắp trong trạng thái hoạt động
+điểm --- như 'nhún' nhẹ để duy trì cơ bắp trong trạng thái hoạt động
 và phản xạ nhanh.
 
 Đây là lý do bạn thấy Djokovic luôn chuyển động trên sân, ngay cả khi
 đứng ở baseline chờ giao bóng. Anh ta không đứng yên --- anh ta đang duy
-trì \'plié động\' để cơ thể luôn sẵn sàng.
+trì 'plié động' để cơ thể luôn sẵn sàng.
 
 > *\"Tư thế thấp không phải là sự mệt mỏi --- đó là sức mạnh đang được
 > tích trữ.\"*
 >
-> **💡 Cue của chương:** *Kiểm tra tư thế của bạn giữa các điểm: \'Tôi
-> có đang đứng đủ thấp không?\' Nếu câu trả lời là \'tôi không chắc\',
+> **💡 Cue của chương:** *Kiểm tra tư thế của bạn giữa các điểm: 'Tôi
+> có đang đứng đủ thấp không?' Nếu câu trả lời là 'tôi không chắc',
 > nghĩa là chưa đủ thấp.*
 
 **CHƯƠNG 6**
 
 **Tiếp Đất Nhẹ Nhàng --- Di Chuyển Im Lặng**
 
-*Nghệ thuật \'bay\' trên mặt sân*
+*Nghệ thuật 'bay' trên mặt sân*
 
 **6.1 Âm Thanh Của Footwork**
 
 Có một bài kiểm tra đơn giản mà các huấn luyện viên giỏi thường dùng:
 nhắm mắt lại và nghe người chơi di chuyển. Nếu bạn nghe thấy tiếng
-\'bịch bịch\' nặng nề, đó là người chơi đang di chuyển sai. Nếu bạn hầu
+'bịch bịch' nặng nề, đó là người chơi đang di chuyển sai. Nếu bạn hầu
 như không nghe thấy gì, đó là footwork tốt.
 
 Nguyên tắc này không chỉ là thẩm mỹ. Mỗi lần bạn đặt chân xuống với sự
@@ -485,22 +485,22 @@ lặng hơn --- nó hiệu quả hơn, nhanh hơn, và ít gây thương tích h
 
 Sự khác biệt cốt lõi giữa tiếp đất nặng nề và nhẹ nhàng nằm ở phần chân
 tiếp đất trước. Tiếp đất bằng gót chân (heel strike) tạo ra lực va chạm
-ngay lập tức và không có khả năng \'đệm\' tự nhiên. Tiếp đất bằng ngón
+ngay lập tức và không có khả năng 'đệm' tự nhiên. Tiếp đất bằng ngón
 chân trước (forefoot) cho phép toàn bộ cơ chế đầu gối và mắt cá chân hấp
 thụ lực từ từ.
 
 Trong tennis, bạn không chỉ cần di chuyển --- bạn cần di chuyển và luôn
 sẵn sàng. Tiếp đất forefoot cho phép bạn tiếp tục di chuyển ngay sau khi
-chạm đất, trong khi heel strike \'khóa\' bạn vào vị trí trong một phần
+chạm đất, trong khi heel strike 'khóa' bạn vào vị trí trong một phần
 giây.
 
 **6.3 Cách Tập Tiếp Đất Nhẹ Nhàng**
 
-Bài tập \'Sàn kính\': Tưởng tượng bạn đang di chuyển trên một tấm kính
+Bài tập 'Sàn kính': Tưởng tượng bạn đang di chuyển trên một tấm kính
 mỏng. Mỗi bước chân phải đủ nhẹ để không vỡ kính. Bài tập tưởng tượng
 này thay đổi cách cơ thể tiếp cận việc tiếp đất một cách tự nhiên.
 
-Bài tập \'Di chuyển im lặng\': Cùng đối tác chơi một buổi không cho phép
+Bài tập 'Di chuyển im lặng': Cùng đối tác chơi một buổi không cho phép
 tạo ra âm thanh bước chân. Bạn sẽ ngạc nhiên về tốc độ cải thiện khi có
 quy tắc rõ ràng như vậy.
 
@@ -547,7 +547,7 @@ mà là một đường dài, mượt mà, có kiểm soát.
 
 **7.3 Tập Luyện Cân Bằng Khi Vươn Người**
 
-Bài tập \'Giữ tư thế\': Đối tác feed bóng rộng và khó. Sau khi bạn đánh,
+Bài tập 'Giữ tư thế': Đối tác feed bóng rộng và khó. Sau khi bạn đánh,
 cố gắng giữ nguyên tư thế cuối trong 2 giây. Nếu bạn ngã hoặc mất thăng
 bằng ngay, core của bạn không đủ mạnh hoặc kỹ thuật vươn người chưa
 đúng.
@@ -560,8 +560,8 @@ dàng.
 > *\"Vươn xa mà không mất trung tâm --- đó là điều khó nhất và đẹp nhất
 > trong tennis.\"*
 >
-> **💡 Cue của chương:** *Khi vươn người, hãy nghĩ: \'Cột sống thẳng,
-> core cứng, đầu gối khuỵu.\' Ba yếu tố này giữ bạn đứng vững.*
+> **💡 Cue của chương:** *Khi vươn người, hãy nghĩ: 'Cột sống thẳng,
+> core cứng, đầu gối khuỵu.' Ba yếu tố này giữ bạn đứng vững.*
 
 **CHƯƠNG 8**
 
@@ -612,9 +612,9 @@ Bài tập này xây dựng khả năng đọc bóng mà không áp lực phải
 
 > *\"Đừng phản ứng với bóng --- hãy dự đoán bóng.\"*
 >
-> **💡 Cue của chương:** *Trong mỗi buổi tập, hãy tự hỏi: \'Tôi bắt đầu
-> di chuyển khi nào so với khi bóng rời vợt đối thủ?\' Nếu câu trả lời
-> là \'sau khi\', bạn đang phản ứng, không dự đoán.*
+> **💡 Cue của chương:** *Trong mỗi buổi tập, hãy tự hỏi: 'Tôi bắt đầu
+> di chuyển khi nào so với khi bóng rời vợt đối thủ?' Nếu câu trả lời
+> là 'sau khi', bạn đang phản ứng, không dự đoán.*
 
 **CHƯƠNG 9**
 
@@ -630,7 +630,7 @@ bóng là bước đầu tiên trong một chuỗi di chuyển liên tục mà k
 thuộc vào những gì bạn làm ngay sau khi bóng rời vợt.
 
 Quy tắc vàng của giao bóng: Phục vụ → tiếp đất → split → di chuyển. Nếu
-bạn dừng lại sau khi tiếp đất để \'ngắm nhìn\' cú giao của mình, bạn
+bạn dừng lại sau khi tiếp đất để 'ngắm nhìn' cú giao của mình, bạn
 đang tặng cho đối thủ một phần giây quý giá.
 
 **9.2 Ba Pattern Giao Bóng và Hệ Quả Di Chuyển**
@@ -649,15 +649,15 @@ quả bóng ngắn.
 
 **9.3 Tập Luyện Pattern Giao Bóng**
 
-Bài tập \'Phục vụ và shadow\': Giao bóng vào tường, và ngay khi bóng rời
+Bài tập 'Phục vụ và shadow': Giao bóng vào tường, và ngay khi bóng rời
 vợt, di chuyển như thể có bóng phản hồi. Bài tập này xây dựng sự kết nối
 giữa cú giao bóng và bước đầu tiên.
 
 > *\"Giao bóng là cú đánh đầu tiên. Vị trí sau giao bóng là cú đánh thứ
 > hai.\"*
 >
-> **💡 Cue của chương:** *Sau mỗi giao bóng, hỏi bản thân: \'Tôi đã
-> split step chưa?\' Nếu không, đó là điều duy nhất cần sửa ngay.*
+> **💡 Cue của chương:** *Sau mỗi giao bóng, hỏi bản thân: 'Tôi đã
+> split step chưa?' Nếu không, đó là điều duy nhất cần sửa ngay.*
 
 **CHƯƠNG 10**
 
@@ -701,15 +701,15 @@ footwork chủ động phát huy tác dụng: bước vào bóng (step in) với
 trước, chuyển trọng lượng về phía trước, và đánh với ý định tấn công.
 
 Nhiều người chơi trung bình nhận ra cơ hội nhưng không hành động vì
-footwork không cho phép họ tiếp cận bóng đúng cách. Kỹ thuật \'step in\'
+footwork không cho phép họ tiếp cận bóng đúng cách. Kỹ thuật 'step in'
 cụ thể: Khi bạn nhận ra đây là giao bóng thứ hai, bước một bước về phía
 trước với chân trước và chuyển trọng lượng vào bóng khi đánh.
 
 > *\"Bình tĩnh trước giao bóng nhanh --- chân bình tĩnh tạo ra tâm trí
 > bình tĩnh.\"*
 >
-> **💡 Cue của chương:** *Đối với giao bóng thứ hai: \'Step in, lean
-> forward, attack.\' Ba từ đó tóm tắt toàn bộ kỹ thuật trả giao bóng tấn
+> **💡 Cue của chương:** *Đối với giao bóng thứ hai: 'Step in, lean
+> forward, attack.' Ba từ đó tóm tắt toàn bộ kỹ thuật trả giao bóng tấn
 > công.*
 
 **CHƯƠNG 11**
@@ -755,8 +755,8 @@ cùng một điểm. Quy tắc đơn giản để quyết định:
 > *\"Rally không phải là một cú đánh --- đó là một điệu nhảy liên
 > tục.\"*
 >
-> **💡 Cue của chương:** *Đếm từng bước trong đầu: \'Split --- Chassé
-> --- Đánh --- Cross --- Split.\' Lặp lại cho đến khi nó trở thành tự
+> **💡 Cue của chương:** *Đếm từng bước trong đầu: 'Split --- Chassé
+> --- Đánh --- Cross --- Split.' Lặp lại cho đến khi nó trở thành tự
 > nhiên.*
 
 **CHƯƠNG 12**
@@ -774,7 +774,7 @@ thuật đúng nhưng footwork sai, dẫn đến việc tấn công lưới khô
 hoặc thậm chí phản tác dụng.
 
 Nguyên tắc cơ bản: Khi quyết định lên lưới, bạn phải cam kết hoàn toàn.
-Không có \'nửa chừng\' trong việc tấn công lưới. Và sự cam kết đó phải
+Không có 'nửa chừng' trong việc tấn công lưới. Và sự cam kết đó phải
 thể hiện qua footwork.
 
 **12.2 Chuỗi Tấn Công Lưới**
@@ -796,7 +796,7 @@ bạn cần duy trì tư thế thấp và split step cho mỗi cú đánh của 
 > *\"Đừng chạy đến lưới --- hãy tiến đến lưới. Tốc độ là kẻ thù của kiểm
 > soát.\"*
 >
-> **💡 Cue của chương:** *\'Approach → slow down → split → react.\' Mỗi
+> **💡 Cue của chương:** *'Approach → slow down → split → react.' Mỗi
 > lần lên lưới, nhắc nhở bản thân làm chậm lại ở bước cuối, không phải
 > tăng tốc.*
 
@@ -882,8 +882,8 @@ vào việc bạn đang ở đâu trên sân và có bao nhiêu thời gian.
 
 > *\"Phòng thủ tốt nhất là mua đủ thời gian để tấn công trở lại.\"*
 >
-> **💡 Cue của chương:** *Khi bị đẩy sâu, mục tiêu đầu tiên là \'sống
-> sót\', mục tiêu thứ hai là \'phục hồi\'. Không phải đánh bóng mạnh ---
+> **💡 Cue của chương:** *Khi bị đẩy sâu, mục tiêu đầu tiên là 'sống
+> sót', mục tiêu thứ hai là 'phục hồi'. Không phải đánh bóng mạnh ---
 > mà là tiếp tục điểm.*
 
 **CHƯƠNG 15**
@@ -900,18 +900,18 @@ liên tục gây áp lực --- đó là lúc footwork thường sụp đổ. Đi
 phải vì bạn quên kỹ thuật. Đó là vì kỹ thuật chưa được luyện tập đủ sâu
 để trở thành tự động.
 
-Khi não bạn bị chiếm bởi áp lực tâm lý, nó không có \'dung lượng\' để xử
+Khi não bạn bị chiếm bởi áp lực tâm lý, nó không có 'dung lượng' để xử
 lý cả chiến thuật lẫn kỹ thuật di chuyển. Thứ gì tự động hơn sẽ tồn tại.
 Thứ còn đòi hỏi suy nghĩ có ý thức sẽ sụp đổ.
 
 **15.2 Xây Dựng Footwork Tự Động**
 
-Con đường từ \'hiểu kỹ thuật\' đến \'làm tự động\' chỉ có một: lặp lại
+Con đường từ 'hiểu kỹ thuật' đến 'làm tự động' chỉ có một: lặp lại
 trong điều kiện có áp lực. Không phải lặp lại thoải mái trong tập luyện
 dễ dàng --- mà là lặp lại trong các tình huống có hậu quả thực sự.
 
-Đây là lý do các bài tập trong cuốn sách này đều có \'quy tắc hình
-phạt\' khi bỏ lỡ kỹ thuật. Não người học tốt nhất khi có hậu quả --- khi
+Đây là lý do các bài tập trong cuốn sách này đều có 'quy tắc hình
+phạt' khi bỏ lỡ kỹ thuật. Não người học tốt nhất khi có hậu quả --- khi
 quên split step đồng nghĩa với mất điểm, bạn sẽ không quên split step
 trong trận đấu thật.
 
@@ -923,8 +923,8 @@ nhất, không phải phức tạp nhất. Khi áp lực cao, chỉ tập trung 
 
 > *\"Dưới áp lực lớn nhất, kỹ năng giản dị nhất sẽ cứu bạn.\"*
 >
-> **💡 Cue của chương:** *Ở điểm quan trọng, chỉ nghĩ một điều: \'Split
-> step.\' Không gì khác.*
+> **💡 Cue của chương:** *Ở điểm quan trọng, chỉ nghĩ một điều: 'Split
+> step.' Không gì khác.*
 
 **CHƯƠNG 16**
 
@@ -936,7 +936,7 @@ nhất, không phải phức tạp nhất. Khi áp lực cao, chỉ tập trung 
 
 Tuần tập luyện được thiết kế theo nguyên tắc: mỗi ngày một trọng tâm duy
 nhất, áp lực ngày càng tăng, kết thúc bằng trận đấu thực để kiểm tra.
-Đây không phải lịch trình \'nhẹ nhàng\' --- nó được thiết kế để tạo ra
+Đây không phải lịch trình 'nhẹ nhàng' --- nó được thiết kế để tạo ra
 thay đổi thật sự.
 
 **16.2 Ngày 1 --- Split Step Tự Động**
@@ -947,7 +947,7 @@ cho mỗi bóng. Nếu bỏ lỡ, replay điểm. Không ngoại lệ.
 
 **16.3 Ngày 2 --- Hiệu Quả Di Chuyển**
 
-Mục tiêu: Loại bỏ mọi bước thừa. Bài tập \'3 bước tối đa\' --- bạn chỉ
+Mục tiêu: Loại bỏ mọi bước thừa. Bài tập '3 bước tối đa' --- bạn chỉ
 được phép di chuyển tối đa 3 bước để đến bóng. Nếu cần nhiều hơn, bạn đã
 không đọc bóng đủ sớm.
 
@@ -976,8 +976,8 @@ hai kỹ thuật đó trong mỗi điểm.
 **16.8 Ngày 7 --- Phục Hồi Nhẹ Nhàng**
 
 Buổi tập nhẹ: Shadow footwork, rally dễ, không áp lực. Mục tiêu là duy
-trì cảm giác \'ballet\' --- nhẹ nhàng, nhịp điệu, tự nhiên. Nếu bước
-chân cảm thấy nặng nề, bạn đã \'drifted\' khỏi kỹ thuật.
+trì cảm giác 'ballet' --- nhẹ nhàng, nhịp điệu, tự nhiên. Nếu bước
+chân cảm thấy nặng nề, bạn đã 'drifted' khỏi kỹ thuật.
 
 > *\"Một tuần thực hành đúng hơn một năm thực hành sai.\"*
 >
@@ -1022,7 +1022,7 @@ hơn. Hấp thụ lực qua đầu gối và mắt cá chân là rất quan tr�
 
 **17.4 Sân Cỏ --- Nhanh Và Nhẹ**
 
-Sân cỏ (grass court) là nhanh nhất và \'trơn\' nhất. Footwork cần nhẹ
+Sân cỏ (grass court) là nhanh nhất và 'trơn' nhất. Footwork cần nhẹ
 nhàng và nhanh hơn, với nhiều bước nhỏ hơn thay vì bước dài. Trượt xảy
 ra tự nhiên và không thể tránh khỏi, vì vậy bạn cần học cách kiểm soát
 nó.
@@ -1067,7 +1067,7 @@ tập vừa rèn footwork vừa xây dựng thể lực đặc thù.
 
 **18.3 Duy Trì Kỹ Thuật Khi Mệt**
 
-Khi bắt đầu cảm thấy mệt trong trận đấu, hãy dùng \'cue tối giản\': tập
+Khi bắt đầu cảm thấy mệt trong trận đấu, hãy dùng 'cue tối giản': tập
 trung vào một điều duy nhất và đơn giản nhất --- split step. Dù mọi thứ
 khác có thể xuống cấp, nếu bạn duy trì được split step, bạn vẫn có cơ
 hội.
@@ -1094,7 +1094,7 @@ và di chuyển tự nhiên. Mối liên hệ này không phải ẩn dụ --- �
 lý học thực sự.
 
 Cortisol (hormone stress) làm cứng cơ bắp và giảm tốc độ phản xạ. Khi
-chúng ta nói ai đó \'đóng băng\' dưới áp lực, đó là điều đang xảy ra về
+chúng ta nói ai đó 'đóng băng' dưới áp lực, đó là điều đang xảy ra về
 mặt sinh lý. Bước chân nặng nề, chậm chạp dưới áp lực không phải là
 thiếu kỹ năng --- đó là phản ứng sinh lý của cơ thể với stress.
 
@@ -1104,19 +1104,19 @@ Hít thở kiểm soát: Giữa các điểm, thực hiện một hơi thở sâ
 soát. Điều này không chỉ giúp oxy hóa cơ bắp --- nó kích hoạt hệ thần
 kinh phó giao cảm, làm giảm cortisol và thả lỏng cơ bắp.
 
-\'Process focus\' thay vì \'outcome focus\': Thay vì nghĩ \'Tôi phải
-thắng điểm này\', hãy nghĩ \'Tôi chỉ cần split step\'. Tập trung vào quá
+'Process focus' thay vì 'outcome focus': Thay vì nghĩ 'Tôi phải
+thắng điểm này', hãy nghĩ 'Tôi chỉ cần split step'. Tập trung vào quá
 trình kiểm soát phản ứng cortisol tốt hơn tập trung vào kết quả.
 
 Cue tích cực trước điểm: Trước mỗi điểm, dùng một cue tích cực ngắn:
-\'Nhẹ nhàng\', \'Ballet\', \'Flow\'. Những từ này kích hoạt ký ức cơ bắp
+'Nhẹ nhàng', 'Ballet', 'Flow'. Những từ này kích hoạt ký ức cơ bắp
 về cảm giác di chuyển tốt.
 
 **19.3 Tin Tưởng Kỹ Thuật**
 
 Một trong những rào cản lớn nhất với footwork tốt dưới áp lực là thiếu
-tin tưởng vào kỹ thuật. Khi không tự tin, bạn \'kiểm tra\' bản thân
-trong khi di chuyển --- \'Tôi đang làm đúng không?\' Sự kiểm tra đó tạo
+tin tưởng vào kỹ thuật. Khi không tự tin, bạn 'kiểm tra' bản thân
+trong khi di chuyển --- 'Tôi đang làm đúng không?' Sự kiểm tra đó tạo
 ra hesitation và phá vỡ dòng chảy.
 
 Niềm tin đến từ lặp lại đủ nhiều. Khi bạn đã split step 10,000 lần đúng
@@ -1126,7 +1126,7 @@ cách, bạn không cần kiểm tra nữa --- cơ thể bạn biết phải là
 > bắt đầu từ kỹ thuật vững chắc.\"*
 >
 > **💡 Cue của chương:** *Trước mỗi điểm quan trọng, một hơi thở sâu,
-> một từ: \'Ballet.\' Đó là tất cả những gì bạn cần.*
+> một từ: 'Ballet.' Đó là tất cả những gì bạn cần.*
 
 **CHƯƠNG 20**
 
@@ -1206,7 +1206,7 @@ Hãy di chuyển như ballet. Hãy thi đấu như nghệ sĩ.
 
 - Đầu gối: mềm, sẵn sàng
 
-- Cue: \'Split trước mọi thứ\'
+- Cue: 'Split trước mọi thứ'
 
 **Chassé Steps**
 
@@ -1216,7 +1216,7 @@ Hãy di chuyển như ballet. Hãy thi đấu như nghệ sĩ.
 
 - Hông thấp, nhịp điệu đều
 
-- Cue: \'Trượt, đừng đuổi\'
+- Cue: 'Trượt, đừng đuổi'
 
 **Cross-Step Recovery**
 
@@ -1226,7 +1226,7 @@ Hãy di chuyển như ballet. Hãy thi đấu như nghệ sĩ.
 
 - Bắt đầu ngay khi đánh bóng
 
-- Cue: \'Đừng ngắm nhìn --- hãy phục hồi\'
+- Cue: 'Đừng ngắm nhìn --- hãy phục hồi'
 
 **Tư Thế Sẵn Sàng (Plié)**
 
@@ -1236,7 +1236,7 @@ Hãy di chuyển như ballet. Hãy thi đấu như nghệ sĩ.
 
 - Ngực hơi nghiêng về trước
 
-- Cue: \'Tư thế thấp = sức mạnh tích trữ\'
+- Cue: 'Tư thế thấp = sức mạnh tích trữ'
 
 **Checklist Đi Sân**
 

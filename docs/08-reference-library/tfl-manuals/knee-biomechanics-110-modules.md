@@ -15,8 +15,8 @@ thể đúng cách.\"
 
 Nếu bạn đang chơi tennis ở mức 3.0 đến 5.0, có một điều gần như chắc
 chắn: bạn đã từng cảm thấy mỏi hoặc đau gối sau khi serve nhiều. Bạn
-cũng có thể đã nghe lời khuyên như \'gập gối sâu hơn\', \'đẩy mạnh
-lên\', hay \'xoắn người để tạo lực\'. Nhưng nếu áp dụng sai, những lời
+cũng có thể đã nghe lời khuyên như 'gập gối sâu hơn', 'đẩy mạnh
+lên', hay 'xoắn người để tạo lực'. Nhưng nếu áp dụng sai, những lời
 khuyên đó chính là nguyên nhân gây chấn thương.
 
 Cuốn tài liệu này, được chia thành 110 modules thực hành, sẽ giải thích
@@ -24,13 +24,13 @@ từng bước một cách đầu gối thực sự hoạt động trong cú ser
 phải lý thuyết khô khan, mà là kiến thức bạn có thể áp dụng ngay trên
 sân.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Mỗi module khoảng 10 trang kiến thức thực tế. Bạn có thể học từng  |
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Mỗi module khoảng 10 trang kiến thức thực tế. Bạn có thể học từng |
 | module theo tốc độ của mình. Không cần đọc từ đầu đến cuối --- hãy |
-| bắt đầu từ module phù hợp với trình độ của bạn.                    |
-+--------------------------------------------------------------------+
+| bắt đầu từ module phù hợp với trình độ của bạn. |
+
 
   ---------------------------------------------------------------------
   **CẤP ĐỘ**                         **MODULE GỢI Ý BẮT ĐẦU**
@@ -52,23 +52,23 @@ sân.
 
 Module 1 -- 15 \| Dành cho người mới bắt đầu tìm hiểu kỹ thuật serve
 
-+:------------------------------------------------------------------:+
-| **MODULE 1**                                                       |
-|                                                                    |
-| **Đầu Gối Thực Ra Làm Gì?**                                        |
-|                                                                    |
-| Vai trò thật sự trong cú serve hiện đại                            |
-+--------------------------------------------------------------------+
+| **MODULE 1** |
+| --- |
+|  |
+| **Đầu Gối Thực Ra Làm Gì?** |
+|  |
+| Vai trò thật sự trong cú serve hiện đại |
+
 
 **1.1 Hiểu lầm lớn nhất của 90% người chơi tennis**
 
 Khi nhìn slow motion serve của các tay vợt ATP, nhiều người thấy chân
 gập sâu, cơ thể xoắn mạnh, và bật lên cao. Điều này dẫn đến một hiểu
-nhầm phổ biến: \'phải vặn đầu gối để tạo lực xoắn\'. Đây là sai lầm nguy
+nhầm phổ biến: 'phải vặn đầu gối để tạo lực xoắn'. Đây là sai lầm nguy
 hiểm nhất trong kỹ thuật serve.
 
 Thực tế hoàn toàn ngược lại. Ở những server hàng đầu như Roger Federer,
-Pete Sampras hay Ben Shelton, đầu gối càng mạnh thì nó càng \'im lặng\'.
+Pete Sampras hay Ben Shelton, đầu gối càng mạnh thì nó càng 'im lặng'.
 Nó không phải nguồn tạo xoay chính.
 
 Để dễ hiểu hơn, hãy nghĩ về đầu gối như một bộ phận trung gian trong xe
@@ -76,12 +76,12 @@ hơi --- như hộp số. Hộp số không tạo ra động lực, nhưng nó t
 lực từ động cơ (hông) ra bánh xe (mặt sân). Nếu hộp số bị hỏng, cả xe
 không đi được, dù động cơ có mạnh đến đâu.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Đầu gối là bản lề đàn hồi truyền lực giữa bàn chân và hông ---     |
-| không phải nguồn tạo xoay chính.                                   |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Đầu gối là bản lề đàn hồi truyền lực giữa bàn chân và hông --- |
+| không phải nguồn tạo xoay chính. |
+
 
 **1.2 Ba nhiệm vụ thực sự của đầu gối**
 
@@ -96,7 +96,7 @@ ba nhiệm vụ này sẽ giúp bạn tập đúng và tránh chấn thương.
 
 **1.3 Những gì đầu gối KHÔNG được thiết kế để làm**
 
-Đây là phần quan trọng nhất. Đầu gối là \'modified hinge joint\' ---
+Đây là phần quan trọng nhất. Đầu gối là 'modified hinge joint' ---
 khớp bản lề đã được biến đổi. Nó rất mạnh khi chịu lực theo trục dọc,
 nhưng cực kỳ dễ tổn thương khi bị xoắn.
 
@@ -108,13 +108,13 @@ nhưng cực kỳ dễ tổn thương khi bị xoắn.
 
 - KHÔNG phải nguồn tạo tốc độ bóng
 
-+--------------------------------------------------------------------+
-| **❌ SAI LẦM PHỔ BIẾN**                                            |
-|                                                                    |
-| Test nhanh: Nếu bạn cảm thấy rõ đầu gối trong lúc serve → đó là    |
-| dấu hiệu kinetic chain đang có vấn đề. Đầu gối làm đúng việc thì   |
-| gần như \'vô hình\'.                                               |
-+--------------------------------------------------------------------+
+| **❌ SAI LẦM PHỔ BIẾN** |
+| --- |
+|  |
+| Test nhanh: Nếu bạn cảm thấy rõ đầu gối trong lúc serve → đó là |
+| dấu hiệu kinetic chain đang có vấn đề. Đầu gối làm đúng việc thì |
+| gần như 'vô hình'. |
+
 
 **1.4 Kinetic chain là gì và tại sao quan trọng?**
 
@@ -144,49 +144,49 @@ này gọi là kinetic chain. Mỗi khớp trong chuỗi có vai trò riêng:
 Trước khi đọc tiếp, hãy thử bài tập nhận thức này. Mục tiêu không phải
 là serve mạnh, mà là CẢM NHẬN đầu gối đang làm gì.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill 1: Serve chậm 50% tốc độ. Sau mỗi cú, tự hỏi: \'Tôi cảm thấy |
-| gì ở đầu gối?\' Nếu câu trả lời là \'không cảm thấy gì nhiều\' →   |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill 1: Serve chậm 50% tốc độ. Sau mỗi cú, tự hỏi: 'Tôi cảm thấy |
+| gì ở đầu gối?' Nếu câu trả lời là 'không cảm thấy gì nhiều' → |
 | bạn đang đúng hướng. Nếu cảm thấy xoắn hoặc đau nhẹ → tiếp tục đọc |
-| module này.                                                        |
-+--------------------------------------------------------------------+
+| module này. |
+
 
 **1.6 Tổng kết Module 1**
 
 Đầu gối trong serve không phải nơi tạo ra rotation chính. Nó là bản lề
 truyền lực, bộ giảm xóc, và mắt xích đàn hồi giữa mặt sân và hông. Serve
-hiện đại mạnh không nhờ \'vặn gối\' --- mà mạnh nhờ hông coil đủ lớn,
+hiện đại mạnh không nhờ 'vặn gối' --- mà mạnh nhờ hông coil đủ lớn,
 trunk giữ đóng đủ lâu, và kinetic chain mở đúng thứ tự.
 
-+:------------------------------------------------------------------:+
-| **MODULE 2**                                                       |
-|                                                                    |
-| **Cấu Trúc Đầu Gối --- Biết Để Không Phá Vỡ**                      |
-|                                                                    |
-| Giải phẫu cơ bản cho người chơi tennis                             |
-+--------------------------------------------------------------------+
+| **MODULE 2** |
+| --- |
+|  |
+| **Cấu Trúc Đầu Gối --- Biết Để Không Phá Vỡ** |
+|  |
+| Giải phẫu cơ bản cho người chơi tennis |
+
 
 **2.1 Đầu gối không phải khớp xoay --- đây là điều quan trọng nhất**
 
-Khớp gối là \'modified hinge joint\' --- khớp bản lề có biến đổi. Khác
+Khớp gối là 'modified hinge joint' --- khớp bản lề có biến đổi. Khác
 với khớp hông là ball-and-socket (có thể xoay tự do mọi hướng), khớp gối
 chỉ được thiết kế chủ yếu để co duỗi (flex/extend) theo một trục.
 
-Điều này có nghĩa gì trong tennis? Khi bạn cố \'xoắn gối\' để tạo lực
+Điều này có nghĩa gì trong tennis? Khi bạn cố 'xoắn gối' để tạo lực
 serve, bạn đang buộc một chiếc bản lề làm công việc của một ổ bi. Kết
 quả là: sụn chêm bị ép, dây chằng chéo căng, mặt khớp chịu compression
 bất thường.
 
-+:--------------------:+:--------------------:+:--------------------:+
-| **90°**              | **5°**               | **3×**               |
-|                      |                      |                      |
-| Góc gập tối đa       | Giới hạn xoay an     | Tải lên gối tăng gấp |
-| khuyên dùng khi      | toàn của gối dưới    | 3 khi vừa nén vừa    |
-| serve (Djokovic:     | tải nén              | xoắn                 |
-| 110°)                |                      |                      |
-+----------------------+----------------------+----------------------+
+| **90°** | **5°** | **3×** |
+| --- | --- | --- |
+|  |  |  |
+| Góc gập tối đa | Giới hạn xoay an | Tải lên gối tăng gấp |
+| khuyên dùng khi | toàn của gối dưới | 3 khi vừa nén vừa |
+| serve (Djokovic: | tải nén | xoắn |
+| 110°) |  |  |
+
 
 **2.2 Bốn cấu trúc bạn cần biết**
 
@@ -205,13 +205,13 @@ serve sai có thể gây chấn thương.
 - Sụn khớp (Articular cartilage): Lớp đệm trơn. Không có máu nuôi ---
   một khi hỏng rất khó hồi phục.
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
-| Warning: Sụn khớp gối KHÔNG tự lành như cơ hay da. Mỗi lần serve   |
-| sai là một lần tiêu thụ sụn khớp không thể lấy lại. Đây là lý do   |
-| phòng ngừa quan trọng hơn chữa trị.                                |
-+--------------------------------------------------------------------+
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
+| Warning: Sụn khớp gối KHÔNG tự lành như cơ hay da. Mỗi lần serve |
+| sai là một lần tiêu thụ sụn khớp không thể lấy lại. Đây là lý do |
+| phòng ngừa quan trọng hơn chữa trị. |
+
 
 **2.3 Compression tốt vs Compression xấu --- khác biệt sống còn**
 
@@ -240,17 +240,17 @@ serve chỉ 120km/h nhưng đau gối mãn tính. Nguyên nhân là LỰC ĐI SA
 TRỤC, không phải lực quá lớn.
 
 Khi lực đi sai trục và lặp lại hàng trăm lần mỗi tuần, ngay cả lực nhỏ
-cũng đủ gây tổn thương tích lũy. Đây là khái niệm \'shear accumulation\'
+cũng đủ gây tổn thương tích lũy. Đây là khái niệm 'shear accumulation'
 --- tích lũy lực cắt theo thời gian.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill 2: Quay video ngang khi serve (góc camera ngang tầm gối).    |
-| Sau đó kiểm tra: gối có tracking theo mũi chân không? Có đổ vào    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill 2: Quay video ngang khi serve (góc camera ngang tầm gối). |
+| Sau đó kiểm tra: gối có tracking theo mũi chân không? Có đổ vào |
 | trong không? Có vượt quá mũi chân quá 5cm không? Đây là 3 dấu hiệu |
-| cơ bản nhất.                                                       |
-+--------------------------------------------------------------------+
+| cơ bản nhất. |
+
 
 **2.5 Ba loại chấn thương gối phổ biến nhất trong tennis**
 
@@ -274,44 +274,44 @@ Thực hiện checklist này trước và sau khi tập serve để phát hiện
 
 5.  Có cảm giác nóng hoặc sưng ở mặt trong gối không?
 
-6.  Đầu gối có phát ra tiếng \'click\' khi duỗi không?
+6.  Đầu gối có phát ra tiếng 'click' khi duỗi không?
 
 7.  Sau 20 cú serve, đau ở cơ mông hay ở trước gối?
 
-8.  Tiếp đất sau serve có nghe tiếng \'bịch\' gót không?
+8.  Tiếp đất sau serve có nghe tiếng 'bịch' gót không?
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
-| Nếu trả lời CÓ cho 2 câu trở lên → hãy điều chỉnh kỹ thuật trước   |
-| khi tiếp tục tập. Modules 3--10 sẽ hướng dẫn cụ thể.               |
-+--------------------------------------------------------------------+
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
+| Nếu trả lời CÓ cho 2 câu trở lên → hãy điều chỉnh kỹ thuật trước |
+| khi tiếp tục tập. Modules 3--10 sẽ hướng dẫn cụ thể. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 3**                                                       |
-|                                                                    |
-| **Kinetic Chain Là Gì?**                                           |
-|                                                                    |
-| Chuỗi truyền lực từ mặt đất đến đầu vợt                            |
-+--------------------------------------------------------------------+
+
+| **MODULE 3** |
+| --- |
+|  |
+| **Kinetic Chain Là Gì?** |
+|  |
+| Chuỗi truyền lực từ mặt đất đến đầu vợt |
+
 
 **3.1 Nguyên lý spiral upward --- xoắn ốc đi lên**
 
 Serve mạnh không phải kết quả của một khớp làm việc cực mạnh, mà là kết
 quả của nhiều khớp làm việc theo đúng thứ tự. Nguyên lý này gọi là
-\'spiral upward\' --- năng lượng tăng dần từ dưới lên trên.
+'spiral upward' --- năng lượng tăng dần từ dưới lên trên.
 
 Hãy nghĩ về cây roi da. Nếu bạn cầm đầu to và giật mạnh, đầu nhỏ (đuôi
-roi) sẽ tạo ra tiếng \'crack\' cực lớn với tốc độ gấp nhiều lần. Đây
+roi) sẽ tạo ra tiếng 'crack' cực lớn với tốc độ gấp nhiều lần. Đây
 chính xác là cách serve hoạt động --- chân và hông là đầu to, cổ tay và
 đầu vợt là đuôi roi.
 
-+:--------------------:+:--------------------:+:--------------------:+
-| **3.4 m/s**          | **6.2 m/s**          | **24.4 m/s**         |
-|                      |                      |                      |
-| Tốc độ vai           | Tốc độ cổ tay        | Tốc độ đầu vợt       |
-| (Djokovic)           | (Djokovic)           | (Djokovic)           |
-+----------------------+----------------------+----------------------+
+| **3.4 m/s** | **6.2 m/s** | **24.4 m/s** |
+| --- | --- | --- |
+|  |  |  |
+| Tốc độ vai | Tốc độ cổ tay | Tốc độ đầu vợt |
+| (Djokovic) | (Djokovic) | (Djokovic) |
+
 
 **3.2 Sáu mắt xích trong kinetic chain**
 
@@ -333,15 +333,15 @@ chỉnh.
 
 14. Shoulder Whip: Vai và cẳng tay khuếch đại tốc độ cuối cùng
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý cốt lõi: Hông là engine tạo xoay. Thân trên là roi       |
-| khuếch đại. Đầu gối là cầu nối đàn hồi. KHÔNG được nhầm lẫn vai    |
-| trò giữa các khớp.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý cốt lõi: Hông là engine tạo xoay. Thân trên là roi |
+| khuếch đại. Đầu gối là cầu nối đàn hồi. KHÔNG được nhầm lẫn vai |
+| trò giữa các khớp. |
 
-**3.3 Điều gì xảy ra khi một mắt xích bị \'đứt\'?**
+
+**3.3 Điều gì xảy ra khi một mắt xích bị 'đứt'?**
 
 Kinetic chain có một quy luật quan trọng: năng lượng luôn đi theo đường
 dễ nhất. Khi một mắt xích bị kẹt hoặc không hoạt động đúng, năng lượng
@@ -356,7 +356,7 @@ tải đó.
 
   Mắt cá không release               Torque dồn lên gối → shear stress
 
-  Core timing sai                    Gối phải \'cứu timing\' → overload
+  Core timing sai                    Gối phải 'cứu timing' → overload
 
   Trunk mở sớm                       Gối chịu xoắn sớm dưới tải nén
   ---------------------------------------------------------------------
@@ -371,17 +371,17 @@ Khi Djokovic toss bóng: góc chiếu vai-hông đạt 38.65 độ --- lực đ�
 độ/s, nhưng HAI GỐI VẪN THẲNG HÀNG với bàn chân. Điểm tiếp xúc bóng ở độ
 cao 2.85m --- chuỗi whiplash hoàn chỉnh.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
 | Mẹo học từ Djokovic: Anh ấy chỉ gập gối 110.3 độ --- không sâu như |
-| nhiều player nghĩ. Nhưng hip-shoulder separation đạt 38.65 độ. Bí  |
-| quyết là HIP HINGE, không phải KNEE BEND.                          |
-+--------------------------------------------------------------------+
+| nhiều player nghĩ. Nhưng hip-shoulder separation đạt 38.65 độ. Bí |
+| quyết là HIP HINGE, không phải KNEE BEND. |
+
 
 **3.5 Bài tập xây dựng nhận thức kinetic chain**
 
-Để cảm nhận kinetic chain, hãy thực hiện bài tập \'dây xích\' này. Bạn
+Để cảm nhận kinetic chain, hãy thực hiện bài tập 'dây xích' này. Bạn
 cần một người đứng sau quan sát.
 
 15. Đứng thẳng, chân rộng bằng vai, tay thả xuống
@@ -396,13 +396,13 @@ cần một người đứng sau quan sát.
 
 19. Thực hiện 10 lần. Sau đó serve 5 cú và so sánh cảm giác
 
-+:------------------------------------------------------------------:+
-| **MODULE 4**                                                       |
-|                                                                    |
-| **Hip Là Engine --- Gối Chỉ Là Hộp Số**                            |
-|                                                                    |
-| Hiểu vai trò thực của hông trong serve                             |
-+--------------------------------------------------------------------+
+| **MODULE 4** |
+| --- |
+|  |
+| **Hip Là Engine --- Gối Chỉ Là Hộp Số** |
+|  |
+| Hiểu vai trò thực của hông trong serve |
+
 
 **4.1 Tại sao hông là nguồn tạo xoay chính?**
 
@@ -415,23 +415,23 @@ Ngược lại, khớp gối là modified hinge joint. Biên độ xoay của n�
 tải nén chỉ khoảng 5 độ. Khi bạn cố xoắn thêm vào gối, bạn đang phá vỡ
 giới hạn an toàn của nó.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Hình ảnh dễ hiểu: Hông giống như khớp quả cầu của tay cần câu ---  |
-| xoay tự do mọi hướng. Gối giống như bản lề cửa --- chỉ mở/đóng,    |
-| không được xoay.                                                   |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Hình ảnh dễ hiểu: Hông giống như khớp quả cầu của tay cần câu --- |
+| xoay tự do mọi hướng. Gối giống như bản lề cửa --- chỉ mở/đóng, |
+| không được xoay. |
+
 
 **4.2 Hip-shoulder separation là gì và tại sao quan trọng?**
 
 Hip-shoulder separation là góc chênh lệch giữa hướng của hông (hips) và
 hướng của vai (shoulders) tại thời điểm Trophy Position. Góc này càng
-lớn, cơ thể có nhiều \'đàn hồi\' để giải phóng năng lượng hơn.
+lớn, cơ thể có nhiều 'đàn hồi' để giải phóng năng lượng hơn.
 
 Djokovic đạt 38.65 độ. Ben Shelton đạt hơn 40 độ. Với player 3.0-4.0,
 25-35 độ là mục tiêu hợp lý. Nhưng QUAN TRỌNG: separation phải đến từ
-HIP ROTATION, không phải từ việc \'giữ chân cứng và xoắn thân\'.
+HIP ROTATION, không phải từ việc 'giữ chân cứng và xoắn thân'.
 
   ---------------------------------------------------------------------
   **SEPARATION ĐÚNG ✅**             **SEPARATION SAI ❌**
@@ -454,19 +454,19 @@ trong khi gối chỉ làm bản lề.
 Trong giai đoạn Load & Coil: Gối gập sâu nhưng không đổ vào trong, hướng
 theo mũi chân. Bàn chân song song baseline, áp lực ở cạnh trong. Hông
 xoay 30-45 độ, vai vẫn đóng --- tạo hip-shoulder separation. Cảm giác
-đúng là \'coil around the hip socket\', không phải \'torque the knee\'.
+đúng là 'coil around the hip socket', không phải 'torque the knee'.
 
 Trong giai đoạn Uncoil: Hông trái đẩy lên trước, vai phải còn ở sau tạo
 hình chữ C. Năng lượng đi lên theo trục, không đi ngang qua gối.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
 | Shelton vs Djokovic --- hai phong cách, cùng nguyên lý: • Shelton: |
-| gập gối \>130°, separation rất lớn, tốc độ tối đa • Djokovic: gập  |
-| gối 110.3°, separation 38.65°, bền vững và hiệu quả Cả hai đều:    |
-| xoắn quanh ổ hông, giữ gối như bản lề sạch.                        |
-+--------------------------------------------------------------------+
+| gập gối \>130°, separation rất lớn, tốc độ tối đa • Djokovic: gập |
+| gối 110.3°, separation 38.65°, bền vững và hiệu quả Cả hai đều: |
+| xoắn quanh ổ hông, giữ gối như bản lề sạch. |
+
 
 **4.4 Bài tập Hip Hinge cơ bản**
 
@@ -486,13 +486,13 @@ nhất.
 
 24. Thực hiện 15 lần. Đây là cảm giác hip hinge đúng.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Kiểm tra: Khi hip hinge đúng, đầu gối sẽ tự nhiên hơi gập          |
-| (90-110°) mà KHÔNG vượt quá mũi chân quá nhiều. Nếu gối vượt quá   |
-| mũi chân 10cm+, bạn đang gập gối thay vì hinge hông.               |
-+--------------------------------------------------------------------+
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Kiểm tra: Khi hip hinge đúng, đầu gối sẽ tự nhiên hơi gập |
+| (90-110°) mà KHÔNG vượt quá mũi chân quá nhiều. Nếu gối vượt quá |
+| mũi chân 10cm+, bạn đang gập gối thay vì hinge hông. |
+
 
 **4.5 Ứng dụng hip hinge vào Trophy Position**
 
@@ -505,13 +505,13 @@ Góc nghiêng thân khoảng 22 độ (như trong hình phân tích Djokovic) t�
 bởi hông đẩy về trước trong khi vai giữ lại. Đây là điểm mà năng lượng
 đàn hồi được lưu trữ ở hông và thân, không phải ở gối.
 
-+:------------------------------------------------------------------:+
-| **MODULE 5**                                                       |
-|                                                                    |
-| **Năm Sai Lầm Phổ Biến Nhất**                                      |
-|                                                                    |
-| Những lỗi kỹ thuật khiến gối phải chịu tải sai                     |
-+--------------------------------------------------------------------+
+| **MODULE 5** |
+| --- |
+|  |
+| **Năm Sai Lầm Phổ Biến Nhất** |
+|  |
+| Những lỗi kỹ thuật khiến gối phải chịu tải sai |
+
 
 **5.1 Tổng quan: Tại sao amateur hay đau gối khi serve?**
 
@@ -525,16 +525,16 @@ Position cho thấy 5 cơ chế chính.
 xoay bàn chân và vặn ống chân. Khớp gối bị kẹp giữa xương đùi xoay và
 xương chày đứng yên, gây shear lên dây chằng chéo và sụn chêm.
 
-Dấu hiệu nhận biết: cảm giác \'vặn\' ở bên trong gối khi serve. Đây
+Dấu hiệu nhận biết: cảm giác 'vặn' ở bên trong gối khi serve. Đây
 KHÔNG phải cảm giác bình thường.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Cách sửa: Thực hiện 90/90 hip stretch 2 phút mỗi bên trước khi     |
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Cách sửa: Thực hiện 90/90 hip stretch 2 phút mỗi bên trước khi |
 | serve --- mở hông để gối khỏi phải xoay thay. Xem Module 8 để biết |
-| thêm bài tập.                                                      |
-+--------------------------------------------------------------------+
+| thêm bài tập. |
+
 
 **5.3 Sai lầm #2: Gối đổ vào trong (Knee Valgus) ở Trophy Position**
 
@@ -567,19 +567,19 @@ Sau khi serve, rơi xuống bằng gót, gối thẳng. Lực dội ngược lê
 thay vì được mông và bắp chân hấp thụ. Đây là giai đoạn nguy hiểm thứ
 hai --- không phải lúc loading mà là lúc landing.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill: Tập \'soft landing\' --- sau mỗi cú serve, tiếp đất bằng    |
-| mũi chân trước, sau đó gập gối nhẹ để hấp thụ lực. KHÔNG tiếp đất  |
-| bằng gót cứng.                                                     |
-+--------------------------------------------------------------------+
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill: Tập 'soft landing' --- sau mỗi cú serve, tiếp đất bằng |
+| mũi chân trước, sau đó gập gối nhẹ để hấp thụ lực. KHÔNG tiếp đất |
+| bằng gót cứng. |
+
 
 **5.6 Sai lầm #5: Cơ mông yếu**
 
 Mông và cơ xoay ngoài hông không giữ được trục, gối phải gồng để ổn
-định. Mỗi serve trở thành quá tải nhỏ. Theo thời gian, \'shear
-accumulation\' dẫn đến chấn thương mãn tính.
+định. Mỗi serve trở thành quá tải nhỏ. Theo thời gian, 'shear
+accumulation' dẫn đến chấn thương mãn tính.
 
 Đây là gốc rễ của nhiều vấn đề: khi glutes yếu, femur không ổn định
 được, gối bị kéo vào valgus, tibia phải xoay bù cho hông thiếu linh
@@ -593,29 +593,29 @@ hoạt.
 
 27. Khi hạ người, cảm giác căng ở mông hay ở trước gối?
 
-28. Tiếp đất có nghe tiếng \'bịch\' gót không?
+28. Tiếp đất có nghe tiếng 'bịch' gót không?
 
 29. Sau 20 serve, đau ở mặt trong gối hay ở cơ mông?
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Kết luận Module 5: Đau gối không đến từ lực lớn, mà từ sai lệch    |
-| trục lặp lại. Giữ gối như bản lề sạch, xoay quanh ổ hông, bạn sẽ   |
-| serve nhẹ hơn nhưng bền hơn rất nhiều.                             |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Kết luận Module 5: Đau gối không đến từ lực lớn, mà từ sai lệch |
+| trục lặp lại. Giữ gối như bản lề sạch, xoay quanh ổ hông, bạn sẽ |
+| serve nhẹ hơn nhưng bền hơn rất nhiều. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 6**                                                       |
-|                                                                    |
-| **Trophy Position --- Điểm Khóa Năng Lượng**                       |
-|                                                                    |
-| Phân tích chi tiết vị trí quan trọng nhất trong serve              |
-+--------------------------------------------------------------------+
+
+| **MODULE 6** |
+| --- |
+|  |
+| **Trophy Position --- Điểm Khóa Năng Lượng** |
+|  |
+| Phân tích chi tiết vị trí quan trọng nhất trong serve |
+
 
 **6.1 Trophy Position là gì?**
 
-Trophy Position (hay còn gọi là \'loaded position\') là thời điểm cơ thể
+Trophy Position (hay còn gọi là 'loaded position') là thời điểm cơ thể
 ở trạng thái tích lũy năng lượng tối đa --- ngay trước khi uncoil. Đây
 là điểm mà nếu sai, toàn bộ cú serve sẽ kém hiệu quả và gây tổn thương.
 
@@ -623,13 +623,13 @@ Trong phân tích Djokovic: tay trái cao (trophy arm), vợt thả sau lưng.
 Gối duỗi với tốc độ góc 210.6 độ/s, đẩy trọng tâm lên. Hai gối vẫn thẳng
 hàng với bàn chân.
 
-+:--------------------:+:--------------------:+:--------------------:+
-| **22°**              | **38.65°**           | **110.3°**           |
-|                      |                      |                      |
-| Góc nghiêng thân lý  | Hip-shoulder         | Góc gập gối tối ưu   |
-| tưởng ở Trophy       | separation của       | (Djokovic)           |
-| Position             | Djokovic             |                      |
-+----------------------+----------------------+----------------------+
+| **22°** | **38.65°** | **110.3°** |
+| --- | --- | --- |
+|  |  |  |
+| Góc nghiêng thân lý | Hip-shoulder | Góc gập gối tối ưu |
+| tưởng ở Trophy | separation của | (Djokovic) |
+| Position | Djokovic |  |
+
 
 **6.2 Ba yếu tố của Trophy Position đúng**
 
@@ -643,13 +643,13 @@ hàng với bàn chân.
 
 32. Cảm giác căng ở oblique và hông trước, không đau gối
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Test Trophy Position: Nhờ người chụp ảnh bạn ở vị trí Trophy. Sau  |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Test Trophy Position: Nhờ người chụp ảnh bạn ở vị trí Trophy. Sau |
 | đó vẽ một đường thẳng từ mắt cá → gối → hông. Ba điểm này có thẳng |
-| hàng không? Nếu gối lệch vào trong → valgus đang xảy ra.           |
-+--------------------------------------------------------------------+
+| hàng không? Nếu gối lệch vào trong → valgus đang xảy ra. |
+
 
 **6.3 Góc 22 độ --- tại sao quan trọng?**
 
@@ -676,12 +676,12 @@ chịu tải không đúng.
 
 37. Mục tiêu: mông chạm tường, gối KHÔNG chạm tường phía trước
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Bài tập tường 5 phút mỗi ngày trong 2 tuần sẽ giúp cơ thể \'học\'  |
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Bài tập tường 5 phút mỗi ngày trong 2 tuần sẽ giúp cơ thể 'học' |
 | pattern hip hinge đúng một cách tự động. Sau đó áp dụng vào serve. |
-+--------------------------------------------------------------------+
+
 
 **6.5 Lỗi Trophy Position phổ biến theo cấp độ**
 
@@ -701,32 +701,32 @@ chịu tải không đúng.
                                      hip lead
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 7**                                                       |
-|                                                                    |
-| **Deep Knee Bend --- Sâu Không Phải Là Nguy Hiểm**                 |
-|                                                                    |
-| Phân biệt knee bend an toàn và nguy hiểm                           |
-+--------------------------------------------------------------------+
+| **MODULE 7** |
+| --- |
+|  |
+| **Deep Knee Bend --- Sâu Không Phải Là Nguy Hiểm** |
+|  |
+| Phân biệt knee bend an toàn và nguy hiểm |
+
 
 **7.1 Tại sao nhiều người sợ gập gối sâu?**
 
-Nhiều player ở cấp 3.0-4.0 nghe lời khuyên \'gập gối ít thôi để bảo vệ
-khớp\'. Đây là lời khuyên không chính xác. Deep knee bend bản thân không
+Nhiều player ở cấp 3.0-4.0 nghe lời khuyên 'gập gối ít thôi để bảo vệ
+khớp'. Đây là lời khuyên không chính xác. Deep knee bend bản thân không
 nguy hiểm --- cách thực hiện deep knee bend mới là vấn đề.
 
 Ben Shelton có knee bend cực sâu (\>130 độ), vertical push cực lớn,
 nhưng lower-leg alignment rất sạch. Lý do: hông absorb load, ankle
 dorsiflexion tốt, pelvis dẫn động tác, gối tracking cùng hướng bàn chân.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên tắc vàng: Điều nguy hiểm không phải BEND SÂU. Điều nguy     |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên tắc vàng: Điều nguy hiểm không phải BEND SÂU. Điều nguy |
 | hiểm là BEND + COLLAPSE + TWIST. Một player gập ít nhưng valgus và |
-| tibia xoắn có thể nguy hiểm hơn nhiều so với ATP player squat rất  |
-| sâu.                                                               |
-+--------------------------------------------------------------------+
+| tibia xoắn có thể nguy hiểm hơn nhiều so với ATP player squat rất |
+| sâu. |
+
 
 **7.2 Deep knee bend an toàn --- những điều cần kiểm tra**
 
@@ -771,13 +771,13 @@ Test đơn giản: Đứng cách tường 10cm, cố gắng chạm gối vào t�
 khi giữ gót chân sát đất. Nếu không thể làm được → ankle dorsiflexion
 cần cải thiện.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill: Ankle stretch đơn giản: Đặt tay lên tường, chân sau duỗi    |
-| thẳng gót chạm đất. Stretch 30 giây mỗi bên trước mỗi buổi tập     |
-| serve. Sau 3 tuần, dorsiflexion sẽ cải thiện rõ rệt.               |
-+--------------------------------------------------------------------+
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill: Ankle stretch đơn giản: Đặt tay lên tường, chân sau duỗi |
+| thẳng gót chạm đất. Stretch 30 giây mỗi bên trước mỗi buổi tập |
+| serve. Sau 3 tuần, dorsiflexion sẽ cải thiện rõ rệt. |
+
 
 **7.5 Stress chính trong deep knee bend là compression, không phải
 torsion**
@@ -790,13 +790,13 @@ Torsion (xoắn) chỉ xuất hiện khi: bàn chân bị ghim cứng và cơ th
 xoay, hoặc khi valgus xảy ra trong khi gối đang gập sâu. Đây mới là loại
 lực phá hủy gối theo thời gian.
 
-+:------------------------------------------------------------------:+
-| **MODULE 8**                                                       |
-|                                                                    |
-| **Bài Tập Phòng Ngừa Và Khắc Phục**                                |
-|                                                                    |
-| Chương trình tập 30 phút/ngày bảo vệ đầu gối                       |
-+--------------------------------------------------------------------+
+| **MODULE 8** |
+| --- |
+|  |
+| **Bài Tập Phòng Ngừa Và Khắc Phục** |
+|  |
+| Chương trình tập 30 phút/ngày bảo vệ đầu gối |
+
 
 **8.1 Nguyên lý: Điều trị ở nguồn, không điều trị triệu chứng**
 
@@ -821,13 +821,13 @@ Thực hiện đúng thứ tự --- mỗi bước chuẩn bị cho bước tiế
 
 42. Bài tường Trophy Position: 10 lần --- kiểm tra alignment
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| 10 phút warm-up này không chỉ bảo vệ gối --- nó còn giúp tăng tốc  |
-| độ serve. Khi hông và mắt cá đã mở, kinetic chain hoạt động hiệu   |
-| quả hơn ngay lập tức.                                              |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| 10 phút warm-up này không chỉ bảo vệ gối --- nó còn giúp tăng tốc |
+| độ serve. Khi hông và mắt cá đã mở, kinetic chain hoạt động hiệu |
+| quả hơn ngay lập tức. |
+
 
 **8.3 Bài tập tăng sức mạnh cơ mông (3-4 lần/tuần)**
 
@@ -863,8 +863,8 @@ Hông linh hoạt = gối không phải xoay bù. Thực hiện những bài nà
 
 **8.5 Cool-down 5 phút sau khi serve**
 
-Nhiều player bỏ qua cool-down. Đây là sai lầm --- gối cần được \'giải
-nén\' sau buổi tập.
+Nhiều player bỏ qua cool-down. Đây là sai lầm --- gối cần được 'giải
+nén' sau buổi tập.
 
 43. Leg shake: Đứng thẳng, rung nhẹ từng chân 30 giây --- giải phóng
     tension
@@ -879,15 +879,15 @@ nén\' sau buổi tập.
 
 47. Ice on knee (nếu cảm thấy nóng): 10-15 phút sau buổi tập nặng
 
-+:------------------------------------------------------------------:+
-| **MODULE 9**                                                       |
-|                                                                    |
-| **Foot Pivot --- Van Xả Áp Của Chuỗi Xoay**                        |
-|                                                                    |
-| Vai trò của mắt cá và bàn chân trong bảo vệ gối                    |
-+--------------------------------------------------------------------+
+| **MODULE 9** |
+| --- |
+|  |
+| **Foot Pivot --- Van Xả Áp Của Chuỗi Xoay** |
+|  |
+| Vai trò của mắt cá và bàn chân trong bảo vệ gối |
 
-**9.1 Bàn chân là \'safety valve\' của hệ thống**
+
+**9.1 Bàn chân là 'safety valve' của hệ thống**
 
 Một chi tiết mà rất nhiều player bỏ qua: các server lớn gần như luôn cho
 bàn chân pivot nhẹ, heel release nhẹ, pressure shift tự nhiên trong quá
@@ -897,17 +897,17 @@ trình serve.
 chân bị ghim cứng, torque không thoát được, lực xoay dồn vào tibia, và
 đầu gối bắt đầu chịu shear.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Foot pivot chính là \'safety valve\' (van xả áp) của rotational    |
-| chain. Nếu van này bị khóa, áp lực tích lũy không nơi thoát và sẽ  |
-| phá vỡ mắt xích yếu nhất --- thường là đầu gối.                    |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Foot pivot chính là 'safety valve' (van xả áp) của rotational |
+| chain. Nếu van này bị khóa, áp lực tích lũy không nơi thoát và sẽ |
+| phá vỡ mắt xích yếu nhất --- thường là đầu gối. |
+
 
 **9.2 Ankle mobility và mối liên hệ với gối**
 
-Mắt cá là \'bộ giảm xoắn\' cực quan trọng. Ankle mobility tốt cho phép:
+Mắt cá là 'bộ giảm xoắn' cực quan trọng. Ankle mobility tốt cho phép:
 pressure shift, heel release, tibial rotation nhỏ, và foot pivot tự
 nhiên. Điều này giúp rotational stress phân tán thay vì dồn lên đầu gối.
 
@@ -924,34 +924,34 @@ nhưng nguồn gốc thật sự lại nằm ở ankle stiffness.
 
   Tibia xoay theo hông               Tibia bị khóa, gối chịu shear
 
-  Cảm giác nhẹ nhàng khi serve       Cảm giác \'kẹt\' ở gối
+  Cảm giác nhẹ nhàng khi serve       Cảm giác 'kẹt' ở gối
   ---------------------------------------------------------------------
 
 **9.3 Hard court vs Clay court --- tại sao khác nhau?**
 
-Nhiều player nhận thấy serve trên clay \'mượt\' hơn và ít đau gối hơn dù
+Nhiều player nhận thấy serve trên clay 'mượt' hơn và ít đau gối hơn dù
 tốc độ serve không cao hơn. Lý do biomechanics rất rõ ràng:
 
 - Trên hard court: friction lớn, foot release ít, torque bị giữ lại lâu
   hơn tại gối
 
-- Trên clay: bàn chân được trượt nhẹ, rotational energy \'thoát\' bớt,
+- Trên clay: bàn chân được trượt nhẹ, rotational energy 'thoát' bớt,
   knee shear thấp hơn
 
 - Trên grass: bàn chân có thể trượt nhiều hơn, nhưng cũng dễ mất thăng
   bằng
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
 | Nếu bạn thường xuyên chơi trên hard court và đau gối, hãy đặc biệt |
 | chú ý đến 2 điều: (1) Mang giày với đế phù hợp hard court. (2) Tập |
-| foot pivot tự nhiên hơn thay vì \'ghim\' chân.                     |
-+--------------------------------------------------------------------+
+| foot pivot tự nhiên hơn thay vì 'ghim' chân. |
+
 
 **9.4 Cách tập foot pivot đúng**
 
-Foot pivot không có nghĩa là \'xoay cổ chân tùy tiện\'. Nó là một chuyển
+Foot pivot không có nghĩa là 'xoay cổ chân tùy tiện'. Nó là một chuyển
 động tự nhiên theo sau hip rotation.
 
 48. Đứng serve stance bình thường, không toss bóng
@@ -964,21 +964,21 @@ Foot pivot không có nghĩa là \'xoay cổ chân tùy tiện\'. Nó là một 
 
 52. Thực hiện 20 lần với tốc độ chậm trước khi áp dụng vào serve thực
 
-+:------------------------------------------------------------------:+
-| **MODULE 10**                                                      |
-|                                                                    |
-| **Giai Đoạn Loading --- Nạp Lực Đúng Cách**                        |
-|                                                                    |
-| Phase 1: Từ stance đến điểm thấp nhất                              |
-+--------------------------------------------------------------------+
+| **MODULE 10** |
+| --- |
+|  |
+| **Giai Đoạn Loading --- Nạp Lực Đúng Cách** |
+|  |
+| Phase 1: Từ stance đến điểm thấp nhất |
+
 
 **10.1 Loading phase là gì?**
 
 Loading phase là giai đoạn từ khi bắt đầu hạ trọng tâm đến điểm sâu nhất
-(Trophy Position). Trong giai đoạn này, cơ thể đang \'nạp\' năng lượng
+(Trophy Position). Trong giai đoạn này, cơ thể đang 'nạp' năng lượng
 đàn hồi --- giống như ép một cái lò xo xuống.
 
-Nhiều player nghĩ loading phase là \'gập gối xuống\'. Nhưng chính xác
+Nhiều player nghĩ loading phase là 'gập gối xuống'. Nhưng chính xác
 hơn là: TOÀN BỘ CƠ THỂ đang tích elastic energy --- mắt cá dorsiflex,
 hông gập, glute căng, fascia xoắn, trunk bị kéo dài. Đầu gối chỉ nằm ở
 giữa hệ thống đó.
@@ -993,16 +993,16 @@ Loading phase thực ra có ba micro-phase quan trọng:
 54. Coil: Hông bắt đầu xoay (pelvis coil), trunk counter-rotate,
     hip-shoulder separation tăng
 
-55. Lock: Toàn bộ hệ thống \'đóng băng\' một khoảnh khắc --- lưu trữ tối
+55. Lock: Toàn bộ hệ thống 'đóng băng' một khoảnh khắc --- lưu trữ tối
     đa elastic energy
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
-| Nhiều player bỏ qua micro-phase \'Lock\'. Họ đi từ Coil thẳng sang |
-| Uncoil quá nhanh. Kết quả: mất elastic energy, phải bù bằng cơ     |
-| bắp, và gối phải chịu thêm tải.                                    |
-+--------------------------------------------------------------------+
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
+| Nhiều player bỏ qua micro-phase 'Lock'. Họ đi từ Coil thẳng sang |
+| Uncoil quá nhanh. Kết quả: mất elastic energy, phải bù bằng cơ |
+| bắp, và gối phải chịu thêm tải. |
+
 
 **10.3 Cảm giác đúng của loading phase**
 
@@ -1013,14 +1013,14 @@ Khi loading phase đúng, bạn sẽ cảm thấy:
 
 - MÔNG BẮT ĐẦU CĂNG --- đây là dấu hiệu hông đang hinge đúng
 
-- Cảm giác \'căng chéo\' từ hông phải qua oblique trái
+- Cảm giác 'căng chéo' từ hông phải qua oblique trái
 
 - Đầu gối KHÔNG cảm thấy bị ép hay xoắn
 
-- Cơ thể như \'lò xo đang bị ép xuống\' --- không phải \'đang bị đè
-  nặng\'
+- Cơ thể như 'lò xo đang bị ép xuống' --- không phải 'đang bị đè
+  nặng'
 
-**10.4 Sự khác biệt giữa \'nạp lực đúng\' và \'nén khớp sai\'**
+**10.4 Sự khác biệt giữa 'nạp lực đúng' và 'nén khớp sai'**
 
   ---------------------------------------------------------------------
   **NẠP LỰC ĐÚNG ✅**                **NÉN KHỚP SAI ❌**
@@ -1035,21 +1035,21 @@ Khi loading phase đúng, bạn sẽ cảm thấy:
   explode                            
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill: Shadow serve chậm 30%. Ở điểm thấp nhất (Trophy Position),  |
-| giữ 3 giây. Trong 3 giây đó: có cảm thấy mông căng không? Có cảm   |
-| thấy gối muốn bật lên không? Nếu có → bạn đang loading đúng.       |
-+--------------------------------------------------------------------+
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill: Shadow serve chậm 30%. Ở điểm thấp nhất (Trophy Position), |
+| giữ 3 giây. Trong 3 giây đó: có cảm thấy mông căng không? Có cảm |
+| thấy gối muốn bật lên không? Nếu có → bạn đang loading đúng. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 11**                                                      |
-|                                                                    |
-| **Giai Đoạn Uncoil --- Giải Phóng Năng Lượng**                     |
-|                                                                    |
-| Phase 2: Từ Trophy Position đến tiếp xúc bóng                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 11** |
+| --- |
+|  |
+| **Giai Đoạn Uncoil --- Giải Phóng Năng Lượng** |
+|  |
+| Phase 2: Từ Trophy Position đến tiếp xúc bóng |
+
 
 **11.1 Uncoil phase --- khi lò xo bung ra**
 
@@ -1067,16 +1067,16 @@ Quy tắc gần như tuyệt đối trong serve biomechanics: PELVIS PHẢI BẮ
 MỞ TRƯỚC KHI KNEE EXTENSION ĐẠT ĐỈNH.
 
 Nếu hip lead đúng: knee tự mở theo, lực đi lên, rotation không bị kẹt.
-Nếu hip lead sai (knee duỗi trước khi hip mở đủ): knee phải \'cứu
-timing\', dẫn đến shear + overload.
+Nếu hip lead sai (knee duỗi trước khi hip mở đủ): knee phải 'cứu
+timing', dẫn đến shear + overload.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Cue: Nghĩ về serve như \'HÔng mở, vai được kéo theo\'. Không phải  |
-| \'ĐẨY lên bằng gối\'. Sự khác biệt trong ngôn ngữ này tạo ra sự    |
-| khác biệt lớn trong pattern vận động.                              |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Cue: Nghĩ về serve như 'HÔng mở, vai được kéo theo'. Không phải |
+| 'ĐẨY lên bằng gối'. Sự khác biệt trong ngôn ngữ này tạo ra sự |
+| khác biệt lớn trong pattern vận động. |
+
 
 **11.3 Vai trò của trunk delay**
 
@@ -1084,8 +1084,8 @@ Một trong những yếu tố tinh tế nhất của serve đỉnh cao là trun
 --- thân trên giữ lại một chút sau khi hông đã bắt đầu mở. Điều này tạo
 ra stretch-shortening cycle trong cơ thân, khuếch đại tốc độ.
 
-Khi trunk delay đúng: elastic recoil tối đa, serve có \'whip\'. Khi
-trunk mở sớm: mất separation, serve \'flat\', và thường phải bù bằng
+Khi trunk delay đúng: elastic recoil tối đa, serve có 'whip'. Khi
+trunk mở sớm: mất separation, serve 'flat', và thường phải bù bằng
 shoulder power → overload vai.
 
 **11.4 Uncoil sequence của Djokovic**
@@ -1100,28 +1100,28 @@ Từ dữ liệu 3D của Djokovic, chuỗi uncoil diễn ra như sau:
 
 - Đầu vợt: 24.35 m/s --- tốc độ tăng \~7x từ vai đến vợt
 
-**11.5 Tại sao \'vertical first\' là cue bảo vệ gối tốt nhất**
+**11.5 Tại sao 'vertical first' là cue bảo vệ gối tốt nhất**
 
-Cue \'đi lên trước khi đi quanh\' có hai hiệu ứng đồng thời: Tăng racket
+Cue 'đi lên trước khi đi quanh' có hai hiệu ứng đồng thời: Tăng racket
 drop tự nhiên (khi cơ thể bật lên, vai thả lỏng hơn, arm lag xuất hiện
 tự nhiên, whip tốt hơn). Giảm knee torque vì compression giảm, friction
-giảm, lower leg được \'giải phóng\'.
+giảm, lower leg được 'giải phóng'.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill: Serve không nhảy --- chỉ nhón mũi, tiếp đất mềm. Tập 20 cú  |
-| như vậy, cảm nhận cơ thể \'nâng lên\' từ hông chứ không phải \'đẩy |
-| lên\' từ gối. Sau đó thêm jump tự nhiên.                           |
-+--------------------------------------------------------------------+
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill: Serve không nhảy --- chỉ nhón mũi, tiếp đất mềm. Tập 20 cú |
+| như vậy, cảm nhận cơ thể 'nâng lên' từ hông chứ không phải 'đẩy |
+| lên' từ gối. Sau đó thêm jump tự nhiên. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 12**                                                      |
-|                                                                    |
-| **Airborne Phase --- Bí Mật Thật Sự**                              |
-|                                                                    |
-| Tại sao serve mạnh nhất xảy ra khi bạn đang bay                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 12** |
+| --- |
+|  |
+| **Airborne Phase --- Bí Mật Thật Sự** |
+|  |
+| Tại sao serve mạnh nhất xảy ra khi bạn đang bay |
+
 
 **12.1 Airborne rotation --- điều mà 90% player bỏ qua**
 
@@ -1130,17 +1130,17 @@ không phải lúc cơ thể xoay nhanh nhất, mà là lúc xoay TRONG KHI VẪ
 BỊ NÉN XUỐNG MẶT SÂN.
 
 Khi chân còn dính mặt sân: đầu gối đang chịu compression, ground
-reaction force đi ngược lên, tibia bị \'khóa\' tương đối bởi ma sát với
+reaction force đi ngược lên, tibia bị 'khóa' tương đối bởi ma sát với
 sân. Nếu lúc đó cơ thể cố xoay mạnh: torque sẽ đi qua gối, shear stress
 tăng rất nhanh.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý \'giải nén trước khi xoay\': Các server lớn coil khi còn |
-| trên đất, nhưng phần uncoil mạnh nhất thường xảy ra khi cơ thể     |
-| đang bay lên. Họ GIẢI PHÓNG ROTATION SAU KHI GIẢM COMPRESSION.     |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý 'giải nén trước khi xoay': Các server lớn coil khi còn |
+| trên đất, nhưng phần uncoil mạnh nhất thường xảy ra khi cơ thể |
+| đang bay lên. Họ GIẢI PHÓNG ROTATION SAU KHI GIẢM COMPRESSION. |
+
 
 **12.2 Cơ chế thay đổi khi airborne**
 
@@ -1158,7 +1158,7 @@ Khi player bắt đầu push off và rời mặt đất, cơ chế thay đổi h
   Grounded system --- pushing        Free-moving system --- whipping
   ---------------------------------------------------------------------
 
-**12.3 Cue thực hành: \'Up first, rotate second\'**
+**12.3 Cue thực hành: 'Up first, rotate second'**
 
 Đây là cue đơn giản nhất nhưng hiệu quả nhất. Khi áp dụng đúng: vertical
 drive xảy ra trước, rotation tăng mạnh sau khi unloading bắt đầu.
@@ -1168,40 +1168,40 @@ vertical, pelvis bắt đầu mở, rồi trunk và vai mới whip qua. Rotation
 nhất xảy ra khi center of mass đã rời sân --- không phải lúc gối đang bị
 nén mạnh nhất.
 
-**12.4 Serve mạnh thường \'nhẹ\' ở đầu gối --- nghịch lý thú vị**
+**12.4 Serve mạnh thường 'nhẹ' ở đầu gối --- nghịch lý thú vị**
 
-Các server lớn nhất thường không có cảm giác \'ép gối\'. Họ cảm thấy:
+Các server lớn nhất thường không có cảm giác 'ép gối'. Họ cảm thấy:
 springy, floating, explosive upward. Trong khi recreational players lại
-thường cảm thấy nặng ở đầu gối, bị kẹt dưới đất, phải \'rặn lực\'.
+thường cảm thấy nặng ở đầu gối, bị kẹt dưới đất, phải 'rặn lực'.
 
 ATP servers dùng: elastic sequencing, momentum transfer, airborne
 uncoiling. Recreational players lại dùng: muscular forcing, grounded
 twisting, static torque. Một bên giải phóng lực, bên kia cưỡng ép lực.
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
-| Drill airborne: Tập shadow serve focusing vào jump. Cảm nhận       |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
+| Drill airborne: Tập shadow serve focusing vào jump. Cảm nhận |
 | khoảnh khắc hai chân rời sân. Trong khoảnh khắc đó, cơ thể trở nên |
-| \'tự do\'. Hướng cú đánh vào cảm giác này.                         |
-+--------------------------------------------------------------------+
+| 'tự do'. Hướng cú đánh vào cảm giác này. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 13**                                                      |
-|                                                                    |
-| **Landing Phase --- Nơi Gối Trả Hóa Đơn**                          |
-|                                                                    |
-| Phase 3: Tiếp đất sau cú serve                                     |
-+--------------------------------------------------------------------+
+
+| **MODULE 13** |
+| --- |
+|  |
+| **Landing Phase --- Nơi Gối Trả Hóa Đơn** |
+|  |
+| Phase 3: Tiếp đất sau cú serve |
+
 
 **13.1 Landing phase bị bỏ qua nhưng cực kỳ nguy hiểm**
 
 Nhiều chấn thương không xảy ra ở loading, mà xảy ra ở deceleration +
 landing phase. Khi racket đã chạm bóng, cơ thể vẫn đang xoay, momentum
-còn rất lớn, chân phải \'hứng\' toàn bộ hệ thống.
+còn rất lớn, chân phải 'hứng' toàn bộ hệ thống.
 
 Airborne phase an toàn cho xoay, nhưng landing mới là nơi nguy cơ thứ
-hai. Đặc biệt với players landing lệch hoặc \'step-through\' không kiểm
+hai. Đặc biệt với players landing lệch hoặc 'step-through' không kiểm
 soát.
 
 **13.2 Landing tốt vs Landing xấu**
@@ -1217,16 +1217,16 @@ soát.
 
   Mắt cá dissipates energy           Shock đi thẳng lên gối, lưng
 
-  Tiếp đất êm, kiểm soát được        Tiếp đất \'bịch\', mất kiểm soát
+  Tiếp đất êm, kiểm soát được        Tiếp đất 'bịch', mất kiểm soát
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Quy tắc landing: Tiếp đất bằng mũi chân → gót nhẹ nhàng tiếp theo  |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Quy tắc landing: Tiếp đất bằng mũi chân → gót nhẹ nhàng tiếp theo |
 | → gối gập nhẹ để hấp thụ. Chuỗi này phân tán lực an toàn. Nếu tiếp |
-| đất bằng gót khóa thẳng, lực dội ngược lên gối và cột sống.        |
-+--------------------------------------------------------------------+
+| đất bằng gót khóa thẳng, lực dội ngược lên gối và cột sống. |
+
 
 **13.3 Step-through --- đặt chân trước đúng cách**
 
@@ -1255,21 +1255,21 @@ Muốn landing tốt hơn, phải tăng leg control và eccentric strength.
 58. Jump-land-hold: Nhảy thẳng lên, tiếp đất và GIỮ NGUYÊN 3 giây. Kiểm
     tra: gối có vào valgus không?
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Sau 3 tuần luyện tập landing, hầu hết player nhận thấy: đau gối    |
-| sau serve giảm rõ rệt, ngay cả khi chưa thay đổi kỹ thuật serve.   |
-| Landing quality là thứ bị bỏ qua nhiều nhất.                       |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Sau 3 tuần luyện tập landing, hầu hết player nhận thấy: đau gối |
+| sau serve giảm rõ rệt, ngay cả khi chưa thay đổi kỹ thuật serve. |
+| Landing quality là thứ bị bỏ qua nhiều nhất. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 14**                                                      |
-|                                                                    |
-| **Phân Tích Video --- Công Cụ Tự Học Mạnh Nhất**                   |
-|                                                                    |
-| Cách quay và phân tích serve của chính bạn                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 14** |
+| --- |
+|  |
+| **Phân Tích Video --- Công Cụ Tự Học Mạnh Nhất** |
+|  |
+| Cách quay và phân tích serve của chính bạn |
+
 
 **14.1 Tại sao video là công cụ thiết yếu?**
 
@@ -1310,27 +1310,27 @@ Sau khi có video, phân tích theo 8 điểm này (dùng slow motion):
 
 66. Landing: Tiếp đất mềm bằng mũi chân hay cứng bằng gót?
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Ứng dụng gợi ý: Hudl Technique (miễn phí) cho phép slow motion và  |
-| vẽ đường thẳng trên video. Rất hữu ích để kiểm tra alignment.      |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Ứng dụng gợi ý: Hudl Technique (miễn phí) cho phép slow motion và |
+| vẽ đường thẳng trên video. Rất hữu ích để kiểm tra alignment. |
+
 
 **14.4 So sánh với video của pro players**
 
 Tìm video slow motion của Djokovic hoặc Federer trên YouTube (tìm:
-\'Djokovic serve slow motion biomechanics\'). Pause ở Trophy Position và
+'Djokovic serve slow motion biomechanics'). Pause ở Trophy Position và
 so sánh với video của bạn. Chú ý: góc nghiêng thân, alignment
 gối-hông-mắt cá, và vị trí của hai tay.
 
-+:------------------------------------------------------------------:+
-| **MODULE 15**                                                      |
-|                                                                    |
-| **Tổng Kết Phần 1 --- Nền Tảng Hoàn Chỉnh**                        |
-|                                                                    |
-| Review 15 modules đầu và kế hoạch tiếp theo                        |
-+--------------------------------------------------------------------+
+| **MODULE 15** |
+| --- |
+|  |
+| **Tổng Kết Phần 1 --- Nền Tảng Hoàn Chỉnh** |
+|  |
+| Review 15 modules đầu và kế hoạch tiếp theo |
+
 
 **15.1 Những điều cốt lõi từ 14 modules vừa qua**
 
@@ -1349,20 +1349,20 @@ dựng trên đó.
   phải ở gối
 
 - Airborne uncoiling: giải phóng rotation SAU KHI giảm compression ---
-  \'up first, rotate second\'
+  'up first, rotate second'
 
 - Landing quality: tiếp đất mềm, gối gập nhẹ --- KHÔNG tiếp đất bằng gót
   cứng
 
 - Bảo vệ gối = bảo vệ toàn chuỗi, không chỉ tập trung vào gối
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
 | Key insight: Nếu bạn nhớ được một điều duy nhất từ Phần 1, hãy nhớ |
-| điều này: \'Đầu gối khỏe không phải vì nó mạnh --- mà vì nó không  |
-| phải làm việc sai chức năng.\'                                     |
-+--------------------------------------------------------------------+
+| điều này: 'Đầu gối khỏe không phải vì nó mạnh --- mà vì nó không |
+| phải làm việc sai chức năng.' |
+
 
 **15.2 Self-assessment: Bạn đang ở đâu?**
 
@@ -1404,32 +1404,32 @@ gối an toàn. Phần này đặc biệt phù hợp với player 3.5--4.5 muố
 
 Module 16 -- 40 \| Dành cho player 3.5 -- 4.5
 
-+:------------------------------------------------------------------:+
-| **MODULE 16**                                                      |
-|                                                                    |
-| **Hip Internal Rotation --- Chìa Khóa Unlocking Power**            |
-|                                                                    |
-| Tại sao hip IR quyết định chất lượng serve                         |
-+--------------------------------------------------------------------+
+| **MODULE 16** |
+| --- |
+|  |
+| **Hip Internal Rotation --- Chìa Khóa Unlocking Power** |
+|  |
+| Tại sao hip IR quyết định chất lượng serve |
+
 
 **16.1 Hip internal rotation là gì và tại sao quan trọng?**
 
 Hip internal rotation (IR) là khả năng xoay đùi vào trong trong ổ cối.
 Trong serve, đây là chuyển động nền tảng của hip coil phase. Nếu thiếu
-hip IR, cơ thể sẽ \'ăn cắp\' biên độ xoay từ gối và thắt lưng --- gây
+hip IR, cơ thể sẽ 'ăn cắp' biên độ xoay từ gối và thắt lưng --- gây
 chấn thương mãn tính.
 
 Một bài test đơn giản: Ngồi trên ghế, chân song song. Xoay mũi chân trái
 ra ngoài trong khi giữ đùi cố định. Biên độ bình thường khoảng 30-45 độ.
 Nếu dưới 20 độ, hip IR đang hạn chế serve của bạn.
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
 | Nghiên cứu cho thấy player có hip IR \< 20° có nguy cơ đau gối cao |
-| hơn 3 lần khi serve tốc độ cao. Đây là chỉ số quan trọng nhất mà   |
-| hầu hết người chơi không bao giờ kiểm tra.                         |
-+--------------------------------------------------------------------+
+| hơn 3 lần khi serve tốc độ cao. Đây là chỉ số quan trọng nhất mà |
+| hầu hết người chơi không bao giờ kiểm tra. |
+
 
 **16.2 Bài tập tăng hip IR**
 
@@ -1472,21 +1472,21 @@ nguồn.
 
 78. Áp dụng vào serve với 50% tốc độ, cảm nhận sự khác biệt
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Kết quả thực tế: Nhiều player level 3.5-4.0 sau 4 tuần cải thiện   |
-| hip IR báo cáo: tốc độ serve tăng 5-8%, và đau gối giảm ngay lập   |
-| tức. Lý do: hip đang làm việc thay cho gối.                        |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Kết quả thực tế: Nhiều player level 3.5-4.0 sau 4 tuần cải thiện |
+| hip IR báo cáo: tốc độ serve tăng 5-8%, và đau gối giảm ngay lập |
+| tức. Lý do: hip đang làm việc thay cho gối. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 17**                                                      |
-|                                                                    |
-| **Glute Activation --- Cơ Mông Bảo Vệ Đầu Gối**                    |
-|                                                                    |
-| Tại sao glutes là \'người bảo vệ gối\' quan trọng nhất             |
-+--------------------------------------------------------------------+
+
+| **MODULE 17** |
+| --- |
+|  |
+| **Glute Activation --- Cơ Mông Bảo Vệ Đầu Gối** |
+|  |
+| Tại sao glutes là 'người bảo vệ gối' quan trọng nhất |
+
 
 **17.1 Glutes và đầu gối --- mối liên hệ ít ai biết**
 
@@ -1495,7 +1495,7 @@ glutes hoạt động tốt: pelvis ổn định, femur tracking sạch, valgus 
 vertical drive mạnh hơn. Khi glutes yếu: quadriceps takeover, knee
 drift, tibial stress tăng.
 
-Rất nhiều player nghĩ \'đầu gối tôi yếu\'. Nhưng thực tế glutes của họ
+Rất nhiều player nghĩ 'đầu gối tôi yếu'. Nhưng thực tế glutes của họ
 không hấp thụ và định hướng lực đúng cách. Đây là sự hiểu nhầm phổ biến
 nhất về chấn thương gối trong tennis.
 
@@ -1505,13 +1505,13 @@ Trước khi biết có cần tập glute không, hãy test chúng. Nằm úp, g
 chân 90° và đưa lên phía trần nhà (hip extension). Chú ý: cơ mông có
 siết trước không, hay lưng dưới bắt đầu làm việc trước?
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
-| Nếu lưng dưới bạn căng trước khi mông siết khi làm test này →      |
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
+| Nếu lưng dưới bạn căng trước khi mông siết khi làm test này → |
 | glute inhibition đang xảy ra. Nhiều player có mông yếu do ngồi quá |
-| nhiều, dẫn đến hip flexor tight và glute shut-off.                 |
-+--------------------------------------------------------------------+
+| nhiều, dẫn đến hip flexor tight và glute shut-off. |
+
 
 **17.3 Top 5 bài tập glute activation cho tennis players**
 
@@ -1532,7 +1532,7 @@ siết trước không, hay lưng dưới bắt đầu làm việc trước?
 
 **17.4 Glute activation trong warm-up serve**
 
-Trước mỗi buổi serve, thực hiện \'glute wake-up\' sequence: 15
+Trước mỗi buổi serve, thực hiện 'glute wake-up' sequence: 15
 clamshells mỗi bên, 15 glute bridges, 10 lateral band walks mỗi hướng.
 Tổng 5 phút. Sau đó serve thử 3 cú --- bạn sẽ cảm thấy rõ sự khác biệt ở
 mông khi push off.
@@ -1552,15 +1552,15 @@ mông khi push off.
                                      band
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 18**                                                      |
-|                                                                    |
-| **Core Timing --- Trung Tâm Điều Phối Kinetic Chain**              |
-|                                                                    |
-| Vai trò của core trong việc bảo vệ gối                             |
-+--------------------------------------------------------------------+
+| **MODULE 18** |
+| --- |
+|  |
+| **Core Timing --- Trung Tâm Điều Phối Kinetic Chain** |
+|  |
+| Vai trò của core trong việc bảo vệ gối |
 
-**18.1 Core không phải chỉ là \'bụng 6 múi\'**
+
+**18.1 Core không phải chỉ là 'bụng 6 múi'**
 
 Nhiều người nghĩ core training là tập crunch để có 6-pack. Trong tennis
 biomechanics, core là toàn bộ hệ thống cơ ổn định từ cơ hoành đến sàn
@@ -1572,13 +1572,13 @@ giữ trunk lại một khoảnh khắc sau khi hông đã bắt đầu mở (de
 giải phóng (release) tạo ra elastic recoil. Đây là nguồn gốc của whip
 trong serve.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Khi core hoạt động đúng: đầu gối không phải chịu thêm tải bất      |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Khi core hoạt động đúng: đầu gối không phải chịu thêm tải bất |
 | thường vì lực được phân phối đều qua toàn chuỗi. Khi core yếu: gối |
-| thường là nơi \'chịu phần dư\' của sai lệch.                       |
-+--------------------------------------------------------------------+
+| thường là nơi 'chịu phần dư' của sai lệch. |
+
 
 **18.2 Anti-rotation core training --- bài tập đúng nhất**
 
@@ -1617,26 +1617,26 @@ Khi core timing sai (trunk mở sớm), hông phải uncoil sớm hơn dự ki�
 Gối khi đó còn đang ở giai đoạn compression cao, và rotation bị kéo qua
 gối. Kết quả: knee torque tăng, ACL và sụn chêm chịu tải bất thường.
 
-+--------------------------------------------------------------------+
-| **⚠️ CẢNH BÁO**                                                    |
-|                                                                    |
-| Insight quan trọng: Nhiều ca đau vai trong tennis thực chất bắt    |
+| **⚠️ CẢNH BÁO** |
+| --- |
+|  |
+| Insight quan trọng: Nhiều ca đau vai trong tennis thực chất bắt |
 | nguồn từ hông yếu, chân không nạp được lực, đầu gối mất alignment, |
-| kinetic chain bị đứt từ dưới lên. Tương tự, nhiều ca đau gối bắt   |
-| nguồn từ core timing sai.                                          |
-+--------------------------------------------------------------------+
+| kinetic chain bị đứt từ dưới lên. Tương tự, nhiều ca đau gối bắt |
+| nguồn từ core timing sai. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 19**                                                      |
-|                                                                    |
-| **Elastic Energy --- Lực Đàn Hồi Là Nguồn Sức Mạnh Thật Sự**       |
-|                                                                    |
-| Tại sao serve mạnh đến từ spring, không phải từ cơ bắp             |
-+--------------------------------------------------------------------+
+
+| **MODULE 19** |
+| --- |
+|  |
+| **Elastic Energy --- Lực Đàn Hồi Là Nguồn Sức Mạnh Thật Sự** |
+|  |
+| Tại sao serve mạnh đến từ spring, không phải từ cơ bắp |
+
 
 **19.1 Elastic energy là gì?**
 
-Serve lớn không đến từ việc \'đẩy bóng mạnh\'. Nó đến từ elastic energy
+Serve lớn không đến từ việc 'đẩy bóng mạnh'. Nó đến từ elastic energy
 storage and release --- tích trữ và giải phóng năng lượng đàn hồi. Giống
 như cung tên: không phải tay bắn, mà là dây cung tích và giải phóng.
 
@@ -1661,13 +1661,13 @@ vai tăng tốc, cẳng tay pronate, đầu vợt whip. Toàn bộ chuỗi này 
   Đầu gối: chia lực toàn hệ thống    Đầu gối: chịu lực cục bộ
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nghịch lý của serve mạnh: Serve đỉnh cao tạo ra vận tốc lớn,       |
-| ground force lớn, rotational velocity lớn --- nhưng cảm giác chủ   |
-| quan lại nhẹ, trôi, đàn hồi. Đây là \'illusion of effort\'.        |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nghịch lý của serve mạnh: Serve đỉnh cao tạo ra vận tốc lớn, |
+| ground force lớn, rotational velocity lớn --- nhưng cảm giác chủ |
+| quan lại nhẹ, trôi, đàn hồi. Đây là 'illusion of effort'. |
+
 
 **19.3 Stretch-shortening cycle (SSC)**
 
@@ -1693,21 +1693,21 @@ nhiều hơn --- dẫn đến overload.
 87. Lateral bound: Nhảy ngang một chân, tiếp đất bằng một chân, bật ngay
     sang phía đối diện.
 
-**19.5 Tại sao serve tốt thường \'êm\'**
+**19.5 Tại sao serve tốt thường 'êm'**
 
 Một serve biomechanically tốt thường nghe và nhìn rất smooth. Không có
 tiếng chân đập mạnh, không có braking motion rõ, không có collapse nặng
 xuống sân. Lý do là energy transfer liên tục, không bị dừng, khóa, rồi
 ép tiếp. Khi force flow liên tục, joints ít bị peak stress, đầu gối chịu
-tải \'mềm\' hơn nhiều.
+tải 'mềm' hơn nhiều.
 
-+:------------------------------------------------------------------:+
-| **MODULE 20**                                                      |
-|                                                                    |
-| **Pelvis Control --- Bộ Điều Khiển Trung Tâm**                     |
-|                                                                    |
-| Cách pelvis quyết định số phận của đầu gối                         |
-+--------------------------------------------------------------------+
+| **MODULE 20** |
+| --- |
+|  |
+| **Pelvis Control --- Bộ Điều Khiển Trung Tâm** |
+|  |
+| Cách pelvis quyết định số phận của đầu gối |
+
 
 **20.1 Pelvis là trung tâm của kinetic chain**
 
@@ -1715,24 +1715,24 @@ Pelvis (xương chậu) nằm ở giữa cơ thể và là điểm trung chuyể
 body power và upper body whip. Khi pelvis kiểm soát tốt, toàn bộ kinetic
 chain hoạt động mượt. Khi pelvis mất kiểm soát, cả chuỗi bị phá vỡ.
 
-Trong serve, pelvis phải: coil (xoay) đúng timing, \'float\' (nổi lên)
+Trong serve, pelvis phải: coil (xoay) đúng timing, 'float' (nổi lên)
 khi push off, và return to neutral khi landing. Mỗi giai đoạn đòi hỏi kỹ
 năng điều khiển khác nhau.
 
-**20.2 \'Floating pelvis\' --- dấu hiệu của serve hiệu quả**
+**20.2 'Floating pelvis' --- dấu hiệu của serve hiệu quả**
 
 Ở ATP servers, pelvis thường có cảm giác nổi, được kéo lên, không bị
-ghim xuống chân. Khi pelvis \'float\': hips có tự do xoay, trunk uncoil
+ghim xuống chân. Khi pelvis 'float': hips có tự do xoay, trunk uncoil
 mượt, knee compression giảm nhanh. Ngược lại, nếu pelvis bị stuck, low,
 hoặc trapped giữa hai chân: gối bị xoắn, phải đẩy bằng quads, mất whip.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Pelvis escaping upward from the ground --- đây là image mạnh nhất  |
-| để hình dung serve đúng. Pelvis không bị giam cầm dưới đất; nó     |
-| được phóng lên.                                                    |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Pelvis escaping upward from the ground --- đây là image mạnh nhất |
+| để hình dung serve đúng. Pelvis không bị giam cầm dưới đất; nó |
+| được phóng lên. |
+
 
 **20.3 Anterior vs Posterior pelvic tilt trong serve**
 
@@ -1755,7 +1755,7 @@ hoặc trapped giữa hai chân: gối bị xoắn, phải đẩy bằng quads, 
 
 89. Thực hiện hip coil chậm --- cảm nhận pelvis xoay
 
-90. Khi uncoil, chú ý: pelvis có cảm giác \'nổi lên\' không?
+90. Khi uncoil, chú ý: pelvis có cảm giác 'nổi lên' không?
 
 91. Nếu cảm thấy pelvis bị ghim xuống → glutes chưa đủ hoạt động
 
@@ -1767,13 +1767,13 @@ Pelvis control trực tiếp ảnh hưởng đến gối: khi pelvis coil xảy 
 nền hông linh hoạt, gối gần như không tham gia xoắn. Khi pelvis mất kiểm
 soát và rotation bị kéo xuống, gối là mắt xích yếu nhất phải chịu tải.
 
-+:------------------------------------------------------------------:+
-| **MODULE 21**                                                      |
-|                                                                    |
-| **Shoulder Sequencing**                                            |
-|                                                                    |
-| Vai và cách nó khuếch đại lực từ hông                              |
-+--------------------------------------------------------------------+
+| **MODULE 21** |
+| --- |
+|  |
+| **Shoulder Sequencing** |
+|  |
+| Vai và cách nó khuếch đại lực từ hông |
+
 
 **21.1 Nguyên lý cốt lõi**
 
@@ -1784,13 +1784,13 @@ level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **21.2 Áp dụng thực tế**
 
@@ -1814,36 +1814,36 @@ tinh tế khác nhau.
 **21.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 22**                                                      |
-|                                                                    |
-| **Arm Lag Và Wrist Snap**                                          |
-|                                                                    |
-| Cuối chuỗi kinetic --- whip hoàn chỉnh                             |
-+--------------------------------------------------------------------+
+
+| **MODULE 22** |
+| --- |
+|  |
+| **Arm Lag Và Wrist Snap** |
+|  |
+| Cuối chuỗi kinetic --- whip hoàn chỉnh |
+
 
 **22.1 Nguyên lý cốt lõi**
 
@@ -1854,13 +1854,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **22.2 Áp dụng thực tế**
 
@@ -1884,36 +1884,36 @@ tinh tế khác nhau.
 **22.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 23**                                                      |
-|                                                                    |
-| **Toss Mechanics**                                                 |
-|                                                                    |
-| Tung bóng ảnh hưởng thế nào đến gối                                |
-+--------------------------------------------------------------------+
+
+| **MODULE 23** |
+| --- |
+|  |
+| **Toss Mechanics** |
+|  |
+| Tung bóng ảnh hưởng thế nào đến gối |
+
 
 **23.1 Nguyên lý cốt lõi**
 
@@ -1924,13 +1924,13 @@ trọng trong hệ thống bảo vệ đầu gối và tối ưu hóa serve cho 
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **23.2 Áp dụng thực tế**
 
@@ -1954,36 +1954,36 @@ tinh tế khác nhau.
 **23.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 24**                                                      |
-|                                                                    |
-| **Stance và Foot Position**                                        |
-|                                                                    |
-| Nền tảng của alignment tốt                                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 24** |
+| --- |
+|  |
+| **Stance và Foot Position** |
+|  |
+| Nền tảng của alignment tốt |
+
 
 **24.1 Nguyên lý cốt lõi**
 
@@ -1994,13 +1994,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **24.2 Áp dụng thực tế**
 
@@ -2024,36 +2024,36 @@ tinh tế khác nhau.
 **24.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 25**                                                      |
-|                                                                    |
-| **Spin Serve Biomechanics**                                        |
-|                                                                    |
-| Kick serve và load lên gối                                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 25** |
+| --- |
+|  |
+| **Spin Serve Biomechanics** |
+|  |
+| Kick serve và load lên gối |
+
 
 **25.1 Nguyên lý cốt lõi**
 
@@ -2064,13 +2064,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **25.2 Áp dụng thực tế**
 
@@ -2094,36 +2094,36 @@ tinh tế khác nhau.
 **25.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 26**                                                      |
-|                                                                    |
-| **Flat Serve Biomechanics**                                        |
-|                                                                    |
-| Power serve và vertical drive                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 26** |
+| --- |
+|  |
+| **Flat Serve Biomechanics** |
+|  |
+| Power serve và vertical drive |
+
 
 **26.1 Nguyên lý cốt lõi**
 
@@ -2134,13 +2134,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **26.2 Áp dụng thực tế**
 
@@ -2164,36 +2164,36 @@ tinh tế khác nhau.
 **26.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 27**                                                      |
-|                                                                    |
-| **Slice Serve Biomechanics**                                       |
-|                                                                    |
-| Lateral serve và hip rotation                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 27** |
+| --- |
+|  |
+| **Slice Serve Biomechanics** |
+|  |
+| Lateral serve và hip rotation |
+
 
 **27.1 Nguyên lý cốt lõi**
 
@@ -2204,13 +2204,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **27.2 Áp dụng thực tế**
 
@@ -2234,36 +2234,36 @@ tinh tế khác nhau.
 **27.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 28**                                                      |
-|                                                                    |
-| **Second Serve Strategy**                                          |
-|                                                                    |
-| Serve thứ hai --- ít tốc độ, ít nguy cơ                            |
-+--------------------------------------------------------------------+
+
+| **MODULE 28** |
+| --- |
+|  |
+| **Second Serve Strategy** |
+|  |
+| Serve thứ hai --- ít tốc độ, ít nguy cơ |
+
 
 **28.1 Nguyên lý cốt lõi**
 
@@ -2274,13 +2274,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **28.2 Áp dụng thực tế**
 
@@ -2304,36 +2304,36 @@ tinh tế khác nhau.
 **28.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 29**                                                      |
-|                                                                    |
-| **Warm-Up Protocol Hoàn Chỉnh**                                    |
-|                                                                    |
-| Quy trình khởi động 15 phút                                        |
-+--------------------------------------------------------------------+
+
+| **MODULE 29** |
+| --- |
+|  |
+| **Warm-Up Protocol Hoàn Chỉnh** |
+|  |
+| Quy trình khởi động 15 phút |
+
 
 **29.1 Nguyên lý cốt lõi**
 
@@ -2344,13 +2344,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **29.2 Áp dụng thực tế**
 
@@ -2374,36 +2374,36 @@ tinh tế khác nhau.
 **29.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 30**                                                      |
-|                                                                    |
-| **Recovery Between Points**                                        |
-|                                                                    |
-| Phục hồi gối giữa các điểm                                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 30** |
+| --- |
+|  |
+| **Recovery Between Points** |
+|  |
+| Phục hồi gối giữa các điểm |
+
 
 **30.1 Nguyên lý cốt lõi**
 
@@ -2414,13 +2414,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **30.2 Áp dụng thực tế**
 
@@ -2444,36 +2444,36 @@ tinh tế khác nhau.
 **30.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 31**                                                      |
-|                                                                    |
-| **Dehydration Và Gối**                                             |
-|                                                                    |
-| Nước ảnh hưởng đến sụn khớp                                        |
-+--------------------------------------------------------------------+
+
+| **MODULE 31** |
+| --- |
+|  |
+| **Dehydration Và Gối** |
+|  |
+| Nước ảnh hưởng đến sụn khớp |
+
 
 **31.1 Nguyên lý cốt lõi**
 
@@ -2484,13 +2484,13 @@ level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **31.2 Áp dụng thực tế**
 
@@ -2514,36 +2514,36 @@ tinh tế khác nhau.
 **31.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 32**                                                      |
-|                                                                    |
-| **Serve Volume Management**                                        |
-|                                                                    |
-| Bao nhiêu serve là đủ mỗi buổi?                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 32** |
+| --- |
+|  |
+| **Serve Volume Management** |
+|  |
+| Bao nhiêu serve là đủ mỗi buổi? |
+
 
 **32.1 Nguyên lý cốt lõi**
 
@@ -2554,13 +2554,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **32.2 Áp dụng thực tế**
 
@@ -2584,36 +2584,36 @@ tinh tế khác nhau.
 **32.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 33**                                                      |
-|                                                                    |
-| **Playing Surface Adaptation**                                     |
-|                                                                    |
-| Điều chỉnh kỹ thuật theo mặt sân                                   |
-+--------------------------------------------------------------------+
+
+| **MODULE 33** |
+| --- |
+|  |
+| **Playing Surface Adaptation** |
+|  |
+| Điều chỉnh kỹ thuật theo mặt sân |
+
 
 **33.1 Nguyên lý cốt lõi**
 
@@ -2624,13 +2624,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **33.2 Áp dụng thực tế**
 
@@ -2654,36 +2654,36 @@ tinh tế khác nhau.
 **33.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 34**                                                      |
-|                                                                    |
-| **Shoes And Knee Protection**                                      |
-|                                                                    |
-| Giày tennis và tác động lên gối                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 34** |
+| --- |
+|  |
+| **Shoes And Knee Protection** |
+|  |
+| Giày tennis và tác động lên gối |
+
 
 **34.1 Nguyên lý cốt lõi**
 
@@ -2694,13 +2694,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **34.2 Áp dụng thực tế**
 
@@ -2724,36 +2724,36 @@ tinh tế khác nhau.
 **34.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 35**                                                      |
-|                                                                    |
-| **Mental Cues Cho Serve Khỏe**                                     |
-|                                                                    |
-| Ngôn ngữ nội tâm định hướng vận động                               |
-+--------------------------------------------------------------------+
+
+| **MODULE 35** |
+| --- |
+|  |
+| **Mental Cues Cho Serve Khỏe** |
+|  |
+| Ngôn ngữ nội tâm định hướng vận động |
+
 
 **35.1 Nguyên lý cốt lõi**
 
@@ -2764,13 +2764,13 @@ player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **35.2 Áp dụng thực tế**
 
@@ -2794,36 +2794,36 @@ tinh tế khác nhau.
 **35.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 36**                                                      |
-|                                                                    |
-| **Breathing Pattern**                                              |
-|                                                                    |
-| Hơi thở ảnh hưởng đến serve timing                                 |
-+--------------------------------------------------------------------+
+
+| **MODULE 36** |
+| --- |
+|  |
+| **Breathing Pattern** |
+|  |
+| Hơi thở ảnh hưởng đến serve timing |
+
 
 **36.1 Nguyên lý cốt lõi**
 
@@ -2834,13 +2834,13 @@ level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **36.2 Áp dụng thực tế**
 
@@ -2864,36 +2864,36 @@ tinh tế khác nhau.
 **36.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 37**                                                      |
-|                                                                    |
-| **Fatigue And Technique Breakdown**                                |
-|                                                                    |
-| Gối bị ảnh hưởng khi mệt                                           |
-+--------------------------------------------------------------------+
+
+| **MODULE 37** |
+| --- |
+|  |
+| **Fatigue And Technique Breakdown** |
+|  |
+| Gối bị ảnh hưởng khi mệt |
+
 
 **37.1 Nguyên lý cốt lõi**
 
@@ -2904,13 +2904,13 @@ serve cho player level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **37.2 Áp dụng thực tế**
 
@@ -2934,36 +2934,36 @@ tinh tế khác nhau.
 **37.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 38**                                                      |
-|                                                                    |
-| **Pre-Match Routine**                                              |
-|                                                                    |
-| Chuẩn bị trước trận đấu                                            |
-+--------------------------------------------------------------------+
+
+| **MODULE 38** |
+| --- |
+|  |
+| **Pre-Match Routine** |
+|  |
+| Chuẩn bị trước trận đấu |
+
 
 **38.1 Nguyên lý cốt lõi**
 
@@ -2974,13 +2974,13 @@ level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **38.2 Áp dụng thực tế**
 
@@ -3004,36 +3004,36 @@ tinh tế khác nhau.
 **38.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 39**                                                      |
-|                                                                    |
-| **Post-Match Recovery**                                            |
-|                                                                    |
-| Phục hồi sau trận đấu                                              |
-+--------------------------------------------------------------------+
+
+| **MODULE 39** |
+| --- |
+|  |
+| **Post-Match Recovery** |
+|  |
+| Phục hồi sau trận đấu |
+
 
 **39.1 Nguyên lý cốt lõi**
 
@@ -3044,13 +3044,13 @@ level 3.0-5.0.
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **39.2 Áp dụng thực tế**
 
@@ -3074,36 +3074,36 @@ tinh tế khác nhau.
 **39.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 40**                                                      |
-|                                                                    |
-| **Tổng Kết Phần 2**                                                |
-|                                                                    |
-| Review kinetic chain nâng cao                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 40** |
+| --- |
+|  |
+| **Tổng Kết Phần 2** |
+|  |
+| Review kinetic chain nâng cao |
+
 
 **40.1 Nguyên lý cốt lõi**
 
@@ -3114,13 +3114,13 @@ trọng trong hệ thống bảo vệ đầu gối và tối ưu hóa serve cho 
 Hiểu rõ nguyên lý này giúp bạn có cái nhìn toàn diện hơn về kinetic
 chain và cách từng yếu tố ảnh hưởng đến đầu gối.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve   |
-| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng     |
-| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối.               |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý quan trọng nhất của module này: Mọi yếu tố trong serve |
+| đều liên kết với nhau. Cải thiện một yếu tố sẽ tạo ra hiệu ứng |
+| domino tích cực cho toàn bộ chuỗi --- kể cả đầu gối. |
+
 
 **40.2 Áp dụng thực tế**
 
@@ -3144,60 +3144,60 @@ tinh tế khác nhau.
 **40.4 Kết nối với bảo vệ đầu gối**
 
 Mỗi cải thiện kỹ thuật, dù nhỏ, đều có tác động trực tiếp đến tải lên
-đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải \'bù
-trừ\' hơn và tổng tải giảm đi.
+đầu gối. Khi kinetic chain được tối ưu ở module này, gối sẽ ít phải 'bù
+trừ' hơn và tổng tải giảm đi.
 
   ---------------------------------------------------------------------
   **TRƯỚC CẢI THIỆN**                **SAU CẢI THIỆN**
   ---------------------------------- ----------------------------------
   Đầu gối phải bù trừ cho thiếu sót  Đầu gối chỉ truyền lực sạch
 
-  Cảm giác nặng và mệt ở gối         Gối \'vô hình\' --- không cảm nhận
+  Cảm giác nặng và mệt ở gối         Gối 'vô hình' --- không cảm nhận
                                      được
 
   Serve không consistent             Serve stable và có thể lặp lại
   ---------------------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **🎾 BÀI TẬP / DRILL**                                             |
-|                                                                    |
+| **🎾 BÀI TẬP / DRILL** |
+| --- |
+|  |
 | Drill của module này: Thực hiện kỹ thuật trọng tâm 30 lần mỗi buổi |
-| tập (không tính serve chính thức). Nhận thức cơ thể                |
-| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành   |
-| tự động.                                                           |
-+--------------------------------------------------------------------+
+| tập (không tính serve chính thức). Nhận thức cơ thể |
+| (proprioception) cần ít nhất 300 lần lặp lại trước khi trở thành |
+| tự động. |
+
 
 **PHẦN 3: TIMING VÀ ELASTIC CHAIN**
 
 Module 41 -- 75 \| Dành cho player 4.0 -- 4.5 muốn tăng tốc độ và giảm
 chấn thương
 
-+:------------------------------------------------------------------:+
-| **MODULE 41**                                                      |
-|                                                                    |
-| **Knee Timing --- Yếu Tố Bị Bỏ Qua**                               |
-|                                                                    |
-| Đầu gối không chỉ có vị trí --- nó có thời điểm                    |
-+--------------------------------------------------------------------+
+| **MODULE 41** |
+| --- |
+|  |
+| **Knee Timing --- Yếu Tố Bị Bỏ Qua** |
+|  |
+| Đầu gối không chỉ có vị trí --- nó có thời điểm |
+
 
 **41.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Knee Timing --- Yếu Tố Bị Bỏ Qua\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **41.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3218,11 +3218,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **41.4 Benchmark và đánh giá tiến bộ**
 
@@ -3239,32 +3239,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 42**                                                      |
-|                                                                    |
-| **Ba Pha Thời Gian Của Đầu Gối**                                   |
-|                                                                    |
-| Load → Transition → Drive timing                                   |
-+--------------------------------------------------------------------+
+| **MODULE 42** |
+| --- |
+|  |
+| **Ba Pha Thời Gian Của Đầu Gối** |
+|  |
+| Load → Transition → Drive timing |
+
 
 **42.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Ba Pha Thời Gian Của Đầu Gối\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **42.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3285,11 +3285,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **42.4 Benchmark và đánh giá tiến bộ**
 
@@ -3306,33 +3306,33 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 43**                                                      |
-|                                                                    |
-| **Early Knee Extension --- Lỗi Phổ Biến Nhất**                     |
-|                                                                    |
-| Duỗi gối quá sớm làm mất elastic energy                            |
-+--------------------------------------------------------------------+
+| **MODULE 43** |
+| --- |
+|  |
+| **Early Knee Extension --- Lỗi Phổ Biến Nhất** |
+|  |
+| Duỗi gối quá sớm làm mất elastic energy |
+
 
 **43.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Early Knee Extension --- Lỗi Phổ Biến
 Nhất\" là một yếu tố tinh tế nhưng có tác động lớn. Player ở level
 4.0-4.5 thường đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như
-module này mới tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất
-sắc\'.
+module này mới tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất
+sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **43.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3353,11 +3353,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **43.4 Benchmark và đánh giá tiến bộ**
 
@@ -3374,33 +3374,33 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 44**                                                      |
-|                                                                    |
-| **Late Knee Collapse --- Nguy Hiểm Không Kém**                     |
-|                                                                    |
-| Giữ gối quá lâu rồi sụp xuống khi xoay                             |
-+--------------------------------------------------------------------+
+| **MODULE 44** |
+| --- |
+|  |
+| **Late Knee Collapse --- Nguy Hiểm Không Kém** |
+|  |
+| Giữ gối quá lâu rồi sụp xuống khi xoay |
+
 
 **44.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Late Knee Collapse --- Nguy Hiểm Không
 Kém\" là một yếu tố tinh tế nhưng có tác động lớn. Player ở level
 4.0-4.5 thường đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như
-module này mới tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất
-sắc\'.
+module này mới tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất
+sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **44.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3421,11 +3421,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **44.4 Benchmark và đánh giá tiến bộ**
 
@@ -3442,32 +3442,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 45**                                                      |
-|                                                                    |
-| **Knee Lag --- Trạng Thái Tối Ưu**                                 |
-|                                                                    |
-| Giữ knee flex đủ lâu để tích elastic energy                        |
-+--------------------------------------------------------------------+
+| **MODULE 45** |
+| --- |
+|  |
+| **Knee Lag --- Trạng Thái Tối Ưu** |
+|  |
+| Giữ knee flex đủ lâu để tích elastic energy |
+
 
 **45.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Knee Lag --- Trạng Thái Tối Ưu\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **45.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3488,11 +3488,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **45.4 Benchmark và đánh giá tiến bộ**
 
@@ -3509,32 +3509,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 46**                                                      |
-|                                                                    |
-| **Knee Là Follower Joint**                                         |
-|                                                                    |
-| Gối đi theo chain, không dẫn chain                                 |
-+--------------------------------------------------------------------+
+| **MODULE 46** |
+| --- |
+|  |
+| **Knee Là Follower Joint** |
+|  |
+| Gối đi theo chain, không dẫn chain |
+
 
 **46.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Knee Là Follower Joint\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **46.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3555,11 +3555,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **46.4 Benchmark và đánh giá tiến bộ**
 
@@ -3576,32 +3576,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 47**                                                      |
-|                                                                    |
-| **Elastic Chain Continuity**                                       |
-|                                                                    |
-| Sự liên tục của chuỗi đàn hồi bảo vệ gối                           |
-+--------------------------------------------------------------------+
+| **MODULE 47** |
+| --- |
+|  |
+| **Elastic Chain Continuity** |
+|  |
+| Sự liên tục của chuỗi đàn hồi bảo vệ gối |
+
 
 **47.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Elastic Chain Continuity\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **47.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3622,11 +3622,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **47.4 Benchmark và đánh giá tiến bộ**
 
@@ -3643,32 +3643,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 48**                                                      |
-|                                                                    |
-| **Energy Leak Map**                                                |
-|                                                                    |
-| Tìm điểm thất thoát năng lượng trong serve                         |
-+--------------------------------------------------------------------+
+| **MODULE 48** |
+| --- |
+|  |
+| **Energy Leak Map** |
+|  |
+| Tìm điểm thất thoát năng lượng trong serve |
+
 
 **48.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Energy Leak Map\" là một yếu tố tinh
 tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ thuật
 cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra sự khác
-biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **48.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3689,11 +3689,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **48.4 Benchmark và đánh giá tiến bộ**
 
@@ -3710,32 +3710,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 49**                                                      |
-|                                                                    |
-| **Stack + Flow + Land**                                            |
-|                                                                    |
-| Công thức 3 bước bảo vệ đầu gối                                    |
-+--------------------------------------------------------------------+
+| **MODULE 49** |
+| --- |
+|  |
+| **Stack + Flow + Land** |
+|  |
+| Công thức 3 bước bảo vệ đầu gối |
+
 
 **49.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Stack + Flow + Land\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **49.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3756,11 +3756,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **49.4 Benchmark và đánh giá tiến bộ**
 
@@ -3777,33 +3777,33 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 50**                                                      |
-|                                                                    |
-| **Knee Valgus --- Điểm Khởi Đầu Nhiều Vấn Đề**                     |
-|                                                                    |
-| Pattern nguy hiểm nhất cần phát hiện sớm                           |
-+--------------------------------------------------------------------+
+| **MODULE 50** |
+| --- |
+|  |
+| **Knee Valgus --- Điểm Khởi Đầu Nhiều Vấn Đề** |
+|  |
+| Pattern nguy hiểm nhất cần phát hiện sớm |
+
 
 **50.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Knee Valgus --- Điểm Khởi Đầu Nhiều
 Vấn Đề\" là một yếu tố tinh tế nhưng có tác động lớn. Player ở level
 4.0-4.5 thường đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như
-module này mới tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất
-sắc\'.
+module này mới tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất
+sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **50.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3824,11 +3824,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **50.4 Benchmark và đánh giá tiến bộ**
 
@@ -3845,32 +3845,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 51**                                                      |
-|                                                                    |
-| **Hip Leads, Knee Follows**                                        |
-|                                                                    |
-| Thứ tự tuyệt đối trong kinetic chain                               |
-+--------------------------------------------------------------------+
+| **MODULE 51** |
+| --- |
+|  |
+| **Hip Leads, Knee Follows** |
+|  |
+| Thứ tự tuyệt đối trong kinetic chain |
+
 
 **51.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Hip Leads, Knee Follows\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **51.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3891,11 +3891,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **51.4 Benchmark và đánh giá tiến bộ**
 
@@ -3912,32 +3912,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 52**                                                      |
-|                                                                    |
-| **Separation Đúng Giảm Tải Gối**                                   |
-|                                                                    |
-| Hip-shoulder separation an toàn vs nguy hiểm                       |
-+--------------------------------------------------------------------+
+| **MODULE 52** |
+| --- |
+|  |
+| **Separation Đúng Giảm Tải Gối** |
+|  |
+| Hip-shoulder separation an toàn vs nguy hiểm |
+
 
 **52.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Separation Đúng Giảm Tải Gối\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **52.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -3958,11 +3958,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **52.4 Benchmark và đánh giá tiến bộ**
 
@@ -3979,32 +3979,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 53**                                                      |
-|                                                                    |
-| **Quiet Knee Principle**                                           |
-|                                                                    |
-| Gối \'im lặng\' là dấu hiệu serve tốt                              |
-+--------------------------------------------------------------------+
+| **MODULE 53** |
+| --- |
+|  |
+| **Quiet Knee Principle** |
+|  |
+| Gối 'im lặng' là dấu hiệu serve tốt |
+
 
 **53.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Quiet Knee Principle\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **53.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4025,11 +4025,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **53.4 Benchmark và đánh giá tiến bộ**
 
@@ -4046,32 +4046,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 54**                                                      |
-|                                                                    |
-| **Elastic Economy**                                                |
-|                                                                    |
-| Hiệu suất năng lượng --- ít tải, nhiều tốc độ                      |
-+--------------------------------------------------------------------+
+| **MODULE 54** |
+| --- |
+|  |
+| **Elastic Economy** |
+|  |
+| Hiệu suất năng lượng --- ít tải, nhiều tốc độ |
+
 
 **54.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Elastic Economy\" là một yếu tố tinh
 tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ thuật
 cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra sự khác
-biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **54.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4092,11 +4092,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **54.4 Benchmark và đánh giá tiến bộ**
 
@@ -4113,32 +4113,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 55**                                                      |
-|                                                                    |
-| **Torque Distribution**                                            |
-|                                                                    |
-| Lực xoắn phân phối đúng để gối an toàn                             |
-+--------------------------------------------------------------------+
+| **MODULE 55** |
+| --- |
+|  |
+| **Torque Distribution** |
+|  |
+| Lực xoắn phân phối đúng để gối an toàn |
+
 
 **55.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Torque Distribution\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **55.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4159,11 +4159,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **55.4 Benchmark và đánh giá tiến bộ**
 
@@ -4180,32 +4180,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 56**                                                      |
-|                                                                    |
-| **Grounded vs Airborne Mechanics**                                 |
-|                                                                    |
-| Hai giai đoạn hoàn toàn khác nhau                                  |
-+--------------------------------------------------------------------+
+| **MODULE 56** |
+| --- |
+|  |
+| **Grounded vs Airborne Mechanics** |
+|  |
+| Hai giai đoạn hoàn toàn khác nhau |
+
 
 **56.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Grounded vs Airborne Mechanics\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **56.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4226,11 +4226,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **56.4 Benchmark và đánh giá tiến bộ**
 
@@ -4247,32 +4247,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 57**                                                      |
-|                                                                    |
-| **Landing Mechanics Advanced**                                     |
-|                                                                    |
-| Tiếp đất nâng cao --- phòng ngừa ACL                               |
-+--------------------------------------------------------------------+
+| **MODULE 57** |
+| --- |
+|  |
+| **Landing Mechanics Advanced** |
+|  |
+| Tiếp đất nâng cao --- phòng ngừa ACL |
+
 
 **57.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Landing Mechanics Advanced\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **57.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4293,11 +4293,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **57.4 Benchmark và đánh giá tiến bộ**
 
@@ -4314,32 +4314,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 58**                                                      |
-|                                                                    |
-| **Serve Consistency và Knee Safety**                               |
-|                                                                    |
-| Consistency bảo vệ gối tốt hơn sức mạnh                            |
-+--------------------------------------------------------------------+
+| **MODULE 58** |
+| --- |
+|  |
+| **Serve Consistency và Knee Safety** |
+|  |
+| Consistency bảo vệ gối tốt hơn sức mạnh |
+
 
 **58.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Serve Consistency và Knee Safety\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **58.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4360,11 +4360,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **58.4 Benchmark và đánh giá tiến bộ**
 
@@ -4381,32 +4381,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 59**                                                      |
-|                                                                    |
-| **Footwork Before Serve**                                          |
-|                                                                    |
-| Chuẩn bị footwork ảnh hưởng đến gối                                |
-+--------------------------------------------------------------------+
+| **MODULE 59** |
+| --- |
+|  |
+| **Footwork Before Serve** |
+|  |
+| Chuẩn bị footwork ảnh hưởng đến gối |
+
 
 **59.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Footwork Before Serve\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **59.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4427,11 +4427,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **59.4 Benchmark và đánh giá tiến bộ**
 
@@ -4448,32 +4448,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 60**                                                      |
-|                                                                    |
-| **Mental Game Và Kỹ Thuật Serve**                                  |
-|                                                                    |
-| Lo lắng tạo tension sai trong serve                                |
-+--------------------------------------------------------------------+
+| **MODULE 60** |
+| --- |
+|  |
+| **Mental Game Và Kỹ Thuật Serve** |
+|  |
+| Lo lắng tạo tension sai trong serve |
+
 
 **60.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Mental Game Và Kỹ Thuật Serve\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **60.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4494,11 +4494,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **60.4 Benchmark và đánh giá tiến bộ**
 
@@ -4515,32 +4515,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 61**                                                      |
-|                                                                    |
-| **Injury Prevention Program**                                      |
-|                                                                    |
-| Chương trình phòng ngừa 8-tuần                                     |
-+--------------------------------------------------------------------+
+| **MODULE 61** |
+| --- |
+|  |
+| **Injury Prevention Program** |
+|  |
+| Chương trình phòng ngừa 8-tuần |
+
 
 **61.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Injury Prevention Program\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **61.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4561,11 +4561,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **61.4 Benchmark và đánh giá tiến bộ**
 
@@ -4582,32 +4582,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 62**                                                      |
-|                                                                    |
-| **Return To Serve After Injury**                                   |
-|                                                                    |
-| Giao thức phục hồi từng bước                                       |
-+--------------------------------------------------------------------+
+| **MODULE 62** |
+| --- |
+|  |
+| **Return To Serve After Injury** |
+|  |
+| Giao thức phục hồi từng bước |
+
 
 **62.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Return To Serve After Injury\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **62.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4628,11 +4628,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **62.4 Benchmark và đánh giá tiến bộ**
 
@@ -4649,32 +4649,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 63**                                                      |
-|                                                                    |
-| **Comparing Serve Styles**                                         |
-|                                                                    |
-| Flat vs Kick vs Slice --- tải khác nhau lên gối                    |
-+--------------------------------------------------------------------+
+| **MODULE 63** |
+| --- |
+|  |
+| **Comparing Serve Styles** |
+|  |
+| Flat vs Kick vs Slice --- tải khác nhau lên gối |
+
 
 **63.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Comparing Serve Styles\" là một yếu tố
 tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **63.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4695,11 +4695,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **63.4 Benchmark và đánh giá tiến bộ**
 
@@ -4716,32 +4716,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 64**                                                      |
-|                                                                    |
-| **Serve Speed vs Knee Load**                                       |
-|                                                                    |
-| Tốc độ tăng, gối có phải trả giá?                                  |
-+--------------------------------------------------------------------+
+| **MODULE 64** |
+| --- |
+|  |
+| **Serve Speed vs Knee Load** |
+|  |
+| Tốc độ tăng, gối có phải trả giá? |
+
 
 **64.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Serve Speed vs Knee Load\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **64.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4762,11 +4762,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **64.4 Benchmark và đánh giá tiến bộ**
 
@@ -4783,32 +4783,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 65**                                                      |
-|                                                                    |
-| **Periodization For Serve Training**                               |
-|                                                                    |
-| Chu kỳ tập serve để tối ưu và phòng ngừa                           |
-+--------------------------------------------------------------------+
+| **MODULE 65** |
+| --- |
+|  |
+| **Periodization For Serve Training** |
+|  |
+| Chu kỳ tập serve để tối ưu và phòng ngừa |
+
 
 **65.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Periodization For Serve Training\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **65.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4829,11 +4829,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **65.4 Benchmark và đánh giá tiến bộ**
 
@@ -4850,32 +4850,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 66**                                                      |
-|                                                                    |
-| **Video Analysis Advanced**                                        |
-|                                                                    |
-| Phân tích video chuyên sâu                                         |
-+--------------------------------------------------------------------+
+| **MODULE 66** |
+| --- |
+|  |
+| **Video Analysis Advanced** |
+|  |
+| Phân tích video chuyên sâu |
+
 
 **66.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Video Analysis Advanced\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **66.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4896,11 +4896,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **66.4 Benchmark và đánh giá tiến bộ**
 
@@ -4917,32 +4917,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 67**                                                      |
-|                                                                    |
-| **Partner Drilling For Mechanics**                                 |
-|                                                                    |
-| Tập với đối tác cải thiện serve                                    |
-+--------------------------------------------------------------------+
+| **MODULE 67** |
+| --- |
+|  |
+| **Partner Drilling For Mechanics** |
+|  |
+| Tập với đối tác cải thiện serve |
+
 
 **67.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Partner Drilling For Mechanics\" là
 một yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường
 đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **67.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -4963,11 +4963,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **67.4 Benchmark và đánh giá tiến bộ**
 
@@ -4984,32 +4984,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 68**                                                      |
-|                                                                    |
-| **Self-Monitoring During Match**                                   |
-|                                                                    |
-| Tự theo dõi gối trong trận đấu                                     |
-+--------------------------------------------------------------------+
+| **MODULE 68** |
+| --- |
+|  |
+| **Self-Monitoring During Match** |
+|  |
+| Tự theo dõi gối trong trận đấu |
+
 
 **68.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Self-Monitoring During Match\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **68.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5030,11 +5030,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **68.4 Benchmark và đánh giá tiến bộ**
 
@@ -5051,33 +5051,33 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 69**                                                      |
-|                                                                    |
-| **Serve Adaptations In Different Conditions**                      |
-|                                                                    |
-| Thời tiết và mặt sân ảnh hưởng kỹ thuật                            |
-+--------------------------------------------------------------------+
+| **MODULE 69** |
+| --- |
+|  |
+| **Serve Adaptations In Different Conditions** |
+|  |
+| Thời tiết và mặt sân ảnh hưởng kỹ thuật |
+
 
 **69.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Serve Adaptations In Different
 Conditions\" là một yếu tố tinh tế nhưng có tác động lớn. Player ở level
 4.0-4.5 thường đã có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như
-module này mới tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất
-sắc\'.
+module này mới tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất
+sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **69.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5098,11 +5098,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **69.4 Benchmark và đánh giá tiến bộ**
 
@@ -5119,32 +5119,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 70**                                                      |
-|                                                                    |
-| **Asymmetry And Imbalance**                                        |
-|                                                                    |
-| Serve gây mất cân xứng cơ thể                                      |
-+--------------------------------------------------------------------+
+| **MODULE 70** |
+| --- |
+|  |
+| **Asymmetry And Imbalance** |
+|  |
+| Serve gây mất cân xứng cơ thể |
+
 
 **70.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Asymmetry And Imbalance\" là một yếu
 tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ
 thuật cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra
-sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **70.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5165,11 +5165,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **70.4 Benchmark và đánh giá tiến bộ**
 
@@ -5186,32 +5186,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 71**                                                      |
-|                                                                    |
-| **Sleep And Recovery For Joints**                                  |
-|                                                                    |
-| Giấc ngủ và phục hồi khớp gối                                      |
-+--------------------------------------------------------------------+
+| **MODULE 71** |
+| --- |
+|  |
+| **Sleep And Recovery For Joints** |
+|  |
+| Giấc ngủ và phục hồi khớp gối |
+
 
 **71.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Sleep And Recovery For Joints\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **71.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5232,11 +5232,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **71.4 Benchmark và đánh giá tiến bộ**
 
@@ -5253,32 +5253,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 72**                                                      |
-|                                                                    |
-| **Nutrition For Joint Health**                                     |
-|                                                                    |
-| Dinh dưỡng bảo vệ sụn khớp                                         |
-+--------------------------------------------------------------------+
+| **MODULE 72** |
+| --- |
+|  |
+| **Nutrition For Joint Health** |
+|  |
+| Dinh dưỡng bảo vệ sụn khớp |
+
 
 **72.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Nutrition For Joint Health\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **72.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5299,11 +5299,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **72.4 Benchmark và đánh giá tiến bộ**
 
@@ -5320,32 +5320,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 73**                                                      |
-|                                                                    |
-| **Pain Management Strategies**                                     |
-|                                                                    |
-| Xử lý đau gối trong thi đấu                                        |
-+--------------------------------------------------------------------+
+| **MODULE 73** |
+| --- |
+|  |
+| **Pain Management Strategies** |
+|  |
+| Xử lý đau gối trong thi đấu |
+
 
 **73.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Pain Management Strategies\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **73.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5366,11 +5366,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **73.4 Benchmark và đánh giá tiến bộ**
 
@@ -5387,32 +5387,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 74**                                                      |
-|                                                                    |
-| **Long-Term Career Management**                                    |
-|                                                                    |
-| Bảo vệ gối suốt nhiều thập niên                                    |
-+--------------------------------------------------------------------+
+| **MODULE 74** |
+| --- |
+|  |
+| **Long-Term Career Management** |
+|  |
+| Bảo vệ gối suốt nhiều thập niên |
+
 
 **74.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Long-Term Career Management\" là một
 yếu tố tinh tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã
 có kỹ thuật cơ bản tốt, nhưng chính những chi tiết như module này mới
-tạo ra sự khác biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+tạo ra sự khác biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **74.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5433,11 +5433,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **74.4 Benchmark và đánh giá tiến bộ**
 
@@ -5454,32 +5454,32 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
                                      thấy quá gồng
   ---------------------------------------------------------------------
 
-+:------------------------------------------------------------------:+
-| **MODULE 75**                                                      |
-|                                                                    |
-| **Tổng Kết Phần 3**                                                |
-|                                                                    |
-| Review timing và elastic chain                                     |
-+--------------------------------------------------------------------+
+| **MODULE 75** |
+| --- |
+|  |
+| **Tổng Kết Phần 3** |
+|  |
+| Review timing và elastic chain |
+
 
 **75.1 Nguyên lý và nền tảng lý thuyết**
 
 Trong chuỗi serve biomechanics, \"Tổng Kết Phần 3\" là một yếu tố tinh
 tế nhưng có tác động lớn. Player ở level 4.0-4.5 thường đã có kỹ thuật
 cơ bản tốt, nhưng chính những chi tiết như module này mới tạo ra sự khác
-biệt giữa serve \'tốt\' và serve \'xuất sắc\'.
+biệt giữa serve 'tốt' và serve 'xuất sắc'.
 
 Đặc biệt quan trọng là mối liên hệ giữa yếu tố này và sức khỏe đầu gối
 dài hạn. Nhiều player level cao vẫn gặp vấn đề gối vì bỏ qua những chi
 tiết timing và alignment tinh tế như thế này.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là      |
-| \'biết gì\' mà là \'làm đúng timing\'. Đầu gối chịu tải bất thường |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Nguyên lý nâng cao: Ở level 4.0+, vấn đề thường không phải là |
+| 'biết gì' mà là 'làm đúng timing'. Đầu gối chịu tải bất thường |
 | không phải vì cử động sai, mà vì cử động đúng nhưng sai thời điểm. |
-+--------------------------------------------------------------------+
+
 
 **75.2 Ứng dụng thực tế và drill nâng cao**
 
@@ -5500,11 +5500,11 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 - Timing cải thiện → giảm peak stress lên gối
 
-- Elastic chain liên tục → gối không phải \'bù trừ\'
+- Elastic chain liên tục → gối không phải 'bù trừ'
 
 - Hip lead đúng → gối chỉ truyền lực, không chịu torque
 
-- Cảm giác gối \'vô hình\' → dấu hiệu timing đang tốt
+- Cảm giác gối 'vô hình' → dấu hiệu timing đang tốt
 
 **75.4 Benchmark và đánh giá tiến bộ**
 
@@ -5525,13 +5525,13 @@ timing. Shadow serve đơn giản không đủ --- cần context-specific drills
 
 Module 76 -- 110 \| Dành cho player 4.5 -- 5.0 tối ưu hóa serve
 
-+:------------------------------------------------------------------:+
-| **MODULE 76**                                                      |
-|                                                                    |
-| **Triphasic Sequencing**                                           |
-|                                                                    |
-| Ba pha lớn: Eccentric → Isometric → Concentric                     |
-+--------------------------------------------------------------------+
+| **MODULE 76** |
+| --- |
+|  |
+| **Triphasic Sequencing** |
+|  |
+| Ba pha lớn: Eccentric → Isometric → Concentric |
+
 
 **76.1 Nền tảng lý thuyết nâng cao**
 
@@ -5544,14 +5544,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **76.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5595,21 +5595,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 77**                                                      |
-|                                                                    |
-| **Elastic Mismatch**                                               |
-|                                                                    |
-| Nguồn gốc thật sự của knee stress nâng cao                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 77** |
+| --- |
+|  |
+| **Elastic Mismatch** |
+|  |
+| Nguồn gốc thật sự của knee stress nâng cao |
+
 
 **77.1 Nền tảng lý thuyết nâng cao**
 
@@ -5622,14 +5622,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **77.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5673,21 +5673,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 78**                                                      |
-|                                                                    |
-| **Knee Timing Buffer**                                             |
-|                                                                    |
-| Đầu gối như bộ đệm thời gian toàn chuỗi                            |
-+--------------------------------------------------------------------+
+
+| **MODULE 78** |
+| --- |
+|  |
+| **Knee Timing Buffer** |
+|  |
+| Đầu gối như bộ đệm thời gian toàn chuỗi |
+
 
 **78.1 Nền tảng lý thuyết nâng cao**
 
@@ -5700,14 +5700,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **78.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5751,21 +5751,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 79**                                                      |
-|                                                                    |
-| **Grounded vs Free-Moving System**                                 |
-|                                                                    |
-| Cơ học hoàn toàn khác nhau trên/dưới mặt đất                       |
-+--------------------------------------------------------------------+
+
+| **MODULE 79** |
+| --- |
+|  |
+| **Grounded vs Free-Moving System** |
+|  |
+| Cơ học hoàn toàn khác nhau trên/dưới mặt đất |
+
 
 **79.1 Nền tảng lý thuyết nâng cao**
 
@@ -5778,14 +5778,14 @@ nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **79.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5830,21 +5830,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 80**                                                      |
-|                                                                    |
-| **Ground Reaction Force Optimization**                             |
-|                                                                    |
-| Tối ưu hóa phản lực mặt sân                                        |
-+--------------------------------------------------------------------+
+
+| **MODULE 80** |
+| --- |
+|  |
+| **Ground Reaction Force Optimization** |
+|  |
+| Tối ưu hóa phản lực mặt sân |
+
 
 **80.1 Nền tảng lý thuyết nâng cao**
 
@@ -5857,14 +5857,14 @@ nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **80.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5909,21 +5909,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 81**                                                      |
-|                                                                    |
-| **Knee Paradox**                                                   |
-|                                                                    |
-| Càng cố dùng gối, gối càng yếu                                     |
-+--------------------------------------------------------------------+
+
+| **MODULE 81** |
+| --- |
+|  |
+| **Knee Paradox** |
+|  |
+| Càng cố dùng gối, gối càng yếu |
+
 
 **81.1 Nền tảng lý thuyết nâng cao**
 
@@ -5936,14 +5936,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **81.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -5987,21 +5987,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 82**                                                      |
-|                                                                    |
-| **Quadriceps Dominance Pattern**                                   |
-|                                                                    |
-| Khi quad chiếm quyền điều khiển                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 82** |
+| --- |
+|  |
+| **Quadriceps Dominance Pattern** |
+|  |
+| Khi quad chiếm quyền điều khiển |
+
 
 **82.1 Nền tảng lý thuyết nâng cao**
 
@@ -6014,14 +6014,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **82.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6066,21 +6066,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 83**                                                      |
-|                                                                    |
-| **Hip As Engine --- Deep Analysis**                                |
-|                                                                    |
-| Phân tích sâu về hông là động cơ chính                             |
-+--------------------------------------------------------------------+
+
+| **MODULE 83** |
+| --- |
+|  |
+| **Hip As Engine --- Deep Analysis** |
+|  |
+| Phân tích sâu về hông là động cơ chính |
+
 
 **83.1 Nền tảng lý thuyết nâng cao**
 
@@ -6093,14 +6093,14 @@ nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **83.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6145,21 +6145,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 84**                                                      |
-|                                                                    |
-| **Shoulder Overuse Prevention**                                    |
-|                                                                    |
-| Bảo vệ vai --- liên kết với gối                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 84** |
+| --- |
+|  |
+| **Shoulder Overuse Prevention** |
+|  |
+| Bảo vệ vai --- liên kết với gối |
+
 
 **84.1 Nền tảng lý thuyết nâng cao**
 
@@ -6172,14 +6172,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **84.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6224,21 +6224,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 85**                                                      |
-|                                                                    |
-| **3D Biomechanics Of Serve**                                       |
-|                                                                    |
-| Chuyển động 3D phức tạp trong serve                                |
-+--------------------------------------------------------------------+
+
+| **MODULE 85** |
+| --- |
+|  |
+| **3D Biomechanics Of Serve** |
+|  |
+| Chuyển động 3D phức tạp trong serve |
+
 
 **85.1 Nền tảng lý thuyết nâng cao**
 
@@ -6251,14 +6251,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **85.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6303,21 +6303,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 86**                                                      |
-|                                                                    |
-| **Fascial System In Serve**                                        |
-|                                                                    |
-| Vai trò của mô fascia trong kinetic chain                          |
-+--------------------------------------------------------------------+
+
+| **MODULE 86** |
+| --- |
+|  |
+| **Fascial System In Serve** |
+|  |
+| Vai trò của mô fascia trong kinetic chain |
+
 
 **86.1 Nền tảng lý thuyết nâng cao**
 
@@ -6330,14 +6330,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **86.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6382,21 +6382,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 87**                                                      |
-|                                                                    |
-| **Neural Timing And Pattern**                                      |
-|                                                                    |
-| Thần kinh cơ và pattern serve                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 87** |
+| --- |
+|  |
+| **Neural Timing And Pattern** |
+|  |
+| Thần kinh cơ và pattern serve |
+
 
 **87.1 Nền tảng lý thuyết nâng cao**
 
@@ -6409,14 +6409,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **87.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6461,21 +6461,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 88**                                                      |
-|                                                                    |
-| **Proprioception Training**                                        |
-|                                                                    |
-| Tập nhận thức cơ thể nâng cao                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 88** |
+| --- |
+|  |
+| **Proprioception Training** |
+|  |
+| Tập nhận thức cơ thể nâng cao |
+
 
 **88.1 Nền tảng lý thuyết nâng cao**
 
@@ -6488,14 +6488,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **88.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6540,21 +6540,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 89**                                                      |
-|                                                                    |
-| **Balance And Serve Power**                                        |
-|                                                                    |
-| Thăng bằng ảnh hưởng đến power                                     |
-+--------------------------------------------------------------------+
+
+| **MODULE 89** |
+| --- |
+|  |
+| **Balance And Serve Power** |
+|  |
+| Thăng bằng ảnh hưởng đến power |
+
 
 **89.1 Nền tảng lý thuyết nâng cao**
 
@@ -6567,14 +6567,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **89.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6619,21 +6619,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 90**                                                      |
-|                                                                    |
-| **Plyometric Training For Serve**                                  |
-|                                                                    |
-| Tập bùng phát cho serve tốt hơn                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 90** |
+| --- |
+|  |
+| **Plyometric Training For Serve** |
+|  |
+| Tập bùng phát cho serve tốt hơn |
+
 
 **90.1 Nền tảng lý thuyết nâng cao**
 
@@ -6646,14 +6646,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **90.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6698,21 +6698,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 91**                                                      |
-|                                                                    |
-| **ACL Stress In Advanced Serve**                                   |
-|                                                                    |
-| Phân tích ACL stress cho player nâng cao                           |
-+--------------------------------------------------------------------+
+
+| **MODULE 91** |
+| --- |
+|  |
+| **ACL Stress In Advanced Serve** |
+|  |
+| Phân tích ACL stress cho player nâng cao |
+
 
 **91.1 Nền tảng lý thuyết nâng cao**
 
@@ -6725,14 +6725,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **91.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6777,21 +6777,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 92**                                                      |
-|                                                                    |
-| **Meniscus Protection Protocol**                                   |
-|                                                                    |
-| Bảo vệ sụn chêm --- protocol nâng cao                              |
-+--------------------------------------------------------------------+
+
+| **MODULE 92** |
+| --- |
+|  |
+| **Meniscus Protection Protocol** |
+|  |
+| Bảo vệ sụn chêm --- protocol nâng cao |
+
 
 **92.1 Nền tảng lý thuyết nâng cao**
 
@@ -6804,14 +6804,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **92.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6856,21 +6856,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 93**                                                      |
-|                                                                    |
-| **Hip Flexor And Serve Power**                                     |
-|                                                                    |
-| Hip flexor ảnh hưởng serve như thế nào                             |
-+--------------------------------------------------------------------+
+
+| **MODULE 93** |
+| --- |
+|  |
+| **Hip Flexor And Serve Power** |
+|  |
+| Hip flexor ảnh hưởng serve như thế nào |
+
 
 **93.1 Nền tảng lý thuyết nâng cao**
 
@@ -6883,14 +6883,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **93.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -6935,21 +6935,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 94**                                                      |
-|                                                                    |
-| **Thoracic Mobility**                                              |
-|                                                                    |
-| Cột sống ngực và trunk rotation                                    |
-+--------------------------------------------------------------------+
+
+| **MODULE 94** |
+| --- |
+|  |
+| **Thoracic Mobility** |
+|  |
+| Cột sống ngực và trunk rotation |
+
 
 **94.1 Nền tảng lý thuyết nâng cao**
 
@@ -6962,14 +6962,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **94.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7013,21 +7013,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 95**                                                      |
-|                                                                    |
-| **Scapular Control And Serve**                                     |
-|                                                                    |
-| Kiểm soát xương bả vai trong serve                                 |
-+--------------------------------------------------------------------+
+
+| **MODULE 95** |
+| --- |
+|  |
+| **Scapular Control And Serve** |
+|  |
+| Kiểm soát xương bả vai trong serve |
+
 
 **95.1 Nền tảng lý thuyết nâng cao**
 
@@ -7040,14 +7040,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **95.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7092,21 +7092,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 96**                                                      |
-|                                                                    |
-| **Wrist And Forearm Biomechanics**                                 |
-|                                                                    |
-| Cẳng tay và cổ tay --- cuối chuỗi whip                             |
-+--------------------------------------------------------------------+
+
+| **MODULE 96** |
+| --- |
+|  |
+| **Wrist And Forearm Biomechanics** |
+|  |
+| Cẳng tay và cổ tay --- cuối chuỗi whip |
+
 
 **96.1 Nền tảng lý thuyết nâng cao**
 
@@ -7119,14 +7119,14 @@ nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **96.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7171,21 +7171,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 97**                                                      |
-|                                                                    |
-| **Serve In Competition**                                           |
-|                                                                    |
-| Biomechanics thay đổi trong áp lực thi đấu                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 97** |
+| --- |
+|  |
+| **Serve In Competition** |
+|  |
+| Biomechanics thay đổi trong áp lực thi đấu |
+
 
 **97.1 Nền tảng lý thuyết nâng cao**
 
@@ -7198,14 +7198,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **97.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7249,21 +7249,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 98**                                                      |
-|                                                                    |
-| **Analyzing ATP Serve Data**                                       |
-|                                                                    |
-| Phân tích dữ liệu serve của pro players                            |
-+--------------------------------------------------------------------+
+
+| **MODULE 98** |
+| --- |
+|  |
+| **Analyzing ATP Serve Data** |
+|  |
+| Phân tích dữ liệu serve của pro players |
+
 
 **98.1 Nền tảng lý thuyết nâng cao**
 
@@ -7276,14 +7276,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **98.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7328,21 +7328,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 99**                                                      |
-|                                                                    |
-| **Building A Sustainable Serve**                                   |
-|                                                                    |
-| Xây dựng serve bền vững 10 năm                                     |
-+--------------------------------------------------------------------+
+
+| **MODULE 99** |
+| --- |
+|  |
+| **Building A Sustainable Serve** |
+|  |
+| Xây dựng serve bền vững 10 năm |
+
 
 **99.1 Nền tảng lý thuyết nâng cao**
 
@@ -7355,14 +7355,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **99.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7407,21 +7407,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 100**                                                     |
-|                                                                    |
-| **The Perfect Serve Model**                                        |
-|                                                                    |
-| Model serve hoàn hảo cho mỗi level                                 |
-+--------------------------------------------------------------------+
+
+| **MODULE 100** |
+| --- |
+|  |
+| **The Perfect Serve Model** |
+|  |
+| Model serve hoàn hảo cho mỗi level |
+
 
 **100.1 Nền tảng lý thuyết nâng cao**
 
@@ -7434,14 +7434,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **100.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7486,21 +7486,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 101**                                                     |
-|                                                                    |
-| **Common Myths Debunked**                                          |
-|                                                                    |
-| Phá vỡ 10 hiểu lầm về serve và gối                                 |
-+--------------------------------------------------------------------+
+
+| **MODULE 101** |
+| --- |
+|  |
+| **Common Myths Debunked** |
+|  |
+| Phá vỡ 10 hiểu lầm về serve và gối |
+
 
 **101.1 Nền tảng lý thuyết nâng cao**
 
@@ -7513,14 +7513,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **101.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7564,21 +7564,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 102**                                                     |
-|                                                                    |
-| **Integrating All Principles**                                     |
-|                                                                    |
-| Tích hợp tất cả nguyên lý vào serve thực tế                        |
-+--------------------------------------------------------------------+
+
+| **MODULE 102** |
+| --- |
+|  |
+| **Integrating All Principles** |
+|  |
+| Tích hợp tất cả nguyên lý vào serve thực tế |
+
 
 **102.1 Nền tảng lý thuyết nâng cao**
 
@@ -7591,14 +7591,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **102.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7643,21 +7643,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 103**                                                     |
-|                                                                    |
-| **Individual Variation**                                           |
-|                                                                    |
-| Mỗi người có biomechanics khác nhau                                |
-+--------------------------------------------------------------------+
+
+| **MODULE 103** |
+| --- |
+|  |
+| **Individual Variation** |
+|  |
+| Mỗi người có biomechanics khác nhau |
+
 
 **103.1 Nền tảng lý thuyết nâng cao**
 
@@ -7670,14 +7670,14 @@ biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức mạnh c
 bắp lớn hơn, mà vì timing, sequencing, và elastic chain efficiency tốt
 hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **103.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7721,21 +7721,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 104**                                                     |
-|                                                                    |
-| **Age-Specific Serve Adjustments**                                 |
-|                                                                    |
-| Điều chỉnh theo tuổi tác                                           |
-+--------------------------------------------------------------------+
+
+| **MODULE 104** |
+| --- |
+|  |
+| **Age-Specific Serve Adjustments** |
+|  |
+| Điều chỉnh theo tuổi tác |
+
 
 **104.1 Nền tảng lý thuyết nâng cao**
 
@@ -7748,14 +7748,14 @@ nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **104.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7800,21 +7800,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 105**                                                     |
-|                                                                    |
-| **Gender Differences In Serve Biomechanics**                       |
-|                                                                    |
-| Khác biệt sinh lý và ứng dụng                                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 105** |
+| --- |
+|  |
+| **Gender Differences In Serve Biomechanics** |
+|  |
+| Khác biệt sinh lý và ứng dụng |
+
 
 **105.1 Nền tảng lý thuyết nâng cao**
 
@@ -7827,14 +7827,14 @@ tinh tế nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải
 vì có sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic
 chain efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **105.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7879,21 +7879,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 106**                                                     |
-|                                                                    |
-| **Coaching The Biomechanics**                                      |
-|                                                                    |
-| Hướng dẫn người khác áp dụng nguyên lý này                         |
-+--------------------------------------------------------------------+
+
+| **MODULE 106** |
+| --- |
+|  |
+| **Coaching The Biomechanics** |
+|  |
+| Hướng dẫn người khác áp dụng nguyên lý này |
+
 
 **106.1 Nền tảng lý thuyết nâng cao**
 
@@ -7906,14 +7906,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **106.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -7958,21 +7958,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 107**                                                     |
-|                                                                    |
-| **Technology Tools For Serve Analysis**                            |
-|                                                                    |
-| Công nghệ hỗ trợ phân tích serve                                   |
-+--------------------------------------------------------------------+
+
+| **MODULE 107** |
+| --- |
+|  |
+| **Technology Tools For Serve Analysis** |
+|  |
+| Công nghệ hỗ trợ phân tích serve |
+
 
 **107.1 Nền tảng lý thuyết nâng cao**
 
@@ -7985,14 +7985,14 @@ tế nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì 
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **107.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -8037,21 +8037,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 108**                                                     |
-|                                                                    |
-| **Creating Your Personal Serve System**                            |
-|                                                                    |
-| Xây dựng hệ thống serve cá nhân hóa                                |
-+--------------------------------------------------------------------+
+
+| **MODULE 108** |
+| --- |
+|  |
+| **Creating Your Personal Serve System** |
+|  |
+| Xây dựng hệ thống serve cá nhân hóa |
+
 
 **108.1 Nền tảng lý thuyết nâng cao**
 
@@ -8064,14 +8064,14 @@ tế nhất trong biomechanics serve. Player 5.0 so với 4.5 không phải vì 
 sức mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **108.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -8116,21 +8116,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 109**                                                     |
-|                                                                    |
-| **Advanced Testing Protocols**                                     |
-|                                                                    |
-| Test protocol nâng cao đánh giá serve quality                      |
-+--------------------------------------------------------------------+
+
+| **MODULE 109** |
+| --- |
+|  |
+| **Advanced Testing Protocols** |
+|  |
+| Test protocol nâng cao đánh giá serve quality |
+
 
 **109.1 Nền tảng lý thuyết nâng cao**
 
@@ -8143,14 +8143,14 @@ trong biomechanics serve. Player 5.0 so với 4.5 không phải vì có sức
 mạnh cơ bắp lớn hơn, mà vì timing, sequencing, và elastic chain
 efficiency tốt hơn.
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong      |
-| timing hoặc alignment có thể tạo ra 5-10% increase trong serve     |
-| speed và significant decrease trong joint stress. The details      |
-| matter enormously.                                                 |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Insight cho player 4.5-5.0: Ở level này, 1% improvement trong |
+| timing hoặc alignment có thể tạo ra 5-10% increase trong serve |
+| speed và significant decrease trong joint stress. The details |
+| matter enormously. |
+
 
 **109.2 Phân tích kỹ thuật chuyên sâu**
 
@@ -8195,21 +8195,21 @@ Mục tiêu cuối cùng không chỉ là serve mạnh hơn ngay bây giờ, mà
 tốt trong 10-20 năm tới. Module này đóng góp vào mục tiêu đó bằng cách
 giúp bạn hiểu sâu hơn về cơ chế bảo vệ gối trong serve.
 
-+--------------------------------------------------------------------+
-| **✅ MẸO THỰC HÀNH**                                               |
-|                                                                    |
-| Career longevity principle: Mỗi 1% improvement trong biomechanics  |
-| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể     |
-| trong suốt career mà không gây tích lũy tổn thương khớp.           |
-+--------------------------------------------------------------------+
+| **✅ MẸO THỰC HÀNH** |
+| --- |
+|  |
+| Career longevity principle: Mỗi 1% improvement trong biomechanics |
+| efficiency = số cú serve bạn có thể thực hiện tăng lên đáng kể |
+| trong suốt career mà không gây tích lũy tổn thương khớp. |
 
-+:------------------------------------------------------------------:+
-| **MODULE 110**                                                     |
-|                                                                    |
-| **Kết Luận --- Serve Mạnh Và Bền Trong 10 Năm**                    |
-|                                                                    |
-| Tổng hợp toàn bộ 110 modules --- hành trình hoàn chỉnh             |
-+--------------------------------------------------------------------+
+
+| **MODULE 110** |
+| --- |
+|  |
+| **Kết Luận --- Serve Mạnh Và Bền Trong 10 Năm** |
+|  |
+| Tổng hợp toàn bộ 110 modules --- hành trình hoàn chỉnh |
+
 
 **110.1 Hành trình 110 modules --- điều bạn đã học**
 
@@ -8246,13 +8246,13 @@ Dù bạn ở level nào, 10 nguyên lý sau đây luôn đúng:
 512. Bảo vệ gối là consequence, không phải goal --- làm đúng chain, gối
      tự được bảo vệ
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Câu nói tổng kết: \'Đầu gối không tạo ra sức mạnh --- nó chỉ cho   |
-| phép sức mạnh đi qua cơ thể đúng cách.\' Đây là bí quyết serve     |
-| mạnh, mượt, và bền trong 10 năm.                                   |
-+--------------------------------------------------------------------+
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Câu nói tổng kết: 'Đầu gối không tạo ra sức mạnh --- nó chỉ cho |
+| phép sức mạnh đi qua cơ thể đúng cách.' Đây là bí quyết serve |
+| mạnh, mượt, và bền trong 10 năm. |
+
 
 **110.3 Roadmap tiếp theo --- hành động cụ thể theo level**
 
@@ -8305,17 +8305,17 @@ dài của bạn. Không phải chi phí, mà là đầu tư.
 
 Chúc bạn serve mạnh, mượt, và bền trong nhiều năm tới!
 
-+--------------------------------------------------------------------+
-| **🔑 NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
-| Từ Djokovic và Shelton: Hai phong cách khác nhau, một nguyên lý    |
+| **🔑 NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Từ Djokovic và Shelton: Hai phong cách khác nhau, một nguyên lý |
 | chung --- xoắn quanh ổ hông, giữ gối như bản lề sạch, bật lên khỏi |
-| mặt đất, và uncoil khi airborne. Đó là tất cả.                     |
-+--------------------------------------------------------------------+
+| mặt đất, và uncoil khi airborne. Đó là tất cả. |
 
-+:--------------------:+:--------------------:+:--------------------:+
-| **110**              | **∞**                | **10+**              |
-|                      |                      |                      |
-| Modules hoàn thành   | Cú serve an toàn     | Năm bảo vệ đầu gối   |
-|                      | phía trước           |                      |
-+----------------------+----------------------+----------------------+
+
+| **110** | **∞** | **10+** |
+| --- | --- | --- |
+|  |  |  |
+| Modules hoàn thành | Cú serve an toàn | Năm bảo vệ đầu gối |
+|  | phía trước |  |
+

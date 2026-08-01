@@ -1,30 +1,29 @@
-# Novak Djokovic\'s Forehand: The Forward Swing
+# Novak Djokovic's Forehand: The Forward Swing
 
 # John Yandell
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image1.webp)
 
 **The forward swing: a blur of complicated elements occurring in about
 1/10th of a second.**
 
-OK now it\'s money time. We\'ve looked in detail at the general
-characteristics of Novak Djokovic\'s amazing forehand ([Click
+OK now it's money time. We've looked in detail at the general
+characteristics of Novak Djokovic's amazing forehand ([Click
 Here](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)),
 then how he begins ([Click
 Here](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx))
 and how he completes the preparation. ([Click
 Here](John%20Yandell-Novak%20Djokovic's%20Forehand-The%20Full%20Turn%20and%20Backswing.docx).)
 
-Now let\'s look at the forward swing. It\'s a blur that takes about
+Now let's look at the forward swing. It's a blur that takes about
 1/10th of a second and sends the ball hurtling toward his opponent at 90
 mph plus and 2700 rpm. And during that brief interval many complex
 factors come into play that are impossible for the human eye to sort
-out. So let\'s see what the high speed video can tell us.
+out. So let's see what the high speed video can tell us.
 
-The amazing thing is that Novak\'s forehand, arguably the best in the
+The amazing thing is that Novak's forehand, arguably the best in the
 world at the moment, actually has more factors in common with the
 alleged \"old style\" swing patterns of players such as Andre Agassi,
 than with the more \"advanced\" technical swings of Federer and Nadal.
@@ -34,20 +33,19 @@ element that is probably more \"advanced\" than either.
 It continues to stun me as I study technique in the pro game how much
 variety there really is, and how hard it is to make broad
 generalizations about the top players. Looking at Djokovic, his forehand
-is just as unique as Federer\'s or Nadal\'s\--just in it\'s own way.
+is just as unique as Federer's or Nadal's\--just in it's own way.
 ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/evolution_modern_forehand/evolution_modern_forehand_part1/roger_federer_evolution_modern_forehand_part1.html)
-for more on Roger\'s forehand and [Click
+for more on Roger's forehand and [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/rafael_nadals_forehand/rafael_nadals_forehand.html)
-for more on Nadal\'s.)
+for more on Nadal's.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image2.webp)
 
-**Is it possible Novak\'s forehand is in some ways most like
-Agassi\'s?**
+**Is it possible Novak's forehand is in some ways most like
+Agassi's?**
 
 The reality is that the great players are constantly combining technical
 elements in different ways. The combinations vary from player to player,
@@ -67,42 +65,40 @@ These 4 elements are: the head position, the hitting arm configuration,
 the shape and length of the followthrough (including the wrap), and
 finally the forward rotation of the torso.
 
-+----------------------------+
-| **Four Factors in the      |
-| Forward Swing:**           |
-+============================+
-| Head Position              |
-|                            |
-| Hitting Arm Configuration  |
-|                            |
-| Followthrough and Wrap     |
-|                            |
-| Rotation of Torso          |
-+----------------------------+
+| **Four Factors in the |
+| --- |
+| Forward Swing:** |
+| Head Position |
+|  |
+| Hitting Arm Configuration |
+|  |
+| Followthrough and Wrap |
+|  |
+| Rotation of Torso |
 
-So let\'s look at all 4 and see how Novak is different from Federer and
+
+So let's look at all 4 and see how Novak is different from Federer and
 Nadal\--in some cases more \"retro\" and in at least one more
 \"advanced.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image3.webp)
 
-**Federer\'s famous head position, sideways at contact and well after.**
+**Federer's famous head position, sideways at contact and well after.**
 
 **Head Position**
 
-One of the most noted points about Roger Federer\'s forehand is his head
+One of the most noted points about Roger Federer's forehand is his head
 position, which is turned sideways at almost a 90 degree angle to the
 ball at contact. Nadal does something similar if less extreme.
 
 Teaching players to create and hold this position has become a
-fashionable trend in teaching. But it\'s very different from what
+fashionable trend in teaching. But it's very different from what
 Djokovic does and I think that it is impossible to say it is a core
 commonality in the modern forehand.
 
-If you look at Federer\'s head position, something that is at least as
+If you look at Federer's head position, something that is at least as
 interesting as the position itself is how he gets there. As the forward
 swing starts he is still turning his head significantly to his right. He
 only arrives at that sideways position a tiny fraction of a second
@@ -114,19 +110,18 @@ difficult it is to create and hold, especially the part about moving the
 head to your right until just before the hit.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image4.webp)
 
 **Nadal turns his head sideways as well, again maintaining that position
 after contact.**
 
-Nadal\'s head is also turned sideways at contact, but not quite as far
-is Federer\'s. And like Roger, he is turning it to his side up until a
+Nadal's head is also turned sideways at contact, but not quite as far
+is Federer's. And like Roger, he is turning it to his side up until a
 few milliseconds before the hit. He also gets it still just before
 contact and he holds it for a significant interval after the ball leaves
 the strings.
 
-**Novak\'s Head**
+**Novak's Head**
 
 So difficult or not, should that be the new norm? Possibly, but Novak
 does something quite different. As the forward swing starts Djokovic
@@ -143,13 +138,12 @@ position? Does it really have to be dead still during the hit? And when
 should it start to turn back?
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image5.webp)
 
-**Novak\'s head: not nearly as sideways at contact, and moving during
+**Novak's head: not nearly as sideways at contact, and moving during
 and shortly thereafter.**
 
-What effect might the head position have on the actual contact? That\'s
+What effect might the head position have on the actual contact? That's
 something we can actually examine, based on a previous article. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/string_bed_and_pro_contact_point/).)
 
@@ -163,28 +157,27 @@ slightly during the hit. Federer and Nadal appear to keep the head dead
 still, but there contact points were somewhat less precise than
 Djokovic.
 
-So to make a point we\'ve made many times before, it is difficult to
+So to make a point we've made many times before, it is difficult to
 make generalizations about the advantages of various technical
-differences among great players. Is Roger\'s head position what makes
+differences among great players. Is Roger's head position what makes
 his forehand so effective, or is it an idiosyncratic element?
 
 Would a different head position be as effective, or possibly, even more
-effective? We won\'t know for sure until we clone Roger and train him
-both ways. It\'s true that most top players do get the head relatively
+effective? We won't know for sure until we clone Roger and train him
+both ways. It's true that most top players do get the head relatively
 still for at least a fraction of a second around contact, but how they
 do this and the exact head position and how long they hold it may not be
 determinant in creating great contact.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image6.webp)
 
 **Elbow bent, wrist laid back, before during and after contact\--most
 times.**
 
 **Hitting Arm**
 
-When we look at Djokovic\'s hitting arm configuration we can see a
+When we look at Djokovic's hitting arm configuration we can see a
 similar issue to that of the head position. Because Nadal and Federer
 both hit with straight arms, there has been a tendency to conclude that
 this configuration is somehow superior, more advanced, the future of the
@@ -197,8 +190,8 @@ advantages.
 The one fact we can state with certainty, however, is that Djokovic hits
 with the classic configuration of so many top players, what I labeled
 the \"double bend\" many years ago. And the double bend configuration is
-apparently good enough to make Djokovic\'s forehand equal to either
-Nadal\'s or Federer\'s.
+apparently good enough to make Djokovic's forehand equal to either
+Nadal's or Federer's.
 
 By double bend I mean that as Novak starts forward to the ball, his
 elbow is bent and tucked in toward his body, and the wrist is laid back.
@@ -206,13 +199,12 @@ This is the same configuration used by former greats Agassi, Pete
 Sampras, as well as many of the current top players with huge forehands.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image7.webp)
 
-**Novak\'s head: not nearly as sideways at contact, and moving during
+**Novak's head: not nearly as sideways at contact, and moving during
 and shortly thereafter.**
 
-The interesting thing about the double bend in Djokovic\'s forward swing
+The interesting thing about the double bend in Djokovic's forward swing
 is how it works in combination with his extreme grip which we analyzed
 in the first article. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/djokovic_forehand/part_01.html).)
@@ -243,8 +235,7 @@ that seems characteristic of high velocity modern swings. Again, the
 more you study, the harder it really is to make absolute statements.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image8.webp)
 
 **Watch how the wrist approaches neutral but is pushed into a laid back
 position at contact.**
@@ -277,21 +268,20 @@ become with minimal tension in the hitting arm throughout the forward
 swing.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image9.webp)
 
 **The full variety of possible modern finishes, but\...**
 
 **Followthrough**
 
-Looking at our new high speed footage of Novak forehands, it\'s obvious
+Looking at our new high speed footage of Novak forehands, it's obvious
 that, like other top players, he has the full variety of finishes. He
 hits heavy wipers that wrap around his shoulder. He also hits wipers
 that finish somewhat lower wrapping around the torso. He hits reverse
 finishes that cross back over to the right side of his body, but,
 surprisingly, far fewer than most other players.
 
-But one of the most distinctive thing about Djokovic\'s forehands is the
+But one of the most distinctive thing about Djokovic's forehands is the
 predominance of the over the shoulder \"old style\" finish that we
 associate with great former players such at Andre Agassi.
 
@@ -308,13 +298,12 @@ the new finishes that go around the shoulder or the torso and/or over
 the head.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image10.webp)
 
-**Almost half of Novak\'s forehands finish in the supposedly obsolete
+**Almost half of Novak's forehands finish in the supposedly obsolete
 over the shoulder position.**
 
-But for Djokovic, this isn\'t the case. His spin rates are roughly equal
+But for Djokovic, this isn't the case. His spin rates are roughly equal
 to or slightly higher than Federer, averaging 2800rpm. The interesting
 thing is that he is able to generate this average consistently with the
 over the shoulder finishes, with spin rates equally the wiper wraps.
@@ -363,16 +352,15 @@ stand in closer to the baseline than most players, a position sometimes
 associated with flatter hitting.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image10.webp)
 
 **What do swing plane and racket speed have to do with the effectiveness
-of Djokovic\'s forehand?**
+of Djokovic's forehand?**
 
 One possible answer is the grip. As we saw in the first article, you
-might conclude from Novak\'s court position that he hit with a
+might conclude from Novak's court position that he hit with a
 conservative grip. Instead, our analysis showed that his grip was as
-extreme as Nadal\'s. That extreme grip could correlate with a steeper
+extreme as Nadal's. That extreme grip could correlate with a steeper
 swing plane that could be the explanation.
 
 But sheer racket speed is probably also a factor. Once again, we have
@@ -391,18 +379,17 @@ baseline.
 
 For Djokovic, the shoulder position at the finish is much more extreme.
 From the turn, he rotates the back right shoulder forward and around in
-the forward swing until it is facing the opponent. That\'s around 180
+the forward swing until it is facing the opponent. That's around 180
 degrees of forward rotation, more on average than either Federer or
 Nadal.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image11.webp)
 
 **Tremendous forward shoulder rotation with open and neutral stance.**
 
 The front shoulder comes around that far about 75 percent of the time.
-So it\'s even more prevalent than his over the shoulder finish. He also
+So it's even more prevalent than his over the shoulder finish. He also
 does it from all the stance variations. When he steps forward with a
 neutral stance, he rotates both feet into the air and too his left so
 the torso can come all the way around.
@@ -421,13 +408,12 @@ rates and ball speed.
 **Extension**
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image12.webp)
 
 **The characteristic extension position on the power drive.**
 
-But now let\'s get back to one point of commonality with both Federer
-and Nadal. This is Djokovic\'s great forward extension in the swing on
+But now let's get back to one point of commonality with both Federer
+and Nadal. This is Djokovic's great forward extension in the swing on
 the power drive. Despite the differences in his emphasis on various
 technical components, Novak reaches the same characteristic point on the
 forward swing when he is trying to drive through the ball that we have
@@ -441,14 +427,14 @@ great spacing between the hand and the left shoulder.
 The over the shoulder wrap, happens after he reaches this extension, and
 is the natural deceleration phase in the motion. As we discovered long
 ago, trying to force the racket over the shoulder too soon truncates the
-motion and reduces the player\'s ability to reach the extension point.
+motion and reduces the player's ability to reach the extension point.
 ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
 
 **Reviewing**
 
-So there you have it\--the full story on Novak\'s forehand. But before
-we go, let\'s try to summarize what we have seen in this 4 part series.
+So there you have it\--the full story on Novak's forehand. But before
+we go, let's try to summarize what we have seen in this 4 part series.
 Djokovic tends to play up on the baseline and take the ball early
 Federer,and he hits with similar spin rates. But surprisingly he does
 this with a very extreme grip that is as far under the handle, or more
@@ -456,17 +442,16 @@ under the handle, than Nadal\--a player who typically stays much further
 back and hits with significantly greater spin.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image13.webp)
 
-**The unique combination of elements makes it Novak\'s forehand.**
+**The unique combination of elements makes it Novak's forehand.**
 
 Like all great players, Novak has great early preparation with his body
 turn and his use of the left arm stretch, and has the ability to
 position in all stances with a wide variety of initial step
 combinations. But Novak is different in that he has an unusual backswing
 turning the racket face virtually parallel to the back fence. His hand
-and arm also go slightly more behind his body than most other top men\'s
+and arm also go slightly more behind his body than most other top men's
 players.
 
 Novak can use his forehand to more than hold his own with Federer and
@@ -485,13 +470,12 @@ these things out for themselves.
 
 Eventually yet another player will come along, make it to the top with a
 great forehand and become the poster boy for \"modern\" technique. For
-now we\'ve seen a fascinating range of the possible with Roger, Rafa and
+now we've seen a fascinating range of the possible with Roger, Rafa and
 Novak. Stay tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image14.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-novak-djokovic-s-forehand-the-forward-swing/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

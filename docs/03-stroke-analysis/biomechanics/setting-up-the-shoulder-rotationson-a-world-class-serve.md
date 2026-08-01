@@ -20,8 +20,7 @@ increasing their explosiveness and top speed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image1.webp)
 
 **External followed by internal shoulder rotation---but how are they
 created and enhanced?**
@@ -43,8 +42,7 @@ stretching occurs for the serve.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image2.webp)
 
 **Can you see all 6 motions that set up the stretch shorten cycle?**
 
@@ -81,8 +79,7 @@ not a professional instructor or coach.
 
 ![A picture containing text, tennis, sport, athletic game Description
 automatically
-generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image3.webp)
 
 **Watch the arm and racket rotate up and back toward the Trophy
 Position.**
@@ -117,8 +114,7 @@ not include this Motion to Trophy Position in their service motions.**
 
 ![A picture containing text, tennis, sport, athletic game Description
 automatically
-generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image4.webp)
 
 **The leg thrust drives the shoulder upward causing the upper arm and
 racket to rotate backward and down.**
@@ -150,8 +146,7 @@ up the stretch shorten cycle.]{.mark}]{.underline}**
 
 ![A picture containing tennis, ball, court, player Description
 automatically
-generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image5.webp)
 
 **Cartwheel: the front shoulder drops as the rear shoulder rises.**
 
@@ -182,8 +177,7 @@ racket.]{.mark}** The net effect is added external shoulder rotation and
 increased stretching of the internal rotators.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image6.webp)
 
 **Trunk Turn: The rotation or turning the trunk accelerates the hitting
 shoulder forward on a circular path.**
@@ -225,24 +219,22 @@ Turn appears to be somewhat more than a quarter turn forward to impact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image7.webp)
 
 **Somersault: the forward tilting of the body that may add to the
 stretch of the internal shoulder rotation muscles.**
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                                 | Chas Stumpfel is a research physicist (retired) |
-| generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image8.jpeg){width="1.3041666666666667in" | with a background that includes various high    |
-| height="2.4611111111111112in"}                                                                                                                                                                               | speed imaging applications.                     |
-|                                                                                                                                                                                                              |                                                 |
-|                                                                                                                                                                                                              | He is a recreational player who has been        |
-|                                                                                                                                                                                                              | interested in tennis stroke techniques since    |
-|                                                                                                                                                                                                              | the 1970s, especially those for the serve.      |
-|                                                                                                                                                                                                              |                                                 |
-|                                                                                                                                                                                                              | In 2011, he was surprised and fascinated to     |
-|                                                                                                                                                                                                              | learn of research of that showed the racket     |
-|                                                                                                                                                                                                              | head speed for the serve was largely powered by |
-|                                                                                                                                                                                                              | a joint motion that was not well known in       |
-|                                                                                                                                                                                                              | tennis.                                         |
-+==============================================================================================================================================================================================================+=================================================+
+| ![A person holding a tennis racket Description automatically | Chas Stumpfel is a research physicist (retired) |
+| --- | --- |
+| generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/image8.jpeg) | speed imaging applications. |
+|  |  |
+|  | He is a recreational player who has been |
+|  | interested in tennis stroke techniques since |
+|  | the 1970s, especially those for the serve. |
+|  |  |
+|  | In 2011, he was surprised and fascinated to |
+|  | learn of research of that showed the racket |
+|  | head speed for the serve was largely powered by |
+|  | a joint motion that was not well known in |
+|  | tennis. |
+

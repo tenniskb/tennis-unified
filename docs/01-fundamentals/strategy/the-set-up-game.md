@@ -6,10 +6,9 @@
 
 ![A picture containing tennis, sport, grass, athletic game Description
 automatically
-generated](media_the-set-up-game/media/image1.jpg){width="2.4945056867891515in"
-height="3.1442377515310587in"}
+generated](media_the-set-up-game/media/image1.jpg)
 
-**What role did the Set up Game play in Andre Agassi\'s 1992 Wimbledon
+**What role did the Set up Game play in Andre Agassi's 1992 Wimbledon
 win?**
 
 In my first article for Tennisplayer, we looked at what I call the
@@ -17,15 +16,15 @@ In my first article for Tennisplayer, we looked at what I call the
 you to within one point of winning a game. ([Click
 Here](The%20Set-up%20Point.docx).)
 
-Now in this second article, let\'s look at an equally important and
+Now in this second article, let's look at an equally important and
 unrecognized situation in competitive matches. This is the Set-up Game.
 
 Basically, any game that can move a player to within one game of the set
-is a Set-up Game. It\'s similar to the Set-up Point in that it\'s
+is a Set-up Game. It's similar to the Set-up Point in that it's
 generally not viewed by most players as anything special, just another
 game.
 
-But a Set-up game is special. It isn\'t just another game, as I\'ll
+But a Set-up game is special. It isn't just another game, as I'll
 demonstrate using an example from a famous Wimbledon final.
 
 The Set-up Game at 4-4 or 5-5, when both players have a chance to move
@@ -33,16 +32,15 @@ up to a set game, has even more dynamic value. If you break serve you
 are then serving for the set.
 
 Or if you hold serve (at 4-4 or 5-5) your opponent has the pressure of
-knowing if they don\'t hold serve they lose the set or match. Knowing
+knowing if they don't hold serve they lose the set or match. Knowing
 that they have to hold serve or lose is significant pressure for most
 recreational players.
 
 ![A person holding a basketball Description automatically generated with
 low
-confidence](media_the-set-up-game/media/image2.jpg){width="2.4444444444444446in"
-height="4.083333333333333in"}
+confidence](media_the-set-up-game/media/image2.jpg)
 
-**After Agassi won the set up game, Goran couldn\'t hold to save the
+**After Agassi won the set up game, Goran couldn't hold to save the
 match.**
 
 Andre understood fully the dynamics of wining the Set-up Game when he
@@ -50,7 +48,7 @@ was serving at 4-4 in the fifth. Agassi said later that he \"wanted to
 hang in long enough to make Goran thinking about it, to serve to save
 the match.\"
 
-He knew what enormous pressure would then fall on Ivanisevic\'s
+He knew what enormous pressure would then fall on Ivanisevic's
 shoulders (and elbow). Andre played a very effective and solid Set-up
 Game at 4-4, holding at 15.
 
@@ -63,7 +61,7 @@ Professor of Tennis. You can do the same in your matches if you pay
 attention.
 
 All Goran Ivanisevic had to do to stay alive in the fifth set was to
-hold serve. But Goran knew if he doesn\'t hold serve at 4-5 he loses the
+hold serve. But Goran knew if he doesn't hold serve at 4-5 he loses the
 match.
 
 Pressure? Even though he had over two-hundred acres in the tournament
@@ -71,8 +69,7 @@ and thirty-seven aces up to that point in the match, he began that
 service game with four consecutive faults!
 
 ![A person holding a trophy Description automatically
-generated](media_the-set-up-game/media/image3.jpg){width="3.071428258967629in"
-height="3.132856517935258in"}
+generated](media_the-set-up-game/media/image3.jpg)
 
 **A wise professor with bleached hair and a Wimbledon trophy.**
 
@@ -80,8 +77,8 @@ On match point his first serve went eighteen inches below the top of the
 net. Agassi won the point and the tournament, but the setup game was the
 critical moment.
 
-That\'s the pressure of knowing you have to hold serve or lose the
-match. And that\'s the kind of pressure you can put on your opponent by
+That's the pressure of knowing you have to hold serve or lose the
+match. And that's the kind of pressure you can put on your opponent by
 winning a Set-up Game.
 
 Goran told the press later, \"For the first time all match I was
@@ -91,52 +88,50 @@ it and it was the pressure created when Agassi won the Set-up Game.
 
 When a Set-up Game arrives (especially at 4-all or 5-all) a flashing red
 light should go off in your head and signal: \"Pay attention. The stakes
-have been raised. Don\'t be casual. Stay alert. Opportunity beckons.\"
+have been raised. Don't be casual. Stay alert. Opportunity beckons.\"
 
 Your concentration level should notch up considerably. Every point here
 is a big point. Every point helps or hurts a lot more.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-set-up-game/media/image4.jpg){width="2.0972222222222223in"
-height="3.3333333333333335in"}
+generated](media_the-set-up-game/media/image4.jpg)
 
 **Bill Tilden said the seventh game was critical, but was he right?**
 
 **The Critical Seventh Game?**
 
-Here\'s one of the reasons I don\'t agree with the common notion that
+Here's one of the reasons I don't agree with the common notion that
 the seventh game is such a critical game in a set. It is critical if it
 moves one player to within four points (one game) of the set. This it
 can do at 4-2 or 2-4.
 
-But it doesn\'t have nearly that importance at 3-3 at the club level.
+But it doesn't have nearly that importance at 3-3 at the club level.
 The \"critical\" game of the set for me is the Set-up Game, which moves
 one player to within striking distance of winning the set.
 
 **Play Like A Boa Constrictor**
 
 In those important swing moments of a match, I want to play like a boa
-constrictor. Do you know how a boa constrictor kills? It doesn\'t crush
+constrictor. Do you know how a boa constrictor kills? It doesn't crush
 its prey. The victim suffocates.
 
 Each time the victim exhales the boa constrictor tightens its hold
-slightly. The prey can\'t inhale as much on the next breath. Each time
-it breathes out it can\'t breathe in as much. Soon it can\'t breathe in
+slightly. The prey can't inhale as much on the next breath. Each time
+it breathes out it can't breathe in as much. Soon it can't breathe in
 at all.
 
 Suffocation. Nothing flashy here. Just constant steady pressure. And
-that\'s my approach on the Set-up Games where winning moves one player
+that's my approach on the Set-up Games where winning moves one player
 to within four points of the set (or match).
 
 ![A person holding a snake Description automatically
-generated](media_the-set-up-game/media/image5.jpg){width="3.4722222222222223in"
-height="2.388888888888889in"}
+generated](media_the-set-up-game/media/image5.jpg)
 
 **Every time the victim exhales, the boa tightens slightly.**
 
-**[[Don\'t force shots. Don\'t get impatient. Don\'t try to make
+**[[Don't force shots. Don't get impatient. Don't try to make
 something out of nothing. Just keep squeezing.]{.underline}]{.mark}**
-**[[When I\'m playing the Set-up Game, I\'m trying to get the other
+**[[When I'm playing the Set-up Game, I'm trying to get the other
 player to make mistakes, to get impatient, to go for the brilliant
 shot.]{.underline}]{.mark}**
 
@@ -152,8 +147,7 @@ the ball over the net. The opponent will give up the points because of
 sloppy play and sloppy thinking.
 
 ![A person speaking into a microphone Description automatically
-generated](media_the-set-up-game/media/image6.jpeg){width="1.8736111111111111in"
-height="1.6756944444444444in"}
+generated](media_the-set-up-game/media/image6.jpeg)
 
 Brad Gilbert is widely recognized as one of the top coaching minds, as
 well as one of the most direct and insightful television commentators in
@@ -167,15 +161,14 @@ Rafael, California.
 
 ![A picture containing text, person, person, player Description
 automatically
-generated](media_the-set-up-game/media/image7.jpeg){width="1.40625in"
-height="2.1375in"}
+generated](media_the-set-up-game/media/image7.jpeg)
 
 **Brad Gilbert: Winning Ugly**
 
-Brad Gilbert\'s Winning Ugly is one of the most highly regarded and
+Brad Gilbert's Winning Ugly is one of the most highly regarded and
 valuable tennis books ever written. Covering the strategic and mental
 realities of competitive play from the tour to the club level, Winning
-Ugly is packed with Brad\'s original insights about how matches are
+Ugly is packed with Brad's original insights about how matches are
 really won, and strategies any player can apply to dramatically improve
 their match results. A classic, must read for all tennis players,
 Winning Ugly is now available as an ebook, an audio book, as well as in

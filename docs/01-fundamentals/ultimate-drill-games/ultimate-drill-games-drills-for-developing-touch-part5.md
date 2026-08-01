@@ -9,32 +9,27 @@ Here are the last 3 drills in the series. In the next article I will
 show how to use touch to hit the drop shot two ways - including bouncing
 it back over the net to yourself.
 
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | **Back to Self**                                                                                                                                                                                                 |
-|   |                                                                                                                                                                                                                  |
-|   | Bump the ball up on either forehand or backhand, have it land slightly in front of you and bounce back to you. Repeat. To do this you need \"forehandy\" grips for backhands, and vice-versa.                    |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically                                                                                                                                                              |
-|   | generated](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image1.webp){width="3.3333333333333335in"  |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+===+==================================================================================================================================================================================================================+
-|   | **Racket Ball Catch**                                                                                                                                                                                            |
-|   |                                                                                                                                                                                                                  |
-|   | This drill is a good indicator of great touch. Maybe you have seen pro players do this. Catch a stray ball and have it stay on the strings without any bounce. Toss the ball to the player from the opposite     |
-|   | service line. The secret is to let the hand stay soft and give with the incoming ball.                                                                                                                           |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically generated with medium                                                                                                                                        |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image2.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | **Slice Wars**                                                                                                                                                                                                   |
-|   |                                                                                                                                                                                                                  |
-|   | Slice wars start with a drop feed from the baseline. Great for developing the ability to hit slice anywhere on the court. All shots must be sliced or you lose the point. Play to 5 or 11 or even 21 points.     |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically generated with medium                                                                                                                                        |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image3.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  | **Back to Self** |
+| --- | --- |
+|  |  |
+|  | Bump the ball up on either forehand or backhand, have it land slightly in front of you and bounce back to you. Repeat. To do this you need \"forehandy\" grips for backhands, and vice-versa. |
+|  |  |
+|  | ![A person playing tennis Description automatically |
+|  | generated](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image1.webp) |
+|  | **Racket Ball Catch** |
+|  |  |
+|  | This drill is a good indicator of great touch. Maybe you have seen pro players do this. Catch a stray ball and have it stay on the strings without any bounce. Toss the ball to the player from the opposite |
+|  | service line. The secret is to let the hand stay soft and give with the incoming ball. |
+|  |  |
+|  | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image2.webp) |
+|  | **Slice Wars** |
+|  |  |
+|  | Slice wars start with a drop feed from the baseline. Great for developing the ability to hit slice anywhere on the court. All shots must be sliced or you lose the point. Play to 5 or 11 or even 21 points. |
+|  |  |
+|  | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image3.webp) |
+
 
 Remember that one of the best things about touch, is not all points are
 psychologically equal in the minds of most opponents. Some who shrug
@@ -47,8 +42,7 @@ as many weapons in your toolbox as possible?
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                                                       Dave Hagler is a Tennis Professional based
-  generated](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image4.jpeg){width="2.0819444444444444in"   in Los Angeles, California. He works with
-  height="2.0972222222222223in"}                                                                                                                                                                                     players of all ages, but he has a special
+  generated](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image4.jpeg)                                                                                                                                                                                     players of all ages, but he has a special
                                                                                                                                                                                                                      passion for junior development. He has
                                                                                                                                                                                                                      coached numerous sectionally and nationally
                                                                                                                                                                                                                      ranked junior players and several national
@@ -56,7 +50,7 @@ as many weapons in your toolbox as possible?
                                                                                                                                                                                                                      Professional and National Tester, a PTR
                                                                                                                                                                                                                      Master of Tennis -- Performance, and was one
                                                                                                                                                                                                                      of the first 100 coaches to complete the
-                                                                                                                                                                                                                     USTA\'s High Performance Coaching Program.
+                                                                                                                                                                                                                     USTA's High Performance Coaching Program.
                                                                                                                                                                                                                      He has been the USPTA California Division
                                                                                                                                                                                                                      Pro of the Year and one of 5 National
                                                                                                                                                                                                                      Recipients of the "Pro of the Year" award
@@ -65,16 +59,15 @@ as many weapons in your toolbox as possible?
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
-| | **Tennisplayer Forum**                                                                                                              | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image5.gif){width="1.8729166666666666in" | |
-| |                                                                                                                                     | height="1.3958333333333333in"}                                                                                                                                                                                | |
-| +-------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                                                               | |
-| | **Let\'s Talk About this Article!\                                                                                                  |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | Share Your Thoughts with our Subscribers and Authors!\                                                                              |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | [[Click                                                                                                                             |                                                                                                                                                                                                               | |
-| | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |                                                                                                                                                                                                               | |
-| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |
-+=========================================================================================================================================================================================================================================================================================================================================================+
+| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part5/media/image5.gif) |  |
+| +-------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+|  | **Let's Talk About this Article!\ |  |  |
+|  | \ |  |  |
+|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
+|  | \ |  |  |
+|  | [[Click |  |  |
+|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
+

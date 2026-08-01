@@ -4,8 +4,7 @@
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_changing-direction-during-rallies/media/image1.png){width="6.5in"
-height="3.498611111111111in"}
+confidence](media_changing-direction-during-rallies/media/image1.png)
 
 **[[Making smart choices during competition is just as important as good
 execution. This includes knowing when to change
@@ -31,8 +30,7 @@ width="6.5in" height="3.654166666666667in"}
 **Inside Ball**
 
 ![Harvey Balls 0% with solid
-fill](media_changing-direction-during-rallies/media/image4.svg){width="0.4283300524934383in"
-height="0.4283300524934383in"}
+fill](media_changing-direction-during-rallies/media/image4.svg)
 
 **[Reason:]{.underline}**
 
@@ -47,8 +45,7 @@ angle shot]{.underline}]{.mark}** that has less margin for error.
 
 ![A person wearing a baseball hat Description automatically generated
 with low
-confidence](media_changing-direction-during-rallies/media/image5.png){width="1.84375in"
-height="2.4784722222222224in"}
+confidence](media_changing-direction-during-rallies/media/image5.png)
 
 Ean Meyer, a professional tennis coach since 1987. Over the years, I've
 worked with every level of player from beginner to professional,

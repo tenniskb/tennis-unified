@@ -33,7 +33,7 @@ bài tập thực hành được đúc kết từ phương pháp của các HLV 
 giới.
 
   --------- -----------------------------------------------------------------
-   **MẸO**  *Tay trái: bất cứ khi nào tài liệu nói \'phải\' và \'trái\' để mô
+   **MẸO**  *Tay trái: bất cứ khi nào tài liệu nói 'phải' và 'trái' để mô
             tả bước chân hoặc hướng đánh, hãy đảo ngược lại.*
 
   --------- -----------------------------------------------------------------
@@ -145,7 +145,7 @@ toàn bộ năng lượng sinh ra trước đó.
 
 Dùng chuỗi động năng đầy đủ với bóng đến chậm, khi bạn phải tự tạo sức
 mạnh. Với drop shot, slice và volley, cơ thể đứng tĩnh hơn --- HLV gọi
-là \'giữ thấp\'. Với bóng đến nhanh như giao bóng mạnh, cử động cơ thể
+là 'giữ thấp'. Với bóng đến nhanh như giao bóng mạnh, cử động cơ thể
 quá nhiều làm hỏng thời điểm đánh.
 
 **Bài Tập Chuỗi Động Năng**
@@ -214,7 +214,7 @@ trực tiếp chuyển hóa thành cú đánh tốt hơn.
   --------------------- -------------------------------------------------
 
   ------- -----------------------------------------------------------------
-   **BÀI  *Bài tập thang dây, cone xáo trộn và hình ảnh tâm lý \'cát nóng\'
+   **BÀI  *Bài tập thang dây, cone xáo trộn và hình ảnh tâm lý 'cát nóng'
    TẬP**  tại lưới xây dựng những mô hình di chuyển tự động mà các tay vợt
           giỏi dựa vào dưới áp lực thi đấu.*
 
@@ -250,7 +250,7 @@ xúc, tạo ra cả sức mạnh lẫn spin.
                chọn theo sự thoải mái và ổn định.
 
    **TROPHY**  Khi bóng tung đến đỉnh và vợt buông xuống sau lưng, hình thành
-               \'vị trí trophy\': trọng lượng dồn vào chân sau, vợt sau đầu, cánh
+               'vị trí trophy': trọng lượng dồn vào chân sau, vợt sau đầu, cánh
                tay không đánh vươn lên chỉ vào bóng. Đây là khoảnh khắc tích lũy
                sức mạnh.
 
@@ -283,7 +283,7 @@ xúc, tạo ra cả sức mạnh lẫn spin.
 **Bài Tập Giao Bóng**
 
 - Horse (Ngựa): Chia ô giao bóng thành ba phần bằng cone. Thay nhau chỉ
-  định mục tiêu; ghi chữ như trò chơi \'Horse\' bóng rổ.
+  định mục tiêu; ghi chữ như trò chơi 'Horse' bóng rổ.
 
 - Hai-đổi-Một: Chơi hai điểm liên tiếp giao bóng về một bên. Bạn chỉ ghi
   điểm khi thắng cả hai. Rèn luyện sự tập trung.
@@ -390,7 +390,7 @@ giai đoạn cơ bản --- và bạn cũng có thể làm được.
                   Thực hiện nhanh; chuẩn bị càng sớm, tích lũy sức mạnh càng nhiều.
 
    **BACKSWING**  Khi tay trái tách khỏi vợt và di chuyển song song với lưới, cánh
-                  tay phải đưa vợt ra sau theo vòng tròn \'ngoài\' --- giữ mặt vợt
+                  tay phải đưa vợt ra sau theo vòng tròn 'ngoài' --- giữ mặt vợt
                   hướng về hàng rào phải. Backswing ngoài ngắn hơn và hiệu quả hơn
                   vòng lớn.
 
@@ -427,8 +427,8 @@ giai đoạn cơ bản --- và bạn cũng có thể làm được.
   --------- -----------------------------------------------------------------
    **HLV**  *Động tác xoay người là yếu tố quan trọng nhất của forehand.
             Không có vai xoay mạnh để bắt đầu, mọi giai đoạn tiếp theo đều bị
-            ảnh hưởng. Hãy nghĩ: \'Bắt đầu như các pro --- đây là động tác ai
-            cũng có thể làm được.\'*
+            ảnh hưởng. Hãy nghĩ: 'Bắt đầu như các pro --- đây là động tác ai
+            cũng có thể làm được.'*
 
   --------- -----------------------------------------------------------------
 
@@ -837,8 +837,8 @@ và Giao Bóng Kiểu Bóng Chuyền.
   phát triển các cú đánh được thiết kế để đối phó với các mô hình thống
   trị hôm nay.
 
-- Đổi mới bắt đầu bằng sự tò mò. Đừng hỏi \'tôi có đang làm đúng
-  không?\' mà hãy hỏi \'liệu có cách nào tốt hơn cho tôi không?\'
+- Đổi mới bắt đầu bằng sự tò mò. Đừng hỏi 'tôi có đang làm đúng
+  không?' mà hãy hỏi 'liệu có cách nào tốt hơn cho tôi không?'
 
   -------- -----------------------------------------------------------------
    **THẤU  *Katy, một học trò 11 tuổi của Marty Smith, gặp khó khăn với
@@ -1144,7 +1144,7 @@ yếu. Đội tốt nhất không nhất thiết có groundstroke tốt nhất -
   đón bóng xong, sau đó cùng tiến lên lưới.
 
 - Báo hiệu ý định poach trước mỗi điểm. Nắm tay phía sau lưng báo hiệu
-  \'Tôi sẽ poach\'; bàn tay mở báo hiệu \'Tôi sẽ ở lại\'.
+  'Tôi sẽ poach'; bàn tay mở báo hiệu 'Tôi sẽ ở lại'.
 
 > **CHƯƠNG 20: TÂM LÝ VÀ TRÒ CHƠI NỘI TÂM**
 
@@ -1187,7 +1187,7 @@ chủ chiều kích kỹ thuật.
 
   --------- -----------------------------------------------------------------
    **HLV**  *Andy Murray từng được phát hiện với ghi chú viết tay trong túi
-            vợt năm 2015 chỉ đơn giản ghi: \'Hãy tốt với bản thân.\' Ngay cả
+            vợt năm 2015 chỉ đơn giản ghi: 'Hãy tốt với bản thân.' Ngay cả
             vận động viên đẳng cấp thế giới cũng cần chủ động quản lý đối
             thoại nội tâm của mình. Hãy xây dựng sức mạnh tâm lý xung quanh
             cú đánh mạnh nhất của bạn.*

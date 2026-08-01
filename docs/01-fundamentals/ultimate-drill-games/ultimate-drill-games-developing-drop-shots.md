@@ -3,8 +3,7 @@
 ### Dave Hagler
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_ultimate-drill-games-developing-drop-shots/media/image1.webp)
 
 **Mastery of spin gives the ability to make a drop shot bounce back to
 your side.**
@@ -20,7 +19,7 @@ bounce back over the net to your side!
 
 **Grips**
 
-I haven\'t talked much about grips, and I don\'t believe in absolutes,
+I haven't talked much about grips, and I don't believe in absolutes,
 but you need a trigger finger if you are going to have good touch. If
 you are trying to hit a forehand drop shot that bounces backwards you
 probably want something close to a 1 -1 or an eastern backhand grip.
@@ -30,8 +29,7 @@ should be somewhere near a 3 -- 3, or an eastern forehand grip.
 
 ![A tennis player holding a racket Description automatically generated
 with medium
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_ultimate-drill-games-developing-drop-shots/media/image2.webp)
 
 **Grips for the forehand and backhand drop shots.**
 
@@ -58,8 +56,7 @@ To take the pace off the ball, particularly if it is rising, think of
 your catching skills. You want to \"absorb\" with soft hands.
 
 ![A child playing tennis Description automatically generated with low
-confidence](media_ultimate-drill-games-developing-drop-shots/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_ultimate-drill-games-developing-drop-shots/media/image3.webp)
 
 **On underspin drop shots the swing is primarily forward. On drop shots
 with more sidespin the swing is more from the outside to the inside.**
@@ -71,7 +68,7 @@ more with these balls and you will have success.
 
 A common mistake is to try to hit your drop shot or drop volley too low.
 There is a tradeoff -- a higher hit ball will not go as far forward
-(assuming you haven\'t hit one that bounces backwards) as a ball hit
+(assuming you haven't hit one that bounces backwards) as a ball hit
 lower with the same force.
 
 But the higher ball will spend more time in the air. A lot of good shot
@@ -81,8 +78,7 @@ ball, this will help you achieve success.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                                           Dave Hagler is a Tennis Professional based
-  generated](media_ultimate-drill-games-developing-drop-shots/media/image4.jpeg){width="2.0819444444444444in"   in Los Angeles, California. He works with
-  height="2.0972222222222223in"}                                                                                                                                                                         players of all ages, but he has a special
+  generated](media_ultimate-drill-games-developing-drop-shots/media/image4.jpeg)                                                                                                                                                                         players of all ages, but he has a special
                                                                                                                                                                                                          passion for junior development. He has
                                                                                                                                                                                                          coached numerous sectionally and nationally
                                                                                                                                                                                                          ranked junior players and several national
@@ -90,7 +86,7 @@ ball, this will help you achieve success.
                                                                                                                                                                                                          Professional and National Tester, a PTR
                                                                                                                                                                                                          Master of Tennis -- Performance, and was
                                                                                                                                                                                                          one of the first 100 coaches to complete
-                                                                                                                                                                                                         the USTA\'s High Performance Coaching
+                                                                                                                                                                                                         the USTA's High Performance Coaching
                                                                                                                                                                                                          Program. He has been the USPTA California
                                                                                                                                                                                                          Division Pro of the Year and one of 5
                                                                                                                                                                                                          National Recipients of the "Pro of the

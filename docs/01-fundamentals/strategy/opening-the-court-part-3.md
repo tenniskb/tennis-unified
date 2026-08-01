@@ -6,7 +6,7 @@
 
 Here is the third pattern George Zink uses in training players to use
 the entire court to create openings. High to the backhand. 2 crosscourt
-angles. Attack the open. It\'s about running a specific pattern, but
+angles. Attack the open. It's about running a specific pattern, but
 also about developing control to all areas.
 
 ![](media_opening-the-court-part-3/media/image1.png)
@@ -16,8 +16,7 @@ also about developing control to all areas.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-3/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-3/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

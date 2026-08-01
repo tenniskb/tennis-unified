@@ -6,15 +6,15 @@
 
 *Sinh Cơ Học • Thần Kinh Học Hiệu Suất • Trí Tuệ Nhân Tạo*
 
-+:---------------------------------------:+
-| **Tác giả: Henry Pham (Phạm Đức Hải)**  |
-|                                         |
-| Tennis Future Lab                       |
-|                                         |
-| Phát hành: 03/05/2026                   |
-|                                         |
-| Phiên bản: Advanced Synthesis Edition   |
-+-----------------------------------------+
+| **Tác giả: Henry Pham (Phạm Đức Hải)** |
+| --- |
+|  |
+| Tennis Future Lab |
+|  |
+| Phát hành: 03/05/2026 |
+|  |
+| Phiên bản: Advanced Synthesis Edition |
+
 
 *Tài liệu này được bảo hộ bản quyền. Mọi trích dẫn cần ghi rõ nguồn.*
 
@@ -137,16 +137,16 @@ cú đánh trông mạnh nhưng bóng đi yếu.
 
 **1.2. Phương Trình Năng Lượng Tổng Quát (DET Master Equation)**
 
-+-----------------------------------------------------------------+
-| **Phương trình DET Tổng Quát:**                                 |
-|                                                                 |
-| **E_total = INTEGRAL\[t0 to tf\] { F(t)·v(t) +                  |
-| V_skin(t)·I_skin(t) + p(t)·A(t) } dt**                          |
-|                                                                 |
+| **Phương trình DET Tổng Quát:** |
+| --- |
+|  |
+| **E_total = INTEGRAL\[t0 to tf\] { F(t)·v(t) + |
+| V_skin(t)·I_skin(t) + p(t)·A(t) } dt** |
+|  |
 | *Tổng năng lượng được truyền vào cú đánh là tích phân theo thời |
-| gian của ba kênh: cơ học, thần kinh điện sinh lý, và áp lực     |
-| tiếp xúc.*                                                      |
-+-----------------------------------------------------------------+
+| gian của ba kênh: cơ học, thần kinh điện sinh lý, và áp lực |
+| tiếp xúc.* |
+
 
 **1.2.1. Diễn Giải Từng Thành Phần**
 
@@ -189,15 +189,15 @@ Khi năng lượng đi qua từng \"mắt xích\" trong chuỗi động lực, m
 bị tiêu tán dưới dạng nhiệt và rung động. Mục tiêu của kỹ thuật đỉnh cao
 là giảm thiểu sự tiêu tán này.
 
-+-----------------------------------------------------------------+
-| **Phương trình Hiệu Suất Truyền Tải:**                          |
-|                                                                 |
-| **eta = E_released / E_stored \| eta thuoc \[0, 1\]**           |
-|                                                                 |
-| *Trong đó eta (eta) là hệ số hiệu suất. Dây ruột tự nhiên eta   |
-| \~ 0.95; dây Polyester eta \~ 0.80. Cơ thể được huấn luyện tốt  |
-| eta \~ 0.88-0.92.*                                              |
-+-----------------------------------------------------------------+
+| **Phương trình Hiệu Suất Truyền Tải:** |  |
+| --- | --- |
+|  |  |
+| **eta = E_released / E_stored \ | eta thuoc \[0, 1\]** |
+|  |  |
+| *Trong đó eta (eta) là hệ số hiệu suất. Dây ruột tự nhiên eta |  |
+| \~ 0.95; dây Polyester eta \~ 0.80. Cơ thể được huấn luyện tốt |  |
+| eta \~ 0.88-0.92.* |  |
+
 
 **1.3.1. Các Điểm Rò Rỉ Năng Lượng Phổ Biến**
 
@@ -223,15 +223,15 @@ và xương. Không giống cơ bắp --- vốn chỉ co theo một hướng ---
 thể lưu trữ và giải phóng năng lượng đàn hồi theo nhiều hướng đồng thời,
 giống như một bộ dây thun ba chiều.
 
-+-----------------------------------------------------------------+
-| **Năng Lượng Đàn Hồi Hệ Mạc:**                                  |
-|                                                                 |
-| **E_elastic = (1/2) · k · (delta_x)\^2**                        |
-|                                                                 |
-| *Trong đó k là độ cứng của hệ mạc (N/m) và delta_x là biên độ   |
-| kéo dãn. Lưu ý: do có bình phương, tăng biên độ xoay vặn thêm   |
-| 20% sẽ làm năng lượng tích luỹ tăng 44%.*                       |
-+-----------------------------------------------------------------+
+| **Năng Lượng Đàn Hồi Hệ Mạc:** |
+| --- |
+|  |
+| **E_elastic = (1/2) · k · (delta_x)\^2** |
+|  |
+| *Trong đó k là độ cứng của hệ mạc (N/m) và delta_x là biên độ |
+| kéo dãn. Lưu ý: do có bình phương, tăng biên độ xoay vặn thêm |
+| 20% sẽ làm năng lượng tích luỹ tăng 44%.* |
+
 
 **1.4.1. Ứng Dụng Thực Tiễn: Kỹ Thuật Xoay Chéo (X-Factor)**
 
@@ -256,14 +256,14 @@ Tại khoảnh khắc bóng chạm dây (Impact), cơ thể phải chuyển từ
 lực\" trong vòng 0.005 giây. Đây là sự chuyển đổi nhanh nhất mà hệ thần
 kinh con người có thể thực hiện.
 
-+-----------------------------------------------------------------+
-| **Chỉ Số Vững Chắc Cổ Tay (Wrist Joint Stiffness):**            |
-|                                                                 |
-| **K_wrist = delta_F / delta_theta**                             |
-|                                                                 |
-| *delta_F: biến thiên lực va chạm từ bóng (N). delta_theta: góc  |
-| biến dạng cổ tay (độ). Ngưỡng Elite: K_wrist \>= 0.85.*         |
-+-----------------------------------------------------------------+
+| **Chỉ Số Vững Chắc Cổ Tay (Wrist Joint Stiffness):** |
+| --- |
+|  |
+| **K_wrist = delta_F / delta_theta** |
+|  |
+| *delta_F: biến thiên lực va chạm từ bóng (N). delta_theta: góc |
+| biến dạng cổ tay (độ). Ngưỡng Elite: K_wrist \>= 0.85.* |
+
 
 Nếu K_wrist \< 0.5: Cổ tay bị lật --- rò rỉ năng lượng, mất kiểm soát,
 nguy cơ chấn thương TFCC.
@@ -391,16 +391,16 @@ trước và khuếch đại thêm.
 
 **2.2. Phương Trình Đồng Bộ Hoá Tổng Thể**
 
-+-----------------------------------------------------------------+
-| **Chỉ Số Đồng Bộ NKF (Sigma Synchronization):**                 |
-|                                                                 |
-| **sigma_sync = \[1 / N(N-1)\] × SUM\[i != j\] Corr(N_i(t),      |
-| N_j(t))**                                                       |
-|                                                                 |
-| *Trong đó N là số mắt xích (bàn chân, đùi, hông, thân, vai,     |
+| **Chỉ Số Đồng Bộ NKF (Sigma Synchronization):** |
+| --- |
+|  |
+| **sigma_sync = \[1 / N(N-1)\] × SUM\[i != j\] Corr(N_i(t), |
+| N_j(t))** |
+|  |
+| *Trong đó N là số mắt xích (bàn chân, đùi, hông, thân, vai, |
 | cánh tay, cổ tay). Corr là hệ số tương quan theo thời gian giữa |
-| tín hiệu của cặp mắt xích i và j.*                              |
-+-----------------------------------------------------------------+
+| tín hiệu của cặp mắt xích i và j.* |
+
 
 **2.2.1. Diễn Giải Thực Tế Của sigma_sync**
 
@@ -431,16 +431,16 @@ tay vợt tầm cỡ mô tả.
 
 **2.3. Nhịp Điệu Của Chuỗi Động Lực (Kinetic Chain Timing)**
 
-+-----------------------------------------------------------------+
-| **Phương Trình Cộng Dồn Gaussian (Summation of Waves):**        |
-|                                                                 |
-| **F_total(t) = SUM\[k=1 to K\] A_k × exp(-(t - t\_{k,i})\^2 /   |
-| (2 × sigma_k\^2))**                                             |
-|                                                                 |
-| *Mỗi đường cong Gaussian đại diện cho một nhóm cơ: A_k là biên  |
-| độ lực, t\_{k,i} là thời điểm đạt đỉnh, sigma_k là độ lan tỏa   |
-| (duration).*                                                    |
-+-----------------------------------------------------------------+
+| **Phương Trình Cộng Dồn Gaussian (Summation of Waves):** |
+| --- |
+|  |
+| **F_total(t) = SUM\[k=1 to K\] A_k × exp(-(t - t\_{k,i})\^2 / |
+| (2 × sigma_k\^2))** |
+|  |
+| *Mỗi đường cong Gaussian đại diện cho một nhóm cơ: A_k là biên |
+| độ lực, t\_{k,i} là thời điểm đạt đỉnh, sigma_k là độ lan tỏa |
+| (duration).* |
+
 
 **2.3.1. Ý Nghĩa Của Từng Biến Số**
 
@@ -465,16 +465,16 @@ Có một khoảng thời gian không thể tránh khỏi giữa lúc não phát
 \"Đánh!\" và lúc cơ bắp thực sự tạo ra lực. Khoảng trễ này là kẻ thù của
 sự chính xác trong những tình huống phản ứng nhanh.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Lực Cơ Với Trễ Thần Kinh:**                      |
-|                                                                 |
-| **M_i(t) = alpha_i × \[1 - exp(-beta_i × N_i(t -                |
-| Delta_t_NST-MUR))\]**                                           |
-|                                                                 |
-| *Trong đó Delta_t_NST-MUR là khoảng trễ điện-cơ (30-100ms).     |
+| **Phương Trình Lực Cơ Với Trễ Thần Kinh:** |
+| --- |
+|  |
+| **M_i(t) = alpha_i × \[1 - exp(-beta_i × N_i(t - |
+| Delta_t_NST-MUR))\]** |
+|  |
+| *Trong đó Delta_t_NST-MUR là khoảng trễ điện-cơ (30-100ms). |
 | N_i(t) là tín hiệu thần kinh. alpha_i là tiết diện ngang của bó |
-| cơ. beta_i là hệ số bão hoà (saturation).*                      |
-+-----------------------------------------------------------------+
+| cơ. beta_i là hệ số bão hoà (saturation).* |
+
 
   ---------------- ---------------- ---------------- ----------------
     **Thành phần     **Thời gian     **Giai đoạn**    **Tối ưu hoá**
@@ -543,15 +543,15 @@ Trong sinh cơ học tennis, \"Đan Điền\" tương ứng với Trung tâm kh�
 lượng (Center of Mass --- CM) của cơ thể, nằm ở vùng bụng dưới. Đây là
 điểm xuất phát của mọi vòng xoay NKF.
 
-+-----------------------------------------------------------------+
-| **Nguyên Lý Bảo Toàn Trục:**                                    |
-|                                                                 |
-| **Accuracy = f(CM_stability)**                                  |
-|                                                                 |
-| *Sigma_sync giảm tức thì nếu CM dao động, vì não phải phân bổ   |
-| tài nguyên cho giữ thăng bằng thay vì điều phối chuỗi tấn       |
-| công.*                                                          |
-+-----------------------------------------------------------------+
+| **Nguyên Lý Bảo Toàn Trục:** |
+| --- |
+|  |
+| **Accuracy = f(CM_stability)** |
+|  |
+| *Sigma_sync giảm tức thì nếu CM dao động, vì não phải phân bổ |
+| tài nguyên cho giữ thăng bằng thay vì điều phối chuỗi tấn |
+| công.* |
+
 
 Nguyên lý thực tế: Trong cú Forehand, nếu đầu bạn lắc lư hoặc trục xương
 sống bị nghiêng, não phải dành 20-30% năng lực tính toán để duy trì
@@ -601,15 +601,15 @@ ra bóng \"nặng\" hơn đáng kể.
 
 **3.2. Phương Trình Mô-Men Quán Tính (Swing Weight)**
 
-+-----------------------------------------------------------------+
-| **Mô-Men Quán Tính Cây Vợt:**                                   |
-|                                                                 |
-| **I_racket = INTEGRAL\[0 to L\] rho(x) × x\^2 dx**              |
-|                                                                 |
-| *rho(x): Mật độ khối lượng tại vị trí x. x: Khoảng cách từ tay  |
-| cầm. L: Chiều dài vợt. Lưu ý: do có x\^2, 1g tại đỉnh vợt ảnh   |
-| hưởng gấp nhiều lần so với 1g ở cổ vợt.*                        |
-+-----------------------------------------------------------------+
+| **Mô-Men Quán Tính Cây Vợt:** |
+| --- |
+|  |
+| **I_racket = INTEGRAL\[0 to L\] rho(x) × x\^2 dx** |
+|  |
+| *rho(x): Mật độ khối lượng tại vị trí x. x: Khoảng cách từ tay |
+| cầm. L: Chiều dài vợt. Lưu ý: do có x\^2, 1g tại đỉnh vợt ảnh |
+| hưởng gấp nhiều lần so với 1g ở cổ vợt.* |
+
 
 Ứng dụng thực tiễn của tích phân này: Khi dán thêm chì (lead tape) tại
 vị trí cách tay cầm một khoảng x, mô-men quán tính tăng thêm một lượng:
@@ -623,15 +623,15 @@ Delta_I = m × x².
 
 **3.3. Chỉ Số Dịch Chuyển Quán Tính (DIT)**
 
-+-----------------------------------------------------------------+
-| **Phương Trình DIT:**                                           |
-|                                                                 |
-| **DIT = (I_racket × Delta_omega) / m_player**                   |
-|                                                                 |
-| *I_racket: mô-men quán tính của vợt. Delta_omega =              |
-| omega_impact - omega_lag: biến thiên vận tốc góc. m_player:     |
-| khối lượng người chơi.*                                         |
-+-----------------------------------------------------------------+
+| **Phương Trình DIT:** |
+| --- |
+|  |
+| **DIT = (I_racket × Delta_omega) / m_player** |
+|  |
+| *I_racket: mô-men quán tính của vợt. Delta_omega = |
+| omega_impact - omega_lag: biến thiên vận tốc góc. m_player: |
+| khối lượng người chơi.* |
+
 
 DIT định lượng hiệu quả truyền quán tính từ cây vợt vào quả bóng, được
 chuẩn hoá theo khối lượng người chơi. Người chơi nhẹ hơn cần I_racket
@@ -678,14 +678,14 @@ lớn hơn hoặc Delta_omega lớn hơn để đạt cùng DIT với người n
 
 **3.4.3. Phân Bổ Khối Lượng Hợp Lý**
 
-+-----------------------------------------------------------------+
-| **Phương Trình Cân Bằng Trọng Lượng:**                          |
-|                                                                 |
-| **m_handle = m_total - m_head**                                 |
-|                                                                 |
-| *m_total: tổng khối lượng vợt. m_head: khối lượng phần đầu.     |
-| m_handle: khối lượng phần cán (bao gồm grip).*                  |
-+-----------------------------------------------------------------+
+| **Phương Trình Cân Bằng Trọng Lượng:** |
+| --- |
+|  |
+| **m_handle = m_total - m_head** |
+|  |
+| *m_total: tổng khối lượng vợt. m_head: khối lượng phần đầu. |
+| m_handle: khối lượng phần cán (bao gồm grip).* |
+
 
 Điểm cân bằng (Balance Point) xác định \"cá tính\" của vợt: Head Heavy
 (nặng đầu) hay Head Light (nhẹ đầu). Head Heavy tăng lực xuyên phá nhưng
@@ -694,15 +694,15 @@ cho volley và serve-and-volley.
 
 **3.5. Bảo Toàn Mô-Men Động Lượng Sau Chạm Bóng**
 
-+-----------------------------------------------------------------+
-| **Bảo Toàn Mô-Men Động Lượng (Deceleration Phase):**            |
-|                                                                 |
-| **L_before = L_after =\> I_racket × omega_pre = I_racket ×      |
-| omega_post + Delta_L_body**                                     |
-|                                                                 |
+| **Bảo Toàn Mô-Men Động Lượng (Deceleration Phase):** |
+| --- |
+|  |
+| **L_before = L_after =\> I_racket × omega_pre = I_racket × |
+| omega_post + Delta_L_body** |
+|  |
 | *Delta_L_body = I_racket × (omega_pre - omega_post): mô-men dội |
-| ngược vào cơ thể, mà hệ cơ-mạc phải hấp thụ và hãm phanh.*      |
-+-----------------------------------------------------------------+
+| ngược vào cơ thể, mà hệ cơ-mạc phải hấp thụ và hãm phanh.* |
+
 
 Ý nghĩa y tế quan trọng: Nếu cơ thể không vững (K_wrist thấp, core yếu),
 Delta_L_body sẽ tập trung lực dội ngược vào khớp yếu nhất --- thường là
@@ -711,14 +711,14 @@ phổ biến nhất trong tennis.
 
 **3.6. Độ Cứng Vật Liệu & Hệ Số Đàn Hồi**
 
-+-----------------------------------------------------------------+
-| **Độ Cứng Kết Cấu (Stiffness):**                                |
-|                                                                 |
-| **k = E × A / L_deflection**                                    |
-|                                                                 |
-| *E: Young\'s Modulus (Pa) --- bản chất vật liệu. A: diện tích   |
-| mặt cắt ngang. L: chiều dài đoạn biến dạng.*                    |
-+-----------------------------------------------------------------+
+| **Độ Cứng Kết Cấu (Stiffness):** |
+| --- |
+|  |
+| **k = E × A / L_deflection** |
+|  |
+| *E: Young's Modulus (Pa) --- bản chất vật liệu. A: diện tích |
+| mặt cắt ngang. L: chiều dài đoạn biến dạng.* |
+
 
   ----------------- ------------- ------------- ------------- -------------
   **Loại dây vợt**   **E (GPa)**    **Độ cứng   **Hệ số eta** **Đặc tính**
@@ -775,14 +775,14 @@ Cú giao bóng mạnh nhất không bắt đầu từ vai hay cánh tay --- nó 
 từ khoảnh khắc bàn chân tương tác với mặt sân. GRF là \"trạm phát điện\"
 duy nhất. Mọi nguồn lực khác chỉ là bộ khuếch đại.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Lực Đẩy Dọc (Vertical GRF):**                    |
-|                                                                 |
-| **F_v(t) = m_player × g + m_player × a_z(t)**                   |
-|                                                                 |
-| *F_v: lực dọc trục Z. g = 9.8 m/s² (trọng lực). a_z: gia tốc    |
+| **Phương Trình Lực Đẩy Dọc (Vertical GRF):** |
+| --- |
+|  |
+| **F_v(t) = m_player × g + m_player × a_z(t)** |
+|  |
+| *F_v: lực dọc trục Z. g = 9.8 m/s² (trọng lực). a_z: gia tốc |
 | bật nhảy. Ngưỡng Elite: max(F_v) ≈ 2.3-2.5 × BW (Body Weight).* |
-+-----------------------------------------------------------------+
+
 
 Ví dụ thực tế: Một tay vợt 80kg đạt ngưỡng Elite 2.5x BW sẽ đạp xuống
 sân với lực 80 × 9.8 × 2.5 = 1,960N ≈ 200 kg lực trong chưa đầy 0.1
@@ -790,15 +790,15 @@ giây.
 
 **4.2. Vận Tốc Giao Bóng: Phương Trình Cộng Dồn Ba Khối**
 
-+-----------------------------------------------------------------+
-| **Phương Trình Vận Tốc Giao Bóng:**                             |
-|                                                                 |
-| **V_serve = (I_hip × omega_hip + I_shoulder × omega_shoulder +  |
-| DIT) / m_player**                                               |
-|                                                                 |
-| *Chia V_serve thành 3 đóng góp: (1) Hông, (2) Vai, (3) Cánh     |
-| tay+Vợt. Thiếu một khối --- không đạt tốc độ đỉnh.*             |
-+-----------------------------------------------------------------+
+| **Phương Trình Vận Tốc Giao Bóng:** |
+| --- |
+|  |
+| **V_serve = (I_hip × omega_hip + I_shoulder × omega_shoulder + |
+| DIT) / m_player** |
+|  |
+| *Chia V_serve thành 3 đóng góp: (1) Hông, (2) Vai, (3) Cánh |
+| tay+Vợt. Thiếu một khối --- không đạt tốc độ đỉnh.* |
+
 
   ------------- ------------- ------------- ------------- ----------------
     **Khối**     **Cơ quan**   **Đóng góp   **Mô-men quán  **Tốc độ góc**
@@ -821,15 +821,15 @@ phải gánh vác quá tải, chóp xoay vai sẽ bị rách.
 
 **4.3. Giai Đoạn Nạp Lò Xo (Loading Phase)**
 
-+-----------------------------------------------------------------+
-| **Năng Lượng Đàn Hồi Tích Luỹ:**                                |
-|                                                                 |
-| **E_stored = (1/2) × k × (delta_x)\^2**                         |
-|                                                                 |
-| *k: độ cứng hệ mạc cẳng chân và đùi. delta_x: biên độ khuỵu     |
-| gối. Góc tối ưu: 100-120° để tối đa hoá E_stored mà không mất   |
-| tính đàn hồi.*                                                  |
-+-----------------------------------------------------------------+
+| **Năng Lượng Đàn Hồi Tích Luỹ:** |
+| --- |
+|  |
+| **E_stored = (1/2) × k × (delta_x)\^2** |
+|  |
+| *k: độ cứng hệ mạc cẳng chân và đùi. delta_x: biên độ khuỵu |
+| gối. Góc tối ưu: 100-120° để tối đa hoá E_stored mà không mất |
+| tính đàn hồi.* |
+
 
 **4.3.1. Cửa Sổ Thời Gian Nạp Lực (Delta_t_load)**
 
@@ -853,24 +853,24 @@ Xoay trong của xương cánh tay là chuyển động nhanh nhất của cơ t
 từng được ghi nhận trong thể thao. Đây là \"cú vút roi\" cuối cùng tạo
 ra tốc độ đầu vợt khủng khiếp.
 
-+-----------------------------------------------------------------+
-| **Gia Tốc Góc Xoay Trong:**                                     |
-|                                                                 |
-| **alpha_IR = Delta_omega_IR / Delta_t_IR**                      |
-|                                                                 |
-| *Delta_omega_IR ≈ 2,800°/s (tốc độ đỉnh). Delta_t_IR ≈ 0.025s   |
-| (25 mili-giây). alpha_IR ≈ 112,000°/s² --- gia tốc cực đại.*    |
-+-----------------------------------------------------------------+
+| **Gia Tốc Góc Xoay Trong:** |
+| --- |
+|  |
+| **alpha_IR = Delta_omega_IR / Delta_t_IR** |
+|  |
+| *Delta_omega_IR ≈ 2,800°/s (tốc độ đỉnh). Delta_t_IR ≈ 0.025s |
+| (25 mili-giây). alpha_IR ≈ 112,000°/s² --- gia tốc cực đại.* |
 
-+-----------------------------------------------------------------+
-| **Mô-Men Xoắn Lên Khớp Vai:**                                   |
-|                                                                 |
-| **tau_L = I_humerus × alpha_IR**                                |
-|                                                                 |
+
+| **Mô-Men Xoắn Lên Khớp Vai:** |
+| --- |
+|  |
+| **tau_L = I_humerus × alpha_IR** |
+|  |
 | *tau_L: mô-men xoắn tác động lên gân chóp xoay. I_humerus: quán |
 | tính cánh tay. Đây là lý do chóp xoay dễ rách nếu IR không được |
-| thực hiện đúng cách.*                                           |
-+-----------------------------------------------------------------+
+| thực hiện đúng cách.* |
+
 
 **4.5. Bài Tập Thực Hành Vertical Explosion**
 
@@ -937,15 +937,15 @@ sân. Trong khoảng thời gian đó, bạn phải: nhận diện hướng bón
 chuyển đến điểm chặn, chuẩn bị backswing, vung vợt và tiếp bóng. Không
 có chỗ cho bất kỳ chuyển động thừa nào.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Thời Gian Phản Ứng Tổng:**                       |
-|                                                                 |
+| **Phương Trình Thời Gian Phản Ứng Tổng:** |
+| --- |
+|  |
 | **t_total = t_nhan_dien + t_nap_luc_DL + t_tiep_xuc \<= 0.12s** |
-|                                                                 |
-| *t_nhan_dien \~ 0.05s (EMD). t_nap_luc_DL: tối ưu hoá.          |
-| t_tiep_xuc \~ 0.004s (dwell time). Mục tiêu: toàn bộ chu trình  |
-| \< 0.12s.*                                                      |
-+-----------------------------------------------------------------+
+|  |
+| *t_nhan_dien \~ 0.05s (EMD). t_nap_luc_DL: tối ưu hoá. |
+| t_tiep_xuc \~ 0.004s (dwell time). Mục tiêu: toàn bộ chu trình |
+| \< 0.12s.* |
+
 
 **5.2. Cơ Chế Nạp Trực Tiếp (Direct Load vs. Traditional Backswing)**
 
@@ -953,15 +953,15 @@ Trong Backswing truyền thống, cánh tay đưa vợt ra sau khoảng 60-90cm.
 Điều này tốn 150-200ms. Với Direct Load, bạn loại bỏ hoàn toàn hành
 trình này và thay bằng \"xoay vai nén\" ngắn.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Động Lượng Trả Bóng:**                           |
-|                                                                 |
+| **Phương Trình Động Lượng Trả Bóng:** |
+| --- |
+|  |
 | **p_return = k_shoulder × omega_hip + K_wrist × v_incoming_ball |
-| × cos(theta)**                                                  |
-|                                                                 |
-| *k_shoulder: độ cứng xoay vai. omega_hip: vận tốc góc xoay      |
-| hông. theta: góc phản xạ tối ưu.*                               |
-+-----------------------------------------------------------------+
+| × cos(theta)** |
+|  |
+| *k_shoulder: độ cứng xoay vai. omega_hip: vận tốc góc xoay |
+| hông. theta: góc phản xạ tối ưu.* |
+
 
 **5.2.1. Hai Yếu Tố Then Chốt**
 
@@ -975,14 +975,14 @@ trình này và thay bằng \"xoay vai nén\" ngắn.
 
 **5.3. Phân Tích Điểm Chặn Tối Ưu (Interception Geometry)**
 
-+-----------------------------------------------------------------+
-| **Tọa Độ Điểm Chặn Tối Ưu:**                                    |
-|                                                                 |
-| **x_intercept = v_ball × t_flight - v_player × t_sprint**       |
-|                                                                 |
+| **Tọa Độ Điểm Chặn Tối Ưu:** |
+| --- |
+|  |
+| **x_intercept = v_ball × t_flight - v_player × t_sprint** |
+|  |
 | *Mục tiêu: Chạy đến điểm x_intercept sớm hơn thời điểm bóng đến |
-| 50-100ms để có thời gian \"cắm rễ\" và khởi động GRF.*          |
-+-----------------------------------------------------------------+
+| 50-100ms để có thời gian \"cắm rễ\" và khởi động GRF.* |
+
 
 Chiến thuật nâng cao (Tour Level): Dâng cao vào sân (Standing Inside the
 Baseline) giảm x_intercept 30-50cm, giúp có thêm 50-80ms quý báu. Nhưng
@@ -1019,27 +1019,27 @@ Volley không phải là cú đánh --- đó là cú chặn có chủ đích. B�
 tạo ra năng lượng; bạn chuyển hướng năng lượng của đối thủ. Điều này đòi
 hỏi cấu trúc cổ tay cực kỳ vững chắc và hình học tiếp bóng chính xác.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Lực Volley:**                                    |
-|                                                                 |
-| **F_volley_out = F_ball_in + K_wall × delta_x_push**            |
-|                                                                 |
-| *K_wall = độ cứng \"bức tường\" (K_wrist + độ vững vai).        |
-| delta_x_push = khoảng cách đẩy vợt về phía trước (5-15cm cho    |
-| Punch Volley).*                                                 |
-+-----------------------------------------------------------------+
+| **Phương Trình Lực Volley:** |
+| --- |
+|  |
+| **F_volley_out = F_ball_in + K_wall × delta_x_push** |
+|  |
+| *K_wall = độ cứng \"bức tường\" (K_wrist + độ vững vai). |
+| delta_x_push = khoảng cách đẩy vợt về phía trước (5-15cm cho |
+| Punch Volley).* |
+
 
 **6.2. Hình Học Không Gian Và Vùng Kiểm Soát**
 
-+-----------------------------------------------------------------+
-| **Vùng Kiểm Soát Tại Lưới:**                                    |
-|                                                                 |
-| **Coverage_zone = (2 × arm_length) × (lateral_speed ×           |
-| reaction_time)**                                                |
-|                                                                 |
-| *arm_length: sải tay + chiều dài vợt. lateral_speed: tốc độ di  |
-| chuyển ngang. Mục tiêu: Coverage_zone \>= 70% chiều rộng sân.*  |
-+-----------------------------------------------------------------+
+| **Vùng Kiểm Soát Tại Lưới:** |
+| --- |
+|  |
+| **Coverage_zone = (2 × arm_length) × (lateral_speed × |
+| reaction_time)** |
+|  |
+| *arm_length: sải tay + chiều dài vợt. lateral_speed: tốc độ di |
+| chuyển ngang. Mục tiêu: Coverage_zone \>= 70% chiều rộng sân.* |
+
 
 **6.2.1. Kỹ Thuật V-Step**
 
@@ -1054,14 +1054,14 @@ hỏi cấu trúc cổ tay cực kỳ vững chắc và hình học tiếp bóng
 
 **6.3. Góc Phản Xạ & Kỹ Thuật Điều Hướng**
 
-+-----------------------------------------------------------------+
-| **Phương Trình Góc Phản Xạ:**                                   |
-|                                                                 |
-| **theta_out = 180° - (theta_in + theta_face)**                  |
-|                                                                 |
-| *theta_in: góc bóng đến. theta_face: góc mặt vợt so với phương  |
-| thẳng đứng. Điều chỉnh theta_face để kiểm soát hướng bóng đi.*  |
-+-----------------------------------------------------------------+
+| **Phương Trình Góc Phản Xạ:** |
+| --- |
+|  |
+| **theta_out = 180° - (theta_in + theta_face)** |
+|  |
+| *theta_in: góc bóng đến. theta_face: góc mặt vợt so với phương |
+| thẳng đứng. Điều chỉnh theta_face để kiểm soát hướng bóng đi.* |
+
 
 - Punch Volley: K_wrist = 0.95-1.0. Đẩy vợt 10-15cm về phía trước. Dùng
   khi bóng đến nhanh và thấp --- dưới lưới.
@@ -1097,27 +1097,27 @@ Sai lầm lớn nhất của người chơi phong trào: Chạy nhanh bằng cơ
 Sự thật của tay vợt Elite: Di chuyển bằng cách điều khiển khối tâm
 (Center of Mass --- CM), để Trái Đất kéo người đi.
 
-+-----------------------------------------------------------------+
-| **Phương Trình Hiệu Suất Di Chuyển:**                           |
-|                                                                 |
-| **Performance_move = I_CM × DSI_factor × GSM_boost**            |
-|                                                                 |
-| *I_CM: mô-men quán tính quanh khối tâm (giảm = nhanh hơn).      |
-| DSI_factor: chỉ số ổn định. GSM_boost: hệ số trợ lực trọng      |
-| trường.*                                                        |
-+-----------------------------------------------------------------+
+| **Phương Trình Hiệu Suất Di Chuyển:** |
+| --- |
+|  |
+| **Performance_move = I_CM × DSI_factor × GSM_boost** |
+|  |
+| *I_CM: mô-men quán tính quanh khối tâm (giảm = nhanh hơn). |
+| DSI_factor: chỉ số ổn định. GSM_boost: hệ số trợ lực trọng |
+| trường.* |
+
 
 **7.2. Hệ Số Trợ Lực Trọng Trường (Gravity Shift Multiplier --- GSM)**
 
-+-----------------------------------------------------------------+
-| **Phương Trình GSM:**                                           |
-|                                                                 |
-| **S_gravity = 1 + alpha × (h_drop / h_player)**                 |
-|                                                                 |
-| *h_drop: khoảng cách hạ thấp trọng tâm. h_player: chiều cao cơ  |
-| thể. alpha: hệ số chuyển hoá của hệ mạc (phụ thuộc độ đàn hồi   |
-| gân cẳng chân).*                                                |
-+-----------------------------------------------------------------+
+| **Phương Trình GSM:** |
+| --- |
+|  |
+| **S_gravity = 1 + alpha × (h_drop / h_player)** |
+|  |
+| *h_drop: khoảng cách hạ thấp trọng tâm. h_player: chiều cao cơ |
+| thể. alpha: hệ số chuyển hoá của hệ mạc (phụ thuộc độ đàn hồi |
+| gân cẳng chân).* |
+
 
 Khi S_gravity = 1: Không có trợ lực, 100% năng lượng từ cơ bắp chân. Khi
 S_gravity = 1.25: 25% năng lượng \"miễn phí\" từ trọng lực. Tay vợt
@@ -1138,15 +1138,15 @@ hoàn hảo.
 
 **7.3. Chỉ Số Suy Giảm Ổn Định Động (Dynamic Stability Index --- DSI)**
 
-+-----------------------------------------------------------------+
-| **Phương Trình DSI:**                                           |
-|                                                                 |
-| **DSI = exp(-lambda × Delta_theta_slide)**                      |
-|                                                                 |
-| *lambda = mu / 0.5 (mu: hệ số ma sát mặt sân).                  |
-| Delta_theta_slide: góc nghiêng trục cơ thể khi trượt. Mục tiêu  |
-| Elite: DSI \> 0.85.*                                            |
-+-----------------------------------------------------------------+
+| **Phương Trình DSI:** |
+| --- |
+|  |
+| **DSI = exp(-lambda × Delta_theta_slide)** |
+|  |
+| *lambda = mu / 0.5 (mu: hệ số ma sát mặt sân). |
+| Delta_theta_slide: góc nghiêng trục cơ thể khi trượt. Mục tiêu |
+| Elite: DSI \> 0.85.* |
+
 
 Lý do DSI dùng hàm mũ âm (exp(-x)): Không giảm từ từ. Khi góc nghiêng
 tăng thêm 5°, DSI có thể sụt 30-40% --- sụp đổ theo cấp số nhân. Đây là
@@ -1208,14 +1208,14 @@ nắm lợi thế.*
 
 **8.1. Phương Trình Xác Suất Lỗi Không Gian**
 
-+-----------------------------------------------------------------+
-| **Spatial Error Probability:**                                  |
-|                                                                 |
-| **P_error(x, y) = N_error(x, y) / N_total(x, y)**               |
-|                                                                 |
-| *(x,y): tọa độ vị trí nhắm tới. N_error: số lần đánh hỏng.      |
-| N_total: tổng số lần thực hiện cú đánh tại tọa độ đó.*          |
-+-----------------------------------------------------------------+
+| **Spatial Error Probability:** |
+| --- |
+|  |
+| **P_error(x, y) = N_error(x, y) / N_total(x, y)** |
+|  |
+| *(x,y): tọa độ vị trí nhắm tới. N_error: số lần đánh hỏng. |
+| N_total: tổng số lần thực hiện cú đánh tại tọa độ đó.* |
+
 
   ---------------- ---------------- ---------------- ----------------
   **Vùng P_error**  **Phân loại**   **Chiến thuật**    **Khi nào sử
@@ -1236,15 +1236,15 @@ nắm lợi thế.*
 
 **8.2. Phương Trình Quyết Định Chiến Thuật**
 
-+-----------------------------------------------------------------+
-| **Chỉ Số Thông Minh Chiến Thuật:**                              |
-|                                                                 |
-| **Shot_IQ = P_win_rally / P_error(x, y)**                       |
-|                                                                 |
-| *P_win_rally: xác suất thắng điểm từ cú đánh này. Chiến thuật   |
-| tối ưu: Tối đa hoá Shot_IQ, không phải tối đa hoá tốc độ hay    |
-| góc.*                                                           |
-+-----------------------------------------------------------------+
+| **Chỉ Số Thông Minh Chiến Thuật:** |
+| --- |
+|  |
+| **Shot_IQ = P_win_rally / P_error(x, y)** |
+|  |
+| *P_win_rally: xác suất thắng điểm từ cú đánh này. Chiến thuật |
+| tối ưu: Tối đa hoá Shot_IQ, không phải tối đa hoá tốc độ hay |
+| góc.* |
+
 
 Sai lầm điển hình của người có cái tôi cao: Nhớ mãi một cú winner dọc
 dây để đời và liên tục thử lại, quên mất đã đánh hỏng 9 lần trước đó.
@@ -1253,15 +1253,15 @@ trông đẹp.
 
 **8.3. Phân Tích Điểm Yếu Đối Thủ (Opponent Profiling)**
 
-+-----------------------------------------------------------------+
-| **Xác Suất Lỗi Đối Thủ:**                                       |
-|                                                                 |
-| **P_error_opponent(backhand, running) = N_error_opp /           |
-| N_total_opp**                                                   |
-|                                                                 |
-| *Mục tiêu: Tìm tọa độ có P_error_opponent cao nhất và xây dựng  |
-| toàn bộ chiến thuật xung quanh việc đưa bóng vào đó.*           |
-+-----------------------------------------------------------------+
+| **Xác Suất Lỗi Đối Thủ:** |
+| --- |
+|  |
+| **P_error_opponent(backhand, running) = N_error_opp / |
+| N_total_opp** |
+|  |
+| *Mục tiêu: Tìm tọa độ có P_error_opponent cao nhất và xây dựng |
+| toàn bộ chiến thuật xung quanh việc đưa bóng vào đó.* |
+
 
 - Phân tích tư thế tiếp bóng: Đối thủ thuận trái hay phải? Ai có trái
   tay yếu khi chạy (P_error \> 60%)?
@@ -1298,16 +1298,16 @@ cả mùa giải.*
 
 **9.1. Phương Trình Sẵn Sàng Thi Đấu**
 
-+-----------------------------------------------------------------+
-| **Readiness Score:**                                            |
-|                                                                 |
-| **Readiness = (Deep_Sleep + Nutrition) - (Training_Load +       |
-| CNS_Fatigue)**                                                  |
-|                                                                 |
-| *Deep_Sleep: giờ ngủ sâu (REM + N3). Nutrition: chỉ số dinh     |
-| dưỡng nạp vào. Training_Load: tải lượng tập trong 48h qua.      |
-| CNS_Fatigue: mệt mỏi thần kinh trung ương.*                     |
-+-----------------------------------------------------------------+
+| **Readiness Score:** |
+| --- |
+|  |
+| **Readiness = (Deep_Sleep + Nutrition) - (Training_Load + |
+| CNS_Fatigue)** |
+|  |
+| *Deep_Sleep: giờ ngủ sâu (REM + N3). Nutrition: chỉ số dinh |
+| dưỡng nạp vào. Training_Load: tải lượng tập trong 48h qua. |
+| CNS_Fatigue: mệt mỏi thần kinh trung ương.* |
+
 
 **9.2. Biến Thiên Nhịp Tim (HRV) --- Phòng Thí Nghiệm Trong Tay**
 
@@ -1315,15 +1315,15 @@ HRV (Heart Rate Variability) là khoảng cách thời gian giữa các nhịp t
 (đo bằng ms). HRV cao = hệ thần kinh tự chủ linh hoạt = cơ thể sẵn sàng
 cho cường độ cao. HRV thấp = hệ thần kinh đang quá tải = cần hồi phục.
 
-+-----------------------------------------------------------------+
-| **Chỉ Số HRV Hồi Phục:**                                        |
-|                                                                 |
-| **HRV_recovery = SD(RR_intervals) / mean(RR_intervals)**        |
-|                                                                 |
-| *RR_intervals: khoảng thời gian giữa các nhịp tim. SD: độ lệch  |
-| chuẩn. Mục tiêu sáng sớm trước tập: HRV \>= 55ms (thiết bị      |
-| Whoop/Garmin/Polar).*                                           |
-+-----------------------------------------------------------------+
+| **Chỉ Số HRV Hồi Phục:** |
+| --- |
+|  |
+| **HRV_recovery = SD(RR_intervals) / mean(RR_intervals)** |
+|  |
+| *RR_intervals: khoảng thời gian giữa các nhịp tim. SD: độ lệch |
+| chuẩn. Mục tiêu sáng sớm trước tập: HRV \>= 55ms (thiết bị |
+| Whoop/Garmin/Polar).* |
+
 
   ---------------------- ---------------------- ----------------------
      **HRV sáng sớm**        **Trạng thái**       **Hành động khuyến
@@ -1359,14 +1359,14 @@ thiết kế để reset hệ thần kinh giao cảm:
 
 **9.4. Chiến Lược Dinh Dưỡng Theo Pha**
 
-+-----------------------------------------------------------------+
-| **Công Suất Phát Lực:**                                         |
-|                                                                 |
-| **Power_output = Glycogen_muscles × Electrolyte_level**         |
-|                                                                 |
-| *Glycogen cơ bắp là nhiên liệu chính cho cú đánh bùng nổ. Điện  |
-| giải (Na, K, Mg) là dẫn truyền tín hiệu thần kinh.*             |
-+-----------------------------------------------------------------+
+| **Công Suất Phát Lực:** |
+| --- |
+|  |
+| **Power_output = Glycogen_muscles × Electrolyte_level** |
+|  |
+| *Glycogen cơ bắp là nhiên liệu chính cho cú đánh bùng nổ. Điện |
+| giải (Na, K, Mg) là dẫn truyền tín hiệu thần kinh.* |
+
 
   ---------------- ---------------- ---------------- ----------------
    **Giai đoạn**    **Dinh dưỡng**   **Thời điểm**     **Mục tiêu**
@@ -1400,27 +1400,27 @@ nhanh nhất và ứng dụng phản hồi hiệu quả nhất. Vận động vi
 giữa con người và AI) đang định hình lại chuẩn mực trong tennis chuyên
 nghiệp.
 
-+-----------------------------------------------------------------+
-| **Hiệu Suất Vận Động Viên Hybrid:**                             |
-|                                                                 |
-| **Performance_hybrid = Skill_human × AI_support_factor**        |
-|                                                                 |
-| *AI_support_factor \> 1: AI khuếch đại kỹ năng con người. Tay   |
+| **Hiệu Suất Vận Động Viên Hybrid:** |
+| --- |
+|  |
+| **Performance_hybrid = Skill_human × AI_support_factor** |
+|  |
+| *AI_support_factor \> 1: AI khuếch đại kỹ năng con người. Tay |
 | vợt kỹ thuật trung bình với AI tốt có thể vượt tay vợt kỹ thuật |
-| cao chỉ dùng bản năng.*                                         |
-+-----------------------------------------------------------------+
+| cao chỉ dùng bản năng.* |
+
 
 **10.2. Thu Thập Dữ Liệu Đa Chiều**
 
-+-----------------------------------------------------------------+
-| **Dòng Dữ Liệu Tổng Hợp:**                                      |
-|                                                                 |
-| **Data_total = Video(CV) + Electrical(sEMG) + Motion(IMU) +     |
-| Biometric(HRV, HR)**                                            |
-|                                                                 |
-| *CV: Computer Vision. sEMG: surface Electromyography. IMU:      |
-| Inertial Measurement Unit. HRV: Heart Rate Variability.*        |
-+-----------------------------------------------------------------+
+| **Dòng Dữ Liệu Tổng Hợp:** |
+| --- |
+|  |
+| **Data_total = Video(CV) + Electrical(sEMG) + Motion(IMU) + |
+| Biometric(HRV, HR)** |
+|  |
+| *CV: Computer Vision. sEMG: surface Electromyography. IMU: |
+| Inertial Measurement Unit. HRV: Heart Rate Variability.* |
+
 
 - Computer Vision (Camera điện thoại): Phân tích góc xoay, X-Factor,
   điểm chạm bóng. Độ chính xác 85-90% so với lab chuyên nghiệp.
@@ -1485,25 +1485,25 @@ tạo ra sự khác biệt giữa Elite và người chơi phong trào.*
 
 **11.1. Cơ Học Đòn Bẩy (Leverage Mechanics)**
 
-+-----------------------------------------------------------------+
-| **Chiều Dài Cánh Tay Đòn (Lever Arm):**                         |
-|                                                                 |
-| **L_lever = sqrt((x2 - x1)\^2 + (y2 - y1)\^2)**                 |
-|                                                                 |
-| *Khoảng cách Euclidean từ lòng bàn tay đến tâm mặt vợt. Cánh    |
-| tay đòn dài hơn = tốc độ đầu vợt nhanh hơn, nhưng mô-men xoắn   |
-| dội ngược vào cổ tay cũng lớn hơn.*                             |
-+-----------------------------------------------------------------+
+| **Chiều Dài Cánh Tay Đòn (Lever Arm):** |
+| --- |
+|  |
+| **L_lever = sqrt((x2 - x1)\^2 + (y2 - y1)\^2)** |
+|  |
+| *Khoảng cách Euclidean từ lòng bàn tay đến tâm mặt vợt. Cánh |
+| tay đòn dài hơn = tốc độ đầu vợt nhanh hơn, nhưng mô-men xoắn |
+| dội ngược vào cổ tay cũng lớn hơn.* |
 
-+-----------------------------------------------------------------+
-| **Mô-Men Xoắn (Torque Equation):**                              |
-|                                                                 |
-| **tau = F × L_lever**                                           |
-|                                                                 |
-| *tau: lực vặn xoắn tại khớp cổ tay/khuỷu tay/vai. F: lực va     |
-| chạm của bóng. L_lever: khoảng cách từ khớp đến điểm chạm       |
-| bóng.*                                                          |
-+-----------------------------------------------------------------+
+
+| **Mô-Men Xoắn (Torque Equation):** |
+| --- |
+|  |
+| **tau = F × L_lever** |
+|  |
+| *tau: lực vặn xoắn tại khớp cổ tay/khuỷu tay/vai. F: lực va |
+| chạm của bóng. L_lever: khoảng cách từ khớp đến điểm chạm |
+| bóng.* |
+
 
 Ứng dụng cực kỳ thực tiễn: Khi bóng chạm vào đỉnh vợt (tip) thay vì điểm
 ngọt (sweet spot), L_lever tăng thêm vài cm. Do phép nhân, tau tăng lên
@@ -1524,15 +1524,15 @@ xa hơn so với tâm vợt, làm tăng L_lever thêm 1-2cm. Nhờ công thức 
 
 **11.3. Bóng Nặng (Heavy Ball) --- Phương Trình Của Uy Lực**
 
-+-----------------------------------------------------------------+
-| **Chỉ Số Bóng Nặng (Aggressiveness):**                          |
-|                                                                 |
-| **A_heavy = v_ground × omega_torso × M_ball_spin**              |
-|                                                                 |
-| *v_ground: tốc độ di chuyển đến bóng. omega_torso: tốc độ xoay  |
-| thân. M_ball_spin: động lượng góc của xoáy (RPM × khối lượng    |
-| bóng).*                                                         |
-+-----------------------------------------------------------------+
+| **Chỉ Số Bóng Nặng (Aggressiveness):** |
+| --- |
+|  |
+| **A_heavy = v_ground × omega_torso × M_ball_spin** |
+|  |
+| *v_ground: tốc độ di chuyển đến bóng. omega_torso: tốc độ xoay |
+| thân. M_ball_spin: động lượng góc của xoáy (RPM × khối lượng |
+| bóng).* |
+
 
 Quan trọng: Đây là phép NHÂN không phải phép cộng. Nếu v_ground = 0 (đến
 bóng trễ, phải với bóng), thì A_heavy = 0 bất kể xoay người mạnh hay
@@ -1546,16 +1546,16 @@ cú đánh --- không phải bắp tay.
 
 **11.4. Độ Cứng Đàn Hồi Hệ Mạc (Fascial Spring Constant)**
 
-+-----------------------------------------------------------------+
-| **Cơ Chế Kéo Dãn - Co Rút (Stretch-Shortening Cycle):**         |
-|                                                                 |
-| **E_elastic = (1/2) × k_fascia × (delta_x_coil)\^2**            |
-|                                                                 |
-| *k_fascia: độ cứng mạc (tăng dần theo tuổi và mức độ huấn       |
-| luyện). delta_x_coil: biên độ vặn xoắn cơ thể. Năng lượng đàn   |
-| hồi tích luỹ được giải phóng khi duỗi ra --- không tốn năng     |
-| lượng cơ bắp chủ động.*                                         |
-+-----------------------------------------------------------------+
+| **Cơ Chế Kéo Dãn - Co Rút (Stretch-Shortening Cycle):** |
+| --- |
+|  |
+| **E_elastic = (1/2) × k_fascia × (delta_x_coil)\^2** |
+|  |
+| *k_fascia: độ cứng mạc (tăng dần theo tuổi và mức độ huấn |
+| luyện). delta_x_coil: biên độ vặn xoắn cơ thể. Năng lượng đàn |
+| hồi tích luỹ được giải phóng khi duỗi ra --- không tốn năng |
+| lượng cơ bắp chủ động.* |
+
 
 **11.4.1. Huấn Luyện Hệ Mạc Để Tăng k_fascia**
 
@@ -1609,27 +1609,27 @@ công nghệ không còn tồn tại.*
 
 **12.2. Phương Trình Tổng Thể Hiệu Suất 2026**
 
-+-----------------------------------------------------------------+
-| **Master Performance Equation:**                                |
-|                                                                 |
-| **V_serve = (I_hip × omega_hip + I_shoulder × omega_shoulder +  |
-| DIT) / m_player**                                               |
-|                                                                 |
-| *Đây là phương trình tổng hợp kết nối GRF → Hông → Vai → Vợt →  |
-| Bóng. Làm chủ phương trình này = làm chủ cú giao bóng hoàn      |
-| hảo.*                                                           |
-+-----------------------------------------------------------------+
+| **Master Performance Equation:** |
+| --- |
+|  |
+| **V_serve = (I_hip × omega_hip + I_shoulder × omega_shoulder + |
+| DIT) / m_player** |
+|  |
+| *Đây là phương trình tổng hợp kết nối GRF → Hông → Vai → Vợt → |
+| Bóng. Làm chủ phương trình này = làm chủ cú giao bóng hoàn |
+| hảo.* |
 
-+-----------------------------------------------------------------+
-| **Phương Trình Kết Quả Trận Đấu:**                              |
-|                                                                 |
-| **Result = (DET/NKF Skills) × (AI_data_quality ×                |
-| Adaptability)**                                                 |
-|                                                                 |
-| *Kỹ năng cơ bản nhân với chất lượng dữ liệu AI và khả năng      |
-| thích nghi real-time. Cả hai yếu tố đều cần thiết --- thiếu     |
-| một, phương trình sụp đổ.*                                      |
-+-----------------------------------------------------------------+
+
+| **Phương Trình Kết Quả Trận Đấu:** |
+| --- |
+|  |
+| **Result = (DET/NKF Skills) × (AI_data_quality × |
+| Adaptability)** |
+|  |
+| *Kỹ năng cơ bản nhân với chất lượng dữ liệu AI và khả năng |
+| thích nghi real-time. Cả hai yếu tố đều cần thiết --- thiếu |
+| một, phương trình sụp đổ.* |
+
 
 **12.3. Lộ Trình Ứng Dụng Cho Henry Pham --- Tennis Future Lab**
 
@@ -1761,7 +1761,7 @@ công nghệ không còn tồn tại.*
          k             Độ cứng            N/m           k_fascia:
                      (stiffness)                        1000-3000
 
-    E (Young\'s      Suất đàn hồi         GPa         2.5 (gut) - 12
+    E (Young's      Suất đàn hồi         GPa         2.5 (gut) - 12
       Modulus)          Young                             (poly)
 
         sEMG        Điện cơ đồ bề          mV         Phụ thuộc nhóm

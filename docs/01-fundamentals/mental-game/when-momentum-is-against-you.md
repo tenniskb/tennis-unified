@@ -5,15 +5,14 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-against-you/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-against-you/media/image1.webp)
 
 **How do you react when everything is narrowly failing?**
 
-We\'ve looked at the concept of momentum and what it means when momentum
-is with you, totally with you and when it\'s neutral. We\'ve also looked
+We've looked at the concept of momentum and what it means when momentum
+is with you, totally with you and when it's neutral. We've also looked
 at the worst case scenario, when momentum is totally against you. Now
-let\'s look at the last case, when momentum in a match is against you,
+let's look at the last case, when momentum in a match is against you,
 although not totally. (For a look at the other articles in this series,
 [Click
 Here](http://www.tennisplayer.net/public/mentalgame/mentalgame_public.html).)
@@ -31,11 +30,10 @@ At such moments it is easy to feel that things are slipping away and to
 become frustrated. Your body language may begin to tell the story of
 your feelings and may give even more encouragement to your opponent. How
 best do you deal with this situation? Without doubt, you could be on a
-slippery slope if you\'re not careful.
+slippery slope if you're not careful.
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-against-you/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-against-you/media/image2.webp)
 
 **Fighting spirit is the starting point for reversing momentum.**
 
@@ -44,7 +42,7 @@ height="2.2291666666666665in"}
 It is when things are against you that you need to show fighting spirit.
 Fighting spirit is the place to start to reverse the momentum flow and
 without it that will be impossible. Who or what caused the problems
-doesn\'t matter. It might be you, your opponent or the umpire. It\'s not
+doesn't matter. It might be you, your opponent or the umpire. It's not
 a matter of why or how. The simple fact is that you have problems\--and
 you need to have the right spirit to solve them.
 
@@ -62,25 +60,22 @@ against her, net cords went against her, and on top of everything else,
 she had match points in the second set but could not convert. She was
 now a break down in the third set.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person wearing a pink tank top Description automatically generated with medium                                                                                            | ![A person wearing a white hat Description automatically generated with medium                                                                                               | ![A person wearing a red shirt Description automatically generated with low                                                                                                   |
-| confidence](media_when-momentum-is-against-you/media/image3.jpg){width="1.5816852580927383in" | confidence](media_when-momentum-is-against-you/media/image4.jpg){width="1.608695319335083in" | confidence](media_when-momentum-is-against-you/media/image5.jpg){width="1.6434776902887138in" |
-| height="2.1405489938757656in"}                                                                                                                                                | height="2.1205555555555557in"}                                                                                                                                               | height="2.1250043744531935in"}                                                                                                                                                |
-+:=============================================================================================================================================================================:+:============================================================================================================================================================================:+:=============================================================================================================================================================================:+
-| **When a series of things go wrong it tests the character of even the best players**.                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person wearing a pink tank top Description automatically generated with medium | ![A person wearing a white hat Description automatically generated with medium | ![A person wearing a red shirt Description automatically generated with low |
+| --- | --- | --- |
+| confidence](media_when-momentum-is-against-you/media/image3.jpg) |  |  |
+| **When a series of things go wrong it tests the character of even the best players**. |  |  |
+
 
 So many things had gone wrong that it occurred to me that if I sat down
 and tried to design a tougher test of tennis character, I probably
-couldn\'t. At the next changeover I told her this, so if she wanted a
+couldn't. At the next changeover I told her this, so if she wanted a
 reputation of being mentally tough then she had to pass this test.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-against-you/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-against-you/media/image6.webp)
 
-**It\'s vital to take your time between points when you are trying to
+**It's vital to take your time between points when you are trying to
 turn momentum.**
 
 This view of things helped her see the situation as a challenge. Her on
@@ -91,11 +86,11 @@ it. The difference was when she changed her viewpoint and decided to see
 everything that went wrong as an opportunity to prove herself.
 Eventually she came through to win the match.
 
-**Don\'t Rush**
+**Don't Rush**
 
 **[[When momentum is against you, it takes time to turn it around, so
 the longer you are on court the better. It is vital you take your time
-between points and don\'t allow yourself to be
+between points and don't allow yourself to be
 rushed.]{.underline}]{.mark}**
 
 This is sometimes not so easy to do. The natural reaction to having
@@ -104,12 +99,11 @@ rushing when you have things go against you and are in turmoil will lead
 to more errors. The same shots you make when things are going your way,
 are the ones you always miss when things go against you. Resist the
 temptation then to hit your way out of the match. If you try this,
-you\'ll succeed - by hitting your way directly to a loss.
+you'll succeed - by hitting your way directly to a loss.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-against-you/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-against-you/media/image7.webp)
 
 **Keep your body language positive no matter how you may actually feel
 at a given moment in a given match.**
@@ -120,8 +114,8 @@ at a given moment in a given match.**
 bad news, for example that their supplies are running out, that their
 fellow soldiers have surrendered, that they should give up now before
 they are killed. Tennis is not war, but certainly you should not let
-your opponent know when you\'re not feeling as good as you would like.
-Don\'t drop your own leaflets or broadcast how you
+your opponent know when you're not feeling as good as you would like.
+Don't drop your own leaflets or broadcast how you
 feel.]{.underline}]{.mark}**
 
 **Switch on the Radar**
@@ -144,7 +138,7 @@ opportunities to turn the momentum her way. First, she hit a lucky net
 cord winner when she was down game point, then a brilliant passing shot
 from an almost impossible position.
 
-She didn\'t seem to understand the significance, but nonetheless she had
+She didn't seem to understand the significance, but nonetheless she had
 gotten back to 2-4. Then another golden opportunity presented itself.
 The match was being played on clay, and out of the blue a court
 maintenance man appeared to water the court according to his regular
@@ -159,8 +153,7 @@ lost the opportunity to generate a momentum swing in her favour.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-against-you/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-against-you/media/image8.webp)
 
 **Many turning points occur in the mind of the opponent.**
 
@@ -189,8 +182,7 @@ turning points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-against-you/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-against-you/media/image9.webp)
 
 **Let the turning points give you an energy boost.**
 
@@ -207,7 +199,7 @@ point starts, they may call out the score with more confidence in their
 voice and may shout \"Come on\" to themselves.
 
 Players who have had momentum turn suddenly against them before, may
-start to worry when they see your reaction. Again, don\'t forget that
+start to worry when they see your reaction. Again, don't forget that
 the bigger the swing in mental energy at times like this, the bigger the
 swing in momentum.
 
@@ -217,8 +209,7 @@ by using your imagination.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person hitting a ball with his racket Description automatically
-   generated](media_when-momentum-is-against-you/media/image10.jpg){width="2.443477690288714in"
-                                                                          height="1.8961395450568679in"}
+   generated](media_when-momentum-is-against-you/media/image10.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  **General attitude can help you in recognizing and exploiting turning points.**
 
@@ -265,8 +256,7 @@ a story coming together at the end.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-against-you/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-against-you/media/image11.webp)
 
 **Raising your intensity can help you win key points.**
 
@@ -291,7 +281,7 @@ Sometimes, momentum can be going against you when you are in the lead.
 Again your attitude to events can make a big difference in how things
 end up.
 
-Whatever the situation, it\'s rarely as bad as it seems when you take
+Whatever the situation, it's rarely as bad as it seems when you take
 the emotion out of it. Imagine you are 6-4, 5-1 and your opponent comes
 back to 5-4. With only two minutes at the changeover you may not get
 your mental approach right to renew your energy.
@@ -299,7 +289,7 @@ your mental approach right to renew your energy.
 But imagine you were able to travel back in time to before the match
 began and someone offered you 6-4, 5-4 as a scoreline to start the match
 with, instead of 0-0 and gave you two hours to get ready. You would
-surely arrive ready to play and psyched up. Well we haven\'t discovered
+surely arrive ready to play and psyched up. Well we haven't discovered
 time travel yet, but you can get the same attitude simply by learning to
 renew your efforts quicker.
 
@@ -313,8 +303,7 @@ tactics. Winning the best rallies. Spotting patterns of play.
 
 ![A picture containing text, tennis, sport, athletic game Description
 automatically
-generated](media_when-momentum-is-against-you/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-against-you/media/image12.webp)
 
 **How many balls can you opponent really rally?**
 
@@ -328,7 +317,7 @@ Having been flown over by the club and being paid by the club for
 playing as their number one player, I was keen to make a good
 impression.
 
-On the first day I asked about my opponent\'s style and was told in a
+On the first day I asked about my opponent's style and was told in a
 thick German accent: \"He can rally for one hundred shots, is very fit
 and never misses a passing shot.\". Being more used to grass than clay,
 this was not what I wanted to hear. I decided to go for quick winners as
@@ -363,11 +352,10 @@ continue but to get more first serves in and not to miss the smashes
 after working for the opening.
 
 ![A person holding a tennis racket Description automatically
-generated](media_when-momentum-is-against-you/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-against-you/media/image13.webp)
 
 **Sometimes you just need to keep doing what you do and let it have
-it\'s effect.**
+it's effect.**
 
 If you are playing good consistent tennis, but have lost a close first
 set, you may not need to change either. Consistent baseline play that
@@ -407,13 +395,12 @@ this could create a turning point in your favour.
 But one last point. Never attempt to create turning points by bending
 the rules. The enjoyment of winning is very closely linked to the
 enjoyment of overcoming the obstacles during the journey towards
-winning. Don\'t let that journey be tainted by use of gamesmanship. Keep
+winning. Don't let that journey be tainted by use of gamesmanship. Keep
 your tennis on the tennis battlefield.
 
 ![A person with his eyes closed Description automatically generated with
 low
-confidence](media_when-momentum-is-against-you/media/image14.jpeg){width="1.1215277777777777in"
-height="1.5215277777777778in"}
+confidence](media_when-momentum-is-against-you/media/image14.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -426,8 +413,7 @@ study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
 ![Map Description automatically generated with low
-confidence](media_when-momentum-is-against-you/media/image15.jpeg){width="1.04375in"
-height="1.4520833333333334in"}
+confidence](media_when-momentum-is-against-you/media/image15.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

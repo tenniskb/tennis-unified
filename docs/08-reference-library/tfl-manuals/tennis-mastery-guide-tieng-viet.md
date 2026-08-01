@@ -148,7 +148,7 @@ gian phan ung cua ban se cham tren moi qua bong.
   -----------------------------------------------------------------------
 
 Split step la buoc nhay nho thuc hien dung luc doi thu chuan bi chung
-bong. No tao ra \'unweight\' --- mot trang thai nhe hoac cho phep di
+bong. No tao ra 'unweight' --- mot trang thai nhe hoac cho phep di
 chuyen bung no theo bat ky huong nao.
 
 - Nhay nho --- chi roi mat dat nhe
@@ -189,7 +189,7 @@ nghia la o dung cho vao dung luc voi su can bang.
 **5. Unit Turn --- Xoay Toan Than**
 
 Unit turn co nghia la xoay vai + hong + chan dong thoi ngay khi doc
-huong bong. Dieu nay tao ra \'coil\' (xoay vao) de \'uncoil\' (bung ra)
+huong bong. Dieu nay tao ra 'coil' (xoay vao) de 'uncoil' (bung ra)
 khi swing.
 
 - Forehand: vai phai xoay ra sau, hong theo
@@ -356,7 +356,7 @@ nhu lo xo chuan bi bung ra.
 **Buoc 5: Chuoi Kinetic Chain**
 
 Chan day manh len tren. Hong xoay truoc, vai xoay theo, khuyu tay len
-cao, co tay snap xuong khi contact. Vot \'drop\' xuong sau lung truoc
+cao, co tay snap xuong khi contact. Vot 'drop' xuong sau lung truoc
 khi bung len --- rat quan trong.
 
   ---------- ------------------------------------------------------------
@@ -824,7 +824,7 @@ nhung qua bong noi cao tai vi tri luoi.
 
 - Timing cuc ky quan trong --- doc quy dao bong rat som
 
-- Backswing ngan gon du goi la \'swing\' --- khong phai vong day du nhu
+- Backswing ngan gon du goi la 'swing' --- khong phai vong day du nhu
   groundstroke
 
 - Swing manh xuong xuyen qua bong
@@ -978,9 +978,9 @@ nghi ve no.
 
 **2. Doc Tran Dau, Khong Chi Thuc Hien Cu Danh**
 
-Thay vi nghi \'Toi can lam unit turn bay gio,\' nguoi choi dang nghi
-\'Anh ay luon danh vao backhand toi voi serve 2 --- toi se buoc vao va
-tan cong.\' Co the tu xu ly ky thuat mot cach tu dong.
+Thay vi nghi 'Toi can lam unit turn bay gio,' nguoi choi dang nghi
+'Anh ay luon danh vao backhand toi voi serve 2 --- toi se buoc vao va
+tan cong.' Co the tu xu ly ky thuat mot cach tu dong.
 
 **3. Tao Ra Nhung Cu Danh Ngoai Sach Giao Khoa**
 
@@ -996,7 +996,7 @@ tap trung co y thuc di hoan toan vao chien luoc va quan ly tinh than.
 **Vi Du Tu Pro Tennis**
 
   -----------------------------------------------------------------------
-  **Cau Thu**      **Dieu Gi Khien Ho Da \'Pha Vo Gioi Han\'**
+  **Cau Thu**      **Dieu Gi Khien Ho Da 'Pha Vo Gioi Han'**
   ---------------- ------------------------------------------------------
   Roger Federer    Backswing khong giong bat ky pro nao khac. Grip thay
                    doi lien tuc. Danh tu moi vi tri moi goc do. Tao ra
@@ -1004,7 +1004,7 @@ tap trung co y thuc di hoan toan vao chien luoc va quan ly tinh than.
                    kinetic chain va can bang cua anh ta la hoan hao lich
                    su ben duoi.
 
-  Rafael Nadal     Forehand topspin trong \'sai\' theo tieu chuan sach
+  Rafael Nadal     Forehand topspin trong 'sai' theo tieu chuan sach
                    giao khoa. Xoay co the khong chinh thong. Dung xa sau
                    baseline hon bat ky ai. 22 Grand Slam chung minh no
                    khong sai.
@@ -1020,8 +1020,8 @@ tap trung co y thuc di hoan toan vao chien luoc va quan ly tinh than.
 
 **1. Luyen Nen Tang Den Khi Tu Dong**
 
-Muc tieu khong phai \'luyen den khi lam dung.\' Muc tieu la \'luyen den
-khi khong the lam sai.\' Dieu nay doi hoi hang ngan lan lap lai dung ---
+Muc tieu khong phai 'luyen den khi lam dung.' Muc tieu la 'luyen den
+khi khong the lam sai.' Dieu nay doi hoi hang ngan lan lap lai dung ---
 shadow swing, bai tap chuyen nganh, luyen rally nhat quan. Khong co
 duong tat.
 
@@ -1081,17 +1081,17 @@ toan khoi suy nghi co y thuc.
 
 **Nghich Ly Trung Tam Cua Tennis**
 
-+:---------------------------------------------------------------------:+
-| *\"De pha vo gioi han ky thuat co ban,*                               |
-|                                                                       |
-| *truoc tien ban phai bien ky thuat co ban*                            |
-|                                                                       |
-| *thanh mot phan hoan toan cua chinh minh.\"*                          |
-|                                                                       |
-| **Nen tang truoc --- luon luon.**                                     |
-|                                                                       |
-| **Pha vo gioi han sau --- khi ban san sang.**                         |
-+-----------------------------------------------------------------------+
+| *\"De pha vo gioi han ky thuat co ban,* |
+| --- |
+|  |
+| *truoc tien ban phai bien ky thuat co ban* |
+|  |
+| *thanh mot phan hoan toan cua chinh minh.\"* |
+|  |
+| **Nen tang truoc --- luon luon.** |
+|  |
+| **Pha vo gioi han sau --- khi ban san sang.** |
+
 
 🎾
 

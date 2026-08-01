@@ -9,8 +9,7 @@ your level of play.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person playing tennis Description automatically generated with medium
-   confidence](media_optimize-your-technique-part-1/media/image1.webp){width="2.6354166666666665in"
-                                                                             height="2.3020833333333335in"}
+   confidence](media_optimize-your-technique-part-1/media/image1.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        [[Focusing on the true fundamentals will allow your natural hitting style to emerge.]{.underline}]{.mark}
 
@@ -64,13 +63,11 @@ type of backswing she is going to take\--loop or straight back\--is
 engaging in an act of futility. Great players hit with many types of
 backswings successfully.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                          |
-| confidence](media_optimize-your-technique-part-1/media/image2.jpg){width="2.0833333333333335in" | confidence](media_optimize-your-technique-part-1/media/image3.jpg){width="2.0833333333333335in" | confidence](media_optimize-your-technique-part-1/media/image4.jpg){width="2.0833333333333335in" |
-| height="2.9375in"}                                                                                                                                                                 | height="2.9375in"}                                                                                                                                                                 | height="2.9375in"}                                                                                                                                                                 |
-+:==================================================================================================================================================================================:+:==================================================================================================================================================================================:+:==================================================================================================================================================================================:+
-| **Pete Sampras, Andy Roddick and Venus Williams demonstrate forehand fundamentals.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_optimize-your-technique-part-1/media/image2.jpg) |  |  |
+| **Pete Sampras, Andy Roddick and Venus Williams demonstrate forehand fundamentals.** |  |  |
+
 
 However, no one with a great two-handed backhand hits with consistently
 poor body position in relation to the ball. The type of backswing is
@@ -129,8 +126,7 @@ session.]{.underline}]{.mark}***
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-1/media/image5.webp){width="2.59375in"
-                                                                       height="2.3541666666666665in"}
+   generated](media_optimize-your-technique-part-1/media/image5.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                         **The 5 characteristics of great technique: simple, efficient, effective, flexible, and compatible with your personality.**
 
@@ -199,13 +195,11 @@ One of the single biggest causes of errors in tennis is poor balance.
 Your balance is interconnected with your center of gravity. Think of
 balance as your ability to control your equilibrium or stability.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person holding a tennis racket Description automatically                                                                                                                      | ![A person playing tennis Description automatically generated with medium                                                                                                          |
-| confidence](media_optimize-your-technique-part-1/media/image6.jpg){width="2.0833333333333335in" | generated](media_optimize-your-technique-part-1/media/image7.jpg){width="2.0833333333333335in" | confidence](media_optimize-your-technique-part-1/media/image8.jpg){width="2.0833333333333335in" |
-| height="2.6145833333333335in"}                                                                                                                                                     | height="2.6145833333333335in"}                                                                                                                                                    | height="2.6145833333333335in"}                                                                                                                                                     |
-+:==================================================================================================================================================================================:+:=================================================================================================================================================================================:+:==================================================================================================================================================================================:+
-| **Lleyton Hewitt displays a low center of gravity distributed over his base as he lands from his split step. He maintains good upper body posture as he approaches the ball. Note his beautiful balance and wide base of support, with knees bent and his head pointing toward the hitting zone.**                                                                                                                                                                                                                                                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_optimize-your-technique-part-1/media/image6.jpg) |  |  |
+| **Lleyton Hewitt displays a low center of gravity distributed over his base as he lands from his split step. He maintains good upper body posture as he approaches the ball. Note his beautiful balance and wide base of support, with knees bent and his head pointing toward the hitting zone.** |  |  |
+
 
 **[[There are two types of balance. Static balance is the ability to
 control the body while the body is not moving (for example, when you are
@@ -258,13 +252,11 @@ transferred up from your legs to your hips, trunk, shoulders, arm,
 wrist, and finally to your racquet. This is how the pros generate so
 much power.]{.mark}]{.underline}**
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                           |
-| confidence](media_optimize-your-technique-part-1/media/image9.jpg){width="2.6041666666666665in" | confidence](media_optimize-your-technique-part-1/media/image10.jpg){width="2.6041666666666665in" |
-| height="3.4375in"}                                                                                                                                                                 | height="3.4375in"}                                                                                                                                                                  |
-+:==================================================================================================================================================================================:+:===================================================================================================================================================================================:+
-| **James Blake demonstrates kinetic chain by loading the large muscles groups in the preparation phase, then unleashing this energy from the ground up.**                                                                                                                                                                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_optimize-your-technique-part-1/media/image9.jpg) |  |
+| **James Blake demonstrates kinetic chain by loading the large muscles groups in the preparation phase, then unleashing this energy from the ground up.** |  |
+
 
 It is important that you at least understand the concept that the most
 powerful tennis strokes (serves and ground strokes) begin with a leg
@@ -332,8 +324,7 @@ is a common grip among top professionals.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A person holding a tennis racket Description automatically
-   generated](media_optimize-your-technique-part-1/media/image11.webp){width="2.6979166666666665in"
-                                                                             height="2.4791666666666665in"}
+   generated](media_optimize-your-technique-part-1/media/image11.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                The semi-western grip, once considered incredibly extreme, but now the most common grip on the pro tour for the forehand.
 
@@ -388,11 +379,10 @@ Stay tuned.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have
-  confidence](media_optimize-your-technique-part-1/media/image12.jpeg){width="1.6347222222222222in"   in common and shows you how to develop them for yourself. Reading Nick\'s critically
-  height="2.3305555555555557in"}                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
+  confidence](media_optimize-your-technique-part-1/media/image12.jpeg)                                                                                                                                                         acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
                                                                                                                                                                                          the elements you can control. Play to your personal strengths. And much more. Drawing
                                                                                                                                                                                          on his experience as a player, educator and coach Nick describes the developmental
-                                                                                                                                                                                         processes followed by the world\'s top players. In clear concise language, he outlines
+                                                                                                                                                                                         processes followed by the world's top players. In clear concise language, he outlines
                                                                                                                                                                                          the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                          full potential and enhance your love of the game.\
                                                                                                                                                                                          \
@@ -403,30 +393,29 @@ Stay tuned.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person wearing a white shirt Description automatically generated with medium                                                                                                     | Nick Saviano is one of the world\'s leading       |
-| confidence](media_optimize-your-technique-part-1/media/image13.jpeg){width="1.6347222222222222in" | developmental coaches and the founder and         |
-| height="2.078472222222222in"}                                                                                                                                                        | director of Saviano High Performance Tennis       |
-|                                                                                                                                                                                      | Academy, located in Davie, Florida. A former      |
-|                                                                                                                                                                                      | elite American junior player and a two time       |
-|                                                                                                                                                                                      | All-American at Stanford, Nick played on the      |
-|                                                                                                                                                                                      | professional tour for a decade, was ranked in the |
-|                                                                                                                                                                                      | top 50 in singles, and had wins over numerous     |
-|                                                                                                                                                                                      | world top 10 players. He is also the former       |
-|                                                                                                                                                                                      | director of men\'s coaching and coaching          |
-|                                                                                                                                                                                      | education for the USTA. Nick has headlined as a   |
-|                                                                                                                                                                                      | presenter at coaching conventions throughout the  |
-|                                                                                                                                                                                      | world and his critically acclaimed book \"Maximum |
-|                                                                                                                                                                                      | Tennis: 10 Keys to Unleashing Your On-Court       |
-|                                                                                                                                                                                      | Potential\" is a best selling instructional       |
-|                                                                                                                                                                                      | title.                                            |
-|                                                                                                                                                                                      |                                                   |
-|                                                                                                                                                                                      | [Click Here](http://www.savianotennis.com/) for   |
-|                                                                                                                                                                                      | more information on training with Nick Saviano.   |
-+======================================================================================================================================================================================+===================================================+
+| ![A person wearing a white shirt Description automatically generated with medium | Nick Saviano is one of the world's leading |
+| --- | --- |
+| confidence](media_optimize-your-technique-part-1/media/image13.jpeg) | director of Saviano High Performance Tennis |
+|  | Academy, located in Davie, Florida. A former |
+|  | elite American junior player and a two time |
+|  | All-American at Stanford, Nick played on the |
+|  | professional tour for a decade, was ranked in the |
+|  | top 50 in singles, and had wins over numerous |
+|  | world top 10 players. He is also the former |
+|  | director of men's coaching and coaching |
+|  | education for the USTA. Nick has headlined as a |
+|  | presenter at coaching conventions throughout the |
+|  | world and his critically acclaimed book \"Maximum |
+|  | Tennis: 10 Keys to Unleashing Your On-Court |
+|  | Potential\" is a best selling instructional |
+|  | title. |
+|  |  |
+|  | [Click Here](http://www.savianotennis.com/) for |
+|  | more information on training with Nick Saviano. |
 
-+------------------------------------------------------------------------+
-|   -------------------------------------------------------------------- |
-|                                                                        |
-|   -------------------------------------------------------------------- |
-+========================================================================+
+
+| -------------------------------------------------------------------- |
+| --- |
+|  |
+| -------------------------------------------------------------------- |
+

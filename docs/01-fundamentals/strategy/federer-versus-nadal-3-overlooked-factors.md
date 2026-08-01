@@ -6,8 +6,7 @@
 
 ![A picture containing text, tennis, person, player Description
 automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image1.webp)
 
 **What are the overlooked factors in the legendary 2008 Wimbledon
 final?**
@@ -38,8 +37,7 @@ player hit after a serve or a return, and where on the court each player
 is at the time each ball is struck.  
 
 ![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image2.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image2.webp)
 
 **Who won how many points when a forehand followed a first serve?**
 
@@ -72,8 +70,7 @@ total number of points to Roger when both players backed up the first
 serve with a forehand.
 
 ![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image3.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image3.webp)
 
 **A dramatic difference when a backhand followed the serve.**
 
@@ -108,8 +105,7 @@ you and/or your players are aware of this, and what advantage it may
 give you.
 
 ![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image4.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image4.webp)
 
 **Was it surprising where Nadal hit most of his winners?**
 
@@ -138,8 +134,7 @@ the Wimbledon final from deeper than 5 feet behind the
 baseline.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp)
 
 **Nadal's ability to score with his deep backhand was a factor.**
 
@@ -171,8 +166,7 @@ factors in close matches.]{.mark}]{.underline}**
 **[\]{.underline}**
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
-generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_federer-versus-nadal-3-overlooked-factors/media/image6.webp)
 
 **Given the opportunity, Nadal very rarely missed a pass.**
 
@@ -211,20 +205,18 @@ matches of all time.  In the next article, we'll take a look at what our
 numbers show about the rivalry in general but looking at all of their
 Grand Slam final encounters.
 
-+-----------------------------------------+-----------------------------------+
-|                                         |                                   |
-+=========================================+===================================+
-| **Bart Theelen** is Managing Director   | **Marcel Crok** is a tennis coach |
-| of SportsCounts, a company that         | and editor in chief of *Tennis &  |
+|  |  |
+| --- | --- |
+| **Bart Theelen** is Managing Director | **Marcel Crok** is a tennis coach |
+| of SportsCounts, a company that | and editor in chief of *Tennis & |
 | specializes in computer assisted tennis | Coach*, the professional magazine |
-| analysis. He has worked with the Dutch  | of the Association of Dutch       |
-| Davis Cup team, and coaches both junior | Tennis Coaches.                   |
-| and professional players. He publishes  |                                   |
-| regularly in *Tennis & Coach*,          |                                   |
-| identifying strengths and weaknesses of |                                   |
-| several famous players and their game   |                                   |
-| style.                                  |                                   |
-+-----------------------------------------+-----------------------------------+
-| For further information or to contact either Marcel or Bart, email them at: |
-| <redactie@tennisencoach.nl>                                                 |
-+-----------------------------------------------------------------------------+
+| analysis. He has worked with the Dutch | of the Association of Dutch |
+| Davis Cup team, and coaches both junior | Tennis Coaches. |
+| and professional players. He publishes |  |
+| regularly in *Tennis & Coach*, |  |
+| identifying strengths and weaknesses of |  |
+| several famous players and their game |  |
+| style. |  |
+| For further information or to contact either Marcel or Bart, email them at: |  |
+| <redactie@tennisencoach.nl> |  |
+

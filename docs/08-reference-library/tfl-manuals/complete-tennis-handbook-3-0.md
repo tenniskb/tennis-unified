@@ -57,7 +57,7 @@ Edition 2026 \| Tennis Future Lab
                                                 shoulder, floating Kua
 
   12                     Footwork               Six step types,
-                                                positioning, No Man\'s
+                                                positioning, No Man's
                                                 Land
 
   13                     Elastic Recovery       Recoil, soft landing,
@@ -91,13 +91,13 @@ Edition 2026 \| Tennis Future Lab
                                                 checklist
   ---------------------- ---------------------- ----------------------
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 01**                                                     |
-|                                                                    |
-| **Movement Foundations in Tennis**                                 |
-|                                                                    |
-| *Understanding Your Body to Play Smarter*                          |
-+--------------------------------------------------------------------+
+| **CHAPTER 01** |
+| --- |
+|  |
+| **Movement Foundations in Tennis** |
+|  |
+| *Understanding Your Body to Play Smarter* |
+
 
 **1.1 Tennis --- A Sport of Kinetic Chains**
 
@@ -112,18 +112,18 @@ Kinetic Chain.
 
 **1.2 Three Core Principles**
 
-+--------------------------------------------------------------------+
-| **🔑 THREE CORE PRINCIPLES OF THIS MANUAL**                        |
-|                                                                    |
-| 1\. POWER STARTS AT THE GROUND --- All force begins from the       |
-| earth, never from the arm.                                         |
-|                                                                    |
-| 2\. LOAD BEFORE RELEASE --- The body stores elastic energy then    |
-| releases it sequentially.                                          |
-|                                                                    |
-| 3\. EYES LEAD EVERYTHING --- Your vision and brain must always     |
-| precede muscle action.                                             |
-+--------------------------------------------------------------------+
+| **🔑 THREE CORE PRINCIPLES OF THIS MANUAL** |
+| --- |
+|  |
+| 1\. POWER STARTS AT THE GROUND --- All force begins from the |
+| earth, never from the arm. |
+|  |
+| 2\. LOAD BEFORE RELEASE --- The body stores elastic energy then |
+| releases it sequentially. |
+|  |
+| 3\. EYES LEAD EVERYTHING --- Your vision and brain must always |
+| precede muscle action. |
+
 
 **1.3 Why 3.0 Players Over-Use Their Arms**
 
@@ -280,27 +280,27 @@ module with a specific goal, clear drills, and a progress checklist.
                          Roadmap                
   ---------------------- ---------------------- ----------------------
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 1 SUMMARY**                                           |
-|                                                                    |
-| ✓ Tennis = a kinetic chain sport, not an arm sport                 |
-|                                                                    |
-| ✓ Three principles: Power from ground --- Load then release ---    |
-| Eyes lead everything                                               |
-|                                                                    |
-| ✓ Fascia = the elastic system connecting the whole body            |
-|                                                                    |
-| ✓ Real technical change requires 6-8 weeks of conscious practice   |
-| --- be patient                                                     |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 1 SUMMARY** |
+| --- |
+|  |
+| ✓ Tennis = a kinetic chain sport, not an arm sport |
+|  |
+| ✓ Three principles: Power from ground --- Load then release --- |
+| Eyes lead everything |
+|  |
+| ✓ Fascia = the elastic system connecting the whole body |
+|  |
+| ✓ Real technical change requires 6-8 weeks of conscious practice |
+| --- be patient |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 02**                                                     |
-|                                                                    |
-| **Spiral Chain**                                                   |
-|                                                                    |
-| *The Secret Behind Effortless Heavy Shots*                         |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 02** |
+| --- |
+|  |
+| **Spiral Chain** |
+|  |
+| *The Secret Behind Effortless Heavy Shots* |
+
 
 **2.1 Why the Body Prefers Rotation Over Linear Push**
 
@@ -314,26 +314,26 @@ synergistically, force travels further, and local effort is minimized.
 
 **2.2 The Spiral Chain in the Body**
 
-+--------------------------------------------------------------------+
-| **🔄 SPIRAL CHAIN --- RIGHT-HANDED FOREHAND**                      |
-|                                                                    |
-| Right foot plants and grips the ground (initiates ground reaction  |
-| force)                                                             |
-|                                                                    |
-| ↓ Hip rotates open --- Kua gate swings (converts vertical to       |
-| rotational)                                                        |
-|                                                                    |
-| ↓ External obliques loaded diagonally (elastic storage phase)      |
-|                                                                    |
-| ↓ Thoracolumbar fascia pulls across the back (Mingmen loads)       |
-|                                                                    |
-| ↓ Left shoulder counterbalances (creates spiral preload)           |
-|                                                                    |
-| ↓ Right arm is flung outward by the chain (not actively swung)     |
-|                                                                    |
-| → Racket tip reaches peak velocity at contact (delayed             |
-| acceleration)                                                      |
-+--------------------------------------------------------------------+
+| **🔄 SPIRAL CHAIN --- RIGHT-HANDED FOREHAND** |
+| --- |
+|  |
+| Right foot plants and grips the ground (initiates ground reaction |
+| force) |
+|  |
+| ↓ Hip rotates open --- Kua gate swings (converts vertical to |
+| rotational) |
+|  |
+| ↓ External obliques loaded diagonally (elastic storage phase) |
+|  |
+| ↓ Thoracolumbar fascia pulls across the back (Mingmen loads) |
+|  |
+| ↓ Left shoulder counterbalances (creates spiral preload) |
+|  |
+| ↓ Right arm is flung outward by the chain (not actively swung) |
+|  |
+| → Racket tip reaches peak velocity at contact (delayed |
+| acceleration) |
+
 
 **2.3 Four Phases of the Forehand with Spiral Chain**
 
@@ -435,35 +435,35 @@ calls the spiral chain.
 
 **2.7 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: SLOW-MOTION SHADOW SWING**                           |
-|                                                                    |
-| Stand in front of a mirror --- no ball, no pressure                |
-|                                                                    |
-| Shadow swing at 20% speed --- SLOW ENOUGH to feel each phase       |
-|                                                                    |
-| Notice: hips open BEFORE shoulders --- feel the time delay         |
-|                                                                    |
-| Feel force rising from the ground up through your arm like a wave  |
-|                                                                    |
-| 20 reps, rest 30 seconds, repeat for 3 sets daily                  |
-|                                                                    |
-| CUE: \"Hips lead, arm follows\"                                    |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: SLOW-MOTION SHADOW SWING** |
+| --- |
+|  |
+| Stand in front of a mirror --- no ball, no pressure |
+|  |
+| Shadow swing at 20% speed --- SLOW ENOUGH to feel each phase |
+|  |
+| Notice: hips open BEFORE shoulders --- feel the time delay |
+|  |
+| Feel force rising from the ground up through your arm like a wave |
+|  |
+| 20 reps, rest 30 seconds, repeat for 3 sets daily |
+|  |
+| CUE: \"Hips lead, arm follows\" |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: MINI-TENNIS SPIRAL**                                 |
-|                                                                    |
-| Play mini-tennis inside the service boxes                          |
-|                                                                    |
-| Every shot MUST involve hip rotation before racket contact         |
-|                                                                    |
-| Speed at 40% --- focus on SENSATION, not power                     |
-|                                                                    |
-| After every 5 balls, pause and body-scan: are shoulders tight?     |
-|                                                                    |
-| Goal: 10 continuous minutes without arm-dominant shots             |
-+--------------------------------------------------------------------+
+
+| **🎾 DRILL 2: MINI-TENNIS SPIRAL** |
+| --- |
+|  |
+| Play mini-tennis inside the service boxes |
+|  |
+| Every shot MUST involve hip rotation before racket contact |
+|  |
+| Speed at 40% --- focus on SENSATION, not power |
+|  |
+| After every 5 balls, pause and body-scan: are shoulders tight? |
+|  |
+| Goal: 10 continuous minutes without arm-dominant shots |
+
 
 **2.8 Applying the Spiral Chain in Match Play**
 
@@ -474,29 +474,29 @@ open before the arm?\" not \"What went wrong?\" During warm-up, hit 10
 slow shadow swings to prime the motor memory. When fatigued, reduce pace
 by 20% to maintain the chain rather than muscling through.
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 2 SUMMARY**                                           |
-|                                                                    |
-| ✓ The body transmits force most efficiently through a spiral       |
-| (rotational) pattern                                               |
-|                                                                    |
-| ✓ Release sequence: HIPS first, arm follows after                  |
-|                                                                    |
-| ✓ Elastic fascial power \> raw muscle power --- less effort,       |
-| heavier ball                                                       |
-|                                                                    |
-| ✓ Core drill: Slow shadow swing, 20 reps, 3 sets, every day        |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 2 SUMMARY** |
+| --- |
+|  |
+| ✓ The body transmits force most efficiently through a spiral |
+| (rotational) pattern |
+|  |
+| ✓ Release sequence: HIPS first, arm follows after |
+|  |
+| ✓ Elastic fascial power \> raw muscle power --- less effort, |
+| heavier ball |
+|  |
+| ✓ Core drill: Slow shadow swing, 20 reps, 3 sets, every day |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 03**                                                     |
-|                                                                    |
-| **Kua & Mingmen**                                                  |
-|                                                                    |
-| *The Body\'s Hidden Power Axis*                                    |
-+--------------------------------------------------------------------+
 
-**3.1 Kua --- The Body\'s Differential Gear**
+| **CHAPTER 03** |
+| --- |
+|  |
+| **Kua & Mingmen** |
+|  |
+| *The Body's Hidden Power Axis* |
+
+
+**3.1 Kua --- The Body's Differential Gear**
 
 Kua (胯) in Chinese refers to the hip joint and groin area. In tennis
 biomechanics, the Kua is not simply a rotational joint --- it is a force
@@ -506,19 +506,19 @@ differential gear in a car drivetrain. Kai Kua (Open Hip): creates space
 for ground energy to enter the body, absorbs force. He Kua
 (Close/Compress Hip): accumulates elastic pressure, readies the release.
 
-+--------------------------------------------------------------------+
-| **⚠️ CRITICAL WARNING --- KNEE vs. KUA**                           |
-|                                                                    |
-| The knee is a hinge joint --- it flexes and extends ONLY. It does  |
-| NOT rotate.                                                        |
-|                                                                    |
-| When you rotate to swing, the KUA must be the pivot point.         |
-|                                                                    |
-| If the Kua is locked, rotational stress transfers directly to the  |
-| knee.                                                              |
-|                                                                    |
-| Rotating from the knee in tennis = meniscus injury over time.      |
-+--------------------------------------------------------------------+
+| **⚠️ CRITICAL WARNING --- KNEE vs. KUA** |
+| --- |
+|  |
+| The knee is a hinge joint --- it flexes and extends ONLY. It does |
+| NOT rotate. |
+|  |
+| When you rotate to swing, the KUA must be the pivot point. |
+|  |
+| If the Kua is locked, rotational stress transfers directly to the |
+| knee. |
+|  |
+| Rotating from the knee in tennis = meniscus injury over time. |
+
 
 **3.2 Tso Kua --- The Art of Sitting into the Hip**
 
@@ -578,27 +578,27 @@ Correct Mingmen is elastically structured.
 
 **3.4 Testing Your Mingmen**
 
-+--------------------------------------------------------------------+
-| **🧪 MINGMEN SELF-TEST --- 3 SIMPLE CHECKS**                       |
-|                                                                    |
-| TEST 1: Have someone photograph your back mid-forehand rotation    |
-|                                                                    |
-| → Pass: lower back flat or gently curved inward                    |
-|                                                                    |
-| → Fail: back arches outward or collapses into deep hollow          |
-|                                                                    |
-| TEST 2: Rotate torso gently 10-15 degrees --- does your arm swing  |
-| naturally?                                                         |
-|                                                                    |
-| → Pass: arm swings freely without shoulder muscle activation       |
-|                                                                    |
-| TEST 3: After 45 minutes of serve practice, check your lower back  |
-|                                                                    |
-| → Pass: no lower back fatigue = Mingmen conducting correctly       |
-|                                                                    |
-| → Fail: lower back fatigue = using the back to pull ball, not the  |
-| chain                                                              |
-+--------------------------------------------------------------------+
+| **🧪 MINGMEN SELF-TEST --- 3 SIMPLE CHECKS** |
+| --- |
+|  |
+| TEST 1: Have someone photograph your back mid-forehand rotation |
+|  |
+| → Pass: lower back flat or gently curved inward |
+|  |
+| → Fail: back arches outward or collapses into deep hollow |
+|  |
+| TEST 2: Rotate torso gently 10-15 degrees --- does your arm swing |
+| naturally? |
+|  |
+| → Pass: arm swings freely without shoulder muscle activation |
+|  |
+| TEST 3: After 45 minutes of serve practice, check your lower back |
+|  |
+| → Pass: no lower back fatigue = Mingmen conducting correctly |
+|  |
+| → Fail: lower back fatigue = using the back to pull ball, not the |
+| chain |
+
 
 **3.5 Kua and Mingmen in the Three Main Strokes**
 
@@ -624,34 +624,34 @@ Correct Mingmen is elastically structured.
 
 **3.6 Activation Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: KUA ROTATION**                                       |
-|                                                                    |
-| Stand shoulder-width apart, hands resting lightly on thighs        |
-|                                                                    |
-| Rotate hips gently left and right --- feel the groin crease open   |
-| and close                                                          |
-|                                                                    |
-| KNEES DO NOT MOVE --- only the Kua rotates                         |
-|                                                                    |
-| 20 reps each direction × 2 sets                                    |
-|                                                                    |
-| CUE: \"Hip gate opens and closes\"                                 |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: KUA ROTATION** |
+| --- |
+|  |
+| Stand shoulder-width apart, hands resting lightly on thighs |
+|  |
+| Rotate hips gently left and right --- feel the groin crease open |
+| and close |
+|  |
+| KNEES DO NOT MOVE --- only the Kua rotates |
+|  |
+| 20 reps each direction × 2 sets |
+|  |
+| CUE: \"Hip gate opens and closes\" |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: TSO KUA SQUAT**                                      |
-|                                                                    |
-| Stand in athletic ready position                                   |
-|                                                                    |
-| Lower slowly as if sitting onto an invisible chair behind you      |
-|                                                                    |
-| Feel activation in GLUTES and HAMSTRINGS --- not front of thigh    |
-|                                                                    |
-| Hold 3 seconds, stand, repeat 15 times                             |
-|                                                                    |
-| CUE: \"Sit into the groin, not into the knee\"                     |
-+--------------------------------------------------------------------+
+
+| **🎾 DRILL 2: TSO KUA SQUAT** |
+| --- |
+|  |
+| Stand in athletic ready position |
+|  |
+| Lower slowly as if sitting onto an invisible chair behind you |
+|  |
+| Feel activation in GLUTES and HAMSTRINGS --- not front of thigh |
+|  |
+| Hold 3 seconds, stand, repeat 15 times |
+|  |
+| CUE: \"Sit into the groin, not into the knee\" |
+
 
 **3.7 Daily Integration Routine**
 
@@ -674,28 +674,28 @@ Correct Mingmen is elastically structured.
   breathing                                     Mingmen expansion
   ---------------------- ---------------------- ----------------------
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 3 SUMMARY**                                           |
-|                                                                    |
-| ✓ Kua = force funnel, converts vertical leg drive into rotational  |
-| power                                                              |
-|                                                                    |
-| ✓ Mingmen = central elastic axis, the handle of the whip           |
-|                                                                    |
-| ✓ Tso Kua = sitting into the hip, activates glutes and hamstrings  |
-|                                                                    |
-| ✓ NEVER rotate from the knee --- always rotate from the Kua        |
-|                                                                    |
-| ✓ Live Mingmen = lower back flat, long, elastically structured     |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 3 SUMMARY** |
+| --- |
+|  |
+| ✓ Kua = force funnel, converts vertical leg drive into rotational |
+| power |
+|  |
+| ✓ Mingmen = central elastic axis, the handle of the whip |
+|  |
+| ✓ Tso Kua = sitting into the hip, activates glutes and hamstrings |
+|  |
+| ✓ NEVER rotate from the knee --- always rotate from the Kua |
+|  |
+| ✓ Live Mingmen = lower back flat, long, elastically structured |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 04**                                                     |
-|                                                                    |
-| **The Split Step**                                                 |
-|                                                                    |
-| *The Key to Always Being in the Right Place*                       |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 04** |
+| --- |
+|  |
+| **The Split Step** |
+|  |
+| *The Key to Always Being in the Right Place* |
+
 
 **4.1 What Is the Split Step and Why Does It Matter?**
 
@@ -707,17 +707,17 @@ body in a state of elastic readiness to move explosively in any
 direction. Without it, you are always chasing the ball instead of
 anticipating it.
 
-+--------------------------------------------------------------------+
-| **⚡ THE GOLDEN RULE --- SPLIT STEP TIMING**                       |
-|                                                                    |
-| Split step = WHEN the opponent contacts the ball                   |
-|                                                                    |
-| NOT when the ball crosses the net.                                 |
-|                                                                    |
-| NOT when the ball bounces on your side.                            |
-|                                                                    |
-| EXACTLY when the opponent\'s racket touches the ball.              |
-+--------------------------------------------------------------------+
+| **⚡ THE GOLDEN RULE --- SPLIT STEP TIMING** |
+| --- |
+|  |
+| Split step = WHEN the opponent contacts the ball |
+|  |
+| NOT when the ball crosses the net. |
+|  |
+| NOT when the ball bounces on your side. |
+|  |
+| EXACTLY when the opponent's racket touches the ball. |
+
 
 **4.2 The Biomechanical Mechanism**
 
@@ -750,24 +750,24 @@ pre-loaded in an elastic ready state.
 
 **4.4 Six Most Common Mistakes at 3.0 Level**
 
-+--------------------------------------------------------------------+
-| **❌ 6 SPLIT STEP ERRORS COMMON AT 3.0**                           |
-|                                                                    |
-| ERROR 1: Standing too upright --- no athletic ready stance         |
-|                                                                    |
-| ERROR 2: Forgetting to split step entirely under pressure          |
-|                                                                    |
-| ERROR 3: Split stepping too late --- chasing instead of            |
-| anticipating                                                       |
-|                                                                    |
-| ERROR 4: Jumping too high --- losing precious landing time         |
-|                                                                    |
-| ERROR 5: Freezing after the split step --- not pushing off         |
-| immediately                                                        |
-|                                                                    |
-| ERROR 6 (MOST COMMON): Only split stepping on serve return,        |
-| forgetting during rallies                                          |
-+--------------------------------------------------------------------+
+| **❌ 6 SPLIT STEP ERRORS COMMON AT 3.0** |
+| --- |
+|  |
+| ERROR 1: Standing too upright --- no athletic ready stance |
+|  |
+| ERROR 2: Forgetting to split step entirely under pressure |
+|  |
+| ERROR 3: Split stepping too late --- chasing instead of |
+| anticipating |
+|  |
+| ERROR 4: Jumping too high --- losing precious landing time |
+|  |
+| ERROR 5: Freezing after the split step --- not pushing off |
+| immediately |
+|  |
+| ERROR 6 (MOST COMMON): Only split stepping on serve return, |
+| forgetting during rallies |
+
 
 **4.5 Split Step and Anticipation**
 
@@ -781,34 +781,34 @@ subconsciously when you are in the correct body state.
 
 **4.6 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: SHADOW SPLIT STEP**                                  |
-|                                                                    |
-| Stand in the middle of the court, partner stands opposite          |
-|                                                                    |
-| Partner swings racket at air as if hitting a shot                  |
-|                                                                    |
-| You execute a split step EXACTLY when they swing                   |
-|                                                                    |
-| No ball --- pure timing practice only                              |
-|                                                                    |
-| 50 reps × 3 sets, practice every day for first 2 weeks             |
-|                                                                    |
-| CUE: \"They hit --- I bounce\"                                     |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: SHADOW SPLIT STEP** |
+| --- |
+|  |
+| Stand in the middle of the court, partner stands opposite |
+|  |
+| Partner swings racket at air as if hitting a shot |
+|  |
+| You execute a split step EXACTLY when they swing |
+|  |
+| No ball --- pure timing practice only |
+|  |
+| 50 reps × 3 sets, practice every day for first 2 weeks |
+|  |
+| CUE: \"They hit --- I bounce\" |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: RALLY SPLIT STEP RULE**                              |
-|                                                                    |
-| Play normal cross-court rally with a partner                       |
-|                                                                    |
-| Rule: MUST split step every single time partner contacts ball      |
-|                                                                    |
-| Start at 50% speed --- anyone who skips the split step loses the   |
-| point                                                              |
-|                                                                    |
-| Continue for 10-15 minutes                                         |
-+--------------------------------------------------------------------+
+
+| **🎾 DRILL 2: RALLY SPLIT STEP RULE** |
+| --- |
+|  |
+| Play normal cross-court rally with a partner |
+|  |
+| Rule: MUST split step every single time partner contacts ball |
+|  |
+| Start at 50% speed --- anyone who skips the split step loses the |
+| point |
+|  |
+| Continue for 10-15 minutes |
+
 
 **4.7 Evolution of the Split Step**
 
@@ -832,29 +832,29 @@ subconsciously when you are in the correct body state.
                          steps                  elastic readiness
   ---------------------- ---------------------- ----------------------
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 4 SUMMARY**                                           |
-|                                                                    |
-| ✓ Split step = small jump when OPPONENT contacts ball ---          |
-| non-negotiable rule                                                |
-|                                                                    |
-| ✓ Mechanism: compress Kua → elastic storage → recoil toward        |
-| correct side                                                       |
-|                                                                    |
-| ✓ Error #6 is most damaging: split stepping only on serve return   |
-|                                                                    |
-| ✓ Priority drill: Shadow split step 50 reps/day for first 2 weeks  |
-|                                                                    |
-| ✓ Long-term goal: split step becomes fully automatic               |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 4 SUMMARY** |
+| --- |
+|  |
+| ✓ Split step = small jump when OPPONENT contacts ball --- |
+| non-negotiable rule |
+|  |
+| ✓ Mechanism: compress Kua → elastic storage → recoil toward |
+| correct side |
+|  |
+| ✓ Error #6 is most damaging: split stepping only on serve return |
+|  |
+| ✓ Priority drill: Shadow split step 50 reps/day for first 2 weeks |
+|  |
+| ✓ Long-term goal: split step becomes fully automatic |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 05**                                                     |
-|                                                                    |
-| **Weight Transfer**                                                |
-|                                                                    |
-| *The Art of Moving Like Water*                                     |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 05** |
+| --- |
+|  |
+| **Weight Transfer** |
+|  |
+| *The Art of Moving Like Water* |
+
 
 **5.1 Empty and Full --- The Foundation Principle**
 
@@ -888,7 +888,7 @@ stiff, robotic ones.
 
 Think of a baseball pitcher stepping forward into the throw. That
 forward step transfers body weight into the ball, adding momentum to the
-arm\'s rotation. This is precisely the mechanism of an attacking
+arm's rotation. This is precisely the mechanism of an attacking
 forehand. The cue: \"Step in, then rotate --- never rotate first, then
 step.\"
 
@@ -965,44 +965,44 @@ elite players appear to glide across the court rather than run.
 
 **5.7 Practice Drill**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL: WEIGHT TRANSFER FEED**                                 |
-|                                                                    |
-| Feeder at the T-line, drop-feeding balls to same spot              |
-|                                                                    |
-| Your focus: Step into ball → Transfer weight → Recover to center   |
-|                                                                    |
-| 30 consecutive balls, notice whether you step in on each one       |
-|                                                                    |
+| **🎾 DRILL: WEIGHT TRANSFER FEED** |
+| --- |
+|  |
+| Feeder at the T-line, drop-feeding balls to same spot |
+|  |
+| Your focus: Step into ball → Transfer weight → Recover to center |
+|  |
+| 30 consecutive balls, notice whether you step in on each one |
+|  |
 | Observation: Balls will bounce higher and land deeper with correct |
-| transfer                                                           |
-|                                                                    |
-| 3 sets × 30 balls with 1-minute rest between                       |
-+--------------------------------------------------------------------+
+| transfer |
+|  |
+| 3 sets × 30 balls with 1-minute rest between |
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 5 SUMMARY**                                           |
-|                                                                    |
-| ✓ Xu-Shi principle: always have one full (weighted) and one empty  |
-| (ready) foot                                                       |
-|                                                                    |
-| ✓ Three types: Into ball (attack), Stable (defense), Rotational    |
-| (topspin)                                                          |
-|                                                                    |
-| ✓ Recovery begins at moment of contact --- not after watching the  |
-| ball                                                               |
-|                                                                    |
-| ✓ Elastic recovery: use recoil from the shot to bounce back to     |
-| position                                                           |
-+--------------------------------------------------------------------+
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 06**                                                     |
-|                                                                    |
-| **The Visual System in Tennis**                                    |
-|                                                                    |
-| *Eyes Command Before Muscles React*                                |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 5 SUMMARY** |
+| --- |
+|  |
+| ✓ Xu-Shi principle: always have one full (weighted) and one empty |
+| (ready) foot |
+|  |
+| ✓ Three types: Into ball (attack), Stable (defense), Rotational |
+| (topspin) |
+|  |
+| ✓ Recovery begins at moment of contact --- not after watching the |
+| ball |
+|  |
+| ✓ Elastic recovery: use recoil from the shot to bounce back to |
+| position |
+
+
+| **CHAPTER 06** |
+| --- |
+|  |
+| **The Visual System in Tennis** |
+|  |
+| *Eyes Command Before Muscles React* |
+
 
 **6.1 Tennis Is a Vision Sport**
 
@@ -1037,7 +1037,7 @@ unfolds in a fraction of a second --- all starting with visual input.
 **6.2 The Surprising Truth About Ball Tracking**
 
 Common myth: great players watch the ball continuously from the
-opponent\'s racket until it reaches their own. Reality: this is
+opponent's racket until it reaches their own. Reality: this is
 PHYSIOLOGICALLY IMPOSSIBLE. The ball moves too fast for the eyes to
 track smoothly at speed. Instead, the brain operates predictively: reads
 the opponent as they swing → predicts trajectory → moves eyes to
@@ -1047,22 +1047,22 @@ will be and place their eyes there in advance.
 
 **6.3 The Elite Ball-Tracking Process**
 
-+--------------------------------------------------------------------+
-| **🧠 HOW ELITE PLAYERS TRACK THE BALL**                            |
-|                                                                    |
-| Step 1: Watch opponent during preparation phase (gather cues)      |
-|                                                                    |
-| Step 2: Saccade to area where ball leaves opponent\'s racket       |
-|                                                                    |
-| Step 3: Predictive tracking to anticipated bounce location         |
-|                                                                    |
-| Step 4: Fixate on bounce point 200-300ms before ball arrives       |
-|                                                                    |
-| Step 5: Contact --- eyes hold steady at impact zone                |
-|                                                                    |
-| Step 6: After contact, immediately shift eyes to read opponent     |
-| position                                                           |
-+--------------------------------------------------------------------+
+| **🧠 HOW ELITE PLAYERS TRACK THE BALL** |
+| --- |
+|  |
+| Step 1: Watch opponent during preparation phase (gather cues) |
+|  |
+| Step 2: Saccade to area where ball leaves opponent's racket |
+|  |
+| Step 3: Predictive tracking to anticipated bounce location |
+|  |
+| Step 4: Fixate on bounce point 200-300ms before ball arrives |
+|  |
+| Step 5: Contact --- eyes hold steady at impact zone |
+|  |
+| Step 6: After contact, immediately shift eyes to read opponent |
+| position |
+
 
 **6.4 Reading Opponent Cues --- Five Key Signals**
 
@@ -1088,8 +1088,8 @@ will be and place their eyes there in advance.
 **6.5 Peripheral Vision --- The Secret Weapon**
 
 While your foveal vision fixates on the ball, your peripheral vision
-continuously collects: opponent position on court, opponent\'s movement
-direction, open court real estate on the opponent\'s side. Improving
+continuously collects: opponent position on court, opponent's movement
+direction, open court real estate on the opponent's side. Improving
 peripheral vision is one of the fastest routes from 3.0 to 3.5. When you
 know where the opponent is (peripheral) while tracking the ball
 (foveal), tactical decision quality improves dramatically and
@@ -1097,56 +1097,56 @@ instinctively.
 
 **6.6 Vision Training Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: BOUNCE/HIT CALL**                                    |
-|                                                                    |
-| Rally normally with your practice partner                          |
-|                                                                    |
-| When ball BOUNCES on your side: call out loud \"BOUNCE\"           |
-|                                                                    |
-| When your RACKET contacts ball: call out loud \"HIT\"              |
-|                                                                    |
+| **🎾 DRILL 1: BOUNCE/HIT CALL** |
+| --- |
+|  |
+| Rally normally with your practice partner |
+|  |
+| When ball BOUNCES on your side: call out loud \"BOUNCE\" |
+|  |
+| When your RACKET contacts ball: call out loud \"HIT\" |
+|  |
 | Goal: Train yourself to fixate at the bounce point BEFORE the ball |
-| arrives                                                            |
-|                                                                    |
-| Practice 15 minutes per session for 3 consecutive weeks            |
-+--------------------------------------------------------------------+
+| arrives |
+|  |
+| Practice 15 minutes per session for 3 consecutive weeks |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: SERVE PREDICTION**                                   |
-|                                                                    |
-| Stand at baseline receiving serve from partner at 50-60% speed     |
-|                                                                    |
-| BEFORE the ball crosses the net, point your hand: \"Right,\"       |
-| \"Left,\" or \"Body\"                                              |
-|                                                                    |
-| Record your accuracy percentage each session                       |
-|                                                                    |
-| Targets: Week 1 \>40%, Week 4 \>60%, Week 8 \>75%                  |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 6 SUMMARY**                                           |
-|                                                                    |
+| **🎾 DRILL 2: SERVE PREDICTION** |
+| --- |
+|  |
+| Stand at baseline receiving serve from partner at 50-60% speed |
+|  |
+| BEFORE the ball crosses the net, point your hand: \"Right,\" |
+| \"Left,\" or \"Body\" |
+|  |
+| Record your accuracy percentage each session |
+|  |
+| Targets: Week 1 \>40%, Week 4 \>60%, Week 8 \>75% |
+
+
+| **📋 CHAPTER 6 SUMMARY** |
+| --- |
+|  |
 | ✓ Tennis = a vision sport --- HOW you see the ball matters as much |
-| as technique                                                       |
-|                                                                    |
-| ✓ The brain predicts ball trajectory; fixates on bounce 200-300ms  |
-| before arrival                                                     |
-|                                                                    |
-| ✓ Five key cues: shoulder direction, contact point, grip, swing    |
-| speed, toss position                                               |
-|                                                                    |
-| ✓ Drill: Bounce/Hit call --- 15 minutes per session for 3 weeks    |
-+--------------------------------------------------------------------+
+| as technique |
+|  |
+| ✓ The brain predicts ball trajectory; fixates on bounce 200-300ms |
+| before arrival |
+|  |
+| ✓ Five key cues: shoulder direction, contact point, grip, swing |
+| speed, toss position |
+|  |
+| ✓ Drill: Bounce/Hit call --- 15 minutes per session for 3 weeks |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 07**                                                     |
-|                                                                    |
-| **Quiet Eye**                                                      |
-|                                                                    |
-| *The Science of the Consistent Shot*                               |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 07** |
+| --- |
+|  |
+| **Quiet Eye** |
+|  |
+| *The Science of the Consistent Shot* |
+
 
 **7.1 What Is Quiet Eye?**
 
@@ -1181,28 +1181,28 @@ in a row, then suddenly miss the next one and have no idea why. Research
 consistently shows that the missing ingredient is Quiet Eye. When the
 eyes are moving (no Quiet Eye), the brain lacks stable enough visual
 data to precisely calculate the contact point. Result: timing shifts,
-contact point wanders, ball goes where you didn\'t intend.
+contact point wanders, ball goes where you didn't intend.
 
-+--------------------------------------------------------------------+
-| **💡 SIMPLE MENTAL MODEL**                                         |
-|                                                                    |
-| Think of taking a photo with your phone:                           |
-|                                                                    |
-| Phone held still (fixation) → sharp, usable image                  |
-|                                                                    |
-| Phone shaking (eyes moving) → blurry, unusable image               |
-|                                                                    |
-| Quiet Eye = holding the camera still before pressing the shutter   |
-|                                                                    |
-| Result: brain receives a sharp image to calculate the shot         |
-| precisely                                                          |
-+--------------------------------------------------------------------+
+| **💡 SIMPLE MENTAL MODEL** |
+| --- |
+|  |
+| Think of taking a photo with your phone: |
+|  |
+| Phone held still (fixation) → sharp, usable image |
+|  |
+| Phone shaking (eyes moving) → blurry, unusable image |
+|  |
+| Quiet Eye = holding the camera still before pressing the shutter |
+|  |
+| Result: brain receives a sharp image to calculate the shot |
+| precisely |
+
 
 **7.3 Three Phases of Quiet Eye in the Forehand**
 
 **Phase 1 --- Tracking (Eyes Moving)**
 
-Eyes follow ball from opponent\'s racket. No Quiet Eye during this phase
+Eyes follow ball from opponent's racket. No Quiet Eye during this phase
 --- eyes are in smooth pursuit or predictive tracking. This is normal
 and necessary.
 
@@ -1243,75 +1243,75 @@ the ball immediately after hitting --- this is the most common error at
 
 **7.5 Quiet Eye Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: FREEZE GAZE**                                        |
-|                                                                    |
-| Rally normally with practice partner                               |
-|                                                                    |
-| After EVERY shot: hold eyes at contact point for 1-2 full seconds  |
-|                                                                    |
-| Do NOT follow ball immediately after hitting                       |
-|                                                                    |
-| This trains the brain to extend Quiet Eye through and beyond       |
-| contact                                                            |
-|                                                                    |
-| 15 minutes per session                                             |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: FREEZE GAZE** |
+| --- |
+|  |
+| Rally normally with practice partner |
+|  |
+| After EVERY shot: hold eyes at contact point for 1-2 full seconds |
+|  |
+| Do NOT follow ball immediately after hitting |
+|  |
+| This trains the brain to extend Quiet Eye through and beyond |
+| contact |
+|  |
+| 15 minutes per session |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: BOUNCE/HIT --- ADVANCED VERSION**                    |
-|                                                                    |
-| Continuing from Chapter 6 Bounce/Hit drill                         |
-|                                                                    |
-| Additional rule: after calling \"HIT,\" count silently \"one\"     |
-| before looking for ball                                            |
-|                                                                    |
-| This actively extends Quiet Eye beyond the contact moment          |
-|                                                                    |
-| Notice: do shots feel more consistent when you hold longer?        |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 3: QUIET EYE ON SERVE**                                 |
-|                                                                    |
-| Before tossing: fixate on the exact point in space where the ball  |
-| will reach apex                                                    |
-|                                                                    |
-| Track hand and ball rising (eyes moving --- acceptable here)       |
-|                                                                    |
-| Fixate on the apex point BEFORE ball arrives there                 |
-|                                                                    |
-| Hold head completely still through impact                          |
-|                                                                    |
-| 20 serves × 3 sets --- focus entirely on this, not on power        |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 2: BOUNCE/HIT --- ADVANCED VERSION** |
+| --- |
+|  |
+| Continuing from Chapter 6 Bounce/Hit drill |
+|  |
+| Additional rule: after calling \"HIT,\" count silently \"one\" |
+| before looking for ball |
+|  |
+| This actively extends Quiet Eye beyond the contact moment |
+|  |
+| Notice: do shots feel more consistent when you hold longer? |
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 7 SUMMARY**                                           |
-|                                                                    |
+
+| **🎾 DRILL 3: QUIET EYE ON SERVE** |
+| --- |
+|  |
+| Before tossing: fixate on the exact point in space where the ball |
+| will reach apex |
+|  |
+| Track hand and ball rising (eyes moving --- acceptable here) |
+|  |
+| Fixate on the apex point BEFORE ball arrives there |
+|  |
+| Hold head completely still through impact |
+|  |
+| 20 serves × 3 sets --- focus entirely on this, not on power |
+
+
+| **📋 CHAPTER 7 SUMMARY** |
+| --- |
+|  |
 | ✓ Quiet Eye = final gaze fixation before and during a shot --- key |
-| to consistency                                                     |
-|                                                                    |
-| ✓ Elite players have longer, more stable Quiet Eye --- especially  |
-| under pressure                                                     |
-|                                                                    |
-| ✓ Under pressure: breathe deeply and deliberately extend your      |
-| fixation                                                           |
-|                                                                    |
-| ✓ Best drills: Freeze Gaze + Bounce/Hit Call --- 15 minutes per    |
-| session                                                            |
-|                                                                    |
-| ✓ After impact: hold eyes steady 100-200ms before following the    |
-| ball                                                               |
-+--------------------------------------------------------------------+
+| to consistency |
+|  |
+| ✓ Elite players have longer, more stable Quiet Eye --- especially |
+| under pressure |
+|  |
+| ✓ Under pressure: breathe deeply and deliberately extend your |
+| fixation |
+|  |
+| ✓ Best drills: Freeze Gaze + Bounce/Hit Call --- 15 minutes per |
+| session |
+|  |
+| ✓ After impact: hold eyes steady 100-200ms before following the |
+| ball |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 08**                                                     |
-|                                                                    |
-| **Forehand --- Complete Technique**                                |
-|                                                                    |
-| *Building a Weapon from the Ground Up*                             |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 08** |
+| --- |
+|  |
+| **Forehand --- Complete Technique** |
+|  |
+| *Building a Weapon from the Ground Up* |
+
 
 **8.1 The Forehand Starts Below the Waist**
 
@@ -1338,20 +1338,20 @@ correct spiral chain sequence.
 
 **8.2 Unit Turn --- Correct Preparation**
 
-+--------------------------------------------------------------------+
-| **🔑 UNIT TURN --- CORRECT vs. WRONG**                             |
-|                                                                    |
-| ✓ CORRECT: Hips AND shoulders rotate simultaneously as one unit    |
-|                                                                    |
-| ✓ CORRECT: Weight loads onto the back foot during unit turn        |
-|                                                                    |
-| ✓ CORRECT: Racket follows the body --- not pulled back by the arm  |
-|                                                                    |
-| ✗ WRONG: Only shoulders rotate while hips stay square (arm-only    |
-| preparation)                                                       |
-|                                                                    |
-| ✗ WRONG: Racket pulled backward with arm before body turns         |
-+--------------------------------------------------------------------+
+| **🔑 UNIT TURN --- CORRECT vs. WRONG** |
+| --- |
+|  |
+| ✓ CORRECT: Hips AND shoulders rotate simultaneously as one unit |
+|  |
+| ✓ CORRECT: Weight loads onto the back foot during unit turn |
+|  |
+| ✓ CORRECT: Racket follows the body --- not pulled back by the arm |
+|  |
+| ✗ WRONG: Only shoulders rotate while hips stay square (arm-only |
+| preparation) |
+|  |
+| ✗ WRONG: Racket pulled backward with arm before body turns |
+
 
 **8.3 The Ideal Contact Point**
 
@@ -1387,23 +1387,23 @@ non-dominant shoulder, wrapping around the neck.
 
 **8.5 Forehand Strategy at 3.0 Level**
 
-+--------------------------------------------------------------------+
-| **🎯 3.0 FOREHAND STRATEGY --- 5 RULES**                           |
-|                                                                    |
-| 1\. DEPTH FIRST: Always target the back third of the court ---     |
-| depth before power                                                 |
-|                                                                    |
+| **🎯 3.0 FOREHAND STRATEGY --- 5 RULES** |
+| --- |
+|  |
+| 1\. DEPTH FIRST: Always target the back third of the court --- |
+| depth before power |
+|  |
 | 2\. CROSS-COURT DEFAULT: The safe standard choice in neutral rally |
-| situations                                                         |
-|                                                                    |
-| 3\. 70% POWER: Never swing at full effort during rallies           |
-|                                                                    |
-| 4\. HAVE A TARGET: Every shot must have a specific intended        |
-| landing zone                                                       |
-|                                                                    |
-| 5\. RECOVER IMMEDIATELY: Return to center the moment contact is    |
-| made                                                               |
-+--------------------------------------------------------------------+
+| situations |
+|  |
+| 3\. 70% POWER: Never swing at full effort during rallies |
+|  |
+| 4\. HAVE A TARGET: Every shot must have a specific intended |
+| landing zone |
+|  |
+| 5\. RECOVER IMMEDIATELY: Return to center the moment contact is |
+| made |
+
 
 **8.6 Common Errors and Fixes**
 
@@ -1429,51 +1429,51 @@ non-dominant shoulder, wrapping around the neck.
 
 **8.7 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: FOREHAND TARGET FEEDING**                            |
-|                                                                    |
-| Feeder at net drop-feeding balls at hip height                     |
-|                                                                    |
-| Hit forehand cross-court toward cone at corner of court            |
-|                                                                    |
-| Focus: contact point in front of body, low-to-high swing           |
-|                                                                    |
-| 3 sets × 20 balls, 1-minute rest between sets                      |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: FOREHAND TARGET FEEDING** |
+| --- |
+|  |
+| Feeder at net drop-feeding balls at hip height |
+|  |
+| Hit forehand cross-court toward cone at corner of court |
+|  |
+| Focus: contact point in front of body, low-to-high swing |
+|  |
+| 3 sets × 20 balls, 1-minute rest between sets |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: DEPTH CHALLENGE RALLY**                              |
-|                                                                    |
-| Cross-court forehand rally with practice partner                   |
-|                                                                    |
-| A ball only counts if it bounces BEHIND the service line           |
-|                                                                    |
-| No concern for speed --- only depth and consistency count          |
-|                                                                    |
-| 10 minutes continuous. Target: \>70% balls landing deep            |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 8 SUMMARY**                                           |
-|                                                                    |
-| ✓ Forehand starts with unit turn --- hips and shoulders as one     |
-| unit                                                               |
-|                                                                    |
-| ✓ Contact point: in front of body at hip height, arm not locked    |
-| straight                                                           |
-|                                                                    |
-| ✓ Swing path: low-to-high topspin, windshield wiper finish         |
-|                                                                    |
-| ✓ Strategy: depth first, cross-court default, 70% power            |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 2: DEPTH CHALLENGE RALLY** |
+| --- |
+|  |
+| Cross-court forehand rally with practice partner |
+|  |
+| A ball only counts if it bounces BEHIND the service line |
+|  |
+| No concern for speed --- only depth and consistency count |
+|  |
+| 10 minutes continuous. Target: \>70% balls landing deep |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 09**                                                     |
-|                                                                    |
-| **Backhand --- Stability and Development**                         |
-|                                                                    |
-| *Turning a Weakness into a Weapon*                                 |
-+--------------------------------------------------------------------+
+
+| **📋 CHAPTER 8 SUMMARY** |
+| --- |
+|  |
+| ✓ Forehand starts with unit turn --- hips and shoulders as one |
+| unit |
+|  |
+| ✓ Contact point: in front of body at hip height, arm not locked |
+| straight |
+|  |
+| ✓ Swing path: low-to-high topspin, windshield wiper finish |
+|  |
+| ✓ Strategy: depth first, cross-court default, 70% power |
+
+
+| **CHAPTER 09** |
+| --- |
+|  |
+| **Backhand --- Stability and Development** |
+|  |
+| *Turning a Weakness into a Weapon* |
+
 
 **9.1 Two-Handed Backhand --- Core Principle**
 
@@ -1508,21 +1508,21 @@ inconsistent.
 
 **9.2 Unit Turn and Spiral Chain in the Backhand**
 
-+--------------------------------------------------------------------+
-| **🔑 TWO-HANDED BACKHAND KEY PRINCIPLES**                          |
-|                                                                    |
-| NON-DOMINANT HAND (left for right-handers) = primary power source  |
-|                                                                    |
-| DOMINANT HAND (right for right-handers) = guide and directional    |
-| control                                                            |
-|                                                                    |
-| Unit turn is MANDATORY --- no unit turn means arm swing only       |
-|                                                                    |
-| Contact point: slightly in front of body, between waist and chest  |
-| height                                                             |
-|                                                                    |
-| Follow-through: racket travels over the dominant-side shoulder     |
-+--------------------------------------------------------------------+
+| **🔑 TWO-HANDED BACKHAND KEY PRINCIPLES** |
+| --- |
+|  |
+| NON-DOMINANT HAND (left for right-handers) = primary power source |
+|  |
+| DOMINANT HAND (right for right-handers) = guide and directional |
+| control |
+|  |
+| Unit turn is MANDATORY --- no unit turn means arm swing only |
+|  |
+| Contact point: slightly in front of body, between waist and chest |
+| height |
+|  |
+| Follow-through: racket travels over the dominant-side shoulder |
+
 
 **9.3 Slice Backhand --- The Tactical Weapon**
 
@@ -1568,48 +1568,48 @@ inconsistent.
 
 **9.5 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: UNIT TURN ISOLATION**                                |
-|                                                                    |
-| Shadow swing only --- no ball                                      |
-|                                                                    |
-| Focus exclusively on unit turn BEFORE any racket movement          |
-|                                                                    |
-| CUE: \"Body turns FIRST, then the swing follows\"                  |
-|                                                                    |
-| 20 reps × 3 sets daily                                             |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: UNIT TURN ISOLATION** |
+| --- |
+|  |
+| Shadow swing only --- no ball |
+|  |
+| Focus exclusively on unit turn BEFORE any racket movement |
+|  |
+| CUE: \"Body turns FIRST, then the swing follows\" |
+|  |
+| 20 reps × 3 sets daily |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: BACKHAND CROSS-COURT RALLY**                         |
-|                                                                    |
-| Only backhand cross-court --- no forehands allowed                 |
-|                                                                    |
-| Focus on depth over speed at all times                             |
-|                                                                    |
-| 10 continuous minutes. After 2 weeks: gradually increase pace      |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 9 SUMMARY**                                           |
-|                                                                    |
-| ✓ Two-handed backhand: non-dominant hand = primary power           |
-|                                                                    |
-| ✓ Unit turn is non-negotiable --- it cannot be skipped             |
-|                                                                    |
+| **🎾 DRILL 2: BACKHAND CROSS-COURT RALLY** |
+| --- |
+|  |
+| Only backhand cross-court --- no forehands allowed |
+|  |
+| Focus on depth over speed at all times |
+|  |
+| 10 continuous minutes. After 2 weeks: gradually increase pace |
+
+
+| **📋 CHAPTER 9 SUMMARY** |
+| --- |
+|  |
+| ✓ Two-handed backhand: non-dominant hand = primary power |
+|  |
+| ✓ Unit turn is non-negotiable --- it cannot be skipped |
+|  |
 | ✓ Slice backhand = an important tactical weapon --- do not neglect |
-| it                                                                 |
-|                                                                    |
-| ✓ Error #1: No unit turn → arm swing → loss of power and control   |
-+--------------------------------------------------------------------+
+| it |
+|  |
+| ✓ Error #1: No unit turn → arm swing → loss of power and control |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 10**                                                     |
-|                                                                    |
-| **The Serve --- From Ground to Racket Tip**                        |
-|                                                                    |
-| *The One Shot You Fully Control*                                   |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 10** |
+| --- |
+|  |
+| **The Serve --- From Ground to Racket Tip** |
+|  |
+| *The One Shot You Fully Control* |
+
 
 **10.1 The Serve Does Not Begin with the Arm**
 
@@ -1661,99 +1661,99 @@ Elbow → Wrist → Racket tip. The arm is only the last link.
 
 **10.4 Kinetic Sequencing --- The Order of Opening**
 
-+--------------------------------------------------------------------+
-| **⚡ SERVE KINETIC CHAIN --- COMPLETE SEQUENCE**                   |
-|                                                                    |
-| 1\. Legs push into the ground (leg drive --- initiates ground      |
-| reaction force)                                                    |
-|                                                                    |
-| 2\. Hips rotate open (Kua leads first)                             |
-|                                                                    |
-| 3\. Diagonal abdominals release (elastic recoil begins)            |
-|                                                                    |
-| 4\. Back rotates (Mingmen releases energy into trunk)              |
-|                                                                    |
-| 5\. Chest opens (chest turn)                                       |
-|                                                                    |
-| 6\. Shoulder accelerates (rotator cuff fires sequentially)         |
-|                                                                    |
-| 7\. Arm launches upward (acceleration phase)                       |
-|                                                                    |
-| 8\. Forearm pronation occurs NATURALLY from chain momentum         |
-|                                                                    |
-| 9\. Racket tip whips --- peak velocity at contact                  |
-|                                                                    |
-| KEY CUE: \"Legs fire first, arm arrives last\"                     |
-+--------------------------------------------------------------------+
+| **⚡ SERVE KINETIC CHAIN --- COMPLETE SEQUENCE** |
+| --- |
+|  |
+| 1\. Legs push into the ground (leg drive --- initiates ground |
+| reaction force) |
+|  |
+| 2\. Hips rotate open (Kua leads first) |
+|  |
+| 3\. Diagonal abdominals release (elastic recoil begins) |
+|  |
+| 4\. Back rotates (Mingmen releases energy into trunk) |
+|  |
+| 5\. Chest opens (chest turn) |
+|  |
+| 6\. Shoulder accelerates (rotator cuff fires sequentially) |
+|  |
+| 7\. Arm launches upward (acceleration phase) |
+|  |
+| 8\. Forearm pronation occurs NATURALLY from chain momentum |
+|  |
+| 9\. Racket tip whips --- peak velocity at contact |
+|  |
+| KEY CUE: \"Legs fire first, arm arrives last\" |
+
 
 **10.5 Serve Error Checklist**
 
-+--------------------------------------------------------------------+
-| **❌ COMMON SERVE ERRORS AND FIXES**                               |
-|                                                                    |
-| Error 1: Ball into net → toss too low → toss higher, allow full    |
-| extension                                                          |
-|                                                                    |
-| Error 2: Ball long or wide → toss position wrong → check and       |
-| correct toss location                                              |
-|                                                                    |
-| Error 3: Weak serve without penetration → no leg drive → press     |
-| earth before launching                                             |
-|                                                                    |
-| Error 4: Shoulder pain after serving → Mingmen dead, force stalls  |
-| at shoulder → release shoulder, use the chain                      |
-|                                                                    |
+| **❌ COMMON SERVE ERRORS AND FIXES** |
+| --- |
+|  |
+| Error 1: Ball into net → toss too low → toss higher, allow full |
+| extension |
+|  |
+| Error 2: Ball long or wide → toss position wrong → check and |
+| correct toss location |
+|  |
+| Error 3: Weak serve without penetration → no leg drive → press |
+| earth before launching |
+|  |
+| Error 4: Shoulder pain after serving → Mingmen dead, force stalls |
+| at shoulder → release shoulder, use the chain |
+|  |
 | Error 5: Consecutive double faults → mental tightness → focus ONLY |
-| on the toss, nothing else                                          |
-+--------------------------------------------------------------------+
+| on the toss, nothing else |
+
 
 **10.6 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: LEG DRIVE ISOLATION**                                |
-|                                                                    |
-| Serve at 50% effort, focus entirely on leg drive                   |
-|                                                                    |
-| Feel the legs push earth BEFORE the arm begins to swing            |
-|                                                                    |
-| 20 serves × 3 sets                                                 |
-|                                                                    |
-| CUE: \"Earth pushes me up --- I don\'t jump\"                      |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: LEG DRIVE ISOLATION** |
+| --- |
+|  |
+| Serve at 50% effort, focus entirely on leg drive |
+|  |
+| Feel the legs push earth BEFORE the arm begins to swing |
+|  |
+| 20 serves × 3 sets |
+|  |
+| CUE: \"Earth pushes me up --- I don't jump\" |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: TARGET SERVE**                                       |
-|                                                                    |
+
+| **🎾 DRILL 2: TARGET SERVE** |
+| --- |
+|  |
 | Place targets (cones or boxes) at all 4 corners of the service box |
-|                                                                    |
-| Serve 5 balls at each target, record your hit percentage           |
-|                                                                    |
-| Target: \>40% accuracy per zone after 4 weeks of practice          |
-+--------------------------------------------------------------------+
+|  |
+| Serve 5 balls at each target, record your hit percentage |
+|  |
+| Target: \>40% accuracy per zone after 4 weeks of practice |
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 10 SUMMARY**                                          |
-|                                                                    |
-| ✓ Serve = using the earth to throw the racket tip through a        |
-| spiraling body                                                     |
-|                                                                    |
-| ✓ Trophy position = loading phase for elastic energy storage in    |
-| fascial system                                                     |
-|                                                                    |
-| ✓ Sequence: Legs → Kua → Mingmen → Shoulder → Arm (each opens      |
-| later than last)                                                   |
-|                                                                    |
-| ✓ Forearm pronation is NATURAL from chain momentum --- never snap  |
-| the wrist                                                          |
-+--------------------------------------------------------------------+
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 11**                                                     |
-|                                                                    |
-| **Volley --- The Art of Short Contact**                            |
-|                                                                    |
-| *Use Structure, Not Strength*                                      |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 10 SUMMARY** |
+| --- |
+|  |
+| ✓ Serve = using the earth to throw the racket tip through a |
+| spiraling body |
+|  |
+| ✓ Trophy position = loading phase for elastic energy storage in |
+| fascial system |
+|  |
+| ✓ Sequence: Legs → Kua → Mingmen → Shoulder → Arm (each opens |
+| later than last) |
+|  |
+| ✓ Forearm pronation is NATURAL from chain momentum --- never snap |
+| the wrist |
+
+
+| **CHAPTER 11** |
+| --- |
+|  |
+| **Volley --- The Art of Short Contact** |
+|  |
+| *Use Structure, Not Strength* |
+
 
 **11.1 The Volley --- Closest to Internal Martial Arts**
 
@@ -1788,19 +1788,19 @@ spraying unpredictably, no control, quick arm fatigue.
 
 **11.3 Sunken Shoulder --- The Most Important Principle**
 
-+--------------------------------------------------------------------+
-| **🔑 THE SUNKEN SHOULDER TECHNIQUE**                               |
-|                                                                    |
-| Shoulder pulls DOWN and stays down --- never rises toward ear      |
-|                                                                    |
-| Scapula (shoulder blade) anchors like a hook in stable wall        |
-|                                                                    |
-| Ground force connects through the sunken shoulder into the arm     |
-|                                                                    |
+| **🔑 THE SUNKEN SHOULDER TECHNIQUE** |
+| --- |
+|  |
+| Shoulder pulls DOWN and stays down --- never rises toward ear |
+|  |
+| Scapula (shoulder blade) anchors like a hook in stable wall |
+|  |
+| Ground force connects through the sunken shoulder into the arm |
+|  |
 | Racket face automatically stabilizes when shoulder sinks correctly |
-|                                                                    |
-| Sound test: sharp/clean = correct; thud/dull = shoulder rose       |
-+--------------------------------------------------------------------+
+|  |
+| Sound test: sharp/clean = correct; thud/dull = shoulder rose |
+
 
 **11.4 Floating Kua in the Volley**
 
@@ -1834,53 +1834,53 @@ baseline.
 
 **11.6 Practice Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: MINI VOLLEY EXCHANGE**                               |
-|                                                                    |
-| Stand at service line, partner stands opposite                     |
-|                                                                    |
-| Exchange volleys only --- no groundstrokes                         |
-|                                                                    |
-| Focus: sunken shoulder, firm wrist, no arm swing                   |
-|                                                                    |
-| 5 continuous minutes without letting ball drop                     |
-|                                                                    |
-| Target: 20+ consecutive volleys after 2 weeks of practice          |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: MINI VOLLEY EXCHANGE** |
+| --- |
+|  |
+| Stand at service line, partner stands opposite |
+|  |
+| Exchange volleys only --- no groundstrokes |
+|  |
+| Focus: sunken shoulder, firm wrist, no arm swing |
+|  |
+| 5 continuous minutes without letting ball drop |
+|  |
+| Target: 20+ consecutive volleys after 2 weeks of practice |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: APPROACH AND VOLLEY PATTERN**                        |
-|                                                                    |
-| Start at baseline, feeder plays a short ball                       |
-|                                                                    |
-| Hit an approach shot deep to the T-line, advance to net            |
-|                                                                    |
-| Feeder plays a pass or lob, you finish with a volley               |
-|                                                                    |
-| 20 reps × 3 sets                                                   |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 11 SUMMARY**                                          |
-|                                                                    |
-| ✓ Volley = receive force, redirect, return --- never swing to      |
-| block                                                              |
-|                                                                    |
-| ✓ Sunken shoulder = most important volley principle                |
-|                                                                    |
-| ✓ Floating Kua = rapid angle adjustment for any ball direction     |
-|                                                                    |
-| ✓ Priority drills: Mini volley exchange + Approach-and-Volley      |
-| pattern                                                            |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 2: APPROACH AND VOLLEY PATTERN** |
+| --- |
+|  |
+| Start at baseline, feeder plays a short ball |
+|  |
+| Hit an approach shot deep to the T-line, advance to net |
+|  |
+| Feeder plays a pass or lob, you finish with a volley |
+|  |
+| 20 reps × 3 sets |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 12**                                                     |
-|                                                                    |
-| **Footwork --- Court Movement**                                    |
-|                                                                    |
-| *If the Feet Are Wrong, Everything Is Wrong*                       |
-+--------------------------------------------------------------------+
+
+| **📋 CHAPTER 11 SUMMARY** |
+| --- |
+|  |
+| ✓ Volley = receive force, redirect, return --- never swing to |
+| block |
+|  |
+| ✓ Sunken shoulder = most important volley principle |
+|  |
+| ✓ Floating Kua = rapid angle adjustment for any ball direction |
+|  |
+| ✓ Priority drills: Mini volley exchange + Approach-and-Volley |
+| pattern |
+
+
+| **CHAPTER 12** |
+| --- |
+|  |
+| **Footwork --- Court Movement** |
+|  |
+| *If the Feet Are Wrong, Everything Is Wrong* |
+
 
 **12.1 Six Types of Steps in Tennis**
 
@@ -1918,23 +1918,23 @@ baseline. Receiving serve: 2-3m behind baseline. Attacking short ball:
 inside baseline, approaching service line. Defensive: retreat to 3-4m,
 but recover aggressively.
 
-**12.3 No Man\'s Land**
+**12.3 No Man's Land**
 
-+--------------------------------------------------------------------+
-| **⚠️ THE DANGER ZONE --- NO MAN\'S LAND**                          |
-|                                                                    |
-| No Man\'s Land = the zone between the service line and baseline    |
-|                                                                    |
+| **⚠️ THE DANGER ZONE --- NO MAN'S LAND** |
+| --- |
+|  |
+| No Man's Land = the zone between the service line and baseline |
+|  |
 | Balls bounce at an awkward height here --- neither comfortable nor |
-| attackable                                                         |
-|                                                                    |
-| If forced to hit from here: keep moving forward to net             |
-|                                                                    |
-| OR: retreat immediately to baseline                                |
-|                                                                    |
-| NEVER stand in mid-court waiting for the ball --- this loses       |
-| points                                                             |
-+--------------------------------------------------------------------+
+| attackable |
+|  |
+| If forced to hit from here: keep moving forward to net |
+|  |
+| OR: retreat immediately to baseline |
+|  |
+| NEVER stand in mid-court waiting for the ball --- this loses |
+| points |
+
 
 **12.4 Recovery --- The Most Neglected Skill**
 
@@ -1958,43 +1958,43 @@ but recover aggressively.
 
 **12.5 Spider Drill --- Best Footwork Drill for 3.0**
 
-+--------------------------------------------------------------------+
-| **🎾 SPIDER DRILL**                                                |
-|                                                                    |
-| Place 5 balls: 4 at court corners + 1 at center baseline T         |
-|                                                                    |
-| Start at center baseline holding your racket                       |
-|                                                                    |
-| Sprint to each ball, touch it with racket face, return to center   |
-|                                                                    |
-| Complete all 5 balls as fast as possible                           |
-|                                                                    |
-| RECORD YOUR TIME after each run                                    |
-|                                                                    |
-| Goal: improve by 10% over 4 weeks of consistent practice           |
-+--------------------------------------------------------------------+
+| **🎾 SPIDER DRILL** |
+| --- |
+|  |
+| Place 5 balls: 4 at court corners + 1 at center baseline T |
+|  |
+| Start at center baseline holding your racket |
+|  |
+| Sprint to each ball, touch it with racket face, return to center |
+|  |
+| Complete all 5 balls as fast as possible |
+|  |
+| RECORD YOUR TIME after each run |
+|  |
+| Goal: improve by 10% over 4 weeks of consistent practice |
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 12 SUMMARY**                                          |
-|                                                                    |
-| ✓ Six step types: split, shuffle, crossover, sprint, jab, loading  |
-|                                                                    |
-| ✓ Position: aggressive 1-2m behind baseline for neutral rallies    |
-|                                                                    |
-| ✓ No Man\'s Land: advance to net OR retreat --- never stand and    |
-| wait                                                               |
-|                                                                    |
-| ✓ Recovery = most neglected 3.0 skill --- Spider Drill is your     |
-| solution                                                           |
-+--------------------------------------------------------------------+
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 13**                                                     |
-|                                                                    |
-| **Elastic Recovery Footwork**                                      |
-|                                                                    |
-| *Move Like a Rubber Band --- Less Tired, More Explosive*           |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 12 SUMMARY** |
+| --- |
+|  |
+| ✓ Six step types: split, shuffle, crossover, sprint, jab, loading |
+|  |
+| ✓ Position: aggressive 1-2m behind baseline for neutral rallies |
+|  |
+| ✓ No Man's Land: advance to net OR retreat --- never stand and |
+| wait |
+|  |
+| ✓ Recovery = most neglected 3.0 skill --- Spider Drill is your |
+| solution |
+
+
+| **CHAPTER 13** |
+| --- |
+|  |
+| **Elastic Recovery Footwork** |
+|  |
+| *Move Like a Rubber Band --- Less Tired, More Explosive* |
+
 
 **13.1 Elastic Recoil --- The Central Principle**
 
@@ -2058,93 +2058,93 @@ cause of serve-related knee problems at 3.0 level.
 
 **13.4 Elastic Recovery After Different Shots**
 
-+--------------------------------------------------------------------+
-| **🔄 AFTER FOREHAND CROSS-COURT**                                  |
-|                                                                    |
-| 1\. Finish in balance --- do not fall forward                      |
-|                                                                    |
-| 2\. Back foot (right) serves as main elastic rebound point         |
-|                                                                    |
-| 3\. Recoil launches you back toward center                         |
-|                                                                    |
-| 4\. Small shuffle steps complete the return to center              |
-|                                                                    |
-| Target: \<1 second from shot finish to center baseline position    |
-+--------------------------------------------------------------------+
+| **🔄 AFTER FOREHAND CROSS-COURT** |
+| --- |
+|  |
+| 1\. Finish in balance --- do not fall forward |
+|  |
+| 2\. Back foot (right) serves as main elastic rebound point |
+|  |
+| 3\. Recoil launches you back toward center |
+|  |
+| 4\. Small shuffle steps complete the return to center |
+|  |
+| Target: \<1 second from shot finish to center baseline position |
 
-+--------------------------------------------------------------------+
-| **🔄 AFTER DEFENSIVE WIDE BALL**                                   |
-|                                                                    |
-| 1\. Hit with open stance --- no time for closed stance             |
-|                                                                    |
-| 2\. Use outside foot to push back toward center                    |
-|                                                                    |
-| 3\. Cross-step recovery when distance is too great for shuffle     |
-|                                                                    |
+
+| **🔄 AFTER DEFENSIVE WIDE BALL** |
+| --- |
+|  |
+| 1\. Hit with open stance --- no time for closed stance |
+|  |
+| 2\. Use outside foot to push back toward center |
+|  |
+| 3\. Cross-step recovery when distance is too great for shuffle |
+|  |
 | 4\. Recovery starts the INSTANT racket contacts ball --- not after |
-|                                                                    |
-| Critical: never stand watching where a defensive shot goes         |
-+--------------------------------------------------------------------+
+|  |
+| Critical: never stand watching where a defensive shot goes |
+
 
 **13.5 Elastic Recovery Drills**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 1: ELASTIC BOUNCE**                                     |
-|                                                                    |
-| Stand at center baseline, perform split step to load               |
-|                                                                    |
-| Bounce right 2 meters, touch cone with racket                      |
-|                                                                    |
-| IMMEDIATELY recoil back to center --- no pause at all              |
-|                                                                    |
-| Bounce left 2 meters, touch cone, return to center                 |
-|                                                                    |
-| 20 reps × 3 sets, 1-minute rest between                            |
-|                                                                    |
-| CUE: \"The court pushes me back --- I don\'t run back\"            |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 1: ELASTIC BOUNCE** |
+| --- |
+|  |
+| Stand at center baseline, perform split step to load |
+|  |
+| Bounce right 2 meters, touch cone with racket |
+|  |
+| IMMEDIATELY recoil back to center --- no pause at all |
+|  |
+| Bounce left 2 meters, touch cone, return to center |
+|  |
+| 20 reps × 3 sets, 1-minute rest between |
+|  |
+| CUE: \"The court pushes me back --- I don't run back\" |
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL 2: LIVE FEET HABIT**                                    |
-|                                                                    |
-| Between points and during practice pauses, NEVER stand completely  |
-| still                                                              |
-|                                                                    |
-| Always maintain micro-movements: small bounces, weight shifts,     |
-| shuffles                                                           |
-|                                                                    |
-| This is Qing Ling (light agility) in internal martial arts ---     |
-| constant readiness                                                 |
-|                                                                    |
-| Apply this for the ENTIRE practice session, not only during rally  |
-| exchanges                                                          |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 13 SUMMARY**                                          |
-|                                                                    |
-| ✓ Elastic recoil = stored fascial energy reused for recovery ---   |
-| no extra cost                                                      |
-|                                                                    |
-| ✓ Four phases: Elastic Finish → Load → Store → Release             |
-|                                                                    |
-| ✓ Soft landing like a cat = joint protection + faster recovery     |
-|                                                                    |
-| ✓ Live feet = constant micro-movements, never fully static         |
-+--------------------------------------------------------------------+
+| **🎾 DRILL 2: LIVE FEET HABIT** |
+| --- |
+|  |
+| Between points and during practice pauses, NEVER stand completely |
+| still |
+|  |
+| Always maintain micro-movements: small bounces, weight shifts, |
+| shuffles |
+|  |
+| This is Qing Ling (light agility) in internal martial arts --- |
+| constant readiness |
+|  |
+| Apply this for the ENTIRE practice session, not only during rally |
+| exchanges |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 14**                                                     |
-|                                                                    |
-| **Anticipation --- Reading the Game**                              |
-|                                                                    |
-| *Thinking Faster Than the Ball Travels*                            |
-+--------------------------------------------------------------------+
+
+| **📋 CHAPTER 13 SUMMARY** |
+| --- |
+|  |
+| ✓ Elastic recoil = stored fascial energy reused for recovery --- |
+| no extra cost |
+|  |
+| ✓ Four phases: Elastic Finish → Load → Store → Release |
+|  |
+| ✓ Soft landing like a cat = joint protection + faster recovery |
+|  |
+| ✓ Live feet = constant micro-movements, never fully static |
+
+
+| **CHAPTER 14** |
+| --- |
+|  |
+| **Anticipation --- Reading the Game** |
+|  |
+| *Thinking Faster Than the Ball Travels* |
+
 
 **14.1 Anticipation Beats Reaction Speed**
 
 A tennis ball at moderate pace reaches your racket in 0.4-0.6 seconds.
-The brain\'s visual processing and motor command pathway takes
+The brain's visual processing and motor command pathway takes
 approximately 0.2-0.3 seconds. This leaves only 0.1-0.3 seconds for
 physical preparation and shot execution. Pure reaction cannot solve this
 time equation. ANTICIPATION --- knowing where the ball is going before
@@ -2225,45 +2225,45 @@ practice match, mentally review 5 points: what patterns did you notice?
 
 **14.6 Anticipation Drill**
 
-+--------------------------------------------------------------------+
-| **🎾 DRILL: SERVE PREDICTION WITH TRACKING**                       |
-|                                                                    |
-| Partner serves at 50-60% speed                                     |
-|                                                                    |
-| BEFORE ball crosses net: point your hand --- Right, Left, or Body  |
-|                                                                    |
-| Do not actually return the ball --- focus only on prediction       |
-|                                                                    |
-| Record accuracy each session                                       |
-|                                                                    |
-| Targets: Week 1 \~50%, Week 4 \>60%, Week 8 \>70%                  |
-|                                                                    |
-| AFTER reaching 65%: start combining prediction with actual return  |
-+--------------------------------------------------------------------+
+| **🎾 DRILL: SERVE PREDICTION WITH TRACKING** |
+| --- |
+|  |
+| Partner serves at 50-60% speed |
+|  |
+| BEFORE ball crosses net: point your hand --- Right, Left, or Body |
+|  |
+| Do not actually return the ball --- focus only on prediction |
+|  |
+| Record accuracy each session |
+|  |
+| Targets: Week 1 \~50%, Week 4 \>60%, Week 8 \>70% |
+|  |
+| AFTER reaching 65%: start combining prediction with actual return |
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 14 SUMMARY**                                          |
-|                                                                    |
-| ✓ Anticipation is more valuable than raw reaction speed at any     |
-| level                                                              |
-|                                                                    |
+
+| **📋 CHAPTER 14 SUMMARY** |
+| --- |
+|  |
+| ✓ Anticipation is more valuable than raw reaction speed at any |
+| level |
+|  |
 | ✓ Start with probabilistic anticipation --- think in probabilities |
-|                                                                    |
-| ✓ Pattern recognition improves through conscious observation over  |
-| time                                                               |
-|                                                                    |
-| ✓ Single best cue for serve: toss location in space                |
-|                                                                    |
-| ✓ Prediction drill --- track accuracy weekly, target \>70%         |
-+--------------------------------------------------------------------+
+|  |
+| ✓ Pattern recognition improves through conscious observation over |
+| time |
+|  |
+| ✓ Single best cue for serve: toss location in space |
+|  |
+| ✓ Prediction drill --- track accuracy weekly, target \>70% |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 15**                                                     |
-|                                                                    |
-| **Match Psychology**                                               |
-|                                                                    |
-| *Control Your Mind to Control the Match*                           |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 15** |
+| --- |
+|  |
+| **Match Psychology** |
+|  |
+| *Control Your Mind to Control the Match* |
+
 
 **15.1 Psychology Is a Learnable Skill**
 
@@ -2272,7 +2272,7 @@ natural chokers under pressure. This is not true. Competitive psychology
 is a skill that can be learned and developed just like a forehand or a
 serve. Research consistently shows that 90% of double faults and
 unforced errors in tennis have a psychological root cause rather than a
-technical one. Gallwey\'s Inner Game of Tennis (1974) identified two
+technical one. Gallwey's Inner Game of Tennis (1974) identified two
 competing forces: Self 1 (analytical, conscious mind --- the inner
 critic) and Self 2 (natural body intelligence --- where all your trained
 skill lives).
@@ -2297,24 +2297,24 @@ skill lives).
 
 **15.2 Pre-Point Routine --- The Reset Ritual**
 
-+--------------------------------------------------------------------+
-| **💡 BUILD YOUR PRE-POINT ROUTINE (15-20 SECONDS)**                |
-|                                                                    |
-| Step 1: 1-2 slow deep breaths (lower heart rate, activate rest     |
-| system)                                                            |
-|                                                                    |
-| Step 2: 2-3 light bounces on feet (activate elastic readiness)     |
-|                                                                    |
-| Step 3: Choose ONE specific cue word for this point (\"Bounce,\"   |
-| \"Hip first\")                                                     |
-|                                                                    |
-| Step 4: Brief mental picture of the first ball you will hit (2-3   |
-| seconds)                                                           |
-|                                                                    |
-| Step 5: Ready position → split step → full focus                   |
-|                                                                    |
-| Total time: 15-20 seconds --- not shorter, not longer              |
-+--------------------------------------------------------------------+
+| **💡 BUILD YOUR PRE-POINT ROUTINE (15-20 SECONDS)** |
+| --- |
+|  |
+| Step 1: 1-2 slow deep breaths (lower heart rate, activate rest |
+| system) |
+|  |
+| Step 2: 2-3 light bounces on feet (activate elastic readiness) |
+|  |
+| Step 3: Choose ONE specific cue word for this point (\"Bounce,\" |
+| \"Hip first\") |
+|  |
+| Step 4: Brief mental picture of the first ball you will hit (2-3 |
+| seconds) |
+|  |
+| Step 5: Ready position → split step → full focus |
+|  |
+| Total time: 15-20 seconds --- not shorter, not longer |
+
 
 **15.3 The Reset Protocol After Errors**
 
@@ -2361,7 +2361,7 @@ skill lives).
 A cue word is a single word or short phrase you say to yourself to
 instantly redirect your focus. Most effective cue words at 3.0 level:
 
-- \"Bounce\" --- directs full attention to the ball\'s bounce point,
+- \"Bounce\" --- directs full attention to the ball's bounce point,
   eliminates all other thought
 
 - \"Hip first\" --- focuses on the most critical technical element
@@ -2372,30 +2372,30 @@ instantly redirect your focus. Most effective cue words at 3.0 level:
 
 - \"Next\" --- instantly closes the previous error and moves forward
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 15 SUMMARY**                                          |
-|                                                                    |
-| ✓ Psychology is a learnable skill --- not a fixed personality      |
-| trait                                                              |
-|                                                                    |
-| ✓ Gallwey model: quiet Self 1, fully trust Self 2                  |
-|                                                                    |
+| **📋 CHAPTER 15 SUMMARY** |
+| --- |
+|  |
+| ✓ Psychology is a learnable skill --- not a fixed personality |
+| trait |
+|  |
+| ✓ Gallwey model: quiet Self 1, fully trust Self 2 |
+|  |
 | ✓ Pre-point routine (15-20s): breathe → bounce → cue → visualize → |
-| ready                                                              |
-|                                                                    |
-| ✓ Fast reset after errors is more valuable than avoiding errors    |
-|                                                                    |
-| ✓ Pressure points: extend Quiet Eye, breathe deeply, reduce pace   |
-| 10%                                                                |
-+--------------------------------------------------------------------+
+| ready |
+|  |
+| ✓ Fast reset after errors is more valuable than avoiding errors |
+|  |
+| ✓ Pressure points: extend Quiet Eye, breathe deeply, reduce pace |
+| 10% |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 16**                                                     |
-|                                                                    |
-| **Breathing in Tennis**                                            |
-|                                                                    |
-| *Managing Energy and Focus Through the Breath*                     |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 16** |
+| --- |
+|  |
+| **Breathing in Tennis** |
+|  |
+| *Managing Energy and Focus Through the Breath* |
+
 
 **16.1 Breath as the Bridge Between Mind and Body**
 
@@ -2441,19 +2441,19 @@ volume.
 
 **16.3 Breathing and Mingmen --- The Deep Connection**
 
-+--------------------------------------------------------------------+
-| **💡 WHY NERVOUS PLAYERS HIT WORSE**                               |
-|                                                                    |
-| Nervous/anxious → Shallow chest breathing                          |
-|                                                                    |
-| Chest breathing → Mingmen closes and locks                         |
-|                                                                    |
-| Locked Mingmen → Kinetic chain interrupted                         |
-|                                                                    |
-| Broken chain → Ball lacks weight and direction                     |
-|                                                                    |
-| SOLUTION: One deep belly breath immediately when feeling tight     |
-+--------------------------------------------------------------------+
+| **💡 WHY NERVOUS PLAYERS HIT WORSE** |
+| --- |
+|  |
+| Nervous/anxious → Shallow chest breathing |
+|  |
+| Chest breathing → Mingmen closes and locks |
+|  |
+| Locked Mingmen → Kinetic chain interrupted |
+|  |
+| Broken chain → Ball lacks weight and direction |
+|  |
+| SOLUTION: One deep belly breath immediately when feeling tight |
+
 
 **16.4 Diaphragmatic Breathing --- The Foundation Skill**
 
@@ -2463,33 +2463,33 @@ rate under pressure more effectively than chest breathing, improves
 oxygen delivery to working muscles, and maintains kinetic chain
 integrity when stressed.
 
-+--------------------------------------------------------------------+
-| **🫁 DRILL 1: DIAPHRAGMATIC BREATHING BASICS**                     |
-|                                                                    |
-| Lie on your back, place one hand on belly, one on chest            |
-|                                                                    |
-| Inhale: BELLY rises (not chest)                                    |
-|                                                                    |
-| Exhale: belly falls slowly and completely                          |
-|                                                                    |
-| 10 minutes daily --- best done in the morning before practice      |
-|                                                                    |
-| Goal: belly breathing becomes your automatic default in tennis     |
-+--------------------------------------------------------------------+
+| **🫁 DRILL 1: DIAPHRAGMATIC BREATHING BASICS** |
+| --- |
+|  |
+| Lie on your back, place one hand on belly, one on chest |
+|  |
+| Inhale: BELLY rises (not chest) |
+|  |
+| Exhale: belly falls slowly and completely |
+|  |
+| 10 minutes daily --- best done in the morning before practice |
+|  |
+| Goal: belly breathing becomes your automatic default in tennis |
 
-+--------------------------------------------------------------------+
-| **🫁 DRILL 2: CONSCIOUS EXHALE IN RALLY**                          |
-|                                                                    |
-| Rally normally with practice partner                               |
-|                                                                    |
-| Rule: Must exhale audibly at racket-ball contact on every shot     |
-|                                                                    |
-| A soft \"huh\" is sufficient --- no need for loud grunt            |
-|                                                                    |
-| Notice: shots tend to be more consistent when exhaling correctly   |
-|                                                                    |
-| Practice 15 minutes per session for 3 weeks                        |
-+--------------------------------------------------------------------+
+
+| **🫁 DRILL 2: CONSCIOUS EXHALE IN RALLY** |
+| --- |
+|  |
+| Rally normally with practice partner |
+|  |
+| Rule: Must exhale audibly at racket-ball contact on every shot |
+|  |
+| A soft \"huh\" is sufficient --- no need for loud grunt |
+|  |
+| Notice: shots tend to be more consistent when exhaling correctly |
+|  |
+| Practice 15 minutes per session for 3 weeks |
+
 
 **16.5 Heart Rate Management Between Points**
 
@@ -2509,29 +2509,29 @@ integrity when stressed.
                                                 smaller movements
   ---------------------- ---------------------- ----------------------
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 16 SUMMARY**                                          |
-|                                                                    |
-| ✓ Breath bridges mental state and physical performance             |
-|                                                                    |
-| ✓ Exhale at contact: activates core, releases shoulder, improves   |
-| whip                                                               |
-|                                                                    |
-| ✓ Chest breathing = Mingmen locks = broken chain                   |
-|                                                                    |
-| ✓ Belly breathing = Mingmen opens = optimal chain function         |
-|                                                                    |
-| ✓ Drill: Conscious exhale during rally --- 15 minutes per session  |
-| for 3 weeks                                                        |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 16 SUMMARY** |
+| --- |
+|  |
+| ✓ Breath bridges mental state and physical performance |
+|  |
+| ✓ Exhale at contact: activates core, releases shoulder, improves |
+| whip |
+|  |
+| ✓ Chest breathing = Mingmen locks = broken chain |
+|  |
+| ✓ Belly breathing = Mingmen opens = optimal chain function |
+|  |
+| ✓ Drill: Conscious exhale during rally --- 15 minutes per session |
+| for 3 weeks |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 17**                                                     |
-|                                                                    |
-| **Basic Tactics for 3.0**                                          |
-|                                                                    |
-| *Win with Your Mind, Not Just Your Arm*                            |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 17** |
+| --- |
+|  |
+| **Basic Tactics for 3.0** |
+|  |
+| *Win with Your Mind, Not Just Your Arm* |
+
 
 **17.1 The Three Rally Phases**
 
@@ -2558,7 +2558,7 @@ attack.
 **17.2 Depth First --- The Most Important Tactical Principle**
 
 \"Depth first\" means always prioritizing depth over pace. A deep ball
-near the opponent\'s baseline creates more problems than a fast ball
+near the opponent's baseline creates more problems than a fast ball
 that lands short. Deep balls: force the opponent behind the baseline and
 out of their comfort zone, reduce the angles available for their reply,
 carry less risk of net errors than fast flat shots, and accumulate
@@ -2578,7 +2578,7 @@ next ball.
 At 3.0 level, the overwhelming majority of players have a backhand
 significantly weaker than their forehand. The simplest and most
 effective strategy: attack the backhand consistently and patiently. The
-pattern: hit cross-court forehand to opponent\'s backhand → when they
+pattern: hit cross-court forehand to opponent's backhand → when they
 backhand cross-court back → reply forehand cross-court again → repeat.
 No elaborate tactics needed --- patient backhand pressure wins points at
 this level.
@@ -2627,25 +2627,25 @@ this level.
 - Chip and charge: chip return short, advance to net immediately ---
   unexpected pressure
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 17 SUMMARY**                                          |
-|                                                                    |
-| ✓ Three rally phases: Neutral → Attack → Defensive                 |
-|                                                                    |
-| ✓ Depth first: deep ball creates more problems than fast ball      |
-|                                                                    |
-| ✓ Cross-court default: lower net, longer court, lower risk         |
-|                                                                    |
-| ✓ Attack the backhand: simplest and most effective 3.0 strategy    |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 17 SUMMARY** |
+| --- |
+|  |
+| ✓ Three rally phases: Neutral → Attack → Defensive |
+|  |
+| ✓ Depth first: deep ball creates more problems than fast ball |
+|  |
+| ✓ Cross-court default: lower net, longer court, lower risk |
+|  |
+| ✓ Attack the backhand: simplest and most effective 3.0 strategy |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 18**                                                     |
-|                                                                    |
-| **Injury Prevention**                                              |
-|                                                                    |
-| *Playing Long Is the Real Victory*                                 |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 18** |
+| --- |
+|  |
+| **Injury Prevention** |
+|  |
+| *Playing Long Is the Real Victory* |
+
 
 **18.1 Common Tennis Injuries and Their Real Causes**
 
@@ -2676,24 +2676,24 @@ this level.
 
 **18.2 The 10-Minute Warm-Up --- Non-Negotiable**
 
-+--------------------------------------------------------------------+
-| **⏱️ 10-MINUTE WARM-UP --- ALWAYS REQUIRED**                       |
-|                                                                    |
+| **⏱️ 10-MINUTE WARM-UP --- ALWAYS REQUIRED** |
+| --- |
+|  |
 | 2 min: Brisk walking + light jogging (raise core body temperature) |
-|                                                                    |
-| 2 min: Hip circles, shoulder rotations (activate Kua and shoulder  |
-| girdle)                                                            |
-|                                                                    |
-| 2 min: Leg swings, trunk rotations (prime the spiral chain)        |
-|                                                                    |
-| 2 min: Slow shadow swings --- forehand and backhand (motor         |
-| activation)                                                        |
-|                                                                    |
-| 1 min: Mini split steps in place (activate elastic readiness)      |
-|                                                                    |
-| 1 min: Slow rally from close range (eye-hand coordination, feel    |
-| for ball)                                                          |
-+--------------------------------------------------------------------+
+|  |
+| 2 min: Hip circles, shoulder rotations (activate Kua and shoulder |
+| girdle) |
+|  |
+| 2 min: Leg swings, trunk rotations (prime the spiral chain) |
+|  |
+| 2 min: Slow shadow swings --- forehand and backhand (motor |
+| activation) |
+|  |
+| 1 min: Mini split steps in place (activate elastic readiness) |
+|  |
+| 1 min: Slow rally from close range (eye-hand coordination, feel |
+| for ball) |
+
 
 **18.3 Cooldown and Recovery Protocol**
 
@@ -2748,28 +2748,28 @@ during training. Practice creates the stimulus; rest creates the
 adaptation. Never skip recovery --- it is not laziness, it is essential
 physiology.
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 18 SUMMARY**                                          |
-|                                                                    |
+| **📋 CHAPTER 18 SUMMARY** |
+| --- |
+|  |
 | ✓ Most common injuries: tennis elbow and knee strain --- both from |
-| wrong technique                                                    |
-|                                                                    |
+| wrong technique |
+|  |
 | ✓ Best prevention = correct technique (spiral chain, Kua rotation) |
-|                                                                    |
-| ✓ 10-minute warm-up is non-negotiable before every session         |
-|                                                                    |
-| ✓ Cooldown: walking + static stretching + foam rolling             |
-|                                                                    |
-| ✓ Rest = adaptation time --- never skip recovery days              |
-+--------------------------------------------------------------------+
+|  |
+| ✓ 10-minute warm-up is non-negotiable before every session |
+|  |
+| ✓ Cooldown: walking + static stretching + foam rolling |
+|  |
+| ✓ Rest = adaptation time --- never skip recovery days |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 19**                                                     |
-|                                                                    |
-| **Training Plan**                                                  |
-|                                                                    |
-| *A Structured Roadmap for Rapid Improvement*                       |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 19** |
+| --- |
+|  |
+| **Training Plan** |
+|  |
+| *A Structured Roadmap for Rapid Improvement* |
+
 
 **19.1 Why Structure Beats Random Practice**
 
@@ -2799,23 +2799,23 @@ recovery, and a feedback loop to track progress over time.
 
 **19.3 The Ideal 90-Minute Session Structure**
 
-+--------------------------------------------------------------------+
-| **📅 PERFECT 90-MINUTE PRACTICE SESSION**                          |
-|                                                                    |
-| 0-10 min: Warm-up (dynamic movement + shadow swings)               |
-|                                                                    |
-| 10-30 min: Technical work (1-2 specific skills, fed ball drills)   |
-|                                                                    |
+| **📅 PERFECT 90-MINUTE PRACTICE SESSION** |
+| --- |
+|  |
+| 0-10 min: Warm-up (dynamic movement + shadow swings) |
+|  |
+| 10-30 min: Technical work (1-2 specific skills, fed ball drills) |
+|  |
 | 30-55 min: Pattern practice (combination shots, movement patterns) |
-|                                                                    |
-| 55-75 min: Competitive play (sets or games --- apply under         |
-| pressure)                                                          |
-|                                                                    |
-| 75-85 min: Serve practice (targeted serving with specific goals)   |
-|                                                                    |
-| 85-90 min: Cooldown + reflection (what worked? what to improve     |
-| next?)                                                             |
-+--------------------------------------------------------------------+
+|  |
+| 55-75 min: Competitive play (sets or games --- apply under |
+| pressure) |
+|  |
+| 75-85 min: Serve practice (targeted serving with specific goals) |
+|  |
+| 85-90 min: Cooldown + reflection (what worked? what to improve |
+| next?) |
+
 
 **19.4 Three Types of Practice Sessions**
 
@@ -2871,29 +2871,29 @@ recovery, and a feedback loop to track progress over time.
                          1-10 after session     
   ---------------------- ---------------------- ----------------------
 
-+--------------------------------------------------------------------+
-| **📋 CHAPTER 19 SUMMARY**                                          |
-|                                                                    |
-| ✓ Structured plan \> random practice for systematic improvement    |
-|                                                                    |
-| ✓ 12 weeks: Foundation → Development → Integration                 |
-|                                                                    |
-| ✓ 90-minute session: warmup → technical → pattern → competitive →  |
-| serve → cooldown                                                   |
-|                                                                    |
-| ✓ Three session types: technical, competitive, physical            |
-|                                                                    |
-| ✓ Track metrics weekly --- you cannot improve what you do not      |
-| measure                                                            |
-+--------------------------------------------------------------------+
+| **📋 CHAPTER 19 SUMMARY** |
+| --- |
+|  |
+| ✓ Structured plan \> random practice for systematic improvement |
+|  |
+| ✓ 12 weeks: Foundation → Development → Integration |
+|  |
+| ✓ 90-minute session: warmup → technical → pattern → competitive → |
+| serve → cooldown |
+|  |
+| ✓ Three session types: technical, competitive, physical |
+|  |
+| ✓ Track metrics weekly --- you cannot improve what you do not |
+| measure |
 
-+:------------------------------------------------------------------:+
-| **CHAPTER 20**                                                     |
-|                                                                    |
-| **The Roadmap to 3.5**                                             |
-|                                                                    |
-| *Your Next Step in the Tennis Journey*                             |
-+--------------------------------------------------------------------+
+
+| **CHAPTER 20** |
+| --- |
+|  |
+| **The Roadmap to 3.5** |
+|  |
+| *Your Next Step in the Tennis Journey* |
+
 
 **20.1 3.0 to 3.5 --- What Does It Actually Take?**
 
@@ -2985,60 +2985,60 @@ under pressure.
 
 **20.7 The 3.5 Checklist**
 
-+--------------------------------------------------------------------+
-| **🎯 3.5 CHECKLIST --- CHECK EACH WHEN ACHIEVED**                  |
-|                                                                    |
-| □ Spiral chain: feel the kinetic chain clearly in forehand and     |
-| serve                                                              |
-|                                                                    |
-| □ Kua & Mingmen: no back or shoulder pain after 45 minutes of      |
-| serve practice                                                     |
-|                                                                    |
-| □ Split step: fully automatic --- not a conscious thought before   |
-| each opponent shot                                                 |
-|                                                                    |
-| □ Quiet Eye: fixating at bounce point has become natural habit     |
-|                                                                    |
-| □ Forehand: 70%+ balls landing deep in cross-court rally of 15     |
-| balls                                                              |
-|                                                                    |
-| □ Backhand: reliable --- not an obvious weakness opponents target  |
-|                                                                    |
-| □ Serve: 70%+ first serve in with two-zone placement control       |
-|                                                                    |
-| □ Tactics: specific strategic intention before every single point  |
-|                                                                    |
-| □ Mental game: pre-point routine and fast post-error reset are     |
-| habits                                                             |
-|                                                                    |
-| □ Recovery: elastic recovery after shots is becoming natural and   |
-| automatic                                                          |
-+--------------------------------------------------------------------+
+| **🎯 3.5 CHECKLIST --- CHECK EACH WHEN ACHIEVED** |
+| --- |
+|  |
+| □ Spiral chain: feel the kinetic chain clearly in forehand and |
+| serve |
+|  |
+| □ Kua & Mingmen: no back or shoulder pain after 45 minutes of |
+| serve practice |
+|  |
+| □ Split step: fully automatic --- not a conscious thought before |
+| each opponent shot |
+|  |
+| □ Quiet Eye: fixating at bounce point has become natural habit |
+|  |
+| □ Forehand: 70%+ balls landing deep in cross-court rally of 15 |
+| balls |
+|  |
+| □ Backhand: reliable --- not an obvious weakness opponents target |
+|  |
+| □ Serve: 70%+ first serve in with two-zone placement control |
+|  |
+| □ Tactics: specific strategic intention before every single point |
+|  |
+| □ Mental game: pre-point routine and fast post-error reset are |
+| habits |
+|  |
+| □ Recovery: elastic recovery after shots is becoming natural and |
+| automatic |
 
-+--------------------------------------------------------------------+
-| **📋 COMPLETE MANUAL SUMMARY --- ALL 20 CHAPTERS**                 |
-|                                                                    |
-| ═══ THE COMPLETE TENNIS HANDBOOK --- 3.0 PLAYER EDITION ═══        |
-|                                                                    |
-| Chapters 1-3: Foundations --- Kinetic Chain, Spiral Chain, Kua,    |
-| Mingmen                                                            |
-|                                                                    |
-| Chapters 4-5: Movement --- Split Step, Weight Transfer             |
-|                                                                    |
-| Chapters 6-7: Vision --- Visual System, Quiet Eye                  |
-|                                                                    |
-| Chapters 8-11: Technique --- Forehand, Backhand, Serve, Volley     |
-|                                                                    |
-| Chapters 12-13: Footwork --- Court Movement, Elastic Recovery      |
-|                                                                    |
-| Chapters 14-15: Mindset --- Anticipation, Match Psychology         |
-|                                                                    |
-| Chapter 16: Breathing --- Breath Mechanics in Tennis               |
-|                                                                    |
-| Chapters 17-19: Application --- Tactics, Injury Prevention,        |
-| Training Plan                                                      |
-|                                                                    |
-| Chapter 20: The Roadmap --- From 3.0 to 3.5                        |
-|                                                                    |
-| \"Tennis is a lifelong journey --- enjoy every single point.\"     |
-+--------------------------------------------------------------------+
+
+| **📋 COMPLETE MANUAL SUMMARY --- ALL 20 CHAPTERS** |
+| --- |
+|  |
+| ═══ THE COMPLETE TENNIS HANDBOOK --- 3.0 PLAYER EDITION ═══ |
+|  |
+| Chapters 1-3: Foundations --- Kinetic Chain, Spiral Chain, Kua, |
+| Mingmen |
+|  |
+| Chapters 4-5: Movement --- Split Step, Weight Transfer |
+|  |
+| Chapters 6-7: Vision --- Visual System, Quiet Eye |
+|  |
+| Chapters 8-11: Technique --- Forehand, Backhand, Serve, Volley |
+|  |
+| Chapters 12-13: Footwork --- Court Movement, Elastic Recovery |
+|  |
+| Chapters 14-15: Mindset --- Anticipation, Match Psychology |
+|  |
+| Chapter 16: Breathing --- Breath Mechanics in Tennis |
+|  |
+| Chapters 17-19: Application --- Tactics, Injury Prevention, |
+| Training Plan |
+|  |
+| Chapter 20: The Roadmap --- From 3.0 to 3.5 |
+|  |
+| \"Tennis is a lifelong journey --- enjoy every single point.\" |
+

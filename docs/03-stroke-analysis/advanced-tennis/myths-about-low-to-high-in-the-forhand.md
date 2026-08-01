@@ -14,8 +14,7 @@ show?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myths-about-low-to-high-in-the-forhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_myths-about-low-to-high-in-the-forhand/media/image1.webp)
 
 **Can pro players actually hit topspin if the hand moves forward from
 above the ball?**
@@ -35,22 +34,21 @@ articles, the hand itself is at most a few inches below the ball at the
 start the forward swing.
 
 The High Speed Archives show this, with many, many forehand examples
-with the hand slightly below the ball. But that\'s not all when you
+with the hand slightly below the ball. But that's not all when you
 start to look closely. There are also numerous examples where the hand
 can start forward at what appears to be the same height as the ball.
 Stranger still, the hand can also start at a height slightly above the
 ball\--and still produce a heavy topspin forehand. Yes, above!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_myths-about-low-to-high-in-the-forhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_myths-about-low-to-high-in-the-forhand/media/image2.webp)
 
 **From contact the racket tip can turn over as much as 180 degrees in
 the so-called windshield wiper.**
 
 How could any player hit topspin, especially the stratospheric levels of
 players like Nadal, Federer, and Djokovic, with the hand above the ball?
-There is an answer. Let\'s take a close look at the action of the
+There is an answer. Let's take a close look at the action of the
 hitting arm at the start of the forward swing, and specifically the
 rotation of the hand, arm, and racket before, during and after the hit.
 
@@ -67,7 +65,7 @@ the racket tip can turn over as much as 180 degrees.
 
 Think of the racket tip pointing at one sideline at contact and then in
 about a tenth of a second, turning all the way over till it points at
-the other sideline, basically tracing a half circle. That\'s the wiper
+the other sideline, basically tracing a half circle. That's the wiper
 finish.
 
 But the amount of wiper rotation in the followthrough can also be less.
@@ -77,13 +75,12 @@ variable, which is one factor that accounts for the range of spin the
 top players produce.
 
 ![A person playing tennis Description automatically
-generated](media_myths-about-low-to-high-in-the-forhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_myths-about-low-to-high-in-the-forhand/media/image3.webp)
 
 **On most pro forehands there is significant backward hand and arm
 rotation in the backswing.**
 
-I\'ve called this wiper action \"hand and arm rotation,\" ([Click
+I've called this wiper action \"hand and arm rotation,\" ([Click
 Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-The%20Forward%20Swing%20Hand%20and%20Arm%20Rotation.docx))
 because it stems from the upper arm and the shoulder. The wiper is not
 from the wrist or the forearm, despite what you might have heard.
@@ -118,8 +115,7 @@ head is already moving upward through the rotation of the hand and arm
 from the shoulder.
 
 ![A person playing tennis Description automatically
-generated](media_myths-about-low-to-high-in-the-forhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_myths-about-low-to-high-in-the-forhand/media/image4.webp)
 
 **Watch the extreme backwards until the racket tip is almost down at the
 court. Then watch how that increases the wiper rotation through the
@@ -137,7 +133,7 @@ to 3000rpm of spin and more on forehand drives that can reach 90 or
 100mph.]{.mark}]{.underline}***
 
 How does all this relate with the traditional idea of \"brushing\" up
-the back of the ball for topspin? There isn\'t a contradiction. The two
+the back of the ball for topspin? There isn't a contradiction. The two
 actually work together.
 
 ***[[The brushing action is different than the wiper rotation. The
@@ -156,8 +152,7 @@ speed and complexity of the strokes means critical moments are invisible
 to the naked eye.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_myths-about-low-to-high-in-the-forhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_myths-about-low-to-high-in-the-forhand/media/image5.webp)
 
 **In addition to the wiper rotation, the hand and arm lift from the
 shoulder\--the traditional idea of brushing the ball for topspin.**
@@ -172,7 +167,7 @@ topspin by raising his hand above ball level?
 
 I know there are at this moment subscribers out there trying! But I
 think the real take away is simply learning how to experiment with a
-fuller wiper. It\'s about trying out the backward rotation not the hand
+fuller wiper. It's about trying out the backward rotation not the hand
 height.
 
 ***[Try hitting some forehands from the turn position with the racket
@@ -181,7 +176,7 @@ the ground before starting the forward swing. Make sure this rotation is
 unitary and keeps the shape of the hitting arm position in
 tact.]{.mark}***
 
-But don\'t worry about the height of the hand, much less try to place it
+But don't worry about the height of the hand, much less try to place it
 above the ball. The hand height will take care of itself. Swing forward
 from this backward rotated position. Now complete the wiper finish in
 the usual way by turning the head over until it points part way or all
@@ -197,22 +192,21 @@ you giving up obvious depth or speed?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myths-about-low-to-high-in-the-forhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_myths-about-low-to-high-in-the-forhand/media/image6.webp)
 
 **A significant percentage of pro forehands are hit with minimal
 backward rotation.**
 
-***[It\'s a pro element. But remember it\'s still an extreme element and
+***[It's a pro element. But remember it's still an extreme element and
 is used variably by the top players. A large percentage of pro forehands
 are still hit with minimal backward wiper rotation.]{.mark}***
 
-It\'s fun to understand and experiment. And the full wiper can be very,
+It's fun to understand and experiment. And the full wiper can be very,
 very effective on many balls\--high and heavy, short low and wide. Or to
 hit deep, high bouncers.
 
 ***[[Just remember that the extension of the swing is what creates a
-real power drive. That hasn\'t changed in pro tennis and it hasn\'t
+real power drive. That hasn't changed in pro tennis and it hasn't
 changed at any other level.]{.mark}]{.underline}***
 
 In general when I see students in person this is one of the elements
@@ -223,8 +217,7 @@ more!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_myths-about-low-to-high-in-the-forhand/media/image7.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_myths-about-low-to-high-in-the-forhand/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

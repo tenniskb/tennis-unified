@@ -3,8 +3,7 @@
 **John Yandell, David Whiteside, and Bruce Elliott**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image1.webp)
 
 **What are the real differences in the \"types\" of spin serves?**
 
@@ -28,16 +27,15 @@ The study was a collaboration between Japanese researcher Prof. Shinji
 Sakurai, and two Australian researchers, Dr. Machar Reid, and Prof.
 Bruce Elliott. ([Click
 Here](../Biomechanics/The%20Power%20Serve%20-%20Part%201.docx) to read
-Bruce\'s articles on the Power Serve.) This article is an effort to
+Bruce's articles on the Power Serve.) This article is an effort to
 translate this important academic work into language any tennis player
-can understand, written by John Yandell, Bruce Elliott, and Bruce\'s
+can understand, written by John Yandell, Bruce Elliott, and Bruce's
 former student David Whiteside, who also did the awesome diagrams
 demonstrating the findings.
 
 ![A picture containing ball, hitting, player, green Description
 automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image2.webp)
 
 **The study measured speed and spin with precision in elite serving for
 the first time.**
@@ -62,11 +60,10 @@ measurements were all within the range of serving speeds seen on the
 tour, if toward the lower end.
 
 ![A picture containing circle Description automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image3.jpg){width="2.162097550306212in"
-height="3.064000437445319in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image3.jpg)
 
 **A slice serves spins at an angle just slightly than horizontal, about
-8 o\'clock to 2 o\'clock.**
+8 o'clock to 2 o'clock.**
 
 As you would also expect, there was an inverse relationship between
 speed and the total amount of spin. The flat serves had an average spin
@@ -89,12 +86,11 @@ angle of the spin. Look how close the three variations really are!
 
 **[[The slice serve is the closest to spinning with pure
 sidespin.]{.underline}]{.mark}** Pure spin would be horizontal, with the
-arrow from 9 o\'clock to 3 o\'clock. The actual direction of the spin is
-slightly only steeper than this from about 8 o\'clock to 2 o\'clock.
+arrow from 9 o'clock to 3 o'clock. The actual direction of the spin is
+slightly only steeper than this from about 8 o'clock to 2 o'clock.
 
 ![A picture containing text, clipart Description automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image4.jpg){width="2.4305555555555554in"
-height="3.5416666666666665in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image4.jpg)
 
 **A kick serve spins on a angle only slightly steeper than a slice,
 about 7:30 to 1:30.**
@@ -107,7 +103,7 @@ much steeper than the slice.
 
 **[[The direction of spin in the flat serve is somewhere in between
 other two, steeper than the slice serve, but not as steep as the
-kick.]{.underline}]{.mark}** But the difference here is so small it\'s
+kick.]{.underline}]{.mark}** But the difference here is so small it's
 hard to even put an exact clock time on them.
 
 Put another way, the study shows that the total difference in the axis
@@ -129,10 +125,9 @@ Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_s
 to see that article on Sampras and Rusedski.)
 
 ![A picture containing text, clipart Description automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image5.jpg){width="2.4305555555555554in"
-height="3.4722222222222223in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image5.jpg)
 
-**The so called \"flat\' serve spins on a angle somewhere between slice
+**The so called \"flat' serve spins on a angle somewhere between slice
 and kick.**
 
 How does all this relate to conventional wisdom in tennis? A common
@@ -155,7 +150,7 @@ outward action to create the three variations.]{.mark}]{.underline}**
 
 Anyone who has faced high level servers knows that despite the
 relatively small technical variations, there are clears difference in
-the three deliveries from the returner\'s perspective in terms of the
+the three deliveries from the returner's perspective in terms of the
 way they move through the air and how they move they bounce off the
 court.
 
@@ -167,8 +162,7 @@ players.
 
 ![A picture containing text, tennis, ball, racket Description
 automatically
-generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image6.webp)
 
 **Small swing differences\--big effects.**
 
@@ -184,18 +178,17 @@ what about specific differences between first and second serves?
 
 Hopefully this is not the last research on the subject. Who knows maybe
 we can partner and try some of the same or similar protocols with
-players in actual pro play. There is still a huge amount we don\'t know
+players in actual pro play. There is still a huge amount we don't know
 about this game we love.
 
-It\'s great to work with and present work from the accomplished
+It's great to work with and present work from the accomplished
 scientists who are exploring it.
 
 ------------------------------------------------------------------------
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image7.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed
@@ -213,8 +206,7 @@ School is located in San Francisco, California.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Bruce Elliott is a leading figure in the history of ![A person wearing glasses Description automatically generated with medium
-  quantitative biomechanical research. He has         confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image8.gif){width="1.5in"
-  published over 130 articles, including many of the  height="1.5in"}
+  quantitative biomechanical research. He has         confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image8.gif)
   earliest and most important quantitative studies in 
   tennis. He was a major contributor to World-Class   
   Tennis Technique and the ITF book Biomechanics of   
@@ -232,16 +224,15 @@ School is located in San Francisco, California.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a football jersey Description automatically generated with low                                                                                                                         Dr. David Whiteside is currently a research fellow
-  confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image9.jpg){width="1.7361111111111112in"   in The University of Michigan\'s School of
-  height="1.7916666666666667in"}                                                                                                                                                                            Kinesiology. He has published multiple journal
+  confidence](media_spin-rates-and-axis-of-rotation-in-elite-serving/media/image9.jpg)                                                                                                                                                                            Kinesiology. He has published multiple journal
                                                                                                                                                                                                             articles on biomechanics and skill acquisition in
                                                                                                                                                                                                             tennis, with a particular focus on the serve. He
                                                                                                                                                                                                             received a PhD from the University of Western
                                                                                                                                                                                                             Australia for his research on the biomechanical
                                                                                                                                                                                                             development of the female serve. He has worked
-                                                                                                                                                                                                            closely with Tennis Australia\'s Athlete
+                                                                                                                                                                                                            closely with Tennis Australia's Athlete
                                                                                                                                                                                                             Development Program and provided performance
-                                                                                                                                                                                                            evaluations for some of Australia\'s top junior and
+                                                                                                                                                                                                            evaluations for some of Australia's top junior and
                                                                                                                                                                                                             tour players, including 2011 US Open Champion Sam
                                                                                                                                                                                                             Stosur.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------

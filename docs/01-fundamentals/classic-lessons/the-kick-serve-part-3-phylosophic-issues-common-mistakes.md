@@ -4,8 +4,7 @@
 
 ![A group of cones on a tennis court Description automatically generated
 with low
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image1.webp)
 
 **A complete competitive server can hit all three variations of the
 kick.**
@@ -23,13 +22,12 @@ Now, in this third article, I want to further discuss some important
 questions regarding this controversial serve and outline what I see as
 the 5 most common mistakes in teaching and hitting the kick.
 
-Finally, in the upcoming in the fourth article, I\'ll present the last
+Finally, in the upcoming in the fourth article, I'll present the last
 critical component in my system, the prehabilitation and strengthening
 exercises I use with my students everyday at my academy.
 
 ![A person playing tennis Description automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image2.webp)
 
 **There are plenty of \"kick\" issues worthy of discussion.**
 
@@ -60,16 +58,15 @@ learned safely and efficiently following my system. However, there seems
 to be a lot of disagreement in the coaching community about the safety
 of this serve. Many pros fear teaching the kick for liability reasons or
 because they have become convinced that the serve will ruin their
-students\' backs or shoulders.]{.underline}]{.mark}***
+students' backs or shoulders.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image3.webp)
 
 **Is there definitive research regarding injuries and the kick?**
 
-I think this fear of the kick is misguided. Perhaps it\'s even one of
+I think this fear of the kick is misguided. Perhaps it's even one of
 the great myths in modern tennis teaching. Where is the definitive
 research proving that the kick will ruin the back and shoulder? Has
 there really been enough evidence to condemn teaching this serve, or is
@@ -82,10 +79,10 @@ supports the opposite conclusion. This serve can be used and taught
 safely, even at a young age.
 
 I was heartened in a recent conversation with Pat Harrison at the US
-Open, whose boys Ryan and Christian, are some of America\'s brightest
+Open, whose boys Ryan and Christian, are some of America's brightest
 prospects, when he admitted to me that he taught them the kick serve
 very young\--with a back arch\--at ages 7-10. But it takes a brave coach
-in today\'s current tennis philosophical and political climate to teach
+in today's current tennis philosophical and political climate to teach
 the kick this very contrarian way.
 
 ### Research?
@@ -96,8 +93,7 @@ players ask.
 
 ![A person swings a tennis racket Description automatically generated
 with medium
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image4.webp)
 
 **What is the right age to teach the kick and with what supplemental
 training?**
@@ -121,8 +117,7 @@ muscles?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image5.webp)
 
 **No doubt you find pronounced back arch in most pro kick serves.**
 
@@ -134,14 +129,14 @@ kick shorten the lifetime career of a server?
 Now think of how you would answer these questions. More importantly, ask
 yourself the basis for your answers. Is it research or study of video?
 Is it experience and observation? Or is it what someone may have told
-you, that is, rumor? Tennis pros are loathe to admit that they don\'t
+you, that is, rumor? Tennis pros are loathe to admit that they don't
 know the definitive answer to every tennis question, but the best
-coaches know both what they know, what they don\'t know, and what is
+coaches know both what they know, what they don't know, and what is
 debatable.
 
 I think it is important for coaches to be honest with students and
 clients. Tell them the truth. \"The jury is still out on this or that.\"
-Don\'t become dogmatic on a subject that you are not sure of to mask
+Don't become dogmatic on a subject that you are not sure of to mask
 your insecurity.
 
 ### To Arch?
@@ -154,8 +149,7 @@ the kick.
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image6.webp)
 
 **The question is whether the back arch is stressful.**
 
@@ -184,26 +178,25 @@ the same approach should apply to teaching the extreme kick.
 
 As I have argued, the ability to hit this serve is integral to high
 performance. Not teaching it\--including the back arch\--is a disservice
-to the student who aspires to play at the highest level. If you don\'t
+to the student who aspires to play at the highest level. If you don't
 teach a twist with a back arch, I believe you are taking away a
 performance edge.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image7.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image7.webp)
 
 **I believe the back arch\--and all the kick elements\--can be taught
 safely.**
 
 I posit that without a back arch, the maximum angle and sidespin on the
-kick cannot be achieved, limiting the player\'s tactical effectiveness.
+kick cannot be achieved, limiting the player's tactical effectiveness.
 This may be a debatable point, but my approach is based on this
 postulate.
 
 ***[Simply put: more back arch equals more angle (specifically serving
 to the ad court) and more sidespin on the ball, which allows a player to
 strategically pull his opponent off the court - a critical advantage in
-today\'s pro game.]{.mark}***
+today's pro game.]{.mark}***
 
 ### Sooner is Better?
 
@@ -234,11 +227,10 @@ playing for fun.
 One other critical issue that bears on injury is how the kick is often
 hit and/or taught. In my opinion, there are 5 common kick serve mistakes
 that not only reduce the effectiveness of the serve, but that are
-possible causes of injury. So let\'s go over them now.
+possible causes of injury. So let's go over them now.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image8.webp)
 
 **A common error is to bend backwards at the waist\--rather than arching
 the back.**
@@ -254,20 +246,19 @@ back.]{.underline}]{.mark}***
 
 ***[[The correct way to bend the back is to push the chest out and pull
 up from the rib cage, arching the more supple middle
-back.]{.underline}]{.mark}*** We\'ll go into this in more detail in the
+back.]{.underline}]{.mark}*** We'll go into this in more detail in the
 prehabilitation exercises in the next article. At my academy players
 actually work on this exact move as a variation of a yoga stretch in our
 system.
 
-![](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image9.webp)
 
 **Another tendency is to move the contact back too far, behind the edge
 of the body.**
 
 ### Error 2: Tossing Behind
 
-***[[It\'s true that the toss for the kick serve is more to the left,
+***[[It's true that the toss for the kick serve is more to the left,
 and also, possibly slightly further back, compared to flatter
 variations.]{.underline}]{.mark}*** ***[[But too many players exaggerate
 this. In an attempt to get more spin, they move the contact point back
@@ -289,10 +280,9 @@ kinetic chain.
 
 ![A person wearing a baseball hat Description automatically generated
 with medium
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image10.webp)
 
-**Don\'t try to force the back to snap artificially before the toss.**
+**Don't try to force the back to snap artificially before the toss.**
 
 ### Error 3: Early Back Snap
 
@@ -305,13 +295,12 @@ happening before the toss.
 ***[[If you look at the pro examples, however, the arching starts later,
 well after the release of the ball. This early back snap is a forced
 movement, as compared to the natural arching in a well developed kick.
-It\'s painful to observe and in my view puts additional unnatural
+It's painful to observe and in my view puts additional unnatural
 pressure on back, pressure that could increase the risk of
 injury.]{.underline}]{.mark}***
 
 ![A picture containing player, person, hitting Description automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image11.webp)
 
 **In the attempt to get more spin some players actually toss to the
 opposite side of the body.**
@@ -321,10 +310,10 @@ opposite side of the body.**
 ***[[One tendency on the toss is to place the ball behind the edge of
 the body. Another is to toss too far to the left. In a worst case
 scenario, these two factors can be combined.]{.underline}]{.mark}***
-It\'s true that some of the great servers pull the ball quite far to the
+It's true that some of the great servers pull the ball quite far to the
 left. Pete Sampras routinely made contact over the center of his head or
 even further left. But this is the most extreme case with an elite
-server and Grand Slam champion. Meanwhile, I\'ve seen lower level junior
+server and Grand Slam champion. Meanwhile, I've seen lower level junior
 and pro players actually making contact further to the left than Pete,
 in fact on the actual left side of the body.
 
@@ -337,40 +326,38 @@ injury.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image12.webp)
 
-**Don\'t force the extreme right side finish.**
+**Don't force the extreme right side finish.**
 
 ### Error 5: Abbreviated Right Finish
 
 ***[[The final error I commonly see is abbreviating the finish on the
 right.]{.underline}]{.mark}*** And, speaking of Pete Sampras, yes you
 can find examples of him not finishing all the way across the body. But
-it all cases, his motion appears totally relaxed. That\'s not what I see
+it all cases, his motion appears totally relaxed. That's not what I see
 when I observe this error.
 
 [[The player exaggerates the right finish and appears to force the
 racket to stay on the right side, and then stop abruptly. We know from
 biomechanics that one key to any stroke is a smooth and natural
 deceleration of the racket head.]{.underline}]{.mark} Forcing the right
-finish doesn\'t accomplish that. In my opinion, this puts unnecessary
+finish doesn't accomplish that. In my opinion, this puts unnecessary
 stress on the rotator cuff. ***[[It is preferable to release the serving
 arm over to the left pocket after swinging all the way
 out.]{.mark}]{.underline}*** If on occasion the hand tends to stay more
-right as a consequence of the swing path, that\'s fine, but it should
+right as a consequence of the swing path, that's fine, but it should
 happen on its own and not from a mechanical attempt to imitate Pete.
 
-So that\'s it for this installment on our journey exploring the kick
-serve. It\'s been great to hear from so many Tennisplayer subscribers
+So that's it for this installment on our journey exploring the kick
+serve. It's been great to hear from so many Tennisplayer subscribers
 about the articles, so keep the comments coming in the Forum, please.
-Next we\'ll see the awesome series of training exercises that complete
+Next we'll see the awesome series of training exercises that complete
 my kick system and give you the full training approach you need to
 develop this awesome serve. Stay tuned.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image13.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image13.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -387,14 +374,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [ProdigyMaker.com](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [CLTA.teachable.com](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image14.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image14.jpeg)
 
 **The Secrets of Spanish Tennis**
 

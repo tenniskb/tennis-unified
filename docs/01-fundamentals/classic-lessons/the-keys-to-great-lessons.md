@@ -8,23 +8,22 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-keys-to-great-lessons/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-keys-to-great-lessons/media/image1.webp)
 
 **Have you pondered what you should look for in a teaching pro?**
 
-What should you look for in a teaching pro? It\'s a question not enough
+What should you look for in a teaching pro? It's a question not enough
 students ask and it can be the key to your lesson experience and
 development as a player.
 
-In the two decades that I\'ve been a tennis teaching professional and
+In the two decades that I've been a tennis teaching professional and
 coach I have worked with and learned from some truly great teachers and
 coaches. Some great coaches are well known on the national and
 international levels, others fly under the public radar yet do
 incredible work.
 
-I\'ve also been a tester, certifying those who wish to join the USPTA.
-In that time, I\'ve seen over 700 applicants and personally mentored
+I've also been a tester, certifying those who wish to join the USPTA.
+In that time, I've seen over 700 applicants and personally mentored
 over 40 professionals.
 
 Every teaching pro, as with every person, is different and has his own
@@ -39,8 +38,7 @@ your strokes and game style. They ask if you are a singles or doubles
 player.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-keys-to-great-lessons/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image2.webp)
 
 **When good pros meet new students, they ask questions.**
 
@@ -53,28 +51,27 @@ shots? How do you feel about the net?
 Too many young teaching professionals paralyze students by sharing every
 piece of information they know. But understand that if you are a good
 teacher you will develop long term relationships and share you knowledge
-over the course of the student\'s technical development.
+over the course of the student's technical development.
 
 I remember an applicant I tested who was an absolute tennis fanatic. He
 had a real zest for the virtues of the sport. During his 30 minute group
 lesson, he became so wrapped up in his own knowledge that that he spent
 29 of the 30 allotted minutes talking.
 
-Identifying the root cause of a player\'s strokes, correcting them and
+Identifying the root cause of a player's strokes, correcting them and
 allowing students to have the most effective stroke possible is what a
 great teacher lives for. The tragedy that happens on many teaching
 courts is that inexperienced teaching professionals confuse the true
 cause of stroke errors with the symptoms.
 
 ![A person playing tennis Description automatically
-generated](media_the-keys-to-great-lessons/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image3.webp)
 
-**Observation: Jason\'s shoulder turn and Chip\'s recovery step.**
+**Observation: Jason's shoulder turn and Chip's recovery step.**
 
-Player\'s strokes can have a myriad of problems. I\'ve actually seen
+Player's strokes can have a myriad of problems. I've actually seen
 teachers get physically ill contemplating how to approach a stroke with
-a hornet\'s nest of technical dilemmas.
+a hornet's nest of technical dilemmas.
 
 Do you seem to go round and round in lessons with a large number of
 \"corrections\" that sound like they make sense, but none of which
@@ -87,7 +84,7 @@ you are receiving seems too complicated and confusing, it probably is.
 
 Recently John Yandell filmed parts of two lessons I taught to students
 at the Boca Oaks where I am the head professional. When I looked at
-Jason\'s forehand, I observed that his shoulder turn, although good, was
+Jason's forehand, I observed that his shoulder turn, although good, was
 not complete and lacked a complete left arm stretch.
 
 Chip had a one-handed backhand that had many great technical elements,
@@ -102,8 +99,7 @@ kinesthetically.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-keys-to-great-lessons/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-keys-to-great-lessons/media/image4.webp)
 
 **Working on the same side of the net to give the student direct,
 non-verbal input.**
@@ -127,22 +123,21 @@ A common problem for players is taking a lesson that involves simple
 basket feeds from the net, feeling improvement, but not being able to
 translate it into actual play away from the lesson court.
 
-It\'s important that the student have at least some significant success
+It's important that the student have at least some significant success
 mastering changes in basic feeding. But the teacher should also help the
 student understand that fully integrating change is almost never
 immediate. Great teachers help the student feel positive about
 incremental change in the right direction.
 
 ![A person playing tennis Description automatically
-generated](media_the-keys-to-great-lessons/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image5.webp)
 
-**It\'s important that students have initial success in implementing
+**It's important that students have initial success in implementing
 change.**
 
 Good pros work overtime to match the degree of difficulty to the
 improvement of the student. Another important aspect to watch for: does
-the pro begin to integrate technical improvement with the player\'s
+the pro begin to integrate technical improvement with the player's
 tactical style, showing him how to actually use the stroke in matches?
 
 Throughout this process a skilled teaching pro is careful not to
@@ -170,8 +165,7 @@ enjoyable.
 also a critical question. Or is it?**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-keys-to-great-lessons/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image6.webp)
 
 **The pro should also work on integrating new technique into tactics.**
 
@@ -187,7 +181,7 @@ of those infatuated with the new school approach.
 players\" say hard core traditionalists.
 
 Both sides of the debate can ignore something more fundamental. **[[The
-reality is that students can\'t master classic or modern strokes if they
+reality is that students can't master classic or modern strokes if they
 do not have a proper technical foundation that sets up the progressive
 development.]{.mark}]{.underline}**
 
@@ -200,8 +194,7 @@ swings and styles.
 
 ![A picture containing person, outdoor, sport, athletic game Description
 automatically
-generated](media_the-keys-to-great-lessons/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image7.webp)
 
 **What is classical, what is modern, and what is timeless?**
 
@@ -211,20 +204,20 @@ modern game is that these elements can be overlooked in the emphasis on
 extreme technical aspects.]{.mark}]{.underline}**
 
 Look at the preparation and balance in the set ups on Federer forehand
-or Djokovic\'s backhand. These shots may have \"classical\" and
+or Djokovic's backhand. These shots may have \"classical\" and
 \"modern\" elements to them, but at the end of the day, the core
 elements are timeless, and that makes them great.
 
-**[[It\'s dangerous to try to put a fancy roof on a house if the
+**[[It's dangerous to try to put a fancy roof on a house if the
 foundation lacks structural integrity.]{.underline}]{.mark}**
-**[[That\'s where the role of the right tennis teaching professional is
+**[[That's where the role of the right tennis teaching professional is
 critical. Look for a pro that helps you establish fundamentals you can
 build on.]{.underline}]{.mark}**
 
 **Modern Tennis and Juniors**
 
 The same can be said of junior players. The proper fundamentals never go
-out of style. But rigidly modeling a junior\'s game on a single player
+out of style. But rigidly modeling a junior's game on a single player
 is a mistake. The game evolves because the players themselves evolve.
 What looks totally modern today may not when a player matures in ten
 years.
@@ -248,8 +241,7 @@ rhythm and naturally increase their intensity level.
 
 ![A picture containing road, athletic game, sport, tennis Description
 automatically
-generated](media_the-keys-to-great-lessons/media/image8.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-keys-to-great-lessons/media/image8.webp)
 
 **Set realistic target sizes that create success.**
 
@@ -277,18 +269,18 @@ them away from the teaching court.**
 
 **Court Presence**
 
-One of the clear-cut signs of an experienced, knowledgeable and we\'ll
+One of the clear-cut signs of an experienced, knowledgeable and we'll
 trained teaching professional and coach is the way they move around the
 court. **[[They have strong court presence.]{.underline}]{.mark}**
 
 Experienced teachers keep the teaching basket nearby like an oxygen
-tank, and then effortlessly move it away when it\'s time to rally. It\'s
+tank, and then effortlessly move it away when it's time to rally. It's
 a small but telling detail.
 
 Presence always plays a role when it comes to verbal and nonverbal
 communication skills. Does the teaching professional project his voice?
 I know it will be an issue when I can hear the professional on the next
-court louder and clearer than the court I\'m grading on.
+court louder and clearer than the court I'm grading on.
 
 How about inflection? Does this teacher raise the tone of voice as he
 accentuates a key word in order to highlight its importance?
@@ -298,21 +290,20 @@ lesson, that you love what you do, and that you are totally invested in
 their development process. If you love being out there, your student has
 no choice to follow your lead.
 
-Targets properly used have a beneficial impact. Good teachers don\'t use
+Targets properly used have a beneficial impact. Good teachers don't use
 targets for a specific spot on the court, but to define a general area.
 
 For example, they place cones in a circle or square. The students
 success rate and belief are increased when they have a realistic chance
 to hit the target area numerous times. If the target area is too small
-it will only accomplish one thing chipping away at the student\'s
+it will only accomplish one thing chipping away at the student's
 confidence.
 
 **The Truth**
 
 ![A group of men holding tennis rackets Description automatically
 generated with medium
-confidence](media_the-keys-to-great-lessons/media/image9.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-keys-to-great-lessons/media/image9.webp)
 
 **Fun is an inherent part of good teaching.**
 
@@ -327,23 +318,22 @@ getting a junior ranking, playing college tennis, or even going pro.
 
 Those dreams should never be judged, ridiculed, or dismissed, but
 nurtured. They should also be mixed over time with honest feedback about
-their reality. If a teacher doesn\'t care about a student\'s dreams,
-then eventually the student won\'t what the teacher thinks.
+their reality. If a teacher doesn't care about a student's dreams,
+then eventually the student won't what the teacher thinks.
 
 **Fun**
 
 No matter the reason for taking lessons, the student will only be
-rewarded if the process is fun. You can\'t overrate fun.
+rewarded if the process is fun. You can't overrate fun.
 
-Your teaching pro should have fun as well. That\'s what students will
+Your teaching pro should have fun as well. That's what students will
 remember and ultimately come back for. They will feel your connection to
 them, to your craft, respect your teaching ideology and be thankful they
 have you as their tennis teaching professional.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-keys-to-great-lessons/media/image10.jpeg){width="2.079861111111111in"
-height="1.9041666666666666in"}
+confidence](media_the-keys-to-great-lessons/media/image10.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

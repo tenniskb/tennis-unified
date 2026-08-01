@@ -41,8 +41,7 @@ junior players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_understanding-mental-imagery-part-2/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_understanding-mental-imagery-part-2/media/image1.webp)
 
 **Studies demonstrate that visualization can significantly increase
 serve speed.**
@@ -73,8 +72,7 @@ corrections. This group increase service speed by about 2.75 mph
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_understanding-mental-imagery-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_understanding-mental-imagery-part-2/media/image2.webp)
 
 **Visualize your serve technique at normal speed, in slow motion, and
 frame by frame.**
@@ -101,8 +99,7 @@ in the deuce service box. The incoming serve speeds ranged from about
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_understanding-mental-imagery-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_understanding-mental-imagery-part-2/media/image3.webp)
 
 **Visualization increased return consistency and accuracy.**
 
@@ -132,8 +129,7 @@ second a shorter version when playing points.
 
 ![A person playing a guitar Description automatically generated with
 medium
-confidence](media_understanding-mental-imagery-part-2/media/image4.jpg){width="3.4722222222222223in"
-height="4.875in"}
+confidence](media_understanding-mental-imagery-part-2/media/image4.jpg)
 
 **Chris Evert pre-visualized her matches.**
 
@@ -143,10 +139,10 @@ described her pre-match preparation:
 
 \"Before I play a match, I try to carefully rehearse in my mind what is
 likely to happen and how I will react in certain situations. I visualize
-myself playing typical points based on my opponent\'s style of play. I
+myself playing typical points based on my opponent's style of play. I
 see myself hitting crisp, deep shots from the baseline and coming to the
 net if I get a weak return. This helps me mentally prepare for a match,
-and I feel like I\'ve already played the match before I even walk on the
+and I feel like I've already played the match before I even walk on the
 court.\"
 
 There are no hard and fast rules about when and how to do this type of
@@ -180,8 +176,7 @@ change or vary over time. Follow your instincts. Let your mind and body
 find what works.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_understanding-mental-imagery-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_understanding-mental-imagery-part-2/media/image5.webp)
 
 **Visualize your serve placement, the return, and your next shot.**
 
@@ -214,11 +209,9 @@ footage of elite pro players. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/side_by_side_analysis/).)
 
 ![A person playing tennis Description automatically
-generated](media_understanding-mental-imagery-part-2/media/image6.webp){width="3.5961351706036746in"
-height="2.0228258967629045in"} ![A person hitting a ball with a tennis
+generated](media_understanding-mental-imagery-part-2/media/image6.webp) ![A person hitting a ball with a tennis
 racket Description automatically
-generated](media_understanding-mental-imagery-part-2/media/image7.webp){width="2.791304680664917in"
-height="2.0236964129483814in"}
+generated](media_understanding-mental-imagery-part-2/media/image7.webp)
 
 **Use pro models to improve the correspondence between your strokes and
 superior technique.**
@@ -239,30 +232,30 @@ feel and incorporate those into your practice, off court imagery work,
 and match play. Make this process a core part of your approach to the
 game and take your tennis to a new level.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| ![](media_understanding-mental-imagery-part-2/media/image8.jpeg) | Archie Dan Smith, MD is a retired          |
-|                                                                                                                                                      | physician living in Austin, Texas. Here is |
-|                                                                                                                                                      | how he describes his tennis journey,       |
-|                                                                                                                                                      | leading to the creation of his work on     |
-|                                                                                                                                                      | muscle memory:                             |
-|                                                                                                                                                      |                                            |
-|                                                                                                                                                      | \"I played for 2 years at my small town    |
-|                                                                                                                                                      | high school. For the next 10 years I       |
-|                                                                                                                                                      | played a dozen times a year with friends.  |
-|                                                                                                                                                      | Then I did not play for decades. About 10  |
-|                                                                                                                                                      | years ago I began to play again. I was a   |
-|                                                                                                                                                      | mid-level 3.5 player but I could tell over |
-|                                                                                                                                                      | time my game was slipping.                 |
-|                                                                                                                                                      |                                            |
-|                                                                                                                                                      | During this period I came up with and      |
-|                                                                                                                                                      | started implementing my theories on muscle |
-|                                                                                                                                                      | memory. I started getting better. Two      |
-|                                                                                                                                                      | years ago I won the 3.5 men's singles      |
-|                                                                                                                                                      | division in the long running main City of  |
-|                                                                                                                                                      | Austin tournament. I beat a 26 year old in |
-|                                                                                                                                                      | the finals. Now I am recruited by USTA     |
-|                                                                                                                                                      | teams that have won regionals, and I play  |
-|                                                                                                                                                      | #1 doubles for a team in the Austin Tennis |
-|                                                                                                                                                      | League. I conclude that there may be       |
-|                                                                                                                                                      | something to my theory.\"                  |
-+======================================================================================================================================================+============================================+
+| ![](media_understanding-mental-imagery-part-2/media/image8.jpeg) | Archie Dan Smith, MD is a retired |
+| --- | --- |
+|  | physician living in Austin, Texas. Here is |
+|  | how he describes his tennis journey, |
+|  | leading to the creation of his work on |
+|  | muscle memory: |
+|  |  |
+|  | \"I played for 2 years at my small town |
+|  | high school. For the next 10 years I |
+|  | played a dozen times a year with friends. |
+|  | Then I did not play for decades. About 10 |
+|  | years ago I began to play again. I was a |
+|  | mid-level 3.5 player but I could tell over |
+|  | time my game was slipping. |
+|  |  |
+|  | During this period I came up with and |
+|  | started implementing my theories on muscle |
+|  | memory. I started getting better. Two |
+|  | years ago I won the 3.5 men's singles |
+|  | division in the long running main City of |
+|  | Austin tournament. I beat a 26 year old in |
+|  | the finals. Now I am recruited by USTA |
+|  | teams that have won regionals, and I play |
+|  | #1 doubles for a team in the Austin Tennis |
+|  | League. I conclude that there may be |
+|  | something to my theory.\" |
+

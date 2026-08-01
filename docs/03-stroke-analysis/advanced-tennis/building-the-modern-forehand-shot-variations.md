@@ -6,18 +6,17 @@
 
 **John Yandell**
 
-In understanding the differences in the modern forehand, we\'ve looked
+In understanding the differences in the modern forehand, we've looked
 at the technical differences stemming from the grips. The final piece is
 to analyze how the players vary their swings for specific shot
-circumstances. Let\'s take a look at what happens when top players are
+circumstances. Let's take a look at what happens when top players are
 on the run, dealing with low balls, or varying spin and/or angle.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-modern-forehand-shot-variations/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_building-the-modern-forehand-shot-variations/media/image1.webp)
 
-**Note in Pete\'s \"reverse\" forehand how the hand and arm rotation
+**Note in Pete's \"reverse\" forehand how the hand and arm rotation
 seems to approach that of the extreme forehands.**
 
 **Running Forehands**
@@ -33,20 +32,19 @@ something like another 90 degrees, with the top of his forearm now
 facing more toward the back fence. Undoubtedly this has to be one of the
 factors that made his running forehand such a great shot.
 
-In general, the players with the more extreme grips don\'t usually have
+In general, the players with the more extreme grips don't usually have
 to \"reverse\" as much on the run-probably due to their natural ability
 to increase the hand rotation and arm rotation in their basic motion.
 
-But when they due it can get crazy. Watch the rotation on Guga\'s
+But when they due it can get crazy. Watch the rotation on Guga's
 reverse forehand in the animation. You need a lot of flexibility for
-this one, and I wouldn\'t recommend trying it without passing a range of
+this one, and I wouldn't recommend trying it without passing a range of
 motion test, but note that the top of his forearm has turned over so
 much that it is now almost pointing down at the court.
 
 ![A picture containing text, outdoor, player, watching Description
 automatically
-generated](media_building-the-modern-forehand-shot-variations/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-shot-variations/media/image2.webp)
 
 **On a reverse forehand with the extreme grip the top of the forearm can
 rotate so far that it points almost down at the court.**
@@ -54,7 +52,7 @@ rotate so far that it points almost down at the court.**
 **More Spin**
 
 The next variation is increased spin on a ball within the normal strike
-zone. Frequently you\'ll see a player generate additional top spin by
+zone. Frequently you'll see a player generate additional top spin by
 turning the hand over faster, and finishing lower to the side, even when
 the ball is quite high. This is a variation in the basic drive.
 
@@ -66,9 +64,8 @@ the ball flatter and possibly harder.
 
 ![A person swinging a golf club Description automatically generated with
 medium
-confidence](media_building-the-modern-forehand-shot-variations/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
-**Notice how Roddick\'s hand turns over faster and finishes lower on
+confidence](media_building-the-modern-forehand-shot-variations/media/image3.webp)\
+**Notice how Roddick's hand turns over faster and finishes lower on
 this short angle.**
 
 **Sharper Angles**
@@ -78,22 +75,21 @@ related to hitting angles. Again, this results in a shorter swing with
 less extension and a more extreme across the body warp.
 
 Extreme players also speed up the hand rotation on lower balls in order
-to break off sharper angles. It\'s important to note that despite the
+to break off sharper angles. It's important to note that despite the
 appearance to the naked eye, heavily spun angle shots are not a function
-of \"wrist snap.\" Again it\'s a question of the entire hitting arm
+of \"wrist snap.\" Again it's a question of the entire hitting arm
 turning over faster, and or turning over more to increase the brushing
 effect on the ball.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-modern-forehand-shot-variations/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-shot-variations/media/image4.webp)
 
 **Hewitt increases his hand rotation dramatically but the wrist stays
 laid back.**
 
 **Low Balls**
 
-No, it\'s not a \"flick of the wrist,\" no matter how many times John
+No, it's not a \"flick of the wrist,\" no matter how many times John
 McEnroe or any commentator says it is on TV. The low ball is probably
 one of the most misunderstood variations in the modern forehand. [(Click
 here to read more about the Myth of the
@@ -125,8 +121,7 @@ generating significantly more topspin than players with more moderate or
 classical grips.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-modern-forehand-shot-variations/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-shot-variations/media/image4.webp)
 
 **What do we really know about the possible advantages of the more
 extreme grip styles?**
@@ -143,8 +138,8 @@ more spin, but does that also mean more ball speed-or does it mean the
 opposite? Again we need more research and quantitative measurements of
 the top players to really answer this with any certainty.
 
-Since we don\'t know how fast the racket is actually traveling at
-contact or in what direction(s), it\'s impossible to say whether players
+Since we don't know how fast the racket is actually traveling at
+contact or in what direction(s), it's impossible to say whether players
 are making an efficient use of any extra racket speed they may be
 developing.
 
@@ -156,8 +151,7 @@ an efficient use of energy and a good trade off?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-modern-forehand-shot-variations/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_building-the-modern-forehand-shot-variations/media/image5.webp)
 
 **Is it possible that classical swings are more efficient, allowing
 players like Sampras to penetrate the court with equal or less energy?**
@@ -166,8 +160,8 @@ Is it possible that a less extreme pattern allow players like Sampras or
 Agassi to hit the ball as hard or harder while using less spin and less
 energy? Is it possible that a flatter ball with a flatter trajectory
 gets to the opponent a little sooner and therefore penetrates the court
-more easily-even if it\'s hit at the same speed? I tend to think so, but
-as I said, we don\'t yet have the numbers to say. The question remain
+more easily-even if it's hit at the same speed? I tend to think so, but
+as I said, we don't yet have the numbers to say. The question remain
 theoretical, and the answers-you guessed it-are still matters of opinion
 between coaches.
 
@@ -175,23 +169,22 @@ What we can say for certain is this. Whatever style forehand you want to
 play, the swing patterns for the various grips can all be associated
 with certain key positions over the course of the stroke.
 
-In the previous articles, we\'ve seen these common positions in the
-preparation, the hitting arm and the finish. In this article we\'ve also
+In the previous articles, we've seen these common positions in the
+preparation, the hitting arm and the finish. In this article we've also
 established that for each grip style there is a characteristic racket
 position at the start of the foreswing, a characteristic pattern of
 torso rotation, and a characteristic range of hand and arm rotation.
 That information is what we need to build models for the modern forehand
 across the grip styles.
 
-What\'s the forehand for you? At this point I think it still boils down
+What's the forehand for you? At this point I think it still boils down
 to a question of playing style, playing level and personal preference.
 Even if the extreme patterns are eventually found to generate more
 racket speed, would that be enough to justify teaching them to all
 players?
 
 ![A person holding a tennis racket Description automatically
-generated](media_building-the-modern-forehand-shot-variations/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-shot-variations/media/image6.webp)
 
 **There is no doubt that the extreme grips are widespread, here to stay
 and can lead to high level competitive success.**
@@ -223,7 +216,7 @@ exception, in high level junior tennis. Extreme grips seem to be here to
 stay at all levels, and coaches, whether by choice or not, have to deal
 on a regular basis with players who have them.
 
-That\'s why understanding the differences between the classical and the
+That's why understanding the differences between the classical and the
 more extreme patterns is critical for building the modern forehand. A
 coach or a player may have a set of technical beliefs about the forehand
 that are absolutely correct-just wrong for the particular grip style of
@@ -233,14 +226,12 @@ the player he is working with.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A person hitting a ball with a tennis racket Description automatically                                                                                                                              ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_building-the-modern-forehand-shot-variations/media/image7.jpg){width="2.9895833333333335in"   generated](media_building-the-modern-forehand-shot-variations/media/image8.jpg){width="2.970430883639545in"
-                                                                                      height="2.295571959755031in"}                                                                                                                                                                        height="2.3020833333333335in"}
+   generated](media_building-the-modern-forehand-shot-variations/media/image7.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                               **The turn**                                                                                                                                                                                   **Start Of Forward Swing**
 
                                                                 ![A person hitting a ball with a tennis racket Description automatically                                                                                                                               ![A person playing tennis Description automatically generated with low
-   generated](media_building-the-modern-forehand-shot-variations/media/image9.jpg){width="2.9392760279965002in"   confidence](media_building-the-modern-forehand-shot-variations/media/image10.jpg){width="3.02365813648294in"
-                                                                                     height="2.2569444444444446in"}                                                                                                                                                                        height="2.2569444444444446in"}
+   generated](media_building-the-modern-forehand-shot-variations/media/image9.jpg)
 
                                                                                              **The contact**                                                                                                                                                                                       **The Finish**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -252,16 +243,15 @@ force changes that are counterproductive and create tension in the
 coaching relationship.
 
 To teach the modern forehand what coaches really need to do is compare
-their player\'s technical elements with those of top players with the
+their player's technical elements with those of top players with the
 same grip style. Hopefully these articles can help coaches and players
-do that with more accuracy and confidence. Next we\'ll look at another
+do that with more accuracy and confidence. Next we'll look at another
 set of equally complex and confusing problems: hitting stances and ball
 contact heights in the modern pro game.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_building-the-modern-forehand-shot-variations/media/image11.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_building-the-modern-forehand-shot-variations/media/image11.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

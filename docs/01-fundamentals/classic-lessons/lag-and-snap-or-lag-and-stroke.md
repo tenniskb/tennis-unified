@@ -18,8 +18,7 @@ snap, stop now and listen to what John has to say!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_lag-and-snap-or-lag-and-stroke/media/image2.jpeg){width="2.0833333333333335in"
-height="2.4479166666666665in"}
+confidence](media_lag-and-snap-or-lag-and-stroke/media/image2.jpeg)
 
 John is a former Division I Collegiate player with over 35 years of
 playing, coaching and teaching experience. He is an Elite member of the
@@ -37,5 +36,4 @@ Performance Plus Tennis, John is also a Pro at the Newport Beach Tennis
 Club.
 
 ![Logo, company name Description automatically
-generated](media_lag-and-snap-or-lag-and-stroke/media/image3.jpeg){width="2.0833333333333335in"
-height="0.75in"}
+generated](media_lag-and-snap-or-lag-and-stroke/media/image3.jpeg)

@@ -61,15 +61,15 @@ Predictive Control: não đã tính toán trajectory bóng, đọc body language
 đối thủ, và đưa ra quyết định di chuyển dựa trên model dự đoán, không
 phải dựa trên thông tin thực tế đã nhận được.
 
-+-----------------------------------------------------------------------+
-| **🎯 Định nghĩa Tầng 4**                                              |
-|                                                                       |
-| Model Predictive Control (MPC) trong tennis là khả năng não bộ liên   |
-| tục xây dựng và cập nhật một \"model\" về trạng thái hiện tại của     |
-| trận đấu --- vị trí bóng, ý định đối thủ, trạng thái sân --- và dùng  |
-| model đó để dự đoán các trạng thái tương lai, từ đó chọn action tối   |
-| ưu ở hiện tại để dẫn đến kết quả tốt nhất trong tương lai.            |
-+-----------------------------------------------------------------------+
+| **🎯 Định nghĩa Tầng 4** |
+| --- |
+|  |
+| Model Predictive Control (MPC) trong tennis là khả năng não bộ liên |
+| tục xây dựng và cập nhật một \"model\" về trạng thái hiện tại của |
+| trận đấu --- vị trí bóng, ý định đối thủ, trạng thái sân --- và dùng |
+| model đó để dự đoán các trạng thái tương lai, từ đó chọn action tối |
+| ưu ở hiện tại để dẫn đến kết quả tốt nhất trong tương lai. |
+
 
 Sự khác biệt cơ bản: PID ở Tầng 2 phản ứng với lỗi đã xảy ra. MPC ở Tầng
 4 hành động để ngăn lỗi xảy ra. PID nhìn về quá khứ và hiện tại. MPC
@@ -112,15 +112,15 @@ xác hơn sẽ dự đoán tốt hơn, ngay cả với tốc độ phản xạ t
 lý do kinh nghiệm và game intelligence quan trọng không kém tốc độ và
 sức mạnh.
 
-+-----------------------------------------------------------------------+
-| **🎯 MPC vs reactive: ví dụ cụ thể**                                  |
-|                                                                       |
-| Reactive (Tầng 2): Đối thủ đánh cross-court. Mắt thấy bóng → não xử   |
-| lý → chân bắt đầu chạy. Delay: 150-200ms. MPC (Tầng 4): Thấy đối thủ  |
-| chuẩn bị cross-court swing → bắt đầu chạy ngay. Delay: 0ms. Kết quả:  |
-| MPC có thêm 0.15-0.2 giây --- đủ để setup tốt hơn, contact tốt hơn,   |
-| và recovery tốt hơn.                                                  |
-+-----------------------------------------------------------------------+
+| **🎯 MPC vs reactive: ví dụ cụ thể** |
+| --- |
+|  |
+| Reactive (Tầng 2): Đối thủ đánh cross-court. Mắt thấy bóng → não xử |
+| lý → chân bắt đầu chạy. Delay: 150-200ms. MPC (Tầng 4): Thấy đối thủ |
+| chuẩn bị cross-court swing → bắt đầu chạy ngay. Delay: 0ms. Kết quả: |
+| MPC có thêm 0.15-0.2 giây --- đủ để setup tốt hơn, contact tốt hơn, |
+| và recovery tốt hơn. |
+
 
 **3. Prediction Horizon --- Bốn Tầm Nhìn Trong Trận Đấu**
 
@@ -191,14 +191,14 @@ chơi đang xây dựng và kiểm tra hypothesis: \"Đối thủ này yếu bac
 khi bị kéo wide.\" Mỗi point là một data point để cập nhật hypothesis.
 Khi hypothesis đủ vững, nó trở thành game plan được thực thi nhất quán.
 
-+-----------------------------------------------------------------------+
-| **🎯 Training prediction horizon**                                    |
-|                                                                       |
-| Mỗi tầm nhìn cần drill riêng. Immediate: tăng tốc độ feed dần dần.    |
-| Short: recovery drill với target position cụ thể. Medium: 3-ball      |
+| **🎯 Training prediction horizon** |
+| --- |
+|  |
+| Mỗi tầm nhìn cần drill riêng. Immediate: tăng tốc độ feed dần dần. |
+| Short: recovery drill với target position cụ thể. Medium: 3-ball |
 | pattern drill (coach feed theo pattern, người chơi anticipate). Long: |
-| match play với score keeping và post-match pattern review.            |
-+-----------------------------------------------------------------------+
+| match play với score keeping và post-match pattern review. |
+
 
 **4. Pattern Library --- Thư Viện Mẫu và Cách Xây Dựng**
 
@@ -259,14 +259,14 @@ Người chơi đỉnh cao nhận ra false pattern nhanh --- thường trong 2-3
 đến hết set. Kỹ năng update model nhanh là một trong những thứ khó train
 nhất nhưng quan trọng nhất.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill pattern recognition**                                      |
-|                                                                       |
-| Coach serve hoặc feed theo 3 pattern cố định (A, B, C) mà không nói   |
-| trước. Người chơi phải nhận ra pattern trong vòng 5 bóng và bắt đầu   |
-| anticipate. Khi người chơi đã nhận ra, coach đổi sang pattern mới.    |
-| Drill train tốc độ học pattern và tốc độ update model.                |
-+-----------------------------------------------------------------------+
+| **🎯 Drill pattern recognition** |
+| --- |
+|  |
+| Coach serve hoặc feed theo 3 pattern cố định (A, B, C) mà không nói |
+| trước. Người chơi phải nhận ra pattern trong vòng 5 bóng và bắt đầu |
+| anticipate. Khi người chơi đã nhận ra, coach đổi sang pattern mới. |
+| Drill train tốc độ học pattern và tốc độ update model. |
+
 
 **5. Cost Function --- Tính Toán Shot Tối Ưu Trong Thời Gian Thực**
 
@@ -326,15 +326,15 @@ của người chơi thiếu game intelligence. Người chơi có tactical IQ c
 động điều chỉnh mức độ aggressive tùy theo score, opponent fatigue, và
 momentum.
 
-+-----------------------------------------------------------------------+
-| **🎯 Score-based shot selection drill**                               |
-|                                                                       |
-| Drill: play points nhưng với score situation cho trước (ví dụ: 5-0,   |
-| 30-0 --- practice conservative play; hoặc 0-5, 0-30 --- practice      |
-| aggressive play). Mục tiêu không phải win point mà là chọn đúng loại  |
-| shot cho score situation. Coach đánh giá shot selection, không phải   |
-| kết quả.                                                              |
-+-----------------------------------------------------------------------+
+| **🎯 Score-based shot selection drill** |
+| --- |
+|  |
+| Drill: play points nhưng với score situation cho trước (ví dụ: 5-0, |
+| 30-0 --- practice conservative play; hoặc 0-5, 0-30 --- practice |
+| aggressive play). Mục tiêu không phải win point mà là chọn đúng loại |
+| shot cho score situation. Coach đánh giá shot selection, không phải |
+| kết quả. |
+
 
 **6. Split-Step và Early Preparation --- Nền Tảng Vật Lý Của MPC**
 
@@ -379,15 +379,15 @@ Người chơi không có early preparation luôn trông vội vàng và \"late\
 --- dù họ có thể nhanh hơn. Vội vàng không phải do chậm chân mà do
 preparation trễ, và preparation trễ do prediction kém hoặc không có.
 
-+-----------------------------------------------------------------------+
-| **🎯 Split-step timing drill**                                        |
-|                                                                       |
-| Coach đứng đối diện với người chơi, feed bóng bằng tay (không vợt).   |
-| Người chơi phải split-step đúng lúc tay coach release bóng --- không  |
-| phải khi bóng bay đến. Drill này tách biệt hoàn toàn split-step       |
-| timing khỏi ball tracking, buộc người chơi phải read body language    |
-| thay vì phản ứng với bóng.                                            |
-+-----------------------------------------------------------------------+
+| **🎯 Split-step timing drill** |
+| --- |
+|  |
+| Coach đứng đối diện với người chơi, feed bóng bằng tay (không vợt). |
+| Người chơi phải split-step đúng lúc tay coach release bóng --- không |
+| phải khi bóng bay đến. Drill này tách biệt hoàn toàn split-step |
+| timing khỏi ball tracking, buộc người chơi phải read body language |
+| thay vì phản ứng với bóng. |
+
 
 **7. MPC Dưới Áp Lực --- Khi Model Bị Sai và Cần Recalibrate**
 
@@ -446,15 +446,15 @@ nhiêu lần họ đã đánh wide trong set này?\"), observe có hệ thống 
 của họ có khác không?\"), và test hypothesis ngay lập tức trong điểm
 tiếp theo.
 
-+-----------------------------------------------------------------------+
-| **🎯 Model reset routine**                                            |
-|                                                                       |
-| Khi nhận ra model đang sai hoặc đang tilt: (1) Changeover --- ngồi    |
-| xuống, không nhìn vào sân. (2) Ba câu hỏi: \"Họ đang làm gì nhiều     |
-| nhất? Tôi đã anticipate sai ở đâu? Shot nào của tôi đang work?\" (3)  |
-| Một quyết định tactical cụ thể cho game tiếp theo. Không nghĩ về      |
-| score, chỉ nghĩ về model mới.                                         |
-+-----------------------------------------------------------------------+
+| **🎯 Model reset routine** |
+| --- |
+|  |
+| Khi nhận ra model đang sai hoặc đang tilt: (1) Changeover --- ngồi |
+| xuống, không nhìn vào sân. (2) Ba câu hỏi: \"Họ đang làm gì nhiều |
+| nhất? Tôi đã anticipate sai ở đâu? Shot nào của tôi đang work?\" (3) |
+| Một quyết định tactical cụ thể cho game tiếp theo. Không nghĩ về |
+| score, chỉ nghĩ về model mới. |
+
 
 **8. Liên Hệ Thái Cực Quyền --- Đổng Kình (懂勁) và Chiến Lược Bốn
 Lượng**
@@ -486,15 +486,15 @@ thủ sẽ đánh đâu (prediction chính xác) không cần chạy nhiều ---
 do các tay vợt lớn tuổi có kinh nghiệm vẫn cạnh tranh được dù chân chậm
 hơn --- họ bù bằng Đổng Kình, bằng MPC.
 
-+-----------------------------------------------------------------------+
-| **🎯 Thực hành Đổng Kình trong tennis**                               |
-|                                                                       |
-| Drill: play points nhưng điểm chỉ được tính nếu bạn anticipate đúng   |
+| **🎯 Thực hành Đổng Kình trong tennis** |
+| --- |
+|  |
+| Drill: play points nhưng điểm chỉ được tính nếu bạn anticipate đúng |
 | hướng bóng của đối thủ và bắt đầu di chuyển trước khi họ contact. Một |
-| trọng tài (hoặc coach) quan sát. Drill này buộc người chơi phải thực  |
-| sự read body language thay vì phản ứng với bóng --- đây là Đổng Kình  |
-| trong training.                                                       |
-+-----------------------------------------------------------------------+
+| trọng tài (hoặc coach) quan sát. Drill này buộc người chơi phải thực |
+| sự read body language thay vì phản ứng với bóng --- đây là Đổng Kình |
+| trong training. |
+
 
 **9. Cảm Giác Đúng --- Nhận Biết MPC Đang Hoạt Động**
 
@@ -533,15 +533,15 @@ này giúp người chơi biết mình đang ở đúng trạng thái.
 - **Không nhớ được điểm vừa xong:** Mental bandwidth đang dùng hết cho
   execution, không còn cho observation và planning.
 
-+-----------------------------------------------------------------------+
-| **🎯 MPC awareness drill**                                            |
-|                                                                       |
-| Sau mỗi điểm trong practice match, dừng lại 10 giây và nói to: (1)    |
-| Shot cuối của đối thủ là gì? (2) Bạn có anticipate không? (3) Shot    |
-| tiếp theo của họ nếu rally tiếp tục sẽ là gì? Drill này builds        |
-| meta-cognitive awareness về MPC --- bước đầu tiên để train conscious  |
-| prediction.                                                           |
-+-----------------------------------------------------------------------+
+| **🎯 MPC awareness drill** |
+| --- |
+|  |
+| Sau mỗi điểm trong practice match, dừng lại 10 giây và nói to: (1) |
+| Shot cuối của đối thủ là gì? (2) Bạn có anticipate không? (3) Shot |
+| tiếp theo của họ nếu rally tiếp tục sẽ là gì? Drill này builds |
+| meta-cognitive awareness về MPC --- bước đầu tiên để train conscious |
+| prediction. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 4**
 
@@ -635,16 +635,16 @@ chính xác của bóng --- mà đo bằng chất lượng của prediction và 
           khi đang thua               set        trong set   trong game**
   ------------------------------ ------------- ------------- -------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển Tầng 5**                                       |
-|                                                                       |
-| Tầng 5 (Fuzzy Logic + Entropy Management) là nơi người chơi học cách  |
-| xử lý uncertainty một cách có hệ thống --- không phải loại bỏ         |
-| uncertainty, mà làm việc hiệu quả với nó. Chỉ chuyển lên Tầng 5 khi   |
-| MPC ở Tầng 4 đủ ổn định để người chơi có mental bandwidth cho một     |
+| **🎯 Nguyên tắc chuyển Tầng 5** |
+| --- |
+|  |
+| Tầng 5 (Fuzzy Logic + Entropy Management) là nơi người chơi học cách |
+| xử lý uncertainty một cách có hệ thống --- không phải loại bỏ |
+| uncertainty, mà làm việc hiệu quả với nó. Chỉ chuyển lên Tầng 5 khi |
+| MPC ở Tầng 4 đủ ổn định để người chơi có mental bandwidth cho một |
 | tầng phức tạp hơn. Dấu hiệu: người chơi tự nhận ra được khi model của |
-| mình sai và bắt đầu update mà không cần HLV nhắc.                     |
-+-----------------------------------------------------------------------+
+| mình sai và bắt đầu update mà không cần HLV nhắc. |
+
 
 **--- Kết thúc Chương 4 ---**
 

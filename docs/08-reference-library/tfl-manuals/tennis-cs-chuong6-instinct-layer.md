@@ -60,16 +60,16 @@ instinct layer --- hoạt động dưới ngưỡng ý thức, nhanh hơn khả 
 tích của cortex, và ổn định hơn dưới áp lực. Tầng 6 là nơi kiến thức trở
 thành bản năng.
 
-+-----------------------------------------------------------------------+
-| **🎯 Định nghĩa Tầng 6**                                              |
-|                                                                       |
-| Instinct Layer là tập hợp các pattern motor, tactical, và             |
-| decision-making đã được internalized đến mức hoạt động tự động dưới   |
-| ngưỡng ý thức. Đây không phải là \"tắt não\" --- mà là chuyển         |
-| processing từ slow, serial, conscious cortex sang fast, parallel,     |
-| unconscious cerebellum và basal ganglia. Kết quả: tốc độ,             |
-| consistency, và khả năng chịu áp lực tăng lên đồng thời.              |
-+-----------------------------------------------------------------------+
+| **🎯 Định nghĩa Tầng 6** |
+| --- |
+|  |
+| Instinct Layer là tập hợp các pattern motor, tactical, và |
+| decision-making đã được internalized đến mức hoạt động tự động dưới |
+| ngưỡng ý thức. Đây không phải là \"tắt não\" --- mà là chuyển |
+| processing từ slow, serial, conscious cortex sang fast, parallel, |
+| unconscious cerebellum và basal ganglia. Kết quả: tốc độ, |
+| consistency, và khả năng chịu áp lực tăng lên đồng thời. |
+
 
 Điều quan trọng cần hiểu: Instinct Layer không thể được dạy trực tiếp.
 Nó chỉ xuất hiện sau khi các tầng bên dưới đã được luyện tập đủ lâu và
@@ -141,15 +141,15 @@ Trong match, giữa các điểm là cơ hội duy nhất cho Analysis. Trong đ
 Instinct phải được tự do hoạt động không bị interrupt. Kỷ luật để phân
 tách hai mode này là kỹ năng mental quan trọng nhất ở Tầng 6.
 
-+-----------------------------------------------------------------------+
-| **🎯 Boundary ritual**                                                |
-|                                                                       |
-| Cần một ritual rõ ràng để báo hiệu chuyển từ Analysis sang Instinct   |
+| **🎯 Boundary ritual** |
+| --- |
+|  |
+| Cần một ritual rõ ràng để báo hiệu chuyển từ Analysis sang Instinct |
 | mode. Ví dụ: nhìn vào strings của vợt → deep breath → bounce bóng 2-3 |
-| lần → ready. Từ thời điểm bounce bóng, Analysis phải dừng. Nếu có     |
-| thought kỹ thuật xuất hiện sau bounce, nhận ra nó và release ---      |
-| không follow. Đây là mental skill cần luyện như physical skill.       |
-+-----------------------------------------------------------------------+
+| lần → ready. Từ thời điểm bounce bóng, Analysis phải dừng. Nếu có |
+| thought kỹ thuật xuất hiện sau bounce, nhận ra nó và release --- |
+| không follow. Đây là mental skill cần luyện như physical skill. |
+
 
 **3. Attractor States --- Các Trạng Thái Ổn Định Tự Nhiên Của Hệ Thống**
 
@@ -223,16 +223,16 @@ bắt đầu trở thành automatic, và 1000-3000 repetitions để truly stabl
 Đây là lý do tennis đòi hỏi volume lớn --- không có shortcut cho
 attractor programming.
 
-+-----------------------------------------------------------------------+
-| **🎯 Attractor audit**                                                |
-|                                                                       |
-| HLV có thể \"audit\" attractor states của học viên bằng cách tạo      |
-| stress đột ngột (surprise ball, distraction) và quan sát người chơi   |
-| defaulting về đâu. Nếu defensive attractor là \"freeze và block\"     |
-| thay vì \"spin và recover\", đây là attractor cần rewrite. Audit này  |
-| reveal những pattern đã được compile mà người chơi không biết mình    |
-| có.                                                                   |
-+-----------------------------------------------------------------------+
+| **🎯 Attractor audit** |
+| --- |
+|  |
+| HLV có thể \"audit\" attractor states của học viên bằng cách tạo |
+| stress đột ngột (surprise ball, distraction) và quan sát người chơi |
+| defaulting về đâu. Nếu defensive attractor là \"freeze và block\" |
+| thay vì \"spin và recover\", đây là attractor cần rewrite. Audit này |
+| reveal những pattern đã được compile mà người chơi không biết mình |
+| có. |
+
 
 **4. Deliberate Practice --- Con Đường Từ Kỹ Năng Đến Bản Năng**
 
@@ -302,15 +302,15 @@ muốn improve (ví dụ: kick serve). Buổi tập ngày hôm sau, pattern này
 khởi động nhanh hơn và ổn định hơn vì offline consolidation đã xảy ra
 trong giấc ngủ. Đây là công cụ miễn phí mà ít người chơi tận dụng.
 
-+-----------------------------------------------------------------------+
-| **🎯 Practice ratio tối ưu**                                          |
-|                                                                       |
-| Cho người chơi đang build pattern mới: 40% blocked → 30% variable →   |
-| 30% random. Cho người chơi consolidating và match-proofing: 20%       |
+| **🎯 Practice ratio tối ưu** |
+| --- |
+|  |
+| Cho người chơi đang build pattern mới: 40% blocked → 30% variable → |
+| 30% random. Cho người chơi consolidating và match-proofing: 20% |
 | blocked (maintenance) → 30% variable → 50% random (match-simulation). |
 | Adjust ratio theo giai đoạn: xây dựng (blocked-heavy) → consolidation |
-| (random-heavy) → competition (random + pressure).                     |
-+-----------------------------------------------------------------------+
+| (random-heavy) → competition (random + pressure). |
+
 
 **5. Chunking --- Cách Não Nén Thông Tin Thành Đơn Vị Instinct**
 
@@ -353,7 +353,7 @@ now\".
 
 Một trong những differences rõ nhất giữa expert và novice là tốc độ
 pattern recognition. Expert chess players nhìn board và nhận ra \"đây là
-pattern King\'s Indian\" trong milliseconds --- không phải vì họ nhìn
+pattern King's Indian\" trong milliseconds --- không phải vì họ nhìn
 nhanh hơn, mà vì họ có chunk cho pattern đó.
 
 Trong tennis, expert nhìn đối thủ chuẩn bị serve và nhận ra \"kick serve
@@ -361,15 +361,15 @@ wide\" trước khi toss lên. Đây là chunk recognition --- não đang match
 input với stored chunk, không phải analyze từng element riêng lẻ. Tốc độ
 recognition này chỉ đến từ exposure lớn --- không có shortcut.
 
-+-----------------------------------------------------------------------+
-| **🎯 Chunk testing**                                                  |
-|                                                                       |
-| Test xem một pattern đã được chunked chưa bằng cách thêm distraction  |
-| trong khi thực hiện: đếm ngược từ 100, nghe audio, trả lời câu hỏi    |
-| đơn giản. Nếu pattern không degrade dưới distraction, nó đã được      |
-| chunked. Nếu degraded, cần thêm blocked practice trước khi move sang  |
-| random.                                                               |
-+-----------------------------------------------------------------------+
+| **🎯 Chunk testing** |
+| --- |
+|  |
+| Test xem một pattern đã được chunked chưa bằng cách thêm distraction |
+| trong khi thực hiện: đếm ngược từ 100, nghe audio, trả lời câu hỏi |
+| đơn giản. Nếu pattern không degrade dưới distraction, nó đã được |
+| chunked. Nếu degraded, cần thêm blocked practice trước khi move sang |
+| random. |
+
 
 **6. Pre-Shot Routine --- Nghi Thức Kích Hoạt Instinct**
 
@@ -420,14 +420,14 @@ PSR tốt có một số đặc điểm cần thiết:
   tactical thought → \"play\" → bounce bóng → serve PSR. Tạo ranh giới
   rõ ràng giữa Analysis và Instinct mode.
 
-+-----------------------------------------------------------------------+
-| **🎯 PSR conditioning drill**                                         |
-|                                                                       |
-| Dành 15 phút cuối mỗi buổi tập chỉ để practice PSR --- không chú      |
-| trọng shot quality, chỉ chú trọng PSR consistency. Serve 30 lần, mỗi  |
-| lần PSR phải giống hệt nhau. Sau 60 buổi (khoảng 3 tháng), PSR sẽ đủ  |
-| conditioned để activate optimal state automatically trong match.      |
-+-----------------------------------------------------------------------+
+| **🎯 PSR conditioning drill** |
+| --- |
+|  |
+| Dành 15 phút cuối mỗi buổi tập chỉ để practice PSR --- không chú |
+| trọng shot quality, chỉ chú trọng PSR consistency. Serve 30 lần, mỗi |
+| lần PSR phải giống hệt nhau. Sau 60 buổi (khoảng 3 tháng), PSR sẽ đủ |
+| conditioned để activate optimal state automatically trong match. |
+
 
 **7. Khi Instinct Bị Corrupted --- Yips, Slumps và Cách Phục Hồi**
 
@@ -482,15 +482,15 @@ reinforcement), hay đơn giản là thiếu luyện tập đủ dài.
   vào pattern, không quan tâm đến score. Giảm cortisol → cortex ít
   interfere hơn → attractor có không gian để rebuild.
 
-+-----------------------------------------------------------------------+
-| **🎯 Early warning system**                                           |
-|                                                                       |
-| Train học viên nhận biết early warning signs của attractor drift:     |
-| shot đặc biệt nào bắt đầu feel \"off\" nhưng chưa rõ ràng. Khi nhận   |
-| ra early, can thiệp nhỏ (30 phút blocked practice) đủ để reset. Khi   |
-| đã thành slump, cần intervention lớn hơn nhiều. Prevention \> cure    |
-| trong instinct maintenance.                                           |
-+-----------------------------------------------------------------------+
+| **🎯 Early warning system** |
+| --- |
+|  |
+| Train học viên nhận biết early warning signs của attractor drift: |
+| shot đặc biệt nào bắt đầu feel \"off\" nhưng chưa rõ ràng. Khi nhận |
+| ra early, can thiệp nhỏ (30 phút blocked practice) đủ để reset. Khi |
+| đã thành slump, cần intervention lớn hơn nhiều. Prevention \> cure |
+| trong instinct maintenance. |
+
 
 **8. Liên Hệ Thái Cực Quyền --- Vô Ý (無意) và Vô Vi (無為)**
 
@@ -521,19 +521,19 @@ alignment với tình huống, không phải từ force.
 
 Trong tennis, Vô Vi là cú đánh trông effortless nhưng cực kỳ mạnh --- vì
 lực đến từ chuỗi động học hoàn chỉnh và timing hoàn hảo, không phải từ
-cơ bắp căng thẳng. Federer\'s forehand là Vô Vi. Sampras\'s serve là Vô
+cơ bắp căng thẳng. Federer's forehand là Vô Vi. Sampras's serve là Vô
 Vi. Không có wasted movement, không có wasted tension --- pure
 efficiency.
 
-+-----------------------------------------------------------------------+
-| **🎯 Test Vô Ý trong drill**                                          |
-|                                                                       |
-| Drill với distraction hoàn toàn: rally trong khi đang đếm ngược từ    |
-| 100 bằng thứ tiếng khác, hoặc giải câu đố mental đơn giản. Nếu        |
-| technique vẫn consistent, Vô Ý đang hoạt động --- pattern đã được     |
-| compiled đủ sâu để không cần conscious attention. Nếu technique       |
-| collapse, cần thêm blocked practice.                                  |
-+-----------------------------------------------------------------------+
+| **🎯 Test Vô Ý trong drill** |
+| --- |
+|  |
+| Drill với distraction hoàn toàn: rally trong khi đang đếm ngược từ |
+| 100 bằng thứ tiếng khác, hoặc giải câu đố mental đơn giản. Nếu |
+| technique vẫn consistent, Vô Ý đang hoạt động --- pattern đã được |
+| compiled đủ sâu để không cần conscious attention. Nếu technique |
+| collapse, cần thêm blocked practice. |
+
 
 **9. Cảm Giác Đúng --- Nhận Biết Instinct Đang Hoạt Động**
 
@@ -572,15 +572,15 @@ nhận biết sự khác biệt này là kỹ năng meta-cognitive quan trọng.
 - **Inconsistency không giải thích được:** Cùng shot, cùng tình huống
   nhưng kết quả khác nhau nhiều --- cortex đang add noise vào pattern.
 
-+-----------------------------------------------------------------------+
-| **🎯 Instinct journal**                                               |
-|                                                                       |
+| **🎯 Instinct journal** |
+| --- |
+|  |
 | Sau mỗi drill session, note 2 moments: (1) khi Instinct hoạt động tốt |
-| nhất --- bạn đang làm gì khác so với bình thường? (2) khi Analysis    |
+| nhất --- bạn đang làm gì khác so với bình thường? (2) khi Analysis |
 | interfere rõ nhất --- trigger là gì? Sau 10 sessions, pattern sẽ xuất |
-| hiện: bạn sẽ biết chính xác điều kiện nào trigger Instinct và điều    |
-| kiện nào trigger Analysis.                                            |
-+-----------------------------------------------------------------------+
+| hiện: bạn sẽ biết chính xác điều kiện nào trigger Instinct và điều |
+| kiện nào trigger Analysis. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 6**
 
@@ -676,17 +676,17 @@ trống để quay về tầng thấp hơn.
               mode\"                                         
   ------------------------------ ------------- ------------- ---------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển Tầng 7 --- Flow State**                        |
-|                                                                       |
-| Tầng 7 (Flow State) không phải là tầng học --- đó là trạng thái xuất  |
-| hiện tự nhiên khi tất cả 6 tầng trước đã hoạt động đồng bộ và         |
-| Instinct đủ mạnh. Flow không thể được forced. Nó chỉ có thể được      |
-| invited bằng cách: (1) loại bỏ conscious interference, (2) duy trì    |
-| optimal challenge level, (3) có đủ attractor states vững chắc để hệ   |
-| thống tự vận hành. Khi Tầng 6 hoàn chỉnh, Flow State trở nên          |
-| accessible --- không phải guaranteed, nhưng accessible.               |
-+-----------------------------------------------------------------------+
+| **🎯 Nguyên tắc chuyển Tầng 7 --- Flow State** |
+| --- |
+|  |
+| Tầng 7 (Flow State) không phải là tầng học --- đó là trạng thái xuất |
+| hiện tự nhiên khi tất cả 6 tầng trước đã hoạt động đồng bộ và |
+| Instinct đủ mạnh. Flow không thể được forced. Nó chỉ có thể được |
+| invited bằng cách: (1) loại bỏ conscious interference, (2) duy trì |
+| optimal challenge level, (3) có đủ attractor states vững chắc để hệ |
+| thống tự vận hành. Khi Tầng 6 hoàn chỉnh, Flow State trở nên |
+| accessible --- không phải guaranteed, nhưng accessible. |
+
 
 **--- Kết thúc Chương 6 ---**
 

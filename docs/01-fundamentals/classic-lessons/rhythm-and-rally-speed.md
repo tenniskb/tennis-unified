@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 How do players win matches? Is the key to hit the ball harder, with the
-one or two shot rallies so prevalent in today\'s game? Or is the real
+one or two shot rallies so prevalent in today's game? Or is the real
 key to success the consistency and aggression that flows from a series
 of well-placed shots? I feel the latter is by far the more effective
 strategy for most players at most levels.
@@ -22,13 +22,13 @@ strategy for most players at most levels.
 Consistency and placement depend on the ability of a player to establish
 rhythm and rally speed against a variety of opponents. Unfortunately,
 this ability, which allows players to hit a series of well-placed shots,
-seems to be disappearing from the game. In today\'s game, people talk
+seems to be disappearing from the game. In today's game, people talk
 about rhythm mostly in terms of serving, but it is rarer to hear it
 referring to rallying and point playing. Rhythm and the ability to
 maintain rally speed are being lost to high-tech, ultra light, ultra
 powerful rackets that make keeping the ball in play virtually
 impossible. Players search for the racket that is going to give them the
-most winners (power), when it\'s consistency that will give them the
+most winners (power), when it's consistency that will give them the
 most wins.
 
 There is no secret why the pros hit the ball so hard so consistently and
@@ -36,7 +36,7 @@ with such great rhythm; they have the best technique and the best
 movement in the world. Watch pro matches and see how smooth and rhythmic
 the top players really are. Compare this to the jerky, overly muscled
 strokes of so many club players when they try to hit hard. Look closer
-and you\'ll see the winning shots in pro matches are hit at the same
+and you'll see the winning shots in pro matches are hit at the same
 speed or only a slightly higher speed than in the rallies. Sure pros hit
 hard. But they play in rhythm and at rally speeds that are based on
 their abilities.
@@ -54,7 +54,7 @@ past. But rhythm and rally speed are also the key to defeating the
 opponent many players fear most: the dreaded \"pusher\" or slow ball
 artist.
 
-\"Rally speed\" is a simple concept to understand. It\'s the speed of
+\"Rally speed\" is a simple concept to understand. It's the speed of
 ball you can consistently keep in play with sound technique. \"Rhythm\"
 is the flow of the exchanges and the great feeling of your movement from
 one shot to the next when you have established your rally speed. These
@@ -67,10 +67,10 @@ The player that can impose his or her rhythm on an opponent will have a
 great chance of winning in the vast majority of matches.
 
 Establishing Your Rally Speed Players at different skill levels will
-have different rally speeds. There\'s a descending rally speed scale
+have different rally speeds. There's a descending rally speed scale
 starting with the top pros going all the way down to lower level club
-players. The level of a player\'s rally speed corresponds with the
-player\'s skill level. Your skill level can be understood as the quality
+players. The level of a player's rally speed corresponds with the
+player's skill level. Your skill level can be understood as the quality
 of your technique plus the quality of your movement. Your skill level
 determines your rally speed. The better your movement and racket
 technique, the faster you can rally with consistency.
@@ -108,7 +108,7 @@ rhythm and a rally speed based on their skill level, technique, and
 movement.
 
 Why practice, take lessons, and warm up hitting the ball at a speed you
-rarely achieve or can control in actual match play? Wouldn\'t it be more
+rarely achieve or can control in actual match play? Wouldn't it be more
 effective to simulate actual match conditions in lessons and practice?
 
 Playing the Pusher
@@ -117,7 +117,7 @@ Every player has faced the \"nightmare opponent\" who gets to every
 ball, no matter how well hit, and finds some way, any way, to just get
 it back in the court. You spend the entire match severely frustrated.
 Either you make a lot of mistakes trying to hit the ball past him or
-her. Or worse, you end up playing at your opponent\'s level, by
+her. Or worse, you end up playing at your opponent's level, by
 \"pushing\" yourself. Either scenario places you out of your rhythm or
 comfort zone and most often spells disaster.
 
@@ -165,7 +165,7 @@ think of as your \"normal\" shot speed. But no pushing!
 
 The goal is to find the speed at which you really can keep the ball
 going and in the court using your real strokes. If one player hits a
-ball too hard, the other player\'s job is to slow it back down to the
+ball too hard, the other player's job is to slow it back down to the
 appropriate rally speed.
 
 You will quickly find your \"speed limit\" because as the speed
@@ -195,24 +195,23 @@ this is the time to go to work on the technical side of your game.
 Stroke production, movement, and fitness are the keys to being able to
 hit the ball harder without losing consistency.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                 | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_rhythm-and-rally-speed/media/image1.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                              | numerous ranked junior players and coached  |
-|                                                                                                                                                                             | a series of championship high school teams. |
-|                                                                                                                                                                             | He was highly ranked both sectionally and   |
-|                                                                                                                                                                             | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                             |                                             |
-|                                                                                                                                                                             | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                             | the John Yandell Tennis School in San       |
-|                                                                                                                                                                             | Francisco, California Kerry and his partner |
-|                                                                                                                                                                             | are now splitting time between homes in     |
-|                                                                                                                                                                             | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                             | continued to coach and to have great        |
-|                                                                                                                                                                             | competitive success winning Canadian        |
-|                                                                                                                                                                             | National seniors titles---not to mention    |
-|                                                                                                                                                                             | continuing to write articles for            |
-|                                                                                                                                                                             | Tennisplayer from his unique perspective.   |
-+=============================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_rhythm-and-rally-speed/media/image1.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

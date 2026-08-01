@@ -21,8 +21,7 @@ other day for 3 weeks. But I believe that\--regardless of what may be
 optimum\--you can make significant improvements with less work.
 
 ![A picture containing invertebrate Description automatically
-generated](media_understanding-muscle-memory-part-2/media/image1.jpg){width="3.4722222222222223in"
-height="3.0972222222222223in"}
+generated](media_understanding-muscle-memory-part-2/media/image1.jpg)
 
 **How much training does it actually take to make real improvements in
 muscle memory?**
@@ -46,8 +45,7 @@ muscle memory practice in a short period of time, you will see real
 improvement.
 
 ![A child playing tennis Description automatically generated with low
-confidence](media_understanding-muscle-memory-part-2/media/image2.jpg){width="4.166666666666667in"
-height="2.5972222222222223in"}
+confidence](media_understanding-muscle-memory-part-2/media/image2.jpg)
 
 **The time needed to develop muscle memory may vary with your level.**
 
@@ -80,16 +78,15 @@ lacking in coordination and fast reflexes. I am also currently age 67.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_understanding-muscle-memory-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_understanding-muscle-memory-part-2/media/image3.webp)
 
 **Will high reps in forehand practice help or hurt your backhand?**
 
 Over the past year, I have been ranked #1 in Texas for men 3.5 all ages,
-and #1 in men\'s 3.5 doubles age 50 and above. Now I can hit comfortably
+and #1 in men's 3.5 doubles age 50 and above. Now I can hit comfortably
 with 4.0s. I also routinely play with or against players who were
 college scholarship athletes. This all seems quite remarkable to
-me\--practically impossible. But it\'s true.
+me\--practically impossible. But it's true.
 
 So I say shoot for the ideal, but accept what you can do, and tailor
 your exact practice schedule and routines to the realities of life.
@@ -113,8 +110,7 @@ it. The principle is called positive transference. This means when you
 practice one skill, improvement occurs in related skills.
 
 ![A person playing tennis Description automatically
-generated](media_understanding-muscle-memory-part-2/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_understanding-muscle-memory-part-2/media/image4.webp)
 
 **Anticipatory knowledge transfers between shots.**
 
@@ -151,37 +147,37 @@ apply to all strokes. In fact, one study showed that up to 70% of the
 improvement in one skill can transfer to another\--without actual
 practice of the second.
 
-So don\'t worry excessively that you are spending all of your practice
+So don't worry excessively that you are spending all of your practice
 time on only your forehand for 3 weeks. You may be surprised that your
 other strokes will not suffer, and could actually improve. My research
 and my personal experience convince me that this is a powerful process
 that can make a huge difference in your results and your enjoyment of
 tennis.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| ![](media_understanding-muscle-memory-part-2/media/image5.jpeg) | Archie Dan Smith, MD is a retired          |
-|                                                                                                                                                     | physician living in Austin, Texas. Here is |
-|                                                                                                                                                     | how he describes his tennis journey,       |
-|                                                                                                                                                     | leading to the creation of his work on     |
-|                                                                                                                                                     | muscle memory:                             |
-|                                                                                                                                                     |                                            |
-|                                                                                                                                                     | \"I played for 2 years at my small town    |
-|                                                                                                                                                     | high school. For the next 10 years I       |
-|                                                                                                                                                     | played a dozen times a year with friends.  |
-|                                                                                                                                                     | Then I did not play for decades. About 10  |
-|                                                                                                                                                     | years ago I began to play again. I was a   |
-|                                                                                                                                                     | mid-level 3.5 player but I could tell over |
-|                                                                                                                                                     | time my game was slipping.                 |
-|                                                                                                                                                     |                                            |
-|                                                                                                                                                     | During this period I came up with and      |
-|                                                                                                                                                     | started implementing my theories on muscle |
-|                                                                                                                                                     | memory. I started getting better. Two      |
-|                                                                                                                                                     | years ago I won the 3.5 men's singles      |
-|                                                                                                                                                     | division in the long running main City of  |
-|                                                                                                                                                     | Austin tournament. I beat a 26 year old in |
-|                                                                                                                                                     | the finals. Now I am recruited by USTA     |
-|                                                                                                                                                     | teams that have won regionals, and I play  |
-|                                                                                                                                                     | #1 doubles for a team in the Austin Tennis |
-|                                                                                                                                                     | League. I conclude that there may be       |
-|                                                                                                                                                     | something to my theory.\"                  |
-+=====================================================================================================================================================+============================================+
+| ![](media_understanding-muscle-memory-part-2/media/image5.jpeg) | Archie Dan Smith, MD is a retired |
+| --- | --- |
+|  | physician living in Austin, Texas. Here is |
+|  | how he describes his tennis journey, |
+|  | leading to the creation of his work on |
+|  | muscle memory: |
+|  |  |
+|  | \"I played for 2 years at my small town |
+|  | high school. For the next 10 years I |
+|  | played a dozen times a year with friends. |
+|  | Then I did not play for decades. About 10 |
+|  | years ago I began to play again. I was a |
+|  | mid-level 3.5 player but I could tell over |
+|  | time my game was slipping. |
+|  |  |
+|  | During this period I came up with and |
+|  | started implementing my theories on muscle |
+|  | memory. I started getting better. Two |
+|  | years ago I won the 3.5 men's singles |
+|  | division in the long running main City of |
+|  | Austin tournament. I beat a 26 year old in |
+|  | the finals. Now I am recruited by USTA |
+|  | teams that have won regionals, and I play |
+|  | #1 doubles for a team in the Austin Tennis |
+|  | League. I conclude that there may be |
+|  | something to my theory.\" |
+

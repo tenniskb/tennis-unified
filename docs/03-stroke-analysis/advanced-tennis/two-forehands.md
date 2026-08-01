@@ -8,8 +8,7 @@ Where Are We Now?**
 **John Yandell**
 
 ![A person holding a tennis racket Description automatically
-generated](media_two-forehands/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image1.webp)
 
 **What \"modern\" fundamentals could these two forehands have in
 common?**
@@ -41,8 +40,7 @@ all levels to emulate. The challenge is identifying them in the
 diversity of the modern game and applying them across age and ability.
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image2.webp)
 
 **What are fundamentals underlying great modern forehands?**
 
@@ -53,7 +51,7 @@ detriment of what really matters. This means that most of the complex
 questions players ask about the internal mechanics of are irrelevant and
 counterproductive.
 
-In this article let\'s look at two sound technical forehands of two
+In this article let's look at two sound technical forehands of two
 players I worked with recently, both based on the principles I
 identified in the previous two articles.
 
@@ -72,8 +70,7 @@ players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-forehands/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-forehands/media/image3.webp)
 
 **A revelation from high speed footage---the left arm stretch.**
 
@@ -87,7 +84,7 @@ Development we were all astonished to see that the left arm actually
 moved across the body and pointed at the sideline, not the opponent.
 
 It had been right there in front of our eyes all the time, but we
-weren\'t seeing it until we looked at the high speed footage of players
+weren't seeing it until we looked at the high speed footage of players
 like Andre Agassi and Pete Sampras frame by frame. In the 20 years
 since, virtually every elite player we have filmed had some version of
 this same left arm move.
@@ -103,18 +100,17 @@ fundamentals of the body turn\--what I began calling the full turn or
 the pro turn.
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image4.webp)
 
 **Two views of the Federer backswing.**
 
 **Outside Backswing**
 
-The next advance came with Brian Gordon\'s groundbreaking quantitative
+The next advance came with Brian Gordon's groundbreaking quantitative
 work. What Brian discovered was that although a high level forehand
 could be hit with backswings of various shapes and sizes, the stroke
 could be turbocharged with a compact, outside backswing similar to Andre
-Agassi or Roger Federer with the hitting arm staying on the player\'s
+Agassi or Roger Federer with the hitting arm staying on the player's
 right side. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/) for
 more on this from Brian himself.)
@@ -137,14 +133,13 @@ on the right side, especially with lower level players.
 **First Commonality**
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image5.webp)
 
 **Ken: Full turn, outside leg coiled, left arm stretch, outside
 backswing.**
 
 This compact outside move is one of the core \"modern\" commonalities we
-see with the forehands of Ken and Ash. Watch Ken\'s backswing go back
+see with the forehands of Ken and Ash. Watch Ken's backswing go back
 and slightly up. See that the face of the racket is slightly closed or
 titled slightly downward toward the court.
 
@@ -175,8 +170,7 @@ have the fundamental elements of the pro turn.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_two-forehands/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-forehands/media/image6.webp)
 
 **Ash: Full turn, outside leg coiled, left arm stretch, outside
 backswing.**
@@ -190,10 +184,10 @@ between the two players.
 Ken typically steps into the ball with a neutral stance. Both feet stay
 on the court. His front foot stays flat on the surface and he comes up
 on his back toe. This is all perfect for the type of incoming balls he
-gets when he plays, balls that don\'t usually bounce much above waist
+gets when he plays, balls that don't usually bounce much above waist
 level.
 
-Ken\'s forward body rotation is about 90 degrees, finishing with the
+Ken's forward body rotation is about 90 degrees, finishing with the
 shoulders parallel to the net. At contact his shoulders about 45 degrees
 to the net. His racket face stays basically vertical to the court or on
 edge out through the shot, a classic eastern swing. His wrap decelerates
@@ -205,23 +199,22 @@ usually comes off the court with one or both feet.
 
 His shoulders are parallel to the net at contact, and his back shoulder
 continues to rotate until it is facing the net or close, a total
-rotation about twice Ken\'s, roughly 180 degrees.
+rotation about twice Ken's, roughly 180 degrees.
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image7.webp)
 
 **What underlies the obvious differences in the forward swings?**
 
-Ash\'s normal swing has a full wiper rotation with the racket face
+Ash's normal swing has a full wiper rotation with the racket face
 turning over, going from pointing at the right sideline at contact, to
 pointing at the left sideline as he extends his swing. His wrap is
 around the shoulder, not over.
 
 **Similarities?**
 
-That\'s a lot of obvious difference in the forward swing. But are there
-any similarities? The answer is yes. One critical one. And that\'s the
+That's a lot of obvious difference in the forward swing. But are there
+any similarities? The answer is yes. One critical one. And that's the
 other core \"modern\" commonality. This is the extension point on the
 forward swing.
 
@@ -243,8 +236,7 @@ moves on a three dimensional arc. Extension is what keeps this arc close
 to the shot line and maximizes racket speed.
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image8.webp)
 
 **Both players at the checkpoints for extension on the forward swing.**
 
@@ -256,25 +248,24 @@ extreme the more bend. This means a little straighter for Ken, a little
 more bent for Agassi, more bent for Ash.
 
 Yes, Federer, Delpo, Hyeon Chung, Nadal and others have straight arms.
-Brian Gordon says that that\'s the most powerful and efficient arm
+Brian Gordon says that that's the most powerful and efficient arm
 structure at high levels. But recently, talking to him in Florida, he
 explained how few players really have the ability to do that. Look
 forward to the two coming articles I did with him in which he discusses
 this and many other issues as his work with elite players has continued.
 
-I am not saying you can\'t try for the straight arm---you might be one
+I am not saying you can't try for the straight arm---you might be one
 of the gifted few. But in working with these two players I felt the core
 commonalities were exponentially more important.
 
 So which style do I prefer? Both. I love starting players with an
 eastern grip, an outside backswing, and a simple forward swing like
-Ken\'s. But most high level players will develop elements similar to Ash
+Ken's. But most high level players will develop elements similar to Ash
 as they progress and compete. Between the two extremes there is a lot of
 room for development and variation.
 
 ![A person playing tennis Description automatically
-generated](media_two-forehands/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-forehands/media/image9.webp)
 
 **The hitting arm configurations for Ken, Ash---and Andre Agassi.**
 
@@ -289,21 +280,20 @@ forehand are precision and consistency.
 He forehand is so simple and repeatable that he never misses. There are
 a lot of guys at his level trying to play more like Ash. But imagine
 being on the other side of the net when one ball after another comes
-back with that solid, smooth swing. Until one of Ken\'s would be power
+back with that solid, smooth swing. Until one of Ken's would be power
 opponents hits the ball out or into the back fence.
 
-So the Modern Forehand: Where Are We Now? We\'ve worked through the
+So the Modern Forehand: Where Are We Now? We've worked through the
 commonalites and now seen how to apply them.
 
 Ken and Ash are decades and levels apart. But both have successful and
 effective forehands because of rock solid \"modern\" fundamentals. After
-all our filming and study, it\'s great to be able to identify and use
+all our filming and study, it's great to be able to identify and use
 them in teaching.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_two-forehands/media/image10.jpeg){width="1.8263888888888888in"
-height="2.64375in"}
+confidence](media_two-forehands/media/image10.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

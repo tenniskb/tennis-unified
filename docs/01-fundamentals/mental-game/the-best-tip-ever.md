@@ -10,8 +10,7 @@
 
 ![A couple of men pose for a picture with tennis rackets Description
 automatically generated with medium
-confidence](media_the-best-tip-ever/media/image1.jpg){width="2.7592311898512687in"
-height="2.0970155293088366in"}
+confidence](media_the-best-tip-ever/media/image1.jpg)
 
 **Keith with Bill Hager: idol, mentor, partner, friend.**
 
@@ -44,8 +43,7 @@ stronger you can hit it. This was vintage Bill---one simple tip covered
 just about everything.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-best-tip-ever/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-best-tip-ever/media/image2.webp)
 
 **Move to the volley quickly and eat the ball.**
 
@@ -73,8 +71,7 @@ times, but it somehow took on a different meaning when Bill Hager said
 it. In fact, Bill gave the old axiom new and instant credibility.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-best-tip-ever/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-best-tip-ever/media/image3.webp)
 
 **Bill taught me to spin the first serve in when I was missing.**
 
@@ -135,8 +132,7 @@ looming right over their court, monitoring their every move.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-best-tip-ever/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-best-tip-ever/media/image4.webp)
 
 **Bill and I like to play points on the doubles diagonals.**
 
@@ -168,24 +164,23 @@ it.
 Play like you practice, and practice like you play. It may be the best
 tip ever, but few of us really want to hear it.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                   | USPTA instructor Keith Hayes attended Pepperdine      |
-| confidence](media_the-best-tip-ever/media/image5.jpeg){width="1.2986111111111112in" | University in the 1980s. There, he encountered Head   |
-| height="1.8506944444444444in"}                                                                                                                                      | Tennis Coach Allen Fox and became a counselor at his  |
-|                                                                                                                                                                     | summer tennis camps, beginning a tennis teaching      |
-|                                                                                                                                                                     | career - and a friendship with Allen - that has       |
-|                                                                                                                                                                     | continued ever since. After Pepperdine, Keith went to |
-|                                                                                                                                                                     | work in the San Francisco Bay Area advertising and    |
-|                                                                                                                                                                     | graphic design industries. Later he also became an    |
-|                                                                                                                                                                     | English teacher. As head coach of the Marin Catholic  |
-|                                                                                                                                                                     | High School women\'s tennis team, Keith won           |
-|                                                                                                                                                                     | back-to-back Division II North Coast Section titles   |
-|                                                                                                                                                                     | in 2008 and 2009. When he\'s not teaching tennis,     |
-|                                                                                                                                                                     | Keith continues to work as a freelance writer and     |
-|                                                                                                                                                                     | designer. In addition to Tennisplayer.net, his        |
-|                                                                                                                                                                     | stories have also appeared in TENNIS magazine.        |
-|                                                                                                                                                                     |                                                       |
-|                                                                                                                                                                     |                                                       |
-+=====================================================================================================================================================================+=======================================================+
+| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
+| --- | --- |
+| confidence](media_the-best-tip-ever/media/image5.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
+|  | summer tennis camps, beginning a tennis teaching |
+|  | career - and a friendship with Allen - that has |
+|  | continued ever since. After Pepperdine, Keith went to |
+|  | work in the San Francisco Bay Area advertising and |
+|  | graphic design industries. Later he also became an |
+|  | English teacher. As head coach of the Marin Catholic |
+|  | High School women's tennis team, Keith won |
+|  | back-to-back Division II North Coast Section titles |
+|  | in 2008 and 2009. When he's not teaching tennis, |
+|  | Keith continues to work as a freelance writer and |
+|  | designer. In addition to Tennisplayer.net, his |
+|  | stories have also appeared in TENNIS magazine. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

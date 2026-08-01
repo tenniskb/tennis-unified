@@ -24,37 +24,35 @@ different from explaining how the upward swing is actually executed.
 
 Joint forces and torques are the engines that transfer momentum upward
 to the racquet. They drive the joint and segment rotations. But how do
-players make these joint and segment rotations happen? Let\'s address
+players make these joint and segment rotations happen? Let's address
 that in this article.
 
 ![A picture containing wall, indoor, athletic game, sport Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image1.webp){width="2.5in"
-height="3.5833333333333335in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image1.webp)
 
 **How do players actually make the upward swing happen?**
 
-Let\'s start with a basic distinction and see what parts of the motion
+Let's start with a basic distinction and see what parts of the motion
 are driven by active muscle contraction and what happens as a
-consequence of other motions, what we\'ve called dependent motion
+consequence of other motions, what we've called dependent motion
 effects.
 
-Finally, let\'s address some of the most common problems we see with the
-upward swing in coaching. We\'ll see how our 3D analysis allows us to
+Finally, let's address some of the most common problems we see with the
+upward swing in coaching. We'll see how our 3D analysis allows us to
 pinpoint the problems and make subtle changes in the motion that can
 have a significant impact on racket speed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image2.webp)
 
 **The upward swing: the subject of conjecture and misunderstanding.**
 
 **The Mystery**
 
 **[[The movement of the racket to contact is the subject of much
-conjecture and misunderstanding in the tennis world. It\'s not hard to
+conjecture and misunderstanding in the tennis world. It's not hard to
 understand why. Just look at the many elements involved: upper arm
 rotation, elbow extension, forearm supination and pronation, ulnar
 deviation, and wrist flexion.]{.underline}]{.mark}**
@@ -66,8 +64,7 @@ the naked eye to observe accurately. The motion is so complicated that
 the full picture has yet to be fully described. Still, I believe we can
 identify pieces of the puzzle that will help any player.
 
-![](media_the-3d-serve-upward-swing-part-2/media/image3.gif){width="2.2916666666666665in"
-height="2.9583333333333335in"}
+![](media_the-3d-serve-upward-swing-part-2/media/image3.gif)
 
 **How contraction causes joint rotations.**
 
@@ -95,8 +92,7 @@ English, in this case, the elbow extends.
 
 ![A hand holding a pair of headphones Description automatically
 generated with medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image4.gif){width="2.8645833333333335in"
-height="3.6979166666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image4.gif)
 
 **How a Joint Force Causes Segment Rotation.**
 
@@ -122,7 +118,7 @@ white arrow).
 Making sense of these motion dependent effects is difficult. Our
 animation example here is actually over simplified, because there is
 also a joint force acting on the forearm at the wrist which plays a
-role. Another problem is that we don\'t as yet fully understand the
+role. Another problem is that we don't as yet fully understand the
 origins of all the joint forces.
 
 **Investigate the causes of the joint rotations for yourself.**
@@ -142,7 +138,7 @@ torque) and joint forces (motion dependent torque) to rotate the
 segments of the hitting arm.
 
 To aid in the understanding of the kinetics of the hitting arm segment
-rotations, I\'ve constructed an animation that allows the reader to
+rotations, I've constructed an animation that allows the reader to
 investigate the causes of the rotations. The animation uses the data
 from my database of top college players.
 
@@ -151,7 +147,7 @@ The rotation axis is displayed as a red arrow originating at the segment
 center of mass. The arrow corresponds to the joint axis of rotation (for
 example, the flexion/extension of the elbow). Another red arrow rotates
 around the axis. This rotating arrow simply describes a rotational
-direction around the axis, a direction I\'ll call positive.
+direction around the axis, a direction I'll call positive.
 
 As discussed, kinetic sources of a segment rotation may include muscular
 contractions around the joints at either end of the segment (proximal
@@ -160,8 +156,7 @@ forces, again at either end of the segment.
 
 ![A picture containing court, athletic game, sport, player Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image5.webp)
 
 **The complexity of the upward swing has to be understood segment by
 segment.**
@@ -183,13 +178,12 @@ effect of that force.
 
 This animation gives a real indication of how complex the kinetics
 during the upward swing really are. Many individual components interact
-to cause the motion we see. To make sense of it all, let\'s go segment
+to cause the motion we see. To make sense of it all, let's go segment
 by segment and see how all these factors work together, starting with
 the upper arm.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-3d-serve-upward-swing-part-2/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image6.webp)
 
 **Shoulder abduction: the upward and forward motion of the upper arm
 from the shoulder joint.**
@@ -202,7 +196,7 @@ upward swing the elbow is both lifted (abduction: Y axis) and moved
 forward (horizontal adduction: X axis). In both cases, the motion
 dependent effect acts in opposition to the muscle torque.
 
-Doesn\'t this mean the player is actually working against himself?
+Doesn't this mean the player is actually working against himself?
 Actually, this phenomenon is beneficial to muscular force production.
 The motion dependent torque allows the conscious contraction to occur in
 slower conditions than it would otherwise. As pointed out earlier in
@@ -216,8 +210,7 @@ cartwheel and twisting rotation of the trunk.
 
 ![A picture containing court, athletic game, sport, player Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image5.webp)
 
 **The sequence of external and internal rotation in the upward swing.**
 
@@ -251,8 +244,7 @@ at the court.
 
 ![A picture containing tennis, sport, person, racket Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image7.webp)
 
 **Forearm rotation of the forearm during the middle and late portions of
 the upward swing.**
@@ -270,7 +262,7 @@ increases.]{.underline}]{.mark}*** **[During this time, it is
 interesting to note that the muscular driven joint torque at the elbow
 changes to a flexion tendency.]{.mark}**
 
-It is possible that during this time the extensor muscles can\'t keep up
+It is possible that during this time the extensor muscles can't keep up
 with the rate of extension, creating an inhibiting influence on this
 action. A second possibility, though less likely, is that the flexors
 are used to control the rate of extension.
@@ -286,8 +278,7 @@ second duration.]{.mark}**
 
 ![A picture containing tennis, court, sport, athletic game Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image8.webp)
 
 **[[Initial forearm supination, followed by
 pronation.]{.underline}]{.mark}**
@@ -311,8 +302,7 @@ supination through the pronator torque could represent another
 application of the stretch-shorten cycle.]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-3d-serve-upward-swing-part-2/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image9.webp)
 
 **[[Upper arm rotation creates speed, pronation positions the
 racket.]{.underline}]{.mark}**
@@ -346,8 +336,7 @@ extension.]{.underline}]{.mark}**
 
 ![A picture containing court, sport, swinging, player Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image10.webp)
 
 **[[Ulnar deviation, the wrist flex to the right, is motion
 dependent.]{.underline}]{.mark}**
@@ -372,8 +361,7 @@ influence on this joint motion near contact.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image11.webp)
 
 **Pronation positions the wrist flexion axis for maximum effect.**
 
@@ -405,8 +393,7 @@ readily observable.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image12.webp)
 
 **Angular momentum is generated from the ground up.**
 
@@ -417,14 +404,14 @@ and transferred to the hitting arm by timely use of conscious muscular
 force.]{.underline}]{.mark}** ***[[The rotational body sequencing
 produces motion dependent effects, which dictate further muscular
 contraction \-- all this leads to contact racquet speed and direction.
-Again, it\'s a complex picture and it\'s a mistake to isolate one or two
+Again, it's a complex picture and it's a mistake to isolate one or two
 factors as the magic key to high performance
 serving.]{.underline}]{.mark}***
 
 **Common Upward Swing Problems**
 
-We\'ve covered a lot of issues in part 1 and part 2 of the upward swing.
-Now let\'s apply what we\'ve learned to some common upward swing
+We've covered a lot of issues in part 1 and part 2 of the upward swing.
+Now let's apply what we've learned to some common upward swing
 problems I see in coaching, and pose some possible solutions. In this
 way perhaps we can see how technical analysis can actually come into
 play in coaching practice.
@@ -437,13 +424,12 @@ swing.]{.underline}]{.mark}***
 
 This is because, in our 3D data, the errors will nearly always manifest
 themselves as irregularities, or plateaus, in the curve charting racquet
-speed. So if the curve doesn\'t show smooth continuous acceleration, we
+speed. So if the curve doesn't show smooth continuous acceleration, we
 are suspicious the player may not have maximized his racket speed.
 
 ![A picture containing tennis, sport, person, athletic game Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image13.webp)
 
 **The legs are key to transferring angular momentum during the
 backswing.**
@@ -478,15 +464,14 @@ the leg drive, or in the case of many junior players, insufficient power
 in the required muscles. (This is why off court training is so
 important.)
 
-![](media_the-3d-serve-upward-swing-part-2/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-3d-serve-upward-swing-part-2/media/image14.webp)
 
 **A complex chain of interrelated actions: shoulder abduction, elbow
 extension, ulnar deviation, internal shoulder rotation, wrist flexion.**
 
 **Hitting Arm Motion Sequencing**
 
-Let\'s review the chain of events for the hitting arm.
+Let's review the chain of events for the hitting arm.
 
 ***[[First shoulder joint motion to elevate and move forward the elbow
 joint.]{.underline}]{.mark}***
@@ -523,7 +508,7 @@ speed.]{.mark}***
 racket speed development.]{.mark}*** **[In effect, the elbow extension
 is contributing at the wrong time. This creates a plateau in velocity in
 the later stages. The effect of the elbow extension has been depleted at
-the time it should be playing it\'s critical role. This leaves a void in
+the time it should be playing it's critical role. This leaves a void in
 the middle portion of the upward swing.]{.underline}**
 
 **The latter deficiency is often a result of an [unconscious effort by
@@ -534,8 +519,7 @@ player ends up supplementing the late racket speed development with
 extra non-twisting shoulder joint motion.]{.underline}**
 
 ![A picture containing text, person, player Description automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image15.webp)
 
 **The X Factor: explosive internal shoulder rotation.**
 
@@ -546,7 +530,7 @@ shoulder rotation into the upward swing is the x-factor in developing a
 high level serve. It has also been my experience poor utilization of
 this resource dooms developing players to mediocrity.
 
-To a large degree, developing a player\'s use of this action relates to
+To a large degree, developing a player's use of this action relates to
 natural ability, although this can be enhanced significantly by a well
 designed off-court training program. This is not the place to go into
 the details of this type of training, although I plan to write more
@@ -575,8 +559,7 @@ configuration.]{.mark}**
 
 ![A picture containing tennis, ball, sport, athletic game Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image16.webp)
 
 **[[The angle of the racket shaft in line with the angle of the
 torso.]{.underline}]{.mark}**
@@ -592,7 +575,7 @@ select \"Display Angle View\" \-- then use \"Show Next Angle\" to toggle
 through to the contact angles. It shows how the trunk is less tilted in
 the more recent serve (49 vs. 44 degrees from the left horizontal).
 
-Let\'s see how that relates to the critical hitting arm angle. Toggle
+Let's see how that relates to the critical hitting arm angle. Toggle
 two more angles and notice the angle between the hitting arm and racquet
 has decreased from 165 to 148 degrees. The result is that the
 contribution of internal rotation to racquet head speed is increased.
@@ -610,8 +593,7 @@ contribution over the same interval. This can be verified by selecting
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image17.webp)
 
 **The followthrough should gracefully slow the segments.**
 
@@ -649,8 +631,7 @@ the elbow bends almost immediately after contact and earlier than
 virtually any other player.
 
 ![A picture containing text Description automatically
-generated](media_the-3d-serve-upward-swing-part-2/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-2/media/image18.webp)
 
 **A quick elbow flexion can decrease the risk of injury following full
 extension.**
@@ -673,7 +654,7 @@ rest of the body to rotate more slowly, and allowing smoother
 recovery.]{.mark}**
 
 **[The extent and direction of the leg kick also speaks volumes about
-how angular momentum was generated earlier. It\'s a good key for
+how angular momentum was generated earlier. It's a good key for
 diagnosing what actually happened in the motion.]{.underline}**
 
 - The lack of kick back indicates insufficient angular momentum to hit a
@@ -690,8 +671,7 @@ diagnosing what actually happened in the motion.]{.underline}**
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-2/media/image19.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-2/media/image19.webp)
 
 **The leg kick allows players to transfer angular momentum for smooth
 recovery.**
@@ -727,21 +707,20 @@ for yourself or for your players.
   and use your instincts and common sense before making radical changes
   in your motion in your desire to serve like a top pro.**
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                           | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-3d-serve-upward-swing-part-2/media/image20.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                          | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                        | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                        | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                        | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                        | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                        | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                        | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                        | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | To visit his website, [**[Click                               |
-|                                                                                                                                                                                        | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                        | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+========================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-3d-serve-upward-swing-part-2/media/image20.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

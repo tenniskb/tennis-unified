@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![Diagram Description automatically
-generated](media_using-statistics-to-improve-results/media/image1.jpg){width="3.2848490813648294in"
-height="2.16799978127734in"}
+generated](media_using-statistics-to-improve-results/media/image1.jpg)
 
 **Some of the 85 core baseball stats.**
 
@@ -33,8 +32,7 @@ typically elite college and tour players.
 
 ![A group of men playing tennis Description automatically generated with
 low
-confidence](media_using-statistics-to-improve-results/media/image2.jpg){width="5.208333333333333in"
-height="3.611111111111111in"}
+confidence](media_using-statistics-to-improve-results/media/image2.jpg)
 
 **Most coaches rely on individual knowledge and personal experience.**
 
@@ -55,8 +53,7 @@ able to attend competitions on a regular basis.
 
 ![Two people holding tennis rackets Description automatically generated
 with medium
-confidence](media_using-statistics-to-improve-results/media/image3.jpg){width="4.166666666666667in"
-height="4.847222222222222in"}
+confidence](media_using-statistics-to-improve-results/media/image3.jpg)
 
 **Family influence is crucial through positive focus and
 encouragement.**
@@ -66,16 +63,16 @@ mentor---anyone who regularly attends tournaments with the player.
 
 Currently parents usually only pay for lessons, transport the player to
 tournaments and sit frustrated on the sideline. Many of us have
-witnessed how difficult it can be for parents, who don\'t usually
+witnessed how difficult it can be for parents, who don't usually
 understand what happens on the court, not to mention for the player, and
 of course the coach who has to rely on second hand anecdotal
 information.
 
-The importance of the family or mentor role in an athlete\'s development
+The importance of the family or mentor role in an athlete's development
 is crucial. Heavily involved families with a positive focus assist
 athletes through encouragement, focus, and support. But now affordable
 technologies are enhancing the family and mentor role by allowing them
-to have a significant impact across all facets of the player\'s game.
+to have a significant impact across all facets of the player's game.
 
 Newly published apps provide a way for all levels of tennis players to
 have access to the performance enhancing data that was previously
@@ -99,7 +96,7 @@ below.
 3.  **Easily Digestible Relevant Information**
 
 These apps are very valuable for scouting. A good app will point out the
-other player\'s strengths and weaknesses so you can create an effective
+other player's strengths and weaknesses so you can create an effective
 game plan. This is done in every other sport.
 
 Your job as a parent, mentor, or coach is to ensure that your player
@@ -107,8 +104,7 @@ improves as quickly as possible, and learning to make successful game
 plans should be part of their education.
 
 ![Icon Description automatically
-generated](media_using-statistics-to-improve-results/media/image4.jpg){width="3.125in"
-height="4.041666666666667in"}
+generated](media_using-statistics-to-improve-results/media/image4.jpg)
 
 **Racket Stats provides the numbers to optimize performance. ([Click
 Here](https://racketstats.com/).)**
@@ -119,7 +115,7 @@ by opinion, but by factual data.
 
 **What to Evaluate**
 
-When we evaluate a player\'s game, there are many viewpoints. Do they
+When we evaluate a player's game, there are many viewpoints. Do they
 hit lots of winners? Do they make too many mistakes? Do they go to the
 net too little or too much? Do they defend well?
 
@@ -141,10 +137,9 @@ Win/Error ratio is .67.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_using-statistics-to-improve-results/media/image5.jpg){width="3.125in"
-height="4.305555555555555in"}
+confidence](media_using-statistics-to-improve-results/media/image5.jpg)
 
-**What did the numbers show about Iga Świątek\'s victory in the 2020
+**What did the numbers show about Iga Świątek's victory in the 2020
 French Open?**
 
 For the purpose of the Win/Error ratio, a \"winner\" is a shot hit
@@ -165,10 +160,10 @@ coaches a great place to start by giving an overview of how and where
 matches are won and lost.
 
 So when we look at a printout of a match from Racket Stats, the first
-area to look at is the Win/Error Ratio for both players. Let\'s use a
+area to look at is the Win/Error Ratio for both players. Let's use a
 recent pro match example to see what the ratios show.
 
-In the 2020 Women\'s French Open Final, Iga Świątek defeated Sophia
+In the 2020 Women's French Open Final, Iga Świątek defeated Sophia
 Kevin 6-4, 6-1. Kenin hit only 5 winners while making 36 errors. Her
 Win/Error ration was therefore only.14. In contrast Świątek hit 27
 winners with only 41 errors for a ratio of .66.
@@ -185,10 +180,9 @@ scanning the sections, you get a quick view of where the winners and
 errors are coming from.
 
 ![A person playing tennis Description automatically
-generated](media_using-statistics-to-improve-results/media/image6.jpg){width="4.861111111111111in"
-height="2.736111111111111in"}
+generated](media_using-statistics-to-improve-results/media/image6.jpg)
 
-**Kenin\'s Win/Error ratio was significantly lower than Swiatek\'s on
+**Kenin's Win/Error ratio was significantly lower than Swiatek's on
 the baseline.**
 
 Win/Error Ratio averages change as you look at each of these sections.
@@ -196,7 +190,7 @@ The ratio is usually fairly high for the Serve and Net Sections, but
 much lower for Returns and Groundstrokes.
 
 Kenin and Świątek squared off evenly in the Serve Section both with a
-Win/Error Ratio of .33. But that changed at the net, where Kenin\'s
+Win/Error Ratio of .33. But that changed at the net, where Kenin's
 ratio was 1.0 while Świątek dominated with a ration9.0.
 
 In the Return Section, Kenin won the battle with .60 ratio, against
@@ -221,23 +215,22 @@ The chart summarizes the Win/Error rations for both players.
 So when you look at your child or student, the first thing you need to
 do is to chart several matches to establish a trustworthy baseline and
 look at the Overall Win/Error Ratio. Then look at the ratios in the
-different areas, and depending on the player\'s game, pick the most
+different areas, and depending on the player's game, pick the most
 important areas, and get to work either increasing the winners or
 reducing the errors.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_using-statistics-to-improve-results/media/image7.jpg){width="5.555555555555555in"
-height="3.0694444444444446in"}
+confidence](media_using-statistics-to-improve-results/media/image7.jpg)
 
-**A critical factor was Swiatek\'s Win/Error ratio at the net.**
+**A critical factor was Swiatek's Win/Error ratio at the net.**
 
 With Racket Stats you also get statistics while the match is in
 progress, Live Stats. Between changeovers or delays, you can look at the
 stats for both players to become aware of where each player is
 succeeding and failing.
 
-Let\'s say that when your player is serving 2nd serves to the deuce
+Let's say that when your player is serving 2nd serves to the deuce
 court that they are winning 51% of the points. But when serving 2nd
 serves to the ad court they are winning only 35% of the points.
 
@@ -256,8 +249,7 @@ situations, making them more competitive against every type of opponent.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_using-statistics-to-improve-results/media/image8.jpeg){width="2.34375in"
-height="2.2083333333333335in"}
+confidence](media_using-statistics-to-improve-results/media/image8.jpeg)
 
 Andy Durham is the founder of RacketStats.com, an app allowing parents,
 players and coaches an easy system to chart and get access to vital

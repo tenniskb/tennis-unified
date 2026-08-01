@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-two-handed-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-two-handed-backhand/media/image1.webp)
 
 **The movement of the legs to create true alignment on the two-handed
 backhand is critical but not widely understood.**
@@ -14,7 +13,7 @@ backhand is critical but not widely understood.**
 The concept of true alignment refers to the angles between the legs and
 the hips in relation to the line of the shot. In a previous article I
 looked at True Alignment on the forehand. ([Click
-Here](True%20Alignment.docx).) Now let\'s do the same for the two-handed
+Here](True%20Alignment.docx).) Now let's do the same for the two-handed
 backhand.
 
 The combinations of movements that creates true alignment has changed my
@@ -23,8 +22,7 @@ the one-handed backhand, the serve, approach shots, and the
 volleys---something I will detail in future articles.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-two-handed-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-two-handed-backhand/media/image2.webp)
 
 **Top players use open, neutral and closed stances.**
 
@@ -45,15 +43,14 @@ significantly more closed at contact, rotating at most 30 degrees and
 are often parallel to the target line or close to parallel at contact.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-two-handed-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-two-handed-backhand/media/image3.webp)
 
 **The hips rotate far less than the shoulders often staying close to the
 target line at contact.**
 
 **How?**
 
-This alignment of the hips has a profound effect on the players\'
+This alignment of the hips has a profound effect on the players'
 ability to generate racket speed, ball speed, and spin. How is it
 created? The alignment of the hips is controlled by the back leg. This
 is the least understood component in true alignment\--although it is
@@ -74,8 +71,7 @@ too far and too soon.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-two-handed-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-two-handed-backhand/media/image4.webp)
 
 **Watch the backward movement of the rear leg control the timing and
 amount of rotation of the hips.**
@@ -85,9 +81,9 @@ rotation]{.underline}]{.mark}** **[[and the correct timing of this
 rotation naturally and automatically maximizes the acceleration of the
 hitting arms and racket.]{.mark}]{.underline}**
 
-Let\'s look at what happens in open stance first. Then we will look at
+Let's look at what happens in open stance first. Then we will look at
 neutral, and then finally closed. Closed stance is much more advanced
-and not something I teach initially. It\'s something players can add if
+and not something I teach initially. It's something players can add if
 they reach higher levels than the majority of players.
 
 **How It Starts**
@@ -104,7 +100,7 @@ players to create the proper hitting zone consistently. This leads to
 bad swing patterns.
 
 Trying to step-in on all backhands is one of the main reasons the
-recreational player never reaches his or her potential. It\'s why most
+recreational player never reaches his or her potential. It's why most
 one-handed backhand recreational players find it difficult to drive the
 ball with topspin with any kind of consistency.
 
@@ -115,8 +111,7 @@ soon, making it hard to reach true alignment at contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-two-handed-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-two-handed-backhand/media/image5.webp)
 
 **The movement initiates with the outside foot with the set up in
 semi-open stance.**
@@ -129,23 +124,22 @@ hitting then move to more neutral stance hitting.]{.mark}]{.underline}**
 **[[The backhand movement is initiated by the rear or outside foot. This
 is important because the final step into the setup is on the same
 foot.]{.underline}]{.mark}** **[[This final step is often called the
-\"load step\". It\'s called that because a player is loading his weight
+\"load step\". It's called that because a player is loading his weight
 on that foot to achieve maximum leg drive into the
 shot.]{.underline}]{.mark}**
 
 The load step should land behind the ball in alignment with the
-player\'s intended target. This alignment is crucial when the player
+player's intended target. This alignment is crucial when the player
 initiates the closing of the hips. Watch the back leg push but then
 watch how it then moves back behind the player. This is what controls
 the position of the hips and the creation of power.
 
 With open stance what happens to the front foot and leg is as important
-as what happens to the back. It\'s clear in the high-speed videos, but
-again isn\'t much recognized or discussed in teaching.
+as what happens to the back. It's clear in the high-speed videos, but
+again isn't much recognized or discussed in teaching.
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-two-handed-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-two-handed-backhand/media/image6.webp)
 
 **Andy Murray slams the door with the front foot as the rear foot goes
 back---watch how that keeps the hips from over-rotating.**
@@ -159,9 +153,9 @@ power.
 
 In effect the legs end up in similar alignment to a neutral stance, with
 a line across the toes basically parallel to the target line. Proper set
-up and the use of the back leg is what makes this possible. It wouldn\'t
+up and the use of the back leg is what makes this possible. It wouldn't
 happen without the proper position of the rear leg or if the leg was
-swinging around as part of the stroke. Once a player\'s ball tracking
+swinging around as part of the stroke. Once a player's ball tracking
 has improved then the player can start to learn how to Slam the door
 with their legs and hips.
 
@@ -177,15 +171,14 @@ extreme and step across towards the ball with the front foot. This is
 closed stance hitting. 
 
 ![A person playing tennis Description automatically
-generated](media_true-alignment-the-two-handed-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_true-alignment-the-two-handed-backhand/media/image7.webp)
 
 **Watch the back foot go back to control the speed of the hip rotation
 on neutral and closed stances two-handers.**
 
 This creates a bit more rotation both from the shoulders and the hips
 which done correctly can create more racket head speed though the ball.
-I normally don\'t teach this skill to the club player because it takes
+I normally don't teach this skill to the club player because it takes
 tremendous core strength and coordination to maintain true alignment at
 the point of contact. 
 
@@ -213,8 +206,7 @@ come across the body in the direction of the side fence.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_true-alignment-the-two-handed-backhand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_true-alignment-the-two-handed-backhand/media/image8.webp)
 
 **The scissoring of the legs is the most explosive use of true
 alignment.**
@@ -237,22 +229,21 @@ directional control. Your swing path will naturally start to improve
 producing more racket speed, power and spin. Have a great time working
 on this!! Have Fun!!
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                                 | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_true-alignment-the-two-handed-backhand/media/image9.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                              | numerous ranked junior players and coached  |
-|                                                                                                                                                                                             | a series of championship high school teams. |
-|                                                                                                                                                                                             | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                             | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                             |                                             |
-|                                                                                                                                                                                             | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                             | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                             | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                             | are now splitting time between homes in     |
-|                                                                                                                                                                                             | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                             | continued to coach and to have great        |
-|                                                                                                                                                                                             | competitive success winning Canadian        |
-|                                                                                                                                                                                             | National seniors titles---not to mention    |
-|                                                                                                                                                                                             | continuing to write articles for            |
-|                                                                                                                                                                                             | Tennisplayer from his unique perspective.   |
-+=============================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_true-alignment-the-two-handed-backhand/media/image9.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

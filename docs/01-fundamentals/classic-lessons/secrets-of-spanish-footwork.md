@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-footwork/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-footwork/media/image1.webp)
 
 **Footwork and balance: a Spanish obsession.**
 
@@ -18,10 +17,10 @@ found across the country into simple elements that all coaches, parents,
 and players around the world can learn and assimilate into their own
 training systems.
 
-I\'ve often remarked that the Spanish way is like the Buddhism religion,
+I've often remarked that the Spanish way is like the Buddhism religion,
 which historically spread rapidly throughout Asia and the rest of the
 world due to its ease of assimilation and adaptability to other
-religions. So in the next articles let\'s look at some of these
+religions. So in the next articles let's look at some of these
 adaptable secrets, starting with footwork and balance.
 
 **Footwork and Balance**
@@ -35,8 +34,7 @@ quickly, fluidly, and to get in position. Why has footwork become such
 an obsession in Spanish coaching circles?
 
 ![A person playing tennis Description automatically
-generated](media_secrets-of-spanish-footwork/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-footwork/media/image2.webp)
 
 **Spanish tennis celebrates red clay, a second teacher.**
 
@@ -48,7 +46,7 @@ the states.
 Second, it is related to the values of the Spanish tennis culture which
 celebrates running and triumphing on the red clay, where footwork is
 essential to winning. The clay surface itself is like a second teacher,
-helping to train the movement and balance even without the coach\'s
+helping to train the movement and balance even without the coach's
 input or drills.
 
 **Balance**
@@ -75,8 +73,8 @@ Spanish coaches look for the contact point to be at the right height. In
 Spain, the most frequent directive to describe this is: \"hit the ball
 between your hip and shoulder.\"
 
-In other words, don\'t let the ball drop below your hips or bounce over
-your shoulders where it\'s out of the strike zone (to borrow an American
+In other words, don't let the ball drop below your hips or bounce over
+your shoulders where it's out of the strike zone (to borrow an American
 baseball term). Thus the height of the struck ball should be between the
 hip and the shoulder for the majority of shots.
 
@@ -100,15 +98,14 @@ shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-footwork/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-footwork/media/image3.webp)
 
 **Contact in front: a critical component intertwined with balance and
 footwork.**
 
 Therefore, there is a critical connection between the contact point, the
 balance, and the footwork; they are intertwined, strung together.
-Ultimately, the positioning of the player\'s feet determines whether the
+Ultimately, the positioning of the player's feet determines whether the
 contact point is good, and thus whether the shot will be in balance or
 not. Spanish coaches become obsessed with the positioning because,
 without it, there is often a bad contact point and usually poor balance.
@@ -140,8 +137,7 @@ enough time working on footwork and especially this critical element of
 positioning.
 
 ![A person playing tennis Description automatically
-generated](media_secrets-of-spanish-footwork/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-footwork/media/image4.webp)
 
 **In Spain\--believe it or not\--the foundational hitting stance is
 neutral.**
@@ -178,8 +174,7 @@ approach, are inextricably linked.
 
 ![A person and a child playing tennis Description automatically
 generated with low
-confidence](media_secrets-of-spanish-footwork/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-footwork/media/image5.webp)
 
 **Spanish style training: the same movements over and over with
 precision.**
@@ -193,7 +188,7 @@ footwork teaching that I have observed of a classical, \"older-school\"
 Spanish coach like Pato Alvarez, tended to emphasize long sets of
 rhythmic movements rather than short bursts.
 
-Some younger, more modern coaches like Jofre Porta, Carlos Moya\'s
+Some younger, more modern coaches like Jofre Porta, Carlos Moya's
 junior and professional coach, emphasize short bursts of work training
 quickness more than stamina. Porta works in the repetition range of 4-8
 balls generally when he is training footwork, so there is some variation
@@ -203,21 +198,20 @@ But in my experience traveling to some of the most well-known academies
 in Spain, most Spanish movement training is still more stamina based,
 with long sets of 10 up to even 60 balls of repetitions.
 
-Pato Alvarez works this way. But Lluis Bruguera\'s system works a
+Pato Alvarez works this way. But Lluis Bruguera's system works a
 combination of both, with more emphasis on balance and positioning than
 pure quickness, although he has some drills that are shorter duration
 for quickness.
 
-Don\'t get me wrong, the Spanish coach wants quick, sharp, adroit
-footwork movements, but , just don\'t believe most Spanish coaches are
+Don't get me wrong, the Spanish coach wants quick, sharp, adroit
+footwork movements, but , just don't believe most Spanish coaches are
 systematically and regularly training for physical speed improvement,
 although some speed improvement is expected from any technical
 efficiencies gained.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_secrets-of-spanish-footwork/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-footwork/media/image6.webp)
 
 **Balance and positioning are trained rhythmically and aerobically.**
 
@@ -253,13 +247,12 @@ brain to the feet reaction.
 
 ![A picture containing athletic game, sport, court, tennis Description
 automatically
-generated](media_secrets-of-spanish-footwork/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-footwork/media/image7.webp)
 
 **Hand feeds train anticipation and reaction.**
 
-According to Lluis Bruguera, \"If before the ball is hit, you can\'t
-anticipate; if you open angles and you don\'t cover the court, your
+According to Lluis Bruguera, \"If before the ball is hit, you can't
+anticipate; if you open angles and you don't cover the court, your
 opponent has the advantage.\" \"If you are in good position to hit your
 shot, the results are completely different. To arrive in that position
 you need to learn two things: read (with the eyes) and go!\"
@@ -267,7 +260,7 @@ you need to learn two things: read (with the eyes) and go!\"
 To train the anticipation and the reaction, coaches will hand toss feeds
 in quick, random patterns and will try to disguise the tosses so as to
 surprise the player. The player is forced to use his eyes to read the
-coach\'s hands and to anticipate the next feed. Jofre Porta is a master
+coach's hands and to anticipate the next feed. Jofre Porta is a master
 of this type of footwork training. So is Bruguera.
 
 All differences aside, in Spain, hand feeding of footwork drills seems
@@ -284,8 +277,7 @@ defensive movement, which means retreating off the baseline to hit a
 shot.
 
 ![A person playing tennis Description automatically
-generated](media_secrets-of-spanish-footwork/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-footwork/media/image8.webp)
 
 **Spanish training is obsessed with 360 degree movement, including
 retreating off the baseline.**
@@ -311,8 +303,7 @@ ball is coming, to be in perfect position for more acceleration and more
 control.\"
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_secrets-of-spanish-footwork/media/image9.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_secrets-of-spanish-footwork/media/image9.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -329,14 +320,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_secrets-of-spanish-footwork/media/image10.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_secrets-of-spanish-footwork/media/image10.jpeg)
 
 **The Secrets of Spanish Tennis**
 

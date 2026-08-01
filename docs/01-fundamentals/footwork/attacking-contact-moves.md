@@ -7,18 +7,17 @@ Contact Moves**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_attacking-contact-moves/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_attacking-contact-moves/media/image1.webp)
 
-**Contact Moves with the feet and can\'t be explained simply in terms of
+**Contact Moves with the feet and can't be explained simply in terms of
 traditional hitting stances.**
 
 In this first article in this new series on Tennisplayer, I outlined the
 components of world class movement and the specific athletic skills that
 they are based on. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
-Now let\'s get into the movement patterns themselves and see the
-incredible athleticism and variety of the world\'s top players. And see
+Now let's get into the movement patterns themselves and see the
+incredible athleticism and variety of the world's top players. And see
 how these patterns apply to your game.
 
 Specifically I want to revisit my concept of the Contact Move. I
@@ -42,8 +41,7 @@ stance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_attacking-contact-moves/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_attacking-contact-moves/media/image2.webp)
 
 **\"Stepping down the court,\" the most basic attacking contact move.**
 
@@ -68,14 +66,13 @@ strokes and movement patterns you may have felt you had mastered and
 understood.
 
 In my research I have identified four categories of Contact Moves on the
-groundstrokes. In this article let\'s look first at the range Attacking
+groundstrokes. In this article let's look first at the range Attacking
 Contact Moves. These include shots in which the player keeps one or both
 feet on the ground, and others where they launch into the air.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_attacking-contact-moves/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_attacking-contact-moves/media/image3.webp)
 
 **Two balance moves: the knee bend on a low ball, the kick back on a
 higher one.**
@@ -99,13 +96,12 @@ back leg comes off the court and kicks back.
 **The Front Foot Hop**
 
 The Front Foot Hop is aggressive because you are using your feet to
-attack the ball. It\'s basically a more explosive version of the Step
+attack the ball. It's basically a more explosive version of the Step
 Down because it is hit off forward movement.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_attacking-contact-moves/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_attacking-contact-moves/media/image4.webp)
 
 **A step into the ball, an explosion forward into the air, a front foot
 landing, a sideways kick back.**
@@ -134,13 +130,12 @@ prevents him from opening up the torso too early and/or losing balance.
 
 **The Forward Transfer**
 
-Now let\'s look at aggressive contact moves off open stance set up in
+Now let's look at aggressive contact moves off open stance set up in
 which the player strikes the ball in the air, starting with what I call
 the Forward Transfer.
 
 ![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_attacking-contact-moves/media/image5.webp)
 
 **The Forward Transfer: contact in the air at chest level with a forward
 landing.**
@@ -151,7 +146,7 @@ bouncing incoming balls. On the Forward Transfer the contact point will
 be around chest level, or sometimes higher.
 
 I call it the Forward Transfer because that is the direction the
-player\'s weight moves during the swing.
+player's weight moves during the swing.
 
 The Forward Transfer is typically used on a medium pace ball or a
 floating ball hit around the center of baseline. It can be hit either
@@ -174,10 +169,9 @@ in pro tennis.
 **Lateral Transfer**
 
 ![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_attacking-contact-moves/media/image6.webp)
 
-**With the Lateral Transfer, the weight moves to the player\'s side
+**With the Lateral Transfer, the weight moves to the player's side
 during the landing.**
 
 A second in air contact move common in the pro game is the Lateral
@@ -186,7 +180,7 @@ higher. The Lateral Transfer differs from the Forward Transfer.in the
 direction of the movement of the weight.
 
 With the Lateral Transfer, the weight shift is less forward and more to
-the side or to the player\'s left. Typically players use the Lateral
+the side or to the player's left. Typically players use the Lateral
 Transfer when they are going Inside In.
 
 Again the players use a semi-open stance with the outside leg loaded.
@@ -203,8 +197,7 @@ kick back is also now more to the side. Again the rear leg comes around
 to reestablish balance and begin the recovery steps.
 
 ![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_attacking-contact-moves/media/image7.webp)
 
 **The backhand transfer: the future of aggression for two-handers?**
 
@@ -231,8 +224,7 @@ back in the initial movement phase as they set up the hitting stance. Or
 they may move back to get around a short ball to hit a forehand.
 
 ![A person playing tennis Description automatically
-generated](media_attacking-contact-moves/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_attacking-contact-moves/media/image8.webp)
 
 **The Backwards Lateral Hop: movement around the ball, rotation in the
 air, a left foot landing that moves slightly backwards.**
@@ -247,7 +239,7 @@ and set up in a loaded open stance. They can then uncoil upward into the
 ball.
 
 The difference with the lateral transfer is the landing is usually
-backwards and less to the player\'s left. Typically after the landing
+backwards and less to the player's left. Typically after the landing
 the left foot will also continue to point more forward rather than the
 side. Again, this contact move is paired with leg kick back as a balance
 move.
@@ -258,11 +250,10 @@ contact move in its own right, even if the movement to set up is on a
 backwards diagonal.
 
 So there we have our updated review of the aggressive contact moves.
-Let\'s discuss in the Forum. And stayed tuned for the next article on
+Let's discuss in the Forum. And stayed tuned for the next article on
 the Building Contact Moves!
 
-![](media_attacking-contact-moves/media/image9.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_attacking-contact-moves/media/image9.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

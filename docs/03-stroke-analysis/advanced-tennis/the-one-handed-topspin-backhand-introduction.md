@@ -7,29 +7,28 @@
 **John Yandell**
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image1.webp)
 
 **The modern one-hander: beautiful, versatile, powerful.**
 
-I think it\'s the most beautiful stroke in tennis: elegant, minimal,
-versatile, and deceptively powerful. I\'m talking about the one-handed
-topspin backhand drive. I\'ve always loved watching gifted players hit
+I think it's the most beautiful stroke in tennis: elegant, minimal,
+versatile, and deceptively powerful. I'm talking about the one-handed
+topspin backhand drive. I've always loved watching gifted players hit
 it, from Lew Hoad and Rod Laver to John McEnroe, Ivan Lendl, and Boris
 Becker, to Roger Federer and Richard Gasquet.
 
-I know that I\'ve been looking forward to turning my attention to this
+I know that I've been looking forward to turning my attention to this
 gorgeous and misunderstood stroke, to breaking it down into its
 technical components using the Advanced Tennis high speed footage
 ([[Click Here]{.underline}](http://www.advancedtennis.com/)), and
 explaining how to build a great one-handed backhand from the ground up.
-We\'ve got an incredible data base of high speed footage that includes
-over a dozen of the best one-handers in the world, something you won\'t
-find anywhere else in the world, so let\'s get started.
+We've got an incredible data base of high speed footage that includes
+over a dozen of the best one-handers in the world, something you won't
+find anywhere else in the world, so let's get started.
 
 **Classic Versus Extreme**
 
-One of the main issues we\'ll explore is the distinction between the
+One of the main issues we'll explore is the distinction between the
 so-called classic backhand and the more extreme version pioneered by
 players such as Gustavo Kuerten and Justine Henin-Hardenne. What are the
 differences and the similarities between the two styles and how they are
@@ -39,37 +38,35 @@ swing? Is the extreme backhand a good variation to use as a model? For
 what players and what levels?
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-one-handed-topspin-backhand-introduction/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-introduction/media/image2.webp)
 
 **What separates the extreme from the classic one-hander?**
 
 My suspicion is that on Tennisplayer we have a significant number of
 adult subscribers who hit it the one-hander and want to understand it
-and hit it better. So in this new series of articles we\'ll see what the
+and hit it better. So in this new series of articles we'll see what the
 high speed footage really shows us about the stroke as executed by the
 most gifted players in tennis, starting with the grips.
 
 **A Little Background**
 
-But before we do, let\'s talk about an amazing anomaly when it comes to
+But before we do, let's talk about an amazing anomaly when it comes to
 the role of the one-hander in tennis. This is the difference in the
 prevalence of the one-handed backhand in pro game as compared to other
 levels, especially the juniors. Look around in competitive junior
 tennis. Is it 100% two-handed backhands? No, but close. Now look at the
 pro tour in 2006. Federer. Ivan Lujubicic. James Blake. Tommy
-Robredo\--four of the top ten men\'s players are one-handers. It\'s
+Robredo\--four of the top ten men's players are one-handers. It's
 seven of the top 20 when you add Fernando Gonzales, Tommy Haas, and
 Gaston Gaudio.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-introduction/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-introduction/media/image3.webp)
 
 **Many top pro women are one-handers\--but very few juniors.**
 
-On the women\'s side, two of the top ten players are also one-handers:
+On the women's side, two of the top ten players are also one-handers:
 Justine Henin-Hardenne and Amelie Mauresmo. Add Francesca Shiavone and
 that makes 3 of the top 20. Very few junior boys hit with one-hand. And
 you virtually never see a one-handed player in the junior girls.
@@ -78,10 +75,10 @@ Why are there almost no one-handers in the juniors? The cold reality is
 that virtually all junior players are going to do better competitively
 with two-hands, at least in the short run, early in their careers.
 Players are starting at age 6, immediately focusing on tournaments, and
-there almost isn\'t a choice for these kids. Even Pete Sampras had a
+there almost isn't a choice for these kids. Even Pete Sampras had a
 two-hander until he was 14.
 
-Most junior players aren\'t going to be strong enough until they are in
+Most junior players aren't going to be strong enough until they are in
 their early teens to hit with one-hand. At least with full size balls
 and rackets. And maybe a revisioning of the junior game is what it would
 take to bring the one-hander back into the mainstream. (On this point,
@@ -90,8 +87,7 @@ see Paul Lubbers second article on player development in this issue.
 Here]{.underline}](http://www.tennisplayer.net/members/high_performance/paul_lubbers/progressive_development_part_2/progressive_development_part_2.html).)
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image4.webp)
 
 **How do you weigh the pluses and minuses of the one-hander in junior
 development?**
@@ -99,18 +95,18 @@ development?**
 When I was in the juniors in the 1960s, I think I was lucky because the
 two-hander literally did not exist. We all struggled with wood rackets,
 and generally learned to hit slice backhands. It was much more difficult
-to come over the ball, and most kids in those days simply weren\'t
+to come over the ball, and most kids in those days simply weren't
 strong enough to even try.
 
 The result was that we learned to drive the ball with slice on the model
-of Ken Rosewall. (It\'s not coincidence that this month we also have a
+of Ken Rosewall. (It's not coincidence that this month we also have a
 great article on the slice drive from my old friend Trey Waltke, [[Click
 Here]{.underline}](http://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_backhand/the_slice_backhand.html).)
-Now at age 50 I\'m quite grateful for that. I see a lot of players who
+Now at age 50 I'm quite grateful for that. I see a lot of players who
 played with two-hands in the juniors and who are now in their 30s and
 40s, and struggle to hit the two-hander at the same level as the rest of
 their games. A lot them now look like they might have been natural
-one-handers all along. But their junior rankings probably wouldn\'t have
+one-handers all along. But their junior rankings probably wouldn't have
 been as high, at least in the younger age divisions.
 
 **Pluses and Minuses**
@@ -118,15 +114,14 @@ been as high, at least in the younger age divisions.
 How do you weigh the pluses and minuses of all that? As a coach you are
 teaching a promising kid and you tell him this: \"I think you are a
 natural one-hander! You may not be able to hit a backhand as well as
-most kids for the next 5 years or longer, and you\'ll probably lose to
-less talented players because of that, but believe me, you\'ll thank me
-in the long run. Since there is almost no chance you\'ll ever be a pro,
-when you are 30 or 40 you\'ll be really glad you learned with one
+most kids for the next 5 years or longer, and you'll probably lose to
+less talented players because of that, but believe me, you'll thank me
+in the long run. Since there is almost no chance you'll ever be a pro,
+when you are 30 or 40 you'll be really glad you learned with one
 hand.\"
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image5.webp)
 
 **In many ways the one-hander is technically simpler than the
 two-hander.**
@@ -134,13 +129,13 @@ two-hander.**
 Think that as a teaching pro you can sell that to the average tennis
 parent? Most parents will conclude you are insane, and instantly go
 looking someone who will teach their kid to hit a two-handed topspin
-backhand, so they can start winning now. That\'s the view that is
+backhand, so they can start winning now. That's the view that is
 dominating the way young players are developed. There is no getting
 around the fact that it takes some minimum amount strength to hit a
 topspin drive with one hand. But assume the player has or gains this
-basic minimum strength, even then, it\'s unlikely their one-hander will
+basic minimum strength, even then, it's unlikely their one-hander will
 ever be as big a shot as their two hander, let alone their forehand.
-I\'ve seen juniors with decent, technically solid one-handers\--nothing
+I've seen juniors with decent, technically solid one-handers\--nothing
 wrong at all\--and they switched to two-hands because they were getting
 pounded in tournaments on the backhand side by kids hitting heavy
 topspin inside out forehands that bounced up over their shoulders.
@@ -154,8 +149,7 @@ drives are generally much more natural and more effective hitting slice
 and at the net.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image6.webp)
 
 **One handers are more natural with the slice and at the net.**
 
@@ -164,7 +158,7 @@ volleyers with two-handed backhand groundstrokes. Why? Because the
 backhand volley is hit with one hand and is fundamentally similar to the
 one handed groundstroke. If you spend most of your time hitting
 thousands of groundstrokes with two hands, there is no way you are going
-to be as natural with one-hand at the net. That\'s just a fact.
+to be as natural with one-hand at the net. That's just a fact.
 
 For the same reason, one-handers also tend to be much better with the
 slice, which obviously, is also hit with one hand. So the trade off is
@@ -176,30 +170,29 @@ player, or even or a balanced, all court player.
 
 **As for the Rest of Your Life?**
 
-And when you are older and it turns out you didn\'t make it on the pro
+And when you are older and it turns out you didn't make it on the pro
 tour, what does it all mean then? What if you spend the last 20 or 30
 years of your tennis life playing doubles, where you have to be at the
 net at least half the time, and a lot more if you want to win many
-matches? Well, it\'s a problem, because your approach and your volley
+matches? Well, it's a problem, because your approach and your volley
 are probably nowhere near the level of the rest of your game.
 
 ![A person playing baseball Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-introduction/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-introduction/media/image7.webp)
 
 **The one-hander has more than survived at the top of the pro game.**
 
 Now maybe temperamentally you are a grinding backcourt player, and you
-don\'t want to go near the net ever, even at age 75. Maybe you hate
+don't want to go near the net ever, even at age 75. Maybe you hate
 doubles. But how many players base the decision on any sense of the long
 term implications, rather just than blindly following conventional
 wisdom\--or having it forced on them by parents or coaches?
 
-And I\'m right there with the rest of the coaches. I admit it. We teach
+And I'm right there with the rest of the coaches. I admit it. We teach
 the two-hander first at my summer junior camp in San Francisco. About
 the only thing I can say in my own defense is that when I see a kid who
-seems really dominant with his racket arm, I\'ll experiment with
+seems really dominant with his racket arm, I'll experiment with
 shifting to one hand\--and some kids take to it instantly. But otherwise
 I let them stick with the two. It just seems too cruel to see little
 kids who love tennis and have little or no chance of even rallying on
@@ -207,22 +200,21 @@ the backhand side with one hand.
 
 ![A picture containing text, athletic game, tennis, sport Description
 automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_the-one-handed-topspin-backhand-introduction/media/image8.webp)\
 **Haas and Federer: examples of the classical style.**
 
-It\'d be great if young two-handed players experimented with the
-one-hander in their mid to late teens, but that\'s not really the way it
-works. It\'s too difficult and too scary to make the change. You\'d have
+It'd be great if young two-handed players experimented with the
+one-hander in their mid to late teens, but that's not really the way it
+works. It's too difficult and too scary to make the change. You'd have
 to have the driven vision of someone for example, like Pete Sampras.
 
-But whatever the limitations of the one-hander in junior tennis, it\'s
+But whatever the limitations of the one-hander in junior tennis, it's
 obvious that the one-hander has survived, and will survive. Somehow some
 of the greatest players in the game have gotten through the juniors and
 to the top of the pros hitting it. It would be really interesting to
 chronicle the development of players like Federer, or James Blake or
 Richard Gasquet, etc and see how that happened. And maybe we will
-research that for another article. But for now let\'s turn to trying to
+research that for another article. But for now let's turn to trying to
 understand how they hit the shot, and how to develop it from the ground
 up.
 
@@ -232,8 +224,7 @@ The first distinction we have to make to understand the two predominant
 versions in the modern pro game is the differences in the grips.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image9.webp)
 
 **The extreme backhand begins with an extreme grip.**
 
@@ -247,34 +238,32 @@ Some of the players who use classic grips are Tim Henman, James Blake,
 Mark Philippoussis, Tommy Haas, and Roger Federer. Players who use more
 extreme grips include Gustavo Kuerten, Fernando Gonzales, Gaston Gaudio,
 Tommy Robredo, Paradorn Srichaphan, and Richard Gasquet. Surprisingly,
-the list of extreme grip players also includes the top two women\'s
+the list of extreme grip players also includes the top two women's
 players, Justine Henin-Hardenne and Amelie Mauresmo.
 
-So what\'s the difference in the grips? Basically, the classic players
+So what's the difference in the grips? Basically, the classic players
 have most of the hand on the top of the racket. When the extreme players
 make the grip shift, they rotate the hand further. Rather than stopping
 when most of the hand is on top of the handle, they continue to rotate
 until part of the palm is actually positioned behind the handle.
 
-Let\'s use the grip terminology we developed with the forehand to
+Let's use the grip terminology we developed with the forehand to
 describe the differences. Remember we labeled the bevels on the racket
 handle from 1 to 8 starting with the top bevel and moving clockwise.
-We\'ve also identified the two key points on the hand, as the index
+We've also identified the two key points on the hand, as the index
 knuckle and the center of the heel pad.
 
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---+
-|   | How do the hand and the racket align in the modern one-handed topspin backhand?                                                                                                                      |   |
-|   |                                                                                                                                                                                                      |   |
-|   | ![A picture containing text Description automatically                                                                                                                                                |   |
-|   | generated](media_the-one-handed-topspin-backhand-introduction/media/image10.jpg){width="2.0833333333333335in" |   |
-|   | height="2.6666666666666665in"}                                                                                                                                                                       |   |
-|   |                                                                                                                                                                                                      |   |
-|   | The 8 bevels (left) and the 2 key points on the hand (right).                                                                                                                                        |   |
-|   |                                                                                                                                                                                                      |   |
-|   | ![A picture containing ground, person Description automatically                                                                                                                                      |   |
-|   | generated](media_the-one-handed-topspin-backhand-introduction/media/image11.jpg){width="2.7083333333333335in" |   |
-|   | height="2.75in"}                                                                                                                                                                                     |   |
-+===+======================================================================================================================================================================================================+===+
+|  | How do the hand and the racket align in the modern one-handed topspin backhand? |  |
+| --- | --- | --- |
+|  |  |  |
+|  | ![A picture containing text Description automatically |  |
+|  | generated](media_the-one-handed-topspin-backhand-introduction/media/image10.jpg) |  |
+|  |  |  |
+|  | The 8 bevels (left) and the 2 key points on the hand (right). |  |
+|  |  |  |
+|  | ![A picture containing ground, person Description automatically |  |
+|  | generated](media_the-one-handed-topspin-backhand-introduction/media/image11.jpg) |  |
+
 
 With the classic grips, the index knuckle can be in the center of bevel
 2, with the heel pad on bevel 1. This would be a 2 / 1 in our new
@@ -283,38 +272,34 @@ mildest form of the classic grip.
 
 But the index knuckle can also rotate further toward the top of the
 racket, so that it is centered on the top bevel, the same as the heel
-pad. This is a 1/ 1. That\'s Roger Federer\'s grip as well as Mark
+pad. This is a 1/ 1. That's Roger Federer's grip as well as Mark
 Philippoussis. The index knuckle can also be on the edge between bevel 1
 and 2. We can call that grip a 1 1/2 / 1. Max Mirnyi and Tommy Haas are
 good examples here.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing tennis, person, athletic game, sport Description automatically                                                                                                                | ![A person playing tennis Description automatically generated with medium                                                                                                                             | **3 Variations of the Classic Grip**                                                                                                                                                                                                                                                                                                                                                                         |
-| generated](media_the-one-handed-topspin-backhand-introduction/media/image12.jpg){width="2.0694444444444446in" | confidence](media_the-one-handed-topspin-backhand-introduction/media/image13.jpg){width="2.013888888888889in"  |                                                                                                                                                                                                                                                                                                                                                                                                              |
-| height="2.75in"}                                                                                                                                                                                     | height="2.75in"}                                                                                                                                                                                      | **Federer and Philippousis with the index knuckle on top of bevel 1.**                                                                                                                                                                                                                                                                                                                                       |
-|                                                                                                                                                                                                      |                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                      |                                                                                                                                                                                                       | **Haas and Mirnyi with the knuckle on the edge between bevel 1 and bevel 2.**                                                                                                                                                                                                                                                                                                                                |
-|                                                                                                                                                                                                      |                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                                                              |
-|                                                                                                                                                                                                      |                                                                                                                                                                                                       | **Heman and Blake with the knuckle centered on bevel 2.**                                                                                                                                                                                                                                                                                                                                                    |
-+======================================================================================================================================================================================================+=======================================================================================================================================================================================================+=======================================================================================================================================================================================================+======================================================================================================================================================================================================+
-| ![A person holding a tennis racket Description automatically                                                                                                                                         | ![A person playing tennis Description automatically generated with medium                                                                                                                             | ![A person playing tennis Description automatically generated with low                                                                                                                                | ![A person playing tennis Description automatically                                                                                                                                                  |
-| generated](media_the-one-handed-topspin-backhand-introduction/media/image14.jpg){width="2.1666666666666665in" | confidence](media_the-one-handed-topspin-backhand-introduction/media/image15.jpg){width="1.9583333333333333in" | confidence](media_the-one-handed-topspin-backhand-introduction/media/image16.jpg){width="2.0833333333333335in" | generated](media_the-one-handed-topspin-backhand-introduction/media/image17.jpg){width="2.2083333333333335in" |
-| height="2.75in"}                                                                                                                                                                                     | height="2.75in"}                                                                                                                                                                                      | height="2.75in"}                                                                                                                                                                                      | height="2.75in"}                                                                                                                                                                                     |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing tennis, person, athletic game, sport Description automatically | ![A person playing tennis Description automatically generated with medium | **3 Variations of the Classic Grip** |  |
+| --- | --- | --- | --- |
+| generated](media_the-one-handed-topspin-backhand-introduction/media/image12.jpg) | **Federer and Philippousis with the index knuckle on top of bevel 1.** |  |  |
+|  |  |  |  |
+|  |  | **Haas and Mirnyi with the knuckle on the edge between bevel 1 and bevel 2.** |  |
+|  |  |  |  |
+|  |  | **Heman and Blake with the knuckle centered on bevel 2.** |  |
+| ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically |
+| generated](media_the-one-handed-topspin-backhand-introduction/media/image14.jpg) |  |  |  |
+
 
 In all three classic variations, the grip structure places the bulk of
 the palm of the hand on the top of the frame. If you create a 1 / 1 grip
-and then turn your hand over and open the fingers, you\'ll see that top
+and then turn your hand over and open the fingers, you'll see that top
 bevel runs almost exactly from the index knuckle through the center of
 the lower heel pad. The 2 / 1 variation means that a bit more of the
 hand remains positioned over the second bevel. The 1 1/2 / 1 is in
-between. As we\'ll see in future articles, the classic players have more
+between. As we'll see in future articles, the classic players have more
 in common with each other than the players who make the more extreme
 shift.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image18.webp)
 
 **More and more top one-handers are using the extreme variations.**
 
@@ -338,34 +323,29 @@ Gaston Gaudio.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                                               ![A person hitting a ball with a tennis racket Description automatically
-  confidence](media_the-one-handed-topspin-backhand-introduction/media/image19.jpg){width="3.6527777777777777in"   generated](media_the-one-handed-topspin-backhand-introduction/media/image20.jpg){width="4.236111111111111in"
-  height="2.375in"}                                                                                                                                                                                       height="2.375in"}
+  confidence](media_the-one-handed-topspin-backhand-introduction/media/image19.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                               | ![A person hitting a ball with a racket Description automatically generated with medium                                                                                                               | ![A person swinging a tennis racket Description automatically                                                                                                                                        |
-| confidence](media_the-one-handed-topspin-backhand-introduction/media/image21.jpg){width="2.75in" | confidence](media_the-one-handed-topspin-backhand-introduction/media/image22.jpg){width="2.1527777777777777in" | generated](media_the-one-handed-topspin-backhand-introduction/media/image23.jpg){width="3.1944444444444446in" |
-| height="2.4305555555555554in"}                                                                                                                                                          | height="2.4305555555555554in"}                                                                                                                                                                        | height="2.4305555555555554in"}                                                                                                                                                                       |
-+:=======================================================================================================================================================================================:+:=====================================================================================================================================================================================================:+:====================================================================================================================================================================================================:+
-| Justine and Guga rotate the hand until the index knuckle and heel pad are partially behind the handle on bevel 8.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a racket Description automatically generated with medium | ![A person swinging a tennis racket Description automatically |
+| --- | --- | --- |
+| confidence](media_the-one-handed-topspin-backhand-introduction/media/image21.jpg) |  |  |
+| Justine and Guga rotate the hand until the index knuckle and heel pad are partially behind the handle on bevel 8. |  |  |
+
 
 With other players, the knuckle appears that it may be more on the edge
 between bevel 8 and bevel 1. We can call that grip an 8 1/2 / 8. Players
 like Richard Gasquet, Fernando Gonzales and Paradorn Srichaphan seem to
-use this slightly milder version. As I\'ve noted a few times before, the
+use this slightly milder version. As I've noted a few times before, the
 exact positions of our key points are sometimes difficult to nail down
 even with all the video we have to study.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person swinging a tennis racket Description automatically                                                                                                                                        | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                             | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                            |
-| generated](media_the-one-handed-topspin-backhand-introduction/media/image23.jpg){width="3.1944444444444446in" | generated](media_the-one-handed-topspin-backhand-introduction/media/image24.jpg){width="2.8333333333333335in" | generated](media_the-one-handed-topspin-backhand-introduction/media/image25.jpg){width="2.763888888888889in" |
-| height="2.4305555555555554in"}                                                                                                                                                                       | height="3.2777777777777777in"}                                                                                                                                                                       | height="3.2777777777777777in"}                                                                                                                                                                      |
-+:====================================================================================================================================================================================================:+:====================================================================================================================================================================================================:+:===================================================================================================================================================================================================:+
-| Some extreme player, like Gasquet, Srichaphan, and Gonzales appear to rotate the index knuckle a little less over the top, stopping at the edge between bevel 8 and bevel 1.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person swinging a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
+| --- | --- | --- |
+| generated](media_the-one-handed-topspin-backhand-introduction/media/image23.jpg) |  |  |
+| Some extreme player, like Gasquet, Srichaphan, and Gonzales appear to rotate the index knuckle a little less over the top, stopping at the edge between bevel 8 and bevel 1. |  |  |
+
 
 But with these players as with the other extreme grip examples, a
 substantial part of the hand has still shifted over the top and behind
@@ -375,10 +355,9 @@ swings which share technical elements that distinguish them from the
 classical grip players.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-introduction/media/image26.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-introduction/media/image26.webp)
 
-**Next we\'ll explore the differences and similarities in the two
+**Next we'll explore the differences and similarities in the two
 versions.**
 
 **Consequences**
@@ -393,13 +372,12 @@ Surprisingly the classic and extreme backhands share many core technical
 similarities. These include the role of the body turn in the
 preparation, the shape of the hitting arm, the role of the opposite arm,
 and the variations in the stances, among other factors. All these issues
-deserve detailed discussion, and we\'ll start to address them all in
+deserve detailed discussion, and we'll start to address them all in
 Part 2. Stay Tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-introduction/media/image27.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-introduction/media/image27.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

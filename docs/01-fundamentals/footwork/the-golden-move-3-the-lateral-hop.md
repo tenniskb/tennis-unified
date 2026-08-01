@@ -6,11 +6,11 @@
 
 **David Bailey**
 
-What\'s the key to executing and maintaining balance when you hit a wide
-ball with heavy spin? Or a short angle? It\'s the Lateral Hop, the third
-Golden Move in David Bailey\'s amazing footwork series.
+What's the key to executing and maintaining balance when you hit a wide
+ball with heavy spin? Or a short angle? It's the Lateral Hop, the third
+Golden Move in David Bailey's amazing footwork series.
 
-You\'ve seen pro players do it---raise the inside leg in match play on
+You've seen pro players do it---raise the inside leg in match play on
 certain balls---but now you can find out why and when and learn to
 develop and incorporate the Lateral Hop yourself, just like the players
 Dave is working with in this article series!
@@ -25,8 +25,7 @@ see the other Golden Moves!
 
 ![](media_the-golden-move-3-the-lateral-hop/media/image1.png)
 
-![](media_the-golden-move-3-the-lateral-hop/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-3-the-lateral-hop/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -24,11 +24,11 @@ Forehand Framework (DRF) --- một hệ thống phân tích tích hợp giữa c
 quán tính, sinh cơ học, khoa học thần kinh vận động và vật lý đàn hồi.
 
 Trong nhiều thập kỷ, cách dạy forehand tennis đã tập trung vào những chỉ
-dẫn bề ngoài như \'vung vợt mạnh hơn\', \'xoay vai\', hoặc \'dùng cổ
-tay\'. Những chỉ dẫn này, tuy có giá trị nhất định, nhưng chưa chạm đến
+dẫn bề ngoài như 'vung vợt mạnh hơn', 'xoay vai', hoặc 'dùng cổ
+tay'. Những chỉ dẫn này, tuy có giá trị nhất định, nhưng chưa chạm đến
 cốt lõi cơ học thực sự đang diễn ra bên trong cú đánh. Hầu hết vận động
 viên trình độ cao trên thế giới --- từ Roger Federer, Jannik Sinner đến
-Carlos Alcaraz --- không chỉ đơn thuần \'đánh vợt\'. Họ đang vận hành
+Carlos Alcaraz --- không chỉ đơn thuần 'đánh vợt'. Họ đang vận hành
 một hệ thống truyền sóng động năng cực kỳ tinh vi qua một chuỗi các đoạn
 cơ thể với bán kính quay biến thiên liên tục.
 
@@ -81,9 +81,9 @@ L·= I×ω không đổi.
 **1.1.1 Mô Men Quán Tính Là Gì?**
 
 Mô men quán tính (moment of inertia) là đại lượng đo lường mức độ
-\'kháng cự\' của một vật thể đối với sự thay đổi chuyển động quay. Tương
-tự như khối lượng trong chuyển động tịnh tiến là thước đo sức \'kháng
-cự\' với gia tốc thẳng, mô men quán tính là thước đo tương đương trong
+'kháng cự' của một vật thể đối với sự thay đổi chuyển động quay. Tương
+tự như khối lượng trong chuyển động tịnh tiến là thước đo sức 'kháng
+cự' với gia tốc thẳng, mô men quán tính là thước đo tương đương trong
 chuyển động quay.
 
 Đối với một vật thể có thể xem như một điểm khối lượng m quay quanh một
@@ -101,7 +101,7 @@ giảm còn một phần tư.
 
 Hãy xét hệ thống gồm cánh tay và cây vợt đang quay quanh trục dọc của cơ
 thể. Khi bán kính quay (khoảng cách từ tay và vợt đến trục thân) tăng
-lên, mô men quán tính của hệ tăng lên --- hệ \'nặng hơn\' về mặt quay.
+lên, mô men quán tính của hệ tăng lên --- hệ 'nặng hơn' về mặt quay.
 Khi bán kính giảm (cánh tay thu vào gần thân), mô men quán tính giảm
 mạnh và vận tốc góc tự động tăng theo để bảo toàn động lượng góc.
 
@@ -159,8 +159,8 @@ tích trữ --- tương tự như mũi tên bay ra khi buông dây cung. Năng l
 này được thêm vào năng lượng cơ học từ cơ co chủ động, tạo ra tổng lực
 lớn hơn nhiều so với cơ bắp có thể tạo ra đơn độc.
 
-> *Nguyên tắc cốt lõi: Forehand không phải là hành động \'đánh\' bằng cơ
-> bắp. Nó là hành động \'nạp và giải phóng\' một hệ thống đàn hồi--quán
+> *Nguyên tắc cốt lõi: Forehand không phải là hành động 'đánh' bằng cơ
+> bắp. Nó là hành động 'nạp và giải phóng' một hệ thống đàn hồi--quán
 > tính phức tạp.*
 
 **1.3 Con Lắc Đôi --- Mô Hình Cơ Học Của Tay-Vợt**
@@ -178,7 +178,7 @@ Trong một con lắc đôi, phần đầu tiên (cánh tay) gắn vào điểm 
 truyền động lượng tự nhiên không cần thêm năng lượng từ cơ bắp.
 
 Cơ chế này giải thích tại sao trong golf, baseball, và tennis, các vận
-động viên đỉnh cao học cách \'giữ\' và \'trì hoãn\' việc giải phóng cổ
+động viên đỉnh cao học cách 'giữ' và 'trì hoãn' việc giải phóng cổ
 tay đến đúng thời điểm --- đây không phải là điều kỳ bí, mà là tối ưu
 hóa cơ học con lắc đôi.
 
@@ -187,10 +187,10 @@ hóa cơ học con lắc đôi.
 Người chơi nghiệp dư thường cố gắng vung cánh tay và vợt như một khối
 cứng --- cánh tay và vợt di chuyển cùng một lúc với cùng tốc độ góc.
 Điều này phá vỡ cơ chế con lắc đôi và loại bỏ giai đoạn tăng tốc đầu
-cuối. Kết quả là swing \'chết\' --- không có whip, không có snap.
+cuối. Kết quả là swing 'chết' --- không có whip, không có snap.
 
 Người chơi chuyên nghiệp thực hiện điều ngược lại: họ để cổ tay và đầu
-vợt \'trễ\' phía sau trong khi thân và cánh tay trên tăng tốc. Khi đến
+vợt 'trễ' phía sau trong khi thân và cánh tay trên tăng tốc. Khi đến
 thời điểm đúng, hệ con lắc đôi tự nhiên phóng đầu vợt về phía trước với
 tốc độ tối đa.
 
@@ -235,23 +235,23 @@ vợt phản ánh chính xác cơ chế roi da: mỗi đoạn tăng tốc rồi 
 theo trình tự tuần tự từ proximal đến distal. Mỗi sự giảm tốc của một
 đoạn đồng nghĩa với sự tăng tốc của đoạn kế tiếp.
 
-Điều quan trọng: whip không phải là \'lỏng lẻo\'. Một chiếc roi hoạt
+Điều quan trọng: whip không phải là 'lỏng lẻo'. Một chiếc roi hoạt
 động hiệu quả vì nó có cấu trúc dọc theo toàn bộ chiều dài --- linh hoạt
 nhưng liên kết. Tương tự, forehand tennis yêu cầu một cơ thể vừa
-\'loose\' (mềm dẻo) ở các đoạn xa vừa \'connected\' (liên kết) ở cấu
+'loose' (mềm dẻo) ở các đoạn xa vừa 'connected' (liên kết) ở cấu
 trúc trung tâm.
 
 **1.5 Độ Trễ Quán Tính --- Racket Lag**
 
-Racket lag là hiện tượng đầu vợt bị \'tụt lại\' phía sau khi thân người
+Racket lag là hiện tượng đầu vợt bị 'tụt lại' phía sau khi thân người
 và cánh tay đã bắt đầu tiến về phía trước. Đây không phải là lỗi kỹ
 thuật --- đây là dấu hiệu của cơ học hoạt động chính xác.
 
 **1.5.1 Nguồn Gốc Của Lag**
 
 Khi thân người và vai xoay, cánh tay trên bắt đầu di chuyển về phía
-trước. Tuy nhiên, cây vợt có mô men quán tính đáng kể --- nó \'không
-muốn\' bắt đầu di chuyển ngay lập tức. Do đó, cây vợt bị \'bỏ lại\' tạm
+trước. Tuy nhiên, cây vợt có mô men quán tính đáng kể --- nó 'không
+muốn' bắt đầu di chuyển ngay lập tức. Do đó, cây vợt bị 'bỏ lại' tạm
 thời trong khi cẳng tay và cổ tay uốn cong, tạo ra góc lag rõ ràng.
 
 Trong giai đoạn lag này, có sự tích lũy:
@@ -267,10 +267,10 @@ Trong giai đoạn lag này, có sự tích lũy:
 
 Khi hệ thống sẵn sàng --- khi proximal chain đã đến đỉnh tốc độ và bắt
 đầu giảm tốc --- lag được giải phóng. Năng lượng đàn hồi tích lũy trong
-cổ tay và cẳng tay \'bùng nổ\' về phía trước, kết hợp với chuyển động
-con lắc đôi để tạo ra tốc độ đầu vợt tối đa. Đây là khoảnh khắc \'whip\'
---- khoảnh khắc mà vận động viên trình độ cao cảm thấy như \'đầu vợt tự
-lao về phía trước\'.
+cổ tay và cẳng tay 'bùng nổ' về phía trước, kết hợp với chuyển động
+con lắc đôi để tạo ra tốc độ đầu vợt tối đa. Đây là khoảnh khắc 'whip'
+--- khoảnh khắc mà vận động viên trình độ cao cảm thấy như 'đầu vợt tự
+lao về phía trước'.
 
 > *Ghi nhớ quan trọng: Racket lag không phải nguyên nhân của tốc độ ---
 > nó là điều kiện cần thiết để tốc độ được tạo ra. Không có lag thì
@@ -301,14 +301,14 @@ downstream theo nguyên lý roi da.
 
 **1.6.3 ISR Và Elbow Slot**
 
-ISR hoạt động hiệu quả nhất khi khuỷu tay ở vị trí \'slot\' --- gần thân
+ISR hoạt động hiệu quả nhất khi khuỷu tay ở vị trí 'slot' --- gần thân
 người, khoảng 45-90 độ gập, với cánh tay trên hướng xuống và về phía
 trước. Trong tư thế này, trục xoay của cánh tay trên được định hướng tối
 ưu để ISR truyền lực hiệu quả nhất đến cẳng tay và đầu vợt.
 
-Đây là lý do tại sao \'elbow slotting\' là một trong những kỹ thuật quan
-trọng nhất trong framework DRF. Không phải vì nó \'trông đẹp\' hay \'là
-phong cách ATP\' --- mà vì nó thiết lập điều kiện cơ học tối ưu cho ISR
+Đây là lý do tại sao 'elbow slotting' là một trong những kỹ thuật quan
+trọng nhất trong framework DRF. Không phải vì nó 'trông đẹp' hay 'là
+phong cách ATP' --- mà vì nó thiết lập điều kiện cơ học tối ưu cho ISR
 hoạt động với toàn bộ công suất.
 
 **CHƯƠNG II: CHUỖI ĐỘNG LỰC HỌC --- KINETIC CHAIN**
@@ -316,7 +316,7 @@ hoạt động với toàn bộ công suất.
 Forehand tennis không phải là hành động của một cơ, một khớp, hay thậm
 chí một bộ phận cơ thể. Nó là kết quả của một chuỗi chuyển động tuần tự
 và liên kết chặt chẽ bao gồm toàn bộ cơ thể từ bàn chân đến đầu ngón
-tay. Khái niệm \'kinetic chain\' (chuỗi động lực học) mô tả cách lực và
+tay. Khái niệm 'kinetic chain' (chuỗi động lực học) mô tả cách lực và
 năng lượng được tạo ra, tích lũy, truyền dẫn và cuối cùng được giải
 phóng qua một chuỗi các đoạn cơ thể nối tiếp nhau.
 
@@ -381,14 +381,14 @@ cứu sinh cơ học cho thấy:
 
 - Neutral stance (chân giữa): linh hoạt, áp dụng trong nhiều tình huống
 
-Dù ở stance nào, nguyên tắc \'đạp đất\' vẫn áp dụng. Vận động viên phải
-cảm thấy áp lực rõ ràng dưới bàn chân và chủ động \'đẩy lên\' từ mặt đất
+Dù ở stance nào, nguyên tắc 'đạp đất' vẫn áp dụng. Vận động viên phải
+cảm thấy áp lực rõ ràng dưới bàn chân và chủ động 'đẩy lên' từ mặt đất
 --- không chỉ đứng thụ động.
 
 **2.3 Pelvic Engine --- Động Cơ Xoay Của Cơ Thể**
 
 Xương chậu (pelvis) là cầu nối giữa lực từ chân và sức mạnh của thân
-người. Nó đóng vai trò là \'động cơ xoay\' trung tâm của toàn bộ
+người. Nó đóng vai trò là 'động cơ xoay' trung tâm của toàn bộ
 forehand.
 
 **2.3.1 Hip Coil Và Pelvis Rotation**
@@ -411,7 +411,7 @@ of timing và loss of control.
 **2.3.3 The Pelvic First Principle**
 
 Một trong những nguyên tắc quan trọng nhất trong forehand kỹ thuật cao
-là \'hông mở trước tay\'. Trong pha acceleration, xương chậu bắt đầu
+là 'hông mở trước tay'. Trong pha acceleration, xương chậu bắt đầu
 xoay về phía net trước khi vai và tay bắt đầu di chuyển về phía trước.
 Trình tự này --- pelvis trước, shoulder sau --- là điều kiện thiết yếu
 để kinetic chain hoạt động đúng cách.
@@ -445,7 +445,7 @@ forehand mà còn tăng nguy cơ chấn thương lưng dưới đáng kể.
 
 Cơ oblique (cơ chéo bụng ngoài và trong) là nhóm cơ chính tạo ra và kiểm
 soát trunk rotation. Trong pha coil, external oblique của bên thuận tay
-và internal oblique của bên kia phối hợp để \'kháng cự\' xoay --- tích
+và internal oblique của bên kia phối hợp để 'kháng cự' xoay --- tích
 trữ năng lượng như lò xo. Trong pha acceleration, chúng co lại để tạo ra
 torque xoay mạnh.
 
@@ -455,7 +455,7 @@ Mạc thoracolumbar là một tấm mô liên kết dày, cứng, đan chéo ở
 dưới. Nó kết nối nhiều nhóm cơ quan trọng bao gồm latissimus dorsi,
 gluteus maximus, và cơ erector spinae. Khi thân người xoắn trong pha
 coil, mạc thoracolumbar bị căng và lưu trữ năng lượng đàn hồi đáng kể,
-góp phần vào \'sức bật\' khi trunk giải phóng.
+góp phần vào 'sức bật' khi trunk giải phóng.
 
 **2.5 Scapular Transmission --- Cầu Nối Lực**
 
@@ -480,8 +480,8 @@ và tránh impingement. Mất cân bằng giữa hai yếu tố này --- hoặc 
 (locked scapula) hoặc quá lỏng (winged scapula) --- đều làm giảm hiệu
 suất và tăng nguy cơ chấn thương vai.
 
-Các chỉ dẫn cảm giác như \'vai nổi trên lồng ngực\' và \'tay treo từ
-lưng\' phản ánh trạng thái scapular lý tưởng này --- nhẹ nhàng, liên
+Các chỉ dẫn cảm giác như 'vai nổi trên lồng ngực' và 'tay treo từ
+lưng' phản ánh trạng thái scapular lý tưởng này --- nhẹ nhàng, liên
 kết, không căng cứng.
 
 **2.6 Arm Chain --- Từ Vai Đến Đầu Vợt**
@@ -502,7 +502,7 @@ chuyển động nhanh nhất của cơ thể con người.
 **2.6.2 Elbow --- Radius Control**
 
 Khuỷu tay đóng vai trò then chốt trong việc kiểm soát bán kính quay. Khi
-khuỷu tay gập và \'vào slot\', nó giảm bán kính quay tổng thể của hệ
+khuỷu tay gập và 'vào slot', nó giảm bán kính quay tổng thể của hệ
 cánh tay-vợt, kích hoạt bảo toàn động lượng góc và tăng angular
 velocity. Khuỷu tay cũng hoạt động như một khớp giải phóng --- timing
 của elbow extension (duỗi khuỷu) ảnh hưởng trực tiếp đến khi nào đầu vợt
@@ -513,15 +513,15 @@ của elbow extension (duỗi khuỷu) ảnh hưởng trực tiếp đến khi n
 Cẳng tay thực hiện hai chuyển động quan trọng trong forehand: supination
 trong pha lag (cẳng tay xoay ra ngoài, tạo layback) và pronation trong
 pha release (cẳng tay xoay vào trong, phóng đầu vợt). Forearm pronation
-kết hợp với ISR tạo ra \'snap\' cuối cùng của swing --- thời điểm tốc độ
+kết hợp với ISR tạo ra 'snap' cuối cùng của swing --- thời điểm tốc độ
 đầu vợt đạt đỉnh.
 
 **2.6.4 Wrist --- Amplifier, Not Initiator**
 
 Cổ tay khuếch đại chuyển động được tạo ra bởi các đoạn proximal --- nó
 không phải là nguồn lực chính. Cổ tay mềm dẻo (relaxed grip, không co
-cứng) cho phép nó hoạt động như một \'ổ bi\' đàn hồi, truyền và khuếch
-đại lực từ ISR và pronation. Cổ tay cứng sẽ \'đứt gãy\' chuỗi truyền,
+cứng) cho phép nó hoạt động như một 'ổ bi' đàn hồi, truyền và khuếch
+đại lực từ ISR và pronation. Cổ tay cứng sẽ 'đứt gãy' chuỗi truyền,
 làm giảm đáng kể tốc độ đầu vợt.
 
   -------------------------- --------------------------------------------
@@ -551,22 +551,22 @@ làm giảm đáng kể tốc độ đầu vợt.
 **2.7 Proximal Stiffness / Distal Fluidity**
 
 Một trong những khái niệm tinh tế nhất và quan trọng nhất trong forehand
-mechanics hiện đại là nguyên lý \'proximal stiffness, distal fluidity\'
+mechanics hiện đại là nguyên lý 'proximal stiffness, distal fluidity'
 --- cấu trúc cứng ở trung tâm, mềm dẻo ở ngoại vi.
 
 **2.7.1 Tại Sao Proximal Cần Stiff**
 
-Để lực truyền hiệu quả qua kinetic chain, cần có một \'nền tảng cứng\' ở
+Để lực truyền hiệu quả qua kinetic chain, cần có một 'nền tảng cứng' ở
 proximal segments. Core ổn định, scapula liên kết tốt, và shoulder
 girdle vững chắc tạo ra nền tảng để các đoạn distal tăng tốc. Nếu core
-mềm (unstable), lực sẽ bị \'tiêu tán\' ở giữa chuỗi thay vì được truyền
+mềm (unstable), lực sẽ bị 'tiêu tán' ở giữa chuỗi thay vì được truyền
 lên đầu vợt.
 
 **2.7.2 Tại Sao Distal Cần Fluid**
 
 Ngược lại, các đoạn distal --- cẳng tay, cổ tay, bàn tay --- cần mềm dẻo
 để cho phép inertia delay (lag) xảy ra. Nếu cẳng tay và cổ tay cứng, đầu
-vợt không thể \'bị bỏ lại\' tạo ra lag, và toàn bộ cơ chế whip bị vô
+vợt không thể 'bị bỏ lại' tạo ra lag, và toàn bộ cơ chế whip bị vô
 hiệu. Co cứng grip quá mạnh là một trong những nguyên nhân phổ biến nhất
 khiến forehand mất tốc độ ở người chơi nghiệp dư.
 
@@ -579,7 +579,7 @@ scapula duy trì stiffness trong khi cẳng tay và cổ tay chuyển sang
 fluid. Tại contact, cấu trúc được tái lập tạm thời. Sau contact, hệ hấp
 thụ và giải phóng năng lượng còn lại trong deceleration.
 
-> *Câu khẩu hiệu nổi tiếng trong tennis --- \'Loose but connected\' ---
+> *Câu khẩu hiệu nổi tiếng trong tennis --- 'Loose but connected' ---
 > chính xác mô tả nguyên lý proximal stiffness / distal fluidity.*
 
 **2.8 Timing --- Yếu Tố Quyết Định**
@@ -594,13 +594,13 @@ chuỗi truyền.
 Chuỗi lý tưởng hoạt động như sau: chân đẩy; hông xoay; trunk unfolds;
 scapula glides forward; shoulder ISR bắt đầu; khuỷu vào slot; cẳng tay
 pronates; cổ tay releases. Mỗi bước bắt đầu khi bước trước đạt đỉnh và
-bắt đầu giảm tốc. Đây là \'sequential timing\' --- cốt lõi của kinetic
+bắt đầu giảm tốc. Đây là 'sequential timing' --- cốt lõi của kinetic
 chain hiệu quả.
 
 **2.8.2 Hậu Quả Của Sai Timing**
 
 Nếu cổ tay snap quá sớm (trước khi ISR và pronation đạt đỉnh): lag bị
-phá vỡ sớm, wrist muscles phải \'tự đánh\' thay vì khuếch đại, tốc độ
+phá vỡ sớm, wrist muscles phải 'tự đánh' thay vì khuếch đại, tốc độ
 giảm đáng kể. Nếu trunk unwinds quá sớm: shoulder không có nền tảng để
 ISR hoạt động, năng lượng bị tiêu tán ra không khí. Nếu hông xoay quá
 muộn: trunk không có thời gian tích đàn hồi, forehand trở thành arm
@@ -611,15 +611,15 @@ swing thuần túy.
 Dynamic Radius Forehand Framework (DRF) là một khung lý thuyết và thực
 hành tổng hợp tất cả những kiến thức vật lý và sinh cơ học đã trình bày
 trong hai chương trước thành một hệ thống huấn luyện có cấu trúc và có
-thể áp dụng thực tế. DRF nhìn nhận forehand như \'một hệ thống
+thể áp dụng thực tế. DRF nhìn nhận forehand như 'một hệ thống
 rotational--elastic--inertial với bán kính quay biến thiên động, sử dụng
 sequential release để tạo whip acceleration tối đa với effort tối
-thiểu.\'
+thiểu.'
 
 **3.1 Core Principle Của DRF**
 
-Forehand DRF không phải là hành động \'đánh bằng tay\' hay \'vung vợt
-mạnh\'. Nó là một quy trình sáu bước:
+Forehand DRF không phải là hành động 'đánh bằng tay' hay 'vung vợt
+mạnh'. Nó là một quy trình sáu bước:
 
 9.  BUILD STRUCTURE --- Xây dựng cấu trúc truyền lực: thiết lập vị trí
     cơ thể, ground contact, và kinetic chain alignment trước khi swing
@@ -634,7 +634,7 @@ mạnh\'. Nó là một quy trình sáu bước:
     lượng góc.
 
 12. CREATE LAG --- Tạo độ trễ quán tính: cho phép inertia delay xuất
-    hiện, cổ tay và đầu vợt bị \'bỏ lại\' phía sau trong khi ISR và
+    hiện, cổ tay và đầu vợt bị 'bỏ lại' phía sau trong khi ISR và
     pronation bắt đầu.
 
 13. RELEASE SEQUENTIALLY --- Giải phóng tuần tự: ISR → pronation → wrist
@@ -674,11 +674,11 @@ bên trên đều sẽ thiếu nguồn năng lượng.
 
 **Coaching cues:**
 
-- \'Đạp đất chứ không đánh tay\'
+- 'Đạp đất chứ không đánh tay'
 
-- \'Lực đi từ chân lên\'
+- 'Lực đi từ chân lên'
 
-- \'Cảm thấy mặt đất dưới bàn chân khi swing\'
+- 'Cảm thấy mặt đất dưới bàn chân khi swing'
 
 **Sai lầm phổ biến ở Layer 1:**
 
@@ -707,11 +707,11 @@ trên chuỗi.
 
 **Coaching cues:**
 
-- \'Hông mở trước tay\'
+- 'Hông mở trước tay'
 
-- \'Xoay từ center\'
+- 'Xoay từ center'
 
-- \'Bắt đầu bằng cách đẩy hông trước\'
+- 'Bắt đầu bằng cách đẩy hông trước'
 
 **Kiểm tra thực tế:**
 
@@ -722,14 +722,14 @@ thực hiện đúng.
 **Layer 3 --- Trunk Elastic Coil (Lò Xo Thân Người)**
 
 Mục tiêu: Tích lũy elastic energy trong trunk qua sự xoắn của cột sống
-ngực và sức căng cơ oblique. Đây là lớp \'nạp đạn\' của forehand.
+ngực và sức căng cơ oblique. Đây là lớp 'nạp đạn' của forehand.
 
 **Các thành phần kỹ thuật:**
 
 - Torso stretch: Cột sống ngực xoay tối đa trong pha backswing, tạo
   stretch mạnh trong các cơ xoay.
 
-- Oblique loading: Cơ oblique bên thuận tay bị kéo căng và \'nạp\' năng
+- Oblique loading: Cơ oblique bên thuận tay bị kéo căng và 'nạp' năng
   lượng như lò xo.
 
 - Thoracic rotation: Tối đa hóa biên độ xoay ngực để tối đa hóa elastic
@@ -737,23 +737,23 @@ ngực và sức căng cơ oblique. Đây là lớp \'nạp đạn\' của foreh
 
 **Coaching cues:**
 
-- \'Thân như lò xo xoắn\'
+- 'Thân như lò xo xoắn'
 
-- \'Cảm thấy sức căng trong bụng khi backswing\'
+- 'Cảm thấy sức căng trong bụng khi backswing'
 
-- \'Giữ sức căng đó khi bắt đầu swing forward\'
+- 'Giữ sức căng đó khi bắt đầu swing forward'
 
 **Đặc điểm quan trọng:**
 
-Trunk elastic coil không phải là \'xoay thân thật mạnh\' --- nó là
-\'xoay thân đúng cách và dừng đúng lúc để tạo sức căng\'. Xoay quá mức
+Trunk elastic coil không phải là 'xoay thân thật mạnh' --- nó là
+'xoay thân đúng cách và dừng đúng lúc để tạo sức căng'. Xoay quá mức
 hoặc xoay không có kiểm soát sẽ làm mất elastic tension và biến trunk
 coil thành arm swing.
 
 **Layer 4 --- Scapular Transmission (Cầu Nối Vai)**
 
 Mục tiêu: Truyền lực từ trunk elastic coil sang arm chain qua cơ học của
-xương vai. Đây là lớp \'cầu dẫn lực\' --- nếu scapula không hoạt động
+xương vai. Đây là lớp 'cầu dẫn lực' --- nếu scapula không hoạt động
 đúng, năng lượng bị mất tại giao điểm trunk--arm.
 
 **Các thành phần kỹ thuật:**
@@ -768,21 +768,21 @@ xương vai. Đây là lớp \'cầu dẫn lực\' --- nếu scapula không ho�
 
 **Coaching cues:**
 
-- \'Vai nổi trên lồng ngực\'
+- 'Vai nổi trên lồng ngực'
 
-- \'Tay treo từ lưng\'
+- 'Tay treo từ lưng'
 
-- \'Cảm thấy lưng kéo vai về trước\'
+- 'Cảm thấy lưng kéo vai về trước'
 
 **Layer 5 --- Radius Compression System (Hệ Thu Bán Kính)**
 
 Mục tiêu: Giảm moment of inertia đúng timing để kích hoạt bảo toàn động
-lượng góc. Đây là \'trái tim\' của DRF framework --- cơ chế tạo ra whip
+lượng góc. Đây là 'trái tim' của DRF framework --- cơ chế tạo ra whip
 acceleration.
 
 **Các thành phần kỹ thuật:**
 
-- Elbow slotting: Khuỷu tay \'rơi vào\' slot position --- gần thân,
+- Elbow slotting: Khuỷu tay 'rơi vào' slot position --- gần thân,
   hướng xuống dưới, khoảng 60-90° gập.
 
 - Arm folding: Cánh tay tổng thể thu lại về phía thân, giảm bán kính
@@ -793,11 +793,11 @@ acceleration.
 
 **Coaching cues:**
 
-- \'Khuỷu rơi vào slot\'
+- 'Khuỷu rơi vào slot'
 
-- \'Tay thu vào rồi bung\'
+- 'Tay thu vào rồi bung'
 
-- \'Cảm thấy khuỷu tay nặng xuống\'
+- 'Cảm thấy khuỷu tay nặng xuống'
 
 **Timing của radius compression:**
 
@@ -810,39 +810,39 @@ hoạt động. Window timing lý tưởng là khi hông đã mở \~60% và tru
 **Layer 6 --- Lag Creation (Tạo Độ Trễ)**
 
 Mục tiêu: Cho phép inertia delay xuất hiện, tạo racket lag rõ ràng. Đây
-là lớp \'nhẫn nại\' --- người chơi phải kháng cự bản năng muốn \'kéo\'
+là lớp 'nhẫn nại' --- người chơi phải kháng cự bản năng muốn 'kéo'
 đầu vợt theo.
 
 **Các thành phần kỹ thuật:**
 
-- Relaxed forearm: Cẳng tay không co cứng --- cho phép nó bị \'kéo lại\'
+- Relaxed forearm: Cẳng tay không co cứng --- cho phép nó bị 'kéo lại'
   do quán tính.
 
 - Laid-back wrist: Cổ tay ngả ra sau (extension) tự nhiên do quán tính
   của đầu vợt.
 
-- Delayed release: Không chủ động \'đẩy\' hay \'kéo\' đầu vợt về phía
+- Delayed release: Không chủ động 'đẩy' hay 'kéo' đầu vợt về phía
   trước --- để inertia làm điều đó.
 
 **Coaching cues:**
 
-- \'Đầu vợt ở phía sau\'
+- 'Đầu vợt ở phía sau'
 
-- \'Không kéo đầu vợt theo\'
+- 'Không kéo đầu vợt theo'
 
-- \'Để vợt bị bỏ lại\'
+- 'Để vợt bị bỏ lại'
 
 **Phân biệt lag đúng và sai:**
 
 Lag đúng là lag thụ động --- do quán tính tạo ra, không cần cố ý. Lag
 sai là khi người chơi cố tình giữ cổ tay bent hoặc lock đầu vợt trong
 pha acceleration. Lag đúng tự nhiên xuất hiện khi proximal chain đang
-tăng tốc; nếu phải \'cố\' tạo lag, cấu trúc proximal có vấn đề.
+tăng tốc; nếu phải 'cố' tạo lag, cấu trúc proximal có vấn đề.
 
 **Layer 7 --- ISR Engine (Động Cơ Xoay Vai)**
 
 Mục tiêu: Tạo racket head speed cực đại thông qua Internal Shoulder
-Rotation. Đây là \'động cơ\' chính tạo ra tốc độ.
+Rotation. Đây là 'động cơ' chính tạo ra tốc độ.
 
 **Các thành phần kỹ thuật:**
 
@@ -857,11 +857,11 @@ Rotation. Đây là \'động cơ\' chính tạo ra tốc độ.
 
 **Coaching cues:**
 
-- \'Cánh tay xoay như quăng lao\'
+- 'Cánh tay xoay như quăng lao'
 
-- \'Vai bắn đầu vợt\'
+- 'Vai bắn đầu vợt'
 
-- \'Cảm thấy cánh tay trên xoay mạnh\'
+- 'Cảm thấy cánh tay trên xoay mạnh'
 
 **ISR vs. Cổ Tay:**
 
@@ -874,7 +874,7 @@ kháng lực.
 **Layer 8 --- Contact Projection (Xuyên Qua Bóng)**
 
 Mục tiêu: Truyền toàn bộ động lượng tích lũy xuyên qua bóng, không dừng
-lại tại surface tiếp xúc. Đây là lớp \'delivery\' --- nơi tất cả năng
+lại tại surface tiếp xúc. Đây là lớp 'delivery' --- nơi tất cả năng
 lượng được chuyển hóa thành kết quả.
 
 **Các thành phần kỹ thuật:**
@@ -890,11 +890,11 @@ lượng được chuyển hóa thành kết quả.
 
 **Coaching cues:**
 
-- \'Xuyên qua bóng\'
+- 'Xuyên qua bóng'
 
-- \'Ném đầu vợt về target\'
+- 'Ném đầu vợt về target'
 
-- \'Contact là cửa --- vợt đi qua, không dừng lại\'
+- 'Contact là cửa --- vợt đi qua, không dừng lại'
 
 > *Contact là KẾT QUẢ của kinetic chain --- không phải mục tiêu riêng
 > lẻ. Người chơi tập trung vào contact thường vô tình dừng swing tại đó,
@@ -928,7 +928,7 @@ xác, di chuyển đến vị trí đúng, thiết lập ground contact tốt.
 **Phase 2 --- Coil (Nạp Đàn Hồi)**
 
 Đặc điểm: Hip-shoulder separation, torso stretch, arm carried back. Đây
-là pha \'nạp đạn\' của forehand. Vai xoay ra sau nhiều hơn hông, tạo
+là pha 'nạp đạn' của forehand. Vai xoay ra sau nhiều hơn hông, tạo
 separation angle và elastic tension trong trunk.
 
 Key principle: Không dùng tay kéo mạnh --- để trunk rotation mang cánh
@@ -939,7 +939,7 @@ mất co-activation pattern cần thiết cho elastic loading.
 
 - Cảm thấy sức căng trong cơ oblique và ngực
 
-- Arm và racket được \'mang theo\' bởi shoulder rotation
+- Arm và racket được 'mang theo' bởi shoulder rotation
 
 - Khuỷu tay vẫn còn ở extended position
 
@@ -950,12 +950,12 @@ quan trọng nhất trong toàn bộ forehand --- khoảnh khắc chuyển từ 
 mode sang accelerate mode.
 
 Key principle: Elbow slotting là tín hiệu khởi động ISR và radius
-compression. Khi elbow \'rơi vào slot\', cơ thể sẵn sàng để ISR bắt đầu
+compression. Khi elbow 'rơi vào slot', cơ thể sẵn sàng để ISR bắt đầu
 với full leverage. Đây cũng là lúc racket lag bắt đầu xuất hiện rõ ràng.
 
 - Checklist Phase 3: Khuỷu tay rơi xuống về phía thân
 
-- Cảm thấy elbow \'lock\' vào slot position
+- Cảm thấy elbow 'lock' vào slot position
 
 - Racket head vẫn còn phía sau so với elbow
 
@@ -967,8 +967,8 @@ với full leverage. Đây cũng là lúc racket lag bắt đầu xuất hiện 
 explosive nhất --- từ compact position, ISR và pronation phóng thích
 toàn bộ năng lượng tích lũy.
 
-Key principle: Không \'đập\' --- hãy release, sling, throw. Cảm giác
-đúng là \'quăng\' cánh tay trên chứ không phải ép với cơ bắp.
+Key principle: Không 'đập' --- hãy release, sling, throw. Cảm giác
+đúng là 'quăng' cánh tay trên chứ không phải ép với cơ bắp.
 Acceleration phase diễn ra rất nhanh --- thường chỉ 100-150 milliseconds
 --- nhưng đây là window quyết định tốc độ cuối cùng của đầu vợt.
 
@@ -976,9 +976,9 @@ Acceleration phase diễn ra rất nhanh --- thường chỉ 100-150 millisecond
 
 - Cẳng tay pronating theo tự nhiên
 
-- Đầu vợt \'bùng tốc\' mà không cần gồng cổ tay
+- Đầu vợt 'bùng tốc' mà không cần gồng cổ tay
 
-- Không cảm thấy phải \'ép\' hay \'đánh\' gì cả
+- Không cảm thấy phải 'ép' hay 'đánh' gì cả
 
 **Phase 5 --- Contact (Tiếp Xúc)**
 
@@ -987,7 +987,7 @@ ra khi đầu vợt đang trên đỉnh acceleration --- đây là window lý t�
 tốc độ và control.
 
 Key principle: Contact là kết quả của toàn bộ chain --- không phải mục
-tiêu riêng lẻ. Người chơi tập trung vào contact thường vô tình \'hãm\'
+tiêu riêng lẻ. Người chơi tập trung vào contact thường vô tình 'hãm'
 swing tại đó. Thay vào đó, hãy tập trung vào việc swing qua bóng theo
 đúng path.
 
@@ -1037,7 +1037,7 @@ bị tiêu tán; nếu cổ tay cứng, whip bị triệt tiêu.
 
 Backswing dài vừa đủ, acceleration compact. Trong pha load (backswing và
 coil), bán kính quay lớn để tích đàn hồi tối đa. Trong pha accelerate,
-bán kính thu lại (elbow slot) để angular velocity tối đa. \'Load long\'
+bán kính thu lại (elbow slot) để angular velocity tối đa. 'Load long'
 không có nghĩa là backswing phải cực dài --- nó có nghĩa là không thu
 vào quá sớm.
 
@@ -1049,19 +1049,19 @@ của mất tốc độ và power trong forehand. Wrist snap và racket release 
 xảy ra chỉ khi ISR và pronation đã đạt đỉnh --- timing này thường chỉ
 20-30ms trước contact.
 
-**Rule 4 --- Rotate, Don\'t Push**
+**Rule 4 --- Rotate, Don't Push**
 
 Forehand là rotational throw --- không phải pushing motion. Pushing
 motion (đẩy thẳng tay về phía trước như đấm) tạo ra lực tuyến tính thẳng
 vào bóng, nhưng lãng phí toàn bộ rotational energy mà cơ thể đã tạo ra.
 Rotational throw sử dụng hoàn toàn năng lượng quay của hệ thống, khuếch
-đại qua whip mechanics. Cảm giác đúng giống \'quăng roi\' hay \'ném
-dây\' --- không phải \'đấm\' hay \'đẩy\'.
+đại qua whip mechanics. Cảm giác đúng giống 'quăng roi' hay 'ném
+dây' --- không phải 'đấm' hay 'đẩy'.
 
 **Rule 5 --- Whip Through Structure**
 
 Whip cần alignment, sequencing, và support structure. Một sự hiểu lầm
-phổ biến là whip có nghĩa là \'lỏng lẻo hoàn toàn\'. Thực tế, whip hiệu
+phổ biến là whip có nghĩa là 'lỏng lẻo hoàn toàn'. Thực tế, whip hiệu
 quả đòi hỏi sự kết hợp của structural support ở proximal và fluid
 freedom ở distal. Một chiếc roi không có trục cứng ở tay cầm sẽ không
 thể tạo ra whip crack. Tương tự, forehand không có core stability và
@@ -1112,7 +1112,7 @@ Jannik Sinner và Carlos Alcaraz. Mỗi người có style riêng, nhưng tất 
 
 **4.1 Roger Federer --- Classical Precision**
 
-Federer sở hữu forehand được coi là \'kinh điển nhất\' trong lịch sử ATP
+Federer sở hữu forehand được coi là 'kinh điển nhất' trong lịch sử ATP
 --- không phải vì nó mạnh nhất, mà vì nó thể hiện sự tinh tế và hiệu quả
 cơ học ở mức độ gần như hoàn hảo.
 
@@ -1121,7 +1121,7 @@ cơ học ở mức độ gần như hoàn hảo.
 Federer là vận động viên thường được trích dẫn nhất trong các nghiên cứu
 về ISR forehand. Cánh tay trên của ông xoay với tốc độ cao trong khi
 elbow ở vị trí slot compact và stable. Điều đặc biệt là mặc dù ISR xảy
-ra với tốc độ lớn, toàn bộ movement pattern trông rất \'nhẹ nhàng\' ---
+ra với tốc độ lớn, toàn bộ movement pattern trông rất 'nhẹ nhàng' ---
 dấu hiệu của kinetic chain release đúng thứ tự.
 
 **4.1.2 Elbow Slotting Pattern**
@@ -1136,14 +1136,14 @@ mất extension) và không quá xa (under-compressed, mất ISR leverage).
 Wrist layback của Federer rõ ràng và consistent --- trong pha lag, cổ
 tay ngả ra sau (extension) khoảng 50-60 độ. Đây là biểu hiện của inertia
 delay hoạt động đúng. Cổ tay không bị held deliberately trong tư thế này
---- nó bị \'bỏ lại\' tự nhiên bởi quán tính của đầu vợt trong khi cánh
+--- nó bị 'bỏ lại' tự nhiên bởi quán tính của đầu vợt trong khi cánh
 tay trên đã bắt đầu ISR.
 
 **4.1.4 Lessons Từ Federer**
 
 Điều quan trọng nhất để học từ Federer không phải là hình dạng bên ngoài
 của swing --- mà là sự precision của timing và sự effortless của cơ chế.
-Forehand Federer \'trông dễ\' vì nó đang hoạt động đúng về mặt cơ học.
+Forehand Federer 'trông dễ' vì nó đang hoạt động đúng về mặt cơ học.
 Khi kinetic chain hoạt động theo đúng trình tự, kết quả trông dễ hơn
 nhiều so với thực tế.
 
@@ -1158,7 +1158,7 @@ cứng chắc và compact.
 Forehand Sinner đặc trưng bởi swing arc rất compact so với nhiều vận
 động viên khác. Anh ấy không cần backswing dài để tạo lực --- thay vào
 đó, trunk coil và ISR mạnh của anh ấy tạo ra đủ sức mạnh từ compact
-motion. Đây là minh chứng cho nguyên lý \'Load Long, Release Compact\'
+motion. Đây là minh chứng cho nguyên lý 'Load Long, Release Compact'
 --- backswing của Sinner không dài, nhưng trunk coil của anh ấy rất
 mạnh.
 
@@ -1187,7 +1187,7 @@ topspin lob, drop shot và inside-out winner từ cùng một setup motion.
 Đặc điểm nổi bật nhất của Alcaraz là khả năng thay đổi axis of rotation
 linh hoạt trong mid-swing. Anh ấy có thể bắt đầu swing với một axis nhất
 định và chuyển sang axis khác để thay đổi đường bóng và spin. Đây là
-biểu hiện của \'Dynamic Axis Forehand\' được đề cập trong Section VIII
+biểu hiện của 'Dynamic Axis Forehand' được đề cập trong Section VIII
 của nguyên bản phân tích --- trục quay không cố định mà liên tục di
 chuyển và nghiêng.
 
@@ -1196,15 +1196,15 @@ chuyển và nghiêng.
 Swing path của Alcaraz thay đổi đáng kể tùy theo tình huống --- từ
 low-to-high sweep cho heavy topspin đến more horizontal path cho flat
 winners. Tuy nhiên, dù swing path thay đổi, các nguyên lý core --- ISR,
-elbow slot, lag creation --- vẫn nhất quán. Đây là \'variable geometry\'
-trong khi giữ \'constant core mechanics\'.
+elbow slot, lag creation --- vẫn nhất quán. Đây là 'variable geometry'
+trong khi giữ 'constant core mechanics'.
 
 **4.3.3 Delayed Release Pattern**
 
 Alcaraz có delayed release pattern đặc biệt ấn tượng --- wrist lag của
 anh ấy rất rõ ràng và nhất quán ngay cả khi đánh những cú drive nhanh
 nhất. Điều này phản ánh mức độ kiểm soát neuromuscular cao --- anh ấy đã
-internalized việc \'không release sớm\' đến mức nó xảy ra tự động ngay
+internalized việc 'không release sớm' đến mức nó xảy ra tự động ngay
 cả dưới áp lực cao nhất.
 
 **4.4 Bảng So Sánh DRF Giữa Ba Vận Động Viên**
@@ -1234,7 +1234,7 @@ cả dưới áp lực cao nhất.
 Dù phong cách khác nhau, tất cả ba vận động viên đều chia sẻ cùng các
 nguyên lý DRF:
 
-- Họ KHÔNG \'đẩy\' đầu vợt --- họ QUAY hệ trục và để whip xảy ra
+- Họ KHÔNG 'đẩy' đầu vợt --- họ QUAY hệ trục và để whip xảy ra
 
 - Họ đều có elbow slot rõ ràng trong pha acceleration
 
@@ -1244,7 +1244,7 @@ nguyên lý DRF:
 
 - Họ đều sử dụng ground force và hip rotation làm nền tảng
 
-- Forehand của họ \'trông dễ dàng\' vì kinetic chain hoạt động đúng ---
+- Forehand của họ 'trông dễ dàng' vì kinetic chain hoạt động đúng ---
   không phải vì họ ít cố gắng
 
 > *Quan sát quan trọng: Khi bạn xem forehand của các vận động viên ATP
@@ -1290,7 +1290,7 @@ Phát triển nhận thức về ground reaction force và cách tạo ra nó ch
 
 **Cue:**
 
-\'Cảm thấy mặt đất dưới bàn chân đang phản lực lên khi đẩy.\' Ghi chú:
+'Cảm thấy mặt đất dưới bàn chân đang phản lực lên khi đẩy.' Ghi chú:
 Không bounce mạnh --- movement cần smooth và controlled.
 
 **5.1.2 Bài Tập 2: Hip-Shoulder Separation Drill**
@@ -1315,7 +1315,7 @@ Phát triển khả năng separation giữa hông và vai.
 
 **Cue:**
 
-\'Hông dẫn đầu, vai theo sau\' --- không phải \'cả hai cùng lúc\'.
+'Hông dẫn đầu, vai theo sau' --- không phải 'cả hai cùng lúc'.
 
 **5.1.3 Bài Tập 3: Elbow Slot Isolation**
 
@@ -1328,12 +1328,12 @@ Phát triển cảm giác và timing của elbow slotting.
 26. Cầm racket ở forehand grip.
 
 27. Giơ cánh tay trên ngang vai, elbow duỗi, bàn tay ra ngoài --- tư thế
-    \'armed position\'.
+    'armed position'.
 
 28. Giữ upper arm tĩnh trong khi chỉ gập elbow để đưa racket xuống bên
     cạnh thân.
 
-29. Cảm nhận vị trí \'slot\' --- elbow gần thân, góc elbow khoảng
+29. Cảm nhận vị trí 'slot' --- elbow gần thân, góc elbow khoảng
     70-80°.
 
 30. Từ tư thế slot, thực hiện ISR chậm --- cánh tay trên xoay vào trong.
@@ -1342,7 +1342,7 @@ Phát triển cảm giác và timing của elbow slotting.
 
 **Cue:**
 
-\'Khuỷu tay rơi xuống như thả neo.\'
+'Khuỷu tay rơi xuống như thả neo.'
 
 **5.1.4 Bài Tập 4: ISR Isolation**
 
@@ -1366,7 +1366,7 @@ Phát triển ISR awareness và strength.
 
 **Cue:**
 
-\'Cảm thấy cánh tay trên xoay như vặn nắm cửa.
+'Cảm thấy cánh tay trên xoay như vặn nắm cửa.
 
 **5.1.5 Bài Tập 5: Lag Awareness**
 
@@ -1393,7 +1393,7 @@ Phát triển cảm giác về inertia delay và wrist layback.
 
 **Cue:**
 
-\'Cảm thấy vật nặng bị bỏ lại khi cánh tay xoay.\' Đây chính xác là cảm
+'Cảm thấy vật nặng bị bỏ lại khi cánh tay xoay.' Đây chính xác là cảm
 giác của racket lag trong forehand thật.
 
 **5.2 Giai Đoạn 2: Tích Hợp Chuỗi (Tuần 5--8)**
@@ -1415,7 +1415,7 @@ Kết nối tất cả 8 lớp DRF thành một chuyển động liên tục.
 44. Đi qua từng phase: Setup → Coil → Slotting → Acceleration → Contact
     → Deceleration.
 
-45. Tại mỗi phase, pause ngắn và \'check\' xem đang ở đúng position
+45. Tại mỗi phase, pause ngắn và 'check' xem đang ở đúng position
     chưa.
 
 46. Sau khi position đúng, chuyển sang phase tiếp theo.
@@ -1426,8 +1426,8 @@ Kết nối tất cả 8 lớp DRF thành một chuyển động liên tục.
 
 **Cue:**
 
-\'Kết nối từng bước --- Ground → Hip → Trunk → Scapula → Elbow → Lag →
-ISR → Contact.\'
+'Kết nối từng bước --- Ground → Hip → Trunk → Scapula → Elbow → Lag →
+ISR → Contact.'
 
 **5.2.2 Bài Tập 7: Medicine Ball Rotational Throw**
 
@@ -1450,7 +1450,7 @@ Phát triển rotational power qua toàn bộ kinetic chain.
 
 **Cue:**
 
-\'Ném từ hông --- cảm thấy hông dẫn đầu rồi trunk theo rồi arm theo.\'
+'Ném từ hông --- cảm thấy hông dẫn đầu rồi trunk theo rồi arm theo.'
 
 **5.2.3 Bài Tập 8: Cooperative Feeding Drill**
 
@@ -1474,7 +1474,7 @@ Phát triển rotational power qua toàn bộ kinetic chain.
 
 **Cue:**
 
-\'Đánh chậm với technique đúng --- không quan tâm direction hay power.\'
+'Đánh chậm với technique đúng --- không quan tâm direction hay power.'
 
 **5.3 Giai Đoạn 3: Tốc Độ Và Áp Lực (Tuần 9--12)**
 
@@ -1502,8 +1502,8 @@ Duy trì DRF mechanics khi tăng tốc độ dần dần.
 
 **Cue:**
 
-\'Khi tốc độ tăng, mechanics KHÔNG được thay đổi --- chỉ timing nhanh
-hơn.\'
+'Khi tốc độ tăng, mechanics KHÔNG được thay đổi --- chỉ timing nhanh
+hơn.'
 
 **5.3.2 Bài Tập 10: Pressure Simulation**
 
@@ -1520,15 +1520,15 @@ Kiểm tra tính bền vững của DRF mechanics dưới áp lực tâm lý.
 
 66. Focus: không phải power --- mà là proper mechanics + accuracy.
 
-67. Player phải verbalize mechanics sau mỗi 3-4 cú: \'Lag OK / Elbow
-    slot OK / ISR OK.\'
+67. Player phải verbalize mechanics sau mỗi 3-4 cú: 'Lag OK / Elbow
+    slot OK / ISR OK.'
 
 68. 3 rounds với different target areas.
 
 **Cue:**
 
-\'Khi áp lực cao, trở về basics --- focus vào mechanics, không phải kết
-quả.\'
+'Khi áp lực cao, trở về basics --- focus vào mechanics, không phải kết
+quả.'
 
 **5.4 Giai Đoạn 4: Nâng Cao Và Tinh Chỉnh (Tuần 13+)**
 
@@ -1558,7 +1558,7 @@ thuật.
 
 **Thực hiện:**
 
-75. Mỗi tuần, dành 15 phút cho \'feel calibration\' --- đánh chậm với
+75. Mỗi tuần, dành 15 phút cho 'feel calibration' --- đánh chậm với
     tập trung hoàn toàn vào cảm giác bên trong.
 
 76. Theo dõi: Cảm thấy gì ở cánh tay trên? Ở core? Ở cổ tay?
@@ -1633,7 +1633,7 @@ rõ ràng:
 
 - Bóng thiếu depth và penetration
 
-- Cánh tay cảm thấy \'nặng\' sau nhiều games
+- Cánh tay cảm thấy 'nặng' sau nhiều games
 
 - Vai và khuỷu tay đau mỏi thường xuyên
 
@@ -1654,7 +1654,7 @@ cánh tay không được thiết kế để làm trong thời gian dài.
 81. Thêm cánh tay dần dần --- tập trung vào cánh tay THEO trunk, không
     dẫn trước trunk.
 
-82. Cue: \'Trunk throw, arm follow.\'
+82. Cue: 'Trunk throw, arm follow.'
 
 83. Kiểm tra bằng slow motion video: trong video, trunk phải bắt đầu
     unwind trước arm.
@@ -1663,7 +1663,7 @@ cánh tay không được thiết kế để làm trong thời gian dài.
 
 **Triệu chứng:**
 
-- Cú đánh cảm thấy \'dead\' --- không có snap
+- Cú đánh cảm thấy 'dead' --- không có snap
 
 - Đầu vợt không tăng tốc trong phase cuối
 
@@ -1674,8 +1674,8 @@ cánh tay không được thiết kế để làm trong thời gian dài.
 **Nguyên nhân cơ học:**
 
 Grip quá mạnh gây co cứng toàn bộ chuỗi forearm--wrist. Inertia delay
-không thể xảy ra vì wrist và forearm đều locked. Đầu vợt không \'bị bỏ
-lại\' --- nó di chuyển cùng với cánh tay như một khối cứng, triệt tiêu
+không thể xảy ra vì wrist và forearm đều locked. Đầu vợt không 'bị bỏ
+lại' --- nó di chuyển cùng với cánh tay như một khối cứng, triệt tiêu
 hoàn toàn cơ chế whip.
 
 **Protocol sửa lỗi:**
@@ -1685,14 +1685,14 @@ hoàn toàn cơ chế whip.
 
 85. Cảm nhận wrist lay back tự nhiên trong pha lag.
 
-86. Thực hiện \'grip flutter\' drill: cố ý relax grip ngay sau elbow
+86. Thực hiện 'grip flutter' drill: cố ý relax grip ngay sau elbow
     slot.
 
 87. Test: đánh bóng với grip 3/10 vào tường từ gần. Nếu bóng bounce
     mạnh, mechanics đang work.
 
-88. Cue: \'Grip như cầm quả trứng --- đủ chặt để không rơi, đủ nhẹ để
-    không vỡ.\'
+88. Cue: 'Grip như cầm quả trứng --- đủ chặt để không rơi, đủ nhẹ để
+    không vỡ.'
 
 **6.2.3 Early Wrist Snap**
 
@@ -1702,7 +1702,7 @@ hoàn toàn cơ chế whip.
 
 - Lack of topspin dù cố ý brush
 
-- Contact feels \'jammed\' --- không có room
+- Contact feels 'jammed' --- không có room
 
 - Ball speed thấp hơn expected
 
@@ -1711,11 +1711,11 @@ hoàn toàn cơ chế whip.
 Early wrist snap đóng góc đầu vợt trước khi ISR có thể tạo ra maximum
 speed. Kết quả là đầu vợt đến contact zone ở tốc độ giảm, với ít energy
 available. Đây là equivalent của bắn súng trước khi trigger được kéo hết
---- power bị \'xả\' sớm.
+--- power bị 'xả' sớm.
 
 **Protocol sửa lỗi:**
 
-89. Bài tập \'frozen wrist\': thực hiện forehand với cổ tay immobilized
+89. Bài tập 'frozen wrist': thực hiện forehand với cổ tay immobilized
     (dùng wrist brace hoặc tập trung giữ wrist neutral). Chỉ dùng ISR và
     pronation để drive swing.
 
@@ -1724,7 +1724,7 @@ available. Đây là equivalent của bắn súng trước khi trigger được 
 91. Sau đó thêm wrist release MUỘN HƠN so với habit --- chỉ sau khi cảm
     thấy ISR đã đạt đỉnh.
 
-92. Cue: \'Wrist là người cuối cùng đến party.\'
+92. Cue: 'Wrist là người cuối cùng đến party.'
 
 **6.2.4 Open Shoulders Too Early**
 
@@ -1743,7 +1743,7 @@ available. Đây là equivalent của bắn súng trước khi trigger được 
 Khi vai mở quá sớm (trước hông), elastic tension trong trunk bị giải
 phóng ngay lập tức thay vì được tích lũy để khuếch đại. Forehand mất
 nguồn năng lượng chính. Cũng làm gián đoạn sequential timing --- arm
-không được \'launched\' mà phải \'self-power\' toàn bộ.
+không được 'launched' mà phải 'self-power' toàn bộ.
 
 **Protocol sửa lỗi:**
 
@@ -1755,13 +1755,13 @@ không được \'launched\' mà phải \'self-power\' toàn bộ.
 95. Video kiểm tra: frame-by-frame review để xác nhận hip precedes
     shoulder.
 
-96. Cue: \'Hông mở, vai chờ --- rồi vai bật.\'
+96. Cue: 'Hông mở, vai chờ --- rồi vai bật.'
 
 **6.2.5 No Elbow Slot**
 
 **Triệu chứng:**
 
-- Swing trông \'looping\' và inefficient
+- Swing trông 'looping' và inefficient
 
 - Racket head speed thấp dù effort cao
 
@@ -1786,33 +1786,33 @@ thân để hoạt động hiệu quả.
 99. Tăng dần tốc độ swing với towel --- khi mechanics đúng, khăn sẽ
     không rơi.
 
-100. Cue: \'Khuỷu tay rơi về nhà (thân người) trước khi launch.\'
+100. Cue: 'Khuỷu tay rơi về nhà (thân người) trước khi launch.'
 
 **6.3 Lỗi Cảm Giác --- Sai Feedback**
 
-Một loại lỗi khác và khó sửa hơn là \'cảm giác sai\' --- khi người chơi
+Một loại lỗi khác và khó sửa hơn là 'cảm giác sai' --- khi người chơi
 cảm thấy đang thực hiện đúng nhưng thực tế không phải vậy. Điều này
 thường xảy ra vì proprioception (cảm giác vị trí cơ thể) chưa được hiệu
 chuẩn đúng.
 
-**6.3.1 Cảm Giác \'Đánh Mạnh\' Vs. Thực Tế**
+**6.3.1 Cảm Giác 'Đánh Mạnh' Vs. Thực Tế**
 
 Nhiều người chơi cảm thấy mình đang đánh mạnh khi thực ra họ đang gồng
-cơ nhiều --- nhưng bóng không đi nhanh. Đây là \'effort ≠ result\'
+cơ nhiều --- nhưng bóng không đi nhanh. Đây là 'effort ≠ result'
 disconnect. Cần tái hiệu chuẩn: đánh nhẹ hơn nhưng với mechanics đúng
 thường cho bóng nhanh hơn nhiều. Khi người chơi lần đầu trải nghiệm điều
-này, nó có thể gây ra confusion --- \'Tôi không đánh mạnh sao bóng lại
-nhanh như vậy?\'
+này, nó có thể gây ra confusion --- 'Tôi không đánh mạnh sao bóng lại
+nhanh như vậy?'
 
 **6.3.2 Proprioception Calibration**
 
 Để tái hiệu chuẩn proprioception, cần tạo ra điều kiện cho người chơi
-trải nghiệm \'đúng cảm giác\' và lặp lại nhiều lần cho đến khi nó trở
+trải nghiệm 'đúng cảm giác' và lặp lại nhiều lần cho đến khi nó trở
 thành reference point mới. Các công cụ hữu ích bao gồm: slow motion
 video feedback ngay sau khi thực hiện để so sánh what you felt vs. what
 actually happened, partner tactile feedback (partner đặt tay lên
 shoulder/elbow để guide positioning), và audio feedback (ghi âm sound
-của ball contact --- dây vợt \'pop\' đúng cho thấy center contact với
+của ball contact --- dây vợt 'pop' đúng cho thấy center contact với
 racket head speed tốt).
 
 **CHƯƠNG VII: KHÁI NIỆM NÂNG CAO --- DYNAMIC AXIS VÀ NEURAL CONTROL**
@@ -1854,7 +1854,7 @@ variations của spin, direction và pace từ cùng một setup.
 
 Khi các trục có thể hoạt động với độ lệch nhất định, hệ whip trở thành
 multi-axis. Điều này có nghĩa là: trong pha acceleration, không chỉ có
-một \'whip\' từ ISR dọc theo shoulder axis. Có thể có đồng thời nhiều
+một 'whip' từ ISR dọc theo shoulder axis. Có thể có đồng thời nhiều
 whip component theo các trục khác nhau. Kết quả là khả năng tạo ra spin,
 direction và pace phức tạp hơn nhiều.
 
@@ -1870,12 +1870,12 @@ orientation ảnh hưởng đến ball flight và spin.
 
 Bên cạnh SSC của cơ và gân, còn có một hệ thống đàn hồi khác trong cơ
 thể: mạc (fascia). Fascia là mạng lưới mô liên kết bao phủ và kết nối
-tất cả cơ bắp, xương và cơ quan. Nó không chỉ là \'bao bì\' mà là một hệ
+tất cả cơ bắp, xương và cơ quan. Nó không chỉ là 'bao bì' mà là một hệ
 thống truyền lực và lưu trữ năng lượng năng động.
 
 **7.2.1 Fascial Lines Trong Tennis**
 
-Nghiên cứu về fascial anatomy đã xác định các \'fascial lines\' ---
+Nghiên cứu về fascial anatomy đã xác định các 'fascial lines' ---
 đường truyền lực qua cơ thể theo các hướng cụ thể. Trong forehand
 tennis, hai fascial lines đặc biệt quan trọng là: Spiral line (chạy theo
 đường xoắn ốc từ cổ chân qua hông, chéo qua lưng, lên vai đến cánh tay
@@ -1887,7 +1887,7 @@ chỉ cơ và gân đơn lẻ.
 **7.2.2 Fascial Training Implications**
 
 Để tối ưu hóa fascial recoil, cần: slow, expansive movements trong
-warm-up để \'hydrate\' fascia, rotational exercises với long levers để
+warm-up để 'hydrate' fascia, rotational exercises với long levers để
 tải fascial lines theo đúng pattern, và thực hành coil-release cycles
 với full range of motion. Fascia phản ứng chậm hơn cơ --- cần nhiều
 repetitions và consistent practice hơn để remodel fascia theo pattern
@@ -1907,7 +1907,7 @@ Motor program là một chuỗi lệnh thần kinh được lưu trữ và có t
 thực thi như một đơn vị. Khi người chơi thực hiện forehand đúng nhiều
 lần, não bộ dần hình thành motor program forehand --- một chuỗi lệnh tự
 động không cần conscious control cho từng bước nhỏ. Đây là lý do tại sao
-expert players \'không cần suy nghĩ\' về mechanics --- motor program
+expert players 'không cần suy nghĩ' về mechanics --- motor program
 chạy tự động.
 
 **7.3.2 Stretch Reflex Timing**
@@ -1915,7 +1915,7 @@ chạy tự động.
 Ở cấp độ cao, vận động viên tennis học cách khai thác stretch reflex ---
 phản xạ co cơ tự động được kích hoạt khi cơ bị kéo giãn đột ngột. Trong
 forehand, stretch reflex từ pectoral stretch, shoulder external rotation
-và wrist extension trong pha lag có thể được \'timed\' để khuếch đại
+và wrist extension trong pha lag có thể được 'timed' để khuếch đại
 conscious muscle activation. Điều này đòi hỏi timing cực kỳ chính xác và
 thường chỉ đạt được sau nhiều năm luyện tập có chủ đích.
 
@@ -1928,13 +1928,13 @@ instructions). DRF sử dụng explicit learning trong giai đoạn đầu --- �
 người chơi hiểu cơ học --- nhưng mục tiêu cuối cùng là chuyển mechanics
 sang implicit, automatic level.
 
-Đây là lý do tại sao các coaching cues như \'khuỷu rơi vào slot\' hay
-\'quăng dây\' hiệu quả hơn \'giảm mô men quán tính\' --- chúng kích hoạt
+Đây là lý do tại sao các coaching cues như 'khuỷu rơi vào slot' hay
+'quăng dây' hiệu quả hơn 'giảm mô men quán tính' --- chúng kích hoạt
 implicit motor learning thay vì explicit verbal analysis.
 
 **7.4 Variable Geometry Swing Path**
 
-Forehand của vận động viên đỉnh cao không có một \'swing path cố định\'.
+Forehand của vận động viên đỉnh cao không có một 'swing path cố định'.
 Swing path thay đổi linh hoạt tùy theo vị trí bóng, height of contact,
 desired outcome (topspin, flat, slice, lob) và defensive/offensive
 intent.
@@ -1964,7 +1964,7 @@ direction, extension) linh hoạt và situation-responsive.
 **7.5 Cảm Giác Của Forehand Đỉnh Cao**
 
 Một trong những giá trị học thuật quan trọng nhất của chương này là hiểu
-rõ \'đúng cảm giác\' --- điều mà người chơi trình độ cao mô tả khi
+rõ 'đúng cảm giác' --- điều mà người chơi trình độ cao mô tả khi
 forehand hoạt động tốt nhất.
 
 **7.5.1 Cảm Giác Đúng**
@@ -1972,18 +1972,18 @@ forehand hoạt động tốt nhất.
 Người chơi trình độ cao khi forehand DRF hoạt động hoàn hảo thường mô
 tả:
 
-- \'Vợt tự lao ra\' --- đầu vợt tăng tốc mà không cần forced
+- 'Vợt tự lao ra' --- đầu vợt tăng tốc mà không cần forced
 
-- \'Không cần ép lực\' --- effort cảm thấy surprisingly thấp so với kết
+- 'Không cần ép lực' --- effort cảm thấy surprisingly thấp so với kết
   quả
 
-- \'Contact rất nặng nhưng effort thấp\' --- bóng cảm thấy solid và
+- 'Contact rất nặng nhưng effort thấp' --- bóng cảm thấy solid và
   penetrating
 
-- \'Swing như quăng dây\' --- chuyển động giống throwing motion, không
+- 'Swing như quăng dây' --- chuyển động giống throwing motion, không
   phải hitting motion
 
-- \'Đầu vợt tăng tốc tự nhiên\' --- không phải forced, mà tự xảy ra
+- 'Đầu vợt tăng tốc tự nhiên' --- không phải forced, mà tự xảy ra
 
 **7.5.2 Cảm Giác Sai**
 
@@ -1997,7 +1997,7 @@ Ngược lại, dấu hiệu của mechanics không đúng bao gồm:
 
 - Contact cứng --- bóng không có feel mà chỉ có jarring impact
 
-- Đầu vợt không tăng tốc --- swing feels \'dead\'
+- Đầu vợt không tăng tốc --- swing feels 'dead'
 
 > *Chân lý quan trọng nhất của DRF: Forehand đỉnh cao không phải là đánh
 > mạnh hơn --- nó là hệ thống hoạt động hiệu quả hơn. Khi tất cả lớp DRF
@@ -2034,8 +2034,8 @@ thông qua hàng thế kỷ thực hành và quan sát.
 
 **8.1.2 Kình --- Elastic Wave**
 
-Khái niệm \'Kình\' trong võ thuật nội gia thường được dịch là \'force\'
-hay \'power\', nhưng bản chất của nó gần với \'elastic wave\' hơn. Kình
+Khái niệm 'Kình' trong võ thuật nội gia thường được dịch là 'force'
+hay 'power', nhưng bản chất của nó gần với 'elastic wave' hơn. Kình
 là:
 
 - Elastic wave --- sóng đàn hồi truyền qua cơ thể
@@ -2057,16 +2057,16 @@ cá sấu). Đây là cơ chế tự nhiên của sóng động lượng truyề
 có khối lượng giảm dần từ đầu này đến đầu kia.
 
 Hiểu roi da như một hiện tượng vật lý phổ quát giúp người chơi tennis có
-reference frame rộng hơn --- không chỉ là \'cách đánh forehand\' mà là
-\'nguyên lý vật lý tổng quát của việc tạo ra tốc độ cuối chuỗi từ chuyển
-động đầu chuỗi\'.
+reference frame rộng hơn --- không chỉ là 'cách đánh forehand' mà là
+'nguyên lý vật lý tổng quát của việc tạo ra tốc độ cuối chuỗi từ chuyển
+động đầu chuỗi'.
 
 **8.3 Somatics Và Body Awareness**
 
 Somatic practices --- như Phương pháp Feldenkrais, Alexander Technique,
 và các hệ thống tương tự --- tập trung vào việc phát triển nhận thức bản
 thể (proprioception) và khả năng cảm nhận tinh tế về cơ thể. Những
-phương pháp này có giá trị đặc biệt trong việc phát triển \'feel\' cho
+phương pháp này có giá trị đặc biệt trong việc phát triển 'feel' cho
 các khái niệm DRF.
 
 **8.3.1 Feldenkrais Và Tennis**
@@ -2079,10 +2079,10 @@ thay vì học theo instruction.
 
 **8.3.2 Alexander Technique Và Inhibition**
 
-Alexander Technique nhấn mạnh khái niệm \'inhibition\' --- dừng lại
+Alexander Technique nhấn mạnh khái niệm 'inhibition' --- dừng lại
 trước khi thực hiện hành động để cho phép hệ thần kinh không theo
 patterns không hiệu quả cũ. Áp dụng cho tennis: trước mỗi forehand,
-\'pause\' ngắn để không đi vào pattern cũ (arm swing, tight grip), cho
+'pause' ngắn để không đi vào pattern cũ (arm swing, tight grip), cho
 phép pattern mới (DRF mechanics) xuất hiện.
 
 **8.4 Bài Học Xuyên Suốt**
@@ -2105,7 +2105,7 @@ khiển cực kỳ tinh vi.
 **9.1 Variable-Radius Rotary Actuator**
 
 Trong kỹ thuật điều khiển, forehand tennis có thể được mô hình hóa như
-một \'variable-radius rotary actuator\' --- một bộ truyền động quay có
+một 'variable-radius rotary actuator' --- một bộ truyền động quay có
 bán kính thay đổi theo thời gian. Khi bán kính giảm, moment of inertia
 giảm tức thời, cho phép actuator đạt angular acceleration cao hơn mà
 không cần thêm torque. Đây là cách robot tối ưu hóa arm movement ---
@@ -2154,7 +2154,7 @@ model của kết quả).
 Vì forehand diễn ra trong 300-500ms, hệ thần kinh không có đủ thời gian
 để xử lý sensory feedback và điều chỉnh trong khi swing đang xảy ra. Do
 đó, forehand phải chủ yếu dựa vào feedforward control --- hệ thần kinh
-phải \'biết trước\' điều cần làm và thực hiện theo motor program. Đây là
+phải 'biết trước' điều cần làm và thực hiện theo motor program. Đây là
 lý do tại sao practice và repetition quan trọng --- chúng xây dựng
 feedforward motor programs chính xác.
 
@@ -2294,15 +2294,15 @@ xoay, trunk coil và release, scapula glide, elbow slot, ISR bùng nổ, lag
 release, đầu vợt lao qua bóng --- có một khoảnh khắc mà người chơi cảm
 nhận điều gì đó gần như ma thuật: cú đánh tạo ra power tối đa với effort
 tối thiểu, bóng bay đi với momentum sâu và spin nặng, và cơ thể cảm thấy
-không phải là \'đang làm\' mà là \'đang để xảy ra\'.
+không phải là 'đang làm' mà là 'đang để xảy ra'.
 
 Đây không phải ngẫu nhiên. Đây là kết quả của hàng nghìn năm tiến hóa
 của cơ thể người để tối ưu hóa throwing motion, cộng với hàng trăm năm
 phát triển kỹ thuật tennis, cộng với các nguyên lý vật lý tự nhiên đang
 hoạt động trong sự hoàn hảo của chúng.
 
-Nhiệm vụ của huấn luyện viên và vận động viên là không \'tạo ra\' điều
-này --- mà là \'cho phép\' nó xảy ra bằng cách loại bỏ mọi cản trở cơ
+Nhiệm vụ của huấn luyện viên và vận động viên là không 'tạo ra' điều
+này --- mà là 'cho phép' nó xảy ra bằng cách loại bỏ mọi cản trở cơ
 học, kỹ thuật, và tâm lý. Khi đó, forehand không còn là một kỹ năng được
 học --- nó là một biểu hiện tự nhiên của cơ thể con người hoạt động ở
 trạng thái tốt nhất của mình.
@@ -2325,7 +2325,7 @@ two-handed), serve, và các cú đặc biệt khác.
 **11.1 One-Handed Backhand --- Ứng Dụng DRF**
 
 One-handed backhand (1HBH) là cú đánh đòi hỏi sự tinh tế và timing cao.
-Nhiều người chơi gặp khó khăn với 1HBH vì họ cố gắng \'đánh\' bằng tay
+Nhiều người chơi gặp khó khăn với 1HBH vì họ cố gắng 'đánh' bằng tay
 --- chính xác là lỗi mà DRF cảnh báo trong forehand.
 
 **11.1.1 Kinetic Chain Trong 1HBH**
@@ -2342,18 +2342,18 @@ layback và pronation trong forehand.
 Trong 1HBH, radius reduction xảy ra khác với forehand: khuỷu tay duỗi ra
 (extension) trong pha acceleration --- ngược với forehand. Tuy nhiên,
 nguyên lý tương tự vẫn áp dụng: đúng geometry của arm ở đúng thời điểm
-cho phép shoulder rotation tạo ra maximum whip. \'Elbow slot\' trong
+cho phép shoulder rotation tạo ra maximum whip. 'Elbow slot' trong
 1HBH là elbow ở vị trí semi-extended cho phép external shoulder rotation
 hoạt động hiệu quả nhất.
 
 **11.1.3 Common Errors Trong 1HBH Và DRF Fix**
 
-Lỗi phổ biến nhất trong 1HBH là \'dropping the elbow\' quá sớm --- elbow
+Lỗi phổ biến nhất trong 1HBH là 'dropping the elbow' quá sớm --- elbow
 drops trước khi trunk rotation đã initiated đủ. Kết quả là cú đánh hoàn
-toàn phụ thuộc vào arm strength. DRF fix: \'shoulder leads, elbow
-follows\' --- trunk rotation và shoulder external rotation phải dẫn
-trước elbow extension. Cảm giác đúng giống như \'đánh từ lưng\' thay vì
-\'đánh từ tay\'.
+toàn phụ thuộc vào arm strength. DRF fix: 'shoulder leads, elbow
+follows' --- trunk rotation và shoulder external rotation phải dẫn
+trước elbow extension. Cảm giác đúng giống như 'đánh từ lưng' thay vì
+'đánh từ tay'.
 
 - Checklist 1HBH DRF: Hip rotation xảy ra trước shoulder unwind
 
@@ -2382,7 +2382,7 @@ develop 2HBH mạnh hơn và consistent hơn.
 
 **11.2.2 Bilateral Kinetic Chain**
 
-2HBH có kinetic chain \'bilateral\' --- cả hai bên cơ thể contribute.
+2HBH có kinetic chain 'bilateral' --- cả hai bên cơ thể contribute.
 Ground force đến từ cả hai chân. Hip rotation theo hướng backhand
 (thường right-to-left với người thuận tay phải). Trunk rotation
 bilaterally activated. Left shoulder ISR (người thuận tay phải) là ISR
@@ -2391,9 +2391,9 @@ coordinate.
 
 **11.2.3 Connection Advantage**
 
-Ưu điểm lớn nhất của 2HBH so với 1HBH là \'connection advantage\': vì
+Ưu điểm lớn nhất của 2HBH so với 1HBH là 'connection advantage': vì
 hai tay cầm vợt, cơ thể có thể truyền lực sang vợt từ cả hai phía với ít
-\'leakage\' hơn. Đây là lý do tại sao 2HBH thường dễ học hơn và đáng tin
+'leakage' hơn. Đây là lý do tại sao 2HBH thường dễ học hơn và đáng tin
 cậy hơn cho người chơi recreational, trong khi 1HBH có ceiling cao hơn
 khi được mastered.
 
@@ -2433,12 +2433,12 @@ acceleration. Pronation và racket release tại contact.
 
 **11.3.2 Racket Drop Là Serve Lag**
 
-Racket drop --- giai đoạn đầu vợt \'rơi\' xuống phía sau lưng trong
+Racket drop --- giai đoạn đầu vợt 'rơi' xuống phía sau lưng trong
 serve --- chính là serve lag. Nó tương tự forehand lag nhưng ở hướng
 khác (racket drop xuống thay vì lag ngang). Đây là elastic loading phase
 của serve: shoulder external rotation cực đại, elbow ở góc tối ưu cho
-ISR, và khi ISR explosively activates, racket \'bùng\' lên tiếp xúc
-bóng. Cảm giác đúng: \'đầu vợt tự bay lên khi cánh tay xoay\'.
+ISR, và khi ISR explosively activates, racket 'bùng' lên tiếp xúc
+bóng. Cảm giác đúng: 'đầu vợt tự bay lên khi cánh tay xoay'.
 
 **11.3.3 Pronation Trong Serve**
 
@@ -2462,7 +2462,7 @@ gian cho full coil. Tuy nhiên, các element cốt lõi DRF vẫn phải xuất
 hiện: hip rotation (ngắn nhưng có), trunk unwind, elbow slot, ISR, lag,
 release. Điều này có nghĩa là return yêu cầu DRF mechanics ở mức độ
 automaticity cao hơn rally forehand --- vì người chơi không có thời gian
-để \'think about\' mechanics.
+để 'think about' mechanics.
 
 **11.4.2 Split Step Và Reactive DRF**
 
@@ -2491,7 +2491,7 @@ execution tối ưu. Ba yếu tố này --- vị trí, trạng thái body, và t
 
 Vị trí tối ưu cho DRF forehand là: bóng ở phía trước và bên cạnh người ở
 chiều cao contact point lý tưởng (waist-to-chest), đủ khoảng cách để arm
-có room để swing (không jammed), và platform ổn định cho GRF. \'Jammed\'
+có room để swing (không jammed), và platform ổn định cho GRF. 'Jammed'
 position --- khi bóng quá gần người --- là nguyên nhân phổ biến nhất của
 forehand mechanics bị gián đoạn, đặc biệt là elbow slot và ISR bị
 blocked.
@@ -2500,7 +2500,7 @@ blocked.
 
 Ngay cả khi ban đầu đến đúng vị trí, người chơi thường cần 1-3
 adjustment steps nhỏ để tinh chỉnh. Những adjustment steps này không
-phải là \'thêm\' vào footwork --- chúng là phần cơ bản của positioning
+phải là 'thêm' vào footwork --- chúng là phần cơ bản của positioning
 preparation. Chúng cho phép fine-tuning của: contact point distance,
 stance width và angle, body tilt và balance, timing với ball arrival.
 
@@ -2520,7 +2520,7 @@ Split step là jump nhỏ được thực hiện ngay khi opponent contact bóng
 Khi landing, legs ở dynamic flexion --- loaded và ready to explode theo
 bất kỳ hướng nào. Split step không phải là nhảy lên trước khi đánh ---
 nó là mechanism để reactive footwork. Timing: split step landing phải
-coincide với opponent\'s contact, không trước và không sau.
+coincide với opponent's contact, không trước và không sau.
 
 **12.2.3 Side Shuffle vs. Cross Step**
 
@@ -2541,7 +2541,7 @@ adaptation.
 
 Trong open stance, GRF được tạo ra chủ yếu từ outside leg (chân xa court
 center) pushing đất. Điều này khác với closed stance nơi weight shift
-tạo ra GRF forward. Trong open stance, người chơi phải \'cork-screw\'
+tạo ra GRF forward. Trong open stance, người chơi phải 'cork-screw'
 --- xoay và đẩy đất đồng thời từ outside leg. Đây là movement pattern
 cần được practice riêng.
 
@@ -2613,7 +2613,7 @@ Footwork nhịp nhàng, không phải chạy hết sức --- smooth và efficien
 Kiến thức kỹ thuật và mechanics đúng là điều kiện cần --- nhưng chưa đủ.
 Thực tế thi đấu đặt người chơi vào môi trường áp lực, uncertainty, và
 emotional intensity mà kỹ thuật đơn thuần không thể handle một mình.
-Chương này trình bày khung tâm lý để DRF mechanics có thể \'survive\' và
+Chương này trình bày khung tâm lý để DRF mechanics có thể 'survive' và
 thực sự thể hiện trong những khoảnh khắc quan trọng nhất.
 
 **13.1 Tại Sao Mechanics Sụp Đổ Dưới Áp Lực**
@@ -2625,9 +2625,9 @@ tốt trong practice, nhưng sụp đổ trong match. Tại sao?
 
 Khi áp lực tăng, người chơi thường chuyển từ implicit motor control
 (automatic, unconscious) sang explicit verbal control (deliberate,
-conscious). Thay vì để motor program chạy tự động, họ bắt đầu \'think
-about\' từng bước: \'nhớ giữ khuỷu vào\', \'nhớ xoay hông\', \'nhớ delay
-release\'. Điều này là \'paralysis by analysis\' --- quá nhiều conscious
+conscious). Thay vì để motor program chạy tự động, họ bắt đầu 'think
+about' từng bước: 'nhớ giữ khuỷu vào', 'nhớ xoay hông', 'nhớ delay
+release'. Điều này là 'paralysis by analysis' --- quá nhiều conscious
 control interfere với automatic motor program, làm chuyển động trở nên
 chậm, gượng gạo và thiếu flow.
 
@@ -2636,7 +2636,7 @@ chậm, gượng gạo và thiếu flow.
 Arousal cao (stress, excitement, anxiety) tự động tăng muscle tension
 toàn thân. Điều này đặc biệt có hại cho DRF mechanics: grip tự nhiên
 siết chặt hơn (vi phạm Rule 1), forearm co cứng hơn (mất lag), và toàn
-bộ kinetic chain trở nên \'tight\' thay vì \'loose but connected\'. Một
+bộ kinetic chain trở nên 'tight' thay vì 'loose but connected'. Một
 phần của mental training là học cách giảm arousal và maintain optimal
 muscle tension ngay cả trong high-pressure moments.
 
@@ -2658,9 +2658,9 @@ mechanics, feel, rhythm) thay vì vào kết quả (điểm số, bóng vào hay
 
 Cue words là một kỹ thuật hiệu quả: chọn 1-3 từ ngắn gọn để trigger DRF
 mechanics. Thay vì nghĩ về nhiều bước kỹ thuật, người chơi chỉ cần nhớ
-một cue word. Ví dụ về DRF cue words hiệu quả: \'Slot-Launch\' (elbow
-slot rồi ISR launch), \'Heavy Feet\' (ground force), \'Quăng Dây\'
-(throw whip motion), \'Trễ\' (delay release). Mỗi người chơi nên tìm cue
+một cue word. Ví dụ về DRF cue words hiệu quả: 'Slot-Launch' (elbow
+slot rồi ISR launch), 'Heavy Feet' (ground force), 'Quăng Dây'
+(throw whip motion), 'Trễ' (delay release). Mỗi người chơi nên tìm cue
 words phù hợp với mình qua experimentation.
 
 **13.2.2 Between-Point Routine**
@@ -2679,12 +2679,12 @@ Breathing là công cụ trực tiếp để regulate arousal. Exhale forceful n
 khi contact bóng (grunt trong trường hợp cực đoan) giúp: release muscle
 tension đúng lúc để enable whip, maintain oxygen flow đến muscles, và
 create rhythm cho point. Inhale dài và slow trong between-point routine
-helps reset autonomous nervous system. \'Tactical breathing\' (4-count
+helps reset autonomous nervous system. 'Tactical breathing' (4-count
 in, 4-count out) trong changeover giúp reset arousal completely.
 
 **13.3 Clutch Performance --- Execution Dưới Áp Lực Cao**
 
-\'Clutch\' performance --- khả năng thực hiện tốt nhất trong những
+'Clutch' performance --- khả năng thực hiện tốt nhất trong những
 khoảnh khắc quan trọng nhất --- là đặc điểm phân biệt vận động viên đỉnh
 cao. DRF cung cấp một framework để build clutch capability một cách có
 hệ thống.
@@ -2692,9 +2692,9 @@ hệ thống.
 **13.3.1 High-Stakes DRF Execution**
 
 Khi score tight (30-40, match point), nhiều người chơi unconsciously
-thay đổi mechanics: đánh \'safe\' và \'controlled\' nhưng thực ra mất
+thay đổi mechanics: đánh 'safe' và 'controlled' nhưng thực ra mất
 structure. DRF counterintuitive insight: dưới áp lực, người chơi cần
-MORE trust trong whip mechanics, không phải less. \'Controlled\' thường
+MORE trust trong whip mechanics, không phải less. 'Controlled' thường
 có nghĩa là arm swing, tight grip, và mất power. True control đến từ
 proper DRF execution, không phải từ restraint.
 
@@ -2725,7 +2725,7 @@ prepare hệ thần kinh cho match conditions.
 120. Score-based drills: Rally với tracking điểm số. First to 10 points
      wins. DRF mechanics phải hold ngay cả khi score tight.
 
-121. High-stakes serves: Designate \'match point\' serves trong practice
+121. High-stakes serves: Designate 'match point' serves trong practice
      --- nếu miss, consequence (10 push-ups, bắt đầu lại từ 0 trong
      drill).
 
@@ -2733,7 +2733,7 @@ prepare hệ thần kinh cho match conditions.
      coach). Observation pressure giúp prepare cho match anxiety.
 
 123. Adversity recovery: Intentionally miss 3-4 balls in a row, sau đó
-     phải \'recover\' DRF mechanics trong 5 balls tiếp theo.
+     phải 'recover' DRF mechanics trong 5 balls tiếp theo.
 
 124. Tired forehand: Thực hiện DRF forehand drills khi đã mệt (sau
      physical training). Tired forehand reveals true mechanics ---
@@ -2753,7 +2753,7 @@ DRF forehand đòi hỏi strength specific theo nhiều đặc trưng:
 
 **14.1.1 Rotational Core Strength**
 
-Core strength cần thiết cho DRF không phải là \'abs strength\' truyền
+Core strength cần thiết cho DRF không phải là 'abs strength' truyền
 thống --- nó là rotational core strength: khả năng tạo ra torque mạnh
 trong trunk rotation. Các cơ quan trọng nhất bao gồm: oblique (chéo bụng
 ngoài và trong), erector spinae, multifidus, và thoracolumbar fascia
@@ -2930,10 +2930,10 @@ compensatory pattern).
 
 **15.1.3 Feel, Not Shape**
 
-Coaching bằng \'shape\' --- cố gắng làm cho người học trông giống
-Federer từ bên ngoài --- thường không hiệu quả. Coaching bằng \'feel\'
+Coaching bằng 'shape' --- cố gắng làm cho người học trông giống
+Federer từ bên ngoài --- thường không hiệu quả. Coaching bằng 'feel'
 --- giúp người học cảm nhận đúng internal sensation --- hiệu quả hơn
-nhiều. Câu hỏi \'cảm thấy thế nào?\' quan trọng hơn \'trông thế nào?\'.
+nhiều. Câu hỏi 'cảm thấy thế nào?' quan trọng hơn 'trông thế nào?'.
 Visual feedback (video) có giá trị, nhưng tactile và proprioceptive
 feedback thường direct hơn.
 
@@ -2941,7 +2941,7 @@ feedback thường direct hơn.
 
 Constraint-led approach (CLA) là phương pháp coaching dùng task
 constraints để guide người học khám phá optimal solution thay vì
-explicit instruction. Ví dụ: thay vì nói \'hãy làm elbow slot\', coach
+explicit instruction. Ví dụ: thay vì nói 'hãy làm elbow slot', coach
 set up drill where elbow MUST slot để ball contact be possible (ví dụ:
 feed bóng close to body buộc compact elbow position). CLA activates
 implicit learning và thường lead to more robust motor programs.
@@ -2984,7 +2984,7 @@ nhiên khi foundation đúng.
 Với intermediate player (đã chơi 2-5 năm), thường có compensatory
 patterns cần identified và addressed. Common issues: arm swing habit bù
 đắp cho weak hip/trunk, tight grip bù đắp cho poor timing, over-rotation
-của shoulders để \'generate power\'. Strategy: identify main
+của shoulders để 'generate power'. Strategy: identify main
 compensation → address root cause → replace compensation with proper DRF
 element.
 
@@ -3004,36 +3004,36 @@ Dưới đây là thư viện coaching cues được tổ chức theo DRF layer,
   -------------------------- --------------------------------------------
   **DRF Layer**              **Effective Coaching Cues Và Giải Thích**
 
-  Layer 1 --- Ground         \'Đạp đất\' --- triggers active GRF
-                             generation. \'Cảm thấy mặt sân\' --- directs
+  Layer 1 --- Ground         'Đạp đất' --- triggers active GRF
+                             generation. 'Cảm thấy mặt sân' --- directs
                              attention to foot contact.
 
-  Layer 2 --- Pelvis         \'Hông trước tay\' --- creates sequential
-                             awareness. \'Xoay từ trung tâm\' --- locates
+  Layer 2 --- Pelvis         'Hông trước tay' --- creates sequential
+                             awareness. 'Xoay từ trung tâm' --- locates
                              power source correctly.
 
-  Layer 3 --- Trunk          \'Thân như lò xo\' --- elastic loading
-                             metaphor. \'Giữ sức căng trong bụng\' ---
+  Layer 3 --- Trunk          'Thân như lò xo' --- elastic loading
+                             metaphor. 'Giữ sức căng trong bụng' ---
                              maintain tension awareness.
 
-  Layer 4 --- Scapula        \'Vai nổi trên ngực\' --- relaxed scapular
-                             position. \'Tay treo từ lưng\' --- correct
+  Layer 4 --- Scapula        'Vai nổi trên ngực' --- relaxed scapular
+                             position. 'Tay treo từ lưng' --- correct
                              scapular-arm connection feel.
 
-  Layer 5 --- Radius         \'Khuỷu rơi vào slot\' --- specific slotting
-                             cue. \'Tay thu vào rồi bung\' --- radius
+  Layer 5 --- Radius         'Khuỷu rơi vào slot' --- specific slotting
+                             cue. 'Tay thu vào rồi bung' --- radius
                              reduction + release sequence.
 
-  Layer 6 --- Lag            \'Để vợt bị bỏ lại\' --- passive lag
-                             creation. \'Đầu vợt ở sau\' --- attention to
+  Layer 6 --- Lag            'Để vợt bị bỏ lại' --- passive lag
+                             creation. 'Đầu vợt ở sau' --- attention to
                              lag position.
 
-  Layer 7 --- ISR            \'Quăng lao\' --- ISR explosive metaphor.
-                             \'Vai bắn đầu vợt\' --- shoulder drives
+  Layer 7 --- ISR            'Quăng lao' --- ISR explosive metaphor.
+                             'Vai bắn đầu vợt' --- shoulder drives
                              racket.
 
-  Layer 8 --- Contact        \'Xuyên qua bóng\' --- momentum projection.
-                             \'Ném đầu vợt về target\' --- directional
+  Layer 8 --- Contact        'Xuyên qua bóng' --- momentum projection.
+                             'Ném đầu vợt về target' --- directional
                              intent.
   -------------------------- --------------------------------------------
 
@@ -3041,11 +3041,11 @@ Dưới đây là thư viện coaching cues được tổ chức theo DRF layer,
 
 Một trong những thách thức lớn nhất trong coaching DRF là người học có
 deeply ingrained habits. Thay đổi habits đặc biệt khó vì cũ patterns cảm
-thấy \'đúng\' ngay cả khi chúng mechanics sai.
+thấy 'đúng' ngay cả khi chúng mechanics sai.
 
 **15.5.1 Pattern Interruption**
 
-Pattern interruption tạo ra \'gap\' trong automatic execution của old
+Pattern interruption tạo ra 'gap' trong automatic execution của old
 pattern, tạo space cho new pattern. Techniques: slow motion execution
 (too slow to trigger automatic old pattern), novel constraint (physical
 barrier makes old pattern impossible), mental distraction (count
@@ -3078,7 +3078,7 @@ equipment cho DRF execution.
 
 Một trong những thông số quan trọng nhất của vợt tennis không phải là
 tổng khối lượng (static weight) mà là swing weight --- mô men quán tính
-của vợt quanh grip. Swing weight cao hơn có nghĩa là vợt \'nặng hơn\'
+của vợt quanh grip. Swing weight cao hơn có nghĩa là vợt 'nặng hơn'
 khi vung --- khó accelerate nhưng khi đã reach speed thì ổn định hơn.
 Swing weight thấp hơn có nghĩa là vợt dễ accelerate hơn nhưng có thể bị
 deflected tại contact.
@@ -3122,14 +3122,14 @@ chọn multifilament hoặc hybrid.
 Lower tension: more power (trampoline effect lớn hơn), more comfort,
 less control. Higher tension: less power, more control, more feel. DRF
 players tạo ra power chủ yếu từ kinetic chain --- không cần high tension
-để \'control\' power (vì power đến từ mechanics, không từ string). Do
+để 'control' power (vì power đến từ mechanics, không từ string). Do
 đó, DRF players thường có thể string ở lower tension và benefit từ thêm
 ball feel và comfort, giảm nguy cơ chấn thương arm.
 
 **16.3 Grip Size Và DRF**
 
 Grip size ảnh hưởng trực tiếp đến ability để relax grip (Layer 1 của
-\'loose but connected\' principle). Grip quá nhỏ: người chơi có xu hướng
+'loose but connected' principle). Grip quá nhỏ: người chơi có xu hướng
 clench để maintain control, increases muscle tension. Grip quá lớn:
 fingerwork bị limited, ISR bị affected. Optimal grip size: khớp đốt ngón
 tay giữa khi cầm vợt cách lòng bàn tay đủ để đặt một ngón tay
@@ -3257,7 +3257,7 @@ minimize fatigue-induced bad habits:
      element.
 
 138. Feel calibration (5 min): Slow motion shadow swings với complete
-     DRF sequence. \'Lock in\' correct feel cho session.
+     DRF sequence. 'Lock in' correct feel cho session.
 
 139. Cool-down notes (5 min): Quick journal note về discoveries của
      session. Identify focus cho next session.
@@ -3332,9 +3332,9 @@ challenges? Điều này guide priority setting cho training tiếp theo.
 **18.1.3 Ball Contact Feedback**
 
 Sound và feel của ball contact cung cấp immediate feedback về mechanics:
-clean \'pop\' sound cho biết center contact với good racket head speed
---- dấu hiệu ISR đang work. Dull \'thud\' thường cho biết off-center
-contact hoặc racket head speed thấp. \'Clicking\' từ frame cho biết edge
+clean 'pop' sound cho biết center contact với good racket head speed
+--- dấu hiệu ISR đang work. Dull 'thud' thường cho biết off-center
+contact hoặc racket head speed thấp. 'Clicking' từ frame cho biết edge
 contact --- mechanics hoặc positioning vấn đề. Train ear để recognize
 healthy ball contact sound.
 
@@ -3356,7 +3356,7 @@ suggestions: Alternating forehand và backhand (develops transition
 mechanics), short balls (develops approach forehand), deep cross-court
 (develops full extension forehand), high balls (develops overhead
 topspin mechanics). DRF focus: reset stance completely sau mỗi ball.
-Don\'t just hit continuously --- treat each ball as a point in itself.
+Don't just hit continuously --- treat each ball as a point in itself.
 
 **18.2.3 Wall Practice**
 
@@ -3399,7 +3399,7 @@ quality, impact location data reveals contact point consistency.
 
 **18.4.2 Video Analysis Apps**
 
-Apps như Coach\'s Eye, Dartfish Express, và Hudl Technique cho phép:
+Apps như Coach's Eye, Dartfish Express, và Hudl Technique cho phép:
 slow motion playback với annotation, side-by-side comparison với
 reference video (ATP player forehand), angle measurement tools để check
 elbow position và body rotation. Sử dụng một cách systematic: record →
@@ -3410,9 +3410,9 @@ analyze → identify 1 priority → practice → record again → compare.
 Online communities (Tennis Reddit, các Facebook groups về tennis
 technique) có thể cung cấp feedback từ knowledgeable players và coaches
 khi không có access to in-person coaching. Post slow-motion videos với
-specific questions về DRF elements. Be specific: không \'what\'s wrong
-with my forehand?\' mà \'is my elbow slotting before ISR begins in this
-video?\' Specific questions get specific, useful answers.
+specific questions về DRF elements. Be specific: không 'what's wrong
+with my forehand?' mà 'is my elbow slotting before ISR begins in this
+video?' Specific questions get specific, useful answers.
 
 **18.5 The Self-Coaching Mindset**
 
@@ -3507,11 +3507,11 @@ câu hỏi: năng lượng đến từ đâu và đi đâu?
 Forehand DRF sử dụng ba nguồn năng lượng chính:
 
 140. Metabolic energy từ muscle contraction: cơ bắp chuyển hóa ATP thành
-     cơ năng thông qua co cơ. Đây là nguồn năng lượng \'chủ động\' duy
+     cơ năng thông qua co cơ. Đây là nguồn năng lượng 'chủ động' duy
      nhất.
 
 141. Elastic potential energy: được lưu trữ trong cơ, gân, và mạc trong
-     pha stretch. Đây là nguồn năng lượng \'bị động\' nhưng có thể lớn
+     pha stretch. Đây là nguồn năng lượng 'bị động' nhưng có thể lớn
      --- đến 30-40% total energy trong một cú đánh tốt.
 
 142. Gravitational potential energy: ít đáng kể nhất trong forehand,
@@ -3636,7 +3636,7 @@ motor response.
 
 **20.1.1 Predictive Eye Movements**
 
-Thú vị là, expert tennis players không \'follow\' bóng bằng mắt theo
+Thú vị là, expert tennis players không 'follow' bóng bằng mắt theo
 real-time. Thay vào đó, họ sử dụng predictive gaze --- mắt nhảy đến dự
 đoán vị trí contact point trước khi bóng đến đó. Đây là kết quả của
 extensive learning và pattern recognition. Player học biết từ bất kỳ
@@ -3646,17 +3646,17 @@ zone như thế nào.
 **20.1.2 Gaze Fixation Tại Contact**
 
 Nghiên cứu bằng eye-tracking cho thấy expert players thường fixate gaze
-tại contact point ngay trước và trong lúc contact --- họ \'nhìn chỗ bóng
-sẽ đến\' chứ không nhìn bóng đang bay. Gaze fixation tại contact giúp:
+tại contact point ngay trước và trong lúc contact --- họ 'nhìn chỗ bóng
+sẽ đến' chứ không nhìn bóng đang bay. Gaze fixation tại contact giúp:
 calibrate contact point chính xác hơn, reduce gaze motion artifact, và
 cải thiện proprioceptive accuracy của arm position relative to perceived
 ball position.
 
 **20.1.3 Implications Cho Training**
 
-Train predictive gaze bằng cách: thực hành \'calling\' ball bounce
-position trước khi bóng bounces (\'cross-court\', \'down the line\').
-Sau đó \'call\' exact contact zone (\'inside-out\', \'high ball\'). Dần
+Train predictive gaze bằng cách: thực hành 'calling' ball bounce
+position trước khi bóng bounces ('cross-court', 'down the line').
+Sau đó 'call' exact contact zone ('inside-out', 'high ball'). Dần
 dần, hệ thần kinh học pattern recognition và predictive gaze tự nhiên
 phát triển.
 
@@ -3669,9 +3669,9 @@ hơn một nửa tổng số neurons trong não --- và phần lớn chúng liê
 
 **20.2.1 Forward Models**
 
-Cerebellum xây dựng \'forward models\' --- internal representations của
+Cerebellum xây dựng 'forward models' --- internal representations của
 cách cơ thể respond với motor commands. Khi cerebral cortex gửi lệnh
-\'execute forehand\', cerebellum consult its forward model để predict
+'execute forehand', cerebellum consult its forward model để predict
 outcome và có thể fine-tune motor commands trước khi họ reach muscles.
 Đây là lý do tại sao experienced players có thể make micro-adjustments
 trong swing mà không cần conscious thought.
@@ -3693,7 +3693,7 @@ automatic.
 
 **20.3.1 Habit Loop**
 
-Basal ganglia encode habits theo cấu trúc \'habit loop\': cue → routine
+Basal ganglia encode habits theo cấu trúc 'habit loop': cue → routine
 → reward. Trong tennis, habit loop là: bóng đến (cue) → execute forehand
 motor sequence (routine) → successful shot / good feel (reward). Mỗi lần
 loop này xảy ra thành công, basal ganglia strengthen the neural pathway.
@@ -3715,7 +3715,7 @@ execution, gradual automatization.
 Myelin là chất béo bao quanh axons của neurons như insulation. Myelin
 tăng tốc độ truyền tín hiệu thần kinh và giúp signals trở nên more
 precise và reliable. Critically: myelin được tăng cường khi neural
-pathways được fired. \'Practice makes permanent\' --- và myelination là
+pathways được fired. 'Practice makes permanent' --- và myelination là
 cơ chế tế bào thần kinh của điều đó.
 
 **20.4.1 Deliberate Practice Và Myelination**
@@ -3730,11 +3730,11 @@ deliberate --- goal-oriented, feedback-rich, và focused.
 **20.4.2 Sleep Và Motor Consolidation**
 
 Một điều ít biết nhưng cực kỳ quan trọng: motor learning consolidation
-xảy ra trong sleep. Memories của motor patterns được \'replayed\' và
+xảy ra trong sleep. Memories của motor patterns được 'replayed' và
 strengthened trong slow-wave sleep và REM sleep. Điều này có
 implications thực tế: học cú đánh mới, sau đó sleep well, thường cho
-thấy improvement vào ngày hôm sau mà không cần thêm practice. \'Sleep on
-it\' là advice khoa học cho motor learning.
+thấy improvement vào ngày hôm sau mà không cần thêm practice. 'Sleep on
+it' là advice khoa học cho motor learning.
 
 **20.5 Neuroplasticity Và Lifespan Learning**
 
@@ -3749,13 +3749,13 @@ Người lớn học motor skills khác với trẻ em: chậm hơn để build 
 patterns, nhưng better ở understanding principles, making connections,
 và applying knowledge strategically. DRF framework đặc biệt phù hợp với
 adult learners vì nó provides conceptual framework cho mechanics ---
-giúp adult brain understand \'why\' của mỗi element, which accelerates
+giúp adult brain understand 'why' của mỗi element, which accelerates
 learning mặc dù slower motor adaptation rate.
 
 **20.5.2 Neuroplasticity Optimization**
 
 Để maximize neuroplasticity và accelerate DRF learning: aerobic exercise
-(tennis practice itself!) increases BDNF --- \'brain fertilizer\' tăng
+(tennis practice itself!) increases BDNF --- 'brain fertilizer' tăng
 neural growth. Sleep sufficient (7-9 hours) là non-negotiable cho motor
 consolidation. Novelty và challenge trong practice keeps nervous system
 engaged và stimulated. Stress management --- excessive stress impairs
@@ -3801,7 +3801,7 @@ visible.
 145. Tuần 5-6: Slow cooperative feeding với DRF focus. Grip pressure
      reduced to 4/10. Videotape và review mỗi session.
 
-146. Tuần 7-8: Medium pace rallying với \'trunk cue\' word. Elbow slot
+146. Tuần 7-8: Medium pace rallying với 'trunk cue' word. Elbow slot
      awareness introduced.
 
 147. Tuần 9-10: Progressive speed với DRF checklist. Begin pressure
@@ -3815,7 +3815,7 @@ Video comparison showed: hip rotation now precedes shoulder (20°
 separation consistently), elbow slot visible in 70% of forehands, grip
 pressure reduced to 5/10 average, lag visible in slow motion analysis,
 zero shoulder/elbow pain reported. Ball speed increased approximately
-20%. Player described feel as \'much more natural and less tiring\'.
+20%. Player described feel as 'much more natural and less tiring'.
 
 **21.2 Case Study 2: Junior Player Developing ISR**
 
@@ -3823,8 +3823,8 @@ zero shoulder/elbow pain reported. Ball speed increased approximately
 
 Nữ, 14 tuổi, competitive junior player, trình độ 4.5. Strong kinetic
 chain fundamentals but limited ISR development. Forehand power
-plateaued, coaching feedback: \'hitting with wrist too much, need more
-shoulder rotation.\'
+plateaued, coaching feedback: 'hitting with wrist too much, need more
+shoulder rotation.'
 
 **DRF Assessment:**
 
@@ -3841,7 +3841,7 @@ shoulder rotation.\'
 
 ISR isolation drills với resistance band. Specific exercise: standing
 with elbow at side, resisted internal rotation slow motion, 3 × 15
-daily. \'Throwing a frisbee\' imagery cue for ISR feel. Video analysis
+daily. 'Throwing a frisbee' imagery cue for ISR feel. Video analysis
 showed ISR beginning to appear after 3 weeks. Combined với existing good
 kinetic chain, power output increased significantly within 6-8 weeks.
 Racket head speed measured (with racket sensor) increased from average
@@ -3853,25 +3853,25 @@ Racket head speed measured (with racket sensor) increased from average
 
 Nam, 28 tuổi, competitive club player, trình độ 5.5. All DRF elements
 present but timing feels inconsistent --- some days mechanics feel
-great, other days something \'off\'. Match results inconsistent. No
+great, other days something 'off'. Match results inconsistent. No
 specific injury or obvious flaw.
 
 **DRF Assessment:**
 
 Frame-by-frame video analysis revealed: elbow slot timing varies by
-50-80ms between \'good day\' and \'bad day\' forehands. On good days,
+50-80ms between 'good day' and 'bad day' forehands. On good days,
 elbow slots just as ISR begins. On bad days, elbow slots 50-80ms after
-ISR has already started --- body had to \'wait\' for elbow or rush to
+ISR has already started --- body had to 'wait' for elbow or rush to
 catch up, disrupting sequential timing.
 
 **Intervention:**
 
 Elbow slot timing drill: player practiced slow motion transition
-specifically from backswing to slot, counting rhythm \'slot --- then ---
-ISR\' aloud. Visual cue: a colored marker on shirt where elbow should
+specifically from backswing to slot, counting rhythm 'slot --- then ---
+ISR' aloud. Visual cue: a colored marker on shirt where elbow should
 pass during slot. After 4 weeks of deliberate timing practice,
 frame-by-frame analysis showed elbow slot timing variance reduced to
-20-25ms. Player reported forehand feeling \'more automatic\' and match
+20-25ms. Player reported forehand feeling 'more automatic' and match
 results improved.
 
 **21.4 Case Study 4: Senior Player Building DRF From Scratch**
@@ -3892,7 +3892,7 @@ intensity of drills, more emphasis on feel và less on power outcomes,
 injury prevention integrated throughout. Results after 6 months:
 recognizable hip-shoulder separation, basic elbow slot, reduced arm
 swing. Player reports fewer arm injuries, more enjoyment, and ball
-feeling \'heavier\' when hitting.
+feeling 'heavier' when hitting.
 
 **21.5 Patterns Across Case Studies**
 
@@ -3913,7 +3913,7 @@ Nhìn qua 4 case studies, một số patterns rõ ràng:
 - DRF principles apply across all ages và levels, though adaptation
   timeline và approach vary significantly
 
-- The \'feel\' change --- forehand becoming more effortless --- is a
+- The 'feel' change --- forehand becoming more effortless --- is a
   consistent outcome when mechanics improve
 
 **CHƯƠNG XXII: TÍCH HỢP DRF VÀO CHIẾN THUẬT THI ĐẤU**
@@ -3938,7 +3938,7 @@ prevent them from attacking.
 
 **22.1.2 Heavy Ball**
 
-\'Heavy ball\' là thuật ngữ mô tả bóng cảm thấy nặng khi opponent đánh
+'Heavy ball' là thuật ngữ mô tả bóng cảm thấy nặng khi opponent đánh
 --- họ cảm thấy racket bị pushed back nhiều hơn expected. Heavy ball đến
 từ combination của tốc độ cao, topspin, và deep landing. DRF forehand
 naturally produces heavy ball vì racket head speed cao (từ ISR) +
@@ -3964,7 +3964,7 @@ của opponent --- là một trong những patterns powerful nhất trong tennis
 DRF enables này vì: hông có thể coil sâu khi running wide, ISR explosive
 từ loaded position, contact projection clearly inside-out. Pattern: push
 opponent với deep backhand, họ return cross-court middle, run around và
-execute inside-out forehand DRF vào opponent\'s backhand corner.
+execute inside-out forehand DRF vào opponent's backhand corner.
 
 **22.2.2 The Heavy Cross Pattern**
 
@@ -3978,7 +3978,7 @@ change direction bất ngờ (inside-out hoặc down-the-line).
 
 Khi receiving short ball, approach shot với DRF forehand tạo ra enough
 pressure để finish với volley hoặc force error. Key: approach shot must
-have depth (not short) và angle (to one side) --- DRF\'s contact
+have depth (not short) và angle (to one side) --- DRF's contact
 projection và directional intent enables này. Sau approach: position at
 net, close properly, volley to open court.
 
@@ -3989,24 +3989,24 @@ modulate intensity:
 
 **22.3.1 When To Throttle Up**
 
-Full DRF power khi: có comfortable time và space (opponent\'s short
+Full DRF power khi: có comfortable time và space (opponent's short
 ball, high bouncing ball, opponent out of position). Điểm cần kết thúc
 (break point, set point). Sau đã build pattern với rally balls để
 opponent is expecting more of same.
 
 **22.3.2 When To Throttle Down**
 
-Reduced intensity DRF khi: under time pressure (opponent\'s pace, wide
+Reduced intensity DRF khi: under time pressure (opponent's pace, wide
 ball). Dangerous moment (30-40 opponent, break point opponent). Building
 point (early in rally, không muốn overextend). DRF mechanics still
 present but ISR và swing intensity modulated down.
 
 **22.3.3 Compact DRF For Defensive Play**
 
-Defensive forehand --- returning opponent\'s heavy ball với limited time
+Defensive forehand --- returning opponent's heavy ball với limited time
 --- vẫn dùng DRF mechanics nhưng compact: minimal backswing, elbow slot
 rapid, ISR short but present. Mục tiêu không phải power mà depth và
-neutralizing opponent\'s attack. DRF mechanics ở mức compact vẫn
+neutralizing opponent's attack. DRF mechanics ở mức compact vẫn
 superior to arm swing vì cung cấp better consistency và less arm strain.
 
 **22.4 Shot Selection Matrix**
@@ -4027,7 +4027,7 @@ Framework cho shot selection dựa trên situation:
                           under), cross           better ball
 
   Fast flat, little time  Block-return với DRF    Neutralize pace, use
-                          control                 opponent\'s speed
+                          control                 opponent's speed
 
   High topspin to         Full DRF loaded         Attack high ball
   forehand                position, topspin       opportunity
@@ -4079,7 +4079,7 @@ tháng thực hành có cấu trúc.
 
 157. Reset và repeat 3 × 12 lần.
 
-**Cue: \'Step powers swing.\'**
+**Cue: 'Step powers swing.'**
 
 **Drill 3: Split Step Into Forehand**
 
@@ -4096,7 +4096,7 @@ tháng thực hành có cấu trúc.
 
 161. Return và repeat 3 × 10 lần.
 
-**Cue: \'Land loaded, explode into position.\'**
+**Cue: 'Land loaded, explode into position.'**
 
 **Drill 4: Ground Force Measurement**
 
@@ -4129,7 +4129,7 @@ tháng thực hành có cấu trúc.
 
 169. Thực hiện shadow swing after each 5m.
 
-**Cue: \'Strong legs make powerful forehand.\'**
+**Cue: 'Strong legs make powerful forehand.'**
 
 **Drill 6: Broad Jump Into Forehand**
 
@@ -4187,7 +4187,7 @@ tháng thực hành có cấu trúc.
 
 182. Imagine a clock face on the floor around you.
 
-183. Rotate hips to \'point\' to 3 o\'clock (forehand side), then back
+183. Rotate hips to 'point' to 3 o'clock (forehand side), then back
      to 12, then to 9 (backhand side).
 
 184. Focus on isolating hip rotation from shoulder rotation.
@@ -4202,8 +4202,8 @@ tháng thực hành có cấu trúc.
 
 186. Partner holds up hand level with your hips.
 
-187. Rotate hips forward in forehand motion --- try to \'push\'
-     partner\'s hand with hip, not shoulder.
+187. Rotate hips forward in forehand motion --- try to 'push'
+     partner's hand with hip, not shoulder.
 
 188. Partner observes và gives feedback: is hip leading? Is shoulder
      staying back?
@@ -4361,7 +4361,7 @@ tháng thực hành có cấu trúc.
 
 **Execution:**
 
-232. From elbow slot position, perform ISR to \'whip\' towel forward.
+232. From elbow slot position, perform ISR to 'whip' towel forward.
 
 233. Towel end should crack or snap --- indicates proper sequential
      release.
@@ -4450,7 +4450,7 @@ path, develops ISR and swing path coordination. Racket Spin (Drill 28)
 --- spin racket on grip axis, develops ISR feel in isolation. Butt Cap
 Contact (Drill 29) --- contact ball with butt cap of racket then
 immediately rotate to face of racket, exaggerates lag and ISR mechanics.
-Karate Chop Forehand (Drill 30) --- shadow \'karate chop\' motion, then
+Karate Chop Forehand (Drill 30) --- shadow 'karate chop' motion, then
 translate to forehand, bridges different ISR kinesthetic reference.
 
 **23.4 Integration Drills (31-40)**
@@ -4476,8 +4476,8 @@ translate to forehand, bridges different ISR kinesthetic reference.
 
 **Execution:**
 
-259. Rally 20 balls. After each 5th ball, partner calls: \'lag?\' or
-     \'ISR?\' or \'slot?\'
+259. Rally 20 balls. After each 5th ball, partner calls: 'lag?' or
+     'ISR?' or 'slot?'
 
 260. Player must immediately describe whether that element was present
      in last shot.
@@ -4525,7 +4525,7 @@ pressure.
 
 **Execution:**
 
-268. Rally, but every ball is \'sudden death\' --- miss means automatic
+268. Rally, but every ball is 'sudden death' --- miss means automatic
      -1 point.
 
 269. First to +10 wins.
@@ -4538,7 +4538,7 @@ pressure.
 
 **Execution:**
 
-272. Count consecutive balls with \'clean DRF mechanics\' (self-assessed
+272. Count consecutive balls with 'clean DRF mechanics' (self-assessed
      or coach-assessed).
 
 273. Goal: increase personal record (start might be 5, work toward 20).
@@ -4553,7 +4553,7 @@ pressure.
 
 **Execution:**
 
-276. Player hits while coach randomly calls \'lag check!\' after any
+276. Player hits while coach randomly calls 'lag check!' after any
      ball.
 
 277. Player must describe whether lag was present, on a 1-5 scale.
@@ -4705,19 +4705,19 @@ lượng từng element của DRF.
   ----------------------- ----------------------- -----------------------
   **Lỗi**                 **Dấu Hiệu**            **Sửa Chữa Nhanh**
 
-  Arm swing               Tay mỏi nhanh, bóng     \'Trunk throw, arm
-                          flat                    follow\' --- coil trunk
+  Arm swing               Tay mỏi nhanh, bóng     'Trunk throw, arm
+                          flat                    follow' --- coil trunk
                                                   và để arm theo
 
   Tight grip              Swing dead, ít snap     Relax grip đến 4/10
                                                   ngay sau elbow slot
 
-  Early wrist             Bóng vào net, ít spin   \'Wrist là người cuối\'
+  Early wrist             Bóng vào net, ít spin   'Wrist là người cuối'
                                                   --- delay snap đến sau
                                                   ISR peak
 
-  Open shoulder early     Mất power, miss wide    \'Hip trước, shoulder
-                                                  chờ\' --- hip
+  Open shoulder early     Mất power, miss wide    'Hip trước, shoulder
+                                                  chờ' --- hip
                                                   separation drill
 
   No elbow slot           Swing looping, shoulder Towel drill --- giữ
@@ -4737,7 +4737,7 @@ lượng từng element của DRF.
 
 **Sinh Cơ Học Tennis**
 
-- Elliott, B. (2006). \'Biomechanics and tennis.\' British Journal of
+- Elliott, B. (2006). 'Biomechanics and tennis.' British Journal of
   Sports Medicine.
 
 - Roetert, E.P. & Ellenbecker, T.S. --- Complete Conditioning for
@@ -4770,7 +4770,7 @@ lượng từng element của DRF.
 
 **Võ Thuật Và Triết Lý Chuyển Động**
 
-- Cheng, M. --- T\'ai Chi Ch\'uan: A Simplified Method of Calisthenics
+- Cheng, M. --- T'ai Chi Ch'uan: A Simplified Method of Calisthenics
   for Health.
 
 - Frantzis, B. --- The Power of Internal Martial Arts.
@@ -4905,8 +4905,8 @@ reach. Nếu không gập đủ, ISR không có leverage tốt.
 **Q: ISR hay forearm pronation là quan trọng hơn?**
 
 A: Cả hai quan trọng và thực ra xảy ra gần như đồng thời --- ISR dẫn đầu
-và pronation follows ngay sau. ISR là \'engine lớn\' tạo ra phần lớn tốc
-độ, pronation là \'finisher\' khuếch đại và adds snap cuối. Không nên
+và pronation follows ngay sau. ISR là 'engine lớn' tạo ra phần lớn tốc
+độ, pronation là 'finisher' khuếch đại và adds snap cuối. Không nên
 tập trung vào một mà bỏ qua cái kia.
 
 **Q: Có phải tôi phải nhảy để tạo ground force không?**
@@ -4948,8 +4948,8 @@ problem first.
 **Q: Làm sao biết DRF mechanics của tôi đã đúng?**
 
 A: Dấu hiệu chắc chắn nhất là: bóng cảm thấy nặng và có depth với effort
-nhỏ hơn expected, đầu vợt cảm thấy \'tự bay\' chứ không phải được
-\'đẩy\', swing trông và cảm thấy effortless nhưng kết quả powerful.
+nhỏ hơn expected, đầu vợt cảm thấy 'tự bay' chứ không phải được
+'đẩy', swing trông và cảm thấy effortless nhưng kết quả powerful.
 Ngoài ra: video analysis sẽ show lag rõ ràng, ISR visible, và elbow slot
 consistent. Partner feedback về bóng depth và weight cũng là indicator
 tốt.
@@ -5203,8 +5203,8 @@ như advanced diagnostic tool.
   ----------------------- ----------------------- -----------------------
   **\#**                  **Checkpoint**          **Ideal Standard**
 
-  41                      Ball contact sound      Clean \'pop\', không
-                                                  \'thud\'
+  41                      Ball contact sound      Clean 'pop', không
+                                                  'thud'
 
   42                      Follow-through          Toward target, not
                           direction               stopping at contact
@@ -5238,37 +5238,37 @@ trang tham khảo nhanh:
   -------------------------- --------------------------------------------
   **DRF Element**            **Master Cue**
 
-  Toàn bộ forehand           \'Quăng dây\' --- không phải đánh bóng
+  Toàn bộ forehand           'Quăng dây' --- không phải đánh bóng
 
-  Ground force               \'Đạp đất --- lực đi lên\'
+  Ground force               'Đạp đất --- lực đi lên'
 
-  Hip rotation               \'Hông mở trước tay\'
+  Hip rotation               'Hông mở trước tay'
 
-  Hip-shoulder separation    \'Lò xo xoắn trong thân\'
+  Hip-shoulder separation    'Lò xo xoắn trong thân'
 
-  Trunk coil                 \'Giữ sức căng khi hông bắt đầu\'
+  Trunk coil                 'Giữ sức căng khi hông bắt đầu'
 
-  Scapular connection        \'Vai nổi, tay treo từ lưng\'
+  Scapular connection        'Vai nổi, tay treo từ lưng'
 
-  Elbow slot                 \'Khuỷu rơi vào slot --- nặng xuống\'
+  Elbow slot                 'Khuỷu rơi vào slot --- nặng xuống'
 
-  Radius reduction           \'Thu vào rồi bung\'
+  Radius reduction           'Thu vào rồi bung'
 
-  Lag creation               \'Để vợt bị bỏ lại\'
+  Lag creation               'Để vợt bị bỏ lại'
 
-  Grip pressure              \'Như cầm quả trứng\'
+  Grip pressure              'Như cầm quả trứng'
 
-  ISR                        \'Cánh tay xoay như quăng lao\'
+  ISR                        'Cánh tay xoay như quăng lao'
 
-  Pronation                  \'Xoay cẳng tay vào trong sau ISR\'
+  Pronation                  'Xoay cẳng tay vào trong sau ISR'
 
-  Wrist release timing       \'Cổ tay là người đến cuối\'
+  Wrist release timing       'Cổ tay là người đến cuối'
 
-  Contact projection         \'Xuyên qua bóng, không dừng ở đó\'
+  Contact projection         'Xuyên qua bóng, không dừng ở đó'
 
-  Finish                     \'Ném đầu vợt về target\'
+  Finish                     'Ném đầu vợt về target'
 
-  Total feel                 \'Effortless power --- vợt tự bay\'
+  Total feel                 'Effortless power --- vợt tự bay'
   -------------------------- --------------------------------------------
 
 **PHỤ LỤC M: BẢNG GHI TIẾN TRIỂN HÀNG THÁNG**
@@ -5371,7 +5371,7 @@ initiate movement sang phải. Gluteus medius và hip abductors của chân
 trái lead. Arm begins initial unit turn --- shoulder turn bắt đầu.
 
 Racket begins take-back --- không phải bởi arm muscles chủ động mà được
-\'carried\' bởi shoulder rotation. Grip pressure maintain ở 4-5/10 trong
+'carried' bởi shoulder rotation. Grip pressure maintain ở 4-5/10 trong
 suốt movement phase.
 
 **T = 60--150ms: Positioning Phase**
@@ -5390,8 +5390,8 @@ body relative relaxed trong movement, shoulder turn continuing.
 Player arrives at ball position và transitions from movement to loading
 stance. Weight shifts to appropriate foot (depends on stance). Knee bend
 deepens slightly --- loading leg muscles eccentrically. Hip coil deepens
---- creating hip-shoulder separation angle. This is the \'ready to
-strike\' moment.
+--- creating hip-shoulder separation angle. This is the 'ready to
+strike' moment.
 
 Thoracic spine rotation at near-maximum in this phase. Oblique muscles
 loaded eccentrically --- elastic energy accumulating. Shoulder at peak
@@ -5406,9 +5406,9 @@ toward net. Shoulder momentarily maintains separation --- creating brief
 peak trunk coil. Elbow begins dropping toward slot position. Wrist
 begins to lay back due to racket inertia.
 
-Nerve signals: Motor cortex firing sequence changes từ \'load\' pattern
-sang \'launch\' pattern. Cerebellum monitoring and fine-tuning timing.
-This moment is the \'trigger point\' of the forehand.
+Nerve signals: Motor cortex firing sequence changes từ 'load' pattern
+sang 'launch' pattern. Cerebellum monitoring and fine-tuning timing.
+This moment is the 'trigger point' of the forehand.
 
 **T = 230--270ms: Elbow Slot And ISR Initiation**
 
@@ -5420,7 +5420,7 @@ rapidly.
 
 Simultaneously: forearm begins supination-to-pronation transition. Wrist
 is at peak layback (maximum lag angle). Racket head is maximally
-\'behind\' relative to elbow --- this is peak lag. The system is coiled
+'behind' relative to elbow --- this is peak lag. The system is coiled
 and loaded for maximum release.
 
 **T = 270--320ms: Peak ISR And Whip Release**
@@ -5539,7 +5539,7 @@ swing:
   ----------------------- ----------------------- -----------------------
 
 Những numbers này provide reference points cho video analysis. Khi
-analyzing một player\'s forehand, so sánh joint angles tại key moments
+analyzing một player's forehand, so sánh joint angles tại key moments
 với these reference ranges. Significant deviations thường indicate
 mechanical compensations.
 
@@ -5565,7 +5565,7 @@ risk (less net clearance) but reward when hit well.
 **24.4.3 DRF Slice**
 
 Slice forehand (less common but occasionally useful): Open racket face,
-contact from high to low, ISR reduced, contact is more \'through\' the
+contact from high to low, ISR reduced, contact is more 'through' the
 ball with slight downward component. Produces backspin --- ball stays
 low after bounce. Useful for approach shots, changeups, and low balls.
 DRF core (ground force, hip rotation) still applies but arm path
@@ -5585,7 +5585,7 @@ for balance.
 Overhead requires DRF principles in vertical plane: Ground force still
 important (push up). Hip rotation present but more vertical component.
 ISR occurs with arm above head --- shoulder in abduction. Elbow
-\'slots\' at higher position. Lag still present (racket drops behind
+'slots' at higher position. Lag still present (racket drops behind
 head). Pronation drives contact. Similar to serve mechanics. Power
 generation from full kinetic chain even in overhead.
 
@@ -5604,42 +5604,42 @@ Phương pháp huấn luyện tennis truyền thống đã discover nhiều đi�
 qua observation và experimentation, ngay cả khi không có framework lý
 thuyết rõ ràng:
 
-- \'Xoay vai\' --- đúng về mặt direction, mặc dù không đủ mô tả cơ chế
+- 'Xoay vai' --- đúng về mặt direction, mặc dù không đủ mô tả cơ chế
 
-- \'Sử dụng cả cơ thể\' --- đúng, nhưng không giải thích sequence và
+- 'Sử dụng cả cơ thể' --- đúng, nhưng không giải thích sequence và
   hierarchy
 
-- \'Follow through\' --- đúng, vì nó là biểu hiện của proper momentum
+- 'Follow through' --- đúng, vì nó là biểu hiện của proper momentum
   projection
 
-- \'Bend your knees\' --- đúng, vì đây là prerequisite của GRF
+- 'Bend your knees' --- đúng, vì đây là prerequisite của GRF
   generation
 
-- \'Keep your eye on the ball\' --- đúng về mặt chú ý, mặc dù mechanism
+- 'Keep your eye on the ball' --- đúng về mặt chú ý, mặc dù mechanism
   là predictive gaze không phải tracking
 
-- \'Relax your grip\' --- đúng, vì tight grip suppresses whip mechanics
+- 'Relax your grip' --- đúng, vì tight grip suppresses whip mechanics
 
-- \'Hit through the ball\' --- đúng, đây là contact projection principle
+- 'Hit through the ball' --- đúng, đây là contact projection principle
   của DRF Layer 8
 
 **25.2 Những Gì Phương Pháp Truyền Thống Còn Thiếu**
 
 Trong khi đúng về nhiều thứ, traditional coaching thường thiếu:
 
-- Cơ chế cụ thể: \'xoay vai\' không giải thích hip-shoulder separation,
+- Cơ chế cụ thể: 'xoay vai' không giải thích hip-shoulder separation,
   trunk elastic coil, hay scapular mechanics
 
 - Role của ISR: very few traditional coaches explicitly taught ISR.
-  \'Snap your wrist\' was the common (incorrect) substitute
+  'Snap your wrist' was the common (incorrect) substitute
 
-- Elbow slot: \'elbow slot\' as a specific mechanical requirement was
+- Elbow slot: 'elbow slot' as a specific mechanical requirement was
   largely absent from pre-2000 coaching literature
 
 - Lag mechanics: inertia delay và its role in racket head speed
   generation was not explicitly taught
 
-- Sequential timing: \'use your whole body\' without specifying SEQUENCE
+- Sequential timing: 'use your whole body' without specifying SEQUENCE
   leads to simultaneous rotation rather than sequential release
 
 - Physical basis: why these things work was not explained, making it
@@ -5648,7 +5648,7 @@ Trong khi đúng về nhiều thứ, traditional coaching thường thiếu:
 **25.3 The Wrist Snap Myth**
 
 Một trong những misconceptions phổ biến và persistent nhất trong tennis
-coaching là \'snap your wrist for power\'. DRF framework makes clear:
+coaching là 'snap your wrist for power'. DRF framework makes clear:
 wrist snap contributes power but is NOT the primary source và should NOT
 be the focus.
 
@@ -5657,8 +5657,8 @@ be the focus.
 Observers watching great players noticed wrist movement at contact và
 concluded: wrist snap = power. This is a correlation-causation error.
 Wrist snap is a RESULT of proper ISR và lag mechanics --- not the
-primary driver. When you watch Federer\'s forehand in slow motion, you
-see what looks like a dramatic wrist snap --- but what\'s actually
+primary driver. When you watch Federer's forehand in slow motion, you
+see what looks like a dramatic wrist snap --- but what's actually
 happening is ISR rotating the entire arm including the wrist, plus lag
 releasing, plus pronation --- all of which LOOK like wrist snap from
 outside.
@@ -5666,7 +5666,7 @@ outside.
 **25.3.2 Hậu Quả Của Dạy Wrist Snap**
 
 When players are taught to focus on wrist snap: they prematurely release
-wrist (early snap), they grip tighter to \'control\' the snap (kills
+wrist (early snap), they grip tighter to 'control' the snap (kills
 lag), they use wrist muscles instead of ISR muscles (smaller, weaker
 muscles doing the job of larger ones), and they often develop
 wrist/forearm injuries from over-use. This is why tennis elbow is so
@@ -5675,8 +5675,8 @@ approach.
 
 **25.3.3 DRF Correction**
 
-DRF replaces \'snap your wrist\' with \'develop ISR và let wrist
-respond\'. The wrist is a responsive amplifier, not an initiator. This
+DRF replaces 'snap your wrist' with 'develop ISR và let wrist
+respond'. The wrist is a responsive amplifier, not an initiator. This
 leads to: more power (ISR generates more than wrist alone), better
 consistency (ISR is a larger, more controllable movement), and
 dramatically reduced injury risk (large muscles doing the work, not
@@ -5844,8 +5844,8 @@ Trước khi bắt đầu chương trình, thực hiện assessment toàn diện
                              doorknob, frisbee). Physical: ISR strength
                              phase 2.
 
-  Tuần 15                    ISR trong shadow swing. \'Throwing a
-                             frisbee\' imagery. Physical: explosive ISR
+  Tuần 15                    ISR trong shadow swing. 'Throwing a
+                             frisbee' imagery. Physical: explosive ISR
                              with band.
 
   Tuần 16                    ISR in slow feeding. Begin to feel ISR
@@ -5870,8 +5870,8 @@ Trước khi bắt đầu chương trình, thực hiện assessment toàn diện
                              visible at slow motion? Physical: grip
                              strength AND release speed.
 
-  Tuần 20                    ISR + lag integration at 80% pace. \'Wrist
-                             is last\' cue. Physical: explosive forearm
+  Tuần 20                    ISR + lag integration at 80% pace. 'Wrist
+                             is last' cue. Physical: explosive forearm
                              training.
 
   Tuần 21                    Match play session với ISR focus.
@@ -6032,7 +6032,7 @@ competitive season:
 - In-season (Q3-Q4): Maintain mechanics, reduce technical disruption,
   focus on competition.
 
-- Post-season: Brief recovery, then transition into next year\'s
+- Post-season: Brief recovery, then transition into next year's
   off-season program.
 
 > *Nguyên tắc thực dụng: Đừng cố thay đổi mechanics trong 2 tuần trước
@@ -6048,12 +6048,12 @@ trong tennis và trong cuộc sống.
 
 **27.1 Kaizen --- Cải Tiến Liên Tục**
 
-Triết lý Kaizen của Nhật Bản --- \'cải tiến liên tục, từng bước nhỏ\'
+Triết lý Kaizen của Nhật Bản --- 'cải tiến liên tục, từng bước nhỏ'
 --- là framework tinh thần lý tưởng cho DRF development. Không ai thức
 dậy vào buổi sáng với DRF forehand hoàn hảo. Nó được xây dựng qua hàng
 nghìn repetitions, mỗi một phần trăm tốt hơn lần trước.
 
-Trong truyền thống võ thuật Nhật Bản, có khái niệm \'Shu Ha Ri\' --- ba
+Trong truyền thống võ thuật Nhật Bản, có khái niệm 'Shu Ha Ri' --- ba
 giai đoạn của mastery: Shu (follow the rules --- học và tuân thủ form),
 Ha (break the rules --- hiểu sâu đủ để biết khi nào và tại sao có thể
 deviation), Ri (transcend the rules --- mechanics đã internalized đến
@@ -6064,16 +6064,16 @@ each element matters (Ha) đến forehand becoming a natural expression
 
 **27.2 Flow State Và DRF**
 
-Mihaly Csikszentmihalyi\'s concept of \'flow\' --- trạng thái hoàn toàn
+Mihaly Csikszentmihalyi's concept of 'flow' --- trạng thái hoàn toàn
 immersed trong activity với effortless concentration --- là mục tiêu
 ultimate của DRF mastery. Khi DRF mechanics đã completely automatized,
 người chơi có thể enter flow state trong tennis: ý thức về mechanics
 biến mất, chỉ còn awareness của bóng, court, và game. Chuyển động xảy ra
 mà không cần deliberate thought.
 
-Flow trong tennis thường described as: \'time slowing down\',
-\'effortless power\', \'ball looking bigger\', \'no thinking, just
-playing\'. Đây là dấu hiệu của fully automatized motor programs ---
+Flow trong tennis thường described as: 'time slowing down',
+'effortless power', 'ball looking bigger', 'no thinking, just
+playing'. Đây là dấu hiệu của fully automatized motor programs ---
 cerebellum và basal ganglia handling mechanics while conscious attention
 is free to focus on tactics và game reading.
 
@@ -6086,10 +6086,10 @@ mechanics. Khi bạn cố gắng kiểm soát direction, thường miss nhiều 
 khi commit fully với natural swing.
 
 Đây không phải là khuyến khích laziness --- mà là nhận thức rằng
-\'effort\' trong tennis không phải là muscular effort mà là attentional
+'effort' trong tennis không phải là muscular effort mà là attentional
 effort: tập trung vào đúng things (process, feel, mechanics) thay vì
-wrong things (outcome, score, what opponent thinks). \'Working harder\'
-về mặt cơ bắp thường counterproductive; \'working smarter\' về mặt kỹ
+wrong things (outcome, score, what opponent thinks). 'Working harder'
+về mặt cơ bắp thường counterproductive; 'working smarter' về mặt kỹ
 thuật và attention là key.
 
 **27.4 Tennis Như Một Nghệ Thuật**
@@ -6119,7 +6119,7 @@ Mỗi lần ra sân, bạn có cơ hội khám phá thêm một chút về cơ t
 cách lực truyền qua chuỗi cơ thể, về cảm giác khi đầu vợt tự bay về phía
 bóng. Hãy tiếp cận mỗi session với sự tò mò và kiên nhẫn đó.
 
-> *\'Forehand hoàn hảo không phải là một cú đánh được executed hoàn hảo
+> *'Forehand hoàn hảo không phải là một cú đánh được executed hoàn hảo
 > một lần. Nó là sự hiểu biết sâu sắc về cơ chế khiến cho mỗi cú đánh,
-> tốt hay chưa tốt, đều là bước trên con đường dài của mastery.\' ---
+> tốt hay chưa tốt, đều là bước trên con đường dài của mastery.' ---
 > DRF Framework*

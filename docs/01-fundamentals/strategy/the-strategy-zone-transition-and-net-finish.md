@@ -8,21 +8,20 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-transition-and-net-finish/media/image1.webp)
 
 **A varied all around transitional game can be the key to victory.**
 
 **[[I believe that the all-around game is the key to success in modern
 tennis. We see it time and time again at the pro level. You have to know
-how to do everything and do everything well. In today\'s game
+how to do everything and do everything well. In today's game
 \"everything\" means a lot more than it used to. There are many, many
 ways to get to the net and win points.]{.underline}]{.mark}**
 
 **[[How much should you come in? That depends on the difficulty of the
 transition sequences you face, and your success in executing
 them.]{.underline}]{.mark}** **[[The fact is that a few successful
-transition points are the key to winning many close matches. It\'s true
+transition points are the key to winning many close matches. It's true
 at the pro level, and it can be true in your game as
 well.]{.underline}]{.mark}**
 
@@ -34,29 +33,28 @@ then, are those few additional points you win in transition to
 determining the outcome?
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image2.webp)
 
 **A five-point advantage in transition points yielded a Wimbledon
 title.**
 
 At Wimbledon in 2007, Roger Federer defeated Rafael Nadal in 5 sets. He
-won a total of 7 additional points in the entire match. That\'s a 7
+won a total of 7 additional points in the entire match. That's a 7
 point advantage in 5 sets! What role did the net play? Of his 7 point
 margin, 5 were points he won at the net! ([Click
 Here](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html)
-to read John Yandell\'s statistical breakdown of that incredible match.)
+to read John Yandell's statistical breakdown of that incredible match.)
 
 **[[So being able to take advantage of transition opportunities is huge
 at the pro level. This is as true, or maybe even more true, in club
-tennis.]{.underline}]{.mark}** **[[It\'s also probably more realistic
+tennis.]{.underline}]{.mark}** **[[It's also probably more realistic
 because the types of balls you must deal with are in general much less
 difficult than in the pros. The fact is this: a few positive transition
 points can give you the advantage.]{.underline}]{.mark}**
 
 **Developing Your Transition Game**
 
-**[[So why don\'t more players go to the net more of the time? Finishing
+**[[So why don't more players go to the net more of the time? Finishing
 the point at the net requires confidence. But hitting challenging first
 volleys and facing aggressive passing shots can make players
 apprehensive to move forward.]{.underline}]{.mark}** **[[If they get
@@ -66,14 +64,13 @@ match.]{.underline}]{.mark}**
 
 **[[The other problem is knowing exactly how and when to approach.
 Success at the net is related to the effectiveness of the transition
-shot.]{.underline}]{.mark}** **[[In the modern game it\'s not as simple
+shot.]{.underline}]{.mark}** **[[In the modern game it's not as simple
 as \"slice the approach down the line, then hit a crosscourt volley
 winner.\"]{.underline}]{.mark}**
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp)
 
 **Transitional sequences are more varied than ever in the modern game.**
 
@@ -102,10 +99,10 @@ on high looping shots, and also, on short angles. And you do still see
 some approaches on slice backhands, or even an occasional slice
 forehand.
 
-**[[It\'s a different game with many options. Understanding the
+**[[It's a different game with many options. Understanding the
 potential transition shots gives you more ways to open up the
 court.]{.underline}]{.mark}** This is how the game of tennis has
-evolved. So let\'s take a closer look at the critical transition shot,
+evolved. So let's take a closer look at the critical transition shot,
 and the options players utilize. The fact is all of them can apply in
 club tennis.
 
@@ -120,14 +117,13 @@ finish volley.]{.underline}]{.mark}** **[[As we have seen throughout
 this series, the key to finishing is to hurt the opponent, which opens
 the court.]{.underline}]{.mark}** **[[You want to hit the winner to the
 largest possible target. Large target areas improve your percentage and
-build your confidence to come in more.]{.underline}]{.mark}** So, let\'s
+build your confidence to come in more.]{.underline}]{.mark}** So, let's
 look at both options in more detail.
 
 **Surprise Attack**
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image4.webp)
 
 **A surprise attack: players sense they have hurt the opponent and
 created an opening.**
@@ -136,8 +132,7 @@ Here are some of the most important variations players use in surprise
 attack play.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-transition-and-net-finish/media/image5.webp)
 
 **A looping topspin approach can yield volley and overhead winners.**
 
@@ -174,8 +169,7 @@ transition shot can hurt the opponent.
 
 ![A picture containing text, sport, tennis, athletic game Description
 automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image6.webp)
 
 **A short angle can surprise the opponent and leave the court wide
 open.**
@@ -189,7 +183,7 @@ recover more fully to the center of the court. In either case you may be
 able to hit a volley into a huge opening on the other
 side.]{.underline}]{.mark}**
 
-**[[It\'s simply another way of creating an attackable ball. Your
+**[[It's simply another way of creating an attackable ball. Your
 opponent will normally not expect you to approach on a short angle, so
 you may be able to surprise him with the court wide
 open.]{.underline}]{.mark}** **[[Again, as soon as you recognize the
@@ -199,8 +193,7 @@ volley.]{.underline}]{.mark}**
 
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image7.webp)
 
 **Mixing a variety of surprise attacks on the return can be very
 effective.**
@@ -213,26 +206,25 @@ opponent is not expecting you to take a risk.]{.underline}]{.mark}**
 rapidly as possible to hit the finishing volley into the open
 court.]{.underline}]{.mark}**
 
-In the modern game you\'ll see players approach on virtually any type of
+In the modern game you'll see players approach on virtually any type of
 return. They can hit either way from either wing. Meaning? They approach
 using the forehand or the backhand and hit either down the line or
-crosscourt. Or they\'ll run around the backhand and hit a forehand
+crosscourt. Or they'll run around the backhand and hit a forehand
 approach inside out or inside in.
 
 **Pattern Based Tactics**
 
-Now let\'s look at the second way the pros come into the net, on pattern
+Now let's look at the second way the pros come into the net, on pattern
 based attacks. There are two types of patterns. The first type relies on
 hitting one shot that opens the court. This is followed by the
 transition shot, or approach, into the open court. We call these 1-1
-Combinations. It\'s the same concept we used in discussing finishing
+Combinations. It's the same concept we used in discussing finishing
 shots from the baseline. ([Click
 Here.](The%20Strategy%20Zone%20-%20Phase%202%20Hurt.docx))
 
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
-generated](media_the-strategy-zone-transition-and-net-finish/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-transition-and-net-finish/media/image8.webp)
 
 **Deep powerful groundstrokes, crosscourt, then down the line\--a huge
 target and an easy volley winner.**
@@ -262,8 +254,7 @@ This confuses them and takes them out of balance. You are then able to
 hit into the open court to the opposite side the player is moving.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-strategy-zone-transition-and-net-finish/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-transition-and-net-finish/media/image9.webp)
 
 **The 2-1 Combo: hitting behind the opponent on the approach or first
 volley.**
@@ -283,22 +274,21 @@ court position. Second, it gives you the ability to close to a more
 favorable position for the second volley.]{.underline}]{.mark}**
 
 **[[Understanding effective transitional play is a critical dimension in
-becoming a successful competitive player. It\'s more complex than most
+becoming a successful competitive player. It's more complex than most
 players appreciate and requires a very complete skill
 set.]{.underline}]{.mark}** **[[There may be fewer overall opportunities
 to attack in the modern game, but the range of options is very
-wide.]{.underline}]{.mark}** **[[It\'s an area where players at any
+wide.]{.underline}]{.mark}** **[[It's an area where players at any
 level can exercise their imagination and creativity to find a way to win
 those few critical attacking points that can help you win more
 matches.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                      Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-transition-and-net-finish/media/image10.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                                Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-transition-and-net-finish/media/image10.jpeg)                                                                                                                                                                Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                                 Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                                 academy concept and has watched his vision grow
-                                                                                                                                                                                                for over 30 years into the world\'s premier
+                                                                                                                                                                                                for over 30 years into the world's premier
                                                                                                                                                                                                 tennis training ground at IMG Bollettieri in
                                                                                                                                                                                                 Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                                 collaborated with many of the leading innovators
@@ -306,7 +296,7 @@ matches.]{.underline}]{.mark}**
                                                                                                                                                                                                 concepts into training programs at the Academy.\
                                                                                                                                                                                                 \
                                                                                                                                                                                                 Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                                Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                                Zone, is one of the world's leading analysts of
                                                                                                                                                                                                 statistics and strategy, and the Head of
                                                                                                                                                                                                 Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                                 Academies. Lance was a pioneer in the video

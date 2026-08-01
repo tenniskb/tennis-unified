@@ -14,12 +14,11 @@ In the fourth round of the 2012 Australian Open, Nicolas Almagro knocked
 Thomas Berdych to the ground with a close-range forehand.
 
 After winning the match in four contentious sets, Berdych refused to
-shake Almagro\'s hand and left the court to a chorus of boos. But was
-Almagro\'s play legitmiate?
+shake Almagro's hand and left the court to a chorus of boos. But was
+Almagro's play legitmiate?
 
 ![A person holding a trophy Description automatically
-generated](media_head-hunting/media/image2.jpg){width="2.4328357392825897in"
-height="3.7229746281714786in"}
+generated](media_head-hunting/media/image2.jpg)
 
 **Chuck McKinley: Wimbledon champ and known Head Hunter.**
 
@@ -104,11 +103,11 @@ knocked him down, and this time the smile this time was beaming.
 A Perfunctory Wave
 
 After hitting an opponent it's common for a player to follow it up with
-a half-hearted, perfunctory wave. According to Fox, \"It\'s the same
+a half-hearted, perfunctory wave. According to Fox, \"It's the same
 wave people give opponents just after they've hit a let-cord winner.
 They're not sorry at all.\"
 
-Lendl\'s current disciple Andy Murray, demonstrated this type of wave in
+Lendl's current disciple Andy Murray, demonstrated this type of wave in
 the 2012 Wimbledon semis, after hitting a point-blank forehand into the
 testicles of Jo Wilfred Tsonga.
 
@@ -139,24 +138,23 @@ the guy.\"
 Ask yourself this: if your attempted sting misses its target, will it
 hit the back fence on the fly? If you answered yes, you're a headhunter.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                              | USPTA instructor Keith Hayes attended Pepperdine      |
-| confidence](media_head-hunting/media/image3.jpeg){width="1.2986111111111112in" | University in the 1980s. There, he encountered Head   |
-| height="1.8506944444444444in"}                                                                                                                                 | Tennis Coach Allen Fox and became a counselor at his  |
-|                                                                                                                                                                | summer tennis camps, beginning a tennis teaching      |
-|                                                                                                                                                                | career - and a friendship with Allen - that has       |
-|                                                                                                                                                                | continued ever since. After Pepperdine, Keith went to |
-|                                                                                                                                                                | work in the San Francisco Bay Area advertising and    |
-|                                                                                                                                                                | graphic design industries. Later he also became an    |
-|                                                                                                                                                                | English teacher. As head coach of the Marin Catholic  |
-|                                                                                                                                                                | High School women\'s tennis team, Keith won           |
-|                                                                                                                                                                | back-to-back Division II North Coast Section titles   |
-|                                                                                                                                                                | in 2008 and 2009. When he\'s not teaching tennis,     |
-|                                                                                                                                                                | Keith continues to work as a freelance writer and     |
-|                                                                                                                                                                | designer. In addition to Tennisplayer.net, his        |
-|                                                                                                                                                                | stories have also appeared in TENNIS magazine.        |
-|                                                                                                                                                                |                                                       |
-|                                                                                                                                                                |                                                       |
-+================================================================================================================================================================+=======================================================+
+| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
+| --- | --- |
+| confidence](media_head-hunting/media/image3.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
+|  | summer tennis camps, beginning a tennis teaching |
+|  | career - and a friendship with Allen - that has |
+|  | continued ever since. After Pepperdine, Keith went to |
+|  | work in the San Francisco Bay Area advertising and |
+|  | graphic design industries. Later he also became an |
+|  | English teacher. As head coach of the Marin Catholic |
+|  | High School women's tennis team, Keith won |
+|  | back-to-back Division II North Coast Section titles |
+|  | in 2008 and 2009. When he's not teaching tennis, |
+|  | Keith continues to work as a freelance writer and |
+|  | designer. In addition to Tennisplayer.net, his |
+|  | stories have also appeared in TENNIS magazine. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

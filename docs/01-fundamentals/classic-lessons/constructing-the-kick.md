@@ -19,26 +19,25 @@ mastery is achieved, there is still the need for continued refinement
 and maintenance.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_constructing-the-kick/media/image1.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_constructing-the-kick/media/image1.webp)
 
-**Let\'s engineer a beautiful mechanically sound kick serve!**
+**Let's engineer a beautiful mechanically sound kick serve!**
 
 Over the course of this process, the player should go through four
 distinct stages. So pay close attention, hold on tight to your mouse,
 and here we go.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![Close-up of a person\'s hands Description automatically generated with medium                                                                                            | ![A person playing tennis Description automatically generated with medium                                                                                                  |
-| confidence](media_constructing-the-kick/media/image2.jpg){width="1.9583333333333333in" | confidence](media_constructing-the-kick/media/image3.gif){width="3.3333333333333335in" |
-| height="1.6145833333333333in"}                                                                                                                                             | height="2.5in"}                                                                                                                                                            |
-|                                                                                                                                                                            |                                                                                                                                                                            |
-|                                                                                                                                                                            | **Make sure you start with a strong continental grip and a good foundation stance.**                                                                                       |
+| ![Close-up of a person's hands Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_constructing-the-kick/media/image2.jpg) |  |
+|  |  |
+|  | **Make sure you start with a strong continental grip and a good foundation stance.** |
+
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                            |
-| ![Close-up of a person\'s hand Description automatically generated with medium                                                                                             |                                                                                                                                                                            |
-| confidence](media_constructing-the-kick/media/image4.jpg){width="1.9270833333333333in" |                                                                                                                                                                            |
-| height="1.6145833333333333in"}                                                                                                                                             |                                                                                                                                                                            |
-+============================================================================================================================================================================+============================================================================================================================================================================+
+| ![Close-up of a person's hand Description automatically generated with medium |  |
+| --- | --- |
+| confidence](media_constructing-the-kick/media/image4.jpg) |  |
+
 
 Stage 1 is the foundation in which the player masters certain beginning
 fundamentals. When a player first comes to me looking to learn a kick, I
@@ -53,8 +52,7 @@ grip, as discussed in the first article.
 
 ![A picture containing tennis, athletic game, tree, sport Description
 automatically
-generated](media_constructing-the-kick/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image5.webp)
 
 **The TED is the foundation drill for building the kick. Note the
 buttstratch and the high elbow position.**
@@ -83,8 +81,7 @@ the student has an easier time learning and practicing the fundamentals.
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_constructing-the-kick/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image6.webp)
 
 **As the player masters the TED move it back toward the baseline.**
 
@@ -117,8 +114,7 @@ the runway and practice the wrong trajectory on the upward swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_constructing-the-kick/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image7.webp)
 
 **In the TED I evaluate the status of the building blocks outlined in
 the first article.**
@@ -140,8 +136,7 @@ can master these elements in the TED first before we move on to Stage 2.
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_constructing-the-kick/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image8.webp)
 
 **Shadow Snaps with or without the help of the coach develop racket head
 speed.**
@@ -150,15 +145,14 @@ speed.**
 
 Shadow Triceps Extension: This drill reinforces the proper form in the
 triceps extension. It also helps to tire out the triceps and therefore
-strengthen the student\'s ability to really snap and create racket head
+strengthen the student's ability to really snap and create racket head
 speed. To do the drill, the player does 5 to 10 Shadow Snaps, followed
 by an actual serve. These sequences of shadow snaps followed by an
 actual TED serve can be repeated multiple times as the student
 progresses.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_constructing-the-kick/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image9.webp)
 
 **In this drill the player learns to keep his head still throughout the
 swing.**
@@ -173,9 +167,8 @@ player hits the ball but keeps the head in the same position as at
 contact. This drill is very beneficial for any player who has a problem
 dropping his head before contact, especially under match pressure.
 
-![A person\'s legs and feet Description automatically generated with low
-confidence](media_constructing-the-kick/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+![A person's legs and feet Description automatically generated with low
+confidence](media_constructing-the-kick/media/image10.webp)
 
 **The Tippy Toes Drill creates the feeling or reaching up and prepares
 the lower body for jumping.**
@@ -194,8 +187,7 @@ complete - a great way to train balance.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_constructing-the-kick/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image11.webp)
 
 **Using the coaching cart helps players feel the torso angle at
 contact.**
@@ -211,8 +203,7 @@ drag - or how the lower body stays behind at the contact.
 
 ![A picture containing sport, athletic game, tennis, arm Description
 automatically
-generated](media_constructing-the-kick/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image12.webp)
 
 **The High String Treatment teaches players to use spin for net
 clearance and to drop the ball in.**
@@ -231,8 +222,7 @@ to achieve this.
 
 ![A picture containing tennis, sport, athletic game, outdoor Description
 automatically
-generated](media_constructing-the-kick/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image13.webp)
 
 **Can you hit up on the ball enough to make it over the back fence?**
 
@@ -244,12 +234,11 @@ this work. The idea is to stand right by the back fence and hit up on
 the ball with enough spin to get it up and over. Another less extreme
 version of this is to try to serve on the court dividers on indoor
 courts. Those are the curtains that usually hang between the courts.
-Just be careful that you don\'t annoy the players on the next court!
+Just be careful that you don't annoy the players on the next court!
 
 ![A picture containing text, tennis, outdoor, athletic game Description
 automatically
-generated](media_constructing-the-kick/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image14.webp)
 
 **The Triceps Strengthening Drill is a kick serve-specific drill.**
 
@@ -278,7 +267,7 @@ mastery sometimes happens in a period of mere days.
 **All this work is to generate Zing on the kick like the best players.is
 usually slow and steady, not meteoric.**
 
-But the timetable isn\'t the focus. Nor can the focus be on how good the
+But the timetable isn't the focus. Nor can the focus be on how good the
 end product seems, or on where the serve goes. The focus must be on the
 technical checkpoints. The key is understanding and trusting the system.
 Some players give up in this stage because they think they are not
@@ -331,8 +320,7 @@ leg drive.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_constructing-the-kick/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image15.webp)
 
 **You can start the Explosive Jump Drill from the TED, but then work it
 into the entire motion.**
@@ -342,8 +330,7 @@ of 12 repetitions: They should alternate between shadow sets and sets
 actually hitting the ball.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_constructing-the-kick/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image16.webp)
 
 **The Windmill teaching fluidity and cohesive motion - by itself, or
 followed by a hit.**
@@ -369,8 +356,7 @@ practicing this motion without hitting all the checkpoints.
 
 ![A couple of people playing baseball Description automatically
 generated with low
-confidence](media_constructing-the-kick/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image17.webp)
 
 **The Racket Speed Drill forces players to swing faster on the kick.**
 
@@ -390,8 +376,7 @@ Students must understand the second serve paradox: the faster they
 swing, the SAFER the serve will be, if they are scraping the ball.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_constructing-the-kick/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image18.webp)
 
 **The L Shape: The intermediate drill between the TED and the
 windmill.**
@@ -420,7 +405,7 @@ quickly and never pause in the buttscratch.
 **Achieving Mastery**
 
 In Stage 3, I use a combination of exercises. This depends on my
-assessment of a player\'s areas of weakness. Many combinations of the
+assessment of a player's areas of weakness. Many combinations of the
 Windmill, the TED, the EJD, or the other variations can be utilized as
 needed. You need to have a good understanding of all the technical
 elements and the intuition to feel what drills in what combination can
@@ -465,8 +450,7 @@ variations.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_constructing-the-kick/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_constructing-the-kick/media/image19.webp)
 
 **Hitting variations of the kick on both first and second serves will
 incorporate the motion into mind and body.**
@@ -483,8 +467,7 @@ down the T in the deuce.
 **Nuances, Embellishments, and Touch-ups**
 
 ![A picture containing sport Description automatically
-generated](media_constructing-the-kick/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_constructing-the-kick/media/image20.webp)
 
 **A final step, mastering the three variations in the kick.**
 
@@ -497,7 +480,7 @@ kick.
 I believe that all players who are learning a kick serve should be
 developing core strength and flexibility. Well respected former German
 National Coach, Richard Schonborn, has called this critical core area
-the \"muscle corset.\" In the next article, I\'ll lay out the muscle
+the \"muscle corset.\" In the next article, I'll lay out the muscle
 corset training program my students regularly follow, along with some
 other important training/prehabilitation exercises that will help reduce
 injuries on the kick and make the serve more powerful and explosive. But
@@ -516,8 +499,7 @@ following this system I believe just about anyone can teach or learn
 this serve.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_constructing-the-kick/media/image21.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_constructing-the-kick/media/image21.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -534,14 +516,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [ProdigyMaker.com](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [CLTA.teachable.com](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_constructing-the-kick/media/image22.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_constructing-the-kick/media/image22.jpeg)
 
 **The Secrets of Spanish Tennis**
 

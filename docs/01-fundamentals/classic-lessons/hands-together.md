@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_hands-together/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image1.webp)
 
 **How far apart are the hands of elite players, and for how long?**
 
@@ -33,10 +32,9 @@ researchers.
 
 ![A picture containing tennis, sport, athletic game, person Description
 automatically
-generated](media_hands-together/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image2.webp)
 
-**Like the men, top women\'s players keep their hands close together
+**Like the men, top women's players keep their hands close together
 almost 90% of the time.**
 
 I anticipated the percentage of time players had their hands close
@@ -72,8 +70,7 @@ not been my experience in observing tennis below the world class level.
 **History**
 
 ![A person holding a tennis racket Description automatically
-generated](media_hands-together/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image3.webp)
 
 **Most club players play primarily with only the dominant arm.**
 
@@ -106,8 +103,7 @@ many lower-level players have tennis elbow. Meanwhile, world class
 players, who can hit 100mph forehands, rarely do.
 
 ![A person playing tennis Description automatically
-generated](media_hands-together/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image4.webp)
 
 **By my definition, pro players are actually the most compact.**
 
@@ -134,8 +130,7 @@ up taking the racket back with their non-dominant hand either down at
 their side, or pointing directly ahead of them.
 
 ![A person playing tennis Description automatically
-generated](media_hands-together/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image5.webp)
 
 **Top players complete the unit turn with the hands together and in
 front.**
@@ -145,8 +140,8 @@ there is no immediate \"take back\" of the racket. Instead they make a
 unit turn. Essentially they turn their entire upper body clockwise until
 the line of the shoulders has rotated 30 or 45 degrees. Now notice the
 hands. They are still in front of the torso. At this point the hands
-haven\'t moved on their own. (This observation is also consistent with
-John Yandell\'s analysis on the forehand. **Click Here**.)
+haven't moved on their own. (This observation is also consistent with
+John Yandell's analysis on the forehand. **Click Here**.)
 
 Only when players reach this position\--with the body partially turned
 and the hands in front\--is the non-dominant hand finally released. It
@@ -167,8 +162,7 @@ the left side in the forward swing.
 
 ![A picture containing person, person, racket, athletic game Description
 automatically
-generated](media_hands-together/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image6.webp)
 
 **Monster Memory: two customized wrist bands connected with a tensioned
 cable.**
@@ -188,8 +182,7 @@ somewhat primitive efforts to tie my students hands together with
 aerobic tubing.
 
 ![A person holding a tennis racket Description automatically
-generated](media_hands-together/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image7.webp)
 
 **An automatic, physical template for compact preparation.**
 
@@ -204,7 +197,7 @@ template for a compact motion. If you have struggled with your
 preparation, Monster Memory can help you make the changes you need to
 use your hands more like the best players.
 
-It\'s important to note that the tension is not sufficient to keep you
+It's important to note that the tension is not sufficient to keep you
 from actually swinging and playing. You can swing fully and hit all your
 shots. You can even serve and play entire practice matches. Monster
 Memory is flexible and flows along with your game. Most people end up
@@ -219,8 +212,7 @@ follow-through it continues to give players the feeling of staying
 compact with the left arm relatively close into the body.
 
 ![A person holding a tennis racket Description automatically
-generated](media_hands-together/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image8.webp)
 
 **The tendency to use only the dominant arm is worst on the forehand
 volley.**
@@ -235,7 +227,7 @@ players make an even wider separation of the hands and arms.
 
 The result is too large a backswing, which creates problems with the
 timing and the contact point. Typically, players who separate the hands
-in this fashion are late to the contact and don\'t meet the ball in the
+in this fashion are late to the contact and don't meet the ball in the
 right spot in front of the edge of the body.
 
 Because the problem of separating the hands early is so common on the
@@ -246,8 +238,7 @@ allow the student to execute the entire motion.
 
 ![A picture containing person, person, outdoor, sport Description
 automatically
-generated](media_hands-together/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image9.webp)
 
 **The non-dominant arm is a critical part of the preparation on the
 one-hander.**
@@ -279,14 +270,13 @@ then the hands are back together in the recovery movements.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_hands-together/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_hands-together/media/image10.webp)
 
 **On the two hander, Monster Memory facilitates a compact unit turn.**
 
 **Two-Handed Backhand**
 
-Obviously on the two-handed backhand, the hands don\'t separate and
+Obviously on the two-handed backhand, the hands don't separate and
 remain on the racket through the entire motion.
 
 Still some players will try to prepare by \"getting the racket back\"
@@ -316,8 +306,7 @@ understand there is a big difference between wanting to win and doing
 what it takes to win.
 
 ![A person holding a tennis racket Description automatically
-generated](media_hands-together/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_hands-together/media/image11.webp)
 
 **The use of the opposite arm is also critical setting up the backhand
 volley.**
@@ -336,22 +325,20 @@ successful at all levels are not focusing on winning per se, they are
 focusing on the factors that directly affect winning.
 
 The required changes are often relatively simple, as this article shows.
-Hopefully it\'s clear presentation of how the hands work together on all
+Hopefully it's clear presentation of how the hands work together on all
 the groundstrokes and volleys. Some players can do it with traditional
 instruction, but I have found that sometimes the direct, tactile input a
 player gets from a device like Monster Memory can make the difference.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------+
-| ![A picture containing person, person Description automatically                                                                                                      | David Stanisic is an independent teaching pro in     |
-| generated](media_hands-together/media/image12.jpeg){width="1.3131944444444446in" | Sonoma County, California. He played varsity tennis  |
-| height="2.022222222222222in"}                                                                                                                                        | at Sonoma State University, and then went on to      |
-|                                                                                                                                                                      | become a tour hitting partner for WTA professional   |
-|                                                                                                                                                                      | players such former world top 20 player Mary Lou     |
-|                                                                                                                                                                      | Daniels. He began his teaching career at the         |
-|                                                                                                                                                                      | Mid-Town Tennis club in Chicago where he conceived   |
-|                                                                                                                                                                      | the original concept for Monster Memory.             |
-+======================================================================================================================================================================+======================================================+
-|                                                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing person, person Description automatically | David Stanisic is an independent teaching pro in |
+| --- | --- |
+| generated](media_hands-together/media/image12.jpeg) | at Sonoma State University, and then went on to |
+|  | become a tour hitting partner for WTA professional |
+|  | players such former world top 20 player Mary Lou |
+|  | Daniels. He began his teaching career at the |
+|  | Mid-Town Tennis club in Chicago where he conceived |
+|  | the original concept for Monster Memory. |
+|  |  |
+
 
 ------------------------------------------------------------------------

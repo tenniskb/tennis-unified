@@ -21,8 +21,7 @@ position - that a select few pro players use.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-hitting-arm-positions-the-double-bend/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-hitting-arm-positions-the-double-bend/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

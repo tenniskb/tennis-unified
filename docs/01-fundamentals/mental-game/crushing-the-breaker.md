@@ -7,8 +7,7 @@
 ------------------------------------------------------------------------
 
 ![A picture containing text Description automatically
-generated](media_crushing-the-breaker/media/image1.jpg){width="2.2916666666666665in"
-height="3.4166666666666665in"}
+generated](media_crushing-the-breaker/media/image1.jpg)
 
 **What does it really take to win tiebreakers?**
 
@@ -19,8 +18,8 @@ Obviously playing tiebreakers effectively has a huge impact on your long
 term competitive results. But many competitors look like different
 players when playing breakers.
 
-They fear them and they and don\'t understand the dynamics that make
-them different from regular games. So, let\'s clarify all that and
+They fear them and they and don't understand the dynamics that make
+them different from regular games. So, let's clarify all that and
 outline some simple, highly effective tactics to help you win the
 highest possible percentage of the tie breakers you play.
 
@@ -47,8 +46,7 @@ risks.]{.mark}]{.underline}**
 
 ![A picture containing text, tennis, ball, player Description
 automatically
-generated](media_crushing-the-breaker/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_crushing-the-breaker/media/image2.webp)
 
 **The way to avoid double faults is to really hit the second serve.**
 
@@ -58,8 +56,8 @@ should be in the context of the game plan that got you to the breaker in
 the first place.
 
 **[[Your mindset is also to absolutely avoid unnecessary unforced
-errors.]{.underline}]{.mark}** **[[It\'s one thing to miss an
-opportunity to hit a winner. But it\'s another to donate a point on a
+errors.]{.underline}]{.mark}** **[[It's one thing to miss an
+opportunity to hit a winner. But it's another to donate a point on a
 rally ball by a careless miss.]{.underline}]{.mark}** **[[Giving away
 that type of free point in a breaker can have a much more negative
 effect than it usually does in a game.]{.underline}]{.mark}**
@@ -69,7 +67,7 @@ effect than it usually does in a game.]{.underline}]{.mark}**
 It is extremely important to get in a very high percentage of your first
 serves. Make your goal to get everyone in. Have a plan for the placement
 of each serve. By now you should have a clear idea of what your
-opponent\'s return weaknesses are. Exploit them in the breaker.
+opponent's return weaknesses are. Exploit them in the breaker.
 
 Take your time, stay loose and breath. It is critical to maintain your
 routines between points and also having a keen awareness of where you
@@ -88,7 +86,7 @@ Your return strategy on first serves is simple. Every return of serve
 goes back into the court! In general, I tell players the goal is to
 enter the return point in a neutral or better position.
 
-But during the breaker it doesn\'t matter how ugly the return is\--get
+But during the breaker it doesn't matter how ugly the return is\--get
 the ball back in play! Make your opponent play his or her service
 points.
 
@@ -106,18 +104,17 @@ The scoring system in a breaker is different. Understanding this is a
 key to developing confidence and having success.
 
 To win a conventional set you need a margin of two games. To win a set
-in a tiebreaker you need a margin of only two points. That\'s a huge
+in a tiebreaker you need a margin of only two points. That's a huge
 difference.
 
 Because of this difference, the importance of every point is greatly
-magnified in a tiebreaker. While it\'s obviously not preferable, in the
+magnified in a tiebreaker. While it's obviously not preferable, in the
 course of a set you can lose several points in a row leading to the loss
 of a game and still win the set.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_crushing-the-breaker/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_crushing-the-breaker/media/image3.webp)
 
 **On the second serve return you can move in and create pressure.**
 
@@ -127,7 +124,7 @@ Every point is critical.
 
 But also understand another critical difference in the scoring: a
 tiebreaker has a longer duration than a regular game. To win a
-tiebreaker you need to win at least 7 points. In a superbreaker it\'s
+tiebreaker you need to win at least 7 points. In a superbreaker it's
 10. This is a very different dynamic than simply winning 4 points in a
 game. It is a more protracted struggle, physically and mentally.
 
@@ -141,15 +138,14 @@ probability of winning the game. Winning the first three points in a
 tiebreaker is great, but that lead can be misleading if you approach it
 with the same mentality as a 40-0 lead in a game.
 
-A 3-0 lead simply doesn\'t have the same significance in a tiebreaker.
-It is not a winning margin. It\'s still a long way to winning seven
+A 3-0 lead simply doesn't have the same significance in a tiebreaker.
+It is not a winning margin. It's still a long way to winning seven
 points. So, maintaining your momentum when you have a lead is critical.
 This is where inexperienced competitors often have fatal letdowns.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_crushing-the-breaker/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_crushing-the-breaker/media/image4.webp)
 
 **Following your rituals is even more critical in tiebreakers.**
 
@@ -159,7 +155,7 @@ confidence increase that pressure with returns, angles and well timed
 approaches. Try to exploit a lead and close out the set with dominate
 play.
 
-If for some reason your opponent gets an early lead, however, it\'s
+If for some reason your opponent gets an early lead, however, it's
 critical not to panic. Remember how the breaker scoring differs from a
 game.
 
@@ -169,8 +165,8 @@ own.
 
 If you succeed in doing this it can make your opponent start to question
 himself, start to play more conservatively, and open the door. Getting
-behind 3-0 in a tiebreaker may not be your preferred choice, but it\'s
-not the same as losing the first three points in a game. Remember it\'s
+behind 3-0 in a tiebreaker may not be your preferred choice, but it's
+not the same as losing the first three points in a game. Remember it's
 a long way to 7.
 
 **Practice Breakers**
@@ -184,8 +180,7 @@ Play both types of breakers, the 7 pointers and the 10 pointers. Now
 play matches comprised of two out of three tie breakers.
 
 ![A person holding a tennis racket Description automatically
-generated](media_crushing-the-breaker/media/image5.jpg){width="3.1944444444444446in"
-height="3.4027777777777777in"}
+generated](media_crushing-the-breaker/media/image5.jpg)
 
 **It comes down to who wants to win\--and who knows how.**
 
@@ -213,8 +208,7 @@ exceptional tiebreak records.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                        John Sherwood is Director of High Performance
-  confidence](media_crushing-the-breaker/media/image6.jpeg){width="1.5652777777777778in"   Tennis at the Centercourt Athletic Club in
-  height="2.217361111111111in"}                                                                                                                                            Chatham, N.J. John played varsity Division 1
+  confidence](media_crushing-the-breaker/media/image6.jpeg)                                                                                                                                            Chatham, N.J. John played varsity Division 1
                                                                                                                                                                            tennis at the University of Toledo and has guided
                                                                                                                                                                            hundreds of junior players into college and the
                                                                                                                                                                            pro ranks, including traveling extensively on the

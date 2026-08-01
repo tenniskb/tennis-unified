@@ -7,8 +7,7 @@
 **Dr. Brian Gordon**
 
 ![A picture containing outdoor, person Description automatically
-generated](media_3d-technologies-and-analysis-an-introduction/media/image1.jpg){width="4.166666666666667in"
-height="4.305555555555555in"}
+generated](media_3d-technologies-and-analysis-an-introduction/media/image1.jpg)
 
 **3D quantitative analysis: the leap from interpretation to physics.**
 
@@ -35,14 +34,13 @@ the use of imagery and interpretation directly into the world of physics
 and biology.
 
 ![A person playing tennis Description automatically
-generated](media_3d-technologies-and-analysis-an-introduction/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_3d-technologies-and-analysis-an-introduction/media/image2.webp)
 
 **3D mapping allows us to shift from stroke interpretation to physics.**
 
 Coaches and players armed with this information, and the willingness to
 think in more abstract terms, can gain incredible insight into an
-individual\'s technique, but more importantly attain a far higher level
+individual's technique, but more importantly attain a far higher level
 of understanding of tennis stroke mechanics in general.
 
 This may sound like a theory spawned in the halls of academia, and that
@@ -60,8 +58,7 @@ analysis system at our training facilities in Cincinnati.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-an-introduction/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-an-introduction/media/image3.webp)
 
 **Junior players can identify root problems not just symptoms.**
 
@@ -88,8 +85,7 @@ symptoms through the process of elimination.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-an-introduction/media/image4.jpg){width="2.2222222222222223in"
-height="1.6666666666666667in"}
+confidence](media_3d-technologies-and-analysis-an-introduction/media/image4.jpg)
 
 **The approach that more players and coaches will use over time.**
 
@@ -123,8 +119,7 @@ available to our clients who come directly to our training center.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-an-introduction/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-an-introduction/media/image5.webp)
 
 **Our quantified analysis presents 50 parameters of understanding per
 stroke.**
@@ -145,20 +140,19 @@ still have access to all the information through the interface and can
 research all aspects of our system and even construct their own theories
 of what the data means before I address them formally myself. Time spent
 doing so, I believe, will increase your understanding beyond what you
-can imagine, and I wouldn\'t be surprised to see some of these insights
+can imagine, and I wouldn't be surprised to see some of these insights
 posted in the Forum.
 
 This month we are going to give an overview the technology, and show how
 it relates to the analysis of the serve. Next month I will begin to
 break down the nuts and bolts of all the elements of the service motion
-in the analytic presentation. I\'m hoping you\'ll enjoy this voyage into
+in the analytic presentation. I'm hoping you'll enjoy this voyage into
 the unknown and will benefit from this first real look into real time 3D
 tennis data.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-an-introduction/media/image6.jpg){width="5.902777777777778in"
-height="3.6944444444444446in"}
+confidence](media_3d-technologies-and-analysis-an-introduction/media/image6.jpg)
 
 **The capture technology allows players to adjust and hit their normal
 strokes.**
@@ -166,7 +160,7 @@ strokes.**
 **The Data Presentation**
 
 Several technologies exist to measure motion in 3-D. As a researcher for
-the last ten years, I\'ve seen and/or used all of them, and there are
+the last ten years, I've seen and/or used all of them, and there are
 benefits and detriments to each. Readers should understand that all
 technologies are prone to some error. It is the job of the biomechanist
 to keep this error within tolerable levels.
@@ -179,7 +173,7 @@ of speed and ease of use.
 **[[Magnetic sensor technology requires that the players wear sensors
 which are attached to computers through a series of
 cables.]{.underline}]{.mark}** The system is somewhat restrictive since
-it won\'t allow for actual point play or movement for full court
+it won't allow for actual point play or movement for full court
 coverage. However most players adapt to the system and are able to
 reproduce their natural strokes relatively easily in a short period. The
 advantage is the rapid generation of the analysis, a matter of hours, as
@@ -189,10 +183,10 @@ opposed to literally months with some video or film based systems.
 through a detailed]{.mark}** **[processing and calculation process to
 produce the results you see on the interface.]{.mark}** Although there
 is a tremendous wealth of possible information, the analysis interface
-presented here includes the elements that I\'ve found to be most useful
+presented here includes the elements that I've found to be most useful
 in stroke production assessment.
 
-To help you understand how to access them, let\'s go over how the
+To help you understand how to access them, let's go over how the
 interface with our website works, and what it is capable of displaying.
 
 **Controller**
@@ -225,8 +219,7 @@ item will turn its line on or off in the graph.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-an-introduction/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-an-introduction/media/image7.webp)
 
 **The interface give players and coaches 9 dimensions of stroke
 analysis.**
@@ -265,8 +258,7 @@ acquisition.
 hand path attributes and hitting arm muscular conditions.
 
 ![A person playing tennis Description automatically
-generated](media_3d-technologies-and-analysis-an-introduction/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_3d-technologies-and-analysis-an-introduction/media/image8.webp)
 
 **Goal values are now based on Division 1 players and are always
 evolving.**
@@ -281,29 +273,28 @@ These values were initially set from composites (averages) of several
 Division I college players. They are then constantly adjusted based on
 results of ongoing research and the accumulation of more data.
 
-So that\'s the overview of how the system works. In the upcoming
+So that's the overview of how the system works. In the upcoming
 articles we will dive in and start to look at the serves of actual
 players, what the measurements show, and how they compare to the goal
-values. In the process we will (hopefully) increase everyone\'s
+values. In the process we will (hopefully) increase everyone's
 understanding of how the body works in producing tennis strokes, and how
 to improve the movements and sequence of movements based on the
 analysis. Stay Tuned.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                      | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_3d-technologies-and-analysis-an-introduction/media/image9.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                     | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                   | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                   | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                   | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                   | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                   | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                   | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                   | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                   |                                                               |
-|                                                                                                                                                                                                   | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                   | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                   |                                                               |
-|                                                                                                                                                                                                   | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                   | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+===================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_3d-technologies-and-analysis-an-introduction/media/image9.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

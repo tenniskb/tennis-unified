@@ -4,8 +4,7 @@
 
 ![A close-up of a measuring tape Description automatically generated
 with low
-confidence](media_the-jack-kramer-autograph-a-tale-of-hope/media/image1.jpg){width="3.4722222222222223in"
-height="2.5694444444444446in"}
+confidence](media_the-jack-kramer-autograph-a-tale-of-hope/media/image1.jpg)
 
 **A diamond throat Kramer - the prize for my first tournament title.**
 
@@ -17,10 +16,10 @@ called his shot out.
 He did not hear me, and he celebrated too early. I began to cry, and the
 tournament director asked Brian to play the point over. Technically it
 was my point. But it seemed fair to play the point over to me. You
-wouldn\'t see that kind of compromise today.
+wouldn't see that kind of compromise today.
 
 I ended up winning the match by coming back and grinding it out, much to
-Brian\'s dismay. But he was a good sport. The girls all loved him for
+Brian's dismay. But he was a good sport. The girls all loved him for
 his easy-going nature, and curly hair.
 
 To win that tournament I used a Value Village, 50 cent Bancroft fiber
@@ -34,8 +33,7 @@ frame that I won stood for hope that someday I would become a great
 player.
 
 ![A picture containing text, athletic game Description automatically
-generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image2.jpg){width="3.4722222222222223in"
-height="3.138888888888889in"}
+generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image2.jpg)
 
 **A wide range of Kramer autographs over a quarter of a century.**
 
@@ -65,8 +63,7 @@ Manufacturers bank on hope. They spread the paint jobs around.
 
 ![A picture containing text, outdoor, person, black Description
 automatically
-generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image3.jpg){width="2.5694444444444446in"
-height="2.5694444444444446in"}
+generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image3.jpg)
 
 **10 million Kramers, all made by hand.**
 
@@ -92,25 +89,24 @@ himself.)
 Then compare that to fascinating video how Wilson designs and molds
 completely new prototypes in days. ([Click
 Here](http://www.youtube.com/watch?v=QbA39s0dznQ)) We all owe a debt of
-gratitude to racquet manufacturers, who often don\'t make much money,
-for their exacting work. It\'s their work which provides us hope.
+gratitude to racquet manufacturers, who often don't make much money,
+for their exacting work. It's their work which provides us hope.
 
 ![A picture containing text, athletic game, sport Description
 automatically
-generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image4.jpg){width="3.8194444444444446in"
-height="2.3472222222222223in"}
+generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image4.jpg)
 
-**Borg\'s Donnay: over 14 ounces strung at 80 pounds.**
+**Borg's Donnay: over 14 ounces strung at 80 pounds.**
 
 Many experts say that any frame from any era counts for about 70% of the
 playing feel/power/spin/touch/comfort. They say the string component
 makes up about 30%.
 
 Exceptions occur with very good stringers, who are able to match the
-frame/string combination to fit the unique player\'s style and ability
+frame/string combination to fit the unique player's style and ability
 exactly. In these cases, the string can make up 50% of the equation. But
-many stringers can\'t even string wooden frames anymore, as their
-machines won\'t allow it.
+many stringers can't even string wooden frames anymore, as their
+machines won't allow it.
 
 Those Kramer frames were made longer than any other frame in history.
 Any one lucky enough to hit and play with one felt the quality. These
@@ -122,8 +118,7 @@ sweet spot, and a tighter string pattern, which favored flatter strokes
 over spin.
 
 ![A picture containing athletic game, sport Description automatically
-generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image5.jpg){width="2.638888888888889in"
-height="4.111111111111111in"}
+generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image5.jpg)
 
 **Rackets had to be kept in wooden presses - and still warped.**
 
@@ -137,7 +132,7 @@ Lennart Bergelin, his coach, stringer, hitting partner, masseuse, and
 psychologist rolled into one.
 
 The frames would warp if not pressed and warped anyway when exposed to
-humidity. They just don\'t make them like that anymore. The woodies
+humidity. They just don't make them like that anymore. The woodies
 bent, flexed, and vibrated at a much lower and more forgiving frequency
 than the modern frames do, so they were easier on the elbow.
 
@@ -162,8 +157,7 @@ hybrids. Just another son taught by a hacker father with a woodie.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                                                   Geoff Williams grew up playing tennis in his
-  generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image6.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                                             first and only junior tournament at age 11. Over
+  generated](media_the-jack-kramer-autograph-a-tale-of-hope/media/image6.jpeg)                                                                                                                                                                             first and only junior tournament at age 11. Over
                                                                                                                                                                                                   the years he went on to become a fixture on the
                                                                                                                                                                                                   Northern California NTRP tournament scene,
                                                                                                                                                                                                   winning numerous titles at both the 4.5 and 5.0

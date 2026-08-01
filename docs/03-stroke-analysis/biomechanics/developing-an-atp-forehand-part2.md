@@ -19,8 +19,7 @@ significant increase in the ability of the muscle to produce
 force.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image1.webp)
 
 **What happens between the dynamic slot and the contact in the ATP
 forehand?**
@@ -47,8 +46,7 @@ what I call the Type 3 forehand, from the Type 1 or Type 2 forehands,
 forehands that are more common on the women's tour and in junior tennis.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image2.webp)
 
 **The creation of the dynamic slot naturally turbocharges the forehand**
 
@@ -76,15 +74,13 @@ years through my collaboration with renowned developmental coach Rick
 Macci at his academy in Boca Raton, Florida.
 
 ![A picture containing text, person Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image3.webp)
 
 **3D analysis: answers to questions that previously had none.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image4.webp)
 
 **Look for future articles from Rick on applying 3D research in stroke
 development.**
@@ -109,8 +105,7 @@ distinct parts. This is because completely different things are
 happening in the two parts.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image5.webp)
 
 **The Transition Point: the moment when the racquet becomes
 perpendicular to the baseline.**
@@ -137,8 +132,7 @@ see.]{.mark}
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image6.webp)
 
 **After the transition, racquet rotation from the wrist joint.**
 
@@ -167,8 +161,7 @@ racquet, or \"the flip\", has two important effects.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image7.webp)
 
 **The Type 1 and 2 forehands travel forward toward contact on more of a
 curve.**
@@ -195,8 +188,7 @@ This mechanism makes a major contribution to the creation of racquet
 head speed, specifically, vertical racquet head speed, as we will see.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image8.webp)
 
 **On heavier topspin shots the racqet can flip until the tip points at
 the court.**
@@ -224,8 +216,7 @@ lateral) path towards contact, especially in the first part of the
 forward swing.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image9.webp)
 
 **The hand tracks a linear path toward contact in the early forward
 swing.**
@@ -255,8 +246,7 @@ follows along directly behind the path of the hand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image10.webp)
 
 **The early linear forward swing with the racquet following the hand.**
 
@@ -268,7 +258,7 @@ essentially linear.]{.underline}**]{.mark}
 **Post-Transition**
 
 So that's the first part of the movement to the contact\--from the
-dynamic slot to the transition point. Now, let\'s talk about what
+dynamic slot to the transition point. Now, let's talk about what
 happens post transition in the second part of the forward swing.
 
 [During the second part of the forward swing the counter-rotations of
@@ -288,8 +278,7 @@ independent motion of the hitting arm. In the Type 1 and to a lesser
 extent in the Type 2 forehand, the body and arm rotate as a unit.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image11.webp)
 
 **Compared to the Type 2 forehand, the upper arm on the Type 3 Forehand
 points more toward the net at contact.**
@@ -325,8 +314,7 @@ topspin.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image12.webp)
 
 **The comparative angles of the biceps show the greater forward arm
 rotation in the straight arm versus the double bend.**
@@ -352,8 +340,7 @@ forearm. You can see this clearly by watching the angle of the biceps in
 the animation comparing Federer and Djokovic.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image13.webp)
 
 **The straight arm may have advantages, but the double bend is still
 predominant even on the ATP tour.**
@@ -379,8 +366,7 @@ ATP tour.
 **Laid Back Wrist**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image14.webp)
 
 **The third rotation created by the dynamic shot---the laid back
 wrist.**
@@ -409,8 +395,7 @@ evident in the high speed video, and is most obvious in the players with
 more the conservative grips like Roger Federer.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image15.webp)
 
 **The rotational acceleration of the racquet comes from wrist joint
 motion.**
@@ -437,8 +422,7 @@ the hand will start to pull in closer to the torso.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image16.webp)
 
 **As the hand approaches contact it moves on a curve back to the
 player's left.**
@@ -471,8 +455,7 @@ centripetal force. This force causes the racquet to rotate via the
 forward movement of the wrist joint.]{.mark}**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_developing-an-atp-forehand-part2/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image17.webp)
 
 **Hold the racquet with two fingers and you can feel the subtle rotation
 to contact.**
@@ -505,8 +488,7 @@ in the dynamic slot is not a counter-rotation that targets
 stretch-shorten cycle enhancement.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image18.webp)
 
 **Compare the wrist angle on a crosscourt forehand to an inside out.**
 
@@ -536,8 +518,7 @@ out of the dynamic slot. Then in the second part of the forward swing,
 there is a transition to racquet rotation at the wrist into contact.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image19.webp)
 
 **[A delayed transition point means less muscle inhibition.]{.mark}**
 
@@ -569,8 +550,7 @@ the wrist for as long as possible.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image20.webp)
 
 **[[Players create later transition by intentionally keeping the wrist
 laid back.]{.underline}]{.mark}**
@@ -597,8 +577,7 @@ forehands, the transition point is reached very early in the forward
 swing due to the more circular swing pattern.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image21.webp)
 
 **Rotation in Type 1 and Type 2 swings can come from active muscle
 contraction.**
@@ -632,8 +611,7 @@ of wrist rotation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part2/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part2/media/image22.webp)
 
 **In general with extreme grips there is less wrist lay back at
 contact.**
@@ -656,12 +634,11 @@ The main reason for this is I never work on someone's stroke mechanics
 without a full 3D data set. With 3D, I have perfect resolution all the
 way up to contact, and I have a way to measure the joint rotations and
 in many cases their causes. So, that gives me the luxury of a lot of
-diagnostic power that you just don\'t have when you\'re out there
+diagnostic power that you just don't have when you're out there
 working with a student in the traditional fashion.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image23.webp)
 
 **The followthrough has great oncourt diagnostic power.**
 
@@ -670,7 +647,7 @@ are very good diagnostically on the court for seeing what the conditions
 were up to and during contact. And so, as a coaching tool, the follow
 through is indispensable, because, as I've said, the motion happens far
 too fast for the eye to see. In many cases, your only chance of picking
-it up is to see what\'s going on in the follow through.
+it up is to see what's going on in the follow through.
 
 **Review**
 
@@ -687,8 +664,7 @@ rotations eccentrically stretch the muscles, activating elements of the
 stretch-shorten cycle.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image24.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image24.webp)
 
 **One more look at the creation of the dynamic slot.**
 
@@ -711,7 +687,7 @@ This is accomplished by allowing forward motion from the wrist joint
 
 So, note that the movement to the contact is mostly a linear
 translation. Federer times the transition to the rotational component
-perfectly and appears to use that centripetal force like a master. It\'s
+perfectly and appears to use that centripetal force like a master. It's
 brilliantly simple, really.
 
 **To Conclude**
@@ -722,29 +698,27 @@ the transition point in optimizing racquet speed both horizontally and
 vertically.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part2/media/image25.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part2/media/image25.webp)
 
 **Federer times the transition to rotational acceleration brilliantly.**
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                           | Dr. Brian Gordon has changed the understanding   |
-| generated](media_developing-an-atp-forehand-part2/media/image26.jpeg){width="2.0819444444444444in" | of the biomechanics of high level tennis         |
-| height="2.6791666666666667in"}                                                                                                                                                         | technique. His Biomechanically Engineered Stroke |
-|                                                                                                                                                                                        | Technique (BEST) is the only empirically based   |
-|                                                                                                                                                                                        | stroke mechanics system in the world, growing    |
-|                                                                                                                                                                                        | from three decades of both academic and applied  |
-|                                                                                                                                                                                        | on court research. He is a founder of the Tennis |
-|                                                                                                                                                                                        | Center for Performance Research in Miami,        |
-|                                                                                                                                                                                        | Florida, which is creating a new paradigm for    |
-|                                                                                                                                                                                        | player development. The center has assembled an  |
-|                                                                                                                                                                                        | unprecedented group of specialists with cutting  |
-|                                                                                                                                                                                        | edge knowledge across the entire range of tennis |
-|                                                                                                                                                                                        | performance.                                     |
-|                                                                                                                                                                                        |                                                  |
-|                                                                                                                                                                                        | To visit his website, [**Click                   |
-|                                                                                                                                                                                        | Here!**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                        |                                                  |
-|                                                                                                                                                                                        | Top contact him directly, [**Click               |
-|                                                                                                                                                                                        | Here!**](mailto:gamabrian@icloud.com)            |
-+========================================================================================================================================================================================+==================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding |
+| --- | --- |
+| generated](media_developing-an-atp-forehand-part2/media/image26.jpeg) | technique. His Biomechanically Engineered Stroke |
+|  | Technique (BEST) is the only empirically based |
+|  | stroke mechanics system in the world, growing |
+|  | from three decades of both academic and applied |
+|  | on court research. He is a founder of the Tennis |
+|  | Center for Performance Research in Miami, |
+|  | Florida, which is creating a new paradigm for |
+|  | player development. The center has assembled an |
+|  | unprecedented group of specialists with cutting |
+|  | edge knowledge across the entire range of tennis |
+|  | performance. |
+|  |  |
+|  | To visit his website, [**Click |
+|  | Here!**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**Click |
+|  | Here!**](mailto:gamabrian@icloud.com) |
+

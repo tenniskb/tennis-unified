@@ -18,8 +18,7 @@ attacking ball to the open court.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part10/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part10/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

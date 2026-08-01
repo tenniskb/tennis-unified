@@ -11,7 +11,7 @@ Here](https://www.tennisplayer.net/members/footwork/) to see a summary
 of them all.)
 
 Want to hit your inside in and inside out forehands like Roger Federer?
-Here are two more advanced moves - Roger Federer\'s signatures. And if
+Here are two more advanced moves - Roger Federer's signatures. And if
 you want to see Federer demonstrate them himself. [Click
 Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92045-interactive-forum-december-2020-roger-federer-inside-forehands)
 to visit the Interactive Forum and see them in our amazing superslow
@@ -19,8 +19,7 @@ motion footage.
 
 ![](media_inside-forehand/media/image1.png)
 
-![](media_inside-forehand/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_inside-forehand/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

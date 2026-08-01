@@ -4,45 +4,43 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_learning-from-the-pros/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_learning-from-the-pros/media/image1.webp)
 
 **People overlook the fact that my style was based on playing the
-percentages and forcing opponent\'s to beat me with better shot
+percentages and forcing opponent's to beat me with better shot
 making.**
 
 I think every tennis player including myself wants to learn something
 from the pros. When most players watch pro matches they tend to focus on
-the obvious things. Yeah, it\'s fun to try to copy Andre Agassi\'s
+the obvious things. Yeah, it's fun to try to copy Andre Agassi's
 forehand, or try to hit 125 mph serves like Pete Sampras. But to play
-winning tennis at any level, you\'ve got to be realistic about your
+winning tennis at any level, you've got to be realistic about your
 capabilities. There are other things to look for if you want to really
 learn from watching the best players.
 
-Over the past few years as a commentator, I\'ve watched hundreds of
+Over the past few years as a commentator, I've watched hundreds of
 matches, far more than I ever did as a player. My conclusion? Almost any
 player can learn a lot by watching the strategy in pro matches, how the
 players set up their points, and more importantly, how they finish them
 off.
 
 **[[The point is, when you go into a match you need to have several
-specific ideas about how you\'re going to beat a given
+specific ideas about how you're going to beat a given
 opponent.]{.underline}]{.mark}** This means knowing what your
-opponent\'s strengths and weaknesses are and how they match up with
+opponent's strengths and weaknesses are and how they match up with
 yours. These match ups are the foundation of your game plan.
 
 On the tour, this kind of information is common knowledge, but below
-that level too many players don\'t even think about it. That\'s crazy
+that level too many players don't even think about it. That's crazy
 because at the club level strategy can probably do even more for you
-than it can on the tour. There isn\'t always an answer to Pete
-Sampras\'s serve. Usually at the club level players have glaring
+than it can on the tour. There isn't always an answer to Pete
+Sampras's serve. Usually at the club level players have glaring
 weaknesses that can be exploited by playing the right shots and/or
 patterns.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image2.jpg){width="2.6041666666666665in"
-                                                                         height="2.8229166666666665in"}
+   confidence](media_learning-from-the-pros/media/image2.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **For Hewitt, court coverage is a weapon that wears down opponents.**
 
@@ -60,11 +58,11 @@ to an official or two.
 When people do talk about the way I played, they usually describe it as
 a high-risk attacking style, but I never really saw it that way.
 
-When I was coming up I tried to develop a game that didn\'t have any
-obvious weaknesses, so players didn\'t have a clear idea of what to do
+When I was coming up I tried to develop a game that didn't have any
+obvious weaknesses, so players didn't have a clear idea of what to do
 against me. My goal was to keep my errors to a minimum and make my
-opponents beat me by making better shots. That\'s high percentage tennis
-and that\'s what wins most matches.
+opponents beat me by making better shots. That's high percentage tennis
+and that's what wins most matches.
 
 Being left-handed, I developed the ability to serve wide, especially in
 the ad court, and this led to a lot of easy volleys and easy points on
@@ -72,10 +70,9 @@ my serve. Other players have their own favorite patterns.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image3.jpg){width="2.6041666666666665in"
-                                                                                height="3.25in"}
+   confidence](media_learning-from-the-pros/media/image3.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                               **One reason Pete\'s first serve has been so great: it goes in 60% of the time.**
+                                               **One reason Pete's first serve has been so great: it goes in 60% of the time.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -99,50 +96,48 @@ basis.]{.underline}]{.mark}**
 
 Here are some of the things that almost any player can pick up from
 watching the pros. They are about as basic as you can get, but when I
-watch club matches I\'m stunned at how few players seem to understand
+watch club matches I'm stunned at how few players seem to understand
 them. If you follow just these simple points and are able to incorporate
-them, you\'ll be way ahead of the game and will probably start to win a
+them, you'll be way ahead of the game and will probably start to win a
 lot more matches.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person sitting at a table Description automatically generated with medium
-   confidence](media_learning-from-the-pros/media/image4.webp){width="2.625in"
-                                                                  height="2.3645833333333335in"}
+   confidence](media_learning-from-the-pros/media/image4.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        **If your forehand is your weapon, run around your backhand and attack short balls.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Serving a high percentage on your first serve:** Watch Pete. Over his
-career he\'s served around 60% on his first serve, and he always seems
+career he's served around 60% on his first serve, and he always seems
 to get his first serve in at critical times. Compare this to the club
 player who tries to hit a huge flat serve that goes in a couple of times
 a set.
 
-**Keeping the ball deep in rallies:** Watch Lleyton Hewitt. It\'s
+**Keeping the ball deep in rallies:** Watch Lleyton Hewitt. It's
 virtually impossible to attack if you have to play the ball from way
 behind the baseline. Depth is a weapon, one that players at any level
-can develop. Given the choice it\'s much more important to hit the ball
+can develop. Given the choice it's much more important to hit the ball
 deep than to hit it hard.
 
-**Using all angles of the court:** Watch Martina Hingis. It\'s a big
+**Using all angles of the court:** Watch Martina Hingis. It's a big
 court out there. Can you hit short cross-courts? Drop shots? Lobs? This
 kind of versatility is probably more important in club tennis, and
-likely to produce even better results. It\'s also rarer, so it could be
+likely to produce even better results. It's also rarer, so it could be
 a big advantage.
 
 **Attacking short balls:** Watch Agassi. Move into the court, or move
 around short balls on the backhand side and hit inside out and inside
-in. You don\'t necessarily have to blast the ball. Most club players
+in. You don't necessarily have to blast the ball. Most club players
 have much better forehands than backhands, but you rarely see them run
 around the ball.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A picture containing text, outdoor, person Description automatically
-   generated](media_learning-from-the-pros/media/image5.webp){width="2.6354166666666665in"
-                                                                        height="2.0833333333333335in"}
+   generated](media_learning-from-the-pros/media/image5.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **You don\'t have to blast return winners to take advantage of weak second serves.**
+                                             **You don't have to blast return winners to take advantage of weak second serves.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -150,8 +145,8 @@ around the ball.
 Breaking serve is obviously critical in pro tennis. It could be even
 more important in club tennis, since fewer players hold serve routinely.
 
-**[[To return well at the club level, it\'s generally a matter of just
-getting a high percentage of serves back in play. It doesn\'t help to
+**[[To return well at the club level, it's generally a matter of just
+getting a high percentage of serves back in play. It doesn't help to
 hit huge returns that hit the fence in the air. But you should
 definitely pressure weaker serves, especially the second.]{.mark} [This
 is more a matter of getting ahead with a good placement, or chipping and
@@ -161,33 +156,32 @@ serve.]{.mark}]{.underline}**
 ### Be Flexible - Change a Losing Strategy
 
 These are some of the elements you need to consider in deciding how to
-play certain opponents. One general point: if your strategy isn\'t
+play certain opponents. One general point: if your strategy isn't
 working, you need to be flexible.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_learning-from-the-pros/media/image6.jpg){width="2.6041666666666665in"
-                                                                              height="2.5625in"}
+   generated](media_learning-from-the-pros/media/image6.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                        **If you hang in matches when you\'re behind, like Andre at the French, anything can happen!**
+                                        **If you hang in matches when you're behind, like Andre at the French, anything can happen!**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 At a time in my career when I was losing to Ivan Lendl, the great Don
 Budge gave me a suggestion. Come in down the middle to take away the
-angles on Ivan\'s passing shots. The strategy worked and I was able to
+angles on Ivan's passing shots. The strategy worked and I was able to
 reverse his dominance of our rivalry. You can have the most brilliant
-strategy in the world but if it doesn\'t work, then it doesn\'t really
+strategy in the world but if it doesn't work, then it doesn't really
 matter how brilliant it was.
 
 One final, intangible factor is what I call \"tennis guts.\" This can
 really be the difference. A lot of players, even at the pro level, tend
-to give up when they get behind or things aren\'t going their way. In my
+to give up when they get behind or things aren't going their way. In my
 career I won a lot of matches just on my intensity. You never know
-what\'s going to happen in a tennis match.
+what's going to happen in a tennis match.
 
 Remember that Andre Agassi was down two sets to none and came back to
-win the French Open. I\'m sure he\'s glad now he didn\'t decide it just
-wasn\'t his day. If you have the guts to hang in and play tough when
-you\'re behind, you may be surprised how many matches you can turn
+win the French Open. I'm sure he's glad now he didn't decide it just
+wasn't his day. If you have the guts to hang in and play tough when
+you're behind, you may be surprised how many matches you can turn
 around and end up winning yourself.

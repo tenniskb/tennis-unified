@@ -3,8 +3,7 @@
 # John Yandell
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-backhand-volley-variations/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley-variations/media/image1.webp)
 
 **Different heights, different levels of spin, different directions.
 How?**
@@ -15,14 +14,14 @@ component parts. We also contrasted these basic components to those in
 the forehand volley, and saw the key similarities and differences.
 ([Click Here](The%20Backhand%20Volley.docx).)
 
-Now let\'s look at the full range of backhand volley variations: high
+Now let's look at the full range of backhand volley variations: high
 volleys, low volleys, volleys hit with different levels of spin and
-pace, and volleys hit in different directions. Let\'s see how the top
+pace, and volleys hit in different directions. Let's see how the top
 players put all the parts together, and what combinations they use when.
 
 **Reviewing the Components**
 
-First let\'s review the basic components. We saw that on the backhand
+First let's review the basic components. We saw that on the backhand
 volley\--like the forehand volley and the groundstrokes\--the
 preparation begins with the feet and torso, turning the body sideways,
 and at the same time, starting the movement of the racket. On the
@@ -31,8 +30,7 @@ shoulders is 60 to 90 degrees to the net, depending on the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image2.webp)
 
 **The hitting arm position, the backswing, and backward rotation of the
 hitting arm structure.**
@@ -58,8 +56,7 @@ Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_pa
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image3.webp)
 
 **The forward swing can start from many different positions.**
 
@@ -68,7 +65,7 @@ height="2.5in"}
 All these factors can be combined in a myriad of ways. The way players
 intermingle them in varying degrees on different balls creates a lot of
 confusion about what actually happens on the backhand volley. As we saw
-with the forehand, there is no such thing as one variation. It\'s all
+with the forehand, there is no such thing as one variation. It's all
 situational. Players will often hit balls from similar positions on the
 court at similar heights using different combinations of the various
 components.
@@ -87,8 +84,7 @@ sharply downward, or anywhere in between.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image4.webp)
 
 **The motion of the hitting arm is driven forward from the shoulder.**
 
@@ -98,7 +94,7 @@ paths and at a wide variety of angles.
 Finally there is the issue of elbow extension. Often the players
 straighten the arm out completely in the forward swing so the shape of
 the hitting arm moves from a U to more of an L shape. Other times they
-don\'t, or they straighten it only partially. Or the arm straightens
+don't, or they straighten it only partially. Or the arm straightens
 just briefly around contact, then reverts to the U shape in the
 followthrough.
 
@@ -120,12 +116,11 @@ forward swing starts from, higher or lower, more or less tilt, etc.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image5.webp)
 
 **A high volley with minimal backswing and minimal backward tilt.**
 
-Now let\'s look at what happens on specific volleys and how the players
+Now let's look at what happens on specific volleys and how the players
 combine all the elements.
 
 **High Volleys**
@@ -133,7 +128,7 @@ combine all the elements.
 You might assume that when the ball is high the players would use more
 backswing, open the face more, hit more downward on the ball, and
 generate more underspin. And on most balls that is probably true. But
-not all. **[[So it\'s important to see that depending on the ball and
+not all. **[[So it's important to see that depending on the ball and
 court position there are options. As a player you need to develop a feel
 for what they are.]{.underline}]{.mark}**
 
@@ -154,8 +149,7 @@ virtually to the top of his head.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image5.webp)
 
 **Another high ball with a full backswing and extreme tilt.**
 
@@ -185,8 +179,7 @@ the balanced landing.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-backhand-volley-variations/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image6.webp)
 
 **Extend the motion further and you have a backhand overhead.**
 
@@ -208,7 +201,7 @@ forward over 90 degrees to the contact. The angle of the swing plane is
 still forward, but it is also angled radically downward. Again the
 player is using the front shoulder muscles to move the racket forward
 and downward at the same time. The actual path is a blend of these two
-diagonals. It\'s an amazing technical shot.]{.mark}**
+diagonals. It's an amazing technical shot.]{.mark}**
 
 So there we have the extremes. High balls hit virtually flat with
 minimal backswing and minimal backward rotation of the hitting arm
@@ -226,8 +219,7 @@ angle of the swing plane.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image7.webp)
 
 **A tough low volley with minimal backswing and only a slightly open
 face.**
@@ -259,20 +251,19 @@ the ball being angled upward to clear the net.
 
 **[Despite these adjustments to deal with the height of the ball, the
 driving motion is still the movement of the hitting arm structure
-forward from the shoulder. It\'s just that there is less backswing and
+forward from the shoulder. It's just that there is less backswing and
 less backward tilt.]{.mark}** You can clearly see the spacing between
 the hitting arm and the torso increase as the racket moves forward in
 the few frames just before and after contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley-variations/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley-variations/media/image8.webp)
 
 **A knee high volley with more backswing and racket tilt.**
 
 Now compare that to another low volley from Mark Philippoussis. The
-contact point here is higher than Taylor\'s, at about knee level. Here
+contact point here is higher than Taylor's, at about knee level. Here
 we can see the other extreme in terms of the backswing, and especially
 the rotation of the hitting arm structure backwards. **[Look how Mark
 rotates the arm and racket back in his shoulder joint as a
@@ -281,7 +272,7 @@ virtually parallel to the court.
 
 This variation allows him to hit through the ball with substantial
 underspin. From where he is the trajectory can be a little flatter, so
-he is probably hitting it somewhat harder than Taylor\'s volley with
+he is probably hitting it somewhat harder than Taylor's volley with
 more spin.
 
 **[[The common point to note is that the forward swing is still the
@@ -292,8 +283,7 @@ also that once again the elbow straightens out, but then reverts to a
 flexed position, recreating the U shape during the followthrough.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-backhand-volley-variations/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley-variations/media/image9.webp)
 
 **The U Shape turns literally upside down at times to position the
 racket.**
@@ -321,11 +311,10 @@ difficult to understand.
 We can see clearly how this works on two similar low volleys hit by Tim
 Henman. The first one is hit crosscourt, and the second is hit down the
 line, or actually slightly inside out, from the center of the court
-outward, toward the opponent\'s forehand corner.
+outward, toward the opponent's forehand corner.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-backhand-volley-variations/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley-variations/media/image10.webp)
 
 **Watch the U Shape turn over 90 degrees on the down the line volley.**
 
@@ -354,15 +343,14 @@ move through the ball and create the line of the shot. And again the
 racket head ends up facing in the direction of the hit.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-volley-variations/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley-variations/media/image11.webp)
 
 **It all makes sense once you understand the role of the hitting arm.**
 
 These may seem like radical adjustments, but they are actually much
 easier to make than they may appear once you understand the dynamics of
 the forward swing. If you visualize **[the hitting arm and racket as a
-structure that doesn\'t really change its internal shape]{.underline}**,
+structure that doesn't really change its internal shape]{.underline}**,
 then you will instinctively feel **[how to maneuver this structure from
 the shoulder in order to position the racket head. By rotating as a unit
 you can position it to make any possible placement on the court. You can
@@ -374,18 +362,17 @@ Work to develop the basic elements outlined in the first article and
 then experiment with combining them to create the shot variations. If
 you learn to set up the magic hitting arm position and then learn how to
 maneuver it to create spin and deal with balls with different heights,
-speeds and spin you\'ll develop a solid backhand volley and have the
+speeds and spin you'll develop a solid backhand volley and have the
 confidence to hit it under pressure.
 
 Next: Footwork: do I step into the volley\--or not? If so, when and how?
 Can I hit it the volley open stance and do I want to? Do I split step or
-not? What is a split step anyway? Let\'s take a look at all those
+not? What is a split step anyway? Let's take a look at all those
 questions on the pro volley next time.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-backhand-volley-variations/media/image12.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-backhand-volley-variations/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

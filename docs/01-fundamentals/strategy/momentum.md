@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_momentum/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_momentum/media/image1.webp)
 
 **Understanding momentum can be a key benefit in developing Marginal
 Gains.**
@@ -17,8 +16,8 @@ Marginal Gains. Momentum. Understanding momentum can offer a final
 marginal gain that can be very beneficial to you at key moments in a
 match.
 
-I sometimes hear players say that a slow start isn\'t the end of the
-world when they are playing best of 3 full sets, they\'ve got plenty of
+I sometimes hear players say that a slow start isn't the end of the
+world when they are playing best of 3 full sets, they've got plenty of
 time to work their way back. What they fail to understand is they have
 made their task doubly difficult. First, they have to get the score back
 level, and if they manage that, then they have to find a way to win.
@@ -31,7 +30,7 @@ favorite to push on for the win. This seems even more likely to when the
 player levels the score more easily.
 
 However, there is often big danger lurking for the player that levels
-the score. We\'ve all seen score lines like 6-4, 1-6, 7-5. If you win
+the score. We've all seen score lines like 6-4, 1-6, 7-5. If you win
 the second set easily and presumably have the momentum, what does that
 really mean in terms of outcome?
 
@@ -45,28 +44,24 @@ winning a relatively easy second set only translated into an overall win
 around half of the time.
 
 ![A person holding a tennis racket Description automatically
-generated](media_momentum/media/image2.jpg){width="2.72799978127734in"
-height="2.3301662292213474in"} ![A person playing tennis Description
+generated](media_momentum/media/image2.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_momentum/media/image3.jpg){width="2.736000656167979in"
-height="2.337001312335958in"}
+confidence](media_momentum/media/image3.jpg)
 
 ![A person wearing a hat Description automatically generated with low
-confidence](media_momentum/media/image4.jpg){width="2.7120002187226597in"
-height="2.372998687664042in"} ![A person holding a tennis racket
+confidence](media_momentum/media/image4.jpg) ![A person holding a tennis racket
 Description automatically
-generated](media_momentum/media/image5.jpg){width="2.7150798337707784in"
-height="2.3756944444444446in"}
+generated](media_momentum/media/image5.jpg)
 
 **Top professionals know that matches can have endless ups and downs.**
 
-**[[It\'s important to note that these are high level professionals,
+**[[It's important to note that these are high level professionals,
 skilled at dealing with the endless ups and downs in
 matches.]{.underline}]{.mark}** But for lower levels, having momentum
 can actually be dangerous if not fully understood.
 
 I strongly believe the player who initially has the lead should always
-still hold the upper hand once the scores are level. Let\'s examine why
+still hold the upper hand once the scores are level. Let's examine why
 this could be the case.
 
 **[[Humans are naturally wired to obtain satisfaction from success. But
@@ -76,7 +71,7 @@ we congratulate ourselves on the comeback, and perhaps expect that
 pushing on to win the set is now a formality.]{.mark}]{.underline}**
 
 **[[Meanwhile, think of the opponent who has lost the 5-2 lead. As long
-as he hasn\'t imploded mentally, he will be extra determined at the
+as he hasn't imploded mentally, he will be extra determined at the
 start of the next game to stop the slide.]{.mark}]{.underline}**
 
 **[At 5-5, you therefore have one player who is determined and focused,
@@ -84,17 +79,16 @@ against one player who may just have relaxed a little. Often, such sets
 are then won 7-5 by the player who had the 5-2 lead.]{.mark}**
 
 **[[Making a comeback requires a period of continuous mental and
-physical effort.]{.underline}]{.mark}** You\'re fighting to win those 3
+physical effort.]{.underline}]{.mark}** You're fighting to win those 3
 games in a row, and at 5-5, the exertion of making the comeback can
 often then lead to a little slump in intensity due to the relative
 safety of the 5-5 score line compared to the danger of being 2-5 down.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_momentum/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_momentum/media/image6.webp)
 
-**Losing momentum can be dangerous if you don\'t really understand it.**
+**Losing momentum can be dangerous if you don't really understand it.**
 
 This kind of mini comeback happens all the time in tennis. It could be
 3-0 and then 3-3. It could 40-0 to deuce, or even 30-0 to 30-30. It
@@ -114,40 +108,39 @@ regain the lead straight away, and this awareness is another marginal
 gain.
 
 The danger for the player who has just clawed the scores back to level
-should now be apparent, and if that\'s the situation you find yourself
+should now be apparent, and if that's the situation you find yourself
 in, you must try and suppress any feelings of satisfaction with the
 comeback and be aware to the danger that now lurks is an opponent who is
 ready to regain their lead straight away.
 
-For more on momentum I recommend Alistair Higham\'s amazing series of
+For more on momentum I recommend Alistair Higham's amazing series of
 articles on Tennisplayer. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/alistair_higham/Higham_Momentum_Intro_5_Stages_images/Higham_Momentum_Intro_5_Stages.html)
 to see the first one.)
 
-So that\'s it for my series! Good luck applying the concept of marginal
+So that's it for my series! Good luck applying the concept of marginal
 gains to your tennis game, and it would be great to hear of any success
 stories that have come from it.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                          | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_momentum/media/image7.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                        | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                       | competitions since formation, and over the last 2 |
-|                                                                                                                                                       | years alone, his junior players have won 19       |
-|                                                                                                                                                       | singles tournaments between them at county level. |
-|                                                                                                                                                       |                                                   |
-|                                                                                                                                                       | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                       | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                       | county. Nick has done video analysis for numerous |
-|                                                                                                                                                       | players at all levels, including former British   |
-|                                                                                                                                                       | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                       |                                                   |
-|                                                                                                                                                       | His unique teaching video series, covering every  |
-|                                                                                                                                                       | aspect of the game, is available on his website   |
-|                                                                                                                                                       | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                       |                                                   |
-|                                                                                                                                                       | You can also contact Nick directly via the        |
-|                                                                                                                                                       | homepage of his website.                          |
-+=======================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_momentum/media/image7.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also contact Nick directly via the |
+|  | homepage of his website. |
+
 
 ------------------------------------------------------------------------

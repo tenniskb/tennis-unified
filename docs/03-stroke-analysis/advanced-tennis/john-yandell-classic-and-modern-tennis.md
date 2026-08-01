@@ -5,8 +5,7 @@
 ### John Yandell
 
 ![A person holding a tennis racket Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image1.webp)
 
 **How absolute is the distinction between modern and classical tennis?**
 
@@ -34,8 +33,7 @@ you try to. Modern tennis is something that should only be watched on
 television.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image2.webp)
 
 **Is \"modern\" tennis something to learn from or just watch on TV?**
 
@@ -63,8 +61,7 @@ adopt for yourself.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image3.webp)
 
 **Is the divide from the classic to the modern era \"unbridgeable\"?**
 
@@ -89,8 +86,7 @@ to understand the assumption that is, ironically, accepted by both sides
 in the debate without critical scrutiny.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image4.webp)
 
 **What classic elements are modern and vice versa?**
 
@@ -118,8 +114,7 @@ Have there been major changes that have affected technique? Yes.
 
 ![A picture containing sport, outdoor, athletic game, player Description
 automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image5.webp)
 
 **Changes in tactical styles separate classic and modern tennis.**
 
@@ -147,8 +142,7 @@ help you play tennis at the level you dream of reaching.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image6.webp)
 
 **Try this shot with a 16 ounce wooden racket.**
 
@@ -171,8 +165,7 @@ the effect of \"With this racket I don't have a forehand.\"
 
 ![A tennis player hitting a ball with a racket Description automatically
 generated with medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image7.webp)
 
 **The poly string snap back effect radically increases spin.**
 
@@ -195,8 +188,7 @@ the major factor in the development of the modern 30-ball backcourt
 rally.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image8.webp)
 
 **Poly string has made the use of extreme swing elements routine.**
 
@@ -225,8 +217,7 @@ that simply were not possible in the classical era.
 **The Courts**
 
 ![A person swinging a tennis racket Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image9.webp)
 
 **Contact points through most of the classical era were between knee and
 waist height.**
@@ -255,8 +246,7 @@ hard court play.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image10.webp)
 
 **Slower courts, heavier spin, higher bounces, higher contact.**
 
@@ -280,8 +270,7 @@ by the poly strings and the higher levels of topspin.
 
 ![A picture containing tennis, road, outdoor, athletic game Description
 automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image11.webp)
 
 **In the classical era mild continental grips were common on the
 forehand.**
@@ -309,8 +298,7 @@ in swing biomechanics.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image12.webp)
 
 **Classical players often used open in additional to neutral stances.**
 
@@ -339,8 +327,7 @@ in so-called \"classical\" style.
 
 ![A person holding a baseball bat Description automatically generated
 with medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image13.webp)
 
 **Tilden among others hit reverse and wiper finishes.**
 
@@ -369,8 +356,7 @@ with continental forehand grips.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image14.webp)
 
 **Fred Perry among others hit swinging volleys.**
 
@@ -397,8 +383,7 @@ On the backhand side, classical tennis was all one hand. There were
 virtually no two-handers.
 
 ![A picture containing text Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image15.webp)
 
 **The classical forehand: a unit turn with the left arm stretch, great
 extension and a wrap followthrough.**
@@ -429,8 +414,7 @@ history of the game.
 
 ![A person wearing a baseball uniform Description automatically
 generated with low
-confidence](media_john-yandell-classic-and-modern-tennis/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image16.webp)
 
 **In the classic era it was all one hand.**
 
@@ -457,8 +441,7 @@ shoulder level and higher. This has led to the much wider adoption of
 under the handle grips, and greater loading in the legs.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image17.webp)
 
 **The modern forehand can finish with the rear shoulder rotating 180
 degrees.**
@@ -486,8 +469,7 @@ evolution of the slice backand, [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/modern_pro_slice_2/).)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image18.webp)
 
 **The rise of two-hands is a fundamental modern change.**
 
@@ -519,8 +501,7 @@ Edberg, and Boris Becker all winning multiple Slam titles.
 
 ![A person hitting a ball with his tennis racket Description
 automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image19.webp)
 
 **McEnroe, a transitional figure with a classic game and a graphite
 racket.**
@@ -554,8 +535,7 @@ and volley players of all time, if not the very greatest of all.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image20.webp)
 
 **The last of the great classical players?**
 
@@ -578,11 +558,10 @@ let's look at the surprisingly strong presence of classical technical
 components that remain viable, and even central to the pro game. Stay
 tuned!
 
-# Is Don Budge\'s Forehand Good Enough for You?
+# Is Don Budge's Forehand Good Enough for You?
 
 ![A picture containing blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image21.webp)
 
 **Who was Don Budge and what was his forehand really like?**
 
@@ -615,12 +594,11 @@ for topspin, something that was once viewed as impossible. So were the
 1940s more modern than modern?
 
 ![A picture containing blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image22.webp)
 
 **How classical is classical and how modern is modern?**
 
-Let\'s not go too far. There is no doubt the game is way different today
+Let's not go too far. There is no doubt the game is way different today
 at the highest levels. Spin, velocity and contact height are all
 higher---way, way higher. 100mph forehands with 5000rpms that bounce
 above shoulder level.
@@ -632,49 +610,47 @@ In the previous article in this series, I looked at some of the
 classical elements in modern tennis\--and vice versa ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/).)
 Now let's do the same in more detail with the technical specifics of
-Budge\'s forehand.
+Budge's forehand.
 
 If you believe the scornful words of "modern tennis\" exponents no one
 could even play real tennis before extreme windshield wipers and massive
-topspin. Players like John McEnroe and Pete Sampras couldn\'t even
+topspin. Players like John McEnroe and Pete Sampras couldn't even
 compete against \"modern\" heavy ball baseliners.
 
 So how could Don Budge? This is the background discussion that makes
-Budge\'s film so interesting. The extreme modern game propaganda loses
+Budge's film so interesting. The extreme modern game propaganda loses
 credibility when tested against historical reality. The fundamentals in
-Budge\'s forehand are amazing.
+Budge's forehand are amazing.
 
 **Grip**
 
 ![A picture containing blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image23.webp)
 
 **An eastern grip with the hand on the wood and aligned with racket
 head.**
 
-But wait Budge has an antiquated eastern grip. Doesn\'t that disqualify
+But wait Budge has an antiquated eastern grip. Doesn't that disqualify
 him as \"proto modern\" right there? Well that grip is good enough for
 Roger Federer, Jo Willie Tsonga, and Juan Martin Del Potro among others.
 
-Although other players of Budge\'s era and later had forehand grips
+Although other players of Budge's era and later had forehand grips
 turned toward the continental, Budge himself had a classic eastern with
 the palm of the hand aligned directly with the racket face and the
 string bed\--a grip that falls within the range of effective grips in
 the pro game. And for players at all other levels, that grip is probably
-far more suitable and effective, as we see in this month\'s article from
+far more suitable and effective, as we see in this month's article from
 my new teaching methodology series. (Click Here.)
 
 Why Eastern? The grip allows players to hit through with the racket more
-or less on edge\--a basic semi-flat drive. That\'s a great basic swing
+or less on edge\--a basic semi-flat drive. That's a great basic swing
 pattern and one that even advanced club players can hit with great
 effect. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/classiclessons/scott_murphy/traditional_forehand/)
 to see the forehand of Karsten Pop, who even in his 40s, is one of the
 best players in super competitive Marin county California.)
 
-![](media_john-yandell-classic-and-modern-tennis/media/image24.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_john-yandell-classic-and-modern-tennis/media/image24.webp)
 
 **A modern unit turn with both hands on the frame.**
 
@@ -693,8 +669,8 @@ Sound familiar? ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html).)
 
 Next his hands separate and the left arm stretches across the body. All
-I can remember from the 1960\'s on was teachers advocating pointing the
-left arm at the ball! It wasn\'t really until high speed video came
+I can remember from the 1960's on was teachers advocating pointing the
+left arm at the ball! It wasn't really until high speed video came
 along that the left arm stretch was \"discovered.\"
 
 Or should we say, rediscovered? Here is the best player in the world
@@ -702,8 +678,7 @@ demonstrating and advocating it in 1940. How did that not get into the
 teaching consciousness of the time for the future?
 
 ![A picture containing dark, blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image25.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image25.webp)
 
 **The left arm stretch and the ATP backswing\--decades before the ATP
 existed.**
@@ -717,18 +692,18 @@ he had known it all along. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/high_performance/rick_macci/develop_atp_forehand/)
 to Rick talk about this on Tennisplayer. [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
-to see Brian\'s more scientific explanation.)
+to see Brian's more scientific explanation.)
 
 In case you been off the planet for the last few years, the ATP
 backswing is with the racket head above the hand, the racket arm to the
 right of the body on a slight diagonal, and the racket face slightly
-closed to the court. Look at Budge! It\'s virtually the exact ATP
+closed to the court. Look at Budge! It's virtually the exact ATP
 position.
 
 Maybe Rick and Brain secretly found this film before I did. Just
 kidding. What is interesting is that Brian established by his research
 not only that this was a commonality for top male pro, he showed why
-it\'s a biomechanical advantages in terms of the way the muscles work.
+it's a biomechanical advantages in terms of the way the muscles work.
 
 Who could know that Don Budge was turbo charging his forehand via the
 stretch shorten cycle in the 1940s? And then bringing that one-pounder
@@ -736,8 +711,7 @@ through\--no wonder he was widely perceived to hit a very heavy ball.
 
 ![A picture containing court, sport, player, blur Description
 automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image26.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image26.webp)
 
 **Natural adaptations to open stance.**
 
@@ -754,7 +728,7 @@ effortlessly to adjust for various balls. Watch him adjust his feet and
 set up a mild semi-open stance on a higher ball. Watch hit semi-open
 when he moves wide.
 
-It\'s a fantasy but what if we had extensive high speed film of him,
+It's a fantasy but what if we had extensive high speed film of him,
 Jack Kramer, Pancho Gonzales, even Bill Tilden, the same way we have of
 modern players in our High Speed Archives? Then we could actually study
 the evolution of technique in a much more detailed, more nuanced and
@@ -763,8 +737,7 @@ more conclusive way.
 **Finishes**
 
 ![A picture containing blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image27.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image27.webp)
 
 **The classic eastern finish: simplicty pace, depth, consistency.**
 
@@ -792,19 +765,18 @@ sideline on every swing\-- regardless of the lack of depth or pace or
 control\--or the heinous errors. Sad yet funny.
 
 ![A picture containing blur Description automatically
-generated](media_john-yandell-classic-and-modern-tennis/media/image28.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-classic-and-modern-tennis/media/image28.webp)
 
 **Even under controlled conditions a hint of finish variety.**
 
-You don\'t have that problem with the more classic finish. But then that
+You don't have that problem with the more classic finish. But then that
 goes back to grip. If you go under the handle you have to wiper much
 more to get the racket head through the swing. Why not have the option
 to play the ball that suits the situation\--especially below the pro
 level\--ie especially for 100% of all people reading this article.
 
 In fact, it looks very much like the finish in the great Welby Van
-Horn\'s teaching system. ([Click
+Horn's teaching system. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 He lived to be 94 and I feel very lucky that we were able to capture his
 approach on Tennisplayer. Guess what? He was a contemporary of Don
@@ -824,15 +796,14 @@ Here](https://www.tennisplayer.net/members/avancedtennis/famouscoach/robert_lans
 
 ![A person holding a light saber Description automatically generated
 with low
-confidence](media_john-yandell-classic-and-modern-tennis/media/image29.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image29.webp)
 
 **Don Budge advocating the impossible closed face.**
 
 **Closed Face**
 
 And then there is the closed face. A lot of \"modern\" research
-concluded that this just wasn\'t even possible. The ball would obviously
+concluded that this just wasn't even possible. The ball would obviously
 go down into the net.
 
 It took high speed video in the 90s to show that well, no, it was not
@@ -850,14 +821,13 @@ Grass was lower bouncing at the time. But what about filming Budge on
 red clay winning the French? Wow. I bet we would learn some stuff
 then\...
 
-If I still played with a wood racket maybe I\'d take the grip off it
+If I still played with a wood racket maybe I'd take the grip off it
 just to feel what the wood itself actually felt like when you found the
 exact sweet spot.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-classic-and-modern-tennis/media/image30.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-classic-and-modern-tennis/media/image30.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

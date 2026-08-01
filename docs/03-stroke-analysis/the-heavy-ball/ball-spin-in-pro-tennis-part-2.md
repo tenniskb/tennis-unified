@@ -13,8 +13,7 @@ picture of the amazing spin rates we found in world class tennis.
 
 ![A picture containing text, tennis, athletic game, sport Description
 automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image1.webp)
 
 **In general the returns in pro tennis are hit with less spin than the
 groundstrokes.**
@@ -27,8 +26,7 @@ the bounce, or something very close.
 
 ![A person running on a tennis court Description automatically generated
 with medium
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image2.webp)
 
 **On the backhand return, Chang was the exception, hitting roughly the
 same amount of total spin as on his backhand.**
@@ -38,7 +36,7 @@ same amount of total spin as on his backhand.**
 Although there were significant exceptions, our data showed that in
 general the top players hit their returns with less spin than their
 groundstrokes. During our filming we were able to record over 25 returns
-on the men\'s side and almost 40 on the women\'s. It makes sense that
+on the men's side and almost 40 on the women's. It makes sense that
 the returns would have less spin going out, because of the heavy spin on
 the incoming serve, particularly second serves. This spin had to be
 negated or reversed first, making generating out going spin more
@@ -51,7 +49,7 @@ they were hit at similar spin rates to his regular forehand, averaging
 forehand returns that had half or less topspin compared to their
 groundstrokes.
 
-**Men\'s Forehand Return**
+**Men's Forehand Return**
 
   ---------------------------------------------------------------------
   Player:            No. of Returns:    RPM Range:        Avg RPM:
@@ -67,7 +65,7 @@ groundstrokes.
   Andre Agassi       3                  600-833rpm        687rpm
   ---------------------------------------------------------------------
 
-**Men\'s Forehand Returns versus Forehands**
+**Men's Forehand Returns versus Forehands**
 
   ---------------------------------------------------------------------
   Player:        Avg. FH Return RPM:  Avg. FH RPM:  Difference on
@@ -86,13 +84,12 @@ groundstrokes.
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image3.webp)
 
-**Agassi\'s returns on both sides were hit with about half as much spin
+**Agassi's returns on both sides were hit with about half as much spin
 as his groundstrokes.**
 
-**Men\'s Backhand Return**
+**Men's Backhand Return**
 
 The decrease in spin on the return was more dramatic on the backhand,
 although this was possibly due to the larger data pool\--17 backhand
@@ -113,7 +110,7 @@ averaging 992rpm, or 43% less spin than his backhand groundstroke.
   Jim Courier     2               833-1071rpm    952rpm      1606rpm
   ----------------------------------------------------------------------
 
-**Shot: Men\'s Backhand Returns versus Backhands**
+**Shot: Men's Backhand Returns versus Backhands**
 
   ---------------------------------------------------------------------
   Player:       Avg. BH Return RPM:  Avg. BH RPM:   Difference on
@@ -130,24 +127,23 @@ averaging 992rpm, or 43% less spin than his backhand groundstroke.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image4.webp)
 
 **The tendency to hit with less spin on the returns was more pronounced
 for the women.**
 
-**Spin on The Women\'s Returns**
+**Spin on The Women's Returns**
 
 The tendency to hit with less spin on the return was more pronounced on
-the women\'s side. The women\'s data included more incidents than the
-men\'s: 21 forehand returns from 7 different players. With the exception
+the women's side. The women's data included more incidents than the
+men's: 21 forehand returns from 7 different players. With the exception
 of Martina Hingis who generated virtually the same amount of topspin on
 her forehand return as on her regular forehand, the other 6 players all
 showed substantial declines. Anna Kournikova for example, averaged
 1038rpm on 8 forehand returns, versus 1713rpm for her forehand
 groundstroke. This equalled 37% less topspin.
 
-**Women\'s Forehand Return**
+**Women's Forehand Return**
 
   ---------------------------------------------------------------------
   Player:               No. of Returns:   RPM Range:       Avg RPM:
@@ -167,7 +163,7 @@ groundstroke. This equalled 37% less topspin.
   Lindsay Davenport     2                 395-682rpm       539rpm
   ---------------------------------------------------------------------
 
-**Women\'s Forehand Return versus Forehand**
+**Women's Forehand Return versus Forehand**
 
   ---------------------------------------------------------------------
   Player:          Avg. FH Return RPM: Avg. FH RPM:  Difference on
@@ -192,8 +188,7 @@ groundstroke. This equalled 37% less topspin.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image4.webp)
 
 **Hingis was the exception with her spin levels matching on her
 groundstrokes and returns.**
@@ -206,7 +201,7 @@ groundstroke. The other players all showed significant drops. Venus
 Williams, for example, averaged 736rpm on the return, compared to
 1429rpm or her backhand groundstroke, almost exactly half the topspin.
 
-**Women\'s Backhand Returns**
+**Women's Backhand Returns**
 
   ---------------------------------------------------------------------
   Player:               No. of Returns:   RPM Range:       Avg RPM:
@@ -226,7 +221,7 @@ Williams, for example, averaged 736rpm on the return, compared to
   Lindsay Davenport     1                 \--              417rpm
   ---------------------------------------------------------------------
 
-**Women\'s Backhand Return Verus Backhand**
+**Women's Backhand Return Verus Backhand**
 
   ---------------------------------------------------------------------
   Player:          Avg. BH Return RPM: Avg. BH RPM:  Difference on
@@ -251,21 +246,20 @@ Williams, for example, averaged 736rpm on the return, compared to
 
 ![A tennis player in a white dress swings a racket Description
 automatically generated with low
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image5.webp)
 
 **The spin rate on backhand slice returns reached as high as 3000rpm.**
 
-**Underspin in the Women\'s Return Game**
+**Underspin in the Women's Return Game**
 
 In addition to the returns hit with topspin, we also were able to record
-several women\'s returns hit with underspin. Jana Novotna hit 2 backhand
+several women's returns hit with underspin. Jana Novotna hit 2 backhand
 returns that both registered underspin at 3000rpm, only slightly less
 than the underspin recorded on her slice backhand groundstroke. Two
 other slice returns also fell within the general spin range of the
-women\'s slice groundstroke.
+women's slice groundstroke.
 
-**Women\'s Slice Backhand Returns**
+**Women's Slice Backhand Returns**
 
   ----------------------------------------------------------------------
   Player:               No. of Backhands:    RPM Range:     Avg RPM:
@@ -280,8 +274,7 @@ women\'s slice groundstroke.
   ----------------------------------------------------------------------
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image6.webp)
 
 **The spin rate on the forehand slice and slice returns fell into the
 same general range**
@@ -292,7 +285,7 @@ probably due to the fact the ball approaching with topspin is returned
 spinning in essentially the same direction, requiring less racket head
 speed.
 
-**Women\'s Slice Forehand Returns**
+**Women's Slice Forehand Returns**
 
   ---------------------------------------------------------------------
   Player:          No. of Forehands:     RPM Range:       Avg RPM:
@@ -305,8 +298,7 @@ speed.
 
 ![A group of people in a stadium Description automatically generated
 with low
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image7.webp)
 
 **The \"flattest\" shot in pro tennis is probably the forehand volley.**
 
@@ -314,7 +306,7 @@ Capturing spin data on the net game in pro tennis proved to be the most
 difficult. Serve and volley play is relatively rare in modern tennis
 played on hardcourts, such as at the Open.
 
-Following the players\' movement and maintaining the necessary camera
+Following the players' movement and maintaining the necessary camera
 framing to count the spin rates was also a challenge for our team when
 the players did go to net. In addition, many exchanges at the net ended
 without a clean volley, either with a passing shot from the opponent, or
@@ -331,13 +323,13 @@ and the serves.
 In the data we found that the forehand volley appears to be one of the
 \"flatest\" shots in tennis, and hit with relatively similar amounts of
 underspin by both men and women. For example, 3 forehand volleys from 3
-different players on the men\'s side ranged from 600-882rpm. Seven
-forehand volley\'s from 5 players on the women\'s side ranged from 718
+different players on the men's side ranged from 600-882rpm. Seven
+forehand volley's from 5 players on the women's side ranged from 718
 to 1250rpm, the highest being a forehand volley recorded by Martina
 Hingis at 1250rpm. The average underspin for the men was 772rpm, versus
 846rpm for the women.
 
-**Men\'s Forehand Underspin Volleys**
+**Men's Forehand Underspin Volleys**
 
   ----------------------------------------------------------------------
   Player:             No. of Volleys:     RPM Range:       Avg RPM:
@@ -349,7 +341,7 @@ Hingis at 1250rpm. The average underspin for the men was 772rpm, versus
   Andre Agassi        1                   \-\--            600rpm
   ----------------------------------------------------------------------
 
-**Women\'s Forehand Underspin Volleys**
+**Women's Forehand Underspin Volleys**
 
   ---------------------------------------------------------------------
   Player:                No. of Volleys:   RPM Range:      Avg RPM:
@@ -367,19 +359,18 @@ Hingis at 1250rpm. The average underspin for the men was 772rpm, versus
 
 ![A picture containing tennis, athletic game, sport, road Description
 automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image8.webp)
 
 **The swinging forehand volleys in the modern game can spin at
 2500rpm.**
 
-In addition for the women\'s side we recorded 2 incidents of swinging
+In addition for the women's side we recorded 2 incidents of swinging
 forehand volleys, a shot once thought impossible, but pioneered in the
 pro game by Andre Agassi and now hit regularly by many players. Both
 swinging volleys were hit with substantial topspin, one by Anna
 Kournikova at 1500rpm, and the second by Martina Hingis at 2500rpm.
 
-**Women\'s Swinging Forehand Volleys (Topspin)**
+**Women's Swinging Forehand Volleys (Topspin)**
 
   ----------------------------------------------------------------------
   Player:               No. of Volleys:    RPM Range:      Avg RPM:
@@ -390,8 +381,7 @@ Kournikova at 1500rpm, and the second by Martina Hingis at 2500rpm.
   ----------------------------------------------------------------------
 
 ![A person swinging a baseball bat Description automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image9.webp)
 
 **The data showed that backhand volleys had significantly more underspin
 than on the forehand**
@@ -400,14 +390,14 @@ than on the forehand**
 
 On the backhand volley, both men and women appear to hit with more
 underspin than on the forehand. Three underspin backhand volleys on the
-women\'s side, including 2 from Hingis, ranged from 1071 to 2143rpm,
+women's side, including 2 from Hingis, ranged from 1071 to 2143rpm,
 averaging just over 1600rpm.
 
 For the men, 8 backhand volleys from 4 players ranged from 1200 to 2586
 rpm and averaged slightly more than 1927rpm. This included 4 from Pete
 Sampras which averaged 1884rpm.
 
-**Men\'s Backhand Underspin Volleys**
+**Men's Backhand Underspin Volleys**
 
   ----------------------------------------------------------------------
   Player:               No. of Volleys:   RPM Range:        Avg RPM:
@@ -421,7 +411,7 @@ Sampras which averaged 1884rpm.
   Todd Martin           1                 \-\--             1200rpm
   ----------------------------------------------------------------------
 
-**Women\'s Backhand Underspin Volleys**
+**Women's Backhand Underspin Volleys**
 
   ---------------------------------------------------------------------
   Player:            No. of Volleys:    RPM Range:        Avg RPM:
@@ -433,8 +423,7 @@ Sampras which averaged 1884rpm.
 
 ![A picture containing athletic game, sport, tennis Description
 automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image10.webp)
 
 **3 Hingis overheads averaged 1400rpm.**
 
@@ -442,14 +431,14 @@ height="2.2291666666666665in"}
 
 On the overhead, we recorded 4 incidents for the women averaging over
 1200rpm, 3 of which were hit by Hingis. A single Michael Chang overhead
-on the men\'s side registered 1000rpm. In general we may conclude that
+on the men's side registered 1000rpm. In general we may conclude that
 although pro players generate substantial spin at the net, it is less
 than on the groundstrokes and on the serve. This conclusion makes
 obvious sense because of the far more abbreviated swing patterns at the
 net, as well as the lower velocity on the volleys compared to the other
 shots, as recorded in our ball speed experiments.
 
-**Women\'s Overhead**
+**Women's Overhead**
 
   -----------------------------------------------------------------------
   Player:               No. of Overheads:    RPM Range:      Avg RPM:
@@ -459,7 +448,7 @@ shots, as recorded in our ball speed experiments.
   Mary Jo Fernandez     1                    \-\--           681rpm
   -----------------------------------------------------------------------
 
-**Men\'s Overhead**
+**Men's Overhead**
 
   ----------------------------------------------------------------------
   Player:             No. of Volleys:     RPM Range:       Avg RPM:
@@ -469,8 +458,7 @@ shots, as recorded in our ball speed experiments.
   ----------------------------------------------------------------------
 
 ![A person swinging a tennis racket Description automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image11.webp)
 
 **Like the underspin groundstrokes, drop shots hit with underspin had
 more total spin than most topspin groundstrokes.**
@@ -484,13 +472,13 @@ substantial underspin. The team recorded drop shots from Monica Seles, 2
 backhands and a forehand, that averaged 2145rpm, substantially more spin
 than on her topspin groundstrokes that ranged from 1200 to 1300rpm.
 
-On the men\'s side 5 drop shots form 4 different players ranged from a
+On the men's side 5 drop shots form 4 different players ranged from a
 low of 1364rpm for a backhand drop volley from Tim Henman, to a high of
 3000rpm on a Marcelo Rios backhand drop shot. The average was 2296rpm.
 The implication is that, as with the slice backhand, shots hit with
-underspin have similar spin rates in the men\'s and the women\'s games.
+underspin have similar spin rates in the men's and the women's games.
 
-**Women\'s Drop Shots (Underspin)**
+**Women's Drop Shots (Underspin)**
 
   ----------------------------------------------------------------------
   Player:            Type:   No. of Dropshots: RPM Range:     Avg RPM:
@@ -502,7 +490,7 @@ underspin have similar spin rates in the men\'s and the women\'s games.
   Mary Jo Fernandez  FH      1                 \-\--          1500rpm
   ----------------------------------------------------------------------
 
-**Men\'s Drop Shots (Underspin)**
+**Men's Drop Shots (Underspin)**
 
   ------------------------------------------------------------------------
   Player:          Type:   No. of Dropshots:   RPM Range:     Avg RPM:
@@ -532,8 +520,7 @@ results showed how in general, the bounce added significant additional
 topspin to the flight of the shot.
 
 ![A picture containing tennis, person Description automatically
-generated](media_ball-spin-in-pro-tennis-part-2/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_ball-spin-in-pro-tennis-part-2/media/image12.webp)
 
 **When the ball bounces on the court in pro tennis, it picks up around
 200rpm of extra spin.**
@@ -549,13 +536,13 @@ spin of 995rpm before the bounce and 3129rpm after the bounce.
 
 The data also showed that on average, the amount of spin on the ball
 after the bounce was actually much greater than that generated by the
-players themselves. We noted above that only Sergi Bruguera\'s forehand
+players themselves. We noted above that only Sergi Bruguera's forehand
 was hit with topspin in excess of 3000rpm, with the majority of players
 hitting far less average spin.
 
 Our ball bounce data showed that, for the men, the average spin rate of
 3355rpm after the bounce and before the hit was slightly faster than
-Bruguera\'s average forehand. Although the players were hitting a ball
+Bruguera's average forehand. Although the players were hitting a ball
 spinning over 3000rpm after the bounce, the actual spin they generated
 on their own outgoing shots was on average less than half than the
 oncoming spin, an average of 1619rpm. For the women, the ball after the
@@ -593,8 +580,7 @@ understanding the role of spin in the mysteries of the heavy ball.
 Inevitably, this work led to a new set of questions.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image13.webp)
 
 **How do the components from our first two studies\--speed and
 spin\--combine to create the heavy ball?**
@@ -621,8 +607,7 @@ devise them and address our additional questions.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_ball-spin-in-pro-tennis-part-2/media/image14.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_ball-spin-in-pro-tennis-part-2/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

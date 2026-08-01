@@ -11,10 +11,10 @@ Phân tích Chuyên sâu · 2026
 
 **CHƯƠNG 1 KIẾN TRÚC TRƯỜNG SÓNG VÀ CẤU TRÚC BIOTENSEGRITY TOÀN THÂN**
 
-**1.1 Sự sụp đổ của mô hình \'Chuỗi động lực\' cơ học cổ điển**
+**1.1 Sự sụp đổ của mô hình 'Chuỗi động lực' cơ học cổ điển**
 
 Trong suốt nhiều thập kỷ, huấn luyện quần vợt truyền thống bị thống trị
-bởi mô hình \'Chuỗi động lực tuyến tính\' (Linear Kinetic Chain). Mô
+bởi mô hình 'Chuỗi động lực tuyến tính' (Linear Kinetic Chain). Mô
 hình này dựa trên một giả định căn bản nhưng đầy sai lầm: cơ thể con
 người vận hành như một cỗ máy cơ khí Newton --- một hệ thống các đòn bẩy
 cứng nhắc (xương) được kết nối với nhau bởi các bản lề (khớp), trong đó
@@ -94,26 +94,26 @@ khi cơ thể ở trạng thái thư giãn chủ động, được hydrat hóa t
 bị căng thẳng mãn tính --- toàn bộ cơ thể trở thành một môi trường
 truyền dẫn sóng động năng có ma sát nội hàm tiệm cận bằng không. Điều
 này giải thích tại sao các vận động viên Elite thường nói về cảm giác
-\'bóng tự bay đi\' khi họ đánh tốt nhất.
+'bóng tự bay đi' khi họ đánh tốt nhất.
 
-**1.4 Trạng thái \'Tùng\' (Song) --- Thư giãn chủ động bành trướng cấu
+**1.4 Trạng thái 'Tùng' (Song) --- Thư giãn chủ động bành trướng cấu
 trúc**
 
 Để mạng lưới Biotensegrity trở thành một ống dẫn sóng tối ưu, vận động
-viên phải đưa cơ thể vào trạng thái \'Tùng\' (Song) --- một triết lý võ
+viên phải đưa cơ thể vào trạng thái 'Tùng' (Song) --- một triết lý võ
 học Trung Hoa kết hợp sâu sắc với cơ sinh học hiện đại. Khái niệm
-\'Tùng\' thường bị dịch sai thành \'thả lỏng\', nhưng đây là một sự nhầm
+'Tùng' thường bị dịch sai thành 'thả lỏng', nhưng đây là một sự nhầm
 lẫn tai hại.
 
-\'Tùng\' tuyệt đối không phải là sự lỏng lẻo, rệu rã hay xẹp lép của cơ
+'Tùng' tuyệt đối không phải là sự lỏng lẻo, rệu rã hay xẹp lép của cơ
 bắp (flaccid state). Một cơ thể lỏng lẻo hoàn toàn sẽ sụp xuống đất ---
-đó là trạng thái của người bất tỉnh hoặc đã chết. Ngược lại, \'Tùng\' là
+đó là trạng thái của người bất tỉnh hoặc đã chết. Ngược lại, 'Tùng' là
 sự thư giãn chủ động có mục đích: loại bỏ tất cả các co thắt cơ không
 cần thiết (co cứng đối kháng), trong khi vẫn duy trì một áp suất nội tại
 bành trướng cấu trúc hướng ra ngoài theo mọi chiều (omnidirectional
 elastic expansion).
 
-Hình ảnh tốt nhất để hình dung trạng thái \'Tùng\' là một quả bóng cao
+Hình ảnh tốt nhất để hình dung trạng thái 'Tùng' là một quả bóng cao
 su được bơm căng: nó có áp suất nội tại lớn, đàn hồi hoàn hảo và sẵn
 sàng phản ứng với mọi lực tác động từ bên ngoài, nhưng nó không cứng
 nhắc. Một quả bóng xẹp hơi (lỏng lẻo) sẽ bẹp xuống khi bị đập; một quả
@@ -121,9 +121,9 @@ bóng quá cứng (gồng cứng) sẽ vỡ hoặc dội lực ngược lại g�
 Chỉ quả bóng ở trạng thái áp suất nội tại hoàn hảo mới bật lại với tốc
 độ tối đa.
 
-Về mặt cơ sinh học, trạng thái \'Tùng\' bành trướng tạo ra một cấu trúc
+Về mặt cơ sinh học, trạng thái 'Tùng' bành trướng tạo ra một cấu trúc
 căng trước (pre-stressed tensegrity) hoàn mỹ, giữ cho các khớp xương
-luôn \'mở\' và có khoảng không gian khớp (joint space) lý tưởng. Khi cấu
+luôn 'mở' và có khoảng không gian khớp (joint space) lý tưởng. Khi cấu
 trúc bị gồng cứng do tâm lý căng thẳng, các sợi mạc cơ bị xoắn bện và bó
 chặt, biến môi trường truyền dẫn từ trạng thái chất lỏng đàn hồi mượt mà
 thành một khối đặc nghẽn, làm tiêu hao và dội ngược năng lượng sóng, gây
@@ -153,7 +153,7 @@ xây dựng trên nền tảng triết học này.
 **CHƯƠNG 2 ĐỘNG LỰC HỌC SÓNG PHẢN LỰC MẶT ĐẤT (GRF) VÀ TRẠM BIẾN ÁP ĐAN
 ĐIỀN**
 
-**2.1 Khai thác \'Pin Trái Đất\' --- Nguồn năng lượng vô tận**
+**2.1 Khai thác 'Pin Trái Đất' --- Nguồn năng lượng vô tận**
 
 Một trong những nhận thức sâu sắc nhất trong hệ thống IPS là sự hiểu
 biết về nguồn gốc thực sự của năng lượng trong một cú đánh tennis đỉnh
@@ -169,7 +169,7 @@ mọi lực tác dụng đều có một phản lực ngược chiều và cùng
 đương. Đây không phải là một khái niệm mới, nhưng cách IPS khai thác và
 dẫn truyền lực phản hồi này mới là điểm cách mạng.
 
-Trục chân bám đất đóng vai trò như một đầu kết nối vào \'Pin Trái Đất\'.
+Trục chân bám đất đóng vai trò như một đầu kết nối vào 'Pin Trái Đất'.
 Khi vận động viên thực hiện pha hạ trọng tâm tích lũy (loading phase),
 lòng bàn chân --- chủ yếu là phần forefoot (phần bóng của bàn chân, phía
 trước gót) --- nén mạnh xuống mặt sân với một lực bằng tổng khối lượng
@@ -186,15 +186,15 @@ dọc theo cấu trúc xương chày, xương đùi và cột sống với vận
 **2.2 Cơ chế Stiffness Lock --- Biến chân trụ thành cột dẫn động năng**
 
 Để sóng dọc từ mặt đất không bị triệt tiêu giữa chừng, hệ thống IPS yêu
-cầu một điều kiện đặc biệt quan trọng: trạng thái \'cứng nhắc thẳng đứng
-nhất thời\' (stiffness lock) trong khoảng thời gian cực ngắn khoảng 50ms
+cầu một điều kiện đặc biệt quan trọng: trạng thái 'cứng nhắc thẳng đứng
+nhất thời' (stiffness lock) trong khoảng thời gian cực ngắn khoảng 50ms
 ngay tại thời điểm đạp đất. Đây là một trong những kỹ thuật tinh tế và
 khó thành thạo nhất trong toàn bộ hệ thống IPS.
 
 Stiffness lock không có nghĩa là gồng cứng toàn thân. Nó có nghĩa là tạo
 ra một sự cứng nhắc tức thời, có kiểm soát và khu trú tại cột xương
 thẳng đứng từ mặt đất lên hông, trong khi phần thân trên vẫn duy trì
-trạng thái \'Tùng\' bành trướng. Hình ảnh tốt nhất là một cây sào chống:
+trạng thái 'Tùng' bành trướng. Hình ảnh tốt nhất là một cây sào chống:
 cứng dọc trục để truyền lực, nhưng không có trở kháng theo phương ngang.
 
 Khi stiffness lock được thực hiện đúng, chân trụ trở thành một cột dẫn
@@ -233,11 +233,11 @@ chéo đùi và hông vào trạng thái co rút đàn hồi (Stretch-Shortening
 
 Vùng lõi cơ thể, hay phức hợp Hông - Chậu - Thắt lưng (LPHC ---
 Lumbo-Pelvic-Hip Complex), trong hệ thống võ học và cơ sinh học tích hợp
-được gọi là Đan điền (Dantian). Đây là \'trạm biến áp\' và là trung tâm
+được gọi là Đan điền (Dantian). Đây là 'trạm biến áp' và là trung tâm
 điều phối năng lượng tối cao của toàn bộ hệ thống IPS.
 
-Thuật ngữ \'Đan điền\' xuất phát từ triết học Đạo gia và Nho gia Trung
-Hoa, có nghĩa đen là \'cánh đồng thuốc cường tráng\'. Trong hàng ngàn
+Thuật ngữ 'Đan điền' xuất phát từ triết học Đạo gia và Nho gia Trung
+Hoa, có nghĩa đen là 'cánh đồng thuốc cường tráng'. Trong hàng ngàn
 năm, các võ sĩ, thiền sư và vận động viên Châu Á đã nhận ra tầm quan
 trọng của vùng này như một trung tâm năng lượng của cơ thể. Khoa học cơ
 sinh học hiện đại giờ đây cung cấp nền tảng cơ học để giải thích tại sao
@@ -247,8 +247,8 @@ Khi các sóng dọc thẳng đứng từ chân chạm mốc Đan điền, cấu
 của vùng lõi --- bao gồm cơ hoành (diaphragm), cơ sàn chậu (pelvic
 floor), cơ bụng ngang (transversus abdominis) và cơ đa nứt cột sống
 (multifidus) --- lập tức thực hiện một pha nén xung ngắn (Core Pulse)
-diễn ra trong khoảng 25-40ms. Bốn nhóm cơ này tạo thành một \'hộp áp
-suất\' khép kín xung quanh vùng thắt lưng, hoạt động như một buồng tích
+diễn ra trong khoảng 25-40ms. Bốn nhóm cơ này tạo thành một 'hộp áp
+suất' khép kín xung quanh vùng thắt lưng, hoạt động như một buồng tích
 năng lượng thuỷ lực.
 
 Pha nén này đóng vai trò bẻ ghi quỹ đạo lực: chuyển hóa toàn bộ sóng dọc
@@ -268,7 +268,7 @@ bộ --- thì dù vai có mạnh đến đâu, dù cổ tay có linh hoạt đ�
 năng lượng đầu vào của hệ thống sẽ gần bằng không.
 
 Đây là lý do tại sao trong quá trình huấn luyện IPS, footwork không bao
-giờ được coi là \'kỹ năng phụ\' hay \'phần chuẩn bị\' --- nó là nhà máy
+giờ được coi là 'kỹ năng phụ' hay 'phần chuẩn bị' --- nó là nhà máy
 điện của toàn bộ hệ thống. Mọi giờ tập footwork đều là giờ tập kỹ thuật
 đánh bóng, vì không có điểm bàn chân đúng thì không có cú đánh đúng.
 
@@ -328,7 +328,7 @@ xung lực phản hồi chấn động (shock wave) dội ngược từ quả b�
 xúc sẽ bị triệt tiêu ngay tại điểm nút này. Năng lượng chấn động không
 thể truyền qua bàn tay để chạy ngược vào xương cổ tay và khớp khuỷu.
 
-Trên cơ thể, thông qua trạng thái \'Tùng\' bành trướng cấu trúc, vận
+Trên cơ thể, thông qua trạng thái 'Tùng' bành trướng cấu trúc, vận
 động viên biến các khớp cổ tay và khuỷu tay thành các nút sóng thụ động.
 Các khớp này không chủ động co thắt hay gồng giữ lực, mà giữ vai trò cố
 định trục để cho các dải mạc cơ bao quanh co giãn tự do. Việc đưa khớp
@@ -355,7 +355,7 @@ Sự hội tụ của sóng dọc thẳng đứng và sóng xoắn ngang đượ
 bùng nổ (Fajin) trong một cửa sổ thời gian cực ngắn dưới 150ms tại mặt
 vợt. Khi đầu vợt chạm tọa độ Antinode, nó đạt tốc độ dòng chảy động năng
 cực hạn mà không cần bất kỳ nỗ lực gồng ép cơ bắp đơn lẻ nào từ cánh
-tay. Cánh tay lúc này vận hành như một \'chiếc roi thụ động\' (Passive
+tay. Cánh tay lúc này vận hành như một 'chiếc roi thụ động' (Passive
 Whip) được quất đi bởi xung sóng áp suất khổng lồ.
 
 **3.4 Thực hành --- Nhận biết và hiệu chỉnh Node/Antinode**
@@ -369,7 +369,7 @@ bóng bật ra với tốc độ và độ xoáy vượt xa so với nỗ lực 
 
 Ngược lại, một cú đánh Destructive Interference sẽ có: rung động dữ dội
 tại cổ tay và khuỷu tay (năng lượng phản hồi chạy ngược), âm thanh cú
-đánh đục và khô, cảm giác \'quất vào bông\' --- nhiều công sức nhưng ít
+đánh đục và khô, cảm giác 'quất vào bông' --- nhiều công sức nhưng ít
 kết quả. Nhận ra sự khác biệt này trong cảm giác cú đánh là kỹ năng
 biofeedback cốt lõi mà mọi vận động viên IPS phải phát triển trong giai
 đoạn huấn luyện ban đầu.
@@ -380,13 +380,13 @@ PHI TUYẾN**
 **4.1 Dải chéo trước (Anterior Oblique Sling --- AOS)**
 
 Cơ thể vận hành các cú đánh xoay trục không qua các nhóm cơ riêng lẻ mà
-qua các dải xích mạc cơ chạy chéo thân người --- những \'xa lộ\' sinh
+qua các dải xích mạc cơ chạy chéo thân người --- những 'xa lộ' sinh
 học được tối ưu hóa qua hàng triệu năm tiến hóa để truyền dẫn lực xoay.
 Hiểu biết về những dải mạc cơ này là chìa khóa để giải phóng tiềm năng
 thể thao ở cấp độ hoàn toàn mới.
 
 Mạch quan trọng nhất trong các cú groundstroke tấn công là Dải chéo
-trước (Anterior Oblique Sling --- AOS). Tên gọi \'chéo trước\' mô tả
+trước (Anterior Oblique Sling --- AOS). Tên gọi 'chéo trước' mô tả
 chính xác hình dạng và vị trí của nó: đây là một con đường cơ và mạc cơ
 liên tục, chạy theo đường chéo từ trước, kết nối cơ ngực lớn (Pectoralis
 Major) → cơ chéo bụng ngoài (External Oblique) → dải mạc chéo liên kết →
@@ -414,8 +414,8 @@ kết nối cơ lưng rộng (Latissimus Dorsi) một bên với cơ mông lớn
 Maximus) đối bên thông qua lớp mạc ngực-thắt lưng (Thoracolumbar Fascia)
 dày đặc.
 
-Nếu AOS là hệ thống \'phóng lực ra trước\', thì POS là hệ thống \'neo
-giữ và phanh an toàn\'. POS đóng vai trò cốt tủy trong hai giai đoạn
+Nếu AOS là hệ thống 'phóng lực ra trước', thì POS là hệ thống 'neo
+giữ và phanh an toàn'. POS đóng vai trò cốt tủy trong hai giai đoạn
 quan trọng: ổn định trục cột sống trong suốt pha xoay phát kình và tạo
 lực hãm đàn hồi an toàn trong pha kết thúc cú đánh (follow-through).
 
@@ -453,7 +453,7 @@ cách có chủ đích thông qua trạng thái thư giãn bành trướng. Sự
 xoắn ốc này kéo căng dải mạc cơ AOS đến giới hạn cực hạn --- giống như
 kéo căng một dải cao su đại bàng.
 
-Khoảng thời gian độ trễ \'điểm ngọt\' lý tưởng được tính toán bằng thực
+Khoảng thời gian độ trễ 'điểm ngọt' lý tưởng được tính toán bằng thực
 nghiệm nằm trong khoảng từ 40ms đến 80ms. Nếu vai được thả ra quá sớm
 (delay \< 40ms), dải AOS không kịp đạt độ căng tối đa và lực bùng nổ bị
 giảm đi đáng kể. Nếu vai được giữ lại quá lâu (delay \> 80ms), cơ bắp
@@ -482,8 +482,8 @@ bộ có thể gửi xuống.
 
 Trong hệ thống IPS, SSC được khai thác ở mọi cấp độ: từ gân gót trong
 đạp đất, đến cơ lưng trong loading phase, đến mạc cơ AOS trong X-Factor
-delay. Kỹ năng quan trọng là biết thời điểm \'thả\' --- tức là kết thúc
-pha kéo giãn và kích hoạt pha giải phóng --- đúng vào \'điểm ngọt\' để
+delay. Kỹ năng quan trọng là biết thời điểm 'thả' --- tức là kết thúc
+pha kéo giãn và kích hoạt pha giải phóng --- đúng vào 'điểm ngọt' để
 thu hoạch tối đa năng lượng đàn hồi.
 
 **CHƯƠNG 5 SỰ XOAY TRONG CỦA VAI (ISR) VÀ HỆ THỐNG THỊ GIÁC THẦN KINH
@@ -513,7 +513,7 @@ chứng minh ISR đóng góp tới hơn 40% vào tổng vận tốc đầu vợt
 
 Điểm then chốt là ISR phải được kích hoạt bởi xung sóng từ Đan điền
 truyền lên, không phải bởi lực co cơ chủ động của chính vai. Khi vận
-động viên cố tình \'quất tay\' để tạo ISR, các cơ xoay trong (teres
+động viên cố tình 'quất tay' để tạo ISR, các cơ xoay trong (teres
 major, subscapularis) bị kích hoạt quá sớm và đồng thời với các cơ đối
 kháng, tạo ra nhiễu cơ học. Khi ISR xảy ra như hệ quả tự nhiên của sóng
 áp suất từ Đan điền đẩy lên, nó diễn ra hoàn toàn tự do, không bị kiềm
@@ -523,7 +523,7 @@ hãm --- và đây chính là khoảnh khắc Fajin thực sự xảy ra.
 
 Trong khi các chương trước tập trung vào hệ thống cơ học vật lý của cơ
 thể, đây là lúc chúng ta bước vào chiều kích thứ ba của hệ thống IPS:
-thần kinh học và tâm lý thể thao. Quiet Eye (QE) --- hay \'Mắt Tĩnh\'
+thần kinh học và tâm lý thể thao. Quiet Eye (QE) --- hay 'Mắt Tĩnh'
 --- là một khám phá cách mạng của nhà khoa học thể thao Joan Vickers tại
 Đại học Calgary (Canada), được công bố lần đầu năm 1996 và kể từ đó đã
 thay đổi hoàn toàn cách huấn luyện thị giác trong thể thao đỉnh cao.
@@ -582,8 +582,8 @@ vợt mà không kích hoạt hệ thống phanh an toàn thần kinh. Kết qu�
 Hệ thống IPS áp dụng một nguyên tắc huấn luyện thần kinh học gây tranh
 cãi nhưng được chứng minh mạnh mẽ: cấm tuyệt đối việc sử dụng Tiêu điểm
 chú ý bên trong (Internal Focus) trong lúc thi đấu. Internal Focus nghĩa
-là tập trung vào chi tiết cơ thể: \'gập cổ tay thế nào\', \'mở khuỷu tay
-bao nhiêu độ\', \'vai xoay lúc nào\'. Đây là kiểu hướng dẫn phổ biến
+là tập trung vào chi tiết cơ thể: 'gập cổ tay thế nào', 'mở khuỷu tay
+bao nhiêu độ', 'vai xoay lúc nào'. Đây là kiểu hướng dẫn phổ biến
 nhất trong huấn luyện tennis truyền thống --- và nó là một sai lầm.
 
 Nghiên cứu của Gabriele Wulf tại Đại học Nevada (UNLV) và nhiều nhóm
@@ -603,13 +603,13 @@ tối đa 120 m/s --- nhanh hơn 50 lần so với xử lý ý thức.
 
 **CHƯƠNG 6 HỌC TẬP VI SAI (DIFFERENTIAL LEARNING) VÀ FASCIAL FITNESS**
 
-**6.1 Phá vỡ ảo tưởng \'Kỹ thuật hoàn hảo\' --- Nhiễu hệ thống là bạn**
+**6.1 Phá vỡ ảo tưởng 'Kỹ thuật hoàn hảo' --- Nhiễu hệ thống là bạn**
 
 Trong nhiều thập kỷ, mô hình huấn luyện thể thao truyền thống hoạt động
-theo một nguyên tắc tưởng chừng hiển nhiên: tìm ra \'kỹ thuật hoàn
-hảo\', dạy cho vận động viên thực hiện đúng kỹ thuật đó, và yêu cầu họ
+theo một nguyên tắc tưởng chừng hiển nhiên: tìm ra 'kỹ thuật hoàn
+hảo', dạy cho vận động viên thực hiện đúng kỹ thuật đó, và yêu cầu họ
 lặp lại hàng vạn lần cho đến khi nó trở thành thứ tự động. Phương pháp
-này được gọi là \'blocked practice\' hay \'massed repetition\' và nó vẫn
+này được gọi là 'blocked practice' hay 'massed repetition' và nó vẫn
 là nền tảng của phần lớn các chương trình huấn luyện tennis trên toàn
 thế giới.
 
@@ -617,8 +617,8 @@ Khoa học vận động hiện đại, đặc biệt là công trình của nh�
 Wolfgang Schöllhorn tại Đại học Mainz (Đức), đã chứng minh đây là một
 sai lầm nghiêm trọng hủy hoại tính phi tuyến của hệ thần kinh.
 Schöllhorn đề xuất lý thuyết Học tập vi sai (Differential Learning) dựa
-trên nền tảng động lực học phi tuyến và khẳng định: không có một \'kỹ
-thuật hoàn hảo\' cố định cho tất cả mọi người vì mỗi cơ thể có cấu trúc
+trên nền tảng động lực học phi tuyến và khẳng định: không có một 'kỹ
+thuật hoàn hảo' cố định cho tất cả mọi người vì mỗi cơ thể có cấu trúc
 tensegrity độc nhất. Kỹ thuật tối ưu là khả năng thích nghi không gian
 liên tục của cơ thể với mọi tình huống bóng.
 
@@ -677,7 +677,7 @@ Một thực tế quan trọng cần hiểu là cấu trúc mạc cơ thay đổ
 chậm hơn nhiều so với cơ bắp. Trong khi cơ bắp có thể phát triển đáng kể
 trong 4-8 tuần tập luyện, cấu trúc mạc cơ cần 6 tháng đến 2 năm luyện
 tập liên tục để tái cấu trúc hoàn toàn. Đây là lý do tại sao IPS là một
-hành trình dài hạn, không phải một phương pháp \'nhanh\'. Nhưng khi
+hành trình dài hạn, không phải một phương pháp 'nhanh'. Nhưng khi
 fascia được nâng cấp hoàn toàn, lợi ích là vĩnh cửu và không thể đạt
 được bằng bất kỳ phương pháp tập luyện cơ bắp nào khác.
 
@@ -716,82 +716,82 @@ Ba tầng bậc này tương ứng hoàn hảo với ba hệ thống khoa học 
 Tinh tương ứng với hệ thống cơ học sinh học (biomechanics), Khí tương
 ứng với hệ thống năng lượng và dẫn truyền sóng (biodynamics), và Thần
 tương ứng với hệ thống thần kinh và nhận thức (neuroscience and sports
-psychology). Điều thú vị là mô hình cổ đại này đã \'phân loại\' đúng ba
+psychology). Điều thú vị là mô hình cổ đại này đã 'phân loại' đúng ba
 hệ thống mà khoa học hiện đại mất hàng thế kỷ để xác định và nghiên cứu
 riêng lẻ.
 
 **7.2 Tinh --- Cấu trúc vật chất Tensegrity toàn vẹn**
 
-\'Tinh\' là tầng bậc cơ bản nhất của hệ thống IPS, đại diện cho toàn bộ
+'Tinh' là tầng bậc cơ bản nhất của hệ thống IPS, đại diện cho toàn bộ
 khía cạnh vật chất cấu trúc của cơ thể vận động viên. Đây là nền tảng
 không thể thiếu --- giống như phần cứng (hardware) của một hệ thống máy
 tính. Dù phần mềm (software) có tinh vi đến đâu, nếu phần cứng bị hỏng
 hoặc không đủ năng lực, hệ thống sẽ thất bại.
 
-Ở trạng thái \'Tinh\' hợp nhất, cơ thể đạt được cấu trúc Biotensegrity
-lý tưởng thông qua trạng thái \'Tùng\' bành trướng áp suất nội tại. Mọi
+Ở trạng thái 'Tinh' hợp nhất, cơ thể đạt được cấu trúc Biotensegrity
+lý tưởng thông qua trạng thái 'Tùng' bành trướng áp suất nội tại. Mọi
 thành phần xương treo lơ lửng hoàn hảo trong mạng lưới mạc cơ căng mở ổn
 định. Các tọa độ khớp quan trọng được định vị chính xác tại các điểm Nút
 sóng (Node) vật lý để triệt tiêu hoàn toàn các phản lực gây hại từ quả
 bóng dội ngược vào cơ thể. Hệ thống fascia ở trạng thái độ nhớt hoàn hảo
 --- không quá lỏng (không truyền lực) và không quá cứng (nghẽn lực).
 
-Các chỉ số kiểm tra \'Tinh\': vận động viên có thể đứng trên một chân
+Các chỉ số kiểm tra 'Tinh': vận động viên có thể đứng trên một chân
 trong 60 giây mà không dao động không? Bước đi của họ có im lặng hoàn
-toàn không? Khi đứng trong tư thế chuẩn bị tennis, họ có cảm thấy \'bám
-rễ\' vào mặt đất như một cái cây không? Nếu tất cả đều có, \'Tinh\' đang
+toàn không? Khi đứng trong tư thế chuẩn bị tennis, họ có cảm thấy 'bám
+rễ' vào mặt đất như một cái cây không? Nếu tất cả đều có, 'Tinh' đang
 ở trạng thái tốt.
 
 **7.3 Khí --- Động lực học sóng và trường năng lượng**
 
-\'Khí\' trong hệ thống cơ sinh học hiện đại chính là sự vận hành chuyển
+'Khí' trong hệ thống cơ sinh học hiện đại chính là sự vận hành chuyển
 động của các làn Sóng động năng phi tuyến xuyên suốt cơ thể. Một điều
-quan trọng cần nhấn mạnh: \'Khí\' không phải là một thế lực huyền bí vô
+quan trọng cần nhấn mạnh: 'Khí' không phải là một thế lực huyền bí vô
 hình hay siêu nhiên. Nó có thể được đo lường bằng tốc độ dòng chảy năng
 lượng trích xuất từ GRF, được quan sát qua phân tích vận tốc đầu vợt và
 được cảm nhận qua chất lượng cú đánh.
 
-Khi \'Khí\' thông suốt --- tức là khi tất cả các kênh dẫn truyền sóng
+Khi 'Khí' thông suốt --- tức là khi tất cả các kênh dẫn truyền sóng
 đang hoạt động không bị tắc nghẽn --- vận động viên trải nghiệm cảm giác
-đặc biệt mà nhiều tay vợt Elite mô tả là: \'bóng tự bay đi\', \'tôi
-không đánh, tôi để cú đánh xảy ra\', \'cảm giác nhẹ bổng dù bóng đi rất
-mạnh\'. Đây chính xác là mô tả cảm giác khi xung lực tác động vào bóng
+đặc biệt mà nhiều tay vợt Elite mô tả là: 'bóng tự bay đi', 'tôi
+không đánh, tôi để cú đánh xảy ra', 'cảm giác nhẹ bổng dù bóng đi rất
+mạnh'. Đây chính xác là mô tả cảm giác khi xung lực tác động vào bóng
 đạt sự cộng hưởng biên độ tối thượng trong cửa sổ thời gian dưới 150ms
 mà không tốn sức cơ bắp.
 
-Ngược lại, khi \'Khí\' bị tắc --- thường là do \'Tinh\' không ở trạng
-thái tốt (cơ thể gồng cứng) hoặc do \'Thần\' bị loạn (tâm lý căng thẳng)
+Ngược lại, khi 'Khí' bị tắc --- thường là do 'Tinh' không ở trạng
+thái tốt (cơ thể gồng cứng) hoặc do 'Thần' bị loạn (tâm lý căng thẳng)
 --- vận động viên cảm thấy đánh nặng, mỏi tay nhanh, bóng không có lực
 dù đã cố sức. Đây là dấu hiệu rõ ràng của nghẽn sóng tại một hay nhiều
 điểm trong chuỗi dẫn truyền.
 
 **7.4 Thần --- Thần thức tĩnh lặng và trạng thái Vô tâm (Mushin)**
 
-\'Thần\' là tầng bậc tối cao của hệ thống IPS, đại diện cho hệ thống
+'Thần' là tầng bậc tối cao của hệ thống IPS, đại diện cho hệ thống
 điều khiển thần kinh trung ương và thần thức của vận động viên. Đây là
-tầng \'hệ điều hành\' (operating system) của toàn bộ cơ thể. Dù phần
+tầng 'hệ điều hành' (operating system) của toàn bộ cơ thể. Dù phần
 cứng (Tinh) và các kênh truyền dẫn (Khí) hoàn hảo, nếu hệ điều hành gặp
 sự cố --- tức là tâm lý bị dao động, căng thẳng hay lo lắng --- toàn bộ
 hệ thống sẽ sụp đổ.
 
-\'Thần\' được neo giữ vững chắc thông qua giao thức thị giác Quiet Eye
-và kỹ thuật đóng băng trục đầu-gáy. Khi \'Thần\' đạt tới độ tĩnh lặng
+'Thần' được neo giữ vững chắc thông qua giao thức thị giác Quiet Eye
+và kỹ thuật đóng băng trục đầu-gáy. Khi 'Thần' đạt tới độ tĩnh lặng
 cực hạn, vận động viên bước vào trạng thái Vô tâm (Mushin) --- một khái
-niệm từ Thiền Tông và Võ đạo Nhật Bản, có nghĩa đen là \'không tâm\' hay
-\'tâm không chứa gì\'.
+niệm từ Thiền Tông và Võ đạo Nhật Bản, có nghĩa đen là 'không tâm' hay
+'tâm không chứa gì'.
 
 Mushin không phải là trạng thái vô cảm hay thờ ơ. Đây là trạng thái mà
 vỏ não vận hành ý thức hoàn toàn rút lui, nhường toàn quyền điều khiển
 trận đấu cho Hạch nền và các chương trình vận động tự động đã được
-Myelin hóa. Vận động viên không còn \'nghĩ về cú đánh\', không còn \'cố
-gắng bình tĩnh\', họ thoát ly khỏi cái tôi cá nhân để trở thành chính
+Myelin hóa. Vận động viên không còn 'nghĩ về cú đánh', không còn 'cố
+gắng bình tĩnh', họ thoát ly khỏi cái tôi cá nhân để trở thành chính
 trường sóng phi tuyến sống động đang vận hành trên sân đấu.
 
 **7.5 Trạng thái Flow và sự hợp nhất Tinh --- Khí --- Thần**
 
-Trạng thái \'Flow\' --- được nhà tâm lý học Mihaly Csikszentmihalyi mô
+Trạng thái 'Flow' --- được nhà tâm lý học Mihaly Csikszentmihalyi mô
 tả và nghiên cứu từ những năm 1970 --- là tên khoa học cho điều mà các
-vận động viên gọi là \'in the zone\' hay \'ở đỉnh cao\'. Flow xảy ra khi
+vận động viên gọi là 'in the zone' hay 'ở đỉnh cao'. Flow xảy ra khi
 một người hoàn toàn đắm chìm vào một hoạt động, thời gian trôi qua không
 cảm nhận được, hành động diễn ra tự nhiên và hiệu suất đạt mức tối đa mà
 không cần nỗ lực ý thức.
@@ -809,11 +809,11 @@ hoạt động tối ưu đồng thời.
 **8.1 Từ kỹ thuật sang chiến thuật --- Bước nhảy vọt của hệ thống**
 
 Sáu chương đầu đã xây dựng nền tảng kỹ thuật vận động hoàn chỉnh cho hệ
-thống IPS. Đây là phần \'cơ thể học\' của vận động viên --- cách cơ thể
+thống IPS. Đây là phần 'cơ thể học' của vận động viên --- cách cơ thể
 tạo ra và dẫn truyền năng lượng. Nhưng tennis không chỉ là môn thể thao
 của kỹ thuật --- đó là môn thể thao của chiến thuật không gian và tâm
-lý. Chương này đánh dấu bước chuyển từ \'đánh như thế nào\' sang \'đánh
-vào đâu, khi nào và tại sao\'.
+lý. Chương này đánh dấu bước chuyển từ 'đánh như thế nào' sang 'đánh
+vào đâu, khi nào và tại sao'.
 
 Hệ thống Full Match OS (Full Match Operating System) biến vận động viên
 từ một người phản ứng theo bóng --- đánh bóng đến đâu thì đánh lại đó
@@ -864,8 +864,8 @@ hoặc Down-the-Line Surprise để tấn công. Zone 4 (Finish Zone --- gần
 lưới) ánh xạ sang Volley hoặc Angled Winner để kết thúc điểm.
 
 Quan trọng nhất, Shot Selection OS không phải là một hệ thống cứng nhắc
---- nó là một hệ thống xác suất. Trong mỗi zone, có một cú đánh \'mặc
-định an toàn\' và các cú đánh \'tấn công rủi ro cao\'. Shot Selection OS
+--- nó là một hệ thống xác suất. Trong mỗi zone, có một cú đánh 'mặc
+định an toàn' và các cú đánh 'tấn công rủi ro cao'. Shot Selection OS
 tự động điều chỉnh giữa an toàn và tấn công dựa trên mức độ thăng bằng
 cơ thể: nếu vận động viên đang ở tư thế mất thăng bằng, hệ thống tự động
 chọn cú đánh an toàn hơn bất kể họ đang ở Zone 3 hay Zone 4.
@@ -880,7 +880,7 @@ cách đơn lẻ --- họ nhìn toàn bộ sân đấu như một Bản đồ nh
 Sân đấu được phân chia thành các phổ nhiệt độ tâm lý: vùng sau baseline
 là màu xanh lạnh (cần thời gian và sự an toàn), vùng neutral là xanh lá
 (kiểm soát và thăm dò), vùng attack và finish là đỏ nóng (tấn công và
-kết thúc). Vận động viên được huấn luyện để \'cảm nhận màu sắc\' này
+kết thúc). Vận động viên được huấn luyện để 'cảm nhận màu sắc' này
 trong vô thức --- quyết định chiến thuật xảy ra tự động mà không cần suy
 nghĩ có ý thức.
 
@@ -901,7 +901,7 @@ giới hạn sụp đổ.
 
 Vòng lặp câu lệnh gồm bốn từ: MOVE (khi đối thủ chạm bóng --- kích hoạt
 micro-bounce và split step, ngăn hệ thống bị đóng băng), SEE (khóa nhãn
-cầu vào bóng, kích hoạt Quiet Eye), SIMPLE (thả lỏng về \'Tùng\', ưu
+cầu vào bóng, kích hoạt Quiet Eye), SIMPLE (thả lỏng về 'Tùng', ưu
 tiên đưa bóng sâu an toàn thay vì cố đánh điểm ngay), NEXT (ngay sau
 impact --- xóa bỏ mọi phân tích lỗi, reset tâm lý về điểm không để tiếp
 tục).
@@ -924,8 +924,8 @@ hành --- thông qua các giao thức huấn luyện ngắn gọn, có thể áp
 trực tiếp với khẩu lệnh huấn luyện viên thực tế.
 
 Mỗi giao thức huấn luyện được xây dựng theo cấu trúc ba phần: bản chất
-cơ sinh học (giải thích \'tại sao\'), drill thực hành (giải thích \'như
-thế nào\') và coach voice command (giải thích \'câu lệnh cụ thể\'). Ba
+cơ sinh học (giải thích 'tại sao'), drill thực hành (giải thích 'như
+thế nào') và coach voice command (giải thích 'câu lệnh cụ thể'). Ba
 phần này phải được dạy và học đồng thời --- nếu chỉ dạy drill mà không
 giải thích bản chất, vận động viên sẽ thực hiện đúng phong trào nhưng
 sai bản chất. Nếu chỉ giải thích lý thuyết mà không có drill và câu
@@ -936,10 +936,10 @@ lệnh, kiến thức sẽ không thể chuyển hóa thành kỹ năng thần k
 Bản chất: Forehand Sóng là cú thuận tay được thực hiện theo toàn bộ
 chuỗi IPS --- lực đi từ gót chân phải, nén qua rốn (Đan điền), kéo căng
 dải AOS và phóng đại biên độ thành một Antinode tại đầu vợt. Tên gọi
-\'Sóng\' phản ánh bản chất của cú đánh: không phải một hành động gồng
+'Sóng' phản ánh bản chất của cú đánh: không phải một hành động gồng
 cứng mà là một sóng năng lượng chạy qua cơ thể.
 
-Drill thực hành trung tâm là \'Waving to Opponent\' (Vẫy tay với đối
+Drill thực hành trung tâm là 'Waving to Opponent' (Vẫy tay với đối
 thủ). Trong pha chuẩn bị cú forehand, tay trái (tay không thuận) phải
 duỗi thẳng vẫy ngang về phía đối thủ --- không phải để chào hỏi mà để
 khóa dải AOS chéo ngực, giữ cho vai phải không bị xoay sớm trước khi Đan
@@ -948,12 +948,12 @@ vào lồng ngực để tăng tốc độ góc xoay của vai phải theo đị
 toàn động lượng quay --- tương tự như một vận động viên trượt băng nghệ
 thuật thu tay vào để quay nhanh hơn.
 
-Khẩu lệnh huấn luyện viên thực chiến: \'ĐI SỚM! THẤY BÓNG LÀ ĐI LIỀN,
-ĐỪNG ĐỨNG NHÌN!\' kích hoạt FRS và Footwork OS. \'XOAY NGƯỜI! THẢ LỎNG
-TAY RA, ĐỪNG GỒNG CỨNG!\' kích hoạt cấu trúc Tensegrity và trạng thái
-Tùng. \'THÂN ĐÁNH, TAY THẢ! ĐẤT ĐẨY LÊN RỐN, RỐN NỔ RA VỢT!\' kích hoạt
-GRF và Đan điền Pulse. \'ĐÓNG BĂNG CÁI ĐẦU! NHÌN CHẾT VÀO ĐIỂM TIẾP
-XÚC!\' kích hoạt Quiet Eye và ức chế VOR.
+Khẩu lệnh huấn luyện viên thực chiến: 'ĐI SỚM! THẤY BÓNG LÀ ĐI LIỀN,
+ĐỪNG ĐỨNG NHÌN!' kích hoạt FRS và Footwork OS. 'XOAY NGƯỜI! THẢ LỎNG
+TAY RA, ĐỪNG GỒNG CỨNG!' kích hoạt cấu trúc Tensegrity và trạng thái
+Tùng. 'THÂN ĐÁNH, TAY THẢ! ĐẤT ĐẨY LÊN RỐN, RỐN NỔ RA VỢT!' kích hoạt
+GRF và Đan điền Pulse. 'ĐÓNG BĂNG CÁI ĐẦU! NHÌN CHẾT VÀO ĐIỂM TIẾP
+XÚC!' kích hoạt Quiet Eye và ức chế VOR.
 
 **9.3 Giao thức Giao bóng máy bắn đá**
 
@@ -964,19 +964,19 @@ hành toàn bộ chuỗi IPS trong điều kiện lý tưởng. Biến cơ thể
 chiếc máy bắn đá trung cổ dựa trên trục quay dọc của động cơ vai ISR kết
 hợp độ trễ X-Factor tối đa.
 
-Drill thực hành \'Trophy-to-Tumble\': Vận động viên vào tư thế cúp
+Drill thực hành 'Trophy-to-Tumble': Vận động viên vào tư thế cúp
 (Trophy Position), hông đẩy sâu vào trong sân tạo đường cong hình cánh
 cung chéo cơ thể --- X-Factor tối đa. Pha tung bóng phải ổn định và hơi
 lao về phía trước. Khi bắt đầu swing, khuỷu tay phải giữ lỏng hoàn toàn.
 Xương cánh tay xoay trục dọc ISR cực tốc đẩy đầu vợt lao thẳng lên đỉnh
 cao nhất giống như một mũi tên được bắn ra từ dây cung mạc cơ --- sau đó
-cơ thể tiếp tục chuyển động xoay và \'ngã\' (tumble) về phía trước theo
+cơ thể tiếp tục chuyển động xoay và 'ngã' (tumble) về phía trước theo
 đà sóng.
 
-Khẩu lệnh huấn luyện viên: \'ĐẨY HÔNG VÀO! CĂNG DÂY CUNG THẢ MŨI TÊN!\'
-kích hoạt X-Factor delay và dải mạc cơ. \'THẢ KHUỶU TAY! TRỤC VAI XOAY,
-TAY KHÔNG QUẤT!\' kích hoạt động cơ ISR xoay trong. \'NÉM VỢT LÊN
-TRỜI!\' --- hình ảnh ném vợt lên không trung giúp vận động viên tự nhiên
+Khẩu lệnh huấn luyện viên: 'ĐẨY HÔNG VÀO! CĂNG DÂY CUNG THẢ MŨI TÊN!'
+kích hoạt X-Factor delay và dải mạc cơ. 'THẢ KHUỶU TAY! TRỤC VAI XOAY,
+TAY KHÔNG QUẤT!' kích hoạt động cơ ISR xoay trong. 'NÉM VỢT LÊN
+TRỜI!' --- hình ảnh ném vợt lên không trung giúp vận động viên tự nhiên
 tạo ra tọa độ Antinode biên độ cực đại tại đầu vợt thay vì đập bóng
 xuống sân với ý thức kiểm soát.
 
@@ -984,22 +984,22 @@ xuống sân với ý thức kiểm soát.
 
 Bản chất: Volley là cú đánh đòi hỏi nguyên tắc hoàn toàn ngược với
 groundstroke. Thay vì một sóng xoáy dài từ chân lên đầu vợt, volley cần
-một xung lực ngắn, rền, tức thì. Ứng dụng mô hình \'one-inch punch\' của
+một xung lực ngắn, rền, tức thì. Ứng dụng mô hình 'one-inch punch' của
 Bruce Lee vào lưới --- không có backswing, không có lăng tay, hoàn toàn
 dựa trên sự khóa cấu trúc Tensegrity nhất thời để tạo xung lực impulse
 ngắn.
 
-Drill thực hành \'The Brick Wall\': Vận động viên đứng ở lưới và triệt
+Drill thực hành 'The Brick Wall': Vận động viên đứng ở lưới và triệt
 tiêu hoàn toàn pha đưa vợt ra sau vai (zero backswing). Toàn bộ cánh tay
 và thân người được hình dung như một khối tường đá Tensegrity được kết
 nối thẳng xuống mặt đất qua chân trụ. Khi bóng đến, chỉ thực hiện một
 pha nén xung cổ tay ngắn dưới 2cm tại điểm nút dao động (Node) để bóng
 tự bật ra với tốc độ cực cao nhờ phản lực đàn hồi của cấu trúc thép.
 
-Khẩu lệnh: \'KHÔNG VUNG TAY! CẤU TRÚC THÉP, BÀN TAY NHUNG!\' ---
-\'thép\' để nhắc nhở về sự cứng rắn của cấu trúc tensegrity, \'nhung\'
-để nhắc nhở về độ nhạy cảm của bàn tay tiếp xúc. \'ĐẤM MỘT INCH! ĐẨY
-CHÂN LÊN CHẶN ĐƯỜNG BÓNG!\' kích hoạt xung lực Impulse transfer ngắn gọn
+Khẩu lệnh: 'KHÔNG VUNG TAY! CẤU TRÚC THÉP, BÀN TAY NHUNG!' ---
+'thép' để nhắc nhở về sự cứng rắn của cấu trúc tensegrity, 'nhung'
+để nhắc nhở về độ nhạy cảm của bàn tay tiếp xúc. 'ĐẤM MỘT INCH! ĐẨY
+CHÂN LÊN CHẶN ĐƯỜNG BÓNG!' kích hoạt xung lực Impulse transfer ngắn gọn
 từ GRF qua chân trụ thẳng lên tay.
 
 **9.5 Giao thức Serve + 1 --- Nén không gian ngay từ cú đầu**
@@ -1017,8 +1017,8 @@ Ngay sau khi tiếp đất serve, lập tức kích hoạt bước chạy cong C
 vòng qua góc trái, sử dụng Forehand Inside-In quất bóng cực mạnh vào góc
 trống của đối thủ khi họ đang lảo đảo chạy phục hồi ngược hướng.
 
-Khẩu lệnh: \'SERVE RỘNG ĐỂ MỞ SÂN! CHÂN CHẠY VÒNG CHỮ C SẴN SÀNG!\' và
-\'ĐÈ THÂN DỨT ĐIỂM VÀO GÓC TRỐNG! KHÔNG CHO HỌ THỞ!\' --- ngôn ngữ chiến
+Khẩu lệnh: 'SERVE RỘNG ĐỂ MỞ SÂN! CHÂN CHẠY VÒNG CHỮ C SẴN SÀNG!' và
+'ĐÈ THÂN DỨT ĐIỂM VÀO GÓC TRỐNG! KHÔNG CHO HỌ THỞ!' --- ngôn ngữ chiến
 tranh trong câu lệnh là có chủ đích: nó kích hoạt não bộ chiến đấu và
 ngăn chặn do dự, tạo ra quyết định tức thì và dứt khoát trong điều kiện
 áp lực cao.
@@ -1095,8 +1095,8 @@ trong đánh đôi. Net Player nhún bước giả vào giữa, dụ đối th�
 dây --- sau đó ngay lập tức đạp chân hồi phục về che góc thủ. Bước giả
 lập này ép não bộ đối thủ rơi vào trạng thái do dự (Hesitation delay \>
 100ms), dẫn đến tự đánh bóng hỏng. Giao tiếp đội hình chỉ dùng ba câu
-lệnh ngắn gọn nhất có thể: \'YOURS\' (kế hoạch serve), \'POACH\' (cắt
-lane), \'NEXT\' (reset đội hình).
+lệnh ngắn gọn nhất có thể: 'YOURS' (kế hoạch serve), 'POACH' (cắt
+lane), 'NEXT' (reset đội hình).
 
 **10.4 Match Card A6 --- Bảng điều khiển tối giản trong thi đấu**
 
@@ -1107,17 +1107,17 @@ nhở thông thường mà là một giao thức tâm lý thần kinh được n
 định dạng cực tiểu.
 
 Mặt trước card chứa ba hệ điều hành vận động cốt lõi với cue câu lệnh
-đơn giản. Footwork OS với câu lệnh \'Stay spring, never stop!\' --- nhắc
+đơn giản. Footwork OS với câu lệnh 'Stay spring, never stop!' --- nhắc
 nhở duy trì micro-bounce và không đứng chết. Swing Trường Sóng với câu
-lệnh \'Tùng vai --- thả tay\' --- nhắc nhở thả lỏng bành trướng và để
-sóng tự chạy. Thị giác và Thần thức với câu lệnh \'Mắt tĩnh --- Vô tâm\'
+lệnh 'Tùng vai --- thả tay' --- nhắc nhở thả lỏng bành trướng và để
+sóng tự chạy. Thị giác và Thần thức với câu lệnh 'Mắt tĩnh --- Vô tâm'
 --- nhắc nhở Quiet Eye và External Focus.
 
 Mặt sau card chứa các giao thức khẩn cấp. Anti-Choke Protocol gồm bốn
-bước: thở mạnh ra tiếng \'HAA\' tại khoảnh khắc impact để xả nhiễu thần
+bước: thở mạnh ra tiếng 'HAA' tại khoảnh khắc impact để xả nhiễu thần
 kinh cơ, sau đó chạy vòng lặp câu lệnh MOVE → SEE → SIMPLE → NEXT. Next
 Ball Reset Protocol: sau lỗi, tuyệt đối không phân tích kỹ thuật trên
-sân, nhìn vào dây vợt, nói to \'NEXT\', hít thở sâu reset nhịp tim, tập
+sân, nhìn vào dây vợt, nói to 'NEXT', hít thở sâu reset nhịp tim, tập
 trung điểm mới. Chiến thuật khi mệt: giảm biên độ swing, tăng height qua
 lưới, đánh sâu crosscourt để mua thời gian hồi phục.
 
@@ -1130,7 +1130,7 @@ câu chuyện của một hệ thống sóng sinh học tự tổ chức, vận 
 không gian bốn chiều, dưới áp lực đối kháng.
 
 Khi vận động viên nội tâm hóa được triết lý này, một điều kỳ diệu xảy
-ra: họ ngừng \'cố gắng đánh tennis\' và bắt đầu \'chạy hệ thống\'. Cú
+ra: họ ngừng 'cố gắng đánh tennis' và bắt đầu 'chạy hệ thống'. Cú
 đánh không còn là hành động ý chí --- nó là kết quả tự nhiên của một hệ
 thống được vận hành đúng đắn. Áp lực không còn là kẻ thù --- nó là đầu
 vào kích hoạt hệ thống. Lỗi không còn là thất bại --- chúng là tín hiệu
@@ -1145,8 +1145,8 @@ khi cú đánh đầu tiên theo đúng trường sóng IPS bùng nổ tại Ant
 đó là khoảnh khắc vận động viên biết rằng họ đã chạm vào điều gì đó thực
 sự khác biệt.
 
-> *\'You don\'t play tennis shots. You run a synchronized bio-wave
-> system under pressure.\' --- Bạn không đánh các cú đánh tennis riêng
+> *'You don't play tennis shots. You run a synchronized bio-wave
+> system under pressure.' --- Bạn không đánh các cú đánh tennis riêng
 > lẻ. Bạn vận hành một hệ thống sóng sinh học đồng bộ dưới áp lực.*
 
 **Kết luận --- IPS và tương lai của tennis đỉnh cao**

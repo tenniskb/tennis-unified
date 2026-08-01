@@ -13,16 +13,14 @@ backswing, ending at contact.
 I presume some would debate that it is the \"most\" complex. Indeed, I
 concede that certain sports possess complicated (and often dangerous)
 feats of strength, balance and motion. Yet having researched the serve
-for many years\--actually decades\--I\'ve noted several attributes of
+for many years\--actually decades\--I've noted several attributes of
 the "power" serve upward swing that support my position.
 
 ![A picture containing text, tennis, player, person Description
 automatically
-generated](media_the-most-complex-motion-in-sports/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"} **Flip\>\>\>** ![A picture containing text, tennis,
+generated](media_the-most-complex-motion-in-sports/media/image1.webp) **Flip\>\>\>** ![A picture containing text, tennis,
 player, person Description automatically
-generated](media_the-most-complex-motion-in-sports/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-complex-motion-in-sports/media/image1.webp)
 
 **The Evidence**
 
@@ -36,8 +34,7 @@ body rotations, many in sequence. And at the end of the upward swing
 these joint rotations must position the racquet into a precise
 orientation with very little margin for error.]{.mark}]{.underline}**
 
-![](media_the-most-complex-motion-in-sports/media/image2.webp){width="2.6041666666666665in"
-height="3.3333333333333335in"}
+![](media_the-most-complex-motion-in-sports/media/image2.webp)
 
 **A side view composite of the upward swing.**
 
@@ -58,7 +55,7 @@ engineered approach, assessing the ends to understand the means, is a
 historical microcosm of how I developed my research of serve mechanics
 over three decades.]{.mark}**
 
-So\...in this serve article let\'s start at the beginning (the end of
+So\...in this serve article let's start at the beginning (the end of
 the serve) as a first step to understand all aspects of the entire serve
 motion. The goal is to describe the serve upward swing motions as a
 precursor to understanding the underlying mechanics, and as a means to
@@ -66,8 +63,7 @@ evaluate other portions of the serve. This information from my doctoral
 dissertation forms the foundation of my coaching methodology.
 
 ![A close-up of a sword Description automatically generated with low
-confidence](media_the-most-complex-motion-in-sports/media/image3.webp){width="2.8020833333333335in"
-height="3.3333333333333335in"}
+confidence](media_the-most-complex-motion-in-sports/media/image3.webp)
 
 **A rear view of the upward swing composite.**
 
@@ -149,8 +145,7 @@ pedagogical capability of players.
 
 ![A picture containing person, sport, tennis, athletic game Description
 automatically
-generated](media_the-most-complex-motion-in-sports/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-most-complex-motion-in-sports/media/image4.webp)
 
 **Take a look at the serve mechanics Brian describes in Novak's upward
 swing.**
@@ -175,7 +170,7 @@ relationships are important and will be explored in future articles.
 
 ![](media_the-most-complex-motion-in-sports/media/image5.wmf)
 
-**Click \'Play\' to hear Brian\'s video explanation of the upward
+**Click 'Play' to hear Brian's video explanation of the upward
 swing.**
 
 # Train Virtually with Brian! 
@@ -189,24 +184,22 @@ construction of stroke mechanics solutions for all players.
 for More Information!
 
 ![A picture containing logo Description automatically
-generated](media_the-most-complex-motion-in-sports/media/image6.png){width="3.1277777777777778in"
-height="3.1277777777777778in"}
+generated](media_the-most-complex-motion-in-sports/media/image6.png)
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                           | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-most-complex-motion-in-sports/media/image7.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                          | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                        | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                        | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                        | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                        | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                        | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                        | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                        | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | To visit his website, [**[Click                               |
-|                                                                                                                                                                                        | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                        | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+========================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-most-complex-motion-in-sports/media/image7.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

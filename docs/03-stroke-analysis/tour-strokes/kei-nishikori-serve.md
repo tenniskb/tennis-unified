@@ -6,17 +6,16 @@
 
 ![A picture containing text, tennis, sport, outdoor Description
 automatically
-generated](media_kei-nishikori-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_kei-nishikori-serve/media/image1.webp)
 
 **What does high speed video of his serve show about the potential
-causes of Kei Nishikori\'s injuries?**
+causes of Kei Nishikori's injuries?**
 
 There was some press coverage earlier this year about the changes Kei
 Nishikori made to his serve motion in response to his chronic wrist and
 shoulder problems. As one writer put it: \"The change to the motion
-comes in the take back. These days Nishikori\'s path to the trophy
-position is more abbreviated. In year\'s past he would draw the racquet
+comes in the take back. These days Nishikori's path to the trophy
+position is more abbreviated. In year's past he would draw the racquet
 low before looping it up to prepare for contact.\" (For more on this
 [Click
 Here](https://www.tennismajors.com/atp-actualite-2/serve-to-survive-nishikori-alters-service-motion-to-preserve-shoulder-career-325210.html).)
@@ -25,19 +24,18 @@ I had to laugh when I read that. Over the years I have filmed Kei many
 times including his serve. My opinion is his shoulder and wrist problems
 have nothing to do with his take back.
 
-If there is one thing we can say about pro service motions it\'s that
+If there is one thing we can say about pro service motions it's that
 there is a wide disparity in the shape of the backswings, ranging from
 classic semi-circular wind ups to highly abbreviated and everything in
 between. None of them have associated with injury.
 
 But regardless of backswing shape, all the great servers do share one
-common element. This element is missing from Kei\'s serve. It\'s the
+common element. This element is missing from Kei's serve. It's the
 rotation of the arm and racket extending into the follow-through after
 contact.
 
 ![A person playing tennis Description automatically
-generated](media_kei-nishikori-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_kei-nishikori-serve/media/image2.webp)
 
 **Backswings from semi-circular, to semi-abbreviated, to extreme
 abbreviated.**
@@ -66,8 +64,7 @@ the drop to parallel to the court at contact. This is roughly 90 degrees
 of arm and racket rotation.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_kei-nishikori-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_kei-nishikori-serve/media/image3.webp)
 
 **The continued rotation of the upper arm, hand, and racket to contact
 and then out into the follow through.**
@@ -87,8 +84,8 @@ The hand, arm and racket have continued to rotate during this
 deceleration phase. They turn about 90 degrees after contact so the
 bottom edge of the racket is perpendicular to the court.
 
-Although the terminology isn\'t correct, this is commonly referred to as
-\"pronation.\" The accurate term is internal shoulder rotation. It\'s
+Although the terminology isn't correct, this is commonly referred to as
+\"pronation.\" The accurate term is internal shoulder rotation. It's
 the seamless continuation of the same rotation that drove the racket
 upward to the contact in the first place.
 
@@ -98,8 +95,7 @@ directly downward at the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_kei-nishikori-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_kei-nishikori-serve/media/image4.webp)
 
 **The acceleration to contact and the deceleration in the
 followthrough.**
@@ -110,9 +106,9 @@ in about the same interval, 1/10 of a second, the racket has dropped
 back down from 90mph to 30 mph.
 
 Think about that! In 2/10s of one second, the racket goes from 30mph to
-90mph and then back from 90mph to 30mph. That\'s a total speed change of
+90mph and then back from 90mph to 30mph. That's a total speed change of
 120mph in a total 2/10s of a second! For more detail on all of this in
-the 3 Dimensional study Brian Gordon and I did of Pete Sampras\'s serve,
+the 3 Dimensional study Brian Gordon and I did of Pete Sampras's serve,
 [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).
 
@@ -120,19 +116,18 @@ A key point is that this wrist release happens well after the rotation
 is complete. Usually it happens when the hand has already fallen into
 the plane of the torso.
 
-It\'s also relatively slight---a few degrees of forward bend at most. If
-the arm is relaxed it\'s probably caused just by gravity as the hand
+It's also relatively slight---a few degrees of forward bend at most. If
+the arm is relaxed it's probably caused just by gravity as the hand
 continues to move downward and across the body.
 
 The timing and amount of this release varies from player to player.
-Sometimes you don\'t See it at all.
+Sometimes you don't See it at all.
 
 **As For Kei**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_kei-nishikori-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_kei-nishikori-serve/media/image5.webp)
 
 **The relaxation of the arm and the relatively small wrist release after
 the rotation.**
@@ -147,7 +142,7 @@ Second, at that point he begins an extreme forward flex of the wrist. It
 starts when the hand is still above his head and continues until the
 wrist is flexed forward at about a 90 degree angle to his arm.
 
-To me it\'s painful to watch. What is that violent end to the rotation
+To me it's painful to watch. What is that violent end to the rotation
 doing to his shoulder? And what about that bizarre extreme forward flex
 doing to his wrist?
 
@@ -161,12 +156,11 @@ and his serve.
 
 I went up and introduced myself to his main coach, who will remain
 nameless, and asked him if he would be willing to look at some
-high-speed footage of Kei\'s serve. Let\'s just say he wasn\'t overly
+high-speed footage of Kei's serve. Let's just say he wasn't overly
 friendly but said he might but later.
 
 ![A person playing tennis Description automatically
-generated](media_kei-nishikori-serve/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_kei-nishikori-serve/media/image6.webp)
 
 **Two fundamental flaws: zero rotation in the followthrough and a
 massive forward wrist snap.**
@@ -177,21 +171,20 @@ but he told me Kei had injured his wrist (again) and they had both left
 town.
 
 I call it the tour coaching bubble. Most tour coaches are former
-lower-level pro players. They aren\'t technical and are often
-anti-technical. This coach eventually left Kei\'s team and I never ran
+lower-level pro players. They aren't technical and are often
+anti-technical. This coach eventually left Kei's team and I never ran
 into him again.
 
-There are a few other factors you could criticize in Kei\'s serve, like
+There are a few other factors you could criticize in Kei's serve, like
 his starting stance, use of the legs and lack of body rotation. But
-those factors usually don\'t do joint damage---at least to the arm.
+those factors usually don't do joint damage---at least to the arm.
 
 If the world changes and I get a chance to watch Kei play again in
-person, maybe I\'ll make one more run at whoever is coaching him then!
+person, maybe I'll make one more run at whoever is coaching him then!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_kei-nishikori-serve/media/image7.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_kei-nishikori-serve/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

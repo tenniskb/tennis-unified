@@ -18,14 +18,14 @@ Phiên bản 1.0 · 2025
 
 **1.1 Chuỗi Động học Từ Dưới Lên**
 
-Trong sinh cơ học thể thao, khái niệm \'chuỗi động học\' (kinetic chain)
+Trong sinh cơ học thể thao, khái niệm 'chuỗi động học' (kinetic chain)
 mô tả cách lực được tạo ra và truyền qua từng khớp của cơ thể. Với
 tennis, chuỗi này luôn bắt đầu từ bàn chân tiếp xúc mặt sân, đi qua mắt
 cá chân, gối, hông, thân trên, vai, cánh tay, cổ tay, và cuối cùng đến
 đầu vợt.
 
 Điều quan trọng cần hiểu là: nếu bất kỳ mắt xích nào trong chuỗi này bị
-\'gãy\' --- chẳng hạn gối không được gập đủ, hoặc hông không xoay đúng
+'gãy' --- chẳng hạn gối không được gập đủ, hoặc hông không xoay đúng
 thời điểm --- lực không được truyền hiệu quả, dẫn đến cú đánh yếu hoặc
 chấn thương.
 
@@ -109,7 +109,7 @@ mặt đất. Bốn loại sân chính đòi hỏi điều chỉnh kỹ thuật 
 - Sân thảm (Carpet/Indoor): Bề mặt đồng nhất, tương tự sân cứng nhưng
   nhẹ hơn. Ít ảnh hưởng nhất đến kỹ thuật chân.
 
-Đây là lý do tại sao các tay vợt chuyên nghiệp thường có \'phiên bản\'
+Đây là lý do tại sao các tay vợt chuyên nghiệp thường có 'phiên bản'
 kỹ thuật chân khác nhau tùy mặt sân, mặc dù nền tảng sinh cơ học vẫn
 giống nhau.
 
@@ -124,7 +124,7 @@ nhiều.
 
 Split-step trong tennis là ứng dụng SSC hoàn hảo: khi vận động viên tiếp
 đất từ split-step đúng timing --- chân chạm đất ngay khi đối thủ chạm
-bóng --- cơ bắp chân và đùi \'tải\' năng lượng và ngay lập tức \'phóng\'
+bóng --- cơ bắp chân và đùi 'tải' năng lượng và ngay lập tức 'phóng'
 theo hướng bóng sẽ đến. Federer, Ivanovic, và tất cả các tay vợt đỉnh
 cao đều sử dụng SSC một cách vô thức và nhịp nhàng.
 
@@ -142,8 +142,8 @@ người chơi phong trào, cùng hậu quả và cách sửa:
     chè và sụn sau bánh chè. Sửa: tập squat tường (wall squat) và kiểm
     soát ống quyển thẳng đứng.
 
-3.  Cúi lưng thay vì gập gối: Lực bị \'gãy\' tại thắt lưng, đĩa đệm
-    L4-L5 chịu áp lực cắt. Sửa: bài tập \'gậy dọc sống lưng\' khi lunge.
+3.  Cúi lưng thay vì gập gối: Lực bị 'gãy' tại thắt lưng, đĩa đệm
+    L4-L5 chịu áp lực cắt. Sửa: bài tập 'gậy dọc sống lưng' khi lunge.
 
 4.  Tiếp đất bằng gót (heel strike) khi chạy nhanh: Làm tăng lực va
     chạm, giảm khả năng đổi hướng. Tay vợt chuyên nghiệp luôn tiếp đất ở
@@ -171,7 +171,7 @@ theo dõi:
 
 Dụng cụ đơn giản nhất để đánh giá là điện thoại: quay video từ phía
 trước và từ bên hông, sau đó phân tích frame-by-frame. Nhiều ứng dụng
-như Coach\'s Eye hay Hudl Technique cho phép vẽ đường thẳng và đo góc
+như Coach's Eye hay Hudl Technique cho phép vẽ đường thẳng và đo góc
 trực tiếp trên video.
 
 **1.9 Tầm Quan Trọng của Dorsiflexion Mắt Cá**
@@ -215,7 +215,7 @@ Bốn nguyên tắc sinh cơ học cốt lõi cần ghi nhớ xuyên suốt tài
 **2.1 Tư Thế Sẵn Sàng --- Athletic Base**
 
 Tư thế sẵn sàng (ready position) trong tennis không phải là trạng thái
-nghỉ ngơi --- nó là tư thế \'nạp năng lượng\' mà cơ thể luôn sẵn sàng
+nghỉ ngơi --- nó là tư thế 'nạp năng lượng' mà cơ thể luôn sẵn sàng
 bật đi bất kỳ hướng nào trong 0,3 giây. Các đặc điểm của tư thế chuẩn:
 
 - Hai chân rộng hơn vai 10--15cm, trọng lượng phân bổ đều
@@ -231,8 +231,8 @@ bật đi bất kỳ hướng nào trong 0,3 giây. Các đặc điểm của t�
 
 - Mắt tập trung vào điểm tiếp xúc của đối thủ với bóng
 
-Andrey Rublev được nhiều huấn luyện viên ca ngợi vì tư thế \'athletic
-base\' cực kỳ ổn định. Anh có thể đứng yên ở tư thế này 5 giây mà không
+Andrey Rublev được nhiều huấn luyện viên ca ngợi vì tư thế 'athletic
+base' cực kỳ ổn định. Anh có thể đứng yên ở tư thế này 5 giây mà không
 mỏi lưng vì lực dồn vào đùi, không phải cột sống. Đây là tiêu chuẩn để
 hướng tới.
 
@@ -289,7 +289,7 @@ bóng rời vợt.
 
 **2.5 Split-Step Di Động**
 
-Một biến thể ít được dạy nhưng cực quan trọng là \'split-step di động\'
+Một biến thể ít được dạy nhưng cực quan trọng là 'split-step di động'
 --- thực hiện split-step trong khi đang di chuyển, không phải khi đứng
 yên. Alcaraz sử dụng kỹ thuật này thường xuyên trong pha recovery.
 
@@ -303,8 +303,8 @@ lúc đối thủ chuẩn bị đánh. Nhờ vậy anh có thể đổi hướng
 Lộ trình tập split-step theo 4 giai đoạn:
 
 10. Giai đoạn 1 --- Tập timing không bóng: Đứng ở giữa sân, nhờ bạn tập
-    đếm ngược 3-2-1 và nói \'bây giờ\'. Nhảy split-step đúng lúc nghe
-    \'bây giờ\'. Mục tiêu: cảm nhận thời điểm chân rời đất và tiếp đất
+    đếm ngược 3-2-1 và nói 'bây giờ'. Nhảy split-step đúng lúc nghe
+    'bây giờ'. Mục tiêu: cảm nhận thời điểm chân rời đất và tiếp đất
     đúng lúc tín hiệu.
 
 11. Giai đoạn 2 --- Tập với chuyển động của đối thủ: Nhờ bạn tập đứng
@@ -314,7 +314,7 @@ Lộ trình tập split-step theo 4 giai đoạn:
 
 12. Giai đoạn 3 --- Tập với bóng thật: Feed bóng từ baseline. Nhiệm vụ:
     split-step đúng timing, sau đó không cần đánh bóng --- chỉ cần đặt
-    chân đúng hướng bóng. Bạn biết mình đúng khi cảm thấy \'bật\' tự
+    chân đúng hướng bóng. Bạn biết mình đúng khi cảm thấy 'bật' tự
     nhiên theo hướng bóng.
 
 13. Giai đoạn 4 --- Tích hợp vào rally: Sau 20--30 buổi tập 2 và 3,
@@ -340,7 +340,7 @@ huống chính:
 **2.8 Tư Thế Sẵn Sàng và Split-Step trong Trận Đấu Thực Tế**
 
 Trong trận đấu thực tế, người chơi thường bỏ qua split-step khi mệt hoặc
-khi cảm thấy đã \'biết\' đối thủ sẽ đánh đâu. Đây là lỗi chiến thuật
+khi cảm thấy đã 'biết' đối thủ sẽ đánh đâu. Đây là lỗi chiến thuật
 nghiêm trọng.
 
 Dữ liệu từ phân tích video ATP cho thấy: trong set đầu tiên, các tay vợt
@@ -435,9 +435,9 @@ lưới.
 
 **3.4 Điều Chỉnh Vi Sai --- Differential Adjustment**
 
-Khái niệm \'điều chỉnh vi sai\' (differential adjustment) của Peter
+Khái niệm 'điều chỉnh vi sai' (differential adjustment) của Peter
 Clarke mô tả cách tạo ra khoảng hở động giữa bóng và thân người trong
-khi đang di chuyển. Đây không phải về việc \'đứng đúng chỗ\' mà là về
+khi đang di chuyển. Đây không phải về việc 'đứng đúng chỗ' mà là về
 duy trì khoảng hở lý tưởng trong suốt quá trình di chuyển.
 
 Ba chiều của differential adjustment:
@@ -455,12 +455,12 @@ Ba chiều của differential adjustment:
 
 **3.5 Extra Step --- Bước Phụ Quyết Định**
 
-Trong cú running forehand, Peter Clarke nhấn mạnh liên tục: \'most of
-the time you\'re going to have to take that extra step\' --- bước phụ
+Trong cú running forehand, Peter Clarke nhấn mạnh liên tục: 'most of
+the time you're going to have to take that extra step' --- bước phụ
 20--30cm ra ngoài sau crossover đầu tiên.
 
 Tại sao cần extra step? Vì crossover đầu tiên thường đưa bạn đến
-\'vùng\' bóng, không phải chính xác khoảng cách lý tưởng. Bước phụ này
+'vùng' bóng, không phải chính xác khoảng cách lý tưởng. Bước phụ này
 đẩy hông ra xa bóng thêm một chút, tạo không gian cho tay duỗi mà không
 bị bóng dí vào người.
 
@@ -496,18 +496,18 @@ tennis hiện đại, recovery không kém quan trọng hơn attack movement.
 
 Nguyên tắc recovery của Alcaraz: sau forehand rộng, anh lùi chéo bằng
 crossover (không xoay lưng về lưới), thực hiện split-step di động giữa
-chừng, và dừng ở vị trí \'recovery bias\' --- hơi lệch về phía anh vừa
+chừng, và dừng ở vị trí 'recovery bias' --- hơi lệch về phía anh vừa
 đánh vì đó là hướng đối thủ có nhiều khả năng trả lại nhất (theo xác
 suất).
 
 Kiểm tra recovery của bạn: sau mỗi forehand wide, đếm số bước cần để về
 vị trí sẵn sàng. Nếu \>3 bước, bạn đang recovery muộn hoặc về sai hướng.
 
-**3.8 Lùi Bước Kiểu \'Cua\' --- Backward Crossover**
+**3.8 Lùi Bước Kiểu 'Cua' --- Backward Crossover**
 
 Kỹ thuật lùi bước của Alcaraz không phải xoay lưng và chạy --- nó là lùi
 bằng bước chéo trong khi mặt vẫn hướng về lưới. Alcaraz gọi cảm giác này
-là \'lùi như cua\': thân không xoay, chỉ chân di chuyển.
+là 'lùi như cua': thân không xoay, chỉ chân di chuyển.
 
 Nguyên tắc thực hành: giữ cằm song song lưới trong suốt quá trình lùi.
 Nếu bạn thấy vạch cuối sân trong tầm mắt phụ (peripheral vision), bạn
@@ -529,7 +529,7 @@ hỏi pattern khác nhau:
   shuffle khi đến gần bóng
 
 - Alley shot (bóng sát biên): Crossover dài nhất, lunge sâu, thường
-  không thể phục hồi đủ nhanh --- đây là lúc cần \'emergency recovery\'
+  không thể phục hồi đủ nhanh --- đây là lúc cần 'emergency recovery'
 
 **3.10 Tóm Tắt và Bài Tập Thực Hành**
 
@@ -579,17 +579,17 @@ ra sau, không xoay cẳng chân.
 
 **4.2 Điểm Vàng trong Kỹ Thuật Gối khi Lunge**
 
-Ba \'điểm vàng\' của kỹ thuật gối trong cú lunge sâu:
+Ba 'điểm vàng' của kỹ thuật gối trong cú lunge sâu:
 
 > **Điểm vàng 1:** *Không valgus động: dù gập \>100°, đường nối
 > hông-gối-mắt cá vẫn thẳng. Đây là yếu tố bảo vệ ACL quan trọng nhất.*
 >
-> **Điểm vàng 2:** *Gối sau \'treo\': không đập xuống sân cứng, giảm lực
+> **Điểm vàng 2:** *Gối sau 'treo': không đập xuống sân cứng, giảm lực
 > nén lên xương bánh chè. Gối cách sân 3--5cm và được giữ lơ lửng bằng
 > cơ mông và đùi sau.*
 >
 > **Điểm vàng 3:** *Cổ chân linh hoạt: dorsiflexion khoảng 38°, cho phép
-> gối tiến tới mà gót vẫn chạm đất. Lực không bị \'kẹt\' ở gân bánh
+> gối tiến tới mà gót vẫn chạm đất. Lực không bị 'kẹt' ở gân bánh
 > chè.*
 
 **4.3 Rủi Ro Chấn Thương khi Lunge Sai**
@@ -613,7 +613,7 @@ vợt nữ trong video:
 
 Gối trước của Djokovic: 118--122° gập, sâu hơn 12--15° so với tay vợt
 nữ. Gối sau gần như chạm sân (góc \~95°), nhưng anh dùng cơ mông lớn để
-\'phanh\' trượt.
+'phanh' trượt.
 
 Khác biệt sinh học: Nam có khối cơ tứ đầu và mông lớn hơn khoảng 30%,
 nên chịu được mô-men xoắn lớn hơn ở góc gập sâu. Hông nam hẹp hơn, nên
@@ -634,7 +634,7 @@ Federer thực hiện 4 điểm then chốt: mở chân trước rồi mới h�
 ngoài (chân phải với người thuận phải); và giữ hạ trong suốt cú đánh rồi
 mới đứng lên sau follow-through.
 
-Sai lầm phổ biến: cúi đầu và vai về phía trước để \'với bóng\'. Làm vậy
+Sai lầm phổ biến: cúi đầu và vai về phía trước để 'với bóng'. Làm vậy
 khóa hông, mất lực và đặt áp lực cắt nguy hiểm lên đĩa đệm L4-L5.
 
 **4.6 Lunge trong Pha Tấn công --- Forehand Low Ball**
@@ -687,7 +687,7 @@ Tuần 3 --- Thêm tải lệch tâm: Spanish squat 4x6 (hạ 5 giây tới 90°
 2 giây), Bulgarian split squat 3x6 mỗi bên tạ 5--8kg, Lunge trượt trên
 khăn 3x8
 
-Tuần 4 --- Tích hợp trên sân: 5 lần \'defensive lunge forehand\' với
+Tuần 4 --- Tích hợp trên sân: 5 lần 'defensive lunge forehand' với
 nón, giữ 2 giây ở điểm thấp nhất trước khi đứng lên
 
 **4.10 Tóm Tắt và Checklist Lunge**
@@ -700,7 +700,7 @@ Checklist 8 điểm cho lunge an toàn và hiệu quả:
 
 19. Không có valgus (đầu gối luôn thẳng hàng với mũi chân thứ 2)
 
-20. Gối sau \'treo\' cách sân 3--5cm, không đập xuống
+20. Gối sau 'treo' cách sân 3--5cm, không đập xuống
 
 21. Lưng thẳng, không cúi về phía trước
 
@@ -734,7 +734,7 @@ nhịp chính:
 27. Drive (0:08--0:10): bật lên, đánh xuyên qua bóng, kết thúc cao qua
     vai. Đây là phase tạo lực.
 
-Vấn đề spacing --- \'tinh chỉnh incremental\' --- nằm ở 0,5 giây cuối
+Vấn đề spacing --- 'tinh chỉnh incremental' --- nằm ở 0,5 giây cuối
 trước khi chạm bóng. Đa số người chạy một phát tới chỗ rồi đứng chết,
 nên hoặc bị dí sát người hoặc với quá xa.
 
@@ -742,7 +742,7 @@ nên hoặc bị dí sát người hoặc với quá xa.
 
 Kỹ thuật spacing incremental có 4 nguyên tắc:
 
-Nguyên tắc 1: Đừng chạy thẳng tới bóng, chạy tới \'vùng\'. Nhịp đầu là
+Nguyên tắc 1: Đừng chạy thẳng tới bóng, chạy tới 'vùng'. Nhịp đầu là
 crossover lớn để vượt qua vạch giữa sân. Khi còn cách bóng khoảng 2m,
 chuyển sang shuffle steps ngắn 20--30cm, mũi chân luôn hướng 45° vào
 sân.
@@ -754,8 +754,8 @@ khoảng 50--60cm.
 Nguyên tắc 3: Tách điều chỉnh ngang và sâu. Ngang: quyết định bằng chân
 ngoài. Sâu: quyết định bằng độ gập gối.
 
-Nguyên tắc 4: Đếm nhịp để không vội. Thử đếm thầm: \'1-crossover, 2-3-4
-shuffle, 5-dip\'. Đếm buộc não không plant chân quá sớm.
+Nguyên tắc 4: Đếm nhịp để không vội. Thử đếm thầm: '1-crossover, 2-3-4
+shuffle, 5-dip'. Đếm buộc não không plant chân quá sớm.
 
 **5.3 Inside-Out Forehand --- Chiến Thuật và Kỹ Thuật Chân**
 
@@ -779,7 +779,7 @@ tích 9 frame của Aubriot (ATP #688) trong drill inside-out:
 
 **5.4 Dip-Drive Mechanics**
 
-\'Dip-drive\' là pattern tấn công bóng nổi (floating ball): hạ trọng tâm
+'Dip-drive' là pattern tấn công bóng nổi (floating ball): hạ trọng tâm
 thấp (dip) để đầu vợt xuống dưới bóng, sau đó bật lên và đẩy ra (drive)
 tạo topspin mạnh.
 
@@ -812,7 +812,7 @@ Ba bài tập hiệu quả nhất:
 
 28. Cone 3 vạch: Đặt 3 nón cách nhau 30cm ở phía backhand. Feed bóng vào
     backhand, buộc phải vòng qua và chạm ít nhất 2 nón bằng bước nhỏ
-    trước khi đánh. Mục tiêu là cảm giác \'đo\' chứ không \'lao\'.
+    trước khi đánh. Mục tiêu là cảm giác 'đo' chứ không 'lao'.
 
 29. Dip-freeze: Sau khi dip xuống, giữ 1 giây rồi mới drive. Nếu spacing
     sai, bạn sẽ thấy vai bị kẹt hoặc tay phải duỗi thẳng quá. Sửa bằng 1
@@ -831,7 +831,7 @@ Lỗi 1: Quay lưng và chạy về --- mất tầm nhìn, không thấy đối 
 sớm. Giải pháp: backward crossover như Alcaraz.
 
 Lỗi 2: Về thẳng giữa sân --- sai chiến thuật vì đối thủ thường trả lại
-phía bạn vừa đánh. Giải pháp: về vị trí \'recovery bias\' --- lệch về
+phía bạn vừa đánh. Giải pháp: về vị trí 'recovery bias' --- lệch về
 phía bạn vừa tạo góc.
 
 Kiểm tra: nếu sau run-around bạn cần \>3 bước để về vị trí sẵn sàng, bạn
@@ -840,7 +840,7 @@ Kiểm tra: nếu sau run-around bạn cần \>3 bước để về vị trí s�
 **5.8 Run-Around trên Sân Cứng vs Sân Đất**
 
 Trên sân cứng: không thể trượt, phải phanh bằng cơ lực. Extra step quan
-trọng hơn vì bạn không thể \'trượt vào\' spacing lý tưởng. Cần kiểm soát
+trọng hơn vì bạn không thể 'trượt vào' spacing lý tưởng. Cần kiểm soát
 gối chặt chẽ hơn để tránh chấn thương khi phanh đột ngột.
 
 Trên sân đất: có thể trượt nhẹ vào position, giúp điều chỉnh spacing dễ
@@ -904,11 +904,11 @@ chuyển, vợt đã lùi ra sau. Lợi ích: bạn có thời gian hạ gối, 
 thay vì bị bóng dí và phải vung vội bằng tay.
 
 Điểm 2 --- Trọng lượng về chân sau: Khi bóng đến, 60--70% trọng lượng
-dồn về chân sau (chân phải). Đây là \'kho chứa lực\' --- khi bạn đẩy từ
+dồn về chân sau (chân phải). Đây là 'kho chứa lực' --- khi bạn đẩy từ
 chân này lên và về phía trước, lực đi vào cú đánh.
 
 Điểm 3 --- Step forward quyết định: Chân trái bước về phía trước và hơi
-chéo khi đánh. Bước này \'mở khóa\' lực từ chân sau và tạo momentum về
+chéo khi đánh. Bước này 'mở khóa' lực từ chân sau và tạo momentum về
 phía trước.
 
 **6.3 Djokovic --- Hạ Thấp Liên Tục trong Rally**
@@ -938,7 +938,7 @@ dần, không đột ngột --- giảm áp lực lên gối đáng kể so với
 toàn.
 
 Yêu cầu kỹ thuật: giày tennis phù hợp cho sân đất (đế herringbone), kiểm
-soát tốt độ gập gối trong khi trượt, và \'cảm giác\' về độ trượt cần
+soát tốt độ gập gối trong khi trượt, và 'cảm giác' về độ trượt cần
 thiết (không trượt quá xa mà không kiểm soát được).
 
 **6.5 Backhand Hai Tay --- Sử Dụng Chân Hiệu Quả**
@@ -951,7 +951,7 @@ và sang phải, không chéo hoàn toàn). Tư thế này kết hợp sức m�
 closed stance với khả năng phục hồi của open stance.
 
 Lỗi phổ biến với backhand hai tay: chân trái (chân ngoài) quá gần bóng,
-tạo góc hông bị đóng và hạn chế xoay. Giải pháp: tập \'bước chân ra xa\'
+tạo góc hông bị đóng và hạn chế xoay. Giải pháp: tập 'bước chân ra xa'
 trước khi đánh.
 
 **6.6 Backhand Short Ball --- Chạy Vào Lưới**
@@ -995,7 +995,7 @@ trọng:
 - Bước điều chỉnh nhanh: thường chỉ có 1--2 bước để điều chỉnh vị trí
   trước khi đánh
 
-- Load về sau: với flat serve mạnh, backhand một tay cần \'step back\'
+- Load về sau: với flat serve mạnh, backhand một tay cần 'step back'
   nhỏ để tạo không gian vung vợt
 
 **6.9 Bài Tập Cụ Thể cho Footwork Backhand**
@@ -1087,8 +1087,8 @@ Serve-and-volley đòi hỏi footwork sau serve đặc biệt: sau khi tiếp đ
 ngay lập tức sprint về phía lưới bằng 3--4 bước lớn, kết thúc bằng
 split-step đúng thời điểm đối thủ đánh return.
 
-Thời điểm split-step: khi đang sprint về net, bước đơn giản là \'bước
-trước khi return\' --- đây là \'service split-step\' và có timing khác
+Thời điểm split-step: khi đang sprint về net, bước đơn giản là 'bước
+trước khi return' --- đây là 'service split-step' và có timing khác
 so với rally split-step vì bạn đang di chuyển về phía trước thay vì đứng
 yên.
 
@@ -1108,8 +1108,8 @@ chạy --- nhưng vẫn phải theo dõi bóng qua peripheral vision.
 **7.6 Scissor Kick trong Overhead**
 
 Scissor kick là kỹ thuật nâng cao khi đánh overhead: trong khi vợt chạm
-bóng, hai chân \'kéo\' ngược chiều nhau (trái ra trước, phải ra sau) tạo
-dạng \'kéo\' (scissors). Kỹ thuật này giúp cân bằng mô-men xoắn khi đánh
+bóng, hai chân 'kéo' ngược chiều nhau (trái ra trước, phải ra sau) tạo
+dạng 'kéo' (scissors). Kỹ thuật này giúp cân bằng mô-men xoắn khi đánh
 mạnh, đặc biệt khi đang di chuyển.
 
 Sampras nổi tiếng với scissor kick overhead --- đây là một trong những
@@ -1120,7 +1120,7 @@ nền tảng overhead ổn và muốn nâng cao.
 
 Bài tập footwork cho overhead:
 
-40. Không bóng: đứng ở giữa sân, huấn luyện viên hô \'overhead\'. Sprint
+40. Không bóng: đứng ở giữa sân, huấn luyện viên hô 'overhead'. Sprint
     ra sau 3--4 bước, dừng lại ở tư thế đánh, giữ 1 giây. Tập đến khi
     pattern trở nên tự động.
 
@@ -1197,7 +1197,7 @@ Tại net, bạn cần tiếp đất hơi SỚM hơn một chút vì bóng đế
 nhiều (khoảng cách ngắn hơn).
 
 Thứ hai, hướng: tại baseline, split-step trung lập. Tại net, bạn đã có
-thể \'bias\' hướng nhảy về phía mà đối thủ có khả năng đánh cao hơn, dựa
+thể 'bias' hướng nhảy về phía mà đối thủ có khả năng đánh cao hơn, dựa
 vào góc của cú đánh trước đó.
 
 **8.3 Volley Footwork --- Bước Lao vào Bóng**
@@ -1222,7 +1222,7 @@ open stance khi đến gần → đánh approach shot → không dừng lại, t
 tiến lên lưới → split-step khi đến vị trí net (thường 1--2m từ lưới)
 đúng lúc đối thủ đánh return.
 
-Không có \'dừng rồi mới lên\' trong approach tốt. Đây là cú đánh liên
+Không có 'dừng rồi mới lên' trong approach tốt. Đây là cú đánh liên
 tục từ baseline đến net.
 
 **8.5 T-Formation Positioning**
@@ -1278,7 +1278,7 @@ Bài tập phối hợp: tập đánh volley đôi với mirror movement --- m�
 
 Vùng transition (từ service line đến baseline) là vùng nguy hiểm nhất
 trong tennis --- bóng thường nảy ở chân, nhanh, và khó xử lý. Nhiều
-người chơi phong trào \'kẹt\' ở đây sau approach shot.
+người chơi phong trào 'kẹt' ở đây sau approach shot.
 
 Giải pháp footwork: không bao giờ đứng yên trong transition zone. Luôn
 tiếp tục tiến lên net hoặc lùi về baseline --- không đứng giữa. Nếu
@@ -1370,7 +1370,7 @@ tennis.
 
 Tại sao? Vì khi bạn hạ xuống trong lunge, nhảy xuống từ split-step, hoặc
 phanh đột ngột khi chạy --- cơ đang làm việc eccentrically. Nếu
-eccentric strength không đủ, cơ bắp \'buông\' quá nhanh, tạo lực va chạm
+eccentric strength không đủ, cơ bắp 'buông' quá nhanh, tạo lực va chạm
 lớn lên khớp.
 
 Nordic curl là bài tập eccentric hamstring cực hiệu quả: quỳ gối, đối
@@ -1387,7 +1387,7 @@ phổ biến nhất:
     valgus động + xoay đột ngột. Phòng ngừa: tăng sức mạnh cơ mông giữa,
     tập landing mechanics, cải thiện dorsiflexion.
 
-57. Viêm gân bánh chè (Jumper\'s knee): Đau ở dưới bánh chè. Nguyên
+57. Viêm gân bánh chè (Jumper's knee): Đau ở dưới bánh chè. Nguyên
     nhân: quá tải cơ tứ đầu, thiếu eccentric strength, tăng khối lượng
     tập đột ngột. Phòng ngừa: eccentric squat chậm, quản lý khối lượng
     tập.
@@ -1434,8 +1434,8 @@ lũy. Ba yếu tố phục hồi quan trọng nhất:
   trước tập vì làm giảm sức mạnh tức thời.
 
 - Foam rolling: lăn nhẹ nhàng trên cơ tứ đầu, IT band, bắp chân 2--3
-  phút mỗi nhóm sau tập. Giúp tăng lưu lượng máu và giảm \'điểm kích
-  hoạt\' (trigger points).
+  phút mỗi nhóm sau tập. Giúp tăng lưu lượng máu và giảm 'điểm kích
+  hoạt' (trigger points).
 
 - Ngủ đủ giấc: 7--9 giờ mỗi đêm. Hormone tăng trưởng tiết ra chủ yếu
   trong giấc ngủ sâu, phục hồi mô cơ và gân bị tổn thương nhẹ trong tập
@@ -1450,7 +1450,7 @@ mỗi tuần.
 
 Theo dõi tải lượng đơn giản: mỗi buổi tập, đánh giá từ 1--10 về cường độ
 cảm nhận (RPE --- Rate of Perceived Exertion), nhân với thời gian tính
-bằng phút. Đây là \'training load\' của buổi đó. Tổng weekly load nên
+bằng phút. Đây là 'training load' của buổi đó. Tổng weekly load nên
 tăng dần, không tăng đột ngột.
 
 **9.10 Dấu Hiệu Cảnh Báo Cần Nghỉ Ngơi**
@@ -1523,7 +1523,7 @@ Tuần 5--8 --- Split-step timing:
 Tuần 9--12 --- Di chuyển cơ bản:
 
 - Tập shuffle step có chủ đích trong rally --- tập nói thầm
-  \'shuffle-shuffle\' khi di chuyển
+  'shuffle-shuffle' khi di chuyển
 
 - Bắt đầu tập crossover với bóng ngắn (approach shot)
 
@@ -1543,7 +1543,7 @@ Tuần 1--4 --- Tự động hóa split-step:
 
 Tuần 5--8 --- Lunge kỹ thuật:
 
-- Drill \'dip-freeze\': mỗi forehand rộng, hạ và giữ 1 giây trước khi
+- Drill 'dip-freeze': mỗi forehand rộng, hạ và giữ 1 giây trước khi
   đánh
 
 - Kiểm tra lunge bằng video: gối có vượt mũi chân không? Có valgus
@@ -1587,9 +1587,9 @@ Kỹ năng kỹ thuật chỉ được xây dựng qua thực hành nhất quán
 
 Distributed practice (luyện tập phân tán) hiệu quả hơn massed practice
 (luyện tập dồn dập): 4 buổi tập 30 phút tốt hơn 1 buổi 2 tiếng. Não bộ
-cần thời gian \'consolidate\' (củng cố) kỹ năng mới giữa các buổi tập.
+cần thời gian 'consolidate' (củng cố) kỹ năng mới giữa các buổi tập.
 
-Khoảng \'desirable difficulty\' (khó vừa phải): bài tập nên đủ khó để
+Khoảng 'desirable difficulty' (khó vừa phải): bài tập nên đủ khó để
 bạn phạm lỗi 20--30% số lần, nhưng không quá khó đến mức bạn thất bại
 liên tục. Vùng này tạo điều kiện học tập tối ưu.
 
@@ -1636,14 +1636,14 @@ thời. Các chỉ số đề xuất theo dõi hàng tháng:
 **10.8 Tích Hợp Kỹ Thuật Chân vào Match Play**
 
 Cái bẫy lớn nhất: tập kỹ thuật tốt nhưng quên áp dụng khi đánh thật. Lý
-do: khi thi đấu, \'hệ thống 2\' (tư duy có ý thức) bận với chiến thuật
-và tâm lý, để \'hệ thống 1\' (tự động) kiểm soát footwork. Nếu footwork
+do: khi thi đấu, 'hệ thống 2' (tư duy có ý thức) bận với chiến thuật
+và tâm lý, để 'hệ thống 1' (tự động) kiểm soát footwork. Nếu footwork
 chưa được tự động hóa, nó sẽ quay về mẫu cũ.
 
-Giải pháp: tập \'block practice\' --- trong 20 phút đánh, chọn DUY NHẤT
-một yếu tố footwork để tập trung. Ví dụ: \'Buổi hôm nay tôi chỉ tập
-split-step, không quan tâm gì khác.\' Sự tập trung hẹp này tạo ra tự
-động hóa nhanh hơn tập \'mọi thứ cùng lúc\'.
+Giải pháp: tập 'block practice' --- trong 20 phút đánh, chọn DUY NHẤT
+một yếu tố footwork để tập trung. Ví dụ: 'Buổi hôm nay tôi chỉ tập
+split-step, không quan tâm gì khác.' Sự tập trung hẹp này tạo ra tự
+động hóa nhanh hơn tập 'mọi thứ cùng lúc'.
 
 **10.9 Roadmap Dài Hạn --- 1 Năm**
 
@@ -1665,8 +1665,8 @@ Video analysis thường xuyên.
 
 **10.10 Kết Luận --- Triết Học Kỹ Thuật Chân**
 
-Tài liệu này bắt đầu từ câu nói đơn giản: \'Hạ trọng tâm từ gối, không
-từ lưng.\' Câu nói đó, được quan sát qua lens của Federer, Nadal,
+Tài liệu này bắt đầu từ câu nói đơn giản: 'Hạ trọng tâm từ gối, không
+từ lưng.' Câu nói đó, được quan sát qua lens của Federer, Nadal,
 Wawrinka, Djokovic, Rublev, Alcaraz, và nhiều tay vợt khác, đã mở ra một
 thế giới kỹ thuật phức tạp và tinh tế.
 

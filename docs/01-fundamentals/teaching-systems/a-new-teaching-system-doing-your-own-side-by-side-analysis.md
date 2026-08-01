@@ -3,28 +3,25 @@
 **John Yandell**
 
 ![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"} ![A person hitting a ball with a tennis racket
+generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image1.webp) ![A person hitting a ball with a tennis racket
 Description automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image2.webp){width="3.3333333333333335in"
-height="2.4166666666666665in"}
+generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image2.webp)
 
 **Seeing yourself side by side with the right model is critical.**
 
 In a previous article, I outlined how to do high speed filming for
 yourself and the various recording options using compact video cameras
-and also the phones. It\'s easier and cheaper than many people think and
+and also the phones. It's easier and cheaper than many people think and
 the critical first step in making core technical changes in any stroke.
 ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/teaching_systems/john_yandell/high_speed_video_analysis/).)
 
 The next question though is how to evaluate that footage. What are you
-actually seeing that is sound technically? What isn\'t?
+actually seeing that is sound technically? What isn't?
 
 ![A picture containing text, receipt, screenshot Description
 automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image3.jpg){width="1.6862926509186351in"
-height="3.5845767716535435in"}
+generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image3.jpg)
 
 **A partial list of the players in the Tennisplayer High Speed
 Archive.**
@@ -34,7 +31,7 @@ fundamentals? How do you use high speed video to do this?
 
 In my experience the ability for any player to see his strokes side by
 side with the right models is critical. Players think they know what
-they are doing, but usually don\'t. The common reaction is surprise when
+they are doing, but usually don't. The common reaction is surprise when
 they see themselves for the first time.
 
 But the comparison is critical. This is way Tennisplayer is an
@@ -55,7 +52,7 @@ This is free for either Mac or PC. Just search it on the web.
 Notice I said Quick Time 7. A different version of Quick Time comes
 standard on all Macs, a so-called upgrade.
 
-But the controls on that version partially cover the images. That\'s
+But the controls on that version partially cover the images. That's
 dumb. That version is also much less reliable in doing frame by frame
 advance. It tends to jump multiple frames at a time.
 
@@ -69,8 +66,7 @@ Now open the pro model you want to use in a second Quick Time window.
 Move the windows around til they are side by side.
 
 ![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image4.webp)
 
 **What model of what shot are you looking for**
 
@@ -89,7 +85,7 @@ backhand with two bent elbows like Serena and most pro women. A
 one-handed topspin backhand with an extreme grip like Dominic Thiem or
 Stan Wawrinka. Those are all there for you on Tennisplayer.
 
-But what if you aren\'t really sure what you should focus on in the
+But what if you aren't really sure what you should focus on in the
 footage? This where my series on Ultimate Fundamentals provides answers.
 
 There are Ultimate Fundamentals articles on all the strokes. Rather than
@@ -122,7 +118,7 @@ positions and vary them in various situations.
 
 These articles provide specific checkpoints for keying the strokes and
 how to use images of these checkpoints for executing under pressure.
-Don\'t like my checkpoints? Create your own using the clips in the High
+Don't like my checkpoints? Create your own using the clips in the High
 Speed Archives.
 
 What About the Phones?
@@ -133,13 +129,12 @@ steps.
 
 ![A collage of a person playing tennis Description automatically
 generated with low
-confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image6.jpg){width="5.555555555555555in"
-height="2.7916666666666665in"}
+confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image6.jpg)
 
 **Side by side applications on the phone work the same way as with two
 Quick Time Windows.**
 
-Currently, you can\'t download the Tennisplayer clips directly to the
+Currently, you can't download the Tennisplayer clips directly to the
 phone. But you can pick your model clips and email them to yourself on
 the phone.
 
@@ -162,8 +157,7 @@ forward!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image7.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_a-new-teaching-system-doing-your-own-side-by-side-analysis/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

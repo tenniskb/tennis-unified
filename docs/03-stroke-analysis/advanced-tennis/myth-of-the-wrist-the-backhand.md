@@ -5,21 +5,20 @@
 How entrenched is the myth of the wrist? Recently I was speaking at a
 twilight tennis dinner at a Northern California tennis club. I showed
 the members some of the Advanced Tennis Research high speed footage of
-Andre Agassi\'s forehand, demonstrating how his wrist remained laid back
+Andre Agassi's forehand, demonstrating how his wrist remained laid back
 until long after the ball had gone from the strings [(Myth of the Wrist:
 Forehand)](Myth%20of%20the%20Wrist%20-%20the%20Mordern%20Pro%20Forhand.docx).
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_myth-of-the-wrist-the-backhand/media/image1.webp){width="2.6770833333333335in"
-height="2.3854166666666665in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image1.webp)
 
 **When does the wrist release or wrapping motion occur on the two-hander
 and what role does it really play in the stroke?**
 
 The footage really opened their eyes, and the talk was a big success.
 Sitting at the bar afterwards, however, I was approached by one of the
-club\'s most avid players, a guy in his 40\'s who had been playing for
+club's most avid players, a guy in his 40's who had been playing for
 about four years. He told me that I \"might\" have convinced him on the
 forehand, but he was still certain the wrists played a critical role in
 his two-handed backhand.
@@ -36,8 +35,7 @@ never connected this theory to his own (chronic) case of tennis elbow.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image2.webp){width="2.71875in"
-height="2.28125in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image2.webp)
 
 **Rios demonstrates the core hitting arm position on the two-hander with
 the elbow in and the wrist laid back.**
@@ -61,15 +59,13 @@ contact in the high speed world of professional tennis.
 
 ![A picture containing text, sport, athletic game, outdoor Description
 automatically
-generated](media_myth-of-the-wrist-the-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_myth-of-the-wrist-the-backhand/media/image3.webp)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image4.jpg){width="2.2916666666666665in"
-height="3.1458333333333335in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image4.jpg)
 
-**Note how Agassi\'s wrist on the dominant, left arm remains laid back
+**Note how Agassi's wrist on the dominant, left arm remains laid back
 well after the hit - his racquet extends out along the path of the
 shot.**
 
@@ -85,7 +81,7 @@ followthrough.
 Most coaches who truly understand the bio-mechanics of the two-hander
 agree that the stroke is extremely similar to the classical forehand. A
 good two-handed backhand is like a classical forehand, but hit with the
-opposite hand [(See Robert Lansdorp\'s article on the
+opposite hand [(See Robert Lansdorp's article on the
 two-hander)](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_two_hand_backhand_images/lansdorp_two_hand_backhand.html).
 Like a forehand, this means the hitting arm is set up in the power
 position as the racquet moves forward to the ball. This hitting arm
@@ -111,7 +107,7 @@ position further out into the followthrough than on the forehand. This
 is because the grip with the dominant left hand tends to be less extreme
 than on the forehand side.
 
-Agassi\'s grip with his left hand, for example, is a classical eastern,
+Agassi's grip with his left hand, for example, is a classical eastern,
 compared to his right-handed forehand grip which is semi-western. Even a
 player like Hingis, who probably has the most extreme two-handed grip of
 the current top pros, uses a mild semi-western with her dominant left
@@ -119,13 +115,11 @@ hand, roughly the same as her forehand side. Compare this to the
 forehands of so many pros, who are farther underneath the handle with
 their grips on the forehand side.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                              | ![A person playing tennis Description automatically generated with medium                                                                                                              | ![A person playing tennis Description automatically generated with medium                                                                                                              |
-| confidence](media_myth-of-the-wrist-the-backhand/media/image5.jpg){width="2.1041666666666665in" | confidence](media_myth-of-the-wrist-the-backhand/media/image6.jpg){width="2.0729166666666665in" | confidence](media_myth-of-the-wrist-the-backhand/media/image7.jpg){width="2.0833333333333335in" |
-| height="2.9895833333333335in"}                                                                                                                                                         | height="2.9895833333333335in"}                                                                                                                                                         | height="2.9895833333333335in"}                                                                                                                                                         |
-+:======================================================================================================================================================================================:+:======================================================================================================================================================================================:+:======================================================================================================================================================================================:+
-| **Note how Lleyton Hewitt\'s wrist is laid back before contact (1), after the contact (2), and at the end of the followthrough and the start of the \"wrapping\" motion backwards away from the hit (3).**                                                                                                                                                                                                                                                                                                                                                               |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_myth-of-the-wrist-the-backhand/media/image5.jpg) |  |  |
+| **Note how Lleyton Hewitt's wrist is laid back before contact (1), after the contact (2), and at the end of the followthrough and the start of the \"wrapping\" motion backwards away from the hit (3).** |  |  |
+
 
 The confusion regarding the role wrist on the forehand is usually
 related to these more extreme grips and the correspondingly extreme
@@ -134,8 +128,7 @@ the hit with the wrist breaking forward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image8.jpg){width="2.0833333333333335in"
-height="3.0520833333333335in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image8.jpg)
 
 **Agassi demonstrates the technical end of the swing path, prior to the
 start of the wrap. His wrists are at about eye level, and there has been
@@ -191,8 +184,7 @@ to do so almost instantaneously.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image9.webp){width="2.6770833333333335in"
-height="2.3854166666666665in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image9.webp)
 
 **The key to understanding the wrist and arm release at the end of the
 swing is the sequence of the motion.**
@@ -219,10 +211,9 @@ hitting arm position before during and after the hit.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image10.webp){width="2.6145833333333335in"
-height="2.5104166666666665in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image10.webp)
 
-**Haas\'s hitting arm is straight before, during, and well after
+**Haas's hitting arm is straight before, during, and well after
 contact.**
 
 Like the forehand and the two-hander, this correct hitting arm position
@@ -241,8 +232,7 @@ left rear leg.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image11.jpg){width="2.2916666666666665in"
-height="2.6354166666666665in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image11.jpg)
 
 **Gustavo Kuerten demonstrates perfect hitting arm position on his
 one-handed topspin backhand. The arm is straight and locked at the elbow
@@ -261,8 +251,7 @@ reaches eye level or even higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image12.jpg){width="2.2916666666666665in"
-height="3.21875in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image12.jpg)
 
 **Philippoussis demonstrates the straight arm hitting position at the
 end of the foreswing. The wrist is about eye level. The wrist and arm
@@ -289,13 +278,11 @@ well-informed opponents.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image13.webp)
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_myth-of-the-wrist-the-backhand/media/image14.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_myth-of-the-wrist-the-backhand/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -18,8 +18,7 @@ of mind.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing graphical user interface Description automatically
-   generated](media_concentration/media/image1.jpg){width="1.4583333333333333in"
-                                                                  height="1.0416666666666667in"}
+   generated](media_concentration/media/image1.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
      **As a kid, when I was told to concentrate, all I could picture was a can of frozen orange juice with the word plastered across it in capital letters.**
 
@@ -33,7 +32,7 @@ elephant out of your thoughts. **[[I once heard it described as \"There
 is always a party going on in my head!\" That may be so, but learning to
 control that party will make you a better player.]{.underline}]{.mark}**
 **[[So, rather than telling yourself what not to think, such as, \"I
-only have to win two more points and I\'ll win the set!\", learn to
+only have to win two more points and I'll win the set!\", learn to
 focus on the task at hand. This can be accomplished through a series of
 questions you can ask yourself and answer very
 quickly.]{.underline}]{.mark}**
@@ -52,11 +51,11 @@ Ball Flight Recognition is the ability to judge when and where the ball
 is going to be in your contact point. Every ball goes through the
 contact point three times.
 
-1.  **Before the bounce, as in Agassi\'s swinging volley.**
+1.  **Before the bounce, as in Agassi's swinging volley.**
 
 2.  **After the bounce, taking the ball on the rise.**
 
-3.  **On it\'s way down before the second bounce.**
+3.  **On it's way down before the second bounce.**
 
 The contact point is a point in space where you can comfortably hit the
 ball. This, like the strike zone in baseball, is somewhere between the
@@ -64,8 +63,7 @@ shoulders and knees.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_concentration/media/image2.jpg){width="2.34375in"
-  height="3.09375in"}
+  confidence](media_concentration/media/image2.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
@@ -79,9 +77,9 @@ position.]{.underline}]{.mark}** Once you have established a comfortable
 contact zone in terms of the balls height, distance from your body, and
 the timing of when your racquet face is parallel to the net, look at the
 distance that spot is from your feet. When moving to the right (toward
-the right-hander\'s forehand), judge the contact point with your right
+the right-hander's forehand), judge the contact point with your right
 foot, whether you hit with an open stance or you step into the ball with
-your left foot. Moving to the left (the right-hander\'s backhand), judge
+your left foot. Moving to the left (the right-hander's backhand), judge
 the ball with your left foot so you have room to step in with your right
 foot. **[[The back foot is the foot that judges the contact
 point.]{.underline}]{.mark}**
@@ -113,8 +111,7 @@ than not, the result is an awkward stroke and a weak return.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
                                         ![A person playing tennis Description automatically generated with medium
-   confidence](media_concentration/media/image3.jpg){width="2.34375in"
-                                                             height="2.9895833333333335in"}
+   confidence](media_concentration/media/image3.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------
                                           **For the forehand, use the back foot to judge your contact point.**
 
@@ -130,9 +127,9 @@ soon the ball will land short or in the net, too late and it will go
 deep or long!
 
 After finishing your swing, keep your eyes on the contact point then
-pick up the ball heading towards your opponent\'s racquet and ask
+pick up the ball heading towards your opponent's racquet and ask
 yourself again \...What is it? Most beginner and intermediate players
-look up too soon and don\'t complete the shot by keeping their head
+look up too soon and don't complete the shot by keeping their head
 down. They are more interested in looking to see if their shot is going
 in, or if their opponent is going to get to it. Some just stand like
 statues admiring their shot! If you are watching the ball before your
@@ -154,13 +151,12 @@ your opponent who cracks.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with his tongue out Description automatically generated with medium                                                                                    **Michael Friedman** has been devoted to
-  confidence](media_concentration/media/image4.jpeg){width="2.0819444444444444in"   teaching and coaching tennis for over 30
-  height="1.6715277777777777in"}                                                                                                                                    years. Currently he is the Tennis Director at
+  confidence](media_concentration/media/image4.jpeg)                                                                                                                                    years. Currently he is the Tennis Director at
                                                                                                                                                                     the Millennium Sports Club in Rancho Solano,
                                                                                                                                                                     where he runs an active junior development as
                                                                                                                                                                     well as adult program. Michael has been a
                                                                                                                                                                     mainstay in the United States Professional
-                                                                                                                                                                    Tennis Association\'s Northern California
+                                                                                                                                                                    Tennis Association's Northern California
                                                                                                                                                                     Division, and served as President from 2000
                                                                                                                                                                     through 2001. He has been a featured speaker
                                                                                                                                                                     at many USTA and USPTA tennis workshops

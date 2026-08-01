@@ -14,7 +14,7 @@ before, during, and after the hit. (For an introduction to the Contact
 Move concept, [**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
 
-My life\'s work in researching tennis movement has established that
+My life's work in researching tennis movement has established that
 there are 15 Contact Moves used by elite players. These contact moves
 have four categories: Attacking, Building, Counter-Attacking and
 Defensive Contact Moves.
@@ -23,26 +23,25 @@ In the last article we looked at the aggressive Contact Moves when
 players are looking to finish the point or force a weak reply to finish
 with the next ball. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves/).)
-Now let\'s look at the second category, what I call the Building Contact
+Now let's look at the second category, what I call the Building Contact
 Moves.
 
 The Building Moves are used when players are standing their ground in
 rallies, looking to maneuver their opponents in order to open the court,
 and/or trying to generate a response from the opponent to go on the
-attack. There are four Building Contact Moves. Let\'s look at them in
+attack. There are four Building Contact Moves. Let's look at them in
 detail.
 
-+--------------------------------------------------------------+
-| **Building Contact Moves:**                                  |
-+==============================================================+
-| **1. Low Spin**                                              |
-|                                                              |
-| **2. High Spin**                                             |
-|                                                              |
-| **3. Lateral Hop**                                           |
-|                                                              |
-| **4. Closed Backhand**                                       |
-+--------------------------------------------------------------+
+| **Building Contact Moves:** |
+| --- |
+| **1. Low Spin** |
+|  |
+| **2. High Spin** |
+|  |
+| **3. Lateral Hop** |
+|  |
+| **4. Closed Backhand** |
+
 
 **Low Spin**
 
@@ -51,12 +50,11 @@ or sometimes a slight diagonal backwards. Players use the Low Spin to
 deal with high velocity balls, but high velocity balls that are either
 relatively low bouncing, or that they intend to play on the rise. This
 makes the contact at around hip to waist height, versus the higher
-contact points on the High Spin move as we\'ll see below.
+contact points on the High Spin move as we'll see below.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-building-contact-moves/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-building-contact-moves/media/image1.webp)
 
 **Spinning through the shot with lower contact and the legs still
 bent.**
@@ -94,8 +92,7 @@ and/or open the court for attack.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-building-contact-moves/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-building-contact-moves/media/image2.webp)
 
 **High Spin: spinning through a higher contact point with straighter
 legs.**
@@ -167,16 +164,15 @@ the outside of the body then plants for a push back recovery step.
 Watch the top players. See how they all build points using these moves
 to maintain or create the opportunity to attack.
 
-So that\'s it for the Building Moves! Although I developed the concept
+So that's it for the Building Moves! Although I developed the concept
 of the Contact Move years ago, it is still unfamiliar in the tennis
 lexicon to many players and coaches, and the variations are complex.
 
-So post your comments and questions in the Forum and let\'s discuss it
+So post your comments and questions in the Forum and let's discuss it
 all! And stay tuned for the Counter Attacking Moves and the Defensive
 Moves coming up in future articles.
 
-![](media_the-building-contact-moves/media/image3.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-building-contact-moves/media/image3.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -8,14 +8,13 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_does-the-zone-exist/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_does-the-zone-exist/media/image1.webp)
 
 **What is the zone, or is it even real?**
 
 Is the Zone real? If it is what are its characteristics? Is there one
-Zone or are there many? In this article let\'s review some surprising
-opinions from some the world\'s top researchers and athletes across
+Zone or are there many? In this article let's review some surprising
+opinions from some the world's top researchers and athletes across
 multiple sports.
 
 The subject of the Zone has been intensively studied by psychologists,
@@ -30,8 +29,7 @@ competition.
 
 ![A basketball player raising his hand Description automatically
 generated with low
-confidence](media_does-the-zone-exist/media/image2.jpg){width="3.765217629046369in"
-height="4.9889129483814525in"}
+confidence](media_does-the-zone-exist/media/image2.jpg)
 
 **Bill Walton: anxiety is a necessary component of the Zone.**
 
@@ -65,8 +63,7 @@ will determine our experience more than our ability.
 
 ![A person wearing a hat and sunglasses holding a golf club Description
 automatically generated with medium
-confidence](media_does-the-zone-exist/media/image3.jpg){width="3.008695319335083in"
-height="2.8749759405074364in"}
+confidence](media_does-the-zone-exist/media/image3.jpg)
 
 **Tom Kite: control creates freedom.**
 
@@ -74,7 +71,7 @@ Jackson argues that changing this perception of what we are capable of
 requires high levels of self-confidence and that self-confidence can be
 increased by thinking about past successes.
 
-Yuri Hanin, who led Finland\'s Research Institute for Olympic Sports,
+Yuri Hanin, who led Finland's Research Institute for Olympic Sports,
 has a different opinion. He believes anxiety and doubt are a fundamental
 part of the zone experience. Each athlete has an ideal level of
 \"competitive anxiety\" at which he performs at his peak. Without this
@@ -94,8 +91,7 @@ total immersion in the present is what golfer Tony Jacklin has described
 as a \"cocoon of concentration.\"
 
 ![A person playing tennis Description automatically
-generated](media_does-the-zone-exist/media/image4.jpg){width="2.625in"
-height="3.6666666666666665in"}
+generated](media_does-the-zone-exist/media/image4.jpg)
 
 **Chris Evert: the Zone can transform time.**
 
@@ -104,12 +100,12 @@ Tom Kite, one of the best golfers of the early 1990s, says of the Zone,
 
 This means a sense of power, confidence, and calm that frees the athlete
 from the fear of failure. Former NBA player Byron Scott says: \"All you
-can hear is this little voice inside you, telling you \'shoot\' every
-time you touch the ball. Because you know it\'s going in.\"
+can hear is this little voice inside you, telling you 'shoot' every
+time you touch the ball. Because you know it's going in.\"
 
-As Chris Evert put it: \"You can\'t miss anything. It\'s like you
+As Chris Evert put it: \"You can't miss anything. It's like you
 anticipate way ahead of Time where the ball is going and you also know
-where you\'re going to hit the ball before you hit.\"
+where you're going to hit the ball before you hit.\"
 
 **[[Perhaps the most bizarre reported aspect of the Zone is
 transformation of time. In the heat of the game, time can slow down,
@@ -120,7 +116,7 @@ Chris Evert recalls, \"Everything seems slower, so you have more time to
 adjust.\"
 
 Bill Walton says: \"Everything slows down except you, and you feel like
-you\'re operating at a different speed and at a different level than
+you're operating at a different speed and at a different level than
 anybody else.\"
 
 **[[\<\< The opposite is true that the time is the same for all players,
@@ -131,8 +127,7 @@ parts of the body. So, it seems the time is slower for the athlete
 relatively.\>\>]{.underline}]{.mark}**
 
 ![A picture containing text, person Description automatically
-generated](media_does-the-zone-exist/media/image5.jpg){width="1.8229166666666667in"
-height="2.4583333333333335in"}
+generated](media_does-the-zone-exist/media/image5.jpg)
 
 **Bob Trumpy asked what did I do?**
 
@@ -142,8 +137,8 @@ exist. There was only a great unity of movement and aim.\"
 
 Golf coach Gail Smirthwaite believes another important and often
 overlooked component of the Zone is self-esteem. \"Low self-esteem will
-make it almost impossible for someone to be able to create the \'flow
-state\' on demand, because they do not have the belief that they can
+make it almost impossible for someone to be able to create the 'flow
+state' on demand, because they do not have the belief that they can
 achieve the success they seek.\"
 
 In her book Modified Consciousness, Christine Le Scanff describes an
@@ -153,18 +148,17 @@ impossible to describe a Zone performance.
 Bob Trumpy, a former all pro tight end, is a good example: **[[\"It was
 like being in a tunnel and being blinded by a bright light. When I came
 out of the other end of the tunnel, I was in the end zone and my
-teammates were celebrating. But I didn\'t remember what I
+teammates were celebrating. But I didn't remember what I
 did.\"]{.mark}]{.underline}**
 
 **[[Le Scanff notes that detachment can give an athlete increased
 tolerance: \"Sport allows an athlete to achieve an altered state of
-consciousness because of the secretion by the body\'s own biological
+consciousness because of the secretion by the body's own biological
 drugs. Beta-endorphin has analgesic power fifty times higher than that
 of morphine.\"]{.mark}]{.underline}**
 
 ![A picture containing person Description automatically
-generated](media_does-the-zone-exist/media/image6.jpg){width="2.638888888888889in"
-height="3.125in"}
+generated](media_does-the-zone-exist/media/image6.jpg)
 
 **The zone is love.**
 
@@ -173,23 +167,22 @@ height="3.125in"}
 Finally, Johnny Miller, winner of over twenty titles on the golf pro
 tour, boils it down to love: **[[\"I think love is the secret. I really
 believe it.\"]{.mark} [\"I think the Zone is really being in harmony
-with what you\'re doing. Wanting to do it, wanting to do it for the
+with what you're doing. Wanting to do it, wanting to do it for the
 right reasons, not for money or for greed or for power.\" \"If you love
-what you are doing and just can\'t wait to play, it\'s going to be
+what you are doing and just can't wait to play, it's going to be
 fun.\"]{.mark}]{.underline}**
 
 As this sampling establishes, the term Zone itself may border on the
 nebulous. The evidence shows that what we loosely call the Zone can
 comprise very different experiences for different athletes. In the next
-article let\'s focus more specifically on what tennis players and the
+article let's focus more specifically on what tennis players and the
 coaches and psychologists who work with them have to say about the
 characteristics of the zone and how it is created and emerges. Stay
 Tune!
 
 ![A person smiling with his eyes closed Description automatically
 generated with low
-confidence](media_does-the-zone-exist/media/image7.jpeg){width="1.8263888888888888in"
-height="2.173611111111111in"}
+confidence](media_does-the-zone-exist/media/image7.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
 Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
@@ -199,8 +192,7 @@ improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
 
 ![Graphical user interface, application Description automatically
-generated](media_does-the-zone-exist/media/image8.jpeg){width="1.6694444444444445in"
-height="2.495833333333333in"}
+generated](media_does-the-zone-exist/media/image8.jpeg)
 
 **Back to the Zone**
 

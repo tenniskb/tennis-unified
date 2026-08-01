@@ -284,12 +284,10 @@
 
 ![A picture containing graphical user interface Description
 automatically
-generated](media_non-linear-tennis-system/media/image1.jpeg){width="6.5in"
-height="4.338888888888889in"}
+generated](media_non-linear-tennis-system/media/image1.jpeg)
 
 ![Jack Broudy - Founder of the Non-Linear Tennis
-System](media_non-linear-tennis-system/media/image2.jpeg){width="2.5597222222222222in"
-height="2.4in"}
+System](media_non-linear-tennis-system/media/image2.jpeg)
 
 Jack Broudy from Broudy Tennis. Jack is a tennis player, coach, author,
 speaker, and inventor. He's coached college national champions, top US

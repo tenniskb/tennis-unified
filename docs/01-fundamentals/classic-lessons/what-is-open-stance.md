@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-open-stance/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image1.webp)
 
 **Open stance is standard in modern tennis\--but what is the key to
 developing it?**
@@ -28,12 +27,11 @@ hitting, from Bill Tilden to Rod Laver. The fact is that even before the
 start of the open era, the great players were using open stance
 positioning. Today it may be done by design, but the great players of
 the past slipped into open stance hitting as easily and gracefully as
-today\'s players.
+today's players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-open-stance/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image2.webp)
 
 **Great past champions often hit open stance, as the great American
 champion of the 1930s and 40s, Bobby Riggs, demonstrates on this high
@@ -59,8 +57,7 @@ they naturally used it more and more.
 
 ![A picture containing ball, athletic game, sport, player Description
 automatically
-generated](media_what-is-open-stance/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_what-is-open-stance/media/image3.webp)
 
 **As power and topspin increased, players like Rod Laver began to hit
 more open stance by design.**
@@ -71,19 +68,18 @@ Open stance was heresy, the mark of a lazy, poorly skilled player.
 There was one player who changed all that: Bjorn Borg. Unlike players of
 the past, Borg used open stance positioning almost exclusively on his
 forehand. His western grip (mild by modern standards!) and open stance
-hitting proved to be a potent combination, especially with Borg\'s
+hitting proved to be a potent combination, especially with Borg's
 incredible speed around the court.
 
 Borg showed the world that even on grass, an open-stance, westernized
 baseliner could dominate serve and volley players. It was something the
-commentators and teachers couldn\'t believe and consistently criticized.
+commentators and teachers couldn't believe and consistently criticized.
 But once players and coaches saw the possibilities of this stance
 position both in terms of control (topspin) and power, there was no
 turning back.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-open-stance/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_what-is-open-stance/media/image4.webp)
 
 **Borg showed the world the potent combination of a western grip and
 open stance hitting.**
@@ -92,7 +88,7 @@ When we use the term open stance, we have to be precise in what we mean.
 There are several versions of open stance, and judging how \"open\" the
 stance is on a given ball also depends on shot direction, among other
 factors. To understand this we have to look at the shape and dimensions
-of the tennis court itself. **[[The tennis court is a rectangle. It\'s
+of the tennis court itself. **[[The tennis court is a rectangle. It's
 defined by right angles. But the most basic shot in the game is not hit
 on a right angle\--it is hit crosscourt, on a diagonal to the lines of
 the court.]{.underline}]{.mark}**
@@ -111,8 +107,7 @@ sharper the diagonal.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-open-stance/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image5.webp)
 
 **Do you step in according to the lines of the court or the line of the
 shot?**
@@ -134,14 +129,13 @@ line from the back foot to the front foot that is parallel to the flight
 of the ball.]{.underline}]{.mark}**
 
 If you learn to look closely or spend a lot of time in the Stroke
-Archive, you\'ll see this alignment in a significant percentage of the
+Archive, you'll see this alignment in a significant percentage of the
 open stance forehands hit in pro tennis. It should be the basis for
-developing your own open stance style, as I\'ll explain below.
+developing your own open stance style, as I'll explain below.
 
 ![A picture containing sport, outdoor, athletic game, player Description
 automatically
-generated](media_what-is-open-stance/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_what-is-open-stance/media/image6.webp)
 
 **The front foot is in the air, but notice the alignment of the stance
 to the target line.**
@@ -153,7 +147,7 @@ critical moments around the contact. The feet are aligned on the
 diagonal of the shot line.]{.underline}]{.mark}** **Whether one foot or
 both feet or neither foot is on the court during the hit is not a
 function of alignment per se. Rather this is a [function of ball
-height]{.underline} and [the player\'s ability to unload upward into the
+height]{.underline} and [the player's ability to unload upward into the
 shot]{.underline} (and into the air off the court.)**
 
 This basic diagonal alignment has to be distinguished from the more
@@ -170,18 +164,17 @@ off sharper angles crosscourt. The third reason is that they are often
 forced or rushed by the ball.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-open-stance/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_what-is-open-stance/media/image7.webp)
 
 **More extreme open stance gives players more advanced options.**
 
-**[[But it\'s a fatal mistake for recreational players to immediately
+**[[But it's a fatal mistake for recreational players to immediately
 copy the more extreme versions in learning open
 stance.]{.underline}]{.mark}** It is far more difficult to understand
 and feel the basic turn with an extreme open stance. Players at lower
 levels who stress this too early tend to end up with less body turn and
 less rotation\--the supposed benefits of the open stance in the first
-place. So let\'s see how to develop the benefits by learning the more
+place. So let's see how to develop the benefits by learning the more
 basic open stance positioning.
 
 To a certain extent, then, the whole debate about \"open\" versus
@@ -197,8 +190,7 @@ open your stance on a given ball will happen almost naturally.
 
 ![A person running on a court Description automatically generated with
 low
-confidence](media_what-is-open-stance/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image8.webp)
 
 **Understanding the role of the back foot in alignment is the key to the
 open stance forehand.**
@@ -208,8 +200,8 @@ initially align with the incoming ball? In every case, it is the rear
 foot, or the right foot for a righthander.]{.underline}]{.mark}** It is
 sometimes also called the outside foot. ([Click
 here](../Footwork/Court%20Movement%20-%20The%20Forehand.docx) for Bob
-Hansen\'s excellent article on positioning on the forehand.) This should
-be done when \"stepping in\". It\'s also the same for \"true\" open
+Hansen's excellent article on positioning on the forehand.) This should
+be done when \"stepping in\". It's also the same for \"true\" open
 stance hitting of all kinds. **[[The positioning of the rear foot is the
 most important point.]{.underline}]{.mark}**
 
@@ -231,8 +223,7 @@ preparation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-open-stance/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image9.webp)
 
 **Watch Andre use precise, small steps to position behind the ball.**
 
@@ -259,13 +250,12 @@ inside out, and this happens only by accident.
 In reality, you want to chase the ball with your rear foot, the right
 foot for a right-handed forehand. There are more extreme cases where the
 first step can a drop move, or on the run a player does take a big cross
-step with the left foot early in the movement pattern, but let\'s talk
+step with the left foot early in the movement pattern, but let's talk
 here about the basic principles of developing good alignment.
 
 ![A person wearing a white shirt and shorts holding a tennis racket
 Description automatically generated with medium
-confidence](media_what-is-open-stance/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image10.webp)
 
 **Watch how Safin makes the initial turn, then recreates a similar
 position behind the ball.**
@@ -287,7 +277,7 @@ the ground just for balance.]{.underline}]{.mark}**
 possible.]{.underline}]{.mark}** **[[The hip alignment is perpendicular
 to the net or as close to that as possible]{.underline}]{.mark}**.
 Aligning with the rear foot also allows for greater adjustability for
-irregular bounces that do occur more often in today\'s game. It allows
+irregular bounces that do occur more often in today's game. It allows
 more freedom of placing (or not placing) the front foot where necessary
 to make last minute adjustments.
 
@@ -302,13 +292,12 @@ hitting? And when should players employ it? One advantage which I
 mentioned earlier is adjustability.]{.mark} [Hitting open-stance allows
 the player to play balls higher and/or further back in the
 stance.]{.mark}]{.underline}** This is true for every grip position.
-With the use of more power and topspin in today\'s game this kind of
+With the use of more power and topspin in today's game this kind of
 adjustability is necessary.
 
 ![A picture containing sport, athletic game, player, male Description
 automatically
-generated](media_what-is-open-stance/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_what-is-open-stance/media/image11.webp)
 
 **More rotation equals more torque equal more power and spin.**
 
@@ -327,7 +316,7 @@ placed on the ball is huge today compared to the pre-open era.
 
 Power production is tremendously increased when open-stance hitting is
 done properly. I believe that open-stance hitting is equally as
-responsible for the increase in the power of today\'s game as the
+responsible for the increase in the power of today's game as the
 advancement of racket technology.
 
 The amount of torque possible when hitting open stance is far greater
@@ -347,8 +336,7 @@ creating ball speed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-open-stance/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-open-stance/media/image12.webp)
 
 **Watch Lleyton take one small extra breaking step and make an efficient
 balanced recovery.**
@@ -374,7 +362,7 @@ body plane (pulling your arm across the body).
 
 Is open-stance hitting only for the forehand? As we look at the pros
 today I would say no. More and more two-handed backhand players are
-hitting more exclusively open-stance (especially in the women\'s game)
+hitting more exclusively open-stance (especially in the women's game)
 taking advantage of the potential in terms of power generation and court
 coverage.
 
@@ -384,22 +372,21 @@ players of the past did). It has opened up angles, for the one-handed
 players, which were only thought possible for the two-hander. More on
 the open stance and the backhands in upcoming articles.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                               | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_what-is-open-stance/media/image13.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                            | numerous ranked junior players and coached  |
-|                                                                                                                                                                           | a series of championship high school teams. |
-|                                                                                                                                                                           | He was highly ranked both sectionally and   |
-|                                                                                                                                                                           | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                           |                                             |
-|                                                                                                                                                                           | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                           | the John Yandell Tennis School in San       |
-|                                                                                                                                                                           | Francisco, California Kerry and his partner |
-|                                                                                                                                                                           | are now splitting time between homes in     |
-|                                                                                                                                                                           | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                           | continued to coach and to have great        |
-|                                                                                                                                                                           | competitive success winning Canadian        |
-|                                                                                                                                                                           | National seniors titles---not to mention    |
-|                                                                                                                                                                           | continuing to write articles for            |
-|                                                                                                                                                                           | Tennisplayer from his unique perspective.   |
-+===========================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_what-is-open-stance/media/image13.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

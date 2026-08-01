@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-Every player\'s ultimate coach is himself. The private voice inside our
+Every player's ultimate coach is himself. The private voice inside our
 heads that talks to us during matches\--and in the rest of life as well.
 How do you want to script what that voice says? In his fourth
 installment in this Tennisplayer original series, Jim Loehr addresses
@@ -17,8 +17,7 @@ Maybe you need to listen to what Jim has to say!
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                         Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-only-way-to-win-the-private-voice/media/image2.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                            himself who still competes nationally in USTA
+  confidence](media_the-only-way-to-win-the-private-voice/media/image2.jpeg)                                                                                                                                                            himself who still competes nationally in USTA
                                                                                                                                                                                             events, Jim created the field of Mental
                                                                                                                                                                                             Toughness training with his revolutionary study
                                                                                                                                                                                             of elite pro players. He has been one of the

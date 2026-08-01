@@ -13,7 +13,7 @@ ground strokes combinations, angles, volleys, swinging volleys and drop
 shots.
 
 Although players may end up hitting an exact pattern in a point or
-series of points, it\'s the combinations and variety of shots that are
+series of points, it's the combinations and variety of shots that are
 critical, building in the feel for the right spin, shot type and
 placement at the right moment against the right opponent.
 
@@ -30,8 +30,7 @@ demonstrations of these patterns!
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-1/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-1/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

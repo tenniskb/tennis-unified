@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A picture containing person, person Description automatically
-generated](media_overcoming-choking/media/image1.jpg){width="3.8194444444444446in"
-height="2.861111111111111in"}
+generated](media_overcoming-choking/media/image1.jpg)
 
 **Jana Novotna: one of the great chokes in tennis history in 1993.**
 
@@ -28,12 +27,11 @@ which makes for a very bad passing shot, especially on grass.
 These were substantial advantages for Novotna, but her disadvantage was
 her well-known propensity to choke in important situations. All Novotna
 had to do in this situation was get her first serve in and come to net
-on Graf\'s backhand.
+on Graf's backhand.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, outdoor Description automatically
-  generated](media_overcoming-choking/media/image2.jpg){width="3.6260870516185477in"
-  height="2.9526891951006125in"}
+  generated](media_overcoming-choking/media/image2.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Novotna, from choker to champion in 1998.**
 
@@ -47,9 +45,9 @@ with Novotna losing and in tears after blowing five games in a row.
 You might have thought such a loss would be the end of her, but four
 years later she popped up in another Wimbledon final, this time losing
 to Martina Hingis in three sets after winning the first. But that still
-wasn\'t the end.
+wasn't the end.
 
-The following year Novotna\'s never-say-die attitude paid off as she
+The following year Novotna's never-say-die attitude paid off as she
 reached her third Wimbledon final, (beating Hingis in the semis) and
 this time, miraculously, she won against veteran Natalie Tauzait of
 France in two sets. With enough opportunities her nerves finally
@@ -62,8 +60,7 @@ with the better players on the team.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing person, outdoor, player, red Description automatically
-   generated](media_overcoming-choking/media/image3.jpg){width="2.173912948381452in"
-                                                                    height="3.3478258967629047in"}
+   generated](media_overcoming-choking/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            **Marty Laurendeau proved that determination can overcome a tendency to choke.**
 
@@ -71,7 +68,7 @@ with the better players on the team.
 
 Not only did he lack the physical tools, but he was also terribly
 risk-averse and habitually choked when he got ahead. This would have
-seemed to be check-mate, but it wasn\'t.
+seemed to be check-mate, but it wasn't.
 
 Marty was (and is) highly intelligent and a fanatical worker, so he
 managed to compensate for his weaknesses. To the surprise of us all,
@@ -94,8 +91,7 @@ game.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a white tank top Description automatically generated with medium
-  confidence](media_overcoming-choking/media/image4.jpg){width="3.4027777777777777in"
-  height="3.8472222222222223in"}
+  confidence](media_overcoming-choking/media/image4.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Serena Williams: pro level determination.**
 
@@ -122,21 +118,20 @@ two sets all, then went down 1-4 in the fifth set before finally winning
 and then going on to reach the finals of the tournament.
 
 On the other hand there are many more players who are excellent on the
-big points and don\'t often choke, but who do have losers\' mentalities.
+big points and don't often choke, but who do have losers' mentalities.
 These are the physically talented individuals who tank when they get
-behind, or don\'t like to practice, or who become angry or distracted in
+behind, or don't like to practice, or who become angry or distracted in
 competition, or habitually make excuses, etc.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_overcoming-choking/media/image5.jpg){width="3.6805555555555554in"
-  height="3.263888888888889in"}
+  generated](media_overcoming-choking/media/image5.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Todd Martin: respected for courage and competitiveness.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Choking certainly makes winning more difficult, but it doesn\'t make it
+Choking certainly makes winning more difficult, but it doesn't make it
 impossible unless you allow it to discourage you or otherwise get to
 your head.
 
@@ -159,8 +154,7 @@ his priority list.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person sitting on a chair Description automatically generated with low
-  confidence](media_overcoming-choking/media/image6.jpg){width="3.263888888888889in"
-  height="3.5555555555555554in"}
+  confidence](media_overcoming-choking/media/image6.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Fernando Verdasco had been known as a playboy who frittered away matches.**
 
@@ -168,7 +162,7 @@ his priority list.
 
 But this time, before heading for Australia, he devoted the better part
 of a month in Las Vegas to getting in incredible shape under the
-supervision of Andre Agassi\'s trainer, Gil Reyes. Putting in the \"hard
+supervision of Andre Agassi's trainer, Gil Reyes. Putting in the \"hard
 yards\" (as Brad Gilbert termed it) was an investment in preparation
 that Verdasco was unwilling to squander by tanking after choking. In
 general, players who invest heavily in preparation and conditioning are
@@ -183,10 +177,10 @@ set or match.]{.mark}]{.underline}**
 
 **[[In fact one of the primary factors that makes players choke is
 feeling that they must win a particular point or game. They fear that if
-they don\'t their opponents are likely to rebound and beat
+they don't their opponents are likely to rebound and beat
 them.]{.mark}]{.underline}**
 
-**[[They get that unnerving \"it\'s now or never\" feeling and ascribe
+**[[They get that unnerving \"it's now or never\" feeling and ascribe
 too much importance to their immediate performance. Since it is
 impossible to guarantee that you will win any point or game, believing
 that you must do so succeeds only in making you
@@ -194,8 +188,7 @@ nervous.]{.mark}]{.underline}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing person, person, sport, player Description automatically
-   generated](media_overcoming-choking/media/image7.jpg){width="3.4722222222222223in"
-                                                                     height="2.888888888888889in"}
+   generated](media_overcoming-choking/media/image7.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **At the Australian Open, something changed for Verdasco.**
 
@@ -208,11 +201,11 @@ but it is important to make the attempt.]{.mark}]{.underline}**
 
 **[[Try to take your normal risks, and assume you will have other
 opportunities regardless of what happens on any particular point. If
-this doesn\'t work soldier on anyway, bearing in mind that nerves come
-and go, and just because you choke on one point it doesn\'t mean you
+this doesn't work soldier on anyway, bearing in mind that nerves come
+and go, and just because you choke on one point it doesn't mean you
 will choke on the next.]{.underline}]{.mark}**
 
-**[[Don\'t focus on winning. A common source of nervousness is thinking
+**[[Don't focus on winning. A common source of nervousness is thinking
 about winning or losing. As best you can, work to push such thoughts out
 of your mind.]{.mark}]{.underline}**
 
@@ -225,37 +218,35 @@ your mind.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, athletic game, sport, tennis Description automatically
-  generated](media_overcoming-choking/media/image8.jpg){width="4.097222222222222in"
-  height="2.9166666666666665in"}
+  generated](media_overcoming-choking/media/image8.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The difference for Versdasco: the influence of Gil Reyes.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 If you are fearful and uncertain, pondering outcomes is scary and will
-magnify your fears. Because you can\'t be certain of winning, such
+magnify your fears. Because you can't be certain of winning, such
 thoughts will only serve to make you more nervous.
 
 Picture this: you are in the Wimbledon final and holding a match point
-in the fifth set on your opponent\'s serve. As he begins his motion for
+in the fifth set on your opponent's serve. As he begins his motion for
 what you expect to be a 130 mph, skidding delivery, imagine that you
 start having thoughts like, \"All I have to do is win this next point
-and I\'m Wimbledon champion!\" or \"If I can just get this ball back in
-the court maybe he\'ll miss!\" Or, worst of all, \"I hope he
+and I'm Wimbledon champion!\" or \"If I can just get this ball back in
+the court maybe he'll miss!\" Or, worst of all, \"I hope he
 double-faults!\"
 
 If you were to let any of these thoughts flit through your head, how
-good would your chances be of hitting a decent return? Very poor, I\'d
+good would your chances be of hitting a decent return? Very poor, I'd
 wager.
 
 ![A person playing tennis Description automatically
-generated](media_overcoming-choking/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_overcoming-choking/media/image9.webp)
 
 **Thoughts of winning lead can lead to choking.**
 
 Unfortunately, simply telling yourself to stop thinking about winning
-doesn\'t work. In fact it makes you think about winning all the more.
+doesn't work. In fact it makes you think about winning all the more.
 But since your mind can only focus on one thing at a time, you must try
 to fill it with other thoughts that are simple and helpful. Then it will
 not have the freedom to dredge up those daunting thoughts about winning
@@ -271,15 +262,14 @@ change.]{.underline}]{.mark}**
 
 **[[Rituals calm the nerves. They form an island of stability in a sea
 of competitive uncertainty because they are completely under the
-player\'s control, unlike the outcome of the next point. Filling your
+player's control, unlike the outcome of the next point. Filling your
 mind by focusing on a simple, controllable and repeatable rituals
 reduces fearful thinking and choking, because when you are thinking
 about one thing you cannot think about another.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_overcoming-choking/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_overcoming-choking/media/image10.webp)
 
 **You can afford to think about winning only in the rare circumstance
 you are totally confident.**
@@ -307,10 +297,9 @@ ends, feel nothing. Have no emotional reaction at all, win or lose.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_overcoming-choking/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_overcoming-choking/media/image11.webp)
 
-**Don\'t let your eyes wander to your opponent, others courts, or
+**Don't let your eyes wander to your opponent, others courts, or
 spectators.**
 
 **[[Then as you walk slowly and deliberately toward your receiving
@@ -318,7 +307,7 @@ position, relax, and take a deep breath or two, holding the air in your
 lungs for a second before deliberately relaxing and letting it be
 expelled.]{.underline}]{.mark}**
 
-**[[Don\'t let your eyes wander around toward your opponent, other
+**[[Don't let your eyes wander around toward your opponent, other
 courts, or onlookers. You can look at your strings, as so many players
 do, or at your shoes, as Fred Stolle used to do, or some other neutral,
 close-by object.]{.mark}]{.underline}**
@@ -335,10 +324,9 @@ Remember the good feelings you had in the past when you stepped in on
 the return and forcefully drove it deep.
 
 ![A person playing tennis Description automatically
-generated](media_overcoming-choking/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_overcoming-choking/media/image12.webp)
 
-**After the return ritual, it\'s all reaction: short backswing, weight
+**After the return ritual, it's all reaction: short backswing, weight
 forward,flexible hands.**
 
 Allow this to recreate the emotions you felt then of strength,
@@ -364,8 +352,7 @@ mind is kept just where it ought to be.]{.mark}]{.underline}**
 
 ![A person hitting a tennis ball with the racket Description
 automatically
-generated](media_overcoming-choking/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_overcoming-choking/media/image13.webp)
 
 **Visualizing your best tennis conjures the right emotions.**
 
@@ -376,7 +363,7 @@ for some time, been a buzzword in sports psychology.
 Some people think it is useful in the same way as one might learn from
 watching a moving picture, or that visualizing is a way of practicing an
 action mentally without actually going through the physical motions.
-I\'m not convinced about this, but I am convinced that it is useful in
+I'm not convinced about this, but I am convinced that it is useful in
 conjuring up beneficial emotions, and that these beneficial emotions aid
 performance.
 
@@ -389,13 +376,12 @@ serving position.
 It helps to be relaxed because the racket velocity and control you need
 to serve effectively come mainly from whipping a loose racket-arm with
 your legs, torso, and shoulders. If you stiffen up or try to muscle the
-racket around you actually lose velocity because your stiffer arm can\'t
+racket around you actually lose velocity because your stiffer arm can't
 be accelerated properly.
 
 ![A person hitting a tennis ball with the racket Description
 automatically
-generated](media_overcoming-choking/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_overcoming-choking/media/image13.webp)
 
 **Keep your hands and wrists relaxed and visualize your keys.**
 
@@ -416,26 +402,25 @@ about your keys and visualize a powerful, deep delivery. Then, let fly.
 **Other Relaxation Techniques**
 
 Of course, there are times when even the best of rituals and the
-narrowest focus can\'t calm errant nerves. What other steps can you take
+narrowest focus can't calm errant nerves. What other steps can you take
 to get past the shaky hands and labored breath?
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A picture containing tennis, racket, outdoor, player Description automatically
-   generated](media_overcoming-choking/media/image14.jpg){width="1.9166666666666667in"
-                                                                     height="2.6041666666666665in"}
+   generated](media_overcoming-choking/media/image14.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                            **Smile and even laugh at the pressure situations - it\'s positive and calming.**
+                                            **Smile and even laugh at the pressure situations - it's positive and calming.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nothing works for sure, but there are a few other simple techniques you
 can try. One is to smile, even laugh if you can. (Imagine how silly you,
-are getting all wobbly about a tennis match.) It\'s not, after all, life
+are getting all wobbly about a tennis match.) It's not, after all, life
 and death. Smiling and/or laughing causes physiological effects that are
 positive and calming.
 
 Make a conscious effort to enjoy the competitive process and the crucial
-situations. Remember, it\'s a game you are playing for fun. When I was
+situations. Remember, it's a game you are playing for fun. When I was
 playing and in the midst of a tense match I sometimes joked with people
 in the crowd. It got them on my side and helped me loosen up and even
 enjoy the match.
@@ -457,13 +442,12 @@ excited - not nervously excited, but courageously excited - and exhort
 yourself to \"Come on!\" or \"Get going!\"
 
 ![A person playing tennis Description automatically
-generated](media_overcoming-choking/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_overcoming-choking/media/image15.webp)
 
 **Deep relaxing breaths between points can help eliminate stress.**
 
 Make yourself feel like a boxer going into the ring to knock out your
-opponent. You\'re the Champ!! Get after it. It\'s exciting. This is the
+opponent. You're the Champ!! Get after it. It's exciting. This is the
 situation you are playing for. Enjoy the excitement.
 
 Playing in tournaments is totally different from playing in practice. I
@@ -475,7 +459,7 @@ Championships, then held at Forest Hills.
 Most people would have considered me a pretty experienced tournament
 player and well able to handle the nerves of competition. After quitting
 the tour and while I was coaching at Pepperdine I lost interest in the
-tournaments and didn\'t play one for over 10 years.
+tournaments and didn't play one for over 10 years.
 
 Then a tournament was proposed for college tennis coaches. It was held
 back in Alabama or somewhere. I forget the exact venue. In any case, it
@@ -483,8 +467,7 @@ sounded like fun.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing sport, person, court, player Description automatically
-  generated](media_overcoming-choking/media/image16.jpg){width="3.4722222222222223in"
-  height="2.6666666666666665in"}
+  generated](media_overcoming-choking/media/image16.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Another option: the adrenaline response to tension. Go for the knockout.**
 
@@ -501,13 +484,13 @@ The tournament date rolled around, and I was playing awfully well. For a
 set I could still beat most of the players on my team, so I felt more
 than ready for this bunch of old coaches.
 
-In the first round I drew the assistant women\'s coach from Clemson. He
-wasn\'t exactly the \"old\" coach I had pictured. In fact, he was pretty
-young and pretty big. Luckily, his tennis skills didn\'t match his size,
+In the first round I drew the assistant women's coach from Clemson. He
+wasn't exactly the \"old\" coach I had pictured. In fact, he was pretty
+young and pretty big. Luckily, his tennis skills didn't match his size,
 so I still figured to have a relatively easy time of it, that is, until
 the match started.
 
-He had a big serve, which he followed to net. But he didn\'t volley
+He had a big serve, which he followed to net. But he didn't volley
 particularly well. Unfortunately, he volleyed well enough to easily
 knock off the series of shoulder-high floaters I fed him. Try as I
 might, this seemed to be all I could do, despite the fact that in
@@ -515,22 +498,21 @@ practice my serve return was usually one of my best shots.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_overcoming-choking/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_overcoming-choking/media/image17.webp)
 
 **My hands felt like granite in my first tournament after 10 years.**
 
 Then there was my serve. Now he would be on the baseline where I should
-easily be able to control the points. But that didn\'t happen either. I
-couldn\'t seem to get pace on my shots or hit them safely anywhere other
+easily be able to control the points. But that didn't happen either. I
+couldn't seem to get pace on my shots or hit them safely anywhere other
 than the center of the court.
 
-My hands felt like granite, and I couldn\'t have out-steadied my
+My hands felt like granite, and I couldn't have out-steadied my
 grandmother. It was a humiliating, straight-set loss.
 
 In my worst days as a tournament player I had never experienced a
 drop-off of this magnitude. Although I tried everything, I simply
-couldn\'t get loosened up. Of course if I had not controlled myself I
+couldn't get loosened up. Of course if I had not controlled myself I
 would have been even worse, but it showed me that a long layoff from
 tournament competition will make your nerves difficult to control under
 pressure, no matter how much experience you have had.
@@ -544,15 +526,14 @@ you are highly motivated and have a nervous system that revs up quickly
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_overcoming-choking/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_overcoming-choking/media/image18.webp)
 
 **To succeed under pressure you need to play under pressure.**
 
 Hitting tennis balls and hitting tennis balls under pressure are vastly
 different animals, although they look the same, and there is nothing odd
 about you if your tournament game is not up to your practice standard.
-Your opponent\'s probably isn\'t either.
+Your opponent's probably isn't either.
 
 So if you are scheduled to play a tournament or important event you
 would be wise to compete in a couple of less important events beforehand
@@ -560,7 +541,7 @@ to accustom your nerves to playing under pressure.
 
 **[[In summary, everyone chokes from time to time, and there is no
 disgrace in it. It just means you have a strong desire to win, and
-that\'s not a bad thing. If you choke but don\'t let it break you down
+that's not a bad thing. If you choke but don't let it break you down
 mentally, you can still win.]{.mark}]{.underline}**
 
 **[[Try to enjoy the process of competing; focus on your game plan;
@@ -568,9 +549,9 @@ maintain discipline and drive; remain hopeful and positive regardless of
 circumstances; and you will win more than your fair share of
 matches.]{.mark}]{.underline}**
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -579,62 +560,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                     | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_overcoming-choking/media/image19.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                      | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                      | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                      | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                      | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                      |                                                                                                                       |
-|                                                                                                                                                                      | [Click Here to                                                                                                        |
-|                                                                                                                                                                      | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+======================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_overcoming-choking/media/image19.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                     | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_overcoming-choking/media/image20.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                       | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                      | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                      | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                      | his first hand and very personal observations of the        |
-|                                                                                                                                                                      | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                      | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                      | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                      | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                      | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                      | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                      | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                      | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                      | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                      | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                      | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                      | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                      | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                      | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                      | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                      |                                                             |
-|                                                                                                                                                                      | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                      | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                      | 93401. The price includes shipping.                         |
-+======================================================================================================================================================================+=============================================================+
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                        | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_overcoming-choking/media/image21.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                      | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                     | American player from the glory days before Open        |
-|                                                                                                                                                                     | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                     | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                     | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                     | program into an elite contender for national titles,   |
-|                                                                                                                                                                     | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                     | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                     | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                     | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                     | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                     |                                                        |
-|                                                                                                                                                                     |                                                        |
-+=====================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_overcoming-choking/media/image20.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_overcoming-choking/media/image21.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

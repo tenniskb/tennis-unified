@@ -70,7 +70,7 @@ rounder looking do both things fairly equally?
 
 From all your answers, you will be able to come up with a clear
 description of your game style. All the variations also pair with
-whether you are right side or left side player. For me, I\'m a left
+whether you are right side or left side player. For me, I'm a left
 side, consistent, topspin baseliner.
 
 But of course there are more variations within all the game styles---the
@@ -112,37 +112,36 @@ your understanding of your game.
 
 Once this is identified, you can tailor your training more effectively,
 and be more aware in matches of opportunities to use the skills that
-you\'re good at and that usually do the job for you. You will boost your
+you're good at and that usually do the job for you. You will boost your
 confidence by having this understanding and have clarity of thought to
 deal with the pressure of matches.
 
 That wraps up this section on understanding your strengths and your game
-style. It\'s worth noting at this stage that many of the questions you
+style. It's worth noting at this stage that many of the questions you
 may have will likely be answered in upcoming articles, including how you
 adapt to your opponents game style and strengths. However, do feel free
 to raise these along with any other thoughts and comments you may have
 in the Forum!
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                            | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_the-elements-of-game-style/media/image1.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                          | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                         | competitions since formation, and over the last 2 |
-|                                                                                                                                                                         | years alone, his junior players have won 19       |
-|                                                                                                                                                                         | singles tournaments between them at county level. |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                         | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                         | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                         | players at all levels, including former British   |
-|                                                                                                                                                                         | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | His unique teaching video series, covering every  |
-|                                                                                                                                                                         | aspect of the game, is available on his website   |
-|                                                                                                                                                                         | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                         |                                                   |
-|                                                                                                                                                                         | You can also contact Nick directly via the        |
-|                                                                                                                                                                         | homepage of his website.                          |
-+=========================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_the-elements-of-game-style/media/image1.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also contact Nick directly via the |
+|  | homepage of his website. |
+
 
 ------------------------------------------------------------------------

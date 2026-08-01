@@ -6,8 +6,7 @@
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           ![A couple of people playing tennis Description automatically generated with low
-   confidence](media_from-negative-to-positive/media/image1.webp){width="2.59375in"
-                                                                   height="2.3645833333333335in"}
+   confidence](media_from-negative-to-positive/media/image1.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         **Even successful players limit their potential with negative thoughts and actions.**
 
@@ -23,15 +22,15 @@ ideal performance state in tennis? Frequently, we see successful
 competitive tennis players abuse themselves unmercifully during their
 matches.
 
-\"You\'re the worst tennis player on the planet. You should just quit
+\"You're the worst tennis player on the planet. You should just quit
 this game right now, etc, etc..\" Hang around at junior tennis events
-and you\'ll see this kind of extreme negativity is all too common.
+and you'll see this kind of extreme negativity is all too common.
 
 Yes, some successful players are negative. But the fact is, high
-negative energy rarely, if ever, brings out a player\'s real potential
+negative energy rarely, if ever, brings out a player's real potential
 or best performance.
 
-It doesn\'t lead to the biochemistry of the ideal performance state or a
+It doesn't lead to the biochemistry of the ideal performance state or a
 sense of fun on the court. If you win, it feels good at the end of the
 match just to be out from under all that strain.
 
@@ -41,10 +40,9 @@ energy will eventually teach you to hate the game.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_from-negative-to-positive/media/image2.jpg){width="2.8645833333333335in"
-                                                                                height="3.0in"}
+   confidence](media_from-negative-to-positive/media/image2.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                      **High negative energy doesn\'t lead to fun or playing your best.**
+                                                      **High negative energy doesn't lead to fun or playing your best.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -70,7 +68,7 @@ error, she was unable to focus on the next shot and proceeded to miss
 more and more backhands.
 
 **[[Many players, at all levels, are dealing with this kind of
-negativity without even being aware how it\'s affecting their
+negativity without even being aware how it's affecting their
 play.]{.underline}]{.mark}**
 
 **[[The solution is to replace these negative internal messages with
@@ -80,8 +78,7 @@ achieve your ideal performance state.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person in a striped shirt Description automatically generated with medium
-   confidence](media_from-negative-to-positive/media/image3.webp){width="2.6875in"
-                                                                        height="2.15625in"}
+   confidence](media_from-negative-to-positive/media/image3.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------
                           **To achieve your ideal performance state, you have to replace negative internal messages with positive ones.**
 
@@ -97,30 +94,29 @@ exactly am I saying to myself in various situations, particularly when I
 am not playing my best?
 
 Make a list of all the negative on-court responses you discover. \"I
-suck.\" \"I can\'t hit a backhand.\" \"I never beat this player.\" \"I
+suck.\" \"I can't hit a backhand.\" \"I never beat this player.\" \"I
 choke every easy shot.\" Whatever your own particular negative emotional
 responses may be, notice exactly when and how they come up on the court.
 
 Now, for every negative response, formulate a specific positive counter
-response. \"I can hit this shot.\" \"Keep trying.\" \"I\'ll find a way
+response. \"I can hit this shot.\" \"Keep trying.\" \"I'll find a way
 to beat this guy.\" \"I want the opportunity to hit shots under
 pressure.\"
 
 Then start to use the counter messages on the court. When you miss a
 backhand, for example, consciously tell yourself that the miss is no
-problem and that you\'ll make the next one. \"Give me another one.\"
+problem and that you'll make the next one. \"Give me another one.\"
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing text, sport, athletic game, outdoor Description automatically
-   generated](media_from-negative-to-positive/media/image4.webp){width="3.3333333333333335in"
-                                                                                height="2.5in"}
+   generated](media_from-negative-to-positive/media/image4.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **Tell yourself that the miss is no problem, \"Give me another one!\"**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Initially, you may not be able to halt the negative response from coming
-up, particularly if it\'s a long-standing behavior. Don\'t let this
+up, particularly if it's a long-standing behavior. Don't let this
 become an excuse for further self-criticism.
 
 When the self-criticisms come up, notice them and then let them go and
@@ -130,38 +126,37 @@ affirmation.
 If you find that the negative thoughts continue, simply say, stop. Then
 replace the negative message with a positive one instead.
 
-You may raise the objection: \"That won\'t help! I really don\'t think I
-can hit that backhand and telling myself I can isn\'t going to change
+You may raise the objection: \"That won't help! I really don't think I
+can hit that backhand and telling myself I can isn't going to change
 that.\"
 
-As powerful as the negativity seems, it wasn\'t something you were born
+As powerful as the negativity seems, it wasn't something you were born
 with. You learned it. And you can learn to be positive instead, if
-you\'re willing to make the effort.
+you're willing to make the effort.
 
-It may sound simple, but it\'s true. The way to change is to simply
+It may sound simple, but it's true. The way to change is to simply
 repeat the positive attitudes you want to acquire over and over and
 over.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person holding a tennis racket Description automatically
-   generated](media_from-negative-to-positive/media/image5.webp){width="2.75in"
-                                                                       height="2.1875in"}
+   generated](media_from-negative-to-positive/media/image5.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                      **You can learn to be positive on the court if you\'re willing to make the effort.**
+                                      **You can learn to be positive on the court if you're willing to make the effort.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is called repetitious thinking. Using it, you can literally
 reprogram yourself to think positively, in a new way, for the future.
 
-Probably, the ultimate test of a player\'s ability to deal with negative
+Probably, the ultimate test of a player's ability to deal with negative
 thinking is when there are disputes over calls.
 
 Bad calls tend to come at the most critical junctures in matches. They
 can be the real turning points in deciding who wins or loses.
 
 However, it is rarely the call itself that determines the match. Rather,
-it is usually the player\'s emotional reaction to the call that affects
+it is usually the player's emotional reaction to the call that affects
 the outcome.
 
 Does this scenario sound familiar? On the first close call, you let it
@@ -169,7 +164,7 @@ go, but give your opponent a look. It happens again, so you challenge
 him about the call.
 
 Reversing himself when he is under attack would be admitting guilt. Next
-thing, he starts to call every close ball out, and you\'ve got a war on
+thing, he starts to call every close ball out, and you've got a war on
 your hands.
 
 Is there another way to handle bad calls in a way that allows you to
@@ -184,7 +179,7 @@ keep playing your best and maximize your chances of winning the match?
 
 Begin by assuming your opponent is fair and is doing his best to call
 the lines correctly. Repeated experience has shown that if you treat
-your opponent with respect and dignity, you\'ll get better calls in the
+your opponent with respect and dignity, you'll get better calls in the
 long run.
 
 Even if your opponent has a reputation for making bad calls, never
@@ -201,7 +196,7 @@ If you continue to disagree with a series of calls, ask for the linesman
 by telling your opponent that you would like \"to get some help with the
 line calling.\"
 
-Rather than fuming over your opponent\'s behavior, the best response to
+Rather than fuming over your opponent's behavior, the best response to
 this situation is to dig in and get challenged. Become one of those
 players who plays better and gets even more determined when he thinks
 his opponent is cheating him.
@@ -212,8 +207,7 @@ that will last for a lifetime.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                             Jim Loehr is a legendary pioneer in the field of
-  confidence](media_from-negative-to-positive/media/image7.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                himself who still competes nationally in USTA
+  confidence](media_from-negative-to-positive/media/image7.jpeg)                                                                                                                                                himself who still competes nationally in USTA
                                                                                                                                                                                 events, Jim created the field of Mental
                                                                                                                                                                                 Toughness training with his revolutionary study
                                                                                                                                                                                 of elite pro players. He has been one of the

@@ -5,19 +5,18 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image1.jpg){width="2.34375in"
-height="2.9583333333333335in"}
+generated](media_the-ideal-performance-state/media/image1.jpg)
 
 **In close matches, mental toughness is usually the determining
 factor.**
 
 Playing competitive tennis is at least 50% mental, maybe up to 90%
-mental in some match situations. That\'s what top pros say. Of course,
+mental in some match situations. That's what top pros say. Of course,
 you need technical skills, but in close matches, when players are often
 physically equal, mental toughness is the determining factor.
 
-As a player, you\'ve probably put significant time into developing and
-trying to improve your game. You\'ve practiced, invested in new
+As a player, you've probably put significant time into developing and
+trying to improve your game. You've practiced, invested in new
 racquets, and taken lessons. But how much time have you spent developing
 the mental skills that are critical to playing your best, loving the
 competitive experience, and fulfilling your real potential?
@@ -27,7 +26,7 @@ game, only a fraction are spent developing the mental game.
 
 Players dream of hitting forehands like Andre Agassi or serving like
 Pete Sampras. But the most important key to winning\--consistent mental
-toughness\--is within any player\'s reach.
+toughness\--is within any player's reach.
 
 In this Tennisplayer.net series, we will train you to develop the same
 mental skills as the top pros to play winning tennis. More importantly,
@@ -36,10 +35,9 @@ experience in a way you might not have known possible.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-ideal-performance-state/media/image2.jpg){width="2.34375in"
-height="3.2604166666666665in"}
+confidence](media_the-ideal-performance-state/media/image2.jpg)
 
-**You may never have Agassi\'s forehand, but his mental toughness is
+**You may never have Agassi's forehand, but his mental toughness is
 within your reach.**
 
 ### The Ideal Performance State
@@ -75,8 +73,7 @@ following:
 
 ![A person holding a guitar Description automatically generated with
 medium
-confidence](media_the-ideal-performance-state/media/image3.webp){width="2.6041666666666665in"
-height="2.2604166666666665in"}
+confidence](media_the-ideal-performance-state/media/image3.webp)
 
 **The Ideal Performance State: when tennis is fun top athletes play
 their best and enjoy it the most.**
@@ -110,17 +107,16 @@ regular basis, virtually on demand. Achieving this state of physical,
 emotional, and mental balance is the key to success in pro tennis, and
 it can become the key to winning tennis for you, too.
 
-What you say, you\'ve never felt anything remotely like the
+What you say, you've never felt anything remotely like the
 characteristics of IPS in the middle of a tough match? No matter what
 you may have heard or believe, mental toughness is not something you are
-born with, it\'s something you learn.
+born with, it's something you learn.
 
 ![A person sitting in a chair Description automatically generated with
 medium
-confidence](media_the-ideal-performance-state/media/image4.jpg){width="2.34375in"
-height="3.6041666666666665in"}
+confidence](media_the-ideal-performance-state/media/image4.jpg)
 
-**Great players play well in big matches because they don\'t feel
+**Great players play well in big matches because they don't feel
 pressure in the same way as average players.**
 
 In these training articles, you will learn a series of simple, proven
@@ -128,8 +124,8 @@ methods that will allow you to create your own Ideal Performance State,
 to overcome choking, to learn to love the competitive battle, and to
 play the game with a sense of real fun.
 
-The emphasis is on the word training. **[[It\'s not a matter of just
-understanding how you should think and feel. It\'s a matter of actually
+The emphasis is on the word training. **[[It's not a matter of just
+understanding how you should think and feel. It's a matter of actually
 thinking and feeling that way.]{.underline}]{.mark}** These articles
 will present a series of specific physical and psychological techniques
 that, when practiced with discipline over time, will give you the
@@ -141,7 +137,7 @@ leads to your best tennis whenever you are on the
 court.]{.underline}]{.mark}**
 
 The result for you will be the same kind of mental toughness we see in
-the world\'s best players. The ability to win more matches, to beat the
+the world's best players. The ability to win more matches, to beat the
 players you want to beat, and enjoy the process of playing competitive
 tennis.
 
@@ -156,8 +152,7 @@ hit the forehand or the serve. Most of them are completely unaware of
 the importance of training the mental dimension.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image5.jpg){width="2.34375in"
-height="2.6354166666666665in"}
+generated](media_the-ideal-performance-state/media/image5.jpg)
 
 **How you play is directly related to how you feel inside.**
 
@@ -170,48 +165,46 @@ competitive match. They are equally unaware that this between point time
 plays a critical role in creating and maintaining the Ideal Performance
 State.
 
-We\'ll see how you can use the between point times to become the
+We'll see how you can use the between point times to become the
 mentally tough player that you really want to be.
 
 I call this process of learning to use the time between points \"The 16
-Second Cure.\" I\'ll present a detailed explanation of how the pros use
-this time to stay mentally tough. And then I\'ll show you step by step
+Second Cure.\" I'll present a detailed explanation of how the pros use
+this time to stay mentally tough. And then I'll show you step by step
 how you can develop the same ability.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-ideal-performance-state/media/image6.webp){width="2.6354166666666665in"
-height="2.3958333333333335in"}\
+generated](media_the-ideal-performance-state/media/image6.webp)\
 **The 16 Second Cure: using the time between points to become the player
 you really want to be.**
 
-I\'ll also take the opportunity to respond to some of the criticisms of
+I'll also take the opportunity to respond to some of the criticisms of
 \"The 16 Second Cure\" voiced by another TennisPlayer contributor, Dr.
 Roland Carlstedt in his article \"The 8 Greatest Myth of Sports
 Psychology.\" Stay tuned.
 
-In future articles I\'ll address the other major elements of the mental
+In future articles I'll address the other major elements of the mental
 game, including the following:
 
-+----------------------------------------------------------------------+
-| - **Choking: What choking is actually about, and how to train to     |
-|   overcome it.**                                                     |
-|                                                                      |
+| - **Choking: What choking is actually about, and how to train to |
+| --- |
+| overcome it.** |
+|  |
 | - **Breathing: Are you holding your breath at all the wrong times?** |
-|                                                                      |
+|  |
 | - **From Positive to Negative: Learning how to transform your energy |
-|   on court.**                                                        |
-|                                                                      |
-| - **Bad Calls: Dealing with opponents\--and with yourself \--when    |
-|   you get bad calls.**                                               |
-|                                                                      |
-| - **In Your Mind\'s Eye: Can you see yourself becoming the player    |
-|   you want to be?**                                                  |
-+======================================================================+
+| on court.** |
+|  |
+| - **Bad Calls: Dealing with opponents\--and with yourself \--when |
+| you get bad calls.** |
+|  |
+| - **In Your Mind's Eye: Can you see yourself becoming the player |
+| you want to be?** |
+
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                               Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-ideal-performance-state/media/image7.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                  himself who still competes nationally in USTA
+  confidence](media_the-ideal-performance-state/media/image7.jpeg)                                                                                                                                                  himself who still competes nationally in USTA
                                                                                                                                                                                   events, Jim created the field of Mental
                                                                                                                                                                                   Toughness training with his revolutionary study
                                                                                                                                                                                   of elite pro players. He has been one of the

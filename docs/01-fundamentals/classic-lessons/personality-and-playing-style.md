@@ -5,17 +5,13 @@
 ------------------------------------------------------------------------
 
 ![A picture containing person, sport Description automatically
-generated](media_personality-and-playing-style/media/image1.jpg){width="1.6579451006124235in"
-height="2.271999125109361in"}![A person with his mouth open Description
+generated](media_personality-and-playing-style/media/image1.jpg)![A person with his mouth open Description
 automatically generated with medium
-confidence](media_personality-and-playing-style/media/image2.jpg){width="1.5419674103237095in"
-height="2.263999343832021in"}![A picture containing person, athletic
+confidence](media_personality-and-playing-style/media/image2.jpg)![A picture containing person, athletic
 game, sport, player Description automatically
-generated](media_personality-and-playing-style/media/image3.jpg){width="1.5358978565179353in"
-height="2.2550896762904635in"}![A picture containing person, sport,
+generated](media_personality-and-playing-style/media/image3.jpg)![A picture containing person, sport,
 player Description automatically
-generated](media_personality-and-playing-style/media/image4.jpg){width="1.7120002187226597in"
-height="2.2462412510936134in"}
+generated](media_personality-and-playing-style/media/image4.jpg)
 
 **How do tennis personality types affect playing style?**
 
@@ -30,18 +26,16 @@ But in this article I want to verge into that field by addressing the
 issue of tennis personality types. As in other aspects of life, in
 tennis we handle things on the tennis court based on our personality
 type. When a person is playing a match his or her personality determines
-the reaction to all situations. It doesn\'t matter whether those
+the reaction to all situations. It doesn't matter whether those
 situations are stressful or successful. These reactions often determine
 what kind of choices we make, and those choices can determine a win or a
 loss.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personality-and-playing-style/media/image5.jpg){width="3.4560389326334207in"
-height="1.5897779965004375in"} ![A person playing tennis Description
+confidence](media_personality-and-playing-style/media/image5.jpg) ![A person playing tennis Description
 automatically generated with low
-confidence](media_personality-and-playing-style/media/image6.jpg){width="2.7777777777777777in"
-height="1.6111111111111112in"}
+confidence](media_personality-and-playing-style/media/image6.jpg)
 
 **Federer and Nadal both blend elements of the opposite into their
 dominant type.**
@@ -58,8 +52,8 @@ within your basic type. I will also talk about how sometimes appearances
 can be deceiving in terms of determining your own personality type.
 
 The personality that a person is born with basically determines what
-kind of player you will become, but that doesn\'t mean that a player
-can\'t make relatively small changes to his or her game that result big
+kind of player you will become, but that doesn't mean that a player
+can't make relatively small changes to his or her game that result big
 leaps in competitive success. So the first step is to actually what type
 of personality player you are. What is interesting to me in all of this
 is that appearances can be deceiving at times. The key to recognizing
@@ -72,10 +66,9 @@ personality type player. But I think the opposite.
 
 ![A person running on a court Description automatically generated with
 low
-confidence](media_personality-and-playing-style/media/image7.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+confidence](media_personality-and-playing-style/media/image7.webp)
 
-**The use of the slice is a sign of Andy\'s true personality type.**
+**The use of the slice is a sign of Andy's true personality type.**
 
 If you really look at his game, other than his serve, he struggles with
 being aggressive. This can be explained by understanding his
@@ -90,11 +83,11 @@ his forehand. His use of the slice backhand to rally is another sign of
 his true personality type.
 
 Brad Gilbert, who coached Roddick all the way to number one in the
-world, always had the same mantra for Roddick\'s game, and that was that
+world, always had the same mantra for Roddick's game, and that was that
 he had to hit his forehand (flatten it out) and stay aggressive in the
 points. The point to understand is that this more aggressive approach
 was an addition or an adaptation, something that often went against
-Andy\'s natural inclinations.
+Andy's natural inclinations.
 
 So, whether you are Andy Roddick or a 3.0 club player, the basic idea
 here is simple. Your goal should be to understand your own personality
@@ -103,17 +96,16 @@ time incorporate some of the opposite personality type into your game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personality-and-playing-style/media/image8.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+confidence](media_personality-and-playing-style/media/image8.webp)
 
 **The aggressive personality type likes to hit his way out of trouble.**
 
 **Melting Types**
 
 The reality is that the best players in the world often are a melting of
-the two personality types. You can\'t find any two better examples than
+the two personality types. You can't find any two better examples than
 Rafael Nadal and Roger Federer. Federer has always prided himself on his
-ability to play defense. And Nadal\'s ability to hit more and more
+ability to play defense. And Nadal's ability to hit more and more
 aggressive shots, especially under pressure, has been the key to his
 ascendancy.
 
@@ -127,8 +119,7 @@ bring about this melting process.
 **Aggressive Personality Type**
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image9.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image9.webp)
 
 **Fits of rage are often characteristic for the aggressive
 personality.**
@@ -155,8 +146,7 @@ type of coaching that inspires them emotionally.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_personality-and-playing-style/media/image10.jpg){width="2.016000656167979in"
-                                                                            height="1.7388013998250218in"}
+   generated](media_personality-and-playing-style/media/image10.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **Verdasco moderated his personality type all the way to the Australian semi**.
 
@@ -175,9 +165,9 @@ emotionally is very important.
 Federer in the juniors and early in his professional career was very
 much like this. He had big emotional swings not only between games but
 between points, and this created inconsistent results. Everyone saw his
-talent, but it wasn\'t until he was able to get his emotional game under
+talent, but it wasn't until he was able to get his emotional game under
 control that things started to go his way in a dramatic fashion. He
-added a mental patience to his game that wasn\'t there before.
+added a mental patience to his game that wasn't there before.
 
 Another obvious recent example is Fernando Verdasco. His success at the
 Australian Open came from emotional and mental changes, changes in his
@@ -185,8 +175,7 @@ willingness to stay in tough points, to fight, and to stay positive as
 his matches swayed back and forth.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image11.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image11.webp)
 
 **Reactive thinking can lead to emotional upsets that effect
 performance.**
@@ -200,7 +189,7 @@ general.
 He has to think about where he is in a match and how that situation
 should affect decisions technically and tactically. This is very
 difficult sometimes for aggressive players because their best
-performances often come when they react and don\'t think too much.
+performances often come when they react and don't think too much.
 
 But some of their worst performances occur because of this reactive,
 non-thinking process as well. Learning to mentally analyze situations
@@ -210,14 +199,13 @@ necessary for more consistent outings.
 Often aggressive type personality players feel that too much analysis
 can lessen their intensity and create a poor performance. And initially
 it can. But if they are open to the process, they find that every
-situation they face doesn\'t warrant a strong emotional response and the
+situation they face doesn't warrant a strong emotional response and the
 corresponding ups and downs. Cultivating this skill simply gives the
 aggressive player more options when stressful situations arise in a
 match.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image12.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image12.webp)
 
 **Early in his career Federer made technical improvements with his
 backhand.**
@@ -231,7 +219,7 @@ quality attacking forehand, they may execute that forehand better, more
 often. This will mean higher shot percentages that will their attacking
 game even more formidable.
 
-We can see this in Federer\'s development on his backhand. You could see
+We can see this in Federer's development on his backhand. You could see
 from the beginning of his rise that he had a very clear sense of his
 forehand and how to use it to his advantage, but his backhand was
 another story. I believe this is what his former coach Peter Lundgren
@@ -246,8 +234,7 @@ type of player likes his training to be more supportive emotionally and
 less about technique.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image13.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image13.webp)
 
 **Becoming less erratic under pressure - key for the aggressive
 player.**
@@ -264,7 +251,7 @@ between winning and losing.
 Tennis is about numbers and percentages. If technically improvements in
 an attacking shot increase the number that land in even by a small
 percentage, that can go a long way toward winning a close match. The
-quality of a player\'s technique has a direct bearing on shot velocity.
+quality of a player's technique has a direct bearing on shot velocity.
 The better the technique the harder it can be hit with success. I call
 this the \"speed limit\". This concept is crucial for the aggressive
 personality type player to understand. This kind technical training can
@@ -272,8 +259,7 @@ be difficult, but the results will be worth it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personality-and-playing-style/media/image14.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+confidence](media_personality-and-playing-style/media/image14.webp)
 
 **Aggressive players often must train to use slice and other defensive
 shots.**
@@ -312,8 +298,7 @@ with the intent of landing it on the line (even smaller space).
 
 ![A picture containing sport, athletic game, blue, indoor Description
 automatically
-generated](media_personality-and-playing-style/media/image15.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image15.webp)
 
 **Deep down the middle is a great defensive play.**
 
@@ -321,7 +306,7 @@ A change in thinking is required to choose the larger parts of the court
 on defense. This obviously will raise the percentage of shots that
 actually land in.
 
-As I\'ve written in previous articles, players should often use the deep
+As I've written in previous articles, players should often use the deep
 center of the court as a target area for defensive shots. This is also a
 great play on first serve returns ([Click
 Here](The%20Forehand%20Return.docx).) The advantage is that the deep
@@ -342,7 +327,7 @@ her to play a neutral instead of an attacking shot.
 I feel this shot can a bit more risky because if it is not hit quite
 deep enough and the player is well off the court, the opponent may be
 able to hit a winner. But it makes especially good sense when the
-crosscourt is aimed to the opponent\'s weaker side. The further out of
+crosscourt is aimed to the opponent's weaker side. The further out of
 position you are, however, the more important it is to put the ball
 higher and deeper to give you recovery time.
 
@@ -355,8 +340,7 @@ needs them, they can be the difference between winning and losing.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_personality-and-playing-style/media/image16.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image16.webp)
 
 **Playing key patterns like the forehand inside out and inside in is
 critical.**
@@ -366,10 +350,10 @@ critical.**
 Often aggressive style players, particularly at the lower level, have
 poor attacking patterns to begin with or none at all. They rely on just
 hitting the ball as hard as possible without much thought to where, and
-just hope it doesn\'t come back.
+just hope it doesn't come back.
 
 The basic pattern of going cross court until the player receives a short
-reply is where to start. Another basic pattern that isn\'t utilized
+reply is where to start. Another basic pattern that isn't utilized
 enough at the club level is the forehand hit inside out, then inside in.
 
 The question to ask about all patterns, is whether there is too much
@@ -381,24 +365,21 @@ same mental calmness I described above.
 
 One last training aspect for this type of personality is physical
 stamina training. Players who play aggressive may fear adding more shots
-and longer points, because win or lose their matches don\'t tend to test
+and longer points, because win or lose their matches don't tend to test
 their condition. Doing more stamina type training and building aerobic
 capacity (longer sessions on the bike or the treadmill at the gym) will
 go a long way in calming the mind and body when on the court. The
 willingness to stay in points longer will be there because the player
 knows he/she can go the distance.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with his tennis racket Description automatically                                                                                                         |
-| generated](media_personality-and-playing-style/media/image17.jpg){width="2.4in"                |
-| height="1.4402777777777778in"}                                                                                                                                                     |
-+:==================================================================================================================================================================================:+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                           |
-| generated](media_personality-and-playing-style/media/image18.jpg){width="2.4079997812773404in" |
-| height="1.4995264654418197in"}                                                                                                                                                     |
-|                                                                                                                                                                                    |
-| **Defensive players: steadier point to point and match to match.**                                                                                                                 |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with his tennis racket Description automatically |
+| --- |
+| generated](media_personality-and-playing-style/media/image17.jpg) |
+| ![A person hitting a ball with a tennis racket Description automatically |
+| generated](media_personality-and-playing-style/media/image18.jpg) |
+|  |
+| **Defensive players: steadier point to point and match to match.** |
+
 
 **Defensive Personality Type**
 
@@ -424,8 +405,7 @@ of which makes them very difficult to defeat.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personality-and-playing-style/media/image19.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+confidence](media_personality-and-playing-style/media/image19.webp)
 
 **A defensive tendency - to become more defensive under pressure.**
 
@@ -445,7 +425,7 @@ to players they would usually wear down.
 **Technical Changes**
 
 This type of player tends to like to learn new things technically. But
-often they won\'t use a new technique in match play because it
+often they won't use a new technique in match play because it
 represents what they see as an unnecessary risk. The aggressive
 personality type player has to force him/herself to hold back and play
 safer. Conversely, the defensive personality player has to force
@@ -454,8 +434,7 @@ occasion.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personality-and-playing-style/media/image20.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+confidence](media_personality-and-playing-style/media/image20.webp)
 
 **Defensive players can incorporate offense by coming forward.**
 
@@ -475,13 +454,12 @@ small loses in their movement, or their determination and effort level.
 
 **Mental Changes**
 
-Now let\'s take a look at the mental and physical changes that have to
+Now let's take a look at the mental and physical changes that have to
 occur to make this personality type player even more successful. Just as
 with the aggressive type player, the mental changes can be the toughest.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image21.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image21.webp)
 
 **The mental dynamic of taking opportunities is key for defensive
 players.**
@@ -498,7 +476,7 @@ these players have to understand and accept how their mistakes under
 pressure can come from \"under hitting.\"
 
 Moving forward into the court is another related mental hurdle to
-overcome. Often these players actually volley well. It\'s not the
+overcome. Often these players actually volley well. It's not the
 physical dynamic that prevents them from moving forward, but the mental
 one. So again, these players have to practice and learn to take the risk
 of coming in. This is best accomplished in practice or low pressure
@@ -518,8 +496,7 @@ change. But often defensive types trying to play more aggressively try
 to change too many things at once.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image22.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image22.webp)
 
 **A player with a good forehand can add aggression playing riskier down
 the line shots for winners.**
@@ -547,16 +524,15 @@ few weeks it became a standard in his game, and part of some big wins in
 local pro tournaments.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image23.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image23.webp)
 
 **Nadal has improved every dimension of his aggressive game.**
 
-Again, this type of player shouldn\'t move away from their own
+Again, this type of player shouldn't move away from their own
 personality type too much. If you have a consistent second serve, try to
 improve the velocity and accuracy of your first serve, but never lose
 sight of serving with consistency and good percentages. If you have the
-world\'s best crosscourt forehand, work on a down the line penetrating
+world's best crosscourt forehand, work on a down the line penetrating
 forehand to use at an opportune moment to turn the tide in your favor.
 
 Obviously, the biggest example of this type of change at the highest
@@ -580,7 +556,7 @@ remain in defensive positions when there are opportunities to attack.
 This strategy may be fine at lower levels, but if you really want to
 move up, you have to diversify with aggressive tactical elements.
 
-Again, it\'s not a complete turn around. It means taking a few more
+Again, it's not a complete turn around. It means taking a few more
 risks to transit from defense to offense when there are opportunities.
 For example, on a big point taking a short ball and coming in and
 forcing the opponent to hit a pass. Or being more aggressive going down
@@ -593,8 +569,7 @@ inside the baseline, looking for a short reply, and trying to hit a
 winner, instead of playing a slice or a lob.
 
 ![A person playing tennis Description automatically
-generated](media_personality-and-playing-style/media/image24.webp){width="3.3333333333333335in"
-height="2.6666666666666665in"}
+generated](media_personality-and-playing-style/media/image24.webp)
 
 **Guillermo Canas, another defensive player who can come forward at key
 moments.**
@@ -624,24 +599,23 @@ include one or all of these aspects discussed, but I have no doubt that
 understanding basic personality distinction and what it means has huge
 implications for any player or coach who takes it seriously.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                         | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_personality-and-playing-style/media/image25.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                      | numerous ranked junior players and coached  |
-|                                                                                                                                                                                     | a series of championship high school teams. |
-|                                                                                                                                                                                     | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                     | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                     |                                             |
-|                                                                                                                                                                                     | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                     | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                     | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                     | are now splitting time between homes in     |
-|                                                                                                                                                                                     | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                     | continued to coach and to have great        |
-|                                                                                                                                                                                     | competitive success winning Canadian        |
-|                                                                                                                                                                                     | National seniors titles---not to mention    |
-|                                                                                                                                                                                     | continuing to write articles for            |
-|                                                                                                                                                                                     | Tennisplayer from his unique perspective.   |
-+=====================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_personality-and-playing-style/media/image25.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

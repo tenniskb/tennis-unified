@@ -6,8 +6,7 @@
 
 ![A person holding a light up in front of a crowd Description
 automatically generated with low
-confidence](media_the-ladder-of-gain/media/image1.jpg){width="4.444444444444445in"
-height="3.0555555555555554in"}
+confidence](media_the-ladder-of-gain/media/image1.jpg)
 
 **Winning one more set made Nadal Wimbledon champion.**
 
@@ -40,8 +39,7 @@ is a resting platform every 30 meters.
 
 ![A picture containing sky, outdoor, clouds, cloudy Description
 automatically
-generated](media_the-ladder-of-gain/media/image2.jpeg){width="4.395652887139107in"
-height="2.9304352580927384in"}
+generated](media_the-ladder-of-gain/media/image2.jpeg)
 
 **Visualize a ladder to the top of the building.**
 
@@ -75,15 +73,14 @@ feel higher up.
 
 ![A picture containing green, building, roulette, stadium Description
 automatically
-generated](media_the-ladder-of-gain/media/image3.jpg){width="4.166666666666667in"
-height="2.5277777777777777in"}
+generated](media_the-ladder-of-gain/media/image3.jpg)
 
 **As you climb the ground can start to seem a long way down.**
 
 The grounds starts to seem a long way down. If your arms and legs feel a
 bit tired you wonder if you are strong enough. You may begin to feel
 isolated as friends get left behind. The solution is to narrow your
-focus on the next rung and nothing else until you\'ve reached your
+focus on the next rung and nothing else until you've reached your
 target platform where you can take stock and fuel yourself for the next
 phase. Imagine you are connected to your coach and the world at large
 through an earpiece which can be adjusted and tuned into any frequency -
@@ -98,7 +95,7 @@ keep working until you are capable of climbing to the next rung.
 Whatever the score, do everything you can to gain the next point. If you
 can enough points you gain a game. Again, in the words of Rafael Nadal
 \"you just try to play tough and focus point for point. Sounds so boring
-but it\'s the right thing to do.\"
+but it's the right thing to do.\"
 
 There is little value in focusing on how long you have been stuck on the
 same rung. The job is to get better and stronger. Every player faces
@@ -107,8 +104,7 @@ at one of the resting places.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-ladder-of-gain/media/image4.jpg){width="4.973912948381452in"
-height="3.7304352580927382in"}
+confidence](media_the-ladder-of-gain/media/image4.jpg)
 
 **Focus point to point: boring but right.**
 
@@ -142,20 +138,19 @@ into?]{.mark}]{.underline}**
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-ladder-of-gain/media/image5.jpg){width="4.166666666666667in"
-height="3.0833333333333335in"}
+confidence](media_the-ladder-of-gain/media/image5.jpg)
 
 **Between stages take only an occasional glance down.**
 
 **[[There are negative personalities on this journey up the ladder who
 voice their doubts. Ironically this could be friends, a coach, or
 parents, in fact anyone who you or their actions imply that have reached
-your potential: that the target is to high or that it\'s only other
+your potential: that the target is to high or that it's only other
 people with incredible luck or more talent who can climb to the
 top.]{.mark}]{.underline}**
 
 **[[There are many who deliberately or inadvertently weaken your resolve
-by highlighting all the reasons why you can\'t make
+by highlighting all the reasons why you can't make
 it.]{.underline}]{.mark}** **[[Avoid anyone who encourages you to stop,
 to enjoy the view, to forget about the next platform up or tries to
 limit you to the level of their own ambition.]{.underline}]{.mark}**
@@ -178,8 +173,7 @@ force whose ability to perform was weakened due to the huge disruptions
 in his private life.]{.mark}]{.underline}**
 
 ![A picture containing person Description automatically
-generated](media_the-ladder-of-gain/media/image6.jpg){width="4.166666666666667in"
-height="2.861111111111111in"}
+generated](media_the-ladder-of-gain/media/image6.jpg)
 
 **A dominant force can be weakened by disruptions in private life.**
 
@@ -201,7 +195,7 @@ rungs.]{.mark}]{.underline}**
 successful person will tell you, although the view is fantastic and
 rewarding, quickly you notice there is a bridge you can cross to a
 larger tower and you have to decide whether to attempt to climb again,
-because if you don\'t someone else most certainly will. The focus and
+because if you don't someone else most certainly will. The focus and
 ability to keep improving is the key to reaching and remaining at high
 levels.]{.mark}]{.underline}**
 
@@ -211,45 +205,43 @@ block the destructive voices. Keep it simple no matter where you are on
 the ladder. Gain the next point, the next game, the next set, and the
 next match.]{.mark}]{.underline}**
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+
-| ![A picture containing person, person, indoor, posing Description automatically                                                                                     | David Sammel is a registered ATP tour coach    |
-| generated](media_the-ladder-of-gain/media/image7.jpeg){width="1.5652777777777778in" | and a consultant across the spectrum of        |
-| height="2.4in"}                                                                                                                                                     | professional sport. He has spent 25 years      |
-|                                                                                                                                                                     | coaching international players, has been a     |
-|                                                                                                                                                                     | national coach for the Lawn Tennis             |
-|                                                                                                                                                                     | Association, and was named one of the world\'s |
-|                                                                                                                                                                     | top 50 coaches by Nike. He is the head coach   |
-|                                                                                                                                                                     | of Team Bath-Monte Carlo Tennis Academy        |
-|                                                                                                                                                                     | located at the University of Bath, Bath        |
-|                                                                                                                                                                     | England. He is a regular contributor in        |
-|                                                                                                                                                                     | British media and tennis commentary and an     |
-|                                                                                                                                                                     | editor for Tennishead Magazine.                |
-|                                                                                                                                                                     |                                                |
-|                                                                                                                                                                     | [Click Here](http://www.teambathmcta.com/) for |
-|                                                                                                                                                                     | More Information on the Academy                |
-+=====================================================================================================================================================================+================================================+
+| ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
+| --- | --- |
+| generated](media_the-ladder-of-gain/media/image7.jpeg) | professional sport. He has spent 25 years |
+|  | coaching international players, has been a |
+|  | national coach for the Lawn Tennis |
+|  | Association, and was named one of the world's |
+|  | top 50 coaches by Nike. He is the head coach |
+|  | of Team Bath-Monte Carlo Tennis Academy |
+|  | located at the University of Bath, Bath |
+|  | England. He is a regular contributor in |
+|  | British media and tennis commentary and an |
+|  | editor for Tennishead Magazine. |
+|  |  |
+|  | [Click Here](http://www.teambathmcta.com/) for |
+|  | More Information on the Academy |
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person holding a microphone Description automatically generated with medium                                                                                      | When you think about the most successful         |
-| confidence](media_the-ladder-of-gain/media/image8.jpeg){width="1.5652777777777778in" | athletes and people of all time, almost every    |
-| height="2.5131944444444443in"}                                                                                                                                       | one of them has a certain aura and invincibility |
-|                                                                                                                                                                      | in the way they present themselves in sport and  |
-|                                                                                                                                                                      | to the world. Sometimes mistaken for arrogance,  |
-|                                                                                                                                                                      | this self-belief is essential in succeeding in   |
-|                                                                                                                                                                      | professional sport and in life in general too.   |
-|                                                                                                                                                                      |                                                  |
-|                                                                                                                                                                      | The best believe they\'re the best and they make |
-|                                                                                                                                                                      | their opponents believe they\'re the best too.   |
-|                                                                                                                                                                      | Locker Room Power: Building an Athlete\'s Mind,  |
-|                                                                                                                                                                      | describes and examines David\'s coaching         |
-|                                                                                                                                                                      | philosophy, which is drawn from his relentless   |
-|                                                                                                                                                                      | drive to help people improve at their game,      |
-|                                                                                                                                                                      | utilizing his vast experience, knowledge and     |
-|                                                                                                                                                                      | understanding of the mental aptitude required to |
-|                                                                                                                                                                      | succeed as a professional sportsperson.          |
-|                                                                                                                                                                      |                                                  |
-|                                                                                                                                                                      | [Click Here to                                   |
-|                                                                                                                                                                      | Order!](http://www.lockerroompower.com/buy-now/) |
-+======================================================================================================================================================================+==================================================+
+
+| ![A person holding a microphone Description automatically generated with medium | When you think about the most successful |
+| --- | --- |
+| confidence](media_the-ladder-of-gain/media/image8.jpeg) | one of them has a certain aura and invincibility |
+|  | in the way they present themselves in sport and |
+|  | to the world. Sometimes mistaken for arrogance, |
+|  | this self-belief is essential in succeeding in |
+|  | professional sport and in life in general too. |
+|  |  |
+|  | The best believe they're the best and they make |
+|  | their opponents believe they're the best too. |
+|  | Locker Room Power: Building an Athlete's Mind, |
+|  | describes and examines David's coaching |
+|  | philosophy, which is drawn from his relentless |
+|  | drive to help people improve at their game, |
+|  | utilizing his vast experience, knowledge and |
+|  | understanding of the mental aptitude required to |
+|  | succeed as a professional sportsperson. |
+|  |  |
+|  | [Click Here to |
+|  | Order!](http://www.lockerroompower.com/buy-now/) |
+
 
 ------------------------------------------------------------------------

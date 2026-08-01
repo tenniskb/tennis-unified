@@ -8,8 +8,7 @@
 
 ![A group of people in green uniforms Description automatically
 generated with low
-confidence](media_techniques-for-developing-confidence/media/image1.jpg){width="5.7530172790901135in"
-height="3.0260870516185476in"}
+confidence](media_techniques-for-developing-confidence/media/image1.jpg)
 
 **You can use the same techniques to build your confidence as I have
 with my state championship teams.**
@@ -19,7 +18,7 @@ unconditional self-acceptance as one of the foundations of true
 confidence. ([Click Here](Self-Acceptance%20and%20Confidence.docx).)
 
 Tennis gives you an opportunity to learn a lot about yourself. If you
-have confidence, you need to use it effectively. If you don\'t have
+have confidence, you need to use it effectively. If you don't have
 enough of it, you need to learn what you can do to genuinely become more
 confident.
 
@@ -27,7 +26,7 @@ To build more confidence, focus more on building a better version of
 yourself. If you can do that, it will improve your chances of getting
 desired outcomes more often.
 
-Now let\'s explore some specific techniques that I have used with
+Now let's explore some specific techniques that I have used with
 players at all levels and with my championship teams that can help you
 build that better version.
 
@@ -41,8 +40,7 @@ Visualize yourself or you and your teammates going through your pre-game
 stretch and movement routine. Then visualize your warm-up.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image2.jpg){width="5.4260870516185475in"
-height="2.8726345144356955in"}
+generated](media_techniques-for-developing-confidence/media/image2.jpg)
 
 **Tell yourself you will hit a great return when you have break point.**
 
@@ -66,7 +64,7 @@ time.]{.underline}]{.mark}**
 
 The second technique is positive self-talk. Your mind manifests into
 action the thoughts you dwell upon most. Make those thoughts positive or
-geared toward what you want to happen, rather than what you don\'t want
+geared toward what you want to happen, rather than what you don't want
 to happen.
 
 Instead of thinking to yourself that you might miss an easy sitter, tell
@@ -85,8 +83,7 @@ the contest, and it also allows you to imagine how you will handle any
 type of adversity. Use mental imagery to picture yourself being relaxed
 and in a state of flow.
 
-![](media_techniques-for-developing-confidence/media/image3.jpg){width="3.125in"
-height="3.125in"}
+![](media_techniques-for-developing-confidence/media/image3.jpg)
 
 **The color blue represents, confidence, boldness, calmness.**
 
@@ -117,16 +114,15 @@ flows in your confidence itself.]{.mark}]{.underline}**
 
 **[[Focus on these controllable elements, instead of uncontrollable
 factors like the weather, what other people think or say, or the
-coaches\' decisions.]{.mark}]{.underline}**
+coaches' decisions.]{.mark}]{.underline}**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image4.jpg){width="3.8194444444444446in"
-height="3.0555555555555554in"}
+generated](media_techniques-for-developing-confidence/media/image4.jpg)
 
 **Do you think Rafa looks focused on the process?**
 
 **[[Focus also on what you are doing right.]{.underline}]{.mark}**
-**It\'s important to learn from your mistakes, but don\'t dwell on them.
+**It's important to learn from your mistakes, but don't dwell on them.
 Your confidence will diminish if you spend too much time thinking about
 your mistakes. Your confidence will increase if you primarily focus on
 what you are doing right.**
@@ -136,7 +132,7 @@ focusing on the process of improving, you are focusing on something
 within your control. You have influence on outcomes, but not control
 over them. If you focus on the process and you still lose, you may be
 disappointed, but your confidence should not waver as much, and you
-won\'t be as deterred as you would have had you focused on the outcome.
+won't be as deterred as you would have had you focused on the outcome.
 
 **[[Focus on yourself, not others.]{.underline}]{.mark}** Concentrate on
 your own performance and personal improvement physically, mentally, and
@@ -144,7 +140,7 @@ emotionally. Focus on what you need to do to improve individually or as
 a team. When you experience improvement, your confidence will grow.
 
 In discovering \"the right process for you,\" you will come to realize
-that your confidence will fluctuate. Consequently, don\'t get upset with
+that your confidence will fluctuate. Consequently, don't get upset with
 yourself when your confidence goes down. Focus on what you need to do
 and how you need to think to get your confidence going again.
 
@@ -156,8 +152,7 @@ love to win.
 
 ![A person and person holding a plaque Description automatically
 generated with low
-confidence](media_techniques-for-developing-confidence/media/image5.jpg){width="4.113043525809274in"
-height="4.392731846019248in"}
+confidence](media_techniques-for-developing-confidence/media/image5.jpg)
 
 **The paradox is that to achieve results you have to ignore them.**
 
@@ -175,7 +170,7 @@ how to go about getting those results. What are you focusing on during
 competition? Are you focusing on the outcome or the process?
 
 An outcome focus involves focusing on results, rankings, and beating
-others. This focus prioritizes things outside of the athlete\'s control.
+others. This focus prioritizes things outside of the athlete's control.
 A process focus involves focusing on what you need to do to perform your
 best, such as improving your pre game preparation, technique, strategy,
 or psychological perspective. A process focus centers entirely on you.
@@ -184,7 +179,7 @@ It is not uncommon for some athletes to think that to get the results
 they want, they need to focus on them. But having an outcome focus
 actually reduces the chances of achieving the results you want.
 
-If you\'re focused on the outcome, you aren\'t focused on what you need
+If you're focused on the outcome, you aren't focused on what you need
 to do to perform your best during competition. What makes you nervous
 before a competition is typically the outcome, not the process.
 
@@ -194,8 +189,7 @@ The bottom line is that when an athlete focuses on the outcome, they are
 far less likely to get the outcome they want.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_techniques-for-developing-confidence/media/image6.jpg){width="4.678261154855643in"
-height="2.9161154855643043in"}
+generated](media_techniques-for-developing-confidence/media/image6.jpg)
 
 **Focusing on the process that creates winning, not winning itself.**
 
@@ -208,7 +202,7 @@ If an athlete performs well, they are more likely to achieve the desired
 result. It is important to focus on the things that create winning and
 not on winning itself.
 
-Even if it\'s best to not think about winning, it is unrealistic to
+Even if it's best to not think about winning, it is unrealistic to
 expect an athlete not to think about results at all. Consequently, your
 challenge is to determine what to do when your mind fixates on results.
 
@@ -234,10 +228,9 @@ of circumstances.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_techniques-for-developing-confidence/media/image7.jpeg){width="1.7215277777777778in"
-height="2.3652777777777776in"}
+confidence](media_techniques-for-developing-confidence/media/image7.jpeg)
 
-Ben Loeb has been the varsity tennis coach for the boys\' and girls\'
+Ben Loeb has been the varsity tennis coach for the boys' and girls'
 teams at Rock Bridge High School in Columbia, Missouri for over 30
 years. His teams have won more than 1000 dual matches, made 38
 appearances in the final four of the state team championships, and won
@@ -247,12 +240,11 @@ to overcome the mental and emotional challenges of playing winning
 competitive tennis.
 
 ![A cover of a book Description automatically generated with medium
-confidence](media_techniques-for-developing-confidence/media/image8.jpeg){width="1.8263888888888888in"
-height="2.6in"}
+confidence](media_techniques-for-developing-confidence/media/image8.jpeg)
 
 **Next-Level Coaching!**
 
-Ben\'s new book, Next-Level Coaching, outlines the principles he has
+Ben's new book, Next-Level Coaching, outlines the principles he has
 developed over his career as a player and a championship coach to help
 overcome the mental and emotional challenges of playing and enjoying
 competitive tennis. It includes detailed self-assessment questionnaires

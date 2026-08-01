@@ -4,23 +4,22 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image1.webp)
 
 **What are the keys to the variety of possible backhand returns?**
 
 In my last article I looked at the forehand return. ([Click
 Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\The%20Forehand%20Return.docx).)
-Now let\'s turn our attention to the backhand side. This requires a
+Now let's turn our attention to the backhand side. This requires a
 separate look at the one-handed backhand returns and the two-handed
 backhand returns. Some aspects are similar (and also similar to the
 forehand). But some aspects are very different.
 
-As we did with the forehand return, we\'ll look at the differences
-between blocking a backhand return and hitting a swinging return. We\'ll
+As we did with the forehand return, we'll look at the differences
+between blocking a backhand return and hitting a swinging return. We'll
 also see how the use of one or two hands influences those options.
 
-We\'ll look at positioning when returning\--how close to the baseline
+We'll look at positioning when returning\--how close to the baseline
 should a player stand? When and why should you shift left or right?
 Finally, I want to raise another issue that is usually overlooked: the
 mental aspect of the return game. Is there is a difference mentally
@@ -29,21 +28,20 @@ there a difference compared to the forehand?
 
 **Backhand Return Similarities**
 
-Let\'s start with the similarities between the one-handed and two-handed
+Let's start with the similarities between the one-handed and two-handed
 backhand returns. **[[The ready position and footwork are basically the
 same, the same as they are for the forehand.]{.underline}]{.mark}** That
-makes sense since you don\'t know in advance which side the serve is
+makes sense since you don't know in advance which side the serve is
 coming to.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image2.webp)
 
 **Posture, ready position, then the turn.**
 
 The checkpoints are simple. The knees are bent. On the two-hander the
 hands are together on the grip. On the one-handed backhand the
-non-dominant hand is placed on the throat. The player\'s back can be
+non-dominant hand is placed on the throat. The player's back can be
 either straight or bent depending on the individual. But, universally on
 all pro returns, the back straightens and the player stands up as the
 toss of the serve goes up into the air.
@@ -59,14 +57,13 @@ hit.]{.underline}]{.mark}**
 When the player moves backwards, there can also be more steps before the
 split. This typically occurs on slower surfaces like clay. We saw that
 on the forehand return this also happens when players are trying to run
-around to hit aggressive forehand returns. But overall, it\'s less
+around to hit aggressive forehand returns. But overall, it's less
 common on the backhand, when players seeking to be more aggressive tend
 to go forward, not back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image3.webp)
 
 **Alternate step patterns to initiate the unit turn: the reverse pivot
 and drop step.**
@@ -95,8 +92,7 @@ reaching an angle of 120 degrees or even more.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image3.webp)
 
 **The amount of total shoulder turn is less on the returns.**
 
@@ -109,12 +105,12 @@ returns, the amount of turn can be reduced substantially further.
 On the backhand return, the contact can be made with an open-stance, a
 neutral stance, or a closed stance. On the forehand most returns are hit
 open stance, and occasionally neutral. On the backhand, players will hit
-open stance, but frequently neutral and closed stance as well. It\'s not
+open stance, but frequently neutral and closed stance as well. It's not
 that one stance seems to have the advantage so much as that the stance
 is dictated by the nature of the ball.
 
 The terminology here can be tricky. Often the players are stepping
-forward or across into the shot, but don\'t get the front foot down on
+forward or across into the shot, but don't get the front foot down on
 the court until after the contact, similar to the footwork on a running
 groundstroke. Even when the players are in the process of stepping far
 across their bodies, some coaches would call these returns open stance,
@@ -124,8 +120,7 @@ ball are what is critical.
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_the-backhand-returns/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image4.webp)
 
 **The subtle, but more compact movement of the racket tip on the return
 compared to the groundstroke.**
@@ -133,7 +128,7 @@ compared to the groundstroke.**
 **Swing Path**
 
 Like the turns, the backswing paths on the backhand returns are more
-compact as well. This difference doesn\'t seem dramatic when we casually
+compact as well. This difference doesn't seem dramatic when we casually
 observe backhand returns. This is probably because the backswings on
 backhand groundstrokes are more compact in general compared to the
 forehand.
@@ -149,7 +144,7 @@ reduced. The easiest way to see this is to look the tip of the
 racket.]{.underline}]{.mark}** On most backhand groundstrokes, the tip
 of the racket usually goes back until it points directly to the back
 fence at about a 90 degree angle, or slightly further. On most backhand
-returns this angle is reduced. The hands don\'t go back as far, and the
+returns this angle is reduced. The hands don't go back as far, and the
 racket tip reaches an angle of say 70 or 80 degrees.
 
 **[[But it is very important to understand that this reduced backswing
@@ -159,8 +154,7 @@ this variation of the two-handed return. I think this longer
 follow-through is the way to develop the drive return.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image5.webp)
 
 **The basic pattern: more compact backswing, long follow-through.**
 
@@ -187,8 +181,7 @@ continues for what appears to be 2 feet or less, after contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image6.webp)
 
 **The two-handed block with dramatic reduction in backswing and
 follow-through.**
@@ -209,15 +202,14 @@ based on the same fundamentals.
 
 The ability to block effectively with two hands is one reason why you
 see relatively few one-handed slice returns from two-handed players.
-Another may be that two-handers simply aren\'t as comfortable or
+Another may be that two-handers simply aren't as comfortable or
 confident hitting with one-hand. For these reasons, the slice returns
 hit by two-handers are often from stretched defensive positions, or they
 are used as a change of pace tactic.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image7.webp)
 
 **A slightly compacted one-handed backhand drive return: the best model
 for most players.**
@@ -247,8 +239,7 @@ groundstrokes. When the players hit from extreme closed stances that
 turn can reach 120 degrees or more.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image8.webp)
 
 **The differences in the shoulder turn between the one-handed return and
 the one-handed groundstroke.**
@@ -279,16 +270,15 @@ through the ball and extend the finish.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image9.webp)
 
-**Blake\'s flatter drive return.**
+**Blake's flatter drive return.**
 
 **Flat Returns**
 
 Some players such as James Blake compress the one-handed return motion
 somewhat further, but not so much it can be considered a block. With
-James, the shoulder turn rarely reaching more than 90 degrees. You\'ll
+James, the shoulder turn rarely reaching more than 90 degrees. You'll
 also see that his outside foot usually turns less sideways than other
 players. Often it is at an angle of 45 degrees or less toward the
 sideline, compared with 90 degrees in the typical body turn.
@@ -300,7 +290,7 @@ through the contact zone, the racket tip points at the sideline longer.
 A player like Federer rotates the racket tip up more so it is pointed
 directly upwards at the most extended part of the swing.
 
-If you look at most of Jame\'s returns, the racket tip stays at a
+If you look at most of Jame's returns, the racket tip stays at a
 flatter angle and points less upwards, or if it does point upwards, does
 so later in the swing.
 
@@ -309,15 +299,14 @@ the opposite of the block. Rather than simply trying to block the ball
 into play with a smaller swing, James is hitting aggressive, flatter
 drive returns with this motion.
 
-These returns are riskier and more difficult to time. If it\'s your
+These returns are riskier and more difficult to time. If it's your
 inclination to return in this fashion you should definitely experiment
 with it after your foundation is sound. When James wants to hit a more
 conservative return, he hits with slice, as do most one-handers, as we
 will see.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image10.webp)
 
 **True blocks and full groundstrokes: two other one-hand return
 variations.**
@@ -330,24 +319,23 @@ returns on first serves that qualify as blocks. The swing is radically
 compacted, similar to the two-handed block, with less turn and less
 follow-through. Fernando Gonzales at times will also use a block return
 that is similar to Ljubicic, but most times he swings more fully.
-You\'ll see Federer and Blake and others do it occasionally as well. But
-it\'s not the norm.
+You'll see Federer and Blake and others do it occasionally as well. But
+it's not the norm.
 
 Contrast that to the opposite approach of a player like Richard Gasquet,
 who likes to move several feet back even on second serve returns. From
 this position he takes a backhand swing on his returns that is virtually
 identical in size to his backhand groundstrokes.
 
-So, let\'s summarize where we are at this point for most players. The
-logic we\'ve explored on all the returns is this: learn the longer,
+So, let's summarize where we are at this point for most players. The
+logic we've explored on all the returns is this: learn the longer,
 fuller swing patterns first. Our goal is to develop the best returns
 possible, and 20 years of teaching convinces me of this path. Compact
 swings need the core preparation and some feeling of hitting through to
 succeed, and these can only be mastered in the longer motions.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image11.webp)
 
 **The slice return is the basic block return for one-handers.**
 
@@ -357,25 +345,24 @@ Compared to the two-handers, **[[the use of slice on the return is much
 more prevalent for one-handed players.]{.mark}]{.underline}** Most
 one-handers use the slice return the same way the two-handers use the
 block return. The obvious example in the pro game is the way Roger
-Federer consistently neutralizes Andy Roddick\'s first serve.
+Federer consistently neutralizes Andy Roddick's first serve.
 
 **[[Although it is less and less common in pro tennis, the slice returns
 can also be used as an offensive shot.]{.underline}]{.mark}** The chip
 and charge return is an example of an aggressive slice return.
-Federer\'s short crosscourt slice return is another. But the majority of
-the slice returns made in today\'s game are used to put the ball in
+Federer's short crosscourt slice return is another. But the majority of
+the slice returns made in today's game are used to put the ball in
 play.
 
 As with the drive return, the fundamentals of the one-handed slice
 return are related to the groundstroke version of the stroke. At this
-point, I won\'t surprise anyone if I say that the best way to master the
+point, I won't surprise anyone if I say that the best way to master the
 slice return is therefore through development of the slice groundstroke.
 In this way the fundamentals will transfer instinctively to the return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image12.webp)
 
 **The slice return can also be aggressive in the chip and charge.**
 
@@ -397,8 +384,7 @@ position of the racket is much closer to the groundstroke at the
 completion of the preparation.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image13.webp)
 
 **Compared to other returns, the slice typically has more backswing and
 much less follow-through.**
@@ -406,7 +392,7 @@ much less follow-through.**
 **The Short Follow-through**
 
 There is an even bigger difference is the follow-through. Instead of
-equaling the length of the drive groundstroke, it\'s the opposite for
+equaling the length of the drive groundstroke, it's the opposite for
 the slice. The follow-through is significantly shorter.
 
 **[[On slice backhand groundstrokes in the pro game the players swing
@@ -425,8 +411,7 @@ neutralizing the speed of the serve and/or taking speed off in order to
 control the return.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image14.webp)
 
 **Learning the slice drive is key to the slice return.**
 
@@ -448,8 +433,7 @@ inside the baseline. But you can see every variation on every surface.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image15.webp)
 
 **Bjorn Borg used positioning and speed.**
 
@@ -476,17 +460,16 @@ one-handed return.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image16.webp)
 
 **Moving and taking the return early is one of the most obvious ways to
 return aggressively.**
 
-**[[The strategy of moving in allows you to use the server\'s ball speed
+**[[The strategy of moving in allows you to use the server's ball speed
 against him.]{.underline}]{.mark}** **[[By taking the ball sooner, you
 take time away from the server on his next ball.]{.underline}]{.mark}**
 We probably all remember the backhand return Roger Federer hit against
-Roddick at this year\'s Open, a shot Roger said was his favorite of the
+Roddick at this year's Open, a shot Roger said was his favorite of the
 entire tournament. This strategy is very common for players with great
 two-handed returns.
 
@@ -510,14 +493,13 @@ placement near the line.
 
 **[[In general, as a player, what should be the mindset on the return? A
 player has to develop an aggressive mind set to become a better
-returner. But what does that mean? It doesn\'t necessarily mean that you
+returner. But what does that mean? It doesn't necessarily mean that you
 hit the return hard. In fact, it can often mean the
 opposite.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-returns/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-returns/media/image17.webp)
 
 **Aggressive returns are returns that lead to service breaks.**
 
@@ -531,7 +513,7 @@ There may be a difference in how you use your returns if you are a
 one-hander or a two-hander, or if you have a big forehand return. Or a
 great one-handed slice. But the mentality is the same. **[[Use what you
 have in the most effective way possible to win points on your
-opponent\'s serve and generate breaks.]{.underline}]{.mark}**
+opponent's serve and generate breaks.]{.underline}]{.mark}**
 
 **[[So how do you develop this mentality? To do this you develop the
 capacity to hit all the variations of speed and
@@ -562,8 +544,7 @@ sometimes to generate breaks in this fashion, but often one break is
 enough\--or even just a mini-break in a tie-breaker.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-returns/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-returns/media/image18.webp)
 
 **Faster, better preparation: the same key for groundstrokes and
 returns.**
@@ -580,35 +561,34 @@ your final turn position, especially the position of the racket arm.
 In my experience, most club players when faced with a fast serve or a
 heavy spin serve do exactly the wrong thing. They try to respond by
 taking a longer backswing. This makes it very difficult to complete the
-swing and makes the contact late. They don\'t control the ball, and
+swing and makes the contact late. They don't control the ball, and
 often the next swing gets even bigger. This is why beginners have such a
-hard time initially in learning the follow through. They just don\'t
+hard time initially in learning the follow through. They just don't
 have the level of technique in the preparation they need to do so.
 
 If you struggle with this, work with your local pro to make your
 preparation more compact both on the ground strokes and on the return.
 Then focus on your follow through position. See if you can achieve good
-positions on both fast and spin serves. You\'ll be own your way to
+positions on both fast and spin serves. You'll be own your way to
 raising your returns by many levels.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_the-backhand-returns/media/image19.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                             | numerous ranked junior players and coached  |
-|                                                                                                                                                                            | a series of championship high school teams. |
-|                                                                                                                                                                            | He was highly ranked both sectionally and   |
-|                                                                                                                                                                            | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                            |                                             |
-|                                                                                                                                                                            | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                            | the John Yandell Tennis School in San       |
-|                                                                                                                                                                            | Francisco, California Kerry and his partner |
-|                                                                                                                                                                            | are now splitting time between homes in     |
-|                                                                                                                                                                            | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                            | continued to coach and to have great        |
-|                                                                                                                                                                            | competitive success winning Canadian        |
-|                                                                                                                                                                            | National seniors titles---not to mention    |
-|                                                                                                                                                                            | continuing to write articles for            |
-|                                                                                                                                                                            | Tennisplayer from his unique perspective.   |
-+============================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_the-backhand-returns/media/image19.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

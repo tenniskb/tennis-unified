@@ -10,8 +10,7 @@
 
 ![A person wearing a red shirt Description automatically generated with
 low
-confidence](media_my-tennis-morning-with-johnny-carson/media/image1.jpg){width="2.4253729221347333in"
-height="2.7940299650043743in"}
+confidence](media_my-tennis-morning-with-johnny-carson/media/image1.jpg)
 
 **Waiting in my dorm room in 1987 for that call from Johnny Carson. Note
 vintage phone.**
@@ -20,7 +19,7 @@ In 1987, I had an unusual job. I studied art at Pepperdine University,
 but I worked weekends at the Malibu Racquet Club as a \"hitter,\" or
 \"tennis gigolo\" as my dad enjoyed putting it.
 
-Although I\'d done some instructing in the summers, my assignment at the
+Although I'd done some instructing in the summers, my assignment at the
 club was simply to be on hand when members needed a playing partner.
 Regardless of whom I played, I was instructed to hit every ball back as
 evenly and consistently as possible.
@@ -31,7 +30,7 @@ pleasure from hitting the ball as hard as they could - randomly - and
 watching me chase it. For \$10 an hour, I let them play out their little
 fantasy.
 
-Don\'t get me wrong; being a young tennis instructor and \"hitter\" in
+Don't get me wrong; being a young tennis instructor and \"hitter\" in
 Malibu had its perks. I met many fascinating characters and, as one
 might suspect, I even got to play with a few celebrities of the times,
 sadly names few people would recognize today. Such is the way of
@@ -43,8 +42,7 @@ The highlight, though, was undoubtedly my morning with Johnny Carson.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person speaking into microphones Description automatically
-   generated](media_my-tennis-morning-with-johnny-carson/media/image2.jpg){width="3.125in"
-                                                                        height="4.041666666666667in"}
+   generated](media_my-tennis-morning-with-johnny-carson/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              **Before Letterman and Leno, Johnny Carson\--the greatest king of late night TV.**
 
@@ -53,7 +51,7 @@ The highlight, though, was undoubtedly my morning with Johnny Carson.
 Some young readers may not even know the name, but Johnny Carson was,
 for three decades (1962 to 1992), the King of Late Night - the architect
 of late night - and host of the Tonight Show. Before Letterman, before
-Jay Leno, before Conan O\'Brien, there was Johnny Carson - one of the
+Jay Leno, before Conan O'Brien, there was Johnny Carson - one of the
 most powerful men in Hollywood.
 
 Carson was also known in the media as a huge tennis fan, and was often
@@ -63,26 +61,25 @@ and much younger fourth wife Alex Maas.
 It was a Saturday morning when the phone rang. The director of the
 Racquet Club had called to explain that their head pro, who had a weekly
 appointment with Carson, was out of town. He then gave me Johnny
-Carson\'s phone number and told me that Mr. Carson would be waiting for
+Carson's phone number and told me that Mr. Carson would be waiting for
 my call.
 
 I studied the sheet of paper in my hand and then turned to my roommate.
-\"Whoa. I\'m holding Johnny Carson\'s phone number.\"
+\"Whoa. I'm holding Johnny Carson's phone number.\"
 
 I dialed the number and the next voice I heard was unmistakably Johnny
-Carson\'s. In a friendly tone, he gave me detailed instructions to his
+Carson's. In a friendly tone, he gave me detailed instructions to his
 beach house on Wildlife Road, a few miles north up Pacific Coast
 Highway.
 
-When I cruised up to the address in my white \'65 Olds Cutlass with one
+When I cruised up to the address in my white '65 Olds Cutlass with one
 brown fender, the iron gates were closed and I could find no doorbell or
 buzzer. I peered inside, but the driveway curved around and disappeared
 into a thick tangle of tropical plants.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A picture containing person Description automatically
-   generated](media_my-tennis-morning-with-johnny-carson/media/image3.jpg){width="4.166666666666667in"
-                                                                             height="2.7916666666666665in"}
+   generated](media_my-tennis-morning-with-johnny-carson/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   **Johnny in the box with his fourth wife Alex Maas.**
 
@@ -109,8 +106,7 @@ marvelous effect.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A picture containing ground, outdoor, sky, house Description automatically
-   generated](media_my-tennis-morning-with-johnny-carson/media/image4.jpg){width="2.3133333333333335in"
-                                                                              height="1.7733333333333334in"}
+   generated](media_my-tennis-morning-with-johnny-carson/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             OK he had a pretty nice house up there on Wildlife Road in Malibu.
 
@@ -118,7 +114,7 @@ marvelous effect.
 
 Mr. Carson then gestured toward the court, which - to my horror - was
 not down the curvy driveway but across the street and hidden behind
-another fence. How I longed to stroll the grounds of Johnny Carson\'s
+another fence. How I longed to stroll the grounds of Johnny Carson's
 sprawling Malibu compound!
 
 And yet, once we got across the street, I beheld the newest and most
@@ -131,13 +127,13 @@ surrounded by an ovular concrete border, evoking a small stadium. Beside
 the court stood a stately clubhouse, still under construction.
 
 As we prepared to play, I tried to break the ice by telling Mr. Carson
-that the first time I\'d ever watched his show was about five years
+that the first time I'd ever watched his show was about five years
 earlier when my hero, Bjorn Borg, appeared as a guest.
 
 I then confirmed the story by reminding him that the world champion
 grape catcher (with his mouth, of course) co-starred that night.
 Unfortunately, Mr. Carson either failed to remember the episode or he
-simply didn\'t want to discuss his show. Embarrassed, I resolved to stay
+simply didn't want to discuss his show. Embarrassed, I resolved to stay
 quiet unless Mr. Carson spoke first.
 
 Once we started hitting, Johnny Carson struck me as your typical club
@@ -147,8 +143,7 @@ his 62 years. He asked me if I wanted to play a set and I agreed.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A tennis court with a net Description automatically generated with medium
-  confidence](media_my-tennis-morning-with-johnny-carson/media/image5.jpg){width="4.513888888888889in"
-  height="2.763888888888889in"}
+  confidence](media_my-tennis-morning-with-johnny-carson/media/image5.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Carson had one of the first ever synthetic grass courts.**
 
@@ -161,16 +156,16 @@ Does one take it easy on him? Does one let him win, or does one \"give
 him the real stuff?\" I could never quite answer these questions and I
 ended up playing one of the most schizophrenic tennis sets of my life. I
 beat Johnny Carson 6-4, which seemed reasonable enough, but I still
-don\'t know whether I allowed him four games or if he earned them fair
+don't know whether I allowed him four games or if he earned them fair
 and square.
 
-All I know is that I\'ve never felt more awkward on a tennis court - and
-I couldn\'t help but imagine what Johnny Carson was thinking: Where did
+All I know is that I've never felt more awkward on a tennis court - and
+I couldn't help but imagine what Johnny Carson was thinking: Where did
 they find this guy? Is this homeless intermediate the best the Malibu
 Racquet Club could do?
 
 After our set, we shook hands and I promptly apologized for my
-performance. \"Of course,\" admitted Mr. Carson, \"it\'s not like
+performance. \"Of course,\" admitted Mr. Carson, \"it's not like
 playing with John McEnroe\" (a recent Malibu transplant with whom, it
 was well documented, Carson had played several times in the last year).
 \"Every ball comes back perfectly.\"
@@ -184,21 +179,20 @@ Late Night caught me off guard.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A white car on a road Description automatically
-  generated](media_my-tennis-morning-with-johnny-carson/media/image6.jpg){width="4.513888888888889in"
-  height="1.875in"}
+  generated](media_my-tennis-morning-with-johnny-carson/media/image6.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **I believe I am the only person to gain entrance to the Carson compound in 1965 White Cutlass.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I paused for a moment and looked behind me. Was there another Keith
-nearby that I didn\'t know about? Flabbergasted, I accepted Mr.
-Carson\'s invitation. He led me inside the unfinished structure and
+nearby that I didn't know about? Flabbergasted, I accepted Mr.
+Carson's invitation. He led me inside the unfinished structure and
 handed me a cold soda from a small refrigerator. Through the framework,
 he showed me where the completed kitchen, bar, living room, and bathroom
 would soon be.
 
-\"And upstairs,\" he added proudly, \"we\'re building an observation
+\"And upstairs,\" he added proudly, \"we're building an observation
 deck.\"
 
 \"Not too shabby,\" I had to confess.
@@ -214,22 +208,21 @@ he took the time to show a sloppy, self-conscious kid with long hair and
 a beat-up Cutlass the inside of his spectacular new, albeit unfinished,
 clubhouse. And how cool was that?
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                                      | USPTA instructor Keith Hayes attended Pepperdine      |
-| confidence](media_my-tennis-morning-with-johnny-carson/media/image7.jpeg){width="1.2986111111111112in" | University in the 1980s. There, he encountered Head   |
-| height="1.8506944444444444in"}                                                                                                                                                         | Tennis Coach Allen Fox and became a counselor at his  |
-|                                                                                                                                                                                        | summer tennis camps, beginning a tennis teaching      |
-|                                                                                                                                                                                        | career - and a friendship with Allen - that has       |
-|                                                                                                                                                                                        | continued ever since. After Pepperdine, Keith went to |
-|                                                                                                                                                                                        | work in the San Francisco Bay Area advertising and    |
-|                                                                                                                                                                                        | graphic design industries. Later he also became an    |
-|                                                                                                                                                                                        | English teacher. As head coach of the Marin Catholic  |
-|                                                                                                                                                                                        | High School women\'s tennis team, Keith won           |
-|                                                                                                                                                                                        | back-to-back Division II North Coast Section titles   |
-|                                                                                                                                                                                        | in 2008 and 2009. When he\'s not teaching tennis,     |
-|                                                                                                                                                                                        | Keith continues to work as a freelance writer and     |
-|                                                                                                                                                                                        | designer. In addition to Tennisplayer.net, his        |
-|                                                                                                                                                                                        | stories have also appeared in TENNIS magazine.        |
-|                                                                                                                                                                                        |                                                       |
-|                                                                                                                                                                                        |                                                       |
-+========================================================================================================================================================================================+=======================================================+
+| ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
+| --- | --- |
+| confidence](media_my-tennis-morning-with-johnny-carson/media/image7.jpeg) | Tennis Coach Allen Fox and became a counselor at his |
+|  | summer tennis camps, beginning a tennis teaching |
+|  | career - and a friendship with Allen - that has |
+|  | continued ever since. After Pepperdine, Keith went to |
+|  | work in the San Francisco Bay Area advertising and |
+|  | graphic design industries. Later he also became an |
+|  | English teacher. As head coach of the Marin Catholic |
+|  | High School women's tennis team, Keith won |
+|  | back-to-back Division II North Coast Section titles |
+|  | in 2008 and 2009. When he's not teaching tennis, |
+|  | Keith continues to work as a freelance writer and |
+|  | designer. In addition to Tennisplayer.net, his |
+|  | stories have also appeared in TENNIS magazine. |
+|  |  |
+|  |  |
+

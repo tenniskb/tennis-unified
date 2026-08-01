@@ -80,10 +80,10 @@ Bản Tốt Nhất Của Chính Mình*
 Trong lịch sử quần vợt hiện đại, không có cái tên nào gợi lên nhiều cảm
 xúc như Roger Federer. Nhưng điều kỳ lạ là: khi bạn hỏi các chuyên gia
 phân tích rằng điều gì khiến Federer vĩ đại, câu trả lời thường không
-phải là \'cú thuận tay mạnh nhất\' hay \'cú giao bóng nhanh nhất\'. Câu
-trả lời thường là: \'Ông ấy biết làm chậm lại trận đấu.\'
+phải là 'cú thuận tay mạnh nhất' hay 'cú giao bóng nhanh nhất'. Câu
+trả lời thường là: 'Ông ấy biết làm chậm lại trận đấu.'
 
-Nhưng \'làm chậm lại trận đấu\' có nghĩa gì? Đây không phải là một kỹ
+Nhưng 'làm chậm lại trận đấu' có nghĩa gì? Đây không phải là một kỹ
 thuật cụ thể. Đây là một triết lý. Và triết lý đó được xây dựng trên ba
 biến số cốt lõi mà cuốn sách này sẽ khám phá từng chi tiết một.
 
@@ -101,7 +101,7 @@ cú đánh:
 
 Biến số đầu tiên là THỜI GIAN (TIME) --- Khi nào bạn chạm bóng? Federer
 có khả năng lựa chọn thời điểm tiếp xúc bóng một cách có chủ đích: đánh
-sớm để \'đánh cắp\' thời gian của đối thủ, đánh trung hòa để duy trì sự
+sớm để 'đánh cắp' thời gian của đối thủ, đánh trung hòa để duy trì sự
 ổn định, hoặc đánh muộn để hấp thụ tốc độ bóng nặng.
 
 Biến số thứ hai là ĐỘ CAO (HEIGHT) --- Quỹ đạo bóng đi như thế nào? Độ
@@ -125,8 +125,8 @@ mạnh --- ông cố gắng giải quyết bài toán mà mỗi đối thủ đ�
 
 Rafael Nadal đặt ra bài toán về độ xoáy và độ cao bóng. Novak Djokovic
 đặt ra bài toán về độ sâu và tính nhất quán. Mỗi tay vợt khác nhau tạo
-ra một dạng áp lực khác nhau. Federer không có một \'công thức cứng
-nhắc\' để đối phó với tất cả --- ông có một hệ thống linh hoạt để thích
+ra một dạng áp lực khác nhau. Federer không có một 'công thức cứng
+nhắc' để đối phó với tất cả --- ông có một hệ thống linh hoạt để thích
 nghi với từng tình huống.
 
 Đây là điều mà cuốn sách này muốn trao cho bạn: không phải một danh sách
@@ -149,8 +149,8 @@ phó với từng kiểu đối thủ, xử lý các tình huống khủng hoả
 đấu, và điều chỉnh chiến lược theo từng bề mặt sân.
 
 Phần IV (Chương 16-20) là hướng dẫn thực hành: chương trình tập luyện,
-bài kiểm tra tự đánh giá, và cách xây dựng \'hệ thống Federer của riêng
-bạn\' phù hợp với trình độ và phong cách chơi của mỗi người.
+bài kiểm tra tự đánh giá, và cách xây dựng 'hệ thống Federer của riêng
+bạn' phù hợp với trình độ và phong cách chơi của mỗi người.
 
 Hãy bắt đầu hành trình này. Không phải để trở thành Federer --- mà để
 hiểu sâu hơn về trò chơi, về bản thân, và về nghệ thuật thích nghi trong
@@ -191,7 +191,7 @@ Nghi.
 
 Ít người biết rằng Roger Federer trong những năm đầu sự nghiệp nổi tiếng
 vì tính khí thất thường trên sân. Đó là một nghịch lý thú vị: người sau
-này được gọi là \'elegant tennis player\' từng là tay vợt trẻ hay ném
+này được gọi là 'elegant tennis player' từng là tay vợt trẻ hay ném
 vợt, đập bóng vô ăn, và thể hiện cảm xúc tiêu cực một cách không kiểm
 soát.
 
@@ -236,8 +236,8 @@ TIME-HEIGHT-POSITION một cách có chủ đích.
 
 Tony Roche, người trở thành huấn luyện viên của Federer từ 2005, đã giúp
 cấu trúc hóa những trực giác thiên bẩm này thành một hệ thống có thể tái
-tạo và cải tiến. Đây là giai đoạn mà \'trực giác Federer\' trở thành
-\'hệ thống Federer\'.
+tạo và cải tiến. Đây là giai đoạn mà 'trực giác Federer' trở thành
+'hệ thống Federer'.
 
 **2.4 Thách Thức Từ Nadal: Khi Hệ Thống Phải Tiến Hóa**
 
@@ -296,7 +296,7 @@ Trong quần vợt đỉnh cao, bạn không có thời gian để ngồi phân 
 ba game đầu tiên, đối thủ đang tạo ra loại áp lực gì và từ đó điều chỉnh
 ba biến số tương ứng.
 
-Federer nổi tiếng với khả năng \'đọc\' đối thủ cực nhanh. Trong các bài
+Federer nổi tiếng với khả năng 'đọc' đối thủ cực nhanh. Trong các bài
 phỏng vấn, ông thường mô tả quá trình này như là một bản năng. Nhưng
 thực ra đó là kết quả của hàng nghìn giờ luyện tập và thi đấu, trong đó
 ông đã học cách nhận diện các dấu hiệu và mẫu hình.
@@ -343,7 +343,7 @@ Khả năng đọc đối thủ không dừng lại sau giai đoạn khởi đ�
 đấu, đối thủ có thể thay đổi chiến thuật, và bạn cần tiếp tục cập nhật
 đánh giá của mình.
 
-Federer sử dụng một kỹ thuật gọi là \'điểm đánh dấu\' (checkpoint
+Federer sử dụng một kỹ thuật gọi là 'điểm đánh dấu' (checkpoint
 moments): sau mỗi set, ông đánh giá lại tình trạng của trận đấu. Ba câu
 hỏi cần trả lời là: Đối thủ có thay đổi kiểu áp lực không? Ba biến số
 của mình có đang hoạt động hiệu quả không? Cần điều chỉnh gì trong set
@@ -395,7 +395,7 @@ như thế nào, và đứng ở đâu. Tất cả những thứ còn lại là 
 
 **4.2 Trạng Thái Flow Và Hệ Thống**
 
-Nhà tâm lý học Mihaly Csikszentmihalyi đã mô tả \'trạng thái flow\' là
+Nhà tâm lý học Mihaly Csikszentmihalyi đã mô tả 'trạng thái flow' là
 khi một người hoàn toàn đắm chìm vào một hoạt động, thực hiện nó ở mức
 độ tối ưu mà không có sự can thiệp của phân tích ý thức quá mức.
 
@@ -415,11 +415,11 @@ kỹ thuật --- áp lực làm giảm khả năng ra quyết định. Khi đứ
 break point hoặc match point, nhiều tay vợt đột nhiên không thể chọn
 được chiến thuật tốt nhất.
 
-Federer đối phó với điều này bằng cách có một \'hệ thống mặc định\'
+Federer đối phó với điều này bằng cách có một 'hệ thống mặc định'
 (default system) rõ ràng cho các tình huống áp lực. Thay vì phải suy
-nghĩ \'mình nên đánh gì bây giờ?\', ông đã có câu trả lời được lập trình
-sẵn: \'Đọc kiểu áp lực. Điều chỉnh TIME. Điều chỉnh HEIGHT. Điều chỉnh
-POSITION. Thực hiện.\'
+nghĩ 'mình nên đánh gì bây giờ?', ông đã có câu trả lời được lập trình
+sẵn: 'Đọc kiểu áp lực. Điều chỉnh TIME. Điều chỉnh HEIGHT. Điều chỉnh
+POSITION. Thực hiện.'
 
 Đây là lý do tại sao việc luyện tập hệ thống đến mức tự động hóa là quan
 trọng hơn việc học nhiều kỹ thuật khác nhau. Trong áp lực, bạn trở về
@@ -429,16 +429,16 @@ nhất lúc đó.
 **4.4 Phục Hồi Sau Điểm Đấu Thất Bại**
 
 Một khía cạnh tâm lý quan trọng mà ít người chú ý đến là cách Federer
-phục hồi sau những điểm đấu không tốt. Ông nổi tiếng với khả năng \'xả\'
+phục hồi sau những điểm đấu không tốt. Ông nổi tiếng với khả năng 'xả'
 sai lầm rất nhanh và trở lại trạng thái tập trung.
 
-Kỹ thuật tâm lý đằng sau điều này là \'chu kỳ giữa các điểm đấu\'
+Kỹ thuật tâm lý đằng sau điều này là 'chu kỳ giữa các điểm đấu'
 (between-point routine). Federer có một quy trình nhất quán giữa mỗi
 điểm: điều chỉnh dây vợt, nhìn về phía hàng ghế huấn luyện viên hoặc
 ngẩng nhìn lên, hít thở sâu, sau đó tập trung vào điểm tiếp theo.
 
-Quy trình này không chỉ là thói quen vật lý --- nó là một \'bộ đặt lại
-tâm lý\' (psychological reset). Nó đánh dấu rõ ràng sự kết thúc của điểm
+Quy trình này không chỉ là thói quen vật lý --- nó là một 'bộ đặt lại
+tâm lý' (psychological reset). Nó đánh dấu rõ ràng sự kết thúc của điểm
 vừa rồi và sự bắt đầu của điểm tiếp theo. Không mang theo cảm xúc từ
 điểm này sang điểm khác.
 
@@ -451,8 +451,8 @@ kiểm soát được.
 
 Federer thể hiện sự tự tin dựa trên quy trình rất rõ ràng. Khi được hỏi
 về cảm giác trước những trận đấu lớn, ông thường nói về sự chuẩn bị ---
-không phải về kỳ vọng chiến thắng. \'Tôi đã chuẩn bị tốt, tôi tin vào
-quy trình của mình\' --- đó là nền tảng tự tin của ông.
+không phải về kỳ vọng chiến thắng. 'Tôi đã chuẩn bị tốt, tôi tin vào
+quy trình của mình' --- đó là nền tảng tự tin của ông.
 
 Để xây dựng loại tự tin này, bạn cần hai điều: một hệ thống rõ ràng và
 đủ kinh nghiệm thực hành để tin tưởng vào hệ thống đó. Cuốn sách này
@@ -507,7 +507,7 @@ hiện.
 
 Nếu cú thuận tay là vũ khí chính của Federer, thì cú cắt trái tay
 (backhand slice) là công cụ chiến thuật đặc biệt nhất của ông --- một
-\'cú đánh chuyển tiếp\' không phải là phòng thủ mà là kiểm soát.
+'cú đánh chuyển tiếp' không phải là phòng thủ mà là kiểm soát.
 
 Cú cắt trái tay cho phép Federer điều chỉnh biến số HEIGHT một cách cực
 đoan: giữ bóng cực thấp, tạo ra độ nảy khó chịu, và phá vỡ nhịp điệu của
@@ -529,8 +529,8 @@ giấu. Ông có thể đặt bóng vào ba vị trí khác nhau từ cùng mộ
 cho đối thủ.
 
 Triết lý giao bóng của Federer: giao bóng không phải để ace trực tiếp,
-mà để thiết lập điểm đấu. \'Serve là setup --- điểm được thắng ở cú đánh
-tiếp theo.\' Đây là lý do tại sao ngay sau khi giao bóng, ông ngay lập
+mà để thiết lập điểm đấu. 'Serve là setup --- điểm được thắng ở cú đánh
+tiếp theo.' Đây là lý do tại sao ngay sau khi giao bóng, ông ngay lập
 tức thực hiện split step để sẵn sàng cho cú đánh thứ nhất.
 
 Biến số quan trọng nhất trong cú giao bóng không phải là tốc độ --- đó
@@ -562,7 +562,7 @@ quyết đoán. Chân là công cụ thực thi của hệ thống.
 
 **6.1 Định Nghĩa Lại Thời Gian Trong Quần Vợt**
 
-Khi hầu hết người chơi nghĩ về \'thời gian\' trong quần vợt, họ nghĩ về
+Khi hầu hết người chơi nghĩ về 'thời gian' trong quần vợt, họ nghĩ về
 phản xạ --- khả năng phản ứng nhanh với bóng đến. Đây là cách suy nghĩ
 thụ động. Federer có một cách suy nghĩ hoàn toàn khác: thời gian là thứ
 bạn chủ động lựa chọn, không phải thứ xảy ra với bạn.
@@ -584,7 +584,7 @@ trạng thái nào là quyết định chiến thuật quan trọng nhất trong
 đấu.
 
 Trạng thái Đánh Sớm (Early Timing): Đánh bóng khi đang nảy lên, trước
-khi đạt đỉnh quỹ đạo. Federer dùng điều này để \'đánh cắp\' thời gian
+khi đạt đỉnh quỹ đạo. Federer dùng điều này để 'đánh cắp' thời gian
 của đối thủ. Khi bạn đánh bóng sớm hơn dự kiến, đối thủ nhận được bóng
 nhanh hơn và có ít thời gian phục hồi hơn. Đây là vũ khí chính chống lại
 các tay vợt kiểu Djokovic.
@@ -626,7 +626,7 @@ trung hòa (neutral). Cú 3 - Federer đánh muộn một chút để dụ Djoko
 vào vị trí sai (late). Cú 4 - Federer đánh sớm đột ngột để kết thúc điểm
 (early).
 
-Sự chuyển đổi không ngừng này là thứ tạo ra \'sự không thể đọc được\'
+Sự chuyển đổi không ngừng này là thứ tạo ra 'sự không thể đọc được'
 trong lối chơi của Federer. Đối thủ không thể dự đoán nhịp độ vì Federer
 không có nhịp độ cố định --- ông tạo ra nhịp độ mà ông muốn, và ông thay
 đổi nó khi cần.
@@ -683,7 +683,7 @@ thái Đánh Muộn thường phù hợp hơn để xử lý độ cao và xoáy
 Federer trên đất nện không từ bỏ hoàn toàn trạng thái Đánh Sớm --- ông
 sử dụng nó ở những thời điểm bất ngờ để phá vỡ nhịp điệu của đối thủ.
 
-Trên sân cứng (hard court), đây là bề mặt \'trung tính\' nhất, và cả ba
+Trên sân cứng (hard court), đây là bề mặt 'trung tính' nhất, và cả ba
 trạng thái thời gian đều có thể được sử dụng hiệu quả. Đây là lý do tại
 sao sân cứng thường mang lại điều kiện cân bằng nhất cho Federer thể
 hiện đầy đủ hệ thống của mình.
@@ -773,7 +773,7 @@ xoáy. Mục đích: tạo áp lực tấn công, ép đối thủ phải gập 
 từ vị trí thấp, khó tạo lực. Rủi ro cao nhưng phần thưởng lớn.
 
 Khu vực 2 - Bóng Trung Bình (Medium): Độ xoáy vừa phải, độ cao an toàn
-qua lưới. Đây là \'vùng mặc định\' của Federer để duy trì rally ổn định
+qua lưới. Đây là 'vùng mặc định' của Federer để duy trì rally ổn định
 và chuẩn bị cho những cú tấn công tiếp theo.
 
 Khu vực 3 - Bóng Cao/Xoáy (High/Topspin): Bóng xoáy vồng, sâu xuống cuối
@@ -853,7 +853,7 @@ thích bóng thấp, một số không thích bóng cao. Tìm ra và khai thác 
 
 Trong kho vũ khí của Federer, cú cắt trái tay (backhand slice) là thứ ít
 được ca ngợi nhất nhưng lại được sử dụng nhiều nhất trong các tình huống
-quyết định. Nhiều nhà phân tích coi đây là \'vũ khí bí mật\' của ông ---
+quyết định. Nhiều nhà phân tích coi đây là 'vũ khí bí mật' của ông ---
 thứ cho phép ông kiểm soát nhịp điệu trận đấu một cách tinh tế mà đối
 thủ không dễ phá vỡ.
 
@@ -864,7 +864,7 @@ thiết kế để đánh bóng ở tầm giữa hoặc cao. Bóng cực thấp 
 thực hiện một cú đánh khó và ít tự nhiên hơn.
 
 Nhưng quan trọng hơn, cú cắt thay đổi nhịp độ tức thì. Sau một rally với
-các cú topspin mạnh, một cú cắt đột ngột làm đối thủ \'mất nhịp\' vì họ
+các cú topspin mạnh, một cú cắt đột ngột làm đối thủ 'mất nhịp' vì họ
 cần điều chỉnh từ chờ đợi bóng nhanh và cao sang xử lý bóng chậm và
 thấp.
 
@@ -872,7 +872,7 @@ thấp.
 
 Khi đối mặt với Nadal, cú cắt của Federer phục vụ một mục đích chiến
 lược khác so với khi đối mặt với Djokovic. Chống lại Nadal, cú cắt chủ
-yếu là công cụ \'sinh tồn và reset\' --- cách để vượt qua các giai đoạn
+yếu là công cụ 'sinh tồn và reset' --- cách để vượt qua các giai đoạn
 khi Nadal đang tấn công mạnh bằng topspin cực nặng.
 
 Điều chỉnh kỹ thuật vs Nadal: Chuẩn bị vợt sớm hơn (trước khi bóng đến)
@@ -913,7 +913,7 @@ có mục đích.
 
 Một ví dụ điển hình: Cú 1 - Bóng Cao để đẩy đối thủ ra sâu. Cú 2 - Cú
 Cắt đột ngột khi đối thủ đang ở sâu và chờ bóng cao. Cú 3 - Bóng Thấp
-khi đối thủ vẫn đang \'mất nhịp\' sau cú cắt. Cú 4 - Cú kết thúc điểm.
+khi đối thủ vẫn đang 'mất nhịp' sau cú cắt. Cú 4 - Cú kết thúc điểm.
 
 Mỗi bước trong chuỗi này tạo ra một vấn đề khác nhau cho đối thủ. Bóng
 Cao đẩy họ ra sau. Cú Cắt đột ngột phá vỡ nhịp chân. Bóng Thấp ngay sau
@@ -945,14 +945,14 @@ giả lập trận đấu thực tế nhất cho biến số HEIGHT.
 
 *Vị Trí Quyết Định Mọi Lựa Chọn*
 
-**10.1 Tại Sao Vị Trí Là \'Biến Số Kiến Trúc\'**
+**10.1 Tại Sao Vị Trí Là 'Biến Số Kiến Trúc'**
 
 Trong ba biến số của hệ thống, VỊ TRÍ SÂN là biến số quan trọng nhất về
 mặt chiến lược vì nó quyết định những biến số nào khác là khả thi. Nếu
 bạn đứng sâu sau baseline, bạn KHÔNG THỂ thực hiện cú đánh sớm hiệu quả.
 Nếu bạn đứng trong baseline, bạn không có thời gian cho cú đánh muộn.
 
-Đây là lý do tại sao vị trí được gọi là \'biến số kiến trúc\' --- nó tạo
+Đây là lý do tại sao vị trí được gọi là 'biến số kiến trúc' --- nó tạo
 ra hoặc phá hủy khả năng sử dụng hai biến số còn lại. Chọn vị trí sai
 nghĩa là bạn đã tự loại bỏ nhiều lựa chọn chiến thuật trước khi bóng
 thậm chí còn chưa đến.
@@ -964,7 +964,7 @@ ra hoặc đóng lại các khả năng trong kho chiến thuật của bạn.
 **10.2 Ba Khu Vực Vị Trí**
 
 Federer hoạt động trong ba khu vực vị trí sân, mỗi khu vực tương ứng với
-một \'chế độ thi đấu\' khác nhau.
+một 'chế độ thi đấu' khác nhau.
 
 Khu Vực Phòng Thủ (1-2m sau vạch baseline): Đây là khu vực ưu tiên sinh
 tồn. Bạn có nhiều thời gian phản xạ hơn, có thể xử lý bóng nảy cao tốt
@@ -988,19 +988,19 @@ tĩnh.
 
 Quy tắc di chuyển của Federer: Sau mỗi cú đánh, ngay lập tức di chuyển
 về vị trí phù hợp nhất cho tình huống tiếp theo, không phải chỉ về
-\'trung tâm sân\'. Đây là điều quan trọng: nhiều tay vợt được dạy luôn
+'trung tâm sân'. Đây là điều quan trọng: nhiều tay vợt được dạy luôn
 phục hồi về trung tâm, nhưng Federer phục hồi về điểm tối ưu cho lần
 đánh tiếp theo.
 
-Cách xác định điểm phục hồi: Sau khi đánh xong, hãy nghĩ về \'tam giác
-phục hồi\' (recovery triangle). Đây là khu vực trên sân mà từ đó bạn có
+Cách xác định điểm phục hồi: Sau khi đánh xong, hãy nghĩ về 'tam giác
+phục hồi' (recovery triangle). Đây là khu vực trên sân mà từ đó bạn có
 thể che phủ tốt nhất cả hai góc đánh của đối thủ. Điểm này không phải
 lúc nào cũng là chính giữa sân.
 
 **10.4 Vị Trí Và Tấn Công Theo Ngữ Cảnh**
 
 Vị trí sân không chỉ liên quan đến phòng thủ và tấn công --- nó còn liên
-quan đến việc tạo ra \'ngữ cảnh\' cho từng cú đánh. Cùng một cú đánh có
+quan đến việc tạo ra 'ngữ cảnh' cho từng cú đánh. Cùng một cú đánh có
 thể là tấn công nếu thực hiện từ Khu Vực Tấn Công, nhưng lại là trung
 hòa nếu thực hiện từ Khu Vực Trung Hòa.
 
@@ -1009,7 +1009,7 @@ Khu Vực Tấn Công không phải để đánh ngay một cú quyết định,
 áp lực tâm lý. Đối thủ thấy Federer đang tiến vào sân và cảm thấy áp lực
 phải đánh một cú phòng thủ, ngay cả khi ông chưa thực sự tấn công.
 
-Đây là \'tấn công bằng vị trí\' (positional attack) --- sử dụng vị trí
+Đây là 'tấn công bằng vị trí' (positional attack) --- sử dụng vị trí
 sân để tạo ra áp lực tâm lý và buộc đối thủ phải đưa ra lựa chọn khó,
 ngay cả trước khi bạn thực hiện bất kỳ cú đánh kỹ thuật nào.
 
@@ -1019,8 +1019,8 @@ Vị trí sân là biến số khó luyện tập nhất vì nó đòi hỏi nh�
 thời về nhiều yếu tố: bóng, đối thủ, và vị trí của chính bạn trên sân.
 
 Bài tập cơ bản: Sau mỗi cú đánh trong rally, nói to vị trí của bạn trước
-khi đối thủ đánh trả. \'Tôi đang ở Khu Vực Tấn Công\' hoặc \'Tôi đang ở
-Khu Vực Phòng Thủ\'. Điều này xây dựng nhận thức về vị trí thông qua
+khi đối thủ đánh trả. 'Tôi đang ở Khu Vực Tấn Công' hoặc 'Tôi đang ở
+Khu Vực Phòng Thủ'. Điều này xây dựng nhận thức về vị trí thông qua
 ngôn ngữ hóa ý thức.
 
 Bài tập nâng cao: Đặt bảng hiệu (markers) trên sân để đánh dấu ba khu
@@ -1049,7 +1049,7 @@ Topspin cực mạnh của Nadal làm bóng nảy cao hơn vai --- đôi khi cao
 thuật đánh groundstroke được tối ưu cho bóng ở tầm giữa (tầm ngang bụng
 đến vai). Bóng cao hơn vai đòi hỏi điều chỉnh đặc biệt.
 
-Thêm vào đó, topspin nặng của Nadal làm bóng \'nhảy\' về phía người đánh
+Thêm vào đó, topspin nặng của Nadal làm bóng 'nhảy' về phía người đánh
 sau khi nảy, đẩy họ ra phía sau và sang một bên. Điều này tạo ra áp lực
 vị trí liên tục --- buộc đối thủ phải luôn di chuyển về phía sau và sang
 hai bên, không bao giờ được đứng yên trong vị trí tốt.
@@ -1110,8 +1110,8 @@ Mỗi kiểu đánh đều có điểm yếu, và kiểu Nadal cũng không ngo�
 chỉ phòng thủ.
 
 Điểm yếu về thời gian: Các tay vợt kiểu Nadal thường cần nhiều thời gian
-để thiết lập cú topspin mạnh --- backswing lớn và cần một \'khoảng không
-gian\' để tạo đà. Nếu bạn có thể lấy thời gian đó đi bằng cách đánh sớm
+để thiết lập cú topspin mạnh --- backswing lớn và cần một 'khoảng không
+gian' để tạo đà. Nếu bạn có thể lấy thời gian đó đi bằng cách đánh sớm
 hoặc thay đổi nhịp đột ngột, hiệu quả topspin của họ giảm đáng kể.
 
 Điểm yếu về vị trí: Các tay vợt kiểu Nadal thường không thoải mái khi bị
@@ -1143,7 +1143,7 @@ và cố đánh những cú quá khó để kết thúc điểm. Đây chính x�
 Djokovic muốn --- buộc đối thủ phải tạo ra lỗi vì áp lực tâm lý.
 
 Federer đã phát triển một hệ thống cụ thể để chống lại điều này, tập
-trung vào việc \'đánh cắp\' thời gian thay vì cố gắng đánh bóng quá mạnh
+trung vào việc 'đánh cắp' thời gian thay vì cố gắng đánh bóng quá mạnh
 hay quá góc.
 
 **12.2 Điều Chỉnh Ba Biến Số Chống Lại Kiểu Djokovic**
@@ -1151,7 +1151,7 @@ hay quá góc.
 Điều chỉnh THỜI GIAN: Chống lại kiểu Djokovic, Federer sử dụng trạng
 thái Đánh Sớm nhiều hơn. Lấy bóng trên đà nảy lên cướp thời gian của
 Djokovic, không cho ông kịp thiết lập vị trí tốt nhất. Slogan: Steal
-time, don\'t trade depth --- cướp thời gian, không cần đánh sâu.
+time, don't trade depth --- cướp thời gian, không cần đánh sâu.
 
 Điều chỉnh ĐỘ CAO: Federer sử dụng bóng thấp và phẳng nhiều hơn. Bóng
 thấp làm Djokovic phải gập người xuống thấp và khó tạo lực cho cú tấn
@@ -1174,7 +1174,7 @@ Các công cụ phá vỡ nhịp điệu: Cú cắt đột ngột giữa chuỗi
 Djokovic đang ở sâu. Lên lưới sau cú tiếp cận sâu.
 
 Mỗi công cụ này buộc Djokovic phải điều chỉnh và chuyển đổi trạng thái
-tâm lý. Djokovic giỏi nhất khi đang ở trạng thái \'autopilot\' --- thực
+tâm lý. Djokovic giỏi nhất khi đang ở trạng thái 'autopilot' --- thực
 hiện những gì ông đã thực hiện hàng ngàn lần. Phá vỡ autopilot đó là
 chìa khóa.
 
@@ -1182,7 +1182,7 @@ chìa khóa.
 
 Cú thuận tay của Federer chống lại Djokovic được điều chỉnh theo hướng:
 swing ngắn gọn hơn, tiếp xúc bóng sớm hơn, tốc độ bóng cao hơn, ít
-topspin hơn. Đây là \'forehand tấn công\' so với \'forehand xây dựng\'
+topspin hơn. Đây là 'forehand tấn công' so với 'forehand xây dựng'
 mà Federer sử dụng trong rally thông thường.
 
 Lý do điều chỉnh này: Djokovic là một trong những tay vợt tốt nhất thế
@@ -1208,7 +1208,7 @@ giao bóng của Djokovic ít tạo áp lực hơn. Đây là cơ hội để t�
 từ cú đánh đầu tiên, thay vì chỉ trả lại an toàn.
 
 Bài học quan trọng nhất khi đối phó với kiểu Djokovic là không cố gắng
-\'đánh bại\' ông trong khu vực mạnh của ông (rally sâu và nhất quán).
+'đánh bại' ông trong khu vực mạnh của ông (rally sâu và nhất quán).
 Thay vào đó, hãy kéo trận đấu ra khỏi khu vực đó bằng cách thay đổi nhịp
 độ và vị trí liên tục. Đây là chiến thắng của hệ thống, không phải của
 sức mạnh.
@@ -1228,12 +1228,12 @@ chơi net, hoặc baseline player ưa chuộng tấn công ngay từ cú đánh 
 tiên.
 
 Thách thức cụ thể: Rally thường rất ngắn (dưới 5 cú đánh), không có thời
-gian để \'xây dựng\' theo kiểu Federer truyền thống. Cú giao bóng hoặc
+gian để 'xây dựng' theo kiểu Federer truyền thống. Cú giao bóng hoặc
 cú tấn công đầu tiên thường rất mạnh và góc độ bất ngờ. Nếu bạn chỉ
 phòng thủ, bạn sẽ thua vì họ sẽ kết thúc điểm trước khi bạn có cơ hội
 phản công.
 
-Nhưng đây cũng là loại đối thủ dễ \'đọc\' nhất về mặt chiến lược, vì họ
+Nhưng đây cũng là loại đối thủ dễ 'đọc' nhất về mặt chiến lược, vì họ
 thường có mẫu hình tấn công cố định. Khi bạn hiểu mẫu hình đó, bạn có
 thể chuẩn bị và biến áp lực của họ thành vũ khí của bạn.
 
@@ -1255,7 +1255,7 @@ hội phản công). Không dự đoán được --- đây là vũ khí tốt nh
 **13.3 Nghệ Thuật Phản Công**
 
 Chống lại các tay vợt tấn công, phản công (counterattacking) là chiến
-lược hiệu quả nhất. Federer nổi tiếng với khả năng \'mượn lực\' --- sử
+lược hiệu quả nhất. Federer nổi tiếng với khả năng 'mượn lực' --- sử
 dụng tốc độ của bóng đến để tạo ra bóng đi nhanh hơn mà không cần vung
 vợt mạnh hơn.
 
@@ -1335,7 +1335,7 @@ bóng nảy thấp và nhanh. Bóng ở tầm tốt hơn khi đang nảy lên so
 đã nảy xong. Đánh Muộn ít cần thiết hơn vì bóng không nảy cao.
 
 Điều chỉnh ĐỘ CAO trên cỏ: Bóng Thấp và Phẳng đặc biệt hiệu quả vì sân
-cỏ không \'nâng\' bóng lên như đất nện. Cú cắt là vũ khí cực kỳ hiệu quả
+cỏ không 'nâng' bóng lên như đất nện. Cú cắt là vũ khí cực kỳ hiệu quả
 trên cỏ vì backspin giữ bóng cực thấp.
 
 Điều chỉnh VỊ TRÍ trên cỏ: Đứng sát hoặc trong baseline. Lên lưới thường
@@ -1361,7 +1361,7 @@ lên lưới hơn vì bóng chậm và đối thủ có nhiều thời gian ph�
 
 **14.4 Sân Cứng (Hard Court): Bề Mặt Cân Bằng**
 
-Sân cứng là bề mặt \'trung tính\' nhất, không thiên vị quá nhiều cho bất
+Sân cứng là bề mặt 'trung tính' nhất, không thiên vị quá nhiều cho bất
 kỳ loại chiến thuật nào. Đây là nơi hệ thống ba biến số có thể được thể
 hiện đầy đủ và cân bằng nhất.
 
@@ -1386,7 +1386,7 @@ chuyển sang cỏ đòi hỏi sự điều chỉnh nhanh chóng.
 
 Federer quản lý điều này thông qua một quy trình điều chỉnh có hệ thống:
 Ngày 1-2 sau khi chuyển bề mặt, tập trung vào biến số VỊ TRÍ --- tìm lại
-\'cảm giác\' đúng về khoảng cách và vị trí trên bề mặt mới. Ngày 3-4,
+'cảm giác' đúng về khoảng cách và vị trí trên bề mặt mới. Ngày 3-4,
 điều chỉnh biến số THỜI GIAN --- calibrate lại thời điểm tiếp xúc bóng.
 Ngày 5 trở đi, tinh chỉnh biến số ĐỘ CAO.
 
@@ -1403,7 +1403,7 @@ dụng khi tập luyện trên bề mặt mới.
 
 **15.1 Định Nghĩa Khủng Hoảng Trong Quần Vợt**
 
-Trong bối cảnh hệ thống thích nghi, \'khủng hoảng\' không chỉ có nghĩa
+Trong bối cảnh hệ thống thích nghi, 'khủng hoảng' không chỉ có nghĩa
 là đang thua nhiều game. Khủng hoảng xảy ra khi hệ thống của bạn không
 còn hoạt động hiệu quả --- khi bạn đang áp dụng đúng chiến lược nhưng
 đối thủ đã thích nghi, hoặc khi áp lực tâm lý làm suy giảm khả năng thực
@@ -1429,10 +1429,10 @@ và không chủ động điều chỉnh.
 
 Những dấu hiệu tâm lý đi kèm: Suy nghĩ âm tính liên tục về điểm đấu vừa
 rồi. Tập trung vào kết quả (thua bao nhiêu game) thay vì quy trình (ba
-biến số). Cảm giác \'mất kiểm soát\' của trận đấu.
+biến số). Cảm giác 'mất kiểm soát' của trận đấu.
 
 Khi nhận ra những dấu hiệu này, bước đầu tiên không phải là thay đổi
-chiến thuật --- mà là dừng lại và \'reset\' tâm lý. Một cú đánh tốt từ
+chiến thuật --- mà là dừng lại và 'reset' tâm lý. Một cú đánh tốt từ
 hệ thống đúng tốt hơn nhiều so với một cú đánh tốt từ phản ứng hoảng
 loạn.
 
@@ -1440,7 +1440,7 @@ loạn.
 
 Federer có một giao thức rõ ràng khi cảm thấy trận đấu đang vượt khỏi
 tầm kiểm soát. Bước 1 là Dừng và Reset: Sử dụng thời gian giữa các điểm
-đấu (khi nhặt bóng, điều chỉnh dây vợt) để thở sâu và \'xả\' cảm xúc
+đấu (khi nhặt bóng, điều chỉnh dây vợt) để thở sâu và 'xả' cảm xúc
 tiêu cực. Bước 2 là Quay Về Cơ Bản: Trong vài game tiếp theo, tập trung
 vào kỹ thuật cơ bản, không cố gắng đánh những cú phức tạp. Mục tiêu là
 tái lập nhịp điệu và sự tự tin.
@@ -1478,8 +1478,8 @@ Khả năng phục hồi từ khủng hoảng không phải là tính cách thi�
 nó là kỹ năng có thể được xây dựng qua luyện tập. Bài tập quan trọng
 nhất là thực hành có chủ đích trong các tình huống áp lực.
 
-Một cách đơn giản: trong buổi tập luyện, đặt ra các tình huống \'game
-over\' --- bạn đang thua 0-5 trong một set, hoặc đang ở match point
+Một cách đơn giản: trong buổi tập luyện, đặt ra các tình huống 'game
+over' --- bạn đang thua 0-5 trong một set, hoặc đang ở match point
 dưới. Thực hành quy trình phục hồi trong bối cảnh áp lực giả định. Điều
 này xây dựng cơ bắp tâm lý cho các tình huống thực tế.
 
@@ -1506,7 +1506,7 @@ khi đã thành thạo biến số hiện tại. Nhiều người cố gắng h�
 một lúc và cuối cùng không thành thạo bất kỳ điều gì. Hệ thống này đòi
 hỏi sự kiên nhẫn nhưng tạo ra kết quả bền vững.
 
-Tiêu chuẩn \'thành thạo\' trong chương trình này không phải là 100% hoàn
+Tiêu chuẩn 'thành thạo' trong chương trình này không phải là 100% hoàn
 hảo --- mà là khả năng thực hiện nhất quán dưới áp lực. Bạn chỉ chuyển
 sang biến số mới khi bạn có thể thực hiện biến số hiện tại đáng tin cậy
 ngay cả khi đang mệt hoặc dưới áp lực.
@@ -1603,16 +1603,16 @@ xây dựng Tầng 1 đến mức tự động hóa để giải phóng nhận t
 **17.2 Quản Lý Điểm Đấu Theo Chiến Lược**
 
 Không phải tất cả các điểm đấu đều có giá trị bằng nhau về mặt chiến
-lược. Federer nổi tiếng với khả năng nhận biết điểm nào là \'quan trọng
-nhất\' và tập trung năng lượng vào đó.
+lược. Federer nổi tiếng với khả năng nhận biết điểm nào là 'quan trọng
+nhất' và tập trung năng lượng vào đó.
 
-Trong quần vợt, có khái niệm \'điểm quan trọng\' (important points):
+Trong quần vợt, có khái niệm 'điểm quan trọng' (important points):
 15-30, 30-40, deuce, break point. Nghiên cứu cho thấy rằng hiệu suất của
 Federer trong các điểm quan trọng vượt trội đáng kể so với trung bình
 tour. Đây không phải là ngẫu nhiên --- đây là kết quả của việc bảo toàn
 năng lượng nhận thức cho những thời điểm quan trọng.
 
-Chiến lược quản lý điểm đấu: Trong các điểm \'ít quan trọng\', thực hiện
+Chiến lược quản lý điểm đấu: Trong các điểm 'ít quan trọng', thực hiện
 các cú đánh an toàn và nhất quán từ hệ thống. Trong các điểm quan trọng,
 tăng cường tập trung và sẵn sàng thực hiện những cú đánh rủi ro hơn nếu
 cần. Không phung phí năng lượng tâm lý cho những điểm thứ yếu.
@@ -1648,12 +1648,12 @@ Một công cụ hữu ích là quay video trận đấu và xem lại chậm. �
 bạn thấy những gì không thể nhận ra trong thời gian thực, đặc biệt về vị
 trí sân và thời điểm tiếp xúc bóng.
 
-**17.5 Xây Dựng \'Playbook\' Cá Nhân**
+**17.5 Xây Dựng 'Playbook' Cá Nhân**
 
 Sau nhiều trận đấu và phân tích, bạn sẽ bắt đầu nhận ra các mẫu hình
 trong lối chơi của chính mình. Một số biến số bạn kiểm soát tốt hơn. Một
 số kiểu đối thủ bạn xử lý hiệu quả hơn. Đây là dữ liệu để xây dựng
-\'playbook\' cá nhân.
+'playbook' cá nhân.
 
 Playbook của bạn không cần phức tạp. Đơn giản nhất là một bảng ghi lại:
 Kiểu đối thủ A → điều chỉnh TIME/HEIGHT/POSITION tốt nhất của tôi là gì.
@@ -1794,14 +1794,14 @@ trở nên cứng nhắc và dự đoán được.
 **19.3 Sự Kết Hợp Giữa Trực Giác Và Hệ Thống**
 
 Có một câu hỏi triết học thú vị ở trung tâm của hệ thống này: Federer
-đang \'suy nghĩ\' hay đang \'cảm nhận\' khi thi đấu? Câu trả lời là: cả
+đang 'suy nghĩ' hay đang 'cảm nhận' khi thi đấu? Câu trả lời là: cả
 hai, nhưng theo cách không thể tách rời.
 
 Hệ thống ba biến số bắt đầu như là suy nghĩ có ý thức --- bạn học nó một
 cách trí tuệ, luyện tập nó một cách có mục đích. Nhưng qua thực hành, nó
-dần dần được \'nội tâm hóa\' thành trực giác. Sau hàng nghìn giờ luyện
-tập, Federer không suy nghĩ \'Tôi cần điều chỉnh TIME sang Early vì
-Djokovic đang áp lực\' --- ông cảm nhận điều đó và thực hiện tự nhiên.
+dần dần được 'nội tâm hóa' thành trực giác. Sau hàng nghìn giờ luyện
+tập, Federer không suy nghĩ 'Tôi cần điều chỉnh TIME sang Early vì
+Djokovic đang áp lực' --- ông cảm nhận điều đó và thực hiện tự nhiên.
 
 Đây là mục tiêu cuối cùng của bất kỳ hệ thống học tập nào: chuyển từ suy
 nghĩ có ý thức sang thực hiện tự nhiên. Giai đoạn trung gian --- khi bạn
@@ -1810,7 +1810,7 @@ biết hệ thống nhưng phải suy nghĩ có ý thức mới áp dụng đư�
 
 **19.4 Vẻ Đẹp Trong Hiệu Quả**
 
-Federer thường được mô tả là \'đẹp nhất trong các tay vợt\'. Nhưng vẻ
+Federer thường được mô tả là 'đẹp nhất trong các tay vợt'. Nhưng vẻ
 đẹp trong lối chơi của ông không phải là tình cờ --- nó là kết quả trực
 tiếp của hiệu quả. Khi bạn không lãng phí chuyển động, khi mỗi bước chân
 đều có mục đích, và khi mỗi cú đánh đều là kết quả của quyết định có chủ
@@ -1855,8 +1855,8 @@ là trở thành phiên bản tốt nhất của chính bạn bằng cách áp d
 nguyên tắc từ hệ thống của ông.
 
 Federer có thể lực, tay vợt, và tư duy cụ thể. Bạn có thể lực, tay vợt,
-và tư duy khác. Hệ thống ba biến số hoạt động không phải vì nó là \'hệ
-thống của Federer\' mà vì nó là hệ thống dựa trên các nguyên tắc cơ bản
+và tư duy khác. Hệ thống ba biến số hoạt động không phải vì nó là 'hệ
+thống của Federer' mà vì nó là hệ thống dựa trên các nguyên tắc cơ bản
 của quần vợt: kiểm soát thời gian, kiểm soát quỹ đạo, và kiểm soát vị
 trí.
 
@@ -1890,15 +1890,15 @@ số. Dưới đây là khung để làm điều đó.
 
 Cá nhân hóa THỜI GIAN: Trạng thái nào trong ba trạng thái
 (Early/Neutral/Late) bạn thực hiện tốt nhất? Hãy sử dụng trạng thái đó
-như là \'trạng thái mặc định\' của bạn và phát triển hai trạng thái còn
-lại như là \'vũ khí bổ sung\'.
+như là 'trạng thái mặc định' của bạn và phát triển hai trạng thái còn
+lại như là 'vũ khí bổ sung'.
 
 Cá nhân hóa ĐỘ CAO: Khu vực nào trong bốn khu vực (Thấp/Trung
 Bình/Cao/Cắt) bạn kiểm soát tốt nhất? Xây dựng phần lớn rally xung quanh
 khu vực đó và phát triển ba khu vực còn lại để có sự đa dạng.
 
 Cá nhân hóa VỊ TRÍ SÂN: Khu vực nào (Phòng Thủ/Trung Hòa/Tấn Công) bạn
-thoải mái nhất? Sử dụng đó như là \'nhà\' của bạn và phát triển khả năng
+thoải mái nhất? Sử dụng đó như là 'nhà' của bạn và phát triển khả năng
 rời khỏi và quay về đó một cách hiệu quả.
 
 **20.4 Lộ Trình Dài Hạn: Từ Người Học Đến Người Thành Thạo**
@@ -1916,7 +1916,7 @@ là có thể thay đổi một biến số theo yêu cầu.
 Giai đoạn 3 (Tháng 7-12): Tích Hợp. Kết hợp cả ba biến số trong thi đấu
 thực tế. Mục tiêu là có thể điều chỉnh hệ thống dựa trên kiểu đối thủ.
 Giai đoạn 4 (Năm 2 trở đi): Thành Thạo. Hệ thống trở thành trực giác,
-bạn bắt đầu xây dựng \'phong cách\' riêng của mình trong khuôn khổ hệ
+bạn bắt đầu xây dựng 'phong cách' riêng của mình trong khuôn khổ hệ
 thống.
 
 **20.5 Lời Kết: Hành Trình Không Bao Giờ Kết Thúc**

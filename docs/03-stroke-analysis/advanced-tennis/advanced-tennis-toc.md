@@ -6,8 +6,7 @@ Section Overview
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_advanced-tennis-toc/media/image1.jpeg){width="1.8263888888888888in"
-height="2.64375in"}
+confidence](media_advanced-tennis-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -26,16 +25,16 @@ foundation, is studying the professional game using high speed cameras
 that film at 250 frames a second.
 
 These digital cameras are next generation \"Mac Cams,\" the same
-technology that \"sees\" the line calls at the U.S. Open. Only we\'ve
+technology that \"sees\" the line calls at the U.S. Open. Only we've
 trained them on something far more interesting\--the players themselves.
 
-We\'ve got comprehensive portraits of the top players in a special High
+We've got comprehensive portraits of the top players in a special High
 Speed Archive. Roger Federer, Rafael Nadal, Andy Roddick, Maria
 Sharapova, and many more. And in my articles, we also look at dozens
 more elite players hitting their signature shots.
 
-It\'s my pleasure to share some of the results here in this series of
-articles. Using this spectacular footage, we\'ll explore how to build
+It's my pleasure to share some of the results here in this series of
+articles. Using this spectacular footage, we'll explore how to build
 all the strokes in the modern game, as well as look at some widely
 accepted myths about what actually happens when pro players hit tennis
 balls.
@@ -99,7 +98,7 @@ Height](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-Grip%20an
 [**Classical Tennis and Modern
 Tennis**](John%20Yandell-Classic%20and%20Modern%20Tennis.docx)
 
-[How Modern was Don Budge\'s
+[How Modern was Don Budge's
 Forehand?](John%20Yandell-Classic%20and%20Modern%20Tennis-Is%20Don%20Budge's%20Forehand%20Good%20enough%20for%20you.docx)
 
 [Classical Tennis, Modern Tennis, Your
@@ -123,16 +122,16 @@ Classical](The%20Pro%20Return%20of%20serve%20-%20OHBH.docx)
 
 **Novak Djokovic Forehand**
 
-[Novak Djokovic\'s Forehand: The Forward
+[Novak Djokovic's Forehand: The Forward
 Swing](John%20Yandell-Novak%20Djokovic's%20Forehand-The%20Forward%20Swing.docx)
 
-[Novak Djokovic\'s Forehand: The Full Turn and the
+[Novak Djokovic's Forehand: The Full Turn and the
 Backswing](John%20Yandell-Novak%20Djokovic's%20Forehand-The%20Full%20Turn%20and%20Backswing.docx)
 
-[Novak Djokovic\'s Forehand: Start of the
+[Novak Djokovic's Forehand: Start of the
 Preparation](John%20Yandell-Novak%20Djokovic's%20Forehand-Start%20of%20the%20Preparation.docx)
 
-[Novak Djokovic\'s Forehand: A New
+[Novak Djokovic's Forehand: A New
 Synthesis](John%20Yandell-Novak%20Djokovic's%20Forehand-A%20new%20Synthesis.docx)
 
 **John Yandell**
@@ -185,7 +184,7 @@ Motions](The%20Sampras%20Serve-New%20Filming%20Protocols.docx)
 
 **Backhand Stances**
 
-[Two Handed Backhand Stances in Women\'s Pro
+[Two Handed Backhand Stances in Women's Pro
 Tennis](John%20Yandell-Backhand%20Stances-%20Pro%20Women.docx)
 
 [The Extreme Closed Stance: The Pro One Handed
@@ -235,16 +234,16 @@ Volleys](John%20Yandell-The%20Osmosis%20Clinic-Forehand%20Volley.docx)
 
 **Federer Serve**
 
-[Federer\'s Serve Locations: 2nd Serve
+[Federer's Serve Locations: 2nd Serve
 Placements](John%20Yandell-Federer%20Serve%20Locations-2nd%20Serve.docx)
 
-[Federer\'s Serve Locations: Deuce
+[Federer's Serve Locations: Deuce
 Court](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Deuce.docx)
 
-[Federer\'s Serve Locations: 1st Serve Ad
+[Federer's Serve Locations: 1st Serve Ad
 Court](John%20Yandell-Federer%20Serve%20Locations-1st%20Serve%20Ad%20Court.docx)
 
-[The Upward Swing: Federer\'s Serve in High Speed and High
+[The Upward Swing: Federer's Serve in High Speed and High
 Def](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx)
 
 [Roger Federer Serve Part
@@ -272,17 +271,17 @@ Stances](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hitting%20Stances.do
 [The Two-Handed Backhand: The Forward
 Swing](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20The%20Forward%20Swing.docx)
 
-[Andy Roddick\'s Two-Handed
+[Andy Roddick's Two-Handed
 Backhand](John%20Yandell-Andy%20Roddick's%20Backhand.docx)
 
 **John Yandell**
 
 **Andy Roddick: The New Serving Model?**
 
-[Andy Roddick: Understanding Andy Roddick\'s Serve Part
+[Andy Roddick: Understanding Andy Roddick's Serve Part
 1](Andy%20Roddick%20-%20The%20New%20Serving%20Model-Part1.docx)
 
-[Andy Roddick: Understanding Andy Roddick\'s Serve Part
+[Andy Roddick: Understanding Andy Roddick's Serve Part
 2](Andy%20Roddick%20-%20The%20New%20Serving%20Model-Part2.docx)
 
 **John Yandell**
@@ -305,7 +304,7 @@ Forehand](Modern%20Forehand%20Grip%20Variations%20Part%201.docx)
 
 [Hitting Stances in the Modern Forehand](Forehand%20Stances.docx)
 
-[Rafael Nadal\'s Forehand](Rafael%20Nadal's%20Forehand%20.docx)
+[Rafael Nadal's Forehand](Rafael%20Nadal's%20Forehand%20.docx)
 
 [Roger Federer: Evolution of The Modern Forehand Part
 1](Roger%20Federer%20and%20the%20Evolution%20of%20the%20Modern%20Forehand%20-%20Part%201.docx)
@@ -345,7 +344,7 @@ New](The%20Myth%20of%20Hitting%20Around%20the%20ball.docx)
 
 [The Myth of Lag and Snap](The%20Myth%20of%20Lag%20and%20Snap.docx)
 
-[The Myth of the Archer\'s
+[The Myth of the Archer's
 Bow](The%20Myth%20of%20the%20Archer's%20Bow.docx)
 
 [Myths About Low to High on the Pro

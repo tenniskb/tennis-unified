@@ -6,7 +6,7 @@
 
 Pattern 6 is based on the use of short angle cross-courts to set up an
 attack and an angled volley. This is the type of pattern most players
-don\'t practice, don\'t hit well, and don't use in matches. It\'s a
+don't practice, don't hit well, and don't use in matches. It's a
 great pattern to train and exemplifies George's philosophy of learning
 to use the whole court by becoming accurate and confident with
 angles\--and not hesitating to come forward by hitting combinations that
@@ -19,8 +19,7 @@ open the court.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-6/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-6/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

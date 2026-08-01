@@ -5,8 +5,7 @@
 ### Scott Murphy
 
 ![A person playing tennis Description automatically
-generated](media_the-high-ball/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-ball/media/image1.webp)
 
 **Can the club player learn to deal with the high ball the way top
 players do?**
@@ -19,29 +18,28 @@ level, or even higher. High balls include groundstrokes both in the
 backcourt or the frontcourt. They also include high volleys and returns
 on high kicking serves.]{.underline}]{.mark}**
 
-The reality is that playing all these balls doesn\'t have to be
-difficult. Let\'s see why, by looking at the problem from two
-perspectives. First let\'s look at strategies to avoid the high ball
-altogether. Second let\'s see what goes into establishing great contact
+The reality is that playing all these balls doesn't have to be
+difficult. Let's see why, by looking at the problem from two
+perspectives. First let's look at strategies to avoid the high ball
+altogether. Second let's see what goes into establishing great contact
 on a ball that is above your normal strike zone.
 
-To do all this, it\'s critical that you understand your capabilities and
+To do all this, it's critical that you understand your capabilities and
 limitations based on your grips, stances, and positioning. The other
-factor is an awareness of what your opponent is doing. It\'s an
+factor is an awareness of what your opponent is doing. It's an
 important and complex topic.
 
-In this first article we\'ll look at the options in the backcourt from
-the forehand side. In subsequent articles we\'ll move on to the backhand
-side, and then on to the forecourt on both wings. Finally, we\'ll
+In this first article we'll look at the options in the backcourt from
+the forehand side. In subsequent articles we'll move on to the backhand
+side, and then on to the forecourt on both wings. Finally, we'll
 address the return of serve. Every aspect of dealing with the high ball
 is critical if you want to develop a complete game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image2.webp)
 
-**Let\'s look at all the options, including crushing high balls
+**Let's look at all the options, including crushing high balls
 yourself.**
 
 **Avoiding High Balls**
@@ -63,32 +61,31 @@ positioning, and especially, good timing of the swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image3.webp)
 
 **Start at the service line and make contact at waist level.**
 
 **[[Besides avoiding the higher contact point, there are other obvious
-benefits to hitting on the rise. You don\'t open up your court, and you
+benefits to hitting on the rise. You don't open up your court, and you
 take time away from your opponent. It may be that in some circumstances
-it\'s the only way to get ahead in the points against a given
+it's the only way to get ahead in the points against a given
 player.]{.underline}]{.mark}**
 
 Hitting on the rise, your swing can and generally should be more
 compact, because you can take more pace from the ball itself. Making
-compact swings is especially important when you\'re just learning to
+compact swings is especially important when you're just learning to
 take the ball before the top of the bounce. But experienced, high-level
 players will really powder these balls, often with a full swing. We
-don\'t need to look any further than Roger Federer to see this is true.
+don't need to look any further than Roger Federer to see this is true.
 You can build up to this yourself as you get comfortable with the
 timing.
 
-Moving forward to hit the ball on the rise can be daunting if you\'ve
+Moving forward to hit the ball on the rise can be daunting if you've
 never tried it. The best way is to take it in stages. I suggest you
 start at the service line and have someone toss relatively high balls
 that you attempt to hit at approximately waist level. Resist the urge to
 back up! Players who consistently back up are often not even aware that
-they\'re doing it. Putting a row of cones behind you is a good
+they're doing it. Putting a row of cones behind you is a good
 preventative measure here.
 
 Keep your backswing short and just try to bump the ball. As you become
@@ -97,8 +94,7 @@ keep it short in the back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image4.webp)
 
 **Learn to play deep balls near the baseline when necessary.**
 
@@ -107,7 +103,7 @@ at your feet. Once you start to get more comfortable with the process
 you can gradually move back until you reach the baseline.
 
 In match play there are plenty of high balls that will bounce very near
-the baseline in circumstances where you can\'t avoid hitting on the
+the baseline in circumstances where you can't avoid hitting on the
 rise. This happens to the pros all the time when the opponent hits a
 hard, deep return off a big serve.
 
@@ -117,15 +113,15 @@ track the ball from the moment it leaves the other side, to the bounce,
 to the moment you contact it.]{.mark}]{.underline}**
 
 **[[Take care not to crowd the ball. This is very common among players
-who aren\'t used to going forward.]{.underline}]{.mark}** **[[You need
+who aren't used to going forward.]{.underline}]{.mark}** **[[You need
 to leave the same amount of room you would to hit a groundstroke.
-Remember, the idea is not an all out maniacal charge. You\'re still in
+Remember, the idea is not an all out maniacal charge. You're still in
 the backcourt.]{.underline}]{.mark}**
 
-More often than not you\'ll wind up in a neutral stance but a semi-open
+More often than not you'll wind up in a neutral stance but a semi-open
 stance is fine as well. To help you fine tune your position to the ball
 be sure to use small adjustment steps right before you hit. Practice
-this in the tossing drill until there\'s nothing you can\'t comfortably
+this in the tossing drill until there's nothing you can't comfortably
 hit on the rise.
 
 Now you are ready to progress to a next level. Ball machine work here is
@@ -134,7 +130,7 @@ positions with more pace.
 
 **Backing Up**
 
-**[[A high ball can\'t cause you a problem if it\'s not high when you
+**[[A high ball can't cause you a problem if it's not high when you
 make contact.]{.underline}]{.mark}** So the simplest solution\--if not
 always the best tactically\--is **[[simply to move back and allow the
 ball to drop to your normal contact height.]{.mark}]{.underline}** This
@@ -143,8 +139,7 @@ with less pace and spin.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image5.webp)
 
 **One high percentage solution: move back to create lower contact
 height.**
@@ -155,35 +150,33 @@ groundstroke. If you have enough time, you can step in, hit with a
 neutral stance and use your normal follow-through.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-high-ball/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-ball/media/image6.webp)
 
 **A good answer to a high ball is often a high ball of your own.**
 
 But when you back up to avoid hitting the high ball there are a few
-things you need to remember. By going back you\'re giving up court so
+things you need to remember. By going back you're giving up court so
 when you play your shot back you have to compensate for this by hitting
 somewhat higher over the net to maintain depth.
 
-Don\'t fall into the trap of thinking you absolutely have to do
-something with this ball. If your opponent stays back there\'s
+Don't fall into the trap of thinking you absolutely have to do
+something with this ball. If your opponent stays back there's
 absolutely nothing wrong with responding to a high ball with a ball of
-your own. You can match the arc of his high looping shot. It\'s safe and
+your own. You can match the arc of his high looping shot. It's safe and
 it neutralizes what your opponent is trying to do.
 
 Often responding to a high ball with a high ball will frustrate your
 opponent and cause him to try for too much himself. **[[But remember to
 keep an eye on his actual response, as sometimes a savvy player will
 sneak in as you retreat, hoping to take advantage of all the court
-you\'ve left open. When this happens your best bet is to
+you've left open. When this happens your best bet is to
 lob.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image7.webp)
 
-**Let\'s look at driving the ball with a higher contact point.**
+**Let's look at driving the ball with a higher contact point.**
 
 **Higher Contact**
 
@@ -191,28 +184,27 @@ height="2.5in"}
 rise, moving back and letting the ball drop]{.underline}]{.mark}**.
 **[[But most importantly, you need the confidence to deal effectively
 with balls effectively that are above his ideal strike
-zone.]{.underline}]{.mark}** **[[You don\'t want to fear the high ball,
+zone.]{.underline}]{.mark}** **[[You don't want to fear the high ball,
 you want to welcome it with a confident attitude. The question is
 how?]{.underline}]{.mark}**
 
 First of all, track that ball like a hawk! Avoid an immediate, huge
 sideways turn that makes it difficult to look at the ball straight on.
 High bouncing balls can play tricks with the eyes in that they seem to
-allow that kind of a ball to get too far back for comfort. You don\'t
+allow that kind of a ball to get too far back for comfort. You don't
 want to compound that tendency by making it more difficult to see the
 ball better.
 
-**[[Once you see where the ball\'s going, move first and start to build
+**[[Once you see where the ball's going, move first and start to build
 the swing on the way as opposed to taking the racquet all the way back
 and then moving.]{.underline}]{.mark}** **[[As you move into position
 you should position to the ball with your outside foot. For a right
-hander this is your right foot. This is the foot you\'re going to load
+hander this is your right foot. This is the foot you're going to load
 your weight on prior to swinging.]{.mark}]{.underline}**
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_the-high-ball/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image8.webp)
 
 **The set up is on the outside or right foot.**
 
@@ -228,12 +220,12 @@ height is raised.]{.underline}]{.mark}**
 ball.]{.underline}]{.mark}** **[[The set up has to be on the outside
 foot.]{.underline}]{.mark}** I hear a number of coaches advocate putting
 this foot directly behind the incoming ball. That can be a good image
-but if you follow it too literally you\'ll end up on top of the ball.
+but if you follow it too literally you'll end up on top of the ball.
 
 **[The Stance:]{.underline}**
 
 **[[The reality is your left foot should position inside of where
-you\'ll actually hit the ball.]{.underline}]{.mark}** **[[The distance
+you'll actually hit the ball.]{.underline}]{.mark}** **[[The distance
 should be roughly the length of your non-dominant arm across the
 body.]{.underline}]{.mark}** ([Click Here to read my article on the role
 of the non-dominant
@@ -250,8 +242,7 @@ stance.]{.underline}]{.mark}**
 
 ![A picture containing tennis, athletic game, sport, racket Description
 automatically
-generated](media_the-high-ball/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-ball/media/image9.webp)
 
 **From a semi-open stance your weight will naturally transfer with the
 swing.**
@@ -259,7 +250,7 @@ swing.**
 **[[Going into the swing the weight is loaded on the left or outside
 foot. As you swing it transfers to the front
 foot]{.underline}]{.mark}**. This is not something you have to think
-about, it\'s just a natural consequence of the swing. **It\'s also
+about, it's just a natural consequence of the swing. **It's also
 important [[not to swing your back foot around]{.underline}]{.mark} [[as
 you hit the ball.]{.underline}]{.mark}** This will over-rotate you and
 draw your energy away from the ball. **[[If you take a recovery step to
@@ -269,10 +260,10 @@ swing.]{.underline}]{.mark}**
 
 **[The Swing:]{.underline}**
 
-Now let\'s talk about the swing itself. Often, I see is players change
+Now let's talk about the swing itself. Often, I see is players change
 the shape of their normal swing patterns. They start the racquet hand
 too high having the feeling that the need to hit down on the ball. But
-since that won\'t work the next move is to try to quickly drop the
+since that won't work the next move is to try to quickly drop the
 racquet head straight down and then race it back up to contact. The
 result is that the player is basically overpowered by the ball.
 
@@ -285,8 +276,7 @@ height of the oncoming ball.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image10.webp)
 
 **The racket drops slightly below the level of contact before you hit
 up.**
@@ -308,11 +298,10 @@ tell them not to worry about it. This is often the case on super high
 balls, as the animations show. On others the racket may be level. Just
 use the image and see how they like the results. My friend and fellow
 writer for Tennisplayer.net Kerry Mitchell introduced me to this concept
-years ago, and I\'ve been using it successfully ever since.
+years ago, and I've been using it successfully ever since.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-high-ball/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-ball/media/image11.webp)
 
 **The image of the racket head above the hand creates awesome contact.**
 
@@ -320,14 +309,14 @@ height="2.5in"}
 contact point at the right time]{.underline}]{.mark}**. **[[It creates
 the sensation (as you swing forward and upward) of a jet kicking
 in.]{.underline}]{.mark}** **[[Then watch your shot leap off the court
-on the other side. You\'ll love it.]{.underline}]{.mark}**
+on the other side. You'll love it.]{.underline}]{.mark}**
 
 **There are two more very important things to note. These are [[your
 elbow position]{.underline}]{.mark} and [[your wrist
 position.]{.underline}]{.mark}** **[[The elbow should be ahead of your
 hitting side and bent at contact for leverage.]{.underline}]{.mark}**
 **[[Your wrist should be laid back against itself, because at this point
-it\'s leading the charge.]{.underline}]{.mark}** **[[Once the ball\'s
+it's leading the charge.]{.underline}]{.mark}** **[[Once the ball's
 gone it will flex forward naturally as a part of the
 finish.]{.underline}]{.mark}**
 
@@ -347,7 +336,7 @@ and you want to hit a deep higher kicking ball your swing will have lift
 and length to it with a higher finish.]{.underline}]{.mark}** **[[If you
 want to flatten it out your finish will be lower, probably with more of
 a wiper, or turning over of the hand and arm.]{.underline}]{.mark}**
-**[[If your opponent comes in you\'ll want to either dip the ball at his
+**[[If your opponent comes in you'll want to either dip the ball at his
 feet and your swing will be over very quickly with a fast wrap around
 the side of the body.]{.underline}]{.mark}**
 
@@ -363,17 +352,16 @@ I personally use a moderate semi-western grip on my forehand, about a 3
 somewhere between Andre Agassi and David Nalbandian. With this grip a
 ball at mid-chest level is like hitting the jackpot.
 
-There\'s plenty of time and space to accelerate the racquet and generate
+There's plenty of time and space to accelerate the racquet and generate
 loads of topspin. You can take a vicious swing at the ball and all that
-spin brings it back down into the court. It\'s awesome for controlling
+spin brings it back down into the court. It's awesome for controlling
 and being aggressive with high balls. I like to go out and bang the ball
 with college players and ranked juniors, as well as tournament and
 league players some of whom are playing 5.0 or higher. That grip puts a
 high percentage of the balls I hit in my natural strike zone.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-ball/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-ball/media/image12.webp)
 
 **A grip further under the handle raises the natural contact height, but
 does it suit your level?**
@@ -409,37 +397,35 @@ or fast. You can neutralize your opponent, float the ball back, buy
 time, and change the pace to through off his rhythm.
 
 This is what I call a **[[volley oriented stroke]{.underline}]{.mark}**.
-Essentially, it\'s like hitting a long half volley. Again, the key to
+Essentially, it's like hitting a long half volley. Again, the key to
 having leverage is to **[[visualize the racquet head is higher than the
 hand.]{.underline}]{.mark}** **[[When you volley, of course, this is
 literally what takes place.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-ball/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-ball/media/image13.webp)
 
 **Use a volley oriented high slice to neutralize and buy time.**
 
 **[[Prior to the forward swing you should set the racquet head a little
-above or equal to the height at which you\'ll strike the ball.]{.mark}
+above or equal to the height at which you'll strike the ball.]{.mark}
 [Make sure to finish with the racquet head above your
 hand.]{.mark}]{.underline}** **[[If you get a really high ball hit it as
 though your hand and racquet were running straight along a table
-top.]{.underline}]{.mark}** **[[Because you\'re hitting what amounts to
+top.]{.underline}]{.mark}** **[[Because you're hitting what amounts to
 a high half volley from the back of the court you usually have more
 time.]{.underline}]{.mark}** **[[Load on the back foot as always and
-then let the uncoiling from the legs direct your body\'s momentum upward
+then let the uncoiling from the legs direct your body's momentum upward
 into the ball.]{.underline}]{.mark}**
 
 So that gives you a pretty complete picture and a lot of options on the
-forehand side. In the next issue it\'s on to the backhand!
+forehand side. In the next issue it's on to the backhand!
 
 Have fun and good luck!
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-high-ball/media/image14.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-high-ball/media/image14.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -453,7 +439,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

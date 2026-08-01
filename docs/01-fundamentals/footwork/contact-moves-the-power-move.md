@@ -3,18 +3,17 @@
 **David Bailey**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-power-move/media/image1.webp)
 
 **Top players use the Power Move when they are pushed wide on the run.**
 
-In previous articles, we\'ve looked at the Aggressive and Neutral
-Contact Moves. ([Click Here](Footwork%20TOC.docx).) Now it\'s time to
+In previous articles, we've looked at the Aggressive and Neutral
+Contact Moves. ([Click Here](Footwork%20TOC.docx).) Now it's time to
 look at the Defensive Contact Moves.
 
-We\'ll start by looking at what I call the Power Move, the basis for the
+We'll start by looking at what I call the Power Move, the basis for the
 running forehand. Then in future articles on the Defensive Contact Moves
-we\'ll look at the two other patterns, the Reverse Spin and the Mogul.
+we'll look at the two other patterns, the Reverse Spin and the Mogul.
 
 I originally developed the concept of the Contact Move to help us
 understand the incredible diversity of movements used by high level
@@ -26,23 +25,22 @@ There are multiple variations of all these elements, and they can be
 combined in many, many ways depending on the type of ball the player is
 facing. The Contact Move concept lets us sort all this out.
 
-The defensive Contact Moves I\'m going to analyze are the footwork
+The defensive Contact Moves I'm going to analyze are the footwork
 patterns used by the top pros when they are challenged and pushed wide
 or far back in the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image2.webp)
 
 **Pete Sampras used the Power Move to turn defense into offense.**
 
-But when we talk about \"defensive\" contact moves let\'s understand
+But when we talk about \"defensive\" contact moves let's understand
 what that means. We use defensive Contact Moves when we are challenged
 and forced to hit the ball off running steps.
 
-But the idea isn\'t necessarily to play defensive tennis, and defensive
-Contact Moves aren\'t necessarily associated with \"pushing\" or a
+But the idea isn't necessarily to play defensive tennis, and defensive
+Contact Moves aren't necessarily associated with \"pushing\" or a
 defensive strategic style. **[[The idea behind these Contact Moves is
 something else: to make a successful shot from a defensive position.
 This can be a very aggressive shot, or even a
@@ -65,14 +63,13 @@ players as well.
 
 ![A tennis player running on a court Description automatically generated
 with medium
-confidence](media_contact-moves-the-power-move/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image3.webp)
 
 **Ana Ivanovic perfectly demonstrates the running forehand Power Move.**
 
 So, what exactly is a Power Move? And how can you learn to hit it? The
 components are somewhat complex and difficult to see with the naked eye
-when the top players are on the run. So, let\'s break it down step by
+when the top players are on the run. So, let's break it down step by
 step.
 
 **A Power Move resembles an explosive, elevated lunge step.**
@@ -104,8 +101,7 @@ rotation is naturally reduced.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image4.webp)
 
 **The landing and the breaking step are followed by a crossover step and
 the recovery to a neutral position.**
@@ -129,15 +125,14 @@ to move to the next ball.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image5.webp)
 
 **Developing the Power Move elements before hitting balls can help
 players at all levels.**
 
 **Progression**
 
-As I said, the Power Move is complex, so let\'s go over the steps one
+As I said, the Power Move is complex, so let's go over the steps one
 more time. Watch in the animation of the junior player. I use colored
 dots to train elite junior players to master the Power Move first
 without the ball. This is a great approach for players at any level who
@@ -163,8 +158,7 @@ want to improve their running forehands.
   position.]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-power-move/media/image6.webp)
 
 **The reverse finish is associated with the reduced body rotation on the
 Power Move.**
@@ -180,16 +174,15 @@ This is the \"reverse forehand\" finish described by Robert Lansdorp.
 can see this most famously in the Sampras running forehand, but the same
 swing pattern is used by most of the top pros.
 
-Without the torso rotation to drive the racket around and forward, it\'s
+Without the torso rotation to drive the racket around and forward, it's
 natural for the swing to accelerate upward over the head, with the
 eventual finish moving backwards away from the player.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image7.webp)
 
-**Watch how Federer\'s step forward allows him to rotate more fully.**
+**Watch how Federer's step forward allows him to rotate more fully.**
 
 **Cutting Off the Angle**
 
@@ -205,8 +198,7 @@ move forward and cut down the angle of the oncoming shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-power-move/media/image8.webp)
 
 **Though less common, top players use the Power Move on both two-handed
 and one-handed backhands.**
@@ -227,8 +219,7 @@ airborne. The landing is with the front foot, and the back foot again
 kicks back for balance.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-power-move/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-power-move/media/image9.webp)
 
 **When two-handed players land with a forward diagonal step, they can
 rotate through the Power Move.**
@@ -250,8 +241,7 @@ the shot as on a typical groundstroke.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-power-move/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}\
+confidence](media_contact-moves-the-power-move/media/image10.webp)\
 **The Power Move on the one-hander with the torso staying sideways and
 the swing extending.**
 
@@ -268,12 +258,11 @@ The swing pattern with the arm and racket is similar to any other
 one-handed backhand with the hitting arm straight and extending outward
 to the target with the shoulders sideways.
 
-So that\'s it for the Power Move. Next, defensive Contact Moves when the
+So that's it for the Power Move. Next, defensive Contact Moves when the
 player is pushed backwards off the baseline rather than wide. Stay
 Tuned!
 
-![](media_contact-moves-the-power-move/media/image11.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_contact-moves-the-power-move/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

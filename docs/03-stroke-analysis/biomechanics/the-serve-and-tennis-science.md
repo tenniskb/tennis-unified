@@ -16,8 +16,7 @@ transited into the world of the academic study of tennis.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A picture containing linedrawing Description automatically
-   generated](media_the-serve-and-tennis-science/media/image1.gif){width="3.0208333333333335in"
-                                                                                  height="4.1875in"}
+   generated](media_the-serve-and-tennis-science/media/image1.gif)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                 **The result of the mathematical combination of nine NCAA Division I players can be displayed in a computer graphic**
 
@@ -25,7 +24,7 @@ transited into the world of the academic study of tennis.
 
 Now 10 years later, as I finish up my PhD, I still have no idea what
 many of the same authors are talking about. The problem is no longer
-that I don\'t understand the technical meaning of terms like \"forces\"
+that I don't understand the technical meaning of terms like \"forces\"
 and \"torques.\" The problem is that the use of such terms was and
 continues to be so misguided.
 
@@ -81,8 +80,7 @@ by John Yandell in his article entitled \"The Myth of the Wrist.\"
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![Diagram, engineering drawing Description automatically generated with medium
-   confidence](media_the-serve-and-tennis-science/media/image2.gif){width="3.0in"
-                                                                     height="4.229166666666667in"}
+   confidence](media_the-serve-and-tennis-science/media/image2.gif)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                       **The combination computer graphic indicates the intricate pattern of segment motions used to give speed to the racquet .**
 
@@ -123,7 +121,7 @@ segments:**
 
 The contribution from each segment (or associated joint action) was
 determined every 1/100 second from the racquet low point to just prior
-to contact. For this article, I\'ve summarized the results at three key
+to contact. For this article, I've summarized the results at three key
 points in the motion:
 
 1.  **The racquet low point**
@@ -134,8 +132,7 @@ points in the motion:
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                          ![Diagram Description automatically                                                                                                                                ![A picture containing diagram Description automatically                                                                                                             ![A person playing tennis Description automatically generated with medium
-   generated](media_the-serve-and-tennis-science/media/image3.jpg){width="1.5729166666666667in"   generated](media_the-serve-and-tennis-science/media/image4.jpg){width="1.5625in"   confidence](media_the-serve-and-tennis-science/media/image5.jpg){width="1.5729166666666667in"
-                                                                                 height="1.78125in"}                                                                                                                                                     height="1.9583333333333333in"}                                                                                                                                               height="2.2604166666666665in"}
+   generated](media_the-serve-and-tennis-science/media/image3.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                 **Racquet Low Point**                                                                                                                                                          **Halfway Point**                                                                                                                                                         **Just Prior to Contact**
 
@@ -160,29 +157,25 @@ adjacent segments.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A picture containing yellow Description automatically
-   generated](media_the-serve-and-tennis-science/media/image6.gif){width="3.125in"
-                                                                      height="4.166666666666667in"}
+   generated](media_the-serve-and-tennis-science/media/image6.gif)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
    **The solid figure graphic indicates the rotation of the two main contributing segments from the racquet low point to the mid point. Note the lateral motion of the
       racquet (left to right) is caused mainly by trunk twist while the upward influence is caused mainly by motion at the shoulder joint (horizontal adduction).**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+---------------------+------------+
-| wisting of Trunk    | 50%        |
-|                     |            |
-|                     | (28% hips) |
-|                     |            |
-|                     | (22%       |
-|                     | shoulders) |
-+:===================:+:==========:+
-| Wrist Extension     | 29%        |
-+---------------------+------------+
-| Upper Arm Twist     | 26%        |
-| (external rotation) |            |
-+---------------------+------------+
-| Shoulder Movement   | 26%        |
-+---------------------+------------+
+| wisting of Trunk | 50% |
+| --- | --- |
+|  |  |
+|  | (28% hips) |
+|  |  |
+|  | (22% |
+|  | shoulders) |
+| Wrist Extension | 29% |
+| Upper Arm Twist | 26% |
+| (external rotation) |  |
+| Shoulder Movement | 26% |
+
 
 The racquet head speed by the mid-point of the upward swing (second
 figure) had increased from about 24 mph to about 39 mph. Again, this
@@ -198,21 +191,18 @@ was about 18%.
 
 ### Contributions to Racquet Head Speed at the Halfway Point
 
-+-----------------+----------------+
-| Elbow Extension | 29%            |
-+:===============:+:==============:+
-| Shoulder        | 24%            |
-| Movement        |                |
-+-----------------+----------------+
-| Trunk Twist     | 22%            |
-|                 |                |
-|                 | (11% hips)     |
-|                 |                |
-|                 | (11%shoulders) |
-+-----------------+----------------+
-| Wrist Deviation | 18%            |
-| (sideways)      |                |
-+-----------------+----------------+
+| Elbow Extension | 29% |
+| --- | --- |
+| Shoulder | 24% |
+| Movement |  |
+| Trunk Twist | 22% |
+|  |  |
+|  | (11% hips) |
+|  |  |
+|  | (11%shoulders) |
+| Wrist Deviation | 18% |
+| (sideways) |  |
+
 
 Just before contact in the third figure, racquet head speed reached a
 value of slightly more than 85 mph. This indicates that the period from
@@ -229,32 +219,27 @@ forearm pronation at 5%.
 **Contributions to Racquet Head Speed Prior to Contact**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-serve-and-tennis-science/media/image7.gif){width="3.1354166666666665in"
-                                                                              height="4.1875in"}
+   ![](media_the-serve-and-tennis-science/media/image7.gif)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **A different viewpoint shows how racquet speed is generated from the mid point to contact. Elbow extension and wrist flexion, the two main contributors, are highlighted.
   Note that elbow extension is important throughout, and critical early as the racquet is moving up. Also note wrist flexion exerts its main influence approaching contact.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+-------------------+------------+
-| Elbow Extension   | 35%        |
-+:=================:+:==========:+
-| Wrist Flexion     | 24%        |
-+-------------------+------------+
-| Upper Arm Twist   | 17%        |
-| (internal         |            |
-| rotation)         |            |
-+-------------------+------------+
-| Trunk Twist       | 10%        |
-|                   |            |
-|                   | (-3% hips) |
-|                   |            |
-|                   | (13%       |
-|                   | shoulders) |
-+-------------------+------------+
-| Forearm Pronation | 5%         |
-+-------------------+------------+
+| Elbow Extension | 35% |
+| --- | --- |
+| Wrist Flexion | 24% |
+| Upper Arm Twist | 17% |
+| (internal |  |
+| rotation) |  |
+| Trunk Twist | 10% |
+|  |  |
+|  | (-3% hips) |
+|  |  |
+|  | (13% |
+|  | shoulders) |
+| Forearm Pronation | 5% |
+
 
 If you are wondering at this point why the analysis was cut off prior to
 contact, it is because measurements taken at contact are subject to
@@ -300,7 +285,7 @@ joint complex. This allows a greater understanding of how the motion is
 really produced.
 
 Further insight into serve mechanics is gained by exploring the main
-subject of John\'s article, the role of wrist motion. Wrist motion in
+subject of John's article, the role of wrist motion. Wrist motion in
 fast, complicated activities like the serve is difficult to discern. To
 really follow the specific motion of the wrist, one would require a view
 of the motion along the precise axis of the joint movement. As this axis
@@ -310,8 +295,7 @@ logistically impossible to obtain.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Chart, line chart Description automatically
-  generated](media_the-serve-and-tennis-science/media/image8.jpg){width="6.973611111111111in"
-  height="4.990277777777778in"}
+  generated](media_the-serve-and-tennis-science/media/image8.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -323,7 +307,7 @@ can be obtained.
 If you followed my results you may have noticed that throughout the
 upward swing phase, the motion of the wrist is a significant determinant
 of the speed of the racquet. Wrist motion also effects the path of the
-swing. John\'s article, while acknowledging some motion, discounts wrist
+swing. John's article, while acknowledging some motion, discounts wrist
 motion as a causative factor, particularly around the contact point.
 **[[His argument is that any motion of the wrist is a reaction to the
 motion of other segments and not a conscious effect of muscular
@@ -345,8 +329,7 @@ discussions of tennis technique: \"torque.\"
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-serve-and-tennis-science/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-serve-and-tennis-science/media/image9.webp)
 
 **From world-class players to weekend warriors, the BIG serve requires
 optimal racquet speed contribution from ALL available segmental
@@ -387,21 +370,21 @@ The point is, because the action of a joint and associated rotation of
 an adjacent segment may not be driven exclusively by muscle contraction,
 in no way diminishes its importance in defining the motion. It may,
 however, limit its effectiveness as a coaching focus. This is where I
-agree with John: you can\'t train a motion-dependent torque in the same
+agree with John: you can't train a motion-dependent torque in the same
 way you can train a muscle driven joint torque. Instead, the training
 (coaching) should focus on the ultimate cause of the motion-dependent
 torque, which is muscular torque applied lower in the chain of linked
 segments (at the shoulder joint or in the trunk or in the legs for
 example).
 
-To conclude, I\'m reminded of something I learned in a computer science
+To conclude, I'm reminded of something I learned in a computer science
 seminar: \"Data do not imply their own explanation.\" The ability to
 measure and calculate millions of numbers will not further the
 understanding of tennis strokes. Biomechanics alone is not the holy
 grail of sport understanding, and there are some issues the current
-methods of biomechanics can\'t address.
+methods of biomechanics can't address.
 
-It\'s also important to understand that biomechanical analysis itself is
+It's also important to understand that biomechanical analysis itself is
 subject to a degree of error, that the analysis is time consuming and
 expensive, and that to date it has been difficult for academics,
 coaches, and players to work together productively. But the methods of
@@ -413,21 +396,20 @@ tennis community.
 This article is based in part on research published in the *Journal of
 Sports Sciences.*
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                       | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-serve-and-tennis-science/media/image10.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                      | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                    | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                    | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                    | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                    | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                    | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                    | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                    | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                    |                                                               |
-|                                                                                                                                                                                    | To visit his website, [**[Click                               |
-|                                                                                                                                                                                    | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                    |                                                               |
-|                                                                                                                                                                                    | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                    | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+====================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-serve-and-tennis-science/media/image10.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

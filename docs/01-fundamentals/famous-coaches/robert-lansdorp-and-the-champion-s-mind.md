@@ -1,19 +1,18 @@
-# Robert Lansdorp and the Champion\'s Mind
+# Robert Lansdorp and the Champion's Mind
 
 ### Pete Sampras with Peter Bodo
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing ping pong Description automatically generated with medium
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image1.jpg){width="1.8541666666666667in"
-  height="2.570326990376203in"}
+  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image1.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Taking lessons from Robert Lansdorp put me in the thick of Southern California tennis.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Editor\'s Note: This exclusive excerpt from Pete Sampras\'s new
-autobiography tells the story of Robert Lansdorp\'s early and lasting
-influence on Pete\'s game starting when the Sampras family moved from
+**Editor's Note: This exclusive excerpt from Pete Sampras's new
+autobiography tells the story of Robert Lansdorp's early and lasting
+influence on Pete's game starting when the Sampras family moved from
 Maryland to Palos Verdes California in 1978.**
 
 Shortly after we got to Palos Verdes, we found out that it was a
@@ -33,8 +32,7 @@ performer.)
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}** **
+confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image2.webp)** **
 
 **Robert laid the foundation of my ground game.**
 
@@ -82,8 +80,7 @@ wait until they were over.
 
 ![A picture containing text, person, outdoor, person Description
 automatically
-generated](media_robert-lansdorp-and-the-champion-s-mind/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_robert-lansdorp-and-the-champion-s-mind/media/image3.webp)
 
 **A genius for feeding balls.**
 
@@ -111,8 +108,7 @@ after drill.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image4.webp)
 
 **My running forehand is all Robert.**
 
@@ -144,8 +140,7 @@ you've got to get enough lift on that shot to clear the net, but cover
 it enough to get good pace and depth (and not drive it long).  
 
 ![A person holding a tennis racket Description automatically
-generated](media_robert-lansdorp-and-the-champion-s-mind/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_robert-lansdorp-and-the-champion-s-mind/media/image5.webp)
 
 **My forehand changed very little over the years.**
 
@@ -164,8 +159,7 @@ heart. But God, was he tough!
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with low
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image6.jpeg){width="1.0729166666666667in"
-  height="1.5625in"}
+  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image6.jpeg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -183,17 +177,16 @@ son Luke, but likes to roam the Catskill Mountains hunting and fishing
 near his farm in upstate New York.
 
 [Click Here](http://www.peterbodostennisworld.com/) to read his Blog on
-Tennis.com, Peter Bodo\'s TennisWorld!
+Tennis.com, Peter Bodo's TennisWorld!
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium
-  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image7.jpeg){width="1.0208333333333333in"
-  height="1.5729166666666667in"}
+  confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image7.jpeg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In this new autobiography, \"A Champion\'s Mind: Lessons from a Life in
+In this new autobiography, \"A Champion's Mind: Lessons from a Life in
 Tennis,\" Pete Sampras tells the remarkable inside story of how he
 became the best player in tennis history and what life was like on at
 the top of the tennis world. Unlike my celebrity biographies, this book

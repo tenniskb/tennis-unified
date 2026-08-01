@@ -15,8 +15,7 @@ the effort to understand his incredibly aggressive and consistent style.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image1.webp)
 
 **In this article let's turn to Karsten's classic backhand.**
 
@@ -34,8 +33,7 @@ traditional and modern styles.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image2.webp)
 
 **Karsten hits a flat variation with minimal topspin.**
 
@@ -63,8 +61,7 @@ of the handle, and his index knuckle is on next bevel down from the top,
 or possibly just on the edge between the two.
 
 ![A person playing tennis Description automatically
-generated](media_the-classic-backhand-karsten-popp/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-backhand-karsten-popp/media/image3.webp)
 
 **Most of Karsten's backhands are penetrating slice drives.**
 
@@ -94,8 +91,7 @@ topspin drives in the modern game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image4.webp)
 
 **Compare the downward angle of the swing on Karsten's slice that of
 Federer.**
@@ -128,8 +124,7 @@ factors turn his backhand into a weapon.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image5.webp)
 
 **As with his forehand, early contact close to the baseline and a low
 trajectory forces opponents on time.**
@@ -164,8 +159,7 @@ never hit to his backhand. If you don't know, Pierre was one of the 10
 or 20 best players in the world in his generation.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-classic-backhand-karsten-popp/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-backhand-karsten-popp/media/image6.webp)
 
 **If you hit too close to the middle, Karsten hits a nasty, curving
 inside out slice to your forehand corner.**
@@ -195,8 +189,7 @@ Now watch how at the bottom of the loop, as he's about to draw the
 racquet forward, his arm locks out or straightens.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-classic-backhand-karsten-popp/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-backhand-karsten-popp/media/image7.webp)
 
 **Compact, simple preparation and an early hitting arm position.**
 
@@ -230,8 +223,7 @@ closed stances when he is wider in the cour. This is actually the same
 pattern used by so-called modern one-handers.
 
 ![A person playing tennis Description automatically
-generated](media_the-classic-backhand-karsten-popp/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-backhand-karsten-popp/media/image8.webp)
 
 **Karsten naturally adjusts between neutral and closed stances.**
 
@@ -263,8 +255,7 @@ strike zone for his grip.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image9.webp)
 
 **The left arm moves backwards and the head stays sideways through the
 contact.**
@@ -296,8 +287,7 @@ position," John concluded.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-backhand-karsten-popp/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-backhand-karsten-popp/media/image10.webp)
 
 **Long finishes, high and at about eye level.**
 
@@ -325,8 +315,7 @@ Stay tuned! Next we'll look at Karsten's volleys, and also his attacking
 net game, including his unique \"old style" serve and volley footwork!
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-classic-backhand-karsten-popp/media/image11.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-classic-backhand-karsten-popp/media/image11.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -340,7 +329,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

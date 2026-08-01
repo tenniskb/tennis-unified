@@ -8,12 +8,11 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-speed-in-pro-tennis/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-speed-in-pro-tennis/media/image1.webp)
 
 **What happens to the speed of the ball over the flight of the serve?**
 
-It\'s indisputable that pro tennis has become a supersonic sport. But
+It's indisputable that pro tennis has become a supersonic sport. But
 what do we REALLY know about the incredible speeds of the shots hit by
 the best players in pro tennis?
 
@@ -36,20 +35,19 @@ gone completely unnoticed by experienced students of the pro game. But
 the results of our analysis showed that the ball actually slows down
 dramatically as it travels between the players. Virtually every shot in
 pro tennis loses at least 50% of its speed by the time it reaches the
-opponent. That\'s right, half\--and usually even more. This was true on
+opponent. That's right, half\--and usually even more. This was true on
 the serve. It was also true on the groundies, the returns, volleys, and
 overheads.
 
-Let\'s look at how we did our study and the results on all the strokes.
-I think you\'ll find it as fascinating as we did. At the end, we\'ll
+Let's look at how we did our study and the results on all the strokes.
+I think you'll find it as fascinating as we did. At the end, we'll
 also see some important implications for coaching and playing that can
 have a huge effect on your ability to time the ball, particularly on
-your opponent\'s biggest shots.
+your opponent's biggest shots.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-speed-in-pro-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-speed-in-pro-tennis/media/image2.webp)
 
 **What about the speed of all the other shots besides the serve?**
 
@@ -63,14 +61,14 @@ cameras set at right angles high above the court, one shooting across
 the net, and the other across the baseline.
 
 Advanced Tennis principal scientist Nasif Iskander then digitized dozens
-of Pete\'s shots, capturing the trajectory of the ball in its flight
-between the players\' rackets. Using an original piece of motion
+of Pete's shots, capturing the trajectory of the ball in its flight
+between the players' rackets. Using an original piece of motion
 analysis software he created, Nasif was then able to measure the speed
 of the ball and how it changed over the course of the flight of each
 shot. [(AdvancedTennis.com)](http://www.advancedtennis.com)
 
 All told, Nasif analyzed over 50 Sampras hits by plotting over 4000
-separate points in the flight of his and his opponent\'s shots. For the
+separate points in the flight of his and his opponent's shots. For the
 first time we had data on the speeds of the shot patterns of a world
 class player. This included the initial speed of the ball on every
 stroke and what happened to this initial speed both before and after the
@@ -78,8 +76,7 @@ bounce, and at the time the opponent hit the next ball.
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_ball-speed-in-pro-tennis/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-speed-in-pro-tennis/media/image3.webp)
 
 **To understand the speed of the ball over the flight of the shot, we
 filmed the trajectory with two wide cameras.**
@@ -94,10 +91,10 @@ difference of less than 5%.
 
 What spectators see on the radar guns is probably fairly accurate
 (although possibly less accurate on wide serves which travel at more of
-an angle to the radar gun beam.) But that\'s just the initial speed.
+an angle to the radar gun beam.) But that's just the initial speed.
 What about the rest of the flight of the serve? What happened to it in
-the 3/4s of a second or less it took for Pete\'s serve to reach his
-opponent\'s racket?
+the 3/4s of a second or less it took for Pete's serve to reach his
+opponent's racket?
 
 The answer is that over the course of its flight, that 120mph serve
 actually slowed down to under 60 mph. It was going less than half its
@@ -134,7 +131,7 @@ with the court, it lost 25mph.
 
 Then, as the ball traveled toward the opponent after the bounce, it
 continued to lose even more speed. At the point the player hit the
-return\--or the ball passed the baseline in the case of an ace\--Pete\'s
+return\--or the ball passed the baseline in the case of an ace\--Pete's
 serve lost on average another 8mph. So that first serve may start off at
 120mph, but it reaches the receiver at about 54mph. The following chart
 breaks it down so you can see the serves in both courts, both wide and
@@ -164,17 +161,16 @@ return, what about the speed of the return itself? Is it possible that
 the perception that the return can be \"faster\" than the serve actually
 true?
 
-Nasif was able to measure the speed of 10 returns hit by Pete\'s
+Nasif was able to measure the speed of 10 returns hit by Pete's
 opponents, as well as 3 returns hit by Sampras.
 
-So is the return ever \"faster\" than the serve? Let\'s clarify the
+So is the return ever \"faster\" than the serve? Let's clarify the
 question. Is the initial velocity of the return faster than the initial
 velocity of the serve? Definitely no.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-speed-in-pro-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-speed-in-pro-tennis/media/image4.webp)
 
 **Is it possible that a great return comes back faster than the serve?**
 
@@ -190,25 +186,24 @@ answer is yes.
 As outlined above, the analysis showed that by the time of the return, a
 120mph first serve has slowed down by more than half, traveling at
 roughly 55mph. Our analysis also revealed that the initial velocity of
-many returns was higher than than that. On Pete Sampras\'s fastest
+many returns was higher than than that. On Pete Sampras's fastest
 return, for example, the speed of the serve had slowed 60mph at the time
-of the return. Sampras\'s return had an initial velocity of 65mph, about
+of the return. Sampras's return had an initial velocity of 65mph, about
 10% higher than the speed of the ball at the time of the hit .
 
 The fastest return we recorded, a backhand hit by Jonathan Stark, left
-Stark\'s racket at 70mph. This return was on a Sampras serve with an
+Stark's racket at 70mph. This return was on a Sampras serve with an
 initial velocity of 125mph. that 125mph serve had slowed to 54mph just
-before Stark\'s hit. Stark\'s return added 16mph to the ball speed,
+before Stark's hit. Stark's return added 16mph to the ball speed,
 increasingl the speed of the ball by about 30%. For the 3 Sampras
 returns studied, Sampras averaged 56mph, an increase of about 4mph over
 the speed of the incoming ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-speed-in-pro-tennis/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_ball-speed-in-pro-tennis/media/image5.webp)
 
-**Pete\'s returns averaged 56 mph off the racket\--about 4 mph faster
+**Pete's returns averaged 56 mph off the racket\--about 4 mph faster
 than the speed of the ball prior to contact.**
 
 It should also be noted, however, that the average initial velocity of
@@ -218,7 +213,7 @@ slower than the incoming ball which was 55mph.
 
 Based on the limited number of returns analyzed, it is difficult to
 conclude what the maximum potential speed of the return might be. Most
-all of Sampras\'s returns showed a slight increase in speed. One return
+all of Sampras's returns showed a slight increase in speed. One return
 by an opponent showed a 30% increase in speed. We can speculate that the
 most aggressive returners in the game could hit returns with even more
 velocity, approximating or exceeding the velocities of the groundstrokes
@@ -229,16 +224,16 @@ as analyzed below.
 After leaving the racket, the returns showed substantially loses in this
 initial velocity over the course of the flight. In fact the percentage
 of speed lost was slightly more on the returns than it was on the
-serves. Sampras\' returns averaged an initial speed of 56mph, but slowed
+serves. Sampras' returns averaged an initial speed of 56mph, but slowed
 to an average of only 20mph at the end of their flight.
 
-These 3 returns were typical of the returns of Pete\'s various
+These 3 returns were typical of the returns of Pete's various
 opponents, which also lost well over a third of their speed before the
 bounce. The bounce of the ball on the court caused the shot to lose over
 a third of the remaining speed. After the bounce, the return continued
 to slow down, losing another 15-20%.
 
-Sampras\' Forehand Return:
+Sampras' Forehand Return:
 
   --------------------------------------------------------------------------
     Forehand     Pre-Hit\  Max MPH After  Pre Bounce   Post Bounce  End MPH
@@ -248,7 +243,7 @@ Sampras\' Forehand Return:
 
   --------------------------------------------------------------------------
 
-Sampras\' Backhand Return:
+Sampras' Backhand Return:
 
   --------------------------------------------------------------------------
       Number of      Pre-Hit\    Max MPH    Pre Bounce  Post Bounce  End MPH
@@ -261,7 +256,7 @@ Sampras\' Backhand Return:
 The Groundstrokes
 
 This was in fact almost exactly the same speed the ball was traveling
-before the hit on Sampras\'s groundstrokes, an average of 19mph.
+before the hit on Sampras's groundstrokes, an average of 19mph.
 
 Our data showed that 9 Pete Sampras forehands had an average initial
 velocity of 76mph, with the fastest being 82mph. On the backhand, we
@@ -271,7 +266,7 @@ This equaled an average increase of over 50mph in the speed of the ball
 compared to its speed just before the hit, which averaged about 20mph.
 
 The pattern of deceleration on the groundstrokes closely matched that of
-the serve and return. On average Sampras\'s groundstrokes started at
+the serve and return. On average Sampras's groundstrokes started at
 about 70-75mph and finished at about 30mph.
 
 Sampras Forehand:
@@ -294,7 +289,7 @@ Sampras Backhand:
 
   ---------------------------------------------------------------------------
 
-Pete\'s backhand volley averaged a little over 40mph off the racket.
+Pete's backhand volley averaged a little over 40mph off the racket.
 
 The Net Game
 
@@ -339,14 +334,14 @@ The initial speed of the overhead can exceed 100mph.
 The Overhead
 
 We were also about to capture and track the speed of 4 overheads, which
-rounded out a very complete picture of ball speed in Pete\'s game. The
+rounded out a very complete picture of ball speed in Pete's game. The
 initial speed on the Sampras overhead approached the speed on his first
 serve, averaging 110mph on the 4 overheads measured, with a high of
 118mph.
 
 The Overhead We were also about to capture and track the speed of 4
 overheads, which rounded out a very complete picture of ball speed in
-Pete\'s game. The initial speed on the Sampras overhead approached the
+Pete's game. The initial speed on the Sampras overhead approached the
 speed on his first serve, averaging 110mph on the 4 overheads measured,
 with a high of 118mph.
 
@@ -368,7 +363,7 @@ levels of pro tennis. As we already knew from the radar guns, points
 begin in pro tennis with serves traveling at 120mph or more. But the
 speed of a 120mph serve slows to around 55mph by the time of the return.
 
-The average speed of Pete\'s forehand volley was 47mph.
+The average speed of Pete's forehand volley was 47mph.
 
 The return in tennis can either increase or reduce the speed of the
 ball, so that it begins its flight back to the server at between
@@ -429,7 +424,7 @@ shots that routinely travel over 100mph, they must deal with radical
 changes in shot speed, changes that happen in fractions of a second and
 are in fact invisible to the human eye. A first serve in pro tennis
 decelerates from 120mph to 60mph or less in two thirds of a second,
-losing most of it\'s speed after the bounce in the critical instant a
+losing most of it's speed after the bounce in the critical instant a
 player actually makes his return.
 
 Focus on the bounce and especially the path of the ball from the bounce
@@ -439,7 +434,7 @@ So one problem is dealing with the deceleration, but a second equally
 difficult challenge is timing the ball when the range of initial speeds
 varies so much. they must deal with a very wide range of initial shot
 speeds. The ball may be traveling 120mph when it leaves the racket on
-the serve. But it\'s initial speed is only one third as high on a
+the serve. But it's initial speed is only one third as high on a
 volley, around 40 mph. So the rhythm and timing of hitting a passing
 shot off a volley is radically different from that of a return.
 
@@ -470,29 +465,28 @@ slows down even more. Focus on watching the ball at the bounce\--and
 especially, as it approaches the top of the bounce just before the hit.
 The results can be miraculous.
 
-Here\'s one personal example of how it can work. After we first
+Here's one personal example of how it can work. After we first
 developed our results, I shared them with a fellow teaching pro and
 practice partner. Then we experimented with his return. He decided to
 key on watching the bounce on the court and the trajectory of the ball
 between the bounce and the hit. I served points in a game to 11.
 Although he usually returns well anyway, the first time he tried this
-key, it was amazing. He literally couldn\'t miss. Usually I can get at
+key, it was amazing. He literally couldn't miss. Usually I can get at
 least some free points against him with my serve\--but this time none at
 all. He began ripping return winners on both first and second serves. It
-felt like I couldn\'t win a point on my own serve. \"I had chills going
+felt like I couldn't win a point on my own serve. \"I had chills going
 up and down my spine,\" he reported. \"I had total confidence I could
 make the return, but it went beyond that because I also felt I could do
 anything I wanted with the ball.\"
 
 Try it for yourself, and let us know what you think. In the next
-article, we\'ll share our results from a similar study we did regarding
+article, we'll share our results from a similar study we did regarding
 the spin levels in pro tennis\--something else that had never been
 previously studied.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_ball-speed-in-pro-tennis/media/image6.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_ball-speed-in-pro-tennis/media/image6.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

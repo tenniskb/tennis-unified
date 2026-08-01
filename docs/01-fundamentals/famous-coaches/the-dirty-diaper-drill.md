@@ -16,24 +16,23 @@ from such a high level playing background.
 This second article details a powerful drill to help develop a kick
 serve with more topsoin.
 
-We\'re excited to have back Jeff as a Tennisplayer contributor!
+We're excited to have back Jeff as a Tennisplayer contributor!
 
 ![](media_the-dirty-diaper-drill/media/image1.wmf)
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                           | Jeff Salzenstein is the founder of Tennis        |
-| confidence](media_the-dirty-diaper-drill/media/image2.jpeg){width="1.7708333333333333in" | Evolution which offers a complete learning and   |
-| height="2.0in"}                                                                                                                                                             | training program on the web for players of all   |
-|                                                                                                                                                                             | levels. Jeff was an elite American junior player |
-|                                                                                                                                                                             | who went on to become a two time All American at |
-|                                                                                                                                                                             | Stanford. Over the course of his pro career he   |
-|                                                                                                                                                                             | won 5 Challenger titles, played in the main draw |
-|                                                                                                                                                                             | at all four Grand Slams, and was ranked in the   |
-|                                                                                                                                                                             | top 100 on the ATP Tour. He has career wins over |
-|                                                                                                                                                                             | players including Fernando Verdasco, Mikhael     |
-|                                                                                                                                                                             | Tillstrom, Jiri Novak, and Greg Rusedski.        |
-|                                                                                                                                                                             |                                                  |
-|                                                                                                                                                                             | To Visit Jeff at Tennis Evolution and Learn More |
-|                                                                                                                                                                             | About His Coaching and Training, [Click          |
-|                                                                                                                                                                             | Here!](http://www.tennisevolution.com)           |
-+=============================================================================================================================================================================+==================================================+
+| ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
+| --- | --- |
+| confidence](media_the-dirty-diaper-drill/media/image2.jpeg) | training program on the web for players of all |
+|  | levels. Jeff was an elite American junior player |
+|  | who went on to become a two time All American at |
+|  | Stanford. Over the course of his pro career he |
+|  | won 5 Challenger titles, played in the main draw |
+|  | at all four Grand Slams, and was ranked in the |
+|  | top 100 on the ATP Tour. He has career wins over |
+|  | players including Fernando Verdasco, Mikhael |
+|  | Tillstrom, Jiri Novak, and Greg Rusedski. |
+|  |  |
+|  | To Visit Jeff at Tennis Evolution and Learn More |
+|  | About His Coaching and Training, [Click |
+|  | Here!](http://www.tennisevolution.com) |
+

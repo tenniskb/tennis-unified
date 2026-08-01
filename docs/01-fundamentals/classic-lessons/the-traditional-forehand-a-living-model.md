@@ -3,15 +3,14 @@
 ### Scott Murphy
 
 ![A person playing tennis Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image1.webp)
 
 **The forehand exemplifies the extreme elements in modern tennis.**
 
 When we study the modern pro game, we see players using an incredible
 range of advanced elements\--extreme grips, windshield wiper finishes,
 radical torso rotation, heavy spin, fully open stances, and contact a
-foot in the air or higher. And that\'s just the forehand.
+foot in the air or higher. And that's just the forehand.
 
 Many club players are convinced that these are the models they should
 follow---or simply find satisfaction in copying their heroes regardless
@@ -33,7 +32,7 @@ that produces amazing results.
 
 What I want to do in these articles is describe his strokes and their
 technical components, starting this month with the forehand. In upcoming
-articles we\'ll take a look at the rest of his game.
+articles we'll take a look at the rest of his game.
 
 Obviously everyone has the freedom to play as they wish. But the
 insights in this series---as unfashionable as some might find them\--may
@@ -41,8 +40,7 @@ give you inspiration and possibly a different path to tennis success.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-traditional-forehand-a-living-model/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-traditional-forehand-a-living-model/media/image2.webp)
 
 **A traditional forehand that can dominate at the club level?**
 
@@ -85,12 +83,11 @@ altogether. Then 10 years ago he found his way back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-traditional-forehand-a-living-model/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-traditional-forehand-a-living-model/media/image3.webp)
 
-**More on Karsten\'s \"time warp\" game in upcoming articles.**
+**More on Karsten's \"time warp\" game in upcoming articles.**
 
-Although he didn\'t realize it at the time, he was stepping back on to
+Although he didn't realize it at the time, he was stepping back on to
 the court from inside a time warp. Karsten had never \"modernized\" his
 game.
 
@@ -108,7 +105,7 @@ still be effective at the highest levels of club tennis. That was the
 basic insight that led to this article.
 
 Here was living proof of an alternative to current conventional wisdom
-that reopened some fundamental issues in my thinking. Here\'s the story
+that reopened some fundamental issues in my thinking. Here's the story
 of how that happened.
 
 **Paradise**
@@ -120,8 +117,7 @@ beautiful real estate on the planet.
 
 ![A couple of men holding tennis rackets Description automatically
 generated with medium
-confidence](media_the-traditional-forehand-a-living-model/media/image4.jpg){width="3.4722222222222223in"
-height="5.625in"}
+confidence](media_the-traditional-forehand-a-living-model/media/image4.jpg)
 
 **Karsten Popp and myself at the \"Paradise Court.\"**
 
@@ -135,16 +131,16 @@ kind of ball you hit him his reply is invariably incredibly solid and
 accurate.
 
 **[Hit him a low ball, a wide ball, a big kicking topspin, a shank, an
-inadvertent short ball. It doesn\'t matter.]{.mark}**
+inadvertent short ball. It doesn't matter.]{.mark}**
 
 They all come back like they were shot from a ball machine.
 
 **Staunchly Modern?**
 
 I realized that I had found the ideal practice partner, but as we played
-more and more, I began to study Karsten\'s game more closely.
+more and more, I began to study Karsten's game more closely.
 
-For many years, I\'ve been a staunch advocate of the modern game. I love
+For many years, I've been a staunch advocate of the modern game. I love
 the variety, the freedom, the athleticism, and the challenge it
 presents.
 
@@ -163,8 +159,7 @@ pursuing a career as a professional musician, drumming for various bands
 all over the country and the world.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image5.webp)
 
 **Unlike Karsten, when I came back to the game I went fully
 \"modern.\"**
@@ -196,12 +191,11 @@ was a modern player with a complete game, and surprised John with how
 natural it had all become when we talked about the transformation.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image6.webp)
 
 **Part of my transformation was adding a heavy kick serve.**
 
-In the 1980\'s and early 90\'s competed successfully in Northern
+In the 1980's and early 90's competed successfully in Northern
 California tournaments, in the Open, 5.0 and senior divisions and I
 still play USTA League tennis for the legendary Harbour Point Club in
 Mill Valley.
@@ -230,18 +224,17 @@ game.
 
 But this is one of the ways in which the game remains endlessly
 fascinating: the many ways in which it is possible to play amazing
-tennis. So let\'s do an overview of Karsten\'s classic game and then you
+tennis. So let's do an overview of Karsten's classic game and then you
 can see what you may find intriguing for yourself.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image7.webp)
 
 **An eastern grip, a unit turn and a moderate, compact backswing.**
 
 **Forehand**
 
-Karsten uses an eastern forehand grip and his forehands aren\'t hit with
+Karsten uses an eastern forehand grip and his forehands aren't hit with
 extreme topspin or---seemingly\--much margin for error. But this is one
 of the points that is often missed about flatter classical strokes.
 
@@ -267,8 +260,7 @@ ball---a footwork pattern that is typically associated only with the
 modern game.
 
 ![A person playing tennis Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image8.webp)
 
 **A square stance and long Sampras like finishes, with the racket on
 edge.**
@@ -280,7 +272,7 @@ Karsten shows you can have the natural flexibility to open the stance to
 varying degrees with an eastern grip, even if your preference is to step
 in.
 
-But there are other aspects that set Karsten\'s swing firmly in the
+But there are other aspects that set Karsten's swing firmly in the
 classical camp. The first is his finishes. His forward swing extends
 outward towards the target, and he uses relatively little additional arm
 or wrist motion.
@@ -294,14 +286,13 @@ Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_
 Notice also how the racket is basically staying on edge to court. There
 is little to no windshield wiper action in his basic drive.
 
-The second strongly classical characteristic in Karsten\'s forehand is
+The second strongly classical characteristic in Karsten's forehand is
 his contact point. This is in turn related to his preference to step in.
 He takes the ball early and keeps the contact in front of his front
 foot.
 
 ![A person playing tennis Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-traditional-forehand-a-living-model/media/image9.webp)
 
 **Early contact at a natural eastern height.**
 
@@ -323,7 +314,7 @@ difficult to find your rhythm if you are used to opponents who play far
 behind the baseline.
 
 **[[Karsten explained to me that one of the keys to his timing is that
-he envisions every forehand as if it\'s an approach
+he envisions every forehand as if it's an approach
 shot.]{.underline}]{.mark}** This makes sense because in his playing
 career he played serve and volley, and also looked for every opportunity
 to get to the net from the backcourt and on returns.
@@ -339,8 +330,7 @@ Agassi.]{.underline}]{.mark}**
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-traditional-forehand-a-living-model/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-traditional-forehand-a-living-model/media/image10.webp)
 
 **Karsten adapts his stance by opening on higher balls.**
 
@@ -369,13 +359,12 @@ My hope however is that what I have presented here may resonate with
 some players who have felt compelled to hit the \"modern\" forehand for
 no other reason than that it was modern.]{.mark}]{.underline}**
 
-In that way Karsten\'s traditional approach could be a real inspiration,
+In that way Karsten's traditional approach could be a real inspiration,
 and yes, a great technical model. Stay tuned next for his
 \"traditional\" one-handed backhand!
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-traditional-forehand-a-living-model/media/image11.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-traditional-forehand-a-living-model/media/image11.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -389,7 +378,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

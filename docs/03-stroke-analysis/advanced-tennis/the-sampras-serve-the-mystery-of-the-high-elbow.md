@@ -4,19 +4,18 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image1.webp)
 
-**Is there an explanation for Pete Sampras\'s high elbow bend? Yes.**
+**Is there an explanation for Pete Sampras's high elbow bend? Yes.**
 
 Last month we posted over a hundred high speed videos of the serve of
 the great Pete Sampras---maybe the greatest serve of all time. ([Click
 Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Pete_Sampras_HD_HS/).)
-Over the years on Tennisplayer we\'ve published more articles on his
+Over the years on Tennisplayer we've published more articles on his
 motion than any other stroke in tennis history, with the possible
-exception of Roger Federer\'s forehand.
+exception of Roger Federer's forehand.
 
-There was my initial 8 part series on Pete\'s serve, beginning with our
+There was my initial 8 part series on Pete's serve, beginning with our
 inaugural issue 13 years ago. ([Click
 Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/speed_and_spin/speed_and_spin.html).)
 Then the 3 part series I did with Brian Gordon based on the only
@@ -24,7 +23,7 @@ quantitative analysis ever of this incredible motion. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_serve_racket_head_speed/sampras_serve_racket_head_speed.html).)
 
 There is also the groundbreaking article I did on the amazing
-combination of speed and spin in Pete\'s serve, compared specifically to
+combination of speed and spin in Pete's serve, compared specifically to
 the speed/spin combinations of another great server, Greg Rusedski. Not
 to mention in the original Stroke Archive, a detailed portrait of over a
 hundred more stroke files. ([Click
@@ -34,8 +33,7 @@ Here](https://www.tennisplayer.net/members/strokearchive/pro_men/petesampras/pet
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image2.webp)
 
 **The elbow bend: a cause or an effect?**
 
@@ -63,8 +61,7 @@ Looking again at this high speed footage after many years, I think I
 understand the mystery now. There are two factors.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image3.webp)
 
 **The internal shoulder rotation drives the hand, arm and racket as a
 unit.**
@@ -82,15 +79,15 @@ incorrect. This rotation is actually driven by the rotation of the upper
 arm in the shoulder joint.
 
 The forearm, hand, and racket come along for the ride. They rotate as a
-unit. Technically it\'s called internal shoulder rotation.
+unit. Technically it's called internal shoulder rotation.
 
 Pronation, technically, is the independent rotation of the forearm at
-the elbow. That really isn\'t a factor, since everything, including the
+the elbow. That really isn't a factor, since everything, including the
 forearm, rotates together from the shoulder.
 
 This unitary rotation\--and specifically the timing of it---is one of
 the factors that explain why Pete bends the elbow earlier and more than
-anyone else we\'ve filmed. How is that?
+anyone else we've filmed. How is that?
 
 If we look at when Sampras completes this rotation, it is sooner and
 higher in the motion than the vast majority of top players. Typically,
@@ -99,8 +96,7 @@ head level.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image4.webp)
 
 **Most pro servers reach full rotation later and lower than Pete.**
 
@@ -114,25 +110,24 @@ is about the same.
 
 ### Speed with Spin
 
-What does that mean? Our speed/spin study of Pete\'s serve shows that he
+What does that mean? Our speed/spin study of Pete's serve shows that he
 was able to generate 125mph on his first serve with around 2500rpms of
-spin. That\'s more, up to twice more, as some servers serving at the
+spin. That's more, up to twice more, as some servers serving at the
 same speed.
 
-That\'s what made his serve so incredibly heavy. Furthermore his serve
+That's what made his serve so incredibly heavy. Furthermore his serve
 not only had heavy spin, it had a higher topspin component that caused
 his ball to bounce several inches higher than other players.
 
-Higher than a great server like Rusedski who matched Pete\'s overall
+Higher than a great server like Rusedski who matched Pete's overall
 spin, but had less topspin and more slice in his delivery. As Scoop
-Malinowski\'s article on Facing Sampras shows ([Click
+Malinowski's article on Facing Sampras shows ([Click
 Here](https://www.tennisplayer.net/members/notes_on_tour/scoop_malinowski/facing_sampras/))
 that serve weight---combined with his incredible accuracy\-- made
 players feel that his serve was almost impossible to return.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image5.webp)
 
 **Watch the natural relaxation and bend of the elbow just after full
 rotation.**
@@ -144,10 +139,10 @@ followthrough progresses, gravity and the weight of the racket cause the
 elbow to bend as the hand falls.
 
 The bend begins after the completion of the hand, arm, and racket
-rotation. It\'s natural and automatic. It isn\'t a conscious, mechanical
+rotation. It's natural and automatic. It isn't a conscious, mechanical
 movement.
 
-And certainly that is true for Pete. It\'s just that it starts earlier
+And certainly that is true for Pete. It's just that it starts earlier
 than most players. And the bend appears much more pronounced because the
 arm is so high.
 
@@ -164,14 +159,13 @@ topspin.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image6.webp)
 
 **Look at the difference in how far to the right the hand moves for
 Pete, compared to John Isner.**
 
 We can tell this by looking at the position of his arm at the completion
-of the rotation. It\'s visibly further to his right compared to other
+of the rotation. It's visibly further to his right compared to other
 servers. Look at the spacing in relationship to his torso. When the
 racket face has turned all the way over, his hand is probably a foot to
 the right.
@@ -189,7 +183,7 @@ sooner as his arm starts to come naturally back across the body.
 
 ### The Followthrough
 
-And this may explain another mystery. Pete\'s followthrough compared to
+And this may explain another mystery. Pete's followthrough compared to
 most great servers always ended more to his right side. If you look at
 his hand it comes down in the middle of his torso, or even at times
 actually on his right.
@@ -201,12 +195,11 @@ tennis history.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image7.webp)
 
-**Pete\'s followthrough---what does it mean?**
+**Pete's followthrough---what does it mean?**
 
-It\'s not that his followthrough is somehow truncated. It\'s the
+It's not that his followthrough is somehow truncated. It's the
 natural, relaxed deceleration pattern of his incredibly powerful upward,
 outward motion.
 
@@ -214,16 +207,16 @@ So what if anything does that mean for you as a player? The most basic
 point is that you should try to complete that internal shoulder
 rotation.
 
-That\'s something that many pro players don\'t do. And the reason they
-aren\'t maximizing racket head speed. But I\'ve proven on court that
-it\'s entirely possible with players at all levels. See for example the
-huge impact it made on an elite women\'s college player. ([Click
+That's something that many pro players don't do. And the reason they
+aren't maximizing racket head speed. But I've proven on court that
+it's entirely possible with players at all levels. See for example the
+huge impact it made on an elite women's college player. ([Click
 Here](https://www.tennisplayer.net/members/your_strokes/2017/ingrid_neel_serve/).)
 
 And yes, if you can naturally complete that rotation sooner, that will
 maximize its effect. And yes, if you want a higher topspin component you
-can try hitting more outward to the ball, more to your right. But don\'t
-force it. And don\'t try to mechanically bend that elbow too soon in
+can try hitting more outward to the ball, more to your right. But don't
+force it. And don't try to mechanically bend that elbow too soon in
 your swing.
 
 There is only one Pete Sampras. After 20 years, I am still learning from
@@ -236,8 +229,7 @@ here.](file:///C:\Users\moosh\OneDrive\Documents\tennisplayer.net\Stroke%20Analy
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image8.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-sampras-serve-the-mystery-of-the-high-elbow/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

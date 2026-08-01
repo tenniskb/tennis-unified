@@ -4,15 +4,14 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image1.webp)
 
 **The slice backhand: fastest spinning pro groundstroke?**
 
-It\'s become an accepted truth in tennis: the heavily spun forehand has
+It's become an accepted truth in tennis: the heavily spun forehand has
 permanently changed the modern professional game.
 
-True enough. But what isn\'t talked about is another equally profound
+True enough. But what isn't talked about is another equally profound
 change. This is the corresponding increase in the spin rates in the
 modern slice backhands. **[The slice backhand is actually the fastest
 spinning groundstroke in the modern game.]{.mark}**
@@ -30,7 +29,7 @@ still attacked the net on a regular basis.
 
 Today, few players approach off the ground, much less off the return.
 And it appears there are good reasons for this due to the weight and
-speed of today\'s topspin passing shots. Today the slice is used
+speed of today's topspin passing shots. Today the slice is used
 primarily from the baseline as a defensive shot, or to change the pace
 or rhythm, or sometimes the angles and/or contact heights in baseline
 exchanges.
@@ -42,8 +41,7 @@ players?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image2.webp)
 
 **Is there some fundamental limitation to the pro slice in the modern
 game?**
@@ -54,7 +52,7 @@ from happening?
 
 **Spin**
 
-Before attempting to even address these questions let\'s try to
+Before attempting to even address these questions let's try to
 understand the changes in the nature of the pro slice, starting in this
 article with the actual spin levels.
 
@@ -76,8 +74,7 @@ Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/s
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image3.webp)
 
 **The modern slice, spinning faster than the modern forehand.**
 
@@ -96,34 +93,28 @@ Djokovic. The fact is that the levels of spin hit by these three top
 players on their one-handed slices actually exceeds the levels of
 topspin produced on their forehands - even for Nadal.
 
-That\'s correct. The average modern slice or underspin groundstroke
+That's correct. The average modern slice or underspin groundstroke
 actually has more total revolutions than the modern topspin forehand.
 
-+--------------------------------------------------------------------------------------+
-| Modern Pro Underspin                                                                 |
-+:========================:+:=================:+:=================:+:=================:+
-| **Player**               | **Incidents**     | **Range**         | **Average**       |
-+--------------------------+-------------------+-------------------+-------------------+
-| Roger Federer            | 32                | 2100-5300rpm      | 3700rpm           |
-+--------------------------+-------------------+-------------------+-------------------+
-| Rafael Nadal             | 22                | 2500-4300rpm      | 3700rpm           |
-+--------------------------+-------------------+-------------------+-------------------+
-| Novak Djokovic           | 12                | 2100-3500rpm      | 2800rpm           |
-+--------------------------+-------------------+-------------------+-------------------+
-| Total                    | 66                | 2100-5300rpm      | 3500rpm           |
-+--------------------------+-------------------+-------------------+-------------------+
+| Modern Pro Underspin |  |  |  |
+| --- | --- | --- | --- |
+| **Player** | **Incidents** | **Range** | **Average** |
+| Roger Federer | 32 | 2100-5300rpm | 3700rpm |
+| Rafael Nadal | 22 | 2500-4300rpm | 3700rpm |
+| Novak Djokovic | 12 | 2100-3500rpm | 2800rpm |
+| Total | 66 | 2100-5300rpm | 3500rpm |
+
 
 Using the footage in our incredible new High Speed Archive, I looked at
 over 65 slice backhands hit by the top three players in the world,
 Novak, Rafa and Roger.
 
 The average was a mind blowing 3500rpm of total spin. As with the
-topspin data, it\'s important to note that this figure cannot be
+topspin data, it's important to note that this figure cannot be
 considered pure underspin and is a mix of underspin with some sidespin.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-spin-levels/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-spin-levels/media/image4.webp)
 
 **Djokovic: lower spin levels, tactical and/or technical differences?**
 
@@ -140,41 +131,40 @@ backhands are stunning.
 Rafael Nadal averaged 3700rpm on his slice backhand. This was about 15%
 more spin than on his topspin forehand.
 
-Federer\'s also averaged 3700rpm. In Roger\'s case, this was 35% more
+Federer's also averaged 3700rpm. In Roger's case, this was 35% more
 total spin than on his forehand.
 
-What was even scarier about Federer\'s numbers was the upper end of his
+What was even scarier about Federer's numbers was the upper end of his
 spin range. He hit multiple slices that reached well above 4000rpm,
 including one that measured an amazing 5300rpm.
 
 Comtemplate that for a minute. That is as many total revolutions as any
-shot we\'ve measured over the last 15 years. It\'s the equivalent of the
+shot we've measured over the last 15 years. It's the equivalent of the
 heaviest spinning second serves hit by Pete Sampras. ([Click
 Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
 And this was a slice groundstroke.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image5.webp)
 
 **The pro slice: equivalent spin to a Sampras second serve.**
 
-But there is a caveat when we get to Djokovic. Interestingly Djokovic\'s
+But there is a caveat when we get to Djokovic. Interestingly Djokovic's
 average was significantly less than Federer and Nadal. Novak uses the
 slice less than the other two players, so we have fewer incidents. But
-he averaged 2800rpm of total spin on his slice backhands. That\'s about
+he averaged 2800rpm of total spin on his slice backhands. That's about
 25% less than Federer or Nadal.
 
 Why? There are some interesting tactical and technical differences that
-may help to explain this, something we\'ll explore in future articles.
+may help to explain this, something we'll explore in future articles.
 And maybe there are wider implications as well.
 
 **Perspective**
 
-But to put things in greater perspective let\'s compare these modern
+But to put things in greater perspective let's compare these modern
 slice figures to our original spin data on the slice backhand from the
-1997 Open. Let\'s see how the spin levels on the slice backhand have
+1997 Open. Let's see how the spin levels on the slice backhand have
 evolved, and also, make a little broader comparison between the changes
 in underspin and topspin.
 
@@ -183,16 +173,13 @@ including players such as Pete Sampras and Petr Korda who used the slice
 regularly in tactical play. The average rpms on these slice backhands
 from 1997 was 2400rpm.
 
-+------------------------------------------------------------------------------------+
-| Historical Underspin Comparison                                                    |
-+:================:+:================:+:================:+:=========================:+
-| **Year**         | **Number of      | **Range**        | **Average**               |
-|                  | Incidents**      |                  |                           |
-+------------------+------------------+------------------+---------------------------+
-| 1997             | 30               | 1500-3500rpm     | 2400rpm                   |
-+------------------+------------------+------------------+---------------------------+
-| 2010             | 66               | 2100-5300rpm     | 3500rpm                   |
-+------------------+------------------+------------------+---------------------------+
+| Historical Underspin Comparison |  |  |  |
+| --- | --- | --- | --- |
+| **Year** | **Number of | **Range** | **Average** |
+|  | Incidents** |  |  |
+| 1997 | 30 | 1500-3500rpm | 2400rpm |
+| 2010 | 66 | 2100-5300rpm | 3500rpm |
+
 
 This compares with 3500rpm from our current study. So just like the
 increases in spin on the forehands, the levels of spin on the slice
@@ -204,8 +191,7 @@ spin than in the forehand data.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image6.webp)
 
 **In 1997 players including Petr Korda averaged 2400rpms on the slice.**
 
@@ -223,11 +209,11 @@ backhand, which, again was 45%.
 
 The simple fact is that the underspin backhand is on average the fastest
 spinning ground shot in the pro game, spinning faster on average than
-Nadal\'s forehand. And in the last 15 years, the levels of spin on that
+Nadal's forehand. And in the last 15 years, the levels of spin on that
 shot have increased more than on any shot in the game.
 
 Again to compare with the forehand, at 3500rpm on average, the underspin
-slice of the top three players actually spins faster than Nadal\'s
+slice of the top three players actually spins faster than Nadal's
 3200rpm forehand average.
 
 So is that a good thing? Is it a necessary thing? And how do the players
@@ -236,16 +222,14 @@ among coaches revolves around these technical changes and how they may
 relate to the uses and tactical effectiveness of the slice.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-pro-slice-spin-levels/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-the-pro-slice-spin-levels/media/image7.webp)
 
 **So what are the elements in and the meaning of modern slice
 technique?**
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-pro-slice-spin-levels/media/image8.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-pro-slice-spin-levels/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

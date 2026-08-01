@@ -3,12 +3,12 @@
 # John Yandell 
 
 What should you watch for when you study the great one-handers play? In
-past Osmosis articles we\'ve looked at the forehand [(Click
+past Osmosis articles we've looked at the forehand [(Click
 Here)](John%20Yandell-The%20Osmosis%20Forehand%20.docx) and the
 two-handed backhand [(Click
 Here)](John%20Yandell-The%20Osmosis%20Clinic-Backhand.docx).
 
-Now let\'s look at the one-handed backhand, including the similarities
+Now let's look at the one-handed backhand, including the similarities
 and differences in the classic and extreme styles. Check it out in one
 of our new audio/video segments below!
 
@@ -20,8 +20,7 @@ of our new audio/video segments below!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-osmosis-clinic-one-handed-backhand/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-osmosis-clinic-one-handed-backhand/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

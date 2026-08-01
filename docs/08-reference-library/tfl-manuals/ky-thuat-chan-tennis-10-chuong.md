@@ -18,9 +18,9 @@ và huấn luyện viên đẳng cấp thế giới đều biết một sự th�
 hơn: mọi cú đánh đẳng cấp đều bắt đầu từ dưới --- từ bàn chân, từ cổ
 chân, từ đầu gối và từ hông.
 
-Rafael Nadal đã từng nói: \'Đôi chân là nền tảng của mọi thứ trong
+Rafael Nadal đã từng nói: 'Đôi chân là nền tảng của mọi thứ trong
 tennis. Nếu đôi chân của bạn không đúng vị trí, không có cú đánh nào có
-thể thực sự mạnh mẽ hay chính xác.\' Roger Federer nổi tiếng với sự
+thể thực sự mạnh mẽ hay chính xác.' Roger Federer nổi tiếng với sự
 thanh thoát trong từng bước di chuyển --- đó không phải là năng khiếu
 bẩm sinh mà là kết quả của hàng nghìn giờ tập luyện kỹ thuật chân có chủ
 đích.
@@ -50,7 +50,7 @@ biết cách tập luyện để đôi chân đó trở thành vũ khí mạnh n
 
 **1.1. Tại Sao Phải Hiểu Giải Phẫu Trước Khi Tập?**
 
-Nhiều người học tennis theo kiểu \'nhìn và bắt chước\'. Họ xem video của
+Nhiều người học tennis theo kiểu 'nhìn và bắt chước'. Họ xem video của
 Federer, cố gắng bắt chước từng cử chỉ, rồi thất vọng vì không hiểu tại
 sao mình không thể tái hiện được vẻ đẹp trong chuyển động của anh ấy. Lý
 do đơn giản: họ không hiểu cơ thể của mình đang hoạt động như thế nào.
@@ -88,13 +88,13 @@ dây chằng phức tạp, trong đó quan trọng nhất là:
   nghiêm trọng.
 
 - Khớp chày-mác (tibiofibular joint): liên kết xương chày và xương mác,
-  tạo thành \'ổ\' cho xương sên. Nếu khớp này bị lỏng lẻo, cổ chân sẽ
+  tạo thành 'ổ' cho xương sên. Nếu khớp này bị lỏng lẻo, cổ chân sẽ
   mất ổn định.
 
 **1.2.2. Dorsiflexion -- Góc Kỹ Thuật Quan Trọng Nhất**
 
 Trong phân tích kỹ thuật tennis, một chỉ số được nhắc đến thường xuyên
-là \'dorsiflexion\' --- đây là khả năng gập cổ chân về phía trước (gập
+là 'dorsiflexion' --- đây là khả năng gập cổ chân về phía trước (gập
 mu bàn chân lên). Trong video phân tích của VĐV nữ tại Australian Open,
 dorsiflexion của cô đạt khoảng 38°, cho phép gối tiến tới mà gót vẫn
 chạm đất.
@@ -105,19 +105,19 @@ phía trước mà không nhấc gót. Nếu cổ chân cứng (dorsiflexion \< 
 bạn sẽ phải bù bằng cách nhấc gót, điều này dồn toàn bộ lực lên mũi chân
 và tăng nguy cơ chấn thương.
 
-+-----------------------------------------------------------------------+
-| **⚡ Bài Test Dorsiflexion Tại Nhà**                                  |
-|                                                                       |
-| Đứng cách tường 10cm, đặt ngón cái chạm tường.                        |
-|                                                                       |
-| Cố gắng chạm đầu gối vào tường mà gót không nhấc khỏi đất.            |
-|                                                                       |
-| Nếu làm được: dorsiflexion \>=30° (đạt chuẩn tối thiểu).              |
-|                                                                       |
-| Nếu không được: cần tập giãn cổ chân trước khi tập lunge sâu.         |
-|                                                                       |
-| Mục tiêu cho tennis: 35-40°.                                          |
-+-----------------------------------------------------------------------+
+| **⚡ Bài Test Dorsiflexion Tại Nhà** |
+| --- |
+|  |
+| Đứng cách tường 10cm, đặt ngón cái chạm tường. |
+|  |
+| Cố gắng chạm đầu gối vào tường mà gót không nhấc khỏi đất. |
+|  |
+| Nếu làm được: dorsiflexion \>=30° (đạt chuẩn tối thiểu). |
+|  |
+| Nếu không được: cần tập giãn cổ chân trước khi tập lunge sâu. |
+|  |
+| Mục tiêu cho tennis: 35-40°. |
+
 
 **1.2.3. Cơ Bắp Chày Trước -- Tibialis Anterior**
 
@@ -126,7 +126,7 @@ Cơ chày trước (tibialis anterior) là cơ chính thực hiện dorsiflexion
 chân lên. Trong tennis, cơ này làm việc liên tục: mỗi khi bạn bước chân
 lên, cơ chày trước co để nâng bàn chân, tránh vấp.
 
-Khi cơ chày trước yếu, bạn sẽ có xu hướng \'đập\' cả bàn chân xuống sân
+Khi cơ chày trước yếu, bạn sẽ có xu hướng 'đập' cả bàn chân xuống sân
 thay vì đặt nhẹ nhàng từ gót --- điều này tạo ra rung chấn lớn và tăng
 nguy cơ viêm gân và stress fracture (gãy xương do áp lực tích lũy).
 
@@ -153,7 +153,7 @@ vững bởi:
 - Dây chằng chéo trước (ACL -- Anterior Cruciate Ligament): ngăn xương
   chày trượt ra phía trước. Đây là dây chằng hay bị đứt nhất trong các
   môn thể thao sân bãi. Trong phân tích kỹ thuật, người ta thường nhắc
-  đến việc \'bảo vệ ACL\' khi đề cập đến kiểm soát valgus.
+  đến việc 'bảo vệ ACL' khi đề cập đến kiểm soát valgus.
 
 - Dây chằng chéo sau (PCL -- Posterior Cruciate Ligament): ngăn xương
   chày trượt ra phía sau. Ít bị tổn thương hơn ACL.
@@ -164,7 +164,7 @@ vững bởi:
   bị rách.
 
 - Cơ tứ đầu (Quadriceps): nhóm cơ lớn nhất ở mặt trước đùi, có chức năng
-  duỗi gối. Đây là nhóm cơ \'bảo vệ\' gối quan trọng nhất --- cơ tứ đầu
+  duỗi gối. Đây là nhóm cơ 'bảo vệ' gối quan trọng nhất --- cơ tứ đầu
   khỏe đồng nghĩa với gối được bảo vệ tốt hơn.
 
 - Cơ đùi sau (Hamstrings): nhóm cơ ở mặt sau đùi, chức năng gập gối. Sự
@@ -173,15 +173,15 @@ vững bởi:
 
 **1.3.2. Valgus Gối -- Kẻ Thù Số Một Của Gối Khỏe**
 
-\'Valgus\' là thuật ngữ chỉ tình trạng đầu gối đổ vào trong (còn gọi là
-\'gối bờm\' hay \'knock-knee\'). Đây là lỗi kỹ thuật nguy hiểm nhất
+'Valgus' là thuật ngữ chỉ tình trạng đầu gối đổ vào trong (còn gọi là
+'gối bờm' hay 'knock-knee'). Đây là lỗi kỹ thuật nguy hiểm nhất
 trong tennis và cũng là điểm được nhấn mạnh nhất khi phân tích kỹ thuật
 của VĐV đỉnh cao.
 
 Tại Australian Open, khi phân tích cú lunge sâu của VĐV nữ, nhà phân
-tích đặc biệt lưu ý: \'Gối trước (trái) gập \~95--105°, gần như vuông
+tích đặc biệt lưu ý: 'Gối trước (trái) gập \~95--105°, gần như vuông
 góc. Ống quyển vẫn thẳng trục với bàn chân, không sụp vào trong --- kiểm
-soát valgus rất tốt dù tải trọng rất lớn.\'
+soát valgus rất tốt dù tải trọng rất lớn.'
 
 Tại sao valgus nguy hiểm? Khi gối đổ vào trong, áp lực lên ACL tăng đột
 ngột. Nghiên cứu cơ sinh học cho thấy: nếu gối trước vượt quá mũi chân
@@ -198,7 +198,7 @@ thường.
 **1.3.3. Trục Cơ Học Lý Tưởng: Hông -- Gối -- Mắt Cá**
 
 Trong tất cả các phân tích kỹ thuật của VĐV đỉnh cao, một cụm từ được
-lặp đi lặp lại: \'đường nối hông-gối-mắt cá vẫn thẳng\'. Đây chính là
+lặp đi lặp lại: 'đường nối hông-gối-mắt cá vẫn thẳng'. Đây chính là
 trục cơ học lý tưởng.
 
 Khi bạn nhìn VĐV từ phía trước trong lúc họ thực hiện lunge, ba điểm:
@@ -238,20 +238,20 @@ hông; cơ mông nhỡ ổn định xương chậu và ngăn gối đổ vào tr
 **1.4.1. Vai Trò của Cơ Mông Nhỡ**
 
 Khi phân tích kỹ thuật chân của VĐV đỉnh cao, người ta thường nhắc đến
-cơ mông nhỡ (gluteus medius) như một \'người bảo vệ vô hình\' của gối.
+cơ mông nhỡ (gluteus medius) như một 'người bảo vệ vô hình' của gối.
 Cơ này nằm ở mặt bên hông, có chức năng dạng hông (đưa chân ra ngoài) và
 quan trọng hơn --- ngăn xương chậu đổ về phía chân nâng lên.
 
-Trong phân tích cú lunge của VĐV nữ: \'Sức mạnh cần có: tứ đầu và mông
+Trong phân tích cú lunge của VĐV nữ: 'Sức mạnh cần có: tứ đầu và mông
 trái khỏe để chịu tải \>1,5 lần trọng lượng cơ thể ở góc gập sâu; cơ
-mông nhỡ phải để ổn định xương chậu khi chân sau lơ lửng.\' Khi cơ mông
+mông nhỡ phải để ổn định xương chậu khi chân sau lơ lửng.' Khi cơ mông
 nhỡ yếu, xương chậu nghiêng xuống phía chân không trụ, kéo đùi vào trong
 và tạo ra valgus gối --- một chuỗi phản ứng nguy hiểm.
 
 Phụ nữ có nguy cơ valgus cao hơn nam giới vì góc Q-angle (góc giữa cơ tứ
 đầu và xương bánh chè) lớn hơn do hông rộng hơn. Đây là lý do tại sao
-trong phân tích kỹ thuật, VĐV nữ \'phải giữ thân trên thẳng hơn, dùng
-core để bù cho lực đẩy hông yếu hơn.\'
+trong phân tích kỹ thuật, VĐV nữ 'phải giữ thân trên thẳng hơn, dùng
+core để bù cho lực đẩy hông yếu hơn.'
 
 **1.4.2. Tầm Quan Trọng của Hip Mobility**
 
@@ -260,15 +260,15 @@ các bước chân phức tạp trong tennis. Người có hông cứng sẽ kh�
 open stance rộng, không thể xoay hông đủ cho cú forehand, và phải bù
 bằng cách xoay lưng --- dẫn đến đau lưng và kỹ thuật kém.
 
-Trong chương về forehand, chúng ta thấy rõ điều này: \'Điểm hay: cô giữ
+Trong chương về forehand, chúng ta thấy rõ điều này: 'Điểm hay: cô giữ
 mũi chân trái hơi chếch ra ngoài 15°, giúp khớp gối mở tự nhiên khi xoay
-hông, giảm xoắn lên sụn chêm trong.\' Đây là một điều chỉnh nhỏ nhưng
+hông, giảm xoắn lên sụn chêm trong.' Đây là một điều chỉnh nhỏ nhưng
 thông minh --- xoay mũi chân ra ngoài 15° giải phóng hông và giảm xoắn
 lên gối.
 
 **1.5. Chuỗi Động Học -- Kinetic Chain**
 
-Khái niệm \'chuỗi động học\' (kinetic chain) là cách chúng ta mô tả cách
+Khái niệm 'chuỗi động học' (kinetic chain) là cách chúng ta mô tả cách
 lực truyền qua cơ thể. Trong tennis, cú đánh hiệu quả không đến từ một
 nhóm cơ đơn lẻ --- nó đến từ sự phối hợp của toàn bộ cơ thể theo một
 chuỗi có thứ tự.
@@ -278,10 +278,10 @@ chân truyền lực lên → Gối duỗi ra → Hông xoay → Thân trên xoa
 tới → Khuỷu tay → Cổ tay → Đầu vợt tiếp xúc bóng.
 
 Nếu bất kỳ mắt xích nào trong chuỗi này bị đứt --- ví dụ như cổ chân
-cứng không truyền lực lên được, hoặc gối yếu phải \'giữ\' thay vì
-\'truyền\' --- toàn bộ cú đánh sẽ mất lực và mất kiểm soát. Đây là lý do
+cứng không truyền lực lên được, hoặc gối yếu phải 'giữ' thay vì
+'truyền' --- toàn bộ cú đánh sẽ mất lực và mất kiểm soát. Đây là lý do
 tại sao trong video phân tích simple forehand, huấn luyện viên nhấn mạnh
-\'bắt đầu từ chân ngoài xoay trước, không phải từ tay.\'
+'bắt đầu từ chân ngoài xoay trước, không phải từ tay.'
 
   ----------------------------------- -----------------------------------
              **Mắt Xích**               **Vai Trò Trong Kinetic Chain**
@@ -295,7 +295,7 @@ tại sao trong video phân tích simple forehand, huấn luyện viên nhấn m
 
                  Hông                  Xoay tạo moment lực cho thân trên
 
-                 Core                 Ổn định, ngăn \'rò rỉ\' năng lượng
+                 Core                 Ổn định, ngăn 'rò rỉ' năng lượng
 
                   Vai                   Truyền lực từ thân vào cánh tay
 
@@ -317,7 +317,7 @@ tập luyện.
 **Test 2: Single-Leg Squat**
 
 Đứng một chân, squat xuống 45°. Nhìn từ phía trước: gối có đổ vào trong
-không? Kết quả: Có / Không. Nếu \'Có\' → cơ mông nhỡ yếu, cần ưu tiên
+không? Kết quả: Có / Không. Nếu 'Có' → cơ mông nhỡ yếu, cần ưu tiên
 củng cố trước.
 
 **Test 3: Lateral Lunge**
@@ -360,15 +360,15 @@ Chương 1 đã thiết lập nền tảng khoa học cho toàn bộ cuốn sác
 
 **2.1. Định Nghĩa và Tầm Quan Trọng**
 
-\'Ready position\' hay tư thế chuẩn bị là trạng thái cơ thể giữa các
+'Ready position' hay tư thế chuẩn bị là trạng thái cơ thể giữa các
 điểm trong trận đấu --- sau mỗi cú đánh và trước khi đối thủ đánh trả.
 Đây là tư thế bạn trở về sau mỗi cú đánh và cũng là điểm khởi đầu cho
 mọi di chuyển tiếp theo.
 
 Người chơi phong trào thường coi tư thế chuẩn bị là thứ yếu --- họ chỉ
 đứng thoải mái và chờ bóng. Nhưng phân tích từng frame của các tay vợt
-hàng đầu cho thấy: họ không bao giờ \'đứng chờ\'. Họ luôn trong trạng
-thái \'coiled tension\' --- căng thẳng như lò xo nén, sẵn sàng bật ra
+hàng đầu cho thấy: họ không bao giờ 'đứng chờ'. Họ luôn trong trạng
+thái 'coiled tension' --- căng thẳng như lò xo nén, sẵn sàng bật ra
 bất kỳ hướng nào trong vài phần mười giây.
 
 Carlos Alcaraz, sau khi về giữa sân, không bao giờ đứng thẳng chờ. Anh
@@ -385,7 +385,7 @@ giữa hai chân bằng hoặc hơi rộng hơn bề ngang vai (khoảng 60-70cm
 người cao 1m75). Trọng lượng phân tán đều ở phần giữa và mũi chân, gót
 không nhấc lên nhưng cũng không chịu nhiều trọng lượng.
 
-Lý do mở mũi chân ra ngoài 10-15°: tư thế này cho phép khớp hông \'mở\'
+Lý do mở mũi chân ra ngoài 10-15°: tư thế này cho phép khớp hông 'mở'
 tự nhiên, giúp bạn bật sang trái hoặc phải mà không cần xoay hông trước.
 Đây chính là cơ sở cho crossover step và split-step hiệu quả.
 
@@ -393,19 +393,19 @@ tự nhiên, giúp bạn bật sang trái hoặc phải mà không cần xoay h�
 
 Gối gập nhẹ khoảng 20-30° trong ready position chuẩn. Trong tư thế chuẩn
 bị tích cực hơn (active ready position, dùng khi bóng trả nhanh), gối có
-thể gập tới 30-40°. Đây là \'tư thế chuẩn bị\' trong phân tích cú lunge
-phòng thủ: \'Hai gối gập nhẹ khoảng 30-40°, hông hạ thấp, trọng tâm ở
-giữa bàn chân.\'
+thể gập tới 30-40°. Đây là 'tư thế chuẩn bị' trong phân tích cú lunge
+phòng thủ: 'Hai gối gập nhẹ khoảng 30-40°, hông hạ thấp, trọng tâm ở
+giữa bàn chân.'
 
 Gối không bao giờ được duỗi thẳng hoàn toàn (0°) trong ready position
 --- đây là lỗi phổ biến của người mới. Gối duỗi thẳng đồng nghĩa với cơ
-tứ đầu tắt, không có \'lò xo\', phản ứng chậm hơn đáng kể.
+tứ đầu tắt, không có 'lò xo', phản ứng chậm hơn đáng kể.
 
 **2.2.3. Vị Trí Hông và Trọng Tâm**
 
 Hông hạ thấp theo gối, lưng giữ thẳng tự nhiên (không khom, không ưỡn).
 Trọng tâm cơ thể ở khoảng 60% chiều cao --- thấp hơn so với đứng bình
-thường. Cảm giác như bạn đang \'ngồi\' trên một chiếc ghế vô hình ở
+thường. Cảm giác như bạn đang 'ngồi' trên một chiếc ghế vô hình ở
 chiều cao thắt lưng.
 
 Một mẹo hay từ huấn luyện viên: hãy tưởng tượng bạn đang giữ một quả
@@ -417,13 +417,13 @@ tưởng cho ready position.
 
 Vợt giữ ở trước ngực, tay không thuận hỗ trợ ở cổ vợt. Khuỷu tay hơi
 tách khỏi thân, không dán vào sườn. Tay không thuận có chức năng cực kỳ
-quan trọng: giữ thăng bằng, và --- quan trọng hơn --- làm \'lá cờ định
-hướng\' để vai xoay đủ trong take-back.
+quan trọng: giữ thăng bằng, và --- quan trọng hơn --- làm 'lá cờ định
+hướng' để vai xoay đủ trong take-back.
 
-Trong phân tích simple forehand: \'Tay không thuận làm đối trọng (ảnh
-0.0s, 7.9s) --- giữ thăng bằng, vai xoay đủ.\' Trong cú recovery của
-Alcaraz: \'Tay không đánh vẫn giữ vợt trước ngực --- giúp giữ thăng
-bằng, không vung tay lung tung.\'
+Trong phân tích simple forehand: 'Tay không thuận làm đối trọng (ảnh
+0.0s, 7.9s) --- giữ thăng bằng, vai xoay đủ.' Trong cú recovery của
+Alcaraz: 'Tay không đánh vẫn giữ vợt trước ngực --- giúp giữ thăng
+bằng, không vung tay lung tung.'
 
 **2.3. Các Biến Thể của Ready Position**
 
@@ -435,23 +435,23 @@ khác biệt. Gối gập sâu hơn (35-45°) vì bóng đến nhanh hơn và c�
 cân đều. Vị trí đứng điều chỉnh tùy theo tốc độ và kiểu giao bóng của
 đối thủ.
 
-Trong clip phân tích Federer trả giao bóng của Cilic: \'45.6s: Cilic vừa
+Trong clip phân tích Federer trả giao bóng của Cilic: '45.6s: Cilic vừa
 tung bóng, Federer vẫn chạm đất nhưng đầu gối đã hơi chùng --- anh đang
-load.\' Đây chính là ready position chuyên sâu cho nhận giao bóng: không
-hoàn toàn ở tư thế chuẩn bị tĩnh mà liên tục \'đọc\' bóng và điều chỉnh.
+load.' Đây chính là ready position chuyên sâu cho nhận giao bóng: không
+hoàn toàn ở tư thế chuẩn bị tĩnh mà liên tục 'đọc' bóng và điều chỉnh.
 
 **2.3.2. Ready Position Sau Cú Đánh**
 
 Sau mỗi cú đánh, người chơi phải về ready position nhanh nhất có thể.
-Nhưng đây không phải là \'đứng yên chờ\' --- đây là trạng thái tích cực,
+Nhưng đây không phải là 'đứng yên chờ' --- đây là trạng thái tích cực,
 sẵn sàng. Alcaraz trong clip recovery: sau khi về giữa sân bằng
 crossover step, anh ngay lập tức thực hiện split-step để về ready
 position động.
 
 Thời gian lý tưởng để về ready position sau cú đánh: dưới 1 giây với VĐV
-chuyên nghiệp. Trong phân tích video của người tập: \'Phục hồi nhanh ---
+chuyên nghiệp. Trong phân tích video của người tập: 'Phục hồi nhanh ---
 sau finish 0.9s bạn đã về tư thế ready ở 1.9s, nhanh hơn trung bình
-người chơi phong trào.\' Đây là một điểm cộng đáng ghi nhận.
+người chơi phong trào.' Đây là một điểm cộng đáng ghi nhận.
 
 **2.4. Split-Step -- Bước Nhún Trước Mọi Chuyển Động**
 
@@ -468,9 +468,9 @@ cơ thể phản ứng bằng cách co lại ngay lập tức (phản xạ kéo 
 này cho phép bạn bật sang bất kỳ hướng nào nhanh hơn 0,1-0,15 giây so
 với việc đứng yên rồi bắt đầu chạy.
 
-Như được mô tả trong phân tích: \'Anh ta tiếp đất ở 15.2s, gối gập, và
+Như được mô tả trong phân tích: 'Anh ta tiếp đất ở 15.2s, gối gập, và
 lập tức bật sang phải --- vì chân vừa chạm đất nên cơ bắp đang ở trạng
-thái đàn hồi, phản ứng nhanh hơn 0,15s so với người đã đứng sẵn.\'
+thái đàn hồi, phản ứng nhanh hơn 0,15s so với người đã đứng sẵn.'
 
 **2.4.2. Timing Là Tất Cả**
 
@@ -478,29 +478,29 @@ Sự khác biệt giữa split-step của người chuyên nghiệp và người
 không nằm ở độ cao hay cách nhún --- mà nằm ở TIMING. Nguyên tắc vàng:
 chân phải ở trên không đúng lúc đối thủ chạm vào bóng.
 
-Phân tích Ivanovic: \'Ở 10.1s (lúc contact), cả hai chân anh ta lơ lửng
-cách đất 3-5cm. Không phải anh ta nhảy cao, mà là timing.\' Phân tích
-Federer: \'55.7s: Đúng lúc Cilic chạm bóng, hai chân Federer ở trên
-không.\'
+Phân tích Ivanovic: 'Ở 10.1s (lúc contact), cả hai chân anh ta lơ lửng
+cách đất 3-5cm. Không phải anh ta nhảy cao, mà là timing.' Phân tích
+Federer: '55.7s: Đúng lúc Cilic chạm bóng, hai chân Federer ở trên
+không.'
 
-+-----------------------------------------------------------------------+
-| **⚡ 3 Lỗi Timing Split-Step Phổ Biến**                               |
-|                                                                       |
-| 1\. Nhún quá sớm: chân chạm đất trước khi đối thủ đánh → phải nhún    |
-| lại lần 2, mất nhịp.                                                  |
-|                                                                       |
+| **⚡ 3 Lỗi Timing Split-Step Phổ Biến** |
+| --- |
+|  |
+| 1\. Nhún quá sớm: chân chạm đất trước khi đối thủ đánh → phải nhún |
+| lại lần 2, mất nhịp. |
+|  |
 | 2\. Nhún quá muộn: vẫn còn trên không khi bóng đã qua lưới → tiếp đất |
-| muộn, bị ép.                                                          |
-|                                                                       |
-| 3\. Nhún quá cao: nhảy lên 20cm như bóng rổ → thời gian trên không    |
-| quá lâu, mất kiểm soát.                                               |
-+-----------------------------------------------------------------------+
+| muộn, bị ép. |
+|  |
+| 3\. Nhún quá cao: nhảy lên 20cm như bóng rổ → thời gian trên không |
+| quá lâu, mất kiểm soát. |
+
 
 **2.4.3. Cách Phát Triển Cảm Giác Timing**
 
 Bài tập đếm nhịp (từ tài liệu phân tích): Nhờ bạn feed bóng. Khi bạn
 thấy vợt đối thủ bắt đầu đi về phía trước (không phải lúc chạm bóng),
-nói thầm \'nhún\'. Tập đến khi chân bạn rời đất đúng lúc vợt họ đi qua
+nói thầm 'nhún'. Tập đến khi chân bạn rời đất đúng lúc vợt họ đi qua
 hông --- đây là thời điểm tiếp xúc bóng.
 
 Bài tập video: Quay từ sau lưng, xem lại xem chân bạn có ở trên không ở
@@ -552,7 +552,7 @@ giây.
 **2.8. Tóm Tắt Chương 2**
 
 6.  Ready position là tư thế tích cực, không phải đứng yên --- luôn duy
-    trì trạng thái \'lò xo nén\'.
+    trì trạng thái 'lò xo nén'.
 
 7.  Gối gập 20-40°, mũi chân hơi mở ra ngoài, trọng tâm thấp.
 
@@ -570,14 +570,14 @@ giây.
 
 **3.1. Lịch Sử và Sự Tiến Hóa**
 
-Trong thập kỷ 1980 và đầu 1990, tennis dạy chủ yếu theo kiểu \'close
-stance\' (hay square stance) --- bước chân trái chéo sang phải trước khi
+Trong thập kỷ 1980 và đầu 1990, tennis dạy chủ yếu theo kiểu 'close
+stance' (hay square stance) --- bước chân trái chéo sang phải trước khi
 đánh forehand (với người thuận tay phải). Đây là kỹ thuật bước chân ổn
 định, dễ học, và rất phù hợp với mặt sân cỏ Wimbledon khi bóng nảy thấp.
 
 Tuy nhiên, khi sân đất nện và sân cứng trở nên phổ biến hơn, bóng nảy
 cao hơn và nhanh hơn. Các tay vợt buộc phải điều chỉnh: thay vì luôn
-bước chân chéo, họ bắt đầu sử dụng \'open stance\' --- đứng rộng chân,
+bước chân chéo, họ bắt đầu sử dụng 'open stance' --- đứng rộng chân,
 hông song song với lưới, và xoay thân về phía trước để tạo lực.
 
 Ngày nay, cả hai stance đều được sử dụng, nhưng open stance chiếm ưu thế
@@ -634,8 +634,8 @@ ra chủ yếu bằng xoay hông --- từ xoay vào (coil) sang xoay ra (uncoil)
 từ trước ra sau, open stance tạo ra lực xoay tròn mạnh mẽ hơn, với tốc
 độ đầu vợt cao hơn và xoáy nhiều hơn.
 
-Trong phân tích cú lunge phòng thủ tại Australian Open: \'Khi bóng sang
-phải, cô mở open-stance rất rộng: khoảng cách 2 chân \~1,5 lần vai.\'
+Trong phân tích cú lunge phòng thủ tại Australian Open: 'Khi bóng sang
+phải, cô mở open-stance rất rộng: khoảng cách 2 chân \~1,5 lần vai.'
 Đây là đặc trưng của open stance trong tình huống phòng thủ --- mở rộng
 chân tối đa để ổn định và tạo lực xoay.
 
@@ -648,8 +648,8 @@ Phục hồi nhanh hơn: không cần bước chân chéo vào bóng, cơ thể 
 tốt hơn để bật về trung tâm sân ngay sau cú đánh. Đây là yếu tố quyết
 định trong rally dài.
 
-Tận dụng sức mạnh hông: xoay hông trong open stance tạo ra \'elastic
-energy\' --- năng lượng đàn hồi --- lớn hơn nhiều so với chuyển trọng
+Tận dụng sức mạnh hông: xoay hông trong open stance tạo ra 'elastic
+energy' --- năng lượng đàn hồi --- lớn hơn nhiều so với chuyển trọng
 lượng. Đây là lý do Nadal có thể đánh forehand mạnh đến vậy ngay cả khi
 đang lùi sâu sau baseline.
 
@@ -669,9 +669,9 @@ lượng) và lực xoay (từ hông), linh hoạt đổi hướng bóng sang c�
 cross-court và down-the-line, ổn định tốt hơn open stance thuần túy
 trong điều kiện bóng nhanh.
 
-Trong phân tích simple forehand: \'5 nguyên tắc vàng --- 1. Bắt đầu từ
+Trong phân tích simple forehand: '5 nguyên tắc vàng --- 1. Bắt đầu từ
 chân ngoài, không phải tay: anh ta xoay mũi chân phải ra ngoài trước.
-Điều này quay hông trước khi vợt di chuyển → tạo unit turn thật sự.\'
+Điều này quay hông trước khi vợt di chuyển → tạo unit turn thật sự.'
 Đây chính là bước chuyển từ ready position sang semi-open stance.
 
 **3.5. Phân Tích Kỹ Thuật Chân Theo Từng Loại Bóng**
@@ -694,21 +694,21 @@ bước chân.
 
 **3.5.3. Bóng Phòng Thủ Và Drop Lunge**
 
-Trong tình huống cứu bóng xa và thấp, VĐV chuyển sang \'drop lunge\' ---
+Trong tình huống cứu bóng xa và thấp, VĐV chuyển sang 'drop lunge' ---
 một biến thể cực đoan của open stance. Phân tích cú phòng thủ tại
-Australian Open: \'Để cứu bóng thấp và xa, cô chuyển từ open sang
+Australian Open: 'Để cứu bóng thấp và xa, cô chuyển từ open sang
 drop-lunge. Gối trước (trái): gập \~95-105°, gần như vuông góc. Gối sau
-(phải): gập \~90°, đầu gối gần chạm mặt sân nhưng KHÔNG đập xuống.\'
+(phải): gập \~90°, đầu gối gần chạm mặt sân nhưng KHÔNG đập xuống.'
 
 Drop lunge là kỹ thuật chỉ dùng trong tình huống cứu bóng --- không bao
-giờ dùng trong tấn công. Đây là \'kỹ thuật sống sót\' như được mô tả:
-\'Cú này dùng để sống sót, không phải để ghi điểm.\'
+giờ dùng trong tấn công. Đây là 'kỹ thuật sống sót' như được mô tả:
+'Cú này dùng để sống sót, không phải để ghi điểm.'
 
 **3.6. Bài Tập Chuyển Đổi Stance**
 
 **Bài Tập 1: Stance Awareness Drill**
 
-Cầm vợt đứng ở baseline. Người khác hô \'Open\', \'Semi\', \'Close\'
+Cầm vợt đứng ở baseline. Người khác hô 'Open', 'Semi', 'Close'
 ngẫu nhiên. Bạn phải đặt chân đúng theo stance được hô trong vòng 1
 giây. Tập 5 phút, 20 lần mỗi loại.
 
@@ -749,7 +749,7 @@ dùng stance nào? Có phù hợp với vị trí bóng không? Mục tiêu sau 
 
 **4.1. Định Nghĩa và Phân Loại Lunge**
 
-\'Lunge\' trong tennis là động tác vươn chân ra xa để đến bóng trong khi
+'Lunge' trong tennis là động tác vươn chân ra xa để đến bóng trong khi
 hạ thấp trọng tâm. Đây là một trong những kỹ thuật chân phức tạp nhất và
 cũng đòi hỏi nhiều sức mạnh nhất. Khi thực hiện đúng, lunge giúp bạn với
 được những quả bóng tưởng chừng không thể cứu. Khi thực hiện sai, nó là
@@ -767,16 +767,16 @@ lên) --- pha phục hồi sau drop lunge.
 
 Giai đoạn 1 -- Nhận Tín Hiệu và Load (0-0.1 giây): Ngay khi nhận ra bóng
 đến bên phải, cơ mông nhỡ chân trái bắt đầu co để ổn định hông. Đầu gối
-phải gập nhẹ để \'nạp\' năng lượng. Trọng tâm dịch sang phải nhẹ.
+phải gập nhẹ để 'nạp' năng lượng. Trọng tâm dịch sang phải nhẹ.
 
 Giai đoạn 2 -- Bước Chân Lunge (0.1-0.3 giây): Chân phải bước rộng sang
 phải, khoảng 1-1.5 lần bề vai. Mũi chân phải hướng ra ngoài 15-20° để mở
-hông. Đây là giai đoạn \'commitment\' --- bạn đã quyết định vị trí dừng.
+hông. Đây là giai đoạn 'commitment' --- bạn đã quyết định vị trí dừng.
 
 Giai đoạn 3 -- Hạ Trọng Tâm và Tải Lực (0.3-0.5 giây): Gối phải gập
 xuống theo lực hấp dẫn, nhưng được kiểm soát bởi cơ tứ đầu (eccentric
 contraction). Đây là giai đoạn nguy hiểm nhất về mặt chấn thương --- nếu
-cơ tứ đầu yếu, gối sẽ bị \'kẹt\' hoặc đổ vào trong.
+cơ tứ đầu yếu, gối sẽ bị 'kẹt' hoặc đổ vào trong.
 
 Giai đoạn 4 -- Tiếp Xúc Bóng và Đẩy Lên (0.5-0.8 giây): Sau khi đánh
 bóng, cơ tứ đầu và cơ mông co hướng tâm (concentric contraction) để đẩy
@@ -809,7 +809,7 @@ mũi quá nhiều. Đây là điểm cực kỳ quan trọng: gối vươn ra ph
 bình thường, nhưng cần giữ trong giới hạn an toàn.
 
 Gối phải (chân sau) duỗi nhẹ để đẩy hông, giữ thăng bằng ngang. Mũi chân
-trái hơi chếch ra ngoài 15°, giúp khớp gối \'mở\' tự nhiên khi xoay
+trái hơi chếch ra ngoài 15°, giúp khớp gối 'mở' tự nhiên khi xoay
 hông, giảm xoắn lên sụn chêm trong.
 
 **4.3.3. Tiếp Xúc Bóng -- Lunge Cực Sâu (Frame 4-5)**
@@ -819,18 +819,18 @@ trục với bàn chân, không sụp vào trong --- kiểm soát valgus rất t
 tải trọng rất lớn.
 
 Gối sau (phải): gập \~90°, đầu gối gần chạm mặt sân nhưng KHÔNG đập
-xuống. Cô chủ động hạ bằng cơ mông và cơ đùi sau, để gối \'lơ lửng\'
+xuống. Cô chủ động hạ bằng cơ mông và cơ đùi sau, để gối 'lơ lửng'
 cách sân 3-5cm. Kỹ thuật này tránh chấn thương xương bánh chè và bầm
 sụn.
 
 Hông mở, lưng thẳng, trọng tâm hạ thấp giúp lực phản hồi từ mặt sân đi
-qua gối → hông → thân trên, không \'kẹt\' ở khớp gối.
+qua gối → hông → thân trên, không 'kẹt' ở khớp gối.
 
 **4.3.4. Follow-Through và Phục Hồi (Frame 6-7)**
 
 Sau khi đánh, cô vẫn giữ lunge 1-2 giây, tay vợt vung cao qua đầu để cân
 bằng mô-men xoắn. Gối trước từ từ duỗi ra nhờ cơ tứ đầu làm việc lệch
-tâm (eccentric), không \'bật\' đột ngột --- bảo vệ sụn khớp. Gối sau
+tâm (eccentric), không 'bật' đột ngột --- bảo vệ sụn khớp. Gối sau
 trượt nhẹ ra sau, không xoay cẳng chân, tránh xoắn khớp gối.
 
 **4.4. So Sánh Lunge Nam -- Nữ: Djokovic vs VĐV Nữ**
@@ -850,7 +850,7 @@ Open 2013:
       Lưng gần vuông góc mặt sân       Nghiêng hơn, dùng core ít hơn do
                                                    vai rộng
 
-         Dùng core để bù hông         Dùng cơ mông lớn để \'phanh\' trượt
+         Dùng core để bù hông         Dùng cơ mông lớn để 'phanh' trượt
 
     Gối trước: vượt mũi chân 1-2cm    Gối trước: vượt mũi chân 5-7cm (vẫn
                                                    an toàn)
@@ -880,7 +880,7 @@ cố bắt chước lunge sâu:
   phục: tập single-leg squat có kiểm soát và mini-band drill trước.
 
 - Rủi ro 2: Nếu thả gối sau đập thẳng xuống sân cứng, dễ bầm xương bánh
-  chè, viêm bao hoạt dịch. Khắc phục: luôn \'treo\' gối sau cách sân
+  chè, viêm bao hoạt dịch. Khắc phục: luôn 'treo' gối sau cách sân
   3-5cm bằng cơ mông và đùi sau.
 
 **4.5.2. Điều Kiện Tiên Quyết Để Tập Lunge Sâu**
@@ -938,23 +938,23 @@ khăn (slide lunge): 3x8 --- mô phỏng pha cứu bóng của video.
 
 **Tuần 4: Tích Hợp Trên Sân**
 
-Khởi động: 2 set như tuần 3. Bài sân: 5 lần \'defensive lunge forehand\'
+Khởi động: 2 set như tuần 3. Bài sân: 5 lần 'defensive lunge forehand'
 --- đặt nón cách 2m bên phải, chạy ra, lunge chạm vợt xuống đất (không
 đánh bóng), giữ 2 giây, đứng lên bằng chân trước. Nghỉ 30 giây. Kết
 thúc: foam roll tứ đầu + IT band 3 phút.
 
-+-----------------------------------------------------------------------+
-| **⚡ Nguyên Tắc Vàng Khi Tập Lunge**                                  |
-|                                                                       |
-| Đau nhói trước gối = dừng ngay, giảm độ sâu 10°.                      |
-|                                                                       |
-| Luôn quay video từ trước mỗi tuần để so trục với hình chuẩn.          |
-|                                                                       |
-| Nữ nên ưu tiên core (plank side 45 giây) vì hông rộng hơn dễ làm gối  |
-| đổ vào.                                                               |
-|                                                                       |
-| Không tăng độ sâu quá 5° mỗi tuần.                                    |
-+-----------------------------------------------------------------------+
+| **⚡ Nguyên Tắc Vàng Khi Tập Lunge** |
+| --- |
+|  |
+| Đau nhói trước gối = dừng ngay, giảm độ sâu 10°. |
+|  |
+| Luôn quay video từ trước mỗi tuần để so trục với hình chuẩn. |
+|  |
+| Nữ nên ưu tiên core (plank side 45 giây) vì hông rộng hơn dễ làm gối |
+| đổ vào. |
+|  |
+| Không tăng độ sâu quá 5° mỗi tuần. |
+
 
 **4.8. Tóm Tắt Chương 4**
 
@@ -964,7 +964,7 @@ thúc: foam roll tứ đầu + IT band 3 phút.
 16. Kiểm soát valgus (gối không đổ vào trong) là ưu tiên số 1 khi tập
     lunge.
 
-17. Gối sau phải \'lơ lửng\' cách sân 3-5cm, không đập xuống để tránh
+17. Gối sau phải 'lơ lửng' cách sân 3-5cm, không đập xuống để tránh
     chấn thương xương bánh chè.
 
 18. Cần đạt đủ dorsiflexion và sức mạnh eccentric trước khi tập lunge
@@ -1008,7 +1008,7 @@ thể di chuyển 1.5-2 bề vai.
 Shuffle step phù hợp nhất khi: khoảng cách cần di chuyển ngắn (dưới
 1.5m); bóng đến từ từ và bạn có thời gian; trong vài bước cuối để điều
 chỉnh vị trí đánh bóng (fine-tuning); khi bạn gần đến vị trí và cần
-\'đặt chân\' chuẩn.
+'đặt chân' chuẩn.
 
 **5.3. Crossover Step -- Kỹ Thuật Hiện Đại**
 
@@ -1019,10 +1019,10 @@ chuyển) bước chéo qua phía trước chân kia. Ví dụ khi di chuyển s
 phải: chân trái bước chéo qua phía trước chân phải, chân phải bước tiếp
 sang phải, và lặp lại. Cơ thể hơi xoay về hướng di chuyển.
 
-Trong phân tích recovery của Alcaraz: \'Thay vì shuffle ngang chậm,
+Trong phân tích recovery của Alcaraz: 'Thay vì shuffle ngang chậm,
 Alcaraz đưa chân trái bắt chéo ra sau chân phải. Đây là bước lùi chéo.
 Lợi ích: một bước chéo ăn 1,5-2m, nhanh gấp đôi shuffle, mà hông vẫn
-mở.\'
+mở.'
 
 **5.3.2. Khi Nào Dùng Crossover Step**
 
@@ -1034,13 +1034,13 @@ di chuyển nhanh để đến kịp bóng; trong recovery về trung tâm sân 
 
 Đây là ví dụ kinh điển về ứng dụng crossover step trong recovery. Sau
 khi đánh forehand mở sân từ góc bên phải, Alcaraz không quay lưng chạy
-về giữa --- anh thực hiện \'lùi bước\' (crossover recovery).
+về giữa --- anh thực hiện 'lùi bước' (crossover recovery).
 
 **5.4.1. Tại Sao Lùi Thay Vì Quay Lưng Chạy?**
 
 Nếu quay lưng chạy thẳng về giữa, anh sẽ: mất 0,4-0,5 giây để quay đầu
 lại nhìn bóng, không kịp phản ứng nếu đối thủ đánh trả nhanh vào sau
-lưng. \'Lùi bước\' giữ hông và mắt hướng về lưới suốt quá trình --- đây
+lưng. 'Lùi bước' giữ hông và mắt hướng về lưới suốt quá trình --- đây
 là nguyên tắc sống còn.
 
 **5.4.2. Bốn Nhịp Kỹ Thuật**
@@ -1056,17 +1056,17 @@ shuffle, mà hông vẫn mở.
 
 Nhịp 3 -- Hạ trọng tâm + split-step (2.3s): Khi đã lùi được 2/3 quãng
 đường, hạ thấp gối (gần bằng tư thế ready), hai chân rộng bằng vai, vợt
-đưa ra trước. Đây là \'split-step di động\' --- anh nhún nhẹ để sẵn sàng
+đưa ra trước. Đây là 'split-step di động' --- anh nhún nhẹ để sẵn sàng
 bật sang trái/phải.
 
 Nhịp 4 -- Đẩy tiếp và reset (3.5s-4.6s): Từ split, anh đẩy bằng chân
 trái để trượt thêm 1 bước nhỏ về giữa, mắt vẫn khóa vào đối thủ. Anh
-đứng ở khoảng 1m lệch phải so với vạch giữa --- \'recovery bias\' vì cú
+đứng ở khoảng 1m lệch phải so với vạch giữa --- 'recovery bias' vì cú
 trước đánh cross-court.
 
 **5.4.3. Recovery Bias -- Chiến Thuật Vị Trí**
 
-\'Recovery bias\' là khái niệm quan trọng: sau mỗi cú đánh, không phải
+'Recovery bias' là khái niệm quan trọng: sau mỗi cú đánh, không phải
 lúc nào bạn cũng cần về đúng giữa sân. Vị trí lý tưởng để về phụ thuộc
 vào hướng bóng bạn vừa đánh và xác suất đối thủ đánh trả vào đâu.
 
@@ -1107,7 +1107,7 @@ về vị trí lệch phải một chút --- đón sẵn hướng bóng khả n�
 
 **5.6. Bài Tập Crossover Recovery**
 
-**Bài \'Crossover Lùi\' Không Bóng -- 3 Phút**
+**Bài 'Crossover Lùi' Không Bóng -- 3 Phút**
 
 Đứng ở góc forehand, giả vờ đánh xong, phanh bằng chân ngoài, bước chéo
 chân trong ra sau 3 lần, kết thúc bằng split. Làm 10 lượt mỗi bên.
@@ -1119,8 +1119,8 @@ trong tầm mắt phụ, bạn đang làm đúng.
 **Bài Có Bóng -- Feed Rộng**
 
 Partner feed bóng ra góc, bạn đánh forehand mở, sau đó bắt buộc lùi bằng
-2 bước chéo trước khi được đánh quả tiếp. Đếm nhịp \'phanh -- chéo --
-nhún\'. Tập 15-20 phút.
+2 bước chéo trước khi được đánh quả tiếp. Đếm nhịp 'phanh -- chéo --
+nhún'. Tập 15-20 phút.
 
 **Bài Advanced: Mirror Drill**
 
@@ -1133,18 +1133,18 @@ Bài này tập phản ứng ngang rất hiệu quả.
 **5.7.1. Sân Cứng (Hard Court)**
 
 Sân cứng có hệ số ma sát cao và ít trượt. Bước chân phải chính xác hơn
-vì không có \'trượt tự nhiên\'. Tải trọng lên gối và mắt cá cao hơn
+vì không có 'trượt tự nhiên'. Tải trọng lên gối và mắt cá cao hơn
 khoảng 15-20% so với sân đất. Cần đế giày có độ đàn hồi tốt để hấp thụ
 rung chấn.
 
 **5.7.2. Sân Đất (Clay Court)**
 
-Sân đất cho phép \'trượt vào bóng\' --- đây là kỹ thuật đặc thù của clay
+Sân đất cho phép 'trượt vào bóng' --- đây là kỹ thuật đặc thù của clay
 court. Thay vì phanh đột ngột như sân cứng, VĐV trên clay thường trượt
-chân trước 30-50cm, tạo ra \'braking slide\' để điều chỉnh vị trí đánh.
+chân trước 30-50cm, tạo ra 'braking slide' để điều chỉnh vị trí đánh.
 Djokovic và Nadal là bậc thầy của kỹ thuật này.
 
-Kỹ thuật trượt trên clay hoàn toàn khác với \'trượt chân\' ngẫu nhiên
+Kỹ thuật trượt trên clay hoàn toàn khác với 'trượt chân' ngẫu nhiên
 --- đây là hành động có kiểm soát. Nếu bạn trượt trên sân cứng, bạn sẽ
 chấn thương ngay lập tức.
 
@@ -1184,8 +1184,8 @@ một forehand mạnh của VĐV chuyên nghiệp, chân và hông đóng góp k
 55% tổng lực, thân trên đóng góp 25%, và cánh tay + cổ tay chỉ 20%.
 
 Điều này có nghĩa: nếu kỹ thuật chân của bạn sai, không có cách nào
-\'sửa\' bằng cổ tay hay vai. Đây là lý do tại sao người chơi với
-forehand \'trông mạnh\' nhưng bóng lại \'nhẹ\' --- họ không khai thác
+'sửa' bằng cổ tay hay vai. Đây là lý do tại sao người chơi với
+forehand 'trông mạnh' nhưng bóng lại 'nhẹ' --- họ không khai thác
 được lực từ chân và hông.
 
 **6.2. Unit Turn -- Xoay Thân Hoàn Chỉnh**
@@ -1195,13 +1195,13 @@ forehand \'trông mạnh\' nhưng bóng lại \'nhẹ\' --- họ không khai th�
 Unit turn (xoay thân hoàn chỉnh) là giai đoạn đầu tiên của forehand ---
 xoay toàn bộ thân trên (bao gồm hông và vai) cùng một khối về phía bóng.
 Đây không phải là xoay vai đơn lẻ, cũng không phải chỉ xoay hông --- mà
-là cả hai cùng một lúc, tạo thành một \'khối\' đồng nhất.
+là cả hai cùng một lúc, tạo thành một 'khối' đồng nhất.
 
-Trong phân tích simple forehand: \'Anh ta xoay mũi chân phải ra ngoài
+Trong phân tích simple forehand: 'Anh ta xoay mũi chân phải ra ngoài
 trước. Điều này quay hông trước khi vợt di chuyển → tạo unit turn thật
 sự. Khác Federer (bắt đầu bằng tay), khác Nadal (bắt đầu bằng bước
 chạy). Đây là cách tiết kiệm năng lượng nhất cho người chơi phong
-trào.\'
+trào.'
 
 **6.2.2. Vai Trò Của Bàn Chân Trong Unit Turn**
 
@@ -1212,44 +1212,44 @@ khác.
 
 Tại sao bắt đầu từ chân ngoài? Vì đây là điểm tiếp xúc với mặt đất ---
 từ đây lực ma sát cho phép toàn bộ cơ thể xoay hiệu quả. Nếu bạn cố xoay
-vai mà chân không xoay trước, vai sẽ \'kéo\' trong khi hông bị \'kẹt\',
+vai mà chân không xoay trước, vai sẽ 'kéo' trong khi hông bị 'kẹt',
 và cú đánh mất lực đáng kể.
 
 **6.3. Load -- Nạp Năng Lượng**
 
-Sau unit turn, bước tiếp theo là \'load\' --- nạp năng lượng vào chuỗi
+Sau unit turn, bước tiếp theo là 'load' --- nạp năng lượng vào chuỗi
 động học. Đây là giai đoạn cơ thể tích trữ năng lượng đàn hồi bằng cách
 stretch các nhóm cơ chính.
 
 **6.3.1. Load Từ Hông**
 
-Trong phân tích simple forehand: \'Hai tay giữ vợt tới khi tay trái qua
+Trong phân tích simple forehand: 'Hai tay giữ vợt tới khi tay trái qua
 vai trái. Tay trái không buông sớm → vai xoay được 85-90°, tích trữ năng
-lượng đàn hồi ở cơ xô và cơ liên sườn.\' Đây là load từ vai và thân.
+lượng đàn hồi ở cơ xô và cơ liên sườn.' Đây là load từ vai và thân.
 
 Nhưng load quan trọng hơn đến từ hông: khi hông xoay vào (internal
 rotation), cơ mông lớn, cơ khép hông, và cơ lưng dưới bị kéo giãn. Khi
-bạn \'uncoil\' (xoay ngược ra), những cơ này co lại đột ngột, tạo ra lực
+bạn 'uncoil' (xoay ngược ra), những cơ này co lại đột ngột, tạo ra lực
 xoay mạnh mẽ.
 
 **6.3.2. Load Từ Đầu Gối**
 
-Một phần của load ít được chú ý là \'gối load\' --- đầu gối gập xuống
+Một phần của load ít được chú ý là 'gối load' --- đầu gối gập xuống
 khi chân trụ nhận trọng lượng. Khi VĐV đánh forehand, gối chân trụ (chân
 trước) gập khoảng 40-60° tại thời điểm tiếp xúc bóng. Cơ tứ đầu đang ở
 trạng thái eccentric (đang kiểm soát trọng lượng), tích trữ elastic
 energy.
 
-Ngay sau khi tiếp xúc bóng, gối chân trụ duỗi ra --- đây là \'knee
-drive\' hay \'leg push\' góp phần vào tốc độ đầu vợt. Trong phân tích:
-\'Chân phải (chân ngoài với người thuận tay phải) đạp mạnh, hông phải
-ném về phía trước.\'
+Ngay sau khi tiếp xúc bóng, gối chân trụ duỗi ra --- đây là 'knee
+drive' hay 'leg push' góp phần vào tốc độ đầu vợt. Trong phân tích:
+'Chân phải (chân ngoài với người thuận tay phải) đạp mạnh, hông phải
+ném về phía trước.'
 
 **6.4. Ba Mẫu Forehand Hiện Đại -- Phân Tích Kỹ Thuật Chân**
 
 **6.4.1. Simple Penetrating Forehand**
 
-Đây là mẫu \'an toàn nhất\' và phù hợp nhất với người chơi phong trào.
+Đây là mẫu 'an toàn nhất' và phù hợp nhất với người chơi phong trào.
 Kỹ thuật chân đặc trưng:
 
 - Xoay mũi chân ngoài ra trước, tạo unit turn từ dưới lên.
@@ -1285,7 +1285,7 @@ sân dù đánh trong thế bị ép.
 Đây là biến thể nâng cao, không phù hợp cho người mới. Kỹ thuật chân của
 Federer trong forehand thực ra không có nhiều điểm khác biệt so với
 simple --- sự khác biệt chính nằm ở cổ tay và timing. Tuy nhiên, để tạo
-ra \'wrist lag\' như Federer, cơ thể (đặc biệt là core và vai) phải ổn
+ra 'wrist lag' như Federer, cơ thể (đặc biệt là core và vai) phải ổn
 định tuyệt đối --- điều này phụ thuộc vào việc chân đặt đúng vị trí.
 
 **6.5. Phân Tích Video Forehand Người Tập**
@@ -1296,7 +1296,7 @@ chân:
 
 **6.5.1. Điểm Mạnh Được Nhận Xét**
 
-- Giữ đầu vợt cao ở take-back --- giúp không bị \'vợt rơi muộn\'.
+- Giữ đầu vợt cao ở take-back --- giúp không bị 'vợt rơi muộn'.
 
 - Tay trái làm đối trọng --- giữ thăng bằng, vai xoay đủ.
 
@@ -1305,13 +1305,13 @@ chân:
 
 **6.5.2. Điểm Cần Cải Thiện**
 
-- Thêm độ sâu lực (nếu muốn bóng nặng hơn): hông chưa \'ném\' vào bóng
+- Thêm độ sâu lực (nếu muốn bóng nặng hơn): hông chưa 'ném' vào bóng
   đủ mạnh. Ở frame tiếp xúc bóng, chân phải vẫn còn chạm đất. Thử bài:
   đánh shadow, cố ý nhấc gót chân phải lên ngay khi vợt chạm bóng --- sẽ
   cảm nhận hông đẩy thêm 10-15%.
 
 - Thêm wrist lag (tùy chọn): đầu vợt không bao giờ chỉ sang trái sau
-  lưng --- thiếu giai đoạn \'tip to the left\' của Federer. Tuy nhiên,
+  lưng --- thiếu giai đoạn 'tip to the left' của Federer. Tuy nhiên,
   đây là yếu tố tùy chọn, không bắt buộc.
 
 **6.6. Kỹ Thuật Chân Cho Power Position**
@@ -1327,12 +1327,12 @@ VĐV khác: đầu vợt chỉ sang phải, đít vợt chỉ sang trái, vợt 
 
 Về mặt chân, điều quan trọng là: Sinner tạo flip lớn trong khi vẫn giữ
 chân ổn định hoàn toàn. Điều này đòi hỏi core và chân phải là một
-\'tường vững chắc\' để cổ tay có thể thực hiện flip mạnh mà không làm
+'tường vững chắc' để cổ tay có thể thực hiện flip mạnh mà không làm
 mất thăng bằng toàn thân.
 
 Bài học thực tế: với forehand simple của bạn, thử ở power position hơi
 nghiêng đầu vợt ra ngoài 10-15° (không lật ngang hẳn như Sinner). Bạn sẽ
-cảm thấy vợt \'rơi\' tự nhiên hơn, tăng 5-8% tốc độ mà không thay đổi
+cảm thấy vợt 'rơi' tự nhiên hơn, tăng 5-8% tốc độ mà không thay đổi
 swing.
 
 **6.7. Checklist Kỹ Thuật Chân Forehand**
@@ -1340,21 +1340,21 @@ swing.
 Dùng checklist này để tự đánh giá mỗi tuần. Quay video từ hai góc: bên
 hông và phía trước.
 
-+-----------------------------------------------------------------------+
-| **⚡ Checklist Kỹ Thuật Chân -- Forehand**                            |
-|                                                                       |
-| □ Mũi chân ngoài xoay trước khi tay bắt đầu take-back                 |
-|                                                                       |
-| □ Hai tay giữ vợt đến khi tay trái qua vai trái                       |
-|                                                                       |
-| □ Gối chân trụ gập 40-60° tại thời điểm tiếp xúc bóng                 |
-|                                                                       |
-| □ Gót chân ngoài nhấc lên sau khi tiếp xúc bóng                       |
-|                                                                       |
-| □ Gối chân trụ KHÔNG đổ vào trong (no valgus)                         |
-|                                                                       |
-| □ Sau finish, phục hồi về ready trong dưới 1.5 giây                   |
-+-----------------------------------------------------------------------+
+| **⚡ Checklist Kỹ Thuật Chân -- Forehand** |
+| --- |
+|  |
+| □ Mũi chân ngoài xoay trước khi tay bắt đầu take-back |
+|  |
+| □ Hai tay giữ vợt đến khi tay trái qua vai trái |
+|  |
+| □ Gối chân trụ gập 40-60° tại thời điểm tiếp xúc bóng |
+|  |
+| □ Gót chân ngoài nhấc lên sau khi tiếp xúc bóng |
+|  |
+| □ Gối chân trụ KHÔNG đổ vào trong (no valgus) |
+|  |
+| □ Sau finish, phục hồi về ready trong dưới 1.5 giây |
+
 
 **6.8. Tóm Tắt Chương 6**
 
@@ -1398,7 +1398,7 @@ không thể mở open stance rộng như forehand. Bước chân phải chéo s
 trái (người thuận tay phải) nhiều hơn.
 
 Đặc điểm kỹ thuật chân quan trọng: mũi chân phải (chân sau) hướng vào
-trong hơn so với forehand. Gối phải gập nhiều hơn để \'load\' sức mạnh.
+trong hơn so với forehand. Gối phải gập nhiều hơn để 'load' sức mạnh.
 Trọng lượng chuyển từ chân phải sang chân trái --- ngược chiều với
 forehand.
 
@@ -1408,8 +1408,8 @@ Hip rotation của backhand hai tay ngắn hơn forehand --- thường chỉ
 khoảng 60-70° so với 85-90° của forehand. Nhưng việc có hai tay trên vợt
 giúp bù lại bằng lực từ tay trái (tay thuận của cú backhand hai tay).
 
-Tay trái trong backhand hai tay không phải là \'tay phụ\' --- nó thực sự
-là \'tay chính\' tạo lực. Điều này ảnh hưởng đến kỹ thuật chân: để tay
+Tay trái trong backhand hai tay không phải là 'tay phụ' --- nó thực sự
+là 'tay chính' tạo lực. Điều này ảnh hưởng đến kỹ thuật chân: để tay
 trái tạo lực tối đa, chân trái (chân trụ) phải ổn định hoàn toàn và đẩy
 mạnh vào đất.
 
@@ -1430,7 +1430,7 @@ Thiem --- đều có kỹ thuật chân xuất sắc. Không phải ngẫu nhiê
 Bước chân chéo sâu hơn backhand hai tay. Mũi chân trước (chân phải với
 người thuận tay phải) hướng gần vuông góc với lưới --- điều này giúp
 hông xoay tối đa. Trọng lượng chuyển từ chân sau sang chân trước theo
-đường thẳng --- \'weight transfer\' rõ ràng hơn backhand hai tay.
+đường thẳng --- 'weight transfer' rõ ràng hơn backhand hai tay.
 
 Trong backhand một tay Federer: shoulder rotation đạt gần 100° --- điều
 này chỉ có thể thực hiện khi chân đặt đúng và hông xoay hoàn toàn. Nếu
@@ -1442,7 +1442,7 @@ bước chân sai, shoulder rotation bị hạn chế và cú đánh mất lực
 
 Backhand slice có cơ học chân hoàn toàn khác hai loại backhand trên.
 Thay vì xoay hông để tạo lực, slice dùng trọng lượng và cánh tay để
-\'cắt\' xuống bóng. Vì vậy, kỹ thuật chân của slice thiên về ổn định hơn
+'cắt' xuống bóng. Vì vậy, kỹ thuật chân của slice thiên về ổn định hơn
 là tạo lực.
 
 Close stance là phổ biến nhất cho slice --- bước chân trái chéo vào, tạo
@@ -1457,14 +1457,14 @@ shot) trước khi vào lưới; drop shot; điều chỉnh nhịp độ trận 
 
 **7.5. Phòng Thủ Backhand -- Cú Chạy Vòng Đánh Forehand**
 
-Một trong những chiến thuật thú vị trong tennis hiện đại là \'running
-around backhand\' --- chạy vòng để đánh forehand thay vì backhand.
+Một trong những chiến thuật thú vị trong tennis hiện đại là 'running
+around backhand' --- chạy vòng để đánh forehand thay vì backhand.
 Djokovic và Nadal là bậc thầy của kỹ thuật này.
 
 **7.5.1. Kỹ Thuật Chân Để Chạy Vòng**
 
 Khi bóng vào vùng backhand nhưng bạn muốn đánh forehand: một bước chéo
-nhanh sang trái (với người thuận tay phải) để \'dọn đường\' cho
+nhanh sang trái (với người thuận tay phải) để 'dọn đường' cho
 forehand. Hai bước shuffle tiếp theo để đặt chân ở vị trí open stance
 rộng. Đánh forehand mạnh về phía đối diện (thường là down the line).
 
@@ -1483,7 +1483,7 @@ giây, trả về ready position. Lặp lại 20 lần mỗi bên.
 **Bài 2: Backhand Load Drill**
 
 Đứng ở vị trí đánh backhand, giữ vợt. Đối tác đứng ở vị trí đánh bóng
-nhẹ vào vùng backhand. Bạn tập chỉ giai đoạn \'load\' --- bước chân và
+nhẹ vào vùng backhand. Bạn tập chỉ giai đoạn 'load' --- bước chân và
 xoay hông đầy đủ, dừng lại, hold 2 giây rồi thực hiện cú đánh. Mục đích:
 cảm nhận load từ chân trước khi đánh.
 
@@ -1549,7 +1549,7 @@ Một cú serve hoàn chỉnh theo thứ tự: Bàn chân đẩy xuống đất 
 và đùi duỗi ra (leg drive) → Hông và thân trên xoay → Vai đẩy lên →
 Khuỷu tay vươn lên → Cổ tay snap → Đầu vợt tiếp xúc bóng.
 
-Giai đoạn \'leg drive\' là phần đóng góp quan trọng nhất từ chân. VĐV
+Giai đoạn 'leg drive' là phần đóng góp quan trọng nhất từ chân. VĐV
 chuyên nghiệp tạo ra leg drive với lực gần bằng jumping (nhảy cao).
 Federer, Djokovic, Roddick --- những VĐV có serve nhanh nhất lịch sử ---
 đều có leg drive xuất sắc.
@@ -1557,7 +1557,7 @@ Federer, Djokovic, Roddick --- những VĐV có serve nhanh nhất lịch sử -
 **8.3.1. Knee Bend -- Góc Gối Trước Khi Nhảy**
 
 Trước khi thực hiện serve, đầu gối phải gập xuống một góc nhất định để
-\'nạp\' năng lượng cho leg drive. Góc lý tưởng: 50-70° ở thời điểm sâu
+'nạp' năng lượng cho leg drive. Góc lý tưởng: 50-70° ở thời điểm sâu
 nhất của knee bend. Nếu gập ít hơn: không đủ leg drive, serve chậm. Nếu
 gập nhiều hơn: mất thăng bằng, khó kiểm soát.
 
@@ -1575,10 +1575,10 @@ and volley phải: ngay sau khi chân đáp đất từ nhảy, đẩy mạnh v�
 trước bằng chân đó. Không dừng lại, không kiểm tra xem bóng đi đâu ---
 cứ lao vào.
 
-Đây là \'commitment bước\' --- bạn đã quyết định lên lưới trước khi biết
+Đây là 'commitment bước' --- bạn đã quyết định lên lưới trước khi biết
 bóng trả như thế nào. Những VĐV xuất sắc ở serve and volley (McEnroe,
 Edberg, Sampras) có năng lực đọc bóng xuất sắc và biết khi nào nên
-\'commit\'.
+'commit'.
 
 **8.5. Kỹ Thuật Chân Khi Đánh Volley**
 
@@ -1586,11 +1586,11 @@ Edberg, Sampras) có năng lực đọc bóng xuất sắc và biết khi nào n
 
 Khi đang di chuyển vào lưới, VĐV phải thực hiện split-step ở thời điểm
 đối thủ đánh bóng --- giống hệt split-step ở baseline, chỉ khác là đang
-trong chuyển động tiến. Đây là \'approach split-step\'.
+trong chuyển động tiến. Đây là 'approach split-step'.
 
 Sau split-step, bước chân về hướng bóng. Với volley thấp: bước lunge
 nhỏ, gối gập, đầu vợt hạ xuống bằng chân chứ không phải bằng tay. Với
-volley cao: bước lên và đánh đập xuống (\'punch volley\').
+volley cao: bước lên và đánh đập xuống ('punch volley').
 
 **8.5.2. T-Position -- Vị Trí Lý Tưởng Ở Lưới**
 
@@ -1600,7 +1600,7 @@ thể với tới cả hai góc sân với tối thiểu số bước chân.
 
 Để duy trì T-position, VĐV phải liên tục điều chỉnh theo hướng bóng của
 đối thủ --- nghiêng sang trái khi đối thủ di chuyển sang trái, và ngược
-lại. Đây là \'shadowing\' --- kỹ thuật theo dõi và điều chỉnh vị trí
+lại. Đây là 'shadowing' --- kỹ thuật theo dõi và điều chỉnh vị trí
 liên tục.
 
 **8.6. Overhead -- Smash Kỹ Thuật Chân**
@@ -1615,12 +1615,12 @@ chân trái chéo ra sau chân phải (người thuận tay phải), rồi chân
 tiếp tục lùi. Không bao giờ lùi shuffle step vì quá chậm.
 
 Trong khi lùi, VĐV phải: theo dõi bóng liên tục (không mất tầm nhìn dù
-đang lùi), xác định điểm tiếp xúc, đặt chân \'trỏ\' về phía lưới và cơ
+đang lùi), xác định điểm tiếp xúc, đặt chân 'trỏ' về phía lưới và cơ
 thể xoay 45° so với lưới --- đây là tư thế để smash mạnh nhất.
 
 **8.6.2. Scissors Kick**
 
-Trong overhead chuyên nghiệp, VĐV thường thực hiện \'scissors kick\' ---
+Trong overhead chuyên nghiệp, VĐV thường thực hiện 'scissors kick' ---
 trong lúc nhảy lên để đánh, hai chân giao nhau. Chân phải kéo về phía
 sau trong khi chân trái đẩy lên, tạo ra xoay thân và lực đánh mạnh hơn.
 
@@ -1690,8 +1690,8 @@ biến thể quan trọng:
 
 - Bulgarian split squat: đặt chân sau lên ghế, chân trước gập xuống. Bài
   này tải một chân một lúc, đặc biệt hiệu quả cho sức mạnh eccentric.
-  Tài liệu phân tích đề xuất: \'4x6 mỗi bên, tạ 5-8kg, gối sau cách đất
-  2cm.\'
+  Tài liệu phân tích đề xuất: '4x6 mỗi bên, tạ 5-8kg, gối sau cách đất
+  2cm.'
 
 - Lateral lunge: bước rộng sang ngang, gối chân đó gập. Đây là bài tập
   trực tiếp nhất cho lateral movement trong tennis. Bắt đầu không tạ,
@@ -1713,8 +1713,8 @@ Nguyên tắc: thực hiện giai đoạn hạ xuống chậm hơn giai đoạn 
 Tempo phổ biến là 4-0-1: hạ xuống 4 giây, không pause, đẩy lên 1 giây.
 
 - Eccentric Bulgarian split squat: hạ xuống 5 giây, hold 2 giây ở điểm
-  thấp nhất, đẩy lên 1 giây. Đây chính là bài được đề xuất: \'Spanish
-  squat 4x6 (hạ 5s tới 90°, giữ 2s).\'
+  thấp nhất, đẩy lên 1 giây. Đây chính là bài được đề xuất: 'Spanish
+  squat 4x6 (hạ 5s tới 90°, giữ 2s).'
 
 - Nordics (Nordic hamstring curl): đây là bài tập eccentric hàng đầu cho
   cơ đùi sau --- quan trọng để cân bằng sức mạnh tứ đầu-đùi sau và bảo
@@ -1757,8 +1757,8 @@ Box jump (nhảy lên hộp) và broad jump (nhảy xa) tập sức mạnh bật
 
 Mini-band là dây đàn hồi nhỏ đặt quanh gối hoặc cổ chân. Tập với
 mini-band kích hoạt cơ mông nhỡ và kiểm soát valgus --- đây là bài tập
-được đề xuất trong chương trình 4 tuần: \'Đặt mini-band quanh gối, lunge
-ngang, quay video từ trước. Gối phải luôn hướng theo mũi chân thứ 2.\'
+được đề xuất trong chương trình 4 tuần: 'Đặt mini-band quanh gối, lunge
+ngang, quay video từ trước. Gối phải luôn hướng theo mũi chân thứ 2.'
 
 - Lateral band walk: đeo band quanh gối, đi ngang như cua. Mỗi bước gối
   phải đẩy ra ngoài chống lại band.
@@ -1856,7 +1856,7 @@ giác vị trí) kém.
 
 Proprioception --- khả năng cảm nhận vị trí cơ thể trong không gian ---
 là hàng phòng thủ cuối cùng chống bong gân cổ chân. Khi bước chân
-\'sai\', proprioception tốt giúp cổ chân tự điều chỉnh trước khi bong
+'sai', proprioception tốt giúp cổ chân tự điều chỉnh trước khi bong
 gân xảy ra.
 
 - Single-leg balance: đứng một chân, nhắm mắt, 30 giây. Tập hàng ngày.
@@ -1870,10 +1870,10 @@ gân xảy ra.
 
 **10.3. Phòng Ngừa Chấn Thương Gối**
 
-**10.3.1. Viêm Gân Bánh Chè -- Jumper\'s Knee**
+**10.3.1. Viêm Gân Bánh Chè -- Jumper's Knee**
 
-Viêm gân bánh chè (patellar tendinitis) hay còn gọi là \'jumper\'s
-knee\' xảy ra khi gân nối xương bánh chè với xương chày bị quá tải.
+Viêm gân bánh chè (patellar tendinitis) hay còn gọi là 'jumper's
+knee' xảy ra khi gân nối xương bánh chè với xương chày bị quá tải.
 Trong tennis, đây là chấn thương phổ biến ở người chơi nhiều trên sân
 cứng --- mỗi cú split-step tạo ra lực gấp 3-5 lần trọng lượng cơ thể lên
 gân này.
@@ -1898,7 +1898,7 @@ cẳng chân khi gối đang gập sâu, khởi động đủ trước khi tập
 
 **10.4. Khởi Động Đúng Cách -- Warm-Up Protocol**
 
-Khởi động trước khi đánh tennis không chỉ là \'đánh nhẹ vài quả\'. Khởi
+Khởi động trước khi đánh tennis không chỉ là 'đánh nhẹ vài quả'. Khởi
 động đúng cách giúp tăng nhiệt độ cơ bắp (cải thiện đàn hồi), kích hoạt
 các nhóm cơ sẽ sử dụng, và tăng proprioception. Thời gian khởi động lý
 tưởng: 15-20 phút.
@@ -1919,7 +1919,7 @@ lần mỗi bên --- Single-leg RDL không tạ 15 lần mỗi bên --- Hip circ
 
 Sau dynamic warm-up, thêm 5 phút activation để kích hoạt các nhóm cơ
 quan trọng: Mini-band lateral walk 20 bước mỗi hướng --- Glute bridge 20
-lần --- Clamshells 15 lần mỗi bên. Những bài này \'đánh thức\' cơ mông
+lần --- Clamshells 15 lần mỗi bên. Những bài này 'đánh thức' cơ mông
 và cơ lõi để sẵn sàng cho tập luyện.
 
 **10.5. Cool-Down Và Phục Hồi**
@@ -1959,7 +1959,7 @@ Compression (băng ép) --- Elevation (nâng cao chi bị thương).
 
 Cần gặp bác sĩ ngay lập tức khi: đau không giảm sau 48 giờ RICE, không
 thể chịu trọng lượng trên chân bị thương, sưng tấy nhanh và nhiều, cảm
-giác \'lục cục\' hoặc \'bật\' trong gối, mất cảm giác hoặc tê bì.
+giác 'lục cục' hoặc 'bật' trong gối, mất cảm giác hoặc tê bì.
 
   -----------------------------------------------------------------------
   ⚠️ CẢNH BÁO: Đừng bao giờ cố tiếp tục tập khi đang đau nhói. Đau nhói
@@ -1979,15 +1979,15 @@ chương --- những điều bạn phải nhớ và áp dụng mỗi khi ra sân
 42. Split-step timing là kỹ thuật quan trọng nhất --- chân phải ở trên
     không đúng lúc đối thủ chạm bóng.
 
-43. Ready position là tư thế tích cực, không phải đứng chờ --- luôn \'lò
-    xo nén\'.
+43. Ready position là tư thế tích cực, không phải đứng chờ --- luôn 'lò
+    xo nén'.
 
 44. Forehand bắt đầu từ xoay mũi chân, không phải từ tay.
 
 45. Lunge sâu chỉ thực hiện khi đã có đủ dorsiflexion (\>35°) và sức
     mạnh eccentric.
 
-46. Gối sau trong drop lunge phải \'lơ lửng\' cách sân 3-5cm --- không
+46. Gối sau trong drop lunge phải 'lơ lửng' cách sân 3-5cm --- không
     đập xuống.
 
 47. Recovery luôn giữ mắt nhìn đối thủ --- không quay lưng.

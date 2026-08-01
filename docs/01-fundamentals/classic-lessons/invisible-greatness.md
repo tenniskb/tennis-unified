@@ -5,12 +5,11 @@
 ------------------------------------------------------------------------
 
 ![A picture containing person, player, white Description automatically
-generated](media_invisible-greatness/media/image1.jpg){width="1.85in"
-height="2.19in"}
+generated](media_invisible-greatness/media/image1.jpg)
 
 **Joanne Russell believed in invisible will.**
 
-At a birthday party for Steffi Graf\'s long-time coach Pavel Slozil I
+At a birthday party for Steffi Graf's long-time coach Pavel Slozil I
 asked my friends JoAnne Russell and Mary Carillo for their input about
 what separates one obviously gifted tennis player from another.
 
@@ -33,7 +32,7 @@ court, the racquet, the ball, footwork, strokes, the conditions. But
 then you get to the moment when one player either makes a winning shot
 or misses it. This is where greatness starts to become a blur.
 
-Why did Player A miss the shot? It\'s easy to point out he or she was
+Why did Player A miss the shot? It's easy to point out he or she was
 out of position or attempted a low-percentage shot, or their shot was
 too weak and short, and so on, but is that really why the player missed
 it?
@@ -49,8 +48,7 @@ aiming? The list goes on.
 
 ![A couple of men holding tennis rackets on a tennis court Description
 automatically generated with medium
-confidence](media_invisible-greatness/media/image2.jpg){width="3.1944444444444446in"
-height="2.638888888888889in"}
+confidence](media_invisible-greatness/media/image2.jpg)
 
 **Emilio helped a young Andy Murray develop a way to win 25 points.**
 
@@ -69,7 +67,7 @@ so at least if you are not so aggressive to make a winner, you are
 aggressive enough to open the court that will give you the twenty-five
 to thirty points you need.\"
 
-According to Emilio, another invisible tool was a player\'s ability to
+According to Emilio, another invisible tool was a player's ability to
 apply their shot or play under numerous circumstances. \"Depending on
 who you play, the pattern from the other player and how they make their
 twenty-five points,\" he says, \"how the other player compensates - the
@@ -85,8 +83,7 @@ where you play your ball, where your opponent is going to hit it, to be
 able to anticipate the ball.\"
 
 ![A picture containing person, wall, indoor Description automatically
-generated](media_invisible-greatness/media/image3.jpg){width="2.4305555555555554in"
-height="3.5694444444444446in"}
+generated](media_invisible-greatness/media/image3.jpg)
 
 **Brett believes anticipation and decision making are key invisible
 qualities.**
@@ -97,33 +94,32 @@ Veteran coach and founder of Modern Tennis LLC, Brett Hobden agrees
 about anticipation. He says two of the most important invisible skills
 in the game are anticipation and decision-making. ([Click
 Here](../Famous%20Coaches/The%20Seven%20Modern%20Topspin%20Forehands.docx)
-to read Brett\'s article on the 7 Topspin Forehands.)
+to read Brett's article on the 7 Topspin Forehands.)
 
 \"There are certain ingredients that go into the success or failure of a
 shot,\" Hobden told me, \"and I think it starts with anticipation. What
-do you see and what does that information mean to you? That\'s an
-invisible quality, right? Then there\'s decision-making, what you do
+do you see and what does that information mean to you? That's an
+invisible quality, right? Then there's decision-making, what you do
 with that information.\"
 
-In Brett\'s opinion, anticipation and decision-making do not fall into
+In Brett's opinion, anticipation and decision-making do not fall into
 the \"technical\" basket. They are baskets of their own. They occur
 before the split step and subsequent movement to the ball, spacing,
 swing path, recovery, and so on.
 
 \"A player may execute unbelievably,\" Hobden says, \"but choose the
-wrong shot often. So it\'s not an execution issue, it\'s a shot choice
-issue. A player may, say, arrive late at a ball that is short, but it\'s
-not their speed of movement; they\'re quick, but they anticipate late
+wrong shot often. So it's not an execution issue, it's a shot choice
+issue. A player may, say, arrive late at a ball that is short, but it's
+not their speed of movement; they're quick, but they anticipate late
 that they arrive late.\"
 
-Another connected category Brett highlighted is a player\'s ability to
+Another connected category Brett highlighted is a player's ability to
 process feedback. Successful players learn from their mistakes,
 weaknesses, and from coaches, but that all begins with getting the right
 information.
 
 ![A person playing tennis Description automatically
-generated](media_invisible-greatness/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_invisible-greatness/media/image4.webp)
 
 **How do you win your 25 points a set?**
 
@@ -158,8 +154,7 @@ deciding factor.
 
 ![A person wearing a hat and holding a golf club Description
 automatically generated with medium
-confidence](media_invisible-greatness/media/image5.jpg){width="3.4722222222222223in"
-height="2.9166666666666665in"}
+confidence](media_invisible-greatness/media/image5.jpg)
 
 **When do you want to pump up?**
 
@@ -173,9 +168,9 @@ How do the best players succeed where the rest of us fail? The sage Dr.
 Allen Fox told me the secret is two-fold: stress management and
 emotional discipline.
 
-\"When winning is in doubt, it\'s stressful,\" says Fox. \"A lot of
-people say they don\'t care if they win. Everybody cares if they win.
-We\'re a social species, like wolves or chimpanzees, and all social
+\"When winning is in doubt, it's stressful,\" says Fox. \"A lot of
+people say they don't care if they win. Everybody cares if they win.
+We're a social species, like wolves or chimpanzees, and all social
 species have hierarchies. Some individuals are ranked higher than
 others. And everybody wants to be ranked high.
 
@@ -183,18 +178,17 @@ others. And everybody wants to be ranked high.
 when you have a nice car. When you dress well.
 
 \"All those are ranking issues, and so a tennis match is a fight for
-ranking. It\'s an emotional game. One of the two contestants is going to
-end up on top of the other one. And when you lose, and you\'re really
+ranking. It's an emotional game. One of the two contestants is going to
+end up on top of the other one. And when you lose, and you're really
 trying to win, you feel diminished. You know your opponent has bested
-you. You\'re inferior to this person, at least on a tennis court. It
-doesn\'t feel good. So that\'s where the stress comes from.\"
+you. You're inferior to this person, at least on a tennis court. It
+doesn't feel good. So that's where the stress comes from.\"
 
 ![A picture containing person, sport, athletic game, player Description
 automatically
-generated](media_invisible-greatness/media/image6.jpg){width="3.8194444444444446in"
-height="2.875in"}
+generated](media_invisible-greatness/media/image6.jpg)
 
-**You can\'t run out the clock like Steff.**
+**You can't run out the clock like Steff.**
 
 **[[Human beings are not designed to tolerate high levels of stress for
 very long periods. And what is a tennis match, but one prolonged
@@ -222,8 +216,7 @@ and match point is the most stressful point in the match.\"
 
 ![A picture containing person, player, sport, athletic game Description
 automatically
-generated](media_invisible-greatness/media/image7.jpg){width="4.277777777777778in"
-height="3.1666666666666665in"}
+generated](media_invisible-greatness/media/image7.jpg)
 
 **The closer to the win, the more stress.**
 
@@ -231,7 +224,7 @@ height="3.1666666666666665in"}
 this stress]{.underline} and so [unconsciously escape from it as soon as
 possible]{.underline} through [[a few common emotional responses: anger,
 excuse-making, and tanking.]{.underline}]{.mark}** **[[A classic example
-is when a player gets ahead in a match - maybe they\'re serving for the
+is when a player gets ahead in a match - maybe they're serving for the
 set - then suddenly \"chokes\" it away.]{.underline}]{.mark}**
 
 **[[\"The hidden fact,\" he says, \"is that these players subconsciously
@@ -250,28 +243,27 @@ discipline. Though we may see Rafael Nadal pump his fist and yell,
 everything.
 
 \"They tend to do it in a tie-breaker,\" he says \"or right at the end
-of a set. They won\'t do it so much early on because it\'s a long haul,
-and if you go up and down throughout the set, you\'d get pretty beaten
-up by the end of it. In general, it doesn\'t pay to get too up or too
+of a set. They won't do it so much early on because it's a long haul,
+and if you go up and down throughout the set, you'd get pretty beaten
+up by the end of it. In general, it doesn't pay to get too up or too
 down point by point.\"
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_invisible-greatness/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_invisible-greatness/media/image8.webp)
 
-**Don\'t get too up and down - try not to feel at the end of a point.**
+**Don't get too up and down - try not to feel at the end of a point.**
 
-**\"The best tip I could ever give anybody,\" says Fox, \"is [[don\'t
+**\"The best tip I could ever give anybody,\" says Fox, \"is [[don't
 have any feeling at the end of a point]{.underline}]{.mark}, because the
 emotions that you have at the end of a point will be: you hit a great
 shot, you feel good. You hit a bad one, you feel bad.**
 
-**[\"You\'re gonna go up and down every other point. [The fact is
-you\'re gonna lose every other point against a good player]{.underline}.
-So, you\'ve gotta keep an even keel.]{.mark}**
+**[\"You're gonna go up and down every other point. [The fact is
+you're gonna lose every other point against a good player]{.underline}.
+So, you've gotta keep an even keel.]{.mark}**
 
 **[[The way you start out doing that is by not having any feeling at the
-end of a point. It\'s over. Nothing happened. No emotion. No excitement.
+end of a point. It's over. Nothing happened. No emotion. No excitement.
 Nothing negative. Just get yourself up for the next
 point.\"]{.underline}]{.mark}**
 
@@ -281,14 +273,13 @@ for part 2 and the pursuit of more invisible greatness.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                               Nate Chura is a New York tennis pro, writer, and
-  confidence](media_invisible-greatness/media/image9.jpeg){width="1.5625in"   speaker. He is the director of tennis at Onteora
-  height="1.9375in"}                                                                                                                                              Club and head tennis professional at The Heights
+  confidence](media_invisible-greatness/media/image9.jpeg)                                                                                                                                              Club and head tennis professional at The Heights
                                                                                                                                                                   Casino in Brooklyn, NY. He is a graduate of
                                                                                                                                                                   Emerson College in Boston, MA, a USPTA Elite
                                                                                                                                                                   certified tennis coach, and certified Dartfish
                                                                                                                                                                   technician. His first novel, The Man in the
-                                                                                                                                                                  Barn: Digging Up Lincoln\'s Killer, was released
-                                                                                                                                                                  on the 150th anniversary of John Wilkes Booth\'s
+                                                                                                                                                                  Barn: Digging Up Lincoln's Killer, was released
+                                                                                                                                                                  on the 150th anniversary of John Wilkes Booth's
                                                                                                                                                                   death.
   --------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------
 

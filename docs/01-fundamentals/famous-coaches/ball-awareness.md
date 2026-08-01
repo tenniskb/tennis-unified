@@ -7,8 +7,7 @@
 **Ball Awareness**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-awareness/media/image1.jpeg){width="6.5in"
-height="4.876388888888889in"}
+generated](media_ball-awareness/media/image1.jpeg)
 
 This video series opens the path to more detailed information and
 instruction that would improve your fundamentals in the game of tennis.
@@ -280,8 +279,7 @@ controllable and powerful shot.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a baseball hat Description automatically generated with low                                                                            Ean Meyer, a professional tennis coach since
-  confidence](media_ball-awareness/media/image2.png){width="1.84375in"   1987. Over the years, I've worked with every
-  height="2.4784722222222224in"}                                                                                                                            level of player from beginner to professional,
+  confidence](media_ball-awareness/media/image2.png)                                                                                                                            level of player from beginner to professional,
                                                                                                                                                             coaching tennis for over 25 years and have worked
                                                                                                                                                             with many different levels of juniors and adults.
                                                                                                                                                             In this time I have worked at high performance

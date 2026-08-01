@@ -6,8 +6,7 @@
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image1.jpg){width="2.8645833333333335in"
-                                                                                   height="2.7395833333333335in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image1.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **Between point behavior: the single most important factor in developing mental toughness.**
 
@@ -15,7 +14,7 @@
 
 Think about your last match. How did you spend most of the time? Hitting
 forehands, backhands, playing serve and volley? Actually, for the
-majority of the time, you weren\'t hitting balls at all. Only about 20%
+majority of the time, you weren't hitting balls at all. Only about 20%
 to 30% of the match time is spent in actual play. The rest of the time
 is between points and game changeovers.
 
@@ -36,8 +35,7 @@ competitive performance.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image2.jpg){width="2.8645833333333335in"
-                                                                                   height="3.1666666666666665in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     Practicing the 16 Second Cure can help you fuel your performance from your positive emotions.
 
@@ -69,8 +67,7 @@ the instant the point ends.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image3.webp){width="2.5625in"
-                                                                                   height="2.1875in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image3.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **Stage 1 is positive physical response, whether you win or lose the point.**
 
@@ -94,8 +91,7 @@ positive physical response. It lasts from 3 to 5 seconds.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A child holding a tennis racket Description automatically generated with medium
-   confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image4.webp){width="2.5104166666666665in"
-                                                                                    height="2.4270833333333335in"}
+   confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image4.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                **Stage 2 is relaxation and recovery.**
 
@@ -108,7 +104,7 @@ The player walks across the baseline. He maintains precise eye control,
 typically focusing on the strings of his racquet. He breathes deeply and
 evenly and attempts to drop his heart rate to an optimal level. During
 this stage, the player should avoid conscious thought beyond simple
-phrases such as \"relax, calm down, it\'s okay,\" and focus primarily on
+phrases such as \"relax, calm down, it's okay,\" and focus primarily on
 his breathing.
 
 If necessary, he walks back and forth behind the baseline until his
@@ -122,14 +118,13 @@ might be.
 
 Stage Three is preparation. Preparation begins as the player moves into
 position to play, either to serve or return. Frequently, the player
-signals the beginning of this stage by looking up to the opponent\'s
+signals the beginning of this stage by looking up to the opponent's
 side of the court, making a positive physical statement with his body,
-as if to say, \"I\'m going to win this point.\"
+as if to say, \"I'm going to win this point.\"
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image5.webp){width="2.6145833333333335in"
-                                                                                         height="2.3125in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image5.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                       **Stage 3 is preparation. How will play the next point?**
 
@@ -139,7 +134,7 @@ This is the time to decide how to play the next point. Where shall I
 serve? Should I serve and volley? Is there a particular strategic
 pattern I want to follow?
 
-For example, hitting to the opponent\'s weaker side or approaching the
+For example, hitting to the opponent's weaker side or approaching the
 net on the first short ball. If it is an important point, the player may
 remind himself to play aggressively. He may remind himself to stay
 positive and keep fighting.
@@ -157,8 +152,7 @@ opponent. It should take between 3 and 5 seconds to complete this stage.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person holding a tennis racket Description automatically
-   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image6.webp){width="2.6770833333333335in"
-                                                                                   height="2.0833333333333335in"}
+   generated](media_mental-toughness-training-the-16-second-cure-p1/media/image6.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               **Stage 4 is Ritual, staying relaxed and concentrated just before play.**
 
@@ -190,8 +184,7 @@ Second Cure.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image8.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                                      himself who still competes nationally in USTA
+  confidence](media_mental-toughness-training-the-16-second-cure-p1/media/image8.jpeg)                                                                                                                                                                      himself who still competes nationally in USTA
                                                                                                                                                                                                       events, Jim created the field of Mental
                                                                                                                                                                                                       Toughness training with his revolutionary study
                                                                                                                                                                                                       of elite pro players. He has been one of the

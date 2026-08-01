@@ -6,15 +6,15 @@
 
 SỔ TAY HUẤN LUYỆN SINH CƠ HỌC TOÀN DIỆN
 
-+-----------------------------------------------------------------------+
-| **Tác giả: Henry Pham (Phạm Đức Hải)**                                |
-|                                                                       |
-| Tổ chức: Tennis Future Lab                                            |
-|                                                                       |
-| Phiên bản: 2026 Edition                                               |
-|                                                                       |
+| **Tác giả: Henry Pham (Phạm Đức Hải)** |
+| --- |
+|  |
+| Tổ chức: Tennis Future Lab |
+|  |
+| Phiên bản: 2026 Edition |
+|  |
 | *Triết lý: Zero-Footprint Personalization & Biomechanical Efficiency* |
-+-----------------------------------------------------------------------+
+
 
 *\"Trong kỷ nguyên 2026, vô địch không đến từ cơ bắp---*
 
@@ -95,23 +95,23 @@ Mỗi chương được cấu trúc theo ba tầng lớp:
 3.  TẦNG ĐỊNH LƯỢNG: Chỉ số KPI (Key Performance Indicators) với ngưỡng
     Elite rõ ràng và các bài tập để đạt được ngưỡng đó.
 
-+-----------------------------------------------------------------------+
-| **MỤC TIÊU SỬ DỤNG TÀI LIỆU NÀY**                                     |
-|                                                                       |
+| **MỤC TIÊU SỬ DỤNG TÀI LIỆU NÀY** |
+| --- |
+|  |
 | - Đọc từng chương theo thứ tự để xây dựng nền tảng kiến thức tuần tự. |
-|                                                                       |
-| - Chú ý đặc biệt đến các hộp công thức---đây là cốt lõi của mọi giải  |
-|   thích.                                                              |
-|                                                                       |
-| - Áp dụng các bài tập kiểm tra định lượng để đo lường tiến bộ thực    |
-|   tế.                                                                 |
-|                                                                       |
-| - Quay lại chương 10 sau khi đã nắm vững 9 chương đầu để tích hợp AI  |
-|   vào quy trình tập luyện.                                            |
-|                                                                       |
-| - Sử dụng bảng tra cứu chỉ số Elite ở phụ lục như một bảng dashboard  |
-|   cá nhân.                                                            |
-+-----------------------------------------------------------------------+
+|  |
+| - Chú ý đặc biệt đến các hộp công thức---đây là cốt lõi của mọi giải |
+| thích. |
+|  |
+| - Áp dụng các bài tập kiểm tra định lượng để đo lường tiến bộ thực |
+| tế. |
+|  |
+| - Quay lại chương 10 sau khi đã nắm vững 9 chương đầu để tích hợp AI |
+| vào quy trình tập luyện. |
+|  |
+| - Sử dụng bảng tra cứu chỉ số Elite ở phụ lục như một bảng dashboard |
+| cá nhân. |
+
 
 **CHƯƠNG 1: DÒNG CHẢY NĂNG LƯỢNG ĐỘNG (DYNAMIC ENERGY TRANSFER ---
 DET)**
@@ -137,15 +137,15 @@ lượng.
 
 **【 CÔNG THỨC GỐC --- TÍCH PHÂN 】**
 
-+-----------------------------------------------------------------------+
-| **Phương trình DET đầy đủ:**                                          |
-|                                                                       |
-| **E_DET = INT\[t0 to tf\] \[ F(t)\*v(t) + V_skin(t)\*I_skin(t) +      |
-| p(t)\*A(t) \] dt**                                                    |
-|                                                                       |
-| *Trong đó tích phân cộng dồn theo thời gian từ t₀ (bắt đầu vung) đến  |
-| tₓ (hoàn thành cú đánh)*                                              |
-+-----------------------------------------------------------------------+
+| **Phương trình DET đầy đủ:** |
+| --- |
+|  |
+| **E_DET = INT\[t0 to tf\] \[ F(t)\*v(t) + V_skin(t)\*I_skin(t) + |
+| p(t)\*A(t) \] dt** |
+|  |
+| *Trong đó tích phân cộng dồn theo thời gian từ t₀ (bắt đầu vung) đến |
+| tₓ (hoàn thành cú đánh)* |
+
 
 **1.2.1. Giải Mã Ba Kênh Năng Lượng**
 
@@ -209,14 +209,14 @@ thời:
 
 **【 DẠNG RÚT GỌN 】**
 
-+-----------------------------------------------------------------------+
-| **Công thức DET đơn giản hóa:**                                       |
-|                                                                       |
-| **E_tong = F_co_bap + I_than_kinh + GRF_dat**                         |
-|                                                                       |
+| **Công thức DET đơn giản hóa:** |
+| --- |
+|  |
+| **E_tong = F_co_bap + I_than_kinh + GRF_dat** |
+|  |
 | *Năng lượng tổng = Sức mạnh cơ bắp + Tín hiệu thần kinh + Áp lực tiếp |
-| đất*                                                                  |
-+-----------------------------------------------------------------------+
+| đất* |
+
 
 Mô hình tương tự dễ nhớ: Hãy tưởng tượng bạn là một chiếc xe điện cao
 cấp.
@@ -239,14 +239,14 @@ bóng đi rất nhẹ: năng lượng bị rò rỉ tại các \"khớp lỏng\"
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Phương trình rò rỉ:**                                               |
-|                                                                       |
-| **E_output = E_input × e**                                            |
-|                                                                       |
-| *Trong đó: e = hệ số hiệu suất (0 \< e ≤ 1). Tay vợt Elite cần đạt e  |
-| ≥ 0.92 (92%)*                                                         |
-+-----------------------------------------------------------------------+
+| **Phương trình rò rỉ:** |
+| --- |
+|  |
+| **E_output = E_input × e** |
+|  |
+| *Trong đó: e = hệ số hiệu suất (0 \< e ≤ 1). Tay vợt Elite cần đạt e |
+| ≥ 0.92 (92%)* |
+
 
 **1.4.1. Ba Điểm Rò Rỉ Phổ Biến Nhất**
 
@@ -292,13 +292,13 @@ thái trong khoảng 5 mili-giây:
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Phương trình lực đàn hồi mạc:**                                     |
-|                                                                       |
-| **E_stored = (1/2) \* k \* (Δx)²**                                    |
-|                                                                       |
+| **Phương trình lực đàn hồi mạc:** |
+| --- |
+|  |
+| **E_stored = (1/2) \* k \* (Δx)²** |
+|  |
 | *k = độ cứng hệ mạc; Δx = biên độ kéo dãn (vuông nên tăng phi tuyến)* |
-+-----------------------------------------------------------------------+
+
 
 Điểm mấu chốt của công thức này nằm ở số mũ bình phương (Δx²). Khi bạn
 kéo dãn hệ mạc gấp đôi, năng lượng tích lũy tăng lên bốn lần---không
@@ -347,13 +347,13 @@ vào lưới hoặc ra ngoài dù người chơi vung vợt rất mạnh.
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Chỉ số đồng bộ hóa thần kinh:**                                     |
-|                                                                       |
-| **σ_sync = Σ(Joint_Timing) / Total_Links**                            |
-|                                                                       |
-| *σ_sync ≥ 0.92 = trạng thái Flow State (Dòng chảy Elite)*             |
-+-----------------------------------------------------------------------+
+| **Chỉ số đồng bộ hóa thần kinh:** |
+| --- |
+|  |
+| **σ_sync = Σ(Joint_Timing) / Total_Links** |
+|  |
+| *σ_sync ≥ 0.92 = trạng thái Flow State (Dòng chảy Elite)* |
+
 
 Mỗi khớp trong chuỗi vận động được đánh giá về thời điểm kích hoạt
 (activation timing). Công thức tính giá trị trung bình của sự ăn khớp
@@ -391,13 +391,13 @@ Nếu bất kỳ bước nào bị đảo thứ tự---ví dụ vai mở trướ
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Lực thực tế có độ trễ sinh lý:**                                    |
-|                                                                       |
-| **F_actual(t) = F_neural(t - Δt_EMD)**                                |
-|                                                                       |
-| *Δt_EMD ≈ 50ms (khoảng trễ điện cơ tiêu chuẩn)*                       |
-+-----------------------------------------------------------------------+
+| **Lực thực tế có độ trễ sinh lý:** |
+| --- |
+|  |
+| **F_actual(t) = F_neural(t - Δt_EMD)** |
+|  |
+| *Δt_EMD ≈ 50ms (khoảng trễ điện cơ tiêu chuẩn)* |
+
 
 Não bộ phát lệnh, nhưng cần khoảng 50 mili-giây để tín hiệu điện đi từ
 vỏ não vận động (motor cortex) đến cơ bắp, và cơ bắp thực sự bắt đầu co
@@ -419,14 +419,14 @@ có thể rút ngắn qua tập luyện.
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Mô hình chuỗi sóng kích hoạt:**                                     |
-|                                                                       |
-| **N_total(t) = Σ_i \[ A_i \* exp(-(t - t_i)² / (2\*σ_i²)) \]**        |
-|                                                                       |
-| *Mỗi đường cong Gaussian đại diện cho một phân đoạn cơ thể kích hoạt  |
-| và tắt theo nhịp*                                                     |
-+-----------------------------------------------------------------------+
+| **Mô hình chuỗi sóng kích hoạt:** |
+| --- |
+|  |
+| **N_total(t) = Σ_i \[ A_i \* exp(-(t - t_i)² / (2\*σ_i²)) \]** |
+|  |
+| *Mỗi đường cong Gaussian đại diện cho một phân đoạn cơ thể kích hoạt |
+| và tắt theo nhịp* |
+
 
 Phương trình này cho thấy một cú đánh hoàn hảo không phải là tất cả các
 cơ bắp bùng nổ cùng một lúc---đó là một chuỗi sóng tuần tự như một bản
@@ -464,24 +464,24 @@ lý. Cách duy nhất để \"nhanh hơn\" là GIẢM THỜI GIAN XỬ LÝ bằn
 động hóa pattern vận động đến mức phản xạ---não bộ không cần \"suy
 nghĩ\" nữa, cơ thể tự phản ứng theo pattern đã được lập trình.
 
-+-----------------------------------------------------------------------+
-| **QUY TRÌNH TỰ ĐỘNG HÓA PATTERN VẬN ĐỘNG**                            |
-|                                                                       |
-| - Giai đoạn 1 (Nhận thức): Người học phải tập trung có ý thức vào     |
-|   từng chi tiết kỹ thuật.                                             |
-|                                                                       |
-| - Giai đoạn 2 (Liên kết): Pattern bắt đầu được não bộ lưu trữ trong   |
-|   bộ nhớ cơ (procedural memory).                                      |
-|                                                                       |
-| - Giai đoạn 3 (Tự động hóa): Chuyển động trở thành phản xạ---thực     |
-|   hiện chính xác mà không cần suy nghĩ.                               |
-|                                                                       |
-| - Thời gian cần thiết: Trung bình 10,000-50,000 lần lặp lại đúng kỹ   |
-|   thuật để đạt tự động hóa hoàn toàn.                                 |
-|                                                                       |
-| - Cảnh báo: 1 lần lặp sai có thể tạo ra \'bad groove\' cần 5-10 lần   |
-|   lặp đúng để xóa bỏ.                                                 |
-+-----------------------------------------------------------------------+
+| **QUY TRÌNH TỰ ĐỘNG HÓA PATTERN VẬN ĐỘNG** |
+| --- |
+|  |
+| - Giai đoạn 1 (Nhận thức): Người học phải tập trung có ý thức vào |
+| từng chi tiết kỹ thuật. |
+|  |
+| - Giai đoạn 2 (Liên kết): Pattern bắt đầu được não bộ lưu trữ trong |
+| bộ nhớ cơ (procedural memory). |
+|  |
+| - Giai đoạn 3 (Tự động hóa): Chuyển động trở thành phản xạ---thực |
+| hiện chính xác mà không cần suy nghĩ. |
+|  |
+| - Thời gian cần thiết: Trung bình 10,000-50,000 lần lặp lại đúng kỹ |
+| thuật để đạt tự động hóa hoàn toàn. |
+|  |
+| - Cảnh báo: 1 lần lặp sai có thể tạo ra 'bad groove' cần 5-10 lần |
+| lặp đúng để xóa bỏ. |
+
 
 **CHƯƠNG 3: VỢT TRỌNG LƯỢNG NẶNG & CHỈ SỐ DIT**
 
@@ -491,14 +491,14 @@ nghĩ\" nữa, cơ thể tự phản ứng theo pattern đã được lập trì
 
 **【 CÔNG THỨC GỐC --- TÍCH PHÂN 】**
 
-+-----------------------------------------------------------------------+
-| **Mô-men quán tính của vợt:**                                         |
-|                                                                       |
-| **I_racket = INT\[0 to L\] ρ(x) \* x² dx**                            |
-|                                                                       |
-| *ρ(x) = mật độ khối lượng tại vị trí x; x = khoảng cách từ tay cầm    |
-| đến điểm đó*                                                          |
-+-----------------------------------------------------------------------+
+| **Mô-men quán tính của vợt:** |
+| --- |
+|  |
+| **I_racket = INT\[0 to L\] ρ(x) \* x² dx** |
+|  |
+| *ρ(x) = mật độ khối lượng tại vị trí x; x = khoảng cách từ tay cầm |
+| đến điểm đó* |
+
 
 Đây là công thức nền tảng để tính Swing Weight---thứ quyết định \"cảm
 giác\" nặng nhẹ của vợt khi vung. Điểm then chốt nằm ở biến số x². Khi x
@@ -510,14 +510,14 @@ cầm (x nhỏ).
 
 Mỗi khi dán thêm m gram chì tại vị trí x, mô-men quán tính tăng thêm:
 
-+-----------------------------------------------------------------------+
-| **Công thức tăng mô-men:**                                            |
-|                                                                       |
-| **ΔI = m \* x²**                                                      |
-|                                                                       |
-| *5g chì ở đỉnh vợt (x = 65cm) tạo ΔI = 5 × 0.65² = 2.11 kg·cm² ---    |
-| lớn hơn rất nhiều so với cùng 5g ở cổ vợt*                            |
-+-----------------------------------------------------------------------+
+| **Công thức tăng mô-men:** |
+| --- |
+|  |
+| **ΔI = m \* x²** |
+|  |
+| *5g chì ở đỉnh vợt (x = 65cm) tạo ΔI = 5 × 0.65² = 2.11 kg·cm² --- |
+| lớn hơn rất nhiều so với cùng 5g ở cổ vợt* |
+
 
   ---------------------- ------------------------------------------------
   **Vị Trí Dán Chì**     **Ảnh Hưởng**
@@ -542,14 +542,14 @@ Mỗi khi dán thêm m gram chì tại vị trí x, mô-men quán tính tăng th
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Bảo toàn khối lượng vợt:**                                          |
-|                                                                       |
-| **m_handle = m_total - m_head**                                       |
-|                                                                       |
-| *Tổng khối lượng cố định; dịch chuyển khối lượng = dịch chuyển điểm   |
-| cân bằng*                                                             |
-+-----------------------------------------------------------------------+
+| **Bảo toàn khối lượng vợt:** |
+| --- |
+|  |
+| **m_handle = m_total - m_head** |
+|  |
+| *Tổng khối lượng cố định; dịch chuyển khối lượng = dịch chuyển điểm |
+| cân bằng* |
+
 
 Đây là nguyên lý \"ngân sách trọng lượng\". Mỗi tay vợt nhận một cây vợt
 với m_total cố định (thường 300-340g cho vợt trọng lượng nặng). Nghệ
@@ -571,14 +571,14 @@ thế nào:
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Chỉ số DIT (Dynamic Inertia Transfer):**                            |
-|                                                                       |
-| **DIT = (I_racket × v_racket) / M_player**                            |
-|                                                                       |
-| *Đo lường hiệu quả truyền mô-men động lượng của vợt vào bóng, chuẩn   |
-| hóa theo trọng lượng người chơi*                                      |
-+-----------------------------------------------------------------------+
+| **Chỉ số DIT (Dynamic Inertia Transfer):** |
+| --- |
+|  |
+| **DIT = (I_racket × v_racket) / M_player** |
+|  |
+| *Đo lường hiệu quả truyền mô-men động lượng của vợt vào bóng, chuẩn |
+| hóa theo trọng lượng người chơi* |
+
 
 DIT cao không chỉ đến từ vợt nặng---nó đến từ sự kết hợp của vợt nặng
 (I_racket cao) VÀ tốc độ vung cao (v_racket cao), tất cả được thực hiện
@@ -606,22 +606,22 @@ vợt*
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Bảo toàn mô-men động lượng:**                                       |
-|                                                                       |
-| **L_truoc = L_sau**                                                   |
-|                                                                       |
-| *I_racket \* ω_pre = I_racket \* ω_post + ΔL_co*                      |
-+-----------------------------------------------------------------------+
+| **Bảo toàn mô-men động lượng:** |
+| --- |
+|  |
+| **L_truoc = L_sau** |
+|  |
+| *I_racket \* ω_pre = I_racket \* ω_post + ΔL_co* |
 
-+-----------------------------------------------------------------------+
-| **Lực hãm phanh cơ thể phải chịu:**                                   |
-|                                                                       |
-| **ΔL_co = I_racket \* (ω_pre - ω_post)**                              |
-|                                                                       |
+
+| **Lực hãm phanh cơ thể phải chịu:** |
+| --- |
+|  |
+| **ΔL_co = I_racket \* (ω_pre - ω_post)** |
+|  |
 | *Càng đột ngột dừng vợt (hiệu số ω lớn), hoặc vợt càng nặng (I lớn) → |
-| cơ thể chịu lực xé càng lớn*                                          |
-+-----------------------------------------------------------------------+
+| cơ thể chịu lực xé càng lớn* |
+
 
 Sau khi bóng rời khỏi dây, vợt phải được hãm dần trong giai đoạn
 follow-through. Nếu cấu trúc cơ thể (hệ mạc, gân, khớp) không đủ vững,
@@ -632,13 +632,13 @@ tay (Tennis Elbow) hoặc chóp xoay vai (Rotator Cuff).
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Lực thẳng đứng khi nhảy phát bóng:**                                |
-|                                                                       |
-| **F_v = m\*g + m\*a_jump**                                            |
-|                                                                       |
-| *Ngưỡng Elite: F_v ≥ 2.5 × m\*g (2.5 lần trọng lượng cơ thể)*         |
-+-----------------------------------------------------------------------+
+| **Lực thẳng đứng khi nhảy phát bóng:** |
+| --- |
+|  |
+| **F_v = m\*g + m\*a_jump** |
+|  |
+| *Ngưỡng Elite: F_v ≥ 2.5 × m\*g (2.5 lần trọng lượng cơ thể)* |
+
 
 Mọi cú giao bóng mạnh trên 200 km/h đều bắt đầu từ đây---đôi chân đạp
 xuống sân với lực gấp 2.5 lần trọng lượng cơ thể. Một người nặng 80kg
@@ -677,23 +677,23 @@ sự của tốc độ serve.
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Mô-men xoắn (Torque) --- lực dội:**                                 |
-|                                                                       |
-| **τ = F × L_lever**                                                   |
-|                                                                       |
-| *τ = mô-men xoắn (lực vặn); F = lực va chạm của bóng; L_lever =       |
-| khoảng cách từ tay đến điểm chạm bóng*                                |
-+-----------------------------------------------------------------------+
+| **Mô-men xoắn (Torque) --- lực dội:** |
+| --- |
+|  |
+| **τ = F × L_lever** |
+|  |
+| *τ = mô-men xoắn (lực vặn); F = lực va chạm của bóng; L_lever = |
+| khoảng cách từ tay đến điểm chạm bóng* |
 
-+-----------------------------------------------------------------------+
-| **Lực phát ra (góc nhìn tấn công):**                                  |
-|                                                                       |
-| **F = τ / L_lever**                                                   |
-|                                                                       |
-| *Để tạo lực lớn ở điểm tiếp xúc xa (L_lever lớn), cần mô-men xoắn τ   |
-| từ những cơ lớn nhất*                                                 |
-+-----------------------------------------------------------------------+
+
+| **Lực phát ra (góc nhìn tấn công):** |
+| --- |
+|  |
+| **F = τ / L_lever** |
+|  |
+| *Để tạo lực lớn ở điểm tiếp xúc xa (L_lever lớn), cần mô-men xoắn τ |
+| từ những cơ lớn nhất* |
+
 
 Đây là nguyên lý đòn bẩy ứng dụng vào tennis. Cùng một lực va chạm F từ
 bóng, nhưng nếu điểm chạm lệch ra khỏi Sweet Spot và đến gần đỉnh vợt
@@ -714,14 +714,14 @@ bóng, nhưng nếu điểm chạm lệch ra khỏi Sweet Spot và đến gần 
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Chỉ số độ cứng cấu trúc cổ tay:**                                   |
-|                                                                       |
-| **K_wrist = ΔF / Δθ ≥ 0.85**                                          |
-|                                                                       |
-| *ΔF = biến thiên lực va chạm; Δθ = độ biến dạng góc cổ tay; Ngưỡng    |
-| Elite: K ≥ 0.85*                                                      |
-+-----------------------------------------------------------------------+
+| **Chỉ số độ cứng cấu trúc cổ tay:** |
+| --- |
+|  |
+| **K_wrist = ΔF / Δθ ≥ 0.85** |
+|  |
+| *ΔF = biến thiên lực va chạm; Δθ = độ biến dạng góc cổ tay; Ngưỡng |
+| Elite: K ≥ 0.85* |
+
 
 Đây là một trong những phương trình quan trọng nhất cho sức khỏe lâu dài
 của tay vợt. K_wrist đo lường khả năng cổ tay duy trì góc định hình dưới
@@ -763,14 +763,14 @@ nghĩa là toàn bộ lực va chạm không đi thẳng vào bóng mà bị l�
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Độ cứng vật liệu dây vợt:**                                         |
-|                                                                       |
-| **k = (E × A) / L_deflection**                                        |
-|                                                                       |
-| *E = suất đàn hồi Young\'s Modulus; A = tiết diện dây; L = chiều dài  |
-| đoạn biến dạng*                                                       |
-+-----------------------------------------------------------------------+
+| **Độ cứng vật liệu dây vợt:** |
+| --- |
+|  |
+| **k = (E × A) / L_deflection** |
+|  |
+| *E = suất đàn hồi Young's Modulus; A = tiết diện dây; L = chiều dài |
+| đoạn biến dạng* |
+
 
   ---------------------- ------------------------------------------------
   **Loại Dây**           **Đặc Tính & Ứng Dụng**
@@ -801,23 +801,23 @@ nghĩa là toàn bộ lực va chạm không đi thẳng vào bóng mà bị l�
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Thế năng đàn hồi tích lũy:**                                        |
-|                                                                       |
-| **E_stored = (1/2) \* k \* Δx²**                                      |
-|                                                                       |
-| *k = độ cứng hệ mạc/cơ; Δx = biên độ kéo dãn; Số mũ 2 → tăng phi      |
-| tuyến*                                                                |
-+-----------------------------------------------------------------------+
+| **Thế năng đàn hồi tích lũy:** |
+| --- |
+|  |
+| **E_stored = (1/2) \* k \* Δx²** |
+|  |
+| *k = độ cứng hệ mạc/cơ; Δx = biên độ kéo dãn; Số mũ 2 → tăng phi |
+| tuyến* |
 
-+-----------------------------------------------------------------------+
-| **Năng lượng thực tế giải phóng:**                                    |
-|                                                                       |
-| **E_released = e \* E_stored**                                        |
-|                                                                       |
+
+| **Năng lượng thực tế giải phóng:** |
+| --- |
+|  |
+| **E_released = e \* E_stored** |
+|  |
 | *e = hệ số hiệu suất đàn hồi (0 \< e \< 1). Thả lỏng đúng cách giúp e |
-| tiến gần 1.0*                                                         |
-+-----------------------------------------------------------------------+
+| tiến gần 1.0* |
+
 
 SSC là cơ chế sinh lý nền tảng giải thích tại sao cú đánh của các vận
 động viên Elite trông \"nhàn nhã\" nhưng lại có lực kinh khủng. Họ không
@@ -837,24 +837,24 @@ SSC là cơ chế sinh lý nền tảng giải thích tại sao cú đánh của
   truyền E_released vào đầu vợt. Không cần dùng sức cơ bắp chủ động ---
   năng lượng đã được tích lũy trước đó.
 
-+-----------------------------------------------------------------------+
-| **BÍ MẬT CỦA SỰ THẢ LỎNG (RELAXATION / TÙNG)**                        |
-|                                                                       |
-| - Trong Thái Cực Quyền và nhiều hệ phái nội gia, \'Tùng\' là nguyên   |
-|   tắc tối cao --- thả lỏng hoàn toàn để lực có thể lưu thông không bị |
-|   cản trở.                                                            |
-|                                                                       |
-| - Trong tennis, điều này tương đương với việc giảm trương lực cơ nền  |
-|   (baseline muscle tone) xuống mức tối thiểu ở giai đoạn lag, để hệ   |
-|   mạc có thể tích lũy thế năng tối đa.                                |
-|                                                                       |
+| **BÍ MẬT CỦA SỰ THẢ LỎNG (RELAXATION / TÙNG)** |
+| --- |
+|  |
+| - Trong Thái Cực Quyền và nhiều hệ phái nội gia, 'Tùng' là nguyên |
+| tắc tối cao --- thả lỏng hoàn toàn để lực có thể lưu thông không bị |
+| cản trở. |
+|  |
+| - Trong tennis, điều này tương đương với việc giảm trương lực cơ nền |
+| (baseline muscle tone) xuống mức tối thiểu ở giai đoạn lag, để hệ |
+| mạc có thể tích lũy thế năng tối đa. |
+|  |
 | - Sự căng cứng không cần thiết làm tăng lực ma sát nội bộ, giảm hệ số |
-|   e, và biến thế năng đàn hồi thành nhiệt thay vì động năng.          |
-|                                                                       |
-| - Bài tập kiểm tra: Nếu sau khi tập 1 tiếng mà cánh tay bạn cảm thấy  |
-|   mệt và đau nhức, đó là dấu hiệu bạn đang dùng cơ bắp thay vì hệ     |
-|   mạc.                                                                |
-+-----------------------------------------------------------------------+
+| e, và biến thế năng đàn hồi thành nhiệt thay vì động năng. |
+|  |
+| - Bài tập kiểm tra: Nếu sau khi tập 1 tiếng mà cánh tay bạn cảm thấy |
+| mệt và đau nhức, đó là dấu hiệu bạn đang dùng cơ bắp thay vì hệ |
+| mạc. |
+
 
 **CHƯƠNG 7: BỘ PHÁP & DI CHUYỂN --- NỀN TẢNG ĐỘNG LỰC (KINETIC
 FOUNDATION)**
@@ -865,15 +865,15 @@ FOUNDATION)**
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Hiệu suất di chuyển tổng hợp:**                                     |
-|                                                                       |
-| **Performance_move = (I_CM / m_player) × e\^(-λ\*Δθ_slide) ×          |
-| S_gravity**                                                           |
-|                                                                       |
+| **Hiệu suất di chuyển tổng hợp:** |
+| --- |
+|  |
+| **Performance_move = (I_CM / m_player) × e\^(-λ\*Δθ_slide) × |
+| S_gravity** |
+|  |
 | *Ba khối nhân với nhau --- nếu bất kỳ khối nào = 0, toàn bộ hiệu suất |
-| = 0*                                                                  |
-+-----------------------------------------------------------------------+
+| = 0* |
+
 
 Đây là phương trình mô tả hoàn chỉnh lý do tại sao Djokovic và Alcaraz
 có thể cứu những quả bóng không tưởng rồi ngay lập tức phản công sấm
@@ -901,14 +901,14 @@ chuyển. Điều này không liên quan đến trọng lượng (m_player) mà 
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Dynamic Stability Index:**                                          |
-|                                                                       |
-| **DSI = e\^(-λ \* Δθ_slide)**                                         |
-|                                                                       |
+| **Dynamic Stability Index:** |
+| --- |
+|  |
+| **DSI = e\^(-λ \* Δθ_slide)** |
+|  |
 | *λ = μ / 0.5 (μ = hệ số ma sát mặt sân); Δθ_slide = góc lệch trục khi |
-| trượt*                                                                |
-+-----------------------------------------------------------------------+
+| trượt* |
+
 
 Hàm số mũ âm e\^(-x) là yếu tố tàn nhẫn nhất trong toán học thể thao.
 Hiệu suất không giảm từ từ---nó sụp đổ theo cấp số nhân khi góc lệch
@@ -952,14 +952,14 @@ bằng cách thay đổi μ (không thể). Quy trình:
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Hệ số mượn lực trọng trường (GSM):**                                |
-|                                                                       |
-| **S_gravity = 1 + α \* (h_drop / h_player)**                          |
-|                                                                       |
-| *h_drop = độ rơi trọng tâm; h_player = chiều cao cơ thể; α = hệ số    |
-| chuyển hóa fascia*                                                    |
-+-----------------------------------------------------------------------+
+| **Hệ số mượn lực trọng trường (GSM):** |
+| --- |
+|  |
+| **S_gravity = 1 + α \* (h_drop / h_player)** |
+|  |
+| *h_drop = độ rơi trọng tâm; h_player = chiều cao cơ thể; α = hệ số |
+| chuyển hóa fascia* |
+
 
 Đây là cơ sở khoa học của Split-step và khái niệm \"Trầm\" (Sinking)
 trong võ thuật. Sức bật bùng nổ không đến hoàn toàn từ cơ bắp chủ
@@ -988,14 +988,14 @@ trong võ thuật. Sức bật bùng nổ không đến hoàn toàn từ cơ b�
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Xác suất lỗi tại tọa độ (x,y):**                                    |
-|                                                                       |
-| **P_error(x,y) = N_error(x,y) / N_total(x,y)**                        |
-|                                                                       |
+| **Xác suất lỗi tại tọa độ (x,y):** |
+| --- |
+|  |
+| **P_error(x,y) = N_error(x,y) / N_total(x,y)** |
+|  |
 | *N_error = số lần đánh hỏng tại tọa độ đó; N_total = tổng số lần thực |
-| hiện tại tọa độ đó*                                                   |
-+-----------------------------------------------------------------------+
+| hiện tại tọa độ đó* |
+
 
 Đây là công thức toán học đằng sau các Heatmaps (Bản đồ nhiệt) mà bạn
 thấy trong các giải Grand Slam. Thay vì chơi theo cảm giác, bạn chơi
@@ -1022,39 +1022,39 @@ theo xác suất thực tế.
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Dynamic Stability Index tổng quát:**                                |
-|                                                                       |
-| **DSI = e\^(-λ \* Δθ_slide)**                                         |
-|                                                                       |
-| *Xem chi tiết tại Chương 7.3 --- áp dụng cho cả di chuyển và tư thế   |
-| đánh bóng*                                                            |
-+-----------------------------------------------------------------------+
+| **Dynamic Stability Index tổng quát:** |
+| --- |
+|  |
+| **DSI = e\^(-λ \* Δθ_slide)** |
+|  |
+| *Xem chi tiết tại Chương 7.3 --- áp dụng cho cả di chuyển và tư thế |
+| đánh bóng* |
+
 
 **8.3. Hệ Số Mượn Lực Trọng Trường --- S_gravity**
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Gravity Shift Multiplier:**                                         |
-|                                                                       |
-| **S_gravity = 1 + α \* (h_drop / h_player)**                          |
-|                                                                       |
-| *Xem chi tiết tại Chương 7.4*                                         |
-+-----------------------------------------------------------------------+
+| **Gravity Shift Multiplier:** |
+| --- |
+|  |
+| **S_gravity = 1 + α \* (h_drop / h_player)** |
+|  |
+| *Xem chi tiết tại Chương 7.4* |
+
 
 **8.4. Chỉ Số Aggressiveness --- Độ Nặng Bóng**
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **A_heavy --- Độ nguy hiểm của cú đánh:**                             |
-|                                                                       |
-| **A_heavy = v_ground × ω_torso × M_ball**                             |
-|                                                                       |
-| *Dấu NHÂN --- nếu bất kỳ biến nào = 0, A_heavy = 0 dù các biến khác   |
-| cao bao nhiêu*                                                        |
-+-----------------------------------------------------------------------+
+| **A_heavy --- Độ nguy hiểm của cú đánh:** |
+| --- |
+|  |
+| **A_heavy = v_ground × ω_torso × M_ball** |
+|  |
+| *Dấu NHÂN --- nếu bất kỳ biến nào = 0, A_heavy = 0 dù các biến khác |
+| cao bao nhiêu* |
+
 
 Đây là phương trình định lượng khái niệm \"bóng nặng\" --- thứ khiến đối
 thủ phải lùi xa baseline và khó đánh lại. Điều quan trọng nhất là các
@@ -1080,14 +1080,14 @@ dấu nhân: đây không phải là phép cộng.
 
 **【 CÔNG THỨC ĐƠN GIẢN HÓA 】**
 
-+-----------------------------------------------------------------------+
-| **Chỉ số sẵn sàng thi đấu:**                                          |
-|                                                                       |
-| **Readiness = (Ngủ_sâu + Dinh_dưỡng) - Áp_lực_tích_lũy**              |
-|                                                                       |
-| *Giá trị cao → tập luyện cường độ cao; Giá trị thấp → phục hồi là ưu  |
-| tiên hàng đầu*                                                        |
-+-----------------------------------------------------------------------+
+| **Chỉ số sẵn sàng thi đấu:** |
+| --- |
+|  |
+| **Readiness = (Ngủ_sâu + Dinh_dưỡng) - Áp_lực_tích_lũy** |
+|  |
+| *Giá trị cao → tập luyện cường độ cao; Giá trị thấp → phục hồi là ưu |
+| tiên hàng đầu* |
+
 
 **9.1.1. Ba Trụ Cột Hồi Phục**
 
@@ -1134,14 +1134,14 @@ về mức 0.92. Quy trình Neuro-Reset 10-15 giây:
 
 **【 CÔNG THỨC ĐƠN GIẢN HÓA 】**
 
-+-----------------------------------------------------------------------+
-| **Hiệu suất thực tế với AI hỗ trợ:**                                  |
-|                                                                       |
-| **E_meta = Kỹ_năng_bản_thân × Sự_hỗ_trợ_của_AI**                      |
-|                                                                       |
-| *Dấu NHÂN: AI không thể bù đắp kỹ năng thực sự --- nó chỉ có thể      |
-| khuếch đại những gì đã có*                                            |
-+-----------------------------------------------------------------------+
+| **Hiệu suất thực tế với AI hỗ trợ:** |
+| --- |
+|  |
+| **E_meta = Kỹ_năng_bản_thân × Sự_hỗ_trợ_của_AI** |
+|  |
+| *Dấu NHÂN: AI không thể bù đắp kỹ năng thực sự --- nó chỉ có thể |
+| khuếch đại những gì đã có* |
+
 
 Hệ sinh thái AI Siêu Agent không thay thế việc tập luyện thể chất. Nó là
 người đồng hành thông minh giúp bạn đưa ra quyết định tốt hơn dựa trên
@@ -1179,7 +1179,7 @@ dữ liệu thực tế, thay vì dựa trên cảm giác hoặc thói quen.
 
 37. GIAI ĐOẠN 1 --- Thu thập dữ liệu cơ bản: Sử dụng camera góc rộng để
     ghi lại tất cả các buổi tập. Upload lên phần mềm phân tích (Swing
-    Vision, PlaySight, hoặc Coach\'s Eye). Bắt đầu xây dựng cơ sở dữ
+    Vision, PlaySight, hoặc Coach's Eye). Bắt đầu xây dựng cơ sở dữ
     liệu kỹ thuật cá nhân.
 
 38. GIAI ĐOẠN 2 --- Phân tích pattern: Sau 4 tuần dữ liệu, phân tích
@@ -1206,14 +1206,14 @@ dữ liệu thực tế, thay vì dựa trên cảm giác hoặc thói quen.
 
 **【 CÔNG THỨC ĐƠN GIẢN HÓA 】**
 
-+-----------------------------------------------------------------------+
-| **Gia tốc vút đầu vợt:**                                              |
-|                                                                       |
-| **α_whip = ω_shoulder / t_explosion**                                 |
-|                                                                       |
-| *t_explosion ≈ 25ms --- thời gian bùng nổ cực ngắn; nếu gồng cứng, t  |
-| tăng và α giảm*                                                       |
-+-----------------------------------------------------------------------+
+| **Gia tốc vút đầu vợt:** |
+| --- |
+|  |
+| **α_whip = ω_shoulder / t_explosion** |
+|  |
+| *t_explosion ≈ 25ms --- thời gian bùng nổ cực ngắn; nếu gồng cứng, t |
+| tăng và α giảm* |
+
 
 Cú vút đầu vợt (whip) xảy ra trong khoảng 25 mili-giây --- chưa đến một
 phần ba mươi lăm của một cái chớp mắt. Để tối đa hóa gia tốc trong
@@ -1236,14 +1236,14 @@ khoảng thời gian cực ngắn này:
 
 **【 CÔNG THỨC GỐC 】**
 
-+-----------------------------------------------------------------------+
-| **Lực đàn hồi hệ mạc:**                                               |
-|                                                                       |
-| **F_elastic = k_fascia × Δx**                                         |
-|                                                                       |
-| *k_fascia = độ cứng (tăng qua tập luyện); Δx = biên độ kéo dãn của    |
-| chuỗi mạc*                                                            |
-+-----------------------------------------------------------------------+
+| **Lực đàn hồi hệ mạc:** |
+| --- |
+|  |
+| **F_elastic = k_fascia × Δx** |
+|  |
+| *k_fascia = độ cứng (tăng qua tập luyện); Δx = biên độ kéo dãn của |
+| chuỗi mạc* |
+
 
 Hệ mạc có thể được rèn luyện để tăng cả k_fascia (độ cứng) lẫn Δx (biên
 độ hoạt động). Điều này có nghĩa là bạn có thể phát lực lớn hơn mà không
@@ -1432,24 +1432,24 @@ liên tục:
                         theo người)            
   --------------------- ---------------------- ---------------------------
 
-+-----------------------------------------------------------------------+
-| **LỜI KẾT --- TỪ CẨM NANG ĐẾN THỰC CHIẾN**                            |
-|                                                                       |
-| - Kiến thức trong cuốn sách này chỉ có giá trị khi được áp dụng liên  |
-|   tục và có hệ thống trên sân tập.                                    |
-|                                                                       |
+| **LỜI KẾT --- TỪ CẨM NANG ĐẾN THỰC CHIẾN** |
+| --- |
+|  |
+| - Kiến thức trong cuốn sách này chỉ có giá trị khi được áp dụng liên |
+| tục và có hệ thống trên sân tập. |
+|  |
 | - Bắt đầu bằng một chỉ số duy nhất---σ_sync hoặc K_wrist---và làm chủ |
-|   nó trước khi chuyển sang chỉ số tiếp theo.                          |
-|                                                                       |
-| - Thu thập dữ liệu thực tế của bạn. Không có ngưỡng Elite nào có ý    |
-|   nghĩa nếu bạn không biết baseline của bản thân.                     |
-|                                                                       |
-| - Thất bại về mặt kỹ thuật là dữ liệu quý giá, không phải là sự thua  |
-|   cuộc. Mỗi cú đánh hỏng cho bạn biết thêm về điểm cần cải thiện.     |
-|                                                                       |
-| - Hệ mạc (fascia) cần thời gian thay đổi---ít nhất 12 tuần tập luyện  |
-|   nhất quán trước khi có sự thay đổi cấu trúc rõ ràng. Kiên nhẫn.     |
-|                                                                       |
+| nó trước khi chuyển sang chỉ số tiếp theo. |
+|  |
+| - Thu thập dữ liệu thực tế của bạn. Không có ngưỡng Elite nào có ý |
+| nghĩa nếu bạn không biết baseline của bản thân. |
+|  |
+| - Thất bại về mặt kỹ thuật là dữ liệu quý giá, không phải là sự thua |
+| cuộc. Mỗi cú đánh hỏng cho bạn biết thêm về điểm cần cải thiện. |
+|  |
+| - Hệ mạc (fascia) cần thời gian thay đổi---ít nhất 12 tuần tập luyện |
+| nhất quán trước khi có sự thay đổi cấu trúc rõ ràng. Kiên nhẫn. |
+|  |
 | - Chúc Henry và tất cả các tay vợt thế hệ 2026 làm chủ dòng chảy năng |
-|   lượng và đạt trạng thái Flow trên mọi mặt sân.                      |
-+-----------------------------------------------------------------------+
+| lượng và đạt trạng thái Flow trên mọi mặt sân. |
+

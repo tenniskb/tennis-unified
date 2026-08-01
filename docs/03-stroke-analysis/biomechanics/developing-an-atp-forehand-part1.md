@@ -6,8 +6,7 @@ Part 1: The Dynamic Slot**
 **Brian Gordon, PhD**
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image1.webp)
 
 **With the BEST system, anyone can develop the elements of an ATP
 forehand.**
@@ -37,8 +36,7 @@ present the information in a fashion he feels will be the most
 beneficial to Tennisplayer subscribers.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image2.webp)
 
 **The first articles will deal with learning implications for players at
 all levels.**
@@ -69,8 +67,7 @@ some pro players at various levels.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image3.webp)
 
 **My collaborator Rick Macci has translated the research conclusions
 into teaching progressions.**
@@ -101,8 +98,7 @@ measurements.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image4.webp)
 
 **We use scientific grade 3D technology to measure racquet speed before,
 during, and after technical changes.**
@@ -133,8 +129,7 @@ typical developmental steps.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image5.webp)
 
 **Developing a pro style forehand isn't a matter of age, strength, or
 gender.**
@@ -164,8 +159,7 @@ less motion not more. The forehand in our system is more compact than
 other options and therefore simpler to execute.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image6.webp)
 
 **The ATP forehand model combines less motion with more power.**
 
@@ -180,7 +174,7 @@ any level.
 This is also why we monitor players every 3 months taking 3D
 measurements to make sure that when they decrease their range of motion
 or size of swing that the positioning of the hitting arm and the
-sequencing is correct and hasn\'t cost players racquet speed, and that
+sequencing is correct and hasn't cost players racquet speed, and that
 in fact it has caused them to gain.
 
 To say that less motion equals more racquet speed may seem counter
@@ -194,8 +188,7 @@ head speed. We consider the ability to teach this to be a significant
 coaching breakthrough.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image7.webp)
 
 **One of the most explosive forehands with one of the most compact
 motions.**
@@ -222,8 +215,7 @@ am still in the process of refining the concepts, I think the picture is
 becoming increasingly clear.
 
 ![A picture containing text, person Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image8.webp)
 
 **The BEST system is based on 3D measurements of hundreds of players.**
 
@@ -252,8 +244,7 @@ biomechanics.
 
 ![A person working on a computer Description automatically generated
 with medium
-confidence](media_developing-an-atp-forehand-part1/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image9.webp)
 
 **10 cameras, 60 sensors, 400 frames per second.**
 
@@ -282,8 +273,7 @@ gain muscular optimization. If done correctly players will create what I
 call the \"dynamic slot.\"
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image10.webp)
 
 **The ATP forehand: perfect synchronization of leg drive, trunk
 rotation, and hitting arm.**
@@ -316,8 +306,7 @@ BOTH forward and lateral speed, meaning the first instant it is moving
 both forward but also sideways along the baseline.
 
 ![A person holding a tennis racket Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image11.webp)
 
 **The Type 1 forehand with a large backswing and the racket pointing
 behind the body.**
@@ -350,8 +339,7 @@ behind the plane of the body defined by the shoulder joints and mid-hip
 joint location.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image12.webp)
 
 **In the Type 2 swing, common on the WTA tour, the racket points less
 far behind the body.**
@@ -368,7 +356,7 @@ moving forward together, so that there is little independent motion of
 the hitting arm.
 
 This Type 1 racquet positioning is common in junior players, and
-especially girls. And this is not a random event. There\'s a reason the
+especially girls. And this is not a random event. There's a reason the
 players do it.
 
 Developing juniors often use as much range of motion (as big a swing) as
@@ -414,8 +402,7 @@ speed and heavy spin at the same time.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image13.webp)
 
 **In the ATP forehand, the arm is on a diagonal with racquet head above
 and on the hitting side of the hand.**
@@ -457,8 +444,7 @@ swing\--and to generate the additional racquet speed.]{.mark}
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image14.webp)
 
 **Watch the more linear path to contact and internal rotation of the
 hitting arm structure in the forward swing.**
@@ -494,8 +480,7 @@ concept actually mean? And how does it really apply to the forehand?
 
 ![A picture containing person, athletic game, sport, tennis Description
 automatically
-generated](media_developing-an-atp-forehand-part1/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image15.webp)
 
 **A simple muscle contraction compared to one enhanced through use of
 pre-stretching.**
@@ -547,8 +532,7 @@ forward swing. This is the secret to turbocharging your forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image16.webp)
 
 **The hitting arm on a diagonal, with the racket head above and to the
 right of the hitting hand.**
@@ -585,8 +569,7 @@ stretch-shorten cycle.]{.mark}**
 
 ![A person in a blue shirt Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image17.webp)
 
 **Holding back the arm demonstrates how the sling shot is created.**
 
@@ -619,8 +602,7 @@ in the opposite direction -- **[downwards and backwards to the
 non-hitting side of the hand.]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image18.webp)
 
 **As the hand starts to pull forward, the flip creates the dynamic
 slot.**
@@ -658,8 +640,7 @@ more conservative grips like Federer.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_developing-an-atp-forehand-part1/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_developing-an-atp-forehand-part1/media/image19.webp)
 
 **In an extreme flip the racquet tip can end up pointing down toward the
 court.**
@@ -691,8 +672,7 @@ the ball speed/ball spin relationship at contact, simply has to be
 controlled rather than manufactured.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image20.webp)
 
 **Players are not robots so the creation of the dynamic slot has
 variations.**
@@ -724,21 +704,20 @@ forehands.
 **Back to Strength**
 
 ![A person holding a tennis racket Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image21.webp)
 
 **It requires a process, but any player can make the leap to the ATP
 style forehand.**
 
 So let's return to the question of strength. **[Many coaches believe
 that if you have a shorter swing, clearly you have to be stronger
-because you\'re accelerating the racquet over a shorter
+because you're accelerating the racquet over a shorter
 period.]{.mark}**
 
 What the data and our experience working with players everyday shows is
 that it isn't necessary to be stronger to do this because the primary
 mechanism isn't strength. While strength definitely helps, it is
-player\'s ability to optimize the performance of their muscular system
+player's ability to optimize the performance of their muscular system
 through the very specific positions and actions of the ATP style swing
 that is most important.
 
@@ -758,8 +737,7 @@ dynamic slot from what I consider the clearest perspective, which is
 from the rear view.
 
 ![A person playing tennis Description automatically
-generated](media_developing-an-atp-forehand-part1/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_developing-an-atp-forehand-part1/media/image22.webp)
 
 **[The ATP dynamic slot: unit turn, descending loop with hitting arm and
 racket positioned to right of hand, the start of the pull, and finally
@@ -805,24 +783,23 @@ enhancement. Finally, we will investigate the final racquet acceleration
 to contact, a subject that will come as quite a surprise to many. Should
 be interesting!
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                           | Dr. Brian Gordon has changed the understanding   |
-| generated](media_developing-an-atp-forehand-part1/media/image23.jpeg){width="2.0819444444444444in" | of the biomechanics of high level tennis         |
-| height="2.6791666666666667in"}                                                                                                                                                         | technique. His Biomechanically Engineered Stroke |
-|                                                                                                                                                                                        | Technique (BEST) is the only empirically based   |
-|                                                                                                                                                                                        | stroke mechanics system in the world, growing    |
-|                                                                                                                                                                                        | from three decades of both academic and applied  |
-|                                                                                                                                                                                        | on court research. He is a founder of the Tennis |
-|                                                                                                                                                                                        | Center for Performance Research in Miami,        |
-|                                                                                                                                                                                        | Florida, which is creating a new paradigm for    |
-|                                                                                                                                                                                        | player development. The center has assembled an  |
-|                                                                                                                                                                                        | unprecedented group of specialists with cutting  |
-|                                                                                                                                                                                        | edge knowledge across the entire range of tennis |
-|                                                                                                                                                                                        | performance.                                     |
-|                                                                                                                                                                                        |                                                  |
-|                                                                                                                                                                                        | To visit his website, [**Click                   |
-|                                                                                                                                                                                        | Here!**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                        |                                                  |
-|                                                                                                                                                                                        | Top contact him directly, [**Click               |
-|                                                                                                                                                                                        | Here!**](mailto:gamabrian@icloud.com)            |
-+========================================================================================================================================================================================+==================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding |
+| --- | --- |
+| generated](media_developing-an-atp-forehand-part1/media/image23.jpeg) | technique. His Biomechanically Engineered Stroke |
+|  | Technique (BEST) is the only empirically based |
+|  | stroke mechanics system in the world, growing |
+|  | from three decades of both academic and applied |
+|  | on court research. He is a founder of the Tennis |
+|  | Center for Performance Research in Miami, |
+|  | Florida, which is creating a new paradigm for |
+|  | player development. The center has assembled an |
+|  | unprecedented group of specialists with cutting |
+|  | edge knowledge across the entire range of tennis |
+|  | performance. |
+|  |  |
+|  | To visit his website, [**Click |
+|  | Here!**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**Click |
+|  | Here!**](mailto:gamabrian@icloud.com) |
+

@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-serve-and-return-diagonals/media/image1.webp)
 
 **How can you use your serve to create your preferred return diagonal?**
 
@@ -17,11 +16,11 @@ control, including how players switch the diagonal from an unfavorable
 to a favorable pattern. ([Click
 Here](Pro%20Patterns%20-%20Basic%20Diagonals.docx).)
 
-**[[But tennis points don\'t start with crosscourt rallies. They start
-with serves and returns.]{.underline}]{.mark}** So, let\'s take a step
+**[[But tennis points don't start with crosscourt rallies. They start
+with serves and returns.]{.underline}]{.mark}** So, let's take a step
 back and see how players use the serve and return to try to establish
-their preferred patterns. Serving well for most players isn\'t a matter
-of hitting aces and big unreturnable serves. It\'s knowing how to use
+their preferred patterns. Serving well for most players isn't a matter
+of hitting aces and big unreturnable serves. It's knowing how to use
 the serve as the first shot in a sequence that leads to winning points
 and matches. That means using the serve to create the diagonal exchange
 that gives you the advantage.
@@ -38,7 +37,7 @@ your preferred rally in your service games.
 **[[Patterns are critical in learning how to win the style versus style
 match up from the baseline.]{.underline}]{.mark}** But it continues to
 amaze me how few players\--and even coaches\--understand this aspect of
-tactics and how to exploit it. First let\'s look at how the placement of
+tactics and how to exploit it. First let's look at how the placement of
 the serve effects the angle of the return. From this we can see how a
 player can use his serve to control the diagonals of his points.
 
@@ -49,7 +48,7 @@ will adjust his returns if he sees they are yielding unfavorable
 diagonals.
 
 **[[The patterns presented here represent a starting point. If they
-aren\'t producing the exchanges you want against a particular opponent,
+aren't producing the exchanges you want against a particular opponent,
 you will have to experiment with different
 combinations.]{.underline}]{.mark}** Which serves yield which returns,
 and what is the relative strength of the return ball?
@@ -58,8 +57,7 @@ and what is the relative strength of the return ball?
 
 ![A tennis match in a stadium Description automatically generated with
 low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-serve-and-return-diagonals/media/image2.webp)
 
 **Forehand to Forehand\
 Deuce Court\
@@ -74,7 +72,7 @@ serve directly into body on the backhand side. In general, this will
 result in an inside out backhand return to your forehand
 side.]{.underline}]{.mark}**
 
-**[[The second is the wide serve to your opponent\'s
+**[[The second is the wide serve to your opponent's
 forehand.]{.underline}]{.mark}** In most cases, your opponent will hit a
 forehand crosscourt return. The exception is if he feels he can hurt you
 with the return down the line.
@@ -91,8 +89,7 @@ forehand down the middle.]{.underline}]{.mark}**
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-serve-and-return-diagonals/media/image3.webp)
 
 **Forehand to Forehand\
 Ad Court\
@@ -134,8 +131,7 @@ rally and have the opportunity to take control of the point.
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-serve-and-return-diagonals/media/image4.webp)
 
 **One way to change to the forehand diagonal: a loop backhand down the
 line.**
@@ -144,8 +140,7 @@ line.**
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-serve-and-return-diagonals/media/image5.webp)
 
 **Backhand to Backhand\
 Deuce Court\
@@ -162,15 +157,14 @@ which will be hit crosscourt.]{.mark}]{.underline}**
 
 **[[In the ad court, there are also two serves. The first is a wide
 serve, which is typically returned crosscourt to your backhand. This can
-be broken when a player\'s strength is the big backhand and he can hit
+be broken when a player's strength is the big backhand and he can hit
 an offensive return down the line. The second serve in the Ad court is a
 serve into the forehand which is usually returned inside out
 crosscourt.]{.underline}]{.mark}**
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_pro-patterns-serve-and-return-diagonals/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-serve-and-return-diagonals/media/image6.webp)
 
 **Backhand to Backhand\
 Ad Court\
@@ -191,8 +185,7 @@ patterns in this case are:]{.underline}**
 
 ![A picture containing sport, blue, athletic game, court Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-serve-and-return-diagonals/media/image7.webp)
 
 **By looping your forehand down the line, you can change to the backhand
 diagonal.**
@@ -211,8 +204,7 @@ into the favorable backhand to backhand rally as follows:**
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-serve-and-return-diagonals/media/image8.webp)\
 \
 **Inside Out\
 Deuce Court\
@@ -224,7 +216,7 @@ Hit a big serve down the T**
 
 This pattern is more difficult to initiate with the serve, but some
 service patterns can give you the opportunity to hit the first ball
-inside out to your opponent\'s backhand.
+inside out to your opponent's backhand.
 
 In the deuce court, a serve to body on the backhand side may jam the
 returner and lead to a return hit close enough to the middle that the
@@ -238,8 +230,7 @@ establish the inside out baseline position.
 
 ![A picture containing athletic game, sport, tennis, match Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-serve-and-return-diagonals/media/image9.webp)
 
 **Inside Out\
 Ad Court\
@@ -261,15 +252,14 @@ enhanced by standing wider when serving to the Ad court, a tactic Andre
 Agassi has used for years to generate an Inside In or Inside Out
 forehand on the next ball.
 
-If you aren\'t able to create it with the serve, you still have to
+If you aren't able to create it with the serve, you still have to
 switch the rally to get the forehand to backhand pattern you prefer. To
 achieve this, follow these shot patterns and move to the Inside Out
 position:
 
 ![A picture containing blue, athletic game, court, sport Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-serve-and-return-diagonals/media/image10.webp)
 
 **To switch to the inside diagonal, hit your forehand deep down the line
 and move around the next ball.**
@@ -290,8 +280,7 @@ to inside-out.
 
 ![A picture containing sport, athletic game, blue, floor Description
 automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-serve-and-return-diagonals/media/image11.webp)\
 **Serena can break the return pattern with her inside out backhand
 return.**
 
@@ -306,7 +295,7 @@ the player can work on the exceptions.]{.underline}]{.mark}**
 
 While it can be frustrating when a returner is breaking a pattern
 consistently, it only means the returner has created a new pattern for
-the server to exploit. Once the server understands the returner\'s
+the server to exploit. Once the server understands the returner's
 tendencies, he can create a modified game plan. At the high levels, all
 players can read patterns and creativity must be allowed into the game.
 But if you can master the shots outlined here, they will prove more than
@@ -314,8 +303,7 @@ useful in getting you started in using your serve as the foundation of
 your tactical game.
 
 ![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-serve-and-return-diagonals/media/image12.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_pro-patterns-serve-and-return-diagonals/media/image12.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

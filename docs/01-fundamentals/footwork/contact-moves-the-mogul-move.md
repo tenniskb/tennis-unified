@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-mogul-move/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-mogul-move/media/image1.webp)
 
 **The Mogul Move: a drop step, cross-steps, skimming into a mogul
 step\--and a cross over recovery.**
@@ -24,7 +23,7 @@ This is the footwork pattern used by top players to hit on the full run.
 saw that top players use the Power Move to go for broke by attempting
 running forehand winners.]{.underline}]{.mark}**
 
-Now let\'s look at a second defensive pattern, what I call the Mogul
+Now let's look at a second defensive pattern, what I call the Mogul
 Move. **[[The Mogul Move is a defensive contact move players use when
 they are forced wide, but not so wide that they have to hit on the dead
 run]{.underline}]{.mark}**. **[[Instead, they move one step beyond the
@@ -43,8 +42,7 @@ hips move sideways in a straight line in the direction of the
 movement.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-mogul-move/media/image2.webp)
 
 **[[When players use the Power Move, they end up going far beyond the
 ball. But]{.mark} [with the Mogul Move, this movement is more
@@ -60,8 +58,7 @@ hitting a counterattacking shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-mogul-move/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-mogul-move/media/image3.webp)
 
 **The drop step, the crossover, and the set up in the extreme open
 stance.**
@@ -85,8 +82,7 @@ stay low as he goes beyond the ball, keeping positive angles with the
 legs through the bend in the knees.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-mogul-move/media/image4.webp)
 
 **The Mogul step after the hit, the drop step with the inside foot, and
 the cross over recover.**
@@ -106,8 +102,7 @@ step during the landing, then recovers with a combination of cross steps
 and/or shuffle steps.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-mogul-move/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-mogul-move/media/image5.webp)
 
 **The Mogul Move on the forward and backward diagonals.**
 
@@ -122,8 +117,7 @@ in the pantheon of high level pro movement patterns.
 
 Next: The Reverse Spin Contact Move! Stay Tuned.
 
-![](media_contact-moves-the-mogul-move/media/image6.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_contact-moves-the-mogul-move/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

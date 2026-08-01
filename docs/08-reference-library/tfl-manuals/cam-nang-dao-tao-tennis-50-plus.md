@@ -88,7 +88,7 @@ trình hình thành kỹ năng vận động theo mô hình Fitts-Posner:
 Vấn đề của Naive Practice là nó đẩy người chơi sang giai đoạn Tự Động
 quá sớm --- tự động hóa những kỹ thuật chưa được tối ưu. Khi đó, kỹ
 thuật sai trở thành phản xạ, và việc thay đổi nó sẽ cực kỳ khó khăn vì
-bạn phải \'ghi đè\' lên những đường mòn thần kinh đã được thiết lập vững
+bạn phải 'ghi đè' lên những đường mòn thần kinh đã được thiết lập vững
 chắc.
 
 **1.3. Vùng Stretch Zone --- Nơi Học Thực Sự Xảy Ra**
@@ -100,7 +100,7 @@ of Proximal Development).
 
 Trong luyện tập tennis, điều này có nghĩa là bài tập của bạn phải đủ khó
 để ép hệ thần kinh thích nghi, nhưng không quá khó đến mức cơ thể phải
-từ bỏ kỹ thuật đúng để \'sống sót\'.
+từ bỏ kỹ thuật đúng để 'sống sót'.
 
 - Comfort Zone (Vùng An Toàn): Bài tập quá dễ → Não không cần thích nghi
   → Không có tiến bộ
@@ -177,19 +177,19 @@ mình đã biết nhưng lại hoàn toàn sai. Bạn sẽ cảm thấy thất v
 video của mình. Đây đều là dấu hiệu tốt --- chúng có nghĩa là bạn đang
 nhìn thấy sự thật và bắt đầu quá trình sửa chữa thực sự.
 
-- Thay \'Tôi không giỏi serve\' bằng \'Serve của tôi chưa tốt, và đây là
-  lý do cụ thể tôi đang làm sai\'
+- Thay 'Tôi không giỏi serve' bằng 'Serve của tôi chưa tốt, và đây là
+  lý do cụ thể tôi đang làm sai'
 
-- Thay \'Tôi quá già để học\' bằng \'Não bộ người trưởng thành học chậm
-  hơn nhưng học sâu và chắc hơn\'
+- Thay 'Tôi quá già để học' bằng 'Não bộ người trưởng thành học chậm
+  hơn nhưng học sâu và chắc hơn'
 
-- Thay \'Tôi đã tập mãi mà không tiến\' bằng \'Tôi đã tập nhưng chưa
-  đúng phương pháp --- đó là thông tin quý giá\'
+- Thay 'Tôi đã tập mãi mà không tiến' bằng 'Tôi đã tập nhưng chưa
+  đúng phương pháp --- đó là thông tin quý giá'
 
 **1.7. Thiết Lập Hệ Thống Theo Dõi Tiến Độ**
 
-Không có gì làm giảm động lực nhanh bằng cảm giác \'tập mãi mà không
-thấy tiến\'. Điều này thường xảy ra không phải vì bạn không tiến, mà vì
+Không có gì làm giảm động lực nhanh bằng cảm giác 'tập mãi mà không
+thấy tiến'. Điều này thường xảy ra không phải vì bạn không tiến, mà vì
 bạn không có hệ thống đo lường để nhận ra sự tiến bộ.
 
 Tiến bộ kỹ thuật thường xảy ra theo từng bước nhỏ, không liên tục, và
@@ -207,7 +207,7 @@ tiến nhỏ này sẽ vô hình với bạn.
 
 - Cảm nhận cơ thể: đau đâu không, mệt mỏi mức nào
 
-- Một phát hiện mới hoặc khoảnh khắc \'aha\' trong buổi tập
+- Một phát hiện mới hoặc khoảnh khắc 'aha' trong buổi tập
 
 - Kế hoạch cho buổi tập tiếp theo
 
@@ -272,7 +272,7 @@ Trong một cú forehand đúng kỹ thuật, chuỗi năng lượng diễn ra n
 
 20. Vai bắt đầu xoay theo sau hông (góc tách)
 
-21. Cánh tay và vợt là \'người cuối cùng\' trong chuỗi, nhận toàn bộ
+21. Cánh tay và vợt là 'người cuối cùng' trong chuỗi, nhận toàn bộ
     năng lượng tích lũy
 
 - Chân → Hông → Lõi → Vai → Cánh tay → Vợt → Bóng
@@ -288,21 +288,21 @@ niệm Đan Điền (Hara hay Tanden trong tiếng Nhật) đề cập đến tr
 trọng lực và sức mạnh của cơ thể, nằm ở vùng bụng dưới, khoảng 5-7 cm
 dưới rốn.
 
-Trong tennis hiện đại, khái niệm này tương ứng với thuật ngữ \'core\'
+Trong tennis hiện đại, khái niệm này tương ứng với thuật ngữ 'core'
 (cơ lõi), nhưng có chiều sâu hơn. Đây không chỉ là nhóm cơ bụng --- mà
 là toàn bộ hệ thống cơ và mạc (fascia) bao quanh cột sống, kết nối phần
 trên và phần dưới cơ thể.
 
 Khi hệ trục này ổn định và đàn hồi, năng lượng từ chân truyền lên cánh
-tay một cách hiệu quả. Khi hệ trục \'gãy\' --- tức là lưng gù, hông xoay
+tay một cách hiệu quả. Khi hệ trục 'gãy' --- tức là lưng gù, hông xoay
 sai hướng, hoặc bụng không được kích hoạt --- năng lượng bị thất thoát
 và cánh tay phải gánh chịu toàn bộ gánh nặng.
 
 **2.4. Lỗi Zombie Arm và Cách Khắc Phục**
 
 Zombie Arm là thuật ngữ mô tả tình trạng cánh tay đánh quá độc lập, tách
-rời khỏi phần còn lại của cơ thể. Người chơi trông như đang \'vươn tay
-ra đánh bóng\' thay vì dùng toàn thân.
+rời khỏi phần còn lại của cơ thể. Người chơi trông như đang 'vươn tay
+ra đánh bóng' thay vì dùng toàn thân.
 
 Dấu hiệu nhận biết Zombie Arm:
 
@@ -310,14 +310,14 @@ Dấu hiệu nhận biết Zombie Arm:
 
 - Vai và hông không xoay hoặc xoay rất ít
 
-- Cú đánh có cảm giác \'vỗ\' hơn là \'quất\'
+- Cú đánh có cảm giác 'vỗ' hơn là 'quất'
 
 - Sau đánh bóng, cánh tay mệt và đau nhưng bóng không mạnh
 
 - Thường kèm theo chấn thương tennis elbow
 
-Zombie Arm thường xuất hiện khi người chơi quá tập trung vào việc \'đánh
-trúng bóng\' mà quên mất việc chuẩn bị toàn thân. Đây là vấn đề của thứ
+Zombie Arm thường xuất hiện khi người chơi quá tập trung vào việc 'đánh
+trúng bóng' mà quên mất việc chuẩn bị toàn thân. Đây là vấn đề của thứ
 tự ưu tiên --- cơ thể phải được chuẩn bị trước khi tay đánh.
 
 > *⚠️ Zombie Arm không chỉ làm giảm sức mạnh --- nó là nguyên nhân hàng
@@ -431,13 +431,13 @@ ngay theo --- nó tụt lại phía sau. Đây là trạng thái Lag. Sự tụt
 làm căng mạc cơ và gân cơ cánh tay. Khi năng lượng được giải phóng, đầu
 vợt quét tới với tốc độ cực cao --- đây là Whip Effect (Hiệu ứng Roi).
 
-> *⚠️ Nếu cổ tay bạn căng cứng khi swing, bạn đang \'giết chết\' hiệu
+> *⚠️ Nếu cổ tay bạn căng cứng khi swing, bạn đang 'giết chết' hiệu
 > ứng roi. Cổ tay cần thư giãn hoàn toàn để đầu vợt có thể tụt tự nhiên
 > và sau đó bùng nổ.*
 
 **3.3. Tư Thế Pat The Dog --- Điểm Vàng Của Lag**
 
-\'Pat the Dog\' là thuật ngữ miêu tả tư thế đầu vợt khi nó đạt đến điểm
+'Pat the Dog' là thuật ngữ miêu tả tư thế đầu vợt khi nó đạt đến điểm
 lag tối đa trong forehand. Tên gọi đến từ việc tư thế tay trông giống
 như bạn đang vuốt đầu một con chó --- cổ tay ngã xuống, đầu vợt rơi
 xuống dưới, nhưng cánh tay vẫn di chuyển về phía trước.
@@ -447,7 +447,7 @@ phần lớn sức mạnh của topspin forehand đến từ việc đầu vợt
 từ dưới lên trên với tốc độ cao, tạo ra lực ly tâm khiến cổ tay lật theo
 quỹ đạo tự nhiên.
 
-> *💡 Bạn không cần \'tạo ra\' pat the dog --- nó xảy ra tự nhiên khi
+> *💡 Bạn không cần 'tạo ra' pat the dog --- nó xảy ra tự nhiên khi
 > bạn để cổ tay thư giãn và kích hoạt chuỗi động lực từ hông. Hãy để nó
 > xảy ra, đừng cố ép.*
 
@@ -470,7 +470,7 @@ một mô hình xoắn ốc từ đất lên trời.
 **3.5. Pelvic Snap --- Bí Mật Của Tốc Độ Đầu Vợt**
 
 Pelvic Snap (Cú Quất Hông) là khoảnh khắc mà hông đột ngột giảm tốc và
-\'khóa lại\' trong khi thân trên tiếp tục xoay. Đây là cơ chế tương tự
+'khóa lại' trong khi thân trên tiếp tục xoay. Đây là cơ chế tương tự
 như khi bạn quất roi --- tay dừng lại đột ngột, đầu roi tiếp tục vút đi
 với tốc độ tăng vọt.
 
@@ -483,7 +483,7 @@ nhưng với người học, cần phải học có ý thức.
 
 25. Hông đang xoay mạnh về phía trước
 
-26. Chân trụ đột ngột \'phanh\' lại --- gót chân tiếp đất, đầu gối hơi
+26. Chân trụ đột ngột 'phanh' lại --- gót chân tiếp đất, đầu gối hơi
     cong và khóa
 
 27. Do quán tính, phần thân trên tiếp tục xoay với tốc độ tăng vọt
@@ -498,7 +498,7 @@ nước, và thiếu các bài tập kéo giãn đúng cách.
 
 Khi mạc cơ cứng lại, khả năng tích lũy và giải phóng năng lượng đàn hồi
 giảm sút đáng kể. Điều này khiến người chơi phải bù đắp bằng co cơ chủ
-động --- tức là \'gồng lực\' --- dẫn đến mệt mỏi nhanh và nguy cơ chấn
+động --- tức là 'gồng lực' --- dẫn đến mệt mỏi nhanh và nguy cơ chấn
 thương cao.
 
 > *💡 Đầu tư 15-20 phút mỗi ngày vào yoga nhẹ hoặc fascia release (con
@@ -556,7 +556,7 @@ so với những cú bình thường.
 Điều này là vì tay vợt chuyên nghiệp đã học được nghệ thuật kích hoạt cơ
 một cách chọn lọc: co mạnh đúng cơ cần thiết (hông, core, đùi) trong khi
 giữ thư giãn hoàn toàn những cơ khác (cổ tay, cẳng tay). Kết quả là năng
-lượng từ chân truyền lên vợt không bị \'rò rỉ\' qua các cơ căng cứng.
+lượng từ chân truyền lên vợt không bị 'rò rỉ' qua các cơ căng cứng.
 
 **4.3. Nhận Diện Các Điểm Căng Thường Gặp**
 
@@ -578,8 +578,8 @@ nhất ở người chơi trung niên:
 - Hông: Người ít vận động thường có flexor hông rất căng, hạn chế
   rotation
 
-> *💡 Kiểm tra nhanh: ngay trước khi đánh, hãy \'quét\' cơ thể từ đầu
-> xuống chân và tự hỏi: \'Điểm nào đang căng không cần thiết?\' Một vài
+> *💡 Kiểm tra nhanh: ngay trước khi đánh, hãy 'quét' cơ thể từ đầu
+> xuống chân và tự hỏi: 'Điểm nào đang căng không cần thiết?' Một vài
 > giây kiểm tra này có thể thay đổi hoàn toàn chất lượng cú đánh.*
 
 **4.4. Kỹ Thuật Thở Trong Tennis**
@@ -617,17 +617,17 @@ bóng, sau đó ngay lập tức thả lỏng lại.
 
 **4.6. Paradox of Effort --- Khi Cố Gắng Ít Hơn Để Đạt Nhiều Hơn**
 
-Trong Thiền học và Taoism, có khái niệm \'Wu Wei\' --- hành động mà
+Trong Thiền học và Taoism, có khái niệm 'Wu Wei' --- hành động mà
 không cưỡng ép. Trong tennis, điều này không phải là thụ động --- mà là
 hành động đúng thời điểm, đúng lực, không thừa không thiếu.
 
 Paradox of Effort mô tả hiện tượng: khi bạn cố gắng quá mức để đạt kết
-quả, kết quả lại kém hơn. Khi bạn thư giãn và để chuyển động \'xảy ra\',
+quả, kết quả lại kém hơn. Khi bạn thư giãn và để chuyển động 'xảy ra',
 kết quả tốt hơn. Đây không phải là mầu nhiệm --- đây là khoa học về hệ
 thần kinh tự chủ.
 
-> *💡 Thử nghiệm tâm lý: trong 5 điểm thi đấu, hãy đặt mục tiêu \'đánh
-> nhẹ nhàng và kiểm soát\' thay vì \'đánh mạnh\'. Quan sát xem bóng có
+> *💡 Thử nghiệm tâm lý: trong 5 điểm thi đấu, hãy đặt mục tiêu 'đánh
+> nhẹ nhàng và kiểm soát' thay vì 'đánh mạnh'. Quan sát xem bóng có
 > thực sự mạnh hơn không --- thường là có.*
 
 **4.7. Bài Tập Thư Giãn Có Chủ Đích**
@@ -653,7 +653,7 @@ phải đánh đúng --- mà là nhận ra mọi điểm căng thừa trong chuy
 
 Đánh một cú tại 110% nỗ lực (gồng hết). Ghi lại cảm giác và kết quả. Sau
 đó đánh một cú tại 70% nỗ lực. So sánh. Bài tập này thường tạo ra khoảnh
-khắc \'aha\' về mối quan hệ giữa nỗ lực và kết quả.
+khắc 'aha' về mối quan hệ giữa nỗ lực và kết quả.
 
 **CHƯƠNG 05**
 
@@ -667,7 +667,7 @@ thuật trước khi cú đánh bắt đầu.
 
 Khi bạn không ở đúng vị trí, mọi điều chỉnh kỹ thuật khác đều là vá víu.
 Bạn sẽ phải vươn tay, mất thăng bằng, đánh từ tư thế bất lợi. Ngược lại,
-khi footwork tốt, cú đánh \'tự nhiên xảy ra\' với ít sức lực hơn.
+khi footwork tốt, cú đánh 'tự nhiên xảy ra' với ít sức lực hơn.
 
 **5.2. Split Step --- Bước Nhảy Tách Chân**
 
@@ -792,7 +792,7 @@ footwork thuần túy.
 Forehand là cú đánh được dùng nhiều nhất trong tennis --- chiếm khoảng
 40-50% tổng số cú đánh trong một trận đấu. Đây cũng thường là cú đánh
 mạnh nhất và tự nhiên nhất với hầu hết người chơi. Tuy nhiên, rất nhiều
-người chơi có forehand \'hoạt động\' nhưng không \'hiệu quả\'.
+người chơi có forehand 'hoạt động' nhưng không 'hiệu quả'.
 
 Forehand hiệu quả không phải là cú đánh mạnh nhất --- mà là cú đánh kết
 hợp được tốc độ, độ xoáy, độ chính xác và tính nhất quán. Đây là hành
@@ -854,12 +854,12 @@ tay và vợt sau điểm tiếp xúc. Thay vì đánh thẳng về phía trư�
 từ dưới lên trên và sau đó gập lại theo hướng ngược (giống tay gạt
 nước).
 
-Điều quan trọng cần hiểu: Windshield Wiper không phải là thứ bạn \'tạo
-ra\' bằng cách chủ động lật cổ tay. Nó là kết quả tự nhiên của việc giải
+Điều quan trọng cần hiểu: Windshield Wiper không phải là thứ bạn 'tạo
+ra' bằng cách chủ động lật cổ tay. Nó là kết quả tự nhiên của việc giải
 phóng năng lượng xoắn ốc từ toàn thân. Khi chuỗi động lực hoạt động
 đúng, cánh tay sẽ tự nhiên xoay và gập theo quỹ đạo này.
 
-> *⚠️ Chủ động \'chà bóng\' bằng cổ tay để tạo topspin là lỗi phổ biến.
+> *⚠️ Chủ động 'chà bóng' bằng cổ tay để tạo topspin là lỗi phổ biến.
 > Nó không chỉ giảm hiệu quả mà còn là nguyên nhân của tennis elbow và
 > chấn thương cổ tay.*
 
@@ -878,7 +878,7 @@ shadow practice với vợt kết thúc backswing ở tầm tai hoặc thấp h�
 
 **Lỗi 3: Lộng gió (Pushing)**
 
-Khi nào xảy ra: bóng đến quá chậm, người chơi \'đẩy\' thay vì \'đánh\'.
+Khi nào xảy ra: bóng đến quá chậm, người chơi 'đẩy' thay vì 'đánh'.
 Hậu quả: không có topspin, bóng nổi cao. Giải pháp: dùng loop backswing
 nhỏ để tạo momentum.
 
@@ -897,7 +897,7 @@ Thứ tự phá vỡ kỹ thuật khi áp lực tăng:
 
 37. Đầu tiên mất: thư giãn cổ tay → cú đánh cứng và thiếu kiểm soát
 
-38. Tiếp theo mất: độ trễ (lag) → swing trở nên \'arm dominant\'
+38. Tiếp theo mất: độ trễ (lag) → swing trở nên 'arm dominant'
 
 39. Sau đó mất: footwork → đứng ở vị trí không tốt
 
@@ -920,7 +920,7 @@ Trong backhand, động tác này ít trực quan hơn và đòi hỏi sự ph�
 tinh tế hơn giữa vai, cánh tay, và cổ tay.
 
 Với người chơi trung niên bắt đầu muộn, backhand thường phát triển chậm
-hơn forehand nhiều năm. Điều này tạo ra một \'sườn yếu\' rõ ràng mà đối
+hơn forehand nhiều năm. Điều này tạo ra một 'sườn yếu' rõ ràng mà đối
 thủ kinh nghiệm sẽ khai thác không ngừng.
 
 **7.2. Backhand Một Tay vs. Hai Tay**
@@ -995,9 +995,9 @@ Slice backhand lý tưởng cho:
 **Lỗi 1: Spacing (Khoảng Cách) Sai**
 
 Đây là lỗi số 1 của backhand người mới. Người chơi thường để bóng vào
-quá gần người, phải \'thu mình\' lại để đánh. Hậu quả: mất lực hoàn
+quá gần người, phải 'thu mình' lại để đánh. Hậu quả: mất lực hoàn
 toàn. Giải pháp: footwork phải đưa bạn đến vị trí đúng, không phải cánh
-tay phải \'tìm\' bóng.
+tay phải 'tìm' bóng.
 
 **Lỗi 2: Chuẩn Bị Muộn**
 
@@ -1102,8 +1102,8 @@ không có mục tiêu cụ thể. Đây là Naive Practice trong serve.
 
 Luyện serve đúng cách:
 
-41. Serve vào targets (ô kẻ, cone): không phải \'vào sân\' mà là \'vào
-    điểm cụ thể\'
+41. Serve vào targets (ô kẻ, cone): không phải 'vào sân' mà là 'vào
+    điểm cụ thể'
 
 42. Phân tích ratio: ghi lại Flat/Slice/Kick, ghi lại In/Fault, ghi lại
     Wide/Body/T
@@ -1155,7 +1155,7 @@ Kỹ thuật đúng: gập gối sâu để xuống thấp (hip hinge), giữ l�
 
 **9.4. Overhead Smash**
 
-Overhead là cú đánh \'giết người\' khi đối thủ đánh lob ngắn. Cú đánh
+Overhead là cú đánh 'giết người' khi đối thủ đánh lob ngắn. Cú đánh
 này kết hợp kỹ thuật của serve (continental grip, trophy position,
 pronation) với việc di chuyển về phía sau để định vị bóng.
 
@@ -1186,7 +1186,7 @@ lưới:
 
 **10.1. Định Nghĩa Bóng Khó**
 
-\'Bóng khó\' là thuật ngữ chỉ những tình huống bóng không đến ở vị trí
+'Bóng khó' là thuật ngữ chỉ những tình huống bóng không đến ở vị trí
 lý tưởng --- bóng thấp dưới đầu gối, bóng nhanh vào cơ thể, bóng slice
 có spin kỳ lạ, bóng xa ngoài tầm với bình thường. Đây là những tình
 huống mà kỹ thuật cơ bản bị thách thức.
@@ -1236,14 +1236,14 @@ nhất từ loại bóng này.
 Chiến lược xử lý: đến bóng sớm và đánh trước khi bóng nảy quá thấp. Hoặc
 sử dụng slice trả lại --- dùng spin đối phó spin.
 
-> *💡 Nguyên tắc \'Bounce it --- Hit it\': tập trung mắt nhìn vào điểm
+> *💡 Nguyên tắc 'Bounce it --- Hit it': tập trung mắt nhìn vào điểm
 > nảy của bóng, không nhìn vào bóng đang bay đến. Khi thấy bóng nảy, đó
-> là tín hiệu \'go\' để bắt đầu forward swing.*
+> là tín hiệu 'go' để bắt đầu forward swing.*
 
 **10.5. Tình Huống Bóng Cao (High Bouncing)**
 
 Bóng nảy cao trên tầm vai là thách thức khác, đặc biệt với người chơi
-tầm thấp. Nhiều người chỉ có thể \'đẩy\' những bóng này qua lưới thay vì
+tầm thấp. Nhiều người chỉ có thể 'đẩy' những bóng này qua lưới thay vì
 tạo được lực.
 
 Kỹ thuật: lùi ra sau để bóng nảy và xuống tầm tốt, hoặc nếu bắt buộc
@@ -1258,11 +1258,11 @@ topspin đè bóng vào sân.
 
 Tennis không phải chỉ là việc đánh bóng qua lưới. Ở mức độ cạnh tranh,
 đây là một trò chơi tâm lý và chiến thuật tinh vi --- nơi quyết định
-\'đánh cái gì, đánh vào đâu, đánh khi nào\' quan trọng không kém kỹ
+'đánh cái gì, đánh vào đâu, đánh khi nào' quan trọng không kém kỹ
 thuật thực hiện.
 
-Người chơi mới thường chỉ nghĩ đến \'đánh trúng bóng và qua lưới\'.
-Người chơi phong trào nghĩ thêm về \'đánh vào góc và kiểm soát\'. Người
+Người chơi mới thường chỉ nghĩ đến 'đánh trúng bóng và qua lưới'.
+Người chơi phong trào nghĩ thêm về 'đánh vào góc và kiểm soát'. Người
 chơi giỏi tư duy theo cấu trúc chiến lược: xây dựng điểm, khai thác điểm
 yếu, áp đặt lối chơi.
 
@@ -1305,7 +1305,7 @@ Những thứ cần quan sát:
 
 **11.4. Xây Dựng Điểm Theo Scenario**
 
-Scenario planning là kỹ năng tư duy trước về \'nếu X thì Y\'. Trong
+Scenario planning là kỹ năng tư duy trước về 'nếu X thì Y'. Trong
 tennis, điều này có nghĩa là có sẵn kế hoạch cho mỗi tình huống:
 
 **Khi serve:**
@@ -1350,8 +1350,8 @@ lực và sức mạnh thực tế:
 **12.1. Từ Kỹ Thuật Đến Chiến Lược**
 
 Khi kỹ thuật cơ bản đã được tự động hóa, não bộ giải phóng nguồn lực để
-tập trung vào chiến thuật. Đây là bước nhảy vọt quan trọng --- từ \'chơi
-theo bản năng\' sang \'chơi theo kế hoạch\'.
+tập trung vào chiến thuật. Đây là bước nhảy vọt quan trọng --- từ 'chơi
+theo bản năng' sang 'chơi theo kế hoạch'.
 
 Chiến lược tennis là việc quản lý toàn bộ trận đấu: tỷ số, thể lực, tâm
 lý, điểm yếu đối thủ, và điều kiện sân bãi. Kỹ thuật là công cụ, chiến
@@ -1401,7 +1401,7 @@ của riêng mình, sau đó đột ngột đánh nhanh.
 
 **12.3. Chiến Thuật Phòng Thủ**
 
-Phòng thủ tốt không phải là \'đánh bóng qua lưới và chờ đối thủ lỗi\'.
+Phòng thủ tốt không phải là 'đánh bóng qua lưới và chờ đối thủ lỗi'.
 Phòng thủ tốt là quản lý thế bị động để tìm cơ hội phản công.
 
 **Lob phòng thủ:**
@@ -1423,7 +1423,7 @@ topspin trong tình huống thụ động.
 
 Các tay vợt giỏi nhận ra rằng tennis có những pattern (mẫu tình huống)
 lặp đi lặp lại. Học và luyện tập theo pattern hiệu quả hơn cố gắng
-\'sáng tạo\' trong từng điểm.
+'sáng tạo' trong từng điểm.
 
 Các pattern cơ bản:
 
@@ -1467,8 +1467,8 @@ phản ứng stress.
 **Công cụ 2: Reset Ritual**
 
 Sau mỗi điểm thua, thực hiện một ritual nhỏ: quay lưng về phía đối thủ,
-nhìn dây vợt, thư giãn vai, hít thở. Ritual này \'đóng\' điểm vừa thua
-lại và \'mở\' điểm mới.
+nhìn dây vợt, thư giãn vai, hít thở. Ritual này 'đóng' điểm vừa thua
+lại và 'mở' điểm mới.
 
 **Công cụ 3: Process Focus**
 
@@ -1499,12 +1499,12 @@ trong điều kiện thoải mái.
 
 **13.4. Mindset Của Người Chiến Thắng**
 
-Người chơi với mindset chiến thắng không nghĩ \'đừng để thua\' --- họ
-nghĩ \'mình sẽ làm gì để thắng\'. Sự khác biệt này tưởng nhỏ nhưng ảnh
+Người chơi với mindset chiến thắng không nghĩ 'đừng để thua' --- họ
+nghĩ 'mình sẽ làm gì để thắng'. Sự khác biệt này tưởng nhỏ nhưng ảnh
 hưởng rất lớn đến hành vi trên sân.
 
-\'Đừng để thua\' kích hoạt hệ thần kinh sợ hãi, dẫn đến chơi an toàn quá
-mức, không dám tấn công, và co cụm khi bị áp lực. \'Làm gì để thắng\'
+'Đừng để thua' kích hoạt hệ thần kinh sợ hãi, dẫn đến chơi an toàn quá
+mức, không dám tấn công, và co cụm khi bị áp lực. 'Làm gì để thắng'
 kích hoạt tư duy giải quyết vấn đề và hành động chủ động.
 
 **13.5. Xử Lý Thua Điểm và Thua Trận**
@@ -1535,7 +1535,7 @@ suất thể thao và khả năng phục hồi: metabolism chậm lại, tổng 
 protein giảm, khả năng hấp thụ calcium và vitamin D kém hơn, và nguy cơ
 mất cơ (sarcopenia) tăng lên.
 
-Dinh dưỡng đúng cách không chỉ là \'ăn lành mạnh\' --- mà là hiểu cơ thể
+Dinh dưỡng đúng cách không chỉ là 'ăn lành mạnh' --- mà là hiểu cơ thể
 cần gì ở tuổi 50+ để tối ưu hiệu suất tennis và phục hồi sau tập luyện.
 
 **14.2. Macro-nutrients Cho Vận Động Viên Trung Niên**
@@ -1587,7 +1587,7 @@ phút: gel năng lượng, chuối, hoặc date (chà là).
 
 **Sau buổi tập (trong vòng 30-45 phút):**
 
-Đây là \'cửa sổ vàng\' của phục hồi. Protein + Carbs ngay sau tập: shake
+Đây là 'cửa sổ vàng' của phục hồi. Protein + Carbs ngay sau tập: shake
 protein + chuối, hoặc sữa chua + granola. Mục tiêu: 20-30g protein +
 40-60g carbs.
 
@@ -1721,8 +1721,8 @@ dừng ngay.
 
 **15.4. Khi Nào Cần Gặp Chuyên Gia**
 
-Nhiều người chơi trì hoãn gặp bác sĩ hoặc physiotherapist vì nghĩ \'sẽ
-tự khỏi\'. Điều này thường làm chấn thương nhỏ trở thành chấn thương mạn
+Nhiều người chơi trì hoãn gặp bác sĩ hoặc physiotherapist vì nghĩ 'sẽ
+tự khỏi'. Điều này thường làm chấn thương nhỏ trở thành chấn thương mạn
 tính.
 
 Nên gặp chuyên gia khi:
@@ -1731,7 +1731,7 @@ Nên gặp chuyên gia khi:
 
 - Đau ảnh hưởng đến sinh hoạt hàng ngày
 
-- Có tiếng \'pop\' hoặc \'click\' đi kèm đau
+- Có tiếng 'pop' hoặc 'click' đi kèm đau
 
 - Sưng hoặc bầm tím rõ ràng
 
@@ -1800,7 +1800,7 @@ hơn và cần sự phối hợp cao.
 
 - Giao tiếp với đối tác về serve sẽ đánh vào đâu
 
-**Đối Tác Người Serve (Server\'s Partner):**
+**Đối Tác Người Serve (Server's Partner):**
 
 - Đứng gần lưới, sẵn sàng poach (cắt ngang để đánh volley)
 
@@ -1816,16 +1816,16 @@ người chạy đến cùng một bóng, hoặc cả hai dừng lại vì nghĩ
 
 Giao tiếp cơ bản cần thiết:
 
-- \'Mine!\' / \'Tôi!\' --- khi chạy đến bóng của khu vực mình
+- 'Mine!' / 'Tôi!' --- khi chạy đến bóng của khu vực mình
 
-- \'Yours!\' / \'Bạn!\' --- khi nhường bóng cho đối tác
+- 'Yours!' / 'Bạn!' --- khi nhường bóng cho đối tác
 
-- \'Switch!\' --- đổi vị trí
+- 'Switch!' --- đổi vị trí
 
-- \'Out!\' --- cảnh báo bóng ra ngoài
+- 'Out!' --- cảnh báo bóng ra ngoài
 
-- Sau điểm: brief acknowledgment --- \'tốt lắm\' hoặc \'lần sau chúng
-  ta\...\'
+- Sau điểm: brief acknowledgment --- 'tốt lắm' hoặc 'lần sau chúng
+  ta\...'
 
 > *💡 Cặp đôi hòa hợp về tâm lý thường đánh tốt hơn cặp đôi có kỹ thuật
 > cao hơn nhưng thiếu phối hợp. Đầu tư vào giao tiếp và hiểu biết lẫn
@@ -1887,7 +1887,7 @@ rõ ràng.
 **Điểm Nguy Hiểm Cần Tránh:**
 
 Nhiều người trong năm đầu muốn thi đấu ngay và tập theo kiểu match play
-100%. Đây là sai lầm lớn --- kỹ thuật chưa được thiết lập sẽ bị \'hỏng\'
+100%. Đây là sai lầm lớn --- kỹ thuật chưa được thiết lập sẽ bị 'hỏng'
 bởi áp lực thi đấu sớm.
 
 **17.3. Năm 2: Xây Dựng (Building Year)**
@@ -1923,7 +1923,7 @@ match. Bắt đầu tham gia giải đấu nội bộ câu lạc bộ.
 
 **Trọng Tâm Phát Triển:**
 
-Năm này tập trung vào việc \'chắt lọc\' những gì đã học, làm cho chúng
+Năm này tập trung vào việc 'chắt lọc' những gì đã học, làm cho chúng
 đáng tin cậy hơn thay vì thêm kỹ thuật mới. Nhiều người bỏ qua giai đoạn
 này và tiếp tục thêm kỹ thuật khi nền tảng chưa vững.
 
@@ -1961,7 +1961,7 @@ này và tiếp tục thêm kỹ thuật khi nền tảng chưa vững.
 
 **18.1. Tại Sao Khởi Động Quan Trọng Gấp Đôi Sau 50**
 
-Cơ thể người 50+ mất nhiều thời gian hơn để \'nóng máy\' so với người
+Cơ thể người 50+ mất nhiều thời gian hơn để 'nóng máy' so với người
 trẻ. Nhiệt độ cơ bắp tăng chậm hơn, mạc cơ kém đàn hồi hơn, và hệ thần
 kinh cần nhiều thời gian hơn để kích hoạt. Khởi động không đầy đủ là
 nguyên nhân hàng đầu của chấn thương ở người chơi trung niên.
@@ -2046,7 +2046,7 @@ linh hoạt toàn thân dần dần:
 
 - 90-90 Hip Stretch: 60 giây mỗi bên
 
-- World\'s Greatest Stretch: 5 lần mỗi bên
+- World's Greatest Stretch: 5 lần mỗi bên
 
 - Thoracic Extension over Foam Roller: 60 giây
 
@@ -2180,7 +2180,7 @@ vận động, tư duy chiến thuật, và tương tác xã hội.
 
 **20.2. Tennis và Sức Khỏe Não Bộ**
 
-Tennis là một trong số ít môn thể thao được gọi là \'brain sport\' ---
+Tennis là một trong số ít môn thể thao được gọi là 'brain sport' ---
 môn thể thao não bộ. Mỗi điểm đòi hỏi não bộ phải xử lý đồng thời: vị
 trí bóng, vị trí đối thủ, chiến thuật, kỹ thuật cơ thể, và phản xạ.
 
@@ -2224,17 +2224,17 @@ xây dựng hệ thống (system) mà không cần động lực cũng thực hi
 
 **20.5. Đặt Mục Tiêu Đúng Cách**
 
-Mục tiêu kém thường là: \'Tôi muốn chơi tennis giỏi hơn\'. Đây quá mơ hồ
+Mục tiêu kém thường là: 'Tôi muốn chơi tennis giỏi hơn'. Đây quá mơ hồ
 để hành động. Mục tiêu tốt theo tiêu chuẩn SMART:
 
 **Ví dụ mục tiêu tốt:**
 
-- \'Trong 6 tháng tới, tỷ lệ first serve vào của tôi sẽ đạt 65%\'
+- 'Trong 6 tháng tới, tỷ lệ first serve vào của tôi sẽ đạt 65%'
 
-- \'Cuối năm nay, tôi có thể chơi 3 set liên tục mà không kiệt sức\'
+- 'Cuối năm nay, tôi có thể chơi 3 set liên tục mà không kiệt sức'
 
-- \'Trước giải đấu câu lạc bộ tháng 9, forehand inside-out của tôi đáng
-  tin cậy 80%\'
+- 'Trước giải đấu câu lạc bộ tháng 9, forehand inside-out của tôi đáng
+  tin cậy 80%'
 
 **20.6. Khi Nào Nên Nghỉ Và Khi Nào Nên Tiếp Tục**
 
@@ -2264,7 +2264,7 @@ Nên nghỉ (rút lui thông minh):
 
 **20.7. Tennis Như Là Thiền**
 
-Nhiều người chơi tennis lâu năm mô tả những khoảnh khắc \'trong vùng\'
+Nhiều người chơi tennis lâu năm mô tả những khoảnh khắc 'trong vùng'
 (in the zone) như một trạng thái thiền định --- khi tâm trí không còn
 lang thang về quá khứ hay tương lai, mà hoàn toàn hiện diện trong từng
 bóng, từng bước chân, từng hơi thở.
@@ -2275,7 +2275,7 @@ cân bằng hoàn hảo giữa thách thức và kỹ năng, là một trong nh�
 thao dễ đạt flow nhất.
 
 Khi bạn đạt được trạng thái flow trong tennis, đó là khoảnh khắc bạn
-không còn \'cố gắng chơi\' --- bạn chỉ đơn giản là \'đang chơi\'. Và đó
+không còn 'cố gắng chơi' --- bạn chỉ đơn giản là 'đang chơi'. Và đó
 là điều tuyệt vời nhất mà môn thể thao này có thể mang lại.
 
 **20.8. Lời Kết --- Bắt Đầu Từ Hôm Nay**
@@ -2394,7 +2394,7 @@ Sử dụng mẫu nhật ký sau để theo dõi tiến trình:
 
 - Năng lượng và tâm trí: (1-10) \_\_\_\_\_
 
-- Phát hiện mới hoặc khoảnh khắc \'aha\': \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- Phát hiện mới hoặc khoảnh khắc 'aha': \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 - Điều cần cải thiện buổi sau: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

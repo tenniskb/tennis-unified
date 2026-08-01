@@ -12,63 +12,55 @@ for Part 1 and [Click
 Here](https://www.tennisplayer.net/members/ultimate_drillgames/dave_hagler/drills_for_developing_touch/part_02/)
 for Part 2.
 
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | **Emperor\'s Volley**                                                                                                                                                                                            |
-|   |                                                                                                                                                                                                                  |
-|   | I learned this drill from USPTA and PTR Master Professional Ken DeHart 30 years ago. Bump the ball up then volley it to your partner who will bump it and then volley it back.                                   |
-|   |                                                                                                                                                                                                                  |
-|   | Now catch the ball on your forehand, toss it with the racquet without the bump hit to your partner who catches, tosses and hits back to you.                                                                     |
-|   |                                                                                                                                                                                                                  |
-|   | ![A couple of people playing tennis Description automatically generated with low                                                                                                                                 |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image1.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+===+==================================================================================================================================================================================================================+
-|   | **Mr. G**                                                                                                                                                                                                        |
-|   |                                                                                                                                                                                                                  |
-|   | When I was in my early 20\'s, I spent 20 months in exile in a hellish place known as the DC Suburbs. I worked at a tennis club that no longer exists.                                                            |
-|   |                                                                                                                                                                                                                  |
-|   | There was a man at the club who everyone called \"Mr. G.\" At the time there was a pro tournament sponsored by the Washington Star -- a paper that no longer exists. When the pro players saw him at the         |
-|   | tournament, they all said. \"Hi, Mr. G.\"                                                                                                                                                                        |
-|   |                                                                                                                                                                                                                  |
-|   | Mr. G taught me this drill and I still use it. When I coached college, at the end of the year my players filled out surveys telling me what they liked and what they didn\'t. This drill was the most and least  |
-|   | favorite several times\--so those who liked it really liked it and those who didn\'t, really didn\'t.                                                                                                            |
-|   |                                                                                                                                                                                                                  |
-|   | The Mr. G drill is a surefire indicator of which side is your touch side. It\'s a partner drill. Start at the T, and hit forehand to forehand or backhand to backhand.                                           |
-|   |                                                                                                                                                                                                                  |
-|   | Increase the angle on every shot until you and your partner are outside of the netposts, hitting almost parallel to the net. Now switch your hitting side and work your way back around all the way to the       |
-|   | opposite net post.                                                                                                                                                                                               |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically generated with medium                                                                                                                                        |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image2.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | **2 Box Dink \'Em**                                                                                                                                                                                              |
-|   |                                                                                                                                                                                                                  |
-|   | This drill emphasizes lateral movement. One player drops the ball off the top of the net. The service boxes are the entire court. Whoever wins the point drops the next ball. Play to 7 points.                  |
-|   |                                                                                                                                                                                                                  |
-|   | ![A couple of people play tennis Description automatically generated with low                                                                                                                                    |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image3.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | **1 Box Dink \'Em**                                                                                                                                                                                              |
-|   |                                                                                                                                                                                                                  |
-|   | 1 box Dink \'Em can actually be more a forwards\--backwards game than 2 box Dink \'Em. Use 1 service box on each side\--deuce to ad so the game is not diagonal. Again drop the ball off the net cord.           |
-|   |                                                                                                                                                                                                                  |
-|   | You can volley in 1 box Dink \'Em, but you may not hit down. You also can\'t volley the drop or the shot after the drop.                                                                                         |
-|   |                                                                                                                                                                                                                  |
-|   | ![A couple of people playing tennis Description automatically generated with low                                                                                                                                 |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image4.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-|   |                                                                                                                                                                                                                  |
-|   | That\'s it for July. Stay Tuned, more touch drills to come!                                                                                                                                                      |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  | **Emperor's Volley** |
+| --- | --- |
+|  |  |
+|  | I learned this drill from USPTA and PTR Master Professional Ken DeHart 30 years ago. Bump the ball up then volley it to your partner who will bump it and then volley it back. |
+|  |  |
+|  | Now catch the ball on your forehand, toss it with the racquet without the bump hit to your partner who catches, tosses and hits back to you. |
+|  |  |
+|  | ![A couple of people playing tennis Description automatically generated with low |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image1.webp) |
+|  | **Mr. G** |
+|  |  |
+|  | When I was in my early 20's, I spent 20 months in exile in a hellish place known as the DC Suburbs. I worked at a tennis club that no longer exists. |
+|  |  |
+|  | There was a man at the club who everyone called \"Mr. G.\" At the time there was a pro tournament sponsored by the Washington Star -- a paper that no longer exists. When the pro players saw him at the |
+|  | tournament, they all said. \"Hi, Mr. G.\" |
+|  |  |
+|  | Mr. G taught me this drill and I still use it. When I coached college, at the end of the year my players filled out surveys telling me what they liked and what they didn't. This drill was the most and least |
+|  | favorite several times\--so those who liked it really liked it and those who didn't, really didn't. |
+|  |  |
+|  | The Mr. G drill is a surefire indicator of which side is your touch side. It's a partner drill. Start at the T, and hit forehand to forehand or backhand to backhand. |
+|  |  |
+|  | Increase the angle on every shot until you and your partner are outside of the netposts, hitting almost parallel to the net. Now switch your hitting side and work your way back around all the way to the |
+|  | opposite net post. |
+|  |  |
+|  | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image2.webp) |
+|  | **2 Box Dink 'Em** |
+|  |  |
+|  | This drill emphasizes lateral movement. One player drops the ball off the top of the net. The service boxes are the entire court. Whoever wins the point drops the next ball. Play to 7 points. |
+|  |  |
+|  | ![A couple of people play tennis Description automatically generated with low |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image3.webp) |
+|  | **1 Box Dink 'Em** |
+|  |  |
+|  | 1 box Dink 'Em can actually be more a forwards\--backwards game than 2 box Dink 'Em. Use 1 service box on each side\--deuce to ad so the game is not diagonal. Again drop the ball off the net cord. |
+|  |  |
+|  | You can volley in 1 box Dink 'Em, but you may not hit down. You also can't volley the drop or the shot after the drop. |
+|  |  |
+|  | ![A couple of people playing tennis Description automatically generated with low |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image4.webp) |
+|  |  |
+|  | That's it for July. Stay Tuned, more touch drills to come! |
+
 
 More drills to come! Stay Tuned!
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                                                       Dave Hagler is a Tennis Professional based
-  generated](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image5.jpeg){width="2.0819444444444444in"   in Los Angeles, California. He works with
-  height="2.0972222222222223in"}                                                                                                                                                                                     players of all ages, but he has a special
+  generated](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image5.jpeg)                                                                                                                                                                                     players of all ages, but he has a special
                                                                                                                                                                                                                      passion for junior development. He has
                                                                                                                                                                                                                      coached numerous sectionally and nationally
                                                                                                                                                                                                                      ranked junior players and several national
@@ -76,7 +68,7 @@ More drills to come! Stay Tuned!
                                                                                                                                                                                                                      Professional and National Tester, a PTR
                                                                                                                                                                                                                      Master of Tennis -- Performance, and was one
                                                                                                                                                                                                                      of the first 100 coaches to complete the
-                                                                                                                                                                                                                     USTA\'s High Performance Coaching Program.
+                                                                                                                                                                                                                     USTA's High Performance Coaching Program.
                                                                                                                                                                                                                      He has been the USPTA California Division
                                                                                                                                                                                                                      Pro of the Year and one of 5 National
                                                                                                                                                                                                                      Recipients of the "Pro of the Year" award
@@ -85,16 +77,15 @@ More drills to come! Stay Tuned!
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
-| | **Tennisplayer Forum**                                                                                                              | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image6.gif){width="1.8729166666666666in" | |
-| |                                                                                                                                     | height="1.3958333333333333in"}                                                                                                                                                                                | |
-| +-------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                                                               | |
-| | **Let\'s Talk About this Article!\                                                                                                  |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | Share Your Thoughts with our Subscribers and Authors!\                                                                              |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | [[Click                                                                                                                             |                                                                                                                                                                                                               | |
-| | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |                                                                                                                                                                                                               | |
-| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |
-+=========================================================================================================================================================================================================================================================================================================================================================+
+| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part3/media/image6.gif) |  |
+| +-------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+|  | **Let's Talk About this Article!\ |  |  |
+|  | \ |  |  |
+|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
+|  | \ |  |  |
+|  | [[Click |  |  |
+|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
+

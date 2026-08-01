@@ -16,8 +16,7 @@ research. I believe it represents the future of tennis coaching.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image1.webp){width="3.3333333333333335in"
-height="3.15625in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image1.webp)
 
 **What does 3D analysis tell us about the first phase of the serve?**
 
@@ -34,16 +33,15 @@ years wrestling with the issue as I integrated this powerful new tool
 into my coaching practice.]{.mark}**
 
 Starting this month, I hope to remove some of the potential confusion
-that surrounds an applied 3D approach. We\'ll do this by beginning to
+that surrounds an applied 3D approach. We'll do this by beginning to
 break apart the components of the data presentation, and see how they
-apply to an actual player. **[We\'ll start with the serve. This article
+apply to an actual player. **[We'll start with the serve. This article
 represents the first in a four part series on what is arguably the most
 important stroke in tennis.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image2.webp)
 
 **What are the optimum angles of the key body positions at the end of
 Phase 1?**
@@ -57,7 +55,7 @@ interface if you select \"Racquet Speed Data\" under data options. As
 the animation is played, the 4 phases of the swing are displayed.
 
 In this first article I will focus exclusively on the first phase: the
-wind up. We\'ll discuss the nature of the wind up, and then present some
+wind up. We'll discuss the nature of the wind up, and then present some
 target measurements we use to evaluate players. These targets are
 expressed as the angles of key body positions at the conclusion of the
 wind up. Based on our research, they are optimum values that can be used
@@ -67,7 +65,7 @@ key measurements.\
 \
 Before we start, a brief warning. It is important to realize that one of
 the most important findings in our quantitative work is that there is no
-\"perfect\" way to execute any tennis stroke. It\'s just more complex
+\"perfect\" way to execute any tennis stroke. It's just more complex
 than that.
 
   ----------------------------
@@ -83,7 +81,7 @@ than that.
   ----------------------------
 
 This conclusion may be disappointing for those seeking the \"silver
-bullet\" solution to the serve, or any other stroke problem. But that\'s
+bullet\" solution to the serve, or any other stroke problem. But that's
 reality. The good news is that our results can point to a variety of
 paths for players to develop effective strokes based on their
 preferences and capabilities, as well as their stroke patterns at the
@@ -102,16 +100,15 @@ options and their implications.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image3.webp)
 
 **The wind up: from the separation of the hands to the beginning of the
 racquet drop.**
 
 Assessing how to apply this information, given the capabilities of a
 given player, is where the process transits from science to art in the
-hands of the coach. It\'s important to understand that the science
-itself doesn\'t blindly dictate what should happen. It just provides a
+hands of the coach. It's important to understand that the science
+itself doesn't blindly dictate what should happen. It just provides a
 new perspective to help in that process. The application of this
 information is still based on the creative and intuitive decisions made
 by coaches and players themselves.
@@ -126,15 +123,14 @@ tournament player as our example.
 
 Only by getting your hands dirty with the provided data will you be able
 to follow the intricacies of the discussion, and form your own theories
-which may well be different from mine. I\'m hoping that you\'ll share
+which may well be different from mine. I'm hoping that you'll share
 whatever thoughts you have with me about this in the Forum.
 
 **Phase 1: The Wind Up**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image4.webp)
 
 **The end of the wind up usually corresponds with the beginning of the
 leg drive.**
@@ -160,13 +156,12 @@ up, can make or break the entire service motion, affecting all the
 components.]{.mark}**
 
 These components include: the arm and racquet path, the foot and leg
-work, and the position of the body. So let\'s look at each of those in
+work, and the position of the body. So let's look at each of those in
 some detail, and how they are related to the first phase of the motion.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image4.webp)
 
 **A pendulum wind up with the racket tracing the circumference of the
 circle.**
@@ -190,14 +185,13 @@ we measure at the end of the wind up phase.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image5.webp)
 
 **Roddick: the extreme example of an abbreviated windup.**
 
 Based on our database of Division 1 college players, the wind up
 typically accounts for about 60 % of the total swing time for high level
-servers. How does our player stack up here? He\'s pretty much dead on
+servers. How does our player stack up here? He's pretty much dead on
 track. By clicking on \"Stroke Phase Statistics\" we can see that his
 wind up accounts for 58 % of the total swing time. A traditional
 pendulum wind up creates a racquet path length that is about 150 - 200 %
@@ -241,8 +235,7 @@ the differences in the wind up can alter the organization of the joint
 rotations that generate racquet speed in the upward swing.
 
 ![A person holding a tennis racket Description automatically
-generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image6.webp)
 
 **Different wind ups can complicate the integration of leg drive and
 body rotation.**
@@ -251,7 +244,7 @@ Further, the differences in wind up styles can complicate the
 integration of the leg drive with upper body motion. Many players
 seeking to imitate the pros may actually create more problems for
 themselves than they solve if they are not able to master the more
-difficult aspects of the abbreviated wind ups. We\'ll see the
+difficult aspects of the abbreviated wind ups. We'll see the
 implications of this to both joint rotation and leg drive in upcoming
 installments.
 
@@ -267,8 +260,7 @@ Does the racket hesitate and lose speed, or is the transition continuous
 with the racket head speed continuing to build?
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image7.png){width="4.513888888888889in"
-                                                                                 height="4.780555555555556in"}
+   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image7.png)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **[Two transitions: one with increasing, the other decreasing racket head speed.]{.mark}**
 
@@ -305,8 +297,7 @@ makes sense, as if asked to jump for maximum height, most athletes will
 naturally position their feet in close proximity.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image8.png){width="2.9270833333333335in"
-                                      height="2.3402777777777777in"}**All things being equal, the foot position affects the direction of the groundforce**.
+   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image8.png)**All things being equal, the foot position affects the direction of the groundforce**.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -327,12 +318,11 @@ strength of the leg push. So more leg push, even with a more
 horizontally oriented ground force, could still end up generating
 greater height off the ground. The point is that the effects of the leg
 drive can be manipulated by adjustments in the width of the stance, and
-the type of stance, as we\'ll see below.
+the type of stance, as we'll see below.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image9.webp)
 
 **Federer uses a wide Platform and Roddick uses a Narrow.**
 
@@ -340,7 +330,7 @@ height="2.2291666666666665in"}
 
 The \"foot up\" and \"foot back\" terminology corresponds roughly to the
 common coaching terminology of \"pinpoint\" and \"platform\" stances,
-and this is the terminology I\'ll use. To be clear I\'ll refer to any
+and this is the terminology I'll use. To be clear I'll refer to any
 serve where back foot movement occurs as \"pinpoint\" and any serve
 where no back foot movement occurs as \"platform\". This distinction
 between pinpoint and platform holds regardless of the relative distance
@@ -356,11 +346,10 @@ foot slides in both cases, but how far and where? One version is what we
 can call the standard pinpoint where the back foot is placed directly
 behind the front. The second is the lateral pinpoint where the back foot
 is placed to the hitting side (perhaps even slightly forward of) front
-foot. Again this tends to influence the body\'s segmental positioning at
+foot. Again this tends to influence the body's segmental positioning at
 the end of the wind up.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image10.webp)
 
 **Max Mirni uses a Standard Pinpoint. Marat Safin uses a Lateral
 Pinpoint.**
@@ -415,7 +404,7 @@ goal and the more forward center of mass could have actually been
 accomplished (and perhaps even enhanced in the center of mass case) by
 converting our player to a pinpoint stance.
 
-There are two reasons we didn\' t go in this direction with this player.
+There are two reasons we didn' t go in this direction with this player.
 One reason was the added complexity that sliding the foot adds,
 especially with a young player who already has a platform stance. The
 second, less obvious reason relates to the working conditions of the leg
@@ -430,8 +419,7 @@ conditions can be created by various footwork and leg
 strategies.]{.underline}]{.mark}***
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image11.jpg){width="2.9277777777777776in"
-                                                                                  height="2.9180555555555556in"}
+   ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                             **To maximize body rotation and angular momentum, players must direct the ground force [[behind]{.underline}]{.mark} the center of mass.**
 
@@ -494,8 +482,7 @@ covered mechanical goals are summarized in the table.
   **Stance Variations and Key Components**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Table Description automatically
-  generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image12.jpg){width="2.9277777777777776in"
-  height="1.7569444444444444in"}
+  generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image12.jpg)
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -512,7 +499,7 @@ only at the conclusion of the wind up, which is the first of the 4
 Phases of the motion. It is simply descriptive of what is happening with
 certain factors at the end of the first stage of the serve. What a
 player gains in Phase 1 may or may not be outweighed by other factors
-operating in the later phases. We\'ll see how the relative advantages of
+operating in the later phases. We'll see how the relative advantages of
 both stances play out in greater detail when we progress to Phases 2
 through 4.
 
@@ -522,18 +509,17 @@ may or may not outweigh the advantages of the pinpoint in positioning
 the center of mass, and creating angular momentum in the initial phase
 of the motion.]{.underline}]{.mark}**
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image13.webp)
 
 **The arm to trunk goal is a minimum angle of 80 degrees.**
 
 **Key Body Positions**
 
 So now we get to the actual payoff of all our work understanding the
-wind up factors. Let\'s look at the key body positions and the angles at
+wind up factors. Let's look at the key body positions and the angles at
 the end of the windup.
 
-All of the body actions and motions we\'ve been looking at lead to
+All of the body actions and motions we've been looking at lead to
 important body and segment positions. These positions are important
 because the success of the rest of the motion depends on them. The list
 provided is by no means exhaustive, but does contain those of greatest
@@ -561,8 +547,7 @@ productive portion of the back swing loop. You may recall that that a
 low elbow position is often, but not necessarily, associated with an
 abbreviated back swing.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image14.webp)
 
 **Knee bend angles can range from 90 to 120 degrees.**
 
@@ -586,8 +571,7 @@ the wind up represent the maximum flexion. This can be verified by
 selecting \"Leg and Trunk Data\" in \"Data Options\" and observing the
 bar graph elements that track knee angles.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image15.webp)
 
 **The line of the hips to the baseline perpendicular: a minimum 10
 degree value.**
@@ -610,8 +594,7 @@ Trunk Data\" in \"Data Options\" and observing either the line graph for
 hip rotation speed, or the bar graph elements that track the line of the
 hips angle.
 
-![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image16.webp)
 
 **Turning the shoulders 20 degrees past perpendicular to the baseline is
 a conservative value.**
@@ -644,8 +627,7 @@ avoided as it becomes counter productive to the goal of positioning the
 center of mass forward.
 
 ![A person playing tennis Description automatically
-generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image17.webp)
 
 **The backward trunk lean value can be as much as 30 degrees.**
 
@@ -668,8 +650,7 @@ degree goal angle so coaches should be aware of this position.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image18.webp)
 
 **The lateral lean is the angle of the trunk to the court from the rear
 view.**
@@ -691,7 +672,7 @@ how well the player has developed conditions for future success at the
 completion of the windup, and how his body is positioned by key body
 angles.
 
-The good news for those that don\'t have access to 3D technology is that
+The good news for those that don't have access to 3D technology is that
 most of the wind up options are observable on court with video
 technology and the knowledge of what to look for. Observation and
 analysis becomes increasingly complicated, however, with regard to the
@@ -711,21 +692,20 @@ Nichols, and R. Escamilla. 2003. Technique effects on upper limb loading
 in the tennis serve. Journal of Science and Medicine in Sport  6(1):
 76-87.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                         | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image19.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                        | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                      | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                      | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                      | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                      | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                      | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                      | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                      | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                      |                                                               |
-|                                                                                                                                                                                                      | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                      | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                      |                                                               |
-|                                                                                                                                                                                                      | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                      | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+======================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image19.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

@@ -60,9 +60,9 @@ chơi giỏi và người chơi xuất sắc, giữa nghiệp dư và bán chuy�
 Đây là một vị trí đặc biệt đòi hỏi một phương pháp coaching đặc biệt.
 
 Ở mức 5.0, kỹ thuật cơ bản đã được hình thành. Vận động viên có thể
-serve, forehand, backhand và volley. Câu hỏi không còn là \'họ có thể
-làm gì\' mà là \'họ có thể làm điều đó dưới áp lực, trong tình huống
-chiến thuật phức tạp, và với sự nhất quán cao như thế nào.\' Đây là
+serve, forehand, backhand và volley. Câu hỏi không còn là 'họ có thể
+làm gì' mà là 'họ có thể làm điều đó dưới áp lực, trong tình huống
+chiến thuật phức tạp, và với sự nhất quán cao như thế nào.' Đây là
 thách thức cốt lõi mà cuốn sách này hướng đến.
 
 Trong 20 chương, chúng ta sẽ đi từ tâm lý chiến thắng đến kỹ thuật
@@ -137,8 +137,8 @@ trận đấu.
 
 Ngược lại, tư duy tăng trưởng trong quần vợt có nghĩa là coi mỗi điểm
 thua là thông tin có giá trị. Khi một cú backhand xuống lưới, không phải
-là \'tôi không thể đánh backhand\' mà là \'tôi cần điều chỉnh góc vợt và
-điểm tiếp xúc ở cú này.\' Sự khác biệt nghe có vẻ nhỏ nhưng tạo ra tác
+là 'tôi không thể đánh backhand' mà là 'tôi cần điều chỉnh góc vợt và
+điểm tiếp xúc ở cú này.' Sự khác biệt nghe có vẻ nhỏ nhưng tạo ra tác
 động khổng lồ trong quá trình tập luyện. Người chơi với tư duy tăng
 trưởng thực sự muốn được chỉ ra lỗi sai vì họ hiểu rằng nhận biết vấn đề
 là bước đầu tiên để giải quyết nó.
@@ -146,14 +146,14 @@ là bước đầu tiên để giải quyết nó.
 Với tư cách là huấn luyện viên, nhiệm vụ của bạn không chỉ là dạy kỹ
 thuật --- mà còn là xây dựng và củng cố tư duy tăng trưởng cho vận động
 viên. Điều này đòi hỏi bạn phải chú ý đến ngôn ngữ mình sử dụng. Thay vì
-nói \'Cú forehand của em tệ quá,\' hãy nói \'Hãy thử điều chỉnh điểm
-tiếp xúc bóng xuống thấp hơn 10cm và xem điều gì xảy ra.\' Thay vì nói
-\'Em không bao giờ có thể serve ổn định,\' hãy nói \'Serve cần thêm công
+nói 'Cú forehand của em tệ quá,' hãy nói 'Hãy thử điều chỉnh điểm
+tiếp xúc bóng xuống thấp hơn 10cm và xem điều gì xảy ra.' Thay vì nói
+'Em không bao giờ có thể serve ổn định,' hãy nói 'Serve cần thêm công
 việc --- đây là routine tập luyện sẽ giúp em cải thiện trong 8 tuần
-tới.\'
+tới.'
 
 Đặc biệt quan trọng là cách xử lý sai lầm sau điểm số. Những vận động
-viên 5.0 xuất sắc nhất có một quy trình riêng để \'xả\' sai lầm và tập
+viên 5.0 xuất sắc nhất có một quy trình riêng để 'xả' sai lầm và tập
 trung trở lại. Họ không mang lỗi cũ vào điểm tiếp theo. Như Rafael Nadal
 từng chia sẻ: điều làm ông ấy đặc biệt không phải là ông không bao giờ
 mắc lỗi, mà là ông có thể hoàn toàn quên đi một lỗi sai trước khi bắt
@@ -169,7 +169,7 @@ người không có routine.
 
 Tại sao routine lại quan trọng đến vậy? Não bộ con người trong trạng
 thái căng thẳng (như khi đang chơi ở breakpoint) có xu hướng chuyển sang
-chế độ \'chiến đấu hoặc bỏ chạy\' --- một phản ứng tiến hóa không phù
+chế độ 'chiến đấu hoặc bỏ chạy' --- một phản ứng tiến hóa không phù
 hợp với yêu cầu của quần vợt hiện đại. Routine giúp kích hoạt vỏ não
 trước trán (prefrontal cortex) --- phần não chịu trách nhiệm về tư duy
 chiến lược và kiểm soát cảm xúc --- đồng thời ức chế phản ứng căng thẳng
@@ -191,7 +191,7 @@ nhân.
 
 Ngoài pre-point routine, vận động viên 5.0 cũng cần có between-point
 routine (giữa các điểm) và changeover routine (khi đổi bên). Đây là
-những \'điểm reset\' quan trọng trong trận đấu --- những khoảnh khắc mà
+những 'điểm reset' quan trọng trong trận đấu --- những khoảnh khắc mà
 não bộ có thể nghỉ ngơi ngắn, xử lý thông tin, và chuẩn bị cho thử thách
 tiếp theo. Một vận động viên quản lý tốt những khoảnh khắc này có thể
 duy trì mức độ tập trung cao trong suốt 2-3 tiếng đồng hồ của một trận
@@ -218,29 +218,29 @@ progressive training --- thiết kế các bài tập và tình huống thi đ�
 vận động viên có thể thành công, rồi dần dần tăng độ khó --- quan trọng
 hơn nhiều so với việc liên tục đẩy vận động viên vào những tình huống họ
 chưa sẵn sàng. Mỗi lần vận động viên thực hiện thành công một điểm kỹ
-thuật khó trong tập luyện, một \'viên gạch\' tự tin được thêm vào nền
+thuật khó trong tập luyện, một 'viên gạch' tự tin được thêm vào nền
 tảng. Hàng trăm, hàng ngàn viên gạch như vậy tạo thành kiến trúc của sự
 tự tin thực sự.
 
 Ngôn ngữ của huấn luyện viên cũng có tác động mạnh mẽ đến sự tự tin của
-vận động viên. Nghiên cứu cho thấy vận động viên thường \'internalize\'
+vận động viên. Nghiên cứu cho thấy vận động viên thường 'internalize'
 (nội tâm hóa) nhận xét của huấn luyện viên và biến chúng thành lời tự
-nói với bản thân (self-talk). Nếu bạn thường xuyên nói \'Tôi biết em có
-thể làm được điều này\' hoặc \'Tôi đã thấy em thực hiện cú này hoàn hảo
-trăm lần rồi,\' vận động viên sẽ bắt đầu nói điều tương tự với bản thân
+nói với bản thân (self-talk). Nếu bạn thường xuyên nói 'Tôi biết em có
+thể làm được điều này' hoặc 'Tôi đã thấy em thực hiện cú này hoàn hảo
+trăm lần rồi,' vận động viên sẽ bắt đầu nói điều tương tự với bản thân
 trong trận đấu.
 
 Cuối cùng, tự tin không có nghĩa là không biết sợ. Những vận động viên
 xuất sắc nhất vẫn cảm thấy hồi hộp và áp lực --- nhưng họ đã học cách sử
 dụng cảm giác đó như một nguồn năng lượng thay vì để nó làm tê liệt họ.
-Dạy vận động viên cách \'reframe\' (tái định khung) áp lực --- chuyển từ
-\'Tôi sợ quá\' thành \'Tôi đang hưng phấn\' --- là một kỹ năng tâm lý có
+Dạy vận động viên cách 'reframe' (tái định khung) áp lực --- chuyển từ
+'Tôi sợ quá' thành 'Tôi đang hưng phấn' --- là một kỹ năng tâm lý có
 giá trị cao ở mức 5.0.
 
 1.5 Quản Lý Áp Lực Trong Các Điểm Quan Trọng
 
 Không có khái niệm nào quan trọng hơn trong tâm lý quần vợt cấp cao hơn
-khái niệm \'pressure point management\' --- quản lý những điểm số có tầm
+khái niệm 'pressure point management' --- quản lý những điểm số có tầm
 quan trọng đặc biệt. Trong một set, không phải tất cả các điểm đều có
 giá trị như nhau. Nghiên cứu phân tích xác suất trong quần vợt chỉ ra
 rằng một số điểm --- breakpoints, deuce, 30-40 --- có tác động không cân
@@ -254,19 +254,19 @@ họ chiến thắng đúng những điểm quan trọng.
 
 Ứng dụng thực tế cho coaching: hãy tạo ra những tình huống pressure
 point trong tập luyện. Thay vì chỉ tập theo hình thức tự do, hãy thiết
-kế những scenarios cụ thể --- \'Em đang serve ở 4-5, 30-40. Đây là điểm
-này, hãy giả định toàn bộ áp lực của tình huống đó.\' Sự lặp lại các
+kế những scenarios cụ thể --- 'Em đang serve ở 4-5, 30-40. Đây là điểm
+này, hãy giả định toàn bộ áp lực của tình huống đó.' Sự lặp lại các
 tình huống high-stakes trong môi trường an toàn của tập luyện giúp não
-bộ xây dựng \'bản đồ thần kinh\' (neural pathways) cho phép xử lý bình
+bộ xây dựng 'bản đồ thần kinh' (neural pathways) cho phép xử lý bình
 tĩnh hơn khi tình huống tương tự xảy ra trong thi đấu thật.
 
-Một chiến lược hữu ích khác là \'process focus\' --- tập trung vào quy
+Một chiến lược hữu ích khác là 'process focus' --- tập trung vào quy
 trình thay vì kết quả. Khi đang ở breakpoint, một vận động viên tập
-trung vào kết quả sẽ nghĩ: \'Nếu tôi mất điểm này thì sẽ bị break, rồi
-sẽ mất set, rồi\...\' Chuỗi suy nghĩ này hoàn toàn phản tác dụng và
+trung vào kết quả sẽ nghĩ: 'Nếu tôi mất điểm này thì sẽ bị break, rồi
+sẽ mất set, rồi\...' Chuỗi suy nghĩ này hoàn toàn phản tác dụng và
 không thể kiểm soát được. Ngược lại, một vận động viên với process focus
-sẽ chỉ nghĩ về một việc cụ thể: \'Serve vào body, theo sau với forehand
-chéo góc.\' Đây là điều họ có thể kiểm soát, và việc tập trung vào nó
+sẽ chỉ nghĩ về một việc cụ thể: 'Serve vào body, theo sau với forehand
+chéo góc.' Đây là điều họ có thể kiểm soát, và việc tập trung vào nó
 đưa não bộ vào trạng thái tối ưu để thực thi.
 
 Hãy ghi nhớ nguyên tắc này: trong những điểm quan trọng nhất, tâm lý
@@ -314,7 +314,7 @@ position, một trophy position sai sẽ làm lệch pronation, và thiếu
 pronation sẽ cướp đi tốc độ và spin tiềm năng của cú đánh.
 
 Khi phân tích serve của vận động viên 5.0, hãy bắt đầu từ trophy
-position trở về. Đây là điểm \'đóng băng\' trong cú serve nơi bạn có thể
+position trở về. Đây là điểm 'đóng băng' trong cú serve nơi bạn có thể
 đánh giá chính xác nhất liệu tất cả các yếu tố trước đó đã được thực
 hiện đúng hay chưa. Một trophy position hoàn hảo --- với vai ngả ra sau,
 vợt chỉ lên cao, cánh tay tung bóng vươn thẳng, cân nặng dồn lên chân
@@ -377,15 +377,15 @@ Năm lỗi serve phổ biến nhất ở mức 5.0 và cách sửa: Thứ nhất
 không nhất quán --- thường do cổ tay hoặc khuỷu tay uốn cong khi tung
 bóng. Sửa bằng cách giữ cánh tay tung bóng thẳng hoàn toàn và chỉ dùng
 vai để nâng cánh tay lên. Thứ hai, mất trophy position --- vận động viên
-\'cụp\' vợt sớm quá mức, mất năng lượng tiềm năng. Sửa bằng drill
-\'scratch your back\' --- dừng vợt ở điểm tiếp xúc với lưng trước khi
+'cụp' vợt sớm quá mức, mất năng lượng tiềm năng. Sửa bằng drill
+'scratch your back' --- dừng vợt ở điểm tiếp xúc với lưng trước khi
 accelerate lên. Thứ ba, thiếu pronation --- nhiều vận động viên đánh
-bằng \'push\' thay vì \'whip.\' Sửa bằng drill tung vợt: ném vợt về phía
+bằng 'push' thay vì 'whip.' Sửa bằng drill tung vợt: ném vợt về phía
 trước (không release) để cảm nhận cảm giác pronation đúng.
 
 Thứ tư, trọng tâm không chuyển --- không transfer weight từ chân sau
 sang chân trước trong quá trình serve. Sửa bằng drill platform stance
-với footwork: tập trung vào bước \'load\' vào chân sau và \'explode\'
+với footwork: tập trung vào bước 'load' vào chân sau và 'explode'
 lên. Thứ năm, serve tay quá sớm --- cánh tay trên accelerate trước khi
 lower body đã hoàn thành rotation. Đây là lỗi timing tinh tế nhất và
 cũng khó sửa nhất. Cần slow-motion video để phát hiện và nhiều tháng
@@ -420,8 +420,8 @@ serve và bắt đầu di chuyển trong cùng một chuyển động liên tụ
 có khoảng dừng. Đây là kỹ năng cần được tập luyện riêng biệt, vì nó đòi
 hỏi sự phối hợp giữa cú serve và footwork khác với serve bình thường.
 
-Chiến thuật serve-and-volley hiện đại: sử dụng như một \'biến thể bất
-ngờ\' thay vì chiến lược chính. Nếu bạn serve-and-volley mọi điểm, đối
+Chiến thuật serve-and-volley hiện đại: sử dụng như một 'biến thể bất
+ngờ' thay vì chiến lược chính. Nếu bạn serve-and-volley mọi điểm, đối
 thủ sẽ thích nghi và lob bạn hoặc pass bạn. Nhưng nếu bạn mix
 serve-and-volley vào 20-30% các game serve --- đặc biệt trên những điểm
 quan trọng khi đối thủ không expect --- nó tạo ra lợi thế bất ngờ lớn.
@@ -429,7 +429,7 @@ quan trọng khi đối thủ không expect --- nó tạo ra lợi thế bất n
 Split step timing khi serve-and-volley là kỹ năng quan trọng. Khi đang
 chạy lên net sau serve, vận động viên cần thực hiện split step ngay khi
 đối thủ chạm bóng để return. Split step đặt cơ thể vào trạng thái
-\'balanced and ready to move\' --- cho phép phản ứng nhanh nhất với
+'balanced and ready to move' --- cho phép phản ứng nhanh nhất với
 hướng return. Một trong những lỗi phổ biến nhất là không split step hoặc
 split step quá sớm/muộn, dẫn đến việc tiếp cận volley với cân bằng không
 tốt.
@@ -443,13 +443,13 @@ với bóng từ basket), match practice (tập trong tình huống thi đấu),
 video analysis (phân tích và điều chỉnh).
 
 Tuần 1-2 (Nền tảng): Tập trung vào một yếu tố kỹ thuật cụ thể --- thường
-là ball toss vì đây là nền tảng của mọi thứ. Drill: \'wall toss\' ---
+là ball toss vì đây là nền tảng của mọi thứ. Drill: 'wall toss' ---
 tung bóng vào tường và để nó nảy lại, sau đó catch bằng vợt. Mục tiêu là
 toss nhất quán vào cùng một vị trí mỗi lần. Kết hợp với 5-10 phút shadow
 serve mỗi ngày để xây dựng muscle memory.
 
 Tuần 3-4 (Tốc độ): Sau khi toss ổn định, tập trung vào pronation và tốc
-độ racquet head. Drill: \'towel drill\' --- kẹp khăn tắm nhỏ giữa dây
+độ racquet head. Drill: 'towel drill' --- kẹp khăn tắm nhỏ giữa dây
 vợt và grip, tập serve motion và check xem khăn tắm có fly ra đúng lúc
 pronation không. Nếu khăn tắm fly ra sớm --- pronation đến sớm; nếu
 không fly ra --- không có đủ pronation. Mục tiêu cuối tuần 4: cảm nhận
@@ -462,11 +462,11 @@ vận động viên tạo ra đủ spin để bóng đi vòng cung đủ cao. Sa
 vào ổn định ở tốc độ chậm, dần dần tăng tốc độ.
 
 Tuần 7-8 (Tích hợp chiến thuật): Kết hợp tất cả các loại serve trong
-context chiến thuật. Drill yêu thích: \'serve target\' --- đặt cones
+context chiến thuật. Drill yêu thích: 'serve target' --- đặt cones
 hoặc water bottle vào các vị trí khác nhau trong ô giao bóng và tập
-luyện serve chính xác. Sau đó thiết kế scenarios: \'Đây là deuce point,
+luyện serve chính xác. Sau đó thiết kế scenarios: 'Đây là deuce point,
 em cần ace hoặc buộc đối thủ trả yếu --- hãy chọn serve tốt nhất và thực
-hiện 3 lần.\' Đánh giá kết quả và adjust. Mục tiêu cuối chương trình:
+hiện 3 lần.' Đánh giá kết quả và adjust. Mục tiêu cuối chương trình:
 consistency rate (tỷ lệ first serve vào) trên 65% và ít nhất 2-3 loại
 serve khác nhau sẵn sàng trong match play.
 
@@ -503,7 +503,7 @@ tiếp cận, tăng lên 6-7 ngay tại thời điểm tiếp xúc bóng.
 Grip change giữa các cú đánh: ở mức 5.0, vận động viên cần thực hiện
 grip change nhanh và tự động giữa forehand, backhand, volley, và serve.
 Điều này không phải tự nhiên mà có --- nó đòi hỏi tập luyện có chủ ý.
-Drill cơ bản: \'rapid grip change\' --- liên tục thay đổi grip từ
+Drill cơ bản: 'rapid grip change' --- liên tục thay đổi grip từ
 forehand sang backhand sang volley trong 30 giây với vợt cầm trên không,
 không có bóng. Mục tiêu là thực hiện thay đổi này nhanh đến mức không
 cần suy nghĩ.
@@ -527,19 +527,19 @@ xoáy topspin cực mạnh.
 Cơ chế kỹ thuật của windshield wiper: tại thời điểm tiếp xúc bóng, thay
 vì chỉ đẩy vợt về phía trước, cổ tay và cẳng tay bắt đầu pronation mạnh
 (xoay ngửa) trong khi khuỷu tay uốn cong và kéo về phía thân. Kết quả:
-mặt vợt \'quét\' qua bóng với tốc độ cao, tạo ra cực nhiều topspin. Điều
+mặt vợt 'quét' qua bóng với tốc độ cao, tạo ra cực nhiều topspin. Điều
 này cho phép đánh rất mạnh trong khi vẫn duy trì tỷ lệ vào bóng cao vì
 topspin kéo bóng xuống.
 
 Sự khác biệt giữa windshield wiper và over-the-shoulder finish: trong
 over-the-shoulder finish (kiểu cổ điển), momentum của cú đánh đơn giản
 mang vợt lên qua vai. Trong windshield wiper, có một active motion ---
-cổ tay chủ động \'snap\' và kéo vợt sang bên. Để cảm nhận sự khác biệt:
+cổ tay chủ động 'snap' và kéo vợt sang bên. Để cảm nhận sự khác biệt:
 thực hiện forehand chậm và để vợt tự nhiên dừng lại --- đây là
 over-the-shoulder. Sau đó thêm active wrist snap sang bên --- đây là
 windshield wiper.
 
-Drill để phát triển windshield wiper: \'high-five drill\' --- sau khi
+Drill để phát triển windshield wiper: 'high-five drill' --- sau khi
 tiếp xúc bóng, kết thúc với mặt vợt chỉ về phía huấn luyện viên như thể
 bạn đang high-five. Điều này tự động tạo ra windshield wiper motion. Sau
 khi cảm giác đúng, dần dần tăng tốc độ của snap cổ tay. Một drill khác:
@@ -599,8 +599,8 @@ không gian hơn, nhưng down-the-line pass khi được thực hiện đúng l�
 
 Một trong những cuộc tranh luận lớn trong coaching quần vợt hiện đại là
 về stance --- nên dạy open stance hay neutral stance (closed stance)?
-Câu trả lời, như với nhiều câu hỏi trong coaching tiên tiến, là \'tùy
-thuộc\' --- và hiểu được \'tùy thuộc vào điều gì\' là dấu hiệu của một
+Câu trả lời, như với nhiều câu hỏi trong coaching tiên tiến, là 'tùy
+thuộc' --- và hiểu được 'tùy thuộc vào điều gì' là dấu hiệu của một
 huấn luyện viên 5.0 thực sự.
 
 Open stance forehand (bàn chân song song với baseline, cơ thể quay mặt
@@ -623,18 +623,18 @@ high bouncing balls. Neutral/semi-open stance khi: bóng đến chậm và có
 thể position tốt, attack shots đặc biệt là down-the-line, approach
 shots.
 
-Drill để phát triển cả hai stance: \'stance discrimination drill\' ---
-huấn luyện viên feed bóng đến các vị trí khác nhau và gọi \'open\' hoặc
-\'closed\' trước khi vận động viên đánh, buộc họ phải adjust stance on
+Drill để phát triển cả hai stance: 'stance discrimination drill' ---
+huấn luyện viên feed bóng đến các vị trí khác nhau và gọi 'open' hoặc
+'closed' trước khi vận động viên đánh, buộc họ phải adjust stance on
 command. Sau đó nâng lên: không gọi, để vận động viên tự đọc tình huống
-và chọn stance phù hợp. Cuối cùng: match play với instruction \'sau mỗi
-điểm, kể tên stance em đã dùng và lý do.\' Điều này xây dựng conscious
+và chọn stance phù hợp. Cuối cùng: match play với instruction 'sau mỗi
+điểm, kể tên stance em đã dùng và lý do.' Điều này xây dựng conscious
 awareness trước khi trở thành automatic.
 
 3.5 Forehand Như Một Vũ Khí Tấn Công
 
-Ở mức 5.0, sự phân biệt giữa \'có forehand tốt\' và \'có forehand như
-một vũ khí\' là sự khác biệt quan trọng. Một forehand tốt ổn định, nhất
+Ở mức 5.0, sự phân biệt giữa 'có forehand tốt' và 'có forehand như
+một vũ khí' là sự khác biệt quan trọng. Một forehand tốt ổn định, nhất
 quán, và ít lỗi. Một forehand vũ khí làm tất cả điều đó CỘNG THÊM khả
 năng tạo ra điểm số dứt khoát khi cơ hội xuất hiện. Xây dựng forehand
 thành vũ khí đòi hỏi một cách tiếp cận training khác --- không chỉ tập
@@ -642,30 +642,30 @@ nhất quán mà còn tập intentional aggression.
 
 Aggression trong forehand không có nghĩa là đánh liều. Nó có nghĩa là ra
 quyết định sớm và chắc chắn khi cơ hội tấn công xuất hiện. Một vận động
-viên với vũ khí forehand nhận ra \'short ball\' ngay khi nó rời vợt đối
+viên với vũ khí forehand nhận ra 'short ball' ngay khi nó rời vợt đối
 thủ, lập tức điều chỉnh vị trí và chuẩn bị full attacking swing, và thực
 thi với conviction (quyết tâm) thay vì hesitation. Hesitation ở đây là
 kẻ thù nguy hiểm nhất --- vận động viên thấy cơ hội nhưng không dám tấn
 công hết mình, kết quả là một cú đánh nửa-tấn-công vừa đủ tệ để đối thủ
 counter.
 
-Xây dựng \'attacking forehand trigger\': trong coaching, hãy giúp mỗi
+Xây dựng 'attacking forehand trigger': trong coaching, hãy giúp mỗi
 vận động viên xác định điều kiện cụ thể khi họ PHẢI tấn công forehand.
-Ví dụ: \'Khi bóng ngắn hơn service line và cao hơn đầu gối, đây là green
-light để tấn công.\' Đơn giản hóa quyết định này giúp não bộ phản ứng
-nhanh hơn thay vì \'phân tích liệu có nên tấn công không.\'
+Ví dụ: 'Khi bóng ngắn hơn service line và cao hơn đầu gối, đây là green
+light để tấn công.' Đơn giản hóa quyết định này giúp não bộ phản ứng
+nhanh hơn thay vì 'phân tích liệu có nên tấn công không.'
 
 Power versus consistency: đây là tension cốt lõi trong phát triển
 forehand vũ khí. Khi tập tấn công, nhất quán tạm thời giảm. Điều này
-bình thường và cần thiết. Quan điểm đúng đắn: không phải \'tôi đang mắc
-nhiều lỗi hơn\' mà là \'tôi đang học để tấn công ở mức độ mới, và trong
-giai đoạn học này, có nhiều lỗi hơn là bình thường.\' Sau khi kỹ năng
+bình thường và cần thiết. Quan điểm đúng đắn: không phải 'tôi đang mắc
+nhiều lỗi hơn' mà là 'tôi đang học để tấn công ở mức độ mới, và trong
+giai đoạn học này, có nhiều lỗi hơn là bình thường.' Sau khi kỹ năng
 mới được tích hợp, consistency sẽ quay trở lại ở mức cao hơn.
 
-Drill tập forehand vũ khí: \'target hitting challenge\' --- đặt cones
+Drill tập forehand vũ khí: 'target hitting challenge' --- đặt cones
 hoặc mục tiêu trong các ô nhỏ trong sân và challenge vận động viên hit
 7/10 mục tiêu trong khi đánh 80% sức. Gradually increase tốc độ và
-decrease kích thước mục tiêu. Sau đó \'pressure feeding\' --- huấn luyện
+decrease kích thước mục tiêu. Sau đó 'pressure feeding' --- huấn luyện
 viên feed bóng ngắn và vận động viên phải chạy về và hit mục tiêu.
 Pressure của chạy + targeting + tốc độ simulate điều kiện của attacking
 forehand trong match thật.
@@ -714,17 +714,17 @@ cao hơn với athlete đúng, nhưng đòi hỏi commitment lớn hơn.
 
 4.2 Kỹ Thuật Backhand Hai Tay Cấp Cao
 
-Backhand hai tay ở mức 5.0 không chỉ đơn giản là \'hai tay cầm vợt.\'
+Backhand hai tay ở mức 5.0 không chỉ đơn giản là 'hai tay cầm vợt.'
 Đây là một cú đánh phức tạp đòi hỏi sự phối hợp tinh tế giữa rotation
 của hông và vai, timing của bước chân, và contribution của cả hai cánh
-tay. Nhiều vận động viên 5.0 có backhand hai tay \'cơ bản tốt\' nhưng
+tay. Nhiều vận động viên 5.0 có backhand hai tay 'cơ bản tốt' nhưng
 chưa unlock full potential của nó vì thiếu một hoặc hai yếu tố kỹ thuật
 quan trọng.
 
 Yếu tố quan trọng nhất mà nhiều vận động viên bỏ qua: vai trò của tay
 không thuận (non-dominant hand). Trong backhand hai tay, tay không thuận
 đóng vai trò driving hand --- nó tạo ra phần lớn power và direction.
-Nhiều vận động viên hai tay thực ra chỉ \'guide\' bằng tay không thuận
+Nhiều vận động viên hai tay thực ra chỉ 'guide' bằng tay không thuận
 trong khi tay thuận làm phần lớn công việc, kết quả là mất power và nhất
 quán. Drill để cải thiện: tập backhand một tay với tay không thuận (tay
 trái với người thuận phải) để cảm nhận contribution của nó.
@@ -733,8 +733,8 @@ Hip and shoulder rotation trong backhand hai tay: không giống forehand,
 backhand hai tay có rotation ngược --- hông và vai rotate từ closed
 (coil) sang open (uncoil) theo hướng ngược lại. Timing của uncoiling
 phải đồng bộ với swing forward. Một lỗi phổ biến: uncoil quá sớm (trước
-khi swing đến contact point), \'leaking\' power. Drill: \'pause and
-check\' --- coil, dừng 1 giây, rồi uncoil và swing. Điều này xây dựng
+khi swing đến contact point), 'leaking' power. Drill: 'pause and
+check' --- coil, dừng 1 giây, rồi uncoil và swing. Điều này xây dựng
 muscle memory về timing đúng của coil-uncoil sequence.
 
 Contact point trong backhand hai tay: ideally là phía trước hip, hơi
@@ -745,7 +745,7 @@ hitting đến target từ contact point đó. Sau đó check pattern với vide
 
 Backhand two-handed topspin và hai-handed slice: như đã đề cập, hai tay
 không thuận lợi bằng cho backhand slice. Giải pháp: dạy vận động viên
-\'release\' tay không thuận sau contact để tạo ra slice motion, sau đó
+'release' tay không thuận sau contact để tạo ra slice motion, sau đó
 regrab. Điều này cho phép hai-handed player slice khi cần (defensive,
 approach, or tactical) mà không phải hoàn toàn chuyển sang one-handed
 slice.
@@ -771,22 +771,22 @@ backhand slice.
 Shoulder turn và coil: đây là nền tảng của backhand một tay. Vận động
 viên phải coil vai phải (với người thuận tay phải) sang bên trái, tạo ra
 tension trong cơ lưng trên và vai. Đây là nguồn power chính của backhand
-một tay. Một lỗi rất phổ biến: vận động viên \'arm\' backhand --- dùng
+một tay. Một lỗi rất phổ biến: vận động viên 'arm' backhand --- dùng
 chủ yếu cánh tay mà không có shoulder coil, dẫn đến cú đánh yếu và thiếu
 consistency.
 
 Lag và acceleration: tương tự forehand, wrist lag là key cho speed và
-spin trong backhand một tay. Khi shoulder coil, cổ tay tự nhiên \'lag\'
-(chậm lại so với cánh tay trên). Tại contact point, wrist \'releases\'
+spin trong backhand một tay. Khi shoulder coil, cổ tay tự nhiên 'lag'
+(chậm lại so với cánh tay trên). Tại contact point, wrist 'releases'
 (accelerate), đóng góp lớn vào speed của racquet head. Nhiều vận động
-viên không conscious về lag này và thực ra \'kill\' nó bằng cách cầm vợt
+viên không conscious về lag này và thực ra 'kill' nó bằng cách cầm vợt
 quá chặt hoặc muscling cú đánh.
 
 High balls và backhand một tay: đây là điểm yếu nổi tiếng nhất của
 backhand một tay, đặc biệt quan trọng trên clay courts (sân đất nơi bóng
-nảy cao). Giải pháp: học backhand slice như một \'weapon\' cho high
-balls thay vì cố gắng topspin mọi bóng cao. Cũng cần tập \'jumping
-backhand\' --- một trong những kỹ thuật phòng thủ quan trọng --- nơi vận
+nảy cao). Giải pháp: học backhand slice như một 'weapon' cho high
+balls thay vì cố gắng topspin mọi bóng cao. Cũng cần tập 'jumping
+backhand' --- một trong những kỹ thuật phòng thủ quan trọng --- nơi vận
 động viên nhảy để tiếp xúc bóng ở điểm thoải mái hơn.
 
 4.4 Backhand Cross-Court Versus Down-The-Line
@@ -795,10 +795,10 @@ Quyết định backhand cross-court hay down-the-line là một trong những
 quyết định chiến thuật phổ biến nhất trong quần vợt baseline. Ở mức 5.0,
 vận động viên cần không chỉ có kỹ năng thực hiện cả hai mà còn có sự
 hiểu biết chiến thuật về khi nào chọn cái nào. Sự thay đổi này --- từ
-cross-court sang down-the-line --- được gọi là \'change of direction\'
+cross-court sang down-the-line --- được gọi là 'change of direction'
 và là một trong những kỹ năng khó nhất trong quần vợt baseline.
 
-Tại sao cross-court backhand là \'default\' an toàn hơn: lưới thấp hơn
+Tại sao cross-court backhand là 'default' an toàn hơn: lưới thấp hơn
 6-8 cm ở giữa so với hai bên, court rộng hơn theo đường chéo, và cú đánh
 theo hướng swing tự nhiên hơn. Đây là lý do 90% backhand trong rally là
 cross-court --- không phải vì vận động viên thiếu sáng tạo mà vì xác
@@ -812,9 +812,9 @@ phải sớm hơn (phía trước hơn bình thường), racquet face mở về 
 mong muốn sớm hơn. Đây là lý do nhiều vận động viên fail ở down-the-line
 --- họ không adjust contact point và direction đủ sớm.
 
-Drill cho change-of-direction backhand: bắt đầu với \'down-the-line
-penalty box\' drill --- trên sân, giao bóng vào backhand cross-court và
-sau 3-4 bóng, gọi \'line!\' --- vận động viên phải chuyển hướng ngay
+Drill cho change-of-direction backhand: bắt đầu với 'down-the-line
+penalty box' drill --- trên sân, giao bóng vào backhand cross-court và
+sau 3-4 bóng, gọi 'line!' --- vận động viên phải chuyển hướng ngay
 bóng tiếp theo. Drill này tập kỹ thuật thay đổi hướng trong áp lực thời
 gian. Sau khi kỹ thuật ổn định, thêm vào decision making --- không báo
 trước khi nào thay đổi hướng.
@@ -822,7 +822,7 @@ trước khi nào thay đổi hướng.
 Body language và deception: vận động viên 5.0 xuất sắc che giấu ý định
 cho đến lúc cuối cùng. Bằng cách giữ setup giống nhau cho cả cross-court
 và down-the-line, họ không cho đối thủ cơ hội đọc hướng trước. Drill cho
-deception: \'same setup, different shot\' --- tập thực hiện cả
+deception: 'same setup, different shot' --- tập thực hiện cả
 cross-court và down-the-line từ cùng một position và setup, chỉ thay đổi
 contact point và direction muộn nhất có thể.
 
@@ -830,17 +830,17 @@ contact point và direction muộn nhất có thể.
 
 Backhand slice là một trong những cú đánh đa năng và bị đánh giá thấp
 nhất trong quần vợt. Đối với nhiều vận động viên, backhand slice chỉ là
-\'cú defensive khi không xử lý được bóng bình thường.\' Nhưng ở mức 5.0,
+'cú defensive khi không xử lý được bóng bình thường.' Nhưng ở mức 5.0,
 một backhand slice tinh tế là vũ khí chiến thuật đa năng: nó thay đổi
 nhịp điệu, tạo ra bóng thấp và khó xử lý, có thể là approach shot cực kỳ
 hiệu quả, và là công cụ quan trọng trong những điểm số ngắn.
 
 Kỹ thuật backhand slice: grip chuyển về phía continental, cú đánh là
-\'high to low\' (từ cao xuống thấp) với mặt vợt mở một chút. Điểm quan
-trọng: đây không phải là \'underhit backhand\' hay \'defensive push\'
+'high to low' (từ cao xuống thấp) với mặt vợt mở một chút. Điểm quan
+trọng: đây không phải là 'underhit backhand' hay 'defensive push'
 --- đây là một cú đánh kỹ thuật với motion hoàn chỉnh, chỉ là theo hướng
 khác với topspin. Nhiều vận động viên slice yếu vì không có full swing
---- họ \'block\' bóng thay vì slice qua nó.
+--- họ 'block' bóng thay vì slice qua nó.
 
 Backhand slice approach shot: đây có lẽ là ứng dụng chiến thuật quan
 trọng nhất của backhand slice ở mức 5.0. Khi nhận một bóng mid-court cơ
@@ -856,12 +856,12 @@ comfortable với sự thay đổi đột ngột này và mắc lỗi hoặc tr�
 Đây là một trong những chiến thuật yêu thích của Boris Becker và nhiều
 champions khác trên các bề mặt sân khác nhau.
 
-Drill backhand slice: \'low-ball challenge\' --- huấn luyện viên feed
+Drill backhand slice: 'low-ball challenge' --- huấn luyện viên feed
 bóng có heavy topspin nảy cao, vận động viên dùng backhand slice để xử
-lý và đặt bóng deep. Sau đó \'slice approach series\': feed bóng ngắn,
+lý và đặt bóng deep. Sau đó 'slice approach series': feed bóng ngắn,
 slice approach down-the-line, và di chuyển lên net sẵn sàng cho volley.
-Cuối cùng, tích hợp vào match play với target cụ thể: \'ít nhất 2-3 lần
-mỗi set, hãy sử dụng backhand slice như một tactical change-up.\'
+Cuối cùng, tích hợp vào match play với target cụ thể: 'ít nhất 2-3 lần
+mỗi set, hãy sử dụng backhand slice như một tactical change-up.'
 
 **CHƯƠNG 5**
 
@@ -899,7 +899,7 @@ nhất để họ đầu tư vào phát triển net game.
 Yêu cầu tâm lý của net game: đứng gần lưới đòi hỏi courage và
 commitment. Vận động viên không được do dự --- do dự tại lưới gần như
 luôn dẫn đến thua điểm. Một trong những công việc quan trọng nhất của
-coaching là xây dựng \'net confidence\' --- sự thoải mái và quyết đoán
+coaching là xây dựng 'net confidence' --- sự thoải mái và quyết đoán
 của vận động viên khi ở lưới. Điều này đến từ hàng trăm giờ luyện tập
 net game, không phải từ lời nói khích lệ đơn thuần.
 
@@ -907,10 +907,10 @@ net game, không phải từ lời nói khích lệ đơn thuần.
 
 Volley là cú đánh ngắn gọn nhất trong quần vợt --- không có full swing,
 không có big backswing. Đây là điều nhiều người biết nhưng nhiều người
-thực hiện sai. Vấn đề phổ biến nhất: vận động viên cố gắng \'drive\'
+thực hiện sai. Vấn đề phổ biến nhất: vận động viên cố gắng 'drive'
 volley như một groundstroke, tạo ra backswing quá lớn và làm chậm thời
 gian phản ứng trong khi hầu như không thêm power. Volley tốt đến từ
-timing, positioning, và một cú \'punch\' (đấm) ngắn gọn --- không phải
+timing, positioning, và một cú 'punch' (đấm) ngắn gọn --- không phải
 từ swing mạnh.
 
 Split step là kỹ năng quan trọng nhất cho net play. Mỗi khi đối thủ
@@ -958,8 +958,8 @@ punch down vào sân với full arm extension.
 
 Footwork cho overhead: đây là điểm yếu phổ biến nhất. Vận động viên
 thường di chuyển ra sau bằng cách bước forward hoặc sideways, trong khi
-nhiều khi cần backpedal nhanh. Drill quan trọng: \'overhead footwork
-only\' --- huấn luyện viên lob, vận động viên không được đánh, chỉ di
+nhiều khi cần backpedal nhanh. Drill quan trọng: 'overhead footwork
+only' --- huấn luyện viên lob, vận động viên không được đánh, chỉ di
 chuyển vào vị trí tốt nhất, dừng lại, và giơ tay chỉ về phía bóng. Sau
 đó combine với actual hitting.
 
@@ -970,7 +970,7 @@ lưới). Huấn luyện viên cần help vận động viên nhận biết khi 
 trực tiếp là feasible và khi nào nên let bounce. Quy tắc chung: nếu phải
 chạy quá nhanh ra sau --- let bounce.
 
-Drill overhead: \'continuous lob and overhead\' --- vận động viên ở
+Drill overhead: 'continuous lob and overhead' --- vận động viên ở
 lưới, huấn luyện viên liên tục lob từ short range. Vận động viên
 overhead, phục hồi vị trí lưới, overhead lại. Series 10 overhead liên
 tiếp với mục tiêu 8/10 vào sân. Sau đó pressure drill: vận động viên ở
@@ -986,10 +986,10 @@ bóng ngay tại lưới), và angled volley (volley tạo góc rộng) là nh�
 đánh đòi hỏi sự kết hợp giữa kỹ năng kỹ thuật tinh tế và quyết định
 chiến thuật xuất sắc.
 
-Drop volley technique: mục tiêu là bóng \'chết\' ngay sau khi qua lưới,
-không có momentum. Để đạt được điều này, vợt phải \'absorb\' momentum
+Drop volley technique: mục tiêu là bóng 'chết' ngay sau khi qua lưới,
+không có momentum. Để đạt được điều này, vợt phải 'absorb' momentum
 của bóng thay vì reflect nó. Kỹ thuật: giảm grip pressure ngay trước và
-trong khi tiếp xúc bóng, cho phép bóng \'sink\' vào dây vợt; mặt vợt mở
+trong khi tiếp xúc bóng, cho phép bóng 'sink' vào dây vợt; mặt vợt mở
 và hơi cắt xuống dưới bóng để tạo backspin. Backspin làm bóng stop ngay
 sau khi nảy.
 
@@ -1006,7 +1006,7 @@ Drill: đặt target cone ở góc sân và tập volley vào cone từ mid-cour
 
 Phát triển touch: touch không phải là thiên bẩm --- nó được phát triển
 thông qua thousands of repetitions với conscious attention. Drill để
-phát triển touch: \'ball control challenge\' --- đứng gần lưới và try để
+phát triển touch: 'ball control challenge' --- đứng gần lưới và try để
 bóng nảy trong ô nhỏ ngay sau lưới (trong vòng 30-50 cm sau net), liên
 tiếp 5 lần với volley feed. Drill này cực kỳ khó lúc đầu nhưng nhanh
 chóng nâng cao touch trong vài tuần tập luyện nhất quán.
@@ -1027,7 +1027,7 @@ down-the-line là selection tốt nhất vì giảm angle cho passing shot);
 depth cao hơn (deep và low); và quan trọng nhất --- move tiếp tục lên
 net ngay lập tức sau khi hit.
 
-Down-the-line versus cross-court approach: down-the-line là \'classic\'
+Down-the-line versus cross-court approach: down-the-line là 'classic'
 và thường tốt hơn vì: giảm angle cho passing shot, đặt bạn gần center
 sau khi lên net, và đối thủ phải hit qua phần cao nhất của lưới để pass
 down-the-line. Cross-court approach chỉ nên dùng khi: bóng đến từ phía
@@ -1045,7 +1045,7 @@ approach. Cần đánh giá: bóng có đủ thấp và slow để tấn công? 
 tôi trên sân có tốt không? Đối thủ có bị displaced không? Nếu cả ba câu
 trả lời là có --- approach. Nếu không chắc --- có thể safer là một
 topspin deep groundstroke để tiếp tục setup. Drill cho decision making:
-\'green/yellow/red ball\' --- huấn luyện viên feed các loại bóng khác
+'green/yellow/red ball' --- huấn luyện viên feed các loại bóng khác
 nhau, vận động viên gọi màu tương ứng với action trước khi hit (green =
 approach, yellow = neutral, red = defensive).
 

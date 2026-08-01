@@ -6,7 +6,7 @@
 
 Two years ago I was watching Novak Djokovic play John Isner at the Miami
 Open. Isner launched a monster serve flat down the T in the deuce court.
-Djokovic turned, lunged but stayed on balance and blocked back Isner\'s
+Djokovic turned, lunged but stayed on balance and blocked back Isner's
 serve with authority, deep down the middle of the court.
 
 My awe for his return continued to grow throughout the match. How was it
@@ -20,10 +20,9 @@ Turn and Grip Change.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-unit-turn-revelation/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-unit-turn-revelation/media/image1.webp)
 
-**The unit turn revelation came watching Novak\'s backhand return.**
+**The unit turn revelation came watching Novak's backhand return.**
 
 **The Most**
 
@@ -32,17 +31,16 @@ greatest and most immediate impact it is in the unit turn and grip
 preparation.
 
 When I see a player flow into an intense, fully rotated unit turn with
-minimal racquet movement I get goose bumps. Whether it\'s the powerful,
-rapid turn of the Williams\'s sisters backhands, or Nadal when he turns
+minimal racquet movement I get goose bumps. Whether it's the powerful,
+rapid turn of the Williams's sisters backhands, or Nadal when he turns
 for an inside out forehand, or one of my strong juniors, when I see a
 great unit turn I know a shot is primed and full of potential.
 
 ![A person wearing a green shirt Description automatically generated
 with medium
-confidence](media_my-unit-turn-revelation/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-unit-turn-revelation/media/image2.webp)
 
-**Nadal\'s forehand: an intense, fully rotated unit turn.**
+**Nadal's forehand: an intense, fully rotated unit turn.**
 
 When working with a student new to me, I most closely analyze first the
 ready position, the unit turn, and the grip change. It is all too easy
@@ -69,12 +67,11 @@ step is a key in reaching your potential. But players can work on
 improving the split step later. The unit turn and grip change are
 different.
 
-You don\'t need monumental strength to do them properly. Therefore I am
+You don't need monumental strength to do them properly. Therefore I am
 exceedingly picky when teaching the unit turn at all levels.
 
 ![A person playing tennis Description automatically
-generated](media_my-unit-turn-revelation/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-unit-turn-revelation/media/image3.webp)
 
 **The Ready Position with good posture and spacing between the arms and
 torso.**
@@ -105,14 +102,13 @@ for an inside out forehand. The only times this is not the case is when
 the player needs to sprint forward for a drop shot or the incoming shot
 is very high and slow.
 
-Often they are still static when the ball bounces. At that point it\'s
+Often they are still static when the ball bounces. At that point it's
 too late for anything good to happen. So most players must be
 consciously trained to react to the hit and to start the unit turn right
 away.
 
 ![A person playing tennis Description automatically
-generated](media_my-unit-turn-revelation/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-unit-turn-revelation/media/image4.webp)
 
 **The unit turn, before the player takes a step toward the ball.**
 
@@ -143,13 +139,12 @@ If the turn and grip change are not executed well then the ability to
 achieve smooth movement as well as great racquet preparation is
 compromised.
 
-I won\'t go in depth on the various grip switches here. The combinations
+I won't go in depth on the various grip switches here. The combinations
 are complicated. But here are a few guidelines.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-unit-turn-revelation/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-unit-turn-revelation/media/image5.webp)
 
 **Watch Dimitrov as he turns the hitting side of the racket to the
 opponent and rotates the grip immediately at the start of the turn.**
@@ -175,7 +170,7 @@ push.
 
 **Working Together\--or Not**
 
-Now let\'s go back to Djokovic\'s return. Watching him that day at
+Now let's go back to Djokovic's return. Watching him that day at
 Wimbledon, I began to refine the rules of the Framework.
 
 **[[Rule #1 states that movement and racquet work must be analyzed in
@@ -185,12 +180,11 @@ deceleration of movement and swings.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-unit-turn-revelation/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-unit-turn-revelation/media/image6.webp)
 
 **As little motion as possible finishing with the arms level.**
 
-Novak\'s backhand return demonstrates those elements as well as any shot
+Novak's backhand return demonstrates those elements as well as any shot
 in tennis. Novak is the master of the art of doing as little as
 possible. The racquet is prepared mostly by the turn of the feet, hips
 and shoulders with minimal extra movement.
@@ -200,7 +194,7 @@ independent arm action. This is terribly misplaced. The body does the
 work for you.
 
 But pay attention to other elements. When Novak turned to return
-Isner\'s serve, his arms stayed virtually level. They do not move up or
+Isner's serve, his arms stayed virtually level. They do not move up or
 down or away from his torso in any noticeable way. Many other pros are
 not nearly as efficient or economical.
 
@@ -218,10 +212,9 @@ balanced way possible.
 
 ![A picture containing grass, tennis, racket, person Description
 automatically
-generated](media_my-unit-turn-revelation/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-unit-turn-revelation/media/image7.webp)
 
-**Novak\'s outside foot rotates like a greased hinge.**
+**Novak's outside foot rotates like a greased hinge.**
 
 **[[Why are the level arms so important?]{.underline}]{.mark}**
 ***[Because [the arms and racquet have]{.underline} [real mass and
@@ -248,7 +241,7 @@ feet pointed towards the net, or sometimes ata lesser angle. But then,
 as if his foot is on a greased hinge, it rotates to parallel with the
 baseline. Think of that wonderful device at your local Chinese
 restaurant, the Lazy Suzan. Understanding all this that day at Wimbledon
-I wanted to jump out of my seat and scream, "it\'s a miracle.\"
+I wanted to jump out of my seat and scream, "it's a miracle.\"
 
 During the last few years of my career I had struggled with my backhand
 return. I never felt like I had any power or leverage. Djokovic helped
@@ -256,15 +249,14 @@ me see the light. The fundamental problem was I never got my outside
 foot turned parallel to the net and so my body was not turning.
 
 ![A person playing tennis Description automatically
-generated](media_my-unit-turn-revelation/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-unit-turn-revelation/media/image8.webp)
 
 **Compare the extent of the turn for Harrison versus Novak.**
 
 Some players think I am too picky when I teach these elements of the
 unit-turn and grip change. But a few degrees less leg turn or a shift of
 the racquet too far up or down has drastic and hurtful impact. To
-illustrate this point I usually bring up Djokovic\'s backhand versus
+illustrate this point I usually bring up Djokovic's backhand versus
 Andy Roddick and Ryan Harrison.
 
 The relatively poor backhands hit by Ryan and Andy start with the poor
@@ -282,14 +274,13 @@ recovery.
 Furthermore this poor unit turn leads to compromised tactical choices. I
 remember watching Harrison play Nadal at the US Open. He, like Roddick
 sometimes did, resorted to moving far back in the court and slicing. Off
-course the results were not good. But what isn\'t widely understood is
+course the results were not good. But what isn't widely understood is
 that the problems started with a poor unit turn.
 
 **The Inner Game Fallacy**
 
 ![A person holding a tennis racket Description automatically
-generated](media_my-unit-turn-revelation/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-unit-turn-revelation/media/image9.webp)
 
 **Tim Henman demonstrates the foot and body turn on the volley.**
 
@@ -321,14 +312,13 @@ intermediate players and below, start with this issue of the unit
 turn.]{.underline}]{.mark}** Many players develop the turn easily and
 naturally, but many players, and again, even good and great ones,
 struggle with the turn one side or the other. Jez Green who was Andy
-Murray\'s movement coach told me that Murray was far better going to his
+Murray's movement coach told me that Murray was far better going to his
 backhand than his forehand. Green said they constantly worked on
-Murray\'s hip flexibility to improve the turn to that side.
+Murray's hip flexibility to improve the turn to that side.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-unit-turn-revelation/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-unit-turn-revelation/media/image10.webp)
 
 **A high level split step can add energy to the turn.**
 
@@ -357,7 +347,7 @@ spring to the shot.
 **[Which brings us back to the split step. [A great split step is like
 an earthquake]{.underline}. It creates great additional energy, but
 before using that energy in springing to the shot a player must be
-stable, loose, and relaxed above the waist player when landing. That\'s
+stable, loose, and relaxed above the waist player when landing. That's
 what a great split step allows.]{.mark}**
 
 **[[Like an earthquake safe building, the player absorbs waves of
@@ -370,8 +360,7 @@ more powerful unit turn and maximum push and acceleration to the shot.
 But all that is predicated on a great unit turn.
 
 ![A person holding a tennis racket Description automatically
-generated](media_my-unit-turn-revelation/media/image11.jpeg){width="1.5659722222222223in"
-height="2.1319444444444446in"}
+generated](media_my-unit-turn-revelation/media/image11.jpeg)
 
 Following a legendary professional playing career, Tim Mayotte is now
 focused on developing the best tennis training program in America. For

@@ -123,7 +123,7 @@ trì thể chất phi thường.
 Nghiên cứu học thuật về cross-training bắt đầu bùng nổ từ thập niên
 1980, khi các nhà khoa học thể thao nhận ra rằng cơ thể con người phản
 ứng với kích thích đa dạng tốt hơn so với kích thích đơn điệu. Nguyên lý
-này được gọi là \'training variety principle\' hay đa dạng hóa kích
+này được gọi là 'training variety principle' hay đa dạng hóa kích
 thích tập luyện.
 
 **1.2 Tại Sao Vận Động Viên 5.0 Đặc Biệt Cần Cross-Training?**
@@ -151,19 +151,19 @@ lệ chấn thương 38%, tăng điểm thể chất tổng hợp 22%, và quan 
 --- họ tiếp tục cải thiện về kỹ thuật vì cơ thể không bị giới hạn bởi
 khả năng thể chất.
 
-+----------------------------------------------------------------------+
-| **📌 Chỉ Số NTRP 5.0 --- Đặc Điểm Thể Chất**                         |
-|                                                                      |
-| • Tốc độ phục vụ trung bình: Nam 150-180 km/h \| Nữ 120-150 km/h     |
-|                                                                      |
-| • Số bước di chuyển trung bình mỗi điểm: 8-15 bước nhanh             |
-|                                                                      |
-| • Thay đổi hướng trong một trận: 300-500 lần                         |
-|                                                                      |
-| • Thời gian phục hồi giữa điểm: 20-25 giây                           |
-|                                                                      |
-| • Nhịp tim trung bình trong thi đấu: 140-165 BPM                     |
-+----------------------------------------------------------------------+
+| **📌 Chỉ Số NTRP 5.0 --- Đặc Điểm Thể Chất** |  |
+| --- | --- |
+|  |  |
+| • Tốc độ phục vụ trung bình: Nam 150-180 km/h \ | Nữ 120-150 km/h |
+|  |  |
+| • Số bước di chuyển trung bình mỗi điểm: 8-15 bước nhanh |  |
+|  |  |
+| • Thay đổi hướng trong một trận: 300-500 lần |  |
+|  |  |
+| • Thời gian phục hồi giữa điểm: 20-25 giây |  |
+|  |  |
+| • Nhịp tim trung bình trong thi đấu: 140-165 BPM |  |
+
 
 **1.3 Nguyên Lý Sinh Lý Học Cơ Bản**
 
@@ -221,7 +221,7 @@ song:
 
 **1.5 Phân Tích Nhu Cầu Năng Lượng Trong Tennis**
 
-Tennis là môn thể thao thuộc loại \'intermittent high-intensity sport\'
+Tennis là môn thể thao thuộc loại 'intermittent high-intensity sport'
 --- cường độ cao ngắt quãng. Một điểm kéo dài trung bình 4-10 giây, sau
 đó có thời gian nghỉ 20-25 giây. Điều này tạo ra một profil năng lượng
 rất đặc thù:
@@ -235,7 +235,7 @@ hoạt động suốt trận đấu, đặc biệt quan trọng giữa các đi�
 game để phục hồi.
 
 Một trận tennis 5.0 có thể kéo dài 90-180 phút. Trong thời gian đó, cầu
-thủ thực sự \'đánh bóng\' chỉ khoảng 20-30% tổng thời gian. Nhưng sự mệt
+thủ thực sự 'đánh bóng' chỉ khoảng 20-30% tổng thời gian. Nhưng sự mệt
 mỏi tích lũy theo thời gian là có thực và là thách thức lớn nhất ở cấp
 độ này.
 
@@ -284,23 +284,23 @@ Bơi lội 30 phút sau buổi tập tennis cường độ cao giúp loại th�
 nhanh hơn 34% so với thụ động nghỉ ngơi, đồng thời giảm cảm giác đau cơ
 (DOMS) 28% trong 48 giờ tiếp theo.
 
-+----------------------------------------------------------------------+
-| **📌 Thống Kê Chấn Thương Tennis --- Tại Sao Cross-Training Là Cấp   |
-| Thiết**                                                              |
-|                                                                      |
-| • 50-70% tay vợt có ít nhất 1 chấn thương mỗi năm thi đấu            |
-|                                                                      |
-| • Chấn thương vai: 23% tổng số chấn thương                           |
-|                                                                      |
-| • Chấn thương khuỷu tay (tennis elbow): 19%                          |
-|                                                                      |
-| • Chấn thương cổ chân và đầu gối: 28%                                |
-|                                                                      |
-| • Đau lưng dưới mãn tính: 38% vận động viên trên 25 tuổi             |
-|                                                                      |
+| **📌 Thống Kê Chấn Thương Tennis --- Tại Sao Cross-Training Là Cấp |
+| --- |
+| Thiết** |
+|  |
+| • 50-70% tay vợt có ít nhất 1 chấn thương mỗi năm thi đấu |
+|  |
+| • Chấn thương vai: 23% tổng số chấn thương |
+|  |
+| • Chấn thương khuỷu tay (tennis elbow): 19% |
+|  |
+| • Chấn thương cổ chân và đầu gối: 28% |
+|  |
+| • Đau lưng dưới mãn tính: 38% vận động viên trên 25 tuổi |
+|  |
 | • 65% chấn thương có thể phòng ngừa bằng chương trình cross-training |
-| phù hợp                                                              |
-+----------------------------------------------------------------------+
+| phù hợp |
+
 
 **1.8 Nguyên Tắc Vàng Của Cross-Training Tennis**
 
@@ -365,25 +365,25 @@ kế như một công cụ làm việc hàng ngày của bạn:
 Hãy ghi chú, đánh dấu và điều chỉnh theo thực tế của bạn. Khoa học là
 nền tảng, nhưng nghệ thuật huấn luyện nằm ở khả năng áp dụng linh hoạt.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 1**                                              |
-|                                                                      |
-| ✓ Cross-training là hệ thống tập luyện đa phương thức, không thay    |
-| thế tennis mà bổ sung cho tennis                                     |
-|                                                                      |
+| **📌 Tóm Tắt Chương 1** |
+| --- |
+|  |
+| ✓ Cross-training là hệ thống tập luyện đa phương thức, không thay |
+| thế tennis mà bổ sung cho tennis |
+|  |
 | ✓ Vận động viên 5.0 đặc biệt cần cross-training để vượt qua giới hạn |
-| thể chất                                                             |
-|                                                                      |
-| ✓ Ba nguyên lý khoa học cốt lõi: SAID, Progressive Overload,         |
-| Compatibility                                                        |
-|                                                                      |
-| ✓ 5 trụ cột thể chất: Sức mạnh, Tốc độ, Sức bền, Linh hoạt, Kiểm     |
-| soát TK-Cơ                                                           |
-|                                                                      |
-| ✓ Bằng chứng khoa học mạnh mẽ ủng hộ cross-training có cấu trúc      |
-|                                                                      |
-| ✓ 5 nguyên tắc vàng cần ghi nhớ suốt quá trình huấn luyện            |
-+----------------------------------------------------------------------+
+| thể chất |
+|  |
+| ✓ Ba nguyên lý khoa học cốt lõi: SAID, Progressive Overload, |
+| Compatibility |
+|  |
+| ✓ 5 trụ cột thể chất: Sức mạnh, Tốc độ, Sức bền, Linh hoạt, Kiểm |
+| soát TK-Cơ |
+|  |
+| ✓ Bằng chứng khoa học mạnh mẽ ủng hộ cross-training có cấu trúc |
+|  |
+| ✓ 5 nguyên tắc vàng cần ghi nhớ suốt quá trình huấn luyện |
+
 
 **CHƯƠNG 2**
 
@@ -440,14 +440,14 @@ sao tăng cường rotator cuff là ưu tiên hàng đầu trong cross-training.
   Serratus Anterior                   Ổn định xương vai, cho phép nâng
                                       cánh tay đầy đủ
 
-  Lower Trapezius                     Kéo xương vai xuống, chống \'vai
-                                      nhô\' (scapular winging)
+  Lower Trapezius                     Kéo xương vai xuống, chống 'vai
+                                      nhô' (scapular winging)
   -----------------------------------------------------------------------
 
 **Khuỷu Tay Và Tennis Elbow**
 
-Lateral epicondylitis --- \'tennis elbow\' hay \'viêm mỏm lồi cầu
-ngoài\' --- là chấn thương phổ biến nhất trong tennis, ảnh hưởng 35-50%
+Lateral epicondylitis --- 'tennis elbow' hay 'viêm mỏm lồi cầu
+ngoài' --- là chấn thương phổ biến nhất trong tennis, ảnh hưởng 35-50%
 tay vợt trong suốt cuộc đời. Mặc dù tên gọi liên quan đến tennis, 95%
 người mắc không phải là tay vợt.
 
@@ -456,8 +456,8 @@ radialis brevis) tại điểm bám vào mỏm lồi cầu ngoài. Trong backhan
 tay đặc biệt, khi cổ tay không được kiểm soát đúng cách, lực eccentric
 (co bóp lệch tâm) dồn vào điểm này tạo ra vi chấn thương tích lũy.
 
-Medial epicondylitis --- \'golfer\'s elbow\' hay \'tennis elbow phía
-trong\' --- ít phổ biến hơn nhưng nguy hiểm hơn vì liên quan đến gân cơ
+Medial epicondylitis --- 'golfer's elbow' hay 'tennis elbow phía
+trong' --- ít phổ biến hơn nhưng nguy hiểm hơn vì liên quan đến gân cơ
 gấp và thần kinh trụ. Thường gặp ở vận động viên có kỹ thuật phục vụ
 mạnh.
 
@@ -485,7 +485,7 @@ hàng đầu của đau lưng tái phát ở tay vợt.
 
 **Hệ Thống Vùng Lõi --- Core System**
 
-\'Core\' không phải chỉ là cơ bụng 6 múi (rectus abdominis). Hệ thống
+'Core' không phải chỉ là cơ bụng 6 múi (rectus abdominis). Hệ thống
 vùng lõi thực sự bao gồm:
 
 - Transversus abdominis (cơ ngang bụng): Lớp cơ sâu nhất, hoạt động như
@@ -503,19 +503,19 @@ vùng lõi thực sự bao gồm:
 - Obliques (cơ chéo bụng ngoài và trong): Tạo và kiểm soát lực xoay thân
 
 Sự phối hợp chính xác của tất cả các cơ này --- không phải sức mạnh
-riêng lẻ của từng cơ --- là yếu tố tạo ra \'core stability\' thực sự.
+riêng lẻ của từng cơ --- là yếu tố tạo ra 'core stability' thực sự.
 Đây là nền tảng của mọi cú đánh mạnh và di chuyển hiệu quả trong tennis.
 
 **2.4 Giải Phẫu Học Vùng Hông Và Chi Dưới**
 
 **Khớp Hông --- Hip Joint**
 
-Trong tennis hiện đại, hông là \'động cơ\' của mọi cú đánh. Sức mạnh và
+Trong tennis hiện đại, hông là 'động cơ' của mọi cú đánh. Sức mạnh và
 biên độ vận động của khớp hông ảnh hưởng trực tiếp đến sức mạnh cú đánh,
 khả năng di chuyển và nguy cơ chấn thương lưng.
 
 Các cơ xoay hông ngoài (external hip rotators) --- đặc biệt là nhóm
-\'deep six\' bao gồm piriformis, obturator externus, obturator internus,
+'deep six' bao gồm piriformis, obturator externus, obturator internus,
 quadratus femoris, gemellus superior và gemellus inferior --- thường bị
 bỏ qua trong chương trình tập luyện nhưng cực kỳ quan trọng cho ổn định
 và kiểm soát hông trong tennis.
@@ -553,7 +553,7 @@ chuyển động phức tạp nhất trong thể thao. Chuỗi động học t�
 6.  Bàn chân: Cơ calf và peroneal tạo nền tảng ổn định, cho phép bùng
     phát năng lượng từ đất
 
-7.  Đầu gối: Quadriceps co duỗi mạnh, tạo \'leg drive\' --- nguồn lực
+7.  Đầu gối: Quadriceps co duỗi mạnh, tạo 'leg drive' --- nguồn lực
     chính của cú đánh
 
 8.  Hông: Rotation của hông (glutes, hip flexors, hip rotators) chuyển
@@ -632,45 +632,45 @@ Cross-training phải được thiết kế để khắc phục những mất c�
 Hiểu biết giải phẫu học dẫn đến các nguyên tắc thiết kế cross-training
 cụ thể:
 
-**Nguyên Tắc \'Push-Pull Balance\'**
+**Nguyên Tắc 'Push-Pull Balance'**
 
 Với mỗi bài tập pushing (đẩy --- pectoralis, anterior deltoid, triceps),
 phải có bài tập pulling (kéo --- rhomboids, lower trapezius, external
 rotators) tương ứng để duy trì cân bằng. Tỷ lệ lý tưởng cho tay vợt: 1:2
 (1 bài đẩy : 2 bài kéo).
 
-**Nguyên Tắc \'Posterior Chain Priority\'**
+**Nguyên Tắc 'Posterior Chain Priority'**
 
 Chuỗi cơ sau cơ thể --- glutes, hamstrings, erector spinae, posterior
 shoulder --- thường bị yếu hơn và ít được chú ý hơn. Ưu tiên tăng cường
 posterior chain trong cross-training để tạo nền tảng ổn định và giảm
 nguy cơ chấn thương.
 
-**Nguyên Tắc \'Proximal Stability, Distal Mobility\'**
+**Nguyên Tắc 'Proximal Stability, Distal Mobility'**
 
 Ổn định phần gần (lưng, hông, vai) tạo điều kiện cho sự linh hoạt và
 kiểm soát phần xa (bàn tay, bàn chân). Đây là nguyên lý cốt lõi: bạn
 không thể phóng tên từ một chiếc thuyền nan. Vùng lõi ổn định là nền
 tảng của mọi cú đánh hiệu quả.
 
-+----------------------------------------------------------------------+
-| **📌 Điểm Kiểm Tra Giải Phẫu Học Cho HLV**                           |
-|                                                                      |
-| → Quan sát tư thế vai của VĐV: vai trước vươn ra phía trước? (Dấu    |
-| hiệu yếu lower trapezius)                                            |
-|                                                                      |
-| → Kiểm tra biên độ xoay vai: xoay ngoài \< 90°? (Dấu hiệu tight      |
-| posterior capsule)                                                   |
-|                                                                      |
-| → Đánh giá asymmetry: bên thuận cao hơn bên không thuận? (Dấu hiệu   |
-| cơ bắp mất cân bằng)                                                 |
-|                                                                      |
-| → Quan sát cơ chế di chuyển: đầu gối vào trong khi dừng? (Dấu hiệu   |
-| yếu glute medius)                                                    |
-|                                                                      |
-| → Test single-leg squat: có lắc hông không? (Kiểm tra hip abductor   |
-| strength)                                                            |
-+----------------------------------------------------------------------+
+| **📌 Điểm Kiểm Tra Giải Phẫu Học Cho HLV** |
+| --- |
+|  |
+| → Quan sát tư thế vai của VĐV: vai trước vươn ra phía trước? (Dấu |
+| hiệu yếu lower trapezius) |
+|  |
+| → Kiểm tra biên độ xoay vai: xoay ngoài \< 90°? (Dấu hiệu tight |
+| posterior capsule) |
+|  |
+| → Đánh giá asymmetry: bên thuận cao hơn bên không thuận? (Dấu hiệu |
+| cơ bắp mất cân bằng) |
+|  |
+| → Quan sát cơ chế di chuyển: đầu gối vào trong khi dừng? (Dấu hiệu |
+| yếu glute medius) |
+|  |
+| → Test single-leg squat: có lắc hông không? (Kiểm tra hip abductor |
+| strength) |
+
 
 **2.8 Tóm Tắt Ứng Dụng**
 
@@ -686,26 +686,26 @@ strength.
 để chẩn đoán như bác sĩ, mà để quan sát tinh tế hơn và thiết kế
 cross-training phù hợp hơn cho từng cá nhân.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 2**                                              |
-|                                                                      |
+| **📌 Tóm Tắt Chương 2** |
+| --- |
+|  |
 | ✓ Tennis đòi hỏi toàn thân trong mỗi cú đánh --- hiểu chuỗi động học |
-| là thiết yếu                                                         |
-|                                                                      |
-| ✓ Rotator cuff là nhóm cơ quan trọng nhất và dễ tổn thương nhất ở    |
-| vai                                                                  |
-|                                                                      |
-| ✓ Core system thực sự bao gồm 4 lớp cơ, không chỉ cơ bụng bề mặt     |
-|                                                                      |
-| ✓ Tennis tạo ra mất cân bằng cơ bắp đặc trưng cần được               |
-| cross-training điều chỉnh                                            |
-|                                                                      |
-| ✓ 3 nguyên tắc thiết kế: Push-Pull Balance, Posterior Chain          |
-| Priority, Proximal Stability                                         |
-|                                                                      |
-| ✓ HLV cần quan sát và đánh giá tư thế, di chuyển để phát hiện yếu    |
-| điểm giải phẫu                                                       |
-+----------------------------------------------------------------------+
+| là thiết yếu |
+|  |
+| ✓ Rotator cuff là nhóm cơ quan trọng nhất và dễ tổn thương nhất ở |
+| vai |
+|  |
+| ✓ Core system thực sự bao gồm 4 lớp cơ, không chỉ cơ bụng bề mặt |
+|  |
+| ✓ Tennis tạo ra mất cân bằng cơ bắp đặc trưng cần được |
+| cross-training điều chỉnh |
+|  |
+| ✓ 3 nguyên tắc thiết kế: Push-Pull Balance, Posterior Chain |
+| Priority, Proximal Stability |
+|  |
+| ✓ HLV cần quan sát và đánh giá tư thế, di chuyển để phát hiện yếu |
+| điểm giải phẫu |
+
 
 **CHƯƠNG 3**
 
@@ -716,7 +716,7 @@ cross-training phù hợp hơn cho từng cá nhân.
 **3.1 Ba Hệ Thống Năng Lượng**
 
 Mọi hoạt động thể chất đều đòi hỏi ATP (adenosine triphosphate) ---
-\'đồng tiền năng lượng\' của tế bào. Cơ thể tổng hợp ATP theo ba con
+'đồng tiền năng lượng' của tế bào. Cơ thể tổng hợp ATP theo ba con
 đường chính, và tennis sử dụng cả ba theo tỷ lệ thay đổi tùy theo cường
 độ và thời lượng:
 
@@ -737,7 +737,7 @@ này.
 
 Khi hoạt động kéo dài 10-60 giây ở cường độ cao, cơ thể chuyển sang phân
 giải glycogen (glycolysis). Quá trình này tạo ra ATP nhanh nhưng cũng
-tạo ra lactate và ion H+ --- nguyên nhân của cảm giác \'cháy\' và mệt
+tạo ra lactate và ion H+ --- nguyên nhân của cảm giác 'cháy' và mệt
 mỏi cơ bắp.
 
 Ứng dụng trong tennis: Những rally dài (10+ shots), những pha dồn dập
@@ -752,24 +752,24 @@ tục với hiệu quả cao nhất (36-38 ATP mỗi phân tử glucose so với
 của glycolysis). Không tạo ra lactate --- thực ra, hệ aerobic có thể
 loại thải lactate từ hệ glycolytic.
 
-Ứng dụng trong tennis: Hệ aerobic là \'engine\' nền của toàn bộ trận
+Ứng dụng trong tennis: Hệ aerobic là 'engine' nền của toàn bộ trận
 đấu. Nó duy trì hoạt động giữa các điểm, phục hồi ATP và PCr trong thời
 gian nghỉ, và quyết định khả năng duy trì chất lượng đánh bóng suốt 2-3
 giờ thi đấu.
 
-+----------------------------------------------------------------------+
-| **📌 Phân Bổ Năng Lượng Trong Trận Tennis 5.0**                      |
-|                                                                      |
-| • PCr system: \~50% (mỗi điểm đơn lẻ, bùng phát bứt phá)             |
-|                                                                      |
-| • Glycolytic system: \~20% (rally dài, pha căng thẳng)               |
-|                                                                      |
-| • Aerobic system: \~30% (phục hồi, duy trì suốt trận, giữa điểm)     |
-|                                                                      |
-| • Nhịp tim điển hình: 140-165 BPM (70-85% nhịp tim tối đa)           |
-|                                                                      |
-| • Lượng lactate máu: 2-6 mmol/L (dao động tùy theo cường độ)         |
-+----------------------------------------------------------------------+
+| **📌 Phân Bổ Năng Lượng Trong Trận Tennis 5.0** |
+| --- |
+|  |
+| • PCr system: \~50% (mỗi điểm đơn lẻ, bùng phát bứt phá) |
+|  |
+| • Glycolytic system: \~20% (rally dài, pha căng thẳng) |
+|  |
+| • Aerobic system: \~30% (phục hồi, duy trì suốt trận, giữa điểm) |
+|  |
+| • Nhịp tim điển hình: 140-165 BPM (70-85% nhịp tim tối đa) |
+|  |
+| • Lượng lactate máu: 2-6 mmol/L (dao động tùy theo cường độ) |
+
 
 **3.2 VO2max --- Chỉ Số Sức Bền Aerobic**
 
@@ -831,7 +831,7 @@ và ảnh hưởng tiêu cực đến phục hồi. Cross-training cần đượ
 Epinephrine (adrenaline) và norepinephrine được giải phóng trong hoạt
 động cường độ cao, tăng nhịp tim, huyết áp, và huy động năng lượng
 nhanh. Tập HIIT và plyometrics kích thích hệ thống này, giúp vận động
-viên quen với trạng thái \'fight-or-flight\' và thực hiện tốt hơn dưới
+viên quen với trạng thái 'fight-or-flight' và thực hiện tốt hơn dưới
 áp lực thi đấu.
 
 **3.6 Thích Nghi Cơ Bắp Với Tập Luyện**
@@ -880,7 +880,7 @@ thích để tiếp tục tiến bộ.
 
 **3.8 Sinh Lý Học Của Phục Hồi**
 
-Phục hồi không phải là \'không làm gì\'. Đây là quá trình sinh lý học
+Phục hồi không phải là 'không làm gì'. Đây là quá trình sinh lý học
 tích cực bao gồm:
 
 - Resynthesis PCr: 50% phục hồi trong 30 giây, 95% trong 3-5 phút
@@ -929,26 +929,26 @@ vận động viên:
                                       hiệu central fatigue
   -----------------------------------------------------------------------
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 3**                                              |
-|                                                                      |
-| ✓ Tennis sử dụng cả 3 hệ năng lượng: PCr (bùng phát), Glycolytic     |
-| (rally dài), Aerobic (nền)                                           |
-|                                                                      |
-| ✓ VO2max và Lactate Threshold là hai chỉ số sinh lý quan trọng nhất  |
-| cần phát triển                                                       |
-|                                                                      |
+| **📌 Tóm Tắt Chương 3** |
+| --- |
+|  |
+| ✓ Tennis sử dụng cả 3 hệ năng lượng: PCr (bùng phát), Glycolytic |
+| (rally dài), Aerobic (nền) |
+|  |
+| ✓ VO2max và Lactate Threshold là hai chỉ số sinh lý quan trọng nhất |
+| cần phát triển |
+|  |
 | ✓ Phục hồi là quá trình sinh lý tích cực --- cross-training nhẹ phục |
-| hồi tốt hơn nghỉ thụ động                                            |
-|                                                                      |
-| ✓ Hormone (testosterone, cortisol) phản ứng với loại và volume tập   |
-| luyện --- thiết kế thông minh                                        |
-|                                                                      |
-| ✓ GAS principle và Periodization là nền tảng lập kế hoạch            |
-| cross-training dài hạn                                               |
-|                                                                      |
-| ✓ Theo dõi HRV, RHR và RPE để điều chỉnh tải trọng linh hoạt         |
-+----------------------------------------------------------------------+
+| hồi tốt hơn nghỉ thụ động |
+|  |
+| ✓ Hormone (testosterone, cortisol) phản ứng với loại và volume tập |
+| luyện --- thiết kế thông minh |
+|  |
+| ✓ GAS principle và Periodization là nền tảng lập kế hoạch |
+| cross-training dài hạn |
+|  |
+| ✓ Theo dõi HRV, RHR và RPE để điều chỉnh tải trọng linh hoạt |
+
 
 **CHƯƠNG 4**
 
@@ -990,11 +990,11 @@ lượng được tạo ra, tích lũy và chuyển giao qua từng đoạn cơ 
 
 21. Elbow extension: Duỗi khuỷu thêm tốc độ đầu vợt
 
-22. Forearm pronation + wrist flexion: Bước cuối tạo ra \'snap\' và spin
+22. Forearm pronation + wrist flexion: Bước cuối tạo ra 'snap' và spin
 
 Tốc độ đầu vợt được tạo ra bởi tổng tích lũy tốc độ qua mỗi đoạn --- đây
-là nguyên lý \'summation of speeds\'. Nếu bất kỳ đoạn nào trong chuỗi bị
-\'rò rỉ\' năng lượng (do yếu, cứng, hoặc không đồng bộ), hiệu suất tổng
+là nguyên lý 'summation of speeds'. Nếu bất kỳ đoạn nào trong chuỗi bị
+'rò rỉ' năng lượng (do yếu, cứng, hoặc không đồng bộ), hiệu suất tổng
 thể giảm và các đoạn cuối chuỗi phải bù đắp --- dẫn đến overload và chấn
 thương.
 
@@ -1045,7 +1045,7 @@ hamstrings, hip abductors kiểm soát knee valgus (đầu gối ngã vào trong
   vào)                                lateral band walks, single-leg
                                       squat
 
-  Elbow \'flying\' khi phục vụ        Subscapularis yếu hoặc cứng → IR
+  Elbow 'flying' khi phục vụ        Subscapularis yếu hoặc cứng → IR
                                       strengthening, shoulder mobility
 
   Cổ tay gập sớm (early wrist break)  Yếu forearm extensors → Wrist
@@ -1061,7 +1061,7 @@ hamstrings, hip abductors kiểm soát knee valgus (đầu gối ngã vào trong
 
 Ground reaction force (GRF) --- lực phản lực từ mặt đất --- là nguồn gốc
 của mọi sức mạnh trong tennis. Khi bạn nhấn chân xuống, mặt đất nhấn lại
-với lực tương đương và ngược chiều (Newton\'s Third Law). Sức mạnh chân
+với lực tương đương và ngược chiều (Newton's Third Law). Sức mạnh chân
 và khả năng truyền lực qua kinetic chain là nền tảng của tốc độ phục vụ
 và sức mạnh groundstroke.
 
@@ -1135,27 +1135,27 @@ triển SSC và fast-twitch fibers), Coordination drills (cải thiện
 inter-muscular coordination), và Sport-specific movement patterns (củng
 cố engram thần kinh cho các chuyển động tennis).
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 4**                                              |
-|                                                                      |
+| **📌 Tóm Tắt Chương 4** |
+| --- |
+|  |
 | ✓ Kinetic chain: năng lượng được tích lũy và chuyển giao từ bàn chân |
-| đến đầu vợt                                                          |
-|                                                                      |
-| ✓ 51-55% tốc độ đầu vợt đến từ hông và thân --- không phải từ cánh   |
-| tay                                                                  |
-|                                                                      |
+| đến đầu vợt |
+|  |
+| ✓ 51-55% tốc độ đầu vợt đến từ hông và thân --- không phải từ cánh |
+| tay |
+|  |
 | ✓ Split step kích hoạt stretch-shortening cycle --- lý do plyometric |
-| training quan trọng                                                  |
-|                                                                      |
-| ✓ 6 lỗi kinetic chain phổ biến và bài tập cross-training khắc phục   |
-| cụ thể                                                               |
-|                                                                      |
-| ✓ Ground reaction force là nguồn gốc của mọi sức mạnh --- chân mạnh  |
-| = đánh mạnh                                                          |
-|                                                                      |
-| ✓ Medicine ball throws, cable wood chops, landmine rotation là bài   |
-| tập kinetic chain tốt nhất                                           |
-+----------------------------------------------------------------------+
+| training quan trọng |
+|  |
+| ✓ 6 lỗi kinetic chain phổ biến và bài tập cross-training khắc phục |
+| cụ thể |
+|  |
+| ✓ Ground reaction force là nguồn gốc của mọi sức mạnh --- chân mạnh |
+| = đánh mạnh |
+|  |
+| ✓ Medicine ball throws, cable wood chops, landmine rotation là bài |
+| tập kinetic chain tốt nhất |
+
 
 **CHƯƠNG 5**
 
@@ -1260,7 +1260,7 @@ tiên balance và proprioceptive training.
 
 **5.3 Xây Dựng Hồ Sơ Thể Chất Cá Nhân**
 
-Sau khi hoàn thành TPAB, tổng hợp kết quả vào \'Physical Profile\' của
+Sau khi hoàn thành TPAB, tổng hợp kết quả vào 'Physical Profile' của
 mỗi vận động viên. Sử dụng hệ thống đánh giá màu sắc đơn giản:
 
   -----------------------------------------------------------------------
@@ -1332,27 +1332,27 @@ trước tăng cường sức mạnh. Profile phổ biến ở VĐV trưởng th
 - Cuối mùa giải: Comprehensive review, lập kế hoạch off-season
   cross-training
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 5**                                              |
-|                                                                      |
+| **📌 Tóm Tắt Chương 5** |
+| --- |
+|  |
 | ✓ TPAB gồm 5 lĩnh vực: Tư thế, Biên độ vận động, Sức mạnh/Power, Sức |
-| bền, Thăng bằng TK-Cơ                                                |
-|                                                                      |
-| ✓ Single-leg squat và Y-Balance Test là hai test quan trọng nhất có  |
-| thể thực hiện ngay                                                   |
-|                                                                      |
-| ✓ Shoulder ER/IR ratio \< 65%: Nguy cơ chấn thương vai cao --- ưu    |
-| tiên trong cross-training                                            |
-|                                                                      |
-| ✓ Hệ thống màu (🟢🟡🔴⚫) giúp xác định ưu tiên cross-training rõ    |
-| ràng                                                                 |
-|                                                                      |
-| ✓ Ba profile case study điển hình cho thiếu niên, thanh niên và      |
-| trưởng thành                                                         |
-|                                                                      |
-| ✓ Đánh giá liên tục hàng tuần/tháng/quý để điều chỉnh chương trình   |
-| kịp thời                                                             |
-+----------------------------------------------------------------------+
+| bền, Thăng bằng TK-Cơ |
+|  |
+| ✓ Single-leg squat và Y-Balance Test là hai test quan trọng nhất có |
+| thể thực hiện ngay |
+|  |
+| ✓ Shoulder ER/IR ratio \< 65%: Nguy cơ chấn thương vai cao --- ưu |
+| tiên trong cross-training |
+|  |
+| ✓ Hệ thống màu (🟢🟡🔴⚫) giúp xác định ưu tiên cross-training rõ |
+| ràng |
+|  |
+| ✓ Ba profile case study điển hình cho thiếu niên, thanh niên và |
+| trưởng thành |
+|  |
+| ✓ Đánh giá liên tục hàng tuần/tháng/quý để điều chỉnh chương trình |
+| kịp thời |
+
 
 **CHƯƠNG 6**
 
@@ -1480,7 +1480,7 @@ cho sức khỏe vai tay vợt. Band external rotation với cánh tay ở 0° v
 
 Wall slides: Đứng sát tường, cánh tay chạm tường, trượt lên trên. Yêu
 cầu lower trapezius và serratus anterior làm việc để kiểm soát scapula.
-Push-up plus: Sau khi lên tư thế push-up cao nhất, đẩy thêm để \'plus\'
+Push-up plus: Sau khi lên tư thế push-up cao nhất, đẩy thêm để 'plus'
 scapula ra ngoài --- kích hoạt serratus anterior.
 
 **Posterior Capsule Stretching**
@@ -1551,25 +1551,25 @@ Nguyên tắc timing: Tập sức mạnh nặng KHÔNG nên trong 48 giờ trư�
 đấu quan trọng. Tốt nhất: sau buổi tennis, hoặc vào ngày không có
 tennis. Tránh heavy leg day trước ngày tập tennis cường độ cao.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 6**                                              |
-|                                                                      |
-| ✓ Sức mạnh chức năng \> sức mạnh thẩm mỹ: Multi-joint, multi-plane,  |
-| sport-specific                                                       |
-|                                                                      |
-| ✓ 3 tầng: Foundation → Strength → Power --- tiến độ theo chu kỳ      |
-| training                                                             |
-|                                                                      |
-| ✓ Pull:Push ratio = 2:1 cho tay vợt --- ưu tiên posterior chain      |
-|                                                                      |
-| ✓ Rotational strength (cable wood chop, medicine ball) chuyển hóa    |
-| trực tiếp nhất vào tennis                                            |
-|                                                                      |
-| ✓ Shoulder program chuyên biệt: ER strengthening, scapular           |
-| stability, posterior capsule stretch                                 |
-|                                                                      |
-| ✓ Plyometrics là cầu nối giữa sức mạnh gym và sức mạnh sân tennis    |
-+----------------------------------------------------------------------+
+| **📌 Tóm Tắt Chương 6** |
+| --- |
+|  |
+| ✓ Sức mạnh chức năng \> sức mạnh thẩm mỹ: Multi-joint, multi-plane, |
+| sport-specific |
+|  |
+| ✓ 3 tầng: Foundation → Strength → Power --- tiến độ theo chu kỳ |
+| training |
+|  |
+| ✓ Pull:Push ratio = 2:1 cho tay vợt --- ưu tiên posterior chain |
+|  |
+| ✓ Rotational strength (cable wood chop, medicine ball) chuyển hóa |
+| trực tiếp nhất vào tennis |
+|  |
+| ✓ Shoulder program chuyên biệt: ER strengthening, scapular |
+| stability, posterior capsule stretch |
+|  |
+| ✓ Plyometrics là cầu nối giữa sức mạnh gym và sức mạnh sân tennis |
+
 
 **CHƯƠNG 7**
 
@@ -1655,36 +1655,36 @@ Trên hard court, stopping và cutting cần plant-and-push --- cần ankle
 stability và power. Trên grass, traction thấp hơn đòi hỏi lower center
 of gravity và shorter strides.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 7**                                              |
-|                                                                      |
-| ✓ SAQ = Speed + Agility + Quickness --- ba thành phần khác nhau cần  |
-| huấn luyện riêng biệt                                                |
-|                                                                      |
-| ✓ First step quickness có tương quan cao nhất với ranking --- ưu     |
-| tiên phát triển                                                      |
-|                                                                      |
-| ✓ Agility ladder = coordination training, không phải chỉ là tốc độ   |
-| bàn chân                                                             |
-|                                                                      |
-| ✓ T-drill, 5-10-5 và Spider drill là test SAQ chuẩn mực cho tay vợt  |
-|                                                                      |
-| ✓ Reaction training cải thiện sensory processing và decision making  |
-|                                                                      |
-| ✓ Short sprint 10-30m phát triển acceleration mechanics quan trọng   |
-| cho tennis                                                           |
-+----------------------------------------------------------------------+
+| **📌 Tóm Tắt Chương 7** |
+| --- |
+|  |
+| ✓ SAQ = Speed + Agility + Quickness --- ba thành phần khác nhau cần |
+| huấn luyện riêng biệt |
+|  |
+| ✓ First step quickness có tương quan cao nhất với ranking --- ưu |
+| tiên phát triển |
+|  |
+| ✓ Agility ladder = coordination training, không phải chỉ là tốc độ |
+| bàn chân |
+|  |
+| ✓ T-drill, 5-10-5 và Spider drill là test SAQ chuẩn mực cho tay vợt |
+|  |
+| ✓ Reaction training cải thiện sensory processing và decision making |
+|  |
+| ✓ Short sprint 10-30m phát triển acceleration mechanics quan trọng |
+| cho tennis |
+
 
 **CHƯƠNG 8**
 
 **Huấn Luyện Sức Bền Aerobic Và Năng Lực Tim Mạch**
 
-*Xây dựng \'engine\' aerobic để duy trì chất lượng đến điểm cuối cùng*
+*Xây dựng 'engine' aerobic để duy trì chất lượng đến điểm cuối cùng*
 
 **8.1 Tại Sao Tay Vợt 5.0 Cần Sức Bền Aerobic Mạnh**
 
 Nhiều HLV tennis đánh giá thấp tầm quan trọng của aerobic base cho tay
-vợt vì tennis \'nhìn có vẻ không phải môn chạy bộ.\' Nhưng nghiên cứu
+vợt vì tennis 'nhìn có vẻ không phải môn chạy bộ.' Nhưng nghiên cứu
 chứng minh: VĐV có VO2max cao hơn phục hồi nhanh hơn giữa các điểm, duy
 trì tốc độ di chuyển tốt hơn ở cuối set, ít mắc lỗi không đáng ở set thứ
 2-3, và có khả năng xử lý áp lực tâm lý tốt hơn (vì cơ thể ít mệt mỏi
@@ -1718,7 +1718,7 @@ aerobic training:
   -----------------------------------------------------------------------
 
 Cho tay vợt 5.0: 70-80% thời gian aerobic training nên ở Zone 2 (long
-slow distance), 20-30% ở Zone 4-5 (intervals). Zone 3 là \'dead zone\'
+slow distance), 20-30% ở Zone 4-5 (intervals). Zone 3 là 'dead zone'
 --- đủ mệt để gây fatigue nhưng không đủ cao để tạo adaptation tốt nhất.
 Tránh tập quá nhiều ở Zone 3.
 
@@ -1767,25 +1767,25 @@ với upper body và core --- gần với yêu cầu toàn thân của tennis h�
 với đạp xe. Elliptical trainer là lựa chọn tốt khi muốn tập cardio mà
 không tạo impact lên khớp.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 8**                                              |
-|                                                                      |
-| ✓ Aerobic base mạnh giúp phục hồi nhanh hơn giữa điểm và duy trì     |
-| chất lượng đến cuối trận                                             |
-|                                                                      |
+| **📌 Tóm Tắt Chương 8** |
+| --- |
+|  |
+| ✓ Aerobic base mạnh giúp phục hồi nhanh hơn giữa điểm và duy trì |
+| chất lượng đến cuối trận |
+|  |
 | ✓ 70-80% aerobic training ở Zone 2, 20-30% ở Zone 4-5 --- tránh Zone |
-| 3 (dead zone)                                                        |
-|                                                                      |
-| ✓ Bơi lội là cross-training aerobic lý tưởng nhất: high intensity,   |
-| non-weight-bearing                                                   |
-|                                                                      |
-| ✓ HIIT protocol tennis-specific: 10s effort:20s rest × 20 rounds mô  |
-| phỏng tennis                                                         |
-|                                                                      |
-| ✓ Đạp xe và rowing bổ sung aerobic mà không gây hao mòn khớp thêm    |
-|                                                                      |
-| ✓ HRV monitoring giúp quyết định ngày tập HIIT vs ngày Zone 2        |
-+----------------------------------------------------------------------+
+| 3 (dead zone) |
+|  |
+| ✓ Bơi lội là cross-training aerobic lý tưởng nhất: high intensity, |
+| non-weight-bearing |
+|  |
+| ✓ HIIT protocol tennis-specific: 10s effort:20s rest × 20 rounds mô |
+| phỏng tennis |
+|  |
+| ✓ Đạp xe và rowing bổ sung aerobic mà không gây hao mòn khớp thêm |
+|  |
+| ✓ HRV monitoring giúp quyết định ngày tập HIIT vs ngày Zone 2 |
+
 
 **CHƯƠNG 9**
 
@@ -1865,26 +1865,26 @@ thường được bù bởi quá nhiều lumbar extension (nguy hiểm). Sleepe
 stretch cho posterior shoulder capsule: 30-60 giây mỗi bên, 2-3 lần/ngày
 cho VĐV có GIRD.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 9**                                              |
-|                                                                      |
-| ✓ Mobility \> Flexibility: Biên độ vận động có kiểm soát quan trọng  |
-| hơn biên độ thụ động                                                 |
-|                                                                      |
-| ✓ Yoga 2×/tuần cải thiện xoay thân 18% và giảm chấn thương lưng 29%  |
-| (nghiên cứu 8 tuần)                                                  |
-|                                                                      |
+| **📌 Tóm Tắt Chương 9** |
+| --- |
+|  |
+| ✓ Mobility \> Flexibility: Biên độ vận động có kiểm soát quan trọng |
+| hơn biên độ thụ động |
+|  |
+| ✓ Yoga 2×/tuần cải thiện xoay thân 18% và giảm chấn thương lưng 29% |
+| (nghiên cứu 8 tuần) |
+|  |
 | ✓ Dynamic mobility trước tập \> Static stretching --- tránh giảm sức |
-| mạnh trước thi đấu                                                   |
-|                                                                      |
+| mạnh trước thi đấu |
+|  |
 | ✓ Hip mobility là ưu tiên #1 cho tay vợt --- tight hips ảnh hưởng cả |
-| forehand lẫn lưng                                                    |
-|                                                                      |
-| ✓ Thoracic spine mobility trước glenohumeral --- đây là nguyên nhân  |
-| thực của vai cứng                                                    |
-|                                                                      |
-| ✓ Routine dynamic 10 phút trước tennis nên là thói quen bất biến     |
-+----------------------------------------------------------------------+
+| forehand lẫn lưng |
+|  |
+| ✓ Thoracic spine mobility trước glenohumeral --- đây là nguyên nhân |
+| thực của vai cứng |
+|  |
+| ✓ Routine dynamic 10 phút trước tennis nên là thói quen bất biến |
+
 
 **CHƯƠNG 10**
 
@@ -1894,7 +1894,7 @@ cho VĐV có GIRD.
 
 **10.1 Proprioception Là Gì Và Tại Sao Quan Trọng**
 
-Proprioception là \'giác quan thứ sáu\' --- khả năng cơ thể nhận thức vị
+Proprioception là 'giác quan thứ sáu' --- khả năng cơ thể nhận thức vị
 trí và chuyển động của các bộ phận trong không gian mà không cần nhìn.
 Các mechanoreceptors trong cơ, gân, khớp và da liên tục gửi thông tin về
 vị trí và tốc độ chuyển động lên não.
@@ -1953,23 +1953,23 @@ Cross-training cải thiện coordination thông qua: Multi-task drills (tung
 bóng + di chuyển + nhận tín hiệu), Reaction ball (bóng không đều)
 exercises, và Partner mirror drills (một người dẫn, một người gương).
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 10**                                             |
-|                                                                      |
+| **📌 Tóm Tắt Chương 10** |
+| --- |
+|  |
 | ✓ Proprioception là giác quan thứ sáu --- tổn thương sau chấn thương |
-| phải được phục hồi                                                   |
-|                                                                      |
-| ✓ Balance training 5 cấp độ --- tiến độ từ static → dynamic →        |
-| perturbation → dual-task                                             |
-|                                                                      |
-| ✓ Neuromuscular control bảo vệ khớp nhanh hơn phản xạ có ý thức      |
-|                                                                      |
-| ✓ Valgus knee control và ankle NMC là ưu tiên sau chấn thương chi    |
-| dưới                                                                 |
-|                                                                      |
-| ✓ Eye-hand-foot coordination cải thiện qua multi-task và reaction    |
-| ball drills                                                          |
-+----------------------------------------------------------------------+
+| phải được phục hồi |
+|  |
+| ✓ Balance training 5 cấp độ --- tiến độ từ static → dynamic → |
+| perturbation → dual-task |
+|  |
+| ✓ Neuromuscular control bảo vệ khớp nhanh hơn phản xạ có ý thức |
+|  |
+| ✓ Valgus knee control và ankle NMC là ưu tiên sau chấn thương chi |
+| dưới |
+|  |
+| ✓ Eye-hand-foot coordination cải thiện qua multi-task và reaction |
+| ball drills |
+
 
 **CHƯƠNG 11**
 
@@ -2048,27 +2048,27 @@ nước giảm phù nề và tăng tuần hoàn.
                                                   1, ngay hôm sau
   -----------------------------------------------------------------------
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 11**                                             |
-|                                                                      |
-| ✓ Nước tạo kháng lực biến thiên + giảm trọng lực --- môi trường      |
-| cross-training lý tưởng                                              |
-|                                                                      |
-| ✓ Freestyle phát triển aerobic, lat strength và core rotation tương  |
-| tự tennis                                                            |
-|                                                                      |
-| ✓ Backstroke mở shoulder anterior --- bài giãn cơ động cho sau tập   |
-| phục vụ nhiều                                                        |
-|                                                                      |
-| ✓ Aqua jogging duy trì fitness khi chấn thương chi dưới --- không    |
-| impact                                                               |
-|                                                                      |
-| ✓ Active recovery 20-30 phút Zone 1 sau thi đấu: lactate clearance   |
-| nhanh hơn 34%                                                        |
-|                                                                      |
-| ✓ Off-season: 4-5 lần/tuần bơi; In-season: giảm còn 2 lần/tuần chủ   |
-| yếu cho recovery                                                     |
-+----------------------------------------------------------------------+
+| **📌 Tóm Tắt Chương 11** |
+| --- |
+|  |
+| ✓ Nước tạo kháng lực biến thiên + giảm trọng lực --- môi trường |
+| cross-training lý tưởng |
+|  |
+| ✓ Freestyle phát triển aerobic, lat strength và core rotation tương |
+| tự tennis |
+|  |
+| ✓ Backstroke mở shoulder anterior --- bài giãn cơ động cho sau tập |
+| phục vụ nhiều |
+|  |
+| ✓ Aqua jogging duy trì fitness khi chấn thương chi dưới --- không |
+| impact |
+|  |
+| ✓ Active recovery 20-30 phút Zone 1 sau thi đấu: lactate clearance |
+| nhanh hơn 34% |
+|  |
+| ✓ Off-season: 4-5 lần/tuần bơi; In-season: giảm còn 2 lần/tuần chủ |
+| yếu cho recovery |
+
 
 **CHƯƠNG 12**
 
@@ -2136,26 +2136,26 @@ sung tennis hay nhất dành cho vùng upper body.
   Sau thi đấu                         Bơi phục hồi 25 phút Zone 1
   -----------------------------------------------------------------------
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 12**                                             |
-|                                                                      |
-| ✓ Đạp xe là cardio cross-training lý tưởng: không impact, kiểm soát  |
-| cường độ chính xác                                                   |
-|                                                                      |
-| ✓ Spinning intervals cho phép tập HIIT trong nhà mọi thời tiết       |
-|                                                                      |
-| ✓ Leo núi/hiking: aerobic + proprioception tự nhiên + psychological  |
-| recovery                                                             |
-|                                                                      |
-| ✓ Rowing machine: aerobic toàn thân, đặc biệt tốt cho lưng và upper  |
-| body                                                                 |
-|                                                                      |
-| ✓ Ski erg: overhead pull pattern gần nhất với cú phục vụ trong       |
-| cardio cross-training                                                |
-|                                                                      |
+| **📌 Tóm Tắt Chương 12** |
+| --- |
+|  |
+| ✓ Đạp xe là cardio cross-training lý tưởng: không impact, kiểm soát |
+| cường độ chính xác |
+|  |
+| ✓ Spinning intervals cho phép tập HIIT trong nhà mọi thời tiết |
+|  |
+| ✓ Leo núi/hiking: aerobic + proprioception tự nhiên + psychological |
+| recovery |
+|  |
+| ✓ Rowing machine: aerobic toàn thân, đặc biệt tốt cho lưng và upper |
+| body |
+|  |
+| ✓ Ski erg: overhead pull pattern gần nhất với cú phục vụ trong |
+| cardio cross-training |
+|  |
 | ✓ Lịch cardio: phù hợp với lịch tennis --- tránh tập nặng trước ngày |
-| thi đấu                                                              |
-+----------------------------------------------------------------------+
+| thi đấu |
+
 
 **CHƯƠNG 13**
 
@@ -2167,9 +2167,9 @@ sung tennis hay nhất dành cho vùng upper body.
 
 Pilates được Joseph Pilates phát triển vào đầu thế kỷ 20, ban đầu cho vũ
 công và vận động viên phục hồi chấn thương. Nguyên tắc cốt lõi của
-Pilates --- \'Powerhouse\' (trung tâm lực) bao gồm lưng dưới, bụng, hông
+Pilates --- 'Powerhouse' (trung tâm lực) bao gồm lưng dưới, bụng, hông
 và sàn chậu --- chính xác là những gì y học thể thao hiện đại gọi là
-\'deep core system.\'
+'deep core system.'
 
 Pilates cho tay vợt phát triển: Transversus abdominis và multifidus
 activation (không phải chỉ rectus abdominis bề mặt), neutral spine
@@ -2222,7 +2222,7 @@ exercises:
 - Suitcase carry (anti-lateral flexion): Cầm tạ một tay, đi thẳng.
   Quadratus lumborum và obliques làm việc để chống nghiêng
 
-- Farmer\'s walk: Cầm tạ hai tay nặng, đi. Toàn bộ core stabilize dưới
+- Farmer's walk: Cầm tạ hai tay nặng, đi. Toàn bộ core stabilize dưới
   axial load
 
 - Copenhagen plank: Nằm nghiêng, chân trên kê trên ghế, nâng hông. Hip
@@ -2236,27 +2236,27 @@ cần hỗ trợ. Bài tập reformer đặc biệt có ích: Footwork series (p
 triển leg strength và alignment), Rowing series (shoulder và core trong
 pulling pattern), Side splits (hip mobility và inner thigh strength).
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 13**                                             |
-|                                                                      |
-| ✓ Pilates phát triển deep core system (transversus abdominis,        |
-| multifidus) --- quan trọng hơn 6-pack                                |
-|                                                                      |
-| ✓ Core stability vs Core strength --- cần cả hai ở các giai đoạn     |
-| khác nhau của cú đánh                                                |
-|                                                                      |
-| ✓ Anti-movement exercises (Pallof press, Dead bug) là bài tập core   |
-| tốt nhất cho tennis                                                  |
-|                                                                      |
+| **📌 Tóm Tắt Chương 13** |
+| --- |
+|  |
+| ✓ Pilates phát triển deep core system (transversus abdominis, |
+| multifidus) --- quan trọng hơn 6-pack |
+|  |
+| ✓ Core stability vs Core strength --- cần cả hai ở các giai đoạn |
+| khác nhau của cú đánh |
+|  |
+| ✓ Anti-movement exercises (Pallof press, Dead bug) là bài tập core |
+| tốt nhất cho tennis |
+|  |
 | ✓ The Hundred, Roll-up, Single leg stretch là 3 bài Pilates mat quan |
-| trọng nhất                                                           |
-|                                                                      |
-| ✓ Reformer Pilates cung cấp kháng lực precise --- lý tưởng cho phục  |
-| hồi và refinement                                                    |
-|                                                                      |
-| ✓ 2 buổi Pilates/tuần, 45-60 phút --- tích hợp vào ngày active       |
-| recovery                                                             |
-+----------------------------------------------------------------------+
+| trọng nhất |
+|  |
+| ✓ Reformer Pilates cung cấp kháng lực precise --- lý tưởng cho phục |
+| hồi và refinement |
+|  |
+| ✓ 2 buổi Pilates/tuần, 45-60 phút --- tích hợp vào ngày active |
+| recovery |
+
 
 **CHƯƠNG 14**
 
@@ -2352,26 +2352,26 @@ Mỗi 3-4 tuần training nặng, cần insert một deload week: giảm volume
 Cross-training nhẹ (bơi, yoga, đi bộ) được duy trì. Đây là lúc cơ thể
 thực sự supercompensate và phát triển mạnh nhất.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 14**                                             |
-|                                                                      |
-| ✓ 4 phase periodization: General prep → Specific prep → Competition  |
-| → Transition                                                         |
-|                                                                      |
+| **📌 Tóm Tắt Chương 14** |
+| --- |
+|  |
+| ✓ 4 phase periodization: General prep → Specific prep → Competition |
+| → Transition |
+|  |
 | ✓ DUP/WUP linh hoạt hơn linear periodization cho lịch thi đấu tennis |
-| quanh năm                                                            |
-|                                                                      |
-| ✓ ACWR 0.8-1.3 là sweet spot --- \> 1.5 là vùng nguy hiểm chấn       |
-| thương                                                               |
-|                                                                      |
-| ✓ Deload week mỗi 3-4 tuần: giảm 40-60% volume, giữ intensity        |
-|                                                                      |
-| ✓ Cross-training volume: off-season 50-60%, in-season 15-20% tổng    |
-| training                                                             |
-|                                                                      |
-| ✓ Thi đấu quan trọng: không thay đổi routine 2 tuần trước --- \'if   |
-| it ain\'t broke, don\'t fix it\'                                     |
-+----------------------------------------------------------------------+
+| quanh năm |
+|  |
+| ✓ ACWR 0.8-1.3 là sweet spot --- \> 1.5 là vùng nguy hiểm chấn |
+| thương |
+|  |
+| ✓ Deload week mỗi 3-4 tuần: giảm 40-60% volume, giữ intensity |
+|  |
+| ✓ Cross-training volume: off-season 50-60%, in-season 15-20% tổng |
+| training |
+|  |
+| ✓ Thi đấu quan trọng: không thay đổi routine 2 tuần trước --- 'if |
+| it ain't broke, don't fix it' |
+
 
 **CHƯƠNG 15**
 
@@ -2397,7 +2397,7 @@ trưởng) ở đầu xương còn mở --- đây là vùng tổn thương đặ
 hưởng bởi tải trọng nén và tải trọng lặp đi lặp lại.
 
 Thiếu niên đang trong giai đoạn phát triển thần kinh quan trọng --- đây
-là thời điểm \'windows of trainability\': Giai đoạn vàng cho speed
+là thời điểm 'windows of trainability': Giai đoạn vàng cho speed
 development (12-14 tuổi), coordination (7-12 tuổi), và endurance (14-16
 tuổi nam, 12-14 tuổi nữ).
 
@@ -2413,7 +2413,7 @@ tuổi nam, 12-14 tuổi nữ).
   catching trước khi specialization
 
 - Plyometrics nhẹ được phép và khuyến khích --- phát triển SSC khi hệ
-  thần kinh đang \'mở\'
+  thần kinh đang 'mở'
 
 - Tối đa 2 buổi structured strength/tuần --- phần còn lại là play và
   multi-sport
@@ -2439,7 +2439,7 @@ hồi tốt nhất. VO2max đạt đỉnh khoảng 20-25 tuổi.
 
 Đây là giai đoạn để build volume và intensity cao nhất trong sự nghiệp.
 Tuy nhiên, cũng là giai đoạn nhiều VĐV bị overtraining vì cảm thấy cơ
-thể \'bất khả xâm phạm.\' Tự giác và periodization thông minh là cần
+thể 'bất khả xâm phạm.' Tự giác và periodization thông minh là cần
 thiết.
 
 **Cross-Training Cho Thanh Niên 5.0**
@@ -2501,27 +2501,27 @@ capacity maintenance là ưu tiên (tim mạch là yếu tố quyết định s�
 dài hạn), sức mạnh với emphasis vào safety và control hơn maximal load,
 tuyệt đối không bỏ qua warmup và cooldown.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 15**                                             |
-|                                                                      |
+| **📌 Tóm Tắt Chương 15** |
+| --- |
+|  |
 | ✓ Ba nhóm tuổi 5.0 cần ba chương trình cross-training hoàn toàn khác |
-| nhau                                                                 |
-|                                                                      |
+| nhau |
+|  |
 | ✓ Thiếu niên: KHÔNG tập nặng --- ưu tiên kỹ năng vận động đa dạng và |
-| plyometrics nhẹ                                                      |
-|                                                                      |
+| plyometrics nhẹ |
+|  |
 | ✓ Thanh niên (18-30): Giai đoạn build tối đa --- volume và intensity |
-| cao nhất                                                             |
-|                                                                      |
-| ✓ Trưởng thành (30+): Ưu tiên sức mạnh chống sarcopenia + phục hồi   |
-| nhiều hơn                                                            |
-|                                                                      |
-| ✓ Sau 35: Tăng recovery time, warm-up dài hơn, deload thường xuyên   |
-| hơn (3 tuần/lần)                                                     |
-|                                                                      |
-| ✓ Masters (50+): Aerobic health + strength là nền tảng --- không     |
-| phải competitive gains                                               |
-+----------------------------------------------------------------------+
+| cao nhất |
+|  |
+| ✓ Trưởng thành (30+): Ưu tiên sức mạnh chống sarcopenia + phục hồi |
+| nhiều hơn |
+|  |
+| ✓ Sau 35: Tăng recovery time, warm-up dài hơn, deload thường xuyên |
+| hơn (3 tuần/lần) |
+|  |
+| ✓ Masters (50+): Aerobic health + strength là nền tảng --- không |
+| phải competitive gains |
+
 
 **CHƯƠNG 16**
 
@@ -2531,7 +2531,7 @@ tuyệt đối không bỏ qua warmup và cooldown.
 
 **16.1 Dinh Dưỡng Là Phần Của Huấn Luyện**
 
-Dinh dưỡng thể thao không phải là \'ăn lành mạnh chung chung.\' Đây là
+Dinh dưỡng thể thao không phải là 'ăn lành mạnh chung chung.' Đây là
 việc cung cấp đúng loại nhiên liệu, đúng lượng và đúng thời điểm để hỗ
 trợ tập luyện, phục hồi và thi đấu. Một vận động viên 5.0 với chương
 trình cross-training đầy đủ mà dinh dưỡng kém sẽ không phát huy được 50%
@@ -2606,30 +2606,30 @@ D: Nhiều VĐV thiếu vitamin D --- quan trọng cho sức mạnh cơ, sức k
 xương và miễn dịch. Kiểm tra máu và bổ sung nếu cần.
 
 Không có bằng chứng đủ mạnh cho: BCAA (nếu đủ protein tổng), glutamine,
-hay hầu hết \'sport supplements\' thương mại. Ưu tiên thực phẩm tự nhiên
+hay hầu hết 'sport supplements' thương mại. Ưu tiên thực phẩm tự nhiên
 trước --- supplements chỉ là phần bổ sung, không phải thay thế.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 16**                                             |
-|                                                                      |
-| ✓ Carb 5-10g/kg/ngày (tùy cường độ), Protein 1.6-2.2g/kg/ngày, Fat   |
-| 1-1.5g/kg/ngày                                                       |
-|                                                                      |
-| ✓ Pre-training: carb + protein nhẹ, 2-3 giờ trước. Post-training:    |
-| protein + carb trong 60 phút                                         |
-|                                                                      |
-| ✓ Mất nước 2% = giảm 5-8% hiệu suất --- hydration là ưu tiên không   |
-| thể bỏ qua                                                           |
-|                                                                      |
-| ✓ Supplements có bằng chứng: Creatine, Caffeine, Vitamin D --- còn   |
-| lại hầu hết là marketing                                             |
-|                                                                      |
+| **📌 Tóm Tắt Chương 16** |
+| --- |
+|  |
+| ✓ Carb 5-10g/kg/ngày (tùy cường độ), Protein 1.6-2.2g/kg/ngày, Fat |
+| 1-1.5g/kg/ngày |
+|  |
+| ✓ Pre-training: carb + protein nhẹ, 2-3 giờ trước. Post-training: |
+| protein + carb trong 60 phút |
+|  |
+| ✓ Mất nước 2% = giảm 5-8% hiệu suất --- hydration là ưu tiên không |
+| thể bỏ qua |
+|  |
+| ✓ Supplements có bằng chứng: Creatine, Caffeine, Vitamin D --- còn |
+| lại hầu hết là marketing |
+|  |
 | ✓ Timing quan trọng như lượng --- phân bổ protein đều trong ngày tối |
-| ưu hóa muscle synthesis                                              |
-|                                                                      |
-| ✓ Điện giải quan trọng cho phòng ngừa cramp --- sodium, potassium,   |
-| magnesium trong tập dài                                              |
-+----------------------------------------------------------------------+
+| ưu hóa muscle synthesis |
+|  |
+| ✓ Điện giải quan trọng cho phòng ngừa cramp --- sodium, potassium, |
+| magnesium trong tập dài |
+
 
 **CHƯƠNG 17**
 
@@ -2652,7 +2652,7 @@ quản lý tải trọng đúng cách.
 
 Phòng ngừa: Eccentric wrist extension exercise (Therabar hoặc dây thun
 --- đây là bằng chứng mạnh nhất), forearm flexibility, kỹ thuật backhand
-đúng (không \'gập cổ tay\' sớm), vợt và dây appropriate. Cross-training:
+đúng (không 'gập cổ tay' sớm), vợt và dây appropriate. Cross-training:
 Wrist extension/flexion strengthening với dây kháng, forearm
 pronation/supination.
 
@@ -2664,7 +2664,7 @@ increase trong volume phục vụ. Cross-training: Backward swimming
 (backstroke) giảm anterior shoulder tightness, face pull và band
 pull-apart duy trì balanced shoulder.
 
-**Patellar Tendinitis (Jumper\'s Knee)**
+**Patellar Tendinitis (Jumper's Knee)**
 
 Phòng ngừa: Eccentric squat (Decline single-leg squat eccentric --- đây
 là gold standard điều trị và phòng ngừa), hamstring flexibility, foam
@@ -2717,25 +2717,25 @@ trời nóng. Contrast therapy (luân phiên nước nóng-lạnh): Kích thích
 hoàn máu, được nhiều VĐV chuyên nghiệp ưa thích. Massage thể thao: 1-2
 lần/tuần trong mùa thi đấu giảm cơ cứng và cải thiện recovery.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 17**                                             |
-|                                                                      |
+| **📌 Tóm Tắt Chương 17** |
+| --- |
+|  |
 | ✓ 65% chấn thương tennis có thể phòng ngừa --- chủ động hơn phản ứng |
-|                                                                      |
-| ✓ Eccentric loading (Therabar, decline single-leg squat) là gold     |
-| standard cho tendinopathy                                            |
-|                                                                      |
-| ✓ Foam rolling giải quyết triệu chứng, không giải quyết nguyên nhân  |
-| --- dùng song song với strengthening                                 |
-|                                                                      |
-| ✓ 7-9 giờ ngủ là can thiệp phục hồi hiệu quả và miễn phí nhất ---    |
-| không thể bỏ qua                                                     |
-|                                                                      |
-| ✓ Cold water immersion sau thi đấu dài: giảm viêm và DOMS hiệu quả   |
-|                                                                      |
-| ✓ Theo dõi ACWR để phát hiện nguy cơ overuse trước khi chấn thương   |
-| xảy ra                                                               |
-+----------------------------------------------------------------------+
+|  |
+| ✓ Eccentric loading (Therabar, decline single-leg squat) là gold |
+| standard cho tendinopathy |
+|  |
+| ✓ Foam rolling giải quyết triệu chứng, không giải quyết nguyên nhân |
+| --- dùng song song với strengthening |
+|  |
+| ✓ 7-9 giờ ngủ là can thiệp phục hồi hiệu quả và miễn phí nhất --- |
+| không thể bỏ qua |
+|  |
+| ✓ Cold water immersion sau thi đấu dài: giảm viêm và DOMS hiệu quả |
+|  |
+| ✓ Theo dõi ACWR để phát hiện nguy cơ overuse trước khi chấn thương |
+| xảy ra |
+
 
 **CHƯƠNG 18**
 
@@ -2747,7 +2747,7 @@ lần/tuần trong mùa thi đấu giảm cơ cứng và cải thiện recovery.
 
 Return-to-play (RTP) là quá trình đưa vận động viên bị chấn thương trở
 lại thi đấu an toàn. Tiêu chí RTP phải dựa trên chức năng, không chỉ dựa
-trên thời gian. \'Không đau\' không đồng nghĩa với \'sẵn sàng thi đấu.\'
+trên thời gian. 'Không đau' không đồng nghĩa với 'sẵn sàng thi đấu.'
 
 Framework RTP hiện đại bao gồm ba tiêu chí: (1) Tissue healing --- mô bị
 tổn thương đã lành về mặt cấu trúc, (2) Functional capacity --- có thể
@@ -2809,24 +2809,24 @@ Cross-training đóng vai trò tâm lý quan trọng trong phục hồi: Duy tr�
 identity như một vận động viên đang tập luyện, không phải bệnh nhân. Tạo
 cảm giác tiến bộ và kiểm soát. Giữ kết nối với cộng đồng thể thao.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 18**                                             |
-|                                                                      |
-| ✓ RTP phải dựa trên chức năng, không chỉ thời gian --- \'không đau ≠ |
-| sẵn sàng thi đấu\'                                                   |
-|                                                                      |
+| **📌 Tóm Tắt Chương 18** |
+| --- |
+|  |
+| ✓ RTP phải dựa trên chức năng, không chỉ thời gian --- 'không đau ≠ |
+| sẵn sàng thi đấu' |
+|  |
 | ✓ POLICE principle thay thế RICE --- optimal loading ngay khi có thể |
-|                                                                      |
-| ✓ 5 giai đoạn RTP rõ ràng với tiêu chí cụ thể cho từng giai đoạn     |
-|                                                                      |
-| ✓ Cross-training duy trì 80-90% fitness trong thời gian phục hồi     |
-|                                                                      |
+|  |
+| ✓ 5 giai đoạn RTP rõ ràng với tiêu chí cụ thể cho từng giai đoạn |
+|  |
+| ✓ Cross-training duy trì 80-90% fitness trong thời gian phục hồi |
+|  |
 | ✓ Tiêu chí đầy đủ: sức mạnh \>90%, Y-Balance đối xứng, không đau, tự |
-| tin tâm lý                                                           |
-|                                                                      |
+| tin tâm lý |
+|  |
 | ✓ Kinesiophobia là rào cản tâm lý lớn nhất --- cross-training hỗ trợ |
-| phục hồi cả thể chất lẫn tinh thần                                   |
-+----------------------------------------------------------------------+
+| phục hồi cả thể chất lẫn tinh thần |
+
 
 **CHƯƠNG 19**
 
@@ -2867,7 +2867,7 @@ Stanford nghiên cứu là cách nhanh nhất để giảm stress trong \<30 gi�
 Mental rehearsal (tưởng tượng vận động) kích hoạt các neural pathways
 tương tự như thực hành vật lý --- được chứng minh bởi neuroimaging
 studies. VĐV Olympic chuyên dùng visualization như một hình thức
-\'mental cross-training\' để consolidate kỹ năng không cần tập vật lý
+'mental cross-training' để consolidate kỹ năng không cần tập vật lý
 thêm.
 
 Protocol visualization cho tay vợt: 10-15 phút trước giấc ngủ, tưởng
@@ -2881,39 +2881,39 @@ Burnout là hội chứng kiệt sức thể chất và tâm lý do overtraining
 dài. Dấu hiệu: Mất động lực, kết quả giảm dù tập luyện nhiều, khó ngủ,
 dễ bực bội, tăng tỷ lệ chấn thương. Cross-training đóng vai trò phòng
 ngừa burnout qua: Đa dạng hóa tập luyện (giảm monotony), tạo trải nghiệm
-thành công trong các môn khác (boost confidence), và cung cấp \'mental
-break\' từ áp lực tennis thuần túy.
+thành công trong các môn khác (boost confidence), và cung cấp 'mental
+break' từ áp lực tennis thuần túy.
 
 **19.6 Tâm Lý Học Của Thi Đấu Dưới Áp Lực**
 
 Choking under pressure --- sa sút khi áp lực cao --- xảy ra khi VĐV quá
 tập trung vào cơ chế kỹ thuật của cú đánh thay vì để chuyển động tự
 động. Cross-training cải thiện performance under pressure thông qua: Tạo
-\'automaticity\' ở cấp độ thể chất (cú đánh tự nhiên hơn khi thể chất
+'automaticity' ở cấp độ thể chất (cú đánh tự nhiên hơn khi thể chất
 mạnh), giảm physical discomfort trong thi đấu (ít lo lắng về mệt mỏi),
 và tăng self-efficacy (tự tin hơn về thể chất).
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 19**                                             |
-|                                                                      |
-| ✓ Yoga là mindfulness in motion --- cross-training tinh thần song    |
-| song với thể chất                                                    |
-|                                                                      |
+| **📌 Tóm Tắt Chương 19** |
+| --- |
+|  |
+| ✓ Yoga là mindfulness in motion --- cross-training tinh thần song |
+| song với thể chất |
+|  |
 | ✓ Breathing techniques (box breathing, physiological sigh) kiểm soát |
-| arousal giữa điểm                                                    |
-|                                                                      |
+| arousal giữa điểm |
+|  |
 | ✓ Mental rehearsal kích hoạt neural pathways tương tự tập vật lý --- |
-| tận dụng trước giấc ngủ                                              |
-|                                                                      |
-| ✓ Cross-training phòng ngừa burnout qua đa dạng hóa và tạo trải      |
-| nghiệm thành công mới                                                |
-|                                                                      |
-| ✓ Thể chất mạnh giảm physical discomfort → giảm anxiety →            |
-| performance tốt hơn dưới áp lực                                      |
-|                                                                      |
-| ✓ 10-15 phút visualization mỗi tối là cross-training tinh thần chi   |
-| phí thấp, hiệu quả cao                                               |
-+----------------------------------------------------------------------+
+| tận dụng trước giấc ngủ |
+|  |
+| ✓ Cross-training phòng ngừa burnout qua đa dạng hóa và tạo trải |
+| nghiệm thành công mới |
+|  |
+| ✓ Thể chất mạnh giảm physical discomfort → giảm anxiety → |
+| performance tốt hơn dưới áp lực |
+|  |
+| ✓ 10-15 phút visualization mỗi tối là cross-training tinh thần chi |
+| phí thấp, hiệu quả cao |
+
 
 **CHƯƠNG 20**
 
@@ -3054,26 +3054,26 @@ chiến đấu trên sân đấu năm này qua năm khác. Đó là mục tiêu 
 không chỉ chơi tennis giỏi hôm nay, mà còn chơi tennis tốt và yêu tennis
 suốt cuộc đời.
 
-+----------------------------------------------------------------------+
-| **📌 Tóm Tắt Chương 20 Và Toàn Bộ Cuốn Sách**                        |
-|                                                                      |
-| ✓ Chương trình 12 tháng: Off-season (xây dựng) → Pre-season (chuyển  |
-| hóa) → In-season (duy trì) → Transition                              |
-|                                                                      |
-| ✓ Mỗi tháng có mục tiêu cross-training cụ thể phù hợp với giai đoạn  |
-| periodization                                                        |
-|                                                                      |
-| ✓ 3 profile VĐV: Thiếu niên, Thanh niên, Trưởng thành --- ba chương  |
-| trình khác nhau                                                      |
-|                                                                      |
-| ✓ Linh hoạt điều chỉnh theo lịch thi đấu --- framework giữ nguyên,   |
-| chi tiết thay đổi                                                    |
-|                                                                      |
-| ✓ Training log + TPAB định kỳ = nền tảng của điều chỉnh thông minh   |
-|                                                                      |
-| ✓ Cross-training là hành trình không có điểm đến --- mục tiêu là     |
-| chơi tennis suốt đời, khỏe mạnh và yêu thích                         |
-+----------------------------------------------------------------------+
+| **📌 Tóm Tắt Chương 20 Và Toàn Bộ Cuốn Sách** |
+| --- |
+|  |
+| ✓ Chương trình 12 tháng: Off-season (xây dựng) → Pre-season (chuyển |
+| hóa) → In-season (duy trì) → Transition |
+|  |
+| ✓ Mỗi tháng có mục tiêu cross-training cụ thể phù hợp với giai đoạn |
+| periodization |
+|  |
+| ✓ 3 profile VĐV: Thiếu niên, Thanh niên, Trưởng thành --- ba chương |
+| trình khác nhau |
+|  |
+| ✓ Linh hoạt điều chỉnh theo lịch thi đấu --- framework giữ nguyên, |
+| chi tiết thay đổi |
+|  |
+| ✓ Training log + TPAB định kỳ = nền tảng của điều chỉnh thông minh |
+|  |
+| ✓ Cross-training là hành trình không có điểm đến --- mục tiêu là |
+| chơi tennis suốt đời, khỏe mạnh và yêu thích |
+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

@@ -4,60 +4,58 @@
 
 ![A person with a flower in her hair Description automatically generated
 with medium
-confidence](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image1.jpg){width="2.638888888888889in"
-height="3.3055555555555554in"}
+confidence](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image1.jpg)
 
-**After betting on her to win, Monique\'s stock went up in the
-Trumpster\'s eyes.**
+**After betting on her to win, Monique's stock went up in the
+Trumpster's eyes.**
 
-After her first big money win at Donald Trump\'s Florida resort, it was
-kind of funny how Monique\'s stock went up in his eyes and how mine went
+After her first big money win at Donald Trump's Florida resort, it was
+kind of funny how Monique's stock went up in his eyes and how mine went
 up too. ([Click
 Here](The%20Strange%20Saga%20of%20Monique%20and%20the%20Donald%20-%20Part%201.docx)
 for Part 1 in this saga.) Whenever anyone was around, the Trumpster
-would start saying, \"Rick\'s the best. Rick\'s the best.\" At least I
+would start saying, \"Rick's the best. Rick's the best.\" At least I
 lost the \"hey pal\" label.
 
 So the very next week Trump went to make another bet, but this time with
-the same 45 year old guy from the East playing Monique\'s hitting
+the same 45 year old guy from the East playing Monique's hitting
 partner. The hitting partner at the time was No. 170 in the world.
-That\'s a pretty darn good hitting partner.
+That's a pretty darn good hitting partner.
 
-This time I bet that the Eastern guy wouldn\'t get more than four games.
+This time I bet that the Eastern guy wouldn't get more than four games.
 Everybody jumped on the bet that this guy would get more than four games
 for sure. The bets were flying, hundreds of dollar bills on this bet.
 
 I told Bo, the hitting partner, \"I not only want you to beat him, I
-don\'t want you to take any chances. I just want you to keep it going
+don't want you to take any chances. I just want you to keep it going
 and I want you to run the guy. Just keep running him and running him and
-torture him. And if you don\'t let him get a game I\'ll give you half of
+torture him. And if you don't let him get a game I'll give you half of
 the bet.
 
 \"You could win \$300,\" I told him. To Bo, that was like \$3,000. I
 told Donald, \"You should up the ante. You should take it as far as he
-won\'t get more than a game a set.\" I saw how the guy served and he
-wasn\'t going to get aces on Bo.
+won't get more than a game a set.\" I saw how the guy served and he
+wasn't going to get aces on Bo.
 
-Once the point started, on clay, against a guy No. 170 and he\'s a guy
-who\'s ranked No.1 in the east in the 45\'s? Good night. It ain\'t gonna
+Once the point started, on clay, against a guy No. 170 and he's a guy
+who's ranked No.1 in the east in the 45's? Good night. It ain't gonna
 happen. Game, set, match. Bo!
 
 ![A picture containing grass, sky, outdoor, resort Description
 automatically
-generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image2.jpg){width="5.422293307086615in"
-height="3.34375in"}
+generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image2.jpg)
 
 **Luckily there was a spa at Mar-A-Lago.**
 
 Bo wins the first set 6-0 and is up 3-0 in the second and the guy has to
-retire. They have to call the paramedics (I\'m serious) because the guy
+retire. They have to call the paramedics (I'm serious) because the guy
 is cramping. He has a full body cramp from the neck to the calf.
 
 Lucky that Mar-A-Lago has a spa. The guy is in the spa all day getting
 put back together like the scarecrow in the Wizard of Oz. He needed
 rewiring physically and mentally.
 
-Donald wins hundreds if not thousands on the bet and he\'s going around
+Donald wins hundreds if not thousands on the bet and he's going around
 again saying, \"Never bet against the Trumpster. I know tennis.\" It was
 the funniest thing because it was like the most important thing to him.
 
@@ -65,29 +63,28 @@ He just lasers in on one thing \-- big or small \-- and makes it like
 the Super Bowl. That is why he is so successful.
 
 So while T Management is working to get Monique some off-court
-opportunities, I\'m in the negotiations with racquet companies and some
+opportunities, I'm in the negotiations with racquet companies and some
 clothing companies, mainly Fila and Nike.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image3.jpg){width="2.5555555555555554in"
-height="3.2777777777777777in"}
+generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image3.jpg)
 
 **Fila signed Monique on a napkin at 11:30pm.**
 
 I created a presentation of her capabilities as an athlete, while
-showcasing her obvious good looks. I remember Nike\'s head of
+showcasing her obvious good looks. I remember Nike's head of
 international promotions saying, \"You should come and work for us. This
 portfolio you put together of her dunking a basketball and serving a
 volleyball and on a skateboard is awesome.\"
 
 I also knew Viele was an Italian name and Fila is out of Italy. Since
-I\'m good friends with Fila\'s international promotional executive Marty
+I'm good friends with Fila's international promotional executive Marty
 Mulligan, I also go to them. They all saw her play and saw the other
 off-court things and what publicity it was generating, so at the U.S.
 Open I had these back and forth discussions.
 
-One time, I\'m with Nike and then Fila and then Nike and then Fila.
-Finally I said, \"We\'re going to be doing the deal tonight.\" We met
+One time, I'm with Nike and then Fila and then Nike and then Fila.
+Finally I said, \"We're going to be doing the deal tonight.\" We met
 the people from Italy at 11:30pm in a hallway and wrote it on a napkin.
 
 Bernard Diamond and I agreed in principle to terms of the contract for
@@ -97,12 +94,11 @@ year \... and she was 15 years old!
 Before she ever hit a ball on the pro tour she got one of the biggest
 endorsement deals ever. Then she got a six-figure racquet deal with
 Yonex. The next day I met with Donald at his office and once again his
-line \"Rick\'s the best!\" comes out. It should, I just made him
+line \"Rick's the best!\" comes out. It should, I just made him
 \$180,000!
 
 ![A person playing tennis Description automatically
-generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image4.jpg){width="2.5972222222222223in"
-height="3.763888888888889in"}
+generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image4.jpg)
 
 **Before she hit a ball in a pro tournament Monique was worth millions
 in endorsement deals.**
@@ -113,38 +109,37 @@ wild card into the Princess Cup. I thought she would do well.
 
 She was having many people follow her at the tournament. People saw a
 lot of potential or there was a lot of hype and publicity about her. And
-I didn\'t know what was going to happen other than she had good
+I didn't know what was going to happen other than she had good
 groundstrokes and she could hang with girls in the top 100 and her serve
 was good.
 
-She goes out there and I\'m totally blown away how she just freaked out.
-At 3-all in the first set she just got paralyzed, couldn\'t run,
-couldn\'t hit, made errors. She usually bounced the ball three times on
+She goes out there and I'm totally blown away how she just freaked out.
+At 3-all in the first set she just got paralyzed, couldn't run,
+couldn't hit, made errors. She usually bounced the ball three times on
 her serve. One time she bounced it 18 times. She was hyperventilating
-and she got a delay-of-game warning. And I\'m thinking, what the heck?
+and she got a delay-of-game warning. And I'm thinking, what the heck?
 
-I said right then and there she wasn\'t wired like Venus or Serena or
+I said right then and there she wasn't wired like Venus or Serena or
 Jennifer. She might have some juice and fire power but mentally there
 are some things that are going to take awhile, if they were ever going
 to happen!
 
 She comes back to the United States and she has to play some \$25,000,
-\$50,000 and \$75,000 lower-level events and she\'s losing matches,
+\$50,000 and \$75,000 lower-level events and she's losing matches,
 winning matches, getting her ranking into the 300s.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image5.jpg){width="1.6145833333333333in"
-height="2.9375in"}
+generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image5.jpg)
 
 **Endorsements, but how was Monique wired?**
 
 And then out of nowhere her father, who was a very good friend of mine,
-who\'s Mr. Health and Nutrition, who never drinks soda, never eats
+who's Mr. Health and Nutrition, who never drinks soda, never eats
 certain meats, drinks so much water, is fit as a fiddle, is always
-telling me, \"Why are you drinking that Coke? Don\'t do that, you should
+telling me, \"Why are you drinking that Coke? Don't do that, you should
 be doing this.\" Then out of nowhere, he gets sick.
 
-He has cancer. He\'d always been against the medical profession, so he
+He has cancer. He'd always been against the medical profession, so he
 does this holistic approach to try to combat it. He does this for three
 months, which is the wrong thing to do. And by the time he goes to a
 regular doctor, half his stomach is gone.
@@ -157,54 +152,51 @@ anybody. But this was a very unique situation because Rick Viele was a
 very controlling, dominant parent.
 
 Even more than a Richard Williams or a Jim Pierce or a Stefano Capriati.
-I wouldn\'t say he was a dictator but he very much controlled every move
+I wouldn't say he was a dictator but he very much controlled every move
 from A to V, as in Viele. How that affected his daughter was traumatic.
 
-She didn\'t want to play anymore. She didn\'t have the desire to play.
-She lost motivation and when she tried to come back she didn\'t want to
+She didn't want to play anymore. She didn't have the desire to play.
+She lost motivation and when she tried to come back she didn't want to
 come back. Plus she had wrist surgery and the whole thing got lopsided
 and just blew up.
 
 ![A picture containing person, person Description automatically
-generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image6.jpg){width="6.038419728783902in"
-height="3.34375in"}
+generated](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image6.jpg)
 
 **Monique and her dad, Rick.**
 
 It was sad because no doubt she could have been a top 50 player,
 guaranteed. It would have taken some time. She had groundstrokes that
 were solid and she had a great serve. I think the mental part you learn
-last and she just didn\'t have that at a young age.
+last and she just didn't have that at a young age.
 
 And the hype and publicity superceded the talent, no doubt. Monique had
-so much more inside of her as a tennis player. But her father\'s
+so much more inside of her as a tennis player. But her father's
 situation changed the road map in her career and her life.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person with his arms crossed Description automatically generated with low                                                                                                                          | Rick Macci has coached some of the greatest players   |
-| confidence](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image7.jpeg){width="1.3020833333333333in" | in the modern game during their critical, formative   |
-| height="1.9791666666666667in"}                                                                                                                                                                         | years. He is widely regarded as one the world\'s top  |
-|                                                                                                                                                                                                        | developmental coaches. Rick and his staff have shaped |
-|                                                                                                                                                                                                        | the strokes of Jennifer Capriati, Venus and Serena    |
-|                                                                                                                                                                                                        | Williams, Andy Roddick, and dozens of other           |
-|                                                                                                                                                                                                        | successful tour players. In the last 30 years, Macci  |
-|                                                                                                                                                                                                        | students have won 134 USTA national junior            |
-|                                                                                                                                                                                                        | championships, and have been awarded over 4 million   |
-|                                                                                                                                                                                                        | dollars in college scholarships. Rick is a USPTA      |
-|                                                                                                                                                                                                        | Master Pro and a member of the USPTA Florida Hall of  |
-|                                                                                                                                                                                                        | Fame.                                                 |
-|                                                                                                                                                                                                        |                                                       |
-|                                                                                                                                                                                                        | The Rick Macci Academy is located in Boca Raton,      |
-|                                                                                                                                                                                                        | Florida at the beautiful Boca Logo Country Club,      |
-|                                                                                                                                                                                                        | where Rick works in collaboration with Dr. Brian      |
-|                                                                                                                                                                                                        | Gordon in implementing their new world class training |
-|                                                                                                                                                                                                        | system.                                               |
-|                                                                                                                                                                                                        |                                                       |
-|                                                                                                                                                                                                        | For more information about Rick\'s Academy, email him |
-|                                                                                                                                                                                                        | at: info@rickmacci.com or call Rick Macci directly    |
-|                                                                                                                                                                                                        | at: (561) 445-2747                                    |
-+========================================================================================================================================================================================================+=======================================================+
-|                                                                                                                                                                                                                                                                |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
+| --- | --- |
+| confidence](media_the-strange-saga-of-monique-and-the-donald-part-2/media/image7.jpeg) | years. He is widely regarded as one the world's top |
+|  | developmental coaches. Rick and his staff have shaped |
+|  | the strokes of Jennifer Capriati, Venus and Serena |
+|  | Williams, Andy Roddick, and dozens of other |
+|  | successful tour players. In the last 30 years, Macci |
+|  | students have won 134 USTA national junior |
+|  | championships, and have been awarded over 4 million |
+|  | dollars in college scholarships. Rick is a USPTA |
+|  | Master Pro and a member of the USPTA Florida Hall of |
+|  | Fame. |
+|  |  |
+|  | The Rick Macci Academy is located in Boca Raton, |
+|  | Florida at the beautiful Boca Logo Country Club, |
+|  | where Rick works in collaboration with Dr. Brian |
+|  | Gordon in implementing their new world class training |
+|  | system. |
+|  |  |
+|  | For more information about Rick's Academy, email him |
+|  | at: info@rickmacci.com or call Rick Macci directly |
+|  | at: (561) 445-2747 |
+|  |  |
+
 
 a

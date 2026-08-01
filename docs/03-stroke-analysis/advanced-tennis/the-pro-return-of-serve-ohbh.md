@@ -8,18 +8,17 @@
 
 ![A person running with a football Description automatically generated
 with medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image1.webp){width="3.3333333333333335in"
-height="2.4375in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image1.webp)
 
 **Roger Federer: a compact, classical, aggressive forehand return.**
 
-It\'s been argued that the return of serve is as important or possibly
+It's been argued that the return of serve is as important or possibly
 more important than the serve itself, since without the ability to break
 every set ends in a tiebreaker. Clearly we saw the role the return could
-play in Novak Djokovic\'s titanic Australian victory over Rafael Nadal.
+play in Novak Djokovic's titanic Australian victory over Rafael Nadal.
 ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/suffering_and_service_returns/)
-to read Craig O\'Shannessey\'s article about that.)
+to read Craig O'Shannessey's article about that.)
 
 But when we say \"return of serve,\" what do we mean? There is no one
 return. In reality there are many versions. Obviously there are
@@ -33,8 +32,8 @@ technical elements\--elements that differ from player to player---and
 also for the same player from ball to ball. And definitely from the
 groundstroke versions of the same shots.
 
-In this new series let\'s delve into the range, the variations, and the
-complexities of the pro returns. Then let\'s come to some conclusions
+In this new series let's delve into the range, the variations, and the
+complexities of the pro returns. Then let's come to some conclusions
 about which options might - or might not - apply for your game.
 
 To understand the range of possibilities on the return, we have to look
@@ -44,30 +43,29 @@ shape of the forward swings, the finishes, the contact heights and the
 spins, among other factors.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image2.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image2.webp)
 
 **Another look at Federer moving into hit an aggressive drive return.**
 
 The variety in the way players combine all these is at least as
 fascinating as the combinations on the groundstrokes. Interestingly they
-also include technical elements and positions you don\'t usually see off
+also include technical elements and positions you don't usually see off
 the ground, particularly in the backswing and the footwork.
 
-So let\'s start with the forehand returns and examine the components. In
-this first article let\'s analyze what I call the Compact Classical
+So let's start with the forehand returns and examine the components. In
+this first article let's analyze what I call the Compact Classical
 forehand return, a version of a drive return that can be used on either
-the first or second serve. We\'ll take Roger Federer as the example.
+the first or second serve. We'll take Roger Federer as the example.
 
-In future articles we\'ll look at other variations of the forehand drive
-as used by Novak Djokovic, Rafael Nadal, and Andy Murray. Then we\'ll
+In future articles we'll look at other variations of the forehand drive
+as used by Novak Djokovic, Rafael Nadal, and Andy Murray. Then we'll
 move on to the backhand returns with both one and two hands, and after
 that, the slice. The ultimate goal is to develop a perspective for
 improving the returns of players at all levels.
 
 **Compact Drives**
 
-Federer\'s forehand returns are the best examples in the modern game of
+Federer's forehand returns are the best examples in the modern game of
 compact drives. These drives are based on classical technical components
 and, in keeping with his overall style, are intended to be very
 aggressive.
@@ -82,24 +80,23 @@ for more on grips and grip terminology.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image3.webp){width="3.3333333333333335in"
-height="2.4375in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image3.webp)
 
-**2 views of Roger\'s return grip with the hand behind the handle.**
+**2 views of Roger's return grip with the hand behind the handle.**
 
-As we have seen, on Roger\'s forehand groundstroke he uses a modified
+As we have seen, on Roger's forehand groundstroke he uses a modified
 eastern, with the hand shifted down just slightly toward a semi-western.
 But on the return, the hand is further toward the top of the handle with
 both the heel pad and the index knuckle on the third bevel down from the
 top.
 
 The grip is directly related to another key initial factor, which is
-Federer\'s starting court position. Typically on first serves Federer
+Federer's starting court position. Typically on first serves Federer
 positions himself 2 to 4 feet behind the baseline. On second serves, he
 moves further in, starting just behind the line but often taking an
 extra step and striking the ball well inside the court.
 
-Federer\'s grip and his starting position are related to yet two more
+Federer's grip and his starting position are related to yet two more
 factors---the timing of the return and the contact height. Roger usually
 takes the return on the rise. This controls the contact height keeping
 it below shoulder level, which is critical with his conservative grip.
@@ -113,7 +110,7 @@ This is true for the top current players and especially for Federer.
 
 Whereas Roger averages about 2700rpm on his forehand groundstrokes, his
 first serve returns we have measured ranged between 600rpm and 1400rpm,
-with an average of 950rpm. That\'s a little more than a third of the
+with an average of 950rpm. That's a little more than a third of the
 average spin on his forehand groundstroke.
 
 On his second serve he hits with somewhat more spin, averaging about
@@ -121,8 +118,7 @@ On his second serve he hits with somewhat more spin, averaging about
 groundstroke average.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image4.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image4.webp)
 
 **Roger can split close behind the baseline or take a step up and split
 inside.**
@@ -157,8 +153,7 @@ that is also evident when he starts to turn.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image5.webp){width="3.3333333333333335in"
-height="2.4375in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image5.webp)
 
 **The feet and upper body turn sideways as a unit.**
 
@@ -179,7 +174,7 @@ A second difference is the stance. In most pro groundstrokes players set
 up in a semi-open stance at the end of the turn with the left foot
 significantly closer to the net ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/stances_modern_forehand/stances_modern_forehand.html)
-for more on that). But on most forehand returns it\'s different.
+for more on that). But on most forehand returns it's different.
 
 Rather than stepping upward, the left foot (the foot further from the
 ball) tends to pivot sideways, similar to the pivot with the right foot
@@ -188,22 +183,21 @@ fully open stance when he reaches the maximum turn
 
 As Federer starts the pivot step, he turns his body as well as his feet.
 The turn is unitary as we have seen many times on all the
-groundstrokes---and it\'s the same on the returns. This means Roger\'s
+groundstrokes---and it's the same on the returns. This means Roger's
 feet and his body are moving sideways together, with minimal independent
 movement of the hand, arm or racket. Notice also as Federer completes
 this pivot move, how he maintains the deep knee bend from the completion
 of the split.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image6.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image6.webp)
 
 **At the completion of the turn the shoulders can rotate 45 up to 90
 degrees.**
 
 As the body turns, the racket is moving backwards somewhat, but as a
 function of the rotation of the torso. So the admonition \"Get your
-racket back early\" doesn\'t apply---if by that you mean moving the arm
+racket back early\" doesn't apply---if by that you mean moving the arm
 and racket on their own. In fact, if the first move is with the arm and
 racket, the critical body turn will probably never happen or at best
 will be significantly reduced.
@@ -215,8 +209,8 @@ definitely less extreme than the groundstrokes. With the groundstrokes,
 the shoulders are almost always turned somewhat past 90 degrees to the
 net.
 
-But with the returns, it\'s less. The shoulders can turn as little as 45
-degrees. On a few returns they may reach 90 degrees. On most it\'s
+But with the returns, it's less. The shoulders can turn as little as 45
+degrees. On a few returns they may reach 90 degrees. On most it's
 probably somewhere in between.
 
 The left arm stretch also tends to be less extreme. It definitely comes
@@ -227,9 +221,9 @@ Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yande
 
 This all makes sense. On the return, players us a quicker, more compact
 version of the groundstroke turn because of the time factor. Remember
-it\'s around a second between hits in a groundstroke rally in pro
-tennis. But on the return, the serves reaches the returner\'s racket in
-¾\'s of a second and frequently less.
+it's around a second between hits in a groundstroke rally in pro
+tennis. But on the return, the serves reaches the returner's racket in
+¾'s of a second and frequently less.
 
 So for any player at any level, beginning the return with a unitary
 sideways motion of the feet and body is a huge key. At lower levels with
@@ -244,13 +238,12 @@ the backswing. A standard cliché on the return is \"Keep the backswing
 compact!\"
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image7.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image7.webp)
 
-**Watch the racket hand move back and to the outside or the player\'s
+**Watch the racket hand move back and to the outside or the player's
 right.**
 
-And that\'s true for Roger, definitely. But what\'s interesting is the
+And that's true for Roger, definitely. But what's interesting is the
 shape his \"compact\" backswing takes and how that happens.
 
 Shortly after the unit turn begins, Roger turns the racket face to the
@@ -262,8 +255,8 @@ groundstroke, his hand continues to stay at virtually same height. It
 does move backwards but less than on the groundstroke.
 
 In one sense, then the backswing motion is \"straight back\" because the
-hand doesn\'t rise. But even more interesting is that as it is moving
-back it is also moving to the outside or the player\'s right. Watch how
+hand doesn't rise. But even more interesting is that as it is moving
+back it is also moving to the outside or the player's right. Watch how
 it actually gets further away from his body.
 
 Note also how the racket tip stays pointing virtually straight up for
@@ -275,24 +268,23 @@ the court. But the tip points behind Federer and to his right.
 
 The tip never points back directly perpendicular to the back fence.
 Instead it stays outside or to the right of the hand. In relation to the
-baseline it\'s at an angle of say 30 to 45 degrees. So the butt of the
+baseline it's at an angle of say 30 to 45 degrees. So the butt of the
 racket never squares up pointing to the ball or even the net.
 
 What does that mean? Stay tuned for the upcoming analysis of this
 position and its key biomechanical significance in the new forehand
 articles coming soon from Brian Gordon. Rather than me trying to explain
-it (and maybe getting it wrong), let\'s just say that this position is
+it (and maybe getting it wrong), let's just say that this position is
 very significant in developing racket speed.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image8.webp)
 
 **What is the purpose of the diagonal cross step?**
 
 **Cross Step**
 
-So what happens next? Watch Federer\'s opposite or left foot---the foot
+So what happens next? Watch Federer's opposite or left foot---the foot
 furthest from the ball\--around the time he is completing the backswing.
 That foot starts to take a large diagonal cross step that corresponds
 with the forward swing, landing across the body after the hit.
@@ -300,12 +292,12 @@ with the forward swing, landing across the body after the hit.
 If the ball is in perfect position, Federer will hit with the open
 stance he sets up from the turn. But he uses the cross step on a high
 percentage of returns. This step can be slightly across the body, or up
-to several feet across. Surprising when you really look at it isn\'t it?
+to several feet across. Surprising when you really look at it isn't it?
 
 Is Federer using a \"closed stance,\" something that supposedly never
 happens on the forehand side in the modern game? I would say no, not
 exactly, because the hit happens well before the diagonal cross step is
-complete or his foot ever touches down on the court. It\'s actually
+complete or his foot ever touches down on the court. It's actually
 similar to what happens on some running forehands which end with a cross
 step that lands after the hit.
 
@@ -321,13 +313,12 @@ supersonic world of the pro return, this footwork pattern is also the
 best or maybe the only way to reach a wider ball on time.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image9.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image9.webp)
 
 **Watch the compact forward swing with limited body rotation.**
 
-You rarely see players in the men\'s game take additional out steps to
-reach wide serves. And this is because they don\'t have the extra split
+You rarely see players in the men's game take additional out steps to
+reach wide serves. And this is because they don't have the extra split
 seconds they would need to do this. Instead they take one lunging step
 forward and across, making contact somewhere between the start of the
 step and the landing of the opposite foot on the court. When depends on
@@ -342,7 +333,7 @@ rotate. There is less initial body turn than a groundstroke, as we have
 seen. This means there is also less torso rotation in the forward swing.
 
 Typically Roger finishes with the shoulders parallel to the net. So he
-rotates forward 45 to at most 90 degrees. That\'s as much as 90 degrees
+rotates forward 45 to at most 90 degrees. That's as much as 90 degrees
 less torso rotation than on many of his forehand groundstrokes, and
 closer to a classical eastern style swing.
 
@@ -351,8 +342,7 @@ his returns, again on both first and second serves, the racket face
 stays on edge.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image10.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image10.webp)
 
 **The extension of the swing with the racket still on edge like an old
 style eastern forehand.**
@@ -360,7 +350,7 @@ style eastern forehand.**
 That on edge swing is also similar to a classic eastern forehand, pretty
 close to what Robert Lansdorp taught Pete Sampras at age 8. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html).)
-In fact Roger\'s forehand return---with maybe slightly more
+In fact Roger's forehand return---with maybe slightly more
 backswing\--could be used as a model forehand groundstroke for a vast of
 club players.
 
@@ -379,7 +369,7 @@ swing path helps explain the low spin levels.
 
 The wrap, or the deceleration phase, finishes higher than the
 groundstroke and often directly backwards over the shoulder. Again this
-is very different from Roger\'s normal forehand which typically hase
+is very different from Roger's normal forehand which typically hase
 massive wiper action and can finish wrapped around the upper torso. (For
 more on the wiper and what it means, [[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
@@ -387,8 +377,7 @@ Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yande
 **Hitting Arm**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image11.webp){width="3.3333333333333335in"
-height="2.4375in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image11.webp)
 
 **Roger returns with a straight hitting arm but adjusts to a double bend
 on some balls.**
@@ -403,8 +392,8 @@ double bend configuration.
 
 The answer here for club players I think is to stick with whatever
 hitting arm structure you use on your groundstroke. But if you do hit
-with a straight arm (or try to) don\'t worry about being a little less
-aggressive on the return if you can\'t get all the way out. If Federer
+with a straight arm (or try to) don't worry about being a little less
+aggressive on the return if you can't get all the way out. If Federer
 can be flexible on this point, so can you.
 
 **Caveats**
@@ -414,7 +403,7 @@ already noted, on some balls Roger hits from the open stance he sets up
 at the turn, without taking the cross step.
 
 He will also step away from the ball at the start of the motion, moving
-around it when it\'s hit directly at him or he wants to hit inside out.
+around it when it's hit directly at him or he wants to hit inside out.
 Occasionally he will back up, almost always on the second serve, in
 order to take a larger swing.
 
@@ -429,8 +418,7 @@ possible, and to hit the returns early and quite flat.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image12.webp){width="3.3333333333333335in"
-height="2.4375in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image12.webp)
 
 **Roger will sometimes hit fully open or move either back and/or around
 the ball, hitting with more wiper action and more spin.**
@@ -447,7 +435,7 @@ times even wider, far from the middle of the court. Almost by necessity
 the recovery step must be a cross over in order to have any chance of
 regaining a neutral position.
 
-But it\'s actually the opposite in the ad court. In that case the
+But it's actually the opposite in the ad court. In that case the
 diagonal cross step is toward the middle, carrying Roger back toward a
 neutral rally position, something he can establish by taking an
 additional shuffle step, or just defaulting into a split step. Again,
@@ -455,14 +443,13 @@ another interesting and important difference with the groundstrokes.
 
 **Summary**
 
-So let\'s summarize the elements for players who want to develop this
+So let's summarize the elements for players who want to develop this
 type of return. Probably this return is best suited for players who
 already have a conversative grip.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image13.webp){width="3.3333333333333335in"
-height="2.4375in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image13.webp)
 
 **The diagonal cross step affects the recovery differently in the ad and
 deuce courts.**
@@ -485,15 +472,14 @@ arm structure if possible and make contact in front. Now, notice where
 you are on the court­and in which court­and choose the recovery steps
 depending on that position.
 
-So that\'s it for the compact, classical aggressive return as modeled by
-Roger Federer. We\'ll look at the other top players in the upcoming
+So that's it for the compact, classical aggressive return as modeled by
+Roger Federer. We'll look at the other top players in the upcoming
 articles, so stay tuned!
 
 **Part 2: Extreme Grips**
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image14.webp)
 
 **Djokovic and Nadal hit forehand returns with same extreme grips as
 their forehand groundstrokes.**
@@ -501,7 +487,7 @@ their forehand groundstrokes.**
 In the first article in this series we looked at the compact, classical
 return patterns hit by Roger Federer. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/).)
-Now let\'s look at pro returns hit with more extreme grips by Novak
+Now let's look at pro returns hit with more extreme grips by Novak
 Djokovic and Rafael Nadal and the similarities and the differences with
 Federer.
 
@@ -531,14 +517,13 @@ similar? And what are differences if any between Djokovic and Nadal?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image15.webp)
 
-**Another look at Novak\'s and Rafa\'s forehand return grips.**
+**Another look at Novak's and Rafa's forehand return grips.**
 
 **More on Grip**
 
-Let\'s start by defining the grips more clearly. What do I mean by an
+Let's start by defining the grips more clearly. What do I mean by an
 extreme semi-western grip? For Djokovic, the heel pad is on the fourth
 bevel down from the top, or maybe slightly further underneath. His index
 knuckle is on the edge between bevel 4 and bevel 5. ([[Click
@@ -566,11 +551,10 @@ Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yande
 for even more on grips and grip terminology.)
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image16.webp)
 
-**In the ready position, Novak\'s grip is in between his forehand and
-backhand. Rafa\'s is very close to or the same as his forehand.**
+**In the ready position, Novak's grip is in between his forehand and
+backhand. Rafa's is very close to or the same as his forehand.**
 
 Nadal in comparison has his hand lower in the ready position, very close
 to or the same as his forehand grip, with the index knuckle more on
@@ -583,10 +567,10 @@ upcoming articles.)
 
 The main point is that for the return itself, both players are using
 essentially the same grip as their groundstrokes. So what are the
-implications here for the rest of the technical stroke? They aren\'t
+implications here for the rest of the technical stroke? They aren't
 necessarily what you might assume.
 
-Let\'s start with spin. We know from our previous studies ([[Click
+Let's start with spin. We know from our previous studies ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html))
 that in general the returns are hit with much less spin than the
 groundstrokes.
@@ -597,15 +581,14 @@ players, especially considering the more over the shoulder style finish
 he tends to use on his returns---varying from his lower windshield wiper
 groundstroke finishes. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/)
-for more on Federer\'s return.)
+for more on Federer's return.)
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image17.webp)
 
 **Nadal hits up to twice as much return spin as Djokovic or Federer.**
 
-But it turns out that isn\'t true. In reality, the spin differences on
+But it turns out that isn't true. In reality, the spin differences on
 the returns appears to be proportional to the spin differences on the
 groundstrokes.
 
@@ -626,10 +609,9 @@ Specifically, Federer and Djokovic are averaging a little over 900rpm on
 first serve forehand returns. Nadal is about 20% higher at 1100rpm.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image18.webp)
 
-**Despite his grip, Djokovic\'s spin levels are similar to Federer on
+**Despite his grip, Djokovic's spin levels are similar to Federer on
 the returns\--as well as groundstrokes.**
 
 This difference is more pronounced on the second serve returns. Federer
@@ -637,11 +619,11 @@ and Djokovic are averaging about 1400rpm on second serve forehand
 returns. Nadal is almost double that at 2800rpm.
 
 So think about that. Federer has an eastern grip and is hitting the same
-return spin as Djokovic whose grip is as extreme as Nadal\'s. Nadal has
+return spin as Djokovic whose grip is as extreme as Nadal's. Nadal has
 the same grip as Djokovic but is hitting far more spin.
 
 How do we account for the differences? Is it technical in terms of the
-swing patterns, or is it tactical and a function of the player\'s
+swing patterns, or is it tactical and a function of the player's
 intention, or is it something else?
 
 One factor we definitely need to consider is court position. On the
@@ -656,8 +638,7 @@ Federer is at least as close as Djokovic and frequently closer.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image19.webp)
 
 **In general Djokovic stands in closer than Nadal on both first and
 second serves.**
@@ -677,20 +658,19 @@ normal, already very deep position.
 
 **Split Step**
 
-Although the positive responses to the article on Federer\'s returns was
+Although the positive responses to the article on Federer's returns was
 really great, one criticism that I thought was valuable was that the
-article didn\'t address the timing of the split step. And obviously,
+article didn't address the timing of the split step. And obviously,
 this is a critical factor.
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image20.webp)
 
 **The split begins before contact, with the turn complete somewhere
 around the bounce.**
 
-So let\'s look at that now. Typically, what you see is that all three
+So let's look at that now. Typically, what you see is that all three
 players are beginning the split step before the server actually contacts
 the ball.
 
@@ -699,13 +679,13 @@ are landing the split when the ball is still on the other side of the
 net. The turn motion typically begins as the ball crosses to their side
 and is complete sometime right around the bounce.
 
-If you watch club players you see time and time again that they don\'t
+If you watch club players you see time and time again that they don't
 react to the ball until it bounces on their side of the court. This is
 disastrous on the groundstrokes, and ultra disastrous on the return of
 serve. It makes it difficult if not impossible to turn, leads to late
 contact, and reduces the options for the forward swing.
 
-So here is a critical point for players at all levels. You don\'t need
+So here is a critical point for players at all levels. You don't need
 to read the serve direction to begin the return motion. Start the split
 as the server starts the upward swing.
 
@@ -716,8 +696,7 @@ does the turn motion look like? Here we see some differences that may
 partially relate to court position.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image21.webp)
 
 **Novak usually lands on both feet while Rafa sometimes starts the turn
 in the air.**
@@ -739,7 +718,7 @@ the shot as they are coming down. Ironically this is similar to what
 Agassi often did on his returns, the only other elite player in recent
 history to stand even further in than Federer.
 
-There are other things that are different about Nadal\'s split. At times
+There are other things that are different about Nadal's split. At times
 he will actually split backwards in the air, landing even deeper in the
 court than where he started.
 
@@ -750,23 +729,22 @@ on the second serve and less frequently than Nadal.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image22.webp)
 
 **Whatever the variations, the key is to begin the split before the
-server\'s contact.**
+server's contact.**
 
 So we may have the tendency to think of the split step as something
 pretty straight forward. But looking at the splits of these three
-players, that\'s a lot of variation, related to court position and
+players, that's a lot of variation, related to court position and
 return style.
 
 The key point for club players trying to improve their returns, however,
-is to begin the split before the server\'s contact, and then to react to
+is to begin the split before the server's contact, and then to react to
 the location of the ball as soon as possible whether you can start you
 turn in the air or not. You should also experiment to adjust your
 starting ready position based on your tactical style, your reactions
-times, and the speed and weight of your opponent\'s serves.
+times, and the speed and weight of your opponent's serves.
 
 **First Move**
 
@@ -783,8 +761,7 @@ steps.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image23.webp)
 
 **The first move most commonly initiates with a pivot step.**
 
@@ -814,21 +791,20 @@ although you can see it reach 90 degrees at times.
 
 ![A person wearing a red shirt and white shorts running on a tennis
 court Description automatically generated with medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image24.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image24.webp)
 
 **The body turn is less on the groundstroke, as is the stretch of the
 opposite arm across the body.**
 
 The opposite arm stretch across the body also tends to be less.
-Typically it doesn\'t fully straighten out and point directly at the
+Typically it doesn't fully straighten out and point directly at the
 sideline, as it virtually always does on the groundstrokes. (For more on
 the groundstroke turn, [[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_pg1/building_modern_forehand_pg1.html).)
 
 This all makes sense. On the return, players have to use a quicker, more
 compact preparation because of the time factor. This is due to the fact
-that the serve reaches the returner\'s racket in ¾\'s of a second and
+that the serve reaches the returner's racket in ¾'s of a second and
 frequently less.
 
 But the main point is that, for any player at any level, beginning the
@@ -838,8 +814,8 @@ possible to turn more fully. But in the pro game, the turn is
 predominantly reduced in the way we have described.
 
 The exception can be for a player like Nadal when he stands 15 feet
-behind the baseline. In that circumstance it\'s possible to have a
-fuller turn, more like a groundstroke. And maybe that\'s why he stands
+behind the baseline. In that circumstance it's possible to have a
+fuller turn, more like a groundstroke. And maybe that's why he stands
 back there and uses the fuller swing---he wants to start off with much
 higher spin levels.
 
@@ -847,8 +823,7 @@ higher spin levels.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image25.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image25.webp)
 
 **A critical return difference---the racket hand moving straight back
 but also to the outside.**
@@ -867,7 +842,7 @@ a circular arc, the racket hand for both Djokovic and Nadal moves almost
 straight back or minimally upward on a slight incline.
 
 But at the same time, the racket hand is also clearly moving to the
-outside away from the player\'s body. This is a key element that so far
+outside away from the player's body. This is a key element that so far
 as I know has not been previously identified or analyzed.
 
 It is also very different from the backswing on the groundstrokes in two
@@ -877,8 +852,7 @@ reach the top of the shoulder or higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image26.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image26.webp)
 
 **On some extreme grip returns, the racket head stays outside or wider
 than the hand.**
@@ -893,7 +867,7 @@ actually moving in the other direction\--away from the torso not closer.
 Typically the hand continues this movement until the start of the
 forward swing.
 
-But that\'s not all. There is another characteristic as well. This was
+But that's not all. There is another characteristic as well. This was
 present in virtually all the Federer returns. But you also see it at
 times as well with the more extreme grips.
 
@@ -902,15 +876,14 @@ tip never points back directly perpendicular to the back fence. Instead
 it stays outside of the hand, or closer to the sideline at a diagonal to
 the arm.
 
-In relation to the baseline it\'s at an angle of say 30 to 45 degrees.
+In relation to the baseline it's at an angle of say 30 to 45 degrees.
 This means the butt of the racket never squares up. This is
 characteristic of the most compact backswing variation. But you see this
 on some returns with the extreme grips, and it tends to correlate with
 when the players stand further in.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image27.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image27.webp)
 
 **On other extreme returns, the racket butt squares up with the net.**
 
@@ -930,12 +903,11 @@ less backwards, affecting the angle of the racket.
 
 **Closed Stance?**
 
-So now let\'s look at yet another major difference with the forehand
+So now let's look at yet another major difference with the forehand
 groundstroke.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image28.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image28.webp)
 
 **The groundstroke backswing: moving upward and inward versus the
 return: moving straight back and outward.**
@@ -950,7 +922,7 @@ happens on the forehand side in the modern game?
 I would say not exactly. This is because the hit happens well before the
 foot touches down on the court.
 
-So the players aren\'t setting up in a closed stance. It\'s actually
+So the players aren't setting up in a closed stance. It's actually
 similar to what happens on some running forehands which end with a cross
 step that lands after the hit. Or the lunge step on the volley, where
 the hit happens before the front foot hits the court in most cases.
@@ -966,8 +938,7 @@ diagonal cross step maybe the only way to reach the ball in the high
 speed world of pro tennis.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image29.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image29.webp)
 
 **After the turn, a diagonal cross step to the ball that lands after
 contact.**
@@ -980,7 +951,7 @@ If the ball comes directly into the contact zone you will see players
 hit with an open stance. At times they will also move around the ball to
 hit a forehand. But they use the cross step on a higher percentage of
 returns---and there must be a reason in terms of reaching and timing the
-ball. Surprising when you really look at it isn\'t it?
+ball. Surprising when you really look at it isn't it?
 
 **Forward Swing**
 
@@ -995,8 +966,7 @@ as we have seen. This means there is naturally less forward rotation to
 the contact.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image30.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image30.webp)
 
 **Less forward rotation to contact and minimal rotation afterwards.**
 
@@ -1011,7 +981,7 @@ Federer\--typically rotate the torso far less after contact, typically
 finishing with the shoulders about parallel to the net.
 
 This means the rotation on the forward swing is between 45 and 90
-degrees. That\'s about half of what you seen on most modern forehand
+degrees. That's about half of what you seen on most modern forehand
 groundstrokes.
 
 **Finishes**
@@ -1029,8 +999,7 @@ racket and hand wrapping around the shoulder or even the torso.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image31.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image31.webp)
 
 **Federer and Djokovic tend to change their preferred finishes on the
 return while Nadal stays the same.**
@@ -1043,13 +1012,13 @@ usually associated with heavier spin. Yet they both stand in on the
 returns and generate similar spin levels.
 
 Not sure I can figure out what all that means---or that I even want to
-try. But I guess one point that we\'ve made many times before can\'t
+try. But I guess one point that we've made many times before can't
 really be debated---top players combine the complex elements in the
 swing patterns in a wide variety of ways. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/what_is_true_in_tennis_forehands/).)
 
 And maybe exactly how they do all that is something that, at some point,
-you just have to feel as a player, and something that can\'t be worked
+you just have to feel as a player, and something that can't be worked
 out mathematically or abstractly by the rest of us. Unless someone out
 there has a different idea?
 
@@ -1061,10 +1030,9 @@ different.
 
 ![A person running on a tennis court Description automatically generated
 with medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image32.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image32.webp)
 
-**Especially from deep in the court, Nadal\'s forehand return expands to
+**Especially from deep in the court, Nadal's forehand return expands to
 approximate his groundstroke.**
 
 Instead of standing in and radically compacting the motion, he stands
@@ -1097,8 +1065,7 @@ different in the deuce and ad courts.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image33.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image33.webp)
 
 **The cross step affects recovery footwork differently in the deuce and
 ad courts.**
@@ -1122,7 +1089,7 @@ Djokovic, the wider landing (for Nadal in the ad) increases the
 likelihood that he will use cross steps.
 
 Those are general tendencies, but the players will at times crossover or
-shuffle in either court. If that isn\'t enough complexity for you, it\'s
+shuffle in either court. If that isn't enough complexity for you, it's
 also worth noting that when it comes to cross steps, the top players can
 take the cross step either in front of or behind the other foot.
 
@@ -1137,8 +1104,7 @@ should begin at the latest after the landing. The initial move---unless
 you are running around the ball---is usually a pivot step.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image34.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image34.webp)
 
 **Top players have tendencies, but also variations in court position,
 stances, and finishes, among other elements.**
@@ -1183,8 +1149,7 @@ to experiment with in your game! Stay tuned for more!
 **John Yandell**
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image35.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image35.webp)
 
 **What is fundamental to a compact, one-handed backhand return?**
 
@@ -1217,8 +1182,7 @@ to the two-handed variations. After that we'll also explore the slice
 return---both for players who hit with one and two hands.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image36.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image36.webp)
 
 **A milder return grip compared to the backhand groundstroke.**
 
@@ -1259,8 +1223,7 @@ the edge between bevels 1 and 2, and his heel pad is not quite as much
 on top either.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image37.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image37.webp)
 
 **The stronger groundstroke grip means contact further in front.**
 
@@ -1293,8 +1256,7 @@ same spin rates\--we saw on his forehand returns. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yandell/pro_returns/part_1_compact_classical/index.html).)
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image38.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image38.webp)
 
 **The fundamental return first move, a pivot step and a partial body
 turn, completed at around the bounce.**
@@ -1326,8 +1288,7 @@ court, they are turned 45 degrees or more to the net.
 
 ![A person running with a ball Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image39.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image39.webp)
 
 **On the groundstroke, the right leg comes forward and around on the
 turn.**
@@ -1362,8 +1323,7 @@ Federer is going to hit the return from an extreme, fully open stance.
 But that isn't what actually happens.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image40.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image40.webp)
 
 **Federer completes the turn and reaches the ball with a lunging,
 diagonal step and a rear leg kick back.**
@@ -1402,8 +1362,7 @@ upward until it is parallel to the court or even higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image41.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image41.webp)
 
 **A compact backswing, a straight hitting arm, a contact point around
 waist level.**
@@ -1438,8 +1397,7 @@ or only slightly higher. Again this is consistent with his return grip
 structure.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-return-of-serve-ohbh/media/image42.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-pro-return-of-serve-ohbh/media/image42.webp)
 
 **A compact backswing, a straight hitting arm, a contact point around
 waist level.**
@@ -1472,8 +1430,7 @@ different from the groundstrokes on the backhand return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image43.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image43.webp)
 
 **The ad court recovery with a cross step, versus a shuffle step in the
 deuce.**
@@ -1506,8 +1463,7 @@ back, or sometimes he is tighter.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image44.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image44.webp)
 
 **3 variations of the ready position and the split step footwork.**
 
@@ -1560,8 +1516,7 @@ returns and then we will analyze the slice!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-pro-return-of-serve-ohbh/media/image45.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-pro-return-of-serve-ohbh/media/image45.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

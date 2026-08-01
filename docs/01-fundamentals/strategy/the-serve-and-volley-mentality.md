@@ -6,22 +6,21 @@
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-serve-and-volley-mentality/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-mentality/media/image1.webp)
 
 **Serve and volley: committing to a mentality.**
 
 Serve and volley in its purest form is more than just a style of play.
-It is a philosophy and a way of life. It\'s a similar to the commitment
+It is a philosophy and a way of life. It's a similar to the commitment
 a pig makes to bacon.
 
 Many coaches, players and fans will say that serve and volley is dead. I
 disagree. It may be endangered at the pro level. But it still can be a
 very effective strategy for the vast majority of players if, like any
-strategy, it\'s executed properly.
+strategy, it's executed properly.
 
-I also believe that it can be successful on the tour. I\'m well versed
-in the reasons why so many \"tennis experts\" believe that\'s not true.
+I also believe that it can be successful on the tour. I'm well versed
+in the reasons why so many \"tennis experts\" believe that's not true.
 They point to the racquet and string technology, the quality of
 athletes, the new levels of spin in the baseline game, the improvements
 in the return of serve, etc.
@@ -29,7 +28,7 @@ in the return of serve, etc.
 All these are valid points. To me however, they are often used as
 excuses not to embark on a difficult path.
 
-It\'s always easier to make excuses than to make a commitment and an
+It's always easier to make excuses than to make a commitment and an
 effort. In the future I think we will see a player or players emerge
 willing to do both.
 
@@ -41,8 +40,7 @@ Baseline play can be a long series of hypnotic, sleep inducing rallies.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-mentality/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-mentality/media/image2.webp)
 
 **In serve and volley, the serve alone is not the star.**
 
@@ -50,8 +48,8 @@ Serve and volley is completely different. It requires greater mental
 dexterity. It requires the immediate ability to understand cause and
 effect. It has dramatic, sudden twists and turns.
 
-It\'s based on an aggression. The serve and volley player seeks to
-defeat his opponent by hitting immediate, decisive winners. It\'s a
+It's based on an aggression. The serve and volley player seeks to
+defeat his opponent by hitting immediate, decisive winners. It's a
 first strike mentality based on landing knock out punches, rather than
 fighting a war of attrition.
 
@@ -62,7 +60,7 @@ never played serve and volley themselves and cannot teach the real
 mentality.
 
 Players practice the serve. They practice their volleys. But there
-isn\'t an understanding of how to put them together into a style of
+isn't an understanding of how to put them together into a style of
 play.
 
 Rarely have I seen a coach sit a student down and explain the needed
@@ -78,13 +76,12 @@ players to ever play the game. Stefan Edberg, John McEnroe, Patrick
 Rafter, Laver, Martina Navratilova, even Pete Sampras.
 
 ![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-mentality/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-serve-and-volley-mentality/media/image3.webp)
 
 **The rush of a winning volley is greater the pain of being passed.**
 
 Were they the fastest servers of their eras? No. The mastery of location
-and spins was what lead to their success. It\'s true that Sampras hit a
+and spins was what lead to their success. It's true that Sampras hit a
 high percentage of unreturnable serves. But the heaviness of his ball
 and the accuracy of his placements was what set up the dominating
 volleys that were the core aspect of his attacking game.
@@ -108,14 +105,13 @@ time you have and the faster you have to move. So many players,
 especially juniors today, try to hit that serve as hard as they can,
 making coming in practically useless.
 
-It\'s tough to win points if you have to consistently hit half volleys
-in no man\'s land off screaming topspin returns. I teach my players the
+It's tough to win points if you have to consistently hit half volleys
+in no man's land off screaming topspin returns. I teach my players the
 serve is not some bionic ace machine that you need to crank up to full
 power every time.
 
 ![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-mentality/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-serve-and-volley-mentality/media/image4.webp)
 
 **The serve sets up the winning shot, the volley.**
 
@@ -129,7 +125,7 @@ point guard in basketball.]{.mark}]{.underline}**
 
 I often wonder how many players, both amateur and professional, that may
 have been even more successful at attempts to serve and volley if they
-just simply understood the style\'s dynamics. Before a ball is struck,
+just simply understood the style's dynamics. Before a ball is struck,
 what players should think, feel and understand with serve and volley can
 lay the perfect foundation for what our skills as teachers can produce
 on court.
@@ -146,13 +142,12 @@ to hit into a greater percentage of the court.]{.mark}]{.underline}**
 
 That may seem simple but how many players really understand its value?
 Players that are new to my ladies teams that have a \"baseline centric\"
-game normally dismiss my advice of net play with the answer \"I don\'t
-like it up there. It\'s just not my game\".
+game normally dismiss my advice of net play with the answer \"I don't
+like it up there. It's just not my game\".
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-mentality/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-mentality/media/image5.webp)
 
 **In doubles as well as singles, the closer to the net the sharper the
 angles.**
@@ -192,12 +187,11 @@ opposition.
 **Acceptance**
 
 **[[A challenge that all players face when they come to the net is
-dealing with getting passed. It\'s a more discouraging event than making
+dealing with getting passed. It's a more discouraging event than making
 an error in a rally.]{.mark}]{.underline}**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-serve-and-volley-mentality/media/image6.jpg){width="5.201492782152231in"
-height="2.6164435695538057in"}
+generated](media_the-serve-and-volley-mentality/media/image6.jpg)
 
 **Notice the difference in your physical presence at the net compared to
 the baseline.**
@@ -208,10 +202,10 @@ every trip to the net.
 
 For some players getting passed even once is so traumatic that they
 never venture up again. They abandon a positive mentality and tell
-themselves \"I\'d rather lose because it\'s too embarrassing when I get
+themselves \"I'd rather lose because it's too embarrassing when I get
 passed.\"
 
-It\'s so vital to teach players of all ability levels how to emotionally
+It's so vital to teach players of all ability levels how to emotionally
 handle the effects of a losing to a passing shot. As the coach, I need
 to explain to my players that one passing shot, lucky or not, by an
 opponent, no matter at what point in the match it occurred, should never
@@ -220,8 +214,7 @@ play.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-mentality/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-mentality/media/image7.webp)
 
 **The greatest serve and volleyers have been passed the most.**
 
@@ -245,7 +238,7 @@ course of the match, only to miss the same shots or similar shots at
 critical junctures.
 
 Inevitably, you will lose a number of points when you serve and volley.
-But ironically, it\'s often those very points that take a toll on the
+But ironically, it's often those very points that take a toll on the
 opponent and give the serve and volleyer the edge as the match
 continues.
 
@@ -257,8 +250,7 @@ the net, but what matters is if in the long term, you inflict more
 damage on your opponent.
 
 ![A person playing a sport Description automatically generated with low
-confidence](media_the-serve-and-volley-mentality/media/image8.jpg){width="2.7777777777777777in"
-height="3.0277777777777777in"}
+confidence](media_the-serve-and-volley-mentality/media/image8.jpg)
 
 **Go for every ball at the net and you may succeed on one that seemed
 impossible.**
@@ -274,10 +266,10 @@ After a serve miss, I like to take a one or two extra steps towards the
 net as if I was ready to pounce on that return on surprise, I hit a
 fault. I want my opponent to think that the is going to need to hit a
 good return. If I can plant a seed of doubt or anxiety in my opponent
-before the point has begun, I\'m already in the driver\'s seat.
+before the point has begun, I'm already in the driver's seat.
 
 Another key is always making the effort for the ball, even if you are
-fairly certain that it\'s winning shot for your opponent. Don\'t stand
+fairly certain that it's winning shot for your opponent. Don't stand
 there looking helpless.
 
 Stretch, lunge, dive if you are playing on grass and are under age 20.
@@ -289,10 +281,10 @@ Just getting a racquet on a ball, sends a significant message to your
 opponent that you might succeed next time. And he may end up overhitting
 the next one. This is a mental, moral and tactical victory all in one.
 
-**[[It\'s also important to recognize that the positive rush of emotions
+**[[It's also important to recognize that the positive rush of emotions
 is greater when you hit a clean volley winner than the negative feeling
 of being passed. A volley winner is decisive. It creates momentum.
-That\'s why players play this style.]{.mark}]{.underline}**
+That's why players play this style.]{.mark}]{.underline}**
 
 Remember in a close 2 set match the winner usually wins only 2 to 5 more
 points than the loser. You have to feed off the positive and let the
@@ -300,14 +292,13 @@ negatives go. This is how you sustain the serve and volley mentality.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-serve-and-volley-mentality/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-serve-and-volley-mentality/media/image9.webp)
 
 **Getting passed is an opportunity to reassess strategy.**
 
 **Stamina**
 
-**[[It\'s also important to note the role of stamina in the serve and
+**[[It's also important to note the role of stamina in the serve and
 volley game. Exploding forward is different than moving side to side.
 You need balance, controlled, efficient movement and
 rhythm.]{.mark}]{.underline}**
@@ -315,8 +306,8 @@ rhythm.]{.mark}]{.underline}**
 Some players waste energy trying repeatedly to hit huge serves and crash
 through their volleys only to hit the wall towards the end of a match.
 Suddenly their legs feel heavy. The shoulders and arms are fatigued and
-don\'t react quickly enough. Conditioning for these types of points is
-different, and in a future article we\'ll look at drills that are
+don't react quickly enough. Conditioning for these types of points is
+different, and in a future article we'll look at drills that are
 specifically suited for the serve and volley game.
 
 The proper mentality of serve and volley is the foundation to the art of
@@ -324,15 +315,14 @@ serve and volley. Coaches all over the world teach their players
 consistent and effective serves and crisp and penetrating volleys.
 
 But talented players with great serves and great hands often never
-utilize their skills because they don\'t understand the psychological
+utilize their skills because they don't understand the psychological
 approach for this beautiful style of play. The mentality is the
 foundation, and from there we can go forward to discuss the strategic
 aspects and how to incorporate serve and volley into your game.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-serve-and-volley-mentality/media/image10.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-serve-and-volley-mentality/media/image10.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

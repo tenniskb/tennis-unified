@@ -7,15 +7,14 @@ Developing The Spanish Forehand**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image1.webp)
 
 **What are the pitfalls in building the Spanish forehand?**
 
-In the previous articles in this series, we\'ve looked at the technical
+In the previous articles in this series, we've looked at the technical
 characteristics of the modern Spanish forehand. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)).
-We\'ve also looked at a range of innovative drills I have developed
+We've also looked at a range of innovative drills I have developed
 based on my study with some of the greatest coaches in Spain.
 
 These have included Spanish hand fed ball drills that are becoming
@@ -35,15 +34,14 @@ the common problems and or pitfalls that coaches and players can
 encounter in trying to build a heavy forehand weapon.
 
 ![A person playing tennis Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image2.webp)
 
-**I don\'t recommend extreme grips, especially for young players.**
+**I don't recommend extreme grips, especially for young players.**
 
 **Extreme Western Grip**
 
 When Building a Spanish style forehand, a full, under the handle western
-grip can be counterproductive. You don\'t see this grip at the pro
+grip can be counterproductive. You don't see this grip at the pro
 level. Even players such as Nadal and Novak Djokovic are using some
 version of a semi-western grip with the hand still at least partially
 behind the handle.
@@ -56,11 +54,9 @@ that the focus should be on developing whip and racket speed, utilizing
 the whole kinetic chain of the body and maximizing upper arm, forearm,
 and hand speed in developing the swing.
 
-![](media_common-pitfalls-in-spanish-forehand/media/image3.jpg){width="2.397088801399825in"
-height="1.1314260717410323in"} ![A close-up of a person\'s arm
+![](media_common-pitfalls-in-spanish-forehand/media/image3.jpg) ![A close-up of a person's arm
 Description automatically generated with low
-confidence](media_common-pitfalls-in-spanish-forehand/media/image4.jpg){width="2.38742782152231in"
-height="1.126865704286964in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image4.jpg)
 
 **The range of grips I advocate - basically from Roger to Rafa.**
 
@@ -72,10 +68,9 @@ with the extreme grip described above. Under the handle grips can
 produce amazing spin - but power is a different issue.
 
 ![A person playing tennis Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image5.webp)
 
-**Developing heavy spin alone doesn\'t lead to Spanish style power.**
+**Developing heavy spin alone doesn't lead to Spanish style power.**
 
 The modern Spanish forehand is not just about spin. It can be unleashed
 with power and penetration with minimal spin as well. It can be used
@@ -87,8 +82,7 @@ forehand should be able to produce heavy spin and also have the
 versatility to rip flatter winners on the rise.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image6.webp)
 
 **The hinge action of the arm, not the wrist is the key to spin.**
 
@@ -119,10 +113,9 @@ more advanced players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image7.webp)
 
-**You can\'t build power at the expense of fundamentals like head
+**You can't build power at the expense of fundamentals like head
 position.**
 
 **Emphasizing Power Over Fundamentals**
@@ -146,8 +139,7 @@ shot will be compromised. The same is true of the balanced landing when
 players go into the air with one or two feet.
 
 ![A person playing tennis Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image8.webp)
 
 **The racket starts back as part of the body turn.**
 
@@ -173,13 +165,12 @@ threat.
 The forehand must have vicious, scary racket speed, and generally this
 must be developed quite systematically, unless the player is a freak
 with incredible fast-twitch fibers in the arm. Neglecting to develop
-this aspect of the swing will result in a forehand that can\'t do any
+this aspect of the swing will result in a forehand that can't do any
 real damage at the high level.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image9.webp)
 
 **My goal: gorgeous swing shapes with awesome racket speed.**
 
@@ -205,8 +196,7 @@ developmental step in learning the modern Spanish forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image10.webp)
 
 **I teach kids how to explode into the air.**
 
@@ -236,21 +226,20 @@ Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_l
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image11.webp)
 
 **The player hits a kick serve, lands on balance and then finishes with
 a short forehand.**
 
 I like to introduce these tactical/technical connections as early as
-possible in a player\'s development. For example, all of my students
+possible in a player's development. For example, all of my students
 learn a big, angled kick serve. This sets up the classic kick/forehand
 Spanish combination.
 
 I do a drill where a player hits the kick, lands on balance, then moves
 forward to finish a short ball, something this serve can produce on a
 regular basis. Learning a Spanish forehand without learning a big kick
-serve simply doesn\'t sense since the player will lack a key shot to set
+serve simply doesn't sense since the player will lack a key shot to set
 up the new forehand weapon.
 
 Training Only on Fast Courts (and/or with Fast Balls)
@@ -263,18 +252,17 @@ developing tremendous whip on their shots.
 
 The clay in Spain is generally very slow and the balls get weighted down
 with clay and moisture. Thus, the players must learn by necessity to
-swing like a beast or they simply can\'t succeed.
+swing like a beast or they simply can't succeed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image12.webp)
 
 **Spanish players have the great advantage of red clay.**
 
 It is more difficult to build a Spanish style forehand without clay. I
 do it in the New York City area where we do not have a lot of clay, but
-it\'s not easy. It helps to use slower balls, such as balls that are not
+it's not easy. It helps to use slower balls, such as balls that are not
 brand new, to give players time to step back, and let the ball drop into
 their strike zone and accelerate.
 
@@ -286,7 +274,7 @@ on the fall. Learning only to take the ball early will kill the
 development of a heavy topspin ball.
 
 In previous articles I have written how important it is to develop an
-attacking on-the-rise component in every player\'s game. ([**[Click
+attacking on-the-rise component in every player's game. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/).)
 But the other half of complete development is the ability to step back
 and let the ball drop into the strike zone.
@@ -300,10 +288,9 @@ taught as separate aspects.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-pitfalls-in-spanish-forehand/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_common-pitfalls-in-spanish-forehand/media/image13.webp)
 
-**To develop racket speed and spin it\'s essential to learn to receive
+**To develop racket speed and spin it's essential to learn to receive
 the ball.**
 
 **Conclusion**
@@ -329,8 +316,7 @@ coaching world, I believe the Spanish have the best system to maximize
 these two critical components of a world-class forehand.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image14.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image14.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -347,14 +333,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_common-pitfalls-in-spanish-forehand/media/image15.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_common-pitfalls-in-spanish-forehand/media/image15.jpeg)
 
 **The Secrets of Spanish Tennis**
 

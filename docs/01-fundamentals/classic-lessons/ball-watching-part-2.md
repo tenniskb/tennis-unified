@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-watching-part-2/media/image1.jpg){width="3.64799978127734in"
-height="3.106010498687664in"}
+generated](media_ball-watching-part-2/media/image1.jpg)
 
 **Not all elite players use the same ball watching techniques as Roger
 Federer.**
@@ -15,18 +14,18 @@ There many great ball watching in tennis beside Roger Federer. There are
 also some fantastic players who have really poor ball watching.
 
 Theoretically you can play great tennis without great ball watching. But
-I believe Federer\'s ball watching is foundational to his beautiful game
+I believe Federer's ball watching is foundational to his beautiful game
 and the tennis magic we see when he takes the court.
 
 We are all familiar with his prolonged sideways head position. But what
-my research found was something additional that I don\'t believe has
+my research found was something additional that I don't believe has
 ever been studied.
 
 This is a pronounced narrowing of his eyes around contact. Furthermore,
 on a significant percentage of his shots, he goes on to actually close
 his eyes after contact.
 
-That\'s right. Narrowed and/or closed eyes. Surprised? Read on.
+That's right. Narrowed and/or closed eyes. Surprised? Read on.
 
 **The Data**
 
@@ -44,15 +43,14 @@ with a total of 1500 still photos. The results were
 unexpected---shocking even.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-watching-part-2/media/image2.jpg){width="3.920721784776903in"
-height="2.1759995625546806in"}
+generated](media_ball-watching-part-2/media/image2.jpg)
 
-**Federer\'s eyes narrow around contact of the vast majority of his
+**Federer's eyes narrow around contact of the vast majority of his
 shots.**
 
 **Surprise of the Eyes**
 
-When I began analyzing my photographs, I expected to find Federer\'s
+When I began analyzing my photographs, I expected to find Federer's
 eyes wide open and on the ball. However, quite surprisingly the pictures
 I took showed that Federer actually narrows his eyes as he approaches
 contact the vast majority of the time.
@@ -61,26 +59,23 @@ Even more surprising **[[sometimes he actually closes his eyes after
 contact]{.underline}]{.mark}**. So, I broke down what happened with his
 eyes stroke by stroke based on over 125 example sequences.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![Chart Description automatically                                                                                                                                        | ![Chart Description automatically                                                                                                                                        |
-| generated](media_ball-watching-part-2/media/image3.jpg){width="3.1755107174103236in" | generated](media_ball-watching-part-2/media/image4.jpg){width="3.1129035433070866in" |
-| height="3.1120002187226596in"}                                                                                                                                           | height="3.0879997812773405in"}                                                                                                                                           |
-|                                                                                                                                                                          |                                                                                                                                                                          |
-| **Forehand**                                                                                                                                                             | **Backhand**                                                                                                                                                             |
-+==========================================================================================================================================================================+==========================================================================================================================================================================+
-| **These charts show the percentages of eye narrowing on Roger\'s groundstrokes.**                                                                                                                                                                                                                                                                   |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![Chart Description automatically | ![Chart Description automatically |
+| --- | --- |
+| generated](media_ball-watching-part-2/media/image3.jpg) |  |
+|  |  |
+| **Forehand** | **Backhand** |
+| **These charts show the percentages of eye narrowing on Roger's groundstrokes.** |  |
+
 
 **Groundstrokes**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-watching-part-2/media/image5.jpg){width="4.76in"
-height="3.14159886264217in"}
+generated](media_ball-watching-part-2/media/image5.jpg)
 
 **After contact Federer closes his eyes on a significant percentage of
 his groundstrokes.**
 
-On his groundstrokes Federer\'s eyes did remained wide open 17% of the
+On his groundstrokes Federer's eyes did remained wide open 17% of the
 time. But on 82% of all groundstrokes he distinctly narrowed his eyes.
 
 And on a significant percentage of groundstrokes he went on to close his
@@ -100,8 +95,7 @@ The reduced backswing means slower racket head speeds. Also the entire
 shot happens in front of the player.
 
 ![A person playing tennis Description automatically
-generated](media_ball-watching-part-2/media/image6.jpg){width="3.4879997812773404in"
-height="3.4879997812773404in"}
+generated](media_ball-watching-part-2/media/image6.jpg)
 
 **On forehand volley Federer kept his eyes wide open on the majority of
 balls---91% of the time.**
@@ -120,32 +114,30 @@ difficult and less reliable shot.
 
 But whatever the reasons, my data showed the eye results are quite
 different on the forehand volley. Federer narrowed his eyes only 9% of
-the time and I didn\'t record one example of them going on to close. 91%
+the time and I didn't record one example of them going on to close. 91%
 of the time they were wide open.
 
 One possible mitigating factor was the small number of forehand volleys
-I recorded compared to the other shots. But it\'s unlikely that even
+I recorded compared to the other shots. But it's unlikely that even
 with more examples the results on the forehand volley would approach the
 backhand volley or the groundstrokes.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![Chart Description automatically                                                                                                                                       | ![Chart Description automatically                                                                                                                                       |
-| generated](media_ball-watching-part-2/media/image7.jpg){width="2.871363735783027in" | generated](media_ball-watching-part-2/media/image8.jpg){width="2.929825021872266in" |
-| height="2.676111111111111in"}                                                                                                                                           | height="2.6720002187226597in"}                                                                                                                                          |
-|                                                                                                                                                                         |                                                                                                                                                                         |
-| **Backhand Volley**                                                                                                                                                     | Forehand Volley                                                                                                                                                         |
-+=========================================================================================================================================================================+=========================================================================================================================================================================+
-| **The differences in the eyes on the backhand and forehand volley.**                                                                                                                                                                                                                                                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![Chart Description automatically | ![Chart Description automatically |
+| --- | --- |
+| generated](media_ball-watching-part-2/media/image7.jpg) |  |
+|  |  |
+| **Backhand Volley** | Forehand Volley |
+| **The differences in the eyes on the backhand and forehand volley.** |  |
+
 
 One commonality between the volleys and the groundstrokes however was
 that, regardless of the eyes, Federer turned his head sideways and kept
 it there until after contact, not turning to immediately follow the
 ball.
 
-So what does all this mean? We\'ve seen the limitations in human vision
+So what does all this mean? We've seen the limitations in human vision
 in Part 1. [Click Here](Ball%20Watching%20-%20Part%201%20.docx). Now we
-know that Federer\'s use of his eyes has the completely unexpected
+know that Federer's use of his eyes has the completely unexpected
 qualities of narrowing and even closing.
 
 How can we craft this information into a step-by-step technique to
@@ -153,8 +145,7 @@ develop Federer style ball watching? Stay tuned.
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_ball-watching-part-2/media/image9.jpeg){width="1.8243055555555556in"
-height="2.1118055555555557in"}
+confidence](media_ball-watching-part-2/media/image9.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -165,7 +156,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

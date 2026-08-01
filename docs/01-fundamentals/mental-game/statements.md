@@ -6,10 +6,9 @@
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_statements/media/image1.jpg){width="5.791666666666667in"
-height="3.8194444444444446in"}
+confidence](media_statements/media/image1.jpg)
 
-Nadal\'s ferocious commitment has often unsettled Federer.
+Nadal's ferocious commitment has often unsettled Federer.
 
 The fact that we are human means that even the best competitors can be
 rocked by a true statement of intent. If this was a fallacy, there would
@@ -20,7 +19,7 @@ yet are able to beat them. Rafael Nadal has a winning record against
 Roger Federer, who is arguably equal to or better than Nadal in many
 areas of the game.
 
-It is Nadal\'s level of intention which caused Federer problems. Nadal
+It is Nadal's level of intention which caused Federer problems. Nadal
 plays with a ferocious commitment to win that unsettles most opponents.
 
 Understanding the importance of statements is critical in developing the
@@ -33,15 +32,14 @@ confidence.
 
 Messages can be sent in many ways. Shot making is one. Hitting a a big
 shot for a winner. Hitting a big serve or an ace on a big point.
-Counterattacking off your opponent\'s best shot.
+Counterattacking off your opponent's best shot.
 
 Other ways include, dictating the pace of the match between points and
 on the changeovers. Showing energy by jogging from your chair.
 
 ![A group of airplanes flying in the sky Description automatically
 generated with medium
-confidence](media_statements/media/image2.jpg){width="4.166666666666667in"
-height="2.5in"}
+confidence](media_statements/media/image2.jpg)
 
 **Counter attacking under bombardment changed the World War II air war
 between Germany and Britain.**
@@ -89,10 +87,9 @@ the mental game is often what separates levels.
 
 ![A collage of a person playing tennis Description automatically
 generated with medium
-confidence](media_statements/media/image3.jpg){width="6.078734689413824in"
-height="2.321738845144357in"}
+confidence](media_statements/media/image3.jpg)
 
-**Serena\'s clear statement of intent \"Hold, Kill, Smile.\"**
+**Serena's clear statement of intent \"Hold, Kill, Smile.\"**
 
 But few can tell you when if ever they practiced it, for example, by
 visualizing the myriad of competitive situations they will inevitably
@@ -104,45 +101,43 @@ will make. Here for example is a statement of intent from Serena
 Williams: \"Hold serve. Focus. Be confident. Move up. Attack. Kill.
 Smile.\"
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+
-| ![A picture containing person, person, indoor, posing Description automatically                                                                             | David Sammel is a registered ATP tour coach    |
-| generated](media_statements/media/image4.jpeg){width="1.5652777777777778in" | and a consultant across the spectrum of        |
-| height="2.4in"}                                                                                                                                             | professional sport. He has spent 25 years      |
-|                                                                                                                                                             | coaching international players, has been a     |
-|                                                                                                                                                             | national coach for the Lawn Tennis             |
-|                                                                                                                                                             | Association, and was named one of the world\'s |
-|                                                                                                                                                             | top 50 coaches by Nike. He is the head coach   |
-|                                                                                                                                                             | of Team Bath-Monte Carlo Tennis Academy        |
-|                                                                                                                                                             | located at the University of Bath, Bath        |
-|                                                                                                                                                             | England. He is a regular contributor in        |
-|                                                                                                                                                             | British media and tennis commentary and an     |
-|                                                                                                                                                             | editor for Tennishead Magazine.                |
-|                                                                                                                                                             |                                                |
-|                                                                                                                                                             | [Click Here](http://www.teambathmcta.com/) for |
-|                                                                                                                                                             | More Information on the Academy                |
-+=============================================================================================================================================================+================================================+
+| ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
+| --- | --- |
+| generated](media_statements/media/image4.jpeg) | professional sport. He has spent 25 years |
+|  | coaching international players, has been a |
+|  | national coach for the Lawn Tennis |
+|  | Association, and was named one of the world's |
+|  | top 50 coaches by Nike. He is the head coach |
+|  | of Team Bath-Monte Carlo Tennis Academy |
+|  | located at the University of Bath, Bath |
+|  | England. He is a regular contributor in |
+|  | British media and tennis commentary and an |
+|  | editor for Tennishead Magazine. |
+|  |  |
+|  | [Click Here](http://www.teambathmcta.com/) for |
+|  | More Information on the Academy |
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person holding a microphone Description automatically generated with medium                                                                              | When you think about the most successful         |
-| confidence](media_statements/media/image5.jpeg){width="1.5652777777777778in" | athletes and people of all time, almost every    |
-| height="2.5131944444444443in"}                                                                                                                               | one of them has a certain aura and invincibility |
-|                                                                                                                                                              | in the way they present themselves in sport and  |
-|                                                                                                                                                              | to the world. Sometimes mistaken for arrogance,  |
-|                                                                                                                                                              | this self-belief is essential in succeeding in   |
-|                                                                                                                                                              | professional sport and in life in general too.   |
-|                                                                                                                                                              |                                                  |
-|                                                                                                                                                              | The best believe they\'re the best and they make |
-|                                                                                                                                                              | their opponents believe they\'re the best too.   |
-|                                                                                                                                                              | Locker Room Power: Building an Athlete\'s Mind,  |
-|                                                                                                                                                              | describes and examines David\'s coaching         |
-|                                                                                                                                                              | philosophy, which is drawn from his relentless   |
-|                                                                                                                                                              | drive to help people improve at their game,      |
-|                                                                                                                                                              | utilizing his vast experience, knowledge and     |
-|                                                                                                                                                              | understanding of the mental aptitude required to |
-|                                                                                                                                                              | succeed as a professional sportsperson.          |
-|                                                                                                                                                              |                                                  |
-|                                                                                                                                                              | [Click Here to                                   |
-|                                                                                                                                                              | Order!](http://www.lockerroompower.com/buy-now/) |
-+==============================================================================================================================================================+==================================================+
+
+| ![A person holding a microphone Description automatically generated with medium | When you think about the most successful |
+| --- | --- |
+| confidence](media_statements/media/image5.jpeg) | one of them has a certain aura and invincibility |
+|  | in the way they present themselves in sport and |
+|  | to the world. Sometimes mistaken for arrogance, |
+|  | this self-belief is essential in succeeding in |
+|  | professional sport and in life in general too. |
+|  |  |
+|  | The best believe they're the best and they make |
+|  | their opponents believe they're the best too. |
+|  | Locker Room Power: Building an Athlete's Mind, |
+|  | describes and examines David's coaching |
+|  | philosophy, which is drawn from his relentless |
+|  | drive to help people improve at their game, |
+|  | utilizing his vast experience, knowledge and |
+|  | understanding of the mental aptitude required to |
+|  | succeed as a professional sportsperson. |
+|  |  |
+|  | [Click Here to |
+|  | Order!](http://www.lockerroompower.com/buy-now/) |
+
 
 ------------------------------------------------------------------------

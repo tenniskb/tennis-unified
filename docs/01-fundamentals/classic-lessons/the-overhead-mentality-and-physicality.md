@@ -21,8 +21,7 @@ many players at the club level is that \"modern\" groundstrokes are the
 only** **thing that matters.**
 
 ![A person playing tennis Description automatically
-generated](media_the-overhead-mentality-and-physicality/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead-mentality-and-physicality/media/image1.webp)
 
 **Developing a deadly overhead is more important than ever---at all
 levels.**
@@ -31,18 +30,17 @@ levels.**
 test for an attacking player.]{.underline}]{.mark}** I believe in
 integrating serve and volley at all levels. ([Click
 Here](https://www.tennisplayer.net/members/strategy/kyle_lacroix/serve_and_volley_summary/)
-for the summary article Kyle\'s series.) A great overhead is integral in
+for the summary article Kyle's series.) A great overhead is integral in
 mastering this attacking game.
 
 But attack can be blunted by the lob if players cannot take the
 opportunity to finish. A great overhead sends the highly discouraging
-message to your opponent that he can\'t win points by hitting the ball
+message to your opponent that he can't win points by hitting the ball
 up in the air.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead-mentality-and-physicality/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image2.webp)
 
 **When the ball goes up, believe the point is over.**
 
@@ -70,8 +68,7 @@ opponents watching and taking note.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead-mentality-and-physicality/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image3.webp)
 
 **The pro overhead: relaxed and explosive.**
 
@@ -102,13 +99,12 @@ recognizing that the prerequisite is good positioning.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead-mentality-and-physicality/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image4.webp)
 
 **Do you necessarily need an explosive scissor kick overhead to hit the
 right shot?**
 
-Watching great players, you\'ll see **[[an immediate reaction to the
+Watching great players, you'll see **[[an immediate reaction to the
 ball and the start of a unitary turn with the body and
 feet,]{.underline}]{.mark}** **[[followed by shuffle or cross-over
 steps]{.underline}]{.mark}**. Most lower level players have an
@@ -129,7 +125,7 @@ with all my students.]{.mark}]{.underline}**
 We also know from the great article by Jeremiah Walsh ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
 that you want to hit the overhead in front of your head not over your
-head\--despite the shot\'s name.
+head\--despite the shot's name.
 
 Jeremiah also makes a really important point that for most club players
 a defensive overhead is a necessity. For many players a high ball that
@@ -137,20 +133,19 @@ gets past them usually ends with the loss of a point.
 
 ![A picture containing tennis, person, racket, court Description
 automatically
-generated](media_the-overhead-mentality-and-physicality/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-overhead-mentality-and-physicality/media/image5.webp)
 
 **Catching the ball with the opposite arm is a great drill to learn
 positioning.**
 
 To deal with these balls, you must be comfortable going up in the air
-and off the back foot. But that doesn\'t mean hitting an explosive
-100mph scissor kick winner if you don\'t have the athleticism or the
+and off the back foot. But that doesn't mean hitting an explosive
+100mph scissor kick winner if you don't have the athleticism or the
 confidence.
 
 **[[So you need to recognize that your overhead needs to have both
 offensive and defensive aspects, relative to your
-ability.]{.underline}]{.mark}** This doesn\'t undermine my point about
+ability.]{.underline}]{.mark}** This doesn't undermine my point about
 total belief by the way.
 
 In fact the opposite. Understanding the distinction should give you more
@@ -172,14 +167,13 @@ oncoming ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead-mentality-and-physicality/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image6.webp)
 
-**The full racquet drop isn\'t necessary on many or even all
+**The full racquet drop isn't necessary on many or even all
 overheads.**
 
 Shots that are lower and dropping faster may rush you so your racquet
-drop can\'t reach its ideal and deepest point. As someone who often hits
+drop can't reach its ideal and deepest point. As someone who often hits
 difficult overheads for winners, I can attest that a shortened drop can
 be very effective.
 
@@ -202,44 +196,42 @@ front foot.
 
 On a high deep lob, you lose position inside the court and chance to hit
 a great angle. Some players can hit overhead winners from anywhere. But
-if you don\'t have that confidence hit the shot with mindset of an
+if you don't have that confidence hit the shot with mindset of an
 aggressive groundstroke.
 
 **The Follow Up**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead-mentality-and-physicality/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image7.webp)
 
 **Bouncing the ball is sound strategy on super high balls or in windy
 conditions---but position and step in.**
 
 **[[No matter how good your overhead, never take it for granted that it
-can\'t come back.]{.underline}]{.mark}** And realize that if it does
+can't come back.]{.underline}]{.mark}** And realize that if it does
 come back, it will happen fast. A winning return off your overhead can
-be a huge momentum shift and a blow to your confidence. Don\'t let that
+be a huge momentum shift and a blow to your confidence. Don't let that
 happen.
 
 After the hit, follow your opponent in whatever direction he is moving
 along the baseline. In my own matches I follow them all the way to the
 sideline, or to the next court, or to the end of the earth if that seems
-necessary. It\'s not gamesmanship---it\'s sending the message you are
+necessary. It's not gamesmanship---it's sending the message you are
 ready for any next ball.
 
 Which brings us full cycle to the first point in the article. Your
 belief about your overhead.
 
-If you don\'t have it, that\'s perfectly ok, but don\'t try to kid
-yourself if you don\'t. Start where you are and use the amazing
+If you don't have it, that's perfectly ok, but don't try to kid
+yourself if you don't. Start where you are and use the amazing
 informational resources of Tennisplayer to develop the technique and
 above all the confidence that makes you eager and happy when the ball
 goes up in the air.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-overhead-mentality-and-physicality/media/image8.jpeg){width="2.079861111111111in"
-height="1.9041666666666666in"}
+confidence](media_the-overhead-mentality-and-physicality/media/image8.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

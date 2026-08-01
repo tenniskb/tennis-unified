@@ -5,38 +5,36 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image1.webp)
 
-**Is the power men\'s game the right model ?**
+**Is the power men's game the right model ?**
 
 Although there are many theories about playing style, when we observe
 high level tennis closely, how does theory compare with the reality of
 match play? And how can reality help the average player, who is striving
-to learn something from the pros? Let\'s look at some new distinctions
+to learn something from the pros? Let's look at some new distinctions
 about playing styles and see how they apply to the game at all levels.
 
-In men\'s tennis, variety of game seems to be on the increase with
+In men's tennis, variety of game seems to be on the increase with
 players such as Novak Djokovic and Jo-Wilfried Tsonga joining the
 incomparable Roger Federer in the ability to hit any shot from anywhere
 on the court. But this variety remains largely situational\--it happens
 in some points in some matches.
 
-Men\'s tennis remains mainly a power game based on huge serves and huge
+Men's tennis remains mainly a power game based on huge serves and huge
 forehands. Unfortunately, these are the highlight shots too many club
-players find mesmerizing. Women\'s tennis, however, offers a different
-and more flexible paradigm. Studying the women\'s game should inspire
+players find mesmerizing. Women's tennis, however, offers a different
+and more flexible paradigm. Studying the women's game should inspire
 the average player and provide a realistic path to winning more matches.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_playing-styles-revisited/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_playing-styles-revisited/media/image2.webp)
 
-**Is women\'s tennis a better paradigm for improving?**
+**Is women's tennis a better paradigm for improving?**
 
 Recently I had the privilege of traveling in Australia and observing the
-women\'s pro tour firsthand, coaching a player competing in a series of
+women's pro tour firsthand, coaching a player competing in a series of
 \$25,000 tournaments. This gave me the opportunity to watch dozens of
 matches involving players from all over the world, players with every
 combination of style, strengths, and weaknesses you could possibly
@@ -62,8 +60,7 @@ But both those styles are virtually non-existent on the current tour.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_playing-styles-revisited/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_playing-styles-revisited/media/image3.webp)
 
 **One dimensional styles are disappearing in the pro game.**
 
@@ -92,14 +89,13 @@ lose badly.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_playing-styles-revisited/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_playing-styles-revisited/media/image4.webp)
 
 **The are many elements that can be integrated in a baseline style.**
 
 **American versus European**
 
-To help us create a more accurate understanding of playing style, let\'s
+To help us create a more accurate understanding of playing style, let's
 introduce 2 distinctions. These are distinctions actually used by tour
 coaches and by the players themselves. They fit better with the
 realities of how the top women are playing the game today. They also
@@ -109,15 +105,14 @@ matches.
 
 **The American Versus Clay Court Style**
 
-On the women\'s tour, the rest of the world talks about the \"American
+On the women's tour, the rest of the world talks about the \"American
 Style.\" Players who utilize this style drive the ball hard and
 relatively flat through the back of the court. They try to take the ball
 early whenever possible and look to dictate play. This game works best
 on moderate or fast hardcourts.
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image5.webp)
 
 **American Style: hard, flat hitting through the baseline.**
 
@@ -139,15 +134,14 @@ through the baseline.
 
 In the past, many of these players just ran balls down and got them
 back, neutralizing opponents as much as possible, and trying to win
-every point by T.K.O. But in today\'s game, the sideline angles are also
+every point by T.K.O. But in today's game, the sideline angles are also
 used as both as building blocks and finishing shots. This is true on
 hardcourts as well as clay. In fact, we could also call this the short
 angle style.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_playing-styles-revisited/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_playing-styles-revisited/media/image6.webp)
 
 **Clay Court Style players attack with angles.**
 
@@ -161,7 +155,7 @@ same thing with her heavily spun lefty forehand.
 Monica Seles was one of the first and most successful short angle
 players to hitting a lot of balls through the sidelines on both sides
 with her two-handed style. Interestingly the short angle was also a
-building block of Andre Agassi\'s game.
+building block of Andre Agassi's game.
 
 A few women of these clay courters also play defense by trying to hit
 balls above or below the power zone of their opponent. Because more and
@@ -174,27 +168,26 @@ Petrova. This is an even more effective tactic at the club level.
 
 The other basic distinction is between Forehand Players and Backhand
 Players. \"Forehand Players\" utilize inside forehands to open up the
-court and try to hit as many forehands as possible. Steffi Graf\'s
-coach, Heinz Gunthardt, said that Steffi\'s goal was to hit 70% of her
+court and try to hit as many forehands as possible. Steffi Graf's
+coach, Heinz Gunthardt, said that Steffi's goal was to hit 70% of her
 shots with her forehand. They both felt that if she was able to do this,
 she would beat anyone.
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image7.webp)
 
 **Forehand Players get around the ball to play inside.**
 
-You still see a lot of this on the women\'s tour. Eleni Daniilidou,
+You still see a lot of this on the women's tour. Eleni Daniilidou,
 another one hander, is a modern forehand player. Ana Ivanovic is also a
 player who is always looking for opportunities to step around the ball
 and attack.
 
-Forehand Players dominate on the men\'s side. But for many women it\'s
+Forehand Players dominate on the men's side. But for many women it's
 the opposite. Rather than running around to play inside forehands, many
 women take as many balls as possible on their backhands because it is
 their stronger side. These are \"Backhand Players.\" The inside out
-backhand is hit almost exclusively on the women\'s side.
+backhand is hit almost exclusively on the women's side.
 
 Players like Jelena Jankovic (who is thought of as not having a lot of
 firepower) utilize big down the line backhands, and one could argue that
@@ -209,13 +202,12 @@ backhands than forehands.
 **Greater Combinations**
 
 These two distinctions help us look at the game in a different way. But
-they are only part of the story. The reality is that in today\'s game
+they are only part of the story. The reality is that in today's game
 most every player is some type of baseliner, but there are other factors
 to consider in categorizing a player's game:
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image8.webp)
 
 **Backhand Players attack down the line.**
 
@@ -241,8 +233,7 @@ height="2.5in"}
     old categories less applicable.
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image9.webp)
 
 **Can you hit an aggressive drop shot?**
 
@@ -257,8 +248,8 @@ The players of the next generation will not succeed merely as strike
 zone players who pound balls through the back of the court. Nor will
 they succeed by running everything down and spinning the ball deep.
 Women will continue to hit flatter than men, and as hard flat balls are
-easier to volley, you may see more volleys in the women\'s game than the
-men\'s.
+easier to volley, you may see more volleys in the women's game than the
+men's.
 
 I believe that most of the top woman players of the future will play an
 opportunistic type of attacking game. They will move extremely well both
@@ -268,8 +259,7 @@ in all areas of the court and with slicing, swing volleying and
 volleying. They will have confident and effective drop shots.
 
 ![A person holding a tennis racket Description automatically
-generated](media_playing-styles-revisited/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image10.webp)
 
 **Women who serve well have a huge advantage?**
 
@@ -302,8 +292,7 @@ wonderfully complete player. Ana Ivanovic and Justine Henin play very
 different styles, but each has a game that still seems to be evolving.
 
 ![A person playing tennis Description automatically
-generated](media_playing-styles-revisited/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_playing-styles-revisited/media/image11.webp)
 
 **Variety is the key to the evolution of the game.**
 
@@ -335,7 +324,7 @@ service box? If so, it is usually deadly at the club level. This is
 because almost all club players are slow recognizing short balls and do
 not move forward nearly as well as they move laterally.
 
-Most club players don\'t ask themselves these basic questions. Even if
+Most club players don't ask themselves these basic questions. Even if
 you do not have huge weapons, if you have variety, you will probably be
 able to create opportunities for yourself and pressure most opponents.
 As with the pros, not all opponents can be attacked in the same way.
@@ -347,8 +336,7 @@ well, it can be huge advantage.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                             Dave Hagler is a Tennis Professional based
-  generated](media_playing-styles-revisited/media/image12.jpeg){width="2.082638888888889in"   in Los Angeles, California. He works with
-  height="2.09375in"}                                                                                                                                                      players of all ages, but he has a special
+  generated](media_playing-styles-revisited/media/image12.jpeg)                                                                                                                                                      players of all ages, but he has a special
                                                                                                                                                                            passion for junior development. He has
                                                                                                                                                                            coached numerous sectionally and nationally
                                                                                                                                                                            ranked junior players and several national
@@ -356,7 +344,7 @@ well, it can be huge advantage.
                                                                                                                                                                            Professional and National Tester, a PTR
                                                                                                                                                                            Master of Tennis -- Performance, and was
                                                                                                                                                                            one of the first 100 coaches to complete
-                                                                                                                                                                           the USTA\'s High Performance Coaching
+                                                                                                                                                                           the USTA's High Performance Coaching
                                                                                                                                                                            Program. He has been the USPTA California
                                                                                                                                                                            Division Pro of the Year and one of 5
                                                                                                                                                                            National Recipients of the "Pro of the

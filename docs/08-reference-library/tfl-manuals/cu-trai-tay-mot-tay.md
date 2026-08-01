@@ -1014,7 +1014,7 @@ Tùy vào tư thế đứng, có những điều chỉnh nhỏ tại điểm ch�
                   trước, dễ dàng chạm trước    bóng ở cạnh sườn
                             người            
 
-     Semi-Open    Hông hơi mở, phải \'khóa\' Đảm bảo hông không mở
+     Semi-Open    Hông hơi mở, phải 'khóa' Đảm bảo hông không mở
       Stance        hông để không mất lực       hoàn toàn trước
                                                     contact
 

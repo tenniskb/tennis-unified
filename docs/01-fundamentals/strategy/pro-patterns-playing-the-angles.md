@@ -156,8 +156,7 @@ more predictable, as is your opportunity to exploit them in order to
 succeed in competitive match play.
 
 ![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-playing-the-angles/media/image1.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_pro-patterns-playing-the-angles/media/image1.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

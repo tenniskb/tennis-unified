@@ -7,8 +7,7 @@ The First 3 Principles**
 
 ![A person in an orange shirt Description automatically generated with
 low
-confidence](media_return-of-serve-the-first-3-principles/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-the-first-3-principles/media/image1.webp)
 
 **40% of your effectiveness comes from return of serve.**
 
@@ -27,12 +26,12 @@ For example, take the common \"serve plus one\" pattern where the server
 hits a strong serve which is weakly returned and the server steps in and
 hits a forehand winner. The match statistics show that the forehand won
 the point but, in reality, the serve played a pivotal role in the
-point\'s outcome.
+point's outcome.
 
 Similarly, if the returner effectively neutralizes a good serve, or even
 better gains an offensive position with the return, and then
 subsequently wins the point, the effective return played a significant
-role in the point\'s outcome.
+role in the point's outcome.
 
 Assuming the 80% figure is anywhere close to correct, logic dictates
 that you should devote a very large part of your practice time to
@@ -45,8 +44,7 @@ critical technical, strategic and mental aspects of the return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-the-first-3-principles/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-the-first-3-principles/media/image2.webp)
 
 **What are the first 3 basic principles on the return?**
 
@@ -70,7 +68,7 @@ should learn the game in that order.
 
 Introducing power prematurely in the development process often leads to
 players having incomplete games. Furthermore, when returning a big
-serve, you don\'t even want to introduce the element of power.
+serve, you don't even want to introduce the element of power.
 
 The serve already supplies the power. Your goal is to stabilize the
 situation to enable you to hit an effective return. The objective is to
@@ -85,8 +83,7 @@ other stroke, such as good preparation and balance. But the single most
 important factor is the exact position of the racket head at the moment
 of impact in relation to the path of the incoming ball.
 
-![](media_return-of-serve-the-first-3-principles/media/image3.jpg){width="3.7604166666666665in"
-height="3.0625in"}
+![](media_return-of-serve-the-first-3-principles/media/image3.jpg)
 
 **As demonstrated by Roger Federer, pros are masters at placing their
 racket in the correct position at the point of contact even with both
@@ -110,7 +107,7 @@ the point of contact.
 
 In a subsequent article in this series, I will explain in detail the
 relation of the position of the racket head to your primary target---the
-point over the net and secondary target\--spot on your opponent\'s
+point over the net and secondary target\--spot on your opponent's
 court.
 
 **Watching the Ball Properly**
@@ -123,7 +120,7 @@ If the answer is no, the first follow-up question is \"Did I properly
 watch the ball? Watching the ball is the second principle.
 
 To successfully watch the ball in the context of the return of serve,
-focus on the moment your opponent\'s racket makes contact with the
+focus on the moment your opponent's racket makes contact with the
 serve. This combined with a good split step enables you to properly
 react to the serve.
 
@@ -136,13 +133,10 @@ critical element in ensuring solid contact. Three of the greatest
 players in tennis history, Federer, Bjorn Borg and Chris Evert, were/are
 masters at watching the ball and keeping their head still at contact.
 
-![](media_return-of-serve-the-first-3-principles/media/image4.jpg){width="1.90625in"
-height="2.8958333333333335in"} 
-![](media_return-of-serve-the-first-3-principles/media/image5.jpg){width="2.0625in"
-height="2.8854166666666665in"} ![A couple of people play tennis
+![](media_return-of-serve-the-first-3-principles/media/image4.jpg) 
+![](media_return-of-serve-the-first-3-principles/media/image5.jpg) ![A couple of people play tennis
 Description automatically generated with medium
-confidence](media_return-of-serve-the-first-3-principles/media/image6.jpg){width="1.8333333333333333in"
-height="2.8958333333333335in"} 
+confidence](media_return-of-serve-the-first-3-principles/media/image6.jpg) 
 
 **Roger Federer demonstrates the three key times to focus on the ball:
 (1) when the server makes contact, (2) the moment the ball bounces in
@@ -171,12 +165,11 @@ factors as how soon the server's shoulders open up into the hit.
 Stay Tuned for the other critical principles!
 
 ![A person in a suit Description automatically generated with low
-confidence](media_return-of-serve-the-first-3-principles/media/image7.jpeg){width="1.8263888888888888in"
-height="1.8263888888888888in"}
+confidence](media_return-of-serve-the-first-3-principles/media/image7.jpeg)
 
 Bill Tym, a USPTA Master Professional and past USPTA national president,
 has been involved in tennis as a coach, player and administrator for
-half a century. He coached the Vanderbilt University men\'s tennis team
+half a century. He coached the Vanderbilt University men's tennis team
 to its first NCAA tournament. As a player, Tym was a Southeastern
 Conference singles champion at the University of Florida. He also
 competed on the international tour and won 10 national and international

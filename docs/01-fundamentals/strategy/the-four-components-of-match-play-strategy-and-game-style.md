@@ -7,8 +7,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image1.webp)
 
 **Would you confuse a swinging volley with a service return?**
 
@@ -24,7 +23,7 @@ conferences.
 
 Of course, there are differences in terminology everywhere. For example,
 what the British call \"trading\" other coaches call \"rallying\". But
-most of these differences don\'t create fundamental misunderstandings.
+most of these differences don't create fundamental misunderstandings.
 
 However, these misunderstandings do emerge when we start to use terms
 like \"strategy\" or \"game style\" or \"tactics.\" This is because
@@ -37,41 +36,39 @@ clarity regarding these terminology issues, by identifying and defining
 four components in match play. These four components are: strategy, game
 style, tactics, and patterns.
 
-+----------------------+
-| **[Four Components   |
-| of Match             |
+| **[Four Components |
+| --- |
+| of Match |
 | Play:]{.underline}** |
-+======================+
-| 1.  **Strategy**     |
-|                      |
-| 2.  **Gamestyle**    |
-|                      |
-| 3.  **Tactics**      |
-|                      |
-| 4.  **Patterns**     |
-+----------------------+
+| 1.  **Strategy** |
+|  |
+| 2.  **Gamestyle** |
+|  |
+| 3.  **Tactics** |
+|  |
+| 4.  **Patterns** |
+
 
 I am certainly not on a mission to force everyone to adopt my
 terminology or explanations. But what I do want to do is elucidate what
 these four common terms mean to me and suggest how this framework can
 help us understand and improve how the game is played at all levels.
 
-In this first article I\'ll outline my definitions of the first two
-components: Strategy and Game Style. Then in the second article, I\'ll
+In this first article I'll outline my definitions of the first two
+components: Strategy and Game Style. Then in the second article, I'll
 move on to Tactics and Patterns.
 
-Once we define these terms, in subsequent articles we\'ll move on to the
+Once we define these terms, in subsequent articles we'll move on to the
 really exciting stuff - analyzing how these four components are used by
 the top players like Roger Federer and Rafael Nadal in actual match
 play, using the incredible footage in the Tennisplayer Patterns Archive.
 
-We\'ll see how these players build their points. We\'ll see what we can
+We'll see how these players build their points. We'll see what we can
 learn from them, and how it applies to players at all levels.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person wearing a hat and sunglasses Description automatically generated with low
-   confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image2.jpg){width="3.6805555555555554in"
-                                                                                       height="3.5277777777777777in"}
+   confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image2.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             **A coach like Brad Gilbert is so valuable due to his ability to assess opponents**.
 
@@ -92,7 +89,7 @@ tennis?]{.mark}]{.underline}**
 
 **[[The first is the opponent.]{.underline}]{.mark}** Cleary this is
 critical and why a coach like Brad Gilbert is famous for his ability to
-assess opponents. Understanding how best to get at your opponents\'
+assess opponents. Understanding how best to get at your opponents'
 weaknesses and avoid their strengths will increase the chance that they
 will not play as well, and help you impose your game on theirs.
 
@@ -102,8 +99,7 @@ players\--environmental factors such as court surface, weather,
 altitude, and type of ball play a major role in determining strategy.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image3.webp)
 
 **Does your second serve go through shaky periods?**
 
@@ -128,29 +124,28 @@ at the end of a long week at work and feeling physically spent?
 
 Is your confidence riding high or do you have a gut feeling every time
 you take a risk you are going to miss? Has your second serve been shaky
-under pressure? It\'s important to take account of your physical and
+under pressure? It's important to take account of your physical and
 mental strength at the moment when you create a strategy for a given
 match.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image4.webp)
 
-**There\'s a reason to play high balls to Roger\'s backhand.**
+**There's a reason to play high balls to Roger's backhand.**
 
 These are some of the important qualifying factors in any strategy, but
-now let\'s look at some of the actual strategies themselves.
+now let's look at some of the actual strategies themselves.
 
 **Exploit the Weakness**
 
 **[[The first strategy is learning to exploit
-weakness.]{.underline}]{.mark}** Pro players know each other\'s
+weakness.]{.underline}]{.mark}** Pro players know each other's
 strengths and weaknesses intimately. There is a reason Rafael Nadal
-plays so many balls high to Federer\'s backhand.
+plays so many balls high to Federer's backhand.
 
 But sometimes at the club level, players never think to evaluate the
 weaknesses in their opponents, even someone they may play on a regular
-basis for years. So, if you haven\'t done this before, ask the basic
+basis for years. So, if you haven't done this before, ask the basic
 strategic question. Does your opponent have a weaker side off the
 ground?
 
@@ -170,8 +165,7 @@ consistently and hit accurately down the line.
 
 ![A picture containing athletic game, sport, tennis Description
 automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image5.webp)
 
 **Agassi: controlling space and making the opponent cover.**
 
@@ -185,14 +179,13 @@ Vegas\" as he used to describe it.
 **Time Pressure**
 
 **[[Taking time from your opponent is a third fundamental
-strategy]{.underline}]{.mark}**. This affects an opponent\'s rhythm and
+strategy]{.underline}]{.mark}**. This affects an opponent's rhythm and
 shot production, and also creates anxiety when he is unable to play his
 game or execute his own strategy.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image6.webp)
 
 **Taking the ball early creates time pressure.**
 
@@ -207,8 +200,7 @@ or an intermittent basis.
 
 ![A picture containing sport, athletic game, tennis, player Description
 automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image7.webp)
 
 **Changing rhythms and mixing in drop shots - another strategy option.**
 
@@ -242,12 +234,12 @@ strategies.
 **Does your Game Style include all court capability?**
 
 **[[A strategy, obviously, can only succeed if the player has the
-ability to implement it. It doesn\'t help to formulate a winning
+ability to implement it. It doesn't help to formulate a winning
 strategy if a player cannot actually use it in match play. This is why
 strategy must be based on game style
 capabilities.]{.mark}]{.underline}**
 
-So, let\'s look at a few of the common game styles in both the pro and
+So, let's look at a few of the common game styles in both the pro and
 club games. This list is not meant to be exhaustive but just to give an
 idea of the concept and sketch the elements of a few of the more common
 styles.
@@ -261,14 +253,13 @@ dominant in any one particular phase or with any particular shot, but he
 is flexible in where he plays on the court and how.
 
 In the pro game, they are rarer and rarer. But Andy Murray is a great
-example of how successful this style can be. Roger Federer\'s game as we
+example of how successful this style can be. Roger Federer's game as we
 will discuss, transcends any one game style description, but he is
 another obvious example of how all court style can work at the highest
 levels of the game.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image8.webp)
 
 **Aggressive baseline play: constant pressure off the ground.**
 
@@ -294,12 +285,11 @@ around many or most backhands and hit his forehand inside out and then
 inside in.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image9.webp)
 
 **The big forehand player overwhelms opponents with huge shot making.**
 
-Fernando Gonzalez is a great example. He doesn\'t play up as far in the
+Fernando Gonzalez is a great example. He doesn't play up as far in the
 court as many aggressive players, but looks to punish forehands and
 overwhelm opponents by dominating inside out rallies, creating openings
 including inside in winners.
@@ -312,7 +302,7 @@ to stay in rallies for extended periods. Tenacity is a major weapon.
 
 **[[But if his opponent takes risks the Sniper looks to turn that risk
 against him.]{.underline}]{.mark}** **[[He does this by using the
-opponent\'s ball speed or placement to counterattack, hitting
+opponent's ball speed or placement to counterattack, hitting
 aggressively himself or creating an even better placement or
 angle.]{.mark}]{.underline}**
 
@@ -324,8 +314,7 @@ style.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image10.webp)
 
 **The Sniper can answer attack with devastating counterattack.**
 
@@ -351,8 +340,7 @@ the greater your ability to implement different strategies, and to vary
 your strategies against different opponents.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image11.webp)
 
 **Organic development leads to mastery of your game style.**
 
@@ -360,10 +348,10 @@ height="2.5in"}
 
 **[[It is very important for all players to develop their gamestyles
 organically. Few or no players have the variety of a Roger Federer. Game
-style can\'t be forced.]{.mark}]{.underline}**
+style can't be forced.]{.mark}]{.underline}**
 
 But, unfortunately, all too often game style is like Medical School.
-Kids don\'t make the decision based on their own likes and qualities.
+Kids don't make the decision based on their own likes and qualities.
 Game style is often forced on young players by adults, either parents or
 coaches, or through peer pressures in their tennis environment. Mommy
 and/or Daddy want them to be a doctor. Or an aggressive baseliner.
@@ -373,7 +361,7 @@ coming from others. Almost every coach has met a new player who says he
 or she an aggressive baseliner but watching them play observes the
 player never gets within 10 ft of the baseline.
 
-It is vital to understand and respect that every player\'s game style
+It is vital to understand and respect that every player's game style
 will be determined largely by his or her physical and mental attributes.
 This is often difficult for coaches, as well as parents, to understand.
 This is because they filter what they see through their own playing
@@ -382,8 +370,7 @@ actually be.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-four-components-of-match-play-strategy-and-game-style/media/image12.webp)
 
 **Is it natural for you to take the ball early?**
 
@@ -397,24 +384,23 @@ not just the demands of parents, the fashionable play of other players,
 or the beliefs of a coach who may have played a certain way himself in
 his own day.
 
-So that covers our first two components. Next, we\'ll look at Tactics
+So that covers our first two components. Next, we'll look at Tactics
 and Patterns. Stay Turned!
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| ![A picture containing person, person, wall, posing Description automatically                                                                                                                 | Larry Jurovich is an international coaching         |
-| generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image13.jpeg){width="1.14375in" | consultant specializing in coaching, player, and    |
-| height="1.9041666666666666in"}                                                                                                                                                                | program development. As the Head of Coach Education |
-|                                                                                                                                                                                               | and Performance Manager, he led the restructuring   |
-|                                                                                                                                                                                               | and development of the British Lawn Tennis          |
-|                                                                                                                                                                                               | Association coach education program and tutor       |
-|                                                                                                                                                                                               | workforce.                                          |
-|                                                                                                                                                                                               |                                                     |
-|                                                                                                                                                                                               | Larry has served as a member of the ITF Coach       |
-|                                                                                                                                                                                               | Education Task force, worked as a leader at the     |
-|                                                                                                                                                                                               | Tennis Canada National Training Center, and helped  |
-|                                                                                                                                                                                               | develop Canadian players who have won dozens of     |
-|                                                                                                                                                                                               | national titles, as well as personally coaching     |
-|                                                                                                                                                                                               | Davis Cup and tour players. He speaks               |
-|                                                                                                                                                                                               | internationally and has presented at conferences    |
-|                                                                                                                                                                                               | and workshops in 10 countries.                      |
-+===============================================================================================================================================================================================+=====================================================+
+| ![A picture containing person, person, wall, posing Description automatically | Larry Jurovich is an international coaching |
+| --- | --- |
+| generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image13.jpeg) | program development. As the Head of Coach Education |
+|  | and Performance Manager, he led the restructuring |
+|  | and development of the British Lawn Tennis |
+|  | Association coach education program and tutor |
+|  | workforce. |
+|  |  |
+|  | Larry has served as a member of the ITF Coach |
+|  | Education Task force, worked as a leader at the |
+|  | Tennis Canada National Training Center, and helped |
+|  | develop Canadian players who have won dozens of |
+|  | national titles, as well as personally coaching |
+|  | Davis Cup and tour players. He speaks |
+|  | internationally and has presented at conferences |
+|  | and workshops in 10 countries. |
+

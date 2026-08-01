@@ -63,10 +63,9 @@ the morale of our team high and allows us to bounce back stronger."
 
 ![A picture containing person, military uniform, couple, people
 Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image1.jpeg){width="6.5in"
-height="4.201388888888889in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image1.jpeg)
 
-Mike (left) and Bob Bryan during the medal ceremony of the men\'s
+Mike (left) and Bob Bryan during the medal ceremony of the men's
 doubles at the 2012 Olympics.   -  AP
 
  
@@ -134,8 +133,7 @@ beforehand without anyone else's help. You prepare your singles player
 because he has no one to talk to during the match.
 
 ![A person playing tennis Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image2.jpeg){width="6.5in"
-height="4.333333333333333in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image2.jpeg)
 
 John Isner adopted a serve-and-volley first approach to his grass-court
 strategy and came very close to reaching the final at Wimbledon 2018.
@@ -222,8 +220,7 @@ ball is going to be. That comes instinctively to the pros.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image3.jpeg){width="6.5in"
-height="4.766666666666667in"}
+confidence](media_how-you-can-play-better-doubles-in-tennis/media/image3.jpeg)
 
 Roger Federer, along with Stefanos Tsitsipas, is one of the two best
 volleyers among the top 20 singles players.   -  AP
@@ -292,8 +289,7 @@ best for you.
 
 ![A group of people posing for a photo Description automatically
 generated with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image4.jpeg){width="6.5in"
-height="3.627083333333333in"}
+confidence](media_how-you-can-play-better-doubles-in-tennis/media/image4.jpeg)
 
 Martina had a nasty \[lefty\] serve, and Pam had a very good serve. They
 both had fantastic volleys.   -  The Hindu Photo Library
@@ -394,8 +390,7 @@ penetration when they need to, as did the great Australians like Roche,
 
 ![A picture containing person, tennis, person, athletic game Description
 automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image5.jpeg){width="6.5in"
-height="4.53125in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image5.jpeg)
 
 It would be fascinating if we had a time machine that had Martina
 Navratilova and Pam Shriver play Venus and Serena Williams.   -  AP
@@ -464,8 +459,7 @@ have.
 
 ![A couple of people play tennis Description automatically generated
 with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image6.jpeg){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_how-you-can-play-better-doubles-in-tennis/media/image6.jpeg)
 
 Martina Hingis was a great example of someone with the ultimate shot
 variety. She could return the ball anywhere.   -  Getty Images
@@ -541,8 +535,7 @@ difficult to return. And Mike is the ultimate wizard at putting the ball
 away at net.
 
 ![A group of men holding tennis rackets Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image7.jpeg){width="6.5in"
-height="4.370833333333334in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image7.jpeg)
 
 John Bromwich (extreme right), a two-handed Australian player in the
 1930s and 1940s, had a deceptive serve return.   -  The Hindu Photo
@@ -622,8 +615,7 @@ the line and advance to the net behind it and try to put the server
 under pressure.
 
 ![A picture containing text, posing Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image8.jpeg){width="6.5in"
-height="4.663194444444445in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image8.jpeg)
 
 Even the great Australian team of the Woodies, Todd Woodbridge and Mark
 Woodforde, wasn't anywhere near as active at net as Mike and Bob Bryan
@@ -719,8 +711,7 @@ skills, such as anticipating really well at net, that transfer really
 well to doubles.
 
 ![A couple of men playing tennis Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image9.jpeg){width="6.5in"
-height="4.333333333333333in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image9.jpeg)
 
 When Rafa Nadal plays doubles, he stands in much closer and rips the
 ball harder and flatter than he would in singles.   -  Getty Images
@@ -790,8 +781,7 @@ them to use that information and process it and sometimes adjust it if
 it's not working perfectly.
 
 ![A picture containing text, person, outdoor Description automatically
-generated](media_how-you-can-play-better-doubles-in-tennis/media/image10.jpeg){width="6.5in"
-height="4.446527777777778in"}
+generated](media_how-you-can-play-better-doubles-in-tennis/media/image10.jpeg)
 
 Kent Carlsson ranked No. 6 in singles, but he was much weaker in
 doubles. So he played on the baseline when his partner served because
@@ -846,8 +836,7 @@ well-played doubles match.
 
 ![A person with his hand on his face Description automatically generated
 with medium
-confidence](media_how-you-can-play-better-doubles-in-tennis/media/image11.jpeg){width="6.5in"
-height="4.597222222222222in"}
+confidence](media_how-you-can-play-better-doubles-in-tennis/media/image11.jpeg)
 
 **David Macpherson, affectionately nicknamed "Macca," credits great
 chemistry for his extraordinary success with the Bryans.   -  Getty

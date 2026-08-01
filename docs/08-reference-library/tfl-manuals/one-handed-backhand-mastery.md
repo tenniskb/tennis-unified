@@ -90,15 +90,15 @@ vào đó, điểm chạm tối ưu nằm xa người hơn --- khoảng 30-40cm 
 trước --- nghĩa là cánh tay đang ở vị trí cơ học yếu nhất khi cần tạo
 lực nhất.
 
-+--------------------------------------------------------------------+
-| **KHAI NIEM CHINH**                                                |
-|                                                                    |
-| Nghịch lý cơ học của one-hander: Điểm chạm tối ưu là điểm mà cánh  |
+| **KHAI NIEM CHINH** |
+| --- |
+|  |
+| Nghịch lý cơ học của one-hander: Điểm chạm tối ưu là điểm mà cánh |
 | tay có ít đòn bẩy nhất. Điều này có nghĩa là lực phải đến từ nguồn |
 | khác --- từ xoay hông, xoay vai, và chuyển trọng lượng. Tay chỉ là |
-| đoạn cuối của chuỗi. Đây là tại sao người mới hay bị lỗi khi cố    |
-| gắng \'đánh mạnh bằng tay\': tay không đủ khỏe để làm một mình.    |
-+--------------------------------------------------------------------+
+| đoạn cuối của chuỗi. Đây là tại sao người mới hay bị lỗi khi cố |
+| gắng 'đánh mạnh bằng tay': tay không đủ khỏe để làm một mình. |
+
 
 **1.1.1 So Sánh Sinh Cơ Học: One vs Two-Handed**
 
@@ -162,7 +162,7 @@ lượng cơ thể.
 
 **Dấu hiệu thực hiện đúng:** Khi nhìn từ bên cạnh, gối bên chân trước
 phải cong rõ ràng, đùi gần song song với mặt đất ở thời điểm thấp nhất.
-Bạn phải cảm thấy đùi và mông \'chịu lực\'.
+Bạn phải cảm thấy đùi và mông 'chịu lực'.
 
 **Giai Đoạn 2: Xoay Hông (Hip Rotation)**
 
@@ -172,30 +172,30 @@ nhất. Hông của một tay đánh tốt xoay khoảng 90 độ từ vị trí
 (closed) đến vị trí mở hoàn toàn (open) trong chưa đầy 0.3 giây.
 
 Quan trọng: hông phải đi trước vai. Nếu vai xoay cùng lúc với hông (hoặc
-trước hông), chuỗi bị phá vỡ --- bạn mất đi đoạn \'kéo dài\' tạo ra vận
-tốc đầu vợt. Đây gọi là \'separation\' --- khoảng cách góc giữa xoay
+trước hông), chuỗi bị phá vỡ --- bạn mất đi đoạn 'kéo dài' tạo ra vận
+tốc đầu vợt. Đây gọi là 'separation' --- khoảng cách góc giữa xoay
 hông và xoay vai.
 
 **Giai Đoạn 3: Xoay Vai và Kéo Dài (Shoulder Rotation & Stretch)**
 
 Khi hông đã xoay một phần, vai bắt đầu xoay theo --- nhưng có độ trễ
 (lag). Khoảng trễ này tạo ra căng thẳng trong các cơ lưng và core, giống
-như dây thun bị kéo giãn. Khi cơ thể \'bật lại\', năng lượng đàn hồi này
+như dây thun bị kéo giãn. Khi cơ thể 'bật lại', năng lượng đàn hồi này
 được chuyển thành vận tốc cánh tay.
 
 Trong one-handed backhand, vai đi sau hông khoảng 40-60 mili giây --- đủ
 để tạo ra separation nhưng không quá lâu đến mức timing bị phá vỡ. Đây
-là một trong những điểm khó nhất để dạy vì nó cần \'cảm giác\' hơn là
+là một trong những điểm khó nhất để dạy vì nó cần 'cảm giác' hơn là
 nhận thức có ý thức.
 
 **Giai Đoạn 4: Đòn Bẩy Cánh Tay (Arm Lever)**
 
 Đến đây, cánh tay chỉ là đòn bẩy kéo dài thêm của chuỗi. Khuỷu tay duỗi
 ra từ vị trí hơi co lúc take-back đến gần thẳng tại contact. Chuyển động
-này không phải do cơ bắp tay tạo ra --- nó được \'kéo\' bởi xoay vai.
+này không phải do cơ bắp tay tạo ra --- nó được 'kéo' bởi xoay vai.
 
-Sai lầm phổ biến nhất của level 3-4 là cố gắng \'đẩy\' bằng cánh tay
-thay vì \'để cánh tay bị kéo\'. Khi bạn đẩy, cơ bắp tay co lại và cản
+Sai lầm phổ biến nhất của level 3-4 là cố gắng 'đẩy' bằng cánh tay
+thay vì 'để cánh tay bị kéo'. Khi bạn đẩy, cơ bắp tay co lại và cản
 trở tốc độ. Khi bạn để bị kéo, cánh tay thả lỏng và đạt tốc độ tối đa.
 
 **Giai Đoạn 5: Phóng Lực Cổ Tay (Wrist Release)**
@@ -205,8 +205,8 @@ không phải là cú snap mạnh như forehand --- mà là sự ổn định v�
 là phóng thích sau contact. Cổ tay giữ vững (laid back position) ngay
 trước và tại contact, sau đó theo quán tính trong follow-through.
 
-Wawrinka cho thấy điều này rõ nhất: cổ tay của anh gần như bị \'đóng
-băng\' tại contact, chỉ di chuyển theo quán tính sau đó. Federer có cổ
+Wawrinka cho thấy điều này rõ nhất: cổ tay của anh gần như bị 'đóng
+băng' tại contact, chỉ di chuyển theo quán tính sau đó. Federer có cổ
 tay cứng hơn cả. Chỉ Dimitrov mới dùng cổ tay linh hoạt hơn để thêm
 topspin --- nhưng đây là kỹ thuật nâng cao.
 
@@ -255,16 +255,16 @@ mạnh.
 
 **1.4 Hệ Thần Kinh Và Việc Học Kỹ Thuật**
 
-Một trong những hiểu lầm phổ biến nhất trong tennis là \'chỉ cần lặp đi
-lặp lại nhiều lần là thành công\'. Thực tế tinh tế hơn nhiều. Não bộ
+Một trong những hiểu lầm phổ biến nhất trong tennis là 'chỉ cần lặp đi
+lặp lại nhiều lần là thành công'. Thực tế tinh tế hơn nhiều. Não bộ
 không đơn giản ghi lại và phát lại các chuyển động --- nó xây dựng các
 mô hình dự đoán phức tạp, tối ưu hóa liên tục dựa trên phản hồi.
 
 **1.4.1 Deliberate Practice vs. Mindless Repetition**
 
 Anders Ericsson, nhà nghiên cứu về chuyên gia hàng đầu thế giới, phân
-biệt rõ ràng giữa \'deliberate practice\' (tập luyện có chủ đích) và
-\'mindless repetition\' (lặp đi lặp lại vô thức). Người chơi cấp độ
+biệt rõ ràng giữa 'deliberate practice' (tập luyện có chủ đích) và
+'mindless repetition' (lặp đi lặp lại vô thức). Người chơi cấp độ
 trung bình thường đánh hàng nghìn bóng mà không tiến bộ vì họ tập theo
 cách thứ hai.
 
@@ -272,7 +272,7 @@ Deliberate practice nghĩa là: mỗi cú đánh đều có một tiêu điểm 
 có phản hồi ngay lập tức, và ở mức độ khó vừa đủ để thử thách nhưng
 không quá khó đến mức thất bại liên tục. Trong context của backhand:
 đừng chỉ đánh 100 cú backhand chéo. Thay vào đó, đánh 20 cú với tiêu
-điểm duy nhất là \'cảm nhận hông xoay trước vai\'.
+điểm duy nhất là 'cảm nhận hông xoay trước vai'.
 
 **1.4.2 Neuroplasticity và Motor Learning**
 
@@ -281,20 +281,20 @@ mới (synaptic connections). Mỗi lần bạn thực hiện đúng một chuy�
 kết nối đó được củng cố. Mỗi lần bạn thực hiện sai, kết nối sai cũng
 được củng cố.
 
-Đây là tại sao \'tập sai\' nguy hiểm hơn \'không tập\'. Nếu bạn đánh
+Đây là tại sao 'tập sai' nguy hiểm hơn 'không tập'. Nếu bạn đánh
 1000 cú backhand với cổ tay gập sai, bạn đang xây dựng đường dây nơ-ron
 cho cú đánh sai đó. Sửa sau này sẽ tốn gấp đôi thời gian --- bạn phải
 vừa xây dựng đường dây mới vừa phá bỏ đường dây cũ.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
 | Quy tắc tập luyện cho level 3.5: Chất lượng luôn hơn số lượng. Tốt |
 | hơn là đánh 30 cú backhand với kỹ thuật đúng và chánh niệm cao hơn |
-| là đánh 300 cú vô thức. Nếu bạn bắt đầu mệt và kỹ thuật bắt đầu    |
-| sụp đổ --- dừng lại, nghỉ ngơi, rồi tiếp tục. Tập mệt chỉ củng cố  |
-| kỹ thuật xấu.                                                      |
-+--------------------------------------------------------------------+
+| là đánh 300 cú vô thức. Nếu bạn bắt đầu mệt và kỹ thuật bắt đầu |
+| sụp đổ --- dừng lại, nghỉ ngơi, rồi tiếp tục. Tập mệt chỉ củng cố |
+| kỹ thuật xấu. |
+
 
 **1.5 Đặc Điểm Cơ Thể và One-Handed Backhand**
 
@@ -334,24 +334,24 @@ lực bị hấp thụ thay vì được truyền đi. Người chơi cấp leve
 cần đầu tư vào sức mạnh core nếu muốn backhand có chiều sâu và nhất
 quán.
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập tự đánh giá cơ thể (15 phút, làm trước khi bắt đầu bất kỳ  |
-| chương trình kỹ thuật nào): 1. Kiểm tra shoulder rotation: đứng    |
-| trước gương, xoay vai phải ra sau --- ghi lại góc đạt được. 2.     |
-| Kiểm tra hip flexibility: ngồi cross-legged trên sàn --- nếu đầu   |
-| gối không chạm sàn, cần tăng hip flexibility. 3. Kiểm tra core     |
-| stability: plank position 60 giây mà không bị rung người. 4. Kiểm  |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập tự đánh giá cơ thể (15 phút, làm trước khi bắt đầu bất kỳ |
+| chương trình kỹ thuật nào): 1. Kiểm tra shoulder rotation: đứng |
+| trước gương, xoay vai phải ra sau --- ghi lại góc đạt được. 2. |
+| Kiểm tra hip flexibility: ngồi cross-legged trên sàn --- nếu đầu |
+| gối không chạm sàn, cần tăng hip flexibility. 3. Kiểm tra core |
+| stability: plank position 60 giây mà không bị rung người. 4. Kiểm |
 | tra ankle mobility: đứng một chân, nhún xuống thấp nhất có thể --- |
-| ghi lại độ sâu. Ghi lại kết quả và xem lại sau 3 tháng tập luyện.  |
-+--------------------------------------------------------------------+
+| ghi lại độ sâu. Ghi lại kết quả và xem lại sau 3 tháng tập luyện. |
+
 
 **1.6 Tại Sao Level 3.5 Là Thời Điểm Hoàn Hảo**
 
 Level 3.5 là một trong những điểm quan trọng nhất trong quá trình phát
 triển tennis. Bạn đã có đủ nền tảng để thực hiện các kỹ thuật phức tạp,
-nhưng chưa có đủ \'muscle memory\' xấu để cản trở việc học điều mới. Đây
+nhưng chưa có đủ 'muscle memory' xấu để cản trở việc học điều mới. Đây
 là cửa sổ vàng.
 
 Ở level 3.0 và thấp hơn, người chơi còn đang vật lộn với những cơ bản
@@ -361,18 +361,18 @@ hơn, các habits đã cắm rễ sâu hơn và khó thay đổi hơn.
 
 Level 3.5 có những đặc điểm thuận lợi: bạn đã có khả năng rally ổn định,
 bạn hiểu game đủ để tự nhận xét kỹ thuật của mình, và bạn đã thất bại đủ
-nhiều với các phương pháp \'tự học\' để sẵn sàng học cách đúng.
+nhiều với các phương pháp 'tự học' để sẵn sàng học cách đúng.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Cam kết thực tế cho người đọc tài liệu này: Những kỹ thuật trong   |
-| 10 chương này không thể học được trong một tuần hay một tháng. Lộ  |
-| trình từ level 3.5 đến một backhand một tay thực sự hiệu quả       |
-| thường mất 12-18 tháng với tập luyện đúng phương pháp. Tuy nhiên,  |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Cam kết thực tế cho người đọc tài liệu này: Những kỹ thuật trong |
+| 10 chương này không thể học được trong một tuần hay một tháng. Lộ |
+| trình từ level 3.5 đến một backhand một tay thực sự hiệu quả |
+| thường mất 12-18 tháng với tập luyện đúng phương pháp. Tuy nhiên, |
 | nếu bạn theo đúng trình tự và nguyên tắc, tiến bộ sẽ rõ ràng và có |
-| thể đo lường được sau mỗi 6 tuần.                                  |
-+--------------------------------------------------------------------+
+| thể đo lường được sau mỗi 6 tuần. |
+
 
 **1.7 Thiết Lập Baseline --- Đánh Giá Backhand Hiện Tại**
 
@@ -467,15 +467,15 @@ Triết lý này phù hợp với người chơi thông minh về chiến thuậ
 nhanh và biến hóa, không cần bóng cực mạnh nhưng cần bóng cực chính xác.
 Điểm yếu: timing phức tạp, khó học nhất trong ba phong cách.
 
-+--------------------------------------------------------------------+
-| **KHAI NIEM CHINH**                                                |
-|                                                                    |
-| Cho người chơi level 3.5: Đừng chọn một triết lý và cố gắng copy   |
-| hoàn toàn. Thay vào đó, xây dựng nền tảng từ Wawrinka (chuẩn bị    |
-| sớm, cấu trúc vững), sau đó thêm yếu tố của Dimitrov (hạ gối, thả  |
-| lỏng) khi bạn lên level 4. Triết lý Federer là mục tiêu dài hạn    |
-| --- hiệu quả sau khi hai phong cách kia đã là thứ tự phản xạ.      |
-+--------------------------------------------------------------------+
+| **KHAI NIEM CHINH** |
+| --- |
+|  |
+| Cho người chơi level 3.5: Đừng chọn một triết lý và cố gắng copy |
+| hoàn toàn. Thay vào đó, xây dựng nền tảng từ Wawrinka (chuẩn bị |
+| sớm, cấu trúc vững), sau đó thêm yếu tố của Dimitrov (hạ gối, thả |
+| lỏng) khi bạn lên level 4. Triết lý Federer là mục tiêu dài hạn |
+| --- hiệu quả sau khi hai phong cách kia đã là thứ tự phản xạ. |
+
 
 **CHƯƠNG 02**
 
@@ -553,7 +553,7 @@ xoay tay về phía sau của vợt thêm một bước so với Eastern, tạo 
 mặt vợt đóng hơn tự nhiên.
 
 Wawrinka và Dimitrov đều dùng biến thể của grip này. Lợi thế chính: tạo
-topspin dễ hơn với ít nỗ lực hơn, và cảm giác \'lock\' của cổ tay tự
+topspin dễ hơn với ít nỗ lực hơn, và cảm giác 'lock' của cổ tay tự
 nhiên hơn. Bất lợi: khó đánh bóng cao, khó chuyển sang slice, và cần
 thời gian thích nghi nhiều hơn.
 
@@ -587,20 +587,20 @@ của slice backhand, serve, và volley --- nhưng không phải cho drive
 backhand.
 
 Nhiều người mới bắt đầu vô tình dùng Continental cho backhand vì nó cảm
-thấy \'thoải mái\'. Vấn đề: mặt vợt sẽ mở quá nhiều tại contact, buộc
+thấy 'thoải mái'. Vấn đề: mặt vợt sẽ mở quá nhiều tại contact, buộc
 bạn phải compensate bằng cách cúi cổ tay xuống --- tạo ra chuỗi lỗi
 không thể sửa được. Nếu backhand của bạn hay đi cao và ra ngoài cuối
 sân, nghi ngờ grip đầu tiên.
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
-| Lỗi grip thường gặp nhất ở level 3.5: Dùng Continental (hoặc thậm  |
-| chí Eastern Forehand) cho backhand. Dấu hiệu nhận biết: bóng       |
-| thường đi cao và ra ngoài, bạn cảm thấy phải \'kéo xuống\' để kiểm |
-| soát bóng, cổ tay hay bị đau sau khi đánh nhiều. Sửa ngay lập tức  |
-| --- đây là ưu tiên số một trước khi làm bất cứ điều gì khác.       |
-+--------------------------------------------------------------------+
+| **LOI PHAT SINH** |
+| --- |
+|  |
+| Lỗi grip thường gặp nhất ở level 3.5: Dùng Continental (hoặc thậm |
+| chí Eastern Forehand) cho backhand. Dấu hiệu nhận biết: bóng |
+| thường đi cao và ra ngoài, bạn cảm thấy phải 'kéo xuống' để kiểm |
+| soát bóng, cổ tay hay bị đau sau khi đánh nhiều. Sửa ngay lập tức |
+| --- đây là ưu tiên số một trước khi làm bất cứ điều gì khác. |
+
 
 **2.3 Cách Chọn Grip Phù Hợp Cho Level 3.5**
 
@@ -626,15 +626,15 @@ Nếu bạn muốn tối ưu hóa kiểm soát và độ chính xác (chiến l�
 tốt hơn): Eastern. Nếu bạn muốn tạo topspin nặng từ baseline để push đối
 thủ: Semi-Western.
 
-+--------------------------------------------------------------------+
-| **KHAI NIEM CHINH**                                                |
-|                                                                    |
-| Khuyến nghị cho level 3.5: Bắt đầu với Eastern Backhand grip. Đây  |
+| **KHAI NIEM CHINH** |
+| --- |
+|  |
+| Khuyến nghị cho level 3.5: Bắt đầu với Eastern Backhand grip. Đây |
 | là grip tha thứ lỗi nhất, linh hoạt nhất, và cung cấp nền tảng tốt |
 | nhất để phát triển sau này. Sau khi bạn có thể đánh 20 cú backhand |
-| liên tục vào sân với Eastern Backhand grip, bạn có thể thử nghiệm  |
-| Semi-Western nếu muốn thêm topspin.                                |
-+--------------------------------------------------------------------+
+| liên tục vào sân với Eastern Backhand grip, bạn có thể thử nghiệm |
+| Semi-Western nếu muốn thêm topspin. |
+
 
 **2.4 Lực Cầm Vợt --- Tension Scale**
 
@@ -679,29 +679,29 @@ cẳng tay) chịu áp lực liên tục và dần bị viêm.
 
 **2.4.3 Bài Tập Cảm Nhận Lực Cầm**
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập \'Noodle Arm\' (10 phút): 1. Cầm vợt với lực 3/10 --- tay  |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập 'Noodle Arm' (10 phút): 1. Cầm vợt với lực 3/10 --- tay |
 | gần như lỏng hoàn toàn. 2. Đứng trước tường và đánh bóng nhẹ nhàng |
-| vào tường, giữ lực cầm ở 3-4. 3. Chú ý cách vợt \'sống\' và di     |
-| chuyển tự nhiên hơn. 4. Dần dần tăng tốc độ, vẫn giữ cầm lỏng cho  |
+| vào tường, giữ lực cầm ở 3-4. 3. Chú ý cách vợt 'sống' và di |
+| chuyển tự nhiên hơn. 4. Dần dần tăng tốc độ, vẫn giữ cầm lỏng cho |
 | đến 0.1 giây trước contact. 5. Tại contact, siết lên 7-8, ngay sau |
-| đó lỏng lại. Mục tiêu: cảm nhận sự khác biệt giữa cú đánh          |
-| \'lỏng-siết-lỏng\' vs \'chặt suốt\'. Bóng đánh với lực cầm đúng    |
-| nghe khác --- đanh hơn, không phải bốp mềm.                        |
-+--------------------------------------------------------------------+
+| đó lỏng lại. Mục tiêu: cảm nhận sự khác biệt giữa cú đánh |
+| 'lỏng-siết-lỏng' vs 'chặt suốt'. Bóng đánh với lực cầm đúng |
+| nghe khác --- đanh hơn, không phải bốp mềm. |
+
 
 **2.5 Vị Trí Và Chức Năng Của Cổ Tay**
 
 Cổ tay trong one-handed backhand có vai trò phức tạp hơn nhiều so với
 forehand. Trong forehand, cổ tay có thể snap tự nhiên để thêm topspin.
-Trong backhand một tay, cổ tay cần được giữ ổn định ở \'laid-back
-position\' và chỉ phóng thích sau contact.
+Trong backhand một tay, cổ tay cần được giữ ổn định ở 'laid-back
+position' và chỉ phóng thích sau contact.
 
 **2.5.1 Định Nghĩa Laid-Back Wrist Position**
 
-\'Laid back\' có nghĩa là cổ tay hơi kéo về phía sau so với trục thẳng
+'Laid back' có nghĩa là cổ tay hơi kéo về phía sau so với trục thẳng
 của cánh tay, tạo ra một góc khoảng 15-25 độ giữa bàn tay và cẳng tay
 (theo hướng extension/dorsiflexion). Đây không phải là cổ tay gập, cũng
 không phải thẳng hoàn toàn.
@@ -714,35 +714,35 @@ position. Bạn sẽ cảm thấy căng nhẹ ở mặt trước cổ tay. Đây
 **2.5.2 Tại Sao Laid-Back Wrist Quan Trọng**
 
 Laid-back wrist tạo ra hai lợi ích kỹ thuật: thứ nhất, nó là cơ chế
-phóng thích năng lượng cuối cùng --- khi cổ tay \'bật\' từ laid-back trở
+phóng thích năng lượng cuối cùng --- khi cổ tay 'bật' từ laid-back trở
 về trung lập và tiếp tục qua, đây là đợt tăng tốc cuối cùng của đầu vợt.
 Thứ hai, nó kiểm soát góc mặt vợt ở giai đoạn quan trọng nhất.
 
 Nếu cổ tay gập về phía trước (flexion) ngay trước contact --- lỗi phổ
-biến khi người ta cố \'đẩy\' bóng --- mặt vợt sẽ đóng quá nhiều và bóng
+biến khi người ta cố 'đẩy' bóng --- mặt vợt sẽ đóng quá nhiều và bóng
 đi vào lưới. Nếu cổ tay quá mở (hyperextension) --- lỗi khi người ta bị
 bóng đánh muộn --- mặt vợt mở và bóng ra ngoài cuối sân.
 
 **2.5.3 Wrist Lag --- Bí Quyết Của Vận Tốc Đầu Vợt**
 
-\'Wrist lag\' là khoảng thời gian mà cổ tay vẫn ở laid-back position
+'Wrist lag' là khoảng thời gian mà cổ tay vẫn ở laid-back position
 trong khi cánh tay đã bắt đầu swing về phía trước. Lag càng dài, đầu vợt
-tăng tốc càng nhiều khi cuối cùng cổ tay \'bắt kịp\' và tiếp tục qua.
+tăng tốc càng nhiều khi cuối cùng cổ tay 'bắt kịp' và tiếp tục qua.
 
 Đây là kỹ thuật cao cấp --- không cần tập ngay từ đầu. Nhưng hiểu khái
 niệm giúp bạn không phá vỡ nó khi bạn vô tình đạt được. Federer có wrist
 lag đặc biệt tốt --- đó là một phần lý do đầu vợt của anh đạt vận tốc
 rất cao dù swing nhỏ.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Kiểm tra wrist position khi tập: Đánh backhand chậm vào tường,     |
-| dừng lại ở ngay trước contact và quan sát góc cổ tay. Nếu cổ tay   |
-| phẳng hoặc gập về phía trước, bạn đang \'đẩy\' thay vì \'đánh\'.   |
-| Nếu cổ tay kéo về sau quá nhiều (\>45 độ), bạn đang mất kiểm soát  |
-| mặt vợt. Mục tiêu: 15-25 độ laid-back tại contact.                 |
-+--------------------------------------------------------------------+
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Kiểm tra wrist position khi tập: Đánh backhand chậm vào tường, |
+| dừng lại ở ngay trước contact và quan sát góc cổ tay. Nếu cổ tay |
+| phẳng hoặc gập về phía trước, bạn đang 'đẩy' thay vì 'đánh'. |
+| Nếu cổ tay kéo về sau quá nhiều (\>45 độ), bạn đang mất kiểm soát |
+| mặt vợt. Mục tiêu: 15-25 độ laid-back tại contact. |
+
 
 **2.6 Tay Trái Trong One-Handed Backhand**
 
@@ -774,32 +774,32 @@ như cánh chim --- không phải để trình diễn, mà vì cân bằng Newto
 
 **2.6.2 Lỗi Phổ Biến Với Tay Trái**
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
+| **LOI PHAT SINH** |
+| --- |
+|  |
 | Ba lỗi tay trái thường gặp ở level 3.5: 1. Buông tay trái quá sớm: |
-| tay trái rời vợt ngay khi bắt đầu unit turn thay vì giữ đến khi    |
-| drop. Kết quả: tay phải vung sớm, không có unit turn thực sự. 2.   |
-| Không vung ngược ra sau: sau contact, cả hai tay đều đi về cùng    |
-| hướng. Kết quả: mất cân bằng, phải bước để giữ thăng bằng. 3.      |
-| Khuỷu trái không kéo đủ ra sau (Wawrinka style): tay trái chỉ      |
-| \'đặt\' lên vợt thay vì kéo tích cực. Kết quả: unit turn nông,     |
-| bung lực kém.                                                      |
-+--------------------------------------------------------------------+
+| tay trái rời vợt ngay khi bắt đầu unit turn thay vì giữ đến khi |
+| drop. Kết quả: tay phải vung sớm, không có unit turn thực sự. 2. |
+| Không vung ngược ra sau: sau contact, cả hai tay đều đi về cùng |
+| hướng. Kết quả: mất cân bằng, phải bước để giữ thăng bằng. 3. |
+| Khuỷu trái không kéo đủ ra sau (Wawrinka style): tay trái chỉ |
+| 'đặt' lên vợt thay vì kéo tích cực. Kết quả: unit turn nông, |
+| bung lực kém. |
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập \'Two-Handed to One-Handed\': 1. Bắt đầu với two-handed    |
+
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập 'Two-Handed to One-Handed': 1. Bắt đầu với two-handed |
 | backhand grip bình thường. 2. Đánh backhand chéo nhẹ nhàng với hai |
-| tay --- cảm nhận unit turn và transfer trọng lượng. 3. Dần dần,    |
-| sau contact, thả tay trái ra để tay phải tiếp tục follow-through   |
+| tay --- cảm nhận unit turn và transfer trọng lượng. 3. Dần dần, |
+| sau contact, thả tay trái ra để tay phải tiếp tục follow-through |
 | một mình. 4. Tập 20 lần, mỗi lần thả tay trái sớm hơn một chút --- |
-| từ sau contact đến tại contact đến trước contact một chút. Mục     |
-| đích: xây dựng cảm giác transfer mà không mất đi unit turn của     |
-| two-hander. Đây là cách Goran Ivanisevic dạy chuyển đổi sang       |
-| one-hander.                                                        |
-+--------------------------------------------------------------------+
+| từ sau contact đến tại contact đến trước contact một chút. Mục |
+| đích: xây dựng cảm giác transfer mà không mất đi unit turn của |
+| two-hander. Đây là cách Goran Ivanisevic dạy chuyển đổi sang |
+| one-hander. |
+
 
 **2.7 Bài Tập Grip Thực Tế**
 
@@ -810,7 +810,7 @@ thành hoàn toàn tự động (thường mất 4-8 tuần):
 
 8.  Cầm vợt bằng tay trái theo cán, dựng thẳng đứng trước mặt.
 
-9.  Dùng tay phải \'bắt tay\' với vợt như bắt tay người --- đây là
+9.  Dùng tay phải 'bắt tay' với vợt như bắt tay người --- đây là
     Eastern Backhand grip cơ bản.
 
 10. Kiểm tra: nhìn xuống, đường nối giữa ngón trỏ và ngón cái tạo thành
@@ -821,19 +821,19 @@ thành hoàn toàn tự động (thường mất 4-8 tuần):
 
 12. Lặp lại 10 lần mù (nhắm mắt), mỗi lần kiểm tra lại với mắt mở.
 
-**2.7.2 Bài Tập \'Shadow Swing\' Kiểm Tra Cổ Tay**
+**2.7.2 Bài Tập 'Shadow Swing' Kiểm Tra Cổ Tay**
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Shadow swing với kiểm tra cổ tay (không cần bóng): 1. Cầm vợt      |
-| Eastern Backhand, đứng trước gương. 2. Unit turn chậm --- chú ý    |
-| tay trái giữ cổ vợt. 3. Drop vợt xuống dưới bóng --- cổ tay        |
-| laid-back. 4. Dừng lại tại điểm contact tưởng tượng --- kiểm tra:  |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Shadow swing với kiểm tra cổ tay (không cần bóng): 1. Cầm vợt |
+| Eastern Backhand, đứng trước gương. 2. Unit turn chậm --- chú ý |
+| tay trái giữ cổ vợt. 3. Drop vợt xuống dưới bóng --- cổ tay |
+| laid-back. 4. Dừng lại tại điểm contact tưởng tượng --- kiểm tra: |
 | cổ tay có laid-back 15-25 độ không? 5. Continue follow-through --- |
 | kiểm tra: vợt kết thúc cao qua vai phải không? Lặp lại 20 lần, mỗi |
-| lần tăng tốc độ 10%.                                               |
-+--------------------------------------------------------------------+
+| lần tăng tốc độ 10%. |
+
 
 **CHƯƠNG 03**
 
@@ -849,8 +849,8 @@ toàn bộ cú đánh còn lại.
 Không có gì có thể cứu được một cú đánh bắt đầu với chuẩn bị muộn. Kỹ
 thuật contact xuất sắc, follow-through hoàn hảo, grip đúng --- tất cả
 đều vô nghĩa nếu bạn không có đủ thời gian và vị trí để thực hiện chúng.
-Đây là tại sao Wawrinka nổi tiếng với câu nói \'chuẩn bị cùng lúc với
-chân\'.
+Đây là tại sao Wawrinka nổi tiếng với câu nói 'chuẩn bị cùng lúc với
+chân'.
 
 **3.1 Split-Step --- Điểm Khởi Đầu Của Mọi Thứ**
 
@@ -866,7 +866,7 @@ với bóng --- không phải khi bóng rời vợt họ, không phải khi bón
 lưới. Tại thời điểm đối thủ đánh bóng, bạn phải đang ở giữa không trung.
 
 Tại sao? Vì khi bạn đang ở giữa không trung, bạn không thể di chuyển ---
-bạn buộc phải \'đọc\' bóng từ tay vợt và chuyển động cơ thể đối thủ. Khi
+bạn buộc phải 'đọc' bóng từ tay vợt và chuyển động cơ thể đối thủ. Khi
 đáp xuống, thông tin này đã được xử lý và cơ thể có thể bắt đầu di
 chuyển ngay lập tức.
 
@@ -874,26 +874,26 @@ chuyển ngay lập tức.
 
 Về mặt vật lý: gân Achilles và cơ bắp chân lưu trữ năng lượng đàn hồi
 trong 0.1-0.2 giây sau khi đáp xuống. Kết hợp với tư thế gối cong, cơ
-thể có thể \'bật\' sang bất kỳ hướng nào trong thời gian tối thiểu. Nếu
+thể có thể 'bật' sang bất kỳ hướng nào trong thời gian tối thiểu. Nếu
 không có split-step, phải mất thêm 0.05-0.1 giây để bắt đầu di chuyển
 --- đủ để đến bóng muộn.
 
-Về mặt thần kinh: split-step \'reset\' hệ thần kinh, xóa bỏ lệnh di
+Về mặt thần kinh: split-step 'reset' hệ thần kinh, xóa bỏ lệnh di
 chuyển trước đó (nếu bạn vừa chạy sang trái) và chuẩn bị cho lệnh mới.
-Không có split-step, phản xạ bị \'lag\' bởi quán tính của lệnh cũ.
+Không có split-step, phản xạ bị 'lag' bởi quán tính của lệnh cũ.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Kiểm tra split-step của bạn: Nhờ ai đó quan sát hoặc quay video.   |
-| Câu hỏi: bạn có đang đứng yên (flat-footed) khi đợi bóng không?    |
-| Nếu có, hãy thêm nhún nhảy nhẹ liên tục giữa các điểm, và chuyển   |
-| nhún nhảy đó thành split-step đúng lúc. Một dấu hiệu tốt là khi    |
-| bạn nghe tiếng vợt đối thủ đánh bóng và cùng lúc đó cảm thấy hai   |
-| chân đáp xuống.                                                    |
-+--------------------------------------------------------------------+
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Kiểm tra split-step của bạn: Nhờ ai đó quan sát hoặc quay video. |
+| Câu hỏi: bạn có đang đứng yên (flat-footed) khi đợi bóng không? |
+| Nếu có, hãy thêm nhún nhảy nhẹ liên tục giữa các điểm, và chuyển |
+| nhún nhảy đó thành split-step đúng lúc. Một dấu hiệu tốt là khi |
+| bạn nghe tiếng vợt đối thủ đánh bóng và cùng lúc đó cảm thấy hai |
+| chân đáp xuống. |
 
-**3.2 Đọc Bóng Sớm --- \'Tennis Intelligence\'**
+
+**3.2 Đọc Bóng Sớm --- 'Tennis Intelligence'**
 
 Split-step đúng timing đòi hỏi một kỹ năng khác: đọc bóng sớm. Người
 chơi giỏi không đợi nhìn thấy bóng bay mới phản ứng --- họ đọc tín hiệu
@@ -940,8 +940,8 @@ phải sau khi đến nơi.
 
 **3. Sprint và Brace (bóng ép góc xa)**
 
-Phải chạy nhanh để kịp bóng. Bước cuối cùng trước khi đánh là \'brace
-step\' --- bước chân phải (chân trước với người thuận tay phải) vào sân
+Phải chạy nhanh để kịp bóng. Bước cuối cùng trước khi đánh là 'brace
+step' --- bước chân phải (chân trước với người thuận tay phải) vào sân
 chéo 45 độ, gối cong sâu để hấp thụ đà chạy và tạo nền vững.
 
 **4. Running Backhand (bóng kéo rộng hoàn toàn)**
@@ -954,24 +954,24 @@ phòng thủ.
 **3.3.2 Recovery Step --- Thường Bị Bỏ Qua**
 
 Sau mỗi cú đánh, bước đầu tiên phải luôn là về lại vị trí. Người chơi
-level 3.5 thường đứng xem bóng bay sau khi đánh (\'admiring their
-shot\') thay vì ngay lập tức phục hồi vị trí. Đây là lý do họ hay bị ép
+level 3.5 thường đứng xem bóng bay sau khi đánh ('admiring their
+shot') thay vì ngay lập tức phục hồi vị trí. Đây là lý do họ hay bị ép
 trong rally tiếp theo.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Quy tắc recovery: Ngay khi vợt chạm bóng (không phải sau khi       |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Quy tắc recovery: Ngay khi vợt chạm bóng (không phải sau khi |
 | follow-through kết thúc), bước đầu tiên phục hồi phải bắt đầu. Với |
 | backhand chéo, đó thường là bước chân trái sang phải. Với backhand |
-| dọc sân, đó là bước về phía sau-phải.                              |
-+--------------------------------------------------------------------+
+| dọc sân, đó là bước về phía sau-phải. |
+
 
 **3.4 Unit Turn --- Xương Sống Của Chuẩn Bị**
 
 Unit turn là chuyển động quan trọng nhất trong chuẩn bị backhand. Nó mô
 tả việc xoay toàn bộ phần trên cơ thể --- vai, ngực, và đầu --- như một
-khối duy nhất (\'unit\') về phía sau để chuẩn bị cho cú đánh.
+khối duy nhất ('unit') về phía sau để chuẩn bị cho cú đánh.
 
 **3.4.1 Cơ Chế Của Unit Turn Đúng**
 
@@ -1012,12 +1012,12 @@ từ bóng đang bay), shoulder rotation bắt đầu. Điều này cho bạn th
 **3.5 Take-Back --- Vị Trí Cuối Của Chuẩn Bị**
 
 Take-back là hành trình của vợt từ vị trí sẵn sàng (ready position) đến
-vị trí cao nhất trước khi drop. Đây là \'nạp lực\' cuối cùng trước khi
+vị trí cao nhất trước khi drop. Đây là 'nạp lực' cuối cùng trước khi
 đánh.
 
 **3.5.1 Hình Dạng Của Take-Back Đúng**
 
-Có nhiều \'hình dạng\' take-back khác nhau giữa các pro player, nhưng
+Có nhiều 'hình dạng' take-back khác nhau giữa các pro player, nhưng
 tất cả đều có một điểm chung: đầu vợt cao hơn cổ tay, cổ tay cao hơn
 khuỷu, và khuỷu cao hơn hông.
 
@@ -1042,22 +1042,22 @@ sớm, và có cấu trúc rõ ràng. Tránh cố copy vòng C của Dimitrov qu
 cao nhất, tay trái còn giữ cổ vợt, vai trái đóng hoàn toàn về phía sau,
 gối hơi cong để chuẩn bị cho động tác hạ thấp tiếp theo.
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập \'Take-back checkpoint\' (không cần bóng): 1. Đứng sẵn     |
-| sàng, tưởng tượng bóng đang đến bên backhand. 2. Thực hiện unit    |
-| turn + take-back trong 1 giây. 3. Dừng hoàn toàn ở vị trí          |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập 'Take-back checkpoint' (không cần bóng): 1. Đứng sẵn |
+| sàng, tưởng tượng bóng đang đến bên backhand. 2. Thực hiện unit |
+| turn + take-back trong 1 giây. 3. Dừng hoàn toàn ở vị trí |
 | take-back cao nhất. 4. Kiểm tra 5 điểm: (a) đầu vợt có cao hơn vai |
-| không? (b) tay trái có còn giữ không? (c) vai trái có đóng không?  |
-| (d) gối có cong không? (e) trọng lượng có trên chân sau không? 5.  |
-| Nếu tất cả 5 điều đúng: lặp lại nhanh hơn 20%. 6. Tập 30 lần, mỗi  |
-| buổi, trong 4 tuần.                                                |
-+--------------------------------------------------------------------+
+| không? (b) tay trái có còn giữ không? (c) vai trái có đóng không? |
+| (d) gối có cong không? (e) trọng lượng có trên chân sau không? 5. |
+| Nếu tất cả 5 điều đúng: lặp lại nhanh hơn 20%. 6. Tập 30 lần, mỗi |
+| buổi, trong 4 tuần. |
+
 
 **3.6 Lỗi Chuẩn Bị Phổ Biến Nhất Ở Level 3.5**
 
-**3.6.1 Lỗi 1: \'Armswing\' Thay Vì \'Body Turn\'**
+**3.6.1 Lỗi 1: 'Armswing' Thay Vì 'Body Turn'**
 
 Người chơi dùng tay phải kéo vợt về sau thay vì xoay toàn thân. Hậu quả:
 take-back nông, không tạo được xoắn ở hông và lưng, cú đánh thiếu lực và
@@ -1073,7 +1073,7 @@ Gối thẳng, không cong khi thực hiện unit turn và take-back. Hậu qu�
 bóng đến và cần hạ trọng tâm để đánh, người chơi phải làm cả hai việc
 (hạ trọng tâm + swing) cùng một lúc --- quá nhiều cho não bộ xử lý.
 
-Cách sửa: ngay từ split-step, gối phải ở vị trí \'ready position\' cong
+Cách sửa: ngay từ split-step, gối phải ở vị trí 'ready position' cong
 khoảng 30 độ. Duy trì gối cong này trong suốt quá trình di chuyển và
 chuẩn bị.
 
@@ -1082,16 +1082,16 @@ chuẩn bị.
 Đầu xoay về phía lưới thay vì theo bóng trong quá trình chuẩn bị. Hậu
 quả: mất thông tin quan trọng về tốc độ, xoáy, và điểm nảy của bóng.
 
-Cách sửa: thực hành \'chin on shoulder\' --- khi unit turn, cằm phải nằm
+Cách sửa: thực hành 'chin on shoulder' --- khi unit turn, cằm phải nằm
 trên vai phải. Mắt nhìn bóng qua vai này. Đây là cue vật lý rõ ràng và
 dễ kiểm tra.
 
 **3.6.4 Lỗi 4: Buông Tay Trái Quá Sớm**
 
 Tay trái rời vợt ngay khi unit turn bắt đầu. Hậu quả: mất kiểm soát, vợt
-hay \'trôi\' sang hai phía, và mất cơ chế giữ take-back đủ lâu.
+hay 'trôi' sang hai phía, và mất cơ chế giữ take-back đủ lâu.
 
-Cách sửa: tự nói với mình \'giữ đến khi drop\' mỗi khi đánh. Tay trái
+Cách sửa: tự nói với mình 'giữ đến khi drop' mỗi khi đánh. Tay trái
 chỉ rời vợt khi bạn bắt đầu swing về phía trước --- không phải trước đó.
 
 **CHƯƠNG 04**
@@ -1125,7 +1125,7 @@ cuối cùng chuyển thành vận tốc của đầu vợt.
 
 Người chơi level 3.5 thường đứng với chân gần như thẳng khi đánh, chỉ
 dùng phần nửa trên cơ thể. Họ đang bỏ qua nguồn lực lớn nhất và hiệu quả
-nhất có sẵn. Đây là lý do backhand của họ có vẻ \'armsy\' --- phụ thuộc
+nhất có sẵn. Đây là lý do backhand của họ có vẻ 'armsy' --- phụ thuộc
 quá nhiều vào cánh tay.
 
 **4.1.2 Foot Loading và Power Generation**
@@ -1136,18 +1136,18 @@ swing bắt đầu. Cú đẩy lên từ mặt đất này là impulse đầu ti
 chuỗi.
 
 Cảm giác bạn đang tìm kiếm: ở điểm thấp nhất của hạ gối, bạn phải cảm
-thấy đùi và mông \'chịu lực\' như đang ngồi xuống ghế. Không phải cúi
+thấy đùi và mông 'chịu lực' như đang ngồi xuống ghế. Không phải cúi
 người về phía trước, không phải cong lưng --- chỉ đơn giản là ngồi xuống
 trên chân.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
 | Kiểm tra chân trong rally: Nhờ ai đó chụp ảnh bạn đánh backhand từ |
-| phía sau. Nếu gối của bạn thẳng tại contact, bạn không đang sử     |
+| phía sau. Nếu gối của bạn thẳng tại contact, bạn không đang sử |
 | dụng chân. Nếu đầu bạn không thấp hơn ít nhất 10-15cm so với ready |
-| position, bạn không hạ trọng tâm đủ.                               |
-+--------------------------------------------------------------------+
+| position, bạn không hạ trọng tâm đủ. |
+
 
 **4.1.3 Open Stance vs. Closed Stance**
 
@@ -1190,12 +1190,12 @@ hông trước khi lên vai và tay. Nếu hông không tham gia --- dù chân c
 
 **4.2.1 Hip Separation --- Khái Niệm Then Chốt**
 
-\'Hip separation\' hay \'X-factor\' mô tả góc giữa xoay hông và xoay vai
+'Hip separation' hay 'X-factor' mô tả góc giữa xoay hông và xoay vai
 tại thời điểm cao nhất của take-back. Nói đơn giản: hông đã quay về phía
 sau bao nhiêu trong khi vai vẫn đang ở vị trí chuẩn bị mở về phía trước.
 
 Giá trị lý tưởng: 30-50 độ separation. Điều này tạo ra căng thẳng
-(stretch) trong các cơ xoay thân. Khi cơ thể \'unwind\', năng lượng đàn
+(stretch) trong các cơ xoay thân. Khi cơ thể 'unwind', năng lượng đàn
 hồi này được giải phóng nhanh chóng --- đây là một trong những nguồn lực
 lớn nhất trong tennis.
 
@@ -1205,7 +1205,7 @@ hông và vai cùng lúc, mất năng lượng đàn hồi) hoặc separation qu
 
 **4.2.2 Hip Drive --- Xoay Hông Chủ Động**
 
-\'Hip drive\' là giai đoạn hông xoay chủ động từ closed (đóng) về phía
+'Hip drive' là giai đoạn hông xoay chủ động từ closed (đóng) về phía
 lưới (mở). Điều này xảy ra trước vai --- và đây là điểm quan trọng cần
 nhắc lại: TRƯỚC vai, không đồng thời.
 
@@ -1214,18 +1214,18 @@ như bình thường. Sau đó, chỉ dùng cơ hông để xoay hông về phí
 không xoay vai theo. Giữ vai closed trong khi hông mở hoàn toàn. Cảm
 nhận sự kéo căng ở lưng và bên sườn. Đây là năng lượng bạn muốn tạo ra.
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập \'Hip First, Shoulder Second\' (10 phút): 1. Đứng trước    |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập 'Hip First, Shoulder Second' (10 phút): 1. Đứng trước |
 | gương hoặc nhờ ai quay video. 2. Thực hiện unit turn --- vai đóng. |
-| 3. Đặt tay phải nằm ngang trước ngực, tay trái đằng sau lưng. 4.   |
-| Xoay hông sang phải (về phía lưới) trong khi vai vẫn giữ hướng     |
-| vuông góc lưới. 5. Dừng khi hông đã mở 90 độ nhưng vai vẫn chưa    |
-| xoay --- cảm nhận sự kéo căng. 6. Tiếp tục để vai theo sau hông.   |
-| Mục tiêu: nhận biết và tái tạo \'delay\' giữa xoay hông và xoay    |
-| vai.                                                               |
-+--------------------------------------------------------------------+
+| 3. Đặt tay phải nằm ngang trước ngực, tay trái đằng sau lưng. 4. |
+| Xoay hông sang phải (về phía lưới) trong khi vai vẫn giữ hướng |
+| vuông góc lưới. 5. Dừng khi hông đã mở 90 độ nhưng vai vẫn chưa |
+| xoay --- cảm nhận sự kéo căng. 6. Tiếp tục để vai theo sau hông. |
+| Mục tiêu: nhận biết và tái tạo 'delay' giữa xoay hông và xoay |
+| vai. |
+
 
 **4.3 Vai --- Cầu Nối Giữa Cơ Thể Và Cánh Tay**
 
@@ -1236,7 +1236,7 @@ làm điều này với tốc độ cao mà không gây chấn thương.
 **4.3.1 Internal vs. External Rotation của Vai**
 
 Trong one-handed backhand, vai thực hiện external rotation (xoay ra
-ngoài) trong giai đoạn take-back --- đây là khi cánh tay \'mở ra\'. Sau
+ngoài) trong giai đoạn take-back --- đây là khi cánh tay 'mở ra'. Sau
 đó, internal rotation (xoay vào trong) tạo ra lực trong giai đoạn swing
 về phía trước.
 
@@ -1247,10 +1247,10 @@ mọi thứ khác đúng. Đây là vấn đề cần giải quyết trong phầ
 
 **4.3.2 Shoulder Lag --- Bí Quyết Của Tốc Độ Đầu Vợt**
 
-Tương tự wrist lag, \'shoulder lag\' mô tả việc vai \'đi sau\' hông
+Tương tự wrist lag, 'shoulder lag' mô tả việc vai 'đi sau' hông
 trong giai đoạn mở của swing. Khi hông đã xoay 60 độ, vai mới bắt đầu
 xoay 20 độ đầu tiên. Khi hông đã mở hoàn toàn, vai vừa xoay khoảng 60
-độ. Cánh tay thậm chí còn \'đi sau\' hơn nữa.
+độ. Cánh tay thậm chí còn 'đi sau' hơn nữa.
 
 Hệ thống lag này khuếch đại vận tốc ở mỗi mắt xích: vận tốc vai + vận
 tốc cánh tay + vận tốc cổ tay = tổng vận tốc đầu vợt lớn hơn nhiều so
@@ -1259,8 +1259,8 @@ với chỉ có vai và cánh tay.
 **4.4 Cánh Tay --- Đòn Bẩy Cuối Cùng**
 
 Sau vai, cánh tay là mắt xích cuối cùng trước đầu vợt. Trong one-handed
-backhand đúng kỹ thuật, cánh tay không tự tạo lực bằng cách \'đẩy\' hay
-\'kéo\' --- nó được \'bắn\' bởi xoay vai và hông phía sau nó.
+backhand đúng kỹ thuật, cánh tay không tự tạo lực bằng cách 'đẩy' hay
+'kéo' --- nó được 'bắn' bởi xoay vai và hông phía sau nó.
 
 **4.4.1 Vị Trí Khuỷu Trong Take-Back**
 
@@ -1289,22 +1289,22 @@ lift.
 
 **4.4.3 Elbow Lead vs. Racket Lead**
 
-\'Elbow lead\' là khi khuỷu tay dẫn đầu trong forward swing --- khuỷu đi
+'Elbow lead' là khi khuỷu tay dẫn đầu trong forward swing --- khuỷu đi
 về phía bóng trước, đầu vợt theo sau. Điều này tạo ra lag tự nhiên và
 cho phép cổ tay bật vào đúng lúc.
 
-\'Racket lead\' là lỗi --- đầu vợt đi trước khuỷu trong forward swing.
-Người ta thường làm điều này khi cố \'đánh mạnh\' bằng cánh tay. Kết
+'Racket lead' là lỗi --- đầu vợt đi trước khuỷu trong forward swing.
+Người ta thường làm điều này khi cố 'đánh mạnh' bằng cánh tay. Kết
 quả: mất wrist lag, cổ tay không thể đóng góp lực, bóng thiếu tốc độ dù
 người đánh mệt hơn.
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
-| Kiểm tra elbow lead: Nhờ ai quay video chậm (slow-motion) từ phía  |
+| **LOI PHAT SINH** |
+| --- |
+|  |
+| Kiểm tra elbow lead: Nhờ ai quay video chậm (slow-motion) từ phía |
 | sau. Trong forward swing, khuỷu tay phải đến điểm ngang bóng trước |
-| đầu vợt. Nếu đầu vợt đến trước, đây là lỗi armswing cần sửa ngay.  |
-+--------------------------------------------------------------------+
+| đầu vợt. Nếu đầu vợt đến trước, đây là lỗi armswing cần sửa ngay. |
+
 
 **4.5 Tích Hợp Chuỗi --- Toàn Bộ Cú Đánh Trong 0.3 Giây**
 
@@ -1316,7 +1316,7 @@ tiêu của tập luyện là tự động hóa chuỗi đến mức nó xảy r
 thức. Nhưng trong tập luyện cô lập, bạn cần tập từng giai đoạn riêng
 trước khi tích hợp.
 
-**4.5.1 Phương Pháp Tập \'Segmentation\'**
+**4.5.1 Phương Pháp Tập 'Segmentation'**
 
 Chia cú đánh thành 4 segment và tập từng cái đến khi tự động, sau đó
 ghép lại:
@@ -1334,14 +1334,14 @@ Sau đó ghép 1+2, sau đó 1+2+3, cuối cùng là 1+2+3+4. Phương pháp nà
 vẻ chậm nhưng hiệu quả hơn nhiều so với tập toàn bộ cú đánh ngay từ đầu
 --- đặc biệt với người chơi level 3.5 đang sửa các habits xấu.
 
-**4.5.2 The \'1-2\' Counting Method**
+**4.5.2 The '1-2' Counting Method**
 
-Một cue đơn giản và hiệu quả được nhiều HLV dạy: đếm \'1\' khi vai bắt
-đầu xoay (unit turn), \'2\' khi vợt drop xuống và về phía trước. Khoảng
-thời gian giữa \'1\' và \'2\' phải đủ để hạ thấp trọng tâm.
+Một cue đơn giản và hiệu quả được nhiều HLV dạy: đếm '1' khi vai bắt
+đầu xoay (unit turn), '2' khi vợt drop xuống và về phía trước. Khoảng
+thời gian giữa '1' và '2' phải đủ để hạ thấp trọng tâm.
 
-Ứng dụng: khi tập backhand, nói nhẹ hoặc thầm \'1\... 2\' trong đầu. Nếu
-\'1\' và \'2\' nghe quá gần nhau, bạn đang rush --- unit turn chưa hoàn
+Ứng dụng: khi tập backhand, nói nhẹ hoặc thầm '1\... 2' trong đầu. Nếu
+'1' và '2' nghe quá gần nhau, bạn đang rush --- unit turn chưa hoàn
 chỉnh trước khi swing bắt đầu. Nếu quá xa, bạn đang do dự --- chuỗi bị
 gián đoạn.
 
@@ -1364,14 +1364,14 @@ hóa chúng.
 
 **5.1.1 Ba Chiều Của Điểm Chạm**
 
-Điểm chạm tối ưu không phải là một điểm cố định --- nó là một \'vùng\'
+Điểm chạm tối ưu không phải là một điểm cố định --- nó là một 'vùng'
 (contact zone) trong không gian ba chiều: trước-sau (relative to body),
 trái-phải (relative to body), và cao-thấp (relative to ground).
 
 **Chiều trước-sau:** Điểm chạm nên cách chân trước khoảng 30-40cm về
 phía trước (về phía lưới). Đây là khoảng cách mà cánh tay có thể tạo lực
 hiệu quả nhất. Nếu chạm quá gần người (sau chân trước), bạn bị
-\'jammed\' và lực yếu. Nếu quá xa (\>50cm trước chân trước), cánh tay
+'jammed' và lực yếu. Nếu quá xa (\>50cm trước chân trước), cánh tay
 overextended và mất kiểm soát.
 
 **Chiều trái-phải:** Cánh tay duỗi thẳng gần hoàn toàn tại contact ---
@@ -1385,7 +1385,7 @@ phải tất cả bóng đều đến ở chiều cao lý tưởng --- phần l�
 phải điều chỉnh chân và hạ thấp trọng tâm để đưa điểm chạm về vùng tối
 ưu.
 
-**5.1.2 Tại Sao \'Đánh Trước Người\' Quan Trọng**
+**5.1.2 Tại Sao 'Đánh Trước Người' Quan Trọng**
 
 Đây là nguyên tắc mà mọi HLV lặp đi lặp lại, nhưng ít khi giải thích tại
 sao một cách đầy đủ:
@@ -1402,16 +1402,16 @@ tương đối ổn định. Khi đánh muộn (điểm chạm sau người), b�
 
 Lý do tạo spin: Bóng được đánh phía trước có đường đi qua mặt vợt dài
 hơn, cho phép tạo ra nhiều friction và topspin hơn. Bóng đánh muộn chỉ
-\'chạm\' mặt vợt ngắn hơn.
+'chạm' mặt vợt ngắn hơn.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Drill kiểm tra contact point: Đặt một chiếc nón hoặc lon nước ở    |
-| phía trước bạn, cách khoảng 35cm. Đây là vị trí điểm chạm lý       |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Drill kiểm tra contact point: Đặt một chiếc nón hoặc lon nước ở |
+| phía trước bạn, cách khoảng 35cm. Đây là vị trí điểm chạm lý |
 | tưởng. Khi shadow swing, đầu vợt phải đi qua điểm này. Nếu đầu vợt |
-| đến nón quá muộn (sau khi qua), bạn đang đánh muộn.                |
-+--------------------------------------------------------------------+
+| đến nón quá muộn (sau khi qua), bạn đang đánh muộn. |
+
 
 **5.2 Góc Mặt Vợt Tại Contact**
 
@@ -1453,7 +1453,7 @@ không cần can thiệp thêm.
 
 **5.2.3 String Bed và Hiệu Ứng Pocket**
 
-Khi bóng tiếp xúc với mặt vợt, các dây căng tạo ra \'pocket\' --- một
+Khi bóng tiếp xúc với mặt vợt, các dây căng tạo ra 'pocket' --- một
 chỗ lõm tạm thời khi dây cong vào theo bóng. Bóng ở trong pocket từ 3-5
 mili giây trước khi bật ra. Trong thời gian này, ma sát giữa bóng và dây
 tạo ra spin.
@@ -1467,35 +1467,35 @@ cần biết rằng mặt vợt và dây là một phần của phương trình 
 **5.3 Stabilization Tại Contact --- Cổ Tay Và Cánh Tay**
 
 Mặc dù cổ tay không điều chỉnh tại contact, nó phải ổn định. Nếu cổ tay
-\'gãy\' (bị đẩy về phía sau bởi lực của bóng đến), mặt vợt thay đổi góc
+'gãy' (bị đẩy về phía sau bởi lực của bóng đến), mặt vợt thay đổi góc
 và bóng đi sai hướng.
 
 **5.3.1 Forearm Pronation/Supination và Ổn Định**
 
 Trong backhand một tay, cẳng tay ở vị trí pronation (lòng bàn tay úp
 xuống) ngay trước và tại contact. Đây là vị trí cẳng tay có sức mạnh
-xoắn (torque resistance) cao nhất --- tức là khó bị \'vặn\' bởi lực tác
+xoắn (torque resistance) cao nhất --- tức là khó bị 'vặn' bởi lực tác
 động. Đây là lý do tại sao grip Eastern Backhand --- vốn tự nhiên đặt
 tay ở vị trí pronation --- ổn định hơn Continental Backhand ở điểm này.
 
 **5.3.2 Forearm và Shoulder Tension tại Contact**
 
-Ngay tại contact, có một sự tăng căng \'flash\' trong cơ cẳng tay (cầm
+Ngay tại contact, có một sự tăng căng 'flash' trong cơ cẳng tay (cầm
 chặt hơn lên 7-8/10) và cơ vai (ổn định shoulder joint). Sự tăng căng
 này chỉ kéo dài khoảng 50-100 mili giây xung quanh contact, sau đó cơ
 thể lỏng ra cho follow-through.
 
-Nếu cơ thể căng suốt cả swing (lỗi phổ biến khi người ta \'cố\'), sự
+Nếu cơ thể căng suốt cả swing (lỗi phổ biến khi người ta 'cố'), sự
 tăng căng tại contact không có ý nghĩa vì đã căng rồi. Nếu cơ thể lỏng
 hoàn toàn tại contact (lỗi khác), bóng đẩy vợt về phía sau và không có
 lực hiệu quả.
 
-**5.3.3 \'Soft Hands\' và Kiểm Soát Cảm Giác**
+**5.3.3 'Soft Hands' và Kiểm Soát Cảm Giác**
 
-\'Soft hands\' là khái niệm mô tả khả năng cảm nhận bóng qua tay cầm
+'Soft hands' là khái niệm mô tả khả năng cảm nhận bóng qua tay cầm
 vợt. Người có soft hands tốt có thể điều chỉnh lực và góc tinh tế trong
-những cú drop shot, slice, và touch shots --- những cú đòi hỏi \'cảm
-giác\' hơn là lực.
+những cú drop shot, slice, và touch shots --- những cú đòi hỏi 'cảm
+giác' hơn là lực.
 
 Soft hands phát triển theo thời gian với tập luyện có ý thức --- không
 phải qua số lần đánh nhiều mà qua sự chú tâm vào cảm giác tại mỗi
@@ -1505,7 +1505,7 @@ nhau, cố gắng tái tạo chính xác cùng một cú đánh với lực nh�
 
 **5.4 Đầu Và Mắt --- Ổn Định Cơ Bản**
 
-\'Đầu tĩnh tại contact\' là một trong những nguyên tắc phổ quát nhất
+'Đầu tĩnh tại contact' là một trong những nguyên tắc phổ quát nhất
 trong mọi môn thể thao có bóng. Từ golf đến cricket đến tennis --- những
 vận động viên tốt nhất đều giữ đầu tương đối tĩnh ở khoảnh khắc impact.
 
@@ -1520,27 +1520,27 @@ chuyển nhanh (ngẩng lên để xem bóng đi, ví dụ), nó kéo toàn bộ
 người theo, làm thay đổi góc vai và cánh tay tại contact --- phá vỡ
 những gì bạn đã thiết lập trong chuỗi.
 
-**5.4.2 \'Watch The Ball\' --- Cụ Thể Hơn**
+**5.4.2 'Watch The Ball' --- Cụ Thể Hơn**
 
-\'Nhìn bóng\' không chỉ có nghĩa là nhìn vào bóng. Có sự khác biệt giữa
-\'tracking\' (theo dõi liên tục) và \'fixation\' (focus vào điểm cụ
+'Nhìn bóng' không chỉ có nghĩa là nhìn vào bóng. Có sự khác biệt giữa
+'tracking' (theo dõi liên tục) và 'fixation' (focus vào điểm cụ
 thể). Nghiên cứu eye-tracking của các tennis player elite cho thấy họ
 thực ra nhìn vào điểm nảy dự đoán của bóng (predictive fixation) hơn là
 theo dõi bóng từng giây từng giây.
 
-Ứng dụng thực tế: thay vì cố \'nhìn bóng\' một cách mơ hồ, hãy cố gắng
-nhìn vào \'seam\' (đường may) của bóng. Đây là cue giúp tập trung hơn,
+Ứng dụng thực tế: thay vì cố 'nhìn bóng' một cách mơ hồ, hãy cố gắng
+nhìn vào 'seam' (đường may) của bóng. Đây là cue giúp tập trung hơn,
 và vì seam hiển thị khi bóng quay, nó cũng giúp bạn đọc spin của bóng.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
 | Kiểm tra head stability: Trong shadow swing chậm, khi vợt đến điểm |
-| contact tưởng tượng, dừng lại và check: mắt bạn đang nhìn về đâu?  |
-| Nếu bạn đang nhìn lên lưới hoặc về phía đối thủ, đầu đã di chuyển  |
-| quá sớm. Mắt phải vẫn hướng về phía nơi bóng sẽ là, dù không có    |
-| bóng thật.                                                         |
-+--------------------------------------------------------------------+
+| contact tưởng tượng, dừng lại và check: mắt bạn đang nhìn về đâu? |
+| Nếu bạn đang nhìn lên lưới hoặc về phía đối thủ, đầu đã di chuyển |
+| quá sớm. Mắt phải vẫn hướng về phía nơi bóng sẽ là, dù không có |
+| bóng thật. |
+
 
 **5.5 Biến Thể Contact Theo Bóng Đến**
 
@@ -1579,17 +1579,17 @@ lý của Eastern Backhand. Giải pháp: đứng ra sau hơn để có thêm th
 gian, hoặc tiến vào sớm và đánh bóng đang lên (on the rise) --- kỹ thuật
 nâng cao hơn nhưng hiệu quả.
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
-| Bài tập contact zone variations (cần partner hoặc ball             |
-| machine): 1. Set 1 (20 bóng): chỉ bóng tầm hông --- focus vào      |
-| contact point chuẩn. 2. Set 2 (20 bóng): chỉ bóng thấp --- focus   |
-| vào hạ gối sâu để đưa contact về vùng lý tưởng. 3. Set 3 (20       |
-| bóng): xen kẽ cao/thấp --- phải đọc và điều chỉnh nhanh. 4. Set 4  |
-| (20 bóng): xen kẽ topspin nặng và slice thấp --- tập đọc xoáy      |
-| bóng.                                                              |
-+--------------------------------------------------------------------+
+| **BAI TAP THUC TE** |
+| --- |
+|  |
+| Bài tập contact zone variations (cần partner hoặc ball |
+| machine): 1. Set 1 (20 bóng): chỉ bóng tầm hông --- focus vào |
+| contact point chuẩn. 2. Set 2 (20 bóng): chỉ bóng thấp --- focus |
+| vào hạ gối sâu để đưa contact về vùng lý tưởng. 3. Set 3 (20 |
+| bóng): xen kẽ cao/thấp --- phải đọc và điều chỉnh nhanh. 4. Set 4 |
+| (20 bóng): xen kẽ topspin nặng và slice thấp --- tập đọc xoáy |
+| bóng. |
+
 
 **CHƯƠNG 06**
 
@@ -1600,7 +1600,7 @@ nâng cao hơn nhưng hiệu quả.
 One-handed backhand có một lợi thế chiến thuật lớn mà hai-tay không có:
 khả năng chuyển đổi liền mạch giữa drive, topspin, flat, và slice từ
 cùng một stance và preparation. Một người chơi two-handed backhand
-thường chỉ có một \'gear\' --- drive. Người chơi one-handed có cả một
+thường chỉ có một 'gear' --- drive. Người chơi one-handed có cả một
 hộp số.
 
 Chương này không chỉ dạy kỹ thuật của từng loại --- nó dạy bạn khi nào
@@ -1610,8 +1610,8 @@ dùng cái nào, và quan trọng hơn, cách che giấu ý định cho đến p
 
 **6.1.1 Định Nghĩa và Đặc Điểm**
 
-\'Flat\' không có nghĩa là hoàn toàn không có spin --- mọi cú đánh với
-vợt tennis đều tạo ra ít nhất một lượng spin nhỏ. \'Flat\' trong tennis
+'Flat' không có nghĩa là hoàn toàn không có spin --- mọi cú đánh với
+vợt tennis đều tạo ra ít nhất một lượng spin nhỏ. 'Flat' trong tennis
 nghĩa là tối thiểu hóa spin để tối đa hóa vận tốc đường thẳng của bóng.
 
 Flat backhand đặc trưng: mặt vợt vuông góc với mặt đất tại contact,
@@ -1642,14 +1642,14 @@ cao hơn một chút (ngang hông đến ngang đai thay vì dưới hông).
 Grip vẫn là Eastern Backhand --- không cần thay đổi. Sự khác biệt đến từ
 góc cổ tay và đường đi của swing, không phải grip.
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
-| Lỗi phổ biến với flat backhand: cố \'đánh mạnh\' bằng cách swing   |
-| nhanh hơn với arm. Flat backhand nhanh đến từ contact sớm và       |
-| chuyển trọng lượng tốt, không từ swing arm mạnh hơn. Swing arm     |
-| mạnh hơn thường làm mặt vợt lệch và bóng ra ngoài.                 |
-+--------------------------------------------------------------------+
+| **LOI PHAT SINH** |
+| --- |
+|  |
+| Lỗi phổ biến với flat backhand: cố 'đánh mạnh' bằng cách swing |
+| nhanh hơn với arm. Flat backhand nhanh đến từ contact sớm và |
+| chuyển trọng lượng tốt, không từ swing arm mạnh hơn. Swing arm |
+| mạnh hơn thường làm mặt vợt lệch và bóng ra ngoài. |
+
 
 **6.2 Topspin Backhand --- Kiểm Soát Và Sức Mạnh**
 
@@ -1668,14 +1668,14 @@ tạo spin của họ khác nhau.
 
 **6.2.2 Low-to-High Swing Path Cho Topspin**
 
-\'Low to high\' mô tả đường đi của đầu vợt: bắt đầu thấp hơn bóng và kết
+'Low to high' mô tả đường đi của đầu vợt: bắt đầu thấp hơn bóng và kết
 thúc cao hơn bóng. Đây là kỹ thuật cơ bản nhất để tạo topspin.
 
 Cách thực hiện: trong giai đoạn drop, đầu vợt phải đi xuống dưới mức
 bóng (ít nhất 10-15cm thấp hơn). Sau đó, trong forward swing, đầu vợt đi
 lên từ vị trí thấp đó. Đường đi từ thấp lên cao qua bóng tạo ra topspin.
 
-Sai lầm phổ biến: nhiều người \'drop\' vợt nhưng chỉ ngang tầm bóng, sau
+Sai lầm phổ biến: nhiều người 'drop' vợt nhưng chỉ ngang tầm bóng, sau
 đó swing nằm ngang. Kết quả là ít hoặc không có topspin. Hãy thực sự để
 vợt thấp hơn --- điều này đặc biệt đúng khi bóng đến cao.
 
@@ -1686,20 +1686,20 @@ topspin để: bóng qua lưới với margin an toàn, bóng rơi vào sân nga
 khi vượt lưới với góc cao, và tạo ra đủ áp lực để đối thủ không dễ tấn
 công.
 
-\'Heavy topspin\' thực sự đòi hỏi tốc độ đầu vợt rất cao --- mà level
+'Heavy topspin' thực sự đòi hỏi tốc độ đầu vợt rất cao --- mà level
 3.5 thường chưa có đủ từ chuỗi động học hoàn chỉnh. Cố tạo heavy topspin
 bằng cách cuốn cổ tay mạnh thường dẫn đến cổ tay gập sai và bóng vào
 lưới. Hãy tập tốc độ và chuỗi trước --- topspin sẽ tự đến.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Kiểm tra lượng topspin: Đánh 10 cú backhand chéo sân với nỗ lực    |
-| 70%. Bóng phải vượt lưới với ít nhất 1 meter khoảng cách, và rơi   |
-| vào trong sân cách vạch baseline ít nhất 1 meter. Nếu bóng thường  |
-| ra ngoài: quá ít topspin. Nếu bóng thường vào lưới: quá nhiều      |
-| topspin hoặc góc mặt vợt sai.                                      |
-+--------------------------------------------------------------------+
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Kiểm tra lượng topspin: Đánh 10 cú backhand chéo sân với nỗ lực |
+| 70%. Bóng phải vượt lưới với ít nhất 1 meter khoảng cách, và rơi |
+| vào trong sân cách vạch baseline ít nhất 1 meter. Nếu bóng thường |
+| ra ngoài: quá ít topspin. Nếu bóng thường vào lưới: quá nhiều |
+| topspin hoặc góc mặt vợt sai. |
+
 
 **6.3 Slice Backhand --- Vũ Khí Bí Mật**
 
@@ -1714,7 +1714,7 @@ Slice khác drive ở ba điểm chính: mặt vợt mở (30-45 độ), swing p
 cao xuống thấp (high to low), và contact điểm thường cao hơn.
 
 Preparation cho slice tương tự drive --- unit turn, take-back --- nhưng
-vợt ở vị trí cao hơn trong take-back. Tại contact, cánh tay \'cắt\' qua
+vợt ở vị trí cao hơn trong take-back. Tại contact, cánh tay 'cắt' qua
 dưới bóng từ cao xuống, tạo ra backspin (bóng quay ngược chiều với hướng
 bay).
 
@@ -1741,16 +1741,16 @@ lên.
 
 **6.3.3 Sai Lầm Slice Phổ Biến**
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
+| **LOI PHAT SINH** |
+| --- |
+|  |
 | Ba lỗi slice thường gặp ở level 3.5: 1. Cắt xuống quá đứng: vợt đi |
-| gần như thẳng đứng xuống dưới thay vì 45 độ chéo. Kết quả: bóng    |
-| ngắn, nảy cao, dễ tấn công. 2. Không giữ cánh tay duỗi: khuỷu co   |
-| vào trong contact. Kết quả: mất lực và kiểm soát. 3. Dừng vợt lại  |
-| sau contact: follow-through quá ngắn. Kết quả: bóng thiếu chiều    |
-| sâu và ngắn một cách nguy hiểm.                                    |
-+--------------------------------------------------------------------+
+| gần như thẳng đứng xuống dưới thay vì 45 độ chéo. Kết quả: bóng |
+| ngắn, nảy cao, dễ tấn công. 2. Không giữ cánh tay duỗi: khuỷu co |
+| vào trong contact. Kết quả: mất lực và kiểm soát. 3. Dừng vợt lại |
+| sau contact: follow-through quá ngắn. Kết quả: bóng thiếu chiều |
+| sâu và ngắn một cách nguy hiểm. |
+
 
 **6.4 Chuyển Đổi Linh Hoạt Giữa Ba Kiểu**
 
@@ -1791,7 +1791,7 @@ cho đến phút chót. Preparation cho flat, topspin, và slice backhand phải
 trông giống nhau từ phía đối thủ cho đến khi vợt tiếp xúc với bóng.
 
 Cách xây dựng deception: đảm bảo unit turn và take-back giống hệt nhau
-cho mọi loại backhand. Chỉ trong forward swing mới \'commit\' vào kiểu
+cho mọi loại backhand. Chỉ trong forward swing mới 'commit' vào kiểu
 đánh. Nếu preparation của bạn khác nhau (ví dụ: take-back cao hơn cho
 slice), đối thủ sẽ đọc được ý định của bạn.
 
@@ -1862,7 +1862,7 @@ và vai phải xoay ra sau tự nhiên.
 
 **7.3 Brace Step --- Chân Trước Và Tạo Nền**
 
-\'Brace step\' là bước cuối cùng trước khi đánh --- khi chân trước (chân
+'Brace step' là bước cuối cùng trước khi đánh --- khi chân trước (chân
 phải với người thuận tay phải) bước vào sân và tạo ra platform vững chắc
 cho cú đánh. Đây là bước quan trọng nhất trong sequence footwork của
 backhand closed stance.
@@ -1875,14 +1875,14 @@ step --- tạo nền vững (gối hướng vào sân, không sang ngang) và đ
 hướng chuyển trọng lượng về phía lưới.
 
 Nếu chân phải bước thẳng sang ngang (song song với baseline), trọng
-lượng khó chuyển về phía lưới --- bạn đang \'blocked\' theo chiều ngang.
+lượng khó chuyển về phía lưới --- bạn đang 'blocked' theo chiều ngang.
 Nếu bước thẳng về phía lưới, mất cân bằng side-to-side.
 
 **7.3.2 Timing Của Brace Step**
 
 Brace step xảy ra khi bạn biết chính xác nơi bóng sẽ đến. Bước quá sớm
-(trước khi bạn biết chính xác vị trí bóng) nghĩa là bạn hay bị \'sai vị
-trí\' và phải điều chỉnh thêm. Bước quá muộn nghĩa là bạn đang đánh
+(trước khi bạn biết chính xác vị trí bóng) nghĩa là bạn hay bị 'sai vị
+trí' và phải điều chỉnh thêm. Bước quá muộn nghĩa là bạn đang đánh
 trong khi chân chưa ổn định.
 
 Rule of thumb: brace step xảy ra khi bóng đang đi xuống sau điểm nảy cao
@@ -1891,20 +1891,20 @@ commit vào vị trí.
 
 **7.4 Running Backhand --- Phòng Thủ Chủ Động**
 
-\'Running backhand\' --- đánh backhand trong khi đang chạy --- là kỹ
+'Running backhand' --- đánh backhand trong khi đang chạy --- là kỹ
 năng phân biệt người chơi chỉ có thể đánh backhand từ vị trí tốt với
 người có thể chiến đấu trong mọi tình huống.
 
 **7.4.1 Kỹ Thuật Cơ Bản Của Running Backhand**
 
 Thách thức của running backhand: cơ thể đang di chuyển theo một hướng
-trong khi bạn cần swing theo hướng khác. Giải pháp là \'plant and
-pivot\' --- bước cuối cùng là plant step (dừng momentum), sau đó xoay
+trong khi bạn cần swing theo hướng khác. Giải pháp là 'plant and
+pivot' --- bước cuối cùng là plant step (dừng momentum), sau đó xoay
 nhanh từ plant step để đánh.
 
 Dimitrov là master của kỹ thuật này --- anh có thể chạy sang trái hết
 tốc độ, plant chân phải, và vẫn đánh backhand với lực và chiều sâu. Bí
-quyết: chân phải không chỉ dừng --- nó \'brace\' về phía sân để hấp thụ
+quyết: chân phải không chỉ dừng --- nó 'brace' về phía sân để hấp thụ
 momentum chạy và chuyển nó thành lực đánh.
 
 **7.4.2 Khi Nào Không Cố Đánh Running Backhand**
@@ -1913,14 +1913,14 @@ Với level 3.5, không phải lúc nào cũng nên cố đánh drive khi đang 
 Nếu bạn bị ép quá mức, slice backhand (hoặc thậm chí lob) an toàn hơn
 nhiều --- và vẫn có thể hiệu quả về chiến thuật.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Quy tắc quyết định cho running backhand: nếu bạn có thể đến bóng   |
-| và dừng hoàn toàn ít nhất 0.5 giây trước khi đánh --- đánh drive.  |
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Quy tắc quyết định cho running backhand: nếu bạn có thể đến bóng |
+| và dừng hoàn toàn ít nhất 0.5 giây trước khi đánh --- đánh drive. |
 | Nếu bạn vừa đến kịp và không thể dừng --- dùng slice. Nếu bóng quá |
-| xa --- lob cao và về phục hồi vị trí.                              |
-+--------------------------------------------------------------------+
+| xa --- lob cao và về phục hồi vị trí. |
+
 
 **7.5 Recovery Footwork Sau Backhand**
 
@@ -2064,14 +2064,14 @@ Pattern này yêu cầu slice backhand đủ chất lượng để buộc đối
 lên --- nếu slice của bạn nổi (không thấp sau nảy), đối thủ có thể tấn
 công. Cũng cần volley cơ bản ở mức hoạt động được.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Với level 3.5 muốn dùng pattern này: luyện tập slice backhand dài  |
-| (chạm ở hoặc ngay trước baseline đối thủ) là ưu tiên. Slice ngắn   |
-| là slice nguy hiểm --- đối thủ tấn công về phía sau bạn khi bạn    |
-| đang tiến lưới.                                                    |
-+--------------------------------------------------------------------+
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Với level 3.5 muốn dùng pattern này: luyện tập slice backhand dài |
+| (chạm ở hoặc ngay trước baseline đối thủ) là ưu tiên. Slice ngắn |
+| là slice nguy hiểm --- đối thủ tấn công về phía sau bạn khi bạn |
+| đang tiến lưới. |
+
 
 **8.5 Đọc Đối Thủ Và Điều Chỉnh**
 
@@ -2124,10 +2124,10 @@ trên nhiều hơn 30% cú backhand.
 28. Contact point quá muộn (sau người) --- mặt vợt tự nhiên xoay đóng
     lại khi bị đánh muộn.
 
-29. Swing path đi xuống thay vì lên --- không có \'lift\' để đưa bóng
+29. Swing path đi xuống thay vì lên --- không có 'lift' để đưa bóng
     qua lưới.
 
-30. Take-back quá thấp --- không có đủ \'drop\' để tạo ra low-to-high
+30. Take-back quá thấp --- không có đủ 'drop' để tạo ra low-to-high
     path.
 
 **9.1.3 Giao Thức Sửa Lỗi**
@@ -2139,17 +2139,17 @@ Bước 2: Kiểm tra contact point --- đánh vào tường chậm và dừng l
 điểm contact. Vị trí đó có trước chân trước 25-40cm không?
 
 Bước 3: Kiểm tra swing path --- shadow swing chậm, đầu vợt phải đi từ
-dưới bóng lên. Nếu đường đi nằm ngang hoặc xuống, thực hành \'brush up\'
+dưới bóng lên. Nếu đường đi nằm ngang hoặc xuống, thực hành 'brush up'
 --- imagine bạn đang đánh vào phần dưới của bóng và đẩy nó lên.
 
-+--------------------------------------------------------------------+
-| **BAI TAP THUC TE**                                                |
-|                                                                    |
+| **BAI TAP THUC TE** |
+| --- |
+|  |
 | Bài tập sửa lỗi vào lưới: Đứng cách lưới 3 mét. Đánh backhand chậm |
-| với mục tiêu bóng vượt lưới ít nhất 60cm. Mỗi khi bóng vào lưới,   |
-| hạ vợt xuống thấp hơn 5cm trong drop và tập lại. Tăng dần tốc độ   |
-| chỉ khi 10 cú liên tiếp qua lưới với margin tốt.                   |
-+--------------------------------------------------------------------+
+| với mục tiêu bóng vượt lưới ít nhất 60cm. Mỗi khi bóng vào lưới, |
+| hạ vợt xuống thấp hơn 5cm trong drop và tập lại. Tăng dần tốc độ |
+| chỉ khi 10 cú liên tiếp qua lưới với margin tốt. |
+
 
 **9.2 Lỗi 2: Bóng Ra Ngoài Cuối Sân**
 
@@ -2204,22 +2204,22 @@ vẫn thiếu pace và chiều sâu.
 
 **9.3.3 Giao Thức Sửa**
 
-Test đơn giản: thử shadow swing không vợt và \'clap\' tay tại điểm
+Test đơn giản: thử shadow swing không vợt và 'clap' tay tại điểm
 contact tưởng tượng. Âm thanh của tiếng vỗ tay thể hiện tốc độ tay. Bây
 giờ cầm vợt và cố tái tạo cùng tốc độ đó.
 
 Nếu tốc độ không có khi cầm vợt, vấn đề là cầm chặt quá. Thực hành
-\'loosen-tighten-loosen\' drill: bắt đầu swing với grip 3/10, tăng lên
+'loosen-tighten-loosen' drill: bắt đầu swing với grip 3/10, tăng lên
 7/10 tại contact, lỏng ngay sau.
 
-+--------------------------------------------------------------------+
-| **LOI PHAT SINH**                                                  |
-|                                                                    |
-| Sai lầm khi cố sửa thiếu lực: đánh mạnh hơn bằng cánh tay. Điều    |
-| này thường làm vấn đề tệ hơn vì cơ bắp tay co lại và cản trở       |
-| chuỗi. Lực phải đến từ chuỗi hoàn chỉnh, không từ effort đơn lẻ    |
-| của cánh tay.                                                      |
-+--------------------------------------------------------------------+
+| **LOI PHAT SINH** |
+| --- |
+|  |
+| Sai lầm khi cố sửa thiếu lực: đánh mạnh hơn bằng cánh tay. Điều |
+| này thường làm vấn đề tệ hơn vì cơ bắp tay co lại và cản trở |
+| chuỗi. Lực phải đến từ chuỗi hoàn chỉnh, không từ effort đơn lẻ |
+| của cánh tay. |
+
 
 **9.4 Lỗi 4: Thiếu Nhất Quán --- Bóng Đi Lúc Trái Lúc Phải**
 
@@ -2273,17 +2273,17 @@ Giải pháp dài hạn: tăng số correct reps đến mức kỹ thuật thự
 ngược từ 100 hoặc nói chuyện với ai đó, kỹ thuật đã đủ tự động.
 
 Giải pháp ngắn hạn: có một cue đơn giản để focus trong match --- ví dụ
-\'nhìn bóng\' hoặc \'hạ gối\'. Một cue duy nhất không overwhelm não,
+'nhìn bóng' hoặc 'hạ gối'. Một cue duy nhất không overwhelm não,
 nhưng vẫn đủ để kéo cơ thể về đúng kỹ thuật.
 
-+--------------------------------------------------------------------+
-| **LUU Y QUAN TRONG**                                               |
-|                                                                    |
-| Cue tốt nhất cho backhand dưới áp lực: \'Chân phải vào\' --- nhắc  |
-| bạn brace step và chuyển trọng lượng. Điều này đủ để kích hoạt     |
-| phần còn lại của chuỗi tự động hơn bất kỳ cue kỹ thuật phức tạp    |
-| nào khác.                                                          |
-+--------------------------------------------------------------------+
+| **LUU Y QUAN TRONG** |
+| --- |
+|  |
+| Cue tốt nhất cho backhand dưới áp lực: 'Chân phải vào' --- nhắc |
+| bạn brace step và chuyển trọng lượng. Điều này đủ để kích hoạt |
+| phần còn lại của chuỗi tự động hơn bất kỳ cue kỹ thuật phức tạp |
+| nào khác. |
+
 
 **CHƯƠNG 10**
 
@@ -2349,7 +2349,7 @@ tiếp.
 **Tuần 1:** Focus duy nhất --- Grip và cổ tay. Mỗi cú đánh, check grip
 trước khi đánh.
 
-**Tuần 2:** Focus duy nhất --- Unit turn và tay trái giữ vợt. Đếm \'1\'
+**Tuần 2:** Focus duy nhất --- Unit turn và tay trái giữ vợt. Đếm '1'
 khi vai xoay.
 
 **Tuần 3:** Focus duy nhất --- Hạ gối và drop vợt. Cảm nhận đùi chịu
@@ -2427,7 +2427,7 @@ trong rally 10+ cú.
 
 Phase 3 là giai đoạn quan trọng nhất về mặt tâm lý: chuyển từ kỹ thuật
 học được trong drill sang kỹ thuật hoạt động dưới áp lực. Đây là giai
-đoạn nhiều người chơi \'stuck\' --- kỹ thuật tốt trong drill nhưng sụp
+đoạn nhiều người chơi 'stuck' --- kỹ thuật tốt trong drill nhưng sụp
 đổ trong match.
 
 **10.4.2 Pressure Testing Methods**
@@ -2443,7 +2443,7 @@ Thiết kế drill có áp lực gia tăng dần dần:
 - Mini-matches: chơi điểm từ 0-7 với focus chỉ vào backhand --- mọi điểm
   phải bắt đầu bằng backhand cross-court.
 
-- \'Stress inoculation\': tập trong trạng thái mệt mỏi (cuối buổi tập)
+- 'Stress inoculation': tập trong trạng thái mệt mỏi (cuối buổi tập)
   để kỹ thuật quen với điều kiện match.
 
 **10.4.3 Thêm Tactical Patterns**
@@ -2535,7 +2535,7 @@ bạn tiến bộ.
 
 **10.7 Đo Lường Tiến Bộ --- KPIs Của Backhand**
 
-\'Không đo lường được là không cải thiện được.\' Đây là các chỉ số cụ
+'Không đo lường được là không cải thiện được.' Đây là các chỉ số cụ
 thể để theo dõi tiến bộ backhand theo từng phase:
 
 **10.7.1 Phase 1 KPIs**
@@ -2615,9 +2615,9 @@ cung cấp những thứ mà tài liệu không thể: phản hồi thời gian 
 
 **10.8.2 Tận Dụng HLV Hiệu Quả**
 
-Khi đến gặp HLV, đừng nói \'dạy tôi backhand\'. Thay vào đó: \'Tôi đang
+Khi đến gặp HLV, đừng nói 'dạy tôi backhand'. Thay vào đó: 'Tôi đang
 tập theo chương trình này, đây là điểm yếu của tôi theo đánh giá bản
-thân, tôi muốn anh/chị kiểm tra và sửa.\'
+thân, tôi muốn anh/chị kiểm tra và sửa.'
 
 Cách tiếp cận này: tiết kiệm thời gian của HLV (không phải giải thích từ
 đầu), cho thấy bạn đã chuẩn bị nghiêm túc, và tập trung vào vấn đề cụ

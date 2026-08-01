@@ -17,8 +17,7 @@ Does the same concept apply on the one-handed drive? Yes.
 
 ![A person in a yellow shirt on a football field with a crowd watching
 Description automatically generated with low
-confidence](media_1-2-rhythm-the-single-handed-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-the-single-handed-backhand/media/image1.webp)
 
 **Like other groundstrokes, the one-handed backhand is hit with 1-2
 Rhythm.**
@@ -30,7 +29,7 @@ set-up phase which is slower and feels smooth and deliberate. Part 2 is
 the execution phase, which is faster and has a feeling of explosion and
 high energy.
 
-The concept isn\'t based on the analysis of technical elements, which
+The concept isn't based on the analysis of technical elements, which
 sometimes can lead to paralysis. 1-2 Rhythm overcomes the paralysis
 issue by creating a different modality for activating strokes on court.
 
@@ -40,8 +39,7 @@ Why? Because players feel how to hit the ball more naturally\--the way
 most elite players actually learn.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-the-single-handed-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-single-handed-backhand/media/image2.webp)
 
 **In Phase 1 the racket points behind the player with the racket head
 above the hand\--the face can be slightly open.**
@@ -64,15 +62,14 @@ hand.
 **[[In Phase 1 the hand and racket travel further behind the body
 compared to the forehand or the two hander. The racket head at the
 completion of Phase 1 is actually pointing behind the body at the
-sideline to player\'s right.]{.mark}]{.underline}**
+sideline to player's right.]{.mark}]{.underline}**
 
 **[[At the completion of Phase 1, the racket head is also above the
 height of the hand.]{.underline}]{.mark}** The racket face may be on
 edge, but for Roger Federer and others it is actually slightly open.
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-the-single-handed-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-single-handed-backhand/media/image3.webp)
 
 **Phase 2: Acceleration begins with the racket drop and continues in an
 explosion through the hit.**
@@ -100,23 +97,22 @@ where the hand and racket stay on the hitting side throughout the motion
 in the purest ATP versions of the strokes.
 
 There is another important difference. **[[On the one-hander the racket
-face doesn\'t close or tilt downward as it does on the other two
+face doesn't close or tilt downward as it does on the other two
 strokes.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_1-2-rhythm-the-single-handed-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_1-2-rhythm-the-single-handed-backhand/media/image4.webp)
 
 **With the ATP forehand and two-hander, the hand and racket stay on the
-player\'s hitting side.**
+player's hitting side.**
 
 **[[But the racket does slow down or even pause fractionally at the end
 of this first phase. This is more like the two-hander than the
 forehand.]{.mark}]{.underline}**
 
 Because players like Federer or Richard Gasquet hit their backhands with
-such flowing style, it\'s sometimes difficult to recognize the
+such flowing style, it's sometimes difficult to recognize the
 explosiveness involved. But many of the most explosive backhands at the
 highest levels of the game are in fact one-handers.
 
@@ -137,8 +133,7 @@ example, the keys might be as simple as the numbers \"1-2\" which the
 player says to himself.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_1-2-rhythm-the-single-handed-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-single-handed-backhand/media/image5.webp)
 
 **Stan: a 1-2 Rhythm that resembles firing a canon.**
 
@@ -148,7 +143,7 @@ and the explosive acceleration of the hitting arms with \"2.\"
 
 The duration of \"1\" should be longer, corresponding with the slower
 first phase. \"2\" should be shorter in duration and possibly have a
-more aggressive tone inside the player\'s mind.
+more aggressive tone inside the player's mind.
 
 Every player should find the words that work for him, but here are some
 other examples that I have found powerful and effective. The first word
@@ -162,25 +157,24 @@ working, technique, feel, and timing are all part of the exquisite
 experience of hitting a powerful, well struck one-handed drive. Stay
 tuned next for the slice!
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                              | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_1-2-rhythm-the-single-handed-backhand/media/image6.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                                            | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                                           | competitions since formation, and over the last 2 |
-|                                                                                                                                                                                           | years alone, his junior players have won 19       |
-|                                                                                                                                                                                           | singles tournaments between them at county level. |
-|                                                                                                                                                                                           |                                                   |
-|                                                                                                                                                                                           | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                                           | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                                           | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                                           | players at all levels, including former British   |
-|                                                                                                                                                                                           | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                                           |                                                   |
-|                                                                                                                                                                                           | His unique teaching video series, covering every  |
-|                                                                                                                                                                                           | aspect of the game, is available on his website   |
-|                                                                                                                                                                                           | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                                           |                                                   |
-|                                                                                                                                                                                           | You can also                                      |
-+===========================================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_1-2-rhythm-the-single-handed-backhand/media/image6.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also |
+
 
 ------------------------------------------------------------------------

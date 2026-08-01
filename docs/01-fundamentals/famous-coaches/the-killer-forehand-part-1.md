@@ -4,59 +4,56 @@
 
 ### Nick Bollettieri
 
-The killer forehand isn\'t just about physical size and strength. Look
-at this young guy below on the right. Right now he\'s four feet tall,
-but he\'s got the proper technique and the proper fundamentals to give
-him a big, powerful forehand. Yeah, he\'s a little guy, but he\'s got
+The killer forehand isn't just about physical size and strength. Look
+at this young guy below on the right. Right now he's four feet tall,
+but he's got the proper technique and the proper fundamentals to give
+him a big, powerful forehand. Yeah, he's a little guy, but he's got
 the makings of a big killer forehand.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                                |
-+:==============================================================================================================================================================================:+
-| ![A child holding a tennis racket Description automatically generated with medium                                                                                              |
-| confidence](media_the-killer-forehand-part-1/media/image1.webp){width="2.9305555555555554in" |
-| height="2.2069444444444444in"}                                                                                                                                                 |
-|                                                                                                                                                                                |
-| **Technique, not size, is the secret of the Killer Forehand.**                                                                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A child holding a tennis racket Description automatically generated with medium |
+| confidence](media_the-killer-forehand-part-1/media/image1.webp) |
+|  |
+| **Technique, not size, is the secret of the Killer Forehand.** |
 
-We\'re going to show you all the ingredients necessary to develop the
-killer forehand. We\'ll show you the correct techniques for both
+
+We're going to show you all the ingredients necessary to develop the
+killer forehand. We'll show you the correct techniques for both
 movement and for the stroke.
 
-You\'ll learn the pros and cons of the various grips, how to create an
+You'll learn the pros and cons of the various grips, how to create an
 athletic foundation for better power and balance, first step reaction
-technique, all about footwork strides and footwork patterns, and you\'ll
+technique, all about footwork strides and footwork patterns, and you'll
 learn early and correct racquet preparation.
 
-We\'ll analyze the various hitting stances, your swing line and
-increasing your racquet speed, and We\'ll also look at the benefits of
+We'll analyze the various hitting stances, your swing line and
+increasing your racquet speed, and We'll also look at the benefits of
 using the opposite arm.
 
-You\'ll learn a new technique called **[[hip
+You'll learn a new technique called **[[hip
 loading]{.underline}]{.mark}** and **[[how to properly recover after the
 stroke.]{.underline}]{.mark}** Each of these areas are vital to the
 development of the killer forehand.
 
-In addition, you\'ll see how we have trained some of the top players in
+In addition, you'll see how we have trained some of the top players in
 the world at the academy, players like Xavier Malisse, Tommy Haas and
 Elena Bovina.
 
-Your killer forehand is going to be steady. The mentality\'s going to be
-that you\'re not going to miss it. You\'re going to hit it and hit it
+Your killer forehand is going to be steady. The mentality's going to be
+that you're not going to miss it. You're going to hit it and hit it
 and hit.
 
-**[[You\'re going to use your feet, your movement, your
-mentality.]{.underline}]{.mark}** Everything we\'ll show you is building
-up to give you the biggest killer forehand possible. So, let\'s get
+**[[You're going to use your feet, your movement, your
+mentality.]{.underline}]{.mark}** Everything we'll show you is building
+up to give you the biggest killer forehand possible. So, let's get
 started.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_the-killer-forehand-part-1/media/image2.webp){width="2.9305555555555554in"
-  height="2.2069444444444444in"}
+  generated](media_the-killer-forehand-part-1/media/image2.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **The Killer Forehand is steady. You\'re going to hit it and hit it and hit it.**
+  **The Killer Forehand is steady. You're going to hit it and hit it and hit it.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -64,7 +61,7 @@ started.
 
 **[[It all starts with the grip.]{.underline}]{.mark}** When I first
 began teaching the game of tennis, there was one or maybe two ways to
-hold a grip. Today, it\'s very different-you have a wide range of
+hold a grip. Today, it's very different-you have a wide range of
 options\--and grip has a major bearing on your style of play.
 
 There are three commonly used grips on the killer forehand. The Eastern,
@@ -72,8 +69,7 @@ the Semi-Western and the Full Western.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A picture containing text Description automatically                                                                                                                        ![Graphical user interface, text Description automatically                                                                                                                       ![A picture containing diagram Description automatically
-   generated](media_the-killer-forehand-part-1/media/image3.jpg){width="2.766418416447944in"   generated](media_the-killer-forehand-part-1/media/image4.jpg){width="2.6731878827646542in"   generated](media_the-killer-forehand-part-1/media/image5.jpg){width="2.681884295713036in"
-                                                                          height="2.0814009186351705in"}                                                                                                                                                 height="2.0239851268591424in"}                                                                                                                                                  height="2.030569772528434in"}
+   generated](media_the-killer-forehand-part-1/media/image3.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                            **The Eastern grip is very versatile. It offers great power and spin and can handle balls in any part of the strike zone.**                                                          **The Semi-Western grip is a popular pro grip. It produces power and spin with balls higher in the strike zone.**                                                              **The Western grip is very comfortable on higher balls. It produces heavy spin but lower balls can be difficult.**
 
@@ -85,16 +81,15 @@ practice before you develop a reliable forehand.
 Just how tightly do you hold the racket? Actually, you should hold it
 very loosely, just tight enough to keep it in your hand. Grip the
 racquet as you normally would and take a look at your fingertips. If you
-see them turning white, you\'re gripping too tight.
+see them turning white, you're gripping too tight.
 
-If you hold it too tight, that means your body\'s becoming tight, your
+If you hold it too tight, that means your body's becoming tight, your
 arm becomes tight, you lose flexibility. Let your hands work, let them
 be free.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                 ![A person walking on a tennis court Description automatically generated with medium
-   confidence](media_the-killer-forehand-part-1/media/image6.webp){width="2.9305555555555554in"
-                                                                           height="2.2069444444444444in"}
+   confidence](media_the-killer-forehand-part-1/media/image6.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **Your athletic height is about a foot less than your standing height.**
 
@@ -102,7 +97,7 @@ be free.
 
 ### The Strong Foundation
 
-If I\'ve said it once I\'ve said it a million times, the killer forehand
+If I've said it once I've said it a million times, the killer forehand
 starts with a strong foundation. A strong foundation starts with a ready
 position that allows you to be strong in all your movements and all your
 strokes.
@@ -122,8 +117,7 @@ gravity will improve your quickness, power and stability.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-killer-forehand-part-1/media/image7.webp){width="2.9305555555555554in"
-height="2.2069444444444444in"}
+confidence](media_the-killer-forehand-part-1/media/image7.webp)
 
   -------------------------------
   **The athletic trainer promotes
@@ -146,18 +140,17 @@ should play every point as if you were wearing the athletic movement
 trainer.
 
 We work and work to get that strong lower foundation. Why? Strong down
-below, strong up above. And that\'s the key: to have a perfect lower
+below, strong up above. And that's the key: to have a perfect lower
 foundation that allows you to use the upper part of the body.
 
 ### The Drop Step
 
-Let\'s work on the first step reaction footwork and **[[find the proper
+Let's work on the first step reaction footwork and **[[find the proper
 technique to go from rest into motion]{.underline}]{.mark}**.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A picture containing tennis, racket, person, sport Description automatically
-   generated](media_the-killer-forehand-part-1/media/image8.webp){width="2.9305555555555554in"
-                                                                          height="2.2069444444444444in"}
+   generated](media_the-killer-forehand-part-1/media/image8.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **The drop step gives you explosive movement for difficult balls.**
 
@@ -177,7 +170,7 @@ tires traction.]{.underline}]{.mark}**
 **[[In one quick move, the drop step establishes upper body momentum in
 the direction you need to move.]{.underline}]{.mark}**
 
-**[[When the ball\'s only three or four steps away from you, you won\'t
+**[[When the ball's only three or four steps away from you, you won't
 need such an explosive reaction. The weight shift and drive footwork is
 effective for less challenging balls.]{.underline}]{.mark}**
 
@@ -185,39 +178,36 @@ effective for less challenging balls.]{.underline}]{.mark}**
 
 There are lots of parts is developing the killer forehand and **[[an
 important part is timing.]{.underline}]{.mark}** **[[As soon as the ball
-leaves the opponent\'s racquet, that\'s when the preparation starts. And
-remember, you can\'t prepare too soon.]{.underline}]{.mark}**
+leaves the opponent's racquet, that's when the preparation starts. And
+remember, you can't prepare too soon.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-killer-forehand-part-1/media/image9.webp){width="2.9305555555555554in"
-                                                                           height="2.2069444444444444in"}
+   confidence](media_the-killer-forehand-part-1/media/image9.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                            **You can\'t prepare too soon to hit the Killer Forehand.**
+                                                            **You can't prepare too soon to hit the Killer Forehand.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To improve your reaction time, try this. Have your partner on the other
 side and when they make contact with the ball, say the word \"ball\".
-When it\'s your turn to hit it, say the word \"hit\".
+When it's your turn to hit it, say the word \"hit\".
 
 Not only will this put you in better position to hit more killer
-forehands, but it\'s also going to improve your reaction time and
+forehands, but it's also going to improve your reaction time and
 anticipation skills.
 
 In interviews, I always get the same question: what do you look for when
-you\'re looking for a possible professional player? I\'ll tell you what
-I\'m looking for. In order to have a killer forehand, you better have
+you're looking for a possible professional player? I'll tell you what
+I'm looking for. In order to have a killer forehand, you better have
 quick feet. You have to spring on that ball like a tiger.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                         |
-+:=======================================================================================================================================================================:+
-| ![](media_the-killer-forehand-part-1/media/image10.webp){width="2.9305555555555554in" |
-| height="2.2069444444444444in"}                                                                                                                                          |
-|                                                                                                                                                                         |
-| **If your heels are touching, you\'re in 10th gear.**                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![](media_the-killer-forehand-part-1/media/image10.webp) |
+|  |
+| **If your heels are touching, you're in 10th gear.** |
+
 
 Like riding in first gear on a bicycle, your first two to five steps
 have to be quick for maximum acceleration that will help you run down
@@ -233,10 +223,10 @@ the difficult balls, use first gear footwork.
 
 **[[First gear sprint footwork is always on the balls of the
 feet.]{.underline}]{.mark}** If your heels are touching the ground in
-the first two to five steps, you\'re in tenth gear.
+the first two to five steps, you're in tenth gear.
 
 Several footwork patterns are commonly used and can be considered the
-dance steps of tennis, allowing great players to appear as if they\'re
+dance steps of tennis, allowing great players to appear as if they're
 floating or gliding around the court.
 
   -------------------------------
@@ -245,7 +235,7 @@ floating or gliding around the court.
 
 ###    Crossover Step
 
-### ![A person running on a tennis court Description automatically generated with medium confidence](media_the-killer-forehand-part-1/media/image11.webp){width="3.3333333333333335in" height="2.5104166666666665in"}
+### ![A person running on a tennis court Description automatically generated with medium confidence](media_the-killer-forehand-part-1/media/image11.webp)
 
 **The crossover step allows for fluid side to side movement, quickly
 moving to and from the ball.**
@@ -253,8 +243,7 @@ moving to and from the ball.**
 **Cross Behind Step**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-killer-forehand-part-1/media/image12.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-1/media/image12.webp)
 
 **The cross behind step, which will be moving to the side and back as
 well as in recovery.**
@@ -265,7 +254,7 @@ well as in recovery.**
 
 ###   Shuffle Step
 
-### ![A picture containing sport, athletic game, tennis Description automatically generated](media_the-killer-forehand-part-1/media/image13.webp){width="3.3333333333333335in" height="2.5104166666666665in"}
+### ![A picture containing sport, athletic game, tennis Description automatically generated](media_the-killer-forehand-part-1/media/image13.webp)
 
 **The shuffle step covers short distances well.**
 
@@ -273,23 +262,21 @@ well as in recovery.**
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-killer-forehand-part-1/media/image14.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-1/media/image14.webp)
 
 **The adjustment steps are vital to fine tuning your balance and
 positioning in your hitting stance.**
 
 Have your coach watch your head as you move side to side. If there is
-excessive bobbing up and down, you\'re not gliding, you\'re wasting
+excessive bobbing up and down, you're not gliding, you're wasting
 energy. **[[One of the trademarks of a great athlete is the ability to
 move with footwork as graceful and smooth as a
-dance.]{.underline}]{.mark}** So that\'s Part 1 on the Killer Forehand.
+dance.]{.underline}]{.mark}** So that's Part 1 on the Killer Forehand.
 If you learned something, stay tuned for Part 2.
 
 ![A person wearing sunglasses Description automatically generated with
 medium
-confidence](media_the-killer-forehand-part-1/media/image15.jpeg){width="1.0958333333333334in"
-height="0.9909722222222223in"}
+confidence](media_the-killer-forehand-part-1/media/image15.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

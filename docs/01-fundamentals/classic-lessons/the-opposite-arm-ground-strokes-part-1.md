@@ -7,19 +7,18 @@
 ### Scott Murphy
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image1.webp)
 
-**It doesn\'t hold the racket, but the opposite arm makes a difference
+**It doesn't hold the racket, but the opposite arm makes a difference
 in the stroke.**
 
-As a teaching pro, I\'m always intrigued by what new students do with
+As a teaching pro, I'm always intrigued by what new students do with
 the opposite or non-racket arm during their strokes. For many players
-who haven\'t acquired it naturally, or been given good information, the
-role of the non-racket arm is sadly neglected. Players don\'t make a
-conscious decision to misuse the opposite arm, but after all, it\'s not
+who haven't acquired it naturally, or been given good information, the
+role of the non-racket arm is sadly neglected. Players don't make a
+conscious decision to misuse the opposite arm, but after all, it's not
 swinging the racket so what difference does it make? Well, watch the
-better tennis players and you\'ll start to understand that the
+better tennis players and you'll start to understand that the
 difference can be huge in terms of stroke mechanics, balance, timing,
 and control.
 
@@ -32,36 +31,34 @@ shot, but the quality of the shot will often be compromised.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opposite-arm-ground-strokes-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-opposite-arm-ground-strokes-part-1/media/image2.webp)
 
 **The opposite hand stays on the racket then releases and points across
 the body.**
 
-I can\'t tell you how many times I\'ve had students marvel at the
+I can't tell you how many times I've had students marvel at the
 difference they felt when shown the proper use of their opposite arm.
 Are you aware of what your non-racket arm does during your strokes?
-Certainly a pro can tell you, but it\'s a great idea to watch yourself
-on video so your mind\'s eye has a clearer image of what it will take to
-make a positive change. Once you\'ve done that, see how you match up
-with the thoughts in this article. In Part 1 this month, I\'ll discuss
+Certainly a pro can tell you, but it's a great idea to watch yourself
+on video so your mind's eye has a clearer image of what it will take to
+make a positive change. Once you've done that, see how you match up
+with the thoughts in this article. In Part 1 this month, I'll discuss
 the role of the non-racket arm in relation to the groundstrokes. In Part
-2 we\'ll look at the serve, the return, the volleys, and the overhead.
+2 we'll look at the serve, the return, the volleys, and the overhead.
 
 **Turn and Release**
 
-Let\'s start with the stroke that I would say has the biggest variety of
+Let's start with the stroke that I would say has the biggest variety of
 incorrect non-racket arm usage: the forehand. (Note: all descriptions
 are for right-handers). This is in part because there is much more
 opposite arm movement on the forehand than the backhand. Another factor
 is the variety of potential swing patterns and finish variations. But no
 matter what the grip style or the particular swing, the arms and hands
-of today\'s top player work cooperatively.
+of today's top player work cooperatively.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-opposite-arm-ground-strokes-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-opposite-arm-ground-strokes-part-1/media/image3.webp)
 
 **The pace car clears the path and the race car follows.**
 
@@ -81,10 +78,10 @@ net]{.underline}]{.mark}**. **[[It then releases back across the
 body]{.underline}]{.mark}. [[Simultaneously, the hitting arm completes
 the backswing and then the forward swing.]{.underline}]{.mark}**
 
-I\'ve always likened this to a \"pace car and race car\" situation. The
+I've always likened this to a \"pace car and race car\" situation. The
 left arm is the pace car, and the hitting arm is the race car. The left
 arm starts the right arm on its way and then says, \"Follow me!\"
-**[[It\'s important to note the route and the shape of the non-racket
+**[[It's important to note the route and the shape of the non-racket
 arm.]{.mark} [Typically, the angle of the arm will drop somewhat at the
 start of the forward swing. It will then start forward and across the
 body, tracing the arc that the racket hand will
@@ -100,27 +97,26 @@ down.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opposite-arm-ground-strokes-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-opposite-arm-ground-strokes-part-1/media/image4.webp)
 
 **The opposite hand traces the arc of the racket hand across the range
 of follow-throughs.**
 
 **[[This position is what allows players to \"catch\" the racket with
 the left hand]{.underline}]{.mark}**, a tried and true teaching maxim to
-help players develop follow-through. You don\'t see too many top players
-do this in matches, although it\'s more common to see it in the
+help players develop follow-through. You don't see too many top players
+do this in matches, although it's more common to see it in the
 warm-ups. But if you watch a player like Agassi in actual point play, on
 many balls his opposite arm and hand are in actually in the catching
-position or very close to it. **[[It\'s not the catching itself that
-matters. It\'s the position of the opposite arm in relation to the swing
+position or very close to it. **[[It's not the catching itself that
+matters. It's the position of the opposite arm in relation to the swing
 and the movement of the racket.]{.mark}]{.underline}**
 
 **[[This \"catching\" position correlates with more classical over the
 shoulder finishes.]{.underline}]{.mark}** But we know that in the modern
 game, there are a myriad of other forehand finishes. **[[The position of
 the opposite arm will vary with the finish of the racket itself.
-Depending on a player\'s grip and/or the kind of shot he\'s hitting, the
+Depending on a player's grip and/or the kind of shot he's hitting, the
 non racket hand can finish up around the shoulder, down below the hip,
 or somewhere in between.]{.underline}]{.mark}**
 
@@ -135,7 +131,7 @@ followthrough.]{.underline}]{.mark}**
 **[[Instead of pointing straight up as with the over the shoulder
 finish, on these lower finishes, the forearm points partially upward, or
 points forward. It all depends on the height of the
-racket.]{.underline}]{.mark}** **[[Again it\'s the \"pace car and race
+racket.]{.underline}]{.mark}** **[[Again it's the \"pace car and race
 car\" concept. The opposite hand will trace an arc that is similar to
 the path of the oncoming racket.]{.underline}]{.mark}**
 
@@ -149,8 +145,7 @@ opposite arm in relation to the racket, you may find you can develop the
 other finishes with the arms perfectly in sync.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image5.webp)
 
 **Develop the rhythm of coiling and uncoiling with shadow swings.**
 
@@ -162,29 +157,28 @@ the non racket arm, move it to the left of the body, or, even leave the
 left arm across the body too long.]{.underline}]{.mark}** With the left
 arm hanging at the side the likelihood is that there will be an
 insufficient coil and therefore a swing produced primarily from the
-right arm and not the right side. The stroke won\'t flow and results in
+right arm and not the right side. The stroke won't flow and results in
 what I call the \"fly swatter\" forehand.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image6.webp)
 
 **Some examples of how the opposite arm can impede the stroke.**
 
 If the arm moves to the left of the body you see and example of
-Newton\'s third law of motion. For every action there\'s an equal and
+Newton's third law of motion. For every action there's an equal and
 opposite reaction. As the racket tries to come forward, the left arm
 scissors across the body creating a block on the forward swing.
 
 Another problem can occur from leaving the left arm across the body too
 long. The left arm can actually get in your way. The path of the forward
-swing will be blocked and you\'ll be forced to \"arm\" the shot. This is
+swing will be blocked and you'll be forced to \"arm\" the shot. This is
 where the knowing the arc or path of the opposite arm in the forward
 swing comes in.
 
 A lesser problem occurs when players point the left arm straight ahead
-at the ball as it approaches. This is commonly taught, but it\'s not
-what the good players really do. It\'s not disastrous like the other
+at the ball as it approaches. This is commonly taught, but it's not
+what the good players really do. It's not disastrous like the other
 errors can be, but it restricts the coil compared to when the left hand
 stays on the racket and extends across the body. The straight-ahead
 point can also act like a magnet to draw the incoming ball too close to
@@ -192,29 +186,27 @@ the body.
 
 As to the timing of the release of the non-racket arm, practice the
 entire process of coiling and uncoiling, first with shadow swings.
-There\'s a definite feel and rhythm in swinging this way that becomes
+There's a definite feel and rhythm in swinging this way that becomes
 infectious. Remember that the timing of the forward swing should be such
 that the plane of the shoulders faces the target at contact or is a
 little closed depending on the grip.
 
-If the non-racket arm releases too early, you\'ll rotate too soon and
+If the non-racket arm releases too early, you'll rotate too soon and
 the racket will drag too far behind the shoulders. From shadow swings
 progress to hitting slow moving balls and then to balls at normal
 speeds, all the while putting the emphasis on the flow of the new model.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                   | ![A person swinging a tennis racket Description automatically                                                                                                                              | ![A person playing tennis Description automatically generated with medium                                                                                                        | ![A person swinging a tennis racket Description automatically                                                                                                                              |
-| confidence](media_the-opposite-arm-ground-strokes-part-1/media/image7.jpg){width="1.6320002187226597in" | generated](media_the-opposite-arm-ground-strokes-part-1/media/image8.jpg){width="1.5416666666666667in" | confidence](media_the-opposite-arm-ground-strokes-part-1/media/image9.jpg){width="1.53125in" | generated](media_the-opposite-arm-ground-strokes-part-1/media/image10.jpg){width="1.736000656167979in" |
-| height="2.8505599300087487in"}                                                                                                                                                              | height="2.875in"}                                                                                                                                                                          | height="2.875in"}                                                                                                                                                                | height="2.8427012248468944in"}                                                                                                                                                             |
-+:===========================================================================================================================================================================================:+:==========================================================================================================================================================================================:+:================================================================================================================================================================================:+:==========================================================================================================================================================================================:+
-| **4 common finishes with poor opposite arm position.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person swinging a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person swinging a tennis racket Description automatically |
+| --- | --- | --- | --- |
+| confidence](media_the-opposite-arm-ground-strokes-part-1/media/image7.jpg) |  |  |  |
+| **4 common finishes with poor opposite arm position.** |  |  |  |
+
 
 **[[One of the biggest problems]{.underline}]{.mark}** I see from
 players day in and day out is **[[that they get too close to the ball
 thereby cramping their hitting zone.]{.mark}]{.underline}** With that in
 mind, I have my students model a loaded open or square stance at the
-point where the non-racket arm is fully extended. I\'ll then either toss
+point where the non-racket arm is fully extended. I'll then either toss
 them a ball to catch while the arm stays in that position, or have them
 drop and hit a ball from that spot to demonstrate the best lateral
 distance for establishing the forehand hitting zone. **[[The non racket
@@ -222,8 +214,7 @@ arm therefore, over time, also becomes an effective measuring
 device.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image11.webp)
 
 **The ball catch with the extend left arm cures the tendency to crowd
 the ball.**
@@ -245,8 +236,7 @@ a critical component in the hitting of the both one and two handed
 backhand groundstrokes.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image12.webp)
 
 **Using the opposite arm to change the grip and prepare the
 one-hander.**
@@ -260,8 +250,7 @@ your grasp. As the racket arm moves in the direction of the target, the
 non racket arm moves simultaneously in the opposite direction.
 
 ![A person playing tennis Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image13.webp)
 
 **The opposite arm moves backwards and finishes at different heights
 depending on the spin.**
@@ -271,8 +260,8 @@ around]{.underline}]{.mark} with the start of the forward swing. By
 working as a counterbalance, they provide more power for the hitting
 shoulder to pull and drive the stroke in a direct line to the target[[.
 In other words, you want the plane of the shoulders as sideways as
-possible to the target at contact. It\'s important to note that if
-you\'re]{.underline}]{.mark}** **[[hitting a topspin backhand, the
+possible to the target at contact. It's important to note that if
+you're]{.underline}]{.mark}** **[[hitting a topspin backhand, the
 non-racket hand releases then moves backward and downward to around
 waist level.]{.underline}]{.mark}**
 
@@ -289,13 +278,12 @@ In the case of the two-handed backhand the second arm is better referred
 to as the non-dominant arm because it stays on the racket throughout.
 The two-handed backhand has always been, in my mind, more or less a
 forehand on the backhand side. **[[The arm configurations at contact of
-bent/bent, bent/straight and straight/straight don\'t change the fact
+bent/bent, bent/straight and straight/straight don't change the fact
 that the dominant arm needs the freedom to drive through the shot and
 extend at the finish as on a forehand.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image14.webp)
 
 **Regardless of the exact configuration at contact, the left arm needs
 the freedom to drive through the shot.**
@@ -308,46 +296,44 @@ Just imagine trying to hit a forehand with your elbow pinned to your
 hip. Not good!
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image15.webp)
 
 **The biggest non-dominant arm problem with two hands \-- the elbow
 stuck on the hip.**
 
 The extent to which the non-dominant elbow releases and extends will
-vary based on the shot that\'s called for. From the back of the court
+vary based on the shot that's called for. From the back of the court
 the height of the non-dominant elbow ranges from mid chest to shoulder
-height because this allows for the greater length of swing that\'s
+height because this allows for the greater length of swing that's
 called for from that distance. The non-dominant elbow position will be
-less high the closer to the net a player gets because there\'s not as
+less high the closer to the net a player gets because there's not as
 much court to work with.
 
 The two main culprits for the non dominant elbow on the hip are ball
-crowding and late timing of the forward swing. In either case it\'s a
+crowding and late timing of the forward swing. In either case it's a
 given that the non dominant elbow will be pinned to the hip. To avoid
 being to close to the ball on the two handed backhand I have my students
-err on the side of being too far away because it\'s natural, in general,
+err on the side of being too far away because it's natural, in general,
 to want to be right where the ball is when you hit it.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person hitting a ball with a tennis racket Description automatically
-  generated](media_the-opposite-arm-ground-strokes-part-1/media/image16.jpg){width="2.9277777777777776in"
-  height="2.1666666666666665in"}
+  generated](media_the-opposite-arm-ground-strokes-part-1/media/image16.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Using the outside foot as a measuring stick in the open stance reduces crowding.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I\'ve found that very often when a habitual ball crowder feels like
-he\'s going to be too far away he is, in fact, right where he should be.
-In any case, it\'s better to work at having to close a gap than to
+I've found that very often when a habitual ball crowder feels like
+he's going to be too far away he is, in fact, right where he should be.
+In any case, it's better to work at having to close a gap than to
 continually have no gap at all.
 
 **[[I also like to have players use their outside foot as a measuring
 stick. If the intent is to hit from a loaded open or open stance, the
 ball should be struck to the outside of that foot (left foot for a right
 hander).]{.underline}]{.mark}** If they start with that premise and wind
-up stepping in, as long as they don\'t close the stance too much there
+up stepping in, as long as they don't close the stance too much there
 should still be sufficient room. If you use a closed stance, be sure to
 leave plenty of room to absorb the room taken up by the cross step.
 
@@ -359,8 +345,7 @@ contacted in front of your center of gravity.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opposite-arm-ground-strokes-part-1/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-opposite-arm-ground-strokes-part-1/media/image17.webp)
 
 **Time the contact on the two-hander to stay in front of your center of
 gravity.**
@@ -372,13 +357,12 @@ well-timed contact. Once you establish the right hitting zone and
 consistently good timing, both arms will flow through the two-handed
 backhand.
 
-So that\'s it for the groundstrokes. In Part 2 I\'ll talk about the
+So that's it for the groundstrokes. In Part 2 I'll talk about the
 non-racket arm in conjunction with the serve, overhead, return of serve
 and volley.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-ground-strokes-part-1/media/image18.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-opposite-arm-ground-strokes-part-1/media/image18.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -392,7 +376,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

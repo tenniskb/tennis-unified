@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-diabolical-scoring-system-of-tennis/media/image1.jpg){width="4.861111111111111in"
-height="2.8055555555555554in"}
+confidence](media_the-diabolical-scoring-system-of-tennis/media/image1.jpg)
 
 **What makes the scoring system in tennis diabolical?**
 
@@ -19,7 +18,7 @@ this system is diabolical.]{.underline}]{.mark}**
 In other sports the score is generally cumulative throughout the
 contest, and whoever has the most points at the end wins. In baseball,
 for example, you simply keep adding up the runs, and the winning team is
-the one that has the most after 9 innings. It\'s very straightforward.
+the one that has the most after 9 innings. It's very straightforward.
 
 **[[Football, soccer, and basketball are essentially the same except
 that the game is over when time runs out.]{.underline}]{.mark}**
@@ -36,19 +35,18 @@ are up 5-4 and you reach game point. There is a huge swing in the match
 if you win that one point.
 
 ![A person playing tennis Description automatically
-generated](media_the-diabolical-scoring-system-of-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-diabolical-scoring-system-of-tennis/media/image2.webp)
 
 **Why is simply plugging away one point at a time the solution?**
 
 **[[You will have won about as many total points as your opponent, and
 should, for all intents and purposes be about even. But winning the next
 point gives you the set, and you suddenly have half the match under your
-belt. At the same time, you\'ve wiped out all of your opponent\'s
+belt. At the same time, you've wiped out all of your opponent's
 points.]{.underline}]{.mark}**
 
 **[[Essentially, you have half a match, and your opponent goes back to
-zero. That\'s an enormous discrepancy hinging on the outcome of a single
+zero. That's an enormous discrepancy hinging on the outcome of a single
 point, especially when the two players are actually about
 even.]{.underline}]{.mark}**
 
@@ -65,7 +63,7 @@ extraordinary pressure on the outcome of a single point.
   -----------------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_the-diabolical-scoring-system-of-tennis/media/image3.png)
   -----------------------------------------------------------------------------------------------------------------------------------------------------
-                                       **How big is a big point\--or any point? Click to hear Allen\'s analysis.**
+                                       **How big is a big point\--or any point? Click to hear Allen's analysis.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -75,7 +73,7 @@ important, and it becomes a sprint to the finish under a constant load
 of mental pressure.
 
 When one of the players gets to set point in the breaker, say at 6-5 or
-7-6, the pressure ratchets up yet another notch. If you\'re up, you are
+7-6, the pressure ratchets up yet another notch. If you're up, you are
 one point away from winning the set but only three point away from
 losing it.
 
@@ -93,8 +91,7 @@ be extremely close and hard-fought, swinging back and forth many times
 from deuce to ad. But if one player wins the game point, he gets the
 entire game and the other player gets zero.
 
-![](media_the-diabolical-scoring-system-of-tennis/media/image4.jpg){width="2.7777777777777777in"
-height="4.347222222222222in"}
+![](media_the-diabolical-scoring-system-of-tennis/media/image4.jpg)
 
   -------------------------------------------------
   **What if every 5 minutes the next basket counted
@@ -107,7 +104,7 @@ than any other point within the game. So the pressure within the game
 ratchets up as the score approaches game point. The deuce point gets
 tense just because it gives the winner game point.
 
-That\'s very different from the other sports. Try to imagine duplicating
+That's very different from the other sports. Try to imagine duplicating
 the tennis scoring system in basketball. In basketball the real pressure
 is normally at the end of a close game.
 
@@ -123,36 +120,35 @@ pressure, and choking. It is simply mentally tougher than most of the
 other sports.]{.underline}]{.mark}**
 
 **[[So what do you do about it? If you are not particularly confident
-(which most people players in fact aren\'t), you have to resist thinking
+(which most people players in fact aren't), you have to resist thinking
 about the score. Getting heavily involved with the score and winning the
 big points will make the unconfident player extremely
 nervous.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-diabolical-scoring-system-of-tennis/media/image5.jpg){width="2.5972222222222223in"
-                                                                            height="4.166666666666667in"}
+   ![](media_the-diabolical-scoring-system-of-tennis/media/image5.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **Assuming something good will happen increases the chance it will.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Of course you will rarely be able to totally forget about the score.
-It\'s a problem you can\'t completely solve, but you can make it better
+It's a problem you can't completely solve, but you can make it better
 or worse. Work to keep pushing the score to the back of your mind,
 rather than focusing on it. Unless you are deeply confident of winning,
-resist highlighting big points with thoughts like, \"Ok, it\'s set
-point! I\'ve got to win this one.\" This thinking will just make you
+resist highlighting big points with thoughts like, \"Ok, it's set
+point! I've got to win this one.\" This thinking will just make you
 more nervous, and lead to choking.
 
 Instead, concentrate narrowly. Do your best to lose yourself in watching
 the ball, staying relaxed, not reacting too strongly any point, creating
-good emotions, and executing your game plan. I\'ve written more
+good emotions, and executing your game plan. I've written more
 extensively about all of these factors in another Tennisplayer article
 called \"Becoming a Great Competitor.\" ([Click
 Here](Becoming%20a%20Great%20Competitor.docx).)
 
 **[[The secret is a paradox. To treat all the points the same, even
-though they aren\'t. Take the stance that all points are important, but
+though they aren't. Take the stance that all points are important, but
 none too important. Plug along, one point at a
 time.]{.underline}]{.mark}**
 
@@ -161,9 +157,9 @@ will be doing in the next few seconds. Then, simply assume something
 good will happen. This type of thinking about our diabolical scoring
 system will increase the chance that it will.]{.underline}]{.mark}**
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -172,62 +168,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                                         | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_the-diabolical-scoring-system-of-tennis/media/image6.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                                          | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                                          | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                                          | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                                          | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                                          |                                                                                                                       |
-|                                                                                                                                                                                          | [Click Here to                                                                                                        |
-|                                                                                                                                                                                          | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+==========================================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_the-diabolical-scoring-system-of-tennis/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                                         | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_the-diabolical-scoring-system-of-tennis/media/image7.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                                           | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                                          | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                                          | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                                          | his first hand and very personal observations of the        |
-|                                                                                                                                                                                          | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                                          | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                                          | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                                          | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                                          | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                                          | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                                          | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                                          | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                                          | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                                          | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                                          | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                                          | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                                          | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                                          | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                                          | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                                          |                                                             |
-|                                                                                                                                                                                          | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                                          | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                                          | 93401. The price includes shipping.                         |
-+==========================================================================================================================================================================================+=============================================================+
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                            | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_the-diabolical-scoring-system-of-tennis/media/image8.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                                          | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                                         | American player from the glory days before Open        |
-|                                                                                                                                                                                         | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                                         | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                                         | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                                         | program into an elite contender for national titles,   |
-|                                                                                                                                                                                         | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                                         | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                                         | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                                         | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                                         | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                                         |                                                        |
-|                                                                                                                                                                                         |                                                        |
-+=========================================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_the-diabolical-scoring-system-of-tennis/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_the-diabolical-scoring-system-of-tennis/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

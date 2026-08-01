@@ -5,11 +5,10 @@
 ### Scott Murphy
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-slice-or-underspin-backhand/media/image1.webp){width="2.6145833333333335in"
-height="2.4166666666666665in"}
+generated](media_the-slice-or-underspin-backhand/media/image1.webp)
 
 **Here I demonstrate the basics of the multi-purpose slice backhand -
-you can\'t be a successful competitor without it.**
+you can't be a successful competitor without it.**
 
 Despite the great emphasis today on the topspin power game, the fact
 remains having a slice backhand is an absolute must, whether you hit
@@ -19,26 +18,25 @@ The use of underspin is multi-faceted: for groundstrokes, return of
 serve, approach shots, half volleys, and volleys. Patrick Rafter is an
 example of a player who may use all of these possibilities in a single
 point. Andre Agassi may hit two-handers for 90 percent of a match, but
-suddenly call on the slice backhand in a given situation. Then there\'s
+suddenly call on the slice backhand in a given situation. Then there's
 the great Steffi Graf who hit virtually all of her backhands with
 underspin.
 
-You can\'t be a complete player or a successful competitor without it.
+You can't be a complete player or a successful competitor without it.
 In match play you need slice in a wide variety of situations: to
 neutralize a heavy topspin shot, to mix up the pace of a rally, to keep
 the ball low, to buy time on defense, and play balls that are low, high,
-wide, or short. (It\'s worthwhile mentioning that some tennis pundits
+wide, or short. (It's worthwhile mentioning that some tennis pundits
 prefer to call slice, \"underspin\" because in the literal sense a
 sliced ball curves. However, I think for most people the shots are
-considered one in the same and in this article I\'ll use the terms
+considered one in the same and in this article I'll use the terms
 interchangeably).
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-slice-or-underspin-backhand/media/image2.webp){width="2.65625in"
-height="2.25in"}
+confidence](media_the-slice-or-underspin-backhand/media/image2.webp)
 
-**Rafter\'s beautiful compact backhand slice - ideal for returns,
+**Rafter's beautiful compact backhand slice - ideal for returns,
 baseline rallies, and approach shots.**
 
 **Initial Difficulty**
@@ -49,13 +47,13 @@ to be difficult initially and have to be encouraged to stick with the
 shot, practicing its essential elements repeatedly until they become
 more familiar.
 
-Before covering those elements, I\'d like to dispel a couple of common
+Before covering those elements, I'd like to dispel a couple of common
 misconceptions about this shot. First, a good slice backhand is neither
 \"chopped\" nor \"scooped.\" Trying to use these motions can put the
 ball in the bottom of the net or cause it to pop up and float.
 
 **[[The best slice backhands are actually drives]{.underline}]{.mark}**
-that can be hit with varying degrees of underspin, and we\'ll present
+that can be hit with varying degrees of underspin, and we'll present
 the proper swing trajectory to allow you to do this.
 
 ### Grip
@@ -65,8 +63,7 @@ hit slice. This is because the continental allows the player to open the
 racquet face more naturally.
 
 ![A picture containing person Description automatically
-generated](media_the-slice-or-underspin-backhand/media/image3.jpg){width="2.65625in"
-height="3.0625in"}
+generated](media_the-slice-or-underspin-backhand/media/image3.jpg)
 
 **The continental is the most widely used and effective grip for the
 slice backhand.**
@@ -76,36 +73,35 @@ contention, usually because they are not using it effectively in other
 aspects of their game, such as the serve or the volleys. Trying to learn
 the slice, players have a tendency to quickly switch back to their old
 backhand grips. For a one-hander, this is the full eastern backhand. For
-a two-hander, it\'s usually a right-handed forehand grip.
+a two-hander, it's usually a right-handed forehand grip.
 
 While it is possible to hit a version of the slice with a full (or
-strong) backhand grip, players who don\'t shift to the continental
+strong) backhand grip, players who don't shift to the continental
 ultimately work a lot harder to do so. This is because, with the
-stronger grip, it\'s much harder to **[[get the leading edge of the
+stronger grip, it's much harder to **[[get the leading edge of the
 racquet on the outside of the ball.]{.underline}]{.mark}** The result,
 typically, is a ball with too much sidespin that is also much harder to
 direct, and sacrifices pace. At the other extreme, trying to slice with
 a forehand grip will cause the ball to float, as well as create possible
 stress on the wrist.
 
-Granted, if you haven\'t used it before, the first attempts with a
+Granted, if you haven't used it before, the first attempts with a
 Continental grip can be very disorienting. But with a real understanding
 of what makes it work and lots of repetition, this shot will eventually
-become very comfortable. In fact, many experienced players think it\'s
+become very comfortable. In fact, many experienced players think it's
 the most natural and flowing stroke in the game.
 
 ### Preparation Phase
 
 As with all other shots, start by making sure **[[you use your eyes
 effectively.]{.underline}]{.mark}** The earlier you see the ball off
-your opponent\'s racquet the sooner you\'ll be able to determine if your
-reply needs to be hit with slice, and the more quickly you\'ll be able
+your opponent's racquet the sooner you'll be able to determine if your
+reply needs to be hit with slice, and the more quickly you'll be able
 to get into position to hit it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-slice-or-underspin-backhand/media/image4.jpg){width="2.6041666666666665in"
-height="3.0in"}
+confidence](media_the-slice-or-underspin-backhand/media/image4.jpg)
 
 **Mark Philippoussis demonstrates a perfect turn for the slice backhand.
 Note the step with the left foot and the full coil.**
@@ -139,7 +135,7 @@ position is poor.
 
 ###  Completion Phase
 
-### ![](media_the-slice-or-underspin-backhand/media/image5.jpg){width="2.4375in" height="2.1145833333333335in"}
+### ![](media_the-slice-or-underspin-backhand/media/image5.jpg)
 
 **Your hitting arm should bend at about 45 degrees on the turn. The
 racket face is open, the edges close to even.**
@@ -153,20 +149,19 @@ is a common source of errors when hitting with
 underspin.]{.underline}]{.mark}**
 
 ***[[Avoid hitting from an open stance. Ideally you want to step into
-the shot, but if you\'re forced to step more across your body that\'s
+the shot, but if you're forced to step more across your body that's
 usually ok.]{.underline}]{.mark}*** **[This is because you can still hit
 the slice well with a somewhat later contact point than on the other
 groundstrokes.]{.underline}**
 
-**[With this later contact point, you\'re able to carry the ball longer
+**[With this later contact point, you're able to carry the ball longer
 because it allows for maximum extension of the arm into the
 shot.]{.underline}** ***[[Hitting a slice backhand too early can
 actually result in a weak, \"floaty\" shot or a ball that lands in the
 net.]{.underline}]{.mark}***
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-slice-or-underspin-backhand/media/image6.jpg){width="2.7395833333333335in"
-height="2.3229166666666665in"}
+generated](media_the-slice-or-underspin-backhand/media/image6.jpg)
 
 **While contact is still at the front edge of the body, the slice can be
 hit with a somewhat later contact point than other groundstrokes.**
@@ -180,7 +175,7 @@ high with the hand position close to the same height as a topspin
 drive.]{.underline}]{.mark}**
 
 For these reasons, I prefer the racquet head start only slightly above
-where you\'ll actually contact the ball. This makes for a simpler swing
+where you'll actually contact the ball. This makes for a simpler swing
 that allows you to generate plenty of spin, but still \"drive\" the
 ball.
 
@@ -190,8 +185,7 @@ the finish.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                              ![Map Description automatically
-  confidence](media_the-slice-or-underspin-backhand/media/image7.jpg){width="2.9920002187226595in"   generated](media_the-slice-or-underspin-backhand/media/image8.jpg){width="2.3153576115485563in"
-  height="2.5662160979877515in"}                                                                                                                                                         height="2.5654166666666667in"}
+  confidence](media_the-slice-or-underspin-backhand/media/image7.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The finish position on the slice. Too much emphasis on hitting high to low can cause the ball to float.**                                                                            **Note how Rafter keeps his shoulders almost square to the net with his non-hitting arm moving in the opposite direction from the hit.**
 
@@ -199,7 +193,7 @@ the finish.
 
 High speed video shows that at contact the racquet head will actually be
 square to the court. But trying to consciously create this position
-leads to real trouble. **[[Don\'t use the wrist to adjust the racquet
+leads to real trouble. **[[Don't use the wrist to adjust the racquet
 face.]{.underline}]{.mark}** Visualize the face as slightly open at
 contact and allow the forearm to roll through the shot naturally and
 make the adjustment. The racquet face will naturally reopen and stay
@@ -217,8 +211,7 @@ arm in the opposite direction.]{.underline}]{.mark}**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_the-slice-or-underspin-backhand/media/image9.webp){width="2.9166666666666665in"
-  height="2.4791666666666665in"}
+  generated](media_the-slice-or-underspin-backhand/media/image9.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Philippoussis hitting through a backhand slice return - a must for a well-rounded game at all levels.**
 
@@ -227,21 +220,20 @@ arm in the opposite direction.]{.underline}]{.mark}**
 ### Distance to the Ball
 
 **[[Finding the ideal distance between your body and the ball takes
-experience. If you\'re too close, you\'ll wind up leading the swing with
+experience. If you're too close, you'll wind up leading the swing with
 your elbow, in which case the racquet face will be late and too open. If
-you\'re too far away your arm will be overe-xtended and you won\'t be
+you're too far away your arm will be overe-xtended and you won't be
 able to get any bite on the ball. For high-bouncing balls however, you
 do want to keep your body somewhat further away, and let your front leg
 straighten during the hit.]{.underline}]{.mark}**
 
 That covers the basic mechanics of generating slice, something you can
-apply to many situations, some of which we\'ll be discussing in further
+apply to many situations, some of which we'll be discussing in further
 lessons. No matter what style you play, it will make your game more
 flexible and well-rounded.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-slice-or-underspin-backhand/media/image10.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-slice-or-underspin-backhand/media/image10.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -255,7 +247,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

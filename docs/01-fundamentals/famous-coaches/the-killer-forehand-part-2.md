@@ -4,13 +4,13 @@
 
 ### Nick Bollettieri
 
-### ![A person swinging a baseball bat Description automatically generated](media_the-killer-forehand-part-2/media/image1.webp){width="3.3333333333333335in" height="2.5104166666666665in"}
+### ![A person swinging a baseball bat Description automatically generated](media_the-killer-forehand-part-2/media/image1.webp)
 
-### In the batter\'s box with the [open stance]{.underline} Killer Forehand.
+### In the batter's box with the [open stance]{.underline} Killer Forehand.
 
 ### Hitting Stances
 
-You can\'t fire a canon from a canoe. And you can\'t hit the Killer
+You can't fire a canon from a canoe. And you can't hit the Killer
 Forehand without a good hitting stance.
 
 **The hitting stances provide power, balance and disguise for your
@@ -20,43 +20,41 @@ allows you all shot possibilities.]{.underline}**
 **[[The two desirable hitting stances are an open stance and a neutral
 stance.]{.underline}]{.mark}**
 
-For a better understanding of that, let\'s go to the sport of baseball.
+For a better understanding of that, let's go to the sport of baseball.
 The batter has to start outside the batters box before the pitch is
 thrown and then had to enter the box as the pitcher throws the ball.
 
 ![A person playing a guitar Description automatically generated with low
-confidence](media_the-killer-forehand-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-2/media/image2.webp)
 
 **To master the Killer Forehand you must also hit from [a neutral
 stance]{.underline}.**
 
-The batter went into the box with his back foot. In tennis, that\'s
+The batter went into the box with his back foot. In tennis, that's
 called the open stance forehand.
 
 The killer forehand also is hit using the neutral stance where the front
 foot steps forward toward the target. You must master hitting the killer
 forehand from both the open and the neutral stance.
 
-You\'ll notice the open stance has only the backfoot in the batter\'s
-box. Frequently, there\'s no time to step into the ball and you\'re
+You'll notice the open stance has only the backfoot in the batter's
+box. Frequently, there's no time to step into the ball and you're
 forced to hit from the open stance. The neutral stance allows you to
 drive your weight into the ball and is commonly used when coming forward
-and often when the ball\'s hit down the center.
+and often when the ball's hit down the center.
 
 **[A common error made many players is using the closed hitting stance.
-That]{.mark}** **[would be the same as the batter entering the batter\'s
+That]{.mark}** **[would be the same as the batter entering the batter's
 box with their front foot first.]{.mark}**
 
 ![A person running on a tennis court Description automatically generated
 with medium
-confidence](media_the-killer-forehand-part-2/media/image3.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-2/media/image3.webp)
 
 **A [closed stance]{.underline} is firing the Killer Forehand from a
 canoe.**
 
-**[In the closed stance, everything changes. When you\'re forced to hit
+**[In the closed stance, everything changes. When you're forced to hit
 from a close stance, you have to reach to make contact while also snap
 your wrist. [This turns your contact zone into a contact
 point.]{.mark}]{.underline}**
@@ -72,8 +70,7 @@ preparation. Your hitting hand and feet must work together.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-killer-forehand-part-2/media/image4.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-2/media/image4.webp)
 
 **Your hitting hand and feet work together for early preparation and the
 correct stance.**
@@ -90,14 +87,13 @@ flashlight to the path of the oncoming ball.]{.underline}]{.mark}**
 backswing.]{.underline}]{.mark}**
 
 You can get a better feel for ideal alignment with the baseball glove
-drill. Check and see if you\'re entering the adjustment zone with your
+drill. Check and see if you're entering the adjustment zone with your
 hand and racquet ahead of your body. This will automatically set you
 into an open stance with the option of stepping into the neutral stance.
 
 ![A person riding a skateboard on a ramp Description automatically
 generated with medium
-confidence](media_the-killer-forehand-part-2/media/image5.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-2/media/image5.webp)
 
 **Your hand and racket must arrive before your body.**
 
@@ -110,12 +106,11 @@ inside to outside giving you the killer forehand.]{.underline}]{.mark}**
 this is where it all comes together.]{.underline}]{.mark}** Good
 foundation, early first reaction, good footwork, technique moving to the
 ball and early and correct preparation has you in a killer forehand
-hitting stance. Now you\'re ready to fire forward.
+hitting stance. Now you're ready to fire forward.
 
-![](media_the-killer-forehand-part-2/media/image6.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+![](media_the-killer-forehand-part-2/media/image6.webp)
 
-**Pulling a towel out of your partner\'s hand simulates the stroke.**
+**Pulling a towel out of your partner's hand simulates the stroke.**
 
 To get a better understanding of forward racquet acceleration, use the
 towel and have your partner pull it out of your hands. It simulates the
@@ -124,8 +119,8 @@ stroke.
 **To test your flight path or swing line, have someone stand behind you
 with the racquet between their hands. [[The racquet needs to pull
 forward, straight out of]{.underline}]{.mark} [[the
-slot]{.underline}]{.mark}**. Don\'t let the racquet touch either hand on
-the way out. What we don\'t want to see is the racquet touching the hand
+slot]{.underline}]{.mark}**. Don't let the racquet touch either hand on
+the way out. What we don't want to see is the racquet touching the hand
 first. Not good. No power. No killer forehand.
 
 Put your stroke to the test to see if you can make it out of the slot
@@ -133,18 +128,17 @@ unscathed. For maximum racquet and speed, you must pull the trigger.
 
 ![A picture containing tennis, racket, person, sport Description
 automatically
-generated](media_the-killer-forehand-part-2/media/image7.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+generated](media_the-killer-forehand-part-2/media/image7.webp)
 
 **Pull the racket out of the slot without touching the hands.**
 
 **As you pull the trigger and the racquet starts forward out of the
 slot,** **[[the path which your arm travels is called your swing
 line.]{.mark}]{.underline}** If you watch the right elbow through the
-stroke, you\'ll notice that it travels on a diagonal line out and across
+stroke, you'll notice that it travels on a diagonal line out and across
 the body as the racquet accelerates into the ball.
 
-**[[By extending to a full reach on your follow through, you\'ll create
+**[[By extending to a full reach on your follow through, you'll create
 a contact zone that can be upwards of 18 inches in length, giving you
 better margin for error and control.]{.underline}]{.mark}**
 
@@ -153,8 +147,7 @@ out in front of your body.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_the-killer-forehand-part-2/media/image8.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}\
+confidence](media_the-killer-forehand-part-2/media/image8.webp)\
 **Following the diagonal elbow path can length your potential contact
 zone to as much as 18 inches.**
 
@@ -174,8 +167,7 @@ especially under pressure.]{.underline}]{.mark}**
 
 ![A picture containing text, sky, outdoor, person Description
 automatically
-generated](media_the-killer-forehand-part-2/media/image9.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+generated](media_the-killer-forehand-part-2/media/image9.webp)
 
 **[[The follow-through is the key to executing under
 pressure.]{.underline}]{.mark}**
@@ -189,7 +181,7 @@ stays on track.]{.underline}]{.mark}**
 
 **[[The use of the opposite arm is essential]{.underline}]{.mark} in
 generating killer forehand speed while maintaining consistency and
-accuracy.** When you\'re forced wide in the court, your opposite arm can
+accuracy.** When you're forced wide in the court, your opposite arm can
 serve as a counterbalance keeping your shoulders level through the
 stroke.
 
@@ -201,15 +193,14 @@ Practice hitting with a small weight in your hand. This simulates the
 feel of the counterbalance and the anchoring effect in the stroke.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-killer-forehand-part-2/media/image10.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+confidence](media_the-killer-forehand-part-2/media/image10.webp)
 
 **The opposite arm anchors your swing and provides balance and a strong
 pulling action.**
 
 When the conditions are right to rip the killer forehand, the opposite
 arm is used in a sweeping motion, stretching the chest muscles into the
-stroke, much like a baseball pitcher\'s glove arm. This sweeping action
+stroke, much like a baseball pitcher's glove arm. This sweeping action
 lengthens the lever providing additional power through shoulder
 rotation.
 
@@ -218,15 +209,14 @@ opposite arm is to practice the hand on the hip drill. This will give
 you the feel of stretching the chest muscles into the stroke.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-killer-forehand-part-2/media/image11.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+generated](media_the-killer-forehand-part-2/media/image11.webp)
 
 **The hand on hip drill gives you the feeling of stretching the chest
 muscles.**
 
 **[The opposite arm can anchor down the stroke on the wide shots and
 lengthen the lever with a sweeping action to give you more power on your
-killer forehand.]{.mark}** **[Either way, it\'s always serving as a
+killer forehand.]{.mark}** **[Either way, it's always serving as a
 counterbalance to the stroke.]{.underline}** Check and see how your
 stroke matches up to the pocket killer forehand.
 
@@ -238,8 +228,7 @@ arm, this technique will put your killer forehand over the top. Practice
 hitting strictly off your back foot, sinking your weight down.
 
 ![A person running on a tennis court Description automatically
-generated](media_the-killer-forehand-part-2/media/image12.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+generated](media_the-killer-forehand-part-2/media/image12.webp)
 
 **Loading the weight in the back of the stance adds explosiveness.**
 
@@ -254,16 +243,15 @@ stance.]{.underline}]{.mark}**
 loading line, together with the opposite arm use will put the finishing
 touches to achieving killer forehand speed.]{.underline}]{.mark}**
 
-Remember, don\'t overhit. Remember, when we are building a big forehand,
-we aren\'t hoping one of five go will go in. We want five out of five to
+Remember, don't overhit. Remember, when we are building a big forehand,
+we aren't hoping one of five go will go in. We want five out of five to
 go in. Otherwise, what is a so-called big forehand really worth?
 
 ![A picture containing sport, outdoor, athletic game Description
 automatically
-generated](media_the-killer-forehand-part-2/media/image13.webp){width="3.3333333333333335in"
-height="2.5104166666666665in"}
+generated](media_the-killer-forehand-part-2/media/image13.webp)
 
-**Practice and master each concept and you\'ll have your own killer
+**Practice and master each concept and you'll have your own killer
 forehand.**
 
 ###  Summary
@@ -274,13 +262,12 @@ are]{.underline}]{.mark}**: **[[the proper grip, a strong foundation,
 first step reaction, the hitting stance, racket head acceleration, the
 follow-through the opposite arm, and loading with the back
 leg.]{.mark}]{.underline}** Practice each of these concepts until you
-have them mastered and soon, you\'ll be known for having a killer
+have them mastered and soon, you'll be known for having a killer
 forehand.
 
 ![A person wearing sunglasses Description automatically generated with
 medium
-confidence](media_the-killer-forehand-part-2/media/image14.jpeg){width="1.0958333333333334in"
-height="0.9909722222222223in"}
+confidence](media_the-killer-forehand-part-2/media/image14.jpeg)
 
 Nick Bollettieri is the legendary coach who invented the concept of the
 tennis academy more than 30 years ago. He has trained thousands of elite

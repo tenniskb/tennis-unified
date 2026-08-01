@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 Here is a succinct, wonderful article on forehand spin variations from
-my teaching colleague and good friend Weston Reese. We\'ve looked in
+my teaching colleague and good friend Weston Reese. We've looked in
 detail at the windshield wiper finish and how it relates to spin many
 times.
 
@@ -20,8 +20,7 @@ applies across the range of forehand grips. I like it a lot!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-spin-dial/media/image2.jpeg){width="1.7680555555555555in"
-height="1.7680555555555555in"}
+confidence](media_the-spin-dial/media/image2.jpeg)
 
 Weston Reese is Director of Tennis Emeritus at the Bay Club in South San
 Francisco. He has been a teaching pro and tennis director for over 40

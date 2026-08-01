@@ -60,14 +60,14 @@ hơn\" --- mà là hệ thống hiệu chỉnh lỗi hiệu quả hơn. Người
 cao không bao giờ đánh bóng hoàn hảo, nhưng họ sai ít hơn và sửa nhanh
 hơn. Đây chính xác là những gì Tầng 2 --- PID Control --- mô tả.
 
-+-----------------------------------------------------------------------+
-| **🎯 Định nghĩa Tầng 2**                                              |
-|                                                                       |
-| PID (Proportional-Integral-Derivative) là hệ thống tự hiệu chỉnh lỗi  |
-| trong thời gian thực. Trong tennis, đây là cơ chế não và cơ thể liên  |
-| tục đo lường sai lệch giữa kết quả thực tế và kết quả mong muốn, sau  |
-| đó tự điều chỉnh mà không cần sự can thiệp có ý thức của người chơi.  |
-+-----------------------------------------------------------------------+
+| **🎯 Định nghĩa Tầng 2** |
+| --- |
+|  |
+| PID (Proportional-Integral-Derivative) là hệ thống tự hiệu chỉnh lỗi |
+| trong thời gian thực. Trong tennis, đây là cơ chế não và cơ thể liên |
+| tục đo lường sai lệch giữa kết quả thực tế và kết quả mong muốn, sau |
+| đó tự điều chỉnh mà không cần sự can thiệp có ý thức của người chơi. |
+
 
 Điều quan trọng cần hiểu ngay từ đầu: PID không phải là thứ người chơi
 \"nghĩ đến\" khi đánh bóng. Nó là hệ thống vô thức hoạt động bên dưới
@@ -105,14 +105,14 @@ huống. Một người chơi giỏi không phải là người có P, I, D cao 
 mà là người có khả năng tự động điều chỉnh trọng số của từng thành phần
 cho phù hợp với từng tình huống trong trận đấu.
 
-+-----------------------------------------------------------------------+
-| **🎯 Setpoint trong tennis là gì?**                                   |
-|                                                                       |
-| Setpoint không phải là một điểm cố định. Nó thay đổi theo từng shot:  |
-| \"bóng vào góc trái sâu 1m cách đường baseline\" là một setpoint.     |
-| \"Bóng cross-court với topspin vừa\" là một setpoint khác. Não liên   |
-| tục tạo ra setpoint mới và PID liên tục cố gắng đạt đến nó.           |
-+-----------------------------------------------------------------------+
+| **🎯 Setpoint trong tennis là gì?** |
+| --- |
+|  |
+| Setpoint không phải là một điểm cố định. Nó thay đổi theo từng shot: |
+| \"bóng vào góc trái sâu 1m cách đường baseline\" là một setpoint. |
+| \"Bóng cross-court với topspin vừa\" là một setpoint khác. Não liên |
+| tục tạo ra setpoint mới và PID liên tục cố gắng đạt đến nó. |
+
 
 **3. P --- Proportional: Phản Ứng Tức Thời Với Lỗi Hiện Tại**
 
@@ -170,14 +170,14 @@ P-gain cần được **điều chỉnh tự động theo tình huống**:
   lỗi nhưng kém với loại khác. Phổ biến nhất: phản ứng tốt với bóng
   ngang nhưng kém với bóng thấp.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill tối ưu hóa P-gain**                                        |
-|                                                                       |
-| Random ball feed: coach feed bóng ngẫu nhiên sang các vị trí khác     |
-| nhau mà người chơi không biết trước. Mục tiêu không phải đánh mạnh    |
-| --- mà là tiếp xúc được bóng ở điểm contact đúng nhất có thể. Đây là  |
-| drill calibrate P-gain hiệu quả nhất.                                 |
-+-----------------------------------------------------------------------+
+| **🎯 Drill tối ưu hóa P-gain** |
+| --- |
+|  |
+| Random ball feed: coach feed bóng ngẫu nhiên sang các vị trí khác |
+| nhau mà người chơi không biết trước. Mục tiêu không phải đánh mạnh |
+| --- mà là tiếp xúc được bóng ở điểm contact đúng nhất có thể. Đây là |
+| drill calibrate P-gain hiệu quả nhất. |
+
 
 **4. I --- Integral: Tích Lũy và Bù Lỗi Hệ Thống**
 
@@ -238,14 +238,14 @@ trong 8 game. Đối thủ đột ngột chuyển sang slice thấp. Hệ thốn
 quá cao với slice. Đây là lý do cần \"reset\" tư duy tâm lý sau mỗi
 điểm, sau mỗi game --- để tránh integral windup.
 
-+-----------------------------------------------------------------------+
-| **🎯 Tư duy reset (anti-windup)**                                     |
-|                                                                       |
+| **🎯 Tư duy reset (anti-windup)** |
+| --- |
+|  |
 | Djokovic nổi tiếng với \"bounce, bounce\" --- gõ bóng nhiều lần trước |
-| khi serve. Đây không chỉ là ritual --- đây là cơ chế reset hệ thống   |
-| I, xóa bộ nhớ tích lũy của điểm trước và bắt đầu tích lũy mới. Hãy    |
-| dạy học viên có ritual reset có ý thức giữa các điểm.                 |
-+-----------------------------------------------------------------------+
+| khi serve. Đây không chỉ là ritual --- đây là cơ chế reset hệ thống |
+| I, xóa bộ nhớ tích lũy của điểm trước và bắt đầu tích lũy mới. Hãy |
+| dạy học viên có ritual reset có ý thức giữa các điểm. |
+
 
 **5. D --- Derivative: Giảm Chấn và Dự Đoán Xu Hướng**
 
@@ -292,14 +292,14 @@ spin, hoặc có những movement vội vàng không cần thiết khi đọc sa
 trajectory ban đầu. Cách sửa là luyện tập với bóng spin không đều để
 D-component học cách filter noise trước khi phản ứng.
 
-+-----------------------------------------------------------------------+
-| **🎯 Hình ảnh D-component**                                           |
-|                                                                       |
+| **🎯 Hình ảnh D-component** |
+| --- |
+|  |
 | Nghĩ về một người đang nắm bắt một quả bóng bay đến. Tay không chỉ di |
 | chuyển đến nơi bóng đang ở --- tay di chuyển đến nơi bóng sẽ ở. Đó là |
 | D-component. Trong tennis, mọi movement đến contact point đều phải là |
-| chuyển động đến nơi bóng sẽ đến, không phải nơi bóng đang ở.          |
-+-----------------------------------------------------------------------+
+| chuyển động đến nơi bóng sẽ đến, không phải nơi bóng đang ở. |
+
 
 **6. Tuning PID --- Cân Bằng Ba Thành Phần Theo Tình Huống**
 
@@ -348,14 +348,14 @@ cần người chơi can thiệp có ý thức. Đây là dấu hiệu của tr�
 trong tennis. Người chơi không nghĩ \"tôi cần tăng P bây giờ\" --- hệ
 thống làm điều đó tự động.
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc tuning cho HLV**                                      |
-|                                                                       |
-| Khi học viên đánh không nhất quán, đừng sửa kỹ thuật ngay. Hãy xác    |
-| định: lỗi từ P (phản ứng sai), I (không thích nghi), hay D (không     |
-| giảm chấn)? Mỗi loại cần drill khác nhau. Sửa nhầm component là cách  |
-| nhanh nhất để tạo ra confusion thay vì improvement.                   |
-+-----------------------------------------------------------------------+
+| **🎯 Nguyên tắc tuning cho HLV** |
+| --- |
+|  |
+| Khi học viên đánh không nhất quán, đừng sửa kỹ thuật ngay. Hãy xác |
+| định: lỗi từ P (phản ứng sai), I (không thích nghi), hay D (không |
+| giảm chấn)? Mỗi loại cần drill khác nhau. Sửa nhầm component là cách |
+| nhanh nhất để tạo ra confusion thay vì improvement. |
+
 
 **7. PID và Áp Lực Tâm Lý --- Khi Hệ Thống Bị Nhiễu**
 
@@ -399,15 +399,15 @@ HLV đỉnh cao tránh cho cue kỹ thuật trong match play --- thay vào đó 
 cue process (\"thở\", \"một điểm một lúc\") để giải phóng hệ thống tự
 động.
 
-+-----------------------------------------------------------------------+
-| **🎯 Stress inoculation training**                                    |
-|                                                                       |
-| Cách duy nhất để train PID dưới áp lực là tập luyện dưới áp lực thực  |
-| sự. Thiết kế drill có hậu quả (người thua phải làm gì đó không        |
-| thích), thêm audience, thêm time pressure. Hệ thống PID sẽ dần học    |
-| cách hoạt động ổn định dưới cortisol --- đây là training thực sự cho  |
-| match play.                                                           |
-+-----------------------------------------------------------------------+
+| **🎯 Stress inoculation training** |
+| --- |
+|  |
+| Cách duy nhất để train PID dưới áp lực là tập luyện dưới áp lực thực |
+| sự. Thiết kế drill có hậu quả (người thua phải làm gì đó không |
+| thích), thêm audience, thêm time pressure. Hệ thống PID sẽ dần học |
+| cách hoạt động ổn định dưới cortisol --- đây là training thực sự cho |
+| match play. |
+
 
 **8. Liên Hệ Thái Cực Quyền --- Thính Kình (聽勁) và Đổng Kình (懂勁)**
 
@@ -436,14 +436,14 @@ tossed, biết đối thủ sẽ down-the-line trước khi họ swing, cảm nh
 momentum của rally và hành động trước. Đây là PID không còn là hệ thống
 phản ứng --- nó trở thành hệ thống dự đoán.
 
-+-----------------------------------------------------------------------+
-| **🎯 Con đường từ Thính đến Đổng**                                    |
-|                                                                       |
-| Thính Kình = hệ thống PID phản ứng tốt (cảm nhận và sửa lỗi). Đổng    |
-| Kình = hệ thống PID + MPC (cảm nhận, hiểu pattern, dự đoán).          |
+| **🎯 Con đường từ Thính đến Đổng** |
+| --- |
+|  |
+| Thính Kình = hệ thống PID phản ứng tốt (cảm nhận và sửa lỗi). Đổng |
+| Kình = hệ thống PID + MPC (cảm nhận, hiểu pattern, dự đoán). |
 | Curriculum 12 tuần này xây dựng Thính Kình trước (Chương 1-4), sau đó |
-| tích hợp MPC layer để đạt Đổng Kình (Chương 5-8).                     |
-+-----------------------------------------------------------------------+
+| tích hợp MPC layer để đạt Đổng Kình (Chương 5-8). |
+
 
 **9. Cảm Giác Đúng --- Hướng Dẫn Thực Hành PID**
 
@@ -481,14 +481,14 @@ thể tìm kiếm và nhận ra trong quá trình tập luyện.
 - Bóng rời mặt vợt với cảm giác \"clean\" --- không phải \"đập\" mà là
   \"release\".
 
-+-----------------------------------------------------------------------+
-| **🎯 Test PID tổng hợp**                                              |
-|                                                                       |
-| Drill: 10 bóng feed liên tiếp, mỗi bóng đến vị trí khác nhau và với   |
-| spin khác nhau (coach không báo trước). Sau drill, hỏi người chơi:    |
-| \"Bạn có nhớ bạn đã điều chỉnh thế nào không?\" Câu trả lời lý tưởng  |
-| là \"Không\" --- hệ thống PID đang hoạt động tự động đúng cách.       |
-+-----------------------------------------------------------------------+
+| **🎯 Test PID tổng hợp** |
+| --- |
+|  |
+| Drill: 10 bóng feed liên tiếp, mỗi bóng đến vị trí khác nhau và với |
+| spin khác nhau (coach không báo trước). Sau drill, hỏi người chơi: |
+| \"Bạn có nhớ bạn đã điều chỉnh thế nào không?\" Câu trả lời lý tưởng |
+| là \"Không\" --- hệ thống PID đang hoạt động tự động đúng cách. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 2**
 
@@ -580,16 +580,16 @@ một component chính.
   break (áp lực)                trận          trong set     ảnh hưởng**
   ----------------------------- ------------- ------------- -------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển Tầng 3**                                       |
-|                                                                       |
+| **🎯 Nguyên tắc chuyển Tầng 3** |
+| --- |
+|  |
 | Tầng 3 (Cascade Motor Chain) chỉ được giới thiệu khi học viên đạt 4/5 |
-| KPI ở ngưỡng \"tốt\" trong hai buổi liên tiếp, và khi hệ thống PID    |
-| hoạt động ổn định dưới áp lực drill Pressure Rally. Lý do: Cascade    |
-| Chain đòi hỏi upper và lower body phải có hệ thống error correction   |
-| riêng và phối hợp được với nhau --- nếu PID chưa ổn định, cascade sẽ  |
-| khuếch đại lỗi thay vì giảm thiểu.                                    |
-+-----------------------------------------------------------------------+
+| KPI ở ngưỡng \"tốt\" trong hai buổi liên tiếp, và khi hệ thống PID |
+| hoạt động ổn định dưới áp lực drill Pressure Rally. Lý do: Cascade |
+| Chain đòi hỏi upper và lower body phải có hệ thống error correction |
+| riêng và phối hợp được với nhau --- nếu PID chưa ổn định, cascade sẽ |
+| khuếch đại lỗi thay vì giảm thiểu. |
+
 
 **--- Kết thúc Chương 2 ---**
 

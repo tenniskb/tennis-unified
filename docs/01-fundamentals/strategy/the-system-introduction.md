@@ -17,7 +17,7 @@ same problems in doubles but coaching did not address these problems in
 a systematic way. In other team sports, as many as eleven players have
 to work as one for a play to work.
 
-Why can\'t two players work as one in doubles? This insight is the
+Why can't two players work as one in doubles? This insight is the
 foundation of what I call the System. As an active competitive player I
 was able to test out my theories and see for myself how playing in a
 systematic way is the key to success in doubles.
@@ -30,9 +30,9 @@ in college.
 He understood the importance of the team concept in doubles and tried to
 apply it to our play. One sentence he taught us It has defined what I
 have tried to do in doubles ever since. "Keep the ball low so the other
-team is always hitting up, and if you can\'t keep it low, lob.\"
+team is always hitting up, and if you can't keep it low, lob.\"
 
-Sheer brilliance. As I thought about it more this sentence didn\'t just
+Sheer brilliance. As I thought about it more this sentence didn't just
 tell me where to hit, it told me which partner would be better to hit
 to. It told me what kind of spin to use depending on where I was on the
 court. It told me which person to lob over.
@@ -115,7 +115,7 @@ doubles team:
 two players hit rackets in the middle or let a ball go through because
 they both thought the ball was theirs. Or when one player goes for a lob
 and their partner is running behind them at the same time. In our system
-this won\'t happen because there are distinct responsibilities that
+this won't happen because there are distinct responsibilities that
 never overlap.
 
 **[2) Losing to lobbers:]{.underline}** I realized after being at
@@ -150,10 +150,10 @@ successfully addressed with positioning, tactics and shot selection.
 
 We don't lose matches because our opponents hit a million winners. We
 lose matches because we make too many errors, we are indecisive and we
-don\'t play smart.
+don't play smart.
 
 If you and your partner play according to the System, your success
-won\'t be dependent on who hits better shots or who is having a better
+won't be dependent on who hits better shots or who is having a better
 day. Your success will be based on setting up points, making good
 choices, making adjustments where necessary and being consistent, things
 that can be accomplished in every match. Over time, doubles will get
@@ -168,37 +168,36 @@ what is happening and why and how to make adjustments when necessary.
 Ready for More? Go on to Part 2 also in the March issue! ([Click
 Here](The%20Hunter%20and%20the%20Helper.docx).)
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
-| ![A picture containing person, person, standing, outdoor Description automatically                                                                                   | Bill Previdi has been playing    |
-| generated](media_the-system-introduction/media/image1.jpeg){width="2.863888888888889in" | and teaching tennis for most of  |
-| height="2.120138888888889in"}                                                                                                                                        | his life. He played his          |
-|                                                                                                                                                                      | collegiate tennis at St. John\'s |
-|                                                                                                                                                                      | University in New York and has   |
-|                                                                                                                                                                      | been nationally ranked in        |
-|                                                                                                                                                                      | singles, doubles and Father-Son  |
-|                                                                                                                                                                      | Doubles. Bill has been a Head    |
-|                                                                                                                                                                      | Pro and Director of Tennis at    |
-|                                                                                                                                                                      | several clubs since 1981 and has |
-|                                                                                                                                                                      | also coached high school and     |
-|                                                                                                                                                                      | college tennis. He lives in      |
-|                                                                                                                                                                      | Branford, CT. He can be          |
-|                                                                                                                                                                      | contacted at:                    |
-|                                                                                                                                                                      | <previdib@gmail.com>             |
-|                                                                                                                                                                      |                                  |
-|                                                                                                                                                                      | Matt Previdi is a high           |
-|                                                                                                                                                                      | performance coach in La Jolla,   |
-|                                                                                                                                                                      | California and the head coach of |
-|                                                                                                                                                                      | the La Jolla High boys' tennis   |
-|                                                                                                                                                                      | team, which in the the past 6    |
-|                                                                                                                                                                      | years he has led to a 72-8       |
-|                                                                                                                                                                      | record and 2 sectional titles.   |
-|                                                                                                                                                                      | Matt is a Master Racquet         |
-|                                                                                                                                                                      | Technician, the head of the      |
-|                                                                                                                                                                      | Solinco national stringing team, |
-|                                                                                                                                                                      | as well as the Solinco player    |
-|                                                                                                                                                                      | liason and brand representative. |
-|                                                                                                                                                                      | He can be contacted at:          |
-|                                                                                                                                                                      | <mprevidi@gmail.com>             |
-+======================================================================================================================================================================+==================================+
+| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
+| --- | --- |
+| generated](media_the-system-introduction/media/image1.jpeg) | his life. He played his |
+|  | collegiate tennis at St. John's |
+|  | University in New York and has |
+|  | been nationally ranked in |
+|  | singles, doubles and Father-Son |
+|  | Doubles. Bill has been a Head |
+|  | Pro and Director of Tennis at |
+|  | several clubs since 1981 and has |
+|  | also coached high school and |
+|  | college tennis. He lives in |
+|  | Branford, CT. He can be |
+|  | contacted at: |
+|  | <previdib@gmail.com> |
+|  |  |
+|  | Matt Previdi is a high |
+|  | performance coach in La Jolla, |
+|  | California and the head coach of |
+|  | the La Jolla High boys' tennis |
+|  | team, which in the the past 6 |
+|  | years he has led to a 72-8 |
+|  | record and 2 sectional titles. |
+|  | Matt is a Master Racquet |
+|  | Technician, the head of the |
+|  | Solinco national stringing team, |
+|  | as well as the Solinco player |
+|  | liason and brand representative. |
+|  | He can be contacted at: |
+|  | <mprevidi@gmail.com> |
+
 
 ------------------------------------------------------------------------

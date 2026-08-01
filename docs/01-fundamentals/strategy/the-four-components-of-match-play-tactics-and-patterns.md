@@ -8,8 +8,7 @@
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image1.webp){width="3.3333333333333335in"
-height="2.5520833333333335in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image1.webp)
 
 **How do you develop tactics and patterns based on strategy and game
 style?**
@@ -17,8 +16,8 @@ style?**
 In the first article in this series, we looked at the first two
 components of match play, Strategy and Game Style. ([Click
 Here](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20Style.docx).)
-Now let\'s look at the other two components: Tactics and Patterns.
-Let\'s see how players can develop tactics and patterns based on their
+Now let's look at the other two components: Tactics and Patterns.
+Let's see how players can develop tactics and patterns based on their
 strategy and game styles.
 
 As I said in that first article, there is considerable confusion among
@@ -36,8 +35,7 @@ between coaches and players, and therefore help players at all levels
 improve their results.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image2.webp)
 
 **With versatile players, tactical options can be almost infinite.**
 
@@ -53,39 +51,38 @@ actually capable of doing on the court, the strengths and weaknesses in
 his or her shot making, movement, and
 temperament.]{.underline}]{.mark}**
 
-**[[Now let\'s turn to the third component,
+**[[Now let's turn to the third component,
 Tactics.]{.underline}]{.mark}** Tactics are the shot combinations a
 player with a specific Game Style uses to implement Strategy.
 
 With versatile players, tactical options can be almost infinite. But for
-the purposes of understanding how tactics work let\'s examine a few
+the purposes of understanding how tactics work let's examine a few
 simple examples.
 
-Let\'s assume the strategy you adopt against a given opponent is one of
+Let's assume the strategy you adopt against a given opponent is one of
 the basic strategies we outlined in the first article one of the basic
 strategies we outlined in the first article \"Exploiting A Weakness.\"
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image3.webp){width="6.5in"
-height="4.976388888888889in"}
+confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image3.webp)
 
 **How do you use your forehand to exploit the backhand?**
 
-Let\'s further assume that the weakness you want to exploit is your
-opponent\'s backhand. Let\'s assume your Game Style is the Big Forehand,
+Let's further assume that the weakness you want to exploit is your
+opponent's backhand. Let's assume your Game Style is the Big Forehand,
 again one of the game styles we talked about previously.
 
 **So, what tactics allow to use your big forehand to exploit a weak
 backhand?**
 
 There are two basic tactics. The first is to play in the middle of the
-court and hit as many forehands as possible to your opponent\'s backhand
+court and hit as many forehands as possible to your opponent's backhand
 side. The second is to move around your own backhand and hit inside out
 forehands again to the backhand side.
 
 In both cases, if your strategy is correct, your forehand is going to be
-stronger than your opponent\'s backhand and lead to wining points in
+stronger than your opponent's backhand and lead to wining points in
 several ways.
 
 From the middle of the court hitting your forehand to a weak backhand
@@ -98,8 +95,7 @@ From the inside position, you can do the same. But you should also be
 able to hit forehand winners going down the line going inside in.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image4.webp)
 
 **Big forehands from the center, and the inside position.**
 
@@ -108,12 +104,12 @@ used to implement Strategy.
 
 This may sound simple. But it is amazing that at the club and even high
 competitive levels how few players take the time to analyze an
-opponent\'s weaknesses, see how their own games match up, and devise
+opponent's weaknesses, see how their own games match up, and devise
 simple, specific tactics that are the difference in winning or losing.
 
 **All Court Variation**
 
-Let\'s look at another example for a player with a different game style.
+Let's look at another example for a player with a different game style.
 What tactics should an All Court player use to implement the same
 strategy of exploiting a weak backhand? How does this differ from the
 Big Forehand tactics?
@@ -122,13 +118,12 @@ The All Court player will typically play up much closer to the baseline,
 and also typically closer to the center of the court near T.
 
 From this position, he can take the ball earlier with either his
-forehand or backhand, working the ball to the opponent\'s backhand off
+forehand or backhand, working the ball to the opponent's backhand off
 either side. Again, this will be likely force errors.
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image5.webp){width="6.5in"
-height="4.976388888888889in"}
+confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image5.webp)
 
 **Balanced players can finish down the line.**
 
@@ -137,7 +132,7 @@ ways. First because all court players tend to be more balanced on both
 sides, they can finish hitting backhands down the line.
 
 The All Court player will also look to hit approaches on short balls.
-Depending on the strength of the opponent\'s forehand, these may be
+Depending on the strength of the opponent's forehand, these may be
 primarily to the weaker backhand side, but he may also approach hitting
 forehands down the line.
 
@@ -147,7 +142,7 @@ winners off the ground.
 
 **Patterns**
 
-Now that we understand Tactics at a basic level, let\'s move to
+Now that we understand Tactics at a basic level, let's move to
 Patterns. Patterns are the fourth, final component. What is their role?
 Patterns set up opportunities to implement Tactics.
 
@@ -157,15 +152,14 @@ up the tactical plays you want.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image6.webp){width="6.5in"
-height="4.976388888888889in"}
+confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image6.webp)
 
 **The T serve produces opportunities to hit Big Forehands from the
 middle.**
 
-For a simple overview of how Patterns work, let\'s follow out the
+For a simple overview of how Patterns work, let's follow out the
 examples with the two game styles with having been discussing, the Big
-Forehand and All Court styles. Let\'s pick the example of where to serve
+Forehand and All Court styles. Let's pick the example of where to serve
 in the deuce court.
 
 What serving patterns in the deuce court set up preferred tactical plays
@@ -190,20 +184,19 @@ ball will be more difficult to play as it comes across your body.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image7.webp){width="6.5in"
-height="4.976388888888889in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image7.webp)
 
 **The angles produced by the T serve also facilitate the inside
 forehand.**
 
 But by serving to the T, you reduce the angles the returner can create,
 allowing you to recover closer to the center of the court. In addition,
-your opponent\'s must return from his backhand side (also his weakness)
+your opponent's must return from his backhand side (also his weakness)
 and will tend to hit returns that land shorter and nearer the center of
 the court.
 
 This serving pattern therefore generates the ball you are looking for to
-implement your tactic, hitting forehands to your opponent\'s backhand
+implement your tactic, hitting forehands to your opponent's backhand
 from the middle of the court.
 
 The T placement also facilitates the second option. If the opponent
@@ -212,24 +205,23 @@ to create an angle, especially when he is trying to hit this return with
 his weakness.
 
 In general, the big forehand player will be able to get around many of
-these returns and hit backhands inside out to the opponent\'s weakness.
+these returns and hit backhands inside out to the opponent's weakness.
 In either case, the T serve pattern is creating the opportunity to use
 the tactical plays required to execute your match strategy.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image8.webp){width="6.5in"
-height="4.976388888888889in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image8.webp)
 
 **The wide deuce facilitates hitting early winners.**
 
 **All Court Pattern**
 
-Now let\'s look at the placement the serve for the other game style, the
+Now let's look at the placement the serve for the other game style, the
 All Court player. For the Big Forehand game style, the serve down the T
 yields geometric and positional advantages.
 
-For the All Court player, it\'s the opposite. The wide serve is the
+For the All Court player, it's the opposite. The wide serve is the
 pattern that sets up this player to use different tactics to exploit a
 weak backhand.
 
@@ -242,8 +234,7 @@ space to his backhand weakness no matter which way he returns.
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image9.webp){width="6.5in"
-height="4.976388888888889in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image9.webp)
 
 **The wide serve often allows the All Court player to play up.**
 
@@ -267,8 +258,7 @@ to approach. Again, the patterns sets up the player to use the tactics
 based on his game style.
 
 ![A person playing tennis Description automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image10.webp){width="6.5in"
-height="4.875in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image10.webp)
 
 **All court players are also looking to finish at the net.**
 
@@ -299,8 +289,7 @@ an important skill.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image11.webp){width="6.5in"
-height="4.976388888888889in"}
+confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image11.webp)
 
 **As a player, you feel when to stay in a crosscourt rally.**
 
@@ -331,8 +320,7 @@ occur during.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image12.webp){width="6.5in"
-height="4.976388888888889in"}
+generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image12.webp)
 
 **The ebb and flow of points is something players feel.**
 
@@ -350,7 +338,7 @@ include:]{.underline}]{.mark}**
 
 2.  **[the quality of the ball you receive in response]{.underline}**
 
-3.  **[your opponent\'s court position relative to his strengths and
+3.  **[your opponent's court position relative to his strengths and
     weaknesses]{.underline}**
 
 4.  **[your court position relative to your game style.]{.underline}**
@@ -367,20 +355,19 @@ overall plan for the day is to exploit the backhand.
 
 ![Tennis players on a court Description automatically generated with
 medium
-confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image13.webp){width="6.5in"
-height="4.976388888888889in"}
+confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/image13.webp)
 
 **Basic examples and endless realities.**
 
 **[[You might go crosscourt to the forehand for example when your
-opponent\'s court position, due to a short ball or a poor recovery, or
+opponent's court position, due to a short ball or a poor recovery, or
 other factors, leaves them significantly closer to their backhand
 sideline. Then you could choose to hit into the open space regardless of
 strength or weakness.]{.mark}]{.underline}**
 
 **[[Or the factor could be your court position. If you are very close to
 your forehand sideline, you could decide to stay crosscourt,
-understanding that if your line ball wasn\'t a winner your recovery
+understanding that if your line ball wasn't a winner your recovery
 would be too difficult. Or if the ball you receive is too deep or too
 high tempo you could also decide it was too risky to try and change
 direction.]{.mark}]{.underline}**
@@ -390,26 +377,25 @@ way the four components work together. And an indication of how the
 interplay of the four components is endlessly creative in the effort to
 play your best in matches.
 
-Coming up we\'ll explore other combinations of strategy, game style,
+Coming up we'll explore other combinations of strategy, game style,
 tactics and patterns, by looking at the 4 situations described above. We
 also study how the very best players combine the four components. Stay
 tuned!
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
-| ![A picture containing person, person, wall, posing Description automatically                                                                                                              | Larry Jurovich is an international coaching         |
-| generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image14.jpeg){width="1.14375in" | consultant specializing in coaching, player, and    |
-| height="1.9041666666666666in"}                                                                                                                                                             | program development. As the Head of Coach Education |
-|                                                                                                                                                                                            | and Performance Manager, he led the restructuring   |
-|                                                                                                                                                                                            | and development of the British Lawn Tennis          |
-|                                                                                                                                                                                            | Association coach education program and tutor       |
-|                                                                                                                                                                                            | workforce.                                          |
-|                                                                                                                                                                                            |                                                     |
-|                                                                                                                                                                                            | Larry has served as a member of the ITF Coach       |
-|                                                                                                                                                                                            | Education Task force, worked as a leader at the     |
-|                                                                                                                                                                                            | Tennis Canada National Training Center, and helped  |
-|                                                                                                                                                                                            | develop Canadian players who have won dozens of     |
-|                                                                                                                                                                                            | national titles, as well as personally coaching     |
-|                                                                                                                                                                                            | Davis Cup and tour players. He speaks               |
-|                                                                                                                                                                                            | internationally and has presented at conferences    |
-|                                                                                                                                                                                            | and workshops in 10 countries.                      |
-+============================================================================================================================================================================================+=====================================================+
+| ![A picture containing person, person, wall, posing Description automatically | Larry Jurovich is an international coaching |
+| --- | --- |
+| generated](media_the-four-components-of-match-play-tactics-and-patterns/media/image14.jpeg) | program development. As the Head of Coach Education |
+|  | and Performance Manager, he led the restructuring |
+|  | and development of the British Lawn Tennis |
+|  | Association coach education program and tutor |
+|  | workforce. |
+|  |  |
+|  | Larry has served as a member of the ITF Coach |
+|  | Education Task force, worked as a leader at the |
+|  | Tennis Canada National Training Center, and helped |
+|  | develop Canadian players who have won dozens of |
+|  | national titles, as well as personally coaching |
+|  | Davis Cup and tour players. He speaks |
+|  | internationally and has presented at conferences |
+|  | and workshops in 10 countries. |
+

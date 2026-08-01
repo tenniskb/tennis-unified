@@ -7,8 +7,7 @@ Suffering**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-suffering/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-suffering/media/image1.webp)
 
 **Nadal: a paragon of mental strength and the ability to suffer.**
 
@@ -29,14 +28,13 @@ will not tank or give in.
 
 Whether in practice or in a match, the same willingness to suffer is
 demanded by Spanish coaches of their players. Said Albert Costa, \"What
-I\'m trying to do is make them think that everyday they have to do
+I'm trying to do is make them think that everyday they have to do
 something else. If they go to the edge one day, the next day they have
 to go a bit farther. Every day they have to go farther.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-suffering/media/image2.jpg){width="2.2222222222222223in"
-height="4.5in"}
+confidence](media_secrets-of-spanish-tennis-suffering/media/image2.jpg)
 
 **Albert Costa: A player who knew how to go to the edge.**
 
@@ -61,23 +59,22 @@ Spanish way.
 When Spanish coaches said to me quite earnestly, \"We teach the players
 how to suffer,\" I first wondered if they were serious. But the Spanish
 are very serious about training hard and setting up exercises to
-challenge a player\'s courage and fighting spirit.
+challenge a player's courage and fighting spirit.
 
-Lluis Bruguera\'s philosophy is this: \"If a player isn\'t willing to
-suffer, to sacrifice, it\'s impossible to win.\" When I asked him how he
+Lluis Bruguera's philosophy is this: \"If a player isn't willing to
+suffer, to sacrifice, it's impossible to win.\" When I asked him how he
 goes about achieving this with in his players at his Top Team Academy,
 he told me, \"We force them.\"
 
 ![A person swinging a tennis racket Description automatically generated
 with medium
-confidence](media_secrets-of-spanish-tennis-suffering/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-suffering/media/image3.webp)
 
 **The Spanish approach to drills: more, more, and more.**
 
 Bruguera suggested spending 4-5 hours daily with your players (pushing
 them physically and mentally). He recommended a lot of drills: \"More,
-more, more. That\'s more difficult for the coach and player, but the
+more, more. That's more difficult for the coach and player, but the
 result at the end is better.\"
 
 The long, classic Spanish drills, with repetitions of 20-60 balls or
@@ -98,8 +95,7 @@ occurs in a five-set match at the French Open.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-suffering/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-suffering/media/image4.webp)
 
 **David Ferrer has shown that fast and fit can win.**
 
@@ -130,8 +126,7 @@ learn more about Pato.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-suffering/media/image5.jpg){width="0.9027777777777778in"
-height="1.2824070428696412in"}
+confidence](media_secrets-of-spanish-tennis-suffering/media/image5.jpg)
 
 **Jim Courier: In the vanguard of serious conditioning, with a Spanish
 coach.**
@@ -144,7 +139,7 @@ were well on their way towards recognizing this trend at about the same
 time, and they systematized this philosophy much earlier than other
 countries did.
 
-When Sergi Bruguera burst on the scene in the early 1990\'s, he was
+When Sergi Bruguera burst on the scene in the early 1990's, he was
 known as being one of the fittest guys on the tour; he could run all day
 long like a deer without getting tired. This became the new Spanish
 paragon.
@@ -168,8 +163,7 @@ performing injury prevention, etc.
 
 ![A picture containing playing, athletic game, sport, hitting
 Description automatically
-generated](media_secrets-of-spanish-tennis-suffering/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-tennis-suffering/media/image6.webp)
 
 **50 percent of Spanish training is on court, like this drill to build
 racket speed.**
@@ -198,8 +192,7 @@ explain how Spanish players aspire to be the most mentally tough
 fighters in the tournament.
 
 ![A picture containing text, indoor Description automatically
-generated](media_secrets-of-spanish-tennis-suffering/media/image7.jpg){width="3.6842104111986003in"
-height="4.652631233595801in"}
+generated](media_secrets-of-spanish-tennis-suffering/media/image7.jpg)
 
 **A Spanish cultural heritage: the redeeming value of suffering.**
 
@@ -208,7 +201,7 @@ Boluda, about Spanish players being more willing to suffer, he said,
 \"No, they are not willing to suffer. They love to suffer.\"
 
 \"If they come out of the court with clay on their shoes, their socks,
-even if they fell-it\'s even better. They\'re happy.\"
+even if they fell-it's even better. They're happy.\"
 
 Coaches, parents, and players can learn from the Spanish way of teaching
 players to suffer. Most importantly, understanding that stamina
@@ -254,8 +247,7 @@ method.
 **Humility**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_secrets-of-spanish-tennis-suffering/media/image8.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_secrets-of-spanish-tennis-suffering/media/image8.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -272,14 +264,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_secrets-of-spanish-tennis-suffering/media/image9.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_secrets-of-spanish-tennis-suffering/media/image9.jpeg)
 
 **The Secrets of Spanish Tennis**
 

@@ -5,17 +5,16 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-classic-forehand-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-forehand-volley/media/image1.webp)
 
 **All credit to Jeff for adding net attack based on his powerful
 groundstrokes.**
 
-If you read Jeff Greenwald\'s article last month ([Click
+If you read Jeff Greenwald's article last month ([Click
 Here](https://www.tennisplayer.net/members/members/mentalgame/jeff_greenwald/the_opportunity_attack/))
 on incorporating attack into his game, what he says is true. I am the
 coach who told one the top senior players in the world that he was
-playing some of dumbest tennis I\'d ever seen.
+playing some of dumbest tennis I'd ever seen.
 
 As Jeff explains, that meeting was the start of a collaboration that led
 to major changes in his game, something that was unusual impressive for
@@ -36,22 +35,21 @@ look at the backhand volley as well.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-forehand-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-classic-forehand-volley/media/image2.webp)
 
 **Pancho Gonzalez: a master from the golden volley era.**
 
 The reality is that the volley is currently a vanishing shot at every
 level of the game of tennis. Roger Federer beat Pete Sampras, his idol
 and role model, in a 5-set serve and volley match at Wimbledon in 1999.
-Fast forward 13 years to this year\'s Wimbledon and Federer defeated
+Fast forward 13 years to this year's Wimbledon and Federer defeated
 Andy Murray playing primarily from the baseline, as he has for most of
 his incredible career.
 
-Today\'s Modern Game is the Great Groundstroke Era. The Great Volley Era
+Today's Modern Game is the Great Groundstroke Era. The Great Volley Era
 was from the 1940s through the 1990s.
 
-History\'s best volleyers included players like Jack Kramer, Pancho
+History's best volleyers included players like Jack Kramer, Pancho
 Gonzalez, Lew Hoad, Ken Rosewall, Tony Trabert, Rod Laver, Frank
 Sedgeman, and Roy Emerson. There there were players like John Newcombe,
 Tony Roche, and Fred Stolle.
@@ -59,22 +57,21 @@ Tony Roche, and Fred Stolle.
 Finally, we saw John McEnroe, Stephan Edberg, Boris Becker, and Pete
 Sampras. These players represented the end of an era.
 
-There is little argument that today\'s modern tennis players have the
+There is little argument that today's modern tennis players have the
 best groundstrokes in the history of the sport. But the players of the
 Gonzalez generation were the best volleyers.
 
 ![A person playing tennis Description automatically
-generated](media_the-classic-forehand-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-forehand-volley/media/image3.webp)
 
 **Modern players often separate the hands too soon making contact
 slightly late.**
 
-Today\'s volley quality is well below that level. Today\'s players
+Today's volley quality is well below that level. Today's players
 certainly have the talent to raise their technique and volley as well as
 anyone, past or present.
 
-But statistics prove that they just don\'t do it in matches. The volley
+But statistics prove that they just don't do it in matches. The volley
 in this generation has atrophied because the modern game is primarily a
 backcourt slugfest.
 
@@ -95,8 +92,7 @@ volleys hardly exist.
 **Forehand Volley Flaws**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-classic-forehand-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-forehand-volley/media/image4.webp)
 
 **The classic or what I call the \"low\" or \"two hand\" forehand
 volley.**
@@ -115,7 +111,7 @@ pushing forward together, they separate too soon, as we will see.
 We do not see players battling at the net, hitting multiple volleys.
 These battles belong to the Gonzalez generation. They were beautiful.
 
-But today\'s big baseline and midcourt groundstrokes and heavily spun
+But today's big baseline and midcourt groundstrokes and heavily spun
 passing shots are more powerful than any volley. This is a shame because
 attacking points finished at the net are far more dramatic than numbing,
 30 ball baseline exchanges.
@@ -124,11 +120,9 @@ attacking points finished at the net are far more dramatic than numbing,
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-classic-forehand-volley/media/image5.jpg){width="2.238805774278215in"
-height="3.872146762904637in"} ![A person holding a tennis racket
+confidence](media_the-classic-forehand-volley/media/image5.jpg) ![A person holding a tennis racket
 Description automatically generated with medium
-confidence](media_the-classic-forehand-volley/media/image6.jpg){width="2.201491688538933in"
-height="3.880832239720035in"}
+confidence](media_the-classic-forehand-volley/media/image6.jpg)
 
 **Like a catcher in baseball, the classic forehand volley makes use of
 the legs and keeps the hands in front.**
@@ -151,7 +145,7 @@ knees. This use of the legs is one of the factors really missing from
 the modern pro volley.
 
 The other key factor is the use of the hands. I call my preferred
-technique a \"two handed volley,\" but I don\'t mean players should make
+technique a \"two handed volley,\" but I don't mean players should make
 contact with both hands on the racket.
 
 A two-handed forehand volley means that both hands reach forward to
@@ -165,8 +159,7 @@ the incoming shot.
 
 ![A picture containing sport, outdoor, athletic game, person Description
 automatically
-generated](media_the-classic-forehand-volley/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-classic-forehand-volley/media/image7.webp)
 
 **A look at the step forward with first the right leg and then the
 left.**
@@ -193,10 +186,8 @@ gradually change to the Continental grip.
 Your preparation is simultaneously with your feet and your hands. The
 step is forward and somewhat to the side with the right foot.
 
-![](media_the-classic-forehand-volley/media/image8.jpg){width="2.544775809273841in"
-height="1.9961329833770778in"}
-![](media_the-classic-forehand-volley/media/image9.jpg){width="2.6014304461942257in"
-height="1.9948173665791775in"}
+![](media_the-classic-forehand-volley/media/image8.jpg)
+![](media_the-classic-forehand-volley/media/image9.jpg)
 
 **Two views of the continental volley grip\--the same for forehand and
 backhand.**
@@ -207,8 +198,7 @@ early contact.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-forehand-volley/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-forehand-volley/media/image10.webp)
 
 **Both hands reach two feet in front to the ball, with the wrist laid
 back at 45 degrees.**
@@ -224,7 +214,7 @@ almost as if you are looking through the racket strings at an incoming
 ball.
 
 **[[The idea is to get your head, eyes and body down close to the flight
-of the ball. If the ball\'s plane is higher, your body will naturally
+of the ball. If the ball's plane is higher, your body will naturally
 straighten up.]{.mark}]{.underline}**
 
 **[[Now step forward with your left foot. Your strike is a short
@@ -239,8 +229,7 @@ perfectly with both eyes.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-forehand-volley/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-forehand-volley/media/image11.webp)
 
 **Step forward and make a short downward strike, leading with the bottom
 edge of the racket.**
@@ -267,8 +256,7 @@ your racket head as you undercut/slice your low, wide and reaching shot.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-classic-forehand-volley/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-forehand-volley/media/image12.webp)
 
 **Demonstrating the key first move in my work with Jeff.**
 
@@ -277,7 +265,7 @@ If the ball is slow and floating, take a bolo punch long stroke, wrist
 laid back, soft hand, semi full natural full swing, level off your
 hitting plane and whack your shot.
 
-A first angle soft touch volley is almost extinct. John McEnroe\'s angle
+A first angle soft touch volley is almost extinct. John McEnroe's angle
 volleys, first and second were the best in the history of the sport.
 Hook your wrist, watch the ball carefully, keep your grip and hands soft
 and catch the outside edge of the ball.
@@ -290,13 +278,12 @@ Besides the basic work on his technique, this short angle was key volley
 we developed with Jeff, also working with Rod Heckelman on this shot and
 the short angled overhead. ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/rob_heckelman/incorporate_approach/)
-to read Rod\'s article on the drills he did with Jeff that were critical
+to read Rod's article on the drills he did with Jeff that were critical
 for him in mastering the transition and attacking game.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-classic-forehand-volley/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-classic-forehand-volley/media/image13.webp)
 
 **The Kramer volley as explained to the Brain Trust.**
 
@@ -304,35 +291,34 @@ height="2.5in"}
 
 Many years ago, our brain trust of Instruction Editors at World Tennis
 Magazine\--then the leading voice in the sport\--met in New York City to
-discuss the next year\'s instruction program.
+discuss the next year's instruction program.
 
 The subject of the forehand volley came up. Both Fred Stolle and Cliff
 Drysdale demonstrated a firm somewhat straight wrist, chop down punch
 forehand volley, not hit very much in the front of the body.
 
 Then I demonstrated the low body position contact in front, 45 degree
-angle forehand volley just described. Jack Kramer didn\'t say a word.
+angle forehand volley just described. Jack Kramer didn't say a word.
 Jack just put up his hand about two feet in front of his right shoulder,
 laid the wrist back 45 degrees and punched leading with the bottom edge
 of his hand. Enough said.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                        Paul Cohen. the first traveling coach on the ATP
-  generated](media_the-classic-forehand-volley/media/image14.jpeg){width="1.5597222222222222in"   Men\'s tour, is a former professional player who
-  height="2.365972222222222in"}                                                                                                                                                       played in two Grand Slam events and was the
+  generated](media_the-classic-forehand-volley/media/image14.jpeg)                                                                                                                                                       played in two Grand Slam events and was the
                                                                                                                                                                                       Captain of the University of California, Berkeley
                                                                                                                                                                                       tennis team. Paul worked with dozens of elite,
                                                                                                                                                                                       world class touring players and Grand Slam
-                                                                                                                                                                                      winners, including 5 men\'s and women\'s
-                                                                                                                                                                                      Wimbledon champions. Paul was John McEnroe\'s
+                                                                                                                                                                                      winners, including 5 men's and women's
+                                                                                                                                                                                      Wimbledon champions. Paul was John McEnroe's
                                                                                                                                                                                       coach, built the tennis games of the Williams
                                                                                                                                                                                       Sisters and was an Instruction Editor of World
                                                                                                                                                                                       Tennis magazine for two decades when World Tennis
-                                                                                                                                                                                      was the world\'s leading tennis publication. Paul
+                                                                                                                                                                                      was the world's leading tennis publication. Paul
                                                                                                                                                                                       coached hundreds of top national and
                                                                                                                                                                                       international boys and girls players who
                                                                                                                                                                                       succeeded at the top levels of sectional and
-                                                                                                                                                                                      national competition. Paul\'s competitive record
+                                                                                                                                                                                      national competition. Paul's competitive record
                                                                                                                                                                                       included national champions in every age
                                                                                                                                                                                       division: junior boys, junior girls tennis, NCAA
                                                                                                                                                                                       and 21 and Unders. Currently he is working on a

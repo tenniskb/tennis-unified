@@ -13,8 +13,7 @@ Now let's turn to the issue of advances in technology in several areas,
 starting with so-called smart courts.
 
 ![A picture containing text, table Description automatically
-generated](media_future-trends-in-tennis-part-3/media/image1.jpg){width="5.555555555555555in"
-height="3.0972222222222223in"}
+generated](media_future-trends-in-tennis-part-3/media/image1.jpg)
 
 **The End of Cheating?**
 
@@ -29,8 +28,7 @@ could eventually replace all humans including umpires and lines judges.
 First the line judges would go and then---later on---the umpires too.
 
 ![A picture containing person Description automatically
-generated](media_future-trends-in-tennis-part-3/media/image2.jpg){width="3.53875656167979in"
-height="2.1940299650043746in"}
+generated](media_future-trends-in-tennis-part-3/media/image2.jpg)
 
 **Will on court coaching become universal---and even become more
 advanced?**
@@ -53,8 +51,7 @@ Tour and the ITF Junior Circuit, which approved on court coaching for
 the 2018 tournament schedule.
 
 ![A picture containing indoor, wall Description automatically
-generated](media_future-trends-in-tennis-part-3/media/image3.jpg){width="3.111111111111111in"
-height="4.694444444444445in"}
+generated](media_future-trends-in-tennis-part-3/media/image3.jpg)
 
 **Hyberbaric chambers are used by players such as Novak Djokovic to
 boost recovery.**
@@ -85,8 +82,7 @@ But is it fair that Djokovic can afford treatments in this \$75,000
 device while others cannot? Will that be deemed an illegal advantage?
 
 ![A person running on a track Description automatically
-generated](media_future-trends-in-tennis-part-3/media/image4.jpg){width="2.7089555993000873in"
-height="4.076981627296588in"}
+generated](media_future-trends-in-tennis-part-3/media/image4.jpg)
 
 **Could prosthetics produce better performance than human limbs?**
 
@@ -123,8 +119,7 @@ example Brian is now beta testing a new 3D measurement system that may
 give precise quantitative data without attaching markers to players,
 making it possible to measure strokes in actual match play.
 
-![](media_future-trends-in-tennis-part-3/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+![](media_future-trends-in-tennis-part-3/media/image5.webp)
 
 **High speed allows us to see key positions in strokes that are
 invisible to the naked eye.**
@@ -167,8 +162,7 @@ travel as extensively on circuits as in the past.
 
 ![A picture containing grass, sport, athletic game, tennis Description
 automatically
-generated](media_future-trends-in-tennis-part-3/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_future-trends-in-tennis-part-3/media/image6.webp)
 
 **What are the potential training benefits for the future from the use
 of virtual reality?**
@@ -205,8 +199,7 @@ the Forum. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-3/media/image7.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_future-trends-in-tennis-part-3/media/image7.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -223,7 +216,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

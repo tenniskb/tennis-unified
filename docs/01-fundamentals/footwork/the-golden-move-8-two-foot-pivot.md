@@ -21,8 +21,7 @@ pro match play.
 
 ![](media_the-golden-move-8-two-foot-pivot/media/image1.wmf)
 
-![](media_the-golden-move-8-two-foot-pivot/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-8-two-foot-pivot/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

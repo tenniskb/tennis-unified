@@ -6,15 +6,14 @@
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-heavy-ball-toc/media/image1.jpg){width="1.3834645669291339in"
-height="2.0079997812773405in"}
+confidence](media_the-heavy-ball-toc/media/image1.jpg)
 
 Most players think they know a \"heavy\" ball when they play against it.
-But I\'ve never heard a coherent explanation of exactly what it is. What
-makes a player\'s forehand or serve \"heavy as a brick\"?
+But I've never heard a coherent explanation of exactly what it is. What
+makes a player's forehand or serve \"heavy as a brick\"?
 
 OR is there even such a thing at all? Frankly some of the explanations
-of the I\'ve heard make the least sense of anything I\'ve encountered in
+of the I've heard make the least sense of anything I've encountered in
 coaching and teaching. **[[So this section begins a quest to try to
 unravel the \"mysteries of the heavy ball.\"]{.underline}]{.mark}**
 

@@ -4,7 +4,7 @@
 
 # John Yandell 
 
-In the first two articles, we\'ve looked at some of the mysteries and
+In the first two articles, we've looked at some of the mysteries and
 complexities that high speed video reveals about the two-handed
 backhand. We found that what many coaches\--including myself\--believed
 to be one of the simplest technical shots turned out to be one of the
@@ -22,24 +22,22 @@ Here](John%20Yandell-The%20Two%20Handed%20Backhand%20-%20Hand%20and%20Arm%20Rota
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image1.webp)
 
-**What does Rafael Nadal\'s backhand share with other top players?**
+**What does Rafael Nadal's backhand share with other top players?**
 
 **Commonalities**
 
-Now let\'s shift and look at some of the commonalities across all these
-variations. In this article, let\'s look at the preparation, including
+Now let's shift and look at some of the commonalities across all these
+variations. In this article, let's look at the preparation, including
 the backswing. Again we are going to see some surprising things in
 relation to common beliefs about the two-hander. Then in upcoming
-articles we\'ll look at the hitting stances, the body rotation, the
+articles we'll look at the hitting stances, the body rotation, the
 contact, the finish, and the wrap.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image2.webp)
 
 **What does high speed video show about preparation and the backswing?**
 
@@ -49,7 +47,7 @@ When we studied the modern forehand ([Click
 Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)) we saw
 that despite the wide differences in the grips and the various
 rotations, there was one commonality all the players seemed to share.
-This was the first move, what we called the Unit Turn. It\'s the same
+This was the first move, what we called the Unit Turn. It's the same
 for the Two-Handed Backhand. The first move in the preparation on the
 two-hander is a Unit Turn, regardless of the grip style, hitting arm
 combination, or any other variable. The Unit Turn means that the player
@@ -58,15 +56,14 @@ rather than by moving the hands and the racket.
 
 It would be hard to stress the importance of the Unit Turn too much in
 teaching or developing your own ground strokes, backhand or forehand.
-Over the past few years I\'ve written about it multiple times, and I\'ll
+Over the past few years I've written about it multiple times, and I'll
 probably be writing about it for the forseeable future. This is because
-it\'s going to take a long time for the Unit Turn to become widely
+it's going to take a long time for the Unit Turn to become widely
 taught\--if in fact that ever happens.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image3.webp)
 
 **Watch the Unit Turn start the preparation.**
 
@@ -76,8 +73,8 @@ back early.\" The second is that the backswing is the key to starting
 this early movement of the racket.]{.underline}]{.mark}*** These beliefs
 are still the sacred gospel in teaching groundstrokes for many, maybe
 even a majority of coaches, and are constantly repeated in day to day
-teaching around the world. Unfortunately, they don\'t describe what good
-players really do. And they aren\'t good advice for the average player
+teaching around the world. Unfortunately, they don't describe what good
+players really do. And they aren't good advice for the average player
 to follow either.
 
 The problem is that they encourage players to begin the motion with
@@ -92,21 +89,20 @@ followthrough.
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image4.webp)
 
-**Watch how Andre\'s hands and racket come along for the ride.**
+**Watch how Andre's hands and racket come along for the ride.**
 
 The cumulative result is lost power, less spin, and consistent
 inconsistency. The problem is more common on the forehand, but as I go
-around the country filming top junior players, I\'m amazed how
+around the country filming top junior players, I'm amazed how
 widespread it is on the backhand as well, including the two-hander.
 
 **Unit Turn**
 
-So let\'s take a look at the Unit Turn of some of the best two-handed
-players in the modern game. It\'d be tough to find an example better
-than Andre Agassi. Watch Andre\'s hands. First he slides his top hand
+So let's take a look at the Unit Turn of some of the best two-handed
+players in the modern game. It'd be tough to find an example better
+than Andre Agassi. Watch Andre's hands. First he slides his top hand
 down to establish the grip structure. From this point on there is
 virtually no independent hand movement. The left foot turns sideway, the
 upper body turns, so does the right hip and the right leg. And the hands
@@ -116,7 +112,7 @@ no independent backswing or movement with the hands to \"prepare\" the
 racket early.
 
 The Unit Turn continues until the shoulders get turned at least 45
-degrees to the net. Only at that point do Andre\'s hands start to move
+degrees to the net. Only at that point do Andre's hands start to move
 on their own. At this point they start to simultaneous move backwards
 and also somewhat out to the side. Unfortunately, far too many players
 have copied this sideways move with the hands but not the unit turn that
@@ -124,22 +120,21 @@ precedes it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image5.webp)
 
 **Nadal may be a sensation, but his Unit Turn is a commonality.**
 
 This first move is very similar for all top players. Spanish teen
 sensation Rafael Nadal is another typical example. Coming out of the
 split step, Rafael turns his hands and the racket face down. But this is
-idiosyncratic and doesn\'t really affect the motion. From this position,
+idiosyncratic and doesn't really affect the motion. From this position,
 the shoulders turn as a unit and the arms and racket naturally pivot.
-They don\'t move on the own. Nadal may actually get even further turned
+They don't move on the own. Nadal may actually get even further turned
 than most players before the hands start to move.
 
 **Backswing**
 
-Now let\'s look at the backswing and how the players actually move their
+Now let's look at the backswing and how the players actually move their
 hands after the Unit Turn. Here we get to another major misunderstanding
 about the two-hander. On the forehand virtually all the top players take
 their hands upward after the unit turn and make some variation of a
@@ -147,8 +142,7 @@ looping backswing motion.
 
 ![A picture containing text, person, person, player Description
 automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image6.webp)
 
 **Though less than on the forehand, there is still plenty of variety in
 the two-handed backswing.**
@@ -166,17 +160,16 @@ Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20
 The backswings on the two-hander are simpler and less varied, but they
 are still frequently misunderstood. This is due in part to an underlying
 problem in all tennis teaching and analysis. This problem is the
-limitation of human visual perception. As we\'ve noted throughout this
+limitation of human visual perception. As we've noted throughout this
 series, the motions in tennis happen too quickly for the human eye to
 see accurately\--about 10 or 12 times faster than the eye can actually
 record.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image7.webp)
 
-**Watch the path of Andre\'s hands as they travel virtually straight
+**Watch the path of Andre's hands as they travel virtually straight
 back.**
 
 But the confusion is also due to the differences in the position of the
@@ -199,8 +192,7 @@ universal pattern is to take the hands back much straighter and lower
 than on the forehand.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image8.webp)
 
 **Like Agassi, a straight backswing but also two straight hitting
 arms.**
@@ -212,32 +204,31 @@ below), he rotates his hands and forearms backwards and down, changing
 the direction of the racket compactly and very fluidly as he starts to
 come forward to the ball.
 
-Note that Agassi\'s racket head is tilted up at a slight angle as his
+Note that Agassi's racket head is tilted up at a slight angle as his
 hands move back. This angle determines the size of the loop traced by
 the racket tip as it changes direction. The angle varies from player to
 player and accounts for much of the confusion about the backswing, as
-we\'ll see. When the angle of the racket tip points higher, the tip
+we'll see. When the angle of the racket tip points higher, the tip
 traces a longer path as it changes direction. But this is different than
 the path of the hands.
 
 You can see the two elements at work with Nadal. His racket head tip is
 titled up a little higher than Agassi. But watch how his hands stay at
 the same level in the unit turn. Interestingly, he is the only player
-we\'ve filmed other than Agassi to hit with both arms straight in the
+we've filmed other than Agassi to hit with both arms straight in the
 hitting zone. (More on this and the rest of his game later in the Stroke
 Archive as well as in the Advanced Tennis section.)
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image9.webp)
 
-**Watch the beautiful, minimal preparation of two top men\'s players,
+**Watch the beautiful, minimal preparation of two top men's players,
 Kiefer and Johannson.**
 
 **Minimal Men**
 
 We can see even more minimal backswings if we look at Thomas Johannson
-or Nicholas Kiefer, two top 20 men\'s players with excellent
+or Nicholas Kiefer, two top 20 men's players with excellent
 two-handers. Both take the hands straight back like Agassi. Kiefer also
 points the racket tip virtually straight back, while Johannson tilts it
 slightly down. In both cases, this more direct path reduces the size of
@@ -251,14 +242,13 @@ the racket and start forward to the ball.
 Not every player goes back on such a straight line before initiating the
 loop. Other players raise their hands on an incline as the racket moves
 backward. This gives the backswing the shape a long \"U\" that is lying
-on it\'s side and is also somewhat narrower at the open end. Kim
+on it's side and is also somewhat narrower at the open end. Kim
 Clijsters is an example. Watch how her hands rise gradually on as the
 racket goes back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image10.webp)
 
 **Racket tip higher, and hands moving back on a slight incline.**
 
@@ -274,34 +264,32 @@ or sometimes slightly higher.
 **Is It Really a Commonality?**
 
 OK, so Andre and a lot other players go pretty much straight back, but
-isn\'t it too extreme to claim that this is a commonality for all
-players? Don\'t many two-handed players really use a loop and startit by
+isn't it too extreme to claim that this is a commonality for all
+players? Don't many two-handed players really use a loop and startit by
 raising their hands? What about Maria Sharapova for example? She
-initiates her motion with a large circular backswing, right? That\'s why
+initiates her motion with a large circular backswing, right? That's why
 she has so much racket head speed, right? The answer is definitely no.
-The path of Sharapova\'s hands is actually more compact than Clijsters
+The path of Sharapova's hands is actually more compact than Clijsters
 and more like that of the top men.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image11.webp)
 
-**Watch the path of Maria\'s hands move straight back.**
+**Watch the path of Maria's hands move straight back.**
 
 If we take a look at the high speed video of Maria, we can see what
 causes the confusion about her motion. This is how she holds her racket
-in the ready position. Notice it\'s pointing almost straight up and
+in the ready position. Notice it's pointing almost straight up and
 down. Her racket tip is much higher than that of the men or any of the
-other women. She\'s also hunched over from the waist, which makes the
+other women. She's also hunched over from the waist, which makes the
 racket tip seem even higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image12.webp)
 
-**Maria\'s hands move back as directly as Agassi.**
+**Maria's hands move back as directly as Agassi.**
 
 But watch what happens when she moves from this unusual starting stance.
 She begins her motion with a Unit Turn, the same as all other top
@@ -310,18 +298,17 @@ hands. As she turns, the racket tip just continues to point upward, the
 same way it was in the ready position.
 
 The feet and the body turn sideways with the shoulders reaching the
-characteristic 45 degree angle. As we have already seen, it\'s not about
+characteristic 45 degree angle. As we have already seen, it's not about
 getting the racket back. The racket comes along for the ride and starts
-to prepare automatically as the body turns. Maria\'s racket then
+to prepare automatically as the body turns. Maria's racket then
 continues on this direct path with as little hand movement as Agassi.
 The only real difference is that the tip of her racket is still pointing
-nearly straight up at the completion of the unit turn. That\'s what
+nearly straight up at the completion of the unit turn. That's what
 fools even experienced coaches when they watch her motion with the naked
 eye.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image13.webp)
 
 **Where the racket points and how the hands move are different
 factors.**
@@ -332,8 +319,8 @@ of the hands, they essentially travel straight back. Her hands may go up
 a few inches at the very end as the racket travels backwards. But the
 highest point she ever reaches is about the middle of her torso.
 
-If we just watch the path of the racket tip, it\'s fair to describe the
-backswing as a loop. But it\'s not a loop traced by the hands like the
+If we just watch the path of the racket tip, it's fair to describe the
+backswing as a loop. But it's not a loop traced by the hands like the
 forehand. The key point is to understand how this is caused by the angle
 of the racket not the position of the hands.
 
@@ -346,15 +333,14 @@ saw his player, her first move was to raise her hands. She had a big,
 mistimed circular loop and a limited Unit Turn.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image14.webp)
 
 **Her backswing is an exception, but watch the unit turn.**
 
-Maria isn\'t the only player who starts with the racket pointing up.
+Maria isn't the only player who starts with the racket pointing up.
 Vera Zvonereva does the same thing, just to a lesser degree. So does
-Carlos Moya on the men\'s side. But it\'s one thing to hold the racket
-tip upward. It\'s another thing to then raise the hands independently in
+Carlos Moya on the men's side. But it's one thing to hold the racket
+tip upward. It's another thing to then raise the hands independently in
 the Unit Turn. Watch Moya in particular. The racket is really high but
 the hand motion back is very straight. The motion to change directions
 is almost imperceptible.
@@ -370,31 +356,29 @@ shoulder turn is continuous and full\--the element most lower level
 players lose when they start to focus on the path of the hands.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image15.webp)
 
 **A Unit Turn, then a little more upward movement in the hands.**
 
 Lindsay Davenport starts with her racket pointing lower and more
 straight ahead than Maria or Daniela, but she also raises her hands
 sooner and a little higher than most players, though not nearly as much
-as Daniela. Again this motion isn\'t independent of the Unit Turn. Watch
+as Daniela. Again this motion isn't independent of the Unit Turn. Watch
 the height of her hands at the top of the backswing, still well below
 shoulder level.
 
 **The Men: Even More Compact**
 
 Interestingly, when we look at the men, we see that in general they tend
-to be more compact than the women. We\'ve seen this in players like
+to be more compact than the women. We've seen this in players like
 Agassi, Kiefer, and Johannson.
 
 ![Graphical user interface, application Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image16.webp)
 
 **Safin: the hands move straight back and the racket tip rotates up.**
 
-It\'s similar for Marat Safin. Safin is interesting because like most of
+It's similar for Marat Safin. Safin is interesting because like most of
 the men, he starts with the racket pointing more straight ahead, then
 makes a Unit Turn and starts the backswing motion with the hands going
 straight back. During the Unit Turn, however, he starts to tilt the
@@ -403,15 +387,14 @@ the court.
 
 This creates the same illusion we saw with Maria. As the racket changes
 direction, the tip traces a larger circle than many of the other
-players, but the hands stay low. In Safin\'s case the hands again get no
+players, but the hands stay low. In Safin's case the hands again get no
 higher than the middle of his torso.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image17.webp)
 
-**Hewitt\'s racket tip moves down rather than straight back or up.**
+**Hewitt's racket tip moves down rather than straight back or up.**
 
 Hewitt is an interesting case, because his racket tip initially goes
 somewhat downward rather than straight back or slightly up. He starts
@@ -426,21 +409,20 @@ hands through most of the backswing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image17.webp)
 
 **Does the straight backswing cause the \"double pump?\"**
 
 **The Williams Sisters**
 
-But wait a minute! What about the Williams sisters? Aren\'t they the
-classic example of the straight backswing\--and everything that\'s wrong
-with using it? Isn\'t the straight backswing what leads to that ugly
+But wait a minute! What about the Williams sisters? Aren't they the
+classic example of the straight backswing\--and everything that's wrong
+with using it? Isn't the straight backswing what leads to that ugly
 double pumping action so many people have commented on in the backhands
 of Venus and Serena?
 
-If we look closely at the video the answer is no. It\'s not the shape of
-the backswing that causes those double pumps\--it\'s the timing and the
+If we look closely at the video the answer is no. It's not the shape of
+the backswing that causes those double pumps\--it's the timing and the
 movement of the hands independent of the Unit Turn. If we look at what
 actually happens in high speed video, we can see that the double pump is
 the result of another version of the same fallacy we discussed
@@ -449,8 +431,7 @@ and Serena, this independent movement of the hands just happens to be
 straight back, rather than upwards in a loop.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image18.webp)
 
 **Look how far back Venus moves her hands independent of the Unit
 Turn.**
@@ -474,7 +455,7 @@ to the forehand very clearly when we look at the completion of the
 preparation, or the Full Turn. This is when the shoulders turn fully
 sideways, usually 90 degrees to the net or a little more. If we just
 look at the shoulders, the Full Turn on the two-hander is virtually
-identical to the forehand. It\'s the position of the hands that is
+identical to the forehand. It's the position of the hands that is
 different. This is due to the straight component in the backswing
 movement.
 
@@ -485,29 +466,24 @@ essentially parallel to the baseline and at about shoulder height. In
 general on the Two Hander the hands are at about waist level, or at
 most, at the level of the middle of the torso.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing road, person, athletic game, sport Description automatically                                                                                                                                    | ![A person playing tennis Description automatically                                                                                                                                                                    | ![A person playing tennis Description automatically generated with medium                                                                                                                                               | ![A person playing tennis Description automatically                                                                                                                                                                    |
-| generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image19.jpg){width="1.8194444444444444in" | generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image20.jpg){width="2.0416666666666665in" | confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image21.jpg){width="1.8194444444444444in" | generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image22.jpg){width="1.8611111111111112in" |
-| height="2.763888888888889in"}                                                                                                                                                                                          | height="2.736111111111111in"}                                                                                                                                                                                          | height="2.763888888888889in"}                                                                                                                                                                                           | height="2.75in"}                                                                                                                                                                                                       |
-+========================================================================================================================================================================================================================+========================================================================================================================================================================================================================+=========================================================================================================================================================================================================================+========================================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically                                                                                                                                                                    | ![A person playing tennis Description automatically                                                                                                                                                                    | ![A person playing tennis Description automatically                                                                                                                                                                     | ![A person playing tennis Description automatically                                                                                                                                                                    |
-| generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image23.jpg){width="1.9027777777777777in" | generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image24.jpg){width="2.013888888888889in"  | generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image25.jpg){width="1.875in"               | generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image22.jpg){width="1.8611111111111112in" |
-| height="2.75in"}                                                                                                                                                                                                       | height="2.763888888888889in"}                                                                                                                                                                                          | height="2.763888888888889in"}                                                                                                                                                                                           | height="2.75in"}                                                                                                                                                                                                       |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The hands are back further than the edge of the body. The height can vary from waist to about mid torso level.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing road, person, athletic game, sport Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically |
+| --- | --- | --- | --- |
+| generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image19.jpg) |  |  |  |
+| ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically |
+| generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image23.jpg) |  |  |  |
+| **The hands are back further than the edge of the body. The height can vary from waist to about mid torso level.** |  |  |  |
+
 
 The one commonality with the forehand is that the players are fully
 turned and have just started to initiate the loop that changes the
-direction of the racket\--or they are ready to initiate it. It\'s just
+direction of the racket\--or they are ready to initiate it. It's just
 that the loop on the forehand is much larger, higher, and more circular.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image26.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image26.webp)
 
-**Note how low Andre\'s hands are as he starts to change direction of
+**Note how low Andre's hands are as he starts to change direction of
 the racket.**
 
 The looping motion can be extremely minimal on the two-hander as we see
@@ -528,8 +504,7 @@ the size of the height of the backswing. Safin has quite a high racket
 tip, but very little additional backward hand rotation.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image27.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image27.webp)
 
 **Watch the variety of motions used to change the racket direction.**
 
@@ -547,13 +522,12 @@ Some will expand the motion by raising the hands slightly in the
 backward motion, or raising the racket tip\--or even developing
 something idiosyncratic like Hewitt. They may find they are more or less
 comfortable with the racket pointing higher or lower in the ready
-position. It doesn\'t really seem to make a discernable difference among
+position. It doesn't really seem to make a discernable difference among
 the top players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image28.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image28.webp)
 
 **Fundamentals: The Unit Turn and Full Turn, but a variety of compact
 backswings.**
@@ -568,14 +542,13 @@ actually do, not what we imagine they do. This is what the high speed
 video allows us see clearly for the first time across a wide range of
 players.
 
-So that\'s it for the Two-Handed Preparation and Backswing. Stay tuned
+So that's it for the Two-Handed Preparation and Backswing. Stay tuned
 to see what the top players do as they set up their stances and move
 from the contact to the finish to the wrap on the modern two hander.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image29.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing/media/image29.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

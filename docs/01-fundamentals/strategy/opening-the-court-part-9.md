@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------
 
-The 9th pattern in George\'s comprehensive new series is working the
+The 9th pattern in George's comprehensive new series is working the
 corners. Driving the ball deep to the opposite corners will eventually
 force a short ball to take the other way and attack the open court!
 
@@ -15,8 +15,7 @@ force a short ball to take the other way and attack the open court!
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-9/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-9/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

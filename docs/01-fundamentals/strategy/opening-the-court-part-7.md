@@ -4,10 +4,10 @@
 
 ------------------------------------------------------------------------
 
-George\'s series on Opening the Court is based on making full use of the
+George's series on Opening the Court is based on making full use of the
 dimensions of the court and the whole range of all court shot making.
 Pattern 7 is a great example. It starts with a high, deep inside
-forehand to the opponent\'s backhand, then pausing slightly as your
+forehand to the opponent's backhand, then pausing slightly as your
 opponent turns and then moving in the hit a swinging volley, followed by
 a short angle classic volley. What a great way to win a decisive point!
 
@@ -18,8 +18,7 @@ a short angle classic volley. What a great way to win a decisive point!
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-7/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-7/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

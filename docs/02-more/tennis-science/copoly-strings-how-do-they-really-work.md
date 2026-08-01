@@ -6,10 +6,9 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_copoly-strings-how-do-they-really-work/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_copoly-strings-how-do-they-really-work/media/image1.webp)
 
-**It\'s been almost 15 years since Guga first won the French using
+**It's been almost 15 years since Guga first won the French using
 \"copoly\" strings.**
 
 Since Gustavo Kuerten won the French Open in 1997 with the aid of
@@ -28,32 +27,31 @@ the history of tennis.
 **Fundamental Change**
 
 Following his victory in the 2007 US Open final, Roger Federer explained
-that copoly strings had forced a tactical shift in the men\'s game,
+that copoly strings had forced a tactical shift in the men's game,
 pushing attacking players away from the net and back onto the baseline.
 
-\"If you come into the net you\'re dead these days,\" says Nate
-Ferguson, who famously strung Pete Sampras\' rackets for many years and
+\"If you come into the net you're dead these days,\" says Nate
+Ferguson, who famously strung Pete Sampras' rackets for many years and
 is now the personal racquet and string technician for Federer, Djokovic,
-Murray and 13 of the ATP\'s top 30 players.
+Murray and 13 of the ATP's top 30 players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_copoly-strings-how-do-they-really-work/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_copoly-strings-how-do-they-really-work/media/image2.webp)
 
 **The incoming spin from players like Rafa makes volleying far more
 difficult.**
 
 \"Whether or not the ball ends up diving at your feet -- like everyone
-who comes in against Rafa -- it\'s too hard to volley with the spin
+who comes in against Rafa -- it's too hard to volley with the spin
 coming into your racket.\"
 
-According to Ferguson, it\'s not just the pace and trajectory of heavy
-topspin balls. The other problem is the way the net rusher\'s own
+According to Ferguson, it's not just the pace and trajectory of heavy
+topspin balls. The other problem is the way the net rusher's own
 strings react.
 
 \"Let's say the net rusher is now playing with Luxilon. The ball coming
-in reacts differently on your strings, because of their 'grabbiness.\'
+in reacts differently on your strings, because of their 'grabbiness.'
 It makes a volley harder to hit it where you want to.\"
 
 Unfortunately for attacking players, the rise of copoly strings and
@@ -70,13 +68,12 @@ spin, better angles, and therefore more options, making serve and volley
 play all but extinct.
 
 ![A person playing tennis Description automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image3.webp)
 
 **Is copoly pushing serve and volley toward extinction?**
 
 In 2003, a group of former pros, including McEnroe, Navratilova and
-Becker, sent the game\'s rules-making body, the International Tennis
+Becker, sent the game's rules-making body, the International Tennis
 Federation, a letter expressing concern about the state of the game.
 **[\"The sport has lost something, lost some subtlety, some strategy,
 some of the nuance,\" they said, and argued for a return to smaller
@@ -101,8 +98,7 @@ steeper the swing plane and the faster the swing, the more
 spin.]{.mark}]{.underline}** And at one level that really is the bottom
 line.
 
-![](media_copoly-strings-how-do-they-really-work/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_copoly-strings-how-do-they-really-work/media/image4.webp)
 
 **The simple part: a fast steep swing creates more spin.**
 
@@ -130,21 +126,20 @@ is that the ball bounces off the court rotating forward, with
 topspin.]{.mark}]{.underline}**
 
 ![A picture containing text Description automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image5.webp)
 
 **The ball bites the strings, then launches with topspin.**
 
 **Why Straight?**
 
-That\'s the basic physics of the ball string interaction, but it turns
+That's the basic physics of the ball string interaction, but it turns
 out something more happens with copoly. Players have long noticed that
-the new strings don\'t need to be straightened between points and
+the new strings don't need to be straightened between points and
 posited that this explained the extra spin.
 
 The common sense explanation is simply that poly strings are sticky and
-don\'t move out of place. This notion, which many people still believe
-today, led to the theory that because the strings \"don\'t move\" they
+don't move out of place. This notion, which many people still believe
+today, led to the theory that because the strings \"don't move\" they
 offer a more solid surface, and thus more friction and spin.
 
 **[[But there is one big difference between strings and tennis courts
@@ -162,15 +157,14 @@ encourages players to take bigger cuts.
 
 **Reality**
 
-But is it really true that copoly doesn\'t move? To see if this was
+But is it really true that copoly doesn't move? To see if this was
 true, it was necessary to slow down some very fast events to understand
 what was really happening during the 4 or 5 milliseconds that the ball
 is contact with the strings.
 
 ![A picture containing tennis, racket, athletic game, sport Description
 automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image6.webp)
 
 **Conventional nylon strings slide, then get stuck.**
 
@@ -188,26 +182,22 @@ that some strings generate more spin than others not because of more
 friction, but because of less. Incredibly, the strings that generate
 more spin are not really staying still.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Unlubricated Strings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+====================================================================================================================================================================================+====================================================================================================================================================================================+====================================================================================================================================================================================+
-| ![A bird in a cage Description automatically generated with medium                                                                                                                 | ![A cat in a cage Description automatically generated with medium                                                                                                                  | ![A bird in a cage Description automatically generated with low                                                                                                                    |
-| confidence](media_copoly-strings-how-do-they-really-work/media/image7.jpg){width="2.5833333333333335in" | confidence](media_copoly-strings-how-do-they-really-work/media/image8.jpg){width="2.4722222222222223in" | confidence](media_copoly-strings-how-do-they-really-work/media/image9.jpg){width="2.5555555555555554in" |
-| height="1.5972222222222223in"}                                                                                                                                                     | height="1.5972222222222223in"}                                                                                                                                                     | height="1.5972222222222223in"}                                                                                                                                                     |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Note the alignment of the unlubricated strings before contact, basically all aligned and parallel.**                                                                             | **The unlubricated strings slide down at contact displaced by the ball, as the ball embeds in the string bed.**                                                                    | **The unlubricated strings after contact. With the fifth and sixth strings from the bottom still misaligned or stuck.**                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Unlubricated Strings |  |  |
+| --- | --- | --- |
+| ![A bird in a cage Description automatically generated with medium | ![A cat in a cage Description automatically generated with medium | ![A bird in a cage Description automatically generated with low |
+| confidence](media_copoly-strings-how-do-they-really-work/media/image7.jpg) |  |  |
+| **Note the alignment of the unlubricated strings before contact, basically all aligned and parallel.** | **The unlubricated strings slide down at contact displaced by the ball, as the ball embeds in the string bed.** | **The unlubricated strings after contact. With the fifth and sixth strings from the bottom still misaligned or stuck.** |
+
 
 As the click through video show, as the ball impacts the normal
 unlubricated strings, a few of the main strings slide with it. But on
-the rebound, one string gets stuck out of line and doesn\'t return to
-position. And that\'s what all players find with traditional
+the rebound, one string gets stuck out of line and doesn't return to
+position. And that's what all players find with traditional
 strings\--they quite quickly get displaced and stuck out of position.
 
 ![A tennis ball is about to hit a tennis racket Description
 automatically generated with low
-confidence](media_copoly-strings-how-do-they-really-work/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_copoly-strings-how-do-they-really-work/media/image10.webp)
 
 **The lubricated strings slide but then kick back.**
 
@@ -223,15 +213,12 @@ Kawazoe found that this snap-back of the main strings actually gives the
 ball an extra kick, which puts extra spin on the ball. Amazingly, the
 lubricated strings generated 40% more spin.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Lubricated Strings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-+=====================================================================================================================================================================================+=====================================================================================================================================================================================+====================================================================================================================================================================================+
-| ![A bird in a cage Description automatically generated with medium                                                                                                                  | ![A bird in a cage Description automatically generated with medium                                                                                                                  | ![A bird in a cage Description automatically                                                                                                                                       |
-| confidence](media_copoly-strings-how-do-they-really-work/media/image11.jpg){width="2.5277777777777777in" | confidence](media_copoly-strings-how-do-they-really-work/media/image12.jpg){width="2.6805555555555554in" | generated](media_copoly-strings-how-do-they-really-work/media/image13.jpg){width="2.5416666666666665in" |
-| height="1.5833333333333333in"}                                                                                                                                                      | height="1.5833333333333333in"}                                                                                                                                                      | height="1.5833333333333333in"}                                                                                                                                                     |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The alignment of the lubricated strings before contact is similar to the unlubricated, aligned, straight and parallel.**                                                          | **The lubricated strings also slide down at contact displaced by the ball, as the ball embeds in the string bed.**                                                                  | **The lubricated strings snap back into alignment, again look at the fifth and sixth strings from the bottom.**                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Lubricated Strings |  |  |
+| --- | --- | --- |
+| ![A bird in a cage Description automatically generated with medium | ![A bird in a cage Description automatically generated with medium | ![A bird in a cage Description automatically |
+| confidence](media_copoly-strings-how-do-they-really-work/media/image11.jpg) |  |  |
+| **The alignment of the lubricated strings before contact is similar to the unlubricated, aligned, straight and parallel.** | **The lubricated strings also slide down at contact displaced by the ball, as the ball embeds in the string bed.** | **The lubricated strings snap back into alignment, again look at the fifth and sixth strings from the bottom.** |
+
 
 **Relation to Copoly?**
 
@@ -245,22 +232,20 @@ Copoly strings add spin not because they stay still, but because they
 move more freely in both directions.
 
 ![A picture containing text Description automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image14.webp){width="3.3333333333333335in"
-height="1.2916666666666667in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image14.webp)
 
 **Copoly strings displace but then snap back into alignment.**
 
 The International Tennis Federation reached the same conclusions in its
 own experiments. But these results have remained obscure and most
-players and coaches are unaware of them. As with Kawazoe\'s work, the
-ITF papers were published only in technical journals and in the ITF\'s
+players and coaches are unaware of them. As with Kawazoe's work, the
+ITF papers were published only in technical journals and in the ITF's
 own publications, eluding the attention of the general tennis community
 and press.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                           ![Diagram Description automatically
-   generated](media_copoly-strings-how-do-they-really-work/media/image15.jpg){width="2.4305555555555554in"
-                                                                             height="2.4722222222222223in"}
+   generated](media_copoly-strings-how-do-they-really-work/media/image15.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    **Luxilon Power Rough-35% more spin than nylon.**
 
@@ -273,7 +258,7 @@ generated 25% more spin than the average nylon string, and 8% more spin
 than natural gut.
 
 Cross and Lindsey tested only a small sample of strings. But Stuart
-Miller of the ITF told me that the ITF\'s broader test results are
+Miller of the ITF told me that the ITF's broader test results are
 comparable to theirs. In fact the ITF now attempts to test every string
 that hits the market for spin potential, although that data is not
 available to the public.
@@ -282,28 +267,24 @@ The best copoly Cross and Lindsey tested, the venerable Luxilon ALU
 Power Rough, which many pro players still pay for out of pocket,
 generated 35% more spin than the nylon average. Miller says that the
 best string the ITF has tested generates about 5% more than ALU.
-Crunching the numbers tells us that the best copoly they\'ve tested
+Crunching the numbers tells us that the best copoly they've tested
 generates around 42% more spin than the average nylon.
 
 Early just this year, Crawford Lindsey published a series of papers
 providing a wealth of evidence for the slippery string theory.
-\"Lowering the friction of the strings, if you think about it (and I\'m
-surprised that none of the scientists thought of it before), that\'s how
+\"Lowering the friction of the strings, if you think about it (and I'm
+surprised that none of the scientists thought of it before), that's how
 strings move: they store elastic energy and return it,\" says Lindsey.
 
 \"And if you can get the strings to move sideways and store elastic
-energy and then return it, you\'ll get more spin. It makes perfect
+energy and then return it, you'll get more spin. It makes perfect
 sense,\" he adds.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Copoly Strings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+============================================================================================================================================================================+====================================================================================================================================================================================+===================================================================================================================================================================================+
-| ![](media_copoly-strings-how-do-they-really-work/media/image16.jpg){width="2.611111111111111in" | ![A picture containing rack Description automatically                                                                                                                              | ![A picture containing rack Description automatically                                                                                                                             |
-| height="1.3888888888888888in"}                                                                                                                                             | generated](media_copoly-strings-how-do-they-really-work/media/image17.jpg){width="2.5833333333333335in" | generated](media_copoly-strings-how-do-they-really-work/media/image18.jpg){width="2.638888888888889in" |
-|                                                                                                                                                                            | height="1.3888888888888888in"}                                                                                                                                                     | height="1.3888888888888888in"}                                                                                                                                                    |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **You can see, as with the other clips above the alignment of the strings pre contact.**                                                                                   | **This still shows the displacement of the strings sliding downward at contact.**                                                                                                  | **This still shows the copoly snap back to the original position. How would a player know they even moved?**                                                                      |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Copoly Strings |  |  |
+| --- | --- | --- |
+| ![](media_copoly-strings-how-do-they-really-work/media/image16.jpg) | generated](media_copoly-strings-how-do-they-really-work/media/image17.jpg) |  |
+| **You can see, as with the other clips above the alignment of the strings pre contact.** | **This still shows the displacement of the strings sliding downward at contact.** | **This still shows the copoly snap back to the original position. How would a player know they even moved?** |
+
 
 Lindsey believes that the timing of the snapback is crucial, and his
 recent research is beginning to reveal the string characteristics that
@@ -316,18 +297,17 @@ rails for the main strings to glide upon. This makes sense because
 copoly strings are, on average, about 1.4 times as stiff as nylon, and
 about 2.8 times stiffer than natural gut.
 
-In Lindsey\'s lab, stiffness has shown to be important, not only in
+In Lindsey's lab, stiffness has shown to be important, not only in
 facilitating sliding, but also in preventing too much movement. The
 snapback mechanism will fail to produce extra spin if the strings are
-too loose and don\'t have enough stored energy to return quickly enough,
+too loose and don't have enough stored energy to return quickly enough,
 or if the strings are too sticky, and get stuck before they can snap
 back. The optimal string, it seems, has just the right combination of
 stiffness and slickness.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A picture containing diagram Description automatically
-   generated](media_copoly-strings-how-do-they-really-work/media/image19.jpg){width="2.2916666666666665in"
-                                                                             height="2.4305555555555554in"}
+   generated](media_copoly-strings-how-do-they-really-work/media/image19.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **RPM Blast, a Babolat copoly used Rafa and Shiavone to win in Paris.**
 
@@ -363,8 +343,7 @@ displacing and returning within two milliseconds,\" referring directly
 to the timing and facility of the snapback mechanism.
 
 ![A person playing tennis Description automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image20.webp)
 
 **Could copoly affect the launch angle off the strings as well as the
 spin?**
@@ -378,9 +357,9 @@ to close the racket face to compensate. But time may tell whether this
 string has the desired effect.
 
 Prince claims their new slippery string generates 9% more spin than any
-other copoly they\'ve tested. If true, the string may generate as much
-as 55% more spin than the average nylon. We\'ll have to wait for
-independent tests to validate Prince\'s claim, but it does appear that
+other copoly they've tested. If true, the string may generate as much
+as 55% more spin than the average nylon. We'll have to wait for
+independent tests to validate Prince's claim, but it does appear that
 science has finally caught up with the players, who said all along that
 copoly strings generate more spin.
 
@@ -389,7 +368,7 @@ generate more spin, then the aerodynamic effects will bring the ball
 down sooner, therefore you can hit the ball harder at the same time,
 which is an obvious advantage,\" observes Stuart Miller at ITF.
 
-**[[\"So, that\'s why, if you can generate more spin you can keep on
+**[[\"So, that's why, if you can generate more spin you can keep on
 swinging at the ball harder and it becomes
 faster.]{.underline}]{.mark}** So, if somebody were to produce a string
 that has a step-change in spin-generating capacity then you have to
@@ -398,17 +377,16 @@ swinging the racket faster, generating more spin, \[with the ball\]
 still landing in the court.\"
 
 ![A person playing tennis Description automatically
-generated](media_copoly-strings-how-do-they-really-work/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_copoly-strings-how-do-they-really-work/media/image21.webp)
 
 **Who knows what kind of spin this guy is really capable of?**
 
-We will probably never know how much of Rafa\'s enormous spin results
+We will probably never know how much of Rafa's enormous spin results
 from his incredible technique and athleticism and how much from copoly
 strings. What we do know is that Nadal hits with more spin than any
 other player, with forehands in the range of 1800-4900 rpms of total
-spin, and an average of 3200rpm. Rafa\'s heaviest forehands have nearly
-as much total spin as Pete Sampras\' legendarily heavy second serve.
+spin, and an average of 3200rpm. Rafa's heaviest forehands have nearly
+as much total spin as Pete Sampras' legendarily heavy second serve.
 
 Additionally, because copoly strings generate more spin from a given
 swingplane, Rafa does not have to swing as steep or as fast as he would
@@ -417,7 +395,7 @@ with other strings.
 The copoly effect may help explain how Roger Federer, with an eastern
 grip and 90-inch headsize, can hit forehands that spin up to 4500
 revolutions per minute\--although his average forehand rpms are 20% less
-than Rafa\'s.
+than Rafa's.
 
 Federer might still be capable of hitting that shot with nylon string -
 who knows what that guy is capable of-but to do so would require major
@@ -446,7 +424,7 @@ off a tennis racket,\" In Proc. of the 6th Int. Conf. on the Engineering
 of Sport (ed. F. Moritz and S.J.Haake), Springer, New York (2006). Vol.
 1, 379-384.
 
-[C. Lindsey\'s Tennis Warehouse
+[C. Lindsey's Tennis Warehouse
 University](http://twu.tennis-warehouse.com/learning_center/index.php)
 
 [\"What Strings Generate the Most
@@ -475,8 +453,7 @@ Vista, California (2005).
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                          Joshua Speckman is a freelance journalist. A scientist
-  generated](media_copoly-strings-how-do-they-really-work/media/image22.jpeg){width="1.2986111111111112in"   by training and a tennis nut since childhood, he has a
-  height="1.7166666666666666in"}                                                                                                                                                        particular interest in the influence of technology on
+  generated](media_copoly-strings-how-do-they-really-work/media/image22.jpeg)                                                                                                                                                        particular interest in the influence of technology on
                                                                                                                                                                                         tennis. His January 2011 article in The Atlantic, \"The
                                                                                                                                                                                         New Physics of Tennis\", brought the impact of copoly
                                                                                                                                                                                         strings on professional tennis to the attention of the

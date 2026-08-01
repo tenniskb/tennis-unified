@@ -4,27 +4,26 @@
 
 **Dr. Brian Gordon**
 
-In my previous articles we\'ve looked at the windup [(Click
+In my previous articles we've looked at the windup [(Click
 here)](3D%20Technologies%20and%20Analysis%20-%20The%20serve%20wind%20up.docx)
 and the backswing ([Click here)](The%20Backswing%20-%20Part%201.docx)
-from a three dimensional, quantitative perspective. We\'ve seen there
+from a three dimensional, quantitative perspective. We've seen there
 are many possible ways to organize the motions of individual body
 segments in the service motion.[(Click
 Here)](http://www.tennisplayer.net/members/biomechanics/brian_gordon/serve_back_swing_upper_body/serve_back_swing_upper_body.html)
 
-![](media_the-3d-serve-upward-swing-part-1/media/image1.gif){width="2.8645833333333335in"
-height="3.6979166666666665in"}
+![](media_the-3d-serve-upward-swing-part-1/media/image1.gif)
 
-**Let\'s start our analysis of the complexities in the upward swing.**
+**Let's start our analysis of the complexities in the upward swing.**
 
 Players who want to improve their serves have to understand these
 options, and consider them in the context of their physical
-capabilities. Now, in the next two articles, let\'s take the same
+capabilities. Now, in the next two articles, let's take the same
 approach and explore the options in our investigation of the upward
-swing. We\'ll start in this article by seeing how the conditions of the
+swing. We'll start in this article by seeing how the conditions of the
 trunk are critical for setting up certain elements of the upward motion.
 
-As in the previous articles, we\'ll use 3D data for a high level junior
+As in the previous articles, we'll use 3D data for a high level junior
 player to provide examples of how the various segments interact.
 Developmental coaches should take special note of this data, as this
 junior exhibits issues that are almost universal in the development of
@@ -32,12 +31,11 @@ the serve. My belief is that these issues should be addressed in
 coaching as early as possible.
 
 ![A dog playing tennis Description automatically generated with low
-confidence](media_the-3d-serve-upward-swing-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-3d-serve-upward-swing-part-1/media/image2.webp)
 
 **Blinding acceleration gaining 70mph in a fraction of a second.**
 
-We\'ve already seen that defining the options in the motion becomes more
+We've already seen that defining the options in the motion becomes more
 difficult as the speed of the motion increases, for example, when we
 moved from the windup to the backswing. When we try to analyze the
 upward path of the arm and racket this difficulty becomes even greater.
@@ -49,12 +47,12 @@ contact.
 
 **Conditions at the End of the Backswing**
 
-We\'ve covered a lot of complex ground in the previous articles, so
-before we start on the upward swing, let\'s review where we are in the
-motion at the end of the backswing. We\'ll start with the legs, then
+We've covered a lot of complex ground in the previous articles, so
+before we start on the upward swing, let's review where we are in the
+motion at the end of the backswing. We'll start with the legs, then
 look at the trunk.
 
-We\'ll also add some further analysis about the role of the trunk in the
+We'll also add some further analysis about the role of the trunk in the
 backswing as it relates to the upper swing. ***[[The trunk is what I
 call \"The Momentum Super Highway.\" Its position and the way it moves
 during the upward swing are critical for creating the correct racket
@@ -62,8 +60,7 @@ path and maximizing racket speed.]{.mark}]{.underline}***
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-1/media/image3.webp)
 
 **[Once the legs leave the ground, a finite amount of momentum moves up
 the chain.]{.mark}**
@@ -98,8 +95,7 @@ the racquet drop.]{.mark}]{.underline}**
     the upper and lower trunk.]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-3d-serve-upward-swing-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-1/media/image4.webp)
 
 **Shoulder elevation, cartwheeling, and trunk twist\--all parts of the
 backswing.**
@@ -122,8 +118,7 @@ upward swing for developing racket head speed.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_the-3d-serve-upward-swing-part-1/media/image5.webp)\
 \
 **Internal rotation; the dominant arm motion in the backswing.\**
 
@@ -135,18 +130,18 @@ the ball at the greatest height with the racquet face traveling on the
 optimal path for the desired shot direction.]{.mark}]{.underline}***
 
 ***[[The velocity (speed and direction) of the racquet face is the sum
-of the rotations of the joints of the body, considering the joint\'s
+of the rotations of the joints of the body, considering the joint's
 proximity to the racquet face.]{.underline}]{.mark}*** Elbow extension,
 for example, can cause the racquet face to move \-- the velocity of the
 movement being determined by the rate of the elbow extension and the
-elbow\'s location in relation to the racquet face.
+elbow's location in relation to the racquet face.
 
 With 3D analysis, it is possible to determine how the action of each
 joint contributes to the speed of the racquet. These contributions have
 been discussed in a previous article on this site and elsewhere. ([Click
 Here](http://www.tennisplayer.net/members/biomechanics/brian_gordon/serve_tennis_science%20_brian_gordon/serve_tennis_science%20_brian_gordon.html).)
 They provide great insight into how racquet speed is developed in the
-upward swing, as we\'ll see below.
+upward swing, as we'll see below.
 
 ***[[It is important to understand, however, that the joint rotations
 and their contributions to racquet speed do not occur on their
@@ -172,8 +167,7 @@ racket. So the trunk is a major hub in the transfer highway.
 To understand the flow of forward angular momentum into and out of the
 trunk, we must briefly revisit the backswing.
 
-![](media_the-3d-serve-upward-swing-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-3d-serve-upward-swing-part-1/media/image5.webp)
 
 **The cartwheel sets up the momentum transfer to the trunk.**
 
@@ -183,7 +177,7 @@ height="2.2291666666666665in"}
 the trunk occurs during the backswing.]{.underline}]{.mark}*** **[This
 transfer is through the so-called cartwheel motion of the trunk. The
 backward lean at the end of the windup (seen in a side view) sets up
-this transfer. This is the so-called \"archer\'s bow\". It is an
+this transfer. This is the so-called \"archer's bow\". It is an
 attribute shared by all high level servers, but one that many younger
 players are slow to develop.]{.mark}**
 
@@ -207,8 +201,7 @@ backswing and the shoulder joint motion at a later stage\--are often
 limited in the service motions of young juniors.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-3d-serve-upward-swing-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-1/media/image6.webp)
 
 **Shoulder abduction; the movement of the upper arm upward and
 forward.**
@@ -232,14 +225,13 @@ problem, you must understand whether the deficiency in the momentum
 transfer is the transfer into the trunk (cartwheel), or into the arm
 (shoulder abduction), or both.
 
-In the case of the junior player, the answer is both. But if you don\'t
+In the case of the junior player, the answer is both. But if you don't
 happen to have 3D technology on hand to measure angular momentum, how
 can you detect this problem? ***[[A good indicator of the potential
 momentum transfer into the trunk is the backward lean of the trunk at
 the end of the windup.]{.underline}]{.mark}***
 
-![](media_the-3d-serve-upward-swing-part-1/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-3d-serve-upward-swing-part-1/media/image7.webp)
 
 **Little backward lean means little momentum transfer.**
 
@@ -262,7 +254,7 @@ exercises that mimic this arm position and motion. (More on my views on
 the strength training aspect in a future series of articles.)
 
 ***[[Unless this deficiency in the shoulder motion in the early upward
-swing is addressed, the body will devise its own solution. It\'s not a
+swing is addressed, the body will devise its own solution. It's not a
 great solution, unfortunately.]{.underline}]{.mark}*** **[This solution
 is to replace shoulder motion with elbow extension as the source of
 racket speed early in the upward motion. *[This dissipates the
@@ -274,8 +266,7 @@ to correct.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-1/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-1/media/image8.webp)
 
 **During the backswing, the lateral tilt increases to various degrees.**
 
@@ -302,8 +293,7 @@ generated by the leg drive. But another factor affecting the source of
 the tilt is the progression of hip rotation. This is in turn affected by
 the nature of the stance.]{.mark}**
 
-![](media_the-3d-serve-upward-swing-part-1/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}**\
+![](media_the-3d-serve-upward-swing-part-1/media/image9.webp)**\
 What is the function or value of more extreme tilt?**
 
 ***[[The bottom line is that some lateral tilt is optimum, but too much
@@ -324,13 +314,12 @@ to lateral tilt at the end of the wind up.)
 
 At the end of the backswing the tilt has reached 54 degrees, and by
 contact the angle is 49 degrees. (These are all measured from a line
-parallel to the baseline.) That\'s far too much. But to give you an idea
-of the pervasive nature of this problem I\'ve measured angles at contact
+parallel to the baseline.) That's far too much. But to give you an idea
+of the pervasive nature of this problem I've measured angles at contact
 that are less than 40 degrees in several other junior players.
 
 ![Diagram, text Description automatically
-generated](media_the-3d-serve-upward-swing-part-1/media/image10.webp){width="3.8229166666666665in"
-height="3.7708333333333335in"}
+generated](media_the-3d-serve-upward-swing-part-1/media/image10.webp)
 
 **Tilting the torso increase rotation with angular momentum as a
 constant.**
@@ -352,13 +341,12 @@ young players.]{.mark}**
 illustrates this concept. When the trunk is upright it rotates slowly
 forward \-- however, when on its side, the rate of rotation increases
 drastically even when fueled by the same amount of angular momentum.
-It\'s similar to the way an ice skater can increase the speed of a spin
+It's similar to the way an ice skater can increase the speed of a spin
 by pulling her arms in closer to the body.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-3d-serve-upward-swing-part-1/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-3d-serve-upward-swing-part-1/media/image11.webp)
 
 **Tilt affects the hitting arm configuration at the contact.**
 
@@ -375,13 +363,12 @@ rotation how does it limit the rest of the motion? The answer is that
 excessive trunk tilt affects how the player can position his arm and
 racket at contact.]{.mark}**
 
-To see this, let\'s compare the configuration of the trunk and hitting
+To see this, let's compare the configuration of the trunk and hitting
 arm at contact for our group of elite servers with the less preferable
 options.
 
 ![A picture containing diagram Description automatically
-generated](media_the-3d-serve-upward-swing-part-1/media/image12.jpeg){width="2.3958333333333335in"
-height="5.552083333333333in"}
+generated](media_the-3d-serve-upward-swing-part-1/media/image12.jpeg)
 
 **3 variations in the angle of tilt angle, and how they affect the
 angles of the arm and racket.**
@@ -414,7 +401,7 @@ racket has increased as well to 169 degrees.]{.underline}]{.mark}**
 and small changes can have big impact. And the choice could not be more
 important.]{.mark}]{.underline}***
 
-To see how these angles affect performance outcomes, let\'s take a look
+To see how these angles affect performance outcomes, let's take a look
 at our previous work on the contributions of joint rotations to racket
 speed. The contributions to pre-contact racquet speed for the elite
 servers are shown in the table. Note that 23 percent of racket head
@@ -450,8 +437,7 @@ shoulder joint action.]{.mark} ]{.underline}***
 
 ![A picture containing outdoor, sport, player, male Description
 automatically
-generated](media_the-3d-serve-upward-swing-part-1/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-1/media/image13.webp)
 
 **The angle of the arm to the racket affects the amount of internal
 rotation and pronation.**
@@ -482,8 +468,7 @@ tilted configurations increase the role of shoulder internal rotation
 and pronation.]{.underline}]{.mark}***
 
 ![A person playing tennis Description automatically
-generated](media_the-3d-serve-upward-swing-part-1/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-3d-serve-upward-swing-part-1/media/image14.webp)
 
 **Less tilted configuration increase the contribution of internal
 rotation and pronation.**
@@ -495,7 +480,7 @@ rotation\--but this is at the expense of other critical contributors
 around the contact\--internal shoulder rotation and, to a lesser extent,
 forearm pronation.
 
-In every server\'s motion there is a balance of many complex factors.
+In every server's motion there is a balance of many complex factors.
 Definitely there are a range of options that can produce effective
 results. The problems occur when one or another factor becomes too
 extreme at a certain point in the motion. This is the issue at the start
@@ -508,24 +493,23 @@ motions. This is why we work towards intermediate tilt angles of 55 \--
 between the red and the green lines in the diagram.
 
 Now that we understand how the trunk is critical in conveying momentum
-to the hitting arm and racket, let\'s look at the rest of the upward
+to the hitting arm and racket, let's look at the rest of the upward
 motion in more detail in the next article!
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                           | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-3d-serve-upward-swing-part-1/media/image15.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                          | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                        | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                        | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                        | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                        | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                        | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                        | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                        | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | To visit his website, [**[Click                               |
-|                                                                                                                                                                                        | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                        |                                                               |
-|                                                                                                                                                                                        | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                        | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+========================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-3d-serve-upward-swing-part-1/media/image15.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

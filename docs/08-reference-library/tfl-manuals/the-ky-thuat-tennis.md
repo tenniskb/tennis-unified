@@ -1,45 +1,44 @@
 # The_ky_thuat_tennis
 
-+-----------------------------------------------------------------------+
-| **VỊ TRÍ CỔ TAY LÚC TIẾP XÚC BÓNG**                                   |
-|                                                                       |
-| *Thẻ Kỹ Thuật #1 · Hạ Trọng Tâm Từ Gối*                               |
-+-----------------------------------------------------------------------+
+| **VỊ TRÍ CỔ TAY LÚC TIẾP XÚC BÓNG** |
+| --- |
+|  |
+| *Thẻ Kỹ Thuật #1 · Hạ Trọng Tâm Từ Gối* |
 
-+:-------------:+:-------------:+:-------------:+:---------------------:+
-| **🎾          | **🎾 BACKHAND | **🎾 BACKHAND | **⚠️ SAI LẦM PHỔ      |
-| FOREHAND**    | 1 TAY**       | 2 TAY**       | BIẾN**                |
-+---------------+---------------+---------------+-----------------------+
-| **Góc cổ      | **Góc cổ      | **Góc cổ      | **❌ Gập cổ tay       |
-| tay:** Hơi    | tay:** Thẳng  | tay:** Hai    | xuống** Bóng vào lưới |
-| ngửa ra sau   | với cẳng tay  | tay cùng nắm  |                       |
-| (laid-back)   | (neutral)     | --- ổn định   | **❌ Cổ tay           |
-|               |               | cao           | \"flippy\"** Mất kiểm |
-| **Vị trí:**   | **Vị trí:**   |               | soát hướng            |
-| Ngang bóng,   | Cao hơn bóng  | **Vị trí:**   |                       |
-| không cúi     | nhẹ           | Tay dưới tạo  | **❌ Xoắn mặt vợt**   |
-|               |               | lực, tay trên | Bóng xoáy không mong  |
-| **Mặt vợt:**  | **Mặt vợt:**  | dẫn           | muốn                  |
-| Vuông góc với | Nghiêng \~45° |               |                       |
-| hướng đánh    | khi bóng thấp | **Mặt vợt:**  | **❌ Cổ tay quá       |
-|               |               | Vuông góc,    | cứng** Chấn thương,   |
-| **Ngón cái:** | **Khuỷu       | không xoắn    | thiếu follow-through  |
-| Đẩy vào cán   | tay:** Duỗi   |               |                       |
-| --- tạo ổn    | hoàn toàn khi | **Ngón cái    | **❌ Nắm vợt quá      |
-| định          | chạm bóng     | tay dưới:**   | chặt** Cứng toàn cánh |
-|               |               | Đẩy lên ---   | tay                   |
-| **Cảm giác    | **Cảm giác    | tạo topspin   |                       |
-| đúng:** Cổ    | đúng:** Tay   |               | **❌ Mở mặt vợt sớm** |
-| tay \"khóa    | duỗi dài ---  | **Cảm giác    | Bóng bay ra khỏi sân  |
-| nhẹ\" ---     | \"đẩy bóng\"  | đúng:**       |                       |
-| không gập     |               | \"Ép\" vợt từ |                       |
-|               | **Bóng        | hai phía      |                       |
-| **Bóng        | thấp:** Gối   |               |                       |
-| thấp:** Duỗi  | xuống, cổ tay | **Bóng        |                       |
-| cổ tay, KHÔNG | KHÔNG thay    | thấp:** Gối   |                       |
-| gập xuống     | đổi           | xuống, tay    |                       |
-|               |               | dưới kéo lên  |                       |
-+---------------+---------------+---------------+-----------------------+
+
+| **🎾 | **🎾 BACKHAND | **🎾 BACKHAND | **⚠️ SAI LẦM PHỔ |
+| --- | --- | --- | --- |
+| FOREHAND** | 1 TAY** | 2 TAY** | BIẾN** |
+| **Góc cổ | **Góc cổ | **Góc cổ | **❌ Gập cổ tay |
+| tay:** Hơi | tay:** Thẳng | tay:** Hai | xuống** Bóng vào lưới |
+| ngửa ra sau | với cẳng tay | tay cùng nắm |  |
+| (laid-back) | (neutral) | --- ổn định | **❌ Cổ tay |
+|  |  | cao | \"flippy\"** Mất kiểm |
+| **Vị trí:** | **Vị trí:** |  | soát hướng |
+| Ngang bóng, | Cao hơn bóng | **Vị trí:** |  |
+| không cúi | nhẹ | Tay dưới tạo | **❌ Xoắn mặt vợt** |
+|  |  | lực, tay trên | Bóng xoáy không mong |
+| **Mặt vợt:** | **Mặt vợt:** | dẫn | muốn |
+| Vuông góc với | Nghiêng \~45° |  |  |
+| hướng đánh | khi bóng thấp | **Mặt vợt:** | **❌ Cổ tay quá |
+|  |  | Vuông góc, | cứng** Chấn thương, |
+| **Ngón cái:** | **Khuỷu | không xoắn | thiếu follow-through |
+| Đẩy vào cán | tay:** Duỗi |  |  |
+| --- tạo ổn | hoàn toàn khi | **Ngón cái | **❌ Nắm vợt quá |
+| định | chạm bóng | tay dưới:** | chặt** Cứng toàn cánh |
+|  |  | Đẩy lên --- | tay |
+| **Cảm giác | **Cảm giác | tạo topspin |  |
+| đúng:** Cổ | đúng:** Tay |  | **❌ Mở mặt vợt sớm** |
+| tay \"khóa | duỗi dài --- | **Cảm giác | Bóng bay ra khỏi sân |
+| nhẹ\" --- | \"đẩy bóng\" | đúng:** |  |
+| không gập |  | \"Ép\" vợt từ |  |
+|  | **Bóng | hai phía |  |
+| **Bóng | thấp:** Gối |  |  |
+| thấp:** Duỗi | xuống, cổ tay | **Bóng |  |
+| cổ tay, KHÔNG | KHÔNG thay | thấp:** Gối |  |
+| gập xuống | đổi | xuống, tay |  |
+|  |  | dưới kéo lên |  |
+
 
   -----------------------------------------------------------------------
   **✅ KIỂM TRA NHANH:** Sau cú đánh, cổ tay bạn ở đâu? **Nếu ở dưới vai
@@ -47,11 +46,11 @@
 
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **VỊ TRÍ GỐI VÀ HIP KHI HẠ THẤP**                                     |
-|                                                                       |
-| *Thẻ Kỹ Thuật #2 · Hạ Trọng Tâm Từ Gối*                               |
-+-----------------------------------------------------------------------+
+| **VỊ TRÍ GỐI VÀ HIP KHI HẠ THẤP** |
+| --- |
+|  |
+| *Thẻ Kỹ Thuật #2 · Hạ Trọng Tâm Từ Gối* |
+
 
   ---------------- -------------- -------------- ----------------------------
    **SPLIT-STEP**   **CHUẨN BỊ /  **LUNGE / ĐÁNH   **NGŨ HUYỀN THOẠI --- SO
@@ -82,41 +81,39 @@
 
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **CHUỖI ĐỘNG HỌC --- KINETIC CHAIN**                                  |
-|                                                                       |
-| *Thẻ Kỹ Thuật #3 · Hạ Trọng Tâm Từ Gối*                               |
-+-----------------------------------------------------------------------+
+| **CHUỖI ĐỘNG HỌC --- KINETIC CHAIN** |
+| --- |
+|  |
+| *Thẻ Kỹ Thuật #3 · Hạ Trọng Tâm Từ Gối* |
 
-+:---------:+:---------:+:---------:+:---------:+:----------:+:---------:+
-| **①**     | **②**     | **③**     | **④**     | **⑤**      | **⑥**     |
-|           |           |           |           |            |           |
-| **ĐẨY     | **XOAY    | **HÔNG    | **THÂN    | **VAI      | **VỢT     |
-| ĐẤT**     | GỐI**     | MỞ**      | MỞ**      | XOAY**     | TIẾP      |
-|           |           |           |           |            | XÚC**     |
-| *Chân &   | *Knee &   | *Hip      | *Core &   | *Shoulder* |           |
-| Gót*      | Hip*      | Rotation* | Trunk*    |            | *Racket   |
-|           |           |           |           |            | Face*     |
-+-----------+-----------+-----------+-----------+------------+-----------+
-| Cơ đùi    | Gối duỗi  | Hông xoay | Cơ lõi    | Vai xoay   | Tốc độ    |
-| trước     | ra từ góc | về phía   | truyền    | theo hông, | đầu vợt = |
-| (quad) và | lunge,    | lưới      | lực từ    | không tự   | tổng hợp  |
-| cơ mông   | hông bắt  | 45°--90°. | hông lên  | di chuyển  | của tất   |
-| (glute)   | đầu xoay. | Cơ xiên   | vai. Lưng | độc lập.   | cả các    |
-| đẩy vào   | Thứ tự:   | bụng kéo  | THẲNG =   | Cánh tay   | bước      |
-| mặt sân.  | gối duỗi  | căng rồi  | truyền    | \"được     | trên. Cổ  |
-| Bàn chân  | TRƯỚC,    | bung ra.  | dẫn tối   | kéo\" bởi  | tay thả   |
-| ngoài làm | hông xoay | Đây là    | ưu. Lưng  | vai, không | lỏng tạo  |
-| trụ, bàn  | THEO ---  | nguồn lực | CONG =    | tự vung.   | tốc độ    |
-| chân      | không     | chính của | thất      |            | cuối.     |
-| trong     | đảo.      | cú đánh.  | thoát     |            | Chạm bóng |
-| đẩy.      |           |           | lực.      |            | = bùng    |
-|           |           |           |           |            | nổ.       |
-+-----------+-----------+-----------+-----------+------------+-----------+
-| **LỰC BẮT | **TRUYỀN  | **NGUỒN   | **ĐƯỜNG   | **ĐIỂM     | **ĐIỂM    |
-| ĐẦU Ở     | LỰC LÊN** | LỰC       | TRUYỀN**  | TRUYỀN**   | ĐỈNH      |
-| ĐÂY**     |           | CHÍNH**   |           |            | CAO**     |
-+-----------+-----------+-----------+-----------+------------+-----------+
+
+| **①** | **②** | **③** | **④** | **⑤** | **⑥** |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| **ĐẨY | **XOAY | **HÔNG | **THÂN | **VAI | **VỢT |
+| ĐẤT** | GỐI** | MỞ** | MỞ** | XOAY** | TIẾP |
+|  |  |  |  |  | XÚC** |
+| *Chân & | *Knee & | *Hip | *Core & | *Shoulder* |  |
+| Gót* | Hip* | Rotation* | Trunk* |  | *Racket |
+|  |  |  |  |  | Face* |
+| Cơ đùi | Gối duỗi | Hông xoay | Cơ lõi | Vai xoay | Tốc độ |
+| trước | ra từ góc | về phía | truyền | theo hông, | đầu vợt = |
+| (quad) và | lunge, | lưới | lực từ | không tự | tổng hợp |
+| cơ mông | hông bắt | 45°--90°. | hông lên | di chuyển | của tất |
+| (glute) | đầu xoay. | Cơ xiên | vai. Lưng | độc lập. | cả các |
+| đẩy vào | Thứ tự: | bụng kéo | THẲNG = | Cánh tay | bước |
+| mặt sân. | gối duỗi | căng rồi | truyền | \"được | trên. Cổ |
+| Bàn chân | TRƯỚC, | bung ra. | dẫn tối | kéo\" bởi | tay thả |
+| ngoài làm | hông xoay | Đây là | ưu. Lưng | vai, không | lỏng tạo |
+| trụ, bàn | THEO --- | nguồn lực | CONG = | tự vung. | tốc độ |
+| chân | không | chính của | thất |  | cuối. |
+| trong | đảo. | cú đánh. | thoát |  | Chạm bóng |
+| đẩy. |  |  | lực. |  | = bùng |
+|  |  |  |  |  | nổ. |
+| **LỰC BẮT | **TRUYỀN | **NGUỒN | **ĐƯỜNG | **ĐIỂM | **ĐIỂM |
+| ĐẦU Ở | LỰC LÊN** | LỰC | TRUYỀN** | TRUYỀN** | ĐỈNH |
+| ĐÂY** |  | CHÍNH** |  |  | CAO** |
+
 
   -----------------------------------------------------------------------
   **CHÂN → GỐI → HÔNG → THÂN → VAI → VỢT \| Lực khuếch đại ở mỗi bước ---
@@ -124,11 +121,11 @@
 
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **SO SÁNH 5 HUYỀN THOẠI**                                             |
-|                                                                       |
-| *Thẻ Kỹ Thuật #4 · Hạ Trọng Tâm Từ Gối*                               |
-+-----------------------------------------------------------------------+
+| **SO SÁNH 5 HUYỀN THOẠI** |
+| --- |
+|  |
+| *Thẻ Kỹ Thuật #4 · Hạ Trọng Tâm Từ Gối* |
+
 
   ----------- ------------- ------------- -------------- -------------- ------------
     **TIÊU     **FEDERER**    **NADAL**    **WAWRINKA**   **DJOKOVIC**   **RUBLEV**
@@ -164,11 +161,11 @@
 
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **6 SAI LẦM PHỔ BIẾN & CÁCH SỬA NHANH**                               |
-|                                                                       |
-| *Thẻ Kỹ Thuật #5 · Hạ Trọng Tâm Từ Gối*                               |
-+-----------------------------------------------------------------------+
+| **6 SAI LẦM PHỔ BIẾN & CÁCH SỬA NHANH** |
+| --- |
+|  |
+| *Thẻ Kỹ Thuật #5 · Hạ Trọng Tâm Từ Gối* |
+
 
   -------- ----------- ---------------- ------------------ -------------------
    **\#**  **SAI LẦM** **TRIỆU CHỨNG**     **CÁCH SỬA**    **✅ TỰ KIỂM TRA**

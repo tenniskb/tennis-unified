@@ -5,7 +5,7 @@
 David Bailey is the first analyst and coach to systematically study the
 real footwork patterns of great movers at all levels. In this series we
 are presenting the 12 Golden Moves that players need to have complete
-world class footwork. For an introduction to Dave\'s system, [Click
+world class footwork. For an introduction to Dave's system, [Click
 Here!](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/intro/)
 To see all the Golden Moves [Click
 Here](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/intro/).
@@ -16,15 +16,14 @@ and approaching the net. See David teach the step pattern and then watch
 it demonstrated by players like you (or players you might want to
 become!), including both adults and juniors.
 
-As I said David\'s work is based on close analysis of the world\'s best
+As I said David's work is based on close analysis of the world's best
 players. Check out his articles in the Footwork section with footage
 from live pro play! ([Click
 Here!)](https://www.tennisplayer.net/members/footwork/footwork.html)
 
 ![](media_the-golden-move-2-the-front-foot-hop/media/image1.wmf)
 
-![](media_the-golden-move-2-the-front-foot-hop/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-2-the-front-foot-hop/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

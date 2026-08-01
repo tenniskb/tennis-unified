@@ -8,12 +8,11 @@ consequence. There is illusion. Then there is delusion.
 
 You can see all four mixed together in the terrible instructional
 information that continues to flood You Tube. If you understand the
-amount of bad thinking in tennis, you\'ll question the You Tube experts
+amount of bad thinking in tennis, you'll question the You Tube experts
 who want to tell you how to grow tomatoes, fix your sink, or whatever.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-lag-and-snap/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-lag-and-snap/media/image1.webp)
 
 **Is \"lag and snap\" a cause, a consequence, an illusion\--or a
 delusion?**
@@ -22,7 +21,7 @@ In tennis the latest terrible example is the \"lag and snap\" forehand.
 The claim is that \"lag and snap\" is the magic you need for developing
 a pro level forehand.
 
-The problem is lag and snap doesn\'t really happen in the way the
+The problem is lag and snap doesn't really happen in the way the
 so-called experts claim. And focusing on it prevents players from
 developing the basic components that really could give them a
 technically superior forehand.
@@ -36,23 +35,22 @@ arm at the start of the forward swing.]{.mark}** Then they suddenly
 gives you world class ball speed and spin.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-myth-of-lag-and-snap/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-lag-and-snap/media/image2.webp)
 
 **Players try to mechanically force what can only happen naturally and
 automatically.**
 
-That\'s the belief. Go on a tennis message board and you will find 3.0
+That's the belief. Go on a tennis message board and you will find 3.0
 players discussing their tortured struggles to make it happen---and
-their frustration that it doesn\'t happen---and surprise---their
+their frustration that it doesn't happen---and surprise---their
 confusion that trying to make it happen makes their forehands worse. It
-can\'t be the concept! I must not be doing it right!
+can't be the concept! I must not be doing it right!
 
 **The Factors**
 
-So let\'s talk about those four factors: ***[[causation, consequence,
+So let's talk about those four factors: ***[[causation, consequence,
 illusion, and delusion.]{.underline}]{.mark}*** ***[[Lag and snap
-doesn\'t cause anything.]{.underline}]{.mark}*** ***[[The motions seen
+doesn't cause anything.]{.underline}]{.mark}*** ***[[The motions seen
 in some high speed video that have been called \"lag and snap\" are
 actually consequences.]{.underline}]{.mark}***
 
@@ -62,50 +60,48 @@ delusion]{.underline}]{.mark}***.
 
 ***[[The reality is that good players with good forehands are trying to
 moderate or prevent the so-called \"snap\" from
-happening.]{.underline}]{.mark}*** That\'s right, good players are
+happening.]{.underline}]{.mark}*** That's right, good players are
 trying to inhibit the same motion some \"experts\" are telling lower
 level players they need to maximize. Furthermore, the motions described
-as \"lag and snap\" don\'t even happen in some good forehands, for
+as \"lag and snap\" don't even happen in some good forehands, for
 example for players with extreme grips like Jack Sock.
 
 **The Video Shows What?**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-lag-and-snap/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-lag-and-snap/media/image3.webp)
 
 **The so called lag happening as a consequence the flip.**
 
-So let\'s look at the hitting arm and wrist motions across a range of
+So let's look at the hitting arm and wrist motions across a range of
 grip styles and then see how trying to \"lag and snap\" can prevent you
-from having the forehand you want. Then let\'s look at what you should
-actually focus on. That\'s way easier, and it actually works.
+from having the forehand you want. Then let's look at what you should
+actually focus on. That's way easier, and it actually works.
 
-***[It\'s true that for most players with some version of an eastern or
+***[It's true that for most players with some version of an eastern or
 a semi-western grip there is motion in the wrist at the completion of
 the backswing and in the forward motion to the ball. The wrist lays back
 and then usually flexes forward to some degree in the swing. Is this lag
 and snap?]{.mark}***
 
-Doesn\'t Tennisplayer high speed video conclusively demonstrate that
-Roger Federer\'s wrist moves into a radically laid back position in the
+Doesn't Tennisplayer high speed video conclusively demonstrate that
+Roger Federer's wrist moves into a radically laid back position in the
 backswing? Yes!
 
-And doesn\'t Tennisplayer high speed video conclusively demonstrate that
-Roger Federer\'s forehand has usually has forward wrist flexion from
+And doesn't Tennisplayer high speed video conclusively demonstrate that
+Roger Federer's forehand has usually has forward wrist flexion from
 this laid back position on the way to contact and then more after
 contact? True!
 
-**[[So why shouldn\'t I believe what I can get for free on YouTube and
-learn to lag and snap just like Roger? Because Roger isn\'t doing it
+**[[So why shouldn't I believe what I can get for free on YouTube and
+learn to lag and snap just like Roger? Because Roger isn't doing it
 intentionally and these movements are the result of other movements and
 forces.]{.mark}]{.underline}**
 
 ![A picture containing text, outdoor, person, player Description
 automatically
-generated](media_the-myth-of-lag-and-snap/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-lag-and-snap/media/image4.webp)
 
 **The wrist is laid back before during and after contact on the vast
 majority of forehands.**
@@ -115,13 +111,13 @@ majority of forehands.**
 ***[[If your wrist is relaxed at the top of the backswing it will
 naturally lay back as the racket moves downward and the hitting arm
 rotates backward. This backward rotation is called external rotation in
-biomechanics. It\'s what Rick Macci calls the
+biomechanics. It's what Rick Macci calls the
 \"Flip.\"]{.underline}]{.mark}*** ([Click
 Here](https://www.tennisplayer.net/members/high_performance/high_performance.html).)
 
 **[There is no additional delay or \"lag.\"]{.mark}** ***[[The problem
 is lower level players can be stiff and mechanical and so this rotation
-doesn\'t happen naturally, and because of this the wrist doesn\'t lay
+doesn't happen naturally, and because of this the wrist doesn't lay
 back.]{.mark}]{.underline}***
 
 **[These players are intent on creating \"lag\" so they tense up further
@@ -131,7 +127,7 @@ swing. While they are thinking about how to \"lag\" and wondering if
 they are, the ball gets on top of them and the forward swing is short
 and muscled.]{.mark}**
 
-Ok but what about \"snap\"? Didn\'t I say that the wrist is flexing
+Ok but what about \"snap\"? Didn't I say that the wrist is flexing
 forward? Yes. But the extensive Tennisplayer archival video clearly
 shows that on the vast majority of all forehands hit by world class
 players the wrist is still laid back to some significant degree before,
@@ -139,8 +135,7 @@ during, and after contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-lag-and-snap/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-lag-and-snap/media/image5.webp)
 
 **The wrist actually can lay back further due to the contact.**
 
@@ -151,7 +146,7 @@ This in turn explains the differences in the angle of the wrist and the
 amount of lay back at contact that you see when you study a few hundred
 pro forehands.
 
-***[[The reality, Brian\'s research shows, is that, depending on the
+***[[The reality, Brian's research shows, is that, depending on the
 specific ball, players are trying to reduce or eliminate snapping. They
 are actively restraining the forward motion of the wrist. Correct\--the
 exact total opposite of the snap.]{.mark}]{.underline}***
@@ -168,8 +163,7 @@ But in general the angle of the wrist orients the racket head with the
 shot line at contact.
 
 ![A person playing tennis Description automatically
-generated](media_the-myth-of-lag-and-snap/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-lag-and-snap/media/image6.webp)
 
 **The difference in wrist angle for an inside out versus an inside in
 for a conservative grip.**
@@ -196,27 +190,26 @@ More lay back going inside out. And less layback going inside in.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-lag-and-snap/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-lag-and-snap/media/image7.webp)
 
 **The difference in wrist angle for an inside out versus an inside in
 for a more extreme grip.**
 
 So if you believe in lag and snap, try hitting some deep, heavy inside
 out forehands and see if you can snap. Video it in high speed and see
-what that shows you. Don\'t hurt your wrist.
+what that shows you. Don't hurt your wrist.
 
-This inhibition of the wrist flex isn\'t mechanical with top players.
+This inhibition of the wrist flex isn't mechanical with top players.
 Undoubtedly it is unconscious and directed by feel and mental images. So
-don\'t think verbally about impeding the racket head by 27degrees or
+don't think verbally about impeding the racket head by 27degrees or
 whatever. Imagine the alignment of the racket head and the shot.
 
 **The Final Nail?**
 
-I know true believers will likely never abandon the faith, but let\'s
+I know true believers will likely never abandon the faith, but let's
 put one more nail in the coffin of lag and snap by looking at the
-forehand of Jack Sock. It\'s one of the fastest and one of the heaviest
-in tennis (maybe even heavier than Nadal\'s forehand).
+forehand of Jack Sock. It's one of the fastest and one of the heaviest
+in tennis (maybe even heavier than Nadal's forehand).
 
 But there is no lag and snap. In this case, not even the illusion. How
 is that? Sock has the most extreme grip in tennis---a full western with
@@ -225,12 +218,11 @@ There is no real support behind the racket head.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-lag-and-snap/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-lag-and-snap/media/image8.webp)
 
 **Fast and heavy and a fearsome flip and no lag and snap.**
 
-His wrist doesn\'t lay back in the backswing. It doesn\'t flex in the
+His wrist doesn't lay back in the backswing. It doesn't flex in the
 forward swing. So how did his forehand get so fearsome without the magic
 of lag and snap?
 
@@ -261,8 +253,7 @@ position---guess what?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-lag-and-snap/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-lag-and-snap/media/image9.webp)
 
 **Outside backswing, full turn, great extension---the real magic at any
 age or level.**
@@ -271,9 +262,9 @@ You will get the flip automatically. The wrist will lay back at the
 start of the swing and then flex appropriately without you thinking or
 trying.
 
-***[[So don\'t even say the words lag and snap again. Think coil and
+***[[So don't even say the words lag and snap again. Think coil and
 extend.]{.underline}]{.mark}*** ***[Or actually visualize and feel coil
-and extend---and do that until it\'s all subconscious.]{.mark}***
+and extend---and do that until it's all subconscious.]{.mark}***
 
 ***[If the outside backswing is a problem for you initially just drop
 the hitting arm down to the double bend or straight arm position at the
@@ -282,14 +273,13 @@ outside backswing position.]{.mark}***
 
 If you want to see an entire teaching course devoted to developing this
 forehand and discussion of many other issues that confuse and impede
-player\'s development check out my New Teaching System. ([Click
+player's development check out my New Teaching System. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html).)
 I will put it up against any online course out there. See if you agree.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-myth-of-lag-and-snap/media/image10.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-myth-of-lag-and-snap/media/image10.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

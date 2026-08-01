@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_understanding-the-continental-grip/media/image1.jpg){width="2.6041666666666665in"
-height="3.1770833333333335in"}
+confidence](media_understanding-the-continental-grip/media/image1.jpg)
 
 **The rise of the western forehand makes the ability to transition
 between grips critical for players at all levels.**
@@ -34,8 +33,7 @@ of an era for tennis.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   ![A picture containing person Description automatically
-   generated](media_understanding-the-continental-grip/media/image2.jpg){width="2.0833333333333335in"
-                                                                                     height="3.125in"}
+   generated](media_understanding-the-continental-grip/media/image2.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **The Continental Grip: Today, many players lack a well-rounded game without it.**
 
@@ -49,7 +47,7 @@ two-handed backhands.
 
 Another transition was occurring simultaneously - the shift from wood to
 metal racquets, and eventually to graphite. Graphite, the basis for all
-of today\'s racquet technology, made the use topspin even more necessary
+of today's racquet technology, made the use topspin even more necessary
 in order to control the added power these racquets supplied.
 
 Of course, there were some players who were very successful with the old
@@ -58,7 +56,7 @@ Edberg), but as the mechanics of a more complete swing (torso rotation
 and free arm swing) became better understood, these players soon saw
 their time passing.
 
-Today\'s player has to learn to use not one but numerous grips to become
+Today's player has to learn to use not one but numerous grips to become
 a more complete player. These grips are often different very different
 in terms of hand placement on the handle and the amount of movement
 required to go from one to the other, for example, from a western
@@ -71,8 +69,7 @@ most extreme grips also tend to have the most limited games.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-continental-grip/media/image3.webp){width="2.5729166666666665in"
-                                                                                     height="2.3125in"}
+   confidence](media_understanding-the-continental-grip/media/image3.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **The days of playing with only one grip have passed at both the club and pro levels.**
 
@@ -98,8 +95,7 @@ changes in the structure of swing patterns.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-continental-grip/media/image4.webp){width="2.6875in"
-                                                                         height="2.0208333333333335in"}
+   confidence](media_understanding-the-continental-grip/media/image4.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                **Unless players can transition from the new groundstroke grips to the continental, they become one dimensional.**
 
@@ -108,7 +104,7 @@ changes in the structure of swing patterns.
 The most difficult process in understanding grips and grip changes is
 the visual or mental aspect. Correlation between the position of the
 hand and the angle of the racquet face has to be created visually in the
-mind\'s eye for each grip position.
+mind's eye for each grip position.
 
 This is very difficult when transitioning between two extreme positions
 because visually/mentally they are so different.
@@ -121,21 +117,20 @@ mental images necessary to transition well between them.
 In this 3 article series, I will go over the variety of possible grips,
 explain why each grip is necessary and then go over the physical changes
 and mental images required to make the particular grip work. Part 1
-starts with the continental grip. In Part 2, I\'ll do the same for the
-forehand grips, both Western and the Eastern. In part 3 we\'ll move to
+starts with the continental grip. In Part 2, I'll do the same for the
+forehand grips, both Western and the Eastern. In part 3 we'll move to
 the backhand grips for both 1-Handed and 2-Handed players.
 
 **The Continental Grip**
 
-As we said, the continental grip is no longer \"the grip\". But it\'s
+As we said, the continental grip is no longer \"the grip\". But it's
 still the one grip every player needs in the modern game. One of the
 down sides in the evolution of grips is how few modern players know what
 the continental grip is or how to use it.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-continental-grip/media/image5.webp){width="2.6458333333333335in"
-                                                                                     height="2.46875in"}
+   confidence](media_understanding-the-continental-grip/media/image5.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                     **On the forehand underspin groundstroke, the racquet head is above the wrist, and the inside portion of the elbow is pulled in toward the stomach.**
 
@@ -143,7 +138,7 @@ the continental grip is or how to use it.
 
 As the challenge was once learning other grips besides the continental,
 it is now rediscovering this grip and learning how and when to use it.
-It\'s ironic that the continental has gone from almost universal to near
+It's ironic that the continental has gone from almost universal to near
 extinction in only a couple of generations of players.
 
 **[[The continental grip or what I call the open racquet face
@@ -169,8 +164,7 @@ the drop shot or the drop volley.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person playing tennis Description automatically
-   generated](media_understanding-the-continental-grip/media/image6.webp){width="2.5833333333333335in"
-                                                                                    height="2.21875in"}
+   generated](media_understanding-the-continental-grip/media/image6.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                          **On the forehand volley, again the elbow comes in opening the racquet face and sliding under the ball.**
 
@@ -181,7 +175,7 @@ making sure the inside portion of the elbow is pulled toward the stomach
 as the ball is struck. The wrist position is slightly laid back, and the
 racquet head is positioned above the wrist.]{.mark}]{.underline}**
 
-This position will be very awkward at first. It\'s important to know
+This position will be very awkward at first. It's important to know
 that it stays the same on all forehand underspin shots, no matter how
 low the ball goes.
 
@@ -193,7 +187,7 @@ position.
 The shot may not be used much in the modern pro game, but it is far more
 effective at the club level. By using underspin, you keep the ball low,
 which is great for approaches. Since club players are not likely to face
-Andre Agassi\'s two-handed backhand pass, they don\'t need to blast the
+Andre Agassi's two-handed backhand pass, they don't need to blast the
 approach to be effective at net.
 
 The fact so many club players are unfamiliar with underspin can make the
@@ -203,8 +197,7 @@ free points.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     ![A person playing tennis Description automatically
-   generated](media_understanding-the-continental-grip/media/image7.webp){width="2.5833333333333335in"
-                                                                               height="2.2083333333333335in"}
+   generated](media_understanding-the-continental-grip/media/image7.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **Watch the hand slide under the ball, with arm straight before and after contact.**
 
@@ -240,8 +233,7 @@ hand all the way through.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-continental-grip/media/image8.webp){width="2.625in"
-                                                                         height="2.2083333333333335in"}
+   confidence](media_understanding-the-continental-grip/media/image8.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                       **The backhand volley with the continental grip, high to low with the hand sliding under the ball.**
 
@@ -262,7 +254,7 @@ resulting in an error.]{.underline}]{.mark}**
 (topspin and sidespin) which brings the ball down
 faster.]{.underline}]{.mark}** **[[Since the ball comes down faster it
 allows the player to hit the serve harder and more upward (it almost
-forces the player to hit harder because if he/she doesn\'t, the serve
+forces the player to hit harder because if he/she doesn't, the serve
 will not go over the net).]{.underline}]{.mark}**
 
 On the serve, the continental grip makes the transition of the racquet
@@ -277,8 +269,7 @@ head.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        ![A person speaking into a microphone in front of a large crowd Description automatically generated with medium
-   confidence](media_understanding-the-continental-grip/media/image9.webp){width="2.5729166666666665in"
-                                                                               height="2.4479166666666665in"}
+   confidence](media_understanding-the-continental-grip/media/image9.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **A key image on the serve is to reach for the ball with the top edge of the racquet.**
 
@@ -290,7 +281,7 @@ with many players who serve with other grips and results in very limited
 ability to create good quality, consistent spin.
 
 **[[One mental process to understand is that the right image for a
-particular player on a particular shot won\'t always correlate perfectly
+particular player on a particular shot won't always correlate perfectly
 with the contact point. This can be true on the spin
 serve.]{.underline}]{.mark}**
 
@@ -305,27 +296,26 @@ coming across the ball (**[[the head is closed, facing the ground, at
 contact.]{.underline}]{.mark}** **[[In reality the racquet face angle is
 again almost perpendicular to the court.]{.underline}]{.mark}**
 
-I\'ll have more to say on the image versus reality issue in Part 2 when
-we\'ll take on the forehand grips, especially the Western and
+I'll have more to say on the image versus reality issue in Part 2 when
+we'll take on the forehand grips, especially the Western and
 Semi-Western grips that are so popular in the modern game.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                    | Kerry Mitchell was a leading Bay Area teaching   |
-| confidence](media_understanding-the-continental-grip/media/image10.jpeg){width="1.45625in" | pro for 20 years. He developed numerous ranked   |
-| height="1.3916666666666666in"}                                                                                                                                                 | junior players and coached a series of           |
-|                                                                                                                                                                                | championship high school teams. He was highly    |
-|                                                                                                                                                                                | ranked both sectionally and nationally in men\'s |
-|                                                                                                                                                                                | 30 and 35 singles..                              |
-|                                                                                                                                                                                |                                                  |
-|                                                                                                                                                                                | After 15 years as the Head Teaching Pro at the   |
-|                                                                                                                                                                                | John Yandell Tennis School in San Francisco,     |
-|                                                                                                                                                                                | California Kerry and his partner are now         |
-|                                                                                                                                                                                | splitting time between homes in Merida, Mexico   |
-|                                                                                                                                                                                | and Toronto, Canada. He has continued to coach   |
-|                                                                                                                                                                                | and to have great competitive success winning    |
-|                                                                                                                                                                                | Canadian National seniors titles---not to        |
-|                                                                                                                                                                                | mention continuing to write articles for         |
-|                                                                                                                                                                                | Tennisplayer from his unique perspective.        |
-+================================================================================================================================================================================+==================================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area teaching |
+| --- | --- |
+| confidence](media_understanding-the-continental-grip/media/image10.jpeg) | junior players and coached a series of |
+|  | championship high school teams. He was highly |
+|  | ranked both sectionally and nationally in men's |
+|  | 30 and 35 singles.. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at the |
+|  | John Yandell Tennis School in San Francisco, |
+|  | California Kerry and his partner are now |
+|  | splitting time between homes in Merida, Mexico |
+|  | and Toronto, Canada. He has continued to coach |
+|  | and to have great competitive success winning |
+|  | Canadian National seniors titles---not to |
+|  | mention continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

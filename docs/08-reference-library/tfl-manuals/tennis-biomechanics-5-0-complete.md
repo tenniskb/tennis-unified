@@ -168,9 +168,9 @@ nhiều hơn hông). Chân đứng rộng hơn vai 20-30%, đầu gối gập 30
 bóng thấp hay cao.
 
 Swing Initiation: Hông bắt đầu uncoil 0.05-0.10s trước vai (timing delay
-quan trọng). Xoay hông tạo ra \'separation angle\' 40-50° giữa vai và
-hông. Phần thân dưới dẫn đạo, phần thân trên tạo lag. Cổ tay \'lay
-back\' ở cuối backswing với wrist extension \~45° để tạo elastic energy.
+quan trọng). Xoay hông tạo ra 'separation angle' 40-50° giữa vai và
+hông. Phần thân dưới dẫn đạo, phần thân trên tạo lag. Cổ tay 'lay
+back' ở cuối backswing với wrist extension \~45° để tạo elastic energy.
 
 Contact Zone: Điểm contact lý tưởng ở phía trước thân 30-45 cm, ngang
 hông đến thắt lưng. Cánh tay ở 60-70° abduction, khuỷu \~120-140°. Tại
@@ -318,8 +318,8 @@ cơ thể phải anticipate và pre-activate.
 **2.3.1 Cơ Chế Biomechanics Của Split Step**
 
 Split step là kỹ thuật đặc trưng nhất của tennis và là nền tảng của mọi
-di chuyển phản ứng. Khi được thực hiện đúng, split step tạo ra \'loaded
-position\' cho phép phản xạ nhanh nhất có thể theo bất kỳ hướng nào.
+di chuyển phản ứng. Khi được thực hiện đúng, split step tạo ra 'loaded
+position' cho phép phản xạ nhanh nhất có thể theo bất kỳ hướng nào.
 
 Timing của split step chính xác là yếu tố quan trọng nhất: VĐV phải nhảy
 lên khi đối thủ bắt đầu swing (racket acceleration phase). Khi hai bàn
@@ -336,11 +336,11 @@ chân), không nên đáp gót hoàn toàn. Góc gối khi đáp: 25-40°. Góc 
 **2.3.2 Phân Tích Slow-Motion Của Split Step Ưu Tú**
 
 Quan sát Roger Federer hay Novak Djokovic ở slow motion (240fps) tiết lộ
-các đặc điểm sau của split step đỉnh cao: Thứ nhất, không có \'freeze
-time\' - ngay khi bàn chân chạm đất, một chân đã bắt đầu push-off theo
+các đặc điểm sau của split step đỉnh cao: Thứ nhất, không có 'freeze
+time' - ngay khi bàn chân chạm đất, một chân đã bắt đầu push-off theo
 hướng cần thiết. Thứ hai, đầu duy trì stable (nhẹ nhàng, không bounce
 quá cao) trong khi thân dưới bounce. Thứ ba, arms được maintain ở
-\'ready position\' với khuỷu gập \~90°.
+'ready position' với khuỷu gập \~90°.
 
 Nghiên cứu kinematic cho thấy VĐV ATP top 100 trung bình có contact time
 (thời gian chân chạm đất trong split step) 180-220ms. VĐV nghiệp dư
@@ -419,9 +419,9 @@ Một kỹ thuật training thực tế: VĐV đội trên đầu một vật n�
 túi cát nhỏ 200g), sau đó thực hiện các court movement drills. Điều này
 tăng vestibular demand và cải thiện head stability trong di chuyển.
 
-*Coaching Note: Video analysis at 240fps của player\'s split step timing
+*Coaching Note: Video analysis at 240fps của player's split step timing
 and landing mechanics cung cấp data quan trọng. Ideal split step nên xảy
-ra khi đối thủ\'s racket đạt maximum acceleration - học sinh nên tập
+ra khi đối thủ's racket đạt maximum acceleration - học sinh nên tập
 timing này với visual cue drill trước khi apply vào real play.*
 
 **CHƯƠNG 3: CHUỖI ĐỘNG HỌC - KINETIC CHAIN TRONG TENNIS**
@@ -517,8 +517,8 @@ Tight hip flexors → decreased hip extension → lưng dưới hyperextend
 (lumbar strain risk), Weak core → arm-dominant swing (loss of power và
 shoulder overload).
 
-Quan trọng là HLV phân biệt được giữa \'primary dysfunction\' và
-\'compensation\'. Điều trị symptom (compensation) mà không giải quyết
+Quan trọng là HLV phân biệt được giữa 'primary dysfunction' và
+'compensation'. Điều trị symptom (compensation) mà không giải quyết
 primary dysfunction không cho kết quả bền vững. Ví dụ: VĐV có shoulder
 impingement do scapular dysfunction. Chỉ điều trị shoulder sẽ có kết quả
 tạm thời. Phải address scapular control mới giải quyết triệt để.
@@ -528,7 +528,7 @@ tạm thời. Phải address scapular control mới giải quyết triệt để
 **3.4.1 Leg Drive và Ground Forces**
 
 Lực tạo ra từ mặt đất (ground forces) là khởi nguồn của mọi power trong
-tennis. Newton\'s Third Law: khi chân đẩy xuống đất, đất đẩy lại với lực
+tennis. Newton's Third Law: khi chân đẩy xuống đất, đất đẩy lại với lực
 bằng và ngược chiều - đây là lực chúng ta sử dụng để di chuyển và tạo ra
 swing power. Kỹ thuật tối ưu hóa ground forces bao gồm: ball-of-foot
 contact (không heel strike), knee bend đủ sâu, và push direction hướng
@@ -560,7 +560,7 @@ tố tăng X-factor hiệu quả.
 **3.5.1 Các Dấu Hiệu Của Kinetic Chain Breakdown**
 
 HLV có kinh nghiệm có thể nhận diện kinetic chain breakdown qua các
-visual cues sau trong slow-motion playback: Elbow \'chicken-winging\' ra
+visual cues sau trong slow-motion playback: Elbow 'chicken-winging' ra
 ngoài (mất proximal stability), Scooping under the ball (mất wrist
 extension timing), Open hips quá sớm trước contact (loss of separation
 angle), Crunch vào trong khi contact (mất core stability), Không có
@@ -667,7 +667,7 @@ stabilization. Tỉ lệ ER:IR strength nên là 0.65-0.75; nếu dưới 0.60 c
 tăng cường ER training.
 
 Serratus Anterior: Cơ quan trọng nhất cho scapular protraction và upward
-rotation. Serratus anterior là \'force couple partner\' với lower
+rotation. Serratus anterior là 'force couple partner' với lower
 trapezius để create upward rotation scapula cần thiết cho shoulder
 elevation. Weakness gây scapular winging và shoulder impingement.
 Training: Serratus punches, wall slides, push-up plus.
@@ -689,7 +689,7 @@ straight-arm pushdowns.
 
 **4.3.1 Hip Abductors và External Rotators**
 
-Gluteus Medius: Là \'traffic cop\' của lower extremity - kiểm soát
+Gluteus Medius: Là 'traffic cop' của lower extremity - kiểm soát
 frontal plane mechanics của toàn bộ chi dưới. Weakness gây valgus
 collapse của gối (increased ACL stress), hip drop (Trendelenburg gait),
 và poor single-leg stability. CRITICAL for all directional changes.
@@ -697,14 +697,14 @@ Training: Clamshells, side-lying hip abduction, lateral band walks,
 single-leg squats.
 
 Deep External Rotators (Piriformis, Obturator Internus/Externus,
-Gemellus Superior/Inferior, Quadratus Femoris): Nhóm \'deep six\' này
+Gemellus Superior/Inferior, Quadratus Femoris): Nhóm 'deep six' này
 stabilize femoral head trong acetabulum và control hip ER. Tightness của
 piriformis có thể compress sciatic nerve (piriformis syndrome).
 Training: 90-90 stretching, clam variations, hip ER isometrics.
 
 **4.3.2 Calf Complex và Foot Muscles**
 
-Gastrocnemius và Soleus: \'Plantar flexors\' chịu trách nhiệm cho
+Gastrocnemius và Soleus: 'Plantar flexors' chịu trách nhiệm cho
 push-off power trong mọi di chuyển. Gastrocnemius là two-joint muscle
 (knee và ankle), ảnh hưởng bởi knee position. Soleus là cơ quan trọng
 hơn cho slow, sustained activities và posture. Eccentric strength của
@@ -747,14 +747,14 @@ cùng max strength level. High RFD cho phép: nhanh hơn trong directional
 changes, explosive power trong shots, và better reactive control.
 
 Training RFD: Nhanh \> mạnh. Tốc độ thực hiện của concentric phase là
-quan trọng nhất. \'Velocity-based training\' (VBT) với target bar speed
+quan trọng nhất. 'Velocity-based training' (VBT) với target bar speed
 \>1.0 m/s cho upper body và \>1.2 m/s cho lower body. Ballistic
 exercises (jump squats, medicine ball throws) đặc biệt hiệu quả cho RFD
 development.
 
-*Training Application: Để tối đa hóa RFD cho VĐV 5.0, áp dụng \'contrast
-training\' protocol: set nặng (85% 1RM squat) followed ngay lập tức bởi
-explosive movement (box jump). Cơ chế \'post-activation potentiation\'
+*Training Application: Để tối đa hóa RFD cho VĐV 5.0, áp dụng 'contrast
+training' protocol: set nặng (85% 1RM squat) followed ngay lập tức bởi
+explosive movement (box jump). Cơ chế 'post-activation potentiation'
 (PAP) tạm thời tăng power output 5-10%. Protocol: 4 sets (3 reps heavy +
 5 reps explosive), rest 3 phút giữa các sets.*
 
@@ -764,7 +764,7 @@ explosive movement (box jump). Cơ chế \'post-activation potentiation\'
 
 Xương không chỉ là khung đỡ cứng nhắc mà là cấu trúc sinh học năng động,
 liên tục tái cấu trúc (remodeling) đáp ứng với mechanical loading. Theo
-Wolff\'s Law, xương phát triển và trở nên dày đặc hơn ở những vùng chịu
+Wolff's Law, xương phát triển và trở nên dày đặc hơn ở những vùng chịu
 tải lớn. Điều này giải thích tại sao VĐV tennis thường có arm bone
 density cao hơn đáng kể ở tay thuận so với tay không thuận - sự thích
 nghi theo nguyên tắc specific adaptation to imposed demands (SAID).
@@ -798,7 +798,7 @@ Ulnar Collateral Ligament (UCL) là dây chằng quan trọng nhất của khu�
 trong tennis. UCL có ba bundle: anterior (quan trọng nhất), posterior,
 và transverse. UCL chịu valgus stress cao nhất trong late cocking và
 acceleration phase của serve - peak valgus torque có thể đạt 64-120 N·m.
-\'Tommy John Surgery\' (UCL reconstruction) ngày càng phổ biến do
+'Tommy John Surgery' (UCL reconstruction) ngày càng phổ biến do
 overuse ở young players.
 
 Cơ flexor-pronator mass (đặc biệt flexor carpi ulnaris) là dynamic
@@ -834,7 +834,7 @@ trọng, giảm ma sát (coefficient of friction 0.001-0.003, thấp hơn ice),
 và hấp thụ chấn động.
 
 Sự nuôi dưỡng sụn xảy ra hoàn toàn qua diffusion từ synovial fluid -
-giải thích tại sao \'motion is lotion\': vận động thúc đẩy cyclic
+giải thích tại sao 'motion is lotion': vận động thúc đẩy cyclic
 loading và unloading, pumping synovial fluid vào và ra khỏi cartilage.
 Immobilization dẫn đến cartilage atrophy nhanh chóng. Điều này có
 implication quan trọng: VĐV bị chấn thương cần duy trì joint motion qua
@@ -864,7 +864,7 @@ Menisci (medial và lateral) là fibrocartilage structures phân phối load,
 tăng congruency của tibiofemoral joint, và stabilize gối. Medial
 meniscus là primary restraint cho anterior tibial translation (cùng với
 ACL) - giải thích tại sao medial meniscus tear thường đi kèm với ACL
-tear (\'unhappy triad\': ACL + MCL + medial meniscus).
+tear ('unhappy triad': ACL + MCL + medial meniscus).
 
 Meniscus tears trong tennis thường là degenerative (do accumulated wear)
 ở VĐV \>35 tuổi hoặc traumatic (acute twisting) ở VĐV trẻ. Meniscus
@@ -890,7 +890,7 @@ với hip in flexion.
 
 **5.5.1 Stress Fractures**
 
-Stress fractures xảy ra khi repetitive loading vượt quá bone\'s capacity
+Stress fractures xảy ra khi repetitive loading vượt quá bone's capacity
 to remodel. Risk factors: sudden increase in training volume hoặc
 intensity, hard surface exclusively, poor footwear, bone density issues
 (especially in female athletes với Female Athlete Triad: energy
@@ -925,10 +925,10 @@ caloric intake, đặc biệt quan trọng cho female athletes.*
 
 **CHƯƠNG 6: MẠC (FASCIA) VÀ HỆ THỐNG FASCIA TRONG VẬN ĐỘNG TENNIS**
 
-**6.1 Fascia - Từ \'Packaging Material\' Đến Hệ Thống Cảm Giác-Vận
+**6.1 Fascia - Từ 'Packaging Material' Đến Hệ Thống Cảm Giác-Vận
 Động**
 
-Trong nhiều thập kỷ, fascia bị coi đơn giản là \'bao bì\' (packaging
+Trong nhiều thập kỷ, fascia bị coi đơn giản là 'bao bì' (packaging
 material) không quan trọng, thường bị cắt bỏ trong phẫu thuật mà không
 được chú ý. Tuy nhiên, nghiên cứu fascia trong 20 năm qua, đặc biệt từ
 Fascia Research Congress (2007-2022), đã cách mạng hóa hiểu biết của
@@ -978,13 +978,13 @@ thiện sensory input.
 **6.3.1 Giải Phẫu Thoracolumbar Fascia**
 
 Thoracolumbar fascia (TLF) là cấu trúc fascia quan trọng nhất trong
-tennis, là \'hub\' kết nối lưng dưới, hông, và vai. TLF có ba layers:
+tennis, là 'hub' kết nối lưng dưới, hông, và vai. TLF có ba layers:
 posterior (dày nhất, từ spinous processes đến iliac crest), middle (bao
 quanh cơ erector spinae), và anterior (tạo thành quadratus lumborum
 compartment). Ba layers này hợp nhất tại lateral raphe.
 
 Latissimus dorsi bám vào TLF ở phía trên, gluteus maximus bám vào phía
-dưới. Sự kết nối này tạo ra \'posterior oblique sling\' (chương sau)
+dưới. Sự kết nối này tạo ra 'posterior oblique sling' (chương sau)
 truyền lực diagonal qua thân mình. TLF cũng là attachment của biceps
 femoris (qua sacrotuberous ligament), internal oblique, và transversus
 abdominis - tạo ra cross-body force transmission mechanism quan trọng.
@@ -994,13 +994,13 @@ abdominis - tạo ra cross-body force transmission mechanism quan trọng.
 TLF hoạt động synergistically với core muscles để kiểm soát
 intra-abdominal pressure (IAP). Khi TrA contracts, nó tăng tension trong
 TLF, tạo ra spinal stiffness mà không cần large muscle forces. Cơ chế
-\'hydraulic amplifier\' này giúp spine chịu tải lớn với muscle energy
+'hydraulic amplifier' này giúp spine chịu tải lớn với muscle energy
 thấp. Research cho thấy TLF tension tăng gấp 5 lần so với TrA tension
 đơn thuần do lever arm advantage.
 
 Trong serve: khi push-off phase xảy ra, TLF tension được tăng cao qua
 hip extension (gluteus maximus) và shoulder flexion (latissimus dorsi)
-từ hai phía đối diện. Điều này tạo ra spinal \'bracing\' tự động không
+từ hai phía đối diện. Điều này tạo ra spinal 'bracing' tự động không
 cần conscious effort - elegant mechanism của movement efficiency.
 
 **6.4 Fascial Lines Theo Anatomy Trains**
@@ -1116,7 +1116,7 @@ fascial work có thể directly improve force production.*
 
 **7.1 Anatomy Trains Framework Trong Tennis**
 
-Thomas Myers\' Anatomy Trains framework đã cung cấp một mô hình
+Thomas Myers' Anatomy Trains framework đã cung cấp một mô hình
 conceptual quan trọng để hiểu cách lực được transmitted qua toàn cơ thể
 thông qua fascial continuity. Trong tennis, framework này đặc biệt hữu
 ích vì tennis là sport of extreme rotational movements đòi hỏi
@@ -1144,7 +1144,7 @@ endothoracic fascia → scalenes → hyoid muscles → tongue → skull base.
 
 DFL là core của body trong deep architectural sense - tạo ra support từ
 trong ra ngoài, xây dựng upright posture, và connecting leg mechanics
-trực tiếp với neck và head. Trong tennis, DFL là \'inner core\' của
+trực tiếp với neck và head. Trong tennis, DFL là 'inner core' của
 movement, tạo ra vertical axis mà mọi rotation xảy ra xung quanh.
 
 **7.2.2 Psoas - Cơ Trung Tâm Của DFL Và Tennis**
@@ -1177,7 +1177,7 @@ Cụ thể: Khi right gluteus maximus pushes off (right leg push), tension
 được transmitted qua TLF đến left latissimus dorsi, which helps pull
 left arm/shoulder into swing. Đây là lý do tại sao chạy nhanh và tennis
 strokes đều involve cross-arm-leg pattern (gait pattern). Disruption của
-POS (ví dụ: weak glute max hoặc lat) tạo ra \'power leak\' trong kinetic
+POS (ví dụ: weak glute max hoặc lat) tạo ra 'power leak' trong kinetic
 chain.
 
 **7.3.2 Training POS**
@@ -1440,10 +1440,10 @@ Recovery: All slings returning to ready position, lateral sling actively
 controlling deceleration, DLS supporting running mechanics back to
 center.
 
-*Coaching Application: Muscle sling assessment drill - \'Connect the
-Dots\': Ask VĐV to perform a slow-motion forehand swing (10% speed)
+*Coaching Application: Muscle sling assessment drill - 'Connect the
+Dots': Ask VĐV to perform a slow-motion forehand swing (10% speed)
 while you manually palpate the key junction points of each sling. If you
-feel disconnection or \'dead zones\' (areas that don\'t transmit
+feel disconnection or 'dead zones' (areas that don't transmit
 tension), these are your priority intervention targets. Then use
 partner-resistance techniques: partner places light resistance at
 different points along the sling during swing drills to train
@@ -1473,7 +1473,7 @@ final common pathway cho muscle activation.
 
 **9.2.1 Size Principle Của Henneman**
 
-Henneman\'s Size Principle (1965) mô tả cách motor neurons được
+Henneman's Size Principle (1965) mô tả cách motor neurons được
 recruited theo thứ tự size: small, slow motor units recruited first,
 large, fast units last. Đây là graduated response cho phép cơ thể match
 force output đúng với demand mà không waste energy. Trong tennis:
@@ -1529,7 +1529,7 @@ automaticity under pressure.
 VĐV 5.0 thường có fundamental strokes ở late Associative hoặc early
 Autonomous stage. HLV cần careful attention khi modifying technique:
 breaking Autonomous skills to make cognitive changes requires time trong
-\'regression valley\' khi performance temporarily worsens. VĐV cần
+'regression valley' khi performance temporarily worsens. VĐV cần
 understand và accept này. Use off-season hoặc low-stakes periods cho
 major technique changes.
 
@@ -1537,8 +1537,8 @@ major technique changes.
 (variable \> blocked practice cho retention), Contextual interference
 (mixing skills \> practicing in isolation), Random practice schedules,
 External focus of attention cues (focus on effect of movement rather
-than movement itself - \'hit through the ball\' rather than \'turn your
-wrist\'), và Reduced frequency feedback (summary feedback \> immediate
+than movement itself - 'hit through the ball' rather than 'turn your
+wrist'), và Reduced frequency feedback (summary feedback \> immediate
 feedback cho long-term retention).
 
 **9.4 Internal Models Và Predictive Motor Control**
@@ -1546,8 +1546,8 @@ feedback cho long-term retention).
 **9.4.1 Forward Models Và Inverse Models**
 
 Cerebellum là critical structure cho predictive motor control. It
-maintains \'forward models\' (dự đoán sensory consequences of motor
-commands) và \'inverse models\' (compute motor commands needed để
+maintains 'forward models' (dự đoán sensory consequences of motor
+commands) và 'inverse models' (compute motor commands needed để
 achieve desired movement). Đây là cơ chế cho phép smooth, anticipatory
 control thay vì slow, reactive corrections.
 
@@ -1567,8 +1567,8 @@ signal sent back to motor cortex for correction. This mechanism operates
 at 20-30ms latency (much faster than conscious correction at 200-300ms).
 
 Implications: VĐV learns to fine-tune shots through thousands of
-repetitions, each creating small error signals và corrections. \'Groove
-your shots\' là literally true - practice creates increasingly accurate
+repetitions, each creating small error signals và corrections. 'Groove
+your shots' là literally true - practice creates increasingly accurate
 forward models với smaller prediction errors. Varied practice creates
 more robust models so VĐV can handle unusual ball bounces, court
 conditions, và under pressure.
@@ -1577,10 +1577,10 @@ conditions, và under pressure.
 
 **9.5.1 Neuroscience Of Pressure**
 
-\'Choking under pressure\' occurs when over-activation of prefrontal
+'Choking under pressure' occurs when over-activation of prefrontal
 cortex (PFC) disrupts Autonomous motor patterns. In high-pressure
 situations, cortisol và norepinephrine increase PFC activity. Normally
-helpful for analysis, under extreme stress, PFC \'hijacks\' motor
+helpful for analysis, under extreme stress, PFC 'hijacks' motor
 control, breaking down Autonomous execution và forcing conscious
 processing. This slows movement, introduces micro-hesitations, và
 degrades timing.
@@ -1601,7 +1601,7 @@ routines. Exposure therapy: phải experience pressure many times trong
 training để desensitize the cortisol response và maintain motor
 automaticity.
 
-For 5.0 players, specific protocols: \'High stakes sets\' trong practice
+For 5.0 players, specific protocols: 'High stakes sets' trong practice
 (loser does sprints, winner gets privilege), video recording of practice
 (performance anxiety training), invitation of observers/crowds, và score
 tracking với published results trong club. All build pressure tolerance
@@ -1658,7 +1658,7 @@ effectiveness).
 Patellar tendon stores energy trong terminal swing phase của running và
 releases it during push-off. Quadriceps tendon và patellar tendon
 together allow efficient SSC in leg extension. Patellar tendinopathy
-(jumper\'s knee) is an overuse injury của patellar tendon, common khi
+(jumper's knee) is an overuse injury của patellar tendon, common khi
 training load increases too rapidly hoặc when landing mechanics không
 absorb force properly.
 
@@ -1674,7 +1674,7 @@ remodeling stimulation.
 
 Serve power critically depends on wrist SSC mechanism. Trong late
 cocking phase: wrist extends pasively (laid back) due to inertia và
-active engagement. As arm accelerates forward, wrist \'loads\' into
+active engagement. As arm accelerates forward, wrist 'loads' into
 extension. At the right moment, wrist flexors fire rapidly to create
 snap - này là SSC của wrist. Timing của wrist snap relative to forearm
 pronation is extremely precise trong elite servers.
@@ -1761,7 +1761,7 @@ immediate torso rotation as other foot lands, simulating wide shot
 recovery. Cross-court chase drill: simulate sprinting, split step,
 swing, recover - full chain of SSC movements.
 
-*Scientific Context: Norman Doidge\'s research on neuroplasticity
+*Scientific Context: Norman Doidge's research on neuroplasticity
 suggests that SSC movement patterns, once well-learned, create permanent
 neural pathways that are highly resistant to degradation. Elite tennis
 players qui retire often retain their stroke SSC mechanics for decades.
@@ -1896,7 +1896,7 @@ Kick serve (American twist): Heavy topspin và sidespin combination.
 Contact with extreme racket tilt (brushing up and across ball). Requires
 greatest shoulder external rotation reach. Higher arc → safer percentage
 → lands deeper with high kick. Used: second serve, high ball at
-opponent\'s backhand. Biomechanics: greater spinal lateral flexion và
+opponent's backhand. Biomechanics: greater spinal lateral flexion và
 rotation, more oblique muscle involvement.
 
 Slice serve: Sidespin with moderate pace. Contact to the side of ball.
@@ -1933,8 +1933,8 @@ Sampras. Foot-back (pinpoint): rear foot slides forward to join front
 foot before drive. More compact, allows better body lean at contact.
 Used by Djokovic, Nadal.
 
-Optimizing leg drive: VĐV should feel \'pushing the court away\' during
-drive phase. Cue: imagine you\'re trying to push the ground through the
+Optimizing leg drive: VĐV should feel 'pushing the court away' during
+drive phase. Cue: imagine you're trying to push the ground through the
 floor. Knee bend at trophy: optimal 80-100° gives best force-velocity
 tradeoff. Too little (\<60°): insufficient elastic loading. Too much
 (\>120°): excessive metabolic cost, slower uncoiling. Vertical jump
@@ -2105,7 +2105,7 @@ ER (backswing, racket back) through extension (swing forward). Key
 muscle: posterior deltoid (initiates pull-back), triceps (extension),
 wrist extensors (maintain wrist stability at contact).
 
-The \'continental layback\': In one-handed backhand, at end of
+The 'continental layback': In one-handed backhand, at end of
 backswing, wrist is in slight extension relative to neutral (layback).
 This creates SSC mechanism for wrist extensors during forward swing.
 Contact: wrist in neutral to slight extension. Follow-through: forearm
@@ -2138,18 +2138,18 @@ normal backswing) compensated by faster hip và trunk rotation. The arm
 path must be more compact but the rotational power from hips must be
 amplified to compensate.
 
-Neuroscience of return: Ball leave server\'s racket at 200+km/h on fast
+Neuroscience of return: Ball leave server's racket at 200+km/h on fast
 serve. Ball reaches returner in 200-500ms (depending on court size and
 serve location). Decision time is only 50-100ms. This means return is
-largely driven by anticipatory processing (watching server\'s toss,
+largely driven by anticipatory processing (watching server's toss,
 stance, shoulder turn) rather than reactive processing. Training
-returns: face server\'s shadow motion (no ball) to build anticipatory
+returns: face server's shadow motion (no ball) to build anticipatory
 reading. Gradual speed progressions from 100km/h to 200km/h.
 
 *Advanced Return Drill: Use ball machine set at increasing speeds. Start
 at 100km/h (very comfortable). Add 10km/h every 5 minutes. Notice at
 what speed the swing begins to break down. That speed is current
-\'comfort ceiling.\' Train repeatedly at 10km/h above ceiling until that
+'comfort ceiling.' Train repeatedly at 10km/h above ceiling until that
 becomes comfortable, then reset ceiling upward. This systematic overload
 approach builds return confidence systematically.*
 
@@ -2183,9 +2183,9 @@ evenly distributed on balls of feet.
 
 Split step force plate analysis of elite players: Landing GRF peak:
 2.2-2.8 × BW. Contact time: 180-240ms. Horizontal GRF (indicating
-directional bias): 0.4-0.6 × BW (they\'re already starting the first
+directional bias): 0.4-0.6 × BW (they're already starting the first
 directional step during split step landing). This means elite players
-don\'t fully \'neutral\' the split step - they bias toward anticipated
+don't fully 'neutral' the split step - they bias toward anticipated
 direction in the landing itself. Training implication: anticipation
 training is part of split step training.
 
@@ -2203,7 +2203,7 @@ coverage. Diagonal approach (angling toward corner rather than directly
 lateral) increases reach and allows better shot setup. Open stance shots
 when time limited, closed stance when time available (as described in
 forehand chapter). Recovery: immediate counter-movement back to base
-position, split step preparation for opponent\'s response.
+position, split step preparation for opponent's response.
 
 **15.4 Forward Movement (Net Approach)**
 
@@ -2215,7 +2215,7 @@ line (preparatory for volley), Net movement with balance for volley.
 Common error in net approach: stopping completely for approach shot.
 Better mechanics: take approach shot on the run (one or two steps
 forward planted, strike, continue forward). This maintains momentum and
-rhythm. The \'split step at service line\' is timed to opponent\'s shot,
+rhythm. The 'split step at service line' is timed to opponent's shot,
 same principle as baseline split step.
 
 **15.5 Backward Movement And Overhead**
@@ -2289,7 +2289,7 @@ poor angle coverage.
 
 Reaction requirements: At net position, ball from opponent may arrive in
 150-250ms (half the baseline reaction time). This demands optimal ready
-position (split step) and anticipatory reading of opponent\'s stroke.
+position (split step) and anticipatory reading of opponent's stroke.
 Body mechanics of net poaching: push off outside foot, cross-step or
 explosive lateral movement, reach with extended arm maintaining shoulder
 alignment.
@@ -2300,7 +2300,7 @@ Return of serve in doubles has different constraints: must keep ball
 away from net player (cross-court return priority), must start forward
 movement to net after return. Biomechanical challenge: abbreviated swing
 for control combined with immediate forward movement. The
-\'chip-and-charge\' return (short blocking return followed by immediate
+'chip-and-charge' return (short blocking return followed by immediate
 net approach) requires specific motor program: block wrist at contact
 (different from full swing return), simultaneous weight transfer
 forward, rapid transition to running toward net.
@@ -2384,7 +2384,7 @@ hard sessions.
 
 Contrast therapy: alternating between cold (10-15°C, 1 minute) and hot
 (38-40°C, 2 minutes) for 3-4 cycles. Greater effect than CWI alone for
-fatigue removal due to \'vascular pumping\' mechanism. Compression
+fatigue removal due to 'vascular pumping' mechanism. Compression
 garments: reduce muscle oscillation, may assist venous return. Most
 evidence for lower extremity use during travel after matches.
 
@@ -2430,7 +2430,7 @@ internal focus during changeovers).
 
 Prefrontal cortex (PFC) is primary brain region for focused attention.
 PFC activity must be high for tactical decisions but moderate (not
-hyperactivated) for best motor execution. The \'quiet eye\' phenomenon:
+hyperactivated) for best motor execution. The 'quiet eye' phenomenon:
 before skilled sport actions, elite performers show reduced saccadic eye
 movement and stable gaze fixation on critical target (ball, contact
 point) for 100-200ms longer than novices. Training quiet eye improves
@@ -2444,7 +2444,7 @@ cues), Arousal regulation (breathing components of routine reduce
 cortisol và normalize heart rate), Motor program activation (consistent
 trigger → consistent neural pathway activation → consistent
 performance), và Automaticity protection (routine occupies conscious
-attention safely, preventing \'paralysis by analysis\').
+attention safely, preventing 'paralysis by analysis').
 
 Research on PPR consistency and performance: correlation between PPR
 consistency (same duration, same elements) and clutch performance under
@@ -2467,7 +2467,7 @@ Accessing flow: challenges-skills balance (optimal challenge is 4% above
 current skill - too easy = boredom, too hard = anxiety), autotelic
 motivation (playing for process not outcome), body awareness without
 judgment, and process focus cues. For 5.0 players in high-pressure
-matches: using \'associative strategies\' (internal body awareness,
+matches: using 'associative strategies' (internal body awareness,
 physical cues) during warm-up to build body-mind connection before match
 intensity escalates.
 
@@ -2477,12 +2477,12 @@ Error response has profound biomechanical consequences. Post-error
 tension (grip tightening, shoulder elevation, breathing shallowing,
 altered posture) directly degrades subsequent shot mechanics. Research:
 errors affect subsequent point performance for 3-5 points if not
-managed. \'Error acceptance rituals\' break this cycle: brief
+managed. 'Error acceptance rituals' break this cycle: brief
 acknowledgment, reset cue, forward focus.
 
-Cognitive reframing for errors: \'data not disaster\' mindset - errors
+Cognitive reframing for errors: 'data not disaster' mindset - errors
 provide information about what needs adjustment. VĐV 5.0 should practice
-\'coachability on court\': observe error pattern, make micro-adjustment,
+'coachability on court': observe error pattern, make micro-adjustment,
 test. This is cognitive-behavioral approach that transforms match play
 into learning opportunity rather than just result.
 
@@ -2518,7 +2518,7 @@ Tennis strength training must be: Specific to tennis movement patterns
 (rotational, single-leg, multi-planar), Integrated with on-court
 training (not interfering with skill learning), Periodized across the
 season (different emphasis in off-season vs. in-season vs. competition),
-and Individualized based on player\'s unique physical profile, injury
+and Individualized based on player's unique physical profile, injury
 history, and performance demands.
 
 Key strength qualities for tennis (in priority order for VĐV 5.0): 1)
@@ -2532,7 +2532,7 @@ strength (racket control).
 **19.2 Off-Season Strength Development**
 
 Off-season (8-12 weeks) is primary window for strength gains. Goal:
-improve foundation for next season\'s power work. Programming: 3-4
+improve foundation for next season's power work. Programming: 3-4
 strength sessions/week, 1 tennis session/week for maintenance. Focus on
 hypertrophy (8-12 reps) in first 4 weeks, then transition to strength
 (3-5 reps) in weeks 5-8, then power application (1-3 reps explosive) in
@@ -2551,7 +2551,7 @@ progressions.
 In-season (competitive period) goal: maintain strength gains while
 allowing recovery for matches. Frequency: 2 strength sessions/week,
 minimum. Volume: reduce to 50-60% of off-season volume. Intensity:
-maintain (do not reduce). This is the \'minimum effective dose\'
+maintain (do not reduce). This is the 'minimum effective dose'
 concept: enough stimulus to maintain adaptations without creating
 excessive fatigue.
 
@@ -2576,7 +2576,7 @@ are valuable for developing total body power expression. If properly
 coached, these exercises develop triple extension, bar speed, and
 whole-body integration of force. Modified variations (dumbbell,
 kettlebell) are accessible if barbell Olympic lifts not available or not
-appropriate for player\'s training history. Kettlebell swings are
+appropriate for player's training history. Kettlebell swings are
 excellent entry-level hip power exercise.
 
 **19.5 Energy System Training**
@@ -2612,9 +2612,9 @@ HỌC CHO VĐV 5.0**
 Trước khi thiết kế bất kỳ chương trình huấn luyện nào, HLV phải thực
 hiện comprehensive needs analysis. Framework cho tennis needs analysis:
 Sport Analysis (demands of tennis: energy systems, movement patterns,
-injury risks), Individual Analysis (player\'s current fitness, movement
+injury risks), Individual Analysis (player's current fitness, movement
 quality, injury history, goals, available training time), và Gap
-Analysis (difference between sport demands và individual\'s current
+Analysis (difference between sport demands và individual's current
 capacity).
 
 Tools cho individual analysis: FMS screening (movement quality),
@@ -2658,7 +2658,7 @@ Adjustment triggers: If HRV drops \>10% sustained 3+ days: reduce volume
 moderate-intent sessions: training load too high, deload needed. If
 performance metrics plateau 3+ weeks: stimulus change needed (exercise
 variation, load progression). If injury emerges: immediate reduction in
-stress on affected area, medical evaluation if pain doesn\'t resolve in
+stress on affected area, medical evaluation if pain doesn't resolve in
 72 hours.
 
 **20.4 Individualization Framework**
@@ -2708,7 +2708,7 @@ advantage.
 *Final Reflection: This book has presented the deepest scientific
 foundations of tennis performance. But science must serve the player,
 not the other way around. The goal is not to create biomechanically
-perfect robots but to unlock each player\'s unique potential through
+perfect robots but to unlock each player's unique potential through
 informed, evidence-based, yet deeply human coaching. The 20 chapters
 represent a knowledge foundation. How you apply this knowledge, moment
 by moment on the court, with sensitivity to each unique individual -

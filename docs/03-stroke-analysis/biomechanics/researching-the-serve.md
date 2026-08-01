@@ -11,8 +11,7 @@ other strokes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_researching-the-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_researching-the-serve/media/image1.webp)
 
 **Movement science attempts to quantify the elements in elite serving.**
 
@@ -23,14 +22,13 @@ complete control.]{.mark}**
 ***[The second reason is that the serve is much easier to film and
 therefore to analyze. This is because the players serve from set
 positions on the court. filming for three-dimensional analysis is
-generally done with fixed cameras that can\'t pan or zoom to follow the
+generally done with fixed cameras that can't pan or zoom to follow the
 players. The wide range of court movement in groundstrokes and net play
 makes the other strokes far more difficult to study.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_researching-the-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_researching-the-serve/media/image2.webp)
 
 **Pete Sampras demonstrates the 5 phases of elite serving: toss,
 backswing, loading, acceleration, and followthrough.**
@@ -43,39 +41,38 @@ performer must coordinate the motion of multiple body segments very
 precisely to produce a high racquet velocity and an optimal swing path
 as well orient the racket head at ball impact.]{.mark}**
 
-In this article we\'ll take a look at the scientific literature to date,
+In this article we'll take a look at the scientific literature to date,
 reviewing and summarizing what is currently known. To do this we will
 break the serve down into a series of 5 major phases, each of which has
 been the subject of a greater or lesser number of quantitative studies.
 
-We\'ll discuss what is currently best understood and least understood
+We'll discuss what is currently best understood and least understood
 about the serve. This will lay the ground work for introducing a new
 body of three dimensional work that was undertaken as a collaboration
 between the human movement laboratory at San Francisco State, Dr. Robert
 Schliehauf, myself, and Advanced Tennis Research.
-(www.advancedtennis.com). In future articles we\'ll be presenting some
+(www.advancedtennis.com). In future articles we'll be presenting some
 of these results, not only regarding the serve, but other strokes as
 well.
 
-+---------------------------------+
-| **[The 5 Phases of the Serve    |
-| are:]{.underline}**             |
-|                                 |
-| 1.  **The Tossing Phase**       |
-|                                 |
-| 2.  **The Backswing Phase**     |
-|                                 |
-| 3.  **The Loading Phase**       |
-|                                 |
-| 4.  **The Acceleration Phase**  |
-|                                 |
+| **[The 5 Phases of the Serve |
+| --- |
+| are:]{.underline}** |
+|  |
+| 1.  **The Tossing Phase** |
+|  |
+| 2.  **The Backswing Phase** |
+|  |
+| 3.  **The Loading Phase** |
+|  |
+| 4.  **The Acceleration Phase** |
+|  |
 | 5.  **The Followthrough Phase** |
-+=================================+
+
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_researching-the-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_researching-the-serve/media/image3.webp)
 
 **[[The Tossing Phase ends with the ball leaving the
 hand.]{.underline}]{.mark} Observation shows great variability in
@@ -106,14 +103,13 @@ with the weight distributed differently over either or both feet.
 **Toss Height**
 
 The height of the ball toss depends on the timing or temporal aspect of
-the performers\' backswing. A performer with a slow backswing will need
+the performers' backswing. A performer with a slow backswing will need
 to have a higher toss than a player with a faster and/or abbreviated
 backswing.
 
 ![A picture containing text, tennis, court, player Description
 automatically
-generated](media_researching-the-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_researching-the-serve/media/image4.webp)
 
 **Even players with lower tosses hit the ball after it has dropped
 substantially from the apex.**
@@ -126,7 +122,7 @@ Rusedski or Goran Ivanisevic.
 
 **[An increase in drop height increases the velocity of the ball at
 impact. This increases the margin of error in striking the ball on the
-racquet\'s sweet spot. It also increases the amount of topspin that will
+racquet's sweet spot. It also increases the amount of topspin that will
 be imparted on the ball with all other aspects being equal.]{.mark}**
 
 Only one study has identified the characteristics of the actual tossing
@@ -142,10 +138,9 @@ required to toss the ball to the desired location.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_researching-the-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_researching-the-serve/media/image5.webp)
 
-**[[In reality the toss moves substantially from the player\'s right to
+**[[In reality the toss moves substantially from the player's right to
 left.]{.underline}]{.mark} The straight up and straight down toss is a
 coaching myth.**
 
@@ -164,7 +159,7 @@ was released.]{.mark}**
 This finding contradicts a coaching myth that has promoted a straight up
 and down toss or a toss that is to the right of the body of a right
 handed server. A case study showed that the contact point in selected
-professional player was about six inches to the LEFT of the player\'s
+professional player was about six inches to the LEFT of the player's
 left toe.
 
 But again qualitative observation of elite servers indicates that the
@@ -180,13 +175,11 @@ at the same time he is executing the toss.]{.mark}**
 The Backswing Phase ends when the racquet tip reaches its maximum
 vertical distance from the ground or the court.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                  | ![A person playing tennis Description automatically generated with medium                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                 | ![A person playing tennis Description automatically generated with medium                                                                                                  |
-| confidence](media_researching-the-serve/media/image6.jpg){width="1.8829636920384951in" | confidence](media_researching-the-serve/media/image7.jpg){width="1.8944444444444444in" | generated](media_researching-the-serve/media/image8.jpg){width="1.900184820647419in" | confidence](media_researching-the-serve/media/image9.jpg){width="1.8941196412948382in" |
-| height="2.624000437445319in"}                                                                                                                                              | height="2.64in"}                                                                                                                                                           | height="2.64799978127734in"}                                                                                                                                             | height="2.6395483377077866in"}                                                                                                                                             |
-+:==========================================================================================================================================================================:+:==========================================================================================================================================================================:+:========================================================================================================================================================================:+:==========================================================================================================================================================================:+
-| **Research shows the Checkmark position is optimal for the drive to the ball.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- | --- |
+| confidence](media_researching-the-serve/media/image6.jpg) |  |  |  |
+| **Research shows the Checkmark position is optimal for the drive to the ball.** |  |  |  |
+
 
 **[The goal of this phase is to position the body segments and racquet
 in an optimal position for the drive to the ball. Researchers have
@@ -198,8 +191,7 @@ varies minimally at this position.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_researching-the-serve/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_researching-the-serve/media/image10.webp)
 
 **The backswing can be full, mildly abbreviated, or extremely
 abbreviated like Andy Roddick.**
@@ -235,8 +227,7 @@ is known for the most extreme version of this variation.]{.mark}**
 
 ![A picture containing text, tennis, athletic game, sport Description
 automatically
-generated](media_researching-the-serve/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_researching-the-serve/media/image11.webp)
 
 **During the backswing the center of gravity moves forward as the arms
 rise.**
@@ -268,8 +259,7 @@ traveled into the court.
 
 ![A picture containing tennis, athletic game, sport, court Description
 automatically
-generated](media_researching-the-serve/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_researching-the-serve/media/image12.webp)
 
 **Is there a difference in contact height or position based on the
 positioning of the feet?**
@@ -289,8 +279,7 @@ well.]{.underline}]{.mark}** The hitting arm is also externally rotated
 (or rotated backward in the shoulder joint) about 90 degrees.
 
 ![A person playing tennis Description automatically
-generated](media_researching-the-serve/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_researching-the-serve/media/image13.webp)
 
 **[[As hips rotate away from the target, shoulder abduction moves the
 arm way from the body. The dominant shoulder is lower with the knees
@@ -324,8 +313,7 @@ the player upward and forward into the air toward the ball.]{.mark}***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A picture containing person, feet Description automatically
-   generated](media_researching-the-serve/media/image14.webp){width="3.136111111111111in"
-                                                                        height="2.0972222222222223in"}
+   generated](media_researching-the-serve/media/image14.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                  **When a player pushes against the court with his feet, he generates ground reaction forces that propel him upward and forward to the ball.**
 
@@ -336,7 +324,7 @@ upwards (or vertical), forward (or horizontal), and sideways (or
 lateral).]{.underline}]{.mark}**
 
 **[*[The vertical component is the highest, with a force equal to about
-twice the player\'s body weight.]{.underline}* The horizontal component
+twice the player's body weight.]{.underline}* The horizontal component
 is also significant, generating a force that is two thirds to three
 fourths of the body weight, while the lateral component is
 minimal.]{.mark}**
@@ -364,8 +352,7 @@ bent at about 115 degrees.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A tennis player in the middle of a match Description automatically generated with low
-   confidence](media_researching-the-serve/media/image15.webp){width="3.136111111111111in"
-                                                                         height="2.0972222222222223in"}
+   confidence](media_researching-the-serve/media/image15.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **As the body leaves the court, gravity produces an opposite, eccentric force on the arm and racket increasing the external rotation of the shoulder and driving the racket
                                                                                     down.**
@@ -395,8 +382,7 @@ is called **[[\"proximal to distal sequencing.\"]{.mark}]{.underline}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text Description automatically
-  generated](media_researching-the-serve/media/image16.webp){width="3.136111111111111in"
-  height="2.0972222222222223in"}
+  generated](media_researching-the-serve/media/image16.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **In the Acceleration Phase the force generated by larger body segments Is transferred into the arm and hand.**
 
@@ -419,7 +405,7 @@ maximum velocities of the body parts are achieved in this order: the
 hip, the shoulder, the elbow, the wrist and finally the racquet tip.
 
 ***[[Put another way, the hips accelerate and reach their maximum speed
-first. The force is transferred to the shoulder, which reaches it\'s
+first. The force is transferred to the shoulder, which reaches it's
 maximum speed next. This is followed by the force transfer to the elbow,
 the wrist and the racket tip. This sequencing of the kinetic chain
 begins at the start of the loading phase and ends a split second prior
@@ -434,29 +420,28 @@ actually 7 distinct components in the arm movement toward the ball,
 which occur in a specific following sequence. These components have
 technical names that we will explain below.
 
-+------------------------------------+
-| **[The 7 components of arm         |
-| movement:]{.underline}**           |
-|                                    |
-| 1.  **horizontal flexion**         |
-|                                    |
-| 2.  **abduction of the shoulder**  |
-|                                    |
-| 3.  **elbow extension**            |
-|                                    |
-| 4.  **wrist ulnar deviation**      |
-|                                    |
-| 5.  **wrist flexion**              |
-|                                    |
+| **[The 7 components of arm |
+| --- |
+| movement:]{.underline}** |
+|  |
+| 1.  **horizontal flexion** |
+|  |
+| 2.  **abduction of the shoulder** |
+|  |
+| 3.  **elbow extension** |
+|  |
+| 4.  **wrist ulnar deviation** |
+|  |
+| 5.  **wrist flexion** |
+|  |
 | 6.  **shoulder internal rotation** |
-|                                    |
-| 7.  **forearm pronation**          |
-+====================================+
+|  |
+| 7.  **forearm pronation** |
+
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person playing tennis Description automatically generated with low
-   confidence](media_researching-the-serve/media/image17.webp){width="3.136111111111111in"
-                                                                         height="2.0972222222222223in"}
+   confidence](media_researching-the-serve/media/image17.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           **Watch the upper arm rotate forward, generating over half of the total racket head speed.**
 
@@ -477,8 +462,7 @@ head speed.]{.underline}]{.mark}***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing tennis, sport, athletic game, player Description automatically
-   generated](media_researching-the-serve/media/image18.webp){width="3.136111111111111in"
-                                                                        height="2.0972222222222223in"}
+   generated](media_researching-the-serve/media/image18.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                               **Almost one third of the racket head speed comes from the movement of the wrist.**
 
@@ -498,8 +482,7 @@ of the internal rotator muscles.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A picture containing text, hitting, player Description automatically
-   generated](media_researching-the-serve/media/image19.webp){width="3.136111111111111in"
-                                                                        height="2.0972222222222223in"}
+   generated](media_researching-the-serve/media/image19.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                         **The forward movement of upper arm, or horizontal abduction, is the third largest source of racket head speed at about 13%.**
 
@@ -519,7 +502,7 @@ professional players.
 
 This very complex sequence works in concert with the \"differential
 relaxation\" of the muscles. Differential relaxation refers to the
-performer\'s ability to control the relaxation and contraction of a
+performer's ability to control the relaxation and contraction of a
 muscle group during a movement.
 
 During the loading phase the leg drive to the ball works in concert with
@@ -538,8 +521,7 @@ the kinetic chain and therefore ball velocity.]{.mark}***
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person doing a handstand Description automatically generated with medium
-   confidence](media_researching-the-serve/media/image20.webp){width="3.3333333333333335in"
-                                                                         height="2.2291666666666665in"}
+   confidence](media_researching-the-serve/media/image20.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **The followthrough is the final, deceleration phase in the movement.**
 
@@ -559,10 +541,10 @@ the ground.
 
 Most of the players that have been analyzed have landed on their
 non-dominant foot, but there are a few exceptions. The stroke generally
-ends with the performer\'s hips and shoulders parallel to the baseline
+ends with the performer's hips and shoulders parallel to the baseline
 in preparation for the next shot.
 
-**What\'s Next**
+**What's Next**
 
 The future of quantitative research lies in doing more studies of high
 level players both non-invasively and in live competition. A larger data
@@ -574,8 +556,7 @@ help players and coaches not only at the elite, but at all levels.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a white shirt Description automatically generated with medium
-  confidence](media_researching-the-serve/media/image21.gif){width="1.663888888888889in"
-  height="2.5520833333333335in"}
+  confidence](media_researching-the-serve/media/image21.gif)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------

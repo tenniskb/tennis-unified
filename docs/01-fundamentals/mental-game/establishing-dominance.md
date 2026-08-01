@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_establishing-dominance/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_establishing-dominance/media/image1.webp)
 
 **Establishing dominance is a matter of will, strength and character.**
 
@@ -22,14 +21,13 @@ players get when they face better players. High ranking or successful
 players have a way of making their opponents feel weak and
 ineffectual.]{.mark}]{.underline}**
 
-For example, in addition to his game, Roger Federer\'s simple presence
+For example, in addition to his game, Roger Federer's simple presence
 across the net is intimidating. Federer does not just overpower
 opponents physically.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
-   generated](media_establishing-dominance/media/image2.jpg){width="2.095833333333333in"
-                                                                      height="3.4055555555555554in"}
+   generated](media_establishing-dominance/media/image2.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         Psychological weapons a good addition to physical weapons.
 
@@ -46,7 +44,7 @@ just makes his job easier, as it can yours in competitive matches.
 
 How does one establish this dominance? You start by recognizing that all
 of your actions, not just your forehands and backhands, have an effect
-on your opponent\'s mental state. Since human beings are a social
+on your opponent's mental state. Since human beings are a social
 species, they instinctively react emotionally to the way other people
 treat them.
 
@@ -57,8 +55,7 @@ impervious, your opponent will tend to feel weak and ineffectual.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person holding a tennis racket Description automatically
-   generated](media_establishing-dominance/media/image3.jpg){width="2.095833333333333in"
-                                                                       height="3.310416666666667in"}
+   generated](media_establishing-dominance/media/image3.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    **Serene and unresponsive on court**.
 
@@ -66,9 +63,9 @@ impervious, your opponent will tend to feel weak and ineffectual.
 
 **On Court Persona**
 
-Along this line, much of Federer\'s psychological dominance comes from
+Along this line, much of Federer's psychological dominance comes from
 the way he carries himself on court \-- erect, confident, and, to all
-appearances, unresponsive to his opponent\'s winners or his own errors.
+appearances, unresponsive to his opponent's winners or his own errors.
 
 You can do the same. **[[If your opponent hits a great shot, appear to
 take no notice. Simply walk back into position as you always do \-- head
@@ -90,8 +87,7 @@ them.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_establishing-dominance/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_establishing-dominance/media/image4.webp)
 
 **Federer plays at his own pace, regardless of the opponent.**
 
@@ -103,14 +99,13 @@ the match pace. Between points you deliberately walk into position at
 your own pace, taking no notice of your opponent.]{.mark}]{.underline}**
 
 If it is slower than your opponent wishes, make him wait; if it is
-faster, make him feel rushed. You don\'t do this outside of any written
+faster, make him feel rushed. You don't do this outside of any written
 or unwritten rules. You are not trying to be irritating. You are merely
 determined to play at your own, dominant pace.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person holding a trophy Description automatically
-   generated](media_establishing-dominance/media/image5.jpeg){width="2.095833333333333in"
-                                                                       height="3.2069444444444444in"}
+   generated](media_establishing-dominance/media/image5.jpeg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   **Dominant players impose their force of personality on the opponent.**
 
@@ -127,18 +122,18 @@ Thoughtful, purposeful people frighten uncertain people (which are most
 people). Resist ever allowing your opponent to think that you fear any
 part of his game.
 
-**[[For example, if you serve into your opponent\'s forehand and he hits
-a great return, don\'t be hesitant about serving immediately to it
+**[[For example, if you serve into your opponent's forehand and he hits
+a great return, don't be hesitant about serving immediately to it
 again, indicating that you were not impressed.]{.underline}]{.mark}**
 **[[(Later, after he misses one, you may decide that the shot is indeed
-dangerous and largely choose to serve elsewhere, but don\'t let him feel
+dangerous and largely choose to serve elsewhere, but don't let him feel
 like he has bullied you.)]{.underline}]{.mark}**
 
-If you play a long baseline point and he outsteadies you, don\'t
+If you play a long baseline point and he outsteadies you, don't
 immediately begin to hit harder or rush the net. Go right back at him
 and force him to do it again (and, maybe, again). After you win one of
 these long points you can then decide to adjust your strategy, but you
-don\'t want him to feel that you have conceded this part of the field to
+don't want him to feel that you have conceded this part of the field to
 him. Dominant players move because they choose to move, not because
 their opponents make them.
 
@@ -147,9 +142,9 @@ your opponent. It is an unpleasant and heavy burden and your opponent,
 even though he may be technically better than you, will often falter
 under it.
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -158,62 +153,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                        | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_establishing-dominance/media/image6.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                         | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                         | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                         | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                         | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                         |                                                                                                                       |
-|                                                                                                                                                                         | [Click Here to                                                                                                        |
-|                                                                                                                                                                         | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+=========================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_establishing-dominance/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                        | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_establishing-dominance/media/image7.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                          | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                         | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                         | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                         | his first hand and very personal observations of the        |
-|                                                                                                                                                                         | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                         | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                         | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                         | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                         | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                         | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                         | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                         | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                         | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                         | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                         | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                         | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                         | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                         | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                         | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                         |                                                             |
-|                                                                                                                                                                         | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                         | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                         | 93401. The price includes shipping.                         |
-+=========================================================================================================================================================================+=============================================================+
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                           | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_establishing-dominance/media/image8.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                         | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                        | American player from the glory days before Open        |
-|                                                                                                                                                                        | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                        | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                        | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                        | program into an elite contender for national titles,   |
-|                                                                                                                                                                        | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                        | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                        | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                        | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                        | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                        |                                                        |
-|                                                                                                                                                                        |                                                        |
-+========================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_establishing-dominance/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_establishing-dominance/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

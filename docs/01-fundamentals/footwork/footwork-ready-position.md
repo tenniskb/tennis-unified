@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_footwork-ready-position/media/image1.webp){width="2.78125in"
-height="2.53125in"}
+confidence](media_footwork-ready-position/media/image1.webp)
 
 **Start from a low ready position with a wide stance, learn when to
 split step, stay low with knees bent when moving to the ball and when
@@ -35,16 +34,14 @@ a low center of gravity and a wide stance.
 There are physical, technical and mental elements to this ready
 position. This article focuses on the physical elements. You can read
 about the mental aspects in my first article in this series, entitled
-\"Concentration\". I\'ll address the technical elements in a later
+\"Concentration\". I'll address the technical elements in a later
 article as well.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with low                                                                                    | ![A person playing tennis Description automatically                                                                                                                  |
-| confidence](media_footwork-ready-position/media/image2.jpg){width="2.5625in" | generated](media_footwork-ready-position/media/image3.jpg){width="2.5520833333333335in" |
-| height="2.96875in"}                                                                                                                                       | height="2.96875in"}                                                                                                                                                  |
-+:=========================================================================================================================================================:+:====================================================================================================================================================================:+
-| **The starting point for developing great footwork is an athletic ready position with low center of gravity and wide stance, shown above in front and side views**                                                                                                                                                               |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically |
+| --- | --- |
+| confidence](media_footwork-ready-position/media/image2.jpg) |  |
+| **The starting point for developing great footwork is an athletic ready position with low center of gravity and wide stance, shown above in front and side views** |  |
+
 
 Every ball you react to in tennis is slightly different from every
 other. By reacting out of the same ready position each time, making the
@@ -74,14 +71,13 @@ spine. Your shoulders are level and your head is facing forward. Now
 bend your knees and reach down with your fingertips and touch the top of
 your kneecaps, while keeping your back straight. Feel how your weight
 has transferred to the balls of your feet and your toes. There should be
-no weight on your heels. Don\'t lift your heels, just keep the weight
+no weight on your heels. Don't lift your heels, just keep the weight
 off of them. When you look down you should see your knees covering your
 toes.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           ![A person playing tennis Description automatically generated with medium                                                                                       ![A person sitting on a chair Description automatically generated with low
-   confidence](media_footwork-ready-position/media/image4.jpg){width="2.75in"   confidence](media_footwork-ready-position/media/image5.jpg){width="2.6041666666666665in"
-                                                               height="2.6979166666666665in"}                                                                                                                                   height="2.6979166666666665in"}
+   confidence](media_footwork-ready-position/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                   **If you can see the intersection of the court and the back fence looking over the net, your ready position is too high**                                    **From the correct, low ready position, you are looking through the net to see the intersection of the court and the back fence**
 
@@ -91,9 +87,9 @@ When you get to the court, establish this position and look up. You
 should be **[[looking through the net]{.underline}]{.mark}** to see
 where the court surface meets the back fence. If you are looking
 **[[over the net]{.underline}]{.mark}** to see this intersection,
-you\'re too high. Lower your position until you see the intersection of
+you're too high. Lower your position until you see the intersection of
 the court and the back fence through the net. This position should feel
-like you are guarding someone in basketball, or you\'re playing the
+like you are guarding someone in basketball, or you're playing the
 linebacker position in football, or shortstop in baseball. This basic
 athletic position should be used in all ball sports.
 
@@ -136,28 +132,27 @@ to the ball, hit the ball, and recover back to the middle.
 Watch closely next time you are at a baseball game. Every time the ball
 crosses the plate the entire infield does the split step? This alerts
 the infielder to be ready to move in any direction when the ball comes
-off the batter\'s bat. The same is true every time your opponent hits
+off the batter's bat. The same is true every time your opponent hits
 the ball. You are on defense, ready to react. The split step is timed so
 that your feet are separating three to four inches more than when you
 started. Your feet should touch down just as your opponent hits the
 ball. Time your split with his hit. Land low and on your toes, ready to
 shift your weight in the direction you see the ball coming off your
-opponent\'s racquet. This shift is also called the load.
+opponent's racquet. This shift is also called the load.
 
 You can see this best when watching tennis on television by looking at
-the pros\' knees. See how the knee bends more toward the side the player
+the pros' knees. See how the knee bends more toward the side the player
 is moving. Watch the returner getting ready for the serve. Great
 returners start with their feet far apart. They might start with their
 body bent forward from the waist, but just as the server gets ready to
 toss the ball they will stand up a little straighter but keep their feet
 apart. Then they split their feet apart even further, timed to the ball
-hitting the server\'s racquet.
+hitting the server's racquet.
 
 **The First Move on the Baseline**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image6.png){width="3.2881944444444446in"
-                                                                  height="2.2118055555555554in"}
+   ![](media_footwork-ready-position/media/image6.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **The first move to the ball on the forehand.**
 
@@ -179,8 +174,7 @@ the net. The bottom half of your body is shifting to the right and while
 the top half is turning to the right it is leaning to the left.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image7.png){width="3.2958333333333334in"
-                                                                   height="2.229861111111111in"}
+   ![](media_footwork-ready-position/media/image7.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **Here is the identical first move on the backhand side**
 
@@ -206,8 +200,7 @@ you are playing a point without the ball. Then have your coach feed
 balls to you and see if you can maintain the same low center of gravity.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media_footwork-ready-position/media/image8.png){width="3.2881944444444446in"
-  height="2.188888888888889in"}
+  ![](media_footwork-ready-position/media/image8.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Here is the correct movement pattern to the ball and the recovery. Practice and see how many repetitions you can do, keeping your center of gravity low.**
 
@@ -232,8 +225,7 @@ again.
  
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_footwork-ready-position/media/image9.png){width="3.2958333333333334in"
-                                                                         height="2.175in"}
+   ![](media_footwork-ready-position/media/image9.png)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
                                **Note how the feet land behind you after the split step. This shows your weight is going forward.**
 
@@ -243,7 +235,7 @@ The backhand pattern is the same. Shift or load your weight. Now step
 across to make the hit. Recover by stepping back and split step.
 
 Now have your coach feed balls to you and time your split with the
-coach\'s hit. See the ball being hit by the coach\'s racquet and say the
+coach's hit. See the ball being hit by the coach's racquet and say the
 word \"SPLIT\" when he hits and get the timing of when to split.
 
 Practice the ready position, the split step and the first move in front
@@ -252,13 +244,12 @@ strange to begin with, but it will look and work great!
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with his tongue out Description automatically generated with medium                                                                                           **Michael Friedman** has been devoted to
-  confidence](media_footwork-ready-position/media/image10.jpeg){width="2.079861111111111in"   teaching and coaching tennis for over 30
-  height="1.663888888888889in"}                                                                                                                                            years. Currently he is the Tennis Director at
+  confidence](media_footwork-ready-position/media/image10.jpeg)                                                                                                                                            years. Currently he is the Tennis Director at
                                                                                                                                                                            the Millennium Sports Club in Rancho Solano,
                                                                                                                                                                            where he runs an active junior development as
                                                                                                                                                                            well as adult program. Michael has been a
                                                                                                                                                                            mainstay in the United States Professional
-                                                                                                                                                                           Tennis Association\'s Northern California
+                                                                                                                                                                           Tennis Association's Northern California
                                                                                                                                                                            Division, and served as President from 2000
                                                                                                                                                                            through 2001. He has been a featured speaker
                                                                                                                                                                            at many USTA and USPTA tennis workshops

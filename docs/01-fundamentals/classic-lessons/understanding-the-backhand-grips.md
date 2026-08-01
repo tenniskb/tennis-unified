@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_understanding-the-backhand-grips/media/image1.webp){width="2.6458333333333335in"
-height="2.5in"}
+confidence](media_understanding-the-backhand-grips/media/image1.webp)
 
 **Modern one-handers like Roger Federer have the explosive firepower of
 the best two-handed players.**
@@ -40,8 +39,7 @@ were played on grass courts).
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               ![A picture containing person, feet Description automatically
-   generated](media_understanding-the-backhand-grips/media/image2.jpg){width="2.6041666666666665in"
-                                                                                   height="3.90625in"}
+   generated](media_understanding-the-backhand-grips/media/image2.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          **The eastern backhand grip allows you to drive the ball with topspin.**
 
@@ -74,12 +72,11 @@ bad footwork and slow preparation.]{.underline}]{.mark}**
 **[[To be a complete one-handed player, however, requires the ability
 not only to slice but to drive the ball flat and also with at least some
 topspin.]{.underline}]{.mark}** This is obviously true in the pro game.
-It\'s also a big advantage at the club level.
+It's also a big advantage at the club level.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-backhand-grips/media/image3.jpg){width="3.90625in"
-                                                                        height="2.6041666666666665in"}
+   generated](media_understanding-the-backhand-grips/media/image3.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                       **Visualizing the racquet head above the wrist is essential to controlling the eastern backhand.**
 
@@ -107,8 +104,7 @@ critical.]{.underline}]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-backhand-grips/media/image4.jpg){width="3.90625in"
-                                                                        height="2.6458333333333335in"}
+   generated](media_understanding-the-backhand-grips/media/image4.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **The mental image of the closed racquet face counteracts the natural tendency to open the hand to the sky.**
 
@@ -134,8 +130,7 @@ go a long way in a players ability to play at higher levels.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A picture containing tennis, racket, sport Description automatically
-   generated](media_understanding-the-backhand-grips/media/image5.jpg){width="3.90625in"
-                                                                              height="2.5625in"}
+   generated](media_understanding-the-backhand-grips/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                       **Another way to control the racquet head is the image of the knuckles turned toward the ground.**
 
@@ -161,8 +156,7 @@ the ability to drive with the eastern grip with the ability to slice
 using the continental.]{.underline}]{.mark}**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_understanding-the-backhand-grips/media/image6.jpg){width="2.6041666666666665in"
-                                                                                height="3.65625in"}
+   ![](media_understanding-the-backhand-grips/media/image6.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                      **The best grip combination for two hands, a continental combined with an eastern or mild semi-western.**
 
@@ -180,7 +174,7 @@ last 20 years.
 Players like Chris Evert, Tracy Austin, Jimmy Connors, and Bjorn Borg
 showed the world how effective the two-handed backhand can be. They had
 so much success that, for a while, it was thought the two-hander was the
-only way to make it in today\'s high-speed game.
+only way to make it in today's high-speed game.
 
 Fortunately, that train of thought has waned with the resurgence of the
 one-hander. But even with that resurgence, the two-handed backhand shows
@@ -201,8 +195,7 @@ coordinate the proper racquet face angle at contact.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-backhand-grips/media/image7.webp){width="2.6666666666666665in"
-                                                                                    height="2.34375in"}
+   confidence](media_understanding-the-backhand-grips/media/image7.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -237,8 +230,7 @@ to attain the proper angle, using a swing plane that is less steep than
 the westernized forehand.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_understanding-the-backhand-grips/media/image3.jpg){width="3.90625in"
-                                                                     height="2.6041666666666665in"}
+   ![](media_understanding-the-backhand-grips/media/image3.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **The two-handed key mental image of the racquet head above the wrists and the closed racquet face.**
 
@@ -258,16 +250,14 @@ face.]{.mark}]{.underline}**
 We actually see this physical position-face closed, racquet head above
 wrist\--on more and more balls in the pros, particularly high balls.
 This image may not be the reality in your game, or may exaggerate the
-reality. But it is necessary to create it in your mind\'s eye in order
+reality. But it is necessary to create it in your mind's eye in order
 to control the shot consistently.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                  | ![A person playing tennis Description automatically generated with medium                                                                                                  |
-| confidence](media_understanding-the-backhand-grips/media/image8.jpg){width="2.34375in" | confidence](media_understanding-the-backhand-grips/media/image9.jpg){width="2.34375in" |
-| height="3.1666666666666665in"}                                                                                                                                             | height="3.1666666666666665in"}                                                                                                                                             |
-+:==========================================================================================================================================================================:+:==========================================================================================================================================================================:+
-| **In the modern pro game, players like Safin and Federer, at times, actually model the key image of the racquet head above the wrists.**                                                                                                                                                                                                                |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| confidence](media_understanding-the-backhand-grips/media/image8.jpg) |  |
+| **In the modern pro game, players like Safin and Federer, at times, actually model the key image of the racquet head above the wrists.** |  |
+
 
 **Two-Hands or One?**
 
@@ -288,8 +278,7 @@ be on time more often.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-backhand-grips/media/image10.jpg){width="3.90625in"
-                                                                         height="2.6041666666666665in"}
+   generated](media_understanding-the-backhand-grips/media/image10.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                     **To drive the the one-hander in tournament play, learn to align your rear foot to the oncoming ball.**
 
@@ -337,24 +326,23 @@ players want to play to their ultimate potential and understanding how
 grips affect the game goes a long way in realizing that dream. My most
 important thought: Have Fun!
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                            | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_understanding-the-backhand-grips/media/image11.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                         | numerous ranked junior players and coached  |
-|                                                                                                                                                                                        | a series of championship high school teams. |
-|                                                                                                                                                                                        | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                        | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                        |                                             |
-|                                                                                                                                                                                        | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                        | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                        | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                        | are now splitting time between homes in     |
-|                                                                                                                                                                                        | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                        | continued to coach and to have great        |
-|                                                                                                                                                                                        | competitive success winning Canadian        |
-|                                                                                                                                                                                        | National seniors titles---not to mention    |
-|                                                                                                                                                                                        | continuing to write articles for            |
-|                                                                                                                                                                                        | Tennisplayer from his unique perspective.   |
-+========================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_understanding-the-backhand-grips/media/image11.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

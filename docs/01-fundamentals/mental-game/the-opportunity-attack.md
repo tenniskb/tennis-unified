@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opportunity-attack/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image1.webp)
 
 **Sure, I learned to volley, but why?**
 
@@ -36,8 +35,7 @@ million groundstrokes at the Bollettierri Academy.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opportunity-attack/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-opportunity-attack/media/image2.webp)
 
 **I proved that I could win points at the net and I know you can too.**
 
@@ -60,8 +58,7 @@ that I experimented, it felt like a suicide charge, attacking naked and
 weaponless.
 
 ![A person playing tennis Description automatically
-generated](media_the-opportunity-attack/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image3.webp)
 
 **The groundstrokes that led to winning so many matches.**
 
@@ -82,8 +79,7 @@ I certainly didn't become a serve and volleyer. And I wouldn't call it
 exactly all court play. The strength of game was still my groundstrokes.
 
 ![A person playing tennis Description automatically
-generated](media_the-opportunity-attack/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image4.webp)
 
 **Opportunity attacking: a new tactical variation.**
 
@@ -113,8 +109,7 @@ against my friend.
 
 ![A group of men posing for a picture Description automatically
 generated with medium
-confidence](media_the-opportunity-attack/media/image5.jpg){width="3.721738845144357in"
-height="2.6672462817147857in"}
+confidence](media_the-opportunity-attack/media/image5.jpg)
 
 **That's me with the braintrust: Paul Cohen and Rod Heckelman.**
 
@@ -141,8 +136,7 @@ opinions," I thought to myself.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-opportunity-attack/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image6.webp)
 
 **Even at the pro level, a huge percentage of balls land short.**
 
@@ -167,8 +161,7 @@ net was an act of adolescent rebellion?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opportunity-attack/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-opportunity-attack/media/image7.webp)
 
 **Was the net the new ground for fearless tennis?**
 
@@ -195,8 +188,7 @@ playing "fearless" tennis might have additional paths I had not
 considered. And maybe Cohen was pointing the next one out.
 
 ![A person playing tennis Description automatically
-generated](media_the-opportunity-attack/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image8.webp)
 
 **I had made previous technical changes to my serve.**
 
@@ -217,8 +209,7 @@ but it wasn't enough.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opportunity-attack/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-opportunity-attack/media/image7.webp)
 
 **Were opportunity approaches the difference between third place and the
 championship?**
@@ -245,8 +236,7 @@ short volley motion he wanted, then had me hit transition balls that I
 was forced to follow in.
 
 ![A person playing tennis Description automatically
-generated](media_the-opportunity-attack/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image9.webp)
 
 **The key pattern: a big forehand, an angled volley.**
 
@@ -272,8 +262,7 @@ commanding finishing shot with a relatively low degree of
 difficulty.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opportunity-attack/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image10.webp)
 
 **Opportunity attacking: creating commanding finishing shots.**
 
@@ -295,8 +284,7 @@ tournament we hit hundreds of approach sequences.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opportunity-attack/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-opportunity-attack/media/image11.webp)
 
 **Rod's first goal was get me more comfortable with the footwork.**
 
@@ -319,8 +307,7 @@ shocked. After winning the final, my opponent had these word: "That was
 too good."
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opportunity-attack/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image12.webp)
 
 **Another approach variation, finishing with a angled, slice overhead.**
 
@@ -345,8 +332,7 @@ all of this was well intentioned, it was a bit like moving the deck
 chairs around on the Titantic.
 
 ![A person playing tennis Description automatically
-generated](media_the-opportunity-attack/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-opportunity-attack/media/image13.webp)
 
 **It was time to get off the deck of the Titanic and up to net.**
 
@@ -368,8 +354,7 @@ your age. Stay Tuned!
 
 ![A tennis player hitting a ball Description automatically generated
 with low
-confidence](media_the-opportunity-attack/media/image14.jpeg){width="1.5909722222222222in"
-height="2.078472222222222in"}
+confidence](media_the-opportunity-attack/media/image14.jpeg)
 
 The Best Tennis of Your Life
 
@@ -377,7 +362,7 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff\'s book: \"a
+and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
 [Click Here to
@@ -385,14 +370,13 @@ Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/re
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-opportunity-attack/media/image15.jpeg){width="1.3736111111111111in"
-height="1.64375in"}
+confidence](media_the-opportunity-attack/media/image15.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
 Association and trains numerous players around the world on the mental
-game. As a player in the men\'s 35 and over age division he attained an
-ITF #1 world ranking, as well as the #1 ranking in men\'s singles and
+game. As a player in the men's 35 and over age division he attained an
+ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
@@ -401,5 +385,5 @@ published by Betterway. [Click Here to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at
-jeff@mentaledge.net. You can also visit Jeff\'s website at
+jeff@mentaledge.net. You can also visit Jeff's website at
 [www.mentaledge.net](http://www.mentaledge.net/).

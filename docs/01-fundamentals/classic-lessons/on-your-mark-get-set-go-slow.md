@@ -5,14 +5,13 @@
 ------------------------------------------------------------------------
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_on-your-mark-get-set-go-slow/media/image1.jpg){width="2.8656714785651793in"
-height="3.711043307086614in"}
+generated](media_on-your-mark-get-set-go-slow/media/image1.jpg)
 
 **Ken Rosewall reached the U.S. Open final in 1974 at the age of 40.**
 
-It\'s 1974 at Forest Hills and an aging Ken Rosewall is on center court
+It's 1974 at Forest Hills and an aging Ken Rosewall is on center court
 playing for his third championship eighteen years later after his first
-win. He\'s up against a new young stud, who hits groundstrokes like
+win. He's up against a new young stud, who hits groundstrokes like
 never before.
 
 The age discrepancy is highlighted by the fact that this young
@@ -24,7 +23,7 @@ themselves to the modest Australian, not because he is the underdog, but
 because he is nearly 40 years old.
 
 Ironically, nearly 20 years later the shoe is on the other foot and
-it\'s a young Jimmy Connors who is nearly 40 years of age and putting
+it's a young Jimmy Connors who is nearly 40 years of age and putting
 together a run up to the semi-finals, a run that might be one of the
 most memorable weeks in tennis history. Again, a senior player steals
 the show and endears the hearts and minds of the tennis world.
@@ -35,8 +34,7 @@ audience can relate, because most of the audience is either the same age
 or slightly older.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_on-your-mark-get-set-go-slow/media/image2.jpg){width="2.5694444444444446in"
-height="4.333333333333333in"}
+generated](media_on-your-mark-get-set-go-slow/media/image2.jpg)
 
 **20 years later, Jimmy Connors was the senior player crowds cheered.**
 
@@ -45,12 +43,12 @@ the big one. We dream we could do the same.
 
 We take that dream to the tennis courts and give it our best shot. What
 draws us to the television to watch these elder heroes is the same that
-drives us to compete late into our lives. The level may be world\'s
+drives us to compete late into our lives. The level may be world's
 apart, but I dare say for some the intensity level can be the same as
 the juniors, the collegians, or even, yes, the pros.
 
 Everyone loves a chance for a do-over, a fresh start, a chance to erase
-the past and begin new. That\'s what senior tennis provides, and because
+the past and begin new. That's what senior tennis provides, and because
 the age groups are measured by five year intervals, we get a do-over
 every five years according to the USTA and ITF age groups.
 
@@ -61,19 +59,18 @@ eventually every five years.
 
 But as age groups were added the label of seniors stuck. Today we have
 senior divisions starting at 30 years plus and moving up in integrals of
-five years all the way to the 90\'s. Today\'s 60 is yesterdays 40, and
+five years all the way to the 90's. Today's 60 is yesterdays 40, and
 in the tennis world we have taken advantage of that extended aging
 opportunity all the way up to the 90 and over.
 
-The fact is that the tennis explosion of the early 70\'s means that a
-very large proportion of today\'s tennis population being 50 plus in
+The fact is that the tennis explosion of the early 70's means that a
+very large proportion of today's tennis population being 50 plus in
 years. As a result, there is a great need to address this sector of
 players separately, taking a more catered to approach to the advancement
 of their games.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_on-your-mark-get-set-go-slow/media/image3.jpg){width="3.8472222222222223in"
-height="2.861111111111111in"}
+generated](media_on-your-mark-get-set-go-slow/media/image3.jpg)
 
 **Seniors can play their own version of world class tennis into their
 90s.**
@@ -89,15 +86,14 @@ competitive practice and to help create progressive change. This
 decision to add new types of playing drills and games is based on
 working for years and years with actual senior players.
 
-It\'s about having fun while improving, and let\'s face it, games are
-more fun than drills. That\'s a common thread for all levels and ages
+It's about having fun while improving, and let's face it, games are
+more fun than drills. That's a common thread for all levels and ages
 and here we will tailor that approach to maximizing your development as
 a senior player.
 
 ![A group of men holding a trophy Description automatically generated
 with medium
-confidence](media_on-your-mark-get-set-go-slow/media/image4.jpg){width="3.888888888888889in"
-height="3.0277777777777777in"}
+confidence](media_on-your-mark-get-set-go-slow/media/image4.jpg)
 
 **The senior tour provides players with opportunities to compete
 worldwide.**
@@ -109,9 +105,9 @@ competitively against a foe with equal physical skills. Also, now the
 player across the net has the same amount of wear and tear on the body.
 
 As much as it may be fun on occasion for seniors to play with quicker
-and harder hitting younger athletes, it isn\'t much fun to compete with
+and harder hitting younger athletes, it isn't much fun to compete with
 them on a steady diet. Not only can it result in a lopsided match
-that\'s no fun for either player, but it also can be physically
+that's no fun for either player, but it also can be physically
 stressful.
 
 With new technology the younger and stronger players can hit serves and
@@ -122,8 +118,7 @@ year old, the task can quickly transform from a volleying agenda to a
 dodge ball event.
 
 ![A person holding a tennis racket Description automatically
-generated](media_on-your-mark-get-set-go-slow/media/image5.jpg){width="2.701492782152231in"
-height="2.2673239282589677in"}
+generated](media_on-your-mark-get-set-go-slow/media/image5.jpg)
 
 **Senior tennis often involves more net play and artful angles.**
 
@@ -146,8 +141,7 @@ focused on control and variety, less on power and speed.
 
 ![A picture containing water, beach, sky, outdoor Description
 automatically
-generated](media_on-your-mark-get-set-go-slow/media/image6.jpg){width="4.861111111111111in"
-height="3.0in"}
+generated](media_on-your-mark-get-set-go-slow/media/image6.jpg)
 
 **Senior tennis also provides the opportunities for incredible world
 travel.**
@@ -176,13 +170,12 @@ months, no hurry, making this one change will teach you how to be
 successful at such transitions in the future.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_on-your-mark-get-set-go-slow/media/image7.jpg){width="3.8194444444444446in"
-height="3.0972222222222223in"}
+generated](media_on-your-mark-get-set-go-slow/media/image7.jpg)
 
 **Discover the thrill of an improved volley grip.**
 
 If you feel your game has an obvious flaw, make the change cold turkey
-and don\'t hesitate to reinvent that portion of your play. As an
+and don't hesitate to reinvent that portion of your play. As an
 example, you feel your net play is weak due to the incorrect grip you
 use when you volley.
 
@@ -203,8 +196,7 @@ enjoy and remember for some time.]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                                    Rod Heckelman has been the general manager of
-  confidence](media_on-your-mark-get-set-go-slow/media/image8.jpeg){width="1.7166666666666666in"   the famed Mt. Tam Racquet Club in Marin County,
-  height="2.3583333333333334in"}                                                                                                                                                       California for the last 30 years. He was
+  confidence](media_on-your-mark-get-set-go-slow/media/image8.jpeg)                                                                                                                                                       California for the last 30 years. He was
                                                                                                                                                                                        formerly the youngest head pro at the John
                                                                                                                                                                                        Gardner Tennis Ranch in Scottsdale, Arizona,
                                                                                                                                                                                        and has been ranked numerous times in Northern

@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-in-the-system/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_serving-in-the-system/media/image1.webp)
 
 **If you understand the principles of serving in doubles, you can hold
 consistently.**
@@ -50,12 +49,11 @@ partner.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_serving-in-the-system/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_serving-in-the-system/media/image2.webp)
 
 **Master variety in spin and placement.**
 
-Every serve you hit should be related to the previous serves you\'ve hit
+Every serve you hit should be related to the previous serves you've hit
 and the serves you plan to hit later. If you have variety, you will be
 able to attack opponents' weaknesses, and when they least expect it,
 attack their strengths.
@@ -82,22 +80,21 @@ Studies show the racket head speed on elite first and second serves is
 virtually identical. Not one good player anywhere in the world slows
 their swing down on any serve.
 
-One of the ways you\'re going to make your opponent miss returns is to
+One of the ways you're going to make your opponent miss returns is to
 change speed on your serve. But this variety in ball speed comes from
 variety in the type and amount spin.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-in-the-system/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_serving-in-the-system/media/image3.webp)
 
 **It's a good idea to mix in first serves with a lot of spin.**
 
-You\'ll never beat anyone good by hitting every first serve the same
+You'll never beat anyone good by hitting every first serve the same
 speed and every second serve the same speed. It's a great idea to mix in
 first serves hit with a lot of spin.
 
-If you have variety, your opponent won\'t be able to time the ball
+If you have variety, your opponent won't be able to time the ball
 coming off your racket because your arm speed will always look the same.
 The opponent will often swing too early or too late and the spin can
 take their contact point out of their strike zone.
@@ -110,7 +107,7 @@ So, work on it. If you have problems work with a pro to develop control
 of spin and placement---and let speed take care of itself.
 
 Good serving allows teams to get ahead in their service games. If
-you\'re ahead in your service games that will allow your partner to be
+you're ahead in your service games that will allow your partner to be
 more aggressive and go for more balls. Conversely, your opponent will
 have to be more conservatively and that will play right into your hands.
 
@@ -126,8 +123,7 @@ Here](The%20Hunter%20and%20the%20Helper.docx).)
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_serving-in-the-system/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_serving-in-the-system/media/image4.webp)
 
 **Few players hit all returns equally well.**
 
@@ -161,8 +157,7 @@ get together for a quick chat or a word or two but I prefer hand
 signals.
 
 ![A person holding a tennis racket Description automatically
-generated](media_serving-in-the-system/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_serving-in-the-system/media/image5.webp)
 
 **The net player can call the direction of the serve.**
 
@@ -196,24 +191,23 @@ the defensive.
 The opponents are less able to open the court with angles and more
 likely to produce returns your partner can volley for winners.
 
-Wait until it\'s game point for your team before you go for a wide
+Wait until it's game point for your team before you go for a wide
 serve. Or at least wait until you know their strengths and weaknesses on
 the returns.
 
-If you serve wide when you\'re losing you open up a lot of court in all
+If you serve wide when you're losing you open up a lot of court in all
 directions for your opponent to hit a winner. If they hit a winner
 either down the line or on a sharp crosscourt, you don't even get a
 chance to hit a ball and stay in the game.
 
 It is demoralizing to hit a good wide serve and watch the returner hit a
 winner on game point. The returner will be relaxed and aggressive and
-you don\'t want to make it easy by giving him a serve with a lot of
+you don't want to make it easy by giving him a serve with a lot of
 return options.
 
 ![A group of people play tennis Description automatically generated with
 medium
-confidence](media_serving-in-the-system/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_serving-in-the-system/media/image6.webp)
 
 **Making players return from the inside can set up easy volleys.**
 
@@ -231,10 +225,10 @@ certain returns, changing positions makes your opponents think and leads
 to errors.
 
 Most players get more comfortable the less they have to think. Remember
-that your job at the net isn\'t just to hit balls but to be a factor in
-every point that\'s played.
+that your job at the net isn't just to hit balls but to be a factor in
+every point that's played.
 
-Here\'s a classic example of how standing in a different place works.
+Here's a classic example of how standing in a different place works.
 Your partner is serving at 40-15. You signal for a wide serve, but you
 line up near the center line. Now your opponent has to have one eye on
 you and one on the serve.
@@ -244,19 +238,19 @@ strikes the return. Then move diagonally toward the returner, cutting
 off the alley.
 
 If they hit down the alley because they thought you were poaching,
-you\'ll be there and put the ball away\--and win the game. If they go
+you'll be there and put the ball away\--and win the game. If they go
 cross-court you have learned something about what they will do under
 pressure and your partner can still handle the return.
 
-Then the next time you\'re in the same situation, ahead at 40-15 on
+Then the next time you're in the same situation, ahead at 40-15 on
 serve, line up the same way. But this time move straight in so they
-can\'t hit a crosscourt return.
+can't hit a crosscourt return.
 
-If you guess wrong and the returner goes down the alley, you\'re still
+If you guess wrong and the returner goes down the alley, you're still
 ahead 40-30. But you have added an element of uncertainty since the
 returner is not sure where you will go next time.
 
-You\'ve made it much more difficult for them and added a lot of stress
+You've made it much more difficult for them and added a lot of stress
 to their returns. You can use the same strategy in the ad court when you
 are ahead 40-0.
 
@@ -265,37 +259,36 @@ easily attainable if you have the right approach. It should be fun to
 work with your partner to win your serve games, and when you can do this
 consistently, you will be formidable.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
-| ![A picture containing person, person, standing, outdoor Description automatically                                                                                 | Bill Previdi has been playing    |
-| generated](media_serving-in-the-system/media/image7.jpeg){width="2.863888888888889in" | and teaching tennis for most of  |
-| height="2.120138888888889in"}                                                                                                                                      | his life. He played his          |
-|                                                                                                                                                                    | collegiate tennis at St. John\'s |
-|                                                                                                                                                                    | University in New York and has   |
-|                                                                                                                                                                    | been nationally ranked in        |
-|                                                                                                                                                                    | singles, doubles and Father-Son  |
-|                                                                                                                                                                    | Doubles. Bill has been a Head    |
-|                                                                                                                                                                    | Pro and Director of Tennis at    |
-|                                                                                                                                                                    | several clubs since 1981 and has |
-|                                                                                                                                                                    | also coached high school and     |
-|                                                                                                                                                                    | college tennis. He lives in      |
-|                                                                                                                                                                    | Branford, CT. He can be          |
-|                                                                                                                                                                    | contacted at:                    |
-|                                                                                                                                                                    | <previdib@gmail.com>             |
-|                                                                                                                                                                    |                                  |
-|                                                                                                                                                                    | Matt Previdi is a high           |
-|                                                                                                                                                                    | performance coach in La Jolla,   |
-|                                                                                                                                                                    | California and the head coach of |
-|                                                                                                                                                                    | the La Jolla High boys' tennis   |
-|                                                                                                                                                                    | team, which in the the past 6    |
-|                                                                                                                                                                    | years he has led to a 72-8       |
-|                                                                                                                                                                    | record and 2 sectional titles.   |
-|                                                                                                                                                                    | Matt is a Master Racquet         |
-|                                                                                                                                                                    | Technician, the head of the      |
-|                                                                                                                                                                    | Solinco national stringing team, |
-|                                                                                                                                                                    | as well as the Solinco player    |
-|                                                                                                                                                                    | liason and brand representative. |
-|                                                                                                                                                                    | He can be contacted at:          |
-|                                                                                                                                                                    | <mprevidi@gmail.com>             |
-+====================================================================================================================================================================+==================================+
+| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
+| --- | --- |
+| generated](media_serving-in-the-system/media/image7.jpeg) | his life. He played his |
+|  | collegiate tennis at St. John's |
+|  | University in New York and has |
+|  | been nationally ranked in |
+|  | singles, doubles and Father-Son |
+|  | Doubles. Bill has been a Head |
+|  | Pro and Director of Tennis at |
+|  | several clubs since 1981 and has |
+|  | also coached high school and |
+|  | college tennis. He lives in |
+|  | Branford, CT. He can be |
+|  | contacted at: |
+|  | <previdib@gmail.com> |
+|  |  |
+|  | Matt Previdi is a high |
+|  | performance coach in La Jolla, |
+|  | California and the head coach of |
+|  | the La Jolla High boys' tennis |
+|  | team, which in the the past 6 |
+|  | years he has led to a 72-8 |
+|  | record and 2 sectional titles. |
+|  | Matt is a Master Racquet |
+|  | Technician, the head of the |
+|  | Solinco national stringing team, |
+|  | as well as the Solinco player |
+|  | liason and brand representative. |
+|  | He can be contacted at: |
+|  | <mprevidi@gmail.com> |
+
 
 ------------------------------------------------------------------------

@@ -44,7 +44,7 @@ Nền tảng Sinh cơ học: Tại sao Năng lượng Không sinh ra từ Cánh 
 1.1. Sai lầm nền tảng của người chơi phong trào
 
 Khi quan sát người chơi phong trào lần đầu cầm vợt, gần như không thể
-tránh khỏi một nhận định rằng họ đang \'đánh bóng bằng tay\'. Đây không
+tránh khỏi một nhận định rằng họ đang 'đánh bóng bằng tay'. Đây không
 phải là một quan sát thông thường mà là chỉ ra một vấn đề nền tảng trong
 cách não bộ của con người xây dựng mô hình vận động. Chúng ta nhìn vào
 một cú forehand của Rafael Nadal và mắt ta bị hút vào cánh tay đang vung
@@ -91,8 +91,8 @@ Trong đo lường tại các phòng thí nghiệm sinh cơ học hàng đầu, 
 tích cú serve của Roger Federer, các nhà nghiên cứu đã ghi nhận GRF lên
 tới 1.5--2 lần trọng lượng cơ thể trong pha leg drive. Con số này, khi
 được truyền hoàn hảo qua chuỗi động học của Federer, xuất hiện tại đầu
-vợt dưới dạng tốc độ bóng vượt 200 km/h với cảm giác \'dễ dàng như gãi
-tai\'. Đây chính là bản chất của \'effortless power\'.
+vợt dưới dạng tốc độ bóng vượt 200 km/h với cảm giác 'dễ dàng như gãi
+tai'. Đây chính là bản chất của 'effortless power'.
 
 1.3. Chuỗi Động học Đầy đủ trong Tennis
 
@@ -105,11 +105,11 @@ Bước đầu tiên là Chân và Cổ chân: bàn chân chạm đất, GRF đ�
 chân hoạt động như một lò xo hấp thu và phóng thích năng lượng. Bước thứ
 hai là Gối: không phải bộ phận tạo lực mà là bộ phận truyền lực và đổi
 hướng --- như chiếc giảm xóc trên xe đua F1. Bước thứ ba là Hông và
-Xương chậu: đây là \'trung tâm điều phối\' năng lượng, nơi xoay trục tạo
+Xương chậu: đây là 'trung tâm điều phối' năng lượng, nơi xoay trục tạo
 ra moment góc lớn nhất. Bước thứ tư là Vùng lõi (Core): cột sống và các
 cơ bụng giữ cấu trúc để năng lượng không bị rò rỉ. Bước thứ năm là Vai:
 xoay trong và xoay ngoài tạo ra pha tăng tốc lớn. Bước thứ sáu là Cánh
-tay trên, Cẳng tay và Cổ tay: đây là các \'đoạn roi cuối cùng\' tạo ra
+tay trên, Cẳng tay và Cổ tay: đây là các 'đoạn roi cuối cùng' tạo ra
 tốc độ đầu vợt tối đa.
 
 Điều tuyệt diệu của cơ thể con người là mỗi phân đoạn nhỏ hơn ở xa tâm
@@ -138,9 +138,9 @@ cứng nhắc --- và một thanh sắt cứng không thể tạo ra hiệu ứn
 Roger Federer hiểu điều này một cách bản năng. Trong slow-motion footage
 của cú forehand của ông, người ta có thể quan sát thấy cổ tay của
 Federer gần như hoàn toàn thả lỏng cho đến một phần giây trước điểm tiếp
-xúc. Đầu vợt \'tụt lại\' phía sau --- không phải vì ông cố tình làm vậy,
+xúc. Đầu vợt 'tụt lại' phía sau --- không phải vì ông cố tình làm vậy,
 mà vì quán tính vật lý kéo nó lại khi cánh tay tăng tốc. Đây là pha
-\'racquet lag\' tự nhiên --- và chính sự thả lỏng này cho phép năng
+'racquet lag' tự nhiên --- và chính sự thả lỏng này cho phép năng
 lượng đàn hồi tích trữ trong cẳng tay phóng thích hoàn toàn vào đầu vợt
 tại điểm tiếp xúc.
 
@@ -156,15 +156,15 @@ Trong cú forehand, khi tay vợt thực hiện unit turn và chuẩn bị
 backswing, hệ thống mạc cơ trên toàn bộ nửa thân trên được kéo giãn như
 một chiếc dây thun lớn. Năng lượng đàn hồi được tích trữ trong hệ thống
 này --- không phải trong cơ bắp. Khi pha tấn công bắt đầu, hệ thống mạc
-cơ \'bung tỏa\', phóng thích năng lượng đàn hồi này vào cú đánh. Đây là
-lý do tại sao những cú đánh đẹp nhất trông có vẻ \'nhẹ nhàng\' --- bởi
+cơ 'bung tỏa', phóng thích năng lượng đàn hồi này vào cú đánh. Đây là
+lý do tại sao những cú đánh đẹp nhất trông có vẻ 'nhẹ nhàng' --- bởi
 vì năng lượng đến từ đàn hồi, không phải từ co cơ cưỡng bức.
 
 1.6. Hệ quả Thực tế: Những Điều cần Thay đổi Ngay
 
 Hiểu được nguyên lý nền tảng này có hàm ý quan trọng cho cách chúng ta
-tập luyện. Đầu tiên, thay vì cố gắng \'đánh mạnh hơn\', hãy tập trung
-vào việc \'thả lỏng hoàn toàn hơn\'. Mọi tension dư thừa trong cơ thể
+tập luyện. Đầu tiên, thay vì cố gắng 'đánh mạnh hơn', hãy tập trung
+vào việc 'thả lỏng hoàn toàn hơn'. Mọi tension dư thừa trong cơ thể
 đều làm giảm tốc độ đầu vợt, không phải tăng. Thứ hai, hãy bắt đầu chú ý
 đến bàn chân và gối khi đánh bóng --- chúng quan trọng hơn cánh tay rất
 nhiều. Thứ ba, hãy tập trung vào việc thiết lập đúng tư thế ban đầu
@@ -176,9 +176,9 @@ thể --- nhưng luôn luôn, nguyên lý nền tảng này là sợi chỉ đ�
 suốt: năng lượng đến từ chuỗi động học, không phải từ cơ bắp cánh tay
 đơn lẻ.
 
-💡 Bài tập tư duy: Trong lần tập tiếp theo, thay vì nghĩ \'tôi phải đánh
-mạnh\', hãy nghĩ \'tôi phải thả lỏng cánh tay và để chuỗi cơ thể tự làm
-việc\'. Bạn có thể sẽ ngạc nhiên khi thấy bóng đi nặng và xuyên hơn mà
+💡 Bài tập tư duy: Trong lần tập tiếp theo, thay vì nghĩ 'tôi phải đánh
+mạnh', hãy nghĩ 'tôi phải thả lỏng cánh tay và để chuỗi cơ thể tự làm
+việc'. Bạn có thể sẽ ngạc nhiên khi thấy bóng đi nặng và xuyên hơn mà
 cảm giác lại nhẹ nhàng hơn.
 
 CHƯƠNG 2\
@@ -186,18 +186,18 @@ Cơ chế Trophy Position và Vai trò của Khuỷu tay Cao
 
 2.1. Trophy Position: Không phải Tư thế Cố định mà là Hệ quả Động học
 
-Nếu bạn tìm kiếm \'trophy position tennis\' trên Internet, hầu hết các
+Nếu bạn tìm kiếm 'trophy position tennis' trên Internet, hầu hết các
 hình ảnh sẽ cho thấy các tay vợt đứng trong một tư thế đẹp với vợt giơ
 cao --- và đó chính xác là nguyên nhân tại sao hầu hết người chơi phong
-trào học sai kỹ thuật này. Họ cố gắng \'đặt người vào tư thế\' thay vì
+trào học sai kỹ thuật này. Họ cố gắng 'đặt người vào tư thế' thay vì
 hiểu rằng Trophy Position là điểm đỉnh tự nhiên của một chuỗi nạp lực
 liên tục.
 
 Hãy nghĩ về Trophy Position theo cách này: nếu bạn chụp ảnh một cú ném
 lao của vận động viên điền kinh đỉnh cao đúng vào khoảnh khắc họ đạt độ
-giãn tối đa trước khi phóng --- đó cũng là một \'trophy position\'.
-Không ai nói với vận động viên ném lao rằng \'hãy đặt cơ thể vào hình
-dạng đó\'. Tư thế đó xuất hiện một cách TỰ NHIÊN khi chuỗi nạp lực được
+giãn tối đa trước khi phóng --- đó cũng là một 'trophy position'.
+Không ai nói với vận động viên ném lao rằng 'hãy đặt cơ thể vào hình
+dạng đó'. Tư thế đó xuất hiện một cách TỰ NHIÊN khi chuỗi nạp lực được
 thực hiện đúng.
 
 Ở cấp độ ATP/WTA, cấu hình sinh cơ học của Trophy Position có những đặc
@@ -218,7 +218,7 @@ trong những thông số sinh cơ học quan trọng nhất trong cú serve ten
 160 đến 180 độ --- một con số gần như đạt giới hạn sinh lý của khớp vai
 con người.
 
-Tại sao ESR quan trọng đến vậy? Vì nó quyết định \'độ giãn\' của hệ
+Tại sao ESR quan trọng đến vậy? Vì nó quyết định 'độ giãn' của hệ
 thống trước khi phóng thích. Hãy nghĩ về ESR như việc kéo căng dây cung
 --- kéo càng xa, mũi tên bay càng mạnh. ESR tối đa tạo ra ba điều kiện
 sinh cơ học quan trọng: kéo giãn tối đa nhóm cơ ngực lớn và cơ lưng rộng
@@ -230,12 +230,12 @@ Khi ESR không đạt đủ biên độ --- thường xảy ra vì khuỷu tay b
 hoặc vai không xoay đủ --- nhóm cơ xoay trong (internal rotators) không
 được kéo giãn đủ. Kết quả là khi pha xoay trong khớp vai (ISR) diễn ra,
 lực tạo ra thấp hơn nhiều và người chơi phải bù đắp bằng cách dùng cơ
-tay --- biến cú serve thành \'arm serve\'.
+tay --- biến cú serve thành 'arm serve'.
 
 2.3. Tại sao Khuỷu tay Cao là Không thể Thương lượng
 
 Trong tất cả các chi tiết kỹ thuật của cú serve, vị trí khuỷu tay là yếu
-tố mà các HLV elite xem là \'non-negotiable\' --- không thể thương
+tố mà các HLV elite xem là 'non-negotiable' --- không thể thương
 lượng, không có ngoại lệ. Một khuỷu tay bị hạ thấp không chỉ làm giảm
 tốc độ serve mà còn là nguyên nhân số một gây ra chấn thương vai kéo
 dài.
@@ -254,7 +254,7 @@ Thứ ba, khuỷu tay cao tạo điều kiện cho pha Racquet Drop tự nhiên.
 khuỷu tay ở trên cao, vai đạt trạng thái ESR tối đa và cẳng tay hoàn
 toàn thả lỏng --- trọng lực sẽ TỰ ĐỘNG kéo đầu vợt rơi xuống sâu sau
 lưng mà không cần bất kỳ nỗ lực cơ bắp nào. Đây là sự khác biệt bản chất
-giữa \'cào lưng\' và cú serve đỉnh cao: một cú serve tốt không cần cào
+giữa 'cào lưng' và cú serve đỉnh cao: một cú serve tốt không cần cào
 lưng. Vợt tự rơi. Và thứ tư, khuỷu tay cao đồng bộ timing cho ISR và
 Pronation --- hai cơ chế tạo ra phần lớn tốc độ serve. Khuỷu tay thấp ép
 buộc ISR xảy ra sớm và sai thời điểm, phá vỡ toàn bộ chuỗi timing.
@@ -271,24 +271,24 @@ Cơ chế của pha này như sau: khi khuỷu tay đạt vị trí cao nhất, 
 thời đạt trạng thái ESR tối đa. Lúc này cẳng tay và bàn tay ở trạng thái
 hoàn toàn thả lỏng. Đầu vợt --- nặng hơn phần tay cầm --- bị trọng lực
 kéo xuống. Đồng thời, khi cơ thể bắt đầu tăng tốc về phía trước (thân
-người đổ về trước), do quán tính, đầu vợt \'tụt lại\' phía sau tạo ra
+người đổ về trước), do quán tính, đầu vợt 'tụt lại' phía sau tạo ra
 pha lag. Sự kết hợp của trọng lực và quán tính tạo ra một pha vợt rơi
 sâu và nhanh mà không cần bất kỳ cơ bắp cánh tay nào làm việc.
 
-Khi người chơi phong trào cố tình dùng cơ tay để \'cào lưng\' --- tức là
+Khi người chơi phong trào cố tình dùng cơ tay để 'cào lưng' --- tức là
 chủ động kéo vợt xuống bằng cơ bắp --- họ đang vi phạm nguyên lý này. Cơ
 bắp đang hoạt động có nghĩa là cơ bắp đang bị cứng. Cơ bắp đang bị cứng
 có nghĩa là mạc cơ không thể lưu trữ năng lượng đàn hồi. Kết quả là pha
 ISR và pronation sau đó bị mất đi phần lớn năng lượng.
 
-2.5. Lỗi Waiter\'s Tray --- Sát thủ Thầm lặng của Cú Serve
+2.5. Lỗi Waiter's Tray --- Sát thủ Thầm lặng của Cú Serve
 
 Lỗi kỹ thuật nguy hiểm nhất trong serve không phải là tung bóng không
-đều, không phải là nhảy không đúng thời điểm --- mà là lỗi Waiter\'s
+đều, không phải là nhảy không đúng thời điểm --- mà là lỗi Waiter's
 Tray. Tên gọi này đến từ hình ảnh một người hầu bàn bê khay đồ ăn: mặt
 vợt bị mở ngửa lên trời giống như đang bê một cái khay.
 
-Lỗi Waiter\'s Tray xảy ra khi cẳng tay rơi vào trạng thái ngửa sớm
+Lỗi Waiter's Tray xảy ra khi cẳng tay rơi vào trạng thái ngửa sớm
 (forearm supination) kết hợp với khuỷu tay bị hạ thấp. Hệ quả sinh cơ
 học là thảm họa toàn diện. Đầu tiên, khả năng tích lực của vai bị mất
 hoàn toàn vì chuỗi ESR-racquet drop không thể xảy ra. Thứ hai, hiệu ứng
@@ -301,7 +301,7 @@ của cú đánh --- đây là nguyên nhân hàng đầu gây chấn thương v
 
 2.6. Sự Khác biệt Giữa ATP và WTA trong Cú Serve
 
-Sẽ là sai lầm khi nghĩ rằng cú serve của nữ chỉ là phiên bản \'nhỏ hơn\'
+Sẽ là sai lầm khi nghĩ rằng cú serve của nữ chỉ là phiên bản 'nhỏ hơn'
 của cú serve của nam. Sự khác biệt không nằm ở kỹ thuật cốt lõi mà nằm ở
 biên độ và ưu tiên chiến lược.
 
@@ -329,7 +329,7 @@ Cú Serve Elite: Từ Leg Drive đến ISR và Pronation
 3.1. Leg Drive --- Nguồn Năng lượng Bị Bỏ qua Nhiều nhất
 
 Nếu bạn hỏi hầu hết người chơi phong trào tại sao họ nhảy lên khi serve,
-câu trả lời thường là \'để có thể chạm bóng ở điểm cao hơn\'. Câu trả
+câu trả lời thường là 'để có thể chạm bóng ở điểm cao hơn'. Câu trả
 lời này về mặt kỹ thuật không hoàn toàn sai, nhưng nó hoàn toàn bỏ qua
 vai trò quan trọng hơn nhiều của leg drive: tạo ra và truyền dẫn năng
 lượng lên chuỗi động học.
@@ -354,7 +354,7 @@ serve.
 Một trong những hiểu nhầm phổ biến nhất về cú serve là người ta nghĩ nó
 xoay NGANG --- tức là xoay trên mặt phẳng nằm ngang như cú forehand. Sự
 thực là serve elite hoạt động trên trục ĐỨNG theo cơ chế
-\'shoulder-over-shoulder\'.
+'shoulder-over-shoulder'.
 
 Hãy hình dung một bánh xe nhào lộn đứng thẳng. Một bên bánh xe đi lên,
 bên kia đi xuống, và chuyển động là theo vòng tròn trên mặt phẳng đứng.
@@ -373,7 +373,7 @@ xuống hơn.
 3.3. Xoay Trong Khớp Vai (ISR) --- Nguồn Tốc độ Thực sự
 
 Trong cộng đồng người chơi phong trào, có một sự hiểu nhầm dai dẳng rằng
-tốc độ serve đến từ \'gập cổ tay\'. Điều này hoàn toàn sai về mặt sinh
+tốc độ serve đến từ 'gập cổ tay'. Điều này hoàn toàn sai về mặt sinh
 cơ học. Nghiên cứu tại Đại học Rice và Đại học Florida (Công trình của
 Tiến sĩ Jack Groppel và các đồng nghiệp) đã chứng minh rằng khoảng 40%
 tốc độ đầu vợt trong cú serve đến từ ISR, khoảng 35% từ pronation, và
@@ -382,13 +382,13 @@ chỉ khoảng 10% từ gập cổ tay.
 ISR là chuyển động xoay vào trong của xương cánh tay (humerus) trong ổ
 khớp vai. Đây là một trong những chuyển động nhanh nhất và mạnh nhất mà
 cơ thể người có thể thực hiện --- và nó hoạt động tốt nhất khi được
-\'nạp\' bởi pha ESR trước đó. Hãy nhớ lại nguyên lý SSC: cơ kéo giãn
+'nạp' bởi pha ESR trước đó. Hãy nhớ lại nguyên lý SSC: cơ kéo giãn
 (ESR kéo giãn cơ xoay trong) rồi co ngắn lại nhanh hơn và mạnh hơn. Đây
 chính là cơ chế ISR tạo ra tốc độ.
 
 Vấn đề là ISR xảy ra cực nhanh --- chỉ trong khoảng 50--80 milli-giây
 --- và hoàn toàn không thể được điều khiển có ý thức. Đây là lý do tại
-sao việc \'nghĩ đến ISR\' trong khi serve là vô nghĩa và phản tác dụng.
+sao việc 'nghĩ đến ISR' trong khi serve là vô nghĩa và phản tác dụng.
 Thay vào đó, người chơi cần tạo ra các điều kiện tiên quyết (ESR đầy đủ,
 khuỷu tay cao, cẳng tay thả lỏng) để ISR tự xảy ra một cách tự nhiên.
 
@@ -400,11 +400,11 @@ và đó là lý do tại sao mặt vợt của người serve đẳng cấp lu�
 đất sau khi tiếp xúc bóng.
 
 Pronation phục vụ hai mục đích quan trọng. Thứ nhất, nó tạo thêm tốc độ
-đầu vợt thông qua nguyên lý roi (thêm một \'đoạn\' trong chuỗi). Thứ
+đầu vợt thông qua nguyên lý roi (thêm một 'đoạn' trong chuỗi). Thứ
 hai, và quan trọng hơn, nó bảo vệ khớp vai khỏi chấn thương. Khi ISR
 bùng nổ với tốc độ rất cao, nếu cánh tay không tiếp tục chuyển động
 (pronation), toàn bộ lực phanh sẽ đổ lên các cấu trúc của khớp vai, đặc
-biệt là rotator cuff. Pronation \'giải thoát\' lực này bằng cách tiếp
+biệt là rotator cuff. Pronation 'giải thoát' lực này bằng cách tiếp
 tục chuyển động thay vì đột ngột dừng lại.
 
 Lỗi kỹ thuật phổ biến là người chơi cố tình tạo pronation bằng cách xoay
@@ -415,7 +415,7 @@ của ISR đúng.
 
 3.5. Vai trò Định hình của Pha Tung bóng
 
-Nhiều người chơi xem pha tung bóng (toss) như một \'phần phụ\' không
+Nhiều người chơi xem pha tung bóng (toss) như một 'phần phụ' không
 quan trọng. Thực tế hoàn toàn ngược lại: vị trí tung bóng là yếu tố kiểm
 soát nhiều thông số kỹ thuật nhất trong cú serve, bao gồm loại xoáy,
 hướng bóng, mức độ nghiêng vai và cả timing kích hoạt ISR.
@@ -451,8 +451,8 @@ như nước chảy qua ống thông, không gặp bất kỳ điểm tắc ngh�
 
 Quan sát đặc biệt quan trọng là elbow separation của Federer. Trong pha
 trophy position, khuỷu tay của ông hoàn toàn tách rời khỏi thân người
-với góc hoàn hảo, tạo ra một \'cửa\' rộng cho ISR và pronation sau đó.
-Đây không phải là tư thế ông cố tình \'đặt vào\' --- nó là hệ quả tự
+với góc hoàn hảo, tạo ra một 'cửa' rộng cho ISR và pronation sau đó.
+Đây không phải là tư thế ông cố tình 'đặt vào' --- nó là hệ quả tự
 nhiên của toàn bộ chuỗi chuẩn bị được thực hiện hoàn hảo.
 
 💡 Nguyên lý Roger Federer: Cú serve không phải là bài kiểm tra sức mạnh
@@ -462,10 +462,10 @@ giết chết hiệu ứng roi.
 CHƯƠNG 4\
 Hệ thống Hạ chi: Cơ học Khớp Gối, Hông và Ground Reaction Force
 
-4.1. Phá bỏ Tư duy \'Gối là Động cơ Chính\'
+4.1. Phá bỏ Tư duy 'Gối là Động cơ Chính'
 
-Trong tennis phong trào, có một câu nói lan truyền rộng rãi: \'hãy gập
-gối sâu hơn để có thêm lực\'. Câu nói này, dù có ý tốt, lại dẫn đến một
+Trong tennis phong trào, có một câu nói lan truyền rộng rãi: 'hãy gập
+gối sâu hơn để có thêm lực'. Câu nói này, dù có ý tốt, lại dẫn đến một
 chuỗi sai lầm sinh cơ học nghiêm trọng. Sự thật là khớp gối không phải
 là bộ phận sinh lực --- nó là bộ phận TRUYỀN LỰC.
 
@@ -474,7 +474,7 @@ phận sinh lực chính thông qua các xung lực xoay (rotational impulses);
 khớp cổ chân là bộ phận phản lực nhanh, lưu trữ và phóng thích năng
 lượng đàn hồi; và khớp gối là bộ phận truyền động đàn hồi và điều hướng
 lực, hoạt động như chiếc giảm xóc của xe đua Formula 1. Câu lệnh cốt lõi
-của sinh cơ học hiện đại là: \'Low hip, not low knee\'. Để hạ thấp cơ
+của sinh cơ học hiện đại là: 'Low hip, not low knee'. Để hạ thấp cơ
 thể, bạn phải thực hiện bản lề hông --- đẩy mông ra sau, hạ thấp xương
 chậu --- trong khi khớp gối chỉ gập theo tự nhiên.
 
@@ -495,26 +495,26 @@ thắt lưng) thay vì cơ đùi trước và gân bánh chè.
 Khi Carlos Alcaraz thực hiện pha dip trong run-around forehand, dù thân
 người rất thấp, xương chày không bị đổ ra trước mạnh, ngực mở và cột
 sống dài. Toàn bộ tải trọng được dồn vào posterior chain qua tư thế
-\'athletic sitting\' --- giống như một vận động viên cử tạ chuẩn bị kéo
+'athletic sitting' --- giống như một vận động viên cử tạ chuẩn bị kéo
 tạ. Điều này bảo vệ gân bánh chè khỏi áp lực quá mức và duy trì khả năng
 phóng thích đàn hồi cao nhất.
 
-4.3. Bộ phận Truyền động Đàn hồi: Vì sao Gối phải \'Alive\'
+4.3. Bộ phận Truyền động Đàn hồi: Vì sao Gối phải 'Alive'
 
 Trong tài liệu sinh cơ học, người ta thường mô tả khớp gối lý tưởng của
-tay vợt là \'alive knee\' --- một chiếc gối \'sống động\', linh hoạt và
+tay vợt là 'alive knee' --- một chiếc gối 'sống động', linh hoạt và
 nhạy phản ứng. Đây không phải là một mô tả thơ mộng; đây là một mô tả kỹ
 thuật chính xác về trạng thái cơ học mong muốn.
 
 Năng lượng di chuyển qua cơ thể theo hệ thống mạc cơ và tạo ra các
-\'sóng lực\'. Khớp gối hoạt động như một bộ lọc và điều hướng cho sóng
-lực này. Khi gối ở trạng thái \'alive\' --- linh hoạt, nhạy và có độ
+'sóng lực'. Khớp gối hoạt động như một bộ lọc và điều hướng cho sóng
+lực này. Khi gối ở trạng thái 'alive' --- linh hoạt, nhạy và có độ
 cứng cổ chân tốt (ankle stiffness) --- sóng lực đi qua gối một cách mượt
 mà và được redirect đúng hướng. Khi gối bị gồng cứng (stiff knee), sóng
 lực bị chặn lại và phản hồi gây chấn thương. Khi gối bị quá mềm
 (collapsed knee), sóng lực bị tiêu tán mà không được redirect.
 
-Thước đo thực tế để phân biệt \'alive knee\' là thời gian tiếp xúc đất.
+Thước đo thực tế để phân biệt 'alive knee' là thời gian tiếp xúc đất.
 Tay vợt với hệ thống gối lý tưởng như Djokovic có ground contact time
 khoảng 0.12--0.15 giây. Người chơi phong trào thường có ground contact
 time trên 0.22 giây. Sự khác biệt này không phải vì Djokovic có cơ bắp
@@ -548,7 +548,7 @@ Trong cú forehand open stance của Andrey Rublev hay Carlos Alcaraz, có
 một chi tiết kỹ thuật tinh tế mà hầu hết người xem bỏ qua: chân ngoài
 (chân phải đối với người thuận tay phải trong cú forehand open stance)
 không đẩy cơ thể lên cao theo chiều dọc. Thay vào đó, nó hoạt động như
-một \'neo xoay\' (rotational anchor).
+một 'neo xoay' (rotational anchor).
 
 Cơ chế hoạt động như sau: khi contact xảy ra, chân phải tiếp đất chắc
 chắn, gối duỗi ra nhưng không để đẩy thẳng người lên. Thay vào đó, GRF
@@ -560,7 +560,7 @@ ra tốc độ bóng.
 
 Để cơ chế này hoạt động, góc gập gối không nên vượt quá 80 độ một cách
 thường xuyên. Gối gập quá sâu sẽ làm mất khả năng rebound ngang và
-recovery nhanh. Đây là lý do tại sao hình ảnh tay vợt \'ngồi thấp sâu\'
+recovery nhanh. Đây là lý do tại sao hình ảnh tay vợt 'ngồi thấp sâu'
 trong forehand thường phản ánh sai về mức độ gập gối thực sự --- cái
 thấp là từ hip hinge, không phải từ gối gập sâu.
 
@@ -578,10 +578,10 @@ cao (đặc biệt trong pha phòng thủ tầm rộng hoặc split-step muộn)
 bánh chè bị quá tải mãn tính (patellar tendinopathy).
 
 Phòng ngừa quad-dominant loading đòi hỏi người chơi phải hình thành ý
-thức về \'chiều dài bước chân\'. Khi bước đến bóng, thay vì nghĩ \'bước
-đến sát bóng\', hãy nghĩ \'giữ mông ra sau và đặt chân xuống sao cho gối
-không vượt quá mũi chân\'. Kỹ thuật \'chasing bóng bằng hông, không phải
-bằng gối\' là một câu lệnh thực hành hữu ích.
+thức về 'chiều dài bước chân'. Khi bước đến bóng, thay vì nghĩ 'bước
+đến sát bóng', hãy nghĩ 'giữ mông ra sau và đặt chân xuống sao cho gối
+không vượt quá mũi chân'. Kỹ thuật 'chasing bóng bằng hông, không phải
+bằng gối' là một câu lệnh thực hành hữu ích.
 
 💡 Bài kiểm tra đơn giản: Đứng ở tư thế phòng thủ tennis (tư thế ready).
 Nhìn xuống chân. Nếu bạn thấy gối của mình che khuất phần lớn mũi chân,
@@ -593,29 +593,29 @@ Split Step --- Bộ Đồng bộ Thần kinh--Cơ học của Quần vợt Hiệ
 
 5.1. Split Step Không phải Là Nhảy --- Đó là Đồng bộ Thần kinh
 
-Hầu hết người mới học tennis được dạy \'hãy nhảy nhỏ khi đối thủ đánh
-bóng\'. Mặc dù hướng dẫn này không hoàn toàn sai, nhưng nó bỏ qua bản
+Hầu hết người mới học tennis được dạy 'hãy nhảy nhỏ khi đối thủ đánh
+bóng'. Mặc dù hướng dẫn này không hoàn toàn sai, nhưng nó bỏ qua bản
 chất thực sự của split step --- đó là một cơ chế đồng bộ thần kinh-cơ
 học phức tạp, không phải một bước nhảy đơn giản.
 
 Split step hoạt động bằng cách khai thác một đặc điểm của hệ thần kinh
 vận động: khi cơ thể đang trong trạng thái tải trọng tĩnh (đứng hay đứng
-yên), não bộ cần thêm một \'lệnh bắt đầu\' trước khi có thể khởi động
-chuỗi di chuyển. Pha nhấc hai chân rời mặt sân tạo ra một \'neurological
-reset\' --- giải phóng toàn bộ trạng thái tải trọng cũ và đặt hệ thần
+yên), não bộ cần thêm một 'lệnh bắt đầu' trước khi có thể khởi động
+chuỗi di chuyển. Pha nhấc hai chân rời mặt sân tạo ra một 'neurological
+reset' --- giải phóng toàn bộ trạng thái tải trọng cũ và đặt hệ thần
 kinh vào trạng thái sẵn sàng tái phân phối tải trọng theo bất kỳ hướng
 nào ngay khi tiếp đất.
 
 Nếu không có split step, khi đối thủ đánh bóng và bạn cần di chuyển sang
-trái, cơ thể phải thực hiện một pha \'unload\' từ trạng thái tĩnh trước,
+trái, cơ thể phải thực hiện một pha 'unload' từ trạng thái tĩnh trước,
 rồi mới có thể đẩy ngang. Pha unload này mất khoảng 0.08--0.12 giây ---
 và trong tennis đỉnh cao với bóng bay 200 km/h, đây là sự chậm trễ không
-thể chấp nhận. Split step loại bỏ pha unload này bằng cách \'reset\' cơ
+thể chấp nhận. Split step loại bỏ pha unload này bằng cách 'reset' cơ
 thể về trạng thái trung tính ngay trước khi đối thủ chạm bóng.
 
 5.2. Timing Chính xác của Split Step
 
-Câu lệnh kinh điển trong giảng dạy tennis là \'Land when opponent hits\'
+Câu lệnh kinh điển trong giảng dạy tennis là 'Land when opponent hits'
 (tiếp đất đúng khi đối thủ chạm bóng). Đây là một trong những câu lệnh
 ngắn gọn nhất nhưng chứa đựng thông tin kỹ thuật sâu nhất trong toàn bộ
 sport này.
@@ -624,17 +624,17 @@ Nghiên cứu đo lường đã xác nhận rằng split step phải đạt đ�
 hai chân nhấc cao nhất) và bắt đầu tiếp đất trước khoảnh khắc contact
 của đối thủ khoảng 0.08 giây. Con số này không phải ngẫu nhiên --- đây
 chính là khoảng thời gian não bộ cần để xử lý tín hiệu hình ảnh
-(direction of opponent\'s shot) và bắt đầu kích hoạt cơ bắp tương ứng.
+(direction of opponent's shot) và bắt đầu kích hoạt cơ bắp tương ứng.
 Bằng cách tiếp đất đúng khi đối thủ chạm bóng, não bộ có tín hiệu hình
-ảnh đồng thời với kích thích từ sự tiếp đất, tạo ra một cơ chế \'đồng
-bộ\' hoàn hảo.
+ảnh đồng thời với kích thích từ sự tiếp đất, tạo ra một cơ chế 'đồng
+bộ' hoàn hảo.
 
 Nếu split step quá sớm (nhảy lên trước khi đối thủ vào pha
 acceleration), người chơi tiếp đất quá sớm, trọng lực đã kéo xuống và
 mất đi energy stored in the elastic chain. Nếu split step quá muộn (nhảy
 lên sau khi đối thủ đã chạm bóng), người chơi vẫn trên không khi hướng
 bóng đã xác định, lãng phí thời gian phản ứng quý báu. Timing hoàn hảo
-yêu cầu người chơi học cách \'đọc\' chuỗi chuẩn bị của đối thủ --- góc
+yêu cầu người chơi học cách 'đọc' chuỗi chuẩn bị của đối thủ --- góc
 xoay vai, hướng hông, đường đi của khuỷu tay --- để dự đoán khoảnh khắc
 contact trước khi nó xảy ra.
 
@@ -660,7 +660,7 @@ chuyển bằng forefoot, ngay cả khi không thực hiện split step chính t
 Tư thế hình học của một split step hoàn hảo có những thông số kỹ thuật
 cụ thể. Khoảng cách hai chân rộng hơn vai nhẹ để tạo base ổn định nhưng
 không quá rộng gây cứng đờ. Gối gập ở góc 110--130 độ --- đây là vùng
-\'sweet spot\' cho SSC: đủ gập để kích hoạt cơ đùi trước nhưng không quá
+'sweet spot' cho SSC: đủ gập để kích hoạt cơ đùi trước nhưng không quá
 gập để khóa cơ đùi vào concentric tension, mất đi khả năng rebound. Cột
 sống giữ ở mức trung tính, không khom lưng hay ngửa ra sau.
 
@@ -669,8 +669,8 @@ sống giữ ở mức trung tính, không khom lưng hay ngửa ra sau.
 đầu không bị nhấp nhô theo chiều dọc. Khi split step thực hiện đúng với
 forefoot landing mềm, đầu gần như không nhấp nhô theo chiều dọc. Khi
 người chơi nhảy cao và hạ xuống nặng nề, cái đầu nhấp nhô mạnh làm mờ
-hình ảnh bóng, giảm thời gian phản ứng hiệu quả. Câu lệnh \'Quiet head,
-alive feet\' tóm gọn nguyên lý này hoàn hảo.
+hình ảnh bóng, giảm thời gian phản ứng hiệu quả. Câu lệnh 'Quiet head,
+alive feet' tóm gọn nguyên lý này hoàn hảo.
 
 5.5. Biến thể Split Step theo Bối cảnh Chiến thuật
 
@@ -684,11 +684,11 @@ không thể chờ đến serve contact.
 
 Trong pha tiếp cận lưới (volley split), mục tiêu hoàn toàn khác: không
 phải chuyển động phản xạ ngang mà là chuyển tải trọng thân người về phía
-trước. Cú volley split đi kèm cơ chế \'outside leg loading\': nếu volley
+trước. Cú volley split đi kèm cơ chế 'outside leg loading': nếu volley
 forehand, nạp mạnh vào chân phải; nếu volley backhand, nạp vào chân
 trái. Chân ngoài trở thành bệ phóng để chân trong bước cắt vào bóng, tạo
 lực tuyến tính mà không cần backswing vợt lớn. Câu lệnh ghi nhớ:
-\'Outside leg loads the cannon\'.
+'Outside leg loads the cannon'.
 
 Trong tình huống phòng thủ khẩn cấp khi bị kéo dạt góc sâu, một pha
 emergency split nhỏ ngay trước khi thực hiện cú rướn phanh sẽ giúp hấp
@@ -705,8 +705,8 @@ Chuỗi này bắt đầu từ split step, dẫn đến di chuyển ban đầu, 
 lập vị trí đánh bóng, đến cú đánh, đến recovery về vị trí trung tâm, và
 kết thúc bằng split step tiếp theo ngay khi đối thủ chuẩn bị đánh trả.
 
-Người chơi phong trào thường phá vỡ tính liên tục này bằng cách \'đứng
-xem bóng\' sau khi đánh xong, để bóng đến tận một nửa sân mới bắt đầu di
+Người chơi phong trào thường phá vỡ tính liên tục này bằng cách 'đứng
+xem bóng' sau khi đánh xong, để bóng đến tận một nửa sân mới bắt đầu di
 chuyển. Điều này không chỉ làm chậm phản ứng mà còn phá vỡ nhịp điệu vận
 động của toàn bộ chuỗi. Split step cũng hoạt động như hệ thống phanh
 sinh học điều chỉnh khoảng cách: khi tiếp đất đàn hồi, cơ thể được reset
@@ -725,7 +725,7 @@ Cú Forehand Hiện đại: Từ Unit Turn đến Explosive Contact
 
 Cú forehand hiện đại bắt đầu không phải bằng cánh tay mà bằng unit turn
 --- động tác xoay đồng bộ toàn bộ khối thân trên (vai và lồng ngực cùng
-xoay ra sau như một khối thống nhất). Từ \'unit\' (đơn vị) ở đây có
+xoay ra sau như một khối thống nhất). Từ 'unit' (đơn vị) ở đây có
 nghĩa là vai và ngực di chuyển cùng nhau như một khối, không phải vai
 xoay riêng hay ngực xoay riêng.
 
@@ -748,13 +748,13 @@ hoàn toàn vào cơ bắp cánh tay. Điều thú vị là nhiều người ch�
 Sau unit turn, pha takeback (đưa vợt ra sau) diễn ra. Điều quan trọng
 cần hiểu là takeback không phải là hành động chủ động dùng tay kéo vợt
 ra sau --- nó là kết quả thuần túy của chuyển động xoay thân. Nếu unit
-turn hoàn chỉnh và đầy đủ, vợt tự nhiên được \'mang theo\' ra sau mà
+turn hoàn chỉnh và đầy đủ, vợt tự nhiên được 'mang theo' ra sau mà
 không cần bất kỳ nỗ lực cơ bắp tay nào.
 
 Trong pha nạp lực, hệ thống mạc cơ trên toàn bộ nửa thân trước bên phải
 (đối với người thuận tay phải) được kéo giãn. Cơ ngực lớn, cơ cơ lưng
 rộng, cơ bụng chéo và cơ vai trước đều trong trạng thái giãn dài, lưu
-trữ năng lượng đàn hồi. Đây là pha \'nạp dây cung\' trong cú forehand.
+trữ năng lượng đàn hồi. Đây là pha 'nạp dây cung' trong cú forehand.
 
 Carlos Alcaraz sử dụng biên độ nạp lực cực lớn --- vợt đưa lên rất cao,
 hông hạ rất thấp, tạo ra biên độ giãn mạc cơ khổng lồ. Roger Federer sử
@@ -771,12 +771,12 @@ xoay TRƯỚC khi cánh tay tăng tốc. Sự chậm trễ có tính toán giữ
 
 Trong điều kiện lý tưởng, chuỗi kích hoạt của cú forehand bắt đầu từ bàn
 chân đẩy xuống mặt sân tạo GRF. Tiếp theo, hông bắt đầu xoay ra trước
---- ở thời điểm này vai vẫn đóng, tạo ra \'hip-shoulder separation\' (sự
+--- ở thời điểm này vai vẫn đóng, tạo ra 'hip-shoulder separation' (sự
 phân tách giữa hông và vai). Rồi cột sống và ngực bắt đầu bung tỏa theo
 đà xoay của hông. Vai xoay và kéo cánh tay theo. Cuối cùng, cánh tay và
 cổ tay phóng thích năng lượng tại contact point. Sự chậm trễ giữa bước
-bắt đầu xoay hông và bước bắt đầu xoay vai tạo ra một \'khoảng tích
-lũy\' mà trong đó năng lượng trong hệ thống mạc cơ đạt đỉnh.
+bắt đầu xoay hông và bước bắt đầu xoay vai tạo ra một 'khoảng tích
+lũy' mà trong đó năng lượng trong hệ thống mạc cơ đạt đỉnh.
 
 6.4. Dip-Drive trong Run-Around Forehand
 
@@ -787,7 +787,7 @@ khi đối thủ đánh bóng cao và lỏng về phía bên trái.
 
 Kỹ thuật dip-drive trong run-around forehand chia làm hai pha rõ ràng.
 Pha dip là quá trình hạ thấp trọng tâm bằng hip hinge trong khi di
-chuyển vòng quanh bóng, tạo ra tư thế \'cung tên được kéo căng\'. Pha
+chuyển vòng quanh bóng, tạo ra tư thế 'cung tên được kéo căng'. Pha
 drive là quá trình giải phóng năng lượng đàn hồi thông qua việc chân
 ngoài đóng vai trò neo xoay, xương chậu xoay mạnh và thân người bung tỏa
 năng lượng vào cú đánh.
@@ -797,12 +797,12 @@ tinh tế: trong toàn bộ quá trình di chuyển, anh tiếp đất hoàn to�
 phần trước bàn chân với ankle stiffness xuất sắc. Khớp gối của Aubriot
 hoạt động như spring interface --- mềm mại, nhạy cảm, hấp thu lực phanh
 ngang khi di chuyển dạt góc và lập tức redirect thành xung lực xoay
-hông. Không có bất kỳ dấu hiệu valgus collapse hay \'dính đất\' quá lâu.
+hông. Không có bất kỳ dấu hiệu valgus collapse hay 'dính đất' quá lâu.
 
 6.5. Topspin Nặng: Bí ẩn của Ball Penetration
 
 Có một hiểu nhầm dai dẳng trong cộng đồng tennis về cách tạo topspin
-nặng. Nhiều người tin rằng topspin đến từ việc \'chà/cọ bóng\' --- vung
+nặng. Nhiều người tin rằng topspin đến từ việc 'chà/cọ bóng' --- vung
 vợt lên trên và cọ bề mặt vào bóng. Cách này tạo ra topspin có kỹ thuật,
 nhưng bóng thường nhẹ và thiếu độ xuyên sân.
 
@@ -817,7 +817,7 @@ topspin cao.
 Điều này giải thích tại sao cú forehand của Rafa Nadal, mặc dù tạo ra
 lượng topspin khổng lồ (trung bình 4000+ RPM), vẫn có ball penetration
 mạnh không kém các cú forehand flat của Federer. Nadal không chỉ đơn
-thuần \'cọ lên\' --- ông drive xuyên bóng trước, sau đó hành động buggy
+thuần 'cọ lên' --- ông drive xuyên bóng trước, sau đó hành động buggy
 whip kéo dài pha tăng tốc đứng, tạo ra loại topspin xuyên phá độc đáo.
 
 6.6. Inside-Out Forehand --- Vũ khí Chiến thuật Tối thượng
@@ -835,8 +835,8 @@ forehand thông thường yêu cầu điều chỉnh điểm tiếp xúc và gó
 --- contact point trong inside-out thường hơi ra trước và mặt vợt hơi
 đóng hơn để tạo ra hướng bóng chéo sân.
 
-💡 Câu hỏi tư duy: Khi bạn đánh run-around forehand, bạn đang \'chạy đến
-bóng\' hay \'chạy xung quanh bóng\'? Sự khác biệt này quyết định tư thế
+💡 Câu hỏi tư duy: Khi bạn đánh run-around forehand, bạn đang 'chạy đến
+bóng' hay 'chạy xung quanh bóng'? Sự khác biệt này quyết định tư thế
 của toàn bộ cú đánh.
 
 CHƯƠNG 7\
@@ -846,12 +846,12 @@ Cú Trái tay Một tay: Nghệ thuật của Chuỗi Roi Nhiều Đoạn
 
 Trong tất cả các cú đánh cơ bản của tennis, cú trái tay một tay
 (one-handed backhand) được xem là kỹ thuật khó nhất để làm chủ và khó
-nhất để dạy. Lý do không phải vì cú đánh này \'kém hiệu quả\' so với cú
+nhất để dạy. Lý do không phải vì cú đánh này 'kém hiệu quả' so với cú
 hai tay --- mà vì nó đòi hỏi mức độ kiểm soát cơ học và timing chính xác
 cao nhất trong toàn bộ game.
 
 Cú trái tay hai tay (two-handed backhand) cho phép cả hai tay kiểm soát
-góc mặt vợt, tạo ra nhiều \'điểm nắm bắt\' hơn trong chuỗi động học. Cú
+góc mặt vợt, tạo ra nhiều 'điểm nắm bắt' hơn trong chuỗi động học. Cú
 một tay chỉ có một điểm kiểm soát --- bàn tay thuận --- và đòi hỏi toàn
 bộ chuỗi động học từ chân, hông, vai đến khuỷu tay, cổ tay phải được
 thực hiện hoàn hảo. Bất kỳ sự sai lệch nào trong chuỗi đều được khuếch
@@ -862,7 +862,7 @@ thực hiện hoàn hảo. Bất kỳ sự sai lệch nào trong chuỗi đều 
 Cú trái tay một tay hiện đại là một hệ thống động học phức tạp vận hành
 như một chiếc roi nhiều đoạn. Lực bắt đầu từ GRF truyền qua mắt cá, gối,
 hông, core, vai, khuỷu, cổ tay và cuối cùng phóng thích tại đầu vợt.
-Điều quan trọng là mỗi phân đoạn phải \'chờ\' phân đoạn trước hoàn thành
+Điều quan trọng là mỗi phân đoạn phải 'chờ' phân đoạn trước hoàn thành
 pha tăng tốc trước khi tự nó tăng tốc.
 
 Nếu tất cả các bộ phận xoay cùng một thời điểm, lực xoắn sẽ bị triệt
@@ -881,7 +881,7 @@ một trong những kỹ năng ít được giảng dạy nhất nhưng quan tr�
 Trong pha backswing, xương bả vai của tay đánh bóng phải thực hiện co
 lại (scapula retraction) tối đa, tạo ra bệ đỡ cơ học vững chắc cho khớp
 vai. Sau đó, trong pha acceleration, xương bả vai đẩy ra trước
-(protraction) cùng với cánh tay, tạo thêm một \'đoạn\' trong chuỗi roi.
+(protraction) cùng với cánh tay, tạo thêm một 'đoạn' trong chuỗi roi.
 
 Vai phải phải được giữ thấp và thả lỏng hoàn toàn. Nếu cơ cầu vai (upper
 trapezius) bị co cứng làm nhấc vai lên, kinetic chain bị nghẽn mạch và
@@ -914,9 +914,9 @@ tay phải) và đủ khoảng cách mở rộng để tay duỗi thẳng tối 
 đòn bẩy leverage.
 
 Sự ổn định của đầu tại khoảnh khắc contact đóng vai trò quyết định đến
-timing. Roger Federer nổi tiếng với việc \'đóng băng\' đầu hoàn toàn
+timing. Roger Federer nổi tiếng với việc 'đóng băng' đầu hoàn toàn
 đúng vào khoảnh khắc mặt vợt chạm bóng --- một kỹ thuật mà các chuyên
-gia sinh cơ học gọi là \'frozen head\'. Điều này giúp cố định hệ thống
+gia sinh cơ học gọi là 'frozen head'. Điều này giúp cố định hệ thống
 tiền đình, ổn định trục dọc cột sống và giữ cho vai không bị mở sớm.
 Ngẩng đầu sớm để nhìn theo bóng sẽ kéo toàn bộ hệ thống vai mở ra, làm
 lệch quỹ đạo vung vợt.
@@ -928,9 +928,9 @@ cao --- những bóng nảy cao hơn vai. Khi điểm tiếp xúc nâng cao quá
 leverage bị giảm mạnh vì tay không thể mở rộng đủ, và cơ vai phải gánh
 toàn bộ lực mà không có sự hỗ trợ của chuỗi động học đầy đủ.
 
-Các tay vợt elite có ba chiến lược để ứng phó. Thứ nhất là \'take
-early\' --- lên cao cắt bóng sớm ngay khi nảy, trước khi nó đạt độ cao
-tối đa. Thứ hai là \'retreat\' --- lùi sâu ra sau để để bóng giảm độ cao
+Các tay vợt elite có ba chiến lược để ứng phó. Thứ nhất là 'take
+early' --- lên cao cắt bóng sớm ngay khi nảy, trước khi nó đạt độ cao
+tối đa. Thứ hai là 'retreat' --- lùi sâu ra sau để để bóng giảm độ cao
 xuống vùng thoải mái. Thứ ba là chuyển đổi sang cú slice --- và đây
 không phải là giải pháp cứu nguy thụ động. Slice trong tennis đỉnh cao
 là một vũ khí chiến lược cốt lõi để thay đổi nhịp độ, reset lại loạt
@@ -967,7 +967,7 @@ là hai thứ có thể được tối ưu hóa đồng thời.
 (low-to-high swing path). Nhưng cách thực hiện điều này ở cấp độ elite
 hoàn toàn khác với những gì người chơi phong trào thường làm.
 
-Lỗi phổ biến nhất là người chơi cố tình \'chà vợt lên trên bóng\' bằng
+Lỗi phổ biến nhất là người chơi cố tình 'chà vợt lên trên bóng' bằng
 cách uốn cổ tay ra sau rồi kéo lên. Cách này tạo ra topspin nhưng hầu
 như không có ball penetration. Cách đúng là: đầu vợt phải xuống đủ sâu
 dưới tầm bóng TRƯỚC contact, sau đó cú đánh thực sự là một pha DRIVE
@@ -978,7 +978,7 @@ phẩm phụ của cú drive đúng cách, không phải mục tiêu chính.
 8.3. Buggy Whip Forehand --- Topspin Cực đại trong Phòng thủ
 
 Buggy Whip Forehand là cú kết thúc vợt trên đầu (above the head finish)
-thay vì kết thúc ở phía vai trái. Cái tên \'buggy whip\' đến từ hình ảnh
+thay vì kết thúc ở phía vai trái. Cái tên 'buggy whip' đến từ hình ảnh
 người đánh xe ngựa vung roi lên trời. Kỹ thuật này được Rafael Nadal và
 Dominic Thiem sử dụng thường xuyên khi cần tạo lượng topspin cực đại
 trong những tình huống phòng thủ hoặc khi cần ép đối thủ lùi sâu.
@@ -992,7 +992,7 @@ sát vào bóng lâu hơn, tạo ra lượng topspin lớn hơn đáng kể.
 
 Một điểm kỹ thuật quan trọng là trước khi chạm bóng, đầu vợt trong buggy
 whip phải xuống sâu hơn bình thường --- thậm chí dưới thắt lưng --- để
-đường vung có đủ \'bước chạy\' để đạt tốc độ tối đa khi đến contact
+đường vung có đủ 'bước chạy' để đạt tốc độ tối đa khi đến contact
 point. Dominic Thiem thường kết thúc vợt ở phía trên vai trái (above the
 left shoulder finish) cho cú drive mạnh, nhưng chuyển sang buggy whip
 finish ngay khi cần tối đa hóa topspin.
@@ -1006,14 +1006,14 @@ toàn sai khi nói về tennis đỉnh cao. Slice là một vũ khí chiến thu
 
 Hiệu ứng vật lý của slice ngược với topspin: bóng có underspin (xoay từ
 sau ra trước, ngược với hướng di chuyển), tạo ra hiệu ứng Magnus ngược
-làm bóng \'bơi\' qua không khí chậm hơn và giữ độ cao lâu hơn sau khi
+làm bóng 'bơi' qua không khí chậm hơn và giữ độ cao lâu hơn sau khi
 nảy. Điều này tạo ra những quỹ đạo bóng thấp, phẳng sau khi nảy ---
 khiến đối thủ phải đánh bóng rất thấp và khó tạo góc tấn công.
 
 Các tay vợt elite sử dụng slice cho ba mục đích chính. Thứ nhất là thay
 đổi nhịp độ: sau một loạt topspin bóng cao, một cú slice bất ngờ đòi hỏi
 đối thủ điều chỉnh toàn bộ timing và cơ học. Thứ hai là reset rally: khi
-bị đẩy vào thế bất lợi, slice giúp \'mua thời gian\' để recover vị trí
+bị đẩy vào thế bất lợi, slice giúp 'mua thời gian' để recover vị trí
 trong khi bóng bay chậm qua lưới. Thứ ba là tạo góc khó: slice có thể
 được đánh rất thấp qua lưới vào góc sân, tạo ra những bóng nảy thấp sát
 lưới cực kỳ khó xử.
@@ -1030,7 +1030,7 @@ outside-in), tạo ra underspin.
 khoảng ngang vai hoặc cao hơn. Mặt vợt hơi mở (angled upward), và chuyển
 động của cánh tay cắt xuống và qua bóng, tạo ra cả lực tiến (forward
 force) và lực cắt (cutting force) đồng thời. Cú slice hoàn hảo không
-\'cào\' bóng theo chiều thẳng đứng --- đó chỉ tạo ra underspin mà thiếu
+'cào' bóng theo chiều thẳng đứng --- đó chỉ tạo ra underspin mà thiếu
 tốc độ. Cú slice tốt phải có lực xuyên ngang đủ để bóng duy trì tốc độ
 sau khi qua lưới.
 
@@ -1044,8 +1044,8 @@ cùng.
 
 Drop shot hoàn hảo có setup (chuẩn bị) giống hệt cú slice bình thường
 --- điều này lừa đối thủ về ý định. Nhưng đúng trước contact, người chơi
-\'hấp thụ\' tốc độ bóng bằng cách giảm tốc cánh tay và để mặt vợt
-\'đón\' bóng thay vì đẩy bóng. Kết quả là bóng rơi xuống mạnh ngay sau
+'hấp thụ' tốc độ bóng bằng cách giảm tốc cánh tay và để mặt vợt
+'đón' bóng thay vì đẩy bóng. Kết quả là bóng rơi xuống mạnh ngay sau
 lưới với underspin, bật rất thấp và khó tiếp cận. Drop shot hiệu quả
 nhất trong các tình huống đối thủ đứng xa sau baseline và khi tốc độ
 rally cao --- khi họ ít ngờ nhất.
@@ -1063,7 +1063,7 @@ Phân tích Footage: Đối chiếu Alcaraz, Federer, Nadal, Djokovic
 Phân tích video (footage analysis) là công cụ quan trọng nhất trong việc
 nghiên cứu và dạy sinh cơ học tennis. Nhưng việc chỉ xem video mà không
 có framework phân tích đúng đắn có thể dẫn đến những kết luận sai lầm
-nguy hiểm --- đặc biệt khi người xem mắc lỗi \'outcome bias\': tức là
+nguy hiểm --- đặc biệt khi người xem mắc lỗi 'outcome bias': tức là
 nhìn thấy kết quả tốt (bóng mạnh, đẹp) và gán nguyên nhân cho những chi
 tiết kỹ thuật dễ nhìn thấy nhưng thực ra không phải nguyên nhân chính.
 
@@ -1084,7 +1084,7 @@ sát cú forehand của Alcaraz cho thấy một số đặc điểm độc đá
 
 Vùng chậu của Alcaraz hạ rất thấp trong pha nạp lực, tạo ra sự phân tách
 hông-vai (hip-shoulder separation) khổng lồ --- đây là cái mà các chuyên
-gia gọi là \'cheetah mechanics\'. Khi pha release diễn ra, tốc độ xoay
+gia gọi là 'cheetah mechanics'. Khi pha release diễn ra, tốc độ xoay
 thân người của Alcaraz gần như nhanh nhất trong tour ATP. Vợt đưa lên
 cao hơn và biên độ nạp lực mạc cơ cực kỳ lớn. Pha lag vợt dữ dội và tốc
 độ vòng quay ISR cực nhanh để bùng nổ rotational violence.
@@ -1097,8 +1097,8 @@ mà không tính đến điều kiện thể chất cá nhân.
 
 9.3. Roger Federer --- Đỉnh cao Tối giản và Effortless Power
 
-Nếu Alcaraz là đại diện cho \'explosive chaos\' có kiểm soát, thì
-Federer là đại diện cho \'elegant precision\'. Hệ thống của Federer dựa
+Nếu Alcaraz là đại diện cho 'explosive chaos' có kiểm soát, thì
+Federer là đại diện cho 'elegant precision'. Hệ thống của Federer dựa
 trên nguyên lý: đạt kết quả tối đa với nỗ lực tối thiểu thông qua timing
 hoàn hảo và loại bỏ mọi tension dư thừa.
 
@@ -1106,12 +1106,12 @@ Cú forehand của Federer có takeback gọn hơn của Alcaraz nhưng timing c
 mọi phân đoạn lại chính xác đến mức hoàn hảo. Cánh tay của ông di chuyển
 cực kỳ mượt mà, không có phân đoạn cơ nào bị căng cứng. Chuyển động thả
 lỏng cổ tay tự nhiên tạo ra một lượng pre-stretch hoàn hảo trong các cơ
-cẳng tay trước khi phóng thích đầu vợt. Kết quả là \'effortless power\'
+cẳng tay trước khi phóng thích đầu vợt. Kết quả là 'effortless power'
 --- năng lượng đến từ giải phóng nhịp điệu chính xác của kinetic chain
 sạch, không từ sức mạnh cơ bắp thô.
 
-Cú backhand một tay của Federer là ví dụ hoàn hảo nhất về \'frozen
-head\'. Trong slow-motion footage, đầu của ông gần như hoàn toàn bất
+Cú backhand một tay của Federer là ví dụ hoàn hảo nhất về 'frozen
+head'. Trong slow-motion footage, đầu của ông gần như hoàn toàn bất
 động tại khoảnh khắc tiếp xúc, trong khi toàn bộ phần còn lại của cơ thể
 đang bung tỏa năng lượng. Cơ chế này đòi hỏi sự tin tưởng sâu sắc vào
 chuỗi động học và khả năng tách biệt chuyển động đầu ra khỏi chuyển động
@@ -1130,13 +1130,13 @@ vung lên với tốc độ cao nhất trong strike zone. Buggy whip finish kéo
 dài pha tăng tốc đứng, tối đa hóa ma sát mặt vợt vào bóng để tạo ra
 lượng topspin 4000--5000 RPM. Điều đáng chú ý là dù topspin cực cao,
 bóng của Nadal vẫn có penetration mạnh vì ông DRIVE xuyên bóng trước,
-chứ không chỉ \'cọ\' bóng.
+chứ không chỉ 'cọ' bóng.
 
 Tư thế chân của Nadal trong forehand thường ở semi-open stance hoặc
 closed stance tùy tình huống, phản ánh khả năng thích nghi kỹ thuật cao.
 Leg drive của ông đặc biệt mạnh và nhất quán --- đây là một phần lý do
-tại sao cú forehand của Nadal có \'nặng\' độc đáo mà nhiều đối thủ mô tả
-là \'khác biệt hoàn toàn\' so với bất kỳ tay vợt nào khác.
+tại sao cú forehand của Nadal có 'nặng' độc đáo mà nhiều đối thủ mô tả
+là 'khác biệt hoàn toàn' so với bất kỳ tay vợt nào khác.
 
 9.5. Novak Djokovic --- Hoàn hảo trong Sự Cân bằng
 
@@ -1189,7 +1189,7 @@ Nghiên cứu học vận động (motor learning) đã xác định rằng vi�
 một kỹ năng vận động mới trải qua ba giai đoạn rõ ràng. Giai đoạn nhận
 thức (cognitive stage) là khi người học phải suy nghĩ có ý thức về từng
 chi tiết của chuyển động --- giống như khi bạn lần đầu học lái xe và
-phải nghĩ \'nhìn gương, bật xi-nhan, phanh\'. Giai đoạn liên kết
+phải nghĩ 'nhìn gương, bật xi-nhan, phanh'. Giai đoạn liên kết
 (associative stage) là khi các chuyển động bắt đầu trở nên tự động hơn
 nhưng vẫn cần một phần sự chú ý có ý thức. Giai đoạn tự động (autonomous
 stage) là khi chuyển động diễn ra hoàn toàn tự động, không cần sự chú ý
@@ -1197,7 +1197,7 @@ có ý thức, cho phép toàn bộ sự tập trung được dành cho chiến 
 chiến lược.
 
 Hầu hết người chơi phong trào bị mắc kẹt ở giai đoạn nhận thức vì họ học
-quá nhiều thứ cùng một lúc. Não bộ có \'băng thông\' hữu hạn để xử lý
+quá nhiều thứ cùng một lúc. Não bộ có 'băng thông' hữu hạn để xử lý
 chuyển động mới --- khi bạn cố gắng sửa tất cả các lỗi kỹ thuật cùng
 lúc, không có lỗi nào được sửa thực sự. Chiến lược hiệu quả hơn nhiều là
 chọn MỘT yếu tố kỹ thuật và tập trung hoàn toàn vào nó trong 4--6 tuần,
@@ -1206,13 +1206,13 @@ cho đến khi nó trở nên tự động, rồi mới chuyển sang yếu tố
 10.2. Thiết kế Bài tập Sinh cơ học: Nguyên lý Chuyển hóa
 
 Khi thiết kế bài tập để cải thiện sinh cơ học, cần tuân theo nguyên lý
-\'chuyển hóa\' (transfer). Bài tập phải đủ giống với chuyển động thực tế
+'chuyển hóa' (transfer). Bài tập phải đủ giống với chuyển động thực tế
 (high specificity) để các cải tiến trong bài tập chuyển hóa sang trận
 đấu thực. Nhưng bài tập cũng không thể quá phức tạp đến mức người học
 không thể tập trung vào yếu tố kỹ thuật cụ thể đang muốn cải thiện.
 
 Ví dụ thực tế: nếu muốn cải thiện hip-shoulder separation trong
-forehand, một bài tập tốt là \'shadow swing\' (vung vợt không có bóng)
+forehand, một bài tập tốt là 'shadow swing' (vung vợt không có bóng)
 với gương hoặc camera, tập trung hoàn toàn vào việc giữ vai đóng trong
 khi hông xoay. Bài tập này có tính đặc hiệu cao (chuyển động giống
 forehand thật) nhưng đủ đơn giản để người chơi có thể tập trung vào chi
@@ -1236,9 +1236,9 @@ cánh tay trái giữ vợt, đảm bảo full rotation trước khi cánh tay p
 đầu di chuyển. Bài tập: shadow swing với resistance band ở vai.
 
 Tuần 5 và 6 là thải lỏng cánh tay và racquet lag: tập cảm giác cánh tay
-thả lỏng hoàn toàn trong pha backswing, dùng bài tập \'pendulum swing\'.
+thả lỏng hoàn toàn trong pha backswing, dùng bài tập 'pendulum swing'.
 Tuần 7 và 8 tập trung vào contact point và head stability: dùng camera
-quay slow-motion để kiểm tra vị trí contact, tập \'frozen head\' drill.
+quay slow-motion để kiểm tra vị trí contact, tập 'frozen head' drill.
 Tuần 9 và 10 tập hợp nhất tất cả trong điều kiện rally thực tế với tốc
 độ thấp. Tuần 11 và 12 tăng dần tốc độ và độ khó, mang vào context trận
 đấu thực.
@@ -1248,7 +1248,7 @@ Tuần 9 và 10 tập hợp nhất tất cả trong điều kiện rally thực 
 Video phân tích đã trở nên dễ tiếp cận hơn bao giờ hết với điện thoại
 thông minh và các app chuyên dụng như Technique Analyzer hay CoachNow.
 Nhưng video chỉ hữu ích khi được sử dụng đúng cách --- sai cách có thể
-gây ra \'analysis paralysis\' và làm người chơi cứng nhắc hơn.
+gây ra 'analysis paralysis' và làm người chơi cứng nhắc hơn.
 
 Nguyên tắc sử dụng video hiệu quả là: xem video SAU buổi tập, không phải
 trong khi tập (để không gián đoạn tự động hóa). Chỉ tập trung vào MỘT
@@ -1267,14 +1267,14 @@ co hoc ben vung. Khi ban chi hoc ky thuat bang cach nhin guong hay nhin
 video, ban dang hoc bang he thong thi giac --- nhung khi dang thi dau,
 ban khong co thoi gian de nhin. Ban can cam nhan duoc ky thuat dung.
 
-Bài tập phát triển proprioception hiệu quả nhất là tập \'mắt nhắm\' ---
+Bài tập phát triển proprioception hiệu quả nhất là tập 'mắt nhắm' ---
 thực hiện shadow swing với mắt nhắm, tập trung hoàn toàn vào cảm giác cơ
 thể. Ban đầu rất khó và cảm giác lạ, nhưng đây chính xác là cách não bộ
 xây dựng internal representation của chuyển động đúng. Khi bạn có thể
 thực hiện kỹ thuật đúng với mắt nhắm, đó là dấu hiệu rằng kỹ thuật đã
 bắt đầu được tự động hóa.
 
-Một bài tập proprioception khác là \'feel the grip pressure\': trong khi
+Một bài tập proprioception khác là 'feel the grip pressure': trong khi
 tập, tập trung hoàn toàn vào áp lực của bàn tay lên tay cầm trong từng
 pha của cú đánh. Grip pressure nên thay đổi --- thả lỏng trong backswing
 và pha lag, tăng mạnh đúng lúc contact, rồi thả lại trong
@@ -1288,11 +1288,11 @@ chuyển những hiểu biết sinh cơ học từ buổi tập vào trận đ�
 Trong thi đấu, áp lực tâm lý, tốc độ bóng cao, và sự không chắc chắn về
 hướng bóng tạo ra môi trường hoàn toàn khác với tập luyện.
 
-Chiến lược được các tay vợt đỉnh cao sử dụng là có một \'technical
-anchor\' --- một hoặc hai từ khóa đơn giản đại diện cho toàn bộ kỹ thuật
-họ muốn thực hiện. Ví dụ, thay vì nghĩ \'hãy thả lỏng cánh tay, giữ
-khuỷu tay cao, hip-shoulder separation, xoay hông trước\', họ chỉ nghĩ
-\'thả lỏng\' hay \'legs first\'. Những từ khóa này kích hoạt toàn bộ
+Chiến lược được các tay vợt đỉnh cao sử dụng là có một 'technical
+anchor' --- một hoặc hai từ khóa đơn giản đại diện cho toàn bộ kỹ thuật
+họ muốn thực hiện. Ví dụ, thay vì nghĩ 'hãy thả lỏng cánh tay, giữ
+khuỷu tay cao, hip-shoulder separation, xoay hông trước', họ chỉ nghĩ
+'thả lỏng' hay 'legs first'. Những từ khóa này kích hoạt toàn bộ
 chuỗi chuyển động đã được tập luyện đủ nhiều để trở thành bán tự động.
 
 Cuối cùng, cải thiện sinh cơ học là một hành trình dài hạn, không phải
@@ -1321,7 +1321,7 @@ kết quả của hàng nghìn giờ tập luyện có chủ đích.
 
 Dù bạn là người mới bắt đầu hay tay vợt có kinh nghiệm, dù mục tiêu của
 bạn là chơi vui hay cạnh tranh giải đấu, những nguyên lý sinh cơ học
-trong cuốn sách này đều có giá trị. Chúng không phải là những \'bí kíp\'
+trong cuốn sách này đều có giá trị. Chúng không phải là những 'bí kíp'
 bí mật --- chúng là những nguyên lý vật lý và sinh học không thể phủ
 nhận. Cơ thể người hoạt động theo những quy luật nhất định, và hiểu
 những quy luật đó là bước đầu tiên để tối ưu hóa hiệu suất và đặc biệt

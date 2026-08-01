@@ -3,19 +3,18 @@
 ### Rob Heckelman
 
 ![A person holding a tennis racket Description automatically
-generated](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image1.webp)
 
 **Rapid Tennis: conditioning by reducing recovery time rather than
 running sprints.**
 
-If you\'ve played enough competitive tennis, you\'ve experienced the
+If you've played enough competitive tennis, you've experienced the
 times when your opponents have stalled their way through a match, or
 maybe you have stalled to catch a breath. But maybe doing sprints or
-other on-court conditioning drills isn\'t your thing.
+other on-court conditioning drills isn't your thing.
 
 So here are three ways to work on your conditioning and footwork in the
-context of the kind of drill games we\'ve been presenting in this
+context of the kind of drill games we've been presenting in this
 series. ([Click Here](Classic%20Lessons%20TOC.docx) to read more
 articles.)
 
@@ -35,7 +34,7 @@ next point. And to run on the changeovers to the other side. Any
 hesitation will not be tolerated!
 
 Both players must push themselves to play every point as soon as
-possible. This doesn\'t mean, however, hurrying the actual playing of
+possible. This doesn't mean, however, hurrying the actual playing of
 the point, just everything in between.
 
 This game will tell you quickly whether or not you are in condition to
@@ -43,10 +42,9 @@ play a tough singles match. Try playing the best 3 out of 5 games or
 work up to a Rapid Tennis set!
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image2.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image2.webp)
 
-**Winning a long point isn\'t enough to win a point in Enduro.**
+**Winning a long point isn't enough to win a point in Enduro.**
 
 **Enduro**
 
@@ -59,7 +57,7 @@ finish the game.
 
 If six points seems like to much to start, you are welcome to change the
 number of points in the game to 5 or 4 or even 3 to fit your needs. But
-don\'t get too crazy. The sun will set or the club will turn off the
+don't get too crazy. The sun will set or the club will turn off the
 lights eventually.
 
 **Zig Zag**
@@ -72,14 +70,13 @@ Not only was I taking fewer steps and covering less ground, but my foot
 work began to get sloppy and my positioning on the ball was suffering.
 This often led to a poor stroke.
 
-I kept telling myself, \"Move your feet, move your feet.\" Maybe it\'s
+I kept telling myself, \"Move your feet, move your feet.\" Maybe it's
 because the feet are the furthest point from the brain, but the message
-just wasn\'t getting there. I wanted to critique my footwork, but I
-found there wasn\'t any to critique.
+just wasn't getting there. I wanted to critique my footwork, but I
+found there wasn't any to critique.
 
 ![A person playing tennis Description automatically
-generated](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image3.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image3.webp)
 
 **Working hard on your positioning in Zig Zag will improvement your
 stamina, but also your footwork.**
@@ -87,7 +84,7 @@ stamina, but also your footwork.**
 I needed a game that would address this, so I came up with the following
 game called \"ZigZag.\"
 
-There\'s no way for anyone to work on your footwork when you are tired
+There's no way for anyone to work on your footwork when you are tired
 unless a rally can be maintained. So, this game has two parts. The
 players have to complete a four-ball exchange with a specific pattern,
 and only then does the point start.
@@ -113,8 +110,7 @@ starts.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                                                           Rod Heckelman has been the general manager of
-  confidence](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image4.jpeg){width="1.7166666666666666in"   the famed Mt. Tam Racquet Club in Marin County,
-  height="2.3583333333333334in"}                                                                                                                                                                              California for the last 30 years. He was
+  confidence](media_rapid-enduro-and-zig-zag-3-conditioning-drill-games/media/image4.jpeg)                                                                                                                                                                              California for the last 30 years. He was
                                                                                                                                                                                                               formerly the youngest head pro at the John
                                                                                                                                                                                                               Gardner Tennis Ranch in Scottsdale, Arizona,
                                                                                                                                                                                                               and has been ranked numerous times in Northern

@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image1.jpg){width="3.5217388451443568in"
-height="5.274784558180228in"}
+generated](media_the-panic-signal/media/image1.jpg)
 
 **When a player is blindsided by pressure, it can set off the panic
 signal.**
@@ -42,8 +41,7 @@ smaller tournaments he felt more comfortable and could manage the
 pressure fairly well.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image2.jpg){width="3.4027777777777777in"
-height="3.3333333333333335in"}
+generated](media_the-panic-signal/media/image2.jpg)
 
 **How do players like Djokovic stay so consistent under pressure?**
 
@@ -68,8 +66,7 @@ asked him to list the thoughts that went through his mind, and these
 were his responses:
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image3.jpg){width="3.6086953193350833in"
-height="5.40502624671916in"}
+generated](media_the-panic-signal/media/image3.jpg)
 
 **In panic mode: a litany of negative thoughts.**
 
@@ -104,8 +101,7 @@ Have you ever had these or similar thoughts when your own panic alarm
 has gone off unexpectedly?
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image4.jpg){width="3.4722222222222223in"
-height="3.361111111111111in"}
+generated](media_the-panic-signal/media/image4.jpg)
 
 **The body reacts to negative perceptions created by the mind.**
 
@@ -132,8 +128,7 @@ above was able to reverse the effects of the panic response and achieve
 his goal of playing to his potential.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image5.jpg){width="2.773912948381452in"
-height="4.167035214348206in"}
+generated](media_the-panic-signal/media/image5.jpg)
 
 **There are 4 steps to counter the panic signal.**
 
@@ -172,8 +167,7 @@ feet behind the baseline, a shot that may not be at all appropriate
 against a player who positions closer in?
 
 ![A person playing tennis Description automatically
-generated](media_the-panic-signal/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-panic-signal/media/image6.webp)
 
 **Can you balance the two aspects of your game plan?**
 
@@ -226,8 +220,7 @@ brain.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-panic-signal/media/image7.jpg){width="2.495651793525809in"
-height="4.1926924759405075in"}
+confidence](media_the-panic-signal/media/image7.jpg)
 
 **Positive self talk leads to trust.**
 
@@ -260,8 +253,7 @@ he had found a way to win these first two matches.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-panic-signal/media/image8.jpg){width="2.3913046806649167in"
-height="3.592272528433946in"}
+confidence](media_the-panic-signal/media/image8.jpg)
 
 **After the final: a great phone call from an elated player.**
 
@@ -297,8 +289,7 @@ deeper into the draw each match I felt my confidence build and my
 ability to execute my game plan was more consistent.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-panic-signal/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-panic-signal/media/image9.webp)
 
 **Flow can result from mastery of the panic signal.**
 
@@ -322,14 +313,13 @@ potential under tournament pressure.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person in a black shirt Description automatically generated with medium                                                                                          For the past 30 years, Joey Johnson has been competing,
-  confidence](media_the-panic-signal/media/image10.jpeg){width="1.773611111111111in"   coaching, and consulting in the area of human performance.
-  height="2.652083333333333in"}                                                                                                                                        Growing up in frigid Northern Minnesota, he discovered
+  confidence](media_the-panic-signal/media/image10.jpeg)                                                                                                                                        Growing up in frigid Northern Minnesota, he discovered
                                                                                                                                                                        tennis at the age of 11 and went on to an All American
                                                                                                                                                                        career at Ole Miss. He has coached and played on the ATP
                                                                                                                                                                        tour, coached at Brigham Young University, and worked with
                                                                                                                                                                        amateur, Olympic, and professional athletes in a variety of
                                                                                                                                                                        sports. He is the author of Worthy to Win: Emerging from
-                                                                                                                                                                       Fear and Self Doubt. Want to learn more about Joey\'s Worthy
+                                                                                                                                                                       Fear and Self Doubt. Want to learn more about Joey's Worthy
                                                                                                                                                                        to Win training and consulting programs? [Click
                                                                                                                                                                        Here!](http://www.worthytowin.com/Worthy_to_Win/Book.html)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------
@@ -338,8 +328,7 @@ potential under tournament pressure.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Website Description automatically generated with low                                                                                                                In Worthy to Win, Joey Johnson shows how at the core of
-  confidence](media_the-panic-signal/media/image11.jpeg){width="1.8263888888888888in"   every successful performer is a deserving mind set. This
-  height="2.7305555555555556in"}                                                                                                                                        mindset creates the belief and confidence that will propel
+  confidence](media_the-panic-signal/media/image11.jpeg)                                                                                                                                        mindset creates the belief and confidence that will propel
                                                                                                                                                                         you toward your potential. Worthy to Win outlines 8 steps
                                                                                                                                                                         that will revolutionize the way you prepare for matches and
                                                                                                                                                                         lead to the breakthroughs and big wins you dream about.

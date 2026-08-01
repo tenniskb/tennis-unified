@@ -44,10 +44,10 @@ lần trong hành trình phát triển của mình.
 
 **1.1 Định Nghĩa và Lịch Sử**
 
-Proprioception --- từ tiếng Latin \'proprius\' (của chính mình) và
-\'capere\' (nắm bắt) --- là hệ thống cảm giác nội tại cho phép cơ thể
+Proprioception --- từ tiếng Latin 'proprius' (của chính mình) và
+'capere' (nắm bắt) --- là hệ thống cảm giác nội tại cho phép cơ thể
 nhận biết vị trí, chuyển động và trạng thái của bản thân trong không
-gian mà không cần nhìn trực tiếp. Đây là \'giác quan thứ sáu\' của cơ
+gian mà không cần nhìn trực tiếp. Đây là 'giác quan thứ sáu' của cơ
 thể người, nhưng thực ra còn phức tạp hơn bất kỳ giác quan nào khác.
 
 Charles Scott Sherrington, nhà thần kinh học người Anh đoạt giải Nobel,
@@ -76,8 +76,8 @@ Dưới đây là các loại thụ thể chính và vai trò của chúng:
 ***1.2.1 Muscle Spindles --- Thoi Cơ***
 
 Muscle spindles là các thụ thể nhạy cảm nhất trong hệ thống
-proprioceptive. Chúng nằm bên trong các sợi cơ và hoạt động như \'đồng
-hồ đo độ giãn\' --- liên tục theo dõi chiều dài hiện tại của cơ và tốc
+proprioceptive. Chúng nằm bên trong các sợi cơ và hoạt động như 'đồng
+hồ đo độ giãn' --- liên tục theo dõi chiều dài hiện tại của cơ và tốc
 độ thay đổi chiều dài đó.
 
 Khi bạn đánh forehand, muscle spindles ở cơ vai, cơ cánh tay và cơ cẳng
@@ -87,7 +87,7 @@ với tốc độ lên đến 120 m/giây. Điều này nhanh hơn bất kỳ ph
 thức nào bạn có thể thực hiện.
 
 Đối với người chơi level 3.0, muscle spindles ở vùng cổ tay và vai
-thường chưa được \'hiệu chỉnh\' tốt cho các chuyển động tennis đặc thù.
+thường chưa được 'hiệu chỉnh' tốt cho các chuyển động tennis đặc thù.
 Đây là lý do tại sao timing contact point vẫn thiếu ổn định --- không
 phải vì bạn không nhìn bóng kỹ, mà vì hệ thống cảm nhận cơ chưa đủ tinh
 vi.
@@ -99,14 +99,14 @@ Nằm ở điểm nối giữa cơ và gân, Golgi Tendon Organs (GTO) đo lực
 lực quá lớn, GTO kích hoạt phản xạ ức chế cơ để ngăn chấn thương.
 
 Nhưng GTO còn đóng vai trò quan trọng hơn trong tennis: chúng giúp não
-điều chỉnh lực tạo ra trong cú đánh. Khi bạn \'cảm\' được bóng trên vợt
+điều chỉnh lực tạo ra trong cú đánh. Khi bạn 'cảm' được bóng trên vợt
 --- cảm giác impact, cảm giác bóng nảy --- phần lớn thông tin đó đến từ
 GTO ở cơ cẳng tay và tay.
 
-> **📋 HLV GHI CHÚ:** Nhiều người chơi level 3.0 kẹt lại ở việc \'cố
-> đánh mạnh\' thay vì \'cảm bóng\'. Khi bạn overhit, GTO thực ra đang cố
+> **📋 HLV GHI CHÚ:** Nhiều người chơi level 3.0 kẹt lại ở việc 'cố
+> đánh mạnh' thay vì 'cảm bóng'. Khi bạn overhit, GTO thực ra đang cố
 > gắng nói với não rằng lực đã quá lớn --- nhưng bạn chưa học cách lắng
-> nghe tín hiệu đó. Kỹ năng \'feel the ball\' chính là kỹ năng đọc tín
+> nghe tín hiệu đó. Kỹ năng 'feel the ball' chính là kỹ năng đọc tín
 > hiệu từ GTO.
 
 ***1.2.3 Joint Receptors --- Thụ Thể Khớp***
@@ -116,7 +116,7 @@ Các thụ thể trong bao khớp và dây chằng cung cấp thông tin về g�
 quan trọng ở mắt cá chân, đầu gối và vai trong tennis.
 
 Joint receptors là lý do tại sao một vận động viên có thể thực hiện
-split-step hoàn hảo ngay cả khi không \'nghĩ\' về nó --- thông tin về
+split-step hoàn hảo ngay cả khi không 'nghĩ' về nó --- thông tin về
 trạng thái khớp gối và cổ chân được xử lý ở cấp độ dưới ý thức, cho phép
 phản ứng nhanh hơn nhiều so với khả năng tư duy ý thức.
 
@@ -129,7 +129,7 @@ xác lực đang phân bổ như thế nào trên bàn chân khi bạn di chuy�
 
 Đây là lý do tại sao các bài tập chân trần cải thiện footwork đáng kể:
 khi loại bỏ lớp đế giày dày, cutaneous receptors ở lòng bàn chân nhận
-được nhiều tín hiệu phong phú hơn, từ đó \'hiệu chỉnh lại\' khả năng cảm
+được nhiều tín hiệu phong phú hơn, từ đó 'hiệu chỉnh lại' khả năng cảm
 nhận mặt sân.
 
 **1.3 Ba Tầng Xử Lý Proprioceptive**
@@ -146,7 +146,7 @@ tủy sống, không cần lên đến não. Tốc độ phản ứng ở cấp 
 
 Trong tennis, một số điều chỉnh footwork khi đổi hướng đột ngột được
 thực hiện ở cấp độ này. Đây là lý do tại sao khi bạn đã tập đủ nhiều, cơ
-thể có thể tự điều chỉnh balance mà không cần bạn \'nghĩ\' về nó.
+thể có thể tự điều chỉnh balance mà không cần bạn 'nghĩ' về nó.
 
 ***1.3.2 Tầng Tiểu Não --- Điều Phối Vận Động***
 
@@ -155,8 +155,8 @@ liên tục giữa kế hoạch chuyển động (những gì não định làm)
 proprioceptive (những gì cơ thể đang thực sự làm), và điều chỉnh tức thì
 để giảm sai lệch.
 
-Ở người chơi elite, tiểu não đã được \'lập trình\' với hàng nghìn giờ
-thực hành --- nó biết chính xác cú forehand \'chuẩn\' trông như thế nào
+Ở người chơi elite, tiểu não đã được 'lập trình' với hàng nghìn giờ
+thực hành --- nó biết chính xác cú forehand 'chuẩn' trông như thế nào
 ở cấp độ cảm giác cơ thể, và liên tục điều chỉnh mỗi swing để khớp với
 mẫu chuẩn đó.
 
@@ -173,14 +173,14 @@ milliseconds. Trong tennis, hầu hết điều chỉnh cơ thể xảy ra quá 
 giai đoạn học tập --- đặc biệt khi bạn đang cố tình thay đổi một kỹ
 thuật.
 
-Điều này giải thích nghịch lý quen thuộc: khi bạn \'cố gắng quá nhiều\'
+Điều này giải thích nghịch lý quen thuộc: khi bạn 'cố gắng quá nhiều'
 và suy nghĩ quá nhiều về kỹ thuật trong trận đấu, bạn thực ra đang can
 thiệp vào quá trình xử lý proprioceptive hiệu quả hơn ở cấp độ tiểu não
 và tủy sống.
 
 > **📋 HLV GHI CHÚ:** Đây là lý do tôi luôn nhấn mạnh với học viên: tập
-> kỹ thuật thì cần ý thức cao, nhưng thi đấu thì cần để cơ thể \'chạy tự
-> động\'. Không phải lười biếng --- mà là tôn trọng cách hệ thần kinh
+> kỹ thuật thì cần ý thức cao, nhưng thi đấu thì cần để cơ thể 'chạy tự
+> động'. Không phải lười biếng --- mà là tôn trọng cách hệ thần kinh
 > hoạt động hiệu quả nhất.
 
 **1.4 Proprioception So Với Các Giác Quan Khác**
@@ -214,7 +214,7 @@ proprioception thường là hệ thống có thể bù đắp tốt nhất.
 **1.5 Tại Sao Level 3.0 Là Thời Điểm Vàng Để Phát Triển Proprioception**
 
 Level 3.0 là giai đoạn đặc biệt trong hành trình tennis. Bạn đã đủ kinh
-nghiệm để thực hiện các kỹ thuật cơ bản, nhưng chưa đủ \'tự động hóa\'
+nghiệm để thực hiện các kỹ thuật cơ bản, nhưng chưa đủ 'tự động hóa'
 để mà các thói quen xấu trở nên cứng nhắc. Đây là cửa sổ thời gian lý
 tưởng để:
 
@@ -231,10 +231,10 @@ tưởng để:
   hơn
 
 Nghiên cứu của Lephart và Fu (2000) cho thấy rằng người chơi ở giai đoạn
-\'trung cấp\' --- tương đương level 3.0 trong tennis NTRP --- có khả
+'trung cấp' --- tương đương level 3.0 trong tennis NTRP --- có khả
 năng cải thiện proprioception nhanh nhất khi được huấn luyện có hệ
-thống. Điều này là vì nơ-ron thần kinh vận động đang ở trạng thái \'có
-thể uốn nắn\' cao nhất --- đủ mature để học nhanh, nhưng chưa cứng đến
+thống. Điều này là vì nơ-ron thần kinh vận động đang ở trạng thái 'có
+thể uốn nắn' cao nhất --- đủ mature để học nhanh, nhưng chưa cứng đến
 mức khó thay đổi.
 
 > **🎾 BÀI TẬP:** BÀI TẬP NHẬN THỨC ĐẦU TIÊN: Trước khi tập vật lý bất
@@ -242,7 +242,7 @@ mức khó thay đổi.
 > bộ chú ý vào lòng bàn chân. Bạn có thể cảm nhận: (1) áp lực ở gót chân
 > so với mũi bàn chân; (2) cạnh trong so với cạnh ngoài; (3) nhiệt độ
 > sàn nhà; (4) sự thay đổi nhỏ khi bạn thở. Đây là bài tập đầu tiên ---
-> không có đúng/sai, chỉ có \'cảm\' hay \'chưa cảm\'. Mục tiêu: 3 phút
+> không có đúng/sai, chỉ có 'cảm' hay 'chưa cảm'. Mục tiêu: 3 phút
 > mỗi ngày trong tuần đầu.
 
 **1.6 Nghiên Cứu Khoa Học Nền Tảng**
@@ -256,7 +256,7 @@ qua một số nghiên cứu quan trọng nhất về proprioception trong thể
 Trong bài tổng quan đột phá trên Physiological Reviews, Proske và
 Gandevia đã chứng minh rằng proprioception không phải một hệ thống đơn
 lẻ mà là tập hợp nhiều tín hiệu từ nhiều nguồn khác nhau được não tích
-hợp để tạo ra \'cảm giác cơ thể\' tổng hợp. Điều này có ý nghĩa quan
+hợp để tạo ra 'cảm giác cơ thể' tổng hợp. Điều này có ý nghĩa quan
 trọng: huấn luyện proprioception hiệu quả nhất khi tập kết hợp nhiều
 loại kích thích khác nhau, không chỉ một loại bài tập.
 
@@ -282,7 +282,7 @@ vùng này so với người không tập thể thao.
 
 > **✅ TỰ KIỂM TRA:** Sau khi đọc chương này, hãy trả lời: (1) Bạn có
 > thể nêu tên 3 loại thụ thể proprioceptive chính không? (2) Bạn hiểu
-> tại sao \'cố gắng suy nghĩ quá nhiều\' trong rally có thể làm giảm
+> tại sao 'cố gắng suy nghĩ quá nhiều' trong rally có thể làm giảm
 > performance? (3) Bạn đã thực hiện bài tập nhận thức lòng bàn chân
 > chưa? Nếu chưa, hãy làm ngay trước khi tiếp tục chương 2.
 
@@ -320,43 +320,43 @@ tốc độ, xoáy. Thông tin này được gửi đến prefrontal cortex đ�
 quyết định chiến thuật: đánh forehand hay backhand? Tạo topspin hay
 flat? Aim về đâu?
 
-Quyết định được gửi đến motor cortex --- \'trung tâm chỉ huy\' của
+Quyết định được gửi đến motor cortex --- 'trung tâm chỉ huy' của
 chuyển động. Motor cortex gửi tín hiệu xuống tủy sống, kích hoạt các
 nhóm cơ theo thứ tự chính xác. Đồng thời, tiểu não nhận bản sao của lệnh
 này và bắt đầu so sánh với phản hồi proprioceptive.
 
 Toàn bộ chuỗi này diễn ra trong 200-400ms --- đủ nhanh để đánh bóng,
-nhưng chỉ nhanh khi không có \'nhiễu\' trong hệ thống. Nhiễu có thể đến
+nhưng chỉ nhanh khi không có 'nhiễu' trong hệ thống. Nhiễu có thể đến
 từ: mệt mỏi, căng thẳng, thiếu tự tin, hoặc --- quan trọng nhất ---
 proprioception kém khiến cơ thể không sẵn sàng ở vị trí đúng.
 
 > **📋 HLV GHI CHÚ:** Hầu hết người chơi level 3.0 lãng phí 100-150ms
 > trong chuỗi phản ứng này vì vị trí cơ thể không optimal khi nhận bóng.
 > Khi proprioception tốt hơn, cơ thể tự động đặt mình vào position tốt
-> hơn, giảm thời gian \'hiệu chỉnh\' và cho phép swing sớm hơn.
+> hơn, giảm thời gian 'hiệu chỉnh' và cho phép swing sớm hơn.
 
 **2.2 Motor Programs --- Chương Trình Vận Động**
 
 Một trong những khái niệm quan trọng nhất trong tâm lý học thể thao là
-\'motor program\' --- chương trình vận động. Đây là các mẫu hoạt động
+'motor program' --- chương trình vận động. Đây là các mẫu hoạt động
 thần kinh được lưu trữ trong não, cho phép thực hiện các chuyển động
 phức tạp mà không cần kiểm soát ý thức từng chi tiết.
 
 Khi bạn học đánh forehand lần đầu, mọi khía cạnh đều đòi hỏi sự chú ý ý
 thức: cách cầm vợt, vị trí chân, cách xoay vai, điểm contact,
 follow-through. Quá trình này chậm, mệt mỏi và dễ mắc lỗi vì cortex
-không đủ \'băng thông\' để xử lý tất cả cùng lúc.
+không đủ 'băng thông' để xử lý tất cả cùng lúc.
 
 Nhưng qua hàng trăm, hàng nghìn lần lặp lại, motor program cho forehand
-dần được xây dựng và \'nén\' vào tiểu não và basal ganglia. Từ đó, thực
-hiện forehand không còn cần nhiều tài nguyên ý thức --- nó gần như \'tự
-chạy\'.
+dần được xây dựng và 'nén' vào tiểu não và basal ganglia. Từ đó, thực
+hiện forehand không còn cần nhiều tài nguyên ý thức --- nó gần như 'tự
+chạy'.
 
 ***2.2.1 Proprioception Trong Motor Programs***
 
 Điều mà nhiều người chơi không nhận ra: proprioception không chỉ cung
 cấp phản hồi SAU khi chuyển động xảy ra. Nó còn là một phần CẤU THÀNH
-của motor program. Khi não \'phát lại\' motor program cho forehand, nó
+của motor program. Khi não 'phát lại' motor program cho forehand, nó
 không chỉ gửi lệnh cơ bắp --- nó còn dự đoán cảm giác proprioceptive nào
 SẼ xảy ra ở mỗi giai đoạn của swing.
 
@@ -373,7 +373,7 @@ học tennis.
 
 Mỗi lần bạn thực hiện một chuyển động tennis đúng cách với sự chú ý có ý
 thức, kết nối neural giữa các tế bào liên quan được củng cố --- quá
-trình này được gọi là \'long-term potentiation\'. Ngược lại, các kết nối
+trình này được gọi là 'long-term potentiation'. Ngược lại, các kết nối
 không được sử dụng sẽ yếu đi theo thời gian.
 
 Điều này có hàm ý thực tiễn quan trọng: chất lượng tập luyện quan trọng
@@ -390,7 +390,7 @@ lên đến 100 lần.
 
 Khi bạn lặp lại một chuyển động nhiều lần, các sợi thần kinh liên quan
 được myelinated nhiều hơn --- tín hiệu truyền nhanh hơn, phản ứng nhanh
-hơn, kỹ năng trở nên \'mượt\' hơn. Đây là lý do tại sao 10.000 giờ thực
+hơn, kỹ năng trở nên 'mượt' hơn. Đây là lý do tại sao 10.000 giờ thực
 hành được nhắc đến nhiều --- không phải vì số giờ quan trọng, mà vì quá
 trình myelination đòi hỏi thời gian và sự lặp lại.
 
@@ -417,12 +417,12 @@ recovery chậm, và cần nhiều năng lượng hơn cho mỗi cú đánh.
 ***2.4.1 Cách Phát Triển APAs***
 
 APAs được cải thiện thông qua repetitive practice với variation --- tức
-là lặp lại nhiều tình huống khác nhau để não học cách \'dự đoán\' nhiều
+là lặp lại nhiều tình huống khác nhau để não học cách 'dự đoán' nhiều
 loại nhu cầu balance khác nhau. Điều này giải thích tại sao rally
 practice hiệu quả hơn basket feed drill trong việc phát triển dynamic
 balance.
 
-Ngoài ra, training ở trạng thái \'perturbation\' --- tức là tập với các
+Ngoài ra, training ở trạng thái 'perturbation' --- tức là tập với các
 kích thích bất ngờ làm mất balance --- cực kỳ hiệu quả trong việc phát
 triển APAs nhanh và chính xác hơn.
 
@@ -439,31 +439,31 @@ ta hiểu về tập luyện kỹ năng vận động. Bà phân biệt hai lo�
 
 ***2.5.1 Internal Focus --- Tập Trung Nội Tâm***
 
-Internal focus là chú ý vào chuyển động của cơ thể --- \'tôi đang xoay
-hông\', \'tôi đang gập cổ tay\', \'tôi đang chuyển trọng lượng\'. Nhiều
+Internal focus là chú ý vào chuyển động của cơ thể --- 'tôi đang xoay
+hông', 'tôi đang gập cổ tay', 'tôi đang chuyển trọng lượng'. Nhiều
 HLV truyền thống sử dụng ngôn ngữ internal focus khi dạy kỹ thuật.
 
 Nghiên cứu cho thấy internal focus trong khi thi đấu thường làm giảm
 performance vì nó can thiệp vào quá trình xử lý tự động ở tiểu não. Đây
-là hiện tượng \'paralysis by analysis\' mà nhiều người chơi quen thuộc.
+là hiện tượng 'paralysis by analysis' mà nhiều người chơi quen thuộc.
 
 ***2.5.2 External Focus --- Tập Trung Ngoại Cảnh***
 
-External focus là chú ý vào kết quả của chuyển động --- \'bóng đến
-đây\', \'tôi muốn đánh vào góc đó\', \'cảm giác bóng trên vợt\'.
+External focus là chú ý vào kết quả của chuyển động --- 'bóng đến
+đây', 'tôi muốn đánh vào góc đó', 'cảm giác bóng trên vợt'.
 External focus cho phép hệ thống vận động hoạt động hiệu quả hơn vì nó
-không \'làm nhiễu\' tiểu não.
+không 'làm nhiễu' tiểu não.
 
 Điều thú vị: proprioceptive awareness --- cảm nhận cơ thể trong không
 gian --- thực ra là một dạng external focus tinh tế. Khi bạn chú ý đến
-\'cảm giác lòng bàn chân trên mặt sân\' thay vì \'tôi đang duỗi đầu
-gối\', bạn đang dùng proprioception theo cách không can thiệp vào motor
+'cảm giác lòng bàn chân trên mặt sân' thay vì 'tôi đang duỗi đầu
+gối', bạn đang dùng proprioception theo cách không can thiệp vào motor
 program.
 
 > **✅ TỰ KIỂM TRA:** Lần tới khi bạn tập, hãy chú ý xem bạn thường dùng
-> internal hay external focus. Thử một set với internal focus (\'tôi
-> đang xoay hông\') và một set với external focus (\'cảm giác trọng
-> lượng chuyển sang chân trái\'). Ghi lại sự khác biệt bạn cảm thấy.
+> internal hay external focus. Thử một set với internal focus ('tôi
+> đang xoay hông') và một set với external focus ('cảm giác trọng
+> lượng chuyển sang chân trái'). Ghi lại sự khác biệt bạn cảm thấy.
 
 **2.6 Tóm Tắt Chương 2**
 
@@ -491,7 +491,7 @@ cánh tay làm sai --- mà do cơ thể ở vị trí sai khi tay thực hiện 
 đánh.
 
 Khi bạn ở vị trí đúng với spacing hoàn hảo, cú forehand tự nhiên trở nên
-dễ dàng hơn. Khi bạn bị \'jammed\' --- bóng quá gần người --- ngay cả kỹ
+dễ dàng hơn. Khi bạn bị 'jammed' --- bóng quá gần người --- ngay cả kỹ
 thuật tốt nhất cũng không thể cứu được cú đánh. Footwork chính xác là
 điều kiện tiên quyết, không phải bổ sung.
 
@@ -507,12 +507,12 @@ Quan sát footwork của các tay vợt top 50 thế giới, bạn sẽ thấy m
 ***3.2.1 Constant Motion --- Chuyển Động Liên Tục***
 
 Elite players hiếm khi đứng hoàn toàn yên trong rally. Họ luôn trong
-trạng thái \'vibration nhỏ\' --- trọng lượng chuyển từ chân này sang
+trạng thái 'vibration nhỏ' --- trọng lượng chuyển từ chân này sang
 chân kia, ngón chân nhẹ nhàng bật trên sân. Đây không phải bồn chồn ---
 đây là chiến lược thần kinh.
 
 Khi cơ thể đang chuyển động nhỏ, hệ thống proprioceptive ở trạng thái
-\'active alert\' --- thụ thể cơ và khớp đang gửi tín hiệu liên tục về
+'active alert' --- thụ thể cơ và khớp đang gửi tín hiệu liên tục về
 não. Điều này cho phép phản ứng nhanh hơn so với khi đứng hoàn toàn
 tĩnh. Đây là lý do tại sao split-step hiệu quả hơn so với đứng yên chờ
 bóng.
@@ -521,20 +521,20 @@ bóng.
 
 Elite players duy trì tư thế hơi gập đầu gối trong suốt rally --- không
 chỉ khi sắp đánh bóng. Trọng tâm thấp tạo ra hai lợi thế proprioceptive
-quan trọng: giảm thời gian phản ứng (ít \'quãng đường\' cần cover để hạ
+quan trọng: giảm thời gian phản ứng (ít 'quãng đường' cần cover để hạ
 thấp khi di chuyển) và tăng stability (base of support rộng hơn so với
 chiều cao của center of mass).
 
 ***3.2.3 Heel-to-Toe Loading --- Phân Bổ Trọng Lượng Linh Hoạt***
 
-Người chơi giỏi không \'đứng trên gót chân\' hay \'đứng trên mũi chân\'
+Người chơi giỏi không 'đứng trên gót chân' hay 'đứng trên mũi chân'
 --- họ phân bổ trọng lượng năng động, liên tục thay đổi theo yêu cầu.
 Khả năng này phụ thuộc hoàn toàn vào proprioception ở lòng bàn chân và
 mắt cá.
 
 > **📋 HLV GHI CHÚ:** Ở level 3.0, hầu hết người chơi có xu hướng
-> \'plant\' --- cắm cơ thể vào một vị trí và đánh từ đó. Level 3.5 trở
-> lên đòi hỏi khả năng \'flow\' --- chuyển động liên tục, linh hoạt,
+> 'plant' --- cắm cơ thể vào một vị trí và đánh từ đó. Level 3.5 trở
+> lên đòi hỏi khả năng 'flow' --- chuyển động liên tục, linh hoạt,
 > không bao giờ hoàn toàn dừng. Phát triển footwork fluid là một trong
 > những bước nhảy lớn nhất từ 3.0 lên 3.5.
 
@@ -562,10 +562,10 @@ chuyển từ landing sang push-off tức thì).
 Có hai loại split-step trong tennis. Reactive split-step xảy ra khi bạn
 NHÌN THẤY đối thủ sắp đánh và phản ứng với điều đó. Proactive split-step
 xảy ra khi cơ thể BẢN NĂNG điều chỉnh nhịp điệu theo rally --- bạn không
-cần \'nghĩ\' về nó, cơ thể tự làm.
+cần 'nghĩ' về nó, cơ thể tự làm.
 
 Proactive split-step là dấu hiệu của proprioception đã được phát triển
-tốt. Khi đạt đến level này, footwork trở nên \'nhạc\' --- bạn đang di
+tốt. Khi đạt đến level này, footwork trở nên 'nhạc' --- bạn đang di
 chuyển theo nhịp điệu của game, không phải phản ứng hậu kỳ với mỗi cú
 đánh.
 
@@ -585,13 +585,13 @@ acceleration. Và deceleration phụ thuộc hoàn toàn vào proprioception.
 ***3.4.1 Tại Sao Deceleration Quan Trọng***
 
 Khi bạn chạy để đến bóng và không decelerate đúng cách, bạn đến bóng
-trong trạng thái \'still moving\' --- cơ thể vẫn đang di chuyển khi bạn
+trong trạng thái 'still moving' --- cơ thể vẫn đang di chuyển khi bạn
 đánh. Điều này gây ra: contact point không ổn định (cơ thể chuyển động
 làm thay đổi timing), over-rotation hoặc under-rotation, balance kém sau
 cú đánh và recovery chậm.
 
 Elite players decelerate TRƯỚC khi contact bóng --- họ đến điểm đánh sớm
-hơn, thiết lập vị trí, và đánh từ tư thế ổn định. Nhìn có vẻ \'chậm\',
+hơn, thiết lập vị trí, và đánh từ tư thế ổn định. Nhìn có vẻ 'chậm',
 nhưng thực ra timing contact của họ tốt hơn nhiều.
 
 ***3.4.2 Proprioception Trong Deceleration***
@@ -603,7 +603,7 @@ trí đích (spatial awareness), timing brake force chính xác (GTO ở gân c�
 ở mắt cá và đầu gối).
 
 Tất cả đây là chức năng proprioceptive. Người chơi với proprioception
-kém thường \'lao vào\' bóng --- decelerate quá muộn và phải đánh trong
+kém thường 'lao vào' bóng --- decelerate quá muộn và phải đánh trong
 trạng thái mất kiểm soát.
 
 > **🎾 BÀI TẬP:** DECELERATION DRILL: Đặt 5 cones theo đường thẳng, cách
@@ -628,8 +628,8 @@ ngắn (1-3 bước) vì nó duy trì ready position và không làm mất balan
 
 Proprioception đóng vai trò quan trọng trong việc duy trì độ rộng của
 shuffle --- hai chân cần giữ khoảng cách nhất định trong suốt di chuyển
-để maintain stable base. Nếu proprioception kém, chân hay \'kéo gần
-nhau\' khi di chuyển, làm mất stability.
+để maintain stable base. Nếu proprioception kém, chân hay 'kéo gần
+nhau' khi di chuyển, làm mất stability.
 
 ***3.5.2 Crossover Steps --- Bước Vượt Qua***
 
@@ -650,7 +650,7 @@ di chuyển ra sau --- hướng khó kiểm soát hơn, dễ mất balance hơn.
 > Nếu bạn đi bộ về --- đây là level 3.0. Nếu bạn shuffle về trong trạng
 > thái ready --- đây là level 3.5. Nếu bạn đã bắt đầu recovery movement
 > trước khi đối thủ đánh --- đây là level 4.0+. Mục tiêu của bạn: chuyển
-> từ \'đi bộ về\' sang \'shuffle về trong trạng thái ready\'.
+> từ 'đi bộ về' sang 'shuffle về trong trạng thái ready'.
 
 **3.6 Court Awareness --- Nhận Thức Về Vị Trí Trên Sân**
 
@@ -660,15 +660,15 @@ không cần nhìn xuống chân.
 
 Elite players biết chính xác vị trí của mình tương đối với: đường
 baseline, trục trung tâm, service line, sidelines. Điều này cho phép họ
-đưa ra quyết định chiến thuật ngay lập tức: \'Tôi đang ở đây, góc đó sẽ
-nguy hiểm vì tôi để lộ down the line.\'
+đưa ra quyết định chiến thuật ngay lập tức: 'Tôi đang ở đây, góc đó sẽ
+nguy hiểm vì tôi để lộ down the line.'
 
 Court awareness là sự kết hợp của proprioception (cảm giác vị trí cơ
 thể) và spatial memory (bản đồ sân đã được ghi nhớ). Cả hai đều có thể
 phát triển thông qua tập luyện có chủ đích.
 
 > **🎾 BÀI TẬP:** COURT AWARENESS DRILL: Tập rally bình thường trong 5
-> phút. Sau đó, HLV hoặc đồng đội hô \'STOP\' ngẫu nhiên. Bạn phải ước
+> phút. Sau đó, HLV hoặc đồng đội hô 'STOP' ngẫu nhiên. Bạn phải ước
 > tính ngay lập tức vị trí của mình tính theo % từ baseline (0-100%) và
 > từ trục trung tâm (trái/phải bao nhiêu bước). Kiểm tra bằng cách đo
 > thực tế. Thực hành cho đến khi ước tính của bạn sai dưới 50cm.
@@ -689,7 +689,7 @@ thương.
 > **✅ TỰ KIỂM TRA:** Sau chương này, hãy quay video bản thân di chuyển
 > trong rally từ góc nhìn ngang. Chú ý: (1) Bạn có thực hiện split-step
 > với timing nhất quán không? (2) Bạn decelerate trước khi đánh hay đang
-> \'chạy vào bóng\'? (3) Bạn recovery về center bằng cách nào? (4) Trọng
+> 'chạy vào bóng'? (3) Bạn recovery về center bằng cách nào? (4) Trọng
 > tâm của bạn có duy trì ở độ cao ổn định không hay lên xuống nhiều khi
 > di chuyển?
 
@@ -730,7 +730,7 @@ base of support ngay cả khi: đang chạy ở tốc độ cao, đang xoay ngư
 
 Center of mass (COM) của người trưởng thành nằm khoảng ở rốn, tương
 đương khoảng 55% chiều cao. Trong tennis, kiểm soát COM là mấu chốt của
-balance --- bất cứ lúc nào COM \'thoát ra ngoài\' base of support (diện
+balance --- bất cứ lúc nào COM 'thoát ra ngoài' base of support (diện
 tích giữa hai bàn chân), bạn bắt đầu ngã.
 
 Người chơi elite có khả năng dự đoán và kiểm soát chuyển động của COM
@@ -747,7 +747,7 @@ dịch ra ngoài theo follow-through. Toàn bộ chuỗi này cần được ki�
 chính xác --- dịch quá nhiều hoặc quá ít đều ảnh hưởng đến power và
 control.
 
-Người chơi giỏi \'cảm\' được COM của mình trong suốt quá trình này. Họ
+Người chơi giỏi 'cảm' được COM của mình trong suốt quá trình này. Họ
 biết khi nào đang over-weight về phía trước và tự động điều chỉnh. Đây
 không phải suy nghĩ ý thức --- đây là phản hồi proprioceptive tự động.
 
@@ -761,7 +761,7 @@ cân bằng thông tin từ ba nguồn này.
 Điều thú vị: trong điều kiện bình thường, thị giác chiếm khoảng 70%
 thông tin balance. Nhưng trong tennis, thị giác bận rộn theo dõi bóng
 --- không thể dùng nhiều cho balance. Điều này có nghĩa là trong rally,
-proprioception và tiền đình phải \'gánh\' phần lớn nhiệm vụ balance.
+proprioception và tiền đình phải 'gánh' phần lớn nhiệm vụ balance.
 
 Đây là lý do tại sao người chơi có proprioception kém thường có vấn đề
 balance nghiêm trọng HƠN trong rally so với khi đứng yên --- khi mắt bận
@@ -769,9 +769,9 @@ theo bóng, hệ thống dự phòng không đủ mạnh để bù đắp.
 
 > **🎾 BÀI TẬP:** VESTIBULAR TRAINING: Thực hiện 10 forehand shadow
 > swings trong khi xoay đầu chậm từ trái sang phải (như đang nói
-> \'không\'). Điều này tạo ra vestibular perturbation và buộc
+> 'không'). Điều này tạo ra vestibular perturbation và buộc
 > proprioception phải bù đắp. Sau đó thực hiện 10 cú với đầu xoay
-> lên/xuống (như đang nói \'có\'). Khởi đầu chậm, tăng dần tốc độ swing
+> lên/xuống (như đang nói 'có'). Khởi đầu chậm, tăng dần tốc độ swing
 > theo tuần.
 
 **4.4 Balance Recovery --- Phục Hồi Sau Khi Mất Thăng Bằng**
@@ -836,7 +836,7 @@ soát nhất. Clay court trơn hơn, đòi hỏi khả năng balance khi trượ
 Grass court trơn nhất và bề mặt không đều, đòi hỏi cả hai cùng lúc.
 
 Người chơi phát triển tốt nhất khi tập trên nhiều bề mặt khác nhau ---
-mỗi bề mặt \'stress test\' proprioception theo cách khác nhau và tạo ra
+mỗi bề mặt 'stress test' proprioception theo cách khác nhau và tạo ra
 adaptations khác nhau. Nếu bạn chỉ tập trên hard court, proprioceptive
 system của bạn chỉ được tối ưu cho điều kiện đó.
 
@@ -865,16 +865,16 @@ xác từ chân đến đầu ngón tay. Khi một mắt xích trong chuỗi nà
 dù chỉ vài mili-giây --- cả cú đánh bị ảnh hưởng.
 
 Điều mà hầu hết người chơi không nhận ra: proprioception là hệ thống giữ
-cho chuỗi kinetic này hoạt động đồng bộ. Não không có thời gian \'tính
-toán\' từng chuyển động ở mỗi khớp --- nó dựa vào proprioceptive
+cho chuỗi kinetic này hoạt động đồng bộ. Não không có thời gian 'tính
+toán' từng chuyển động ở mỗi khớp --- nó dựa vào proprioceptive
 feedback để xác nhận mỗi bước trong chuỗi đang diễn ra đúng trước khi
 kích hoạt bước tiếp theo.
 
 > **📋 HLV GHI CHÚ:** Ở level 3.0, vấn đề spacing thường xuất phát từ
 > thiếu kiên nhẫn chờ bóng. Bạn đánh sớm trước khi bóng vào vùng ideal.
-> Giải pháp không phải \'chờ lâu hơn\' --- mà là phát triển
-> proprioception đủ tốt để cảm nhận khi nào bóng vào vùng \'sweet spot
-> distance\'.
+> Giải pháp không phải 'chờ lâu hơn' --- mà là phát triển
+> proprioception đủ tốt để cảm nhận khi nào bóng vào vùng 'sweet spot
+> distance'.
 
 ***5.1.1 Kinetic Chain --- Chuỗi Động Học***
 
@@ -884,7 +884,7 @@ theo trunk rotation, shoulder internal rotation, elbow extension, cuối
 cùng là wrist pronation tại contact point. Toàn bộ chuỗi này diễn ra
 trong khoảng 400-500 milliseconds.
 
-Nếu bất kỳ bước nào trong chuỗi bị \'đứt\' --- ví dụ hông rotate trước
+Nếu bất kỳ bước nào trong chuỗi bị 'đứt' --- ví dụ hông rotate trước
 khi chân push-off đủ, hoặc vai mở quá sớm --- lực không được truyền hiệu
 quả và tổng lực tại racket giảm đáng kể. Proprioception ở mỗi khớp là cơ
 chế phát hiện sớm sự đứt gãy này và tự động điều chỉnh.
@@ -896,15 +896,15 @@ tố số một ảnh hưởng đến chất lượng forehand. Contact quá g�
 swing bị bó hẹp, không thể accelerate fully. Contact quá xa: cơ thể phải
 với ra, mất stability và power.
 
-Khả năng \'cảm\' spacing chính xác mà không cần dùng mắt để đo là
+Khả năng 'cảm' spacing chính xác mà không cần dùng mắt để đo là
 proprioception thuần túy. Elite players biết khi nào bóng đang ở spacing
 lý tưởng --- không phải vì họ nhìn vào vị trí tay mình, mà vì
-proprioception báo hiệu \'vị trí này đúng\' hay \'cần điều chỉnh thêm
-1-2 bước\'.
+proprioception báo hiệu 'vị trí này đúng' hay 'cần điều chỉnh thêm
+1-2 bước'.
 
 > **🎾 BÀI TẬP:** SPACING AWARENESS DRILL: Nhờ đồng đội tung bóng từ các
 > vị trí khác nhau. Sau mỗi forehand, trước khi xem bóng đi đâu, hãy tự
-> đánh giá spacing của cú đó: \'ideal\', \'hơi gần\', \'hơi xa\'. Sau đó
+> đánh giá spacing của cú đó: 'ideal', 'hơi gần', 'hơi xa'. Sau đó
 > xem video để kiểm tra độ chính xác của tự đánh giá. Mục tiêu: đánh giá
 > chính xác 8/10 lần.
 
@@ -917,17 +917,17 @@ ngờ.
 
 Proprioception ở khớp cổ tay đặc biệt tinh vi --- đây là lý do tại sao
 cảm giác bóng trên vợt (ball feel) hoàn toàn phụ thuộc vào wrist
-proprioception. Người có wrist proprioception tốt \'cảm\' được mọi thay
+proprioception. Người có wrist proprioception tốt 'cảm' được mọi thay
 đổi nhỏ trong quality of contact và tự động điều chỉnh.
 
-> **📋 HLV GHI CHÚ:** Nhiều người chơi level 3.0 bị \'wrist early\' ---
+> **📋 HLV GHI CHÚ:** Nhiều người chơi level 3.0 bị 'wrist early' ---
 > cổ tay snap quá sớm vì thiếu muscle coordination và proprioceptive
-> timing. Đây là lý do forehand hay bị \'flat và ra lưới\' thay vì
+> timing. Đây là lý do forehand hay bị 'flat và ra lưới' thay vì
 > topspin lên đẹp.
 
 ***5.2.1 Lag Và Snap --- Chậm Và Nhanh***
 
-Wrist lag là kỹ thuật giữ cổ tay \'đóng\' (lagging behind) trong quá
+Wrist lag là kỹ thuật giữ cổ tay 'đóng' (lagging behind) trong quá
 trình swing cho đến ngay trước contact, sau đó snap nhanh để tạo racket
 head speed. Đây là một trong những nguồn lực chính của topspin forehand.
 
@@ -937,7 +937,7 @@ timing này trong thời gian thực --- nó phải được tự động hóa h
 thông qua repetition.
 
 > **🎾 BÀI TẬP:** WRIST LAG DRILL: Cầm vợt ở position chuẩn bị forehand.
-> Giữ cổ tay \'đóng\' và di chuyển toàn bộ cánh tay về phía trước (không
+> Giữ cổ tay 'đóng' và di chuyển toàn bộ cánh tay về phía trước (không
 > snap cổ tay). Cảm nhận vị trí cổ tay. Sau đó add snap tại điểm contact
 > tưởng tượng. Thực hiện chậm --- 5 giây mỗi swing --- để xây dựng cảm
 > giác proprioceptive về lag và snap position.
@@ -946,12 +946,12 @@ thông qua repetition.
 
 Hông là nguồn lực chính của forehand --- nhưng cũng là nơi nhiều người
 chơi level 3.0 mất đi lực nhất vì thiếu kiểm soát proprioceptive. Hip
-rotation quá sớm (hip \'leaks\' trước khi shoulder và arm sẵn sàng) là
+rotation quá sớm (hip 'leaks' trước khi shoulder và arm sẵn sàng) là
 lỗi cực phổ biến ở cấp độ này.
 
 Proprioception ở hông --- đặc biệt ở hip flexors và gluteus medius ---
 cho phép cơ thể duy trì rotation sequencing chính xác. Khi hệ thống này
-hoạt động tốt, bạn \'cảm\' được moment hông bắt đầu rotate và có thể
+hoạt động tốt, bạn 'cảm' được moment hông bắt đầu rotate và có thể
 điều chỉnh timing chính xác.
 
 > **🎾 BÀI TẬP:** HIP TIMING DRILL: Shadow swing forehand siêu chậm. Tập
@@ -962,7 +962,7 @@ hoạt động tốt, bạn \'cảm\' được moment hông bắt đầu rotate 
 >
 > **✅ TỰ KIỂM TRA:** Quay video forehand từ phía sau. Nhìn vào timing
 > của hông so với vai: hông có mở ra trước khi vai bắt đầu rotate không?
-> Nếu có, đây là \'early hip leak\' --- cần work trên hip proprioception
+> Nếu có, đây là 'early hip leak' --- cần work trên hip proprioception
 > và separation.
 
 **5.4 Two-Handed Backhand vs. One-Handed Backhand**
@@ -990,7 +990,7 @@ wrist position đều được khuếch đại. Đây là lý do one-handed back
 hỏi nhiều năm phát triển hơn two-handed.
 
 > **📋 HLV GHI CHÚ:** Nếu bạn đang phát triển one-handed backhand ở
-> level 3.0, hãy kiên nhẫn. Không phải vì nó \'khó về kỹ thuật\' --- mà
+> level 3.0, hãy kiên nhẫn. Không phải vì nó 'khó về kỹ thuật' --- mà
 > vì proprioception cần thời gian để develop. Tập chậm và cẩn thận quan
 > trọng hơn đánh nhiều bóng nhanh.
 
@@ -1007,8 +1007,8 @@ thể NHÌN vào contact point trong thời gian thực (mắt xử lý chậm h
 gian khi bóng đến, và điều chỉnh tức thì nếu cần.
 
 > **🎾 BÀI TẬP:** CONTACT POINT MAPPING: Tập với basket feed, nhưng sau
-> mỗi cú đánh, TRƯỚC KHI nhìn bóng đi đâu, hãy nói to: \'TRƯỚC\' (nếu
-> contact in front of body), \'SAU\' (nếu contact muộn), hoặc \'ĐÚNG\'.
+> mỗi cú đánh, TRƯỚC KHI nhìn bóng đi đâu, hãy nói to: 'TRƯỚC' (nếu
+> contact in front of body), 'SAU' (nếu contact muộn), hoặc 'ĐÚNG'.
 > Sau đó xem bóng đi đâu để verify. Làm 50 cú mỗi buổi trong 2 tuần ---
 > proprioception về contact point sẽ cải thiện đáng kể.
 
@@ -1027,7 +1027,7 @@ Lý do: serve là chuỗi chuyển động phức tạp nhất trong tennis --- 
 position, ball toss, loading phase, leg drive, torso rotation, shoulder
 internal rotation, elbow extension, pronation --- tất cả phải đồng bộ
 trong khoảng 1 giây. Và không có external timing reference (bóng đến từ
-bên ngoài) để \'anchor\' timing của bạn.
+bên ngoài) để 'anchor' timing của bạn.
 
 Proprioception phải cung cấp tất cả timing reference cho serve. Cơ thể
 phải tự biết khi nào legs đã loaded đủ để push off, khi nào torso đã
@@ -1045,7 +1045,7 @@ rotated đủ để initiate arm swing, khi nào racket head đang ở đúng v�
 Ritual trước khi serve --- bounce bóng, setup position, kiểm tra grip
 --- không phải tín ngưỡng hay thói quen vô nghĩa. Chúng là cơ chế
 proprioceptive reset: đưa hệ thần kinh về baseline state, thiết lập
-baseline body awareness, và \'anchoring\' timing cho chuyển động sắp
+baseline body awareness, và 'anchoring' timing cho chuyển động sắp
 diễn ra.
 
 Djokovic bounce bóng trung bình 7 lần trước mỗi serve --- con số này có
@@ -1061,8 +1061,8 @@ phải adjust, thường dẫn đến lỗi.
 
 Nhưng consistency của toss phụ thuộc vào proprioception ở cánh tay toss:
 cảm giác về góc và tốc độ của tay khi tung bóng lên. Người chơi với
-proprioception tốt có toss cực consistent vì họ \'cảm\' được khi nào
-toss đang \'đúng\' và khi nào cần abort và toss lại.
+proprioception tốt có toss cực consistent vì họ 'cảm' được khi nào
+toss đang 'đúng' và khi nào cần abort và toss lại.
 
 > **🎾 BÀI TẬP:** TOSS CONSISTENCY TEST: Đứng vào position serve, toss
 > bóng và ĐỂ BÓI RỤNG (không đánh). Sau khi bóng chạm đất, đánh dấu điểm
@@ -1084,7 +1084,7 @@ với phần còn lại của serve motion.
 
 > **📋 HLV GHI CHÚ:** Tốt nhất nên tập serve tách biệt --- first
 > practice only leg drive without arm, then only arm without leg, then
-> integrated. Mỗi phase giúp proprioception \'học\' cảm giác của từng
+> integrated. Mỗi phase giúp proprioception 'học' cảm giác của từng
 > thành phần trước khi integrate.
 >
 > **🎾 BÀI TẬP:** LEG DRIVE ISOLATION: Thực hiện serve motion nhưng dừng
@@ -1107,7 +1107,7 @@ trước khi internal rotation xảy ra, rotator cuff bị overloaded.
 ***6.3.1 Scapular Control***
 
 Scapula --- xương vai --- phải được retracted và depressed (kéo về sau
-và xuống) trước khi arm swing bắt đầu. Đây là \'foundation\' của serve.
+và xuống) trước khi arm swing bắt đầu. Đây là 'foundation' của serve.
 Nếu scapula không ổn định, tất cả lực từ arm swing được hấp thụ bởi AC
 joint và rotator cuff thay vì được chuyển ra vợt.
 
@@ -1134,14 +1134,14 @@ awareness ngay cả trong tư thế bất lợi này.
 > **🎾 BÀI TẬP:** OVERHEAD POSITION TRAINING: Đứng dưới vị trí đánh
 > overhead tưởng tượng, nhìn lên 45 độ, duy trì tư thế này 30 giây. Sau
 > đó nhắm mắt và duy trì thêm 30 giây. Cảm nhận: vestibular system bị
-> \'confused\', proprioception phải bù đắp. Thực hiện với và không có
-> vợt. Mục tiêu: cảm thấy \'comfortable\' trong tư thế này dù không nhìn
+> 'confused', proprioception phải bù đắp. Thực hiện với và không có
+> vợt. Mục tiêu: cảm thấy 'comfortable' trong tư thế này dù không nhìn
 > thẳng.
 >
 > **✅ TỰ KIỂM TRA:** Lần tiếp theo có overhead trong rally, sau khi
 > đánh hãy tự hỏi: Bạn có balance ổn định sau contact không? Contact
 > point có nhất quán với bóng ở đúng vị trí mong muốn không? Nếu
-> overhead của bạn \'không ổn định\' --- likely là proprioception trong
+> overhead của bạn 'không ổn định' --- likely là proprioception trong
 > backward movement và overhead position cần phát triển thêm.
 
 **CHƯƠNG 7**
@@ -1152,7 +1152,7 @@ awareness ngay cả trong tư thế bất lợi này.
 
 Volley --- đánh bóng trước khi nảy --- cho người chơi ít thời gian nhất
 trong tất cả các cú đánh tennis. Bóng từ opponent có thể đến trong
-0.2-0.4 giây. Không có thời gian để \'nghĩ\' về kỹ thuật, không có thời
+0.2-0.4 giây. Không có thời gian để 'nghĩ' về kỹ thuật, không có thời
 gian để visually track toàn bộ quỹ đạo bóng, và không có thời gian để
 adjust sau khi bắt đầu swing.
 
@@ -1181,8 +1181,8 @@ của bóng. Và racket face angle được kiểm soát hoàn toàn bởi
 proprioception --- wrist position, forearm rotation, và grip pressure.
 Không có thời gian để nhìn vào vợt của mình.
 
-Elite volleyers có \'racket face awareness\' cực kỳ tinh vi --- họ biết
-chính xác vợt đang \'nhìn về đâu\' trong không gian mà không cần visual
+Elite volleyers có 'racket face awareness' cực kỳ tinh vi --- họ biết
+chính xác vợt đang 'nhìn về đâu' trong không gian mà không cần visual
 reference. Đây là kỹ năng có thể phát triển nhưng đòi hỏi tập luyện rất
 có chủ đích.
 
@@ -1200,7 +1200,7 @@ adjustment steps --- không di chuyển nhiều, chủ yếu micro-adjustments �
 toàn vào proprioception --- khả năng cảm nhận chính xác cần di chuyển
 bao nhiêu và theo hướng nào.
 
-Người chơi giỏi tại net \'cảm\' được khoảng cách đến bóng và tự động
+Người chơi giỏi tại net 'cảm' được khoảng cách đến bóng và tự động
 thực hiện các adjust steps cần thiết mà không cần visual confirmation.
 Điều này giải phóng thị giác để đọc bóng và đối thủ.
 
@@ -1212,14 +1212,14 @@ tennis. Bạn phải GIẢM lực tại contact --- điều ngược lại với
 nhiên khi bóng đến nhanh.
 
 Thực hiện drop volley đòi hỏi: cảm nhận tốc độ và lực của bóng đến
-(proprioceptive input), \'soften\' grip và wrist đúng mức để absorb năng
+(proprioceptive input), 'soften' grip và wrist đúng mức để absorb năng
 lượng (motor output), và duy trì racket face angle chính xác
 (proprioceptive control) --- tất cả đồng thời, trong một fraction of a
 second.
 
 > **📋 HLV GHI CHÚ:** Drop volley là cú đánh phân biệt level 4.0+ với
 > level 3.5. Nếu bạn muốn phát triển nó, bắt đầu với slow practice: tập
-> cảm nhận \'softening\' grip và wrist khi ball impacts racket. Đây là
+> cảm nhận 'softening' grip và wrist khi ball impacts racket. Đây là
 > proprioceptive skill trước khi là kỹ thuật.
 
 **7.4 Approach Shot --- Bridge Từ Baseline Đến Net**
@@ -1229,16 +1229,16 @@ thách thức: đánh groundstroke với quality cao trong khi đang di chuyển
 về phía trước. Đây là tình huống proprioceptive phức tạp vì cơ thể đang
 thực hiện hai nhiệm vụ simultaneous --- di chuyển và swing.
 
-Elite players \'split\' proprioceptive attention giữa hai task này một
-cách vô thức. Phần dưới cơ thể \'biết\' cần di chuyển như thế nào, phần
-trên \'biết\' cần swing như thế nào, và cả hai phối hợp thông qua core
+Elite players 'split' proprioceptive attention giữa hai task này một
+cách vô thức. Phần dưới cơ thể 'biết' cần di chuyển như thế nào, phần
+trên 'biết' cần swing như thế nào, và cả hai phối hợp thông qua core
 --- nhờ proprioception toàn thân được tích hợp tốt.
 
 > **🎾 BÀI TẬP:** APPROACH SHOT DRILL: Bắt đầu ở baseline, di chuyển về
 > phía trước và đánh forehand approach khi bóng đến service box. Sau đó
 > tiếp tục di chuyển lên net không dừng. Chú ý: bạn có thể duy trì
 > movement momentum liên tục không, hay bạn dừng lại để đánh rồi mới di
-> chuyển tiếp? Mục tiêu: movement liên tục không bị \'ngắt\' bởi cú
+> chuyển tiếp? Mục tiêu: movement liên tục không bị 'ngắt' bởi cú
 > đánh.
 >
 > **✅ TỰ KIỂM TRA:** Tự đánh giá volley của bạn theo 3 tiêu chí: (1)
@@ -1260,7 +1260,7 @@ lượng proprioceptive feedback và hiệu quả motor control.
 Khi bạn nín thở --- điều xảy ra phổ biến ở người chơi tension cao ---
 diaphragm cứng lại, intra-abdominal pressure tăng, core muscles
 overactivate, và toàn bộ hệ thống cơ trở nên rigid. Rigidity làm giảm
-đáng kể độ nhạy của proprioceptors --- bạn mất đi \'cảm giác cơ thể\'
+đáng kể độ nhạy của proprioceptors --- bạn mất đi 'cảm giác cơ thể'
 tinh tế trong khi thực sự cần nó nhất.
 
 Ngược lại, controlled breathing --- nhịp thở đều đặn, không gắng sức ---
@@ -1281,7 +1281,7 @@ movement để tối ưu core stability và proprioceptive readiness.
 
 Khi mẫu breathing bị phá vỡ --- thường do excitement, nervousness hoặc
 fatigue --- movement quality giảm ngay lập tức. Đây là một trong những
-lý do tại sao khi bạn nervous trong trận quan trọng, kỹ thuật \'lạ\' hơn
+lý do tại sao khi bạn nervous trong trận quan trọng, kỹ thuật 'lạ' hơn
 dù bạn không thay đổi gì về cơ học.
 
 **8.2 Diaphragmatic Breathing vs. Chest Breathing**
@@ -1307,7 +1307,7 @@ không đúng.
 > **✅ TỰ KIỂM TRA:** Trong buổi tập tiếp theo, đặt tay lên bụng sau mỗi
 > điểm và cảm nhận: bạn đang thở vào bụng hay vào ngực? Nếu chủ yếu thở
 > ngực trong khi thi đấu --- đây là lý do bạn có shoulder tension và cảm
-> thấy \'tight\' khi chơi.
+> thấy 'tight' khi chơi.
 
 **8.3 Breathing Dưới Pressure**
 
@@ -1341,8 +1341,8 @@ thanh, mà vì forced exhale tại impact synchronizes breathing với
 movement timing.
 
 > **🎾 BÀI TẬP:** BREATHING SYNCHRONIZATION: Trong 1 buổi tập, ý thức
-> thở ra (với tiếng \'pssh\' nhẹ) với mỗi forehand và backhand. Chú ý
-> sau 15-20 phút: bạn có cảm thấy cú đánh \'chắc\' hơn không? Timing có
+> thở ra (với tiếng 'pssh' nhẹ) với mỗi forehand và backhand. Chú ý
+> sau 15-20 phút: bạn có cảm thấy cú đánh 'chắc' hơn không? Timing có
 > ổn định hơn không? Đây là hiệu quả của breathing synchronization.
 
 **CHƯƠNG 9**
@@ -1368,7 +1368,7 @@ của kỹ thuật chậm hơn.
 
 ***9.1.1 Biểu Hiện Của Proprioceptive Fatigue Trong Tennis***
 
-Khi proprioception bị fatigue, bạn sẽ thấy: bóng \'đột ngột\' khó
+Khi proprioception bị fatigue, bạn sẽ thấy: bóng 'đột ngột' khó
 tracking hơn, spacing với bóng thiếu ổn định (hay bị jam hoặc với xa),
 balance kém hơn sau các cú đánh mạnh, recovery footwork chậm hơn và ít
 chính xác hơn.
@@ -1417,7 +1417,7 @@ partially restore proprioceptive sensitivity.
 
 ***9.3.1 Body Scan Giữa Điểm***
 
-Body scan --- nhanh chóng \'quét\' qua cơ thể để check tension --- là kỹ
+Body scan --- nhanh chóng 'quét' qua cơ thể để check tension --- là kỹ
 thuật được nhiều elite players sử dụng mà họ ít khi đề cập. Trong 10-15
 giây giữa điểm, họ internally check: cổ tay có tight không? Vai có
 dropped không? Đầu gối có bent đủ không? Breathing có steady không?
@@ -1472,7 +1472,7 @@ thời điểm để protect, muscle activation sequencing chính xác hơn gi�
 stress không đồng đều, và phản xạ bảo vệ (righting reflexes) nhanh hơn
 khi có nguy cơ.
 
-Khi proprioception kém: các cơ \'đến muộn\' --- khớp chịu lực trước khi
+Khi proprioception kém: các cơ 'đến muộn' --- khớp chịu lực trước khi
 được stabilized, chuyển động compensation xuất hiện và tạo ra stress ở
 những nơi không được thiết kế để chịu, và nguy cơ acute injury trong các
 tình huống bất ngờ tăng cao.
@@ -1488,13 +1488,13 @@ xuống và quay vào trong) chịu trọng lượng đột ngột --- điển h
 tiếp đất từ split-step hay đổi hướng đột ngột. Nếu proprioception ở
 ankle tốt, cơ peroneus longus và brevis activate trước khi bàn chân tiếp
 đất, stabilizing ankle và ngăn quá mức inversion. Nếu proprioception
-kém, cơ \'đến muộn\' và ankle có thể sprain trước khi hệ thống bảo vệ
+kém, cơ 'đến muộn' và ankle có thể sprain trước khi hệ thống bảo vệ
 kịp.
 
 > **📋 HLV GHI CHÚ:** Nếu bạn đã từng sprain ankle --- ngay cả cách đây
 > vài năm --- hãy kiểm tra ankle proprioception ngay hôm nay bằng bài
-> test trên. Nhiều người chơi tennis bị \'chronic ankle instability\' mà
-> không biết --- cảm thấy ankle \'không chắc\' khi đổi hướng --- xuất
+> test trên. Nhiều người chơi tennis bị 'chronic ankle instability' mà
+> không biết --- cảm thấy ankle 'không chắc' khi đổi hướng --- xuất
 > phát từ proprioception chưa fully recovered.
 
 ***10.2.1 Ankle Rehabilitation và Proprioception***
@@ -1524,7 +1524,7 @@ overuse, và MCL/ACL injuries từ cutting movements.
 
 Proprioception ở knee --- đặc biệt là cảm nhận về knee alignment và
 valgus stress --- là hệ thống cảnh báo sớm quan trọng. Khi knee bắt đầu
-\'drift\' vào trong (valgus collapse) khi loading, proprioception tốt
+'drift' vào trong (valgus collapse) khi loading, proprioception tốt
 giúp gluteus medius và VMO activate nhanh để correct. Proprioception kém
 = valgus collapse không được corrected = ACL/MCL stress mỗi lần đổi
 hướng.
@@ -1552,7 +1552,7 @@ quan trọng trong prevention.
 Warm-up vai không phải chỉ là tăng nhiệt độ cơ --- nó là process khởi
 động proprioceptors trong vai, chuẩn bị hệ thống cảm nhận cho các chuyển
 động sắp diễn ra. Shoulder shrugs, arm circles, và scapular retractions
-không chỉ \'làm nóng\' --- chúng \'calibrate\' proprioceptors.
+không chỉ 'làm nóng' --- chúng 'calibrate' proprioceptors.
 
 Protocol warm-up shoulder hiệu quả: 1 phút arm circles cả hai hướng, 30
 scapular retractions, 20 external rotations với resistance band, và 10
@@ -1632,12 +1632,12 @@ trực tiếp activate proprioceptive processing pathways.
 Kỹ thuật: ngồi hoặc nằm thoải mái, nhắm mắt. Bắt đầu với cảm giác đứng
 trên sân --- áp lực bàn chân, nhiệt độ không khí, cầm vợt trong tay. Sau
 đó từng bước imagine cú forehand: bắt đầu di chuyển, xoay vai, swing,
-impact, follow-through. Dừng lại ở impact và \'feel\' cảm giác bóng trên
+impact, follow-through. Dừng lại ở impact và 'feel' cảm giác bóng trên
 vợt trong imagination.
 
 > **🎾 BÀI TẬP:** KINESTHETIC IMAGERY PROTOCOL: 10 phút, 3 lần/tuần. Bắt
 > đầu với mắt mở --- nhìn vào điểm trên tường tưởng tượng bóng. Sau 1
-> tuần, chuyển sang mắt nhắm. Mục tiêu: sau 4 tuần, bạn có thể \'feel\'
+> tuần, chuyển sang mắt nhắm. Mục tiêu: sau 4 tuần, bạn có thể 'feel'
 > rõ ràng cảm giác proprioceptive của từng phase trong forehand khi
 > imagery.
 
@@ -1649,7 +1649,7 @@ forehand --- ví dụ từ eastern grip sang western grip --- não đang chiến
 đấu giữa motor program cũ (đã được myelinated kỹ qua nhiều năm) và motor
 program mới (chưa hoàn chỉnh).
 
-Sử dụng imagery để \'rehearse\' kỹ thuật mới trong đầu, kết hợp với
+Sử dụng imagery để 'rehearse' kỹ thuật mới trong đầu, kết hợp với
 kinaesthetic cues, giúp accelerate quá trình xây dựng motor program mới
 và fade motor program cũ. Đây là lý do tại sao các vận động viên chuyên
 nghiệp dành nhiều thời gian cho mental rehearsal khi học kỹ thuật mới.
@@ -1668,10 +1668,10 @@ cố neural pathway mới giữa các buổi tập vật lý.
 Một ứng dụng quan trọng của mental imagery ít được thảo luận: rehearsing
 pressure situations. Bằng cách visualize và kinaesthetically experience
 các tình huống áp lực (match point, break point, tie-break) trong trạng
-thái relaxed, bạn đang \'desensitize\' nervous system với những tình
+thái relaxed, bạn đang 'desensitize' nervous system với những tình
 huống đó.
 
-Khi tình huống đó xảy ra trong thực tế, não nhận ra nó là \'familiar\'
+Khi tình huống đó xảy ra trong thực tế, não nhận ra nó là 'familiar'
 --- arousal response giảm, proprioceptive function được maintain tốt
 hơn, và performance under pressure được cải thiện.
 
@@ -1682,19 +1682,19 @@ sensations đó present.
 
 > **📋 HLV GHI CHÚ:** Điều này giải thích tại sao experienced tournament
 > players thực hiện tốt hơn dưới áp lực so với người mới đấu giải ---
-> không phải họ không nervous, mà là não của họ đã \'quen\' với cảm giác
+> không phải họ không nervous, mà là não của họ đã 'quen' với cảm giác
 > đó và không bị overwhelmed bởi nó.
 
 **11.4 Video Analysis Kết Hợp Với Imagery**
 
 Kết hợp video analysis với mental imagery tạo ra learning loop cực mạnh.
-Process: xem video chính xác của mình (identify what\'s happening), xem
+Process: xem video chính xác của mình (identify what's happening), xem
 video của elite player (identify what should happen), imagery:
-\'overwrite\' footage của mình bằng footage của elite player nhưng với
+'overwrite' footage của mình bằng footage của elite player nhưng với
 cơ thể của chính mình, practice vật lý với memory của imagery.
 
 Quan trọng: khi xem video, chú ý đến proprioceptive cues --- không phải
-chỉ nhìn hình dáng mà cố gắng \'feel\' cơ thể của player trong video.
+chỉ nhìn hình dáng mà cố gắng 'feel' cơ thể của player trong video.
 Điều này activated mirror neuron system và tạo ra implicit
 proprioceptive learning.
 
@@ -1716,17 +1716,17 @@ không thể thực hiện được. Và đây là điểm kết nối thú vị
 **12.1 Proprioception Và Decision-Making Speed**
 
 Decision-making trong tennis không phải là quá trình tư duy tuần tự:
-\'bóng đến, tôi sẽ đánh forehand topspin về đường line.\' Điều đó quá
+'bóng đến, tôi sẽ đánh forehand topspin về đường line.' Điều đó quá
 chậm. Thực tế, quyết định chiến thuật và motor execution xảy ra gần như
 parallel, và proprioception là yếu tố cho phép điều này.
 
 Khi bạn biết chính xác cơ thể đang ở đâu (proprioception tốt), não không
-cần \'tính toán lại\' vị trí cơ thể mỗi khi đưa ra quyết định chiến
+cần 'tính toán lại' vị trí cơ thể mỗi khi đưa ra quyết định chiến
 thuật --- nó có thể trực tiếp map quyết định chiến thuật vào motor
 command. Điều này giảm thiểu thời gian từ quyết định đến execution.
 
 Ngược lại, khi proprioception kém, một phần tài nguyên cognitive bị tiêu
-tốn cho việc \'xác định vị trí cơ thể\' --- tài nguyên này bị lấy đi từ
+tốn cho việc 'xác định vị trí cơ thể' --- tài nguyên này bị lấy đi từ
 tactical processing. Đây là lý do tại sao người chơi di chuyển tốt
 thường cũng đưa ra tactical decisions tốt hơn --- không phải tình cờ.
 
@@ -1742,19 +1742,19 @@ Tactical awareness trong tennis đòi hỏi nhận biết không chỉ vị trí
 chính mình mà còn của đối thủ và khoảng trống trên sân. Proprioception
 đóng vai trò trong việc cập nhật mental map của sân theo thời gian thực.
 
-Elite players duy trì trong đầu một \'mental model\' của sân --- bao gồm
-vị trí của tất cả \'players\' (mình và đối thủ) và khoảng trống. Mental
+Elite players duy trì trong đầu một 'mental model' của sân --- bao gồm
+vị trí của tất cả 'players' (mình và đối thủ) và khoảng trống. Mental
 model này được cập nhật liên tục bởi proprioception (vị trí của mình) và
 vision (vị trí đối thủ và bóng).
 
 Khi proprioception kém, vị trí của chính mình trong mental model không
-chính xác --- dẫn đến tactical decisions sai: \'nghĩ\' mình ở một vị trí
+chính xác --- dẫn đến tactical decisions sai: 'nghĩ' mình ở một vị trí
 nhưng thực ra ở vị trí khác, dẫn đến aim sai, recovery sai.
 
 > **🎾 BÀI TẬP:** SÂN CỜ VUA: Trong buổi tập, sau mỗi lần đánh bóng, HLV
-> nói \'XÁC NHẬN VỊ TRÍ\'. Bạn phải nói ngay không suy nghĩ: \'Tôi đang
+> nói 'XÁC NHẬN VỊ TRÍ'. Bạn phải nói ngay không suy nghĩ: 'Tôi đang
 > ở \[deuce/ad side\], \[bao nhiêu steps\] từ center, \[trong/ngoài\]
-> baseline.\' HLV kiểm tra độ chính xác. Thực hiện 20 lần mỗi buổi trong
+> baseline.' HLV kiểm tra độ chính xác. Thực hiện 20 lần mỗi buổi trong
 > 2 tuần.
 
 **12.3 Body Language Và Proprioception**
@@ -1765,14 +1765,14 @@ kém: vai cúp xuống khi thiếu tự tin, chuyển động rigid khi nervous,
 footwork chậm và nặng nề khi fatigue.
 
 Nhưng còn có chiều ngược lại: body language có thể ảnh hưởng ngược lại
-đến proprioceptive state. Nghiên cứu của Amy Cuddy về \'power poses\' và
+đến proprioceptive state. Nghiên cứu của Amy Cuddy về 'power poses' và
 Amy Wrzesniewski về self-talk cho thấy tư thế cơ thể ảnh hưởng đến
 hormone levels (testosterone và cortisol) --- qua đó ảnh hưởng đến
 neural processing, bao gồm proprioception.
 
 Đơn giản hơn: khi bạn chủ động duy trì upright posture, shoulders back,
 head up --- ngay cả khi đang losing --- proprioceptive system nhận được
-tín hiệu \'I\'m OK\' và maintains higher function. Khi bạn slump và
+tín hiệu 'I'm OK' và maintains higher function. Khi bạn slump và
 collapse posture --- proprioception suy giảm cùng với morale.
 
 > **📋 HLV GHI CHÚ:** Đây là lý do các HLV elite nhắc nhở vận động viên
@@ -1789,11 +1789,11 @@ proprioceptive pre-loading.
 Pre-loading có nghĩa: dựa trên pattern recognition, bạn shift trọng
 lượng nhẹ về phía expected direction TRƯỚC KHI đối thủ đánh, tăng
 probability reaction đúng hướng. Elite players làm điều này vô thức ---
-còn gọi là \'court sense\' hay \'anticipation\'.
+còn gọi là 'court sense' hay 'anticipation'.
 
 Nhưng pre-loading chỉ an toàn khi proprioception đủ tốt để reverse
 direction nhanh nếu đối thủ đánh theo hướng khác. Nếu proprioception
-kém, pre-loading có thể lợi bất cập hại --- bạn \'lean\' về một hướng và
+kém, pre-loading có thể lợi bất cập hại --- bạn 'lean' về một hướng và
 bị mắc bẫy khi đối thủ đánh hướng khác.
 
 **12.5 Constructing Points: Proprioception Trong Dài Hạn**
@@ -1805,7 +1805,7 @@ cần duy trì court awareness và body awareness trong suốt 10-20 cú đánh
 của một long rally.
 
 Elite players có khả năng này vì proprioception của họ chạy
-\'background\' --- không tiêu tốn nhiều conscious resources. Điều này
+'background' --- không tiêu tốn nhiều conscious resources. Điều này
 giải phóng attention cho tactical planning trong rally. Ở level 3.0,
 proprioception thường cần nhiều attention hơn --- dẫn đến kém tactical
 trong long rallies.
@@ -1817,7 +1817,7 @@ capacity hơn để think tactically, thậm chí trong middle of rally.
 > **✅ TỰ KIỂM TRA:** Test tactical proprioception của bạn: trong buổi
 > tập tiếp theo, sau mỗi rally kết thúc (win hoặc lose), ngay lập tức
 > nói với HLV/đồng đội: bạn đang ở đâu, đối thủ đang ở đâu, và bạn đã
-> \'mất tracking\' vị trí của mình hay của đối thủ vào khoảng cú đánh
+> 'mất tracking' vị trí của mình hay của đối thủ vào khoảng cú đánh
 > thứ mấy trong rally. Ghi lại kết quả trong 3 buổi tập.
 
 **CHƯƠNG 13**
@@ -1840,7 +1840,7 @@ Nguyên tắc Specificity đòi hỏi các bài tập phải specific với yêu
 tennis --- không phải chỉ làm balance exercises chung chung, mà là
 balance trong các position và movement patterns của tennis cụ thể.
 
-Nguyên tắc Variation đảm bảo hệ thống thần kinh không \'trơ\' với cùng
+Nguyên tắc Variation đảm bảo hệ thống thần kinh không 'trơ' với cùng
 một kích thích --- mỗi tuần có sự thay đổi về bài tập, điều kiện, hoặc
 cường độ để tiếp tục tạo ra adaptations mới.
 
@@ -1853,7 +1853,7 @@ cường độ để tiếp tục tạo ra adaptations mới.
 
 Phase 1 tập trung vào xây dựng nền tảng proprioceptive ở các khớp chính:
 mắt cá, đầu gối, hông, và core. Các bài tập trong phase này đơn giản
-nhưng quan trọng --- đừng bỏ qua vì chúng \'quá dễ\'.
+nhưng quan trọng --- đừng bỏ qua vì chúng 'quá dễ'.
 
 Tuần 1-2: Basic single-leg balance (30 giây × 3 set mỗi chân, mỗi ngày).
 Eyes open trước, sau đó close. Tuần 3-4: Add perturbation --- tập trên
@@ -1898,7 +1898,7 @@ controlled landing. Tăng thời gian shadow swing lên 15 phút, add
 rotation focus.
 
 Tuần 7-8: Sport-specific integration. Tất cả footwork drills trên sân
-đều bao gồm proprioceptive cue --- HLV hoặc bạn tự call \'POSITION?\'
+đều bao gồm proprioceptive cue --- HLV hoặc bạn tự call 'POSITION?'
 sau mỗi di chuyển và trả lời ngay. Bắt đầu các drills với intentional
 fatigue (sau 20 phút tập thể lực).
 
@@ -1930,7 +1930,7 @@ built-in become automatic chưa. Repeat baseline assessment từ tuần 1.
 > hiện tại. Các chỉ số cần đo: (1) Single-leg balance time tăng bao
 > nhiêu? (2) Court position estimation chính xác hơn bao nhiêu? (3)
 > Contact consistency trên bao nhiêu %? (4) Cảm giác chủ quan: bạn có
-> thấy \'cảm\' bóng và sân tốt hơn không?
+> thấy 'cảm' bóng và sân tốt hơn không?
 
 **CHƯƠNG 14**
 
@@ -2081,7 +2081,7 @@ phòng những thách thức trong tương lai.
 **15.1 Proprioception Trong Thời Thơ Ấu Và Thiếu Niên**
 
 Hệ thống proprioceptive phát triển mạnh nhất từ 0-12 tuổi --- đây là
-\'critical window\' cho motor learning. Trẻ em học đi, chạy, nhảy thông
+'critical window' cho motor learning. Trẻ em học đi, chạy, nhảy thông
 qua trial-and-error proprioceptive learning --- não đang build motor
 programs từ đầu với neuroplasticity cao nhất.
 
@@ -2108,13 +2108,13 @@ training cần lâu hơn. Nhưng adults có một lợi thế quan trọng:
 metacognition --- khả năng suy nghĩ về chính quá trình học của mình và
 deliberately guide nó.
 
-Adult learners có thể explicitly understand what they\'re trying to
+Adult learners có thể explicitly understand what they're trying to
 develop và direct attention accordingly --- điều này compensate cho
 slower neuroplasticity. Đây là lý do tại sao cuốn sách này viết ở level
 conceptual cao --- giúp bạn understand để practice smarter.
 
 > **📋 HLV GHI CHÚ:** Level 3.0 adult players thường frustrated vì
-> progress \'chậm\'. Nhưng so sánh với junior players là không fair ---
+> progress 'chậm'. Nhưng so sánh với junior players là không fair ---
 > brain biology khác nhau. So sánh mình với chính mình 6 tháng trước.
 > Consistent improvement, ngay cả chậm, là success.
 
@@ -2127,7 +2127,7 @@ impact có thể được significantly minimized thông qua active training.
 
 Nghiên cứu cho thấy athletes 50-60 tuổi với history of proprioceptive
 training có function cao hơn đáng kể so với non-active people 30 tuổi.
-\'Use it or lose it\' hoàn toàn apply với proprioception --- đây là
+'Use it or lose it' hoàn toàn apply với proprioception --- đây là
 strongest argument cho maintain an active tennis and training lifestyle.
 
 Adaptations cho players 40+: tập với lower intensity nhưng higher
@@ -2183,7 +2183,7 @@ này giúp adjust training intensity appropriately.
 
 Khoảng cách giữa tập luyện tốt và thi đấu tốt là một trong những thách
 thức lớn nhất của tennis. Nhiều kỹ năng được phát triển trong tập luyện
-\'biến mất\' khi bước vào trận đấu thực sự. Proprioception đặc biệt dễ
+'biến mất' khi bước vào trận đấu thực sự. Proprioception đặc biệt dễ
 bị ảnh hưởng bởi competition anxiety.
 
 **16.1 Competition Anxiety Và Proprioception**
@@ -2199,20 +2199,20 @@ function bị compromised: muscle hypertonicity giảm spindle sensitivity,
 breathing disruption ảnh hưởng core stability, và attention narrowing
 làm mất body awareness.
 
-Kết quả: trong trận đấu quan trọng, nhiều players thấy kỹ thuật \'lạ
-hơn\', footwork \'nặng hơn\', và contact point \'không chuẩn\'. Đây
+Kết quả: trong trận đấu quan trọng, nhiều players thấy kỹ thuật 'lạ
+hơn', footwork 'nặng hơn', và contact point 'không chuẩn'. Đây
 không phải imagination --- đây là real physiological effect of anxiety
 on proprioception.
 
 ***Optimal Arousal Zone --- Vùng Kích Thích Tối Ưu***
 
-Mỗi người có \'optimal arousal zone\' --- mức excitement/anxiety tại đó
+Mỗi người có 'optimal arousal zone' --- mức excitement/anxiety tại đó
 performance cao nhất. Dưới vùng này: too relaxed, lack of focus. Trên
 vùng này: too anxious, proprioception compromised.
 
 Nhận biết optimal zone của mình là kỹ năng meta-cognitive quan trọng.
-Thường được mô tả là: \'hơi excited nhưng cảm thấy sharp và focused,
-không phải lo lắng.\' Từ đó, develop strategies để enter optimal zone
+Thường được mô tả là: 'hơi excited nhưng cảm thấy sharp và focused,
+không phải lo lắng.' Từ đó, develop strategies để enter optimal zone
 before competition --- không phải để eliminate nervousness, mà để
 calibrate nó.
 
@@ -2230,7 +2230,7 @@ shadow footwork với court mapping awareness, 2 phút breathing exercises
 
 Sau physical warm-up, 5-10 phút rally với HLV hoặc wall để calibrate
 ball feel --- bắt đầu từ mid-court với soft balls, gradually increase
-intensity. Mục tiêu: proprioception \'tuned in\' trước khi match bắt
+intensity. Mục tiêu: proprioception 'tuned in' trước khi match bắt
 đầu.
 
 > **📋 HLV GHI CHÚ:** Professional players thường có 45-60 phút warm-up
@@ -2262,7 +2262,7 @@ Những chiến lược proprioceptive cụ thể có thể được sử dụng
 play để maintain và restore proprioceptive function: First game focus
 --- tập trung hoàn toàn vào proprioception trong 1-2 game đầu. Không
 nghĩ về chiến thuật, chỉ về body feel: feet, balance, contact point. Khi
-proprioception \'warmed up\' và calibrated, tactical thinking có thể
+proprioception 'warmed up' và calibrated, tactical thinking có thể
 follow naturally.
 
 Changeover reset: ở mỗi changeover, sử dụng thời gian để complete
@@ -2270,7 +2270,7 @@ proprioceptive reset --- không chỉ uống nước và suy nghĩ về chiến 
 Feet massage, breathing exercises, gentle shoulder rolls, và body scan
 để check tension.
 
-Momentum breaks: khi bạn \'on a roll\' và making errors, momentum đang
+Momentum breaks: khi bạn 'on a roll' và making errors, momentum đang
 against you. Đây thường là dấu hiệu proprioception bị disrupted bởi
 excitement hoặc frustration. Slow down deliberately --- take extra time
 between points, use the full 25 seconds --- để restore proprioceptive
@@ -2342,8 +2342,8 @@ patterns với elite player benchmarks.
 
 Quan trọng: AI video analysis nên supplement, không replace, subjective
 proprioceptive awareness. Mục tiêu là để external data confirm và
-calibrate internal sensation --- khi bạn \'feel\' forehand đúng, video
-confirms; khi bạn \'feel\' đúng nhưng video shows otherwise, đây là
+calibrate internal sensation --- khi bạn 'feel' forehand đúng, video
+confirms; khi bạn 'feel' đúng nhưng video shows otherwise, đây là
 signal proprioception cần recalibration.
 
 > **📋 HLV GHI CHÚ:** Chỉ có một nguy cơ với technology tools:
@@ -2389,14 +2389,14 @@ loading, contact point position relative to body. Ghi chép observations
 và compare với your proprioceptive FEEL của cùng cú đó.
 
 Khi external visual (video) và internal proprioceptive (feel) không
-match --- đây là most valuable learning opportunity. Không phải \'tôi
-cảm thấy đúng nhưng hóa ra sai\'. Mà là \'hệ thống proprioception của
-tôi đang misinforming tôi về điểm này --- cần recalibrate.\'
+match --- đây là most valuable learning opportunity. Không phải 'tôi
+cảm thấy đúng nhưng hóa ra sai'. Mà là 'hệ thống proprioception của
+tôi đang misinforming tôi về điểm này --- cần recalibrate.'
 
 > **✅ TỰ KIỂM TRA:** Tuần này: record một full match hoặc 30 phút
 > practice session. Review footage với focus ONLY on one proprioceptive
 > element (chọn một: split-step timing, hip rotation timing, hoặc
-> contact point position). Ghi lại tỷ lệ \'đúng\' vs \'sai\' và những
+> contact point position). Ghi lại tỷ lệ 'đúng' vs 'sai' và những
 > patterns bạn thấy. Đây là baseline để track improvement trong 4 tuần
 > tiếp theo.
 
@@ -2423,24 +2423,24 @@ changed. Giống như xây nhà --- months of foundation work trước khi walls
 go up.
 
 Tôi thường nói với học viên: nếu bạn tập đúng method, consistent, với
-quality attention --- change là inevitable. Không phải \'có thể\', không
-phải \'hy vọng\'. Inevitable. Brain biology guarantee điều đó.
+quality attention --- change là inevitable. Không phải 'có thể', không
+phải 'hy vọng'. Inevitable. Brain biology guarantee điều đó.
 
 **18.2 Mistakes Là Data, Không Phải Thất Bại**
 
 Một trong những mindset shifts quan trọng nhất cho proprioceptive
 development: treat mistakes như data, không như failures. Mỗi lỗi kỹ
-thuật chứa proprioceptive information: \'Tôi thấy không chuẩn ở đâu?\'
-\'Cảm giác cơ thể của tôi khi làm sai là gì?\' \'Sự khác biệt giữa cảm
-giác đúng và sai là gì?\'
+thuật chứa proprioceptive information: 'Tôi thấy không chuẩn ở đâu?'
+'Cảm giác cơ thể của tôi khi làm sai là gì?' 'Sự khác biệt giữa cảm
+giác đúng và sai là gì?'
 
-Người chơi với fixed mindset về mistakes (\'tôi kém quá\', \'tôi không
-có năng khiếu\') mất đi proprioceptive information quan trọng vì họ rush
+Người chơi với fixed mindset về mistakes ('tôi kém quá', 'tôi không
+có năng khiếu') mất đi proprioceptive information quan trọng vì họ rush
 để cover up mistake và move on. Người chơi với growth mindset dừng lại,
 physically feel the error, và mentally note the proprioceptive signature
 của nó.
 
-Carol Dweck\'s research về growth mindset trong education hoàn toàn
+Carol Dweck's research về growth mindset trong education hoàn toàn
 applicable cho tennis learning --- và đặc biệt cho proprioceptive
 development vì nó là inherently slow, unsexy, internal process không có
 immediate visible results.
@@ -2456,9 +2456,9 @@ score, ranking. Điều này là understandable nhưng problematic cho
 proprioceptive development vì proprioception là internal, không seldom
 visible trong short-term results.
 
-Develop internal metrics của success: \'Hôm nay contact point có
-consistent hơn không?\' \'Split-step timing có tốt hơn so với tuần trước
-không?\' \'Tôi có maintain balance sau forehand mạnh tốt hơn không?\'
+Develop internal metrics của success: 'Hôm nay contact point có
+consistent hơn không?' 'Split-step timing có tốt hơn so với tuần trước
+không?' 'Tôi có maintain balance sau forehand mạnh tốt hơn không?'
 Những câu hỏi này reveal proprioceptive progress mà scoreboard không
 show.
 
@@ -2469,18 +2469,18 @@ pay off.
 
 **18.4 Deliberate Practice Và Proprioception**
 
-Anders Ericsson\'s deliberate practice framework --- không phải simply
+Anders Ericsson's deliberate practice framework --- không phải simply
 practicing, mà là practicing với specific feedback, working on edges of
 current ability, và full cognitive engagement --- perfectly describes
 effective proprioceptive training.
 
 Deliberate proprioceptive practice: có specific target (ví dụ,
-\'decelerate hoàn toàn trước mỗi forehand trong session này\'), full
+'decelerate hoàn toàn trước mỗi forehand trong session này'), full
 attention engagement (không tập trong khi nói chuyện hay distracted),
 immediate feedback (tự đánh giá sau mỗi rep), và progressive difficulty
 (tăng challenge khi target được achieved consistently).
 
-Contrast này với \'mindless hitting\' --- đánh 200 bóng với autopilot
+Contrast này với 'mindless hitting' --- đánh 200 bóng với autopilot
 không có specific proprioceptive target. Mindless hitting reinforces
 existing patterns, dù tốt hay xấu, và tạo ra minimal neural adaptation
 mới.
@@ -2520,8 +2520,8 @@ play.
 **19.1 Roger Federer: Proprioception Của Nghệ Sĩ**
 
 Roger Federer được gọi là greatest của mọi thời đại không chỉ vì kết quả
-thi đấu --- mà vì style của ông. Chuyển động của Federer \'effortless\',
-kỹ thuật \'perfect\', và control \'extraordinary\'. Những điều này không
+thi đấu --- mà vì style của ông. Chuyển động của Federer 'effortless',
+kỹ thuật 'perfect', và control 'extraordinary'. Những điều này không
 phải magic --- chúng là biểu hiện của proprioception ở level cao nhất có
 thể đạt được.
 
@@ -2539,7 +2539,7 @@ tinh tế để eliminate redundant movements và chỉ giữ lại necessary on
 
 ***SABR --- Sneak Attack By Roger***
 
-Federer\'s SABR --- sudden advance và block return của serve --- là ví
+Federer's SABR --- sudden advance và block return của serve --- là ví
 dụ extreme của proprioceptive confidence. Ông advance 3-4m so với normal
 return position và block bóng trở lại với precision cao. Điều này đòi
 hỏi proprioceptive awareness về timing, position, và racket control
@@ -2552,7 +2552,7 @@ cơ thể có thể handle unexpected situations.
 
 **19.2 Rafael Nadal: Proprioception Của Chiến Binh**
 
-Nadal\'s game là về power, intensity, và resilience --- và
+Nadal's game là về power, intensity, và resilience --- và
 proprioception của ông phản ánh điều đó. Ability của ông để generate
 extreme topspin từ defensive positions, maintain balance khi fully
 extended, và recover nhanh từ defensive shots đều là proprioceptive
@@ -2562,7 +2562,7 @@ Clay court sliding --- technique signature của Nadal --- là excellent
 example. Khi sliding, trọng lượng phân bổ dynamic thay đổi liên tục,
 surface đang move dưới bàn chân, và cơ thể phải maintain balance trong
 chuyển động phức tạp. Proprioception ở ankle và hip đặc biệt critical.
-Nadal\'s sliding is so controlled ông có thể execute full power forehand
+Nadal's sliding is so controlled ông có thể execute full power forehand
 từ fully slid position.
 
 Defensive forehand của Nadal --- đánh powerful forehand khi pushed far
@@ -2574,18 +2574,18 @@ seconds.
 
 **19.3 Novak Djokovic: Proprioception Của Khoa Học**
 
-Djokovic\'s game là most technically complete trong lịch sử tennis ---
+Djokovic's game là most technically complete trong lịch sử tennis ---
 và proprioception là một phần lớn lý do. Flexibility của ông, split-step
 timing, return of serve, và two-handed backhand đều dựa trên
 proprioceptive precision ở highest level.
 
-Return of serve là perhaps showcase tốt nhất của Djokovic\'s
+Return of serve là perhaps showcase tốt nhất của Djokovic's
 proprioception. Ông consistently returns top-10 servers --- 220+ km/h
 serves --- với depth, direction, và spin. Điều này đòi hỏi anticipatory
-proprioception --- đọc subtle cues từ server\'s body motion và
+proprioception --- đọc subtle cues từ server's body motion và
 pre-positioning cơ thể trong fraction of a second.
 
-Djokovic\'s flexibility --- demonstrated bởi his famous splits to return
+Djokovic's flexibility --- demonstrated bởi his famous splits to return
 low balls --- không chỉ là kiểu hip flexibility. Nó là ability để
 maintain proprioceptive control trong extreme range of motion. Most
 players ở extreme hip flexion position mất proprioceptive feedback ---
@@ -2613,12 +2613,12 @@ họ dành cho body sensations, recovery, nutrition, và detailed analysis
 của own movement. Đây là foundation của elite proprioception.
 
 Start where you are. Use what you have. Do what you can. Proprioception
-ở level 3.0 không cần look like Federer\'s --- nó chỉ cần be better than
+ở level 3.0 không cần look like Federer's --- nó chỉ cần be better than
 nó was yesterday.
 
 > **🎾 BÀI TẬP:** ELITE MODELING DRILL: Chọn MỘT characteristic của một
-> elite player bạn admire (ví dụ: Djokovic\'s split-step timing,
-> Federer\'s follow-through position, Nadal\'s recovery sprint). Watch
+> elite player bạn admire (ví dụ: Djokovic's split-step timing,
+> Federer's follow-through position, Nadal's recovery sprint). Watch
 > slow-motion video của player đó 10 lần, focusing on proprioceptive
 > cues. Sau đó imagery yourself doing the same movement 5 lần với
 > kinaesthetic detail. Sau đó practice on court với that specific focus.
@@ -2656,7 +2656,7 @@ improvement.
 Level 3.0 đến 3.5 là một trong những bước nhảy quan trọng nhất trong
 tennis. Sự khác biệt không phải chủ yếu về power hay speed --- mà về
 consistency, body control, và proprioceptive precision. Player 3.5 ít
-mắc unforced errors không phải vì họ biết kỹ thuật \'đúng\' hơn --- mà
+mắc unforced errors không phải vì họ biết kỹ thuật 'đúng' hơn --- mà
 vì auto-correction system của họ hoạt động tốt hơn, nhờ proprioception
 tinh tế hơn.
 
@@ -2686,10 +2686,10 @@ apply naturally trong match play.
 Tháng 3-4: Deepening --- chọn 2-3 areas yếu nhất của proprioception và
 deep dive. Không phải tất cả cùng lúc --- specificity tạo ra faster
 improvement. Tháng 5-6: Integration --- bring proprioceptive awareness
-into competitive play completely naturally. Nếu bạn vẫn còn \'thinking
-about\' proprioception, cần thêm time. Mục tiêu: performance improves
-không phải because you\'re thinking about proprioception, nhưng because
-you\'re not needing to.
+into competitive play completely naturally. Nếu bạn vẫn còn 'thinking
+about' proprioception, cần thêm time. Mục tiêu: performance improves
+không phải because you're thinking about proprioception, nhưng because
+you're not needing to.
 
 Sau 6 tháng: reassess với baseline tests. Compare với initial measures.
 Celebrate genuine progress. Và set new targets --- vì proprioceptive

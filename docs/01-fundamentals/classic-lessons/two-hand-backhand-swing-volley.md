@@ -6,8 +6,7 @@ Swing Volley**
 **Chris Lewit**
 
 ![A person playing tennis Description automatically
-generated](media_two-hand-backhand-swing-volley/media/image1.jpg){width="3.8194444444444446in"
-height="4.944444444444445in"}
+generated](media_two-hand-backhand-swing-volley/media/image1.jpg)
 
 **The two hand backhand swing volley: now commonplace on the tour.**
 
@@ -23,7 +22,7 @@ one-handed backhand swing volley.
 
 **Building The Backhand**
 
-Here\'s how I build this shot - my priorities and the reminders that I
+Here's how I build this shot - my priorities and the reminders that I
 give to my students. The key point is that footwork and positioning are
 everything
 
@@ -44,8 +43,7 @@ footwork setups to my students so that they have all the tools that they
 need to handle floaters out of the air.
 
 ![A person in a blue dress Description automatically generated with low
-confidence](media_two-hand-backhand-swing-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image2.webp)
 
 **I teach my students to position with a stable base and a neutral or
 closed stance.**
@@ -58,7 +56,7 @@ many players try to kill the ball out of the air and hit it too flat and
 strong. They catch the net or the ball flies out.
 
 Whipping the racquet head through the impact creates brush that is
-essential to the safety of the shot. Players can\'t be stiff or tense
+essential to the safety of the shot. Players can't be stiff or tense
 with their forearms and wrists or the shot often catches the net - a
 very common mistake on swinging volley attacks.
 
@@ -73,17 +71,16 @@ ball out of the air - maybe the psychological pressure or expectation -
 that causes a lot of net errors.
 
 ![A person holding a tennis racket Description automatically
-generated](media_two-hand-backhand-swing-volley/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_two-hand-backhand-swing-volley/media/image3.webp)
 
 **Whipping the racket head to brush the ball creates control.**
 
 I tell my students that their decision to move forward and take time
 away by hitting the ball in the air from the midcourt is already de
-facto aggressive. They don\'t need to go too big. Just good
+facto aggressive. They don't need to go too big. Just good
 acceleration, topspin and placement.
 
-They are in command of the point and don\'t want to give away an error
+They are in command of the point and don't want to give away an error
 from this strong position. The best players spin and control the swing
 volley. You win with courage and taking time, not sheer velocity.
 
@@ -103,8 +100,7 @@ but fear nothing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-hand-backhand-swing-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image4.webp)
 
 **The ideal contact is between the hip and shoulder.**
 
@@ -124,16 +120,15 @@ the double handed backhand that I teach first to my students. Players
 step down into the shot with the front foot and explode up and in,
 landing on the front foot, with a back leg kickback.
 
-It\'s important to leave extra spacing because the body will be
+It's important to leave extra spacing because the body will be
 exploding forward to the ball. Players need to be taught to leave more
-distance than a normal backhand to accommodate the forward leap. It\'s
+distance than a normal backhand to accommodate the forward leap. It's
 critical to position well to allow space to get good extension and
 acceleration during the jumping phase of the backhand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-hand-backhand-swing-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image4.webp)
 
 **The front foot attack: step into shot, upward explosion, front foot
 landing, back leg kick back.**
@@ -147,20 +142,19 @@ forward diagonal jump to the ball, finishing with a left leg back kick.
 This is a nice variation that player use typically when moving laterally
 and forward towards the sideline of the court.
 
-It\'s also a common jumping backhand technique on the return of serve.
+It's also a common jumping backhand technique on the return of serve.
 In fact, all of these three jumping techniques are found on the return
 of serve, especially to receive high kicking balls.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-hand-backhand-swing-volley/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image4.webp)
 
 **Another jumping variation: semi-open stance and forward diagonal
 jump.**
 
 The Razzle Dazzle or the knee up jump is the third jumping variation.
-This is a highlight reel backhand shot that I love to teach. It\'s
+This is a highlight reel backhand shot that I love to teach. It's
 popular on Tour and a crowd pleaser, although it takes more timing and
 coordination than the first two techniques. I teach it to my advanced
 players.
@@ -171,7 +165,7 @@ their front leg only. Players often find this challenging to coordinate
 at first.
 
 The raised knee and leg act as a midair anchor as the upper body rotates
-during racquet acceleration. It\'s not really essential but I like to
+during racquet acceleration. It's not really essential but I like to
 teach it to my students for their style, and also to challenge their
 coordination.
 
@@ -192,23 +186,22 @@ the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-hand-backhand-swing-volley/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image5.webp)
 
 **When you are taking the ball out of the air, command the midcourt.**
 
 **Transitioning To Net**
 
-It\'s generally a good idea to take the swing volley and plan a
-transition to the net. That\'s a very common and good approach tactic.
+It's generally a good idea to take the swing volley and plan a
+transition to the net. That's a very common and good approach tactic.
 However, sometimes a player will just take command out of the air and
 stay in the midcourt looking to finish with another swing volley if the
 ball comes back. I accept this strategy too.
 
 A shorter angle swing volley cross court is an awesome shot and I try to
-practice this one with my students. It\'s important that players
+practice this one with my students. It's important that players
 understand the power of the crosscourt attack but also the danger. When
-attacking cross, it\'s essential that the player cover the open court
+attacking cross, it's essential that the player cover the open court
 down the line.
 
 Another common pattern is to hit an attack swinging volley down the
@@ -223,8 +216,7 @@ these basic strategic concepts to my students.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_two-hand-backhand-swing-volley/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_two-hand-backhand-swing-volley/media/image5.webp)
 
 **A deadly combination: a swing volley and a traditional angle volley or
 drop shot.**
@@ -245,8 +237,7 @@ hesitation. I am looking forward to discussing the beautiful and elegant
 swinging one-handed backhand volley next time. Vamos!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_two-hand-backhand-swing-volley/media/image6.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_two-hand-backhand-swing-volley/media/image6.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -263,14 +254,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_two-hand-backhand-swing-volley/media/image7.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_two-hand-backhand-swing-volley/media/image7.jpeg)
 
 **The Secrets of Spanish Tennis**
 

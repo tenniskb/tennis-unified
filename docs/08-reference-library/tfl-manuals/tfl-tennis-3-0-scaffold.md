@@ -16,16 +16,16 @@ FRAMEWORK RPM
 
 *Reactive Perception-Movement*
 
-+:---------------------:+:---------------------:+:---------------------:+
-| **R --- READ**        | **P --- POSITION**    | **M --- MOVE**        |
-|                       |                       |                       |
-| *Nhận thức Phản xạ*   | *Nội lực & Alignment* | *Vận động Chủ động*   |
-|                       |                       |                       |
-| Perception loop: mắt  | Trục cơ thể, Đan      | Bộ pháp phản xạ từ    |
-| đọc bóng → não dự     | Điền, nội lực căn     | trạng thái sẵn sàng   |
-| đoán → cơ thể chuẩn   | chỉnh trước di chuyển | bên trong             |
-| bị                    |                       |                       |
-+-----------------------+-----------------------+-----------------------+
+| **R --- READ** | **P --- POSITION** | **M --- MOVE** |
+| --- | --- | --- |
+|  |  |  |
+| *Nhận thức Phản xạ* | *Nội lực & Alignment* | *Vận động Chủ động* |
+|  |  |  |
+| Perception loop: mắt | Trục cơ thể, Đan | Bộ pháp phản xạ từ |
+| đọc bóng → não dự | Điền, nội lực căn | trạng thái sẵn sàng |
+| đoán → cơ thể chuẩn | chỉnh trước di chuyển | bên trong |
+| bị |  |  |
+
 
 **Triết lý Tennis Future Lab:**
 
@@ -37,88 +37,69 @@ trạng thái trước khi đánh.
 
 MỤC LỤC
 
-+:------:+----------------------------------------------------------------+
-| **1**  | **Bản Đồ Vận Động Của Bạn Đang Sai Ở Đâu?**                    |
-|        |                                                                |
-|        | *Tái lập motor map từ cấp 3.0*                                 |
-+--------+----------------------------------------------------------------+
-| **2**  | **Naive Practice vs Deliberate Practice**                      |
-|        |                                                                |
-|        | *Tại sao đánh nhiều mà không lên trình*                        |
-+--------+----------------------------------------------------------------+
-| **3**  | **Giới Thiệu Framework RPM**                                   |
-|        |                                                                |
-|        | *Reactive Perception-Movement --- hệ thống xuyên suốt tài      |
-|        | liệu*                                                          |
-+--------+----------------------------------------------------------------+
-| **4**  | **Đan Điền, Trục Cột Sống & Nội Lực Nền Tảng**                 |
-|        |                                                                |
-|        | *Nguyên lý nội gia ứng dụng vào tennis*                        |
-+--------+----------------------------------------------------------------+
-| **5**  | **Ball Tracking --- Đọc Bóng Trước Khi Bóng Tới**              |
-|        |                                                                |
-|        | *Visual perception và dự đoán quỹ đạo*                         |
-+--------+----------------------------------------------------------------+
-| **6**  | **Split Step --- Điểm Nảy Quyết Định Tất Cả**                  |
-|        |                                                                |
-|        | *Timing, loading và neurological readiness*                    |
-+--------+----------------------------------------------------------------+
-| **7**  | **Đọc Ý Định Đối Thủ**                                         |
-|        |                                                                |
-|        | *Kinematic cues và anticipation training*                      |
-+--------+----------------------------------------------------------------+
-| **8**  | **Perception Under Pressure**                                  |
-|        |                                                                |
-|        | *Duy trì đọc bóng khi cognitive load cao*                      |
-+--------+----------------------------------------------------------------+
-| **9**  | **Ground Reaction Forces**                                     |
-|        |                                                                |
-|        | *Mượn lực từ mặt đất --- nền tảng của mọi cú đánh*             |
-+--------+----------------------------------------------------------------+
-| **10** | **Kinetic Chain --- Chuỗi Động Lực**                           |
-|        |                                                                |
-|        | *Dòng chảy năng lượng từ gót chân đến ngón tay*                |
-+--------+----------------------------------------------------------------+
-| **11** | **Spiral Engine --- Động Cơ Xoắn Ốc**                          |
-|        |                                                                |
-|        | *Xoắn đa chiều thay vì chuyển động ngang tuyến tính*           |
-+--------+----------------------------------------------------------------+
-| **12** | **Thả Lỏng & Gia Tốc**                                         |
-|        |                                                                |
-|        | *Power thật sự đến từ elastic release, không từ gồng cơ*       |
-+--------+----------------------------------------------------------------+
-| **13** | **Giao Thức 5R --- Khung Di Chuyển Elite**                     |
-|        |                                                                |
-|        | *Ready, Read, React, Respond, Recover*                         |
-+--------+----------------------------------------------------------------+
-| **14** | **Crossover Step & Recovery**                                  |
-|        |                                                                |
-|        | *Bao sân với số bước ít nhất*                                  |
-+--------+----------------------------------------------------------------+
-| **15** | **Open Stance vs Closed Stance**                               |
-|        |                                                                |
-|        | *Lựa chọn tư thế theo quỹ đạo bóng và áp lực thời gian*        |
-+--------+----------------------------------------------------------------+
-| **16** | **Run-Around Forehand**                                        |
-|        |                                                                |
-|        | *Di chuyển né trái đánh phải --- vũ khí tấn công từ cánh trái* |
-+--------+----------------------------------------------------------------+
-| **17** | **Defensive Deep Ball Footwork**                               |
-|        |                                                                |
-|        | *Tạo lực khi bị đẩy lùi sau baseline*                          |
-+--------+----------------------------------------------------------------+
-| **18** | **Winning Patterns --- Xây Kịch Bản Ghi Điểm**                 |
-|        |                                                                |
-|        | *3 pattern chủ lực và cách luyện tập theo xác suất*            |
-+--------+----------------------------------------------------------------+
-| **19** | **Cognitive Load Management**                                  |
-|        |                                                                |
-|        | *Lọc nhiễu tư duy khi thi đấu áp lực cao*                      |
-+--------+----------------------------------------------------------------+
-| **20** | **Hệ Thống Tự Huấn Luyện Dài Hạn**                             |
-|        |                                                                |
-|        | *Micro-chunking, video feedback và chu kỳ tiến bộ bền vững*    |
-+--------+----------------------------------------------------------------+
+| **1** | **Bản Đồ Vận Động Của Bạn Đang Sai Ở Đâu?** |
+| --- | --- |
+|  |  |
+|  | *Tái lập motor map từ cấp 3.0* |
+| **2** | **Naive Practice vs Deliberate Practice** |
+|  |  |
+|  | *Tại sao đánh nhiều mà không lên trình* |
+| **3** | **Giới Thiệu Framework RPM** |
+|  |  |
+|  | *Reactive Perception-Movement --- hệ thống xuyên suốt tài |
+|  | liệu* |
+| **4** | **Đan Điền, Trục Cột Sống & Nội Lực Nền Tảng** |
+|  |  |
+|  | *Nguyên lý nội gia ứng dụng vào tennis* |
+| **5** | **Ball Tracking --- Đọc Bóng Trước Khi Bóng Tới** |
+|  |  |
+|  | *Visual perception và dự đoán quỹ đạo* |
+| **6** | **Split Step --- Điểm Nảy Quyết Định Tất Cả** |
+|  |  |
+|  | *Timing, loading và neurological readiness* |
+| **7** | **Đọc Ý Định Đối Thủ** |
+|  |  |
+|  | *Kinematic cues và anticipation training* |
+| **8** | **Perception Under Pressure** |
+|  |  |
+|  | *Duy trì đọc bóng khi cognitive load cao* |
+| **9** | **Ground Reaction Forces** |
+|  |  |
+|  | *Mượn lực từ mặt đất --- nền tảng của mọi cú đánh* |
+| **10** | **Kinetic Chain --- Chuỗi Động Lực** |
+|  |  |
+|  | *Dòng chảy năng lượng từ gót chân đến ngón tay* |
+| **11** | **Spiral Engine --- Động Cơ Xoắn Ốc** |
+|  |  |
+|  | *Xoắn đa chiều thay vì chuyển động ngang tuyến tính* |
+| **12** | **Thả Lỏng & Gia Tốc** |
+|  |  |
+|  | *Power thật sự đến từ elastic release, không từ gồng cơ* |
+| **13** | **Giao Thức 5R --- Khung Di Chuyển Elite** |
+|  |  |
+|  | *Ready, Read, React, Respond, Recover* |
+| **14** | **Crossover Step & Recovery** |
+|  |  |
+|  | *Bao sân với số bước ít nhất* |
+| **15** | **Open Stance vs Closed Stance** |
+|  |  |
+|  | *Lựa chọn tư thế theo quỹ đạo bóng và áp lực thời gian* |
+| **16** | **Run-Around Forehand** |
+|  |  |
+|  | *Di chuyển né trái đánh phải --- vũ khí tấn công từ cánh trái* |
+| **17** | **Defensive Deep Ball Footwork** |
+|  |  |
+|  | *Tạo lực khi bị đẩy lùi sau baseline* |
+| **18** | **Winning Patterns --- Xây Kịch Bản Ghi Điểm** |
+|  |  |
+|  | *3 pattern chủ lực và cách luyện tập theo xác suất* |
+| **19** | **Cognitive Load Management** |
+|  |  |
+|  | *Lọc nhiễu tư duy khi thi đấu áp lực cao* |
+| **20** | **Hệ Thống Tự Huấn Luyện Dài Hạn** |
+|  |  |
+|  | *Micro-chunking, video feedback và chu kỳ tiến bộ bền vững* |
+
 
 **PHẦN I --- NỀN TẢNG**
 

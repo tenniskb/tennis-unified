@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_be-wary-of-hidden-fear/media/image1.webp){width="2.7083333333333335in"
-height="1.8020833333333333in"}
+confidence](media_be-wary-of-hidden-fear/media/image1.webp)
 
 **When you see a player do something irrational, you are probably seeing
 hidden fear in action.**
@@ -21,7 +20,7 @@ which obviously hurts his chances of winning the match, you are probably
 observing hidden fear in action.
 
 A good example occurred a few years ago when I was coaching the
-Pepperdine men\'s college team at the league championship tournament.
+Pepperdine men's college team at the league championship tournament.
 Two of my players, Mike and Tom, met in the quarter-finals, and their
 positions in the team line-up hinged on the outcome of the match.
 
@@ -32,8 +31,7 @@ year and this was his big chance to prove himself.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_be-wary-of-hidden-fear/media/image2.jpg){width="2.9305555555555554in"
-                                                                       height="2.8618055555555557in"}
+   generated](media_be-wary-of-hidden-fear/media/image2.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                   After a furious three hour battle, hidden fear determined the outcome between two of my college players.
 
@@ -57,8 +55,7 @@ work!
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_be-wary-of-hidden-fear/media/image3.jpg){width="3.1913035870516184in"
-  height="3.3700153105861768in"}
+  confidence](media_be-wary-of-hidden-fear/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **After hitting two double faults in the tiebreaker, the losing player elected to serve underhanded.**
 
@@ -75,13 +72,13 @@ He did it because the tremendous stress of the situation, coupled with
 the fear that he was going to lose the match, made Mike want to escape.
 So he took the easy way out and quit.
 
-Mike didn\'t want to try anymore since he was deathly afraid he was
+Mike didn't want to try anymore since he was deathly afraid he was
 going to lose despite any efforts he might make. He was choking and he
 was afraid of his own weakness. He wanted to blame the loss on something
 besides himself, so he separated his serve from the rest of his being
 and blamed the loss on it.
 
-He didn\'t lose, his serve let him down. He didn\'t want to face the
+He didn't lose, his serve let him down. He didn't want to face the
 fact that there was nothing wrong with his serve other than the
 quavering hand that was swinging the racquet. And most of all, he did
 not want to admit any of these unpleasant facts to himself.
@@ -93,8 +90,7 @@ insurmountable.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
-  generated](media_be-wary-of-hidden-fear/media/image4.webp){width="2.7083333333333335in"
-  height="1.8020833333333333in"}
+  generated](media_be-wary-of-hidden-fear/media/image4.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Unconscious fear can make a problem like a bad line call seem insurmountable.**
 
@@ -116,7 +112,7 @@ But he subconsciously knows that the more he wants to win and the harder
 he tries, the more agonizing it will be if he loses. In fact, he really
 wants to win too much and dares not risk the agony of fighting to the
 end and losing. The safe way for him to escape this painful dilemma is
-to claim he does not want to win any more and quit. That way he can\'t
+to claim he does not want to win any more and quit. That way he can't
 lose.
 
 And this same underlying fear can magnify your problems when your
@@ -127,8 +123,7 @@ staying cool and trying to solve it, you will end up a habitual loser.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_be-wary-of-hidden-fear/media/image5.webp){width="2.7083333333333335in"
-  height="1.8020833333333333in"}
+  confidence](media_be-wary-of-hidden-fear/media/image5.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The safe way to escape the agony of fighting and possibly losing is to stop trying.**
 
@@ -160,18 +155,18 @@ automatically avoid most competitive pitfalls.]{.underline}]{.mark}**
 
 **[[When you are getting emotional during a match, take a second to ask
 yourself whether the thoughts you are having or the actions you are
-planning will help you win. If they won\'t, make an effort to change
+planning will help you win. If they won't, make an effort to change
 them to thoughts or actions that will.]{.underline}]{.mark}**
 
 **[[And finally, remember that no one cares why you lose a match. So
-don\'t waste your mental energy during match play thinking about the
+don't waste your mental energy during match play thinking about the
 good reasons you have for losing. Real as they may be, your coaches and
 friends will just get bored listening to excuses. Use your energy to
 solve your problems and figure out ways to win.]{.underline}]{.mark}**
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -180,62 +175,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                        | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_be-wary-of-hidden-fear/media/image6.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                         | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                         | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                         | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                         | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                         |                                                                                                                       |
-|                                                                                                                                                                         | [Click Here to                                                                                                        |
-|                                                                                                                                                                         | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+=========================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_be-wary-of-hidden-fear/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                        | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_be-wary-of-hidden-fear/media/image7.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                          | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                         | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                         | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                         | his first hand and very personal observations of the        |
-|                                                                                                                                                                         | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                         | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                         | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                         | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                         | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                         | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                         | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                         | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                         | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                         | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                         | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                         | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                         | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                         | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                         | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                         |                                                             |
-|                                                                                                                                                                         | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                         | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                         | 93401. The price includes shipping.                         |
-+=========================================================================================================================================================================+=============================================================+
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                           | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_be-wary-of-hidden-fear/media/image8.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                         | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                        | American player from the glory days before Open        |
-|                                                                                                                                                                        | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                        | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                        | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                        | program into an elite contender for national titles,   |
-|                                                                                                                                                                        | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                        | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                        | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                        | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                        | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                        |                                                        |
-|                                                                                                                                                                        |                                                        |
-+========================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_be-wary-of-hidden-fear/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_be-wary-of-hidden-fear/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

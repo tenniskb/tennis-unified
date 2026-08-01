@@ -9,8 +9,7 @@ Forehands**
 
 ![A picture containing person, outdoor, player, sport Description
 automatically
-generated](media_understanding-professional-forehand-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+generated](media_understanding-professional-forehand-part-1/media/image1.webp)
 
 The pillars of the Type III ATP forehand are defined by the forward
 swing, independent of the backswing and followthrough.
@@ -48,15 +47,14 @@ attributes. The interesting question is at what point is a forehand
 close enough to the model to be classified as Type III? And if not Type
 III, what?
 
-This is the question I\'m most often subjected to regarding a myriad of
+This is the question I'm most often subjected to regarding a myriad of
 male and female professional players. The Type III forehand model was
 created primarily as a template to teach the forehand to (my) developing
 players but also to serve as an empirical baseline to analyze and
 understand technique across a broad spectrum of forehands.
 
 ![A person playing tennis Description automatically
-generated](media_understanding-professional-forehand-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+generated](media_understanding-professional-forehand-part-1/media/image2.webp)
 
 How do we assess the wide variety of forehands on both tours in the
 context of the Type III attributes?
@@ -93,7 +91,7 @@ the forward swing. Positional means not.
 
 ![](media_understanding-professional-forehand-part-1/media/image3.png)
 
-Press \'play\' to hear Brian discuss further discuss and demonstrate the
+Press 'play' to hear Brian discuss further discuss and demonstrate the
 diversity of backswing types.
 
 Positional oriented backswings are predominantly elbow driven. In an
@@ -111,8 +109,7 @@ swing (and perhaps externally rotate the shoulder). This backswing type
 is seen most often for forward swings with bent elbows.
 
 ![A person playing tennis Description automatically
-generated](media_understanding-professional-forehand-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+generated](media_understanding-professional-forehand-part-1/media/image4.webp)
 
 Most forehands on both tours are hit with bent elbows.
 
@@ -152,7 +149,7 @@ the shoulder and the hand\--a distance greater for a straighter arm.
 
 ![](media_understanding-professional-forehand-part-1/media/image5.png)
 
-Press \'play\' to see Brian further explain and demonstrate the bent
+Press 'play' to see Brian further explain and demonstrate the bent
 elbow forehand and how it complicates developing vertical racquet head
 speed.
 
@@ -181,27 +178,26 @@ head at the expense of forward hand speed (Pillar 1) and linearization
 (Pillar 3). Very bent elbows (around 90 degrees) negate vertical
 contribution from shoulder internal rotation completely.
 
-So that\'s it for (most) of the hard core biomechanical theory. In the
+So that's it for (most) of the hard core biomechanical theory. In the
 second article, also in this issue, we will turn to the analysis of
 specific players including Federer, Nadal, Djokovic, Sock, Dominic
 Thiem, Garbine Mugurusa, and Simona Halep. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_02).)
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                    | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_understanding-professional-forehand-part-1/media/image6.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                   | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                 | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                 | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                 | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                 | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                 | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                 | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                 | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                 |                                                               |
-|                                                                                                                                                                                                 | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                 | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                 |                                                               |
-|                                                                                                                                                                                                 | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                 | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+=================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_understanding-professional-forehand-part-1/media/image6.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

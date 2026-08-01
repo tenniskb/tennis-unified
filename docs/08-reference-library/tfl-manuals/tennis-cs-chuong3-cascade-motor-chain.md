@@ -58,16 +58,16 @@ họ là năng lượng bị rò rỉ, bị đứt gãy, hoặc bị kích hoạ
 trong chuỗi cơ thể. Một forehand với 60% sức mạnh nhưng chuỗi hoàn chỉnh
 sẽ mạnh hơn forehand với 100% sức mạnh nhưng chuỗi bị gián đoạn.
 
-+-----------------------------------------------------------------------+
-| **🎯 Định nghĩa Cascade Motor Chain**                                 |
-|                                                                       |
+| **🎯 Định nghĩa Cascade Motor Chain** |
+| --- |
+|  |
 | Cascade Motor Chain là chuỗi kích hoạt tuần tự các segment cơ thể --- |
-| từ chân lên đến đầu vợt --- trong đó mỗi segment được kích hoạt tối   |
-| đa rồi truyền lực sang segment tiếp theo, tạo ra hiệu ứng whip (roi   |
-| da) khuếch đại lực và tốc độ theo từng bước. Đây là nguyên lý tương   |
-| tự cascade control trong hệ thống DCS công nghiệp: outer loop set     |
-| điểm cho inner loop, inner loop điều chỉnh chính xác.                 |
-+-----------------------------------------------------------------------+
+| từ chân lên đến đầu vợt --- trong đó mỗi segment được kích hoạt tối |
+| đa rồi truyền lực sang segment tiếp theo, tạo ra hiệu ứng whip (roi |
+| da) khuếch đại lực và tốc độ theo từng bước. Đây là nguyên lý tương |
+| tự cascade control trong hệ thống DCS công nghiệp: outer loop set |
+| điểm cho inner loop, inner loop điều chỉnh chính xác. |
+
 
 Điều khiến Tầng 3 khó dạy là nó vô hình --- người quan sát từ bên ngoài
 chỉ thấy kết quả (bóng nhanh và mạnh), không thấy chuỗi bên trong. Người
@@ -103,14 +103,14 @@ sequence cho inner loop. Inner loop xử lý chi tiết. Khi người chơi cố
 gắng kiểm soát có ý thức từng cơ bắp (\"giữ khuỷu tay đúng góc\"), họ
 đang bypass toàn bộ kiến trúc cascade này --- và hiệu quả giảm đáng kể.
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc cascade cho HLV**                                     |
-|                                                                       |
-| Khi dạy kỹ thuật, hãy cue vào outer hoặc middle loop --- không phải   |
-| inner loop. Ví dụ tốt: \"Đánh qua đường đó\" (outer), \"Xoay hông     |
+| **🎯 Nguyên tắc cascade cho HLV** |
+| --- |
+|  |
+| Khi dạy kỹ thuật, hãy cue vào outer hoặc middle loop --- không phải |
+| inner loop. Ví dụ tốt: \"Đánh qua đường đó\" (outer), \"Xoay hông |
 | trước\" (middle). Ví dụ kém: \"Gập khuỷu tay 110° trước khi contact\" |
-| (inner) --- cue này bypass cascade và làm cứng hệ thống.              |
-+-----------------------------------------------------------------------+
+| (inner) --- cue này bypass cascade và làm cứng hệ thống. |
+
 
 **3. Các Segment Trong Chuỗi --- Vai Trò và Kết Nối**
 
@@ -173,14 +173,14 @@ Khi vai đi trước torso, chuỗi bị đảo ngược --- outer segment (vai)
 inner segment (torso), thay vì inner đẩy outer. Kết quả là lực giảm đáng
 kể và nguy cơ chấn thương vai tăng cao.
 
-+-----------------------------------------------------------------------+
-| **🎯 Kiểm tra chuỗi shoulder**                                        |
-|                                                                       |
-| Drill: đánh forehand chậm và dừng tại contact. Hỏi người chơi: \"Lúc  |
-| tay bạn bắt đầu di chuyển, hông của bạn đang làm gì?\" Câu trả lời    |
-| đúng: \"Hông đang hoặc vừa xoay.\" Câu trả lời sai: \"Hông chưa       |
-| xoay\" hoặc \"Tôi không nhớ.\"                                        |
-+-----------------------------------------------------------------------+
+| **🎯 Kiểm tra chuỗi shoulder** |
+| --- |
+|  |
+| Drill: đánh forehand chậm và dừng tại contact. Hỏi người chơi: \"Lúc |
+| tay bạn bắt đầu di chuyển, hông của bạn đang làm gì?\" Câu trả lời |
+| đúng: \"Hông đang hoặc vừa xoay.\" Câu trả lời sai: \"Hông chưa |
+| xoay\" hoặc \"Tôi không nhớ.\" |
+
 
 **4. Timing và Trình Tự --- Thứ Tự Kích Hoạt Quyết Định Tất Cả**
 
@@ -245,14 +245,14 @@ velocity tại contact. Đây là cách tốc độ đầu vợt đạt được
   xoay nhưng vai không theo. Chuỗi bị đứt tại điểm vai. Kết quả: tay
   phải tự tạo lực từ khuỷu tay xuống, dễ chấn thương tennis elbow.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill timing check**                                             |
-|                                                                       |
-| Shadow swing với tay không cầm vợt. Đặt tay phải lên vai trái. Swing  |
-| forehand. Nếu vai trái di chuyển trước khi hông bắt đầu xoay ---      |
-| timing sai. Nếu hông xoay trước và vai được \"kéo\" theo --- timing   |
-| đúng. Drill đơn giản này phát hiện arm-driven stroke ngay lập tức.    |
-+-----------------------------------------------------------------------+
+| **🎯 Drill timing check** |
+| --- |
+|  |
+| Shadow swing với tay không cầm vợt. Đặt tay phải lên vai trái. Swing |
+| forehand. Nếu vai trái di chuyển trước khi hông bắt đầu xoay --- |
+| timing sai. Nếu hông xoay trước và vai được \"kéo\" theo --- timing |
+| đúng. Drill đơn giản này phát hiện arm-driven stroke ngay lập tức. |
+
 
 **5. Hip-Torso Disconnect --- Lỗi Phổ Biến Nhất và Tốn Kém Nhất**
 
@@ -305,15 +305,15 @@ chính:
     torso. Tập swing với band tạo resistance cho torso rotation. Buộc
     hông phải xoay trước để tạo momentum đủ kéo torso vượt resistance.
 
-+-----------------------------------------------------------------------+
-| **🎯 Lỗi coaching phổ biến**                                          |
-|                                                                       |
-| Khi thấy học viên đánh bóng thiếu lực, nhiều HLV cue ngay vào tay:    |
-| \"Vung mạnh hơn\" hoặc \"Tăng tốc qua contact.\" Đây thường là sai.   |
-| Vấn đề gốc rễ thường ở hip-torso disconnect. Cue đúng: \"Xoay hông    |
-| trước --- để hông kéo vai\" hoặc \"Cảm nhận hông lead.\" Sửa ngọn     |
-| không sửa gốc.                                                        |
-+-----------------------------------------------------------------------+
+| **🎯 Lỗi coaching phổ biến** |
+| --- |
+|  |
+| Khi thấy học viên đánh bóng thiếu lực, nhiều HLV cue ngay vào tay: |
+| \"Vung mạnh hơn\" hoặc \"Tăng tốc qua contact.\" Đây thường là sai. |
+| Vấn đề gốc rễ thường ở hip-torso disconnect. Cue đúng: \"Xoay hông |
+| trước --- để hông kéo vai\" hoặc \"Cảm nhận hông lead.\" Sửa ngọn |
+| không sửa gốc. |
+
 
 **6. Cascade Theo Từng Loại Cú Đánh --- Forehand, Volley, Serve**
 
@@ -381,15 +381,15 @@ segment tạo ra phần lớn racket head speed --- không phải toàn bộ cá
 tay. Đây là lý do serve cần được tập riêng với các drill nhấn mạnh vào
 shoulder rotation, không phải arm swing tổng thể.
 
-+-----------------------------------------------------------------------+
-| **🎯 Teaching sequence cho serve chain**                              |
-|                                                                       |
-| Dạy serve theo thứ tự ngược (reverse engineering): 1) Contact point   |
-| và pronation trước. 2) Thêm shoulder rotation. 3) Thêm trunk          |
-| rotation. 4) Thêm leg drive. 5) Tích hợp full toss và timing. Dạy từ  |
-| dưới lên (bắt đầu từ leg) thường tạo ra confusion vì học viên focus   |
-| vào lower body và quên upper body mechanics.                          |
-+-----------------------------------------------------------------------+
+| **🎯 Teaching sequence cho serve chain** |
+| --- |
+|  |
+| Dạy serve theo thứ tự ngược (reverse engineering): 1) Contact point |
+| và pronation trước. 2) Thêm shoulder rotation. 3) Thêm trunk |
+| rotation. 4) Thêm leg drive. 5) Tích hợp full toss và timing. Dạy từ |
+| dưới lên (bắt đầu từ leg) thường tạo ra confusion vì học viên focus |
+| vào lower body và quên upper body mechanics. |
+
 
 **7. Kinetic Chain Trong Điều Kiện Di Chuyển --- Open Stance và
 Recovery**
@@ -429,14 +429,14 @@ mất 0.3-0.5 giây để reset và bắt đầu di chuyển về vị trí mớ
 để chuỗi \"flow\" qua follow-through tự nhiên sẽ kết thúc ở tư thế đã
 sẵn sàng di chuyển --- tiết kiệm thời gian quý giá trong rally nhanh.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill chain + recovery**                                         |
-|                                                                       |
-| Cone drill: đặt cone tại vị trí đánh. Học viên đánh forehand, sau đó  |
-| chạy touch cone thứ hai cách 3m. Thời gian từ contact đến touch cone  |
+| **🎯 Drill chain + recovery** |
+| --- |
+|  |
+| Cone drill: đặt cone tại vị trí đánh. Học viên đánh forehand, sau đó |
+| chạy touch cone thứ hai cách 3m. Thời gian từ contact đến touch cone |
 | là metric. Tối ưu hóa follow-through để giảm thời gian này --- thường |
 | có thể giảm 0.2-0.3 giây chỉ bằng cách cải thiện cách chain kết thúc. |
-+-----------------------------------------------------------------------+
+
 
 **8. Liên Hệ Thái Cực Quyền --- Hoàn Chỉnh Kình (完整勁)**
 
@@ -472,15 +472,15 @@ không cần ý thức điều khiển --- nó tự chạy. Đây là dấu hi�
 \"không nghĩ\" nhưng chuỗi vẫn hoàn chỉnh --- tiền đề của Flow State ở
 Tầng 8.
 
-+-----------------------------------------------------------------------+
-| **🎯 Thực hành Hoàn Chỉnh Kình trong tennis**                         |
-|                                                                       |
-| Tập swing cực chậm (10% tốc độ) với focus hoàn toàn vào cảm giác lực  |
-| di chuyển qua từng segment. Không cần bóng, không cần mục tiêu. Chỉ   |
-| cần cảm nhận: lực đang ở chân, rồi ở hông, rồi ở torso, rồi ở vai,    |
-| rồi ở tay. Khi có thể \"theo dõi\" lực theo thứ tự này một cách rõ    |
-| ràng, bắt đầu tăng tốc dần.                                           |
-+-----------------------------------------------------------------------+
+| **🎯 Thực hành Hoàn Chỉnh Kình trong tennis** |
+| --- |
+|  |
+| Tập swing cực chậm (10% tốc độ) với focus hoàn toàn vào cảm giác lực |
+| di chuyển qua từng segment. Không cần bóng, không cần mục tiêu. Chỉ |
+| cần cảm nhận: lực đang ở chân, rồi ở hông, rồi ở torso, rồi ở vai, |
+| rồi ở tay. Khi có thể \"theo dõi\" lực theo thứ tự này một cách rõ |
+| ràng, bắt đầu tăng tốc dần. |
+
 
 **9. Cảm Giác Đúng --- Nhận Biết Chuỗi Hoàn Chỉnh**
 
@@ -518,16 +518,16 @@ trưng mà người chơi có thể học cách nhận biết và tìm kiếm.
 - **Cảm giác \"vung nhiều nhưng bóng chậm\":** Năng lượng bị rò rỉ tại
   một điểm trong chuỗi.
 
-+-----------------------------------------------------------------------+
-| **🎯 Bài kiểm tra chuỗi tổng hợp**                                    |
-|                                                                       |
+| **🎯 Bài kiểm tra chuỗi tổng hợp** |
+| --- |
+|  |
 | Đánh 10 forehand với mắt nhắm sau khi bóng được feed. Không nhìn bóng |
 | đi đâu --- chỉ cảm nhận chuỗi bên trong. Sau đó mở mắt và so sánh kết |
-| quả với khi mắt mở. Nếu kết quả không khác biệt nhiều, chuỗi đang     |
-| hoạt động tốt (không phụ thuộc vào visual feedback quá nhiều). Nếu    |
-| kết quả tệ hơn nhiều, proprioception và chain integration chưa đủ     |
-| mạnh.                                                                 |
-+-----------------------------------------------------------------------+
+| quả với khi mắt mở. Nếu kết quả không khác biệt nhiều, chuỗi đang |
+| hoạt động tốt (không phụ thuộc vào visual feedback quá nhiều). Nếu |
+| kết quả tệ hơn nhiều, proprioception và chain integration chưa đủ |
+| mạnh. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 3**
 
@@ -621,16 +621,16 @@ hợp.
   rộng (di chuyển + swing)                                   shots**
   ------------------------------ ------------- ------------- -------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển Tầng 4**                                       |
-|                                                                       |
-| Tầng 4 (MPC --- Model Predictive Control) đòi hỏi Cascade Chain đã    |
-| được internalized đến mức không cần ý thức theo dõi. Chỉ chuyển lên   |
-| Tầng 4 khi người chơi đạt 4/5 KPI ở ngưỡng \"tốt\" và khi chain hoàn  |
-| chỉnh ngay cả trong điều kiện di chuyển nhanh (Drill 5). Lý do: MPC   |
-| yêu cầu cognitive bandwidth để xử lý tactical prediction --- nếu      |
-| chain vẫn cần attention, không còn bandwidth cho MPC.                 |
-+-----------------------------------------------------------------------+
+| **🎯 Nguyên tắc chuyển Tầng 4** |
+| --- |
+|  |
+| Tầng 4 (MPC --- Model Predictive Control) đòi hỏi Cascade Chain đã |
+| được internalized đến mức không cần ý thức theo dõi. Chỉ chuyển lên |
+| Tầng 4 khi người chơi đạt 4/5 KPI ở ngưỡng \"tốt\" và khi chain hoàn |
+| chỉnh ngay cả trong điều kiện di chuyển nhanh (Drill 5). Lý do: MPC |
+| yêu cầu cognitive bandwidth để xử lý tactical prediction --- nếu |
+| chain vẫn cần attention, không còn bandwidth cho MPC. |
+
 
 **--- Kết thúc Chương 3 ---**
 

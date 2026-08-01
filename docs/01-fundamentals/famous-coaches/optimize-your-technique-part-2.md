@@ -57,7 +57,7 @@ Contrary to popular belief, your feet do not always land together on the
 split step. In fact, in most cases, your feet do not land together. 
 
 What actually occurs is that you time the split step so you are in the
-air when the ball comes off your opponent\'s racquet and you are able to
+air when the ball comes off your opponent's racquet and you are able to
 determine the direction the ball is being hit before you land. The
 result is that your foot farthest from the ball lands first, while your
 foot closest to the ball actually turns to point in the direction of the
@@ -70,7 +70,7 @@ action - leave it to instinct. Rather I would suggest focusing on the
 timing of your split step.
 
   ------------------------------------------------------------------------------------------------
-  **To order Nick Saviano\'s book Maximum Tennis: 10 Keys to Unleashing Your On-Court Potential **
+  **To order Nick Saviano's book Maximum Tennis: 10 Keys to Unleashing Your On-Court Potential **
   [**click
   here**](http://www.humankinetics.com/products/showproduct.cfm?isbn=0736042008#words_of_praise)
   **.**
@@ -88,13 +88,12 @@ you do not want to take your racquet back at this stage. However, the
 rotation of the shoulders along with a slight move back of the elbow of
 your racquet arm contribute to the initial racquet preparation.
 
-+-------------------------+-------------------------+-------------------------+
-|                         |                         |                         |
-+:=======================:+:=======================:+:=======================:+
-| Serena Williams just landing from her split step, starting the unit turn,   |
-| and in the initial stage of preparing her racquet and tracking the ball.    |
-| Note how little she has moved the racquet independently up to this point.   |
-+-----------------------------------------------------------------------------+
+|  |  |  |
+| --- | --- | --- |
+| Serena Williams just landing from her split step, starting the unit turn, |  |  |
+| and in the initial stage of preparing her racquet and tracking the ball. |  |  |
+| Note how little she has moved the racquet independently up to this point. |  |  |
+
 
 ### Movement to the Ball or Tracking
 
@@ -173,14 +172,13 @@ style, not fundamentals; therefore, they won't be dealt with here. The
 main thing is to avoid extremes and to get a good rotation of your upper
 body.
 
-+-------------------------+-------------------------+-------------------------+
-|                         |                         |                         |
-+:=======================:+:=======================:+:=======================:+
-| **Williams hits a backhand with an open stance. Lindsay Davenport hits a    |
-| backhand with the classic squared stance. Gustavo Kuerten hits a one-handed |
-| backhand with a closed stance. Notice the rotation and loading of the       |
-| shoulders in all three players.**                                           |
-+-----------------------------------------------------------------------------+
+|  |  |  |
+| --- | --- | --- |
+| **Williams hits a backhand with an open stance. Lindsay Davenport hits a |  |  |
+| backhand with the classic squared stance. Gustavo Kuerten hits a one-handed |  |  |
+| backhand with a closed stance. Notice the rotation and loading of the |  |  |
+| shoulders in all three players.** |  |  |
+
 
 **Stance**.
 
@@ -228,13 +226,12 @@ that the ball is contacted. To develop consistent strokes, you need to
 establish your optimum hitting zone and consistently hit the ball in
 that zone.
 
-+-----------------------------+-----------------------------+
-|                             |                             |
-+:===========================:+:===========================:+
-| **Roger Federer contacts the ball on his backhand in his  |
-| optimum hitting zone. Kim Clijsters contacts the ball on  |
-| her forehand in her optimum hitting zone. **              |
-+-----------------------------------------------------------+
+|  |  |
+| --- | --- |
+| **Roger Federer contacts the ball on his backhand in his |  |
+| optimum hitting zone. Kim Clijsters contacts the ball on |  |
+| her forehand in her optimum hitting zone. ** |  |
+
 
 The actual contact point (how far out in front of your body you contact
 the ball) will vary depending on the type of shot being hit. However,
@@ -292,12 +289,11 @@ follow-through. So, it stands to reason that the follow-through is not
 really important to the stroke or shot, right? Wrong! The follow-through
 is an important component on all strokes.
 
-+-------------------------+-------------------------+-------------------------+
-|                         |                         |                         |
-+:=======================:+:=======================:+:=======================:+
-| Vince Spadea hits his forehand with low-to-high swing path movement in      |
-| order to generate topspin.                                                  |
-+-----------------------------------------------------------------------------+
+|  |  |  |
+| --- | --- | --- |
+| Vince Spadea hits his forehand with low-to-high swing path movement in |  |  |
+| order to generate topspin. |  |  |
+
 
 The follow-through is a great gauge to determine whether or not you are
 approaching the ball with the correct swing path for the stroke you are
@@ -312,12 +308,11 @@ path for the shot. So, even though the follow-through is not directly
 affecting the flight of the ball, it is in fact affecting the way you
 approach the ball.
 
-+-------------------------+-------------------------+-------------------------+
-|                         |                         |                         |
-+:=======================:+:=======================:+:=======================:+
-| **Justin Gimelstob displays a high-to-low swing path for the slice          |
-| backhand.**                                                                 |
-+-----------------------------------------------------------------------------+
+|  |  |  |
+| --- | --- | --- |
+| **Justin Gimelstob displays a high-to-low swing path for the slice |  |  |
+| backhand.** |  |  |
+
 
 A good follow-through also helps to prevent injury by minimizing strain
 on your arm and shoulder. Here are a few suggestions:
@@ -348,11 +343,10 @@ on your arm and shoulder. Here are a few suggestions:
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                             In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have
-  confidence](media_optimize-your-technique-part-2/media/image1.jpeg){width="1.6347222222222222in"   in common and shows you how to develop them for yourself. Reading Nick\'s critically
-  height="2.3305555555555557in"}                                                                                                                                                        acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
+  confidence](media_optimize-your-technique-part-2/media/image1.jpeg)                                                                                                                                                        acclaimed book you will learn to: Play from the heart. Simplify your strokes. Focus on
                                                                                                                                                                                         the elements you can control. Play to your personal strengths. And much more. Drawing
                                                                                                                                                                                         on his experience as a player, educator and coach Nick describes the developmental
-                                                                                                                                                                                        processes followed by the world\'s top players. In clear concise language, he outlines
+                                                                                                                                                                                        processes followed by the world's top players. In clear concise language, he outlines
                                                                                                                                                                                         the concepts any player can learn\--and every coach can teach\--to help you reach your
                                                                                                                                                                                         full potential and enhance your love of the game.\
                                                                                                                                                                                         \
@@ -363,30 +357,29 @@ on your arm and shoulder. Here are a few suggestions:
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person wearing a white shirt Description automatically generated with medium                                                                                                    | Nick Saviano is one of the world\'s leading       |
-| confidence](media_optimize-your-technique-part-2/media/image2.jpeg){width="1.6347222222222222in" | developmental coaches and the founder and         |
-| height="2.078472222222222in"}                                                                                                                                                       | director of Saviano High Performance Tennis       |
-|                                                                                                                                                                                     | Academy, located in Davie, Florida. A former      |
-|                                                                                                                                                                                     | elite American junior player and a two time       |
-|                                                                                                                                                                                     | All-American at Stanford, Nick played on the      |
-|                                                                                                                                                                                     | professional tour for a decade, was ranked in the |
-|                                                                                                                                                                                     | top 50 in singles, and had wins over numerous     |
-|                                                                                                                                                                                     | world top 10 players. He is also the former       |
-|                                                                                                                                                                                     | director of men\'s coaching and coaching          |
-|                                                                                                                                                                                     | education for the USTA. Nick has headlined as a   |
-|                                                                                                                                                                                     | presenter at coaching conventions throughout the  |
-|                                                                                                                                                                                     | world and his critically acclaimed book \"Maximum |
-|                                                                                                                                                                                     | Tennis: 10 Keys to Unleashing Your On-Court       |
-|                                                                                                                                                                                     | Potential\" is a best selling instructional       |
-|                                                                                                                                                                                     | title.                                            |
-|                                                                                                                                                                                     |                                                   |
-|                                                                                                                                                                                     | [Click Here](http://www.savianotennis.com/) for   |
-|                                                                                                                                                                                     | more information on training with Nick Saviano.   |
-+=====================================================================================================================================================================================+===================================================+
+| ![A person wearing a white shirt Description automatically generated with medium | Nick Saviano is one of the world's leading |
+| --- | --- |
+| confidence](media_optimize-your-technique-part-2/media/image2.jpeg) | director of Saviano High Performance Tennis |
+|  | Academy, located in Davie, Florida. A former |
+|  | elite American junior player and a two time |
+|  | All-American at Stanford, Nick played on the |
+|  | professional tour for a decade, was ranked in the |
+|  | top 50 in singles, and had wins over numerous |
+|  | world top 10 players. He is also the former |
+|  | director of men's coaching and coaching |
+|  | education for the USTA. Nick has headlined as a |
+|  | presenter at coaching conventions throughout the |
+|  | world and his critically acclaimed book \"Maximum |
+|  | Tennis: 10 Keys to Unleashing Your On-Court |
+|  | Potential\" is a best selling instructional |
+|  | title. |
+|  |  |
+|  | [Click Here](http://www.savianotennis.com/) for |
+|  | more information on training with Nick Saviano. |
 
-+------------------------------------------------------------------------+
-|   -------------------------------------------------------------------- |
-|                                                                        |
-|   -------------------------------------------------------------------- |
-+========================================================================+
+
+| -------------------------------------------------------------------- |
+| --- |
+|  |
+| -------------------------------------------------------------------- |
+

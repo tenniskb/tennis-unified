@@ -3,8 +3,7 @@
 ### John Yandell
 
 ![A group of men smiling Description automatically generated with medium
-confidence](media_what-s-tennis-con/media/image1.jpg){width="6.5in"
-height="1.4715277777777778in"}**Peter Freeman, left, and some of the
+confidence](media_what-s-tennis-con/media/image1.jpg)**Peter Freeman, left, and some of the
 other presenters at Tennis Con.**
 
 This year I submitted the video piece below on Ultimate Fundamentals for
@@ -54,8 +53,7 @@ the Forum please.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_what-s-tennis-con/media/image2.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_what-s-tennis-con/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

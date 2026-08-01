@@ -5,8 +5,7 @@
 **Chris Lewit**
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image1.webp)
 
 **What does it really take to develop a Spanish style forehand?**
 
@@ -17,7 +16,7 @@ who also have all court capabilities.
 Part of this evolution has been the technical development of more
 powerful, whipping, heavy-spin, but versatile forehands. These forehands
 have allowed Spanish players to continue to defend unbelievably well,
-but also attack with aggressiveness and force. Rafael Nadal\'s
+but also attack with aggressiveness and force. Rafael Nadal's
 forehand - one of the best weapons in the modern game\-- is the epitome
 of this trend.
 
@@ -32,8 +31,7 @@ Others may attempt to build a more modern swing, but get caught in the
 many pitfalls along the way.
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image2.webp)
 
 **Spanish pilgrimages have shed light on building forehands like Rafa.**
 
@@ -48,13 +46,13 @@ Using my studies in Spain a starting point, I have developed my own
 system for building the Spanish forehand. I have proven the system works
 with my high performance players at my school in New York\-- as I think
 the video that goes with the article establishes. Now in this new
-series, I\'m excited to share this system for the first time anywhere
+series, I'm excited to share this system for the first time anywhere
 with Tennisplayer subscribers.
 
 As in my previous series on the kick serve ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)),
-I will begin by detailing the technical reference points that I\'m
-looking for when building a Spanish forehand. Then I\'ll move into a
+I will begin by detailing the technical reference points that I'm
+looking for when building a Spanish forehand. Then I'll move into a
 discussion of actual drills, exercises, variations, and developmental
 timelines, as well as what I believe are the common coaching pitfalls.
 
@@ -65,8 +63,7 @@ an understanding of the technical reference points. These are the
 critical precursors for building a sound, powerful weapon.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_building-the-spanish-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image3.webp)
 
 **Racket speed: the holy grail of the Spanish forehand.**
 
@@ -99,8 +96,7 @@ understand or build a modern, Spanish-influenced forehand.
 
 ![A person hitting a ball with his tennis racket Description
 automatically
-generated](media_building-the-spanish-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image4.webp)
 
 **The Spanish swing shape traces a parabola in front of the player.**
 
@@ -125,8 +121,7 @@ arc in front of the player, and then finishing across and around the
 body.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image5.webp)
 
 **Airborne contact and extreme body rotation: more Spanish heresies.**
 
@@ -142,7 +137,7 @@ Spanish players as epitomized by Nadal also hit a variety of reverse
 finishes, (a term developed by Robert Lansdorp ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_three_forhand_finishes/lansdorp_three_forhand_finishes.html)).
 In the reverse finish, the racket stays on, or crosses back to, the same
-side of the body the swing starts from. I\'ll have more to say about
+side of the body the swing starts from. I'll have more to say about
 that in a future article. But I think these variations are something
 that players will either tend to evolve naturally, or that should only
 be developed after the fundamental technical precepts are in place.
@@ -158,8 +153,7 @@ Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris
 
 ![Close-up of hands shaking Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand/media/image6.jpg){width="3.4722222222222223in"
-height="3.2916666666666665in"}
+confidence](media_building-the-spanish-forehand/media/image6.jpg)
 
 **The range of grips I consider viable: Federer (left) to Nadal
 (right).**
@@ -170,8 +164,8 @@ Although Nadal is famous for his relatively extreme grip, I believe that
 a Spanish style forehand can actually be built with a range of grips,
 ranging anywhere between a strong eastern and an extreme semi-western.
 
-A strong eastern is Roger Federer\'s grip, with the index knuckle
-between the third and fourth bevel. An extreme semi-western is Rafa\'s
+A strong eastern is Roger Federer's grip, with the index knuckle
+between the third and fourth bevel. An extreme semi-western is Rafa's
 grip, with the index knuckle between the fourth and fifth bevel.
 
 Most, if not all modern Spanish pros, have grips in the same range as
@@ -180,7 +174,7 @@ versatile forehands and can transition to fast court play more
 effectively than in past decades.
 
 A common mistake made by television commentators who should know better
-is to call Rafa\'s forehand grip a full western or extreme western, with
+is to call Rafa's forehand grip a full western or extreme western, with
 the palm of the handle completely under the handle. This is inaccurate,
 and I highly discourage coaches from letting their players use a full
 western grip. (More on this in an upcoming article). It is a simply a
@@ -188,8 +182,7 @@ myth that top pros use a western grip to hit big, heavy, whipping
 forehands.
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image7.webp)
 
 **I train kids to turn, coil, explode into the ball and land on
 balance.**
@@ -219,10 +212,9 @@ rotation.
 
 ![A picture containing tennis, road, sport, athletic game Description
 automatically
-generated](media_building-the-spanish-forehand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image8.webp)
 
-**It\'s a myth that you should try to stay down with your legs on the
+**It's a myth that you should try to stay down with your legs on the
 forehand.**
 
 The left arm should come across the body in the preparation phase to
@@ -249,8 +241,7 @@ learn balance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image9.webp)
 
 **Good head position: critical to consistency.**
 
@@ -277,8 +268,7 @@ ultimately ruin shot accuracy and also, in my opinion, place the player
 at a greater risk of injury.
 
 ![A person playing tennis Description automatically
-generated](media_building-the-spanish-forehand/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image10.webp)
 
 **In Spain, preparation modeled Nadal with elbows bent and in racket tip
 up.**
@@ -297,15 +287,14 @@ preparation.
 Although coaches in Spain are flexible about many elements of technique
 so long as they contribute to developing racket speed, I was surprised
 at how many coaches did seem to favor the elbow-in preparation. Perhaps
-this is the influence of Nadal\'s forehand on the coaching culture.
+this is the influence of Nadal's forehand on the coaching culture.
 Certainly in Spain, kids will model themselves after a Nadal or
 Verdasco, so I believe the elbow-in approach will continue to remain
 prevalent there.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image11.webp)
 
 **Players developing the Spanish forehand players also need to learn
 neutral stance.**
@@ -333,8 +322,7 @@ seems to be the standard on the professional tour to develop racket
 speed.
 
 ![A person holding a tennis racket Description automatically
-generated](media_building-the-spanish-forehand/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-the-spanish-forehand/media/image12.webp)
 
 **The \"hold\" rhythm style generates more racket head speed.**
 
@@ -352,7 +340,7 @@ players, the racket very rarely crosses the plan of body on take back,
 although there have been some notable exceptions over the years,
 including Robin Soderling.
 
-Interestingly, in the women\'s game, there are many top players who do
+Interestingly, in the women's game, there are many top players who do
 take the racket across the plane of the body on the forehand backswing.
 Coaches should experiment with the developing girls that they work with
 and see if they can manage keeping the swing relatively compact and
@@ -362,8 +350,7 @@ compact backswing that is comfortable and can still generate great pace
 and racket speed.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_building-the-spanish-forehand/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image13.webp)
 
 **Players should strive to keep the backswing to the side and not behind
 the body.**
@@ -395,8 +382,7 @@ will explore more through some of the key drills in the second article.
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_building-the-spanish-forehand/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image14.webp)
 
 **Manual manipulation is very effective in developing the hinge.**
 
@@ -419,8 +405,7 @@ generate great spin and ball speed.
 **Straight Arm or Bent?**
 
 ![A child playing tennis Description automatically generated with low
-confidence](media_building-the-spanish-forehand/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image15.webp)
 
 **The hitting arm can be double bend or straight.**
 
@@ -448,8 +433,7 @@ the shoulder and toward the waist (a more extreme windshield wiper).
 
 ![A person hitting a ball with the tennis racket Description
 automatically generated with medium
-confidence](media_building-the-spanish-forehand/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image16.webp)
 
 **I start with the over the shoulder finish, then develop the wraps
 around the body.**
@@ -479,8 +463,7 @@ heavy spin should be taught as separate topics.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-spanish-forehand/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-the-spanish-forehand/media/image17.webp)
 
 **Young players need to hit the ball on the fall to develop massive
 racket speed and spin.**
@@ -507,8 +490,7 @@ for the doing the awesome demonstrations of the Spanish forehand that
 made this article possible.**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-the-spanish-forehand/media/image18.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_building-the-spanish-forehand/media/image18.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -525,14 +507,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_building-the-spanish-forehand/media/image19.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_building-the-spanish-forehand/media/image19.jpeg)
 
 **The Secrets of Spanish Tennis**
 

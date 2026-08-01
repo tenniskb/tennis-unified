@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-effective-is-playing-the-net-really/media/image1.webp)
 
 **How statistically effective is playing the net really?**
 
@@ -15,7 +14,7 @@ simplest method to answer this question is to compare win probabilities
 at the net versus at the baseline.
 
 In the final section of his brilliant article on the New Magic Numbers,
-Craig O\'Shannessy reports that players won 65% of their approaches in
+Craig O'Shannessy reports that players won 65% of their approaches in
 his studies at the U.S. Open, and that this percentage was almost as
 high at every level, from 12 and unders up through college tennis.
 ([Click
@@ -26,7 +25,7 @@ accurate determination. Why? Because win probabilities at net can be
 deceptively high.
 
 When using statistics to determine the effectiveness of playing the net,
-it\'s essential to account for other relevant variables\--not just win
+it's essential to account for other relevant variables\--not just win
 probabilities. For instance, many approach shots are hit off easy balls,
 which give you an advantage in winning the point irrespective of whether
 you approach the net or not.
@@ -42,8 +41,7 @@ the net was more effective than staying back.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_how-effective-is-playing-the-net-really/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_how-effective-is-playing-the-net-really/media/image2.webp)
 
 **What do the raw numbers on approaches really mean?**
 
@@ -66,7 +64,7 @@ returner floated or hammered the return.
 
 **Confounders**
 
-I call these variables Confounders. My research shows it\'s impossible
+I call these variables Confounders. My research shows it's impossible
 to analyze the impact of playing the net separately from the impact of
 Confounders.
 
@@ -77,20 +75,19 @@ true impact of playing the net more accurately.
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_how-effective-is-playing-the-net-really/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_how-effective-is-playing-the-net-really/media/image3.webp)
 
 **The return is short and centered, so Rafael Nadal approaches the net
 and puts away a volley.**
 
 To demonstrate how Regression Analysis works, I analyzed the 2016
-Wimbledon men\'s final, in which Andy Murray defeated Milos Raonic 6-4,
+Wimbledon men's final, in which Andy Murray defeated Milos Raonic 6-4,
 7-6, 7-6. Just one match played a surface conducive to net play, but the
 results are suggestive and I believe would be widely confirmed by
 additional analysis.
 
 What I found was that the characteristics of each incoming ball hit to
-the player by the opponent affected the players\' win probabilities. To
+the player by the opponent affected the players' win probabilities. To
 show this I treated every shot\--rather than every point\--as a separate
 event.
 
@@ -126,8 +123,7 @@ Approach is the independent variable of interest. The other 3
 independent variables are the Confounders.
 
 ![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-effective-is-playing-the-net-really/media/image4.webp)
 
 **Players can win points on Confounders on groundstrokes as well as on
 volleys.**
@@ -140,11 +136,11 @@ is.
 
 This is because winning the point on a Confounder can happen either at
 the net or on a groundstroke. Therefore the act of going to net in and
-of itself is not the necessary reason a player wins the point. It\'s
+of itself is not the necessary reason a player wins the point. It's
 more a matter of the incoming ball.
 
-Let\'s see how this played out in the Wimbledon final between Murray and
-Raoinc. Let\'s look at total points won in baseline rallies, again
+Let's see how this played out in the Wimbledon final between Murray and
+Raoinc. Let's look at total points won in baseline rallies, again
 excluding serve and return.
 
 Murray won104 of these baseline points and lost 81. Raonic won 98 but
@@ -201,9 +197,9 @@ baseline rallies 51 times. The results are shown below in Table 1.
   -----------------------------------------
 
 For each player, my goal was to compare the apparent impact of these
-approaches on who won the point. First when I don\'t account for the
+approaches on who won the point. First when I don't account for the
 Confounders, and then when I do. If the impact of the approaches is more
-positive when I don\'t account for the Confounders and less positive
+positive when I don't account for the Confounders and less positive
 when I do, then the Confounders are inflating the win probability
 associated with approaching.
 
@@ -213,15 +209,14 @@ independent variable has its own estimated impact on the dependent
 variable\--who won the point.
 
 ![A person playing tennis Description automatically
-generated](media_how-effective-is-playing-the-net-really/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-effective-is-playing-the-net-really/media/image5.webp)
 
 **I found that Confounders inflated the win probability associated with
 approaching.**
 
 Quantifying the success of approaches without accounting for the
 Confounders is the same as calculating raw win probabilities the way
-Craig O\'Shannessy does. But the Regressions account for the effect of
+Craig O'Shannessy does. But the Regressions account for the effect of
 the Confounders, that is, the balls that were short, centered or
 defensive.
 
@@ -237,11 +232,11 @@ corresponding to the variable Approach is 25.0%, then approaching is
 25.0% more effective than staying back.
 
 Finally, all four Regressions contain a term called Constant. In the
-Regressions without the Confounders, Constant is the player\'s win
+Regressions without the Confounders, Constant is the player's win
 probability when he stays back. To calculate his win probability when he
 approaches, just add Approach and Constant.
 
-Now the Regressions with Confounders. Constant is still the player\'s
+Now the Regressions with Confounders. Constant is still the player's
 win probability when he stays back and the incoming ball is neither
 short nor centered nor defensive.
 
@@ -253,26 +248,19 @@ Here](https://www.topspinshotresearch.com/).)
 
 **Table 2: Win Probability Regressions**
 
-+--------------+------------------------------+------------------------------+
-|              | Murray (185 Shots)           | Raonic (206 Shots)           |
-+==============+================+=============+================+=============+
-|              | No Confounders | Confounders | No Confounders | Confounders |
-+--------------+----------------+-------------+----------------+-------------+
-| **CONSTANT** | 53.0%          | 45.0%       | 41.9%          | 39.4%       |
-+--------------+----------------+-------------+----------------+-------------+
-| **APPROACH** | 35.3%          | 22.2%       | 22.8%          | 16.4%       |
-+--------------+----------------+-------------+----------------+-------------+
-| **SHORT**    |                | 5.9%        |                | 6.9%        |
-+--------------+----------------+-------------+----------------+-------------+
-| **CENTERED** |                | 16.3%       |                | 5.0%        |
-+--------------+----------------+-------------+----------------+-------------+
-| **DEFENSVE** |                | 8.7%        |                | 10.3%       |
-+--------------+----------------+-------------+----------------+-------------+
-|              |                |             |                |             |
-+--------------+----------------+-------------+----------------+-------------+
+|  | Murray (185 Shots) | Raonic (206 Shots) |  |  |
+| --- | --- | --- | --- | --- |
+|  | No Confounders | Confounders | No Confounders | Confounders |
+| **CONSTANT** | 53.0% | 45.0% | 41.9% | 39.4% |
+| **APPROACH** | 35.3% | 22.2% | 22.8% | 16.4% |
+| **SHORT** |  | 5.9% |  | 6.9% |
+| **CENTERED** |  | 16.3% |  | 5.0% |
+| **DEFENSVE** |  | 8.7% |  | 10.3% |
+|  |  |  |  |  |
+
 
 What did I find? Per Table 2, without accounting for the Confounders,
-Murray\'s raw win probability was 35.3% higher when approaching the net
+Murray's raw win probability was 35.3% higher when approaching the net
 than when staying back. His raw win probabilities were 53.0% when
 staying back and 88.3% when approaching However, when I account for the
 Confounders, it turns out that approaching benefited him by only 22.2%.
@@ -281,13 +269,12 @@ probability when approaching.
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_how-effective-is-playing-the-net-really/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_how-effective-is-playing-the-net-really/media/image6.webp)
 
-**The depth of Nadal\'s slice backhand makes the subsequent approach
+**The depth of Nadal's slice backhand makes the subsequent approach
 less effective, resulting in a passing shot.**
 
-In comparison, Raonic\'s raw win probability was 22.8% higher when
+In comparison, Raonic's raw win probability was 22.8% higher when
 approaching than when staying back, 41.9% when staying back and 64.7%
 when approaching. When accounting for the Confounders, approaching was
 only 16.4% more effective than staying back. So the true benefit of
@@ -298,12 +285,12 @@ approaching for Raonic was closer to 16.4% than 22.8%.
 In summary, while Murray and Raonic were generally both better off when
 approaching, failing to account for the Confounders makes approaching
 seem more effective than it actually was. Without Regression Analysis,
-it wouldn\'t be possible to draw this conclusion.
+it wouldn't be possible to draw this conclusion.
 
-In this match all 17 of Murray\'s approaches had one or more
-Confounders. Of Raonic\'s 51 approaches, 46 were the same---one or more
+In this match all 17 of Murray's approaches had one or more
+Confounders. Of Raonic's 51 approaches, 46 were the same---one or more
 Confounders. Interestingly, though not statistically significant, of
-Raonic\'s 6 approaches without a Confounder he won 2 points and lost 4.
+Raonic's 6 approaches without a Confounder he won 2 points and lost 4.
 
 No doubt playing the net can be an effective tactic. Despite the
 Confounders making approaching seem more effective, approaching still
@@ -317,47 +304,46 @@ approach less often than they do.
 
 But Regression Analysis is useful for analyzing more than just
 approaches. It can help quantify the effectiveness of any tactic subject
-to Confounders. I\'ve found in other match analyses that some offensive
+to Confounders. I've found in other match analyses that some offensive
 tactics also have deceptively high win probabilities. Swinging volleys,
-for one, are often winners since they\'re hit off floaters and/or close
-to the net. But that doesn\'t necessarily mean you should swing at a
+for one, are often winners since they're hit off floaters and/or close
+to the net. But that doesn't necessarily mean you should swing at a
 greater percentage of your volleys.
 
 Lastly, regression analysis is useful for analyzing more than just
 playing the net. That is, it can help quantify the effectiveness of any
 tactic subject to confounders.
 
-For instance, I\'ve found in other match analyses that offensive tactics
+For instance, I've found in other match analyses that offensive tactics
 generally have deceptively high win probabilities. Relative to
 traditional volleys, swinging volleys, for one, are often winners since
-they\'re hit off floaters. But that doesn\'t mean you should swing at a
+they're hit off floaters. But that doesn't mean you should swing at a
 greater percentage of your volleys.
 
 In contrast, defensive tactics, such as slice lobs, tend to have
-deceptively low win probabilities. But just because slice lobs don\'t
-usually win you the point doesn\'t mean you shouldn\'t hit them when you
-don\'t have better options. Ultimately, with more data and careful
+deceptively low win probabilities. But just because slice lobs don't
+usually win you the point doesn't mean you shouldn't hit them when you
+don't have better options. Ultimately, with more data and careful
 interpretation of that data, pros and all players could better
 understand which tactics are most effective for their game.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------+
-| ![A picture containing person, outdoor Description automatically                                                                                                           | Jeremy Rosen is a former college tennis       |
-| generated](media_how-effective-is-playing-the-net-really/media/image7.jpeg){width="2.08125in" | player and math major who runs a tennis       |
-| height="2.1354166666666665in"}                                                                                                                                             | analytics website called Topspin Shot         |
-|                                                                                                                                                                            | Research. ([Click                             |
-|                                                                                                                                                                            | Here](https://www.topspinshotresearch.com/).) |
-|                                                                                                                                                                            | He uses advanced statistical techniques to    |
-|                                                                                                                                                                            | better contextualize traditional tennis       |
-|                                                                                                                                                                            | statistics. He also conducts sports economics |
-|                                                                                                                                                                            | research for tennis, football, and baseball   |
-|                                                                                                                                                                            | that have been published in Contemporary      |
-|                                                                                                                                                                            | Economic Policy, Georgetown Center for        |
-|                                                                                                                                                                            | Economic Research Working Papers, Football    |
-|                                                                                                                                                                            | Outsiders, and Baseball Prospectus.           |
-|                                                                                                                                                                            |                                               |
-|                                                                                                                                                                            | He is currently co-authoring a paper with     |
-|                                                                                                                                                                            | Georgetown University economics professors    |
-|                                                                                                                                                                            | that uses dynamic game theory to uncover      |
-|                                                                                                                                                                            | suboptimal serving strategies in the ATP and  |
-|                                                                                                                                                                            | WTA.                                          |
-+============================================================================================================================================================================+===============================================+
+| ![A picture containing person, outdoor Description automatically | Jeremy Rosen is a former college tennis |
+| --- | --- |
+| generated](media_how-effective-is-playing-the-net-really/media/image7.jpeg) | analytics website called Topspin Shot |
+|  | Research. ([Click |
+|  | Here](https://www.topspinshotresearch.com/).) |
+|  | He uses advanced statistical techniques to |
+|  | better contextualize traditional tennis |
+|  | statistics. He also conducts sports economics |
+|  | research for tennis, football, and baseball |
+|  | that have been published in Contemporary |
+|  | Economic Policy, Georgetown Center for |
+|  | Economic Research Working Papers, Football |
+|  | Outsiders, and Baseball Prospectus. |
+|  |  |
+|  | He is currently co-authoring a paper with |
+|  | Georgetown University economics professors |
+|  | that uses dynamic game theory to uncover |
+|  | suboptimal serving strategies in the ATP and |
+|  | WTA. |
+

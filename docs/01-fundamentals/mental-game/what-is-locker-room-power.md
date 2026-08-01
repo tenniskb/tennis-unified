@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person holding a baby Description automatically generated with low
-confidence](media_what-is-locker-room-power/media/image1.jpg){width="3.125in"
-height="3.638888888888889in"}
+confidence](media_what-is-locker-room-power/media/image1.jpg)
 
 **Locker Room Power is an aura surrounding an athlete.**
 
@@ -16,7 +15,7 @@ an edge. Understand it and you also have the ability block it when it is
 used against you.
 
 Locker room power is an aura of invincibility that intimidates other
-players. Locker room power creates a fear factor that saps opponents\'
+players. Locker room power creates a fear factor that saps opponents'
 desire and self-belief. It makes them nervous and prone to mistakes.
 
 It can cause them to lose confidence during a tough match and allow
@@ -27,12 +26,12 @@ In sport, the talk surrounding a player determines how well his game is
 perceived. Players with locker room power are discussed positively by
 other athletes.
 
-Locker room power doesn\'t just incorporate the setting of the locker
+Locker room power doesn't just incorporate the setting of the locker
 room. It encompasses the whole competition environment.
 
 It is in the restaurant, gym, practice courts, press conferences,
 hotels, and the treatment room. All of these environments are where the
-smallest details of an athlete\'s lifestyle are under scrutiny.
+smallest details of an athlete's lifestyle are under scrutiny.
 
 **Myth on Top of Reality**
 
@@ -42,16 +41,15 @@ desire, shotmaking or self-belief, it is far less tangible, but often
 more determinate.
 
 ![A person holding a tennis racket Description automatically
-generated](media_what-is-locker-room-power/media/image2.jpg){width="3.4722222222222223in"
-height="2.9583333333333335in"}
+generated](media_what-is-locker-room-power/media/image2.jpg)
 
 **Sometimes you can tell who will win just by the look.**
 
 How many times have you heard comments like these, or thought them
-yourself? \"He had that look about him. It wasn\'t about forehands and
+yourself? \"He had that look about him. It wasn't about forehands and
 backhands. You could just tell he was going to win.\"
 
-Andre Agassi understood the power of aura when he said, \"I\'ve always
+Andre Agassi understood the power of aura when he said, \"I've always
 noticed the way players silently anoint the alpha dog in their midst.\"
 
 Tim Henman describes an example of the effect of locker room power in a
@@ -70,8 +68,7 @@ the upper hand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-locker-room-power/media/image3.jpg){width="3.4434787839020125in"
-height="3.7342607174103235in"}
+confidence](media_what-is-locker-room-power/media/image3.jpg)
 
 **Locker room power is built on substance not spin.**
 
@@ -105,8 +102,7 @@ opponents.]{.mark}]{.underline}**
 
 ![A person wearing a blue uniform Description automatically generated
 with low
-confidence](media_what-is-locker-room-power/media/image4.jpg){width="2.9166666666666665in"
-height="3.9166666666666665in"}
+confidence](media_what-is-locker-room-power/media/image4.jpg)
 
 **An aura built on attitude.**
 
@@ -138,8 +134,7 @@ are fitter than ever before, it is ok to tell people.
 
 ![A picture containing tennis, person, racket, player Description
 automatically
-generated](media_what-is-locker-room-power/media/image5.jpg){width="2.7777777777777777in"
-height="3.8472222222222223in"}
+generated](media_what-is-locker-room-power/media/image5.jpg)
 
 **What is your image saying to the world?**
 
@@ -149,7 +144,7 @@ every ball and your extra speed and endurance are evident in your
 matches.
 
 Your locker room power is cemented when an opponent thinks, \"Wow this
-guy wasn\'t kidding when he said he was fitter than ever.\" Furthermore,
+guy wasn't kidding when he said he was fitter than ever.\" Furthermore,
 he will tell other players after the match, regardless of whether he won
 or lost.
 
@@ -178,8 +173,7 @@ simply reinforce the product adding to the perceived truth and potency
 of your locker room power.
 
 ![A person in a blue shirt Description automatically
-generated](media_what-is-locker-room-power/media/image6.jpg){width="2.5694444444444446in"
-height="4.875in"}
+generated](media_what-is-locker-room-power/media/image6.jpg)
 
 **As a younger pro Andy had temporary locker room power.**
 
@@ -190,7 +184,7 @@ believe in themselves, but they ignore locker room power at their peril.
 It is important to understand this factor, because most matches and
 tournaments are still won by snowballing momentum.
 
-A player\'s locker room power can build during a tournament when he wins
+A player's locker room power can build during a tournament when he wins
 a match and begins to ride a wave of confidence. This temporary force
 can become the breakthrough and the start of lasting power.
 
@@ -211,45 +205,43 @@ power was temporary at the highest level.
 Had he won the tournament, it would have rocketed him to the top of
 tour. That had to wait for his victories at Wimbledon and the U.S. Open.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+
-| ![A picture containing person, person, indoor, posing Description automatically                                                                                            | David Sammel is a registered ATP tour coach    |
-| generated](media_what-is-locker-room-power/media/image7.jpeg){width="1.5652777777777778in" | and a consultant across the spectrum of        |
-| height="2.4in"}                                                                                                                                                            | professional sport. He has spent 25 years      |
-|                                                                                                                                                                            | coaching international players, has been a     |
-|                                                                                                                                                                            | national coach for the Lawn Tennis             |
-|                                                                                                                                                                            | Association, and was named one of the world\'s |
-|                                                                                                                                                                            | top 50 coaches by Nike. He is the head coach   |
-|                                                                                                                                                                            | of Team Bath-Monte Carlo Tennis Academy        |
-|                                                                                                                                                                            | located at the University of Bath, Bath        |
-|                                                                                                                                                                            | England. He is a regular contributor in        |
-|                                                                                                                                                                            | British media and tennis commentary and an     |
-|                                                                                                                                                                            | editor for Tennishead Magazine.                |
-|                                                                                                                                                                            |                                                |
-|                                                                                                                                                                            | [Click Here](http://www.teambathmcta.com/) for |
-|                                                                                                                                                                            | More Information on the Academy                |
-+============================================================================================================================================================================+================================================+
+| ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
+| --- | --- |
+| generated](media_what-is-locker-room-power/media/image7.jpeg) | professional sport. He has spent 25 years |
+|  | coaching international players, has been a |
+|  | national coach for the Lawn Tennis |
+|  | Association, and was named one of the world's |
+|  | top 50 coaches by Nike. He is the head coach |
+|  | of Team Bath-Monte Carlo Tennis Academy |
+|  | located at the University of Bath, Bath |
+|  | England. He is a regular contributor in |
+|  | British media and tennis commentary and an |
+|  | editor for Tennishead Magazine. |
+|  |  |
+|  | [Click Here](http://www.teambathmcta.com/) for |
+|  | More Information on the Academy |
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person holding a microphone Description automatically generated with medium                                                                                             | When you think about the most successful         |
-| confidence](media_what-is-locker-room-power/media/image8.jpeg){width="1.5652777777777778in" | athletes and people of all time, almost every    |
-| height="2.5131944444444443in"}                                                                                                                                              | one of them has a certain aura and invincibility |
-|                                                                                                                                                                             | in the way they present themselves in sport and  |
-|                                                                                                                                                                             | to the world. Sometimes mistaken for arrogance,  |
-|                                                                                                                                                                             | this self-belief is essential in succeeding in   |
-|                                                                                                                                                                             | professional sport and in life in general too.   |
-|                                                                                                                                                                             |                                                  |
-|                                                                                                                                                                             | The best believe they\'re the best and they make |
-|                                                                                                                                                                             | their opponents believe they\'re the best too.   |
-|                                                                                                                                                                             | Locker Room Power: Building an Athlete\'s Mind,  |
-|                                                                                                                                                                             | describes and examines David\'s coaching         |
-|                                                                                                                                                                             | philosophy, which is drawn from his relentless   |
-|                                                                                                                                                                             | drive to help people improve at their game,      |
-|                                                                                                                                                                             | utilizing his vast experience, knowledge and     |
-|                                                                                                                                                                             | understanding of the mental aptitude required to |
-|                                                                                                                                                                             | succeed as a professional sportsperson.          |
-|                                                                                                                                                                             |                                                  |
-|                                                                                                                                                                             | [Click Here to                                   |
-|                                                                                                                                                                             | Order!](http://www.lockerroompower.com/buy-now/) |
-+=============================================================================================================================================================================+==================================================+
+
+| ![A person holding a microphone Description automatically generated with medium | When you think about the most successful |
+| --- | --- |
+| confidence](media_what-is-locker-room-power/media/image8.jpeg) | one of them has a certain aura and invincibility |
+|  | in the way they present themselves in sport and |
+|  | to the world. Sometimes mistaken for arrogance, |
+|  | this self-belief is essential in succeeding in |
+|  | professional sport and in life in general too. |
+|  |  |
+|  | The best believe they're the best and they make |
+|  | their opponents believe they're the best too. |
+|  | Locker Room Power: Building an Athlete's Mind, |
+|  | describes and examines David's coaching |
+|  | philosophy, which is drawn from his relentless |
+|  | drive to help people improve at their game, |
+|  | utilizing his vast experience, knowledge and |
+|  | understanding of the mental aptitude required to |
+|  | succeed as a professional sportsperson. |
+|  |  |
+|  | [Click Here to |
+|  | Order!](http://www.lockerroompower.com/buy-now/) |
+
 
 ------------------------------------------------------------------------

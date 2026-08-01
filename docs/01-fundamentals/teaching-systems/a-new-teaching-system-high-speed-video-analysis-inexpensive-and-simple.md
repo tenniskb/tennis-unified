@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image1.webp)
 
 **A high speed file\--the kind you can create for yourself.**
 
@@ -19,20 +18,19 @@ complicated software? Right?
 The answer is no. In fact the opposite. The continuing, amazing advances
 in technology make it shockingly easy. And shockingly inexpensive.
 
-In this article I\'ll explain what you need to do high speed filming for
-yourself. Then in the next article we\'ll talk about how to compare
+In this article I'll explain what you need to do high speed filming for
+yourself. Then in the next article we'll talk about how to compare
 yourself to top players and evaluate the key positions in your strokes.
 
 The cost? All you need is a laptop plus one of amazing new generation
 high speed cameras, some with prices around \$300. Yep, \$300.
 
-To do the side by side, you\'ll need an additional \$30 software upgrade
+To do the side by side, you'll need an additional \$30 software upgrade
 from Apple to Quick Time Pro. (You already have regular Quick Time if
 you can see the Stroke Archive.)
 
 ![A picture containing wall Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image2.webp)
 
 **John McEnroe used video analysis\--and footage of himself as a
 model\--to recover his serving motion.**
@@ -55,7 +53,7 @@ overkill that distracts from the core visual learning experience.
 
 **Video Analysis and Sports Learning**
 
-The value of video analysis in sports is well established. It\'s widely
+The value of video analysis in sports is well established. It's widely
 used in virtually all professional sports and is a mainstay in golf
 instruction at all levels. But not in tennis.
 
@@ -66,8 +64,7 @@ precision.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image3.webp)
 
 **A common response: \"I had no idea what I was really doing!\"**
 
@@ -86,21 +83,21 @@ body needs to feel the motions based on these images.
 The player also needs to see what he is actually doing-and how close he
 really is to the technical positions he is trying to master.
 
-All this needs to be incorporated at the sub verbal level. That\'s how
-it gets to be automatic. You can\'t talk your way through a forehand on
+All this needs to be incorporated at the sub verbal level. That's how
+it gets to be automatic. You can't talk your way through a forehand on
 set point. But you can visualize your way using positive imagery.
 
 Unfortunately the information in traditional tennis lessons comes in a
 different medium\--as a constant verbal barrage. Pros feed balls and
 verbal tips. Over and over again, hour after lesson hour. A lot of
 effort and good intention is expended on both sides of the net, but
-sometimes players\' games look exactly the same after years.
+sometimes players' games look exactly the same after years.
 
 (For my article on the Myth of the Tennis Tip, [Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_tennis_tip_images/the_myth_of_the_tennis_tip.html).)
 
 Video shifts the experience into a new dimension. Hundreds of times
-I\'ve heard players say something like \"Oh, is that what I am really
+I've heard players say something like \"Oh, is that what I am really
 doing? Wow! I had no idea.\" Yet a teaching pro may have been describing
 the exact same problem to them for years.
 
@@ -114,8 +111,7 @@ Here](https://www.tennisplayer.net/members/music_videos/mac_lendl_walking/mac_le
 
 ![A white camera with a green light Description automatically generated
 with low
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image4.jpg){width="2.7777777777777777in"
-height="2.0694444444444446in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image4.jpg)
 
 One of the incredible Casio high speed cameras that allow anyone to film
 their tennis in high speed.
@@ -128,8 +124,7 @@ Costs were now down to about \$5,000 a day!
 
 ![A black camera with a green light Description automatically generated
 with medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image5.jpg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image5.jpg)
 
 One of the original Casio cameras that allows manual control-still
 available on the web.
@@ -141,7 +136,7 @@ that pioneered consumer high speed video with the Exilim line.
 
 These cameras have the two characteristics you need to see your strokes
 clearly. The first is a high speed frame rate. Regular video is 30
-frames a second. But with 30 frames you don\'t have enough information
+frames a second. But with 30 frames you don't have enough information
 to easily see what is happening\--you catch the contact on about 1 out
 of 8 hits.
 
@@ -157,8 +152,7 @@ swings of the pros whenever possible in our pro match filming.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image6.webp)
 
 **High speed indoor footage---grainy but still incredible.**
 
@@ -185,8 +179,7 @@ the right conditions, the camera will do everything you need.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image7.webp){width="3.3333333333333335in"
-height="5.208333333333333in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image7.webp)
 
 Without a high speed shutter you only see blur.
 
@@ -194,10 +187,10 @@ You can overcome the lighting limitation and get more versatility by
 investing more in the camera. The Casio EX-FH 25, for example. This
 camera is an incredible tool.
 
-Unfortunately it\'s been discontinued. But you can still get it on line.
+Unfortunately it's been discontinued. But you can still get it on line.
 The problem is the cost keeps going up and they are now around \$1500. A
 few years ago that would seem like a ridiculously low price and to me.
-So I still think it\'s still a bargain. What makes the camera better is
+So I still think it's still a bargain. What makes the camera better is
 that it has greater light sensitivity.
 
 But most importantly, you have complete manual shutter and manual frame
@@ -222,15 +215,14 @@ including voice over from the teaching pro.
 But their system came with a traditional low end video camcorder without
 high speed frame rate or shutter capability.
 
-One of the pros asked me for input on a player\'s serve. I wanted to
+One of the pros asked me for input on a player's serve. I wanted to
 help but when we looked at the motion from the racket drop to the
 contact, all we could see was an extended blur. Frequently I have the
 exact same problem when players or coaches send me footage for possible
 analysis in Your Strokes.
 
 ![A picture containing text Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image8.jpeg){width="0.52in"
-height="0.6033333333333334in"}
+generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image8.jpeg)
 
 Use Class 10 storage cards. I like the 8 gig size.
 
@@ -239,7 +231,7 @@ Use Class 10 storage cards. I like the 8 gig size.
 In the years that I have been filming tennis players, video image
 storage has changed radically, moving from various analog tape formats,
 to digital tape formats, and then to hard drive systems. And today?
-It\'s all on tiny cards.
+It's all on tiny cards.
 
 These new SD storage cards are incredible and can hold literally hours
 of footage. For your purposes, you want to get what are called Class 10
@@ -247,12 +239,12 @@ cards. This is very important because they have the capacity to take the
 increased data feed rate from a high speed camera.
 
 You can get the cards in every size from 4 gig to 64 gigs. Personally,
-although it\'s not quite as economical, I like to use the smaller size
+although it's not quite as economical, I like to use the smaller size
 cards and record one session or one player per card. Typically I use
 8gig cards-the brand is probably irrelevant. If you order them in bulk
 they are about \$10 or less per card.
 
-Why not 64 gigs which allow you to save money? It\'s about keeping track
+Why not 64 gigs which allow you to save money? It's about keeping track
 of what you have filmed. If you label your cards and keep them
 organized, this makes it a lot easier to find the data you want when you
 want it.
@@ -261,8 +253,7 @@ want it.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image9.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image9.webp)
 
 **On the groundstrokes start with a three quarter front view and then
 move to the side.**
@@ -273,7 +264,7 @@ set around the net post on the hitting side.
 
 This allows you to see everything in one view: the preparation, the
 contact, and especially the path of the swing and the extension out into
-the followthrough. It\'s the same for the volleys.
+the followthrough. It's the same for the volleys.
 
 Depending on what the first filming shows, sometimes I will then film
 from the side to look at the contact. If there are big problems with the
@@ -288,23 +279,22 @@ Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/serve2/
 **Viewing**
 
 After the first filming, I think the best way to look is to go off
-court, sit down and use the lap top. With the cards it\'s incredibly
+court, sit down and use the lap top. With the cards it's incredibly
 easy. The drop into a SD card slot on most laptops. With really old
 ones, you may need an adapter that plugs into a USB port.
 
 The card comes up on the screen. Open the card, create a folder and then
-drag the files to a folder on the desk top-it\'s harder to play video
+drag the files to a folder on the desk top-it's harder to play video
 smoothly from an external source.
 
 ![Graphical user interface Description automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image10.jpg){width="4.861111111111111in"
-height="3.0416666666666665in"}
+generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image10.jpg)
 
 **Drop the card into the slot and see yourself in high speed.**
 
-Now you are ready to look. Click on a file it\'ll open in Quick Time. If
+Now you are ready to look. Click on a file it'll open in Quick Time. If
 you are a Tennisplayer subscriber you already have Quick Time on your
-computer, but if you don\'t for any reason you can download it for free.
+computer, but if you don't for any reason you can download it for free.
 ([Click Here](http://www.apple.com/quicktime/download/).)
 
 Why Quick Time? Because it is the only player that allows you to easily
@@ -312,8 +302,8 @@ pause and advance frame by frame.
 
 This is what drives me crazy about stroke clips on YouTube. Players and
 coaches like to pontificate based on these, but really, what they think
-they see is incorrect more often than not since you can\'t study the
-frames. It\'s not much better than watching with the naked eye.
+they see is incorrect more often than not since you can't study the
+frames. It's not much better than watching with the naked eye.
 
 This is what sets Tennisplayer so far apart. Our incredible library of
 clips that you can study frame by frame for yourself in Quick Time. And
@@ -334,28 +324,27 @@ happening in the critical moments of tennis strokes.
 
 ![A picture containing tennis, sport, athletic game, road Description
 automatically
-generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image11.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image11.webp)
 
 **Modern phones can shoot high speed video at up to 240 frames a second,
 but with important limitations.**
 
 The advantage of course is that you probably have your phone in your
-pocket when you go on court. The disadvantages are that you don\'t have
+pocket when you go on court. The disadvantages are that you don't have
 manual control.
 
-You can\'t adjust for lower light beyond what the phone does. You don\'t
+You can't adjust for lower light beyond what the phone does. You don't
 have control of the shutter speed, and a shutter speed of around 1/1000
 of a second is the other critical component in freezing a stroke.
 
 In decent outdoor light the phone will do this for you, upping the
-shutter speed on its own but you never know how clear it\'s really going
-to be until you look at the play back. And you won\'t get the
+shutter speed on its own but you never know how clear it's really going
+to be until you look at the play back. And you won't get the
 combination of frame rate and shutter speed if you try to film indoors.
 Not enough light.
 
 Even if you do get the clear images you want, another disadvantage is
-that you can\'t go frame by frame without moving the images into
+that you can't go frame by frame without moving the images into
 additional software. More on that in the article about how to actually
 do side by side analysis with pro models.
 
@@ -372,7 +361,7 @@ it if you already have the phone.
 
 The real point in all cases is that sports learning is visual and
 kinesthetic. My experience over many years is that without regular video
-feedback it\'s impossible for most players to really understand what
+feedback it's impossible for most players to really understand what
 they are doing, feel the difference between better and worse, and create
 the kind of mental pictures they need to improve technique and execute
 under pressure.
@@ -381,15 +370,14 @@ Which brings us to the other critical component. What are the model
 positions and the corresponding mental images for creating world class
 technique? (Click Here for that article.)
 
-Next, let\'s see how to do side by side analysis of Your Strokes with
+Next, let's see how to do side by side analysis of Your Strokes with
 the pros! Stay tuned!
 
 # 
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image12.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and-simple/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

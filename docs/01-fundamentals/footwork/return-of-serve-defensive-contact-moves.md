@@ -7,8 +7,7 @@ Defensive Contact Moves**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-defensive-contact-moves/media/image1.webp)
 
 **The Power Move: a long lunging cross step to return a wide fast
 serve.**
@@ -17,7 +16,7 @@ In this series we are looking at the Contact Moves to develop world
 class footwork on the return of serve. In the last article, we looked at
 the patterns for aggressive returns. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
-Now let\'s turn to defensive returns.
+Now let's turn to defensive returns.
 
 The classic Defensive Contact Move on the return of serve is what I call
 the Power Move. Players use the Power Move on the return on both the
@@ -28,25 +27,23 @@ The Power Move allows players to cut off the angle of the oncoming ball.
 It also allows them to keep good balance so the recovery footwork can be
 dynamic and explosive.
 
-+--------------------------------------------------------+
-| **For each of these Contact Moves we will outline:**   |
-+========================================================+
-| 1\. Type ball on which to use contact move             |
-|                                                        |
-| 2\. Out steps or the steps to set up the stance        |
-|                                                        |
-| 3\. Hitting Stance                                     |
-|                                                        |
-| 4\. Contact Move itself                                |
-|                                                        |
-| 5\. Corresponding Balance Move                         |
-|                                                        |
-| 6\. Recovery Steps                                     |
-+--------------------------------------------------------+
+| **For each of these Contact Moves we will outline:** |
+| --- |
+| 1\. Type ball on which to use contact move |
+|  |
+| 2\. Out steps or the steps to set up the stance |
+|  |
+| 3\. Hitting Stance |
+|  |
+| 4\. Contact Move itself |
+|  |
+| 5\. Corresponding Balance Move |
+|  |
+| 6\. Recovery Steps |
+
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-defensive-contact-moves/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-defensive-contact-moves/media/image2.webp)
 
 **A pivot into an open stance, the lunge step and landing, a breaking
 step and a crossover recovery step.**
@@ -68,7 +65,7 @@ a drop step. This is because the drop step is more effective for rapid,
 explosive movement.
 
 This means the foot closest to the ball turns and drops back underneath
-the player\'s body. The drop step can be followed by the lunge step, or
+the player's body. The drop step can be followed by the lunge step, or
 by a shuffle step and then the lunge step. But in extreme cases, the
 player can also take 2 rapid cross steps to set up the open stance,
 before taking the final lunging step across.
@@ -80,15 +77,14 @@ through the shot as much as possible. Jumping leads to a loss of balance
 and power and either hitting the ball long or dumping it in the net.
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-defensive-contact-moves/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-defensive-contact-moves/media/image3.webp)
 
 **An extreme Power Move: a drop step, two cross steps, the lunge step, a
 breaking step, and two crossover recovery steps.**
 
 The lunge step starts from an extreme open stance. The lunge is a very
 athletic move, and can be up to several feet in length. The step usually
-crosses the player\'s body on a diagonal forward, but can also be
+crosses the player's body on a diagonal forward, but can also be
 sideways, or at times even backwards, depending on the ball.
 
 The player makes contact with the front foot in the air, and often the
@@ -113,8 +109,7 @@ stops the body with a breaking step on the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-defensive-contact-moves/media/image4.webp)
 
 **The kick back balance move, the breaking step, and the crossover
 recovery.**
@@ -146,8 +141,7 @@ for both the one-handed and two-handed backhands.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-defensive-contact-moves/media/image5.webp)
 
 **A pivot step, a shuffle step, then the lunge, the break step, and a
 crossover recovery.**
@@ -174,8 +168,7 @@ increases the length of the forward swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-defensive-contact-moves/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-defensive-contact-moves/media/image6.webp)
 
 **A step out into an open stance, a sideways lunge step, the kick back,
 and then, shuffle steps to recover.**
@@ -192,12 +185,11 @@ makes or misses the ball.
 
 So there we have it for the defensive Contact Moves. That completes our
 series on the footwork for return of serve. Hope your return game is
-already improving! Next we\'ll move on to other areas where footwork is
+already improving! Next we'll move on to other areas where footwork is
 critical, such as the approach, and on the recovery after the serve.
 Stay tuned!
 
-![](media_return-of-serve-defensive-contact-moves/media/image7.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_return-of-serve-defensive-contact-moves/media/image7.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

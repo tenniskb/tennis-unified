@@ -6,7 +6,7 @@ In these osmosis segments you have the resources for creating and
 absorbing the models you need for superior technique on every shot in
 the game.
 
-Here\'s the new audio/video presentation on the forehand volley!
+Here's the new audio/video presentation on the forehand volley!
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![](media_john-yandell-the-osmosis-clinic-forehand-volley/media/image1.wmf)
@@ -16,8 +16,7 @@ Here\'s the new audio/video presentation on the forehand volley!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-the-osmosis-clinic-forehand-volley/media/image2.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-the-osmosis-clinic-forehand-volley/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

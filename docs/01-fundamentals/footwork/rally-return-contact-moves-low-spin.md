@@ -7,8 +7,7 @@ Low Spin**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-low-spin/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-low-spin/media/image1.webp)
 
 **The Low Spin: elevating and driving the return with the hips and
 shoulders.**
@@ -16,13 +15,13 @@ shoulders.**
 In the last article, we looked at the Contact Move for the first type of
 rally return, what I call the Two Foot Pivot. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/the_two_foot_pivot).)
-Now let\'s look at the other type: the Low Spin.
+Now let's look at the other type: the Low Spin.
 
 By rally return I mean a return in which the player is trying to
 neutralize the effectiveness of the serve. This often means the serve
 has forced the returner on time, or jammed him with the ball location.
 
-At most the serve is hit 2-3 adjusting steps away. The returner\'s goal
+At most the serve is hit 2-3 adjusting steps away. The returner's goal
 is to maintain his court position and get into the point on an even
 footing.
 
@@ -41,29 +40,27 @@ drive and/or adjusting to the ball height. Sometimes the player may also
 move back substantially on this return before setting up for the
 rotation.
 
-So, as we have for the other return contact moves, let\'s go over the
+So, as we have for the other return contact moves, let's go over the
 components involved in hitting a great Low Spin Return on both sides.
 
-+--------------------------------------------------------+
-| **For each of these Contact Moves we will outline:**   |
-+========================================================+
-| 1\. Type ball on which to use contact move             |
-|                                                        |
-| 2\. Out steps or the steps to set up the stance        |
-|                                                        |
-| 3\. Hitting Stance                                     |
-|                                                        |
-| 4\. Contact Move itself                                |
-|                                                        |
-| 5\. Corresponding Balance Move                         |
-|                                                        |
-| 6\. Recovery Steps                                     |
-+--------------------------------------------------------+
+| **For each of these Contact Moves we will outline:** |
+| --- |
+| 1\. Type ball on which to use contact move |
+|  |
+| 2\. Out steps or the steps to set up the stance |
+|  |
+| 3\. Hitting Stance |
+|  |
+| 4\. Contact Move itself |
+|  |
+| 5\. Corresponding Balance Move |
+|  |
+| 6\. Recovery Steps |
+
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-low-spin/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-low-spin/media/image2.webp)
 
 **The player can take a step out, or a reverse pivot step to start the
 low spin.**
@@ -99,8 +96,7 @@ dropped down for balance and to load the legs.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-low-spin/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-low-spin/media/image3.webp)
 
 **The low spin return uses the unitary rotation of the hips and
 shoulders to drive the swing.**
@@ -135,8 +131,7 @@ skip recovery steps, but is harder to master.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-low-spin/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-low-spin/media/image4.webp)
 
 **Ideal low spin components: outstep, stance, airborne rotation,
 balanced landing, crossover recovery.**
@@ -166,8 +161,7 @@ correctly executed, the cross in front recovery step happens almost
 automatically.
 
 ![A person playing tennis Description automatically
-generated](media_rally-return-contact-moves-low-spin/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_rally-return-contact-moves-low-spin/media/image5.webp)
 
 **The same elements on the backhand side: set up stance, rotating off
 the court and through the ball, crossover recovery.**
@@ -185,7 +179,7 @@ version of an open stance.
 
 From this set up, he unleashes the hip and shoulder rotation, driving
 upward into the air and around and through the shot. However the legs
-don\'t fully extend and stay flexed.
+don't fully extend and stay flexed.
 
 The landing is balanced with the knees still bent. After the landing he
 begins the recovery with a front crossover step.
@@ -201,8 +195,7 @@ them a middle option. Pay attention to the contact move patterns you use
 on your returns, and make sure they correlate with the type of strategic
 return you are hitting.
 
-![](media_rally-return-contact-moves-low-spin/media/image6.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_rally-return-contact-moves-low-spin/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -6,13 +6,12 @@
 
 **v**![A person swinging a baseball bat Description automatically
 generated with medium
-confidence](media_components-of-the-modern-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image1.webp)
 
 **The evolution of the forehand: huge changes in angular momentum and
 torso rotation.**
 
-How has the forehand evolved in the modern game? In this article, we\'ll
+How has the forehand evolved in the modern game? In this article, we'll
 take a look at some of the components, including momentum, torso
 rotation, and the use of the legs both for loading and recovery.
 
@@ -31,8 +30,7 @@ outward toward the target.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_components-of-the-modern-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image2.webp)
 
 **Linear momentum associated with stepping in and hitting through the
 line of the shot.**
@@ -61,8 +59,7 @@ the recovery as you hit.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_components-of-the-modern-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image3.webp)
 
 **Loading with the weight on the inside of the leg. And a line from back
 shoulder to front shoulder to oncoming ball.**
@@ -89,8 +86,7 @@ swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_components-of-the-modern-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image4.webp)
 
 **The shoulders rotate 180 degrees with the line now from back shoulder
 to front shoulder to the target.**
@@ -113,17 +109,16 @@ leg and the increased rotation of the body through the swing cause the
 player to [[explode upward off the court and into the
 air]{.underline}]{.mark}.**
 
-**[[It\'s important to understand that this is not really a jump. It\'s
+**[[It's important to understand that this is not really a jump. It's
 the natural result of the summation of forces as the energy passes
-upward through the kinetic chain]{.underline}]{.mark}**. **[[It\'s
+upward through the kinetic chain]{.underline}]{.mark}**. **[[It's
 energy that you derive using the ground as the base for support.]{.mark}
 [The forces modern players are generating are now literally pulling them
 off the ground and into the air.]{.mark}]{.underline}**
 
 ![A person swinging a bat Description automatically generated with
 medium
-confidence](media_components-of-the-modern-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image5.webp)
 
 **Loading and exploding, with the landing on the left foot first.**
 
@@ -138,7 +133,7 @@ court.]{.underline}]{.mark}**
 
 **[[Unless the player is on the run, however, this landing will
 typically be on the left foot. This is why in the preparation phase,
-it\'s important to load the weight on the inside of the leg. It allows
+it's important to load the weight on the inside of the leg. It allows
 the player to actually begin the recovery as he is hitting, shifting the
 weight back toward the middle of the court as he
 swings.]{.underline}]{.mark}**
@@ -154,14 +149,13 @@ take this last loading step with the idea that they are already pushing
 back to the middle.]{.underline}]{.mark}**
 
 **[[The exception is when the player is stretcher wider and/or running
-for a ball. In this case, it\'s also possible for the player to land the
+for a ball. In this case, it's also possible for the player to land the
 other foot, that is, on the right or outside
 foot.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_components-of-the-modern-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_components-of-the-modern-forehand/media/image6.webp)
 
 **Recovery: a running step or a hop, then a crossover step before the
 shuffle.**
@@ -196,14 +190,13 @@ weight toward the middle to initiate the recovery.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                         David T. Porter, Ed.D., is the chairman of the USPTA
-  confidence](media_components-of-the-modern-forehand/media/image7.jpeg){width="1.3041666666666667in"   Player Development Council, and the immediate past
-  height="1.5597222222222222in"}                                                                                                                                                            president of the USPTA. David is professor of exercise
+  confidence](media_components-of-the-modern-forehand/media/image7.jpeg)                                                                                                                                                            president of the USPTA. David is professor of exercise
                                                                                                                                                                                             and sports science at BYU Hawaii, and the coach of both
-                                                                                                                                                                                            the men\'s and women\'s tennis teams. In 2002-2003 his
-                                                                                                                                                                                            teams won both the men\'s and women\'s Division II team
+                                                                                                                                                                                            the men's and women's tennis teams. In 2002-2003 his
+                                                                                                                                                                                            teams won both the men's and women's Division II team
                                                                                                                                                                                             championships, a first in NCAA history.\
                                                                                                                                                                                             \
-                                                                                                                                                                                            David is a featured presenter on the USPTA\'s award
+                                                                                                                                                                                            David is a featured presenter on the USPTA's award
                                                                                                                                                                                             winning Tennis Channel instructional show. He has
                                                                                                                                                                                             conducted clinics for players and coaches across the
                                                                                                                                                                                             United States and world wide, including China and the

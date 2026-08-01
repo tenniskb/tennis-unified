@@ -6,8 +6,7 @@
 
 ![A picture containing tree, outdoor, road, athletic game Description
 automatically
-generated](media_is-the-underhand-serve-underhanded/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_is-the-underhand-serve-underhanded/media/image1.webp)
 
 **What reactions do players get from an underhand serve?**
 
@@ -32,8 +31,7 @@ I'm a pretty good player, rated a 4.5, and I personally don't think the
 underhand serve is underhanded. But Butch obviously did.
 
 ![A person holding a tennis racket Description automatically
-generated](media_is-the-underhand-serve-underhanded/media/image2.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_is-the-underhand-serve-underhanded/media/image2.webp)
 
 **Michael Chang's famous underhand serve against Ivan Lendl.**
 
@@ -69,8 +67,7 @@ Underhand Was the Original
 
 ![A picture containing text, outdoor, group, crowd Description
 automatically
-generated](media_is-the-underhand-serve-underhanded/media/image3.jpg){width="5.902777777777778in"
-height="3.375in"}
+generated](media_is-the-underhand-serve-underhanded/media/image3.jpg)
 
 **In the 19th century when the net was 4 feet high the underarm serve
 was the norm.**
@@ -98,16 +95,15 @@ drives people crazier than the underhand serve.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_is-the-underhand-serve-underhanded/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_is-the-underhand-serve-underhanded/media/image4.webp)
 
 **In the 20th century with Bill Tilden and others the overhand serve
 became a weapon.**
 
 Joel Drucker, a writer for Tennisplayer, Tennis magazine and the Tennis
-Channel told me this: \"When competing, we often live on a thin knife\'s
+Channel told me this: \"When competing, we often live on a thin knife's
 edge between tranquility and tension. The rarity of seeing an underhand
-serve \--and the challenge of having to deal with a ball that\'s
+serve \--and the challenge of having to deal with a ball that's
 potentially quite short and spinning in previously unseen and difficult
 directions \-- can send someone right over the cliff.\"
 
@@ -141,8 +137,7 @@ and threatens to attack. Or more rarely, a light bulb goes on and he
 considers doing it himself at the next opportunity.
 
 ![A picture containing text Description automatically
-generated](media_is-the-underhand-serve-underhanded/media/image5.webp){width="4.695999562554681in"
-height="2.6268252405949255in"}
+generated](media_is-the-underhand-serve-underhanded/media/image5.webp)
 
 **I use the underhand serve to give my arm a break---and as a tactic.**
 
@@ -176,8 +171,7 @@ other perfectly legal tennis shot.
 
 ![A person with the arms crossed Description automatically generated
 with medium
-confidence](media_is-the-underhand-serve-underhanded/media/image6.jpeg){width="1.4083333333333334in"
-height="2.479861111111111in"}
+confidence](media_is-the-underhand-serve-underhanded/media/image6.jpeg)
 
 Rocky Lang has been involved in the motion picture and television
 business all his life. He has produced, written and directed motion

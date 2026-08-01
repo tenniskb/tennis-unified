@@ -21,7 +21,7 @@ Nhận bản: 2024 \| Cập nhật: 2026
 
 > **TÓM TẮT**
 >
-> Bối cảnh: Kỹ thuật giao bóng \'khay phục vụ\' (waiter\'s serve, WS)
+> Bối cảnh: Kỹ thuật giao bóng 'khay phục vụ' (waiter's serve, WS)
 > thường được huấn luyện viên nhận diện là một lỗi kỹ thuật, nhưng cơ
 > chế bệnh sinh của nó chưa được mô tả rõ ràng. Mục tiêu: Nghiên cứu này
 > đề xuất một mô hình cấu hình tầng bậc khởi phát từ ngoại biên
@@ -45,7 +45,7 @@ Nhận bản: 2024 \| Cập nhật: 2026
 > huấn luyện nhắm vào mặt phẳng lòng bàn tay có thể giảm tải trọng lên
 > các khớp chi trên mà không ảnh hưởng đến hiệu suất giao bóng.
 >
-> *Từ khóa: giao bóng tennis, waiter\'s serve, tay cầm Continental, viêm
+> *Từ khóa: giao bóng tennis, waiter's serve, tay cầm Continental, viêm
 > lồi cầu khuỷu tay bên ngoài (lateral epicondylitis), chuỗi động học
 > (kinetic chain), xoay cẳng tay (pronation), sinh cơ học.*
 
@@ -55,7 +55,7 @@ Nhận bản: 2024 \| Cập nhật: 2026
 
 1.1. Tầm quan trọng của giao bóng trong tennis hiện đại .. 4
 
-1.2. Kỹ thuật giao bóng \'khay phục vụ\' --- vấn đề phổ biến bị ngăn
+1.2. Kỹ thuật giao bóng 'khay phục vụ' --- vấn đề phổ biến bị ngăn
 chặn 5
 
 1.3. Khung cách tiếp cận độc đáo: Từ ngoại biên khai thông nội tâm 5
@@ -155,7 +155,7 @@ chỉ là vấn đề kỹ thuật thuần túy, mà còn là vấn đề y tế
 thao. Theo số liệu từ ATP và ghi nhận của các phòng khám thể thao chuyên
 biệt, chấn thương chi trên chiếm khoảng 40% tổng số chấn thương liên
 quan đến tennis ở người lớn, trong đó viêm lồi cầu khuỷu tay ngoài
-(lateral epicondylitis, dân gian gọi là \'khuỷu tay tennis\') là một
+(lateral epicondylitis, dân gian gọi là 'khuỷu tay tennis') là một
 trong những tình trạng thường gặp nhất. Điều đáng chú ý là bệnh lý này
 không chỉ xuất hiện ở người chơi nghiệp dư, mà cũng được ghi nhận ở cầu
 thủ chuyên nghiệp --- một dấu hiệu cho thấy vấn đề có thể xuất phát từ
@@ -164,20 +164,20 @@ quá mức.
 
 Bài báo này đề xuất rằng một trong những nguyên nhân căn bản của bệnh lý
 này --- ít nhất trong phạm vi giao bóng --- nằm ngay trong một lỗi kỹ
-thuật cực kỳ phổ biến: giao bóng \'khay phục vụ\' (waiter\'s tray serve,
+thuật cực kỳ phổ biến: giao bóng 'khay phục vụ' (waiter's tray serve,
 viết tắt WS). Hơn nữa, chúng tôi lập luận rằng can thiệp huấn luyện hiệu
 quả nhất không bắt đầu từ cánh tay, vai hay chân, mà bắt đầu từ bàn tay
 --- cụ thể là mặt phẳng của lòng bàn tay cầm vợt.
 
-**1.2. Kỹ thuật giao bóng \'khay phục vụ\' --- vấn đề phổ biến bị ngăn
+**1.2. Kỹ thuật giao bóng 'khay phục vụ' --- vấn đề phổ biến bị ngăn
 chặn**
 
-Thuật ngữ \'giao bóng khay phục vụ\' (waiter\'s tray serve) mô tả một tư
+Thuật ngữ 'giao bóng khay phục vụ' (waiter's tray serve) mô tả một tư
 thế cầm vợt trong giai đoạn giương tay (cocking phase) của giao bóng,
 trong đó mặt vợt hướng lên trời, tương tự như một người phục vụ đang
 bưng khay thức ăn. Huấn luyện viên ở mọi trình độ đã lâu nay biết rằng
 đây là một lỗi kỹ thuật, nhưng phần lớn mô tả nó một cách định tính ---
-\'trông như vậy là sai\' --- mà không có khả năng giải thích cơ chế sinh
+'trông như vậy là sai' --- mà không có khả năng giải thích cơ chế sinh
 cơ học cụ thể.
 
 Nghiên cứu chuyên sâu của Touzard và cộng sự (2019) đã lần đầu tiên định
@@ -193,8 +193,8 @@ quan trọng hơn, làm thế nào để sửa chữa nó một cách hiệu qu�
 **1.3. Khung tiếp cận độc đáo: Từ ngoại biên khai thông nội tâm**
 
 Truyền thống huấn luyện tennis lâu nay tập trung vào các phần thân thể
-\'lớn\': chân đẩy đất, hông xoay, lưng giương, vai tung\... Các huấn
-luyện cụ như \'sử dụng chân nhiều hơn\' hay \'xoay hông trước\' phản ánh
+'lớn': chân đẩy đất, hông xoay, lưng giương, vai tung\... Các huấn
+luyện cụ như 'sử dụng chân nhiều hơn' hay 'xoay hông trước' phản ánh
 một logic từ gốc đến ngọn (proximal-to-distal): khởi động từ các nhóm cơ
 lớn và mạnh phía trong thân, truyền năng lượng ra ngoài đến tay và vợt.
 
@@ -202,7 +202,7 @@ Bài báo này đề xuất một khung hiểu lý ngược lại, dựa trên q
 tiễn: một thay đổi nhỏ ở ngoại biên (cách lòng bàn tay đặt trên cây vợt,
 hướng của mặt phẳng bàn tay) có thể mở khóa --- hoặc đóng lại --- khả
 năng toàn bộ phần cơ thể tham gia vào giao bóng. Chúng tôi gọi đây là
-nguyên tắc \'cấu hình tầng bậc\' (cascade configuration): tư thế của
+nguyên tắc 'cấu hình tầng bậc' (cascade configuration): tư thế của
 ngoại biên xác định xem chuỗi động lực từ gốc có thể triển khai được hay
 không.
 
@@ -224,7 +224,7 @@ trên sân --- cụ thể là bài tập tường ba bước và bài kiểm tra
 giây.
 
 Câu hỏi nghiên cứu chính là: Liệu việc thay đổi hướng mặt phẳng lòng bàn
-tay từ vị trí dọc (waiter\'s tray) sang vị trí ngang (lateral
+tay từ vị trí dọc (waiter's tray) sang vị trí ngang (lateral
 Continental) có đủ để thay đổi cân bằng tải trọng sinh cơ học tại ba
 khớp chính (vai, khuỷu tay, cổ tay) và phục hồi khả năng xoay cẳng tay
 (pronation), theo cách phù hợp với giả thuyết chuỗi cascade?
@@ -233,11 +233,11 @@ khớp chính (vai, khuỷu tay, cổ tay) và phục hồi khả năng xoay c�
 
 **2.1. Chuỗi động học trong giao bóng: Mô hình truyền thống và hạn chế**
 
-Khái niệm \'chuỗi động học\' (kinetic chain) đã được Elliott, Marshall
+Khái niệm 'chuỗi động học' (kinetic chain) đã được Elliott, Marshall
 và Noffal (1995) chính thức áp dụng vào phân tích giao bóng tennis.
 Trong mô hình cổ điển, năng lượng được tạo ra ở chân và được khuếch đại
 qua gối, hông, thân, vai, cánh tay, cổ tay và cuối cùng là vợt --- mỗi
-phần trong chuỗi đóng vai trò như một \'khâu mã động cửa\' (segment
+phần trong chuỗi đóng vai trò như một 'khâu mã động cửa' (segment
 gate) mà khi nó đạt đỉnh tốc độ và bắt đầu giảm tốc, nó chuyển động năng
 cho khâu tiếp theo. Hiệu quả của toàn chuỗi phụ thuộc vào số phần tham
 gia, thứ tự cơ tắt, và sự đo phối hợp giữa các khâu.
@@ -259,10 +259,10 @@ vẫn chạy nhưng công suất ra bị tiêu tán thành nhiệt.
 **2.2. Nguyên lý cấu hình tầng bậc (Cascade Configuration Principle)**
 
 Mô hình cấu hình tầng bậc mà chúng tôi đề xuất là một sự mở rộng của lý
-thuyết chuỗi động học, bổ sung thêm một \'lớp điều kiện trước\'
+thuyết chuỗi động học, bổ sung thêm một 'lớp điều kiện trước'
 (pre-condition layer) tại ngoại biên. Mô hình này lập luận rằng trước
 khi bắt đầu tính toán hiệu quả chuyển giao năng lượng giữa các khâu, cần
-phải kiểm tra xem \'cổng xoay\' (rotation gate) tại điểm xa nhất có mở
+phải kiểm tra xem 'cổng xoay' (rotation gate) tại điểm xa nhất có mở
 hay không.
 
 Theo mô hình này, trong giao bóng tennis, **cổng xoay then chốt** nằm
@@ -280,13 +280,13 @@ Khi cổng xoay bị đóng, chuỗi năng lượng tầng bậc bị ngăn ở 
 khuỷu tay. Vai buộc phải tạo nên mô-men xoay trong (internal rotation
 torque) quá cao để cân lệch chuyển động bị chặn; thân trên mất khả năng
 hoạt động trước cẳng tay; và hơn là toàn bộ cơ cấu thuộc động nhân của
-chân và hông trở nên vô nghĩa vì không có \'cầu nối\' kết nối đến điểm
+chân và hông trở nên vô nghĩa vì không có 'cầu nối' kết nối đến điểm
 tác động.
 
 Ngược lại, khi cổng xoay được mở --- thông qua tư thế cầm vợt đúng kỹ
-thuật --- năng lượng có thể \'đổ\' từ hông, lưng, vai xuống cẳng tay và
+thuật --- năng lượng có thể 'đổ' từ hông, lưng, vai xuống cẳng tay và
 vợt, tạo ra động tác xoay vợt mạnh mẽ và điều khiển được. Lúc này, mô
-hình truyền thống của \'chuỗi động học\' mới có thể hoạt động đầy đủ
+hình truyền thống của 'chuỗi động học' mới có thể hoạt động đầy đủ
 tiềm năng.
 
 **2.3. Ba điều kiện nền tảng của cầm vợt Continental đúng kỹ thuật**
@@ -303,7 +303,7 @@ duy trì mặt phẳng lòng bàn tay sai.
 
 Điều kiện thứ hai: Lòng bàn tay mở hướng trời trong mặt phẳng ngang
 (lateral plane). Đây là điều kiện thiết yếu nhất trong ba điều kiện.
-\'Lateral plane\' ở đây có nghĩa là bàn tay nằm \'trên cạnh\' --- tương
+'Lateral plane' ở đây có nghĩa là bàn tay nằm 'trên cạnh' --- tương
 tự như cầm một khẩu súng lòng tay hướng ra phía hàng rào bên. Mặt phẳng
 này KHÁC hoặc TRÁI NGƯỢC với tư thế WS, trong đó lòng bàn tay hướng lên
 trời trong mặt phẳng dọc (vertical plane). Chính sự phân biệt này là
@@ -316,11 +316,11 @@ phép cẳng tay xoay trong một cung lớn từ vị trí vợt thấp đến 
 động. Hạ theo mặt --- kiểu WS --- buộc chuyển động chỉ xảy ra ở cổ tay
 (wrist snap), không có sự đóng góp của cẳng tay trước.
 
-Khi cả ba điều kiện này hội đủ, chúng tôi gọi trạng thái đó là \'vị trí
-cho phép\' (permission position): cẳng tay có thể xoay tự do trong một
+Khi cả ba điều kiện này hội đủ, chúng tôi gọi trạng thái đó là 'vị trí
+cho phép' (permission position): cẳng tay có thể xoay tự do trong một
 tầm xoay lớn, khuỷu tay giữ trạng thái giống thẳng, và cổ tay không bị
 kéo cản đối. Tất cả ba điều kiện này có thể được kiểm tra ngay tức khắc
-bằng \'bài kiểm tra 10 giây\' (xem Phần 6.2) mà không cần thiết bị phức
+bằng 'bài kiểm tra 10 giây' (xem Phần 6.2) mà không cần thiết bị phức
 tạp.
 
 **2.4. Cơ chế xoay cẳng tay và ảnh hưởng lên các khớp**
@@ -339,7 +339,7 @@ trí này, để xoay vặn mặt vợt về phía trước-trên (forward-upwar
 vào khung bóng, người chơi có hai lựa chọn. Lựa chọn thứ nhất: xoay cẳng
 tay từ tư thế ngửa, nhưng cơ chế này bị hạn chế vì tư thế ban đầu sai.
 Lựa chọn thứ hai --- và là lựa chọn thường được chọn không có ý thức ---
-là mở rộng cổ tay (wrist extension) để \'snap\' đầu vợt về phía trước
+là mở rộng cổ tay (wrist extension) để 'snap' đầu vợt về phía trước
 trong khi giữ cẳng tay tương đối cố định. Lựa chọn này chính là cơ chế
 gây bệnh: nó căng cơ duỗi cổ tay quay ngắn (extensor carpi radialis
 brevis, ECRB), tạo ra lực căng tại nguyên bám (origin) của nó ở mỏm lồi
@@ -359,13 +359,13 @@ thường (p \< .01), xác nhật những lý đoán này.
 học quan trọng. Trước tiên, về vị trí giương tay (cocking position):
 trong giao bóng đúng kỹ thuật, giai đoạn giương tay kết thúc với cánh
 tay trên ở khoảng độ giạng (abduction) 90--100 độ và xoay ngoài tối đa
-(maximal external rotation) khoảng 170--180 độ, tạo ra tư thế \'cung
-cung\' (loaded position) tối ưu. Trong WS, độ giạng vai thấp hơn (khoảng
+(maximal external rotation) khoảng 170--180 độ, tạo ra tư thế 'cung
+cung' (loaded position) tối ưu. Trong WS, độ giạng vai thấp hơn (khoảng
 70--75 độ) vì khuỷu tay đang bị gập, và xoay ngoài không đạt được tầm
 xoay đầy đủ vì cổ tay đang bị căng theo hướng kia.
 
 Thứ hai, về mô-men cơ lực (torque) tại khớp vai: trong WS, vai phải tạo
-nên một mô-men xoay trong \'sớm trước thời hạn\' (premature internal
+nên một mô-men xoay trong 'sớm trước thời hạn' (premature internal
 rotation torque) để bù đắp cho việc cẳng tay trước không xoay được.
 Touzard et al. đã ghi nhận mô-men xoay trong tại khớp vai cao hơn rõ rệt
 ở nhóm WS (p \< .05). Điều này không chỉ gây nguy cơ cho các cơ xoay vai
@@ -380,7 +380,7 @@ việc khuỷu tay gập và vai không được đặt đúng vị trí trong m
 động tác làm gián đoạn cơ chế phối hợp xương bả vai (scapulohumeral
 rhythm), tăng nguy cơ va chạm cực trên gai (supraspinatus impingement).
 
-Tóm lại, giao bóng WS không phải chỉ là một lỗi kỹ thuật \'xấu nhìn\'.
+Tóm lại, giao bóng WS không phải chỉ là một lỗi kỹ thuật 'xấu nhìn'.
 Nó là một bộ máy sinh cơ học kém hiệu quả, tạo ra tải trọng cao hơn ở ba
 khớp chi trên đồng thời, và không mang lại bất kỳ ưu thế nào về mặt hiệu
 suất. Mô hình cấu hình tầng bậc giải thích rất rõ ràng tại sao: tất cả
@@ -394,8 +394,8 @@ et al.**
 
 Nền tảng dữ liệu lượng hóa chính của bài báo này là nghiên cứu được công
 bố bởi Touzard, Kulpa, Bideau, Montalvan và Roell trong European Journal
-of Sport Science (2019), tiêu đề \'Biomechanical analysis of the
-waiter\'s serve on upper limb loads in young elite tennis players\'. Đây
+of Sport Science (2019), tiêu đề 'Biomechanical analysis of the
+waiter's serve on upper limb loads in young elite tennis players'. Đây
 là nghiên cứu đứng mạnh nhất hiện có về cụ thể này, và chính nó là cơ sở
 để kiểm chứng những dự đoán của mô hình cấu hình tầng bậc.
 
@@ -426,8 +426,8 @@ hay không WS theo tiêu chí nhận dạng tương tự Touzard; sau đó hư�
 thay đổi mặt phẳng lòng bàn tay; cuối cùng ghi nhận phản ứng chủ quan
 của học viên về cảm giác và kết quả tác động bóng.
 
-Ngoài ra, tác giả đã phát triển và thực hiện thử nghiệm \'bài kiểm tra
-cảm giác 10 giây\' và \'bài tập tường ba bước\' với các học viên, ghi
+Ngoài ra, tác giả đã phát triển và thực hiện thử nghiệm 'bài kiểm tra
+cảm giác 10 giây' và 'bài tập tường ba bước' với các học viên, ghi
 nhận tỉ lệ nhận biết đúng tư thế (self-discrimination accuracy) và thời
 gian chuyển đổi cảm giác. Những dữ liệu này mang tính chất dữ liệu định
 tính và bán thử nghiệm (pilot), chưa có kết quả kiểm soát chính thức,
@@ -519,18 +519,18 @@ như là một chiến lược kỹ thuật.
 Từ quan sát huấn luyện trong giai đoạn 2024--2026, những kết quả sau đây
 nổi bật. Về phần cảm giác tức thì: khi hướng dẫn học viên chuyển từ WS
 sang tư thế Continental mặt phẳng ngang đúng kỹ thuật, 100% trong số
-những học viên đã được hướng dẫn (n = 28) báo cáo cảm giác \'tự do\' rõ
-rệt tại cẳng tay trước --- mô tả là \'nhẹ hơn\', \'có thể xoay\' hoặc
-\'không bị kẹm\'. Khoảng 70% báo cáo sự giảm rõ ràng cảm giác căng tại
+những học viên đã được hướng dẫn (n = 28) báo cáo cảm giác 'tự do' rõ
+rệt tại cẳng tay trước --- mô tả là 'nhẹ hơn', 'có thể xoay' hoặc
+'không bị kẹm'. Khoảng 70% báo cáo sự giảm rõ ràng cảm giác căng tại
 phía ngoài khuỷu tay ngay trong 5 lần thực hiện đầu. Khoảng 85% ghi nhận
-rằng khuỷu tay cảm thấy \'thẳng\' và \'kẹp hơn vào người\' khi ở tư thế
+rằng khuỷu tay cảm thấy 'thẳng' và 'kẹp hơn vào người' khi ở tư thế
 đúng kỹ thuật, phù hợp với dự đoán khuỷu tay duỗi thẳng (extended elbow)
 trong mô hình.
 
 Về phần chuyển đổi ngược lại (WS test): khi yêu cầu học viên chủ động
 chuyển về tư thế WS (lòng bàn tay lên trời) trong khi thực hiện động tác
 giao bóng chia đôi (shadow serve), 95% báo cáo cảm giác khuỷu tay bị
-\'kéo ra ngoài\' và cổ tay cần \'gắn thêm\' --- phù hợp chính xác với
+'kéo ra ngoài' và cổ tay cần 'gắn thêm' --- phù hợp chính xác với
 hậu quả sinh cơ học mà Touzard et al. đã đo được trong phòng thí nghiệm.
 Sự tương đồng này giữa cảm giác chủ quan và dữ liệu khách quan là một
 trong những ứng dụng giá trị nhất của mô hình: nó có nghĩa rằng người
@@ -587,8 +587,8 @@ truyền đạt cảm giác proprioceptive hiệu quả.
 
 **5.1. Tại sao WS thất bại: Ngăn động tác pronation, không phải yếu cơ**
 
-Một hiểu lầm phổ biến là WS là kết quả của việc \'các cơ chi trên quá
-yếu\' hoặc \'chưa tập đủ\'. Quan điểm này dẫn đến các phương pháp sửa
+Một hiểu lầm phổ biến là WS là kết quả của việc 'các cơ chi trên quá
+yếu' hoặc 'chưa tập đủ'. Quan điểm này dẫn đến các phương pháp sửa
 chữa thiếu hiệu quả như tăng cường tổng thể cơ bắp chi trên, hoặc luyện
 tập giao bóng đơn thuần thêm nhiều lần. Mô hình cấu hình tầng bậc cho
 thấy một cách hiểu sắc bén hơn: WS thất bại không phải vì người chơi
@@ -609,17 +609,17 @@ mặt vợt hướng lên vị trí tác động bóng (vuông góc với đư�
 chơi phải xoay cẳng tay một cung lớn từ tư thế ngửa sang tư thế xoay.
 Nhưng cung xoay này bị giới hạn trực tiếp bởi tư thế khởi đầu của bàn
 tay. Thay vào đó, người chơi chọn (không tự giác) cách đơn giản hơn là
-\'snap\' cổ tay --- mở rộng cổ tay để cân bằng mặt vợt. Đây chính là
+'snap' cổ tay --- mở rộng cổ tay để cân bằng mặt vợt. Đây chính là
 nguồn gốc của tất cả hậu quả sinh cơ học mà Touzard et al. đã đo được.
 
 **5.2. Tầm quan trọng của mặt phẳng lòng bàn tay**
 
 Phát hiện trung tâm và độc đáo nhất của bài báo này là sự phân biệt giữa
 hai tư thế cầm vợt dường như rất giống nhau nhưng có hậu quả sinh cơ học
-hoàn toàn khác nhau: \'lòng bàn tay lên trời trong mặt phẳng dọc\' (WS)
-và \'lòng bàn tay mở ra ngang trong mặt phẳng ngang\' (Continental đúng
+hoàn toàn khác nhau: 'lòng bàn tay lên trời trong mặt phẳng dọc' (WS)
+và 'lòng bàn tay mở ra ngang trong mặt phẳng ngang' (Continental đúng
 kỹ thuật). Cả hai đều có thể được phân loại theo góc độ của người ngoài
-nhìn vào là \'tay cầm Continental\', nhưng về mặt chức năng sinh cơ học,
+nhìn vào là 'tay cầm Continental', nhưng về mặt chức năng sinh cơ học,
 chúng hoàn toàn khác biệt.
 
 Để hiểu sự khác biệt này, hãy tưởng tượng một người đang cầm một cây kim
@@ -654,18 +654,18 @@ pronation moment) kéo cẳng tay trước vào quá trình xoay. Cẳng tay tr�
 bắt đầu xoay được thì khuỷu tay không cần phải gập (flex) --- nó có thể
 giữ duỗi thẳng, tạo ra đòn bẩy dài hơn và độ trung tâm khó hơn. Cẳng tay
 bắt đầu xoay thì vai không cần xoay trước để bù gập --- vai có thể giữ
-tư thế \'cân bằng\' trong khi cẳng tay trước đạt tốc. Vai làm tốt truyền
+tư thế 'cân bằng' trong khi cẳng tay trước đạt tốc. Vai làm tốt truyền
 động cho thân trên --- khi thân trên phải tạo ít mô-men hơn để bù gập,
 nó có thể có mặt trong chuyển động chuỗi động học theo đúng thứ tự. Thân
-trên truyền lực xuống hông --- hip rotation lúc này mới có \'đích\' để
-cấp: căng hông trong giai đoạn hậu kỳ giương tay chính là \'nâng\' thế,
+trên truyền lực xuống hông --- hip rotation lúc này mới có 'đích' để
+cấp: căng hông trong giai đoạn hậu kỳ giương tay chính là 'nâng' thế,
 và nó được giải phóng đúng lúc khi cẳng tay trước bắt đầu gia tốc. Hông
 xuống lên gối và các ngón chân --- giai đoạn cuối của chuỗi, mũi cánh
 tay sau cuối cùng như một lò xo xếp chặt được thư thái.
 
 Toàn bộ chuỗi tầng bậc này phù hợp chính xác với lý thuyết chuỗi động
 học cổ điển, nhưng mô hình của chúng tôi bổ sung thêm một lớp: tất cả
-những \'tầng\' (bậc) này chỉ có thể hoạt động nếu \'biến thể\' (switch)
+những 'tầng' (bậc) này chỉ có thể hoạt động nếu 'biến thể' (switch)
 đầu chuỗi được bật --- và biến thể đó chính là mặt phẳng lòng bàn tay.
 
 **5.4. Ý nghĩa phục hồi chức năng và phòng ngừa chấn thương**
@@ -701,12 +701,12 @@ dễ dàng hơn nhiều so với việc sửa lại một kỹ thuật đã cũ 
 
 Tuy nhiên, có một thách thức huấn luyện đặc trưng: khi mới bắt đầu học
 giao bóng, trẻ em có xu hướng dựa trên phản xạ tập tính (trained reflex)
---- chúng muốn \'đánh\' bóng và nhìn bóng bay, hơn là chú ý đến cảm giác
+--- chúng muốn 'đánh' bóng và nhìn bóng bay, hơn là chú ý đến cảm giác
 của bàn tay. Bài kiểm tra cảm giác 10 giây và bài tập tường đặc biệt phù
 hợp với nhóm tuổi này vì chúng cung cấp phản hồi tức thì (immediate
 feedback) có thể được tiếp nhận mà không cần hiểu biết kỹ thuật sâu. Một
 đứa trẻ 10 tuổi có thể học phân biệt WS và Continental mặt phẳng ngang
-chỉ bằng câu hỏi: \'Khuỷu tay em có bị kéo ra ngoài không?\' --- không
+chỉ bằng câu hỏi: 'Khuỷu tay em có bị kéo ra ngoài không?' --- không
 cần giải thích sinh cơ học phức tạp.
 
 Về thiết kế chương trình huấn luyện, đề xuất của chúng tôi là chia ra 3
@@ -719,45 +719,45 @@ vào tập luyện toàn diện, kiểm tra định kỳ bằng bài kiểm tra 
 **5.6. Khía cạnh thần kinh học vận động (Motor Neuroscience)**
 
 Từ góc độ thần kinh học vận động, mô hình cấu hình tầng bậc liên hệ đến
-một số nguyên lý quan trọng. Đầu tiên là nguyên lý \'cửa vào
-proprioceptive\' (proprioceptive gateway): các cơ quan cảm giác trong
+một số nguyên lý quan trọng. Đầu tiên là nguyên lý 'cửa vào
+proprioceptive' (proprioceptive gateway): các cơ quan cảm giác trong
 các cơ bàn tay và ngón tay (muscle spindles, Golgi tendon organs) cung
 cấp dữ liệu hồi tiếp liên tục về tư thế bàn tay cho bộ não tiểu não
 (cerebellum) và vỏ não vận động (motor cortex). Khi tư thế bàn tay thay
 đổi, đầu vào từ giác quan (proprioceptive input) thay đổi, và điều này
 có thể kích hoạt hoặc ức chế các mạch tuyến sơ khác nhau.
 
-Nếu tư thế WS được duy trì lâu dài, nó sẽ trở thành \'default motor
-pattern\' cho hoạt động giao bóng. Biểu hiện này được gọi là \'motor
-engram\' hay \'muscle memory\' trong ngôn ngữ phổ thông. Để thay đổi nó,
-người chơi không chỉ cần \'biết\' tư thế mới là gì (thông tin khái
-niệm), mà còn cần \'cảm thấy\' nó là gì (thông tin cảm giác), và luyện
+Nếu tư thế WS được duy trì lâu dài, nó sẽ trở thành 'default motor
+pattern' cho hoạt động giao bóng. Biểu hiện này được gọi là 'motor
+engram' hay 'muscle memory' trong ngôn ngữ phổ thông. Để thay đổi nó,
+người chơi không chỉ cần 'biết' tư thế mới là gì (thông tin khái
+niệm), mà còn cần 'cảm thấy' nó là gì (thông tin cảm giác), và luyện
 tập nó đủ nhiều để viết lại engram mới (motor consolidation). Bài tập
 tường ba bước phục vụ chính xác mục tiêu này: nó cung cấp cảm giác
 proprioceptive của tư thế đúng trong điều kiện không có áp lực thi đấu,
 giúp quá trình học lại (re-learning) diễn ra hiệu quả hơn.
 
-Thứ hai là nguyên lý \'giảm tải nhận thức\' (cognitive load reduction):
+Thứ hai là nguyên lý 'giảm tải nhận thức' (cognitive load reduction):
 khi người chơi phải lưu tâm vào nhiều khía cạnh cùng lúc (vị trí trên
 sân, hướng bóng, động kỹ thuật\...), mạng tối khả năng nhận thức bị
 giảm. Mô hình cấu hình tầng bậc làm giảm tải nhận thức bằng cách cung
-cấp một \'nút kiểm soát duy nhất\' (single control point): chỉ cần kiểm
+cấp một 'nút kiểm soát duy nhất' (single control point): chỉ cần kiểm
 tra một điều --- mặt phẳng lòng bàn tay --- là có thể biết toàn bộ khung
-giao bóng có đang \'mở\' hay không. Đây là một lợi thế sư phạm lớn.
+giao bóng có đang 'mở' hay không. Đây là một lợi thế sư phạm lớn.
 
 **5.7. So sánh với các mô hình huấn luyện hiện hành**
 
 Phần lớn các hệ thống huấn luyện tennis hiện đại tập trung vào các phần
-thân thể \'lớn\': Bhupathi và Van Exel (ITF Level 3) đề cao \'leg drive
-and hip rotation\'; Bollettieri (NBTA method) tập trung vào \'trophy
-position and loading\'; ATP Academy chuẩn hóa \'shoulder over shoulder
-rotation\'. Tất cả những hệ thống này đều đúng, nhưng chúng dựa theo giả
-thuyết rằng \'ngoại biên đã được cấu hình đúng\' --- điều mà mô hình cấu
+thân thể 'lớn': Bhupathi và Van Exel (ITF Level 3) đề cao 'leg drive
+and hip rotation'; Bollettieri (NBTA method) tập trung vào 'trophy
+position and loading'; ATP Academy chuẩn hóa 'shoulder over shoulder
+rotation'. Tất cả những hệ thống này đều đúng, nhưng chúng dựa theo giả
+thuyết rằng 'ngoại biên đã được cấu hình đúng' --- điều mà mô hình cấu
 hình tầng bậc thách thức.
 
 Hệ thống duy nhất mà chúng tôi biết đến có đề cập đến mặt phẳng lòng bàn
 tay là hệ thống của Keith Primrose (Precision Tennis), người lập luận
-rằng \'the palm plane defines the arc\'. Tuy nhiên, hệ thống đó không có
+rằng 'the palm plane defines the arc'. Tuy nhiên, hệ thống đó không có
 nền tảng định lượng từ dữ liệu sinh cơ học, và chưa được kiểm chứng
 trong nghiên cứu có kiểm soát. Mô hình cấu hình tầng bậc của chúng tôi
 xây dựng trên nền tảng kiến thức đó và bổ sung thêm cơ sở lý thuyết
@@ -777,17 +777,17 @@ Bước thứ nhất --- Giữ mặt phẳng (Palm-Plane Hold, 30 giây): Ngư�
 cầm vợt bằng tay cầm Continental, bước đến gần tường (khoảng 30 cm), đặt
 đầu vợt lên tường và giữ vợt vuông góc với tường. Yêu cầu chính: lòng
 bàn tay phải ở mặt phẳng ngang (hướng ra ngang, không phải lên trời).
-Kiểm tra nhanh: nhìn xuống bàn tay --- bạn có nhìn thấy \'cạnh\' bàn tay
-không, hay là nhìn thấy \'mặt\' bàn tay? Nếu thấy \'mặt\' thì lòng bàn
+Kiểm tra nhanh: nhìn xuống bàn tay --- bạn có nhìn thấy 'cạnh' bàn tay
+không, hay là nhìn thấy 'mặt' bàn tay? Nếu thấy 'mặt' thì lòng bàn
 tay đang hướng lên trời --- đó là tư thế WS. Chỉnh lại cho đến khi thấy
-\'cạnh\'. Giữ tư thế này 30 giây, tập trung vào cảm giác khuỷu tay (phải
+'cạnh'. Giữ tư thế này 30 giây, tập trung vào cảm giác khuỷu tay (phải
 cảm thấy khuỷu tay duỗi, không bị kéo ra ngoài).
 
 Bước thứ hai --- Hạ vợt chậm (Slow Racquet Drop, x10 lần): Từ tư thế giữ
 mặt phẳng ở Bước 1, chầm chậm hạ vợt xuống phía sau lưng (racquet drop).
 Đảm bảo rằng vợt hạ theo cạnh (edge-on), đầu vợt chỉ thẳng xuống đất,
 không nghiêng về phía sau và không xoay mặt vợt. Cảm giác đúng: cẳng tay
-trước cảm thấy \'vặt xoay\' khi vợt hạ --- đây là động tác pronation
+trước cảm thấy 'vặt xoay' khi vợt hạ --- đây là động tác pronation
 đang hoạt động. Sau khi vợt hạ tới điểm thấp nhất, chầm chậm kéo lên về
 vị trí ban đầu.
 
@@ -805,12 +805,12 @@ tra xem mình đang ở tư thế WS hay Continental mặt phẳng ngang. Quy tr
 đơn giản: cầm vợt vào tư thế chuẩn bị giao bóng, giữ nguyên 10 giây, và
 trả lời ba câu hỏi sau đây.
 
-Câu hỏi thứ nhất: \'Khuỷu tay tôi có đang bị kéo ra phía ngoài (kéo ra
-phía dất chạy) không?\' Nếu có: đây là dấu hiệu của WS. Câu hỏi thứ hai:
-\'Cẳng tay trước tôi có cảm giác muốn xoay tự nhiên không?\' Nếu không
+Câu hỏi thứ nhất: 'Khuỷu tay tôi có đang bị kéo ra phía ngoài (kéo ra
+phía dất chạy) không?' Nếu có: đây là dấu hiệu của WS. Câu hỏi thứ hai:
+'Cẳng tay trước tôi có cảm giác muốn xoay tự nhiên không?' Nếu không
 có cảm giác này: có khả năng tư thế chưa cho phép pronation. Câu hỏi thứ
-ba: \'Đầu vợt có đang nằm phía trên lòng bàn tay tôi hay nằm sang một
-bên?\' Đầu vợt phải nằm phía trên, không phải nằm sang bên.
+ba: 'Đầu vợt có đang nằm phía trên lòng bàn tay tôi hay nằm sang một
+bên?' Đầu vợt phải nằm phía trên, không phải nằm sang bên.
 
 Bài kiểm tra này có độ chính xác tự phân biệt khá cao --- trong nhóm học
 viên của tác giả, 88% đã tự phân biệt đúng WS và Continental mặt phẳng
@@ -852,9 +852,9 @@ session. Kiểm tra cảm giác 10 giây 2 lần/tuần.
 tích hợp mô hình này vào giáo trình huấn luyện từ giai đoạn nền tảng như
 sau. Ở giai đoạn U10 (6--10 tuổi), trước khi dạy giao bóng chính thức,
 tất cả học viên nên làm quen với bài tập tường Bước 1 như một trò chơi
-cảm giác (\'Hãy cho thấy cạnh bàn tay!\'). Thuộc tính chơi trò chơi này
-giúp trẻ em tiếp thu mà không có sự căng thẳng của \'học đúng kỹ
-thuật\'.
+cảm giác ('Hãy cho thấy cạnh bàn tay!'). Thuộc tính chơi trò chơi này
+giúp trẻ em tiếp thu mà không có sự căng thẳng của 'học đúng kỹ
+thuật'.
 
 Ở giai đoạn U12, thêm Bước 2 và Bước 3 của bài tập tường. Bài kiểm tra
 cảm giác 10 giây như là một quy trình kiểm tra cho mỗi học viên trước
@@ -873,8 +873,8 @@ synthesis paper), không phải là một thử nghiệm kiểm soát độc l�
 Nền tảng dữ liệu định lượng chủ yếu đến từ một nghiên cứu duy nhất
 (Touzard et al., 2019), và các quan sát huấn luyện của tác giả là dữ
 liệu sơ bộ chưa có kiểm soát chính thức. Do đó, các kết luận của bài báo
-cần được hiểu là \'giả thuyết có cơ sở đang kiến\', chứ chưa phải là
-\'thực tế đã chứng minh\'.
+cần được hiểu là 'giả thuyết có cơ sở đang kiến', chứ chưa phải là
+'thực tế đã chứng minh'.
 
 Hạn chế thứ hai: cấu trúc dữ liệu huấn luyện (n=28) không đủ lớn và
 không có nhóm kiểm soát chính thức (control group). Các báo cáo cảm giác
@@ -916,9 +916,9 @@ là hướng của mặt phẳng lòng bàn tay --- là điều kiện nền t�
 toàn bộ các khớp chuỗi động học có thể hoạt động hiệu quả hay không
 trong giao bóng.
 
-Điều này khái niệm hóa lại lỗi giao bóng \'khay phục vụ\' (waiter\'s
-tray serve) ở một mức sâu hơn: WS không phải chỉ là một tư thế tay \'xấu
-nhìn\'. Nó là một tư thế chặn đứng cơ chế xoay cẳng tay tự nhiên, buộc
+Điều này khái niệm hóa lại lỗi giao bóng 'khay phục vụ' (waiter's
+tray serve) ở một mức sâu hơn: WS không phải chỉ là một tư thế tay 'xấu
+nhìn'. Nó là một tư thế chặn đứng cơ chế xoay cẳng tay tự nhiên, buộc
 cẳng tay vào một chuỗi bù đắp (cổ tay mở rộng, khuỷu tay gập, vai xoay
 sớm) tạo ra tải trọng cao hơn ở cả ba khớp chính đồng thời mà không đem
 lại lợi ích gì về mặt vận tốc. Đây là một giao thương rất bất lợi (poor
@@ -926,12 +926,12 @@ trade-off), và nó là đặc điểm đặc trưng của WS ở mọi cấp tr
 
 Ngay khi các ba điều kiện kỹ thuật của cầm vợt Continental đúng kỹ thuật
 (mặt phẳng lòng bàn tay ngang, đầu vợt trên lòng bàn tay, khuỷu tay
-duỗi) được đáp ứng, chuỗi tầng bậc tự động \'mở ra\': cẳng tay trước
+duỗi) được đáp ứng, chuỗi tầng bậc tự động 'mở ra': cẳng tay trước
 xoay tự nhiên, vai làm việc đúng lúc đúng thời điểm, thân trên truyền
 động cho hông, và hông --- và cuối cùng cả chân --- tham gia đầy đủ vào
-giao bóng. Không phải bằng mọi hành động trí tuệ là \'đẩy chân nhiều
-hơn\' hay \'xoay hông hơn\', mà là một hiệu ứng đổ xuống (downstream
-effect) của việc \'mở khóa\' ở đầu chuỗi.
+giao bóng. Không phải bằng mọi hành động trí tuệ là 'đẩy chân nhiều
+hơn' hay 'xoay hông hơn', mà là một hiệu ứng đổ xuống (downstream
+effect) của việc 'mở khóa' ở đầu chuỗi.
 
 Về mặt thực tiễn, mô hình này cho thấy rằng can thiệp huấn luyện hiệu
 quả nhất không bắt đầu từ chân hay hông, mà bắt đầu từ bàn tay. Bài tập
@@ -943,14 +943,14 @@ chứng tỏ có hiệu quả trong thiết lập cảm giác proprioceptive ch�
 Kết luận cuối cùng của bài báo này là: giao bóng là một động tác toàn
 thân, nhưng nó bắt đầu và bị quyết định bởi một điểm rất nhỏ --- mặt
 phẳng lòng bàn tay. Thay đổi mặt phẳng đó là tác động nhỏ nhất với hậu
-quả lớn nhất mà chúng tôi từng biết đến trong giao bóng tennis. \'Thả
-tay ra\' --- theo nghĩa đen của tư pháp Continental mặt phẳng ngang ---
+quả lớn nhất mà chúng tôi từng biết đến trong giao bóng tennis. 'Thả
+tay ra' --- theo nghĩa đen của tư pháp Continental mặt phẳng ngang ---
 là điều kiện đơn giản nhất để cho phép toàn bộ cơ thể di chuyển tự do.
 
 **TÀI LIỆU THAM KHẢO**
 
 Touzard P, Kulpa R, Bideau B, Montalvan B, Roell M. (2019).
-Biomechanical analysis of the waiter\'s serve on upper limb loads in
+Biomechanical analysis of the waiter's serve on upper limb loads in
 young elite tennis players. European Journal of Sport Science.
 19(6):765--773. DOI:10.1080/17461391.2018.1539527.
 
@@ -1017,34 +1017,28 @@ xuất bản.
 Thẻ sau đây có thể được in ra và đặt ở bên tường như tài liệu tham khảo
 nhanh trong khi tập luyện.
 
-+:---------------------------------------------------------------------:+
-| **BÀI TẬP TƯỜNG --- CONTINENTAL MẶT PHẲNG NGANG**                     |
-+-----------------------------------------------------------------------+
-| **BƯỚC 1: GIỮ MẶT PHẲNG (30 giây)**                                   |
-+-----------------------------------------------------------------------+
-| Cầm vợt Continental, đặt đầu vợt lên tường, giữ vuông góc với tường.  |
-|                                                                       |
-| *Kiểm tra: Thấy \'cạnh bàn tay\' hay \'mặt bàn tay\'?*                |
-|                                                                       |
-| **Khuỷu tay phải cảm thấy: DUỖI, KHÔNG BỊ KÉO RA NGOÀI.**             |
-+-----------------------------------------------------------------------+
-| **BƯỚC 2: HẠ VỢT CHẬM (x10 lần)**                                     |
-+-----------------------------------------------------------------------+
-| Từ tư thế Bước 1, chầm chậm hạ vợt xuống phía sau lưng.               |
-|                                                                       |
-| **Vợt phải hạ THEO CẠNH --- đầu vợt chỉ thẳng xuống đất.**            |
-|                                                                       |
-| *Cảm giác đúng: cẳng tay trước \'vặt xoay\' khi vợt hạ.*              |
-+-----------------------------------------------------------------------+
-| **BƯỚC 3: GIAO BÓNG TRONG BÓNG (x20 lần)**                            |
-+-----------------------------------------------------------------------+
-| Thực hiện động tác giao bóng đầy đủ trong bóng (không bóng thật).     |
-|                                                                       |
-| **Giữ: mặt phẳng ngang + vợt theo cạnh + khuỷu duỗi + xoay tự         |
-| nhiên.**                                                              |
-|                                                                       |
-| *Sau khi hoàn thiện trong bóng: tung bóng thật và giao.*              |
-+-----------------------------------------------------------------------+
+| **BÀI TẬP TƯỜNG --- CONTINENTAL MẶT PHẲNG NGANG** |
+| --- |
+| **BƯỚC 1: GIỮ MẶT PHẲNG (30 giây)** |
+| Cầm vợt Continental, đặt đầu vợt lên tường, giữ vuông góc với tường. |
+|  |
+| *Kiểm tra: Thấy 'cạnh bàn tay' hay 'mặt bàn tay'?* |
+|  |
+| **Khuỷu tay phải cảm thấy: DUỖI, KHÔNG BỊ KÉO RA NGOÀI.** |
+| **BƯỚC 2: HẠ VỢT CHẬM (x10 lần)** |
+| Từ tư thế Bước 1, chầm chậm hạ vợt xuống phía sau lưng. |
+|  |
+| **Vợt phải hạ THEO CẠNH --- đầu vợt chỉ thẳng xuống đất.** |
+|  |
+| *Cảm giác đúng: cẳng tay trước 'vặt xoay' khi vợt hạ.* |
+| **BƯỚC 3: GIAO BÓNG TRONG BÓNG (x20 lần)** |
+| Thực hiện động tác giao bóng đầy đủ trong bóng (không bóng thật). |
+|  |
+| **Giữ: mặt phẳng ngang + vợt theo cạnh + khuỷu duỗi + xoay tự |
+| nhiên.** |
+|  |
+| *Sau khi hoàn thiện trong bóng: tung bóng thật và giao.* |
+
 
 **PHỤ LỤC B: GHI CHÚ GIẢI PHẪU HỌC BỔ SUNG**
 

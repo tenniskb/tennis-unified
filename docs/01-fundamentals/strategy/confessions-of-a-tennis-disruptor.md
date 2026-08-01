@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_confessions-of-a-tennis-disruptor/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_confessions-of-a-tennis-disruptor/media/image1.webp)
 
 **From an early age my disruptive style was never appreciated.**
 
@@ -32,8 +31,7 @@ Here are a few of the post-match comments (profanity-free versions) that
 I've heard over the years -- and my desired but unstated responses:
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_confessions-of-a-tennis-disruptor/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_confessions-of-a-tennis-disruptor/media/image2.webp)
 
 **A core strategy: constantly take off pace.**
 
@@ -64,8 +62,7 @@ this guy?\" Usually, they have no idea.
 
 ![A person hitting a ball with a bat Description automatically generated
 with medium
-confidence](media_confessions-of-a-tennis-disruptor/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_confessions-of-a-tennis-disruptor/media/image3.webp)
 
 **How about a soft slice serve backed up with a surprise volley?**
 
@@ -98,8 +95,7 @@ tennis player is issued one genetic gift. Some have the gene for foot
 speed. Others are naturally smooth. Others are powerful.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_confessions-of-a-tennis-disruptor/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_confessions-of-a-tennis-disruptor/media/image4.webp)
 
 **My backhand drive has been called pretty by John Newcombe.**
 
@@ -130,8 +126,7 @@ laziness (bad driller) and a heavy resistance to rote and repetitive
 learning (barely passed French) and you are starting to see the picture.
 
 ![A person holding a tennis racket Description automatically
-generated](media_confessions-of-a-tennis-disruptor/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_confessions-of-a-tennis-disruptor/media/image5.webp)
 
 **Is disdain your only response?**
 
@@ -164,8 +159,7 @@ opponent's game must first be understood before being dismantled.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_confessions-of-a-tennis-disruptor/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_confessions-of-a-tennis-disruptor/media/image6.webp)
 
 **In the words of Bill Tilden: the object is to break up your opponent's
 game.**
@@ -196,8 +190,7 @@ Now why would I want to do that?\"
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing glasses Description automatically generated with medium                                                                                                         Joel Drucker is one of the world's best known
-  confidence](media_confessions-of-a-tennis-disruptor/media/image7.jpeg){width="1.5597222222222222in"   tennis writers, having written for years for
-  height="2.0722222222222224in"}                                                                                                                                                     Tennis and many other publications. He is a
+  confidence](media_confessions-of-a-tennis-disruptor/media/image7.jpeg)                                                                                                                                                     Tennis and many other publications. He is a
                                                                                                                                                                                      consultant and background researcher working with
                                                                                                                                                                                      some of the top commentators for the Tennis
                                                                                                                                                                                      Channel. Joel is also the author of the book
@@ -208,14 +201,13 @@ Now why would I want to do that?\"
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![Text Description automatically generated with medium                                                                                                                           | **\"Jimmy Connors Saved My Life\"**                                                                                                                                   |
-| confidence](media_confessions-of-a-tennis-disruptor/media/image8.jpeg){width="1.5597222222222222in" |                                                                                                                                                                       |
-| height="2.3756944444444446in"}                                                                                                                                                   | \"Jimmy Connors Saved My Life\" is a unique account of the career of the legendary American champion, James Scott Connors, and how it intertwined with the life of    |
-|                                                                                                                                                                                  | the author in a relationship both real and imagined. The book combines the perspective of an intellectual, a devoted tennis player, a professional writer, and a      |
-|                                                                                                                                                                                  | student of society searching for meaning and identity in a defining period of American history, a period in which tennis became a big time, big money, and big media  |
-|                                                                                                                                                                                  | sport.                                                                                                                                                                |
-|                                                                                                                                                                                  |                                                                                                                                                                       |
-|                                                                                                                                                                                  | [Click Here to                                                                                                                                                        |
-|                                                                                                                                                                                  | Order!](http://www.amazon.com/Jimmy-Connors-Saved-Life-Biography/dp/1861058993/ref=sr_1_2?s=books&ie=UTF8&qid=1427658831&sr=1-2&keywords=jimmy+connors+saved+my+life) |
-+==================================================================================================================================================================================+=======================================================================================================================================================================+
+| ![Text Description automatically generated with medium | **\"Jimmy Connors Saved My Life\"** |
+| --- | --- |
+| confidence](media_confessions-of-a-tennis-disruptor/media/image8.jpeg) | \"Jimmy Connors Saved My Life\" is a unique account of the career of the legendary American champion, James Scott Connors, and how it intertwined with the life of |
+|  | the author in a relationship both real and imagined. The book combines the perspective of an intellectual, a devoted tennis player, a professional writer, and a |
+|  | student of society searching for meaning and identity in a defining period of American history, a period in which tennis became a big time, big money, and big media |
+|  | sport. |
+|  |  |
+|  | [Click Here to |
+|  | Order!](http://www.amazon.com/Jimmy-Connors-Saved-Life-Biography/dp/1861058993/ref=sr_1_2?s=books&ie=UTF8&qid=1427658831&sr=1-2&keywords=jimmy+connors+saved+my+life) |
+

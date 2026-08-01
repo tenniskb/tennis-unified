@@ -8,14 +8,13 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image1.webp)
 
 **Turning points cause a shift in the balance of energy between
 players.**
 
 In the last article we looked at the first stage of momentum: when
-momentum is totally with you. Now let\'s look at Stage Two, When
+momentum is totally with you. Now let's look at Stage Two, When
 Momentum Is With You (but not totally with you). (For Part 1 and Part 2
 [Click Here](When%20Momentum%20is%20Totally%20With%20You%20.docx).)
 
@@ -27,8 +26,7 @@ because your opponent has a lot of ground to make up.
 
 ![A picture containing text, athletic game, tennis, sport Description
 automatically
-generated](media_when-momentum-is-with-you/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-with-you/media/image2.webp)
 
 **Be ready to raise your energy when you spot a potential turning
 point.**
@@ -36,7 +34,7 @@ point.**
 **Put the Radar On**
 
 When the momentum is with you, you have to spot potential turning points
-when they occur. If you don\'t spot a potential turning point and react
+when they occur. If you don't spot a potential turning point and react
 to it, things could turn against you. You need to have your turning
 point radar switched on. Like my old doubles partner Mike Robinson once
 said**[[: \"Winning from a winning position is like drowning someone.
@@ -68,8 +66,7 @@ around and your opponent takes control? Or it will it be merely a Blip
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_when-momentum-is-with-you/media/image3.jpg){width="2.9305555555555554in"
-                                                                         height="2.729861111111111in"}
+   generated](media_when-momentum-is-with-you/media/image3.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         **A Turning Point or a Blip? Your reaction can determine it.**
 
@@ -82,29 +79,28 @@ because of two experiences:
 examples of players having match points, missing the opportunity and
 then crashing to heavy defeat in the final set. Yet I would see the top
 players double-fault when serving for the match and then still go on to
-win the tie-break. Why didn\'t they also crash to defeat in the final
+win the tie-break. Why didn't they also crash to defeat in the final
 set?
 
 2\. Watching inexperienced and experienced players on clay, I noticed
 that if the inexperienced players missed an opportunity they seemed to
 panic. The clay-court specialists, on the other hand, accepted missed
-opportunities and didn\'t panic. They were prepared to stay on court for
+opportunities and didn't panic. They were prepared to stay on court for
 three hours if necessary and did not have a crash mentality.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image4.webp)
 
 **Spectators can sense how negative reactions lead turning points.**
 
 **Controlling Potential Turning Points**
 
-When potential turning points occur, it\'s as if the momentum suddenly
+When potential turning points occur, it's as if the momentum suddenly
 becomes neutral. If a player reacts negatively during that time, you can
 sense the momentum beginning to turn. Even non-tennis playing spectators
 can sense this feeling - they can relate to seeing something going wrong
-and the implications of this. They sense it is the player\'s response
+and the implications of this. They sense it is the player's response
 immediately after a potential turning point that determines how big an
 affect it will have on the match. Potential turning points are always
 things that are able to depress or boost either you or your opponent.
@@ -113,8 +109,7 @@ you and/or positive changes by your opponent.
 
 ![A picture containing text, outdoor, athletic game, sport Description
 automatically
-generated](media_when-momentum-is-with-you/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-with-you/media/image5.webp)
 
 **Body Language is a key factor in controlling potential turning point**
 
@@ -131,17 +126,16 @@ the lead. There are a number of key factors that will determine your
 ability to control turning points.
 
 ![A person swinging a baseball bat Description automatically
-generated](media_when-momentum-is-with-you/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_when-momentum-is-with-you/media/image6.webp)\
 **If your opponent raises their energy, you have to respond in kind.**
 
 **Attitude and Fighting Spirit**
 
-**[[You may not be able to control your opponent\'s attitude, but you
+**[[You may not be able to control your opponent's attitude, but you
 can control yours]{.underline}]{.mark}**. If a turning point has just
 happened against you and your opponent suddenly raises their energy/game
 because they feel good, you have to be prepared to quickly raise your
-energy/game too, so your opponent doesn\'t get the momentum. It\'s like
+energy/game too, so your opponent doesn't get the momentum. It's like
 being in a foot race and your opponent decides to kick \-- you have to
 respond. If you do this well, then your opponent may lose heart if his
 best attempt to catch you up has failed.
@@ -157,8 +151,7 @@ matches.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
-   generated](media_when-momentum-is-with-you/media/image7.jpg){width="2.9305555555555554in"
-                                                                        height="2.8131944444444446in"}
+   generated](media_when-momentum-is-with-you/media/image7.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **With the right attitude you can turn around potential turning points.**
 
@@ -166,7 +159,7 @@ matches.
 
 The one thing we can probably say about your next match is that at some
 stage, something will go wrong. Because this is just part of the reality
-of competitive tennis, you can\'t be surprised. You have to prepare your
+of competitive tennis, you can't be surprised. You have to prepare your
 mind when the (nearly) inevitable happens. Make sure you are psyched up
 for any potential turning points against you so that you are ready to
 respond positively.
@@ -181,28 +174,27 @@ winning a game in a straightforward manner.
 Tim Henman has a very good attitude about this. He recovers mentally
 very quickly after missing a shot to give his opponent break point. Many
 times, he digs himself back out again with service winners or brilliant
-play. This can work in his favour, even if it doesn\'t do much for the
+play. This can work in his favour, even if it doesn't do much for the
 nerves of his supporters!
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image8.webp)
 
 **You can double the boost to your opponent by showing them you are
 downcast.**
 
 **Body Language**
 
-**[[Even if you can\'t control your energy, you need to at least control
+**[[Even if you can't control your energy, you need to at least control
 how it looks to your opponent.]{.underline}]{.mark}** **[[If they get a
-boost from what\'s happening in the match (e.g. a big winner, a double
-fault, an unexpected missed smash), you don\'t want to double this boost
+boost from what's happening in the match (e.g. a big winner, a double
+fault, an unexpected missed smash), you don't want to double this boost
 by letting them see you are downcast by it.]{.underline}]{.mark}**
 
 It is vital to remember that a potential turning point will end up as
 either an actual Turning Point or merely a Blip depending on your
-response. It\'s not what goes wrong, but your response to what goes
+response. It's not what goes wrong, but your response to what goes
 wrong that matters. You have to be mentally prepared to renew your
 efforts if you slip up when in the lead. Remember that fighting spirit
 is not only needed when you are behind.
@@ -220,8 +212,7 @@ way. Ever hear the expression make hay while the sun shines?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image9.webp)
 
 **When you have momentum, collect as many points as possible.**
 
@@ -242,8 +233,7 @@ the game itself.]{.mark}]{.underline}**
 
 ![A picture containing athletic game, tennis, sport, person Description
 automatically
-generated](media_when-momentum-is-with-you/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-with-you/media/image10.webp)
 
 **Even in his senior career, Mac could change the flow of momentum by
 arguing with officials.**
@@ -255,12 +245,12 @@ increases your distraction.]{.underline}]{.mark}**
 
 **Choosing the Battlefield**
 
-Matches can be won or lost either on the tennis or gamesmanship. It\'s
+Matches can be won or lost either on the tennis or gamesmanship. It's
 like having two battlefields on which two different battles are fought.
 On one battlefield there is the tennis game; on the other battlefield is
 the gamesmanship game.
 
-**[[If your opponent can\'t win on the tennis battlefield, they might
+**[[If your opponent can't win on the tennis battlefield, they might
 try to entice you onto the gamesmanship battlefield, particularly on a
 big point. Do not be tempted to go there. Winning battles is a lot to do
 with who gets to choose the battlefield.]{.underline}]{.mark}** If your
@@ -269,7 +259,7 @@ before and have been practising on that battlefield for a long time. It
 is their home ground. Therefore, stay on your winning battlefield \--
 the tennis battlefield.
 
-**[[In other words, if it\'s a questionable line call, don\'t get
+**[[In other words, if it's a questionable line call, don't get
 involved in arguing if you are in the lead and you know it will distract
 you. Make your point strongly and keep the match about tennis by
 refocusing solely on the game itself.]{.underline}]{.mark}**
@@ -288,8 +278,7 @@ to renew their efforts when they come back.]{.mark}]{.underline}**
 
 ![A person in a red shirt Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image11.webp)
 
 **Arguing calls can inadvertently cause you to lose momentum.**
 
@@ -312,28 +301,27 @@ wind will go out of your sails.
 **Biased Clapping**
 
 **[[When you make a mistake, you naturally feel down. When your
-opponent\'s supporters clap for your mistake they hope to make you feel
+opponent's supporters clap for your mistake they hope to make you feel
 worse, to the point of distracting you from the
-game.]{.underline}]{.mark}** Remember this, and don\'t fall into the
+game.]{.underline}]{.mark}** Remember this, and don't fall into the
 trap of glaring at them or appealing to their sense of fairness; you may
 as well appeal to the sun not to shine in your eyes on a smash! Stay
 focussed on the tennis.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_when-momentum-is-with-you/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_when-momentum-is-with-you/media/image12.webp)
 
 **Keep the match running when you have the momentum.**
 
 **Keeping the Match Running**
 
-**[[When you have the momentum with you, don\'t create distractions
+**[[When you have the momentum with you, don't create distractions
 against yourself. Keep the match running. When things are going your
-way, the quicker the match finishes the better, so don\'t slow it
+way, the quicker the match finishes the better, so don't slow it
 down.]{.underline}]{.mark}** Some players, such as Andre Agassi, speed
 up when they have the flow with them - this gives their opponent less
-chance to regroup mentally. Don\'t interrupt the match by arguing a line
+chance to regroup mentally. Don't interrupt the match by arguing a line
 call too long, taking a toilet break or taking too long between points.
 Avoid interruptions when you have the momentum.
 
@@ -346,8 +334,7 @@ effectively created a turning point against himself, and he eventually
 lost in three sets.
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-with-you/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-with-you/media/image13.webp)
 
 **You can turn a choke into a Turning Point by letting it affect you
 mentally.**
@@ -370,15 +357,14 @@ to close out a win. It is only the non-experts who believe that losing a
 lead is a sign of weakness every time.
 
 ![A person playing tennis Description automatically
-generated](media_when-momentum-is-with-you/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_when-momentum-is-with-you/media/image14.webp)
 
 **Be a tennis expert and prepared to fight.**
 
 **[To keep choking in perspective, remember what a tennis expert
 knows:]{.underline}**
 
-**[There\'s no point in getting very nervous]{.mark}. If your opponent
+**[There's no point in getting very nervous]{.mark}. If your opponent
 is any good, they will be fighting harder and playing better at the end
 of the match, so you must always be prepared to work hard for another
 five minutes or more. How do you expect to win the last game? Will any
@@ -392,8 +378,7 @@ tennis expert and be prepared to fight.**
 
 ![A person with his eyes closed Description automatically generated with
 low
-confidence](media_when-momentum-is-with-you/media/image15.jpeg){width="1.1215277777777777in"
-height="1.5215277777777778in"}
+confidence](media_when-momentum-is-with-you/media/image15.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -406,8 +391,7 @@ study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
 ![Map Description automatically generated with low
-confidence](media_when-momentum-is-with-you/media/image16.jpeg){width="1.04375in"
-height="1.4520833333333334in"}
+confidence](media_when-momentum-is-with-you/media/image16.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

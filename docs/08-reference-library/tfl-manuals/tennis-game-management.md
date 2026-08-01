@@ -76,20 +76,20 @@ một cách ổn định. Điểm khác biệt là người nào biết dùng nh
 ĐÚNG LÚC, ĐÚNG CHỖ và ĐÚNG MỤC ĐÍCH. Đó chính là bản chất của quản lý
 game.
 
-+-----------------------------------------------------------------------+
-| **★ Định Nghĩa Cốt Lõi**                                              |
-|                                                                       |
+| **★ Định Nghĩa Cốt Lõi** |
+| --- |
+|  |
 | Quản lý game = Kỹ thuật × Chiến lược × Kiểm soát tâm lý × Thích nghi. |
-| Bốn yếu tố này phải hoạt động đồng thời và hài hòa. Thiếu bất kỳ yếu  |
-| tố nào, hiệu suất sẽ sụp đổ dưới áp lực.                              |
-+-----------------------------------------------------------------------+
+| Bốn yếu tố này phải hoạt động đồng thời và hài hòa. Thiếu bất kỳ yếu |
+| tố nào, hiệu suất sẽ sụp đổ dưới áp lực. |
+
 
 **1.2. Tại Sao 5.0 Cần Triết Lý Riêng?**
 
 Vận động viên 5.0 đối mặt với những thách thức độc đáo mà người chơi ở
 cấp thấp hơn không gặp phải. Đối thủ của họ có kỹ thuật vững, ổn định
 cao, và không mắc lỗi miễn phí. Điều này có nghĩa là không thể thắng đơn
-giản bằng cách \'đánh vào\' --- phải có kế hoạch tấn công có chủ đích.
+giản bằng cách 'đánh vào' --- phải có kế hoạch tấn công có chủ đích.
 
 Tại cấp độ 5.0, mỗi điểm đều có cấu trúc chiến lược. Serve không chỉ để
 bắt đầu điểm --- nó thiết lập lợi thế vị trí. Return không chỉ để đưa
@@ -165,22 +165,22 @@ bàn chiến lược cho mọi tình huống trên sân.
 
 Một trong những chuyển đổi tư duy quan trọng nhất mà vận động viên 5.0
 phải thực hiện là từ tư duy kết quả sang tư duy xác suất. Thay vì hỏi
-\'Tôi có đánh được cú đó không?\', câu hỏi đúng là \'Cú đó có phải lựa
-chọn tốt nhất với xác suất thành công cao nhất không?\'
+'Tôi có đánh được cú đó không?', câu hỏi đúng là 'Cú đó có phải lựa
+chọn tốt nhất với xác suất thành công cao nhất không?'
 
 Ngay cả Federer cũng đánh hỏng forehand winner. Ngay cả Djokovic cũng
 double-fault ở breakpoint. Khác biệt là họ chọn những shot có expected
 value dương --- tức là về dài hạn, lựa chọn đó tạo ra nhiều điểm hơn mất
 đi.
 
-+-----------------------------------------------------------------------+
-| **► Ví Dụ Tư Duy Xác Suất**                                           |
-|                                                                       |
-| Khi bạn ở 30-40, serve vào T với xác suất thành công 75% nhưng chỉ    |
-| tạo ra lợi thế nhỏ, so với serve wide với xác suất 55% nhưng thường   |
+| **► Ví Dụ Tư Duy Xác Suất** |
+| --- |
+|  |
+| Khi bạn ở 30-40, serve vào T với xác suất thành công 75% nhưng chỉ |
+| tạo ra lợi thế nhỏ, so với serve wide với xác suất 55% nhưng thường |
 | kết thúc điểm ngay --- đâu là lựa chọn tốt hơn? Câu trả lời phụ thuộc |
-| vào expected value (EV), không phải cảm giác.                         |
-+-----------------------------------------------------------------------+
+| vào expected value (EV), không phải cảm giác. |
+
 
 **1.6. Vai Trò Của Coach Trong Phát Triển Game Management**
 
@@ -189,9 +189,9 @@ việc sửa kỹ thuật. Bạn là kiến trúc sư của hệ thống tư duy
 viên. Điều này đòi hỏi bạn phải hiểu không chỉ WHAT (điều gì cần làm) mà
 còn WHY (tại sao) và HOW (như thế nào trong từng tình huống cụ thể).
 
-Coach giỏi ở cấp độ 5.0 không nói \'hãy đánh cross-court\' --- họ nói
-\'trong tình huống đối thủ đứng ở vị trí này với tỷ số này, cross-court
-có expected value cao hơn down-the-line vì\...\' Sự khác biệt đó tạo ra
+Coach giỏi ở cấp độ 5.0 không nói 'hãy đánh cross-court' --- họ nói
+'trong tình huống đối thủ đứng ở vị trí này với tỷ số này, cross-court
+có expected value cao hơn down-the-line vì\...' Sự khác biệt đó tạo ra
 vận động viên tư duy độc lập, không chỉ thực thi lệnh.
 
 **1.7. Cấu Trúc Cuốn Sách**
@@ -202,13 +202,13 @@ chiến thuật cụ thể (Chương 5-12), đến quản lý tâm lý và thể
 13-17), và cuối cùng là ứng dụng thực chiến và phát triển dài hạn
 (Chương 18-20).
 
-+-----------------------------------------------------------------------+
-| **★ Cam Kết Của Coach**                                               |
-|                                                                       |
-| Mỗi chương được thiết kế với drill cụ thể có thể áp dụng ngay trên    |
-| sân. Lý thuyết trong cuốn sách này không có giá trị nếu không được    |
-| chuyển hóa thành thói quen thông qua luyện tập có mục đích.           |
-+-----------------------------------------------------------------------+
+| **★ Cam Kết Của Coach** |
+| --- |
+|  |
+| Mỗi chương được thiết kế với drill cụ thể có thể áp dụng ngay trên |
+| sân. Lý thuyết trong cuốn sách này không có giá trị nếu không được |
+| chuyển hóa thành thói quen thông qua luyện tập có mục đích. |
+
 
 **1.8. Ngôn Ngữ Chung Của Chiến Thuật**
 
@@ -252,7 +252,7 @@ Người chơi tennis giỏi nhìn sân như một bàn cờ. Mỗi cú đánh l
 nó được xây dựng qua hàng nghìn giờ luyện tập có mục đích và video phân
 tích.
 
-Trong tennis 5.0, không có \'cú đánh ngẫu nhiên\'. Mỗi quyết định ---
+Trong tennis 5.0, không có 'cú đánh ngẫu nhiên'. Mỗi quyết định ---
 đánh hard hay soft, flat hay topspin, cross hay down-the-line --- đều
 phải có lý do chiến thuật. Khi bạn bắt đầu suy nghĩ theo cách này, bạn
 không chỉ trở thành người chơi tốt hơn mà còn trở thành coach tốt hơn.
@@ -265,14 +265,14 @@ nhất --- mà là người ra quyết định tốt nhất dưới áp lực. K
 là công cụ tư duy xuyên suốt toàn bộ cuốn sách. Tư duy xác suất, không
 phải tư duy kết quả, là nền tảng của chiến lược đỉnh cao.
 
-+-----------------------------------------------------------------------+
-| **★ Bài Tập Áp Dụng**                                                 |
-|                                                                       |
-| Trong 5 trận tiếp theo, sau mỗi điểm thua, hãy tự hỏi: \'Quyết định   |
-| của tôi có phải là lựa chọn xác suất cao nhất không?\' Không phán xét |
-| kết quả --- chỉ đánh giá chất lượng quyết định. Ghi chép lại và mang  |
-| vào buổi tập với coach.                                               |
-+-----------------------------------------------------------------------+
+| **★ Bài Tập Áp Dụng** |
+| --- |
+|  |
+| Trong 5 trận tiếp theo, sau mỗi điểm thua, hãy tự hỏi: 'Quyết định |
+| của tôi có phải là lựa chọn xác suất cao nhất không?' Không phán xét |
+| kết quả --- chỉ đánh giá chất lượng quyết định. Ghi chép lại và mang |
+| vào buổi tập với coach. |
+
 
 **CHƯƠNG 2**
 
@@ -308,15 +308,15 @@ Chúng ta sẽ áp dụng framework SWOT (Strengths, Weaknesses,
 Opportunities, Threats) vào phân tích đối thủ tennis. Đây là công cụ đơn
 giản nhưng cực kỳ hiệu quả để tổ chức thông tin thu thập được.
 
-+-----------------------------------------------------------------------+
-| **► SWOT Trong Tennis**                                               |
-|                                                                       |
-| S (Strengths): Cú mạnh nhất của đối thủ --- tránh feed vào đó. W      |
+| **► SWOT Trong Tennis** |
+| --- |
+|  |
+| S (Strengths): Cú mạnh nhất của đối thủ --- tránh feed vào đó. W |
 | (Weaknesses): Điểm yếu kỹ thuật hoặc tâm lý --- tấn công có chủ đích. |
-| O (Opportunities): Tình huống họ hay mắc lỗi --- tạo ra những tình    |
-| huống đó. T (Threats): Chiến thuật của họ có thể gây khó cho bạn ---  |
-| chuẩn bị counter.                                                     |
-+-----------------------------------------------------------------------+
+| O (Opportunities): Tình huống họ hay mắc lỗi --- tạo ra những tình |
+| huống đó. T (Threats): Chiến thuật của họ có thể gây khó cho bạn --- |
+| chuẩn bị counter. |
+
 
 **2.3. 7 Điểm Quan Sát Quan Trọng Nhất**
 
@@ -415,13 +415,13 @@ không chỉ đánh bại kỹ thuật của đối thủ --- họ đánh bại 
 
 - Thay đổi routine: đột ngột thay đổi thứ tự serve = mất định hướng
 
-+-----------------------------------------------------------------------+
-| **★ Nguyên Tắc Vàng**                                                 |
-|                                                                       |
-| Khi đối thủ đang thua tâm lý, đơn giản hóa game của bạn. Đừng thử     |
-| những shot khó --- hãy cho bóng vào sân nhiều nhất, tạo áp lực bằng   |
-| consistency, không phải bằng rủi ro.                                  |
-+-----------------------------------------------------------------------+
+| **★ Nguyên Tắc Vàng** |
+| --- |
+|  |
+| Khi đối thủ đang thua tâm lý, đơn giản hóa game của bạn. Đừng thử |
+| những shot khó --- hãy cho bóng vào sân nhiều nhất, tạo áp lực bằng |
+| consistency, không phải bằng rủi ro. |
+
 
 **2.7. Hệ Thống Ghi Chép Chiến Thuật**
 
@@ -429,14 +429,14 @@ Một coach 5.0 giỏi cần có hệ thống ghi chép nhanh trong thi đấu. 
 đây là format ghi chép tối giản nhưng đủ thông tin để điều chỉnh game
 plan giữa các set.
 
-+-----------------------------------------------------------------------+
-| **► Match Notes Template**                                            |
-|                                                                       |
-| SERVE: T=\_\_ W=\_\_ B=\_\_ \| DF=\_\_ \| 2nd in=\_\_% \| RETURN:     |
-| Bóng nào khó nhất: \_\_ \| Pattern hay dùng: \_\_ \| Điểm yếu rõ      |
-| nhất: \_\_ \| BH hay FH? \_\_ \| Net game: Y/N \_\_ \| Mental state:  |
-| 1-5 \_\_ \| Thay đổi cần thiết: \_\_                                  |
-+-----------------------------------------------------------------------+
+| **► Match Notes Template** |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| SERVE: T=\_\_ W=\_\_ B=\_\_ \ | DF=\_\_ \ | 2nd in=\_\_% \ | RETURN: |
+| Bóng nào khó nhất: \_\_ \ | Pattern hay dùng: \_\_ \ | Điểm yếu rõ |  |
+| nhất: \_\_ \ | BH hay FH? \_\_ \ | Net game: Y/N \_\_ \ | Mental state: |
+| 1-5 \_\_ \ | Thay đổi cần thiết: \_\_ |  |  |
+
 
 **2.8. Phân Tích Cặp Đôi Trong Doubles**
 
@@ -486,17 +486,17 @@ sát, và thử một vài pattern test.
 
 Giờ nghỉ giữa set là thời điểm vàng để điều chỉnh game plan. Coach cần
 truyền đạt thay đổi chiến thuật một cách rõ ràng, cụ thể và có thể thực
-thi ngay. Tránh những feedback mơ hồ như \'đánh tốt hơn\' hay \'tập
-trung hơn\'.
+thi ngay. Tránh những feedback mơ hồ như 'đánh tốt hơn' hay 'tập
+trung hơn'.
 
-+-----------------------------------------------------------------------+
-| **★ Công Thức Feedback Giữa Set**                                     |
-|                                                                       |
-| Công thức: \[Quan sát cụ thể\] + \[Điều chỉnh chiến thuật\] +         |
-| \[Trigger để nhớ\]. Ví dụ: \'Backhand của họ yếu ở bóng cao. Từ set 2 |
-| trở đi, sau mỗi cú serve vào T, đánh tiếp topspin lên backhand của    |
-| họ. Trigger: sau mỗi serve T = topspin lên BH.\'                      |
-+-----------------------------------------------------------------------+
+| **★ Công Thức Feedback Giữa Set** |
+| --- |
+|  |
+| Công thức: \[Quan sát cụ thể\] + \[Điều chỉnh chiến thuật\] + |
+| \[Trigger để nhớ\]. Ví dụ: 'Backhand của họ yếu ở bóng cao. Từ set 2 |
+| trở đi, sau mỗi cú serve vào T, đánh tiếp topspin lên backhand của |
+| họ. Trigger: sau mỗi serve T = topspin lên BH.' |
+
 
 **Tổng Kết Chương 2**
 
@@ -549,14 +549,14 @@ template tư duy cho mỗi điểm tấn công.
 
 - PROFIT: Tấn công vào khoảng trống đã tạo ra
 
-+-----------------------------------------------------------------------+
-| **★ Ví Dụ AOFP Điển Hình**                                            |
-|                                                                       |
-| Serve wide ra T (Attack) → Forehand topspin nặng vào backhand kéo     |
-| sang phải (Open) → Đối thủ đánh cross-court yếu từ góc sân (Force) →  |
-| Winner DTL forehand vào góc mở (Profit). Đây là pattern cơ bản nhất   |
-| của tennis tấn công ở 5.0.                                            |
-+-----------------------------------------------------------------------+
+| **★ Ví Dụ AOFP Điển Hình** |
+| --- |
+|  |
+| Serve wide ra T (Attack) → Forehand topspin nặng vào backhand kéo |
+| sang phải (Open) → Đối thủ đánh cross-court yếu từ góc sân (Force) → |
+| Winner DTL forehand vào góc mở (Profit). Đây là pattern cơ bản nhất |
+| của tennis tấn công ở 5.0. |
+
 
 **3.3. Shot Selection Matrix**
 
@@ -611,14 +611,14 @@ nhiều vận động viên 5.0 vẫn bỏ lỡ vì không nhận diện hoặc 
 đoán đủ. Nguyên tắc đơn giản: khi đối thủ cho bạn dead ball, bạn phải
 approach hoặc kết thúc điểm ngay.
 
-+-----------------------------------------------------------------------+
-| **► Dead Ball Decision Tree**                                         |
-|                                                                       |
-| Bóng ngắn → Bạn có thể tiến không? → CÓ: Approach shot DTL + tiến     |
-| net. KHÔNG (quá xa): Flatten out và drive deep cross-court, tạo       |
-| pressure. Không bao giờ đánh defensive shot từ dead ball --- đó là    |
-| lãng phí cơ hội.                                                      |
-+-----------------------------------------------------------------------+
+| **► Dead Ball Decision Tree** |
+| --- |
+|  |
+| Bóng ngắn → Bạn có thể tiến không? → CÓ: Approach shot DTL + tiến |
+| net. KHÔNG (quá xa): Flatten out và drive deep cross-court, tạo |
+| pressure. Không bao giờ đánh defensive shot từ dead ball --- đó là |
+| lãng phí cơ hội. |
+
 
 **3.6. Cú Đánh Thứ Ba --- Cú Quan Trọng Nhất**
 
@@ -647,8 +647,8 @@ nếu serve không tạo được lợi thế ngay.
 **3.7. Xây Dựng Điểm Với Serve**
 
 Serve không chỉ là cú bắt đầu điểm --- ở 5.0, serve là cú đánh đầu tiên
-trong một chuỗi chiến thuật được lập kế hoạch. Concept \'serve plus
-one\' (serve + cú tiếp theo đã được tính trước) là nền tảng của lối chơi
+trong một chuỗi chiến thuật được lập kế hoạch. Concept 'serve plus
+one' (serve + cú tiếp theo đã được tính trước) là nền tảng của lối chơi
 server hiện đại.
 
 **Các Combination Serve-Plus-One Hiệu Quả**
@@ -671,14 +671,14 @@ Returner luôn ở thế bất lợi hơn --- server kiểm soát thế chủ đ
 từ đầu. Nhưng returner tốt biết cách neutralize lợi thế đó và thậm chí
 flip script ngay từ return.
 
-+-----------------------------------------------------------------------+
-| **★ Return Philosophy**                                               |
-|                                                                       |
-| Return không phải cú tấn công --- return là cú tạo cơ hội. Mục tiêu   |
-| hàng đầu của return: đưa bóng vào sân sâu, trung lập, tạo điều kiện   |
-| cho rally phát triển theo điều kiện của bạn. Chỉ attack return khi    |
-| serve yếu và bạn ở vị trí hoàn hảo.                                   |
-+-----------------------------------------------------------------------+
+| **★ Return Philosophy** |
+| --- |
+|  |
+| Return không phải cú tấn công --- return là cú tạo cơ hội. Mục tiêu |
+| hàng đầu của return: đưa bóng vào sân sâu, trung lập, tạo điều kiện |
+| cho rally phát triển theo điều kiện của bạn. Chỉ attack return khi |
+| serve yếu và bạn ở vị trí hoàn hảo. |
+
 
 **3.9. Điểm Dài vs Điểm Ngắn**
 
@@ -754,14 +754,14 @@ Chia ô serve thành 9 vùng --- 3 theo chiều ngang (T, Body, Wide) × 3
 theo chiều sâu (ngắn, trung bình, sâu). Trong trận 5.0, serve chủ yếu
 nên nhắm vào 3 vùng nguy hiểm nhất tùy theo tay thuận của đối thủ.
 
-+-----------------------------------------------------------------------+
-| **► Serve Zones Vs. Righthander**                                     |
-|                                                                       |
+| **► Serve Zones Vs. Righthander** |
+| --- |
+|  |
 | Deuce Side: Wide slice → kéo ra khỏi sân, bóng xa forehand / T flat → |
-| vào backhand. Ad Side: Wide → vào backhand! (nguy hiểm nhất) / T →    |
+| vào backhand. Ad Side: Wide → vào backhand! (nguy hiểm nhất) / T → |
 | vào forehand. Body serve: jam elbow, cả hai cạnh đều hiệu quả khi kết |
-| hợp với wide/T trước đó.                                              |
-+-----------------------------------------------------------------------+
+| hợp với wide/T trước đó. |
+
 
 **4.3. Hệ Thống Serve Theo Tỷ Số**
 
@@ -795,14 +795,14 @@ hưởng đến rủi ro serve hợp lý. Đây là framework serve tỷ số:
 returner aggressive. Second serve mạnh = giữ thế chủ động ngay cả khi
 first serve fault.
 
-+-----------------------------------------------------------------------+
-| **★ Second Serve Tiêu Chuẩn 5.0**                                     |
-|                                                                       |
+| **★ Second Serve Tiêu Chuẩn 5.0** |
+| --- |
+|  |
 | Second serve tốt ở 5.0 cần: (1) Vào sân ổn định \>85%, (2) Đủ spin để |
 | control bounce, (3) Đủ depth để ngăn return attack, (4) Placement vào |
-| weakness, (5) Setup được cú 3. Second serve yếu ở 5.0 = double fault  |
-| hoặc return attack dễ.                                                |
-+-----------------------------------------------------------------------+
+| weakness, (5) Setup được cú 3. Second serve yếu ở 5.0 = double fault |
+| hoặc return attack dễ. |
+
 
 **4.5. Kick Serve --- Vũ Khí Bí Mật**
 
@@ -852,14 +852,14 @@ Serve và volley (S&V) đã giảm đi ở tennis hiện đại nhưng vẫn là
 thuật hiệu quả khi dùng đúng lúc --- đặc biệt ở doubles và singles ở mặt
 sân fast (hard, indoor, grass).
 
-+-----------------------------------------------------------------------+
-| **► Khi Nào S&V Hiệu Quả Ở 5.0**                                      |
-|                                                                       |
-| Dùng S&V khi: (1) Bạn có slice serve rộng buộc đối thủ chạy ra, (2)   |
-| Đối thủ không có lob tin cậy, (3) Mặt sân nhanh giảm thời gian phản   |
-| ứng, (4) Tỷ số cho phép mạo hiểm (đang thắng game), (5) Muốn gây      |
-| surprise --- không dùng quá thường xuyên.                             |
-+-----------------------------------------------------------------------+
+| **► Khi Nào S&V Hiệu Quả Ở 5.0** |
+| --- |
+|  |
+| Dùng S&V khi: (1) Bạn có slice serve rộng buộc đối thủ chạy ra, (2) |
+| Đối thủ không có lob tin cậy, (3) Mặt sân nhanh giảm thời gian phản |
+| ứng, (4) Tỷ số cho phép mạo hiểm (đang thắng game), (5) Muốn gây |
+| surprise --- không dùng quá thường xuyên. |
+
 
 **4.8. Phân Tích Serve Analytics**
 
@@ -945,14 +945,14 @@ Nguyên tắc đầu tiên của return: bạn không bao giờ trong thế ch�
 server. Nhưng điều đó không có nghĩa bạn thụ động. Return philosophy tốt
 là: neutralize first, attack when opportunity presents.
 
-+-----------------------------------------------------------------------+
-| **★ Return Hierarchy**                                                |
-|                                                                       |
-| Priority 1: Đưa bóng vào sân (không double). Priority 2: Đưa bóng đủ  |
-| sâu (không ngắn). Priority 3: Đặt bóng vào weakness của server.       |
-| Priority 4: Tấn công nếu serve yếu. Đừng nhảy từ Priority 1 lên       |
-| Priority 4.                                                           |
-+-----------------------------------------------------------------------+
+| **★ Return Hierarchy** |
+| --- |
+|  |
+| Priority 1: Đưa bóng vào sân (không double). Priority 2: Đưa bóng đủ |
+| sâu (không ngắn). Priority 3: Đặt bóng vào weakness của server. |
+| Priority 4: Tấn công nếu serve yếu. Đừng nhảy từ Priority 1 lên |
+| Priority 4. |
+
 
 **5.2. Positioning Return**
 
@@ -1028,15 +1028,15 @@ có ít nhất 4 loại return trong arsenal và biết khi nào dùng loại n�
 Return tốt nhất là return được lên kế hoạch dựa trên điểm yếu của
 server, không phải return ngẫu nhiên.
 
-+-----------------------------------------------------------------------+
-| **► Attacking The Server\'s Pattern**                                 |
-|                                                                       |
-| Khi server thường serve vào T → đứng vào T hơn, anticipate, return    |
-| cross-court. Khi server luôn follow first serve lên net → chip &      |
-| charge hoặc lob. Khi server có second serve yếu → tiến sân trước,     |
-| drive return sâu vào weakness. Phá pattern của server là nhiệm vụ số  |
-| một của returner.                                                     |
-+-----------------------------------------------------------------------+
+| **► Attacking The Server's Pattern** |
+| --- |
+|  |
+| Khi server thường serve vào T → đứng vào T hơn, anticipate, return |
+| cross-court. Khi server luôn follow first serve lên net → chip & |
+| charge hoặc lob. Khi server có second serve yếu → tiến sân trước, |
+| drive return sâu vào weakness. Phá pattern của server là nhiệm vụ số |
+| một của returner. |
+
 
 **5.6. Return Trong Tình Huống Tỷ Số**
 
@@ -1058,7 +1058,7 @@ breakpoint, return philosophy có thể thay đổi đáng kể.
   0-30 (return losing)    Cần break, attack       Aggressive return
                                                   pattern
 
-  40-0 (server winning    Conservative, wait for  Deep neutral, don\'t
+  40-0 (server winning    Conservative, wait for  Deep neutral, don't
   easily)                 opportunity             gift points
   -----------------------------------------------------------------------
 
@@ -1089,8 +1089,8 @@ Return consistency ở 5.0 đòi hỏi training đặc biệt. Không thể ch�
 28. PRESSURE RETURN: Server ở breakpoint (30-40), return target =
     cross-court sâu 80% thời gian. Làm 20 lần, tính % thành công.
 
-29. PATTERN RETURN: Server announce placement trước (\'T\' hoặc
-    \'Wide\'), returner phải return vào predetermined target. Tập
+29. PATTERN RETURN: Server announce placement trước ('T' hoặc
+    'Wide'), returner phải return vào predetermined target. Tập
     anticipation + pattern recognition.
 
 30. CHIP & CHARGE RETURN: Second serve only, returner chip & charge mọi
@@ -1102,14 +1102,14 @@ Mindset khi return là một trong những khía cạnh khó nhất để coachi
 Nhiều 5.0 players sợ return vì họ cảm thấy không kiểm soát được. Thay
 đổi mindset này là công việc của coach.
 
-+-----------------------------------------------------------------------+
-| **★ Returner\'s Mindset**                                             |
-|                                                                       |
-| Bước vào return với câu hỏi: \'Đâu là weakness của server mà tôi sẽ   |
-| tấn công hôm nay?\' --- không phải \'Hy vọng serve này tôi đánh       |
-| được.\' Chủ động trong mental approach biến defensive situation thành |
-| offensive mindset.                                                    |
-+-----------------------------------------------------------------------+
+| **★ Returner's Mindset** |
+| --- |
+|  |
+| Bước vào return với câu hỏi: 'Đâu là weakness của server mà tôi sẽ |
+| tấn công hôm nay?' --- không phải 'Hy vọng serve này tôi đánh |
+| được.' Chủ động trong mental approach biến defensive situation thành |
+| offensive mindset. |
+
 
 **5.10. Measuring Return Effectiveness**
 
@@ -1157,13 +1157,13 @@ Rally pattern là chuỗi cú đánh có chủ đích lặp lại với mục ti
 tình huống thuận lợi. Pattern không phải là kịch bản cứng nhắc --- đó là
 intention với flexibility.
 
-+-----------------------------------------------------------------------+
-| **★ Pattern vs. Randomness**                                          |
-|                                                                       |
-| Người chơi không có pattern thắng bằng cơ may. Người chơi có pattern  |
-| thắng bằng kế hoạch. Ở 5.0, đối thủ của bạn ít khi mắc lỗi miễn phí   |
-| --- bạn phải tạo ra lỗi cho họ thông qua pattern.                     |
-+-----------------------------------------------------------------------+
+| **★ Pattern vs. Randomness** |
+| --- |
+|  |
+| Người chơi không có pattern thắng bằng cơ may. Người chơi có pattern |
+| thắng bằng kế hoạch. Ở 5.0, đối thủ của bạn ít khi mắc lỗi miễn phí |
+| --- bạn phải tạo ra lỗi cho họ thông qua pattern. |
+
 
 Ba loại pattern cơ bản: pattern tấn công (buộc lỗi), pattern trung lập
 (thiết lập vị trí), và pattern phòng thủ (reset thế cờ). Mỗi pattern
@@ -1198,17 +1198,17 @@ DTL là cú tấn công dứt khoát nhất nhưng cũng rủi ro nhất: qua ph
 cao hơn, ngắn hơn, ít margin hơn. Dùng DTL khi cơ hội đã chín muồi,
 không phải khi muốn.
 
-+-----------------------------------------------------------------------+
-| **► Khi Nào DTL Có EV Dương**                                         |
-|                                                                       |
+| **► Khi Nào DTL Có EV Dương** |
+| --- |
+|  |
 | DTL có expected value cao khi: (1) Đối thủ đang ở cross-court corner, |
-| sân trống ở DTL, (2) Contact point tốt --- trước người, ổn định, (3)  |
-| Không phải ở defensive position, (4) Đây là cú cuối trong pattern,    |
-| không phải cú mở đầu.                                                 |
-+-----------------------------------------------------------------------+
+| sân trống ở DTL, (2) Contact point tốt --- trước người, ổn định, (3) |
+| Không phải ở defensive position, (4) Đây là cú cuối trong pattern, |
+| không phải cú mở đầu. |
+
 
 Lỗi phổ biến: DTL quá sớm trong rally khi đối thủ vẫn còn covering. Cú
-DTL phải là \'punishment shot\' --- đánh khi đối thủ đã bị kéo ra khỏi
+DTL phải là 'punishment shot' --- đánh khi đối thủ đã bị kéo ra khỏi
 sân hoặc thế yếu.
 
 **6.4. Pattern Inside-Out Forehand**
@@ -1245,7 +1245,7 @@ Timing là tất cả trong direction change. Đổi hướng quá sớm (chưa 
 **6.6. Pattern Với Bóng Ngắn**
 
 Dead ball và short ball tạo ra những pattern đặc biệt. Người chơi 5.0
-phải \'punish\' mọi bóng ngắn không thương tiếc.
+phải 'punish' mọi bóng ngắn không thương tiếc.
 
 31. Nhận diện short ball ngay từ khi đối thủ contact
 
@@ -1264,15 +1264,15 @@ Heavy topspin làm đối thủ khó tấn công, bounce cao và deep, tạo áp
 liên tục mà không cần pace nhiều. Đây là pattern defense-to-offense cực
 hiệu quả.
 
-+-----------------------------------------------------------------------+
-| **► Moonball Strategy**                                               |
-|                                                                       |
-| Moonball (heavy topspin rất cao) không phải cú hèn --- đây là chiến   |
-| thuật thông minh để: (1) Thay đổi nhịp, (2) Push đối thủ ra sau       |
-| baseline, (3) Mua thời gian để recover vị trí, (4) Exploit đối thủ    |
-| ghét bóng cao. Dùng 2-3 lần/set như vũ khí bất ngờ, không phải toàn   |
-| bộ trận.                                                              |
-+-----------------------------------------------------------------------+
+| **► Moonball Strategy** |
+| --- |
+|  |
+| Moonball (heavy topspin rất cao) không phải cú hèn --- đây là chiến |
+| thuật thông minh để: (1) Thay đổi nhịp, (2) Push đối thủ ra sau |
+| baseline, (3) Mua thời gian để recover vị trí, (4) Exploit đối thủ |
+| ghét bóng cao. Dùng 2-3 lần/set như vũ khí bất ngờ, không phải toàn |
+| bộ trận. |
+
 
 **6.8. Pattern Phòng Thủ Sang Tấn Công**
 
@@ -1319,14 +1319,14 @@ phải nghĩ là dùng), (2) Pattern nào hiệu quả (winning points), (3)
 Pattern nào không hiệu quả, (4) Pattern nào đối thủ dùng để phá mình.
 Review 15 phút video = giá trị tương đương 2 giờ tập thông thường.
 
-+-----------------------------------------------------------------------+
-| **★ Video Review Protocol**                                           |
-|                                                                       |
-| Sau mỗi trận quan trọng: (1) Watch full match 1.5x speed, (2) Mark    |
-| mọi điểm thua với tag, (3) Group theo pattern thất bại, (4) Identify  |
-| top 3 pattern cần cải thiện, (5) Design drill cho 3 pattern đó. Đây   |
-| là cách elite players tiến bộ.                                        |
-+-----------------------------------------------------------------------+
+| **★ Video Review Protocol** |
+| --- |
+|  |
+| Sau mỗi trận quan trọng: (1) Watch full match 1.5x speed, (2) Mark |
+| mọi điểm thua với tag, (3) Group theo pattern thất bại, (4) Identify |
+| top 3 pattern cần cải thiện, (5) Design drill cho 3 pattern đó. Đây |
+| là cách elite players tiến bộ. |
+
 
 Summary: Rally pattern là ngôn ngữ của tennis chiến lược. Người 5.0 giỏi
 có 5-6 pattern điêu luyện, biết khi nào dùng pattern nào, và biết điều
@@ -1374,14 +1374,14 @@ Nguyên tắc approach: (1) DTL ưu tiên hơn cross-court, (2) Depth quan
 trọng hơn angle, (3) Spin tốt hơn flat (ổn định hơn), (4) Recover split
 step position sau approach.
 
-+-----------------------------------------------------------------------+
-| **★ DTL Approach Rule**                                               |
-|                                                                       |
-| Approach DTL là chiến thuật chuẩn vì: bóng đi ngắn nhất, bạn cover    |
-| diagonal sau đó, đối thủ phải đánh passing shot cross-court qua phần  |
-| lưới thấp hơn. Approach cross-court để lộ DTL passing hoàn toàn ---   |
-| tránh trừ trường hợp đặc biệt.                                        |
-+-----------------------------------------------------------------------+
+| **★ DTL Approach Rule** |
+| --- |
+|  |
+| Approach DTL là chiến thuật chuẩn vì: bóng đi ngắn nhất, bạn cover |
+| diagonal sau đó, đối thủ phải đánh passing shot cross-court qua phần |
+| lưới thấp hơn. Approach cross-court để lộ DTL passing hoàn toàn --- |
+| tránh trừ trường hợp đặc biệt. |
+
 
 **7.3. Volley Mechanics Và Chiến Thuật**
 
@@ -1449,14 +1449,14 @@ Doubles net principles: (1) Net person covers DTL, partner covers cross,
 (2) Poach khi cảm giác shot đủ short, (3) Switch after poach --- không
 để lại khoảng trống, (4) Communicate với partner cho mọi movement.
 
-+-----------------------------------------------------------------------+
-| **► Poaching In Doubles**                                             |
-|                                                                       |
-| Poach là weapon mạnh nhất của net person trong doubles. Timing: di    |
+| **► Poaching In Doubles** |
+| --- |
+|  |
+| Poach là weapon mạnh nhất của net person trong doubles. Timing: di |
 | chuyển khi partner serve contacts ball, không phải khi returner hits. |
-| Signal poach với partner trước (open/closed racket face signal). Sau  |
-| poach, đối diện chéo --- partner chạy vào cover vị trí bạn vừa bỏ.    |
-+-----------------------------------------------------------------------+
+| Signal poach với partner trước (open/closed racket face signal). Sau |
+| poach, đối diện chéo --- partner chạy vào cover vị trí bạn vừa bỏ. |
+
 
 **7.8. Lob --- Vũ Khí Chống Net**
 
@@ -1519,15 +1519,15 @@ ai duy trì được focus, ai recover được nhanh hơn sau điểm thua.
 quan trọng. Câu hỏi không phải là làm thế nào để không cảm thấy áp lực,
 mà là làm thế nào để perform DƯỚI áp lực.
 
-+-----------------------------------------------------------------------+
-| **★ Áp Lực Là Cơ Hội**                                                |
-|                                                                       |
-| Elite players tái định nghĩa áp lực: \'Tôi đang ở breakpoint --- điều |
-| đó có nghĩa là tôi đang ở vị trí để thắng game.\' Thay vì \'Tôi không |
-| được fault\', hãy nghĩ \'Đây là cơ hội tôi đã tạo ra --- tận dụng     |
-| nó.\' Tái định nghĩa áp lực không phải tự lừa dối --- đó là mental    |
-| reframing.                                                            |
-+-----------------------------------------------------------------------+
+| **★ Áp Lực Là Cơ Hội** |
+| --- |
+|  |
+| Elite players tái định nghĩa áp lực: 'Tôi đang ở breakpoint --- điều |
+| đó có nghĩa là tôi đang ở vị trí để thắng game.' Thay vì 'Tôi không |
+| được fault', hãy nghĩ 'Đây là cơ hội tôi đã tạo ra --- tận dụng |
+| nó.' Tái định nghĩa áp lực không phải tự lừa dối --- đó là mental |
+| reframing. |
+
 
 **8.2. Hệ Thống Between-Point Routine**
 
@@ -1565,19 +1565,19 @@ intention rõ ràng. Recover nhanh từ điểm thua là kỹ năng trainable.
 
 **8.4. Choking --- Nguyên Nhân và Giải Pháp**
 
-\'Choking\' (tâm lý sụp đổ dưới áp lực) xảy ra khi overthinking
+'Choking' (tâm lý sụp đổ dưới áp lực) xảy ra khi overthinking
 interfere with automatic skill execution. Bạn đang tập trung vào HOW TO
 swing thay vì WHERE TO aim.
 
-+-----------------------------------------------------------------------+
-| **► Chống Choking**                                                   |
-|                                                                       |
-| Kỹ thuật #1: Process focus --- tập trung vào process (setup tốt,      |
-| contact sớm) không phải outcome (vào hay ra). Kỹ thuật #2: Pre-shot   |
+| **► Chống Choking** |
+| --- |
+|  |
+| Kỹ thuật #1: Process focus --- tập trung vào process (setup tốt, |
+| contact sớm) không phải outcome (vào hay ra). Kỹ thuật #2: Pre-shot |
 | routine chặt chẽ hơn ở điểm áp lực. Kỹ thuật #3: Breathe và slow down |
-| between points. Kỹ thuật #4: Play by feel, không by thought khi       |
-| serving/returning.                                                    |
-+-----------------------------------------------------------------------+
+| between points. Kỹ thuật #4: Play by feel, không by thought khi |
+| serving/returning. |
+
 
 Choking thường do perception gap: bạn nghĩ situation quan trọng hơn thực
 tế. Nhắc nhở: mỗi điểm có giá trị bằng nhau trong scoring system ---
@@ -1608,7 +1608,7 @@ năng có thể train.
 **8.6. Momentum --- Hiểu Và Kiểm Soát**
 
 Momentum trong tennis là thực tế tâm lý, không phải vật lý. Không phải
-bóng đang \'chạy tốt\' --- mà là cảm giác của bạn đang ảnh hưởng đến
+bóng đang 'chạy tốt' --- mà là cảm giác của bạn đang ảnh hưởng đến
 quyết định và execution.
 
 Khi đang có momentum: đừng phá vỡ nhịp, chơi conservative hơn một chút
@@ -1621,14 +1621,14 @@ Cảm xúc --- hứng khởi, thất vọng, lo lắng, tức giận --- là t�
 trong thi đấu. Vấn đề không phải là không có cảm xúc mà là không bị cảm
 xúc chi phối quyết định.
 
-+-----------------------------------------------------------------------+
-| **★ Emotional Regulation**                                            |
-|                                                                       |
+| **★ Emotional Regulation** |
+| --- |
+|  |
 | Công thức: Nhận ra cảm xúc → Không act on it immediately → Breathe và |
-| routine → Redirect sang task focus. Ví dụ: Bạn tức vì đánh hỏng       |
-| backhand dễ → nhận ra tức → breathe 3 giây → walk to baseline →       |
-| focus: \'Serve vào T, cú 3 vào backhand họ.\'                         |
-+-----------------------------------------------------------------------+
+| routine → Redirect sang task focus. Ví dụ: Bạn tức vì đánh hỏng |
+| backhand dễ → nhận ra tức → breathe 3 giây → walk to baseline → |
+| focus: 'Serve vào T, cú 3 vào backhand họ.' |
+
 
 **8.8. Tâm Lý Khi Thua**
 
@@ -1648,7 +1648,7 @@ Vận động viên 5.0 có xu hướng relax sau khi thắng set đầu, dẫn 
 come-back.
 
 Duy trì intensity khi đang thắng là thách thức tâm lý thực sự. Nhắc nhở
-bản thân: \'Trận chưa thắng cho đến khi kết thúc. Giữ nguyên process.\'
+bản thân: 'Trận chưa thắng cho đến khi kết thúc. Giữ nguyên process.'
 
 **8.10. Mental Training Off-Court**
 
@@ -1685,13 +1685,13 @@ Doubles không phải singles với một người thêm --- đó là môn chơi
 với dynamics hoàn toàn khác. Formation, positioning, communication, và
 poaching tạo ra một game hoàn toàn riêng.
 
-+-----------------------------------------------------------------------+
-| **★ Mục Tiêu Tối Thượng Trong Doubles**                               |
-|                                                                       |
-| Kiểm soát net với cả hai người. Pair nào control net đầu tiên sẽ      |
-| thắng đa số game. Mọi chiến thuật doubles đều hướng tới goal này:     |
-| chiếm net và giữ net.                                                 |
-+-----------------------------------------------------------------------+
+| **★ Mục Tiêu Tối Thượng Trong Doubles** |
+| --- |
+|  |
+| Kiểm soát net với cả hai người. Pair nào control net đầu tiên sẽ |
+| thắng đa số game. Mọi chiến thuật doubles đều hướng tới goal này: |
+| chiếm net và giữ net. |
+
 
 **9.2. Formation Cơ Bản**
 
@@ -1757,7 +1757,7 @@ Topspin lob qua net person đang poach = winner thường xuyên ở 5.0.
 Setup: đợi net person lean cross → DTL topspin lob qua chỗ họ vừa bỏ →
 partner chạy đến không kịp.
 
-**9.7. Server\'s Role In Doubles**
+**9.7. Server's Role In Doubles**
 
 Server trong doubles không chỉ là cú bắt đầu. Server phải đặt serve đúng
 để tạo điều kiện cho partner poach và để tự mình tiến net nhanh.
@@ -1785,8 +1785,8 @@ Mixed doubles của đội giỏi: người nữ serve and return tốt để kh
 **9.10. Winning The Clutch Points Doubles**
 
 Clutch points trong doubles cần communication rõ hơn. Trước điểm break
-hoặc set point, partner nên nói ngắn gọn: \'Serve vào T, tôi poach.\'
-Hoặc: \'Cả hai ở net, push deep.\'
+hoặc set point, partner nên nói ngắn gọn: 'Serve vào T, tôi poach.'
+Hoặc: 'Cả hai ở net, push deep.'
 
 Summary: Doubles ở 5.0 là môn chơi chiến lược với nhiều variables phức
 tạp. Net domination, communication hiệu quả, poaching chiến lược, và lob
@@ -1807,13 +1807,13 @@ Tennis là môn thể thao intermittent intensity --- cường độ cao trong
 phosphocreatine (điểm ngắn), glycolytic (điểm dài), aerobic (recovery
 giữa điểm).
 
-+-----------------------------------------------------------------------+
-| **★ Energy Management**                                               |
-|                                                                       |
+| **★ Energy Management** |
+| --- |
+|  |
 | Phân bổ năng lượng ở 5.0: Tiết kiệm ở early game (trừ khi thấy cơ hội |
-| rõ), đầu tư ở breakpoints và clutch moments, recover tích cực ở       |
-| changeover. Đừng dốc toàn lực vào điểm không quan trọng.              |
-+-----------------------------------------------------------------------+
+| rõ), đầu tư ở breakpoints và clutch moments, recover tích cực ở |
+| changeover. Đừng dốc toàn lực vào điểm không quan trọng. |
+
 
 **10.2. Changeover --- Chiến Lược 90 Giây**
 
@@ -1949,13 +1949,13 @@ Mọi cú đánh đều bắt đầu bằng feet. Nếu bạn không ở đúng 
 contact bóng, technique tốt nhất cũng vô dụng. Footwork tốt = contact
 trước người, cân bằng, và power transfer từ chân lên racket.
 
-+-----------------------------------------------------------------------+
-| **★ Footwork Hierarchy**                                              |
-|                                                                       |
-| First move fast → Second adjust position → Set up early → Contact in  |
+| **★ Footwork Hierarchy** |
+| --- |
+|  |
+| First move fast → Second adjust position → Set up early → Contact in |
 | front → Recover immediately. Người phá vỡ chuỗi này ở bất kỳ bước nào |
-| sẽ có shot quality giảm sút.                                          |
-+-----------------------------------------------------------------------+
+| sẽ có shot quality giảm sút. |
+
 
 **11.2. Split Step --- Khởi Đầu Của Mọi Chuyển Động**
 
@@ -2082,14 +2082,14 @@ backhand và drop shot tạo ra loại bóng hoàn toàn khác --- lower bounce,
 slower pace, different trajectory. Điều này buộc đối thủ phải switch
 gears, và đó là khi lỗi xảy ra.
 
-+-----------------------------------------------------------------------+
-| **★ Texture Change**                                                  |
-|                                                                       |
-| Changing the texture of the ball --- từ heavy topspin sang underspin  |
-| slice, hoặc từ deep rally sang drop shot --- là chiến thuật disrupt   |
+| **★ Texture Change** |
+| --- |
+|  |
+| Changing the texture of the ball --- từ heavy topspin sang underspin |
+| slice, hoặc từ deep rally sang drop shot --- là chiến thuật disrupt |
 | mạnh hơn nhiều người nghĩ. Đối thủ rất hiếm khi handle tốt tất cả các |
-| loại bóng.                                                            |
-+-----------------------------------------------------------------------+
+| loại bóng. |
+
 
 **12.2. Slice Backhand --- Kỹ Thuật Và Chiến Thuật**
 
@@ -2117,7 +2117,7 @@ up.
 
 Drop shot là một trong những cú tinh tế nhất. Setup phải giống slice ---
 để đối thủ không đọc được ý định. Sau đó, thay vì brush qua bóng, let
-racket \'die\' dưới bóng.
+racket 'die' dưới bóng.
 
 Drop shot không phải loại bóng kỹ năng --- đó là timing và disguise.
 Người chơi tốt giỏi drop shot thường drop shot ở những tình huống đối
@@ -2176,7 +2176,7 @@ trọng nhất:
 
 - Vary pace và spin trong cùng setup để giữ đối thủ đoán
 
-- Đừng \'thông báo\' drop shot bằng ánh mắt hoặc body lean sớm
+- Đừng 'thông báo' drop shot bằng ánh mắt hoặc body lean sớm
 
 **12.8. Pattern Kết Hợp Slice Và Topspin**
 
@@ -2215,15 +2215,15 @@ Training cho slice và drop shot cần dedicated practice:
 
 Summary: Slice và drop shot ở 5.0 không phải trick shots --- đây là
 chiến lược weapons dùng để thay đổi texture, tạo opportunity, và disrupt
-opponent\'s rhythm.
+opponent's rhythm.
 
 **CHƯƠNG 13**
 
 **QUẢN LÝ TỶ SỐ --- ĐÁNH THEO ĐIỂM QUAN TRỌNG**
 
 Không phải mọi điểm đều có giá trị bằng nhau trong tennis. Hệ thống tính
-điểm của tennis tạo ra những \'điểm quan trọng hơn\' và \'game quan
-trọng hơn\'. Người nào hiểu và tận dụng điều này sẽ giành chiến thắng dù
+điểm của tennis tạo ra những 'điểm quan trọng hơn' và 'game quan
+trọng hơn'. Người nào hiểu và tận dụng điều này sẽ giành chiến thắng dù
 thống kê overall có thể kém hơn.
 
 **13.1. Toán Học Của Tennis**
@@ -2232,14 +2232,14 @@ Tennis là môn duy nhất có thể thắng trận dù thua nhiều điểm hơ
 Điều này xảy ra vì cấu trúc game/set/match --- points cluster vào games,
 games cluster vào sets.
 
-+-----------------------------------------------------------------------+
-| **★ Ví Dụ Thực Tế**                                                   |
-|                                                                       |
-| Bạn có thể thắng 6-4, 6-4 nhưng thực sự chỉ thắng nhiều hơn đối thủ   |
-| 4-5 điểm trong tổng số. Ngược lại, bạn có thể thua 10 điểm liên tiếp  |
-| ở score 40-0 trong 3 games và vẫn không mất game nào. Tennis rewares  |
-| precision over volume.                                                |
-+-----------------------------------------------------------------------+
+| **★ Ví Dụ Thực Tế** |
+| --- |
+|  |
+| Bạn có thể thắng 6-4, 6-4 nhưng thực sự chỉ thắng nhiều hơn đối thủ |
+| 4-5 điểm trong tổng số. Ngược lại, bạn có thể thua 10 điểm liên tiếp |
+| ở score 40-0 trong 3 games và vẫn không mất game nào. Tennis rewares |
+| precision over volume. |
+
 
 **13.2. Điểm Quan Trọng --- Hierarchy**
 
@@ -2286,7 +2286,7 @@ mới hay risk cao.
 Tâm lý khác biệt rõ rệt giữa serving at 5-5 (neutral) và 6-5 (serving
 for set). Nhiều players tight lên ở 6-5, mắc lỗi không cần thiết.
 
-Cách xử lý: pretend it\'s 0-0. Exact same routine, same strategy. Nếu
+Cách xử lý: pretend it's 0-0. Exact same routine, same strategy. Nếu
 bạn thay đổi approach vì tỷ số, kết quả sẽ tệ hơn. Trust your game, play
 your game.
 
@@ -2377,12 +2377,12 @@ Dấu hiệu game plan không hiệu quả:
 
 - Đối thủ đang anticipate shots của bạn
 
-+-----------------------------------------------------------------------+
-| **★ Rule of Three**                                                   |
-|                                                                       |
-| Nếu cùng một chiến lược thất bại 3 lần, đó không phải execution ---   |
-| đó là strategy. Time to change.                                       |
-+-----------------------------------------------------------------------+
+| **★ Rule of Three** |
+| --- |
+|  |
+| Nếu cùng một chiến lược thất bại 3 lần, đó không phải execution --- |
+| đó là strategy. Time to change. |
+
 
 **14.2. Hierarchy Điều Chỉnh**
 
@@ -2483,15 +2483,15 @@ conservative. Injured arm: reduce power, rely on placement and spin, net
 game to end points quickly. Core: avoid explosive movements, shorter
 swing, more volleys.
 
-**14.9. Coach\'s Role Trong In-Match Adjustment**
+**14.9. Coach's Role Trong In-Match Adjustment**
 
 Trong những giải có coaching, coach có thể vào sân ở changeovers. Làm
 thế nào communicate adjustment hiệu quả trong 90 giây?
 
 71. Một điều chỉnh rõ ràng, không phải năm
 
-72. Cụ thể: \'Serve wide Ad side mọi lần 30-40\' không phải \'đánh tốt
-    hơn\'
+72. Cụ thể: 'Serve wide Ad side mọi lần 30-40' không phải 'đánh tốt
+    hơn'
 
 73. Trigger để nhớ: từ khóa ngắn kết hợp với action
 
@@ -2529,14 +2529,14 @@ flatten out để tấn công, inside-out và inside-in variations, và đủ pa
 để ép đối thủ. Không nhất thiết phải Rafael Nadal --- nhưng phải
 reliable và versatile.
 
-+-----------------------------------------------------------------------+
-| **★ 5.0 FH Benchmarks**                                               |
-|                                                                       |
-| Depth: 70%+ balls land trong 1m của baseline. Pace: medium-high,      |
-| không weak. Spin: enough to clear net với margin. Consistency: \<20%  |
-| unforced errors per set. Direction: kiểm soát được cross/DTL/angle    |
-| theo ý.                                                               |
-+-----------------------------------------------------------------------+
+| **★ 5.0 FH Benchmarks** |
+| --- |
+|  |
+| Depth: 70%+ balls land trong 1m của baseline. Pace: medium-high, |
+| không weak. Spin: enough to clear net với margin. Consistency: \<20% |
+| unforced errors per set. Direction: kiểm soát được cross/DTL/angle |
+| theo ý. |
+
 
 **15.2. Grip Và Effect**
 
@@ -2554,7 +2554,7 @@ reliable và versatile.
                                                         clay specialist
   -----------------------------------------------------------------------
 
-Không có grip \'tốt nhất\' --- tùy thuộc vào style chơi. Semi-western
+Không có grip 'tốt nhất' --- tùy thuộc vào style chơi. Semi-western
 phổ biến nhất ở 5.0 vì balance giữa spin và versatility.
 
 **15.3. Takeback --- Chuẩn Bị Là Tất Cả**
@@ -2568,7 +2568,7 @@ tay. Swing từ shoulder rotation, không arm swing isolated.
 
 **15.4. Contact Point Và Power**
 
-Contact point tốt: ra phía trước body, trong \'power zone\' (ngang eo
+Contact point tốt: ra phía trước body, trong 'power zone' (ngang eo
 hoặc cao hơn một chút), arm slightly bent.
 
 Power generation trong forehand đến từ chuỗi: leg drive → hip rotation →
@@ -2638,7 +2638,7 @@ FH ổn định dưới áp lực không phải về kỹ thuật --- đó là v
 process focus.
 
 Khi FH breakdown dưới áp lực: (1) Simplify target --- aim cross-court,
-không angle, (2) Focus on contact point --- \'hit it in front\', (3)
+không angle, (2) Focus on contact point --- 'hit it in front', (3)
 Breathe trước khi đánh, (4) Không thay đổi technique giữa trận ---
 consistency \> tweaking.
 
@@ -2669,7 +2669,7 @@ reliable, deep, và đủ versatile để không trở thành target rõ ràng c
                     options, elegant  master            game
   -----------------------------------------------------------------------
 
-Không có backhand nào \'tốt hơn\' --- phụ thuộc vào style và đã commit
+Không có backhand nào 'tốt hơn' --- phụ thuộc vào style và đã commit
 bao lâu. Quan trọng là develop whichever you have to its fullest.
 
 **16.2. Backhand Slice --- Defensive Arsenal**
@@ -2722,7 +2722,7 @@ thường ổn định nhất vì low bounce ép return khó.
 **16.7. Developing Backhand Under Pressure**
 
 BH breakdown dưới áp lực vì: less natural rotation, less practiced under
-stress, often the \'weaker\' wing.
+stress, often the 'weaker' wing.
 
 Pressure BH training: simulate pressure situations trong practice. Người
 đứng ở breakpoint phải đánh BH cross-court deep 70% lần. Track và
@@ -2759,10 +2759,10 @@ shot, (5) Pattern của errors --- into net, long, or wide?
 Nhiều players có negative mindset với BH vì đó là weakness. Đổi mindset
 này là coaching job:
 
-Reframe: \'BH của tôi là kỹ năng đang phát triển, không phải điểm yếu
-vĩnh cửu.\' Focus on improvement metrics, không phải so sánh với FH. Set
-specific BH goals: \'Tháng này tôi sẽ tăng BH DTL accuracy từ 40% lên
-55%.\' Measure progress explicitly.
+Reframe: 'BH của tôi là kỹ năng đang phát triển, không phải điểm yếu
+vĩnh cửu.' Focus on improvement metrics, không phải so sánh với FH. Set
+specific BH goals: 'Tháng này tôi sẽ tăng BH DTL accuracy từ 40% lên
+55%.' Measure progress explicitly.
 
 Summary: BH ở 5.0 không cần spectacular --- nó cần reliable và không trở
 thành obvious target. Slice, crosscourt, và approach BH đều phải đủ
@@ -2855,7 +2855,7 @@ tennis. Reaction phải strategic, không emotional:
 
 - Challenge only when certain (với Hawk-Eye nếu có)
 
-- Stay composed: \'Cool players win more\'
+- Stay composed: 'Cool players win more'
 
 - Next point completely clean mental slate
 
@@ -2886,7 +2886,7 @@ Post-match recovery quan trọng đặc biệt khi có multiple matches:
 
 Mỗi giải đấu là learning opportunity:
 
-Post-tournament review: (1) Tactical patterns that worked/didn\'t, (2)
+Post-tournament review: (1) Tactical patterns that worked/didn't, (2)
 Physical performance across multiple matches, (3) Mental performance at
 critical moments, (4) Equipment/logistical issues, (5) Three specific
 things to improve before next tournament.
@@ -2897,8 +2897,8 @@ Tournament experience compounds. Players who play more tournaments learn
 faster:
 
 Play a tournament every 4-6 weeks minimum to maintain competitive edge.
-Mix levels: play some tournaments where you\'re underdog (learning),
-some where you\'re favorite (experience winning). Both types build
+Mix levels: play some tournaments where you're underdog (learning),
+some where you're favorite (experience winning). Both types build
 different tournament skills.
 
 Summary: Tournament success = good game plan + physical readiness +
@@ -2919,14 +2919,14 @@ mind games đến advanced patterns, từ deception đến extreme angles.
 Deception trong tennis không phải gian lận --- đó là art of disguise. Từ
 serving đến stroking, deception buộc đối thủ commit sớm và sai.
 
-+-----------------------------------------------------------------------+
-| **★ Deception Toolkit**                                               |
-|                                                                       |
-| Same setup, different outcomes. Same ball toss, different serves.     |
-| Same backswing, drive vs drop. Same approach stance, DTL vs angle     |
-| cross. Deception được build qua deliberate practice của multiple      |
-| shots từ identical setup.                                             |
-+-----------------------------------------------------------------------+
+| **★ Deception Toolkit** |
+| --- |
+|  |
+| Same setup, different outcomes. Same ball toss, different serves. |
+| Same backswing, drive vs drop. Same approach stance, DTL vs angle |
+| cross. Deception được build qua deliberate practice của multiple |
+| shots từ identical setup. |
+
 
 **18.2. Extreme Angles**
 
@@ -2956,10 +2956,10 @@ Không phải gamesmanship --- đây là legitimate psychological competition:
 
 - Reset quickly after errors: show no weakness
 
-- Body language: always positive, upright --- opponent shouldn\'t see
+- Body language: always positive, upright --- opponent shouldn't see
   discouragement
 
-- Take full time between points: don\'t rush, control the pace
+- Take full time between points: don't rush, control the pace
 
 - Celebration: controlled but visible after big points
 
@@ -3000,7 +3000,7 @@ serve như weapon:
 
 Second serve kick vào weakness + approach immediately = aggressive
 pattern. Second serve body jam + move forward = cut point short. Varying
-second serve pace và placement so opponent can\'t camp and attack.
+second serve pace và placement so opponent can't camp and attack.
 
 **18.7. Forcing Errors --- Không Phải Winners**
 
@@ -3053,16 +3053,16 @@ kết hợp giữa teacher, strategist, psychologist, và partner.
 
 **19.1. Coaching Philosophy Cho 5.0**
 
-5.0 player không cần coach \'dạy cơ bản\' --- họ cần coach giúp identify
+5.0 player không cần coach 'dạy cơ bản' --- họ cần coach giúp identify
 blind spots, optimize strengths, và develop tactical sophistication.
 
-+-----------------------------------------------------------------------+
-| **★ Coach As Mirror**                                                 |
-|                                                                       |
-| Coach 5.0 giỏi nhất là những người giúp player thấy những gì player   |
+| **★ Coach As Mirror** |
+| --- |
+|  |
+| Coach 5.0 giỏi nhất là những người giúp player thấy những gì player |
 | không thể thấy về chính mình. Không phải sửa kỹ thuật liên tục --- mà |
-| là illuminate patterns, decisions, và psychology.                     |
-+-----------------------------------------------------------------------+
+| là illuminate patterns, decisions, và psychology. |
+
 
 **19.2. Initial Assessment**
 
@@ -3113,14 +3113,14 @@ returns unless competitive preparation.
 
 How to give feedback effectively to 5.0 players:
 
-- Ask first: \'What did you feel about that?\' before correcting
+- Ask first: 'What did you feel about that?' before correcting
 
-- Positive-specific-improvement: \'Contact point was great, let\'s now
-  adjust target\'
+- Positive-specific-improvement: 'Contact point was great, let's now
+  adjust target'
 
 - One thing at a time: không overwhelm với 5 corrections
 
-- Use video: show don\'t tell whenever possible
+- Use video: show don't tell whenever possible
 
 - Respect their knowledge: they have experience, acknowledge it
 
@@ -3164,7 +3164,7 @@ Tracking progress với 5.0 player:
 
 **19.9. Handling Resistance To Change**
 
-5.0 players often resist changing something they\'ve done for years.
+5.0 players often resist changing something they've done for years.
 Coaching through resistance:
 
 - Explain the why thoroughly --- they need to understand rationale
@@ -3206,14 +3206,14 @@ thực hiện được.
 đến elite (5.5, 6.0, và professional) là substantial và cần hiểu rõ để
 navigate.
 
-+-----------------------------------------------------------------------+
-| **★ The Real Gap**                                                    |
-|                                                                       |
-| Kỹ thuật: 5.0 vs elite chênh lệch 15-20%. Thể lực: 20-25%. Chiến      |
-| thuật: 30-35%. Tâm lý: 30-35%. Tổng: phần lớn improvement cần thiết   |
-| nằm ở tactical và mental --- không phải kỹ thuật. Đây là lý do tại    |
-| sao toàn bộ cuốn sách này tập trung nhiều vào những lĩnh vực đó.      |
-+-----------------------------------------------------------------------+
+| **★ The Real Gap** |
+| --- |
+|  |
+| Kỹ thuật: 5.0 vs elite chênh lệch 15-20%. Thể lực: 20-25%. Chiến |
+| thuật: 30-35%. Tâm lý: 30-35%. Tổng: phần lớn improvement cần thiết |
+| nằm ở tactical và mental --- không phải kỹ thuật. Đây là lý do tại |
+| sao toàn bộ cuốn sách này tập trung nhiều vào những lĩnh vực đó. |
+
 
 **20.2. 12-Month Development Plan**
 
@@ -3238,7 +3238,7 @@ navigate.
 Deliberate practice --- phân biệt với regular practice --- là engine của
 rapid improvement:
 
-121. Clear specific goal for each session (not just \'practice\')
+121. Clear specific goal for each session (not just 'practice')
 
 122. Feedback loop built in (video, stats, coach observation)
 
@@ -3344,16 +3344,16 @@ short-term struggle for long-term gains. Compete with yourself first ---
 comparison to others is less useful than comparison to your own
 standard.
 
-+-----------------------------------------------------------------------+
-| **★ The Elite Standard**                                              |
-|                                                                       |
-| Elite players are not born with more talent --- they have more        |
-| intentionality. They practice more deliberately, compete more         |
-| strategically, recover more systematically, and develop more          |
+| **★ The Elite Standard** |
+| --- |
+|  |
+| Elite players are not born with more talent --- they have more |
+| intentionality. They practice more deliberately, compete more |
+| strategically, recover more systematically, and develop more |
 | comprehensively. These are all learnable. The question is not whether |
-| you CAN reach the next level --- it\'s whether you\'re willing to do  |
-| what it takes.                                                        |
-+-----------------------------------------------------------------------+
+| you CAN reach the next level --- it's whether you're willing to do |
+| what it takes. |
+
 
 **20.10. Your Journey Starts Here**
 
@@ -3371,15 +3371,15 @@ hội để thực hành quản lý game. Người nào học được không ch
 tốt hơn mà còn cách tư duy tốt hơn --- đó là người sẽ continue
 improving, competing, và enjoying the game ở level cao nhất.
 
-+-----------------------------------------------------------------------+
-| **★ Lời Kết**                                                         |
-|                                                                       |
-| Game management trong tennis cuối cùng là về một điều: đưa ra quyết   |
-| định tốt nhất có thể, với thông tin bạn có, trong thời gian bạn được  |
-| cho phép. Không phải mọi quyết định đều đúng. Nhưng hệ thống trong    |
+| **★ Lời Kết** |
+| --- |
+|  |
+| Game management trong tennis cuối cùng là về một điều: đưa ra quyết |
+| định tốt nhất có thể, với thông tin bạn có, trong thời gian bạn được |
+| cho phép. Không phải mọi quyết định đều đúng. Nhưng hệ thống trong |
 | cuốn sách này sẽ giúp bạn đưa ra nhiều quyết định đúng hơn, nhất quán |
-| hơn, và dưới áp lực tốt hơn. Đó là tất cả những gì cần thiết để win   |
-| more.                                                                 |
-+-----------------------------------------------------------------------+
+| hơn, và dưới áp lực tốt hơn. Đó là tất cả những gì cần thiết để win |
+| more. |
+
 
 **HẾT**

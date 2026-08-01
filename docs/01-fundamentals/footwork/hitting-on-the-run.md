@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_hitting-on-the-run/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_hitting-on-the-run/media/image1.webp)
 
 **Nicole Vaidisova lunges and transfers her weight in a semi-open
 stance.**
@@ -63,8 +62,7 @@ top players in the world.
 **The Running Open Stance**
 
 ![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image2.webp)
 
 **Roger: smooth, fluid with contact before the left foot touches.**
 
@@ -72,25 +70,24 @@ The running open stance is basically a hard surface technique. It allows
 you to maintain control of your momentum and let it flow seamlessly
 through the stroke. **[[Federer is as fluid and smooth as they come.
 Watch how he makes contact before the left foot touches the
-ground]{.underline}]{.mark}**. **[[You don\'t want that front foot
-planted before contact, or you\'ll be actually end up hitting from a
+ground]{.underline}]{.mark}**. **[[You don't want that front foot
+planted before contact, or you'll be actually end up hitting from a
 closed stance.]{.underline}]{.mark}**
 
 **[[On the run, the last step before the hit sets up a loaded open
-stance.]{.underline}]{.mark}** Note that on the move Federer\'s racket
+stance.]{.underline}]{.mark}** Note that on the move Federer's racket
 is already prepared with the upper body turned. Now as the swing starts
 forward, the inside or right leg starts to cross in front of the body.
 
 It happens too fast in real play for the naked eye, but on video you can
 see that the **[[crossing foot does not touch ground until after contact
-is made with the ball.]{.underline}]{.mark}** That\'s why it is not
+is made with the ball.]{.underline}]{.mark}** That's why it is not
 considered a closed stance. This crossing step works as a
 counter-balance to anchor the stroke.
 
 ![A picture containing person, ball, athletic game, sport Description
 automatically
-generated](media_hitting-on-the-run/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image3.webp)
 
 **Nadal: wide open when loading, to fully closed on the landing.**
 
@@ -98,7 +95,7 @@ Watch Rafael Nadal load the left foot very well in the next animation.
 But notice also how his legs go from a wide-open stance in the load up,
 to a fully closed stance on the landing of the lunge.
 
-**[[Watch Nadal closely and you\'ll see that the right leg and left arm
+**[[Watch Nadal closely and you'll see that the right leg and left arm
 work together at the same time. As the right foot extends in the cross
 step, the left arm is pulling back across the body, part of the rotation
 forward into the shot generating additional
@@ -117,8 +114,7 @@ backhands.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_hitting-on-the-run/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_hitting-on-the-run/media/image4.webp)
 
 **Nadal increases explosiveness by landing and loading on the ball of
 his foot.**
@@ -143,8 +139,7 @@ understood.]{.underline}]{.mark}**
 
 ![A picture containing sport, athletic game, outdoor, tennis Description
 automatically
-generated](media_hitting-on-the-run/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image5.webp)
 
 **Watch how Coria controls the skid with his upper body posture.**
 
@@ -160,13 +155,12 @@ ankle.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_hitting-on-the-run/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_hitting-on-the-run/media/image6.webp)
 
 **On clay good movement requires sliding into your shots.**
 
 To be an effective clay court player, you have to be able to slide into
-your strokes. Those who can\'t tend to run through the stroke like hard
+your strokes. Those who can't tend to run through the stroke like hard
 court play, then skid to a stop after the stroke, adding to the recovery
 distance and slowing recovery.
 
@@ -177,8 +171,7 @@ alternative.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_hitting-on-the-run/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_hitting-on-the-run/media/image7.webp)
 
 **Players use the kick out step like anti-lock brakes, grabbing, letting
 go, and grabbing again.**
@@ -205,10 +198,9 @@ recovery.]{.underline}]{.mark}**
 
 ![A picture containing tennis, athletic game, sport, player Description
 automatically
-generated](media_hitting-on-the-run/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image8.webp)
 
-**Watch Kuznetsova\'s lower body swing underneath her controlling
+**Watch Kuznetsova's lower body swing underneath her controlling
 momentum.**
 
 **Built-in Recovery Technique**
@@ -235,8 +227,7 @@ the directional momentum.
 **Neutral Stance Pivot Recovery**
 
 ![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image9.webp)
 
 **The weight pushes forward on the front foot with the dominant side
 pivoting to face the net.**
@@ -253,8 +244,7 @@ ready position to begin recovery.]{.underline}]{.mark}**
 **Lateral Recovery Movement**
 
 ![A person playing tennis Description automatically
-generated](media_hitting-on-the-run/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_hitting-on-the-run/media/image10.webp)
 
 **The shoulders should face the net whether the recovery steps are
 crossover steps or shuffle steps.**
@@ -270,27 +260,26 @@ moving.]{.underline}]{.mark}** **[[Move as quickly as possible using
 crossover and shuffle footwork until you reach a full recovery position
 or until the opponent is about to make contact.]{.underline}]{.mark}**
 **[[Whether you reach full recovery position in time or not, you need to
-split step at the opponent\'s contact to react on time to the next
+split step at the opponent's contact to react on time to the next
 shot.]{.underline}]{.mark}** **[[If you fail to split step on time, you
 will be late on reacting to the next shot.]{.underline}]{.mark}**
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+---+
-| ![A person with glasses smiling Description automatically generated with low                                                                                       | Pat Dougherty has been a biomechanics expert   |   |
-| confidence](media_hitting-on-the-run/media/image11.jpeg){width="1.8263888888888888in" | and coach at IMG/Bollettieri Academies for     |   |
-| height="2.04375in"}                                                                                                                                                | over 20 years, influencing the development of  |   |
-|                                                                                                                                                                    | hundreds of elite junior and pro players from  |   |
-|                                                                                                                                                                    | around the world. As the creator and producer  |   |
-|                                                                                                                                                                    | of the acclaimed Nick Bollettieri              |   |
-|                                                                                                                                                                    | instructional video series, Pat was            |   |
-|                                                                                                                                                                    | responsible for developing the system that has |   |
-|                                                                                                                                                                    | become synonymous with the teaching approach   |   |
-|                                                                                                                                                                    | at the Academy. In this new series for         |   |
-|                                                                                                                                                                    | Tennisplayer, Pat presents for the first time  |   |
-|                                                                                                                                                                    | his concepts and patented training methods for |   |
-|                                                                                                                                                                    | becoming a tennis movement specialist. For     |   |
-|                                                                                                                                                                    | more info on The A.P. Belt developed by Pat at |   |
-|                                                                                                                                                                    | the world famous Bollettieri Academy, [Click   |   |
-|                                                                                                                                                                    | Here](http://www.apbelt.com/).                 |   |
-|                                                                                                                                                                    |                                                |   |
-|                                                                                                                                                                    | Contact Pat directly at: pdougherty@apbelt.com |   |
-+====================================================================================================================================================================+================================================+===+
+| ![A person with glasses smiling Description automatically generated with low | Pat Dougherty has been a biomechanics expert |  |
+| --- | --- | --- |
+| confidence](media_hitting-on-the-run/media/image11.jpeg) | over 20 years, influencing the development of |  |
+|  | hundreds of elite junior and pro players from |  |
+|  | around the world. As the creator and producer |  |
+|  | of the acclaimed Nick Bollettieri |  |
+|  | instructional video series, Pat was |  |
+|  | responsible for developing the system that has |  |
+|  | become synonymous with the teaching approach |  |
+|  | at the Academy. In this new series for |  |
+|  | Tennisplayer, Pat presents for the first time |  |
+|  | his concepts and patented training methods for |  |
+|  | becoming a tennis movement specialist. For |  |
+|  | more info on The A.P. Belt developed by Pat at |  |
+|  | the world famous Bollettieri Academy, [Click |  |
+|  | Here](http://www.apbelt.com/). |  |
+|  |  |  |
+|  | Contact Pat directly at: pdougherty@apbelt.com |  |
+

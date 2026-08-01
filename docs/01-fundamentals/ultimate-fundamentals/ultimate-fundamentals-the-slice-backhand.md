@@ -7,7 +7,7 @@ The Slice Backhand**
 
 All players need a slice, whether they hit with one hand or two. But is
 the \"modern\" slice hit with its radical downward swing the right model
-for most players? Let\'s take a look.
+for most players? Let's take a look.
 
 The speed and especially spin in the modern game has forced an adaption
 in the slice swing patterns from its classical predecessors\--backhands
@@ -21,8 +21,7 @@ most players in developing a sound and effective slice backhand.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_ultimate-fundamentals-the-slice-backhand/media/image2.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_ultimate-fundamentals-the-slice-backhand/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

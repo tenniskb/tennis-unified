@@ -18,38 +18,30 @@ the player uses their own racquet, as the last animation shows.
 Start with all slice groundstrokes. Then progress to drop shots, then
 volleys. I wonder if Ash Barty did any drills similar to these?
 
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | Wood Racquet Slices                                                                                                                                                                                              |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person holding a ball Description automatically generated with low                                                                                                                                           |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image1.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+===+==================================================================================================================================================================================================================+
-|   | Wood Racquet Drop Shots                                                                                                                                                                                          |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically generated with medium                                                                                                                                        |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image2.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | Wood Racquet Volleys                                                                                                                                                                                             |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person playing tennis Description automatically generated with medium                                                                                                                                        |
-|   | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image3.webp){width="3.3333333333333335in" |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|   | Slice Medley with a regular racquet.                                                                                                                                                                             |
-|   |                                                                                                                                                                                                                  |
-|   | ![A person holding a tennis racket Description automatically                                                                                                                                                     |
-|   | generated](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image4.webp){width="3.3333333333333335in"  |
-|   | height="1.8645833333333333in"}                                                                                                                                                                                   |
-+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  | Wood Racquet Slices |
+| --- | --- |
+|  |  |
+|  | ![A person holding a ball Description automatically generated with low |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image1.webp) |
+|  | Wood Racquet Drop Shots |
+|  |  |
+|  | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image2.webp) |
+|  | Wood Racquet Volleys |
+|  |  |
+|  | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image3.webp) |
+|  | Slice Medley with a regular racquet. |
+|  |  |
+|  | ![A person holding a tennis racket Description automatically |
+|  | generated](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image4.webp) |
+
 
 More drills to come! Stay Tuned!
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                                                       Dave Hagler is a Tennis Professional based
-  generated](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image5.jpeg){width="2.0819444444444444in"   in Los Angeles, California. He works with
-  height="2.0972222222222223in"}                                                                                                                                                                                     players of all ages, but he has a special
+  generated](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image5.jpeg)                                                                                                                                                                                     players of all ages, but he has a special
                                                                                                                                                                                                                      passion for junior development. He has
                                                                                                                                                                                                                      coached numerous sectionally and nationally
                                                                                                                                                                                                                      ranked junior players and several national
@@ -57,7 +49,7 @@ More drills to come! Stay Tuned!
                                                                                                                                                                                                                      Professional and National Tester, a PTR
                                                                                                                                                                                                                      Master of Tennis -- Performance, and was one
                                                                                                                                                                                                                      of the first 100 coaches to complete the
-                                                                                                                                                                                                                     USTA\'s High Performance Coaching Program.
+                                                                                                                                                                                                                     USTA's High Performance Coaching Program.
                                                                                                                                                                                                                      He has been the USPTA California Division
                                                                                                                                                                                                                      Pro of the Year and one of 5 National
                                                                                                                                                                                                                      Recipients of the "Pro of the Year" award
@@ -66,16 +58,15 @@ More drills to come! Stay Tuned!
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
-| | **Tennisplayer Forum**                                                                                                              | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image6.gif){width="1.8729166666666666in" | |
-| |                                                                                                                                     | height="1.3958333333333333in"}                                                                                                                                                                                | |
-| +-------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                                                               | |
-| | **Let\'s Talk About this Article!\                                                                                                  |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | Share Your Thoughts with our Subscribers and Authors!\                                                                              |                                                                                                                                                                                                               | |
-| | \                                                                                                                                   |                                                                                                                                                                                                               | |
-| | [[Click                                                                                                                             |                                                                                                                                                                                                               | |
-| | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |                                                                                                                                                                                                               | |
-| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |
-+=========================================================================================================================================================================================================================================================================================================================================================+
+| +-------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-drills-for-developing-touch-part4/media/image6.gif) |  |
+| +-------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+|  | **Let's Talk About this Article!\ |  |  |
+|  | \ |  |  |
+|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
+|  | \ |  |  |
+|  | [[Click |  |  |
+|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/93622-drills-for-developing-touch-part-1?view=stream)** |  |  |
+| +=====================================================================================================================================+===============================================================================================================================================================================================================+ |  |  |  |
+

@@ -11,8 +11,7 @@ efficient.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-step-down/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_contact-moves-the-step-down/media/image1.webp)
 
 **Pro Contact Moves: Two Foot Pivot, Lateral Transfer, and the Mogul
 Move.**
@@ -25,8 +24,7 @@ movement of the top pros. These articles present the results of some of
 this work, focusing on the concept of the Contact Move.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image2.webp)
 
 **We need to go beyond the basic hitting stances.**
 
@@ -47,8 +45,7 @@ with the best players in the world. It also shows them what players at
 all levels need to do to develop world class footwork.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image3.webp)
 
 **How do we make sense of all the dynamic footwork elements in tennis?**
 
@@ -79,8 +76,7 @@ Contact Moves, teach you to develop them for yourself, and when to use
 them.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image3.webp)
 
 **The step down into the court and into the shot.**
 
@@ -106,18 +102,17 @@ when they are moving 2, 3, or 4 steps sideways or forward to the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-step-down/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_contact-moves-the-step-down/media/image4.webp)
 
 **Ready steps\--even pros use them when there is time.**
 
 Although the Step Down includes a step forward into the shot, it is more
 complex than what we think of as a simple neutral stance. There are
-several components to the Step Down that aren\'t usually recognized.
+several components to the Step Down that aren't usually recognized.
 
-So, let\'s take a look at how it works. We\'ll start with the simplest
+So, let's take a look at how it works. We'll start with the simplest
 Step Down examples and then go forward from there. In future articles
-we\'ll also examine the rest of the Offensive Contact Moves. Then we\'ll
+we'll also examine the rest of the Offensive Contact Moves. Then we'll
 move on to Neutral and Defensive Contact Moves, covering the entire
 range of professional footwork.
 
@@ -128,8 +123,7 @@ movements that are used by elite players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-step-down/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_contact-moves-the-step-down/media/image5.webp)
 
 **The basic Step Down: a sideways out step and a step down to the
 ball.**
@@ -155,8 +149,7 @@ with the rear foot. Which balance move a player uses depends on the
 height of the ball.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image6.webp)
 
 **Andre Agassi demonstrates a complete Step Down sequence.**
 
@@ -165,7 +158,7 @@ steps]{.underline}]{.mark}**. **[[The recovery steps will also vary and
 can include both cross over and shuffle steps, depending how far the
 player has moved to the ball.]{.underline}]{.mark}**
 
-So let\'s see how the components of the Step Down work together. **[[In
+So let's see how the components of the Step Down work together. **[[In
 the simplest pattern, the player initiates the movement with a step out
 or sideways step with the right foot, and a body turn. The left arm goes
 across and the racket goes upward toward the top of the
@@ -176,8 +169,7 @@ shot. The weight stays primarily on the back foot until the step with
 the front foot.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image7.webp)
 
 **On a low ball, the back knee drops. On a high ball, the back leg kicks
 back.**
@@ -202,8 +194,7 @@ timing of the recovery however, which begins only after the player
 finishes the swing.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image8.webp)
 
 **Recovery: a step around, then cross steps or shuffle steps.**
 
@@ -211,7 +202,7 @@ height="2.2291666666666665in"}
 leg. The]{.underline}]{.mark}** **[[leg comes around at up to about a 45
 degree angle.]{.underline}]{.mark}** From here the player can now cross
 step or slide step back to recover, squaring his hips as soon as
-possible to anticipate the opponent\'s next shot. **[[I encourage
+possible to anticipate the opponent's next shot. **[[I encourage
 players to use the cross step as much as possible because I feel it is
 faster than shuffle steps alone.]{.underline}]{.mark}**
 
@@ -220,7 +211,7 @@ leg. If the ball is higher, however, the balance move with the rear leg
 changes. Instead of dropping the back knee, the player will actually
 kick the back leg back and away from the hit. At the same time he will
 keep the weight on the front foot, which stays in contact with the
-court. We\'ll see how this can change depending on the circumstance in
+court. We'll see how this can change depending on the circumstance in
 future articles.
 
 As with the first type of balance move, the kick back is followed by the
@@ -231,8 +222,7 @@ the next ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-step-down/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_contact-moves-the-step-down/media/image9.webp)
 
 **Rhythm Steps: a step out, a shuffle, a second step, then a step
 down.**
@@ -249,7 +239,7 @@ then a second step behind the ball with the right foot.
 
 Rhythm Steps can be followed by either of the two balance moves we saw
 above. If the ball is low, the player will bend and lower the back leg.
-If it\'s higher the balance move will be a kick back away from the shot
+If it's higher the balance move will be a kick back away from the shot
 with the back foot.
 
 In either case, the same pattern of recovery footwork applies. The step
@@ -257,8 +247,7 @@ forward and around at 45 degrees, and then the crossover and/or shuffle
 back to a neutral position.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-step-down/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_contact-moves-the-step-down/media/image10.webp)
 
 **[The Cha Cha Cha: a step out, a step across, then a step behind the
 ball.]{.underline}**
@@ -266,16 +255,16 @@ ball.]{.underline}**
 **Cha Cha Cha**
 
 The third step out option is what I like to call \"Cha Cha Cha Steps.\"
-It\'s basically a three step pattern to reach and set up behind the
+It's basically a three step pattern to reach and set up behind the
 ball. The Cha Cha Cha starts with a step out with the right foot. This
 is followed by a step forward and across with the left foot. The third
-step is another step outward with the left foot. So that\'s 3 steps:
+step is another step outward with the left foot. So that's 3 steps:
 right, left, right, or \"Cha Cha Cha.\" Now the player takes the step
 down the court into the ball. He finishes the swing, and after the hit,
 using the recovery footwork pattern we have seen above.
 
-So that\'s it for the Step Down or the most basic form of aggressive
-footwork. We\'ve seen 3 different variations in the the initial steps
+So that's it for the Step Down or the most basic form of aggressive
+footwork. We've seen 3 different variations in the the initial steps
 depending on how far you move to the ball, and 2 different balance
 moves, depending on ball height.
 
@@ -285,11 +274,10 @@ rise. But these patterns are critical for the club players to master
 because in general they play rally balls at mostly lower contact heights
 and with less extreme side to side movement.
 
-Next we\'ll start to look at the other more advanced forms of aggressive
+Next we'll start to look at the other more advanced forms of aggressive
 footwork that are more common in the pros. Stay Tuned.
 
-![](media_contact-moves-the-step-down/media/image11.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_contact-moves-the-step-down/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

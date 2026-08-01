@@ -40,23 +40,23 @@ bước, bảng chẩn đoán lỗi phổ biến, và bài tập theo cơ chế 
 đọc được khuyến khích đọc toàn bộ Chương Nguyên Lý Nền Tảng trước khi
 chuyển sang các chương kỹ thuật cụ thể.
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 0**                                                       |
-|                                                                    |
-| **NGUYÊN LÝ NỀN TẢNG**                                             |
-|                                                                    |
-| *Cơ sở lý thuyết của sóng trong truyền lực sinh học*               |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 0** |
+| --- |
+|  |
+| **NGUYÊN LÝ NỀN TẢNG** |
+|  |
+| *Cơ sở lý thuyết của sóng trong truyền lực sinh học* |
+
 
 **0.1 Luận Điểm Trung Tâm**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ CỐT LÕI**                                           |
-|                                                                    |
+| **⚡ NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
 | Mọi kỹ thuật trong tennis đều là một chuỗi sóng --- bắt đầu từ mặt |
-| đất, đi qua cơ thể, kết thúc ở đầu vợt. Kỹ thuật tốt không phải    |
-| dùng nhiều lực hơn, mà là truyền sóng hiệu quả hơn.                |
-+--------------------------------------------------------------------+
+| đất, đi qua cơ thể, kết thúc ở đầu vợt. Kỹ thuật tốt không phải |
+| dùng nhiều lực hơn, mà là truyền sóng hiệu quả hơn. |
+
 
 Trong vật lý, sóng là sự lan truyền năng lượng qua môi trường mà không
 có sự di chuyển vật chất tịnh tiến. Trong cơ thể người, năng lượng được
@@ -168,23 +168,23 @@ này:
   **Smash**      Timing + vị trí      Di chuyển lùi trước --- đánh sau
   -------------- -------------------- ---------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 1**                                                       |
-|                                                                    |
-| **SERVE**                                                          |
-|                                                                    |
-| *Cú đánh của sóng toàn thân*                                       |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 1** |
+| --- |
+|  |
+| **SERVE** |
+|  |
+| *Cú đánh của sóng toàn thân* |
+
 
 **1.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Serve không bắt đầu từ tay --- nó bắt đầu từ mặt đất. Tay chỉ là   |
-| điểm cuối của một làn sóng xuất phát từ chân, đi qua toàn bộ cơ    |
-| thể. Tay càng cố gắng, serve càng yếu.                             |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Serve không bắt đầu từ tay --- nó bắt đầu từ mặt đất. Tay chỉ là |
+| điểm cuối của một làn sóng xuất phát từ chân, đi qua toàn bộ cơ |
+| thể. Tay càng cố gắng, serve càng yếu. |
+
 
 Về mặt cơ học, serve là kỹ thuật có chuỗi sóng dài nhất trong tennis ---
 bao gồm 6 đoạn khuếch đại liên tiếp từ chân đến đầu vợt. Tốc độ xoay
@@ -201,13 +201,13 @@ Khi gập gối xuống vị trí \"knee bend\", cơ tứ đầu đùi và cơ b
 kéo giãn eccentric --- tích trữ năng lượng đàn hồi trong gân như một lò
 xo nén. Đây là pha nạp SSC, chưa tiêu hao bất kỳ lực chủ động nào.
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI PHỔ BIẾN**                                                 |
-|                                                                    |
-| Không gập gối đủ sâu --- lò xo chưa nén đã đẩy. Kết quả: sóng yếu  |
-| ngay từ điểm xuất phát, cánh tay phải bù thêm lực dẫn đến chấn     |
-| thương vai tích lũy.                                               |
-+--------------------------------------------------------------------+
+| **⚠ LỖI PHỔ BIẾN** |
+| --- |
+|  |
+| Không gập gối đủ sâu --- lò xo chưa nén đã đẩy. Kết quả: sóng yếu |
+| ngay từ điểm xuất phát, cánh tay phải bù thêm lực dẫn đến chấn |
+| thương vai tích lũy. |
+
 
 **Bước 2 --- Chân Đẩy: Phóng Sóng Khởi Nguồn**
 
@@ -215,13 +215,13 @@ Chân duỗi thẳng mạnh và đẩy cơ thể lên --- đây là điểm kh�
 tạo ra lực phản từ mặt đất (Ground Reaction Force) đạt 4--6 lần trọng
 lượng cơ thể. Toàn bộ năng lượng của serve xuất phát từ thời điểm này.
 
-+--------------------------------------------------------------------+
-| **✅ DẤU HIỆU ĐÚNG**                                               |
-|                                                                    |
-| Sau khi serve hoàn thành, chân sau phải rời đất và bước sang phía  |
-| trước --- đây là bằng chứng chân đã đẩy đủ lực và trọng lượng đã   |
-| được chuyển hoàn toàn.                                             |
-+--------------------------------------------------------------------+
+| **✅ DẤU HIỆU ĐÚNG** |
+| --- |
+|  |
+| Sau khi serve hoàn thành, chân sau phải rời đất và bước sang phía |
+| trước --- đây là bằng chứng chân đã đẩy đủ lực và trọng lượng đã |
+| được chuyển hoàn toàn. |
+
 
 **Bước 3 --- Hông Xoay: Khuếch Đại Sóng Lần 1**
 
@@ -230,13 +230,13 @@ Khoảng thời gian trễ giữa hông và vai tạo ra sự \"kéo căng\" tro
 --- cơ chế này khuếch đại sóng tương tự như dây cung bị kéo căng trước
 khi bắn.
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI PHỔ BIẾN**                                                 |
-|                                                                    |
-| Hông và vai xoay cùng lúc --- sóng bị triệt tiêu. Người chơi       |
-| thường nhận ra điều này khi serve \"cứng\" và không có cảm giác    |
-| \"snap\" tự nhiên.                                                 |
-+--------------------------------------------------------------------+
+| **⚠ LỖI PHỔ BIẾN** |
+| --- |
+|  |
+| Hông và vai xoay cùng lúc --- sóng bị triệt tiêu. Người chơi |
+| thường nhận ra điều này khi serve \"cứng\" và không có cảm giác |
+| \"snap\" tự nhiên. |
+
 
 **Bước 4 --- Thân Và Vai: Khuếch Đại Sóng Lần 2**
 
@@ -252,13 +252,13 @@ lượng từ chân, hông, thân, vai dồn vào đây trong một khoảnh kh�
 Cổ tay không cần chủ động tạo lực --- nhiệm vụ duy nhất là không cản
 sóng lại bằng cách co cứng.
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI PHỔ BIẾN**                                                 |
-|                                                                    |
-| Cố ý \"vung cổ tay\" để đánh mạnh hơn. Nghịch lý: cổ tay co cứng   |
-| cản sóng, tốc độ giảm 15--20%, đồng thời tăng nguy cơ viêm gân     |
-| khuỷu tay.                                                         |
-+--------------------------------------------------------------------+
+| **⚠ LỖI PHỔ BIẾN** |
+| --- |
+|  |
+| Cố ý \"vung cổ tay\" để đánh mạnh hơn. Nghịch lý: cổ tay co cứng |
+| cản sóng, tốc độ giảm 15--20%, đồng thời tăng nguy cơ viêm gân |
+| khuỷu tay. |
+
 
 **Bước 6 --- Follow Through: Sóng Tắt An Toàn**
 
@@ -304,23 +304,23 @@ vệ cơ và gân khỏi xung lực dư thừa.
   nhiều sức**                
   -------------------------- ------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 2**                                                       |
-|                                                                    |
-| **FOREHAND**                                                       |
-|                                                                    |
-| *Sóng xoắn từ mặt đất*                                             |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 2** |
+| --- |
+|  |
+| **FOREHAND** |
+|  |
+| *Sóng xoắn từ mặt đất* |
+
 
 **2.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Forehand mạnh không đến từ cánh tay --- nó đến từ vòng xoay của    |
-| toàn thân. Cánh tay chỉ là phần cuối của một vòng xoay bắt đầu từ  |
-| chân. Càng xoay tốt, càng đánh mạnh mà càng ít mỏi.                |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Forehand mạnh không đến từ cánh tay --- nó đến từ vòng xoay của |
+| toàn thân. Cánh tay chỉ là phần cuối của một vòng xoay bắt đầu từ |
+| chân. Càng xoay tốt, càng đánh mạnh mà càng ít mỏi. |
+
 
 Forehand là kỹ thuật sử dụng nhiều nhất trong tennis --- chiếm 60--70%
 tổng số cú đánh trong một trận đấu. Kỹ năng xoay hông (hip rotation
@@ -336,13 +336,13 @@ Khi phát hiện bóng sang bên phải, vai, thân và hông xoay cùng nhau v�
 phía sau như một khối thống nhất (unit turn). Đây là pha nạp sóng ---
 tạo ra sự kéo căng của cơ thân và gân vai.
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI PHỔ BIẾN**                                                 |
-|                                                                    |
-| Chỉ kéo cánh tay ra sau mà thân không xoay --- mất toàn bộ nguồn   |
-| sóng từ cơ thể. Người chơi chỉ còn sóng từ cánh tay, dẫn đến bóng  |
-| yếu và mỏi nhanh.                                                  |
-+--------------------------------------------------------------------+
+| **⚠ LỖI PHỔ BIẾN** |
+| --- |
+|  |
+| Chỉ kéo cánh tay ra sau mà thân không xoay --- mất toàn bộ nguồn |
+| sóng từ cơ thể. Người chơi chỉ còn sóng từ cánh tay, dẫn đến bóng |
+| yếu và mỏi nhanh. |
+
 
 **Bước 2 --- Chân Đặt: Thiết Lập Nền Sóng**
 
@@ -359,13 +359,13 @@ trễ (separation) giữa hông và vai là yếu tố phân biệt forehand c�
 đã hướng về lưới trong khi vai vẫn còn xoay ngang --- đây là khoảnh khắc
 sóng căng nhất.
 
-+--------------------------------------------------------------------+
-| **✅ DẤU HIỆU ĐÚNG**                                               |
-|                                                                    |
-| Nhìn từ trên xuống: khi hông đã hướng về lưới, vai vẫn còn xoay    |
-| ngang. Khoảng separation 30--45° này là dấu hiệu của chuỗi sóng    |
-| đúng thứ tự.                                                       |
-+--------------------------------------------------------------------+
+| **✅ DẤU HIỆU ĐÚNG** |
+| --- |
+|  |
+| Nhìn từ trên xuống: khi hông đã hướng về lưới, vai vẫn còn xoay |
+| ngang. Khoảng separation 30--45° này là dấu hiệu của chuỗi sóng |
+| đúng thứ tự. |
+
 
 **Bước 4 --- Thân Xoay Theo: Sóng Khuếch Đại**
 
@@ -380,13 +380,13 @@ duỗi cổ tay đang tích trữ sóng đàn hồi. Khi thân đã xoay đủ, 
 bung ra tại điểm tiếp bóng. Điểm tiếp bóng phải nằm trước thân người
 (ngang hoặc hơi trước hông) --- không bao giờ ngang vai hoặc sau thân.
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI PHỔ BIẾN**                                                 |
-|                                                                    |
-| Cố ý \"vung cổ tay\" sớm để đánh mạnh hơn --- triệt tiêu sóng đàn  |
-| hồi gân, giảm tốc độ và tăng nguy cơ tennis elbow. Tiếp bóng quá   |
-| muộn (ngang vai) --- sóng đã tắt qua điểm đỉnh.                    |
-+--------------------------------------------------------------------+
+| **⚠ LỖI PHỔ BIẾN** |
+| --- |
+|  |
+| Cố ý \"vung cổ tay\" sớm để đánh mạnh hơn --- triệt tiêu sóng đàn |
+| hồi gân, giảm tốc độ và tăng nguy cơ tennis elbow. Tiếp bóng quá |
+| muộn (ngang vai) --- sóng đã tắt qua điểm đỉnh. |
+
 
 **Bước 6 --- Follow Through: Sóng Tắt Qua Vai**
 
@@ -438,24 +438,24 @@ khi qua lưới.
   muốn**                     phần đứng
   -------------------------- ------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 3**                                                       |
-|                                                                    |
-| **BACKHAND**                                                       |
-|                                                                    |
-| *Sóng xoay ngược chiều*                                            |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 3** |
+| --- |
+|  |
+| **BACKHAND** |
+|  |
+| *Sóng xoay ngược chiều* |
+
 
 **3.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Backhand khó không phải vì cơ thể yếu hơn --- mà vì sóng phải đi   |
-| ngược chiều tự nhiên. Bí quyết là để thân người làm việc, không    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Backhand khó không phải vì cơ thể yếu hơn --- mà vì sóng phải đi |
+| ngược chiều tự nhiên. Bí quyết là để thân người làm việc, không |
 | phải cánh tay. Và với backhand hai tay: tay không thuận mới là tay |
-| chính.                                                             |
-+--------------------------------------------------------------------+
+| chính. |
+
 
 **3.2 Backhand Một Tay --- Chuỗi Sóng**
 
@@ -484,14 +484,14 @@ một tay với hai tay.
 
 **3.3 Backhand Hai Tay --- Sóng Kép Cộng Hưởng**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ BACKHAND HAI TAY**                                  |
-|                                                                    |
-| Với người thuận phải: tay trái kéo vợt về phía trước (sóng chủ     |
-| đạo), tay phải giữ grip ổn định (hướng sóng), thân xoay theo       |
-| (khuếch đại). Hầu hết người chơi làm ngược lại --- dùng tay phải   |
-| đẩy --- và mất đi nguồn sóng mạnh nhất.                            |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ BACKHAND HAI TAY** |
+| --- |
+|  |
+| Với người thuận phải: tay trái kéo vợt về phía trước (sóng chủ |
+| đạo), tay phải giữ grip ổn định (hướng sóng), thân xoay theo |
+| (khuếch đại). Hầu hết người chơi làm ngược lại --- dùng tay phải |
+| đẩy --- và mất đi nguồn sóng mạnh nhất. |
+
 
   --------------------- ----------------------------------------------
   **Yếu tố**            **Vai trò trong chuỗi sóng**
@@ -509,14 +509,14 @@ một tay với hai tay.
                         phải trước thân
   --------------------- ----------------------------------------------
 
-+--------------------------------------------------------------------+
-| **✅ BÀI TẬP KIỂM TRA**                                            |
-|                                                                    |
-| Cầm vợt chỉ bằng tay trái --- đánh forehand bình thường bằng tay   |
-| trái. Chuyển động này chính xác là chuyển động tay trái cần có     |
+| **✅ BÀI TẬP KIỂM TRA** |
+| --- |
+|  |
+| Cầm vợt chỉ bằng tay trái --- đánh forehand bình thường bằng tay |
+| trái. Chuyển động này chính xác là chuyển động tay trái cần có |
 | trong backhand hai tay. Tập riêng 15 phút/buổi để não học đúng vai |
-| trò của tay không thuận.                                           |
-+--------------------------------------------------------------------+
+| trò của tay không thuận. |
+
 
 **3.4 Bảng Chẩn Đoán Nhanh**
 
@@ -540,23 +540,23 @@ một tay với hai tay.
   mạnh**                     
   -------------------------- ------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 4**                                                       |
-|                                                                    |
-| **RETURN**                                                         |
-|                                                                    |
-| *Sóng trong nửa giây*                                              |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 4** |
+| --- |
+|  |
+| **RETURN** |
+|  |
+| *Sóng trong nửa giây* |
+
 
 **4.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Khi trả serve, não không có đủ thời gian để suy nghĩ. Người thắng  |
-| không phải người phản ứng nhanh hơn --- mà là người chuẩn bị sóng  |
-| sớm hơn.                                                           |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Khi trả serve, não không có đủ thời gian để suy nghĩ. Người thắng |
+| không phải người phản ứng nhanh hơn --- mà là người chuẩn bị sóng |
+| sớm hơn. |
+
 
 Với serve 180 km/h từ khoảng cách 23,77 m, thời gian có sẵn là 0,43
 giây. Trừ thời gian thần kinh (khoảng 150 ms) và thời gian swing (khoảng
@@ -573,13 +573,13 @@ trên đường baseline, (2) hướng tung bóng và (3) góc nghiêng vai. Nã
 đang xây dựng dự đoán về quỹ đạo bóng sắp đến --- đây là phần quan trọng
 nhất của return mà phần lớn người chơi phong trào bỏ qua.
 
-+--------------------------------------------------------------------+
-| **✅ DẤU HIỆU ĐÚNG**                                               |
-|                                                                    |
-| Cơ thể bắt đầu nghiêng nhẹ về một hướng trước khi bóng qua lưới    |
-| --- không phải sau. Đây là bằng chứng của dự đoán thành công,      |
-| không phải phản ứng.                                               |
-+--------------------------------------------------------------------+
+| **✅ DẤU HIỆU ĐÚNG** |
+| --- |
+|  |
+| Cơ thể bắt đầu nghiêng nhẹ về một hướng trước khi bóng qua lưới |
+| --- không phải sau. Đây là bằng chứng của dự đoán thành công, |
+| không phải phản ứng. |
+
 
 **Bước 2 --- Split Step Đúng Thời Điểm: SSC Sẵn Sàng**
 
@@ -620,12 +620,12 @@ lại sóng đó --- không cần tạo thêm. Cố đánh mạnh khi trả serv
 làm mất kiểm soát vì cộng thêm lực không kiểm soát được vào lực bóng đã
 rất cao.
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ JUDO**                                              |
-|                                                                    |
-| Không cần khỏe hơn đối thủ --- chỉ cần dùng lực của đối thủ đúng   |
-| hướng. Đây là nguyên lý trung tâm của return hiệu quả.             |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ JUDO** |
+| --- |
+|  |
+| Không cần khỏe hơn đối thủ --- chỉ cần dùng lực của đối thủ đúng |
+| hướng. Đây là nguyên lý trung tâm của return hiệu quả. |
+
 
 **4.3 Bảng Chẩn Đoán Nhanh**
 
@@ -650,23 +650,23 @@ rất cao.
   nhanh**                    
   -------------------------- ------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 5**                                                       |
-|                                                                    |
-| **VOLLEY**                                                         |
-|                                                                    |
-| *Gương phản xạ sóng*                                               |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 5** |
+| --- |
+|  |
+| **VOLLEY** |
+|  |
+| *Gương phản xạ sóng* |
+
 
 **5.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Volley không phải cú đánh --- đó là cú chặn sóng. Vợt hoạt động    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Volley không phải cú đánh --- đó là cú chặn sóng. Vợt hoạt động |
 | như một tấm gương phản xạ. Nhiệm vụ duy nhất của người chơi là đặt |
-| gương đúng góc và để bóng tự làm việc.                             |
-+--------------------------------------------------------------------+
+| gương đúng góc và để bóng tự làm việc. |
+
 
 Volley là kỹ thuật duy nhất trong tennis xảy ra khi người chơi gần đối
 thủ nhất, với thời gian phản ứng 0,1--0,3 giây. Không có đủ thời gian
@@ -694,12 +694,12 @@ buộc:
 15. Mắt nhìn về phía đối thủ, không nhìn bóng --- nhận thông tin hướng
     bóng sớm nhất
 
-+--------------------------------------------------------------------+
-| **⚠ LỖI NGHIÊM TRỌNG**                                             |
-|                                                                    |
-| Vợt để thấp hoặc buông tay khi ở lưới. Mỗi khi cần volley phải     |
-| nâng vợt lên trước --- mất 0,1 giây, đủ để bóng qua người.         |
-+--------------------------------------------------------------------+
+| **⚠ LỖI NGHIÊM TRỌNG** |
+| --- |
+|  |
+| Vợt để thấp hoặc buông tay khi ở lưới. Mỗi khi cần volley phải |
+| nâng vợt lên trước --- mất 0,1 giây, đủ để bóng qua người. |
+
 
 **5.3 Phân Tích Chuỗi Sóng --- 4 Bước Vận Hành**
 
@@ -774,23 +774,23 @@ không phải lực đánh.
   đến nhanh**                cao trước
   -------------------------- ------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 6**                                                       |
-|                                                                    |
-| **SLICE --- LOB --- SMASH**                                        |
-|                                                                    |
-| *Sóng cắt, sóng đứng và sóng từ trên xuống*                        |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 6** |
+| --- |
+|  |
+| **SLICE --- LOB --- SMASH** |
+|  |
+| *Sóng cắt, sóng đứng và sóng từ trên xuống* |
+
 
 **6.1 Slice --- Sóng Cắt Ngược Chiều**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
 | Slice không phải cú đánh yếu --- đó là cú đánh dùng sóng ma sát để |
-| kiểm soát bóng thay vì tốc độ. Ít lực hơn, nhưng khó chịu hơn cho  |
-| đối thủ vì sóng Magnus làm bóng trượt thấp sau khi chạm đất.       |
-+--------------------------------------------------------------------+
+| kiểm soát bóng thay vì tốc độ. Ít lực hơn, nhưng khó chịu hơn cho |
+| đối thủ vì sóng Magnus làm bóng trượt thấp sau khi chạm đất. |
+
 
 Bóng topspin nảy cao và dễ đánh. Bóng slice nảy thấp, trượt dài sau khi
 chạm sân --- đặc biệt trên sân cứng và sân cỏ --- buộc đối thủ phải khom
@@ -834,13 +834,13 @@ thấp và mất thăng bằng. Backspin rate điển hình: 1.500--2.500 rpm.
 
 **6.2 Lob --- Sóng Theo Phương Đứng**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Lob là cú đánh của sự kiên nhẫn --- dùng sóng trọng lực và chiều   |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Lob là cú đánh của sự kiên nhẫn --- dùng sóng trọng lực và chiều |
 | cao thay vì tốc độ. Mục tiêu không phải đánh mạnh, mà đánh đúng độ |
-| cao và đúng độ sâu.                                                |
-+--------------------------------------------------------------------+
+| cao và đúng độ sâu. |
+
 
   -------------- -----------------------------------------------------
   **Loại Lob**   **Đặc điểm và ứng dụng**
@@ -871,14 +871,14 @@ thấp và mất thăng bằng. Backspin rate điển hình: 1.500--2.500 rpm.
 
 **6.3 Smash --- Sóng Từ Trên Xuống, Tối Đa Lực**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Smash là serve được rút ngắn lại --- cùng một chuỗi sóng, nhưng    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Smash là serve được rút ngắn lại --- cùng một chuỗi sóng, nhưng |
 | bóng đang di chuyển và thời gian chuẩn bị ít hơn. Timing và vị trí |
-| quan trọng hơn sức mạnh: một cú smash kỹ thuật tốt không cần dùng  |
-| hết sức.                                                           |
-+--------------------------------------------------------------------+
+| quan trọng hơn sức mạnh: một cú smash kỹ thuật tốt không cần dùng |
+| hết sức. |
+
 
 **Năm Bước Vận Hành**
 
@@ -908,23 +908,23 @@ tình huống này, ưu tiên tuyệt đối là đặt vợt vào đúng chỗ 
 không cần đánh mạnh. Smash nhẹ mà đặt đúng góc hiệu quả hơn smash mạnh
 mà lệch vị trí.
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 7**                                                       |
-|                                                                    |
-| **DI CHUYỂN LÊN LƯỚI VÀ CHIẾN THUẬT LƯỚI**                         |
-|                                                                    |
-| *Sóng tấn công có tính toán*                                       |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 7** |
+| --- |
+|  |
+| **DI CHUYỂN LÊN LƯỚI VÀ CHIẾN THUẬT LƯỚI** |
+|  |
+| *Sóng tấn công có tính toán* |
+
 
 **7.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Lên lưới không phải chạy lên và đứng đó chờ. Đó là một chuỗi sóng  |
-| có tính toán --- mỗi bước đều có mục đích, mỗi vị trí đều tạo áp   |
-| lực. Người lên lưới đúng cách kiểm soát sân, không phải bị động.   |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Lên lưới không phải chạy lên và đứng đó chờ. Đó là một chuỗi sóng |
+| có tính toán --- mỗi bước đều có mục đích, mỗi vị trí đều tạo áp |
+| lực. Người lên lưới đúng cách kiểm soát sân, không phải bị động. |
+
 
 **7.2 Khi Nào Nên Lên Lưới --- Tín Hiệu Sóng**
 
@@ -977,13 +977,13 @@ baseline đối thủ, buộc họ đứng xa; (2) Thấp --- slice hoặc flat,
 đánh lên cao; (3) Vào cánh yếu --- ít lựa chọn hơn; (4) Xuống đường
 thẳng --- góc passing hẹp nhất.
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN TẮC VÀNG**                                             |
-|                                                                    |
-| Approach shot xuống đường thẳng --- lên lưới che đường thẳng đó.   |
-| Approach shot chéo --- lên lưới che đường chéo ngắn. Vi phạm       |
-| nguyên tắc này là để trống lối thoát dễ nhất cho đối thủ.          |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN TẮC VÀNG** |
+| --- |
+|  |
+| Approach shot xuống đường thẳng --- lên lưới che đường thẳng đó. |
+| Approach shot chéo --- lên lưới che đường chéo ngắn. Vi phạm |
+| nguyên tắc này là để trống lối thoát dễ nhất cho đối thủ. |
+
 
 **Bước 2 --- Split Step Đúng Vị Trí**
 
@@ -1030,24 +1030,24 @@ buộc đối thủ chỉ còn đường chéo dài (khó và ít điểm hơn).
     ứng dụng sóng thần kinh dự đoán --- tạo tín hiệu giả để não đối thủ
     phản ứng sai.
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 8**                                                       |
-|                                                                    |
-| **CHIẾN THUẬT TRẬN ĐẤU TỔNG THỂ**                                  |
-|                                                                    |
-| *Sóng chiến lược trong thi đấu*                                    |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 8** |
+| --- |
+|  |
+| **CHIẾN THUẬT TRẬN ĐẤU TỔNG THỂ** |
+|  |
+| *Sóng chiến lược trong thi đấu* |
+
 
 **8.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
 | Mọi kỹ thuật trong tennis đều là công cụ. Chiến thuật là cách dùng |
-| công cụ đó. Người thắng không phải người đánh đẹp nhất --- mà là   |
-| người biết dùng những gì mình có để khai thác những gì đối thủ     |
-| không có.                                                          |
-+--------------------------------------------------------------------+
+| công cụ đó. Người thắng không phải người đánh đẹp nhất --- mà là |
+| người biết dùng những gì mình có để khai thác những gì đối thủ |
+| không có. |
+
 
 **8.2 Đọc Đối Thủ --- Ba Câu Hỏi Trong 5 Phút Khởi Động**
 
@@ -1154,23 +1154,23 @@ lầm phổ biến nhất ở người chơi phong trào.
                        lỗi nhất khi điểm quan trọng nhất đến.
   -------------------- -----------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 9**                                                       |
-|                                                                    |
-| **THỂ LỰC VÀ PHỤC HỒI**                                            |
-|                                                                    |
-| *Duy trì sóng năng lượng đến điểm cuối cùng*                       |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 9** |
+| --- |
+|  |
+| **THỂ LỰC VÀ PHỤC HỒI** |
+|  |
+| *Duy trì sóng năng lượng đến điểm cuối cùng* |
+
 
 **9.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Thể lực không phải chịu đựng nhiều nhất --- mà là phục hồi nhanh   |
-| nhất. Người thắng set thứ ba không phải người mạnh nhất đầu trận   |
-| --- mà là người còn lại nhiều sóng nhất cuối trận.                 |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Thể lực không phải chịu đựng nhiều nhất --- mà là phục hồi nhanh |
+| nhất. Người thắng set thứ ba không phải người mạnh nhất đầu trận |
+| --- mà là người còn lại nhiều sóng nhất cuối trận. |
+
 
 **9.2 Đặc Thù Năng Lượng Của Tennis**
 
@@ -1203,13 +1203,13 @@ mạnh ở game cuối vì lý do này.
                                          ngẫu nhiên
   -------------------- ----------------- ------------------------------
 
-+--------------------------------------------------------------------+
-| **⚠ NGUYÊN TẮC BẮT BUỘC**                                          |
-|                                                                    |
+| **⚠ NGUYÊN TẮC BẮT BUỘC** |
+| --- |
+|  |
 | Mỗi lần tập phải toàn lực --- nghỉ đầy đủ giữa các set. Tập mệt mà |
-| vẫn tiếp tục = tập chậm chứ không tập nhanh. Explosive power chỉ   |
-| phát triển khi có đủ năng lượng ATP-PC tại thời điểm tập.          |
-+--------------------------------------------------------------------+
+| vẫn tiếp tục = tập chậm chứ không tập nhanh. Explosive power chỉ |
+| phát triển khi có đủ năng lượng ATP-PC tại thời điểm tập. |
+
 
 **Trụ Cột 2 --- Aerobic Base: Sóng Bền**
 
@@ -1299,13 +1299,13 @@ Interval training mô phỏng nhịp tennis hiệu quả hơn chạy đều dài
   sau**         
   ------------- -------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **⚡ SỰ THẬT QUAN TRỌNG**                                          |
-|                                                                    |
-| Ngủ đủ giấc hiệu quả hơn tập thêm 1 tiếng. Thiếu ngủ 1 tiếng làm   |
-| giảm tốc độ phản xạ 10--15% và ngăn cản não củng cố kỹ thuật mới   |
-| học.                                                               |
-+--------------------------------------------------------------------+
+| **⚡ SỰ THẬT QUAN TRỌNG** |
+| --- |
+|  |
+| Ngủ đủ giấc hiệu quả hơn tập thêm 1 tiếng. Thiếu ngủ 1 tiếng làm |
+| giảm tốc độ phản xạ 10--15% và ngăn cản não củng cố kỹ thuật mới |
+| học. |
+
 
 **9.6 Khởi Động Đúng --- Kích Hoạt Sóng Trước Khi Dùng**
 
@@ -1346,23 +1346,23 @@ cho thấy kéo giãn tĩnh làm giảm tạm thời sức mạnh cơ và tốc 
                  trong sóng xoắn             
   -------------- --------------------------- --------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 10**                                                      |
-|                                                                    |
-| **CHƯƠNG TRÌNH TẬP LUYỆN**                                         |
-|                                                                    |
-| *Xây đường mòn thần kinh đúng*                                     |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 10** |
+| --- |
+|  |
+| **CHƯƠNG TRÌNH TẬP LUYỆN** |
+|  |
+| *Xây đường mòn thần kinh đúng* |
+
 
 **10.1 Triết Lý Tập Luyện**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
 | Tập luyện không phải lặp đi lặp lại cho đến khi đúng --- mà lặp đi |
-| lặp lại cho đến khi không thể sai. Não tự động hóa bất cứ điều gì  |
-| được lặp đi lặp lại đủ số lần --- đúng hay sai.                    |
-+--------------------------------------------------------------------+
+| lặp lại cho đến khi không thể sai. Não tự động hóa bất cứ điều gì |
+| được lặp đi lặp lại đủ số lần --- đúng hay sai. |
+
 
   -------------------------- ------------------------------------------
   **Tư duy sai cần loại bỏ** **Tư duy đúng cần xây dựng**
@@ -1469,24 +1469,24 @@ cho thấy kéo giãn tĩnh làm giảm tạm thời sức mạnh cơ và tốc 
               tính điểm thật. Áp lực thực tế để kiểm tra tự động hóa.
   ----------- --------------------------------------------------------
 
-+--------------------------------------------------------------------+
-| **CHƯƠNG 11**                                                      |
-|                                                                    |
-| **SÓNG NÃO VÀ TÂM LÝ THI ĐẤU**                                     |
-|                                                                    |
-| *Khoa học thần kinh ứng dụng cho tennis*                           |
-+--------------------------------------------------------------------+
+| **CHƯƠNG 11** |
+| --- |
+|  |
+| **SÓNG NÃO VÀ TÂM LÝ THI ĐẤU** |
+|  |
+| *Khoa học thần kinh ứng dụng cho tennis* |
+
 
 **11.1 Nguyên Lý Cốt Lõi**
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN LÝ**                                                   |
-|                                                                    |
-| Kỹ thuật là phần cơ thể làm. Tâm lý là phần não cho phép cơ thể    |
-| làm điều đó. Dưới áp lực, não tắt kỹ thuật trước khi cơ thể mỏi.   |
-| Quản lý sóng não là kỹ năng thi đấu quan trọng như quản lý kỹ      |
-| thuật.                                                             |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN LÝ** |
+| --- |
+|  |
+| Kỹ thuật là phần cơ thể làm. Tâm lý là phần não cho phép cơ thể |
+| làm điều đó. Dưới áp lực, não tắt kỹ thuật trước khi cơ thể mỏi. |
+| Quản lý sóng não là kỹ năng thi đấu quan trọng như quản lý kỹ |
+| thuật. |
+
 
 **11.2 Ba Trạng Thái Sóng Não Trong Thi Đấu**
 
@@ -1573,13 +1573,13 @@ theo và tiếp theo nữa.
 42. Bước đến vị trí tiếp theo với mặt bình thản --- cơ thể dẫn đầu, não
     theo sau
 
-+--------------------------------------------------------------------+
-| **⚡ NGUYÊN TẮC**                                                  |
-|                                                                    |
-| Được phép buồn hoặc tức --- nhưng trong 5 giây. Sau đó reset. Cảm  |
-| xúc không bị cấm --- nhưng không được phép kéo dài sang điểm tiếp  |
-| theo.                                                              |
-+--------------------------------------------------------------------+
+| **⚡ NGUYÊN TẮC** |
+| --- |
+|  |
+| Được phép buồn hoặc tức --- nhưng trong 5 giây. Sau đó reset. Cảm |
+| xúc không bị cấm --- nhưng không được phép kéo dài sang điểm tiếp |
+| theo. |
+
 
 **11.4 Vòng Lặp Tự Tin --- Nguồn Gốc Thực Sự**
 

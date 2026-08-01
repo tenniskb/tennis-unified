@@ -6,19 +6,18 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-summary/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-summary/media/image1.webp)
 
 **Serve and volley: a viable, underutilized strategy for all players at
 all levels.**
 
-In this series I\'ve shared my personal journey in becoming a serve and
+In this series I've shared my personal journey in becoming a serve and
 volley player and outlined the teaching components I have developed to
 teach it to others.
 
-It\'s currently a minority view, but I remain convinced serve and volley
+It's currently a minority view, but I remain convinced serve and volley
 is an absolutely viable, wildly underutilized strategy. So in this
-article let\'s review what we\'ve learned. And maybe this last article
+article let's review what we've learned. And maybe this last article
 will swing the balance for some Tennisplayer subscribers to develop more
 serve and volley in their own games.
 
@@ -30,7 +29,7 @@ Here](The%20Inspiration%20to%20Serve%20and%20Volley.docx).)
 
 That Stefan Edberg versus Boris Becker match started me down the road to
 become a tennis player, to become a ranked junior, a college player, and
-eventually to teach serve and volley to my students. I didn\'t win
+eventually to teach serve and volley to my students. I didn't win
 Wimbledon at 17 as I had once dreamed, but my experience has showed me
 that serve and volley can be effective at every level. generate
 unequalled satisfaction when successfully executed.
@@ -47,7 +46,7 @@ unwavering, relentless mentality is critical to succeed. The mastery has
 to start in your head. ([Click
 Here](The%20Serve%20and%20Volley%20Mentality.docx).)
 
-It\'s easy to spot players that rarely plays the serve and volley. After
+It's easy to spot players that rarely plays the serve and volley. After
 being passed once, they avoid the forecourt and approach the net again
 only to shake hands.
 
@@ -60,8 +59,7 @@ points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-summary/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-summary/media/image2.webp)
 
 **Great serve and volley players are passed and expect to be\--over and
 over.**
@@ -81,8 +79,8 @@ exact same shot at a later and more crucial
 stage.]{.mark}]{.underline}**
 
 **[[Your physical presence at the net is crucial to the success of a
-serve and volley game. You loom large in your opponent\'s psyche and
-impose your will. This takes a toll over time that isn\'t always
+serve and volley game. You loom large in your opponent's psyche and
+impose your will. This takes a toll over time that isn't always
 obvious.]{.mark}]{.underline}**
 
 **[[Then suddenly missed pass at a critical time has a huge
@@ -95,16 +93,15 @@ answer in serve and volley, and is usually a detriment. The harder you
 hit, the faster you need to move.
 
 Players try to bomb the serve not realizing that this takes away time
-and limits their ability to reach the net. It\'s a recipe for creating
+and limits their ability to reach the net. It's a recipe for creating
 difficult first volleys.
 
 At the world class level this can work at times. At the club and
-recreational level, it\'s almost always a disaster.
+recreational level, it's almost always a disaster.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-summary/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-summary/media/image3.webp)
 
 **Placement and spin create volley put aways.**
 
@@ -119,7 +116,7 @@ factor. By coming to the net, you shrink the court by nearly a half and
 radically increase your ability to angle the ball out of reach.
 
 The best way to describe serve and volley is as a series shot
-combinations. It\'s not one knockout punch but a series of jabs and
+combinations. It's not one knockout punch but a series of jabs and
 hooks in the form of intelligent serving, aggressive first volleys and
 effective finishing shots. Mixing the 4 serves described of this series
 (T serve, Wide Deep, 3/4, Body) is crucial to any serve and volley game.
@@ -142,8 +139,7 @@ your forward progress.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-and-volley-summary/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-and-volley-summary/media/image4.webp)
 
 **Closing tight to the net is ideal but works best at high levels.**
 
@@ -155,7 +151,7 @@ volley or push back for the overhead.
 **Post Serve Shots**
 
 **[[In serve and volley tennis, the serve is the only guaranteed shot.
-It\'s not always followed by a shoulder high volley for the put away.
+It's not always followed by a shoulder high volley for the put away.
 There are numerous tricky situations: the low volley, the half volley,
 the swinging volley, the deep overhead.]{.mark}]{.underline}**
 
@@ -182,8 +178,7 @@ successful serve and swing volley points. The reality is the swinging
 volley has been an effective shot on the tour for years.
 
 ![A person playing tennis Description automatically
-generated](media_the-serve-and-volley-summary/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-serve-and-volley-summary/media/image5.webp)
 
 **Backing up the serve with a swinging volley has been a part of tour
 tennis for decades.**
@@ -203,7 +198,7 @@ Part2.)
 
 And here is one final important point. I insist on warming up the volley
 in a match from one step inside the service line T. Why? I know if I can
-hit volleys from this position in the warmup I\'m comfortable hitting
+hit volleys from this position in the warmup I'm comfortable hitting
 volleys from anywhere.
 
 Look around your local club. How often do you see players practicing
@@ -212,19 +207,18 @@ into a match and never get that close again.
 
 **Conclusion**
 
-So, as we\'ve seen in this series, Serve and Volley is many things.
-It\'s an inspiration to pursue it. It\'s a mentality that must be forged
-through hard work, commitment and understanding. It\'s an effective
+So, as we've seen in this series, Serve and Volley is many things.
+It's an inspiration to pursue it. It's a mentality that must be forged
+through hard work, commitment and understanding. It's an effective
 tactical style that can be implemented in numerous situations.
 
-In my view it\'s an idea that has not vanished. It has simply been
+In my view it's an idea that has not vanished. It has simply been
 waiting for a group of tennis players and coaches to understand, embrace
 and resurrect it.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-serve-and-volley-summary/media/image6.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-serve-and-volley-summary/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

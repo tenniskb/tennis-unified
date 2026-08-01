@@ -8,8 +8,7 @@
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_the-strategy-zone-phase-2-hurt/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image1.webp)
 
 **Agassi demonstrates the \"Bradenton to Vegas\" component of
 \"Hurt.\"**
@@ -27,7 +26,7 @@ developing this dimension in your own tactical game.
 Lance Luciani and I have made \"Hurt\" one of the center pieces of the
 Strategy Zone training system, and for good reason. As we define it,
 \"Hurt\" means producing a feeling of physical and mental discomfort in
-the opponent. It\'s a key component in winning matches tactically, but
+the opponent. It's a key component in winning matches tactically, but
 equally important, winning matches psychologically.
 
 **[[\"Hurt\" is the second phase in the three step process in the
@@ -36,8 +35,7 @@ level.]{.underline}]{.mark}** **[[Again, those three phases: \"Control,
 Hurt, and Finish.\"]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-phase-2-hurt/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-phase-2-hurt/media/image2.webp)
 
 **Agassi, dominating the center of the court with change of direction.**
 
@@ -49,7 +47,7 @@ neutral zone or angle returns.
 
 **Hurt**
 
-Once you understand how to gain control of the opponent, it\'s time to
+Once you understand how to gain control of the opponent, it's time to
 move on. **[[You next learn to dominate them by using shot patterns or
 combinations. This intermediate phase is
 \"Hurt.\"]{.mark}]{.underline}**
@@ -58,27 +56,26 @@ combinations. This intermediate phase is
 ability to hit consistent winners.]{.underline}]{.mark}** **[[Andre did
 it by dominating the center of the court with change of
 direction.]{.underline}]{.mark}** **[[But too many players without a
-fraction of Andre Agassi\'s talent try to skip over the Hurt Phase and
+fraction of Andre Agassi's talent try to skip over the Hurt Phase and
 try to finish points too rapidly.]{.mark}]{.underline}**
 
 **[[Often that results in needless unforced errors, trying to hit
 winners at the wrong time, or from the wrong place on the
-court.]{.mark}]{.underline}** Let\'s see how this critical phase worked
+court.]{.mark}]{.underline}** Let's see how this critical phase worked
 not only for Andre and how you can develop it yourself.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-phase-2-hurt/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image3.webp)
 
 **Hurt generates short balls to finish points.**
 
-**[[When we talk about Hurt, it\'s important to emphasize that the
+**[[When we talk about Hurt, it's important to emphasize that the
 objective is to work a pattern. This can be a change of direction
 pattern or a wrong foot patterning.]{.underline}]{.mark}** **[[There are
 a great number of possible variations. The idea is to stretch the
-player, keep him, off balance so the opponent doesn\'t really know
-what\'s coming next, and open the court.]{.underline}]{.mark}**
+player, keep him, off balance so the opponent doesn't really know
+what's coming next, and open the court.]{.underline}]{.mark}**
 
 **[[If you execute these patterns well, two things are likely to happen.
 First you may win the point outright because the other player may make
@@ -90,7 +87,7 @@ called Finish.]{.underline}]{.mark}**
 
 **[[Andre loved to use his ability to change directions to run players
 side to side and corner to corner. He did this to set up winners. But
-sometimes he just preferred to just keep punishing his opponent\'s
+sometimes he just preferred to just keep punishing his opponent's
 corner to corner.]{.underline}]{.mark}** **This was one way Andre
 established his aura of psychological dominance.** **[[Believe me, it
 led to many players giving up and losing the will to continue to
@@ -98,8 +95,7 @@ fight.]{.underline}]{.mark}**
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_the-strategy-zone-phase-2-hurt/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image4.webp)
 
 **Andre Agassi demonstrates the two basic 1-1 Combinations.**
 
@@ -118,7 +114,7 @@ inside in, or the reverse.
 That may sound very basic, but below the highest levels of the game,
 most players cannot even hit the ball consistently crosscourt or down
 the line. Also, they are usually unaware that they lack this basic
-accuracy. The fact is it\'s more difficult than it might appear from
+accuracy. The fact is it's more difficult than it might appear from
 just watching Andre Agassi!
 
 **[[Players obsess about their technique and how to hit with more pace
@@ -132,8 +128,7 @@ improve by many levels.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-phase-2-hurt/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image5.webp)
 
 **Simple drills will test your current level of accuracy and help you
 develop 1-1 Combinations.**
@@ -162,8 +157,7 @@ a given opponent.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-phase-2-hurt/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image6.webp)
 
 **Use this drill to test and develop your skills with 2-1
 Combinations.**
@@ -196,8 +190,7 @@ courts.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-phase-2-hurt/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image7.webp)
 
 **The other basic variation in the 2-1 Combination patterns.**
 
@@ -228,15 +221,14 @@ more balls you can attack to finish points.]{.underline}]{.mark}**
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_the-strategy-zone-phase-2-hurt/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-phase-2-hurt/media/image8.webp)
 
 **Watch Agassi use the short angle to perfection in this 2-1
 Combination.**
 
 **Advanced Variations**
 
-**[[Let\'s look at two other more advanced variations on these basic
+**[[Let's look at two other more advanced variations on these basic
 combinations. Alternating the depth of shot creates an even greater
 challenge for the opponent. For example, in a 1-1 Combination, the first
 shot can be a short cross court angle, combined with a very deep, even
@@ -263,15 +255,14 @@ situations. The Strategy Zone is a great resource here because it
 outlines dozens of on court options to help you progress in your ability
 to create \"Hurt.\"
 
-Next: We\'ll move on to Stage 3: Finish! Stay Tuned.
+Next: We'll move on to Stage 3: Finish! Stay Tuned.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                        Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-phase-2-hurt/media/image9.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                  Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-phase-2-hurt/media/image9.jpeg)                                                                                                                                                  Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                  for over 30 years into the world\'s premier
+                                                                                                                                                                                  for over 30 years into the world's premier
                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                   collaborated with many of the leading innovators
@@ -279,7 +270,7 @@ Next: We\'ll move on to Stage 3: Finish! Stay Tuned.
                                                                                                                                                                                   concepts into training programs at the Academy.\
                                                                                                                                                                                   \
                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                  Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                  Zone, is one of the world's leading analysts of
                                                                                                                                                                                   statistics and strategy, and the Head of
                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                   Academies. Lance was a pioneer in the video
@@ -295,11 +286,10 @@ Next: We\'ll move on to Stage 3: Finish! Stay Tuned.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                        Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-phase-2-hurt/media/image9.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                  Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-phase-2-hurt/media/image9.jpeg)                                                                                                                                                  Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                   Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                   academy concept and has watched his vision grow
-                                                                                                                                                                                  for over 30 years into the world\'s premier
+                                                                                                                                                                                  for over 30 years into the world's premier
                                                                                                                                                                                   tennis training ground at IMG Bollettieri in
                                                                                                                                                                                   Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                   collaborated with many of the leading innovators
@@ -307,7 +297,7 @@ Next: We\'ll move on to Stage 3: Finish! Stay Tuned.
                                                                                                                                                                                   concepts into training programs at the Academy.\
                                                                                                                                                                                   \
                                                                                                                                                                                   Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                  Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                  Zone, is one of the world's leading analysts of
                                                                                                                                                                                   statistics and strategy, and the Head of
                                                                                                                                                                                   Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                   Academies. Lance was a pioneer in the video

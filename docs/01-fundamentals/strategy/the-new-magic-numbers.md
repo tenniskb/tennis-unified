@@ -2,13 +2,12 @@
 
 ### The New Magic Numbers
 
-### Craig O\'Shannessy
+### Craig O'Shannessy
 
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-new-magic-numbers/media/image1.webp)
 
 **What percentage of overall points would make you Novak Djokovic?**
 
@@ -25,7 +24,7 @@ first introducing some different statistics.
 These are the new magic numbers. They form a basis for changing the way
 you think about your match play and especially how you practice.
 
-In subsequent articles I\'ll relate these insights directly to the
+In subsequent articles I'll relate these insights directly to the
 development process for all levels. I believe that this new perspective
 should 100% dictate what happens on the practice court.
 
@@ -47,8 +46,7 @@ played a total of 192 points. Federer won 145. Novak won 147.
 
 ![A person standing on a tennis court Description automatically
 generated with medium
-confidence](media_the-new-magic-numbers/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-new-magic-numbers/media/image2.webp)
 
 **What is the difference in winning percentage between being number 1 in
 the world and number 20?**
@@ -58,12 +56,12 @@ your points do you have to win to be number one in the world like Novak?
 What percentage of total points played does Novak Djokovic win on
 average?
 
-I\'ve asked that question to many knowledgeable coaches and sometimes
+I've asked that question to many knowledgeable coaches and sometimes
 receive answers of two thirds or higher. But the real number? 55%.
 Slightly more than half.
 
 We take 50/50, tip it just a little and you are number one in the world.
-That's it. That\'s Novak. And it was Rafael Nadal before him and Roger
+That's it. That's Novak. And it was Rafael Nadal before him and Roger
 Federer before that.
 
 How does that compare to number two? Andy Murray has won 52% of his
@@ -75,9 +73,9 @@ the answer is simple. Go out tomorrow and win 55% of your points in your
 next match, and keep doing that at every level for the rest of your
 career, and if you do, eventually you will be number one in the world.
 
-And for the women it\'s exactly the same. Throughout her career Serena
+And for the women it's exactly the same. Throughout her career Serena
 has won 55% of her points. Petra Kivitova has won 52% and she is number
-12. Sloane Stephens has won 49% and that makes her number 19. There\'s
+12. Sloane Stephens has won 49% and that makes her number 19. There's
 the percentage difference between being the greatest player of all time
 and being on the margins of the top ten.
 
@@ -89,8 +87,7 @@ matches.
 
 ![A person standing on a tennis court Description automatically
 generated with medium
-confidence](media_the-new-magic-numbers/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-new-magic-numbers/media/image2.webp)
 
 **How long are rallies in pro tennis\--really?**
 
@@ -113,10 +110,10 @@ Open in 2014 I studied over 26,000 total points. Only 24 points in the
 whole tournament exceeded 27 shots. That is less than a tenth of one
 percent.
 
-Sound insane? Let\'s look at the Australian Open final in 2015, the
+Sound insane? Let's look at the Australian Open final in 2015, the
 grueling baseline war in which Novak Djokovic defeated Andy Murray in 4
 sets. The average point length was 6.8 hits. And that was about one hit
-longer than the average for all the men\'s matches in the tournament,
+longer than the average for all the men's matches in the tournament,
 with the average at 5.5 hits per point.
 
 In the Djokovic Murray match, about three fourths of the points where
@@ -132,15 +129,14 @@ serve and a return and one or two more shots. More on this in future
 articles. \\
 
 ![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-new-magic-numbers/media/image3.webp)
 
 **What is the real ratio of winners to errors?**
 
 **Errors**
 
 The third magic number is the percentage of errors. In 2015 at the U.S.
-Open 64% of all points in the men\'s draw were errors. For the women, it
+Open 64% of all points in the men's draw were errors. For the women, it
 was 67%.
 
 The simple fact is that only about one third of all points in pro tennis
@@ -151,10 +147,10 @@ But what is truly stunning is that we see the exact same magic
 percentage at all levels of the game, in college tennis, and in junior
 tennis. Two third errors and one third winners.
 
-Most junior coaches would say that can\'t possibly be right. But there
+Most junior coaches would say that can't possibly be right. But there
 were 30,000 college and junior points in this data set. College errors
 were 67%. The girls 14's nationals, U.S. and Canada, was 67%. The girls
-12's was 67%. Amazingly, it\'s all the same.
+12's was 67%. Amazingly, it's all the same.
 
 **Approaching the Net**
 
@@ -162,34 +158,33 @@ The fourth magic number has to do with points won approaching the net.
 Conventional wisdom says you cannot win at the net in the pro game. The
 speed and the spin on the passing shots are too formidable.
 
-And it\'s true the number of approaches is limited to a small percentage
+And it's true the number of approaches is limited to a small percentage
 of points. But is that because those approaches are ineffective?
 
 ![A person playing tennis Description automatically
-generated](media_the-new-magic-numbers/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-new-magic-numbers/media/image4.webp)
 
 **Is approaching the net really a losing strategy in junior tennis?**
 
 Again, the numbers say something entirely different. What if I told you
 that you could win two thirds of all points by going in?
 
-Let\'s look at the pros first. The percentage of points won on
+Let's look at the pros first. The percentage of points won on
 approaches at the U.S. Open in 2015 was 65%.
 
 And another amazing statistic, on overall approaches to the backhand the
-winning percentage is even higher\--over 70%. We\'ll have more to say
+winning percentage is even higher\--over 70%. We'll have more to say
 about that in this series.
 
 As with the other statistics, the shocking thing is that they apply in
 college and junior tennis as well. I know this from studying over 80,000
 individual points.
 
-If we look at junior boys from the 12\'s all the way up through men\'s
+If we look at junior boys from the 12's all the way up through men's
 college tennis, the percentage of points won at the net is almost
 exactly 60% at every level.
 
-And the girls? Virtually identical. Even in the 12\'s, girls still win
+And the girls? Virtually identical. Even in the 12's, girls still win
 56% of their points when they approach. By the time they reach college,
 the percentage is 63%, even higher than male college players.
 
@@ -199,34 +194,32 @@ In general, our understanding of how points are really won at all levels
 is not based on reality. These fundamental misunderstandings lead to
 misguided play, and especially, to misguided practice.
 
-The practice court is broken! So, let\'s fix it. In the upcoming
-articles in this series, we\'ll look at how to re-conceive your
+The practice court is broken! So, let's fix it. In the upcoming
+articles in this series, we'll look at how to re-conceive your
 understanding of the game, how you practice, and especially, how to
 apply all this to win matches.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with low                                                                         | Craig O\'Shannessy is widely recognized as  |
-| confidence](media_the-new-magic-numbers/media/image5.jpg){width="1.875in" | the world leader in analyzing tennis        |
-| height="2.3333333333333335in"}                                                                                                                         | statistics, tennis strategy, and applying   |
-|                                                                                                                                                        | his insights in coaching. His research has  |
-|                                                                                                                                                        | uncovered the real magic numbers in winning |
-|                                                                                                                                                        | tennis across all levels of the game. He    |
-|                                                                                                                                                        | writes for the ATP Tour website and the New |
-|                                                                                                                                                        | York Times among others elite publications. |
-|                                                                                                                                                        |                                             |
-|                                                                                                                                                        | He has coached on the tour for 20 years     |
-|                                                                                                                                                        | working with players including Kevin        |
-|                                                                                                                                                        | Anderson, Amer Delic, and Rajeev Ram. His   |
-|                                                                                                                                                        | website Brain Game Tennis offers detailed   |
-|                                                                                                                                                        | analysis and training programs based on his |
-|                                                                                                                                                        | research that have helped thousands of      |
-|                                                                                                                                                        | players around the world.                   |
-+========================================================================================================================================================+=============================================+
+| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
+| --- | --- |
+| confidence](media_the-new-magic-numbers/media/image5.jpg) | statistics, tennis strategy, and applying |
+|  | his insights in coaching. His research has |
+|  | uncovered the real magic numbers in winning |
+|  | tennis across all levels of the game. He |
+|  | writes for the ATP Tour website and the New |
+|  | York Times among others elite publications. |
+|  |  |
+|  | He has coached on the tour for 20 years |
+|  | working with players including Kevin |
+|  | Anderson, Amer Delic, and Rajeev Ram. His |
+|  | website Brain Game Tennis offers detailed |
+|  | analysis and training programs based on his |
+|  | research that have helped thousands of |
+|  | players around the world. |
+
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Diagram Description automatically generated with medium                                                                                                             [Click
-  confidence](media_the-new-magic-numbers/media/image6.jpg){width="3.4722222222222223in"   Here](http://www.braingametennis.com/)
-  height="1.7916666666666667in"}                                                                                                                                        to visit Craig\'s site and check out his
+  confidence](media_the-new-magic-numbers/media/image6.jpg)                                                                                                                                        to visit Craig's site and check out his
                                                                                                                                                                         amazing training products!
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 

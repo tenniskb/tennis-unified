@@ -48,8 +48,7 @@ confront us in the macro cosmic drama of life.
 
 ![A person wearing a baseball hat Description automatically generated
 with low
-confidence](media_the-mind-game/media/image1.png){width="1.84375in"
-height="2.4784722222222224in"} Ean Meyer, a professional tennis coach
+confidence](media_the-mind-game/media/image1.png) Ean Meyer, a professional tennis coach
 since 1987. Over the years, I've worked with every level of player from
 beginner to professional, coaching tennis for over 25 years and have
 worked with many different levels of juniors and adults. In this time I

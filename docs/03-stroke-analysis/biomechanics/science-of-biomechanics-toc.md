@@ -6,8 +6,7 @@
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_science-of-biomechanics-toc/media/image1.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_science-of-biomechanics-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -20,7 +19,7 @@ make categorical statements about the technique of the pros as if they
 truly understood the science behind every aspect of these tremendously
 complex motions.
 
-The problem is that \"science\" doesn\'t yet exist. We have only a
+The problem is that \"science\" doesn't yet exist. We have only a
 handful studies, and the number of studies of the strokes of great
 players are fewer still. So all those things that pros preach with such
 absolute certainly are at best informed opinion or speculation.
@@ -29,14 +28,14 @@ The science of biomechanics for tennis is in its infancy, but there is a
 growing body of work, and this work is now beginning to have an impact
 in the teaching community, and especially in high performance coaching.
 Eventually this work will turn what we believe and how we teach upside
-down, probably in ways we won\'t even anticipate.
+down, probably in ways we won't even anticipate.
 
-In this section, we\'ll keep you updated on one of the most exciting new
-frontiers in tennis. You\'ll find the work of pioneers in the field,
+In this section, we'll keep you updated on one of the most exciting new
+frontiers in tennis. You'll find the work of pioneers in the field,
 such as Bruce Elliot and Duane Knudson, as well as emerging new voices
 like Brian Gordon and Greg Ryan.
 
-We\'ll also be sharing some of the quantitative work Advanced Tennis
+We'll also be sharing some of the quantitative work Advanced Tennis
 Research is doing that we believe will lead to the development of
 comprehensive quantitative data on the pro game itself. Over the next
 decade or two we are going to see an entirely new learning paradigm for
@@ -78,7 +77,7 @@ Forehand](The%204%20Pillars%20of%20the%20ATP%20Type%20III%20Swing%20.docx)
 [Have Tennis Coaches Failed Female
 Athletes?](Have%20Tennis%20Coaches%20Failed%20female%20athletes.docx)
 
-[Women\'s Tennis and the ATP
+[Women's Tennis and the ATP
 Forehand](Women's%20Tennis%20and%20the%20ATP%20Forehand.docx)
 
 [Quantifying Shot Outputs](Quantifying%20Shot%20Outputs.docx)

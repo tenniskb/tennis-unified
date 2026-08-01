@@ -31,8 +31,8 @@ thuật hoàn chỉnh có thể sử dụng trong thi đấu thực tế. Mỗi 
 dựng trên nền tảng của chương trước, tạo thành một chuỗi hiểu biết liên
 kết chặt chẽ.
 
-Điều đặc biệt của phương pháp trong cuốn sách này là \'Hệ thống cue
-đầu\' --- một bộ tín hiệu tư duy đơn giản giúp người chơi chuyển đổi tức
+Điều đặc biệt của phương pháp trong cuốn sách này là 'Hệ thống cue
+đầu' --- một bộ tín hiệu tư duy đơn giản giúp người chơi chuyển đổi tức
 thì giữa các loại giao bóng mà không cần suy nghĩ phức tạp trong lúc thi
 đấu. Khi đã thành thạo, bạn sẽ không còn phục vụ ngẫu nhiên --- bạn đang
 điều phối cả điểm đấu từ cú đánh đầu tiên.
@@ -62,7 +62,7 @@ chuyển như thế nào trong suốt quá trình thực hiện cú giao bóng.
 
 **Đầu Không Chỉ Là Nơi Đặt Mắt**
 
-Trong sinh khoánh học thể thao, đầu đóng vai trò như một \'điểm neo\'
+Trong sinh khoánh học thể thao, đầu đóng vai trò như một 'điểm neo'
 cho toàn bộ cơ thể. Khi đầu ổn định và đúng vị trí, các bộ phận còn lại
 của cơ thể có thể xoay, vươn và bung ra với hiệu quả tối đa. Khi đầu di
 chuyển sai --- đặc biệt là sụp xuống quá sớm --- toàn bộ chuỗi động tác
@@ -73,7 +73,7 @@ Hãy nghĩ về một cái đòn bẩy. Điểm tựa quyết định hiệu qu�
 
 **Tư Thế Đầu Nghiêng --- Định Nghĩa**
 
-\'Tư thế đầu nghiêng\' (head tilted position) đề cập đến cách đầu bạn
+'Tư thế đầu nghiêng' (head tilted position) đề cập đến cách đầu bạn
 được định vị khi bạn đang đi vào tư thế trophy và bắt đầu cú đánh lên
 trên. Trong giao bóng chuẩn, đầu của bạn:
 
@@ -103,9 +103,9 @@ vật thể chuyển động tốt hơn khi đầu ổn định.
 
 **3. Thúc Đẩy Tư Thế Vai Đúng**
 
-Vị trí đầu tự nhiên hỗ trợ \'vòng cung\' ở phần thân trên của bạn: vai
+Vị trí đầu tự nhiên hỗ trợ 'vòng cung' ở phần thân trên của bạn: vai
 phía trước thấp xuống, vai đánh bóng lên cao, cột sống hơi duỗi ra. Đây
-chính là điều tạo ra \'lò xo nạp đầy\' mạnh mẽ cho cú giao bóng.
+chính là điều tạo ra 'lò xo nạp đầy' mạnh mẽ cho cú giao bóng.
 
 **4. Ngăn Việc Sụp Đầu Sớm**
 
@@ -126,7 +126,7 @@ Hoặc:
 **Lỗi Phổ Biến Nhất**
 
 Nhiều người chơi tung bóng rồi ngay lập tức sụp đầu về phía trước để
-\'xem chỗ đánh\'. Điều này thường phá hủy cả sức mạnh lẫn độ chính xác
+'xem chỗ đánh'. Điều này thường phá hủy cả sức mạnh lẫn độ chính xác
 vì phần thân trên bị sụp xuống quá sớm.
 
 **Hình Ảnh Trực Quan Đơn Giản**
@@ -174,7 +174,7 @@ tĩnh, không vội vã về phía trước.
 > ***\"Để quả bóng bay lên, đừng chạy theo nó.\"***
 
 Đây là giai đoạn nhiều người chơi mắc lỗi đầu tiên. Họ tung bóng và ngay
-lập tức bắt đầu di chuyển về phía trước để \'chuẩn bị đánh\', trong khi
+lập tức bắt đầu di chuyển về phía trước để 'chuẩn bị đánh', trong khi
 thực ra họ cần duy trì vị trí yên lặng và để bóng bay lên đến đỉnh quỹ
 đạo của nó.
 
@@ -191,20 +191,20 @@ gồm:
 
 - Đầu vẫn ngả lên trên và ra sau, mắt khóa chặt vào bóng
 
-Nếu đầu bạn sụp xuống ở giai đoạn này, bạn mất toàn bộ \'lò xo\'. Năng
+Nếu đầu bạn sụp xuống ở giai đoạn này, bạn mất toàn bộ 'lò xo'. Năng
 lượng được tích lũy không thể giải phóng hiệu quả.
 
 **Giai Đoạn 3: Đẩy Chân + Vươn Lên**
 
 Khi bạn đẩy lên: chân đẩy, ngực mở ra, cột sống duỗi, đầu là bộ phận
-\'cuối cùng di chuyển\'. Đây là nơi sức mạnh đến --- không phải từ cánh
+'cuối cùng di chuyển'. Đây là nơi sức mạnh đến --- không phải từ cánh
 tay.
 
 > ***\"Sức mạnh đến từ chân, đi qua cơ thể, và được giải phóng qua cánh
 > tay.\"***
 
 Một trong những hiểu lầm phổ biến nhất về giao bóng là cho rằng sức mạnh
-đến từ cánh tay. Thực tế là cánh tay chỉ là \'roi\' cuối cùng trong một
+đến từ cánh tay. Thực tế là cánh tay chỉ là 'roi' cuối cùng trong một
 chuỗi truyền lực từ dưới lên. Chân tạo ra lực, hông xoay chuyển lực,
 thân người khuếch đại lực, và cánh tay giải phóng lực.
 
@@ -213,7 +213,7 @@ thân người khuếch đại lực, và cánh tay giải phóng lực.
 Tại điểm tiếp xúc: đầu vẫn đủ cao để nhìn thấy bóng, nhưng không chủ
 động nâng lên hay lao về phía trước.
 
-> ***\"Những người chơi giỏi nhất trông như \'đóng băng\' ở phần đầu
+> ***\"Những người chơi giỏi nhất trông như 'đóng băng' ở phần đầu
 > trong khi mọi thứ khác đang quất vút lên.\"***
 
 Đây là quan sát tinh tế nhưng cực kỳ quan trọng. Khi bạn xem video
@@ -227,20 +227,20 @@ Sau khi tiếp xúc bóng: đầu cuối cùng mới đi theo hướng đánh xu
 thể tự nhiên di chuyển về phía trước vào sân.
 
 Giai đoạn này thường bị xem nhẹ, nhưng nó quan trọng vì hai lý do: thứ
-nhất, nó là phần \'hoàn thành\' cú đánh đảm bảo bạn đã thực sự đánh qua
+nhất, nó là phần 'hoàn thành' cú đánh đảm bảo bạn đã thực sự đánh qua
 bóng chứ không dừng lại tại nó; thứ hai, nó đưa bạn vào vị trí sẵn sàng
 cho cú đánh tiếp theo.
 
 **Hiểu Chuỗi Phản Ứng Như Một Tổng Thể**
 
 Khi bạn nhìn cả năm giai đoạn cùng nhau, bạn thấy một quy luật nhất
-quán: đầu luôn là \'bộ phận cuối cùng di chuyển\'. Tất cả sức mạnh và
+quán: đầu luôn là 'bộ phận cuối cùng di chuyển'. Tất cả sức mạnh và
 tốc độ được tạo ra từ phía dưới --- từ chân, hông, thân người --- truyền
 lên trên và ra ngoài qua cánh tay và vợt. Đầu đóng vai trò là điểm ổn
 định cho phép tất cả quá trình này diễn ra hiệu quả.
 
-Khi bạn luyện tập giao bóng, hãy nhớ: bạn không luyện tập \'một cú
-đánh\' mà là luyện tập \'một chuỗi năm giai đoạn\'. Mỗi giai đoạn có vai
+Khi bạn luyện tập giao bóng, hãy nhớ: bạn không luyện tập 'một cú
+đánh' mà là luyện tập 'một chuỗi năm giai đoạn'. Mỗi giai đoạn có vai
 trò riêng và phụ thuộc vào giai đoạn trước đó.
 
 **Cue Đơn Giản Để Dùng Trên Sân**
@@ -284,7 +284,7 @@ Giao bóng flat là cú giao bóng mạnh nhất về tốc độ. Bóng bay th�
 
 - Điểm tiếp xúc ở phía trước nhiều hơn
 
-- Bạn \'đánh xuyên qua\' quả bóng
+- Bạn 'đánh xuyên qua' quả bóng
 
 **Kết quả:**
 
@@ -307,7 +307,7 @@ vũ khí chiến thuật xuất sắc để kéo đối thủ ra ngoài đườn
 
 - Cằm mở ra một chút để tạo góc nhìn bên
 
-- Mắt vẫn theo dõi bóng nhưng hơi \'từ bên cạnh\'
+- Mắt vẫn theo dõi bóng nhưng hơi 'từ bên cạnh'
 
 **Tác động lên cơ thể:**
 
@@ -315,7 +315,7 @@ vũ khí chiến thuật xuất sắc để kéo đối thủ ra ngoài đườn
 
 - Khuyến khích đường đánh từ bên sang bên kia
 
-- Cho phép vợt di chuyển \'vòng quanh\' bóng
+- Cho phép vợt di chuyển 'vòng quanh' bóng
 
 **Kết quả:**
 
@@ -338,7 +338,7 @@ nên thực sự quan trọng. Bóng có xoáy trên nặng, nẩy cao và về 
 
 - Mắt theo dõi bóng cao phía trên điểm tiếp xúc
 
-- Gần như như thể bạn đang \'nhìn phía trên nó\'
+- Gần như như thể bạn đang 'nhìn phía trên nó'
 
 **Tác động lên cơ thể:**
 
@@ -494,7 +494,7 @@ không cần suy nghĩ phức tạp.
 
 **Bí Quyết Thực Sự Của Hệ Thống**
 
-Đừng nghĩ \'xoáy trước\'. Hãy nghĩ:
+Đừng nghĩ 'xoáy trước'. Hãy nghĩ:
 
 > ***\"Vị trí đầu → đường đánh → xoáy tự động xảy ra.\"***
 
@@ -535,7 +535,7 @@ Sửa đầu → mọi thứ khác tự động được điều chỉnh.
 
 Giao bóng flat là cú giao bóng đơn giản nhất về mặt xoáy --- nhưng thực
 hiện tốt nó đòi hỏi sự chính xác cao về thời điểm, vị trí và cơ học cơ
-thể. Đây là cú giao bóng \'vũ khí đầu tiên\' --- được thiết kế để giành
+thể. Đây là cú giao bóng 'vũ khí đầu tiên' --- được thiết kế để giành
 điểm nhanh hoặc tạo ra sức ép ngay lập tức trên đối thủ.
 
 **Cơ Học Của Giao Bóng Flat**
@@ -583,7 +583,7 @@ lực.
 
 **Cue Đầu Trong Thực Tế**
 
-Khi thực hiện cue \'Look through\', điều xảy ra với cơ thể bạn là rất cụ
+Khi thực hiện cue 'Look through', điều xảy ra với cơ thể bạn là rất cụ
 thể: đầu không nghiêng sang bên, không có tư thế cong vòng cực đoan của
 thân trên. Thay vào đó, bạn tạo ra đường thẳng tương đối từ đầu xuống
 vai xuống cánh tay, hướng về phía điểm tiếp xúc.
@@ -601,7 +601,7 @@ Flat serve hiệu quả nhất khi nhắm vào:
 **Lỗi Phổ Biến Trong Flat Serve**
 
 Lỗi 1: Đầu sụp xuống trước khi tiếp xúc --- mất độ cao và lực. Sửa: Giữ
-cue \'look through\' cho đến sau khi tiếp xúc.
+cue 'look through' cho đến sau khi tiếp xúc.
 
 Lỗi 2: Tung bóng quá cao --- mất kiểm soát thời điểm. Sửa: Tung bóng chỉ
 cao hơn điểm tiếp xúc 15-20cm.
@@ -657,16 +657,16 @@ So với flat serve, bóng tung cho slice serve thường:
 Tuy nhiên, cách tung bóng của từng người chơi khác nhau --- điều quan
 trọng là sự nhất quán, không phải vị trí tuyệt đối.
 
-**Cue Đầu \'See The Side\' Trong Thực Tế**
+**Cue Đầu 'See The Side' Trong Thực Tế**
 
-Khi thực hiện cue \'see the side\', điều thực sự xảy ra là: đầu hơi
+Khi thực hiện cue 'see the side', điều thực sự xảy ra là: đầu hơi
 nghiêng về phía bên tay tung bóng --- không phải nghiêng nhiều, chỉ
-khoảng 10-15 độ. Cằm \'mở\' ra một chút sang bên. Mắt theo dõi bóng từ
+khoảng 10-15 độ. Cằm 'mở' ra một chút sang bên. Mắt theo dõi bóng từ
 một góc nhìn hơi chéo thay vì thẳng lên.
 
 Sự thay đổi tinh tế này trong vị trí đầu tự nhiên kéo theo vai mở ra bên
 --- và đây là tất cả cơ học bạn cần để slice serve hoạt động. Không cần
-thay đổi gì ở cánh tay, không cần cố ý \'đi vòng quanh bóng\'. Cue đầu
+thay đổi gì ở cánh tay, không cần cố ý 'đi vòng quanh bóng'. Cue đầu
 sẽ tự động tạo ra đường đánh phù hợp.
 
 **Chiến Thuật Slice Serve Ở Deuce Court**
@@ -734,9 +734,9 @@ sau và trên của bóng.
 Vị trí bóng tung này buộc cơ thể phải vòng cung về phía sau và đánh lên
 --- đây là chính xác những gì bạn cần để tạo ra xoáy trên.
 
-**Cue Đầu \'Look Up\' Và Tại Sao Nó Khác Biệt**
+**Cue Đầu 'Look Up' Và Tại Sao Nó Khác Biệt**
 
-Cue \'look up\' cho kick serve là cue quan trọng nhất và có tác động
+Cue 'look up' cho kick serve là cue quan trọng nhất và có tác động
 mạnh nhất đến kỹ thuật. Khi đầu bạn ở lại ngả về sau lâu hơn và mắt theo
 dõi bóng cao phía trên điểm tiếp xúc dự kiến:
 
@@ -747,7 +747,7 @@ dõi bóng cao phía trên điểm tiếp xúc dự kiến:
 
 - Đường đánh tự nhiên đi lên và ra trước --- tạo xoáy trên
 
-> ***\"Người chơi không thực sự \'tạo ra\' kick serve bằng kỹ thuật cánh
+> ***\"Người chơi không thực sự 'tạo ra' kick serve bằng kỹ thuật cánh
 > tay --- họ tạo ra nó bằng cách giữ đầu đúng vị trí.\"***
 
 **Vòng Cung Cột Sống --- Yếu Tố Không Thể Thiếu**
@@ -770,7 +770,7 @@ ngay lập tức; và nhất quán dưới áp lực.
 
 Kick serve đáp ứng cả ba yêu cầu này. Xoáy trên cao đảm bảo bóng đi qua
 lưới với biên độ an toàn lớn. Độ nẩy cao tạo khó khăn cho người trả
-bóng. Và cue \'look up\' giúp duy trì kỹ thuật ngay cả khi áp lực tăng
+bóng. Và cue 'look up' giúp duy trì kỹ thuật ngay cả khi áp lực tăng
 cao.
 
 **Kick Serve Như Vũ Khí Bất Ngờ Ở Giao Bóng Đầu**
@@ -804,7 +804,7 @@ thường biểu hiện qua việc: đầu sụp xuống sớm hơn, xoay thân 
 
 **Giai Đoạn 1: Giai Đoạn Đầu Trận (0-0, Đang Ổn Định)**
 
-Lựa chọn mặc định: flat hoặc slice an toàn. Cue đầu: \'Look through\'.
+Lựa chọn mặc định: flat hoặc slice an toàn. Cue đầu: 'Look through'.
 
 Tại sao: Bạn muốn xây dựng nhịp điệu, không phải mạo hiểm. Đầu ổn định =
 thời điểm sạch = xây dựng tự tin.
@@ -816,7 +816,7 @@ thời điểm sạch = xây dựng tự tin.
 **Giai Đoạn 2: 30-30 / Điểm Deuce**
 
 Lựa chọn mặc định: slice serve (kết hợp kiểm soát và biên độ cao nhất).
-Cue đầu: \'See the side\'.
+Cue đầu: 'See the side'.
 
 Tại sao: Hơi nghiêng đầu tạo ra biên độ an toàn tự nhiên. Tạo góc mà
 không cần tốc độ tối đa. Kéo đối thủ off court dưới áp lực.
@@ -824,7 +824,7 @@ không cần tốc độ tối đa. Kéo đối thủ off court dưới áp lự
 **Giai Đoạn 3: Break Point / Điểm Ad Quan Trọng**
 
 Đây là nơi nhiều người chơi sụp đổ tâm lý. Lựa chọn mặc định: kick serve
-(vũ khí reset an toàn). Cue đầu: \'Look up\'.
+(vũ khí reset an toàn). Cue đầu: 'Look up'.
 
 Tại sao:
 
@@ -839,7 +839,7 @@ Tại sao:
 **Giao Bóng Thứ Hai --- Luôn Là Áp Lực**
 
 Lựa chọn mặc định: kick serve (nền tảng không thể thương lượng). Cue
-đầu: \'Look up and finish up\'.
+đầu: 'Look up and finish up'.
 
 Tại sao:
 
@@ -849,7 +849,7 @@ Tại sao:
 
 - Tạo biên độ qua lưới
 
-> ***\"Đừng bao giờ \'đặt\' giao bóng thứ hai. Hãy định hình nó theo
+> ***\"Đừng bao giờ 'đặt' giao bóng thứ hai. Hãy định hình nó theo
 > hướng lên trên.\"***
 
 **Nguyên Tắc Áp Lực Cốt Lõi**
@@ -896,13 +896,13 @@ Mở bên forehand hoặc giành điểm free từ lỗi trả bóng của đố
 
 **Các đòn chính:**
 
-**A) Flat serve --- \'Look Through\'**
+**A) Flat serve --- 'Look Through'**
 
 - Mục tiêu: vào người hoặc T serve
 
 - Mục đích: chặn người trả bóng
 
-**B) Slice serve --- \'See The Side\'**
+**B) Slice serve --- 'See The Side'**
 
 - Mục tiêu: wide (kéo họ ra khỏi sân)
 
@@ -922,11 +922,11 @@ Dùng góc và xoáy để kiểm soát không gian.
 
 **Các đòn chính:**
 
-**A) Slice serve (vũ khí chính) --- \'See The Side\'**
+**A) Slice serve (vũ khí chính) --- 'See The Side'**
 
 - Mục tiêu: wide đến góc backhand
 
-**B) Kick serve (phương án an toàn) --- \'Look Up\'**
+**B) Kick serve (phương án an toàn) --- 'Look Up'**
 
 - Đặc biệt ở giao bóng thứ hai hoặc áp lực
 
@@ -985,19 +985,19 @@ xảy ra, bạn chủ động điều phối điểm từ trước khi giao bón
 
 **Logic Cốt Lõi**
 
-Hầu hết người chơi nghĩ: \'Giao bóng tốt = điểm free\'. Người chơi nâng
-cao nghĩ: \'Giao bóng tốt = hình dạng return có thể đoán trước\'. Cue
+Hầu hết người chơi nghĩ: 'Giao bóng tốt = điểm free'. Người chơi nâng
+cao nghĩ: 'Giao bóng tốt = hình dạng return có thể đoán trước'. Cue
 đầu của bạn kiểm soát sự đoán trước đó.
 
 **Ba Kịch Bản Cơ Bản**
 
-**Kịch Bản 1 --- Flat Pattern \'Look Through\'**
+**Kịch Bản 1 --- Flat Pattern 'Look Through'**
 
 **Mục tiêu: First strike / kết thúc nhanh**
 
 - Ý tưởng giao bóng: body serve hoặc T serve, nhanh, trực tiếp
 
-- Cue đầu: \'Look through\'
+- Cue đầu: 'Look through'
 
 Sau giao bóng (Shot 2 → Shot 3):
 
@@ -1007,13 +1007,13 @@ Sau giao bóng (Shot 2 → Shot 3):
 
 > ***\"Tôi đang cố gắng kết thúc nhanh.\"***
 
-**Kịch Bản 2 --- Slice Pattern \'See The Side\'**
+**Kịch Bản 2 --- Slice Pattern 'See The Side'**
 
 **Mục tiêu: Open court + kiểm soát hình học**
 
 - Ý tưởng giao bóng: slice wide (đặc biệt là góc deuce/ad)
 
-- Cue đầu: \'See the side\'
+- Cue đầu: 'See the side'
 
 Sau giao bóng:
 
@@ -1025,14 +1025,14 @@ Sau giao bóng:
 
 > ***\"Tôi đang di chuyển họ, không áp đảo họ.\"***
 
-**Kịch Bản 3 --- Kick Pattern \'Look Up\'**
+**Kịch Bản 3 --- Kick Pattern 'Look Up'**
 
 **Mục tiêu: Vô hiệu hóa + lấy lại kiểm soát**
 
 - Ý tưởng giao bóng: kick nẩy cao (second serve an toàn HOẶC khởi đầu
   rally)
 
-- Cue đầu: \'Look up\'
+- Cue đầu: 'Look up'
 
 Sau giao bóng:
 
@@ -1092,7 +1092,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 **Ba Loại Trả Giao Bóng**
 
-**1. Block Return (Phòng Thủ) --- \'Stay Still\'**
+**1. Block Return (Phòng Thủ) --- 'Stay Still'**
 
 **Khi nào dùng:**
 
@@ -1102,7 +1102,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 - Bạn chưa sẵn sàng tấn công
 
-**Cue đầu: \'Stay still\' (Đứng yên)**
+**Cue đầu: 'Stay still' (Đứng yên)**
 
 **Thực hiện return:**
 
@@ -1118,7 +1118,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 > ***\"Absorb → reset → build.\"***
 
-**2. Neutral Return (Quan Trọng Nhất) --- \'See Early\'**
+**2. Neutral Return (Quan Trọng Nhất) --- 'See Early'**
 
 **Khi nào dùng:**
 
@@ -1126,7 +1126,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 - Tình huống rally cân bằng
 
-**Cue đầu: \'See early\' (Nhìn sớm)**
+**Cue đầu: 'See early' (Nhìn sớm)**
 
 **Thực hiện return:**
 
@@ -1142,7 +1142,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 > ***\"Kiểm soát độ sâu → chờ lỗi.\"***
 
-**3. Attack Return (Tấn Công) --- \'Step In\'**
+**3. Attack Return (Tấn Công) --- 'Step In'**
 
 **Khi nào dùng:**
 
@@ -1152,7 +1152,7 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 - Server dễ đoán
 
-**Cue đầu: \'Step in\' (Bước vào)**
+**Cue đầu: 'Step in' (Bước vào)**
 
 **Thực hiện return:**
 
@@ -1179,8 +1179,8 @@ bóng: cue đầu → ý định → hai cú đánh đầu tiên.
 
 **Thay Đổi Tư Duy Quyết Định Tất Cả**
 
-Hầu hết người chơi nghĩ: \'Tôi phải đánh return tốt\'. Bạn nghĩ: \'Tôi
-phải chọn đúng loại return\'. Điều đó loại bỏ hoàn toàn sự hoảng loạn.
+Hầu hết người chơi nghĩ: 'Tôi phải đánh return tốt'. Bạn nghĩ: 'Tôi
+phải chọn đúng loại return'. Điều đó loại bỏ hoàn toàn sự hoảng loạn.
 
 **Luồng Điểm Kết Hợp**
 
@@ -1225,7 +1225,7 @@ tất cả rally system bắt đầu từ crosscourt stability.
 **Giai Đoạn 1: Thiết Lập**
 
 Mục tiêu: Đưa bóng sâu crosscourt liên tục. Không tấn công sớm. Đây là
-giai đoạn \'xuất bài\'.
+giai đoạn 'xuất bài'.
 
 **Giai Đoạn 2: Xây Dựng**
 
@@ -1248,7 +1248,7 @@ kéo về phía trước, phía sau bị mở. Bóng đánh vào không gian tr�
 **Rally System Kết Hợp Với Serve System**
 
 Bây giờ toàn bộ hệ thống hoạt động như sau: Bạn giao bóng slice wide
-(cue: \'see the side\'), đối thủ return crosscourt hẹp, bạn bước vào và
+(cue: 'see the side'), đối thủ return crosscourt hẹp, bạn bước vào và
 đánh open court forehand (Shot 2), đối thủ defensive return sâu
 crosscourt, bạn tiếp tục xây dựng áp lực crosscourt cho đến khi cơ hội
 xuất hiện, sau đó kết thúc.
@@ -1281,7 +1281,7 @@ năng che giấu ý định của ông là ngoại hạng.
 
 **Novak Djokovic --- Kỷ Luật Tuyệt Đối**
 
-Djokovic không có giao bóng \'thiên phú\' nhất về tốc độ thuần túy,
+Djokovic không có giao bóng 'thiên phú' nhất về tốc độ thuần túy,
 nhưng ông sử dụng giao bóng cực kỳ hiệu quả nhờ kỷ luật kỹ thuật phi
 thường.
 
@@ -1346,10 +1346,10 @@ phá vỡ chuỗi và lực không được truyền hiệu quả.
 **Vai Trò Của Lực Ly Tâm**
 
 Một phần quan trọng của sức mạnh giao bóng đến từ lực ly tâm tạo ra khi
-cơ thể xoay. Khi hông và thân xoay, cánh tay được \'ném\' ra ngoài bởi
+cơ thể xoay. Khi hông và thân xoay, cánh tay được 'ném' ra ngoài bởi
 lực ly tâm này, thêm vào tốc độ của vợt. Vì vậy, việc giữ đầu ổn định
 như một điểm tựa cho phép cơ thể dưới xoay với toàn bộ lực mà không bị
-\'kéo lệch\' bởi chuyển động của đầu.
+'kéo lệch' bởi chuyển động của đầu.
 
 **Cơ Học Xoáy Bóng**
 
@@ -1426,8 +1426,8 @@ quan trọng nhất để xây dựng nhận thức cơ thể.
 
 **Thực hiện:**
 
-- Trước mỗi lần giao, nói to cue bạn sẽ dùng: \'Look through\', \'See
-  the side\', hoặc \'Look up\'
+- Trước mỗi lần giao, nói to cue bạn sẽ dùng: 'Look through', 'See
+  the side', hoặc 'Look up'
 
 - Sau đó thực hiện cú giao bóng
 
@@ -1441,15 +1441,15 @@ Luyện tập này 15-20 phút mỗi buổi trong 2 tuần đầu học hệ th�
 
 **Thực hiện:**
 
-- Giao 20 flat serves liên tiếp --- chỉ focus vào cue \'look through\'
+- Giao 20 flat serves liên tiếp --- chỉ focus vào cue 'look through'
 
 - Nghỉ 2 phút
 
-- Giao 20 slice serves --- chỉ focus vào cue \'see the side\'
+- Giao 20 slice serves --- chỉ focus vào cue 'see the side'
 
 - Nghỉ 2 phút
 
-- Giao 20 kick serves --- chỉ focus vào cue \'look up\'
+- Giao 20 kick serves --- chỉ focus vào cue 'look up'
 
 **Bài Tập 4: Trộn Ngẫu Nhiên**
 
@@ -1488,9 +1488,9 @@ Vì áp lực thay đổi cách não bộ kiểm soát cơ thể.
 
 **Hiểu Phản Ứng Áp Lực**
 
-Khi áp lực tăng cao, não bộ chuyển sang \'chế độ sinh tồn\'. Trong thể
+Khi áp lực tăng cao, não bộ chuyển sang 'chế độ sinh tồn'. Trong thể
 thao, điều này biểu hiện như: cơ bắp căng hơn, chuyển động trở nên
-\'gắng\' thay vì tự nhiên, ý thức về kỹ thuật tăng đột biến --- và
+'gắng' thay vì tự nhiên, ý thức về kỹ thuật tăng đột biến --- và
 nghịch lý thay, điều đó làm cho kỹ thuật trở nên kém hơn.
 
 > ***\"Suy nghĩ về kỹ thuật trong lúc đánh là kẻ thù của hiệu suất
@@ -1499,10 +1499,10 @@ nghịch lý thay, điều đó làm cho kỹ thuật trở nên kém hơn.
 **Hệ Thống Cue Như Công Cụ Tâm Lý**
 
 Đây là lý do hệ thống cue đầu không chỉ là kỹ thuật --- đó cũng là công
-cụ tâm lý. Khi bạn chỉ cần nhớ một từ (\'look up\', \'see the side\',
-\'look through\'), bạn giải phóng não bộ khỏi việc phải xử lý hàng chục
-yếu tố kỹ thuật. Não bộ có \'nhiệm vụ đơn giản\' thay vì \'nhiệm vụ phức
-tạp\'.
+cụ tâm lý. Khi bạn chỉ cần nhớ một từ ('look up', 'see the side',
+'look through'), bạn giải phóng não bộ khỏi việc phải xử lý hàng chục
+yếu tố kỹ thuật. Não bộ có 'nhiệm vụ đơn giản' thay vì 'nhiệm vụ phức
+tạp'.
 
 **Quy Trình Trước Giao Bóng**
 
@@ -1512,7 +1512,7 @@ Một quy trình nhất quán trước khi giao bóng là vô giá:
 
 - 2\. Chọn mục tiêu: nhìn cụ thể vào điểm muốn nhắm
 
-- 3\. Chọn cue: \'through\', \'side\', hoặc \'up\'
+- 3\. Chọn cue: 'through', 'side', hoặc 'up'
 
 - 4\. Tung bóng
 
@@ -1524,19 +1524,19 @@ Quan trọng là sự nhất quán --- cùng quy trình mỗi lần, bất kể 
 **Xử Lý Double Fault**
 
 Double fault là một trong những trải nghiệm tâm lý khó chịu nhất trong
-tennis. Phản ứng tự nhiên là thử giao nhẹ hơn hoặc \'an toàn\' hơn ở
+tennis. Phản ứng tự nhiên là thử giao nhẹ hơn hoặc 'an toàn' hơn ở
 giao bóng thứ ba. Nhưng đây thường là sai lầm.
 
-Phản ứng đúng: Sau double fault, quay lại cue \'look up\' cho kick
+Phản ứng đúng: Sau double fault, quay lại cue 'look up' cho kick
 serve. Không thay đổi kỹ thuật căn bản --- chỉ cần tin tưởng quy trình.
 Hầu hết double fault xảy ra vì đầu sụp sớm, không phải vì thiếu tốc độ
 hoặc xoáy.
 
 **Confidence Routine**
 
-Xây dựng một \'routine tự tin\': giữa các điểm, hãy đi về vị trí giao
+Xây dựng một 'routine tự tin': giữa các điểm, hãy đi về vị trí giao
 bóng với bước chân tự tin. Không kéo dài thời gian giữa các điểm quá mức
-(cai gọi là \'time violations\' trong ATP). Kiểm soát nhịp điệu của trận
+(cai gọi là 'time violations' trong ATP). Kiểm soát nhịp điệu của trận
 đấu là kiểm soát tâm lý của chính mình.
 
 **Từ Luyện Tập Đến Thi Đấu**
@@ -1672,7 +1672,7 @@ giây.
 
 - Look up → kick (mặc định)
 
-- Không có \'hero serves\'
+- Không có 'hero serves'
 
 **Quy Tắc Break Point**
 
@@ -1682,7 +1682,7 @@ giây.
 
 - Cùng quy trình mỗi lần --- bất kể điểm số
 
-- Sau double fault: \'look up\' + kick
+- Sau double fault: 'look up' + kick
 
 - Không thay đổi kỹ thuật căn bản dưới áp lực --- chỉ giữ cue lâu hơn
 
@@ -1730,10 +1730,10 @@ số cách:
 
 **Block Practice vs. Random Practice**
 
-Nghiên cứu cho thấy \'random practice\' (trộn ngẫu nhiên các kỹ năng)
-dẫn đến kết quả thi đấu tốt hơn \'block practice\' (luyện từng kỹ năng
+Nghiên cứu cho thấy 'random practice' (trộn ngẫu nhiên các kỹ năng)
+dẫn đến kết quả thi đấu tốt hơn 'block practice' (luyện từng kỹ năng
 riêng lẻ), mặc dù block practice cảm thấy học nhanh hơn trong buổi tập.
-Đây là vì random practice bắt não bộ phải liên tục \'tái tải\' kỹ năng,
+Đây là vì random practice bắt não bộ phải liên tục 'tái tải' kỹ năng,
 tạo ra memory trace mạnh hơn.
 
 Ứng dụng: sau khi đã thành thạo từng loại giao bóng riêng lẻ, hãy trộn
@@ -1757,7 +1757,7 @@ Ngay cả với tất cả chuẩn bị, đôi khi kỹ thuật sẽ sụp đổ
 
 - Nhận ra --- không phủ nhận
 
-- Quay về cue đơn giản nhất: \'look up\' + kick serve
+- Quay về cue đơn giản nhất: 'look up' + kick serve
 
 - Không thay đổi nhiều thứ cùng lúc
 
@@ -1860,13 +1860,13 @@ của bạn ngoại trừ chính bạn.
 
 **Bảng Tóm Tắt Cue Đầu**
 
-FLAT SERVE --- \'Look Through\': Flat, nhanh, ít xoáy. Dùng: giao bóng
+FLAT SERVE --- 'Look Through': Flat, nhanh, ít xoáy. Dùng: giao bóng
 đầu tiên, điểm kết thúc.
 
-SLICE SERVE --- \'See The Side\': Xoáy ngang, cong wide. Dùng: tạo góc,
+SLICE SERVE --- 'See The Side': Xoáy ngang, cong wide. Dùng: tạo góc,
 kiểm soát không gian.
 
-KICK SERVE --- \'Look Up\': Xoáy trên, nẩy cao. Dùng: giao bóng thứ hai,
+KICK SERVE --- 'Look Up': Xoáy trên, nẩy cao. Dùng: giao bóng thứ hai,
 điểm áp lực.
 
 **Bảng Quy Tắc Deuce / Ad Court**

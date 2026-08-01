@@ -1,13 +1,13 @@
 # What is 'True' in Tennis
 
-### What is \'True\' in Tennis?
+### What is 'True' in Tennis?
 
 ### The Forehands of Novak, Rafa, and Roger
 
 ### John Yandell
 
-What is really true in tennis? It\'s a big question but one that club
-players or even tournament players often don\'t ask.
+What is really true in tennis? It's a big question but one that club
+players or even tournament players often don't ask.
 
 One answer is that there are multiple \"truths\" in tennis. There are
 many viable ways to hit the ball across a wide range of grips and
@@ -15,8 +15,7 @@ strokes and swing patterns. That there is no single \"right\" way\--only
 a range of valid possibilities.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image1.webp)
 
 **There are multiple truths in the forehands of the top three players.**
 
@@ -42,8 +41,7 @@ believes you are the only one that knows what you are talking about.\"
 But no one laughed.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image2.webp)
 
 **Can we find one way to play, looking at the top, at the moment?**
 
@@ -79,8 +77,7 @@ regardless of circumstance and, of course, radical over the head
 finishes.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image3.webp)
 
 **A \"new\" dominant forehand - with retro elements.**
 
@@ -110,8 +107,7 @@ makes the player. But the more likely reality is that the player makes
 the technique.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image4.webp)
 
 **Three players: three preferred finishes.**
 
@@ -122,7 +118,7 @@ expecting more information on this from Brian Gordon, who may correct my
 perspective once again.)
 
 But I believe that what the forehands of these three players show is
-that there really aren\'t black and white, definitive answers. They have
+that there really aren't black and white, definitive answers. They have
 all found ways to hit world dominating forehands by combining a range of
 technical components in ways that are sometimes similar, sometimes
 different and finally, all highly individualistic.
@@ -135,23 +131,22 @@ Instead they experimented with a range of valid technical options, some
 of which may have been presented by coaches, and others they may have
 discovered on their own.
 
-Roger Federer\'s distinctive sideways head position is a perfect
+Roger Federer's distinctive sideways head position is a perfect
 example. Asked who taught it to him he replied that it was something he
 had always done naturally and that as a junior players coaches and
 players made fun of him for it.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-true-in-tennis/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_what-is-true-in-tennis/media/image5.webp)
 
 **Federer denies anyone taught him his unique forehand head position.**
 
 Individual genius means having an intuitive feeling for combining
-factors that work in an evolving style of play. Top players can\'t be
+factors that work in an evolving style of play. Top players can't be
 stamped out according to a blueprint.
 
-The real question is not which technique is true. It\'s what elements
+The real question is not which technique is true. It's what elements
 are present in the strokes of top players. Which are common, which are
 individualistic, and which should other players experiment with for
 themselves.
@@ -162,7 +157,7 @@ to be more open to experimentation, to letting players follow their own
 path, evaluating the results, and then continuing to experiment and
 evolve.]{.mark}]{.underline}***
 
-So let\'s take a close look at the range technical elements in these
+So let's take a close look at the range technical elements in these
 three great forehands and see the similarities and differences and the
 surprising variety and complexity of their combinations. In doing so we
 will look at a wide range of the options in the modern game.
@@ -183,8 +178,7 @@ under the handle as Nadal.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        ![A collage of a person playing tennis Description automatically generated with medium
-   confidence](media_what-is-true-in-tennis/media/image6.jpg){width="6.5in"
-                                                                   height="1.8083333333333333in"}
+   confidence](media_what-is-true-in-tennis/media/image6.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            **What is the relationship between grip, spin, technique, and playing style?**
 
@@ -202,7 +196,7 @@ With his incredible athleticism, balance, and timing, he is almost
 impossible to hit through. And with his court position and early timing
 capable of turning defense into offense counterattack in one ball - a
 point made by television commentator Robbie Koenig his insightful
-comments on Djokovic in this month\'s interview. ([Click
+comments on Djokovic in this month's interview. ([Click
 Here](https://www.tennisplayer.net/members/famouscoach/robbie_koenig/secrets_to_novaks_success).)
 
 Furthermore, compared to either Federer or Nadal, Djokovic hits with
@@ -210,12 +204,12 @@ more depth and has shown the consistent ability to paint the lines and
 the corners with incredible accuracy. Not to mention his amazing ability
 to break off the short angles on the forehand side even when he is on
 top of the baseline, a key component in his ability to neutralize
-Nadal\'s forehand and successfully attack his backhand.
+Nadal's forehand and successfully attack his backhand.
 
   -------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_what-is-true-in-tennis/media/image7.wmf)
   -------------------------------------------------------------------------------------------------------------------------------------------
-                        **Click Here to watch a typically point in which Novak exploits and attacks Rafa\'s backhand.**
+                        **Click Here to watch a typically point in which Novak exploits and attacks Rafa's backhand.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -241,8 +235,7 @@ not exceptions. As we have seen many times, however, some commonalities
 definitely apply in the start of the preparation.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image8.webp)
 
 **A body turn with a variety of initial step patterns.**
 
@@ -259,7 +252,7 @@ moves to the side across the body, straightens, and points at the
 sideline, usually also roughly parallel to the
 baseline.]{.underline}]{.mark}***
 
-What is most interesting here though is how Djokovic\'s backswing varies
+What is most interesting here though is how Djokovic's backswing varies
 from either Federer or Nadal after the completion of the turn. Much has
 been made, and possibly rightly so, of the way most of the top men
 players keep the racket hand on the same side of the body, rather than
@@ -271,10 +264,9 @@ parallel with the baseline. In doing so he goes further back and behind
 than either Federer or Nadal.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image9.webp)
 
-**[Compared to Roger, Novak\'s arm goes behind his body and his racket
+**[Compared to Roger, Novak's arm goes behind his body and his racket
 face turns backward.]{.mark}**
 
 ***[Is this some unknown advantage - a technical advance that only he
@@ -287,7 +279,7 @@ dominant. So again, where is the absolute truth? Is it the technique, or
 simply the player?
 
 Whatever the answer there, his backswing serves the same purpose as
-Rafa\'s and Roger\'s. To position the hitting arm and racket for the
+Rafa's and Roger's. To position the hitting arm and racket for the
 start of the forward swing. The big surprise here and the difference
 with the other two is the shape that hitting arm takes.
 
@@ -299,8 +291,7 @@ Sampras whom they supplanted, both Roger and Rafa had straight elbows at
 contact.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image10.webp)
 
 **The straight hitting arm: touted as a signature advance in the modern
 forehand.**
@@ -314,9 +305,9 @@ Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_foreh
 
 Many coaches then hailed the straight arm as a magic component and began
 preaching it as a superior, more advanced hitting arm structure. They
-further argued that it should be emulated by all top men\'s and women\'s
+further argued that it should be emulated by all top men's and women's
 players\--in fact, by players at all levels. Never mind that no top
-women\'s player actually used this configuration and it was virtually
+women's player actually used this configuration and it was virtually
 unheard of in club tennis as well.
 
 I once had the interesting experience of reviewing video of players who
@@ -330,8 +321,7 @@ wondrous improvement. Hard to believe but then absolute truth brooks no
 doubt.]{.mark}***
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_what-is-true-in-tennis/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image11.webp)
 
 **[Elbow bent and tucked in toward the body and the wrist back: the
 allegedly obsolete double bend hitting arm.]{.mark}**
@@ -360,8 +350,7 @@ his head and then \"reversed\" (a time coined by Robert Lansdorp)
 finishing back on the same side of the body where the swing started.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image12.webp)
 
 **[Novak: a finish over the shoulder like a bunch of bald, retired
 guys.]{.mark}**
@@ -375,7 +364,7 @@ Rafa, he sometimes reverses the finish back to his right side - although
 this is much rarer and almost always on the run or in a defensive
 situation.
 
-But the majority of Djokovic\'s finishes go straight up and over his
+But the majority of Djokovic's finishes go straight up and over his
 shoulder. ***[[So here we have Novak, defending better than Rafa,
 attacking better than Roger, and using an \"inferior\" outdated finish
 to do both.]{.underline}]{.mark}*** As I said, I predict an old absolute
@@ -398,8 +387,7 @@ like 90 degrees, finishing with the shoulders closer to parallel with
 the baseline than perpendicular to the net.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image13.webp)
 
 **[Djokovic rotates the front shoulder further and more often, up to 180
 degrees plus in the foreward swing.]{.mark}**
@@ -429,8 +417,7 @@ elements and how effective these combinations could be.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person wearing a mask and holding a bird Description automatically generated with medium
-   confidence](media_what-is-true-in-tennis/media/image14.jpg){width="2.0202023184601923in"
-                                                                            height="2.949494750656168in"}
+   confidence](media_what-is-true-in-tennis/media/image14.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  **Tennis coaching: a black art suited to wizards?**
 
@@ -446,7 +433,7 @@ for more on the arm positions on the two-hander.)
 This is the same problem we encounter when we try to find absolute
 guides by studying the forehands of Roger, Rafa, and Novak.
 
-***[[It\'s one of the biggest challenges that teachers and theoreticians
+***[[It's one of the biggest challenges that teachers and theoreticians
 of the game face. What if what they believe and have preached to
 students for years is undermined by changes at the top of the game? Or
 what if video shows that what they have taught years is at variance with
@@ -464,16 +451,15 @@ But the other option is to move away from the darkness of the magical
 world and into the light that comes from objective examination of
 evidence.
 
-***[[It\'s scary and it\'s humbling to make the transition. It means
+***[[It's scary and it's humbling to make the transition. It means
 being willing to reexamine even your most cherished beliefs. It means
 being willing to modify or abandon them in the face of additional
-evidence. It means deciding that it\'s more important to be accurate
+evidence. It means deciding that it's more important to be accurate
 than consistent.]{.mark}]{.underline}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_what-is-true-in-tennis/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_what-is-true-in-tennis/media/image15.webp)
 
 **The two-handed backhand actually has a wide range of hitting arm
 structures.**
@@ -493,24 +479,23 @@ exact way or sequence that you thought. This requires adjustment, but
 again brings added clarity and confidence.]{.underline}]{.mark}**
 
 [**[The third thing is the most exciting though, if you look at it in
-the right way. That\'s when the video shows that something you believed,
+the right way. That's when the video shows that something you believed,
 and possibly believed feverently, is not accurate and needs to be
 modified. Or that there appear to multiple solutions to problems where
 previously you had only seen one]{.underline}**.]{.mark}
 
-And here we come back to the differences in the forehands we\'ve been
+And here we come back to the differences in the forehands we've been
 talking about in this article. The more you know, the more complex and
 varied reality actually appears.
 
 You realize that not only do the players vary among themselves, there is
 a tremendous range of variation for each individual, depending on ball,
 circumstance, and intention. Focusing on one or just a few examples
-isn\'t enough to understand what a player does on a stroke with as much
+isn't enough to understand what a player does on a stroke with as much
 variation as the forehand.
 
 ![A person playing tennis Description automatically
-generated](media_what-is-true-in-tennis/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_what-is-true-in-tennis/media/image16.webp)
 
 **Studying just one or just a few examples can give the wrong impression
 about the norms for top players.**
@@ -528,18 +513,18 @@ too fast and too dynamic for the human eye. And virtually every writer
 on Tennisplayer - including the big names - has had this same experience
 digging into the video archives.
 
-***[[It\'s the mark of a great coach or a smart player to always be
+***[[It's the mark of a great coach or a smart player to always be
 looking to revise his thinking, to become more accurate, to understand
 more completely, to find new information to improve his or her
 understanding of this amazing game.]{.mark}]{.underline}***
 
 That is one of the things I am proudest about on Tennisplayer. Not the
 interpretations I make or those of all the other amazing voices on the
-site. It\'s the creation of a resource of unequalled breadth and depth
+site. It's the creation of a resource of unequalled breadth and depth
 that allows anyone in the world of tennis with the curiosity and the
 courage to take a look for themselves.
 
-And don\'t worry if all this confuses you or depresses you, and you feel
+And don't worry if all this confuses you or depresses you, and you feel
 that you have just had absolute truth taken from you. I will soon be
 starting a new series on building the forehand, sharing what I have
 learned over the last decade to help you develop your own flexible,
@@ -550,8 +535,7 @@ Stay Tuned!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_what-is-true-in-tennis/media/image17.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_what-is-true-in-tennis/media/image17.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

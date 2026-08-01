@@ -15,8 +15,7 @@ laterality, ambidexterity and symmetry.
 
 ![A person dancing on a stage Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-2/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_future-trends-in-tennis-part-2/media/image1.webp)
 
 **Are players with two forehands a viable future option?**
 
@@ -44,8 +43,7 @@ technique on groundstrokes, serves, and even volleys.
 
 ![A picture containing grass, outdoor, sport, athletic game Description
 automatically
-generated](media_future-trends-in-tennis-part-2/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_future-trends-in-tennis-part-2/media/image2.webp)
 
 **Gene Mayer rose to third in the world playing with two hands on both
 sides.**
@@ -78,8 +76,7 @@ world.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_future-trends-in-tennis-part-2/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_future-trends-in-tennis-part-2/media/image3.webp)
 
 **Another example of symmetrical tennis, a top 500 men's player with two
 forehands.**
@@ -103,11 +100,9 @@ Currently I'm considering starting a special project------a group of
 young players based in NYC who play symmetrically: Team Symmetry.
 
 ![A person holding a guitar Description automatically generated with low
-confidence](media_future-trends-in-tennis-part-2/media/image4.jpg){width="1.6417913385826772in"
-height="2.8470384951881016in"}![A person holding a tennis racket
+confidence](media_future-trends-in-tennis-part-2/media/image4.jpg)![A person holding a tennis racket
 Description automatically generated with medium
-confidence](media_future-trends-in-tennis-part-2/media/image5.jpg){width="1.7761187664041995in"
-height="2.8493886701662294in"}
+confidence](media_future-trends-in-tennis-part-2/media/image5.jpg)
 
 Luke Jensen could serve 130mph with either hand.
 
@@ -138,8 +133,7 @@ joints, especially helping to reduce overuse injuries, which are very
 common in tennis.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-2/media/image6.jpg){width="2.3208956692913385in"
-height="3.177050524934383in"}
+generated](media_future-trends-in-tennis-part-2/media/image6.jpg)
 
 **Could symmetrical training make the current game look as quaint as a
 continental grip?**
@@ -172,8 +166,7 @@ the Forum. ([[Click
 Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/79288-future-trends-in-tennis-part-2?view=stream).)
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_future-trends-in-tennis-part-2/media/image7.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_future-trends-in-tennis-part-2/media/image7.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -190,7 +183,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

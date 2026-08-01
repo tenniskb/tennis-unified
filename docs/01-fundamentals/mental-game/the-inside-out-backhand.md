@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-inside-out-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-inside-out-backhand/media/image1.webp)
 
 **The inside out backhand - valuable when you are pulled wide to recover
 on the forehand.**
@@ -34,7 +33,7 @@ develop confidence in the same fashion as every other shot.
 
 **Recovery**
 
-When players are pulled wide to the forehand side and can\'t recover
+When players are pulled wide to the forehand side and can't recover
 fully, the inside out backhand allows them to defend or counterattack,
 by returning on the crosscourt diagonal - the same as if they were
 responding with a crosscourt forehand.
@@ -43,12 +42,11 @@ Rather than get caught off balance trying to move far enough around the
 ball to hit a forehand, the player, as Serena shows above, has time to
 set up for a high-level technical backhand. Note that the shoulders are
 turned in the direction of the inside out shot line, and the legs are
-set up and coiled in Serena\'s preferred semi open stance.
+set up and coiled in Serena's preferred semi open stance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-inside-out-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-inside-out-backhand/media/image2.webp)
 
 **The primary return in the deuce court is the inside out backhand.**
 
@@ -59,11 +57,11 @@ return is inside out. Yet this is rarely understood by lower-level
 players.
 
 The inside out diagonal is the safest play to start the point and allows
-the returner to establish court position in the center of the server\'s
+the returner to establish court position in the center of the server's
 attacking angles.
 
 **[[Returning down the line on the backhand side in the deuce court can
-make you instantly vulnerable to your opponent\'s
+make you instantly vulnerable to your opponent's
 crosscourt.]{.underline}]{.mark}** A deep inside out return forces the
 server to respond with a rally ball or attack down the line.
 
@@ -71,7 +69,7 @@ server to respond with a rally ball or attack down the line.
 and usually, hitting into** **a shorter court. These factors add
 difficulty.**
 
-Watch the key components in Novak\'s return. Like Serena the shoulders
+Watch the key components in Novak's return. Like Serena the shoulders
 are turned so they are virtually parallel to the shot direction.
 
 Watch the path of the racket head as it moves toward contact. It is
@@ -84,8 +82,7 @@ target and the relative relationship of the contact point to the body is
 fundamentally similar.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-inside-out-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-inside-out-backhand/media/image3.webp)
 
 **The third inside out backhand is on short balls left near the center
 of the court.**
@@ -114,14 +111,13 @@ comfortable as the inside out forehand, players need to allocate
 specific time to practice in all 3 variations.
 
 Practicing the inside out backhand will help you prepare for every
-situation that you may be presented within today\'s game. Matches can be
+situation that you may be presented within today's game. Matches can be
 won or lost on just a few key points. Sooner or later the inside out
 backhand will be the shot that makes the difference.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                           John Sherwood is Director of High Performance
-  confidence](media_the-inside-out-backhand/media/image4.jpeg){width="1.5652777777777778in"   Tennis at the Centercourt Athletic Club in
-  height="2.217361111111111in"}                                                                                                                                               Chatham, N.J. John played varsity Division 1
+  confidence](media_the-inside-out-backhand/media/image4.jpeg)                                                                                                                                               Chatham, N.J. John played varsity Division 1
                                                                                                                                                                               tennis at the University of Toledo and has guided
                                                                                                                                                                               hundreds of junior players into college and the
                                                                                                                                                                               pro ranks, including traveling extensively on the

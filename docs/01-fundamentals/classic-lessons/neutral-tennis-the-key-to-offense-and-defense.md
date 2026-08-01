@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 In tennis so much is made of playing style. Are you an attacking player
-or a defensive player? Why can\'t a player do both well? The greatest
+or a defensive player? Why can't a player do both well? The greatest
 players achieve this balance.
 
 Making the transition from defense to offense is the key to having a
@@ -16,8 +16,7 @@ tour.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                ![A person playing tennis Description automatically generated with medium
-   confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image1.webp){width="2.7604166666666665in"
-                                                                                            height="2.5in"}
+   confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image1.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                  **A neutral reply, well struck and deep down the middle allows me to stay in the point and be ready to go on offense or to respond better in a defensive situation.**
 
@@ -60,7 +59,7 @@ relentlessly.]{.underline}**]{.mark}
 
 **Neutral Tennis**
 
-In today\'s game too many players try to make something happen by
+In today's game too many players try to make something happen by
 hitting hard to a corner, thinking that is the way to play offensive
 tennis. This is particularly true against the pusher. But I think that
 is the wrong way to go about winning points on a consistent basis. Being
@@ -77,8 +76,7 @@ corners.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image2.webp){width="3.3333333333333335in"
-  height="2.5in"}
+  confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image2.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Here Lindsay shows patience by centering the ball, the same tactics she used when crushing Serena Williams at this year's US Open.**
 
@@ -102,7 +100,7 @@ time to start over by re-establishing the neutral rally. **[[You may
 have to start over many times in one point when you are playing a great
 defensive player.]{.underline}]{.mark}** **[[The goal is to be patient
 and stick with the plan.]{.underline}]{.mark}** **[[Too often players
-get on the offensive and don\'t know when to pull back and start again,
+get on the offensive and don't know when to pull back and start again,
 causing them to hit the ball harder and harder, eventually resulting in
 an error.]{.underline}]{.mark}**
 
@@ -119,17 +117,14 @@ clearly defensive positions.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image3.jpg){width="2.0998370516185476in"
-height="1.9178510498687664in"} ![A person playing tennis Description
+confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image3.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image4.jpg){width="2.101809930008749in"
-height="1.9196522309711286in"} ![A person hitting a ball with a tennis
+confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image4.jpg) ![A person hitting a ball with a tennis
 racket Description automatically
-generated](media_neutral-tennis-the-key-to-offense-and-defense/media/image5.jpg){width="2.117270341207349in"
-height="1.9209667541557305in"}
+generated](media_neutral-tennis-the-key-to-offense-and-defense/media/image5.jpg)
 
 **When your opponent plays a good low ball at your feet, play back a
-good neutral volley or half-volley deep down the center. Don\'t feel you
+good neutral volley or half-volley deep down the center. Don't feel you
 have to put every volley away. Sampras is a master of this shot.**
 
 **[[Here is the secret to making this critical transition, and it can
@@ -138,7 +133,7 @@ is the neutral ball.]{.underline}]{.mark}** **The idea is to go from a
 defensive position to a neutral position, then maybe to the offense.
 [[The key to getting out of the defensive position in the rally is to
 hit a neutral ball at your rally speed deep into the center of your
-opponent\'s court.]{.mark}]{.underline}**
+opponent's court.]{.mark}]{.underline}**
 
 **[[Centering the ball will cut down on your errors, and also, make it
 harder for your opponent to create an angle and keep you on the run.
@@ -150,7 +145,7 @@ places in the court.]{.underline}**
 
 **[[The depth of your neutral shot will often fool your opponent and he
 will make a lot of errors overhitting in an effort to stay on the
-offensive.]{.underline}]{.mark}** **[[Don\'t fool yourself into thinking
+offensive.]{.underline}]{.mark}** **[[Don't fool yourself into thinking
 since you made it back to the neutral position the very next ball is
 your opportunity to go on the attack, even if you get a short
 reply.]{.underline}]{.mark}** **Once you have gained the neutral
@@ -166,7 +161,7 @@ theory.]{.mark}]{.underline}**
 
 When your opponent plays a good low ball at your feet as you approach
 the net, play back a good neutral volley or half-volley deep down the
-center. Sampras is a master of this shot. Don\'t feel you have to put
+center. Sampras is a master of this shot. Don't feel you have to put
 every volley away. If you are good at this style let your athleticism
 and quickness intimidate your opponent into making an error. Again, by
 playing a good neutral volley your opponent will be fooled into thinking
@@ -175,15 +170,15 @@ shot. In many cases your opponent will make an error or give you an easy
 volley to put away.
 
 **[[When playing a serve-volley type player, your neutral shot is that
-good low ball in the center of the court dipping low to your opponent\'s
+good low ball in the center of the court dipping low to your opponent's
 feet.]{.underline}]{.mark}** **Force your opponent into errors by making
-him to play difficult volleys. After hitting this shot don\'t fall
+him to play difficult volleys. After hitting this shot don't fall
 victim to your own delusions of glory and overhit the next shot. Realize
 you are on offense but make your pass only 10% harder emphasizing
-placement over power. Don\'t be afraid to start over if your opponent
+placement over power. Don't be afraid to start over if your opponent
 makes a good neutralizing shot of his own. Again, center the ball trying
 to get it at his/her feet. Another option in this situation is a high
-defensive lob. Don\'t panic and overhit. [[Neutral tennis keeps you from
+defensive lob. Don't panic and overhit. [[Neutral tennis keeps you from
 feeling rushed when playing the serve-volley player by giving you a
 focus and a plan.]{.underline}]{.mark}**
 
@@ -193,22 +188,21 @@ crucial transitions. You will soon know which shot to hit in advance,
 making concentration on the technique of that shot more efficient. As
 always, have fun and enjoy the process of learning.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                                        | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image6.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                                     | numerous ranked junior players and coached  |
-|                                                                                                                                                                                                    | a series of championship high school teams. |
-|                                                                                                                                                                                                    | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                                    | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                                    |                                             |
-|                                                                                                                                                                                                    | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                                    | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                                    | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                                    | are now splitting time between homes in     |
-|                                                                                                                                                                                                    | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                                    | continued to coach and to have great        |
-|                                                                                                                                                                                                    | competitive success winning Canadian        |
-|                                                                                                                                                                                                    | National seniors titles---not to mention    |
-|                                                                                                                                                                                                    | continuing to write articles for            |
-|                                                                                                                                                                                                    | Tennisplayer from his unique perspective.   |
-+====================================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_neutral-tennis-the-key-to-offense-and-defense/media/image6.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

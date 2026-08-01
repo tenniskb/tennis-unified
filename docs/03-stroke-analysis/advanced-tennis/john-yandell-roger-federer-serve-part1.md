@@ -3,17 +3,16 @@
 # John Yandell 
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image1.webp)
 
-**Federer\'s serve: less extreme and a better model.**
+**Federer's serve: less extreme and a better model.**
 
 So far on Tennisplayer we have taken a detailed look at the motions of
 two of the greatest servers in the modern: Pete Sampras ([Click
 Here](../Tour%20strokes/Tour%20strokes%20TOC.docx)) and Andy Roddick.
 ([Click Here](Advanced%20Tennis%20TOC.docx))
 
-Now in the next two articles we\'ll analyze the motion of another top
+Now in the next two articles we'll analyze the motion of another top
 player, a player with one of the most underrated serves in the game:
 Roger Federer. Federer is a great model for most players at most levels,
 much better in many respects than either Sampras or Roddick. In these
@@ -39,12 +38,11 @@ even by players at the highest levels.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-roger-federer-serve-part1/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-roger-federer-serve-part1/media/image2.webp)
 
 **What makes Andy distinct makes him more difficult to model.**
 
-Don\'t get me wrong, I feel it\'s important to analyze the motions of
+Don't get me wrong, I feel it's important to analyze the motions of
 the great players\--obviously, since I have spent so much time doing it.
 Understanding what is really happening is the only way to develop clear
 and accurate information. **[[Coaches need to be knowledgeable about
@@ -57,51 +55,47 @@ advanced elements. But my observation is that, for the majority,
 including many players at very high levels, blindly trying to copy what
 makes players like Roddick and Sampras special can cause more harm than
 benefit. Just look around at any sectional junior tournament and see how
-many kids think they are using Roddick\'s abbreviated motion. If you put
+many kids think they are using Roddick's abbreviated motion. If you put
 the video camera on them, you see reality is different. Their motions
 are usually technically inferior to the players with more conventional
 windups and stances.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image3.webp)
 
 **Smooth, effortless, classical.**
 
 **Why Roger?**
 
-**[Roger Federer\'s motion is so smooth and effortless that it doesn\'t
+**[Roger Federer's motion is so smooth and effortless that it doesn't
 attract the same attention as Pete or Andy.]{.mark}** What makes Federer
-less distinctive is probably what also makes him a better model. It\'s a
+less distinctive is probably what also makes him a better model. It's a
 simpler, more classical motion with fewer extreme elements.
 
-**[[Roger\'s serve may not have the mph or be as dynamic looking as Andy
-Roddick\'s. It may not have as much topspin or be as unplayable as
-Pete\'s. But it would be hard to claim it isn\'t effective, and
+**[[Roger's serve may not have the mph or be as dynamic looking as Andy
+Roddick's. It may not have as much topspin or be as unplayable as
+Pete's. But it would be hard to claim it isn't effective, and
 seemlessly integrated into his all court game.]{.underline}]{.mark}** If
 you were to pick one service motion from the top players to use as a
 template for building or improving your serve, my opinion is that it
 should be Roger.
 
-So we\'ll take a look at his motion, element by element. In this first
-article we\'ll start with the grip, and the starting stance. We\'ll also
+So we'll take a look at his motion, element by element. In this first
+article we'll start with the grip, and the starting stance. We'll also
 address the windup or backswing, the racket drop, and the path of the
-arm and racket to the ball. In the next article, we\'ll continue the
-analysis with Roger\'s toss, leg action, body rotation, and his
+arm and racket to the ball. In the next article, we'll continue the
+analysis with Roger's toss, leg action, body rotation, and his
 followthrough and then talk about how to put all the elements together
 for yourself.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                      | ![A person playing tennis Description automatically generated with medium                                                                                                           |
-| generated](media_john-yandell-roger-federer-serve-part1/media/image4.jpg){width="2.3118055555555554in" | generated](media_john-yandell-roger-federer-serve-part1/media/image5.jpg){width="2.0722222222222224in" | confidence](media_john-yandell-roger-federer-serve-part1/media/image6.jpg){width="2.13125in" |
-| height="4.534722222222222in"}                                                                                                                                                                 | height="4.875in"}                                                                                                                                                                             | height="4.826388888888889in"}                                                                                                                                                       |
-+:=============================================================================================================================================================================================:+:=============================================================================================================================================================================================:+:===================================================================================================================================================================================:+
-| **Federer\'s serving grip: a mild eastern backhand.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| generated](media_john-yandell-roger-federer-serve-part1/media/image4.jpg) |  |  |
+| **Federer's serving grip: a mild eastern backhand.** |  |  |
+
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image7.webp)
 
 **The key to understanding the stance is when both feet are on the
 court.**
@@ -139,31 +133,29 @@ open in the deuce court compared to the ad. The rear foot is offset to
 the left of the front foot, with the toe of the back foot roughly in
 line with the heel of the front foot. The rear foot appears to be just
 about exactly parallel to the baseline in both courts. But in the ad
-court it\'s also set a few inches further back to Roger\'s left.
+court it's also set a few inches further back to Roger's left.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                     | ![A person holding a tennis racket Description automatically                                                                                                                                  |
-| confidence](media_john-yandell-roger-federer-serve-part1/media/image8.jpg){width="2.920320428696413in" | generated](media_john-yandell-roger-federer-serve-part1/media/image9.jpg){width="2.9285608048993876in" |
-| height="2.9722222222222223in"}                                                                                                                                                                | height="3.0625in"}                                                                                                                                                                            |
-+:=============================================================================================================================================================================================:+:=============================================================================================================================================================================================:+
-| **In the deuce court the front foot is more open. In the ad court, the feet are spread slightly further apart**                                                                                                                                                                                                                                                                               |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person holding a tennis racket Description automatically |
+| --- | --- |
+| confidence](media_john-yandell-roger-federer-serve-part1/media/image8.jpg) |  |
+| **In the deuce court the front foot is more open. In the ad court, the feet are spread slightly further apart** |  |
 
-At the start of the motion, Roger\'s racket and racket arm point
+
+At the start of the motion, Roger's racket and racket arm point
 basically straight ahead at the net. His tossing arm also points
 straight ahead with the ball resting roughly on the throat of the
 racket. Note also the angle of his shoulders. In the ad court they are a
 little bit shy of perpendicular to the net. In the deuce court they are
 open an increment further. This difference in the shoulder angle is
 analogous to the small differences in the angle of his front foot.
-Don\'t worry too much about the position down to the inch.
+Don't worry too much about the position down to the inch.
 
-Also, don\'t be fooled by the personal physical rituals players use at
-the start of the serve: Roger\'s rocking motion, etc. The players are
+Also, don't be fooled by the personal physical rituals players use at
+the start of the serve: Roger's rocking motion, etc. The players are
 all a little different. What matters is what happens when they start the
 motion. Every player eventually develops his own rituals. Rather than
-model Roger\'s rituals, it\'s better to model the elements in his stance
-first. To do this, position your feet, torso and racket at Federer\'s
+model Roger's rituals, it's better to model the elements in his stance
+first. To do this, position your feet, torso and racket at Federer's
 angles as described above, and just stand straight up and down with your
 weight more or less equally distributed between your feet. Your arm and
 racket should point more or less straight ahead. You can also start with
@@ -171,19 +163,18 @@ less left to right offset between the front and rear foot. I like to
 position players with both feet parallel to the baseline with the heels
 lined up and the shoulders fully square to the net and let them evolve
 their stance from there. As you get comfortable with these elements,
-you\'ll develop a unique physical ritual of your own.
+you'll develop a unique physical ritual of your own.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image10.webp)
 
-**Roger\'s windup: the longest and most circular next to
+**Roger's windup: the longest and most circular next to
 Phillippousis.**
 
 **Windup**
 
-I love Roger Federer\'s wind up because, other than Mark Philippoussis,
-it\'s the longest and most circular of any of the top players. True, the
+I love Roger Federer's wind up because, other than Mark Philippoussis,
+it's the longest and most circular of any of the top players. True, the
 abbreviated backswing is the overwhelmingly trendy motion. Andy Roddick
 set off that craze which has mesmerized and infatuated players, coaches
 and commentators. We saw in our Roddick articles that, at least for
@@ -191,26 +182,25 @@ Andy, there probably is some technical advantage to it. As Rick Macci
 was the first to point out, it allows him\--or forces him\--to move in
 and out of the racket drop faster than any other player. ([Click
 Here](http://www.tennisplayer.net/members/tour_strokes/rick_macci/rick_macci_andy_roddick_serve_images/rick_macci_andy_roddick_serve.html).)
-And that\'s a beautiful and fearsome thing. The question is whether it
+And that's a beautiful and fearsome thing. The question is whether it
 is remotely realistic for the average player. And I have an answer. No.
-So far Andy is the only player I\'ve ever filmed that has made it work.
+So far Andy is the only player I've ever filmed that has made it work.
 
 **[[The point of the windup is to position the racket at the full drop
 position so it can then travel upward to the ball on the right path and
-with the most speed.]{.underline}]{.mark}** If the windup doesn\'t
-accomplish that, you\'re probably better off starting the motion with
+with the most speed.]{.underline}]{.mark}** If the windup doesn't
+accomplish that, you're probably better off starting the motion with
 the racket already dropped behind you. Unfortunately this is exactly the
 case for many players who try to copy Roddick. They fail to make the
 basic drop position.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-roger-federer-serve-part1/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-roger-federer-serve-part1/media/image11.webp)
 
-**Roger\'s drop\--not as deep as Andy or Pete.**
+**Roger's drop\--not as deep as Andy or Pete.**
 
-It\'s absurd. A player decides that by modeling Andy\'s backswing he can
+It's absurd. A player decides that by modeling Andy's backswing he can
 get more racket head speed and it ends up creating the exact opposite
 effect. Trying to add an esoteric advanced element players sometimes
 destroy the more basic element they think they are trying to enhance.
@@ -218,12 +208,12 @@ destroy the more basic element they think they are trying to enhance.
 Abbreviated windups are fine so long as you can rotate your arm
 backwards in the shoulder joint to get to the racket drop like Andy. The
 problem is that very, very few players actually can. In Your Strokes
-this month, we take a look at Paul Goldstein\'s serve and see how a top
+this month, we take a look at Paul Goldstein's serve and see how a top
 hundred player improved his racket drop significantly by moving away
 from the abbreviated windup. ([Click
 Here](http://www.tennisplayer.net/members/your_strokes/2006/paul_goldstein_serve_4_01_06/paul_goldstein_serve_4_01_06.html).)
 
-Watch Roger\'s arm and racket in the wind up. **[Rather than starting
+Watch Roger's arm and racket in the wind up. **[Rather than starting
 immediately upward like Andy, his arm and racket drop downward at the
 start of the motion, pointing directly down at the court.]{.mark}** This
 is similar to Sampras who also drops his arm and racket downward so they
@@ -233,7 +223,7 @@ the racket from the shoulder.
 
 **[[In contrast Roger keeps his arm straight and continues to move his
 hand backward and upward tracing a circular path. His arm stays straight
-longer and the tip of the racket doesn\'t point nearly as far to his
+longer and the tip of the racket doesn't point nearly as far to his
 right.]{.underline}]{.mark}** When be begin to bend his elbow the motion
 still moves on a curve upward. As noted the only current player with a
 more circular path is Philippoussis, similar to the great John McEnroe
@@ -252,62 +242,59 @@ backwards in the shoulder joint, what is called external rotation. This
 is what creates that incredible racket drop position that is so
 characteristic of their motions.
 
-The interesting thing about Roger is that his drop isn\'t as deep as
+The interesting thing about Roger is that his drop isn't as deep as
 either Andy or Pete. You might argue that this is actually a function of
 the longer backswing and that he should shorten his motion. But I think
-it\'s the opposite. What I see is that Roger\'s shoulder doesn\'t seem
-to be quite as superhumanly flexible. That\'s why I think the longer
+it's the opposite. What I see is that Roger's shoulder doesn't seem
+to be quite as superhumanly flexible. That's why I think the longer
 more circular wind up probably maximizes his racket drop.
 
 ![A picture containing text, tennis, sport, player Description
 automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image12.webp)
 
 **Another comparison of the racket drop.**
 
 You can see the difference by looking at the angle of the forearm to the
-court at the deepest point in the drop. **[Roger\'s forearm is basically
+court at the deepest point in the drop. **[Roger's forearm is basically
 parallel to the court. Sampras and Roddick go further.]{.mark}** By
 rotating the upper arm back a little further in the shoulder joint, they
 drop the hand a little further down. You can see the line of the forearm
 for these two actually drops down a little below parallel to the court.
 This is reflected in the actual location of the racket head which is
-lower and closer to the court. If Roger\'s arm could rotate a little
+lower and closer to the court. If Roger's arm could rotate a little
 further back, you probably see his positions match Pete and Andy more
 closely.
 
-**[Now don\'t get me wrong, Roger has a great racket drop. The rest of
-us should be lucky enough to make the same position. But it\'s not quite
-as deep as Andy or Pete. Because his shoulder probably isn\'t quite as
+**[Now don't get me wrong, Roger has a great racket drop. The rest of
+us should be lucky enough to make the same position. But it's not quite
+as deep as Andy or Pete. Because his shoulder probably isn't quite as
 flexible, the more circular windup probably helps him maximize this
-position in his motion. And if it\'s true for Roger, how much more true
+position in his motion. And if it's true for Roger, how much more true
 is it for the average player?]{.mark}**
 
 The truth is very few players can achieve the maximum racket drop with
 an elbow position that is horizontal or lower. Even many pro players.
-You can see this exact problem in this month\'s Your Strokes analysis of
+You can see this exact problem in this month's Your Strokes analysis of
 Paul Goldstein. **[The problem with the abbreviated motions is that they
 put a premium of this component of the backswing to achieve the racket
 drop. Yes it would be great if most players could rotate the arm further
 backwards at the full drop. That could only mean more racket
-acceleration in the motion upward to the ball. And it\'s something you
+acceleration in the motion upward to the ball. And it's something you
 can probably improve by various techniques designed to increase your
 shoulder flexibility\--strength training, stretching, deep tissue
 massage, etc.]{.mark}**
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, tennis, road, court Description automatically                                                                                                                     | ![A picture containing grass, blurry Description automatically                                                                                                                                | ![A picture containing tennis, sport, grass, athletic game Description automatically                                                                                                           |
-| generated](media_john-yandell-roger-federer-serve-part1/media/image13.jpg){width="1.9722222222222223in" | generated](media_john-yandell-roger-federer-serve-part1/media/image14.jpg){width="2.138888888888889in" | generated](media_john-yandell-roger-federer-serve-part1/media/image15.jpg){width="2.0694444444444446in" |
-| height="2.7916666666666665in"}                                                                                                                                                                 | height="2.7916666666666665in"}                                                                                                                                                                | height="2.7916666666666665in"}                                                                                                                                                                 |
-+:==============================================================================================================================================================================================:+:=============================================================================================================================================================================================:+:==============================================================================================================================================================================================:+
-| **The line of the forearm indicates the amount of external rotation.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing text, tennis, road, court Description automatically | ![A picture containing grass, blurry Description automatically | ![A picture containing tennis, sport, grass, athletic game Description automatically |
+| --- | --- | --- |
+| generated](media_john-yandell-roger-federer-serve-part1/media/image13.jpg) |  |  |
+| **The line of the forearm indicates the amount of external rotation.** |  |  |
+
 
 **[[But the point is to develop the best possible racket position given
 whatever natural ability you have.]{.mark}]{.underline}** The alignment
 of the racket on the right side of the body with the tip pointing
-basically down at the pro drop position is critical. It\'s better to do
+basically down at the pro drop position is critical. It's better to do
 this with a higher elbow position than not to do it at all. Otherwise
 you end up with the racket at a diagonal across your back when it starts
 to the ball. My experience shows me that the path more directly upward
@@ -319,22 +306,21 @@ whatever natural rotation you really have.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-roger-federer-serve-part1/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-roger-federer-serve-part1/media/image16.webp)
 
 **Philipoussis: a great racket drop despite, or because of, the
 backswing.**
 
 But what if by a statistical miracle, I am blessed by god with that same
-flexible shoulder as the greatest servers? Won\'t I be giving away
-racket drop with the more circular motion? I don\'t think so. You can
-look at Philippoussis, whose motion is more circular than Federer\'s and
-see that it doesn\'t really seem to have a negative impact. If we look
-at the video, we can see that Mark\'s racket drop is about the same as
+flexible shoulder as the greatest servers? Won't I be giving away
+racket drop with the more circular motion? I don't think so. You can
+look at Philippoussis, whose motion is more circular than Federer's and
+see that it doesn't really seem to have a negative impact. If we look
+at the video, we can see that Mark's racket drop is about the same as
 that of Sampras or Roddick. Even with the circular backswing he achieves
 the same forearm position, dipping a little below parallel to the court.
 
-So you have very little to lose and much to gain by modeling Roger\'s
+So you have very little to lose and much to gain by modeling Roger's
 windup\--or even that of Philippoussis. If video of your motion shows
 that you can achieve a racket drop equal to the top pros, sure, you can
 experiment with abbreviating the motion more. My guess is that will be
@@ -344,21 +330,20 @@ serve.
 
 **Arm Motion to Contact**
 
-In our analysis of Pete\'s serve, we identified two primary elements in
+In our analysis of Pete's serve, we identified two primary elements in
 the motion of the hand and racket to the ball. These are the extension
 of the elbow and the rotation of the hand and arm. One of the things
-I\'m happiest about on Tennisplayer is how we are constantly increasing
+I'm happiest about on Tennisplayer is how we are constantly increasing
 our knowledge of all aspects of the game, including the serve.
 
 ![A picture containing text, tennis, sport, player Description
 automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image17.webp)
 
 **The extension of the elbow and rotation of the hand and arm\--but what
 about the wrist?**
 
-If you read Brian Gordon\'s groundbreaking article last month on tennis
+If you read Brian Gordon's groundbreaking article last month on tennis
 and quantitative measurement, you no doubt were fascinated by the
 breakdown of the contribution of the segments to racket head speed.
 ([Click
@@ -376,8 +361,8 @@ me\--tentatively at least\--that the concept of \"snapping\" the wrist
 forward is probably counterproductive in coaching.
 
 Now in case any of you think I published that article just because
-Brian\'s science seemed to support my qualitative analysis, I have a
-surprise. Some of Brian\'s subsequent work, or so he tells me, actually
+Brian's science seemed to support my qualitative analysis, I have a
+surprise. Some of Brian's subsequent work, or so he tells me, actually
 indicates something different. If I understand him correctly he has
 found that there is definitely some active use or contraction of the
 muscles in the forward wrist motion. So the wrist movement is not all
@@ -385,51 +370,49 @@ passive, and may even qualify as some form of \"snap.\"
 
 And I say great! More data is better and may lead to better
 understanding. I get bored just rehashing the same arguments anyway. The
-chance to revise your thinking is actually more stimulating. This isn\'t
-a religious orthodoxy we\'re running here at Tennisplayer, although some
+chance to revise your thinking is actually more stimulating. This isn't
+a religious orthodoxy we're running here at Tennisplayer, although some
 coaches treat their beliefs that way and if challenged will battle to
 the death against the infidel.
 
 Brian may be completely right about his revised view of the wrist, and
-knowing Brian he probably is. We\'ll let him speak for himself when he
+knowing Brian he probably is. We'll let him speak for himself when he
 is ready on that one. But what I will stand behind is the concept of
 position analysis in looking at this complex motion (and all the other
 complex motions in tennis for that matter.) The high speed video shows
 the critical role of the forearm extension and the hand and arm rotation
-in taking the racket to the ball. According to Brian\'s analysis right
+in taking the racket to the ball. According to Brian's analysis right
 before contact the elbow extension contributes about 35% of the racket
 head speed, and the combined rotation of the hand and arm adds another
 22%. As these two key motions are happening the wrist is also moving
-from the laid back to the square position, accounting for it \'s own
+from the laid back to the square position, accounting for it 's own
 24%.
 
 ![A picture containing indoor, sport, table Description automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image18.webp)
 
 **Is it a matter of what muscles\--or what positions?**
 
-The problem isn\'t with the wrist movement per se. The problem is with
+The problem isn't with the wrist movement per se. The problem is with
 the teaching concept of the forward wrist \"snap.\" In my opinion, this
 gives players the wrong image of the actual path of the hand and racket.
 
 If we look at the motion we can see that after contact the hand and arm
 continue to rotate in a counterclock wise fashion. **[This part of the
-motion has come to be described as \"pronation\" although it\'s really
+motion has come to be described as \"pronation\" although it's really
 just part of a continuum of the rotations that begin when the racket
 starts upward to the ball. After the contact, the arm and racket
 continue to rotate or pronate. As they do, they stay in a virtually
 straight line.]{.mark}** This means the racket face is in line with the
 arm and you can draw a straight line outward from the shoulder to the
-tip of the racket. There isn\'t a forward break of the wrist at the
+tip of the racket. There isn't a forward break of the wrist at the
 contact or in the following part of the motion. This wrist break occurs,
-to the extent it happens (and it doesn\'t always happen) well out into
+to the extent it happens (and it doesn't always happen) well out into
 the followthrough when the hand is already coming down.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-roger-federer-serve-part1/media/image19.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_john-yandell-roger-federer-serve-part1/media/image19.webp)
 
 **Watch the hand arm and racket rotate and stay in line.**
 
@@ -460,8 +443,7 @@ effectiveness of his own stroke.
 
 ![A picture containing text, athletic game, sport, outdoor Description
 automatically
-generated](media_john-yandell-roger-federer-serve-part1/media/image20.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_john-yandell-roger-federer-serve-part1/media/image20.webp)
 
 **More data can only help us understand the key positions.**
 
@@ -473,19 +455,18 @@ head speed no doubt. The question is how to help a player create a
 motion that naturally includes this, as well as the other equally
 important, or even more important, parts of the motion. Different
 players will definitely respond better to different input and to
-different coaches in their efforts to achieve this. I don\'t think we
+different coaches in their efforts to achieve this. I don't think we
 have to worry that the debates about how best to do this will be
 definitively settled in the immediate future.
 
-So that\'s it for Part 1. Stay tuned for next month. We take a look at
-the other aspects of Roger\'s motion that are equally good models for
+So that's it for Part 1. Stay tuned for next month. We take a look at
+the other aspects of Roger's motion that are equally good models for
 other players: the tossing motion, his use of the legs, his body
 rotation, and the followthrough and finish of the swing.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-roger-federer-serve-part1/media/image21.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-roger-federer-serve-part1/media/image21.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -38,19 +38,19 @@ First we measured the speed of their slices. All three matched pace with
 the incoming ball virtually perfectly, with average outgoing velocities
 for all three of 50mph or a little higher.
 
-So what about spin levels? Karsten\'s classic slice with a relatively
+So what about spin levels? Karsten's classic slice with a relatively
 level swing plane measured an average of 1500 outgoing rpm.
 Interestingly, that is the exact number of rpms Vic Braden found decades
 ago when he measured Ken Rosewall. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92201-interactive-forum-january-2021-ken-rosewall-backhand) to
-see rare footage of Ken\'s backhand.)
+see rare footage of Ken's backhand.)
 
 Different spin levels meant different bounce heights.
 
-Scott\'s slice has a somewhat more downward swing plane than Karsten.
+Scott's slice has a somewhat more downward swing plane than Karsten.
 His rpm average was higher, a little more than 2000.
 
-Giancarlo\'s slice, which has a larger backswing and a modern, more
+Giancarlo's slice, which has a larger backswing and a modern, more
 extreme downward swing came in at 3200rpm. His motion looks virtually
 identical to Federer, and interestingly his rpms were virtually the same
 as well. ([**[Click
@@ -63,14 +63,14 @@ high speed camera to record the relative bounce heights of all 3
 players.
 
 I expected the amount of slice to correlate with the bounce height. And
-that\'s what the camera saw. The more rpms the lower the bounce.
+that's what the camera saw. The more rpms the lower the bounce.
 
-Karsten with 1500rpms had an average bounce height of 29 inches. That\'s
+Karsten with 1500rpms had an average bounce height of 29 inches. That's
 about mid thigh . Scott with 2000rpms had a lower bounce height. His
 bounce height was 27 inches, a little lower than mid thigh.
 
 Giancarlo at 3200rpms had the lowest bounce height. That was a little
-over 24 inches. That\'s knee level or a little above.
+over 24 inches. That's knee level or a little above.
 
 Compare all that to the incoming topspin balls they were hitting which
 were in the mid torso area, about 48 inches or 4 feet give or take. So
@@ -86,8 +86,8 @@ the slice balls were bouncing about half as high.
     Giancarlo     3200rpm         24 inches
   -----------------------------------------------
 
-That\'s a big height adjustment for the opponent. It\'s a factor that
-can make the slice a tactical weapon. It\'s much harder to unload on
+That's a big height adjustment for the opponent. It's a factor that
+can make the slice a tactical weapon. It's much harder to unload on
 ball at that height with maximum pace and topspin.
 
 **Slice Speed Versus Topspin**
@@ -100,7 +100,7 @@ therefore topspin is superior.
 It does appear in watching great modern slice players like Roger Federer
 that the extreme slice velocity is significantly less than a topspin
 drive. It would be great if the ATP had a comprehensive public data base
-on this\--which they don\'t.
+on this\--which they don't.
 
 At the high NTRP level, a topspin backhand might be 10% higher than
 velocity than a slice.
@@ -117,15 +117,15 @@ averaging 50mph off the racket.
 
 So what about his topspin? On the same incoming ball that we used to
 measure speed on the slice, his topspin backhand speed averaged 55mph.
-So that\'s 10% faster, not insignificant.
+So that's 10% faster, not insignificant.
 
 But then the question becomes what works best in actual play? What if
 you are dealing with a lot of high hard topspin forehands? What about
 returns? What effect does the lower slice bounce have on opponents?
 
-Let\'s remember that the classic slice drive was good enough for two of
+Let's remember that the classic slice drive was good enough for two of
 the greatest players in tennis history, Ken Rosewall and Richard
-Gonzales for example. They never came over the backhand. I think it\'s
+Gonzales for example. They never came over the backhand. I think it's
 reasonable to say that even as older players and using wood rackets they
 could mow down any 5.0 player in the country with a high tech racket and
 poly string.
@@ -141,7 +141,7 @@ Many elite players in the wood racket era hit nothing than slice.
 
 Yet the mania for topspin persists. There was a guy I used to play at
 the San Francisco Tennis Club with a one-hand backhand. He had been a
-minor league baseball player and was a good athlete, but didn\'t start
+minor league baseball player and was a good athlete, but didn't start
 really focusing on tennis til his 40s.
 
 He had the belief that to be the player he aspired to be, he needed to
@@ -158,11 +158,11 @@ to hit more than a couple of groundstrokes or volleys if he did manage a
 return, which was usually weak.
 
 It drove him crazy. His strong belief was that he was better than I was.
-And the rest of his game wasn\'t that bad.
+And the rest of his game wasn't that bad.
 
 But in his service games he had the same problem because at the earliest
 moment I would hit him a heavy spinning forehand high to his backhand.
-The result was usually the same as with his returns. He couldn\'t make
+The result was usually the same as with his returns. He couldn't make
 the ball.
 
 He was always angry after I beat him, which I found satisfying because
@@ -171,21 +171,20 @@ hit slice returns and that made it a little more competitive. But
 probably psychologically that change was even more damaging because he
 never beat me, and finally he stopped calling me to play.
 
-His attitude was like a lot of guys who didn\'t grow up in the game.
+His attitude was like a lot of guys who didn't grow up in the game.
 They watched pro tennis and thought that, at the club level, they had to
 play that same way to have success and self-respect.
 
 There is a great lesson here. Regardless of your ability to hit topspin,
 you need to develop a slice, and at least at first, probably, a sound
-classic slice. That\'s what this series has been about!
+classic slice. That's what this series has been about!
 
-So next we\'ll create some detailed physical and mental models for doing
+So next we'll create some detailed physical and mental models for doing
 that. Stay tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_one-hand-backhand-slice/media/image1.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_one-hand-backhand-slice/media/image1.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

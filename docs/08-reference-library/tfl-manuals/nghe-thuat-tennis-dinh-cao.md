@@ -76,8 +76,8 @@ hệ thống.
 vận động viên kích hoạt toàn bộ tầm nhìn ngoại vi (peripheral vision) để
 thu thập thông tin tổng thể từ đối thủ: thế đứng, góc vai, góc hông và
 tư thế cầm vợt. Vùng vỏ não thị giác sơ cấp (V1) kết hợp với đường bụng
-(Ventral Stream --- \'What pathway\') và đường lưng (Dorsal Stream ---
-\'Where/How pathway\') để thiết lập bản đồ không gian và nhận diện mẫu
+(Ventral Stream --- 'What pathway') và đường lưng (Dorsal Stream ---
+'Where/How pathway') để thiết lập bản đồ không gian và nhận diện mẫu
 chuyển động tổng thể. Đây là giai đoạn đọc thông tin trước cú đánh, diễn
 ra trong vài trăm mili giây trước khi đối thủ tiếp xúc bóng.
 
@@ -88,7 +88,7 @@ môi trường xung quanh. Mắt hướng ánh nhìn vào vùng trung tâm (fove
 nơi có mật độ tế bào nón (cone cells) cao nhất, mang lại độ sắc nét tối
 đa cho việc theo dõi quỹ đạo bóng. Hành động nheo mắt nhẹ trong thực
 chiến đóng vai trò như một thủ thuật tâm lý giúp kích hoạt hiệu ứng
-\'camera zoom\', làm tăng độ tương phản của trái bóng so với nền sân.
+'camera zoom', làm tăng độ tương phản của trái bóng so với nền sân.
 
 Sai lầm phổ biến nhất mà vận động viên mắc phải là bị kẹt ở một trong
 hai trạng thái này. Người chỉ dùng Wide Perception sẽ không bao giờ đọc
@@ -106,7 +106,7 @@ trò chức năng riêng biệt và không thể thay thế.
 
 **Giai đoạn 1 --- Quét (Wide Perception / Soft Eyes):** Diễn ra trước
 khi đối thủ chạm bóng. Vận động viên giữ mắt mở tự nhiên, thả lỏng toàn
-bộ cơ mặt, cơ hàm và vùng trán --- trạng thái gọi là \'soft focus\' ---
+bộ cơ mặt, cơ hàm và vùng trán --- trạng thái gọi là 'soft focus' ---
 nhằm tối ưu hóa tầm nhìn ngoại vi. Mục tiêu là đọc trọn vẹn tư thế
 setup, góc hông và nhịp swing của đối thủ để thực hiện cơ chế dự đoán
 trước (anticipation). Một cơ mặt căng thẳng sẽ làm giảm tốc độ xử lý
@@ -123,14 +123,14 @@ bộ tính toán tốc độ, hướng bay cùng loại xoáy ngay lập tức.
 **Giai đoạn 3 --- Lọc nhiễu (Tunnel Vision):** Xuất hiện khi vận động
 viên bắt đầu chu kỳ forward swing. Nheo mắt rất nhẹ để làm mờ chủ động
 toàn bộ hậu cảnh --- khán giả, trọng tài, lưới tennis --- thiết lập một
-\'cửa sổ chú ý dạng đường hầm\' (tunnel attention). Sự tập trung được
+'cửa sổ chú ý dạng đường hầm' (tunnel attention). Sự tập trung được
 đẩy vào một điểm duy nhất, làm tăng độ tương phản màu sắc của bóng trên
 nền sân.
 
 **Giai đoạn 4 --- Quiet Eye tại điểm tiếp xúc (Contact Zone Fixation):**
 Đây là giai đoạn tối quan trọng, được coi là bí mật đằng sau sự ổn định
 của các tay vợt đẳng cấp thế giới. Ngay trước và trong khoảnh khắc vợt
-chạm bóng, mắt và đầu phải hoàn toàn \'đóng băng\' (frozen) tại vùng
+chạm bóng, mắt và đầu phải hoàn toàn 'đóng băng' (frozen) tại vùng
 tiếp xúc. Trạng thái Quiet Eye kéo dài tối thiểu 100-200 mili giây này
 ổn định hệ thống tiền đình, giảm rung chuyển động mắt (gaze jitter),
 giúp tiểu não tính toán chính xác timing và đồng bộ hóa chuỗi động học
@@ -152,34 +152,34 @@ các mẫu thần kinh (neural patterns) đã được rèn luyện sẵn. Dư�
 hệ thống cues thị giác hoàn chỉnh được sử dụng bởi các huấn luyện viên
 đỉnh cao.
 
-**\'See the Seams\' (Nhìn rõ rãnh xoáy):** Ép buộc hệ thống thần kinh
+**'See the Seams' (Nhìn rõ rãnh xoáy):** Ép buộc hệ thống thần kinh
 phải tập trung ở mức độ tối đa bằng cách cố gắng nhìn thấy các rãnh cao
 su hoặc logo đang xoay tròn trên trái bóng. Đây là một nhiệm vụ gần như
 bất khả thi về mặt vật lý --- chính vì vậy nó buộc mức độ tập trung phải
 được đẩy lên cao nhất có thể, nâng chất lượng khóa mục tiêu lên một tầm
 hoàn toàn mới.
 
-**\'Background Blur\' (Làm mờ hậu cảnh):** Một chỉ dẫn tâm lý ra lệnh
+**'Background Blur' (Làm mờ hậu cảnh):** Một chỉ dẫn tâm lý ra lệnh
 cho não bộ chủ động bỏ qua toàn bộ môi trường xung quanh, giảm căng
 thẳng hệ thần kinh trung ương và triệt tiêu các tác nhân gây xao nhãng
 thị giác. Đặc biệt hữu dụng tại các giải đấu lớn với khán đài ầm ĩ.
 
-**\'Freeze the Head\' (Đóng băng vùng đầu):** Giữ nguyên vị trí đầu cố
+**'Freeze the Head' (Đóng băng vùng đầu):** Giữ nguyên vị trí đầu cố
 định tại tọa độ chạm bóng lâu hơn bình thường một nhịp. Không chỉ bảo vệ
 hệ thống thị giác, cues này còn giữ vững trục thăng bằng cột sống và tối
 ưu lực truyền của toàn bộ kinetic chain.
 
-**\'Soft Eyes\' (Mắt lỏng):** Thả lỏng hoàn toàn cơ mặt và hàm trước khi
+**'Soft Eyes' (Mắt lỏng):** Thả lỏng hoàn toàn cơ mặt và hàm trước khi
 đối thủ giao bóng, duy trì sự linh hoạt của smooth pursuit --- chuyển
 động theo dõi mượt mà --- và tránh hiện tượng nhìn chằm chằm cứng nhắc
 làm giảm hiệu suất ngoại vi.
 
-**\'The 10cm Window\':** Giữ ánh nhìn cố định tại tọa độ bóng vừa chạm
+**'The 10cm Window':** Giữ ánh nhìn cố định tại tọa độ bóng vừa chạm
 vợt thêm một khoảng thời gian tương ứng với 10cm đầu tiên của đường bay
 sau contact, triệt tiêu hoàn toàn lỗi ngẩng đầu sớm --- một trong những
 lỗi kỹ thuật phổ biến nhất và gây hại nhất ở mọi trình độ.
 
-**\'Snapshot Contrast\' (Chụp ảnh tương phản):** Khi nheo mắt nhẹ, tập
+**'Snapshot Contrast' (Chụp ảnh tương phản):** Khi nheo mắt nhẹ, tập
 trung tuyệt đối vào màu vàng quang học (optic yellow) đặc trưng của bóng
 đối lập với màu nền sân. Kỹ thuật này ép sự chú ý vào tiêu điểm nhỏ,
 khiến vận động viên có cảm giác bóng di chuyển chậm lại --- hiện tượng
@@ -193,30 +193,30 @@ luyện tập có chủ đích và có cấu trúc. Các bài tập dưới đâ
 để huấn luyện từng giai đoạn trong chu kỳ 5 bước một cách độc lập, trước
 khi tích hợp vào thực chiến.
 
-**Bài tập 1 --- \'Soft-to-Hard Eye Switch\':** Đứng trước gương hoặc
+**Bài tập 1 --- 'Soft-to-Hard Eye Switch':** Đứng trước gương hoặc
 trên sân. Thả lỏng mắt hoàn toàn (Soft Eyes) trong 3 giây, sau đó đột
 ngột chuyển sang trạng thái tập trung tối đa vào một điểm cố định (Hard
 Eyes) trong 1 giây. Lặp lại 20 lần. Mục tiêu là rút ngắn thời gian
 chuyển đổi giữa hai trạng thái xuống dưới 0.3 giây --- tương đương với
 thời gian phản ứng thực chiến.
 
-**Bài tập 2 --- \'Ball Drop Focus\':** Đứng cách tường 1-2 mét. Thả bóng
+**Bài tập 2 --- 'Ball Drop Focus':** Đứng cách tường 1-2 mét. Thả bóng
 từ độ cao tầm mắt và cố gắng nhìn thấy logo bóng trong toàn bộ hành
 trình rơi xuống đất và nảy lên. Tăng độ khó bằng cách thả bóng từ cao
 hơn hoặc sử dụng bóng có màu khác nhau.
 
-**Bài tập 3 --- \'Quiet Eye Holding\':** Giao bóng nhẹ hoặc drop feed.
-Sau khi vợt chạm bóng, đếm thầm \'một-hai\' trước khi được phép nhìn lên
+**Bài tập 3 --- 'Quiet Eye Holding':** Giao bóng nhẹ hoặc drop feed.
+Sau khi vợt chạm bóng, đếm thầm 'một-hai' trước khi được phép nhìn lên
 theo dõi quỹ đạo bay. Bài tập này trực tiếp rèn luyện giai đoạn 4 ---
 duy trì Quiet Eye sau contact.
 
-**Bài tập 4 --- \'Peripheral Read Drill\':** Đứng ở vị trí baseline, cố
+**Bài tập 4 --- 'Peripheral Read Drill':** Đứng ở vị trí baseline, cố
 gắng đọc tay vợt và hướng chuyển động của người đồng luyện mà không nhìn
 thẳng vào bóng. Mục tiêu là phát triển khả năng đọc thông tin từ cạnh
 thị trường (periphery) trong khi duy trì sự tĩnh lặng của ánh nhìn trung
 tâm.
 
-**Bài tập 5 --- \'Reaction Ball Training\':** Sử dụng bóng phản xạ dạng
+**Bài tập 5 --- 'Reaction Ball Training':** Sử dụng bóng phản xạ dạng
 bát diện (reaction ball) --- loại bóng nảy theo hướng ngẫu nhiên. Ném
 bóng vào tường và theo dõi nó sau mỗi lần nảy. Bài tập này rèn luyện tốc
 độ chuyển đổi gaze và khả năng đọc quỹ đạo trong thời gian cực ngắn.
@@ -226,12 +226,12 @@ bóng vào tường và theo dõi nó sau mỗi lần nảy. Bài tập này rè
 Một trong những thách thức lớn nhất của hệ thống thị giác là duy trì
 hiệu suất khi áp lực tâm lý tăng cao. Khi cơ thể kích hoạt phản ứng
 chiến-hay-chạy (fight-or-flight), tầm nhìn ngoại vi bị thu hẹp đột ngột
---- một hiện tượng gọi là \'tunnel vision bệnh lý\' hay \'tầm nhìn đường
-hầm do căng thẳng\'. Đây là lý do tại sao nhiều vận động viên đột ngột
+--- một hiện tượng gọi là 'tunnel vision bệnh lý' hay 'tầm nhìn đường
+hầm do căng thẳng'. Đây là lý do tại sao nhiều vận động viên đột ngột
 đánh kém hơn ở những điểm quan trọng, dù kỹ thuật của họ hoàn toàn ổn
 định trong luyện tập.
 
-Giải pháp không phải là cố gắng \'thư giãn\' --- một lời khuyên vô nghĩa
+Giải pháp không phải là cố gắng 'thư giãn' --- một lời khuyên vô nghĩa
 trong bối cảnh áp lực cao. Giải pháp là sử dụng hơi thở như một công cụ
 điều tiết hệ thần kinh tự chủ. Trước mỗi điểm quan trọng, thực hiện một
 chu kỳ hít thở kéo dài (hít vào 4 giây, giữ 2 giây, thở ra 6 giây) sẽ
@@ -240,7 +240,7 @@ và khôi phục chức năng thị giác đầy đủ trong vòng 10-15 giây.
 
 Thêm vào đó, phát triển một cue thị giác cố định trước khi bắt đầu mỗi
 điểm --- ví dụ như nhìn vào dây vợt trong 2 giây trước khi tung bóng
-hoặc trước khi split step --- giúp não bộ \'reset\' toàn bộ hệ thống thị
+hoặc trước khi split step --- giúp não bộ 'reset' toàn bộ hệ thống thị
 giác về trạng thái tối ưu, bất kể áp lực của điểm đó lớn đến mức nào.
 
 **7. Phân tích thị giác của các huyền thoại tennis**
@@ -250,7 +250,7 @@ Nghiên cứu hình ảnh tốc độ cao (high-speed video analysis) về chuy�
 đặc trưng và nhất quán đáng kinh ngạc. Federer bắt đầu phase Quiet Eye
 sớm hơn trung bình 80-100 mili giây so với các tay vợt trung bình, và
 duy trì trạng thái này lâu hơn đáng kể sau điểm contact. Điều này giải
-thích tại sao các cú đánh của ông có vẻ \'sạch\' và \'chắc\' hơn bất kỳ
+thích tại sao các cú đánh của ông có vẻ 'sạch' và 'chắc' hơn bất kỳ
 ai khác --- không phải vì tay ông mạnh hơn, mà vì hệ thống thị giác của
 ông cho phép tiểu não tính toán timing chính xác hơn.
 
@@ -323,9 +323,9 @@ hướng lên trên tốc độ bóng, kéo dài cửa sổ thời gian xử lý
 Điểm then chốt trong việc kiểm soát thời gian của Federer là tính bất
 đối xứng trong cách ông phân phối ba chế độ này. Djokovic sẽ luôn chờ
 ông chuyển về Early Timing và chuẩn bị cho đó. Federer phản lại bằng
-cách thỉnh thoảng chủ động Late Timing một cú bóng \'dễ\' để phá vỡ kỳ
+cách thỉnh thoảng chủ động Late Timing một cú bóng 'dễ' để phá vỡ kỳ
 vọng --- sau đó tấn công bằng Early Timing vào cú ngay tiếp theo khi
-Djokovic vừa \'thở ra\'.
+Djokovic vừa 'thở ra'.
 
   ------------------------------------------------------------------------
   **Chế độ        **Điều kiện kích  **Cơ chế cốt lõi**  **Hiệu ứng chiến
@@ -428,16 +428,16 @@ Ba thay đổi đồng thời trong một cú đánh. Đối thủ, dù có ph�
 đâu, sẽ không có đủ thời gian để xử lý tất cả thông tin này trong vòng
 0.2-0.3 giây.
 
-Ngược lại, khi Federer muốn tạo \'cái bẫy\' thả lỏng đối thủ, ông sẽ cố
+Ngược lại, khi Federer muốn tạo 'cái bẫy' thả lỏng đối thủ, ông sẽ cố
 tình duy trì cả ba biến số trong trạng thái quen thuộc trong 5-7 cú liên
-tiếp --- để đối thủ bắt đầu \'cảm thấy nhịp\' --- rồi mới thay đổi đột
+tiếp --- để đối thủ bắt đầu 'cảm thấy nhịp' --- rồi mới thay đổi đột
 ngột. Đây không phải là may rủi. Đây là tư duy chiến thuật bậc thầy.
 
 **6. Bài học ứng dụng cho vận động viên câu lạc bộ**
 
 Việc học hệ thống ba biến số của Federer không có nghĩa là bắt chước
 từng chi tiết kỹ thuật của ông. Điều quan trọng hơn là thấm nhuần triết
-lý không đóng băng --- không bao giờ để đối thủ \'đọc\' được nhịp của
+lý không đóng băng --- không bao giờ để đối thủ 'đọc' được nhịp của
 bạn quá dễ dàng.
 
 Bước 1 trong ứng dụng thực tế: Tập trung vào một biến số duy nhất trong
@@ -446,9 +446,9 @@ và Late Timing --- không quan tâm đến kết quả điểm. Sau khi thành 
 thêm Biến số 2 (chiều cao) vào cùng một bài tập. Chỉ khi cả hai biến số
 đã trở thành phản xạ tự động mới thêm Biến số 3 (vị trí sân).
 
-Bước 2: Phát triển \'vocabulary\' chiến thuật cá nhân --- một bộ 4-5
+Bước 2: Phát triển 'vocabulary' chiến thuật cá nhân --- một bộ 4-5
 kịch bản kết hợp ba biến số mà bạn đã thành thục và tự tin thực hiện
-dưới áp lực. Đây sẽ là \'chữ ký\' chiến thuật của riêng bạn, không phải
+dưới áp lực. Đây sẽ là 'chữ ký' chiến thuật của riêng bạn, không phải
 bản sao của Federer.
 
 **CHƯƠNG III**
@@ -504,7 +504,7 @@ của toàn bộ hệ thống. Kua đóng vai trò là động cơ khởi phát 
 đổi toàn bộ lực dọc thu nhận từ mặt đất thành mô-men xoắn quay truyền
 lên thân trên. Khi thực hiện động tác trùng chân (Leg drive), vận động
 viên không đạp thẳng bằng cơ đùi trước vì sẽ đẩy trọng tâm ra trước quá
-sớm gây mất thăng bằng. Kỹ thuật chuẩn xác yêu cầu \'ngồi\' nhẹ vào nếp
+sớm gây mất thăng bằng. Kỹ thuật chuẩn xác yêu cầu 'ngồi' nhẹ vào nếp
 gấp bẹn --- Tọa Kua. Trạng thái này kích hoạt toàn bộ chuỗi cơ sau
 (Posterior Chain) gồm cơ mông và cơ đùi sau, biến Kua thành một lò xo cơ
 học cực mạnh.
@@ -513,7 +513,7 @@ học cực mạnh.
 thắt lưng dưới, tương ứng với trục đốt sống thắt lưng L2-L3 và vùng màng
 gân Thoracolumbar fascia. Đây không phải là nguồn phát lực chính mà là
 trung trạm hấp thụ và chuyển hóa lực xoắn chéo liên chi. Khi Mingmen
-\'sống\' (không bị võng cột sống), vùng thắt lưng được giữ phẳng và dài,
+'sống' (không bị võng cột sống), vùng thắt lưng được giữ phẳng và dài,
 biến màng gân Thoracolumbar fascia thành một cánh cung gỗ đàn hồi, đảm
 bảo chuỗi lực từ chân trái xuyên chéo qua lõi cơ thể vọt lên vai phải
 một cách trơn tru.
@@ -534,12 +534,12 @@ Kua xứng đáng được nghiên cứu kỹ lưỡng hơn bất kỳ bộ ph�
 chuỗi động học, vì đây là nơi hầu hết năng lượng được tạo ra, và cũng là
 nơi hầu hết năng lượng bị thất thoát khi kỹ thuật không chuẩn.
 
-Khái niệm \'Tọa Kua\' --- nghĩa đen là \'ngồi trên hông\' --- là ranh
+Khái niệm 'Tọa Kua' --- nghĩa đen là 'ngồi trên hông' --- là ranh
 giới phân biệt giữa người chơi phong trào và tay vợt chuyên nghiệp. Về
 mặt giải phẫu, Tọa Kua đòi hỏi gập nhẹ khớp háng trong khi giữ cột sống
 thẳng, tạo ra nếp gấp ở vùng bẹn. Trạng thái này kích hoạt các cơ mông
 lớn (gluteus maximus), cơ đùi sau (hamstrings) và cơ mà các nhà giải
-phẫu gọi là \'cơ con cơ thể\' (deep hip rotators). Khi các cơ này co
+phẫu gọi là 'cơ con cơ thể' (deep hip rotators). Khi các cơ này co
 đồng thời trong một cấu trúc nếp gấp, chúng tạo ra lực xoắn khổng lồ ---
 lực mà sau đó được giải phóng lên thân trên qua chuỗi xoắn ốc.
 
@@ -551,29 +551,29 @@ thương nghiêm trọng cho sụn chêm và dây chằng.
 
 **4. Vận hành Mingmen --- Thắt lưng như một cung đàn hồi**
 
-Mingmen --- trong y học cổ truyền phương Đông nghĩa là \'cổng mệnh\' ---
+Mingmen --- trong y học cổ truyền phương Đông nghĩa là 'cổng mệnh' ---
 là khái niệm chỉ vùng thắt lưng dưới với vai trò là trung tâm sống lực
 của cơ thể. Trong bối cảnh cơ sinh học hiện đại, Mingmen tương ứng với
 hệ thống màng gân Thoracolumbar fascia --- một tấm màng kết nối các cơ
 thắt lưng, hông và cột sống.
 
-**Mingmen \'Chết\' (Khóa chuỗi lực):** Xảy ra khi vận động viên ưỡn lưng
+**Mingmen 'Chết' (Khóa chuỗi lực):** Xảy ra khi vận động viên ưỡn lưng
 quá mức (hyperextension), siết chặt cơ mông và đẩy ngực ra trước quá
 sớm. Trạng thái này khóa cứng vùng thắt lưng, khiến lực từ chân bị chặn
 đứng tại đây, buộc vai và cánh tay phải tự gồng tạo lực cục bộ. Hậu quả
 là đau lưng dưới mãn tính, rách cơ vai và bóng đánh yếu dù cơ bắp tay
 to.
 
-**Mingmen \'Sống\' (Dẫn truyền liên tục):** Vùng thắt lưng được giữ
+**Mingmen 'Sống' (Dẫn truyền liên tục):** Vùng thắt lưng được giữ
 phẳng và dài, không bị võng cột sống, trong suốt chu trình trophy
 position cho đến impact. Trạng thái này biến Thoracolumbar fascia thành
 một cánh cung đàn hồi, đảm bảo chuỗi lực từ chân truyền lên vai liên tục
 không bị đứt đoạn.
 
 Cách kiểm tra đơn giản: sau một buổi tập serve cường độ cao, nếu vùng
-thắt lưng không có cảm giác mỏi nhức mà cảm thấy \'ấm\' và \'linh
-hoạt\', đó là dấu hiệu Mingmen đang hoạt động đúng. Nếu lưng dưới đau
-nhức, đó là dấu hiệu rõ ràng của Mingmen \'chết\'.
+thắt lưng không có cảm giác mỏi nhức mà cảm thấy 'ấm' và 'linh
+hoạt', đó là dấu hiệu Mingmen đang hoạt động đúng. Nếu lưng dưới đau
+nhức, đó là dấu hiệu rõ ràng của Mingmen 'chết'.
 
 **5. Bí mật của X-Factor Stretch và cơ chế Coiling**
 
@@ -587,7 +587,7 @@ thuần.
 
 Quan trọng là hiểu rằng Coiling không phải là hành động xoay vai ra sau
 một cách thuần túy và chủ động. Đó là quá trình nén xoắn dựa trên độ
-lệch góc hữu cơ giữa hông và vai. Khi thực hành, không cố \'kéo\' vai ra
+lệch góc hữu cơ giữa hông và vai. Khi thực hành, không cố 'kéo' vai ra
 sau mà để hông xoay trước, tự nhiên tạo ra lực kéo làm vai theo sau ở
 một nhịp trễ.
 
@@ -596,7 +596,7 @@ một nhịp trễ.
 Một trong những bí mật ít được nói đến nhất trong phân tích kỹ thuật
 forehand và serve là vai trò quyết định của vai trái và tay trái đối với
 vận động viên thuận tay phải. Chúng không ở trạng thái tĩnh bất động ---
-chúng là \'bộ neo giữ\' và điều phối toàn bộ sóng xoắn.
+chúng là 'bộ neo giữ' và điều phối toàn bộ sóng xoắn.
 
 **Trong pha nạp lực (Coil):** Vai trái chủ động hạ thấp xuống tạo độ
 nghiêng trục thân (lateral loading). Tay trái mở rộng tối đa ra phía
@@ -628,9 +628,9 @@ tốc độ tăng dần theo chiều nghịch của khối lượng. Đầu vợ
 hiệu ứng Whip được khuếch đại qua từng mắt xích của chuỗi.
 
 Sai lầm phổ biến nhất cản trở hiệu ứng Whip là gồng cứng cổ tay và cẳng
-tay để \'chắc\' cú đánh. Hành động này chặn đứng dòng lực, biến cổ tay
+tay để 'chắc' cú đánh. Hành động này chặn đứng dòng lực, biến cổ tay
 từ một điểm khuếch đại thành một điểm chặn. Thả lỏng hoàn toàn cổ tay
---- để đầu vợt \'tụt lại\' phía sau trong pha cuối của swing --- chính
+--- để đầu vợt 'tụt lại' phía sau trong pha cuối của swing --- chính
 là hành động mang lại tốc độ bóng thực sự, không phải việc dùng sức mạnh
 cơ bắp.
 
@@ -693,8 +693,8 @@ hông xoay phát sóng → Vai bật. Đồng bộ hơi thở hít vào bằng m
 xuống Đan điền khi nạp và thở ra nhẹ khi xoay.
 
 **Full Serve với Video Analysis (15 phút):** Vận động viên thực hiện các
-cú serve tự do với lời nhắc tập trung duy nhất là \'Tọa Kua - Mở
-Mingmen\'. Sử dụng phân tích video trực tiếp tại sân để kiểm tra độ
+cú serve tự do với lời nhắc tập trung duy nhất là 'Tọa Kua - Mở
+Mingmen'. Sử dụng phân tích video trực tiếp tại sân để kiểm tra độ
 phẳng của thắt lưng trong pha loading.
 
 **3. Buổi 2 --- Chuỗi xoắn đàn hồi và Roi mềm (Spiral Flow & The Whip
@@ -728,7 +728,7 @@ Kua mở đường.
 cầm một chiếc khăn tắm dài được nút một đầu. Thực hiện chu trình serve
 chậm. Khi Kua và Mingmen xoay nổ ra trước, cánh tay phải hoàn toàn thả
 lỏng trễ lại phía sau (Lag). Khi chuỗi xoắn đạt giới hạn kéo giãn, chiếc
-khăn sẽ tự động quất bùng nổ ra trước, tạo tiếng \'vút\' xé gió đanh
+khăn sẽ tự động quất bùng nổ ra trước, tạo tiếng 'vút' xé gió đanh
 gọn.
 
 **Giải phóng kình lực 2 --- Inside-Out Pronation (15 phút):** Thực hiện
@@ -844,7 +844,7 @@ chính xác nguồn gốc vấn đề.
                 bật             kết nối hông        
 
   TRỤC TRUNG    Vận động viên   Mingmen bị          \"Làm phẳng thắt lưng
-  TÂM --- Kua & mỏi nhức hoặc   \'chết\': võng lưng dưới!\" / \"Giữ vùng
+  TÂM --- Kua & mỏi nhức hoặc   'chết': võng lưng dưới!\" / \"Giữ vùng
   Mingmen       đau nhói vùng   hoặc ưỡn cột sống   Mingmen dài và đàn
                 lưng dưới sau   quá mức làm bẻ gãy  hồi!\"
                 buổi tập        chuỗi truyền lực    
@@ -856,7 +856,7 @@ chính xác nguồn gốc vấn đề.
                 lại)                                
 
   GIẢI PHÓNG    Bóng đi thiếu   Đánh hoàn toàn bằng \"Thả lỏng cánh tay, để
-  LỰC ---       độ \'nặng\' dù  cơ bắp tay cục bộ;  vợt tụt lại tạo độ trễ
+  LỰC ---       độ 'nặng' dù  cơ bắp tay cục bộ;  vợt tụt lại tạo độ trễ
   Spiral & Whip vận động viên   thiếu trạng thái    (Lag) tự nhiên!\"
   Chain         dùng rất nhiều  nạp xoắn chéo       
                 sức             Spiral Preload      
@@ -939,9 +939,9 @@ chính xác nguồn gốc vấn đề.
 Một cue tốt thỏa mãn năm tiêu chí: ngắn gọn (dưới 5 từ hoặc một câu),
 hướng về hành động (không hướng về lỗi), kích hoạt cảm giác cơ thể
 (không phải hình ảnh kỹ thuật trừu tượng), có thể thực hiện ngay lập tức
-và dễ nhớ dưới áp lực. Ví dụ về cue tốt: \'Bám gót --- Tọa Kua --- Thả
-cổ tay\'. Ví dụ về cue kém: \'Anh cần phải xoay hông nhiều hơn và giữ cổ
-tay lỏng lẻo hơn đồng thời đừng nhìn bóng quá sớm.\'
+và dễ nhớ dưới áp lực. Ví dụ về cue tốt: 'Bám gót --- Tọa Kua --- Thả
+cổ tay'. Ví dụ về cue kém: 'Anh cần phải xoay hông nhiều hơn và giữ cổ
+tay lỏng lẻo hơn đồng thời đừng nhìn bóng quá sớm.'
 
 Trong thực chiến, huấn luyện viên nên chọn một cue duy nhất cho mỗi giai
 đoạn tập luyện và lặp lại nó nhất quán trong suốt phần đó. Thay đổi cue
@@ -965,7 +965,7 @@ thúc qua vai. Sự thay đổi này không phải ngẫu nhiên --- nó là s�
 thuật baseline nhiều hơn.
 
 Tuy nhiên, điều quan trọng nhất cần hiểu là không có một kiểu grip hay
-swing path \'tốt nhất\' nào áp dụng cho tất cả mọi người. Federer với
+swing path 'tốt nhất' nào áp dụng cho tất cả mọi người. Federer với
 Semi-Western grip tạo ra forehand với ít topspin hơn Nadal nhưng phẳng
 hơn, sắc hơn và dễ kiểm soát điểm rơi hơn. Djokovic với kỹ thuật hai tay
 backhand có thể return bóng từ tầm cao mà không mất kiểm soát. Rafael
@@ -991,7 +991,7 @@ không phải đầu vợt. Đây là cơ chế tạo ra X-factor stretch cho fo
 **Swing Path và Brushing:** Swing path tối ưu cho forehand topspin đi
 theo đường cong từ 7 giờ (phía dưới và sau bóng) lên 1 giờ (phía trên và
 trước bóng), không phải từ sau ra trước theo đường ngang. Chuyển động
-\'chải\' (brushing) lên mặt bóng này tạo ra topspin. Mức độ brushing
+'chải' (brushing) lên mặt bóng này tạo ra topspin. Mức độ brushing
 quyết định lượng xoáy: brushing nhiều = heavy topspin; brushing ít =
 flat drive.
 
@@ -1015,14 +1015,14 @@ dễ kiểm soát bóng tầm cao, phòng thủ vững chắc hơn và return m�
 Nhược điểm là tầm với bị giới hạn hơn và cú slice thực hiện khó hơn.
 
 **Backhand Một tay (One-Handed Backhand):** Được Federer, Wawrinka,
-Gasquet và thế hệ \'gạo cội\' ưa chuộng. Ưu điểm là tầm với xa hơn, cú
+Gasquet và thế hệ 'gạo cội' ưa chuộng. Ưu điểm là tầm với xa hơn, cú
 tấn công khi bóng đến ngắn và thấp dễ dàng hơn, và cú slice linh hoạt
 hơn nhiều. Nhược điểm là khó xử lý bóng topspin nặng đến tầm cao vai ---
 điểm yếu mà Nadal và Djokovic khai thác tối đa khi đối đầu với Federer.
 
 **Cơ học backhand một tay:** Vai trái dẫn đường trong suốt backswing,
 tạo coil. Khuỷu tay phải gần với thân trong pha đầu của swing. Cổ tay
-giữ vững nhưng không gồng cứng --- \'laid back\' cho đến khi tiếp xúc
+giữ vững nhưng không gồng cứng --- 'laid back' cho đến khi tiếp xúc
 bóng. Sau contact, cánh tay duỗi thẳng qua bóng và follow through lên
 cao với bả vai trái chỉ thẳng về phía sân đối thủ.
 
@@ -1055,7 +1055,7 @@ bóng mà đối thủ phải chạy hơn 3-4 bước ngoài đường biên m�
 công. Nhiều điểm được thắng bởi sự kiên nhẫn --- đánh bóng sâu, ổn định,
 vào 70% diện tích sân an toàn nhất (không gần biên, không quá gần lưới)
 cho đến khi đối thủ mắc lỗi hoặc tạo ra cơ hội tấn công thực sự. Hiểu
-được khi nào cần \'play safe\' và khi nào cần \'go for it\' là dấu hiệu
+được khi nào cần 'play safe' và khi nào cần 'go for it' là dấu hiệu
 của một tay vợt trưởng thành về mặt chiến thuật.
 
 **5. Điều chỉnh groundstroke theo mặt sân**
@@ -1088,8 +1088,8 @@ của một tay vợt trưởng thành về mặt chiến thuật.
 
 **1. Tennis là trò chơi hình học**
 
-Hầu hết các cuộc trò chuyện về chiến thuật tennis đều xoay quanh \'đánh
-vào đâu\' --- góc T, góc rộng, vào người. Nhưng đây chỉ là tầng nổi của
+Hầu hết các cuộc trò chuyện về chiến thuật tennis đều xoay quanh 'đánh
+vào đâu' --- góc T, góc rộng, vào người. Nhưng đây chỉ là tầng nổi của
 một hệ thống tư duy phức tạp hơn nhiều. Tennis ở trình độ cao là một trò
 chơi hình học và xác suất: bạn cố gắng di chuyển đối thủ ra khỏi vị trí
 tối ưu, tạo ra các góc tấn công cực đoan cho chính mình, đồng thời duy
@@ -1114,14 +1114,14 @@ sân đối thủ, kéo họ ra ngoài đường biên. Từ vị trí đó, đ�
 lựa chọn chính: đánh crosscourt trả lại góc wide của bạn, hoặc đánh
 down-the-line vào đường biên phía bên kia. Thay vì chạy về giữa sân, bạn
 di chuyển về phía góc đó vừa một bước, đứng tại điểm bisect --- cách đều
-cả hai phương án. Đây là lý do các tay vợt đỉnh cao luôn có vẻ \'ở đúng
-chỗ\' dù đối thủ đánh đâu.
+cả hai phương án. Đây là lý do các tay vợt đỉnh cao luôn có vẻ 'ở đúng
+chỗ' dù đối thủ đánh đâu.
 
 **3. Kiến trúc rally: Mở góc và khai thác**
 
 Một rally có cấu trúc chiến thuật rõ ràng, không phải là chuỗi cú đánh
-ngẫu nhiên. Các tay vợt đỉnh cao tư duy rally theo mô hình \'thiết lập
---- khai thác\':
+ngẫu nhiên. Các tay vợt đỉnh cao tư duy rally theo mô hình 'thiết lập
+--- khai thác':
 
 **Pha thiết lập (Setup Phase --- 3-5 cú đầu):** Mục tiêu là di chuyển
 đối thủ ra khỏi trục trung tâm, buộc họ phải trả lời từ các góc khó hoặc
@@ -1135,8 +1135,8 @@ hoặc không đủ góc. Đây là thời điểm khai thác: tiến vào trong
 bóng sớm và tấn công vào góc mở với lực tối đa.
 
 **Pha kết thúc (Finishing Phase):** Không phải tất cả cú tấn công đều
-kết thúc ngay. Đôi khi cần thêm một cú \'setup\' tấn công trước khi có
-cú kết thúc thực sự. Biết khi nào đã đủ \'mở\' để kết thúc và khi nào
+kết thúc ngay. Đôi khi cần thêm một cú 'setup' tấn công trước khi có
+cú kết thúc thực sự. Biết khi nào đã đủ 'mở' để kết thúc và khi nào
 cần thêm một cú nữa là sự khác biệt giữa tay vợt liều lĩnh và tay vợt
 thông minh.
 
@@ -1145,7 +1145,7 @@ thông minh.
 **Pattern 1 --- Crosscourt Control đến Down-the-Line Attack:** Đây là
 mẫu chiến thuật cơ bản và hiệu quả nhất trong tennis. Duy trì crosscourt
 2-3 cú để thiết lập rhythm và kiểm soát sân, sau đó chuyển đột ngột sang
-down-the-line khi đối thủ bắt đầu \'chống\' theo góc crosscourt. Hiệu
+down-the-line khi đối thủ bắt đầu 'chống' theo góc crosscourt. Hiệu
 quả vì không có cách nào phòng thủ hoàn hảo trước cả hai hướng cùng lúc.
 
 **Pattern 2 --- Wide Out, Short Cross:** Đánh bóng ra góc wide của sân
@@ -1167,7 +1167,7 @@ kiện để kết thúc điểm.
 **5. Bản đồ chiến thuật: Phân tích và khai thác điểm yếu đối thủ**
 
 Một kỹ năng tách biệt tay vợt 4.0 và tay vợt 5.0+ là khả năng xây dựng
-\'bản đồ chiến thuật\' về đối thủ trong vài game đầu của trận đấu. Bản
+'bản đồ chiến thuật' về đối thủ trong vài game đầu của trận đấu. Bản
 đồ này bao gồm những thông tin quan trọng như:
 
 Về vị trí ưa thích: Đối thủ thích đứng ở đâu trên sân? Sát baseline hay
@@ -1180,7 +1180,7 @@ thông tin để quyết định hướng tấn công ưu tiên.
 
 Về phong cách cú đánh: Đối thủ có xu hướng đánh crosscourt liên tục
 không? Hay họ hay chuyển down-the-line sớm? Biết được pattern ưa thích
-cho phép bạn di chuyển trước và \'đón\' bóng.
+cho phép bạn di chuyển trước và 'đón' bóng.
 
 Về điểm áp lực: Đối thủ phản ứng thế nào ở điểm quan trọng (30-40,
 deuce, break point)? Có xu hướng chơi an toàn hơn hay đánh liều hơn?
@@ -1214,8 +1214,8 @@ cao*
 
 **1. Tại sao tâm lý là kỹ năng --- không phải tính cách**
 
-\'Cậu ta bình tĩnh tự nhiên\' hay \'Cô ấy sinh ra đã có đầu óc của người
-chiến thắng\' --- đây là những câu nói chúng ta thường nghe khi bàn về
+'Cậu ta bình tĩnh tự nhiên' hay 'Cô ấy sinh ra đã có đầu óc của người
+chiến thắng' --- đây là những câu nói chúng ta thường nghe khi bàn về
 tâm lý thi đấu trong tennis. Quan niệm này sai lầm một cách nghiêm trọng
 và gây hại cho sự phát triển của hàng triệu vận động viên, vì nó ngụ ý
 rằng tâm lý tốt là bẩm sinh và không thể học được.
@@ -1240,13 +1240,13 @@ suy giảm đáng kể hiệu suất thể thao nếu không được quản lý
 giống hệt nhau về mặt hóa học. Sự khác biệt duy nhất nằm ở cách não bộ
 giải thích (label) trạng thái đó. Các vận động viên đỉnh cao được huấn
 luyện để tái diễn giải (reappraise) trạng thái kích thích cao này là dấu
-hiệu của sự sẵn sàng --- \'Tôi đang được chuẩn bị để thi đấu tốt nhất\'
---- thay vì \'Tôi đang lo lắng và sắp đánh kém\'. Thay đổi này, dù nghe
+hiệu của sự sẵn sàng --- 'Tôi đang được chuẩn bị để thi đấu tốt nhất'
+--- thay vì 'Tôi đang lo lắng và sắp đánh kém'. Thay đổi này, dù nghe
 có vẻ đơn giản, tạo ra sự khác biệt đo lường được trong hiệu suất.
 
 **3. Khoảnh khắc hiện tại: Vũ khí tối thượng**
 
-Triết lý \'one point at a time\' --- một điểm một lúc --- đã trở thành
+Triết lý 'one point at a time' --- một điểm một lúc --- đã trở thành
 câu nói cliché trong tennis, nhưng ít người hiểu thực sự cơ chế hoạt
 động của nó. Khi vận động viên đang trong trạng thái lo lắng về tỷ số,
 về những lỗi đã qua hoặc về khả năng thắng thua, não bộ đang xử lý thông
@@ -1257,15 +1257,15 @@ Khoảnh khắc hiện tại không phải là khái niệm triết học mơ h�
 một chiến lược thần kinh học cụ thể. Bằng cách tập trung toàn bộ sự chú
 ý vào một yếu tố cảm giác cụ thể trong thực tại --- như cảm giác của dây
 vợt trong tay, âm thanh của bóng chạm vợt, hoặc nhịp thở hiện tại ---
-bạn buộc não bộ \'reset\' khỏi vòng lặp lo lắng và quay về trạng thái xử
+bạn buộc não bộ 'reset' khỏi vòng lặp lo lắng và quay về trạng thái xử
 lý tối ưu.
 
-**Kỹ thuật \'anchor to the present\':** Trước khi bắt đầu mỗi điểm, chọn
-một trong những hành động sau như một \'mỏ neo\' đưa bạn về hiện tại:
+**Kỹ thuật 'anchor to the present':** Trước khi bắt đầu mỗi điểm, chọn
+một trong những hành động sau như một 'mỏ neo' đưa bạn về hiện tại:
 kiểm tra dây vợt bằng ngón tay (kích hoạt xúc giác), hít thở sâu một lần
 và chú ý đến luồng không khí vào phổi (kích hoạt hệ phó giao cảm), hoặc
 nhìn vào logo bóng trong 2 giây (kích hoạt hệ thị giác tập trung). Mỗi
-action này chỉ mất 2-3 giây nhưng tạo ra \'break\' đủ lâu để hệ thần
+action này chỉ mất 2-3 giây nhưng tạo ra 'break' đủ lâu để hệ thần
 kinh giao cảm trở về mức tối ưu.
 
 **4. Quản lý sai lầm: Quy trình 3 bước**
@@ -1276,10 +1276,10 @@ phong trào đến đỉnh cao --- đều mắc lỗi. Sự khác biệt không 
 ít mắc lỗi hơn mà là ai phục hồi tốt hơn và nhanh hơn.
 
 **Bước 1 --- Thừa nhận (Acknowledge --- 2-3 giây):** Cho phép bản thân
-cảm thấy thất vọng. Đừng ép bản thân phải \'tích cực\' ngay lập tức ---
+cảm thấy thất vọng. Đừng ép bản thân phải 'tích cực' ngay lập tức ---
 đó là phi thực tế và phản tác dụng. Thừa nhận cảm xúc bằng một hành động
-vật lý ngắn: đập nhẹ vợt vào lòng bàn tay, gõ nhẹ đùi, hoặc ra hiệu \'ôi
-thôi\' với cái lắc đầu nhẹ. Hành động này tạo ra điểm kết thúc tâm lý rõ
+vật lý ngắn: đập nhẹ vợt vào lòng bàn tay, gõ nhẹ đùi, hoặc ra hiệu 'ôi
+thôi' với cái lắc đầu nhẹ. Hành động này tạo ra điểm kết thúc tâm lý rõ
 ràng cho cú đánh hỏng.
 
 **Bước 2 --- Reset (Phục hồi --- 3-5 giây):** Thực hiện một trong các
@@ -1290,8 +1290,8 @@ sau trận đấu, không phải trong trận đấu.
 
 **Bước 3 --- Refocus (Tái tập trung --- trước khi điểm tiếp theo bắt
 đầu):** Chọn một cue ngắn gọn về những gì bạn muốn làm trong điểm tiếp
-theo --- không phải những gì bạn không muốn làm. \'Sâu và mạnh vào T\'
-thay vì \'Đừng đánh lỗi lần nữa\'. Não bộ xử lý thông tin dạng hành động
+theo --- không phải những gì bạn không muốn làm. 'Sâu và mạnh vào T'
+thay vì 'Đừng đánh lỗi lần nữa'. Não bộ xử lý thông tin dạng hành động
 tích cực tốt hơn thông tin dạng phủ định.
 
 **5. Xây dựng nghi lễ trước điểm (Pre-Point Routine)**
@@ -1314,7 +1314,7 @@ trước MỌI điểm --- cả khi nhận bóng. Sự nhất quán là chìa kh
 
 **6. Flow State --- Trạng thái đỉnh cao**
 
-Flow state --- hay \'zone\' trong tiếng Anh thể thao --- là trạng thái
+Flow state --- hay 'zone' trong tiếng Anh thể thao --- là trạng thái
 tâm lý tối ưu mà Mihaly Csikszentmihalyi mô tả là sự hợp nhất hoàn toàn
 giữa ý thức và hành động. Trong tennis, đây là khoảnh khắc mà mọi cú
 đánh dường như đến một cách tự nhiên, không cần suy nghĩ, tỷ số không
@@ -1415,7 +1415,7 @@ Kua đúng kỹ thuật.
 
   Đau lưng dưới    Serve với        Kỹ thuật Mingmen    Nghỉ ngơi; ice hoặc
   (Low Back Pain)  Mingmen          đúng; tập core      heat; core rehab;
-                   \'chết\';        stability; warm-up  kiểm tra kỹ thuật
+                   'chết';        stability; warm-up  kiểm tra kỹ thuật
                    hyperextension   lưng trước tập      serve
                    quá mức; thiếu                       
                    core stability                       
@@ -1516,7 +1516,7 @@ thể phát triển nhanh hơn đáng kể.
 
 **3. Nguyên tắc tập luyện có chủ đích (Deliberate Practice)**
 
-Khái niệm \'deliberate practice\' do nhà tâm lý học K. Anders Ericsson
+Khái niệm 'deliberate practice' do nhà tâm lý học K. Anders Ericsson
 phát triển là nền tảng của mọi sự phát triển kỹ năng hiệu quả.
 Deliberate practice không phải là đơn giản chơi tennis nhiều hơn --- đó
 là một hình thức luyện tập cụ thể có bốn đặc điểm: mục tiêu rõ ràng và
@@ -1537,7 +1537,7 @@ Vận động viên chuyên nghiệp và bán chuyên nghiệp tổ chức lịc
 chu kỳ (periodization) để đảm bảo tiến bộ liên tục, tránh overtraining
 và đạt đỉnh phong độ đúng thời điểm thi đấu quan trọng. Ngay cả với vận
 động viên câu lạc bộ, một mức độ periodization đơn giản sẽ tạo ra kết
-quả tốt hơn nhiều so với tập luyện \'mọi thứ như nhau\' quanh năm.
+quả tốt hơn nhiều so với tập luyện 'mọi thứ như nhau' quanh năm.
 
 **Chu kỳ cơ bản 4 giai đoạn:** Giai đoạn 1 (off-season, 4-6 tuần): Tập
 trung vào thể lực nền tảng và kỹ thuật riêng lẻ --- không cần kết quả
@@ -1572,7 +1572,7 @@ mindset vì nó cung cấp phản hồi tức thì về từng quyết định v
 Trong thực hành, growth mindset trong tennis có nghĩa là: coi mỗi cú
 đánh hỏng là thông tin, không phải thất bại; tìm kiếm đối thủ mạnh hơn
 để học hỏi thay vì chỉ tìm đối thủ yếu hơn để chiến thắng; đặt câu hỏi
-\'Tôi học được gì?\' sau mỗi thua và \'Tôi cần làm gì tiếp theo?\' sau
+'Tôi học được gì?' sau mỗi thua và 'Tôi cần làm gì tiếp theo?' sau
 mỗi thắng; và kiên nhẫn với quá trình vì biết rằng tiến bộ là phi tuyến
 tính --- có giai đoạn plateau và giai đoạn bùng nổ đột ngột.
 

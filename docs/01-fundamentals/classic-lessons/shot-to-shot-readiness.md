@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image1.webp)
 
 In my day to day work with my students, or when I observe club players,
 all too often **[[I see a fundamental problem having nothing to do with
@@ -17,17 +16,17 @@ readiness.]{.underline}]{.mark}**
 **[[Most club players tend to place the bulk of their attention on their
 technical strokes. What they fail to understand is that good shot making
 can not be separated from what goes on before and after they actually
-swing the racket.]{.underline}]{.mark}** Although you don\'t hear enough
-talk about it, today\'s premier players are exceptional in this aspect.
-But at all levels, shot to shot readiness is vital. It\'s the difference
-between being able to play to ability and not. If you don\'t believe me,
+swing the racket.]{.underline}]{.mark}** Although you don't hear enough
+talk about it, today's premier players are exceptional in this aspect.
+But at all levels, shot to shot readiness is vital. It's the difference
+between being able to play to ability and not. If you don't believe me,
 maybe you will after you understand the actual interval you have between
 shots.
 
 ### The Critical Interval
 
 **After you hit the ball in club tennis, it takes about a second and a
-half for the ball to reach your opponent\'s racket. After your opponent
+half for the ball to reach your opponent's racket. After your opponent
 strikes it, it takes another second and a half before you again make
 contact. So [[every time the ball leaves your
 racket]{.underline}]{.mark}, [[you have about 3 seconds to recover, move
@@ -42,8 +41,7 @@ pattern totaling up to several yards, to prepare, and then to execute
 the stroke itself.
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image2.webp)
 
 **Do you wait until the ball bounces on the court to get ready?**
 
@@ -66,28 +64,27 @@ As I said, players obsess on technique, but are completely unaware
 their errors and precludes them from exploiting opportunities to attack
 and/or hit winners.]{.underline}]{.mark}**
 
-So in the next two articles, let\'s look at everything that goes into
-shot to shot readiness. In this first article, we\'ll look at the
+So in the next two articles, let's look at everything that goes into
+shot to shot readiness. In this first article, we'll look at the
 components and the timing of preparation, movement, and recovery. Some
-of the information I\'ll present repeats or is synthesized from what
+of the information I'll present repeats or is synthesized from what
 other great writers have already contributed on Tennisplayer, but it is
 more than worth looking at again in the context of the readiness
 concept.
 
-In the second article, we\'ll look at a series of on court conditioning
+In the second article, we'll look at a series of on court conditioning
 and movement drills designed to help you build the quickness and the
 stamina to stay ready shot to shot over the course of your matches. I
 feel this type of on court work is essential to maintain your level of
 play over the course of a match where you may hit literally hundreds of
 balls, each stroke being executed within that same 3 second interval.
-One thing for sure, if you improve your readiness you\'ll need these
-drills, because you\'ll be playing longer points and covering a lot more
+One thing for sure, if you improve your readiness you'll need these
+drills, because you'll be playing longer points and covering a lot more
 court!
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image3.webp)
 
 **Start your warm up bouncing from one foot to the other.**
 
@@ -101,11 +98,11 @@ advocate that all my students **[[start their warm up by getting lighter
 on their feet. The way to do this is to bounce from one foot to the
 other between shots.]{.underline}]{.mark}**
 
-Watch the pros or any well-trained player when they warm up, and you\'ll
+Watch the pros or any well-trained player when they warm up, and you'll
 often see them do this. You also see players do it before hitting
 returns. Some pros will even do it before stepping up to serve.
 
-It doesn\'t happen much in pro matches during points because the
+It doesn't happen much in pro matches during points because the
 exchanges are so fast, but on the occasion when they have extra time,
 you see great movers like Andy Murray or Lleyton Hewitt do the same
 thing during actual play.
@@ -115,18 +112,17 @@ the balls of my feet and bounce. It sets a tone and an example for the
 player, and I feel it promotes better overall responsiveness for both of
 us.
 
-![A person\'s legs and feet Description automatically generated with low
-confidence](media_shot-to-shot-readiness/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+![A person's legs and feet Description automatically generated with low
+confidence](media_shot-to-shot-readiness/media/image4.webp)
 
 **The ready hop to a wide, athletic base with the muscles coiled.**
 
 **[[The next key is to respond immediately to the ball as it comes off
-your opponent\'s racket.]{.underline}]{.mark}** To do this it\'s
-imperative after your own hit to track the ball back to the opponent\'s
+your opponent's racket.]{.underline}]{.mark}** To do this it's
+imperative after your own hit to track the ball back to the opponent's
 racket, and then to read the ball as it comes off the strings. **[[With
 practice, you can learn to sense the speed, spin, location and depth of
-your opponent\'s shots almost instantaneously, and this give you the
+your opponent's shots almost instantaneously, and this give you the
 information you need to begin to respond.]{.underline}]{.mark}**
 
 ### The Nucleus
@@ -142,10 +138,9 @@ be performed before the return of serve, between ground strokes, and
 before volleys when approaching the net.
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image5.webp)
 
-**The start of the split step, at the start of the opponent\'s forward
+**The start of the split step, at the start of the opponent's forward
 swing.**
 
 **[[To do the split, you hop an inch or so off the ground onto the balls
@@ -160,18 +155,17 @@ contract. From there you push off the court and explode to the
 ball.]{.underline}]{.mark}**
 
 **[[To explode properly you need to correctly time your split step, and
-I\'ve found this is the most misunderstood and therefore discouraging
+I've found this is the most misunderstood and therefore discouraging
 part of the process for the uninitiated. The split step actually starts
 before your opponent hits the ball, at about the moment you see him or
 her start his forward swing.]{.underline}]{.mark}** **[[Timed properly,
-you\'ll be in the air when the ball comes off the opponent\'s racket.
+you'll be in the air when the ball comes off the opponent's racket.
 This means you actually have the opportunity to see the direction of his
 shot before you land.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image6.webp)
 
 **Top players sometimes start to turn the outside foot as they land the
 split step.**
@@ -187,27 +181,26 @@ split steps in the pros, particularly with they are pressed for time,
 for example, when they are moving wide, or on a return of serve, or on a
 split step at the net.
 
-This more advanced split is a function of the player\'s ability to
+This more advanced split is a function of the player's ability to
 instantly read the shot, combined with a superb natural feel for the
 start of the preparation movement that I will talk about next. My advice
 is to try to get a feel for the basic split, then see if this blending
 of the split and the preparation happens naturally for you. As you
 progress, you can also consciously experiment with starting the motion
 to the ball with the outside foot sooner. For a great presentation of
-this advanced motion, see Bob Hansen\'s article on footwork on the
+this advanced motion, see Bob Hansen's article on footwork on the
 volley. ([**Click
 Here**](https://www.tennisplayer.net/members/footwork/bob_hansen/Hansen_Court_Movement_Volleys/Hansen_Court_Movement_Volleys.html).)
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image7.webp)
 
 **The double split gives you the feeling of having more time in actual
 play.**
 
 ### Double Split
 
-Most players understand the worth of the split step, but if they\'ve
+Most players understand the worth of the split step, but if they've
 been playing tennis for some time without using it, as a teacher I
 sometimes feel I need a cattle prod to make it happen for them
 consistently.
@@ -216,14 +209,14 @@ Joe Dinoffer, the renowned master professional and international
 clinician, has a great suggestion to help these players transition to
 split stepping. ([**Click
 Here**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) for
-Joe\'s articles on Tennisplayer.) **[[Instead of doing one split step,
+Joe's articles on Tennisplayer.) **[[Instead of doing one split step,
 you do two. Bounce once, then bounce twice.]{.underline}]{.mark}**
 
 **[[This simple exercise creates a \"feel\" for making an immediate
 split step that will carry over into your practice and play. After a
 series of shots hit with two split steps, your perception will be that
 you have much more time to execute your shot. Try it and see if you
-don\'t agree!]{.underline}]{.mark}**
+don't agree!]{.underline}]{.mark}**
 
 ### Body Turn
 
@@ -234,15 +227,14 @@ and, at the same time, loading the weight on the right or outside
 foot.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image8.webp)
 
 **Preparation means a body turn, with left arm stretched and weight
 loaded on the outside foot.**
 
 Whether you hit your backhand with one hand or two, the basic principle
 is the same in the preparation. The feet and torso turn sideways, taking
-the racket along for the ride. From this fully turned position it\'s
+the racket along for the ride. From this fully turned position it's
 possible to hit from any possible stance variation on either the
 forehand or backhand side.
 
@@ -251,31 +243,30 @@ moving back independently of the body. Any Tennisplayer subscriber knows
 that the old idea of \"getting your racket back\" rarely leads to a full
 turn. ([**Click
 Here**](http://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/preparation/your_forehand_and_the_modern_forehand_preparation.html) to
-read John Yandell\'s recent article.)
+read John Yandell's recent article.)
 
 But the problem is still at epidemic proportions out there in the larger
 uninformed world of club tennis. Go to any club and you can get
 depressed very quickly looking at how poorly the players prepare.
 Personally, I feel this is directly related to the readiness factor. If
-you wait until the ball bounces to initiate the preparation, you\'ll
+you wait until the ball bounces to initiate the preparation, you'll
 never make it, even if you have the right idea about how you want to
 turn.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image9.webp)
 
-**The hitting zone is an arm\'s length to your side and slightly in
+**The hitting zone is an arm's length to your side and slightly in
 front.**
 
 ### The Hitting Zone
 
 The next technical element is the hitting zone. **[[When you move to the
-ball it\'s imperative to understand where your hitting zone is. This is
+ball it's imperative to understand where your hitting zone is. This is
 defined as the spacing between you and the ball at
-contact.]{.underline}]{.mark}** When it\'s correct, you\'ll feel
-balanced, you\'ll have the opportunity to make a controlled and powerful
+contact.]{.underline}]{.mark}** When it's correct, you'll feel
+balanced, you'll have the opportunity to make a controlled and powerful
 swing, and your recovery for the next shot will be natural.
 Understanding your hitting zone makes the path to positioning feel
 natural.
@@ -291,8 +282,7 @@ spacing is similar if you wind up taking a step forward with the front
 foot into a neutral or square stance.
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image10.webp)
 
 **From a neutral stance visualize contact over the center of the
 plate.**
@@ -300,9 +290,9 @@ plate.**
 ### Home Plate
 
 To determine the spacing for the contact on the one-handed backhand, I
-like Welby Van Horn\'s use of the baseball home plate. ([**Click
+like Welby Van Horn's use of the baseball home plate. ([**Click
 Here**](https://www.tennisplayer.net/members/teaching_systems/teaching_systems.html) to
-see Welby\'s articles on Tennisplayer!) In baseball, when you stand at
+see Welby's articles on Tennisplayer!) In baseball, when you stand at
 the correct distance from the plate and the pitch is over the middle,
 you get the \"fat\" part of the bat on the ball. As with baseball, for
 most backhands club players should strive for a neutral stance in which
@@ -318,23 +308,22 @@ Repeat this (with either the ball machine or the hand feed, or both)
 until you can consistently establish a comfortable distance from the
 ball. Now save this as a mental image.
 
-![A person\'s legs and feet on a tennis court Description automatically
+![A person's legs and feet on a tennis court Description automatically
 generated with medium
-confidence](media_shot-to-shot-readiness/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image11.webp)
 
 **Basic recovery: a push with the outside foot and shuffle steps.**
 
 ### Open Stance Recovery
 
-**[[Once you\'ve hit the ball, the focus switches to recovering for the
+**[[Once you've hit the ball, the focus switches to recovering for the
 next shot.]{.underline}]{.mark}**
 
-**[[From a footwork standpoint there\'s a definite advantage to using
+**[[From a footwork standpoint there's a definite advantage to using
 the open stance. This is because you can immediately push off with your
 outside foot to initiate the recovery.]{.mark}]{.underline}**
 
-**[[The simplest recovery footwork when you don\'t have a great distance
+**[[The simplest recovery footwork when you don't have a great distance
 to go is to use slide steps. This pattern is somewhat more typical when
 you hit crosscourt. But if you have trouble with your footwork, or
 getting ready for the next ball, this is the pattern you should master
@@ -342,15 +331,14 @@ first.]{.underline}]{.mark}**
 
 **[[Initiate the recovery with a push off your outside foot onto your
 inside foot.]{.underline}]{.mark}** **[[Now take one or more shuffle
-steps until you reach the middle of your opponent\'s two widest
+steps until you reach the middle of your opponent's two widest
 angles\--or until he starts the forward swing for his next shot,
 whichever comes first. Split as his swing starts, and initiate the turn
 as described above!]{.underline}]{.mark}**
 
 ![A person running on a tennis court Description automatically generated
 with low
-confidence](media_shot-to-shot-readiness/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image12.webp)
 
 **When you have further to go, start with a crossover recovery step.**
 
@@ -369,31 +357,30 @@ most situations, players will definitely use the closed stance at times,
 particularly when pulled wide. Now the recovery pattern is different.
 After the hit the player steps around with the back foot. Essentially
 you are now in the same position described above for the forehand.
-Depending on the amount of court the player has to cover, he\'ll either
+Depending on the amount of court the player has to cover, he'll either
 push back to the inside foot or cross over. By the way, this same
 pattern also applies to recovering from a square stance forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image13.webp)
 
 **With a closed backhand stance, the outside foot comes around to start
 recovery.**
 
 As the ball leaves your racket you have to be careful not to over
 evaluate or dwell on just happened. This means that you have to assume
-that your shot and your opponent\'s next shot will be good. Don\'t spend
+that your shot and your opponent's next shot will be good. Don't spend
 any time thinking things like, \"Wow, I really ripped that one\--no way
-he\'ll get that back.\" Or, \"There\'s no way that ball I hit is going
+he'll get that back.\" Or, \"There's no way that ball I hit is going
 in.\" Assume that you will hit another ball until it is proven
 otherwise.
 
 ### The 3 Second Drill
 
-Now that we\'ve seen the whole pattern from the ready hop to the
-recovery, let\'s put it all together in something I call the \"3 Second
-Drill.\" Remember that\'s the true interval you have so let\'s put
+Now that we've seen the whole pattern from the ready hop to the
+recovery, let's put it all together in something I call the \"3 Second
+Drill.\" Remember that's the true interval you have so let's put
 everything together in a real time drill! Using a ball machine, set the
 interval between feeds to about 3 seconds. Start in the ready position.
 Now cycle through every aspect of shot readiness over the course of 10
@@ -406,8 +393,7 @@ analysis. As you progress set the machine to throw the ball wider, or
 cut down the interval slightly to simulate higher levels of play.
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image14.webp)
 
 **Set the interval on the ball machine to recreate the interval of
 actual play.**
@@ -416,8 +402,8 @@ actual play.**
 
 **[[Recovery is no different on the serve. You should always assume your
 serve will be in and immediately move to establish a strong athletic
-foundation as soon as the stroke is completed. You can\'t just serve and
-stand around, hoping the ball doesn\'t come back. But as with the
+foundation as soon as the stroke is completed. You can't just serve and
+stand around, hoping the ball doesn't come back. But as with the
 groundstrokes, too many players serve and then wait until the ball is
 bouncing on their side of the court to react.]{.underline}]{.mark}**
 
@@ -432,8 +418,7 @@ forward into the court. From this position the player pushes back in a
 kind of reverse ready hop, establishing the ready position.
 
 ![A person playing tennis Description automatically
-generated](media_shot-to-shot-readiness/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image15.webp)
 
 **Left foot landing, right foot around, reverse ready hop-all in a
 second!**
@@ -453,8 +438,7 @@ the motion in real time in match play.
 ### Ready at the Net
 
 ![A person holding a tennis racket Description automatically
-generated](media_shot-to-shot-readiness/media/image16.jpg){width="2.0833333333333335in"
-height="3.0833333333333335in"}
+generated](media_shot-to-shot-readiness/media/image16.jpg)
 
 **The ready position at the net. Racket head below eye level and above
 hand, elbows in front, volley grip.**
@@ -474,7 +458,7 @@ position and start the stroke.A lot of club players never make it, but
 again they blame swing technique without looking at how the lack of
 readiness made what they wanted to do impossible.
 
-As you see the opponent\'s racket move toward the ball you make your
+As you see the opponent's racket move toward the ball you make your
 split step and move to the volley. The actual motion begins with a body
 turn, and there is little independent arm movement. From the correct
 ready position this turn will swing your racket into the correct
@@ -490,14 +474,11 @@ admire your shot. But once again, you see club players waste this
 precious time.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_shot-to-shot-readiness/media/image17.jpg){width="1.4305555555555556in"
-height="2.7777777777777777in"} ![A person playing tennis Description
+generated](media_shot-to-shot-readiness/media/image17.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_shot-to-shot-readiness/media/image18.jpg){width="1.7361111111111112in"
-height="2.7777777777777777in"} ![A person holding a tennis racket
+confidence](media_shot-to-shot-readiness/media/image18.jpg) ![A person holding a tennis racket
 Description automatically
-generated](media_shot-to-shot-readiness/media/image19.jpg){width="1.5in"
-height="2.7777777777777777in"}
+generated](media_shot-to-shot-readiness/media/image19.jpg)
 
 **Recognize some of these ready positions from volleyers at your club?**
 
@@ -509,7 +490,7 @@ Being ready at the net is more difficult than in the backcourt for the
 obvious reason that you have less time. But how many of us have learned
 this lesson on the court with a Grand Slam champion?
 
-Aleco Preovolous, a friend and colleague who\'s the head pro at the
+Aleco Preovolous, a friend and colleague who's the head pro at the
 Harbor Point Racquet Club in Mill Valley, California, described an
 experience that left an indelible impression on him with when he had the
 opportunity to play the great Stefan Edberg.
@@ -520,7 +501,7 @@ points, Edberg came in behind a serve\--as usual\--and hit a sharply
 angled backhand volley crosscourt that had all the makings of a winner.
 
 Aleco took off running, determined to show Edberg what he was made of.
-As he neared the ball he realized he wouldn\'t be able to use his usual
+As he neared the ball he realized he wouldn't be able to use his usual
 two-handed backhand so he let go with a one handed flick that appeared
 to be a winner down the line.
 
@@ -531,15 +512,14 @@ place to go, had smothered the line. From this position, Edberg hit a
 forehand volley crosscourt, back into the open court.
 
 ![A person holding a tennis racket Description automatically
-generated](media_shot-to-shot-readiness/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_shot-to-shot-readiness/media/image20.webp)
 
-**Ultimate readiness at the net\--being ready even if you\'ve just hit a
+**Ultimate readiness at the net\--being ready even if you've just hit a
 winner.**
 
 But what really blew Aleco away was what happened next. Despite the fact
 that Aleco was now in the first row of seats, Edberg quickly moved to
-re-established his ready position, and cover the volley he\'d just
+re-established his ready position, and cover the volley he'd just
 hit\--even though it was a clear winner\--as if Aleco might somehow beam
 himself to the other side of the court and try another pass. Now that is
 the ultimate example of shot-to-shot readiness, and let it be an
@@ -549,7 +529,7 @@ told me the story.
 ### Overhead
 
 **[[A final situation where readiness is overlooked is after an
-overhead. It\'s the same exact problem we\'ve seen on the other strokes.
+overhead. It's the same exact problem we've seen on the other strokes.
 A player goes back for the ball, and hits a good overhead. Then he
 stands frozen until the opponent hits the next shot. If you take charge
 with an overhead, you should use the opportunity to improve your court
@@ -573,34 +553,32 @@ recover your balance in time for the next ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_shot-to-shot-readiness/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_shot-to-shot-readiness/media/image21.webp)
 
-**Don\'t stand after the overhead-improve your court position!**
+**Don't stand after the overhead-improve your court position!**
 
 **[[The other point has to do with angles and shot placement. If you are
 pulled off the court, be careful about hitting into the down the line
-opening. If you think your opponent can\'t cover your shot, go for it.
+opening. If you think your opponent can't cover your shot, go for it.
 But if your opponent is in position, or dictating the point, give
 yourself time to recover by playing the safer deep crosscourt diagonal.
 If you are in trouble a deep looping crosscourt shot buys the time to
 get ready and stay in the point.]{.underline}]{.mark}**
 
-**[[If you develop a feeling of what it\'s like to be really ready
+**[[If you develop a feeling of what it's like to be really ready
 shot-to-shot, your shot selection is bound to improve, because
-instinctively you\'ll sense the time and distance you need to recover
+instinctively you'll sense the time and distance you need to recover
 and adjust.]{.underline}]{.mark}**
 
 You can reinforce all the points in this article in a simple, powerful
-way when you watch pro tennis. It\'s normal to just watch the incredible
+way when you watch pro tennis. It's normal to just watch the incredible
 shotmaking, but now, armed with this information, try looking more
-closely at what goes on before and after those shots. You\'ll further
+closely at what goes on before and after those shots. You'll further
 improve your understand of it really takes to be ready to play your best
 tennis, shot by shot.
 
 ![A person holding a tennis racket Description automatically
-generated](media_shot-to-shot-readiness/media/image22.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_shot-to-shot-readiness/media/image22.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -614,7 +592,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website
+Check out Scott's website
 at [**scottmurphytennis.net**](http://www.scottmurphytennis.net/)
 
 You can contact Scott directly

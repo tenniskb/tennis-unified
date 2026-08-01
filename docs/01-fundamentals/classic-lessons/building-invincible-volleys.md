@@ -7,8 +7,7 @@ Two Primary Styles**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-invincible-volleys/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-invincible-volleys/media/image1.webp)
 
 The slice style and the flat style on both sides.
 
@@ -36,8 +35,7 @@ flat style on reflex and fast balls or power put away volleys.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-invincible-volleys/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-invincible-volleys/media/image1.webp)
 
 Max Mirni: a great example of flat style.
 
@@ -52,7 +50,7 @@ first volleys.
 
 In general, you typically see more slice on backhand volleys, but the
 Israeli style taught to me emphasizes slice on the forehand volley as
-well. That\'s a primary difference.
+well. That's a primary difference.
 
 I explain to my students that there are two different ways to prepare
 the racquet and two different effects on the ball - flat or slice.
@@ -62,8 +60,7 @@ line is that I want my players to choose the desired effect and
 technique to use based on the tactical situation and their intention.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-invincible-volleys/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-invincible-volleys/media/image2.webp)
 
 The slice volleys are prepared with the racket face open.
 
@@ -81,7 +78,7 @@ coaches say - and drive through the ball with good extension through the
 impact.
 
 Toni Nadal calls this extension through the ball \"the accompaniment.\"
-It\'s critical to extend through impact - to accompany the ball well -
+It's critical to extend through impact - to accompany the ball well -
 if you want to get a good response and good control of the volley. This
 is true of any volley, except perhaps extreme angle and cut volleys,
 which are sharply grazed.
@@ -91,8 +88,7 @@ As the name implies, the flat volley typically has little if rotation
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-invincible-volleys/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-invincible-volleys/media/image3.webp)
 
 The flat volley are shape is more of a U. The slice volley more of a V.
 
@@ -116,8 +112,7 @@ both styles.
 
 ![Close-up of people shaking hands Description automatically generated
 with medium
-confidence](media_building-invincible-volleys/media/image4.jpg){width="3.125in"
-height="1.9583333333333333in"}
+confidence](media_building-invincible-volleys/media/image4.jpg)
 
 The Israeli slice grip is an extreme continental.
 
@@ -146,8 +141,7 @@ the ball with subtle topspin on stretch volleys the way the great
 Patrick Rafter used to do.
 
 ![A person playing tennis Description automatically
-generated](media_building-invincible-volleys/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-invincible-volleys/media/image5.webp)
 
 Sometimes flatter volleys will use slight topspin on stretch volleys.
 
@@ -168,8 +162,7 @@ face.
 **Shoulder Turn**
 
 ![A person swinging a tennis racket Description automatically
-generated](media_building-invincible-volleys/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-invincible-volleys/media/image6.webp)
 
 The Israeli volley have a sharper downward swing path.
 
@@ -182,7 +175,7 @@ This is one reason that I favor a flatter volley style on fast incoming
 balls. Not only is it simpler to execute under duress, but the skill
 requires less shoulder turn and less time.
 
-The slice volley can be hit open stance and open shoulders, but it\'s
+The slice volley can be hit open stance and open shoulders, but it's
 more difficult to execute and you have to lay the wrist back in an
 extreme way. And you hit the ball with a slightly weaker hand position.
 
@@ -197,8 +190,7 @@ the front foot midflight.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-invincible-volleys/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-invincible-volleys/media/image7.webp)
 
 On the flat forehand volley the shoulder turn is less extreme.
 
@@ -207,8 +199,7 @@ and hand movement forward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-invincible-volleys/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_building-invincible-volleys/media/image8.webp)
 
 Impact the ball with the front foot in mid flight.
 
@@ -227,7 +218,7 @@ backhand players) and reflex volleys, when the ball is coming at high
 speed. You see this a lot in modern world class doubles. I would not
 discourage two hands in these situations.
 
-If I have a kid with two hands on regular volleys, that\'s fine with me,
+If I have a kid with two hands on regular volleys, that's fine with me,
 but I insist he or she learn one handed options when stretched wide for
 better reach.
 
@@ -244,8 +235,7 @@ always finished with a rotation of the wrist and a subsequent opening of
 the racquet face to the sky.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-invincible-volleys/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_building-invincible-volleys/media/image9.webp)
 
 The slice volley is almost always finished with wrist rotation, opening
 the racket face to the sky.
@@ -269,8 +259,7 @@ including sidespin.
 High level volleying is not as simple as a mere flat block!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_building-invincible-volleys/media/image10.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_building-invincible-volleys/media/image10.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -287,14 +276,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_building-invincible-volleys/media/image11.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_building-invincible-volleys/media/image11.jpeg)
 
 **The Secrets of Spanish Tennis**
 

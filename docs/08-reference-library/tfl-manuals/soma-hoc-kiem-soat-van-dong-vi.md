@@ -308,7 +308,7 @@ Một trong những tuyên bố cấp tiến nhất của Hanna --- rằng phầ
 gì chúng ta gọi là lão hóa thực ra là SMA tích lũy --- ngày càng được
 nghiên cứu ủng hộ.
 
-Những thay đổi trong tư thế và sự phân ly dần dần khỏi \'cảm giác\' cơ
+Những thay đổi trong tư thế và sự phân ly dần dần khỏi 'cảm giác' cơ
 thể có thể bắt đầu từ thời thơ ấu. Bởi vì sự phân ly soma này đã được
 học, nó có thể được bỏ học. Những gì trước đây chúng ta hiểu là lão hóa
 sinh lý --- cơ thể và tâm trí lão hóa --- thực sự có thể là SMA --- hoàn

@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-tactical-universe/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-tactical-universe/media/image1.webp)
 
 **Where do you live in the tactical universe?**
 
@@ -21,8 +20,7 @@ into play against certain opponents at certain times.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-tactical-universe/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-tactical-universe/media/image2.webp)
 
 **The two modern weapons: the serve and the forehand.**
 
@@ -43,7 +41,7 @@ then truly you have become a tennis player!
 
   **2. Learn to hate your unforced errors.**
 
-  **3. Know your own game as well as you know your opponent\'s.**
+  **3. Know your own game as well as you know your opponent's.**
 
   **4. At any point in a match be able to answer this question - who
   is doing what to whom?**
@@ -62,15 +60,14 @@ then truly you have become a tennis player!
 **When You Are Serving**
 
 Your percentage of first serves should be around 70% and higher for many
-players if they don\'t have great velocity or are capable of hitting
+players if they don't have great velocity or are capable of hitting
 aces. Keep the returner guessing with wide, body, and up the T serves.
 Use spin variations. Hit the ball flatter, then with more kick, then
 with more slice so that the receiver is confused what to expect.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-tactical-universe/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-tactical-universe/media/image3.webp)
 
 **A wide serve and a crosscourt volley\--a proven, classic pattern.**
 
@@ -82,7 +79,7 @@ Taylor Dent, probably the best serve and volleyer of the present modern
 players.
 
 If you hold your service games effectively, that will put mental
-pressure on your opponent\'s service game. Make him think about your
+pressure on your opponent's service game. Make him think about your
 serve! This will often increase your chances to break serve by pushing
 him to try to play a little too well.
 
@@ -96,13 +93,12 @@ returns.
 
 **When You Return**
 
-Always watch the toss and try to track the ball from the server\'s
+Always watch the toss and try to track the ball from the server's
 racket. If the serve is deep and difficult, return cross-court or deep
 down the middle\--the percentage play.
 
 ![A person playing tennis Description automatically
-generated](media_the-tactical-universe/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-tactical-universe/media/image4.webp)
 
 **Punish second serves to win points and force the server into trying
 too hard.**
@@ -118,7 +114,7 @@ pass cleanly on the next shot. Remember a successful lob is also a
 passing shot.
 
 On a faster serve, block the ball back. Remember, your first priority is
-to return the ball deep to neutralize the server\'s advantage so that
+to return the ball deep to neutralize the server's advantage so that
 you are on equal terms with him. If you have seen Roger Federer play
 Andy Roddick you have seen this work.
 
@@ -136,8 +132,7 @@ crosscourt, until he or she misses, or gives you a short ball. When you
 get the short ball, you will have the following options.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-tactical-universe/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-tactical-universe/media/image5.webp)
 
 **On a high short ball, attempt a winner.**
 
@@ -159,8 +154,7 @@ one-handers have difficulty handling high loopy balls.
 
 ![A picture containing tennis, athletic game, road, sport Description
 automatically
-generated](media_the-tactical-universe/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-tactical-universe/media/image6.webp)
 
 **Use low volleys as a second approach shot.**
 
@@ -185,8 +179,7 @@ which you win the point!
 
 ![A picture containing tennis, athletic game, road, sport Description
 automatically
-generated](media_the-tactical-universe/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-tactical-universe/media/image6.webp)
 
 **Some players hit their best shots on the run.**
 
@@ -209,14 +202,13 @@ first 2-3 games. Put your opponent in a situation he does not like.
 Some players miss from certain locations on the court: If he likes high
 balls, give him low balls; if he likes low balls, give him high balls.
 Use topspin and underspin, hard and soft, high and low, cross-court and
-down the line, deep and short, to throw off your opponent\'s rhythm.
+down the line, deep and short, to throw off your opponent's rhythm.
 Topspin mixed with slices are often quite a deadly recipe against
 western grip players.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-tactical-universe/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-tactical-universe/media/image7.webp)
 
 **Can you take your opponent to his tolerance point?**
 
@@ -237,11 +229,10 @@ that tolerance point!
 
 Do not panic if you lag behind. Tennis matches can be won from 0/6, 0/5,
 love-40 down. A player who is now coaching Andy Roddick (that would be
-James Scott Connors) once said: \"It ain\'t over till it\'s over.\"
+James Scott Connors) once said: \"It ain't over till it's over.\"
 
 ![A person playing tennis Description automatically
-generated](media_the-tactical-universe/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-tactical-universe/media/image8.webp)
 
 **All overheads are not the same.**
 
@@ -252,9 +243,9 @@ of the net allowing you to pass him on the next ball. This is called the
 combination pass.
 
 There are many types of overhead smashes. On short lobs, smash short
-(slam dunk style). On deep lobs, smash deep to your opponent\'s
+(slam dunk style). On deep lobs, smash deep to your opponent's
 backhand, or in the open court. If you have to move back and bounce the
-ball, be accurate but don\'t over hit if you can\'t hit a clean winner.
+ball, be accurate but don't over hit if you can't hit a clean winner.
 
 **Final Thoughts**
 
@@ -267,8 +258,7 @@ devising winning strategies.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, indoor, posing Description automatically                                                                                       Mahboob Khan is acknowledged as the top
-  generated](media_the-tactical-universe/media/image9.jpeg){width="1.5277777777777777in"   developmental coach in his home country of
-  height="2.1597222222222223in"}                                                                                                                                        Pakistan, and travels internationally with
+  generated](media_the-tactical-universe/media/image9.jpeg)                                                                                                                                        Pakistan, and travels internationally with
                                                                                                                                                                         players competing at all levels, including his
                                                                                                                                                                         daughter Sarah Khan, who has won multiple
                                                                                                                                                                         national Pakistani singles titles. He is well

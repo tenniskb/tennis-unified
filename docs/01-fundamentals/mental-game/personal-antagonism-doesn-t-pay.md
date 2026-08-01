@@ -1,4 +1,4 @@
-# Personal Antagonism Doesn\'t Pay
+# Personal Antagonism Doesn't Pay
 
 ### By Allen Fox, Ph.D.
 
@@ -6,8 +6,7 @@
 
 ![A person with his mouth open Description automatically generated with
 low
-confidence](media_personal-antagonism-doesn-t-pay/media/image1.jpg){width="4.097222222222222in"
-height="3.2083333333333335in"}
+confidence](media_personal-antagonism-doesn-t-pay/media/image1.jpg)
 
 **Personal antagonism almost never pays off in tennis.**
 
@@ -16,31 +15,29 @@ It will hurt your game. But like many things that involve emotions in
 tennis, this is easier said than done.
 
 This is because on an emotional level, tennis is very much like a fist
-fight. It\'s different from other sports. It feels personal, especially
+fight. It's different from other sports. It feels personal, especially
 when your opponent is jerking you around the court or trying to dink you
 to death.
 
 So how does the antagonism start in what is supposed to be a friendly,
-social match? Maybe you\'re playing Mike or Sue in a little tournament
+social match? Maybe you're playing Mike or Sue in a little tournament
 at your club. It starts out on a friendly basis but after awhile, it
 escalates. So you gradually step up your efforts to win, as does your
 opponent.
 
 As the gloves gradually come off and you feel the contest of wills, what
 started out as just a fun match becomes seriously competitive. If you
-don\'t watch yourself, your opponent may begin to irritate you and
+don't watch yourself, your opponent may begin to irritate you and
 negatively affect your game.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                          |
-+:========================================================================================================================================================================:+
-| ![](media_personal-antagonism-doesn-t-pay/media/image2.jpg){width="2.9166666666666665in" |
-| height="3.4722222222222223in"}                                                                                                                                           |
-|                                                                                                                                                                          |
-| **Against some opponents you just don\'t want to shake hands.**                                                                                                          |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![](media_personal-antagonism-doesn-t-pay/media/image2.jpg) |
+|  |
+| **Against some opponents you just don't want to shake hands.** |
 
-Maybe it\'s a swagger after making a good shot that grates on your
+
+Maybe it's a swagger after making a good shot that grates on your
 nerves. Or maybe the calls are made a little too quickly and there may
 even be a pleased tone of voice to the \"Out\" calls. As you become
 irritated you may start to think his calls are a little ungenerous.
@@ -68,8 +65,7 @@ aggressive and dislike your opponent.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, sport, player, boxing Description automatically
-  generated](media_personal-antagonism-doesn-t-pay/media/image3.jpg){width="4.166666666666667in"
-  height="2.25in"}
+  generated](media_personal-antagonism-doesn-t-pay/media/image3.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **The fighting instincts in tennis are like boxing.**
 
@@ -91,15 +87,14 @@ shots. They have egos and enjoy beating people just as you do. And they
 have plenty of insecurities that have nothing to do with you.
 
 Keep this in mind lest you allow your own insecurities to make something
-personal out of their actions. Realize it\'s your own insecurities that
-make you overly sensitive to your opponent\'s mannerisms. And if you
+personal out of their actions. Realize it's your own insecurities that
+make you overly sensitive to your opponent's mannerisms. And if you
 allow your insecurities to run freely they will not only hurt your own
 game, but make you likely to behave in ways that you will later regret.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personal-antagonism-doesn-t-pay/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_personal-antagonism-doesn-t-pay/media/image4.webp)
 
 **The personal one versus one competition makes tennis feel like a
 fight.**
@@ -112,14 +107,14 @@ well served by getting into fights with your opponents.)
 
 Andre Agassi, trained by his father who was a boxer, describes the
 aggressive, fighting aspects of matches well in his new book, Open. (For
-two amazing reviews by two of John Yandell\'s high school students,
+two amazing reviews by two of John Yandell's high school students,
 [Click
 Here](https://www.tennisplayer.net/members/notes_on_tour/alexandra_hills/open_by_agassi/)
 and [Click
 Here](https://www.tennisplayer.net/members/notes_on_tour/grace_fish/open_by_agassi/).)
 
 Like a fight, the players use all their physical, mental, strategic, and
-character skills to beat each other. They just don\'t hit each other,
+character skills to beat each other. They just don't hit each other,
 but nonetheless It is a fight for dominance.
 
 All social species are genetically programmed to compete for dominance
@@ -130,8 +125,7 @@ matches \"feel\" more important than they are.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                               ![A person with his hair blowing in the wind Description automatically generated with low
-   confidence](media_personal-antagonism-doesn-t-pay/media/image5.jpg){width="3.263888888888889in"
-                                                                           height="3.1944444444444446in"}
+   confidence](media_personal-antagonism-doesn-t-pay/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      **Even great players are sometimes subject to counterproductive emotions.**
 
@@ -139,7 +133,7 @@ matches \"feel\" more important than they are.
 
 The problem is that we were not genetically programmed to play 2 hour
 tennis matches. So the emotions that pop up tend to be
-counter-productive. Our nervous systems simply weren\'t programmed to
+counter-productive. Our nervous systems simply weren't programmed to
 control the fine motor movements necessary to hit tennis balls over the
 net and near the lines under stress for several hours.
 
@@ -163,7 +157,7 @@ of the outcome.
 
 In a hard-fought match winning is very pleasurable and losing is very
 painful. And no matter how well one prepares, how hard one tries, or how
-well one controls one\'s self on court, he or she may still lose. The
+well one controls one's self on court, he or she may still lose. The
 fact that a player does everything possible to control the outcome of
 the match, and may even have some belief that he or she can control the
 outcome, yet at some level realizes that he or she can not, puts the
@@ -171,8 +165,7 @@ player in an inherently stressful situation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personal-antagonism-doesn-t-pay/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_personal-antagonism-doesn-t-pay/media/image6.webp)
 
 **Losing motivation is a normal and common way to escape stress.**
 
@@ -182,13 +175,13 @@ when behind and/or to make excuses, all of which are counterproductive.
 
 This is what normal people do, and, of course, normal people loose a lot
 of tennis matches. In order to be a successful tennis competitor, one
-must behave abnormally and, with one\'s conscious mind and logic system,
+must behave abnormally and, with one's conscious mind and logic system,
 overpower these normal, counter-productive emotional reactions.
 
-The answer is: acceptance of what you can\'t change. Accept the fact
-that you will make mistakes. You make them not because you didn\'t move
-your feet or you didn\'t watch the ball. Yes, of course you did those
-things too, but you make mistakes because you can\'t help it and you
+The answer is: acceptance of what you can't change. Accept the fact
+that you will make mistakes. You make them not because you didn't move
+your feet or you didn't watch the ball. Yes, of course you did those
+things too, but you make mistakes because you can't help it and you
 never will be able to help it.
 
 You should always try to do better, but never forget that you are human
@@ -199,13 +192,12 @@ next point.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personal-antagonism-doesn-t-pay/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_personal-antagonism-doesn-t-pay/media/image7.webp)
 
 **To allow your proper habits to come out, you must avoid strong
 emotion.**
 
-In a tennis match a player\'s strokes and shot-making abilities are a
+In a tennis match a player's strokes and shot-making abilities are a
 result of habits developed by hours of repetition in practice. Shots in
 match play occur too quickly for control by conscious thought. They
 occur as habitual responses to the various situations on court and are
@@ -227,8 +219,7 @@ errors.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_personal-antagonism-doesn-t-pay/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_personal-antagonism-doesn-t-pay/media/image8.webp)
 
 **Whether you realize it or not, your nervous system takes a hit when
 you get angry.**
@@ -250,7 +241,7 @@ few extra errors result. And these extra errors are, in a close match,
 just enough to cause a loss. On the average, a 6-4 or 7-5 set is won by
 a difference of 4 or less points.
 
-A player doesn\'t have to make many extra errors to change a winning set
+A player doesn't have to make many extra errors to change a winning set
 into a losing one. And this generally happens without the player ever
 being aware of it.
 
@@ -265,8 +256,8 @@ circumstances whatsoever.
 The General Point
 
 Whether you are dealing with real antagonism from your opponent or not,
-it\'s best to keep your head on your side of the net. This means
-ignoring your opponent\'s actions under any circumstances. Look at the
+it's best to keep your head on your side of the net. This means
+ignoring your opponent's actions under any circumstances. Look at the
 tennis match as simply a set of physical and mental problems to be
 overcome.
 
@@ -282,62 +273,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                                 | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_personal-antagonism-doesn-t-pay/media/image9.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                                  | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                                  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                                  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                                  | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                                  |                                                                                                                       |
-|                                                                                                                                                                                  | [Click Here to                                                                                                        |
-|                                                                                                                                                                                  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+==================================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_personal-antagonism-doesn-t-pay/media/image9.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                                  | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_personal-antagonism-doesn-t-pay/media/image10.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                                    | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                                   | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                                   | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                                   | his first hand and very personal observations of the        |
-|                                                                                                                                                                                   | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                                   | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                                   | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                                   | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                                   | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                                   | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                                   | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                                   | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                                   | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                                   | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                                   | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                                   | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                                   | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                                   | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                                   | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                                   |                                                             |
-|                                                                                                                                                                                   | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                                   | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                                   | 93401. The price includes shipping.                         |
-+===================================================================================================================================================================================+=============================================================+
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                     | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_personal-antagonism-doesn-t-pay/media/image11.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                                   | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                                  | American player from the glory days before Open        |
-|                                                                                                                                                                                  | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                                  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                                  | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                                  | program into an elite contender for national titles,   |
-|                                                                                                                                                                                  | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                                  | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                                  | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                                  | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                                  | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                                  |                                                        |
-|                                                                                                                                                                                  |                                                        |
-+==================================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_personal-antagonism-doesn-t-pay/media/image10.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_personal-antagonism-doesn-t-pay/media/image11.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

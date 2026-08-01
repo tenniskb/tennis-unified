@@ -130,7 +130,7 @@ hơn 30--50% so với bình thường.
                                                   thể đánh bằng tay
 
   Cánh tay thẳng          Đường ống dẫn lực       Giữ hình dạng mở rộng →
-                                                  lực không bị \'rò rỉ\'
+                                                  lực không bị 'rò rỉ'
                                                   tại điểm gãy góc →
                                                   không chủ động co khuỷu
 
@@ -149,7 +149,7 @@ Khoảng thời gian này không ngẫu nhiên --- đó là thời gian cần đ
 lực lan truyền qua thân mình.
 
   --------- ------------------------------------------------------------
-  **KIỂM    *Trong backswing, nếu bạn không \'thấy\' vai trước che khuất
+  **KIỂM    *Trong backswing, nếu bạn không 'thấy' vai trước che khuất
   TRA       tầm nhìn về phía vai sau → biên độ xoay chưa đủ.*
   NHANH**   
 
@@ -266,8 +266,8 @@ Split step không phải cú nhảy --- đây là quá trình tạo preload cho 
 Nhiều người làm sai khiến phản ứng bị chậm.
 
   ------- ------------------------------------------------------------------
-  **✓**   Đừng nghĩ: \'Nhảy lên\' → Hãy nghĩ: \'Rơi xuống như con mèo chuẩn
-          bị phóng\'
+  **✓**   Đừng nghĩ: 'Nhảy lên' → Hãy nghĩ: 'Rơi xuống như con mèo chuẩn
+          bị phóng'
 
   **✓**   Thời điểm: Khi vợt đối thủ CHẠM bóng (không phải sau khi bóng rời
           vợt)
@@ -342,7 +342,7 @@ xoay vai.
   ------- ------------------------------------------------------------------
   **✓**   Forehand: Vai TRÁI dưới cằm ở backswing
 
-  **✓**   Kiểm tra: Nếu không \'thấy\' vai trước che khuất tầm nhìn về vai
+  **✓**   Kiểm tra: Nếu không 'thấy' vai trước che khuất tầm nhìn về vai
           sau → xoay chưa đủ
 
   **✓**   Hệ quả: Xoay thiếu → cơ bù trừ là duỗi tay sớm → đánh bằng tay
@@ -431,7 +431,7 @@ tay phải bù trừ → cú đánh yếu và không nhất quán.
 
   **✓**   Khuỷu tay phải hướng về phía bóng trong giai đoạn chuẩn bị
 
-  **✓**   Cue: \'Đưa khuỷu phải tới bóng TRƯỚC khi đưa vợt tới bóng\'
+  **✓**   Cue: 'Đưa khuỷu phải tới bóng TRƯỚC khi đưa vợt tới bóng'
 
   **✓**   Unit turn: Xoay toàn bộ thân trên đồng bộ → tích trữ năng lượng
           xoắn
@@ -465,8 +465,8 @@ hướng về bóng\") hiệu quả hơn tín hiệu bên trong (\"co cơ vai\")
   ----------------------- ----------------------- -----------------------
 
   --------- ------------------------------------------------------------
-  **PHÂN    *Người chơi thấp: \'đưa vợt tới bóng\'. Người chơi cao:
-  BIỆT QUAN \'đưa cơ thể tới bóng\'. Khuỷu tay là cầu nối giữa hai cách
+  **PHÂN    *Người chơi thấp: 'đưa vợt tới bóng'. Người chơi cao:
+  BIỆT QUAN 'đưa cơ thể tới bóng'. Khuỷu tay là cầu nối giữa hai cách
   TRỌNG**   tiếp cận này.*
 
   --------- ------------------------------------------------------------
@@ -496,7 +496,7 @@ nặng như cục đá ở cuối dây.
 **7.2 Trophy Pose --- Vị trí Nạp Đầy**
 
   ------- ------------------------------------------------------------------
-  **✓**   Khuỷu tay cao, vợt rơi sau lưng --- vị trí để \'ném\' lên, không
+  **✓**   Khuỷu tay cao, vợt rơi sau lưng --- vị trí để 'ném' lên, không
           phải kéo lên
 
   **✓**   Đầu vợt đi cạnh bên (edge-on) khi rơi --- không mở mặt vợt kéo gió
@@ -533,7 +533,7 @@ Stretch-Shortening Cycle.
   ----------------------- ----------------------- -----------------------
 
   -------- ------------------------------------------------------------
-  **CHÌA   *Không đổi grip nhiều --- chỉ đổi HƯỚNG \'ném\'. Serve thứ
+  **CHÌA   *Không đổi grip nhiều --- chỉ đổi HƯỚNG 'ném'. Serve thứ
   KHÓA**   hai dùng 65--70% tốc độ với spin → ổn định hơn là serve thứ
            nhất mạnh nhưng vào sân thấp.*
 
@@ -547,10 +547,10 @@ Groundstroke là nghệ thuật TẠO RA năng lượng. Volley là nghệ thu�
 KHIỂN năng lượng. Đây là sự khác biệt căn bản mà phần lớn người chơi
 chưa hiểu.
 
-> *\"\"Thay vì tấn công quả bóng, hãy tưởng tượng bạn đang đặt một \'bức
-> tường\' có góc độ chính xác.\" --- Tomaz Mencinger\"*
+> *\"\"Thay vì tấn công quả bóng, hãy tưởng tượng bạn đang đặt một 'bức
+> tường' có góc độ chính xác.\" --- Tomaz Mencinger\"*
 
-**8.1 Redirect, Don\'t Swing**
+**8.1 Redirect, Don't Swing**
 
   ----------------------- ----------------------- -----------------------
   **Triệu chứng**         **Nguyên nhân**         **Cách sửa**
@@ -596,7 +596,7 @@ không nhận ra tín hiệu tinh tế về góc và lực va chạm.
   **✓**   Do trọng lực và spin → bóng sẽ cong xuống → đặt vợt ở độ cao bóng
           SẼ ĐẾN, không phải đang ở
 
-  **✓**   Chuyển động \'Lên và Ra\' (Up and Out) để tạo độ nâng --- KHÔNG
+  **✓**   Chuyển động 'Lên và Ra' (Up and Out) để tạo độ nâng --- KHÔNG
           chặt xuống
 
   **✓**   Gập gối sâu → tầm mắt ngang với bóng → lực từ chân tạo sức mạnh
@@ -644,7 +644,7 @@ không nhận ra tín hiệu tinh tế về góc và lực va chạm.
   2\. Volley liên tục: không backswing, không follow-through dài, grip
   3--4/10
 
-  3\. Từ khóa: \'REDIRECT\' --- không phải \'HIT\'
+  3\. Từ khóa: 'REDIRECT' --- không phải 'HIT'
 
   4\. Mục tiêu: Giữ bóng sống lâu nhất có thể, không phải đánh mạnh
 
@@ -728,7 +728,7 @@ Góc tối ưu: 90--120° trong giai đoạn chuẩn bị và gia tốc. Bốn c
 - Cho phép xoay người mượt mà hơn
 
   --------- ------------------------------------------------------------
-  **CUE     *\"Duy trì hình chữ \'C\' thả lỏng với khuỷu tay --- như
+  **CUE     *\"Duy trì hình chữ 'C' thả lỏng với khuỷu tay --- như
   HUẤN      đang ôm một chiếc giỏ lớn.\"*
   LUYỆN**   
 
@@ -783,7 +783,7 @@ forehand.
 
   Lớp 4 --- Phản Hồi      Thụ thể bản thể & Tiền  Phản hồi vị trí khớp,
                           đình                    độ căng cơ --- đây là
-                                                  \'cảm giác\'
+                                                  'cảm giác'
   ----------------------- ----------------------- -----------------------
 
 > *\"\"Cổ tay tự động cứng lại một phần giây khi tiếp xúc thông qua phản
@@ -848,7 +848,7 @@ khác. Bốn lý do khoa học:
   \"dùng tay\" trở thành đường cao tốc. Dưới áp lực, não luôn quay về
   thói cũ.
 
-- 2\. Chân \'tắt\' khi căng thẳng: Tải nhận thức cao → giảm biên độ khớp
+- 2\. Chân 'tắt' khi căng thẳng: Tải nhận thức cao → giảm biên độ khớp
   và độ ổn định chi dưới → cơ thể bỏ qua bước chân, chỉ còn tay vung.
 
 - 3\. Mệt → chuỗi đứt từ dưới lên: Cơ đùi và bắp chân mỏi → cơ thể tự
@@ -910,7 +910,7 @@ quả.
 
   1\. Xoay cánh tay, cổ tay, và thân mình với vợt đặt ngang vai
 
-  2\. 4 lần split-step tại chỗ, tiếp theo 4 lần \'nạp và nhấc\': gập
+  2\. 4 lần split-step tại chỗ, tiếp theo 4 lần 'nạp và nhấc': gập
   gối → dừng 1 giây → đứng dậy đồng thời xoay vai
 
   3\. Mục tiêu: Kích hoạt hệ thần kinh cơ theo đúng trình tự --- không
@@ -924,7 +924,7 @@ quả.
   1\. Không có bóng --- đứng trước tường rào
 
   2\. Forehand: Vai trái dưới cằm → dừng 1 giây → tháo xoay. Đọc thầm:
-  \'thân mình, vai, tay\'
+  'thân mình, vai, tay'
 
   3\. Backhand: Vai phải dưới cằm → dừng → tháo xoay
 
@@ -985,7 +985,7 @@ quả.
   nghiệp, split đúng lúc đối thủ chạm bóng
 
   3\. 6--10 phút: T-drill shadows --- split → di chuyển → đánh shadow
-  → phục hồi. Đếm to: \'split-move-hit-recover\'
+  → phục hồi. Đếm to: 'split-move-hit-recover'
 
   4\. 10--13 phút: Wall bounce với split (30 reps) --- tung bóng nhẹ
   vào tường, split khi bóng rời tay
@@ -1004,7 +1004,7 @@ quả.
           GIỮ chân xuống sau khi đã đạp.
 
   **✓**   Kết thúc với ngực hướng về lưới, không phải cánh tay quét ngang.
-          Đó là chuỗi \'vợt đến bóng\' kết thúc tự nhiên.
+          Đó là chuỗi 'vợt đến bóng' kết thúc tự nhiên.
   ------- ------------------------------------------------------------------
 
 **TỔNG KẾT: Con Đường từ 3.5 lên 4.0**

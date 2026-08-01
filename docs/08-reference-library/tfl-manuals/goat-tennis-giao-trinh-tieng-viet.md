@@ -37,8 +37,8 @@ hay nỗ lực --- mà nằm ở chỗ các vận động viên đang luyện t�
 cụ, sai thứ tự ưu tiên và sai cơ chế thần kinh học. Một người chơi ở
 trình độ 5.0 biết rõ mình đang gồng cánh tay, nhưng không thể dừng lại
 bởi vì hệ thần kinh của họ đã củng cố con đường sai trong hàng nghìn giờ
-luyện tập. Lúc đó, việc hô to \'thả lỏng tay ra\' không khác gì yêu cầu
-một người đang chạy bộ \'không nhấc chân lên nữa\' --- đó là mệnh lệnh
+luyện tập. Lúc đó, việc hô to 'thả lỏng tay ra' không khác gì yêu cầu
+một người đang chạy bộ 'không nhấc chân lên nữa' --- đó là mệnh lệnh
 tự mâu thuẫn về mặt sinh lý học.
 
 Hệ thống GOAT Tennis được xây dựng để giải quyết đúng vấn đề đó: không
@@ -302,7 +302,7 @@ kỹ phần này trước khi đi vào các chương kỹ thuật.
 
 Trước khi đi vào bất kỳ kỹ thuật cụ thể nào, điều quan trọng nhất là
 phải hiểu triết lý dẫn dắt toàn bộ hệ thống. Không phải ngẫu nhiên mà
-Coach Sky Kim đặt tên hệ thống của mình là \'Natural Efficiency\' ---
+Coach Sky Kim đặt tên hệ thống của mình là 'Natural Efficiency' ---
 Hiệu Suất Tự Nhiên. Đây không phải một khẩu hiệu marketing; đây là một
 tuyên ngôn cơ học sinh học đã được kiểm chứng qua hàng nghìn buổi tập
 với hàng trăm vận động viên ở mọi cấp độ.
@@ -310,7 +310,7 @@ với hàng trăm vận động viên ở mọi cấp độ.
 Trong nhiều năm quan sát các vận động viên từ trình độ phong trào đến
 Top 20 ATP, Sky Kim nhận thấy một nghịch lý dai dẳng: những người chơi
 càng cố gắng hơn, cú đánh của họ thường càng kém đi. Câu trả lời nằm ở
-một khái niệm mà vật lý học gọi là \'đường kháng lực tối thiểu\'. Cơ thể
+một khái niệm mà vật lý học gọi là 'đường kháng lực tối thiểu'. Cơ thể
 con người, như mọi hệ thống vật lý khác, sẽ chuyển năng lượng hiệu quả
 nhất khi được phép đi theo con đường tự nhiên của nó.
 
@@ -363,10 +363,10 @@ phía sau trong khi kéo bàn tay ra trước. Điều này tạo ra cú đánh 
 có Lag nhưng thực ra đang tích cực chống lại quán tính --- kết quả là
 gồng tay và mất vận tốc.
 
-**1.3 Nguyên Tắc \'Start Together, Accelerate Separately\'**
+**1.3 Nguyên Tắc 'Start Together, Accelerate Separately'**
 
 Coach Sky Kim đúc kết toàn bộ cơ chế tạo lực trong tennis qua một câu
-nói ngắn gọn: \'Khởi Đầu Cùng Nhau, Tăng Tốc Riêng Biệt\'. Đây là mô tả
+nói ngắn gọn: 'Khởi Đầu Cùng Nhau, Tăng Tốc Riêng Biệt'. Đây là mô tả
 kỹ thuật chính xác của hai giai đoạn khác nhau trong mỗi cú đánh.
 
   ----------------------------------- -----------------------------------
@@ -380,7 +380,7 @@ kỹ thuật chính xác của hai giai đoạn khác nhau trong mỗi cú đán
                                       tảng ổn định và đồng bộ.
 
   TĂNG TỐC RIÊNG BIỆT                 Hông kích hoạt trước bằng Pelvic
-                                      Snap, vai và cánh tay \'bị bỏ lại\'
+                                      Snap, vai và cánh tay 'bị bỏ lại'
                                       phía sau để kéo căng mạc cơ. Rồi
                                       mạc cơ bung ra kéo vai-cánh tay lao
                                       ra. Rồi quán tính kéo đầu vợt trễ
@@ -429,7 +429,7 @@ thời gian ngắn.
 **1.5 Vai Trò Của Bao Myelin Trong Học Kỹ Năng Vận Động**
 
 Mọi động tác bạn lặp đi lặp lại đều được hệ thần kinh củng cố theo
-nguyên lý Hebb: \'Neurons that fire together, wire together\'. Điều này
+nguyên lý Hebb: 'Neurons that fire together, wire together'. Điều này
 có nghĩa rằng nếu bạn luyện tập một kỹ thuật sai trong 1.000 lần, bạn
 không chỉ không cải thiện --- bạn đang tích cực xây dựng và củng cố lối
 mòn thần kinh sai.
@@ -442,7 +442,7 @@ lặp lại nhiều nhất.
 
 > **LUUY:** *Quá trình xóa bỏ (unlearning) một kỹ năng vận động sai mất
 > gấp ba đến năm lần thời gian so với việc học một kỹ năng mới hoàn toàn
-> trên một \'bảng trắng\'. Đây là phát hiện của nghiên cứu
+> trên một 'bảng trắng'. Đây là phát hiện của nghiên cứu
 > neuroplasticity, không phải suy đoán. Hàm ý thực tiễn: khi sửa kỹ
 > thuật cho vận động viên có kinh nghiệm, cần kiên nhẫn và lộ trình dài
 > hơn nhiều so với huấn luyện người mới bắt đầu.*
@@ -481,7 +481,7 @@ tiểu não và thể nhân nền --- chịu trách nhiệm cho các phản xạ
 > mức độ tự động hóa System 1, vận động viên sẽ mất kỹ thuật khi áp lực
 > thi đấu tăng cao --- vì System 2 bị chiếm dụng bởi việc xử lý chiến
 > thuật và tâm lý, không còn tài nguyên để điều khiển kỹ thuật nữa. Đây
-> là giải thích thần kinh học cho hiện tượng \'choking\' phổ biến trong
+> là giải thích thần kinh học cho hiện tượng 'choking' phổ biến trong
 > thi đấu.*
 
 **2.1.2 Vai Trò Của Tiểu Não Trong Kiểm Soát Vận Động Tinh Tế**
@@ -606,15 +606,15 @@ xảy ra.
 Deliberate Practice --- Huấn Luyện Có Chủ Đích --- là khái niệm được nhà
 tâm lý học K. Anders Ericsson phát triển qua hơn 30 năm nghiên cứu.
 Nghiên cứu nổi tiếng nhất là về các nghệ sĩ violin tại Học viện Âm nhạc
-Berlin, từ đó phát hiện ra quy tắc \'10.000 giờ\'. Nhưng điều quan trọng
+Berlin, từ đó phát hiện ra quy tắc '10.000 giờ'. Nhưng điều quan trọng
 Ericsson nhấn mạnh là không phải 10.000 giờ luyện tập bất kỳ sẽ tạo ra
 sự xuất sắc --- đó phải là 10.000 giờ Deliberate Practice cụ thể.
 
 **Tiêu Chí 1: Mục Tiêu Cụ Thể và Đo Lường Được**
 
 Mỗi buổi tập phải có một mục tiêu kỹ năng cụ thể và có thể đo lường. Ví
-dụ: \'Cải thiện forehand\' không phải là Deliberate Practice, nhưng
-\'Đạt Natural Lag thụ động trong 8/10 cú drop-feed ở tốc độ 50%\' mới là
+dụ: 'Cải thiện forehand' không phải là Deliberate Practice, nhưng
+'Đạt Natural Lag thụ động trong 8/10 cú drop-feed ở tốc độ 50%' mới là
 Deliberate Practice. Sự khác biệt không chỉ là mức độ cụ thể --- mà là
 có hay không có tiêu chí thành công rõ ràng.
 
@@ -645,9 +645,9 @@ là vùng lý tưởng theo nghiên cứu.
 **3.2.1 Ràng Buộc Thiết Kế (Design Constraints)**
 
 Một trong những công cụ mạnh nhất là các ràng buộc thiết kế có chủ đích.
-Thay vì nói \'hãy làm đúng\', ràng buộc thiết kế làm cho việc làm sai
+Thay vì nói 'hãy làm đúng', ràng buộc thiết kế làm cho việc làm sai
 trở nên khó khăn hoặc không thể, đồng thời làm cho giải pháp đúng trở
-thành con đường tự nhiên nhất. Ví dụ: thay vì nói \'thả lỏng tay ra\',
+thành con đường tự nhiên nhất. Ví dụ: thay vì nói 'thả lỏng tay ra',
 yêu cầu học viên kẹp quả bóng vào nách --- ràng buộc vật lý này buộc não
 phải tìm ra giải pháp đúng mà không cần HLV giải thích thêm bằng lời.
 
@@ -657,14 +657,14 @@ Nghiên cứu motor learning chỉ ra một kết quả phản trực giác: luy
 xen kẽ --- trộn lẫn nhiều kỹ năng khác nhau trong cùng một buổi tập ---
 tạo ra kết quả học tập tốt hơn về lâu dài so với luyện tập khối, dù
 blocked practice thường cảm thấy dễ dàng và thành công hơn trong ngắn
-hạn. Lý do là interleaved practice buộc não phải liên tục \'khởi động
-lại\' và nhớ lại kỹ năng từ đầu, tạo ra effort thần kinh cao hơn, dẫn
+hạn. Lý do là interleaved practice buộc não phải liên tục 'khởi động
+lại' và nhớ lại kỹ năng từ đầu, tạo ra effort thần kinh cao hơn, dẫn
 đến học sâu hơn.
 
 > **MEO:** *Thay vì dành 30 phút chỉ tập forehand rồi 30 phút chỉ tập
 > backhand, hãy xen kẽ theo khối nhỏ: 8 phút forehand → 8 phút backhand
 > → 7 phút forehand từ bóng rộng → 7 phút backhand từ bóng sâu. Học viên
-> có thể cảm thấy \'kém hơn\' trong buổi tập, nhưng kết quả sau 4 tuần
+> có thể cảm thấy 'kém hơn' trong buổi tập, nhưng kết quả sau 4 tuần
 > sẽ vượt trội so với luyện tập khối.*
 
 **CHUONG 4**
@@ -718,7 +718,7 @@ Ferris Wheel.
 **Pha 4: Chuyển Tiếp Vào Vùng Slot và Rocking the Swing**
 
 Đây là pha phức tạp và tinh tế nhất, nơi phân tách người chơi Level 4.5
-và Level 5.5+. \'Slot\' là vùng không gian phía sau và dưới vai, nơi
+và Level 5.5+. 'Slot' là vùng không gian phía sau và dưới vai, nơi
 cánh tay ở vị trí tối ưu để chuẩn bị gia tốc. Để đầu vợt rơi vào Slot
 đúng cách, cần kết hợp Rock Up (nâng vai) với Sinking (hạ trọng tâm) và
 thả lỏng hoàn toàn cổ tay để trọng lực kéo đầu vợt xuống.
@@ -728,7 +728,7 @@ thả lỏng hoàn toàn cổ tay để trọng lực kéo đầu vợt xuống.
 Đây là pha bùng nổ của cú đánh. Ngay khi bóng bắt đầu nảy lên từ mặt
 sân, chân sau đạp mạnh và nhấc gót lên xoay ra ngoài. Hành động này đẩy
 khung xương chậu xoay ra phía lưới khoảng 45 độ. Quan trọng nhất: cánh
-tay không được di chuyển trong khoảnh khắc này. Cánh tay \'bị để lại\'
+tay không được di chuyển trong khoảnh khắc này. Cánh tay 'bị để lại'
 phía sau trong khi hông đã bắt đầu xoay --- đây là chính xác khoảnh khắc
 Fascial Stretch được tạo ra.
 
@@ -746,7 +746,7 @@ do quán tính, cho đến khi bàn tay bắt đầu giảm tốc sau điểm ti
 độ cao phù hợp với loại bóng muốn đánh. Cổ tay không chủ động quật tại
 điểm tiếp xúc --- cổ tay tiếp tục thụ động theo quán tính.
 Follow-through không phải là vị trí bạn cố tình đặt vợt vào --- đó là
-kết quả tự nhiên của tất cả các pha trước. Nếu phải cố ý \'đặt\' vợt về
+kết quả tự nhiên của tất cả các pha trước. Nếu phải cố ý 'đặt' vợt về
 vai, đó là tín hiệu rằng năng lượng chưa được giải phóng đúng cách.
 
 **4.3 Sự Thay Đổi Cơ Chế Theo Thế Đứng**
@@ -788,14 +788,14 @@ Mục đích: Cô lập và củng cố Pelvic Snap timing, xây dựng cảm gi
 Fascial Stretch. Thực hiện: HLV đứng phía sau, giữ nhẹ hai vai của học
 viên cố định. Học viên đứng Open Stance, thực hiện đạp chân sau và xoay
 hông về phía lưới mà không để vai chuyển động trước. Học viên PHẢI cảm
-nhận được: (a) căng tức ở mạc cơ bụng bên, (b) cánh tay thuận bị \'văng
-ra\' thụ động.
+nhận được: (a) căng tức ở mạc cơ bụng bên, (b) cánh tay thuận bị 'văng
+ra' thụ động.
 
 **Drill 3: Acoustic Audit Live Ball --- Trung Cấp**
 
 Mục đích: Xây dựng khả năng tự chẩn đoán thông qua thính giác. Thực
 hiện: Học viên đánh live ball và sau mỗi cú lắng nghe âm thanh. HLV chỉ
-nói \'tiếp\' hoặc \'lại\'. Tiếng nổ giòn, thanh, nhanh = tiếp. Tiếng
+nói 'tiếp' hoặc 'lại'. Tiếng nổ giòn, thanh, nhanh = tiếp. Tiếng
 đục, nặng = dừng lại, nới lỏng ngón cái trước khi đánh tiếp.
 
 **Drill 4: Stance Matrix Feeder --- Nâng Cao**
@@ -826,9 +826,9 @@ Cú trái tay xoáy lên hiện đại --- Kinetic Whip Backhand --- được Co
 Sky Kim xây dựng dựa trên một mô hình vật lý trực quan và chính xác: cú
 ném đĩa frisbee góc rộng kết hợp với mặt phẳng xoay nghiêng. Khi bạn ném
 một đĩa frisbee, cánh tay không đẩy đĩa thẳng ra trước --- cánh tay quét
-qua một mặt phẳng và đĩa được \'thả\' ra ở điểm tiếp tuyến với mặt phẳng
+qua một mặt phẳng và đĩa được 'thả' ra ở điểm tiếp tuyến với mặt phẳng
 đó. Tương tự, trong Kinetic Whip Backhand, đầu vợt không được kéo ra
-phía trước bằng lực cơ tay --- nó được \'bắn\' ra theo phương tiếp tuyến
+phía trước bằng lực cơ tay --- nó được 'bắn' ra theo phương tiếp tuyến
 của mặt phẳng xoay nghiêng khi cơ thể hoàn tất vòng quay.
 
 **5.2 Biomechanical Timeline của Kinetic Whip Backhand**
@@ -869,7 +869,7 @@ trở thành kết quả của xoay thân người hoàn toàn.
 Sau khi chạm bóng, vợt được giải phóng theo hướng thẳng đứng lên trên
 --- đây là Edge Release. Phần lớn người chơi mắc lỗi tại đây: thay vì
 giải phóng vợt thẳng đứng, họ quét vợt ngang và ôm lấy thân người, tạo
-ra lỗi \'cánh cổng quay\' (swinging-gate). Lỗi swinging-gate tạo ra cú
+ra lỗi 'cánh cổng quay' (swinging-gate). Lỗi swinging-gate tạo ra cú
 đánh trông đẹp nhưng thiếu hoàn toàn penetration vì mặt vợt không đi
 xuyên qua tâm bóng theo phương thẳng đứng.
 
@@ -909,7 +909,7 @@ xuyên qua tâm bóng theo phương thẳng đứng.
 Mục đích: Xây dựng cảm giác mặt phẳng xoay nghiêng và Edge Release trước
 khi thêm vợt. Thực hiện: Không dùng vợt. Học viên đứng ở tư thế
 backhand, thực hiện động tác ném đĩa frisbee tưởng tượng với tay thuận.
-Tập trung vào cảm giác cánh tay quét qua mặt phẳng nghiêng và \'đĩa\'
+Tập trung vào cảm giác cánh tay quét qua mặt phẳng nghiêng và 'đĩa'
 được giải phóng theo phương thẳng đứng lên trên. Lặp 30 lần, sau đó cầm
 vợt và thực hiện ngay lập tức để cảm giác còn tươi.
 
@@ -1159,7 +1159,7 @@ Lỗi gồng cánh tay ở Level 5.0 là một trong những thách thức huấ
 phức tạp nhất, không phải vì nó khó nhận ra mà vì nó đã được củng cố qua
 hàng nghìn giờ luyện tập và được myelinate sâu trong hệ thần kinh. Vận
 động viên Level 5.0 biết rõ về lỗi này --- họ đã nghe nhiều HLV nói
-\'thả lỏng tay ra\' --- nhưng họ không thể sửa nó bằng ý chí thuần túy
+'thả lỏng tay ra' --- nhưng họ không thể sửa nó bằng ý chí thuần túy
 vì ý chí không đủ mạnh để override bao myelin đã tích lũy qua nhiều năm.
 
 Điểm then chốt để hiểu đúng: lỗi gồng cánh tay ở Level 5.0 không phải do
@@ -1203,7 +1203,7 @@ thiếu hụt là nhiệm vụ đầu tiên và quan trọng nhất.
 
 **🎯 MỤC TIÊU TUẦN 1:** Cắt đứt hoàn toàn phản xạ dùng tay điều khiển
 vợt. Xây dựng bản đồ cảm giác nội tại về mô-men xoắn của lõi cơ. Đưa hệ
-thần kinh về trạng thái \'clean slate\'.
+thần kinh về trạng thái 'clean slate'.
 
 **Bước 1: Gravity Drop --- 15 phút/buổi**
 
@@ -1211,7 +1211,7 @@ thần kinh về trạng thái \'clean slate\'.
     trỏ, bốn ngón còn lại chỉ tiếp xúc nhẹ với cán.
 
 2.  Thực hiện Unit Turn rồi buông lỏng tay hoàn toàn để đầu vợt rơi tự
-    do xuống nhờ trọng lực --- không phải \'thả nhẹ\', mà buông hoàn
+    do xuống nhờ trọng lực --- không phải 'thả nhẹ', mà buông hoàn
     toàn.
 
 3.  Quan sát: nếu đầu vợt rơi về phía trước cơ thể (không phải ra sau),
@@ -1234,7 +1234,7 @@ thần kinh về trạng thái \'clean slate\'.
     giật đi bởi lực xoay hông.
 
 9.  Học viên PHẢI cảm nhận được: (a) căng tức ở mạc cơ bụng bên, (b)
-    cánh tay thuận bị \'văng ra\' thụ động.
+    cánh tay thuận bị 'văng ra' thụ động.
 
 10. Nếu không cảm nhận được (b): HLV đứng phía sau giữ vai cố định, học
     viên chỉ xoay hông. Lặp cho đến khi có cảm giác.
@@ -1283,13 +1283,13 @@ timing để học viên tập trung 100% vào cảm giác tay.
 20. Tiêu chí: bóng qua lưới với tiếng nổ thanh, nhẹ. Mục tiêu: 8/10 bóng
     tiếng thanh sau 3 buổi.
 
-**Bước 2: Chuỗi Khẩu Lệnh \'Start Together\' --- 15 phút/buổi**
+**Bước 2: Chuỗi Khẩu Lệnh 'Start Together' --- 15 phút/buổi**
 
 21. HLV đứng bên cạnh và thả bóng liên tục theo nhịp đều đặn (5
     giây/bóng).
 
-22. HLV hô to khẩu lệnh: \'XOAY\' (Unit Turn) → \'THẢ\' (Buông cẳng tay
-    rớt vào Slot) → \'ĐẠP\' (Nhấc gót, nổ hông).
+22. HLV hô to khẩu lệnh: 'XOAY' (Unit Turn) → 'THẢ' (Buông cẳng tay
+    rớt vào Slot) → 'ĐẠP' (Nhấc gót, nổ hông).
 
 23. Học viên đánh bóng theo đúng nhịp khẩu lệnh, không sớm hơn hoặc muộn
     hơn.
@@ -1601,7 +1601,7 @@ hơn khả năng xử lý thị giác thông thường của não người.
 
 Điện thoại thông minh hiện đại có thể quay ở 240fps trong chế độ
 slow-motion --- đủ để phân tích hầu hết kỹ thuật tennis. Các ứng dụng
-phân tích kỹ thuật chuyên dụng như Coach\'s Eye, Kinovea hoặc Dartfish
+phân tích kỹ thuật chuyên dụng như Coach's Eye, Kinovea hoặc Dartfish
 cung cấp công cụ vẽ đường, đo góc và so sánh side-by-side --- đây là
 những công cụ cần thiết cho HLV chuyên nghiệp.
 
@@ -1688,8 +1688,8 @@ quá trình thay đổi.
 
 Một trong những sai lầm phổ biến trong huấn luyện tennis là cố gắng biến
 mọi vận động viên thành bản sao của một chuẩn mực kỹ thuật lý tưởng duy
-nhất. Kết quả là những vận động viên \'kỹ thuật đúng nhưng không có bản
-sắc\' --- họ đánh đúng cú đánh nhưng không có chiến thuật rõ ràng, không
+nhất. Kết quả là những vận động viên 'kỹ thuật đúng nhưng không có bản
+sắc' --- họ đánh đúng cú đánh nhưng không có chiến thuật rõ ràng, không
 có thế mạnh rõ rệt để khai thác. Hệ thống GOAT Tennis tin rằng mỗi vận
 động viên có một kiến trúc thể chất, tâm lý và phong cách ra quyết định
 khác nhau --- và lối chơi ưu tú nhất là lối chơi khai thác tối đa những
@@ -1784,7 +1784,7 @@ Lý thuyết Yerkes-Dodson mô tả mối quan hệ giữa mức độ hưng ph�
 và hiệu suất thực hiện theo dạng chuỗi parabol ngược. Hiệu suất thấp khi
 arousal quá thấp --- và cũng thấp khi arousal quá cao. Hiệu suất tốt
 nhất ở mức arousal trung bình --- vùng mà người ta thường gọi là
-\'zone\' hay \'flow state\'. Mỗi vận động viên có một vùng arousal tối
+'zone' hay 'flow state'. Mỗi vận động viên có một vùng arousal tối
 ưu riêng và nhiệm vụ là nhận biết vùng đó và duy trì nó trong thi đấu.
 
 **12.3 15-Second Reset Protocol --- Quy Trình Tái Thiết Lập**
@@ -1979,8 +1979,8 @@ lược của bạn không thể chỉ được xây dựng trong chân không m
 Một cú forehand cross-court hoàn hảo về kỹ thuật có thể là kế hoạch tệ
 nhất nếu nó đi thẳng vào điểm mạnh nhất của đối thủ.
 
-Coach Sky Kim thường nói: \'Có thể bạn đang chơi tốt nhất của bạn nhưng
-vẫn thua vì bạn đang chơi sai trận đấu\'. Ý nghĩa sâu của câu nói này
+Coach Sky Kim thường nói: 'Có thể bạn đang chơi tốt nhất của bạn nhưng
+vẫn thua vì bạn đang chơi sai trận đấu'. Ý nghĩa sâu của câu nói này
 là: chiến lược đúng quan trọng bằng kỹ thuật tốt. Một vận động viên 4.5
 với kế hoạch rõ ràng và nhất quán có thể đánh bại một vận động viên 5.0
 đang chơi không có mục đích.
@@ -2051,11 +2051,11 @@ hoạch trận đấu quá phức tạp sẽ bị lãng quên ngay khi thi đấ
 Coach Sky Kim khuyên dùng giữ kế hoạch tối đa hai focus points chính,
 mỗi focus point là một câu lệnh ngắn gọn và rõ ràng.
 
-Ví dụ kế hoạch trận đấu tốt: \'Đánh vào backhand đối thủ bằng bóng sâu
-và topspin cao. Khi họ trả yếu, tấn công vào vùng trống.\' So sánh với
-kế hoạch quá phức tạp: \'Đánh vào backhand bằng topspin cao, sau đó tấn
+Ví dụ kế hoạch trận đấu tốt: 'Đánh vào backhand đối thủ bằng bóng sâu
+và topspin cao. Khi họ trả yếu, tấn công vào vùng trống.' So sánh với
+kế hoạch quá phức tạp: 'Đánh vào backhand bằng topspin cao, sau đó tấn
 công forehand khi có cơ hội, giao bóng vào T khi 30-30, dùng drop shot
-khi đối thủ đứng sau\...\' --- kế hoạch này quá phức tạp và sẽ bị lãng
+khi đối thủ đứng sau\...' --- kế hoạch này quá phức tạp và sẽ bị lãng
 quên trước khi kết thúc game thứ nhất.
 
 **14.4 In-Match Adjustments --- Điều Chỉnh Trong Trận**
@@ -2365,15 +2365,15 @@ Khái niệm Growth Mindset của nhà tâm lý học Carol Dweck mô tả một
 tư duy trong đó con người tin rằng khả năng có thể phát triển qua nỗ lực
 và học hỏi --- đối lập với Fixed Mindset tin rằng khả năng là bẩm sinh
 và cố định. Vận động viên có Growth Mindset nhìn các thất bại là thông
-tin có giá trị (\'tôi cần phải sửa điều gì?\') thay vì là bằng chứng về
-sự kém cỏi bản thân (\'tôi không có khả năng\').
+tin có giá trị ('tôi cần phải sửa điều gì?') thay vì là bằng chứng về
+sự kém cỏi bản thân ('tôi không có khả năng').
 
 **Đặc Điểm 2: Process Focus --- Tập Trung Vào Quá Trình**
 
 Vận động viên ưu tú học cách tập trung vào những thứ họ có thể kiểm soát
 (quá trình) thay vì những thứ họ không thể kiểm soát (kết quả). Họ không
-nghĩ \'tôi phải thắng trận này\' mà nghĩ \'tôi sẽ thực hiện đúng kế
-hoạch của mình trong trận này\'. Sự khác biệt này nhỏ nhưng có tác động
+nghĩ 'tôi phải thắng trận này' mà nghĩ 'tôi sẽ thực hiện đúng kế
+hoạch của mình trong trận này'. Sự khác biệt này nhỏ nhưng có tác động
 lớn: focus vào quá trình giảm lo lắng và tăng khả năng thực hiện bền
 vững.
 
@@ -3215,7 +3215,7 @@ thực ra, bạn đã chỉ chuyển gánh từ tay sang hông và thân ngườ
 nhiều việc hơn. Sau 1-2 tuần, khi não bộ hiểu được phương trình mới này,
 bạn sẽ cảm thấy mạnh hơn và linh hoạt hơn.
 
-**H: Kỹ thuật Backhand của tôi đã \'built in\' sai rất lâu. Liệu có chữa
+**H: Kỹ thuật Backhand của tôi đã 'built in' sai rất lâu. Liệu có chữa
 được không?**
 
 Được, nhưng cần thời gian và kiên nhẫn. Nghiên cứu neuroplasticity cho
@@ -3223,7 +3223,7 @@ thấy não người có khả năng thay đổi trong suốt cuộc đời. Vi�
 một kỹ thuật sai mất khoảng 3-5 lần thời gian so với học kỹ thuật mới,
 nhưng nó có thể thực hiện được. Yếu tố quyết định là cam kết với quá
 trình học lại, sẵn sàng chấp nhận một giai đoạn ngắn mà cú đánh cảm thấy
-\'tệ hơn\', và kiên nhẫn với tốc độ tiến bộ của hệ thần kinh.
+'tệ hơn', và kiên nhẫn với tốc độ tiến bộ của hệ thần kinh.
 
 **H: Tôi có nên tập cùng lúc cả Forehand và Backhand trong một buổi tập
 không?**
@@ -3252,8 +3252,8 @@ tuần không?**
 Nên tránh nếu có thể, đặc biệt trong Tuần 1 và Tuần 2. Thi đấu cuối tuần
 sẽ kích hoạt lại bao myelin cũ (con đường gồng tay đã được xây dựng qua
 nhiều năm), làm chậm lại và có khi đảo ngược quá trình tái lập trình
-trong tuần. Nếu bắt buộc phải thi đấu, hãy nhìn nó như một \'bài kiểm
-tra thông tin\' --- xem kỹ thuật mới của bạn hoạt động thế nào dưới áp
+trong tuần. Nếu bắt buộc phải thi đấu, hãy nhìn nó như một 'bài kiểm
+tra thông tin' --- xem kỹ thuật mới của bạn hoạt động thế nào dưới áp
 lực --- hơn là cố gắng đạt kết quả cao nhất.
 
 **H: Tôi có cần HLV để áp dụng hệ thống GOAT Tennis không?**
@@ -3278,8 +3278,8 @@ trình.
   deliberate practice in the acquisition of expert performance.
   Psychological Review, 100(3), 363-406.
 
-- Coyle, D. (2009). The Talent Code: Greatness Isn\'t Born. It\'s Grown.
-  Here\'s How. Bantam Books.
+- Coyle, D. (2009). The Talent Code: Greatness Isn't Born. It's Grown.
+  Here's How. Bantam Books.
 
 - Doidge, N. (2007). The Brain That Changes Itself. Penguin Books.
 
@@ -3357,7 +3357,7 @@ Mục đích: Cắt phản xạ gồng cơ nhị đầu bằng cách tận dụn
 dựng cảm giác Natural Lag thuần túy không cần bóng. Cách thực hiện: Đứng
 tư thế sẵn sàng, cầm vợt chỉ bằng ngón cái và ngón trỏ, bốn ngón còn lại
 chỉ tiếp xúc nhẹ với cán. Thực hiện Unit Turn rồi buông lỏng tay hoàn
-toàn --- không phải \'thả nhẹ\', mà buông hoàn toàn --- để đầu vợt rơi
+toàn --- không phải 'thả nhẹ', mà buông hoàn toàn --- để đầu vợt rơi
 tự do xuống đất nhờ trọng lực. Nếu đầu vợt rơi về phía trước cơ thể, cổ
 tay vẫn đang giữ. Mục tiêu: đầu vợt rơi thẳng xuống dưới và hơi ra sau
 do quán tính Unit Turn. Lặp lại 20 lần trước khi chuyển sang bước tiếp
@@ -3368,17 +3368,17 @@ theo.
 Mục đích: Xây dựng sự nhận thức về vị trí và khả năng xoay của hông,
 giúp Pelvic Snap trở nên tự nhiên và có cảm giác hơn. Cách thực hiện:
 Đứng trên một chân, hai tay đưa ra trước. Tưởng tượng hông là mặt đồng
-hồ. Xoay hông từ \'12 giờ\' (thẳng trước) về \'3 giờ\' (sang phải) rồi
-về \'9 giờ\' (sang trái) rồi về \'12 giờ\'. Thực hiện 20 lần mỗi chiều.
-Biến thể: thêm lượng xoay: bắt đầu từ \'9 giờ\' xoay hết sức đến \'3
-giờ\' và giữ nguyên 1 giây rồi trở lại.
+hồ. Xoay hông từ '12 giờ' (thẳng trước) về '3 giờ' (sang phải) rồi
+về '9 giờ' (sang trái) rồi về '12 giờ'. Thực hiện 20 lần mỗi chiều.
+Biến thể: thêm lượng xoay: bắt đầu từ '9 giờ' xoay hết sức đến '3
+giờ' và giữ nguyên 1 giây rồi trở lại.
 
 **Bài 5: Towel Whip Drill**
 
-Mục đích: Xây dựng cảm giác \'roi da\' --- dùng lượng xoay thân người để
+Mục đích: Xây dựng cảm giác 'roi da' --- dùng lượng xoay thân người để
 tạo vận tốc đầu vợt, không dùng lực bắp tay. Cách thực hiện: Thay vợt
 bằng một cái khăn dài. Thực hiện Unit Turn rồi Pelvic Snap, để khi thân
-xoay, khăn bị \'vút\' ra phía trước bằng lực xoay. Khăn phải tạo ra
+xoay, khăn bị 'vút' ra phía trước bằng lực xoay. Khăn phải tạo ra
 tiếng vuốt mạnh khi nó đập vào không khí. Nếu khăn không tạo ra tiếng
 vuốt, lực xoay chưa đủ. Thực hiện 30 lần mỗi phía.
 
@@ -3582,7 +3582,7 @@ lực của bóng đến và không có rủi ro củng cố lỗi.
 92. Sau mỗi điểm, hồi vị về vị trí trung tâm và Split Step cho điểm tiếp
     theo
 
-Thực hiện 15-20 \'điểm\' như vậy liên tục. Toàn bộ quá trình có thể mất
+Thực hiện 15-20 'điểm' như vậy liên tục. Toàn bộ quá trình có thể mất
 12-15 phút và là bài tập có giá trị vô cùng cho chuỗi động học, footwork
 và tư duy chiến thuật --- tất cả cùng một lúc. Đây là cách tập hiệu quả
 nhất trong những ngày không có sân hay đối tác tập luyện.
@@ -3628,8 +3628,8 @@ Sau mỗi buổi tự tập, dành 3-5 phút trả lời các câu hỏi sau tro
 tập luyện. Đây không phải là thủ tục hành chính --- đây là quá trình học
 hỏi có chủ đích thực sự xảy ra:
 
-93. Hôm nay tôi tập trung vào điều gì cụ thể? (Không phải \'luyện tập
-    forehand\' mà là \'cảm giác đầu vợt trễ lại thụ động\')
+93. Hôm nay tôi tập trung vào điều gì cụ thể? (Không phải 'luyện tập
+    forehand' mà là 'cảm giác đầu vợt trễ lại thụ động')
 
 94. Tôi có đạt được cảm giác hoặc kỹ năng mục tiêu không? Bao nhiêu phần
     trăm?
@@ -3657,7 +3657,7 @@ những gì đang xảy ra trong cơ thể, và một phương pháp thực hàn
 khoa học để tiến bộ có chủ đích thay vì ngẫu nhiên.
 
 Ba điều quan trọng nhất để mang theo từ cuốn sách này: Thứ nhất, hãy
-luôn hỏi \'tại sao\' trước \'như thế nào\'. Hiểu cơ chế tạo ra sự tự do
+luôn hỏi 'tại sao' trước 'như thế nào'. Hiểu cơ chế tạo ra sự tự do
 trong việc áp dụng. Thứ hai, hãy kiên nhẫn với quá trình tái lập trình
 thần kinh --- nó chậm hơn bạn muốn nhưng bền vững hơn bạn nghĩ. Thứ ba,
 hãy luyện tập như một nhà khoa học: đặt giả thuyết, thử nghiệm, đo lường

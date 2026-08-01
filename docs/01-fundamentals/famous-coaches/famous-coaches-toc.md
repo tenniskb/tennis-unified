@@ -10,8 +10,7 @@ Editor
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_famous-coaches-toc/media/image1.jpeg){width="1.8208333333333333in"
-height="2.6416666666666666in"}
+confidence](media_famous-coaches-toc/media/image1.jpeg)
 
 One of the most exciting aspects of Tennisplayer is creating a forum for
 the views of some of the top coaches in the history of the game.
@@ -24,12 +23,12 @@ incredible series of articles presented here. Study for yourself the
 approach Robert used to develop Pete Sampras, Lindsay Davenport, Maria
 Sharapova, and dozens of other tour players.
 
-I\'ve known Nick Bollettieri since I was 15 and attended his summer
+I've known Nick Bollettieri since I was 15 and attended his summer
 academy in Wisconsin. That was before he moved to Florida and became the
-biggest name in pro coaching. It\'s not going too far to claim that
-Nick\'s approach changed the modern game forever. It starts with the
+biggest name in pro coaching. It's not going too far to claim that
+Nick's approach changed the modern game forever. It starts with the
 Killer Forehand, the signature shot that heralded the transition to
-power baseline play. We\'ll back this up with Nick\'s approach to all
+power baseline play. We'll back this up with Nick's approach to all
 the shots: backhand, serve, returns, and volleys.
 
 Another under recognized name in coaching history is Welby Van Horn. A
@@ -41,9 +40,9 @@ athletic leaping and extreme rotation.
 
 I could go on, because there is more, articles from Allen Fox to name
 one important name, as well as some surprising work from John McEnroe.
-John\'s article\'s show a depth of analysis that is impossible for him
-to bring out in his regular television commentary. I\'m excited because
-it\'s just the start. There will be more outstanding voices to come in
+John's article's show a depth of analysis that is impossible for him
+to bring out in his regular television commentary. I'm excited because
+it's just the start. There will be more outstanding voices to come in
 this section. Stay tuned for that.
 
 **John Yandell**
@@ -69,7 +68,7 @@ Development](Hardcourt%20Confidential%20Excerpt.docx)
 
 **Pete Sampras with Peter Bodo**
 
-[Robert Lansdorp and the Champion\'s
+[Robert Lansdorp and the Champion's
 Mind](Robert%20Lansdorp%20and%20the%20Champion's%20Mind.docx)
 
 **Carlos Rodriguez**
@@ -155,7 +154,7 @@ What is a Teen Phenom?
 
 **Robert Lansdorp**
 
-[The Champion\'s
+[The Champion's
 Mind](Robert%20Lansdorp%20and%20the%20Champion's%20Mind.docx)
 
 [The Reverse Forehand

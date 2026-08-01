@@ -5,8 +5,7 @@
 ### **Pat Doughert**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_advanced-reaction-steps/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image1.webp)
 
 **Movement is the strength that unites the champions from all eras.**
 
@@ -19,7 +18,7 @@ result in more errors.
 
 Recently, I was fortunate to spend time with one of the all-time greats,
 Ivan Lendl. **[[One question I asked him: \"What is the greatest
-strength shared by the best players of any era?\" Ivan didn\'t hesitate:
+strength shared by the best players of any era?\" Ivan didn't hesitate:
 \"Movement,\" he answered. \"The best players of every era have also
 been the players with the best movement.\"]{.underline}]{.mark}**
 
@@ -29,20 +28,19 @@ been the players with the best movement.\"]{.underline}]{.mark}**
 This forces them to rush their movement to try to catch
 up]{.underline}]{.mark}**. **[[A late start means greater risk of
 getting to the ball late and missing opportunities to play
-offensively.]{.underline}]{.mark}** **[[It affects a player\'s ability
+offensively.]{.underline}]{.mark}** **[[It affects a player's ability
 to control the ball and sustain longer rallies. Players whose timing is
 out of sync appear to be on the defensive and scrambling to keep up with
 the rally pace.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_advanced-reaction-steps/media/image2.webp)
 
 **Technique and timing make Federer look effortless.**
 
 Movement specialists like Roger Federer have mastered the skill of
 timing their movement to stay slightly ahead of the pace of the rally.
-**[[Federer\'s explosive, well timed starts, agility, smooth footwork,
+**[[Federer's explosive, well timed starts, agility, smooth footwork,
 and instantaneous changes of direction enable him to look
 effortless.]{.underline}]{.mark}** **[[He makes playing tennis look
 fluid and artistic.]{.underline}]{.mark}** **[[It is the combination of
@@ -53,18 +51,17 @@ multi-directional sprints.]{.underline}]{.mark}** **[[Primarily these
 are lateral sprints, but they include movement in every direction to
 every point of the court, ranging in length from a few feet to a few
 yards. Like the sprinter, it is extremely important to react explosively
-to the opponent\'s strike of the ball and then to be equally quick to
+to the opponent's strike of the ball and then to be equally quick to
 recover.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_advanced-reaction-steps/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image3.webp)
 
 **A game of sprints in all directions.**
 
 In my first article, we discussed the Athletic Foundation, the basic
-posture that makes this explosive possible. Now we\'ll outline the two
+posture that makes this explosive possible. Now we'll outline the two
 most common first step reactions in pro tennis. I call these the
 **[[Pivot Step and the Drop Step.]{.underline}]{.mark}** The Pivot Step
 and the Drop Step are advanced moves that all players must execute if
@@ -85,8 +82,7 @@ inertia, the body is put in motion and establishes momentum in the
 direction of the movement]{.underline}]{.mark}**.
 
 ![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_advanced-reaction-steps/media/image4.webp)
 
 **A lower center of gravity means better use of lower body muscles.**
 
@@ -122,8 +118,7 @@ center of gravity at the moment of reaction, as well as far he must
 travel to the ball.
 
 ![A person playing tennis Description automatically
-generated](media_advanced-reaction-steps/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_advanced-reaction-steps/media/image5.webp)
 
 **At times pro players will use a basic step out.**
 
@@ -131,7 +126,7 @@ height="2.2291666666666665in"}
 
 I would not disagree with the school that teaches a narrower ready
 position as a basis for learning the basic stroke patterns, as for
-example, in Welby Van Horn\'s article in this issue of Tennisplayer.
+example, in Welby Van Horn's article in this issue of Tennisplayer.
 ([Click
 Here](http://www.tennisplayer.net/members/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 Nor would I argue with teaching players to turn the body with a step out
@@ -139,7 +134,7 @@ in the direction of the shot, as shown in the Tennisplayer articles by
 Bob Hansen. ([Click Here](Court%20Movement%20-%20The%20Forehand.docx).)
 This approach may ease learning how to prepare fully on the
 groundstrokes. But once a player has mastered the basic stroke patterns,
-it\'s time to evolve to the wider base as part of a more advanced
+it's time to evolve to the wider base as part of a more advanced
 Athletic Foundation, to become more successful at the higher levels of
 play.
 
@@ -152,12 +147,11 @@ explosive first step reactions. It begins by being low and establishing
 a wide base. This is why you will see players establish the wide
 base.]{.underline}]{.mark}** **[[In fact the more challenged they feel,
 the wider the base becomes. This allows the player to use the more
-explosive reaction steps I\'ve identified, the Foot Pivot and the Drop
+explosive reaction steps I've identified, the Foot Pivot and the Drop
 Step.]{.underline}]{.mark}**
 
 ![A person running on a tennis court Description automatically
-generated](media_advanced-reaction-steps/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_advanced-reaction-steps/media/image6.webp)
 
 **Often players begin the first step reaction when they are still in the
 air.**
@@ -166,22 +160,21 @@ air.**
 
 **[[Both these reaction step patterns start when the player unweights
 from the ready position. Unweighting is a technique that great movers
-often use just prior to the opponent\'s contact with the ball.
+often use just prior to the opponent's contact with the ball.
 Unweighting helps the player overcome the effects of inertia when he
 both feet are on the ground and the body has no directional
 momentum.]{.underline}]{.mark}**
 
 **[[Unweighting is nothing more than a split step that elevates the
 player off the ground.]{.underline}]{.mark}** **[[Timed to the
-opponent\'s contact point, unweighting elevates the feet off the ground
+opponent's contact point, unweighting elevates the feet off the ground
 while the player is determining where the ball is going. By the time the
 feet hit the ground, the player often has already begun to adjust the
 feet for the movement pattern to the ball.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_advanced-reaction-steps/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image7.webp)
 
 **The Foot Pivot is the most common reaction step in pro tennis.**
 
@@ -210,14 +203,13 @@ especially on his returns.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_advanced-reaction-steps/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image8.webp)
 
 **Federer uses the Foot Pivot on returns.**
 
 **[[Note: When you play on slippery surfaces such as clay or grass, you
 must use added caution when attempting the foot pivot and drive. If you
-drive too hard off the outside foot, you\'ll risk losing traction as
+drive too hard off the outside foot, you'll risk losing traction as
 your body weight shifts off the outside foot. Also, be careful not to
 step too far in the direction you want to move, or it will slow you down
 considerably. All you want to do is pivot the inside foot and use it to
@@ -231,8 +223,7 @@ base and how challenged they feel by the oncoming ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_advanced-reaction-steps/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image9.webp)
 
 **The outside foot pushes, the inside foot drops under the body and then
 drives the player toward the ball.**
@@ -261,8 +252,7 @@ staying even and/or getting ahead on time in baseline rallies.
 
 ![A picture containing tennis, athletic game, sport, court Description
 automatically
-generated](media_advanced-reaction-steps/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_advanced-reaction-steps/media/image10.webp)
 
 **Hewitt pushes with the outside foot as the inside foot drops
 underneath for an explosive first step.**
@@ -275,15 +265,14 @@ explosively toward the ball.
 You can actually see how the momentum has been created by looking at the
 angle of the torso. **[[Notice that the entire torso is tilted in the
 direction of the movement.]{.underline}]{.mark}** Because the move is so
-universal in high level tennis, there really can\'t be any doubt that
+universal in high level tennis, there really can't be any doubt that
 this pattern generates greater speed. It results in quicker movement to
 the ball when small fractions of a second are the difference between
 creating and offensive opportunity or being forced to play defensively.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_advanced-reaction-steps/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_advanced-reaction-steps/media/image11.webp)
 
 **The A.P. Belt creates the Athletic Foundation for explosive first
 steps.**
@@ -298,34 +287,33 @@ maintain a wider base and remain lower so they can react explosively to
 the ball with either the Pivot or the Drop Step. It is highly
 recommended to speed your own footwork development. Yes, it is my
 product. But it was developed for a purpose, and that is to help players
-develop the critical quality of superior movement. If that\'s what you
+develop the critical quality of superior movement. If that's what you
 want, then you may want to experiment with the A.P. Belt for yourself.
-I\'ve also worked out a special price offer just for Tennisplayer
+I've also worked out a special price offer just for Tennisplayer
 subscribers. (For more on the A.P Belt [Click
 Here](http://www.active.com/event_detail.cfm?event_id=1175099).)
 
-So that\'s it for the advanced reaction steps. In the future, we will
+So that's it for the advanced reaction steps. In the future, we will
 look closely at the various footwork patterns moving to the ball, stride
 lengths, hitting stances and then do the same in our analysis of
 recovery techniques.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+---+
-| ![A person with glasses smiling Description automatically generated with low                                                                                            | Pat Dougherty has been a biomechanics expert   |   |
-| confidence](media_advanced-reaction-steps/media/image12.jpeg){width="1.8263888888888888in" | and coach at IMG/Bollettieri Academies for     |   |
-| height="2.04375in"}                                                                                                                                                     | over 20 years, influencing the development of  |   |
-|                                                                                                                                                                         | hundreds of elite junior and pro players from  |   |
-|                                                                                                                                                                         | around the world. As the creator and producer  |   |
-|                                                                                                                                                                         | of the acclaimed Nick Bollettieri              |   |
-|                                                                                                                                                                         | instructional video series, Pat was            |   |
-|                                                                                                                                                                         | responsible for developing the system that has |   |
-|                                                                                                                                                                         | become synonymous with the teaching approach   |   |
-|                                                                                                                                                                         | at the Academy. In this new series for         |   |
-|                                                                                                                                                                         | Tennisplayer, Pat presents for the first time  |   |
-|                                                                                                                                                                         | his concepts and patented training methods for |   |
-|                                                                                                                                                                         | becoming a tennis movement specialist. For     |   |
-|                                                                                                                                                                         | more info on The A.P. Belt developed by Pat at |   |
-|                                                                                                                                                                         | the world famous Bollettieri Academy, [Click   |   |
-|                                                                                                                                                                         | Here](http://www.apbelt.com/).                 |   |
-|                                                                                                                                                                         |                                                |   |
-|                                                                                                                                                                         | Contact Pat directly at: pdougherty@apbelt.com |   |
-+=========================================================================================================================================================================+================================================+===+
+| ![A person with glasses smiling Description automatically generated with low | Pat Dougherty has been a biomechanics expert |  |
+| --- | --- | --- |
+| confidence](media_advanced-reaction-steps/media/image12.jpeg) | over 20 years, influencing the development of |  |
+|  | hundreds of elite junior and pro players from |  |
+|  | around the world. As the creator and producer |  |
+|  | of the acclaimed Nick Bollettieri |  |
+|  | instructional video series, Pat was |  |
+|  | responsible for developing the system that has |  |
+|  | become synonymous with the teaching approach |  |
+|  | at the Academy. In this new series for |  |
+|  | Tennisplayer, Pat presents for the first time |  |
+|  | his concepts and patented training methods for |  |
+|  | becoming a tennis movement specialist. For |  |
+|  | more info on The A.P. Belt developed by Pat at |  |
+|  | the world famous Bollettieri Academy, [Click |  |
+|  | Here](http://www.apbelt.com/). |  |
+|  |  |  |
+|  | Contact Pat directly at: pdougherty@apbelt.com |  |
+

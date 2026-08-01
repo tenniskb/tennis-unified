@@ -6,42 +6,39 @@
 
 ![A person on a television screen Description automatically generated
 with low
-confidence](media_one-handed-backhand-preparation/media/image1.webp){width="2.8125in"
-height="2.5104166666666665in"}
+confidence](media_one-handed-backhand-preparation/media/image1.webp)
 
 **Pat Rafter demonstrates how the ready hop starts his movement to hit
 the one-handed drive.**
 
 \"Backhand.\" The word itself strikes fear in the hearts of many tennis
-players. However, once you\'ve selected the backhand that\'s right for
-you, like any other stroke, it\'s simply a matter of understanding its
+players. However, once you've selected the backhand that's right for
+you, like any other stroke, it's simply a matter of understanding its
 key aspects and then replicating them until the desired results are
 achieved.
 
-Let\'s start by examining the critical importance of preparation on the
-one-handed backhand drive, using some of the world\'s greatest pros like
-Patrick Rafter and Mark Philippoussis as examples. (We\'ll cover the
+Let's start by examining the critical importance of preparation on the
+one-handed backhand drive, using some of the world's greatest pros like
+Patrick Rafter and Mark Philippoussis as examples. (We'll cover the
 slice and two handed backhands in subsequent articles).
 
 Prior to receiving a shot on your backhand side your eyes should be
-fixed on the ball coming off your opponent\'s racket. In addition, just
+fixed on the ball coming off your opponent's racket. In addition, just
 before the ball is struck make a controlled ready hop to set your leg
 muscles for the move to the ball. The combination of these things will
 provide a quicker response and keep you from having to guess the
 direction your opponent will hit the ball.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically                                                                                                                                 | ![A person playing tennis Description automatically generated with medium                                                                                                            |
-| generated](media_one-handed-backhand-preparation/media/image2.jpg){width="2.6041666666666665in" | confidence](media_one-handed-backhand-preparation/media/image3.jpg){width="2.6041666666666665in" |
-| height="2.6666666666666665in"}                                                                                                                                                      | height="2.6666666666666665in"}                                                                                                                                                       |
-+:===================================================================================================================================================================================:+:====================================================================================================================================================================================:+
-| **Two views of the first step with the left foot as demonstrated by Mark Phillippoussis**                                                                                                                                                                                                                                                                                  |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- |
+| generated](media_one-handed-backhand-preparation/media/image2.jpg) |  |
+| **Two views of the first step with the left foot as demonstrated by Mark Phillippoussis** |  |
+
 
 One of the most common problems I see when new students come to my
 teaching court **[[is the incorrect alignment of the feet, especially on
 the one handed backhand]{.underline}]{.mark}**. Your first step should
-be with the left foot (this is for a right-hander, it\'s the reverse for
+be with the left foot (this is for a right-hander, it's the reverse for
 lefties). The key is to load all the weight onto the back leg prior to
 stepping in. This should leave your lower half in a relatively open
 stance. This is critical because from this position, you can make a
@@ -50,8 +47,7 @@ only a small lateral step or have to move halfway across the court.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically                                                                                                                                   ![A person playing tennis Description automatically generated with medium
-  generated](media_one-handed-backhand-preparation/media/image4.jpg){width="2.6041666666666665in"   confidence](media_one-handed-backhand-preparation/media/image5.jpg){width="2.6041666666666665in"
-  height="2.5625in"}                                                                                                                                                                    height="2.5625in"}
+  generated](media_one-handed-backhand-preparation/media/image4.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Note how Philippoussis completes the turn fully, with his hitting shoulder tucked under his chin.**                                                                                 **Phillippoussis demonstrates the ideal form when stepping into the ball, straight forward and into the line of the shot.**
 
@@ -61,7 +57,7 @@ only a small lateral step or have to move halfway across the court.
 weight effectively and create a forward avenue with your
 feet.]{.underline}]{.mark}** **[[The step should be with the front foot
 pointing somewhere between 45 and 90 degrees to the net, so that you
-don\'t block your hips.]{.underline}]{.mark}** This is something great
+don't block your hips.]{.underline}]{.mark}** This is something great
 one-handers do without thinking, and you can make it as natural and
 automatic yourself.
 
@@ -76,10 +72,9 @@ powerful.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_one-handed-backhand-preparation/media/image6.jpg){width="2.6041666666666665in"
-  height="2.4791666666666665in"}
+  confidence](media_one-handed-backhand-preparation/media/image6.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Note how Rafter\'s Eastern Backhand grip places his hand and wrist behind the handle for support and strength.**
+  **Note how Rafter's Eastern Backhand grip places his hand and wrist behind the handle for support and strength.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -88,7 +83,7 @@ minimum, should use an Eastern Backhand grip as it puts the wrist more
 behind the handle for essential support.]{.mark}]{.underline}** I see
 too many one-handers flailing at the ball while using their Forehand or
 even Continental grips, which should be reserved for the slice backhand.
-There\'s just not enough support with the wrist on top of the handle to
+There's just not enough support with the wrist on top of the handle to
 avoid being wristy.
 
 **[[Even with the correct grip make sure to lock your wrist
@@ -99,8 +94,7 @@ JUST before you begin the forward swing. This facilitates the grip
 change and steadies the racket.
 
 ![A person holding a tennis racket Description automatically
-generated](media_one-handed-backhand-preparation/media/image7.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_one-handed-backhand-preparation/media/image7.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -114,7 +108,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

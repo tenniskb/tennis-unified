@@ -8,10 +8,9 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_alexander-zverev-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_alexander-zverev-serve/media/image1.webp)
 
-**Are there technical reasons for Alexander Zverev\'s serving
+**Are there technical reasons for Alexander Zverev's serving
 problems?**
 
 Alexander Zverev is a great player who at times appears to have a great
@@ -23,7 +22,7 @@ faults, including 5 doubles in his last 2 service games.
 
 One theory is that his inconsistency is mental. Alexander himself has
 said his serving is better when his father and coach is happier. If
-that\'s true his father must have been really unhappy in New York.
+that's true his father must have been really unhappy in New York.
 
 But if we look closely at his technical motion, I think there is another
 explanation. Zverev has basic technical problems in his torso rotation
@@ -45,18 +44,17 @@ and his stance.
 
 ![A picture containing tennis, racket, road, court Description
 automatically
-generated](media_alexander-zverev-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_alexander-zverev-serve/media/image2.webp)
 
-**Zverev\'s stance and leg action.**
+**Zverev's stance and leg action.**
 
 **[[Zverev starts his motion with the front foot pointing almost
 directly at the net. As the motion starts he angles the toes upward,
-then turns his foot and puts it down so it\'s about parallel to the
+then turns his foot and puts it down so it's about parallel to the
 baseline.]{.mark}]{.underline}**
 
 Now look at his back foot. He moves it back as the front foot starts to
-tilt up. It\'s widely offset in two directions. First his stance is now
+tilt up. It's widely offset in two directions. First his stance is now
 wider than shoulder width. Second his back foot is way behind him, far
 to his left, maybe a foot or so to the left of the heel of his front
 foot.
@@ -64,7 +62,7 @@ foot.
 The next thing Zverev does is bring his back foot up, not as far as
 Rublev, but still slightly to the right of his front foot. His push off
 from this point stance appears good in one sense. The feet leave the
-ground at the same time, a key positive point in Dr. Ben Kibler\'s
+ground at the same time, a key positive point in Dr. Ben Kibler's
 analysis of the role of the legs in elite serving. ([Click
 Here](https://www.tennisplayer.net/members/biomechanics/ben_kibler/the_push_serve_pull_serve/).)
 
@@ -79,8 +77,7 @@ shoulders at contact. They are wide open, completely parallel to the
 baseline.
 
 ![A person playing tennis Description automatically
-generated](media_alexander-zverev-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_alexander-zverev-serve/media/image3.webp)
 
 **The shoulders start open 45 degrees, rotate til they are perpendicular
 to the net, then rotate back until they are wide open, parallel to the
@@ -94,9 +91,9 @@ number associated with that on the serve.
 Under pressure instead of just letting the body uncoil in sequence, this
 tends to make players try to do more with the hand and arm.
 
-**What\'s the Model?**
+**What's the Model?**
 
-We\'ve seen Roger Federer as the model in how to use the legs and torso
+We've seen Roger Federer as the model in how to use the legs and torso
 together in, for example, the analysis I did with Tyler Zink. ([Click
 Here](https://www.tennisplayer.net/members/your_strokes/2020/tyler_zink_serve).)
 I also suggested this in the article on Rublev.
@@ -104,7 +101,7 @@ I also suggested this in the article on Rublev.
 Shoulders square at the start of the motion. 45 degree turn away from
 the ball. Shoulders still somewhat closed at the contact.
 
-Zverev could use that model. Maybe that\'s the best possible technical
+Zverev could use that model. Maybe that's the best possible technical
 option. But for Zverev that would mean moving from his pinpoint stance
 to a platform. That would be a big change in the feeling of the motion.
 
@@ -113,8 +110,7 @@ pinpoint, increase his torso rotation and correct the timing of the
 rotation through contact.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_alexander-zverev-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_alexander-zverev-serve/media/image4.webp)
 
 **Fed is the ideal model for serve shoulder rotation, but what about for
 pinpoint servers?**
@@ -124,7 +120,7 @@ film of Ugo Humbert in the Interactive Forum from a couple of months
 ago. ([Click
 Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/88995-interactive-forum-june-2020-ugo-humbert-serve).)
 
-His pinpoint stance is even wider than Zverev\'s. But unlike Alexander,
+His pinpoint stance is even wider than Zverev's. But unlike Alexander,
 he starts with his shoulders square to the baseline.
 
 Humbert then turns his shoulders along the line of his stance, so that
@@ -142,23 +138,22 @@ The longer I study pro tennis, the more impressed I am with the
 phenomenal technique of elite players. In most cases.
 
 But it also stuns me that some players still have glaring technical
-flaws. These aren\'t cosmetic. They often seem directly related to the
+flaws. These aren't cosmetic. They often seem directly related to the
 effectiveness or lack of effectiveness of certain strokes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_alexander-zverev-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_alexander-zverev-serve/media/image5.webp)
 
 **Ugo Humbert is a pinpoint server who is able to rotate away from the
 ball and back into contact in a sequence similar to Federer.**
 
-Zverev is a classic example. It\'s the same for Milos Raonic\'s
+Zverev is a classic example. It's the same for Milos Raonic's
 two-handed backhand. ([Click
 Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/techincal_flaws_in_pro_two_handers/raonic/).)
 
-Is this a lack of understanding on the part of coaches? That\'s part of
-the story. Most tour players that become tour coaches aren\'t really
+Is this a lack of understanding on the part of coaches? That's part of
+the story. Most tour players that become tour coaches aren't really
 technical students of the game.
 
 But it can go beyond that. I have spoken with multiple coaches and shown
@@ -178,13 +173,12 @@ wrote him again. Same no response.
 
 Of course not every player and/or coach has that reaction. The first
 side by side analysis I ever did for an elite player was for John
-McEnroe, who you might assume would be the world\'s most reluctant
+McEnroe, who you might assume would be the world's most reluctant
 possible student.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_alexander-zverev-serve/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_alexander-zverev-serve/media/image6.webp)
 
 **Justine Henin moved from a pinpoint to a platform stance and started
 to win Grand Slams.**
@@ -194,8 +188,8 @@ recover his serving effectiveness in his last tour run and generously
 wrote a forward for one of my books. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/VisualTennis_Part2/Yandell_VTP2_McEnroe_Case_Study.html).)
 
-Carlos Rodriguez used our high speed footage of Agassi\'s forehand and
-Sampras\'s serve to reshape Justine Henin\'s technical game before she
+Carlos Rodriguez used our high speed footage of Agassi's forehand and
+Sampras's serve to reshape Justine Henin's technical game before she
 started winning Slams, including moving to a platform stance. ([Click
 Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/justine_henin_serve).)
 
@@ -204,17 +198,16 @@ footage to recreate his original motion after a failed attempt to
 implement a radically abbreviated backswing literally destroyed his
 serve for a few months.
 
-Tons of other success stories at all levels as well. Sure it\'s always
+Tons of other success stories at all levels as well. Sure it's always
 really exciting to get a chance to work with a truly elite player, but
-the lack of response from some of those players and coaches doesn\'t
-really bother me. It\'s the fascinating complexity of strokes and
+the lack of response from some of those players and coaches doesn't
+really bother me. It's the fascinating complexity of strokes and
 figuring it all out that makes Tennisplayer so satisfying and so much
 fun.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_alexander-zverev-serve/media/image7.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_alexander-zverev-serve/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

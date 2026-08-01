@@ -2,7 +2,7 @@
 
 **TENNIS MASTERY**
 
-**THE ELITE COACH\'S HANDBOOK**
+**THE ELITE COACH'S HANDBOOK**
 
 *Cẩm Nang Huấn Luyện Đỉnh Cao*
 
@@ -19,15 +19,15 @@
 *Từ Tư Duy Của Một HLV Đỉnh Cao*
 
 Cuốn sách này được viết cho những huấn luyện viên đã vượt qua ranh giới
-của việc \'dạy cách đánh bóng\' và đang tìm kiếm một ngôn ngữ sâu hơn
+của việc 'dạy cách đánh bóng' và đang tìm kiếm một ngôn ngữ sâu hơn
 --- ngôn ngữ của lực học, của fascia, của nhịp điệu sinh học, và của
 triết lý vận động cổ xưa.
 
 Khi bạn đứng sân với một vận động viên 5.0, bạn không còn dạy kỹ thuật
 cơ bản nữa. Bạn đang điêu chắm vào một bức tượng đã có hình dạng ---
 từng milimeter điều chỉnh có thể tạo ra hoặc phá hủy toàn bộ chuỗi động
-học. Đó là lý do tại sao ngôn ngữ bình thường --- \'đánh mạnh hơn\',
-\'xoay vai nhiều hơn\', \'duỗi khuỷu tay\' --- thường không đủ và thậm
+học. Đó là lý do tại sao ngôn ngữ bình thường --- 'đánh mạnh hơn',
+'xoay vai nhiều hơn', 'duỗi khuỷu tay' --- thường không đủ và thậm
 chí có hại.
 
 Cuốn sách này tích hợp hai nguồn tri thức tưởng chừng không liên quan:
@@ -59,7 +59,7 @@ nhóm nhà khoa học thực hiện phân tích chuyển động 3D đầu tiên
 serve của Andre Agassi. Kết quả cho thấy lực từ mặt đất đóng góp tới 51%
 tổng năng lượng tác động vào bóng --- cao hơn gần gấp đôi so với những
 gì các HLV thời đó ước tính. Cùng lúc đó, ở Thượng Hải, một vị thầy Thái
-Cực Quyền 78 tuổi đang giải thích với học trò: \'Kỳ căn tại cước\' ---
+Cực Quyền 78 tuổi đang giải thích với học trò: 'Kỳ căn tại cước' ---
 nguồn gốc của lực nằm ở bàn chân.
 
 Hai thế giới hoàn toàn khác nhau về ngôn ngữ, phương pháp, và văn hóa.
@@ -70,7 +70,7 @@ bằng những con đường khác nhau.
 
 Là HLV cấp cao, nhiệm vụ của bạn là hiểu cả hai ngôn ngữ. Ngôn ngữ khoa
 học cho phép bạn giao tiếp với thế giới hiện đại, đo lường, phân tích
-video, và chứng minh hiệu quả. Ngôn ngữ nội gia cho bạn những \'cue\'
+video, và chứng minh hiệu quả. Ngôn ngữ nội gia cho bạn những 'cue'
 --- những lệnh ngắn gọn nhưng cực kỳ hiệu quả để kích hoạt đúng cảm giác
 vận động trong cơ thể vận động viên.
 
@@ -97,18 +97,18 @@ fascia (màng gân, mô liên kết) được nạp năng lượng đàn hồi t
 Vận động viên cảm thấy nhẹ nhàng, bóng đi nặng và xuyên sâu. Họ có thể
 duy trì chất lượng qua 3-4 giờ thi đấu mà không bị mệt theo cùng cách.
 
-+-----------------------------------------------------------------------+
-| **NGUYÊN LÝ CỐT LÕI #1**                                              |
-|                                                                       |
+| **NGUYÊN LÝ CỐT LÕI #1** |
+| --- |
+|  |
 | *Lực đàn hồi (elastic power) luôn mạnh hơn, hiệu quả hơn, và bền vững |
-| hơn lực cơ bắp cục bộ (muscle power). Nhiệm vụ của bạn với vận động   |
-| viên 5.0 là chuyển đổi hoàn toàn từ loại lực thứ nhất sang loại lực   |
-| thứ hai.*                                                             |
-+-----------------------------------------------------------------------+
+| hơn lực cơ bắp cục bộ (muscle power). Nhiệm vụ của bạn với vận động |
+| viên 5.0 là chuyển đổi hoàn toàn từ loại lực thứ nhất sang loại lực |
+| thứ hai.* |
+
 
 **1.3 Kinetic Chain --- Chuỗi Động Học**
 
-Khái niệm \'kinetic chain\' (chuỗi động học) được Arthur Steindler giới
+Khái niệm 'kinetic chain' (chuỗi động học) được Arthur Steindler giới
 thiệu vào năm 1955, nhưng ứng dụng vào tennis chỉ thực sự được nghiên
 cứu kỹ từ những năm 1990. Ý tưởng cốt lõi: cơ thể không phải là tập hợp
 các phần riêng lẻ, mà là một chuỗi liên kết --- mỗi đoạn truyền lực cho
@@ -118,7 +118,7 @@ Trong tennis, chuỗi này đi từ dưới lên: Đất → Bàn chân → Cẳ
 gối → Hông (Kua) → Thắt lưng (Mingmen) → Lưng-Ngực → Vai → Khuỷu → Cổ
 tay → Đầu vợt.
 
-Điều quan trọng: nếu bất kỳ mắt xích nào trong chuỗi bị \'đứt\' (do căng
+Điều quan trọng: nếu bất kỳ mắt xích nào trong chuỗi bị 'đứt' (do căng
 cứng, sai kỹ thuật, hoặc mệt mỏi), toàn bộ lực trên đó phải được tái tạo
 bằng cơ bắp cục bộ. Đó là lý do tại sao vận động viên bị đau vai thường
 do lỗi ở\... hông.
@@ -129,40 +129,40 @@ Kinetic chain truyền thống mô tả lực theo chiều dọc. Nhưng thực 
 thể con người truyền lực theo đường xoắn ốc --- đây là điểm mà cơ sinh
 học hiện đại và nội gia Trung Hoa đồng thuận tuyệt đối.
 
-Anatomy Trains (Thomas Myers, 2001) mô tả \'Spiral Line\' --- đường
+Anatomy Trains (Thomas Myers, 2001) mô tả 'Spiral Line' --- đường
 fascia xoắn ốc từ bàn chân, lên chân, qua hông, chéo sang lưng đối diện,
 và ra tới vai. Đây không phải một sợi cơ đơn lẻ, mà là một hệ thống
 truyền lực chéo đàn hồi xuyên toàn thân.
 
-Trong nội gia, đây là \'Triền Ty Kình\' (Chan Si Jin) --- kình xoắn như
+Trong nội gia, đây là 'Triền Ty Kình' (Chan Si Jin) --- kình xoắn như
 rút tơ từ kén tằm. Liên tục, xoắn, không đứt đoạn. Đây là cơ sở lý
 thuyết cho toàn bộ cuốn sách này.
 
 **1.5 Dụng Ý Bất Dụng Lực --- Dùng Ý Không Dùng Sức**
 
 Đây là một trong những khái niệm quan trọng nhất trong nội gia và cũng
-trong huấn luyện tennis hiện đại. \'Dụng ý bất dụng lực\' nghĩa là:
+trong huấn luyện tennis hiện đại. 'Dụng ý bất dụng lực' nghĩa là:
 hướng ý thức (intention) dẫn đường, lực theo sau một cách tự nhiên thay
 vì được tạo ra bằng gắng sức.
 
 Trong khoa học thần kinh vận động (motor neuroscience), điều này tương
-ứng với khái niệm \'external focus\' vs \'internal focus\'. Nghiên cứu
+ứng với khái niệm 'external focus' vs 'internal focus'. Nghiên cứu
 của Gabriele Wulf (2013) chỉ ra rằng người tập hướng ý thức vào kết quả
 bên ngoài (bóng, mục tiêu, cảm giác đất) có hiệu suất vận động cao hơn
 23% so với người hướng vào chuyển động cơ bắp bên trong.
 
-Cue thực tế: thay vì nói \'xoay vai của anh\', hãy nói \'quăng đầu vợt
-về phía mục tiêu\'. Thay vì \'đẩy chân xuống\', hãy nói \'cảm nhận mặt
-đất đẩy anh lên\'.
+Cue thực tế: thay vì nói 'xoay vai của anh', hãy nói 'quăng đầu vợt
+về phía mục tiêu'. Thay vì 'đẩy chân xuống', hãy nói 'cảm nhận mặt
+đất đẩy anh lên'.
 
-+-----------------------------------------------------------------------+
-| **NGUYÊN LÝ CỐT LÕI #2**                                              |
-|                                                                       |
-| *External focus beats internal focus. Khi bạn đặt ý thức vào kết quả  |
-| (đầu vợt, bóng, điểm rơi), hệ thần kinh tự động tối ưu hóa chuyển     |
-| động. Đây là nền tảng cho mọi cue huấn luyện bạn sẽ học trong cuốn    |
-| sách này.*                                                            |
-+-----------------------------------------------------------------------+
+| **NGUYÊN LÝ CỐT LÕI #2** |
+| --- |
+|  |
+| *External focus beats internal focus. Khi bạn đặt ý thức vào kết quả |
+| (đầu vợt, bóng, điểm rơi), hệ thần kinh tự động tối ưu hóa chuyển |
+| động. Đây là nền tảng cho mọi cue huấn luyện bạn sẽ học trong cuốn |
+| sách này.* |
+
 
 **1.6 Mô Hình Djokovic vs Federer: Hai Con Đường Đến Đỉnh Cao**
 
@@ -208,8 +208,8 @@ hay serve-and-volley, mọi VĐV 5.0 phải tuân thủ bốn nguyên lý này:
 3.  Chuỗi Không Đứt: Từ chân đến đầu vợt phải là một chuỗi liên tục, mỗi
     đứt gãy là một rò rỉ lực.
 
-4.  Tay Là Roi: Tay và cổ tay phải mềm, chỉ là \'đoạn cuối của ngọn
-    roi\' --- không chủ động tạo lực.
+4.  Tay Là Roi: Tay và cổ tay phải mềm, chỉ là 'đoạn cuối của ngọn
+    roi' --- không chủ động tạo lực.
 
 **1.8 Tại Sao Vận Động Viên 5.0 Cần Cách Tiếp Cận Này**
 
@@ -231,8 +231,8 @@ con người.
 
 Cuốn sách được chia làm bốn phần lớn: Nền Tảng (Ch.1-4), Kỹ Thuật Từng
 Cú Đánh (Ch.5-13), Chiến Thuật và Tư Duy (Ch.14-17), và Huấn Luyện &
-Phòng Chấn Thương (Ch.18-20). Mỗi chương kết thúc bằng \'Checklist Đứng
-Sân\' --- bảng kiểm tra nhanh để bạn áp dụng ngay.
+Phòng Chấn Thương (Ch.18-20). Mỗi chương kết thúc bằng 'Checklist Đứng
+Sân' --- bảng kiểm tra nhanh để bạn áp dụng ngay.
 
 Quan trọng: hãy đọc Chương 1-4 trước khi đến bất kỳ chương nào khác.
 Những chương này xây dựng ngôn ngữ và khung tư duy mà tất cả các chương
@@ -244,7 +244,7 @@ Khi bắt đầu làm việc với VĐV mới ở cấp 5.0, hỏi bản thân:
 
 - Họ đang dùng Muscle Power hay Elastic Power làm nguồn lực chính?
 
-- Có thể quan sát thấy \'đứt gãy\' ở đâu trong kinetic chain?
+- Có thể quan sát thấy 'đứt gãy' ở đâu trong kinetic chain?
 
 - Họ thiên về mô hình Djokovic hay Federer về mặt tố chất tự nhiên?
 
@@ -264,7 +264,7 @@ Nhiều huấn luyện viên giỏi tin rằng họ không cần kiến thức g
 chỉ cần nhìn chuyển động và biết cái gì đúng, cái gì sai. Điều đó đúng
 cho đến một điểm nhất định. Nhưng khi bạn làm việc với VĐV 5.0 và cần
 phải giải thích tại sao một điều chỉnh nhỏ tạo ra sự khác biệt lớn, hoặc
-khi bạn cần thiết kế bài tập cụ thể cho một \'đứt gãy\' cụ thể trong
+khi bạn cần thiết kế bài tập cụ thể cho một 'đứt gãy' cụ thể trong
 chuỗi lực, kiến thức giải phẫu trở thành vũ khí cạnh tranh của bạn.
 
 Trong chương này, chúng ta sẽ xem xét ba hệ thống giải phẫu quan trọng
@@ -274,8 +274,8 @@ liên kết), và hệ thần kinh vận động (motor nervous system).
 **2.2 Fascia --- Hệ Thống Bị Bỏ Quên**
 
 Cho đến những năm 2000, fascia (màng gân, mô liên kết) gần như không
-được đề cập trong y học thể thao. Đó chỉ là \'thứ trắng bao quanh cơ
-bắp\', thứ mà các nhà giải phẫu học thường cắt bỏ để nhìn thấy cơ bên
+được đề cập trong y học thể thao. Đó chỉ là 'thứ trắng bao quanh cơ
+bắp', thứ mà các nhà giải phẫu học thường cắt bỏ để nhìn thấy cơ bên
 trong. Một sai lầm khổng lồ.
 
 Ngày nay, chúng ta biết rằng fascia là một trong những hệ thống quan
@@ -288,14 +288,14 @@ Spiral Chain.
   -----------------------------------------------------------------------
   Nghiên cứu của Stecco et al. (2018): Fascia có thể tích trữ đến 30%
   năng lượng đàn hồi trong một cú nhảy và phóng thích nó trong 0.1 giây
-  tiếp theo. Đây chính là cơ chế tạo ra \'bounding\' ở kangaroo và \'whip
-  effect\' trong tennis serve.
+  tiếp theo. Đây chính là cơ chế tạo ra 'bounding' ở kangaroo và 'whip
+  effect' trong tennis serve.
 
   -----------------------------------------------------------------------
 
 **2.3 Anatomy Trains --- Bản Đồ Đường Fascia**
 
-Thomas Myers (2001) đã lập bản đồ các \'đường xe lửa fascia\' (anatomy
+Thomas Myers (2001) đã lập bản đồ các 'đường xe lửa fascia' (anatomy
 trains) --- những tuyến đường liên tục mà lực có thể truyền qua. Có 7
 đường chính, nhưng trong tennis, hai đường quan trọng nhất là:
 
@@ -310,7 +310,7 @@ forehand, serve, và backhand --- luôn chéo, luôn xoắn.
 
 Đi từ lòng bàn chân, lên gân Achilles, bắp chân, đùi sau, cột sống, lên
 đỉnh đầu. Đường này duy trì tư thế thẳng đứng và quan trọng trong giai
-đoạn \'landing\' sau khi serve.
+đoạn 'landing' sau khi serve.
 
 **2.4 Thoracolumbar Fascia --- Mingmen Của Giải Phẫu Học**
 
@@ -323,7 +323,7 @@ spinae, obliques.
 Khi vận động viên xoắn người vào Trophy Position (cho serve) hoặc
 Coiling Position (cho forehand), TLF được nạp năng lượng như một lò xo
 lớn. Khi họ release, năng lượng đó phóng qua TLF lên vai và tay trong
-vài phần trăm giây. Đây chính là cơ chế vật lý của \'Mingmen\' trong nội
+vài phần trăm giây. Đây chính là cơ chế vật lý của 'Mingmen' trong nội
 gia.
 
 **2.5 Các Nhóm Cơ Chính Trong Tennis**
@@ -364,7 +364,7 @@ Có hai hệ thống song song:
 Khi vận động viên đang học một kỹ thuật mới, vỏ não trước trán
 (prefrontal cortex) chủ động điều phối từng chuyển động. Điều này chậm,
 tiêu hao nhiều năng lượng tinh thần, và thường khiến vận động trông cứng
-nhắc. Đây là trạng thái \'beginner\' trong motor learning.
+nhắc. Đây là trạng thái 'beginner' trong motor learning.
 
 **Automatic Motor Control --- Kiểm Soát Tự Động**
 
@@ -374,10 +374,10 @@ cần ý thức. VĐV 5.0 phải có hầu hết kỹ thuật cơ bản ở tr�
 Nhiệm vụ của HLV là tinh chỉnh tại cấp độ tự động.
 
   -----------------------------------------------------------------------
-  Nghiên cứu Wulf (2013): Vận động viên có \'external focus\' (tập trung
+  Nghiên cứu Wulf (2013): Vận động viên có 'external focus' (tập trung
   vào kết quả bên ngoài) không chỉ thực hiện tốt hơn mà còn duy trì kỹ
-  thuật tốt hơn khi mệt. Đây là bằng chứng khoa học cho \'Dụng ý bất dụng
-  lực\'.
+  thuật tốt hơn khi mệt. Đây là bằng chứng khoa học cho 'Dụng ý bất dụng
+  lực'.
 
   -----------------------------------------------------------------------
 
@@ -386,11 +386,11 @@ Nhiệm vụ của HLV là tinh chỉnh tại cấp độ tự động.
 Myelin là chất bọc quanh các sợi thần kinh, tăng tốc độ truyền tín hiệu
 thần kinh lên đến 100 lần. Mỗi lần bạn luyện tập một chuyển động đúng,
 lớp myelin mỏng hơn được bổ sung vào các sợi thần kinh liên quan. Đây là
-cơ sở sinh học của \'deliberate practice\'.
+cơ sở sinh học của 'deliberate practice'.
 
 Hệ quả cho HLV: quality của mỗi repetition quan trọng hơn quantity. 50
 lần serve đúng kỹ thuật hiệu quả hơn 200 lần serve sai. Khi VĐV mệt và
-kỹ thuật bắt đầu sụp, hãy dừng lại --- bạn đang \'myelinate\' những
+kỹ thuật bắt đầu sụp, hãy dừng lại --- bạn đang 'myelinate' những
 pattern sai.
 
 **2.8 Fascia và Sự Thay Đổi Kỹ Thuật**
@@ -399,16 +399,16 @@ pattern sai.
 dài hơn nhiều so với cơ bắp. Cơ bắp có thể thay đổi trong 4-6 tuần.
 Fascia cần 3-6 tháng để remodel theo pattern chuyển động mới.
 
-Điều này giải thích tại sao VĐV có thể \'hiểu\' một điều chỉnh kỹ thuật
+Điều này giải thích tại sao VĐV có thể 'hiểu' một điều chỉnh kỹ thuật
 ngay lập tức, thực hiện được nó trong buổi tập, nhưng sau 3 ngày nghỉ
-lại \'quên\'. Đó không phải quên --- đó là fascia chưa remodel đủ để lưu
+lại 'quên'. Đó không phải quên --- đó là fascia chưa remodel đủ để lưu
 trữ pattern mới. Giải pháp: consistency (nhất quán) quan trọng hơn
 intensity (cường độ) trong giai đoạn thay đổi kỹ thuật.
 
 **2.9 Ứng Dụng Thực Tế: Nhìn VĐV Bằng Mắt Giải Phẫu**
 
-Khi bạn quan sát VĐV 5.0 đánh bóng, hãy thực hành \'nhìn bằng mắt
-fascia\'. Thay vì nhìn vào từng cơ, nhìn vào đường truyền lực. Hỏi: lực
+Khi bạn quan sát VĐV 5.0 đánh bóng, hãy thực hành 'nhìn bằng mắt
+fascia'. Thay vì nhìn vào từng cơ, nhìn vào đường truyền lực. Hỏi: lực
 đang đi theo con đường nào? Nó đứt ở đâu? Đường Spiral đang hoạt động
 chưa hay VĐV đang dùng đường thẳng kém hiệu quả hơn?
 
@@ -441,16 +441,16 @@ nhiều sức nhưng bóng không tương xứng.
 
 **3.1 Kua --- Khái Niệm Không Có Trong Giải Phẫu Tây Phương**
 
-Trong y học phương Tây, không có thuật ngữ nào tương đương với \'Kua\'.
+Trong y học phương Tây, không có thuật ngữ nào tương đương với 'Kua'.
 Giải phẫu học mô tả khớp háng (hip joint), cơ háng (hip muscles), và
-vùng bẹn (inguinal region). Nhưng \'Kua\' trong nội gia là một khái niệm
+vùng bẹn (inguinal region). Nhưng 'Kua' trong nội gia là một khái niệm
 tổng hợp và chức năng --- nó mô tả không phải một cấu trúc giải phẫu cụ
 thể mà là một chức năng vận động.
 
 Kua bao gồm: khớp háng (hip joint), hệ cơ vùng bẹn và đùi trong, đặc
 biệt là cơ psoas major và iliacus (iliopsoas), cơ pectineus và
 adductors. Quan trọng hơn, Kua mô tả cách vùng này hoạt động như một
-\'bộ vi sai\' --- chuyển đổi lực dọc từ chân thành lực xoắn ngang cho
+'bộ vi sai' --- chuyển đổi lực dọc từ chân thành lực xoắn ngang cho
 hông và thân.
 
 **3.2 Ba Trạng Thái Của Kua**
@@ -461,31 +461,31 @@ hông và thân.
 
 Đây là trạng thái phổ biến nhất ở VĐV cấp thấp và rất nhiều VĐV 4.5-5.0
 không được huấn luyện đúng. Dấu hiệu: hông đứng thẳng hoặc đẩy ra trước,
-không có \'nếp gấp\' ở bẹn, cơ tứ đầu đùi căng. Hệ quả: lực từ chân bị
+không có 'nếp gấp' ở bẹn, cơ tứ đầu đùi căng. Hệ quả: lực từ chân bị
 chặn lại ở Kua, phải tái tạo bằng lưng và vai. Đây là nguyên nhân chính
 gây đau lưng dưới và vai ở VĐV tennis.
 
 **Kua Sống --- Tọa Kua (Active Kua)**
 
-Khi Kua được \'mở\' đúng, có một nếp gấp nhẹ ở vùng bẹn, trọng tâm hơi
-xuống thấp, cơ mông và đùi sau được kích hoạt. VĐV cảm giác như \'ngồi
-nhẹ\' trên hông thay vì đứng thẳng. Đây là trạng thái mà lực từ chân có
-thể \'chảy\' lên thân tự nhiên.
+Khi Kua được 'mở' đúng, có một nếp gấp nhẹ ở vùng bẹn, trọng tâm hơi
+xuống thấp, cơ mông và đùi sau được kích hoạt. VĐV cảm giác như 'ngồi
+nhẹ' trên hông thay vì đứng thẳng. Đây là trạng thái mà lực từ chân có
+thể 'chảy' lên thân tự nhiên.
 
 **Kua Float (Khinh Linh)**
 
 Trạng thái này quan trọng trong footwork và ready position --- Kua không
-khóa, không nén mạnh, mà ở trạng thái \'nổi nhẹ\' sẵn sàng chuyển động
+khóa, không nén mạnh, mà ở trạng thái 'nổi nhẹ' sẵn sàng chuyển động
 tức thì theo bất kỳ hướng nào. Đây là trạng thái của Federer trong
-readiness --- anh nhìn \'nhẹ\' nhưng có thể phản ứng cực nhanh.
+readiness --- anh nhìn 'nhẹ' nhưng có thể phản ứng cực nhanh.
 
-+-----------------------------------------------------------------------+
-| **CUE THỰC TẾ**                                                       |
-|                                                                       |
-| *\'Hãy tưởng tượng bạn đang ngồi nhẹ trên một chiếc ghế vô hình\' --- |
-| đây là cue đơn giản nhất để kích hoạt Tọa Kua đúng. VĐV sẽ cảm nhận   |
-| sự khác biệt ngay lập tức.*                                           |
-+-----------------------------------------------------------------------+
+| **CUE THỰC TẾ** |
+| --- |
+|  |
+| *'Hãy tưởng tượng bạn đang ngồi nhẹ trên một chiếc ghế vô hình' --- |
+| đây là cue đơn giản nhất để kích hoạt Tọa Kua đúng. VĐV sẽ cảm nhận |
+| sự khác biệt ngay lập tức.* |
+
 
 **3.3 Kua Trong Từng Cú Đánh**
 
@@ -503,7 +503,7 @@ tổng quan:
                                                     dẫn đầu
 
                Backhand                 Kua đối diện làm điểm tựa, tạo
-                                             \'counter-rotation\'
+                                             'counter-rotation'
 
                 Volley                        Kua float, sẵn sàng
                                           micro-adjustment cực nhanh
@@ -519,7 +519,7 @@ tổng quan:
 
 Nếu Kua là động cơ, Mingmen là hộp số --- nơi lực được chuyển đổi, điều
 phối, và phân phối đến nơi cần thiết. Trong nội gia, Mingmen (命門, Mệnh
-Môn) có nghĩa đen là \'Cửa Sinh Mệnh\' --- không phải tên ngẫu nhiên, mà
+Môn) có nghĩa đen là 'Cửa Sinh Mệnh' --- không phải tên ngẫu nhiên, mà
 phản ánh tầm quan trọng của nó.
 
 Về mặt giải phẫu hiện đại, Mingmen tương ứng với vùng lumbar-pelvic
@@ -537,13 +537,13 @@ hội tụ của nhiều nhóm cơ và fascia quan trọng nhất:
 - Transversus abdominis (cơ bụng ngang, lớp trong cùng)
 
 Khi tất cả những cấu trúc này phối hợp chính xác, Mingmen tạo ra một
-\'trục đàn hồi\' --- vừa ổn định để lực đi qua, vừa linh hoạt để không
-gãy chuỗi. Trong nội gia: \'Yêu như xa trục\' --- eo như trục bánh xe.
+'trục đàn hồi' --- vừa ổn định để lực đi qua, vừa linh hoạt để không
+gãy chuỗi. Trong nội gia: 'Yêu như xa trục' --- eo như trục bánh xe.
 
 **3.5 Phân Biệt Mingmen Sống và Mingmen Chết**
 
 Đây là kỹ năng quan sát quan trọng nhất bạn cần phát triển. Ngồi cạnh
-sân và học cách \'đọc\' Mingmen của VĐV từ xa:
+sân và học cách 'đọc' Mingmen của VĐV từ xa:
 
   ----------------------------------- -----------------------------------
            **MINGMEN SỐNG**                    **MINGMEN CHẾT**
@@ -554,7 +554,7 @@ sân và học cách \'đọc\' Mingmen của VĐV từ xa:
   Vùng thắt lưng có độ đàn hồi, linh   Cứng, khóa, không có chuyển động
                  hoạt                 
 
-   Chân và tay \'nối liền\' cảm giác        Lực bị đứt ở thắt lưng
+   Chân và tay 'nối liền' cảm giác        Lực bị đứt ở thắt lưng
 
         Bóng ra nặng, xuyên sâu          Bóng ra nhẹ dù dùng nhiều sức
 
@@ -572,14 +572,14 @@ giúp VĐV tìm thấy cảm giác đó:
 **Bài Tập 1: Wall Push Activation**
 
 VĐV đứng cách tường 30cm, đặt tay lên tường ngang vai. Giữ lưng dưới
-phẳng (không ưỡn), cảm nhận vùng thắt lưng \'phình nhẹ\' về phía tường.
+phẳng (không ưỡn), cảm nhận vùng thắt lưng 'phình nhẹ' về phía tường.
 Bắt đầu xoay nhẹ người sang phải và trái. Nếu Mingmen đang hoạt động, cả
 lưng sẽ di chuyển như một khối thay vì từng đốt sống xoay riêng lẻ.
 
 **Bài Tập 2: Cat-Cow Biến Thể**
 
 Từ tư thế quỳ bốn điểm, thực hành cat-cow nhưng chỉ di chuyển ở vùng TLF
-(không phải cổ hay ngực). Mục tiêu: tìm điểm \'trung tính\' nơi TLF có
+(không phải cổ hay ngực). Mục tiêu: tìm điểm 'trung tính' nơi TLF có
 áp lực cân bằng ở cả phía trước và sau. Đó chính là Mingmen hoạt động.
 
 **Bài Tập 3: Medicine Ball Throw**
@@ -596,8 +596,8 @@ Kua và Mingmen không hoạt động độc lập --- chúng là hai đầu c�
 phối ở phần giữa. Nếu một trong hai hoạt động sai, cái kia không thể bù
 đắp hoàn toàn.
 
-Ví dụ trong serve: khi VĐV bước vào Trophy Position, Kua phải \'ngồi\'
-xuống đúng (Tọa Kua). Điều này tự động tạo áp lực lên TLF, làm \'nạp\'
+Ví dụ trong serve: khi VĐV bước vào Trophy Position, Kua phải 'ngồi'
+xuống đúng (Tọa Kua). Điều này tự động tạo áp lực lên TLF, làm 'nạp'
 Mingmen. Khi phát lực, Kua mở ra (Khai Kua), lực truyền qua Mingmen theo
 đường xoắn lên vai và tay. Nếu Kua không Tọa đúng, Mingmen không nhận đủ
 áp lực để nạp đàn tính.
@@ -612,27 +612,27 @@ nhanh:
   ----------------------- ----------------------- -----------------------
    **Lỗi Quan Sát Được**      **Nguyên Nhân**        **Cue Sửa Nhanh**
 
-   Đau lưng dưới sau thi  Mingmen chết, lưng dưới  \'Giữ lưng dưới phẳng
-            đấu             dùng để kéo thay vì        như ván gỗ\'
+   Đau lưng dưới sau thi  Mingmen chết, lưng dưới  'Giữ lưng dưới phẳng
+            đấu             dùng để kéo thay vì        như ván gỗ'
                                   chuyển          
 
-   Bóng nhẹ dù đánh mạnh  Kua khóa, lực không lên  \'Ngồi nhẹ xuống hông
-                              được thân trên         trước khi đánh\'
+   Bóng nhẹ dù đánh mạnh  Kua khóa, lực không lên  'Ngồi nhẹ xuống hông
+                              được thân trên         trước khi đánh'
 
-  Vai đau, viêm sau giải   Vai phải tạo lực thay  \'Thả lỏng vai, để hông
-                              cho Kua-Mingmen              dẫn\'
+  Vai đau, viêm sau giải   Vai phải tạo lực thay  'Thả lỏng vai, để hông
+                              cho Kua-Mingmen              dẫn'
 
-   Xoay người nhưng hông   Kua bị lock, chỉ ngực   \'Hông dẫn, vai theo
-         đứng yên               và vai xoay                sau\'
+   Xoay người nhưng hông   Kua bị lock, chỉ ngực   'Hông dẫn, vai theo
+         đứng yên               và vai xoay                sau'
 
-   Mệt nhanh dù thể lực     Dùng Muscle Power,     \'Để mặt đất làm việc
-            tốt             không dùng Elastic          thay bạn\'
+   Mệt nhanh dù thể lực     Dùng Muscle Power,     'Để mặt đất làm việc
+            tốt             không dùng Elastic          thay bạn'
                                    Power          
   ----------------------- ----------------------- -----------------------
 
 **3.9 Xây Dựng Kua-Mingmen Qua Thời Gian**
 
-Kua và Mingmen không thể được \'bật lên\' trong một buổi tập. Chúng là
+Kua và Mingmen không thể được 'bật lên' trong một buổi tập. Chúng là
 nền tảng vận động phải được xây dựng qua tháng, qua năm. Lộ trình thực
 tế:
 
@@ -704,18 +704,18 @@ Ground Force. Đây là điều nhiều HLV không chú ý đủ.
 
 **Ba Vùng Áp Lực Bàn Chân**
 
-Trong nội gia, có khái niệm \'Dũng Tuyền\' (bong bóng xủi) --- điểm ở
+Trong nội gia, có khái niệm 'Dũng Tuyền' (bong bóng xủi) --- điểm ở
 lòng bàn chân, ngay sau ngón chân cái. Đây là điểm kết nối với mặt đất
 quan trọng nhất. Trong biomechanics hiện đại, điều này tương ứng với
 việc phân phối trọng lượng đúng theo tam giác: gót, mép ngoài bàn chân,
 và ức chân trước --- với ức chân trước và gót là hai điểm quan trọng
 nhất.
 
-Lỗi phổ biến 1: Nhón lên bằng mũi chân quá sớm --- mất \'gốc\', lực bị
+Lỗi phổ biến 1: Nhón lên bằng mũi chân quá sớm --- mất 'gốc', lực bị
 đẩy lên ngực.
 
 Lỗi phổ biến 2: Đặt trọng lượng quá về gót --- mất khả năng phản ứng
-nhanh, không thể \'bật\' lên khi cần.
+nhanh, không thể 'bật' lên khi cần.
 
 Tư thế đúng: trọng lượng phân phối khoảng 60% ức chân trước, 40% gót,
 với áp lực rải đều theo mép ngoài bàn chân để bảo vệ đầu gối.
@@ -737,20 +737,20 @@ reaction tự nhiên bật bạn về hướng cần chạy.
 
 Split step không cần cao --- chỉ cần đủ để tạo ground reaction. 5-10cm
 là đủ. Split step cao hơn tốn thời gian không khí và làm chậm phản ứng.
-Federer\'s split step là hầu như không nhìn thấy được --- nhưng nó ở đó,
+Federer's split step là hầu như không nhìn thấy được --- nhưng nó ở đó,
 và nó hoàn hảo về timing.
 
 **4.5 Chuyển Trọng Tâm --- Hư Thực Chi Biến**
 
-Trong Thái Cực Quyền, khái niệm \'Hư Thực\' (Xu Shi) mô tả chân đang
+Trong Thái Cực Quyền, khái niệm 'Hư Thực' (Xu Shi) mô tả chân đang
 chịu lực đầy đủ (Thực) và chân đang nhẹ, sẵn sàng di chuyển (Hư). Việc
 chuyển đổi giữa Hư và Thực phải mượt mà và liên tục --- không bao giờ có
 hai chân đều Hư (mất thăng bằng) hoặc đều Thực hoàn toàn (cứng, không
 thể di chuyển).
 
-Trong tennis: chân \'Thực\' là chân đang chịu tải và tạo Ground Force.
-Chân \'Hư\' là chân đang tự do, chuẩn bị bước tiếp theo. Lỗi phổ biến ở
-VĐV 5.0: họ \'ở lại\' trên chân Thực quá lâu sau khi đánh, làm chậm khả
+Trong tennis: chân 'Thực' là chân đang chịu tải và tạo Ground Force.
+Chân 'Hư' là chân đang tự do, chuẩn bị bước tiếp theo. Lỗi phổ biến ở
+VĐV 5.0: họ 'ở lại' trên chân Thực quá lâu sau khi đánh, làm chậm khả
 năng phục hồi cho điểm tiếp theo.
 
 **4.6 Footwork Patterns Cho VĐV 5.0**
@@ -807,8 +807,8 @@ Bề mặt trơn nhất. Cần giữ trọng tâm thấp hơn, split step thấp
 **Ladder Drills với Ground Focus**
 
 Thay vì tập ladder thuần túy về tốc độ, thêm yêu cầu: sau mỗi bước,
-\'cắm\' chân xuống 0.5 giây và cảm nhận ground reaction trước khi bước
-tiếp. Tập này chậm hơn nhưng xây dựng \'ground awareness\'.
+'cắm' chân xuống 0.5 giây và cảm nhận ground reaction trước khi bước
+tiếp. Tập này chậm hơn nhưng xây dựng 'ground awareness'.
 
 **Resistance Band Hip Drive**
 
@@ -883,14 +883,14 @@ mental state.
 **Stance và Alignment**
 
 Chân sau song song với baseline (hoặc hơi chéo 15-20 độ). Trọng lượng
-chia đều hoặc hơi nghiêng về chân sau. Kua ở trạng thái \'Float\' ---
+chia đều hoặc hơi nghiêng về chân sau. Kua ở trạng thái 'Float' ---
 không khóa, không nén, sẵn sàng. Điều này quan trọng vì Kua cần bắt đầu
 từ trạng thái trung tính để có thể load đầy đủ.
 
 **Ball Toss --- Nền Tảng Của Toàn Bộ Serve**
 
 Phần lớn serve fault xuất phát từ ball toss không nhất quán. Ball toss
-không phải \'ném bóng\' --- đó là đặt bóng lên vị trí. Cánh tay duỗi
+không phải 'ném bóng' --- đó là đặt bóng lên vị trí. Cánh tay duỗi
 thẳng từ dưới lên, ngón tay mở ra và thả bóng ở độ cao ngang đầu, bóng
 tiếp tục đi lên theo quán tính. Không có chuyển động cổ tay.
 
@@ -902,13 +902,13 @@ toss tốt, không có serve tốt.
 **5.3 Giai Đoạn 2: Loading --- Tọa Kua và Súc Kình**
 
 Đây là giai đoạn mà hầu hết lực được tích lũy. Trong nội gia gọi là
-\'Khai Cung\' hoặc \'Súc Kình\' --- nạp năng lượng như cung tên đang
+'Khai Cung' hoặc 'Súc Kình' --- nạp năng lượng như cung tên đang
 được kéo.
 
 **Leg Bend --- Không Chỉ Là Cúi Xuống**
 
 VĐV nạp lực vào chân bằng cách gập đầu gối. Nhưng đây không phải đơn
-giản là \'cúi xuống\' --- đây là Tọa Kua. Kua \'ngồi\' xuống, tạo nếp
+giản là 'cúi xuống' --- đây là Tọa Kua. Kua 'ngồi' xuống, tạo nếp
 gấp ở bẹn, cơ mông và đùi sau được kích hoạt. Đầu gối không được vượt
 quá mũi chân. Mũi chân hướng về phía trước-chéo (không thẳng về trước).
 
@@ -916,21 +916,21 @@ quá mũi chân. Mũi chân hướng về phía trước-chéo (không thẳng v
 
 Đây là khoảnh khắc quan trọng nhất của giai đoạn loading. Khi VĐV đến
 Trophy Position, có một góc lệch giữa hướng xương chậu và hướng vai. Vai
-hướng về mục tiêu, hông vẫn hơi khép. Góc lệch này chính là \'Spiral
-Preload\' --- năng lượng đàn hồi được nạp vào TLF và oblique muscles.
+hướng về mục tiêu, hông vẫn hơi khép. Góc lệch này chính là 'Spiral
+Preload' --- năng lượng đàn hồi được nạp vào TLF và oblique muscles.
 
-+-----------------------------------------------------------------------+
-| **KIỂM TRA TROPHY POSITION**                                          |
-|                                                                       |
-| *Đứng nhìn VĐV từ phía sau khi họ ở Trophy Position. Bạn phải thấy:   |
-| lưng trên xoay về phía bạn (vai nhìn thấy), nhưng lưng dưới và hông   |
-| vẫn hơi hướng về sân. Nếu toàn bộ lưng cùng quay --- không có Spiral  |
-| Preload.*                                                             |
-+-----------------------------------------------------------------------+
+| **KIỂM TRA TROPHY POSITION** |
+| --- |
+|  |
+| *Đứng nhìn VĐV từ phía sau khi họ ở Trophy Position. Bạn phải thấy: |
+| lưng trên xoay về phía bạn (vai nhìn thấy), nhưng lưng dưới và hông |
+| vẫn hơi hướng về sân. Nếu toàn bộ lưng cùng quay --- không có Spiral |
+| Preload.* |
+
 
 **5.4 Giai Đoạn 3: Cocking và Acceleration --- Tiết Tiết Quán Xuyến**
 
-\'Tiết tiết quán xuyến\' (節節貫串) --- \'các đốt nối nhau liên tục\'
+'Tiết tiết quán xuyến' (節節貫串) --- 'các đốt nối nhau liên tục'
 --- là nguyên lý cốt lõi của giai đoạn này. Mỗi đoạn trong chuỗi mở ra
 theo đúng thứ tự, với một độ trễ nhỏ giữa mỗi đoạn. Chính độ trễ này tạo
 ra whip effect.
@@ -954,7 +954,7 @@ ra whip effect.
 16. Đầu vợt tăng tốc cực muộn
 
 Từng bước phải xảy ra đúng thứ tự này. Nếu bất kỳ bước nào xảy ra sớm
-hơn bước trên nó, chuỗi bị \'short-circuit\'. Ví dụ: nếu vai mở trước
+hơn bước trên nó, chuỗi bị 'short-circuit'. Ví dụ: nếu vai mở trước
 khi Kua mở, toàn bộ energy leak ở đó.
 
 **5.5 Contact --- Đỉnh Của Ngọn Roi**
@@ -977,11 +977,11 @@ kết hợp với brushing upward. Đây là serve phức tạp nhất về mặ
 
 **5.6 Follow-Through và Recovery**
 
-Follow-through không chỉ là \'sau khi đánh xong\'. Nó là một phần tích
+Follow-through không chỉ là 'sau khi đánh xong'. Nó là một phần tích
 cực của serve quyết định độ chính xác và bảo vệ chấn thương.
 Follow-through đúng: vợt tiếp tục theo đường xoắn ốc, kết thúc ở phía
-đối diện (bên trái cơ thể với tay phải). Cánh tay không bị \'ngắt\' ---
-nó \'chảy\' ra.
+đối diện (bên trái cơ thể với tay phải). Cánh tay không bị 'ngắt' ---
+nó 'chảy' ra.
 
 Recovery: VĐV tiếp đất nhẹ nhàng bằng Kua gấp nhẹ (không cứng), cả bàn
 chân (không mũi chân), và ngay lập tức di chuyển vào ready position. Mỗi
@@ -1012,8 +1012,8 @@ của cùng một cơ chế cơ bản.
 
 **5.8 Lỗi Serve Phổ Biến Ở Cấp 5.0 và Cách Chẩn Đoán**
 
-Ở cấp 5.0, lỗi serve không phải là \'quên xoay vai\' hay \'toss quá
-thấp\' --- những điều đó đã được sửa từ lâu. Lỗi ở cấp này tinh tế hơn:
+Ở cấp 5.0, lỗi serve không phải là 'quên xoay vai' hay 'toss quá
+thấp' --- những điều đó đã được sửa từ lâu. Lỗi ở cấp này tinh tế hơn:
 
 - Double fault clusters: thường do mental break (xem Chương 16) chứ
   không phải kỹ thuật sụp
@@ -1031,7 +1031,7 @@ thấp\' --- những điều đó đã được sửa từ lâu. Lỗi ở cấp
 
 **5.9 Buổi Tập Serve Cho Vận Động Viên 5.0**
 
-Một buổi tập serve hiệu quả ở cấp 5.0 không phải là \'serve 200 quả\'.
+Một buổi tập serve hiệu quả ở cấp 5.0 không phải là 'serve 200 quả'.
 Đó là serve có chất lượng và mục đích:
 
 17. Warm-up Spiral (10 phút): bắt đầu chậm, tập trung cảm nhận Ground
@@ -1057,7 +1057,7 @@ Một buổi tập serve hiệu quả ở cấp 5.0 không phải là \'serve 20
 
 - Thứ tự mở: chân → Kua → bụng → lưng → vai → khuỷu → pronation?
 
-- Follow-through: vợt \'chảy\' ra hay bị \'ngắt\'?
+- Follow-through: vợt 'chảy' ra hay bị 'ngắt'?
 
 - Landing: Kua gấp nhẹ, không cứng, recovery ngay lập tức?
 
@@ -1105,14 +1105,14 @@ và do đó ảnh hưởng đến toàn bộ cơ chế Spiral Chain trong foreha
 
 **6.3 Coiling --- Khai Cung Cho Forehand**
 
-Tương tự Trophy Position trong serve, forehand có \'Coiling\' --- giai
+Tương tự Trophy Position trong serve, forehand có 'Coiling' --- giai
 đoạn nạp năng lượng bằng xoắn. Đây là bước mà nhiều VĐV 5.0 thực hiện
 tốt hình thức bên ngoài nhưng thiếu chiều sâu bên trong.
 
 **Bề Ngoài vs. Bề Trong Của Coiling**
 
 Coiling bề ngoài: vai xoay về phía sau, vợt đi ra sau, cánh tay chuẩn
-bị. Coiling bề trong: Kua bên phải gấp nhẹ và \'nạp\', TLF (Mingmen) bắt
+bị. Coiling bề trong: Kua bên phải gấp nhẹ và 'nạp', TLF (Mingmen) bắt
 đầu tích đàn tính, obliques căng chéo tạo Spiral Preload. Nếu chỉ có
 coiling bề ngoài, forehand là arm swing. Nếu có cả hai, forehand là
 Spiral Chain.
@@ -1186,14 +1186,14 @@ huống:
 
 **6.8 Xây Dựng Heavy Ball --- Bóng Nặng Thực Sự**
 
-\'Heavy ball\' không phải là bóng nhanh hay bóng có nhiều spin. Đó là
+'Heavy ball' không phải là bóng nhanh hay bóng có nhiều spin. Đó là
 bóng khiến đối thủ cảm thấy đang nhận nhiều lực hơn tốc độ quan sát. Đây
 là kết quả của Spiral Chain đúng --- lực từ mặt đất được truyền xuyên
 qua đến bóng, không bị rò rỉ ở đâu.
 
 Bóng nặng đòi hỏi: Ground Force đủ mạnh, Spiral Chain không đứt, Contact
 point đúng (không quá muộn), Follow-through đủ dài. Khi cả bốn yếu tố
-này hội tụ, đối thủ sẽ nói \'bóng anh ấy nặng thật\' dù tốc độ không
+này hội tụ, đối thủ sẽ nói 'bóng anh ấy nặng thật' dù tốc độ không
 phải quá nhanh.
 
 **6.9 Phân Tích Video --- Những Gì Cần Nhìn**
@@ -1208,7 +1208,7 @@ Khi quay video VĐV 5.0 để phân tích forehand:
 
 - Nhìn: follow-through --- qua vai đối diện hay dừng lại ở ngực?
 
-- Nhìn: chân sau khi đánh --- có \'pop off the ground\' một chút không?
+- Nhìn: chân sau khi đánh --- có 'pop off the ground' một chút không?
   (Dấu hiệu Ground Force tốt)
 
 **6.10 Checklist Đứng Sân --- Chương 6**
@@ -1223,7 +1223,7 @@ Khi quay video VĐV 5.0 để phân tích forehand:
 - Follow-through: vợt qua vai đối diện (Spiral) hay dừng ở ngực (arm
   swing)?
 
-- Heavy ball test: đối thủ có nhận xét bóng \'nặng\' không dù tốc độ vừa
+- Heavy ball test: đối thủ có nhận xét bóng 'nặng' không dù tốc độ vừa
   phải?
 
 **CHƯƠNG 7**
@@ -1279,11 +1279,11 @@ primary driver trong backhand hai tay theo nhiều nghiên cứu.
 Trong forehand, hông xoay cùng chiều với vai. Trong backhand hai tay, có
 một hiện tượng thú vị: hông bắt đầu xoay về phía trước (bên phải cho
 thuận tay phải) trong khi vai vẫn giữ coiling về phía sau. Khoảnh khắc
-\'counter-rotation\' này tạo ra Spiral Preload mạnh hơn cho backhand so
+'counter-rotation' này tạo ra Spiral Preload mạnh hơn cho backhand so
 với forehand ở nhiều VĐV.
 
-Cue thực tế: \'Để hông dẫn trước, nhưng giữ vai lại thêm một khoảnh khắc
-nhỏ\'. Đây là điểm tinh tế nhất trong backhand hai tay và là sự khác
+Cue thực tế: 'Để hông dẫn trước, nhưng giữ vai lại thêm một khoảnh khắc
+nhỏ'. Đây là điểm tinh tế nhất trong backhand hai tay và là sự khác
 biệt giữa backhand 4.5 và 5.0.
 
 **7.4 Backhand Một Tay --- Yêu Cầu Fascia Đặc Biệt**
@@ -1295,12 +1295,12 @@ khoảng 0.05 giây contact.
 
 Điều này có nghĩa là Spiral Chain phải hoàn hảo --- mọi đứt gãy nhỏ sẽ
 bị khuếch đại ngay. Đặc biệt, Mingmen phải cực kỳ ổn định vì không có
-tay thứ hai để \'cứu\' nếu lực bị rò rỉ.
+tay thứ hai để 'cứu' nếu lực bị rò rỉ.
 
 **Shoulder Drop --- Bí Mật Của Backhand Một Tay**
 
 Một trong những kỹ thuật quan trọng nhất của backhand một tay là
-\'shoulder drop\' --- vai thuận hạ xuống hơi thấp trong quá trình swing.
+'shoulder drop' --- vai thuận hạ xuống hơi thấp trong quá trình swing.
 Điều này tạo leverage và cho phép swing path đi lên qua bóng (tạo
 topspin) một cách tự nhiên. Federer và Wawrinka đều có shoulder drop rõ
 ràng.
@@ -1346,7 +1346,7 @@ set × 10 reps.
 
 Đánh backhand vào tường với tốc độ 40%, tập trung hoàn toàn vào kỹ
 thuật. Từ từ tăng lên 60%, 80% chỉ khi kỹ thuật nhất quán. Đây là cách
-\'myelinate\' pattern đúng ở mọi tốc độ.
+'myelinate' pattern đúng ở mọi tốc độ.
 
 **7.8 Phân Tích Backhand Djokovic --- Case Study**
 
@@ -1408,14 +1408,14 @@ Volley là nghịch lý trong tennis: cú đánh đơn giản nhất về mặt 
 về mặt cảm nhận (timing phải hoàn hảo, mặt vợt phải chính xác tuyệt đối,
 và tất cả phải xảy ra trong 0.1 giây).
 
-Trong hệ thống nội gia, volley gần với \'Push Hands\' (Tuishou) hơn bất
+Trong hệ thống nội gia, volley gần với 'Push Hands' (Tuishou) hơn bất
 kỳ cú đánh nào khác. Cả hai đều về: nhận lực incoming, không chống lại
 trực diện, redirect bằng cấu trúc, dùng timing và góc hơn sức mạnh.
 
 **8.2 Mini Spiral --- Cơ Chế Của Volley Đỉnh Cao**
 
 Nếu groundstroke là Spiral Chain đầy đủ và serve là Spiral Chain tối đa,
-thì volley là \'Mini Spiral\' --- cùng nguyên lý nhưng thu nhỏ đến mức
+thì volley là 'Mini Spiral' --- cùng nguyên lý nhưng thu nhỏ đến mức
 tối thiểu. Điều quan trọng là thu nhỏ đúng cách, không phải loại bỏ.
 
 Trong volley tốt: chân micro-adjust (5-10cm), Kua đổi góc nhẹ (5-10 độ),
@@ -1426,22 +1426,22 @@ chuyển động nhìn thấy: rất nhỏ. Lực tạo ra: đáng kể.
 
 Cho đến nay chúng ta đã thảo luận về Kua Locked (xấu) và Kua
 Active/Loaded (tốt cho serve và groundstroke). Trong volley, trạng thái
-Kua lý tưởng là Kua Float --- không khóa, không nén, mà \'nổi nhẹ\' sẵn
+Kua lý tưởng là Kua Float --- không khóa, không nén, mà 'nổi nhẹ' sẵn
 sàng micro-adjustment cực nhanh theo bất kỳ hướng nào.
 
-Federer ở vị trí volley nhìn như đang \'levitate\' một chút --- chân
+Federer ở vị trí volley nhìn như đang 'levitate' một chút --- chân
 không nặng nề, trọng tâm nổi, sẵn sàng. Đây là Kua Float hoàn hảo. Người
-xem thường mô tả là \'effortless\' --- họ đúng, nhưng không phải vì ông
+xem thường mô tả là 'effortless' --- họ đúng, nhưng không phải vì ông
 ấy không làm gì, mà vì ông ấy đang làm đúng thứ.
 
 **8.4 Vai Chìm --- Trầm Kiên**
 
-\'Trầm kiên\' (沉肩) trong nội gia --- vai chìm xuống --- là yêu cầu bắt
+'Trầm kiên' (沉肩) trong nội gia --- vai chìm xuống --- là yêu cầu bắt
 buộc cho volley tốt. Khi vai nổi (shrug), scapula không ổn định, mặt vợt
 rung, lực bị phân tán. Khi vai chìm, scapula khóa nhẹ vào lưng, Ground
 Force kết nối trực tiếp đến mặt vợt qua chuỗi ổn định.
 
-Cue thực tế: \'Nhét bả vai xuống túi quần\'. Nghe buồn cười nhưng cực kỳ
+Cue thực tế: 'Nhét bả vai xuống túi quần'. Nghe buồn cười nhưng cực kỳ
 hiệu quả. VĐV ngay lập tức cảm nhận sự ổn định ở mặt vợt.
 
 **8.5 Punch Volley vs. Block Volley vs. Drop Volley**
@@ -1476,7 +1476,7 @@ không dừng lại.
 
 **8.7 Net Position --- Đứng Ở Đâu Và Sao**
 
-VĐV 5.0 biết rằng net position không phải chỉ là \'đứng gần lưới\'. Đó
+VĐV 5.0 biết rằng net position không phải chỉ là 'đứng gần lưới'. Đó
 là vị trí chiến thuật tối ưu để cover hầu hết passing shot trong khi có
 góc đánh tốt nhất vào court đối thủ.
 
@@ -1491,7 +1491,7 @@ Chain, nhưng bạn phải di chuyển để đến vị trí đánh và bóng �
 trên, không phải từ tay mình tung.
 
 Lỗi phổ biến ở cấp 5.0: panic, đánh quá mạnh, mất Spiral Chain. Cue:
-\'Đây là serve. Chân, hông, thân, vai, tay. Theo thứ tự đó.\' Nhắc VĐV
+'Đây là serve. Chân, hông, thân, vai, tay. Theo thứ tự đó.' Nhắc VĐV
 đây là cú đánh họ đã tập hàng nghìn lần --- chỉ trong điều kiện khác.
 
 **8.9 Phát Triển Net Game Cho VĐV Baseline**
@@ -1507,9 +1507,9 @@ nhất 30% game.
 
 **8.10 Checklist Đứng Sân --- Chương 8**
 
-- Kua Float: chân VĐV có \'nổi nhẹ\', sẵn sàng, không khóa?
+- Kua Float: chân VĐV có 'nổi nhẹ', sẵn sàng, không khóa?
 
-- Vai chìm: bả vai có ổn định xuống không, hay đang \'nổi\' lên?
+- Vai chìm: bả vai có ổn định xuống không, hay đang 'nổi' lên?
 
 - Mini Spiral: có chuyển động nhỏ từ Kua dẫn đến mặt vợt không, hay là
   tay hoàn toàn?
@@ -1553,7 +1553,7 @@ Trước khi bàn về kỹ thuật return, phải nói về information gatheri
   pre-serve
 
 Tuy nhiên, đọc game phải xảy ra ở cấp độ unconscious --- nếu VĐV đang
-chủ động \'phân tích\' trong 0.5 giây đó, họ đã quá trễ. Đây là nơi mà
+chủ động 'phân tích' trong 0.5 giây đó, họ đã quá trễ. Đây là nơi mà
 số giờ tập trả về serve trở nên quan trọng: brain cần exposure đủ để
 nhận ra pattern tự động.
 
@@ -1574,15 +1574,15 @@ chuẩn bị. Họ bắt đầu một phần của quá trình chuẩn bị sớ
 information từ toss và body language của người serve.
 
 Kua pre-loading: ngay khi VĐV nhận ra đây có thể là serve về phía
-forehand, Kua bên phải bắt đầu \'load\' nhẹ. Không đủ để committed (họ
+forehand, Kua bên phải bắt đầu 'load' nhẹ. Không đủ để committed (họ
 có thể sai), nhưng đủ để rút ngắn thời gian cần thiết để load đầy đủ sau
 khi confirm.
 
 **9.5 Compact Return Technique**
 
 Ở cấp 5.0, return kỹ thuật phải compact. Backswing dài là luxury không
-có thời gian cho serve 150km/h+. Nhưng \'compact\' không có nghĩa là
-\'không có backswing\' --- có nghĩa là backswing đủ để trigger Spiral
+có thời gian cho serve 150km/h+. Nhưng 'compact' không có nghĩa là
+'không có backswing' --- có nghĩa là backswing đủ để trigger Spiral
 Preload mà không tốn thêm thời gian.
 
 **High Contact Return**
@@ -1628,7 +1628,7 @@ Nhiều VĐV 5.0 có thiên kiến chạy vòng backhand để đánh forehand r
 khai thác. Câu hỏi quan trọng: backhand return của VĐV có đủ tốt để là
 neutral hay thậm chí offensive?
 
-Djokovic\'s backhand return: tốt hơn forehand return trong nhiều điều
+Djokovic's backhand return: tốt hơn forehand return trong nhiều điều
 kiện --- điều này hiếm nhưng cho phép ông không cần thiên kiến bên nào.
 Federer: forehand return mạnh hơn, nhưng backhand return slice vẫn đặt
 đối thủ vào tình huống khó.
@@ -1660,7 +1660,7 @@ trọng.
 Giải pháp: ritual mạnh. Trước mỗi return điểm quan trọng, VĐV cần có
 routine nhỏ --- có thể chỉ là hít thở sâu một lần, cảm nhận mặt đất dưới
 chân, và nhắc nhở mình về external focus (đặt bóng về mục tiêu, không
-phải \'đừng fault\').
+phải 'đừng fault').
 
 **9.10 Checklist Đứng Sân --- Chương 9**
 
@@ -1687,8 +1687,8 @@ thiệu topspin cho thế giới tennis vào thập niên 1970. Rafael Nadal nâ
 nó lên tầm vũ khí tấn công tuyệt đối. Carlos Alcaraz kết hợp extreme
 topspin với explosive power theo cách chưa từng thấy trước đây.
 
-Ở cấp 5.0, không phải câu hỏi là \'có nên dùng topspin không\' mà là
-\'khi nào dùng topspin nào, bao nhiêu, và kết hợp với gì\'. Đây là sự
+Ở cấp 5.0, không phải câu hỏi là 'có nên dùng topspin không' mà là
+'khi nào dùng topspin nào, bao nhiêu, và kết hợp với gì'. Đây là sự
 khác biệt giữa một chiều và đa chiều.
 
 **10.2 Physics Của Topspin**
@@ -1705,28 +1705,28 @@ thủ.
 
 **10.3 Cơ Chế Tạo Topspin Đúng**
 
-Nhiều VĐV hiểu topspin là \'brushing lên trên bóng\'. Đúng nhưng chưa
+Nhiều VĐV hiểu topspin là 'brushing lên trên bóng'. Đúng nhưng chưa
 đủ. Ở cấp 5.0, topspin là kết quả của toàn bộ Spiral Chain, không phải
 chỉ là cổ tay hay khuỷu tay.
 
 **Swing Path --- Đường Vợt**
 
 Swing path phải đi từ thấp đến cao, với góc tấn công vào bóng từ phía
-dưới. Nhưng \'phía dưới\' ở đây không phải do tay đi xuống thấp bất
+dưới. Nhưng 'phía dưới' ở đây không phải do tay đi xuống thấp bất
 thường --- mà do contact point đúng (trước thân) và Spiral Chain kéo mặt
 vợt theo đường cong tự nhiên từ dưới lên.
 
 **Wrist Lag --- Cổ Tay Trễ**
 
 Đây là một trong những kỹ thuật tinh tế nhất để tạo topspin mạnh. Khi
-Spiral Chain release, cổ tay \'trễ\' lại một chút so với khuỷu --- sau
+Spiral Chain release, cổ tay 'trễ' lại một chút so với khuỷu --- sau
 đó snap lên đúng lúc contact. Đây không phải chủ động snap cổ tay --- đó
 là passive snap được trigger bởi Spiral Chain. Sự khác biệt: chủ động
 snap gây chấn thương; passive snap là hiệu quả và an toàn.
 
 **10.4 Topspin Levels --- Từ Safety Đến Extreme**
 
-Không phải tất cả topspin đều như nhau. VĐV 5.0 cần control \'dosage\':
+Không phải tất cả topspin đều như nhau. VĐV 5.0 cần control 'dosage':
 
 - Safety topspin (2,000-3,000 RPM): cho 2nd serve, deep rally ball, khi
   mệt
@@ -1746,7 +1746,7 @@ plan của VĐV có chiến thuật. Slice làm bóng thấp sau khi bounce, tha
 
 Cơ chế slice: swing path từ cao xuống thấp, mặt vợt mở nhẹ, contact ở
 phía trên của bóng. Mingmen phải ổn định hơn trong slice vì không có
-topspin để \'cứu\' bóng nếu contact không hoàn hảo.
+topspin để 'cứu' bóng nếu contact không hoàn hảo.
 
 **10.6 Biến Hóa Tốc Độ --- Thay Đổi Nhịp Điệu**
 
@@ -1806,7 +1806,7 @@ cùng một tư thế chuẩn bị. Mục tiêu: đối thủ không đọc đư
 
 - Wrist: có lag nhẹ rồi passive snap, không phải chủ động gồng?
 
-- Spin dosage: VĐV có thể kiểm soát RPM hay chỉ biết \'đánh topspin\'?
+- Spin dosage: VĐV có thể kiểm soát RPM hay chỉ biết 'đánh topspin'?
 
 - Slice: bóng có thấp và nặng sau bounce hay cao và dễ đánh?
 
@@ -1834,7 +1834,7 @@ hiện.
 
 Tennis ở cấp cao không phải là chuỗi quyết định ngẫu nhiên. Đó là
 pattern play --- những chuỗi cú đánh có chủ đích được thiết kế để tạo ra
-cơ hội. Vận động viên elite không \'quyết định\' từng cú đánh trong thời
+cơ hội. Vận động viên elite không 'quyết định' từng cú đánh trong thời
 gian thực --- họ execute pattern đã được tập luyện.
 
 Ví dụ pattern cơ bản: Cross-court forehand sâu → đối thủ return
@@ -1844,8 +1844,8 @@ có ít nhất 8-10 pattern như vậy cho forehand và 5-6 cho backhand.
 
 **11.3 Xây Dựng Game Plan Trước Trận**
 
-Mỗi trận đấu ở cấp 5.0 nên có game plan cụ thể, không phải chỉ là \'chơi
-tốt\'. Game plan dựa trên:
+Mỗi trận đấu ở cấp 5.0 nên có game plan cụ thể, không phải chỉ là 'chơi
+tốt'. Game plan dựa trên:
 
 30. Điểm mạnh của mình: VĐV giỏi nhất ở điều gì? Serve-and-volley?
     Baseline rally? Cross-court forehand?
@@ -1859,14 +1859,14 @@ tốt\'. Game plan dựa trên:
 33. Fitness của cả hai: Nếu mình fit hơn, kéo dài rally. Nếu kém fit
     hơn, tìm winner sớm
 
-+-----------------------------------------------------------------------+
-| **FRAMEWORK GAME PLAN**                                               |
-|                                                                       |
-| *1) Serve plan: flat/slice/kick vào đâu cho mỗi loại điểm? 2) Return  |
+| **FRAMEWORK GAME PLAN** |
+| --- |
+|  |
+| *1) Serve plan: flat/slice/kick vào đâu cho mỗi loại điểm? 2) Return |
 | plan: aggressive hay defensive? 3) Rally pattern chính: chuỗi cú đánh |
 | ưu tiên? 4) Attack trigger: khi nào chuyển từ rally sang tấn công? 5) |
-| Defense plan: khi bị áp lực, làm gì?*                                 |
-+-----------------------------------------------------------------------+
+| Defense plan: khi bị áp lực, làm gì?* |
+
 
 **11.4 Court Geometry --- Sử Dụng Không Gian**
 
@@ -1901,7 +1901,7 @@ quan trọng hơn.
 
 **11.6 Attack Trigger --- Khi Nào Tấn Công**
 
-VĐV 5.0 cần nhận ra \'attack trigger\' --- khoảnh khắc bóng của đối thủ
+VĐV 5.0 cần nhận ra 'attack trigger' --- khoảnh khắc bóng của đối thủ
 đủ ngắn hay yếu để chuyển sang tấn công. Attack quá sớm: rủi ro cao, sai
 vị trí. Attack quá muộn: mất cơ hội, trở về defensive.
 
@@ -1912,8 +1912,8 @@ body của mình (forehand mở rộng), sau serve thắng (2nd ball attack).
 **11.7 Serve Tactics --- Tận Dụng Quyền Chủ Động**
 
 Serve là cú đánh duy nhất bạn hoàn toàn kiểm soát --- đây là cơ hội để
-dictate điểm từ đầu. Ở cấp 5.0, serve phải là vũ khí, không chỉ là \'vào
-bóng\'.
+dictate điểm từ đầu. Ở cấp 5.0, serve phải là vũ khí, không chỉ là 'vào
+bóng'.
 
   ----------------------- ----------------------- -----------------------
     **Serve Direction**      **Mục Tiêu Chiến      **Follow-up Pattern**
@@ -1958,7 +1958,7 @@ gần như bắt buộc. Net position và poaching là chìa khóa. Communicatio
 giữa hai đối tác là yếu tố quyết định.
 
 Nguyên tắc cơ bản cho doubles 5.0: cả hai người luôn cố gắng tiến lên
-lưới cùng nhau (cùng \'floor\' hoặc cùng \'ceiling\'). Khi một người ở
+lưới cùng nhau (cùng 'floor' hoặc cùng 'ceiling'). Khi một người ở
 lưới và một người ở baseline, đó là tình huống bất lợi.
 
 **11.10 Checklist Đứng Sân --- Chương 11**
@@ -2018,14 +2018,14 @@ Dấu hiệu cần thay đổi chiến thuật: thua 3-4 điểm liên tiếp t�
 pattern, đối thủ đột nhiên đọc được trước đường bóng của mình, điều kiện
 thi đấu thay đổi (gió đổi hướng, mệt mỏi tăng lên).
 
-+-----------------------------------------------------------------------+
-| **QUY TẮC CHA MỘT SET**                                               |
-|                                                                       |
-| *Nếu cùng một chiến thuật không hiệu quả sau 1 game đầy đủ (khoảng    |
-| 4-6 điểm), hãy thay đổi. Không phải thay đổi toàn bộ game plan ---    |
+| **QUY TẮC CHA MỘT SET** |
+| --- |
+|  |
+| *Nếu cùng một chiến thuật không hiệu quả sau 1 game đầy đủ (khoảng |
+| 4-6 điểm), hãy thay đổi. Không phải thay đổi toàn bộ game plan --- |
 | thay đổi một element: serve direction, rally pattern, hay vị trí trên |
-| court.*                                                               |
-+-----------------------------------------------------------------------+
+| court.* |
+
 
 **12.4 Exploiting Weakness --- Khai Thác Điểm Yếu**
 
@@ -2063,14 +2063,14 @@ liên tục, serve kick vào thân.
 
 **12.6 Momentum Management**
 
-Tennis là môn có momentum rõ ràng. Khi một người đang \'on fire\', họ
+Tennis là môn có momentum rõ ràng. Khi một người đang 'on fire', họ
 play better --- ngay cả cùng kỹ thuật tạo ra kết quả tốt hơn. Ngược lại,
-khi \'off\', mọi thứ khó hơn. HLV 5.0 cần dạy VĐV cách manage momentum.
+khi 'off', mọi thứ khó hơn. HLV 5.0 cần dạy VĐV cách manage momentum.
 
 **Khi Đang Có Momentum**
 
 Không thay đổi gì. Maintain tempo, maintain pattern, maintain intensity.
-Điều tệ nhất là thay đổi khi đang tốt vì \'sợ hết may mắn\'. Momentum
+Điều tệ nhất là thay đổi khi đang tốt vì 'sợ hết may mắn'. Momentum
 được duy trì bằng consistency.
 
 **Khi Mất Momentum**
@@ -2116,7 +2116,7 @@ chơi phải hoạt động như một đơn vị:
 - I-formation: cả hai người ở gần lưới, tạo confusion cho returner về
   hướng net player
 
-- Australian formation: server\'s partner đứng cùng phía với server,
+- Australian formation: server's partner đứng cùng phía với server,
   forcing down-the-line return
 
 - Poaching: net player cross để intercept ball, phải có hiệu lệnh trước
@@ -2152,20 +2152,20 @@ chơi phải hoạt động như một đơn vị:
 phải quan sát mơ hồ; đây là kết quả của nhiều nghiên cứu tâm lý thể
 thao.
 
-Tâm lý học thể thao hiện đại không còn là \'nghĩ tích cực và mọi thứ sẽ
-ổn\'. Đó là khoa học cụ thể về cách não bộ hoạt động dưới áp lực, và
+Tâm lý học thể thao hiện đại không còn là 'nghĩ tích cực và mọi thứ sẽ
+ổn'. Đó là khoa học cụ thể về cách não bộ hoạt động dưới áp lực, và
 cách train để perform tốt nhất trong điều kiện đó.
 
 **13.2 Choking --- Tại Sao VĐV Giỏi Thất Bại**
 
-\'Choking\' --- perform kém hơn khả năng dưới áp lực --- xảy ra do một
+'Choking' --- perform kém hơn khả năng dưới áp lực --- xảy ra do một
 cơ chế cụ thể: khi áp lực tăng, vỏ não trước trán (prefrontal cortex)
 can thiệp vào chuyển động đã được tự động hóa, làm nó chậm lại và kém
 hiệu quả.
 
-Nói cách khác: VĐV bắt đầu \'nghĩ quá nhiều\' về kỹ thuật thay vì để nó
+Nói cách khác: VĐV bắt đầu 'nghĩ quá nhiều' về kỹ thuật thay vì để nó
 chạy tự động. Serve mà họ đã thực hiện tốt hàng nghìn lần đột nhiên cảm
-thấy lạ lẫm vì họ đang \'monitor\' nó thay vì \'execute\' nó.
+thấy lạ lẫm vì họ đang 'monitor' nó thay vì 'execute' nó.
 
   -----------------------------------------------------------------------
   Nghiên cứu Beilock (2010): VĐV golf được yêu cầu mô tả chi tiết chuyển
@@ -2180,9 +2180,9 @@ Giải pháp cho choking: process focus. Thay vì tập trung vào kết quả
 (win/lose, score), VĐV tập trung vào quá trình (cú đánh này, hít thở
 này, khoảnh khắc này).
 
-VĐV process-focused sau mỗi lỗi: \'Cú đó bóng toss hơi lệch --- lần này
-toss đúng hơn.\' VĐV outcome-focused sau mỗi lỗi: \'Tôi đang thua, serve
-của tôi không tốt, tôi sắp thua set này.\' Cái nào dẫn đến performance
+VĐV process-focused sau mỗi lỗi: 'Cú đó bóng toss hơi lệch --- lần này
+toss đúng hơn.' VĐV outcome-focused sau mỗi lỗi: 'Tôi đang thua, serve
+của tôi không tốt, tôi sắp thua set này.' Cái nào dẫn đến performance
 tốt hơn là rõ ràng.
 
 **13.4 Pre-Point Routine --- Ritual Như Vũ Khí**
@@ -2222,8 +2222,8 @@ frustration cụ thể.
 
 Bước 1: Cho phép mình cảm thấy thất vọng --- 2-3 giây. Không suppress
 cảm xúc. Bước 2: Physical reset --- bouncing on feet, shaking hands,
-adjusting strings. Bước 3: Process cue ngắn gọn --- \'toss cao hơn\' hay
-\'stay down\'. Bước 4: Back to routine. Tổng thời gian: 10-15 giây.
+adjusting strings. Bước 3: Process cue ngắn gọn --- 'toss cao hơn' hay
+'stay down'. Bước 4: Back to routine. Tổng thời gian: 10-15 giây.
 
 Điều quan trọng là bước 2 --- physical action phá vỡ rumination cycle
 trong não. Đây không phải ritual ngẫu nhiên; đây là neurologically
@@ -2231,7 +2231,7 @@ grounded.
 
 **13.7 Confidence --- Xây Dựng Và Duy Trì**
 
-Confidence trong tennis không phải là cảm giác \'mình tốt lắm\' --- đó
+Confidence trong tennis không phải là cảm giác 'mình tốt lắm' --- đó
 là tin tưởng vào quá trình và kỹ thuật của mình, ngay cả khi score không
 tốt. Confidence thực sự là process-based, không phải outcome-based.
 
@@ -2257,7 +2257,7 @@ Có sự khác biệt lớn giữa practice mindset và competition mindset. Tro
 tập luyện, bạn phân tích, điều chỉnh, chấp nhận sai. Trong thi đấu, bạn
 commit, execute, và fight for every point. Nhiều VĐV không switch được.
 
-Cách chuyển: ritual pre-match rõ ràng để signal \'competition mode\'.
+Cách chuyển: ritual pre-match rõ ràng để signal 'competition mode'.
 Trong match, không nghĩ đến kỹ thuật --- chỉ nghĩ đến mục tiêu (đặt bóng
 vào đâu, pattern nào). Post-match mới phân tích kỹ thuật.
 
@@ -2478,7 +2478,7 @@ không?
 **Phase 3: Mingmen và Lưng (1:00 - 1:30)**
 
 Vùng thắt lưng khi loading và release: có phẳng và đàn hồi không? Có
-hyperextension không? Khi release, TLF có \'bật\' không hay cứng đơ?
+hyperextension không? Khi release, TLF có 'bật' không hay cứng đơ?
 
 **Phase 4: Vai và Tay (1:30 - 2:00)**
 
@@ -2526,7 +2526,7 @@ Các công cụ phân tích video hiệu quả và dễ sử dụng:
 - SwingVision (tennis-specific): automatic tracking, stats, comparison
   với pro players
 
-- Coach\'s Eye: multi-angle, drawing tools, voice annotation
+- Coach's Eye: multi-angle, drawing tools, voice annotation
 
 - Dartfish: professional-grade, dùng ở Olympic training centers
 
@@ -2547,7 +2547,7 @@ VĐV của bạn cạnh video của pro player có phong cách tương tự. Đi
 thường nói lên nhiều hơn là ngàn lời giải thích.
 
 Quan trọng: chọn pro player phù hợp với tố chất của VĐV (không so sánh
-người thấp với Djokovic 6\'2), và focus vào một specific element mỗi lần
+người thấp với Djokovic 6'2), và focus vào một specific element mỗi lần
 xem, không cố so sánh tất cả mọi thứ.
 
 **15.8 Data Analytics --- Tennis Metrics**
@@ -2597,7 +2597,7 @@ không cần checklist. Mỗi giai đoạn mất 3-6 tháng.
 
 **16.1 Từ Tập Luyện Đến Thành Thạo --- Con Đường**
 
-Có một khoảng cách lớn giữa \'biết\' và \'thành thạo\'. VĐV có thể hiểu
+Có một khoảng cách lớn giữa 'biết' và 'thành thạo'. VĐV có thể hiểu
 ngay lập tức tại sao Kua quan trọng, nhưng cần hàng trăm giờ để Kua hoạt
 động tự nhiên trong match pressure. Hiểu con đường từ knowledge đến
 mastery là bước đầu tiên để thiết kế buổi tập hiệu quả.
@@ -2619,8 +2619,8 @@ retention (nhớ và apply được) tốt hơn nhiều.
   -----------------------------------------------------------------------
   Nghiên cứu Shea & Morgan (1979), replicated nhiều lần: Random practice
   dẫn đến retention tốt hơn 50-70% so với blocked practice, dù trong buổi
-  tập người random practice perform kém hơn. Điều này gọi là \'desirable
-  difficulty\'.
+  tập người random practice perform kém hơn. Điều này gọi là 'desirable
+  difficulty'.
 
   -----------------------------------------------------------------------
 
@@ -2646,23 +2646,23 @@ mà không cần HLV nói.
 
 **16.5 Question-Based Coaching**
 
-Thay vì nói \'bạn phải làm X\', hỏi \'bạn cảm thấy gì khi đó? Kua của
-bạn ở đâu trong cú đó?\' Câu hỏi kích thích introspection và
+Thay vì nói 'bạn phải làm X', hỏi 'bạn cảm thấy gì khi đó? Kua của
+bạn ở đâu trong cú đó?' Câu hỏi kích thích introspection và
 problem-solving --- hai kỹ năng quan trọng trong match khi HLV không ở
 đó.
 
 **Câu Hỏi Hiệu Quả**
 
-\'Bạn cảm nhận thấy gì khác biệt giữa hai cú vừa rồi?\' --- khuyến khích
+'Bạn cảm nhận thấy gì khác biệt giữa hai cú vừa rồi?' --- khuyến khích
 proprioceptive awareness.
 
-\'Kết quả bạn muốn ở cú đó là gì?\' --- thiết lập external focus trước
+'Kết quả bạn muốn ở cú đó là gì?' --- thiết lập external focus trước
 khi execute.
 
-\'Bạn nghĩ nguyên nhân của lỗi đó là gì?\' --- develop analytical
+'Bạn nghĩ nguyên nhân của lỗi đó là gì?' --- develop analytical
 thinking.
 
-\'Nếu làm lại, bạn sẽ thay đổi gì?\' --- transfer lesson từ error về
+'Nếu làm lại, bạn sẽ thay đổi gì?' --- transfer lesson từ error về
 future action.
 
 **16.6 Structuring A Training Session**
@@ -2695,7 +2695,7 @@ Drill tập luyện trong bong bóng (VĐV chỉ thực hiện technical movemen
 không có opponent, decision-making, hay context) có transfer thấp.
 
 Cách nâng độ game-like của drill: thêm opponent (dù passive), thêm
-decision-making (\'nếu bóng vào vùng này thì X, vùng kia thì Y\'), thêm
+decision-making ('nếu bóng vào vùng này thì X, vùng kia thì Y'), thêm
 consequence (point counting, winner-loser), và thêm time pressure.
 
 **16.8 Individual vs Group Training**
@@ -2710,7 +2710,7 @@ context với another player. Tỷ lệ lý tưởng: 30% individual technical,
 VĐV 5.0 cũng cần tự tập (không có HLV) hiệu quả. HLV cần cung cấp
 guidelines rõ ràng:
 
-- Backboard practice: không phải \'đánh bóng\' mà là specific focus (ví
+- Backboard practice: không phải 'đánh bóng' mà là specific focus (ví
   dụ: 20 phút chỉ focus vào follow-through qua Spiral)
 
 - Shadow swings trước gương: ideal để check kỹ thuật không cần bóng
@@ -2746,7 +2746,7 @@ guidelines rõ ràng:
 Một trong những sai lầm phổ biến nhất của HLV là cố gắng đưa tất cả VĐV
 về cùng một khuôn mẫu kỹ thuật. Điều này không chỉ không hiệu quả --- nó
 có thể có hại. Cơ thể mỗi người có tỷ lệ khác nhau, khớp có góc khác
-nhau, fascia có độ đàn hồi khác nhau. Kỹ thuật \'hoàn hảo\' cho người
+nhau, fascia có độ đàn hồi khác nhau. Kỹ thuật 'hoàn hảo' cho người
 này có thể không tối ưu cho người khác.
 
 Nguyên lý: dạy nguyên lý (Spiral Chain, Kua-Mingmen, Ground Force),
@@ -2798,22 +2798,22 @@ style (aggressive baseliner vs counter-puncher vs all-court player).
 
 **17.4 Phát Triển Signature Weapon**
 
-Mọi VĐV 5.0 đỉnh cao đều có một \'signature weapon\' --- cú đánh hoặc
+Mọi VĐV 5.0 đỉnh cao đều có một 'signature weapon' --- cú đánh hoặc
 tình huống mà họ đặc biệt xuất sắc và sử dụng như vũ khí chủ đạo. Nadal:
 forehand heavy topspin. Federer: backhand slice + net game. Djokovic:
 return + backhand.
 
 HLV cần xác định signature weapon tiềm năng của VĐV dựa trên tố chất tự
-nhiên và phát triển nó đến mức weapons-grade --- không chỉ \'tốt\' mà
-\'nguy hiểm\' khi được khai thác đúng.
+nhiên và phát triển nó đến mức weapons-grade --- không chỉ 'tốt' mà
+'nguy hiểm' khi được khai thác đúng.
 
-**17.5 Khi Kỹ Thuật \'Không Đẹp\' Nhưng Hiệu Quả**
+**17.5 Khi Kỹ Thuật 'Không Đẹp' Nhưng Hiệu Quả**
 
 Đây là tình huống HLV phải đối mặt: VĐV có kỹ thuật không textbook nhưng
 hiệu quả trong match. Ví dụ: grip không chuẩn nhưng consistent, footwork
 không đẹp nhưng họ luôn đến vị trí đúng.
 
-Nguyên tắc: đừng \'sửa\' nếu không có lý do cụ thể. Hỏi: kỹ thuật này có
+Nguyên tắc: đừng 'sửa' nếu không có lý do cụ thể. Hỏi: kỹ thuật này có
 đang giới hạn development không? Có nguy cơ chấn thương không? Nếu
 không, có thể để nguyên. Nếu có, sửa với kế hoạch cẩn thận.
 
@@ -2879,7 +2879,7 @@ cấp thấp hơn. Cách họ xử lý linesmen calls, đối xử với đối 
 - Signature weapon của VĐV là gì và đang được phát triển đến
   weapons-grade chưa?
 
-- Kỹ thuật \'không đẹp\' nào đang bị cố sửa mà không có lý do cụ thể?
+- Kỹ thuật 'không đẹp' nào đang bị cố sửa mà không có lý do cụ thể?
 
 - Coaching approach có phù hợp với age và background của VĐV không?
 
@@ -2897,7 +2897,7 @@ knee, và lower back là vùng phổ biến nhất. Nhưng điều đáng chú �
 lớn chấn thương tennis không phải do tai nạn mà do overuse và
 biomechanical dysfunction.
 
-\'Biomechanical dysfunction\' là thuật ngữ khoa học cho điều chúng ta đã
+'Biomechanical dysfunction' là thuật ngữ khoa học cho điều chúng ta đã
 nói trong suốt cuốn sách: Kua khóa, Mingmen chết, Spiral Chain đứt. Khi
 lực không được truyền đúng đường, nó tích tụ ở mắt xích yếu nhất --- và
 đó là nơi chấn thương xảy ra.
@@ -2911,11 +2911,11 @@ cổ tay.
 
 **Serve Shoulder --- Nguyên Nhân Thực Sự**
 
-Rotator cuff injury trong serve thường được cho là do \'quá nhiều
-serve\' hoặc \'sai kỹ thuật vai\'. Nhưng phần lớn trường hợp, nguyên
+Rotator cuff injury trong serve thường được cho là do 'quá nhiều
+serve' hoặc 'sai kỹ thuật vai'. Nhưng phần lớn trường hợp, nguyên
 nhân thực sự là Kua-Mingmen không đủ --- vai phải generate power thay vì
-chỉ transmit và control. Giải pháp lâu dài không phải là \'serve ít
-hơn\' mà là \'serve đúng hơn\'.
+chỉ transmit và control. Giải pháp lâu dài không phải là 'serve ít
+hơn' mà là 'serve đúng hơn'.
 
 **Tennis Elbow --- Overuse Hay Technique?**
 
@@ -2926,7 +2926,7 @@ giảm đáng kể.
 
 **18.3 Warm-Up Đúng Cách**
 
-Warm-up không phải là \'một vài cú đánh nhẹ rồi bắt đầu\'. Đây là quá
+Warm-up không phải là 'một vài cú đánh nhẹ rồi bắt đầu'. Đây là quá
 trình chuẩn bị có hệ thống:
 
 39. Aerobic activation (5 phút): jogging nhẹ, jumping jacks --- tăng
@@ -3087,7 +3087,7 @@ khi tell. Demo cú đánh trước, sau đó giải thích. So sánh với video
 
 Tiếp nhận qua verbal instruction rõ ràng, metaphor, và timing cues (nhịp
 điệu, âm thanh). Với auditory learner: sử dụng nhiều metaphor sinh động
-(\'quăng đầu vợt như quăng vợt\', \'cảm nhận mặt đất đẩy lên\').
+('quăng đầu vợt như quăng vợt', 'cảm nhận mặt đất đẩy lên').
 
 **Kinesthetic Learners**
 
@@ -3199,13 +3199,13 @@ họ từ macro đến micro:
 **Level 1: Movement Quality**
 
 Trước khi nhìn vào bất kỳ cú đánh cụ thể nào, quan sát chất lượng chuyển
-động tổng thể. Họ di chuyển như thế nào? Bóng ra có \'nặng\' không dù
+động tổng thể. Họ di chuyển như thế nào? Bóng ra có 'nặng' không dù
 tốc độ không phải extreme? Có dấu hiệu của Spiral Chain trong mọi cú
 đánh không? Đây là level cao nhất và quan trọng nhất.
 
 **Level 2: Kinetic Chain Integrity**
 
-Lực có đi từ dưới lên liên tục không, hay có \'gãy\' ở đâu đó? Check
+Lực có đi từ dưới lên liên tục không, hay có 'gãy' ở đâu đó? Check
 từng mắt xích: chân → Kua → Mingmen → vai → tay. Thường chỉ có 1-2 mắt
 xích problematic trong một VĐV.
 
@@ -3319,7 +3319,7 @@ Làm thế nào để biết development đang diễn ra? Không chỉ nhìn và
 
 - Physical markers: đau vai/khuỷu sau training có giảm không?
 
-- Subjective feedback: VĐV có cảm thấy \'nhẹ hơn\' và \'tự nhiên hơn\'
+- Subjective feedback: VĐV có cảm thấy 'nhẹ hơn' và 'tự nhiên hơn'
   không?
 
 **20.8 Khi Không Có Tiến Bộ --- Troubleshooting**
@@ -3342,24 +3342,24 @@ check list này:
 
 **20.9 Dụng Ý Bất Dụng Lực --- Lần Cuối**
 
-Cuốn sách này bắt đầu bằng khái niệm \'Dụng ý bất dụng lực\' và kết thúc
+Cuốn sách này bắt đầu bằng khái niệm 'Dụng ý bất dụng lực' và kết thúc
 cũng ở đó. Nhưng sau 19 chương, hy vọng bạn hiểu nó sâu hơn. Không phải
-\'không dùng sức\' theo nghĩa đen. Mà là: dùng đúng loại sức (elastic,
+'không dùng sức' theo nghĩa đen. Mà là: dùng đúng loại sức (elastic,
 không phải muscular), ở đúng thời điểm (timing trong chuỗi), qua đúng
 con đường (Spiral Chain), với đúng ý thức (external focus vào kết quả).
 
 Khi VĐV của bạn cuối cùng cảm nhận được điều này --- khi serve cảm thấy
 nhẹ nhàng nhưng bóng ra nặng, khi forehand trông effortless nhưng đối
-thủ nói \'bóng anh ấy nặng thật\' --- đó là khoảnh khắc bạn biết rằng
+thủ nói 'bóng anh ấy nặng thật' --- đó là khoảnh khắc bạn biết rằng
 mọi công sức đã đáng giá.
 
-+-----------------------------------------------------------------------+
-| **PHƯƠNG CHÂM CỦA HLV 5.0**                                           |
-|                                                                       |
-| *Dạy nguyên lý, không phải copy. Kích hoạt cảm giác, không phải điều  |
-| khiển cơ bắp. Xây dựng người chơi tự lập, không phải người phụ thuộc  |
-| vào HLV. Luôn học, luôn tiến hóa, luôn humble.*                       |
-+-----------------------------------------------------------------------+
+| **PHƯƠNG CHÂM CỦA HLV 5.0** |
+| --- |
+|  |
+| *Dạy nguyên lý, không phải copy. Kích hoạt cảm giác, không phải điều |
+| khiển cơ bắp. Xây dựng người chơi tự lập, không phải người phụ thuộc |
+| vào HLV. Luôn học, luôn tiến hóa, luôn humble.* |
+
 
 **20.10 Lời Kết --- Hành Trình Không Bao Giờ Kết Thúc**
 
@@ -3390,35 +3390,35 @@ sân:
   ----------------------- ----------------------- -----------------------
     **Vấn Đề Quan Sát**   **Nguyên Nhân Cơ Học**     **Cue Sửa Nhanh**
 
-   Bóng nhẹ, thiếu depth    Kua khóa, arm swing    \'Ngồi nhẹ trên hông
-                                                     trước khi đánh\'
+   Bóng nhẹ, thiếu depth    Kua khóa, arm swing    'Ngồi nhẹ trên hông
+                                                     trước khi đánh'
 
-      Vai đau sau tập        Mingmen chết, vai    \'Thả lỏng vai, để hông
-                               generate lực                dẫn\'
+      Vai đau sau tập        Mingmen chết, vai    'Thả lỏng vai, để hông
+                               generate lực                dẫn'
 
-       Đau lưng dưới        Hyperextension ---     \'Giữ lưng phẳng như
-                               Mingmen dead              ván gỗ\'
+       Đau lưng dưới        Hyperextension ---     'Giữ lưng phẳng như
+                               Mingmen dead              ván gỗ'
 
-  Cú serve mất consistent  Toss không nhất quán    \'Đặt bóng lên, không
-                                                        ném bóng\'
+  Cú serve mất consistent  Toss không nhất quán    'Đặt bóng lên, không
+                                                        ném bóng'
 
-    Bóng ra mạng nhiều    Cú đánh từ quá xa hoặc  \'Nhìn mục tiêu, không
-                                  quá tối               nhìn bóng\'
+    Bóng ra mạng nhiều    Cú đánh từ quá xa hoặc  'Nhìn mục tiêu, không
+                                  quá tối               nhìn bóng'
 
-  Forehand bị đánh lại dễ Không có topspin, bóng   \'Vợt đi từ thấp lên
-                                bằng phẳng            cao qua bóng\'
+  Forehand bị đánh lại dễ Không có topspin, bóng   'Vợt đi từ thấp lên
+                                bằng phẳng            cao qua bóng'
 
-  Mất balance sau cú đánh Không có follow-through \'Để vợt chảy ra, đừng
-                                   đúng                dừng nó lại\'
+  Mất balance sau cú đánh Không có follow-through 'Để vợt chảy ra, đừng
+                                   đúng                dừng nó lại'
 
-    Chậm react với bóng    Split step sai timing  \'Nhảy nhỏ đúng lúc đối
-                                hoặc thiếu              thủ đánh\'
+    Chậm react với bóng    Split step sai timing  'Nhảy nhỏ đúng lúc đối
+                                hoặc thiếu              thủ đánh'
 
-        Cổ tay đau          Cổ tay gồng, không    \'Tay như sợi dây, đầu
-                                  passive              vợt như đá\'
+        Cổ tay đau          Cổ tay gồng, không    'Tay như sợi dây, đầu
+                                  passive              vợt như đá'
 
-    Pronation sai trong    Chủ động snap cổ tay   \'Quăng mặt vợt lên, cổ
-           serve                                        tay theo\'
+    Pronation sai trong    Chủ động snap cổ tay   'Quăng mặt vợt lên, cổ
+           serve                                        tay theo'
   ----------------------- ----------------------- -----------------------
 
 **B. MASTER TROUBLESHOOTING GUIDE**
@@ -3441,11 +3441,11 @@ Khi không biết vấn đề bắt đầu từ đâu, theo thứ tự này:
   ----------------------------------- -----------------------------------
              **THUẬT NGỮ**                      **ĐỊNH NGHĨA**
 
-               Kua (跨)                Khớp háng và vùng bẹn --- \'bộ vi
-                                      sai\' chuyển lực dọc thành lực xoắn
+               Kua (跨)                Khớp háng và vùng bẹn --- 'bộ vi
+                                      sai' chuyển lực dọc thành lực xoắn
 
-            Mingmen (命門)            Vùng thắt lưng L2-L3 --- \'trục đàn
-                                       hồi\' truyền lực từ chân lên tay
+            Mingmen (命門)            Vùng thắt lưng L2-L3 --- 'trục đàn
+                                       hồi' truyền lực từ chân lên tay
 
              Spiral Chain              Đường fascia xoắn ốc từ bàn chân
                                                lên vai đối diện
@@ -3453,7 +3453,7 @@ Khi không biết vấn đề bắt đầu từ đâu, theo thứ tự này:
              Elastic Power            Lực đàn hồi từ fascia --- hiệu quả
                                                hơn Muscle Power
 
-                Tọa Kua               \'Ngồi\' nhẹ vào bẹn --- trạng thái
+                Tọa Kua               'Ngồi' nhẹ vào bẹn --- trạng thái
                                                Kua Active/Loaded
 
                Kua Float                Kua nổi nhẹ, sẵn sàng --- trạng
@@ -3495,40 +3495,40 @@ Dưới đây là danh sách tài liệu tham khảo cho HLV muốn đào sâu h
 
 **Biomechanics & Anatomy**
 
-- \'Anatomy Trains\' --- Thomas Myers (2001, 4th ed. 2020): Nền tảng về
+- 'Anatomy Trains' --- Thomas Myers (2001, 4th ed. 2020): Nền tảng về
   Spiral Line và fascial anatomy
 
-- \'Athletic Body in Balance\' --- Gray Cook: Movement assessment và
+- 'Athletic Body in Balance' --- Gray Cook: Movement assessment và
   corrective exercise
 
-- \'Science and Practice of Strength Training\' --- Zatsiorsky &
+- 'Science and Practice of Strength Training' --- Zatsiorsky &
   Kraemer: Sức mạnh cho thể thao
 
 **Motor Learning**
 
-- \'The Talent Code\' --- Daniel Coyle: Myelin và deliberate practice
+- 'The Talent Code' --- Daniel Coyle: Myelin và deliberate practice
 
-- \'How People Learn\' --- Ambrose et al.: Principles of learning từ
+- 'How People Learn' --- Ambrose et al.: Principles of learning từ
   cognitive science
 
-- \'Focus\' --- Gabriele Wulf: External vs internal focus research
+- 'Focus' --- Gabriele Wulf: External vs internal focus research
 
 **Sports Psychology**
 
-- \'The Inner Game of Tennis\' --- Timothy Gallwey: Classic về mental
+- 'The Inner Game of Tennis' --- Timothy Gallwey: Classic về mental
   game
 
-- \'Choke\' --- Sian Beilock: Khoa học về choking và how to prevent it
+- 'Choke' --- Sian Beilock: Khoa học về choking và how to prevent it
 
-- \'Mindset\' --- Carol Dweck: Growth mindset và fixed mindset
+- 'Mindset' --- Carol Dweck: Growth mindset và fixed mindset
 
 **Tennis Specific**
 
-- \'Modern Tennis Fundamentals\' --- Brad Gilbert: Tactical framework
+- 'Modern Tennis Fundamentals' --- Brad Gilbert: Tactical framework
 
-- \'The Science of Tennis\' --- Duane Knudson: Biomechanics applied to
+- 'The Science of Tennis' --- Duane Knudson: Biomechanics applied to
   tennis
 
-- \'Play Your Best Tennis\' --- Oscar Wegner: Natural learning approach
+- 'Play Your Best Tennis' --- Oscar Wegner: Natural learning approach
 
-*TENNIS MASTERY --- THE ELITE COACH\'S HANDBOOK © 2026*
+*TENNIS MASTERY --- THE ELITE COACH'S HANDBOOK © 2026*

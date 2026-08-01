@@ -121,29 +121,29 @@ Sau nhiều năm làm việc với các vận động viên ở cấp độ này
 
 **Trụ Cột Thứ Nhất: Footwork Engine Không Bao Giờ Tắt**
 
-Người chơi 5.0 không bao giờ \'đứng chết\'. Chân họ luôn trong trạng
+Người chơi 5.0 không bao giờ 'đứng chết'. Chân họ luôn trong trạng
 thái sẵn sàng --- một nhịp micro-bounce liên tục giúp hệ thần kinh luôn
 tỉnh táo và sẵn sàng chuyển đổi từ trạng thái nghỉ sang di chuyển trong
 phần nhỏ của một giây. Đây không phải là nhảy nhót liên tục --- đó là
 một trạng thái cân bằng động, như một chiếc lò xo được nén nhẹ, lúc nào
 cũng sẵn sàng bung ra.
 
-Nhiều huấn luyện viên dạy split step như một kỹ thuật rời rạc --- \'nhảy
-khi đối thủ đánh bóng\'. Nhưng ở cấp độ 5.0, split step là một phần của
+Nhiều huấn luyện viên dạy split step như một kỹ thuật rời rạc --- 'nhảy
+khi đối thủ đánh bóng'. Nhưng ở cấp độ 5.0, split step là một phần của
 một hệ thống di chuyển liên tục, không phải một hành động riêng biệt. Sự
 khác biệt này có vẻ nhỏ về mặt lý thuyết nhưng tạo ra sự khác biệt lớn
 trong thực tế thi đấu.
 
 **Trụ Cột Thứ Hai: Hệ Thống Ra Quyết Định Theo Trạng Thái**
 
-Người chơi 5.0 không \'chọn cú đánh\' theo nghĩa thông thường. Thay vào
+Người chơi 5.0 không 'chọn cú đánh' theo nghĩa thông thường. Thay vào
 đó, họ đọc trạng thái của điểm đấu --- vị trí của họ, chất lượng bóng
 nhận được, vị trí của đối thủ --- và hệ thống tự động đề xuất cú đánh
 tối ưu. Đây là sự khác biệt giữa ra quyết định tích cực (chủ động) và ra
 quyết định phản ứng (bị động).
 
-Trong thực tế, điều này có nghĩa là người chơi 5.0 hiếm khi bị \'đóng
-băng\' bởi quá nhiều lựa chọn. Họ đã được lập trình trước với một hệ
+Trong thực tế, điều này có nghĩa là người chơi 5.0 hiếm khi bị 'đóng
+băng' bởi quá nhiều lựa chọn. Họ đã được lập trình trước với một hệ
 thống: nếu bóng đến theo cách này, trong vị trí này, tôi làm điều đó.
 Không cần phân tích dài dòng trong 0.3 giây có sẵn.
 
@@ -259,7 +259,7 @@ viên của bạn đã tiếp thu được chưa.
 
 **1.7 Định Nghĩa Thành Công Ở Cấp Độ 5.0**
 
-Cuối cùng, điều quan trọng là phải định nghĩa rõ ràng \'thành công\' có
+Cuối cùng, điều quan trọng là phải định nghĩa rõ ràng 'thành công' có
 nghĩa là gì ở cấp độ này. Không phải là thắng mọi trận --- điều đó không
 thực tế và cũng không phải là mục tiêu đúng đắn nhất. Thành công ở cấp
 độ 5.0 có nghĩa là:
@@ -268,7 +268,7 @@ thực tế và cũng không phải là mục tiêu đúng đắn nhất. Thành
   không sụp đổ về mặt kỹ thuật
 
 - Quyết định trong thi đấu được đưa ra nhanh và nhất quán, không phụ
-  thuộc vào \'cảm giác của ngày hôm đó\'
+  thuộc vào 'cảm giác của ngày hôm đó'
 
 - Vận động viên có thể tự điều chỉnh trong trận --- nhận ra khi chiến
   thuật không hoạt động và chuyển sang phương án B
@@ -288,7 +288,7 @@ có hệ thống.
 
 Một trong những quan sát quan trọng nhất khi nghiên cứu vận động viên
 tennis đẳng cấp cao là: họ không bao giờ thực sự đứng yên. Ngay cả khi
-đang \'nghỉ\' giữa hai cú đánh, cơ thể họ luôn duy trì một mức độ hoạt
+đang 'nghỉ' giữa hai cú đánh, cơ thể họ luôn duy trì một mức độ hoạt
 động tối thiểu --- một nhịp dao động nhỏ, một sự nảy nhẹ trên mũi chân,
 một sự căng nhẹ trong toàn bộ hệ thống cơ bắp. Đây không phải là sự bồn
 chồn hay mất tập trung --- đây là Bipedal Engine System (BES) đang hoạt
@@ -296,15 +296,15 @@ chồn hay mất tập trung --- đây là Bipedal Engine System (BES) đang ho�
 
 **2.1 Tại Sao \"Đứng Chết\" Là Kẻ Thù Lớn Nhất**
 
-Hãy cùng phân tích điều gì xảy ra khi một vận động viên \'đứng chết\'
+Hãy cùng phân tích điều gì xảy ra khi một vận động viên 'đứng chết'
 giữa hai cú đánh. Về mặt sinh lý học, khi cơ thể hoàn toàn tĩnh, hệ thần
 kinh chuyển sang trạng thái nghỉ ngơi một phần. Trương lực cơ giảm
 xuống. Phản xạ chậm lại. Và quan trọng nhất, khi bóng đến, cơ thể phải
-trải qua một quá trình \'khởi động lại\' trước khi có thể di chuyển hiệu
+trải qua một quá trình 'khởi động lại' trước khi có thể di chuyển hiệu
 quả --- tương tự như việc phải nhấn nút start của một chiếc xe đã tắt
 máy, thay vì chỉ cần nhấn ga của một chiếc xe đang chạy ở chế độ idle.
 
-Trong tennis, quá trình \'khởi động lại\' này mất khoảng 0.2-0.4 giây.
+Trong tennis, quá trình 'khởi động lại' này mất khoảng 0.2-0.4 giây.
 Điều này có vẻ nhỏ, nhưng trong thực tế, đó là sự khác biệt giữa việc
 đến được bóng với đủ thời gian để chuẩn bị đánh và việc phải vội vàng
 đánh trong tình trạng mất thăng bằng.
@@ -323,8 +323,8 @@ chuyển. Đặc điểm của Idle Engine:
 - Micro-bounce nhẹ trên mũi chân --- không nhảy, không nảy cao, chỉ là
   một dao động rất nhỏ
 
-- Trọng tâm hơi về phía trước --- không nghiêng quá mức, chỉ đủ để \'sẵn
-  sàng\'
+- Trọng tâm hơi về phía trước --- không nghiêng quá mức, chỉ đủ để 'sẵn
+  sàng'
 
 - Gối hơi gập --- khoảng 10-15 độ, không quá thấp (tốn năng lượng) không
   quá cao (mất phản xạ)
@@ -390,14 +390,14 @@ trạng thái như sau:
 
 Vòng lặp này lặp đi lặp lại trong suốt trận đấu, mỗi cycle mất khoảng
 1-4 giây tùy thuộc vào tốc độ rally. Điều quan trọng là: KHÔNG CÓ TRẠNG
-THÁI \'DỪNG HOÀN TOÀN\'. Ngay cả trong recovery sau khi đánh, vận động
+THÁI 'DỪNG HOÀN TOÀN'. Ngay cả trong recovery sau khi đánh, vận động
 viên đang quay trở về Idle Engine --- không phải đứng yên.
 
 **2.4 Bipedal Principle --- Nguyên Tắc Hai Chân**
 
-\'Bipedal\' trong Bipedal Engine System không chỉ là tên gọi --- đó là
+'Bipedal' trong Bipedal Engine System không chỉ là tên gọi --- đó là
 nguyên tắc cốt lõi: hai chân không bao giờ cùng nghỉ hoàn toàn. Luôn có
-một chân đang \'lead micro-movement\' --- tức là đang trong quá trình
+một chân đang 'lead micro-movement' --- tức là đang trong quá trình
 tải trọng lượng chuẩn bị cho bước tiếp theo.
 
 Hãy quan sát Novak Djokovic giữa những cú đánh. Bạn sẽ thấy anh ấy luôn
@@ -457,12 +457,12 @@ phải, không phải tiến về phía trước.
 Mục tiêu: Cài đặt phản xạ Idle Engine không cần bóng.
 
 Thực hiện: Vận động viên đứng ở vị trí ready giữa đường cuối. Coach hô
-các hướng ngẫu nhiên: \'trái\', \'phải\', \'tiến\', \'lùi\'. Trước khi
+các hướng ngẫu nhiên: 'trái', 'phải', 'tiến', 'lùi'. Trước khi
 hô, vận động viên phải duy trì Idle Engine. Khi nghe lệnh, phản ứng ngay
 và di chuyển 2-3 bước theo hướng đó, sau đó quay về vị trí và khôi phục
 Idle Engine.
 
-Mục tiêu cụ thể: Không \'đóng băng\' giữa các lần hô lệnh. Không nhảy
+Mục tiêu cụ thể: Không 'đóng băng' giữa các lần hô lệnh. Không nhảy
 cao trong Idle Engine. Không đứng hoàn toàn tĩnh. Chuyển từ Idle sang
 Explosive trong dưới 0.3 giây.
 
@@ -482,20 +482,20 @@ rally) hoặc tăng lên 100 (Idle Engine nhanh cho defensive situations).
 
 Mục tiêu: Luyện tập chuyển đổi nhanh giữa các trạng thái.
 
-Thực hiện: Coach hô một trong ba lệnh: \'IDLE\', \'ADJUST\',
-\'EXPLODE\'. Vận động viên phải chuyển sang trạng thái tương ứng ngay
-lập tức. Khi \'IDLE\': micro-bounce nhẹ, nhìn về phía trước. Khi
-\'ADJUST\': split step và 1-2 bước điều chỉnh sang một hướng tùy ý. Khi
-\'EXPLODE\': sprint 3-4 bước về một góc của sân.
+Thực hiện: Coach hô một trong ba lệnh: 'IDLE', 'ADJUST',
+'EXPLODE'. Vận động viên phải chuyển sang trạng thái tương ứng ngay
+lập tức. Khi 'IDLE': micro-bounce nhẹ, nhìn về phía trước. Khi
+'ADJUST': split step và 1-2 bước điều chỉnh sang một hướng tùy ý. Khi
+'EXPLODE': sprint 3-4 bước về một góc của sân.
 
 **Bài Tập 4: Rally Constraint Drill**
 
 Mục tiêu: Tích hợp BES vào rally thực tế.
 
-Thực hiện: Rally với đối tác. Quy tắc đặc biệt: Nếu vận động viên \'đứng
-chết\' (không duy trì Idle Engine) khi đối tác đánh bóng --- mất điểm
+Thực hiện: Rally với đối tác. Quy tắc đặc biệt: Nếu vận động viên 'đứng
+chết' (không duy trì Idle Engine) khi đối tác đánh bóng --- mất điểm
 ngay, bất kể bóng đi đâu. Coach hoặc một người quan sát theo dõi và gọi
-\'FREEZE\' khi thấy vi phạm.
+'FREEZE' khi thấy vi phạm.
 
 **2.7 Sai Lầm Phổ Biến và Cách Sửa**
 
@@ -504,11 +504,11 @@ ngay, bất kể bóng đi đâu. Coach hoặc một người quan sát theo dõ
 Triệu chứng: Vận động viên nhảy quá cao hoặc quá thường xuyên, trông
 giống như đang chạy tại chỗ. Hậu quả: Tốn năng lượng không cần thiết,
 mất timing khi split step thực sự cần thiết, split step thực tế trở
-thành phần của \'nhảy nhịp\' thay vì một hành động có mục đích.
+thành phần của 'nhảy nhịp' thay vì một hành động có mục đích.
 
 Cách sửa: Yêu cầu vận động viên cảm nhận sàn sân dưới chân. Micro-bounce
-không được nâng gót chân khỏi mặt sân quá 1-2 cm. Sử dụng cue: \'Mũi
-chân không rời sân --- chỉ gót chân nhấc nhẹ.\'
+không được nâng gót chân khỏi mặt sân quá 1-2 cm. Sử dụng cue: 'Mũi
+chân không rời sân --- chỉ gót chân nhấc nhẹ.'
 
 **Sai Lầm 2: Upper Body Tension**
 
@@ -517,7 +517,7 @@ quả: Sức căng lan xuống đến chân làm giảm hiệu quả của BES, 
 hưởng vì toàn bộ chuỗi động học bị gián đoạn.
 
 Cách sửa: Yêu cầu vận động viên lắc nhẹ cả hai tay như khi bộ hành thư
-giãn. Cue: \'Tay thả lỏng, vai thả lỏng --- chỉ chân là đang làm việc.\'
+giãn. Cue: 'Tay thả lỏng, vai thả lỏng --- chỉ chân là đang làm việc.'
 
 **Sai Lầm 3: Inconsistent Split Step Timing**
 
@@ -529,8 +529,8 @@ Cách sửa: Tập split step riêng lẻ --- chỉ tập timing mà không cầ
 chuyển theo bóng. Coach ném bóng và vận động viên chỉ cần split step
 đúng lúc bóng rời tay coach. Không cần chạy theo bóng trong bài tập này.
 
-> ***Coach Cue tổng hợp cho BES: \'Never freeze. Engine always on. Small
-> feet before big feet. Move while you think.\'***
+> ***Coach Cue tổng hợp cho BES: 'Never freeze. Engine always on. Small
+> feet before big feet. Move while you think.'***
 
 **2.8 Đánh Giá Tiến Độ**
 
@@ -546,7 +546,7 @@ checklist đánh giá:
 - Chuyển từ Idle sang Explosive trong dưới 0.3 giây (đo bằng video
   slow-motion)
 
-- Vận động viên có thể tự nhận ra khi nào mình \'freeze\' và tự sửa
+- Vận động viên có thể tự nhận ra khi nào mình 'freeze' và tự sửa
 
 Đây là những tiêu chí tối thiểu. Khi vận động viên đã đạt được tất cả,
 họ đã sẵn sàng để xây dựng lớp tiếp theo: Double Mini Split Step và
@@ -575,7 +575,7 @@ thông tin) hoặc quá muộn (khi đã bỏ lỡ window tối ưu).
 
 > ***Insight quan trọng: Double Mini Split Step giải quyết vấn đề này
 > bằng cách chia quá trình đọc và phản ứng thành hai giai đoạn, mỗi giai
-> đoạn với một cơ hội \'reset\' và cập nhật thông tin.***
+> đoạn với một cơ hội 'reset' và cập nhật thông tin.***
 
 **3.2 Cấu Trúc của Double Mini Split Step**
 
@@ -586,7 +586,7 @@ họ chạm bóng. Mục đích của split này là:
 
 - Reset posture --- đưa cơ thể về trạng thái cân bằng tối ưu
 
-- Kích hoạt hệ thần kinh --- \'thông báo\' cho cơ thể rằng thông tin
+- Kích hoạt hệ thần kinh --- 'thông báo' cho cơ thể rằng thông tin
   quan trọng sắp đến
 
 - Bắt đầu quá trình đọc --- mắt bắt đầu focus vào các tín hiệu quan
@@ -597,8 +597,8 @@ của Idle Engine, chỉ hơi rõ ràng hơn một chút.
 
 **Mini Split Step #2 --- Final Timing Lock-In**
 
-Split thứ hai xảy ra ngay trước khi đối thủ chạm bóng. Đây là \'final
-lock\' --- cơ thể đã đọc đủ thông tin để bắt đầu commit vào một hướng.
+Split thứ hai xảy ra ngay trước khi đối thủ chạm bóng. Đây là 'final
+lock' --- cơ thể đã đọc đủ thông tin để bắt đầu commit vào một hướng.
 Mục đích:
 
 - Chốt hướng di chuyển --- tất cả thông tin từ split #1 được tổng hợp và
@@ -615,7 +615,7 @@ Mục đích:
 Đây là điểm mà nhiều người hiểu nhầm nhất: Double Mini Split Step KHÔNG
 phải là hai lần nhảy riêng biệt, rõ ràng như một điệu múa. Nếu bạn làm
 đúng, từ bên ngoài trông như một split step duy nhất --- nhưng bên trong
-có hai điểm \'nén\' nhỏ.
+có hai điểm 'nén' nhỏ.
 
 *\"One split, two feelings\" --- cue quan trọng nhất để vận động viên
 hiểu đúng kỹ thuật này.*
@@ -631,7 +631,7 @@ chế thần kinh học. Khi cơ thể tiếp đất sau một mini-jump (dù r�
 hệ thống cảm thụ bản thể (proprioceptive system) được kích hoạt ---
 thông tin về vị trí, trọng lượng, và hướng chuyển động được cập nhật.
 Bằng cách tạo ra hai điểm kích hoạt này, DMSS cho phép cơ thể nhận được
-hai \'snapshot\' thông tin thay vì một, và quyết định cuối cùng dựa trên
+hai 'snapshot' thông tin thay vì một, và quyết định cuối cùng dựa trên
 thông tin đầy đủ hơn nhiều.
 
 Điều này đặc biệt quan trọng khi đối mặt với những cú đánh có spin lớn
@@ -645,7 +645,7 @@ cùng.
 
 Thực hiện: Vận động viên đứng yên. Coach cầm vợt và bắt đầu swing chậm.
 Vận động viên thực hiện DMSS: mini-bounce khi coach bắt đầu swing, rồi
-split nhỏ hơn khi coach \'chạm bóng\' (bạn có thể dùng ngón tay chạm vào
+split nhỏ hơn khi coach 'chạm bóng' (bạn có thể dùng ngón tay chạm vào
 vợt như điểm tiếp xúc). Lặp lại 20-30 lần cho đến khi timing trở nên tự
 nhiên.
 
@@ -684,7 +684,7 @@ ngay lập tức.
 
 Ở lưới, DMSS cần được điều chỉnh đặc biệt. Split #1 và #2 gần như xảy ra
 cùng lúc vì thời gian cực kỳ ngắn. Thực tế ở lưới, DMSS trở thành một
-\'micro-vibration with double point contact\' --- cảm giác như hai nén
+'micro-vibration with double point contact' --- cảm giác như hai nén
 nhỏ trong một khoảnh khắc.
 
 **3.7 Tích Hợp DMSS vào BES**
@@ -701,7 +701,7 @@ sự trơn tru và liên tục trong di chuyển của họ mà rất khó diễ
 lời nhưng rất rõ ràng khi quan sát trực tiếp.
 
 > ***Mục tiêu cuối cùng: DMSS phải trở nên tự động đến mức vận động viên
-> không còn \'nghĩ\' về nó --- họ chỉ đơn giản là luôn ở đúng vị trí vào
+> không còn 'nghĩ' về nó --- họ chỉ đơn giản là luôn ở đúng vị trí vào
 > đúng thời điểm.***
 
 **CHƯƠNG 4**
@@ -721,28 +721,28 @@ Footwork OS được xây dựng trên ba lớp kế thừa nhau:
 
 Đây là lớp nền --- luôn chạy, không bao giờ tắt. Output của lớp này là:
 micro-bounce nhẹ, weight on forefoot, và constant readiness pulse. Đây
-là \'background process\' của hệ điều hành, chạy liên tục với mức tiêu
+là 'background process' của hệ điều hành, chạy liên tục với mức tiêu
 thụ năng lượng tối thiểu.
 
 **Layer 2: Timing Control (DMSS Layer)**
 
 Đây là lớp phối hợp thời gian --- kích hoạt khi đối thủ bắt đầu chuẩn bị
 đánh bóng. Output: double mini split step đúng timing, posture reset hai
-lần, và vị trí cơ thể tối ưu trước khi di chuyển. Lớp này là \'event
-handler\' --- phản ứng với các sự kiện cụ thể trong trận.
+lần, và vị trí cơ thể tối ưu trước khi di chuyển. Lớp này là 'event
+handler' --- phản ứng với các sự kiện cụ thể trong trận.
 
 **Layer 3: Execution Engine (Explosive Movement)**
 
 Đây là lớp thực thi --- chuyển từ readiness sang actual movement.
-Output: crossover step, sprint, và deceleration control. Đây là \'output
-layer\' --- nơi mà tất cả quá trình xử lý phía trên trở thành hành động
+Output: crossover step, sprint, và deceleration control. Đây là 'output
+layer' --- nơi mà tất cả quá trình xử lý phía trên trở thành hành động
 vật lý thực sự.
 
 **4.2 Bốn Quy Tắc Vàng của Footwork OS**
 
 **Quy Tắc 1: Never Zero Motion**
 
-Không có trạng thái đứng hoàn toàn tĩnh. Ngay cả khi \'nghỉ\', Idle
+Không có trạng thái đứng hoàn toàn tĩnh. Ngay cả khi 'nghỉ', Idle
 Engine vẫn đang chạy. Đây là quy tắc nền tảng mà tất cả các quy tắc khác
 xây dựng trên đó.
 
@@ -755,7 +755,7 @@ tốc khởi đầu trong khi vẫn đang đọc thêm thông tin.
 **Quy Tắc 3: Two Reset Before One Explosion**
 
 Luôn cần hai micro-reset (DMSS) trước khi kích hoạt Explosive Engine.
-Đây là cơ chế chống \'false commitment\' --- đảm bảo quyết định được đưa
+Đây là cơ chế chống 'false commitment' --- đảm bảo quyết định được đưa
 ra với đủ thông tin.
 
 **Quy Tắc 4: Recovery Is Part of Strike**
@@ -771,8 +771,8 @@ theo.
 Mục tiêu: Cài đặt micro-bounce như trạng thái mặc định. Thời gian: 10-15
 phút mỗi buổi. Bài tập chính: Shadow court drill không bóng --- đứng tại
 vị trí ready, duy trì Idle Engine liên tục trong 3-5 phút. Coach quan
-sát và gọi \'FREEZE\' bất cứ khi nào nhìn thấy đứng hoàn toàn tĩnh. Tiêu
-chí đạt: Duy trì Idle Engine trong 5 phút không có lần \'FREEZE\' nào.
+sát và gọi 'FREEZE' bất cứ khi nào nhìn thấy đứng hoàn toàn tĩnh. Tiêu
+chí đạt: Duy trì Idle Engine trong 5 phút không có lần 'FREEZE' nào.
 
 **Module 2: Double Reset Drill (Tuần 3-4)**
 
@@ -784,17 +784,17 @@ visible trong slow-motion video.
 
 **Module 3: Move While Think Drill (Tuần 5-6)**
 
-Mục tiêu: Loại bỏ \'decision delay\' --- khoảng thời gian chết giữa khi
+Mục tiêu: Loại bỏ 'decision delay' --- khoảng thời gian chết giữa khi
 nhìn thấy bóng và khi bắt đầu di chuyển. Bài tập chính: Coach hô hướng
 bất kỳ. Vận động viên PHẢI đang trong Idle Engine khi nghe lệnh, và bắt
-đầu di chuyển ngay khi nghe. Không được phép dừng Idle Engine để \'quyết
-định\'. Tiêu chí đạt: Reaction time dưới 0.25 giây từ khi nghe lệnh đến
+đầu di chuyển ngay khi nghe. Không được phép dừng Idle Engine để 'quyết
+định'. Tiêu chí đạt: Reaction time dưới 0.25 giây từ khi nghe lệnh đến
 khi bắt đầu di chuyển.
 
 **Module 4: Recovery Loop Drill (Tuần 7-8)**
 
 Mục tiêu: Tự động hóa recovery sau mỗi cú đánh. Bài tập chính: Sau mỗi
-cú đánh trong rally, vận động viên phải hô to \'RECOVER\' và ngay lập
+cú đánh trong rally, vận động viên phải hô to 'RECOVER' và ngay lập
 tức bắt đầu di chuyển về vị trí home base trong khi vẫn đang theo dõi
 bóng. Không được đứng nhìn bóng bay sau khi đánh. Tiêu chí đạt: Recovery
 bắt đầu trong vòng 0.2 giây sau khi vợt chạm bóng.
@@ -803,7 +803,7 @@ bắt đầu trong vòng 0.2 giây sau khi vợt chạm bóng.
 
 Mục tiêu: Tích hợp tất cả các module thành một hệ thống liền mạch. Bài
 tập chính: Rally thực tế với điểm số. Quy tắc đặc biệt: Coach có thể
-dừng điểm bất kỳ lúc nào và hỏi \'Bạn đang ở trạng thái nào?\' Vận động
+dừng điểm bất kỳ lúc nào và hỏi 'Bạn đang ở trạng thái nào?' Vận động
 viên phải trả lời chính xác: Idle, Adjust, hay Explosive. Tiêu chí đạt:
 Trả lời đúng ít nhất 9/10 lần.
 
@@ -840,21 +840,21 @@ court coverage được chia sẻ. Những điều chỉnh quan trọng:
 
 Footwork OS của hai người trong doubles phải được đồng bộ hóa. Khi một
 người di chuyển để đánh bóng, người kia phải tự động điều chỉnh vị trí
-để duy trì court coverage cân bằng. Đây là \'co-operative Footwork OS\'
+để duy trì court coverage cân bằng. Đây là 'co-operative Footwork OS'
 --- hai hệ thống riêng biệt phối hợp như một.
 
 **Net Player Footwork**
 
 Người chơi lưới trong doubles cần một phiên bản đặc biệt của Footwork OS
---- \'Net Mode\'. Trong Net Mode: Idle Engine ở mức micro-vibration (nhỏ
+--- 'Net Mode'. Trong Net Mode: Idle Engine ở mức micro-vibration (nhỏ
 hơn baseline mode). DMSS cực kỳ nhanh --- hai điểm nén xảy ra trong dưới
 0.2 giây. Explosive Engine chủ yếu là lateral --- di chuyển ngang để
 poach, không phải tiến về phía trước.
 
 **4.6 Footwork OS và Quản Lý Năng Lượng**
 
-Một câu hỏi phổ biến: \'Nếu phải duy trì Idle Engine suốt trận, sẽ tốn
-quá nhiều năng lượng không?\' Câu trả lời là: Không --- nếu thực hiện
+Một câu hỏi phổ biến: 'Nếu phải duy trì Idle Engine suốt trận, sẽ tốn
+quá nhiều năng lượng không?' Câu trả lời là: Không --- nếu thực hiện
 đúng. Idle Engine được thiết kế để tiêu thụ năng lượng tối thiểu.
 Micro-bounce đúng kỹ thuật sử dụng elastic energy của gân --- không phải
 cơ. Đây là nguyên tắc tương tự như cách kanguru di chuyển: họ dùng
@@ -875,7 +875,7 @@ khởi động lại từ trạng thái hoàn toàn tĩnh hàng trăm lần tron
 Dưới đây là bộ cues ngắn gọn bạn có thể sử dụng ngay trên sân để giao
 tiếp với vận động viên về Footwork OS:
 
-- \"Don\'t stop.\" --- nhắc nhở Idle Engine
+- \"Don't stop.\" --- nhắc nhở Idle Engine
 
 - \"Stay spring.\" --- nhắc nhở posture elastic
 
@@ -903,29 +903,29 @@ trí vào đúng thời điểm. Nhưng đến vị trí rồi, họ phải làm
 Shot Selection OS (SSOS) phát huy tác dụng --- hệ thống tự động chọn cú
 đánh tối ưu dựa trên trạng thái của điểm đấu.
 
-**5.1 Vấn Đề Của \'Lựa Chọn Tự Do\'**
+**5.1 Vấn Đề Của 'Lựa Chọn Tự Do'**
 
-Khi được hỏi \'Bạn đánh gì trong tình huống đó?\' nhiều vận động viên
-trả lời: \'Tùy lúc, tôi chọn theo cảm giác.\' Đây là câu trả lời của một
+Khi được hỏi 'Bạn đánh gì trong tình huống đó?' nhiều vận động viên
+trả lời: 'Tùy lúc, tôi chọn theo cảm giác.' Đây là câu trả lời của một
 người chơi 3.5. Một vận động viên 5.0 nên có câu trả lời cụ thể hơn:
-\'Bóng đến như vậy, tôi ở vị trí đó, đối thủ đứng đây --- tôi đánh A vì
-lý do X.\'
+'Bóng đến như vậy, tôi ở vị trí đó, đối thủ đứng đây --- tôi đánh A vì
+lý do X.'
 
-\'Lựa chọn tự do\' có một chi phí ẩn lớn: thời gian. Mỗi lần vận động
-viên phải \'suy nghĩ\' về cú đánh tiếp theo, họ mất 0.3-0.8 giây ---
+'Lựa chọn tự do' có một chi phí ẩn lớn: thời gian. Mỗi lần vận động
+viên phải 'suy nghĩ' về cú đánh tiếp theo, họ mất 0.3-0.8 giây ---
 thời gian đủ để chất lượng cú đánh giảm đáng kể vì cơ thể không được
 chuẩn bị sớm.
 
-> ***Nguyên tắc SSOS: Bạn không \'chọn cú đánh\' --- bạn đọc trạng thái
+> ***Nguyên tắc SSOS: Bạn không 'chọn cú đánh' --- bạn đọc trạng thái
 > và hệ thống tự động đề xuất cú đánh tối ưu trong 0.3-0.5 giây.***
 
 **5.2 Ba Input Layer của SSOS**
 
 **Input 1: Ball Data**
 
-Vận động viên không \'nhìn bóng\' theo nghĩa thông thường --- họ đọc bốn
+Vận động viên không 'nhìn bóng' theo nghĩa thông thường --- họ đọc bốn
 thông số của bóng: tốc độ, spin, độ sâu, và chiều cao. Bốn thông số này
-tạo ra một \'ball profile\' trong não bộ, và profile đó trigger các
+tạo ra một 'ball profile' trong não bộ, và profile đó trigger các
 response nhất định trong hệ thống.
 
 Ví dụ: Bóng nhanh + topspin cao + sâu = defensive response automatic.
@@ -1037,7 +1037,7 @@ OS**
 
 Điều quan trọng: Shot Mode Selection phải xảy ra TRONG KHI vận động viên
 đang di chuyển đến bóng --- không phải sau khi đã đến. Nếu vận động viên
-phải dừng lại và \'suy nghĩ\' khi đã đến vị trí, Footwork OS đã không
+phải dừng lại và 'suy nghĩ' khi đã đến vị trí, Footwork OS đã không
 làm đúng việc của nó.
 
 **5.6 Các Bài Tập Phát Triển SSOS**
@@ -1045,21 +1045,21 @@ làm đúng việc của nó.
 **Bài Tập 1: Shot Call Drill**
 
 Partner đánh bóng. Trước khi đánh, vận động viên phải nói to:
-\'CONTROL\', \'NEUTRAL\', \'ATTACK\', hoặc \'FINISH\'. Sau đó đánh cú
-tương ứng với shot mode đã hô. Mục tiêu: Xây dựng thói quen \'đọc state
-trước khi đánh\'.
+'CONTROL', 'NEUTRAL', 'ATTACK', hoặc 'FINISH'. Sau đó đánh cú
+tương ứng với shot mode đã hô. Mục tiêu: Xây dựng thói quen 'đọc state
+trước khi đánh'.
 
 **Bài Tập 2: No-Choice Drill**
 
 Coach đặt vận động viên vào các tình huống cụ thể và chỉ cho phép một
-shot mode. \'Bóng này là ATTACK only --- bạn phải tấn công.\' Hoặc
-\'Bóng này là CONTROL only --- không được tấn công.\' Mục tiêu: Luyện
+shot mode. 'Bóng này là ATTACK only --- bạn phải tấn công.' Hoặc
+'Bóng này là CONTROL only --- không được tấn công.' Mục tiêu: Luyện
 tập thực hiện từng mode một cách thuần túy và đúng cách.
 
 **Bài Tập 3: Situation Recognition Drill**
 
-Coach mô tả một tình huống: \'Bóng đến nhanh, topspin cao, bạn đang ở
-sau baseline, đối thủ ở lưới.\' Vận động viên phải gọi ngay shot mode mà
+Coach mô tả một tình huống: 'Bóng đến nhanh, topspin cao, bạn đang ở
+sau baseline, đối thủ ở lưới.' Vận động viên phải gọi ngay shot mode mà
 không cần bóng thực sự. Mục tiêu: Tốc độ nhận diện tình huống.
 
 **Bài Tập 4: Speed Decision Drill**
@@ -1082,7 +1082,7 @@ Nguyên tắc risk management:
 
 - Nếu mệt mỏi --- tự động giảm aggression xuống một bậc
 
-> ***Nguyên tắc vàng của SSOS: \'Play the state, not the emotion.\'
+> ***Nguyên tắc vàng của SSOS: 'Play the state, not the emotion.'
 > Quyết định dựa trên thực tế của tình huống, không dựa trên cảm xúc của
 > khoảnh khắc.***
 
@@ -1207,7 +1207,7 @@ giảm aggression, build nhiều hơn). Điểm số (break point → conservati
 ưu thế → aggressive). Wind conditions (gió thuận → attack nhiều hơn, gió
 ngược → dùng topspin nhiều hơn).
 
-> ***Châm ngôn của Rally Control: \'Depth first, winner later.\' Không
+> ***Châm ngôn của Rally Control: 'Depth first, winner later.' Không
 > bao giờ sacrifice reliability để có một winner nếu chưa đến Finish
 > phase.***
 
@@ -1301,7 +1301,7 @@ thủ.
 
 **7.3 Game Style Analysis --- Phân Tích Kiểu Chơi**
 
-Ở cấp độ 5.0, các vận động viên đã phát triển một \'game style\' rõ
+Ở cấp độ 5.0, các vận động viên đã phát triển một 'game style' rõ
 ràng. Bạn cần nhận diện kiểu chơi của đối thủ trong những điểm đầu tiên
 và điều chỉnh chiến thuật cho phù hợp.
 
@@ -1361,14 +1361,14 @@ leverage points xấu (0-30), phải tăng reliability.
 
 Tennis có đặc điểm đặc biệt: momentum có thể thay đổi rất nhanh. Khi
 đang momentum tốt: tiếp tục aggressive, không thay đổi gì. Khi momentum
-xấu (3 lỗi liên tiếp, game liên tục bị break): phải \'reset\' --- thay
+xấu (3 lỗi liên tiếp, game liên tục bị break): phải 'reset' --- thay
 đổi một điều gì đó về chiến thuật, tempo, hoặc cả hai.
 
 **7.5 Hệ Thống Serve Trong Singles**
 
 Serve là cú đánh quan trọng nhất trong tennis --- nó là cú đánh duy nhất
-bạn hoàn toàn kiểm soát. Ở cấp độ 5.0, serve không chỉ là \'đưa bóng vào
-play\' --- đó là vũ khí chiến lược.
+bạn hoàn toàn kiểm soát. Ở cấp độ 5.0, serve không chỉ là 'đưa bóng vào
+play' --- đó là vũ khí chiến lược.
 
 **Serve Placement System**
 
@@ -1381,13 +1381,13 @@ bạn muốn build sau serve.
 **First vs Second Serve Strategy**
 
 First serve: aggressive, đặt vào vị trí tốt nhất theo kế hoạch. Second
-serve: không phải \'safe serve\' --- đó là serve để setup điểm theo cách
+serve: không phải 'safe serve' --- đó là serve để setup điểm theo cách
 khác. Nhiều vận động viên 5.0 dùng kick serve second serve cao vào
 backhand để buộc đối thủ phải nhận bóng ở tầm cao và đánh chéo sân ---
 đó là setup có chủ đích.
 
 > ***Nguyên tắc serve: Mỗi serve phải là nước đi đầu tiên của một
-> pattern --- không phải chỉ là \'đưa bóng vào play\'.***
+> pattern --- không phải chỉ là 'đưa bóng vào play'.***
 
 **CHƯƠNG 8**
 
@@ -1510,14 +1510,14 @@ lập với partner:
 
 **Pre-Point Communication**
 
-Trước mỗi serve: Server hỏi net player \'Poach hay không?\' Net player
-phản hồi \'Poach\' hoặc \'Hold\'. Ký hiệu: đơn giản là chạm vào giỏ bóng
+Trước mỗi serve: Server hỏi net player 'Poach hay không?' Net player
+phản hồi 'Poach' hoặc 'Hold'. Ký hiệu: đơn giản là chạm vào giỏ bóng
 hoặc không. Việc này phải diễn ra không quá 3 giây.
 
 **In-Point Communication**
 
-Trong điểm: \'Mine!\' khi ai sẽ đánh bóng. \'Yours!\' khi nhường cho
-partner. \'Back!\' khi lob qua đầu. \'Switch!\' khi cả hai phải đổi bên.
+Trong điểm: 'Mine!' khi ai sẽ đánh bóng. 'Yours!' khi nhường cho
+partner. 'Back!' khi lob qua đầu. 'Switch!' khi cả hai phải đổi bên.
 Tất cả các cue này phải được hô to và rõ ràng --- không được thì thầm.
 
 **Post-Point Communication**
@@ -1582,7 +1582,7 @@ gắng phòng thủ center lane. Đội control center lane nhiều hơn sau 20
 Serve là cú đánh duy nhất trong tennis mà bạn hoàn toàn kiểm soát ---
 không phụ thuộc vào đối thủ, không phụ thuộc vào điều kiện bất ngờ. Đây
 là lý do tại sao serve phải là vũ khí được chuẩn bị kỹ lưỡng nhất. Ở cấp
-độ 5.0, serve không chỉ là \'đưa bóng vào play\' --- serve là bước đầu
+độ 5.0, serve không chỉ là 'đưa bóng vào play' --- serve là bước đầu
 tiên của một kế hoạch chiến thuật.
 
 **9.1 Anatomy Của Serve Hiệu Quả**
@@ -1592,8 +1592,8 @@ Một serve 5.0 level không nhất thiết phải cực nhanh --- nhưng phải
 
 **Placement Chính Xác**
 
-Serve vào đúng vị trí mà bạn có kế hoạch --- không phải serve \'vào
-sân\'. Placement chính xác có nghĩa là bạn có thể nhắm vào một khu vực
+Serve vào đúng vị trí mà bạn có kế hoạch --- không phải serve 'vào
+sân'. Placement chính xác có nghĩa là bạn có thể nhắm vào một khu vực
 50cm x 50cm và thực hiện được ít nhất 7/10 lần. Điều này không đến từ
 tốc độ --- nó đến từ ball toss nhất quán và swing path được kiểm soát.
 
@@ -1634,7 +1634,7 @@ force weak return về forehand của mình.
 
 **9.3 Serve + 1 System**
 
-\'Serve + 1\' nghĩa là mỗi serve được thiết kế với cú đánh thứ hai (cú 3
+'Serve + 1' nghĩa là mỗi serve được thiết kế với cú đánh thứ hai (cú 3
 của điểm --- serve là 1) đã được lên kế hoạch. Serve không phải là sự
 kiện độc lập --- nó là nước đi đầu tiên của một pattern.
 
@@ -1654,7 +1654,7 @@ Ví dụ về Serve + 1 patterns:
 **9.4 Second Serve Strategy**
 
 Second serve là nơi nhiều vận động viên 5.0 vẫn còn weakness. Sai lầm
-phổ biến nhất: biến second serve thành \'safe serve\' --- bóng chậm,
+phổ biến nhất: biến second serve thành 'safe serve' --- bóng chậm,
 cao, dễ attack. Đây là suicide strategy vì đối thủ sẽ tấn công second
 serve của bạn.
 
@@ -1712,13 +1712,13 @@ lực --- không phải tăng speed, mà là duy trì consistency.
 
 Return of serve là cú đánh thứ hai quan trọng nhất trong tennis --- chỉ
 sau serve. Tuy nhiên, nhiều vận động viên xem return như là kỹ năng thụ
-động --- \'chỉ cần đưa bóng vào sân\'. Ở cấp độ 5.0, return là vũ khí
+động --- 'chỉ cần đưa bóng vào sân'. Ở cấp độ 5.0, return là vũ khí
 tấn công và công cụ chiến thuật mạnh mẽ.
 
 **10.1 Mindset Của Người Return**
 
-Thay đổi mindset đầu tiên: Bạn không \'nhận bóng\' --- bạn đang \'phá vỡ
-kế hoạch của server\'. Server đã có một plan (serve + 1 pattern). Công
+Thay đổi mindset đầu tiên: Bạn không 'nhận bóng' --- bạn đang 'phá vỡ
+kế hoạch của server'. Server đã có một plan (serve + 1 pattern). Công
 việc của bạn là: nhận diện plan đó và neutralize nó, hoặc phá vỡ pattern
 bằng một return unexpected.
 
@@ -1796,7 +1796,7 @@ tiêu: Qua đầu net player, force server phải lùi về.
 **10.5 Return in Doubles --- Return Đặc Thù Trong Doubles**
 
 Return trong doubles có những yêu cầu đặc biệt vì có net player của đối
-thủ đang \'rình\' ở lưới. Điều này ảnh hưởng đến mọi quyết định về
+thủ đang 'rình' ở lưới. Điều này ảnh hưởng đến mọi quyết định về
 return.
 
 **Return Mục Tiêu Trong Doubles**
@@ -1812,7 +1812,7 @@ volley lên cao. Priority 4: Lob return --- vũ khí bất ngờ khi net player
 Khi net player đang poach nhiều: Return down-the-line --- điều này buộc
 net player phải stay hoặc mạo hiểm. Lob return liên tục --- buộc net
 player phải lùi về defensive position. Body return --- nhắm vào
-server\'s body để limit power serve.
+server's body để limit power serve.
 
 **10.6 Building Return as a Weapon**
 
@@ -1825,7 +1825,7 @@ Khi tấn công return: Nhắm vào open court (thường là trước khi serve
 recover về center). Nhắm vào body của server khi họ đang tiến vào sân.
 Đánh thẳng qua net player nếu họ đang ở một bên rõ ràng.
 
-> ***Châm ngôn return: \'Neutralize first, attack second.\' Mục tiêu đầu
+> ***Châm ngôn return: 'Neutralize first, attack second.' Mục tiêu đầu
 > tiên của return luôn là vô hiệu hóa lợi thế serve của đối thủ. Tấn
 > công là bonus nếu tình huống cho phép.***
 
@@ -1835,7 +1835,7 @@ recover về center). Nhắm vào body của server khi họ đang tiến vào s
 
 Server serve với ba loại serve khác nhau theo thứ tự random. Returner
 không được nhìn bóng vào ô serve --- chỉ nhìn server và đọc tín hiệu từ
-ball toss và shoulder. Gọi to \'FLAT\', \'KICK\', hoặc \'SLICE\' trước
+ball toss và shoulder. Gọi to 'FLAT', 'KICK', hoặc 'SLICE' trước
 khi bóng qua lưới. Mục tiêu: Accuracy 65%+ sau 2-3 tuần tập.
 
 **Bài Tập 2: Return Direction Drill**
@@ -1865,7 +1865,7 @@ liên tục.
 **Layer 1: Footwork OS --- Cơ Thể**
 
 Lớp nền tảng không bao giờ tắt. Mọi quyết định chiến thuật đều vô nghĩa
-nếu cơ thể không ở đúng vị trí vào đúng thời điểm. Đây là \'hardware\'
+nếu cơ thể không ở đúng vị trí vào đúng thời điểm. Đây là 'hardware'
 của hệ thống --- không có hardware tốt, software tốt đến đâu cũng không
 chạy được.
 
@@ -1873,21 +1873,21 @@ chạy được.
 
 Lớp thứ hai xử lý real-time decision making cho từng cú đánh. Input:
 ball data, court position, body state. Output: shot mode và shot
-selection. Đây là \'application layer\' --- chạy trên hardware của
+selection. Đây là 'application layer' --- chạy trên hardware của
 Footwork OS.
 
 **Layer 3: Rally Control OS --- Chiến Thuật Điểm**
 
 Lớp thứ ba quản lý chuỗi cú đánh trong một điểm --- pattern building,
 depth/direction/pace control, và việc chuyển đổi giữa Build, Press, và
-Finish phases. Đây là \'strategic layer\' --- quyết định làm thế nào để
+Finish phases. Đây là 'strategic layer' --- quyết định làm thế nào để
 xây dựng điểm một cách có chủ đích.
 
 **Layer 4: Match State OS --- Tâm Lý và Điểm Số**
 
 Lớp cao nhất quản lý trận đấu ở cấp độ macro: điểm số, momentum, energy
 management, và điều chỉnh chiến lược theo diễn biến tổng thể. Đây là
-\'meta-layer\' --- quyết định làm thế nào để thắng trận, không chỉ thắng
+'meta-layer' --- quyết định làm thế nào để thắng trận, không chỉ thắng
 từng điểm.
 
 **11.2 Vòng Lặp Vận Hành Của Full Match OS**
@@ -1963,7 +1963,7 @@ management không chỉ là về thể chất --- mà là về phân bổ effort
 Không phải mọi điểm đều đáng đầu tư 100% energy. High leverage points
 (break points, deuce, game-deciding moments) deserve maximum effort. Các
 điểm thông thường ở giữa game deserves effort proportional to situation.
-Đây không phải là \'chơi lười\' --- đây là energy allocation thông minh.
+Đây không phải là 'chơi lười' --- đây là energy allocation thông minh.
 
 **Recovery Between Points**
 
@@ -1983,7 +1983,7 @@ serve placement để setup easy volleys thay vì build dài rally.
 **11.6 Real-Time Adaptation System**
 
 Full Match OS phải liên tục cập nhật dựa trên thông tin mới. Sau mỗi 3-4
-điểm, vận động viên nên \'audit\' hệ thống:
+điểm, vận động viên nên 'audit' hệ thống:
 
 - Serve placement nào đang work? Nào không?
 
@@ -1994,10 +1994,10 @@ Full Match OS phải liên tục cập nhật dựa trên thông tin mới. Sau 
 
 - Đối thủ có điều chỉnh gì so với đầu trận?
 
-Quá trình audit này không nên mất quá 10-15 giây --- đây là \'background
-analysis\' xảy ra tự nhiên khi vận động viên đã được huấn luyện tốt.
+Quá trình audit này không nên mất quá 10-15 giây --- đây là 'background
+analysis' xảy ra tự nhiên khi vận động viên đã được huấn luyện tốt.
 
-**11.7 Coach\'s Role Trong Full Match OS**
+**11.7 Coach's Role Trong Full Match OS**
 
 Khi vận động viên đang thi đấu với Full Match OS, vai trò của bạn với tư
 cách huấn luyện viên thay đổi. Trong trận đấu (từ courtside): Quan sát
@@ -2009,7 +2009,7 @@ Trong changeover: Tối đa 2 điều chỉnh chiến thuật, được nói tro
 giây đầu. Phần còn lại của changeover: vận động viên rest và reset.
 Không phân tích dài --- nói ngắn gọn và rõ ràng.
 
-> ***Nguyên tắc coaching trong trận: \'One adjustment at a time.\' Quá
+> ***Nguyên tắc coaching trong trận: 'One adjustment at a time.' Quá
 > nhiều thông tin trong changeover sẽ làm vận động viên bị overloaded và
 > tệ hơn, không tốt hơn.***
 
@@ -2019,7 +2019,7 @@ Không phân tích dài --- nói ngắn gọn và rõ ràng.
 
 Ở cấp độ 5.0, kỹ thuật và thể chất của hai vận động viên thường không
 cách nhau quá nhiều. Trong những trận như vậy, yếu tố quyết định gần như
-luôn là tâm lý. Chương này không phải về việc \'nghĩ tích cực\' --- mà
+luôn là tâm lý. Chương này không phải về việc 'nghĩ tích cực' --- mà
 là về việc xây dựng một hệ thống tâm lý vững chắc có thể duy trì
 performance trong điều kiện áp lực cao.
 
@@ -2039,7 +2039,7 @@ sluggish movement, passive shot selection, không theo dõi bóng tốt.
 
 **Lớp 2: Focus Quality --- Chất Lượng Tập Trung**
 
-Focus trong tennis không phải là \'cố gắng tập trung\' --- đó là biết
+Focus trong tennis không phải là 'cố gắng tập trung' --- đó là biết
 đặt attention vào đúng chỗ vào đúng thời điểm. Trong điểm: External
 focus vào bóng và đối thủ. Giữa các điểm: Internal focus để reset và
 prepare. Trong changeover: Strategic focus để review và adjust.
@@ -2059,7 +2059,7 @@ server: Lỗi phổ biến nhất là cố gắng quá nhiều --- serve quá ag
 groundstroke quá ambitious. Giải pháp: Trở về một serve reliable, play
 to your strength pattern, không cố gắng winner sớm. Từ phía returner:
 Lỗi phổ biến là quá passive --- chờ server mắc lỗi thay vì tạo áp lực.
-Giải pháp: Return aggressive vào một target cụ thể, không \'đỡ bóng\'.
+Giải pháp: Return aggressive vào một target cụ thể, không 'đỡ bóng'.
 
 **Match Point Psychology**
 
@@ -2085,7 +2085,7 @@ tâm lý vào trạng thái tối ưu. Một pre-match routine hiệu quả bao 
 **Physical Warm-Up (30-45 phút trước)**
 
 Dynamic stretching và footwork activation. Không bắt đầu bằng serving
---- warm up từ groundstrokes để build timing. Đừng cố gắng \'test\' kỹ
+--- warm up từ groundstrokes để build timing. Đừng cố gắng 'test' kỹ
 thuật trong warm-up --- đây là lúc để activate, không phải phân tích.
 
 **Mental Activation (15-20 phút trước)**
@@ -2103,7 +2103,7 @@ few balls. Ngắn gọn và clear trong head.
 
 **Recognizing Tilt**
 
-\'Tilt\' là trạng thái tâm lý khi cảm xúc bắt đầu chi phối quyết định
+'Tilt' là trạng thái tâm lý khi cảm xúc bắt đầu chi phối quyết định
 thay vì hệ thống. Dấu hiệu của tilt: Đánh nhanh hơn bình thường (không
 suy nghĩ). Cố gắng winner quá sớm. Cảm thấy frustrated sau mỗi điểm
 thua. Quên game plan và đánh theo cảm xúc.
@@ -2119,19 +2119,19 @@ từ từ expand game plan khi đã ổn định trở lại.
 
 **12.5 Competitive Identity --- Bản Sắc Thi Đấu**
 
-Một trong những công cụ tâm lý mạnh nhất ở cấp độ 5.0 là \'competitive
-identity\' --- cách vận động viên định nghĩa mình là ai trên sân. Câu
-hỏi quan trọng: \'Tôi là loại người chơi nào?\' Không phải về kỹ thuật
---- mà về tính cách thi đấu. Ví dụ: \'Tôi là người không bao giờ bỏ
-cuộc.\' \'Tôi là người càng căng thẳng càng chơi tốt.\' \'Tôi là người
-mang đến sự ổn định cho mọi tình huống.\'
+Một trong những công cụ tâm lý mạnh nhất ở cấp độ 5.0 là 'competitive
+identity' --- cách vận động viên định nghĩa mình là ai trên sân. Câu
+hỏi quan trọng: 'Tôi là loại người chơi nào?' Không phải về kỹ thuật
+--- mà về tính cách thi đấu. Ví dụ: 'Tôi là người không bao giờ bỏ
+cuộc.' 'Tôi là người càng căng thẳng càng chơi tốt.' 'Tôi là người
+mang đến sự ổn định cho mọi tình huống.'
 
 Competitive identity không phải là wishful thinking --- nó phải được xây
 dựng từ những bằng chứng thực tế. Huấn luyện viên có thể giúp vận động
 viên nhận ra và củng cố những khoảnh khắc trong tập luyện và thi đấu nơi
 competitive identity đó được thể hiện.
 
-**12.6 Managing the Opponent\'s Mind**
+**12.6 Managing the Opponent's Mind**
 
 Ở cấp độ 5.0, psychological warfare là một phần của game --- không phải
 theo nghĩa tiêu cực, mà theo nghĩa chiến thuật. Một số công cụ:
@@ -2148,7 +2148,7 @@ theo nghĩa tiêu cực, mà theo nghĩa chiến thuật. Một số công cụ:
 - Net meetings: Trong doubles, gặp partner ở lưới sau mỗi điểm khó ---
   điều này truyền tín hiệu stability và control
 
-> ***Nguyên tắc mental game: \'Play the system, not the emotion.\' Cảm
+> ***Nguyên tắc mental game: 'Play the system, not the emotion.' Cảm
 > xúc là thông tin --- không phải lệnh. Dùng cảm xúc để cập nhật hệ
 > thống, không để thay thế hệ thống.***
 
@@ -2158,8 +2158,8 @@ theo nghĩa tiêu cực, mà theo nghĩa chiến thuật. Một số công cụ:
 
 Khả năng đọc đối thủ --- nhận diện pattern, dự đoán hành động, và khai
 thác weakness --- là kỹ năng phân tách vận động viên 5.0 với những người
-có kỹ thuật tốt nhưng thiếu game intelligence. Đây là chương về \'tennis
-IQ\' --- và tin vui là đây là kỹ năng có thể được dạy và học một cách có
+có kỹ thuật tốt nhưng thiếu game intelligence. Đây là chương về 'tennis
+IQ' --- và tin vui là đây là kỹ năng có thể được dạy và học một cách có
 hệ thống.
 
 **13.1 Thông Tin Cần Thu Thập**
@@ -2189,7 +2189,7 @@ kéo wide, họ down-the-line hay crosscourt trả lại?
 **Pressure Point Analysis**
 
 Điều này đặc biệt quan trọng: Pattern của đối thủ có thay đổi dưới áp
-lực không? Nhiều người chơi có một shot \'safety\' họ mặc định về khi
+lực không? Nhiều người chơi có một shot 'safety' họ mặc định về khi
 nervous. Xác định shot đó và prepare cho nó.
 
 **13.2 Scouting Framework**
@@ -2210,8 +2210,8 @@ này cần được systematically exploited.
 
 **Pattern Library**
 
-Ghi lại 3-4 patterns đối thủ sử dụng thường xuyên nhất. Ví dụ: \'Sau
-wide serve deuce side, họ thường follow với approach down-the-line.\'
+Ghi lại 3-4 patterns đối thủ sử dụng thường xuyên nhất. Ví dụ: 'Sau
+wide serve deuce side, họ thường follow với approach down-the-line.'
 Biết được pattern này, bạn có thể prepare counter pattern.
 
 **13.3 Real-Time Pattern Recognition**
@@ -2228,8 +2228,8 @@ pattern khác.
 
 **Situation-Based Prediction**
 
-Tập dự đoán theo tình huống: \'Khi đối thủ đang ở deep defensive
-position sau bóng wide trái, họ sẽ đánh đi đâu?\' Sau nhiều giờ tập,
+Tập dự đoán theo tình huống: 'Khi đối thủ đang ở deep defensive
+position sau bóng wide trái, họ sẽ đánh đi đâu?' Sau nhiều giờ tập,
 prediction này trở nên automatic trong thi đấu.
 
 **13.4 Adapting Game Plan Mid-Match**
@@ -2258,10 +2258,10 @@ nào họ Switch và khi nào họ không?
 
 Weakness phổ biến nhất trong doubles không phải là weakness cá nhân ---
 mà là weakness trong coordination. Khai thác center lane, khai thác
-boundary calls (\'Mine\' vs \'Yours\'), và khai thác những tình huống mà
+boundary calls ('Mine' vs 'Yours'), và khai thác những tình huống mà
 cả hai đều expect người kia đánh.
 
-> ***Nguyên tắc opponent reading: \'Data before decisions.\' Thu thập đủ
+> ***Nguyên tắc opponent reading: 'Data before decisions.' Thu thập đủ
 > thông tin trước khi thay đổi chiến thuật. Ba điểm không đủ để xác nhận
 > pattern --- nhưng sáu điểm thì đủ.***
 
@@ -2316,14 +2316,14 @@ poor technique.
 Đây là phần dành cho kỹ năng cụ thể cần phát triển. Nguyên tắc: Chọn tối
 đa 1-2 kỹ năng cho mỗi buổi. Dạy concept ngắn gọn (5 phút), sau đó để
 vận động viên tập. Feedback phải specific và actionable --- không nói
-\'tốt hơn\', nói \'tốt vì X, vẫn cần cải thiện Y\'.
+'tốt hơn', nói 'tốt vì X, vẫn cần cải thiện Y'.
 
 **Phần 3: Tactical Application (25-30 phút)**
 
 Áp dụng kỹ năng đã tập vào context game-like. Drill phải có
 decision-making element --- không chỉ là mechanical repetition. Ví dụ:
-Thay vì \'đánh 20 backhand crosscourt\', thay bằng \'rally cho đến khi
-có cơ hội backhand crosscourt attack, rồi execute\'.
+Thay vì 'đánh 20 backhand crosscourt', thay bằng 'rally cho đến khi
+có cơ hội backhand crosscourt attack, rồi execute'.
 
 **Phần 4: Match Play hoặc Competition (20-30 phút)**
 
@@ -2334,24 +2334,24 @@ problem-solve trong match. Observe và note, điều chỉnh sau.
 **Phần 5: Cool-Down và Review (10 phút)**
 
 Physical cool-down: Static stretching, breathing. Mental review: Ngắn
-gọn --- \'Điều gì đã tốt? Điều gì cần cải thiện?\' Không phân tích quá
+gọn --- 'Điều gì đã tốt? Điều gì cần cải thiện?' Không phân tích quá
 dài --- 3-5 điểm key là đủ. Set expectation cho buổi tập tiếp theo.
 
 **14.3 Drill Design Principles**
 
 **Drill phải có Target rõ ràng**
 
-Mỗi drill phải có một mục tiêu cụ thể và measurable. Không phải \'luyện
-forehand\' mà là \'duy trì inside-out forehand với 70% accuracy vào
-target cone trong 10 phút rally\'. Mục tiêu cụ thể giúp vận động viên
+Mỗi drill phải có một mục tiêu cụ thể và measurable. Không phải 'luyện
+forehand' mà là 'duy trì inside-out forehand với 70% accuracy vào
+target cone trong 10 phút rally'. Mục tiêu cụ thể giúp vận động viên
 tập trung và giúp coach evaluate tiến độ.
 
 **Drill phải có Constraint**
 
 Constraint (ràng buộc) là công cụ mạnh nhất của coach. Thay vì nói
-\'đánh tốt hơn\', tạo ra constraint buộc họ phải đánh tốt hơn. Ví dụ:
-\'Chỉ được đánh vào half court bên trái\', \'Phải hô \'shot mode\' trước
-khi đánh\', \'Không được đứng chết khi đối thủ đánh\'. Constraint tạo ra
+'đánh tốt hơn', tạo ra constraint buộc họ phải đánh tốt hơn. Ví dụ:
+'Chỉ được đánh vào half court bên trái', 'Phải hô 'shot mode' trước
+khi đánh', 'Không được đứng chết khi đối thủ đánh'. Constraint tạo ra
 learning mà instruction không làm được.
 
 **Drill phải Progressive**
@@ -2384,8 +2384,8 @@ Focus: Recovery, reflection, planning for next season. Low volume,
 fun-focused. Mục tiêu: Physical và mental recovery, identify areas for
 improvement.
 
-> ***Nguyên tắc thiết kế buổi tập: \'Practice shouldn\'t be comfortable
-> --- it should be challenging in the right way.\' Bài tập tốt là bài
+> ***Nguyên tắc thiết kế buổi tập: 'Practice shouldn't be comfortable
+> --- it should be challenging in the right way.' Bài tập tốt là bài
 > tập mà sau khi hoàn thành, vận động viên cảm thấy có chút mệt mỏi về
 > mặt cognitive, không chỉ thể chất.***
 
@@ -2400,9 +2400,9 @@ của vận động viên.
 
 **15.1 Tại Sao Video Analysis Quan Trọng**
 
-Vận động viên không thể tự nhìn thấy mình. Cảm giác về kỹ thuật (\'tôi
-nghĩ tôi đang làm đúng\') thường khác xa với thực tế (\'video cho thấy
-cú đánh khác hoàn toàn\'). Video tạo ra \'external feedback loop\' khách
+Vận động viên không thể tự nhìn thấy mình. Cảm giác về kỹ thuật ('tôi
+nghĩ tôi đang làm đúng') thường khác xa với thực tế ('video cho thấy
+cú đánh khác hoàn toàn'). Video tạo ra 'external feedback loop' khách
 quan --- không bị ảnh hưởng bởi cảm giác chủ quan. Ngoài ra, video cho
 phép slow-motion analysis --- những chi tiết xảy ra trong 0.1 giây không
 thể nhìn thấy bằng mắt thường.
@@ -2463,15 +2463,15 @@ thời gian này.
 
 **Cách Trình Bày Video**
 
-Nguyên tắc \'show don\'t tell\': Thay vì mô tả lỗi bằng lời, show video
-clip và để vận động viên nhận ra tự mình. Câu hỏi mở: \'Bạn thấy gì
-trong clip này?\' tốt hơn là \'Nhìn xem chân bạn sai như thế nào.\'
+Nguyên tắc 'show don't tell': Thay vì mô tả lỗi bằng lời, show video
+clip và để vận động viên nhận ra tự mình. Câu hỏi mở: 'Bạn thấy gì
+trong clip này?' tốt hơn là 'Nhìn xem chân bạn sai như thế nào.'
 Self-discovery mạnh hơn instruction trong nhiều trường hợp.
 
 **Positive và Negative Clips**
 
 Cân bằng: Không chỉ show clips của mistakes --- cũng show clips của
-moments tốt. Vận động viên cần \'reference point\' của good execution để
+moments tốt. Vận động viên cần 'reference point' của good execution để
 biết mình cần hướng đến đâu.
 
 **15.5 Self-Video Analysis --- Dạy Vận Động Viên Tự Phân Tích**
@@ -2482,7 +2482,7 @@ analysis. Bắt đầu với hướng dẫn có cấu trúc, dần dần release
 responsibility về phía vận động viên. Sau 2-3 tháng, vận động viên nên
 có thể tự produce analysis report sau mỗi trận quan trọng.
 
-> ***Video analysis best practice: \'Three clips maximum per session.\'
+> ***Video analysis best practice: 'Three clips maximum per session.'
 > Quá nhiều clips sẽ overwhelm. Chọn ba clips quan trọng nhất và phân
 > tích kỹ chúng --- đây hiệu quả hơn là xem hàng chục clips một cách qua
 > loa.***
@@ -2597,7 +2597,7 @@ Training volume cao, competitive schedule đòi hỏi consistency. Quy tắc
 quan trọng nhất: Đừng train qua pain --- pain là signal, không phải
 weakness.
 
-> ***Conditioning philosophy: \'Build the engine, then tune it.\'
+> ***Conditioning philosophy: 'Build the engine, then tune it.'
 > Physical base trước, then tennis-specific conditioning, then match
 > fitness. Đừng bỏ qua general athletic development để chạy thẳng vào
 > tennis-specific drills.***
@@ -2706,11 +2706,11 @@ khi server tung bóng.
 **Australian Formation**
 
 Net player đứng cùng bên với server (thay vì đối diện). Mục đích: Block
-returner\'s favorite crosscourt return. Đặc biệt hiệu quả chống strong
+returner's favorite crosscourt return. Đặc biệt hiệu quả chống strong
 crosscourt returner.
 
-> ***Triết lý net play: \'Get to net when the ball allows it, not when
-> you feel like it.\' Net approach phải được trigger bởi điều kiện khách
+> ***Triết lý net play: 'Get to net when the ball allows it, not when
+> you feel like it.' Net approach phải được trigger bởi điều kiện khách
 > quan, không phải bởi desire để tiến lưới.***
 
 **CHƯƠNG 18**
@@ -2819,8 +2819,8 @@ Sidespin + backspin. Bóng kéo ngang, nảy thấp và wide. Effective wide
 serve --- kéo đối thủ ra khỏi sân. Nhiều vận động viên 5.0 underuse
 slice serve vì focused vào tốc độ thay vì movement.
 
-> ***Spin philosophy: \'Don\'t choose your spin randomly --- choose it
-> as a weapon against what your opponent hates.\' Biết đối thủ sợ high
+> ***Spin philosophy: 'Don't choose your spin randomly --- choose it
+> as a weapon against what your opponent hates.' Biết đối thủ sợ high
 > ball hay low ball, rồi dùng spin để deliver đúng loại ball đó.***
 
 **CHƯƠNG 19**
@@ -2882,8 +2882,8 @@ sát trong warm-up, adapt nhanh trong 3-4 game đầu.
 
 Game plan tốt bao gồm: Primary plan: Đây là plan khi mọi thứ theo ý
 muốn. Secondary plan: Nếu primary plan không work sau 3-4 game, chuyển
-sang secondary. Emergency plan: Khi thua nhiều, đây là \'stabilization
-plan\' để stem the bleeding.
+sang secondary. Emergency plan: Khi thua nhiều, đây là 'stabilization
+plan' để stem the bleeding.
 
 **19.3 Pre-Tournament Nutrition và Hydration**
 
@@ -2922,8 +2922,8 @@ giác confident và calm dù đang ở tình huống khó.
 **Confidence Building**
 
 Trong tuần trước tournament: Revisit moments trong training khi bạn chơi
-tốt. Kể lại câu chuyện đó cho mình: \'Tôi đã làm được điều đó --- tôi có
-thể làm lại.\' Tránh: Phân tích quá nhiều weaknesses ngay trước
+tốt. Kể lại câu chuyện đó cho mình: 'Tôi đã làm được điều đó --- tôi có
+thể làm lại.' Tránh: Phân tích quá nhiều weaknesses ngay trước
 tournament --- đây không phải lúc để sửa weakness, mà là để maximize
 strengths.
 
@@ -2931,8 +2931,8 @@ strengths.
 
 Nerves là bình thường và thực ra helpful --- chúng signal rằng bạn care
 và đang aroused đúng mức. Vấn đề không phải là loại bỏ nerves --- mà là
-chuyển hóa chúng thành energy tích cực. Technique: \'Pre-performance
-excitement\' --- thay vì nói \'tôi nervous\', nói \'tôi excited\'. Về
+chuyển hóa chúng thành energy tích cực. Technique: 'Pre-performance
+excitement' --- thay vì nói 'tôi nervous', nói 'tôi excited'. Về
 neurologically, đây là cùng một trạng thái, nhưng framing khác tạo ra
 performance khác.
 
@@ -2954,7 +2954,7 @@ không manage adaptation tốt:
 - Adapt game plan based on previous match learnings: Mỗi match cung cấp
   information về tournament conditions
 
-> ***Tournament mindset: \'Process over outcome.\' Tập trung vào việc
+> ***Tournament mindset: 'Process over outcome.' Tập trung vào việc
 > execute game plan tốt, không phải vào kết quả. Kết quả là byproduct
 > của process tốt --- không phải ngược lại.***
 
@@ -2981,7 +2981,7 @@ trì, phát triển, và mang lại ý nghĩa lâu dài.
 Một trong những sai lầm phổ biến nhất trong coaching: Sacrifice
 long-term development để có short-term results. Symptoms của vấn đề này:
 Overtraining để prepare cho một tournament quan trọng. Không sửa
-technical flaws vì \'không muốn upset his game\'. Ignoring injury
+technical flaws vì 'không muốn upset his game'. Ignoring injury
 signals vì match schedule. Mỗi quyết định như vậy có một cost dài hạn.
 
 **20.2 Development Milestones Cho Cấp Độ 5.0**
@@ -3008,7 +3008,7 @@ framework cho vận động viên đang ở hoặc hướng tới cấp độ 5.
 - Pattern library --- có ít nhất 5 singles patterns và 4 doubles
   patterns được thực hiện ổn định
 
-- Opponent reading --- có thể identify opponent\'s top pattern trong 4-5
+- Opponent reading --- có thể identify opponent's top pattern trong 4-5
   game
 
 - Score management --- game plan thay đổi thích hợp dựa trên score
@@ -3039,8 +3039,8 @@ cả thành một clear picture của current state.
 
 **Goal Setting**
 
-Mục tiêu phải SMART: Specific (không phải \'cải thiện forehand\' mà là
-\'inside-out forehand accuracy 70% vào target trong 5 rally\').
+Mục tiêu phải SMART: Specific (không phải 'cải thiện forehand' mà là
+'inside-out forehand accuracy 70% vào target trong 5 rally').
 Measurable (có thể đo được). Achievable (realistic nhưng stretching).
 Relevant (liên quan đến overall development direction). Time-bound (có
 deadline rõ ràng). Chia mục tiêu thành: Long-term (12 tháng),
@@ -3125,8 +3125,8 @@ tốt lẫn xấu. Điều này đòi hỏi coach phải honest: Không nói nh�
 
 **Appropriate Challenge và Support**
 
-Mối quan hệ tốt nhất balanced giữa challenge (\'tôi biết bạn có thể làm
-tốt hơn\') và support (\'tôi sẽ giúp bạn đến đó\'). Quá nhiều challenge
+Mối quan hệ tốt nhất balanced giữa challenge ('tôi biết bạn có thể làm
+tốt hơn') và support ('tôi sẽ giúp bạn đến đó'). Quá nhiều challenge
 → anxiety và burnout. Quá nhiều support → complacency và stagnation.
 Balance này thay đổi theo giai đoạn: Nhiều support khi bắt đầu, nhiều
 challenge khi đã stable.

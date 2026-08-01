@@ -29,7 +29,7 @@ Height]{.underline}](https://www.tennisplayer.net/members/avancedtennis/john_yan
 
 # Preparation
 
-Over the past 4 years we\'ve used the high speed footage from Advanced
+Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
@@ -37,7 +37,7 @@ commonalities and the differences among the top pro players. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/advtennis.html).)
 
 Last month we started a new series called \"Your Forehand and the Modern
-Forehand.\" The idea is to apply everything we\'ve learned to your game
+Forehand.\" The idea is to apply everything we've learned to your game
 and see what pro elements are universal and which are a function of
 primarily of level of play.
 
@@ -45,22 +45,21 @@ Although some readers have occasionally mistaken my intent, in my
 previous articles I never said that every player should hit the forehand
 like Roddick, or Nadal, or Federer\--not in all respects anyway. I
 stated repeatedly that my was just to try to understand the pro
-forehand, a challenging goal to say the least. But now it\'s time to get
+forehand, a challenging goal to say the least. But now it's time to get
 specific and see what pro elements you can incorporate to take your game
 to the next level. In the first article, we started with an analysis of
 Grip and Contact Height. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/grip/your_forehand_and_the_modern_forehand_grip.html).)
 
-This month we\'ll continue with Part 2 \"Preparation.\" It\'s a subject
+This month we'll continue with Part 2 \"Preparation.\" It's a subject
 that is widely misunderstood. I think this article is the best analysis
-of forehand preparation that I\'ve done or seen on the site, or
+of forehand preparation that I've done or seen on the site, or
 honestly, anywhere else.
 
-So see what you think and let\'s know by posting a comment in the Forum!
+So see what you think and let's know by posting a comment in the Forum!
 
 ![A person holding a tennis racket Description automatically
-generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image1.webp)
 
 **What are the secrets to great preparation and why is it so
 misundertood?**
@@ -69,7 +68,7 @@ misundertood?**
 
 # Grip and contact height
 
-Over the past 4 years we\'ve used the high speed footage from Advanced
+Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
@@ -78,36 +77,35 @@ Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image3.webp)
 
 **What elements in the modern pro forehand really apply to your game?**
 
-For me it\'s been a magical adventure and I have taken the time to go
+For me it's been a magical adventure and I have taken the time to go
 into the detail that I think the complexity of the subject requires. But
-I also feel that the time is now ripe to summarize what we\'ve learned,
+I also feel that the time is now ripe to summarize what we've learned,
 and especially, to make it more accessible to everyone on Tennisplayer.
 
 Many subscribers, I know, have mined these articles repeatedly. But I
-also know from the emails I get that many players aren\'t aware of
+also know from the emails I get that many players aren't aware of
 everything we have done and of richness and depth of theses archives.
 
 A recurring issue is what applies to whom. Although some readers have
 mistaken my intent, I never said that every player should hit the
 forehand like Roddick, or Nadal, or Federer\--not in all respects
 anyway. I stated repeatedly that the main purpose was just to try to
-understand the pro forehand. But now it\'s time to spell out how it
+understand the pro forehand. But now it's time to spell out how it
 applies to your game.
 
-So in \"Your Forehand and the Modern Forehand,\" we\'ll try to synthesis
-everything we\'ve learned over the last few years, and simplify it as
-much as possible. There will still be questions, but we\'ll try to lay
-them out and suggest what options apply when for what levels. We\'ll
+So in \"Your Forehand and the Modern Forehand,\" we'll try to synthesis
+everything we've learned over the last few years, and simplify it as
+much as possible. There will still be questions, but we'll try to lay
+them out and suggest what options apply when for what levels. We'll
 also do it in a new format, using voice over video commentary, which I
 hope will bring a new immediacy and clarity to the analysis.
 
 In this article we start with the controversial topic of Grips. If
-you\'ve followed the previous articles you know that there is a huge
+you've followed the previous articles you know that there is a huge
 range of grip varations\--probably at least six distinct patterns in the
 pro game. Should you base your grip on game style, ability level, or on
 the player you most admire? Or, what about the critical and usually
@@ -118,9 +116,9 @@ unrecognized factor of Contact Height?
 
 # The Backswing: Part 1 
 
-This month we continue with \"The Backswing: Part 1.\" It\'s a
-confusing, complex topic. So much so that it\'s going to take two
-articles to sort it all out. So here\'s Part 1. Find out the real
+This month we continue with \"The Backswing: Part 1.\" It's a
+confusing, complex topic. So much so that it's going to take two
+articles to sort it all out. So here's Part 1. Find out the real
 purpose of the backswing and see what applies to your game in pro
 tennis.
 
@@ -132,10 +130,10 @@ AND let us know what you think by posting a comment in the Forum!
 
 This month we continue with \"The Backswing: Part 2.\" Amazing that it
 takes two parts! But when you really start looking at this complex and
-misunderstood motion frame by frame, it\'s amazing. No two pros do the
+misunderstood motion frame by frame, it's amazing. No two pros do the
 same thing, and none of the usual teaching descriptions seem accurate.
 So what is really happening\--and what should you apply, or not, in your
-own game? That\'s what this article is all about.
+own game? That's what this article is all about.
 
 AND let us know what you think by posting a comment in the Forum!
 
@@ -165,9 +163,9 @@ elbow and at the wrist. This month we look at the rare, more
 controversial hitting arm structure - the straight elbow hitting arm
 position - that a select few pro players use.
 
-The Forward Swing Hand and Arm Extension This month we\'ll start to look
+The Forward Swing Hand and Arm Extension This month we'll start to look
 at the forward swing, possibly the most complex and dynamic element in
-tennis. We\'ll try to understand what really happens and why there is so
+tennis. We'll try to understand what really happens and why there is so
 much diversity among top players, by breaking the forward swing into two
 components. This article will focus on Extension, with Rotation coming
 up next month. Also, check out the classic lesson which adds additional
@@ -182,7 +180,7 @@ forehand of your own.
 
 # 
 
-# This month we\'ll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We\'ll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
+# This month we'll start to look at the forward swing, possibly the most complex and dynamic element in tennis. We'll try to understand what really happens and why there is so much diversity among top players, by breaking the forward swing into two components. This article will focus on Extension, with Rotation coming up next month. Also, check out the classic lesson which adds additional info on these two confusing and critical elements in developing a great forehand of your own.
 
 # ![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image9.png)
 
@@ -190,8 +188,8 @@ forehand of your own.
 
 # The Forward Swing Hand and Arm Rotation
 
-This month we\'ll start to look at the forward swing, possibly the most
-complex and dynamic element in tennis. We\'ll try to understand what
+This month we'll start to look at the forward swing, possibly the most
+complex and dynamic element in tennis. We'll try to understand what
 really happens and why there is so much diversity among top players, by
 breaking the forward swing into two components.
 
@@ -199,8 +197,7 @@ This month focuses on Hand and Arm Rotation, how the top player create
 the windshield wiper finish, how to create it yourself, and how it
 applies to your game. ![A person playing tennis Description
 automatically generated with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image10.webp)
 
 **How should you incorporate hand and arm rotation into your forehand?**
 
@@ -208,7 +205,7 @@ height="2.5in"}
 
 # The Reverse Forehand
 
-This month we\'ll look at the Reverse Forehand, a term first developed
+This month we'll look at the Reverse Forehand, a term first developed
 by Robert Lansdorp to describe a forehand variation in which the racket
 finishes on the same side that the swing starts, instead of across the
 body.
@@ -216,27 +213,25 @@ body.
 Why and how do top players hit it? How can you develop it? And most
 importantly, how should you incorporate it into your game?
 
-How do top player\'s hit the reverse, and how applicable is it to your
+How do top player's hit the reverse, and how applicable is it to your
 game?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image12.webp)
 
 ![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image13.png)
 
 # Shoulder Rotation
 
-This month, we\'ll take a look at another common and controversial
+This month, we'll take a look at another common and controversial
 technical component: torso rotation. Top players are rotating their
 shoulders 90 degrees or more in the forward swing on many balls. How
 does this factor work, when does it happen, and how does it apply to
 your game?
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-your-forehand-and-the-modern-forehand/media/image14.webp)
 
 Shoulder rotation has become extreme in pro tennis, but how does this
 apply to you?
@@ -245,14 +240,13 @@ apply to you?
 
 # The Contact Point
 
-This month, we\'ll take a look at the key moment in the forehand\--the
+This month, we'll take a look at the key moment in the forehand\--the
 contact point. How do you achieve it and how does it relate to your
 position to the ball\--and especially to your hitting arm structure?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image16.webp)
 
 Contact is the key moment, but what are the characteristics of great
 contact and how are they achieved?
@@ -263,13 +257,12 @@ contact and how are they achieved?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image18.webp)
 
 **Is it possible to summarize the modern forehand in one article? You be
 the judge\...**
 
-Over the past 4 years we\'ve used the high speed footage from Advanced
+Over the past 4 years we've used the high speed footage from Advanced
 Tennis to explore the modern forehand in pro tennis in virtually every
 aspect. Currently there are over a dozen detailed articles in the
 Advanced Tennis section on the modern forehand. These cover the
@@ -277,22 +270,21 @@ commonalities and the differences among the top pro players.( [Click
 Here.](https://www.tennisplayer.net/members/avancedtennis/advtennis.html))
 
 In this new series called \"Your Forehand and the Modern Forehand,\"
-we\'ve applied everything we\'ve learned to your game and see what pro
+we've applied everything we've learned to your game and see what pro
 elements are universal and which are a function of primarily of level of
 play.
 
 This marks the 12th full article devoted to the beautiful and
-tremendously dynamic motion we call the forehand. We\'ve covered
+tremendously dynamic motion we call the forehand. We've covered
 everything from grip to preparation to hittting arm positions, finishes,
 wipers and more. Now in this last article, we try to summarize all the
-components and see what we\'ve learned.
+components and see what we've learned.
 
 ![](media_john-yandell-your-forehand-and-the-modern-forehand/media/image19.png)
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image20.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand/media/image20.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

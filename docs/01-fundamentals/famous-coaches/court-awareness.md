@@ -7,8 +7,7 @@
 **Court Awareness**
 
 ![Chart, treemap chart Description automatically
-generated](media_court-awareness/media/image1.png){width="6.5in"
-height="4.878472222222222in"}
+generated](media_court-awareness/media/image1.png)
 
  
 
@@ -315,8 +314,7 @@ react to the right ball and position yourself efficiently.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a baseball hat Description automatically generated with low                                                                             Ean Meyer, a professional tennis coach since
-  confidence](media_court-awareness/media/image2.png){width="1.84375in"   1987. Over the years, I've worked with every
-  height="2.4784722222222224in"}                                                                                                                             level of player from beginner to professional,
+  confidence](media_court-awareness/media/image2.png)                                                                                                                             level of player from beginner to professional,
                                                                                                                                                              coaching tennis for over 25 years and have worked
                                                                                                                                                              with many different levels of juniors and adults.
                                                                                                                                                              In this time I have worked at high performance

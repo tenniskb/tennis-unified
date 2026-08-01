@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-journey-with-string/media/image1.jpg){width="2.625in"
-height="3.888888888888889in"}
+confidence](media_my-journey-with-string/media/image1.jpg)
 
 **My journey with string goes back as far as Maria Bueno, the Brazilian
 Grand Slam champion from the 1960s.**
@@ -37,8 +36,7 @@ Richmond, California thrift store located right next door to the
 emergency wing of Kaiser hospital. I remember how the outside air
 smelled like hospital drugs, pungent, and not exactly medicinal.
 
-![](media_my-journey-with-string/media/image2.jpg){width="2.8472222222222223in"
-height="2.7777777777777777in"}
+![](media_my-journey-with-string/media/image2.jpg)
 
 **How many other players remember the Jack Kramer Pro Staff?**
 
@@ -52,8 +50,8 @@ it finally cut the rusted out piano wire in half. What do you expect for
 fifty cents?
 
 My next move was way up, to a Jack Kramer Prostaff frame with brown
-diamonds on the throat, and Leoina nylon string. The Leoina didn\'t last
-long, and it didn\'t hold tension very well either.
+diamonds on the throat, and Leoina nylon string. The Leoina didn't last
+long, and it didn't hold tension very well either.
 
 So after Leonia, I moved to gut. The gut I used back then was Victor
 Imperial Blue Streak, which you can still find strung up in some old
@@ -63,8 +61,7 @@ was a ribbon imbued string, with the ribbon twisted inside the gut
 itself during manufacture.
 
 ![A close-up of a coconut Description automatically generated with low
-confidence](media_my-journey-with-string/media/image3.jpg){width="3.125in"
-height="3.4722222222222223in"}
+confidence](media_my-journey-with-string/media/image3.jpg)
 
 **Victor Imperial gut: superb, powerful, ribbon imbued.**
 
@@ -73,10 +70,10 @@ qaulity is one reason why players such as Murray, Federer and Djokovic
 still do hybrids with VS team, the Ferrari of guts.
 
 Bill Strei, at Plaza Tennis strung that first gut job for me, using a
-1950\'s Oliver drop weight machine, which he still uses, three shop
+1950's Oliver drop weight machine, which he still uses, three shop
 incarnations later. The older two point mounting machines like Bill
 allows him to actually \"elongate\" frames, although most players and
-many stringers aren\'t even aware of this effect. This slight change in
+many stringers aren't even aware of this effect. This slight change in
 the shape of the frame affects power and the shape of the sweet spot.
 
 The truth is that stingers can elongate or compress frames by about
@@ -85,7 +82,7 @@ the frame into the machine and how tightly, and also, which strings they
 string when and how tight.
 
 A compressed or rounder frame affects power and feel as well. Rafael
-Nadal requests a rounder shorter frame on his string jobs. Nadal\'s
+Nadal requests a rounder shorter frame on his string jobs. Nadal's
 frames are strung to be shorter by 1/8\". Nadal also requests stringing
 from the bottom up, rather than top down, on the crosses.
 
@@ -99,10 +96,9 @@ sweet spot.
 
 ![A picture containing text, indoor, cluttered, messy Description
 automatically
-generated](media_my-journey-with-string/media/image4.jpg){width="3.0555555555555554in"
-height="3.625in"}
+generated](media_my-journey-with-string/media/image4.jpg)
 
-**Bill Strei\'s drop weight stringing machine from the 1950s.**
+**Bill Strei's drop weight stringing machine from the 1950s.**
 
 There are many other ways stringers can effect the characteristics of
 the string bed. They can use something called \"proportional stringing\"
@@ -118,18 +114,17 @@ match the tone of the longer strings.
 
 **Decades of String**
 
-Since I first hit a ball, I\'ve put in at least 10,000 hours on court,
+Since I first hit a ball, I've put in at least 10,000 hours on court,
 and had thousands of string jobs, many times cut out after just one hit.
-(I\'ve also got my own stringer and like to experiment.)
+(I've also got my own stringer and like to experiment.)
 
-Over the decades, I\'ve used a huge range of different strings, guts,
+Over the decades, I've used a huge range of different strings, guts,
 synthetic guts, ribbon, poly, copoly, Luxilon Alu Power, Big Banger Ace
 18g, original Big Banger, Adrenaline Lux, Polyolefin Ribbon, Kevlar, and
-some stuff I can\'t even remember.
+some stuff I can't even remember.
 
 ![A picture containing red, basket Description automatically
-generated](media_my-journey-with-string/media/image5.jpg){width="3.4722222222222223in"
-height="2.388888888888889in"}
+generated](media_my-journey-with-string/media/image5.jpg)
 
 **Drinking straw pieces under the cross strings: my most successful
 topspin experiment.**
@@ -145,12 +140,12 @@ Most of these experiments have been made to produce more spin. My most
 successful spin experiment to date: short pieces of drinking straws
 placed under the crosses.
 
-But enough about me and all that for now. It\'s probably fair to say I
+But enough about me and all that for now. It's probably fair to say I
 am far more interested in the esoteric aspects of string than most
 Tennisplayer readers. The more relevant question is this: what have I
 learned that can help you match a string configuration to your game?
 
-So, to begin to understand this, let\'s go over some of the factors that
+So, to begin to understand this, let's go over some of the factors that
 go into creating power and also spin and see what role string plays (as
 well as the racket frame). Then I can make some stringing configuration
 recommendations based on your style that will have the potential to
@@ -158,8 +153,7 @@ seriously impact what happens when you hit the tennis ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_my-journey-with-string/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-journey-with-string/media/image6.webp)
 
 **What role do frames and strings play in creating power?**
 
@@ -174,7 +168,7 @@ create more depth.
 The problem is, many low tension shots will go past the baseline if you
 are a hard hitter. This is the bane of the hard hitter\--missing long
 due to tension loss after just a few hours. Softer hitters often like
-lower tensions, and can use strings that don\'t cost as much.
+lower tensions, and can use strings that don't cost as much.
 
 Softer strings such as gut will produce more power. But hardly any male
 pros use an all gut job, unlike the days of old, when all of them did!
@@ -184,7 +178,7 @@ pros use an all gut job, unlike the days of old, when all of them did!
 Gut is made from cow intestines, starting with strands that are 42 feet
 long. (They say that the cows who eat a lot of stones make the best gut
 string.) It is made in liquid filled troughs, with workers who wear
-plastic gloves, and lab coats. Don\'t take my word for it, click on the
+plastic gloves, and lab coats. Don't take my word for it, click on the
 video and see for yourself.
 
 ![](media_my-journey-with-string/media/image7.wmf)
@@ -192,7 +186,7 @@ video and see for yourself.
 **Click Here to see the amazing manufacturing process for natural gut.**
 
 Many string testers claim gut has the best feel/control/power/touch
-combination, so why don\'t more pros use it? With the increases in
+combination, so why don't more pros use it? With the increases in
 velocity in the modern game they cannot control it fully, nor can they
 depend on the same feel from set to set. Pros must believe absolutely in
 the equipment they use, and it takes many years of using the same
@@ -200,8 +194,7 @@ equipment to create that stone cold belief.
 
 ![A tennis racket with a ball Description automatically generated with
 medium
-confidence](media_my-journey-with-string/media/image8.jpg){width="2.7777777777777777in"
-height="3.9583333333333335in"}
+confidence](media_my-journey-with-string/media/image8.jpg)
 
 **How does racket flex affect power and spin?**
 
@@ -211,7 +204,7 @@ consistent snap back spin response of polyester.
 
 **Frames**
 
-It\'s important to note that the stiffness of the frame also affects the
+It's important to note that the stiffness of the frame also affects the
 power. The ball impact causes the frame to wobble and vibrate after the
 ball is gone. Flexible frames wobble more, for a longer duration, with a
 lower rate of frequency compared to stiff frames. A stiffer frame
@@ -224,8 +217,8 @@ if they can be swung at the same speed, which is why most players now
 use lighter frames that allows to radically increase their swing speeds.
 
 Does a more flexible frame create less spin? The greater flex absorbs
-more of the ball\'s energy, robbing some of the power and speed of shot
-that stiffer frames provide, but do they then add more spin? I don\'t
+more of the ball's energy, robbing some of the power and speed of shot
+that stiffer frames provide, but do they then add more spin? I don't
 know, if this is enough to affect the spin rate much at all.
 
 Flexible frames do change the angle of trajectory though, increasing it
@@ -235,8 +228,7 @@ flexible frames just make it appear that they create more spin due to
 the shorter, higher shots.
 
 ![A person playing tennis Description automatically
-generated](media_my-journey-with-string/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-journey-with-string/media/image9.webp)
 
 **Lighter frames can be swung faster to generate more racket head
 speed.**
@@ -252,7 +244,7 @@ creating a rounder sweetspot, occurs when lead is at 3 and 9 oclock.
 Elongation occurs when lead is up higher, such as 12 oclock or lower,
 such as in the handle or lower on the hoop.
 
-We have seen in Josh Speckman\'s articles how poly string really works,
+We have seen in Josh Speckman's articles how poly string really works,
 through the \"snap back\" mechanism. ([Click
 Here](../../More/Tennis%20Science/Copoly%20Strings%20-%20How%20Do%20They%20Really%20Work.docx).)
 You get the same effect with a more open string pattern. This is because
@@ -261,18 +253,17 @@ mains and crosses in the impact zone, and this causes more snap back.
 
 This configuration also causes more \"sawing\", and explains why a more
 open string pattern breaks string so much more quickly than the closed
-pattern, as the strings don\'t move as much, and so don\'t saw as much
+pattern, as the strings don't move as much, and so don't saw as much
 back and forth in a closed pattern as they do in an open pattern!
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_my-journey-with-string/media/image10.jpg){width="4.166666666666667in"
-height="2.5972222222222223in"}
+confidence](media_my-journey-with-string/media/image10.jpg)
 
 **Open stringing patterns, as used by Mark Woodforde, also generate more
 spin.**
 
-It\'s important for players to understand that a stiffer frame or a
+It's important for players to understand that a stiffer frame or a
 stiffer string is harder on the arm, as are higher tensions. The higher
 tension creates a higher pitched resonant frequency, and your elbow
 vibrates faster with more force applied.
@@ -293,8 +284,7 @@ can control it, so no pro plays with that combination! Power in our game
 is worthless without control.
 
 ![A person playing tennis Description automatically
-generated](media_my-journey-with-string/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-journey-with-string/media/image11.webp)
 
 **Spin equals control.**
 
@@ -310,7 +300,7 @@ that very short time.
 
 So why does it feel as the ball is one the strings a much longer time?
 Part of that is due to the \"wobble\" after impact, making the time seem
-as if it\'s a quarter of a second, and the resonant frequency of the
+as if it's a quarter of a second, and the resonant frequency of the
 frame used and the string used. Everything is vibrating at high
 frequency when the ball strikes the string.
 
@@ -330,20 +320,19 @@ can be very strange.
 
 ![A tennis ball on a racket Description automatically generated with
 medium
-confidence](media_my-journey-with-string/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_my-journey-with-string/media/image12.webp)
 
 **3000 hits equals 12 seconds of actual dwell time!**
 
 Although the impact time of the ball varies slightly, it stays on the
-string bed in the range of about 3-5 milliseconds. Most people can\'t
+string bed in the range of about 3-5 milliseconds. Most people can't
 even blink more than three times in a second!
 
 So, think about it, if you hit three thousand balls the actual time the
 ball was on string bed time is about 12 seconds total! Twelve seconds of
 contact on the string bed, out of three thousand shots.
 
-That\'s amazing when you really think about it. It shows how little it
+That's amazing when you really think about it. It shows how little it
 takes to change the characteristics of particular string bed, and
 explains why pro players change frames so frequently.
 
@@ -355,12 +344,11 @@ speak.]{.underline}]{.mark}** **[[All top athletes are time
 \"staggerers.\"]{.underline}]{.mark}**
 
 ![A football player holding a football Description automatically
-generated](media_my-journey-with-string/media/image13.jpg){width="2.7777777777777777in"
-height="3.7916666666666665in"}
+generated](media_my-journey-with-string/media/image13.jpg)
 
 **Great tennis players like great quarterbacks all stagger time.**
 
-**[[They slow down time, and control the body\'s internal rhythm, to
+**[[They slow down time, and control the body's internal rhythm, to
 create the \"grape fruit\" effect.]{.mark} [To them, the ball is moving
 slower and seems bigger, making it an easier target for them to
 attack.]{.mark}]{.underline}**
@@ -381,7 +369,7 @@ and causes less deceleration or braking, which is what you fell when the
 dreaded \"lead arm\" rears its head, a braking effect in the arm/body
 instead of a fluid, relaxed attacking shot.]{.mark}]{.underline}**
 
-It\'s called choking by most, but actually it\'s decelerated tension
+It's called choking by most, but actually it's decelerated tension
 caused by rigidity in form. Ever notice how fluid and fast the best are
 under the worst pressure? They strike the ball faster and move more
 fluidly by will, by design, and by practiced and by very focused
@@ -389,15 +377,14 @@ intention. Ask for power and ye shall receive power. Ask for spin and ye
 shall receive spin. Ask for fluidity and ye shall receive relaxed speed.
 
 ![A person playing tennis Description automatically
-generated](media_my-journey-with-string/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-journey-with-string/media/image14.webp)
 
 **Do players believe they can control volleys on balls with 3000rpm?**
 
 Those who learn to place great spin on the ball give the rest of us
 great trouble, as the spin takes away our time, and our ability to
 \"stagger\" and slow down time. Some call it \"action\" on the ball.
-When you see it or feel it on your racket, you know it, let\'s put it
+When you see it or feel it on your racket, you know it, let's put it
 that way.
 
 And there is no doubt that the string revolution has been key disrupting
@@ -405,7 +392,7 @@ the stagger effect\--as well as causing the most successful players to
 take the ability stagger time to new levels.
 
 No doubt string and spin have played a big part in reducing net
-attack\--in part by affecting players\' confidence that they can control
+attack\--in part by affecting players' confidence that they can control
 a ball spinning at 3000rpm with a volley motion\--especially if that
 ball is down at their shoes. So, yes, I believe string has definitely
 affected the mental dimensions of the game.
@@ -417,8 +404,7 @@ that probably will never be answered\--although Federer once practiced
 with spaghetti strings!
 
 ![A person playing tennis Description automatically
-generated](media_my-journey-with-string/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_my-journey-with-string/media/image15.webp)
 
 **Why is Andy Murray interested in spin rates?**
 
@@ -432,14 +418,14 @@ How important is spin in the minds of the top players? Maybe more than
 we think.
 
 Andy Murray actually called television commentator Chris Fowler after
-Fowler mentioned John Yandell\'s study of forehand spin for Roger, Rafa
+Fowler mentioned John Yandell's study of forehand spin for Roger, Rafa
 and Novak. Murray wanted to know if John had measured his forehand spin.
 (And the answer is now less\--Murray hits with somewhat less spin than
 either Federer or Djokovic.)
 
 So why does Andy Murray care about the science of spin enough to make
 that call? He wants to see if his rpms match up to the guys who are
-beating him, that\'s why. Some of the pros think spin is more important
+beating him, that's why. Some of the pros think spin is more important
 than power.
 
 **Club Power**
@@ -451,24 +437,20 @@ relatively stiffer frame such as the Wilson KBlade 98, or a medium stiff
 Babolat frame.
 
 ![Graphical user interface, logo, website Description automatically
-generated](media_my-journey-with-string/media/image16.jpg){width="2.4722222222222223in"
-height="2.8055555555555554in"}![Diagram, text Description automatically
-generated](media_my-journey-with-string/media/image17.jpg){width="2.7777777777777777in"
-height="2.8055555555555554in"}
+generated](media_my-journey-with-string/media/image16.jpg)![Diagram, text Description automatically
+generated](media_my-journey-with-string/media/image17.jpg)
 
 **The Premium combination for power players: Babolat VS and Alu.**
 
 I recommend this frame be strung with VS Team natural gut mains, and
 Luxilon Big Banger Alu 1.25mm (Alu only comes in 1.25mm) as the crosses.
-It\'s the premium choice and should be strung at a higher tension that
+It's the premium choice and should be strung at a higher tension that
 allows control of the gut mains. Somewhere in the 58lbs-64lbs range, in
 a 98 sq. in frame.
 
 ![A picture containing diagram Description automatically
-generated](media_my-journey-with-string/media/image18.jpg){width="2.7777777777777777in"
-height="2.7777777777777777in"}![Text Description automatically
-generated](media_my-journey-with-string/media/image19.jpg){width="2.3055555555555554in"
-height="2.7777777777777777in"}
+generated](media_my-journey-with-string/media/image18.jpg)![Text Description automatically
+generated](media_my-journey-with-string/media/image19.jpg)
 
 **A second club power choice: Poly Fibre High Tech and Technifibre
 NRG2**
@@ -479,8 +461,7 @@ the gut mains can snap back and grab more just they do for Federer and
 Djokovic.
 
 ![A picture containing diagram Description automatically
-generated](media_my-journey-with-string/media/image20.jpg){width="2.6944444444444446in"
-height="2.7777777777777777in"}
+generated](media_my-journey-with-string/media/image20.jpg)
 
 **PolyStar has better feel at the net than most polys.**
 
@@ -510,28 +491,25 @@ are going to say when you feel how you can work the ball with this
 combo.
 
 ![Diagram Description automatically
-generated](media_my-journey-with-string/media/image21.jpg){width="2.05in"
-height="2.0in"}![Diagram Description automatically
-generated](media_my-journey-with-string/media/image22.jpg){width="1.96in"
-height="2.0in"}
+generated](media_my-journey-with-string/media/image21.jpg)![Diagram Description automatically
+generated](media_my-journey-with-string/media/image22.jpg)
 
 **The club spin first choice: Tourna Big Hitter with original Big
 Banger.**
 
-Here\'s a second club spin combination. For the mains: Pro Supex Blue
+Here's a second club spin combination. For the mains: Pro Supex Blue
 Gear Ultra (a stiffer twisted string, so watch it, as it could hurt you
 if you have arm issues). Cross this with Technifibre NRG2. I suggest
 lower tension here: 49-53lbs.
 
 ![Text Description automatically generated with low
-confidence](media_my-journey-with-string/media/image23.jpg){width="2.7222222222222223in"
-height="2.7777777777777777in"}
+confidence](media_my-journey-with-string/media/image23.jpg)
 
 **Second spin option: Pro Supex Blue, crossed with NRG2.**
 
 And my third suggestion: Solinco Tour Bite or Barb Wire twisted string
 for the mains crossed with Alu power. String in in the 53-65 lb range.
-You\'ll get excellent soft pocketed spin/power, but, a warning, the
+You'll get excellent soft pocketed spin/power, but, a warning, the
 tension loss sucks.
 
 These are just a tiny sampling of the possible combinations, but
@@ -540,7 +518,7 @@ snow in Inuit, and innumerable permutations of those roots. Similarly,
 in our game, control/feel/touch/playability, are all close to each
 other, like those 12 Inuit root words are for snow.
 
-**[[Yet, it\'s all just ice falling from the sky. They are just words.
+**[[Yet, it's all just ice falling from the sky. They are just words.
 Every snow flake is actually different; as is every shot you ever make,
 and every frame you ever use, and every string job you ever hit
 with!]{.mark}]{.underline}**
@@ -561,11 +539,9 @@ the court. When the string/frame/tension feels perfect, so do you.
 
 ![Graphical user interface Description automatically generated with
 medium
-confidence](media_my-journey-with-string/media/image24.jpg){width="2.3656714785651793in"
-height="2.7668667979002626in"}![A picture containing text, electronics
+confidence](media_my-journey-with-string/media/image24.jpg)![A picture containing text, electronics
 Description automatically
-generated](media_my-journey-with-string/media/image25.jpg){width="2.7777777777777777in"
-height="2.7777777777777777in"}
+generated](media_my-journey-with-string/media/image25.jpg)
 
 **Two more options: Solinco Tour Bite or Barb Wire, crossed with Alu
 power.**
@@ -575,8 +551,7 @@ had, as a result of reading this article!
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                                  Geoff Williams grew up playing tennis in his
-  generated](media_my-journey-with-string/media/image26.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                            first and only junior tournament at age 11. Over
+  generated](media_my-journey-with-string/media/image26.jpeg)                                                                                                                                                            first and only junior tournament at age 11. Over
                                                                                                                                                                                  the years he went on to become a fixture on the
                                                                                                                                                                                  Northern California NTRP tournament scene,
                                                                                                                                                                                  winning numerous titles at both the 4.5 and 5.0

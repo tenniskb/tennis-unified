@@ -3,14 +3,13 @@
 # John Yandell 
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-backhand-stances-pro-women/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-backhand-stances-pro-women/media/image1.webp)
 
-**Are pro women\'s backhand stances fundamentally different from the
+**Are pro women's backhand stances fundamentally different from the
 men?**
 
-In the last two articles we\'ve looked at the surprising predominance of
-closed stances on the men\'s pro backhand, both for the two hander
+In the last two articles we've looked at the surprising predominance of
+closed stances on the men's pro backhand, both for the two hander
 ([Click
 Here](John%20Yandell-Modern%20Backhand%20Stances-%20The%20Two%20Hander.docx))
 and for the one hander ([Click
@@ -18,7 +17,7 @@ Here](John%20Yandell-The%20Extreme%20Closed%20Stance-Pro%20One%20Handed%20Backha
 But what about the women?
 
 Unlike the men, almost all of the top women hit with two-hands. So are
-the stance choices similar to the two-handed men? No. The women\'s
+the stance choices similar to the two-handed men? No. The women's
 stances are actually different and more varied. Open stance is the most
 common choice for most women players, or to be accurate, semi open
 stance, similar to the dominant stance on the forehand. This means the
@@ -36,25 +35,24 @@ across the toes is basically parallel to the target line.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image2.webp)
 
 **The semi-open stance alignment with a line across the toes at an angle
 of 30 degrees to 45 degrees with the baseline.**
 
-Closed stance is the first choice on the men\'s side. But for the women
+Closed stance is the first choice on the men's side. But for the women
 closed stance is a distant third. And when the women players do hit
 closed, the step across is usually shorter, at a less severe angle, and
 the knee bend not as deep.
 
 Here are some numbers to show this. Looking at over two hundred
-backhands from top women\'s players where they appear to have the
+backhands from top women's players where they appear to have the
 ability to choose the stance option, about 45 percent of the stances
 were open. About 40 percent were neutral. 15 percent or less of the
 stances were closed.
 
 And, again when women do use closed stances, they tend to be less severe
-than in the men\'s game. The primary use appears to be on balls that are
+than in the men's game. The primary use appears to be on balls that are
 shorter and lower.
 
 How to account for these variations? There are at least two factors to
@@ -62,25 +60,24 @@ consider. Grip and hitting arm structure.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image3.webp)
 
 **Closed stance is far less frequent, and usually less extreme.**
 
 When it comes to the grip, virtually all men shift to some version of a
-continental grip with the bottom hand. The basic flaw in Andy Roddick\'s
+continental grip with the bottom hand. The basic flaw in Andy Roddick's
 backhand was that he did not. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/two_handed_backhand/2hd_bh_roddick/2hd_bh_roddick.html).)
 Most of the women do something similar.
 
 **Why?**
 
-But two of the greatest women\'s players of all time, Venus and Serena
-Williams don\'t. Although they do change grips with the bottom hand,
+But two of the greatest women's players of all time, Venus and Serena
+Williams don't. Although they do change grips with the bottom hand,
 neither rotates the hand far enough toward the top of the handle to be
 considered a mild backhand grip or even some version of a continental.
 
-Their index knuckles hover around bevel two. But it\'s questionable
+Their index knuckles hover around bevel two. But it's questionable
 whether the heel pad of the racket hand ever creases the top bevel,
 particularly with Venus.
 
@@ -96,25 +93,22 @@ Here.](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/mod
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image4.jpg){width="2.4444444444444446in"
-height="3.4722222222222223in"}![A person wearing a pink tank top and
+confidence](media_john-yandell-backhand-stances-pro-women/media/image4.jpg)![A person wearing a pink tank top and
 holding a tennis racket Description automatically generated with low
-confidence](media_john-yandell-backhand-stances-pro-women/media/image5.jpg){width="2.7777777777777777in"
-height="3.4722222222222223in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image5.jpg)
 
 **Neither Venus or Serena has a true backhand grip with the bottom
 hand.**
 
 This grip combination\--a weak bottom hand and a semi-western top
 hand\--has a fundamental effect on the stroke mechanics. Both Serena and
-Venus\'s backhands are much more left side or left arm dominant than
+Venus's backhands are much more left side or left arm dominant than
 backhands that have a stronger grip with the bottom hand.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-backhand-stances-pro-women/media/image6.jpg){width="3.0555555555555554in"
-height="1.9316732283464566in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image6.jpg)
 
-Kramer\'s forehand grip with the index knuckle visible on Bevel 2.
+Kramer's forehand grip with the index knuckle visible on Bevel 2.
 
 They are more similar to left handed forehands and make less use of the
 front arm. This is directly related to the preference for semi-open
@@ -134,8 +128,7 @@ Williams sisters.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image7.webp)
 
 **Serena hits predominantly semi-open. For Venus some version of open
 stance is virtually exclusive.**
@@ -158,11 +151,9 @@ left, rear arm is pushing more, sooner.
 
 ![A picture containing person, tennis, racket, outdoor Description
 automatically
-generated](media_john-yandell-backhand-stances-pro-women/media/image8.jpg){width="2.8055555555555554in"
-height="3.3333333333333335in"}![A person playing tennis Description
+generated](media_john-yandell-backhand-stances-pro-women/media/image8.jpg)![A person playing tennis Description
 automatically generated with low
-confidence](media_john-yandell-backhand-stances-pro-women/media/image9.jpg){width="2.5869411636045494in"
-height="3.3201388888888888in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image9.jpg)
 
 Most women rotate the bottom hand more toward the top of the frame in
 comparison with the Williams sisters.
@@ -173,8 +164,7 @@ these balls Venus finishes with the rear shoulder pointing at least
 partially toward the opponent, similar to the modern forehand.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-backhand-stances-pro-women/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-backhand-stances-pro-women/media/image10.webp)
 
 **Venus often rotates the torso further through the back with a more
 fully open stance.**
@@ -186,7 +176,7 @@ sides and probably slightly more in front as well.]{.mark}**
 
 **[This contact point is probably more conducive to the large diagonal
 cross step with the bigger turn and deeper knee bend that is associated
-with the men\'s closed stance. But this also may be a strength issue for
+with the men's closed stance. But this also may be a strength issue for
 women players.]{.mark}**
 
 In any case, the spacing of the double bend structure makes the open
@@ -201,13 +191,12 @@ comfortable than the extreme closed version.
 
 So, clearly, there is more diversity in stances with the top women. But
 can we honestly saw that one version or the other is superior? As I have
-said before we can\'t clone players to teach them two different
+said before we can't clone players to teach them two different
 technical styles and compare.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image11.webp)
 
 **The contact point with the double bend appears closer to the body than
 with the straight bent arm alignment of the men.**
@@ -236,21 +225,20 @@ appropriate to the ball. More on all this when I get to the two hander
 in my New Teaching Method series.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-backhand-stances-pro-women/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-backhand-stances-pro-women/media/image12.webp)
 
 **Learning neutral stance helps players feel the full turn.**
 
 A final important point that we also saw with the men. This is the role
 of the backfoot, and specifically what it does in the forward swing.
 
-It\'s been well documented that the backfoot often swings around after
+It's been well documented that the backfoot often swings around after
 the stroke. This is the so called recovery step, so the player can then
 push off back toward the middle.
 
 But in all three stance variations, the recovery step happens after the
 completion of the swing, not during. In reality the backfoot actually
-stays well on the player\'s right side and often actually kicks backward
+stays well on the player's right side and often actually kicks backward
 until the followthrough is wrapping over the shoulder.
 
 This is a key factor in controlling the body rotation and the angle of
@@ -258,7 +246,7 @@ the torso at contact. As we saw the men, the contact point on virtually
 all two-handers is with the shoulders still partially closed to the
 baseline.
 
-This is true even for the extreme women\'s versions like Venus and
+This is true even for the extreme women's versions like Venus and
 Serena. When the players are closer to on the dead run, the recovery
 step may happen sooner. But emphasizing the conscious swinging of the
 foot disrupts the natural timing of the basic two-hander and causes the
@@ -266,15 +254,14 @@ body to rotate too soon.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image13.webp)
 
-**In all the women\'s stance variations, the back foot stays behind and
+**In all the women's stance variations, the back foot stays behind and
 kicks back slightly until after the forward swing.**
 
 So there is one significant commonality between the men and the women,
 regardless of stance. As to the differences, the question is whether the
-women\'s backhand will move closer technically to the men\'s with
+women's backhand will move closer technically to the men's with
 straight rear arms and more closed stances preferences. Only the future
 of tennis can tell.
 
@@ -284,15 +271,14 @@ appropriately in developing the best two hander variation for ourselves
 or our players.
 
 Obviously players can succeed with very different combinations of
-technical elements\--that\'s not just on the backhand, it applies to all
+technical elements\--that's not just on the backhand, it applies to all
 the strokes. But understanding the range of sound options gives players
 and coaches greater clarity and greater technical mastery in developing
 the right combination.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-backhand-stances-pro-women/media/image14.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-backhand-stances-pro-women/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

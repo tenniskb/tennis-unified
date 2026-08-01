@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 Big inside out forehand. Angle forehand. Attack the backhand. This 5th
-pattern in George's series combines two elements that you don\'t always
+pattern in George's series combines two elements that you don't always
 see paired. The inside out forehand may be the most commonly hit
 diagonal in pro tennis and high level junior tennis, but instead of
 hitting one after another, this pattern follows the inside out with a
@@ -19,8 +19,7 @@ quite widely facilitating an attacking finish.
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-5/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-5/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

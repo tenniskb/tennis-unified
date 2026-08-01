@@ -17,22 +17,22 @@ Bóng--Chất lượng Cú đánh*
 
 Surrey, British Columbia, Canada · 2026
 
-+--------------------------------------------------------------------+
-| **TÓM TẮT (Abstract)**                                             |
-|                                                                    |
-| *Nghiên cứu này phân tích mối liên hệ cơ sinh học giữa bốn kiểu    |
-| cầm vợt tennis phổ biến (Continental, Eastern, Semi-Western,       |
-| Western) với vị trí điểm chạm bóng trên mặt dây (upper vs. lower   |
-| string bed), quỹ đạo bóng, và chất lượng cú đánh. Dựa trên nguyên  |
-| lý mô-men lực (torque mechanics) và lý thuyết ma sát dây (string   |
-| friction theory), bài viết lập luận rằng contact point là biến số  |
+| **TÓM TẮT (Abstract)** |
+| --- |
+|  |
+| *Nghiên cứu này phân tích mối liên hệ cơ sinh học giữa bốn kiểu |
+| cầm vợt tennis phổ biến (Continental, Eastern, Semi-Western, |
+| Western) với vị trí điểm chạm bóng trên mặt dây (upper vs. lower |
+| string bed), quỹ đạo bóng, và chất lượng cú đánh. Dựa trên nguyên |
+| lý mô-men lực (torque mechanics) và lý thuyết ma sát dây (string |
+| friction theory), bài viết lập luận rằng contact point là biến số |
 | trung gian then chốt quyết định biên độ lỗi góc mặt vợt. Phân tích |
-| cho thấy lower-contact kết hợp với Semi-Western/Western grip tạo   |
-| ra biên độ lỗi lớn hơn 30--40% so với upper-contact của            |
-| Continental/Eastern grip, nhờ hiệu ứng topspin kick. Kết quả có    |
-| hàm ý thực tiễn quan trọng cho huấn luyện người chơi từ 40--60     |
+| cho thấy lower-contact kết hợp với Semi-Western/Western grip tạo |
+| ra biên độ lỗi lớn hơn 30--40% so với upper-contact của |
+| Continental/Eastern grip, nhờ hiệu ứng topspin kick. Kết quả có |
+| hàm ý thực tiễn quan trọng cho huấn luyện người chơi từ 40--60 |
 | tuổi và các vận động viên cần ưu tiên độ ổn định hơn tốc độ bóng.* |
-+--------------------------------------------------------------------+
+
 
 *Từ khóa: grip type · contact point · upper/lower string bed · torque
 mechanics · topspin · shot quality · tennis biomechanics*
@@ -104,24 +104,24 @@ angle) và swing path đặc trưng:
 Dựa trên quan sát thực địa và phân tích frame-by-frame, chúng tôi phân
 biệt hai vùng tiếp xúc chính trên mặt dây vợt:
 
-+---------------------------------+---------------------------------+
-| **UPPER String Bed**            | **LOWER String Bed**            |
-|                                 |                                 |
+| **UPPER String Bed** | **LOWER String Bed** |
+| --- | --- |
+|  |  |
 | • Bóng chạm phía trên đường tâm | • Bóng chạm phía dưới đường tâm |
-| mặt vợt                         | mặt vợt                         |
-|                                 |                                 |
-| • Torque: đầu vợt bật ra sau    | • Torque: đầu vợt cụp xuống     |
-| (racket head kick-back)         | (racket head dip)               |
-|                                 |                                 |
-| • Mặt vợt tự mở khi tiếp xúc    | • Swing path dốc tạo lực ma sát |
-|                                 | kéo bóng lên                    |
-| • Phụ thuộc 100% vào độ chính   |                                 |
-| xác góc mặt vợt                 | • Topspin bù lại torque → bóng  |
-|                                 | vượt lưới                       |
-| **• Đặc trưng: Continental,     |                                 |
-| Eastern**                       | **• Đặc trưng: Semi-Western,    |
-|                                 | Western**                       |
-+---------------------------------+---------------------------------+
+| mặt vợt | mặt vợt |
+|  |  |
+| • Torque: đầu vợt bật ra sau | • Torque: đầu vợt cụp xuống |
+| (racket head kick-back) | (racket head dip) |
+|  |  |
+| • Mặt vợt tự mở khi tiếp xúc | • Swing path dốc tạo lực ma sát |
+|  | kéo bóng lên |
+| • Phụ thuộc 100% vào độ chính |  |
+| xác góc mặt vợt | • Topspin bù lại torque → bóng |
+|  | vượt lưới |
+| **• Đặc trưng: Continental, |  |
+| Eastern** | **• Đặc trưng: Semi-Western, |
+|  | Western** |
+
 
 *Bảng 2. So sánh hai vùng tiếp xúc trên mặt dây*
 
@@ -142,24 +142,23 @@ trí tương đối của điểm chạm so với sweet spot quyết định hư
 
 - Lower contact (dưới sweet spot): Lực va chạm tạo torque đẩy đầu vợt
   xuống và ra trước. Tuy nhiên, swing path dốc của Semi-Western/Western
-  tạo lực ma sát theo hướng 5→11 giờ, giúp \'kéo\' bóng lên và bù lại
+  tạo lực ma sát theo hướng 5→11 giờ, giúp 'kéo' bóng lên và bù lại
   torque cụp xuống.
 
-+--------------------------------------------------------------------+
-| **Phương trình cân bằng lực -- Lower Contact**                     |
-|                                                                    |
-| τ_torque (đầu vợt cụp) + F_spin (lực kéo lên của dây) → Net: bóng  |
-| có spin và bay lên                                                 |
-|                                                                    |
-| Biên độ lỗi: ngay cả khi góc mặt vợt hơi đóng thêm 3--5°,          |
-|                                                                    |
-| topspin vẫn đủ nâng bóng qua lưới với safety margin cao.           |
-+--------------------------------------------------------------------+
+| **Phương trình cân bằng lực -- Lower Contact** |
+| --- |
+|  |
+| τ_torque (đầu vợt cụp) + F_spin (lực kéo lên của dây) → Net: bóng |
+| có spin và bay lên |
+|  |
+| Biên độ lỗi: ngay cả khi góc mặt vợt hơi đóng thêm 3--5°, |
+|  |
+| topspin vẫn đủ nâng bóng qua lưới với safety margin cao. |
+
 
 **3.2. Hình 1 -- Sơ đồ Contact Point**
 
-![](media_grip-contact-point-research-paper/media/099f5e7cc87af2d3f715ba6b89f09eec1ed3cc77.png){width="6.458333333333333in"
-height="3.59375in"}
+![](media_grip-contact-point-research-paper/media/099f5e7cc87af2d3f715ba6b89f09eec1ed3cc77.png)
 
 *Hình 1. Sơ đồ so sánh UPPER (trái -- Eastern/Continental) và LOWER
 (phải -- Semi-Western/Western) contact point, bao gồm hướng swing path,
@@ -167,8 +166,7 @@ torque, quỹ đạo bóng và biên độ lỗi.*
 
 **3.3. Hình 2 -- Torque Mechanics & Error Margin**
 
-![](media_grip-contact-point-research-paper/media/6f96c9e56520bbd97bbc2a8dd634b999e7bd0af1.png){width="6.458333333333333in"
-height="3.0208333333333335in"}
+![](media_grip-contact-point-research-paper/media/6f96c9e56520bbd97bbc2a8dd634b999e7bd0af1.png)
 
 *Hình 2. (A) Cơ chế torque tại hai vùng tiếp xúc; (B) Biên độ lỗi góc
 mặt vợt theo bốn kiểu grip; (C) Bảng tóm tắt hệ quả.*
@@ -189,7 +187,7 @@ Topspin tạo ra hiệu ứng Magnus: bóng quay theo chiều kéo xuống ở p
 trước, nhưng đường bay được nâng lên do chênh lệch áp suất không khí
 (Bernoulli). Kết quả: bóng có thể vượt lưới với margin cao hơn rồi rơi
 nhanh xuống trong sân --- đây là lý do vì sao Western grip tạo ra
-\'heavy ball\' đặc trưng.
+'heavy ball' đặc trưng.
 
 **4. Phân tích theo từng Grip Type**
 
@@ -210,8 +208,8 @@ mạnh trên forehand groundstroke vì swing path quá phẳng.
 
 Eastern grip (cạnh 3) là grip lịch sử của tennis flat. Mặt vợt hơi mở tự
 nhiên (\~95°), swing path tương đối phẳng. Kết quả là bóng thường chạm
-phần upper của dây --- đúng như ghi chú thực địa mô tả: \'racket face
-too open → ball going out-long; too close → going into the net.\'
+phần upper của dây --- đúng như ghi chú thực địa mô tả: 'racket face
+too open → ball going out-long; too close → going into the net.'
 
 - Ưu điểm: dễ đánh bóng thấp, chuyển sang volley/slice không cần đổi
   grip nhiều
@@ -292,44 +290,44 @@ rộng và bảo vệ khớp, không phải tốc độ bóng tối đa. Framewo
 
 **6.2. Thiết kế Drill**
 
-+--------------------------------------------------------------------+
-| **Drill 1 · Băng keo mặt vợt (10 phút)**                           |
-|                                                                    |
-| Dán một miếng băng keo màu ngang qua đường tâm mặt vợt.            |
-|                                                                    |
-| Đánh 30--50 cú vào tường hoặc rally nhẹ.                           |
-|                                                                    |
-| Mục tiêu: mọi vết bóng nằm dưới miếng băng keo (lower contact).    |
-|                                                                    |
-| Nếu vết lên trên → đang với xa hoặc swing path quá phẳng.          |
-+--------------------------------------------------------------------+
+| **Drill 1 · Băng keo mặt vợt (10 phút)** |
+| --- |
+|  |
+| Dán một miếng băng keo màu ngang qua đường tâm mặt vợt. |
+|  |
+| Đánh 30--50 cú vào tường hoặc rally nhẹ. |
+|  |
+| Mục tiêu: mọi vết bóng nằm dưới miếng băng keo (lower contact). |
+|  |
+| Nếu vết lên trên → đang với xa hoặc swing path quá phẳng. |
 
-+--------------------------------------------------------------------+
-| **Drill 2 · Khăn mục tiêu (15 phút)**                              |
-|                                                                    |
-| Đặt khăn gấp đôi cách lưới 2m phía bên sân mình.                   |
-|                                                                    |
-| Chỉ đánh forehand sao cho bóng nảy lên khăn.                       |
-|                                                                    |
-| Bắt buộc phải dùng lower-contact + topspin để bóng rơi gần lưới    |
-| rồi nảy lên.                                                       |
-|                                                                    |
-| Kiểm tra: bóng qua lưới với margin cao (không sượt) →              |
-| lower-contact thành công.                                          |
-+--------------------------------------------------------------------+
 
-+--------------------------------------------------------------------+
-| **Drill 3 · Đường phấn tường (15 phút)**                           |
-|                                                                    |
-| Kẻ đường phấn ngang tường cao 1m, đứng cách 5m.                    |
-|                                                                    |
-| Đánh 50 cú forehand: bóng chạm tường dưới vạch nhưng nảy lên cao.  |
-|                                                                    |
-| Chỉ làm được khi lower-contact + kéo lên đúng kỹ thuật.            |
-|                                                                    |
-| Đây là drill ép người chơi tìm đúng cảm giác \'bóng dính vào nửa   |
-| dưới vợt\'.                                                        |
-+--------------------------------------------------------------------+
+| **Drill 2 · Khăn mục tiêu (15 phút)** |
+| --- |
+|  |
+| Đặt khăn gấp đôi cách lưới 2m phía bên sân mình. |
+|  |
+| Chỉ đánh forehand sao cho bóng nảy lên khăn. |
+|  |
+| Bắt buộc phải dùng lower-contact + topspin để bóng rơi gần lưới |
+| rồi nảy lên. |
+|  |
+| Kiểm tra: bóng qua lưới với margin cao (không sượt) → |
+| lower-contact thành công. |
+
+
+| **Drill 3 · Đường phấn tường (15 phút)** |
+| --- |
+|  |
+| Kẻ đường phấn ngang tường cao 1m, đứng cách 5m. |
+|  |
+| Đánh 50 cú forehand: bóng chạm tường dưới vạch nhưng nảy lên cao. |
+|  |
+| Chỉ làm được khi lower-contact + kéo lên đúng kỹ thuật. |
+|  |
+| Đây là drill ép người chơi tìm đúng cảm giác 'bóng dính vào nửa |
+| dưới vợt'. |
+
 
 **7. Thảo luận và Giới hạn nghiên cứu**
 

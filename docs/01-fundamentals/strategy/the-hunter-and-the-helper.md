@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-hunter-and-the-helper/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-hunter-and-the-helper/media/image1.webp)
 
 **The Hunter is closer to the net and hits \"close to close.\"**
 
@@ -14,7 +13,7 @@ The System starts with the definitions of the two roles on a doubles
 team, the role of the Hunter and role of the Helper.
 
 **[[The Hunter is the player closer to the ball. He is always closer to
-the net. The key to the Hunter\'s shot selection is that he hits \"close
+the net. The key to the Hunter's shot selection is that he hits \"close
 to close\" on high volleys and overheads. This means hitting in the
 direction of the opponent closest to the net]{.underline}]{.mark}**.
 
@@ -45,8 +44,7 @@ Hunter, from the area around the service line.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-hunter-and-the-helper/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-hunter-and-the-helper/media/image2.webp)
 
 **The Helper is further back, diagonally across from the ball.**
 
@@ -73,8 +71,7 @@ the return and also preempts the opponent from picking off your shot.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_the-hunter-and-the-helper/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-hunter-and-the-helper/media/image3.webp)
 
 **Notice the position of the Helper and Hunter relative to the net.**
 
@@ -98,12 +95,11 @@ low.]{.mark}]{.underline}**
 
 ![A group of people play tennis Description automatically generated with
 low
-confidence](media_the-hunter-and-the-helper/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-hunter-and-the-helper/media/image4.webp)
 
 **Hitting short, angled, and low gives the Hunter balls to pick off.**
 
-**[[Here\'s why. Regardless of whether your opponent is staying back or
+**[[Here's why. Regardless of whether your opponent is staying back or
 coming in, this type of ball forces them to move laterally and hit up.
 Since the player is halfway to the net, lobbing is more difficult and
 much riskier.]{.mark}]{.underline}**
@@ -129,15 +125,14 @@ isolating one partner.
 A return of serve that lands near the service line and singles sideline
 will severely limit your opponents options while giving both of your
 players a great chance of getting a ball that can be attacked. But
-don\'t be afraid to hit a hard return at the net man to keep them
-honest. Just make sure you do it when you\'re winning or even.
+don't be afraid to hit a hard return at the net man to keep them
+honest. Just make sure you do it when you're winning or even.
 
 **Here is how to play against different formations.**
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_the-hunter-and-the-helper/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-hunter-and-the-helper/media/image5.webp)
 
 **Against one up one back, there is a gaping whole between the
 opponents.**
@@ -165,7 +160,7 @@ middle to middle.
 Most teams play a very similar style where the net player guards the
 alley, the server (or receiver) comes to the net and comes towards the
 middle and both players wind up the same distance from the net. You
-can\'t lose to teams who play this way if you play smart and follow
+can't lose to teams who play this way if you play smart and follow
 these principles.
 
 **If both players are equidistant from the net, here are your shot
@@ -173,16 +168,16 @@ choices.**
 
 When the opponents both are at the net, make them hit up on low balls.
 
-If they\'re close to the net (inside the service line), lob. When you
+If they're close to the net (inside the service line), lob. When you
 are in use the offensive, chip lob over the net players head. The
 preferred lob is crosscourt because the partner will have no chance to
 run the ball down and hit any kind of effective shot.
 
-If they\'re at or behind the service line, the best shot is down the
+If they're at or behind the service line, the best shot is down the
 middle because it will create confusion and not give them any angle to
 put the ball away.
 
-The other shot you can hit if they\'re both at the service line is the
+The other shot you can hit if they're both at the service line is the
 sharp angle crosscourt (dipper). Just make sure to keep the ball low and
 anticipate an angle coming back.
 
@@ -198,8 +193,7 @@ position and take the next ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-hunter-and-the-helper/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-hunter-and-the-helper/media/image6.webp)
 
 **When both players are back look to hit drop volleys at the first
 opportunity.**
@@ -221,37 +215,36 @@ invaluable in this situation.]{.mark}]{.underline}**
 And what if the two back team are the dreaded lobbers? Stay tuned for an
 upcoming article devoted directly to that issue!
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
-| ![A picture containing person, person, standing, outdoor Description automatically                                                                                     | Bill Previdi has been playing    |
-| generated](media_the-hunter-and-the-helper/media/image7.jpeg){width="2.863888888888889in" | and teaching tennis for most of  |
-| height="2.120138888888889in"}                                                                                                                                          | his life. He played his          |
-|                                                                                                                                                                        | collegiate tennis at St. John\'s |
-|                                                                                                                                                                        | University in New York and has   |
-|                                                                                                                                                                        | been nationally ranked in        |
-|                                                                                                                                                                        | singles, doubles and Father-Son  |
-|                                                                                                                                                                        | Doubles. Bill has been a Head    |
-|                                                                                                                                                                        | Pro and Director of Tennis at    |
-|                                                                                                                                                                        | several clubs since 1981 and has |
-|                                                                                                                                                                        | also coached high school and     |
-|                                                                                                                                                                        | college tennis. He lives in      |
-|                                                                                                                                                                        | Branford, CT. He can be          |
-|                                                                                                                                                                        | contacted at:                    |
-|                                                                                                                                                                        | <previdib@gmail.com>             |
-|                                                                                                                                                                        |                                  |
-|                                                                                                                                                                        | Matt Previdi is a high           |
-|                                                                                                                                                                        | performance coach in La Jolla,   |
-|                                                                                                                                                                        | California and the head coach of |
-|                                                                                                                                                                        | the La Jolla High boys' tennis   |
-|                                                                                                                                                                        | team, which in the the past 6    |
-|                                                                                                                                                                        | years he has led to a 72-8       |
-|                                                                                                                                                                        | record and 2 sectional titles.   |
-|                                                                                                                                                                        | Matt is a Master Racquet         |
-|                                                                                                                                                                        | Technician, the head of the      |
-|                                                                                                                                                                        | Solinco national stringing team, |
-|                                                                                                                                                                        | as well as the Solinco player    |
-|                                                                                                                                                                        | liason and brand representative. |
-|                                                                                                                                                                        | He can be contacted at:          |
-|                                                                                                                                                                        | <mprevidi@gmail.com>             |
-+========================================================================================================================================================================+==================================+
+| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
+| --- | --- |
+| generated](media_the-hunter-and-the-helper/media/image7.jpeg) | his life. He played his |
+|  | collegiate tennis at St. John's |
+|  | University in New York and has |
+|  | been nationally ranked in |
+|  | singles, doubles and Father-Son |
+|  | Doubles. Bill has been a Head |
+|  | Pro and Director of Tennis at |
+|  | several clubs since 1981 and has |
+|  | also coached high school and |
+|  | college tennis. He lives in |
+|  | Branford, CT. He can be |
+|  | contacted at: |
+|  | <previdib@gmail.com> |
+|  |  |
+|  | Matt Previdi is a high |
+|  | performance coach in La Jolla, |
+|  | California and the head coach of |
+|  | the La Jolla High boys' tennis |
+|  | team, which in the the past 6 |
+|  | years he has led to a 72-8 |
+|  | record and 2 sectional titles. |
+|  | Matt is a Master Racquet |
+|  | Technician, the head of the |
+|  | Solinco national stringing team, |
+|  | as well as the Solinco player |
+|  | liason and brand representative. |
+|  | He can be contacted at: |
+|  | <mprevidi@gmail.com> |
+
 
 ------------------------------------------------------------------------

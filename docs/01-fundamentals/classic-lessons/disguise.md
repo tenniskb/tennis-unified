@@ -11,20 +11,19 @@ My goal is to build a technical foundation that simultaneously creates
 disguise. Disguise is essential to creating a real weapon, a superior
 shot that cannot be easily read.
 
-So let\'s review the one-handed stroke we have built from a different
-perspective. Let\'s see how the same technical elements that create
+So let's review the one-handed stroke we have built from a different
+perspective. Let's see how the same technical elements that create
 world class ball striking create disguise.
 
 ![A picture containing graphical user interface Description
 automatically
-generated](media_disguise/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_disguise/media/image1.webp)
 
 **What is it like to try to read a world class one-handed backhand from
 court level?**
 
-Let\'s illustrate this combination of shot making and deception by
-looking at what it\'s like to be at court level on the other side of the
+Let's illustrate this combination of shot making and deception by
+looking at what it's like to be at court level on the other side of the
 net from one of the greatest one-handers in tennis history, Roger
 Federer. See for yourself if you can read what he is doing with his
 racket and how this relates to shot location.
@@ -37,8 +36,7 @@ explosively in the shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_disguise/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_disguise/media/image2.webp)
 
 **[The back turned to the opponent in the deep coil hides the racquet
 work.]{.mark}**
@@ -48,12 +46,12 @@ up to 150 degrees or more shows part or most of the back to the
 opponent. With this turn, the back naturally hides the racquet work in
 the backswing and the start of the forward swing.
 
-If the player\'s shoulders are not turned this far and are closer to
+If the player's shoulders are not turned this far and are closer to
 perpendicular to the net at around 90 degrees\--as is often advised by
 coaches\-- the power potential is less. But perhaps more importantly,
 the potential to disguise the shot is reduced or eliminated. The thin
 profile of the perpendicular shoulder preparation will not hide the
-racquet work and the player\'s intention.
+racquet work and the player's intention.
 
 In my system, the backswing and racquet work take place directly behind
 the coiled body. This blocks the sightline of the opponent during the
@@ -61,7 +59,7 @@ critical phase of the swing.
 
 If the player does not get that big, 150-degree shoulder coil, the
 racquet work will peak out on the right side of the body\--the left side
-from the opponent\'s viewpoint. At the highest level, where so little
+from the opponent's viewpoint. At the highest level, where so little
 separates the good from the great, this "tell," like in poker, can be a
 major disadvantage.
 
@@ -69,11 +67,10 @@ major disadvantage.
 
 ![A picture containing text, athletic game, sport, person Description
 automatically
-generated](media_disguise/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_disguise/media/image3.webp)
 
 **Look at the angle of the hitting shoulder\--can you read the location
-of Roger\'s shot?**
+of Roger's shot?**
 
 The second element in creating disguise is the hip and shoulder position
 at contact.
@@ -102,13 +99,12 @@ better than Roger Federer.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_disguise/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_disguise/media/image4.webp)
 
-**Roger\'s amazing head position gives no indication of shot
+**Roger's amazing head position gives no indication of shot
 direction.**
 
-Keeping the head still is critical to disguise. Just as a player\'s hips
+Keeping the head still is critical to disguise. Just as a player's hips
 and shoulders can telegraph a shot, the head can look up and the eyes
 can look in the direction of the intended shot.
 
@@ -129,8 +125,7 @@ racquet face on the preparation for different types of shots.
 
 ![A person in an orange shirt Description automatically generated with
 low
-confidence](media_disguise/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_disguise/media/image5.webp)
 
 **Look at the consistency of the racket face angle as Roger begins the
 forward swing.**
@@ -159,9 +154,9 @@ the ball crosscourt.
 
 ### Advanced Backswings
 
-### ![A person playing tennis Description automatically generated with medium confidence](media_disguise/media/image6.webp){width="3.3333333333333335in" height="2.5in"}
+### ![A person playing tennis Description automatically generated with medium confidence](media_disguise/media/image6.webp)
 
-**Roger\'s backswing, with the racket face slightly open, is the same on
+**Roger's backswing, with the racket face slightly open, is the same on
 the slice and the drive.**
 
 A final advanced element in backhand disguise is the racket face angle
@@ -175,13 +170,12 @@ disguise elements are not as effective. Together however, the elements
 in my system help any one-hander create the best of both worlds.
 Superior shot making and world class disguise.
 
-So that\'s it for the relationship between technique and disguise! Now
-let\'s move into my unique series of training drills for court movement,
+So that's it for the relationship between technique and disguise! Now
+let's move into my unique series of training drills for court movement,
 defending, taking the ball early, and building racket speed. Stay tuned!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_disguise/media/image7.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_disguise/media/image7.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -198,7 +192,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

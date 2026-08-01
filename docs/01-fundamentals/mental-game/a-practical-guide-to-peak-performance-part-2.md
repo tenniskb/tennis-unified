@@ -8,8 +8,7 @@
 
 ![A person with his arms raised Description automatically generated with
 low
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image1.jpg){width="3.125in"
-height="4.347222222222222in"}
+confidence](media_a-practical-guide-to-peak-performance-part-2/media/image1.jpg)
 
 **What are the final 4 components to achieve peak performance?**
 
@@ -18,7 +17,7 @@ in my practical guide to peak performance. Those 4 components were: Fun,
 Playing for Yourself, Going for Your Shots, and Looking
 Confident. ([Click Here.](A%20Practical%20Guide%20to%20Peak%20Performance%20-%20Part%201.docx))
 
-Now in this article, let\'s complete the system by discussing the other
+Now in this article, let's complete the system by discussing the other
 4 components: Stress Management, The Cognitive Component, Attentional
 Techniques, and The Will To Win.
 
@@ -40,15 +39,14 @@ working both as a player and a coach and seeing so many students blossom
 under its impact.
 
 ![A person holding a tennis racket Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-2/media/image2.webp)
 
 **Junior players and players at all levels blossom in the system.**
 
 **The Final Piece**
 
-At the end of this article, I\'ll present a critical final piece that
-will pull the whole system together for you. It\'s a quiz, a series of
+At the end of this article, I'll present a critical final piece that
+will pull the whole system together for you. It's a quiz, a series of
 simple questions that you should ask yourself after every match you
 play. By evaluating yourself on a scale of 1 to 5 on each question you
 will get a clear baseline of where you start with the system, and also
@@ -56,7 +54,7 @@ be able to accurately track your progress.
 
 This quiz is the key to taking what you learn from the theoretical to
 the practical - something most players never do, despite the perpetual
-quest to develop their mental game. I can\'t stress enough how important
+quest to develop their mental game. I can't stress enough how important
 this last phase is if you really want to achieve peak performance. But
 find out for yourself by using it.
 
@@ -65,31 +63,30 @@ find out for yourself by using it.
 So once again, the four additional components we will look at in this
 article are:
 
-+--------------------------------------------------------------+
-| +-----------------------------------------------------+      |
-| | **Final 4 Components:**                             |      |
-| +==========================+==========================+      |
-| | **1) Stress Management** | **2) The Cognitive       |      |
-| |                          | Component**              |      |
-| +--------------------------+--------------------------+      |
-| | **3) Attentional         | **4) The Will To Win**   |      |
-| | Techniques**             |                          |      |
-| +--------------------------+--------------------------+      |
-+==============================================================+
+| +-----------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Final 4 Components:** |  |  |
+| +==========================+==========================+ |  |  |  |
+|  | **1) Stress Management** | **2) The Cognitive |  |
+|  |  | Component** |  |
+| +--------------------------+--------------------------+ |  |  |  |
+|  | **3) Attentional | **4) The Will To Win** |  |
+|  | Techniques** |  |  |
+| +--------------------------+--------------------------+ |  |  |  |
+
 
 **Stress Management**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person wearing a blue shirt Description automatically generated with low
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image3.jpg){width="2.6118055555555557in"
-                                                                                  height="3.0381944444444446in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image3.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     **Stress in competitive tennis can be extremely intense.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Stress in tennis is real, and anyone who hasn\'t played competitively
-can\'t really understand how intense it can be. When the competitive
+Stress in tennis is real, and anyone who hasn't played competitively
+can't really understand how intense it can be. When the competitive
 tennis player is under the gun the best thing he can do to bring his
 physical, mental and emotional systems back into balance is to breath,
 both during and between points. We saw in the first article that
@@ -116,8 +113,7 @@ purposefully breathing through the hit.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image4.jpg){width="3.4402777777777778in"
-                                                                                  height="2.3319444444444444in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image4.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      **Exhalation should coordinate with the forward swing.**
 
@@ -130,15 +126,14 @@ for your shots. Remember that choking, literally, is the inability to
 breathe. Overcoming choking requires that you reestablish that ability.
 
 **[[The great thing about these techniques is that your breathing is
-something you really can establish control over.]{.mark} [It\'s all
+something you really can establish control over.]{.mark} [It's all
 about you, not what your opponent is doing. Whatever happens in a match,
-it\'s a process you can control and feel good about regardless of
+it's a process you can control and feel good about regardless of
 outcome.]{.mark}]{.underline}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A picture containing person, person, holding, outdoor Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image5.jpg){width="2.350745844269466in"
-                                                                                 height="3.8731321084864394in"}
+   generated](media_a-practical-guide-to-peak-performance-part-2/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      **Do you have an automatic fall back under pressure?**
 
@@ -149,7 +144,7 @@ outcome.]{.mark}]{.underline}**
 **The second component is the [[cognitive]{.underline}]{.mark}**
 **[[component.]{.mark}]{.underline} Your mind and imagination are
 extremely important tools in your entire high performance tool chest.
-\"For as you think so shall you be\". That\'s a concept that you find
+\"For as you think so shall you be\". That's a concept that you find
 not only in sports, but in philosophy, religion, and psychology.**
 
 As the tennis player descends down into the cauldron of match pressure
@@ -166,12 +161,11 @@ well for you stick with them.
 
 But, there are two that I strongly suggest that you try. The first is a
 little more general: \"I will play my best tennis now.\" The second is a
-little more specific: \"C\' mon let\'s get this next point.\"
+little more specific: \"C' mon let's get this next point.\"
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image6.jpg){width="2.5298512685914263in"
-                                                                                   height="4.299499125109361in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image6.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                        **Affirmations can keep you positive and confident.**
 
@@ -200,8 +194,7 @@ play with commitment and confidence.]{.mark}]{.underline}**
 **Attentional Techniques**
 
 ![A picture containing night sky Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-2/media/image7.webp)
 
 **The flight of the ball can produce mesmerizing focus.**
 
@@ -228,8 +221,7 @@ incredibly powerful details for staying in the flow of the match.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-2/media/image8.webp)
 
 **Visualize a key image and let your swing follow it.**
 
@@ -239,7 +231,7 @@ pressure. Those, somehow, just \"happen\" virtually unconsciously in his
 system. And for high level players, that may in fact actually be true.
 But what about for the rest of us?
 
-A complementary attentional technique to Gallwey\'s was developed years
+A complementary attentional technique to Gallwey's was developed years
 ago by our own John Yandell, in his book Visual Tennis. While Yandell
 basically endorses the idea of continuous ball focus, he believes that
 players can supplement this by using internal mental imagery of key
@@ -250,8 +242,7 @@ or finish, or of shot trajectories and placements.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image9.jpg){width="3.4027777777777777in"
-                                                                                  height="4.069444444444445in"}
+   generated](media_a-practical-guide-to-peak-performance-part-2/media/image9.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    **Do top players naturally imagine shot making perfection?**
 
@@ -276,7 +267,7 @@ of how he wishes to execute a stroke or shot, and pre-visualizes these
 
 **Will to Win**
 
-The will to win is the final factor. It\'s the big daddy of the
+The will to win is the final factor. It's the big daddy of the
 emotional and mental game. Without the will to win the other components
 will never produce the success you may be truly capable of achieving.
 
@@ -289,10 +280,9 @@ commodity.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image10.jpg){width="3.1944444444444446in"
-                                                                                   height="5.444444444444445in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image10.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                       **Nadal\'s will can make the outcome seem foregone.**
+                                                                       **Nadal's will can make the outcome seem foregone.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -311,7 +301,7 @@ Obviously, few if any players possess the super human determination of a
 Rafael Nadal. So how much desire do you, at your own level, actually
 need? The answer is simple. At a minimum, you have to want it a little
 more than the guy on the other side of the net on a given day. Sometimes
-that doesn\'t require maximum desire.
+that doesn't require maximum desire.
 
 But for most players, reaching their potential will require increasing
 their desire to win, and sometimes, increasingly it dramatically. You
@@ -324,8 +314,7 @@ to find out more about the Underdog.)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                       ![A person holding a trophy Description automatically
-   generated](media_a-practical-guide-to-peak-performance-part-2/media/image11.jpg){width="4.166666666666667in"
-                                                                                  height="4.166666666666667in"}
+   generated](media_a-practical-guide-to-peak-performance-part-2/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             **Rod Laver, perfect gentleman, or an all time great with a mean streak?**
 
@@ -356,8 +345,7 @@ of the man.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-2/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-2/media/image12.webp)
 
 **A ruthless desire to eviscerate\--and an intense hatred of losing.**
 
@@ -383,10 +371,9 @@ what their level of skill or the tactical situation in a match.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person running on a tennis court Description automatically generated with low
-  confidence](media_a-practical-guide-to-peak-performance-part-2/media/image13.jpg){width="4.044444444444444in"
-  height="3.1006944444444446in"}
+  confidence](media_a-practical-guide-to-peak-performance-part-2/media/image13.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Laver: the ability to reach overdrive - and win when he couldn\'t**
+  **Laver: the ability to reach overdrive - and win when he couldn't**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -396,7 +383,7 @@ overdrive is fearless, artistic, and supremely determined. This is
 competitive nirvana.
 
 However, overdrive is normally an ephemeral phenomenon, something to be
-enjoyed but never counted on. Despite his great record, Laver\'s career
+enjoyed but never counted on. Despite his great record, Laver's career
 is also testimony to the elusiveness of continuous peak performance.
 That night in Chicago, he also told me that he was able to play in
 overdrive about 35 or 40 percent of the time. The rest of the time he
@@ -410,8 +397,7 @@ yourself on the a given day in a given match.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image14.jpg){width="3.888888888888889in"
-                                                                                   height="4.402777777777778in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image14.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                **How well did you maximize your mental performance on a given day?**
 
@@ -440,8 +426,7 @@ them up to a 5. Why settle for less?
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person holding tennis balls Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image15.jpg){width="3.283333333333333in"
-                                                                                   height="4.324305555555555in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image15.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                       **Did you enjoy the battle regardless of the victory?**
 
@@ -472,8 +457,7 @@ yourself 1 to 5.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image16.jpg){width="2.5444444444444443in"
-                                                                                   height="3.127083333333333in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-2/media/image16.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                               **How much confidence did you project?**
 
@@ -500,8 +484,7 @@ The first time you take the test, that score will become your baseline,
 to see where you are, and where you are going.
 
 ![A person holding a tennis racket Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-2/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-2/media/image17.webp)
 
 **Following the steps makes improvement inevitable.**
 
@@ -517,31 +500,29 @@ matches.
 But I believe that if you rigorously apply the system in your match play
 that improvement is virtually inevitable. You will enjoy your experience
 more even as the pressure mounts, and more than likely have that big
-breakthrough win you\'ve been dreaming about.
+breakthrough win you've been dreaming about.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text, person, person, posing Description automatically                                                                                                        Jeffrey F. McCullough has been a leading California
-  generated](media_a-practical-guide-to-peak-performance-part-2/media/image18.jpeg){width="1.0375in"   teaching pro for over 30 years. In the early 80\'s,
-  height="1.6715277777777777in"}                                                                                                                                                       he worked at San Francisco\'s legendary Golden Gate
+  generated](media_a-practical-guide-to-peak-performance-part-2/media/image18.jpeg)                                                                                                                                                       he worked at San Francisco's legendary Golden Gate
                                                                                                                                                                                        Park where he taught side by side with John
                                                                                                                                                                                        Yandell\--and for a year shared an ocean view
-                                                                                                                                                                                       apartment in the city\'s Sunset district. For the
+                                                                                                                                                                                       apartment in the city's Sunset district. For the
                                                                                                                                                                                        last 13 years he has taught in San Diego, California
                                                                                                                                                                                        at the George E. Barnes Family Jr. Tennis Center.
                                                                                                                                                                                        Specializing in developing junior players, he has
                                                                                                                                                                                        coached over 50 juniors who have gone on to win
                                                                                                                                                                                        tournaments at all levels in USTA play. Jeff is also
                                                                                                                                                                                        the author of the seminal work on the two-handed
-                                                                                                                                                                                       game, \"Two Handed Tennis: How to Play a Winner\'s
+                                                                                                                                                                                       game, \"Two Handed Tennis: How to Play a Winner's
                                                                                                                                                                                        Game.\"
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Text Description automatically                                                                                                                                                      \"In Two-Handed Tennis: How to Play a Winner\'s Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
-  generated](media_a-practical-guide-to-peak-performance-part-2/media/image19.jpeg){width="1.19375in"   the two-handed style, the essential biomechanical differences between one and two-handed shots\--including the various advantages
-  height="1.8208333333333333in"}                                                                                                                                                        of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
+  ![Text Description automatically                                                                                                                                                      \"In Two-Handed Tennis: How to Play a Winner's Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
+  generated](media_a-practical-guide-to-peak-performance-part-2/media/image19.jpeg)                                                                                                                                                        of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
                                                                                                                                                                                         including how to develop a two-handed forehand in several variations. This classic work was first published in 1984. [Click
                                                                                                                                                                                         Here](http://www.amazon.com/Two-Handed-Tennis-Play-Winners-Game/dp/0871314258/ref=sr_1_1?ie=UTF8&s=books&qid=1219008484&sr=1-1)
                                                                                                                                                                                         to order!

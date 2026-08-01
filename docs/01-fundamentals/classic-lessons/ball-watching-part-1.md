@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_ball-watching-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-1/media/image1.webp)
 
 **Roger Federer: the greatest ball watcher of the modern era.**
 
@@ -14,16 +13,16 @@ The quintessential, sine qua non of good tennis is good racket to ball
 contact. And good ball contact hinges upon correct, consistent ball
 watching.
 
-Of the many great champions I\'ve studied, there are many great ball
+Of the many great champions I've studied, there are many great ball
 watchers. I have seen Roger Federer play live more than forty times. His
 ball watching ability and technique stand out even among other greats.
 
-There\'s no doubt in my mind that Roger Federer is the greatest ball
+There's no doubt in my mind that Roger Federer is the greatest ball
 watcher of the modem era. I believe ball watching has been pivotal to
-Federer\'s success and popularity.
+Federer's success and popularity.
 
 Because he is the best example of great ball watching, I decided to
-study Roger Federer\'s technique in depth. I took an evidence-based
+study Roger Federer's technique in depth. I took an evidence-based
 approach by studying over 1500 Federer photographs and tried to discern
 objectively what he is doing during ball watching.
 
@@ -35,21 +34,20 @@ perception of contact translates to better contact.
 
 **The Hitting Cycle**
 
-There\'s a certain rhythm to a tennis rally. In play, you hit the ball
-and it travels to your opponent\'s side of the court. Then your opponent
-hits the ball, and it travels back to your side, at which point you\'re
+There's a certain rhythm to a tennis rally. In play, you hit the ball
+and it travels to your opponent's side of the court. Then your opponent
+hits the ball, and it travels back to your side, at which point you're
 ready for your next hit. I call this length of time between one of your
 shots and the next the hitting cycle.
 
 ![A picture containing athletic game, tennis, sport, court Description
 automatically
-generated](media_ball-watching-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-1/media/image2.webp)
 
 **The hitting cycle: about 2 seconds.**
 
 The hitting cycle is approximately two to three seconds long. But it can
-vary depending on the speed of the ball. For simplicity\'s sake I\'ve
+vary depending on the speed of the ball. For simplicity's sake I've
 used a length of two seconds in my calculations. After you hit the ball,
 it travels for about one second until your opponent hits it, at which
 point it travels an additional one second before you are ready for your
@@ -74,8 +72,7 @@ How is that possible?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-watching-part-1/media/image3.jpg){width="4.08in"
-height="5.100002187226597in"}
+confidence](media_ball-watching-part-1/media/image3.jpg)
 
 **You hear contact before you see it.**
 
@@ -101,7 +98,7 @@ contact.]{.underline}]{.mark}** **[[Perceiving
 contact]{.underline}]{.mark} might be a better way to phrase it.**
 
 I also believe the subtle difference in the speed of hearing and vision
-can be used to one\'s advantage in ball watching.
+can be used to one's advantage in ball watching.
 
 **Blindness in Tennis**
 
@@ -115,8 +112,7 @@ small, essentially imperceptible blackouts are the result of what are
 call [[saccadic eye movements.]{.underline}]{.mark}**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-watching-part-1/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-1/media/image4.webp)
 
 **Saccadic eye movements cause short blackouts.**
 
@@ -145,21 +141,20 @@ average tennis match.
 
 Combined with the small moments of blindness that occur during jump
 saccades, each tennis player is subject to roughly nineteen minutes of
-blindness per match. We don\'t notice the vision loss caused by blinking
+blindness per match. We don't notice the vision loss caused by blinking
 or saccadic eye movements because **[[our brains have learned to
 disregard these periods of temporary blindness.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-watching-part-1/media/image5.jpg){width="3.31200021872266in"
-height="4.143012904636921in"}
+confidence](media_ball-watching-part-1/media/image5.jpg)
 
 **It is technically impossible to \"see\" contact.**
 
 **[[The brain fills in the gaps with what it expects to be
-seeing.]{.underline}]{.mark}** The gaps don\'t bother us at all.
+seeing.]{.underline}]{.mark}** The gaps don't bother us at all.
 However, **[[it is physiologically impossible to \"always keep your eye
-on the ball.\" Your brain simply won\'t allow it.]{.mark}]{.underline}**
+on the ball.\" Your brain simply won't allow it.]{.mark}]{.underline}**
 
 So can we see contact? Technically, no. **[[We do not perceive contact
 in real time, but in delayed perceptual time.]{.mark}]{.underline}**
@@ -189,8 +184,7 @@ at the last second leading into contact, then keeping the head sideways
 into the follow-through.
 
 ![A person playing tennis Description automatically
-generated](media_ball-watching-part-1/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-1/media/image6.webp)
 
 **Federer turns his head to the hitting side in the split second before
 contact.**
@@ -209,8 +203,7 @@ impossibility of seeing contact? Stay Tuned!
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_ball-watching-part-1/media/image7.jpeg){width="1.8243055555555556in"
-height="2.1118055555555557in"}
+confidence](media_ball-watching-part-1/media/image7.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -221,7 +214,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

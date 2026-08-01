@@ -8,7 +8,7 @@ We are honored and excited to have this new series from my friend Jim
 Loehr, the man who created the term mental toughness and has continued
 to research and refine the relationships between head, heart, soul, and
 high performance in sports and life. Now Jim is starting to put his
-life\'s work in perspective with a new book, The Only Way to Win.
+life's work in perspective with a new book, The Only Way to Win.
 ([Click
 Here](http://www.amazon.com/The-Only-Way-Win-Achievement/dp/B00C2I9ZL8/ref=sr_1_1?ie=UTF8&qid=1383087711&sr=8-1&keywords=only+way+to+win+jim+loehr).)
 In this series he talks about what winning really is and how character
@@ -18,8 +18,7 @@ is what counts in any field of endeavor.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                    Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-only-way-to-win-introduction/media/image2.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                       himself who still competes nationally in USTA
+  confidence](media_the-only-way-to-win-introduction/media/image2.jpeg)                                                                                                                                                       himself who still competes nationally in USTA
                                                                                                                                                                                        events, Jim created the field of Mental
                                                                                                                                                                                        Toughness training with his revolutionary study
                                                                                                                                                                                        of elite pro players. He has been one of the

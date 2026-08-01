@@ -3,8 +3,7 @@
 # John Yandell
 
 ![A person swinging a tennis racket Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image1.webp)
 
 **Why is the extreme closed stance is the norm on the modern pro
 backhand?**
@@ -22,7 +21,7 @@ But when we look at the video evidence, the top men in the world hit the
 majority of their backhands with the exact opposite stance\--an extreme
 closed stance with a diagonal cross step.
 
-Surprised? It\'s true on the two handed backhand. And it\'s even more
+Surprised? It's true on the two handed backhand. And it's even more
 prevalent on the one-hander.
 
 Looking at several hundred pro backhand\-- when the players had the
@@ -33,8 +32,7 @@ Neutral Stance was the second choice. Open stance was third.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image2.webp)
 
 **Closed stance\--increased coiling and uncoiling in the torso and
 legs**
@@ -43,27 +41,26 @@ That conclusion may seem surprising, shocking even, but is critical in
 understanding how the top players play, and something that must be
 evaluated in how the two-hander is taught.
 
-So in this first article on backhand stances let\'s take a detailed use
+So in this first article on backhand stances let's take a detailed use
 at the stances on the modern two-hander. Next we will move on the one.
 The pro women are more complicated to understand and use a more varied
-range of stances. We\'ll look at them in a third article.
+range of stances. We'll look at them in a third article.
 
 **The Closed Stance Preference**
 
-It\'s incontrovertible that the closed stance is the preferred stance
+It's incontrovertible that the closed stance is the preferred stance
 when the great two handed players have the opportunity to choose how to
 set up.
 
-That doesn\'t mean they don\'t hit with neutral or square stances. It
-doesn\'t mean that they don\'t hit with open stances. They do both at
+That doesn't mean they don't hit with neutral or square stances. It
+doesn't mean that they don't hit with open stances. They do both at
 certain times from certain positions.
 
 From deep in the court, players often hit open stance. Players also hit
 open when they are forced on time.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image3.webp)
 
 **All top players hit with open and neutral stances as well.**
 
@@ -75,9 +72,9 @@ You can find also exceptions to all these tendencies. But it is still a
 fair generalization to say that closed stance is the most common and the
 most preferred stance.
 
-So how could it be that the predominate stance on the men\'s two
+So how could it be that the predominate stance on the men's two
 backhand is the complete opposite of what we see on the modern forehand?
-To see why, let\'s start by looking at the open stance on the modern
+To see why, let's start by looking at the open stance on the modern
 forehand and how it functions.
 
 As strange as it may initially sound, the technical benefits of open
@@ -91,8 +88,7 @@ and dynamic the game is at the highest levels\--and how difficult it is
 to understand.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image4.webp)
 
 **The semi-open stance is the preferred choice on the forehand for pro
 players\--even with conservative grips.**
@@ -121,8 +117,7 @@ very hard with a complex array of adjusting steps to create the semi
 open alignment whenever possible.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image5.webp)
 
 **Would this ball bounce over your shoulder?**
 
@@ -151,8 +146,7 @@ uncoiling.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image6.webp)
 
 **Compare the slighter great turn in the semi-open stance.**
 
@@ -167,15 +161,15 @@ by allowing players to turn incrementally more in the coiling phase. And
 that in turn creates additional uncoiling and rotation in the forward
 swing.
 
-Let\'s see this by comparing the angle of the shoulder turn for Andy
+Let's see this by comparing the angle of the shoulder turn for Andy
 Murray who tends to hit more fully open forehands to Novak Djokovic who
 uses the semi-open stance more predominantly. ([Click
 Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/)
-for more analysis of Andy\'s forehand.)
+for more analysis of Andy's forehand.)
 
 Look at the angle of the torso at the furthest point in the turn. Andy
 has a great turn. His shoulders are about 90 degrees to the baseline or
-a little more. 99 percent of all club players I have ever filmed don\'t
+a little more. 99 percent of all club players I have ever filmed don't
 turn that well.
 
 But look at Novak with the semi open offset between the feet in his
@@ -183,8 +177,7 @@ stance. His shoulders have turned another 20 or 30 degrees. No doubt he
 has a significant additional upper body coil.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image7.webp)
 
 **From the deeper turn the uncoiling from the semi-open stance is
 slightly greater.**
@@ -212,8 +205,7 @@ backhand and rotate through the shot in the same way as the forehand?
 The two handed backhand is like a left handed forehand right?
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image8.webp)
 
 **Contact: the forehand shoulder position, the one handed shoulder
 position, and the two handed position\--basically halfway between.**
@@ -231,7 +223,7 @@ selling instructional book called Visual Tennis.
 
 That was in the days before high speed video existed and there was no
 way to study technique in the detail or with the number of examples the
-way we can today. And my belief is that it\'s important to acknowledge
+way we can today. And my belief is that it's important to acknowledge
 this and revise our thinking whenever we have newer, better data sources
 that can lead to better knowledge.
 
@@ -242,8 +234,7 @@ rotation that has occurred at that point in the swing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image9.webp)
 
 **Another look at the interplay of the hands and body rotation in the
 forward swing.**
@@ -268,7 +259,7 @@ closed stance.
 
 **Grips**
 
-It\'s also critical to understand the grips that produce this. To hit a
+It's also critical to understand the grips that produce this. To hit a
 true two-handed backhand, the players have to use some version of a true
 backhand grip with the bottom hand.
 
@@ -279,8 +270,7 @@ Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image10.webp)
 
 **A mild backhand grip paired with an eastern or mild semi-western.**
 
@@ -312,8 +302,7 @@ Then another across the shoulders. Basically, those two lines are
 parallel.
 
 ![A person playing tennis Description automatically
-generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_john-yandell-modern-backhand-stances-the-two-hander/media/image11.webp)
 
 **Compare the relation between the stance and the amount of shoulder
 turn but also knee bend.**
@@ -333,8 +322,8 @@ groundstrokes, the top players have found a way to turn further.
 **[Semi-open forehand. Closed stance backhand. The effect is the same. A
 significant increase in the coiling in the upper body.]{.mark}**
 
-But that\'s not all. Note with the diagonal step into the closed stance
-two hander how wide the players\' base becomes. Look also at the legs.
+But that's not all. Note with the diagonal step into the closed stance
+two hander how wide the players' base becomes. Look also at the legs.
 
 If we compare the knee bend, it is generally significantly deeper than
 with a step directly forward into a neutral stance.
@@ -345,8 +334,7 @@ with the closed stance. Again the contact is at about 45 degrees with
 the shoulders then continuing on until they are parallel to the court.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image12.webp)
 
 **Compare the increased rotation and the uncoiling of the legs in the
 closed stance.**
@@ -385,10 +373,9 @@ the motion first.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image13.webp)
 
-**Watch how the back leg stays behind the body and doesn\'t swing around
+**Watch how the back leg stays behind the body and doesn't swing around
 until the extension of the swing and the shoulder rotation are
 complete.**
 
@@ -398,27 +385,26 @@ momentum of their movement and to set up correctly. Or for players who
 tend to reach for the ball or swing the recovery step around too soon.
 
 Neutral stance is also great for positioning and also for working on
-balance and staying upright during the forward swing. It\'s also good
+balance and staying upright during the forward swing. It's also good
 for learning to feel how to keep the rear foot back and not taking a
 recovery step too soon.
 
 But once a player has the ability to finish the swing in the correct
 sequence, it can be exciting to experiment and see what closed stance
-can do. It\'s not necessarily to have a good backhand at the club level,
-that\'s for sure.
+can do. It's not necessarily to have a good backhand at the club level,
+that's for sure.
 
 But you may find that you feel increased leverage and velocity on your
 two hander from learning how to increase your body turn and leg coiling
-like top players. That can help raise the level of the stroke\'s
+like top players. That can help raise the level of the stroke's
 effectiveness.
 
-Stay Tuned. Next we\'ll look at the one-handed stances on the men\'s
+Stay Tuned. Next we'll look at the one-handed stances on the men's
 side.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image14.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/image14.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

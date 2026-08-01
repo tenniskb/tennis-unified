@@ -1,13 +1,12 @@
 # The Magic Number One
 
-### Craig O\'Shannessy
+### Craig O'Shannessy
 
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-magic-number-one/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-magic-number-one/media/image1.webp)
 
 **What is the most common number of hits in pro points? Is that the same
 as average rally length?**
@@ -19,10 +18,10 @@ determining outcome, and the surprising effectiveness of net approaches.
 ([Click Here](The%20New%20Magic%20Numbers.docx).)
 
 This new statistical perspective is turning the way the game is
-understood and coached upside down. But now let\'s look at probably the
+understood and coached upside down. But now let's look at probably the
 most shocking number of all from this research.
 
-That number is the most common rally length. By that I don\'t mean the
+That number is the most common rally length. By that I don't mean the
 average rally length, but the most common number of times the ball is
 struck in a point. The most common number of hits.
 
@@ -34,19 +33,18 @@ coaches who are working on the tour.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-magic-number-one/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-magic-number-one/media/image2.webp)
 
 **One is the most common shot duration in tennis.**
 
-But what\'s the real number? One. That\'s right, one! The highest
+But what's the real number? One. That's right, one! The highest
 percentage of points are determined by one hit, when the ball is struck
-on a serve and it doesn\'t come back. What percentage? Almost 30% of all
-points in the men\'s game are one hit, based on my study at the
+on a serve and it doesn't come back. What percentage? Almost 30% of all
+points in the men's game are one hit, based on my study at the
 Australian Open in 2015.
 
-What\'s the next rally length with the next highest percentage? For the
-men it\'s three hit\--about 15% of the total points. Three hits means a
+What's the next rally length with the next highest percentage? For the
+men it's three hit\--about 15% of the total points. Three hits means a
 serve, a return, and one more shot from the server.
 
 Next number? 2 hits. A serve followed by a return. That accounts for
@@ -55,16 +53,15 @@ about 10% of all points.
 And if we look at four hit rallies, they account for another 7.5% of
 points. In those points the returner wins the point with a return and
 then one more shot. So, add that up. Over 61%\--far more than half the
-points in men\'s pro tennis\--are determined by 4 hits or less.
+points in men's pro tennis\--are determined by 4 hits or less.
 
 ![A person serving a tennis ball Description automatically generated
 with low
-confidence](media_the-magic-number-one/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-magic-number-one/media/image3.webp)
 
-**In men\'s tennis 15% of all points are 3 hits.**
+**In men's tennis 15% of all points are 3 hits.**
 
-Wait now, didn\'t I make the point in the last article that the average
+Wait now, didn't I make the point in the last article that the average
 rally length was 5 to 6 hits? How could these numbers I am now quoting
 be less? The key to understanding the numbers is to realize that some
 percentage of all point go on longer, 8 hits, 10 hits, all the way up to
@@ -143,10 +140,9 @@ were a total of two!
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-magic-number-one/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-magic-number-one/media/image4.webp)
 
-**In women\'s tennis the number of points decided by 4 hits or less is
+**In women's tennis the number of points decided by 4 hits or less is
 even higher than the men.**
 
 **What About the Women?**
@@ -157,16 +153,16 @@ of points decided by 4 hits or less is actually higher than the men.
 Over 66% of their points are decided by four shots or less, compared to
 61% for the men.
 
-About 27% of the women\'s points are decided by one hit\--a serve. This
-only slightly less than the men at 29%. About 15% of women\'s points are
+About 27% of the women's points are decided by one hit\--a serve. This
+only slightly less than the men at 29%. About 15% of women's points are
 decided by two hits---a serve and a return. A little more than 14% are
 decided by three hits. Another 11% are decided by four.
 
-So add that up and you get two thirds of women\'s points decided by 4
+So add that up and you get two thirds of women's points decided by 4
 hits or less---and interestingly, the duration of the longest rallies
 was also less than the men.
 
-The longest men\'s rally as we saw was 27 hits. For the women it was 21
+The longest men's rally as we saw was 27 hits. For the women it was 21
 hits and that was for exactly one point.
 
 **Here is the chart for the women:**
@@ -237,8 +233,7 @@ how much is too much? When does it become overkill?
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_the-magic-number-one/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-magic-number-one/media/image5.webp)
 
 **What percentage of balls you hit in practice are serves---especially
 hit to spots?**
@@ -258,13 +253,13 @@ we have no balance. We grind and slap groundstrokes around for hours,
 get exhausted and congratulate ourselves on how hard we are
 working.]{.mark}]{.underline}**
 
-**[[Meanwhile we don\'t spend anywhere near enough time on the serve and
+**[[Meanwhile we don't spend anywhere near enough time on the serve and
 return, the two shots that determine the biggest percentage of
 points.]{.underline}]{.mark}** **[[The shared delusion is that
 groundstroke rallies are what matter the most. They
-don\'t.]{.mark}]{.underline}**
+don't.]{.mark}]{.underline}**
 
-In a two set match it\'s likely you will hit 50 to 100 serves. How many
+In a two set match it's likely you will hit 50 to 100 serves. How many
 times have you hit anything close to that number in practice? Much less
 focused on hitting a high percentage of them accurately to target spots?
 
@@ -274,8 +269,7 @@ charting your ability to do so.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-magic-number-one/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-magic-number-one/media/image6.webp)
 
 **Should you quadruple your return practice?**
 
@@ -291,7 +285,7 @@ men 7.5% of all points end with four hits. And for women that four hit
 percentage is higher at 11%.
 
 For hits means the returner wins the point by hitting a return and then
-one other shot. If you don\'t get the serve in play, you have no chance
+one other shot. If you don't get the serve in play, you have no chance
 of winning a four hit point, one of the top four point durations in
 tennis.
 
@@ -306,29 +300,27 @@ reason that they represent the majority of all points played.
 Stayed Tuned for More on the New Magic Numbers and what they mean for
 your game in upcoming articles!
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with low                                                                        | Craig O\'Shannessy is widely recognized as  |
-| confidence](media_the-magic-number-one/media/image7.jpg){width="1.875in" | the world leader in analyzing tennis        |
-| height="2.3333333333333335in"}                                                                                                                        | statistics, tennis strategy, and applying   |
-|                                                                                                                                                       | his insights in coaching. His research has  |
-|                                                                                                                                                       | uncovered the real magic numbers in winning |
-|                                                                                                                                                       | tennis across all levels of the game. He    |
-|                                                                                                                                                       | writes for the ATP Tour website and the New |
-|                                                                                                                                                       | York Times among others elite publications. |
-|                                                                                                                                                       |                                             |
-|                                                                                                                                                       | He has coached on the tour for 20 years     |
-|                                                                                                                                                       | working with players including Kevin        |
-|                                                                                                                                                       | Anderson, Amer Delic, and Rajeev Ram. His   |
-|                                                                                                                                                       | website Brain Game Tennis offers detailed   |
-|                                                                                                                                                       | analysis and training programs based on his |
-|                                                                                                                                                       | research that have helped thousands of      |
-|                                                                                                                                                       | players around the world.                   |
-+=======================================================================================================================================================+=============================================+
+| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
+| --- | --- |
+| confidence](media_the-magic-number-one/media/image7.jpg) | statistics, tennis strategy, and applying |
+|  | his insights in coaching. His research has |
+|  | uncovered the real magic numbers in winning |
+|  | tennis across all levels of the game. He |
+|  | writes for the ATP Tour website and the New |
+|  | York Times among others elite publications. |
+|  |  |
+|  | He has coached on the tour for 20 years |
+|  | working with players including Kevin |
+|  | Anderson, Amer Delic, and Rajeev Ram. His |
+|  | website Brain Game Tennis offers detailed |
+|  | analysis and training programs based on his |
+|  | research that have helped thousands of |
+|  | players around the world. |
+
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Diagram Description automatically generated with medium                                                                                                            [Click
-  confidence](media_the-magic-number-one/media/image8.jpg){width="3.4722222222222223in"   Here](http://www.braingametennis.com/)
-  height="1.7916666666666667in"}                                                                                                                                       to visit Craig\'s site and check out his
+  confidence](media_the-magic-number-one/media/image8.jpg)                                                                                                                                       to visit Craig's site and check out his
                                                                                                                                                                        amazing training products!
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 

@@ -9,27 +9,26 @@ what does it really mean? Are your most cherished beliefs about how to
 hit the ball actually true?
 
 ![A person holding a tennis racket Description automatically
-generated](media_comparing-the-open-and-closed-stances/media/image1.webp){width="2.6666666666666665in"
-height="2.4375in"}
+generated](media_comparing-the-open-and-closed-stances/media/image1.webp)
 
 **The open stance forehand dominates the modern pro game, but what are
-it\'s real advantages, if any?**
+it's real advantages, if any?**
 
 A number of pioneering researchers have done quantitative studies of the
 strokes, as well as other areas of the game. But their results remain
 largely unknown in the teaching and playing communities.
 
-In this article, we\'ll start to take a look at some of the existing
+In this article, we'll start to take a look at some of the existing
 quantitative research, try to summarize it in language any player can
 understand, and see what questions are raised, what questions are
 answered, and what remains unclear and grounds for future investigation.
 
-The first work we\'ll look at is a study of the differences in the open
+The first work we'll look at is a study of the differences in the open
 stance and closed stance forehand, completed by Duane Knudson, professor
 of physical education and exercise science at California State
 University, Chico.
 
-The open stance forehand is dominant in the modern pro game. It\'s
+The open stance forehand is dominant in the modern pro game. It's
 commonly believed that the open stance produces more racquet head speed,
 more topspin, and more torso rotation. But what are the real differences
 between the open stance and the closed stance? What advantages does the
@@ -42,26 +41,25 @@ at least for players below the world class level, there were no
 measurable advantages for the open stance. If anything, the data
 suggested slight advantages for the closed stance.
 
-Knudson\'s study found racquet head speed, for both stances, essentially
+Knudson's study found racquet head speed, for both stances, essentially
 the same. The speed of the torso rotation was also the same. The angle
 of the swing plane for both stances was the same. The open stance did
 not produce a more radical low to high motion, which would be associated
 with greater topspin.
 
 Here are the details of what he tried to do, how he did it, and what he
-found, as well as the questions the study didn\'t try to address, and
+found, as well as the questions the study didn't try to address, and
 some speculations about how the conclusions apply to the pro game.
 
 ![A person holding a tennis racket Description automatically
-generated](media_comparing-the-open-and-closed-stances/media/image2.webp){width="2.6979166666666665in"
-height="2.4791666666666665in"}
+generated](media_comparing-the-open-and-closed-stances/media/image2.webp)
 
 **Andre Agassi is one of the few top players to use both stances. What
 are the differences when he hits with an open or closed stance?**
 
 **Background**
 
-Knudsen\'s study sought to shed new light on a significant disagreement
+Knudsen's study sought to shed new light on a significant disagreement
 in the coaching community over the relative merits of the forehand
 stances. Some coaches believe the square stance creates a flatter
 racquet path which would tend to increase the velocity and possibly the
@@ -69,7 +67,7 @@ accuracy of the stroke. Others coaches argue open stance forehands
 generate more racquet head speed due to increased torso and arm
 rotation-the so-called whip factor.
 
-Knudsen\'s study collected data to test these coaching hypotheses about
+Knudsen's study collected data to test these coaching hypotheses about
 the stroking advantages of the stances.
 
 **The question was, would quantitative measurements reveal significant
@@ -130,27 +128,21 @@ stances.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_comparing-the-open-and-closed-stances/media/image3.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person playing tennis Description
+confidence](media_comparing-the-open-and-closed-stances/media/image3.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image4.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person swinging a tennis racket
+confidence](media_comparing-the-open-and-closed-stances/media/image4.jpg)![A person swinging a tennis racket
 Description automatically
-generated](media_comparing-the-open-and-closed-stances/media/image5.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}**Comparing the two stances on Agassi\'s
+generated](media_comparing-the-open-and-closed-stances/media/image5.jpg)**Comparing the two stances on Agassi's
 forehand. The position of the shoulders is virtually identical at the
 turn, the contact, and the finish.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_comparing-the-open-and-closed-stances/media/image6.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person playing tennis Description
+confidence](media_comparing-the-open-and-closed-stances/media/image6.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image7.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person playing tennis Description
+confidence](media_comparing-the-open-and-closed-stances/media/image7.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image8.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}
+confidence](media_comparing-the-open-and-closed-stances/media/image8.jpg)
 
 **If anything, there was a possible trend toward more racquet head speed
 in the closed stance.**
@@ -187,8 +179,7 @@ expect, the professional group in general had a higher trunk velocity
 compared to the intermediates.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_comparing-the-open-and-closed-stances/media/image9.jpg){width="3.125in"
-height="3.0104166666666665in"}
+generated](media_comparing-the-open-and-closed-stances/media/image9.jpg)
 
 **What is the relationship between grip structure, stance and body
 rotation?**
@@ -231,14 +222,13 @@ these questions definitively would require additional quantitative
 filming protocols.
 
 Also unaddressed was the issue of grips in the whole debate. Knudsen
-didn\'t specify the grip styles of his subjects. Is it possible that
+didn't specify the grip styles of his subjects. Is it possible that
 differences often attributed to differences in stances could actually be
 characteristic of the grip styles?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_comparing-the-open-and-closed-stances/media/image10.jpg){width="2.6041666666666665in"
-height="3.5208333333333335in"}
+confidence](media_comparing-the-open-and-closed-stances/media/image10.jpg)
 
 **How do the extreme grips affect the timing and speed of the racquet
 head and the torso rotation?**
@@ -278,8 +268,8 @@ they are once again parallel to the baseline, and then continue on past
 parallel for up to another 30 degrees.
 
 Now compare this to Kuerten who is substantially further underneath the
-handle with his forehand grip. Kuerten\'s turn move appears to be
-roughly the same as Agassi\'s. At the completion of the turn, Kuerten\'s
+handle with his forehand grip. Kuerten's turn move appears to be
+roughly the same as Agassi's. At the completion of the turn, Kuerten's
 shoulders are also slightly past perpendicular to the net. The big
 difference is in the amount of rotation after the turn, from the turn to
 the contact, and then from the contact to the finish.
@@ -293,25 +283,22 @@ shoulder finishes pointing at his opponent.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_comparing-the-open-and-closed-stances/media/image6.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person playing tennis Description
+confidence](media_comparing-the-open-and-closed-stances/media/image6.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image7.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}![A person playing tennis Description
+confidence](media_comparing-the-open-and-closed-stances/media/image7.jpg)![A person playing tennis Description
 automatically generated with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image8.jpg){width="1.9791666666666667in"
-height="2.7395833333333335in"}
+confidence](media_comparing-the-open-and-closed-stances/media/image8.jpg)
 
 **Although the shoulder position at the turn is similar, note the
 difference at the contact and the finish between Agassi and Kuerten.**
 
 Roughly speaking, Agassi turns about 100 degrees, then rotates about 130
-degrees from the turn to the finish. Kuerten\'s turn is about the same,
+degrees from the turn to the finish. Kuerten's turn is about the same,
 roughly 100 degrees, but his rotation from the turn to the finish is
-much greater-about 190 degrees, or almost 50% more than Agassi\'s.
+much greater-about 190 degrees, or almost 50% more than Agassi's.
 
 The big unanswered question of course is what this all really means.
-It\'s generally agreed that on hard courts Agassi has the most
+It's generally agreed that on hard courts Agassi has the most
 penetrating forehand in the game, with the possible exception of Pete,
 who has even less overall rotation than Agassi. Kuerten has more, but is
 that better? What are the differences here in terms of the effect of the
@@ -328,7 +315,7 @@ more ball speed?
 
 What is the relation between the racquethead speed and the racquet head
 direction at contact? Is it possible to swing faster and generate less
-ball speed? Could one player\'s racquet be going faster, but in the
+ball speed? Could one player's racquet be going faster, but in the
 \"wrong\" direction, resulting in less ball speed? When does the
 racquethead speed peak? When is the ideal time for the racquethead to
 peak in terms of ball speed? Could a player have more racquethead speed
@@ -373,8 +360,7 @@ about how to train young players.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_comparing-the-open-and-closed-stances/media/image11.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_comparing-the-open-and-closed-stances/media/image11.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

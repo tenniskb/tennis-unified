@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image1.webp)
 
 **Could serve and volley again be a winning style in pro tennis?**
 
@@ -34,8 +33,7 @@ John McEnroe, Stefan Edberg, and Pete Sampras among others.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image2.jpg){width="2.34375in"
-height="3.3854166666666665in"}
+confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image2.jpg)
 
 **Stefan Edberg, one of the last great serve and volley champions.**
 
@@ -69,8 +67,7 @@ see are excruciating backcourt exchanges and Grand Slam finals that last
 **The Borg Irony**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image3.jpg){width="4.833333333333333in"
-height="3.3472222222222223in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image3.jpg)
 
 **Ironically, the individuality of Borg led to the conformity of
 today.**
@@ -101,8 +98,7 @@ have greater and greater success, the coaching establishment was forced
 to study him in order to catch up to the changes he brought to the game.
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image4.webp)
 
 **Incredible dipping spin changed the game in favor of the passing
 shot.**
@@ -137,8 +133,7 @@ approach---a cornerstone of the older attacking tennis---virtually
 obsolete.
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image5.webp)
 
 **Today's rackets make it difficult to take speed off the ball.**
 
@@ -183,8 +178,7 @@ similarity between how a player hits a good forehand and how they hit a
 good forehand volley.
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image6.webp)
 
 **The stances and swings on the groundstrokes are nothing like the
 volleys.**
@@ -206,8 +200,7 @@ inhibiting the development of the volley today. It makes creating
 correct body position at the net far less natural.
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image7.webp)
 
 **At the net part of the turn is creating with the stance.**
 
@@ -242,8 +235,7 @@ lower, the knees flexed and one or both feet on the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image8.webp)
 
 **The modern baseline game: long running and lunging steps.**
 
@@ -280,8 +272,7 @@ volley better, I find often that they become tired surprisingly quickly
 because they are using their muscles in a very different way.
 
 ![A person playing tennis Description automatically
-generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image9.jpg){width="4.166666666666667in"
-height="3.0in"}
+generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image9.jpg)
 
 **Clijsters: running groundstrokes hit from the splits.**
 
@@ -317,8 +308,7 @@ thought to be the maximum ideal height.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image10.jpg){width="4.109588801399825in"
-height="2.8630139982502185in"}
+confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image10.jpg)
 
 **Could Milos Raonic be a player who helps reverse the course of the
 game again?**
@@ -341,24 +331,23 @@ I feel that the next great champion will be the most complete player yet
 in the game's history, and this will include using the serve volley
 dimension to win matches.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                                              | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image11.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                                           | numerous ranked junior players and coached  |
-|                                                                                                                                                                                                          | a series of championship high school teams. |
-|                                                                                                                                                                                                          | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                                          | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                                          |                                             |
-|                                                                                                                                                                                                          | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                                          | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                                          | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                                          | are now splitting time between homes in     |
-|                                                                                                                                                                                                          | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                                          | continued to coach and to have great        |
-|                                                                                                                                                                                                          | competitive success winning Canadian        |
-|                                                                                                                                                                                                          | National seniors titles---not to mention    |
-|                                                                                                                                                                                                          | continuing to write articles for            |
-|                                                                                                                                                                                                          | Tennisplayer from his unique perspective.   |
-+==========================================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image11.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

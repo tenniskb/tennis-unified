@@ -28,13 +28,11 @@ stopping a moving object, narrowing the visual field cuts out extraneous
 information and limits the vision to the hand and racket.
 
 ![A person playing tennis Description automatically
-generated](media_ball-watching-part-3/media/image1.webp){width="3.064000437445319in"
-height="2.2980008748906386in"}![A person playing tennis Description
+generated](media_ball-watching-part-3/media/image1.webp)![A person playing tennis Description
 automatically
-generated](media_ball-watching-part-3/media/image2.webp){width="3.0720002187226596in"
-height="2.3040004374453193in"}
+generated](media_ball-watching-part-3/media/image2.webp)
 
-**What methodology would allow other players to replicate Roger\'s ball
+**What methodology would allow other players to replicate Roger's ball
 watching?**
 
 **Close Your Eyes**
@@ -45,8 +43,7 @@ transmitted to the visual cortex on a black background, making it more
 prominent.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_ball-watching-part-3/media/image3.jpg){width="3.2in"
-height="2.861855861767279in"}
+generated](media_ball-watching-part-3/media/image3.jpg)
 
 **Close your eyes after you hear contact.**
 
@@ -66,7 +63,7 @@ it.]{.mark}]{.underline}**
 
 **Eye Motion from Start to Finish**
 
-Now here\'s a summary of what your eyes should be doing as you prepare
+Now here's a summary of what your eyes should be doing as you prepare
 to strike the ball.
 
 **[[As the ball comes across the net, your eyes will track it in your
@@ -79,8 +76,7 @@ turning your neck to the side of contact (toward your racket). This will
 minimize visual blackouts.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_ball-watching-part-3/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-3/media/image4.webp)
 
 **Just before contact shift your eyes to the hand and racket.**
 
@@ -112,8 +108,7 @@ racket, it will be easier to track visually.
 
 ![A picture containing text, tennis, person, player Description
 automatically
-generated](media_ball-watching-part-3/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-3/media/image5.webp)
 
 **Take your eyes off the ball when you turn your head toward the hitting
 side.**
@@ -129,8 +124,8 @@ hand]{.underline}]{.mark}**. **[[This will bring your internal reference
 points (foot and racket-hand complex) into your narrowed visual
 field.]{.underline}]{.mark}**
 
-With this saccade you\'ll experience a very brief episode of blindness,
-which you won\'t notice because your brain suppresses it. This episode
+With this saccade you'll experience a very brief episode of blindness,
+which you won't notice because your brain suppresses it. This episode
 of blindness will seem to slow time in your mind, making it easier to
 perceive contact.
 
@@ -143,11 +138,11 @@ I think we tend to imagine it being like us watching a slow-motion video
 of our favorite pro, in which we can see the contact. But unfortunately,
 contact in real time is too short to savor in this fashion.
 
-**Don\'t Follow Your Shot**
+**Don't Follow Your Shot**
 
-I have heard a few teaching pros recommend that you don\'t watch your
-shot as it heads hack to your opponent. It\'s a great idea in theory,
-but very hard to do with your eyes open\--you\'re just dying to see your
+I have heard a few teaching pros recommend that you don't watch your
+shot as it heads hack to your opponent. It's a great idea in theory,
+but very hard to do with your eyes open\--you're just dying to see your
 awesome shot.
 
 **[[Instinctively, your head turns to follow the outgoing
@@ -157,12 +152,11 @@ contact is absolutely effective.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-watching-part-3/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_ball-watching-part-3/media/image6.webp)
 
 **Train yourself not to turn your head to follow the ball.**
 
-**[[When you don\'t follow your shot, you can focus on finishing the
+**[[When you don't follow your shot, you can focus on finishing the
 task at hand (i.e. your stroke), which leads to better contact, balance,
 and recovery.]{.mark}]{.underline}**
 
@@ -174,14 +168,14 @@ Here](https://www.tennisplayer.net/members/classiclessons/mentalgame/damien_lafo
 **[[When your head turns to follow an outgoing hall, your body follows
 suit and can change the mechanics of the stroke.]{.underline}]{.mark}**
 Like I said, this is easier said than done, as you want to see where
-your ball lands. But there is one method that guarantees that you won\'t
+your ball lands. But there is one method that guarantees that you won't
 follow your shot: closing your eyes briefly after contact.
 
 **[[Once the shot is made, it is completely out of your control, and
 there is nothing you can do to change its
 trajectory.]{.underline}]{.mark}** However, your eyes should only close
 briefly as you definitely need to see where your ball bounces, he aware
-of your opponent\'s position (especially if they\'re at the net), and be
+of your opponent's position (especially if they're at the net), and be
 ever-cognizant of the shortened hitting cycle when you or your opponent
 are at the net.
 
@@ -190,36 +184,35 @@ actual game play, but it is a great way to start training your brain to
 focus on the follow-through rather than worrying about where your shot
 is going.]{.mark}]{.underline}**
 
-Take Federer\'s forehands as I noted in the last article, for example.
+Take Federer's forehands as I noted in the last article, for example.
 He almost never follows his shot. In fact, 82% of his forehands end in
-narrowed or closed eyes. Even when his eyes remain fully open, he\'s
-typically turned sideways and his eye line doesn\'t follow the shot.
+narrowed or closed eyes. Even when his eyes remain fully open, he's
+typically turned sideways and his eye line doesn't follow the shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_ball-watching-part-3/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_ball-watching-part-3/media/image7.webp)
 
 **Because of the way your brain works you hear contact before you see
 it.**
 
 **The Brain**
 
-To determine when you should close your eyes, let\'s revisit how the
+To determine when you should close your eyes, let's revisit how the
 brain processes contact. Contact happens in about 4 milliseconds.
 Soundwaves take 3.6 ms to go from the racket to your ear. Then that
 signal takes 50 ms to process. So the total time for sound is 53.6 ms.
 That is compared to the 100 to 200 ms for vision.
 
-In other words, you hear contact before you see it. By the time you\'re
+In other words, you hear contact before you see it. By the time you're
 hearing contact, it has already happened about 54 milliseconds ago.
 Contact has already occurred, your shot has already been determined, and
 it is therefore safe to (briefly) close your eyes at this point.
 
-The ears, therefore, tell you exactly when it\'s safe to close your
+The ears, therefore, tell you exactly when it's safe to close your
 eyes. If you close your eyes after you hear the contact, no further
 visual input can interfere with the incoming visual information. This
-may allow for contact to become more visually distinct in your mind\'s
+may allow for contact to become more visually distinct in your mind's
 eye.
 
 When the eyes close after a shot, it is more a natural result of having
@@ -228,7 +221,7 @@ the eyes does not affect the shot at all. Plus, you have to blink
 sometimes\--better to do it after the shot than before or during the
 shot.
 
-Closing your eyes after contact doesn\'t hurt anything and is 100%
+Closing your eyes after contact doesn't hurt anything and is 100%
 effective in preventing you from following your shot. But just as you
 can follow-through in a wraparound fashion or a buggy whip fashion, you
 may elect to narrow your eyes rather than closing them. In certain
@@ -236,8 +229,7 @@ circumstances it may even be best to keep your eyes open without
 following the shot which is more difficult, but possible.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_ball-watching-part-3/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_ball-watching-part-3/media/image8.webp)
 
 **When your follow-through comes across the body now look out at the
 court.**
@@ -249,7 +241,7 @@ If you allow the head to continue on this turn a little beyond contact
 it will protect you from following the outgoing shot.
 
 When your follow-through comes all the way across your body, your shot
-should be completed and it\'s okay to look out at the court. On a
+should be completed and it's okay to look out at the court. On a
 one-handed backhand concentrate on keeping your chest toward the side
 fence and tuck your chin slightly toward your chest.
 
@@ -257,15 +249,14 @@ This will stop you from following the outgoing ball. These techniques
 are particularly useful in situations where you are not going to close
 your eyes after contact.
 
-So that\'s it for my series! I welcome your comments and questions in
+So that's it for my series! I welcome your comments and questions in
 the Forum!
 
 ------------------------------------------------------------------------
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_ball-watching-part-3/media/image9.jpeg){width="1.8243055555555556in"
-height="2.1118055555555557in"}
+confidence](media_ball-watching-part-3/media/image9.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -276,7 +267,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

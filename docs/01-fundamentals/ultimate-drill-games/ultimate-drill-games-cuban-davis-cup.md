@@ -6,16 +6,15 @@ Cuban Davis Cup**
 **Jorge Capestany**
 
 Why is it called Cuban Davis Cup? Maybe just because Jorge Capestany was
-born there? In any case Jorge\'s ultimate drill game this month is
+born there? In any case Jorge's ultimate drill game this month is
 designed to help players get multiple solid volley reps under
-pressure\--something you don\'t usually get in matches\--plus work on
+pressure\--something you don't usually get in matches\--plus work on
 the lob against a net player and then taking the net yourself. If you
 want to bring your match level up to your practice level, drill games
 are the way to go.
 
 ![A person holding a tennis racket Description automatically
-generated](media_ultimate-drill-games-cuban-davis-cup/media/image1.jpeg){width="1.5597222222222222in"
-height="2.127083333333333in"}
+generated](media_ultimate-drill-games-cuban-davis-cup/media/image1.jpeg)
 
 Jorge Capestany is one of eleven people worldwide that have earned the
 distinction of Master Professional with the USPTA and International
@@ -42,19 +41,18 @@ and Jorge has been the personal coach to many nationally ranked juniors
 in the US including three national champions. He speaks regularly at
 coaching conventions around the world.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| +---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |
-| | **Tennisplayer Forum**                                                                                                                | ![forum](media_ultimate-drill-games-cuban-davis-cup/media/image2.gif){width="1.8729166666666666in" | |
-| |                                                                                                                                       | height="1.3958333333333333in"}                                                                                                                                                              | |
-| +---------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                                             | |
-| | **Let\'s Talk About this Article!\                                                                                                    |                                                                                                                                                                                             | |
-| | \                                                                                                                                     |                                                                                                                                                                                             | |
-| | Share Your Thoughts with our Subscribers and Authors!\                                                                                |                                                                                                                                                                                             | |
-| | \                                                                                                                                     |                                                                                                                                                                                             | |
-| | [[Click                                                                                                                               |                                                                                                                                                                                             | |
-| | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)** |                                                                                                                                                                                             | |
-| +=======================================================================================================================================+=============================================================================================================================================================================================+ |
-+=========================================================================================================================================================================================================================================================================================================================================+
+| +---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+| --- | --- | --- | --- |
+|  | **Tennisplayer Forum** | ![forum](media_ultimate-drill-games-cuban-davis-cup/media/image2.gif) |  |
+| +---------------------------------------------------------------------------------------------------------------------------------------+ |  |  |  |
+|  | **Let's Talk About this Article!\ |  |  |
+|  | \ |  |  |
+|  | Share Your Thoughts with our Subscribers and Authors!\ |  |  |
+|  | \ |  |  |
+|  | [[Click |  |  |
+|  | Here]{.underline}](https://www.tennisplayer.net/bulletin/forum/tennisplayer/81726-ultimate-drill-games-cuban-davis-cup?view=stream)** |  |  |
+| +=======================================================================================================================================+=============================================================================================================================================================================================+ |  |  |  |
+
 
 © Tennisplayer 2019. All Rights Reserved.\
 \

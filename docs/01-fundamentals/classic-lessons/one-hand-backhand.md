@@ -7,11 +7,9 @@ Swing Volley**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_one-hand-backhand/media/image1.jpg){width="2.9675623359580054in"
-height="1.8322451881014874in"} ![A person playing tennis Description
+confidence](media_one-hand-backhand/media/image1.jpg) ![A person playing tennis Description
 automatically
-generated](media_one-hand-backhand/media/image2.jpg){width="3.141791338582677in"
-height="1.8289709098862643in"}
+generated](media_one-hand-backhand/media/image2.jpg)
 
 **Federer and Wawrinka - two players who first popularized the one hand
 backhand swing volley.**
@@ -19,7 +17,7 @@ backhand swing volley.**
 The one-handed backhand is still alive on the pro tour and at all levels
 of recreational play. While I believe in the technical supremacy of the
 modern two-handed backhand, the one hander remains a beautiful,
-graceful, and flowing shot that captures attention. It\'s still viable
+graceful, and flowing shot that captures attention. It's still viable
 in the modern high speed game.
 
 The one-handed backhand swing volley is a "rara avis,\" or a rare bird,
@@ -29,8 +27,7 @@ great one-handed backhand players on the pro tour have the ability to
 rip the ball out of the air.
 
 ![A picture containing player, blurry Description automatically
-generated](media_one-hand-backhand/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_one-hand-backhand/media/image3.webp)
 
 **Federer uses the one hand backswing swing volley as a counterattack
 and passing shot.**
@@ -50,7 +47,7 @@ counterattacking passing shot.
 **Classic and Jumping**
 
 The classic one handed swing volley is hit on the ground without
-jumping. But it\'s also common for players to elevate the body to
+jumping. But it's also common for players to elevate the body to
 achieve a better contact point. When the ball is floating high and
 players are moving forwards, players frequently jump up to attack the
 ball.
@@ -63,8 +60,7 @@ innovations.
 
 ![A tennis player hitting a ball with a racket Description automatically
 generated with medium
-confidence](media_one-hand-backhand/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_one-hand-backhand/media/image4.webp)
 
 **Shapovalov can hit backhands and backhand swing volleys with a
 powerful jump.**
@@ -87,14 +83,13 @@ I prefer an extreme closed stance for the base of support on a one
 handed backhand and the same on the swing volley. Most players set up
 too neutral with their feet.
 
-It\'s critical for the player to turn extremely sideways in the setup to
+It's critical for the player to turn extremely sideways in the setup to
 maximize hip and trunk rotation. This can be challenging because most
 players find it awkward to turn sideways after running forward to take
 the ball out of the air.
 
 ![A person playing a guitar Description automatically generated with low
-confidence](media_one-hand-backhand/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_one-hand-backhand/media/image5.webp)
 
 **I teach the grounded swinging volley first before progressing to
 jumping variations.**
@@ -119,7 +114,7 @@ relationship to their own position moving forwards. In addition, if a
 forward jump is added to the shot this can easily corrupt the ideal
 spacing with the ball.
 
-It\'s important to leave extra room to extend the arm and create lift
+It's important to leave extra room to extend the arm and create lift
 and topspin on the shot. A cramped arm at impact will often cause
 inaccuracy and will reduce power and RPMs. Good spacing allows the arm
 to flow freely and is one of the keys to developing a graceful,
@@ -127,22 +122,21 @@ effortless looking one handed shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_one-hand-backhand/media/image6.jpg){width="4.166666666666667in"
-height="3.3194444444444446in"}
+confidence](media_one-hand-backhand/media/image6.jpg)
 
 **Hold the gaze on the swing volley---Federer is a great example.**
 
 **The Eyes and the Finish**
 
-I\'m a big believer in holding the gaze of the eyes and holding the
+I'm a big believer in holding the gaze of the eyes and holding the
 finish on the one-hander, like so many pros do---especially on the
 swinging volley. Federer is probably the best example of this technique.
 
 Roger achieves optimum position with his feet and then keeps his eyes on
 the impact point slightly after the ball is hit. This perfects his
 balance and helps reduce framed shots. Too frequently, players will look
-up early on a swing volley, distracted by the rival\'s movements or to
-see where their shot is going to go. That\'s a very common mistake that
+up early on a swing volley, distracted by the rival's movements or to
+see where their shot is going to go. That's a very common mistake that
 occurs due to the bold and thrilling nature of the shot.
 
 As the player is holding the gaze, he should be stretching the hitting
@@ -153,13 +147,12 @@ The combination of this pause and the holding of the eyes together help
 calm the player and organize the shot with balance and control. In
 practice, I will have all my students hold both the eyes and finish in
 an exaggerated way. In a match, they will hold the eyes and finish a
-little less than in practice---but it\'s a great habit to ingrain to
+little less than in practice---but it's a great habit to ingrain to
 improve the rhythm, accuracy and balance of the shot.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_one-hand-backhand/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_one-hand-backhand/media/image7.webp)
 
 **The back toe can be an anchor---and/or swing around to square up the
 stance.**
@@ -178,7 +171,7 @@ looking to move forward after the swing volley.
 If there is a tactical intention to move forward to finish at the net,
 some players will hit their backhand and use a classic, carioca footwork
 pattern---a backwards crossover. I like this method of moving forward
-while maintaining a fairly sideways hip position. It\'s a controlled way
+while maintaining a fairly sideways hip position. It's a controlled way
 to move forward without over-rotating.
 
 More commonly in the modern game, players will jump forwards into the
@@ -186,8 +179,7 @@ floating shot to attack the net. As in the other swing volley articles,
 there are two types of jumping styles that I teach.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_one-hand-backhand/media/image8.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_one-hand-backhand/media/image8.webp)
 
 **The more advanced back knee up jumping technique.**
 
@@ -208,7 +200,7 @@ ground to the net with this method.
 
 The more difficult method of jumping to attack the ball out of the air
 is the knee up technique. Shapovalov has made this shot look easy, but
-it\'s very hard to time and learn. In this method, the player jumps only
+it's very hard to time and learn. In this method, the player jumps only
 off the front leg while lifting up the back knee as a counterbalance and
 counterweight---to provide control during hip and trunk rotation in the
 shot.
@@ -221,8 +213,7 @@ version.
 **Tactical Priorities**
 
 ![A person playing tennis Description automatically
-generated](media_one-hand-backhand/media/image9.jpg){width="2.8645833333333335in"
-height="3.0in"}
+generated](media_one-hand-backhand/media/image9.jpg)
 
 **You want air superiority - the ability to punish high balls.**
 
@@ -241,12 +232,12 @@ players.
 
 Federer understands this principle more than any other one-handed pro.
 He is very adept at sensing when he can take time away, and he is very
-quick to use the swing volley technique to steal his rival\'s time. As
+quick to use the swing volley technique to steal his rival's time. As
 mentioned earlier, Federer sometimes even hits one handed passing shots
 out of the air, all in an effort to steal time.
 
 The swing volley is a tremendous entry technique to move quickly to the
-net. It\'s perfect for transition. I like to encourage my students to
+net. It's perfect for transition. I like to encourage my students to
 look for any floating ball as a transitional opportunity to go to net.
 Once again, Roger Federer is the king of this strategy.
 
@@ -274,8 +265,7 @@ attacking players.
 
 Good luck and have fun with this gorgeous shot!
 
-![](media_one-hand-backhand/media/image10.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+![](media_one-hand-backhand/media/image10.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -292,13 +282,12 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
-![](media_one-hand-backhand/media/image11.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+![](media_one-hand-backhand/media/image11.jpeg)
 
 **The Secrets of Spanish Tennis**
 

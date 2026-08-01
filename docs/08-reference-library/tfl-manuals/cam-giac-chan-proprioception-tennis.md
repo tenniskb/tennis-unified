@@ -43,25 +43,24 @@ hiểu tất cả.
 Mô hình phân tích trong tài liệu này dựa trên ba trụ cột bổ trợ lẫn
 nhau:
 
-+--------------------------------------------------------------------+
-| **BA TRỤ CỘT CẢM GIÁC CHÂN**                                       |
-+--------------------------------------------------------------------+
-| ① DÁN (Plant Lock) --- Trạng thái khóa tức thời của bàn chân tại   |
-| thời điểm đánh bóng. Ba điểm tiếp xúc: ụ ngón cái, ụ ngón út, và   |
-| gót chạm nhẹ cùng siết xuống mặt sân cứng. Cổ chân, gối và hông    |
-| tạo thành một khối cứng trong 0,2 giây. Đây là cơ chế truyền lực   |
-| từ đất lên vợt.                                                    |
-|                                                                    |
-| ② HAPPY FEET (Elastic Readiness) --- Trạng thái đàn hồi liên tục   |
+| **BA TRỤ CỘT CẢM GIÁC CHÂN** |
+| --- |
+| ① DÁN (Plant Lock) --- Trạng thái khóa tức thời của bàn chân tại |
+| thời điểm đánh bóng. Ba điểm tiếp xúc: ụ ngón cái, ụ ngón út, và |
+| gót chạm nhẹ cùng siết xuống mặt sân cứng. Cổ chân, gối và hông |
+| tạo thành một khối cứng trong 0,2 giây. Đây là cơ chế truyền lực |
+| từ đất lên vợt. |
+|  |
+| ② HAPPY FEET (Elastic Readiness) --- Trạng thái đàn hồi liên tục |
 | giữa các cú đánh. Chân không bao giờ đứng phẳng, luôn nhún nhẹ 1-2 |
-| cm trên mũi chân, gót lơ lửng. Đây là điều kiện tiên quyết để DÁN  |
-| xảy ra đúng lúc và đúng chỗ.                                       |
-|                                                                    |
-| ③ OUTSIDE LEG BRIDGE (Cầu Chân Ngoài) --- Cơ chế chân ngoài vươn   |
-| ra không để với bóng mà để xây một trụ xiên. Vươn ra, đặt chếch    |
+| cm trên mũi chân, gót lơ lửng. Đây là điều kiện tiên quyết để DÁN |
+| xảy ra đúng lúc và đúng chỗ. |
+|  |
+| ③ OUTSIDE LEG BRIDGE (Cầu Chân Ngoài) --- Cơ chế chân ngoài vươn |
+| ra không để với bóng mà để xây một trụ xiên. Vươn ra, đặt chếch |
 | 30-45 độ, vặn vào trong như vặn vít. Cầu này phanh đà ngang và cho |
-| phép đẩy ngược về trung tâm.                                       |
-+--------------------------------------------------------------------+
+| phép đẩy ngược về trung tâm. |
+
 
 **1.3 Tại sao đây là vấn đề thần kinh học?**
 
@@ -78,13 +77,13 @@ giác trong bàn chân, cổ chân, và cơ đùi gửi hàng trăm tín hiệu 
 lên não. Chất lượng footwork phụ thuộc vào chất lượng của vòng phản hồi
 thần kinh này.
 
-+---+:-----------------------------------------------------------------+
-|   | *Footwork không phải là chạy nhanh. Footwork là não bộ xử lý     |
-|   | thông tin từ bàn chân và đưa ra lệnh chính xác trong thời gian   |
-|   | cực ngắn.*                                                       |
-|   |                                                                  |
-|   | **--- Nguyên tắc Nền tảng**                                      |
-+---+------------------------------------------------------------------+
+|  | *Footwork không phải là chạy nhanh. Footwork là não bộ xử lý |
+| --- | --- |
+|  | thông tin từ bàn chân và đưa ra lệnh chính xác trong thời gian |
+|  | cực ngắn.* |
+|  |  |
+|  | **--- Nguyên tắc Nền tảng** |
+
 
 **1.4 Cách sử dụng tài liệu này**
 
@@ -112,25 +111,24 @@ tự vì các khái niệm xây dựng lên nhau.
 Bàn chân con người gồm 26 xương, 33 khớp và hơn 100 cơ, gân, dây chằng.
 Trong tennis, ta quan tâm đặc biệt đến ba vùng chức năng:
 
-+--------------------------------------------------------------------+
-| **BA VÙNG CHỨC NĂNG CỦA BÀN CHÂN TRONG TENNIS**                    |
-+--------------------------------------------------------------------+
-| 1\. VÙNG TRƯỚC (Forefoot) --- Bao gồm 5 xương bàn ngón             |
-| (metatarsals) và 14 đốt ngón. Đây là vùng tiếp xúc chính khi chạy  |
-| và split step. \"Ụ ngón cái\" (ball of big toe) và \"ụ ngón út\"   |
-| (ball of little toe) --- hai trong ba điểm tiếp xúc chủ động ---   |
-| nằm ở vùng này.                                                    |
-|                                                                    |
-| 2\. VÙNG GIỮA (Midfoot) --- Bao gồm xương thuyền, xương hộp và ba  |
+| **BA VÙNG CHỨC NĂNG CỦA BÀN CHÂN TRONG TENNIS** |
+| --- |
+| 1\. VÙNG TRƯỚC (Forefoot) --- Bao gồm 5 xương bàn ngón |
+| (metatarsals) và 14 đốt ngón. Đây là vùng tiếp xúc chính khi chạy |
+| và split step. \"Ụ ngón cái\" (ball of big toe) và \"ụ ngón út\" |
+| (ball of little toe) --- hai trong ba điểm tiếp xúc chủ động --- |
+| nằm ở vùng này. |
+|  |
+| 2\. VÙNG GIỮA (Midfoot) --- Bao gồm xương thuyền, xương hộp và ba |
 | xương chêm. Tạo thành vòm dọc của bàn chân. Khi bàn chân \"vặn vào |
 | trong\" (supination), vùng này nâng lên, tạo thêm độ cứng cho toàn |
-| bàn chân --- đây chính là cơ chế tạo ra cảm giác \"dán\".          |
-|                                                                    |
+| bàn chân --- đây chính là cơ chế tạo ra cảm giác \"dán\". |
+|  |
 | 3\. VÙNG SAU (Rearfoot) --- Bao gồm xương gót (calcaneus) và xương |
-| sên (talus). Gót chân là điểm tiếp xúc thứ ba trong mẫu ba điểm.   |
-| Trong tennis sân cứng, gót chỉ chạm hờ --- không bao giờ là điểm   |
-| tiếp xúc đầu tiên khi di chuyển.                                   |
-+--------------------------------------------------------------------+
+| sên (talus). Gót chân là điểm tiếp xúc thứ ba trong mẫu ba điểm. |
+| Trong tennis sân cứng, gót chỉ chạm hờ --- không bao giờ là điểm |
+| tiếp xúc đầu tiên khi di chuyển. |
+
 
 **2.2 Ba điểm tiếp xúc chủ động --- Tam giác ổn định**
 
@@ -185,23 +183,22 @@ Khớp cổ chân (talocrural joint) cho phép gập mu chân (dorsiflexion) và
 gập lòng bàn chân (plantarflexion). Trong tennis footwork, hai chuyển
 động này có vai trò khác nhau:
 
-+--------------------------------------------------------------------+
-| **CHỨC NĂNG KHỚP CỔ CHÂN TRONG FOOTWORK**                          |
-+--------------------------------------------------------------------+
-| DORSIFLEXION (Gập mu chân --- mũi chân lên): Diễn ra khi gót chạm  |
-| đất và khi đứng dồn trọng lượng. Trong split step, mức             |
-| dorsiflexion khoảng 15-20 độ. Thiếu dorsiflexion là nguyên nhân    |
-| phổ biến làm vận động viên tiếp đất bằng gót thay vì mũi chân.     |
-|                                                                    |
+| **CHỨC NĂNG KHỚP CỔ CHÂN TRONG FOOTWORK** |
+| --- |
+| DORSIFLEXION (Gập mu chân --- mũi chân lên): Diễn ra khi gót chạm |
+| đất và khi đứng dồn trọng lượng. Trong split step, mức |
+| dorsiflexion khoảng 15-20 độ. Thiếu dorsiflexion là nguyên nhân |
+| phổ biến làm vận động viên tiếp đất bằng gót thay vì mũi chân. |
+|  |
 | PLANTARFLEXION (Gập lòng bàn chân --- mũi chân xuống): Diễn ra khi |
-| đẩy bật và khi tiếp đất bằng mũi chân. Trong happy feet và split   |
-| step đúng kỹ thuật, cổ chân luôn ở tư thế plantarflexion nhẹ, giữ  |
-| cơ bắp chân ở trạng thái căng sẵn.                                 |
-|                                                                    |
-| INVERSION/EVERSION (Xoay trong/xoay ngoài): Quan trọng nhất trong  |
-| cơ chế \"vặn\" khi plant. Inversion nhẹ (xoay cạnh trong bàn chân  |
-| xuống) chính là chuyển động \"vặn vít\" tạo ra DÁN.                |
-+--------------------------------------------------------------------+
+| đẩy bật và khi tiếp đất bằng mũi chân. Trong happy feet và split |
+| step đúng kỹ thuật, cổ chân luôn ở tư thế plantarflexion nhẹ, giữ |
+| cơ bắp chân ở trạng thái căng sẵn. |
+|  |
+| INVERSION/EVERSION (Xoay trong/xoay ngoài): Quan trọng nhất trong |
+| cơ chế \"vặn\" khi plant. Inversion nhẹ (xoay cạnh trong bàn chân |
+| xuống) chính là chuyển động \"vặn vít\" tạo ra DÁN. |
+
 
 **2.5 Cơ bắp chủ chốt và vai trò của từng cơ**
 
@@ -256,19 +253,19 @@ bàn chân thành một đòn bẩy cứng để đẩy. Đây là cơ chế gi�
 bước plant cuối --- với ngón chân hơi gập lên và mũi chân chạm sân ---
 tạo ra độ cứng tốt hơn là đặt bàn chân phẳng.
 
-+--------------------------------------------------------------------+
-| **ĐIỂM THEN CHỐT**                                                 |
-|                                                                    |
+| **ĐIỂM THEN CHỐT** |
+| --- |
+|  |
 | - Bàn chân có 26 xương và 33 khớp --- không phải một khối đơn giản |
-|                                                                    |
-| - Ba điểm tiếp xúc chủ động: ụ ngón cái, ụ ngón út, gót nhẹ        |
-|                                                                    |
-| - Vòm bàn chân là lò xo sinh học --- supination = cứng = DÁN       |
-|                                                                    |
-| - Gân Achilles tích trữ và giải phóng năng lượng đàn hồi           |
-|                                                                    |
-| - Cơ mông nhỡ là động cơ chính của cú \"vặn\" khi plant            |
-+--------------------------------------------------------------------+
+|  |
+| - Ba điểm tiếp xúc chủ động: ụ ngón cái, ụ ngón út, gót nhẹ |
+|  |
+| - Vòm bàn chân là lò xo sinh học --- supination = cứng = DÁN |
+|  |
+| - Gân Achilles tích trữ và giải phóng năng lượng đàn hồi |
+|  |
+| - Cơ mông nhỡ là động cơ chính của cú \"vặn\" khi plant |
+
 
 **CHƯƠNG 3: THẦN KINH HỌC --- PROPRIOCEPTION VÀ CẢM GIÁC BÀN CHÂN**
 
@@ -289,34 +286,33 @@ nhìn xuống chân.
 
 Có bốn loại cơ quan thụ cảm chính liên quan đến footwork:
 
-+--------------------------------------------------------------------+
-| **BỐN LOẠI CƠ QUAN THỤ CẢM TRONG FOOTWORK**                        |
-+--------------------------------------------------------------------+
+| **BỐN LOẠI CƠ QUAN THỤ CẢM TRONG FOOTWORK** |
+| --- |
 | 1\. MUSCLE SPINDLES (Thoi cơ) --- Nằm trong bụng cơ, song song với |
-| sợi cơ. Phát hiện chiều dài và tốc độ thay đổi chiều dài của cơ.   |
-| Khi bạn tiếp đất sau split step và cơ bắp chân bị kéo dài đột      |
+| sợi cơ. Phát hiện chiều dài và tốc độ thay đổi chiều dài của cơ. |
+| Khi bạn tiếp đất sau split step và cơ bắp chân bị kéo dài đột |
 | ngột, muscle spindles kích hoạt phản xạ co rút (stretch reflex) để |
-| bảo vệ khớp và tạo ra đáp ứng đàn hồi.                             |
-|                                                                    |
-| 2\. GOLGI TENDON ORGANS (Cơ quan gân Golgi) --- Nằm tại điểm nối   |
-| cơ-gân. Phát hiện lực căng trong gân. Trong DÁN, khi cơ mông nhỡ   |
-| co đẳng trường để giữ hông không sụp, các cơ quan Golgi giám sát   |
-| lực và ngăn co cơ quá mức. Chúng cũng báo hiệu thời điểm an toàn   |
-| để bật ngược.                                                      |
-|                                                                    |
-| 3\. MECHANORECEPTORS DA (Thụ cảm cơ học da) --- Nằm dưới da bàn    |
-| chân, đặc biệt dày đặc ở lòng bàn chân. Bốn loại chính:            |
-| Meissner\'s (áp lực nhẹ), Pacinian (rung động), Merkel\'s (áp lực  |
-| kéo dài), Ruffini (kéo căng da). Đây là nguồn thông tin trực tiếp  |
-| nhất về chất lượng tiếp xúc với sân --- loại sân, độ ma sát, điểm  |
-| áp lực. Cảm giác \"kít\" ngắn trên hard court chính là âm thanh    |
-| xác nhận thông tin từ nhóm này.                                    |
-|                                                                    |
-| 4\. JOINT RECEPTORS (Thụ cảm khớp) --- Nằm trong bao khớp và dây   |
-| chằng. Phát hiện góc, tốc độ và gia tốc của khớp. Đặc biệt quan    |
-| trọng tại khớp cổ chân và khớp gối trong footwork. Khi cổ chân ở   |
-| góc tối ưu cho DÁN, joint receptors xác nhận điều này với não.     |
-+--------------------------------------------------------------------+
+| bảo vệ khớp và tạo ra đáp ứng đàn hồi. |
+|  |
+| 2\. GOLGI TENDON ORGANS (Cơ quan gân Golgi) --- Nằm tại điểm nối |
+| cơ-gân. Phát hiện lực căng trong gân. Trong DÁN, khi cơ mông nhỡ |
+| co đẳng trường để giữ hông không sụp, các cơ quan Golgi giám sát |
+| lực và ngăn co cơ quá mức. Chúng cũng báo hiệu thời điểm an toàn |
+| để bật ngược. |
+|  |
+| 3\. MECHANORECEPTORS DA (Thụ cảm cơ học da) --- Nằm dưới da bàn |
+| chân, đặc biệt dày đặc ở lòng bàn chân. Bốn loại chính: |
+| Meissner's (áp lực nhẹ), Pacinian (rung động), Merkel's (áp lực |
+| kéo dài), Ruffini (kéo căng da). Đây là nguồn thông tin trực tiếp |
+| nhất về chất lượng tiếp xúc với sân --- loại sân, độ ma sát, điểm |
+| áp lực. Cảm giác \"kít\" ngắn trên hard court chính là âm thanh |
+| xác nhận thông tin từ nhóm này. |
+|  |
+| 4\. JOINT RECEPTORS (Thụ cảm khớp) --- Nằm trong bao khớp và dây |
+| chằng. Phát hiện góc, tốc độ và gia tốc của khớp. Đặc biệt quan |
+| trọng tại khớp cổ chân và khớp gối trong footwork. Khi cổ chân ở |
+| góc tối ưu cho DÁN, joint receptors xác nhận điều này với não. |
+
 
 **3.3 Đường truyền thần kinh --- Từ bàn chân đến não và ngược lại**
 
@@ -397,26 +393,25 @@ Hệ thống thần kinh không cố định. Neuroplasticity (tính dẻo dai t
 kinh) là khả năng của não bộ thay đổi cấu trúc và chức năng dựa trên
 kinh nghiệm. Điều này có nghĩa thực tế là:
 
-+--------------------------------------------------------------------+
-| **NEUROPLASTICITY TRONG FOOTWORK TENNIS**                          |
-+--------------------------------------------------------------------+
-| Với người mới tập: Proprioception bàn chân yếu, tín hiệu thưa và   |
+| **NEUROPLASTICITY TRONG FOOTWORK TENNIS** |
+| --- |
+| Với người mới tập: Proprioception bàn chân yếu, tín hiệu thưa và |
 | không chính xác. Footwork cần ý thức hoàn toàn --- họ phải nghĩ về |
-| từng bước.                                                         |
-|                                                                    |
-| Sau 6-12 tháng tập đúng: Mật độ thụ cảm bản thể tăng. Myelin hóa   |
+| từng bước. |
+|  |
+| Sau 6-12 tháng tập đúng: Mật độ thụ cảm bản thể tăng. Myelin hóa |
 | (quá trình bọc bao myelin quanh sợi thần kinh) tăng tốc truyền tín |
-| hiệu. Các mẫu footwork bắt đầu chuyển sang tiểu não.               |
-|                                                                    |
+| hiệu. Các mẫu footwork bắt đầu chuyển sang tiểu não. |
+|  |
 | Vận động viên chuyên nghiệp: Nghiên cứu bằng fMRI cho thấy vùng vỏ |
 | não cảm giác vận động (sensorimotor cortex) ở vận động viên tennis |
 | chuyên nghiệp có đại diện không cân xứng --- bàn chân thuận có đại |
-| diện lớn hơn đáng kể so với người không tập luyện.                 |
-|                                                                    |
-| Nguyên tắc thực hành: Chất lượng proprioception chỉ tăng khi bạn   |
-| thực hành với CHẤT LƯỢNG --- tập đúng, chú ý, phản hồi. Tập sai    |
-| 10.000 giờ chỉ giúp tiểu não lưu trữ mẫu sai tốt hơn.              |
-+--------------------------------------------------------------------+
+| diện lớn hơn đáng kể so với người không tập luyện. |
+|  |
+| Nguyên tắc thực hành: Chất lượng proprioception chỉ tăng khi bạn |
+| thực hành với CHẤT LƯỢNG --- tập đúng, chú ý, phản hồi. Tập sai |
+| 10.000 giờ chỉ giúp tiểu não lưu trữ mẫu sai tốt hơn. |
+
 
 **3.6 Vai trò của thính giác và thị giác trong proprioception bàn chân**
 
@@ -438,13 +433,13 @@ tích hợp thông tin từ nhiều nguồn:
   thăng bằng --- đặc biệt quan trọng trong những pha chuyển hướng đột
   ngột.
 
-+---+:-----------------------------------------------------------------+
-|   | *Cảm giác \"dán\" không đến từ chân. Nó đến từ não --- khi não   |
-|   | nhận đủ tín hiệu chất lượng cao từ bàn chân, cổ chân, hông, mắt  |
-|   | và tai, và xác nhận: \"bây giờ chúng ta an toàn để đánh bóng.\"* |
-|   |                                                                  |
-|   | **--- Nguyên tắc tích hợp đa giác quan**                         |
-+---+------------------------------------------------------------------+
+|  | *Cảm giác \"dán\" không đến từ chân. Nó đến từ não --- khi não |
+| --- | --- |
+|  | nhận đủ tín hiệu chất lượng cao từ bàn chân, cổ chân, hông, mắt |
+|  | và tai, và xác nhận: \"bây giờ chúng ta an toàn để đánh bóng.\"* |
+|  |  |
+|  | **--- Nguyên tắc tích hợp đa giác quan** |
+
 
 **3.7 Nội thụ cảm vs. Ngoại thụ cảm trong footwork**
 
@@ -499,33 +494,32 @@ Chuỗi động học (kinetic chain) là nguyên lý nền tảng của tất c
 đánh tennis. Lực không bắt đầu từ tay hay vai --- nó bắt đầu từ bàn chân
 đẩy xuống sân và phản lực Newton đưa lên cơ thể:
 
-+--------------------------------------------------------------------+
-| **CHUỖI ĐỘNG HỌC TENNIS --- TỪ ĐẤT LÊN VỢT**                       |
-+--------------------------------------------------------------------+
-| ① BÀN CHÂN → Tiếp xúc sân. Áp lực ba điểm. Vặn xuống tạo lực       |
-| ngang.                                                             |
-|                                                                    |
+| **CHUỖI ĐỘNG HỌC TENNIS --- TỪ ĐẤT LÊN VỢT** |
+| --- |
+| ① BÀN CHÂN → Tiếp xúc sân. Áp lực ba điểm. Vặn xuống tạo lực |
+| ngang. |
+|  |
 | ② CỔ CHÂN → Khóa cổ chân ở 15-20° dorsiflexion. Ngăn năng lượng rò |
-| rỉ xuống.                                                          |
-|                                                                    |
-| ③ GỐI → Gập 20-30°, vai trò giảm xóc và đòn bẩy khuếch đại lực.    |
-|                                                                    |
-| ④ HÔNG → Xoay hông (hip rotation) tạo ra phần lớn vận tốc cú đánh  |
-| (40-50%).                                                          |
-|                                                                    |
-| ⑤ THÂN → Xoay thân trên (trunk rotation), truyền lực từ dưới lên.  |
-|                                                                    |
-| ⑥ VAI → Khuếch đại thêm, vai trò thứ yếu so với hông.              |
-|                                                                    |
-| ⑦ KHUỶU TAY → Điều chỉnh góc, hấp thu rung động.                   |
-|                                                                    |
-| ⑧ CỔ TAY → Snap cuối cùng, thêm topspin.                           |
-|                                                                    |
-| ⑨ VỢT → Điểm tiếp xúc bóng.                                        |
-|                                                                    |
-| → Nếu DÁN tốt: \~65-70% lực đến từ chuỗi dưới (bàn chân → hông).   |
-| Nếu DÁN kém: \<40%.                                                |
-+--------------------------------------------------------------------+
+| rỉ xuống. |
+|  |
+| ③ GỐI → Gập 20-30°, vai trò giảm xóc và đòn bẩy khuếch đại lực. |
+|  |
+| ④ HÔNG → Xoay hông (hip rotation) tạo ra phần lớn vận tốc cú đánh |
+| (40-50%). |
+|  |
+| ⑤ THÂN → Xoay thân trên (trunk rotation), truyền lực từ dưới lên. |
+|  |
+| ⑥ VAI → Khuếch đại thêm, vai trò thứ yếu so với hông. |
+|  |
+| ⑦ KHUỶU TAY → Điều chỉnh góc, hấp thu rung động. |
+|  |
+| ⑧ CỔ TAY → Snap cuối cùng, thêm topspin. |
+|  |
+| ⑨ VỢT → Điểm tiếp xúc bóng. |
+|  |
+| → Nếu DÁN tốt: \~65-70% lực đến từ chuỗi dưới (bàn chân → hông). |
+| Nếu DÁN kém: \<40%. |
+
 
 **4.3 Góc tiếp xúc bàn chân --- Phân tích ba chiều**
 
@@ -595,21 +589,21 @@ Dữ liệu này cho thấy vận động viên chuyên nghiệp không chỉ nh
 còn duy trì DÁN lâu hơn và chính xác hơn --- điều này phản ánh chất
 lượng motor program trong tiểu não của họ.
 
-+--------------------------------------------------------------------+
-| **ĐIỂM THEN CHỐT**                                                 |
-|                                                                    |
-| - Bước plant forehand chịu 2.5-3.5x trọng lượng cơ thể             |
-|                                                                    |
-| - Kinetic chain: 65-70% lực cú đánh đến từ chuỗi dưới nếu DÁN tốt  |
-|                                                                    |
-| - Góc tối ưu: 30-45° so với baseline, 15-25° dorsiflexion, 0-5°    |
-|   inversion                                                        |
-|                                                                    |
-| - Gối gập 120-140° tạo đòn bẩy tối ưu cho chuỗi động học           |
-|                                                                    |
-| - Vận động viên pro duy trì DÁN 180-220ms với 68-72% áp lực vùng   |
-|   trước                                                            |
-+--------------------------------------------------------------------+
+| **ĐIỂM THEN CHỐT** |
+| --- |
+|  |
+| - Bước plant forehand chịu 2.5-3.5x trọng lượng cơ thể |
+|  |
+| - Kinetic chain: 65-70% lực cú đánh đến từ chuỗi dưới nếu DÁN tốt |
+|  |
+| - Góc tối ưu: 30-45° so với baseline, 15-25° dorsiflexion, 0-5° |
+| inversion |
+|  |
+| - Gối gập 120-140° tạo đòn bẩy tối ưu cho chuỗi động học |
+|  |
+| - Vận động viên pro duy trì DÁN 180-220ms với 68-72% áp lực vùng |
+| trước |
+
 
 **CHƯƠNG 5: KỸ THUẬT CHẠM CHÂN --- PHÂN TÍCH TỪNG MICRO-GIAI ĐOẠN**
 
@@ -618,25 +612,24 @@ lượng motor program trong tiểu não của họ.
 Có ba mẫu cơ bản của cách bàn chân chạm sân, mỗi loại tạo ra chuỗi phản
 ứng khác nhau:
 
-+--------------------------------------------------------------------+
-| **BA KIỂU CHẠM CHÂN**                                              |
-+--------------------------------------------------------------------+
+| **BA KIỂU CHẠM CHÂN** |
+| --- |
 | ① REARFOOT STRIKE (Gót chạm trước): Gót chạm đất trước, áp lực dồn |
-| về sau. Cổ chân ở plantarflexion tối thiểu. Lực tác động có hai    |
-| đỉnh: đỉnh thứ nhất khi gót chạm (xung lực), đỉnh thứ hai khi đẩy  |
+| về sau. Cổ chân ở plantarflexion tối thiểu. Lực tác động có hai |
+| đỉnh: đỉnh thứ nhất khi gót chạm (xung lực), đỉnh thứ hai khi đẩy |
 | bật. Trong tennis: ĐÂY LÀ MẪU SAI. Tạo ra \"phanh\" mỗi bước, khóa |
-| đầu gối, không thể vặn hông hiệu quả.                              |
-|                                                                    |
-| ② MIDFOOT STRIKE (Bàn chân phẳng): Cả lòng bàn chân chạm đất gần   |
-| như đồng thời. Áp lực phân bố đều hơn. Tốt hơn rearfoot nhưng vẫn  |
-| không tối ưu cho tennis vì thiếu cơ chế đàn hồi.                   |
-|                                                                    |
-| ③ FOREFOOT STRIKE (Mũi chân/Ụ ngón chân): Ụ ngón chân (ball of     |
+| đầu gối, không thể vặn hông hiệu quả. |
+|  |
+| ② MIDFOOT STRIKE (Bàn chân phẳng): Cả lòng bàn chân chạm đất gần |
+| như đồng thời. Áp lực phân bố đều hơn. Tốt hơn rearfoot nhưng vẫn |
+| không tối ưu cho tennis vì thiếu cơ chế đàn hồi. |
+|  |
+| ③ FOREFOOT STRIKE (Mũi chân/Ụ ngón chân): Ụ ngón chân (ball of |
 | foot) chạm đất trước. Cổ chân ở plantarflexion. Gân Achilles và cơ |
-| bắp chân pre-loaded. Đây là MẪU ĐÚNG trong tennis. Cho phép: (a)   |
-| Phản xạ đàn hồi từ gân Achilles, (b) Kiểm soát cổ chân tốt hơn,    |
-| (c) Chuyển đổi nhanh sang DÁN, (d) Đẩy bật hiệu quả hơn.           |
-+--------------------------------------------------------------------+
+| bắp chân pre-loaded. Đây là MẪU ĐÚNG trong tennis. Cho phép: (a) |
+| Phản xạ đàn hồi từ gân Achilles, (b) Kiểm soát cổ chân tốt hơn, |
+| (c) Chuyển đổi nhanh sang DÁN, (d) Đẩy bật hiệu quả hơn. |
+
 
 **5.2 Phân tích microsecond --- Chuỗi sự kiện khi mũi chân chạm sân**
 
@@ -827,29 +820,28 @@ trọng không kém. Chất lượng nhấc chân quyết định:
 
 **6.2 Chuỗi nhấc chân sau DÁN --- Bốn giai đoạn**
 
-+--------------------------------------------------------------------+
-| **BỐN GIAI ĐOẠN NHẤC CHÂN SAU DÁN**                                |
-+--------------------------------------------------------------------+
-| ① GIẢI PHÓNG ÁP LỰC (0-50ms sau đánh bóng): Áp lực ba điểm được    |
-| giải phóng dần dần. Không được nhấc chân đột ngột --- phải         |
-| \"tiễn\" lực đi trước. Cơ mông nhỡ bắt đầu thả lỏng, cổ chân       |
-| chuyển từ inversion về trung tính.                                 |
-|                                                                    |
-| ② ĐẨY BẬT (50-150ms): Cổ chân plantarflexion nhanh --- gót nhấc    |
-| lên đầu tiên, tiếp theo là ụ ngón út, cuối cùng là ụ ngón cái đẩy  |
-| mạnh nhất (đây là \"điểm đẩy\" chính). Cơ bắp chân                 |
-| (gastrocnemius + soleus) là động cơ đẩy. Lực đẩy: 2.5-3.5x trọng   |
-| lượng cơ thể theo hướng ngược với DÁN.                             |
-|                                                                    |
-| ③ NHẤC CHÂN KHỎI SÂN (150-250ms): Gót lên trước, rồi toàn bộ bàn   |
+| **BỐN GIAI ĐOẠN NHẤC CHÂN SAU DÁN** |
+| --- |
+| ① GIẢI PHÓNG ÁP LỰC (0-50ms sau đánh bóng): Áp lực ba điểm được |
+| giải phóng dần dần. Không được nhấc chân đột ngột --- phải |
+| \"tiễn\" lực đi trước. Cơ mông nhỡ bắt đầu thả lỏng, cổ chân |
+| chuyển từ inversion về trung tính. |
+|  |
+| ② ĐẨY BẬT (50-150ms): Cổ chân plantarflexion nhanh --- gót nhấc |
+| lên đầu tiên, tiếp theo là ụ ngón út, cuối cùng là ụ ngón cái đẩy |
+| mạnh nhất (đây là \"điểm đẩy\" chính). Cơ bắp chân |
+| (gastrocnemius + soleus) là động cơ đẩy. Lực đẩy: 2.5-3.5x trọng |
+| lượng cơ thể theo hướng ngược với DÁN. |
+|  |
+| ③ NHẤC CHÂN KHỎI SÂN (150-250ms): Gót lên trước, rồi toàn bộ bàn |
 | chân rời sân. Cơ gập hông (hip flexors) bắt đầu kéo đùi lên. Không |
-| kéo lê chân --- đây là lỗi làm chậm hồi vị nhiều nhất. Chân được   |
-| nhấc đủ để di chuyển không cản sân.                                |
-|                                                                    |
-| ④ RESET VỊ TRÍ (250ms+): Chân được đưa về vị trí sẵn sàng --- mũi  |
+| kéo lê chân --- đây là lỗi làm chậm hồi vị nhiều nhất. Chân được |
+| nhấc đủ để di chuyển không cản sân. |
+|  |
+| ④ RESET VỊ TRÍ (250ms+): Chân được đưa về vị trí sẵn sàng --- mũi |
 | chân hơi chỉ xuống sân (nhẹ plantarflexion), sẵn sàng cho tiếp đất |
-| tiếp theo. Đây là vị trí \"trung tính\" của happy feet.            |
-+--------------------------------------------------------------------+
+| tiếp theo. Đây là vị trí \"trung tính\" của happy feet. |
+
 
 **6.3 Chi tiết về \"đẩy từ ụ ngón cái\" --- Điểm bật quan trọng nhất**
 
@@ -982,21 +974,21 @@ chân.
                                       kéo lê            nếu kéo lê
   ----------------- ----------------- ----------------- -----------------
 
-+--------------------------------------------------------------------+
-| **ĐIỂM THEN CHỐT**                                                 |
-|                                                                    |
-| - Nhấc chân: Giải phóng áp lực → Đẩy bật → Nhấc → Reset (4 giai    |
-|   đoạn)                                                            |
-|                                                                    |
-| - Gót nhấc trước, ụ ngón cái đẩy sau --- trình tự heel off → toe   |
-|   off                                                              |
-|                                                                    |
-| - Happy feet: 2-4 chu kỳ/giây, gót không chạm hẳn sân              |
-|                                                                    |
-| - Hồi vị đúng: đẩy ngược từ điểm DÁN, không xoay vai trước         |
-|                                                                    |
-| - Mỗi mặt sân đòi hỏi điều chỉnh nhấc chân khác nhau               |
-+--------------------------------------------------------------------+
+| **ĐIỂM THEN CHỐT** |
+| --- |
+|  |
+| - Nhấc chân: Giải phóng áp lực → Đẩy bật → Nhấc → Reset (4 giai |
+| đoạn) |
+|  |
+| - Gót nhấc trước, ụ ngón cái đẩy sau --- trình tự heel off → toe |
+| off |
+|  |
+| - Happy feet: 2-4 chu kỳ/giây, gót không chạm hẳn sân |
+|  |
+| - Hồi vị đúng: đẩy ngược từ điểm DÁN, không xoay vai trước |
+|  |
+| - Mỗi mặt sân đòi hỏi điều chỉnh nhấc chân khác nhau |
+
 
 **CHƯƠNG 7: SPLIT STEP --- TRÁI TIM CỦA MỌI FOOTWORK**
 
@@ -1011,25 +1003,24 @@ hiểu tại sao split step của Djokovic khác split step của người amate
 
 Split step lý tưởng có ba giai đoạn chính:
 
-+--------------------------------------------------------------------+
-| **BA GIAI ĐOẠN SPLIT STEP**                                        |
-+--------------------------------------------------------------------+
+| **BA GIAI ĐOẠN SPLIT STEP** |
+| --- |
 | ① BẬT LÊN (Take-off): Nhấc nhẹ, không phải nhảy mạnh. Hai chân đẩy |
-| đồng thời từ trạng thái happy feet --- do đó happy feet là điều    |
-| kiện tiên quyết. Chiều cao: 2-5cm (Djokovic) đến 4-8cm (người      |
-| mới). Thời gian không khí: 80-130ms. Trong thời gian này, mắt đọc  |
-| bóng, não bắt đầu dự đoán hướng.                                   |
-|                                                                    |
-| ② TRÊN KHÔNG (Flight phase): Hình chữ V nhẹ với hai chân mở rộng   |
-| hơn vai một chút. Gối gập sẵn. Trọng tâm bắt đầu dịch về hướng dự  |
-| đoán. Toàn bộ cơ thể ở trạng thái \"pre-loaded\" --- gân Achilles  |
-| và cơ bắp chân đang chuẩn bị hấp thu tác động.                     |
-|                                                                    |
-| ③ TIẾP ĐẤT (Landing): Đây là giai đoạn quan trọng nhất. Mũi chân   |
-| của CHÂN DỰ ĐOÁN chạm trước, hoặc đồng thời với chân kia. Gối gập  |
-| 120-135°. Cổ chân ở plantarflexion nhẹ. Thời gian tiếp xúc:        |
-| 120-180ms. Chuyển trực tiếp sang bước đầu tiên mà không dừng lại.  |
-+--------------------------------------------------------------------+
+| đồng thời từ trạng thái happy feet --- do đó happy feet là điều |
+| kiện tiên quyết. Chiều cao: 2-5cm (Djokovic) đến 4-8cm (người |
+| mới). Thời gian không khí: 80-130ms. Trong thời gian này, mắt đọc |
+| bóng, não bắt đầu dự đoán hướng. |
+|  |
+| ② TRÊN KHÔNG (Flight phase): Hình chữ V nhẹ với hai chân mở rộng |
+| hơn vai một chút. Gối gập sẵn. Trọng tâm bắt đầu dịch về hướng dự |
+| đoán. Toàn bộ cơ thể ở trạng thái \"pre-loaded\" --- gân Achilles |
+| và cơ bắp chân đang chuẩn bị hấp thu tác động. |
+|  |
+| ③ TIẾP ĐẤT (Landing): Đây là giai đoạn quan trọng nhất. Mũi chân |
+| của CHÂN DỰ ĐOÁN chạm trước, hoặc đồng thời với chân kia. Gối gập |
+| 120-135°. Cổ chân ở plantarflexion nhẹ. Thời gian tiếp xúc: |
+| 120-180ms. Chuyển trực tiếp sang bước đầu tiên mà không dừng lại. |
+
 
 **7.3 Timing --- Sai 0,1 giây là mất 0,5 giây**
 
@@ -1170,26 +1161,25 @@ trong (knee valgus) hay ra ngoài (knee varus) quá nhiều. Lý tưởng là g�
 theo ngón chân thứ hai. Đùi nghiêng: 20-35° so với mặt đất khi gối gập
 đủ sâu.
 
-+--------------------------------------------------------------------+
-| **KIỂM TRA CHẤT LƯỢNG CẦU CHÂN NGOÀI**                             |
-+--------------------------------------------------------------------+
-| Test 1 --- Cân bằng một chân: Đứng trên chân ngoài, nhấc chân      |
-| trong. Nếu cây cầu tốt, bạn giữ được ít nhất 2 giây mà không lắc   |
-| lư. Nếu không --- cơ mông nhỡ yếu.                                 |
-|                                                                    |
-| Test 2 --- Vặn vít: Từ tư thế đứng trên chân ngoài, thử \"vặn\"    |
+| **KIỂM TRA CHẤT LƯỢNG CẦU CHÂN NGOÀI** |
+| --- |
+| Test 1 --- Cân bằng một chân: Đứng trên chân ngoài, nhấc chân |
+| trong. Nếu cây cầu tốt, bạn giữ được ít nhất 2 giây mà không lắc |
+| lư. Nếu không --- cơ mông nhỡ yếu. |
+|  |
+| Test 2 --- Vặn vít: Từ tư thế đứng trên chân ngoài, thử \"vặn\" |
 | bàn chân vào sân (inversion nhẹ, xoay ngoài hông). Bạn có cảm thấy |
-| cơ mông ngoài và cơ đùi ngoài căng lên không? Nếu không --- bạn    |
-| chưa tạo được cầu thực sự.                                         |
-|                                                                    |
+| cơ mông ngoài và cơ đùi ngoài căng lên không? Nếu không --- bạn |
+| chưa tạo được cầu thực sự. |
+|  |
 | Test 3 --- Đẩy ngược: Từ tư thế DÁN với chân ngoài, thử đẩy nhẹ về |
 | phía trung tâm. Chân có trụ vững không? Nếu chân \"trượt\" khi đẩy |
-| --- góc đặt chân sai.                                              |
-|                                                                    |
-| Test 4 --- Nghe âm thanh: Trên hard court, bước plant đúng tạo ra  |
-| tiếng \"kít\" ngắn khi cầu khóa lại. Bước plant sai (trượt bàn     |
-| chân, không vặn) tạo ra tiếng \"sột\" hoặc không có âm thanh nào.  |
-+--------------------------------------------------------------------+
+| --- góc đặt chân sai. |
+|  |
+| Test 4 --- Nghe âm thanh: Trên hard court, bước plant đúng tạo ra |
+| tiếng \"kít\" ngắn khi cầu khóa lại. Bước plant sai (trượt bàn |
+| chân, không vặn) tạo ra tiếng \"sột\" hoặc không có âm thanh nào. |
+
 
 **8.4 Cơ mông nhỡ --- Động cơ chính của cầu**
 
@@ -1344,13 +1334,13 @@ lỗi thường gặp nhất ở vận động viên amateur. Hậu quả:
 Nguyên tắc: Luôn dẫn bằng chân ĐỐI DIỆN với hướng di chuyển. Sang phải →
 chân trái dẫn. Sang trái → chân phải dẫn.
 
-+---+:-----------------------------------------------------------------+
-|   | *Bước đầu tiên dẫn bởi chân sai không chỉ làm chậm bạn --- nó    |
-|   | còn quyết định bạn không thể DÁN tốt ở cuối chuỗi. Hai lỗi đó    |
-|   | gắn liền nhau.*                                                  |
-|   |                                                                  |
-|   | **--- Nguyên tắc footwork**                                      |
-+---+------------------------------------------------------------------+
+|  | *Bước đầu tiên dẫn bởi chân sai không chỉ làm chậm bạn --- nó |
+| --- | --- |
+|  | còn quyết định bạn không thể DÁN tốt ở cuối chuỗi. Hai lỗi đó |
+|  | gắn liền nhau.* |
+|  |  |
+|  | **--- Nguyên tắc footwork** |
+
 
 **CHƯƠNG 10: PHÂN TÍCH FOOTWORK PRO PLAYERS --- ALCARAZ, DJOKOVIC,
 FEDERER**
@@ -1405,28 +1395,27 @@ Bóng sang trái, tốc độ vừa phải. Alcaraz có đủ thời gian. Chu�
 Djokovic không nhất thiết nhanh nhất, nhưng footwork của ông được coi là
 hiệu quả nhất. Lý do:
 
-+--------------------------------------------------------------------+
-| **ĐẶC ĐIỂM FOOTWORK DJOKOVIC**                                     |
-+--------------------------------------------------------------------+
-| Split step thấp và chính xác: Chỉ 2-3cm, nhưng timing hoàn hảo.    |
-| Ông bắt đầu split khi đối thủ mới bắt đầu đưa vợt về sau           |
-| (anticipation split).                                              |
-|                                                                    |
-| Stutter steps liên tục: Djokovic không bao giờ dừng hẳn giữa các   |
+| **ĐẶC ĐIỂM FOOTWORK DJOKOVIC** |
+| --- |
+| Split step thấp và chính xác: Chỉ 2-3cm, nhưng timing hoàn hảo. |
+| Ông bắt đầu split khi đối thủ mới bắt đầu đưa vợt về sau |
+| (anticipation split). |
+|  |
+| Stutter steps liên tục: Djokovic không bao giờ dừng hẳn giữa các |
 | bước. Ngay cả khi đứng ở baseline, chân ông liên tục có những bước |
-| nhỏ 5-10cm.                                                        |
-|                                                                    |
+| nhỏ 5-10cm. |
+|  |
 | Kiểm soát trọng tâm tuyệt đối: Đầu của ông gần như không di chuyển |
-| lên-xuống khi chạy ngang --- cho thấy trọng tâm ổn định ở cùng độ  |
-| cao.                                                               |
-|                                                                    |
-| DÁN rất chắc: Ông DÁN lâu hơn Alcaraz (220-250ms) --- cho phép     |
-| xoay hông đầy đủ hơn và kiểm soát hướng tốt hơn.                   |
-|                                                                    |
-| Hồi vị không ngừng: Như một con con quay không bao giờ đứng yên    |
+| lên-xuống khi chạy ngang --- cho thấy trọng tâm ổn định ở cùng độ |
+| cao. |
+|  |
+| DÁN rất chắc: Ông DÁN lâu hơn Alcaraz (220-250ms) --- cho phép |
+| xoay hông đầy đủ hơn và kiểm soát hướng tốt hơn. |
+|  |
+| Hồi vị không ngừng: Như một con con quay không bao giờ đứng yên |
 | hoàn toàn --- luôn trong vòng lặp \"di chuyển → DÁN → đẩy → hồi vị |
-| → happy feet → split\".                                            |
-+--------------------------------------------------------------------+
+| → happy feet → split\". |
+
 
 **10.3 Roger Federer --- Happy feet đỉnh cao**
 
@@ -1471,22 +1460,21 @@ thiếu tốc độ --- mà là ông đang \"tìm\" vị trí tối ưu của D�
 
 Đây là bề mặt cơ bản nhất để học DÁN vì mức ma sát cao và đồng đều.
 
-+--------------------------------------------------------------------+
-| **HARD COURT --- ĐẶC ĐIỂM VÀ ĐIỀU CHỈNH**                          |
-+--------------------------------------------------------------------+
-| Hệ số ma sát: 0.55-0.65. Không trượt nếu kỹ thuật đúng.            |
-|                                                                    |
-| Tiếng âm thanh: \"kít\" ngắn = DÁN tốt. \"Sột\" hoặc im lặng =     |
-| trượt bàn chân.                                                    |
-|                                                                    |
-| Điều chỉnh chân: Góc vặn chuẩn 30-45°. Không cần giảm góc.         |
-|                                                                    |
-| Thách thức: Mặt sân cứng tạo lực tác động cao. Cơ đùi trước và cổ  |
-| chân chịu tải lớn. Cần khởi động kỹ cơ bắp chân và cơ mông.        |
-|                                                                    |
-| Istanbul buổi tối có hơi ẩm: Giảm góc vặn xuống 25-30°, thêm 1     |
-| bước stutter.                                                      |
-+--------------------------------------------------------------------+
+| **HARD COURT --- ĐẶC ĐIỂM VÀ ĐIỀU CHỈNH** |
+| --- |
+| Hệ số ma sát: 0.55-0.65. Không trượt nếu kỹ thuật đúng. |
+|  |
+| Tiếng âm thanh: \"kít\" ngắn = DÁN tốt. \"Sột\" hoặc im lặng = |
+| trượt bàn chân. |
+|  |
+| Điều chỉnh chân: Góc vặn chuẩn 30-45°. Không cần giảm góc. |
+|  |
+| Thách thức: Mặt sân cứng tạo lực tác động cao. Cơ đùi trước và cổ |
+| chân chịu tải lớn. Cần khởi động kỹ cơ bắp chân và cơ mông. |
+|  |
+| Istanbul buổi tối có hơi ẩm: Giảm góc vặn xuống 25-30°, thêm 1 |
+| bước stutter. |
+
 
 **11.2 Clay court --- Sân đất nện**
 
@@ -1546,24 +1534,23 @@ chân và sân. Hai yếu tố quan trọng nhất:
 Lỗi footwork thường có nguyên nhân chuỗi: lỗi ở bước A gây ra lỗi ở bước
 B. Để sửa hiệu quả, cần xác định lỗi gốc rễ, không chỉ sửa triệu chứng.
 
-+--------------------------------------------------------------------+
-| **MÔ HÌNH CHẨN ĐOÁN LỖI FOOTWORK**                                 |
-+--------------------------------------------------------------------+
+| **MÔ HÌNH CHẨN ĐOÁN LỖI FOOTWORK** |
+| --- |
 | 1\. NGHE: Tiếng chân nói lên rất nhiều. \"Bịch nặng\" = gót trước. |
-| \"Im lặng\" = chân chết, không có áp lực. \"Sột\" = trượt bàn      |
-| chân. \"Kít ngắn\" = DÁN đúng.                                     |
-|                                                                    |
-| 2\. NHÌN: Quay video từ hai góc --- từ phía sau (kiểm tra hướng    |
-| bàn chân) và từ bên cạnh (kiểm tra độ gập gối, gót). Phân tích     |
-| slow-motion.                                                       |
-|                                                                    |
-| 3\. CẢM: Sau buổi tập, cơ nào mỏi nhất? Mỏi đùi trước = đứng       |
+| \"Im lặng\" = chân chết, không có áp lực. \"Sột\" = trượt bàn |
+| chân. \"Kít ngắn\" = DÁN đúng. |
+|  |
+| 2\. NHÌN: Quay video từ hai góc --- từ phía sau (kiểm tra hướng |
+| bàn chân) và từ bên cạnh (kiểm tra độ gập gối, gót). Phân tích |
+| slow-motion. |
+|  |
+| 3\. CẢM: Sau buổi tập, cơ nào mỏi nhất? Mỏi đùi trước = đứng |
 | thẳng, chưa dùng hông. Mỏi đùi sau + mông = đang dùng đúng cơ. Mỏi |
-| bắp chân = happy feet tốt.                                         |
-|                                                                    |
-| 4\. KẾT QUẢ ĐÁNH: Bóng thiếu tốc độ mặc dù vung mạnh = lực không   |
-| qua chuỗi. Bóng thiếu kiểm soát dù kỹ thuật tay ổn = thiếu DÁN.    |
-+--------------------------------------------------------------------+
+| bắp chân = happy feet tốt. |
+|  |
+| 4\. KẾT QUẢ ĐÁNH: Bóng thiếu tốc độ mặc dù vung mạnh = lực không |
+| qua chuỗi. Bóng thiếu kiểm soát dù kỹ thuật tay ổn = thiếu DÁN. |
+
 
 **12.2 Danh sách lỗi phổ biến --- Chi tiết và sửa lỗi**
 
@@ -2055,27 +2042,26 @@ Những bài tập này có thể làm ở nhà, trước giờ ngủ, 5-10 phú
 
 Dùng checklist này sau mỗi buổi tập sân để đánh giá chất lượng footwork:
 
-+--------------------------------------------------------------------+
-| **CHECKLIST FOOTWORK --- BUỔI TẬP**                                |
-+--------------------------------------------------------------------+
-| □ Nghe tiếng \"kít\" ngắn khi plant ít nhất 60% số lần? (Mục tiêu  |
-| 80%+)                                                              |
-|                                                                    |
-| □ Gót rời đất giữa các cú đánh hầu hết thời gian?                  |
-|                                                                    |
-| □ Mỏi cơ mông ngoài và đùi sau (không phải chủ yếu đùi trước)?     |
-|                                                                    |
-| □ Hồi vị về trung tâm bằng MỘT bước đẩy từ chân đã plant?          |
-|                                                                    |
-| □ Bước đầu tiên khi di chuyển sang phải là bước chân TRÁI?         |
-|                                                                    |
-| □ Có ít nhất 2 bước stutter trước bước plant cuối (bóng vùng       |
-| Vàng)?                                                             |
-|                                                                    |
-| □ Không kéo lê chân khi hồi vị?                                    |
-|                                                                    |
-| □ Split step timing: bắt đầu BẬT lên TRƯỚC khi đối thủ chạm bóng?  |
-+--------------------------------------------------------------------+
+| **CHECKLIST FOOTWORK --- BUỔI TẬP** |
+| --- |
+| □ Nghe tiếng \"kít\" ngắn khi plant ít nhất 60% số lần? (Mục tiêu |
+| 80%+) |
+|  |
+| □ Gót rời đất giữa các cú đánh hầu hết thời gian? |
+|  |
+| □ Mỏi cơ mông ngoài và đùi sau (không phải chủ yếu đùi trước)? |
+|  |
+| □ Hồi vị về trung tâm bằng MỘT bước đẩy từ chân đã plant? |
+|  |
+| □ Bước đầu tiên khi di chuyển sang phải là bước chân TRÁI? |
+|  |
+| □ Có ít nhất 2 bước stutter trước bước plant cuối (bóng vùng |
+| Vàng)? |
+|  |
+| □ Không kéo lê chân khi hồi vị? |
+|  |
+| □ Split step timing: bắt đầu BẬT lên TRƯỚC khi đối thủ chạm bóng? |
+
 
 **17.2 Checklist hàng tuần --- Tiến độ**
 
@@ -2153,36 +2139,35 @@ tốt.
 
 Sau 17 chương, mọi thứ hội tụ thành một vòng lặp duy nhất:
 
-+--------------------------------------------------------------------+
-| **VÒNG LẶP FOOTWORK HOÀN HẢO**                                     |
-+--------------------------------------------------------------------+
-| ① HAPPY FEET --- Chân luôn \"sống\" giữa các cú. Gót không chạm.   |
-| Nhún nhẹ. Gân Achilles căng sẵn.                                   |
-|                                                                    |
-| ② SPLIT STEP --- Timing đúng (trước khi đối thủ chạm bóng). Thấp   |
-| và nhanh. Bias về hướng dự đoán.                                   |
-|                                                                    |
-| ③ BỀN THƯỚC ĐẦU TIÊN --- Crossover lead (chân đối diện hướng di    |
-| chuyển dẫn trước). Bước thấp và nhanh.                             |
-|                                                                    |
+| **VÒNG LẶP FOOTWORK HOÀN HẢO** |
+| --- |
+| ① HAPPY FEET --- Chân luôn \"sống\" giữa các cú. Gót không chạm. |
+| Nhún nhẹ. Gân Achilles căng sẵn. |
+|  |
+| ② SPLIT STEP --- Timing đúng (trước khi đối thủ chạm bóng). Thấp |
+| và nhanh. Bias về hướng dự đoán. |
+|  |
+| ③ BỀN THƯỚC ĐẦU TIÊN --- Crossover lead (chân đối diện hướng di |
+| chuyển dẫn trước). Bước thấp và nhanh. |
+|  |
 | ④ STUTTER STEPS --- 2-3 bước nhỏ điều chỉnh. Đây là lúc \"tìm\" vị |
-| trí plant. Đừng bỏ qua bước này.                                   |
-|                                                                    |
-| ⑤ PLANT --- Outside leg vươn ra, ụ ngón cái trước, vặn nhẹ vào     |
-| trong, ba điểm siết. DÁN.                                          |
-|                                                                    |
-| ⑥ ĐÁNH BÓNG --- Từ nền DÁN, chuỗi động học kích hoạt từ hông lên.  |
-| Vợt là điểm cuối của chuỗi.                                        |
-|                                                                    |
-| ⑦ ĐẨY NGƯỢC --- Gót nhấc, ụ ngón cái đẩy. Hông về trước chân. Một  |
-| bước mạnh về giữa.                                                 |
-|                                                                    |
-| ⑧ QUAY LẠI HAPPY FEET --- Về trung tâm, vào lại nhịp nhún. Chuẩn   |
-| bị split tiếp theo.                                                |
-|                                                                    |
-| → Vòng lặp này diễn ra trong 1.5-3 giây và lặp lại hàng trăm lần   |
-| trong một trận đấu.                                                |
-+--------------------------------------------------------------------+
+| trí plant. Đừng bỏ qua bước này. |
+|  |
+| ⑤ PLANT --- Outside leg vươn ra, ụ ngón cái trước, vặn nhẹ vào |
+| trong, ba điểm siết. DÁN. |
+|  |
+| ⑥ ĐÁNH BÓNG --- Từ nền DÁN, chuỗi động học kích hoạt từ hông lên. |
+| Vợt là điểm cuối của chuỗi. |
+|  |
+| ⑦ ĐẨY NGƯỢC --- Gót nhấc, ụ ngón cái đẩy. Hông về trước chân. Một |
+| bước mạnh về giữa. |
+|  |
+| ⑧ QUAY LẠI HAPPY FEET --- Về trung tâm, vào lại nhịp nhún. Chuẩn |
+| bị split tiếp theo. |
+|  |
+| → Vòng lặp này diễn ra trong 1.5-3 giây và lặp lại hàng trăm lần |
+| trong một trận đấu. |
+
 
 **18.2 Kết nối não-chân --- Thực hành có ý thức**
 
@@ -2214,17 +2199,17 @@ chân xuống sân là gì?\"
 
 Bây giờ, sau 17 chương, câu trả lời:
 
-+---+:-----------------------------------------------------------------+
-|   | *Cảm giác đúng không phải nặng. Không phải mạnh. Không phải đau. |
-|   | Nó là cảm giác của MỘT KHOẢNH KHẮC HOÀN HẢO khi hàng trăm tín    |
-|   | hiệu thần kinh từ ba điểm tiếp xúc, từ cơ mông nhỡ đang khóa, từ |
-|   | gân Achilles đang căng, từ tai đang nghe tiếng kít ngắn trên sân |
-|   | --- tất cả cùng nói \"BÂY GIỜ\". Và từ khoảnh khắc đó, lực không |
-|   | đến từ bạn --- nó đến từ sân, qua chân, qua hông, qua vai, qua   |
-|   | vợt. Bạn chỉ là người truyền dẫn.*                               |
-|   |                                                                  |
-|   | **--- Triết lý Cảm giác chân**                                   |
-+---+------------------------------------------------------------------+
+|  | *Cảm giác đúng không phải nặng. Không phải mạnh. Không phải đau. |
+| --- | --- |
+|  | Nó là cảm giác của MỘT KHOẢNH KHẮC HOÀN HẢO khi hàng trăm tín |
+|  | hiệu thần kinh từ ba điểm tiếp xúc, từ cơ mông nhỡ đang khóa, từ |
+|  | gân Achilles đang căng, từ tai đang nghe tiếng kít ngắn trên sân |
+|  | --- tất cả cùng nói \"BÂY GIỜ\". Và từ khoảnh khắc đó, lực không |
+|  | đến từ bạn --- nó đến từ sân, qua chân, qua hông, qua vai, qua |
+|  | vợt. Bạn chỉ là người truyền dẫn.* |
+|  |  |
+|  | **--- Triết lý Cảm giác chân** |
+
 
 **18.4 Lộ trình tiếp theo**
 
@@ -2246,22 +2231,22 @@ luyện tập thực sự:
 Và nhớ: lần tiếp theo ra sân, đừng nghĩ \"đạp mạnh\". Nghĩ \"vặn nhẹ,
 dính, rồi nổ\".
 
-+--------------------------------------------------------------------+
-| **ĐIỂM THEN CHỐT**                                                 |
-|                                                                    |
-| - Happy feet là điều kiện tiên quyết cho mọi thứ khác              |
-|                                                                    |
-| - DÁN = ụ ngón cái + ụ ngón út + gót nhẹ + vặn vào trong           |
-|                                                                    |
-| - Stutter steps không thể bỏ --- đây là nơi DÁN được chuẩn bị      |
-|                                                                    |
-| - Hồi vị bằng một bước đẩy từ chính điểm DÁN                       |
-|                                                                    |
-| - \"Kít ngắn\" = xác nhận âm thanh của DÁN hoàn hảo                |
-|                                                                    |
-| - Footwork tốt là footwork không cần nghĩ --- nhưng phải nghĩ      |
-|   nhiều để đến đó                                                  |
-+--------------------------------------------------------------------+
+| **ĐIỂM THEN CHỐT** |
+| --- |
+|  |
+| - Happy feet là điều kiện tiên quyết cho mọi thứ khác |
+|  |
+| - DÁN = ụ ngón cái + ụ ngón út + gót nhẹ + vặn vào trong |
+|  |
+| - Stutter steps không thể bỏ --- đây là nơi DÁN được chuẩn bị |
+|  |
+| - Hồi vị bằng một bước đẩy từ chính điểm DÁN |
+|  |
+| - \"Kít ngắn\" = xác nhận âm thanh của DÁN hoàn hảo |
+|  |
+| - Footwork tốt là footwork không cần nghĩ --- nhưng phải nghĩ |
+| nhiều để đến đó |
+
 
 **PHỤ LỤC**
 

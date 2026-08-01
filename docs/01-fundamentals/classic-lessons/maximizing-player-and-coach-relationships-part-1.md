@@ -6,8 +6,7 @@
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_maximizing-player-and-coach-relationships-part-1/media/image1.jpg){width="5.571573709536308in"
-height="3.1359995625546806in"}
+confidence](media_maximizing-player-and-coach-relationships-part-1/media/image1.jpg)
 
 **A coach can be the most influential person in your life outside of
 your parents.**
@@ -29,9 +28,9 @@ In 2019 my company SETS Consulting did a study in conjunction with
 Stanford University. We interviewed 98 male and female professional and
 collegiate athletes that had all played under championship coaches.
 
-In the survey the athletes\' answers were virtually unanimous across
+In the survey the athletes' answers were virtually unanimous across
 different sports and for both genders. The primary conclusion was that
-the most important factor in maximizing the athlete\'s performance was
+the most important factor in maximizing the athlete's performance was
 not what the coach did. It was how the coach did it.
 
 **Styles of Coaching**
@@ -48,8 +47,7 @@ personally seen that improved understanding and communication can be a
 huge factor in competitive results.
 
 ![Two people talking Description automatically generated with medium
-confidence](media_maximizing-player-and-coach-relationships-part-1/media/image2.jpg){width="5.555555555555555in"
-height="4.083333333333333in"}
+confidence](media_maximizing-player-and-coach-relationships-part-1/media/image2.jpg)
 
 **The most important factors: who the player is and who the coach is as
 a person.**
@@ -82,15 +80,14 @@ bit shy or intimidated by this, start small. Teach the coach a skill or
 trick that you have mastered outside of tennis: tying a bow tie,
 juggling, remembering the order of planets, or anything else.
 
-I\'ve learned so much from my students over the years when I put them in
-the driver\'s seat. Not only does this increase a player\'s confidence,
+I've learned so much from my students over the years when I put them in
+the driver's seat. Not only does this increase a player's confidence,
 they feel empowered. It decreases the dominance and intimidation level
 of the coach and increases the respect level from both parties.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_maximizing-player-and-coach-relationships-part-1/media/image3.jpg){width="5.555555555555555in"
-height="3.6944444444444446in"}
+confidence](media_maximizing-player-and-coach-relationships-part-1/media/image3.jpg)
 
 **The coach can ask the player to devise new drills and techniques---and
 vice versa.**
@@ -104,15 +101,15 @@ Feedback is a gift. Both parties should expect and allow feedback. If
 done right, both athlete and coach will inevitably get better from it.
 
 But feedback should be given with permission. Coaches and athletes must
-be open to it and be honest in providing feedback on each other\'s
+be open to it and be honest in providing feedback on each other's
 performance.
 
 All feedback should be communicated with the intent to make the other
-person better. As a coach or a player, don\'t be afraid to provide your
+person better. As a coach or a player, don't be afraid to provide your
 thoughts in a kind, respectful way.
 
 Feedback should never be personal and should be non-judgmental. You are
-giving feedback on a task or performance, not the person\'s character or
+giving feedback on a task or performance, not the person's character or
 imperfections. Make sure feedback matches the goals that you are working
 towards and stays on point.
 
@@ -123,7 +120,7 @@ your tennis and grow as a person.
 
 As beneficial as feedback is, it does come with the understanding that
 you must know and understand your audience. Sometimes, what coaches say
-isn\'t as important as how they say it.
+isn't as important as how they say it.
 
 **Real Life Example**
 
@@ -137,11 +134,9 @@ together, he continued his normal ways. The player was taken aback and
 thought he was being too harsh.
 
 ![Graphical user interface Description automatically generated with low
-confidence](media_maximizing-player-and-coach-relationships-part-1/media/image4.jpg){width="3.673986220472441in"
-height="1.8159995625546808in"} ![A picture containing person, sky,
+confidence](media_maximizing-player-and-coach-relationships-part-1/media/image4.jpg) ![A picture containing person, sky,
 outdoor, posing Description automatically
-generated](media_maximizing-player-and-coach-relationships-part-1/media/image5.jpg){width="2.3764271653543307in"
-height="1.8191229221347331in"}
+generated](media_maximizing-player-and-coach-relationships-part-1/media/image5.jpg)
 
 **I work individually with coaches and players and then share
 communication insights.**
@@ -167,8 +162,7 @@ Part 2!
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_maximizing-player-and-coach-relationships-part-1/media/image6.jpeg){width="2.079861111111111in"
-height="1.9041666666666666in"}
+confidence](media_maximizing-player-and-coach-relationships-part-1/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

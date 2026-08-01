@@ -5,14 +5,13 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_timing-and-the-release-of-the-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-release-of-the-swing/media/image1.webp)
 
-**What\'s the difference between hitting with rhythm and hitting with
+**What's the difference between hitting with rhythm and hitting with
 timing?**
 
 As a player do you understand the difference between rhythm and timing?
-Most players don\'t, yet learning to play with timing is critical to
+Most players don't, yet learning to play with timing is critical to
 taking your game to the next level.
 
 In my first article ([Click
@@ -24,7 +23,7 @@ means knowing how to time the release at slightly different moments to
 find the contact point on the wide variety of balls competitively
 players actually face.
 
-The majority of all players don\'t play with \"timing\" in this sense.
+The majority of all players don't play with \"timing\" in this sense.
 Instead, they play with \"rhythm.\" They release their swings at the
 same time on every ball, usually about the time of the ball bounce on
 the court. This is why most players do much better when they play
@@ -39,8 +38,7 @@ release of the swing that are required to time all these variations.
 Because of this they never work specifically on timing in practice.
 
 ![A person playing tennis Description automatically
-generated](media_timing-and-the-release-of-the-swing/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-release-of-the-swing/media/image2.webp)
 
 **Compare the timing of the release of the swing by looking at the
 position of the arms at the bounce on a shorter ball versus a deeper
@@ -54,7 +52,7 @@ then practicing timing techniques.
 
 This article will help you learn the difference between rhythm and
 timing. It will help you develop the critical differences in the timing
-of your release. We\'ll do this through a series of original drills I
+of your release. We'll do this through a series of original drills I
 have created for my high level junior players. But these drills can make
 a tremendous difference for players at all levels.
 
@@ -71,8 +69,7 @@ forward swing. The question is, after you have made your unit turn, when
 do you \"pull the trigger\" and complete the swing?
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_timing-and-the-release-of-the-swing/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-release-of-the-swing/media/image3.webp)
 
 **On routine balls, the top players release the swing at the time of the
 bounce.**
@@ -104,8 +101,7 @@ are all the same.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image4.webp)
 
 **Notice the delay in the release on the shorter slower ball.**
 
@@ -117,7 +113,7 @@ at the same time regardless of how fast or how slow the ball is
 approaching them.
 
 **[[Accomplished players make slight adjustments on almost every
-ball.]{.underline}]{.mark}** Watch Federer\'s release in the animation
+ball.]{.underline}]{.mark}** Watch Federer's release in the animation
 on these two hard, difficult balls. In both cases the release is well
 before the bounce. On the second ball, which is even faster and deeper
 than the first, the release is clearly sooner. You can see this by
@@ -128,15 +124,14 @@ By timing these balls differently, Federer can reach the contact point
 on two very difficult shots.
 
 ![A person playing tennis Description automatically
-generated](media_timing-and-the-release-of-the-swing/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-release-of-the-swing/media/image5.webp)
 
-**Watch how Federer\'s release changes on these two deep, fast balls.
+**Watch how Federer's release changes on these two deep, fast balls.
 The precision of his timing is based on the characteristics of each
 individual ball.**
 
 How do players develop their ability to time the release in this way?
-**[[By using their eyes to track the ball and gage the incoming ball\'s
+**[[By using their eyes to track the ball and gage the incoming ball's
 various characteristics\--speed, spin, depth, direction, height,
 placement, then using that information to dictate when they release
 their swing.]{.underline}]{.mark}** **[[By focusing on the flight of the
@@ -153,8 +148,7 @@ the individual ball you are about to hit.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image6.webp)
 
 **Develop the timing of the release by hitting different balls back at
 the same speed.**
@@ -184,15 +178,14 @@ produce another shot at 35 miles per hour.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image7.webp)
 
 **Hitting out of the air from behind the service line helps players feel
 the two parts of the swing\--and then make a continuous transition.**
 
 But if you wait too long to release your shot, you will have to quicken
 up the racket at the last moment before contact. The result is that your
-shot will be faster. This drill takes intense focus, but it\'s the most
+shot will be faster. This drill takes intense focus, but it's the most
 basic drill for teaching players how to release their swings at
 different times depending upon the incoming ball. It really makes you
 feel the differences in the timing.
@@ -212,13 +205,12 @@ volley.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image8.webp)
 
 **Now move back behind the baseline and again practice taking the ball
 out of the air between the knees and the chest.**
 
-In a real match I wouldn\'t want them to hit this shot off a ball that
+In a real match I wouldn't want them to hit this shot off a ball that
 is that low, but doing so in this drill has real value in helping them
 learn how to release their swing earlier. Players will find it easiest
 to perform this drill with their forehands, but you can do the same
@@ -227,7 +219,7 @@ drill with the two handed backhand.
 Because the pupil is so much closer to the net and is hitting the ball
 out of the air, he or she must release the swing earlier to hit the ball
 at all. To do this the player must pick up the ball much earlier off the
-feed. So the intensity of the player\'s focus is naturally increased.
+feed. So the intensity of the player's focus is naturally increased.
 
 Again, as we saw in the first article, the swing can be divided into two
 parts: the unit turn and the release and forward swing. The better the
@@ -244,8 +236,7 @@ for the racket head is naturally increased because making contact in
 front is much more difficult with less time.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_timing-and-the-release-of-the-swing/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image9.webp)
 
 **Using a constant, slower speed on the return ball is especially
 effective.**
@@ -261,7 +252,7 @@ well past the baseline. But since the ball is coming quite fast, the
 player is again forced to use his or her eyes to track the ball more
 closely. To deal with the extra pace of the ball, making contact at the
 right time in front of the body becomes critical. The result is a big
-improvement in the player\'s ability to time the swing to the pace of
+improvement in the player's ability to time the swing to the pace of
 the oncoming ball.
 
 I find this second drill is particularly effective when I have the
@@ -271,14 +262,13 @@ shot forces the player to start the swing even earlier because, the
 player must start forward sooner to hit the ball in front.
 
 As in other areas of the game, high speed shots can sometimes disguise
-the truth\--players don\'t really feel what they are doing. Performing
+the truth\--players don't really feel what they are doing. Performing
 this drill at a slower speed really helps the player develop the feel of
 the racket head and a very precise release.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image10.webp)
 
 **Now take some balls out of the air and others on the bounce.**
 
@@ -289,8 +279,8 @@ the feeder is maintaining a constant pace on the feeds, so it is the
 swing of the player that will determine the speed of the return.
 
 This looks easy when executed by someone who has developed their timing
-but not for players who haven\'t. Think of the teaching pro who
-routinely returns the student\'s balls at a constant speed and height
+but not for players who haven't. Think of the teaching pro who
+routinely returns the student's balls at a constant speed and height
 despite the inconsistency of the balls the pupil is hitting to them. Or
 think of Andre Agassi making it look so easy when he consistently takes
 deep, hard balls on the rise.
@@ -303,27 +293,26 @@ this drill, the player must truly have good feel for preparing the
 racket head for the shot and the ability to time the ball based on its
 incoming characteristics as opposed to just hitting off the bounce.
 
-Finally, have both players move into no man\'s land and try to play full
+Finally, have both players move into no man's land and try to play full
 swinging strokes without being rushed. Be sure to focus on hitting balls
-different speeds, depths and directions. It\'s even better if your
+different speeds, depths and directions. It's even better if your
 partner yells out the shot you must hit as his ball crosses the net to
 you. Remember to emphasize the delineation between the unit turn or
 preparation and the actual swing.
 
 ![A person holding a tennis racket Description automatically
-generated](media_timing-and-the-release-of-the-swing/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_timing-and-the-release-of-the-swing/media/image11.webp)
 
-**The rapid feed in \"Angela\'s Asteroids\" forces players to eliminate
+**The rapid feed in \"Angela's Asteroids\" forces players to eliminate
 extraneous motion to find the contact.**
 
-**Angela\'s Asteroids**
+**Angela's Asteroids**
 
-A final great drill is what I call \"Angela\'s Asteroids.\" I actually
+A final great drill is what I call \"Angela's Asteroids.\" I actually
 devised it to help one of my players, Angela Kulikov, reduce the size of
 her backswing and the use of her wrist on her forehand, both common
 mistakes for younger players who have to deal with high balls. Why call
-it Angela\'s Asteroids? You guessed it, from the classic video game in
+it Angela's Asteroids? You guessed it, from the classic video game in
 which asteroids come at you faster and faster.
 
 Angela starts by hitting forehands in her normal strike zone at a normal
@@ -344,8 +333,7 @@ consistent.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image12.webp)
 
 **On a high, deep ball hit inside out or inside in, the shoulder turn is
 further with the back turning more to the net.**
@@ -378,8 +366,7 @@ then get to the inside of the flight path with more turn.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_timing-and-the-release-of-the-swing/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_timing-and-the-release-of-the-swing/media/image13.webp)
 
 **When hitting on the rise, the racket is only slightly below the ball
 and the arc is flatter.**
@@ -405,14 +392,14 @@ differences in the shots are actually like. This in turn can translate
 into actual play when the conscious decision is to hit the ball on the
 way up.
 
-So that\'s it for our second timing article. The point of all the drills
+So that's it for our second timing article. The point of all the drills
 is to help you feel how certain concepts actually work on the court. But
 once you have developed some feeling in the drills, you need to get out
 of your own way, focus on the ball, and let the shots happen
 automatically. Good tennis strokes are just too complicated for us to do
 \"on purpose\" or \"deliberately.\" The one thing you can do
-deliberately is recognize when your opponent\'s strokes lack some or all
-of these elements we\'ve explored\--and attack accordingly.
+deliberately is recognize when your opponent's strokes lack some or all
+of these elements we've explored\--and attack accordingly.
 
 I hope you will try these drills out and use them to help develop your
 own sense of the racket head and timing. Go out and have some fun with
@@ -427,8 +414,7 @@ Weingarten for the fantastic job demonstrating the drills.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing tennis, person, racket, player Description automatically                                                                                                             Don Brosseau, shown here with two of his
-  generated](media_timing-and-the-release-of-the-swing/media/image14.jpeg){width="1.8208333333333333in"   students, Angela Kulikov (left) and Lestter
-  height="1.9402777777777778in"}                                                                                                                                                              Yeh (right), is one of the leading independent
+  generated](media_timing-and-the-release-of-the-swing/media/image14.jpeg)                                                                                                                                                              Yeh (right), is one of the leading independent
                                                                                                                                                                                               teaching pros in the Southern California area,
                                                                                                                                                                                               based at Griffith Park in Los Angeles. A
                                                                                                                                                                                               former All American college player, Don played

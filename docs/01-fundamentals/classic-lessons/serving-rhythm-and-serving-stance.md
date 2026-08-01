@@ -8,8 +8,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-rhythm-and-serving-stance/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_serving-rhythm-and-serving-stance/media/image1.webp)
 
 **Did Pete Sampras and Justine Henin have it right about serving
 stance?**
@@ -23,7 +22,7 @@ and the legs coiled, the point at which the player is ready to launch
 outward and upward to the ball. ([Click
 Here.](1-2%20Rhythm%20-%20The%20Serve.docx))
 
-In this article, let\'s take our analysis a step further. Let\'s see how
+In this article, let's take our analysis a step further. Let's see how
 the development of 1-2 Rhythm is related to the two major types of
 serving stances\--the pinpoint and the platform.
 
@@ -36,12 +35,11 @@ turn.
 
 Stance is one of the most debated issues in coaching, teaching, and
 playing. Obviously, there are great servers using both pinpoint and
-platform stances. So, let\'s start by clarifying what we mean by each
+platform stances. So, let's start by clarifying what we mean by each
 and also identifying some of the variations.
 
 ![A person playing tennis Description automatically
-generated](media_serving-rhythm-and-serving-stance/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_serving-rhythm-and-serving-stance/media/image2.webp)
 
 **Pinpoint variations: starting stance, amount and timing of foot slide,
 and timing of trophy position.**
@@ -63,8 +61,7 @@ trophy position.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-rhythm-and-serving-stance/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_serving-rhythm-and-serving-stance/media/image3.webp)
 
 **Somewhat less variation in the platform leg positions, but the same
 variable in the timing of the windup.**
@@ -89,30 +86,29 @@ position.
 
 **Results**
 
-Does any of this make a difference? Let\'s look at how the stances
-correlate with results at the pro level. On the men\'s tour, a larger
+Does any of this make a difference? Let's look at how the stances
+correlate with results at the pro level. On the men's tour, a larger
 percentage of the top hundred players use the pinpoint, but a high
 percentage of the most successful players use platform. Looking at Grand
-Slam champions in the men\'s game over the last 13 years, half of all
+Slam champions in the men's game over the last 13 years, half of all
 those players used platform. If we remove the French Open where the
 serve has the least impact, the percentage goes up to over 60%.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-rhythm-and-serving-stance/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_serving-rhythm-and-serving-stance/media/image4.webp)
 
-**Serena\'s heels line up in a moderate pinpoint.**
+**Serena's heels line up in a moderate pinpoint.**
 
-And let\'s also note that two of the greatest servers in the history of
+And let's also note that two of the greatest servers in the history of
 the game from the previous era, Pete Sampras and John McEnroe, both used
 platform stances. Between them they won 20 Slam titles.
 
-On the women\'s side the overwhelming majority of all top players serve
+On the women's side the overwhelming majority of all top players serve
 with a pinpoint stance. Many use very extreme versions, actually sliding
 the back foot past the front at the completion of the loading.
 
-But Serena Williams, arguably the greatest women\'s server of all time,
+But Serena Williams, arguably the greatest women's server of all time,
 uses a stance with less foot movement than the majority of women pros,
 reaching the transition point with her feet basically in line. And
 interestingly Justine Henin who had a great serve despite her size,
@@ -129,10 +125,9 @@ article was the duration of the two phases.
 
 ![A tennis player is about to hit a ball with his racket Description
 automatically generated with low
-confidence](media_serving-rhythm-and-serving-stance/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_serving-rhythm-and-serving-stance/media/image5.webp)
 
-**Isner\'s legs and shoulders appear to be moving in opposite
+**Isner's legs and shoulders appear to be moving in opposite
 directions.**
 
 The duration of Phase 1 was longer but could vary substantially from
@@ -149,7 +144,7 @@ Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_se
 I think the timing of the Phases says something. I believe that the
 simpler platform stances are more conducive to having a smooth and
 deliberate rhythm during the longer Phase 1. The additional moving parts
-and additional motion for player\'s using a pinpoint make Phase 1 more
+and additional motion for player's using a pinpoint make Phase 1 more
 complex and difficult to coordinate.
 
 This is because with the pinpoint stances, the back foot is moving up to
@@ -162,8 +157,7 @@ away from the court for more body coil, that shoulder movement is in the
 opposite direction of the movement of the back foot and back hip.
 
 ![A person playing tennis Description automatically
-generated](media_serving-rhythm-and-serving-stance/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_serving-rhythm-and-serving-stance/media/image6.webp)
 
 **With the pinpoint, top players have more leg motion but less body
 turn.**
@@ -173,7 +167,7 @@ makes it more difficult to develop the feeling of being relaxed,
 deliberate and smooth.
 
 Watch this conflicting motion when John Isner turns his shoulders away
-from the ball. Obviously it\'s hard to argue with the resulting delivery
+from the ball. Obviously it's hard to argue with the resulting delivery
 when it comes to Isner.
 
 But the difficulty of mastering the complexity of these movements, when
@@ -181,7 +175,7 @@ trying to build rhythm, may explain why the pinpoint servers typically
 have far less body rotation. Even at the world class level, many fail to
 turn their shoulders past perpendicular to the net.
 
-Obviously it\'s hard to criticize Isner\'s serve, but his motion is
+Obviously it's hard to criticize Isner's serve, but his motion is
 complex and in my opinion a very difficult model for the huge majority
 of players. You have to wonder how fearsome his delivery would actually
 be with a platform stance similar to Federer or Pete Sampras.
@@ -191,8 +185,7 @@ the better. If you look at Samantha Stosur, for example, technically she
 has a pinpoint stance since the back foot moves.
 
 ![A person playing tennis Description automatically
-generated](media_serving-rhythm-and-serving-stance/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_serving-rhythm-and-serving-stance/media/image7.webp)
 
 **Sam slides her foot\--into a classic platform position.**
 
@@ -203,7 +196,7 @@ more video of here serve in the Interactive Forum.
 
 **Conclusions**
 
-**[[I\'ve always believed platform stances to be the better option for
+**[[I've always believed platform stances to be the better option for
 players of all levels, due to the ease of attaining deliberate
 smoothness during the set up phase and building 1-2 rhythm. This makes
 possible a more reliable serve.]{.mark}]{.underline}**
@@ -221,8 +214,7 @@ group drop to 59%.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_serving-rhythm-and-serving-stance/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_serving-rhythm-and-serving-stance/media/image8.webp)
 
 **Federer demonstrating the phases with effortlessly grace.**
 
@@ -234,7 +226,7 @@ critical transition point between the phases.]{.mark}]{.underline}**
 For most players, a slightly narrower less extreme platform stance than
 Roger or Novak is a great place to start. You can experiment with more
 extreme variations from there. Check out one version of how to do this
-in John Yandell\'s article on stance in his new serve series. ([Click
+in John Yandell's article on stance in his new serve series. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/legs/).)
 
 **[[A platform stance also naturally facilitates body turn. In the
@@ -244,28 +236,27 @@ direction.]{.mark}]{.underline}**
 
 You can see and actually feel this when you watch Roger Federer. The
 motion looks tremendously smooth in Phase 1 and highly explosive in
-Phase 2. And effortless throughout. It\'s is a gorgeous example of 1-2
+Phase 2. And effortless throughout. It's is a gorgeous example of 1-2
 serving rhythm.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                          | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_serving-rhythm-and-serving-stance/media/image9.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                                        | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                                       | competitions since formation, and over the last 2 |
-|                                                                                                                                                                                       | years alone, his junior players have won 19       |
-|                                                                                                                                                                                       | singles tournaments between them at county level. |
-|                                                                                                                                                                                       |                                                   |
-|                                                                                                                                                                                       | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                                       | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                                       | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                                       | players at all levels, including former British   |
-|                                                                                                                                                                                       | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                                       |                                                   |
-|                                                                                                                                                                                       | His unique teaching video series, covering every  |
-|                                                                                                                                                                                       | aspect of the game, is available on his website   |
-|                                                                                                                                                                                       | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                                       |                                                   |
-|                                                                                                                                                                                       | You can also                                      |
-+=======================================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_serving-rhythm-and-serving-stance/media/image9.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also |
+
 
 ------------------------------------------------------------------------

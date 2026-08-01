@@ -228,17 +228,16 @@ spins. **[A topspin ball landing at the service line will bounce past
 the baseline. A backspin ball landing on the service line will bounce
 inside the baseline.]{.underline}**
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, athletic game, sport, tennis Description automatically                                                                                                  | ![](media_tennis-principles-and-foundations/media/image2.png){width="3.0377504374453195in" |
-| generated](media_tennis-principles-and-foundations/media/image1.png){width="2.6452252843394577in" | height="3.6429352580927383in"}                                                                                                                                                |
-| height="1.7538998250218722in"}                                                                                                                                                       |                                                                                                                                                                               |
+| ![A picture containing text, athletic game, sport, tennis Description automatically | ![](media_tennis-principles-and-foundations/media/image2.png) |  |
+| --- | --- | --- |
+
 +--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                                                                                                                                                               |
-| **Magnus Force**                                                                                                                                                                     |                                                                                                                                                                               |
-|                                                                                                                                                                                      |                                                                                                                                                                               |
-| ![Diagram, schematic Description automatically                                                                                                                                       |                                                                                                                                                                               |
-| generated](media_tennis-principles-and-foundations/media/image3.png){width="2.003251312335958in"  |                                                                                                                                                                               |
-| height="1.754141513560805in"}                                                                                                                                                        |                                                                                                                                                                               |
-+======================================================================================================================================================================================+===============================================================================================================================================================================+
+| **Magnus Force** |  |
+| --- | --- |
+|  |  |
+| ![Diagram, schematic Description automatically |  |
+| generated](media_tennis-principles-and-foundations/media/image3.png) |  |
+
 
 **[[Use backspin as your control spin and topspin as your power
 spin.]{.underline}]{.mark}**
@@ -2103,8 +2102,7 @@ avoid.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person wearing a baseball hat Description automatically generated with low                                                                                               Ean Meyer, a professional tennis coach since
-  confidence](media_tennis-principles-and-foundations/media/image4.png){width="1.84375in"   1987. Over the years, I've worked with every
-  height="2.4784722222222224in"}                                                                                                                                               level of player from beginner to professional,
+  confidence](media_tennis-principles-and-foundations/media/image4.png)                                                                                                                                               level of player from beginner to professional,
                                                                                                                                                                                coaching tennis for over 25 years and have worked
                                                                                                                                                                                with many different levels of juniors and adults.
                                                                                                                                                                                In this time I have worked at high performance

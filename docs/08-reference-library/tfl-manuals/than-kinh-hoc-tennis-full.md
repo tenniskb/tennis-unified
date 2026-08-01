@@ -42,16 +42,16 @@ gì việc phát triển sức bền tim mạch hay sức mạnh cơ bắp. Cu�
 kinh nghiệm thực tiễn trên sân của bạn --- một đội ngũ lý tưởng để đưa
 khoa học vào thực chiến.
 
-+---------------------------------------------------------------------+
-| **▶ Định nghĩa cốt lõi**                                            |
-|                                                                     |
+| **▶ Định nghĩa cốt lõi** |
+| --- |
+|  |
 | Thần kinh học thể thao (Sports Neuroscience) là lĩnh vực nghiên cứu |
 | cách hệ thần kinh trung ương và ngoại biên điều phối, tối ưu hóa và |
-| giới hạn hiệu suất thể thao. Trong tennis, điều này bao gồm: xử lý  |
-| thông tin thị giác về quỹ đạo bóng, lập kế hoạch vận động (motor    |
-| planning), điều chỉnh lực và thời điểm đánh bóng, cũng như quản lý  |
-| cảm xúc và áp lực tâm lý trong thi đấu.                             |
-+---------------------------------------------------------------------+
+| giới hạn hiệu suất thể thao. Trong tennis, điều này bao gồm: xử lý |
+| thông tin thị giác về quỹ đạo bóng, lập kế hoạch vận động (motor |
+| planning), điều chỉnh lực và thời điểm đánh bóng, cũng như quản lý |
+| cảm xúc và áp lực tâm lý trong thi đấu. |
+
 
 **1.2. Cấu Trúc Não Bộ Liên Quan Đến Tennis --- Bản Đồ Thần Kinh Của Tay
 Vợt**
@@ -156,16 +156,16 @@ so với người không chơi thể thao. Quan trọng hơn, những thay đổ
 thể được đo lường và theo dõi, tạo ra khả năng đánh giá tiến bộ huấn
 luyện ở cấp độ thần kinh học.
 
-+---------------------------------------------------------------------+
-| **▶ Ứng dụng thực tiễn cho Coach 5.0**                              |
-|                                                                     |
-| Neuroplasticity có thời hạn nhạy cảm (sensitive periods) --- những  |
+| **▶ Ứng dụng thực tiễn cho Coach 5.0** |
+| --- |
+|  |
+| Neuroplasticity có thời hạn nhạy cảm (sensitive periods) --- những |
 | giai đoạn phát triển khi não bộ tiếp thu kỹ năng mới hiệu quả nhất. |
-| Tuy nhiên, ngay cả ở cấp độ 5.0 trưởng thành, não bộ vẫn có khả     |
-| năng thích nghi đáng kể. Chìa khóa là: luyện tập có cấu trúc với    |
+| Tuy nhiên, ngay cả ở cấp độ 5.0 trưởng thành, não bộ vẫn có khả |
+| năng thích nghi đáng kể. Chìa khóa là: luyện tập có cấu trúc với |
 | phản hồi ngay lập tức, tập trung có chủ ý (deliberate practice), và |
-| đủ thời gian phục hồi để não bộ củng cố các kết nối mới.            |
-+---------------------------------------------------------------------+
+| đủ thời gian phục hồi để não bộ củng cố các kết nối mới. |
+
 
 **1.4. Thời Gian Phản Ứng --- Con Số Quyết Định Trận Đấu**
 
@@ -229,18 +229,18 @@ quán về vị trí đầu trong không gian, não bộ sẽ giảm tốc độ
 để bảo vệ. Đây là cơ sở để hiểu tại sao huấn luyện thị giác và tiền đình
 là những \"quick wins\" hiệu quả nhất trong huấn luyện thần kinh học.
 
-+---------------------------------------------------------------------+
-| **▶ Ứng dụng ngay: Bài kiểm tra đe dọa thần kinh**                  |
-|                                                                     |
-| Trước buổi tập, hãy thực hiện bài kiểm tra đơn giản này: yêu cầu    |
-| vận động viên xoay đầu sang trái và phải, đo phạm vi chuyển động.   |
-| Sau đó thực hiện 60 giây bài tập kích hoạt thị giác (ví dụ: theo    |
+| **▶ Ứng dụng ngay: Bài kiểm tra đe dọa thần kinh** |
+| --- |
+|  |
+| Trước buổi tập, hãy thực hiện bài kiểm tra đơn giản này: yêu cầu |
+| vận động viên xoay đầu sang trái và phải, đo phạm vi chuyển động. |
+| Sau đó thực hiện 60 giây bài tập kích hoạt thị giác (ví dụ: theo |
 | dõi vật thể di chuyển bằng mắt mà không di chuyển đầu). Đo lại phạm |
-| vi xoay đầu. Nếu phạm vi tăng, có nghĩa là hệ thống thần kinh đang  |
-| nhận được đầu vào thị giác tốt hơn và cảm thấy \"an toàn\" hơn.     |
-| Nguyên lý này có thể áp dụng cho bất kỳ chuyển động nào trong       |
-| tennis.                                                             |
-+---------------------------------------------------------------------+
+| vi xoay đầu. Nếu phạm vi tăng, có nghĩa là hệ thống thần kinh đang |
+| nhận được đầu vào thị giác tốt hơn và cảm thấy \"an toàn\" hơn. |
+| Nguyên lý này có thể áp dụng cho bất kỳ chuyển động nào trong |
+| tennis. |
+
 
 **1.6. Hiểu Về Fatigue Thần Kinh --- Sự Mệt Mỏi Vô Hình**
 
@@ -363,14 +363,14 @@ này hoạt động phần lớn ở mức tiền ý thức và cực kỳ nhanh
 viên có dorsal stream mạnh sẽ di chuyển đến vị trí đúng \"mà không cần
 nghĩ\" --- đây chính là biểu hiện của cảm giác sân xuất sắc.
 
-+---------------------------------------------------------------------+
-| **▶ Nguyên lý quan trọng**                                          |
-|                                                                     |
-| Hầu hết các bài tập thị giác truyền thống chỉ huấn luyện Ventral    |
-| Stream (nhận dạng bóng). Để thực sự nâng cao hiệu suất tennis,      |
-| chúng ta cần thiết kế các bài tập đặc biệt kích hoạt và phát triển  |
-| Dorsal Stream --- hệ thống hướng dẫn chuyển động trong không gian.  |
-+---------------------------------------------------------------------+
+| **▶ Nguyên lý quan trọng** |
+| --- |
+|  |
+| Hầu hết các bài tập thị giác truyền thống chỉ huấn luyện Ventral |
+| Stream (nhận dạng bóng). Để thực sự nâng cao hiệu suất tennis, |
+| chúng ta cần thiết kế các bài tập đặc biệt kích hoạt và phát triển |
+| Dorsal Stream --- hệ thống hướng dẫn chuyển động trong không gian. |
+
 
 **2.2. Saccade Và Smooth Pursuit --- Hai Loại Chuyển Động Mắt Trong
 Tennis**
@@ -600,17 +600,17 @@ thương tai trong, chóng mặt tư thế, hoặc sự bất cân bằng tiền
 chất lượng theo dõi thị giác trong chuyển động sẽ giảm sút đáng kể ---
 ngay cả khi thị lực tĩnh hoàn toàn bình thường.
 
-+---------------------------------------------------------------------+
-| **▶ Kiểm tra VOR nhanh tại sân**                                    |
-|                                                                     |
-| Yêu cầu vận động viên giữ ngón tay cái duỗi thẳng ở phía trước mặt  |
-| ở khoảng cách đọc sách và nhìn vào móng tay cái. Giữ mắt cố định    |
-| vào móng tay trong khi lắc đầu sang phải-trái với tốc độ ngày càng  |
+| **▶ Kiểm tra VOR nhanh tại sân** |
+| --- |
+|  |
+| Yêu cầu vận động viên giữ ngón tay cái duỗi thẳng ở phía trước mặt |
+| ở khoảng cách đọc sách và nhìn vào móng tay cái. Giữ mắt cố định |
+| vào móng tay trong khi lắc đầu sang phải-trái với tốc độ ngày càng |
 | tăng (2 rung động/giây, sau đó 3/giây). Nếu hình ảnh móng tay bị mờ |
-| hoặc nảy khi đầu chuyển động, VOR đang hoạt động kém và cần được    |
-| huấn luyện. Vận động viên khỏe mạnh với VOR tốt có thể đọc được     |
-| móng tay ngay cả khi lắc đầu nhanh.                                 |
-+---------------------------------------------------------------------+
+| hoặc nảy khi đầu chuyển động, VOR đang hoạt động kém và cần được |
+| huấn luyện. Vận động viên khỏe mạnh với VOR tốt có thể đọc được |
+| móng tay ngay cả khi lắc đầu nhanh. |
+
 
 **3.3. Ảnh Hưởng Của Chức Năng Tiền Đình Đến Sức Mạnh Cú Đánh**
 
@@ -1094,16 +1094,16 @@ trung tính hoặc thậm chí có lợi (cảm giác kích thích tích cực) 
 ở mức cao sẽ gây ra sự rối loạn vận động. Chiến lược can thiệp tối ưu
 phải nhắm vào đúng loại lo lắng.
 
-+---------------------------------------------------------------------+
-| **▶ Đánh giá loại lo lắng của vận động viên**                       |
-|                                                                     |
-| Trước trận đấu quan trọng, yêu cầu vận động viên đánh giá: (1) Suy  |
+| **▶ Đánh giá loại lo lắng của vận động viên** |
+| --- |
+|  |
+| Trước trận đấu quan trọng, yêu cầu vận động viên đánh giá: (1) Suy |
 | nghĩ của tôi có đang tiêu cực không? (Lo lắng nhận thức) (2) Cơ thể |
-| tôi có đang căng thẳng không? (Lo lắng thể chất). Sau đó áp dụng    |
-| chiến lược phù hợp: với lo lắng nhận thức --- dùng cognitive        |
-| reframing và acceptance; với lo lớng thể chất --- dùng thở kiểm     |
-| soát và progressive relaxation.                                     |
-+---------------------------------------------------------------------+
+| tôi có đang căng thẳng không? (Lo lắng thể chất). Sau đó áp dụng |
+| chiến lược phù hợp: với lo lắng nhận thức --- dùng cognitive |
+| reframing và acceptance; với lo lớng thể chất --- dùng thở kiểm |
+| soát và progressive relaxation. |
+
 
 **6.3. Neuroscience Của Sự Tự Tin Trong Tennis**
 
@@ -1526,17 +1526,17 @@ kinh sâu hơn và bền vững hơn. Đây chính là nền tảng thần kinh 
 nguyên lý \"desirable difficulties\" (khó khăn mong muốn) trong giáo dục
 và huấn luyện.
 
-+---------------------------------------------------------------------+
-| **▶ Hướng dẫn thiết kế thực hành cho Coach 5.0**                    |
-|                                                                     |
-| Với vận động viên ở giai đoạn Nhận thức: dùng blocked practice để   |
-| xây dựng pattern cơ bản (nhưng chỉ trong thời gian ngắn --- không   |
+| **▶ Hướng dẫn thiết kế thực hành cho Coach 5.0** |
+| --- |
+|  |
+| Với vận động viên ở giai đoạn Nhận thức: dùng blocked practice để |
+| xây dựng pattern cơ bản (nhưng chỉ trong thời gian ngắn --- không |
 | quá 15-20 phút liên tục). Với vận động viên ở giai đoạn Liên kết và |
-| Tự động: chuyển dần sang variable và random practice. Với vận động  |
-| viên 5.0 đã có kỹ thuật cơ bản tốt: ưu tiên random practice với     |
-| tình huống mô phỏng trận đấu thực tế --- đây là cách nhanh nhất để  |
-| cải thiện thực hiện trong thi đấu.                                  |
-+---------------------------------------------------------------------+
+| Tự động: chuyển dần sang variable và random practice. Với vận động |
+| viên 5.0 đã có kỹ thuật cơ bản tốt: ưu tiên random practice với |
+| tình huống mô phỏng trận đấu thực tế --- đây là cách nhanh nhất để |
+| cải thiện thực hiện trong thi đấu. |
+
 
 **9.3. Error Detection Và Correction --- Hệ Thống Phát Hiện Lỗi Của Não
 Bộ**
@@ -1864,12 +1864,12 @@ yêu cầu kỹ thuật tinh tế (thường cần nhiều spin và kiểm soát
 serve). Đây là công thức hoàn hảo cho sự can thiệp của PFC và yips.
 
 Chiến lược thần kinh học cho second serve mạnh mẽ: thứ nhất, luôn có một
-second serve \'kỹ thuật\' đã được luyện tập đủ kỹ để tự động hóa hoàn
+second serve 'kỹ thuật' đã được luyện tập đủ kỹ để tự động hóa hoàn
 toàn --- đây là bảo hiểm thần kinh. Thứ hai, sử dụng external focus mạnh
-hơn: thay vì nghĩ về \'kỹ thuật tốt\', nghĩ về \'đặt bóng vào góc T với
-topspin\'. Thứ ba, rút ngắn thời gian giữa fault và second serve ---
+hơn: thay vì nghĩ về 'kỹ thuật tốt', nghĩ về 'đặt bóng vào góc T với
+topspin'. Thứ ba, rút ngắn thời gian giữa fault và second serve ---
 thời gian dài hơn = nhiều cơ hội hơn cho amygdala xây dựng lo lắng. Thứ
-tư, sử dụng cue word mạnh để kích hoạt trạng thái \'committed\' --- cam
+tư, sử dụng cue word mạnh để kích hoạt trạng thái 'committed' --- cam
 kết hoàn toàn với serve trước khi bắt đầu.
 
 Serve là tổng hợp của tất cả những gì chúng ta đã học về thần kinh học
@@ -1894,11 +1894,11 @@ chiến thuật hiệu quả. Cấp độ chiến thuật giữa điểm (betwee
 tactics) xảy ra khi có đủ thời gian để PFC hoạt động có ý thức: phân
 tích điểm mạnh-yếu của đối thủ, điều chỉnh kế hoạch trận đấu, lựa chọn
 loại serve, và quyết định cấu trúc của điểm tiếp theo. Đây là tư duy
-chiến thuật \'chậm\' và có thể được phân tích và luyện tập có hệ thống.
+chiến thuật 'chậm' và có thể được phân tích và luyện tập có hệ thống.
 Cấp độ chiến thuật trong điểm (in-point tactics) xảy ra trong khoảng
 200-500 mili giây --- quá nhanh cho PFC có ý thức. Đây là tư duy chiến
-thuật \'nhanh\' được thực hiện bởi hệ thống nhận dạng pattern tự động và
-hạch nền. Đây là nơi \'IQ tennis\' thực sự biểu hiện --- và cũng là nơi
+thuật 'nhanh' được thực hiện bởi hệ thống nhận dạng pattern tự động và
+hạch nền. Đây là nơi 'IQ tennis' thực sự biểu hiện --- và cũng là nơi
 khó huấn luyện nhất nhưng tạo ra sự khác biệt lớn nhất ở cấp độ 5.0.
 
 **12.2. Nhận Dạng Pattern --- Bộ Não Cờ Vua Của Tay Vợt**
@@ -1907,15 +1907,15 @@ Nghiên cứu huyền thoại của William Chase và Herbert Simon về các k�
 cờ vua ở các cấp độ khác nhau đã tiết lộ một phát hiện cực kỳ quan
 trọng: chuyên gia không nhìn cờ vua khác về mặt lượng (số lượng ô được
 quan sát) mà khác về mặt chất (đơn vị nhận dạng). Một người mới nhìn
-từng quân cờ riêng lẻ; chuyên gia nhìn \'cụm pattern\' --- ví dụ ngay
-lập tức nhận ra \'đây là bố cục tấn công cánh vua với sacrifice Rook\'
+từng quân cờ riêng lẻ; chuyên gia nhìn 'cụm pattern' --- ví dụ ngay
+lập tức nhận ra 'đây là bố cục tấn công cánh vua với sacrifice Rook'
 như một đơn vị nhận thức duy nhất.
 
 Nguyên lý này áp dụng trực tiếp cho tennis. Vận động viên 5.0 giỏi không
 phân tích từng yếu tố riêng lẻ (vị trí đối thủ, hướng bóng, tốc độ,
-spin) một cách tách biệt --- họ nhận dạng các \'cụm tình huống\' ngay
-lập tức: \'đây là tình huống cross-court exchange với đối thủ đang bị
-đẩy ra wide backhand\' như một pattern duy nhất, và lập tức kích hoạt
+spin) một cách tách biệt --- họ nhận dạng các 'cụm tình huống' ngay
+lập tức: 'đây là tình huống cross-court exchange với đối thủ đang bị
+đẩy ra wide backhand' như một pattern duy nhất, và lập tức kích hoạt
 phản ứng chiến thuật đã được học cho pattern đó. Đây là lý do tại sao
 kinh nghiệm thi đấu thực sự --- đặc biệt là thi đấu với đa dạng đối thủ
 có phong cách khác nhau --- là không thể thay thế cho phát triển IQ
@@ -1927,7 +1927,7 @@ Có thể đẩy nhanh quá trình xây dựng thư viện pattern chiến thu�
 chỉ chờ kinh nghiệm tích lũy tự nhiên. Đây là một trong những đóng góp
 thực tiễn quan trọng nhất của thần kinh học nhận thức cho huấn luyện
 tennis. Phương pháp Video Pattern Analysis: xem video trận đấu không
-phải để \'xem tennis\' mà để \'nhận dạng pattern\'. Tập trung vào các
+phải để 'xem tennis' mà để 'nhận dạng pattern'. Tập trung vào các
 chuỗi điểm cụ thể: điều gì dẫn đến cú forehand winner? Tình huống nào
 thường kết thúc bằng lỗi backhand? Pattern serve-return nào xuất hiện
 nhiều nhất? Sau khi xác định pattern, thực hành nhận dạng chúng ngày
@@ -1935,11 +1935,11 @@ càng nhanh hơn --- mục tiêu là biến nhận dạng pattern từ một nhi
 thức thành một phản xạ tiền ý thức.
 
 Phương pháp Drilling Pattern Cụ Thể: thay vì drill kỹ thuật thuần túy,
-drill các chuỗi chiến thuật hoàn chỉnh. Ví dụ: \'Serve vào T + approach
-forehand + volley\' là một pattern cụ thể cần được drilled như một đơn
+drill các chuỗi chiến thuật hoàn chỉnh. Ví dụ: 'Serve vào T + approach
+forehand + volley' là một pattern cụ thể cần được drilled như một đơn
 vị không thể tách rời --- không phải serve riêng, approach riêng, volley
 riêng. Bằng cách luyện tập toàn bộ chuỗi chiến thuật liên tục, não bộ mã
-hóa nó như một \'chunk\' chiến thuật thống nhất trong hạch nền, sẵn sàng
+hóa nó như một 'chunk' chiến thuật thống nhất trong hạch nền, sẵn sàng
 để triển khai tự động trong thi đấu.
 
 **12.4. Đọc Đối Thủ --- Thần Kinh Học Của Scouting**
@@ -1951,26 +1951,26 @@ dạng pattern (từ hạch nền), học tập trong trận đấu (từ hippoc
 điều chỉnh chiến lược (từ PFC).
 
 Điều thú vị là nghiên cứu chỉ ra rằng não bộ của vận động viên kinh
-nghiệm thực hiện \'đọc đối thủ\' một cách phần lớn tiền ý thức và liên
+nghiệm thực hiện 'đọc đối thủ' một cách phần lớn tiền ý thức và liên
 tục, ngay cả khi vận động viên không chủ động phân tích. Hệ thống thần
-kinh liên tục theo dõi và cập nhật các ước tính xác suất: \'sau pattern
+kinh liên tục theo dõi và cập nhật các ước tính xác suất: 'sau pattern
 serve rộng, đối thủ này thường theo bóng vào lưới với tần suất bao
-nhiêu?\', \'khi bị đẩy ra backhand corner, đối thủ thường down-the-line
-bao nhiêu phần trăm?\'. Những ước tính này được cập nhật mỗi điểm và ảnh
+nhiêu?', 'khi bị đẩy ra backhand corner, đối thủ thường down-the-line
+bao nhiêu phần trăm?'. Những ước tính này được cập nhật mỗi điểm và ảnh
 hưởng đến các phản ứng chiến thuật ở cấp độ tiền ý thức --- vận động
-viên \'cảm thấy đúng\' khi đi một hướng mà không biết tại sao.
+viên 'cảm thấy đúng' khi đi một hướng mà không biết tại sao.
 
-+---------------------------------------------------------------------+
-| **▶ Chiến lược thực tiễn: Pre-match scouting**                      |
-|                                                                     |
-| Trước mỗi trận đấu quan trọng, dành 15-20 phút xem video đối thủ    |
+| **▶ Chiến lược thực tiễn: Pre-match scouting** |
+| --- |
+|  |
+| Trước mỗi trận đấu quan trọng, dành 15-20 phút xem video đối thủ |
 | với mục đích cụ thể: xác định 3-4 pattern chiến thuật phổ biến nhất |
-| của họ và phản ứng tối ưu. Viết ra (không chỉ suy nghĩ) --- não bộ  |
-| mã hóa thông tin viết sâu hơn. Sau đó, trong khởi động trước trận,  |
-| \'kích hoạt\' các pattern này bằng cách hình dung tình huống và     |
-| phản ứng. Điều này cài đặt sẵn các phản ứng chiến thuật vào bộ nhớ  |
-| làm việc, sẵn sàng để triển khai nhanh hơn trong trận đấu thực sự.  |
-+---------------------------------------------------------------------+
+| của họ và phản ứng tối ưu. Viết ra (không chỉ suy nghĩ) --- não bộ |
+| mã hóa thông tin viết sâu hơn. Sau đó, trong khởi động trước trận, |
+| 'kích hoạt' các pattern này bằng cách hình dung tình huống và |
+| phản ứng. Điều này cài đặt sẵn các phản ứng chiến thuật vào bộ nhớ |
+| làm việc, sẵn sàng để triển khai nhanh hơn trong trận đấu thực sự. |
+
 
 **12.5. Khi Chiến Thuật Gặp Áp Lực --- Cognitive Load Và Quyết Định Đơn
 Giản Hóa**
@@ -1982,11 +1982,11 @@ Chiến thuật phức tạp được thiết kế trong phòng tập lạnh l�
 thể được thực thi hiệu quả trong set cuối của một trận đấu căng thẳng.
 
 Giải pháp thần kinh học: xây dựng một hệ thống chiến thuật đơn giản hóa
-cho tình huống áp lực cao. Gọi đây là \'Emergency Tactical Protocol\'
+cho tình huống áp lực cao. Gọi đây là 'Emergency Tactical Protocol'
 --- 2-3 pattern chiến thuật cực kỳ đơn giản, đã được luyện tập đến mức
 hoàn toàn tự động, mà vận động viên có thể chạy mà không cần tư duy PFC
-đáng kể. Ví dụ: \'phục vụ vào T, và đặt bóng tiếp theo vào forehand đối
-thủ\' là đủ đơn giản để thực hiện khi não bộ đang trong trạng thái áp
+đáng kể. Ví dụ: 'phục vụ vào T, và đặt bóng tiếp theo vào forehand đối
+thủ' là đủ đơn giản để thực hiện khi não bộ đang trong trạng thái áp
 lực cao. Khi áp lực giảm, vận động viên có thể chuyển sang chiến thuật
 phức tạp hơn. Tư duy càng đơn giản, thực thi càng nhất quán.
 
@@ -2018,8 +2018,8 @@ rằng cơ thể đang trong nguy hiểm và cần bảo vệ. Đây là sự kh
 trọng vì nó giải thích nhiều hiện tượng: vận động viên tiếp tục thi đấu
 với chấn thương nghiêm trọng trong adreneline (não bộ ưu tiên sinh tồn
 hơn bảo vệ), đau mãn tính có thể tiếp tục lâu sau khi mô đã lành hoàn
-toàn (não bộ vẫn \'nhớ\' mối đe dọa), và đau có thể bị điều chỉnh đáng
-kể bởi bối cảnh tâm lý (điều này không có nghĩa đau là \'chỉ trong đầu\'
+toàn (não bộ vẫn 'nhớ' mối đe dọa), và đau có thể bị điều chỉnh đáng
+kể bởi bối cảnh tâm lý (điều này không có nghĩa đau là 'chỉ trong đầu'
 --- nó hoàn toàn thực tế, nhưng bị hình thành bởi não bộ).
 
 Đối với vận động viên tennis, hàm ý quan trọng là: phục hồi chấn thương
@@ -2045,7 +2045,7 @@ vi chuyển động bảo vệ, và giảm hiệu suất tổng thể.
 pháp thần kinh học là graded exposure (tiếp xúc có cấp độ) --- tiếp cận
 dần dần chuyển động gây lo lắng trong môi trường an toàn và có kiểm
 soát, bắt đầu từ mức độ kích thích lo âu thấp nhất và tăng dần. Điều này
-từ từ \'xóa\' liên kết lo âu thần kinh và xây dựng lại mối quan hệ bình
+từ từ 'xóa' liên kết lo âu thần kinh và xây dựng lại mối quan hệ bình
 thường và tự tin với chuyển động.
 
 **13.3. Neuroimaging Insights --- Những Gì Não Bộ Trải Qua Sau Chấn
@@ -2063,8 +2063,8 @@ khiển vận động.
 Quan trọng nhất: những thay đổi não bộ này không tự động đảo ngược khi
 mô lành. Một số vận động viên vẫn có những thay đổi này nhiều tháng sau
 khi các xét nghiệm y tế xác nhận lành hoàn toàn. Điều này giải thích tại
-sao \'clearance y tế\' không đồng nghĩa với \'sẵn sàng thi đấu ở mức cao
-nhất\'. Phục hồi não bộ cần thêm thời gian và can thiệp chủ động hơn
+sao 'clearance y tế' không đồng nghĩa với 'sẵn sàng thi đấu ở mức cao
+nhất'. Phục hồi não bộ cần thêm thời gian và can thiệp chủ động hơn
 phục hồi mô.
 
 **13.4. Giao Thức Phục Hồi Thần Kinh Học --- Bốn Giai Đoạn**
@@ -2086,7 +2086,7 @@ thụ cảm proprioceptive trong khớp và dây chằng. Giai đoạn này tậ
 vào tái luyện tập proprioception của khu vực bị chấn thương: bài tập
 joint position sense, bài tập balance với thách thức dần dần, và bài tập
 phân biệt lực (force discrimination) để tái hiệu chỉnh cảm nhận lực của
-khu vực bị chấn thương. Đây không phải là \'phục hồi thể lực\' mà là
+khu vực bị chấn thương. Đây không phải là 'phục hồi thể lực' mà là
 phục hồi chức năng thần kinh cảm giác.
 
 **Giai Đoạn 3: Tái Tích Hợp Vận Động (Tuần 4-10)**
@@ -2117,7 +2117,7 @@ tennis và cũng là ví dụ điển hình về tương tác phức tạp giữ
 mô và thần kinh hóa đau. Mặc dù tên gọi gợi ý vấn đề cơ học đơn giản của
 khuỷu tay, nghiên cứu thần kinh học hiện đại chỉ ra rằng tennis elbow
 mãn tính liên quan đến thay đổi trong cách não bộ xử lý thông tin cảm
-giác từ khuỷu tay --- một dạng \'sensitization thần kinh trung ương\'.
+giác từ khuỷu tay --- một dạng 'sensitization thần kinh trung ương'.
 
 Can thiệp thần kinh học hiệu quả bao gồm: motor control retraining (tái
 huấn luyện điều khiển vận động) để giảm tải trọng mô bằng cách cải thiện
@@ -2151,13 +2151,13 @@ Parma là một trong những khám phá quan trọng nhất của thần kinh h
 kỷ 20. Tế bào thần kinh gương là các tế bào thần kinh đặc biệt trong vỏ
 não vận động kích hoạt không chỉ khi thực hiện một hành động mà còn khi
 quan sát người khác thực hiện hành động tương tự. Thực sự, các tế bào
-này hoạt động \'như thể\' chính người quan sát đang thực hiện hành động.
+này hoạt động 'như thể' chính người quan sát đang thực hiện hành động.
 
 Đối với coaching tennis, điều này có ý nghĩa cách mạng. Khi vận động
 viên quan sát coach demo một cú đánh, không chỉ vùng thị giác của não bộ
 được kích hoạt mà cả vùng vận động --- đặc biệt là các vùng tương ứng
-với chuyển động được quan sát. Não bộ của vận động viên đang \'thực hành
-tinh thần\' cú đánh trong khi quan sát. Điều này có nghĩa là: demo của
+với chuyển động được quan sát. Não bộ của vận động viên đang 'thực hành
+tinh thần' cú đánh trong khi quan sát. Điều này có nghĩa là: demo của
 coach KHÔNG BAO GIỜ là trung lập --- mỗi demo là một bài học thần kinh
 học trực tiếp. Chất lượng, rõ ràng và sự thích hợp của demo ảnh hưởng
 trực tiếp đến chất lượng mô hình thần kinh vận động được xây dựng trong
@@ -2169,17 +2169,17 @@ Phản hồi (feedback) của coach là công cụ mạnh nhất để định h
 trình học vận động, nhưng cũng là công cụ dễ bị lạm dụng nhất. Nghiên
 cứu motor learning về feedback rõ ràng: quá nhiều feedback có thể thực
 sự làm chậm học tập dài hạn, mặc dù nó cải thiện hiệu suất ngắn hạn
-trong buổi tập. Hiện tượng này được gọi là \'guidance hypothesis\': phản
+trong buổi tập. Hiện tượng này được gọi là 'guidance hypothesis': phản
 hồi liên tục hướng dẫn vận động viên đến câu trả lời đúng nhưng ngăn họ
 phát triển các cơ chế tự phát hiện lỗi nội tại.
 
 Khuyến nghị dựa trên khoa học thần kinh: reduced frequency feedback
 (giảm tần suất phản hồi) thường hiệu quả hơn constant feedback cho học
-tập dài hạn. Một framework hữu ích là \'faded feedback\' --- phản hồi
+tập dài hạn. Một framework hữu ích là 'faded feedback' --- phản hồi
 sau mỗi lần thực hành trong giai đoạn đầu, sau đó giảm dần còn sau mỗi 3
 lần, sau đó mỗi 5 lần, cuối cùng chỉ khi vận động viên yêu cầu. Phản hồi
-có hỏi (\'bạn cảm thấy điều gì trong cú đó?\') hiệu quả hơn phản hồi nói
-(\'cánh tay của bạn ở sai vị trí\') vì nó kích hoạt hệ thống tự phát
+có hỏi ('bạn cảm thấy điều gì trong cú đó?') hiệu quả hơn phản hồi nói
+('cánh tay của bạn ở sai vị trí') vì nó kích hoạt hệ thống tự phát
 hiện lỗi thay vì cung cấp thông tin từ bên ngoài.
 
 **14.3. Ngôn Ngữ Của Coaching --- Metaphor, Imagery Và Thần Kinh Học**
@@ -2188,10 +2188,10 @@ Cách coach sử dụng ngôn ngữ có ảnh hưởng sâu sắc đến quá tr
 kinh của vận động viên. Metaphor và imagery trong ngôn ngữ coaching kích
 hoạt các vùng não bộ liên quan đến ý nghĩa cụ thể đó --- không phải chỉ
 vùng xử lý ngôn ngữ trừu tượng. Ví dụ kinh điển: yêu cầu vận động viên
-\'quét bóng lên như súng nước\' cho topspin forehand kích hoạt kinh
+'quét bóng lên như súng nước' cho topspin forehand kích hoạt kinh
 nghiệm xúc giác và vận động của việc vận hành súng nước, tạo ra mẫu vận
-động gần với cú đánh đúng hơn là \'xoay vợt từ thấp lên cao với
-pronation\'. Ngôn ngữ cụ thể, cảm giác và liên quan đến kinh nghiệm sống
+động gần với cú đánh đúng hơn là 'xoay vợt từ thấp lên cao với
+pronation'. Ngôn ngữ cụ thể, cảm giác và liên quan đến kinh nghiệm sống
 của vận động viên tạo ra học tập thần kinh sâu hơn.
 
 Ngoài ra, ngôn ngữ với emotional valence (giá trị cảm xúc) tích cực kích
@@ -2216,9 +2216,9 @@ swing, và điểm tiếp xúc với bóng.
 Hướng dẫn thực tiễn: khi demo, không demo quá nhanh đến mức các điểm
 chuyển tiếp quan trọng bị mờ đi. Demo ở tốc độ bình thường là tốt, nhưng
 sau đó demo chậm lại ở các điểm chuyển tiếp chính. Sử dụng verbal cue để
-hướng sự chú ý của vận động viên đến điểm cụ thể: \'chú ý điểm tiếp
-xúc\' ngay trước khi đến điểm đó. Điều này tối ưu hóa những gì hệ thống
-mirror neuron của vận động viên \'học\' từ demo.
+hướng sự chú ý của vận động viên đến điểm cụ thể: 'chú ý điểm tiếp
+xúc' ngay trước khi đến điểm đó. Điều này tối ưu hóa những gì hệ thống
+mirror neuron của vận động viên 'học' từ demo.
 
 **14.5. Coaching Under Pressure --- Thần Kinh Học Của Huấn Luyện Trong
 Thi Đấu**
@@ -2299,7 +2299,7 @@ học cách tự điều chỉnh trạng thái thần kinh. Trong một phiên
 neurofeedback tennis điển hình: vận động viên đeo EEG headset và quan
 sát màn hình hiển thị trạng thái não bộ của mình theo thời gian thực.
 Khi sóng alpha tăng (thể hiện trạng thái thư giãn tập trung), một tín
-hiệu thưởng được phát ra. Mục tiêu là học cách \'tạo ra\' trạng thái
+hiệu thưởng được phát ra. Mục tiêu là học cách 'tạo ra' trạng thái
 thần kinh mong muốn theo ý chí.
 
 Các nghiên cứu trên vận động viên bắn cung, golf và bắn súng đã cho thấy
@@ -2318,7 +2318,7 @@ Virtual Reality (VR) đang trở thành một công cụ huấn luyện thần k
 cực kỳ tiềm năng cho tennis. Môi trường VR cho phép tạo ra các tình
 huống thi đấu cực kỳ thực tế mà không cần sân tenis, đối thủ, hay thậm
 chí vợt thực sự. Từ góc nhìn thần kinh học, điều quan trọng là: khi đủ
-\'nhập vai\' (immersive), VR kích hoạt nhiều cùng mạng lưới thần kinh
+'nhập vai' (immersive), VR kích hoạt nhiều cùng mạng lưới thần kinh
 như khi trải nghiệm tình huống thực sự.
 
 Ứng dụng huấn luyện thần kinh với VR trong tennis: cue reading training
@@ -2395,7 +2395,7 @@ bình thường do cường độ xử lý nhận thức tăng cao, mà còn b�
 bởi sự giảm glucose máu (hypoglycemia) nếu dinh dưỡng không được quản lý
 đúng. Khi glucose não giảm chỉ 10-15%, khả năng ra quyết định, kiểm soát
 xung động và xử lý thông tin thị giác bắt đầu suy giảm đáng kể ---
-thường trước khi vận động viên cảm thấy \'đói\' về mặt thể chất.
+thường trước khi vận động viên cảm thấy 'đói' về mặt thể chất.
 
 Điều này có hàm ý quan trọng cho chiến lược dinh dưỡng trong thi đấu:
 không chờ đến khi cảm thấy đói để ăn/uống bổ sung. Tần suất tiêu thụ
@@ -2414,7 +2414,7 @@ màng tế bào thần kinh. DHA chiếm gần 40% các chất béo không bão 
 trong não bộ và đóng vai trò thiết yếu trong tính linh hoạt và tính thấm
 của màng tế bào thần kinh --- điều kiện trực tiếp ảnh hưởng đến tốc độ
 truyền tín hiệu thần kinh. Não bộ giàu DHA truyền tín hiệu nhanh hơn,
-hiệu quả hơn và ít \'nhiễu\' hơn.
+hiệu quả hơn và ít 'nhiễu' hơn.
 
 Ngoài vai trò cấu trúc, omega-3 còn có đặc tính chống viêm mạnh mẽ liên
 quan đến não bộ. Viêm thần kinh mãn tính (neuroinflammation) là một
@@ -2491,7 +2491,7 @@ muộn trong ngày để không ảnh hưởng đến giấc ngủ phục hồi 
 Nếu được phép chọn một thay đổi lối sống duy nhất có tác động lớn nhất
 đến hiệu suất thần kinh tennis, đó sẽ là tối ưu hóa giấc ngủ. Trong giấc
 ngủ, não bộ thực hiện các quá trình không thể thay thế: glymphatic
-clearance (hệ thống \'dọn dẹp\' não bộ hoạt động chủ yếu trong giấc ngủ,
+clearance (hệ thống 'dọn dẹp' não bộ hoạt động chủ yếu trong giấc ngủ,
 loại bỏ các chất thải chuyển hóa tích lũy trong ngày), memory
 consolidation của kỹ năng vận động mới học, tái cân bằng
 neurotransmitter, và sửa chữa tế bào thần kinh. Thiếu ngủ không thể được
@@ -2585,7 +2585,7 @@ chứng về tác động bảo vệ thần kinh của tập luyện thể thao 
 là các môn thể thao đòi hỏi kỹ năng cao như tennis --- đối với lão hóa
 não bộ. Không phải tất cả bài tập đều như nhau: các bài tập aerobic đơn
 giản (chạy bộ, đạp xe) cải thiện sức khỏe tim mạch não và tăng BDNF
-(brain-derived neurotrophic factor --- \'phân bón\' của não bộ). Nhưng
+(brain-derived neurotrophic factor --- 'phân bón' của não bộ). Nhưng
 các môn thể thao đòi hỏi kỹ năng phức tạp như tennis thêm vào đó sự phát
 triển liên tục của mạng lưới thần kinh phức tạp, duy trì active
 neuroplasticity và ngăn ngừa cognitive decline.
@@ -2691,7 +2691,7 @@ Tiến Bộ)**
 Theo dõi tiến bộ trong huấn luyện thần kinh đòi hỏi các metrics khác với
 huấn luyện thể lực truyền thống. Các chỉ số có thể theo dõi thực tiễn
 bao gồm: phạm vi chuyển động đầu trước và sau neural warm-up (chỉ số
-gián tiếp của mức độ \'đe dọa\' thần kinh), thời gian phản ứng trong
+gián tiếp của mức độ 'đe dọa' thần kinh), thời gian phản ứng trong
 reaction drills (có thể đo bằng ứng dụng điện thoại đơn giản), tỷ lệ lỗi
 không lực (unforced errors) trong match play --- chỉ số nhạy cảm về chất
 lượng xử lý thần kinh, và self-report về chất lượng giấc ngủ, mức năng
@@ -2700,7 +2700,7 @@ lượng và focus (dùng HRV morning measurement nếu có thiết bị).
 Journal huấn luyện thần kinh học: khuyến khích vận động viên duy trì một
 journal ngắn (5 phút sau mỗi buổi tập) ghi lại: trạng thái thần kinh
 trước buổi tập, một điểm nổi bật về thần kinh trong buổi tập (cú đánh
-nào flow nhất? Khi nào cảm thấy \'tắt\' nhất?), và một insight về tâm lý
+nào flow nhất? Khi nào cảm thấy 'tắt' nhất?), và một insight về tâm lý
 thần kinh (bài học về phản ứng với áp lực, sự chú ý, hoặc trạng thái
 tinh thần). Theo thời gian, journal này trở thành một nguồn tài nguyên
 vô giá để nhận diện patterns về điều kiện tối ưu cho hiệu suất cá nhân.
@@ -2750,8 +2750,8 @@ tập với stress inoculation có hệ thống --- tăng dần các yếu tố 
 vào môi trường luyện tập (điểm số, time pressure, khán giả, hệ quả có ý
 nghĩa). Mục tiêu: make practice feel more like competition, make
 competition feel more like practice. Thứ hai, xây dựng pre-match routine
-mạnh mẽ để chuẩn bị trạng thái thần kinh tối ưu --- tạo ra \'neural
-bridge\' giữa luyện tập và thi đấu. Thứ ba, training external focus mạnh
+mạnh mẽ để chuẩn bị trạng thái thần kinh tối ưu --- tạo ra 'neural
+bridge' giữa luyện tập và thi đấu. Thứ ba, training external focus mạnh
 mẽ để ức chế reinvestment dưới áp lực. Thứ tư, nếu vấn đề nghiêm trọng,
 cân nhắc cognitive behavioral techniques hoặc acceptance and commitment
 therapy (ACT) để giảm cognitive anxiety.
@@ -2762,7 +2762,7 @@ Lực**
 Serve inconsistency dưới áp lực là biểu hiện của quá trình reinvestment
 tập trung vào kỹ năng cụ thể nhất. Phân tích thần kinh học: khi áp lực
 tăng, PFC can thiệp vào quá trình serve tự động của hạch nền. Vận động
-viên bắt đầu \'conscious control\' của toss, swing path, contact point
+viên bắt đầu 'conscious control' của toss, swing path, contact point
 --- điều mà bình thường được thực hiện tự động và mượt mà. Kết quả là
 coordination breakdown và yips-like symptoms.
 
@@ -2771,18 +2771,18 @@ hầu hết trường hợp, serve inconsistency bắt đầu từ toss không n
 buộc não bộ phải điều chỉnh real-time. Đánh giá toss dưới stress: vận
 động viên toss như thế nào khi có áp lực điểm score? Nếu toss thay đổi,
 đây là điểm can thiệp đầu tiên. Thứ hai, thiết kế pre-serve routine mạnh
-mẽ với external focus cue (\'đặt bóng vào góc T\' thay vì \'chuyển động
-cánh tay đúng\'). Thứ ba, cognitive loading technique: trong luyện tập
+mẽ với external focus cue ('đặt bóng vào góc T' thay vì 'chuyển động
+cánh tay đúng'). Thứ ba, cognitive loading technique: trong luyện tập
 áp lực, yêu cầu vận động viên đồng thời thực hiện một nhiệm vụ thứ cấp
-nhỏ (ví dụ đếm ngược từ 10) trong khi serve --- điều này \'bận\' PFC và
+nhỏ (ví dụ đếm ngược từ 10) trong khi serve --- điều này 'bận' PFC và
 ngăn nó can thiệp vào hạch nền.
 
-**19.3. Tình Huống 3: Vận Động Viên Bị \'Frozen\' Trong Break Point Quan
+**19.3. Tình Huống 3: Vận Động Viên Bị 'Frozen' Trong Break Point Quan
 Trọng**
 
 Freeze response dưới áp lực cao là biểu hiện của amygdala hijack ---
-amygdala kích hoạt quá mạnh đến mức PFC và hệ thống vận động bị \'đóng
-băng\'. Phân tích thần kinh học: đây là biểu hiện cực đoan của phản ứng
+amygdala kích hoạt quá mạnh đến mức PFC và hệ thống vận động bị 'đóng
+băng'. Phân tích thần kinh học: đây là biểu hiện cực đoan của phản ứng
 đe dọa. Norepinephrine và cortisol ở mức rất cao, blood flow đến PFC
 giảm nghiêm trọng, và vận động viên bị kẹt trong loop lo lắng mà không
 có lối ra. Không phải là thiếu kỹ năng hay thiếu nỗ lực --- đây là phản
@@ -2792,11 +2792,11 @@ thể.
 Giải pháp thần kinh học: can thiệp cấp tính trong tình huống --- yêu cầu
 vận động viên thực hiện một hành động thể chất dứt khoát và có ý nghĩa
 ngay lập tức (bước đi về sau đường biên, nhìn lên bầu trời trong 3
-giây). Hành động thể chất có chủ ý làm \'ngắt\' vòng lặp amygdala và tái
+giây). Hành động thể chất có chủ ý làm 'ngắt' vòng lặp amygdala và tái
 kích hoạt PFC. Sau đó áp dụng breathing protocol (thở 4-7-8). Về lâu
 dài: cần chương trình stress inoculation intensive với exposure therapy
 từ từ vào các tình huống break point trong luyện tập, kết hợp với
-cognitive reframing (\'đây là cơ hội\'). Cần 6-12 tuần luyện tập nhất
+cognitive reframing ('đây là cơ hội'). Cần 6-12 tuần luyện tập nhất
 quán để tái lập trình phản ứng amygdala.
 
 **19.4. Tình Huống 4: Vận Động Viên Phục Hồi Chậm Sau Chấn Thương**
@@ -2877,9 +2877,9 @@ Một số xu hướng thần kinh học đang nổi lên sẽ định hình cá
 hiểu và huấn luyện tennis trong thập kỷ tới. Xu hướng thứ nhất là
 Precision Neuroscience --- thần kinh học chính xác. Công nghệ ngày càng
 cho phép xây dựng profile thần kinh chi tiết của từng vận động viên.
-Không còn là \'huấn luyện thần kinh cho vận động viên tennis\' mà là
-\'huấn luyện thần kinh cá nhân hóa cho vận động viên A với điểm mạnh-yếu
-thần kinh cụ thể của họ\'. Khi AI kết hợp với dữ liệu thần kinh, khả
+Không còn là 'huấn luyện thần kinh cho vận động viên tennis' mà là
+'huấn luyện thần kinh cá nhân hóa cho vận động viên A với điểm mạnh-yếu
+thần kinh cụ thể của họ'. Khi AI kết hợp với dữ liệu thần kinh, khả
 năng cá nhân hóa này sẽ trở nên gần như vô hạn.
 
 Xu hướng thứ hai là Neuromodulation trong Tennis. Các kỹ thuật
@@ -2906,13 +2906,13 @@ học xã hội (social neuroscience) --- cách não bộ của vận động vi
 đã thảo luận là nền tảng của một khả năng sâu sắc hơn: contagion của
 trạng thái thần kinh. Khi vận động viên ở xung quanh những người thể
 hiện sự tự tin, bình tĩnh và tập trung, hệ thống mirror neuron của họ
-\'bắt chước\' những trạng thái này. Ngược lại, môi trường lo âu, tự nghi
+'bắt chước' những trạng thái này. Ngược lại, môi trường lo âu, tự nghi
 ngờ và tiêu cực cũng lây lan theo cơ chế tương tự.
 
 Hàm ý cho coaching 5.0: không chỉ là coaching cá nhân mà còn là tạo ra
 môi trường thần kinh học tích cực trong toàn bộ đội nhóm tập luyện.
 Trạng thái thần kinh của coach cũng quan trọng --- vận động viên liên
-tục \'đọc\' và phản ánh trạng thái thần kinh của coach. Coach lo lắng
+tục 'đọc' và phản ánh trạng thái thần kinh của coach. Coach lo lắng
 tạo ra vận động viên lo lắng; coach bình tĩnh và tự tin tạo ra môi
 trường thần kinh học thuận lợi hơn cho học tập và hiệu suất. Đây là một
 trách nhiệm thần kinh học của coaching mà ít người thảo luận nhưng tác
@@ -2938,8 +2938,8 @@ thế được mối quan hệ coaching tốt.
 
 Sau khi đọc cuốn sách này, bạn --- một coach 5.0 có kinh nghiệm --- giờ
 đây có một toolkit thần kinh học mạnh mẽ mà hầu hết các đồng nghiệp của
-bạn chưa có. Câu hỏi quan trọng không phải là \'liệu khoa học thần kinh
-có hữu ích cho huấn luyện tennis không\' --- câu trả lời rõ ràng là có.
+bạn chưa có. Câu hỏi quan trọng không phải là 'liệu khoa học thần kinh
+có hữu ích cho huấn luyện tennis không' --- câu trả lời rõ ràng là có.
 Câu hỏi là: bạn sẽ bắt đầu từ đâu?
 
 Đề xuất điểm khởi đầu cụ thể và thực tiễn: trong tuần tới, thực hiện
@@ -2973,20 +2973,20 @@ nhiệm và đặc quyền cao đẹp của coaching tennis hiện đại. Và �
 tại sao kiến thức trong cuốn sách này không chỉ là về tennis --- mà là
 về khoa học của con người hoạt động tốt nhất có thể.
 
-+---------------------------------------------------------------------+
-| **▶ Lời kết của Chuyên gia Thần Kinh Học**                          |
-|                                                                     |
-| Hành trình 20 chương này chỉ là sự khởi đầu. Thần kinh học là một   |
-| lĩnh vực đang phát triển nhanh chóng đến mức nhiều điều chúng ta    |
-| biết hôm nay sẽ được mở rộng, tinh chỉnh và đôi khi thay đổi trong  |
+| **▶ Lời kết của Chuyên gia Thần Kinh Học** |
+| --- |
+|  |
+| Hành trình 20 chương này chỉ là sự khởi đầu. Thần kinh học là một |
+| lĩnh vực đang phát triển nhanh chóng đến mức nhiều điều chúng ta |
+| biết hôm nay sẽ được mở rộng, tinh chỉnh và đôi khi thay đổi trong |
 | vài năm tới. Điều quan trọng nhất tôi muốn để lại với bạn --- người |
-| coach đã đọc đến đây --- là tư duy. Tư duy của một người luôn đặt   |
-| câu hỏi: \'Cơ chế thần kinh đằng sau điều này là gì?\', \'Can thiệp |
-| nào sẽ thực sự di chuyển kim?\', và \'Làm thế nào để tôi đo lường   |
-| tác động?\'. Với tư duy đó, bạn sẽ tiếp tục học hỏi và phát triển   |
-| như một coach thần kinh học --- không chỉ từ sách vở mà từ chính    |
-| những vận động viên tuyệt vời của bạn.                              |
-+---------------------------------------------------------------------+
+| coach đã đọc đến đây --- là tư duy. Tư duy của một người luôn đặt |
+| câu hỏi: 'Cơ chế thần kinh đằng sau điều này là gì?', 'Can thiệp |
+| nào sẽ thực sự di chuyển kim?', và 'Làm thế nào để tôi đo lường |
+| tác động?'. Với tư duy đó, bạn sẽ tiếp tục học hỏi và phát triển |
+| như một coach thần kinh học --- không chỉ từ sách vở mà từ chính |
+| những vận động viên tuyệt vời của bạn. |
+
 
 Cảm ơn bạn đã đồng hành trong hành trình khám phá thần kinh học tennis
 này. Chúc bạn và các vận động viên của bạn luôn tìm thấy trạng thái flow

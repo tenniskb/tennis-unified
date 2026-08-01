@@ -31,7 +31,7 @@ vận động để mỗi cú đánh được xây dựng trên nền tảng th�
 
   \"Đừng đánh bằng tay --- hãy đánh bằng cả hệ thống sống.\"
 
-  \"Don\'t hit with your arm --- hit with your entire living system.\"
+  \"Don't hit with your arm --- hit with your entire living system.\"
 
   Mỗi cú đánh là bài toán vật lý: Lực từ đất (GRF) → Xoắn thân (SSC) →
   Core chủ động → Tay chỉ là đầu roi.
@@ -82,7 +82,7 @@ không phải là đôi mắt, không phải cánh tay --- mà là Hệ Thần K
 
 **1.1 Hai Chế Độ Nhìn**
 
-Lỗi phổ biến nhất của người chơi nghiệp dư: cố \'dán mắt vào bóng\'.
+Lỗi phổ biến nhất của người chơi nghiệp dư: cố 'dán mắt vào bóng'.
 Thực tế, mắt người không đủ tốc độ để theo dõi bóng bay 100--180 km/h.
 Não mới là thứ tính toán quỹ đạo.
 
@@ -99,7 +99,7 @@ Não mới là thứ tính toán quỹ đạo.
   Mắt mềm, thả lỏng --- không chằm    Sau đó thả mắt, để VOR giữ đầu yên
   chằm                                
 
-  Cho phép não thu thập dữ liệu từ    Não tự điền vào \'điểm mù\' (blind
+  Cho phép não thu thập dữ liệu từ    Não tự điền vào 'điểm mù' (blind
   nhiều nguồn                         spot)
   ----------------------------------- -----------------------------------
 
@@ -112,7 +112,7 @@ hơn:
 
 - Blind Spot --- não tự điền khi mắt không theo kịp
 
-- Âm thanh --- tiếng \'póc\' đến tai nhanh hơn hình ảnh đến mắt
+- Âm thanh --- tiếng 'póc' đến tai nhanh hơn hình ảnh đến mắt
 
 - Proprioception --- cảm giác áp lực từ bàn chân và cán vợt
 
@@ -140,12 +140,12 @@ rung chuyển trong lúc di chuyển. Để VOR hoạt động hiệu quả:
 
 **1.4 Core --- Não Thứ Hai**
 
-Thalamus là \'Central Processing Unit\' --- lọc mọi tín hiệu trước khi
+Thalamus là 'Central Processing Unit' --- lọc mọi tín hiệu trước khi
 lên não. Muscle Spindles trong cơ bắp liên tục gửi dữ liệu về độ căng.
 Khi core ổn định, thalamus xử lý nhanh hơn.
 
 Mục tiêu cuối cùng là Automaticity --- cơ thể tự chạy mà không cần ý
-thức điều khiển từng bước. Đây là trạng thái \'vùng\' (flow state) mà
+thức điều khiển từng bước. Đây là trạng thái 'vùng' (flow state) mà
 mọi vận động viên giỏi đều hướng tới.
 
   ----------------------- ----------------------- -----------------------
@@ -154,7 +154,7 @@ mọi vận động viên giỏi đều hướng tới.
   Hình ảnh tư thế         Mắt (Broad View)        Đọc hướng vai đối thủ
                                                   trước khi đánh
 
-  Âm thanh                Tai                     Nghe \'póc\' để biết
+  Âm thanh                Tai                     Nghe 'póc' để biết
                                                   xoáy hay flat
 
   Cảm giác chân           Muscle Spindles         Biết trọng tâm đang ở
@@ -170,7 +170,7 @@ mọi vận động viên giỏi đều hướng tới.
   1\. Đứng trước gương, nhún nhẹ tại chỗ 30 giây. Giữ đầu HOÀN TOÀN thẳng
   dù người đang nhún.
 
-  2\. Tập \'Broad View\': nhìn vào một điểm ở giữa gương, nhưng chú ý cả
+  2\. Tập 'Broad View': nhìn vào một điểm ở giữa gương, nhưng chú ý cả
   hai bên ngoại vi.
 
   3\. Đóng mắt, cầm vợt, cảm nhận áp lực từng ngón tay trên cán. Đây là
@@ -182,16 +182,16 @@ mọi vận động viên giỏi đều hướng tới.
 
 **CHƯƠNG 2: FOOTWORK --- DI CHUYỂN THÔNG MINH**
 
-Di chuyển không phải là \'chạy tới bóng\'. Đó là nghệ thuật luôn ở trạng
+Di chuyển không phải là 'chạy tới bóng'. Đó là nghệ thuật luôn ở trạng
 thái sẵn sàng, tiêu thụ ít năng lượng nhất mà phản ứng nhanh nhất. Với
 người chơi trung niên, di chuyển thông minh quan trọng hơn di chuyển
 nhanh.
 
-**2.1 Nguyên Lý Nền Tảng --- \'Đạp Xe\' Liên Tục**
+**2.1 Nguyên Lý Nền Tảng --- 'Đạp Xe' Liên Tục**
 
 Người chơi nghiệp dư thường đứng yên 2 chân phẳng rồi mới bật đi --- mất
 0,3--0,4 giây quý báu. Nguyên lý đúng: cơ thể luôn ở trạng thái
-\'idling\', giống đạp xe tại chỗ.
+'idling', giống đạp xe tại chỗ.
 
   -----------------------------------------------------------------------
   **QUY TẮC 1 CHÂN**
@@ -210,7 +210,7 @@ thăng bằng --- đặc biệt quan trọng ở tuổi trung niên khi chơi s�
 
 **2.2 Split Step --- Công Tắc Khởi Động Thần Kinh**
 
-Split step không phải nhảy cao --- đó là một \'hop\' nhỏ nhún nhẹ ngay
+Split step không phải nhảy cao --- đó là một 'hop' nhỏ nhún nhẹ ngay
 khi đối thủ chuẩn bị chạm vợt vào bóng. Mục đích: kích hoạt Hệ Thần Kinh
 Trung Ương, đặt cơ thể vào trạng thái sẵn sàng.
 
@@ -220,8 +220,8 @@ Trung Ương, đặt cơ thể vào trạng thái sẵn sàng.
   Khi vợt đối thủ bắt đầu Khuỵu gối nhẹ, 2 cẳng   Như lò xo nén sẵn sàng
   vung về phía trước      chân hạ xuống           bung
 
-  KHÔNG đợi tiếng \'póc\' Trọng tâm dồn lên mũi   Cảm giác
-                          chân                    \'compression\' ở đùi
+  KHÔNG đợi tiếng 'póc' Trọng tâm dồn lên mũi   Cảm giác
+                          chân                    'compression' ở đùi
 
   Tiếp đất bằng mũi chân, Gối hướng xuống (không  Nhẹ và thấp, không ầm ĩ
   không bằng gót          ra ngoài)               
@@ -233,13 +233,13 @@ sàng (split step) + 200ms để thực thi cú đánh. Thiếu split step = thi
 
 **2.3 Di Chuyển Ngang --- Lateral Step**
 
-Khi bóng rộng sang hai bên, dùng kỹ thuật lateral hop thay vì \'crab
-walk\' (bước ngang kiểu cua):
+Khi bóng rộng sang hai bên, dùng kỹ thuật lateral hop thay vì 'crab
+walk' (bước ngang kiểu cua):
 
 8.  Lateral hop --- tiếp đất bằng chân ngoài (chân phải với bóng sang
     phải)
 
-9.  Drop step --- hạ người xuống như lò xo nén, cảm giác \'compression\'
+9.  Drop step --- hạ người xuống như lò xo nén, cảm giác 'compression'
 
 10. Cross-over step --- bước chân trong vượt qua để lấy đà nếu cần
 
@@ -268,8 +268,8 @@ Tay không chờ chân tới vị trí mới mới chuẩn bị. Ngay trong spli
 tay đã bắt đầu xoay nhẹ ra sau để chuẩn bị. Mượt và nhanh --- không giật
 cục.
 
-- Toàn thân luôn trong chuyển động nhẹ (idling): tay + chân cùng \'đạp
-  xe\'
+- Toàn thân luôn trong chuyển động nhẹ (idling): tay + chân cùng 'đạp
+  xe'
 
 - Khi di chuyển ngang, giữ đầu vợt gần thân người --- tránh vung vợt ra
   sau sớm
@@ -307,7 +307,7 @@ cục.
 
 **CHƯƠNG 3: FOREHAND --- CÚ ĐÁNH TAY THUẬN**
 
-Forehand là cú đánh mà người chơi dễ \'giết bóng\' nhất --- và cũng là
+Forehand là cú đánh mà người chơi dễ 'giết bóng' nhất --- và cũng là
 nơi lỗi kỹ thuật gây chấn thương nhiều nhất. Chương này xây dựng
 forehand từ nền: hình dạng trước lực, đất trước tay, cảm giác trước kết
 quả.
@@ -316,7 +316,7 @@ quả.
 
 Trước khi bóng tới, hai tay tạo thành hình kim cương (diamond) trước
 ngực. Tay không thuận giữ cổ vợt (throat), tay thuận đặt hờ trên cán.
-Đây là tư thế \'kết nối\' toàn thân.
+Đây là tư thế 'kết nối' toàn thân.
 
   -----------------------------------------------------------------------
   **CHUỖI KẾT NỐI TOÀN THÂN**
@@ -332,7 +332,7 @@ ngực. Tay không thuận giữ cổ vợt (throat), tay thuận đặt hờ tr
 
 **3.2 Nguồn Lực --- GRF và SSC**
 
-Lực mạnh trong tennis không được \'tạo ra\' ở tay. Nó được lấy từ mặt
+Lực mạnh trong tennis không được 'tạo ra' ở tay. Nó được lấy từ mặt
 đất (Ground Reaction Force) và tích trữ qua cơ chế co-giãn đàn hồi
 (Stretch-Shorten Cycle):
 
@@ -347,16 +347,16 @@ Lực mạnh trong tennis không được \'tạo ra\' ở tay. Nó được l�
 17. Lực truyền lên: GRF → hông → core → vai → tay → vợt → bóng
 
 Agentic Core: core không chỉ ổn định thân, mà chủ động xử lý bài toán
-\'bóng đang tới từ hướng nào, cần trả đi đâu\'. Đây là sự khác biệt giữa
+'bóng đang tới từ hướng nào, cần trả đi đâu'. Đây là sự khác biệt giữa
 tennis phản ứng và tennis chủ động.
 
-**3.3 Va Chạm --- Cho Bóng \'Cắn\' Dây**
+**3.3 Va Chạm --- Cho Bóng 'Cắn' Dây**
 
 Bóng không nảy như bi-a. Nó lún vào dây trong 4--5 mili giây rồi bật ra.
 Cú forehand đúng kỹ thuật phải tận dụng thời gian tiếp xúc này.
 
   ----------------------------------- -----------------------------------
-  **ĐÁNH SAI --- \'Giết bóng\'**      **ĐÁNH ĐÚNG --- \'Cứu bóng\'**
+  **ĐÁNH SAI --- 'Giết bóng'**      **ĐÁNH ĐÚNG --- 'Cứu bóng'**
 
   Mặt vợt đóng, vung thẳng xuyên bóng Mặt vợt đứng hoặc hơi mở
 
@@ -371,8 +371,8 @@ Cú forehand đúng kỹ thuật phải tận dụng thời gian tiếp xúc nà
   Vai chịu toàn bộ tải lực            Lực phân tán qua chuỗi động học
   ----------------------------------- -----------------------------------
 
-Cảm giác cần tìm: khi bóng chạm dây, đếm \'một\' trong đầu. Nếu kịp đếm
-= đang \'cứu\'. Nếu không kịp = đang \'giết\'.
+Cảm giác cần tìm: khi bóng chạm dây, đếm 'một' trong đầu. Nếu kịp đếm
+= đang 'cứu'. Nếu không kịp = đang 'giết'.
 
 **3.4 Topspin --- Kiểm Soát, Không Phải Tốc Độ**
 
@@ -412,7 +412,7 @@ mở rộng cửa sổ đó thành hàng chục cm.
 
 - Tiếp xúc ở phần dưới mặt vợt, kéo lên
 
-- Cảm giác: bóng \'cắn\' vào dây, không trượt
+- Cảm giác: bóng 'cắn' vào dây, không trượt
 
 **Follow-through**
 
@@ -420,7 +420,7 @@ mở rộng cửa sổ đó thành hàng chục cm.
 
 - Vai trái kết thúc ở trước ngực
 
-- Không \'ép\' follow-through --- nếu đúng nó tự xảy ra
+- Không 'ép' follow-through --- nếu đúng nó tự xảy ra
 
   -----------------------------------------------------------------------
   **BÀI TẬP FOREHAND --- 15 PHÚT**
@@ -432,9 +432,9 @@ mở rộng cửa sổ đó thành hàng chục cm.
   chuyển. 10 lần mỗi bên.
 
   3\. Wall volley nhẹ: đứng cách tường 3m, chỉ rally chậm. Mục tiêu: nghe
-  dây kêu \'pực\' dài (= bite).
+  dây kêu 'pực' dài (= bite).
 
-  4\. Khi rally: ý định duy nhất là \'cứu bóng vào giữa sân\'. Chưa cần
+  4\. Khi rally: ý định duy nhất là 'cứu bóng vào giữa sân'. Chưa cần
   đánh góc.
   -----------------------------------------------------------------------
 
@@ -442,7 +442,7 @@ mở rộng cửa sổ đó thành hàng chục cm.
 
 Backhand là cú đánh mà đa số người chơi phong trào sợ nhất vì tay không
 thuận, tầm nhìn hạn chế. Nhưng backhand được xây đúng lại thường ổn định
-hơn forehand vì ít bị cám dỗ \'giết bóng\'.
+hơn forehand vì ít bị cám dỗ 'giết bóng'.
 
 **4.1 Hai Lựa Chọn: One-Hand vs Two-Hand**
 
@@ -467,9 +467,9 @@ Với two-hand backhand, cơ chế giống forehand nhưng hướng ngược l�
 
 18. Coil: xoay vai phải (thuận tay phải) ra sau, ngực căng sang phải
 
-19. Tay trái giữ throat nhẹ --- chỉ là \'giá đỡ\', không kéo mạnh
+19. Tay trái giữ throat nhẹ --- chỉ là 'giá đỡ', không kéo mạnh
 
-20. \'Swing up by racquet weight\': trọng lượng đầu vợt tự rơi rồi nảy
+20. 'Swing up by racquet weight': trọng lượng đầu vợt tự rơi rồi nảy
     lên
 
 21. Hip snap: hông mở ra, kéo vai, vai kéo 2 tay
@@ -485,7 +485,7 @@ Với two-hand backhand, cơ chế giống forehand nhưng hướng ngược l�
 
   • Đầu vợt rơi tự do rồi tự bật --- không cần kéo.
 
-  • Contact \'well in front\' --- bóng phải chạm vợt trước thân người.
+  • Contact 'well in front' --- bóng phải chạm vợt trước thân người.
   -----------------------------------------------------------------------
 
 **4.3 Slice Backhand**
@@ -500,7 +500,7 @@ hữu ích để:
 - Làm chậm nhịp khi cần thời gian phục hồi
 
 Kỹ thuật slice: mặt vợt hơi mở (8--12 độ), vợt đi từ cao xuống thấp dưới
-bóng, cảm giác \'cắt\' dưới bóng. Khuỷu tay giữ cao, cổ tay chắc.
+bóng, cảm giác 'cắt' dưới bóng. Khuỷu tay giữ cao, cổ tay chắc.
 
 **4.4 Tư Thế và Cấu Hình Chân**
 
@@ -524,7 +524,7 @@ bóng, cảm giác \'cắt\' dưới bóng. Khuỷu tay giữ cao, cổ tay ch�
   ngực phải. Giữ 3 giây. 15 lần.
 
   2\. Slingshot drill: đứng cách tường 2m, chỉ đầu vợt vào tường
-  (\'point\'), giữ 1 giây, thả cho vợt bật ra.
+  ('point'), giữ 1 giây, thả cho vợt bật ra.
 
   3\. Soft hand drill: cầm vợt lỏng nhất có thể rồi tập swing. Nếu vợt
   không rơi = đang giữ đúng mức.
@@ -537,12 +537,12 @@ bóng, cảm giác \'cắt\' dưới bóng. Khuỷu tay giữ cao, cổ tay ch�
 
 Serve là cú đánh duy nhất bạn hoàn toàn kiểm soát --- không phụ thuộc
 vào đối thủ. Nhưng cũng là cú dễ tập sai nhất vì người chơi thường cố
-\'đập mạnh\' thay vì để cơ thể phát lực tự nhiên.
+'đập mạnh' thay vì để cơ thể phát lực tự nhiên.
 
 **5.1 Triết Lý Serve --- Gravity + Rotation, Không Phải Muscle**
 
 Serve mạnh không đến từ bắp tay. Nó đến từ sự thả lỏng cho trọng lực và
-xoay thân làm việc. Cánh tay là \'con rối\' --- cơ thể là người điều
+xoay thân làm việc. Cánh tay là 'con rối' --- cơ thể là người điều
 khiển.
 
   -----------------------------------------------------------------------
@@ -560,7 +560,7 @@ khiển.
 **5.2 Chuỗi Động Học Serve**
 
 23. Trophy pose: hai tay ngang, bóng tung lên, vợt ở vị trí
-    \'backscratch\' sau lưng
+    'backscratch' sau lưng
 
 24. Controlled falling: để cơ thể đổ nhẹ về phía trước và lên
 
@@ -577,7 +577,7 @@ khiển.
 
 30. Contact: điểm cao nhất bạn với được, cánh tay thẳng tự nhiên
 
-**5.3 Tại Sao \'Loose Arm\' Mạnh Hơn \'Gồng Cơ\'**
+**5.3 Tại Sao 'Loose Arm' Mạnh Hơn 'Gồng Cơ'**
 
 Khi gồng cơ, cơ đối kháng co cùng lúc (co-contraction) --- khớp vai bị
 cứng, không xoay được nhanh. Khi thả lỏng, khớp xoay tự do và tốc độ đầu
@@ -617,13 +617,13 @@ thuật thân trên hoàn hảo:
   **BÀI TẬP SERVE --- 15 PHÚT**
 
   1\. Shadow với khăn: cầm khăn thay vợt, làm đúng vòng pronation. Nghe
-  tiếng \'vút\' cuối swing.
+  tiếng 'vút' cuối swing.
 
   2\. Drill 1-2: 1 = trophy (ngực kéo ra sau), 2 = để hông đẩy, tay rơi
   theo. Không vung chủ động.
 
-  3\. Serve 50% lực: chỉ vào ô serve, tập trung cảm giác \'vợt kéo mình\'
-  thay vì \'mình kéo vợt\'.
+  3\. Serve 50% lực: chỉ vào ô serve, tập trung cảm giác 'vợt kéo mình'
+  thay vì 'mình kéo vợt'.
 
   4\. Toss drill: tập tung bóng 20 lần vào tường ở đúng vị trí --- không
   đánh, chỉ tung và quan sát.
@@ -631,7 +631,7 @@ thuật thân trên hoàn hảo:
 
 **CHƯƠNG 6: VOLLEY --- CÚ ĐÁNH LƯỚI**
 
-Volley không phải cú swing thu nhỏ. Đó là cú \'chặn và đẩy\' bằng toàn
+Volley không phải cú swing thu nhỏ. Đó là cú 'chặn và đẩy' bằng toàn
 thân. Người chơi trung niên có lợi thế đặc biệt ở volley vì nó ưu tiên
 sự ổn định và quyết đoán hơn là tốc độ và sức mạnh.
 
@@ -653,7 +653,7 @@ nguyên nhân số một gây lỗi --- vì không có thời gian.
 **6.2 Cơ Thể Phải Tiến --- Không Ngả Sau**
 
 Lỗi phổ biến nhất ở người chơi trung niên: ngả người ra sau khi bóng tới
-nhanh. Phản xạ này cảm thấy \'an toàn\' nhưng thực ra gây ra mọi vấn đề:
+nhanh. Phản xạ này cảm thấy 'an toàn' nhưng thực ra gây ra mọi vấn đề:
 
   ----------------------------------- -----------------------------------
   **NGẢ SAU (sai)**                   **TIẾN NHẸ (đúng)**
@@ -676,13 +676,13 @@ nhanh. Phản xạ này cảm thấy \'an toàn\' nhưng thực ra gây ra mọi
 
 **6.3 Cấu Trúc Chân --- Bridge Leg**
 
-Hai chân tạo nên nền tảng của volley. Anh gọi đây là \'Bridge Leg\':
+Hai chân tạo nên nền tảng của volley. Anh gọi đây là 'Bridge Leg':
 
 - Chân trước = cầu (bridge): ổn định, chịu lực khi tiếp xúc
 
 - Chân sau = động cơ: đẩy người về phía trước
 
-- Hai chân có \'tension\' (sức căng) liên tục --- không lỏng lẻo
+- Hai chân có 'tension' (sức căng) liên tục --- không lỏng lẻo
 
 - Tư thế: so le 45 độ so với lưới, gối chùng nhẹ
 
@@ -722,7 +722,7 @@ vợt --- không gập lưng:
   20 forehand + 20 backhand.
 
   2\. Bridge leg drill: đặt chân trước lên vạch, chân sau đẩy người tới.
-  Vợt chỉ \'đấm\' 15 cm về trước.
+  Vợt chỉ 'đấm' 15 cm về trước.
 
   3\. Tiến vào bóng: nhờ partner feed bóng, chỉ tập TẾN NHẸ vào bóng
   trước khi chặn.
@@ -734,8 +734,8 @@ vợt --- không gập lưng:
 **CHƯƠNG 7: CHIẾN THUẬT VÀ TỔNG HỢP**
 
 Kỹ thuật tốt nhưng thiếu chiến thuật sẽ không thắng được. Ngược lại,
-chiến thuật thông minh giúp người chơi phong trào trung niên \'thắng
-bằng đầu\' thay vì phải thắng bằng thể lực.
+chiến thuật thông minh giúp người chơi phong trào trung niên 'thắng
+bằng đầu' thay vì phải thắng bằng thể lực.
 
 **7.1 Triết Lý Chiến Thuật Cho Người Trung Niên**
 
@@ -776,7 +776,7 @@ tự mắc lỗi.
 **7.3 Chiến Thuật Đặc Biệt --- Ngụy Trang**
 
 Bí vũ khí của người chơi giàu kinh nghiệm: từ cùng một động tác chuẩn
-bị, cho ra 2 hướng bóng khác nhau. Đây là \'Pause to Disguise\':
+bị, cho ra 2 hướng bóng khác nhau. Đây là 'Pause to Disguise':
 
 31. Chuẩn bị y hệt cho cả 2 hướng (vai xoay, vợt nạp)
 
@@ -838,8 +838,8 @@ Gợi ý cho người chơi phong trào chơi 2--3 buổi/tuần:
 
   • Mỗi buổi chỉ tập trung 1 điều --- đừng cố sửa tất cả cùng lúc.
 
-  • Cảm giác quan trọng hơn hình dạng --- hỏi \'tôi cảm thấy gì?\' chứ
-  không phải \'tôi trông như thế nào?\'
+  • Cảm giác quan trọng hơn hình dạng --- hỏi 'tôi cảm thấy gì?' chứ
+  không phải 'tôi trông như thế nào?'
 
   • Khi mệt: giảm lực, tập trung kỹ thuật. Mệt mà đánh mạnh = tập sai.
 

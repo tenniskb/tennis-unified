@@ -5,13 +5,12 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_the-strategy-zone-return-control/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-return-control/media/image1.webp)
 
 **Is the return of serve the most important shot in tennis?**
 
 In the Strategy Zone system we identify three components in winning
-points: Control, Hurt and Finish. In the last two articles, we\'ve
+points: Control, Hurt and Finish. In the last two articles, we've
 looked at control off the ground and off the serve.
 
 In this article I want to give you two fundamental ideas for
@@ -21,9 +20,9 @@ serve with sharp angle returns.
 
 These two return patterns are underutilized at all levels of play.
 Together they give you the potential for seizing control on more of your
-opponent\'s service points.
+opponent's service points.
 
-In future articles we\'ll continue to build our system by looking at how
+In future articles we'll continue to build our system by looking at how
 you move from control to hurt, and finally to finishing your opponent,
 not only on the return points but in all areas of the game.
 
@@ -35,13 +34,12 @@ all levels of the game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-return-control/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-return-control/media/image2.webp)
 
 **Two secrets of return control: deep neutral zone and sharp angled
 returns.**
 
-Too many players are mesmerized by highlight reel winners. They don\'t
+Too many players are mesmerized by highlight reel winners. They don't
 understand that ***[[building points is a process and that the
 spectacular shots are the natural outcome of that
 process.]{.mark}]{.underline}***
@@ -63,7 +61,7 @@ short because their returns were not at the same level.
 
 When it comes to serving power and speed, the professional game has
 reached a new level. Players like Andy Roddick are consistently serving
-at 140mph and higher. And on the women\'s side, a player like Serena
+at 140mph and higher. And on the women's side, a player like Serena
 Williams is serving at speeds of 120mph.
 
 The speed of the serve has created new and even more difficult
@@ -89,8 +87,7 @@ serve is a huge return.
 
 ![A picture containing sport, athletic game, tennis Description
 automatically
-generated](media_the-strategy-zone-return-control/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-return-control/media/image3.webp)
 
 **Deep returns directly at the server can lead to errors and/or control
 on the next ball.**
@@ -107,8 +104,7 @@ return strategy.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-return-control/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-strategy-zone-return-control/media/image4.webp)
 
 **A deep slice return can neutralize a power server who stays back.**
 
@@ -126,14 +122,13 @@ and right down the center of the court.
 
 **[[The deep neutral zone return is your best chance against a big
 server. It can confuse the server. The serve may be surprised that the
-big bomb is coming back. Since it\'s is coming directly at him, he may
+big bomb is coming back. Since it's is coming directly at him, he may
 also have trouble deciding whether to hit a forehand or a
 backhand.]{.underline}]{.mark}**
 
 ![A picture containing text, person, person, player Description
 automatically
-generated](media_the-strategy-zone-return-control/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-strategy-zone-return-control/media/image5.webp)
 
 **A big server can be forced backwards on the defensive by a deep
 neutral zone return.**
@@ -177,7 +172,7 @@ point from the first ball. Establishing that type of control can lead to
 dominating return games.
 
 This shot is neglected by many players, but the angled return is a shot
-we emphasize everyday at the Academy. On the second serve you can\'t
+we emphasize everyday at the Academy. On the second serve you can't
 just think north and south. You need to take control by moving the
 server, taking him inside the baseline or outside the singles sideline,
 or both.
@@ -223,11 +218,10 @@ Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                          Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-return-control/media/image6.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                    Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-return-control/media/image6.jpeg)                                                                                                                                                    Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                     Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                     academy concept and has watched his vision grow
-                                                                                                                                                                                    for over 30 years into the world\'s premier
+                                                                                                                                                                                    for over 30 years into the world's premier
                                                                                                                                                                                     tennis training ground at IMG Bollettieri in
                                                                                                                                                                                     Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                     collaborated with many of the leading innovators
@@ -235,7 +229,7 @@ Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html)
                                                                                                                                                                                     concepts into training programs at the Academy.\
                                                                                                                                                                                     \
                                                                                                                                                                                     Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                    Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                    Zone, is one of the world's leading analysts of
                                                                                                                                                                                     statistics and strategy, and the Head of
                                                                                                                                                                                     Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                     Academies. Lance was a pioneer in the video
@@ -251,11 +245,10 @@ Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html)
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                          Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-return-control/media/image6.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                    Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-return-control/media/image6.jpeg)                                                                                                                                                    Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                     Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                     academy concept and has watched his vision grow
-                                                                                                                                                                                    for over 30 years into the world\'s premier
+                                                                                                                                                                                    for over 30 years into the world's premier
                                                                                                                                                                                     tennis training ground at IMG Bollettieri in
                                                                                                                                                                                     Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                     collaborated with many of the leading innovators
@@ -263,7 +256,7 @@ Here](http://www.tennisplayer.net/members/strategy/strategy_and_statistics.html)
                                                                                                                                                                                     concepts into training programs at the Academy.\
                                                                                                                                                                                     \
                                                                                                                                                                                     Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                    Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                    Zone, is one of the world's leading analysts of
                                                                                                                                                                                     statistics and strategy, and the Head of
                                                                                                                                                                                     Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                     Academies. Lance was a pioneer in the video

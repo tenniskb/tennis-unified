@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-rally-control/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-strategy-zone-rally-control/media/image1.webp)
 
 **Flat drives, short angles, loops and drop shots: the building
 blocks.**
@@ -22,7 +21,7 @@ use to win matches.
 As the first article explains, winning strategic tennis can be broken
 down into 3 parts or phases: Control, Hurt, and Finish.
 
-In this article, let\'s look more closely at Control, which is the first
+In this article, let's look more closely at Control, which is the first
 phase or building block in our system. **[[\"Control\" means taking
 charge of the point. Control is about stretching out the
 court.]{.underline}]{.mark}** **[[Control is your ability to stretch
@@ -31,9 +30,9 @@ goal is to exert a dominating influence over your opponent, setting the
 stage to execute the next two phases, Hurt and Finish.
 
 Players can establish Control of the point with the serve, with the
-return or in the course of a rally. In this article we\'ll look first at
+return or in the course of a rally. In this article we'll look first at
 control in the rally and analyze the shots we teach at the Academy to
-develop rally control. Then in future articles we\'ll go on to examine
+develop rally control. Then in future articles we'll go on to examine
 how to develop control with the serve and the return.
 
 In the Strategy Zone System, we outline the techniques and the
@@ -47,16 +46,14 @@ There are 4 basic shots you need to develop to take control during
 rallies. These are: Flat Drives to the corners, Off Speed Angles, High
 Deep Loops, and Drop Shots. These shots are the basic building blocks of
 winning backcourt tennis. As we progress to the second and third stages
-of Hurt and Control, we\'ll explain more about how to use them in
+of Hurt and Control, we'll explain more about how to use them in
 combinations to win points.
 
-+-----------------------------------------------------------+
-| Rally Control Shots                                       |
-+:===========================:+:===========================:+
-| Flat Drives to the Corners  | Off Speed Angles            |
-+-----------------------------+-----------------------------+
-| High Deep Loops             | Drop Shots                  |
-+-----------------------------+-----------------------------+
+| Rally Control Shots |  |
+| --- | --- |
+| Flat Drives to the Corners | Off Speed Angles |
+| High Deep Loops | Drop Shots |
+
 
 **Flat Drive to the Corners**
 
@@ -65,8 +62,7 @@ opponents from \"Bradenton to Vegas.\" Andre did this in part by
 **[[hitting flat drives corner to corner.]{.underline}]{.mark}**
 
 ![A picture containing match Description automatically
-generated](media_the-strategy-zone-rally-control/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-strategy-zone-rally-control/media/image2.webp)
 
 **Maria Sharapova dominates with flat drives creating easy winners.**
 
@@ -81,7 +77,7 @@ player controls the corners, the final shot is often a relatively easy
 drive into the open court. That is percentage tennis: winners set up by
 groundstroke control.]{.underline}]{.mark}**
 
-It\'s one thing to point out what Andre and Maria do and say to other
+It's one thing to point out what Andre and Maria do and say to other
 players \"**[[control the point with flat drives to the
 corners.\"]{.underline}]{.mark}** But few players below the highest
 level of the game possess the basic skills to do so. **[[At the
@@ -109,8 +105,7 @@ for rally control.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-rally-control/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-strategy-zone-rally-control/media/image3.webp)
 
 **Can you drive deep to the corners in fed ball and live ball drills?**
 
@@ -122,8 +117,7 @@ Finish stages in our system.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-rally-control/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-strategy-zone-rally-control/media/image4.webp)
 
 **The off speed angle bounces inside the service box and runs off the
 court.**
@@ -167,8 +161,7 @@ drills and then in live rallies.
 
 ![A couple of people play tennis Description automatically generated
 with low
-confidence](media_the-strategy-zone-rally-control/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-strategy-zone-rally-control/media/image5.webp)
 
 **Developing the loop to both sides in fed ball drill.**
 
@@ -191,7 +184,7 @@ loop both crosscourt and down the line, and to do so off both your
 forehand and backhand.]{.underline}]{.mark}** From the inside position,
 you must also be able to loop inside out and inside in. **[[Hit with a
 high arc, the deep loop should travel 10 feet or more above the
-opponent\'s service line.]{.mark} [As with the other basic control
+opponent's service line.]{.mark} [As with the other basic control
 shots, it is important to visualize the path of the shot and the target
 area to develop confidence and accuracy.]{.mark}]{.underline}**
 
@@ -209,8 +202,7 @@ for winning all court play in the Strategy Zone system.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-strategy-zone-rally-control/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-strategy-zone-rally-control/media/image6.webp)
 
 **The drop shot: effective in pro tennis and especially lower levels.**
 
@@ -221,7 +213,7 @@ the drop shot.]{.underline}]{.mark}** **[[In pro tennis, the top players
 use the drop shot when opponents are out of position bringing them
 forward and/or wide. This]{.mark} [opens the court for both the pass and
 the lob.]{.mark}]{.underline}** **[[Another important option is to hit
-the drop shot and come forward, cutting off the opponent\'s angles and
+the drop shot and come forward, cutting off the opponent's angles and
 hitting the reply as a volley into the open
 court.]{.underline}]{.mark}**
 
@@ -245,19 +237,18 @@ ball rally.
 Mastering the drop shot together with the flat drive, the short angles,
 and the loops, gives you the basic tools you will need to take control
 and implement the patterns of winning strategy used by the top players
-in baseline rallies. Next, we\'ll explain how to establish control from
+in baseline rallies. Next, we'll explain how to establish control from
 the first ball of the point using both the serve and the return of
-serve. After that, we\'ll start to show you how to put all these
+serve. After that, we'll start to show you how to put all these
 building blocks together into winning combinations to Hurt and Finish.
 Stay Tuned.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                         Nick Bollettieri (right) is the legendary coach
-  confidence](media_the-strategy-zone-rally-control/media/image7.jpeg){width="1.5604166666666666in"   who has developed champions including Monica
-  height="2.1645833333333333in"}                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
+  confidence](media_the-strategy-zone-rally-control/media/image7.jpeg)                                                                                                                                                   Seles, Andre Agassi, Jim Courier, and Maria
                                                                                                                                                                                    Sharapova. Nick is the creator of the tennis
                                                                                                                                                                                    academy concept and has watched his vision grow
-                                                                                                                                                                                   for over 30 years into the world\'s premier
+                                                                                                                                                                                   for over 30 years into the world's premier
                                                                                                                                                                                    tennis training ground at IMG Bollettieri in
                                                                                                                                                                                    Bradenton, Florida. Over the years Nick has
                                                                                                                                                                                    collaborated with many of the leading innovators
@@ -265,7 +256,7 @@ Stay Tuned.
                                                                                                                                                                                    concepts into training programs at the Academy.\
                                                                                                                                                                                    \
                                                                                                                                                                                    Lance Luciani (left), the founder of Strategy
-                                                                                                                                                                                   Zone, is one of the world\'s leading analysts of
+                                                                                                                                                                                   Zone, is one of the world's leading analysts of
                                                                                                                                                                                    statistics and strategy, and the Head of
                                                                                                                                                                                    Strategy and Tactics at IMG/Bollettieri
                                                                                                                                                                                    Academies. Lance was a pioneer in the video

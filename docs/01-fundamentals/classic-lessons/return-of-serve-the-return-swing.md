@@ -14,12 +14,11 @@ Here](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx).)
 In the second article we examined flexibility, shot selection and the
 split step ([Click
 Here](Return%20of%20Serve%20-%20Flexibility,%20Shot%20Selection,%20Split%20Step.docx).)
-**[[Now let\'s look at the actual path of the racket, including both the
+**[[Now let's look at the actual path of the racket, including both the
 backswing and the forward swing.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_return-of-serve-the-return-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-the-return-swing/media/image1.webp)
 
 **What are the swing characteristics on the return?**
 
@@ -51,8 +50,7 @@ needed.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-the-return-swing/media/image2.jpg){width="3.9895833333333335in"
-height="2.28125in"}
+confidence](media_return-of-serve-the-return-swing/media/image2.jpg)
 
 **Novak Djokovic showing the rotate and bend principle on his forehand
 and backhand return.**
@@ -78,18 +76,16 @@ one or two handed backhand return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-the-return-swing/media/image3.jpg){width="6.5in"
-height="1.9555555555555555in"}
+confidence](media_return-of-serve-the-return-swing/media/image3.jpg)
 
 **Compare the Federer forehand groundstroke.**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_return-of-serve-the-return-swing/media/image4.jpg){width="6.5in"
-height="1.5638888888888889in"}
+confidence](media_return-of-serve-the-return-swing/media/image4.jpg)
 
 **To the Federer forehand return.**
 
-**Notice how [much simpler]{.underline} Federer\'s approach is on the
+**Notice how [much simpler]{.underline} Federer's approach is on the
 forehand return in contrast to his normal forehand groundstroke**.
 **[[The racket face on the return is essentially on edge from the end of
 the backswing through the forward swing.]{.underline}]{.mark}**
@@ -98,8 +94,7 @@ wrist/forearm.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-the-return-swing/media/image5.jpg){width="6.5in"
-height="1.8784722222222223in"}
+confidence](media_return-of-serve-the-return-swing/media/image5.jpg)
 
 **Roger Federer demonstrates the principle of keeping the forward swing
 a basic straight through approach with just a moderate amount of lift to
@@ -120,12 +115,11 @@ return. In upcoming articles we'll move on to technical\--and
 other\--variations and then turn to return strategy. Stay Tuned!
 
 ![A person in a suit Description automatically generated with low
-confidence](media_return-of-serve-the-return-swing/media/image6.jpeg){width="1.8263888888888888in"
-height="1.8263888888888888in"}
+confidence](media_return-of-serve-the-return-swing/media/image6.jpeg)
 
 Bill Tym, a USPTA Master Professional and past USPTA national president,
 has been involved in tennis as a coach, player and administrator for
-half a century. He coached the Vanderbilt University men\'s tennis team
+half a century. He coached the Vanderbilt University men's tennis team
 to its first NCAA tournament. As a player, Tym was a Southeastern
 Conference singles champion at the University of Florida. He also
 competed on the international tour and won 10 national and international

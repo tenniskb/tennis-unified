@@ -5,8 +5,8 @@ Your Forehand and the Modern Forehand**
 
 # The Forward Swing Hand and Arm Rotation
 
-This month we\'ll start to look at the forward swing, possibly the most
-complex and dynamic element in tennis. We\'ll try to understand what
+This month we'll start to look at the forward swing, possibly the most
+complex and dynamic element in tennis. We'll try to understand what
 really happens and why there is so much diversity among top players, by
 breaking the forward swing into two components.
 
@@ -14,8 +14,7 @@ This month focuses on Hand and Arm Rotation, how the top player create
 the windshield wiper finish, how to create it yourself, and how it
 applies to your game. ![A person playing tennis Description
 automatically generated with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image1.webp)
 
 **How should you incorporate hand and arm rotation into your forehand?**
 
@@ -23,8 +22,7 @@ height="2.5in"}
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image3.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-forward-swing-hand-and-arm-rotation/media/image3.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

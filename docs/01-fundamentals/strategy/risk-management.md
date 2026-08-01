@@ -11,15 +11,15 @@ they come off, but are also easily criticized as the wrong shot choice
 when they end up as an error or gift the opponent an easy route to
 winning the point.
 
-It\'s often the down the line shot choice that falls into the risky
+It's often the down the line shot choice that falls into the risky
 category. So the first questions to ask are which down the line shots
-fall into your list of strengths, and which don\'t?
+fall into your list of strengths, and which don't?
 
-The ones that don\'t should only be attempted when there is a real
+The ones that don't should only be attempted when there is a real
 purpose behind the shot choice, such as changing the cross-court
 pattern. The ones that you feel more comfortable with can be chosen more
 often, but again ideally with purpose, such as an opportunity to attack
-into space that you\'ve created with your previous shot.
+into space that you've created with your previous shot.
 
 As a rule, the further wide and/or deep you find yourself in the court
 when playing the ball, the more of a risk the down the line option is.
@@ -46,15 +46,15 @@ it, you are more easily able to forgive yourself should the risk not pay
 off, which in turn allows you to move on and prepare for the next point
 without accruing negative mental baggage.
 
-When I see my opponent taking on high risk shots, I\'m always happy.
+When I see my opponent taking on high risk shots, I'm always happy.
 Hopefully one of the reasons they have opted for low risk is due to my
 strong play, but regardless of the reason, I know the odds are always in
 my favor.
 
-It\'s like a casino. There will be some big winners, but the house will
+It's like a casino. There will be some big winners, but the house will
 always come out ahead. I know my opponent may pull off some shots, but
 overall they will miss them more often than not, so I can happily give
-them a few big winners without feeling any concern. It\'s a marginal
+them a few big winners without feeling any concern. It's a marginal
 gain in my favor that should land me a few more crucial points.
 
 Fluctuation
@@ -63,7 +63,7 @@ Your choice of shots during points, and even at the start of the point,
 will fluctuate during the match in terms of how much risk is involved.
 Managing this fluctuation is important, and for me the best strategy is
 to tighten up on the bigger points, while taking on lower percentage
-plays at moments where the impact on the scoreboard isn\'t so damaging.
+plays at moments where the impact on the scoreboard isn't so damaging.
 
 On the biggest points, I like to take the attitude that my opponent must
 earn the point if they are to win it, I am not going to give it up with
@@ -85,25 +85,25 @@ game. Better to be up, instead of chasing after the first point.
 
 The importance of these points is sometimes under estimated. Their
 importance lies with the fact that whoever wins them will have a chance
-to win the game on the next point. Better it\'s you, and better still
-you don\'t give up these points too easily.
+to win the game on the next point. Better it's you, and better still
+you don't give up these points too easily.
 
 40-30, 30-40, Ad-40, 40-Ad
 
 The importance of these points is clear, someone has the chance to win
-the game. If it\'s you, then your opponent would just love it if you
+the game. If it's you, then your opponent would just love it if you
 cough up a bad error on a low risk shot, as the pressure on them is
-instantly released. If it\'s your opponent, then you want them to earn
+instantly released. If it's your opponent, then you want them to earn
 this point from you.
 
 40-15, 40-0
 
-As the server, it\'s important not to be fooled by the illusion of
+As the server, it's important not to be fooled by the illusion of
 safety that comes with having 2 or 3 consecutive game points, they can
 soon disappear, and then the pressure mounts to still be able to close
 out the game.
 
-If you\'re going to be pegged back to deuce, at least make sure the
+If you're going to be pegged back to deuce, at least make sure the
 opponent earned it, and you will then find it easier to accept, and be
 better positioned to push on and close the game anyway.
 
@@ -115,7 +115,7 @@ back into a game that you were looking unlikely to win.
 
 As the server, you should be taking the mentality of one point at a
 time, and try your best to be difficult to beat. Play the percentages,
-and make the opponent come up with something that\'s too good. As the
+and make the opponent come up with something that's too good. As the
 returner, once again this is no time to take on low percentage options,
 the break points can easily disappear, and you should try to win the
 first one as if it were the only one you had.
@@ -128,7 +128,7 @@ Predictability
 There is a danger that you become too predictable, and your opponent
 will start reading your game. This is where secondary shots can play an
 important role, and also the bravery to take some controlled risks on
-important points, shots that wouldn\'t be the first choice, but that you
+important points, shots that wouldn't be the first choice, but that you
 feel you have the ability to play.
 
 Having the ability to do something unexpected at key moments can pay
@@ -140,26 +140,25 @@ Using the kick serve here can be particularly effective, giving time to
 close the net. This bravery is often rewarded with a simple volley to
 win the point, and instant release of pressure.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                 | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_risk-management/media/image1.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                               | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                              | competitions since formation, and over the last 2 |
-|                                                                                                                                                              | years alone, his junior players have won 19       |
-|                                                                                                                                                              | singles tournaments between them at county level. |
-|                                                                                                                                                              |                                                   |
-|                                                                                                                                                              | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                              | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                              | county. Nick has done video analysis for numerous |
-|                                                                                                                                                              | players at all levels, including former British   |
-|                                                                                                                                                              | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                              |                                                   |
-|                                                                                                                                                              | His unique teaching video series, covering every  |
-|                                                                                                                                                              | aspect of the game, is available on his website   |
-|                                                                                                                                                              | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                              |                                                   |
-|                                                                                                                                                              | You can also contact Nick directly via the        |
-|                                                                                                                                                              | homepage of his website.                          |
-+==============================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_risk-management/media/image1.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also contact Nick directly via the |
+|  | homepage of his website. |
+
 
 ------------------------------------------------------------------------

@@ -17,7 +17,7 @@ vững chắc, giảm thiểu tối đa rủi ro chấn thương và tối ưu h
 thi đấu thông qua sự hiểu biết sâu sắc về cơ thể mình.
 
 **Triết lý trung tâm:** \"Đừng đánh bằng tay --- hãy đánh bằng cả hệ
-thống sống.\" (Don\'t hit with your arm --- hit with your entire living
+thống sống.\" (Don't hit with your arm --- hit with your entire living
 system.)
 
 Mỗi cú đánh trong tennis là một bài toán vật lý tinh vi: **Lực từ đất
@@ -103,8 +103,7 @@ với vận tốc 100--180 km/h. Não bộ mới là cơ quan tính toán quỹ 
   ------------------
 
 ![Minh họa hai chế độ nhìn và quá trình xử lý của não
-bộ](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/bd6b0bd028f7718073ee2bc8ed4ad7b49d55f5a9.png "Minh họa hai chế độ nhìn và quá trình xử lý của não bộ"){width="5.552083333333333in"
-height="4.166666666666667in"}
+bộ](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/bd6b0bd028f7718073ee2bc8ed4ad7b49d55f5a9.png "Minh họa hai chế độ nhìn và quá trình xử lý của não bộ")
 
 **Nguyên lý cốt lõi:** Ball Tracking không phải chức năng của mắt, mà là
 quá trình tính toán dữ liệu của CNS. Hãy giữ đầu thẳng, thả lỏng cơ mặt
@@ -169,8 +168,7 @@ vào bóng.
 2.3. Các Bước Di Chuyển Đặc Thù
 
 ![Sơ đồ cơ học Footwork trong
-Tennis](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/183b3c7f54faf68aee1499eb6a53428c041ccf17.png "Sơ đồ cơ học Footwork trong Tennis"){width="6.25in"
-height="3.5208333333333335in"}
+Tennis](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/183b3c7f54faf68aee1499eb6a53428c041ccf17.png "Sơ đồ cơ học Footwork trong Tennis")
 
   -----------------------
   Kỹ thuật       Cách
@@ -231,8 +229,7 @@ toàn thân thành một khối thống nhất.
 3.2. Nguồn Lực: GRF và SSC
 
 ![Chuỗi động lực học của cú
-Forehand](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/ca62354f245d5ea3e2019724087138abfdce2d76.png "Chuỗi động lực học của cú Forehand"){width="5.552083333333333in"
-height="4.166666666666667in"}
+Forehand](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/ca62354f245d5ea3e2019724087138abfdce2d76.png "Chuỗi động lực học của cú Forehand")
 
 Lực không sinh ra ở tay. Nó được truyền dẫn qua chuỗi động học:
 
@@ -281,8 +278,7 @@ là: **Trọng lực + Xoay thân**, không phải cơ bắp.
 5.1. Chuỗi Động Học Serve
 
 ![Chuỗi động học của cú giao bóng
-Serve](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/174b276bdc891cc2f167aa58623488d9623359f4.png "Chuỗi động học của cú giao bóng Serve"){width="5.552083333333333in"
-height="4.166666666666667in"}
+Serve](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/174b276bdc891cc2f167aa58623488d9623359f4.png "Chuỗi động học của cú giao bóng Serve")
 
 8.  **Trophy Pose:** Tư thế chuẩn bị với tay tung bóng cao và vợt ở vị
     trí sẵn sàng sau lưng.
@@ -311,8 +307,7 @@ Tuyệt đối không đưa vợt ra sau vai. Ở trên lưới, bạn không c�
 6.2. Cấu Trúc Chân Bridge Leg
 
 ![Kỹ thuật Volley: Không Backswing và Bridge
-Leg](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/a47e3c0882a886f40a8a0e9a108f02a7968c7ba0.png "Kỹ thuật Volley: Không Backswing và Bridge Leg"){width="5.552083333333333in"
-height="4.166666666666667in"}
+Leg](media_gi-o-tr-nh-tennis-to-n-di-n-cho-ng-i-ch-i-trung-ni-n-40-65-tu-i/media/a47e3c0882a886f40a8a0e9a108f02a7968c7ba0.png "Kỹ thuật Volley: Không Backswing và Bridge Leg")
 
 - **Chân trước:** Đóng vai trò như một chiếc cầu (bridge) ổn định, chịu
   lực.

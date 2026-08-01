@@ -1095,8 +1095,8 @@ Kỹ thuật thực hành defusion:
 **Kỹ thuật 1 --- Đặt tiêu đề câu chuyện:**
 
 Khi nhận ra mình đang trong vòng xoáy lo lắng, hãy đặt tên cho nó: \"À,
-câu chuyện \'Tôi sẽ thất bại\' đang xuất hiện lại.\" Không phải \"Tôi sẽ
-thất bại\" --- mà là \"Câu chuyện \'Tôi sẽ thất bại\' đang chơi trò chơi
+câu chuyện 'Tôi sẽ thất bại' đang xuất hiện lại.\" Không phải \"Tôi sẽ
+thất bại\" --- mà là \"Câu chuyện 'Tôi sẽ thất bại' đang chơi trò chơi
 của nó.\"
 
 **Kỹ thuật 2 --- \"Tôi nhận thấy rằng\":**
@@ -2056,7 +2056,7 @@ vượt qua những trải nghiệm cực kỳ khó khăn là có cảm giác v�
 lớn hơn bản thân.
 
 Viktor Frankl, nhà tâm lý học sống sót qua Holocaust, viết trong cuốn
-\"Man\'s Search for Meaning\": rằng những tù nhân có khả năng sống sót
+\"Man's Search for Meaning\": rằng những tù nhân có khả năng sống sót
 cao nhất là những người có lý do để tiếp tục sống --- không phải điều
 kiện tốt nhất, mà là mục đích rõ ràng nhất.
 
@@ -2451,7 +2451,7 @@ chủ đề đã được đề cập:
 - \"The Body Keeps the Score\" --- Bessel van der Kolk: Về chấn thương
   và cơ thể
 
-- \"Why Zebras Don\'t Get Ulcers\" --- Robert Sapolsky: Về sinh học của
+- \"Why Zebras Don't Get Ulcers\" --- Robert Sapolsky: Về sinh học của
   stress
 
 - \"Emotional Intelligence\" --- Daniel Goleman: Về trí tuệ cảm xúc

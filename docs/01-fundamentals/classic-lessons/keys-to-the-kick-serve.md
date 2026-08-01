@@ -4,8 +4,7 @@
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_keys-to-the-kick-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image1.webp)
 
 **The kick serve: one of the most difficult\--and effective\--shots in
 the game.**
@@ -28,14 +27,13 @@ For me, it happened because I found a new coach and former elite tour
 player who shared with me the secrets of mastering the kick. I almost
 want to cry when I think of all the hours I spent hitting buckets and
 buckets of balls. **[[My coaches in the juniors were great guys, but
-they didn\'t provide me with the technical framework and the check
+they didn't provide me with the technical framework and the check
 points I needed to understand and master the shot. This is the same
 problem most players face. They are never exposed to right technical
 framework or training system.]{.mark}]{.underline}**
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_keys-to-the-kick-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image2.webp)
 
 **Understanding the right technical framework is the key to mastering
 the kick.**
@@ -66,8 +64,7 @@ define what I mean by each of these three serves.
 
 ![A group of cones on a tennis court Description automatically generated
 with low
-confidence](media_keys-to-the-kick-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image3.webp)
 
 **The three kicks all bounce differently off the court.**
 
@@ -75,9 +72,9 @@ What I call True Topspin bounces high and straight ahead. This serve is
 the most basic kick serve and most players will use it for the second
 serve a large percentage of the time, especially on hard courts. When
 well executed this serve is heavy and difficult to deal with because it
-can bounce well above the returner\'s preferred contact height.
+can bounce well above the returner's preferred contact height.
 
-What I call SliceTopspin bounces high but (from the server\'s
+What I call SliceTopspin bounces high but (from the server's
 perspective) also has a right-to-left movement after the bounce. Players
 will use this serve less frequently than the True Topspin, typically
 when hitting second serves down the T in the ad court, or into the body
@@ -87,16 +84,15 @@ the case of a body serve, jams the returner). This serve is a must to
 hit effective second serves against left handers.
 
 The third topspin variation is the Twist. What I call Twist bounces high
-but actually moves from the server\'s left to his right. Typically it is
-hit to the returner\'s backhand, especially in the ad court, where it
+but actually moves from the server's left to his right. Typically it is
+hit to the returner's backhand, especially in the ad court, where it
 kicks high away from the player after the bounce.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image4.webp)
 
-**Let\'s break the kick down, component by component.**
+**Let's break the kick down, component by component.**
 
 This serve is used to pull the returner out of position, force him to
 take additional steps to the ball, and play a contact point at shoulder
@@ -104,7 +100,7 @@ level or even higher. It is used most often on clay, but can also be
 extremely effective on hard courts\--especially gritty or high-rebound
 hard courts\--when hit with the right combination of speed and spin.
 
-So let\'s look at the checkpoints for all three kick serves. We\'ll look
+So let's look at the checkpoints for all three kick serves. We'll look
 at the elements they have in common and also the adjustments players
 must make to hit each of the three variations.
 
@@ -147,16 +143,14 @@ Buttscratch\--not Backscratch
 Back Arch
 
 No wonder players and coaches struggle with this motion. If even one
-technical element is missing, the serve may not be effective. Let\'s go
+technical element is missing, the serve may not be effective. Let's go
 over the components from start to finish starting with the grip.
 
-![Close-up of a person\'s hands Description automatically generated with
+![Close-up of a person's hands Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image5.jpg){width="1.9583333333333333in"
-height="1.6145833333333333in"}![Close-up of a person\'s hand Description
+confidence](media_keys-to-the-kick-serve/media/image5.jpg)![Close-up of a person's hand Description
 automatically generated with medium
-confidence](media_keys-to-the-kick-serve/media/image6.jpg){width="1.9270833333333333in"
-height="1.6145833333333333in"}
+confidence](media_keys-to-the-kick-serve/media/image6.jpg)
 
 The Strong Continental with the index knuckle just off Bevel 1.
 
@@ -187,8 +181,7 @@ serve with this grip, rather than making a dramatic grip change between
 first and second serves, which can hurt disguise.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_keys-to-the-kick-serve/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image7.webp)
 
 **Boris: a great player with an unorthodox grip for hitting kicks.**
 
@@ -203,7 +196,7 @@ A tour example that comes to mind is Boris Becker, who was incredibly
 talented, but used a serve grip more towards the eastern forehand.
 Becker was known to lose control of his kick, particularly under
 pressure, and sometimes his second serve became inconsistent. Although
-Boris was obviously a great player, I believe that he didn\'t get the
+Boris was obviously a great player, I believe that he didn't get the
 maximum possible number of revolutions on his serve because of his
 unorthodox grip.
 
@@ -216,15 +209,14 @@ first hand observations.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image8.webp)
 
 **Many players can use the Strong Continental for the kick\--and the
 other serves.**
 
 Whether a player shifts grips for the second serve usually depends on
 the philosophy his developmental coaches had when they were building his
-game as a junior. Some players don\'t even realize that they make a
+game as a junior. Some players don't even realize that they make a
 shift. They naturally adjust the heel of the palm slightly more toward
 the top of the frame\--to maximize the brushing action upward to the
 ball.
@@ -242,8 +234,7 @@ of the hand can be moved toward one universal grip.
 
 ![A person swings a tennis racket Description automatically generated
 with medium
-confidence](media_keys-to-the-kick-serve/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}**\
+confidence](media_keys-to-the-kick-serve/media/image9.webp)**\
 Junior players can master the grip if it is taught early.**
 
 Having said all that, my preference is still the single grip, and if the
@@ -262,7 +253,7 @@ they hit the ball.
 The coach must watch that hand like a hawk. The way to make sure the
 grip is remaining the same is to check the grip at the end of the swing,
 not at the beginning. Some crafty kids will try to fool you by shifting,
-and then shifting back after the serve. The fact is that it\'s difficult
+and then shifting back after the serve. The fact is that it's difficult
 for them to switch out of their old comfort zone, even if they want to.
 So you have to be strict if you are coaching and honest with yourself,
 if you are a player.
@@ -271,8 +262,7 @@ if you are a player.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image10.webp)
 
 **The foundation should close the hips at the start of the motion.**
 
@@ -305,8 +295,7 @@ position until they leave the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image11.webp)
 
 **In my experience the step-up leg action is more explosive.**
 
@@ -327,20 +316,19 @@ same as on the first serve to maximize the disguise of the delivery. On
 the first serve, I believe the 130 degree closed hip position will also
 load up more energy, allowing the player to uncoil into the serve to get
 more power. More twist on the second, more power on the first, and great
-disguise. I don\'t think you can wrong with the deep hip position
+disguise. I don't think you can wrong with the deep hip position
 created by this starting stance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image12.webp)
 
 **The toss: how far to the left and how far in front?**
 
 ### Tossing Mechanics
 
 Tossing is another debated topic, especially on the kick serve. How far
-should the toss move to the server\'s left? Should the toss be more over
+should the toss move to the server's left? Should the toss be more over
 the shoulder at 11 o clock at contact, or is 12 o clock the correct
 position?
 
@@ -366,8 +354,7 @@ altogether.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image13.webp)
 
 **Is the back arch a problem\--or an asset?**
 
@@ -387,7 +374,7 @@ countries, England, India, Australia, and many parts of the US.
 
 The second school of thought says that the toss should be more over the
 shoulder to the left of center. Coaches from this school believe in
-getting maximum twist sidespin and aren\'t as concerned about the
+getting maximum twist sidespin and aren't as concerned about the
 potential for injury from arching the back. These coaches value the
 twist serve as a means to really make the returner move and to pull the
 returner off the court\--they want the extreme angle. This philosophy
@@ -396,8 +383,7 @@ as South America, some parts of France, and in Spain.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image14.webp)
 
 **A toss to the left and more back arch equals more angles.**
 
@@ -409,22 +395,21 @@ are toss to the left and a more extreme back arch.
 
 Most of these coaches would argue that the risks of arching the back can
 be minimized with a good stretching and strengthening program. They
-don\'t value disguising the kick serve as much, because, on clay,
+don't value disguising the kick serve as much, because, on clay,
 disguising the serve does not provide the same benefits as on super fast
 surfaces.
 
 Clay is slow enough that the surprise factor is minimized and thus the
 returner usually has time to make last minute adjustments, even on a
 perfectly disguised serve. This school of thought will take the extreme
-angle and heavy twist action over disguise any day. That\'s different
+angle and heavy twist action over disguise any day. That's different
 than on a grass court or a slick hard court where the ball shoots
 through the bounce must faster. Here good disguise on the serve can mean
 a lot of free points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image15.webp)
 
 **How much twist you develop is related to surface and game style.**
 
@@ -432,7 +417,7 @@ The clash of these two serving schools is the main reason we have so
 much debate and confusion about the kick serve mechanics today. You will
 have to decide which side of the fence you want to call home. Do you
 want disguise or do you want more twist action and angle for your serve
-or your player\'s serve?
+or your player's serve?
 
 Do you anticipate that you or your player will be more of a slow court
 grinder or likely to be more successful as a fast court attacking
@@ -455,11 +440,10 @@ higher chance of injury.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image16.webp)
 
 **I teach the back arch\--in conjunction with stretching\--early in a
-player\'s development.**
+player's development.**
 
 I believe the lower back should be sore after practicing a lot of kick
 serves, especially the morning after. This is how the muscles in that
@@ -495,8 +479,7 @@ coach.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image17.webp)
 
 **The toss is forward into the court with the player moving up and
 under.**
@@ -532,8 +515,7 @@ always mechanical. Here are the technical checkpoints that I look for on
 the toss.
 
 ![A person holding a tennis racket Description automatically
-generated](media_keys-to-the-kick-serve/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image18.webp)
 
 **The tossing arm should stay aligned with the left leg.**
 
@@ -562,8 +544,7 @@ prerequisite for spin generation.
 
 ![A picture containing tennis, athletic game, court, sport Description
 automatically
-generated](media_keys-to-the-kick-serve/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image19.webp)
 
 **The fingers open into a star shape, like a flower blossoming.**
 
@@ -599,8 +580,7 @@ gets to this trophy position.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image20.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image20.webp)
 
 **The shoulder tilt, the extension of the arm, and the forward hip
 thrust.**
@@ -612,8 +592,7 @@ are locked on the ball\--where they stay through contact. The racket arm
 is in the \"L shape\" or 90 degree throwing position.
 
 ![A person holding a tennis racket Description automatically
-generated](media_keys-to-the-kick-serve/media/image21.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image21.webp)
 
 **The Power Position: the arm reaching upwards and the racket arm in the
 \"L Shape.\"**
@@ -637,8 +616,7 @@ triceps extension.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image22.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image22.webp)
 
 **I call the full racket drop for the kick the \"buttscratch.\"**
 
@@ -666,10 +644,9 @@ delivery.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image23.webp)
 
-**Without the buttscratch, it\'s impossible to hit a great kick.**
+**Without the buttscratch, it's impossible to hit a great kick.**
 
 The buttscratch occurs quite quickly and is thus difficult to check with
 the naked eye (most likely why it is often overlooked). But it must be
@@ -694,8 +671,7 @@ potential racket speed. This is a very important concept.
 
 ![A picture containing text, player, hitting, sign Description
 automatically
-generated](media_keys-to-the-kick-serve/media/image24.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image24.webp)
 
 **The elbow bends deeply and points to the sky.**
 
@@ -724,8 +700,7 @@ my students to be able to hit all three second serves effectively
 including the twist.
 
 ![A person playing tennis Description automatically
-generated](media_keys-to-the-kick-serve/media/image25.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image25.webp)
 
 **The convex shape is the indication that the player is arching the
 back.**
@@ -756,8 +731,7 @@ from start to finish as fast as possible.
 
 ![A picture containing tennis, sport, court, athletic game Description
 automatically
-generated](media_keys-to-the-kick-serve/media/image26.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image26.webp)
 
 **The triceps snap should be a sprint.**
 
@@ -786,8 +760,7 @@ loose but still control the racket head.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image27.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image27.webp)
 
 **The wrist should be loose\--but not too loose.**
 
@@ -816,8 +789,7 @@ compared to the pure topspin. But even this is difficult to see.
 
 ![A picture containing sport, athletic game, tennis Description
 automatically
-generated](media_keys-to-the-kick-serve/media/image28.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_keys-to-the-kick-serve/media/image28.webp)
 
 **The knuckles point toward the sky with the palm downward toward the
 court.**
@@ -846,8 +818,7 @@ bounce, is the ball will kick up straight off the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image29.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image29.webp)
 
 **True Topspin: visualize swinging 6 to 12.**
 
@@ -864,13 +835,12 @@ As in the true topspin serve, the elbow is more centered under the ball
 on the slice topspin. But the arm will travel more straight forward
 after contact. As it extends it will reach an angle to the baseline that
 is more like 60 degrees. I call this serve the slice topspin because it
-not only bounces up, it also curves to the server\'s left and therefore
+not only bounces up, it also curves to the server's left and therefore
 away from the opponent as we saw in the ball bounce video.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image30.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image30.webp)
 
 **Slice Topspin: the image of the swing is 5 to 1.**
 
@@ -886,15 +856,14 @@ middle between the two.)
 
 On the twist, the elbow should also be pulled back more to the left of
 the ball than on the other two variations to get this 7 to 2 brushing
-feel. The arm will also travel much more to the player\'s right,
+feel. The arm will also travel much more to the player's right,
 finishing at an angle that can approach 30 degrees to the baseline. When
 you think about the images of the different swing paths, the angle of
 the arm to the baseline is consistent with each of the three variations.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image31.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image31.webp)
 
 **The image for the Twist is swinging from 7 o'clock and 2 o'clock.**
 
@@ -907,8 +876,8 @@ point as on a flat or slice serve.
 At contact, the hip and shoulder line on the kick should be
 approximately 30 to 45 degrees to the baseline. If you look at all the
 great kicks in the pro game, the difference in this angle is clear. This
-is why it\'s so important to coil in the beginning of the motion. The
-body will only partially uncoil before the contact, so it\'s important
+is why it's so important to coil in the beginning of the motion. The
+body will only partially uncoil before the contact, so it's important
 to get the most uncoiling \"runway\" here.
 
 Dragging or delaying the hip and shoulder rotation can be difficult to
@@ -919,8 +888,7 @@ closed.\"]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image32.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image32.webp)
 
 **Drag the hips so the angle is 30 to 45 degrees to the baseline at
 contact.**
@@ -944,8 +912,7 @@ lose any potential energy. There should be no delay.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_keys-to-the-kick-serve/media/image33.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image33.webp)
 
 **Leg drive\--a big deal on the kick, and every serve.**
 
@@ -970,8 +937,7 @@ to bend forward and/or to the side at contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image34.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image34.webp)
 
 **Extending at contact means a straight line from the toes to the
 fingers. Post-Contact Arm Actions**
@@ -999,8 +965,7 @@ acceptable, but can also be stressful on the shoulder joint.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_keys-to-the-kick-serve/media/image35.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image35.webp)
 
 **The tip of the racket points downward and leads the arm to the
 finish.**
@@ -1022,10 +987,9 @@ master it.
 
 ![A tennis player serving the ball Description automatically generated
 with medium
-confidence](media_keys-to-the-kick-serve/media/image36.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_keys-to-the-kick-serve/media/image36.webp)
 
-**The hand should travel back to the player\'s left and finish near the
+**The hand should travel back to the player's left and finish near the
 left pocket.**
 
 Practicing and perfecting these technical elements is easier said than
@@ -1033,9 +997,9 @@ done. But if you can break the mechanical moving parts down and practice
 each element individually, you will slowly gain mastery of the kick.
 Practice each component until the movement is perfected; then link the
 movements together. The result will be a beautiful and effective kick
-serve that you\'ll own for life.
+serve that you'll own for life.
 
-In a follow-up training article, I\'ll explain the developmental
+In a follow-up training article, I'll explain the developmental
 timeline and stages for teaching and learning the kick and share some
 unique exercises that I use to help my students master each of these
 mechanical elements. This article describes all the necessary
@@ -1046,8 +1010,7 @@ building a truly world-class kick.
 for a great job demonstrating how to hit a great kick serve.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_keys-to-the-kick-serve/media/image37.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_keys-to-the-kick-serve/media/image37.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -1064,14 +1027,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [ProdigyMaker.com](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [CLTA.teachable.com](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_keys-to-the-kick-serve/media/image38.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_keys-to-the-kick-serve/media/image38.jpeg)
 
 **The Secrets of Spanish Tennis**
 

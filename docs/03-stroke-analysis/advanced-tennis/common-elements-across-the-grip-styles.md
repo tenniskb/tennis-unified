@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-elements-across-the-grip-styles/media/image1.webp){width="2.6979166666666665in"
-height="2.4375in"}
+confidence](media_common-elements-across-the-grip-styles/media/image1.webp)
 
 **What are the commonalities in the modern forehand---if any?**
 
@@ -44,8 +43,7 @@ the similarities and the differences across grip styles. 
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A picture containing text, tennis, racket, outdoor Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image2.webp){width="2.615972222222222in"
-                                                                                  height="2.3666666666666667in"}
+   generated](media_common-elements-across-the-grip-styles/media/image2.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          **Can we make sense of the radical diversity in backswings and followthroughs?**
 
@@ -89,8 +87,7 @@ is make any absolute pronouncements about which grip style and/or stroke
 variation is ultimately preferable.   
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_common-elements-across-the-grip-styles/media/image3.webp){width="2.7708333333333335in"
-                                                                               height="2.2395833333333335in"}
+   ![](media_common-elements-across-the-grip-styles/media/image3.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **Love them or hate them, radical forehands are here to stay in junior tennis.**
 
@@ -133,10 +130,9 @@ Roddick](https://www.tennisplayer.net/members/worldclassstrokes/rick_macci/Macci
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   ![A person playing tennis Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image4.webp){width="2.6875in"
-                                                                                  height="2.1875in"}
+   generated](media_common-elements-across-the-grip-styles/media/image4.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                              **With their increasing dominance in junior tennis, it\'s critical for coaches to understand the more extreme forehands.**
+                              **With their increasing dominance in junior tennis, it's critical for coaches to understand the more extreme forehands.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -162,7 +158,7 @@ absolutely correct for one grip style, but incorrect and potentially
 detrimental for the grip the player is actually using.  
 
 The current article will deal with the surprising commonalities in the
-basic swings. What do I mean by basic swings? It\'s a little arbitrary,
+basic swings. What do I mean by basic swings? It's a little arbitrary,
 but to me a basic swing is on a ball were the player has time, is not
 rushed or forced, where the ball can be played comfortably in the strike
 zone, and where the player is looking to drive the ball relatively flat
@@ -174,10 +170,10 @@ After we address the commonalities, up coming articles will look at the
 very real technical differences across the grip styles. These include
 the differences on even basic balls, but also, on balls in different
 positions, at different heights, hit with different arcs and spins etc.
- We\'ll explore all these mysteries including footwork, hitting stances
+ We'll explore all these mysteries including footwork, hitting stances
 and recovery steps. 
 
-Eventually we\'ll go on to show you how to construct your own stroke
+Eventually we'll go on to show you how to construct your own stroke
 models, both physically, through the use of specific checkpoints, and
 visually, through the use of mental imagery. We'll also show you the
 radical power this imagery can have in building your mental game, and
@@ -188,8 +184,7 @@ forehand preparation.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person playing tennis Description automatically generated with medium
-   confidence](media_common-elements-across-the-grip-styles/media/image5.webp){width="2.6979166666666665in"
-                                                                                   height="2.4583333333333335in"}
+   confidence](media_common-elements-across-the-grip-styles/media/image5.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             **Focusing on the backswing obscures the fundamental elements of the turn.**
 
@@ -228,8 +223,7 @@ arms and racquet.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                    ![A person holding a tennis racket Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image6.webp){width="2.6458333333333335in"
-                                                                                          height="2.5in"}
+   generated](media_common-elements-across-the-grip-styles/media/image6.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                  **The Start of the Turn with the feet and shoulders and very little movement of the racquet. Note the amount or torso rotation.**
 
@@ -267,19 +261,14 @@ This first move is universal across the grip styles. Compare the players
 below and see how they are all in virtually the same position at this
 point in the motion.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Start of the Turn Across Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-+================================================================================================================================================================================================+==================================================================================================+==================================================================================================+=================================================================================================+================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium confidence](media_common-elements-across-the-grip-styles/media/image7.jpg){width="1.9791666666666667in" height="2.375in"}        | ![A person playing tennis Description automatically generated with medium                                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                                      |
-|                                                                                                                                                                                                                                                                                                   | confidence](media_common-elements-across-the-grip-styles/media/image8.jpg){width="1.9791666666666667in"     | confidence](media_common-elements-across-the-grip-styles/media/image9.jpg){width="1.9791666666666667in" |
-|                                                                                                                                                                                                                                                                                                   | height="2.375in"}                                                                                                                                                                                  | height="2.375in"}                                                                                                                                                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **[The shoulders and feet start the preparation by turning the player partially sideways.]{.mark}**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, water, sport Description automatically                                                                                                                            | ![A person playing tennis Description automatically generated with medium                                                                                                                           | ![A person playing tennis Description automatically generated](media_common-elements-across-the-grip-styles/media/image12.jpg){width="1.9791666666666667in" height="2.375in"}                             |
-| generated](media_common-elements-across-the-grip-styles/media/image10.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image11.jpg){width="1.9791666666666667in"     |                                                                                                                                                                                                                                                                                                  |
-| height="2.375in"}                                                                                                                                                                              | height="2.375in"}                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                  |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Start of the Turn Across Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium confidence](media_common-elements-across-the-grip-styles/media/image7.jpg) | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+|  | confidence](media_common-elements-across-the-grip-styles/media/image8.jpg) |  |
+| **[The shoulders and feet start the preparation by turning the player partially sideways.]{.mark}** |  |  |
+| ![A picture containing text, water, sport Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated](media_common-elements-across-the-grip-styles/media/image12.jpg) |
+| generated](media_common-elements-across-the-grip-styles/media/image10.jpg) |  |  |
+
 
 **The Full Turn**
 
@@ -310,8 +299,7 @@ the player. But these are individual differences.
 **Start of The Backswing**
 
 ![A person holding a tennis racket Description automatically
-generated](media_common-elements-across-the-grip-styles/media/image13.webp){width="2.6041666666666665in"
-height="2.4583333333333335in"}
+generated](media_common-elements-across-the-grip-styles/media/image13.webp)
 
 **The completion of the turn move and the start of the backswing**
 
@@ -352,19 +340,14 @@ It doesn't matter if you're at Pete Sampras, Andre Agassi, Lleyton
 Hewitt, Gustavo Kuerten, Marat Safin or Tommy Haas. Their forehands all
 share these elements, with only minor variations.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The Completion of the Turn Across Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-+=================================================================================================================================================================================================+================================================================================================================================================================================================+================================================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person swinging a tennis racket Description automatically                                                                                                                                  | ![A person playing tennis Description automatically generated with medium                                                                                                                       |
-| confidence](media_common-elements-across-the-grip-styles/media/image14.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image15.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image16.jpg){width="1.9791666666666667in" |
-| height="2.6979166666666665in"}                                                                                                                                                                  | height="2.6979166666666665in"}                                                                                                                                                                 | height="2.6979166666666665in"}                                                                                                                                                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **[The common elements in the Full Turn: shoulders slightly past perpendicular to the net, left arm extended to the sideline, racquet hand high.]{.mark}**                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with low                                                                                                                          | ![A person swinging a tennis racket Description automatically                                                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                        |
-| confidence](media_common-elements-across-the-grip-styles/media/image17.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image18.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image19.jpg){width="1.9791666666666667in"  |
-| height="2.6979166666666665in"}                                                                                                                                                                  | height="2.6979166666666665in"}                                                                                                                                                                 | height="2.6979166666666665in"}                                                                                                                                                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The Completion of the Turn Across Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium | ![A person swinging a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_common-elements-across-the-grip-styles/media/image14.jpg) |  |  |
+| **[The common elements in the Full Turn: shoulders slightly past perpendicular to the net, left arm extended to the sideline, racquet hand high.]{.mark}** |  |  |
+| ![A person playing tennis Description automatically generated with low | ![A person swinging a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
+| confidence](media_common-elements-across-the-grip-styles/media/image17.jpg) |  |  |
+
 
 ### Timing
 
@@ -380,8 +363,7 @@ common problem I see.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person in a white shirt Description automatically generated with medium
-   confidence](media_common-elements-across-the-grip-styles/media/image20.webp){width="2.8020833333333335in"
-                                                                                   height="2.4479166666666665in"}
+   confidence](media_common-elements-across-the-grip-styles/media/image20.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               **Agassi completes the full turn in ½ second usually at the time of the\
                                                                                            ball bounce.**
@@ -416,8 +398,7 @@ from the waist.]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A person playing tennis Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image21.webp){width="2.5in"
-                                                                           height="2.4270833333333335in"}
+   generated](media_common-elements-across-the-grip-styles/media/image21.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              **At the set up the player is aligned behind the ball with the outside leg fully coiled.**
 
@@ -445,13 +426,11 @@ when the player plans to step in. (We'll take a detailed look at the all
 variations in the stances as well as what happens to the feet during and
 after the hit in the upcoming articles.)
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically generated with medium                                                                                                                       |
-| confidence](media_common-elements-across-the-grip-styles/media/image22.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image23.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image24.jpg){width="1.9791666666666667in" |
-| height="2.5208333333333335in"}                                                                                                                                                                  | height="2.5208333333333335in"}                                                                                                                                                                  | height="2.5208333333333335in"}                                                                                                                                                                  |
-+:===============================================================================================================================================================================================:+:===============================================================================================================================================================================================:+:===============================================================================================================================================================================================:+
-| **Agassi shows the variations in the position of the feet at the setup. At left, a semi-open forehand. In the center, fully open. At the right, preparing to step in.**                                                                                                                                                                                                                                                                                                                                                                                                                             |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| confidence](media_common-elements-across-the-grip-styles/media/image22.jpg) |  |  |
+| **Agassi shows the variations in the position of the feet at the setup. At left, a semi-open forehand. In the center, fully open. At the right, preparing to step in.** |  |  |
+
 
 On balls that require little or no movement, the set up can coincide
 with the completion of the turn. The player will actually come to a full
@@ -465,8 +444,7 @@ when the player has to move to the ball.]{.mark}**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person playing a guitar Description automatically generated with low
-   confidence](media_common-elements-across-the-grip-styles/media/image25.webp){width="2.5625in"
-                                                                             height="2.4791666666666665in"}
+   confidence](media_common-elements-across-the-grip-styles/media/image25.webp)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **When the player takes two steps the timing of the set up changes.**
 
@@ -493,19 +471,14 @@ knee bent as deeply as possible. If you look closely, you'll see that
 even when player's appear to be on the run, there is a different pattern
 to the final step before the hit.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Variations in Timing the Setup Across Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+=================================================================================================================================================================================================+:===============================================================================================================================================================================================:+===============================================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically generated with low                                                                                                                          | ![A person playing tennis Description automatically                                                                                                                                            |
-| confidence](media_common-elements-across-the-grip-styles/media/image26.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image27.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image28.jpg){width="1.9791666666666667in" |
-| height="2.2395833333333335in"}                                                                                                                                                                  | height="2.2395833333333335in"}                                                                                                                                                                  | height="2.2395833333333335in"}                                                                                                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Note the variation in the timing of the set up. The differences are in the position of the left arm, the height of the racquet hand, and the rotation of the torso.**                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically                                                                                                                                             | ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                       |
-| generated](media_common-elements-across-the-grip-styles/media/image29.jpg){width="1.9791666666666667in"  | confidence](media_common-elements-across-the-grip-styles/media/image30.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image31.jpg){width="1.9791666666666667in" |
-| height="2.2395833333333335in"}                                                                                                                                                                  | height="2.2395833333333335in"}                                                                                                                                                                  | height="2.2395833333333335in"}                                                                                                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Variations in Timing the Setup Across Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically |
+| confidence](media_common-elements-across-the-grip-styles/media/image26.jpg) |  |  |
+| **Note the variation in the timing of the set up. The differences are in the position of the left arm, the height of the racquet hand, and the rotation of the torso.** |  |  |
+| ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically |
+| generated](media_common-elements-across-the-grip-styles/media/image29.jpg) |  |  |
+
 
 You can see this in the way the foot moves on and off the court. As
 players start to move toward the ball, they tend to stay mainly on the
@@ -516,8 +489,7 @@ they brake, they coil the back leg by deepening the knee bend.]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person playing tennis Description automatically generated with medium
-   confidence](media_common-elements-across-the-grip-styles/media/image32.webp){width="2.71875in"
-                                                                                    height="2.4375in"}
+   confidence](media_common-elements-across-the-grip-styles/media/image32.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                    **Even on the dead run watch Agassi's "breaking step." Note how he lands on the heel of his outside or right foot and the deepening his knee bend.**
 
@@ -557,8 +529,7 @@ Tennis](http://www.advancedtennis.com) footage.)
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A picture containing text, tennis, person, racket Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image33.webp){width="2.7916666666666665in"
-                                                                                          height="2.5in"}
+   generated](media_common-elements-across-the-grip-styles/media/image33.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                          **Movement from backswing to hitting arm position may be the most misunderstood element in the modern forehand.**
 
@@ -590,19 +561,14 @@ generate the right amount of spin for the given situation, and to hit
 the forehand with consistent technical precision over
 time.]{.underline}]{.mark}**
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The Hitting Arm Position Across the Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-+=================================================================================================================================================================================================+=================================================================================================================================================================================================+================================================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with low                                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically generated with medium                                                                                                                       |
-| confidence](media_common-elements-across-the-grip-styles/media/image34.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image35.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image36.jpg){width="1.9791666666666667in" |
-| height="2.5625in"}                                                                                                                                                                              | height="2.5625in"}                                                                                                                                                                              | height="2.5625in"}                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Note how players with grips ranging from classical to extreme all find a similar position with the elbow tucked in and the wrist laid back at the start of the forward swing.**                                                                                                                                                                                                                                                                                                                                                                                                                   |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person swinging a baseball bat Description automatically generated with medium                                                                                                              |
-| confidence](media_common-elements-across-the-grip-styles/media/image37.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image38.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image39.jpg){width="1.9791666666666667in" |
-| height="2.5625in"}                                                                                                                                                                              | height="2.5625in"}                                                                                                                                                                              | height="2.5625in"}                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The Hitting Arm Position Across the Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with low | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_common-elements-across-the-grip-styles/media/image34.jpg) |  |  |
+| **Note how players with grips ranging from classical to extreme all find a similar position with the elbow tucked in and the wrist laid back at the start of the forward swing.** |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person swinging a baseball bat Description automatically generated with medium |
+| confidence](media_common-elements-across-the-grip-styles/media/image37.jpg) |  |  |
+
 
 You can spend years developing the most beautiful circular loop in the
 history of tennis, and the effort will be completely wasted and
@@ -616,8 +582,7 @@ to set up the hitting arm.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                         ![A person playing tennis Description automatically
-   generated](media_common-elements-across-the-grip-styles/media/image40.gif){width="2.8020833333333335in"
-                                                                                   height="2.3229166666666665in"}
+   generated](media_common-elements-across-the-grip-styles/media/image40.gif)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                **Hewitt moves to the contact with the elbow in and the wrist back.**
 
@@ -644,27 +609,21 @@ top player, the wrist remains laid back at contact at an angle of about
 
  
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The Contact Point Across the Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-+=================================================================================================================================================================================================+================================================================================================================================================================================================+================================================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                       | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                       | ![A person playing tennis Description automatically generated with medium                                                                                                                       |
-| confidence](media_common-elements-across-the-grip-styles/media/image41.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image42.jpg){width="1.9791666666666667in" | confidence](media_common-elements-across-the-grip-styles/media/image43.jpg){width="1.9791666666666667in" |
-| height="2.1875in"}                                                                                                                                                                              | height="2.1875in"}                                                                                                                                                                             | height="2.1875in"}                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Here we can see how the player maintain the hitting arm position at contact\--elbow still bent and the wrist still laid back.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                                        | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                       | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                        |
-| generated](media_common-elements-across-the-grip-styles/media/image44.jpg){width="1.9791666666666667in"  | generated](media_common-elements-across-the-grip-styles/media/image45.jpg){width="1.9791666666666667in" | generated](media_common-elements-across-the-grip-styles/media/image46.jpg){width="1.9791666666666667in"  |
-| height="2.1875in"}                                                                                                                                                                              | height="2.1875in"}                                                                                                                                                                             | height="2.1875in"}                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The Contact Point Across the Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| confidence](media_common-elements-across-the-grip-styles/media/image41.jpg) |  |  |
+| **Here we can see how the player maintain the hitting arm position at contact\--elbow still bent and the wrist still laid back.** |  |  |
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
+| generated](media_common-elements-across-the-grip-styles/media/image44.jpg) |  |  |
+
 
 **\"Wrist\" on the Low Ball**
 
 ![A person playing tennis Description automatically
-generated](media_common-elements-across-the-grip-styles/media/image47.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_common-elements-across-the-grip-styles/media/image47.webp)
 
-**Click here to study how Hewitt uses\--or actually doesn\'t use\--his
+**Click here to study how Hewitt uses\--or actually doesn't use\--his
 wrist to lift a low ball.**
 
 Amazingly, this is even true on low balls close to the net. Check out
@@ -678,13 +637,12 @@ example of how our naked eyes deceive us when we look at pro tennis.
 
 ![A person swinging a baseball bat Description automatically generated
 with medium
-confidence](media_common-elements-across-the-grip-styles/media/image48.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_common-elements-across-the-grip-styles/media/image48.webp)
 
 **Agassi moves to the start of the release with the wrist still laid
 back.**
 
-**[[\"Elbow in, wrist laid back.\" It\'s a magic key to the modern
+**[[\"Elbow in, wrist laid back.\" It's a magic key to the modern
 forehand.]{.underline}]{.mark}** There is no \"snap\" during the
 contact. The arm should be relaxed and the grip pressure as light as
 possible, but beyond that, the wrist is essentially along for the ride.
@@ -697,7 +655,7 @@ arm position at the completion of the backswing, and keep this position
 essentially in tact as they move the racket forward to the
 hit.]{.mark}** Sometimes the amount of layback, and therefore the angle
 between the racket and the forearm, decreases as the racket comes
-forward to the ball. But most times it doesn\'t, for most players. When
+forward to the ball. But most times it doesn't, for most players. When
 this movement does happen, it seems obvious that it is a natural
 consequence of the swing\--and the fact that the players are staying as
 relaxed as possible.
@@ -726,19 +684,14 @@ technical key on the forehand: the image of the palm of the hand driving
 the racket from the completion of the backswing out well past the
 contact.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The Start of the Release Across the Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+================================================================================================================================================================================================+===============================================================================================================================================================================================+===============================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                      | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                      | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                      |
-| confidence](media_common-elements-across-the-grip-styles/media/image49.jpg){width="2.638888888888889in" | generated](media_common-elements-across-the-grip-styles/media/image50.jpg){width="2.638888888888889in" | generated](media_common-elements-across-the-grip-styles/media/image51.jpg){width="2.638888888888889in" |
-| height="2.8055555555555554in"}                                                                                                                                                                 | height="2.8055555555555554in"}                                                                                                                                                                | height="2.8055555555555554in"}                                                                                                                                                                |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The start of the release-the last point in the swing with the wrist fully laid back.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                      | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                      | ![A person playing tennis Description automatically                                                                                                                                           |
-| confidence](media_common-elements-across-the-grip-styles/media/image52.jpg){width="2.638888888888889in" | generated](media_common-elements-across-the-grip-styles/media/image53.jpg){width="2.638888888888889in" | generated](media_common-elements-across-the-grip-styles/media/image54.jpg){width="2.638888888888889in" |
-| height="2.8055555555555554in"}                                                                                                                                                                 | height="2.8055555555555554in"}                                                                                                                                                                | height="2.8055555555555554in"}                                                                                                                                                                |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The Start of the Release Across the Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
+| confidence](media_common-elements-across-the-grip-styles/media/image49.jpg) |  |  |
+| **The start of the release-the last point in the swing with the wrist fully laid back.** |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically |
+| confidence](media_common-elements-across-the-grip-styles/media/image52.jpg) |  |  |
+
 
 **The Universal Finish**
 
@@ -755,8 +708,7 @@ racket over at the end of the swing: \"Show me the butt of the racket!\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-elements-across-the-grip-styles/media/image55.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_common-elements-across-the-grip-styles/media/image55.webp)
 
 **Even with an extreme semi-western grip, Hewitt hits the universal
 finish position on 75% of his forehands.**
@@ -764,7 +716,7 @@ finish position on 75% of his forehands.**
 What the high speed video shows, however, is that on basic balls the
 players reach a kind of Universal Finish position that precedes the
 wrap. This position represents the technical completion of the
-foreswing. It\'s our last critical commonality shared across the grip
+foreswing. It's our last critical commonality shared across the grip
 styles. Ironically this position has always been a key component in
 classical teaching.
 
@@ -774,7 +726,7 @@ both. That is, it is the last point in the swing before the racket
 starts to move backwards and/or downwards, the so-called \"wrap\".
 
 This position has several characteristic checkpoints. Typically the
-player\'s racket hand will reach about eye level, or a little above or a
+player's racket hand will reach about eye level, or a little above or a
 little below.
 
 The racket hand will also be across the body, roughly in line with the
@@ -789,25 +741,20 @@ inside in balls, most short balls, and even many of balls hit on the
 run. Even Roddick, who seems to have the most variation in his swing
 pattern of any player, still gets to this position on a regular basis.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The Universal Finish Across the Grip Styles**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-+=================================================================================================================================================================================================+===============================================================================================================================================================================================+===============================================================================================================================================================================================+
-| ![A person in a white shirt Description automatically generated with low                                                                                                                        | ![A person playing tennis Description automatically                                                                                                                                           | ![A person swinging a tennis racket Description automatically                                                                                                                                 |
-| confidence](media_common-elements-across-the-grip-styles/media/image56.jpg){width="2.5972222222222223in" | generated](media_common-elements-across-the-grip-styles/media/image57.jpg){width="2.611111111111111in" | generated](media_common-elements-across-the-grip-styles/media/image58.jpg){width="2.638888888888889in" |
-| height="3.013888888888889in"}                                                                                                                                                                   | height="3.0833333333333335in"}                                                                                                                                                                | height="3.0972222222222223in"}                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Some of the key checkpoints are wrist at about eye level, upper arm parallel to the court, and the forearm at about 30 - 45 degrees.**                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing person, outdoor, player Description automatically                                                                                                                        | ![A picture containing tennis, grass, sport, athletic game Description automatically                                                                                                          | ![A person playing tennis Description automatically generated with medium                                                                                                                     |
-| generated](media_common-elements-across-the-grip-styles/media/image59.jpg){width="2.638888888888889in"   | generated](media_common-elements-across-the-grip-styles/media/image60.jpg){width="2.625in"             | confidence](media_common-elements-across-the-grip-styles/media/image61.jpg){width="2.625in"            |
-| height="3.0694444444444446in"}                                                                                                                                                                  | height="3.0694444444444446in"}                                                                                                                                                                | height="3.0694444444444446in"}                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **The Universal Finish Across the Grip Styles** |  |  |
+| --- | --- | --- |
+| ![A person in a white shirt Description automatically generated with low | ![A person playing tennis Description automatically | ![A person swinging a tennis racket Description automatically |
+| confidence](media_common-elements-across-the-grip-styles/media/image56.jpg) |  |  |
+| **Some of the key checkpoints are wrist at about eye level, upper arm parallel to the court, and the forearm at about 30 - 45 degrees.** |  |  |
+| ![A picture containing person, outdoor, player Description automatically | ![A picture containing tennis, grass, sport, athletic game Description automatically | ![A person playing tennis Description automatically generated with medium |
+| generated](media_common-elements-across-the-grip-styles/media/image59.jpg) |  |  |
+
 
 Yes, there are variations. In addition to Roddick, you can find examples
 of the other players with more extreme grips finishing lower, and
 sometimes much lower, and/or across the body with the racket ending up
 at waist leve, as well as over the head on the right side as in Pete
-Sampras\'s running forehand.
+Sampras's running forehand.
 
 What the footage shows, however, is that these are usually variations
 due to ball position on the court, ball height, ball spin, and the angle
@@ -816,7 +763,7 @@ of the shot the player is hitting.
 The checkpoints above therefore represent a commonality across the grip
 styles on the basic forehand drive. But this is not to say the finishes
 are completely identical. The biggest difference is the greater amount
-of internal arm rotation with the extreme grips, something we\'ll look
+of internal arm rotation with the extreme grips, something we'll look
 at in detail in the next article. This internal arm rotation also
 accounts for the greater diversity in the swing patterns with extreme
 grips.
@@ -831,7 +778,7 @@ see.
 **Extension Outward**
 
 A critical further point is the outward extension of the motion at the
-Universal Finish. So critical that it deserves it\'s own extended
+Universal Finish. So critical that it deserves it's own extended
 discussion. We can see this extension in the position of the hand and
 racket in relation to the torso. Typically the racket hand will reach a
 point that is at least one up to two feet in front of the plane of the
@@ -840,13 +787,12 @@ torso.
 This is an indication of the real path of the swing, and how far the
 racket has continued outward toward the target before the start of the
 wrap. This outward extension is present in the forehand of virtually all
-top players at the Universal Finish. It\'s also there even when they
+top players at the Universal Finish. It's also there even when they
 fall a little short of the precise finish checkpoints described above.
 
 ![A picture containing text, tennis, athletic game, sport Description
 automatically
-generated](media_common-elements-across-the-grip-styles/media/image62.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_common-elements-across-the-grip-styles/media/image62.webp)
 
 **The extension of the swing away from the torso is commonly overlooked,
 especially with the extreme grips.**
@@ -854,7 +800,7 @@ especially with the extreme grips.**
 The importance of the motion from the contact to this final extension is
 widely overlooked and misunderstood by both players and coaches. Many
 players who believe they are imitating the pros finish with the hand far
-too close to the torso in an effort to force the wrap. I\'ve even filmed
+too close to the torso in an effort to force the wrap. I've even filmed
 ranked junior players who were hitting themselves in the chest with
 their racket hand!
 
@@ -881,12 +827,12 @@ they decelerate the racket by moving it backward toward the body, the
 
 You can actually see the deceleration in the high speed video movie of
 Guga below. Just watch how far the racket moves from frame to frame.
-You\'ll see it move further as it accelerates to contact and through the
+You'll see it move further as it accelerates to contact and through the
 extension of the motion, and much less as it starts to move backwards
 through the wrap.
 
-Let\'s be clear: **[[the wrap is a critical part of the motion on the
-modern forehand. But let\'s not confuse acceleration and deceleration.
+Let's be clear: **[[the wrap is a critical part of the motion on the
+modern forehand. But let's not confuse acceleration and deceleration.
 Most players will naturally wrap as a consequence of extending their
 swing. They have to, in order to slow down the racket smoothly and keep
 from putting additional strain on their shoulder
@@ -904,34 +850,31 @@ added to the coaching confusion. Because they can see it more clearly,
 coaches often seize on the wrap in order to have some way to understand
 the extreme forehands.
 
-What they don\'t see is the universal finish because it happens so much
+What they don't see is the universal finish because it happens so much
 faster. Even watching Advanced Tennis video, you can sometimes miss or
-overlook this position if you don\'t stop and go frame by frame.
+overlook this position if you don't stop and go frame by frame.
 
 At a recent coaching convention where I was speaking, a teaching pro who
 was a big Kuerten fan was checking out the high speed video.
 
 After seeing Guga finish a few forehands with the wrap across the body,
-he started modeling Guga\'s stroke and telling me how this was exactly
+he started modeling Guga's stroke and telling me how this was exactly
 how he had taught all his juniors to hit heavy topspin. I noticed,
-however, that his racket hand wasn\'t even reaching shoulder level
+however, that his racket hand wasn't even reaching shoulder level
 before crossing over his body, so I asked him to take a look at the Guga
 footage frame by frame.
 
-+-------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                               | ![A tennis player swings a racket Description automatically generated with medium                                                                                                               |
-|                               | confidence](media_common-elements-across-the-grip-styles/media/image63.webp){width="3.3333333333333335in" |
-|                               | height="2.2291666666666665in"}![A person playing tennis Description automatically generated with low                                                                                            |
-|                               | confidence](media_common-elements-across-the-grip-styles/media/image64.jpg){width="3.331288276465442in"  |
-|                               | height="2.224825021872266in"}                                                                                                                                                                   |
-+:=============================:+:===============================================================================================================================================================================================:+
-| **Even watching on video, you can miss the extension after the hit. The still frame on the right shows the point of maximum extension in the same swing.**                                                                      |
-|                                                                                                                                                                                                                                 |
-| **Watch the animation and see if you can see him make the position.**                                                                                                                                                           |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  | ![A tennis player swings a racket Description automatically generated with medium |
+| --- | --- |
+|  | confidence](media_common-elements-across-the-grip-styles/media/image63.webp)![A person playing tennis Description automatically generated with low |
+|  | confidence](media_common-elements-across-the-grip-styles/media/image64.jpg) |
+| **Even watching on video, you can miss the extension after the hit. The still frame on the right shows the point of maximum extension in the same swing.** |  |
+|  |  |
+| **Watch the animation and see if you can see him make the position.** |  |
+
 
 When he saw Guga reach the universal finish position on several balls,
-he decided that Guga really didn\'t hit his forehand that well after
+he decided that Guga really didn't hit his forehand that well after
 all, maybe not even as well as his own 12 year old son. Then he
 proceeded to tell me how he thought Guga should come take some lessons
 from him and learn to shorten up his followthrough.
@@ -949,8 +892,7 @@ Jack Kramer. And so does Pete Sampras.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_common-elements-across-the-grip-styles/media/image65.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_common-elements-across-the-grip-styles/media/image65.webp)
 
 **The key positions on the modern forehand: Do they look more familiar
 now?**
@@ -969,16 +911,15 @@ would be the case of a player with an extremely rigid swing, and the
 point would still be to relax and let the wrap on its own, rather than
 forcing it to happen.
 
-So that\'s Part 1 on the commonalities in the swing patterns. Next
-let\'s take a detailed look at the backswings. They turn out to be far
-more complex and individualistic than you might think. From there we\'ll
+So that's Part 1 on the commonalities in the swing patterns. Next
+let's take a detailed look at the backswings. They turn out to be far
+more complex and individualistic than you might think. From there we'll
 move on to the considerable technical differences, and finally on to
 issues like shot variety, stances and recovery steps.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_common-elements-across-the-grip-styles/media/image66.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_common-elements-across-the-grip-styles/media/image66.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

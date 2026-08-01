@@ -7,9 +7,9 @@
 ### Scott Murphy
 
 A player who wants to be a force at the net has to put in quality
-practice time. When you\'re learning the mechanics, static practice is
+practice time. When you're learning the mechanics, static practice is
 fine to a point. However, if all you do is basically stand in one spot
-and volley a perfectly fed ball, you\'re kidding yourself. Dynamic
+and volley a perfectly fed ball, you're kidding yourself. Dynamic
 practice involves match like situations, such as; moving in, split
 stepping, playing a low volley deep, recovering, and then closing in on
 a floater and putting it away.
@@ -17,15 +17,14 @@ a floater and putting it away.
 Here are few drills I use that may help you get started:
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-4-drills-and-more-drills/media/image1.webp){width="2.7395833333333335in"
-height="2.125in"}
+generated](media_the-volley-part-4-drills-and-more-drills/media/image1.webp)
 
 **The \"Rapid Fire Drill\" emphasizes readiness, simplicity, ball focus
 and recovery.**
 
 ### Rapid Fire
 
-The \"Rapid Fire Drill\" accentuates readiness and simplicity. I\'ll
+The \"Rapid Fire Drill\" accentuates readiness and simplicity. I'll
 feed four balls in rapid succession, sometimes uniformly, sometimes not.
 I feed the first ball with a bounce but the subsequent balls out of the
 air. There should be just enough time for the volleyer to ready hop,
@@ -38,8 +37,7 @@ volleys. Emphasize watching the ball off the racket and recovery.
 
 ![A couple of people playing tennis Description automatically generated
 with medium
-confidence](media_the-volley-part-4-drills-and-more-drills/media/image2.webp){width="2.6666666666666665in"
-height="2.28125in"}
+confidence](media_the-volley-part-4-drills-and-more-drills/media/image2.webp)
 
 **In the \"Shoot Out\" close to ideal volley position and see who can
 keep the ball in play longest.**
@@ -54,12 +52,11 @@ This drill finds two players on opposite sides of the net, both at the
 of the other player, both players close to ideal volley position while
 firing volleys at one another.
 
-No winners are attempted. It\'s simply a matter of who can last the
+No winners are attempted. It's simply a matter of who can last the
 longest without making an error.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-4-drills-and-more-drills/media/image3.webp){width="2.6666666666666665in"
-height="2.5in"}
+generated](media_the-volley-part-4-drills-and-more-drills/media/image3.webp)
 
 **\"Catch and Volley\" develops touch and feel often lacking in the
 modern game.**
@@ -70,7 +67,7 @@ The first part of the \"Catch and Volley\" drill helps develop touch for
 drop volleys, while also providing a \"self fed\" second ball to volley.
 
 As the animation shows, the first ball is caught, bumped up, and then
-volleyed out. Once you\'re comfortable \"catching\" the ball you can hit
+volleyed out. Once you're comfortable \"catching\" the ball you can hit
 drop volleys over the net on the initial feed.
 
 Practice having the ball bounce anywhere between three and five times
@@ -78,15 +75,14 @@ before it leaves the opposite service box. Later on you can practice the
 drop volley in a more dynamic drill of your making.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-volley-part-4-drills-and-more-drills/media/image4.webp){width="2.71875in"
-height="2.2291666666666665in"}
+confidence](media_the-volley-part-4-drills-and-more-drills/media/image4.webp)
 
 **In the \"Half Court Pass,\" the reduced court size promotes
 consistency and precision.**
 
 ### Half Court Pass
 
-One player is at the baseline and there\'s a net player who starts at
+One player is at the baseline and there's a net player who starts at
 the service line. The boundaries are the centerline (extended to the
 baseline), the doubles alley sideline, and the baseline.
 
@@ -98,17 +94,16 @@ the baseliner tries to pass him.
 
 You can play to a predetermined amount of points. It SHOULD be very
 difficult for the baseliner to hit a clean winner. Of course you can
-come up with all kinds of variations. For instance, the volleyer\'s
+come up with all kinds of variations. For instance, the volleyer's
 shots have to land over the service line, or put the possibility of a
-lob in so he doesn\'t get unrealistically close to the net, etc. In
+lob in so he doesn't get unrealistically close to the net, etc. In
 another variation of this drill, both players start at the baseline and
 practice moving in with appropriate split steps on the way to ideal
 volley position where they have a shoot out.
 
 ![Two people playing tennis Description automatically generated with
 medium
-confidence](media_the-volley-part-4-drills-and-more-drills/media/image5.webp){width="2.7083333333333335in"
-height="2.4270833333333335in"}
+confidence](media_the-volley-part-4-drills-and-more-drills/media/image5.webp)
 
 **The \"Figure X Drill\" helps players learn changes in ball
 direction.**
@@ -125,8 +120,7 @@ This drill is geared primarily toward ball direction change.
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_the-volley-part-4-drills-and-more-drills/media/image6.webp){width="3.0in"
-height="2.25in"}
+confidence](media_the-volley-part-4-drills-and-more-drills/media/image6.webp)
 
 **\"Two on Two drill\" - When the first player misses, play out the
 point with the remaining ball.**
@@ -145,15 +139,13 @@ This is obviously a doubles oriented drill that helps create court
 awareness.
 
 ![A person playing tennis Description automatically
-generated](media_the-volley-part-4-drills-and-more-drills/media/image7.webp){width="2.6875in"
-height="2.46875in"}
+generated](media_the-volley-part-4-drills-and-more-drills/media/image7.webp)
 
-**\"Serve and Volley\" - Let\'s state the obvious. To improve your serve
+**\"Serve and Volley\" - Let's state the obvious. To improve your serve
 and volley, you have to actually try it in matches.**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-volley-part-4-drills-and-more-drills/media/image8.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-volley-part-4-drills-and-more-drills/media/image8.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -167,7 +159,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

@@ -10,15 +10,15 @@ Get ready because\--finally\--in this fourth article in our series, we
 will actually see someone hit a one-handed backhand! Just kidding, but
 we have spent the first three articles looking at grips and preparation
 and backswing\--everything leading up to the forward swing and the hit.
-And now, hopefully it\'s time for the payoff in terms of what actually
+And now, hopefully it's time for the payoff in terms of what actually
 happens at contact and beyond.
 
-We\'ve seen how players across the grip styles all start the preparation
+We've seen how players across the grip styles all start the preparation
 with a unit turn. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand-The%20Grip%20Shift%20and%20Unit%20Turn.docx).)
-We\'ve seen that there is a lot of variety in the backswings, and that
+We've seen that there is a lot of variety in the backswings, and that
 although some of the extreme players have the biggest take backs, others
-are quite compact, and that there isn\'t any simple correlation between
+are quite compact, and that there isn't any simple correlation between
 backswing and grip style. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand-The%20Backswing(s).docx).)
 
@@ -29,8 +29,7 @@ turn and the step to the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image1.webp)
 
 **The forward swing: extreme and classical styles.**
 
@@ -38,16 +37,15 @@ So what happens next?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image2.webp)
 
-**It\'s minimalistic: the straight hitting arm start to finish.**
+**It's minimalistic: the straight hitting arm start to finish.**
 
 **Hitting Arm Position**
 
 ***[On all the strokes, one essential component in the forward swing is
 the hitting arm position.]{.mark}*** This is as true, if not more true,
-on the one-handed backhand. For the one-hander it\'s minimalistic:
+on the one-handed backhand. For the one-hander it's minimalistic:
 ***[the hitting arm is straight at the start of the forward swing and
 stays that way all the way out through the extension of the
 stroke.]{.mark}***
@@ -55,12 +53,12 @@ stroke.]{.mark}***
 This basic point can get lost when we get wrapped up in the study of the
 backswing. When we look at the pro players we see many of them take the
 hand and racket up very high with up to a 90 degree bend in the elbow.
-Isn\'t that the key to hitting the ball like the pros? The answer is no.
+Isn't that the key to hitting the ball like the pros? The answer is no.
 Other players become obsessed with advanced elements such as hand and
 arm rotation, things that can be added by most players, but these
-aren\'t fundamental either.
+aren't fundamental either.
 
-**[We\'ve noted many times the phenomenon of lower level players copying
+**[We've noted many times the phenomenon of lower level players copying
 these extreme and idiosyncratic aspects of pro tennis, rather than the
 structural building blocks.]{.mark}** This is also common on the
 one-handed backhand.
@@ -72,21 +70,17 @@ hit, with the racket head trailing behind. The result is late contact,
 loss of leverage, loss of power, and also, the inability to hit the ball
 crosscourt. And discussion of any other factors become irrelevant.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically                                                                                                                                                      | ![A person playing tennis Description automatically                                                                                                                                                       | ![A person playing tennis Description automatically                                                                                                                                                       | ![A person playing tennis Description automatically                                                                                                                                                        | ![A person playing tennis Description automatically generated with medium                                                                                                                                  |
-| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image3.jpg){width="1.5972222222222223in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image4.jpg){width="1.5555555555555556in"  | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image5.jpg){width="1.5416666666666667in"  | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image6.jpg){width="1.5416666666666667in"   | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image7.jpg){width="1.4722222222222223in"  |
-| height="2.9166666666666665in"}                                                                                                                                                                           | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                             |
-+==========================================================================================================================================================================================================+===========================================================================================================================================================================================================+===========================================================================================================================================================================================================+============================================================================================================================================================================================================+============================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically                                                                                                                                                      | ![A person playing golf Description automatically generated with low                                                                                                                                      | ![A person playing tennis Description automatically                                                                                                                                                       | ![A person playing basketball Description automatically generated with medium                                                                                                                              | ![A person playing tennis Description automatically generated with medium                                                                                                                                  |
-| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image8.jpg){width="1.4305555555555556in" | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image9.jpg){width="1.4583333333333333in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image10.jpg){width="1.5555555555555556in" | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image11.jpg){width="1.6111111111111112in" | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image12.jpg){width="1.5972222222222223in" |
-| height="2.9166666666666665in"}                                                                                                                                                                           | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **The hitting arm position across the grips styles: totally and completely straight at the start of the forward swing.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- | --- | --- |
+| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image3.jpg) |  |  |  |  |
+| ![A person playing tennis Description automatically | ![A person playing golf Description automatically generated with low | ![A person playing tennis Description automatically | ![A person playing basketball Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
+| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image8.jpg) |  |  |  |  |
+| **The hitting arm position across the grips styles: totally and completely straight at the start of the forward swing.** |  |  |  |  |
 
-If you look at all the players we\'ve been studying, the hitting arm is
+
+If you look at all the players we've been studying, the hitting arm is
 already straight at the bottom of the backswing, or very shortly
-thereafter, right at the start of the forward swing. It\'s the same for
+thereafter, right at the start of the forward swing. It's the same for
 both the extreme and the classical players. And again, this is not
 apparently related to the size of the backswing. Some of the players
 with the largest backswings also straighten out the arm at the earliest
@@ -100,12 +94,11 @@ before even reaching the bottom of the backswing. When you watch him
 this position just looks solid and strong.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image13.webp)
 
 **Big backswing, early hitting arm position.**
 
-The other aspect we noted about Robredo\'s backswing that was more
+The other aspect we noted about Robredo's backswing that was more
 extreme than the other players was how far he took the hand and racket
 outside to his left, away from his torso at the top of the backswing.
 But again, as he starts to drop the racket down from the top of the
@@ -119,7 +112,7 @@ elbow, forming a straight line all the way up to the shoulder.
 **The Shoulder Hinge**
 
 **Why is the straight arm hitting position so important\--and so
-different from the double bend structure we\'ve seen and studied on the
+different from the double bend structure we've seen and studied on the
 forehand**? ([Click
 Here](http://www.tennisplayer.net/members/tour_strokes/jeff_counts/forehand_a_spring_event/forehand_a_spring_event%20.html)
 to read Jeff Counts article on the Double Bend Forehand.) ***[[The
@@ -128,12 +121,12 @@ reason is the position of the hitting shoulder.]{.underline}]{.mark}***
 plane of the contact. On the one-handed backhand, the front right
 shoulder is already there at the completion of the turn.]{.mark}**
 
-Although it isn\'t quite this simple, a good analogy for understanding
+Although it isn't quite this simple, a good analogy for understanding
 the forward swing on the one-hander is to think of the arm and the
 racket as a one piece \"gate\" that swings around and forward from the
 \"hinge\" of the right front hitting shoulder.
 
-**[[There isn\'t any internal movement in the gate, or the structure of
+**[[There isn't any internal movement in the gate, or the structure of
 the hitting arm. The player is simply using his shoulder and other upper
 body muscles to swing the \"gate\" around, first to the contact point
 and then out into the followthrough.]{.underline}]{.mark}**
@@ -141,25 +134,24 @@ and then out into the followthrough.]{.underline}]{.mark}**
 This is why the straight hitting arm is a prerequisite for the shot to
 work at any level of play. If the elbow stay bent too long, the \"gate\"
 is effectively cut in two at the elbow. As the racket comes around with
-the elbow bent, it can\'t reach the correct contact point and, at best,
+the elbow bent, it can't reach the correct contact point and, at best,
 can slide across and/or under the ball. This produces a weak push, often
 hit with sidespin and also usually down the line, no matter how hard the
 player tries to bring it crosscourt.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image14.webp)
 
 **The finish or the point of greatest forward extension.**
 
 This is why we see the straight hitting arm position in all the
 one-handers, and why they all establish it so early. With all the
-variations and differences we\'ve examined in the one-hander, the
+variations and differences we've examined in the one-hander, the
 hitting arm position is the closest thing there is to a universal
 constant. Yes, we will see some variation in this position when we look
 at how players now use more hand and arm rotation in this shot similar
-to the forehand, at least on certain balls. But for now we\'ll stick to
+to the forehand, at least on certain balls. But for now we'll stick to
 looking at the more basic structure.
 
 **The Finish**
@@ -179,17 +171,13 @@ vary somewhat depending on the specific shot, the ball height, and
 amount of spin. But the key point is how long the players maintain this
 straight arm position.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically                                                                                                                                                        | ![A picture containing tennis, person, racket, sport Description automatically                                                                                                                            | ![A person hitting a ball with his tennis racket Description automatically                                                                                                                                 | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  | ![A person playing tennis Description automatically generated with medium                                                                                                                                  |
-| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image15.jpg){width="1.5138888888888888in"  | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image16.jpg){width="1.3194444444444444in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image17.jpg){width="1.4861111111111112in"  | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image18.jpg){width="1.5in"                | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image19.jpg){width="1.5833333333333333in" |
-| height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             |
-+============================================================================================================================================================================================================+===========================================================================================================================================================================================================+============================================================================================================================================================================================================+===========================================================================================================================================================================================================+============================================================================================================================================================================================================+
-| ![A person playing tennis Description automatically generated with medium                                                                                                                                  | ![A picture containing tennis, sport, athletic game, grass Description automatically                                                                                                                      | ![A person playing tennis Description automatically generated with medium                                                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                   |
-| confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image20.jpg){width="1.5833333333333333in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image21.JPG){width="1.5in"                | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image22.jpg){width="1.6388888888888888in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image23.jpg){width="1.5694444444444444in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image24.jpg){width="1.75in"                |
-| height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Arm straight, wrist at about eye level or a little higher, straight line from the hitting arm across the torso.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically | ![A picture containing tennis, person, racket, sport Description automatically | ![A person hitting a ball with his tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- | --- | --- |
+| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image15.jpg) |  |  |  |  |
+| ![A person playing tennis Description automatically generated with medium | ![A picture containing tennis, sport, athletic game, grass Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically | ![A person hitting a ball with a tennis racket Description automatically |
+| confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image20.jpg) |  |  |  |  |
+| **Arm straight, wrist at about eye level or a little higher, straight line from the hitting arm across the torso.** |  |  |  |  |
+
 
 **The Wrap**
 
@@ -202,8 +190,7 @@ at the elbow as the move into the recovery phase.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image25.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image25.webp)
 
 **What is the real relationship between the extension and the wrap?**
 
@@ -215,20 +202,19 @@ the racket cap actually points at the opponent.
 It is sometimes asserted that this wrapping motion is what \"produces\"
 racket head speed? This is a confusion of cause and effect. The
 extension and the racket head speed produce the wrap, not the other way
-round. It\'s obvious from the high speed footage that this is the
+round. It's obvious from the high speed footage that this is the
 deceleration phase of the shot. The racket is actually traveling the
 slowest then compared to any other point in the swing.
 
 In my opinion, mechanically teaching the wrap is a mistake because it
 tends to alter the shape of the forward swing and restrict the extension
 as players struggle to yank the racket up and over their heads. Players
-who try to wrap the finish don\'t usually make the finish position
-we\'ve identified above.
+who try to wrap the finish don't usually make the finish position
+we've identified above.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image26.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image26.webp)
 
 **More extreme means contact naturally higher and further in front.**
 
@@ -245,8 +231,8 @@ If the hitting arm is set up in the correct hitting position at the
 start of the forward swing, and stays that way as the gate swings
 forward on the hinge of the shoulder, the contact point tends to happen
 naturally as a consequence of the forward swing. Obviously the contact
-is the critical point. But it isn\'t an independent event that that can
-be examined outside the overall context of the swing. It\'s one point on
+is the critical point. But it isn't an independent event that that can
+be examined outside the overall context of the swing. It's one point on
 the continuum of the forward swing.
 
 This is especially important in looking at the various grip structures
@@ -254,8 +240,7 @@ on the one-hander, because where the contact falls on that continuum of
 the swing differs significantly as we move from the more classical to
 the more extreme players.
 
-![](media_the-one-handed-topspin-backhand-the-forward-swing/media/image27.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-one-handed-topspin-backhand-the-forward-swing/media/image27.webp)
 
 **How the change from classic to extreme effects contact.**
 
@@ -272,7 +257,7 @@ more in front the contact. And the great ease of handling high bouncing
 balls.
 
 As we are going to see in future articles, extreme players can increase
-hand and arm rotation and deal with lower balls effectively. It\'s also
+hand and arm rotation and deal with lower balls effectively. It's also
 true that extreme players, and in fact all modern players, close the
 face at times as a way of generating certain combinations of speed,
 spin, and trajectory. We will be looking at this in the future as well.
@@ -280,8 +265,7 @@ But what we are talking about are the differences on more basic drives
 with the racket face more or less vertical at contact.
 
 ![A person playing tennis Description automatically
-generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image28.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image28.webp)
 
 **Higher contact matches deeper court positioning.**
 
@@ -307,8 +291,7 @@ backhand? Do you have an extreme forehand grip as well and do you choose
 to play 10 feet behind the baseline?
 
 ![A picture containing text Description automatically
-generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image29.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image29.webp)
 
 **Which grip styles suits the balls you actually play?**
 
@@ -320,21 +303,20 @@ match exchange situations you actually face and what the best strategic
 options might be?
 
 In my opinion, the extreme grip backhand, while beautiful, powerful and
-technically sound, isn\'t as well suited for most players as a less
+technically sound, isn't as well suited for most players as a less
 extreme classical grip, and that includes many players at the world
 class level, including the best player in the world, Roger Federer.
 
 We see players such as Federer and James Blake standing in and taking
-the ball much earlier on the one-hander. In Federer\'s case he often
-picks the ball up right off the court surface. It\'s amazing. The less
+the ball much earlier on the one-hander. In Federer's case he often
+picks the ball up right off the court surface. It's amazing. The less
 extreme grip is naturally suited for these lower contact heights. It
 also allows a contact point further in towards the body, which again
 allows a little flexibility in the timing.
 
 ![A picture containing tennis, sport, athletic game, person Description
 automatically
-generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image30.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image30.webp)
 
 **In general, more extreme grips mean more torso rotation.**
 
@@ -351,21 +333,17 @@ This makes sense and is related to the other difference\--the position
 of the contact point. There is more rotation in order to push the racket
 further forward and out to the contact. And this continues on out into
 the followthrough. The torsos of the classic players are typically open
-30 degrees or less at contact. For the extreme players it\'s more like
+30 degrees or less at contact. For the extreme players it's more like
 45 degrees, and it can be more. With a player like Amelie Mauresmo, the
 shoulders are open more like 60 degrees or even further.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  | ![A picture containing tennis, sport, person, athletic game Description automatically                                                                                                                     | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  | ![A person playing tennis Description automatically generated with medium                                                                                                                                  | ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  |
-| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image31.jpg){width="1.8333333333333333in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image32.jpg){width="1.3611111111111112in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image33.jpg){width="1.5416666666666667in" | confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image34.jpg){width="1.8472222222222223in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image35.jpg){width="1.5555555555555556in" |
-| height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.888888888888889in"}                                                                                                                                                                             |
-+===========================================================================================================================================================================================================+===========================================================================================================================================================================================================+===========================================================================================================================================================================================================+============================================================================================================================================================================================================+===========================================================================================================================================================================================================+
-| ![A person hitting a ball with a tennis racket Description automatically                                                                                                                                  | ![A person playing tennis Description automatically                                                                                                                                                       | ![A person playing tennis Description automatically                                                                                                                                                       | ![A person playing tennis Description automatically                                                                                                                                                        | ![A person hitting a ball with her tennis racket Description automatically                                                                                                                                |
-| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image36.jpg){width="1.7361111111111112in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image37.jpg){width="1.5277777777777777in" | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image38.jpg){width="1.5in"                | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image39.jpg){width="1.6805555555555556in"  | generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image40.jpg){width="1.4861111111111112in" |
-| height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                            | height="2.9166666666666665in"}                                                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                                                            |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Torso rotation relates directly to grip style: more classical grips mean a more sideways position at contact, more extreme grips mean a more open position.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a ball with a tennis racket Description automatically | ![A picture containing tennis, sport, person, athletic game Description automatically | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person hitting a ball with a tennis racket Description automatically |
+| --- | --- | --- | --- | --- |
+| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image31.jpg) |  |  |  |  |
+| ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically | ![A person hitting a ball with her tennis racket Description automatically |
+| generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image36.jpg) |  |  |  |  |
+| **Torso rotation relates directly to grip style: more classical grips mean a more sideways position at contact, more extreme grips mean a more open position.** |  |  |  |  |
+
 
 **Opposite Arm**
 
@@ -373,12 +351,11 @@ But grip is not the only factor controlling torso rotation. The role of
 the left arm also has a major impact on how much the players rotate.
 This turns out to be another one of those factors that is apparently
 independent of grip style. (For a great discussion of the role opposite
-arm in all the strokes Click Here to read Scott Murphy\'s article.)
+arm in all the strokes Click Here to read Scott Murphy's article.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image41.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image41.webp)
 
 **More left arm opposition, more sideways torso position.**
 
@@ -393,7 +370,7 @@ The same is true to great degree for other classic grip players,
 including Henman, Blake, and Tommy Haas. In general we can say a
 conservative grip paired with dramatic left arm action equals a more
 sideways torso position. But, again, we have to be careful in making
-absolute statements, but it\'s not consistent or universal. Federer
+absolute statements, but it's not consistent or universal. Federer
 varies the amount of left arm opposition considerably from ball to ball.
 At times player like Blake and Heman will also oppose the arm noticeably
 less, and when they do, will tend to rotate slightly more through the
@@ -408,8 +385,7 @@ moderated by how much they oppose their back arm.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image42.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image42.webp)
 
 **Little arm opposition, maximum torso rotation.**
 
@@ -437,8 +413,7 @@ rises above waist level or fully straightens out.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image43.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image43.webp)
 
 **There is more variation in the opposite arm with the extreme grips.**
 
@@ -461,22 +436,21 @@ of the players in this article with the left arm straighter and higher
 on some balls, and lower and more bent on others.
 
 ***[So what does it all mean? That like the backswing, the use of the
-left arm appears to be a variable that isn\'t dependent on classical or
+left arm appears to be a variable that isn't dependent on classical or
 extreme grip styles. It seems clear however that the movement of the
 opposite arm plays an important role in the stroke for most all the
 players.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image44.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image44.webp)
 
 **Gonzales and Robredo tend to oppose the left arm dramatically.**
 
-But how much is the ideal amount? There isn\'t a black and white answer.
+But how much is the ideal amount? There isn't a black and white answer.
 It may be a technical factor that the players have a wide range of
 latitude in controlling. Or it might have to do with the strength or
-flexibility of the individual players. It\'s possible that even some
+flexibility of the individual players. It's possible that even some
 players might be able to improve the quality of their shot making by
 emphasizing this factor more in certain circumstances.
 
@@ -486,7 +460,7 @@ worthwhile for most players. Especially at lower levels, over rotation
 of the hips and shoulders is a common problem, and this is almost always
 paired with a limited use the opposite arm. The precise path of the left
 arm ends up taken for a given player with a given grip may depend on
-individual factors. But it\'s definitely a critical element for all one
+individual factors. But it's definitely a critical element for all one
 handers to develop for themselves.
 
 **A Brief Summary**
@@ -498,14 +472,13 @@ backswing on time. From here keeping your hitting arm straight, reaching
 the finish position, and learning to use your left arm are the other
 magic core elements for developing a great one-handed backhand drive.
 
-So that\'s it for the basic issues in the forward swing. Next we\'ll
+So that's it for the basic issues in the forward swing. Next we'll
 look at the issue of stances and hand and arm rotation, something that
 has become increasingly common in the pro game. Stay tuned!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image45.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-one-handed-topspin-backhand-the-forward-swing/media/image45.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

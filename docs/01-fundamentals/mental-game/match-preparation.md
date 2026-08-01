@@ -4,8 +4,7 @@
 
 ------------------------------------------------------------------------
 
-![](media_match-preparation/media/image1.jpg){width="4.166666666666667in"
-height="2.3472222222222223in"}
+![](media_match-preparation/media/image1.jpg)
 
 **Proper match preparation is a key to becoming a tennis warrior.**
 
@@ -34,8 +33,7 @@ It focuses on three critical areas of preparation: pre match
 visualization, opponent scouting, and pre match physical preparation.
 
 ![A picture containing person, person, indoor Description automatically
-generated](media_match-preparation/media/image2.jpg){width="3.125in"
-height="3.3472222222222223in"}
+generated](media_match-preparation/media/image2.jpg)
 
 **What are the internal processes to create your own game face?**
 
@@ -59,14 +57,13 @@ from other competitors and distractions. With closed eyes, the player
 takes several deep, relaxing breaths. He then creates a vivid mental
 image of numerous tasks being performed successfully.
 
-This enhances the player\'s mental awareness and builds his confidence.
+This enhances the player's mental awareness and builds his confidence.
 The player should mentally rerun the \"movie\" several times to
 reinforce the thoughts. This visual experience actually trains a player
 to perform the skills imagined.
 
 ![A person playing tennis Description automatically
-generated](media_match-preparation/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_match-preparation/media/image3.webp)
 
 **Perfectly executed strokes are one area for pre-match visualization.**
 
@@ -96,14 +93,13 @@ strategic preparation that can make the difference in a match.
 Areas to scout include the following:
 
 Stroke strengths and weaknesses (advanced players should also consider
-an opponent\'s preferred strike zones). Primary style of play. Preferred
+an opponent's preferred strike zones). Primary style of play. Preferred
 serve and return patterns, especially on mega points. Dominant
 short-ball options.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_match-preparation/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_match-preparation/media/image4.webp)
 
 **Opponent profiling should include style of play.**
 
@@ -112,7 +108,7 @@ stability.
 
 Opponent profiling should continue from the pre-match phase, through the
 actual match, and sometimes even into the post-match, where clues about
-a player\'s personality and emotions sometimes become apparent.
+a player's personality and emotions sometimes become apparent.
 
 **Match-Day Stretching**
 
@@ -130,7 +126,7 @@ lower body.
 
 **Prematch Warm-Up Rituals**
 
-Sam Sumyk, coach of Victoria Azarenka, says, \"Vika\'s prematch routine
+Sam Sumyk, coach of Victoria Azarenka, says, \"Vika's prematch routine
 consistently includes a 45-minute stretching ritual followed by a
 45-minute hitting routine.\"
 
@@ -147,61 +143,58 @@ before the match.
 Players who neglect their secondary strokes have a very different
 mind-set when faced with the same exact situation. Instead of
 instinctively moving forward to hit the swing volley, they hesitate and
-are caught thinking, I don\'t remember the last time I hit one of these.
+are caught thinking, I don't remember the last time I hit one of these.
 
 **Calming Prematch Run**
 
 ![A person playing tennis Description automatically
-generated](media_match-preparation/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_match-preparation/media/image5.webp)
 
 As match time draws near, players often experience a wave of
 apprehension and nervousness. This fear triggers an overflow of
-adrenaline; it\'s time for fight or flight.
+adrenaline; it's time for fight or flight.
 
 When players feel this sensation, they can burn off their performance
 anxiety by going for a short run. Players can also do this the night
 before the match, in the morning before they hit a ball in warm-up, and
 again just before the match begins.
 
-Raising the body\'s core temperature warms up the muscle groups and
+Raising the body's core temperature warms up the muscle groups and
 relaxes the tension as it burns off the excess adrenaline, calming the
 mind and helping the player begin the match in a peak performance state.
 
-The prematch run or runs should be customized based on the player\'s
+The prematch run or runs should be customized based on the player's
 fitness level and emotional stability, as well as the amount of time
 available. If a player is not the overly nervous type, she may only need
 to take a short run before the match.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                   | Frank Giampaolo has been a leading Southern        |
-| confidence](media_match-preparation/media/image6.jpeg){width="1.5131944444444445in" | California tennis coach for 25 years, and is the   |
-| height="1.9652777777777777in"}                                                                                                                                      | author of a comprehensive new work on player       |
-|                                                                                                                                                                     | development, Championship Tennis, as well as the   |
-|                                                                                                                                                                     | author of The Tennis Parent\'s Bible. He has       |
-|                                                                                                                                                                     | conducted workshops on mental training around the  |
-|                                                                                                                                                                     | world, and participants have included over 60      |
-|                                                                                                                                                                     | junior players who went on to win U.S. National    |
-|                                                                                                                                                                     | singles titles. He speaks regularly at coaching    |
-|                                                                                                                                                                     | conventions and has made national television       |
-|                                                                                                                                                                     | appearances worldwide.                             |
-|                                                                                                                                                                     |                                                    |
-|                                                                                                                                                                     | To find out more about his mental and emotional    |
-|                                                                                                                                                                     | training workshops\                                |
-|                                                                                                                                                                     | [Click                                             |
-|                                                                                                                                                                     | Here!](http://mentalemotionaltennisworkshops.com/) |
-+=====================================================================================================================================================================+====================================================+
+| ![A person smiling for the camera Description automatically generated with medium | Frank Giampaolo has been a leading Southern |
+| --- | --- |
+| confidence](media_match-preparation/media/image6.jpeg) | author of a comprehensive new work on player |
+|  | development, Championship Tennis, as well as the |
+|  | author of The Tennis Parent's Bible. He has |
+|  | conducted workshops on mental training around the |
+|  | world, and participants have included over 60 |
+|  | junior players who went on to win U.S. National |
+|  | singles titles. He speaks regularly at coaching |
+|  | conventions and has made national television |
+|  | appearances worldwide. |
+|  |  |
+|  | To find out more about his mental and emotional |
+|  | training workshops\ |
+|  | [Click |
+|  | Here!](http://mentalemotionaltennisworkshops.com/) |
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                           | Championship Tennis: The All-Inclusive Guide                               |
-| confidence](media_match-preparation/media/image7.jpeg){width="1.2784722222222222in" |                                                                            |
-| height="1.6520833333333333in"}                                                                                                                                      | In this new book from Human Kinetics, Frank Giampaolo presents a life time |
-|                                                                                                                                                                     | of high level coaching insight into every aspect of tennis                 |
-|                                                                                                                                                                     | development\--athletic assessment, skill development, the mental factor,   |
-|                                                                                                                                                                     | match preparation, practice, and planning. This book is designed to help   |
-|                                                                                                                                                                     | players and coaches accelerate the learning curve by customizing the       |
-|                                                                                                                                                                     | process to the needs of every individual player.                           |
-|                                                                                                                                                                     |                                                                            |
-|                                                                                                                                                                     | [CLICK HERE TO ORDER                                                       |
-|                                                                                                                                                                     | !](http://www.humankinetics.com/products/all-products/Championship-Tennis) |
-+=====================================================================================================================================================================+============================================================================+
+
+| ![A person playing tennis Description automatically generated with medium | Championship Tennis: The All-Inclusive Guide |
+| --- | --- |
+| confidence](media_match-preparation/media/image7.jpeg) | In this new book from Human Kinetics, Frank Giampaolo presents a life time |
+|  | of high level coaching insight into every aspect of tennis |
+|  | development\--athletic assessment, skill development, the mental factor, |
+|  | match preparation, practice, and planning. This book is designed to help |
+|  | players and coaches accelerate the learning curve by customizing the |
+|  | process to the needs of every individual player. |
+|  |  |
+|  | [CLICK HERE TO ORDER |
+|  | !](http://www.humankinetics.com/products/all-products/Championship-Tennis) |
+

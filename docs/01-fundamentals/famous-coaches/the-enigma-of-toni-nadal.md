@@ -4,16 +4,15 @@
 
 ![A picture containing person, outdoor, player, tennis Description
 automatically
-generated](media_the-enigma-of-toni-nadal/media/image1.jpg){width="3.8194444444444446in"
-height="2.9444444444444446in"}
+generated](media_the-enigma-of-toni-nadal/media/image1.jpg)
 
 **Toni Nadal: integral but who?**
 
-Toni Nadal has been integral in his nephew Rafael Nadal\'s development
+Toni Nadal has been integral in his nephew Rafael Nadal's development
 and career. But to the outside world he remains an enigmatic figure.
 
 This is partly due to his reclusive and protective nature. No doubt he
-often presents a stern\--even intimidating\--face to those he doesn\'t
+often presents a stern\--even intimidating\--face to those he doesn't
 know well.
 
 But has the media really ever taken him seriously? The common, slightly
@@ -25,7 +24,7 @@ especially his tenacity in helping to build one of the greatest players
 of all time.
 
 First, Toni is a serious student of the game. True, he values his
-privacy and closely guards secrets he believes have led to Rafa\'s
+privacy and closely guards secrets he believes have led to Rafa's
 incredible success. But he is also known to light up in laughter in
 unguarded private moments---a side of his character the world never
 sees.
@@ -47,8 +46,7 @@ Translation: Toni Nadal wants to be where Toni Nadal can be Toni Nadal.
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_the-enigma-of-toni-nadal/media/image2.jpg){width="4.861111111111111in"
-height="2.6805555555555554in"}
+confidence](media_the-enigma-of-toni-nadal/media/image2.jpg)
 
 **With additional influences, Toni is no longer the force he was in the
 early stages of Rafa's career.**
@@ -66,7 +64,7 @@ and learned. In retrospect his decision to leave seems consistent with
 everything I learned from Toni in my time there.
 
 First and foremost Toni lives by a strict moral code. \"Even if the
-world is finished tomorrow, I do the right thing\--that\'s values.
+world is finished tomorrow, I do the right thing\--that's values.
 Values affect everyone and everything in the world.\"
 
 Based on this core belief, Toni has created a six point development
@@ -75,8 +73,7 @@ interpretation of these points, based on talking to Toni and on other
 reading and research into his thoughts.
 
 ![A picture containing person, person, indoor Description automatically
-generated](media_the-enigma-of-toni-nadal/media/image3.jpg){width="3.1944444444444446in"
-height="3.861111111111111in"}
+generated](media_the-enigma-of-toni-nadal/media/image3.jpg)
 
 **Toni lives by a strict code---one that he is teaching at Rafa's
 Academy.**
@@ -89,7 +86,7 @@ Here](https://www.amazon.com/gp/product/1937559491/ref=pd_lpo_sbs_dp_ss_1?pf_rd_
 \"Humble is the way you have to be, period,\" Toni says.
 
 \"Everybody should know their place in the world. The point is that the
-world is quite big enough already without you imagining that you\'re big
+world is quite big enough already without you imagining that you're big
 too.\"
 
 Rafa himself has stated that humility is a key component in his
@@ -119,8 +116,7 @@ it all in life should behave coarsely with other people.
 respect.\"
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_the-enigma-of-toni-nadal/media/image4.jpg){width="4.513888888888889in"
-height="2.9027777777777777in"}
+confidence](media_the-enigma-of-toni-nadal/media/image4.jpg)
 
 **How did the values Toni espouses effect the young Rafa?**
 
@@ -158,18 +154,17 @@ end to achieve greatness.
 
 ![A person wearing a white shirt Description automatically generated
 with medium
-confidence](media_the-enigma-of-toni-nadal/media/image5.jpg){width="2.0in"
-height="2.37in"}
+confidence](media_the-enigma-of-toni-nadal/media/image5.jpg)
 
 **Fighting spirit means never cave in.**
 
 Rafa says his uncle taught him this: \"Endure, put up with whatever
 comes your way, learn to overcome weakness and pain, push yourself to
-the breaking point, but never cave in. If you don\'t learn that lesson,
-you\'ll never succeed as an elite athlete.\"
+the breaking point, but never cave in. If you don't learn that lesson,
+you'll never succeed as an elite athlete.\"
 
 These six core values are the infrastructure around which a coach can
-build a champion\'s mind and spirit, one that dominates without making
+build a champion's mind and spirit, one that dominates without making
 excuses. Above all else, Toni says, \"Champions must find solutions, not
 excuses. Whining and complaining never helped us win a match or
 championship.\"
@@ -187,7 +182,7 @@ to control the ball and to make the ball go where he or she wants. For
 Toni, this does not mean the strokes have to be perfect\--far from it.
 
 He has always emphasized being able to put the ball where a player wants
-and finding the right skills for a player\'s personality and style\--a
+and finding the right skills for a player's personality and style\--a
 practical approach to technical development, rather than forcing every
 player to achieve some abstract perfect form.
 
@@ -198,15 +193,14 @@ backhand? No. For me, technique is about being able to place the ball
 wherever you want it to land no matter what shot.\"
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-enigma-of-toni-nadal/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-enigma-of-toni-nadal/media/image6.webp)
 
 **Is technique about beautiful movement?**
 
 **Character**
 
 Character, for Toni, very simply means working relentlessly towards
-achieving one\'s goals. He states, \"A well-formed character is one that
+achieving one's goals. He states, \"A well-formed character is one that
 has been prepared to withstand the harshness of daily effort, the will,
 the development of self-improvement capabilities, and, not least, the
 enthusiasm to do so.\"
@@ -218,7 +212,7 @@ Fighting Spirit.**
 
 Toni Nadal believes that propriety\--respect and good manners\--is
 critical to achieving a happy life and good performance on the court. He
-says, **[[\"Respect and good manners bring happiness in one\'s
+says, **[[\"Respect and good manners bring happiness in one's
 life.\"]{.underline}]{.mark}**
 
 For Toni, this happiness and satisfaction is just as important as the
@@ -229,15 +223,14 @@ that does not neglect these things that make us human.\"
 Propriety relates directly to the value of Respect. Additionally,
 propriety is interlinked with the value of Tolerance. Propriety, for
 Toni, equates to control, an important concept in Spanish tennis
-training. He doesn\'t believe a player can truly master the game and
+training. He doesn't believe a player can truly master the game and
 control the ball without first gaining control of his or her emotions,
 to tolerate the pressures and stress of battle on the court.
 
 **Work System**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-enigma-of-toni-nadal/media/image7.jpg){width="2.8in"
-height="2.3in"}
+generated](media_the-enigma-of-toni-nadal/media/image7.jpg)
 
 Toni's way: a path to better world citizens?
 
@@ -248,7 +241,7 @@ emphasis on the traditional Spanish value of moving well with quick
 footwork while breaking tradition in some respects.
 
 Surprisingly, Toni advocates training on faster hard courts, when most
-of his Spanish coaching compatriots value clay. And he\'s not afraid to
+of his Spanish coaching compatriots value clay. And he's not afraid to
 instruct his students to attack\--breaking the traditional Spanish
 mindset obsessed with defense.
 
@@ -259,11 +252,11 @@ everyone can do everything!\"
 
 For Toni, developmental coaches must be similarly flexible and adapt to
 the individual\--he has no tolerance for rigid systems or dogma. He
-asserts, \"Every player is different and there is no \'only way\'.\"
+asserts, \"Every player is different and there is no 'only way'.\"
 
 **Citizens of the World**
 
-Reflecting on our talk, I realized that Toni Nadal\'s system was not
+Reflecting on our talk, I realized that Toni Nadal's system was not
 only a powerful way to develop good tennis players, but it was a pathway
 to develop good human beings and a better society. To me, this is part
 of the genius of his approach and the value his principles hold for
@@ -272,8 +265,7 @@ others, whether they be coaches or parents. Toni himself has said,
 player.\"]{.mark}]{.underline}**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-enigma-of-toni-nadal/media/image8.jpeg){width="1.6145833333333333in"
-height="2.03125in"}
+generated](media_the-enigma-of-toni-nadal/media/image8.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -290,7 +282,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [ProdigyMaker.com](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [CLTA.teachable.com](https://clta.teachable.com/)

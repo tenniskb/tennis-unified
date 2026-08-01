@@ -6,8 +6,7 @@
 
 ![A group of people playing tennis Description automatically generated
 with low
-confidence](media_beating-lobbers/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image1.webp)
 
 **The way most teams play makes it impossible to beat lobbers.**
 
@@ -17,8 +16,8 @@ lose to the lobbers.\"
 
 The thing that always amazes me is that these players are all being
 taught to play in a way that makes it almost impossible to beat lobbers,
-and that\'s for players from 2.5 to 4.5, and every level in between. I
-see this as well when I\'m playing at the 5.0 level or in national
+and that's for players from 2.5 to 4.5, and every level in between. I
+see this as well when I'm playing at the 5.0 level or in national
 events.
 
 So let me make a bold statement. If you learn the secrets of court
@@ -33,20 +32,19 @@ is like getting in a car and trying to drive somewhere without turning
 on the GPS.
 
 The biggest mistake teams make against lobbers is discounting the
-effectiveness of their style of play. We hear things like \" that\'s not
+effectiveness of their style of play. We hear things like \" that's not
 real tennis\", or \" we were better than them, they just beat us with
 lobs.\"
 
 ![A couple of men playing tennis Description automatically
-generated](media_beating-lobbers/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_beating-lobbers/media/image2.webp)
 
 **The biggest mistake against lobbers is closing too much on the wrong
 ball.**
 
 Players take great pride in losing to a team that hits very hard or with
 a lot of spin. But they are ashamed when they lose to players who hit
-softly or lob. That\'s just ego and frustration talking.
+softly or lob. That's just ego and frustration talking.
 
 No one wants to lose to soft hitters and the frustration comes from
 having no answers for preventing those loses. Instead, players are told
@@ -55,10 +53,10 @@ lose in the first place.
 
 **[[The most common advice that leads to defeat is: \"Keep closing in!
 The team that gets to net wins.\" Controlling the net is great but if
-you keep running back for lobs you\'re not controlling
+you keep running back for lobs you're not controlling
 anything.]{.mark}]{.underline}**
 
-**[[Let\'s start by accepting that the lob is a great weapon in doubles.
+**[[Let's start by accepting that the lob is a great weapon in doubles.
 But the wrong positioning and shot selection makes the lob even more
 effective.]{.mark}]{.underline}**
 
@@ -71,8 +69,7 @@ aggressive\" is my favorite tennis oxymoron. Understood correctly, being
 patiently aggressive is the magic key to beating lobbers.
 
 ![A couple of men playing tennis Description automatically
-generated](media_beating-lobbers/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_beating-lobbers/media/image3.webp)
 
 **The Helper, diagonally across from the ball, is always further back,
 around the service line.**
@@ -90,18 +87,17 @@ behind the baseline has to resist the natural urge to get closer to the
 net. He has to stay in position.
 
 There are several reasons. First this positioning prevents the opponents
-from lobbing crosscourt over the Helper\'s head. This is extremely
+from lobbing crosscourt over the Helper's head. This is extremely
 important because there is no defense against a crosscourt lob once
-it\'s over your head.
+it's over your head.
 
 Second, the Helper is in position to cover a lob goes over his
-partner\'s head, either in the air or after the bounce. The down the
-line lob is hit in basically a straight line. This makes it\'s much
-easier to run down, especially if you\'re already at the service line.
+partner's head, either in the air or after the bounce. The down the
+line lob is hit in basically a straight line. This makes it's much
+easier to run down, especially if you're already at the service line.
 
 ![A couple of men playing tennis Description automatically
-generated](media_beating-lobbers/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_beating-lobbers/media/image4.webp)
 
 **There is no defense against a good crosscourt lob.**
 
@@ -124,13 +120,12 @@ The correct position for the Hunter should be halfway into the box, with
 his toes pointing toward the ball. From this position, the Hunter can
 easily move back to the service to cover overheads, balls that would
 land halfway back between the service line and the baseline if they went
-over his head. With this positioning, the Helper doesn\'t have to cover
+over his head. With this positioning, the Helper doesn't have to cover
 every lob, just the deep ones.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_beating-lobbers/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image5.webp)
 
 **The Hunter hits his overheads crosscourt.**
 
@@ -145,7 +140,7 @@ The crosscourt overhead will be in front of the Helper, so the Helper
 moves in and assumes the Hunter role.
 
 Simultaneously, the Hunter will move back and become the Helper. He is
-now in position to defend against a lob that goes over his partner\'s
+now in position to defend against a lob that goes over his partner's
 head.
 
 If the lob goes to the Helper and is deep enough that the Helper must
@@ -160,8 +155,7 @@ of where it goes.
 
 ![A person watching a tennis match Description automatically generated
 with low
-confidence](media_beating-lobbers/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image6.webp)
 
 **The Helper hits his overheads to keep the ball in front of his
 partner.**
@@ -187,13 +181,12 @@ in. Why? You will get lobbed every time.]{.mark}]{.underline}**
 
 The only exception is if the ball is falling short and low as you get to
 it. In this case you hit a touch angle volley crosscourt. Again, this is
-only done on a ball that can\'t be aggressively hit down the line at the
+only done on a ball that can't be aggressively hit down the line at the
 opposing net player.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_beating-lobbers/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image7.webp)
 
 **If the ball is falling, hit a touch angle volley.**
 
@@ -204,7 +197,7 @@ be managed effectively.
 First, the Helper needs to run around the ball to get behind the shot.
 Second, once the Helper gives up the net, both players are giving up the
 net. If you leave one player at the net when you are retreating that
-player won\'t be able to help you and you may get them killed.
+player won't be able to help you and you may get them killed.
 
 As he starts for the lob, the Helper yells to his partner is \"get
 back!\" The partner runs back as fast as possible. There is only one
@@ -214,26 +207,25 @@ The higher, the better.
 A lot of players ask me whether to hit this lob crosscourt or down the
 line and I always tell them the same thing. Hit it in!
 
-Don\'t be fancy or cut it too close. The higher you hit it, the more
+Don't be fancy or cut it too close. The higher you hit it, the more
 time you have to regroup. A lob that goes high and past the service line
 is ideal.
 
 The most vulnerable are for your team close is now the short court so
-don\'t hit them anything they can drop short. Even if the opponents are
+don't hit them anything they can drop short. Even if the opponents are
 hitting an overhead, you and your partner are in position to return
 their overhead with another lob.
 
 ![A person playing tennis Description automatically
-generated](media_beating-lobbers/media/image8.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_beating-lobbers/media/image8.webp)
 
 **When you both give up the net, the only shot is a high lob.**
 
 So many times, I watch players running up to the net for no reason. Once
-you\'re both back, the key is to be patient. Your positioning and shot
-selection is based on your opponent\'s positioning.
+you're both back, the key is to be patient. Your positioning and shot
+selection is based on your opponent's positioning.
 
-If your opponents take the net and aren\'t moving back, stay way back
+If your opponents take the net and aren't moving back, stay way back
 and lob. You need to lob and lob until one of three things happens.
 
 They miss. Or you hit it over their heads and they have to retreat. Now
@@ -259,13 +251,12 @@ lobbing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_beating-lobbers/media/image9.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image9.webp)
 
 **The most aggressive play for the Hunter is to hit the overhead on a
 sharp angle.**
 
-To succeed, it\'s extremely important to keep your basic principles of
+To succeed, it's extremely important to keep your basic principles of
 positioning. Here is what stays the same. The player in front of the
 ball is the Hunter and is closer to the net. The player crosscourt from
 the ball is the Helper and is further from the net.
@@ -293,8 +284,7 @@ vulnerable to a crosscourt lob over his head.
 
 ![A group of people play tennis Description automatically generated with
 low
-confidence](media_beating-lobbers/media/image10.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image10.webp)
 
 **The other key play against two back is the angle volley.**
 
@@ -303,7 +293,7 @@ sharp angle crosscourt for a winner. But if this is not possible, the
 Hunter hits directly forward in front of himself.
 
 The other major play is angle or drop volleys. Both players should be
-looking to hit these at the first opportunity. It\'s an easier play for
+looking to hit these at the first opportunity. It's an easier play for
 the Hunter, but If the Helper gets a short ball, he also the option of
 hitting a touch short angle volley crosscourt.
 
@@ -319,35 +309,34 @@ No matter what you have heard, no one should be hugging the net when
 both opponents are back. This a basic mistake made by many teams, even
 if they are experienced and successful.
 
-It\'s just too easy for experienced lobbers to keep hitting over the
+It's just too easy for experienced lobbers to keep hitting over the
 close players head negating any advantage to being at net. Both partners
 must stay disciplined and patient. Angled balls\--overheads and
 volleys\--and touch drop volleys are winning shots in this situation.
 
 As the match goes on, keep working on the player in front of the Hunter.
-Hit wide and middle balls to their side. You won\'t have to reposition,
+Hit wide and middle balls to their side. You won't have to reposition,
 and you will create space and eventually get a shot you can capitalize
 on.
 
 ![A couple of men playing tennis Description automatically generated
 with low
-confidence](media_beating-lobbers/media/image11.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image11.webp)
 
 **Again: angled overheads and angled volleys: the two keys against two
 back.**
 
 What do you do when you have to retreat for a deep lob over the
-Hunter\'s head? If the team keeps its position correctly, there should
-never be a crosscourt lob over either player\'s head.
+Hunter's head? If the team keeps its position correctly, there should
+never be a crosscourt lob over either player's head.
 
 This is important because there is no defense against a successful
 crosscourt lob. There will be times, however, when there will be a deep
-lob over the Hunter\'s head that the Helper must retreat for. Here are
+lob over the Hunter's head that the Helper must retreat for. Here are
 the rules for this situation.
 
 When the Helper is running back, he must make sure to get behind the
-ball. Don\'t run straight at the bounce. Run in an arc to get behind the
+ball. Don't run straight at the bounce. Run in an arc to get behind the
 bounce. This will get you in a better position to hit your return.
 
 While the Helper runs back, he directs his partner The Hunter to \"get
@@ -358,20 +347,19 @@ face their opponents as his partner strikes the ball.
 The only play for Helper after running back is the lob. This will buy
 you time to get ready for the next shot.
 
-Since you\'re both back now, you don\'t want to give your opponents
-anything they can hit short. You\'re completely vulnerable to the short
-ball so don\'t set them up to hit it.
+Since you're both back now, you don't want to give your opponents
+anything they can hit short. You're completely vulnerable to the short
+ball so don't set them up to hit it.
 
 I am often asked where the retreating lob should be hit. I always say;
 high and down the middle. If you hit it high and slow you have more
 time. If you aim for the middle you will not miss wide (the worst thing
-you can ever do on a defensive lob is miss wide) and you won\'t give
+you can ever do on a defensive lob is miss wide) and you won't give
 your opponents any angle to hit a winner on the return.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_beating-lobbers/media/image12.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_beating-lobbers/media/image12.webp)
 
 **The best retreating lob: high and down the middle.**
 
@@ -379,7 +367,7 @@ You can now play defense together as a team. If you \"switch\" and leave
 your partner at the net, they will get killed if you hit a weak or short
 shot.
 
-Once you\'re both back, continue lobbing until you\'re able to push them
+Once you're both back, continue lobbing until you're able to push them
 back and/or get a short ball. Stay well behind the baseline. The most
 common mistake in this situation is running to the net when your
 opponents have control of the net.
@@ -399,41 +387,40 @@ shots in a row.
 
 By the third shot they are off balance, out of position, often angry
 and/or frustrated and maybe even physically tired. This may seem
-obvious, but many good players don\'t play defensive shots when they are
-on the defensive. Don\'t try to be a hero and blast your way out of
+obvious, but many good players don't play defensive shots when they are
+on the defensive. Don't try to be a hero and blast your way out of
 trouble.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------+
-| ![A picture containing person, person, standing, outdoor Description automatically                                                                            | Bill Previdi has been playing    |
-| generated](media_beating-lobbers/media/image13.jpeg){width="2.863888888888889in" | and teaching tennis for most of  |
-| height="2.120138888888889in"}                                                                                                                                 | his life. He played his          |
-|                                                                                                                                                               | collegiate tennis at St. John\'s |
-|                                                                                                                                                               | University in New York and has   |
-|                                                                                                                                                               | been nationally ranked in        |
-|                                                                                                                                                               | singles, doubles and Father-Son  |
-|                                                                                                                                                               | Doubles. Bill has been a Head    |
-|                                                                                                                                                               | Pro and Director of Tennis at    |
-|                                                                                                                                                               | several clubs since 1981 and has |
-|                                                                                                                                                               | also coached high school and     |
-|                                                                                                                                                               | college tennis. He lives in      |
-|                                                                                                                                                               | Branford, CT. He can be          |
-|                                                                                                                                                               | contacted at:                    |
-|                                                                                                                                                               | <previdib@gmail.com>             |
-|                                                                                                                                                               |                                  |
-|                                                                                                                                                               | Matt Previdi is a high           |
-|                                                                                                                                                               | performance coach in La Jolla,   |
-|                                                                                                                                                               | California and the head coach of |
-|                                                                                                                                                               | the La Jolla High boys' tennis   |
-|                                                                                                                                                               | team, which in the the past 6    |
-|                                                                                                                                                               | years he has led to a 72-8       |
-|                                                                                                                                                               | record and 2 sectional titles.   |
-|                                                                                                                                                               | Matt is a Master Racquet         |
-|                                                                                                                                                               | Technician, the head of the      |
-|                                                                                                                                                               | Solinco national stringing team, |
-|                                                                                                                                                               | as well as the Solinco player    |
-|                                                                                                                                                               | liason and brand representative. |
-|                                                                                                                                                               | He can be contacted at:          |
-|                                                                                                                                                               | <mprevidi@gmail.com>             |
-+===============================================================================================================================================================+==================================+
+| ![A picture containing person, person, standing, outdoor Description automatically | Bill Previdi has been playing |
+| --- | --- |
+| generated](media_beating-lobbers/media/image13.jpeg) | his life. He played his |
+|  | collegiate tennis at St. John's |
+|  | University in New York and has |
+|  | been nationally ranked in |
+|  | singles, doubles and Father-Son |
+|  | Doubles. Bill has been a Head |
+|  | Pro and Director of Tennis at |
+|  | several clubs since 1981 and has |
+|  | also coached high school and |
+|  | college tennis. He lives in |
+|  | Branford, CT. He can be |
+|  | contacted at: |
+|  | <previdib@gmail.com> |
+|  |  |
+|  | Matt Previdi is a high |
+|  | performance coach in La Jolla, |
+|  | California and the head coach of |
+|  | the La Jolla High boys' tennis |
+|  | team, which in the the past 6 |
+|  | years he has led to a 72-8 |
+|  | record and 2 sectional titles. |
+|  | Matt is a Master Racquet |
+|  | Technician, the head of the |
+|  | Solinco national stringing team, |
+|  | as well as the Solinco player |
+|  | liason and brand representative. |
+|  | He can be contacted at: |
+|  | <mprevidi@gmail.com> |
+
 
 ------------------------------------------------------------------------

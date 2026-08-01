@@ -187,8 +187,8 @@ cuốn sách này được viết để giải quyết cả ba vấn đề đó.
 
 **2.1 Tensigrity Là Gì?**
 
-Thuật ngữ \'tensigrity\' được kiến trúc sư và nhà phát minh Buckminster
-Fuller tạo ra vào những năm 1960, kết hợp từ \'tensional integrity\' ---
+Thuật ngữ 'tensigrity' được kiến trúc sư và nhà phát minh Buckminster
+Fuller tạo ra vào những năm 1960, kết hợp từ 'tensional integrity' ---
 tính toàn vẹn thông qua sức căng. Ban đầu nó là một khái niệm kiến trúc:
 các cấu trúc như vòm mái hay cầu có thể được duy trì không phải bởi các
 bộ phận cứng nhắc mà bởi sự cân bằng giữa lực kéo và lực nén trong toàn
@@ -286,7 +286,7 @@ thể mình. Thực hiện nó trước khi ra sân:
 > • Giải phóng: xoay người về phía trước và để cánh tay đi theo tự
 > nhiên.
 
-Nếu bạn làm đúng, bạn sẽ cảm thấy như cơ thể \'tự đánh\' --- không phải
+Nếu bạn làm đúng, bạn sẽ cảm thấy như cơ thể 'tự đánh' --- không phải
 do tay chủ động vung. Đây chính là tensigrity trong thực tiễn.
 
 **2.6 Tại Sao Tensigrity Giúp Tăng Sức Bền**
@@ -304,7 +304,7 @@ như một chiếc cung --- sức mạnh đến từ gỗ và dây, không chỉ
 
 Cơ chế thứ ba là giảm ma sát nội tại. Khi các bộ phận cơ thể hoạt động
 nhịp nhàng với nhau thay vì chống lại nhau, ít năng lượng bị tiêu tốn
-vào việc \'chiến đấu với chính mình\'. Một tay vợt căng cứng đang lãng
+vào việc 'chiến đấu với chính mình'. Một tay vợt căng cứng đang lãng
 phí một lượng lớn năng lượng chỉ để giữ cơ thể ở trạng thái căng thẳng
 đó.
 
@@ -337,8 +337,8 @@ chuyển lặp đi lặp lại. Hiểu vòng lặp này và tự động hóa n�
 **Bước 1: Split Step (Bước Tách)**
 
 Split step là bước nhỏ bật nhẹ lên khi đối thủ đang chuẩn bị đánh bóng.
-Mục đích không phải là bật cao --- mà là để tạo ra trạng thái \'sẵn
-sàng\' cho cơ thể, giống như lò xo được nén.
+Mục đích không phải là bật cao --- mà là để tạo ra trạng thái 'sẵn
+sàng' cho cơ thể, giống như lò xo được nén.
 
 Sai lầm phổ biến: bật quá cao, quá mạnh, tốn nhiều năng lượng. Đúng phải
 là: bật nhẹ, gần như không thấy, nhưng đủ để cơ thể ở trạng thái cảnh
@@ -360,7 +360,7 @@ chính xác. Đây là lúc nhiều tay vợt phạm sai lầm: họ cố gắng
 bằng những bước dài, rộng. Bước dài tốn năng lượng hơn nhiều so với
 nhiều bước nhỏ.
 
-Cue quan trọng: \'Bước nhỏ ở cuối, không phải bước to ở đầu.\' Những
+Cue quan trọng: 'Bước nhỏ ở cuối, không phải bước to ở đầu.' Những
 bước lớn ban đầu có thể giúp bạn đến gần bóng, nhưng những bước nhỏ ở
 cuối mới giúp bạn đánh chính xác và trong thăng bằng.
 
@@ -412,7 +412,7 @@ khi họ bắt đầu vung vợt.
 **Lỗi 2: Đứng quá thẳng**
 
 Tư thế đứng thẳng cứng nhắc làm chậm phản ứng. Hãy giữ tư thế hơi cúi
-người, đầu gối hơi cong --- tư thế \'sẵn sàng\' này cho phép phản ứng
+người, đầu gối hơi cong --- tư thế 'sẵn sàng' này cho phép phản ứng
 nhanh hơn nhiều.
 
 **Lỗi 3: Shuffle quá nhiều**
@@ -479,14 +479,14 @@ Khi bóng đang đến, cả hai tay đặt trên vợt. Vai xoay cùng nhau nh�
 khối. Cảm giác như đang cầm một thanh kiếm bằng hai tay và chuẩn bị một
 nhát chém.
 
-Cue quan trọng: \'Ngực và hai cánh tay xoay như một khối duy nhất.\' Đây
+Cue quan trọng: 'Ngực và hai cánh tay xoay như một khối duy nhất.' Đây
 là giai đoạn quan trọng nhất vì nó thiết lập cấu trúc cho mọi thứ tiếp
 theo.
 
 **Giai đoạn 2: Tích Tụ --- Rút Kiếm**
 
 Hông hơi khép, tạo ra sự kéo giãn giữa hông và vai. Tay không thuận duỗi
-ra phía sau như đối trọng. Đây là giai đoạn \'rút kiếm\' --- bạn đang
+ra phía sau như đối trọng. Đây là giai đoạn 'rút kiếm' --- bạn đang
 tích lũy năng lượng đàn hồi.
 
 Cue quan trọng: Cảm nhận sự kéo giãn ở bên trái cơ thể (với người thuận
@@ -499,15 +499,15 @@ Tay không thuận kéo về phía sau và ổn định thân người. Tay thu�
 theo. Hai chuyển động này xảy ra đồng thời nhưng theo hướng ngược nhau
 --- đây chính là lực đối kháng tạo ra sức mạnh.
 
-Cue quan trọng: \'Tay trái giữ --- tay phải vung!\' Nếu bạn cảm thấy chỉ
+Cue quan trọng: 'Tay trái giữ --- tay phải vung!' Nếu bạn cảm thấy chỉ
 tay phải đang làm việc, bạn đang mất đi phần lớn sức mạnh và hiệu quả.
 
 **Giai đoạn 4: Kết Thúc --- Thanh Kiếm Đứng Yên**
 
-Sau khi đánh, cơ thể \'đứng yên\' trong tư thế kết thúc một khoảnh khắc.
+Sau khi đánh, cơ thể 'đứng yên' trong tư thế kết thúc một khoảnh khắc.
 Tay thuận kết thúc cao, tay không thuận tạo đối trọng. Cột sống thẳng.
 
-Cue quan trọng: Nếu tay không thuận của bạn \'bay loạn\' sau cú đánh,
+Cue quan trọng: Nếu tay không thuận của bạn 'bay loạn' sau cú đánh,
 năng lượng đã bị rò rỉ. Tay không thuận phải có chủ ý trong suốt cú
 đánh, kể cả ở giai đoạn kết thúc.
 
@@ -534,7 +534,7 @@ cảm giác đối kháng ở giai đoạn đánh.
 
 **4.4 Các Sai Lầm Phổ Biến Cần Tránh**
 
-Sai lầm phổ biến nhất là tay không thuận \'chết\'. Nhiều tay vợt đặt tay
+Sai lầm phổ biến nhất là tay không thuận 'chết'. Nhiều tay vợt đặt tay
 không thuận lên vợt trong giai đoạn chuẩn bị, nhưng sau đó để nó rơi
 xuống và không tham gia gì vào cú đánh. Kết quả là mất toàn bộ lợi ích
 của hệ thống hai tay.
@@ -582,7 +582,7 @@ hoàn toàn.
 backhand tốt, cả hai tay đi theo cùng một đường, một con đường duy nhất.
 Không có tay nào dẫn trước tay kia --- chúng di chuyển đồng bộ hoàn hảo.
 
-Cue quan trọng: \'Cả hai tay chém qua cùng một đường.\' Hãy tưởng tượng
+Cue quan trọng: 'Cả hai tay chém qua cùng một đường.' Hãy tưởng tượng
 bạn đang chém qua một cuộn tre --- đường chém phải thẳng, quyết đoán,
 không do dự.
 
@@ -597,7 +597,7 @@ phần trên cơ thể đang xoay như một khối cứng.
 Khi đánh, tay trên kéo vợt qua bóng. Vai dẫn dắt chuyển động. Tay dưới
 giữ ổn định và ngăn vợt bị đẩy ra ngoài đường chém.
 
-Cue quan trọng: \'Tay trên kéo! Đánh bằng vai!\' Nếu bạn cảm thấy chủ
+Cue quan trọng: 'Tay trên kéo! Đánh bằng vai!' Nếu bạn cảm thấy chủ
 yếu là tay dưới đang làm việc, bạn đang mất đi sức mạnh và hiệu quả.
 
 **5.4 Backhand Xoáy Ngược (Slice)**
@@ -688,8 +688,8 @@ việc co dây cung trước khi bắn.
 **Giai đoạn 2: Thở Ra Mạnh Khi Chạm Bóng**
 
 Đây là giai đoạn quan trọng nhất. Ngay khi vợt chạm bóng, thở ra bằng
-một âm thanh ngắn và mạnh. Âm thanh thường nghe là \'tss\', \'ha\', hoặc
-\'hà\' --- không quan trọng là âm gì, miễn là nó đồng bộ với thời điểm
+một âm thanh ngắn và mạnh. Âm thanh thường nghe là 'tss', 'ha', hoặc
+'hà' --- không quan trọng là âm gì, miễn là nó đồng bộ với thời điểm
 chạm bóng.
 
 Tại sao điều này quan trọng? Thở ra khi chạm bóng:
@@ -717,11 +717,11 @@ vợt chóng mệt.
 Khi đã quen với ba giai đoạn, nhịp thở của bạn trong rally sẽ tự nhiên
 như sau:
 
-> • Đánh → thở ra (\'hà!\')
+> • Đánh → thở ra ('hà!')
 >
 > • Di chuyển → hít vào (sâu và đều)
 >
-> • Đánh → thở ra (\'hà!\')
+> • Đánh → thở ra ('hà!')
 >
 > • Di chuyển → hít vào
 
@@ -859,7 +859,7 @@ nhiên, tăng lên 90%. Mục tiêu là vòng lặp phải chạy tự động �
 **8.1 Tennis Không Phải Là Cuộc Chiến --- Đó Là Điệu Nhảy**
 
 Cách chúng ta nghĩ về tennis ảnh hưởng sâu sắc đến cách chúng ta chơi.
-Khi bạn nghĩ tennis là một cuộc chiến, bạn sẽ cố gắng \'đánh bại\' đối
+Khi bạn nghĩ tennis là một cuộc chiến, bạn sẽ cố gắng 'đánh bại' đối
 thủ bằng sức mạnh. Khi bạn nghĩ tennis là một điệu nhảy, bạn sẽ tìm kiếm
 nhịp điệu và hiệu quả.
 
@@ -991,7 +991,7 @@ thể cung cấp năng lượng trong thời gian rất ngắn.
 
 Khi hệ thống ATP-PCr cạn, cơ thể chuyển sang phân giải glucose (đường)
 mà không cần oxy. Quá trình này tạo ra năng lượng nhanh nhưng cũng tạo
-ra lactate --- thứ gây ra cảm giác \'đốt cháy\' và mỏi cơ.
+ra lactate --- thứ gây ra cảm giác 'đốt cháy' và mỏi cơ.
 
 Trong tennis, hệ thống này được dùng trong những rally dài và những điểm
 đấu cường độ cao. Đây là hệ thống bạn cần quan tâm nhất khi nói về sức
@@ -1073,14 +1073,14 @@ Quy trình phục hồi tối ưu:
 **10.1 Mệt Thật Và Mệt Tưởng**
 
 Có một thực tế thú vị về sự mệt mỏi mà khoa học thể thao ngày nay đã
-khám phá: não bộ thường ra hiệu \'đủ rồi\' trước khi cơ thể thực sự kiệt
+khám phá: não bộ thường ra hiệu 'đủ rồi' trước khi cơ thể thực sự kiệt
 sức. Đây là một cơ chế bảo vệ tiến hóa --- não bộ muốn giữ lại một lượng
-\'dự phòng\' để đảm bảo sự sống còn.
+'dự phòng' để đảm bảo sự sống còn.
 
 Điều này có nghĩa là: khi bạn cảm thấy không thể tiếp tục, trong nhiều
 trường hợp bạn vẫn còn có thể --- nhưng não bộ đang gửi tín hiệu dừng
-lại để bảo vệ bạn. Trong tiếng Anh, người ta gọi đây là \'central
-governor theory\' --- lý thuyết về thống đốc trung tâm.
+lại để bảo vệ bạn. Trong tiếng Anh, người ta gọi đây là 'central
+governor theory' --- lý thuyết về thống đốc trung tâm.
 
 Hiểu điều này không có nghĩa là bỏ qua tín hiệu mệt và tự làm hại mình.
 Mà có nghĩa là: khi cảm thấy mệt trong trận đấu, hãy phân biệt xem đó là
@@ -1096,13 +1096,13 @@ hãy chia nhỏ: chỉ tập trung vào game hiện tại. Trong game, chỉ t�
 vào điểm hiện tại. Trong điểm, chỉ tập trung vào cú đánh tiếp theo.
 
 Phương pháp này không chỉ giúp tập trung tốt hơn --- nó còn ngăn não bộ
-\'mệt trước\' khi nghĩ đến con đường dài phía trước.
+'mệt trước' khi nghĩ đến con đường dài phía trước.
 
 **Kỹ thuật 2: Affirmation trong thi đấu**
 
 Những gì bạn nói với mình trong trận đấu có tác động thực sự đến hiệu
-suất. Thay vì \'Tôi mệt quá\', hãy thử \'Đây là lúc để thi đấu thật
-sự\'. Thay vì \'Không thể tiếp tục\', hãy thử \'Một điểm một lúc\'.
+suất. Thay vì 'Tôi mệt quá', hãy thử 'Đây là lúc để thi đấu thật
+sự'. Thay vì 'Không thể tiếp tục', hãy thử 'Một điểm một lúc'.
 
 Điều này không phải là tự lừa dối --- đây là việc lựa chọn khung suy
 nghĩ (mental frame) phù hợp với mục tiêu của bạn.
@@ -1110,10 +1110,10 @@ nghĩ (mental frame) phù hợp với mục tiêu của bạn.
 **Kỹ thuật 3: Process focus, không phải outcome focus**
 
 Trong trận đấu, đừng nghĩ về tỷ số hay kết quả --- hãy nghĩ về quá
-trình. \'Tôi cần đi sớm, thả tay, thở ra\' là ví dụ về process focus. Nó
+trình. 'Tôi cần đi sớm, thả tay, thở ra' là ví dụ về process focus. Nó
 giúp bạn tập trung vào những điều bạn có thể kiểm soát.
 
-Ngược lại, \'Tôi cần thắng điểm này hay tôi sẽ thua set\' là outcome
+Ngược lại, 'Tôi cần thắng điểm này hay tôi sẽ thua set' là outcome
 focus. Nó tạo ra áp lực không cần thiết và thường dẫn đến những cú đánh
 cứng nhắc và thiếu tự nhiên.
 
@@ -1133,8 +1133,8 @@ khổng lồ ngay cả với những tay vợt kinh nghiệm. Áp lực này, n�
 
 Quy trình cho điểm quan trọng:
 
-> • Trước điểm: Hít thở sâu 2-3 lần. Nhắc lại câu thần chú: \'Đi sớm --
-> thả tay -- thở ra\'.
+> • Trước điểm: Hít thở sâu 2-3 lần. Nhắc lại câu thần chú: 'Đi sớm --
+> thả tay -- thở ra'.
 >
 > • Trong điểm: Chỉ nghĩ về cú đánh tiếp theo, không nghĩ về điểm số hay
 > kết quả.
@@ -1156,7 +1156,7 @@ số, cược nhỏ, hay chỉ đơn giản là tập với người giỏi hơn
 cách xử lý áp lực thông qua kinh nghiệm.
 
 Luyện tập phục hồi tâm lý: Khi mắc lỗi trong tập luyện, thực hành ngay
-việc \'xóa bộ nhớ\' và tiếp tục. Không nán lại với lỗi lầm --- đây là kỹ
+việc 'xóa bộ nhớ' và tiếp tục. Không nán lại với lỗi lầm --- đây là kỹ
 năng quan trọng nhất trong tâm lý tennis.
 
 **10.5 Thiền Và Tennis**
@@ -1184,7 +1184,7 @@ nghiên cứu chứng minh là có tác động đáng kể đến hiệu suất
 
 **11.1 Triết Lý Của Chương Trình**
 
-Chương trình 7 ngày này được thiết kế không phải để bạn \'học\' những kỹ
+Chương trình 7 ngày này được thiết kế không phải để bạn 'học' những kỹ
 thuật mới, mà để biến những gì bạn đã học thành phản xạ tự động. Sự khác
 biệt là quan trọng: học là nhận thức, phản xạ là thói quen sâu trong cơ
 bắp.
@@ -1199,7 +1199,7 @@ thống --- bạn sống với nó.
 
 Thực hiện shadow tennis không có bóng trong 30 phút. Tập trung vào:
 split step đúng thời điểm, bước đầu tiên đúng hướng, và hồi phục về giữa
-sau mỗi \'cú đánh giả\'. Không quan tâm đến tốc độ --- quan tâm đến chất
+sau mỗi 'cú đánh giả'. Không quan tâm đến tốc độ --- quan tâm đến chất
 lượng từng bước chân.
 
 **Buổi chiều (60 phút): Rally Nhẹ**
@@ -1219,7 +1219,7 @@ không?
 **Buổi chiều (60 phút): Rally Forehand Và Backhand**
 
 Rally xen kẽ forehand và backhand. Với mỗi cú đánh, hô to câu cue:
-\'Xoay!\' (khi chuẩn bị) và \'Thả!\' (khi đánh). Hô to giúp não bộ xử lý
+'Xoay!' (khi chuẩn bị) và 'Thả!' (khi đánh). Hô to giúp não bộ xử lý
 và ghi nhớ tốt hơn.
 
 **11.4 Ngày 3: Kỹ Thuật Thở**
@@ -1227,7 +1227,7 @@ và ghi nhớ tốt hơn.
 **Buổi sáng (15 phút): Tập Thở**
 
 Ngồi yên và tập ba giai đoạn thở: hít vào nhẹ, giữ một chút, thở ra mạnh
-với âm \'hà\'. Thực hiện 50 lần. Mục tiêu là cảm giác này trở thành tự
+với âm 'hà'. Thực hiện 50 lần. Mục tiêu là cảm giác này trở thành tự
 nhiên.
 
 **Buổi chiều (60 phút): Rally Với Chú Ý Thở**
@@ -1241,7 +1241,7 @@ Rally bình thường nhưng với một quy tắc cứng: phải thở ra có �
 **Buổi sáng (30 phút): Visualisation**
 
 Ngồi yên và tưởng tượng rõ ràng một điểm đấu hoàn chỉnh: bạn thấy bóng
-sớm → di chuyển nhẹ → xoay người → hít vào nhẹ → đánh với âm \'hà\' →
+sớm → di chuyển nhẹ → xoay người → hít vào nhẹ → đánh với âm 'hà' →
 hồi phục về giữa → hít sâu. Lặp lại 20 lần trong đầu. Visualisation
 nghiên cứu cho thấy kích hoạt các đường thần kinh tương tự thực tế.
 
@@ -1388,7 +1388,7 @@ lý tưởng:
 **13.3 Kỹ Thuật Volley Theo Nguyên Lý Tensigrity**
 
 Volley không phải là cú đánh --- đó là cú chặn (block) với cấu trúc. Sai
-lầm phổ biến nhất là cố gắng \'đánh\' bóng ở lưới, giống như đánh từ
+lầm phổ biến nhất là cố gắng 'đánh' bóng ở lưới, giống như đánh từ
 baseline. Điều này tạo ra volley không ổn định và tiêu tốn không cần
 thiết.
 
@@ -1451,18 +1451,18 @@ khó hơn.
 
 Giao tiếp tốt giữa hai đối tác không chỉ là vấn đề chiến thuật --- nó
 cũng ảnh hưởng đến sức bền. Khi biết đối tác sẽ làm gì, bạn không cần
-phải \'dự phòng\' cho tất cả các trường hợp, tiết kiệm năng lượng và
+phải 'dự phòng' cho tất cả các trường hợp, tiết kiệm năng lượng và
 giảm căng thẳng.
 
 Những điều cần nói với đối tác:
 
-> • \'Tao lấy!\' --- khi bóng ở giữa và bạn sẽ đánh.
+> • 'Tao lấy!' --- khi bóng ở giữa và bạn sẽ đánh.
 >
-> • \'Mày lấy!\' --- khi bóng rõ ràng thuộc về đối tác.
+> • 'Mày lấy!' --- khi bóng rõ ràng thuộc về đối tác.
 >
-> • \'Thôi!\' --- khi bóng đi ra ngoài.
+> • 'Thôi!' --- khi bóng đi ra ngoài.
 >
-> • \'Lên!\' --- khi bạn muốn đối tác tiến vào lưới.
+> • 'Lên!' --- khi bạn muốn đối tác tiến vào lưới.
 
 **14.4 Sức Bền Trong Đội**
 
@@ -1653,7 +1653,7 @@ cánh tay, áp lực lên khớp cổ tay và khuỷu tay giảm đáng kể.
 **17.2 Tennis Elbow: Nguyên Nhân Và Phòng Ngừa**
 
 Tennis elbow là tình trạng viêm gân ở khuỷu tay ngoài. Mặc dù tên gọi là
-\'tennis elbow\', thực ra chỉ khoảng 5-10% các ca tennis elbow đến từ
+'tennis elbow', thực ra chỉ khoảng 5-10% các ca tennis elbow đến từ
 tennis --- phần lớn đến từ công việc văn phòng lặp đi lặp lại.
 
 Trong tennis, nguyên nhân chính gây tennis elbow là đánh bằng tay thay
@@ -1717,7 +1717,7 @@ Phân biệt hai loại khó chịu:
 > • Đau thật: Đau nhói, đau tập trung ở một điểm, đau tăng khi tiếp tục
 > hoạt động --- đây là tín hiệu dừng lại.
 
-Không bao giờ cố gắng \'chơi qua cơn đau\'. Điều này thường biến chấn
+Không bao giờ cố gắng 'chơi qua cơn đau'. Điều này thường biến chấn
 thương nhỏ thành chấn thương lớn.
 
 > *\"Chơi thể thao cả đời đòi hỏi sự tôn trọng cơ thể. Cơ thể không phải
@@ -1807,7 +1807,7 @@ chiến lược mới là yếu tố quyết định.
 Trong nhiệt độ của trận đấu, dưới áp lực điểm số, cơ thể mệt mỏi và tâm
 trí căng thẳng --- khả năng nhớ và áp dụng những kỹ thuật phức tạp giảm
 đáng kể. Đây là một thực tế sinh lý không thể tránh khỏi: áp lực làm thu
-hẹp \'băng thông\' nhận thức của chúng ta.
+hẹp 'băng thông' nhận thức của chúng ta.
 
 Match card --- một tấm thẻ nhỏ với những câu nhắc ngắn gọn --- giải
 quyết vấn đề này. Thay vì cố nhớ 20 điểm kỹ thuật, bạn chỉ cần liếc nhìn

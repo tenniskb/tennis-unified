@@ -6,8 +6,7 @@
 
 ![A picture containing grass, sport, athletic game, floor Description
 automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_the-inspiration-to-serve-and-volley/media/image1.webp)
 
 **In 1990, Stefan Edberg and Boris Becker contested the Wimbledon final
 with Edberg winning in 5 sets.**
@@ -43,8 +42,7 @@ English spectators during play.
 
 ![A picture containing tennis, racket, sport, person Description
 automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image2.jpg){width="4.701492782152231in"
-height="3.3016087051618546in"}
+generated](media_the-inspiration-to-serve-and-volley/media/image2.jpg)
 
 **From the first time I saw them I was immediately fascinated by the
 attacking styles of Edberg and Becker.**
@@ -80,8 +78,7 @@ of chlorine was not inspiring. Nor did I find inspiration in baseball
 
 ![A picture containing text, outdoor, athletic game, sport Description
 automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image3.jpg){width="3.8194444444444446in"
-height="2.138888888888889in"}
+generated](media_the-inspiration-to-serve-and-volley/media/image3.jpg)
 
 My first opponent: serving and volleying against the wall.
 
@@ -112,8 +109,7 @@ magazine and on TV. But I did develop one other unique training method.
 
 ![A picture containing tree, sky, outdoor, athletic game Description
 automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image4.jpg){width="3.1944444444444446in"
-height="2.138888888888889in"}
+generated](media_the-inspiration-to-serve-and-volley/media/image4.jpg)
 
 **Trees surrounded the courts where I developed a unique learning
 technique.**
@@ -127,8 +123,8 @@ The pine trees were thick and towered over the outside of the court
 fences. I couldn't get a clear look at the teaching pro or the student
 but I could hear them.
 
-So I\'d crouch down next to a teaching court and just listen. I\'d
-listen to the sound of the ball being struck, the coach\'s inflection
+So I'd crouch down next to a teaching court and just listen. I'd
+listen to the sound of the ball being struck, the coach's inflection
 when he spoke, the student's feedback, the laughs and the jokes.
 
 But I was often disturbed by the shallow compliments, the clichés, and
@@ -151,13 +147,12 @@ earlier in the day.
 
 ![A person holding a trophy Description automatically generated with
 medium
-confidence](media_the-inspiration-to-serve-and-volley/media/image5.jpg){width="3.8194444444444446in"
-height="3.013888888888889in"}
+confidence](media_the-inspiration-to-serve-and-volley/media/image5.jpg)
 
 **Like Boris Becker, I fully planned on winning Wimbledon at age 17.**
 
 I was a literal tennis junkie, shaking without my tennis fix every few
-hours. Selling my family\'s furniture might have been the next step if I
+hours. Selling my family's furniture might have been the next step if I
 felt I could have gained more knowledge.
 
 Boris Becker had won Wimbledon at the age of 17. If the \"Lion from
@@ -165,7 +160,7 @@ Leimen\" could do it, so could I. I would be 17 in 1999, and I told
 anyone who would listen that the Wimbledon title would be mine that
 year.
 
-I\'d have a weekday afternoon match lined up with one of my teammates
+I'd have a weekday afternoon match lined up with one of my teammates
 from high school. After that I'd play another match with a 5.0 male
 player.
 
@@ -182,8 +177,7 @@ points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-inspiration-to-serve-and-volley/media/image6.jpg){width="3.3059700349956254in"
-height="2.5786570428696414in"}
+confidence](media_the-inspiration-to-serve-and-volley/media/image6.jpg)
 
 **Watching his success over the years made me feel better about a junior
 loss to David Nalbandian.**
@@ -208,7 +202,7 @@ That point was driven home in a match I played as a warm up to famed
 Eddie Herr tournament in Southern Florida. For the first time ever, I
 was beaten 6-0, 6-0.
 
-I couldn\'t believe it. Despite my Edberg like volleys with Becker like
+I couldn't believe it. Despite my Edberg like volleys with Becker like
 confidence, I got double bageled. My opponent was half my size but
 seemed twice as strong and infinitely more polished.
 
@@ -221,8 +215,7 @@ knew that I was going to make this game a part of my life forever.
 
 ![A picture containing person, outdoor, sport, player Description
 automatically
-generated](media_the-inspiration-to-serve-and-volley/media/image7.jpg){width="5.9210531496062995in"
-height="6.0in"}
+generated](media_the-inspiration-to-serve-and-volley/media/image7.jpg)
 
 **I still think about the first time I saw Edberg and Becker.**
 
@@ -242,13 +235,12 @@ I still think about Edberg and Becker and how a big moment in their
 careers was the impetus for the rest of my life. As a tennis teaching
 professional today at a private club, I often imagine a young junior
 hiding in the trees and hedges next to my courts. I try to make sure
-every word I say to my students means something, for fear that I\'m
+every word I say to my students means something, for fear that I'm
 cheating that driven child so hungry to learn.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-inspiration-to-serve-and-volley/media/image8.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-inspiration-to-serve-and-volley/media/image8.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

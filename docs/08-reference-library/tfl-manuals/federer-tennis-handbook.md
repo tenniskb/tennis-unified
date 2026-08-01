@@ -19,7 +19,7 @@
 Cẩm nang này được viết dành riêng cho những người chơi tennis ở mức độ
 3.0 --- những người đã biết đánh bóng qua lưới một cách ổn định, nhưng
 còn đang vật lộn với cảm giác gồng tay, đứng sai vị trí, chuẩn bị muộn,
-và đặc biệt là chưa bao giờ trải nghiệm cảm giác \'mượt\' thực sự khi
+và đặc biệt là chưa bao giờ trải nghiệm cảm giác 'mượt' thực sự khi
 đánh.
 
 Roger Federer không phải là thần thánh trên sân tennis. Anh ấy là sản
@@ -98,7 +98,7 @@ Ton Suc
 **1.1 Cau Hoi Dau Tien: Anh Ta Dang Lam Gi Vay?**
 
 Khi lần đầu xem Roger Federer thi đấu, câu hỏi đầu tiên trong đầu hầu
-hết người xem đều là: \'Sao anh ấy trông nhẹ nhàng vậy?\' Bóng đi
+hết người xem đều là: 'Sao anh ấy trông nhẹ nhàng vậy?' Bóng đi
 150km/h, đối thủ gần như bất lực, nhưng Federer vẫn như đang đi dạo
 trong công viên. Không một giọt mồ hôi nào lăn xuống mặt. Không một cơ
 mặt nào căng cứng. Tất cả chỉ là\... mượt.
@@ -129,7 +129,7 @@ kết trong phong cách chơi của mình:
 Bạn, với tư cách là người chơi 3.0, đang ở Tầng 2. Bạn biết đánh bóng
 qua lưới. Bạn có thể duy trì rally ngắn. Nhưng mỗi khi bóng đến nhanh
 hơn, bạn bắt đầu gồng tay. Bạn đứng sai vị trí. Cú đánh trở nên vội
-vàng. Cảm giác \'mượt\' biến mất hoàn toàn.
+vàng. Cảm giác 'mượt' biến mất hoàn toàn.
 
 Mục tiêu của chương này và toàn bộ cuốn cẩm nang: đưa bạn từ Tầng 2 lên
 hướng Tầng 3. Không phải ngay lập tức. Nhưng từng bước, có hệ thống.
@@ -137,25 +137,25 @@ hướng Tầng 3. Không phải ngay lập tức. Nhưng từng bước, có h�
 **1.3 Bay Nguyen Ly Cot Loi Cua Phong Cach Federer**
 
 Dựa trên phân tích kỹ thuật của Federer qua hàng ngàn điểm đấu, có 7
-nguyên lý cốt lõi tạo nên cảm giác \'effortless\' của anh:
+nguyên lý cốt lõi tạo nên cảm giác 'effortless' của anh:
 
 **1. Toi Gian Chuyen Dong (Economy of Motion)**
 
-Federer hiếm khi \'vung thừa\'. Vợt đi đúng quỹ đạo ngắn nhất để tạo
+Federer hiếm khi 'vung thừa'. Vợt đi đúng quỹ đạo ngắn nhất để tạo
 lực. Vai, hông, tay phối hợp mượt nên không có đoạn giật cục. Đây là
 nguyên lý đầu tiên và quan trọng nhất: mỗi chuyển động đều phải có mục
 đích. Không có chuyển động thừa. Không có energy lãng phí.
 
 Với người chơi 3.0, lỗi phổ biến nhất là vung tay quá lớn khi không cần
 thiết. Backswing quá dài. Follow-through không kiểm soát. Hông không
-tham gia vào swing. Kết quả là cú đánh trông \'nặng nề\' dù không nhất
+tham gia vào swing. Kết quả là cú đánh trông 'nặng nề' dù không nhất
 thiết mạnh hơn.
 
 **2. Chuan Bi Som Hon Nguoi Khac (Early Preparation)**
 
 Điểm then chốt: Federer thường hoàn tất chuẩn bị cú đánh rất sớm. Khi
-bóng tới, anh gần như chỉ \'đi qua và chạm\', không phải vội vàng chỉnh
-sửa. Đây là lý do nhìn anh như \'đứng chờ sẵn\' trong khi đối thủ đang
+bóng tới, anh gần như chỉ 'đi qua và chạm', không phải vội vàng chỉnh
+sửa. Đây là lý do nhìn anh như 'đứng chờ sẵn' trong khi đối thủ đang
 vật lộn với timing.
 
 Cho người chơi 3.0: mục tiêu là xoay vai + đưa vợt ra sau ngay khi đoán
@@ -165,7 +165,7 @@ nhưng đòi hỏi sự thay đổi thói quen hoàn toàn.
 **3. Footwork Cuc Ky Tinh Te**
 
 Federer luôn ở đúng vị trí trước khi bóng tới. Điều này làm giảm cảm
-giác phải \'gồng\' để cứu bóng. Footwork không phải là phần phụ của
+giác phải 'gồng' để cứu bóng. Footwork không phải là phần phụ của
 tennis --- nó là nền tảng của mọi thứ. Nếu bạn đứng sai vị trí, không có
 kỹ thuật nào có thể cứu bạn.
 
@@ -178,16 +178,16 @@ sàng phản ứng.
 
 Đây là bí mật lớn nhất mà hầu hết người chơi nghiệp dư bỏ qua: cánh tay
 không bị căng. Căng cơ = mất tốc độ + mất cảm giác bóng. Federer giữ cơ
-thể rất \'mềm\', đặc biệt là cổ tay và cẳng tay.
+thể rất 'mềm', đặc biệt là cổ tay và cẳng tay.
 
-Thực tế vật lý học: khi bạn gồng tay, bạn đang cố ý \'khoá\' các khớp
+Thực tế vật lý học: khi bạn gồng tay, bạn đang cố ý 'khoá' các khớp
 lại. Điều này ngăn lực từ hông và vai truyền qua tay đến vợt. Bạn đang
-\'tắt\' đoạn cuối của kinetic chain --- chính đoạn quan trọng nhất để
+'tắt' đoạn cuối của kinetic chain --- chính đoạn quan trọng nhất để
 tạo tốc độ đầu vợt.
 
 **5. Timing Thay Vi Suc Manh**
 
-Federer không đánh bằng lực thuần túy. Anh \'bắt đúng nhịp\' của bóng
+Federer không đánh bằng lực thuần túy. Anh 'bắt đúng nhịp' của bóng
 (timing perfect contact point), nên lực tự nhiên được khuếch đại. Đây là
 lý do tại sao một người nặng 85kg có thể tạo ra lực bóng tương đương
 người nặng 100kg gồng hết sức.
@@ -201,12 +201,12 @@ và mất kiểm soát.
 **6. Cam Giac Bong Cuc Cao**
 
 Federer biết bóng sẽ đi đâu trước khi đánh. Điều này làm mọi thứ trông
-như \'dễ\'. Cảm giác bóng đến từ nhiều giờ luyện tập tập trung, không
+như 'dễ'. Cảm giác bóng đến từ nhiều giờ luyện tập tập trung, không
 phải từ đánh thật mạnh. Người chơi 3.0 thường tập bằng cách đánh thật
 nhiều bóng nhưng không chú ý đến chất lượng từng cú đánh.
 
 Federer, ngay từ nhỏ, được huấn luyện bởi Peter Carter với phương pháp
-tập trung vào \'feel\' --- cảm giác bóng trên vợt, cảm giác timing, cảm
+tập trung vào 'feel' --- cảm giác bóng trên vợt, cảm giác timing, cảm
 giác rhythm. Đây là thứ không thể tách rời khỏi kỹ thuật.
 
 **7. Dang Danh Dep Vi Toi Uu Sinh Co Hoc**
@@ -215,7 +215,7 @@ Federer trông đẹp không phải để biểu diễn --- mà đẹp vì tối
 học. Khi cơ thể di chuyển theo đúng cách tự nhiên nhất để tạo ra lực, nó
 trông đẹp. Vẻ đẹp là kết quả, không phải mục tiêu.
 
-Điều này quan trọng với người học: đừng cố \'trông giống Federer\'. Hãy
+Điều này quan trọng với người học: đừng cố 'trông giống Federer'. Hãy
 cố tập đúng nguyên lý sinh cơ học, và vẻ đẹp sẽ tự nhiên đến.
 
 **1.4 Vi Sao Nguoi Choi 3.0 Gap Kho Khan?**
@@ -227,7 +227,7 @@ cố tập đúng nguyên lý sinh cơ học, và vẻ đẹp sẽ tự nhiên �
   **Rào Cản**                         **Chi Tiet**
 
   Rào cản 1: Thói quen gồng tay       Đã ăn sâu qua nhiều năm đánh sai.
-                                      Não bộ đã \'lập trình\' rằng đánh
+                                      Não bộ đã 'lập trình' rằng đánh
                                       mạnh = gồng tay.
 
   Rào cản 2: Phản xạ muộn             Chưa phát triển được ability đọc
@@ -235,8 +235,8 @@ cố tập đúng nguyên lý sinh cơ học, và vẻ đẹp sẽ tự nhiên �
                                       phản ứng.
 
   Rào cản 3: Không ổn định vị trí     Footwork chưa được tự động hóa. Mỗi
-                                      rally đều phải \'cứu bóng\' thay vì
-                                      \'đón bóng\'.
+                                      rally đều phải 'cứu bóng' thay vì
+                                      'đón bóng'.
   ----------------------------------- -----------------------------------
 
 Ba rào cản này tương tác với nhau: vì muộn nên phải cứu bóng, vì phải
@@ -248,7 +248,7 @@ Cuốn cẩm nang này sẽ phá vỡ vòng lặp đó từng bước một.
 
 **1.5 Cam Giac Effortless La Gi? (Va No Co That Hay Khong?)**
 
-Nhiều người nghĩ \'effortless\' là một cái gì đó huyền bí, chỉ dành cho
+Nhiều người nghĩ 'effortless' là một cái gì đó huyền bí, chỉ dành cho
 các tay vợt chuyên nghiệp. Thực tế hoàn toàn khác: effortless là kết quả
 của kỹ thuật đúng + timing sớm + vị trí tốt.
 
@@ -258,8 +258,8 @@ giác mà chỉ Federer mới có --- đây là cảm giác mà bất kỳ ai h�
 thuật đều có thể đạt được.
 
   -----------------------------------------------------------------------
-  ***\"Nguoi moi: \'danh bong\'. Nguoi kha: \'tao luc\'. Federer: \'dieu
-               khien thoi gian + vi tri + nhip bong\'.\"***
+  ***\"Nguoi moi: 'danh bong'. Nguoi kha: 'tao luc'. Federer: 'dieu
+               khien thoi gian + vi tri + nhip bong'.\"***
 
   -----------------------------------------------------------------------
 
@@ -281,8 +281,8 @@ chương bất kỳ khi cần tham khảo.
 
 - Chương 18-20: Tự động hóa và các mode cao nhất --- mục tiêu dài hạn.
 
-Mỗi chương kết thúc với một \'Core Takeaway\' --- điều quan trọng nhất
-bạn cần nhớ từ chương đó. Và một \'Drill ngay lập tức\' --- bài tập bạn
+Mỗi chương kết thúc với một 'Core Takeaway' --- điều quan trọng nhất
+bạn cần nhớ từ chương đó. Và một 'Drill ngay lập tức' --- bài tập bạn
 có thể làm ngay hôm nay.
 
   -----------------------------------------------------------------------
@@ -320,8 +320,8 @@ thực tế cho người chơi 3.0 học theo phương pháp Federer:
   ----------------------- ----------------------- -----------------------
 
 Lộ trình này không có nghĩa là bạn chỉ học một thứ trong một giai đoạn.
-Bạn vẫn chơi tennis bình thường. Nhưng mỗi giai đoạn, bạn có một \'focus
-chính\' để cải thiện.
+Bạn vẫn chơi tennis bình thường. Nhưng mỗi giai đoạn, bạn có một 'focus
+chính' để cải thiện.
 
 **1.8 Chuong 1 Takeaway**
 
@@ -335,7 +335,7 @@ chính\' để cải thiện.
 Drill ngay lập tức: Tối hôm nay, hãy ngồi và xem 10 phút video Federer
 đánh forehand. Không cần phân tích quá nhiều. Chỉ cần quan sát xem tay
 anh ấy trông thế nào --- nhẹ hay nặng? Vung thừa hay tối giản? Chuẩn bị
-sớm hay muộn? Xây dựng \'hình ảnh\' trong đầu trước khi ra sân.
+sớm hay muộn? Xây dựng 'hình ảnh' trong đầu trước khi ra sân.
 
 **CHUONG 2: TAY THA LONG --- BI MAT LON NHAT**
 
@@ -362,7 +362,7 @@ Tốc độ bóng = Tốc độ đầu vợt x Hệ số đàn hồi bề mặt 
 Vai → Cánh tay → Cổ tay → Đầu vợt.
 
 Chuỗi này chỉ hoạt động hiệu quả khi từng khâu có thể truyền lực qua
-khâu tiếp theo. Khi bạn gồng tay, bạn đang \'khoá\' khâu cẳng tay và cổ
+khâu tiếp theo. Khi bạn gồng tay, bạn đang 'khoá' khâu cẳng tay và cổ
 tay lại. Lực từ hông và vai không thể truyền qua. Đầu vợt chỉ nhận được
 một phần nhỏ lực.
 
@@ -374,34 +374,34 @@ một phần nhỏ lực.
 
 **2.3 Whip Effect --- Hieu Ung Roi Quat**
 
-Federer tạo ra tốc độ đầu vợt bằng \'whip effect\' --- hiệu ứng roi
+Federer tạo ra tốc độ đầu vợt bằng 'whip effect' --- hiệu ứng roi
 quất. Hãy tưởng tượng một cái roi da: khi bạn vung roi, phần gốc di
 chuyển chậm hơn nhưng đầu roi quất với tốc độ cực cao. Điều này xảy ra
 vì roi mềm, linh hoạt.
 
 Cánh tay trong forehand Federer hoạt động theo nguyên lý tương tự. Vai
 và cánh tay trên di chuyển chậm hơn, nhưng vì cẳng tay và cổ tay hoàn
-toàn thả lỏng, chúng \'quất\' qua với tốc độ rất cao. Đây là \'lag and
-whip\' mà các HLV tennis thường nhắc đến.
+toàn thả lỏng, chúng 'quất' qua với tốc độ rất cao. Đây là 'lag and
+whip' mà các HLV tennis thường nhắc đến.
 
 **Lag and Whip --- Giai Thich Chi Tiet**
 
-Lag: Khi bắt đầu forward swing, tay dẫn trước nhưng vợt \'tụt lại\' phía
-sau. Đây là lag. Whip: Khi tay đến điểm chạm bóng, vợt \'quất\' qua cực
+Lag: Khi bắt đầu forward swing, tay dẫn trước nhưng vợt 'tụt lại' phía
+sau. Đây là lag. Whip: Khi tay đến điểm chạm bóng, vợt 'quất' qua cực
 nhanh. Đây là whip.
 
 Để lag và whip xảy ra tự nhiên, bạn cần: thả lỏng cổ tay hoàn toàn. Nếu
-cổ tay cứng, vợt không thể \'tụt lại\' được, và whip effect biến mất.
+cổ tay cứng, vợt không thể 'tụt lại' được, và whip effect biến mất.
 
 **2.4 Cam Giac Bong va Luc Cang**
 
 Ngoài tốc độ, gồng tay còn ảnh hưởng đến một thứ quan trọng không kém:
 cảm giác bóng. Khi cơ tay căng, dây thần kinh trong bàn tay và cổ tay
-không thể \'đọc\' được lực bóng chạm vào vợt.
+không thể 'đọc' được lực bóng chạm vào vợt.
 
 Đây là lý do Federer cầm vợt với lực 3-4/10, không phải 8-9/10 như nhiều
 người chơi nghiệp dư. Cầm nhẹ hơn không có nghĩa là mất kiểm soát ---
-ngược lại, cầm nhẹ cho phép bàn tay \'cảm nhận\' bóng tốt hơn và điều
+ngược lại, cầm nhẹ cho phép bàn tay 'cảm nhận' bóng tốt hơn và điều
 chỉnh mặt vợt vi tế hơn tại thời điểm chạm bóng.
 
   ----------------------- ----------------------- -----------------------
@@ -424,8 +424,8 @@ chỉnh mặt vợt vi tế hơn tại thời điểm chạm bóng.
 
 Thói quen gồng tay của người chơi nghiệp dư đến từ hai nguồn chính:
 
-1.  Sợ hãi: Khi bóng đến nhanh, não bộ kích hoạt phản ứng \'fight or
-    flight\'. Tất cả cơ bắp căng ra để chuẩn bị va chạm. Đây là phản xạ
+1.  Sợ hãi: Khi bóng đến nhanh, não bộ kích hoạt phản ứng 'fight or
+    flight'. Tất cả cơ bắp căng ra để chuẩn bị va chạm. Đây là phản xạ
     sinh tồn, nhưng hoàn toàn phản tác dụng trong tennis.
 
 2.  Hiểu nhầm về lực: Nhiều người nghĩ đánh mạnh = gồng tay mạnh. Điều
@@ -435,14 +435,14 @@ Thói quen gồng tay của người chơi nghiệp dư đến từ hai nguồn 
 
 **Phuong Phap Nhan Thuc**
 
-Mỗi khi bạn cảm thấy tay đang gồng, hãy tự nhủ: \'Thả. Thả.\' Không phải
-\'đánh nhẹ hơn\' --- mà là \'thả lỏng tay trước khi đánh.\' Sự khác biệt
+Mỗi khi bạn cảm thấy tay đang gồng, hãy tự nhủ: 'Thả. Thả.' Không phải
+'đánh nhẹ hơn' --- mà là 'thả lỏng tay trước khi đánh.' Sự khác biệt
 quan trọng: bạn vẫn đánh bình thường, nhưng cổ tay và cẳng tay không bị
 gồng.
 
 **Phuong Phap Co Hoc**
 
-Bài tập \'Pencil Grip Test\': Cầm vợt như cầm bút chì. Sau đó tăng lực
+Bài tập 'Pencil Grip Test': Cầm vợt như cầm bút chì. Sau đó tăng lực
 lên 3/10. Đó là lực cầm vợt đúng. Trong mỗi buổi tập, bắt đầu bằng 5
 phút đánh với lực cầm vợt cố tình rất nhẹ (2/10) để reset cảm giác. Sau
 đó tăng lên 3/10 và duy trì.
@@ -455,17 +455,17 @@ luyện Federer:
   -----------------------------------------------------------------------
   **5 BUOC THA LONG TAY**
 
-  Buoc 1: Shake Out (30 giay): Lắc tay nhẹ nhàng. Cảm giác tay \'lủng
-  lẳng\'. Thả lỏng tất cả cơ từ vai xuống ngón tay.
+  Buoc 1: Shake Out (30 giay): Lắc tay nhẹ nhàng. Cảm giác tay 'lủng
+  lẳng'. Thả lỏng tất cả cơ từ vai xuống ngón tay.
 
   Buoc 2: Pencil Test: Cầm vợt với lực 3/10. Thả lỏng cổ tay. Cảm giác
   vợt hơi lung lay nhẹ trong tay --- đó là đúng.
 
-  Buoc 3: Shadow Swing 70%: Vung vợt không có bóng. Cảm giác vợt \'quất
-  qua\' tự nhiên. Không dừng đột ngột.
+  Buoc 3: Shadow Swing 70%: Vung vợt không có bóng. Cảm giác vợt 'quất
+  qua' tự nhiên. Không dừng đột ngột.
 
   Buoc 4: Slow Feed: Đánh bóng được tung nhẹ. Cố tình đánh chậm 50% tốc
-  độ. Chỉ tập cảm giác \'bóng tự rời vợt\'.
+  độ. Chỉ tập cảm giác 'bóng tự rời vợt'.
 
   Buoc 5: Gradual Increase: Từ từ tăng tốc độ. Nhưng DỪNG ngay khi cảm
   thấy gồng tay. Reset về bước 1.
@@ -477,7 +477,7 @@ Làm sao biết mình đang thả lỏng đúng? Hãy tìm những dấu hiệu 
 
 - Bóng đi xa hơn bình thường dù không cố gắng hơn.
 
-- Cú đánh nghe tiếng \'pop\' sắc gọn thay vì tiếng \'thụp\' nặng nề.
+- Cú đánh nghe tiếng 'pop' sắc gọn thay vì tiếng 'thụp' nặng nề.
 
 - Sau mỗi cú đánh, tay cảm thấy nhẹ, không mỏi.
 
@@ -494,13 +494,13 @@ gồng tay nhiều nhất trong những tình huống cụ thể này:
   **Tinh Huong**                      **Nguyen Nhan Gong Tay**
 
   Bóng đến nhanh và mạnh              Phản ứng tự nhiên: gồng tay để
-                                      \'chịu đòn\'. Sai hoàn toàn.
+                                      'chịu đòn'. Sai hoàn toàn.
 
   Điểm quan trọng (break point, match Áp lực tâm lý → gồng tay → mất kỹ
   point)                              thuật → lỗi.
 
-  Khi đang \'thua\' trong rally       Cảm giác \'phải làm gì đó\' → gồng
-                                      tay để \'cứu\'.
+  Khi đang 'thua' trong rally       Cảm giác 'phải làm gì đó' → gồng
+                                      tay để 'cứu'.
 
   Khi cố đánh winner                  Muốn đánh mạnh → gồng tay → mất
                                       whip → bóng yếu hơn.
@@ -539,21 +539,21 @@ cảm giác.
 
 *Khi Bong Toi, Ban Phai Da Xong Chuan Bi*
 
-**3.1 Ly Do Federer Trong Nhu \'Dung Cho San\'**
+**3.1 Ly Do Federer Trong Nhu 'Dung Cho San'**
 
-Một trong những nhận xét phổ biến nhất khi xem Federer thi đấu: \'Anh ấy
-như đứng chờ sẵn.\' Đây không phải ảo giác. Đây là kết quả trực tiếp của
+Một trong những nhận xét phổ biến nhất khi xem Federer thi đấu: 'Anh ấy
+như đứng chờ sẵn.' Đây không phải ảo giác. Đây là kết quả trực tiếp của
 Early Preparation --- khả năng chuẩn bị xong trước khi bóng tới.
 
 Trong khi đối thủ vẫn đang xoay người và đưa vợt ra sau thì Federer đã
-sẵn sàng hoàn toàn. Khi bóng tới, anh chỉ việc \'đi qua và chạm\'. Không
+sẵn sàng hoàn toàn. Khi bóng tới, anh chỉ việc 'đi qua và chạm'. Không
 có động tác vội vàng. Không có chỉnh sửa cuối phút. Chỉ là một cú swing
 mượt mà, kiểm soát hoàn toàn.
 
 **3.2 Window of Opportunity --- Cua So Co Hoi**
 
 Trong rally trung bình, bóng mất khoảng 0.5-0.8 giây để bay từ vợt đối
-thủ sang vợt bạn. Đây là \'window of opportunity\' --- cửa sổ thời gian
+thủ sang vợt bạn. Đây là 'window of opportunity' --- cửa sổ thời gian
 để bạn chuẩn bị.
 
 Người chơi nghiệp dư thường dùng 80% thời gian này để\... nhìn bóng bay.
@@ -582,14 +582,14 @@ swing.
 
 Split step là nhảy nhẹ lên trước khi di chuyển. Federer thực hiện split
 step mỗi khi đối thủ chuẩn bị chạm bóng. Đây không phải nhảy cao --- chỉ
-là nhún chân nhẹ, đủ để cơ thể ở trạng thái \'floating\' (lơ lửng), sẵn
+là nhún chân nhẹ, đủ để cơ thể ở trạng thái 'floating' (lơ lửng), sẵn
 sàng bật về bất kỳ hướng nào.
 
 **Tai Sao Split Step Quan Trong?**
 
-Khi hai chân đang trên mặt đất cứng, não bộ cần ra lệnh \'nâng chân\'
-trước khi có thể di chuyển. Khi hai chân đang ở giai đoạn \'chạm đất sau
-split step\', cơ thể đã trong trạng thái co giãn, sẵn sàng bật về bất kỳ
+Khi hai chân đang trên mặt đất cứng, não bộ cần ra lệnh 'nâng chân'
+trước khi có thể di chuyển. Khi hai chân đang ở giai đoạn 'chạm đất sau
+split step', cơ thể đã trong trạng thái co giãn, sẵn sàng bật về bất kỳ
 hướng nào với độ trễ tối thiểu.
 
 Thực tế: split step giúp giảm reaction time 0.1-0.15 giây. Nghe có vẻ
@@ -612,7 +612,7 @@ mái và phải cứu bóng vội vàng.
 **3.4 Doc Bong Tu Som --- Read Early**
 
 Early preparation không chỉ là việc xoay người sớm. Nó bắt đầu từ việc
-đọc bóng sớm. Federer \'biết\' hướng bóng đến trước khi bóng được đánh.
+đọc bóng sớm. Federer 'biết' hướng bóng đến trước khi bóng được đánh.
 Anh đọc từ body language của đối thủ, từ góc của vợt, từ vị trí của chân
 đối thủ.
 
@@ -649,8 +649,8 @@ vợt.
 **Bai Tap Xoay Vai Som**
 
 Bài tập Mirror Drill: Đứng trước gương. Đứng ready position. Hô
-\'forehand!\' và xoay vai ngay lập tức --- đo thời gian từ khi hô đến
-khi vai xoay xong. Mục tiêu: dưới 0.5 giây. Hô \'backhand!\' và làm
+'forehand!' và xoay vai ngay lập tức --- đo thời gian từ khi hô đến
+khi vai xoay xong. Mục tiêu: dưới 0.5 giây. Hô 'backhand!' và làm
 tương tự. Lặp lại 20 lần mỗi buổi tập.
 
 **3.6 Ready Position --- Tư The San Sang**
@@ -705,8 +705,8 @@ từng tình huống:
 **3.8 Loi Pho Bien Nhat Cua Nguoi 3.0**
 
 Khi làm việc với người chơi 3.0, lỗi early preparation phổ biến nhất là:
-chưa xoay vai khi bóng đã qua lưới. Đây là \'late preparation\' nghiêm
-trọng. Kết quả là mọi cú đánh đều trở thành \'cứu bóng vội vàng\', không
+chưa xoay vai khi bóng đã qua lưới. Đây là 'late preparation' nghiêm
+trọng. Kết quả là mọi cú đánh đều trở thành 'cứu bóng vội vàng', không
 thể thả lỏng tay, không thể có timing tốt.
 
   -----------------------------------------------------------------------
@@ -725,11 +725,11 @@ Early Turn Drill (quan trọng nhất):
 4.  Quy tắc bắt buộc: xoay vai + đưa vợt ra sau NGAY KHI đối thủ chạm
     bóng.
 
-5.  Cảm giác đúng: \'Tôi đã xong chuẩn bị trước khi bóng tới.\'
+5.  Cảm giác đúng: 'Tôi đã xong chuẩn bị trước khi bóng tới.'
 
 6.  Sai nếu: vẫn đang chỉnh vợt khi bóng đã sang sân.
 
-7.  Mục tiêu: Biến \'early preparation\' thành phản xạ tự động.
+7.  Mục tiêu: Biến 'early preparation' thành phản xạ tự động.
 
 Thực hiện drill này ít nhất 15 phút mỗi buổi tập trong 2 tuần đầu. Chỉ
 tập một thứ này. Không thêm gì khác. Khi early preparation trở thành
@@ -753,8 +753,8 @@ vào hay ra. Chỉ tập: xoay sớm. Lặp lại 100 lần trong buổi tập �
 
 **4.1 Footwork La Nen Tang Cua Moi Thu**
 
-Trong tennis, có một câu nói nổi tiếng: \'Kỹ thuật quyết định cú đánh,
-nhưng footwork quyết định kỹ thuật.\' Điều này có nghĩa: dù bạn có
+Trong tennis, có một câu nói nổi tiếng: 'Kỹ thuật quyết định cú đánh,
+nhưng footwork quyết định kỹ thuật.' Điều này có nghĩa: dù bạn có
 forehand tốt đến đâu, nếu bạn đứng sai vị trí, forehand đó sẽ không hiệu
 quả.
 
@@ -787,7 +787,7 @@ Có hai cách tiếp cận bóng hoàn toàn khác nhau:
                                       soát
   ----------------------------------- -----------------------------------
 
-Từ \'đuổi bóng\' sang \'đón bóng\' là một trong những thay đổi lớn nhất
+Từ 'đuổi bóng' sang 'đón bóng' là một trong những thay đổi lớn nhất
 mà người chơi 3.0 cần thực hiện. Và nó bắt đầu từ split step.
 
 **4.3 Cac Loai Di Chuyen Trong Tennis**
@@ -831,13 +831,13 @@ bị gấp.
 
 Sai lầm phổ biến:
 
-- Bóng lọt sau người: Swing lúc này bị \'khoá\', không thể tạo whip
-  effect. Tay phải \'kéo\' bóng thay vì swing qua bóng.
+- Bóng lọt sau người: Swing lúc này bị 'khoá', không thể tạo whip
+  effect. Tay phải 'kéo' bóng thay vì swing qua bóng.
 
 - Bóng sát người quá: Cánh tay bị gấp, không có đủ không gian để extend.
   Mất lực và kiểm soát.
 
-- Bóng quá xa người: Phải \'với\' tay, mất thăng bằng và lực.
+- Bóng quá xa người: Phải 'với' tay, mất thăng bằng và lực.
 
 **4.5 Bai Tap Footwork Federer Style**
 
@@ -873,7 +873,7 @@ footwork cho người chơi 3.0:
 
   Trong tam: Moi lan cham cone, dung adjustment steps de chinh vi tri.
 
-  Nang cao: HLV ho \'forehand\', \'backhand\', \'wide\', \'center\' ---
+  Nang cao: HLV ho 'forehand', 'backhand', 'wide', 'center' ---
   ban phai di dung huong.
 
   Lien ket: Sau moi lan cham cone, reset ve ready position --- giong nhu
@@ -890,7 +890,7 @@ footwork cho người chơi 3.0:
   Neu bong toi tre: Di chuyen chan de chong bong vao dung marker, KHONG
   VOI TAY.
 
-  Muc tieu: Hinh thanh thoi quen \'don bong\' thay vi \'duoi bong\'.
+  Muc tieu: Hinh thanh thoi quen 'don bong' thay vi 'duoi bong'.
 
   Theo doi: Sau 30 cu danh, dem xem bao nhieu cu cham bong dung marker.
   -----------------------------------------------------------------------
@@ -898,7 +898,7 @@ footwork cho người chơi 3.0:
 **4.6 Footwork Trong Tinh Huong Ap Luc**
 
 Dưới áp lực (điểm quan trọng, bóng khó), footwork là thứ biến mất đầu
-tiên. Người chơi 3.0 thường \'đứng chết\' khi căng thẳng --- quên mất
+tiên. Người chơi 3.0 thường 'đứng chết' khi căng thẳng --- quên mất
 việc di chuyển và chỉ chú ý đến cú đánh.
 
 Giải pháp: Tập luyện footwork dưới áp lực giả lập. Chơi điểm với quy
@@ -917,7 +917,7 @@ não bộ ưu tiên footwork hơn cú đánh.
 
 Drill ngay lập tức: Làm 10 phút shadow footwork (không vợt, không bóng).
 Di chuyển quanh sân: tiến, lui, trái, phải, chéo. Thực hiện split step
-mỗi 2-3 giây. Tập cảm giác \'bồng bềnh\' --- cơ thể luôn sẵn sàng di
+mỗi 2-3 giây. Tập cảm giác 'bồng bềnh' --- cơ thể luôn sẵn sàng di
 chuyển.
 
 **CHUONG 5: CONTACT POINT --- CHAM BONG DUNG HON, KHONG MANH HON**
@@ -979,7 +979,7 @@ Khi bóng bounce xuống sân và nảy lên, có nhiều thời điểm khác n
 **5.4 Vi Tri Ngang --- Truoc Co The, Khong Sau**
 
 Đây là điểm người chơi 3.0 hay sai nhất: để bóng lọt sau cơ thể. Khi
-bóng lọt sau người, cú đánh bị \'khoá\':
+bóng lọt sau người, cú đánh bị 'khoá':
 
 - Cánh tay phải gấp, không thể extend.
 
@@ -997,11 +997,11 @@ chuyển chân.
 
 Sau khi chạm bóng, tay không được dừng. Federer luôn extend (duỗi thẳng
 tay) về phía mục tiêu trong một khoảng ngắn trước khi bắt đầu
-follow-through. Đây tạo ra \'dwell time\' --- thời gian bóng tiếp xúc
+follow-through. Đây tạo ra 'dwell time' --- thời gian bóng tiếp xúc
 với vợt --- giúp tạo spin và kiểm soát hướng bóng.
 
 Người chơi 3.0 thường dừng swing hoặc kéo vợt lên quá nhanh ngay sau khi
-chạm bóng. Điều này tạo ra bóng bị \'cắt ngắn\', mất kiểm soát hướng, và
+chạm bóng. Điều này tạo ra bóng bị 'cắt ngắn', mất kiểm soát hướng, và
 khó tạo depth.
 
 **5.6 Bai Tap Contact Point**
@@ -1013,12 +1013,12 @@ Contact Point Isolation Drill:
 
 9.  Chỉ tập chạm bóng tại đúng điểm --- không quan tâm bóng đi đâu.
 
-10. Cảm giác đúng: vợt \'bắt\' bóng, không đẩy bóng.
+10. Cảm giác đúng: vợt 'bắt' bóng, không đẩy bóng.
 
-11. Khi cảm thấy contact tốt: bóng nghe tiếng \'pop\' sắc, có cảm giác
+11. Khi cảm thấy contact tốt: bóng nghe tiếng 'pop' sắc, có cảm giác
     solid.
 
-12. Khi contact sai: bóng nghe tiếng \'thụp\' hay \'lạc\', mất kiểm
+12. Khi contact sai: bóng nghe tiếng 'thụp' hay 'lạc', mất kiểm
     soát.
 
 **5.7 Chuong 5 Takeaway**
@@ -1036,14 +1036,14 @@ Contact Point Isolation Drill:
 
 **6.1 Forehand Federer --- Linh Hon Cua Effortless**
 
-Forehand của Federer được mệnh danh là \'cú đánh vĩ đại nhất trong lịch
-sử tennis\'. Không phải vì nó mạnh nhất (Nadal và một số tay vợt khác
+Forehand của Federer được mệnh danh là 'cú đánh vĩ đại nhất trong lịch
+sử tennis'. Không phải vì nó mạnh nhất (Nadal và một số tay vợt khác
 tạo topspin nhiều hơn). Mà vì sự kết hợp hoàn hảo giữa: tốc độ, spin,
 kiểm soát, và khả năng tạo winner từ mọi vị trí.
 
-Điều đặc biệt: forehand này không phải là cú \'hit\' theo nghĩa thông
-thường. Nó là cú \'whip\' --- roi quất. Federer không dùng cơ bắp để
-\'đẩy\' bóng. Anh dùng cơ học cơ thể để \'quất\' vợt qua bóng với tốc độ
+Điều đặc biệt: forehand này không phải là cú 'hit' theo nghĩa thông
+thường. Nó là cú 'whip' --- roi quất. Federer không dùng cơ bắp để
+'đẩy' bóng. Anh dùng cơ học cơ thể để 'quất' vợt qua bóng với tốc độ
 đầu vợt cực cao.
 
 **6.2 5 Giai Doan Cua Forehand Federer**
@@ -1054,16 +1054,16 @@ Forehand của Federer có thể chia thành 5 giai đoạn:
 
 Ngay khi nhận diện bóng là forehand, Federer bắt đầu xoay vai phải. Cùng
 lúc đó, tay trái buông vợt (tay trái không còn đỡ vợt), vợt bắt đầu đi
-ra sau theo chuyển động xoay tự nhiên của vai. Không có hành động \'kéo
-vợt\' riêng biệt --- tất cả là một chuyển động liền mạch.
+ra sau theo chuyển động xoay tự nhiên của vai. Không có hành động 'kéo
+vợt' riêng biệt --- tất cả là một chuyển động liền mạch.
 
 Kết thúc preparation: Vai phải đã xoay khoảng 45-60 độ, vợt ở phía sau
 và thấp, tay cầm vợt thả lỏng hoàn toàn.
 
 **Giai Doan 2: Racket Drop (Vot Roi Xuong)**
 
-Sau khi xoay vai xong, vợt \'rơi xuống\' thấp hơn mức contact point. Đây
-là giai đoạn quan trọng để tạo \'lag\' --- vợt tụt lại sau khi tay bắt
+Sau khi xoay vai xong, vợt 'rơi xuống' thấp hơn mức contact point. Đây
+là giai đoạn quan trọng để tạo 'lag' --- vợt tụt lại sau khi tay bắt
 đầu swing về phía trước. Racket drop xảy ra tự nhiên nhờ trọng lực + thả
 lỏng cổ tay, không phải do cố tình kéo xuống.
 
@@ -1074,28 +1074,28 @@ whip, bóng ra nhẹ và thiếu spin.
 **Giai Doan 3: Forward Swing va Lag**
 
 Khi forward swing bắt đầu, hông dẫn trước, vai kéo theo, cánh tay trên
-kéo theo. Trong khi đó, cẳng tay và vợt \'tụt lại\' phía sau do inertia
-và thả lỏng cổ tay. Đây chính là \'lag\'.
+kéo theo. Trong khi đó, cẳng tay và vợt 'tụt lại' phía sau do inertia
+và thả lỏng cổ tay. Đây chính là 'lag'.
 
 Lag không phải cố tình --- nó xảy ra tự nhiên khi bạn thả lỏng đúng
-cách. Bạn không cần \'tạo lag\'. Bạn chỉ cần \'không ngăn lag\' bằng
+cách. Bạn không cần 'tạo lag'. Bạn chỉ cần 'không ngăn lag' bằng
 cách giữ tay thả lỏng.
 
 **Giai Doan 4: Contact va Whip**
 
-Tại điểm contact, whip effect xảy ra: vợt \'quật\' qua bóng với tốc độ
+Tại điểm contact, whip effect xảy ra: vợt 'quật' qua bóng với tốc độ
 đầu vợt tối đa. Cú đánh xảy ra trong khoảng 0.005 giây --- nhanh đến mức
-không thể can thiệp có ý thức. Đây là lý do tại sao cần phải \'setup
-đúng\' thay vì \'cố gắng đánh đúng\'.
+không thể can thiệp có ý thức. Đây là lý do tại sao cần phải 'setup
+đúng' thay vì 'cố gắng đánh đúng'.
 
 Tại contact: cổ tay hơi xoay lên trên (pronation) để tạo topspin. Mặt
 vợt hơi đóng lại. Tay extend về phía mục tiêu sau contact.
 
 **Giai Doan 5: Follow-Through**
 
-Sau contact, vợt tiếp tục \'trôi\' lên trên và qua vai trái. Không dừng
+Sau contact, vợt tiếp tục 'trôi' lên trên và qua vai trái. Không dừng
 đột ngột. Không giữ cứng. Cơ thể vẫn cân bằng. Tay cuối cùng ở vị trí
-gần tai hoặc qua vai. Đây là \'windshield wiper finish\' đặc trưng của
+gần tai hoặc qua vai. Đây là 'windshield wiper finish' đặc trưng của
 Federer.
 
   -----------------------------------------------------------------------
@@ -1151,8 +1151,8 @@ Federer không chỉ có một forehand. Anh có ít nhất 3 biến thể chín
 Progression từ shadow swing đến live ball:
 
 13. Shadow Swing Drill (không bóng, 10 phút): Tập forehand không bóng
-    với tốc độ chậm (50%). Focus: lag và whip. Cảm giác vợt \'tụt lại\'
-    rồi \'quật qua\'. Tay nhẹ hoàn toàn.
+    với tốc độ chậm (50%). Focus: lag và whip. Cảm giác vợt 'tụt lại'
+    rồi 'quật qua'. Tay nhẹ hoàn toàn.
 
 14. Drop Feed Drill (bóng tự drop): Tự thả bóng và đánh. Không quan tâm
     bóng đi đâu. Focus: contact point đúng vị trí trước người.
@@ -1170,9 +1170,9 @@ Progression từ shadow swing đến live ball:
 **6.6 Chuong 6 Takeaway**
 
   -----------------------------------------------------------------------
-  ***\"Forehand Federer la cu \'whip\' khong phai \'hit\'. Thiet lap dung
-    (preparation, lag, tha long) thi whip tu dong xay ra. Dung co \'tao
-               ra\' no --- chi \'cho phep\' no xay ra.\"***
+  ***\"Forehand Federer la cu 'whip' khong phai 'hit'. Thiet lap dung
+    (preparation, lag, tha long) thi whip tu dong xay ra. Dung co 'tao
+               ra' no --- chi 'cho phep' no xay ra.\"***
 
   -----------------------------------------------------------------------
 
@@ -1182,8 +1182,8 @@ Progression từ shadow swing đến live ball:
 
 **7.1 Tai Sao Backhand 1 Tay Cua Federer Dac Biet?**
 
-Backhand một tay của Federer được nhiều chuyên gia mô tả là \'đẹp nhất
-trong lịch sử tennis\'. Trong thế giới tennis hiện đại đang dần chuyển
+Backhand một tay của Federer được nhiều chuyên gia mô tả là 'đẹp nhất
+trong lịch sử tennis'. Trong thế giới tennis hiện đại đang dần chuyển
 sang backhand hai tay (vì dễ học và ổn định hơn), Federer vẫn kiên trì
 với backhand một tay và đã nâng nó lên mức nghệ thuật.
 
@@ -1196,28 +1196,28 @@ phong cách Federer --- khó để thực hiện, nhưng dễ để nhìn.
 **1. Chuan Bi Vai Cuc Som (90 Do)**
 
 Federer xoay vai trái gần như 90 độ khi chuẩn bị backhand. Điều này tạo
-\'coil\' (dây lò xo) đủ lớn để \'nả\' năng lượng vào cú đánh. Vai xoay
+'coil' (dây lò xo) đủ lớn để 'nả' năng lượng vào cú đánh. Vai xoay
 không đủ = mất lực = phải dùng tay bù đắp = gồng tay = mất effortless.
 
 Quan trọng: Tay trái (tay không dominant) đóng vai trò rất quan trọng
 trong giai đoạn chuẩn bị. Tay trái giữ nhịp vợt, điều chỉnh vị trí vợt
-trong backswing, và tạo tension cho coil. Federer gọi tay trái là \'tay
-lái\' trong backhand.
+trong backswing, và tạo tension cho coil. Federer gọi tay trái là 'tay
+lái' trong backhand.
 
 **2. Racket Drop Tu Nhien**
 
 Tương tự forehand, backhand cũng cần racket drop trước khi swing về phía
-trước. Vợt rơi xuống thấp tự nhiên nhờ trọng lực. Không \'giật vợt
-xuống\' và không \'kéo vợt lên\' quá sớm.
+trước. Vợt rơi xuống thấp tự nhiên nhờ trọng lực. Không 'giật vợt
+xuống' và không 'kéo vợt lên' quá sớm.
 
 Người chơi 3.0 thường flick cổ tay quá nhiều trong backhand một tay.
-Điều này tạo ra cú đánh \'slappy\' --- bóng đi nhưng thiếu depth và
+Điều này tạo ra cú đánh 'slappy' --- bóng đi nhưng thiếu depth và
 spin. Federer giữ mặt vợt ổn định và chỉ dùng cổ tay ở mức tối thiểu.
 
 **3. Contact Xa Co The --- Extend Arm**
 
 Điểm khác biệt lớn nhất giữa backhand một tay và hai tay: backhand một
-tay cần \'arm extension\' --- duỗi thẳng tay về phía bóng. Federer luôn
+tay cần 'arm extension' --- duỗi thẳng tay về phía bóng. Federer luôn
 chạm bóng ở vị trí xa cơ thể, với tay gần thẳng hoàn toàn.
 
 Nếu chạm bóng sát người: cánh tay bị gấp, mất lực, mất topspin, mất kiểm
@@ -1226,7 +1226,7 @@ soát. Đây là lỗi số một của người học backhand một tay.
 **4. Extension Qua Bong --- Keo Dai Tay Ve Phia Muc Tieu**
 
 Sau contact, tay tiếp tục kéo dài về phía mục tiêu trong khoảng 15-20cm
-trước khi bắt đầu arc lên trên. Đây tạo ra \'dwell time\' lớn hơn và
+trước khi bắt đầu arc lên trên. Đây tạo ra 'dwell time' lớn hơn và
 giúp bóng đi sâu hơn. Federer nổi tiếng với extension đẹp trong
 backhand.
 
@@ -1243,7 +1243,7 @@ như một đường cong mượt mà.
 
   \[ \] Tay trai giu vo trong backswing cho den truoc khi swing?
 
-  \[ \] Vot \'roi xuong\' truoc khi swing len khong?
+  \[ \] Vot 'roi xuong' truoc khi swing len khong?
 
   \[ \] Diem cham bong phai truoc nguoi, tay gan thang?
 
@@ -1261,7 +1261,7 @@ setup.
 
 Cơ chế slice backhand: Mặt vợt hơi mở (ngửa lên), swing từ cao xuống
 thấp với tốc độ vừa phải. Bóng có spin ngược (backspin), bay thấp và
-\'ôm sân\', khó để đối thủ tấn công.
+'ôm sân', khó để đối thủ tấn công.
 
 **7.4 Bai Tap Backhand 1 Tay**
 
@@ -1302,7 +1302,7 @@ nhỏ --- chúng là lỗi cốt lõi phá hủy toàn bộ hệ thống.
 
 **8.2 Loi 1: Dung Luc Tay Thay Vi Thoi Diem + Trong Luong Co The**
 
-Đây là lỗi lớn nhất. Nhiều người chơi cố \'đánh mạnh\' bằng cánh tay,
+Đây là lỗi lớn nhất. Nhiều người chơi cố 'đánh mạnh' bằng cánh tay,
 trong khi đánh mạnh thực sự đến từ timing + chuyển động toàn thân.
 
   ----------------------------------- -----------------------------------
@@ -1310,22 +1310,22 @@ trong khi đánh mạnh thực sự đến từ timing + chuyển động toàn 
 
   Bieu hien:                          Tai sao sai:
 
-  \- Cố \'đánh mạnh\' bằng cánh tay   Tennis không phải môn \'đẩy bóng\'
+  \- Cố 'đánh mạnh' bằng cánh tay   Tennis không phải môn 'đẩy bóng'
 
   \- Cổ tay và cẳng tay bị gồng       Khi dùng tay: mất độ thả lỏng
 
-  \- Cảm giác bóng \'nặng\', không    Mất whip effect tự nhiên
+  \- Cảm giác bóng 'nặng', không    Mất whip effect tự nhiên
   mượt                                
 
   \- Mệt tay nhanh dù chơi không lâu  Mất cảm giác bóng hoàn toàn
 
   \- Forehand và backhand trông       Federer trông nhẹ vì KHÔNG dùng tay
-  \'cứng\'                            làm động lực chính
+  'cứng'                            làm động lực chính
   ----------------------------------- -----------------------------------
 
-Cách sửa: Bài tập \'No Arm Power Swing\'. Đánh bóng chỉ với 3 quy tắc:
-(1) Vai dẫn chuyển động, (2) Tay thả lỏng 100%, (3) Không \'ép lực\' vào
-bóng. Tưởng tượng tay chỉ là \'dây nối\', không phải động cơ.
+Cách sửa: Bài tập 'No Arm Power Swing'. Đánh bóng chỉ với 3 quy tắc:
+(1) Vai dẫn chuyển động, (2) Tay thả lỏng 100%, (3) Không 'ép lực' vào
+bóng. Tưởng tượng tay chỉ là 'dây nối', không phải động cơ.
 
 **8.3 Loi 2: Chuan Bi Qua Muon (Late Preparation)**
 
@@ -1337,13 +1337,13 @@ cú đánh đều vội vàng, không có thời gian thả lỏng, không có t
 
   Bieu hien:                          Hau qua:
 
-  \- Đợi bóng tới mới xoay người      Cú đánh trở thành \'phản ứng\'
+  \- Đợi bóng tới mới xoay người      Cú đánh trở thành 'phản ứng'
 
-  \- Vợt đưa ra sau trễ               Không phải \'chủ động\'
+  \- Vợt đưa ra sau trễ               Không phải 'chủ động'
 
-  \- Phải \'giật\' để kịp đánh        Không thể đạt effortless
+  \- Phải 'giật' để kịp đánh        Không thể đạt effortless
 
-  \- Cơ thể luôn trong trạng thái vội Trông \'gồng\' dù kỹ thuật không tệ
+  \- Cơ thể luôn trong trạng thái vội Trông 'gồng' dù kỹ thuật không tệ
 
   \- Không có thời gian thả lỏng      Federer: chuẩn bị xong → chỉ swing
                                       qua
@@ -1368,7 +1368,7 @@ chạm bóng.
 
   \- Mất thăng bằng khi chạm bóng     Mọi kỹ thuật khác vô dụng
 
-  \- Mọi cú đánh đều phải \'cứu\'     Federer: footwork đưa anh đến đúng
+  \- Mọi cú đánh đều phải 'cứu'     Federer: footwork đưa anh đến đúng
                                       chỗ TRƯỚC
   ----------------------------------- -----------------------------------
 
@@ -1421,7 +1421,7 @@ phương pháp Federer:
 - Dừng khi gồng tay: Đây là nguyên tắc Federer training. Mỗi khi cảm
   thấy gồng tay → dừng → reset → bắt đầu lại chậm hơn.
 
-**9.2 Bai Tap 1: \'Rat Cham 70%\' (Sua Gong Tay + Timing)**
+**9.2 Bai Tap 1: 'Rat Cham 70%' (Sua Gong Tay + Timing)**
 
 Bài tập cơ bản nhất và quan trọng nhất. Federer training thường bắt đầu
 với điều này.
@@ -1433,19 +1433,19 @@ với điều này.
 
   Khong quan tam luc bong. Chi tap: tha long tay, swing moot, khong giat.
 
-  Quy tac vang: Neu thay \'gong tay\' → giam toc do ngay.
+  Quy tac vang: Neu thay 'gong tay' → giam toc do ngay.
 
-  Neu thay \'danh manh\' → dung lai, reset.
+  Neu thay 'danh manh' → dung lai, reset.
 
   Thoi gian: 15-20 phut dau moi buoi tap.
 
-  Muc tieu: Reset cam giac co the ve \'relaxed swing\'.
+  Muc tieu: Reset cam giac co the ve 'relaxed swing'.
 
-  Dau hieu dung: Bong nghe tieng \'pop\' sac, tay cam thay nhe sau moi cu
+  Dau hieu dung: Bong nghe tieng 'pop' sac, tay cam thay nhe sau moi cu
   danh.
   -----------------------------------------------------------------------
 
-**9.3 Bai Tap 2: \'Early Turn Drill\' (Sua Chuan Bi Muon)**
+**9.3 Bai Tap 2: 'Early Turn Drill' (Sua Chuan Bi Muon)**
 
   -----------------------------------------------------------------------
   **BAI TAP 2: EARLY TURN DRILL**
@@ -1455,19 +1455,19 @@ với điều này.
   Quy tac BONG TRANG: Xoay vai + dua vot ra sau NGAY KHI doi thu cham
   bong.
 
-  Cam giac dung: \'Minh da xong chuan bi truoc khi bong toi.\'
+  Cam giac dung: 'Minh da xong chuan bi truoc khi bong toi.'
 
   Sai neu: Van dang chinh vot khi bong da sang san.
 
   Thoi gian: 15 phut, lap lai cham rat cu.
 
-  Muc tieu: Bien \'early preparation\' thanh phan xa.
+  Muc tieu: Bien 'early preparation' thanh phan xa.
 
   Nang cao: Nham mat mot nua giay khi doi thu danh --- van phai xoay vai
   dung huong.
   -----------------------------------------------------------------------
 
-**9.4 Bai Tap 3: \'Contact Point Marker\' (Sua Dung Sai Vi Tri)**
+**9.4 Bai Tap 3: 'Contact Point Marker' (Sua Dung Sai Vi Tri)**
 
   -----------------------------------------------------------------------
   **BAI TAP 3: CONTACT POINT MARKER**
@@ -1483,18 +1483,18 @@ với điều này.
 
   Muc tieu: 80%+ cu danh dung marker trong 1 tuan.
 
-  Dau hieu dung: It phai \'voi tay\', cam giac \'don bong\' thay vi
-  \'duoi bong\'.
+  Dau hieu dung: It phai 'voi tay', cam giac 'don bong' thay vi
+  'duoi bong'.
   -----------------------------------------------------------------------
 
-**9.5 Bai Tap 4: \'Split Step + Move First\' (Sua Footwork)**
+**9.5 Bai Tap 4: 'Split Step + Move First' (Sua Footwork)**
 
   -----------------------------------------------------------------------
   **BAI TAP 4: SPLIT STEP PRIORITY DRILL**
 
   Moi khi doi thu cham bong: Nhan split step NGAY.
 
-  Sau do: Buoc chan dau tien phai \'nhe va nhanh\'.
+  Sau do: Buoc chan dau tien phai 'nhe va nhanh'.
 
   Uu tien: Vao vi tri TRUOC khi vung vot.
 
@@ -1507,7 +1507,7 @@ với điều này.
   xa.
   -----------------------------------------------------------------------
 
-**9.6 Bai Tap 5: \'No Arm Power Swing\' (Xoa Thoi Quen Dung Tay)**
+**9.6 Bai Tap 5: 'No Arm Power Swing' (Xoa Thoi Quen Dung Tay)**
 
   -----------------------------------------------------------------------
   **BAI TAP 5: NO ARM POWER SWING**
@@ -1518,11 +1518,11 @@ với điều này.
 
   2\. TAY THA LONG 100% --- khong ep luc.
 
-  3\. KHONG \'EP LUC\' vao bong --- de bong \'tu bay di\'.
+  3\. KHONG 'EP LUC' vao bong --- de bong 'tu bay di'.
 
-  Tuong tuong: Tay chi la \'day noi\', khong phai dong co.
+  Tuong tuong: Tay chi la 'day noi', khong phai dong co.
 
-  Dau hieu dung: Cam giac bong \'tu bay di\', khong can gong khi tang
+  Dau hieu dung: Cam giac bong 'tu bay di', khong can gong khi tang
   luc.
 
   Muc tieu: Tao lai whip effect tu nhien.
@@ -1578,7 +1578,7 @@ checklist --- danh sách những điểm kiểm tra nhanh sau mỗi cú đánh.
 
 Federer trong các buổi tập cũng liên tục tự kiểm tra. Anh không cần ai
 nói cho anh biết cú đánh vừa rồi sai gì --- anh cảm nhận được ngay và tự
-điều chỉnh. Đây là kỹ năng \'tự nhận thức\' mà người chơi giỏi phát
+điều chỉnh. Đây là kỹ năng 'tự nhận thức' mà người chơi giỏi phát
 triển qua thời gian.
 
 Bạn có thể học kỹ năng này bằng cách sử dụng checklist có cấu trúc, cho
@@ -1595,8 +1595,8 @@ Sau mỗi cú đánh, kiểm tra nhanh 5 điểm này trong vòng 1-2 giây:
   nhe troi = dung. Neu gong: giam 20% luc ngay cu sau.
 
   2\. MINH CO CHUAN BI SOM KHONG? (Thoi gian): Truoc khi bong toi: chua
-  xoay vai = qua muon / da xoay xong = dung. Neu muon: nghi \'xoay som
-  hon 1 nhip\'.
+  xoay vai = qua muon / da xoay xong = dung. Neu muon: nghi 'xoay som
+  hon 1 nhip'.
 
   3\. MINH CO DUNG DUNG VI TRI KHONG? (Vi tri): Khi cham bong: phai voi
   nguoi/nghieng nguoi = sai / dung can bang = dung. Neu sai: uu tien buoc
@@ -1625,7 +1625,7 @@ Mục tiêu: hết gồng + đúng contact + không sai cơ bản. Sau mỗi cú
 
 - Có phải với bóng không? (nếu phải với = đứng sai)
 
-- Cú đánh có \'trôi\' không?
+- Cú đánh có 'trôi' không?
 
 Fail 2/4 → quay lại đánh chậm 70%.
 
@@ -1637,11 +1637,11 @@ Mục tiêu: bắt đầu có cảm giác effortless thật sự.
 
 - Có split step trước khi đối thủ đánh không?
 
-- Swing có \'liền mạch\' không? (Không giật, không dừng giữa)
+- Swing có 'liền mạch' không? (Không giật, không dừng giữa)
 
 - Có di chuyển vào vị trí trước khi swing không?
 
-- Tay có \'đi theo bóng\' không? (Không đánh VÀO bóng mà QUÉT QUA bóng)
+- Tay có 'đi theo bóng' không? (Không đánh VÀO bóng mà QUÉT QUA bóng)
 
 Fail 2/5 → giảm tốc độ rally.
 
@@ -1655,7 +1655,7 @@ Mục tiêu: giữ sự mượt ngay cả khi đánh điểm thật.
 
 - Có chọn vị trí thay vì cố đánh mạnh không?
 
-- Cơ thể có \'mềm\' dưới áp lực không?
+- Cơ thể có 'mềm' dưới áp lực không?
 
 - Sau mỗi cú đánh có reset nhịp không?
 
@@ -1664,12 +1664,12 @@ Fail 2/5 → quay về Intermediate mindset cho 5 điểm.
 **10.4 Cach Dung He Thong Nay Hieu Qua Nhat**
 
 Trước buổi tập: Chọn 1 level duy nhất để focus. Trong lúc chơi: Chỉ
-check 1-2 điểm thôi, không check tất cả. Sau buổi chơi: Tự hỏi \'mình
-đang ở level nào ổn nhất?\'
+check 1-2 điểm thôi, không check tất cả. Sau buổi chơi: Tự hỏi 'mình
+đang ở level nào ổn nhất?'
 
   -----------------------------------------------------------------------
   QUAN TRONG: Chi sua 1 loi moi lan. Dung co sua tat ca cung luc. Vi du:
-  lan nay chi tap \'tha long tay\'. Lan sau chi tap \'dung dung vi tri\'.
+  lan nay chi tap 'tha long tay'. Lan sau chi tap 'dung dung vi tri'.
 
   -----------------------------------------------------------------------
 
@@ -1677,9 +1677,9 @@ check 1-2 điểm thôi, không check tất cả. Sau buổi chơi: Tự hỏi \
 
 Bạn đang đi đúng hướng nếu:
 
-- Ít phải \'cố đánh mạnh\' → bóng đi sâu hơn tự nhiên.
+- Ít phải 'cố đánh mạnh' → bóng đi sâu hơn tự nhiên.
 
-- Cảm giác như \'bóng tự rời vợt\'.
+- Cảm giác như 'bóng tự rời vợt'.
 
 - Ít mệt tay sau buổi tập dù chơi nhiều hơn.
 
@@ -1689,8 +1689,8 @@ Bạn đang đi đúng hướng nếu:
 
   -----------------------------------------------------------------------
   ***\"Chuan bi mot thay doi lon, khong phai nhieu thay doi nho. Sau moi
-    cu danh, chi can tu hoi mot cau: \'Tai -- Som -- Vi tri -- Truoc --
-                 Moot?\' Day la cham cua effortless.\"***
+    cu danh, chi can tu hoi mot cau: 'Tai -- Som -- Vi tri -- Truoc --
+                 Moot?' Day la cham cua effortless.\"***
 
   -----------------------------------------------------------------------
 
@@ -1705,9 +1705,9 @@ bạn đang nghĩ về footwork, preparation, thả lỏng tay, contact point, v
 follow-through cùng một lúc --- bạn sẽ bị overload. Kết quả: không có gì
 được thực hiện đúng.
 
-Mental cue là một hoặc vài từ ngắn gọn giúp não bộ \'nhớ\' và \'thực
-hiện\' nhiều kỹ năng cùng lúc mà không cần suy nghĩ chi tiết. Sau khi
-tập luyện đủ, từ \'SỚM\' sẽ tự động kích hoạt early preparation, xoay
+Mental cue là một hoặc vài từ ngắn gọn giúp não bộ 'nhớ' và 'thực
+hiện' nhiều kỹ năng cùng lúc mà không cần suy nghĩ chi tiết. Sau khi
+tập luyện đủ, từ 'SỚM' sẽ tự động kích hoạt early preparation, xoay
 vai, split step --- mà không cần nghĩ từng bước.
 
 **11.2 Core Mental Cue: SOM -- THA -- TROI**
@@ -1720,19 +1720,19 @@ vai, split step --- mà không cần nghĩ từng bước.
 **\"SOM\" --- Early**
 
 Nhắc nhở: Xoay vai sớm. Chuẩn bị vợt sớm. Đọc bóng sớm. Không chờ bóng
-tới mới phản ứng. Cảm giác đúng: \'Mình đã sẵn sàng từ trước khi bóng
-tới.\'
+tới mới phản ứng. Cảm giác đúng: 'Mình đã sẵn sàng từ trước khi bóng
+tới.'
 
 **\"THA\" --- Relax**
 
 Nhắc nhở: Không gồng tay. Không siết cổ tay. Không cố đánh mạnh. Cảm
-giác đúng: Tay nhẹ như đang \'treo vợt\'. Bóng \'tự bay đi\' chứ không
+giác đúng: Tay nhẹ như đang 'treo vợt'. Bóng 'tự bay đi' chứ không
 bị đánh.
 
 **\"TROI\" --- Flow**
 
 Nhắc nhở: Swing liền mạch. Follow-through tự nhiên. Không dừng cú đánh.
-Cảm giác đúng: Cú đánh \'chảy qua bóng\', không có điểm dừng.
+Cảm giác đúng: Cú đánh 'chảy qua bóng', không có điểm dừng.
 
 **11.3 Mental Cue Cho Forehand Va Backhand Rieng**
 
@@ -1748,7 +1748,7 @@ Cảm giác đúng: Cú đánh \'chảy qua bóng\', không có điểm dừng.
                                       nhịp
 
   QUAT: Không dùng tay đẩy bóng ---   CHAM: Chạm bóng phía trước cơ thể,
-  để vợt \'quất qua\' tự nhiên        mặt vợt ổn định
+  để vợt 'quất qua' tự nhiên        mặt vợt ổn định
 
   TROI: Kết thúc tự nhiên qua vai     KEO: Kéo dài tay về phía mục tiêu
                                       sau contact
@@ -1756,11 +1756,11 @@ Cảm giác đúng: Cú đánh \'chảy qua bóng\', không có điểm dừng.
 
 **11.4 Cach Dung Trong Rally That**
 
-Sau mỗi điểm, chỉ lặp lại trong đầu: \'SỚM -- THẢ -- TRÔI\'. Không phân
+Sau mỗi điểm, chỉ lặp lại trong đầu: 'SỚM -- THẢ -- TRÔI'. Không phân
 tích thêm. Không tự trách. Không nghĩ về điểm vừa rồi. Chỉ 3 từ đó.
 
 Khi match căng: Nếu cần nhanh hơn, dùng một từ cho mỗi cú đánh. Cú này:
-\'SỚM\'. Cú sau: \'THẢ\'. Cú tiếp: \'TRÔI\'. Luân phiên giúp não bộ
+'SỚM'. Cú sau: 'THẢ'. Cú tiếp: 'TRÔI'. Luân phiên giúp não bộ
 không bị lặp lại quá nhiều.
 
 **11.5 Elite Level Cue --- 1 Tu Cho Toan Tran**
@@ -1776,8 +1776,8 @@ Khi đã quen với 3 từ, rút xuống còn 1 từ duy nhất cho cả trận:
 **11.6 Chuong 11 Takeaway**
 
 Dấu hiệu bạn đang đúng nhịp với mental cue: Bóng đi sâu hơn mà không cố.
-Tay nhẹ hơn nhưng hiệu quả hơn. Cảm giác \'không cần sức mà bóng vẫn
-đi\'. Và rally bắt đầu có \'nhịp\' thay vì cứ bị giật cục.
+Tay nhẹ hơn nhưng hiệu quả hơn. Cảm giác 'không cần sức mà bóng vẫn
+đi'. Và rally bắt đầu có 'nhịp' thay vì cứ bị giật cục.
 
 **CHUONG 12: FEDERER RHYTHM SYSTEM --- 4 BUOC GIU FLOW TOAN TRAN**
 
@@ -1789,9 +1789,9 @@ Một trong những insight sâu sắc nhất về Federer: anh không chơi t�
 điểm riêng lẻ. Anh chơi theo nhịp của toàn trận đấu. Điểm là đơn vị nhỏ
 nhất. Nhịp mới là thứ Federer kiểm soát.
 
-Đây là lý do tại sao Federer không bao giờ \'sụp đổ\' sau một điểm tệ.
+Đây là lý do tại sao Federer không bao giờ 'sụp đổ' sau một điểm tệ.
 Sau khi thua một điểm, anh không để điểm đó ảnh hưởng đến điểm tiếp
-theo. Anh \'reset\' về nhịp của mình và tiếp tục.
+theo. Anh 'reset' về nhịp của mình và tiếp tục.
 
 **12.2 4 Buoc Between Points Routine**
 
@@ -1802,18 +1802,18 @@ hiện giữa mỗi điểm:
   **FEDERER RHYTHM SYSTEM: RESET -- BREATHE -- VISUALIZE -- MOVE**
 
   BUOC 1 --- RESET (2-3 giay): Quay lung khoi luoi nhe. KHONG phan tich
-  cu danh vua roi. Tha vai xuong. Cu nhan thuc: \'Diem do da ket thuc.\'
+  cu danh vua roi. Tha vai xuong. Cu nhan thuc: 'Diem do da ket thuc.'
 
   BUOC 2 --- BREATHE (1-2 nhip tho): Hit sau bang mui. Tho dai ra cham.
   Tha long vai + tay. Muc tieu: dua co the ve trang thai relaxed. Sai
   neu: tho ngan, gap (stress mode).
 
-  BUOC 3 --- VISUALIZE (1-2 giay): Nghi 1 y don gian: \'serve vao goc\'
-  hoac \'don bong som\'. KHONG nghi ky thuat. KHONG nghi chien thuat phuc
+  BUOC 3 --- VISUALIZE (1-2 giay): Nghi 1 y don gian: 'serve vao goc'
+  hoac 'don bong som'. KHONG nghi ky thuat. KHONG nghi chien thuat phuc
   tap. Chi 1 hinh anh ro rang.
 
   BUOC 4 --- MOVE (vao position san sang): Split step truoc khi
-  giao/danh. Vai tha long. San sang: \'SOM -- THA -- TROI\'. Sai neu:
+  giao/danh. Vai tha long. San sang: 'SOM -- THA -- TROI'. Sai neu:
   dung cho bi dong.
   -----------------------------------------------------------------------
 
@@ -1836,13 +1836,13 @@ Federer không chơi tennis bằng điểm số --- anh chơi bằng nhịp. Và
 
 - Không bị cảm xúc kéo theo sau điểm thua.
 
-- Bóng đi \'tự nhiên hơn bạn nghĩ\'.
+- Bóng đi 'tự nhiên hơn bạn nghĩ'.
 
 - Càng chơi càng ổn định, không giảm dần về cuối.
 
 **12.5 Nang Cap: RESET -- MOVE**
 
-Khi quen với 4 bước, rút xuống còn 2: \'RESET -- MOVE\'. Xóa điểm cũ →
+Khi quen với 4 bước, rút xuống còn 2: 'RESET -- MOVE'. Xóa điểm cũ →
 vào nhịp mới. Đơn giản, nhanh, hiệu quả.
 
 **12.6 Chuong 12 Takeaway**
@@ -1860,7 +1860,7 @@ vào nhịp mới. Đơn giản, nhanh, hiệu quả.
 **13.1 Federer Choi Moi Set Theo Muc Tieu Khac Nhau**
 
 Federer nổi tiếng với khả năng điều chỉnh chiến thuật theo từng set. Anh
-không chơi \'toàn lực\' từ đầu đến cuối. Anh có một kế hoạch: Set 1 là
+không chơi 'toàn lực' từ đầu đến cuối. Anh có một kế hoạch: Set 1 là
 thu thập thông tin, Set 2 là thiết lập áp lực, Set 3 là kết thúc gọn
 gàng.
 
@@ -1874,15 +1874,15 @@ nào cần push, khi nào cần quan sát.
 
   Muc tieu: Khong voi thang. Doc doi thu. Tim pattern.
 
-  Tu duy: \'Doi thu danh the nao khi bi ep?\' / \'Ho yeu ben nao?\' /
-  \'Nhip cua ho nhanh hay cham?\'
+  Tu duy: 'Doi thu danh the nao khi bi ep?' / 'Ho yeu ben nao?' /
+  'Nhip cua ho nhanh hay cham?'
 
   Chien thuat: Rally an toan 70%. Test 2-3 huong: deep cross / short
   angle / change pace.
 
   Khong mao hiem som. Khong winner voi.
 
-  Sai lam can tranh: Co winner som. Danh qua manh de \'ap dao\'.
+  Sai lam can tranh: Co winner som. Danh qua manh de 'ap dao'.
 
   Note: Federer thuong khong bung no o Set 1 --- anh thu thap du lieu.
   -----------------------------------------------------------------------
@@ -1892,9 +1892,9 @@ nào cần push, khi nào cần quan sát.
   -----------------------------------------------------------------------
   **SET 2: CONTROL AND PRESSURE**
 
-  Muc tieu: Bat dau \'dieu khien tran dau\'. Ep doi thu chay nhieu hon.
+  Muc tieu: Bat dau 'dieu khien tran dau'. Ep doi thu chay nhieu hon.
 
-  Tu duy: \'Toi chon huong bong.\' \'Toi kiem soat nhip rally.\'
+  Tu duy: 'Toi chon huong bong.' 'Toi kiem soat nhip rally.'
 
   Chien thuat: Serve +1 (giao bong + cu thu 2 chu dong). Danh vao diem
   yeu da thay o Set 1. Tang toc o thoi diem chon loc (khong lien tuc).
@@ -1912,8 +1912,8 @@ nào cần push, khi nào cần quan sát.
 
   Muc tieu: Don gian hoa moi thu. Giam loi xuong toi thieu.
 
-  Tu duy: \'Khong can hay hon --- chi can chac hon.\' \'1 diem = 1 nhiem
-  vu.\'
+  Tu duy: 'Khong can hay hon --- chi can chac hon.' '1 diem = 1 nhiem
+  vu.'
 
   Chien thuat: Danh vao vung an toan lon hon. Tranh risk khong can thiet.
   Dung serve de giu nhip. Keo doi thu vao rally dai khi can.
@@ -1925,13 +1925,13 @@ nào cần push, khi nào cần quan sát.
 
 **13.5 3 Nguyen Tac Xuyen Suot Toan Tran**
 
-22. \'Khong phan ung --- chi dieu chinh\': Không bị điểm số kéo cảm xúc.
+22. 'Khong phan ung --- chi dieu chinh': Không bị điểm số kéo cảm xúc.
     Chỉ chỉnh nhịp.
 
-23. \'Giu flow, khong giu luc\': Càng căng → càng mất hiệu quả. Càng thả
+23. 'Giu flow, khong giu luc': Càng căng → càng mất hiệu quả. Càng thả
     lỏng → càng chính xác.
 
-24. \'Moi set la mot nhiem vu khac nhau\': Set 1: hiểu. Set 2: áp đặt.
+24. 'Moi set la mot nhiem vu khac nhau': Set 1: hiểu. Set 2: áp đặt.
     Set 3: kết thúc.
 
 **13.6 Federer Style Mindset Gon Lai 1 Cau**
@@ -1950,7 +1950,7 @@ nào cần push, khi nào cần quan sát.
 
 - Ít lỗi hơn khi áp lực tăng.
 
-- Cảm giác \'trận đấu đang nằm trong tay mình\'.
+- Cảm giác 'trận đấu đang nằm trong tay mình'.
 
 **CHUONG 14: FULL MATCH PLAYBOOK --- SERVE, RETURN VA RALLY PATTERNS**
 
@@ -2037,12 +2037,12 @@ Mỗi điểm có cấu trúc: Serve Wide/T/Body → +1 có kế hoạch → Ret
 Cross → Reset rally → Cross → Control → Change direction → Finish.
 
 Dấu hiệu bạn đang chơi đúng playbook: Ít bị bất ngờ trong rally. Đối thủ
-tự đánh lỗi nhiều hơn. Bạn không cần winner sớm. Cảm giác trận đấu \'có
-cấu trúc\'.
+tự đánh lỗi nhiều hơn. Bạn không cần winner sớm. Cảm giác trận đấu 'có
+cấu trúc'.
 
 **CHUONG 15: DECISION TREE --- RA QUYET DINH TRONG 1 GIAY**
 
-*Chuyen Tu \'Nghi Cu Danh\' Sang \'Doc Tinh Huong\'*
+*Chuyen Tu 'Nghi Cu Danh' Sang 'Doc Tinh Huong'*
 
 **15.1 Federer Pattern Decision Tree**
 
@@ -2127,7 +2127,7 @@ Phân loại ngay khi nhìn bóng:
 
 - Đối thủ bắt đầu bị kéo theo nhịp bạn.
 
-- Cảm giác trận đấu \'chậm lại trong đầu bạn\'.
+- Cảm giác trận đấu 'chậm lại trong đầu bạn'.
 
 **CHUONG 16: PRESSURE SYSTEM --- BREAK POINT, TIE-BREAK VA MATCH POINT**
 
@@ -2159,7 +2159,7 @@ vào execution.
   Chi 2 che do: Default → deep cross reset. Doc serve yeu → attack FH/BH
   yeu.
 
-  Rule: \'Return an toan = giu mang song diem.\'
+  Rule: 'Return an toan = giu mang song diem.'
   -----------------------------------------------------------------------
 
 **16.3 Tie-Break System: Quy Tac 3-3-3**
@@ -2200,7 +2200,7 @@ vị trí rõ ràng.
 
 25. Áp lực cao = giảm risk.
 
-26. Không có \'shot đẹp\' trong điểm quan trọng.
+26. Không có 'shot đẹp' trong điểm quan trọng.
 
 27. Decision phải xảy ra trước khi bóng tới.
 
@@ -2243,28 +2243,28 @@ có thời gian phản ứng đủ --- dù biết hướng, họ vẫn không đ
 **17.3 Federer Disguise Pattern Phuc Tap Nhat**
 
 Federer kết hợp disguise với pattern seeding: Lặp lại một pattern 3-5
-lần (cross court) → đối thủ bắt đầu \'tin\' pattern đó và bắt đầu di
+lần (cross court) → đối thủ bắt đầu 'tin' pattern đó và bắt đầu di
 chuyển trước → lần thứ 4-5: đổi sang DTL với cùng preparation → đối thủ
 đã đi trước sai hướng.
 
-Đây là cách Federer tạo ra những winner trông \'dễ dàng\' dù thực ra là
+Đây là cách Federer tạo ra những winner trông 'dễ dàng' dù thực ra là
 kết quả của nhiều điểm setup.
 
 **17.4 Chuong 17 Takeaway**
 
   -----------------------------------------------------------------------
   ***\"Dung cho doi thu thay ban chon cu danh. Giu nhieu kha nang mo den
-    0.2 giay cuoi. Day la bi mat cua nguoi bi goi la \'kho doan\'.\"***
+    0.2 giay cuoi. Day la bi mat cua nguoi bi goi la 'kho doan'.\"***
 
   -----------------------------------------------------------------------
 
 **CHUONG 18: KE HOACH TAP LUYEN 14 NGAY TU DONG HOA TOAN BO HE THONG**
 
-*Tu \'Nghi Cu Danh\' Sang \'Co The Tu Chon Cu Danh\'*
+*Tu 'Nghi Cu Danh' Sang 'Co The Tu Chon Cu Danh'*
 
 **18.1 Muc Tieu Cua 14 Ngay**
 
-> *\"Từ \'nghĩ cú đánh\' → sang \'cơ thể tự chọn cú đánh\'\"*
+> *\"Từ 'nghĩ cú đánh' → sang 'cơ thể tự chọn cú đánh'\"*
 
 14 ngày không phải để học tất cả. 14 ngày là để lập trình toàn bộ
 Serve + Return + Rally automation (Initiate → Control → Finish) vào phản
@@ -2297,11 +2297,11 @@ xạ cơ thể.
   1\. Slow Rally (70%): Chi cross court. Khong winner. Focus: cam giac
   moot.
 
-  2\. Shadow Swing: FH/BH cham. Tap \'troi qua bong\'.
+  2\. Shadow Swing: FH/BH cham. Tap 'troi qua bong'.
 
   3\. Split Step Timing: Nhay dung luc doi thu cham bong.
 
-  CUE DUY NHAT: \'THA -- TROI\'
+  CUE DUY NHAT: 'THA -- TROI'
   -----------------------------------------------------------------------
 
 **18.4 Phase 2: Decision Automation (Ngay 5-8)**
@@ -2318,7 +2318,7 @@ xạ cơ thể.
   3\. 1-Second Rule Drill: Khong duoc dung suy nghi. Quyet dinh trong 1
   giay.
 
-  CUE: \'CHON TRUOC -- THUC HIEN SAU\'
+  CUE: 'CHON TRUOC -- THUC HIEN SAU'
   -----------------------------------------------------------------------
 
 **18.5 Phase 3: Rally Automation (Ngay 9-12)**
@@ -2332,7 +2332,7 @@ xạ cơ thể.
 
   3\. Reset Drill: Khi bi ep → slice / deep cross.
 
-  CUE: \'GIU -- DOI -- RESET\'
+  CUE: 'GIU -- DOI -- RESET'
   -----------------------------------------------------------------------
 
 **18.6 Phase 4: Match Simulation (Ngay 13-14)**
@@ -2347,7 +2347,7 @@ xạ cơ thể.
 
   3\. No Thinking Rule: Khong duoc doi y trong rally.
 
-  CUE: \'DOC -- CHAY -- THUC HIEN\'
+  CUE: 'DOC -- CHAY -- THUC HIEN'
   -----------------------------------------------------------------------
 
 **18.7 Final Mindset Shift**
@@ -2358,9 +2358,9 @@ xạ cơ thể.
 
   -----------------------------------------------------------------------
 
-Dấu hiệu bạn đã \'automated\': Không còn do dự khi bóng tới. Serve xong
+Dấu hiệu bạn đã 'automated': Không còn do dự khi bóng tới. Serve xong
 tự di chuyển đúng chỗ. Return không còn bị động. Rally tự có cấu trúc.
-Đối thủ cảm thấy bạn \'luôn đi trước 1 nhịp\'.
+Đối thủ cảm thấy bạn 'luôn đi trước 1 nhịp'.
 
 **CHUONG 19: GOD MODE VA QUANTUM MODE --- DOC TRUOC HANH VI DOI THU**
 
@@ -2371,7 +2371,7 @@ tự di chuyển đúng chỗ. Return không còn bị động. Rally tự có c
 > *\"Người chơi thường phản ứng với bóng. God Mode đọc trước hành vi của
 > đối thủ\"*
 
-Ở God Mode, bạn không nhìn bóng --- bạn nhìn \'thói quen\' của đối thủ.
+Ở God Mode, bạn không nhìn bóng --- bạn nhìn 'thói quen' của đối thủ.
 Bạn không phản ứng với cú đánh hiện tại --- bạn đọc cú đánh tiếp theo.
 
 **3 Du Lieu Chinh De Doc Doi Thu**
@@ -2402,7 +2402,7 @@ READ OPPONENT (patterns) → PREDICT NEXT 1-2 SHOTS → POSITION EARLY
 **Pattern Seeding Engine (Gieo Thoi Quen)**
 
 Tạo 2-3 pattern cố định (cross 70%, inside-out 20%, change 10%). Sau 5-7
-điểm: đối thủ bắt đầu \'tin\' pattern → tự di chuyển trước khi bạn đánh.
+điểm: đối thủ bắt đầu 'tin' pattern → tự di chuyển trước khi bạn đánh.
 Sau đó: phá pattern ở thời điểm quan trọng → đối thủ đã đi sai hướng.
 
 **Trap Switch Engine (Bay Nhip)**
@@ -2412,7 +2412,7 @@ Sau đó: phá pattern ở thời điểm quan trọng → đối thủ đã đi
 
 - STEP 2 --- Break Pattern: Đổi hướng 0.2s cuối hoặc tăng tốc bất ngờ.
 
-- Hiệu ứng: Đối thủ \'đi trước bóng\' nhưng sai hướng.
+- Hiệu ứng: Đối thủ 'đi trước bóng' nhưng sai hướng.
 
 **5 Rules God Mode**
 
@@ -2445,7 +2445,7 @@ cả hệ thống (decision tree, pattern, cue, framework) đã được lập t
 vào phản xạ đến mức bạn không còn cần chúng có ý thức nữa. Chúng chỉ\...
 xảy ra.
 
-Đây không phải \'quên\' những gì đã học. Đây là \'internalized\' hoàn
+Đây không phải 'quên' những gì đã học. Đây là 'internalized' hoàn
 toàn --- giống như bạn không cần nghĩ đến cách đi xe đạp khi đang đi.
 Bạn chỉ đi.
 
@@ -2459,13 +2459,13 @@ Bạn chỉ đi.
                           --- chỉ thấy            định → đánh
 
   Action                  Hành động không có      Chọn cú đánh → thực
-                          \'chọn lựa\' có ý thức  hiện
+                          'chọn lựa' có ý thức  hiện
 
   Time                    Thời gian tan biến ---  Trước đánh / đang đánh
                           chỉ còn hiện tại        / sau đánh
 
-  Identity                Không còn \'tôi đang    Liên tục đánh giá bản
-                          chơi tốt hay không\'    thân
+  Identity                Không còn 'tôi đang    Liên tục đánh giá bản
+                          chơi tốt hay không'    thân
 
   Response                STIMULUS → RESPONSE →   Phân tích → quyết định
                           RESET → REPEAT          → thực hiện
@@ -2487,11 +2487,11 @@ Bạn chỉ đi.
 
 - Bạn không nhớ mình vừa chọn cú gì.
 
-- Bạn không cảm thấy \'căng\'.
+- Bạn không cảm thấy 'căng'.
 
 - Bạn không phân tích khi thi đấu.
 
-- Mọi thứ xảy ra \'tự nhiên\'.
+- Mọi thứ xảy ra 'tự nhiên'.
 
 - Bạn thấy thời gian như chậm lại.
 
@@ -2509,7 +2509,7 @@ Bạn chỉ đi.
 > thống cao nhất là khi bạn không cần hệ thống nữa.\"*
 
   -----------------------------------------------------------------------
-  ***\"Nguoi choi gioi nhat khong con \'choi theo he thong\'. Ho chi con
+  ***\"Nguoi choi gioi nhat khong con 'choi theo he thong'. Ho chi con
           phan ung dung --- ngay lap tuc --- trong hien tai.\"***
 
   -----------------------------------------------------------------------
@@ -2577,17 +2577,17 @@ rally.
 
   5\. LIVE DEBUG:
 
-  loi = \'signal\', khong phai van de
+  loi = 'signal', khong phai van de
 
   sua bang cu tiep theo. 1 loi = 1 micro-adjustment
 
   6\. ZERO MODE: Khong phan tich. Khong gan nhan.
 
-  Khong nghi truoc cu danh. Chi \'phan ung\'.
+  Khong nghi truoc cu danh. Chi 'phan ung'.
 
-  ONE-LINE REMINDER: \'SEE → STATE → FLOW → RESET\'
+  ONE-LINE REMINDER: 'SEE → STATE → FLOW → RESET'
 
-  WHEN TENSE → ONE WORD: \'NHE\'
+  WHEN TENSE → ONE WORD: 'NHE'
   -----------------------------------------------------------------------
 
 **PHU LUC B: LO TRINH 60 NGAY TU LEVEL 3.0 LEN 4.0**
@@ -2635,7 +2635,7 @@ từ 3.0 lên 4.0 trong 60 ngày tập luyện có cấu trúc:
 
 - Cuoi moi tuan: 15 phut review --- di dung huong o dau, con sai o dau?
 
-- Khong nhay chuong. Moi ky nang can thoi gian de \'settle\' truoc khi
+- Khong nhay chuong. Moi ky nang can thoi gian de 'settle' truoc khi
   them ky nang moi.
 
   -----------------------------------------------------------------------
@@ -2646,6 +2646,6 @@ từ 3.0 lên 4.0 trong 60 ngày tập luyện có cấu trúc:
 
 **--- KET THUC CAM NANG ---**
 
-*\"Nguoi choi gioi nhat khong con \'choi theo he thong\'.*
+*\"Nguoi choi gioi nhat khong con 'choi theo he thong'.*
 
 *Ho chi con phan ung dung --- ngay lap tuc --- trong hien tai.\"*

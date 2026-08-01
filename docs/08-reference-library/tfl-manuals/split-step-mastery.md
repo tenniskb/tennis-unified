@@ -10,12 +10,12 @@ Phương Pháp Huấn Luyện Bước Chân Hoàn Hảo
 
 Dành Cho Tennis Player Level 3.5 và Trên 3.5
 
-+:-----------------------------------------------:+
-| **10 CHƯƠNG · 50+ DRILLS · 30+ CUE BOXES**      |
-|                                                 |
-| Phân tích: Federer · Djokovic · Sinner ·        |
-| Alcaraz                                         |
-+-------------------------------------------------+
+| **10 CHƯƠNG · 50+ DRILLS · 30+ CUE BOXES** |
+| --- |
+|  |
+| Phân tích: Federer · Djokovic · Sinner · |
+| Alcaraz |
+
 
 **CHƯƠNG 01**
 
@@ -25,8 +25,8 @@ Vật Lý Học Của Bước Chân Đầu Tiên
 
 **1.1 Định Nghĩa --- Đừng Nhầm Đây Là Một Cú Nhảy**
 
-Hầu hết người chơi tennis cấp 3.5 khi được hỏi \'split step là gì\' đều
-trả lời: \'nhảy lên trước khi di chuyển.\' Định nghĩa này đúng về mặt
+Hầu hết người chơi tennis cấp 3.5 khi được hỏi 'split step là gì' đều
+trả lời: 'nhảy lên trước khi di chuyển.' Định nghĩa này đúng về mặt
 hình thức nhưng nguy hiểm về thực hành --- bởi vì nếu bạn cố NHẢY, bạn
 sẽ làm sai.
 
@@ -66,13 +66,13 @@ trong tư thế thấp --- sẵn sàng đẩy theo bất kỳ hướng nào.
 > thêm 0.15--0.20 giây. Split step phá vỡ quán tính ngay tại thời điểm
 > đối thủ đánh bóng.
 
-+----------------------------------------------------------------+
-| \"The split step isn\'t about jumping --- it\'s about          |
-| preventing stillness. You\'re not going up, you\'re going      |
-| ready.\"                                                       |
-|                                                                |
-| **--- Brad Gilbert, ATP Coach**                                |
-+----------------------------------------------------------------+
+| \"The split step isn't about jumping --- it's about |
+| --- |
+| preventing stillness. You're not going up, you're going |
+| ready.\" |
+|  |
+| **--- Brad Gilbert, ATP Coach** |
+
 
 **1.3 Tại Sao Level 3.5 Đặc Biệt Cần Split Step?**
 
@@ -135,24 +135,19 @@ Trả lời 5 câu hỏi sau để biết xuất phát điểm:
   0/5 → Bắt đầu từ đầu --- đây là cơ hội tốt nhất bạn có
   ----------------------------------------------------------------
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- CHƯƠNG 1**                                                                     |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Đừng nhảy --- HẠ XUỐNG.\' Split step là hạ trọng tâm,    |
-|                                 | không phải nâng người lên.                                 |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Lò xo, không phải đá.\' Cơ thể sau split phải như lò xo  |
-|                                 | nén --- không phải đá cứng.                                |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Hai mũi chân trước --- không bao giờ gót.\' Gót chạm đất |
-|                                 | trước = sai ngay từ đầu.                                   |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'2cm là đủ.\' Chân rời sàn 2cm là tối ưu. Nhảy cao hơn là |
-|                                 | lãng phí thời gian.                                        |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Tôi đang chuyển động, không đứng chờ.\' Thay đổi tư duy  |
-|                                 | từ chờ đợi sang sẵn sàng liên tục.                         |
-+---------------------------------+------------------------------------------------------------+
+| **CUE BOX --- CHƯƠNG 1** |  |
+| --- | --- |
+| **1** | 'Đừng nhảy --- HẠ XUỐNG.' Split step là hạ trọng tâm, |
+|  | không phải nâng người lên. |
+| **2** | 'Lò xo, không phải đá.' Cơ thể sau split phải như lò xo |
+|  | nén --- không phải đá cứng. |
+| **3** | 'Hai mũi chân trước --- không bao giờ gót.' Gót chạm đất |
+|  | trước = sai ngay từ đầu. |
+| **4** | '2cm là đủ.' Chân rời sàn 2cm là tối ưu. Nhảy cao hơn là |
+|  | lãng phí thời gian. |
+| **5** | 'Tôi đang chuyển động, không đứng chờ.' Thay đổi tư duy |
+|  | từ chờ đợi sang sẵn sàng liên tục. |
+
 
 **CHƯƠNG 02**
 
@@ -243,61 +238,53 @@ vợt đối thủ --- cụ thể là forward swing (vung vợt về phía trư�
 > thủ chuẩn bị trả. Hầu hết người 3.5 đánh xong rồi đứng nhìn --- sai
 > lầm cực tốn kém.
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Split Theo Tiếng Bóng**                               |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Não bộ bị điều kiện hóa từ nhỏ để phản ứng    |
-| với âm thanh --- \'nghe tiếng mới nhảy\' là phản xạ tự nhiên   |
-| nhưng sai trong tennis.                                        |
-|                                                                |
+| **⚠ LỖI: Split Theo Tiếng Bóng** |
+| --- |
+| **Nguyên nhân:** Não bộ bị điều kiện hóa từ nhỏ để phản ứng |
+| với âm thanh --- 'nghe tiếng mới nhảy' là phản xạ tự nhiên |
+| nhưng sai trong tennis. |
+|  |
 | **Cách sửa:** Tập Partner Trigger (không có bóng thật) để buộc |
-| não đọc tín hiệu vợt. Bịt tai nút bông khi tập shadow để loại  |
-| bỏ tín hiệu âm thanh.                                          |
-+----------------------------------------------------------------+
+| não đọc tín hiệu vợt. Bịt tai nút bông khi tập shadow để loại |
+| bỏ tín hiệu âm thanh. |
 
-+----------------------------------------------------------------+
-| **DRILL: Shadow Counting** \| Tất cả 3.5+ \| 5 phút/ngày \| 3  |
-| sets x 20 reps                                                 |
-+----------------------------------------------------------------+
-| **Mô tả:** Đứng trước gương, đếm thành tiếng: \'1-nhún,        |
-| 2-tiếp, 3-đẩy\'. Nhún ở nhịp 1, chân chạm đất nhịp 2, tưởng    |
-| tượng bước đầu tiên nhịp 3. Tốc độ đếm tương đương tempo bóng  |
-| 50 mph.                                                        |
-|                                                                |
-| **Focus:** Đồng bộ hóa hệ thống đếm với nhịp sinh học. Mục     |
-| tiêu: không cần đếm nữa sau 1 tuần.                            |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **DRILL: Partner Trigger** \| 3.5+ (cần partner) \| 10 phút \| |
-| 50 lần/buổi                                                    |
-+----------------------------------------------------------------+
-| **Mô tả:** Đối tác vung vợt (không cần đánh bóng thật). Bạn    |
-| split theo nhịp forward swing. Đối tác thỉnh thoảng fake ---   |
-| bạn vẫn split theo vung vợt.                                   |
-|                                                                |
-| **Focus:** Học đọc tín hiệu vợt thay vì phản ứng với bóng. Cải |
-| thiện thấy được trong 3--5 buổi.                               |
-+----------------------------------------------------------------+
+| **DRILL: Shadow Counting** \ | Tất cả 3.5+ \ | 5 phút/ngày \ | 3 |
+| --- | --- | --- | --- |
+| sets x 20 reps |  |  |  |
+| **Mô tả:** Đứng trước gương, đếm thành tiếng: '1-nhún, |  |  |  |
+| 2-tiếp, 3-đẩy'. Nhún ở nhịp 1, chân chạm đất nhịp 2, tưởng |  |  |  |
+| tượng bước đầu tiên nhịp 3. Tốc độ đếm tương đương tempo bóng |  |  |  |
+| 50 mph. |  |  |  |
+|  |  |  |  |
+| **Focus:** Đồng bộ hóa hệ thống đếm với nhịp sinh học. Mục |  |  |  |
+| tiêu: không cần đếm nữa sau 1 tuần. |  |  |  |
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- TIMING**                                                                       |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Vợt tăng tốc --- ta nhún.\' Ngay khi thấy vợt đối thủ    |
-|                                 | swing xuống-về-trước, bắt đầu unweight.                    |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Tiếng bóng = chân chạm đất.\' Luyện để tiếng vợt chạm    |
-|                                 | bóng trùng với giây tiếp đất của bạn.                      |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Đừng nhìn bóng --- nhìn người.\' Mắt không theo bóng khi |
-|                                 | split, nhìn vào thân trên và vợt đối thủ.                  |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Không có bóng --- vẫn split.\' Nếu đối thủ fake shot,    |
-|                                 | bạn vẫn split theo nhịp vung vợt.                          |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Sớm hơn bạn nghĩ.\' Nếu bạn nghĩ mình đang split đúng    |
-|                                 | lúc, thực ra bạn đang muộn. Luôn sớm hơn 0.05 giây.        |
-+---------------------------------+------------------------------------------------------------+
+
+| **DRILL: Partner Trigger** \ | 3.5+ (cần partner) \ | 10 phút \ |  |
+| --- | --- | --- | --- |
+| 50 lần/buổi |  |  |  |
+| **Mô tả:** Đối tác vung vợt (không cần đánh bóng thật). Bạn |  |  |  |
+| split theo nhịp forward swing. Đối tác thỉnh thoảng fake --- |  |  |  |
+| bạn vẫn split theo vung vợt. |  |  |  |
+|  |  |  |  |
+| **Focus:** Học đọc tín hiệu vợt thay vì phản ứng với bóng. Cải |  |  |  |
+| thiện thấy được trong 3--5 buổi. |  |  |  |
+
+
+| **CUE BOX --- TIMING** |  |
+| --- | --- |
+| **1** | 'Vợt tăng tốc --- ta nhún.' Ngay khi thấy vợt đối thủ |
+|  | swing xuống-về-trước, bắt đầu unweight. |
+| **2** | 'Tiếng bóng = chân chạm đất.' Luyện để tiếng vợt chạm |
+|  | bóng trùng với giây tiếp đất của bạn. |
+| **3** | 'Đừng nhìn bóng --- nhìn người.' Mắt không theo bóng khi |
+|  | split, nhìn vào thân trên và vợt đối thủ. |
+| **4** | 'Không có bóng --- vẫn split.' Nếu đối thủ fake shot, |
+|  | bạn vẫn split theo nhịp vung vợt. |
+| **5** | 'Sớm hơn bạn nghĩ.' Nếu bạn nghĩ mình đang split đúng |
+|  | lúc, thực ra bạn đang muộn. Luôn sớm hơn 0.05 giây. |
+
 
 **CHƯƠNG 03**
 
@@ -372,81 +359,71 @@ trong ba, bạn sẽ không đạt bước đầu tiên tối ưu dù timing có
 **Vai: Active Relaxation**
 
 > Vai căng làm chậm rotation thân trên khi chuẩn bị đánh. Tưởng tượng
-> vai \'nặng xuống\' --- không nhấc, không co. Đây là trạng thái thả
+> vai 'nặng xuống' --- không nhấc, không co. Đây là trạng thái thả
 > lỏng chủ động.
 
 **Mắt: Nhìn Vào Người, Không Nhìn Bóng**
 
 > Trong lúc split, mắt nhìn vào thân trên và vợt của đối thủ --- không
-> theo bóng. Bạn cần đọc \'hướng vợt\' và \'xoay thân\' của đối thủ để
+> theo bóng. Bạn cần đọc 'hướng vợt' và 'xoay thân' của đối thủ để
 > dự đoán.
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Nhảy Quá Cao (\>10cm)**                               |
-+----------------------------------------------------------------+
+| **⚠ LỖI: Nhảy Quá Cao (\>10cm)** |
+| --- |
 | **Nguyên nhân:** Tư duy sai: nhảy cao = chuẩn bị tốt hơn. Thực |
-| tế: nhảy cao nghĩa là ở trên không lâu hơn = mất 0.2 giây.     |
-|                                                                |
-| **Cách sửa:** Đặt hai ngón tay duỗi dưới gót khi tập. Nhiệm    |
-| vụ: không chạm ngón tay. Điều này buộc biên độ nhún đúng.      |
-+----------------------------------------------------------------+
+| tế: nhảy cao nghĩa là ở trên không lâu hơn = mất 0.2 giây. |
+|  |
+| **Cách sửa:** Đặt hai ngón tay duỗi dưới gót khi tập. Nhiệm |
+| vụ: không chạm ngón tay. Điều này buộc biên độ nhún đúng. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Tiếp Đất Bằng Gót**                                   |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Thói quen đi bộ hàng ngày khiến não mặc định  |
+
+| **⚠ LỖI: Tiếp Đất Bằng Gót** |
+| --- |
+| **Nguyên nhân:** Thói quen đi bộ hàng ngày khiến não mặc định |
 | tiếp đất gót-trước. Trong tennis, điều này phá hủy phản xạ đàn |
-| hồi.                                                           |
-|                                                                |
-| **Cách sửa:** Tập \'rope jump stance\' --- nhảy dây tại chỗ    |
+| hồi. |
+|  |
+| **Cách sửa:** Tập 'rope jump stance' --- nhảy dây tại chỗ |
 | nhẹ nhàng 1 phút trước khi tập split. Não sẽ nhớ cảm giác tiếp |
-| đất mũi chân.                                                  |
-+----------------------------------------------------------------+
+| đất mũi chân. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Chân Hẹp Sau Tiếp Đất**                               |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Unweight đúng nhưng chân không mở rộng khi    |
-| rơi xuống --- tiếp đất với chân gần nhau như khi đứng bình     |
-| thường.                                                        |
-|                                                                |
-| **Cách sửa:** Vẽ hai dấu X bằng phấn trên sân, cách nhau bằng  |
-| vai + 10cm. Luyện tiếp đất chính xác lên hai dấu X đó.         |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **DRILL: Perfect Landing Mirror Drill** \| 3.5+ \| 8 phút \| 5 |
-| sets x 10 reps                                                 |
-+----------------------------------------------------------------+
-| **Mô tả:** Đứng trước gương. Nhún nhẹ, tiếp đất, DỪNG 3 giây.  |
-| Kiểm tra 8 điểm checklist. Chỉ đánh giá tư thế tiếp đất, không |
-| quan tâm bước tiếp theo.                                       |
-|                                                                |
-| **Focus:** Tạo hình ảnh cơ học đúng trong não bộ. Sau 5 buổi,  |
-| cảm nhận được khi nào tư thế đúng mà không cần gương.          |
-+----------------------------------------------------------------+
+| **⚠ LỖI: Chân Hẹp Sau Tiếp Đất** |
+| --- |
+| **Nguyên nhân:** Unweight đúng nhưng chân không mở rộng khi |
+| rơi xuống --- tiếp đất với chân gần nhau như khi đứng bình |
+| thường. |
+|  |
+| **Cách sửa:** Vẽ hai dấu X bằng phấn trên sân, cách nhau bằng |
+| vai + 10cm. Luyện tiếp đất chính xác lên hai dấu X đó. |
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- CƠ HỌC**                                                                       |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Ngồi 20% xuống ghế.\' Không ngồi hẳn, không đứng thẳng   |
-|                                 | --- chỉ 20% xuống. Đây là độ gập gối đúng.                 |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Vai như đeo tai nghe nặng.\' Kéo vai xuống, không nhấc   |
-|                                 | lên. Thả lỏng chủ động.                                    |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Ức bàn chân như nam châm dính sàn.\' Cảm giác phần trước |
-|                                 | bàn chân bám vào sàn ngay khi tiếp đất.                    |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Vợt trước ngực, hai tay.\' Nếu một tay đã buông khi      |
-|                                 | split, bạn đang kết luận hướng quá sớm.                    |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Đầu bất động.\' Nếu đầu nhấp nhô quá 5cm khi split, bạn  |
-|                                 | đang nhảy quá cao.\',                                      |
-+---------------------------------+------------------------------------------------------------+
-| **6**                           | \'Gót không chạm sàn trước.\' Kiểm tra bằng video          |
-|                                 | slow-motion mỗi tuần.                                      |
-+---------------------------------+------------------------------------------------------------+
+
+| **DRILL: Perfect Landing Mirror Drill** \ | 3.5+ \ | 8 phút \ | 5 |
+| --- | --- | --- | --- |
+| sets x 10 reps |  |  |  |
+| **Mô tả:** Đứng trước gương. Nhún nhẹ, tiếp đất, DỪNG 3 giây. |  |  |  |
+| Kiểm tra 8 điểm checklist. Chỉ đánh giá tư thế tiếp đất, không |  |  |  |
+| quan tâm bước tiếp theo. |  |  |  |
+|  |  |  |  |
+| **Focus:** Tạo hình ảnh cơ học đúng trong não bộ. Sau 5 buổi, |  |  |  |
+| cảm nhận được khi nào tư thế đúng mà không cần gương. |  |  |  |
+
+
+| **CUE BOX --- CƠ HỌC** |  |
+| --- | --- |
+| **1** | 'Ngồi 20% xuống ghế.' Không ngồi hẳn, không đứng thẳng |
+|  | --- chỉ 20% xuống. Đây là độ gập gối đúng. |
+| **2** | 'Vai như đeo tai nghe nặng.' Kéo vai xuống, không nhấc |
+|  | lên. Thả lỏng chủ động. |
+| **3** | 'Ức bàn chân như nam châm dính sàn.' Cảm giác phần trước |
+|  | bàn chân bám vào sàn ngay khi tiếp đất. |
+| **4** | 'Vợt trước ngực, hai tay.' Nếu một tay đã buông khi |
+|  | split, bạn đang kết luận hướng quá sớm. |
+| **5** | 'Đầu bất động.' Nếu đầu nhấp nhô quá 5cm khi split, bạn |
+|  | đang nhảy quá cao.', |
+| **6** | 'Gót không chạm sàn trước.' Kiểm tra bằng video |
+|  | slow-motion mỗi tuần. |
+
 
 **CHƯƠNG 04**
 
@@ -461,13 +438,13 @@ thủ. Người chơi có timing tốt không phải vì phản xạ nhanh hơn,
 đọc tín hiệu SỚM HƠN. Nghiên cứu về chuyên gia tennis cho thấy họ bắt
 đầu dự đoán hướng bóng ngay từ khi đối thủ bắt đầu backswing.
 
-+----------------------------------------------------------------+
-| \"Elite players read the opponent\'s body before the ball is   |
+| \"Elite players read the opponent's body before the ball is |
+| --- |
 | even struck. The split step is just the physical expression of |
-| that reading.\"                                                |
-|                                                                |
-| **--- Craig O\'Shannessy, Tennis Strategist**                  |
-+----------------------------------------------------------------+
+| that reading.\" |
+|  |
+| **--- Craig O'Shannessy, Tennis Strategist** |
+
 
 **4.2 Chuỗi Tín Hiệu Thị Giác --- Từ Xa Đến Gần**
 
@@ -533,55 +510,48 @@ xuống từ split. Đây là kỹ thuật nâng cao phân biệt người chơi
 
 **4.5 Tín Hiệu Âm Thanh --- Bonus Cue**
 
-Tiếng \'bộp\' mạnh = flat shot nhanh. Tiếng \'xoẹt\' = topspin. Tiếng
-\'phẹt\' nhẹ = slice. Dùng âm thanh để xác nhận thông tin thị giác ---
+Tiếng 'bộp' mạnh = flat shot nhanh. Tiếng 'xoẹt' = topspin. Tiếng
+'phẹt' nhẹ = slice. Dùng âm thanh để xác nhận thông tin thị giác ---
 không thay thế nó.
 
-+----------------------------------------------------------------+
-| **DRILL: Video Analysis Drill** \| 3.5+ \| 20 phút \| 3        |
-| lần/tuần                                                       |
-+----------------------------------------------------------------+
-| **Mô tả:** Xem video match (của bạn hoặc pro). Dừng hình khi   |
-| đối thủ ở giữa backswing. Đoán hướng bóng sẽ đi. Xem tiếp 2    |
-| giây. Tính tỉ lệ đúng. Ghi chép pattern.                       |
-|                                                                |
-| **Focus:** Đào tạo hệ thống nhận dạng pattern của não bộ mà    |
-| không cần áp lực thi đấu.                                      |
-+----------------------------------------------------------------+
+| **DRILL: Video Analysis Drill** \ | 3.5+ \ | 20 phút \ | 3 |
+| --- | --- | --- | --- |
+| lần/tuần |  |  |  |
+| **Mô tả:** Xem video match (của bạn hoặc pro). Dừng hình khi |  |  |  |
+| đối thủ ở giữa backswing. Đoán hướng bóng sẽ đi. Xem tiếp 2 |  |  |  |
+| giây. Tính tỉ lệ đúng. Ghi chép pattern. |  |  |  |
+|  |  |  |  |
+| **Focus:** Đào tạo hệ thống nhận dạng pattern của não bộ mà |  |  |  |
+| không cần áp lực thi đấu. |  |  |  |
 
-+----------------------------------------------------------------+
-| **DRILL: Prediction Feeding** \| 3.5+ (partner) \| 15 phút \|  |
-| 30 cặp/buổi                                                    |
-+----------------------------------------------------------------+
-| **Mô tả:** Đối tác feed bóng. Bạn hét \'FOREHAND\' hoặc        |
-| \'BACKHAND\' ngay khi họ bắt đầu forward swing. Split và di    |
-| chuyển theo hướng đã hét. Tính tỉ lệ đúng.                     |
-|                                                                |
-| **Focus:** Học commit sớm với hướng di chuyển. Ngăn chặn       |
-| hesitation sau tiếp đất.                                       |
-+----------------------------------------------------------------+
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- ĐỌC ĐỐI THỦ**                                                                  |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Nhìn logo áo đối thủ.\' Không nhìn vợt, không nhìn bóng  |
-|                                 | --- nhìn ngực/logo áo đối thủ để thấy toàn bộ body         |
-|                                 | language.                                                  |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Backswing nói cho bạn biết spin.\' Nhận biết 3 loại      |
-|                                 | backswing (low/flat/high) để dự đoán loại bóng đến.        |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Vai đối thủ kể câu chuyện.\' Khi vai xoay về một hướng   |
-|                                 | và không trở lại trước impact --- tín hiệu mạnh về hướng   |
-|                                 | bóng.                                                      |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Nghi ngờ --- neutral.\' Không đọc được tín hiệu rõ ràng  |
-|                                 | thì không lean. Neutral split + bước đầu tốt vẫn hiệu quả  |
-|                                 | hơn lean sai.                                              |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Nhìn toss khi đối thủ serve.\' Vị trí toss là tín hiệu   |
-|                                 | serve rõ nhất và sớm nhất.                                 |
-+---------------------------------+------------------------------------------------------------+
+| **DRILL: Prediction Feeding** \ | 3.5+ (partner) \ | 15 phút \ |  |
+| --- | --- | --- | --- |
+| 30 cặp/buổi |  |  |  |
+| **Mô tả:** Đối tác feed bóng. Bạn hét 'FOREHAND' hoặc |  |  |  |
+| 'BACKHAND' ngay khi họ bắt đầu forward swing. Split và di |  |  |  |
+| chuyển theo hướng đã hét. Tính tỉ lệ đúng. |  |  |  |
+|  |  |  |  |
+| **Focus:** Học commit sớm với hướng di chuyển. Ngăn chặn |  |  |  |
+| hesitation sau tiếp đất. |  |  |  |
+
+
+| **CUE BOX --- ĐỌC ĐỐI THỦ** |  |
+| --- | --- |
+| **1** | 'Nhìn logo áo đối thủ.' Không nhìn vợt, không nhìn bóng |
+|  | --- nhìn ngực/logo áo đối thủ để thấy toàn bộ body |
+|  | language. |
+| **2** | 'Backswing nói cho bạn biết spin.' Nhận biết 3 loại |
+|  | backswing (low/flat/high) để dự đoán loại bóng đến. |
+| **3** | 'Vai đối thủ kể câu chuyện.' Khi vai xoay về một hướng |
+|  | và không trở lại trước impact --- tín hiệu mạnh về hướng |
+|  | bóng. |
+| **4** | 'Nghi ngờ --- neutral.' Không đọc được tín hiệu rõ ràng |
+|  | thì không lean. Neutral split + bước đầu tốt vẫn hiệu quả |
+|  | hơn lean sai. |
+| **5** | 'Nhìn toss khi đối thủ serve.' Vị trí toss là tín hiệu |
+|  | serve rõ nhất và sớm nhất. |
+
 
 **CHƯƠNG 05**
 
@@ -669,59 +639,51 @@ thủ đánh. Đây là nơi 3.5 thua 4.0 về footwork nhiều nhất.
 
 10. Không dừng lại --- split ngay khi đối thủ bắt đầu forward swing
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Đứng Nhìn Bóng Sau Khi Đánh**                         |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Bản năng muốn xem bóng mình đánh đi đâu. Mỗi  |
-| lần đứng nhìn là bạn mất 0.5--1 giây recovery.                 |
-|                                                                |
+| **⚠ LỖI: Đứng Nhìn Bóng Sau Khi Đánh** |
+| --- |
+| **Nguyên nhân:** Bản năng muốn xem bóng mình đánh đi đâu. Mỗi |
+| lần đứng nhìn là bạn mất 0.5--1 giây recovery. |
+|  |
 | **Cách sửa:** Quy tắc cứng: vợt follow-through xong = chân bắt |
-| đầu về giữa sân. Không bao giờ đứng nhìn bóng sau đánh.        |
-+----------------------------------------------------------------+
+| đầu về giữa sân. Không bao giờ đứng nhìn bóng sau đánh. |
 
-+----------------------------------------------------------------+
-| **DRILL: 20-Ball Rally Focus** \| 3.5+ \| 20 phút \| 5 sets x  |
-| 20 bóng                                                        |
-+----------------------------------------------------------------+
-| **Mô tả:** Rally với đối tác, nhưng NHIỆM VỤ DUY NHẤT là split |
-| step sau mỗi cú đánh. Không cần đánh tốt --- chỉ cần split     |
-| đúng sau mỗi cú. Focus hoàn toàn vào chu kỳ: đánh → recovery → |
-| split.                                                         |
-|                                                                |
-| **Focus:** Tách biệt kỹ năng split step khỏi kỹ năng đánh      |
-| bóng. Xây dựng habit cycle.                                    |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **DRILL: Cone Recovery Drill** \| 3.5+ (partner/coach) \| 15   |
-| phút \| 3 sets x 10 reps                                       |
-+----------------------------------------------------------------+
-| **Mô tả:** Đặt 2 nón ở baseline giữa sân. Coach feed bóng luân |
-| phiên trái/phải. Bạn đánh, recovery về NÓN (không phải về      |
-| baseline mơ hồ), và split trước khi bóng tiếp theo đến.        |
-|                                                                |
-| **Focus:** Định vị hóa recovery --- về một điểm cụ thể, không  |
-| phải \'giữa sân\' chung chung.                                 |
-+----------------------------------------------------------------+
+| **DRILL: 20-Ball Rally Focus** \ | 3.5+ \ | 20 phút \ | 5 sets x |
+| --- | --- | --- | --- |
+| 20 bóng |  |  |  |
+| **Mô tả:** Rally với đối tác, nhưng NHIỆM VỤ DUY NHẤT là split |  |  |  |
+| step sau mỗi cú đánh. Không cần đánh tốt --- chỉ cần split |  |  |  |
+| đúng sau mỗi cú. Focus hoàn toàn vào chu kỳ: đánh → recovery → |  |  |  |
+| split. |  |  |  |
+|  |  |  |  |
+| **Focus:** Tách biệt kỹ năng split step khỏi kỹ năng đánh |  |  |  |
+| bóng. Xây dựng habit cycle. |  |  |  |
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- BASELINE**                                                                     |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Đánh-xoay-đẩy.\' Ba từ nhắc nhở chu trình recovery: đánh |
-|                                 | xong → xoay hông → đẩy về giữa. Không có thứ tư.           |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Không bao giờ đứng nhìn bóng.\' Sau follow-through, mắt  |
-|                                 | vẫn theo bóng nhưng CHÂN đã bắt đầu về giữa sân.           |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Split ở giữa sân, không phải SAU KHI tới.\' Bạn split    |
-|                                 | KHI DI CHUYỂN về giữa --- đừng chờ đứng yên rồi split.     |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Bóng sâu = split lớn hơn.\' Khi biết bóng của bạn sâu,   |
-|                                 | split đầy đủ hơn vì bạn có thêm thời gian.                 |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Bóng ngắn = split nhanh, nhỏ.\' Sau bóng ngắn, đối thủ   |
-|                                 | có góc attack --- split nhanh và nhỏ để phản ứng được.     |
-+---------------------------------+------------------------------------------------------------+
+
+| **DRILL: Cone Recovery Drill** \ | 3.5+ (partner/coach) \ | 15 |
+| --- | --- | --- |
+| phút \ | 3 sets x 10 reps |  |
+| **Mô tả:** Đặt 2 nón ở baseline giữa sân. Coach feed bóng luân |  |  |
+| phiên trái/phải. Bạn đánh, recovery về NÓN (không phải về |  |  |
+| baseline mơ hồ), và split trước khi bóng tiếp theo đến. |  |  |
+|  |  |  |
+| **Focus:** Định vị hóa recovery --- về một điểm cụ thể, không |  |  |
+| phải 'giữa sân' chung chung. |  |  |
+
+
+| **CUE BOX --- BASELINE** |  |
+| --- | --- |
+| **1** | 'Đánh-xoay-đẩy.' Ba từ nhắc nhở chu trình recovery: đánh |
+|  | xong → xoay hông → đẩy về giữa. Không có thứ tư. |
+| **2** | 'Không bao giờ đứng nhìn bóng.' Sau follow-through, mắt |
+|  | vẫn theo bóng nhưng CHÂN đã bắt đầu về giữa sân. |
+| **3** | 'Split ở giữa sân, không phải SAU KHI tới.' Bạn split |
+|  | KHI DI CHUYỂN về giữa --- đừng chờ đứng yên rồi split. |
+| **4** | 'Bóng sâu = split lớn hơn.' Khi biết bóng của bạn sâu, |
+|  | split đầy đủ hơn vì bạn có thêm thời gian. |
+| **5** | 'Bóng ngắn = split nhanh, nhỏ.' Sau bóng ngắn, đối thủ |
+|  | có góc attack --- split nhanh và nhỏ để phản ứng được. |
+
 
 **CHƯƠNG 06**
 
@@ -798,73 +760,64 @@ nhất trong chương này.
   7\. VOLLEY từ vị trí tốt với tư thế cân bằng
   ----------------------------------------------------------------
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Tiếp Tục Chạy Vào Lưới Không Split**                  |
-+----------------------------------------------------------------+
+| **⚠ LỖI: Tiếp Tục Chạy Vào Lưới Không Split** |
+| --- |
 | **Nguyên nhân:** Momentum về trước khiến người chơi không dừng |
-| được --- kết quả là volley khi đang mất thăng bằng hoặc bị     |
-| bóng pass.                                                     |
-|                                                                |
-| **Cách sửa:** Quy tắc: khi đối thủ bắt đầu forward swing (dù   |
-| bạn đang ở đâu), SPLIT. Momentum sẽ bị hấp thụ bởi split.      |
-+----------------------------------------------------------------+
+| được --- kết quả là volley khi đang mất thăng bằng hoặc bị |
+| bóng pass. |
+|  |
+| **Cách sửa:** Quy tắc: khi đối thủ bắt đầu forward swing (dù |
+| bạn đang ở đâu), SPLIT. Momentum sẽ bị hấp thụ bởi split. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Split Quá Sớm Ở Lưới**                                |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Người chơi tiến vào lưới rồi split ngay khi   |
-| đứng tại T --- nhưng đối thủ chưa đánh. Kết quả: đứng yên khi  |
-| cần phản ứng.                                                  |
-|                                                                |
+
+| **⚠ LỖI: Split Quá Sớm Ở Lưới** |
+| --- |
+| **Nguyên nhân:** Người chơi tiến vào lưới rồi split ngay khi |
+| đứng tại T --- nhưng đối thủ chưa đánh. Kết quả: đứng yên khi |
+| cần phản ứng. |
+|  |
 | **Cách sửa:** Split phải theo nhịp vung vợt của đối thủ, không |
-| theo vị trí của bạn. Dù đã tại T hay chưa --- split khi HỌ     |
-| swing.                                                         |
-+----------------------------------------------------------------+
+| theo vị trí của bạn. Dù đã tại T hay chưa --- split khi HỌ |
+| swing. |
 
-+----------------------------------------------------------------+
-| **DRILL: Mini Tennis Volley Drill** \| 3.5+ (partner) \| 10    |
-| phút \| Liên tục                                               |
-+----------------------------------------------------------------+
-| **Mô tả:** Cả hai đứng trong service box, chơi mini tennis     |
-| không cho bóng chạm đất. Focus hoàn toàn vào split step trước  |
-| mỗi volley. Bóng chậm hơn nên bạn chú ý 100% vào timing và cơ  |
-| học.                                                           |
-|                                                                |
-| **Focus:** Môi trường an toàn để thử nghiệm volley split mà    |
-| không có áp lực tốc độ cao.                                    |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **DRILL: Approach + Volley Pattern** \| 3.5+ (coach/feeder) \| |
-| 15 phút \| 20 reps                                             |
-+----------------------------------------------------------------+
-| **Mô tả:** Coach feed bóng ngắn. Bạn approach và đánh, tiến    |
-| vào lưới. Coach feed volley. Bạn split trước khi volley. Bắt   |
-| đầu chậm, tăng tốc dần.                                        |
-|                                                                |
-| **Focus:** Tích hợp approach + split + volley thành một chuỗi  |
-| liền mạch.                                                     |
-+----------------------------------------------------------------+
+| **DRILL: Mini Tennis Volley Drill** \ | 3.5+ (partner) \ | 10 |
+| --- | --- | --- |
+| phút \ | Liên tục |  |
+| **Mô tả:** Cả hai đứng trong service box, chơi mini tennis |  |  |
+| không cho bóng chạm đất. Focus hoàn toàn vào split step trước |  |  |
+| mỗi volley. Bóng chậm hơn nên bạn chú ý 100% vào timing và cơ |  |  |
+| học. |  |  |
+|  |  |  |
+| **Focus:** Môi trường an toàn để thử nghiệm volley split mà |  |  |
+| không có áp lực tốc độ cao. |  |  |
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- VOLLEY SPLIT**                                                                 |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Nhỏ và nhanh.\' Volley split không cần to như baseline   |
-|                                 | split. Nhỏ hơn, nhẹ hơn, nhanh hơn.                        |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Đọc cổ tay.\' Ở lưới, cổ tay đối thủ là tín hiệu cuối    |
-|                                 | cùng --- cổ tay xoay vào = topspin pass, xoay ngoài =      |
-|                                 | slice.                                                     |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Phanh bằng split.\' Momentum về trước nguy hiểm ở lưới.  |
-|                                 | Split step là phanh sinh học.                              |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Cao hơn, không thấp bằng baseline.\' Tư thế lưới cao hơn |
-|                                 | vì bạn cần reach lên để volley.                            |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Vào T trước, rồi split.\' Đến vị trí lưới tốt trước, rồi |
-|                                 | split --- không split từ quá xa lưới.                      |
-+---------------------------------+------------------------------------------------------------+
+
+| **DRILL: Approach + Volley Pattern** \ | 3.5+ (coach/feeder) \ |  |
+| --- | --- | --- |
+| 15 phút \ | 20 reps |  |
+| **Mô tả:** Coach feed bóng ngắn. Bạn approach và đánh, tiến |  |  |
+| vào lưới. Coach feed volley. Bạn split trước khi volley. Bắt |  |  |
+| đầu chậm, tăng tốc dần. |  |  |
+|  |  |  |
+| **Focus:** Tích hợp approach + split + volley thành một chuỗi |  |  |
+| liền mạch. |  |  |
+
+
+| **CUE BOX --- VOLLEY SPLIT** |  |
+| --- | --- |
+| **1** | 'Nhỏ và nhanh.' Volley split không cần to như baseline |
+|  | split. Nhỏ hơn, nhẹ hơn, nhanh hơn. |
+| **2** | 'Đọc cổ tay.' Ở lưới, cổ tay đối thủ là tín hiệu cuối |
+|  | cùng --- cổ tay xoay vào = topspin pass, xoay ngoài = |
+|  | slice. |
+| **3** | 'Phanh bằng split.' Momentum về trước nguy hiểm ở lưới. |
+|  | Split step là phanh sinh học. |
+| **4** | 'Cao hơn, không thấp bằng baseline.' Tư thế lưới cao hơn |
+|  | vì bạn cần reach lên để volley. |
+| **5** | 'Vào T trước, rồi split.' Đến vị trí lưới tốt trước, rồi |
+|  | split --- không split từ quá xa lưới. |
+
 
 **CHƯƠNG 07**
 
@@ -952,59 +905,51 @@ split xong.
 > Serve phổ biến là body và wide. T serve kém hiệu quả hơn ở đây. Lean
 > nhẹ về phía body và wide --- nhưng cover T vẫn phải làm được.
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Split Sau Khi Thấy Bóng Qua Lưới**                    |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Khi thấy bóng đã qua lưới mới split --- đã    |
-| muộn ít nhất 0.3 giây. Bạn sẽ không kịp phản ứng với serve     |
-| nhanh.                                                         |
-|                                                                |
+| **⚠ LỖI: Split Sau Khi Thấy Bóng Qua Lưới** |
+| --- |
+| **Nguyên nhân:** Khi thấy bóng đã qua lưới mới split --- đã |
+| muộn ít nhất 0.3 giây. Bạn sẽ không kịp phản ứng với serve |
+| nhanh. |
+|  |
 | **Cách sửa:** Split theo nhịp RACKET DROP của đối thủ (khi vợt |
-| bắt đầu swing xuống), không phải khi thấy bóng.                |
-+----------------------------------------------------------------+
+| bắt đầu swing xuống), không phải khi thấy bóng. |
 
-+----------------------------------------------------------------+
-| **DRILL: Serve Machine Return Focus** \| 3.5+ \| 15 phút \| 30 |
-| reps                                                           |
-+----------------------------------------------------------------+
-| **Mô tả:** Chỉ focus vào split step --- không cần return tốt.  |
-| Đối tác serve hoặc dùng máy. Nhiệm vụ: split trước khi bóng    |
-| qua lưới. Nếu đạt --- thành công dù return đi đâu.             |
-|                                                                |
-| **Focus:** Tách biệt return skill khỏi split skill để xây dựng |
-| từng thứ riêng.                                                |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **DRILL: Toss Reading Drill** \| 3.5+ (partner) \| 10 phút \|  |
-| 20 reps                                                        |
-+----------------------------------------------------------------+
-| **Mô tả:** Đối tác chỉ làm động tác serve (không đánh bóng     |
-| thật hoặc đánh nhẹ). Bạn hét \'FLAT\', \'SLICE\', hay \'KICK\' |
-| ngay khi toss lên đỉnh. Tính tỉ lệ đúng sau 20 lần.            |
-|                                                                |
-| **Focus:** Xây dựng khả năng đọc toss --- tín hiệu quan trọng  |
-| nhất của return split.                                         |
-+----------------------------------------------------------------+
+| **DRILL: Serve Machine Return Focus** \ | 3.5+ \ | 15 phút \ | 30 |
+| --- | --- | --- | --- |
+| reps |  |  |  |
+| **Mô tả:** Chỉ focus vào split step --- không cần return tốt. |  |  |  |
+| Đối tác serve hoặc dùng máy. Nhiệm vụ: split trước khi bóng |  |  |  |
+| qua lưới. Nếu đạt --- thành công dù return đi đâu. |  |  |  |
+|  |  |  |  |
+| **Focus:** Tách biệt return skill khỏi split skill để xây dựng |  |  |  |
+| từng thứ riêng. |  |  |  |
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- RETURN SPLIT**                                                                 |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Toss trước --- quyết định sau.\' Ngay khi thấy toss, xác |
-|                                 | định loại serve. Cho bạn 0.5 giây thêm để chuẩn bị.        |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Split sớm như serve nhanh --- luôn luôn.\' Dù serve chậm |
-|                                 | hay nhanh, split theo nhịp của serve nhanh nhất.           |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Vợt đối thủ đi xuống --- ta nhún.\' Không phải khi       |
-|                                 | impact --- khi vợt bắt đầu swing xuống từ trophy position. |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Chân rộng hơn baseline.\' Return split cần đế trụ rộng   |
-|                                 | hơn một chút vì bóng đến với momentum lớn.\',              |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Ad court --- lean ít hơn.\' Tỉ lệ wide/body/T gần nhau   |
-|                                 | hơn ở ad court, neutral split an toàn hơn.                 |
-+---------------------------------+------------------------------------------------------------+
+
+| **DRILL: Toss Reading Drill** \ | 3.5+ (partner) \ | 10 phút \ |  |
+| --- | --- | --- | --- |
+| 20 reps |  |  |  |
+| **Mô tả:** Đối tác chỉ làm động tác serve (không đánh bóng |  |  |  |
+| thật hoặc đánh nhẹ). Bạn hét 'FLAT', 'SLICE', hay 'KICK' |  |  |  |
+| ngay khi toss lên đỉnh. Tính tỉ lệ đúng sau 20 lần. |  |  |  |
+|  |  |  |  |
+| **Focus:** Xây dựng khả năng đọc toss --- tín hiệu quan trọng |  |  |  |
+| nhất của return split. |  |  |  |
+
+
+| **CUE BOX --- RETURN SPLIT** |  |
+| --- | --- |
+| **1** | 'Toss trước --- quyết định sau.' Ngay khi thấy toss, xác |
+|  | định loại serve. Cho bạn 0.5 giây thêm để chuẩn bị. |
+| **2** | 'Split sớm như serve nhanh --- luôn luôn.' Dù serve chậm |
+|  | hay nhanh, split theo nhịp của serve nhanh nhất. |
+| **3** | 'Vợt đối thủ đi xuống --- ta nhún.' Không phải khi |
+|  | impact --- khi vợt bắt đầu swing xuống từ trophy position. |
+| **4** | 'Chân rộng hơn baseline.' Return split cần đế trụ rộng |
+|  | hơn một chút vì bóng đến với momentum lớn.', |
+| **5** | 'Ad court --- lean ít hơn.' Tỉ lệ wide/body/T gần nhau |
+|  | hơn ở ad court, neutral split an toàn hơn. |
+
 
 **CHƯƠNG 08**
 
@@ -1049,16 +994,16 @@ làm nó to hay rõ, mà vì ông làm nó LIÊN TỤC và GẦN NHƯ KHÔNG TH�
 
 - Tần suất \> biên độ --- split nhỏ 100 lần tốt hơn split to 50 lần
 
-- Giữ thân trên yên là yếu tố \'vô hình\' tạo ra \'magic footwork\' của
+- Giữ thân trên yên là yếu tố 'vô hình' tạo ra 'magic footwork' của
   Federer
 
-+----------------------------------------------------------------+
-| \"I don\'t think about the split step. My body just does it.   |
-| That\'s what you\'re training for --- the moment you stop      |
-| thinking about it.\"                                           |
-|                                                                |
-| **--- Roger Federer**                                          |
-+----------------------------------------------------------------+
+| \"I don't think about the split step. My body just does it. |
+| --- |
+| That's what you're training for --- the moment you stop |
+| thinking about it.\" |
+|  |
+| **--- Roger Federer** |
+
 
 **8.3 Novak Djokovic --- Split Step Như Máy**
 
@@ -1078,7 +1023,7 @@ làm nó to hay rõ, mà vì ông làm nó LIÊN TỤC và GẦN NHƯ KHÔNG TH�
   thể hiện sự tự tin đọc đối thủ
 
   Variance nhỏ nhất: Split của Djokovic đều như đồng hồ --- đây là
-  lý do ông không bao giờ bị \'kẹt\'
+  lý do ông không bao giờ bị 'kẹt'
   ----------------------------------------------------------------
 
 **Điều bạn học từ Djokovic:**
@@ -1152,22 +1097,18 @@ làm nó to hay rõ, mà vì ông làm nó LIÊN TỤC và GẦN NHƯ KHÔNG TH�
                               nhất
   -----------------------------------------------------------------
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- PRO LEARNING**                                                                 |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Đừng copy nguyên xi --- lấy nguyên tắc.\' Federer split  |
-|                                 | nhỏ vì phản xạ thiên bẩm. Bạn ở 3.5 có thể cần split hơi   |
-|                                 | to hơn.                                                    |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Xem slow-motion, không phải real-time.\' Split không     |
-|                                 | thấy ở tốc độ thường. Xem ở 0.25x mới thấy cơ học.         |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Tìm 1 thứ để copy mỗi tuần.\' Mỗi tuần chọn một đặc điểm |
-|                                 | của một pro và tập focus vào đó.                           |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Djokovic recovery split là mục tiêu cuối.\' Khó nhất và  |
-|                                 | giá trị nhất --- sau mỗi cú đánh, lập tức sẵn sàng lại.    |
-+---------------------------------+------------------------------------------------------------+
+| **CUE BOX --- PRO LEARNING** |  |
+| --- | --- |
+| **1** | 'Đừng copy nguyên xi --- lấy nguyên tắc.' Federer split |
+|  | nhỏ vì phản xạ thiên bẩm. Bạn ở 3.5 có thể cần split hơi |
+|  | to hơn. |
+| **2** | 'Xem slow-motion, không phải real-time.' Split không |
+|  | thấy ở tốc độ thường. Xem ở 0.25x mới thấy cơ học. |
+| **3** | 'Tìm 1 thứ để copy mỗi tuần.' Mỗi tuần chọn một đặc điểm |
+|  | của một pro và tập focus vào đó. |
+| **4** | 'Djokovic recovery split là mục tiêu cuối.' Khó nhất và |
+|  | giá trị nhất --- sau mỗi cú đánh, lập tức sẵn sàng lại. |
+
 
 **CHƯƠNG 09**
 
@@ -1201,27 +1142,25 @@ cải thiện toàn bộ game của bạn.
 
 **Mục tiêu: Cơ học đúng, không có match pressure**
 
-+----------------------------------------------------------------+
-| **DRILL: Shadow Split Daily** \| Tất cả cấp \| 10 phút/ngày \| |
-| 100 reps/ngày                                                  |
-+----------------------------------------------------------------+
-| **Mô tả:** Mỗi buổi sáng hoặc tối: 100 shadow split. Đứng      |
-| trước gương. Dừng 3 giây sau mỗi split để kiểm tra 8 điểm      |
-| checklist. Không cần nhanh --- cần đúng.                       |
-|                                                                |
-| **Focus:** Xây dựng muscle memory cho tư thế tiếp đất đúng.    |
-+----------------------------------------------------------------+
+| **DRILL: Shadow Split Daily** \ | Tất cả cấp \ | 10 phút/ngày \ |  |
+| --- | --- | --- | --- |
+| 100 reps/ngày |  |  |  |
+| **Mô tả:** Mỗi buổi sáng hoặc tối: 100 shadow split. Đứng |  |  |  |
+| trước gương. Dừng 3 giây sau mỗi split để kiểm tra 8 điểm |  |  |  |
+| checklist. Không cần nhanh --- cần đúng. |  |  |  |
+|  |  |  |  |
+| **Focus:** Xây dựng muscle memory cho tư thế tiếp đất đúng. |  |  |  |
 
-+----------------------------------------------------------------+
-| **DRILL: Chalk Mark Drill** \| Tất cả cấp \| 10 phút x 3       |
-| buổi/tuần \| 200 reps/tuần                                     |
-+----------------------------------------------------------------+
-| **Mô tả:** Hai dấu X phấn trên sân. Split liên tục vào hai dấu |
-| X. Thêm biến: sau split, bước 2 bước sang trái, split lại. Sau |
-| split, bước 2 bước sang phải, split lại.                       |
-|                                                                |
-| **Focus:** Tự động hóa độ rộng chân --- loại bỏ biến thiên.    |
-+----------------------------------------------------------------+
+
+| **DRILL: Chalk Mark Drill** \ | Tất cả cấp \ | 10 phút x 3 |
+| --- | --- | --- |
+| buổi/tuần \ | 200 reps/tuần |  |
+| **Mô tả:** Hai dấu X phấn trên sân. Split liên tục vào hai dấu |  |  |
+| X. Thêm biến: sau split, bước 2 bước sang trái, split lại. Sau |  |  |
+| split, bước 2 bước sang phải, split lại. |  |  |
+|  |  |  |
+| **Focus:** Tự động hóa độ rộng chân --- loại bỏ biến thiên. |  |  |
+
 
   ----------------------------------------------------------------
   **BÀI KIỂM TRA CUỐI TUẦN 2**
@@ -1237,29 +1176,27 @@ cải thiện toàn bộ game của bạn.
 
 **Mục tiêu: Split đúng timing với đối thủ thật**
 
-+----------------------------------------------------------------+
-| **DRILL: Partner Trigger Drill** \| 3.5+ \| 15 phút x 3        |
-| buổi/tuần \| 100 triggers/tuần                                 |
-+----------------------------------------------------------------+
-| **Mô tả:** Đối tác vung vợt. Bạn split theo nhịp forward       |
-| swing. Đối tác thỉnh thoảng fake. Tăng tốc dần đến tốc độ      |
-| thật.                                                          |
-|                                                                |
-| **Focus:** Chuyển từ split theo vị trí sang split theo tín     |
-| hiệu vợt.                                                      |
-+----------------------------------------------------------------+
+| **DRILL: Partner Trigger Drill** \ | 3.5+ \ | 15 phút x 3 |
+| --- | --- | --- |
+| buổi/tuần \ | 100 triggers/tuần |  |
+| **Mô tả:** Đối tác vung vợt. Bạn split theo nhịp forward |  |  |
+| swing. Đối tác thỉnh thoảng fake. Tăng tốc dần đến tốc độ |  |  |
+| thật. |  |  |
+|  |  |  |
+| **Focus:** Chuyển từ split theo vị trí sang split theo tín |  |  |
+| hiệu vợt. |  |  |
 
-+----------------------------------------------------------------+
-| **DRILL: Live Ball Timing Focus** \| 3.5+ \| 20 phút x 3       |
-| buổi/tuần \| 50 điểm/buổi                                      |
-+----------------------------------------------------------------+
-| **Mô tả:** Rally bình thường nhưng đếm số lần split đúng       |
-| timing. Mục tiêu: 70% split đúng timing sau 2 tuần. Đối tác    |
-| gọi \'YES/NO\' sau mỗi điểm.                                   |
-|                                                                |
-| **Focus:** Nhận feedback real-time về timing trong điều kiện   |
-| game thật.                                                     |
-+----------------------------------------------------------------+
+
+| **DRILL: Live Ball Timing Focus** \ | 3.5+ \ | 20 phút x 3 |
+| --- | --- | --- |
+| buổi/tuần \ | 50 điểm/buổi |  |
+| **Mô tả:** Rally bình thường nhưng đếm số lần split đúng |  |  |
+| timing. Mục tiêu: 70% split đúng timing sau 2 tuần. Đối tác |  |  |
+| gọi 'YES/NO' sau mỗi điểm. |  |  |
+|  |  |  |
+| **Focus:** Nhận feedback real-time về timing trong điều kiện |  |  |
+| game thật. |  |  |
+
 
   ----------------------------------------------------------------
   **BÀI KIỂM TRA CUỐI TUẦN 4**
@@ -1275,27 +1212,25 @@ cải thiện toàn bộ game của bạn.
 
 **Mục tiêu: Split đúng trong tất cả các tình huống**
 
-+----------------------------------------------------------------+
-| **DRILL: Volley Split Integration** \| 3.5+ \| 15 phút x 2     |
-| buổi/tuần \| 30 reps                                           |
-+----------------------------------------------------------------+
-| **Mô tả:** Approach và volley pattern với đối tác. Focus vào   |
-| split trước mỗi volley. Thêm: đối tác thỉnh thoảng pass thay   |
-| vì cross-court.                                                |
-|                                                                |
-| **Focus:** Áp dụng volley split trong áp lực thi đấu nhẹ.      |
-+----------------------------------------------------------------+
+| **DRILL: Volley Split Integration** \ | 3.5+ \ | 15 phút x 2 |
+| --- | --- | --- |
+| buổi/tuần \ | 30 reps |  |
+| **Mô tả:** Approach và volley pattern với đối tác. Focus vào |  |  |
+| split trước mỗi volley. Thêm: đối tác thỉnh thoảng pass thay |  |  |
+| vì cross-court. |  |  |
+|  |  |  |
+| **Focus:** Áp dụng volley split trong áp lực thi đấu nhẹ. |  |  |
 
-+----------------------------------------------------------------+
-| **DRILL: Return Split Drill** \| 3.5+ \| 15 phút x 2 buổi/tuần |
-| \| 20 serves                                                   |
-+----------------------------------------------------------------+
-| **Mô tả:** Đối tác serve vào các vị trí khác nhau. Bạn không   |
-| cần return tốt --- chỉ cần split trước khi bóng qua lưới. Đối  |
-| tác phản hồi: \'split trước\' hay \'split sau\'.               |
-|                                                                |
-| **Focus:** Xây dựng return split timing với áp lực serve thật. |
-+----------------------------------------------------------------+
+
+| **DRILL: Return Split Drill** \ | 3.5+ \ | 15 phút x 2 buổi/tuần |
+| --- | --- | --- |
+| \ | 20 serves |  |
+| **Mô tả:** Đối tác serve vào các vị trí khác nhau. Bạn không |  |  |
+| cần return tốt --- chỉ cần split trước khi bóng qua lưới. Đối |  |  |
+| tác phản hồi: 'split trước' hay 'split sau'. |  |  |
+|  |  |  |
+| **Focus:** Xây dựng return split timing với áp lực serve thật. |  |  |
+
 
   ----------------------------------------------------------------
   **BÀI KIỂM TRA CUỐI TUẦN 6**
@@ -1311,30 +1246,28 @@ cải thiện toàn bộ game của bạn.
 
 **Mục tiêu: Split tự động trong match pressure**
 
-+----------------------------------------------------------------+
-| **DRILL: Match Play Focus** \| 3.5+ \| Match x 2 lần/tuần \|   |
-| Toàn match                                                     |
-+----------------------------------------------------------------+
-| **Mô tả:** Chơi match thật với mục tiêu đặt trước: \'Tôi sẽ    |
-| split trong X% các điểm.\' Sau match, review với đối tác hoặc  |
-| video. Tính % split đúng. Mục tiêu cuối tuần 8: 85%.           |
-|                                                                |
-| **Focus:** Chuyển từ practice condition sang match condition   |
-| với metric rõ ràng.                                            |
-+----------------------------------------------------------------+
+| **DRILL: Match Play Focus** \ | 3.5+ \ | Match x 2 lần/tuần \ |  |
+| --- | --- | --- | --- |
+| Toàn match |  |  |  |
+| **Mô tả:** Chơi match thật với mục tiêu đặt trước: 'Tôi sẽ |  |  |  |
+| split trong X% các điểm.' Sau match, review với đối tác hoặc |  |  |  |
+| video. Tính % split đúng. Mục tiêu cuối tuần 8: 85%. |  |  |  |
+|  |  |  |  |
+| **Focus:** Chuyển từ practice condition sang match condition |  |  |  |
+| với metric rõ ràng. |  |  |  |
 
-+----------------------------------------------------------------+
-| **DRILL: Pressure Point Drill** \| 3.5+ \| 20 phút x 2         |
-| buổi/tuần \| 30 điểm                                           |
-+----------------------------------------------------------------+
-| **Mô tả:** Practice points với điểm số có ý nghĩa (30-30,      |
-| deuce, ad-in). Đối tác quan sát và gọi mỗi khi bạn split sai   |
-| timing. Áp lực điểm số tự nhiên làm bạn quên split --- đây là  |
-| bài test cuối cùng.                                            |
-|                                                                |
-| **Focus:** Kiểm tra xem split step có tự động dưới áp lực      |
-| chưa.                                                          |
-+----------------------------------------------------------------+
+
+| **DRILL: Pressure Point Drill** \ | 3.5+ \ | 20 phút x 2 |
+| --- | --- | --- |
+| buổi/tuần \ | 30 điểm |  |
+| **Mô tả:** Practice points với điểm số có ý nghĩa (30-30, |  |  |
+| deuce, ad-in). Đối tác quan sát và gọi mỗi khi bạn split sai |  |  |
+| timing. Áp lực điểm số tự nhiên làm bạn quên split --- đây là |  |  |
+| bài test cuối cùng. |  |  |
+|  |  |  |
+| **Focus:** Kiểm tra xem split step có tự động dưới áp lực |  |  |
+| chưa. |  |  |
+
 
   ----------------------------------------------------------------
   **GRADUATION TEST --- CUỐI TUẦN 8**
@@ -1350,24 +1283,19 @@ cải thiện toàn bộ game của bạn.
   Cảm nhận được ngay khi mình split sai --- không cần review video
   ----------------------------------------------------------------
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- TRAINING --- 8 TUẦN**                                                          |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Đúng trước, nhanh sau.\' Tuần 1-2: không cần nhanh. Đúng |
-|                                 | kỹ thuật là ưu tiên duy nhất.                              |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'100 reps đúng = 1 ngày tốt.\' Mỗi ngày làm đủ 100 reps   |
-|                                 | đúng kỹ thuật --- dù phải làm chậm.                        |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Không counting = không learning.\' Luôn đếm số lần       |
-|                                 | split. Số liệu tạo ra accountability.                      |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Video mỗi tuần.\' Quay 5 phút rally mỗi tuần, xem lại,   |
-|                                 | đếm % split đúng. Tiến bộ sẽ hiện ra rõ ràng.              |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Match pressure là bài test, không phải giờ học.\' Đừng   |
-|                                 | cố học trong match. Match là kiểm tra những gì đã tập.     |
-+---------------------------------+------------------------------------------------------------+
+| **CUE BOX --- TRAINING --- 8 TUẦN** |  |
+| --- | --- |
+| **1** | 'Đúng trước, nhanh sau.' Tuần 1-2: không cần nhanh. Đúng |
+|  | kỹ thuật là ưu tiên duy nhất. |
+| **2** | '100 reps đúng = 1 ngày tốt.' Mỗi ngày làm đủ 100 reps |
+|  | đúng kỹ thuật --- dù phải làm chậm. |
+| **3** | 'Không counting = không learning.' Luôn đếm số lần |
+|  | split. Số liệu tạo ra accountability. |
+| **4** | 'Video mỗi tuần.' Quay 5 phút rally mỗi tuần, xem lại, |
+|  | đếm % split đúng. Tiến bộ sẽ hiện ra rõ ràng. |
+| **5** | 'Match pressure là bài test, không phải giờ học.' Đừng |
+|  | cố học trong match. Match là kiểm tra những gì đã tập. |
+
 
 **CHƯƠNG 10**
 
@@ -1380,7 +1308,7 @@ Con Đường Từ 3.5 Lên 4.0
   -----------------------------------------------------------------
   **Triệu Chứng Bạn Thấy**    **Chẩn Đoán Vấn Đề**
   --------------------------- -------------------------------------
-  Thường \'tới trễ\' dù đã di Split timing muộn --- đang split sau
+  Thường 'tới trễ' dù đã di Split timing muộn --- đang split sau
   chuyển                      khi bóng rời vợt
 
   Bị kẹt khi bóng về thẳng    Split chân hẹp --- không có đế trụ để
@@ -1400,68 +1328,62 @@ Con Đường Từ 3.5 Lên 4.0
 
 **10.2 Sáu Lỗi Phổ Biến Nhất Ở 3.5**
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 1: Split Sau Khi Thấy Bóng**                      |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Não bị điều kiện hóa để phản ứng với vật      |
-| chuyển động --- bóng kích hoạt split thay vì vợt đối thủ. Kết  |
-| quả: luôn muộn 0.3--0.5 giây.                                  |
-|                                                                |
+| **⚠ LỖI: Lỗi 1: Split Sau Khi Thấy Bóng** |
+| --- |
+| **Nguyên nhân:** Não bị điều kiện hóa để phản ứng với vật |
+| chuyển động --- bóng kích hoạt split thay vì vợt đối thủ. Kết |
+| quả: luôn muộn 0.3--0.5 giây. |
+|  |
 | **Cách sửa:** Partner Trigger Drill không bóng (Chương 2). Đọc |
-| forward swing thay vì phản ứng bóng.                           |
-+----------------------------------------------------------------+
+| forward swing thay vì phản ứng bóng. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 2: Đứng Thẳng Giữa Các Điểm**                     |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Tư duy: \'Giữa hai điểm không cần chuẩn bị.\' |
-| Thực tế: bạn cần 1.5--2 giây để từ đứng thẳng về tư thế sẵn    |
-| sàng.                                                          |
-|                                                                |
-| **Cách sửa:** Quy tắc: sau điểm kết thúc, đứng thẳng tối đa 3  |
-| giây rồi về athletic stance. Gối luôn hơi gập.                 |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 3: Split Chỉ Khi Trả Giao Bóng**                  |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Nhiều 3.5 hiểu split step như là kỹ thuật     |
-| return serve. Thực tế split phải xảy ra sau MỌI cú đánh của    |
-| đối thủ.                                                       |
-|                                                                |
-| **Cách sửa:** Trigger cứng: \'Đối thủ vung vợt = ta nhún.\'    |
-| Không ngoại lệ theo loại shot.                                 |
-+----------------------------------------------------------------+
+| **⚠ LỖI: Lỗi 2: Đứng Thẳng Giữa Các Điểm** |
+| --- |
+| **Nguyên nhân:** Tư duy: 'Giữa hai điểm không cần chuẩn bị.' |
+| Thực tế: bạn cần 1.5--2 giây để từ đứng thẳng về tư thế sẵn |
+| sàng. |
+|  |
+| **Cách sửa:** Quy tắc: sau điểm kết thúc, đứng thẳng tối đa 3 |
+| giây rồi về athletic stance. Gối luôn hơi gập. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 4: Bỏ Split Khi Bị Áp Lực**                       |
-+----------------------------------------------------------------+
+
+| **⚠ LỖI: Lỗi 3: Split Chỉ Khi Trả Giao Bóng** |
+| --- |
+| **Nguyên nhân:** Nhiều 3.5 hiểu split step như là kỹ thuật |
+| return serve. Thực tế split phải xảy ra sau MỌI cú đánh của |
+| đối thủ. |
+|  |
+| **Cách sửa:** Trigger cứng: 'Đối thủ vung vợt = ta nhún.' |
+| Không ngoại lệ theo loại shot. |
+
+
+| **⚠ LỖI: Lỗi 4: Bỏ Split Khi Bị Áp Lực** |
+| --- |
 | **Nguyên nhân:** Kỹ năng chưa được tự động hóa sẽ biến mất đầu |
-| tiên dưới áp lực --- đây là hiện tượng tâm lý bình thường.     |
-|                                                                |
+| tiên dưới áp lực --- đây là hiện tượng tâm lý bình thường. |
+|  |
 | **Cách sửa:** Pressure Point Drill (Chương 9, Tuần 7-8). Luyện |
-| split trong điều kiện áp lực nhân tạo.                         |
-+----------------------------------------------------------------+
+| split trong điều kiện áp lực nhân tạo. |
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 5: Không Recovery Split**                         |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Đánh xong bóng rồi đứng nhìn. Đây là thói     |
-| quen của người mới bắt đầu và cần phá vỡ có ý thức.            |
-|                                                                |
-| **Cách sửa:** Quy tắc: vợt follow-through xong = chân bắt đầu  |
-| về giữa sân. Không bao giờ đứng nhìn bóng.                     |
-+----------------------------------------------------------------+
 
-+----------------------------------------------------------------+
-| **⚠ LỖI: Lỗi 6: Nhảy Quá Cao Khi Hào Hứng**                    |
-+----------------------------------------------------------------+
-| **Nguyên nhân:** Trong tình huống quan trọng, người chơi nhảy  |
-| to hơn --- nghĩ rằng sẽ sẵn sàng hơn. Thực tế ngược lại.       |
-|                                                                |
-| **Cách sửa:** Tự nói \'nhỏ thôi\' trước mỗi split trong match. |
-| Nhắc nhở ý thức khi cảm xúc cao.                               |
-+----------------------------------------------------------------+
+| **⚠ LỖI: Lỗi 5: Không Recovery Split** |
+| --- |
+| **Nguyên nhân:** Đánh xong bóng rồi đứng nhìn. Đây là thói |
+| quen của người mới bắt đầu và cần phá vỡ có ý thức. |
+|  |
+| **Cách sửa:** Quy tắc: vợt follow-through xong = chân bắt đầu |
+| về giữa sân. Không bao giờ đứng nhìn bóng. |
+
+
+| **⚠ LỖI: Lỗi 6: Nhảy Quá Cao Khi Hào Hứng** |
+| --- |
+| **Nguyên nhân:** Trong tình huống quan trọng, người chơi nhảy |
+| to hơn --- nghĩ rằng sẽ sẵn sàng hơn. Thực tế ngược lại. |
+|  |
+| **Cách sửa:** Tự nói 'nhỏ thôi' trước mỗi split trong match. |
+| Nhắc nhở ý thức khi cảm xúc cao. |
+
 
 **10.3 4.0 vs 3.5 --- Footwork Differences**
 
@@ -1488,21 +1410,21 @@ Con Đường Từ 3.5 Lên 4.0
 
 Khi bạn bắt đầu đọc cuốn sách này, split step là một kỹ thuật. Khi bạn
 hoàn thành 8 tuần, split step nên là hành động không có tên gọi ---
-giống như hơi thở. Bạn không nghĩ \'tôi cần hít vào\' --- bạn chỉ thở.
+giống như hơi thở. Bạn không nghĩ 'tôi cần hít vào' --- bạn chỉ thở.
 
 Mục tiêu của mọi kỹ thuật thể thao đích thực là biến mất khỏi ý thức của
 bạn. Split step hoàn hảo là split step mà không ai thấy --- kể cả bạn.
-Người xem chỉ thấy bạn \'luôn có mặt đúng lúc\'. Người chơi cảm thấy
-bóng có vẻ \'chậm hơn\'. Và đó chính xác là những gì Federer, Djokovic,
+Người xem chỉ thấy bạn 'luôn có mặt đúng lúc'. Người chơi cảm thấy
+bóng có vẻ 'chậm hơn'. Và đó chính xác là những gì Federer, Djokovic,
 Sinner và Alcaraz đang làm mỗi ngày.
 
-+----------------------------------------------------------------+
-| \"Footwork is the foundation of everything in tennis. And the  |
-| split step is the heartbeat of footwork. Miss the heartbeat,   |
-| miss the game.\"                                               |
-|                                                                |
-| **--- Nick Bollettieri, IMGA**                                 |
-+----------------------------------------------------------------+
+| \"Footwork is the foundation of everything in tennis. And the |
+| --- |
+| split step is the heartbeat of footwork. Miss the heartbeat, |
+| miss the game.\" |
+|  |
+| **--- Nick Bollettieri, IMGA** |
+
 
   ----------------------------------------------------------------
   **CAM KẾT CỦA BẠN**
@@ -1522,24 +1444,18 @@ Sinner và Alcaraz đang làm mỗi ngày.
   bắt đầu: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
   ----------------------------------------------------------------
 
-+---------------------------------+------------------------------------------------------------+
-| **CUE BOX --- MASTER CUES --- TẤT CẢ TRONG MỘT**                                             |
-+---------------------------------+------------------------------------------------------------+
-| **1**                           | \'Split trước contact, không phải sau.\' Cue số 1 --- nếu  |
-|                                 | chỉ nhớ được một thứ, nhớ cái này.                         |
-+---------------------------------+------------------------------------------------------------+
-| **2**                           | \'Nhỏ, thấp, rộng.\' Ba từ mô tả split step hoàn hảo. Nhỏ  |
-|                                 | (biên độ), thấp (trọng tâm), rộng (đế trụ).                |
-+---------------------------------+------------------------------------------------------------+
-| **3**                           | \'Mũi chân trước --- luôn luôn.\' Không thể thương lượng   |
-|                                 | với nguyên tắc này.                                        |
-+---------------------------------+------------------------------------------------------------+
-| **4**                           | \'Sau mỗi cú --- nhún.\' Recovery split sau mỗi cú đánh    |
-|                                 | của chính bạn. Không ngoại lệ.\',                          |
-+---------------------------------+------------------------------------------------------------+
-| **5**                           | \'Nhìn người --- split theo vợt.\' Mắt nhìn thân trên đối  |
-|                                 | thủ, split khi thấy vợt tăng tốc về trước.                 |
-+---------------------------------+------------------------------------------------------------+
-| **6**                           | \'Không suy nghĩ --- chỉ nhún.\' Mục tiêu cuối cùng: split |
-|                                 | step không cần ý thức can thiệp.                           |
-+---------------------------------+------------------------------------------------------------+
+| **CUE BOX --- MASTER CUES --- TẤT CẢ TRONG MỘT** |  |
+| --- | --- |
+| **1** | 'Split trước contact, không phải sau.' Cue số 1 --- nếu |
+|  | chỉ nhớ được một thứ, nhớ cái này. |
+| **2** | 'Nhỏ, thấp, rộng.' Ba từ mô tả split step hoàn hảo. Nhỏ |
+|  | (biên độ), thấp (trọng tâm), rộng (đế trụ). |
+| **3** | 'Mũi chân trước --- luôn luôn.' Không thể thương lượng |
+|  | với nguyên tắc này. |
+| **4** | 'Sau mỗi cú --- nhún.' Recovery split sau mỗi cú đánh |
+|  | của chính bạn. Không ngoại lệ.', |
+| **5** | 'Nhìn người --- split theo vợt.' Mắt nhìn thân trên đối |
+|  | thủ, split khi thấy vợt tăng tốc về trước. |
+| **6** | 'Không suy nghĩ --- chỉ nhún.' Mục tiêu cuối cùng: split |
+|  | step không cần ý thức can thiệp. |
+

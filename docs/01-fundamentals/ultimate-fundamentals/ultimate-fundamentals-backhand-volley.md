@@ -5,7 +5,7 @@ Backhand Volley**
 
 **John Yandell**
 
-Let\'s look at the true fundamentals on this gorgeous shot, using our
+Let's look at the true fundamentals on this gorgeous shot, using our
 incredible new high speed footage of the best players in the game. What
 is the actual grip on the backhand volley and how does it differ from
 the forehand? What are the two core positions in mastering the
@@ -22,8 +22,7 @@ class.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_ultimate-fundamentals-backhand-volley/media/image2.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_ultimate-fundamentals-backhand-volley/media/image2.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

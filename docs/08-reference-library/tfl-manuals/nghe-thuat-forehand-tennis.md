@@ -24,9 +24,9 @@ nắm bắt được.
 
 Cuốn sách này ra đời từ một loạt phân tích kỹ thuật chuyên sâu về
 forehand của sáu tay vợt hàng đầu thế giới: Andrey Rublev -- người được
-mệnh danh là \'cỗ máy ép thủy lực\' với sức mạnh gọn gàng và chính xác;
-João Fonseca -- ngôi sao trẻ người Brazil với cú đánh bùng nổ như \'dây
-thun dài\'; Jannik Sinner -- nhà vô địch người Ý với kỹ thuật \'roi da\'
+mệnh danh là 'cỗ máy ép thủy lực' với sức mạnh gọn gàng và chính xác;
+João Fonseca -- ngôi sao trẻ người Brazil với cú đánh bùng nổ như 'dây
+thun dài'; Jannik Sinner -- nhà vô địch người Ý với kỹ thuật 'roi da'
 độc đáo; Carlos Alcaraz -- tài năng Tây Ban Nha với sự linh hoạt và tốc
 độ đánh bóng vượt trội; Roger Federer -- huyền thoại với cú pre-stretch
 cổ tay được xem là kiệt tác kỹ thuật; và Novak Djokovic -- người thực
@@ -63,7 +63,7 @@ forehand tốt và một forehand xuất sắc có thể quyết định kết q
 một trận đấu.
 
 Nhưng điều gì tạo nên một forehand xuất sắc? Câu trả lời không đơn giản
-là \'vung mạnh hơn\' hay \'luyện tập nhiều hơn\'. Theo phân tích kỹ
+là 'vung mạnh hơn' hay 'luyện tập nhiều hơn'. Theo phân tích kỹ
 thuật chuyên sâu từ slow-motion footage của các tay vợt ATP, sức mạnh
 thực sự của forehand không đến từ cánh tay -- nó đến từ toàn bộ cơ thể
 hoạt động như một hệ thống thống nhất.
@@ -81,7 +81,7 @@ qua hoặc không chú trọng đúng mức. Tư thế chuẩn bị tốt là n�
 thực hiện mọi cú đánh với hiệu quả tối đa.
 
 Quan sát Andrey Rublev trong những video slow-motion tại Indian Wells,
-ta thấy anh luôn duy trì một \'athletic base\' cực kỳ vững chắc: chân mở
+ta thấy anh luôn duy trì một 'athletic base' cực kỳ vững chắc: chân mở
 rộng hơn vai, gối hạ thấp, trọng tâm cơ thể ở giữa và thấp. Đầu vợt được
 giữ ở giữa thân người, không hạ thấp sớm -- điều này cho phép anh xoay
 nhanh sang cả hai bên mà không mất thăng bằng. Đây không phải ngẫu
@@ -95,7 +95,7 @@ cân bằng trong suốt quá trình vung vợt và sau khi đánh bóng.
 ### Các Yếu Tố Cốt Lõi của Tư Thế Chuẩn Bị
 
 1.  Khoảng cách chân: Rộng hơn vai khoảng 1,5 đến 2 lần chiều rộng hông,
-    tạo \'base\' rộng và vững.
+    tạo 'base' rộng và vững.
 
 2.  Gối hơi gập: Không đứng thẳng, không ngồi xuống -- ở điểm giữa,
     chuẩn bị cho chuyển động bùng nổ.
@@ -113,14 +113,14 @@ Qua phân tích kỹ thuật của sáu tay vợt hàng đầu, chúng ta có th
 thấy hai trường phái rõ ràng trong forehand hiện đại, mặc dù cả hai đều
 chia sẻ một triết lý chung: lực đến từ cơ thể, không phải từ tay.
 
-Trường phái thứ nhất là \'Power through Stability\' (Sức mạnh qua Ổn
+Trường phái thứ nhất là 'Power through Stability' (Sức mạnh qua Ổn
 định), tiêu biểu là Rublev và ở mức độ nhất định là Djokovic. Đặc trưng
 của phong cách này là backswing gọn, cổ tay khóa chặt hơn, và sức mạnh
 đến chủ yếu từ xoay thân trên. Forehand kiểu này cực kỳ ổn định dưới áp
 lực và ít bị ảnh hưởng bởi timing -- lý tưởng cho người chơi muốn nhất
 quán và đánh early.
 
-Trường phái thứ hai là \'Power through Elasticity\' (Sức mạnh qua Đàn
+Trường phái thứ hai là 'Power through Elasticity' (Sức mạnh qua Đàn
 hồi), tiêu biểu là Alcaraz, Fonseca và Federer. Đặc trưng là cổ tay lỏng
 hơn, sử dụng cơ chế pre-stretch và racket lag, tốc độ đầu vợt cao hơn
 nhưng cũng đòi hỏi timing chính xác hơn. Forehand kiểu này có thể tạo ra
@@ -166,7 +166,7 @@ trì khả năng đánh flat hiệu quả. Sinner, Alcaraz và Rublev đều thi
 Semi-Western đến Western hơn, giải thích cho topspin nặng và bóng đi sâu
 đặc trưng của họ.
 
-Điều quan trọng cần hiểu là không có grip nào \'tốt nhất\' -- mỗi grip
+Điều quan trọng cần hiểu là không có grip nào 'tốt nhất' -- mỗi grip
 có ưu và nhược điểm riêng, và phù hợp với phong cách chơi khác nhau. Khi
 lựa chọn grip để học theo, hãy cân nhắc đến loại bề mặt bạn chơi nhiều
 nhất, tốc độ bóng bạn phải đối phó, và thể hình tự nhiên của mình.
@@ -212,10 +212,10 @@ thuần túy được truyền thẳng vào quả bóng.
 
 ### Chìa Khóa 1: Tư Thế Sẵn Sàng -- Athletic Base
 
-Rublev bắt đầu mỗi cú đánh từ một \'athletic base\' cực kỳ vững: chân mở
+Rublev bắt đầu mỗi cú đánh từ một 'athletic base' cực kỳ vững: chân mở
 rộng hơn vai, gối hạ thấp vừa phải, và đầu vợt giữ ở giữa thân người,
-hướng lên trên. Đây không phải tư thế tĩnh mà là tư thế \'ready to
-explode\' -- tất cả cơ bắp đều trong trạng thái căng nhẹ, sẵn sàng hành
+hướng lên trên. Đây không phải tư thế tĩnh mà là tư thế 'ready to
+explode' -- tất cả cơ bắp đều trong trạng thái căng nhẹ, sẵn sàng hành
 động ngay lập tức.
 
 Điều quan trọng là Rublev không hạ thấp đầu vợt sớm -- đây là lỗi phổ
@@ -248,15 +248,15 @@ stretch-shortening cycle.
 
 Trong khi vai xoay, tay trái của Rublev duỗi thẳng song song với
 baseline. Đây không chỉ là động tác thẩm mỹ -- tay trái đóng vai trò như
-\'thước đo khoảng cách\', ngăn anh lao người quá gần vào bóng và mất
+'thước đo khoảng cách', ngăn anh lao người quá gần vào bóng và mất
 không gian đánh. Khoảng cách đúng với bóng là yếu tố quyết định chất
 lượng của điểm chạm.
 
-### Chìa Khóa 4: Rơi Vợt Vào \'Slot\'
+### Chìa Khóa 4: Rơi Vợt Vào 'Slot'
 
 Từ vị trí đỉnh của backswing (cao), vợt rơi xuống thấp phía sau -- đầu
-vợt chúc xuống, tạo ra cái gọi là \'drop into the slot\'. Đúng lúc này,
-chân bắt đầu đạp lên và cơ thể \'uncoil\' từ dưới lên trên.
+vợt chúc xuống, tạo ra cái gọi là 'drop into the slot'. Đúng lúc này,
+chân bắt đầu đạp lên và cơ thể 'uncoil' từ dưới lên trên.
 
 Điểm nhận diện quan trọng nhất trong giai đoạn này: butt cap (chuôi vợt)
 hướng thẳng về điểm tiếp xúc dự kiến. Đây là dấu hiệu rõ ràng nhất cho
@@ -284,8 +284,8 @@ rất rộng với cánh tay gần như duỗi thẳng, mắt khóa chặt vào 
 xúc với đầu giữ yên, và vai-hông gần như vuông góc với lưới tại thời
 điểm impact -- anh chưa mở bung sớm.
 
-Việc giữ đầu yên và mắt tập trung vào điểm chạm không phải chỉ để \'nhìn
-thấy bóng tốt hơn\'. Về mặt sinh cơ học, khi đầu giữ yên, cột sống ổn
+Việc giữ đầu yên và mắt tập trung vào điểm chạm không phải chỉ để 'nhìn
+thấy bóng tốt hơn'. Về mặt sinh cơ học, khi đầu giữ yên, cột sống ổn
 định hơn, và toàn bộ kinetic chain truyền lực hiệu quả hơn. Một cái đầu
 dao động có thể làm lệch đường bóng đến 10-15 cm ở tầm xa.
 
@@ -293,13 +293,13 @@ dao động có thể làm lệch đường bóng đến 10-15 cm ở tầm xa.
 
 Đây là điểm phân biệt Rublev với nhiều tay vợt phong trào: sau khi chạm
 bóng, anh tiếp tục đẩy vợt dài về phía mục tiêu -- tạo ra cái gọi là
-\'long hitting zone\'. Anh không giật vợt lên ngay sau chạm bóng, mà
+'long hitting zone'. Anh không giật vợt lên ngay sau chạm bóng, mà
 hoàn thành gần hết quỹ đạo vung rồi mới thả lỏng thân trên cho phép xoay
 tự do.
 
 Việc giữ thân lại đến cuối giúp đường bóng ổn định vì cơ thể không bị
-kéo lệch bởi động tác xoay người quá sớm. Đây là kỹ thuật \'delayed
-rotation\' -- xoay người muộn hơn một chút để duy trì ổn định qua
+kéo lệch bởi động tác xoay người quá sớm. Đây là kỹ thuật 'delayed
+rotation' -- xoay người muộn hơn một chút để duy trì ổn định qua
 hitting zone. Nó đặc biệt hữu ích khi đánh những bóng tầm thấp hoặc khi
 phải đánh vội.
 
@@ -346,8 +346,8 @@ thường của tay vợt này.
 Nhưng điều thú vị hơn là kỹ thuật của Fonseca không phải ngẫu nhiên hay
 chỉ nhờ năng khiếu trời cho. Phân tích slow-motion footage từ Melbourne
 cho thấy cậu thực hiện rất có hệ thống những nguyên tắc kỹ thuật hiện
-đại nhất, đặc biệt là \'kinetic chain transfer, early contact, leg
-engagement\' -- đúng những gì các HLV hàng đầu thế giới hiện đang giảng
+đại nhất, đặc biệt là 'kinetic chain transfer, early contact, leg
+engagement' -- đúng những gì các HLV hàng đầu thế giới hiện đang giảng
 dạy.
 
 ## 3.2 Triết Lý Dây Thun Dài
@@ -358,7 +358,7 @@ căng (loop cao, cú thả vợt rơi dài) rồi bung ra với lực kinh khủ
 chân và hông ném vào bóng. Forehand này đặc biệt hiệu quả khi có thời
 gian chuẩn bị và muốn kết hợp giữa bóng nặng và xoáy mạnh.
 
-Điểm then chốt của triết lý này là \'dây thun dài\' chỉ có tác dụng nếu
+Điểm then chốt của triết lý này là 'dây thun dài' chỉ có tác dụng nếu
 được kéo căng đúng cách. Fonseca thực hiện điều này bằng cách: loop cao
 ở backswing, thả vợt rơi tự do vào lag, và tích trữ lực xoắn tối đa
 trước khi bung ra. Đây là kỹ thuật đòi hỏi thả lỏng hoàn toàn -- điều mà
@@ -376,15 +376,15 @@ quát của forehand hiện đại chứ không phải đặc trưng cá nhân.
   quán và tích trữ xoắn tối đa.
 
 - Coil vai qua hông: Cả hai đều tạo độ xoắn ở thân để tích năng lượng,
-  không phải vung tay. Vai xoay vượt qua hông để tạo ra \'shoulder over
-  hip\' -- chìa khóa của topspin nặng.
+  không phải vung tay. Vai xoay vượt qua hông để tạo ra 'shoulder over
+  hip' -- chìa khóa của topspin nặng.
 
 - Chân ngoài dẫn động: Rublev pivot chân ngoài ở Indian Wells, Fonseca
   pivot chân phải ở Melbourne để khởi động xoay hông -- cùng một nguyên
   lý, hai cách thực hiện.
 
 - Xuyên bóng: Cả hai đều đẩy tay về phía trước qua điểm chạm, tạo cú
-  đánh \'penetrating\' chứ không chỉ brush tạo xoáy. Đây là bí mật khiến
+  đánh 'penetrating' chứ không chỉ brush tạo xoáy. Đây là bí mật khiến
   bóng của họ vừa xoáy vừa có lực xuyên.
 
 ## 3.4 Những Khác Biệt Quan Trọng
@@ -404,7 +404,7 @@ tốc độ đầu vợt cao hơn nhưng đòi hỏi timing chính xác hơn.
 ### Nguồn Lực Chính
 
 Rublev chủ yếu dùng xoay thân để tạo lực. Fonseca ngược lại, đẩy hông và
-chân vào bóng nhiều hơn -- theo nghĩa đen là \'ném\' cơ thể vào bóng
+chân vào bóng nhiều hơn -- theo nghĩa đen là 'ném' cơ thể vào bóng
 trong khoảnh khắc cuối. Điều này tạo ra bóng nặng hơn về topspin nhưng
 có thể khó kiểm soát chiều sâu hơn so với phong cách Rublev.
 
@@ -422,7 +422,7 @@ Fonseca là vô giá. Cậu chứng minh rằng sức mạnh của forehand có 
 từ chân và hông -- không cần phải có vai và cánh tay đặc biệt mạnh.
 
 > **▶ Bài tập thực hành:** Pivot chân ngoài trước khi unit turn. Giữ hai
-> tay trên vợt lâu hơn bình thường. Cảm giác để vợt \'rơi\' tự nhiên vào
+> tay trên vợt lâu hơn bình thường. Cảm giác để vợt 'rơi' tự nhiên vào
 > lag, rồi dùng chân phải đẩy hông vào. Không ép, không gồng -- chỉ cần
 > đúng thứ tự và thả lỏng đúng lúc.
 
@@ -457,7 +457,7 @@ bộ ATP) giữ đầu vợt dựng đứng ở power position, Sinner làm đi�
 lại.
 
 Ở power position của Sinner: đầu vợt chỉ sang phải sân, chuôi vợt chỉ
-sang trái, và mặt vợt gần như nằm ngang. Vợt đã bị \'lật ngang\' từ rất
+sang trái, và mặt vợt gần như nằm ngang. Vợt đã bị 'lật ngang' từ rất
 sớm trong quá trình chuẩn bị. Điều này có nghĩa là gì về mặt vật lý?
 Sinner có thêm một khoảng trống lớn để thực hiện racket flip -- xoay đầu
 vợt từ nằm ngang sang dựng đứng ngay trước khi chạm bóng. Cú xoay này
@@ -512,7 +512,7 @@ hiệu quả:
 Rất thẳng thắn: forehand kiểu Sinner là kỹ thuật khó nhất trong ba
 trường phái chúng ta phân tích, và không phù hợp với đa số người chơi
 phong trào. Nó đòi hỏi thả lỏng cổ tay hoàn hảo (nếu không sẽ thành
-\'vẩy\' bóng thiếu kiểm soát), timing cực kỳ chính xác của cú flip, và
+'vẩy' bóng thiếu kiểm soát), timing cực kỳ chính xác của cú flip, và
 nền tảng kỹ thuật vững về chân-hông-vai.
 
 Chỉ nên thử forehand kiểu Sinner khi bạn đã làm chủ được kinetic chain
@@ -541,7 +541,7 @@ phải phòng thủ bị động.
 
 ## 5.2 WHIP Effect -- Vũ Khí Bí Mật
 
-Trung tâm của forehand Alcaraz là \'WHIP effect\' -- cơ chế tạo tốc độ
+Trung tâm của forehand Alcaraz là 'WHIP effect' -- cơ chế tạo tốc độ
 đầu vợt thông qua sự kết hợp của compact backswing, core cuộn mạnh, và
 late release technique. Đây không phải thuật ngữ marketing mà là mô tả
 chính xác về mặt sinh cơ học.
@@ -550,7 +550,7 @@ Cơ chế hoạt động như sau: Alcaraz sử dụng backswing rất compact (
 hơn hầu hết tay vợt top 10), sau đó core (cơ thân) cuộn lại như lò xo
 nén. Khi bung ra, core xoay trước và tạo ra một cú kéo mạnh lên cánh
 tay. Cánh tay được kéo theo nhưng vợt vẫn lag phía sau vì quán tính.
-Ngay trước khi chạm bóng, \'late release technique\' bung cổ tay và cẳng
+Ngay trước khi chạm bóng, 'late release technique' bung cổ tay và cẳng
 tay, kéo giãn và ngay lập tức co lại cơ cẳng tay, tạo ra gia tốc đột
 ngột của đầu vợt.
 
@@ -567,13 +567,13 @@ hông) trong cùng một chuyển động.
 
 Điểm đặc biệt dễ nhận ra của Alcaraz: khuỷu tay phải đưa cao ngang vai,
 tách xa thân. Không như người chơi phong trào hay ép khuỷu vào sườn,
-khuỷu tay cao của Alcaraz tạo ra \'Elbow lead\' -- khuỷu tay dẫn trước
+khuỷu tay cao của Alcaraz tạo ra 'Elbow lead' -- khuỷu tay dẫn trước
 cổ tay, cho phép vợt lag sâu hơn và tạo gia tốc muộn hơn.
 
 ### 3. Đầu Vợt Nghiêng Nhẹ Trước
 
 Ở cuối takeback, đầu vợt của Alcaraz không dựng thẳng đứng mà nghiêng
-nhẹ về phía lưới. Chính góc này tạo ra \'độ treo\' để vợt rơi vào lag tự
+nhẹ về phía lưới. Chính góc này tạo ra 'độ treo' để vợt rơi vào lag tự
 nhiên. Đây là chi tiết kỹ thuật tinh tế nhưng quan trọng -- nó không cần
 cổ tay phải tích cực tạo lag, mà để trọng lực làm việc.
 
@@ -588,7 +588,7 @@ chứ không phải kéo tay.
 ### 5. Cánh Tay Duỗi Thẳng Tại Điểm Chạm
 
 Ngay trước khi chạm bóng, cánh tay Alcaraz gần như duỗi thẳng hoàn toàn,
-vợt đi xa người chứ không kéo vào. Đây là \'extended arm contact\' --
+vợt đi xa người chứ không kéo vào. Đây là 'extended arm contact' --
 khoảng cách tối ưu giữa thân và điểm chạm bóng. Cú đánh ở khoảng cách
 này mạnh nhất vì đòn bẩy tối đa, và chính xác nhất vì cổ tay ít biến
 động nhất.
@@ -638,10 +638,10 @@ Nghệ thuật tích trữ đàn hồi và kinh điển vĩnh cửu
 
 Roger Federer đã giải nghệ nhưng di sản kỹ thuật của anh vẫn còn được
 nghiên cứu và giảng dạy rộng rãi trên toàn thế giới. Forehand của
-Federer từng được mệnh danh là \'cú đánh đẹp nhất trong lịch sử tennis\'
+Federer từng được mệnh danh là 'cú đánh đẹp nhất trong lịch sử tennis'
 -- không chỉ vì thẩm mỹ mà còn vì hiệu quả kỹ thuật thuần túy.
 
-Điều thú vị là forehand Federer không \'hiện đại\' theo nghĩa của
+Điều thú vị là forehand Federer không 'hiện đại' theo nghĩa của
 Alcaraz hay Fonseca -- anh sử dụng grip Eastern tương đối nhẹ, và không
 tạo topspin cực nặng như các tay vợt trẻ. Nhưng anh lại có một kỹ thuật
 tạo gia tốc đầu vợt mà cho đến nay vẫn là một trong những hiệu quả nhất:
@@ -651,7 +651,7 @@ cơ chế pre-stretch cổ tay.
 
 Kỹ thuật đặc trưng của Federer: ở cuối takeback, đầu vợt chỉ sang phải.
 Khi tay đánh bắt đầu đi tới, mũi vợt được lật sang trái, ra sau lưng.
-Động tác \'lật mũi vợt\' này kéo giãn cơ cẳng tay -- cụ thể là cơ
+Động tác 'lật mũi vợt' này kéo giãn cơ cẳng tay -- cụ thể là cơ
 supinator và những cơ liên quan đến pronation. Rồi ngay trước khi chạm
 bóng, những cơ này bung ra trong một cú pronation nhanh chóng, tạo gia
 tốc đầu vợt vượt trội.
@@ -660,14 +660,14 @@ Về mặt sinh lý học, cơ chế này gọi là stretch-shortening cycle (SS
 dụng vào cẳng tay. Khi cơ được kéo giãn nhanh rồi ngay lập tức co lại,
 nó tạo ra lực lớn hơn nhiều so với co từ trạng thái tĩnh. Đây là cùng
 nguyên lý giải thích vì sao vận động viên chạy nước rút luôn có giai
-đoạn \'nảy\' đất trước khi bứt tốc.
+đoạn 'nảy' đất trước khi bứt tốc.
 
 ## 6.3 So Sánh Với Các Tay Vợt Khác
 
 ### Federer vs. Rublev
 
 Rublev khóa cổ tay, dùng thân xoay để đẩy vợt thẳng vào bóng. Federer
-làm ngược lại: để cổ tay lỏng, cho đầu vợt \'vẽ\' một vòng từ phải sang
+làm ngược lại: để cổ tay lỏng, cho đầu vợt 'vẽ' một vòng từ phải sang
 trái sau lưng. Mục tiêu không phải ổn định, mà là tích trữ độ đàn hồi.
 Kết quả: forehand Rublev mạnh và ổn định hơn, forehand Federer có gia
 tốc cuối hành trình lớn hơn.
@@ -683,7 +683,7 @@ vợt ngang. Cú vung của Federer gọn và phẳng hơn, ít nhảy hơn Alca
 
 Sinner lật vợt nằm ngang ngay từ power position để tạo lag. Federer
 không lật ngang sớm -- anh giữ mặt vợt đóng, chỉ xoay đầu vợt quanh trục
-cổ tay vào phút cuối. Kết quả là cú whip của Federer mượt hơn, ít \'bẻ\'
+cổ tay vào phút cuối. Kết quả là cú whip của Federer mượt hơn, ít 'bẻ'
 cổ tay hơn Sinner, và dễ nhân bản hơn cho người chơi phong trào.
 
 ## 6.4 Grip Eastern -- Lựa Chọn Cổ Điển
@@ -706,7 +706,7 @@ chuyển động nhỏ: ở cuối takeback, để đầu vợt chỉ sang phả
 vung tới, chủ động để đầu vợt rơi ra sau lưng, chỉ sang trái. Giữ tay
 thả lỏng, đừng siết cán.
 
-Cảm giác lý tưởng là như đang \'vắt\' cẳng tay -- một cảm giác kỳ lạ lúc
+Cảm giác lý tưởng là như đang 'vắt' cẳng tay -- một cảm giác kỳ lạ lúc
 đầu nhưng sẽ quen dần sau vài buổi luyện tập chuyên dụng. Một khi cảm
 nhận được cú pronation đúng lúc, bạn sẽ thấy bóng đi nhanh hơn mà không
 cần vung mạnh hơn -- đó chính là magic của pre-stretch.
@@ -723,14 +723,14 @@ cần vung mạnh hơn -- đó chính là magic của pre-stretch.
 ## 7.1 Không Phải Đẹp Nhất, Mà Là Hiệu Quả Nhất
 
 Khi nói về Novak Djokovic, điều đầu tiên cần nhấn mạnh là forehand của
-anh không phải \'đẹp nhất\' hay \'mạnh nhất\' trong số sáu tay vợt chúng
+anh không phải 'đẹp nhất' hay 'mạnh nhất' trong số sáu tay vợt chúng
 ta phân tích. Nó không có sức bùng nổ của Alcaraz, không có tính thẩm mỹ
 của Federer, và không có sự gọn gàng cực đoan của Rublev. Nhưng nó là
 forehand được sử dụng để giành 24 danh hiệu Grand Slam -- nhiều hơn bất
 kỳ tay vợt nào trong lịch sử.
 
 Bí mật của Djokovic là gì? Thực dụng kỹ thuật. Anh thực hiện kinetic
-chain một cách hoàn hảo nhưng theo cách \'tiết kiệm\' -- biên độ nhỏ
+chain một cách hoàn hảo nhưng theo cách 'tiết kiệm' -- biên độ nhỏ
 hơn, nhịp nhanh hơn, ổn định cao hơn. Mục tiêu của Djokovic không phải
 là winner -- mà là buộc đối thủ mắc lỗi sau 20-30 cú rally.
 
@@ -738,8 +738,8 @@ là winner -- mà là buộc đối thủ mắc lỗi sau 20-30 cú rally.
 
 Djokovic dùng grip ¾ Western, semi-open stance, và cuộn người sớm. Điểm
 mạnh theo phân tích kỹ thuật là topspin, thăng bằng và chuyển động đầu
-vợt rất nhanh. \'Compact turn, early shoulder rotation, and relaxed
-wrist allow natural racket drop and timing-driven acceleration\' --
+vợt rất nhanh. 'Compact turn, early shoulder rotation, and relaxed
+wrist allow natural racket drop and timing-driven acceleration' --
 không phải sức mạnh cơ bắp mà là timing dẫn dắt gia tốc.
 
 ### Chân -- Nền Tảng Thấp và Ngang
@@ -751,7 +751,7 @@ này cho phép anh phục hồi vị trí nhanh hơn sau mỗi cú đánh.
 
 ### Hông -- Xoay Gọn và Kiểm Soát
 
-Hông Djokovic xoay sớm và gọn. Anh không \'quăng\' hông ra trước như
+Hông Djokovic xoay sớm và gọn. Anh không 'quăng' hông ra trước như
 trong video kinetic chain minh họa, mà xoay trục quanh cột sống để giữ
 thăng bằng cho cú đánh tiếp theo. Đây là sự khác biệt căn bản giữa
 Djokovic (tối ưu cho rally) và Alcaraz (tối ưu cho winner).
@@ -761,19 +761,19 @@ Djokovic (tối ưu cho rally) và Alcaraz (tối ưu cho winner).
 Ở Alcaraz và video kinetic chain minh họa, từng đoạn thân dưới, ngực,
 vai được đánh dấu riêng với chuyển động lớn và bùng nổ. Djokovic ngược
 lại: chuỗi này gần như liền mạch, không có khoảng dừng. Vai xoay sớm
-ngay khi chân chạm đất, nên lực truyền mượt hơn, ít thấy \'giật\' từng
+ngay khi chân chạm đất, nên lực truyền mượt hơn, ít thấy 'giật' từng
 khúc.
 
 ### Cổ Tay -- Timing Thay Cho Sức Mạnh
 
 Djokovic thả lỏng cổ tay nhưng kiểm soát, không để vợt lag quá sâu. Anh
 dùng timing để tăng tốc đầu vợt, không dựa vào độ văng tối đa. Đây là lý
-do forehand Djokovic nhìn \'nhẹ\' nhưng bóng đi nặng và sâu -- tốc độ
+do forehand Djokovic nhìn 'nhẹ' nhưng bóng đi nặng và sâu -- tốc độ
 đầu vợt đến từ timing chính xác chứ không phải biên độ.
 
 ## 7.3 Triết Lý Của Sự Nhất Quán
 
-Djokovic cho thấy kinetic chain \'thực dụng\' khi phải đánh 25 cú liên
+Djokovic cho thấy kinetic chain 'thực dụng' khi phải đánh 25 cú liên
 tiếp mà không mất thăng bằng. Đây là điểm mà đa số người chơi phong trào
 hay bỏ qua: kỹ thuật tốt nhất không phải là tạo ra cú đánh mạnh nhất
 trong điều kiện lý tưởng, mà là duy trì chất lượng ổn định trong điều
@@ -845,8 +845,8 @@ Nhưng trong cùng một triết lý, sáu người chọn những ưu tiên kh�
 
 ## 8.3 Ma Trận Học Chéo
 
-Điều thú vị nhất khi so sánh sáu phong cách là ta có thể tạo ra \'ma
-trận học chéo\' -- lấy một yếu tố cụ thể từ mỗi người và kết hợp vào
+Điều thú vị nhất khi so sánh sáu phong cách là ta có thể tạo ra 'ma
+trận học chéo' -- lấy một yếu tố cụ thể từ mỗi người và kết hợp vào
 forehand của mình. Đây là cách các HLV hàng đầu thế giới thực sự dạy --
 không sao chép một người 100%, mà chắt lọc tinh hoa từ nhiều nguồn.
 
@@ -874,7 +874,7 @@ không sao chép một người 100%, mà chắt lọc tinh hoa từ nhiều ngu
 
 Học tay trái spacer của Rublev. Giữ tay trái duỗi thẳng song song
 baseline trong suốt quá trình chuẩn bị và đầu giai đoạn vung. Cảm giác
-tay trái đang \'chặn\' bạn không lao vào bóng quá gần. Đây là sửa chữa
+tay trái đang 'chặn' bạn không lao vào bóng quá gần. Đây là sửa chữa
 nhanh và hiệu quả nhất cho vấn đề này.
 
 ### Nếu Forehand Thiếu Lực
@@ -928,7 +928,7 @@ duy trì kiểm soát hướng và xoáy.
 
 Vợt tennis khi vung theo đường tròn tạo ra động lượng góc. Càng xa trục
 xoay (thân người) và tốc độ góc càng lớn, động năng tại đầu vợt càng
-cao. Đây là lý do kỹ thuật \'extend arm\' (duỗi tay) tại điểm chạm quan
+cao. Đây là lý do kỹ thuật 'extend arm' (duỗi tay) tại điểm chạm quan
 trọng đến vậy -- nó tăng khoảng cách từ trục xoay đến đầu vợt.
 
 ### Stretch-Shortening Cycle (SSC)
@@ -954,24 +954,24 @@ cao hơn cần cổ tay linh hoạt hơn và grip nặng hơn.
 
 ## 9.2 Sinh Cơ Học Của Chuỗi Kinetic
 
-Kinetic chain hoạt động theo nguyên lý \'proximal-to-distal sequencing\'
+Kinetic chain hoạt động theo nguyên lý 'proximal-to-distal sequencing'
 -- các đoạn cơ thể gần trung tâm (hông, thân) khởi động trước và đạt tốc
 độ đỉnh trước, rồi chuyển giao năng lượng cho các đoạn xa hơn (vai, cánh
 tay, cổ tay). Vào thời điểm đầu vợt chạm bóng, hông và thân đã chậm lại
-trong khi cổ tay và đầu vợt đang tăng tốc -- đây là cơ chế \'whip\' về
+trong khi cổ tay và đầu vợt đang tăng tốc -- đây là cơ chế 'whip' về
 mặt sinh học.
 
 Nghiên cứu sinh cơ học cho thấy sự chênh lệch timing giữa các đoạn
 kinetic chain là yếu tố quyết định tốc độ đầu vợt. Nếu mọi đoạn khởi
 động cùng lúc, năng lượng bị phân tán. Nếu đúng thứ tự, năng lượng được
-\'chồng chất\' -- mỗi đoạn sau được hưởng lợi từ vận tốc của đoạn trước.
+'chồng chất' -- mỗi đoạn sau được hưởng lợi từ vận tốc của đoạn trước.
 
 ## 9.3 Tâm Lý Học Của Forehand Ổn Định
 
 Không thể nói đến forehand mà bỏ qua yếu tố tâm lý. Nhiều người chơi có
-kỹ thuật forehand tốt trong luyện tập nhưng lại \'sập\' trong thi đấu
+kỹ thuật forehand tốt trong luyện tập nhưng lại 'sập' trong thi đấu
 thực tế. Điều này không phải vì kỹ thuật của họ tệ, mà vì họ chưa xây
-dựng được \'process focus\' -- tập trung vào quy trình thay vì kết quả.
+dựng được 'process focus' -- tập trung vào quy trình thay vì kết quả.
 
 Djokovic là ví dụ tốt nhất về tâm lý forehand ổn định. Anh không cố gắng
 đánh winner với mỗi cú forehand -- anh cố gắng thực hiện kinetic chain
@@ -1000,8 +1000,8 @@ chơi dùng cổ tay và cánh tay quá nhiều thay vì toàn thân.
 
 Forehand đúng kỹ thuật (kinetic chain từ chân lên) phân phối tải trọng
 đều cho toàn bộ cơ thể, giảm áp lực lên khuỷu tay và cổ tay. Rublev đã
-nói thẳng điều này: \'Năng lượng đến từ xoay thân, không phải từ cánh
-tay → bền và ít chấn thương.\' Đây không phải chỉ lý thuyết -- đây là
+nói thẳng điều này: 'Năng lượng đến từ xoay thân, không phải từ cánh
+tay → bền và ít chấn thương.' Đây không phải chỉ lý thuyết -- đây là
 nguyên lý bảo vệ sức khỏe thực tiễn.
 
 ## 9.5 Công Nghệ Hỗ Trợ Phân Tích Kỹ Thuật
@@ -1143,7 +1143,7 @@ thù:
   sợ thực sự.
 
 - Thi đấu thực tế: không có bài kiểm tra nào tốt hơn thi đấu. Mang kỹ
-  thuật ra sân đấu thực tế và quan sát xem những gì \'sống sót\' được
+  thuật ra sân đấu thực tế và quan sát xem những gì 'sống sót' được
   dưới áp lực.
 
 ## 10.4 Bài Tập Đặc Biệt Theo Mỗi Vấn Đề
@@ -1184,8 +1184,8 @@ muốn nhắn gửi không phải là kỹ thuật cụ thể nào -- mà là t�
 có điểm kết thúc. Federer vẫn đang tinh chỉnh forehand ở tuổi 40,
 Djokovic vẫn tập shadow swing mỗi ngày dù đã có 24 Grand Slam.
 
-Mỗi tay vợt chúng ta phân tích trong cuốn sách này đều có \'câu chuyện
-forehand\' riêng -- hành trình từ người mới bắt đầu đến đỉnh cao thế
+Mỗi tay vợt chúng ta phân tích trong cuốn sách này đều có 'câu chuyện
+forehand' riêng -- hành trình từ người mới bắt đầu đến đỉnh cao thế
 giới. Câu chuyện đó không bao giờ là đường thẳng đi lên -- nó có những
 giai đoạn plateau, những thất bại kỹ thuật, những cú đánh xấu trong
 những trận đấu quan trọng. Điều phân biệt họ với người chơi bình thường
@@ -1233,7 +1233,7 @@ Rublev, Fonseca, Sinner, Alcaraz, Federer, Djokovic -- tất cả đều bắt
 - ATP Analytics -- Forehand quality metrics Argentina Open (Fonseca,
   9.8/10)
 
-- Tennis.com -- \'Powerful forehand begins with his feet\' (Alcaraz, US
+- Tennis.com -- 'Powerful forehand begins with his feet' (Alcaraz, US
   Open 2021)
 
 - Melbourne footage analysis -- João Fonseca forehand breakdown

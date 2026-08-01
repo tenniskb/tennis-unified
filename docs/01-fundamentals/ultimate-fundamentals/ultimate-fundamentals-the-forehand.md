@@ -10,7 +10,7 @@ something we have spent the last decade studying on Tennisplayer! But
 pro players still provide the ultimate models for fundamentals.
 
 In this new series we address these foundational elements in the strokes
-of the world's best players. To do this we\'ll drill down to the core
+of the world's best players. To do this we'll drill down to the core
 commonalities, the small number basic positions and motions that
 underlie the diversities, apparent and real.
 

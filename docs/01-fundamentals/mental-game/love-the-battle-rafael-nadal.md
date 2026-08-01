@@ -6,10 +6,9 @@
 
 ![A couple of people kissing on a tennis court Description automatically
 generated with medium
-confidence](media_love-the-battle-rafael-nadal/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image1.webp)
 
-**Flamboyance isn\'t the most important thing that separates Rafael
+**Flamboyance isn't the most important thing that separates Rafael
 Nadal from other competitors.**
 
 When you watched the 2008 Wimbledon final, did you sense, as did so many
@@ -25,7 +24,7 @@ competitive results.
 **Professional Acting**
 
 How does this work? I believe that successful competitors in tennis are
-really in the fullest sense professional actors and actresses. There\'s
+really in the fullest sense professional actors and actresses. There's
 really no difference between what a Julia Roberts or a Jack Nicholson or
 any really great actor in Hollywood is able to do and what great
 professional tennis players do. This is to summon emotions they need to
@@ -34,16 +33,15 @@ example.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_love-the-battle-rafael-nadal/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image2.webp)
 
 **Can you tell which point Nadal won and which he lost?**
 
-It\'s not just the flamboyant things Nadal does: jumping up and down
+It's not just the flamboyant things Nadal does: jumping up and down
 during the coin toss, the zig zag sprint to baseline for the warm up,
 pumping his fist after a pressure shot.
 
-**[[It\'s also the way he conducts himself throughout the course of the
+**[[It's also the way he conducts himself throughout the course of the
 match in every detail.]{.underline}]{.mark}** His extremely precise
 rituals. The way he controls the pace of the match. The way he maintains
 the same demeanor and body language whether he has won or lost the last
@@ -64,8 +62,7 @@ observing his body language.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_love-the-battle-rafael-nadal/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image3.webp)
 
 **Even elite players can be prone to negative displays.**
 
@@ -73,7 +70,7 @@ height="2.5in"}
 
 My question to you is this: how often do you follow this same kind of
 script? If I watched you play, would I see you act out the script
-regardless of how you\'re feeling? Regardless of your position in the
+regardless of how you're feeling? Regardless of your position in the
 match? Do you even have a script you are trying to follow?
 
 We call this side of your behavior your performer self. What kind of
@@ -84,11 +81,11 @@ naturally flow. ([[Click
 Here]{.underline}](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
 
 Performer skills often require that you move away from how you really
-feel. Maybe you have no confidence. You really feel tired. You\'ve got a
+feel. Maybe you have no confidence. You really feel tired. You've got a
 headache. You just played one match and now you have to play another
-one. You\'ve just traveled how many time zones? You didn\'t get good
-rest last night. You\'ve gotten into a fight with your spouse. You
-don\'t feel like competing.
+one. You've just traveled how many time zones? You didn't get good
+rest last night. You've gotten into a fight with your spouse. You
+don't feel like competing.
 
 **What Toughness Is**
 
@@ -107,41 +104,38 @@ necessary to make those emotions become real.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_love-the-battle-rafael-nadal/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image4.webp)
 
 **Nadal has consummate control over his rituals and physical presence.**
 
 When it comes to Nadal, his practice is consummate. If you actively
 practice it, you can access this same chemistry yourself when you feel
-it the least, but when you might need it the most. But if you don\'t
-practice it, you\'ll never be able to pull the trigger when it counts.
+it the least, but when you might need it the most. But if you don't
+practice it, you'll never be able to pull the trigger when it counts.
 
-But developing this takes time. You can\'t learn it overnight. It\'s
+But developing this takes time. You can't learn it overnight. It's
 exactly like your strokes. If you allow yourself to practice the
 mechanics in sloppy ways, eventually the mechanics go away from you.
 
-It\'s the same thing emotionally. As soon as you get sloppy
+It's the same thing emotionally. As soon as you get sloppy
 emotionally\--sloppy thinking, sloppy imagery, slopping acting with your
-physical body, you\'re going to get mush. You are not going to access
+physical body, you're going to get mush. You are not going to access
 your talent and skill in the context of battle, in the context of
 competition.
 
-So it\'s very important that you realize that what you really are\--you
-are an actor. That\'s what a great athletic performer is all about.
-That\'s why every time you go on a court in tennis you should be
+So it's very important that you realize that what you really are\--you
+are an actor. That's what a great athletic performer is all about.
+That's why every time you go on a court in tennis you should be
 constantly trying to stimulate the emotions that empower you. The more
 you practice it, the better you get.
 
 **Ready to Cry?**
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person wearing sunglasses Description automatically                                                                                                                      | ![A person wearing sunglasses Description automatically generated with medium                                                                                                 | ![A picture containing person, outdoor Description automatically                                                                                                             |
-| generated](media_love-the-battle-rafael-nadal/media/image5.jpg){width="1.7708333333333333in" | confidence](media_love-the-battle-rafael-nadal/media/image6.jpg){width="1.6466666666666667in" | generated](media_love-the-battle-rafael-nadal/media/image7.jpg){width="1.8050229658792651in" |
-| height="2.34375in"}                                                                                                                                                          | height="2.375in"}                                                                                                                                                             | height="2.3890004374453193in"}                                                                                                                                               |
-+:============================================================================================================================================================================:+:=============================================================================================================================================================================:+:============================================================================================================================================================================:+
-| **Jack, Julia, and Rafa\--three actors at the top of their craft.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person wearing sunglasses Description automatically | ![A person wearing sunglasses Description automatically generated with medium | ![A picture containing person, outdoor Description automatically |
+| --- | --- | --- |
+| generated](media_love-the-battle-rafael-nadal/media/image5.jpg) |  |  |
+| **Jack, Julia, and Rafa\--three actors at the top of their craft.** |  |  |
+
 
 **[[We know what the script is in sport. It is confidence. It is
 positive fight. It is relaxation. It is fun.]{.underline}]{.mark}** We
@@ -163,8 +157,7 @@ screen, because they are truly involved in summoning the chemistry that
 is associated with those emotions.
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image8.webp)
 
 **Tough acting can summon the performance you want.**
 
@@ -187,30 +180,29 @@ time.]{.underline}]{.mark}**
 
 Nadal rarely deviates from the script. He can even laugh at himself when
 he makes a critical error. Nadal actually smiled when he hit a double
-fault serving two points from the match in this year\'s Wimbledon final.
+fault serving two points from the match in this year's Wimbledon final.
 How many players can say they have the confidence and internal belief to
 do that?
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image9.webp)
 
 **So many players constantly deviate from the script.**
 
 **Bad Acting**
 
 There are so many bad actors in sport who are constantly deviating from
-the script. They\'re chastising themselves. They\'re bellyaching,
-moaning, groaning, complaining. There\'s no place in the script
+the script. They're chastising themselves. They're bellyaching,
+moaning, groaning, complaining. There's no place in the script
 whatsoever for that kind of emotional response.
 
 **[[As tennis players, we have to practice the skills that an actor or
 actress has to practice. We have to learn how to bring confidence with
 the look in our face, by moving the muscles of our face. When we
 communicate a smile, we are in a real sense communicating to our
-physiology that it\'s okay, things are all right.]{.mark}]{.underline}**
+physiology that it's okay, things are all right.]{.mark}]{.underline}**
 
-**[[In fact, we\'re moving the physiology at a molecular level. We know
+**[[In fact, we're moving the physiology at a molecular level. We know
 that autonomic nervous system responses mirror the movement of muscles
 in emotion-specific ways, when we take on the look of a frown or take on
 the look of sadness or take on the look of
@@ -224,38 +216,36 @@ she absolutely could not do it because the body is communicating
 different messages.
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image10.webp)
 
 **The body is all connected and how you act on the court inevitably
 effects how you feel.**
 
 A tennis match is not a place to be afraid or to be sad or to be angry.
 If you want to communicate confidence and belief and positivism and
-you\'re carrying your head and your shoulders down, your walk is slow
+you're carrying your head and your shoulders down, your walk is slow
 and lazy and without any spirit, you cannot summon the emotions you need
 to be strong, the emotions for mobilizing all the resources that you may
 actually have inside.
 
 **[[The body is all connected. The muscles of your face, the muscles of
-your shoulders are connected to what you\'re thinking. And all of that
-is connected to what images you\'re carrying in your
+your shoulders are connected to what you're thinking. And all of that
+is connected to what images you're carrying in your
 head.]{.underline}]{.mark}** **[[And all of that is connected to the
-physiology and to the emotion that you\'re carrying at every moment. The
+physiology and to the emotion that you're carrying at every moment. The
 mind is the body, the body is the mind, and everything you do affects
 everything else. All the cells are connecting and communicating in a
 wonderfully interactive and brilliant, massive network of inner
 responses.]{.underline}]{.mark}**
 
-It\'s important to understand also that emotions work very much like
-muscles do. If for instance you stimulate a particular muscle, you\'re
+It's important to understand also that emotions work very much like
+muscles do. If for instance you stimulate a particular muscle, you're
 constantly working a particular muscle, when you want to summon that
-muscle in the course of that activity, it\'s readily available to you.
+muscle in the course of that activity, it's readily available to you.
 The same thing is true emotionally.
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image11.webp)
 
 **Your ability to perform is connected to the images you carry in your
 head.**
@@ -271,38 +261,37 @@ response are much more likely going to be able to cry and to get that
 
 What are some of the things that you would have to do to make that
 \$10,000 come your way? The first thing is to make sure that your
-thoughts are consistent with the emotion that you\'re trying to achieve.
-You\'re probably going to think about the saddest thing you\'ve ever
+thoughts are consistent with the emotion that you're trying to achieve.
+You're probably going to think about the saddest thing you've ever
 thought about in your life\--the most tragic thing that has happened or
 could ever happen to you. And thinking about that, focusing on that,
 will start to change your chemistry.
 
 We also know that if you picture the emotion, it will become more
-powerful. It\'s almost as if the brain is unable to distinguish
-something that\'s vividly imagined from something that actually happens.
+powerful. It's almost as if the brain is unable to distinguish
+something that's vividly imagined from something that actually happens.
 The chemistry becomes as real as if what you imagine was actually
 happening right here and now.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A picture containing outdoor, standing Description automatically
-   generated](media_love-the-battle-rafael-nadal/media/image12.jpg){width="2.615972222222222in"
-                                                                          height="2.2777777777777777in"}
+   generated](media_love-the-battle-rafael-nadal/media/image12.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               Why do you feel that you really are in Jurassic Park?
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-That\'s what happens to you when you go into a theater and you sit and
-you watch a movie like \"Jurassic Park.\" You know you\'re sitting in
-that theater. You know you haven\'t gone to Jurassic Park. But the fear
+That's what happens to you when you go into a theater and you sit and
+you watch a movie like \"Jurassic Park.\" You know you're sitting in
+that theater. You know you haven't gone to Jurassic Park. But the fear
 that comes inside of you is exactly the same fear if you were actually
 there.
 
-**[[You know you\'re sitting in the theater. Why should you become
-afraid when you know logically that you\'re just sitting there eating
-popcorn?]{.underline}]{.mark}** **[[It\'s because your central nervous
+**[[You know you're sitting in the theater. Why should you become
+afraid when you know logically that you're just sitting there eating
+popcorn?]{.underline}]{.mark}** **[[It's because your central nervous
 system cannot distinguish real from unreal, so the real chemistry of
-fear is triggered.]{.underline}]{.mark}** It\'s the same chemical
+fear is triggered.]{.underline}]{.mark}** It's the same chemical
 profile that you would experience if you went into Jurassic Park and
 those events actually occurred to you.
 
@@ -312,21 +301,20 @@ come alive to make that happen.]{.underline}]{.mark}**
 
 So if you want to cry, you want to get your body to conform to exactly
 those emotions you want to feel. So you would hump over your shoulders
-and slump down in your chair and drop your head and chin. You\'d take on
+and slump down in your chair and drop your head and chin. You'd take on
 the look of someone who was very sad. All of your body and your posture
 would conform to that. You might even wiggle your chin and start to kind
 of move your chin like you do perhaps when you cry. And all of a sudden,
-if you get that wired right, the tears will start to flow, if you\'ve
+if you get that wired right, the tears will start to flow, if you've
 had access to that emotion.
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image13.webp)
 
 **If you have it wired right, you create a pathway to the emotions you
 seek.**
 
-So now let\'s take a minute and let\'s start to look at specifically
+So now let's take a minute and let's start to look at specifically
 what you can do to improve your control over this very unique emotional
 response. First of all, any time you have access to film of anyone that
 you feel has it wired right, who is a wonderful competitor, who inspires
@@ -339,7 +327,7 @@ Look at Serena Williams. Look at Ana Ivanovic. Take a look at the
 players who have the ability to act out the script and to do it
 consistently.
 
-**Film Doesn\'t Lie.**
+**Film Doesn't Lie.**
 
 Then take a look at yourself. Film yourself during matches. Confront the
 truth. To what extent can you walk the walk? Can you project the same
@@ -347,15 +335,14 @@ spirit? Do you have the look of intensity on your face, the sense of
 fun, the sense of inspiration?
 
 Can you model it in tough times, when you make costly mistakes, when
-you\'re tired, when things aren\'t going right? When you tighten up and
+you're tired, when things aren't going right? When you tighten up and
 hit a double fault on a key point? Get yourself on film and take a look
 at it. Take a look with a very critical eye. What do you see? Would you
 fit the profile of a great actor, a great IPS actor?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_love-the-battle-rafael-nadal/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image14.webp)
 
 **Study film of the behavior of players you want to emulate.**
 
@@ -365,31 +352,30 @@ need to have great respect for how the body is connected to emotion.
 
 So how do we train mentally? How do we get our thinking more precise?
 How do we begin to be more precise in our visualizing? The first thing
-you\'re going to have to do is to step back and take a very, very
+you're going to have to do is to step back and take a very, very
 critical look at how you process information before, during, and after
 competition. What are the actual thoughts that go through your brain,
 and how to they relate to the toughness script?
 
 And is there anything that causes you to summon the wrong emotions
-because of and in response to the way you\'re thinking or imaging? For
+because of and in response to the way you're thinking or imaging? For
 instance, if you sometimes say or think things such as \"I hate,\" \"I
-hate this,\" \"I can\'t stand bad weather,\" \"I hate this competitor,\"
+hate this,\" \"I can't stand bad weather,\" \"I hate this competitor,\"
 \"My backhand is really off.\" Instantly, that type of thinking closes
 the door. You begin a cascade of consequences which are precisely the
 opposite of what you want.
 
 ![A person playing tennis Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image15.webp)
 
 **Negative thinking will block your ability to access the emotions you
 need.**
 
 **[[We must hold ourselves responsible for how we are thinking and how
 we respond emotionally to the things that happen to us in our context of
-competition. We can\'t control what\'s happening, but we can control how
-we\'re thinking about it, how we\'re imaging about it, and how we are
-responding emotionally to what\'s happening.]{.underline}]{.mark}**
+competition. We can't control what's happening, but we can control how
+we're thinking about it, how we're imaging about it, and how we are
+responding emotionally to what's happening.]{.underline}]{.mark}**
 
 **[[So training is simply learning to think about things in ways that
 help to fulfill the script. We call that tough thinking, thinking about
@@ -401,15 +387,14 @@ hate whatever,\" right away you ensure that you will not be able to
 access the emotions that empower you in the context of the **[[Ideal
 Performance State.]{.underline}]{.mark}**
 
-And that\'s how simple it is. Don\'t make it more complicated than that.
+And that's how simple it is. Don't make it more complicated than that.
 Make it very simple. Zero in on exactly this connection, the connection
 with the physical and the connection with the mental and how it is all
 driving toward this emotional response capacity.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_love-the-battle-rafael-nadal/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image16.webp)
 
 **Become a great actor on your personal battlefield.**
 
@@ -424,8 +409,8 @@ and with what I can become. When I can enjoy, I can perform. Fun is what
 makes playing well possible for me. I can have fun no matter how tough,
 no matter how difficult the task is that lies before me.
 
-Winning happens by itself. I simply perform. I don\'t focus on winning.
-I focus on the things over which I have control. I\'m performing against
+Winning happens by itself. I simply perform. I don't focus on winning.
+I focus on the things over which I have control. I'm performing against
 myself. In reality, I am my own toughest opponent and I will win the
 battle with myself.
 
@@ -445,45 +430,43 @@ respond.
 
 ![A person in a pink tank top Description automatically generated with
 low
-confidence](media_love-the-battle-rafael-nadal/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_love-the-battle-rafael-nadal/media/image17.webp)
 
 **Controlling the fear response is at the heart of athletic
 competition.**
 
 **Choking**
 
-I\'ve come to understand that controlling the choking response is really
+I've come to understand that controlling the choking response is really
 at the heart of athletic competition. Over coming choking means that you
 reduced the fear response, fear of failure, fear of looking bad, fear of
 not living up to expectations, and the chemistry of fear began to die.
 
-**[[In a real sense, there\'s no reason to be afraid. It is okay. It is
+**[[In a real sense, there's no reason to be afraid. It is okay. It is
 going to be fine. You have to believe tomorrow that life is bigger than
 any athletic contest. Not one single athletic event is going to make or
 break me as a competitor.]{.underline}]{.mark}**
 
 By thinking in the context of fun and enjoyment and loving what you do,
 the fear will go away. When we screw up and make stupid mistakes and do
-dumb things, it\'s so easy to turn against yourself. It\'s not normal to
+dumb things, it's so easy to turn against yourself. It's not normal to
 respond positively when things turn against you, when bad things happen,
-if you suddenly don\'t measure up to what you know you could be. It
+if you suddenly don't measure up to what you know you could be. It
 takes a very special commitment, a very skilled competitor, to summon
 those emotions, that chemistry, so that you can continue to charge
 forward and suddenly re-electrify those positive emotions.
 
 ![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image18.webp)
 
 **It takes a special commitment to summon the positive emotions that
 dissipate fear.**
 
-So here is an affirmation for you, one that summarizes everything we\'ve
+So here is an affirmation for you, one that summarizes everything we've
 been talking about, one that will help you become the performer you
 really want to be:
 
-\"I\'ve come to understand that positive emotions are my most normal
+\"I've come to understand that positive emotions are my most normal
 state. During competition, I need to create that chemistry through
 positive thinking, positive acting, that literally brings to life my
 potential.\"
@@ -492,7 +475,7 @@ potential.\"
 commit to giving my absolute best effort. I will be prepared to meet the
 unexpected. Things will not always be fair and I expect that. I will do
 everything I can to be physically, mentally, and emotionally ready with
-lots of reserves, able to take massive doses of stress as it\'s called
+lots of reserves, able to take massive doses of stress as it's called
 for.\"
 
 \"Every time I compete, I will get closer to understand how to truly
@@ -503,8 +486,7 @@ love the battle. I will create my own state of enjoyment. I will accept
 the hand that is dealt to me with no complaint.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_love-the-battle-rafael-nadal/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_love-the-battle-rafael-nadal/media/image19.webp)
 
 **Film yourself to understand and improve your rituals and body
 language.**
@@ -523,8 +505,7 @@ battle.\"]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of
-  confidence](media_love-the-battle-rafael-nadal/media/image20.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                    himself who still competes nationally in USTA
+  confidence](media_love-the-battle-rafael-nadal/media/image20.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
                                                                                                                                                                                     events, Jim created the field of Mental
                                                                                                                                                                                     Toughness training with his revolutionary study
                                                                                                                                                                                     of elite pro players. He has been one of the

@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-bounce-at-10-000-frames-per-second/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_the-bounce-at-10-000-frames-per-second/media/image1.webp)
 
 **How long is a tennis ball actually on the court surface?**
 
@@ -27,24 +26,23 @@ court. I found a range of 4.6-5.4 milliseconds. That is depending on
 whether the ball is topspin, flat, or slice.
 
 Topspin is the shortest duration, flat is in the middle, slice is the
-longest. So the results are 92% to 108% of the published values. That\'s
+longest. So the results are 92% to 108% of the published values. That's
 less variation than I found with the various durations of balls on the
 strings in the last article.
 
 I think this is in generally agreement with what we perceive as players.
-When the ball is coming in with heavy topspin we know it\'s going to get
-on us quicker. When it is flat, or heavily sliced we know it\'s going to
+When the ball is coming in with heavy topspin we know it's going to get
+on us quicker. When it is flat, or heavily sliced we know it's going to
 slide longer on the court and potentially be difficult to handle for
 that reason. But just as I found with strings, the difference between
 gut, nylon and poly are for all intents and purposes minimal.
 
 ![A picture containing indoor, sport, tennis Description automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-bounce-at-10-000-frames-per-second/media/image2.webp)
 
 **Topspin balls have the shortest duration on court during the bounce.**
 
-Although I didn\'t have the opportunity to film all that, I think the
+Although I didn't have the opportunity to film all that, I think the
 numbers would differ depending on surface. Clay being softer, in all
 likelihood leads to a longer ball contact time than hard court. As an
 aside, in the earliest days of my tennis career--this goes back to 1969
@@ -67,7 +65,7 @@ give a club player a mid-court slice, you probably have a greater than
 
 **Physics**
 
-So, let\'s delve into the physics of the bounce. The following
+So, let's delve into the physics of the bounce. The following
 scientific descriptions are taken from Drs. Howard Brody and Rod Cross
 and their seminal works, The Physics and Technology of Tennis ([Click
 Here](https://www.amazon.com/gp/product/0972275908/ref=dbs_a_def_rwt_bibl_vppi_i1)),
@@ -95,10 +93,8 @@ Rolling friction is a weaker force that acts when the ball is rolling on
 the court.
 
 ![Text Description automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image3.jpg){width="2.7777777777777777in"
-height="3.513888888888889in"}![Text, letter Description automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image4.jpg){width="2.388888888888889in"
-height="3.513888888888889in"}
+generated](media_the-bounce-at-10-000-frames-per-second/media/image3.jpg)![Text, letter Description automatically
+generated](media_the-bounce-at-10-000-frames-per-second/media/image4.jpg)
 
 **Two must read books on the physics and technology of tennis.**
 
@@ -156,8 +152,7 @@ bounce.]{.mark}]{.underline}**
 
 ![A picture containing sport, athletic game, tennis, dark Description
 automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-bounce-at-10-000-frames-per-second/media/image5.webp)
 
 **Slice: a lower angle of incidence but a relatively higher bounce.**
 
@@ -191,8 +186,7 @@ fast the top of the ball is moving relative to the bottom of the ball at
 the time of biting or the bottom of the ball stopping.
 
 ![A picture containing night sky Description automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-bounce-at-10-000-frames-per-second/media/image6.webp)
 
 **Flat balls come off the ground with topspin.**
 
@@ -228,16 +222,15 @@ the brain is a prediction engine you can use it to predict the
 bounce.]{.mark}]{.underline}**
 
 **[[You have many clues. This starts with the sound of the ball off of
-your opponent\'s racket, then trajectory, angle of incidence, and
+your opponent's racket, then trajectory, angle of incidence, and
 observed spin. From all this you can start to anticipate what kind of
-bounce you\'re going to get and where you are going to need to position
+bounce you're going to get and where you are going to need to position
 your body in order to take the ball at a comfortable
 level.]{.mark}]{.underline}**
 
 ![A picture containing indoor, sport, athletic game, tennis Description
 automatically
-generated](media_the-bounce-at-10-000-frames-per-second/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_the-bounce-at-10-000-frames-per-second/media/image7.webp)
 
 **Compare the bounce for topspin, flat, and slice.**
 
@@ -249,12 +242,12 @@ commonly see even pros missing a sliced ball after a long series of
 topspin balls prior to the slice.
 
 Teaching pros the world over are fond of a drill first developed by
-Timothy Gallwey called \"bounce-- hit.\" It\'s a way of focusing the
+Timothy Gallwey called \"bounce-- hit.\" It's a way of focusing the
 mind on the ball at the most important time--during the bounce and just
 prior to contact.
 
 In order to do this drill simply say to yourself in your mind (or out
-loud if it\'s not a competitive match) \"bounce\" when the ball bounces
+loud if it's not a competitive match) \"bounce\" when the ball bounces
 and \"hit\" as you hear the contact. This is an amazing drill that can
 dial in your strokes for timing and consistency.
 
@@ -268,8 +261,7 @@ article I will reveal the answer.
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_the-bounce-at-10-000-frames-per-second/media/image8.jpeg){width="1.8208333333333333in"
-height="2.1118055555555557in"}
+confidence](media_the-bounce-at-10-000-frames-per-second/media/image8.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -280,7 +272,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

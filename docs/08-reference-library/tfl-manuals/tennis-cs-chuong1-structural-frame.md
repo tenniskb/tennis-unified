@@ -61,12 +61,12 @@ như một hệ thống DCS (Distributed Control System) trong công nghiệp, c
 thể vận hành qua nhiều vòng lặp lồng nhau, từ phản xạ tốc độ cao ở inner
 loop, đến chiến thuật tư duy ở outer loop.
 
-+-----------------------------------------------------------------------+
-| **🎯 Triết lý cốt lõi**                                               |
-|                                                                       |
-| Đừng dạy kỹ thuật trước --- hãy xây ổn định hệ thống trước. Kỹ thuật  |
-| đúng sẽ tự xuất hiện khi hệ thống điều khiển được cài đặt đúng.       |
-+-----------------------------------------------------------------------+
+| **🎯 Triết lý cốt lõi** |
+| --- |
+|  |
+| Đừng dạy kỹ thuật trước --- hãy xây ổn định hệ thống trước. Kỹ thuật |
+| đúng sẽ tự xuất hiện khi hệ thống điều khiển được cài đặt đúng. |
+
 
 Chương 1 tập trung vào Tầng 1 --- nền tảng vật lý của toàn bộ hệ thống:
 Structural Frame, hay còn gọi là Diamond Shape. Đây là cấu trúc mà cơ
@@ -114,13 +114,13 @@ Sự phân biệt này có ý nghĩa rất thực tế: người chơi cố gi�
 trúc đàn hồi thường mượt mà và nhanh nhạy hơn, dù trông có vẻ ít
 \"textbook\" hơn.
 
-+-----------------------------------------------------------------------+
-| **🎯 Hình ảnh hướng dẫn**                                             |
-|                                                                       |
+| **🎯 Hình ảnh hướng dẫn** |
+| --- |
+|  |
 | Thay vì nghĩ \"Tôi đang giữ tay theo hình kim cương\", hãy nghĩ \"Tôi |
-| đang treo cây vợt trong một cái vòng cung của cơ thể --- như đang     |
-| bưng nhẹ một quả bóng lớn trước ngực.\"                               |
-+-----------------------------------------------------------------------+
+| đang treo cây vợt trong một cái vòng cung của cơ thể --- như đang |
+| bưng nhẹ một quả bóng lớn trước ngực.\" |
+
 
 **3. Cơ Học Của Cấu Trúc Tam Giác --- Tại Sao Khung Vững?**
 
@@ -160,13 +160,13 @@ chấn thương cổ tay dù đánh hàng nghìn bóng mỗi tuần --- và cũn
 người mới hay bị đau cổ tay khi dùng tay riêng lẻ thay vì dùng toàn bộ
 khung.
 
-+-----------------------------------------------------------------------+
-| **🎯 Coaching cue**                                                   |
-|                                                                       |
+| **🎯 Coaching cue** |
+| --- |
+|  |
 | Khi học trò than cổ tay đau sau khi volley, đừng sửa cổ tay. Hãy kiểm |
 | tra xem khung có bị sụp không --- hai khuỷu tay có quá gần thân người |
-| không, vai có bị khép không.                                          |
-+-----------------------------------------------------------------------+
+| không, vai có bị khép không. |
+
 
 **3.3 Vòng cung chịu lực (Load-bearing Arch)**
 
@@ -203,14 +203,14 @@ trong giàn cầu thép, khuỷu tay ở góc này vừa cứng đủ để khô
 khi chịu lực, vừa đàn hồi đủ để hấp thụ rung động mà không truyền hoàn
 toàn vào cổ tay.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill kiểm tra**                                                 |
-|                                                                       |
+| **🎯 Drill kiểm tra** |
+| --- |
+|  |
 | Đứng trước gương, giả vờ cầm vợt ở ready position. Nhờ người khác đẩy |
 | nhẹ vào đầu vợt theo hướng ngang. Nếu toàn bộ cánh tay cảm thấy có độ |
-| kháng cự đồng đều (không phải chỉ cổ tay), góc khuỷu đang đúng. Nếu   |
-| chỉ cổ tay chịu lực, khuỷu tay đang quá thẳng hoặc quá ép sát thân.   |
-+-----------------------------------------------------------------------+
+| kháng cự đồng đều (không phải chỉ cổ tay), góc khuỷu đang đúng. Nếu |
+| chỉ cổ tay chịu lực, khuỷu tay đang quá thẳng hoặc quá ép sát thân. |
+
 
 **5. Upper Body và Lower Body --- Hai Hệ Thống Tương Tác**
 
@@ -248,14 +248,14 @@ thuộc vào loại cú đánh:
   vai → cánh tay → vợt) tăng tốc sau đoạn trước, tạo ra hiệu ứng khuếch
   đại tốc độ đầu vợt.
 
-+-----------------------------------------------------------------------+
-| **🎯 Hình ảnh cốt lõi**                                               |
-|                                                                       |
-| Volley: toàn thân như cột điện --- vững, thẳng, không rung.           |
-| Groundstroke: lower body là cái lò xo bị nén, upper body là sợi roi   |
-| được thả ra --- sóng lực đi từ đất lên đầu vợt theo trình tự thời     |
-| gian chính xác.                                                       |
-+-----------------------------------------------------------------------+
+| **🎯 Hình ảnh cốt lõi** |
+| --- |
+|  |
+| Volley: toàn thân như cột điện --- vững, thẳng, không rung. |
+| Groundstroke: lower body là cái lò xo bị nén, upper body là sợi roi |
+| được thả ra --- sóng lực đi từ đất lên đầu vợt theo trình tự thời |
+| gian chính xác. |
+
 
 **6. Proprioception và Diamond Shape --- Cảm Biến Nhiều Điểm**
 
@@ -297,14 +297,14 @@ chính xác nhất của họ. Khi grip tension quá cao, bàn tay không còn n
 cảm với thông tin tinh tế từ bóng --- và cả khung diamond cũng cứng lại,
 mất đi tính đàn hồi cần thiết.
 
-+-----------------------------------------------------------------------+
-| **🎯 Test proprioception**                                            |
-|                                                                       |
-| Yêu cầu học trò nhắm mắt và chỉ bằng cảm giác, đặt đầu vợt vào một    |
-| điểm cụ thể trong không gian (ví dụ: ngang hông, cách thân 50cm). So  |
-| sánh khi dùng một tay vs. khi duy trì diamond shape với cả hai tay.   |
-| Thường diamond shape cho kết quả chính xác hơn 30-50%.                |
-+-----------------------------------------------------------------------+
+| **🎯 Test proprioception** |
+| --- |
+|  |
+| Yêu cầu học trò nhắm mắt và chỉ bằng cảm giác, đặt đầu vợt vào một |
+| điểm cụ thể trong không gian (ví dụ: ngang hông, cách thân 50cm). So |
+| sánh khi dùng một tay vs. khi duy trì diamond shape với cả hai tay. |
+| Thường diamond shape cho kết quả chính xác hơn 30-50%. |
+
 
 **7. Khung Trong Từng Loại Cú Đánh --- Stable vs. Elastic Frame**
 
@@ -364,15 +364,15 @@ cung bị kéo căng, và giải phóng đúng thời điểm.
 khóa. Forehand của Federer là ví dụ điển hình: nhìn tay rất thư giãn,
 nhưng toàn bộ chuỗi từ hông đến vợt hoạt động như một hệ thống liên tục.
 
-+-----------------------------------------------------------------------+
-| **🎯 Lỗi phổ biến**                                                   |
-|                                                                       |
+| **🎯 Lỗi phổ biến** |
+| --- |
+|  |
 | Nhiều người chơi dùng khung cứng cho groundstroke (vì tưởng rằng cứng |
-| = kiểm soát tốt hơn). Kết quả: bóng thiếu tốc độ, arm-driven stroke,  |
-| và dễ chấn thương khuỷu tay dài hạn. Ngược lại, một số người chơi     |
-| dùng khung quá mềm cho volley, dẫn đến bóng bay lỏng và mất           |
-| direction.                                                            |
-+-----------------------------------------------------------------------+
+| = kiểm soát tốt hơn). Kết quả: bóng thiếu tốc độ, arm-driven stroke, |
+| và dễ chấn thương khuỷu tay dài hạn. Ngược lại, một số người chơi |
+| dùng khung quá mềm cho volley, dẫn đến bóng bay lỏng và mất |
+| direction. |
+
 
 **8. Liên Hệ Thái Cực Quyền --- Giá Tử (架子) và Kình (勁)**
 
@@ -442,14 +442,14 @@ người chơi không cảm nhận được từ bên trong.
   cụ thể trong không gian và giữ 3 giây. Khung đúng cho phép định vị
   chính xác hơn nhiều.
 
-+-----------------------------------------------------------------------+
-| **🎯 Cảm giác mục tiêu**                                              |
-|                                                                       |
-| Người chơi nên cảm thấy như đang \"nâng đỡ\" cây vợt trong một cái    |
+| **🎯 Cảm giác mục tiêu** |
+| --- |
+|  |
+| Người chơi nên cảm thấy như đang \"nâng đỡ\" cây vợt trong một cái |
 | khung của cơ thể, không phải \"cầm\" nó bằng tay. Trọng lượng cây vợt |
-| được phân bổ qua toàn bộ cấu trúc, không tập trung ở cổ tay hay bàn   |
-| tay.                                                                  |
-+-----------------------------------------------------------------------+
+| được phân bổ qua toàn bộ cấu trúc, không tập trung ở cổ tay hay bàn |
+| tay. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 1**
 
@@ -522,13 +522,13 @@ diamond shape một cách vô thức --- không cần nhắc nhở, không cần
   vị)                                                   
   ----------------------------------- ----------------- -----------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển tầng**                                         |
-|                                                                       |
-| Chỉ tiến lên Tầng 2 (PID / Sensor System) khi học viên đạt đủ 4/5     |
-| tiêu chí ở ngưỡng pass trong hai buổi tập liên tiếp. Vội chuyển tầng  |
-| là sai lầm phổ biến nhất khiến các tầng trên không hoạt động đúng.    |
-+-----------------------------------------------------------------------+
+| **🎯 Nguyên tắc chuyển tầng** |
+| --- |
+|  |
+| Chỉ tiến lên Tầng 2 (PID / Sensor System) khi học viên đạt đủ 4/5 |
+| tiêu chí ở ngưỡng pass trong hai buổi tập liên tiếp. Vội chuyển tầng |
+| là sai lầm phổ biến nhất khiến các tầng trên không hoạt động đúng. |
+
 
 **--- Kết thúc Chương 1 ---**
 

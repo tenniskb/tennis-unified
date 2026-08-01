@@ -6,8 +6,7 @@
 
 ![Two men holding tennis rackets Description automatically generated
 with medium
-confidence](media_how-to-incorporate-the-approach/media/image1.jpeg){width="3.156715879265092in"
-height="2.6832086614173227in"}
+confidence](media_how-to-incorporate-the-approach/media/image1.jpeg)
 
 **Myself and Jeff Greenwald: how do you help the best player in the
 world change his game?**
@@ -40,8 +39,7 @@ many years he had been comfortable and successful overcoming opponents
 with his groundstroke play.
 
 ![A person playing tennis Description automatically
-generated](media_how-to-incorporate-the-approach/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-to-incorporate-the-approach/media/image2.webp)
 
 **The idea was to back up his big forehand with relatively easy
 volleys.**
@@ -61,19 +59,18 @@ Here](https://www.tennisplayer.net/members/classiclessons/paul_cohen/classic_for
 This was a prerequisite because as Jeff freely admitted he had learned
 to volley as a junior, but never really learned to volley.
 
-I also totally agreed with Paul\'s premise of using Jeff\'s strength -
+I also totally agreed with Paul's premise of using Jeff's strength -
 his forehand - to start the approach sequence. Jeff was regularly
 hurting players with his fearsome topspin drives.
 
 **[[The plan was that when the ball was short, Jeff would hit big
 approaches, mainly off his forehand, but using his backhand too when the
 opportunity was there.]{.underline}]{.mark}** **[These power approaches
-would take away the opponent\'s time and force him to hit passes with a
+would take away the opponent's time and force him to hit passes with a
 high degree of difficulty.]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_how-to-incorporate-the-approach/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-to-incorporate-the-approach/media/image3.webp)
 
 **Starting part way up in the court got Jeff confident with the split
 and balance in the midcourt.**
@@ -112,12 +109,11 @@ pattern was forehand groundstroke, forehand approach, and angled volley
 from either side.
 
 ![A person playing tennis Description automatically
-generated](media_how-to-incorporate-the-approach/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_how-to-incorporate-the-approach/media/image4.webp)
 
 **Once Jeff was more comfortable, he could explode forward on balance.**
 
-In these drills and with Paul\'s agreement, we engineered more angled
+In these drills and with Paul's agreement, we engineered more angled
 volleys into his game. This helped him deal easily with weak or high
 approach shot. But it also prepared him to deal with players who were
 fast on their feet and courts that were very slow and difficult to hit
@@ -136,12 +132,12 @@ awarded two points for hitting a winning volley.
 Then we started to set up matches with steady players who possessed both
 great passing shots and lobs.
 
-It wasn\'t just about providing Jeff with information and instruction,
+It wasn't just about providing Jeff with information and instruction,
 it was about progressively creating the experience of successful
 attacking - at the level of drills, at the level of competitive games,
 and finally in points and match play.
 
-After a few weeks of mixing all these elements, I could see Jeff\'s
+After a few weeks of mixing all these elements, I could see Jeff's
 confidence increase. I could see he believed he was developing skills
 that would allow him to dominate players whom he had previously
 struggled to defeat.
@@ -157,8 +153,7 @@ work on the right steps.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                                       Rod Heckelman has been the general manager of
-  confidence](media_how-to-incorporate-the-approach/media/image5.jpeg){width="1.7166666666666666in"   the famed Mt. Tam Racquet Club in Marin County,
-  height="2.3583333333333334in"}                                                                                                                                                          California for the last 30 years. He was
+  confidence](media_how-to-incorporate-the-approach/media/image5.jpeg)                                                                                                                                                          California for the last 30 years. He was
                                                                                                                                                                                           formerly the youngest head pro at the John
                                                                                                                                                                                           Gardner Tennis Ranch in Scottsdale, Arizona,
                                                                                                                                                                                           and has been ranked numerous times in Northern

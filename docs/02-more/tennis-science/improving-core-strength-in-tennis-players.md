@@ -18,7 +18,7 @@ Plyometric exercises are popular for "shock training" the muscles of the
 legs to increase vertical jump and power. Some athletes and coaches have
 extended plyometric training exercises to the upper body. Often
 neglected in the traditional strength training program is explosive
-training to develop power in the athlete\'s trunk. Plyometric exercises
+training to develop power in the athlete's trunk. Plyometric exercises
 are perhaps the best method for just that. Plyometric exercises refer to
 the training method which exploits the muscles natural cycle of
 lengthening and shortening to increase power. These exercises start with
@@ -29,7 +29,7 @@ muscle by rapidly shortening the same muscle with maximum force. This
 process is called the stretch-shortening cycle and is one of fastest
 reflexes in the human body.
 
-**[[First, let\'s define the trunk. The trunk includes the thorax
+**[[First, let's define the trunk. The trunk includes the thorax
 (chest), rib cage, abdomen, spine, and shoulder and pelvic
 girdle.]{.underline}]{.mark}** The trunk acts as a base for all
 movement. Looking at a physiological cross-section of the muscles that
@@ -135,7 +135,7 @@ Start: This drill requires a partner. Lie on your back on the floor with
 your legs extended. Your partner stands facing you with one foot on
 either side of your head so that you can hold onto his or her ankles.
 
-Action: As you raise your legs up to your partner\'s hands, he or she
+Action: As you raise your legs up to your partner's hands, he or she
 pushes them down forcefully. You should provide resistance to your
 partner, catching your legs before they reach the ground and returning
 them to the raised position. Your partner can push your legs in a
@@ -309,15 +309,14 @@ Bittersweet Publishing 2003
 Plyometric Training Modes: Complex Training. Strength and Conditioning.
 18-26. Oct. 1998.
 
-3\. O\'Connor, D.P. Application of Plyometrics to the Trunk. Athletic
+3\. O'Connor, D.P. Application of Plyometrics to the Trunk. Athletic
 Therapy Today.
 
 4(3):36-40.1999.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                         ![A person in a suit smiling Description automatically generated with low
-        confidence](media_improving-core-strength-in-tennis-players/media/image1.jpeg){width="1.125in"
-          height="1.4270833333333333in"}Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a Masters in
+        confidence](media_improving-core-strength-in-tennis-players/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a Masters in
   Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years. During the time from 1997-
    2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served as the Director of Athletic Training &
                                                                    Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
@@ -338,7 +337,6 @@ Therapy Today.
    In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion into the areas
                                   of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![](media_improving-core-strength-in-tennis-players/media/image2.gif){width="1.3680555555555556in"
-                                                                                                                                                  height="0.15208333333333332in"}
+    ![](media_improving-core-strength-in-tennis-players/media/image2.gif)
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

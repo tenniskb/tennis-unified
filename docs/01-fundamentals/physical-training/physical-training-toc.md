@@ -6,7 +6,7 @@
 
 The top players in the world rely on custom tailored training programs
 to give them power, speed and endurance. A decade ago, a few players
-started the trend and proved that it gave them an edge. Today it\'s a
+started the trend and proved that it gave them an edge. Today it's a
 requirement just to compete at the highest levels. But some players,
 such as Andre Agassi or Justine Henin-Hardenne seem to maximize the
 potential benefits.
@@ -15,14 +15,14 @@ Physical training has become a blend of art and science, combining
 aerobics, flexibility, and strength training with on court movement
 drills tailored to the specific demands of the game. Players train in
 stages, combining the various training elements in varying amounts to
-produce peak performance at key times over the course of a year\'s
-competitive cycle. That\'s called Periodization training.
+produce peak performance at key times over the course of a year's
+competitive cycle. That's called Periodization training.
 
 Tennisplayer gives you the opportunity to follow these same awesome
 programs for yourself. At your level.
 
 Pat Ectheberry was a pioneer in off court training. He was the first to
-introduce it to Agassi at Bollettieri\'s. Over his career he has
+introduce it to Agassi at Bollettieri's. Over his career he has
 probably worked with more Grand Slam champions than any single coach in
 the modern game: Agassi, Jim Courier, Pete Sampras, Monica Seles,
 Jennifer Carpriati, Martina Hingis, and most recently Justine
@@ -38,10 +38,10 @@ As with so much of the information on Tennisplayer, I have a personal
 connection to this work. Following their programs was a tremendous
 challenge but the reward was worth it. It made a clear contribution to
 my competitive success. Not to mention what it did for my health and
-especially energy level. It\'s probably not a coincidence that I met my
+especially energy level. It's probably not a coincidence that I met my
 wife during the period when I was training the hardest and in the best
-shape of my life. We won\'t guarantee that last result for Tennisplayer
-subscribers, but think about ithere\'s a way to raise your game a level
+shape of my life. We won't guarantee that last result for Tennisplayer
+subscribers, but think about ithere's a way to raise your game a level
 or morewithout having to actually change your game.
 
 **Marc Kovacs, PhD**

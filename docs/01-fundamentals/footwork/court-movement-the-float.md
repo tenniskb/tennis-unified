@@ -4,22 +4,20 @@
 
 ------------------------------------------------------------------------
 
-Now that we\'ve looked at the basic movement patterns, ([Click
-Here](Footwork%20TOC.docx)) let\'s see how we can speed up our movement
+Now that we've looked at the basic movement patterns, ([Click
+Here](Footwork%20TOC.docx)) let's see how we can speed up our movement
 in certain situations using a move that I call \"The Float.\"
 
-Let\'s see how The Float applies in two critical areas that put pressure
+Let's see how The Float applies in two critical areas that put pressure
 on our movement skills: approaching the net and the return of serve.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                        |
-+:======================================================================================================================================================================:+
-| ![A person running on a tennis court Description automatically generated with medium                                                                                   |
-| confidence](media_court-movement-the-float/media/image1.webp){width="3.2881944444444446in" |
-| height="2.1993055555555556in"}                                                                                                                                         |
-|                                                                                                                                                                        |
-| **Learning the Float can help you become a great all court player.**                                                                                                   |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A person running on a tennis court Description automatically generated with medium |
+| confidence](media_court-movement-the-float/media/image1.webp) |
+|  |
+| **Learning the Float can help you become a great all court player.** |
+
 
 **Attacking the Net**
 
@@ -36,8 +34,7 @@ skiing.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person running on a track Description automatically generated with low
-   confidence](media_court-movement-the-float/media/image2.webp){width="3.2881944444444446in"
-                                                                       height="2.1993055555555556in"}
+   confidence](media_court-movement-the-float/media/image2.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                              **The Float sequence: unweight, touch and push off with the Inside Foot. Step to the ball with the Outside Foot**
 
@@ -66,8 +63,7 @@ further away.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person playing tennis Description automatically generated with medium
-   confidence](media_court-movement-the-float/media/image3.webp){width="3.2881944444444446in"
-                                                                       height="2.1993055555555556in"}
+   confidence](media_court-movement-the-float/media/image3.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              **The Float on the backhand approach and volley.**
 
@@ -86,8 +82,7 @@ Inside Foot and steps to the ball with the Outside Foot.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person running on a tennis court Description automatically
-   generated](media_court-movement-the-float/media/image4.webp){width="3.2881944444444446in"
-                                                                      height="2.1993055555555556in"}
+   generated](media_court-movement-the-float/media/image4.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                **After the Float, the push with the Inside Foot is backwards to the ball.**
 
@@ -106,10 +101,9 @@ put them away.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A picture containing text, athletic game, sport, outdoor Description automatically
-   generated](media_court-movement-the-float/media/image5.webp){width="3.2881944444444446in"
-                                                                      height="2.1993055555555556in"}
+   generated](media_court-movement-the-float/media/image5.webp)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                            **Can you see the unweighting and the pattern of movement with the Inside and Outside Feet on Federer\'s return?**
+                            **Can you see the unweighting and the pattern of movement with the Inside and Outside Feet on Federer's return?**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -128,8 +122,7 @@ with a big first serve.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person playing tennis Description automatically generated with medium
-   confidence](media_court-movement-the-float/media/image6.webp){width="3.2881944444444446in"
-                                                                       height="2.1993055555555556in"}
+   confidence](media_court-movement-the-float/media/image6.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        **On the return, watch the sequence: unweighting and then the push and the step to the ball.**
 
@@ -153,8 +146,7 @@ ball]{.underline}]{.mark}**
 
 ![A picture containing tree, outdoor, person, purple Description
 automatically
-generated](media_court-movement-the-float/media/image7.jpeg){width="1.2958333333333334in"
-height="1.520138888888889in"}
+generated](media_court-movement-the-float/media/image7.jpeg)
 
 **Bob Hansen** is the long time mens varsity coach at the University of
 California at Santa Cruz, where he has lead his beloved Banana Slugs to

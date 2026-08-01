@@ -10,7 +10,7 @@ In the last article we looked at some of the underlying principles of
 muscle mechanics in our teaching system, based on quantitative
 biomechanical analysis ([Click
 Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_02/index.html).)
-Now in the next two articles, let\'s see how these principles apply in
+Now in the next two articles, let's see how these principles apply in
 creating our two handed backhand teaching model, what we have called the
 Type 3 or ATP style two-hander.
 
@@ -19,27 +19,25 @@ technical styles ranging from junior and club tennis all the way to the
 top of the game. ([Click
 Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/atp_backhand_part_01/index.html).)
 
-In this article let\'s look first at the critical elements of the
+In this article let's look first at the critical elements of the
 backswing: the take back and the dynamic slot. Specifically what is the
 dynamic slot, how does it work, and how do you create it. Then in the
 final article we can focus on how the other components in completing the
 forward swing.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image1.webp)
 
 **How does muscle optimization work in the ATP two-hander?**
 
 **The Backswing**
 
 As we have implied Novak Djokovic is the near perfect model of these
-advanced stroke mechanics. So let\'s start by looking how he begins the
+advanced stroke mechanics. So let's start by looking how he begins the
 motion and his initial take back position.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image2.webp)
 
 **The outside backswing: an aggressive shoulder stretch and arm and
 racket mass away from the trunk.**
@@ -54,7 +52,7 @@ continuous from the start of the backswing to the stretched back
 position. So what is the advantage of this position?
 
 With the outside one-piece backswing, Novak is putting an aggressive
-stretch on the front shoulder. He\'s extending the right arm very far
+stretch on the front shoulder. He's extending the right arm very far
 back. You can feel this stretch if you create this position for
 yourself.
 
@@ -72,16 +70,15 @@ powerful position for initiating the motion in the right (bottom) arm.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image3.webp)
 
 **The leg drive and torso rotation cause the racket to lag and move
 closer to the body.**
 
 **Ground Up -- The Early Forward Swing**
 
-Now let\'s see how this position works by watching the sequence of the
-motion from the ground up. Novak\'s leg drive initiates a very
+Now let's see how this position works by watching the sequence of the
+motion from the ground up. Novak's leg drive initiates a very
 aggressive pelvic rotation, and this in turn leads to an aggressive
 upper trunk rotation. This sequence of events is critical and allows the
 muscles of the torso to work in more optimal conditions This is an
@@ -103,8 +100,7 @@ the previous article as one of the attributes of the stretch-shorten
 cycle.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image4.webp)
 
 **The one piece backswing with as much mass away from the body.**
 
@@ -140,8 +136,7 @@ Here](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx).
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image5.webp)
 
 **The WTA version is driven much more by the top hand.**
 
@@ -164,12 +159,11 @@ targeted the pulling force of the right (bottom) arm directly impacting
 the potential to generate forward racquet head speed.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image6.webp)
 
 **The pulling of the hands contributes to the flip.**
 
-Now let\'s look more closely at the positions at the end of the
+Now let's look more closely at the positions at the end of the
 backswing and turn our attention to another possible optimization. This
 optimization is critical to the rotations I call twist rotations of the
 arm segments. Ultimately these rotations will impact the ability to
@@ -195,8 +189,7 @@ Here](Developing%20an%20ATP%20Forehand%20-%20Part1.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image7.webp)
 
 **Does this chain of events look familiar?**
 
@@ -228,8 +221,7 @@ racquet rotates away in the flip.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image8.webp)
 
 **Pushing down with the top left can enhance racket rotation into the
 flip.**
@@ -252,7 +244,7 @@ for the Type 3 stroke to work. The reason for this will be discussed in
 the next article.
 
 Compare all this again to the lateral loop in the Type 1 WTA style
-forehand. If you\'re coming out of a loop, the orientation of the
+forehand. If you're coming out of a loop, the orientation of the
 racquet and rotational path of the hands make neuromuscular enhancement
 from the dynamic slot impossible. Even in the Type 2 loop makes
 achieving the flip troublesome -- if not impossible.
@@ -261,12 +253,11 @@ achieving the flip troublesome -- if not impossible.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image9.webp)
 
 **The lateral loop makes neuromuscular enhancement impossible.**
 
-Now let\'s turn this around and look at it all one more time from the
+Now let's turn this around and look at it all one more time from the
 back view. The racquet is placed above the hands, but also to the
 outside of the hands as we have seen.
 
@@ -288,14 +279,13 @@ player controls the degree to which you let the racquet flip.
 
 This is the beauty of the whole thing. Rather than having to dictate and
 manufacture all of these positions in the racquet, when you get good at
-this technique, you\'re simply controlling the racquet's descent, and by
-doing that, you\'re changing the swing to alter ratio of forward to
+this technique, you're simply controlling the racquet's descent, and by
+doing that, you're changing the swing to alter ratio of forward to
 vertical racquet head speed at contact while still engaging all these
 neuromuscular optimization techniques.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image10.webp)
 
 **One more view: the pull makes the racket move down and back
 laterally.**
@@ -309,7 +299,7 @@ more important than strength then this backhand should be accessible to
 just about anyone with proper instruction.
 
 So can you take a junior that has the racquet back to West Texas (as
-Rick Macci would say) and convert him to something that\'s very compact
+Rick Macci would say) and convert him to something that's very compact
 and dynamic? I believe the answer is yes and it is a theory we've been
 testing for over four years at the Academy.
 
@@ -317,21 +307,20 @@ In the next installment we will look in greater detail at the forward
 swing and tie the optimization techniques to the positions familiar to
 those who follow high-level tennis -- stay tuned.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                                     | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image11.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                                    | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                                  | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                                  | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                                  | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                                  | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                                  | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                                  | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                                  | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                                  |                                                               |
-|                                                                                                                                                                                                                  | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                                  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                                  |                                                               |
-|                                                                                                                                                                                                                  | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                                  | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+==================================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/media/image11.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

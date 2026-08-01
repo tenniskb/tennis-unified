@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image1.webp)
 
 **A practical guide to help you win matches.**
 
@@ -33,8 +32,7 @@ seen every video.  But unfortunately, just exposing themselves to more
 information is not a substitute for positive action on the court.
 
 ![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image2.webp)
 
 **Do you have the tools to stay positive at 5 all in the third?**
 
@@ -65,8 +63,7 @@ it becomes habitual, you will realize the ability to play at your full
 potential. 
 
 ![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image3.webp)
 
 **The system works extremely well with junior players.**
 
@@ -87,27 +84,23 @@ incorporate this system into your every day match play, you will win
 more matches than ever before, especially if you are amongst the legions
 of players who have a history of folding when the heat index is highest.
 
-When you win a match, you\'ll be able to say, "Yes I think I know why I
+When you win a match, you'll be able to say, "Yes I think I know why I
 won and now I believe I can do it again." And with more and more
-practice and experience with these new techniques, there\'s an ever
+practice and experience with these new techniques, there's an ever
 increasing chance that this is what will happen.
 
-When you do lose matches due to a mental/emotional element, you\'ll be
+When you do lose matches due to a mental/emotional element, you'll be
 much more likely to be able to pinpoint the reason(s) why you lost. 
 This opens the possibility of making the necessary corrections so that
-you\'ll then be less likely to lose matches in the future.
+you'll then be less likely to lose matches in the future.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person in a suit smiling Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image4.jpg){width="1.2462609361329833in"
-                                            height="1.4661898512685914in"}![A person with his eyes closed Description automatically generated with low
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image5.jpg){width="1.066926946631671in"
-                                            height="1.436246719160105in"}![A person wearing sunglasses Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image6.jpg){width="1.1143733595800525in"
-                                          height="1.4182939632545932in"}![A person smiling for the camera Description automatically generated with medium
-   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image7.jpg){width="1.2010990813648295in"
-                                          height="1.4012817147856518in"}![A person smiling for the camera Description automatically generated with medium
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image8.jpg){width="0.99in" height="1.4in"}
+   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image4.jpg)![A person with his eyes closed Description automatically generated with low
+   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image5.jpg)![A person wearing sunglasses Description automatically generated with medium
+   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image6.jpg)![A person smiling for the camera Description automatically generated with medium
+   confidence](media_a-practical-guide-to-peak-performance-part-1/media/image7.jpg)![A person smiling for the camera Description automatically generated with medium
+  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image8.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                   **Jim Loehr, Alistair Higham, Allen Fox, Jeff Greenwald, Tim Gallwey (from left) ---some of the major contributors to mental training, many on Tennisplayer!**
 
@@ -128,17 +121,13 @@ What I have done as a working coach is synthesize their most important
 ideas and condense them down into 8 Components, components that are
 accessible under competitive stress, and easy to apply and to manage. 
 
-+-----------------------------------------------------------------+
-| **The Eight Components Are:**                                   |
-+================================+================================+
-| **1) Fun**                     | **2) Playing for Yourself**    |
-+--------------------------------+--------------------------------+
-| **3) Going for Your Shots**    | **4) Looking Confident**       |
-+--------------------------------+--------------------------------+
-| **5) Stress Management**       | **6) The Cognitive Component** |
-+--------------------------------+--------------------------------+
-| **7) Attentional Techniques**  | **8) The Will to Win**         |
-+--------------------------------+--------------------------------+
+| **The Eight Components Are:** |  |
+| --- | --- |
+| **1) Fun** | **2) Playing for Yourself** |
+| **3) Going for Your Shots** | **4) Looking Confident** |
+| **5) Stress Management** | **6) The Cognitive Component** |
+| **7) Attentional Techniques** | **8) The Will to Win** |
+
 
 In this first article, we'll address the first 4 components: Fun,
 Playing for Yourself, Going for Your Shots, and Looking Confident.  
@@ -155,8 +144,7 @@ how to play tennis?"
 
 ![A person in a sports uniform Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image9.webp)
 
 **Wasn't fun the reason you started playing this game?**
 
@@ -187,7 +175,7 @@ fellow players?   Is my ranking high enough?  And that is inevitably
 because we are competitive creatures living in a highly competitive
 environment.
 
-Here is a fact: we must all come to the realization that we can\'t
+Here is a fact: we must all come to the realization that we can't
 always win no matter how well we play. Your ranking may not always be
 heading north despite your best efforts.  You may never be number one in
 your division even if you realize your full potential.  So what is a
@@ -196,8 +184,7 @@ tangible than intrinsic rewards---become more important as well?
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image10.webp)
 
 **Sometimes players need to recapture the feeling of joy that goes with
 being a tennis player.**
@@ -217,13 +204,12 @@ tennis, and they lose even more.
 **Component \# 2: Play for Yourself**
 
 The biggest impediment to "peak performance" on all levels is a fear of
-losing and how this will impact one\'s self-esteem. This is why players
+losing and how this will impact one's self-esteem. This is why players
 with the greatest degree of intrinsic self-esteem normally become our
 best competitors.
 
 ![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image11.webp)
 
 **Self-esteem leads to full commitment.**
 
@@ -255,8 +241,7 @@ outer centered concerns at bay we are likely to perform better.
 
 ![A person holding a baseball bat Description automatically generated
 with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image12.webp)
 
 **Focusing on the strings keeps your attention inside the court.**
 
@@ -278,16 +263,15 @@ discipline of "tennis tunnel vision." Any number of things or people out
 in the visual field can cause distractions that suddenly plummet them
 down into a cycle of "negative intensity."
 
-"Oh, there\'s uncle my Mom\'s uncle Bob. I wonder if he still remembers
+"Oh, there's uncle my Mom's uncle Bob. I wonder if he still remembers
 that Christmas when I accidentally set his Christmas tree on fire?"  Or,
 "Suzy is playing next to me.  Why is her serve is so much better than
-mine?"  You don\'t need to go there on a break point so practice "visual
+mine?"  You don't need to go there on a break point so practice "visual
 discipline."
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Two people playing tennis Description automatically generated with medium
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image13.jpg){width="2.9256944444444444in"
-  height="1.9534722222222223in"}
+  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image13.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Justine communicated with Carlos, but this was the exception.**
 
@@ -300,7 +284,7 @@ players turn to in critical moments may not have the superb emotional
 control of a coach like Carlos Rodriquez, who always seemed to send the
 right energy to Justine.
 
-**[[For most of us, I think it\'s best to keep your eyes and mind on the
+**[[For most of us, I think it's best to keep your eyes and mind on the
 task at hand. These other things need to be "blocked out." Sports
 psychologists label a player who is particularly good at this a
 "screener."]{.underline}]{.mark}**  "Non-screeners" are easily and
@@ -316,8 +300,7 @@ vigilance has strong survival value.  
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image14.webp)
 
 **Every player should work toward playing with total absorption.**
 
@@ -338,7 +321,7 @@ also tactical performance goals such as "hit the forehand deeper and
 down the line to their backhand," "come in to the net more often," and
 "use the drop shot when you have the opportunity," for example.
 
-These play a very important role in both organizing one\'s approach to a
+These play a very important role in both organizing one's approach to a
 match and assisting the player in remaining more in the present and less
 in the immediate past\--where your mistakes may taunt you
 mercilessly\--or in the future where a preoccupation with demon outcomes
@@ -346,8 +329,7 @@ may await.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image15.webp)
 
 **The antidote for choking is to go for your shots.**
 
@@ -370,7 +352,7 @@ Only when one makes a full commitment can he or she be fully responsible
 for the outcome. Players must be willing to live with what happens and
 accept the outcome regardless of what anyone else may say or think. This
 is the best way to eliminate external influences and to make sure that
-you are really the one in charge of what\'s occurring in your matches.\
+you are really the one in charge of what's occurring in your matches.\
  \
 As Chuck Kriese puts it, "Play to express, not impress."  The primary
 goal is to play for yourself.  This is what full commitment is about.
@@ -398,8 +380,7 @@ to attack or even neutralize the opponent, and their performance tends
 to progressively deteriorate over the course of the match.
 
 ![A person playing tennis Description automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image16.webp)
 
 **If you have made a full commitment, you can accept the consequences,
 win or lose.**
@@ -427,14 +408,13 @@ and I was certainly having a hell of a lot more fun.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image17.webp)
 
 **Let your guns blaze and see what happens.**
 
-As they used to say in the Old West: "If you\'re gonna go down, it\'s
+As they used to say in the Old West: "If you're gonna go down, it's
 best to go down with your guns a blazing." And on the tennis court if
-you\'re going to lose it\'s best to go down attempting to play your
+you're going to lose it's best to go down attempting to play your
 game, rather than a game which is a hollow facsimile.  In this way, full
 commitment can become the secret to overcoming choking. The more you go
 for your shots, the better the chance you will make them at critical
@@ -448,7 +428,7 @@ hitting out, they will commit a slew of errors to remove the discomfort
 of choking.
 
 "Hitting out" doesn't mean over hitting.  If you have this tendency or
-coach someone who is prone to this sort of self destruction, then it\'s
+coach someone who is prone to this sort of self destruction, then it's
 best to keep this performance goal under wraps at least until a greater
 level of self awareness is attained by the potential recipient.
 
@@ -463,8 +443,7 @@ necessary to create full positive intensity.
 
 ![A picture containing text, tennis, person, athletic game Description
 automatically
-generated](media_a-practical-guide-to-peak-performance-part-1/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_a-practical-guide-to-peak-performance-part-1/media/image18.webp)
 
 **Confidence: what you project is what the world will perceive.**
 
@@ -480,7 +459,7 @@ attempting to feel inside.
 Maybe you are not really as confident as you would like to be. Most
 players aren't. No matter. Look confident and you will begin to feel
 confident.  Inevitably over time you will generate genuine confidence.
-As the old saying goes, "Fake it \'til you make it," and I would add to
+As the old saying goes, "Fake it 'til you make it," and I would add to
 that, "If you fake it you will eventually make it."
 
 With time and effort you will own that confidence whether you are the
@@ -496,8 +475,7 @@ along for the ride. 
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image19.webp)
 
 **Between point rituals are critical to creating physical confidence.**
 
@@ -521,12 +499,9 @@ physical presence in the time between points. 
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person in a pink tank top Description automatically generated with low
-  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image20.jpg){width="1.4328357392825897in"
-  height="2.621992563429571in"}![A picture containing tennis, racket, person, athletic game Description automatically
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image21.jpg){width="1.4552241907261592in"
-  height="2.6097036307961505in"}![A picture containing person, person, outdoor, female Description automatically
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image22.jpg){width="1.425372922134733in"
-  height="2.6083366141732283in"}
+  confidence](media_a-practical-guide-to-peak-performance-part-1/media/image20.jpg)![A picture containing tennis, racket, person, athletic game Description automatically
+  generated](media_a-practical-guide-to-peak-performance-part-1/media/image21.jpg)![A picture containing person, person, outdoor, female Description automatically
+  generated](media_a-practical-guide-to-peak-performance-part-1/media/image22.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Watch Ana Ivanovic physically morph from negative to positive after a tough lost point.**
 
@@ -565,8 +540,7 @@ in with a game plan but can attempt to implement it.
 
 ![A person looking at a screen Description automatically generated with
 low
-confidence](media_a-practical-guide-to-peak-performance-part-1/media/image23.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_a-practical-guide-to-peak-performance-part-1/media/image23.webp)
 
 **Learn to take systematic deep breaths between points.**
 
@@ -577,7 +551,7 @@ hand and meeting its possible demise on the hard court in front of you.
 
 **[When the competitive tennis player is under the gun the best thing
 they can do to bring the physical, mental and emotional systems back
-into balance, is [to breath.]{.underline}]{.mark}** I\'m not talking
+into balance, is [to breath.]{.underline}]{.mark}** I'm not talking
 about the ordinary breathing which merely insures our physical survival.
 I am talking about purposeful, deep breathing.  This technique was first
 used by psychotherapists decades ago as a corner stone of
@@ -593,9 +567,9 @@ breaths they are allowed to take within the twenty seconds that they are
 allotted between points. **[["Take as many as you need," I say.  "Fill
 up your lungs to the top and hold it for a good long moment, and do it
 in a way that it does not call too much attention to the fact that
-you\'re doing it. "]{.underline}]{.mark}**
+you're doing it. "]{.underline}]{.mark}**
 
-Even though you\'re "playing for yourself" and you wish to be oblivious
+Even though you're "playing for yourself" and you wish to be oblivious
 to what anyone else (including your opponent) may glean from this
 breathing exercise, an important part of appearing confident is not
 revealing that you may be struggling with anxiety. 
@@ -613,27 +587,25 @@ components in developing and sustaining peak performance.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text, person, person, posing Description automatically                                                                                                        Jeffrey F. McCullough has been a leading California
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image24.jpeg){width="1.0375in"   teaching pro for over 30 years. In the early 80\'s,
-  height="1.6715277777777777in"}                                                                                                                                                       he worked at San Francisco\'s legendary Golden Gate
+  generated](media_a-practical-guide-to-peak-performance-part-1/media/image24.jpeg)                                                                                                                                                       he worked at San Francisco's legendary Golden Gate
                                                                                                                                                                                        Park where he taught side by side with John
                                                                                                                                                                                        Yandell\--and for a year shared an ocean view
-                                                                                                                                                                                       apartment in the city\'s Sunset district. For the
+                                                                                                                                                                                       apartment in the city's Sunset district. For the
                                                                                                                                                                                        last 13 years he has taught in San Diego, California
                                                                                                                                                                                        at the George E. Barnes Family Jr. Tennis Center.
                                                                                                                                                                                        Specializing in developing junior players, he has
                                                                                                                                                                                        coached over 50 juniors who have gone on to win
                                                                                                                                                                                        tournaments at all levels in USTA play. Jeff is also
                                                                                                                                                                                        the author of the seminal work on the two-handed
-                                                                                                                                                                                       game, \"Two Handed Tennis: How to Play a Winner\'s
+                                                                                                                                                                                       game, \"Two Handed Tennis: How to Play a Winner's
                                                                                                                                                                                        Game.\"
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Text Description automatically                                                                                                                                                      \"In Two-Handed Tennis: How to Play a Winner\'s Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
-  generated](media_a-practical-guide-to-peak-performance-part-1/media/image25.jpeg){width="1.19375in"   the two-handed style, the essential biomechanical differences between one and two-handed shots\--including the various advantages
-  height="1.8208333333333333in"}                                                                                                                                                        of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
+  ![Text Description automatically                                                                                                                                                      \"In Two-Handed Tennis: How to Play a Winner's Game,\" Jeffrey F. McCullough outlined for the first time the entire history of
+  generated](media_a-practical-guide-to-peak-performance-part-1/media/image25.jpeg)                                                                                                                                                        of the latter, and described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court,
                                                                                                                                                                                         including how to develop a two-handed forehand in several variations. This classic work was first published in 1984. [Click
                                                                                                                                                                                         Here](http://www.amazon.com/Two-Handed-Tennis-Play-Winners-Game/dp/0871314258/ref=sr_1_1?ie=UTF8&s=books&qid=1219008484&sr=1-1)
                                                                                                                                                                                         to order!

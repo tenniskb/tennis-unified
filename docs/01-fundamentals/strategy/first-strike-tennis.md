@@ -1,39 +1,37 @@
 # First Strike Tennis: A Four Shot Battle
 
-### Craig O\'Shannessy
+### Craig O'Shannessy
 
 ------------------------------------------------------------------------
 
-![](media_first-strike-tennis/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_first-strike-tennis/media/image1.webp)
 
 **A serve and a forehand---a winning first strike point?**
 
 In the last article, we looked at the number of hits that determine
 points and found that in pro tennis, despite a limited number of rallies
 that can last over 20 balls, most points are decided by 4 hits---or
-less. It\'s 60 % or higher.
+less. It's 60 % or higher.
 
 What wins? First strike tennis. A serve, or a serve plus one shot. A
 return, or a return plus one shot.
 
-If you are still struggling to get your mind around that, let\'s look at
+If you are still struggling to get your mind around that, let's look at
 some specific pro matches with players including Stan Wawrinka, Rafael
 Nadal, Novak Djokoivic and Bernard Tomic.
 
-Let\'s see how success in points of 4 hits or less determined what
+Let's see how success in points of 4 hits or less determined what
 happened to these players at the Australian Open in 2015.
 
 **4 Shot Battle**
 
 In Australia in 2015, Stan Wawrinka had a really nice run to the
 semi-finals. He won five matches before losing to Novak Djokovic. The
-table below outlines Stan\'s performance in those first 5 matches.
+table below outlines Stan's performance in those first 5 matches.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_first-strike-tennis/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_first-strike-tennis/media/image2.webp)
 
 **Stan was a winner when he was a 4 hit winner.**
 
@@ -69,7 +67,7 @@ And then Stan went five sets with Novak in the semis and lost--
 completely running out of gas mentally and emotionally in the 5th set.
 So where did Novak have the edge in this match?
 
-Let\'s look at numbers from Stan\'s point of view. His first strike
+Let's look at numbers from Stan's point of view. His first strike
 points went severely negative. In just this one match he was -13. In the
 longer 5-8 shot rallies where he had also had a big edge, he was
 negative again at -2.
@@ -117,14 +115,13 @@ won.
 
 ![A picture containing text, person, sport, player Description
 automatically
-generated](media_first-strike-tennis/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_first-strike-tennis/media/image3.webp)
 
 **A backhand return and a backhand\--Rafa wins a 4 hit point.**
 
 Rafa played by far away the majority of his points in First Strike mode.
 65% of them. Notice this total First Strike point percentage was
-virtually identical to Stan. And like Stan\'s in his winning matches,
+virtually identical to Stan. And like Stan's in his winning matches,
 Rafa was in positive 4 strike territory in the matches he won at +22.
 
 And note this! Rafa actually played slightly fewer 5 to 8 shot points
@@ -138,12 +135,12 @@ Rafa is supposedly the king of extended rallies. But they comprised only
 more of them than he won.
 
 So put another whenever Rafa played three points, two were first strike
-points, and one was longer. Again, 2 out 3 of Rafa\'s points went on for
+points, and one was longer. Again, 2 out 3 of Rafa's points went on for
 4 hits---or less.
 
 **Berdych**
 
-But the good numbers didn\'t last for Rafa in the quarterfinals. Rafa
+But the good numbers didn't last for Rafa in the quarterfinals. Rafa
 ran into a buzzsaw. Tomas Berdych really gave it to him!
 
 Where did Rafa really lose the match? Tomas beat Rafa down in First
@@ -153,7 +150,7 @@ Rafa lost 23 more points than he won in First Strike points. And he was
 also negative in 5 to 8 shot rallies. And only broke even in the 9 shot
 or more rallies.
 
-The conclusion? Dominating a big pool of points is where it\'s all at.
+The conclusion? Dominating a big pool of points is where it's all at.
 All of the long rallies that Rafa wanted to play to find an advantage
 came down to zero. He won the same amount he lost.
 
@@ -172,8 +169,7 @@ see the long rallies. But the math tells the truth.
   ---------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_first-strike-tennis/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_first-strike-tennis/media/image4.webp)
 
 **Winning First Strike Tennis in Australia: serves and returns---and
 serves and returns plus 1.**
@@ -181,7 +177,7 @@ serves and returns plus 1.**
 **One More: Bernard Tomic**
 
 And one more example. Bernard had a solid tournament, making the fourth
-round, before also losing to Tomas Berdych. Let\'s have a look at how
+round, before also losing to Tomas Berdych. Let's have a look at how
 Bernie went about his business in the three matches he won.
 
 Tomic played 72% first strike points in the first three rounds. He was
@@ -216,7 +212,7 @@ definitely determined the outcome.
 **Starting to see a pattern?**
 
 **[[Extended Rallies are not where you win or lose. Know the biggest
-pool of points by far is in the first 4 shots. That\'s where you will
+pool of points by far is in the first 4 shots. That's where you will
 ultimately win or ultimately lose.]{.mark}]{.underline}**
 
 And, again, this is how you should train, by focusing on the first 4
@@ -235,29 +231,27 @@ story about one of the winningest high school programs in the country.
 
 ------------------------------------------------------------------------
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with low                                                                       | Craig O\'Shannessy is widely recognized as  |
-| confidence](media_first-strike-tennis/media/image5.jpg){width="1.875in" | the world leader in analyzing tennis        |
-| height="2.3333333333333335in"}                                                                                                                       | statistics, tennis strategy, and applying   |
-|                                                                                                                                                      | his insights in coaching. His research has  |
-|                                                                                                                                                      | uncovered the real magic numbers in winning |
-|                                                                                                                                                      | tennis across all levels of the game. He    |
-|                                                                                                                                                      | writes for the ATP Tour website and the New |
-|                                                                                                                                                      | York Times among others elite publications. |
-|                                                                                                                                                      |                                             |
-|                                                                                                                                                      | He has coached on the tour for 20 years     |
-|                                                                                                                                                      | working with players including Kevin        |
-|                                                                                                                                                      | Anderson, Amer Delic, and Rajeev Ram. His   |
-|                                                                                                                                                      | website Brain Game Tennis offers detailed   |
-|                                                                                                                                                      | analysis and training programs based on his |
-|                                                                                                                                                      | research that have helped thousands of      |
-|                                                                                                                                                      | players around the world.                   |
-+======================================================================================================================================================+=============================================+
+| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
+| --- | --- |
+| confidence](media_first-strike-tennis/media/image5.jpg) | statistics, tennis strategy, and applying |
+|  | his insights in coaching. His research has |
+|  | uncovered the real magic numbers in winning |
+|  | tennis across all levels of the game. He |
+|  | writes for the ATP Tour website and the New |
+|  | York Times among others elite publications. |
+|  |  |
+|  | He has coached on the tour for 20 years |
+|  | working with players including Kevin |
+|  | Anderson, Amer Delic, and Rajeev Ram. His |
+|  | website Brain Game Tennis offers detailed |
+|  | analysis and training programs based on his |
+|  | research that have helped thousands of |
+|  | players around the world. |
+
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Diagram Description automatically generated with medium                                                                                                           [Click
-  confidence](media_first-strike-tennis/media/image6.jpg){width="3.4722222222222223in"   Here](http://www.braingametennis.com/)
-  height="1.7916666666666667in"}                                                                                                                                      to visit Craig\'s site and check out his
+  confidence](media_first-strike-tennis/media/image6.jpg)                                                                                                                                      to visit Craig's site and check out his
                                                                                                                                                                       amazing training products!
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 

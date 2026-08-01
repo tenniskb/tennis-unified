@@ -12,27 +12,26 @@ up the various rotations he has outlined in previous articles.
 
 A Note on the Audio: John Yandell pleads operator error and explains
 that the hiss, crackle, pop in this and the next segment was the result
-of his failure to monitor the connection of Brian\'s microphone---but
+of his failure to monitor the connection of Brian's microphone---but
 the info is all there and comprehensible---luckily---or it would have
 meant another trip to Miami\...
 
 ![](media_the-serve-the-stances/media/image1.png)
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                               | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-serve-the-stances/media/image2.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                              | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                            | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                            | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                            | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                            | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                            | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                            | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                            | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                            |                                                               |
-|                                                                                                                                                                            | To visit his website, [**[Click                               |
-|                                                                                                                                                                            | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                            |                                                               |
-|                                                                                                                                                                            | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                            | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+============================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-serve-the-stances/media/image2.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

@@ -29,8 +29,7 @@ thẳng cơ bắp không cần thiết trong khi vẫn duy trì sự toàn vẹn
 trúc, thường được mô tả là \"sắt bọc bông\" \[2\].
 
 ![Phóng Tùng: Sắt Bọc
-Bông](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/31331c704257a414a7f3f97889f75de8a2948fe9.png "Phóng Tùng: Sắt Bọc Bông"){width="6.25in"
-height="4.166666666666667in"}
+Bông](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/31331c704257a414a7f3f97889f75de8a2948fe9.png "Phóng Tùng: Sắt Bọc Bông")
 
 **Liên hệ với Volley:** Một cách cầm vợt lỏng (áp lực 3-4/10) cho phép
 đầu vợt hơi nhường lại khi tiếp xúc, kéo dài thời gian tiếp xúc và giảm
@@ -44,8 +43,7 @@ Thính Kình (聽勁): Cảm Nhận Quả Bóng
 và diễn giải lực thông qua xúc giác \[3\].
 
 ![Thính Kình: Năng Lượng Lắng
-Nghe](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/0c2112af68a12e3f50751031e0102d996e528e66.png "Thính Kình: Năng Lượng Lắng Nghe"){width="6.25in"
-height="4.166666666666667in"}
+Nghe](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/0c2112af68a12e3f50751031e0102d996e528e66.png "Thính Kình: Năng Lượng Lắng Nghe")
 
 **Liên hệ với Volley:** Ngón cái và ngón trỏ hoạt động như \"bộ cảm
 biến,\" cung cấp phản hồi xúc giác về tác động của bóng. Sự nhạy cảm này
@@ -65,8 +63,7 @@ bị (backswing). Trong đó, cẳng tay đóng vai trò là đáy của chữ U
 cánh tay trên và vợt tạo thành hai cạnh bên.
 
 ![Hình Chữ U: Khung Chuẩn
-Bị](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/6502401ce248561222eee2469cf65580f8339ff2.png "Hình Chữ U: Khung Chuẩn Bị"){width="6.25in"
-height="4.166666666666667in"}
+Bị](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/6502401ce248561222eee2469cf65580f8339ff2.png "Hình Chữ U: Khung Chuẩn Bị")
 
 **Ứng dụng và Liên hệ Thái Cực:** Cấu trúc này giúp giữ cho cú vung vợt
 gọn gàng và vợt luôn nằm trong tầm mắt. Trong Thái Cực Quyền, điều này
@@ -80,8 +77,7 @@ Hình chữ L đề cập đến góc 90 độ ổn định giữa cẳng tay v�
 biệt quan trọng trong cú volley trái tay (backhand).
 
 ![Hình Chữ L: Khung Ổn
-Định](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/4fd42de05c01e9340129beabfe2faa77af87068f.png "Hình Chữ L: Khung Ổn Định"){width="6.25in"
-height="4.166666666666667in"}
+Định](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/4fd42de05c01e9340129beabfe2faa77af87068f.png "Hình Chữ L: Khung Ổn Định")
 
 **Ứng dụng và Liên hệ Thái Cực:** Khung chữ L tạo ra một \"khóa cấu
 trúc\" (L-Shape Lock) giúp chống lại các cú đánh có tốc độ cao. Nó đảm
@@ -103,8 +99,7 @@ chân sau (thực) và bước tới bằng chân trước (hư chuyển sang th
 tại thời điểm tiếp xúc bóng.
 
 ![Bộ Pháp: Hư
-Thực](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/efd8e42a737862b9dcdc209adb5a8e99eb42a341.png "Bộ Pháp: Hư Thực"){width="6.25in"
-height="4.166666666666667in"}
+Thực](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/efd8e42a737862b9dcdc209adb5a8e99eb42a341.png "Bộ Pháp: Hư Thực")
 
 **Gravity Step (Bước Trọng Lực):** Đối với các cú volley thấp, thay vì
 chỉ cúi người ở thắt lưng, người chơi sử dụng \"Gravity Step\" để hạ
@@ -118,8 +113,7 @@ Trong Thái Cực Quyền, *Lã Kình* (捋勁) là năng lượng dùng để n
 và chuyển hướng lực của đối phương \[2, 3\].
 
 ![Lã Kình: Nghệ Thuật Chuyển
-Hướng](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/b4a4e9c0243f79bcded51a063902c681436caafa.png "Lã Kình: Nghệ Thuật Chuyển Hướng"){width="6.25in"
-height="4.166666666666667in"}
+Hướng](media_ngh-thu-t-chuy-n-h-ng-c-c-nguy-n-l-th-i-c-c-quy-n-trong-c-volley-tennis/media/b4a4e9c0243f79bcded51a063902c681436caafa.png "Lã Kình: Nghệ Thuật Chuyển Hướng")
 
 **Ứng dụng trong Tennis:** Cú volley là biểu hiện rõ nét nhất của *Lã
 Kình*. Bằng cách sử dụng khung cấu trúc ổn định (chữ U và L) kết hợp với
@@ -144,7 +138,7 @@ Relax the muscles \| Loosen the joints*.
 Clear Tai Chi. (n.d.). *The #1 Most Important Skill In Tai Chi & All
 Internal Arts*.
 <https://www.cleartaichi.com/chi-energy-blog/ting-jing-listening-energy-1134.html>
-\[4\] Open the Door to Tai Chi. (n.d.). *Beginner Tai Chi: \'Substantial
-and Insubstantial\'*. <https://www.youtube.com/watch?v=PZoNiRrUUxs>
+\[4\] Open the Door to Tai Chi. (n.d.). *Beginner Tai Chi: 'Substantial
+and Insubstantial'*. <https://www.youtube.com/watch?v=PZoNiRrUUxs>
 \[5\] volley.md. (n.d.). Tài liệu do người dùng cung cấp (Modern Tennis
 Volley Handbook 2026).

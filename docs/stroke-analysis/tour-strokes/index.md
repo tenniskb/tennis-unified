@@ -11,13 +11,13 @@ description: Pro player stroke analyses — Zverev, Medvedev, Thiem, Nishikori, 
 
 | Player | Stroke | Focus |
 |---|---|---|
-| [Alexander Zverev](alexander-zverev-serve.md) | Serve | Serve mechanics |
-| [Daniil Medvedev](daniil-medvedev-forehand.md) | Forehand | Unorthodox forehand |
-| [Dominic Thiem](dominic-thiem-second-serve.md) | 2nd Serve | Second serve structure |
-| [Kei Nishikori](kei-nishikori-serve.md) | Serve | Compact serve |
-| [Leylah Fernandez](leylah-fernandez-forehand.md) | Forehand | Left-handed forehand |
-| [The Pro Return](the-pro-return.md) | Return | Pro return analysis |
+| [Alexander Zverev](../../03-stroke-analysis/tour-strokes/alexander-zverev-serve.md) | Serve | Serve mechanics |
+| [Daniil Medvedev](../../03-stroke-analysis/tour-strokes/daniil-medvedev-forehand.md) | Forehand | Unorthodox forehand |
+| [Dominic Thiem](../../03-stroke-analysis/tour-strokes/dominic-thiem-s-second-serve.md) | 2nd Serve | Second serve structure |
+| [Kei Nishikori](../../03-stroke-analysis/tour-strokes/kei-nishikori-serve.md) | Serve | Compact serve |
+| [Leylah Fernandez](../../03-stroke-analysis/tour-strokes/leylah-fernandez-forehand.md) | Forehand | Left-handed forehand |
+| [The Pro Return](../../03-stroke-analysis/tour-strokes/the-pro-return.md) | Return | Pro return analysis |
 
 ---
 
-**Start here:** [Zverev Serve](alexander-zverev-serve.md) or [Medvedev Forehand](daniil-medvedev-forehand.md)
+**Start here:** [Zverev Serve](../../03-stroke-analysis/tour-strokes/alexander-zverev-serve.md) or [Medvedev Forehand](../../03-stroke-analysis/tour-strokes/daniil-medvedev-forehand.md)

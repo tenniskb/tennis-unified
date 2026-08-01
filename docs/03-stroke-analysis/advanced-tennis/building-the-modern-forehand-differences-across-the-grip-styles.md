@@ -12,7 +12,7 @@ placements make trying to identify, understand, and develop the
 fundamental elements exceedingly confusing, difficult and complex.
 
 If you talk to knowledgeable coaches and successful teaching pros,
-you\'ll hear a wide variety of emphasis and opinion, and even directly
+you'll hear a wide variety of emphasis and opinion, and even directly
 contradictory viewpoints.
 
 This is in part because of the speed of the swings and the limits of
@@ -29,8 +29,7 @@ level?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image1.webp)
 
 **Given the diversity of grips and complexity of technical styles, how
 do we tell what is basic and what is a variation?**
@@ -42,13 +41,12 @@ forehand, or any stroke for that matter.
 
 ***[[This is because the eye needs an event that lasts a minimum of 1/8
 of second to resolve a clear image. Unfortunately the contact with the
-ball is far too fast, lasting only 1/250 of a second. That\'s about 30
+ball is far too fast, lasting only 1/250 of a second. That's about 30
 times too fast for the human eye to see clearly.]{.mark}]{.underline}***
 
 ![A picture containing text, outdoor, sport, athletic game Description
 automatically
-generated](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image2.webp)
 
 **Is it possible to understand the game or teach it responsibly without
 using video analysis?**
@@ -73,7 +71,7 @@ forcing players to submit to unverified opinions that may have a severe
 long term detrimental impact upon their development and competitive
 success.
 
-That may sound harsh, but one fact can\'t really be disputed. That is
+That may sound harsh, but one fact can't really be disputed. That is
 how powerful and effective the process of video analysis and feedback is
 for players at all levels. Having a coach describe what you are doing,
 (or should be doing), and actually seeing what you are doing (or not
@@ -99,8 +97,7 @@ upcoming series on the other strokes as well.)
 
 ![A picture containing text, person, player, female Description
 automatically
-generated](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image3.webp)
 
 **Can you recognize the three critical elements that vary across the
 grip styles?**
@@ -128,7 +125,7 @@ hitting arm position that all players find just before the racket starts
 forward to the ball. [( Click
 Here)](Building%20the%20Modern%20Forehand-The%20Backswings.docx)
 
-Now in this article let\'s move from the commonalities to the
+Now in this article let's move from the commonalities to the
 differences. Despite everything top players have in common, there are
 obvious, critical technical differences in their forehands, and these
 differences are a source of much of the contradiction and confusion in
@@ -153,8 +150,7 @@ underneath) the grip, the more extreme these differences seem to become.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                           ![A person playing tennis Description automatically generated with medium                                                                                                                                                 ![A person hitting a ball with a tennis racket Description automatically
-   confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image4.jpg){width="3.3274650043744534in"   generated](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image5.jpg){width="3.2118055555555554in"
-                                                                                                     height="2.53125in"}                                                                                                                                                                                                 height="2.4432666229221347in"}
+   confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image4.jpg)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              **FACTOR ONE: Rackect Face Angle**                                                                                                                                                                                        **FACTOR TWO: Shoulder Rotation**
 
@@ -162,8 +158,7 @@ underneath) the grip, the more extreme these differences seem to become.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                           ![A person playing tennis Description automatically generated with medium
-   confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image6.jpg){width="3.1354166666666665in"
-                                                                                               height="2.3743055555555554in"}
+   confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image6.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                                FACTOR THREE: Hand and Arm Rotation
 
@@ -174,7 +169,7 @@ possible exception to some of the following analysis: Roger Federer. His
 forehand seems to defy many of the distinctions which separate the other
 top players.
 
-In general I think Federer\'s forehand has been widely misunderstood,
+In general I think Federer's forehand has been widely misunderstood,
 starting with his grip, which is commonly described as \"semi-western.\"
 In fact Federer uses a very conservative grip, one that appears to be
 closer to that of Sampras and Andre Agassi than any of the extreme
@@ -184,24 +179,23 @@ What confuses people is that Federer combines this conservative grip
 structure with the swing shape of a much more extreme forehand. Hence
 people assume he must have a more extreme grip as well.
 
-In reality, Federer\'s forehand may be some new hybrid of the classical
+In reality, Federer's forehand may be some new hybrid of the classical
 and the extreme style. Is it just an exception, or is it a possible
-advance that may be the technical the wave of the future? We\'ll
+advance that may be the technical the wave of the future? We'll
 consider those questions in a future article.
 
-But let\'s start in the next 3 articles by examining the factors that
+But let's start in the next 3 articles by examining the factors that
 separate the majority of the classical from the extreme players. Again
 these are: the angle of the racket face, the shoulder rotation, and the
-hand and arm rotation. Then we\'ll examine the variations on running
-forehands, short balls and angled shots. We\'ll do this by taking a
+hand and arm rotation. Then we'll examine the variations on running
+forehands, short balls and angled shots. We'll do this by taking a
 detailed look at the forehands of some pretty good players, including
 Andre Agassi, Pete Sampras, Andy Roddick, Gustavo Kuerten, and Lleyton
 Hewitt.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image7.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_building-the-modern-forehand-differences-across-the-grip-styles/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

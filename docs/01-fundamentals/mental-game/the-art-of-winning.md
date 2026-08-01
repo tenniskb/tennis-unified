@@ -6,8 +6,7 @@
 
 ![A person wearing a white shirt Description automatically generated
 with medium
-confidence](media_the-art-of-winning/media/image1.jpg){width="3.9583333333333335in"
-height="2.6805555555555554in"}
+confidence](media_the-art-of-winning/media/image1.jpg)
 
 **What are the hidden protocols in the art of winning?**
 
@@ -36,15 +35,14 @@ maintain their poise under stress.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-art-of-winning/media/image2.jpg){width="3.096739938757655in"
-height="2.2521741032370954in"}
+confidence](media_the-art-of-winning/media/image2.jpg)
 
 **Tour players like Barbara Rettner may not be famous but can still
 defeat you with an A, B, or even C plan.**
 
 **Pay Attention to the Opponent**
 
-A top player won\'t stick to a losing game. They\'ll often shift to a
+A top player won't stick to a losing game. They'll often shift to a
 different style of play, a pre-developed Plan B, or even a Plan C. They
 may lose the first set with Plan A, but end up winning the match with
 Plan C.
@@ -69,8 +67,7 @@ Why? Because Barbara took the time to develop more than one style of
 play, and wasn't afraid to put that Plan C in play.
 
 ![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-art-of-winning/media/image3.webp)
 
 **A world class forehand has defensive as well as offensive
 capability.**
@@ -101,8 +98,7 @@ until a player has proven repeatedly that he has solved the problem.
 Stick with the same old boring way of winning points.
 
 ![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-art-of-winning/media/image4.webp)
 
 **Most players are trained to pound 78 foot groundstrokes from baseline
 to baseline.**
@@ -129,7 +125,7 @@ places too.
 **Patterns of Play**
 
 If a certain serve pattern of yours works like a charm, revisit it on
-game points. If the opponent\'s killing you with a certain pattern
+game points. If the opponent's killing you with a certain pattern
 expect it on big points.
 
 If you've hurt an opponent with a system of play, keep attacking that
@@ -154,7 +150,7 @@ the same way.
 **Negative Emotional Cues**
 
 Remember, not all forms of communication are verbal. Watch between
-points for the opponent\'s negative facial expressions and body language
+points for the opponent's negative facial expressions and body language
 as well.
 
 Whatever caused the negative reaction, repeat it. The ability to
@@ -171,8 +167,7 @@ Once you've spotted things that make the opponent uncomfortable, revisit
 those tactics on big points.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-art-of-winning/media/image6.jpg){width="2.0833333333333335in"
-height="3.9027777777777777in"}
+generated](media_the-art-of-winning/media/image6.jpg)
 
 **Watch for negative emotions and body language in your opponent and
 repeat what causes this to happen.**
@@ -208,12 +203,11 @@ column. This is a great way to organize a blue-print for improvement.
 
 Tennis players are creatures of habit. Once they establish a protocol to
 handle a situation, they tend to follow it. To give one critical
-example: what is your opponent\'s short ball optional preference? What
+example: what is your opponent's short ball optional preference? What
 is yours?
 
 ![A person playing tennis Description automatically
-generated](media_the-art-of-winning/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-art-of-winning/media/image7.webp)
 
 **What are your preferred short ball options---and what are your
 opponent's?**
@@ -253,8 +247,7 @@ away from the match saying, \"I had no chance! His forehand was huge!\"
 
 ![A baseball player throwing a ball Description automatically generated
 with medium
-confidence](media_the-art-of-winning/media/image8.jpg){width="2.9166666666666665in"
-height="2.875in"}
+confidence](media_the-art-of-winning/media/image8.jpg)
 
 **How many pitches do you have to use and in what situations?**
 
@@ -285,8 +278,7 @@ between point rituals.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-art-of-winning/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-art-of-winning/media/image9.webp)
 
 **Proper between point rituals help you walk through 3 Doors.**
 
@@ -322,42 +314,40 @@ at consistently go deeper in the draws. Often they have a house full of
 trophies.
 
 Athletes who develop these seemingly hidden skills perform with the
-sense of elite composer. They remain poised even when things aren\'t
+sense of elite composer. They remain poised even when things aren't
 going well.
 
 The ability to remain unflappable under stress is learned behavior.
 Winners practice these protocols with the same dedication they apply to
 their fundamental strokes.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                     | Frank Giampaolo has been a leading Southern        |
-| confidence](media_the-art-of-winning/media/image10.jpeg){width="1.5131944444444445in" | California tennis coach for 25 years, and is the   |
-| height="1.9652777777777777in"}                                                                                                                                        | author of a comprehensive new work on player       |
-|                                                                                                                                                                       | development, Championship Tennis, as well as the   |
-|                                                                                                                                                                       | author of The Tennis Parent\'s Bible. He has       |
-|                                                                                                                                                                       | conducted workshops on mental training around the  |
-|                                                                                                                                                                       | world, and participants have included over 60      |
-|                                                                                                                                                                       | junior players who went on to win U.S. National    |
-|                                                                                                                                                                       | singles titles. He speaks regularly at coaching    |
-|                                                                                                                                                                       | conventions and has made national television       |
-|                                                                                                                                                                       | appearances worldwide.                             |
-|                                                                                                                                                                       |                                                    |
-|                                                                                                                                                                       | To find out more about his mental and emotional    |
-|                                                                                                                                                                       | training workshops\                                |
-|                                                                                                                                                                       | [Click                                             |
-|                                                                                                                                                                       | Here!](http://mentalemotionaltennisworkshops.com/) |
-+=======================================================================================================================================================================+====================================================+
+| ![A person smiling for the camera Description automatically generated with medium | Frank Giampaolo has been a leading Southern |
+| --- | --- |
+| confidence](media_the-art-of-winning/media/image10.jpeg) | author of a comprehensive new work on player |
+|  | development, Championship Tennis, as well as the |
+|  | author of The Tennis Parent's Bible. He has |
+|  | conducted workshops on mental training around the |
+|  | world, and participants have included over 60 |
+|  | junior players who went on to win U.S. National |
+|  | singles titles. He speaks regularly at coaching |
+|  | conventions and has made national television |
+|  | appearances worldwide. |
+|  |  |
+|  | To find out more about his mental and emotional |
+|  | training workshops\ |
+|  | [Click |
+|  | Here!](http://mentalemotionaltennisworkshops.com/) |
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                             | Championship Tennis: The All-Inclusive Guide                               |
-| confidence](media_the-art-of-winning/media/image11.jpeg){width="1.2784722222222222in" |                                                                            |
-| height="1.6520833333333333in"}                                                                                                                                        | In this new book from Human Kinetics, Frank Giampaolo presents a life time |
-|                                                                                                                                                                       | of high level coaching insight into every aspect of tennis                 |
-|                                                                                                                                                                       | development\--athletic assessment, skill development, the mental factor,   |
-|                                                                                                                                                                       | match preparation, practice, and planning. This book is designed to help   |
-|                                                                                                                                                                       | players and coaches accelerate the learning curve by customizing the       |
-|                                                                                                                                                                       | process to the needs of every individual player.                           |
-|                                                                                                                                                                       |                                                                            |
-|                                                                                                                                                                       | [CLICK HERE TO ORDER                                                       |
-|                                                                                                                                                                       | !](http://www.humankinetics.com/products/all-products/Championship-Tennis) |
-+=======================================================================================================================================================================+============================================================================+
+
+| ![A person playing tennis Description automatically generated with medium | Championship Tennis: The All-Inclusive Guide |
+| --- | --- |
+| confidence](media_the-art-of-winning/media/image11.jpeg) | In this new book from Human Kinetics, Frank Giampaolo presents a life time |
+|  | of high level coaching insight into every aspect of tennis |
+|  | development\--athletic assessment, skill development, the mental factor, |
+|  | match preparation, practice, and planning. This book is designed to help |
+|  | players and coaches accelerate the learning curve by customizing the |
+|  | process to the needs of every individual player. |
+|  |  |
+|  | [CLICK HERE TO ORDER |
+|  | !](http://www.humankinetics.com/products/all-products/Championship-Tennis) |
+

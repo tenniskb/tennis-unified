@@ -6,13 +6,12 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-problem-of-finishing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-problem-of-finishing/media/image1.webp)
 
 **\"Perfectionism\" allows players to keep getting angry over
 mistakes.**
 
-Let\'s take a closer look at the concept of \"perfectionism,\" which I
+Let's take a closer look at the concept of \"perfectionism,\" which I
 see as substantially different from the common understanding.
 
 When people label themselves as \"perfectionists\" they usually do so
@@ -25,15 +24,15 @@ the ones that are forever getting angry or depressed when they make
 mistakes on the tennis court - simply suffer from an immature and
 distorted view of reality.
 
-**[[Of course, they make mistakes, and of course they don\'t like making
+**[[Of course, they make mistakes, and of course they don't like making
 mistakes. Nobody does. But they have not yet accepted the truth that
 they make mistakes because it is impossible not to make them, and it
-always will be. That\'s the reality of the situation, and it\'s a
+always will be. That's the reality of the situation, and it's a
 reality they are not yet able to accept.]{.mark}]{.underline}**
 
 **[[Calling the trait \"perfectionism\" turns it into more of a virtue
 than it is and allows them to continue getting angry at mistakes they
-can\'t help. If they saw the issue as one of being simply immature and
+can't help. If they saw the issue as one of being simply immature and
 unrealistic (which are faults, not virtues) they might have to take
 action to correct it, which they are not yet prepared to
 do.]{.mark}]{.underline}**
@@ -46,8 +45,7 @@ paragraph.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Text Description automatically
-  generated](media_the-problem-of-finishing/media/image2.jpg){width="4.125in"
-  height="2.375in"}
+  generated](media_the-problem-of-finishing/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
   **No matter what you do, you cannot eliminate mistakes.**
 
@@ -60,7 +58,7 @@ all this and was scary smart.
 
 He could hardly speak English when he arrived (at least I could barely
 understand him), but he had somehow managed to pass the language and
-entrance exams. He never slept; he never studied; and he got A\'s in
+entrance exams. He never slept; he never studied; and he got A's in
 most of his classes. I was mystified as to how he did it.
 
 But on the tennis court he had a very short fuse. Despite his
@@ -82,25 +80,24 @@ vaguely comical.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person playing tennis Description automatically generated with medium
-   confidence](media_the-problem-of-finishing/media/image3.jpg){width="3.078261154855643in"
-                                                                        height="3.755479002624672in"}
+   confidence](media_the-problem-of-finishing/media/image3.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               I loved everything about the tour\--except losing.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I couldn\'t resist. So I said to him, \"Charles, I have the solution to
-your problem of making too many mistakes. It\'s simple. The next time
-you play a match, go out there and don\'t miss anymore!\"
+I couldn't resist. So I said to him, \"Charles, I have the solution to
+your problem of making too many mistakes. It's simple. The next time
+you play a match, go out there and don't miss anymore!\"
 
 For a moment he just stared at me quizzically, thinking I was crazy.
-Then he understood. I said, \"That\'s right, Charles. You can\'t
-possibly do that. You make mistakes because you can\'t help it! Accept
+Then he understood. I said, \"That's right, Charles. You can't
+possibly do that. You make mistakes because you can't help it! Accept
 the fact that no matter what you do, you will always make mistakes. And
-the sooner you stop getting upset about something that you can\'t help,
+the sooner you stop getting upset about something that you can't help,
 the better off you will be.\"
 
-I don\'t know if it was this little talk or whether Charles simply
+I don't know if it was this little talk or whether Charles simply
 figured it out for himself, but he got better control of himself and
 ended up as the #1 player on the Pepperdine team and one of the best
 college players in the country. The last I heard, he was running a
@@ -116,13 +113,12 @@ camaraderie of the players.
 
 But there was only one terribly unpleasant feature of the game - losing!
 After a loss, especially if it was a close match and I had blown chances
-to win, I was in agony. I didn\'t want to talk to anybody and usually
+to win, I was in agony. I didn't want to talk to anybody and usually
 hid out alone in my room - brooding.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A picture containing person, athletic game, sport, player Description automatically
-   generated](media_the-problem-of-finishing/media/image4.jpg){width="2.7777777777777777in"
-                                                                              height="3.875in"}
+   generated](media_the-problem-of-finishing/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     **A career saves leader, but burdened for life by blowing two leads.**
 
@@ -138,15 +134,15 @@ responsibility for closing out important games in the late innings are
 known to be hard on themselves if they blow leads.
 
 In 2007 Trevor Hoffman, then playing for the San Diego Padres and
-baseball\'s career saves leader, blew two saves in three days, the last
+baseball's career saves leader, blew two saves in three days, the last
 in a play-off against the Colorado Rockies with a two-run lead in the
 13th inning that cost his team a playoff berth. Reflecting on the loss
-years afterward, Hoffman said, \"I\'m not going to sugarcoat it. It was
-devastating. It\'s not just a burden I lived with all winter. It\'s a
-burden I\'ll live with for the rest of my life.\" Wow! Rather excessive,
+years afterward, Hoffman said, \"I'm not going to sugarcoat it. It was
+devastating. It's not just a burden I lived with all winter. It's a
+burden I'll live with for the rest of my life.\" Wow! Rather excessive,
 but not the most excessive such story in baseball history.
 
-Donnie Moore\'s story, if true, is even worse. He was pitching for the
+Donnie Moore's story, if true, is even worse. He was pitching for the
 California Angels in 1986, and his team was one game away from the World
 Series when he allowed Dave Henderson of the Boston Red Sox to hit a
 home run and tie the game. The Angels lost the game in extra innings,
@@ -156,7 +152,7 @@ According to some friends and family Moore never got over the loss, and
 in 1989, depressed, he committed suicide. Of course, nobody can be
 certain of all the factors that drive a person to do such a thing, and I
 would doubt that the loss alone was the cause. However, I have little
-doubt that brooding over the loss made Moore\'s depression worse and
+doubt that brooding over the loss made Moore's depression worse and
 was, overall, extremely unhelpful.
 
 Fortunately, my own self-flagellation after losing was not this bad, but
@@ -165,8 +161,7 @@ weaknesses in my game so I always knew what I needed to work on.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A baseball player throwing a ball Description automatically
-  generated](media_the-problem-of-finishing/media/image5.jpg){width="2.7777777777777777in"
-  height="4.361111111111111in"}
+  generated](media_the-problem-of-finishing/media/image5.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **For Donnie Moore brooding over a devastating loss may have, tragically, contributed to his suicide.**
 
@@ -182,7 +177,7 @@ amped up the overall stress, and added, at times, great pain to what
 should have been a fun game.
 
 With 20-20 hindsight, I see that my reactions were counter-productive on
-balance. The costs far outweighed the benefits. In any case, I didn\'t
+balance. The costs far outweighed the benefits. In any case, I didn't
 do it to help myself. My self-flagellation was simply a punishment for
 having disappointed myself. I subconsciously felt I had a good
 butt-kicking coming, and I was determined to administer it. This was
@@ -208,15 +203,14 @@ them behind you.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person lying on the ground Description automatically generated with low
-  confidence](media_the-problem-of-finishing/media/image6.jpg){width="5.147825896762905in"
-  height="2.1097659667541557in"}
+  confidence](media_the-problem-of-finishing/media/image6.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Losses feel more important than they are.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 It helps to remind yourself that when you make errors and lose matches
-you do so because, as I explained to Charles Auffray, you can\'t help
+you do so because, as I explained to Charles Auffray, you can't help
 it. Your errors are reactions to the immediate situation on court and
 are reflexive, not products of thought.
 
@@ -233,12 +227,11 @@ quiet room still get overly stressed on the court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-problem-of-finishing/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-problem-of-finishing/media/image7.webp)
 
 **Errors are reflexive reactions, not products of thought.**
 
-Why? It\'s because they don\'t then make a strong mental effort to use
+Why? It's because they don't then make a strong mental effort to use
 this logic. Understanding and agreement do no good at all unless they
 result in players changing. And this takes a positive effort.
 (Otherwise, nature will take its course and you will continue to become
@@ -254,13 +247,13 @@ fun.]{.underline}]{.mark}**
 
 **[[Many aspects of the game are impossible to control so failures in
 these areas must be unemotionally accepted so you can move on. Worrying
-about losing and mentally punishing yourself for failures that can\'t be
+about losing and mentally punishing yourself for failures that can't be
 controlled simply make the game overly emotional, hurt your confidence,
 and take the fun out of playing.]{.mark}]{.underline}**
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -269,62 +262,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                          | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_the-problem-of-finishing/media/image8.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                           | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                           | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                           | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                           | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                           |                                                                                                                       |
-|                                                                                                                                                                           | [Click Here to                                                                                                        |
-|                                                                                                                                                                           | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+===========================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_the-problem-of-finishing/media/image8.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                          | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_the-problem-of-finishing/media/image9.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                            | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                           | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                           | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                           | his first hand and very personal observations of the        |
-|                                                                                                                                                                           | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                           | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                           | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                           | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                           | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                           | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                           | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                           | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                           | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                           | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                           | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                           | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                           | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                           | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                           | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                           |                                                             |
-|                                                                                                                                                                           | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                           | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                           | 93401. The price includes shipping.                         |
-+===========================================================================================================================================================================+=============================================================+
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                              | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_the-problem-of-finishing/media/image10.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                            | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                           | American player from the glory days before Open        |
-|                                                                                                                                                                           | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                           | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                           | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                           | program into an elite contender for national titles,   |
-|                                                                                                                                                                           | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                           | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                           | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                           | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                           | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                           |                                                        |
-|                                                                                                                                                                           |                                                        |
-+===========================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_the-problem-of-finishing/media/image9.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_the-problem-of-finishing/media/image10.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

@@ -4,9 +4,9 @@
 
 **Section Overview**
 
-It\'s too bad that more players don\'t put a fraction of the effort into
+It's too bad that more players don't put a fraction of the effort into
 developing the mental game that they do into obsessing about their
-strokes. Let\'s face it, for a lot a players, it just gets too scary.
+strokes. Let's face it, for a lot a players, it just gets too scary.
 
 Do you have the courage to actually take a hard look at yourself as a
 competitor? If you do, they you have the potential to raise your game,
@@ -20,13 +20,13 @@ Taking your time between points, learning to stay positive with your
 body language\--today there are hundreds of coaches and sports
 psychologists who appropriate his insights and terminology everyday.
 
-Here you can see Jim\'s complete system, presented by the master
-himself. It\'s awesome. I know from my personal experience, and you can
+Here you can see Jim's complete system, presented by the master
+himself. It's awesome. I know from my personal experience, and you can
 too.
 
 Allen Fox is unique in tennis coaching, because he not only played at
 the highest levels of the game, he backed that up with a PhD in
-psychology from UCLA. That\'s an accomplishment I doubt will be equaled
+psychology from UCLA. That's an accomplishment I doubt will be equaled
 by any modern pro player. One of the fascinating aspects of this section
 of Tennisplayer is reading his work and seeing how it compliments, and
 also at time challenges, the perspective created by Loehr.
@@ -35,7 +35,7 @@ Alistair Higham is the most important new voice to appear in the field
 since Loehr and Fox. His work on momentum is truly original, unlike the
 work of so many coaches who are parroting the insights of others. Based
 on years of keen observation on the international tour at both the
-professional and junior level, Alistair\'s work allows us to comprehend
+professional and junior level, Alistair's work allows us to comprehend
 the powerful but hidden forces that control virtually all competitive
 matches\--and most interestingly to learn to how influence and/or shape
 these forces.
@@ -66,7 +66,7 @@ Game](Head%20Fixation%20and%20the%20Mental%20Game.docx)
 
 **Kyle LaCroix**
 
-[The Loser\'s Edge](The%20Losers%20Edge.docx)
+[The Loser's Edge](The%20Losers%20Edge.docx)
 
 **Ben Loeb**
 
@@ -137,7 +137,7 @@ Games](Bridging%20the%20Technical%20and%20Mental%20Divide%20-%20Implementing%20T
 [Mindfulness: Can You Actually Change Your
 Brain?](Mindfulness%20-%20Can%20You%20Actually%20Change%20Your%20Brain.docx)
 
-[Why Can\'t I Play the Way I
+[Why Can't I Play the Way I
 Practice?](Why%20Can't%20I%20Play%20the%20Way%20I%20Practice.docx)
 
 [Finding Pleasure in Pressure](Finding%20Pleasure%20in%20Pressure.docx)
@@ -212,7 +212,7 @@ Response](Mastering%20Your%20Choking%20Response.docx)
 
 [From Positive to Negative](From%20Negative%20to%20Positive.docx)
 
-[In Your Mind\'s Eye](In%20your%20mind’s%20eyes.docx)
+[In Your Mind's Eye](In%20your%20mind’s%20eyes.docx)
 
 **Allen Fox**
 
@@ -234,10 +234,10 @@ Discipline](Replacing%20Confidence%20with%20Emotional%20Discipline.docx)
 
 [Self Belief](Self%20Belief.docx)
 
-[Personal Antagonism Doesn\'t
+[Personal Antagonism Doesn't
 Pay](Personal%20Antagonism%20Doesn't%20Pay.docx)
 
-[Cliff Richey\'s New Book: Acing
+[Cliff Richey's New Book: Acing
 Depression](Thoughts%20on%20Cliff%20Richey's%20Acing%20Depression%20.docx)
 
 [Should We Ban Recreational

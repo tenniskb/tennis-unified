@@ -10,16 +10,15 @@ In understanding the differences in the modern forehand across the grip
 styles, the first factor to examine is the angle of the racket face at
 the start of the forward swing to the ball.
 
-In a previous article, we\'ve already looked closely at certain elements
+In a previous article, we've already looked closely at certain elements
 in the hitting arm position at the bottom of the backswing. [(Click here
 for Part 1)](Common%20Elements%20Across%20the%20Grip%20Styles.docx)
-We\'ve seen that every player falls into a characteristic hitting arm
+We've seen that every player falls into a characteristic hitting arm
 position with the elbow in and the wrist laid back.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A person playing tennis Description automatically generated with medium                                                                 ![A person playing tennis Description automatically generated with medium
-   confidence](media_building-the-modern-forehand-racket-face-angle/media/image1.jpg){width="3.4507042869641293in"  confidence](media_building-the-modern-forehand-racket-face-angle/media/image2.jpg){width="3.4140824584426945in"
-                                                                                             height="2.625in"}                                                                                             height="2.6215277777777777in"}
+   confidence](media_building-the-modern-forehand-racket-face-angle/media/image1.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               **With classic grips the racket face stays on edge, or may be slightly closed.**                                                             **     As the grip moves underneath the handle the racket face closes naturally.**
 
@@ -27,20 +26,19 @@ position with the elbow in and the wrist laid back.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                  ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_building-the-modern-forehand-racket-face-angle/media/image3.jpg){width="3.1354166666666665in"
-                                                                                      height="2.3743055555555554in"}
+   generated](media_building-the-modern-forehand-racket-face-angle/media/image3.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               **With a extreme semi-western grip the racket angle can approach 60 degrees.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-We\'ve also seen that the racket height is a natural function of this
+We've also seen that the racket height is a natural function of this
 position, and that when top players set up the hitting arm position the
 racket head itself is typically only a few inches below the level of the
 ball.
 
-But if you\'ve looked closely at the footage in these articles, you may
-have also noticed that this doesn\'t mean that the racket face is at the
+But if you've looked closely at the footage in these articles, you may
+have also noticed that this doesn't mean that the racket face is at the
 exact same angle for all the players as the racket starts forward.
 
 **[Some players have the racket on edge, others have the face closed
@@ -56,8 +54,7 @@ reaches the end of the backswing and starts forward to the
 ball.]{.mark}***
 
 ![A person playing tennis Description automatically
-generated](media_building-the-modern-forehand-racket-face-angle/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-racket-face-angle/media/image4.webp)
 
 **Sampras closes the face early in the backswing, but finds the hitting
 arm position before starting forward to the ball.**
@@ -74,19 +71,18 @@ to the ball, his racket face finds an angle somewhere between 45 and 60
 degrees. This is about the same as other players with extreme grips like
 or Guga or Lleyton Hewitt.
 
-It\'s important to understand that\--whatever they do in the
+It's important to understand that\--whatever they do in the
 backswing\--none of these players is consciously \"closing\" the face by
 turning the palm downward at the start of the forward swing.
 
 In fact, this would be impossible to do this without destroying the
-hitting arm position. Try it yourself and you\'ll find that you can\'t
+hitting arm position. Try it yourself and you'll find that you can't
 turn the palm all the way down to close the face and at the same time
 keep the double bend position in the hitting arm-your arm and shoulder
-don\'t move that way.
+don't move that way.
 
 ![A person swinging a baseball bat Description automatically
-generated](media_building-the-modern-forehand-racket-face-angle/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_building-the-modern-forehand-racket-face-angle/media/image5.webp)
 
 **Roddick closes the face on the backswing, but finds the correct racket
 angle at start of the forward swing.**
@@ -108,17 +104,13 @@ In the center photo, the only change is the rotation of the hand
 slightly underneath the handle to a mild semi-western, similar to
 Agassi.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------+--------------------------+
-| ![A hand holding a red pen Description automatically generated with medium                                                                                                                     |                          |                          |
-| confidence](media_building-the-modern-forehand-racket-face-angle/media/image6.jpg){width="1.6875in"     |                          |                          |
-| height="1.9015255905511812in"}                                                                                                                                                                 |                          |                          |
-| ![](media_building-the-modern-forehand-racket-face-angle/media/image7.jpg){width="1.6631496062992126in" |                          |                          |
-| height="1.874086832895888in"}                                                                                                                                                                  |                          |                          |
-| ![](media_building-the-modern-forehand-racket-face-angle/media/image8.jpg){width="1.65625in"            |                          |                          |
-| height="1.8663134295713035in"}                                                                                                                                                                 |                          |                          |
-+================================================================================================================================================================================================+==========================+==========================+
-| **The hitting arm position stays the same, but as the racket rotates the grip becomes more extreme and the angle of the racket face naturally closes.**                                                                                              |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A hand holding a red pen Description automatically generated with medium |  |  |
+| --- | --- | --- |
+| confidence](media_building-the-modern-forehand-racket-face-angle/media/image6.jpg) |  |  |
+| ![](media_building-the-modern-forehand-racket-face-angle/media/image7.jpg) |  |  |
+| ![](media_building-the-modern-forehand-racket-face-angle/media/image8.jpg) |  |  |
+| **The hitting arm position stays the same, but as the racket rotates the grip becomes more extreme and the angle of the racket face naturally closes.** |  |  |
+
 
 In the third photo the grip has rotated further to the extreme
 semi-western of players like Roddick Hewitt, and Guga. The result is
@@ -126,8 +118,7 @@ that the face closes another increment.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_building-the-modern-forehand-racket-face-angle/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_building-the-modern-forehand-racket-face-angle/media/image9.webp)
 
 **Even heavy topspin players rarely drop the racket face more than a few
 inches below the ball.**
@@ -137,23 +128,22 @@ palm down has such a negative impact. Players have to straighten their
 arms out. Then they have to try to recover the correct hitting arm
 position. Since this all happens in micro seconds, it decreases the
 chances of the racket and hand being positioned correctly at contact. At
-best, it\'s wasted motion. More than likely, it actually slows down the
+best, it's wasted motion. More than likely, it actually slows down the
 racket head.
 
 The correct hitting arm position automatically takes care of the height
 of the racket as well as the angle of the face, placing it at most a few
 inches below the level of the ball. So the key point is, let the racket
-face find it\'s natural position\--concentrate on setting up the hitting
+face find it's natural position\--concentrate on setting up the hitting
 arm at the bottom of the backswing no matter what your grip style.
 
-Next we\'ll look at the second factor, how the amount and the timing of
+Next we'll look at the second factor, how the amount and the timing of
 shoulder rotation varies across the range of forehand grips in the
 modern game.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_building-the-modern-forehand-racket-face-angle/media/image10.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_building-the-modern-forehand-racket-face-angle/media/image10.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -5,10 +5,9 @@
 **Dr. Brian Gordon**
 
 ![A person playing tennis Description automatically
-generated](media_have-tennis-coaches-failed-female-athletes/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_have-tennis-coaches-failed-female-athletes/media/image1.webp)
 
-**Garbine Muguruza\'s forehand is typical of many top women on tour.**
+**Garbine Muguruza's forehand is typical of many top women on tour.**
 
 Many followers of professional tennis have noticed systematic
 differences between the way men and women execute strokes. Much has been
@@ -29,22 +28,19 @@ the WTA style. The Type I swing is normally seen only in juniors during
 the early development stages.
 
 ![A person playing tennis Description automatically
-generated](media_have-tennis-coaches-failed-female-athletes/media/image2.jpg){width="3.125in"
-height="2.3125in"}
+generated](media_have-tennis-coaches-failed-female-athletes/media/image2.jpg)
 
 **Type I: Early Development**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_have-tennis-coaches-failed-female-athletes/media/image3.jpg){width="3.125in"
-height="2.3333333333333335in"}
+confidence](media_have-tennis-coaches-failed-female-athletes/media/image3.jpg)
 
 **Type II: WTA**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_have-tennis-coaches-failed-female-athletes/media/image4.jpg){width="3.125in"
-height="2.3333333333333335in"}
+confidence](media_have-tennis-coaches-failed-female-athletes/media/image4.jpg)
 
 **Type III: ATP**
 
@@ -66,8 +62,7 @@ do the women (girls) hit their forehands differently than the men
 (boys)?
 
 ![A picture containing text Description automatically
-generated](media_have-tennis-coaches-failed-female-athletes/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_have-tennis-coaches-failed-female-athletes/media/image5.webp)
 
 **Virtually all top male players hit some version of the ATP forehand.**
 
@@ -93,7 +88,7 @@ cane\"). This is the genesis for the Type I swing on the forehand.
 ***[[Young children will generally choose the biggest swing possible to
 produce racket head speed and the Type I swing is just that.
 Institutionalized instruction tends to favor fun over skills and while
-understandable (and perhaps necessary) it certainly isn\'t optimal for
+understandable (and perhaps necessary) it certainly isn't optimal for
 developing advanced mechanics.]{.mark}]{.underline}***
 
 **Secondary Stage**
@@ -106,8 +101,7 @@ swing.]{.mark}]{.underline}**
 
 ![A person running on a grass field Description automatically generated
 with low
-confidence](media_have-tennis-coaches-failed-female-athletes/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_have-tennis-coaches-failed-female-athletes/media/image6.webp)
 
 **Typically male junior players will decrease the size of the loop more
 and sooner.**
@@ -140,26 +134,25 @@ the technical intricacies of stroke mechanics and particularly ATP style
 strokes. They are usually former players teaching based on what they did
 or learned and there is nothing wrong with that\--we all need some basis
 for our instruction. The problem is without a solid background in the
-scientific basis of mechanics these coaches probably won\'t deviate from
+scientific basis of mechanics these coaches probably won't deviate from
 common belief or develop the expertise to implement changes to
 establishment edicts.
 
 **Coaching Dogma**
 
-In my career I\'ve had to change my thinking many times as new
+In my career I've had to change my thinking many times as new
 information became available. It is not easy to admit you were mistaken
 but it is necessary to innovate and improve.
 
 **[[Coaches, like anyone else, have pride and in general will resist
 challenges to their methods. This is particularly true of well-known or
 very experienced coaches that have espoused certain views for a very
-long time.]{.underline}]{.mark}** But as John Yandell has said, "I\'d
+long time.]{.underline}]{.mark}** But as John Yandell has said, "I'd
 rather be accurate than consistent.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_have-tennis-coaches-failed-female-athletes/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_have-tennis-coaches-failed-female-athletes/media/image7.webp)
 
 **Are games based systems holding back the evolution of female forehand
 technique?**
@@ -187,19 +180,18 @@ coaches just producing better apples or creating the orange?]{.mark}**
 Given available information about the advantages of the ATP style
 forehand, and given it is called the ATP style because the best (male)
 players in the world use it without exception, it is difficult to
-understand why females shouldn\'t. ***[[The only possible explanation
+understand why females shouldn't. ***[[The only possible explanation
 would be that girls are not physically capable of hitting it and/or it
 will expose them to injury.]{.mark}]{.underline}***
 
 The contention is males and females are physiologically different\--this
 is obvious. The assumption is that the ATP style forehand requires a lot
 more strength\--this is highly debatable. The conclusion is females
-should not be instructed in the technique because they won\'t be able to
+should not be instructed in the technique because they won't be able to
 hit it. This is a cop out because the evidence suggests otherwise.
 
 ![A person playing tennis Description automatically
-generated](media_have-tennis-coaches-failed-female-athletes/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_have-tennis-coaches-failed-female-athletes/media/image8.webp)
 
 **Girls can do it.**
 
@@ -213,11 +205,11 @@ is just as preposterous.
 
 Therefore based on this doubt, I took it as a personal quest to
 demonstrate female athletes could use the technique. In the ensuing
-decade I\'ve built the technique into every girl that dared to train on
+decade I've built the technique into every girl that dared to train on
 my court.
 
 I applaud the parents of these players who ignored the detractors and
-did not buy into the establishment view the "girls can\'t do it.\" My
+did not buy into the establishment view the "girls can't do it.\" My
 anecdotal evidence suggests that in fact girls can learn the stroke and
 generally develop it faster and at a higher level than my boys of
 similar age (any age starting at 6 years).
@@ -226,20 +218,19 @@ And I think it is fair to say that we are starting to see an evolution
 of the female forehand on wider scale\--an evolution seen for men at
 least a couple of decades ago. The ATP style forehand is starting to be
 more evident on the junior tournament circuit. Many college players are
-using versions of it. On the pro tour the women\'s forehands are
+using versions of it. On the pro tour the women's forehands are
 becoming shorter (between Type II and Type III) with several younger
 players using the Type III forehand outright.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_have-tennis-coaches-failed-female-athletes/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_have-tennis-coaches-failed-female-athletes/media/image9.webp)
 
 **We are starting to see an evolution of the female forehand.**
 
-This is hardly surprising as the women\'s game is becoming ever faster
+This is hardly surprising as the women's game is becoming ever faster
 and athletes are, of course, the ultimate innovators. I also know there
-are some coaches that share my views about the future of women\'s
+are some coaches that share my views about the future of women's
 tennis.
 
 It is important to note that while this article has dealt with the
@@ -251,25 +242,24 @@ based on a lot of research and experience.
 So is the current technical landscape for female athletes a failure of
 the player development establishment, simply a disagreement among
 coaches, or part of the natural evolution of a subset of the playing
-population? I suppose history will have to judge this one, but I\'ve
+population? I suppose history will have to judge this one, but I've
 gone on the record to predict the WTA style forehand will be
 non-existent in possibly five years but certainly within ten.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                     | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_have-tennis-coaches-failed-female-athletes/media/image10.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                    | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                  | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                  | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                  | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                  | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                  | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                  | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                  | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                  |                                                               |
-|                                                                                                                                                                                                  | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                  |                                                               |
-|                                                                                                                                                                                                  | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                  | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+==================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_have-tennis-coaches-failed-female-athletes/media/image10.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

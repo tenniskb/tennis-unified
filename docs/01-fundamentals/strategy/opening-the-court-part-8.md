@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------
 
 Pattern 8 stretches the court to create openings and the opportunity to
-finish. It starts with a forehand hit high and deep to the opponent\'s
+finish. It starts with a forehand hit high and deep to the opponent's
 forehand. Next a backhand short angle off the court. The finish is a
 forehand attack to the crosscourt opening. Aggressive, high percentage
 tennis and points won without torturous 20 ball rallies!
@@ -17,8 +17,7 @@ tennis and points won without torturous 20 ball rallies!
   --
 
 ![A person holding a tennis racket Description automatically
-generated](media_opening-the-court-part-8/media/image2.jpeg){width="2.1875in"
-height="2.6145833333333335in"}
+generated](media_opening-the-court-part-8/media/image2.jpeg)
 
 George Zink is a master tennis professional with over 25 years of
 teaching experience. After competing on the ATP Future Tour, George won

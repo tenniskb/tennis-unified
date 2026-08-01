@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-backhand-overhead/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-overhead/media/image1.webp)
 
 **An aggressive backhand overhead is a matter of technique.**
 
@@ -35,10 +34,9 @@ even with your non dominant shoulder.
 
 ![A picture containing outdoor, person, court, athletic game Description
 automatically
-generated](media_the-backhand-overhead/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-overhead/media/image2.webp)
 
-**The key is contact a shoulder\'s width in front of your front
+**The key is contact a shoulder's width in front of your front
 shoulder.**
 
 You point to the ball with your left hand and swing to the spot where
@@ -66,22 +64,21 @@ hit a ball above your head with two hands. The second hand on the racket
 would make a full follow through impossible.]{.mark}]{.underline}**
 
 ![A couple of men playing tennis Description automatically
-generated](media_the-backhand-overhead/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-overhead/media/image3.webp)
 
 **The speed of your read is a prerequisite for the backhand overhead.**
 
-So let\'s go over the steps to develop this misunderstood and
+So let's go over the steps to develop this misunderstood and
 under-utilized shot into a weapon.
 
 **THE FIRST STEP: READ**
 
 Want I want to show you is how to put this ball away. Doing this makes
-an immediate read of the ball imperative. It\'s almost a math equation:
+an immediate read of the ball imperative. It's almost a math equation:
 the speed of the read plus the speed of your reaction is equal to the
 quality of your shot.
 
-**[[So, the first step is to read your opponent\'s lob and realize it is
+**[[So, the first step is to read your opponent's lob and realize it is
 going to your backhand side.]{.underline}]{.mark}** We are all taught to
 lob to the backhand side if possible. How many times have you hit a
 volley at the net, only to see the lob headed over you on that side?
@@ -113,8 +110,7 @@ have time and space) and rotate your weight into the shot.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-backhand-overhead/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-overhead/media/image4.webp)
 
 **The front foot plants, then pushes off. Then the rear foot plants and
 pushes forward.**
@@ -123,15 +119,14 @@ pushes forward.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-overhead/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-overhead/media/image5.webp)
 
 **The shoulder turn with racket preparation. Note how loosely I hold the
 stick.**
 
 The third component is racket preparation. **[[This starts with the
 body, but the key is the full racket drop, a drop not dissimilar to the
-serve or to the regular overhead. It\'s just that it\'s on the other
+serve or to the regular overhead. It's just that it's on the other
 side of your body.]{.mark}]{.underline}**
 
 **[[Make sure your shoulders and hips are turned fully sideways to the
@@ -157,8 +152,7 @@ around.]{.underline}]{.mark} The result is that the racket moves with
 great acceleration toward the contact point.**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-backhand-overhead/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-overhead/media/image6.webp)
 
 **Acceleration through the contact, which is slightly lower than a
 regular overhead.**
@@ -191,8 +185,7 @@ will yield devastating results.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                                Geoff Williams grew up playing tennis in his
-  generated](media_the-backhand-overhead/media/image7.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                          first and only junior tournament at age 11. Over
+  generated](media_the-backhand-overhead/media/image7.jpeg)                                                                                                                                                          first and only junior tournament at age 11. Over
                                                                                                                                                                                the years he went on to become a fixture on the
                                                                                                                                                                                Northern California NTRP tournament scene,
                                                                                                                                                                                winning numerous titles at both the 4.5 and 5.0

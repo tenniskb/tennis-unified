@@ -4,14 +4,13 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image1.webp)
 
 **When is it one hand and when is it two?**
 
 As a coach, you need to have a smorgasbord of options, and that is
 definitely true when it comes to teaching kids the backhand. Sometimes I
-think we get too pigeonholed as coaches and say, "Here\'s what I\'m
+think we get too pigeonholed as coaches and say, "Here's what I'm
 doing." Even if a coach has had success, it might be in spite of what he
 believes or does on the court.
 
@@ -30,8 +29,7 @@ both the one-handed and two-handed backhand, and also how to decide
 between them.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_starting-kids-right-the-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image2.webp)
 
 **Justine Henin started with one-hand and took it all the way to the
 top.**
@@ -46,7 +44,7 @@ age and never looked back. **[[So how do you make the decision to teach
 a one-hander from the beginning?]{.mark}]{.underline}**
 
 Sometimes the parent says "I want my kid to play with one hand." So if
-that\'s the case, I\'ll show them a one-handed backhand, at least at the
+that's the case, I'll show them a one-handed backhand, at least at the
 start. But I also like to give the kids a test. If they hit with two
 hands, I'll say, "Try to hit it with one." 
 
@@ -63,8 +61,7 @@ hit a one-handed backhand? Then I teach that player a one-handed
 backhand. 
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_starting-kids-right-the-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image3.webp)
 
 **[[The shoulder turn, the loop, the drop into the hit, and the use of
 the legs and left arm---all critical on the
@@ -72,7 +69,7 @@ one-hander.]{.underline}]{.mark}**
 
 If we force all kids to hit two-handers in the hope of getting immediate
 success, we will end up diminishing some players' natural instincts for
-the game. What I\'m looking for is the individual flair and style, the
+the game. What I'm looking for is the individual flair and style, the
 pizazz, that is flowing in every kids blood. But sometimes it can be
 hard to see that in a 5, 6, or 7 year old. 
 
@@ -84,15 +81,15 @@ how that initiates the motion. 
 drop of the racket from the top of the loop leads into the
 hit.]{.underline}]{.mark}**
 
-**[[I don\'t want them out there trying to hit mainly with their
+**[[I don't want them out there trying to hit mainly with their
 arms. So I emphasize using the legs. I emphasize trying to stay sideways
 with the torso. I emphasize the left arm moving backwards the other way
 with the forward swing.]{.underline}]{.mark}**
 
 **[[I want them to feel that when you swing slower, you actually do
 better. I want them to understand that power comes from timing and
-rhythm. When you swing faster, if you\'re a little kid, your body blows
-up like a grenade. It doesn\'t work. So I emphasize
+rhythm. When you swing faster, if you're a little kid, your body blows
+up like a grenade. It doesn't work. So I emphasize
 that.]{.mark} ]{.underline}**
 
 Are you going to see all these factors perfectly mastered in a young
@@ -100,22 +97,21 @@ kid? No, but if the kid is natural with one-hand, you will see that
 occur over time.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image4.webp)
 
 **If the kid's body is screaming one-handed backhand, go with it.**
 
-**[[The key to all this is patience.]{.underline}]{.mark}**  You\'ve got
+**[[The key to all this is patience.]{.underline}]{.mark}**  You've got
 to make sure the kids get the ball at a speed and at a height where
-it\'s possible to make a correct swing. The degree of difficulty is key.
+it's possible to make a correct swing. The degree of difficulty is key.
 
-You\'ve got to decide how feed the ball. Am I going drop the ball from 2
+You've got to decide how feed the ball. Am I going drop the ball from 2
 feet away from the little guy?  Am I dropping the ball 5 from feet
 away? Am I throwing it into the strike zone? All these things come into
 play.
 
 You can't necessarily start feeding balls out of the basket from the
-other side of the net. If you\'re feeding from the net, telling the kid
+other side of the net. If you're feeding from the net, telling the kid
 to judge it, the kid might be over there improvising for 3 years. 
 
 **[[For almost all girls I prefer the two-handed
@@ -125,7 +121,7 @@ hesitate to develop the one-hander.
 
 Steffi Graf is maybe the best example of all. She was criticized for
 never coming over her backhand. But in reality she had the perfect game
-for women\'s tennis. I still don\'t understand why it\'s not
+for women's tennis. I still don't understand why it's not
 duplicated. 
 
 **[[She chiseled the ball 2 inches off the ground with her backhand
@@ -135,8 +131,7 @@ they popped the ball up or hit too short or too much to the middle,
 Steffi was there waiting with that huge forehand.
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image4.webp)
 
 **All things considered, the two-hander is still the way to go for most
 kids.**
@@ -145,11 +140,11 @@ kids.**
 
 Statistically, for the majority of kids, the one-hander is the
 exception. Almost all boys and girls I see want to hit with two
-hands. They instinctively feel they\'re stronger, that they can get more
+hands. They instinctively feel they're stronger, that they can get more
 power, that they can get more balls over the net. 
 
 For these reasons, the parents like it. So they jump on that bandwagon
-fast. Just because it\'s easier that doesn\'t necessarily mean it's
+fast. Just because it's easier that doesn't necessarily mean it's
 always better, but usually, it is. Once again, this in the eye of the
 beholder.
 
@@ -168,7 +163,7 @@ can go wrong. The results are usually better, faster.  Better than the
 one-hander, and often better than the forehand. That's the bottom line
 in junior tennis.]{.underline}**
 
-You can even see this on the women\'s pro tour. Almost all the players
+You can even see this on the women's pro tour. Almost all the players
 with two-handed backhands are better on the backhand side. There have
 been exceptions such as Lindsay Davenport, Jennifer Capriati, and
 Justine Henin. Ana Ivanovic is a current player who also has a great
@@ -176,21 +171,19 @@ forehand. But still, a huge percentage have weaker forehands and are
 better on the backhand side. 
 
 ![A person playing tennis Description automatically
-generated](media_starting-kids-right-the-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_starting-kids-right-the-backhand/media/image5.webp)
 
 **Relatively few top women have had great forehands.**
 
 **[[The other big advantage of the two-hander for kids when they are
 learning is in dealing with the high ball.]{.underline}]{.mark}** **When
 the ball is above their shoulders they can play defense more easily. If
-it's not too high they can attack it. It\'s usually more advantageous on
+it's not too high they can attack it. It's usually more advantageous on
 the return of serve when players want to be aggressive. It just
 naturally develops into more of an attacking type of shot.**
 
 ![A person holding a tennis racket Description automatically
-generated](media_starting-kids-right-the-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_starting-kids-right-the-backhand/media/image6.webp)
 
 **Learning the slice from the beginner is critical for becoming an all
 around player.**
@@ -212,12 +205,11 @@ go into teaching the slice in detail. 
 **[But for now, one point that is important is the ready
 position.]{.mark}** For two-handers, I prefer that in the ready position
 the left hand is on the throat of the racket. I want them to wait more
-athletically, more like they\'re holding the racket like a magician,
+athletically, more like they're holding the racket like a magician,
 more like the racket is a paintbrush in their hand. 
 
 ![A person holding a tennis racket Description automatically
-generated](media_starting-kids-right-the-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_starting-kids-right-the-backhand/media/image6.webp)
 
 **The ready position, the shoulder turn, the compact backswing, and the
 extension on the followthrough.**
@@ -240,8 +232,7 @@ players to learn to extend on the followthrough.
 
 ** **![A child playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-backhand/media/image7.webp)
 
 **Players should be comfortable hitting the backhand from all stances.**
 
@@ -256,8 +247,7 @@ tends to become natural. They'll make the decision situationally without
 having to think about it.
 
 ![A person holding a tennis racket Description automatically
-generated](media_starting-kids-right-the-backhand/media/image8.webp){width="3.3333333333333335in"
-height="2.21875in"} 
+generated](media_starting-kids-right-the-backhand/media/image8.webp) 
 
 **The whole process needs to be fun---or why bother?**
 
@@ -276,37 +266,36 @@ have to agree with the people who have said I'm crazy to spend 10 hours
 a day on the tennis court in the summer in Florida.
 
 **[[With the kids, all the theories, all the technical information,
-that\'s all irrelevant unless the process is fun. You have to make it
+that's all irrelevant unless the process is fun. You have to make it
 very, very fun.]{.underline}]{.mark}** **[[To do this, you have to feel
 the moment when you can focus on the technical issues, and when you have
 to use motivational skills and even entertainment skills to keep them
 engaged.]{.underline}]{.mark}**
 
-**[At our best as coaches we\'re not just tennis teachers. Especially at
-this early stage of the game, [we\'re life changers]{.underline}, or I
+**[At our best as coaches we're not just tennis teachers. Especially at
+this early stage of the game, [we're life changers]{.underline}, or I
 hope we are.]{.mark}**
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person with his arms crossed Description automatically generated with low                                                                                                         | Rick Macci has coached some of the greatest players   |
-| confidence](media_starting-kids-right-the-backhand/media/image9.jpeg){width="1.3020833333333333in" | in the modern game during their critical, formative   |
-| height="1.9791666666666667in"}                                                                                                                                                        | years. He is widely regarded as one the world\'s top  |
-|                                                                                                                                                                                       | developmental coaches. Rick and his staff have shaped |
-|                                                                                                                                                                                       | the strokes of Jennifer Capriati, Venus and Serena    |
-|                                                                                                                                                                                       | Williams, Andy Roddick, and dozens of other           |
-|                                                                                                                                                                                       | successful tour players. In the last 30 years, Macci  |
-|                                                                                                                                                                                       | students have won 134 USTA national junior            |
-|                                                                                                                                                                                       | championships, and have been awarded over 4 million   |
-|                                                                                                                                                                                       | dollars in college scholarships. Rick is a USPTA      |
-|                                                                                                                                                                                       | Master Pro and a member of the USPTA Florida Hall of  |
-|                                                                                                                                                                                       | Fame.                                                 |
-|                                                                                                                                                                                       |                                                       |
-|                                                                                                                                                                                       | The Rick Macci Academy is located in Boca Raton,      |
-|                                                                                                                                                                                       | Florida at the beautiful Boca Logo Country Club,      |
-|                                                                                                                                                                                       | where Rick works in collaboration with Dr. Brian      |
-|                                                                                                                                                                                       | Gordon in implementing their new world class training |
-|                                                                                                                                                                                       | system.                                               |
-|                                                                                                                                                                                       |                                                       |
-|                                                                                                                                                                                       | For more information about Rick\'s Academy, email him |
-|                                                                                                                                                                                       | at: info@rickmacci.com or call Rick Macci directly    |
-|                                                                                                                                                                                       | at: (561) 445-2747                                    |
-+=======================================================================================================================================================================================+=======================================================+
+| ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
+| --- | --- |
+| confidence](media_starting-kids-right-the-backhand/media/image9.jpeg) | years. He is widely regarded as one the world's top |
+|  | developmental coaches. Rick and his staff have shaped |
+|  | the strokes of Jennifer Capriati, Venus and Serena |
+|  | Williams, Andy Roddick, and dozens of other |
+|  | successful tour players. In the last 30 years, Macci |
+|  | students have won 134 USTA national junior |
+|  | championships, and have been awarded over 4 million |
+|  | dollars in college scholarships. Rick is a USPTA |
+|  | Master Pro and a member of the USPTA Florida Hall of |
+|  | Fame. |
+|  |  |
+|  | The Rick Macci Academy is located in Boca Raton, |
+|  | Florida at the beautiful Boca Logo Country Club, |
+|  | where Rick works in collaboration with Dr. Brian |
+|  | Gordon in implementing their new world class training |
+|  | system. |
+|  |  |
+|  | For more information about Rick's Academy, email him |
+|  | at: info@rickmacci.com or call Rick Macci directly |
+|  | at: (561) 445-2747 |
+

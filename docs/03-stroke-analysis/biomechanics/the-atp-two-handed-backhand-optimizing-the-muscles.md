@@ -8,14 +8,13 @@
 
 In the first article I identified the three general types of the
 two-handed backhand and asserted that there was an optimum type, the
-type used by top men\'s pros such as Novak Djokovic. I also argued that
+type used by top men's pros such as Novak Djokovic. I also argued that
 this so-called ATP backhand generated more racket speed with less motion
 and could be taught to players at all levels and of all ages ([Click
 Here](The%20ATP%20Two%20Handed%20Backhand%20-%20The%203%20General%20Types.docx)).
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image1.webp)
 
 **Let's look at some of the biomechanics underlying the ATP backhand.**
 
@@ -25,7 +24,7 @@ biomechanical principles upon which it based. I think this is important
 to address independently because, in modern coaching, biomechanical
 terms are often thrown around casually, and often, incorrectly.
 
-So let\'s give a brief overview of muscle mechanics and how it is
+So let's give a brief overview of muscle mechanics and how it is
 possible that the body could produce more racquet speed with abbreviated
 ranges of motion when the body segments are activated in the correct
 sequence. Then in the following articles we can proceed with describing
@@ -39,8 +38,7 @@ speed? That goes against one long standing theory in teaching.]{.mark}**
 backswings, and larger loops create more speed.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image2.webp)
 
 **Longer swings are the default choice of many junior players**.
 
@@ -55,7 +53,7 @@ That gives as many joints as possible as much range of motion as
 possible, with which to generate racquet speed.]{.mark}**
 
 So that seems to be the mechanism of choice for developing players. Give
-a racquet to a young kid and you say hit the ball hard, and you\'ll see
+a racquet to a young kid and you say hit the ball hard, and you'll see
 some of the biggest swings that you can imagine.
 
 **[[In contrast, at the highest level of the game the top players are
@@ -67,14 +65,13 @@ stroke patterns don't seem to have an inhibitory effect on the
 generation of racquet head speed.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image3.webp)
 
 **Are compact motions the result of strength alone?**
 
 The question is whether the ability to generate extremely fast racquet
 head speed over a clearly abbreviated swing path is simply a matter of
-strength. That\'s a legitimate question, and the coaching implications
+strength. That's a legitimate question, and the coaching implications
 are important.
 
 Logic and experience dictate that strength is important. Since the top
@@ -85,7 +82,7 @@ tactical and developmental advantages of decreased swing size without
 compromising, perhaps increasing, racquet speed.
 
 **[[What our applied and basic research has shown is that strength is
-not the only explanation. It\'s not necessarily as much a matter of
+not the only explanation. It's not necessarily as much a matter of
 strength as it optimizing the neuromuscular
 performance.]{.underline}]{.mark}** **[That is, its not how much muscle
 strength you have necessarily, it is the conditions under which the
@@ -99,8 +96,7 @@ neuromuscular performance to produce more racket speed with less motion,
 more racket speed than with the biggest swings you can imagine.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image4.webp)
 
 **Technique can allow junior players to use their muscles more
 efficiently.**
@@ -148,8 +144,7 @@ developed by researchers. A generalized force-velocity curve is shown in
 the image.
 
 ![Diagram, schematic Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image5.jpg){width="3.643478783902012in"
-height="3.895211067366579in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image5.jpg)
 
 **The graph shows speed of shortening in relation to force production.**
 
@@ -162,8 +157,7 @@ right) the force the muscle produces decreases.]{.mark}***
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image6.webp)
 
 **Sequencing of motions helps optimize muscle performance.**
 
@@ -196,8 +190,7 @@ this often referred to as a whip action -- in biomechanics literature it
 called a motion-dependent torque.
 
 ![A picture containing person, sport, player Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image7.webp)
 
 **Rotational speed in the upper arm can create extension without actual
 muscle involvement.**
@@ -235,8 +228,7 @@ observation, and none of which that can be even inferred without 3D data
 acquisition and advanced analytical algorithms.
 
 ![Diagram Description automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image8.jpg){width="3.5956277340332456in"
-height="2.9304352580927384in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image8.jpg)
 
 **A simplified diagram of the stretch-shorten cycle**.
 
@@ -249,8 +241,7 @@ elastic elements at each end.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image9.webp)
 
 **Pre-tension allows full muscle output immediately.**
 
@@ -279,35 +270,33 @@ return and stretch reflex are very time sensitive, however, and probably
 not as important in the muscle groups of the upper
 body.]{.mark}]{.underline}***
 
-As a practical example of the stretch shorten cycle, let\'s say that I'm
+As a practical example of the stretch shorten cycle, let's say that I'm
 trying to bend my elbow (elbow flexion) and someone pushes on my hand
 and simultaneously forces the arm in the opposite direction (extension
 or straightening). So in this case, the muscle actually lengthens while
-I\'m trying to shorten it.
+I'm trying to shorten it.
 
 ![A picture containing person, athletic game, sport, tennis Description
 automatically
-generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image10.webp)
 
 **Pulling against my hand as I try to contract my bicep sets up the
 stretch-shorten cycle when it is released.**
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                             | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image11.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                            | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                          | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                          | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                          | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                          | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                          | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                          | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                          | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                          |                                                               |
-|                                                                                                                                                                                                          | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                          | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                          |                                                               |
-|                                                                                                                                                                                                          | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                          | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+==========================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image11.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

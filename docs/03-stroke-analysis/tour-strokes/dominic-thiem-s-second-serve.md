@@ -1,14 +1,13 @@
 # Dominic Thiem's Second Serve
 
-### **Dominic Thiem\'s Second Serve:**
+### **Dominic Thiem's Second Serve:**
 
 ### **A Perfect Model?**
 
 ### **Analyzed by John Yandell**
 
 ![A person playing tennis Description automatically
-generated](media_dominic-thiem-s-second-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_dominic-thiem-s-second-serve/media/image1.webp)
 
 **The heavy kick 2nd Serve of Dominic Thiem.**
 
@@ -16,35 +15,34 @@ Last month we took a look at the technical serve motion of Alexander
 Zverev ([Click
 Here](https://www.tennisplayer.net/members/tour_strokes/john_yandell/alexander_zverev_serve))
 and the missing element that I think is contributing to his second serve
-problems and especially his double faults. Now let\'s look at the second
+problems and especially his double faults. Now let's look at the second
 serve of the player who defeated Zverev to win the U.S. Open in 5
 excruciating sets---Dominic Thiem.
 
-I wrote that I thought Zverev\'s lack of torso rotation---first away
+I wrote that I thought Zverev's lack of torso rotation---first away
 from the ball in the wind up and then forward back to the
 contact\--forced him to rely too much on his hand and arm and helped to
 create the nervousness and doubt that led to his wild inconsistency.
 
-I compared Zverev\'s turn or lack of it to Roger Federer, but Thiem is
+I compared Zverev's turn or lack of it to Roger Federer, but Thiem is
 another awesome example. Besides the turn, I love almost everything else
-about Thiem\'s motion, although there may be limitations on how it
-applies to the rest of us. So let\'s take a detailed look.
+about Thiem's motion, although there may be limitations on how it
+applies to the rest of us. So let's take a detailed look.
 
 **Platform!**
 
-Let\'s start with his platform stance. It\'s very similar to Federer.
+Let's start with his platform stance. It's very similar to Federer.
 With a small adjustment at the start of the motion, he aligns the front
 foot so that it is essentially parallel to baseline. The back foot is
 also parallel to the baseline and offset behind the front foot with the
-toes a little ahead of the heel of the front foot. The feet aren\'t
+toes a little ahead of the heel of the front foot. The feet aren't
 spread too wide, about shoulder width.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_dominic-thiem-s-second-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_dominic-thiem-s-second-serve/media/image2.webp)
 
-**Thiem\'s stance, body turn, and windup shape.**
+**Thiem's stance, body turn, and windup shape.**
 
 That stance facilitates the body turn virtually automatically. As the
 knees bend the shoulders turn onto a line that is basically parallel to
@@ -54,12 +52,12 @@ shoulders away from the ball 45 up to 60 degrees.
 Although we know you can use a variety of abbreviated windups and serve
 very well, I really like his semi-pendulum motion, again similar to
 Roger, keeping the arm straight from the shoulder and starting the bend
-in the elbow only after the ball toss. I think it\'s the simplest
+in the elbow only after the ball toss. I think it's the simplest
 windup\--definitely the best model for players at all levels.
 
 **Arm Action**
 
-Dominic\'s arm action upward and outward is awesome. He goes from a full
+Dominic's arm action upward and outward is awesome. He goes from a full
 drop with his racket falling along his right side up to the ball by
 extending the elbow with the racket on edge until only a few frames
 before contact.
@@ -69,7 +67,7 @@ in---what is technically called internal shoulder rotation. This
 rotation continues outward into the forward swing until the racket face
 turns over and is perpendicular to the court.
 
-That\'s 90 degrees or so of rotation after contact. It\'s often asked
+That's 90 degrees or so of rotation after contact. It's often asked
 why is this rotation important when obviously the ball is long gone off
 the racket?
 
@@ -79,16 +77,15 @@ groundstroke.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_dominic-thiem-s-second-serve/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_dominic-thiem-s-second-serve/media/image3.webp)
 
-**Thiem\'s racket drop and upward and outward swing.**
+**Thiem's racket drop and upward and outward swing.**
 
-You\'d have to decelerate the racket radically going into contact to
+You'd have to decelerate the racket radically going into contact to
 stop that rotation from continuing. Like a groundstroke the continued
 rotation, is the consequence of the racket speed.
 
-It\'s interesting because a few years ago in Miami I was filming Dominic
+It's interesting because a few years ago in Miami I was filming Dominic
 in practice and ran into his coach at the time, Gunter Bresnick, who
 developed Dominic from a young age and changed him to a one-handed
 backhand. ([Click
@@ -96,7 +93,7 @@ Here](https://www.tennisplayer.net/members/famouscoach/gunther_bresnik/)
 for the interview I did with Gunter on that a couple of years prior at
 Indian Wells.)
 
-I noticed, looking at the film, that Dominic wasn\'t fully rotating the
+I noticed, looking at the film, that Dominic wasn't fully rotating the
 arm through contact on many serves. So I sat down and showed it to
 Gunter. Gunter said he believed that this rotation was critical and that
 he would work with Dominic on it.
@@ -117,28 +114,27 @@ the upward swing.
 
 ![A picture containing text, tennis, racket, ball Description
 automatically
-generated](media_dominic-thiem-s-second-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_dominic-thiem-s-second-serve/media/image4.webp)
 
-**Dominic Thiem\'s serving arm angle crossing the baseline.**
+**Dominic Thiem's serving arm angle crossing the baseline.**
 
-I\'ve heard it argued that the racket arm should be at a very small
+I've heard it argued that the racket arm should be at a very small
 angle on the second serve, approaching parallel to the baseline. That
-isn\'t what the video shows.
+isn't what the video shows.
 
 In reality that angle is more like 45 degrees in the deuce court, and
 usually slightly less in the ad. But it is still substantial and
-critical. It\'s what creates the racket path and the combination of
+critical. It's what creates the racket path and the combination of
 speed and spin in a kick second serve.
 
-It\'s not just Dominic. It\'s the same for two other great platform
+It's not just Dominic. It's the same for two other great platform
 stance servers: Roger Federer and Pete Sampras.
 
 **Ball Toss**
 
 All three of these players have predominantly kick second serves.
-That\'s a function of the swing path we have been looking at, but the
-prerequisite for the swing path is the placement of the ball toss. It\'s
+That's a function of the swing path we have been looking at, but the
+prerequisite for the swing path is the placement of the ball toss. It's
 critical.
 
 Compared to the toss on the first serve, the second serve toss is
@@ -152,8 +148,7 @@ is a little more to his right, maybe directly above his right ear.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_dominic-thiem-s-second-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_dominic-thiem-s-second-serve/media/image5.webp)
 
 **Theim and Sampras have a ball position at contact slightly more to the
 left than Federer with finishes somewhat more to the right.**
@@ -164,11 +159,11 @@ in the left to right ball position at contact.
 
 But the key point is that the position of the ball means that, compared
 to the first serve, the motion is more directly upward. You can see this
-in the contact point. The tip of the racket is angled to the players\'
+in the contact point. The tip of the racket is angled to the players'
 left. Maybe double the angle of the first serve.
 
 Players sometimes think that there is such a thing as a \"first serve\"
-and a different \"second serve.\" But it\'s the toss. In reality if the
+and a different \"second serve.\" But it's the toss. In reality if the
 ball placement is correct and the player hits upward and outward to the
 extension of the motion the kick tends to happen naturally.
 
@@ -184,60 +179,58 @@ the front leg.
 
 **Criticism?**
 
-There isn\'t much to criticize in Dominic\'s second serve---at least for
+There isn't much to criticize in Dominic's second serve---at least for
 Dominic. But what this analysis shows is there are a few points for
 lower level players in considering his motion as a model.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_dominic-thiem-s-second-serve/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_dominic-thiem-s-second-serve/media/image6.webp)
 
 **Compare the head position at contact for Dominic, Roger and Pete.**
 
-First that finish. A lot of analysis I\'ve read says if you want to kick
-the serve like Sampras or Thiem, just finish on the right side. That\'s
+First that finish. A lot of analysis I've read says if you want to kick
+the serve like Sampras or Thiem, just finish on the right side. That's
 totally backwards.
 
 If you have a more extreme ball position at contact, you may often
 finish on the right side. Not the other way around.
 
-It\'s very tough for the average player, however, to make that extreme
+It's very tough for the average player, however, to make that extreme
 toss placement work. So I like the slightly less extreme Federer ball
-position at contact. But I know that won\'t stop 3.5 NTRP players from
+position at contact. But I know that won't stop 3.5 NTRP players from
 trying to be Sampras or Thiem.
 
-The second point is head position. Dominic\'s head isn\'t up looking at
+The second point is head position. Dominic's head isn't up looking at
 the ball at contact. That used to be considered an iron fundamental.
 Until high speed film showed that great servers like Greg Rusedski and
 Andy Roddick were also looking forward rather than up at the contact.
 
-But for the vast majority of players I think it\'s better to keep the
+But for the vast majority of players I think it's better to keep the
 head more up toward the---like Roger Federer and also Sampras.
 
 I also think Federer, is a better second serve model than Dominic on
 another point. This is the landing in the court and the body balance at
 the landing.
 
-![](media_dominic-thiem-s-second-serve/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_dominic-thiem-s-second-serve/media/image7.webp)
 
 **Dominic lands further in the court with his torso angled more forward
 compared to Federer.**
 
-Is it just Dominic\'s leg\'s explosiveness? Possibly. Whatever the
+Is it just Dominic's leg's explosiveness? Possibly. Whatever the
 reason he comes down 2 feet or so inside the court. He has a huge back
 leg kick back and lands with his torso leaning far forward from the
 waist.
 
 Federer typically lands with his heel just inside the baseline and with
-his body more upright and balanced. That\'s a more realistic model for
+his body more upright and balanced. That's a more realistic model for
 the rest of us and makes for an easier recovery to ready position to
 deal with the return.
 
 This are just a few points in an unending debate. What do pro players do
 and what should I try to do like them? Like I said Dominic has multiple
-great elements, but some aren\'t ideal for most players. ([Click
+great elements, but some aren't ideal for most players. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/second_serve/)
 for a detailed article on the second serve I did with Federer as the
 model.)
@@ -251,8 +244,7 @@ Here](https://www.tennisplayer.net/members/high_speed_archive/phantom/Dominic_Th
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_dominic-thiem-s-second-serve/media/image8.jpeg){width="1.8229166666666667in"
-height="2.6458333333333335in"}
+confidence](media_dominic-thiem-s-second-serve/media/image8.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

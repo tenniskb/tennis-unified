@@ -12,8 +12,7 @@ separation lớn, trong khi gối chỉ làm bản lề.
 ## 1.1. Giai đoạn Load & Coil (Cincinnati)
 
 ![Hình 1: Deep crouch, hông xoay, vai đóng -- gối tracking tự
-nhiên](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image1.jpeg){width="5.2in"
-height="11.60370406824147in"}
+nhiên](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image1.jpeg)
 
 - • Gối gập sâu nhưng không đổ vào trong, hướng theo mũi chân
 
@@ -27,8 +26,7 @@ knee.
 ## 1.2. Giai đoạn Uncoil (Indian Wells)
 
 ![Hình 2: Hông dẫn trước, gối vẫn thẳng
-hàng](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image2.jpeg){width="5.2in"
-height="11.60370406824147in"}
+hàng](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image2.jpeg)
 
 Hông trái đẩy lên trước, vai phải còn ở sau tạo hình chữ C. Năng lượng
 đi lên theo trục, không đi ngang qua gối.
@@ -42,8 +40,7 @@ vừa phải và chuỗi whiplash hoàn hảo.
 ## 2.1. Toss & Lift
 
 ![Hình 3: Tay tung duỗi 174,6°, gối trái gập
-110,3°](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image3.jpeg){width="4.8in"
-height="10.71111111111111in"}
+110,3°](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image3.jpeg)
 
 Bóng lên cao 3,45m, góc chiếu vai-hông đạt 38,65 độ ngay từ sớm. Lực đã
 bắt đầu tích ở hông, không ở gối.
@@ -51,8 +48,7 @@ bắt đầu tích ở hông, không ở gối.
 ## 2.2. Trophy Pose
 
 ![Hình 4: Tay trái cao, vợt thả sau
-lưng](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image4.jpeg){width="4.8in"
-height="10.71111111111111in"}
+lưng](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image4.jpeg)
 
 Gối duỗi với tốc độ góc 210,6 độ/s, đẩy trọng tâm lên. Hai gối vẫn thẳng
 hàng với bàn chân.
@@ -60,8 +56,7 @@ hàng với bàn chân.
 ## 2.3. Cuối Backswing -- Arched Body
 
 ![Hình 5: Hông trái 161,7°, gối trái
-174,8°](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image5.jpeg){width="4.8in"
-height="10.71111111111111in"}
+174,8°](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image5.jpeg)
 
 Cơ thể tạo cung, vai phải mở 78,6 độ. Toàn bộ xoắn nằm ở cột sống ngực
 và hông, gối chỉ truyền lực.
@@ -69,8 +64,7 @@ và hông, gối chỉ truyền lực.
 ## 2.4. Contact
 
 ![Hình 6: Điểm chạm 2,85m, chuỗi whiplash hoàn
-chỉnh](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image6.jpeg){width="4.8in"
-height="10.71111111111111in"}
+chỉnh](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image6.jpeg)
 
 Tốc độ: vai 3,42 m/s, khuỷu 3,76, cổ tay 6,24, đầu vợt 24,35 m/s. Lực
 tăng dần từ dưới lên, đúng nguyên lý spiral upward.
@@ -78,8 +72,7 @@ tăng dần từ dưới lên, đúng nguyên lý spiral upward.
 # 3. Trophy Position: Điểm khóa năng lượng
 
 ![Hình 7: Sơ đồ sinh học -- POWER, SPEED,
-TORQUE](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image7.jpeg){width="5.5in"
-height="6.880092957130358in"}
+TORQUE](media_phan-tich-serve-full-shelton-djokovic-trophy/media/image7.jpeg)
 
 Góc 22 độ trong hình là góc nghiêng thân, tạo bởi hông đẩy về trước
 trong khi vai giữ lại. Các điểm sáng cho thấy chuỗi lực: xanh là truyền

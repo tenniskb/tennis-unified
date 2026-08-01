@@ -259,7 +259,7 @@ nhất có thể theo bất kỳ hướng nào.
 Khi bạn nhảy nhẹ và tiếp đất, có một cửa sổ thời gian khoảng 100--150
 mili-giây trong đó cơ chân co lại theo phản xạ duỗi (stretch reflex).
 Đây là cơ chế mà vận động viên chuyên nghiệp khai thác: họ không cần
-\'suy nghĩ\' về việc đẩy đi --- cơ thể tự bùng phát nhờ phản xạ này.
+'suy nghĩ' về việc đẩy đi --- cơ thể tự bùng phát nhờ phản xạ này.
 
 Điều này giải thích tại sao Federer, dù ở tuổi 40, vẫn có thể di chuyển
 nhanh hơn nhiều người trẻ: ông không phải chờ não truyền lệnh cho cơ.
@@ -602,7 +602,7 @@ chuyển trọng tâm tuyến tính --- năng lượng đi từ sau ra trước 
 
 Câu hỏi thực tiễn quan trọng: \"Chân trước tương đối thẳng có giúp giảm
 đau gối không?\" Câu trả lời: Có, với điều kiện hiểu đúng nghĩa của
-\'thẳng\'.
+'thẳng'.
 
   ---------- ---------------------------------------------------------
    **NGUYÊN  *STRAIGHT ≠ LOCKED (Thẳng ≠ Khóa cứng). Chân dài, gối
@@ -916,11 +916,11 @@ chấn thương.
                                bóng.
 
   Tuần 2     Open Stance ---   Đánh chậm 50% tốc độ, chỉ tập preload.
-             cảm giác preload  Cue: \'Ngồi xuống trước\'. Kiểm tra cảm
+             cảm giác preload  Cue: 'Ngồi xuống trước'. Kiểm tra cảm
                                giác mông sau mỗi cú.
 
   Tuần 3     Bridge Leg và     Neutral Stance với bóng chậm, tập chuyển
-             chuyển trọng tâm  lực. Cue: \'Gối mềm, chân dài\'. Thêm
+             chuyển trọng tâm  lực. Cue: 'Gối mềm, chân dài'. Thêm
                                video 5 phút/tuần để xem lại.
 
   Tuần 4     Tích hợp ba tư    Tập chuyển đổi linh hoạt giữa các tư thế.
@@ -938,7 +938,7 @@ Khi bộ chân hoạt động đúng, bạn sẽ nhận thấy những thay đ�
   Mỏi cơ mông và đùi sau buổi tập    Bóng đi sâu hơn và ổn định hơn mà
   (không phải đau gối)               không cần dùng sức tay nhiều
 
-  Cảm nhận \'đẩy đất\' rõ ràng trước Tốc độ bóng tăng mà cảm giác dùng
+  Cảm nhận 'đẩy đất' rõ ràng trước Tốc độ bóng tăng mà cảm giác dùng
   mỗi cú đánh                        sức ít hơn
 
   Không đau gối sau buổi tập         Bóng có xoáy đều và ổn định hơn

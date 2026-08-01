@@ -11,7 +11,7 @@ in the elite world of the professional tour coaching. But you may never
 have heard his name. Tour coaches in general-who they are and what they
 do-are often a mystery to fans, the tennis media, and even to coaches
 working in other areas of the game. In his first article for
-Tennisplayer, Sven gives us an insider\'s perspective on the
+Tennisplayer, Sven gives us an insider's perspective on the
 complexities of coaching tour players-including its wide ranging
 dimensions. Another Tennisplayer exclusive!
 

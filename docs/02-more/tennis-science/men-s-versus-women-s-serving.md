@@ -1,4 +1,4 @@
-# Men\'s Versus Women\'s Serving: What is the Role of Internal Rotation?
+# Men's Versus Women's Serving: What is the Role of Internal Rotation?
 
 ### Bruce Elliott and Machar Reid
 
@@ -6,15 +6,14 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_men-s-versus-women-s-serving/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_men-s-versus-women-s-serving/media/image1.webp)
 
 **Could differences in internal rotation of the shoulder help account
-for the 20 percent difference in the speed of men\'s versus women\'s
+for the 20 percent difference in the speed of men's versus women's
 serves?**
 
-If we compare the highest service speeds of top players in men\'s and
-women\'s professional tennis, the speed of the female serve is on
+If we compare the highest service speeds of top players in men's and
+women's professional tennis, the speed of the female serve is on
 average approximately 80% that of the male serve.
 
 Milos Raonic, for example, has been recorded at 155 mph and Serena
@@ -40,18 +39,17 @@ accounts for the differences in the serves between men and women.
 
 ![A picture containing text, ball, sport, athletic game Description
 automatically
-generated](media_men-s-versus-women-s-serving/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_men-s-versus-women-s-serving/media/image2.webp)
 
 **Internal shoulder rotation: watch the upper arm rotate in the shoulder
 joint.**
 
 If you compare the internal rotation velocity of male professional
-players analyzed at the Sydney Olympics\' with that of an analysis of
+players analyzed at the Sydney Olympics' with that of an analysis of
 Australian female professionals, the speed of the rotation for females
 is almost 20 percent less.
 
-The actual number is 83% of the males\' values. Interestingly this
+The actual number is 83% of the males' values. Interestingly this
 difference is about the same as the differences in ball speed.
 
 While it is too simplistic to say that this is the sole cause of the
@@ -76,12 +74,9 @@ Internal rotation (IR) occurs during the forward swing to impact.
 Internal rotation then continues into the follow-through. This is the
 motion that most assists the generation of racket speed at impact.
 
-![](media_men-s-versus-women-s-serving/media/image3.jpg){width="2.1268657042869643in"
-height="3.1084951881014873in"}![](media_men-s-versus-women-s-serving/media/image4.jpg){width="1.716418416447944in"
-height="3.0960706474190727in"}![A picture containing text, clipart
+![](media_men-s-versus-women-s-serving/media/image3.jpg)![](media_men-s-versus-women-s-serving/media/image4.jpg)![A picture containing text, clipart
 Description automatically
-generated](media_men-s-versus-women-s-serving/media/image5.jpg){width="2.2238801399825023in"
-height="3.04714457567804in"}
+generated](media_men-s-versus-women-s-serving/media/image5.jpg)
 
 **The backward external rotation of the arm in the opposite direction in
 the backswing sets up the forward internal rotation of the arm to the
@@ -99,8 +94,7 @@ can most effectively use this aspect of the serve when they mature.
 
 ![A picture containing person, person, outdoor, male Description
 automatically
-generated](media_men-s-versus-women-s-serving/media/image6.jpeg){width="1.5597222222222222in"
-height="1.9777777777777779in"}
+generated](media_men-s-versus-women-s-serving/media/image6.jpeg)
 
 Machar Reid is the innovation catalyst at Tennis Australia. He
 established the Sports Science and Medicine Unit there in 2008. He is
@@ -108,8 +102,7 @@ the coauthor of several books on tennis sports science and coaching.
 
 ![A person wearing glasses and a suit Description automatically
 generated with medium
-confidence](media_men-s-versus-women-s-serving/media/image7.jpeg){width="1.5597222222222222in"
-height="1.9625in"}
+confidence](media_men-s-versus-women-s-serving/media/image7.jpeg)
 
 Bruce Elliott is a senior research fellow in biomechanics at the
 University of Western Australia. He is the author of the Power Serve

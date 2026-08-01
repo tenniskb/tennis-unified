@@ -32,23 +32,21 @@ reality they had been documented by Elliott et al as early as 1995.
 Elliott applied three dimensional quantitative camera systems to measure
 the contributions of the various joints and their motions to racket head
 speed for the serve. ([Click
-Here](The%20Power%20Serve%20-%20Part%201.docx) to read Bruce\'s article
+Here](The%20Power%20Serve%20-%20Part%201.docx) to read Bruce's article
 on the Power Serve.)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image1.webp)
 
-**Follow John Isner\'s elbow as you look for the upper arm to rotate as
+**Follow John Isner's elbow as you look for the upper arm to rotate as
 it adds speed to the racket. This is internal shoulder rotation.**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image2.webp)
 
-**Follow Andy Roddick\'s forearm backward, the forearm is an indication
+**Follow Andy Roddick's forearm backward, the forearm is an indication
 of exactly how the upper arm rotates. This is external shoulder
 rotation.**
 
@@ -80,8 +78,7 @@ to maximizing pace in any serve.
 
 ![A picture containing tennis, racket, court, sport Description
 automatically
-generated](media_internal-shoulder-rotation-key-to-serving-power/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_internal-shoulder-rotation-key-to-serving-power/media/image3.webp)
 
 **Just as the arm is straightening, the shoulder internally rotates
 explosively causing the racket head to accelerate. This rotation
@@ -106,7 +103,7 @@ ball.
 The racket goes from this edge-on position to face-on to the ball at
 impact mainly and simply as the result of internal shoulder rotation. (A
 widespread misunderstanding attributes this edge-on to face-on
-transition to 'pronation\', a poorly defined and misleading term in
+transition to 'pronation', a poorly defined and misleading term in
 tennis usage.)
 
 ### External Shoulder Rotation
@@ -119,8 +116,7 @@ shoulder rotation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_internal-shoulder-rotation-key-to-serving-power/media/image4.webp)
 
 **The amount of external shoulder rotation, as indicated here by the
 backward motion of the forearm, will determine how much racket head
@@ -136,8 +132,8 @@ be discussed under \"Function\".
 
 ### The Demos
 
-To understand this better, let\'s look specifically at how the arm moves
-in the shoulder joint. Let\'s isolate these two rotations independently
+To understand this better, let's look specifically at how the arm moves
+in the shoulder joint. Let's isolate these two rotations independently
 from the service motion to see more clearly how they work. You can do
 the same demos for yourself.
 
@@ -150,11 +146,10 @@ shoulder rotation. When the hand rotates so that the thumb goes backward
 
 ![A picture containing text, person, person, sport Description
 automatically
-generated](media_internal-shoulder-rotation-key-to-serving-power/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_internal-shoulder-rotation-key-to-serving-power/media/image5.webp)
 
-**When the thumb rotates downward, that\'s internal rotation. When it
-rotates upward, that\'s external.**
+**When the thumb rotates downward, that's internal rotation. When it
+rotates upward, that's external.**
 
 Now bend the elbow at 90 degrees and again rotate the upper arm back and
 forth to see external shoulder rotation with a bent elbow. During the
@@ -165,7 +160,7 @@ high speed videos.
 
 ### Function
 
-So why are these rotations so powerful? That\'s because internal
+So why are these rotations so powerful? That's because internal
 shoulder rotation of the upper arm is capable of both extremely rapidly
 acceleration and rotation rates. For the serve, the rotation rates can
 exceed 3000 degrees per second. These same joint rotations are shared by
@@ -183,13 +178,12 @@ example of what biomechanists call the **[[*stretch shortening
 cycle*.]{.underline}]{.mark}**
 
 ![A person swinging a tennis racket Description automatically
-generated](media_internal-shoulder-rotation-key-to-serving-power/media/image6.Contact){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_internal-shoulder-rotation-key-to-serving-power/media/image6.Contact)
 
 **The pre-stretched internal shoulder rotator muscles rotate the racket
 to impact in a few hundredths of a second for a high level pro serve.**
 
-The racket\'s well-known positions of **[[edge-on to the ball in the
+The racket's well-known positions of **[[edge-on to the ball in the
 upward swing]{.underline}]{.mark}** and **[[face-on to the ball at
 impact]{.underline}]{.mark}** are the direct result of the explosive
 shortening of the stretched muscles during internal shoulder rotation.
@@ -210,7 +204,7 @@ second.]{.underline}]{.mark}** This is followed by trained timing that
 shortens these pre-stretched muscles explosively over approximately the
 last 30 milliseconds before impact.
 
-**[It\'s important to note that [the orientation of the arm to torso is
+**[It's important to note that [the orientation of the arm to torso is
 critical to minimize the risk of shoulder impingement when unleashing
 this powerful force.]{.underline}]{.mark}** For safety, the upper arm
 must always be positioned in the proper orientation relative to the
@@ -222,18 +216,17 @@ and external shoulder rotation function that can go down literally to
 the molecular level. These are some of the topics I hope to address in
 future articles.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                         | Chas Stumpfel is a research physicist (retired) |
-| generated](media_internal-shoulder-rotation-key-to-serving-power/media/image7.jpeg){width="1.3041666666666667in" | with a background that includes various high    |
-| height="2.4611111111111112in"}                                                                                                                                                                       | speed imaging applications.                     |
-|                                                                                                                                                                                                      |                                                 |
-|                                                                                                                                                                                                      | He is a recreational player who has been        |
-|                                                                                                                                                                                                      | interested in tennis stroke techniques since    |
-|                                                                                                                                                                                                      | the 1970s, especially those for the serve.      |
-|                                                                                                                                                                                                      |                                                 |
-|                                                                                                                                                                                                      | In 2011, he was surprised and fascinated to     |
-|                                                                                                                                                                                                      | learn of research of that showed the racket     |
-|                                                                                                                                                                                                      | head speed for the serve was largely powered by |
-|                                                                                                                                                                                                      | a joint motion that was not well known in       |
-|                                                                                                                                                                                                      | tennis.                                         |
-+======================================================================================================================================================================================================+=================================================+
+| ![A person holding a tennis racket Description automatically | Chas Stumpfel is a research physicist (retired) |
+| --- | --- |
+| generated](media_internal-shoulder-rotation-key-to-serving-power/media/image7.jpeg) | speed imaging applications. |
+|  |  |
+|  | He is a recreational player who has been |
+|  | interested in tennis stroke techniques since |
+|  | the 1970s, especially those for the serve. |
+|  |  |
+|  | In 2011, he was surprised and fascinated to |
+|  | learn of research of that showed the racket |
+|  | head speed for the serve was largely powered by |
+|  | a joint motion that was not well known in |
+|  | tennis. |
+

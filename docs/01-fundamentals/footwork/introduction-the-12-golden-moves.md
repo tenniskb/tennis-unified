@@ -16,8 +16,7 @@ elite coaches.
 
 ![](media_introduction-the-12-golden-moves/media/image1.wmf)
 
-![](media_introduction-the-12-golden-moves/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_introduction-the-12-golden-moves/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

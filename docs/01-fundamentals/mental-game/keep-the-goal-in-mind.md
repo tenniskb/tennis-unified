@@ -16,7 +16,7 @@ The champions rarely do anything that does not help them win, while the
 losers often do, a tendency, as usual, driven by the fear of failure.
 **[[In fact, the \"Golden Rule\" for anyone working towards becoming a
 champion is to test any action before taking it with the question,
-\"Will this help me win the match?\" If the answer is not yes, don\'t do
+\"Will this help me win the match?\" If the answer is not yes, don't do
 it.]{.underline}]{.mark}**
 
 **Meltdown**
@@ -36,10 +36,9 @@ told them to \"Shut up.\" The umpire gave him a code violation for
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, outdoor, sport, net Description automatically
-  generated](media_keep-the-goal-in-mind/media/image2.jpg){width="2.8472222222222223in"
-  height="3.6944444444444446in"}
+  generated](media_keep-the-goal-in-mind/media/image2.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Was it really in Jeff\'s interest to demand to see the supervisor?**
+  **Was it really in Jeff's interest to demand to see the supervisor?**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,15 +49,15 @@ Tarango then called the umpire \"the most corrupt official in the game\"
 and was promptly assessed a point penalty for verbal abuse which cost
 him the game.
 
-At this Tarango shouted \"That\'s it. No way. That\'s it.\" He picked up
+At this Tarango shouted \"That's it. No way. That's it.\" He picked up
 his bags, stalked off the court, and entered the history books as the
 first player in the Open era to default himself at Wimbledon. To make
-matters worse (yes, it\'s always possible), Tarango held a press
+matters worse (yes, it's always possible), Tarango held a press
 conference at which he justified calling the umpire \"corrupt\" by
 accusing him, on the basis of hearsay, of having, in the past, \"given\"
 matches to players who were his friends.
 
-Now let\'s tote up the damages. Tarango threw away an excellent chance
+Now let's tote up the damages. Tarango threw away an excellent chance
 to advance in the tournament since he was, after all, favored in the
 match. He was defaulted in his mixed doubles, which did not endear him
 to his partner. It cost him a lot of money which he could ill afford
@@ -68,8 +67,7 @@ additional prize money he might have won.
 
 ![A picture containing grass, person, outdoor, sport Description
 automatically
-generated](media_keep-the-goal-in-mind/media/image3.jpg){width="3.043478783902012in"
-height="4.928472222222222in"}
+generated](media_keep-the-goal-in-mind/media/image3.jpg)
 
 **What really caused Jeff Tarango to walk off the court at Wimbledon?**
 
@@ -79,12 +77,12 @@ height="4.928472222222222in"}
 
 Finally, his public image was not enhanced by making himself look like
 an overgrown brat who would have been well served by a few good
-spankings as a child. All in all, it was not one of Tarango\'s better
+spankings as a child. All in all, it was not one of Tarango's better
 afternoons, the object of the game (to win the match) having apparently
 slipped his mind.
 
 With all these damages accruing as a result of his actions, one might
-reasonably wonder how a man of Tarango\'s substantial intellect (he is
+reasonably wonder how a man of Tarango's substantial intellect (he is
 also a likeble, funny, bright Stanford man and a friend of mine) could
 have so completely lost track of his simple goal of winning the match?
 The answer is that fear of failure (he was losing), exacerbated by the
@@ -92,9 +90,9 @@ stress and emotion of the situation, drove his actions.
 
 He was afraid that he was going to lose the match, and this fanned the
 flames of his irrationality. Quitting was his unconscious way of
-escaping from a situation that he feared would end badly. If you don\'t
+escaping from a situation that he feared would end badly. If you don't
 believe this, picture the following thought experiment: God appears over
-Tarango\'s shoulder and whispers in his ear that he is guaranteed to win
+Tarango's shoulder and whispers in his ear that he is guaranteed to win
 the match. Now what would Tarango have done? He might still have fought
 with the umpire, but I would bet a lot of money that he would have stuck
 around to win the match.
@@ -105,7 +103,7 @@ John McEnroe had a similar fiery temperament, but he was able to retain
 his ultimate rationality even in the throes of emotionality and outcome
 uncertainty. Because at some deep level he sensed that he was going to
 win, he was able to comprehend where the line demarcating disaster was,
-and at the last moment, exert enough self-control (although it didn\'t
+and at the last moment, exert enough self-control (although it didn't
 look like it) to avoid crossing it.
 
   -----------------------------------------------------------------------------------------------------------------------------------
@@ -129,10 +127,9 @@ player was allowed before default.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
                                           ![A person playing tennis Description automatically generated with medium
-   confidence](media_keep-the-goal-in-mind/media/image5.jpg){width="3.2in"
-                                                                height="4.081779308836396in"}
+   confidence](media_keep-the-goal-in-mind/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
-                                           **John\'s Australian default: a miscalculation not a loss of reason.**
+                                           **John's Australian default: a miscalculation not a loss of reason.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -143,7 +140,7 @@ miscalculated and thought he could afford one more penalty. In contrast
 with Tarango, McEnroe may sometimes have looked like an uncontrolled,
 irrational wild man, but all the while he was carefully counting his
 penalties so that he could stop himself before he went too far. McEnroe
-didn\'t often forget where his interests lie.
+didn't often forget where his interests lie.
 
 Human beings are supposed to be rational creatures, but too often our
 emotions drive our actions while our reasoning abilities are relegated
@@ -158,9 +155,9 @@ Keeping in mind our \"Golden Rule\" test of \"Will This Help Me Win the
 Match?\" can help ward off such debilitating and destructive mental
 states.
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -169,62 +166,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                       | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_keep-the-goal-in-mind/media/image6.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                        | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                        | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                        | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                        | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                        |                                                                                                                       |
-|                                                                                                                                                                        | [Click Here to                                                                                                        |
-|                                                                                                                                                                        | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+========================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_keep-the-goal-in-mind/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                       | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_keep-the-goal-in-mind/media/image7.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                         | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                        | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                        | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                        | his first hand and very personal observations of the        |
-|                                                                                                                                                                        | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                        | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                        | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                        | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                        | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                        | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                        | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                        | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                        | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                        | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                        | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                        | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                        | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                        | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                        | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                        |                                                             |
-|                                                                                                                                                                        | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                        | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                        | 93401. The price includes shipping.                         |
-+========================================================================================================================================================================+=============================================================+
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                          | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_keep-the-goal-in-mind/media/image8.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                        | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                       | American player from the glory days before Open        |
-|                                                                                                                                                                       | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                       | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                       | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                       | program into an elite contender for national titles,   |
-|                                                                                                                                                                       | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                       | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                       | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                       | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                       | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                       |                                                        |
-|                                                                                                                                                                       |                                                        |
-+=======================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_keep-the-goal-in-mind/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_keep-the-goal-in-mind/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

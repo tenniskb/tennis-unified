@@ -6,8 +6,7 @@
 
 ![A picture containing sport, athletic game, green, tennis Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image1.webp)
 
 **The bottom line: geometric patterns of ball movement are critical to
 advanced achievement.**
@@ -27,8 +26,7 @@ ingredients to advanced achievement in this game.
 
 ![A picture containing athletic game, sport, tennis, match Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_pro-patterns-basic-diagonals/media/image2.webp)\
 **The bottom line: style versus style.**
 
 **Style Versus Style**
@@ -38,9 +36,9 @@ emotional attachments and external distractions, it comes down to a
 style versus style match-up.
 
 What type of game do I have versus what type of game does my opponent
-have? Then, what are my inherent strengths and what are my opponent\'s
+have? Then, what are my inherent strengths and what are my opponent's
 weaknesses? How can the strengths of my style prey upon the weaknesses
-of his style? It\'s that simple but few players break it down to what it
+of his style? It's that simple but few players break it down to what it
 really is. The style versus style match-up is the essence of the game.
 
 In this series we are going to explore styles and patterns of baseline
@@ -50,8 +48,7 @@ and in future articles, moving on to approach and serve and volley.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image3.webp)
 
 **One theme: punish your opponent for trying to change the direction of
 the rally.**
@@ -61,7 +58,7 @@ the rally.**
 **Basic baseline strategy can be reduced to a few simple themes:**
 
 **1. Find the crosscourt rally that either favors your strength or
-attacks your opponent\'s weakness.**
+attacks your opponent's weakness.**
 
 **2. Use your favorable rally to create an angle, which opens the court
 for your winner.**
@@ -76,8 +73,7 @@ direction.**
 you receive a short ball or floater to attack.**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_pro-patterns-basic-diagonals/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals/media/image4.webp)
 
 **What crosscourt rally favors you?**
 
@@ -94,8 +90,7 @@ change of ball direction, and your recovery distance is minimized.
 
 ![A picture containing sport, athletic game, tennis, match Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image5.webp)
 
 **Mastery of the crosscourt means victory through intelligence not
 ego.**
@@ -122,8 +117,7 @@ Williams) use effectively.
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image6.webp)
 
 **A deep crosscourt and a shorter angled crosscourt are actually 2
 different shots.**
@@ -148,14 +142,13 @@ before it crosses the baseline.**
 
 ![A picture containing sport, tennis, athletic game, outdoor Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image7.webp)
 
 **A favorite Agassi pattern: working the crosscourt then a down the line
 winner.**
 
-To understand a basic example of how pro players use these shots, let\'s
-pick one of Andre Agassi\'s favorite patterns. Agassi establishes the
+To understand a basic example of how pro players use these shots, let's
+pick one of Andre Agassi's favorite patterns. Agassi establishes the
 forehand-to-forehand rally and then uses the angled crosscourt to drive
 the opponent off the court, to open up the down the line winner.
 
@@ -171,11 +164,10 @@ hitting an approach shot down the line instead of a groundstroke winner.
 
 ![A picture containing sport, athletic game, tennis, match Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image8.webp)
 
 **A basic winning strategy is shot tolerance. Establish a favorable
-crosscourt pattern and wait for your opponent\'s errors.**
+crosscourt pattern and wait for your opponent's errors.**
 
 Once it is established that you are stronger off either the forehand or
 the backhand than your opponent, your strategy becomes simplified
@@ -186,19 +178,18 @@ backhand, your backhand to their forehand, or even your inside out
 forehand to their forehand. Still the concept is simple.
 
 Players attempt to develop the high percentage crosscourt rally which
-favors their own stronger shot to their opponent\'s weaker shot. Once a
+favors their own stronger shot to their opponent's weaker shot. Once a
 player has established this crosscourt rally, he can then move into the
 construction phase of the point.
 
 There are two basic ways the crosscourt rally can work to win you points
 in actual play. The simplest is based on the concept of \"shot
 tolerance.\" Once you have established a favorable crosscourt baseline
-rally, you begin to look for an opponent\'s mistakes.
+rally, you begin to look for an opponent's mistakes.
 
 ![A picture containing sport, tennis, athletic game, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image9.webp)
 
 **A favorable crosscourt rally yields the short ball for the down the
 line winner.**
@@ -224,8 +215,7 @@ pace, or sheer patience.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals/media/image10.webp)
 
 **What all great players want\--the short ball.**
 
@@ -250,15 +240,14 @@ the singles line.]{.underline}]{.mark}**
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image11.webp)
 
 **Venus creates space with the forehand crosscourt, attacks down the
 line and finishes with the volley.**
 
 These are first strike patterns and seek to initiate offense before your
 opponent can change the rally. There are several methods of creating the
-winning or attacking shot within these patterns. So let\'s now progress
+winning or attacking shot within these patterns. So let's now progress
 to your options.
 
 **[[Beginning with the forehand crosscourt diagonal, a player is looking
@@ -274,8 +263,7 @@ line.
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image12.webp)
 
 **A favorable backhand crosscourt pattern will lead to winners down the
 line or inside in.**
@@ -294,20 +282,19 @@ tactic used to set up the backhand down the line winner.
 
 **[[From the inside-out position, the concept is a bit more touchy. You
 will attempt to work the ball out wide with your inside-out forehand to
-the opponent\'s backhand, creating some angle to open up your
-opponent\'s forehand side. This is effective against a slow mover, a
+the opponent's backhand, creating some angle to open up your
+opponent's forehand side. This is effective against a slow mover, a
 weak running forehand, a western grip forehand, or a player who cannot
 hit backhand angles]{.underline}]{.mark}**.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals/media/image13.webp)
 
 **The inside out diagonal leads to inside in winners.**
 
 The inside-out pattern finishing shot is INSIDE-IN, (down the line) to
-the opponent\'s forehand. The player is looking for a ball closer to the
+the opponent's forehand. The player is looking for a ball closer to the
 middle of the court and above the net in order to finish. When the
 response comes back below the net, the player should hit inside-out
 again, or he will leave himself exposed for his opponent to drive it
@@ -321,15 +308,14 @@ of the patterns when the opponent attempts to switch them, and what to
 do once in the patterns, prior to walking on the court.
 
 As always, these patterns are rules not laws, and often can be broken to
-prey upon an opponent\'s glaring weaknesses. For example, it is said
+prey upon an opponent's glaring weaknesses. For example, it is said
 that Agassi has trouble driving his running forehand crosscourt, and
 often hits to the middle of the court. A player playing him from the
 baseline, is not going to win many rallies from either crosscourt
 diagonal.
 
 ![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image14.webp)
 
 **The running crosscourt: a small Agassi weakness.**
 
@@ -337,13 +323,13 @@ To beat Andre from the back, you would attempt to drive deep down the
 middle into his backhand and make him hit down the line. Pulling him out
 wide to the backhand will make him respond with a better angle and
 playing him forehand to forehand is very dangerous because he cuts off
-the angles so well. Driving deep to Agassi\'s backhand can lead to the
+the angles so well. Driving deep to Agassi's backhand can lead to the
 opportunity to hit hard forehand angles.
 
 So, forcing him to hit from deep in the court, near the middle, down the
 line with his backhand, whereby you respond with a forehand hard angle,
 is the only way to get him moving, and to drive him off the court to his
-forehand side with any authority. It\'s a small vulnerability which may
+forehand side with any authority. It's a small vulnerability which may
 be why he is one of the most successful backcourt players in the history
 of the game.
 
@@ -351,8 +337,7 @@ of the game.
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image15.webp)
 
 **Another way of attacking is to hit behind your opponent.**
 
@@ -372,20 +357,19 @@ efficiency and control.
 They take this ball very early, on the rise, with a good weight transfer
 and hammer it just beyond the service line with angle. It is a
 professional shot and takes tons of repetition to master, but one that
-is required in pro tennis. Even if it doesn\'t create a winner, the
+is required in pro tennis. Even if it doesn't create a winner, the
 response will be a very short ball and the court will be wide open.
 
 ![A picture containing athletic game, sport, tennis, green Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image16.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image16.webp)
 
 **You can move a slower opponent and hit down the line earlier without
 fearing the crosscourt reply.**
 
 **Movement**
 
-A player\'s ability to exploit the slower movement of an opponent,
+A player's ability to exploit the slower movement of an opponent,
 combined with is ability to counter the weaknesses in his own movement
 are two of the factors that define physical greatness on the court.
 
@@ -406,8 +390,7 @@ him to make errors off a soft slice.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_pro-patterns-basic-diagonals/media/image17.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image17.webp)
 
 **By going back down the line, Agassi forces his opponent to try to play
 offense from his weaker side.**
@@ -432,12 +415,11 @@ dare your opponent to hit to the open court.
 The reasons for this are multifold. You may know that your opponent
 cannot hit a backhand down the line with consistency and you will play
 the inside out forehand position with more risk because of your
-opponent\'s weakness. You may have a great running forehand so you will
+opponent's weakness. You may have a great running forehand so you will
 expose your vulnerability and challenge your opponent to beat you there.
 
 ![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image18.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image18.webp)
 
 **Sampras would expose his forehand and challenge players to beat him.**
 
@@ -455,17 +437,16 @@ out of position. I like to ask students the following question:
 
 Assume you hit a crosscourt forehand or backhand drive with your weight
 moving forward. It clears the net by about 2 feet and lands with good
-depth in your opponent\'s court. Now hit the same shot with your weight
+depth in your opponent's court. Now hit the same shot with your weight
 moving sideways or backwards.
 
 Will this ball land shorter or deeper than the first ball? The obvious
-answer is shorter (although, surprisingly, the answer doesn\'t always
+answer is shorter (although, surprisingly, the answer doesn't always
 seem obvious to my students). Less weight transfer into the ball means
 less power, and this means less depth.
 
 ![A person playing tennis Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image19.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_pro-patterns-basic-diagonals/media/image19.webp)
 
 **The right response when moving back is to add height.**
 
@@ -501,23 +482,21 @@ using angles, more often? Can you see one pattern happening more often
 when one player is serving and a different pattern when the other player
 is serving?]{.underline}]{.mark}**
 
-**[[These are the same questions you should ask about your opponent\'s
-game in your own matches. In the next article we\'ll look at how pro
+**[[These are the same questions you should ask about your opponent's
+game in your own matches. In the next article we'll look at how pro
 players battle to get control of the diagonals, impose their favorite
 patterns, and switch the patterns that favor their
 opponents.]{.underline}]{.mark}**
 
 ![A tennis player on a court Description automatically generated with
 medium
-confidence](media_pro-patterns-basic-diagonals/media/image20.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_pro-patterns-basic-diagonals/media/image20.webp)
 
 **Which player is using angles and driving the opponent outside the
 singles lines?**
 
 ![A person holding a tennis racket Description automatically
-generated](media_pro-patterns-basic-diagonals/media/image21.jpeg){width="1.8243055555555556in"
-height="2.3361111111111112in"}
+generated](media_pro-patterns-basic-diagonals/media/image21.jpeg)
 
 Craig Cignarelli is one of the most prolific and successful
 developmental coaches in the country. His original analysis of

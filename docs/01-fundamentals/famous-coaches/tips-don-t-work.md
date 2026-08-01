@@ -164,8 +164,7 @@ trail and build momentum throughout the serve. Fluidity and balance are
 key ingredients to a big serve.]{.underline}]{.mark}**
 
 ![Jack Broudy - Founder of the Non-Linear Tennis
-System](media_tips-don-t-work/media/image1.jpeg){width="2.5597222222222222in"
-height="2.4in"}
+System](media_tips-don-t-work/media/image1.jpeg)
 
 Jack Broudy from Broudy Tennis. Jack is a tennis player, coach, author,
 speaker, and inventor. He's coached college national champions, top US

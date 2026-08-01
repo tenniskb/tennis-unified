@@ -18,8 +18,7 @@ a by product of the real goal.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                   Jim Loehr is a legendary pioneer in the field of
-  confidence](media_the-only-way-to-win-our-academy/media/image2.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                      himself who still competes nationally in USTA
+  confidence](media_the-only-way-to-win-our-academy/media/image2.jpeg)                                                                                                                                                      himself who still competes nationally in USTA
                                                                                                                                                                                       events, Jim created the field of Mental
                                                                                                                                                                                       Toughness training with his revolutionary study
                                                                                                                                                                                       of elite pro players. He has been one of the

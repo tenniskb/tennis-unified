@@ -57,7 +57,7 @@ what we call the Idle Engine Principle.
 
 **1.1 The Core Concept**
 
-Imagine a car engine. When you stop at a traffic light, you don\'t turn
+Imagine a car engine. When you stop at a traffic light, you don't turn
 the engine off --- you idle. The engine continues running at low power,
 ready to accelerate the moment you press the gas pedal. Your body in
 tennis works exactly the same way.
@@ -82,8 +82,8 @@ Over a 90-minute match, this latency compounds into dozens of balls you
 arrive at a fraction too late.
 
 Micro-movement keeps your neuromuscular system primed and your
-proprioceptive awareness sharp. Your body is already \'talking to
-itself\' about balance and position, making redirections faster and more
+proprioceptive awareness sharp. Your body is already 'talking to
+itself' about balance and position, making redirections faster and more
 natural.
 
 **1.3 What Idle Engine Looks Like**
@@ -161,7 +161,7 @@ can launch 150--200 milliseconds faster than from a dead stop.
 
 **2.4 The Energy Question**
 
-A common concern: \'Won\'t this tire me out?\' The answer is no --- when
+A common concern: 'Won't this tire me out?' The answer is no --- when
 done correctly. The amplitude of micro-bounce is so small that the
 metabolic cost is minimal. The elastic energy stored and released in the
 tendons means almost no muscle fibers need to fire for each cycle. You
@@ -191,7 +191,7 @@ contraction instead of tendon elasticity. Keep it subtle.
 
 **Chapter 3: The Double Mini Split Step System**
 
-The split step is tennis\'s most universal footwork technique. But
+The split step is tennis's most universal footwork technique. But
 elite-level doubles tennis demands something more refined: the Double
 Mini Split Step --- a system of two layered timing resets that
 dramatically reduce false commitments and reaction errors.
@@ -207,7 +207,7 @@ before proceeding.
 
 Instead of one split step, you perform two nested micro-resets within a
 single movement window. These two resets are not visible as separate
-jumps --- they feel like one movement with two internal \'pulses.\'
+jumps --- they feel like one movement with two internal 'pulses.'
 
 **Split Step #1: Early Read Reset**
 
@@ -235,7 +235,7 @@ jumps --- they feel like one movement with two internal \'pulses.\'
 **3.3 Why Two Resets Beat One**
 
 The problem with a single split step is timing precision. Too early and
-you\'ve reset before you can read the shot. Too late and you\'re already
+you've reset before you can read the shot. Too late and you're already
 committed to a wrong direction. The double mini split system solves this
 by distributing the reset across the entire reading window.
 
@@ -300,7 +300,7 @@ light movement to heavy movement.
 
 **4.3 The Bipedal Principle**
 
-\'Two feet never rest at the same time.\' At any moment, one foot always
+'Two feet never rest at the same time.' At any moment, one foot always
 leads the micro-movement while the other prepares to receive weight.
 This alternating rhythm is what gives you the ability to change
 direction in any moment without a preparation phase.
@@ -401,7 +401,7 @@ After every shot, return to micro-bounce within 1 second. Standing in
 follow-through position for more than 1 second = point lost in practice.
 
   ---------- ------------------------------------------------------------
-   **COACH   *Don\'t stop. Stay spring. Split twice inside one step. Move
+   **COACH   *Don't stop. Stay spring. Split twice inside one step. Move
     CUE**    first, decide after. Recover instantly.*
 
   ---------- ------------------------------------------------------------
@@ -416,7 +416,7 @@ deliberation.
 **6.1 The Core Idea**
 
   ---------- ------------------------------------------------------------
-    **CORE   *You don\'t choose your shot through slow thinking. You read
+    **CORE   *You don't choose your shot through slow thinking. You read
     IDEA**   the state of play, and the system maps that state to an
              optimal shot automatically.*
 
@@ -428,7 +428,7 @@ deliberation.
 
 Every incoming ball carries four parameters: speed (fast/slow), spin
 (topspin/slice/flat), depth (deep/short), height (high/low). You read
-these simultaneously in the first 0.2 seconds of the ball\'s flight.
+these simultaneously in the first 0.2 seconds of the ball's flight.
 
 **Input 2: Court Position**
 
@@ -473,7 +473,7 @@ finish. Highest risk tolerance --- this is the kill shot scenario.
 
   -------------- ------------------------------------------------------------
    **CRITICAL**  *The most dangerous moment in a point is when you ask
-                 yourself \'what should I hit?\' That question costs 0.5--1.5
+                 yourself 'what should I hit?' That question costs 0.5--1.5
                  seconds. The Shot OS eliminates the question by replacing it
                  with a rule.*
 
@@ -551,10 +551,10 @@ Recovery → Return to Footwork OS.
 
 **7.4 The System Mindset Shift**
 
-Traditional thinking: \'I\'m playing tennis.\'
+Traditional thinking: 'I'm playing tennis.'
 
-System thinking: \'I am running a four-layer decision architecture and
-the opponent is the input signal.\'
+System thinking: 'I am running a four-layer decision architecture and
+the opponent is the input signal.'
 
 **This mindset shift removes emotion from individual points, prevents
 tilt, and maintains decision quality under pressure.**
@@ -647,7 +647,7 @@ exchanges.
 
 The space between both opponents --- down the middle of the court. This
 lane is where doubles matches are decided. Balls hit through the center
-lane create a no-man\'s-land of communication confusion between
+lane create a no-man's-land of communication confusion between
 opponents.
 
   ------------- ------------------------------------------------------------
@@ -660,7 +660,7 @@ opponents.
 **9.2 Why the Center Lane Matters**
 
 When a ball travels through the center lane, both opponents must
-instantly decide: \'Is this mine?\' Every millisecond of that decision
+instantly decide: 'Is this mine?' Every millisecond of that decision
 is a millisecond they are not moving to the ball. The confusion creates
 late arrivals, poor positioning, miss-hits, and error-under-pressure.
 
@@ -674,13 +674,13 @@ Offensively: direct balls through the center lane to create confusion.
 Use this especially after serve, after approach shots, and in net
 exchanges.
 
-Defensively: your net player must always position to \'cover\' the
-center lane, cutting off opponents\' ability to use it against you. This
+Defensively: your net player must always position to 'cover' the
+center lane, cutting off opponents' ability to use it against you. This
 is more important than any other net positioning consideration.
 
-**9.4 The Net Player\'s Primary Duty**
+**9.4 The Net Player's Primary Duty**
 
-The net player\'s first responsibility is not to intercept balls --- it
+The net player's first responsibility is not to intercept balls --- it
 is to make the center lane feel dangerous to the opponent. Even without
 touching the ball, a net player who commands the center lane forces
 opponents into less efficient cross-court lanes.
@@ -696,7 +696,7 @@ point.
 
 **Body Serve**
 
-Targeted at the returner\'s hip or torso. Effect: locks the returner in
+Targeted at the returner's hip or torso. Effect: locks the returner in
 place, prevents a clean swing, and eliminates wide angles. Primary
 benefit: opens the center lane for the net player to poach. Use when
 your net player has strong poaching instincts.
@@ -711,7 +711,7 @@ pressure.
 
 **T Serve (Center Serve)**
 
-Down the center line, toward the receiver\'s body on the backhand side.
+Down the center line, toward the receiver's body on the backhand side.
 Effect: eliminates angle, forces a straight or minimal return, often
 produces a weak block. Primary benefit: limits return options
 dramatically. Use as a first-serve weapon when consistent deep.
@@ -726,7 +726,7 @@ diagonal opening.
 
 Signals between server and net player --- hand signals, verbal cues,
 pre-point agreements --- are standard at all levels above recreational.
-Know your net player\'s signals and use them every point.
+Know your net player's signals and use them every point.
 
 **10.3 Serve + Net Formation**
 
@@ -756,7 +756,7 @@ Return Objective = Remove serve advantage + Disrupt net player
 positioning sync.
 
 You are not trying to win the point on the return. You are trying to
-neutralize the serving team\'s formation, eliminate their net player as
+neutralize the serving team's formation, eliminate their net player as
 an interceptor, and give your team a chance to rally on equal terms.
 
 **11.2 The Three Return Types**
@@ -779,7 +779,7 @@ behind them. Use against aggressive net players.
 
 Directly past the net player, down the alley. High risk, high reward.
 Goal: punish a net player who has overcommitted, or surprise a static
-formation. Requires clean timing and a clear read of the net player\'s
+formation. Requires clean timing and a clear read of the net player's
 position. Use sparingly, as a change-up.
 
 **11.3 Reading the Net Player**
@@ -791,7 +791,7 @@ passing return. A poaching net player is best neutralized by a lobbed
 reset over their position.
 
   ---------- ------------------------------------------------------------
-   **COACH   *Don\'t hit the return --- disrupt the formation. The serve
+   **COACH   *Don't hit the return --- disrupt the formation. The serve
     CUE**    wins them the net. The return wins it back.*
 
   ---------- ------------------------------------------------------------
@@ -829,7 +829,7 @@ partner must cover.
 **12.2 Poach Timing**
 
 The technical window for a poach: you cross the center service line as
-the opponent\'s racquet contacts the ball. Too early, they see you and
+the opponent's racquet contacts the ball. Too early, they see you and
 pass; too late, the ball is already past. The double mini split step is
 your poaching timing mechanism --- your second reset locks in the exact
 window.
@@ -839,7 +839,7 @@ window.
 - Priority 1: Center lane --- creates maximum confusion, shortest path
   over net
 
-- Priority 2: Weak player\'s feet --- forces difficult low volley
+- Priority 2: Weak player's feet --- forces difficult low volley
   response
 
 - Priority 3: Open court --- when opponent is pulled wide and court is
@@ -847,14 +847,14 @@ window.
 
 **12.4 Net Player Communication**
 
-Your partner cannot see the net player\'s position. You are their eyes
+Your partner cannot see the net player's position. You are their eyes
 on the front half of the court. Use hand signals before each serve to
 communicate your intention: poach (closed fist), stay (open hand), fake
 (two fingers). This removes surprise from your own team --- the only
 surprises should be for opponents.
 
   ---------- ------------------------------------------------------------
-   **COACH   *Make the net dangerous --- even when you don\'t touch the
+   **COACH   *Make the net dangerous --- even when you don't touch the
     CUE**    ball.*
 
   ---------- ------------------------------------------------------------
@@ -905,7 +905,7 @@ Uses lobs as a primary weapon --- both defensively and offensively. They
 are patient, physically fit, and often frustrate net-rushing teams.
 Their lob quality is high, but they have weak put-away volleys.
 
-Counter: early court entry --- don\'t allow them to get set for lobs.
+Counter: early court entry --- don't allow them to get set for lobs.
 Attack before they can reset. Move back quickly when you see lob
 preparation, and practice overhead positioning.
 
@@ -1071,7 +1071,7 @@ from the opponent within three shots.
 The Match State OS is the fourth and highest layer of the Full Match OS.
 It does not make shot decisions or manage footwork --- it manages the
 meta-state of the match itself. Who has momentum? What does the score
-demand? What is the opponent\'s psychological state?
+demand? What is the opponent's psychological state?
 
 **16.1 Reading Score Pressure**
 
@@ -1094,13 +1094,13 @@ pressure differential.
 Momentum is real, measurable, and manageable. Signs of positive
 momentum: shorter points, higher first-serve percentage, fewer unforced
 errors, cleaner net approaches. Signs of negative momentum: longer
-points going wrong, opponent\'s shots landing deeper, your team\'s
+points going wrong, opponent's shots landing deeper, your team's
 communication breaking down.
 
 Momentum reversal techniques:
 
 - Change pace dramatically --- play a slow, deliberate point when
-  you\'ve been rushing
+  you've been rushing
 
 - Win a point aggressively --- even one decisive winner can reset
   opponent confidence
@@ -1148,7 +1148,7 @@ events in a 10-minute window.
 
 **Drill 2: 3-State Random Call (10 minutes)**
 
-Partner calls \'IDLE,\' \'ADJUST,\' or \'EXPLODE\' randomly. You must
+Partner calls 'IDLE,' 'ADJUST,' or 'EXPLODE' randomly. You must
 switch between BES states instantly. No warm-up between states. The
 ability to access any state from any state is the goal.
 
@@ -1163,8 +1163,8 @@ third person watching footwork only.
 **Drill 4: State Declaration Drill (live rally)**
 
 After every incoming ball, you must verbally call your mode before
-executing: \'DEFEND,\' \'NEUTRAL,\' \'ATTACK,\' or \'FINISH.\' If your
-call doesn\'t match the situation, the point is replayed. This builds
+executing: 'DEFEND,' 'NEUTRAL,' 'ATTACK,' or 'FINISH.' If your
+call doesn't match the situation, the point is replayed. This builds
 conscious mode classification that eventually becomes automatic.
 
 **Drill 5: No-Choice Rally (20 minutes)**
@@ -1249,7 +1249,7 @@ they contact.
 
 **18.4 Pattern Disruption vs. Pattern Exploitation**
 
-Sometimes you want to disrupt the opponent\'s pattern to make them
+Sometimes you want to disrupt the opponent's pattern to make them
 uncomfortable. Sometimes you want to let them follow their pattern ---
 into your trap. Know the difference:
 
@@ -1276,7 +1276,7 @@ The trained system runs identically under pressure as it does at 0--0.
 
 Under pressure, the prefrontal cortex --- responsible for complex
 decision-making --- partially surrenders control to the amygdala, the
-brain\'s threat-response center. The amygdala defaults to safety
+brain's threat-response center. The amygdala defaults to safety
 behaviors: hit to the middle, avoid risk, slow down, tighten the grip.
 These behaviors often produce exactly the errors you were trying to
 avoid.
@@ -1296,8 +1296,8 @@ system response, lowering heart rate and reducing cortisol output.
 
 **Step 2: Zone and Role Confirmation**
 
-Silently confirm your zone and role: \'I am at Zone 2 baseline. My job
-is depth + direction.\' One sentence. No strategy beyond the immediate
+Silently confirm your zone and role: 'I am at Zone 2 baseline. My job
+is depth + direction.' One sentence. No strategy beyond the immediate
 task.
 
 **Step 3: Footwork OS Pre-Activation**
@@ -1316,7 +1316,7 @@ does not exist until the point is over.
 
 High-pressure points are not the moment to innovate or change tactics.
 They are the moment to run your most rehearsed patterns. Brief your
-partner between points: \'Same plan. Serve body. I cover center.\'
+partner between points: 'Same plan. Serve body. I cover center.'
 Simplicity reduces confusion and builds shared confidence.
 
   ------------- ------------------------------------------------------------

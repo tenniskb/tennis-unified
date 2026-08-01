@@ -9,15 +9,15 @@
 *Phân Tích Động Học Sinh Cơ Học --- Hệ Thống Truyền Động Lực & Kinetic
 Chain*
 
-+:---------------------------------------------------------------------:+
-| Dành cho: Huấn luyện viên Tennis Chuyên nghiệp                        |
-|                                                                       |
-| Cấp độ: Nâng cao & Elite                                              |
-|                                                                       |
-| Phương pháp: Biomechanics + Kinetic Chain Analysis                    |
-|                                                                       |
-| Năm xuất bản: 2025                                                    |
-+-----------------------------------------------------------------------+
+| Dành cho: Huấn luyện viên Tennis Chuyên nghiệp |
+| --- |
+|  |
+| Cấp độ: Nâng cao & Elite |
+|  |
+| Phương pháp: Biomechanics + Kinetic Chain Analysis |
+|  |
+| Năm xuất bản: 2025 |
+
 
 **MỤC LỤC**
 
@@ -75,8 +75,8 @@ tạo tennis truyền thống, nhưng lại là một trong những yếu tố p
 người chơi cấp trung và người chơi elite.
 
 Trong lịch sử giảng dạy tennis truyền thống, tay không thuận thường được
-giải thích đơn giản là \'để giữ thăng bằng\' hoặc \'để cầm vợt trong lúc
-chờ bóng\'. Tuy nhiên, các nghiên cứu sinh cơ học và biomechanics hiện
+giải thích đơn giản là 'để giữ thăng bằng' hoặc 'để cầm vợt trong lúc
+chờ bóng'. Tuy nhiên, các nghiên cứu sinh cơ học và biomechanics hiện
 đại đã chỉ ra rằng đây là quan niệm hoàn toàn thiếu chính xác. Tay không
 thuận thực chất đóng vai trò là một động cơ thứ hai cực kỳ quan trọng
 trong hệ thống truyền động lực --- hay còn gọi là kinetic chain --- từ
@@ -129,7 +129,7 @@ thích tiếng Việt để người học có thể áp dụng ngay vào thực
 
 **1.1. Định Nghĩa và Phạm Vi Phân Tích**
 
-Trong kỹ thuật tennis, thuật ngữ \'tay không thuận\' (non-dominant arm)
+Trong kỹ thuật tennis, thuật ngữ 'tay không thuận' (non-dominant arm)
 để chỉ cánh tay không cầm vợt. Đối với người thuận tay phải, đây là cánh
 tay trái. Trong toàn bộ tài liệu này chúng ta sử dụng quy ước chuẩn phổ
 biến: tay không thuận đồng nghĩa với tay trái, tay thuận đồng nghĩa với
@@ -247,7 +247,7 @@ trọng nhất đối với chức năng FRAME của tay trái.
 
 **2.1.2. Xương Bả (Scapula) và Cơ Chế Scapulothoracic**
 
-Xương bả không có khớp chính thức với lồng ngực mà \'trượt\' trên bề mặt
+Xương bả không có khớp chính thức với lồng ngực mà 'trượt' trên bề mặt
 của khung sườn thông qua cơ chế cơ --- được gọi là scapulothoracic
 gliding mechanism. Chuyển động của xương bả trái trong forehand bao gồm:
 Protraction (trượt ra phía trước khi tay vươn trong unit turn),
@@ -276,8 +276,8 @@ khớp cột sống ngực (thoracic mobility), sức cơ của các cơ liên c
 
 Khung xương chậu là cầu nối giữa chi dưới và phần thân trên. Trong một
 cú forehand hoàn hảo: Xương chậu mở đầu xoay trước (pelvis leads the
-rotation), cột sống ngực theo sau với độ trễ nhỏ tạo ra \'separation
-lag\', và khoảng cách xoay giữa xương chậu và cột sống ngực tạo ra
+rotation), cột sống ngực theo sau với độ trễ nhỏ tạo ra 'separation
+lag', và khoảng cách xoay giữa xương chậu và cột sống ngực tạo ra
 elastic tension trong cơ oblique và fascia sling --- nguồn gốc của
 elastic potential energy trong cú đánh.
 
@@ -333,7 +333,7 @@ tính (moment of inertia) và ω là vận tốc góc (angular velocity).
 Trong tất cả các động tác thể thao có tốc độ cao, năng lượng được chuyển
 từ các khớp lớn gần trung tâm cơ thể (proximal) ra đến các khớp nhỏ xa
 trung tâm (distal) theo trình tự có thứ tự rõ ràng. Để một segment muốn
-tăng tốc độ, segment proximal phải giảm tốc đúng lúc và \'chuyển\' năng
+tăng tốc độ, segment proximal phải giảm tốc đúng lúc và 'chuyển' năng
 lượng sang.
 
   -----------------------------------------------------------------------
@@ -354,7 +354,7 @@ lượng sang.
   **5B. TAY TRÁI ---        Retract, ISR, decelerate --- MULTIPLIER
   Counter-Pull**            angular momentum --- tầng quan trọng nhất
 
-  **6. Vai phải**           Bị \'ném\' ra phía trước do counter-rotation
+  **6. Vai phải**           Bị 'ném' ra phía trước do counter-rotation
                             của vai trái
 
   **7. Cánh tay trên phải + Xoay trong, elbow được phóng ra phía trước
@@ -376,7 +376,7 @@ lượng sang.
 
 Unit Turn (xoay tổng thể) là hành động xoay phần thân trên --- bao gồm
 vai, lưng, và ngực --- như một khối thống nhất duy nhất sang phải khi
-chuẩn bị cho cú forehand. Từ \'unit\' nhấn mạnh rằng không có bất kỳ cô
+chuẩn bị cho cú forehand. Từ 'unit' nhấn mạnh rằng không có bất kỳ cô
 lập hoặc chuyển động độc lập nào giữa các phần cơ thể: vai trái, vai
 phải, cột sống ngực, và khung xương chậu tất cả xoay đồng thời với tỉ lệ
 phối hợp cố định.
@@ -417,7 +417,7 @@ phối hợp cố định.
 13. Tay phải và vợt theo xoay --- chỉ là KẾT QUẢ thụ động của hệ thống,
     không phải nguyên nhân
 
-14. Hệ thống đạt trạng thái \'nạp lò xo xoắn\' --- preloaded coil ---
+14. Hệ thống đạt trạng thái 'nạp lò xo xoắn' --- preloaded coil ---
     sẵn sàng giải phóng năng lượng
 
 **3.2.2. Phân Tích Chuyển Động Xương Bả và Các Cơ Liên Quan**
@@ -458,7 +458,7 @@ phối hợp cố định.
   thời điểm, năng lượng này cộng thêm vào lực cơ bắp chủ động. Phân tích
   EMG chỉ ra rằng một phần không nhỏ của lực trong forehand đến từ
   Stretch-Shortening Cycle (SSC) chứ không hoàn toàn từ cơ bắp chủ động.
-  Đây là lý do người chơi elite \'đánh nhẹ\' nhưng bóng vẫn mạnh.
+  Đây là lý do người chơi elite 'đánh nhẹ' nhưng bóng vẫn mạnh.
   -----------------------------------------------------------------------
 
 **3.4. Counterweight và Rotational Initiator**
@@ -468,15 +468,15 @@ Tay trái trong unit turn hoạt động đồng thời với tư cách là đ�
 là COUNTERWEIGHT: trong khi trọng tâm dịch chuyển sang phải, tay trái ở
 phía đối diện giúp cân bằng toàn hệ, ngăn người chơi mất thăng bằng. Với
 tư cách là ROTATIONAL INITIATOR: vai trái là NGUYÊN NHÂN của xoay, không
-phải kết quả. Vận động viên phải chuyển từ tư duy \'tay phải đánh, tay
-trái theo\' sang tư duy \'tay trái dẫn, tay phải theo\'.
+phải kết quả. Vận động viên phải chuyển từ tư duy 'tay phải đánh, tay
+trái theo' sang tư duy 'tay trái dẫn, tay phải theo'.
 
 **CHƯƠNG 4: FORWARD SWING --- CƠ CHẾ ĐỐI XOAY VÀ TRUYỀN LỰC**
 
 **4.1. Chuyển Tiếp Từ Unit Turn Sang Forward Swing**
 
 Điểm chuyển tiếp giữa unit turn và forward swing là thời khắc quan trọng
-nhất trong toàn bộ cú forehand. Đây là điểm mà \'lò xo xoắn\' bắt đầu
+nhất trong toàn bộ cú forehand. Đây là điểm mà 'lò xo xoắn' bắt đầu
 giải phóng năng lượng tích trữ. Ba sự kiện xảy ra gần như đồng thời tại
 điểm này:
 
@@ -484,10 +484,10 @@ giải phóng năng lượng tích trữ. Ba sự kiện xảy ra gần như đ�
   năng lượng từ đất lên
 
 - Xương chậu bắt đầu xoay sang trái trong khi phần thân trên vẫn đang
-  xoay sang phải --- \'separation\' đạt giá trị lớn nhất
+  xoay sang phải --- 'separation' đạt giá trị lớn nhất
 
-- Tay trái bắt đầu chuyển từ trạng thái \'hold\' sang trạng thái
-  \'retract\' --- tín hiệu khởi động chuỗi whip
+- Tay trái bắt đầu chuyển từ trạng thái 'hold' sang trạng thái
+  'retract' --- tín hiệu khởi động chuỗi whip
 
   -----------------------------------------------------------------------
   *SEPARATION là khoảng cách xoay giữa xương chậu (đã quay sang trái) và
@@ -504,7 +504,7 @@ cơ chế forehand hiện đại. Trong forward swing, tay trái KHÔNG di chuy�
 cùng chiều với tay phải. Thay vào đó, tay trái bị kéo NGƯỢC CHIỀU --- về
 phía trái --- trong khi tay phải đang vận chuyển về phía trái-trên. Hiện
 tượng này gọi là counter-rotation. Điều này đi ngược lại mọi logic
-\'thường thức\' nhưng lại là sự thật sinh cơ học.
+'thường thức' nhưng lại là sự thật sinh cơ học.
 
 **4.2.1. Cơ Chế Vật Lý Chi Tiết --- 6 Bước**
 
@@ -517,9 +517,9 @@ tượng này gọi là counter-rotation. Điều này đi ngược lại mọi 
 17. Xương bả retract kéo theo thoracic spine xoay sang trái với gia tốc
     tăng dần
 
-18. Cột sống ngực xoay sang trái --- \'opens up\' hướng về phía lưới
+18. Cột sống ngực xoay sang trái --- 'opens up' hướng về phía lưới
 
-19. Do nguyên lý bảo toàn angular momentum (L=I×ω), vai phải bị \'ném\'
+19. Do nguyên lý bảo toàn angular momentum (L=I×ω), vai phải bị 'ném'
     ra phía trước --- counter-rotation hoàn chỉnh
 
 20. Tay phải và vợt đã tích lũy moment từ trước, nay tăng tốc đột biến
@@ -557,7 +557,7 @@ tượng này gọi là counter-rotation. Điều này đi ngược lại mọi 
 - Hệ thống xoay chậm hơn nhưng có nhiều elastic potential energy trong
   phần thân
 
-- Đây là giai đoạn \'nạp\' --- chuẩn bị năng lượng để \'bùng nổ\' trong
+- Đây là giai đoạn 'nạp' --- chuẩn bị năng lượng để 'bùng nổ' trong
   forward swing
 
 **Giai Đoạn Forward Swing --- Counter-Rotation:**
@@ -579,19 +579,19 @@ tượng này gọi là counter-rotation. Điều này đi ngược lại mọi 
 ISR là chuyển động ít được chú ý nhất nhưng lại có tầm quan trọng bậc
 nhất trong chức năng FRAME của tay trái. ISR của cánh tay trên trái xảy
 ra đồng thời với quá trình retraction trong forward swing, tạo ra hiệu
-ứng \'khóa khung\' cho phần thân trên. ISR được thực hiện chủ yếu bởi:
+ứng 'khóa khung' cho phần thân trên. ISR được thực hiện chủ yếu bởi:
 Subscapularis (cơ xoay trong chính, \~60% lực), Pectoralis Major,
 Latissimus Dorsi, và Teres Major.
 
-**5.1.1. ISR Tạo Ra \'Compression Frame\' Như Thế Nào?**
+**5.1.1. ISR Tạo Ra 'Compression Frame' Như Thế Nào?**
 
-21. Scapula trái bị kéo vào vị trí \'locked\' bởi cơ rhomboid và middle
+21. Scapula trái bị kéo vào vị trí 'locked' bởi cơ rhomboid và middle
     trapezius --- cố định so với khung sườn
 
 22. Khớp xương bả-đòn gáy (acromioclavicular joint) ổn định --- giảm dao
     động của xương bả trong swing
 
-23. Tạo ra một \'compression frame\' giữa cánh tay trên và lồng ngực
+23. Tạo ra một 'compression frame' giữa cánh tay trên và lồng ngực
 
 24. Lồng ngực được ổn định từ phía trái --- ngăn mặt trước lồng ngực
     rung lắc trong swing
@@ -601,7 +601,7 @@ Latissimus Dorsi, và Teres Major.
 
   -----------------------------------------------------------------------
   *Hình ảnh tương tự: Khóa một cánh cửa trước khi đẩy. Nếu cánh cửa (lồng
-  ngực-vai trái) bị lỏng, lực đẩy sẽ mất mát. ISR của tay trái \'khóa\'
+  ngực-vai trái) bị lỏng, lực đẩy sẽ mất mát. ISR của tay trái 'khóa'
   cánh cửa này trước khi torso giải phóng lực trong forward swing.*
 
   -----------------------------------------------------------------------
@@ -650,7 +650,7 @@ quá sớm.
 
 - Timing swing được liên kết chặt hơn do scapulothoracic rhythm chuẩn
 
-- Toàn bộ kinetic chain \'sạch\' hơn --- nhiều năng lượng đến vợt, ít bị
+- Toàn bộ kinetic chain 'sạch' hơn --- nhiều năng lượng đến vợt, ít bị
   mất mát
 
 **CHƯƠNG 6: PHÂN TÍCH CẲNG TAY VÀ CỔ TAY TRÁI**
@@ -658,14 +658,14 @@ quá sớm.
 **6.1. Chức Năng Timing Regulator**
 
 Cẳng tay và cổ tay trái không tạo ra lực trực tiếp lên vợt. Thay vào đó,
-chúng hoạt động như một \'bộ điều chỉnh nhịp\' (timing regulator) ---
+chúng hoạt động như một 'bộ điều chỉnh nhịp' (timing regulator) ---
 quyết định khi nào và như thế nào năng lượng được truyền từ phần thân
 trung tâm sang cánh tay phải. Đây là chức năng vừa tinh tế vừa có tác
 động lớn lên toàn bộ kết quả cú đánh.
 
 **6.2. Nguyên Lý Lag và Whip Effect**
 
-Lag (độ trễ) mô tả hiện tượng một segment bị \'kéo lại phía sau\' trong
+Lag (độ trễ) mô tả hiện tượng một segment bị 'kéo lại phía sau' trong
 khi segment proximal đã dẫn đầu di chuyển. Đây là điều kiện cần thiết để
 có whip effect. Lag xuất hiện theo trình tự trong forehand:
 
@@ -686,14 +686,14 @@ có whip effect. Lag xuất hiện theo trình tự trong forehand:
 
 **6.2.1. Tay Trái Ảnh Hưởng Đến Lag Như Thế Nào?**
 
-26. Cẳng tay trái \'giữ nhịp\' cho pha unit turn --- quản lý độ rết của
+26. Cẳng tay trái 'giữ nhịp' cho pha unit turn --- quản lý độ rết của
     toàn hệ thống
 
-27. Cổ tay trái \'fold\' (gập góc) theo một trình tự có tính toán khi
+27. Cổ tay trái 'fold' (gập góc) theo một trình tự có tính toán khi
     forward swing bắt đầu
 
-28. Chuyển động fold tạo ra \'temporal delay\' --- độ trễ về thời gian
-    cho tay phải \'nhận tín hiệu go\'
+28. Chuyển động fold tạo ra 'temporal delay' --- độ trễ về thời gian
+    cho tay phải 'nhận tín hiệu go'
 
 29. Tay trái fold TRƯỚC KHI tay phải ra động lực --- tạo ra hiệu lệnh
     sinh lý cho tay phải
@@ -732,10 +732,10 @@ hoặc thấp hơn (tăng spin) trong follow-through.
 
 Whip sequencing (trình tự roi thắt) mô tả cách năng lượng được truyền từ
 segment này sang segment khác trong một chuyển động tăng tốc cao. Thuật
-ngữ \'whip\' phản ánh chính xác cơ chế: phần cổ tay chuyển động trước và
+ngữ 'whip' phản ánh chính xác cơ chế: phần cổ tay chuyển động trước và
 giảm tốc, năng lượng chuyển sang phần dây roi, dây roi tăng tốc và giảm
 tốc, năng lượng chuyển sang đầu roi, và đầu roi đạt tốc độ tối đa. Trong
-tennis forehand, tay trái là tay quay \'bắt đầu chuỗi\' này.
+tennis forehand, tay trái là tay quay 'bắt đầu chuỗi' này.
 
 **7.2. Chuỗi Whip Đầy Đủ Trong Forehand Tennis --- 8 Bước**
 
@@ -749,7 +749,7 @@ tennis forehand, tay trái là tay quay \'bắt đầu chuỗi\' này.
   **2. Torso xoay ---      Cột sống ngực tăng tốc xoay sang trái do bảo
   ROTATE**                 toàn angular momentum khi I giảm
 
-  **3. Vai phải lăng ---   Vai phải bị \'ném\' ra phía trước-trái do
+  **3. Vai phải lăng ---   Vai phải bị 'ném' ra phía trước-trái do
   LAUNCH**                 counter-rotation từ vai trái
 
   **4. Cánh tay trên phải  Cánh tay trên phải xoay trong nhanh --- elbow
@@ -771,33 +771,33 @@ tennis forehand, tay trái là tay quay \'bắt đầu chuỗi\' này.
   -----------------------------------------------------------------------
   *TAY TRÁI là nguyên nhân khởi động Bước 1 của chuỗi 8 bước. Toàn bộ
   chuỗi phụ thuộc vào chất lượng và thời điểm của chuyển động retract của
-  tay trái. Đây là lý do tay trái là \'half hidden engine\' của forehand
+  tay trái. Đây là lý do tay trái là 'half hidden engine' của forehand
   hiện đại.*
 
   -----------------------------------------------------------------------
 
-**7.3. Tay Trái Là \'Brake\' --- Hãm Lại Để Tay Phải Tăng Tốc**
+**7.3. Tay Trái Là 'Brake' --- Hãm Lại Để Tay Phải Tăng Tốc**
 
 Để một segment tăng tốc, segment proximal phải giảm tốc đúng lúc. Khi
-tay trái giảm tốc và \'khóa\', năng lượng của nó chuyển sang torso. Khi
+tay trái giảm tốc và 'khóa', năng lượng của nó chuyển sang torso. Khi
 torso giảm tốc, năng lượng chuyển sang vai phải. Quá trình này tiếp tục
 cho đến khi năng lượng đạt đến đầu vợt.
 
 **7.3.1. Tay Trái Decelerate Ở Đâu và Như Thế Nào?**
 
-31. Cẳng tay trái \'buông\' cổ vợt --- tay trái bắt đầu tách khỏi cổ vợt
+31. Cẳng tay trái 'buông' cổ vợt --- tay trái bắt đầu tách khỏi cổ vợt
     hoặc xếp lại
 
 32. Cánh tay trên trái nhanh chóng kẹp sát thân --- ISR hoàn tất ---
     zero abduction
 
-33. Cẳng tay trái fold và \'nút gọn\' về phía thân người một cách liên
+33. Cẳng tay trái fold và 'nút gọn' về phía thân người một cách liên
     tục
 
 34. Chuyển động tay trái đạt zero velocity --- dừng lại tương đối so với
     thân
 
-35. Lúc này vai trái trực tiếp \'ném\' lực sang vai phải thông qua
+35. Lúc này vai trái trực tiếp 'ném' lực sang vai phải thông qua
     thorax --- angular momentum transfer toàn phần
 
 36. Tay phải tăng tốc đột biến --- whip hoàn thành --- bóng bay mạnh
@@ -809,7 +809,7 @@ Phải**
   trái sang tay phải
 
 - Tay trái không decelerate → tay phải không nhận được năng lượng
-  \'chuyển tiếp\'
+  'chuyển tiếp'
 
 - Vợt phải tăng tốc chủ động bằng cơ bắp tay phải → chớn mỏi, kém hiệu
   quả, dễ chấn thương
@@ -870,7 +870,7 @@ có tác động multiplier lớn nhất đến toàn bộ phần còn lại c�
   người chơi cấp trung hoàn toàn bỏ qua. Tay trái retract mạnh, ISR, và
   decelerate TRONG KHI các tầng 6--9 đang tăng tốc. Không có Tầng 5B này,
   tầng 6 trở đi sẽ yếu đi đáng kể vì thiếu angular momentum transfer.
-  Tầng 5B là \'multiplier\' --- bộ nhân lực cho toàn bộ phần còn lại của
+  Tầng 5B là 'multiplier' --- bộ nhân lực cho toàn bộ phần còn lại của
   chuỗi.
   -----------------------------------------------------------------------
 
@@ -983,19 +983,19 @@ tạp, được phát hiện qua nhiều thế kỷ quan sát và thực hành.
 **10.2. Bài Học Từ Taichi Cho Tennis**
 
 Trong nhiều bài quyền Taichi, có một mẫu chung khi phát lực: Tay trái
-(hoặc phần thân trái) luôn là bên \'dẫn\' --- dẫn đường, khởi động, định
-hướng. Tay phải (hoặc phần thân phải) là bên \'phát\' --- giải phóng lực
+(hoặc phần thân trái) luôn là bên 'dẫn' --- dẫn đường, khởi động, định
+hướng. Tay phải (hoặc phần thân phải) là bên 'phát' --- giải phóng lực
 cuối cùng ra ngoài. Nguồn gốc của nguyên tắc này đến từ quan sát tự
 nhiên hàng nghìn năm về cách cơ thể con người truyền lực hiệu quả nhất.
-Người huấn luyện viên có thể sử dụng hình ngữ Taichi \'trái dẫn phải
-phát\' để giảng dạy counter-rotation cho những vận động viên có nền tảng
+Người huấn luyện viên có thể sử dụng hình ngữ Taichi 'trái dẫn phải
+phát' để giảng dạy counter-rotation cho những vận động viên có nền tảng
 võ thuật --- là một cách mô tả đơn giản nhưng rất chính xác.
 
 **CHƯƠNG 11: PHƯƠNG PHÁP HUẤN LUYỆN THỰC HÀNH --- MÔ HÌNH 3 GIAI ĐOẠN**
 
 **11.1. Những Thách Thức Đặc Thù**
 
-- Vận động viên thường không \'cảm thấy\' tay trái làm gì --- vì não tập
+- Vận động viên thường không 'cảm thấy' tay trái làm gì --- vì não tập
   trung vào bóng và vợt
 
 - Chuyển động tay trái diễn ra quá nhanh để quan sát bằng mắt thường
@@ -1007,7 +1007,7 @@ võ thuật --- là một cách mô tả đơn giản nhưng rất chính xác.
 - Khó đo lường và cho feedback rõ ràng về tay trái trong điều kiện thực
   chiến
 
-- Vận động viên đang có kỹ thuật cũ có thể bị \'thụt lui\' về cũ khi áp
+- Vận động viên đang có kỹ thuật cũ có thể bị 'thụt lui' về cũ khi áp
   lực thi đấu cao
 
 **11.2. Mô Hình Huấn Luyện 3 Giai Đoạn**
@@ -1187,12 +1187,12 @@ trái dẫn đầu.
 71. Thực hiện unit turn chuyển sang forward swing --- chuyển trọng tâm
     vào tay trái retract
 
-72. Nếu tay trái retract đúng: Đầu khăn sẽ tạo âm thanh \'whip\' rõ ràng
+72. Nếu tay trái retract đúng: Đầu khăn sẽ tạo âm thanh 'whip' rõ ràng
     khi chuyển động
 
 73. Nếu tay trái thụ động: Đầu khăn sẽ kém bóc hoặc không bóc
 
-74. Tập 20 rep --- âm thanh \'whip\' là feedback âm thanh chính xác về
+74. Tập 20 rep --- âm thanh 'whip' là feedback âm thanh chính xác về
     tay trái
 
 **12.3. Nhóm Bài Tập ISR và Structural Frame (Bài 7--9)**
@@ -1209,8 +1209,8 @@ trái dẫn đầu.
 75. Nằm xuống nghiêng, cánh tay trên trái sát thân, khuỷu tay gập 90 độ,
     cầm tạ 1--2kg
 
-76. Xoay cẳng tay vào trong (ISR) từ vị trí \'cầm giờ xu lên\' đến vị
-    trí \'cầm giờ xu xuống\'
+76. Xoay cẳng tay vào trong (ISR) từ vị trí 'cầm giờ xu lên' đến vị
+    trí 'cầm giờ xu xuống'
 
 77. Cảm nhận cơ subscapularis và lat cơ thật --- đây là sensation cần
     tìm
@@ -1235,7 +1235,7 @@ trái dẫn đầu.
 82. Ép cánh tay trên trái vào tường bằng ISR --- chỉ cánh tay trên xoay
     vào trong, không dùng cổ tay
 
-83. Cảm nhận scapula \'lock\' vào vị trí chuẩn --- đây là cảm giác cần
+83. Cảm nhận scapula 'lock' vào vị trí chuẩn --- đây là cảm giác cần
     tìm và ghi nhớ
 
 84. Giữ 10 giây mỗi lần, thực hiện 10 lần mỗi ngày
@@ -1597,7 +1597,7 @@ Tuần)**
 117. Đang sử dụng ngôn ngữ cụ thể, đơn giản và nhất quán --- không quá
      nhiều thuật ngữ một lúc?
 
-118. Vận động viên có \'nghe hiểu\' và có thể thực hiện phần feedback?
+118. Vận động viên có 'nghe hiểu' và có thể thực hiện phần feedback?
      Hay cần giải thích thêm?
 
 **B.3. Checklist Sau Buổi Huấn Luyện**
@@ -1644,7 +1644,7 @@ Tuần)**
   Transfer**                    tự --- tay trái là catalyst cho tầng 5B
 
   **Deceleration enables        Tay trái giảm tốc và khóa → tay phải tăng
-  Acceleration**                tốc --- nguyên lý \'brake to whip\'
+  Acceleration**                tốc --- nguyên lý 'brake to whip'
 
   **Separation creates Elastic  Khoảng cách xoay giữa pelvis và thorax →
   Tension**                     elastic potential energy lớn hơn

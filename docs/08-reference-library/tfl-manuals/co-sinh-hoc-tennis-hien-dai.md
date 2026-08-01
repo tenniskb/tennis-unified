@@ -79,16 +79,16 @@ dưới dạng nhiệt trong mỗi chu kỳ co-giãn. Đây là lý do tại sao
 vợt đỉnh cao dường như \"không mệt mỏi\" dù di chuyển liên tục -- họ tận
 dụng tối đa năng lượng đàn hồi thay vì tiêu hao năng lượng cơ học thô.
 
-+-----------------------------------------------------------------------+
-| **▶ Nguyên Lý Lò Xo Sinh Học**                                        |
-|                                                                       |
-| *Tiếp đất bằng mũi chân đặc biệt quan trọng trong ba tình huống:      |
-| Split step (bước nhảy sẵn sàng) ngay trước khi đối thủ chạm bóng;     |
-| Adjustment steps (bước điều chỉnh nhỏ) khi tiếp cận bóng ở khoảng     |
-| cách ngắn; và các bước phản ứng tốc độ cao trong rally cấp độ ATP.    |
+| **▶ Nguyên Lý Lò Xo Sinh Học** |
+| --- |
+|  |
+| *Tiếp đất bằng mũi chân đặc biệt quan trọng trong ba tình huống: |
+| Split step (bước nhảy sẵn sàng) ngay trước khi đối thủ chạm bóng; |
+| Adjustment steps (bước điều chỉnh nhỏ) khi tiếp cận bóng ở khoảng |
+| cách ngắn; và các bước phản ứng tốc độ cao trong rally cấp độ ATP. |
 | Luyện tập SSC đúng cách có thể tăng tốc độ phản ứng di chuyển lên đến |
-| 25-30% mà không cần tăng thêm sức mạnh cơ bắp.*                       |
-+-----------------------------------------------------------------------+
+| 25-30% mà không cần tăng thêm sức mạnh cơ bắp.* |
+
 
 Trong split step -- kỹ thuật quan trọng nhất trong toàn bộ footwork
 tennis -- tay vợt thực hiện một bước nhảy nhỏ đồng bộ với khoảnh khắc
@@ -171,15 +171,15 @@ Kết quả là lực hãm được phân phối qua các nhóm cơ lớn, khôn
 vào dây chằng chéo trước (ACL) hay sụn chêm. Đây là cơ chế bảo vệ quan
 trọng trong các pha di chuyển bùng nổ.
 
-+-----------------------------------------------------------------------+
-| **▶ Bảo Vệ ACL Bằng Pizza Stance**                                    |
-|                                                                       |
-| *Dây chằng chéo trước (ACL) chịu lực cắt ngang nguy hiểm khi gối gập  |
-| và xoay đồng thời dưới tải lớn. Pizza stance hãm đà bằng cách chuyển  |
+| **▶ Bảo Vệ ACL Bằng Pizza Stance** |
+| --- |
+|  |
+| *Dây chằng chéo trước (ACL) chịu lực cắt ngang nguy hiểm khi gối gập |
+| và xoay đồng thời dưới tải lớn. Pizza stance hãm đà bằng cách chuyển |
 | lực vào nhóm cơ mông và khép đùi thay vì dây chằng, giảm đáng kể nguy |
-| cơ đứt ACL -- chấn thương phổ biến nhất và nghiêm trọng nhất trong    |
-| tennis chuyên nghiệp, đòi hỏi 9-12 tháng phục hồi.*                   |
-+-----------------------------------------------------------------------+
+| cơ đứt ACL -- chấn thương phổ biến nhất và nghiêm trọng nhất trong |
+| tennis chuyên nghiệp, đòi hỏi 9-12 tháng phục hồi.* |
+
 
 **1.2.3. V-Shape Stance (Toes-Out -- Mũi Chân Hướng Ra Ngoài)**
 
@@ -250,17 +250,17 @@ Khả năng đổi hướng (Change of Direction -- COD) của anh được các
 gia biomechanics đánh giá là vượt trội về mặt kỹ thuật so với bất kỳ tay
 vợt nào đang thi đấu.
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 1**                                                |
-|                                                                       |
-| *Bộ chân tennis hiện đại hoạt động trên hai trục: CƠ CHẾ TIẾP ĐẤT     |
-| (mũi chân cho phản ứng nhanh qua SSC, gót cho hãm tốc an toàn) và     |
+| **▶ Tóm Tắt Chương 1** |
+| --- |
+|  |
+| *Bộ chân tennis hiện đại hoạt động trên hai trục: CƠ CHẾ TIẾP ĐẤT |
+| (mũi chân cho phản ứng nhanh qua SSC, gót cho hãm tốc an toàn) và |
 | HÌNH HỌC THẾ ĐỨNG (parallel = trung tính sẵn sàng, pizza = phanh khẩn |
-| cấp bảo vệ ACL, v-shape = bệ phóng tấn công open stance). GRF đóng    |
-| góp hơn 50% sức mạnh cú đánh -- học cách khai thác và hấp thụ đúng    |
-| cách là chìa khóa cho cả hiệu suất lẫn phòng ngừa chấn thương dài     |
-| hạn.*                                                                 |
-+-----------------------------------------------------------------------+
+| cấp bảo vệ ACL, v-shape = bệ phóng tấn công open stance). GRF đóng |
+| góp hơn 50% sức mạnh cú đánh -- học cách khai thác và hấp thụ đúng |
+| cách là chìa khóa cho cả hiệu suất lẫn phòng ngừa chấn thương dài |
+| hạn.* |
+
 
 **CHƯƠNG 2**
 
@@ -297,15 +297,15 @@ chế tương tự, với đầu vợt là \"đầu roi.\" Mỗi mắt xích l�
 rồi \"hãm lại\", chuyển toàn bộ động năng cho mắt xích nhỏ hơn tiếp theo
 -- kết quả là vận tốc tăng theo cấp số nhân dọc theo chuỗi.
 
-+-----------------------------------------------------------------------+
-| **▶ Hiệu Ứng Whip (Roi Da)**                                          |
-|                                                                       |
-| *Tốc độ góc của đầu vợt trong một cú forehand elite có thể đạt        |
-| 4.000-5.000 độ/giây -- gấp 20-25 lần tốc độ xoay của hông. Đây không  |
+| **▶ Hiệu Ứng Whip (Roi Da)** |
+| --- |
+|  |
+| *Tốc độ góc của đầu vợt trong một cú forehand elite có thể đạt |
+| 4.000-5.000 độ/giây -- gấp 20-25 lần tốc độ xoay của hông. Đây không |
 | phải phép màu mà là vật lý thuần túy: mỗi mắt xích nhỏ hơn khuếch đại |
-| vận tốc góc khi nhận động lượng từ mắt xích lớn hơn. Cánh tay hoàn    |
-| toàn thụ động -- nó là sứ giả, không phải nguồn lực.*                 |
-+-----------------------------------------------------------------------+
+| vận tốc góc khi nhận động lượng từ mắt xích lớn hơn. Cánh tay hoàn |
+| toàn thụ động -- nó là sứ giả, không phải nguồn lực.* |
+
 
 **2.2. Phân Tích Từng Mắt Xích**
 
@@ -414,16 +414,16 @@ thể tạo ra sự thay đổi cú đánh cảm nhận được mà không cầ
 Tiểu não học cách sắp xếp thứ tự thông qua feedback xúc giác, nhanh hơn
 nhiều so với phân tích trực quan.
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 2**                                                |
-|                                                                       |
+| **▶ Tóm Tắt Chương 2** |
+| --- |
+|  |
 | *Chuỗi Proximal-to-Distal là \"bí mật\" của sức mạnh tennis đỉnh cao: |
 | năng lượng được xây dựng từ chân, tích lũy qua hông (51-55% tổng năng |
-| lượng), khuếch đại qua thân mình, và truyền đến vợt -- không bao giờ  |
+| lượng), khuếch đại qua thân mình, và truyền đến vợt -- không bao giờ |
 | được \"tạo ra\" ở cánh tay. Force leak xảy ra khi bất kỳ mắt xích nào |
-| hoạt động sai thứ tự hoặc không hiệu quả, dẫn đến cả giảm sức mạnh    |
-| lẫn tăng nguy cơ chấn thương mãn tính.*                               |
-+-----------------------------------------------------------------------+
+| hoạt động sai thứ tự hoặc không hiệu quả, dẫn đến cả giảm sức mạnh |
+| lẫn tăng nguy cơ chấn thương mãn tính.* |
+
 
 **CHƯƠNG 3**
 
@@ -489,16 +489,16 @@ phía trước, toàn bộ động năng chạy được chuyển hóa thành đ
 quanh trục trụ cố định. Nguyên lý này tương tự như kỹ thuật \"plant and
 rotate\" trong ném bóng chày.
 
-+-----------------------------------------------------------------------+
-| **▶ Sinner và Nghệ Thuật Bracing**                                    |
-|                                                                       |
-| *Sinner là bậc thầy kỹ thuật brace. Khi anh bước vào bóng với attack  |
-| step, chân trước tiếp đất và khóa cứng với timing hoàn hảo. Trong     |
+| **▶ Sinner và Nghệ Thuật Bracing** |
+| --- |
+|  |
+| *Sinner là bậc thầy kỹ thuật brace. Khi anh bước vào bóng với attack |
+| step, chân trước tiếp đất và khóa cứng với timing hoàn hảo. Trong |
 | slow-motion, gối trái không bao giờ \"mất lực\" -- nó duy trì góc gập |
 | ổn định trong khi hông xoay mạnh qua trụ cố định. Đây là bí quyết tạo |
-| ra \"bóng nặng\" đặc trưng của Sinner dù cú đánh trông rất nhẹ nhàng  |
-| từ bên ngoài.*                                                        |
-+-----------------------------------------------------------------------+
+| ra \"bóng nặng\" đặc trưng của Sinner dù cú đánh trông rất nhẹ nhàng |
+| từ bên ngoài.* |
+
 
 **3.4. Tối Đa Hóa X-Factor**
 
@@ -534,17 +534,17 @@ xoay nhiều hơn mà là tạo ra lực lớn hơn trong góc phân tách hiệ
                                                         chiều + disguise
   ----------------- ----------------- ----------------- -----------------
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 3**                                                |
-|                                                                       |
-| *X-Factor là \"kho năng lượng\" trung tâm của mọi cú đánh mạnh. Hệ    |
-| thống cơ-mạc chéo (Oblique Slings) tích trữ năng lượng đàn hồi khi    |
-| góc phân tách tăng, và giải phóng nó khi vai bắt đầu uncoil. Bracing  |
-| tại chân trước là điều kiện bắt buộc để chuyển hóa lực tuyến tính     |
-| thành lực xoay. Tăng X-Factor thông qua cải thiện hip rotation        |
-| mobility và shoulder separation strength -- không cần cú đánh cứng    |
-| hơn, cần cú đánh ĐÚNG hơn.*                                           |
-+-----------------------------------------------------------------------+
+| **▶ Tóm Tắt Chương 3** |
+| --- |
+|  |
+| *X-Factor là \"kho năng lượng\" trung tâm của mọi cú đánh mạnh. Hệ |
+| thống cơ-mạc chéo (Oblique Slings) tích trữ năng lượng đàn hồi khi |
+| góc phân tách tăng, và giải phóng nó khi vai bắt đầu uncoil. Bracing |
+| tại chân trước là điều kiện bắt buộc để chuyển hóa lực tuyến tính |
+| thành lực xoay. Tăng X-Factor thông qua cải thiện hip rotation |
+| mobility và shoulder separation strength -- không cần cú đánh cứng |
+| hơn, cần cú đánh ĐÚNG hơn.* |
+
 
 **CHƯƠNG 4**
 
@@ -587,16 +587,16 @@ gối gập sâu và đồng thời chịu torque ngang, sụn chêm bị ép ng
 chằng chéo trước chịu lực cắt cực đại trong khi toàn bộ trọng lượng cơ
 thể đè xuống. Đây là cơ chế chấn thương gối phổ biến nhất trong tennis.
 
-+-----------------------------------------------------------------------+
-| **▶ Quiet Knees -- Nguyên Lý Vàng**                                   |
-|                                                                       |
+| **▶ Quiet Knees -- Nguyên Lý Vàng** |
+| --- |
+|  |
 | *Ở Federer, Djokovic, Shelton -- những server xuất sắc lịch sử -- đầu |
-| gối trong trophy position luôn \"quiet\": gập trong một mặt phẳng,    |
-| không xoay, không đổ vào trong. Toàn bộ sự \"xoắn\" nạp lực xảy ra    |
-| tại khớp cầu hông (ball-and-socket joint) -- được thiết kế chính xác  |
-| cho chuyển động xoay 40-50 độ dưới tải. Gối là bộ truyền động, không  |
-| phải bộ tạo lực xoay.*                                                |
-+-----------------------------------------------------------------------+
+| gối trong trophy position luôn \"quiet\": gập trong một mặt phẳng, |
+| không xoay, không đổ vào trong. Toàn bộ sự \"xoắn\" nạp lực xảy ra |
+| tại khớp cầu hông (ball-and-socket joint) -- được thiết kế chính xác |
+| cho chuyển động xoay 40-50 độ dưới tải. Gối là bộ truyền động, không |
+| phải bộ tạo lực xoay.* |
+
 
 **4.2. Giai Đoạn 2 -- Leg Drive và Airborne Phase**
 
@@ -660,15 +660,15 @@ cơ rotator cuff -- cơ chế chấn thương vai phổ biến nhất trong tenn
    Follow-Through    Dài và tự nhiên    Dừng đột ngột     Rotator cuff
   ----------------- ----------------- ----------------- -----------------
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 4**                                                |
-|                                                                       |
-| *Serve elite tuân thủ 4 giai đoạn nghiêm ngặt: Loading với Quiet      |
-| Knees (gối im lặng), Leg Drive thẳng đứng trước khi xoay, Airborne    |
-| Uncoil an toàn không tải lên gối, Acceleration đến contact và         |
-| Follow-Through dài bảo vệ vai. Floating Pelvis và \"Up First --       |
-| Rotate Second\" là hai nguyên lý an toàn không thể bỏ qua.*           |
-+-----------------------------------------------------------------------+
+| **▶ Tóm Tắt Chương 4** |
+| --- |
+|  |
+| *Serve elite tuân thủ 4 giai đoạn nghiêm ngặt: Loading với Quiet |
+| Knees (gối im lặng), Leg Drive thẳng đứng trước khi xoay, Airborne |
+| Uncoil an toàn không tải lên gối, Acceleration đến contact và |
+| Follow-Through dài bảo vệ vai. Floating Pelvis và \"Up First -- |
+| Rotate Second\" là hai nguyên lý an toàn không thể bỏ qua.* |
+
 
 **CHƯƠNG 5**
 
@@ -775,16 +775,16 @@ trọng lượng cơ học cực nặng do động năng tuyến tính từ atta
 thủ có ít thời gian chuẩn bị hơn, và bóng không nảy đủ cao để tạo điểm
 tiếp xúc thoải mái -- đây là vũ khí chiến lược không thể đánh giá thấp.
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 5**                                                |
-|                                                                       |
-| *Forehand đẳng cấp tuân thủ 4 nguyên lý bất biến: tiếp xúc trước      |
-| thân, unit turn sớm hoàn toàn, chân trụ ổn định và cổ tay relaxed.    |
-| Swing path quyết định loại bóng; contact zone là \"cửa sổ\" 3D;       |
+| **▶ Tóm Tắt Chương 5** |
+| --- |
+|  |
+| *Forehand đẳng cấp tuân thủ 4 nguyên lý bất biến: tiếp xúc trước |
+| thân, unit turn sớm hoàn toàn, chân trụ ổn định và cổ tay relaxed. |
+| Swing path quyết định loại bóng; contact zone là \"cửa sổ\" 3D; |
 | follow-through là kết quả tự nhiên. Không có một forehand duy nhất là |
-| \"đúng\" -- nhưng những nguyên lý nền tảng là bất biến cho mọi phong  |
-| cách.*                                                                |
-+-----------------------------------------------------------------------+
+| \"đúng\" -- nhưng những nguyên lý nền tảng là bất biến cho mọi phong |
+| cách.* |
+
 
 **CHƯƠNG 6**
 
@@ -884,15 +884,15 @@ vợt chuyên nghiệp cũng không thể đọc được.
                                                            (defensive)
   ----------------- ----------------- ----------------- -----------------
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 6**                                                |
-|                                                                       |
-| *2BH mạnh và ổn định hơn -- tay trái là tay tấn công chính. 1BH có    |
-| biên độ đòn bẩy rộng hơn và disguise tốt hơn nhưng kém với bóng cao.  |
-| Slice backhand là vũ khí chiến thuật thiết yếu cho mọi cú hàng đầu.   |
-| Alcaraz đưa 2BH lên tầm mới với cổ tay cực linh hoạt, cho phép thay   |
-| đổi quyết định trong 0.1 giây cuối.*                                  |
-+-----------------------------------------------------------------------+
+| **▶ Tóm Tắt Chương 6** |
+| --- |
+|  |
+| *2BH mạnh và ổn định hơn -- tay trái là tay tấn công chính. 1BH có |
+| biên độ đòn bẩy rộng hơn và disguise tốt hơn nhưng kém với bóng cao. |
+| Slice backhand là vũ khí chiến thuật thiết yếu cho mọi cú hàng đầu. |
+| Alcaraz đưa 2BH lên tầm mới với cổ tay cực linh hoạt, cho phép thay |
+| đổi quyết định trong 0.1 giây cuối.* |
+
 
 **CHƯƠNG 7**
 
@@ -984,15 +984,15 @@ học Sinner-style ổn định BH làm nền), và chiến thuật ưa thích (
 thích tấn công nhanh theo Sinner; người thích chiến tranh tâm lý dài hơi
 theo Nadal; người thích bóng đá chiến thuật theo Alcaraz).
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 7**                                                |
-|                                                                       |
-| *Ba hệ điều hành tennis elite: Economy of Motion (Sinner) -- tối      |
+| **▶ Tóm Tắt Chương 7** |
+| --- |
+|  |
+| *Ba hệ điều hành tennis elite: Economy of Motion (Sinner) -- tối |
 | giản, nhất quán, ép nhịp; Heavy Topspin (Nadal) -- RPM cao, grinding, |
-| bào mòn; Violent Whip & Disguise (Alcaraz) -- bùng nổ, đa dạng, bất   |
-| ngờ. Chọn hệ điều hành phù hợp với thể chất và chiến thuật cá nhân,   |
-| sau đó tối ưu hóa không ngừng trong hệ thống đó.*                     |
-+-----------------------------------------------------------------------+
+| bào mòn; Violent Whip & Disguise (Alcaraz) -- bùng nổ, đa dạng, bất |
+| ngờ. Chọn hệ điều hành phù hợp với thể chất và chiến thuật cá nhân, |
+| sau đó tối ưu hóa không ngừng trong hệ thống đó.* |
+
 
 **CHƯƠNG 8**
 
@@ -1029,15 +1029,15 @@ xúc trước, kích hoạt SSC của bắp chân; gối gập nhẹ, trọng l�
 60-40% về phía trước. Ngay khi mũi chân chạm đất, bước đầu tiên theo
 hướng bóng bắt đầu -- không dừng lại giữa chừng.
 
-+-----------------------------------------------------------------------+
-| **▶ Drill Luyện Split Step Timing**                                   |
-|                                                                       |
-| *Đứng ở baseline trong ready position. Đối tác tung bóng từ phía bên  |
-| kia lưới. Quy tắc: split step PHẢI xảy ra khi bóng còn trong tay đối  |
-| tác, không phải sau khi bóng được tung. Thực hiện 50 lần liên tiếp,   |
-| tập trung vào timing và cảm giác pre-load của bắp chân. Sau 3-4 tuần  |
-| luyện tập như vậy, split step timing sẽ trở thành phản xạ tự nhiên.*  |
-+-----------------------------------------------------------------------+
+| **▶ Drill Luyện Split Step Timing** |
+| --- |
+|  |
+| *Đứng ở baseline trong ready position. Đối tác tung bóng từ phía bên |
+| kia lưới. Quy tắc: split step PHẢI xảy ra khi bóng còn trong tay đối |
+| tác, không phải sau khi bóng được tung. Thực hiện 50 lần liên tiếp, |
+| tập trung vào timing và cảm giác pre-load của bắp chân. Sau 3-4 tuần |
+| luyện tập như vậy, split step timing sẽ trở thành phản xạ tự nhiên.* |
+
 
 **8.2. Các Mẫu Di Chuyển Cơ Bản**
 
@@ -1101,15 +1101,15 @@ bùng nổ theo hướng ngược lại trong chưa đầy 0.3 giây. Trong các
 Sinner và Djokovic, Alcaraz đã cứu được những bóng mà về lý thuyết không
 thể cứu được bằng tốc độ COD phi thường này.
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 8**                                                |
-|                                                                       |
-| *Split step đúng timing là nền tảng không thể thương lượng. Sáu mẫu   |
-| di chuyển cơ bản cần được tự động hóa qua luyện tập có chủ đích. Hồi  |
+| **▶ Tóm Tắt Chương 8** |
+| --- |
+|  |
+| *Split step đúng timing là nền tảng không thể thương lượng. Sáu mẫu |
+| di chuyển cơ bản cần được tự động hóa qua luyện tập có chủ đích. Hồi |
 | vị về base position sau mỗi cú đánh là yếu tố phân biệt tay vợt chiến |
 | thuật với tay vợt phản ứng thuần túy. Footwork tốt không phải là chạy |
-| nhanh nhất -- mà là luôn ở đúng vị trí vào đúng thời điểm.*           |
-+-----------------------------------------------------------------------+
+| nhanh nhất -- mà là luôn ở đúng vị trí vào đúng thời điểm.* |
+
 
 **CHƯƠNG 9**
 
@@ -1227,14 +1227,14 @@ serve đúng với floating pelvis.
                                                          mechanics
   ----------------------- ----------------------- -----------------------
 
-+-----------------------------------------------------------------------+
-| **▶ Tóm Tắt Chương 9**                                                |
-|                                                                       |
-| *Phần lớn chấn thương tennis là có thể phòng ngừa qua kỹ thuật đúng   |
-| và load management hợp lý. Kỹ thuật sai -- không phải khối lượng tập  |
-| nhiều -- là nguyên nhân số 1. Năm nguyên tắc vàng: kỹ thuật đúng,     |
-| tăng tải từ từ, warm-up/cool-down, phục hồi đủ, lắng nghe cơ thể.*    |
-+-----------------------------------------------------------------------+
+| **▶ Tóm Tắt Chương 9** |
+| --- |
+|  |
+| *Phần lớn chấn thương tennis là có thể phòng ngừa qua kỹ thuật đúng |
+| và load management hợp lý. Kỹ thuật sai -- không phải khối lượng tập |
+| nhiều -- là nguyên nhân số 1. Năm nguyên tắc vàng: kỹ thuật đúng, |
+| tăng tải từ từ, warm-up/cool-down, phục hồi đủ, lắng nghe cơ thể.* |
+
 
 **CHƯƠNG 10**
 
@@ -1394,16 +1394,16 @@ quá trình tinh luyện liên tục, mỗi ngày một chút tốt hơn. Nhưng
 tảng cơ sinh học vững chắc và phương pháp khoa học, tốc độ tiến bộ sẽ
 nhanh hơn gấp nhiều lần so với luyện tập theo cảm tính truyền thống.
 
-+-----------------------------------------------------------------------+
-| **▶ Tổng Kết Toàn Bộ Tác Phẩm**                                       |
-|                                                                       |
+| **▶ Tổng Kết Toàn Bộ Tác Phẩm** |
+| --- |
+|  |
 | *Mười chương -- mười nền tảng cơ sinh học tennis hiện đại: bộ chân và |
-| GRF, chuỗi PDS, X-Factor, serve mechanics, forehand và backhand       |
-| nguyên lý bất biến, ba hệ điều hành elite, footwork hiện đại, phòng   |
+| GRF, chuỗi PDS, X-Factor, serve mechanics, forehand và backhand |
+| nguyên lý bất biến, ba hệ điều hành elite, footwork hiện đại, phòng |
 | ngừa chấn thương, và lộ trình tự động hóa 14 ngày. Không có con đường |
 | tắt -- nhưng với hiểu biết đúng và luyện tập có phương pháp, đỉnh cao |
-| kỹ thuật là mục tiêu hoàn toàn có thể đạt được.*                      |
-+-----------------------------------------------------------------------+
+| kỹ thuật là mục tiêu hoàn toàn có thể đạt được.* |
+
 
 **LỜI KẾT**
 

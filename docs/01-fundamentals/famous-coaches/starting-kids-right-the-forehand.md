@@ -4,10 +4,9 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-forehand/media/image1.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image1.webp)
 
-**A player\'s technical foundation lasts a lifetime, for better or
+**A player's technical foundation lasts a lifetime, for better or
 worse.**
 
 Starting your child out right.  That's the key to what's going to happen
@@ -48,10 +47,9 @@ respond.]{.underline}]{.mark}**
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_starting-kids-right-the-forehand/media/image2.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image2.webp)
 
-**Let\'s not fall into the trap of trying to creating 5 year olds with
+**Let's not fall into the trap of trying to creating 5 year olds with
 grips like Nadal.**
 
 **Critical Technique**
@@ -74,8 +72,7 @@ might be doing all the wrong things.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-forehand/media/image3.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image3.webp)
 
 **Good fundamentals allow young players to connect with the ball.**
 
@@ -93,7 +90,7 @@ connecting with the tennis ball. 
 different ways.]{.mark} ]{.underline}** But without these fundamentals I
 feel players won't ever have the chance of reaching their potential. 
 
-As with the attitude part, the basic technical fundamentals don\'t apply
+As with the attitude part, the basic technical fundamentals don't apply
 just to kids\--they probably apply to 95% of all club players who want
 to get better.
 
@@ -109,8 +106,7 @@ cost them literally millions of dollars.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person playing tennis Description automatically generated with medium
-   confidence](media_starting-kids-right-the-forehand/media/image3.webp){width="3.3333333333333335in"
-                                                                                   height="2.21875in"}
+   confidence](media_starting-kids-right-the-forehand/media/image3.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                   **I like to start young players in an eastern grip.**
 
@@ -132,8 +128,8 @@ handle because it feels natural when the balls bounce up over the
 shoulder. And I just see that as detrimental. They never really develop
 a feel for the strike zone.
 
-I don\'t want young children using a western grip for many reasons. 
-They don\'t learn to hit through the ball. They learn to hit only off
+I don't want young children using a western grip for many reasons. 
+They don't learn to hit through the ball. They learn to hit only off
 their back foot. They induce way too much spin. They break off the
 follow-through too soon. I could go on and on with the litany of
 problems that I see.  **[[The bottom line is that if you want to develop
@@ -146,8 +142,7 @@ here, and this is incredibly important to understand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-forehand/media/image4.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image4.webp)
 
 **The top women play a cleaner, flatter game.**
 
@@ -172,8 +167,7 @@ back on the back of the racket.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-forehand/media/image5.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image5.webp)
 
 **With boys I want them to gravitate toward a semi-western.**
 
@@ -187,7 +181,7 @@ high-bouncing balls okay.  If as time goes by, they slip to a
 semi-western, or possibly a hybrid grip between the two, that can be
 fine too.
 
-**[[The grip is critical because what I\'m trying to establish with a
+**[[The grip is critical because what I'm trying to establish with a
 young kid is the point of contact.]{.underline}]{.mark}** **[[Second I
 am trying to teach them to find the middle of a racket.  You want them
 to understand how to use the racket.]{.underline}]{.mark}**  ***[The
@@ -195,14 +189,13 @@ racket has to be their best friend.]{.underline}*** **[[The conservative
 grips give them the feeling of controlling the racket head with the
 hand. This is how they find the strike zone.]{.underline}]{.mark}**
 
-And in teaching kids the strike zone, it\'s been my experience that the
+And in teaching kids the strike zone, it's been my experience that the
 western is deadly. The eastern and the semi-western are just easier for
 the kids to make contact. They learn the true sense of the strings. Then
 as spin becomes more prevalent, it's ok to let them slide a little. 
 
 ![A person playing tennis Description automatically
-generated](media_starting-kids-right-the-forehand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_starting-kids-right-the-forehand/media/image6.webp)
 
 **Little kids, high balls, and western grips-not the ideal
 combination.**
@@ -211,13 +204,13 @@ But because the balls are so high and the kids are so little, they all
 want to play with the western. To do this in the long run they are going
 to have to be super fast, they will tend to play much further back in
 the court, and they will limit their ability to hit winners. So I just
-don\'t see the benefits. 
+don't see the benefits. 
 
-I\'ve seen it ruin many young players that actually went on to play pro
-tennis, but could have  been 30 or 40 or 50 spots higher. Players I\'ve
-coached. And they\'ve got all the other elements: great serve, good
-legs, good backhand. And I\'m thinking why couldn\'t they have Jennifer
-Capriati\'s forehand or why couldn\'t they have Andre\'s Agassi
+I've seen it ruin many young players that actually went on to play pro
+tennis, but could have  been 30 or 40 or 50 spots higher. Players I've
+coached. And they've got all the other elements: great serve, good
+legs, good backhand. And I'm thinking why couldn't they have Jennifer
+Capriati's forehand or why couldn't they have Andre's Agassi
 forehand?
 
 **Preparation**
@@ -235,8 +228,7 @@ should start immediately.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_starting-kids-right-the-forehand/media/image7.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image7.webp)
 
 **[Preparation begins with the shoulders.]{.mark}**
 
@@ -249,7 +241,7 @@ it will become automatic.]{.mark} **
 
 **Footwork**
 
-**[I think at the beginning stage with a young child, it\'s also about a
+**[I think at the beginning stage with a young child, it's also about a
 rhythm and a flow. And this is related to another critical part, which
 is the footwork.]{.mark}**
 
@@ -269,59 +261,57 @@ drop.]{.underline}]{.mark}** **[[Let the ball fall to the correct point
 of contact.]{.underline}]{.mark}**
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-forehand/media/image8.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image8.webp)
 
 **Letting the ball drop allows young players to find the strike zone.**
 
 **[[Now that might sound crazy because eventually they will have to
 learn to hit the ball on the rise, and I train my kids to do that when
 the time is right.]{.underline}]{.mark}** I want people to learn to play
-the ball instead of the ball playing them, but there\'s a time and place
+the ball instead of the ball playing them, but there's a time and place
 to develop that.
 
 **[[So letting the ball drop into the strike zone and learning to hit it
 with the right grip is critical.]{.mark} ]{.underline}**It will expedite
-the learning curve and I\'ve seen that over and over. Most players back
-up because they\'re afraid. I want kids to back up but for the right
+the learning curve and I've seen that over and over. Most players back
+up because they're afraid. I want kids to back up but for the right
 reason. 
 
-**[The kid needs to learn to think, "I\'ve got to let the ball drop into
+**[The kid needs to learn to think, "I've got to let the ball drop into
 the strike zone."  When kids learn to work this way, [positioning to
 find the contact point]{.underline} becomes second nature. The brain is
 saying, "My feet have to move."]{.mark}**
 
 So we work on backing up, letting the ball drop, getting a rhythm,
 finding the contact. Like everything I do, it's all based on my
-experience. It's what the students have taught me or I\'ve learned from
-the students, being in the trenches for so long. It\'s not just my
-theory or what someone taught me or something that I read. It\'s based
+experience. It's what the students have taught me or I've learned from
+the students, being in the trenches for so long. It's not just my
+theory or what someone taught me or something that I read. It's based
 on the pure hard facts of this experiment I am conducting on the court
 everyday.
 
-![](media_starting-kids-right-the-forehand/media/image8.webp){width="3.3333333333333335in"
-height="2.21875in"}
+![](media_starting-kids-right-the-forehand/media/image8.webp)
 
-**Kids need to feel what it\'s really like to hit through the ball.**
+**Kids need to feel what it's really like to hit through the ball.**
 
 **The Strike Zone**
 
 So throw the balls up higher and make them just go back, let it drop in
 the strike zone. When you teach this you'll see their footwork is
-totally different because their brain now is saying wait a minute, I\'ve
+totally different because their brain now is saying wait a minute, I've
 got to get in position to hit the ball, instead of here comes the ball,
 hit it. 
 
 **[I want young players to be able to [hit the ball in front
 comfortably.]{.underline}]{.mark}** **[[To find the ball in the middle
-of the racket, I just want the kids to feel what it\'s like to really
+of the racket, I just want the kids to feel what it's like to really
 hit through the ball instead of coming off of it too
 soon.]{.mark} [Because I think once you do that, you learn how to hit
 through the ball, you learn extension, you learn
 follow-through.]{.mark} ]{.underline}**
 
 What I try to stress to the kids is less is more. Keep the backswing
-smaller. Don\'t take the racket hand back so far you break the plane of
+smaller. Don't take the racket hand back so far you break the plane of
 the shoulder. Let the racket drop into the hit to start the forward
 swing.
 
@@ -334,8 +324,7 @@ dominates them instead of the body doing the work. Pushing on the ground
 means the whole body in going to be involved.]{.mark}]{.underline}**
 
 ![A child playing tennis Description automatically generated with medium
-confidence](media_starting-kids-right-the-forehand/media/image9.webp){width="3.3333333333333335in"
-height="2.21875in"}
+confidence](media_starting-kids-right-the-forehand/media/image9.webp)
 
 **Pushing on the ground: a million-dollar lesson.**
 
@@ -346,10 +335,10 @@ coordination. But it doesn't mean he is going to have a good
 forehand.]{.underline}]{.mark}**
 
 There are many kids that I have worked with that have been number one in
-the nation, and they\'re very consistent.  But as you get older, it\'s
+the nation, and they're very consistent.  But as you get older, it's
 the quality of the consistency. **[[Everybody can be consistent. Number
 one thousand in the world could be hitting with number one in the world
-and they could be doing a drill and you can\'t see the difference until
+and they could be doing a drill and you can't see the difference until
 you say, "Play these." And then it changes.]{.underline}]{.mark}**
 
 **[[When the kids are young you want fluidity. You want more power with
@@ -372,27 +361,26 @@ trophy, we all want the "W." We want that instant gratification. But you
 still can have success and also make sure you're developing a forehand
 that is eventually going to be a weapon.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------+
-| ![A person with his arms crossed Description automatically generated with low                                                                                                          | Rick Macci has coached some of the greatest players   |
-| confidence](media_starting-kids-right-the-forehand/media/image10.jpeg){width="1.3020833333333333in" | in the modern game during their critical, formative   |
-| height="1.9791666666666667in"}                                                                                                                                                         | years. He is widely regarded as one the world\'s top  |
-|                                                                                                                                                                                        | developmental coaches. Rick and his staff have shaped |
-|                                                                                                                                                                                        | the strokes of Jennifer Capriati, Venus and Serena    |
-|                                                                                                                                                                                        | Williams, Andy Roddick, and dozens of other           |
-|                                                                                                                                                                                        | successful tour players. In the last 30 years, Macci  |
-|                                                                                                                                                                                        | students have won 134 USTA national junior            |
-|                                                                                                                                                                                        | championships, and have been awarded over 4 million   |
-|                                                                                                                                                                                        | dollars in college scholarships. Rick is a USPTA      |
-|                                                                                                                                                                                        | Master Pro and a member of the USPTA Florida Hall of  |
-|                                                                                                                                                                                        | Fame.                                                 |
-|                                                                                                                                                                                        |                                                       |
-|                                                                                                                                                                                        | The Rick Macci Academy is located in Boca Raton,      |
-|                                                                                                                                                                                        | Florida at the beautiful Boca Logo Country Club,      |
-|                                                                                                                                                                                        | where Rick works in collaboration with Dr. Brian      |
-|                                                                                                                                                                                        | Gordon in implementing their new world class training |
-|                                                                                                                                                                                        | system.                                               |
-|                                                                                                                                                                                        |                                                       |
-|                                                                                                                                                                                        | For more information about Rick\'s Academy, email him |
-|                                                                                                                                                                                        | at: info@rickmacci.com or call Rick Macci directly    |
-|                                                                                                                                                                                        | at: (561) 445-2747                                    |
-+========================================================================================================================================================================================+=======================================================+
+| ![A person with his arms crossed Description automatically generated with low | Rick Macci has coached some of the greatest players |
+| --- | --- |
+| confidence](media_starting-kids-right-the-forehand/media/image10.jpeg) | years. He is widely regarded as one the world's top |
+|  | developmental coaches. Rick and his staff have shaped |
+|  | the strokes of Jennifer Capriati, Venus and Serena |
+|  | Williams, Andy Roddick, and dozens of other |
+|  | successful tour players. In the last 30 years, Macci |
+|  | students have won 134 USTA national junior |
+|  | championships, and have been awarded over 4 million |
+|  | dollars in college scholarships. Rick is a USPTA |
+|  | Master Pro and a member of the USPTA Florida Hall of |
+|  | Fame. |
+|  |  |
+|  | The Rick Macci Academy is located in Boca Raton, |
+|  | Florida at the beautiful Boca Logo Country Club, |
+|  | where Rick works in collaboration with Dr. Brian |
+|  | Gordon in implementing their new world class training |
+|  | system. |
+|  |  |
+|  | For more information about Rick's Academy, email him |
+|  | at: info@rickmacci.com or call Rick Macci directly |
+|  | at: (561) 445-2747 |
+

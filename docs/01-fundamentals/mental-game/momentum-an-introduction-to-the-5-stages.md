@@ -14,8 +14,7 @@ Nothing was working and now it was her opponent who couldn't miss.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image1.webp)
 
 **Momentum: an invisible force that comes from the flow of energy
 between players.**
@@ -48,16 +47,13 @@ reveal that even the best players in the world say they have played only
 a handful of matches when it felt as if everything was going their way
 for the entire match.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person in a sports uniform Description automatically generated with medium                                                                                             | ![A person holding a tennis racket Description automatically                                                                                                                            | ![A picture containing person, sport, crowd Description automatically                                                                                                                   |
-| confidence](media_momentum-an-introduction-to-the-5-stages/media/image2.JPG){width="2.0in" | generated](media_momentum-an-introduction-to-the-5-stages/media/image3.JPG){width="2.034782370953631in" | generated](media_momentum-an-introduction-to-the-5-stages/media/image4.jpg){width="2.022606080489939in" |
-| height="2.558377077865267in"}                                                                                                                                              | height="2.602869641294838in"}                                                                                                                                                           | height="2.5872944006999123in"}                                                                                                                                                          |
-+============================================================================================================================================================================+=========================================================================================================================================================================================+=========================================================================================================================================================================================+
-| Images by J. Gregory Swendsen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **In these articles you will learn to recognize momentum and respond to turning\                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| points to improve your results.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person in a sports uniform Description automatically generated with medium | ![A person holding a tennis racket Description automatically | ![A picture containing person, sport, crowd Description automatically |
+| --- | --- | --- |
+| confidence](media_momentum-an-introduction-to-the-5-stages/media/image2.JPG) |  |  |
+| Images by J. Gregory Swendsen |  |  |
+| **In these articles you will learn to recognize momentum and respond to turning\ |  |  |
+| points to improve your results.** |  |  |
+
 
 In the vast majority of matches, both players will encounter difficult
 situations, where things go against them. The real test of a player is
@@ -87,42 +83,38 @@ But it is important to understand that the stages of momentum do not
 necessarily relate to the score on the scoreboard. This is why we so
 often see the unexpected reverses in matches described above.
 
-+---------------------------------+
-| **The Five Stages of Momentum   |
-| are:**                          |
-|                                 |
-| - When momentum is **totally    |
-|   with you.**                   |
-|                                 |
-| - When momentum is **with       |
-|   you.**                        |
-|                                 |
+| **The Five Stages of Momentum |
+| --- |
+| are:** |
+|  |
+| - When momentum is **totally |
+| with you.** |
+|  |
+| - When momentum is **with |
+| you.** |
+|  |
 | - When momentum is **neutral.** |
-|                                 |
-| - When momentum is **against    |
-|   you.**                        |
-|                                 |
-| - When momentum is **totally    |
-|   against you.**                |
-+=================================+
+|  |
+| - When momentum is **against |
+| you.** |
+|  |
+| - When momentum is **totally |
+| against you.** |
+
 
 The flow of momentum can move through these stages sometimes in a
 straight line, but also in a twisting line, which turns back on itself.
 Momentum can move from one stage to another very quickly if something
 significant happens, or slowly if nothing significant happens. ![A
 person holding a tennis racket Description automatically
-generated](media_momentum-an-introduction-to-the-5-stages/media/image5.jpg){width="3.1652176290463694in"
-height="2.7036231408573927in"} ![A person playing tennis Description
+generated](media_momentum-an-introduction-to-the-5-stages/media/image5.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image6.png){width="3.1717705599300086in"
-height="2.7107283464566927in"}
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image6.png)
 
 ![A person wearing a hat Description automatically generated with low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image7.jpg){width="3.1043482064741905in"
-height="2.7163035870516183in"} ![A person playing tennis Description
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image7.jpg) ![A person playing tennis Description
 automatically generated with medium
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image8.png){width="3.1043482064741905in"
-height="2.716995844269466in"}
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image8.png)
 
 **[[But it is important to understand that it is the nature of momentum
 to move.]{.underline}]{.mark}** Momentum inevitably changes during most
@@ -165,8 +157,7 @@ consistent basis.]{.underline}]{.mark}**
 
 ![A person with his eyes closed Description automatically generated with
 low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image9.jpeg){width="1.1215277777777777in"
-height="1.5215277777777778in"}
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image9.jpeg)
 
 Alistair Higham is the National Manager of Coach Development for the
 LTA, the governing body for tennis in Great Britain. He is the author of
@@ -179,8 +170,7 @@ study of the hidden force that dictates so much in the outcome of
 competitive tennis matches.
 
 ![Map Description automatically generated with low
-confidence](media_momentum-an-introduction-to-the-5-stages/media/image10.jpeg){width="1.04375in"
-height="1.4520833333333334in"}
+confidence](media_momentum-an-introduction-to-the-5-stages/media/image10.jpeg)
 
 **Momentum: The Hidden Force in Tennis Alistair Higham**
 

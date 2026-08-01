@@ -14,8 +14,8 @@ Cú trái tay một tay (one-handed backhand) là kỹ thuật mang tính nghệ
 thuật và đòi hỏi sự hiểu biết sinh cơ học sâu sắc nhất trong toàn bộ kho
 tàng kỹ thuật quần vợt hiện đại. Không phải ngẫu nhiên mà những tay vợt
 sở hữu cú đánh này đẹp nhất --- Roger Federer, Stan Wawrinka, Grigor
-Dimitrov --- đều được giới chuyên môn gọi là những \'nghệ sĩ của sân
-đấu\'. Nhưng vẻ đẹp đó không phải là sự may mắn hay năng khiếu bẩm sinh.
+Dimitrov --- đều được giới chuyên môn gọi là những 'nghệ sĩ của sân
+đấu'. Nhưng vẻ đẹp đó không phải là sự may mắn hay năng khiếu bẩm sinh.
 Nó là kết quả của một hệ thống cơ học được thiết kế và tinh chỉnh tỉ mỉ
 trong từng mili-giây của cú đánh.
 
@@ -30,7 +30,7 @@ rễ đang làm gãy vỡ từng cú đánh hàng ngày.
 
 Rào cản lớn nhất mà người chơi Level 3.5 gặp phải khi tiếp cận cú trái
 tay một tay chính là tư duy sai lầm về nguồn gốc của lực. Phần lớn người
-chơi phong trào vô thức biến cánh tay mình thành một \'cây gậy\' cứng
+chơi phong trào vô thức biến cánh tay mình thành một 'cây gậy' cứng
 nhắc --- họ đẩy và đánh bóng bằng lực co cơ thuần túy của bắp tay sau
 (triceps) và cơ vai. Hệ quả là đường bóng ngắn, thiếu lực nén, dễ ra
 ngoài và đặc biệt gây áp lực cơ học cực lớn lên khớp khuỷu tay (tennis
@@ -38,7 +38,7 @@ elbow) --- chấn thương mãn tính phổ biến nhất trong quần vợt pho
 
 Triết lý vận động hiện đại, được đúc kết từ hàng thập kỷ phân tích sinh
 cơ học bằng công nghệ camera tốc độ cao, đề xuất một mô hình hoàn toàn
-khác: Cơ thể người là một \'chiếc roi da\' liên kết. Năng lượng không
+khác: Cơ thể người là một 'chiếc roi da' liên kết. Năng lượng không
 được tạo ra tại điểm cuối mà được sinh ra từ các phân đoạn khối lượng
 lớn ở phía dưới, truyền dẫn và khuếch đại qua từng mắt xích, rồi giải
 phóng với tốc độ tối đa ở điểm cuối cùng là đầu vợt.
@@ -88,7 +88,7 @@ giây.
     vai, ngăn thân trên mở ra sớm. Sự chênh lệch góc xoay giữa khung
     chậu và đai vai tạo ra hiện tượng phân tách hông-vai (hip-shoulder
     separation), kéo căng dải cơ chéo bụng và hệ thống cân mạc ngực-thắt
-    lưng --- đây chính là \'lò xo\' tích lũy năng lượng.
+    lưng --- đây chính là 'lò xo' tích lũy năng lượng.
 
 3.  Dẫn động đai vai và khớp bả vai: Khung chậu xoay đến góc nhất định
     rồi hãm lại; năng lượng lập tức chuyển tiếp lên thân mình, kéo đai
@@ -103,7 +103,7 @@ giây.
 **1.3. Nguyên Lý Đứng sóng và Quỹ đạo C-to-I**
 
 Hai khái niệm tinh tế nhưng có tính quyết định này phân biệt người chơi
-có hiểu biết sinh cơ học với người chơi chỉ đang \'đánh theo bản năng\'.
+có hiểu biết sinh cơ học với người chơi chỉ đang 'đánh theo bản năng'.
 
 Nguyên lý Đứng sóng (Standing Wave Principle) mô tả khả năng duy trì cấu
 trúc khung sinh cơ học ổn định để hấp thụ và tái chế lực từ đường bóng
@@ -151,15 +151,15 @@ thuật của bản thân.
 
 **1.5. Nguyên Nhân Thất bại Phổ biến ở Level 3.5**
 
-Lỗi nghiêm trọng nhất và phổ biến nhất là hiện tượng \'ngắt quãng chuỗi
-động học\' (kinetic chain disconnection). Khi đối phương đánh bóng sâu
+Lỗi nghiêm trọng nhất và phổ biến nhất là hiện tượng 'ngắt quãng chuỗi
+động học' (kinetic chain disconnection). Khi đối phương đánh bóng sâu
 hoặc xoáy, người chơi 3.5 thường ngẩng đầu lên sớm để nhìn sang sân hoặc
 gập cổ tay với hy vọng kiểm soát hướng bóng.
 
 Hành động tưởng chừng vô hại này ngay lập tức làm xoay trục vai sớm, phá
 vỡ phân tách hông-vai, khiến toàn bộ lực nén từ chân và mô-men xoắn từ
 hông bị triệt tiêu hoàn toàn tại vùng thắt lưng. Kết quả là người chơi
-buộc phải dùng toàn bộ cơ bắp tay sau và cổ tay để \'với\' và đẩy bóng
+buộc phải dùng toàn bộ cơ bắp tay sau và cổ tay để 'với' và đẩy bóng
 --- không chỉ làm giảm 70% hiệu suất lực mà còn là nguyên nhân trực tiếp
 dẫn đến đánh trúng khung vợt và chấn thương mãn tính.
 
@@ -227,7 +227,7 @@ xoay và tìm cạnh vợt khi chuyển đổi từ forehand sang backhand. Khi 
 phải vừa bóp chặt để đánh vừa nới lỏng để xoay, hệ thần kinh cơ bị quá
 tải và dẫn đến trượt grip.
 
-Kỹ thuật đúng: Tay trái là \'bộ ly hợp\' (clutch). Tay trái giữ chặt cổ
+Kỹ thuật đúng: Tay trái là 'bộ ly hợp' (clutch). Tay trái giữ chặt cổ
 vợt và xoay toàn bộ thân vợt về đúng góc mong muốn. Trong thời gian đó,
 tay phải nới lỏng hoàn toàn (giữ khoảng 10% áp lực) để lòng bàn tay
 trượt tự do trên cán, rồi khóa chặt lại khi vợt đã về đúng vị trí cạnh.
@@ -280,7 +280,7 @@ sau contact để cổ tay vận động tự nhiên trong giai đoạn follow-t
 
 > *Bài kiểm tra đơn giản: Sau buổi tập 2 giờ, nếu cẳng tay bạn đau và
 > mỏi, bạn đang bóp vợt quá chặt. Nếu bạn thỉnh thoảng cảm thấy vợt
-> \'sống\' trong tay và phản xạ điều chỉnh, bạn đang bóp đúng mức.*
+> 'sống' trong tay và phản xạ điều chỉnh, bạn đang bóp đúng mức.*
 
 **CHƯƠNG 3: UNIT TURN -- NGHỆ THUẬT CHUẨN BỊ SỚM**
 
@@ -305,18 +305,18 @@ năng lượng lớn nhất --- sự căng giãn của các nhóm cơ lưng và 
 toàn bộ cơ thể xoay như một khối, mô-men xoắn tích lũy được gấp nhiều
 lần so với trường hợp đầu.
 
-**3.2. Quy tắc Đếm \'1\' --- Chuẩn bị sớm**
+**3.2. Quy tắc Đếm '1' --- Chuẩn bị sớm**
 
 Ngay khi bóng rời mặt vợt của đối phương và hệ thần kinh nhận diện bóng
 sẽ sang phía trái, người chơi phải thực hiện Unit Turn ngay lập tức. Quy
-tắc đếm \'1\' có nghĩa là bước đầu tiên (split-step kết thúc) và Unit
+tắc đếm '1' có nghĩa là bước đầu tiên (split-step kết thúc) và Unit
 Turn phải diễn ra đồng bộ hoàn hảo --- không có độ trễ. Đây là giai đoạn
-phân định giữa người chơi \'kịp bóng\' và người chơi \'muộn bóng\'.
+phân định giữa người chơi 'kịp bóng' và người chơi 'muộn bóng'.
 
 Ở trình độ Level 3.5, lỗi phổ biến nhất không phải là kỹ thuật vung vợt
 mà là sự chậm trễ trong Unit Turn. Người chơi thường chờ bóng đến gần
 mới xoay người, dẫn đến toàn bộ pha vung vợt diễn ra trong trạng thái
-\'chạy theo bóng\' thay vì \'chờ đón bóng\'. Kết quả là điểm chạm nằm
+'chạy theo bóng' thay vì 'chờ đón bóng'. Kết quả là điểm chạm nằm
 sau thân người, cánh tay bị co lại và toàn bộ chuỗi động học bị triệt
 tiêu.
 
@@ -378,7 +378,7 @@ bước di chuyển.
 Over-turn xảy ra khi người chơi xoay quá mức, đặc biệt hay gặp ở những
 người có lưng dẻo. Vai phải xoay quá 120 độ khiến cơ thể không còn nhìn
 được bóng qua vai nữa, gây mất thị giác bóng và khiến cánh tay phải vươn
-ra sau quá xa, tạo thêm khoảng cách cần \'đuổi theo\' trước khi contact.
+ra sau quá xa, tạo thêm khoảng cách cần 'đuổi theo' trước khi contact.
 
 Thiếu turn là lỗi phổ biến hơn. Người chơi chỉ xoay được 45--60 độ thay
 vì 90 độ, dẫn đến cánh tay phải phải tự kéo vợt ra để bù đắp, phá vỡ
@@ -400,7 +400,7 @@ cân bằng về thế đứng.
 
 **4.1. Kỹ thuật Bước Heel-to-Toe --- Gót chạm trước**
 
-Kỹ thuật bước chân trước theo giao thức \'Heel-to-toe\' của Roger
+Kỹ thuật bước chân trước theo giao thức 'Heel-to-toe' của Roger
 Federer là chìa khóa kiểm soát trọng tâm cơ học. Khi di chuyển đến vị
 trí bóng, bước cuối cùng của chân phải phải bắt đầu bằng đặt gót chân
 xuống mặt sân trước, sau đó hạ dần lòng bàn chân và cuối cùng là áp lực
@@ -410,7 +410,7 @@ Tác dụng sinh cơ học của động tác này là đặt gót chân trướ
 hệ thống phanh hãm lực quán tính ngang, ngăn khối lượng thân trên bị đổ
 về phía trước lưới quá sớm trước khi vợt vung qua. Nó tạo ra một trục
 xương sống thẳng đứng ổn định, cho phép mô-men xoắn chuyển hóa thành vận
-tốc vòng quay của cánh tay thay vì bị \'rò rỉ\' ra ngoài qua tư thế mất
+tốc vòng quay của cánh tay thay vì bị 'rò rỉ' ra ngoài qua tư thế mất
 cân bằng.
 
 **4.2. Hình học Góc Bàn chân và Cơ chế Khớp hông**
@@ -434,7 +434,7 @@ bóng. Dành cho khi có đủ thời gian chuẩn bị và bóng đến không 
 
 Semi-open Stance là tư thế dự phòng khi đối phương đánh bóng có tốc độ
 cực nhanh hoặc kéo rộng ra ngoài. Chân phải bước sang ngang và hơi chếch
-lên trước. Lúc này hông vẫn phải có xu hướng \'khóa\' nhẹ ra sau ở pha
+lên trước. Lúc này hông vẫn phải có xu hướng 'khóa' nhẹ ra sau ở pha
 load để tích lũy lực xoắn vùng lõi --- không được để hông mở hoàn toàn
 sớm.
 
@@ -463,7 +463,7 @@ Split-step là bước nhảy nhỏ tại chỗ được thực hiện ngay khi 
 chuẩn bị tiếp xúc bóng. Hai bàn chân hạ xuống đồng thời ở trạng thái
 rộng hơn vai, đầu gối hơi gập, trọng lượng dồn lên mũi chân. Mục đích
 của split-step không phải là đi đến chỗ bóng --- mà là đặt cơ thể vào
-trạng thái \'trung tính hoàn toàn\' trước khi bước đầu tiên.
+trạng thái 'trung tính hoàn toàn' trước khi bước đầu tiên.
 
 Ở Level 3.5, lỗi split-step phổ biến là thực hiện quá muộn --- sau khi
 bóng đã rời vợt đối phương. Split-step phải diễn ra đồng bộ với
@@ -493,8 +493,8 @@ phá vỡ sự cân bằng cần thiết để duỗi thẳng cánh tay tại co
 
 **CHƯƠNG 5: TAKE-BACK VÀ DROP -- LỰC NÉN LÒ XO**
 
-Nếu Unit Turn là giai đoạn \'lên dây cót\' cho cơ thể, thì Take-back và
-Drop là giai đoạn \'lên dây cót\' cho cây vợt. Đây là giai đoạn tích lũy
+Nếu Unit Turn là giai đoạn 'lên dây cót' cho cơ thể, thì Take-back và
+Drop là giai đoạn 'lên dây cót' cho cây vợt. Đây là giai đoạn tích lũy
 thế năng, chuẩn bị để giải phóng tối đa động năng tại điểm chạm bóng.
 Một vòng take-back sai hoặc một động tác drop thiếu tự do sẽ làm cạn
 kiệt nguồn năng lượng tiềm năng mà cú đánh có thể tạo ra.
@@ -524,8 +524,8 @@ bay của quả bóng tới tối thiểu 20--30cm.
 Khoảng cách chênh lệch độ cao này thiết lập một góc nâng cơ học tự
 nhiên. Khi vai bắt đầu kéo cánh tay về phía trước, cây vợt không thể đi
 ngang mà buộc phải di chuyển theo quỹ đạo dốc từ dưới lên trên, tự động
-tạo ra góc miết bóng sinh ra topspin ổn định. Người chơi không cần \'tạo
-xoáy\' bằng cổ tay --- quỹ đạo vung đúng sẽ tự động tạo xoáy.
+tạo ra góc miết bóng sinh ra topspin ổn định. Người chơi không cần 'tạo
+xoáy' bằng cổ tay --- quỹ đạo vung đúng sẽ tự động tạo xoáy.
 
 **5.3. Thả lỏng Quán tính --- Free Fall Drop**
 
@@ -537,8 +537,8 @@ tự do theo lực hút trái đất (free fall).
 Sự thả lỏng này giúp loại bỏ mọi căng cứng cơ học, kích hoạt trạng thái
 sẵn sàng co giãn nhanh của sợi cơ (stretch-shortening cycle) --- cơ chế
 tương tự như việc căng một sợi dây cao su rồi thả ra. Cơ thể đang trong
-trạng thái \'sạc điện\' để bùng nổ. Bất kỳ sự căng cứng nào trong cánh
-tay lúc này đều sẽ \'chặn\' cơ chế này và làm giảm đáng kể tốc độ đầu
+trạng thái 'sạc điện' để bùng nổ. Bất kỳ sự căng cứng nào trong cánh
+tay lúc này đều sẽ 'chặn' cơ chế này và làm giảm đáng kể tốc độ đầu
 vợt.
 
 **5.4. Elbow Pull --- Động cơ thứ hai của Wawrinka**
@@ -552,7 +552,7 @@ Tác dụng cơ học của lực đối xứng này: Nó ngăn đai vai bị xo
 quá sớm, giữ vai phải đóng cố định lâu hơn vài phần trăm giây. Khi vai
 trái đóng lâu hơn, biên độ giãn của các nhóm cơ ngực và cơ liên sườn đạt
 mức tối đa. Khi vai trái cuối cùng cũng mở ra thụ động, lực giải phóng
-có vận tốc góc cực đại --- đây chính là bí mật tạo ra \'tiếng bổ bóng\'
+có vận tốc góc cực đại --- đây chính là bí mật tạo ra 'tiếng bổ bóng'
 đặc trưng của Wawrinka.
 
 **5.5. Phân tích So sánh ba Phong cách cho Level 3.5**
@@ -578,12 +578,12 @@ thẩm mỹ, không áp dụng trực tiếp.
 Một trong những kỹ năng tinh vi nhất mà người chơi 3.5 cần phát triển là
 khả năng đồng bộ nhịp vợt với nhịp bóng. Vợt bắt đầu drop vào đúng
 khoảnh khắc bóng chạm mặt sân lần thứ nhất. Khi bóng nảy lên thì vợt
-đang ở vị trí Slot thấp nhất, sẵn sàng lao lên. Đây là \'tiết tấu\' của
+đang ở vị trí Slot thấp nhất, sẵn sàng lao lên. Đây là 'tiết tấu' của
 cú đánh.
 
-Người chơi có thể thực hành điều này bằng cách đếm thành tiếng: \'Một\'
-khi đối phương chạm bóng (bắt đầu Unit Turn), \'Hai\' khi bóng nảy xuống
-sân (thả lỏng drop), và \'Đánh\' khi bóng dâng lên tầm đánh (giải phóng
+Người chơi có thể thực hành điều này bằng cách đếm thành tiếng: 'Một'
+khi đối phương chạm bóng (bắt đầu Unit Turn), 'Hai' khi bóng nảy xuống
+sân (thả lỏng drop), và 'Đánh' khi bóng dâng lên tầm đánh (giải phóng
 vung vợt). Ba nhịp này cần trở thành nhịp tự nhiên của cơ thể sau hàng
 trăm lần lặp lại.
 
@@ -686,7 +686,7 @@ toàn bộ vận tốc được duy trì và dồn vào bóng.
 
 **CHƯƠNG 7: FOLLOW-THROUGH -- GIẢI PHÓNG NĂNG LƯỢNG**
 
-Nhiều người chơi nghĩ rằng follow-through là phần \'thừa\' của cú đánh
+Nhiều người chơi nghĩ rằng follow-through là phần 'thừa' của cú đánh
 --- bóng đã đi rồi, tay còn lăng theo làm gì? Đây là một trong những
 hiểu lầm phổ biến nhất và tốn kém nhất trong quần vợt. Follow-through
 không phải là hậu quả của cú đánh --- nó là bằng chứng của cú đánh. Và
@@ -696,8 +696,8 @@ qua cơ chế thần kinh của hệ cơ.
 **7.1. Tại sao Follow-through ảnh hưởng đến chất lượng Contact**
 
 Cơ chế thần kinh vận hành theo chiều ngược: Hệ thần kinh phát lệnh co cơ
-TRƯỚC KHI tiếp xúc bóng. Nếu người chơi trong đầu đã lên kế hoạch \'dừng
-vợt sớm\' sau contact vì sợ bóng bay ra ngoài, hệ thần kinh sẽ phát tín
+TRƯỚC KHI tiếp xúc bóng. Nếu người chơi trong đầu đã lên kế hoạch 'dừng
+vợt sớm' sau contact vì sợ bóng bay ra ngoài, hệ thần kinh sẽ phát tín
 hiệu giảm tốc cơ bắp ngay từ TRƯỚC contact --- làm giảm 40% tốc độ đầu
 vợt tại điểm chạm quan trọng nhất.
 
@@ -771,13 +771,13 @@ follow-through, cơ thể cần nhanh chóng quay về vị trí sẵn sàng ở
 tâm baseline.
 
 Kỹ thuật đúng là để đà quán tính của follow-through tự nhiên kéo cơ thể
-về trung tâm, không cố gắng \'kéo phanh\' đột ngột. Dùng bước chéo ngắn
+về trung tâm, không cố gắng 'kéo phanh' đột ngột. Dùng bước chéo ngắn
 (crossover step) để pivot và di chuyển về chữ T của baseline. Người chơi
 Level 3.5 hay mắc lỗi đứng nhìn bóng sau cú đánh thay vì bắt đầu hồi
 phục ngay lập tức.
 
 > *Kiểm tra sau cú đánh: Ngay sau khi vợt chạm bóng, nếu bạn có thể đếm
-> thầm \'1-2\' trước khi ngẩng đầu lên, bạn đã giữ đầu đứng yên đúng
+> thầm '1-2' trước khi ngẩng đầu lên, bạn đã giữ đầu đứng yên đúng
 > cách. Nếu bạn không nhớ mình đã giữ đầu đứng yên hay không, có nghĩa
 > là bạn đã ngẩng đầu sớm.*
 
@@ -809,7 +809,7 @@ bóng trượt khung hoặc bay thẳng ra ngoài sân.
 **8.2. Bóng thấp sát mặt sân --- Low Slice Ball**
 
 Bóng thấp đòi hỏi lực nâng lớn từ hệ thống cơ đùi. Tuyệt đối không dùng
-cổ tay để \'múc\' bóng lên vì cổ tay lỏng tại contact làm bóng mất lực
+cổ tay để 'múc' bóng lên vì cổ tay lỏng tại contact làm bóng mất lực
 và thiếu ổn định hoàn toàn.
 
 Kỹ thuật Deep Squat Stance: Chùng sâu cả hai khớp gối, hạ thấp hông như
@@ -855,7 +855,7 @@ khó nhất với cú trái tay một tay. Không đủ không gian để duỗi
 tay, không thể thực hiện closed stance chuẩn.
 
 Giải pháp: Bước ngang ngay lập tức để tạo khoảng cách. Nếu không kịp
-bước đủ, chuyển sang slice Continental với cú vung ngắn để \'đẩy\' bóng
+bước đủ, chuyển sang slice Continental với cú vung ngắn để 'đẩy' bóng
 qua lưới và mua thêm thời gian. Không bao giờ cố thực hiện topspin với
 body ball khi không có đủ không gian --- xác suất thất bại gần như 100%.
 
@@ -871,8 +871,8 @@ chân phải xuống sân, chân tĩnh hoàn toàn, rồi mới vung. Ưu tiên 
 dọc dây (down-the-line) nếu đã thiết lập đủ bộ chân closed stance. Không
 bao giờ cố đánh dọc dây khi đang di chuyển.
 
-> *Nguyên tắc quyết định tình huống: Nếu bạn phải nghĩ \'Tôi có đủ thời
-> gian không?\', câu trả lời thường là KHÔNG. Hãy chuyển ngay sang
+> *Nguyên tắc quyết định tình huống: Nếu bạn phải nghĩ 'Tôi có đủ thời
+> gian không?', câu trả lời thường là KHÔNG. Hãy chuyển ngay sang
 > phương án an toàn hơn (slice, hoặc đánh đơn giản vào giữa sân) thay vì
 > cố gắng thực hiện kỹ thuật đầy đủ trong tình huống thiếu thời gian.*
 
@@ -888,7 +888,7 @@ bạn dùng kỹ thuật đúng vào đúng thời điểm.
 **9.1. Triết lý Sống sót trước, Hào nhoáng sau**
 
 Lỗi tâm lý lớn nhất của người chơi sở hữu cú trái một tay ở Level 3.5 là
-hội chứng \'mơ mộng chuyên nghiệp\'. Họ thường cố thực hiện các cú dứt
+hội chứng 'mơ mộng chuyên nghiệp'. Họ thường cố thực hiện các cú dứt
 điểm dọc dây có độ rủi ro cực cao giống những pha trình diễn của
 Dimitrov khi cơ thể chưa đạt sự ổn định về bộ chân.
 
@@ -945,15 +945,15 @@ quán tính đó sang góc sân trống.
 tay. Điều quan trọng là không để áp lực chiến thuật biến thành hoảng
 loạn kỹ thuật.
 
-Quy tắc \'Không bao giờ thay đổi kỹ thuật dưới áp lực\': Nếu đánh hỏng
+Quy tắc 'Không bao giờ thay đổi kỹ thuật dưới áp lực': Nếu đánh hỏng
 một quả, không được phép thay đổi kỹ thuật một cách hoảng loạn. Hãy ngay
-lập tức kiểm tra lại chỉ dấu \'Đầu đứng yên\' và \'Unit Turn sớm\'. Chín
+lập tức kiểm tra lại chỉ dấu 'Đầu đứng yên' và 'Unit Turn sớm'. Chín
 mươi phần trăm các cú đánh hỏng ở Level 3.5 có thể được truy về một
 trong hai lỗi này.
 
 Tư duy biến áp lực thành cơ hội: Thay vì sợ hãi khi đối phương liên tục
 ép trái, hãy coi đó là lợi thế định hình trước hướng bóng. Biết trước
-bóng sẽ sang trái giúp người chơi thực hiện Unit Turn đếm \'1\' sớm hơn
+bóng sẽ sang trái giúp người chơi thực hiện Unit Turn đếm '1' sớm hơn
 nửa nhịp, xóa tan hoàn toàn nỗi sợ bị muộn timing.
 
 **9.5. Xây dựng Kế hoạch Trận đấu (Game Plan)**
@@ -977,7 +977,7 @@ tiếp theo. Người chơi giỏi nhất không phải là người không bao 
 lỗi mà là người phục hồi nhanh nhất sau lỗi.
 
 Kỹ thuật phục hồi tâm lý 3 giây: Ngay sau khi mắc lỗi, dành đúng 3 giây
-để \'xả\' (có thể lắc nhẹ đầu, thở sâu, hoặc đi bộ về vị trí baseline).
+để 'xả' (có thể lắc nhẹ đầu, thở sâu, hoặc đi bộ về vị trí baseline).
 Sau 3 giây, đầu óc phải trống hoàn toàn và tập trung 100% vào điểm tiếp
 theo. Không được phép mang lỗi cũ vào điểm mới --- đó là công thức chắc
 chắn nhất để thua cả trận đấu.
@@ -1003,7 +1003,7 @@ trước một chiếc gương lớn là bắt buộc --- không phải tùy ch�
 phép não bộ nhận phản hồi trực quan tức thời và điều chỉnh lỗi ngay
 trong quá trình vận động.
 
-Drill \'3 Điểm Dừng Cơ Học\' (The 3-Point Isometric Hold): Thực hiện
+Drill '3 Điểm Dừng Cơ Học' (The 3-Point Isometric Hold): Thực hiện
 motion vung vợt chậm và bắt buộc phải dừng lại, giữ bất động 3 giây tại
 ba mốc hình học cốt lõi để tự kiểm tra thông số cơ thể.
 
@@ -1025,13 +1025,13 @@ Tự thả bóng giúp loại bỏ hoàn toàn các biến số về di chuyển
 phương, tập trung 100% vào việc tinh chỉnh điểm chạm và quỹ đạo vung.
 Đây là giai đoạn cầu nối giữa shadow swing và live ball.
 
-Drill \'Thả Bóng Heel-to-Toe\': Đứng ở tư thế Unit Turn sẵn. Tay trái
+Drill 'Thả Bóng Heel-to-Toe': Đứng ở tư thế Unit Turn sẵn. Tay trái
 cầm quả bóng tennis đưa ra phía trước người. Thả rơi bóng tự do, đồng
 thời chân phải bước tiến lên theo giao thức gót chạm trước
 (Heel-to-toe), hạ vợt xuống Slot và vung đánh bóng chéo sân. Mục tiêu là
 đạt tỷ lệ 20/20 quả bóng đi sạch tiếng chạm, cánh tay thẳng tại contact.
 
-Drill \'Tee Drill\' (Bóng tĩnh trên cọc): Đặt quả bóng tennis cố định
+Drill 'Tee Drill' (Bóng tĩnh trên cọc): Đặt quả bóng tennis cố định
 trên cọc treo bóng ở vị trí chuẩn trước mũi chân phải 30cm. Thực hiện
 toàn bộ motion từ Unit Turn, Drop và vung vợt chạm chính xác vào bóng
 với yêu cầu cánh tay duỗi thẳng hoàn toàn và cổ tay khóa cứng, dừng lại
@@ -1039,19 +1039,19 @@ tại contact để kiểm tra cấu trúc hình học.
 
 **10.3. Giai đoạn 3: Tập với Live Ball --- Progressive Drills**
 
-Drill \'Vành Mũ Đôi Công\' (The Cap Rally Drill): Người tập đội mũ lưỡi
+Drill 'Vành Mũ Đôi Công' (The Cap Rally Drill): Người tập đội mũ lưỡi
 trai kéo thấp, thực hiện rally đều tay chéo sân với đối tác. Sau mỗi cú
 đánh trái tay, phải giữ nguyên hướng vành mũ nhìn xuống điểm chạm cũ
 thêm một nhịp đếm thầm rồi mới được phép ngẩng lên di chuyển. Drill này
 ép hệ thần kinh loại bỏ hoàn toàn lỗi ngẩng đầu sớm.
 
-Drill \'Mượn Lực Sân Cứng\': Đối tác đứng ở baseline đánh các quả
+Drill 'Mượn Lực Sân Cứng': Đối tác đứng ở baseline đánh các quả
 forehand nặng, sâu sang cánh trái. Người tập đứng lùi sau baseline 1m,
 tập trung sử dụng bộ khung chuẩn bị nhỏ gọn của Federer kết hợp lực kéo
 vai trái của Wawrinka để trả bóng sâu ổn định liên tục 15 quả không
 hỏng.
 
-Drill \'Chuỗi Kỷ Luật 7-1\': Người tập bắt buộc phải đánh liên tiếp 7
+Drill 'Chuỗi Kỷ Luật 7-1': Người tập bắt buộc phải đánh liên tiếp 7
 quả trái tay topspin vào sâu góc chéo sân của đối phương. Chỉ khi đối
 phương trả bóng ngắn xuất hiện lỗi, người tập mới được phép thực hiện cú
 bước vào dứt điểm dọc dây ở quả thứ 8. Drill này xây dựng tính kỷ luật
@@ -1124,7 +1124,7 @@ tay topspin đạt tỷ lệ vào sân ổn định 75% hoặc cao hơn.
 
 Tiến bộ trong kỹ thuật quần vợt không phải lúc nào cũng tuyến tính. Có
 những tuần bạn cảm thấy đi lùi --- đây là giai đoạn bình thường khi não
-bộ đang \'xóa\' các thói quen cũ và ghi đè thói quen mới. Thay vì đo
+bộ đang 'xóa' các thói quen cũ và ghi đè thói quen mới. Thay vì đo
 lường tiến bộ bằng điểm số trong thi đấu, hãy theo dõi các chỉ số kỹ
 thuật cụ thể.
 

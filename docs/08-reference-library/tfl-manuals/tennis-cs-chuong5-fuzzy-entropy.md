@@ -59,16 +59,16 @@ thấy tốt. Không bao giờ có thông tin hoàn hảo. Hệ thống điều 
 không phải là hệ thống đòi hỏi thông tin hoàn hảo để hoạt động --- mà là
 hệ thống làm việc hiệu quả với thông tin không hoàn hảo.
 
-+-----------------------------------------------------------------------+
-| **🎯 Định nghĩa Tầng 5**                                              |
-|                                                                       |
-| Fuzzy Logic & Entropy Management là khả năng ra quyết định và hành    |
-| động hiệu quả trong môi trường bất định, thiếu thông tin, hoặc thông  |
+| **🎯 Định nghĩa Tầng 5** |
+| --- |
+|  |
+| Fuzzy Logic & Entropy Management là khả năng ra quyết định và hành |
+| động hiệu quả trong môi trường bất định, thiếu thông tin, hoặc thông |
 | tin mâu thuẫn --- không bằng cách loại bỏ bất định, mà bằng cách tích |
-| hợp nó vào quá trình quyết định. Đồng thời, đây là khả năng chủ động  |
-| quản lý mức độ entropy (hỗn loạn) của trận đấu: giảm entropy cho      |
-| mình, tăng entropy cho đối thủ.                                       |
-+-----------------------------------------------------------------------+
+| hợp nó vào quá trình quyết định. Đồng thời, đây là khả năng chủ động |
+| quản lý mức độ entropy (hỗn loạn) của trận đấu: giảm entropy cho |
+| mình, tăng entropy cho đối thủ. |
+
 
 Fuzzy logic không có nghĩa là tư duy mơ hồ. Đây là framework toán học
 chính xác để xử lý sự bất định --- nơi câu trả lời không phải là 0 hoặc
@@ -107,15 +107,15 @@ nhận được gradient và điều chỉnh response theo gradient đó. Điề
 ra những adjustment smooth và không giật cục, trái ngược với người chơi
 binary thường có những thay đổi đột ngột và cứng nhắc.
 
-+-----------------------------------------------------------------------+
-| **🎯 Coaching với fuzzy language**                                    |
-|                                                                       |
-| Thay vì \"Đánh tấn công shot đó\" (binary) → dùng \"Shot đó khoảng    |
+| **🎯 Coaching với fuzzy language** |
+| --- |
+|  |
+| Thay vì \"Đánh tấn công shot đó\" (binary) → dùng \"Shot đó khoảng |
 | 60% aggressive\" (fuzzy). Thay vì \"Backswing lớn hơn\" → \"Backswing |
-| nhiều hơn khoảng 30%.\" Fuzzy language giúp người chơi tư duy         |
+| nhiều hơn khoảng 30%.\" Fuzzy language giúp người chơi tư duy |
 | gradient thay vì binary, dần dần tạo ra hệ thống quyết định linh hoạt |
-| hơn.                                                                  |
-+-----------------------------------------------------------------------+
+| hơn. |
+
 
 **3. Các Biến Ngôn Ngữ --- Bản Đồ Không Gian Quyết Định**
 
@@ -173,14 +173,14 @@ Người chơi có kinh nghiệm tự nhiên điều chỉnh context weighting n
 là lý do họ trông \"thông minh\" hơn mà không nhất thiết nhanh hơn hoặc
 mạnh hơn --- họ đọc context tốt hơn và weight các biến chính xác hơn.
 
-+-----------------------------------------------------------------------+
-| **🎯 Drill: Fuzzy self-assessment**                                   |
-|                                                                       |
-| Sau mỗi shot trong drill, người chơi nói to điểm số trên thang 1-10   |
-| cho mỗi biến: \"Bóng đó: vị trí 7, balance 8, tôi đánh 6/10           |
-| aggressive.\" Sau 20 shots, review xem quyết định có consistent với   |
-| assessment không. Drill này build meta-awareness về fuzzy variables.  |
-+-----------------------------------------------------------------------+
+| **🎯 Drill: Fuzzy self-assessment** |
+| --- |
+|  |
+| Sau mỗi shot trong drill, người chơi nói to điểm số trên thang 1-10 |
+| cho mỗi biến: \"Bóng đó: vị trí 7, balance 8, tôi đánh 6/10 |
+| aggressive.\" Sau 20 shots, review xem quyết định có consistent với |
+| assessment không. Drill này build meta-awareness về fuzzy variables. |
+
 
 **4. Entropy Trong Tennis --- Kiểm Soát Mức Độ Hỗn Loạn**
 
@@ -215,15 +215,15 @@ tạo entropy cho đối thủ (vì đối thủ phải tạo shot và có thể
 khi giữ entropy của mình thấp (vì shot nhất quán ít error). Đây không
 phải tennis thụ động --- đây là entropy management thông minh.
 
-+-----------------------------------------------------------------------+
-| **🎯 Entropy check trong rally**                                      |
-|                                                                       |
-| Tự hỏi sau mỗi point: \"Rally đó ai đang tạo ra nhiều uncertainty     |
-| hơn?\" Nếu đối thủ liên tục khiến bạn không chắc chắn phải làm gì →   |
-| họ đang manage entropy tốt hơn. Nếu bạn liên tục đẩy đối thủ vào      |
-| position khó → bạn đang win entropy battle. Điểm số chỉ là kết quả    |
-| của entropy battle.                                                   |
-+-----------------------------------------------------------------------+
+| **🎯 Entropy check trong rally** |
+| --- |
+|  |
+| Tự hỏi sau mỗi point: \"Rally đó ai đang tạo ra nhiều uncertainty |
+| hơn?\" Nếu đối thủ liên tục khiến bạn không chắc chắn phải làm gì → |
+| họ đang manage entropy tốt hơn. Nếu bạn liên tục đẩy đối thủ vào |
+| position khó → bạn đang win entropy battle. Điểm số chỉ là kết quả |
+| của entropy battle. |
+
 
 **5. Chiến Lược Entropy --- Năm Trạng Thái và Cách Chuyển Đổi**
 
@@ -289,15 +289,15 @@ and volley trong tie-break** --- đây là entropy shock thuần túy. Đối th
 deal với một game plan hoàn toàn khác. Shock này thường làm đối thủ sai
 ngay cả những shot đơn giản vì model của họ bị broken hoàn toàn.
 
-+-----------------------------------------------------------------------+
-| **🎯 Entropy timing**                                                 |
-|                                                                       |
-| Disruption entropy hiệu quả nhất khi đối thủ đang ở đỉnh rhythm ---   |
-| không phải khi họ đang tệ (vì họ đã đang bị disrupted). Nếu đối thủ   |
-| đang đánh tệ, maintain defensive entropy và chờ họ sai. Nếu đối thủ   |
-| đang đánh tốt và bạn cảm thấy bị áp lực, đây là lúc deploy            |
-| disruption.                                                           |
-+-----------------------------------------------------------------------+
+| **🎯 Entropy timing** |
+| --- |
+|  |
+| Disruption entropy hiệu quả nhất khi đối thủ đang ở đỉnh rhythm --- |
+| không phải khi họ đang tệ (vì họ đã đang bị disrupted). Nếu đối thủ |
+| đang đánh tệ, maintain defensive entropy và chờ họ sai. Nếu đối thủ |
+| đang đánh tốt và bạn cảm thấy bị áp lực, đây là lúc deploy |
+| disruption. |
+
 
 **6. Spin Như Công Cụ Entropy --- Tạo Bất Định Cho Đối Thủ**
 
@@ -355,15 +355,15 @@ vì họ không bị surprise bởi bounce. Đây là kỹ năng build được 
 với nhiều loại spin khác nhau và feedback ngay lập tức về dự đoán của
 mình.
 
-+-----------------------------------------------------------------------+
-| **🎯 Spin entropy drill**                                             |
-|                                                                       |
+| **🎯 Spin entropy drill** |
+| --- |
+|  |
 | Coach feed luân phiên topspin và slice mà không báo trước. Người chơi |
-| phải nói to \"top\" hoặc \"slice\" trước khi bóng bounce. Sau 10      |
-| bóng, tỉ lệ đúng là baseline. Mục tiêu sau 4 tuần: đạt \> 80% spin    |
-| recognition accuracy. Drill này train cả spin recognition (giảm       |
-| self-entropy) lẫn appreciation của spin variety (hiểu entropy tool).  |
-+-----------------------------------------------------------------------+
+| phải nói to \"top\" hoặc \"slice\" trước khi bóng bounce. Sau 10 |
+| bóng, tỉ lệ đúng là baseline. Mục tiêu sau 4 tuần: đạt \> 80% spin |
+| recognition accuracy. Drill này train cả spin recognition (giảm |
+| self-entropy) lẫn appreciation của spin variety (hiểu entropy tool). |
+
 
 **7. Fuzzy Decision Making Dưới Áp Lực --- Khi Không Có Thời Gian Tính
 Toán**
@@ -425,15 +425,15 @@ thường xuyên (movement patterns, serve placement theo pattern) để giải
 phóng processing cho quyết định tactical quan trọng hơn. Đây chính là lý
 do tại sao các tầng 1-3 cần được internalized trước khi học tầng 4-5.
 
-+-----------------------------------------------------------------------+
-| **🎯 Pressure decision drill**                                        |
-|                                                                       |
-| Rally ngắn (5 bóng), nhưng trong khi rally người chơi phải đồng thời  |
-| nói to màu sắc mà coach chỉ (ví dụ coach giơ tay màu đỏ hoặc xanh).   |
-| Dual task này tăng cognitive load và reveal chất lượng quyết định     |
-| dưới áp lực. Người chơi giỏi duy trì shot quality dù cognitive load   |
-| tăng --- người mới thả chất lượng shot ngay khi phải đa nhiệm.        |
-+-----------------------------------------------------------------------+
+| **🎯 Pressure decision drill** |
+| --- |
+|  |
+| Rally ngắn (5 bóng), nhưng trong khi rally người chơi phải đồng thời |
+| nói to màu sắc mà coach chỉ (ví dụ coach giơ tay màu đỏ hoặc xanh). |
+| Dual task này tăng cognitive load và reveal chất lượng quyết định |
+| dưới áp lực. Người chơi giỏi duy trì shot quality dù cognitive load |
+| tăng --- người mới thả chất lượng shot ngay khi phải đa nhiệm. |
+
 
 **8. Liên Hệ Thái Cực Quyền --- Hư Thực (虛實) và Nghệ Thuật Bất Định**
 
@@ -464,15 +464,15 @@ phá vỡ bằng shot ngược lại (Hư chuyển Thực). Đây là nghệ thu
 thể dạy bằng drill đơn giản --- nó đòi hỏi nhận thức cao về entropy
 state và pattern library của đối thủ.
 
-+-----------------------------------------------------------------------+
-| **🎯 Hư Thực trong serve**                                            |
-|                                                                       |
-| Drill: serve 3 lần vào T, 1 lần vào Wide --- nhưng body preparation   |
-| và ball toss giống hệt nhau cả 4 lần. Mục tiêu: khi video review,     |
+| **🎯 Hư Thực trong serve** |
+| --- |
+|  |
+| Drill: serve 3 lần vào T, 1 lần vào Wide --- nhưng body preparation |
+| và ball toss giống hệt nhau cả 4 lần. Mục tiêu: khi video review, |
 | không thể phân biệt 3 T và 1 Wide từ toss và body language. Đây là Hư |
-| Thực trong serve --- tạo entropy tối đa cho returner bằng cách loại   |
-| bỏ mọi telltale sign.                                                 |
-+-----------------------------------------------------------------------+
+| Thực trong serve --- tạo entropy tối đa cho returner bằng cách loại |
+| bỏ mọi telltale sign. |
+
 
 **9. Cảm Giác Đúng --- Nhận Biết Entropy Của Trận Đấu**
 
@@ -510,15 +510,15 @@ là một trong những trải nghiệm thú vị nhất trong tennis đỉnh ca
 - **Panic shot dưới áp lực:** Thay vì chuyển sang defensive entropy, cố
   đánh winner không cần thiết.
 
-+-----------------------------------------------------------------------+
-| **🎯 Entropy journal**                                                |
-|                                                                       |
-| Sau mỗi match, viết 3 dòng: (1) Ai đang control entropy trong set 1?  |
-| (2) Khi nào entropy balance thay đổi và tại sao? (3) Shot hoặc        |
+| **🎯 Entropy journal** |
+| --- |
+|  |
+| Sau mỗi match, viết 3 dòng: (1) Ai đang control entropy trong set 1? |
+| (2) Khi nào entropy balance thay đổi và tại sao? (3) Shot hoặc |
 | pattern nào tạo ra entropy hiệu quả nhất cho mình, và đối thủ? Sau 10 |
-| matches, những pattern này sẽ trở thành insight cụ thể về game của    |
-| mình.                                                                 |
-+-----------------------------------------------------------------------+
+| matches, những pattern này sẽ trở thành insight cụ thể về game của |
+| mình. |
+
 
 **10. Bài Tập và KPI --- Đánh Giá Tầng 5**
 
@@ -615,16 +615,16 @@ management --- kiểm soát mức độ chaos của rally một cách có ý th�
                zone                                          
   ------------------------------ ------------- ------------- -------------
 
-+-----------------------------------------------------------------------+
-| **🎯 Nguyên tắc chuyển Tầng 6**                                       |
-|                                                                       |
-| Tầng 6 (Instinct Layer) là nơi tất cả những gì đã học ở Tầng 1-5 bắt  |
-| đầu collapse thành pattern tự động không cần ý thức. Chỉ chuyển lên   |
-| Tầng 6 khi Tầng 5 đủ internalized: người chơi tự nhiên vary spin, tự  |
-| nhiên switch entropy strategy, và tự nhiên ra quyết định fuzzy mà     |
+| **🎯 Nguyên tắc chuyển Tầng 6** |
+| --- |
+|  |
+| Tầng 6 (Instinct Layer) là nơi tất cả những gì đã học ở Tầng 1-5 bắt |
+| đầu collapse thành pattern tự động không cần ý thức. Chỉ chuyển lên |
+| Tầng 6 khi Tầng 5 đủ internalized: người chơi tự nhiên vary spin, tự |
+| nhiên switch entropy strategy, và tự nhiên ra quyết định fuzzy mà |
 | không cần nhắc nhở. Dấu hiệu rõ nhất: người chơi mô tả cảm giác \"chỉ |
-| biết phải làm gì\" trong điểm mà không cần nghĩ.                      |
-+-----------------------------------------------------------------------+
+| biết phải làm gì\" trong điểm mà không cần nghĩ. |
+
 
 **--- Kết thúc Chương 5 ---**
 

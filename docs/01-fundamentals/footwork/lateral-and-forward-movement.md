@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image1.webp)
 
 **Most movement in tennis is lateral or side to side.**
 
@@ -24,7 +23,7 @@ running down a wide forehand, tennis players not only need to get to the
 ball in time but need to be in optimal position to execute the
 stroke.]{.underline}]{.mark}** **[[Lateral movement techniques enable
 you to flow more smoothly into the optimal hitting stance and execute.
-Let\'s look at the lateral movement footwork out to the ball and then
+Let's look at the lateral movement footwork out to the ball and then
 the recovery patterns back toward the middle.]{.underline}]{.mark}**
 
 **Crossover**
@@ -39,8 +38,7 @@ recovery.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image2.webp)
 
 **Players shuffle step on close balls, but the primary footwork pattern
 is the crossover.**
@@ -64,8 +62,7 @@ momentum should become more neutral, centering your balance on the balls
 of the feet.
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image3.webp)
 
 **Slow motion shows you the adjusting steps you can often only hear.**
 
@@ -76,8 +73,8 @@ noises just prior to setting up the stance to strike the ball. But in
 the Tennisplayer slow motion video, it is possible to see them clearly.
 
 **[[The adjustment steps are breaking steps.]{.underline}]{.mark}**
-**[[They slow down the body\'s directional momentum. They are also
-positioning steps, allowing the player\'s feet to set up in an optimal
+**[[They slow down the body's directional momentum. They are also
+positioning steps, allowing the player's feet to set up in an optimal
 hitting stance.]{.underline}]{.mark}** **[[Typically, players take one
 or two adjustment steps to control their momentum. Usually, they then
 take one somewhat larger additional step to position the outside foot
@@ -93,15 +90,14 @@ set up automatically based on the position of the hands in the racket
 preparation in the critical moments before the set
 up.]{.underline}]{.mark}**
 
-**[[On the forehand, if the racket hand reaches out to the player\'s
+**[[On the forehand, if the racket hand reaches out to the player's
 side, the foot will set up beneath it, triggering an open stance. But if
 the right hand goes back behind the body into a deep backswing, the
 right foot will stay back with the right hand. This will cause the left
 foot to set up in a closed stance.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image4.webp)
 
 **Differences in the position of the hand in the backswing trigger
 different stances.**
@@ -130,13 +126,12 @@ moving to the ball and catching it. You can actually do it without the
 glove as well. As you feed wide balls to the forehand the player should
 move out to catch the ball with the glove, then recover after each ball.
 You want to encourage the player to extend their arm and glove out as
-they reach to catch the ball. What you\'ll immediately notice is how
+they reach to catch the ball. What you'll immediately notice is how
 well the player seems to establish the right distance from the ball.
 
 ![A picture containing text, outdoor, player, court Description
 automatically
-generated](media_lateral-and-forward-movement/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image5.webp)
 
 **The baseball glove drill teaches alignment with the outside foot.**
 
@@ -160,15 +155,14 @@ and control as a result of better leverage.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image6.webp)
 
 **With less torso rotation, players frequently hit the one-hander
 closed.**
 
 **Over-Striding**
 
-**[[When your center of gravity is high, it is more likely you\'ll
+**[[When your center of gravity is high, it is more likely you'll
 over-stride in your first step and be much
 slower.]{.underline}]{.mark}** **[[An over-stride occurs when the stride
 length becomes too extended.]{.underline}]{.mark}** **[[This is when the
@@ -189,8 +183,7 @@ the over-striding habit through resistance feedback. ([Click
 Here](http://www.active.com/event_detail.cfm?event_id=1175099)).
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image7.webp)
 
 **Unlike the forehand, advanced players regularly hit the two-hander
 from a closed stance.**
@@ -211,18 +204,17 @@ The closed stance is also common at the level pro on two-handed
 backhands. This is probably due to the fact that the front arm plays an
 important role in the forward swing. This means there is slightly less
 hip rotation compared to the forehand. Because of this the stance
-doesn\'t block the natural rotation pattern as much.
+doesn't block the natural rotation pattern as much.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image8.webp)
 
 **The neutral stance is ideal when you can step forward to hit.**
 
 However, the closed stance on the two-hander is a more advanced
 variation. For players learning to hit the two-hander, a fully closed
-stance can limit a player\'s shot options making it more difficult to go
+stance can limit a player's shot options making it more difficult to go
 crosscourt, especially under pressure. Because of the higher degree of
 torque and twisting of the body must endure, the extreme closed stance
 may also increase the potential for repetitive injury in the lower body.
@@ -244,8 +236,7 @@ play.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image9.webp)
 
 **The pace of the modern game requires pro players to hit open stance.**
 
@@ -264,12 +255,11 @@ transfer.]{.underline}]{.mark}**
 the hit, it is called the open stance.]{.underline}]{.mark}** **[[The
 stance can be either fully or partially open depending on the exact
 position of the foot.]{.mark}]{.underline}** Being able to effectively
-execute from the open stance is a required element in today\'s fast
+execute from the open stance is a required element in today's fast
 paced game on both the forehand and backhand sides.
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_lateral-and-forward-movement/media/image10.webp)\
 **Loading in the open and closed stances.**
 
 **[[On the forehand, for many if not most pro players, the open stance
@@ -289,8 +279,7 @@ soon.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image11.webp)
 
 **The shuffle recovery step is good for covering shorter distances.**
 
@@ -321,8 +310,7 @@ position.]{.underline}]{.mark}**
 
 ![A picture containing athletic game, tennis, sport, person Description
 automatically
-generated](media_lateral-and-forward-movement/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_lateral-and-forward-movement/media/image12.webp)\
 **The combination recovery pattern, the crossover step, followed the
 shuffle step.**
 
@@ -338,8 +326,7 @@ effective.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_lateral-and-forward-movement/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_lateral-and-forward-movement/media/image13.webp)
 
 **Another pro pattern, the cross behind step in the run around
 forehand.**
@@ -349,7 +336,7 @@ forehand.**
 The cross-behind pattern involves the opposite foot crossing behind the
 foot nearest to the direction of movement. This pattern is not used as
 commonly as the crossover. But the cross-behind step is a very versatile
-technique used in more situations than you might think. **[[You\'ll see
+technique used in more situations than you might think. **[[You'll see
 the cross-behind step used to move laterally in the runaround
 forehand.]{.mark} [This technique is also commonly used for the purpose
 of maintaining sideways alignment to the net when moving back to cover
@@ -359,8 +346,7 @@ approach shots.]{.mark}]{.underline}**
 **Forward Sprint Footwork**
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image14.webp)
 
 **On sprints forward in the court, players stay low and limit stride
 length.**
@@ -383,8 +369,7 @@ you can pump the legs.
 **Kick Step**
 
 ![A person playing tennis Description automatically
-generated](media_lateral-and-forward-movement/media/image15.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_lateral-and-forward-movement/media/image15.webp)
 
 **In the kick step, the back foot can appear to actually kick the front
 foot forward.**
@@ -397,27 +382,26 @@ leg, almost kicking the front leg forward.]{.underline}]{.mark}**
 backhand side, to move in a neutral hitting stance one stride forward to
 hit a shorter ball.]{.mark}]{.underline}**
 
-Stay tuned for Part 4 where you\'ll learn about hitting on the move, the
+Stay tuned for Part 4 where you'll learn about hitting on the move, the
 running open stance, the reverse neutral stance, braking techniques and
 other critical information you need to know for quicker recovery.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------+---+
-| ![A person with glasses smiling Description automatically generated with low                                                                                                 | Pat Dougherty has been a biomechanics expert   |   |
-| confidence](media_lateral-and-forward-movement/media/image16.jpeg){width="1.8263888888888888in" | and coach at IMG/Bollettieri Academies for     |   |
-| height="2.04375in"}                                                                                                                                                          | over 20 years, influencing the development of  |   |
-|                                                                                                                                                                              | hundreds of elite junior and pro players from  |   |
-|                                                                                                                                                                              | around the world. As the creator and producer  |   |
-|                                                                                                                                                                              | of the acclaimed Nick Bollettieri              |   |
-|                                                                                                                                                                              | instructional video series, Pat was            |   |
-|                                                                                                                                                                              | responsible for developing the system that has |   |
-|                                                                                                                                                                              | become synonymous with the teaching approach   |   |
-|                                                                                                                                                                              | at the Academy. In this new series for         |   |
-|                                                                                                                                                                              | Tennisplayer, Pat presents for the first time  |   |
-|                                                                                                                                                                              | his concepts and patented training methods for |   |
-|                                                                                                                                                                              | becoming a tennis movement specialist. For     |   |
-|                                                                                                                                                                              | more info on The A.P. Belt developed by Pat at |   |
-|                                                                                                                                                                              | the world famous Bollettieri Academy, [Click   |   |
-|                                                                                                                                                                              | Here](http://www.apbelt.com/).                 |   |
-|                                                                                                                                                                              |                                                |   |
-|                                                                                                                                                                              | Contact Pat directly at: pdougherty@apbelt.com |   |
-+==============================================================================================================================================================================+================================================+===+
+| ![A person with glasses smiling Description automatically generated with low | Pat Dougherty has been a biomechanics expert |  |
+| --- | --- | --- |
+| confidence](media_lateral-and-forward-movement/media/image16.jpeg) | over 20 years, influencing the development of |  |
+|  | hundreds of elite junior and pro players from |  |
+|  | around the world. As the creator and producer |  |
+|  | of the acclaimed Nick Bollettieri |  |
+|  | instructional video series, Pat was |  |
+|  | responsible for developing the system that has |  |
+|  | become synonymous with the teaching approach |  |
+|  | at the Academy. In this new series for |  |
+|  | Tennisplayer, Pat presents for the first time |  |
+|  | his concepts and patented training methods for |  |
+|  | becoming a tennis movement specialist. For |  |
+|  | more info on The A.P. Belt developed by Pat at |  |
+|  | the world famous Bollettieri Academy, [Click |  |
+|  | Here](http://www.apbelt.com/). |  |
+|  |  |  |
+|  | Contact Pat directly at: pdougherty@apbelt.com |  |
+

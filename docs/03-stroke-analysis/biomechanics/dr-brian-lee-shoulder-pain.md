@@ -50,8 +50,7 @@ discomfort when sleeping, and affect range of motion.
 **What Is Shoulder Impingement?**
 
 ![A picture containing background pattern Description automatically
-generated](media_dr-brian-lee-shoulder-pain/media/image1.webp){width="6.5in"
-height="3.65625in"}
+generated](media_dr-brian-lee-shoulder-pain/media/image1.webp)
 
 **Shoulder impingement occurs when the arm is raised (abduction). During
 this motion, the supraspinatus muscle, the bicep muscle tendon, and/or
@@ -139,8 +138,7 @@ people with certain risk factors are more likely to develop it.
   acromion.[^1^](https://www.sports-health.com/sports-injuries/shoulder-injuries/causes-and-risk-factors-shoulder-impingement#vh_footnotes)
 
 ![Animation showing the different shapes of the
-acromion](media_dr-brian-lee-shoulder-pain/media/image2.webp){width="6.0in"
-height="3.373611111111111in"}
+acromion](media_dr-brian-lee-shoulder-pain/media/image2.webp)
 
 ***[[The acromion]{.underline}]{.mark}** is the uppermost part of the
 scapula (shoulder blade). An acromion may be flat, curved, or hooked.*
@@ -399,8 +397,7 @@ in about 2 to 4 months. In some cases, full recovery can take up to a
 year.
 
 ![Brian
-Lee](media_dr-brian-lee-shoulder-pain/media/image3.jpeg){width="1.04375in"
-height="1.461111111111111in"}
+Lee](media_dr-brian-lee-shoulder-pain/media/image3.jpeg)
 
 Dr. Brian Lee is an orthopedic surgeon specializing in the treatment of
 elbow and shoulder conditions at the Kerlan-Jobe Institute at Cedars
@@ -419,8 +416,7 @@ Medicine &
 Nutrition](https://www.thephysiomovement.com.au/category/sports-medicine-nutrition/)**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_dr-brian-lee-shoulder-pain/media/image4.jpeg){width="6.5in"
-height="4.334027777777778in"}
+generated](media_dr-brian-lee-shoulder-pain/media/image4.jpeg)
 
 ## How to Avoid a Tennis Shoulder Injury 
 
@@ -435,8 +431,7 @@ These muscles also act to maintain the head of the upper arm bone
 ### **The rotator cuff muscles include:**
 
 ![Diagram, text Description automatically
-generated](media_dr-brian-lee-shoulder-pain/media/image5.png){width="3.1215277777777777in"
-height="2.3826388888888888in"}
+generated](media_dr-brian-lee-shoulder-pain/media/image5.png)
 
  
 
@@ -468,8 +463,7 @@ upwards and forwards toward an explosive ball impact.
  
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_dr-brian-lee-shoulder-pain/media/image6.png){width="2.0in"
-height="3.1215277777777777in"}
+generated](media_dr-brian-lee-shoulder-pain/media/image6.png)
 
 Serve preparation phase prior to ball impact
 
@@ -482,8 +476,7 @@ forces can cause overload and overuse of the rotator cuff.]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_dr-brian-lee-shoulder-pain/media/image7.png){width="2.3305555555555557in"
-height="3.1215277777777777in"}
+confidence](media_dr-brian-lee-shoulder-pain/media/image7.png)
 
 **Deceleration phase following ball impact**
 
@@ -506,8 +499,7 @@ impact for the tennis serve.
 elevation**
 
 ![A person lifting weights Description automatically generated with low
-confidence](media_dr-brian-lee-shoulder-pain/media/image8.png){width="3.1215277777777777in"
-height="3.1215277777777777in"}
+confidence](media_dr-brian-lee-shoulder-pain/media/image8.png)
 
 **Exercise 1: Banded external rotation at neutral shoulder elevation**
 
@@ -515,8 +507,7 @@ height="3.1215277777777777in"}
 shoulder elevation**
 
 ![A person lifting weights Description automatically generated with low
-confidence](media_dr-brian-lee-shoulder-pain/media/image9.png){width="3.1215277777777777in"
-height="3.1215277777777777in"}** **
+confidence](media_dr-brian-lee-shoulder-pain/media/image9.png)** **
 
 **Exercise 2: Banded external rotation at 90 degrees shoulder
 elevation**
@@ -526,8 +517,7 @@ abduction**
 
 ![A person holding a balloon Description automatically generated with
 medium
-confidence](media_dr-brian-lee-shoulder-pain/media/image10.png){width="2.338888888888889in"
-height="3.1215277777777777in"}
+confidence](media_dr-brian-lee-shoulder-pain/media/image10.png)
 
 **Exercise 3: Swiss Ball wall bounces at 90 degrees abduction**
 

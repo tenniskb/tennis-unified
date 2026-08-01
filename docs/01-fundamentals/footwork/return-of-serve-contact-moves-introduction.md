@@ -6,10 +6,9 @@ Contact Moves Introduction**
 **David Bailey**
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-contact-moves-introduction/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-contact-moves-introduction/media/image1.webp)
 
-**In this series we\'ll see the Contact Moves for world class returns.**
+**In this series we'll see the Contact Moves for world class returns.**
 
 In this new series of articles for Tennisplayer, I will be outlining my
 system for developing world class footwork on the return of serve.
@@ -25,7 +24,7 @@ I will detail the Contact Moves options for all the returns: forehands,
 one-handed backhands, and two-handers.
 
 If you wish, you can see them all for yourself and study them in advance
-by clicking on the examples below I\'ve filmed with two of my students
+by clicking on the examples below I've filmed with two of my students
 who reached the top 100 in the world.
 
 As I have explained in previous articles, I developed the concept of the
@@ -37,8 +36,7 @@ A Contact Move is an conceptual overview that allows us to understand
 the variations top players use and why.
 
 ![Graphical user interface Description automatically generated with low
-confidence](media_return-of-serve-contact-moves-introduction/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image2.webp)
 
 **Click video to study the range of world class return contact moves.**
 
@@ -69,8 +67,7 @@ middle, or at the body?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image3.webp)
 
 **Andre Agassi: perfect footwork makes for effortless, powerful
 returns.**
@@ -106,8 +103,7 @@ court.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image4.webp)
 
 **In the ready position, the shoulders are rotated in line with the
 direction of the oncoming ball.**
@@ -124,19 +120,18 @@ box? And finally, the third factor is the depth of your return position.
 
 Basically, in the ready position your shoulders should be squared to the
 angle of the oncoming ball as it starts towards you from your
-opponent\'s court.
+opponent's court.
 
 This means that your shoulders are rotated slightly toward the server.
 In the deuce court your right shoulder is therefore a little closer to
-the net. In the ad court, it\'s the opposite. Your left shoulder is
+the net. In the ad court, it's the opposite. Your left shoulder is
 slightly closer to the net. If the server moves wider, further away from
 the center T in either court, this angle of the shoulders becomes more
 extreme as well.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image5.webp)
 
 **Midpoint positioning allows you to cover the widest serves you
 opponent is capable of hitting.**
@@ -147,7 +142,7 @@ The left to right positioning is crucial on the return, because when
 correct it gives you the maximum time to react and the minimal distance
 to move. This decision depends upon where your opponent is able to hit
 his serves and how much of the service box he is really able to use in
-both courts. The goal is to bisect the angle of your opponent\'s
+both courts. The goal is to bisect the angle of your opponent's
 greatest possible range. I call this the midpoint recovery position.
 
 The midpoint will be different for different opponents. If the player
@@ -167,8 +162,7 @@ Second, you must be well balanced to attempt this return as it is more
 difficult and risky.
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-contact-moves-introduction/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-contact-moves-introduction/media/image6.webp)
 
 **The recovery is further when you return down the line.**
 
@@ -196,8 +190,7 @@ or the height of the bounce.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image7.webp)
 
 **Players can start behind the baseline, on the baseline, or move up
 inside the court.**
@@ -224,8 +217,7 @@ the ball and is getting ready to serve.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image8.webp)
 
 **Rafael Nadal practices his own unique version of the 5 step return
 progression.**
@@ -240,8 +232,8 @@ hitting stance you choose.
 
 **Step 4 is Responding.** Now execute the actual Contact Move. As we
 will see in the upcoming articles, the Contact Move can be offensive,
-rallying or defensive, depending on the effectiveness of the opponent\'s
-serve and the returning player\'s mindset.
+rallying or defensive, depending on the effectiveness of the opponent's
+serve and the returning player's mindset.
 
 **Step 5 is Recovery.** Good recovery is necessary to prepare for the
 next shot. Recovery when there is movement to the ball can involve a
@@ -258,8 +250,7 @@ every return.
 **Non-Negotiable Elements:**
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-contact-moves-introduction/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-contact-moves-introduction/media/image9.webp)
 
 **The split step: the number one non-negotiable return element.**
 
@@ -283,36 +274,35 @@ Before we move on to the Contact Moves themselves, let me also outline
 some of the most common errors I see on the return, even for high level
 players.
 
-+--------------------------------------------------------------+
-| **Common Return Errors:**                                    |
-+==============================================================+
-| 1.  Not split stepping when the opponent makes contact with  |
-|     the ball.                                                |
-|                                                              |
-| 2.  Not moving the foot closest to the ball first when the   |
-|     ball is a comfortable distance away.                     |
-|                                                              |
-| 3.  Bending at the waist instead at the knees.               |
-|                                                              |
-| 4.  Not shifting sideways with the feet apart when the ball  |
-|     is heading towards the body.                             |
-|                                                              |
-| 5.  Keeping the feet too close together.                     |
-|                                                              |
-| 6.  No routine or rituals.                                   |
-|                                                              |
-| 7.  Standing too far in or too far back to return serve.     |
-|                                                              |
-| 8.  Not practicing the recovery steps when training your     |
-|     return.                                                  |
-|                                                              |
-| 9.  Using the wrong contact move on the wrong ball.          |
-|                                                              |
-| 10. Not moving in to take advantage of a weak second serve.  |
-|                                                              |
-| 11. Side skipping instead of making a crossover step when a  |
-|     large distance needs to be covered quickly.              |
-+--------------------------------------------------------------+
+| **Common Return Errors:** |
+| --- |
+| 1.  Not split stepping when the opponent makes contact with |
+| the ball. |
+|  |
+| 2.  Not moving the foot closest to the ball first when the |
+| ball is a comfortable distance away. |
+|  |
+| 3.  Bending at the waist instead at the knees. |
+|  |
+| 4.  Not shifting sideways with the feet apart when the ball |
+| is heading towards the body. |
+|  |
+| 5.  Keeping the feet too close together. |
+|  |
+| 6.  No routine or rituals. |
+|  |
+| 7.  Standing too far in or too far back to return serve. |
+|  |
+| 8.  Not practicing the recovery steps when training your |
+| return. |
+|  |
+| 9.  Using the wrong contact move on the wrong ball. |
+|  |
+| 10. Not moving in to take advantage of a weak second serve. |
+|  |
+| 11. Side skipping instead of making a crossover step when a |
+| large distance needs to be covered quickly. |
+
 
 A debated point in the discussion of the kinds of complex footwork
 patterns that you find in pro tennis is this: Can they be taught? Or are
@@ -321,8 +311,7 @@ they be developed through systematic coaching?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-contact-moves-introduction/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-contact-moves-introduction/media/image10.webp)
 
 **Are great Contact Moves natural---or developed through coaching---or
 both?**
@@ -331,7 +320,7 @@ The answer is to both questions is yes. Often times players naturally
 get them right. The fact is top professional players used all these
 movement patterns long before I came up with a concept to describe them.
 
-So there is always an argument for not fixing what isn\'t broken. At the
+So there is always an argument for not fixing what isn't broken. At the
 same time, footwork is a critical part of successful tennis at all
 levels, and the majority of players I see struggle with poor patterns of
 movement on some percentage, or even a high percentage of their shots.
@@ -346,11 +335,10 @@ you see that your player is struggling, you can analyze the pattern of
 their Contact Move, and then compare it to the world class patterns
 demonstrated in these articles.
 
-So that\'s it for our introduction. Now get ready to master the 10 key
+So that's it for our introduction. Now get ready to master the 10 key
 Contact Moves to return like the pros!
 
-![](media_return-of-serve-contact-moves-introduction/media/image11.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_return-of-serve-contact-moves-introduction/media/image11.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

@@ -6,8 +6,7 @@
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-forehand-grips/media/image1.webp){width="2.65625in"
-                                                                         height="2.3958333333333335in"}
+   confidence](media_understanding-the-forehand-grips/media/image1.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                   **Extreme forehand grips make it more difficult to develop the mental image of the hand and racquet face.**
 
@@ -15,7 +14,7 @@
 
 In Part 1, we looked at the continental grip, which was once nearly
 universal, but is under utilized by most players, both at the pro and
-the club level. Now let\'s take a look at various forehand grips in
+the club level. Now let's take a look at various forehand grips in
 modern tennis and the key images associated with mastering them and
 incorporating them into your game.
 
@@ -23,7 +22,7 @@ As I said in the first article, **[[the most difficult process in
 understanding grips and grip changes is the visual or mental
 aspect.]{.mark}]{.underline}** Correlation between the position of the
 hand and the angle of the racquet face has to be created visually in the
-mind\'s eye for each grip position.
+mind's eye for each grip position.
 
 This is very difficult when transitioning between two extreme positions
 because visually/mentally they are so different. One of the best reasons
@@ -34,11 +33,11 @@ With the rise of semi-western and western grips, developing images to
 make these transitions is one of the biggest challenges faced by most
 club players.
 
-Since the grip changes are so great, today\'s players have to practice a
+Since the grip changes are so great, today's players have to practice a
 lot with each grip position to acquire clear visual and mental images.
 
 The other mental process to understand about grips is that the image and
-the reality of the contact position don\'t always correlate perfectly.
+the reality of the contact position don't always correlate perfectly.
 Some coaches call this over-compensation**[[. It means the image the
 player develops is more extreme than the reality of the motion. This
 exaggerated image or over-compensation]{.underline}]{.mark}** is used to
@@ -56,14 +55,11 @@ info](http://www.advancedtennis.com).)
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_understanding-the-forehand-grips/media/image2.jpg){width="2.155890201224847in"
-height="2.0006660104986875in"}![A person holding a tennis racket
+confidence](media_understanding-the-forehand-grips/media/image2.jpg)![A person holding a tennis racket
 Description automatically generated with medium
-confidence](media_understanding-the-forehand-grips/media/image3.jpg){width="2.1641666666666666in"
-height="2.0083464566929132in"} ![A person holding a tennis racket
+confidence](media_understanding-the-forehand-grips/media/image3.jpg) ![A person holding a tennis racket
 Description automatically
-generated](media_understanding-the-forehand-grips/media/image4.jpg){width="2.1472703412073493in"
-height="1.9926673228346456in"}
+generated](media_understanding-the-forehand-grips/media/image4.jpg)
 
 **The mental image of the racquet face closed for topspin as it
 approaches the ball. Note: The face is slightly more closed for the
@@ -94,9 +90,7 @@ practice swing, either with their hand or with the racquet, emphasizing
 the closed position of the racquet face (or palm) in the contact zone.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ![A picture containing text Description automatically                                                                   ![](media_understanding-the-forehand-grips/media/image6.jpg){width="2.0833333333333335in"
-   generated](media_understanding-the-forehand-grips/media/image5.jpg){width="2.0833333333333335in"                                                                                 height="3.125in"}
-                                                                                    height="3.125in"}                                                                                    
+                                                                  ![A picture containing text Description automatically                                                                   ![](media_understanding-the-forehand-grips/media/image6.jpg)                                                                                    
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                **The Western grip so common in junior tennis with the hand mostly underneath the handle.**                                                                                          **The less extreme or Semi-Western. Part of the hand is behind and part is underneath.**
 
@@ -112,7 +106,7 @@ tighten up and panic, resulting in an abbreviated swing with an open
 racquet face. For this reason, the closed face image is a common key
 across all the forehands.
 
-Now let\'s look at the grips individually, discuss some of the pluses
+Now let's look at the grips individually, discuss some of the pluses
 and minuses, and note some other images associated with each one.
 
 **The Western Grip**
@@ -123,8 +117,7 @@ popular over the last 15 years among players as well as instructors.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-forehand-grips/media/image7.jpg){width="3.125in"
-                                                                       height="2.1145833333333335in"}
+   generated](media_understanding-the-forehand-grips/media/image7.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                               **Visualizing the racquet head above the wrist corrects the common problem of incorrect positioning at contact.**
 
@@ -156,8 +149,7 @@ difficult and often not achieved very successfully.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-forehand-grips/media/image8.webp){width="2.5833333333333335in"
-                                                                              height="2.3958333333333335in"}
+   confidence](media_understanding-the-forehand-grips/media/image8.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   **The western is a "swing away" grip, which causes problems below the highest levels.**
 
@@ -187,8 +179,7 @@ today.]{.mark}]{.underline}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-forehand-grips/media/image9.jpg){width="3.1458333333333335in"
-                                                                              height="2.1458333333333335in"}
+   generated](media_understanding-the-forehand-grips/media/image9.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                            **When the racquet head and hand are either too late or late, this image of the racquet head above the wrist corrects the problem.**
 
@@ -209,8 +200,7 @@ producing errors both into the net and out of the court.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person playing tennis Description automatically generated with medium
-   confidence](media_understanding-the-forehand-grips/media/image10.webp){width="2.6770833333333335in"
-                                                                               height="2.2604166666666665in"}
+   confidence](media_understanding-the-forehand-grips/media/image10.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       **With his Semi-Western grip, Agassi can hit flatter and penetrate the court.**
 
@@ -239,8 +229,7 @@ in match situations then these grip positions are not for you.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                ![A person holding a tennis racket Description automatically
-   generated](media_understanding-the-forehand-grips/media/image11.jpg){width="3.1458333333333335in"
-                                                                              height="2.1458333333333335in"}
+   generated](media_understanding-the-forehand-grips/media/image11.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            **The modern Eastern grip puts most of the hand behind the handle.**
 
@@ -270,8 +259,7 @@ slightly more vertical swing path when needed.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person playing tennis Description automatically generated with low
-   confidence](media_understanding-the-forehand-grips/media/image12.webp){width="2.6354166666666665in"
-                                                                               height="2.4166666666666665in"}
+   confidence](media_understanding-the-forehand-grips/media/image12.webp)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            **With the Eastern grip, learning to hit on the rise is a necessity.**
 
@@ -294,29 +282,28 @@ player of today has become faster and more fit creating a need for a
 more varied game\--a player who can do it all. If you want to be that
 kind of player, then learning the necessary grips should be your highest
 priority. Being able to transition between grips is difficult, but
-necessary to reach one\'s potential.
+necessary to reach one's potential.
 
-Next, we\'ll look at the transitions and images for the backhand grips,
+Next, we'll look at the transitions and images for the backhand grips,
 for both the one-handed and two-handed player.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                                            | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_understanding-the-forehand-grips/media/image13.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                                         | numerous ranked junior players and coached  |
-|                                                                                                                                                                                        | a series of championship high school teams. |
-|                                                                                                                                                                                        | He was highly ranked both sectionally and   |
-|                                                                                                                                                                                        | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                                        |                                             |
-|                                                                                                                                                                                        | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                                        | the John Yandell Tennis School in San       |
-|                                                                                                                                                                                        | Francisco, California Kerry and his partner |
-|                                                                                                                                                                                        | are now splitting time between homes in     |
-|                                                                                                                                                                                        | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                                        | continued to coach and to have great        |
-|                                                                                                                                                                                        | competitive success winning Canadian        |
-|                                                                                                                                                                                        | National seniors titles---not to mention    |
-|                                                                                                                                                                                        | continuing to write articles for            |
-|                                                                                                                                                                                        | Tennisplayer from his unique perspective.   |
-+========================================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_understanding-the-forehand-grips/media/image13.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

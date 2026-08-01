@@ -9,29 +9,28 @@
 In the first article, we looked at the use of the opposite arm in the
 groundstrokes. ([Click
 Here](The%20Opposite%20Arm%20-%20Ground%20strokes%20-%20Part%201.docx).)
-Now I\'ll discuss what I feel is the correct usage of the opposite arm
+Now I'll discuss what I feel is the correct usage of the opposite arm
 on the serve, overhead, the return of serve, and the volley. As in part
-one, all the descriptions will be for right-handers. Let\'s start with
+one, all the descriptions will be for right-handers. Let's start with
 the serve!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image1.webp)
 
 **Key factors: the lift, angle, and extension of the opposite arm.**
 
 I mentioned in the first article that the forehand has the most
 incorrect uses of the opposite arm. Well, the serve is a very close
 second! For starters, the non-racket arm is the tossing arm, and poor
-tosses are the Achilles heel of many a player. A player\'s service swing
+tosses are the Achilles heel of many a player. A player's service swing
 model can be a thing of beauty, but if his tosses are consistently
-inaccurate, the model won\'t be utilized effectively.
+inaccurate, the model won't be utilized effectively.
 
 **The Toss**
 
 To what degree does the way you hold the ball affect the accuracy of
 your toss? There is a range of ways good tossers hold the ball in their
-hand, anyone of which may work for you. **[[What\'s most important is
+hand, anyone of which may work for you. **[[What's most important is
 the momentum or lift from the arm, followed by the angle of the arm, and
 also, the relative inactivity of the wrist.]{.underline}]{.mark}**
 Another factor is the spreading of the fingers as the ball is released.
@@ -39,15 +38,14 @@ My suggestion is to **[[hold the ball so that the middle of the ball
 rests between the top two joints of your fingers.]{.mark}]{.underline}**
 The little finger stays pretty much unattached throughout, but obviously
 that can vary from player to player. If you move the ball more towards
-the fingertips, you\'ll be more inclined to snap your wrist back towards
+the fingertips, you'll be more inclined to snap your wrist back towards
 you when you release. This creates excessive spin which can lead to loss
 of control and disrupts what should be a very relaxed, deliberate
 movement.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing tennis, athletic game, sport, ball Description automatically
-  generated](media_the-opposite-arm-other-strokes-part2/media/image2.jpg){width="4.166666666666667in"
-  height="2.78125in"}
+  generated](media_the-opposite-arm-other-strokes-part2/media/image2.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **My suggestion: ball between the top two joints**
 
@@ -57,30 +55,29 @@ Some players hold the ball much further toward the palm, but you rarely
 see this with world class players. Goran Ivanisevic is an exception. He
 also had a very low toss by modern standards, and I suspect this low
 toss corresponds with that type of ball position deeper in the palm. I
-think to a great extent the ball\'s connection with the fingers is what
+think to a great extent the ball's connection with the fingers is what
 helps control the toss.
 
-One style I don\'t recommend is holding the ball with the palm down.
-Don\'t laugh, some players have been known to do this, but I haven\'t
-seen one yet who didn\'t have tossing problems because of the extra
+One style I don't recommend is holding the ball with the palm down.
+Don't laugh, some players have been known to do this, but I haven't
+seen one yet who didn't have tossing problems because of the extra
 motion it requires.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+generated](media_the-opposite-arm-other-strokes-part2/media/image3.webp)\
 \
 **The tossing arm drops down as far as the inside of the leg.**
 
-At the beginning of the service motion, I think it\'s best to keep
+At the beginning of the service motion, I think it's best to keep
 things simple and that means a more or less straight tossing arm. As the
 motion begins, the tossing should drop to some significant degree. The
-drop can be as far as to actually touch the mid thigh. It doesn\'t
+drop can be as far as to actually touch the mid thigh. It doesn't
 necessarily have to go that far, but it should probably go at least
 halfway.
 
 This is so the motion creates sufficient lift as the arm comes up. You
 could start, as some servers do, with the arm already dropped, but then
-you don\'t get the rhythmic down and up motion. This can make the toss
+you don't get the rhythmic down and up motion. This can make the toss
 jerky and rushed. Servers who start with the tossing hand too high are
 also in trouble. You see players who have the ball at chest height or
 higher. They usually only drop the hand a few inches before starting it
@@ -93,16 +90,15 @@ erratic toss.
 **The point at which the ball is released will also vary among the top
 players.** **[[It can be anywhere between shoulder height and head
 height.]{.underline}]{.mark}** I like to use [[**\"eye level or
-above**\"]{.underline}]{.mark} as a reference point. But from what I\'ve
+above**\"]{.underline}]{.mark} as a reference point. But from what I've
 observed, most lower-level players release the ball lower than this,
 somewhere between waist and mid chest. With this lower release, the ball
 tends to shoot substantially forward. But holding on too long can also
-be a problem There\'s a point above eye level where the release will
+be a problem There's a point above eye level where the release will
 cause the ball will go over your shoulder and behind you.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image4.webp)
 
 **Release between the shoulder and the top of the head.**
 
@@ -118,7 +114,7 @@ The angle of the tossing arm to the baseline is very important, as John
 has pointed out in the Roger Federer serve articles. ([Click
 Here](../../Stroke%20Analysis/Advanced%20Tennis/John%20Yandell-Roger%20Federer%20Serve%20-%20Part1.docx).)
 From the bottom of the drop the arm comes up pointing at an angle across
-the baseline. It doesn\'t point straight at the net as is so commonly
+the baseline. It doesn't point straight at the net as is so commonly
 taught. For some players like Sampras it can point almost directly at
 the side fence! The exact angle will depend on the contact point the
 player develops, and how far left or right he positions the ball.
@@ -132,13 +128,12 @@ ball. **[[The full extension of the tossing motion is critical to the
 positioning of the upper body.]{.underline}]{.mark}** **Once the player
 reaches extension, he will [[maintain this position for a fraction of a
 second.]{.mark} [Note how the shoulders are slanted. This will happen
-automatically if the tossing motion extends, and it isn\'t really
+automatically if the tossing motion extends, and it isn't really
 possible unless it does.]{.mark}]{.underline}**
 
 ![A picture containing tennis, racket, court, person Description
 automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image5.webp)
 
 **The opposite arm folds and then leads the follow-through.**
 
@@ -148,9 +143,9 @@ relax and then release down into the midsection with an approximately 90
 degree bend at the elbow. This acts to slow down the trunk thereby
 accelerating the arm and racket.]{.mark}]{.underline}** Though some
 players will leave the tossing arm in this folded position all the way
-to the serve\'s conclusion, **[[more commonly the left arm will lead the
+to the serve's conclusion, **[[more commonly the left arm will lead the
 racket into the follow through. This should happen naturally if the arm
-is just relaxed. (It\'s actually somewhat similar to the pace car/race
+is just relaxed. (It's actually somewhat similar to the pace car/race
 car on the forehand.)]{.underline}]{.mark}**
 
 [**[One common misuse of the tossing arm is to drop it rapidly the
@@ -162,10 +157,10 @@ disrupt the rhythm of the serve.]{.underline}]{.mark}**
 
 **True Serving**
 
-To reinforce everything I\'ve discussed here I strongly recommend you
+To reinforce everything I've discussed here I strongly recommend you
 check out the Music Videos section and watch the \"[True
 Serving](http://www.tennisplayer.net/members/music_videos/true_serving/true_serving_large.html)\"
-segment. It\'s incredibly pleasurable to watch, but it\'s also a really
+segment. It's incredibly pleasurable to watch, but it's also a really
 great way to see the range of acceptable options. This may help you
 match your choices to your serving style. I also guarantee that just
 watching the video a few times will improve your serving. I know because
@@ -173,13 +168,11 @@ after watching True Serving about 10 times for this article, I had a
 phenomenal serving outing against one of my favorite opponents,
 irritating him no end!
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                             | ![A person holding a tennis racket Description automatically                                                                                                                             | ![A person playing tennis Description automatically generated with medium                                                                                                                 |
-| generated](media_the-opposite-arm-other-strokes-part2/media/image6.jpg){width="1.7715266841644794in" | generated](media_the-opposite-arm-other-strokes-part2/media/image7.jpg){width="2.1354166666666665in" | confidence](media_the-opposite-arm-other-strokes-part2/media/image8.jpg){width="1.8533792650918635in" |
-| height="2.8430839895013125in"}                                                                                                                                                           | height="2.8333333333333335in"}                                                                                                                                                           | height="2.838834208223972in"}                                                                                                                                                             |
-+:========================================================================================================================================================================================:+:========================================================================================================================================================================================:+:=========================================================================================================================================================================================:+
-| **Three good ways to prepare on the overhead.**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically | ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically generated with medium |
+| --- | --- | --- |
+| generated](media_the-opposite-arm-other-strokes-part2/media/image6.jpg) |  |  |
+| **Three good ways to prepare on the overhead.** |  |  |
+
 
 **Overhead**
 
@@ -188,7 +181,7 @@ similar to that of the serve. But the preparation is different. There
 are a few options.
 
 - **[Probably the most common is to [fully extend the arm as you turn
-  sideways]{.underline} and [track the ball with it until it\'s time to
+  sideways]{.underline} and [track the ball with it until it's time to
   swing]{.underline}.]{.mark}**
 
 - **[Another option would be to [keep the non-racket hand on the racket
@@ -205,8 +198,7 @@ body as you would on a serve. These are really preferences and none
 seems to have an advantage in the quality of the ball.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image9.webp)
 
 **The opposite arm on the overhead and the backhand overhead.**
 
@@ -227,13 +219,12 @@ the non-racket hand to physically assist in the grip
 change.]{.mark}]{.underline}** I actually like this position for a
 two-hander as well, again because of the light grip pressure it
 encourages. If you try it, just remember to immediately slide the hand
-down for a backhand, and make sure you don\'t have a gap in the grip.
+down for a backhand, and make sure you don't have a gap in the grip.
 Some two-handers will struggle with this move, and since it is more
-complex, don\'t be afraid to wait with both hands together in the
+complex, don't be afraid to wait with both hands together in the
 two-handed grip if that works better for you.
 
-![](media_the-opposite-arm-other-strokes-part2/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-opposite-arm-other-strokes-part2/media/image10.webp)
 
 **The hand stays on the racket and the left arm goes across.**
 
@@ -259,22 +250,21 @@ swing.]{.underline}]{.mark}**
 
 On second serves that are moving substantially slower, the non racket
 arm can extend further. This is particularly true if you decide to move
-back as many pros now do and take a fuller swing. (See Nick\'s Return
+back as many pros now do and take a fuller swing. (See Nick's Return
 article in this issue. Click Here.) If, however, you chose to move up
 and attack the second serve, the left arm pattern will again be more
 compact, due to the lack of time and the abbreviated backswing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-opposite-arm-other-strokes-part2/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-opposite-arm-other-strokes-part2/media/image11.webp)
 
 **The opposition of the back arm on a drive and a slice return.**
 
 With the one handed backhand returns the left arm should move back in
 the opposite direction of the forward swing to prevent the shoulders
 from over-rotating. This also allows the racket to move in a more direct
-line to the target. It\'s the same principle on both the topspin and
+line to the target. It's the same principle on both the topspin and
 slice returns. The exact distance the arm moves back will vary from one
 player to the next but keeping the shoulders sideways to the target is
 largely dependent on this movement of the arm.
@@ -293,17 +283,16 @@ ensuring that the volley is solid and balanced.
 As with the groundstrokes, you should support the racket with the left
 hand by holding it at the throat. This actually spaces the hands
 correctly for the movement of the stroke motion. Using the left hand
-will also be very helpful if you\'re a player who changes grips. (Yikes!
+will also be very helpful if you're a player who changes grips. (Yikes!
 Work on the continental grip, please!)
 
-![](media_the-opposite-arm-other-strokes-part2/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+![](media_the-opposite-arm-other-strokes-part2/media/image12.webp)
 
 **The unit turn is subtle, but critical.**
 
 **[[On the forehand volley, as noted, the extent to which the left hand
 stays on the racket is minimal compared to the groundstroke. But it is
-critical that the hands don\'t separate too soon.]{.mark} [The brief
+critical that the hands don't separate too soon.]{.mark} [The brief
 unit turn gets the shoulders into the shot and can keep you from arming
 the ball with a huge swing.]{.mark}]{.underline}** **[[Turning with both
 hands briefly on the racket is a subtle move, and one that is sadly
@@ -316,8 +305,8 @@ racket hand follows. Too many volleyers have the same problem with their
 left arm that they have on their groundstroke. As they volley, the left
 arm will either move the wrong direction across the body, straight up in
 the air, dramatically to the left. or drop like a dead weight. All of
-these disrupt balance. I\'ve seen players try putting their left hand in
-their pocket to solve these problems but then they don\'t turn at all
+these disrupt balance. I've seen players try putting their left hand in
+their pocket to solve these problems but then they don't turn at all
 and \"solve\" one problem while creating another.
 
 To work on these changes, I suggest you hit tons of orchestrated
@@ -330,15 +319,14 @@ the volley almost perfectly. Next rally at slow speeds. You can progress
 from there to drills, game simulations, and matches.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image13.webp)
 
 **The backhand volley\--a more compact backhand slice.**
 
 **The Backhand Volley**
 
 **[[The backhand volley is really just a smaller version of the slice
-backhand groundstroke.]{.underline}]{.mark}** **[[Unless there\'s
+backhand groundstroke.]{.underline}]{.mark}** **[[Unless there's
 absolutely no time, some shoulder rotation is
 imperative.]{.underline}]{.mark}** But like the turn on the forehand,
 the extent is usually less than on a groundstroke. **[[Just like the
@@ -346,14 +334,13 @@ slice backhand, the left hand stays on the throat until the moment the
 racket is pulled forward, and then the left arm moves back to keep the
 shoulders sideways to the net.]{.underline}]{.mark}**
 
-So that\'s it! We\'ve been around the world with the opposite arm! I
-hope these two articles have shed light on an aspect of the game that\'s
+So that's it! We've been around the world with the opposite arm! I
+hope these two articles have shed light on an aspect of the game that's
 often overlooked but in my opinion is critical for anyone who wants
 complete technical strokes that can take their game to the next level.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-opposite-arm-other-strokes-part2/media/image14.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-opposite-arm-other-strokes-part2/media/image14.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -367,7 +354,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

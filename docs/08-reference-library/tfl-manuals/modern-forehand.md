@@ -37,19 +37,19 @@ directly on the previous one.
                       causes of errors          
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Reading Icons Used Throughout This Book**                           |
-|                                                                       |
-| PHASE BOX \| A numbered movement phase with key mechanical cue        |
-|                                                                       |
-| KEY MUSCLES \| The primary movers and stabilisers for that action     |
-|                                                                       |
-| COACHING CUE \| A simple verbal or feel-based instruction             |
-|                                                                       |
-| COMMON ERROR \| What goes wrong and why                               |
-|                                                                       |
-| DRILL \| A targeted practice activity                                 |
-+-----------------------------------------------------------------------+
+| **Reading Icons Used Throughout This Book** |  |
+| --- | --- |
+|  |  |
+| PHASE BOX \ | A numbered movement phase with key mechanical cue |
+|  |  |
+| KEY MUSCLES \ | The primary movers and stabilisers for that action |
+|  |  |
+| COACHING CUE \ | A simple verbal or feel-based instruction |
+|  |  |
+| COMMON ERROR \ | What goes wrong and why |
+|  |  |
+| DRILL \ | A targeted practice activity |
+
 
 Anatomy terms are introduced plain-English first, with the scientific
 name following in parentheses. You do not need a medical background.
@@ -72,21 +72,21 @@ of cracking a whip: the handle moves first, the energy travels along
 each section, and the tip accelerates to its peak speed last. Your
 forehand works on exactly this principle.
 
-+-----------------------------------------------------------------------+
-| **The Six Links of the Forehand Chain**                               |
-|                                                                       |
-| 1\. Feet & Ankles --- ground contact, first push-off force            |
-|                                                                       |
-| 2\. Knees & Thighs --- leg drive and weight transfer                  |
-|                                                                       |
-| 3\. Hips & Pelvis --- rotational power generator                      |
-|                                                                       |
-| 4\. Core & Trunk --- force transfer and stabilisation bridge          |
-|                                                                       |
-| 5\. Shoulder Complex --- arm elevation, cocking, internal rotation    |
-|                                                                       |
-| 6\. Elbow, Wrist & Hand --- final acceleration and contact control    |
-+-----------------------------------------------------------------------+
+| **The Six Links of the Forehand Chain** |
+| --- |
+|  |
+| 1\. Feet & Ankles --- ground contact, first push-off force |
+|  |
+| 2\. Knees & Thighs --- leg drive and weight transfer |
+|  |
+| 3\. Hips & Pelvis --- rotational power generator |
+|  |
+| 4\. Core & Trunk --- force transfer and stabilisation bridge |
+|  |
+| 5\. Shoulder Complex --- arm elevation, cocking, internal rotation |
+|  |
+| 6\. Elbow, Wrist & Hand --- final acceleration and contact control |
+
 
 Research on elite players consistently shows that more than 50 percent
 of total racket-head speed originates from the legs and hips. The arm
@@ -197,24 +197,24 @@ system as on muscular strength.
                          initiation: \~200 ms in elite players
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Chapter 1 Key Takeaways**                                           |
-|                                                                       |
-| Power comes from the ground up --- legs and hips generate more than   |
-| half of racket-head speed.                                            |
-|                                                                       |
-| The kinetic chain must fire sequentially (proximal-to-distal), not    |
-| all at once.                                                          |
-|                                                                       |
-| The stretch-shortening cycle amplifies force: load fast, transition   |
-| quickly.                                                              |
-|                                                                       |
-| Each swing is phosphagen-powered; match endurance is aerobically      |
-| supported.                                                            |
-|                                                                       |
-| Timing and coordination are nervous-system skills, improved by        |
-| repetitive correct practice.                                          |
-+-----------------------------------------------------------------------+
+| **Chapter 1 Key Takeaways** |
+| --- |
+|  |
+| Power comes from the ground up --- legs and hips generate more than |
+| half of racket-head speed. |
+|  |
+| The kinetic chain must fire sequentially (proximal-to-distal), not |
+| all at once. |
+|  |
+| The stretch-shortening cycle amplifies force: load fast, transition |
+| quickly. |
+|  |
+| Each swing is phosphagen-powered; match endurance is aerobically |
+| supported. |
+|  |
+| Timing and coordination are nervous-system skills, improved by |
+| repetitive correct practice. |
+
 
 **Chapter 2 --- Anatomy of the Forehand**
 
@@ -253,17 +253,17 @@ amplifies. Weakness here cannot be compensated by a stronger arm.
   Soleus)                contact
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Why Hip Mobility Matters**                                          |
-|                                                                       |
-| Tight hip flexors tilt the pelvis forward (anterior tilt),            |
-| compressing the lower back and reducing the range                     |
-|                                                                       |
-| of trunk rotation available. Stretching hip flexors daily is one of   |
-| the highest-return flexibility investments                            |
-|                                                                       |
-| for a tennis player seeking more forehand power.                      |
-+-----------------------------------------------------------------------+
+| **Why Hip Mobility Matters** |
+| --- |
+|  |
+| Tight hip flexors tilt the pelvis forward (anterior tilt), |
+| compressing the lower back and reducing the range |
+|  |
+| of trunk rotation available. Stretching hip flexors daily is one of |
+| the highest-return flexibility investments |
+|  |
+| for a tennis player seeking more forehand power. |
+
 
 **2.2 Hip & Core: The Force Transfer Zone**
 
@@ -337,21 +337,21 @@ humerus centred in the socket.
   Trapezius              winging under load
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **The Rotator Cuff Paradox**                                          |
-|                                                                       |
-| The four rotator cuff muscles (SITS: Supraspinatus, Infraspinatus,    |
-| Teres minor, Subscapularis) are small,                                |
-|                                                                       |
-| but they must perform two opposite jobs simultaneously during the     |
-| forehand: stabilise the joint AND                                     |
-|                                                                       |
-| produce high-speed internal rotation. Training them in isolation      |
-| (bands, light dumbbells) and in functional                            |
-|                                                                       |
-| patterns (medicine ball throws, cable rotations) is non-negotiable    |
-| for injury prevention.                                                |
-+-----------------------------------------------------------------------+
+| **The Rotator Cuff Paradox** |
+| --- |
+|  |
+| The four rotator cuff muscles (SITS: Supraspinatus, Infraspinatus, |
+| Teres minor, Subscapularis) are small, |
+|  |
+| but they must perform two opposite jobs simultaneously during the |
+| forehand: stabilise the joint AND |
+|  |
+| produce high-speed internal rotation. Training them in isolation |
+| (bands, light dumbbells) and in functional |
+|  |
+| patterns (medicine ball throws, cable rotations) is non-negotiable |
+| for injury prevention. |
+
 
 **2.4 Elbow, Wrist & Hand: The Fine-Tuning Unit**
 
@@ -380,20 +380,20 @@ face. Small muscles here perform large tasks relative to their size.
                          important in buggy-whip finish
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Tennis Elbow (Lateral Epicondylalgia) --- A Biomechanical View**    |
-|                                                                       |
-| Tennis elbow is NOT caused by the backhand alone. Leading with the    |
-| arm on the forehand without                                           |
-|                                                                       |
+| **Tennis Elbow (Lateral Epicondylalgia) --- A Biomechanical View** |
+| --- |
+|  |
+| Tennis elbow is NOT caused by the backhand alone. Leading with the |
+| arm on the forehand without |
+|  |
 | adequate hip and trunk rotation overloads the wrist extensors and the |
-| lateral epicondyle. The primary                                       |
-|                                                                       |
-| fix is biomechanical: restore correct proximal-to-distal sequencing.  |
-| Wrist extensor strengthening                                          |
-|                                                                       |
-| and eccentric loading exercises accelerate tissue recovery.           |
-+-----------------------------------------------------------------------+
+| lateral epicondyle. The primary |
+|  |
+| fix is biomechanical: restore correct proximal-to-distal sequencing. |
+| Wrist extensor strengthening |
+|  |
+| and eccentric loading exercises accelerate tissue recovery. |
+
 
 **2.5 Full Muscle Map Summary**
 
@@ -428,15 +428,15 @@ each with a specific mechanical goal. Mastering each phase independently
 before combining them is the fastest path to a reliable, powerful
 stroke.
 
-+:------:+-------------------------------------------------------------------+
-| **P1** | **Ready Position**                                                |
-|        |                                                                   |
-|        | Weight on the balls of both feet. Knees bent 20--30 degrees.      |
-|        | Racket held in the non-dominant hand at the throat. Shoulders     |
-|        | relaxed. Gaze focused on the opponent\'s contact zone, not the    |
-|        | ball. This position pre-activates the leg muscles and shortens    |
-|        | reaction time.                                                    |
-+--------+-------------------------------------------------------------------+
+| **P1** | **Ready Position** |
+| --- | --- |
+|  |  |
+|  | Weight on the balls of both feet. Knees bent 20--30 degrees. |
+|  | Racket held in the non-dominant hand at the throat. Shoulders |
+|  | relaxed. Gaze focused on the opponent's contact zone, not the |
+|  | ball. This position pre-activates the leg muscles and shortens |
+|  | reaction time. |
+
 
 **3.1 Phase 1 --- Ready Position & Split Step**
 
@@ -462,18 +462,18 @@ ready to explode.
   Racket position        Throat cradled in non-dominant hand; arm relaxed
                          to save shoulder fatigue
 
-  Eye gaze               Watch the opponent\'s contact zone; peripheral
+  Eye gaze               Watch the opponent's contact zone; peripheral
                          vision tracks the ball arc
   -----------------------------------------------------------------------
 
-+:------:+-------------------------------------------------------------------+
-| **P2** | **Unit Turn & Backswing**                                         |
-|        |                                                                   |
-|        | The moment the ball is identified as a forehand, hips and         |
-|        | shoulders rotate together as one unit. The racket drops into the  |
-|        | backswing loop. The non-dominant arm extends outward for balance  |
-|        | and coiling.                                                      |
-+--------+-------------------------------------------------------------------+
+| **P2** | **Unit Turn & Backswing** |
+| --- | --- |
+|  |  |
+|  | The moment the ball is identified as a forehand, hips and |
+|  | shoulders rotate together as one unit. The racket drops into the |
+|  | backswing loop. The non-dominant arm extends outward for balance |
+|  | and coiling. |
+
 
 **3.2 Phase 2 --- Unit Turn & Backswing**
 
@@ -507,25 +507,25 @@ through gravity assist.
                          your side
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Coaching Cue --- \'Scratch Your Back\'**                            |
-|                                                                       |
-| On the backswing, the butt cap of the racket should point toward the  |
-| incoming ball at the bottom of the                                    |
-|                                                                       |
-| loop. Think of trying to scratch the back of your hitting-shoulder    |
-| with the butt cap. This ensures the                                   |
-|                                                                       |
-| racket face drops correctly and sets up the upward brush at contact.  |
-+-----------------------------------------------------------------------+
+| **Coaching Cue --- 'Scratch Your Back'** |
+| --- |
+|  |
+| On the backswing, the butt cap of the racket should point toward the |
+| incoming ball at the bottom of the |
+|  |
+| loop. Think of trying to scratch the back of your hitting-shoulder |
+| with the butt cap. This ensures the |
+|  |
+| racket face drops correctly and sets up the upward brush at contact. |
 
-+:------:+-------------------------------------------------------------------+
-| **P3** | **Loading & Weight Transfer**                                     |
-|        |                                                                   |
-|        | The body coils onto the back leg (or into the court in open       |
-|        | stance), storing elastic energy in the trunk muscles. Knee bend   |
-|        | deepens. This is the spring being compressed.                     |
-+--------+-------------------------------------------------------------------+
+
+| **P3** | **Loading & Weight Transfer** |
+| --- | --- |
+|  |  |
+|  | The body coils onto the back leg (or into the court in open |
+|  | stance), storing elastic energy in the trunk muscles. Knee bend |
+|  | deepens. This is the spring being compressed. |
+
 
 **3.3 Phase 3 --- Loading & Weight Transfer**
 
@@ -547,14 +547,14 @@ loads eccentrically rather than transferring weight linearly.
                          rotation
   -----------------------------------------------------------------------
 
-+:------:+-------------------------------------------------------------------+
-| **P4** | **Forward Swing & Contact**                                       |
-|        |                                                                   |
-|        | Hips lead the chain: they rotate before the shoulders, the        |
-|        | shoulders before the arm, the arm before the wrist. The racket    |
-|        | head accelerates from low to high. Contact is made in front of    |
-|        | the body with a firm but relaxed wrist.                           |
-+--------+-------------------------------------------------------------------+
+| **P4** | **Forward Swing & Contact** |
+| --- | --- |
+|  |  |
+|  | Hips lead the chain: they rotate before the shoulders, the |
+|  | shoulders before the arm, the arm before the wrist. The racket |
+|  | head accelerates from low to high. Contact is made in front of |
+|  | the body with a firm but relaxed wrist. |
+
 
 **3.4 Phase 4 --- Forward Swing & Contact**
 
@@ -584,28 +584,28 @@ angle at contact determines both direction and spin.
                          consistent
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Coaching Cue --- \'Hips Before Hands\'**                            |
-|                                                                       |
-| Feel the hip on the dominant side clear the ball before the racket    |
-| arrives at contact. If the hand leads                                 |
-|                                                                       |
-| the hip, power is lost and errors increase. If the hip leads          |
-| correctly, the arm is simply dragged through                          |
-|                                                                       |
-| by the rotational momentum --- effortless speed.                      |
-+-----------------------------------------------------------------------+
+| **Coaching Cue --- 'Hips Before Hands'** |
+| --- |
+|  |
+| Feel the hip on the dominant side clear the ball before the racket |
+| arrives at contact. If the hand leads |
+|  |
+| the hip, power is lost and errors increase. If the hip leads |
+| correctly, the arm is simply dragged through |
+|  |
+| by the rotational momentum --- effortless speed. |
 
-+:------:+-------------------------------------------------------------------+
-| **P5** | **Follow-Through**                                                |
-|        |                                                                   |
-|        | After contact the racket continues upward and crosses the body.   |
-|        | The finish position shows the racket over the non-dominant        |
-|        | shoulder (traditional) or looping up past the ear on the          |
-|        | hitting-shoulder side (buggy-whip). The follow-through is not     |
-|        | decorative --- it absorbs energy safely and reveals the quality   |
-|        | of the swing.                                                     |
-+--------+-------------------------------------------------------------------+
+
+| **P5** | **Follow-Through** |
+| --- | --- |
+|  |  |
+|  | After contact the racket continues upward and crosses the body. |
+|  | The finish position shows the racket over the non-dominant |
+|  | shoulder (traditional) or looping up past the ear on the |
+|  | hitting-shoulder side (buggy-whip). The follow-through is not |
+|  | decorative --- it absorbs energy safely and reveals the quality |
+|  | of the swing. |
+
 
 **3.5 Phase 5 --- Follow-Through & Recovery**
 
@@ -660,15 +660,15 @@ ideal learning grip because it produces a natural, flat contact and
 allows the student to feel correct swing mechanics without compensating
 for a closed face.
 
-+-----------------------------------------------------------------------+
-| **Eastern Grip --- Pros & Cons**                                      |
-|                                                                       |
-| PROS: Natural contact point; easy low ball; excellent for flat        |
-| drives; transition to volleys is simple                               |
-|                                                                       |
-| CONS: Limited topspin ceiling; high balls require adjustment; less    |
-| margin over the net                                                   |
-+-----------------------------------------------------------------------+
+| **Eastern Grip --- Pros & Cons** |
+| --- |
+|  |
+| PROS: Natural contact point; easy low ball; excellent for flat |
+| drives; transition to volleys is simple |
+|  |
+| CONS: Limited topspin ceiling; high balls require adjustment; less |
+| margin over the net |
+
 
 **4.2 Semi-Western Grip**
 
@@ -677,15 +677,15 @@ modern professional tennis. The closed face naturally guides the racket
 into an upward brushing path, producing reliable topspin without extreme
 wrist extension. Contact is best between waist and shoulder height.
 
-+-----------------------------------------------------------------------+
-| **Semi-Western Grip --- Pros & Cons**                                 |
-|                                                                       |
-| PROS: Natural topspin production; large strike zone from waist to     |
-| shoulder; manageable for most surfaces                                |
-|                                                                       |
+| **Semi-Western Grip --- Pros & Cons** |
+| --- |
+|  |
+| PROS: Natural topspin production; large strike zone from waist to |
+| shoulder; manageable for most surfaces |
+|  |
 | CONS: Low balls require significant knee bend; transition to slice is |
-| slower; true flat balls require adjustment                            |
-+-----------------------------------------------------------------------+
+| slower; true flat balls require adjustment |
+
 
 **4.3 Western Grip**
 
@@ -694,15 +694,15 @@ demanding that the player brush steeply upward to avoid hitting the net.
 It produces extremely heavy topspin and excels on high-bouncing clay
 court balls. Rafael Nadal uses a grip close to this extreme.
 
-+-----------------------------------------------------------------------+
-| **Western Grip --- Pros & Cons**                                      |
-|                                                                       |
-| PROS: Explosive heavy topspin; dominates on high bouncing balls;      |
-| pushes opponents behind the baseline                                  |
-|                                                                       |
-| CONS: Vulnerable to low slices and short balls; physically demanding  |
-| on wrist and forearm; minimal flat-ball capability                    |
-+-----------------------------------------------------------------------+
+| **Western Grip --- Pros & Cons** |
+| --- |
+|  |
+| PROS: Explosive heavy topspin; dominates on high bouncing balls; |
+| pushes opponents behind the baseline |
+|  |
+| CONS: Vulnerable to low slices and short balls; physically demanding |
+| on wrist and forearm; minimal flat-ball capability |
+
 
 **4.4 Transitioning Between Grips**
 
@@ -766,20 +766,20 @@ linear weight transfer. All power comes from hip and trunk rotation.
 This is the dominant stance in modern tennis because it allows faster
 recovery.
 
-+-----------------------------------------------------------------------+
-| **Open Stance Mechanics in Detail**                                   |
-|                                                                       |
-| 1\. Landing: outside foot plants wide, knee bent to 30--45 degrees,   |
-| hip loaded eccentrically                                              |
-|                                                                       |
-| 2\. Push: outside leg drives upward and inward as hips rotate         |
-|                                                                       |
-| 3\. Hip-shoulder separation: hips lead by 40--60 degrees before       |
-| shoulders follow                                                      |
-|                                                                       |
-| 4\. Recovery: the outside leg simply continues rotating; two shuffle  |
-| steps return to centre                                                |
-+-----------------------------------------------------------------------+
+| **Open Stance Mechanics in Detail** |
+| --- |
+|  |
+| 1\. Landing: outside foot plants wide, knee bent to 30--45 degrees, |
+| hip loaded eccentrically |
+|  |
+| 2\. Push: outside leg drives upward and inward as hips rotate |
+|  |
+| 3\. Hip-shoulder separation: hips lead by 40--60 degrees before |
+| shoulders follow |
+|  |
+| 4\. Recovery: the outside leg simply continues rotating; two shuffle |
+| steps return to centre |
+
 
 Common misconception: open stance produces less power than closed
 stance. Elite biomechanical studies show open-stance forehands generate
@@ -804,18 +804,18 @@ forehands. It combines some linear drive with full rotational mechanics.
   Open                   Pure rotation
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Stance Selection Decision Tree**                                    |
-|                                                                       |
-| Ball arriving with time to step in → Closed or Semi-Open              |
-|                                                                       |
-| Ball on the run to the dominant side → Open                           |
-|                                                                       |
-| Short ball pulled into the court → Semi-Open with aggressive step     |
-|                                                                       |
-| Wide ball pushed to the sideline → Open with extreme outside-foot     |
-| loading                                                               |
-+-----------------------------------------------------------------------+
+| **Stance Selection Decision Tree** |
+| --- |
+|  |
+| Ball arriving with time to step in → Closed or Semi-Open |
+|  |
+| Ball on the run to the dominant side → Open |
+|  |
+| Short ball pulled into the court → Semi-Open with aggressive step |
+|  |
+| Wide ball pushed to the sideline → Open with extreme outside-foot |
+| loading |
+
 
 **Chapter 6 --- Topspin Mechanics & Physics**
 
@@ -880,8 +880,8 @@ must drive an upward swing path.
   through the ball
 
 - Forearm pronation at contact rotates the face forward and downward,
-  which from the ball\'s frame of reference is an upward brush on the
-  ball\'s back surface
+  which from the ball's frame of reference is an upward brush on the
+  ball's back surface
 
 - Wrist snap adds the final upward whip; the wrist flexes from extension
   into flexion through contact
@@ -902,18 +902,18 @@ must drive an upward swing path.
   heavy spin             
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Training Tip --- The Brush Feeling**                                |
-|                                                                       |
-| Hold the racket loosely (grip pressure 4 out of 10) and hit           |
-| slow-motion forehands feeling the strings                             |
-|                                                                       |
-| \'brush\' up the back of the ball from 6 o\'clock to 12 o\'clock.     |
-| Once you can feel this consistently, add                              |
-|                                                                       |
+| **Training Tip --- The Brush Feeling** |
+| --- |
+|  |
+| Hold the racket loosely (grip pressure 4 out of 10) and hit |
+| slow-motion forehands feeling the strings |
+|  |
+| 'brush' up the back of the ball from 6 o'clock to 12 o'clock. |
+| Once you can feel this consistently, add |
+|  |
 | pace progressively. Heavy topspin players describe contact as hitting |
-| \'the top half\' of the ball.                                         |
-+-----------------------------------------------------------------------+
+| 'the top half' of the ball. |
+
 
 **Chapter 7 --- Advanced & Specialty Shots**
 
@@ -925,7 +925,7 @@ or follow-through.
 **7.1 The Inside-Out Forehand**
 
 The inside-out forehand is hit from the backhand corner of the court
-toward the opponent\'s backhand (ad court) corner. The player runs
+toward the opponent's backhand (ad court) corner. The player runs
 around their backhand, takes the ball on the dominant side, and directs
 it cross-court or down the line from that position.
 
@@ -954,18 +954,18 @@ ball is directed down the dominant-side line rather than cross-court.
 This is a higher-risk, higher-reward shot because the player is hitting
 behind themselves and the opponent is expecting the cross-court.
 
-+-----------------------------------------------------------------------+
-| **Tactical Use of Inside-In vs Inside-Out**                           |
-|                                                                       |
-| Inside-Out: Use when opponent is centred or leaning to the ad side.   |
-| Pushes them wide.                                                     |
-|                                                                       |
+| **Tactical Use of Inside-In vs Inside-Out** |
+| --- |
+|  |
+| Inside-Out: Use when opponent is centred or leaning to the ad side. |
+| Pushes them wide. |
+|  |
 | Inside-In: Use when the opponent over-compensates for the inside-out, |
-| drifting to the ad side.                                              |
-|                                                                       |
-| The threat of both creates the \'forehand weapon\' tactical dynamic   |
-| used by Federer and Djokovic.                                         |
-+-----------------------------------------------------------------------+
+| drifting to the ad side. |
+|  |
+| The threat of both creates the 'forehand weapon' tactical dynamic |
+| used by Federer and Djokovic. |
+
 
 **7.3 The Buggy-Whip Forehand**
 
@@ -1070,7 +1070,7 @@ provides biomechanically grounded corrections.
   Ball consistently into Swing path too vertical; racket face closed
   the net                
 
-  Off-centre contact     Elbow too close to body; arm \'chickenwings\'
+  Off-centre contact     Elbow too close to body; arm 'chickenwings'
 
   Loss of control on     Wrist too loose at contact
   fast balls             
@@ -1087,7 +1087,7 @@ provides biomechanically grounded corrections.
   Inconsistent direction Follow-through not replicating swing path
   -----------------------------------------------------------------------
 
-**8.2 The \'Arm Only\' Pattern**
+**8.2 The 'Arm Only' Pattern**
 
 The single most common error at every level is using the arm as the
 primary power source, bypassing the legs and hips. Signs: the player
@@ -1095,21 +1095,21 @@ stands almost upright through the swing; the hips face the net before
 contact; the shoulder pulls across the body before the hip clears; there
 is visible effort and tension in the arm.
 
-+-----------------------------------------------------------------------+
-| **Drill to Break the Arm-Only Pattern**                               |
-|                                                                       |
-| Stand with your back against a fence, close enough that a backswing   |
-| will touch it. Now hit forehands                                      |
-|                                                                       |
-| from this position using only hip rotation to drive the racket. You   |
-| cannot use a backswing, so the                                        |
-|                                                                       |
-| power MUST come from the hips. Once you feel this correctly, step     |
-| away from the fence and add the                                       |
-|                                                                       |
-| backswing gradually. This ingrains hip initiation before arm          |
-| movement.                                                             |
-+-----------------------------------------------------------------------+
+| **Drill to Break the Arm-Only Pattern** |
+| --- |
+|  |
+| Stand with your back against a fence, close enough that a backswing |
+| will touch it. Now hit forehands |
+|  |
+| from this position using only hip rotation to drive the racket. You |
+| cannot use a backswing, so the |
+|  |
+| power MUST come from the hips. Once you feel this correctly, step |
+| away from the fence and add the |
+|  |
+| backswing gradually. This ingrains hip initiation before arm |
+| movement. |
+
 
 **8.3 The Wrist-Flick Pattern**
 
@@ -1212,18 +1212,18 @@ increases injury risk.
   Rice Bucket (fingers)  All intrinsic hand muscles
   -----------------------------------------------------------------------
 
-+-----------------------------------------------------------------------+
-| **Periodisation Note**                                                |
-|                                                                       |
-| Off-season: emphasise strength (3--6 rep ranges, heavier loads).      |
-| Pre-season: shift to power (med ball, plyometric                      |
-|                                                                       |
-| upper body, speed-endurance). In-season: maintenance volume (30--40%  |
-| of off-season); prioritise recovery.                                  |
-|                                                                       |
-| Never introduce a new exercise in the first week of a tournament      |
-| preparation block.                                                    |
-+-----------------------------------------------------------------------+
+| **Periodisation Note** |
+| --- |
+|  |
+| Off-season: emphasise strength (3--6 rep ranges, heavier loads). |
+| Pre-season: shift to power (med ball, plyometric |
+|  |
+| upper body, speed-endurance). In-season: maintenance volume (30--40% |
+| of off-season); prioritise recovery. |
+|  |
+| Never introduce a new exercise in the first week of a tournament |
+| preparation block. |
+
 
 **Chapter 10 --- Training Progressions: Beginner to Elite**
 
@@ -1257,7 +1257,7 @@ stage.
 Goals: add topspin, introduce stance variations, develop consistency
 under mild pressure.
 
-6.  Hip-Lead Drill: Place a cone at the contact zone. Hip must \'pass\'
+6.  Hip-Lead Drill: Place a cone at the contact zone. Hip must 'pass'
     the cone before the racket arrives.
 
 7.  Open-Stance Basket Feed: Coach feeds to the right side; player sets
@@ -1301,7 +1301,7 @@ match-specific patterns.
     must hit accurate topspin forehand on every ball. No rests.
 
 17. Situation-Specific Point Play: Coach assigns tactical scenarios
-    (e.g., \'hit inside-in when opponent moves left\'). Points scored on
+    (e.g., 'hit inside-in when opponent moves left'). Points scored on
     execution, not winning.
 
 18. Video Frame Analysis: Review slow-motion footage after every
@@ -1344,24 +1344,24 @@ forehand.
   **Phase**           **Key Position            **Feel Cue**
                       Checkpoint**              
   ------------------- ------------------------- -------------------------
-  P1 Ready            Weight on ball of feet;   \'Ready spring\'
+  P1 Ready            Weight on ball of feet;   'Ready spring'
                       knees bent 20 deg; racket 
                       at throat                 
 
-  P2 Backswing        Shoulder turned 60 deg;   \'Scratch the back\'
+  P2 Backswing        Shoulder turned 60 deg;   'Scratch the back'
                       racket tip below ball     
                       height; elbow 90 deg      
 
-  P3 Loading          Hip-shoulder separation   \'Coil the spring\'
+  P3 Loading          Hip-shoulder separation   'Coil the spring'
                       40--60 deg; weight on     
                       outside leg; knee bent    
 
-  P4 Contact          Hips cleared before       \'Hips lead hands\'
+  P4 Contact          Hips cleared before       'Hips lead hands'
                       racket; contact in front  
                       of lead hip; wrist        
                       neutral-firm              
 
-  P5 Follow-through   Full arm deceleration;    \'Let it go fully\'
+  P5 Follow-through   Full arm deceleration;    'Let it go fully'
                       racket finishes above     
                       opposite shoulder or      
                       same-side ear             
@@ -1503,7 +1503,7 @@ primary forehand role.
                          hamstrings over-compensate as hip extensors
 
   Concentric Contraction Muscle shortens while producing force; the
-                         \'lifting\' phase of any movement
+                         'lifting' phase of any movement
 
   Eccentric Contraction  Muscle lengthens while producing force; the
                          loading / deceleration phase
@@ -1512,6 +1512,6 @@ primary forehand role.
                          downward; critical for topspin brush at contact
 
   Lateral Epicondylalgia Overuse condition of the wrist extensor tendons
-                         at the lateral elbow; commonly called \'tennis
-                         elbow\'
+                         at the lateral elbow; commonly called 'tennis
+                         elbow'
   -----------------------------------------------------------------------

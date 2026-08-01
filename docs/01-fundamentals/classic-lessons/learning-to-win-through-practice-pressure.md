@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_learning-to-win-through-practice-pressure/media/image1.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_learning-to-win-through-practice-pressure/media/image1.webp)
 
 **How do you learn to play your game at critical moments?**
 
@@ -25,7 +24,7 @@ to improve basic strategic elements\--serving accurately under pressure,
 hitting more consistent volleys, and playing winning point geometry.
 ([Click Here](On%20Your%20Mark,%20Get%20Set,%20Go%20Slow.docx)).
 
-Now let\'s delve a little deeper into the psychological realm. In this
+Now let's delve a little deeper into the psychological realm. In this
 article I want to present three more very powerful practice games. Play
 them for a while and you will likely find out something new about
 yourself, or specifically, why you fail at crunch time and how to
@@ -44,8 +43,7 @@ my game at the critical moments?
 
 ![A person in a red shirt Description automatically generated with
 medium
-confidence](media_learning-to-win-through-practice-pressure/media/image2.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_learning-to-win-through-practice-pressure/media/image2.webp)
 
 **Learn to win by practicing under pressure!**
 
@@ -82,8 +80,7 @@ comfortable playing your game, whether it is offensive, defensive, or
 some combination of the two.
 
 ![A person holding a tennis racket Description automatically
-generated](media_learning-to-win-through-practice-pressure/media/image3.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_learning-to-win-through-practice-pressure/media/image3.webp)
 
 **As the aggressor, find a way to win the point in 5 shots---or less.**
 
@@ -97,7 +94,7 @@ means he hits his serve and must win the point within, at most, the next
 four balls.
 
 The player can win with any strategic style, from the baseline or the
-net, or a combination. The style doesn\'t matter.
+net, or a combination. The style doesn't matter.
 
 The goal here is create a sense of urgency---the sense that under
 pressure you have to play your game and go for your shots. If you
@@ -110,14 +107,13 @@ become over anxious, or change a winning game.
 
 This game drill forces that mentality because to win a point he needs to
 get 5 balls back regardless of what the opponent is doing or his own
-temptation to rush. When that 5th ball goes over the net, it\'s a great
+temptation to rush. When that 5th ball goes over the net, it's a great
 feeling to catch the next one knowing you have accomplished this goal.
 
 ![A person holding a tennis racket Description automatically
-generated](media_learning-to-win-through-practice-pressure/media/image4.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_learning-to-win-through-practice-pressure/media/image4.webp)
 
-**Hit the fifth ball in the court and it\'s your point.**
+**Hit the fifth ball in the court and it's your point.**
 
 With this game you can also vary the number of balls to win the point.
 Fewer balls put more pressure on the server. More balls put more
@@ -143,17 +139,16 @@ called "Do Over.\"
 Each player serves a game, with the score starting at deuce. Play a
 regular set. Each player is allowed to replay only three points.
 
-Like those children\'s fairy tales where three wishes are granted, it\'s
+Like those children's fairy tales where three wishes are granted, it's
 important to choose the right three points and not waste your replays on
 lesser opportunities. Have fun with it, and after losing a point, raise
 your hand to signal the do over. Almost as if you were appealing to shot
 spot in a pro match.
 
 ![A person playing tennis Description automatically
-generated](media_learning-to-win-through-practice-pressure/media/image5.webp){width="3.3333333333333335in"
-height="1.875in"}
+generated](media_learning-to-win-through-practice-pressure/media/image5.webp)
 
-**It\'s a great feeling when you know you have a do over!**
+**It's a great feeling when you know you have a do over!**
 
 The first big benefit here is recognition. This drill will help you
 understand intuitively what points are the big points during a set. You
@@ -162,7 +157,7 @@ deuce!
 
 Over time you will find that you thought you had chosen the right moment
 for a do over, only to find that a much more important opportunity came
-along when you needed that do over back but didn\'t have the option.
+along when you needed that do over back but didn't have the option.
 
 The other benefit is desensitization. Because you have practiced having
 a second chance at critical junctions over and over, you will develop
@@ -190,8 +185,7 @@ thing you know, you have lost that momentum?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_learning-to-win-through-practice-pressure/media/image6.webp){width="3.3333333333333335in"
-height="1.875in"}
+confidence](media_learning-to-win-through-practice-pressure/media/image6.webp)
 
 **Can you win five service points in a row ---and then one more on
 return?**
@@ -199,7 +193,7 @@ return?**
 This can happen at all levels of play because you are heading into new
 territory but without deep confidence you will reach your goal. This
 makes you ripe for the reversal. Suddenly one little thing goes wrong
-and it\'s all downhill.
+and it's all downhill.
 
 The drill game that I call The Finisher will help you address this
 issue. Each player serves five points in a row, with the first point
@@ -211,20 +205,20 @@ player to get to 21 total points wins.
 
 If all goes well, you can win this game by winning six points in a row.
 That would be 5 points on your serve, then the final point as a return
-point on your opponent\'s.
+point on your opponent's.
 
 The opposing player, of course, must make every effort to stop this from
 happening. The key is to win as many points against serve as possible,
 thereby cutting off the increased point value of winning consecutive
 points.
 
-It\'s well known that in the overwhelming majority of matches, the
+It's well known that in the overwhelming majority of matches, the
 player who simply wins the most total points wins. ([Click
 Here](https://www.tennisplayer.net/members/strategy/john_yandell/understanding_statistics/Yandell_Statistics_Forced_Error_images/Yandell_Statistics_Forced_Error.html).)
 These drill games teach you the value of every point!
 
-Practice should never be dull! Playing the drills games I\'ve outlined
-in the last two articles makes sure that doesn\'t happen. They make it
+Practice should never be dull! Playing the drills games I've outlined
+in the last two articles makes sure that doesn't happen. They make it
 fun. But more important, these games create the benefit players think
 they achieve in practice, but so rarely do. They teach you how to win
 under pressure.
@@ -233,8 +227,7 @@ There are more variations to come! Stay tuned.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person with a beard and mustache Description automatically generated with low                                                                                                                 Rod Heckelman has been the general manager of
-  confidence](media_learning-to-win-through-practice-pressure/media/image7.jpeg){width="1.7166666666666666in"   the famed Mt. Tam Racquet Club in Marin County,
-  height="2.3583333333333334in"}                                                                                                                                                                    California for the last 30 years. He was
+  confidence](media_learning-to-win-through-practice-pressure/media/image7.jpeg)                                                                                                                                                                    California for the last 30 years. He was
                                                                                                                                                                                                     formerly the youngest head pro at the John
                                                                                                                                                                                                     Gardner Tennis Ranch in Scottsdale, Arizona,
                                                                                                                                                                                                     and has been ranked numerous times in Northern

@@ -11,8 +11,7 @@ of that moment are one reason why people love tennis.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-string-bed-and-the-pro-contact-point/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-string-bed-and-the-pro-contact-point/media/image1.webp)
 
 **How many balls do the top players actually hit dead center?**
 
@@ -37,17 +36,16 @@ with the string bed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-string-bed-and-the-pro-contact-point/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-string-bed-and-the-pro-contact-point/media/image2.webp)
 
 **Could it be possible that pro players consciously make contact below
 the center line of the string bed?**
 
 **[What I found out was in one way predictable, but in others quite
-surprising. No, pro players don\'t hit most balls on the lower half of
+surprising. No, pro players don't hit most balls on the lower half of
 the strings. That claim is unfounded.]{.mark}**
 
-But they don\'t hit most balls in the center of the racket either. A
+But they don't hit most balls in the center of the racket either. A
 very small percentage of their forehands are actually in the middle of
 the so-called sweet spot.
 
@@ -56,7 +54,7 @@ forehand - for making contact out closer to the tip.
 
 **The Details**
 
-So let\'s go over in more detail what this surprising study actually
+So let's go over in more detail what this surprising study actually
 showed. In the course of examining these questions, I looked at almost
 300 forehands, spread about equally for each player. In our new High
 Speed Archive ([Click
@@ -73,8 +71,7 @@ directly on this center line, or whether it hit above it(closer to the
 sky) or below it (closer to the court).
 
 ![A person playing tennis Description automatically
-generated](media_the-string-bed-and-the-pro-contact-point/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-string-bed-and-the-pro-contact-point/media/image3.webp)
 
 **One third of all hits were above the center line - about the same as
 the hits that were center and below.**
@@ -96,13 +93,12 @@ matter of an inch or a half inch or less in either direction.
 
 My own conclusion based on this was that the players were trying for the
 center line, and often missed a little up or a little down. But they
-certainly weren\'t trying to hit below center\--or above, for that
+certainly weren't trying to hit below center\--or above, for that
 matter.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-string-bed-and-the-pro-contact-point/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-string-bed-and-the-pro-contact-point/media/image4.webp)
 
 **Only a few balls were hit close to the edges of the frame.**
 
@@ -139,7 +135,7 @@ The following chart tells the tale:
 **Center of the Sweet Spot?**
 
 So my original hypothesis seemed confirmed, but as I plotted out the
-actual contact points, another pattern that I hadn\'t considered started
+actual contact points, another pattern that I hadn't considered started
 to become obvious.
 
   -----------------------------------------------------------------------
@@ -158,7 +154,7 @@ Roger Federer hit 17 forehands dead center out of 85. Rafael Nadal hit
 appeared to be dead center out of 105.
 
 So the total for the top three players in the world was this: looking at
-270 forehands only 34 were hit dead center. That\'s 13%!
+270 forehands only 34 were hit dead center. That's 13%!
 
 When we looked at the top and the bottom, the ball contact points were
 roughly equally divided. But when we looked at the other measure,
@@ -238,14 +234,14 @@ bottom, they were far more successful in controlling the contact point
 and chose more or less specifically to hit nearer the end of the racket
 and above the so-called sweet spot.
 
-There must be some reason for that and I\'m hoping some of our
+There must be some reason for that and I'm hoping some of our
 subscribers can get a discussion going in the Forum about it. To get the
 ball rolling I talked to our contributing writer Geoff Williams, who, if
 you follow his equipment posts, could only be described as an elite,
 world-class gearhead. His thoughts were very interesting.
 
 \"I notice that my string wear is more towards the top of the hoop, in
-between the 4th-6th cross down from the top of the hoop. That\'s where I
+between the 4th-6th cross down from the top of the hoop. That's where I
 break my strings, and those strings show the most notching, and wear, as
 they are more worn down and less shiny when you take a close look at
 them,\" Geoff said.
@@ -266,19 +262,18 @@ infantry that used a 27\" combat sword!\"]{.mark}**
 
 In addition to the similarity in the length of the tennis racket and the
 Roman sword, Geoff went on to make another very interesting observation,
-this one about Federer\'s strings. \"If you look at Federer\'s
+this one about Federer's strings. \"If you look at Federer's
 string-a-ling location, he places ten of them in between the 4th and 6th
 cross down from the top of the hoop.\" Like maybe he was expecting to
 hit more balls closer to the top of the frame?
 
-Maybe Roger was way ahead of this on this one and didn\'t need our study
+Maybe Roger was way ahead of this on this one and didn't need our study
 to figure out where he hit the ball. Let us know if you think this might
 be right or what you think in general in the Forum!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-string-bed-and-the-pro-contact-point/media/image5.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-string-bed-and-the-pro-contact-point/media/image5.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

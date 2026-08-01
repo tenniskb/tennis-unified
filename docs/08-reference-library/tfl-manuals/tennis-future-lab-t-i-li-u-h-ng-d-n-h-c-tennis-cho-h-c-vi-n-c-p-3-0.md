@@ -153,8 +153,7 @@ Chương 3: Giới Thiệu Framework RPM
 *Reactive Perception-Movement --- hệ thống xuyên suốt tài liệu*
 
 ![RPM
-Framework](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image1.png "RPM Framework"){width="6.25in"
-height="3.5208333333333335in"}
+Framework](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image1.png "RPM Framework")
 
 3.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -212,8 +211,7 @@ Chương 4: Đan Điền, Trục Cột Sống & Nội Lực Nền Tảng
 *Nguyên lý nội gia ứng dụng vào tennis*
 
 ![Đan Điền và Trục Cột
-Sống](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image2.png "Đan Điền và Trục Cột Sống"){width="5.552083333333333in"
-height="4.166666666666667in"}
+Sống](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image2.png "Đan Điền và Trục Cột Sống")
 
 4.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -326,8 +324,7 @@ Chương 6: Split Step --- Điểm Nảy Quyết Định Tất Cả
 *Timing, loading và neurological readiness*
 
 ![Split Step
-Timing](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image3.png "Split Step Timing"){width="6.25in"
-height="3.5208333333333335in"}
+Timing](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image3.png "Split Step Timing")
 
 6.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -538,8 +535,7 @@ Chương 10: Kinetic Chain --- Chuỗi Động Lực
 *Dòng chảy năng lượng từ gót chân đến ngón tay*
 
 ![Kinetic Chain and Spiral
-Engine](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image4.png "Kinetic Chain and Spiral Engine"){width="5.552083333333333in"
-height="4.166666666666667in"}
+Engine](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image4.png "Kinetic Chain and Spiral Engine")
 
 10.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -759,8 +755,7 @@ Chương 14: Crossover Step & Recovery
 *Bao sân với số bước ít nhất*
 
 ![Crossover Step and
-Recovery](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image5.png "Crossover Step and Recovery"){width="6.25in"
-height="3.5208333333333335in"}
+Recovery](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image5.png "Crossover Step and Recovery")
 
 14.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -815,8 +810,7 @@ Chương 15: Open Stance vs Closed Stance
 *Lựa chọn tư thế theo quỹ đạo bóng và áp lực thời gian*
 
 ![Open Stance vs Closed
-Stance](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image6.png "Open Stance vs Closed Stance"){width="6.25in"
-height="3.5208333333333335in"}
+Stance](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image6.png "Open Stance vs Closed Stance")
 
 15.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -877,8 +871,7 @@ Chương 16: Run-Around Forehand
 *Di chuyển né trái đánh phải --- vũ khí tấn công từ cánh trái*
 
 ![Run-Around
-Forehand](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image7.png "Run-Around Forehand"){width="6.25in"
-height="3.5208333333333335in"}
+Forehand](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image7.png "Run-Around Forehand")
 
 16.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -932,8 +925,7 @@ Chương 17: Defensive Deep Ball Footwork
 *Tạo lực khi bị đẩy lùi sau baseline*
 
 ![Defensive Deep Ball
-Footwork](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image8.png "Defensive Deep Ball Footwork"){width="6.25in"
-height="3.5208333333333335in"}
+Footwork](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image8.png "Defensive Deep Ball Footwork")
 
 17.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -991,8 +983,7 @@ Chương 18: Winning Patterns --- Xây Kịch Bản Ghi Điểm
 *3 pattern chủ lực và cách luyện tập theo xác suất*
 
 ![Winning Patterns - Serve +
-1](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image9.png "Winning Patterns - Serve + 1"){width="6.25in"
-height="3.5208333333333335in"}
+1](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image9.png "Winning Patterns - Serve + 1")
 
 18.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -1057,8 +1048,7 @@ Chương 19: Cognitive Load Management
 *Lọc nhiễu tư duy khi thi đấu áp lực cao*
 
 ![Cognitive Load
-Management](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image10.png "Cognitive Load Management"){width="6.25in"
-height="3.5208333333333335in"}
+Management](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image10.png "Cognitive Load Management")
 
 19.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 
@@ -1115,8 +1105,7 @@ Chương 20: Hệ Thống Tự Huấn Luyện Dài Hạn
 *Micro-chunking, video feedback và chu kỳ tiến bộ bền vững*
 
 ![Self-Training
-Cycle](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image11.png "Self-Training Cycle"){width="6.25in"
-height="3.5208333333333335in"}
+Cycle](media_tennis-future-lab-t-i-li-u-h-ng-d-n-h-c-tennis-cho-h-c-vi-n-c-p-3-0/media/image11.png "Self-Training Cycle")
 
 20.1. Layer 1 --- Conceptual Model (Mô hình Khái niệm)
 

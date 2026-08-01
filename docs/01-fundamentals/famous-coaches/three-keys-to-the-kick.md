@@ -5,16 +5,15 @@
 **Jeff Salzenstein**
 
 In this article I want to discuss three important factors in developing
-a kick serve, factors that aren\'t always well understood. The first is
+a kick serve, factors that aren't always well understood. The first is
 stance. The second related factor is body turn. The third is the X
 factor. This is the intersecting double arc created by the path of the
 toss and the path of the swing.
 
 ![A person holding a tennis racket Description automatically
-generated](media_three-keys-to-the-kick/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_three-keys-to-the-kick/media/image1.webp)
 
-**Certain factors in developing a great kick serve aren\'t widely
+**Certain factors in developing a great kick serve aren't widely
 understood.**
 
 **Stance**
@@ -23,7 +22,7 @@ Which stance is better to develop an amazing kick serve? There is no
 doubt you can develop a good or even a great kick serve with a pinpoint
 stance as long as a lot of the elements are correct. ([Click
 Here](../Classic%20Lessons/Keys%20to%20the%20Kick%20Serve.docx) for
-Chris Lewit\'s series on the kick based on the Pinpoint.)
+Chris Lewit's series on the kick based on the Pinpoint.)
 
 **[But I believe the platform is better.]{.mark}** Why? I believe
 ***[players with pinpoint stances tend to open their bodies too early.
@@ -40,8 +39,7 @@ timing of the body rotation and create the correct upward racket path.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_three-keys-to-the-kick/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_three-keys-to-the-kick/media/image2.webp)
 
 **I believe the platform model is superior for the kick\--based in part
 on my own experience.**
@@ -80,13 +78,12 @@ the shoulders should turn away from the ball as the motion starts.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_three-keys-to-the-kick/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_three-keys-to-the-kick/media/image3.webp)
 
 **The platform: simpler, more body turn, better shoulder alignment at
 contact.**
 
-[**It\'s also important to note that the [head should stay
+[**It's also important to note that the [head should stay
 forward]{.underline} as the shoulders turn**.]{.mark} Again, the exact
 amount of turn will vary by player and ability.
 
@@ -97,7 +94,7 @@ ball.]{.mark}** A smaller turn means you will tend to swing around too
 soon and too far with both your shoulders and your racket.
 
 If you turn your shoulders less, you can still hit a great slice serve.
-But you can\'t hit a great flat serve and you can\'t hit a great kick.
+But you can't hit a great flat serve and you can't hit a great kick.
 
 Some people like to delay the shoulder turn but I like players to start
 the turn with the first move. This is the way Pete Sampras did it, a
@@ -121,14 +118,13 @@ contact.]{.mark}]{.underline}**
 arcs of the toss and the swing.]{.mark}]{.underline}**
 
 **[[Note that the ball has to drop to create the downward arc in the
-toss.]{.underline}]{.mark}** If it doesn\'t drop or stays too much to
+toss.]{.underline}]{.mark}** If it doesn't drop or stays too much to
 the right to begin with, it will affect the racket path and make the arc
 of the racket to the contact too flat and not enough upward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_three-keys-to-the-kick/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_three-keys-to-the-kick/media/image4.webp)
 
 **The arc of the toss intersects the arc of the swing.**
 
@@ -137,8 +133,8 @@ that your racket is combing the back of your head. This will keep the
 racket head moving up, give you the feeling of brushing the back of the
 ball, and keep it from moving too far around the ball.
 
-You don\'t want to actually hit the back of your head of course. And the
-racket doesn\'t actually come that close. But the image helps many
+You don't want to actually hit the back of your head of course. And the
+racket doesn't actually come that close. But the image helps many
 players steepen the upward swing.
 
 Another way to get the feel for the double arc is to exaggerate it. To
@@ -148,7 +144,7 @@ contact to the left of the body.
 **[[The more the ball is to your left the more you will have to hit
 up.]{.underline}]{.mark}** This more extreme toss can help. **[[But as
 your kick develops, you should work to move the contact back so that
-it\'s over the head.]{.mark}]{.underline}**
+it's over the head.]{.mark}]{.underline}**
 
 Why? **[[In addition to putting pressure on the shoulder, the extreme
 contact point reduces speed and telegraphs the serve that is
@@ -168,15 +164,14 @@ net.
 
 ![A tennis player swings a racket Description automatically generated
 with medium
-confidence](media_three-keys-to-the-kick/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_three-keys-to-the-kick/media/image5.webp)
 
 **Changing where you stand can help you develop a feel for the kick.**
 
 **[To do develop the right arc[, you initially need to slow the pace
 down]{.underline}]{.mark}** and **[focus on the ball path. Think about
 the ball arcing 2 or 3 feet over the net.]{.mark}** See this image in
-your mind\'s eye before you hit.
+your mind's eye before you hit.
 
 **Position**
 
@@ -194,23 +189,22 @@ probably want to find one serving position eventually in each court, but
 sometimes it can still pay to vary it.
 
 Pete Sampras used to stand at the edge of the singles court when he felt
-the returner couldn\'t handle his kick serve to the backhand. Stay with
+the returner couldn't handle his kick serve to the backhand. Stay with
 it and maybe your kick will end up being the same kind of weapon!
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with medium                                                                                           | Jeff Salzenstein is the founder of Tennis        |
-| confidence](media_three-keys-to-the-kick/media/image6.jpeg){width="1.7708333333333333in" | Evolution which offers a complete learning and   |
-| height="2.0in"}                                                                                                                                                             | training program on the web for players of all   |
-|                                                                                                                                                                             | levels. Jeff was an elite American junior player |
-|                                                                                                                                                                             | who went on to become a two time All American at |
-|                                                                                                                                                                             | Stanford. Over the course of his pro career he   |
-|                                                                                                                                                                             | won 5 Challenger titles, played in the main draw |
-|                                                                                                                                                                             | at all four Grand Slams, and was ranked in the   |
-|                                                                                                                                                                             | top 100 on the ATP Tour. He has career wins over |
-|                                                                                                                                                                             | players including Fernando Verdasco, Mikhael     |
-|                                                                                                                                                                             | Tillstrom, Jiri Novak, and Greg Rusedski.        |
-|                                                                                                                                                                             |                                                  |
-|                                                                                                                                                                             | To Visit Jeff at Tennis Evolution and Learn More |
-|                                                                                                                                                                             | About His Coaching and Training, [Click          |
-|                                                                                                                                                                             | Here!](http://www.tennisevolution.com)           |
-+=============================================================================================================================================================================+==================================================+
+| ![A person smiling for the camera Description automatically generated with medium | Jeff Salzenstein is the founder of Tennis |
+| --- | --- |
+| confidence](media_three-keys-to-the-kick/media/image6.jpeg) | training program on the web for players of all |
+|  | levels. Jeff was an elite American junior player |
+|  | who went on to become a two time All American at |
+|  | Stanford. Over the course of his pro career he |
+|  | won 5 Challenger titles, played in the main draw |
+|  | at all four Grand Slams, and was ranked in the |
+|  | top 100 on the ATP Tour. He has career wins over |
+|  | players including Fernando Verdasco, Mikhael |
+|  | Tillstrom, Jiri Novak, and Greg Rusedski. |
+|  |  |
+|  | To Visit Jeff at Tennis Evolution and Learn More |
+|  | About His Coaching and Training, [Click |
+|  | Here!](http://www.tennisevolution.com) |
+

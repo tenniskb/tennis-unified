@@ -4,13 +4,12 @@
 
 ------------------------------------------------------------------------
 
-![](media_return-of-serve-points/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+![](media_return-of-serve-points/media/image1.webp)
 
-**It\'s obvious\--though not to a lot of players\--move back to return a
+**It's obvious\--though not to a lot of players\--move back to return a
 big first serve.**
 
-Let\'s now move onto the start of point scenario where you are returning
+Let's now move onto the start of point scenario where you are returning
 serves. If you read the last article on serving ([Click
 Here](Increasing%20Your%20Chances%20of%20Winning%20Points%20on%20Serve.docx)),
 you have an understanding of what an intelligent server is trying to do.
@@ -27,7 +26,7 @@ Ultimately, you want your opponent to have to do more than just make the
 first serve to earn the point. So, getting returns in is crucial.
 **[[Trying risky returns on first serves can lead to cheap points for
 the server. Even strong servers will struggle to serve accurately enough
-that you can\'t get your racket to the ball a decent amount of the
+that you can't get your racket to the ball a decent amount of the
 times.]{.mark}]{.underline}**
 
 **Depth!**
@@ -39,12 +38,11 @@ more time to see the ball and make your return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-points/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_return-of-serve-points/media/image2.webp)
 
 **A deep return should land in the back third of the court.**
 
-This is a point that sounds simple, but I\'m amazed by how often players
+This is a point that sounds simple, but I'm amazed by how often players
 fail to adjust their positioning when struggling with the pace of a
 powerful server.
 
@@ -58,10 +56,10 @@ achieved by taking a short abbreviated swing at the ball, and trying for
 a contact point out in front which allows you to use the pace of the
 incoming serve, and have better control on your return.
 
-In any case, it\'s better to look for that depth than to settle for
+In any case, it's better to look for that depth than to settle for
 simply getting the ball back in. Even if your goal is to make every
 return, good players will take control of the point if you drop the ball
-short. If this is happening it\'s often better to miss a few more
+short. If this is happening it's often better to miss a few more
 returns over the course of the match trying to get depth, than to
 consistently set the server up with short returns.
 
@@ -75,8 +73,7 @@ perhaps risk taking the ball earlier to reduce the time your opponent
 has to close down the net.
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-points/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_return-of-serve-points/media/image3.webp)
 
 **Make a serve and volley player hit a low volley off your return.**
 
@@ -100,18 +97,17 @@ earlier, and increasing your concentration to pick up the direction of
 the ball a fraction earlier.
 
 These skills take time to develop, but with a little added concentration
-you will develop them faster. I promise you\'ll like the results when
+you will develop them faster. I promise you'll like the results when
 you get it right!
 
 ![A person in an orange shirt Description automatically generated with
 low
-confidence](media_return-of-serve-points/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-points/media/image4.webp)
 
 **Work to make your split step a fraction earlier.**
 
 That concludes the start of point scenarios involving first serves going
-in, and they may have provoked a question. What if my opponent isn\'t
+in, and they may have provoked a question. What if my opponent isn't
 skilful enough to trouble me with fast accurate serves? Next, we are
 going to look at second serve returns. And the marginal gains ideas and
 solutions will also apply to weaker first serves.
@@ -122,29 +118,28 @@ When your opponent misses their first serve, this can lead to a world of
 opportunity, but how aware are you of this opportunity, and how to take
 advantage of it?
 
-Let\'s start by thinking about your stronger side, which is probably
+Let's start by thinking about your stronger side, which is probably
 your forehand. When returning strong first serves, the opportunity to
 hit your forehand aggressively can be restricted, due to the direction
-of your opponent\'s serve, as well as the lack of time you have to make
+of your opponent's serve, as well as the lack of time you have to make
 your return. That often changes for second serves, sometimes greatly at
 lower levels where players may have a bullet first serve that rarely
 goes in, and a powder-puff second serve.
 
 The first thing to do is adjust your positioning, based on your
-understanding of your own game, and the game itself. Let\'s say you\'re
+understanding of your own game, and the game itself. Let's say you're
 a right-handed player who favours his forehand. On the deuce side, you
 can afford to move to the left a step or two, and perhaps forwards a
 little bit too.
 
 ![A person in an orange shirt Description automatically generated with
 low
-confidence](media_return-of-serve-points/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-points/media/image4.webp)
 
 **On a second serve, try starting further left in the deuce court.**
 
 This opens up space on your forehand side and makes getting the serve to
-your backhand a tougher task for the server. If your opponent isn\'t
+your backhand a tougher task for the server. If your opponent isn't
 highly skilled, they will have neither the confidence or perhaps the
 skill to send their second serve to the open forehand side in a way that
 will exploit the space. Y
@@ -159,52 +154,50 @@ misses their first serve.
 As the match goes on, you should keep a mental note of what your
 opponent does in response to your second serve positioning, if anything?
 Does he try to exploit the space on the forehand side, and is he at all
-successful? If you aren\'t being troubled, then you can stand even
+successful? If you aren't being troubled, then you can stand even
 another step to your left to return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-points/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_return-of-serve-points/media/image5.webp)
 
 **Another deuce court option---run around the serve to hit forehands.**
 
 **Ad Side**
 
-Things change a little when you\'re returning on the Ad side, because as
+Things change a little when you're returning on the Ad side, because as
 a right-hander, a move to your left to increase your chances of getting
 to return with your forehand but takes you further away from the center
 of the court. The beauty of this move on the deuce side is that you are
 nicely positioned for an easy recovery after playing the return. On the
 Ad side, there is more ground to cover to achieve best positioning for
-the server\'s 2nd shot.
+the server's 2nd shot.
 
 This is where you would be wise to consider your top shot and other fav
-shots. Perhaps backhand crosscourt is on your fav\'s list, in which case
+shots. Perhaps backhand crosscourt is on your fav's list, in which case
 there is less reason to move to your left for second serves in the Ad
 court, as you can trust your skills to make a good return with that
 shot.
 
 Perhaps your top shot is inside out or inside in? In this case, it may
 be worth making the move left and hitting a strong enough return with
-your best shot, that your opponent won\'t be able to take advantage of
+your best shot, that your opponent won't be able to take advantage of
 the open space you are leaving. Or you will have enough time to recover
 as your opponent will be forced into a defensive reply from your return.
 
 **Down the Middle**
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-points/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_return-of-serve-points/media/image6.webp)
 
 **Consider hitting backhand crosscourt returns in the ad court.**
 
 If you stick with the 6 main shots that we identified earlier in the
 series, you will surely enjoy much success returning second serves. But
-one thing the 6 main shots don\'t cover is hitting a ball straight up
+one thing the 6 main shots don't cover is hitting a ball straight up
 the middle of the court.
 
-When you have time on the ball in a rally, this option isn\'t commonly
+When you have time on the ball in a rally, this option isn't commonly
 used because you are turning down the opportunity to hurt your opponent
 by running them to one side or the other. However, there are certainly
 situations where using an attacking shot down the middle could be a wise
@@ -214,20 +207,19 @@ choice and returning second serve is at the top of the list!
 fraction longer to recover your balance. Therefore, the server is
 vulnerable to being rushed by an early aggressive
 return.]{.underline}]{.mark}** **[[If this return is struck right up the
-middle of the court, it\'s also an awkward move to get the body out of
+middle of the court, it's also an awkward move to get the body out of
 the way to make room for your next shot, and an error from the server on
 their next shot can often arise as a result.]{.underline}]{.mark}**
 
 ![A picture containing sport, athletic game, floor, player Description
 automatically
-generated](media_return-of-serve-points/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_return-of-serve-points/media/image7.webp)
 
 **A deep down the middle return can produce errors, even from Roger
 Federer.**
 
 This was the return option that Djokovic intentionally used against
-Federer, to successfully save the first of Federer\'s 2 match points in
+Federer, to successfully save the first of Federer's 2 match points in
 the incredible Wimbledon final of 2019.
 
 Hopefully you can see the advantages of having set plans and ideas in
@@ -237,7 +229,7 @@ on your understanding of your game, and the game itself, you will be
 able to use your stronger shots more often for the first shot of the
 rally. Having further intent in your mind regards where to aim your
 returns, based on the desired pattern you would like and/or your
-opponent\'s weaknesses, will allow you to exploit the second serve
+opponent's weaknesses, will allow you to exploit the second serve
 return opportunity like never before. Over the course of a match, that
 can easily lead to quite a few percentage points increase in your
 success rate.
@@ -250,8 +242,7 @@ the bounce.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-points/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-points/media/image8.webp)
 
 **Moving back on second serves as Nadal sometimes does can neutralize
 the effect of a strong kick serve.**
@@ -265,7 +256,7 @@ returner a bit more time to read the ball.
 This tactic may take away the option to rush your opponent with an early
 hit, but does neutralise the quality of the serve, and allow the
 returner to hit a strong return that will get them into the rally. This
-option doesn\'t have to be restricted to dealing with deadly kick
+option doesn't have to be restricted to dealing with deadly kick
 serves.
 
 **[[Your game style may be suited to having more time on the ball,
@@ -280,26 +271,25 @@ The court surface will also play a factor, with faster lower bouncing
 courts favouring an early strike, and higher bouncing courts favouring
 standing even further back.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                        | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_return-of-serve-points/media/image9.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                      | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                     | competitions since formation, and over the last 2 |
-|                                                                                                                                                                     | years alone, his junior players have won 19       |
-|                                                                                                                                                                     | singles tournaments between them at county level. |
-|                                                                                                                                                                     |                                                   |
-|                                                                                                                                                                     | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                     | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                     | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                     | players at all levels, including former British   |
-|                                                                                                                                                                     | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                     |                                                   |
-|                                                                                                                                                                     | His unique teaching video series, covering every  |
-|                                                                                                                                                                     | aspect of the game, is available on his website   |
-|                                                                                                                                                                     | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                     |                                                   |
-|                                                                                                                                                                     | You can also contact Nick directly via the        |
-|                                                                                                                                                                     | homepage of his website.                          |
-+=====================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_return-of-serve-points/media/image9.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also contact Nick directly via the |
+|  | homepage of his website. |
+
 
 ------------------------------------------------------------------------

@@ -6,8 +6,7 @@
 
 **Archie Dan Smith, MD**
 
-![](media_understanding-muscle-memory-part-1/media/image1.jpg){width="3.7777777777777777in"
-height="2.5833333333333335in"}
+![](media_understanding-muscle-memory-part-1/media/image1.jpg)
 
 **What is muscle memory and how do you develop it?**
 
@@ -32,8 +31,7 @@ memory occurs only through repetitions in a concentrated period of
 time.]{.mark}]{.underline}**
 
 ![A picture containing jellyfish, ocean floor Description automatically
-generated](media_understanding-muscle-memory-part-1/media/image2.jpg){width="5.569444444444445in"
-height="2.4305555555555554in"}
+generated](media_understanding-muscle-memory-part-1/media/image2.jpg)
 
 **Muscle memory involves permanent changes in the brain, nerves, and
 muscles.**
@@ -45,7 +43,7 @@ numbers of repetitions of the same motion in a concentrated period of
 time.
 
 Trying to learn two patterns back to back may cause you to forget the
-first. This is one reason why so many people find tennis lessons don\'t
+first. This is one reason why so many people find tennis lessons don't
 result in real change.
 
 You hit forehands for 15 minutes, then backhands for 15 minutes, then
@@ -65,15 +63,14 @@ that matter---the ones that make for a winning difference in your
 matches. **[These strokes are the result of doing it over and over again
 until permanent change occurs.]{.underline}**
 
-**[It\'s important to know that your old muscle memory patterns are not
+**[It's important to know that your old muscle memory patterns are not
 erased.]{.mark}** The regions and paths of the brain that control them
 still remain. New motor skills involve creating new paths. These new
 pathways are what you must create and then consolidate to create real
 change.
 
 ![A person playing tennis Description automatically
-generated](media_understanding-muscle-memory-part-1/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_understanding-muscle-memory-part-1/media/image3.webp)
 
 **How many of the shots you hit are at the quality of your highest
 level?**
@@ -81,7 +78,7 @@ level?**
 **Paradigm Shift**
 
 This type of change requires a paradigm shift in how you practice.
-Let\'s say you decide to hit only crosscourt forehands in a lesson or
+Let's say you decide to hit only crosscourt forehands in a lesson or
 drill session, and you hit something like . 250 of these shots.
 
 Probably 25 are hit poorly as you warm up, then the next 200 or so are
@@ -115,8 +112,7 @@ level? Go back to the end of the practice session when you were hitting
 well. Now you must consolidate this so it becomes permanent.
 
 ![A picture containing sport, exercise device Description automatically
-generated](media_understanding-muscle-memory-part-1/media/image4.jpg){width="3.125in"
-height="3.9583333333333335in"}
+generated](media_understanding-muscle-memory-part-1/media/image4.jpg)
 
 **Modern ball machines like the Tennis Attack are a key component in the
 training I advocate.**
@@ -140,7 +136,7 @@ the period required for synapses to generate, for cellular chemical
 factories and receptors to be up-regulated and down-regulated and for
 nerve and motor endings to undergo structural change.
 
-To do this I highly recommend using a ball machine. Today\'s machines,
+To do this I highly recommend using a ball machine. Today's machines,
 like the Tennis Attack pictured, as well as others, can reproduce just
 about any shot, spin, and speed. You can use the machine to test shots
 on the edge of your ability and get an unlimited number of repetitions.
@@ -161,35 +157,34 @@ allow for this consolidation to occur.
 
 ![A tennis player is holding a racket Description automatically
 generated with low
-confidence](media_understanding-muscle-memory-part-1/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_understanding-muscle-memory-part-1/media/image5.webp)
 
 **Monica Seles would practice the same shot for weeks.**
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
-| ![](media_understanding-muscle-memory-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired          |
-|                                                                                                                                                     | physician living in Austin, Texas. Here is |
-|                                                                                                                                                     | how he describes his tennis journey,       |
-|                                                                                                                                                     | leading to the creation of his work on     |
-|                                                                                                                                                     | muscle memory:                             |
-|                                                                                                                                                     |                                            |
-|                                                                                                                                                     | \"I played for 2 years at my small town    |
-|                                                                                                                                                     | high school. For the next 10 years I       |
-|                                                                                                                                                     | played a dozen times a year with friends.  |
-|                                                                                                                                                     | Then I did not play for decades. About 10  |
-|                                                                                                                                                     | years ago I began to play again. I was a   |
-|                                                                                                                                                     | mid-level 3.5 player but I could tell over |
-|                                                                                                                                                     | time my game was slipping.                 |
-|                                                                                                                                                     |                                            |
-|                                                                                                                                                     | During this period I came up with and      |
-|                                                                                                                                                     | started implementing my theories on muscle |
-|                                                                                                                                                     | memory. I started getting better. Two      |
-|                                                                                                                                                     | years ago I won the 3.5 men's singles      |
-|                                                                                                                                                     | division in the long running main City of  |
-|                                                                                                                                                     | Austin tournament. I beat a 26 year old in |
-|                                                                                                                                                     | the finals. Now I am recruited by USTA     |
-|                                                                                                                                                     | teams that have won regionals, and I play  |
-|                                                                                                                                                     | #1 doubles for a team in the Austin Tennis |
-|                                                                                                                                                     | League. I conclude that there may be       |
-|                                                                                                                                                     | something to my theory.\"                  |
-+=====================================================================================================================================================+============================================+
+| ![](media_understanding-muscle-memory-part-1/media/image6.jpeg) | Archie Dan Smith, MD is a retired |
+| --- | --- |
+|  | physician living in Austin, Texas. Here is |
+|  | how he describes his tennis journey, |
+|  | leading to the creation of his work on |
+|  | muscle memory: |
+|  |  |
+|  | \"I played for 2 years at my small town |
+|  | high school. For the next 10 years I |
+|  | played a dozen times a year with friends. |
+|  | Then I did not play for decades. About 10 |
+|  | years ago I began to play again. I was a |
+|  | mid-level 3.5 player but I could tell over |
+|  | time my game was slipping. |
+|  |  |
+|  | During this period I came up with and |
+|  | started implementing my theories on muscle |
+|  | memory. I started getting better. Two |
+|  | years ago I won the 3.5 men's singles |
+|  | division in the long running main City of |
+|  | Austin tournament. I beat a 26 year old in |
+|  | the finals. Now I am recruited by USTA |
+|  | teams that have won regionals, and I play |
+|  | #1 doubles for a team in the Austin Tennis |
+|  | League. I conclude that there may be |
+|  | something to my theory.\" |
+

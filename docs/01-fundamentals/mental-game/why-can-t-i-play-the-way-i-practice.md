@@ -1,4 +1,4 @@
-# Why Can\'t I Play the Way I Practice?
+# Why Can't I Play the Way I Practice?
 
 ### Jeff Greenwald
 
@@ -6,19 +6,18 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image1.webp)
 
-**Why can\'t I hit my best shots when I need them\--like the pros do?**
+**Why can't I hit my best shots when I need them\--like the pros do?**
 
-\"Why can\'t I play the way I practice?\" \"Why can\'t hit my best shots
+\"Why can't I play the way I practice?\" \"Why can't hit my best shots
 when I need them most?\"
 
-\"I don\'t understand what happened, I was playing so well all week.
+\"I don't understand what happened, I was playing so well all week.
 Then when I played the tournament I played so much worse.\"
 
-Is there a player who hasn\'t asked these questions? Is there a coach
-who hasn\'t heard them from his players?
+Is there a player who hasn't asked these questions? Is there a coach
+who hasn't heard them from his players?
 
 Is there any way to bridge this gap between practice and competition?
 The answer is yes, absolutely. I know because I have helped players make
@@ -28,20 +27,18 @@ The performance gap between the ability to hit shots in practice versus
 matches is a fundamental barrier every competitive player must overcome
 to realize his or her potential. Unfortunately many players never do.
 
-In this article, we\'ll take a look at the four barriers that keep
-players from playing the way that you are really capable. Then I\'ll
+In this article, we'll take a look at the four barriers that keep
+players from playing the way that you are really capable. Then I'll
 introduce clear, step by step solutions to help you overcome them and
 unlock your ability to hit your best shots when it counts most.
 
-+-----------------------------------------------------------+
-| The 4 Barriers                                            |
-+:===========================:+:===========================:+
-| Insufficient Self Awareness | Short-Term Focus            |
-+-----------------------------+-----------------------------+
-| Irrelevant Stimuli          | Sub-Optimal Communication   |
-+-----------------------------+-----------------------------+
+| The 4 Barriers |  |
+| --- | --- |
+| Insufficient Self Awareness | Short-Term Focus |
+| Irrelevant Stimuli | Sub-Optimal Communication |
 
-There are four primary barriers that impede the quality of a player\'s
+
+There are four primary barriers that impede the quality of a player's
 performance in tournaments. These are: (1) Insufficient self-awareness.
 (2) Excess focus on short-term results. (3) Preoccupation with
 \"irrelevant\" stimuli. And, (4) sub-optimal communication between
@@ -56,13 +53,12 @@ tennis, but in all areas.
 
 ![A person in a blue shirt Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image2.webp)
 
 **Can you feel what actually happens in your body when you play your
 best shots?**
 
-Sounds simple, but my experience shows it\'s a major problem for
+Sounds simple, but my experience shows it's a major problem for
 competitive tennis players. Time and time again I see players miss out
 on important learning opportunities because they are unaware of what is
 actually happening in their matches.
@@ -88,13 +84,12 @@ affect my future ranking? This mind set makes it literally impossible to
 focus on anything else.
 
 Andre Agassi put it this way: \"There is a time to enjoy the good shots
-and a time to get upset about what happened, but it\'s not when you\'re
+and a time to get upset about what happened, but it's not when you're
 out there.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image3.webp)
 
 **Do you sometimes obsess over the outcome of individual points?**
 
@@ -122,8 +117,7 @@ awareness becomes automatic. This will help you make critical minor
 adjustments with ease.
 
 ![A person playing tennis Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image4.webp)
 
 **What is the kinesthetic that goes with your best shots?**
 
@@ -147,14 +141,13 @@ process that will become instinctive over time.
 
 There is a final benefit to learning to play in this intuitive fashion.
 Your anticipation will improve because you will be more present. Your
-mind will be more alert and you will become aware of your opponent\'s
+mind will be more alert and you will become aware of your opponent's
 patterns. This is hugely important for competitive success. For more on
-how this works, I highly recommend Jay Berger\'s two articles on
+how this works, I highly recommend Jay Berger's two articles on
 Anticipation. ([Click
 Here.](http://www.tennisplayer.net/members/high_performance/jay_berger/anticipation/anticipation.html))
 
-![](media_why-can-t-i-play-the-way-i-practice/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_why-can-t-i-play-the-way-i-practice/media/image5.webp)
 
 **Breaking through the emphasis on results requires courage.**
 
@@ -187,13 +180,12 @@ the kind of game that will benefit you in the long run.
 
 \"Players get too caught up in the pure results of the tournament,\"
 says Tom Gullikson, former Davis Cup Captain and top-ranked doubles
-player on the ATP Tour in the 80\'s. \"Players must be more honest with
+player on the ATP Tour in the 80's. \"Players must be more honest with
 themselves, assess their strengths, be aware of how they are reacting to
 pressure, and understand why their play is breaking down at key times.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image6.webp)
 
 **Pete Sampras evaluated his strengths and weaknesses every year he was
 number 1.**
@@ -229,8 +221,7 @@ appropriate for where you really are.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image7.webp)
 
 **Attacking the net 5 times per set: a great example of a performance
 goal.**
@@ -256,8 +247,7 @@ matches is a major hindrance to developing as rapidly as possible.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image8.webp)
 
 **Focusing on the right stimuli is the difference in the return.**
 
@@ -275,17 +265,16 @@ discussed above.
 
 To give just one example, Farrow found that pro players were able to
 track the direction of the serve earlier than amateurs. This gave them a
-huge edge in reacting to the speed and placement of their opponents\'
+huge edge in reacting to the speed and placement of their opponents'
 shots.
 
 According to Farrow, \"Great tennis players can tell from the angle of a
-server\'s arm where the ball will go. Novices generally don\'t have that
+server's arm where the ball will go. Novices generally don't have that
 skill. But they can learn. Top tennis players can predict the direction
 and speed of the ball before it leaves the racket.\"
 
 ![A picture containing person, outdoor Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image9.webp)
 
 **Reading the serve can double the time interval you have to move and
 execute.**
@@ -296,7 +285,7 @@ changing,\" says Farrow. \"A serve going 120 miles per hour takes
 approximately a third of a second to travel the 60 feet from baseline to
 service line.
 
-\"This means that an expert, who doesn\'t have to wait until the server
+\"This means that an expert, who doesn't have to wait until the server
 makes contact to read the shot, has twice as long to move, plant his
 feet, and swing.\"
 
@@ -312,12 +301,11 @@ accelerate your learning process also requires a positive collaborative
 relationship between player and coach.
 
 For the past two years I have been teaching USTA coaching workshops on
-how to improve communication with players, manage players\' ambivalence
+how to improve communication with players, manage players' ambivalence
 about the change process, and helping coaches teach players to apply
 their skills in competition.
 
-![](media_why-can-t-i-play-the-way-i-practice/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_why-can-t-i-play-the-way-i-practice/media/image9.webp)
 
 **The communication gap between players and coaches affects learning.**
 
@@ -326,10 +314,10 @@ there is a wide spread communication gap in junior tennis that is
 affecting the learning process.
 
 Here are some of the things I have heard from coaches. \"My players are
-so caught up in the rankings and who\'s ranked higher that they play in
+so caught up in the rankings and who's ranked higher that they play in
 fear.\"
 
-\"My players just won\'t commit to changes and actually executing them
+\"My players just won't commit to changes and actually executing them
 in tournaments.\"
 
 \"A lot of my players melt down as soon as they have their back against
@@ -340,20 +328,19 @@ should do\--and have no idea themselves.\"
 
 On the other side of the fence I have heard this from players:
 
-\"My coach is always pushing me to try stuff that doesn\'t work in
+\"My coach is always pushing me to try stuff that doesn't work in
 matches.\"
 
 \"My coach bombards me to change too many things, and then gets mad when
-I\'m not able to pull them off.\"
+I'm not able to pull them off.\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image10.webp)
 
 **Players have to be truly open to change and trying new strategies.**
 
 \"My coach never asks me how I want to play. All he does is tell stories
-from his experiences or talk about theories that don\'t really make
+from his experiences or talk about theories that don't really make
 sense to me.\"
 
 The underlying problem here is that too often there is not an open line
@@ -362,7 +349,7 @@ for not doing what the he says, and the player blames the coach for
 judging him and not believing in his abilities.
 
 Players and coaches have to both feel they can honestly discuss what is
-and isn\'t working. The truth is coaches can be defensive when players
+and isn't working. The truth is coaches can be defensive when players
 challenge their authority or expertise.
 
 But players have to have the freedom to voice their reservations about
@@ -379,8 +366,7 @@ challenge and make the changes their own.
 
 ![A couple of people playing tennis Description automatically generated
 with medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image11.webp)
 
 **Do players sometimes get too much input in lessons?**
 
@@ -408,10 +394,9 @@ forehand, hit higher over the net and wait on the ball longer rather
 than catching it on the rise.\"
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image12.webp)
 
-**Input from coaches shouldn\'t undermine your positive approach.**
+**Input from coaches shouldn't undermine your positive approach.**
 
 This was just the instruction for one stroke. There was a similar litany
 about the rest of his game, all imparted in the course of one hour. From
@@ -433,15 +418,14 @@ faced by the player into account.
 
 The problem was that this particular pro did not identify any of these
 in my client. Likewise, my client hesitated to speak up and indicate
-that he felt overwhelmed and didn\'t give the pro a chance to adjust his
+that he felt overwhelmed and didn't give the pro a chance to adjust his
 agenda. Without proper intervention, this dynamic could have persisted
 for months, even years, with both the player and the coach suffering
 unnecessarily.
 
 ![A person holding a tennis racket Description automatically generated
 with medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image13.webp)
 
 **Do the goals of your coach match your goals as a player?**
 
@@ -454,23 +438,22 @@ day this player could beat any player in the top fifty in the world.
 
 However, he also explained that on an \"off\" day he could lose to
 numerous players ranked below him. Essentially, the coach was pulling
-his hair out because of the gap between his player\'s talent and his
+his hair out because of the gap between his player's talent and his
 actual execution in tournaments. He asked that I work with him to see if
 I could help bridge this gap.
 
-I learned that the coach\'s main objectives, were first, to reduce his
-player\'s emotional volatility, and second to help him find a better
+I learned that the coach's main objectives, were first, to reduce his
+player's emotional volatility, and second to help him find a better
 balance during rallies. He wanted his player to construct points with
 more patience and flexibility. He wanted the player to add more variety,
 to take some pace off from time to time and use the court a bit more.
 
-What he wanted did not seem too much to ask in the coach\'s mind, and he
+What he wanted did not seem too much to ask in the coach's mind, and he
 had been pressing his player to do this for quite some time.
 
 ![Two people playing guitar Description automatically generated with
 medium
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image14.webp)
 
 **Honest, positive communication between players and coaches is
 critical.**
@@ -491,14 +474,13 @@ call to be worked out between player and coach.
 
 My concern was that there was very little direct collaborative
 discussion going on. Obviously, the player was not responsive to the
-coach. But on the coach\'s part, there was little recognition of the
-player\'s concerns about the development of his own game. The player\'s
+coach. But on the coach's part, there was little recognition of the
+player's concerns about the development of his own game. The player's
 ambivalence was not being adequately addressed and everyone suffered as
 a result.
 
 ![A person holding a tennis racket Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image15.webp)
 
 **With communication the path to change and a more varied game stays
 open.**
@@ -525,8 +507,7 @@ own observations and follow his intuition and sense of curiosity about
 the learning process.
 
 ![A person playing tennis Description automatically
-generated](media_why-can-t-i-play-the-way-i-practice/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_why-can-t-i-play-the-way-i-practice/media/image16.webp)
 
 **Work to overcome your barriers and discover the great tennis you
 really have inside you.**
@@ -535,12 +516,12 @@ The ability to communicate what you notice about your game and the
 ambivalence you may feel about certain changes are critical to
 developing a sense of ownership over your game.
 
-When something doesn\'t feel right in your game, you have to speak up.
+When something doesn't feel right in your game, you have to speak up.
 Tapping your ability as a player is dependent on it. You cannot be
 passive in the learning process.
 
 I know there is more ability in you than you probably even imagine. If
-you have the nagging feeling that you can be better or aren\'t learning
+you have the nagging feeling that you can be better or aren't learning
 at the rate you thought you should, you are probably right. You can
 learn to play the way you practice\--or possibly even better. Tune into
 how you feel on the court when you hit the ball well, focus on
@@ -549,8 +530,7 @@ tell your coach what you notice, and watch as your game blossoms.
 
 ![A tennis player hitting a ball Description automatically generated
 with low
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image17.jpeg){width="1.5909722222222222in"
-height="2.078472222222222in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image17.jpeg)
 
 The Best Tennis of Your Life
 
@@ -558,7 +538,7 @@ Learn how to play with freedom and win more matches! In his new book
 Jeff Greenwald, an elite international seniors player, coach, and
 psychotherapist, outlines 50 specific mental strategies to play the best
 tennis of your life. See how to embrace pressure, maintain confidence,
-and increase your focus and intensity. Jim Loehr calls Jeff\'s book: \"a
+and increase your focus and intensity. Jim Loehr calls Jeff's book: \"a
 real contribution to the field of applied sports psychology.\"\
 \
 [Click Here to
@@ -566,14 +546,13 @@ Order!](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/re
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_why-can-t-i-play-the-way-i-practice/media/image18.jpeg){width="1.3736111111111111in"
-height="1.64375in"}
+confidence](media_why-can-t-i-play-the-way-i-practice/media/image18.jpeg)
 
 Jeff Greenwald, M.A., MFT is a nationally recognized sport psychology
 consultant. Jeff has worked as a consultant for the United States Tennis
 Association and trains numerous players around the world on the mental
-game. As a player in the men\'s 35 and over age division he attained an
-ITF #1 world ranking, as well as the #1 ranking in men\'s singles and
+game. As a player in the men's 35 and over age division he attained an
+ITF #1 world ranking, as well as the #1 ranking in men's singles and
 doubles in the United States.
 
 Greenwald is the author of [\"The Best Tennis of Your
@@ -582,5 +561,5 @@ published by Betterway. [Click Here to
 order.](http://www.amazon.com/Best-Tennis-Your-Life-Performance/dp/1558708448/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1200341206&sr=8-1)
 Jeff has a private practice based in San Francisco and Marin County,
 California. He can be reached at 415-640-6928 or by email at
-jeff@mentaledge.net. You can also visit Jeff\'s website at
+jeff@mentaledge.net. You can also visit Jeff's website at
 [www.mentaledge.net](http://www.mentaledge.net/).

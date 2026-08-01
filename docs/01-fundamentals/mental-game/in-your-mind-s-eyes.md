@@ -6,20 +6,19 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_in-your-mind-s-eyes/media/image1.webp){width="2.6458333333333335in"
-height="2.3229166666666665in"}
+confidence](media_in-your-mind-s-eyes/media/image1.webp)
 
 **Can you \"see\" yourself playing the tennis you really want to play?**
 
 What would it be like to play perfect tennis? Imagine your strokes are
-flowing, you\'re hitting shot combinations and aggressive winners,
+flowing, you're hitting shot combinations and aggressive winners,
 serving and returning with great accuracy, rhythm, and power.
 
-You play a great match and beat a tough opponent, someone you\'ve never
-beaten before, or maybe someone you didn\'t think you belonged with on
+You play a great match and beat a tough opponent, someone you've never
+beaten before, or maybe someone you didn't think you belonged with on
 the court.
 
-\"Impossible!\" you say. \"I just can\'t see it.\" \"I\'m simply not
+\"Impossible!\" you say. \"I just can't see it.\" \"I'm simply not
 capable of beating that person or playing that well.\"
 
 **[[In a literal sense, that may be true. Why? Because our mental
@@ -34,8 +33,7 @@ things.]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
                                      ![A person holding a tennis racket Description automatically generated with medium
-   confidence](media_in-your-mind-s-eyes/media/image2.webp){width="2.625in"
-                                                                      height="2.375in"}
+   confidence](media_in-your-mind-s-eyes/media/image2.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------
                               **Through visualization you can eliminate negative images and replace them with positive ones.**
 
@@ -62,17 +60,15 @@ Pancho Gonzales to Chris Evert to John McEnroe.
 How can you, as a competitive or recreational player, make this process
 work so that you visualize the way great athletes do?
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                      |
-+:====================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                            |
-| confidence](media_in-your-mind-s-eyes/media/image3.webp){width="2.6458333333333335in" |
-| height="2.0833333333333335in"}                                                                                                                                       |
-|                                                                                                                                                                      |
-| **Develop clear visual models of the strokes you want to develop.**                                                                                                  |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A person playing tennis Description automatically generated with medium |
+| confidence](media_in-your-mind-s-eyes/media/image3.webp) |
+|  |
+| **Develop clear visual models of the strokes you want to develop.** |
 
-First, let\'s define what we mean by visualization more precisely.
+
+First, let's define what we mean by visualization more precisely.
 Visualization is the systematic creation or the strengthening of
 positive mental images. It could also be called positive image
 programming. It is learning to communicate information to your body in a
@@ -85,27 +81,26 @@ can improve your ability to communicate this information to your muscles
 under competitive pressure.
 
 To begin developing your visualization routines, create a quiet, relaxed
-environment where you\'re not likely to be distracted. You may want to
+environment where you're not likely to be distracted. You may want to
 play soft music or dim the lights. Relax by doing a few slow deep
 breaths. This will calm your mind and allow you to focus on the images.
 
-Now, close your eyes and go deep inside your mind\'s eye. To maximize
-the effectiveness of the process, see yourself in your mind\'s eye as if
-you were actually performing on the court. In your mind\'s eye, become
+Now, close your eyes and go deep inside your mind's eye. To maximize
+the effectiveness of the process, see yourself in your mind's eye as if
+you were actually performing on the court. In your mind's eye, become
 the performer, and as you see yourself executing the movements mentally,
 try to feel what is happening.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person holding a tennis racket Description automatically
-   generated](media_in-your-mind-s-eyes/media/image4.webp){width="2.6458333333333335in"
-                                                                           height="2.46875in"}
+   generated](media_in-your-mind-s-eyes/media/image4.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          **Visualize the attacking sequences you want to play.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 You visualization training should be done in short periods of about five
-minutes at a time-it\'s not the duration, it\'s how relaxed and
+minutes at a time-it's not the duration, it's how relaxed and
 concentrated you are that makes the difference.
 
 Pick your imagery for each session from some of the suggestions below,
@@ -124,7 +119,7 @@ Focus on key technical details, full shoulder turns on ground strokes.
 Contact in front on your volleys or whatever you or your coach or
 teaching pro are working to change.
 
-Two. Shot combinations and winning points. For example, if you\'re
+Two. Shot combinations and winning points. For example, if you're
 trying to develop an attacking style, create images of yourself
 approaching the net in a variety of situations.
 
@@ -152,11 +147,10 @@ For example, visualize yourself staying positive and fighting when you
 go down a break or a set. If you normally get angry or negative, imagine
 those feelings coming up. Now, practice letting them go and replacing
 them with a positive counter message, such as: \"I can do it.\" \"Come
-on, let\'s go.\" \"Fight!\"
+on, let's go.\" \"Fight!\"
 
 ![A person holding a tennis racket Description automatically
-generated](media_in-your-mind-s-eyes/media/image5.jpg){width="2.6041666666666665in"
-height="2.6458333333333335in"}
+generated](media_in-your-mind-s-eyes/media/image5.jpg)
 
 **Visualize yourself remaining in your ideal performance state in the
 face of all those obstacles.**
@@ -170,15 +164,13 @@ Rehearse staying calm and focused, verifying the call from your
 opponent, and, if necessary, requesting a
 linesman.]{.underline}]{.mark}**
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                      |
-+:====================================================================================================================================================================:+
-| ![A person playing tennis Description automatically generated with medium                                                                                            |
-| confidence](media_in-your-mind-s-eyes/media/image6.webp){width="2.6770833333333335in" |
-| height="2.1666666666666665in"}                                                                                                                                       |
-|                                                                                                                                                                      |
-| **Go on the court believing you really can win.**                                                                                                                    |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |
+| --- |
+| ![A person playing tennis Description automatically generated with medium |
+| confidence](media_in-your-mind-s-eyes/media/image6.webp) |
+|  |
+| **Go on the court believing you really can win.** |
+
 
 Review any other specific incidents in your matches when you have broken
 down mentally. Now, rehearse the same situations reacting positively in
@@ -203,8 +195,7 @@ mentally tough player you really want to be.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                       Jim Loehr is a legendary pioneer in the field of
-  confidence](media_in-your-mind-s-eyes/media/image7.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                          himself who still competes nationally in USTA
+  confidence](media_in-your-mind-s-eyes/media/image7.jpeg)                                                                                                                                          himself who still competes nationally in USTA
                                                                                                                                                                           events, Jim created the field of Mental
                                                                                                                                                                           Toughness training with his revolutionary study
                                                                                                                                                                           of elite pro players. He has been one of the

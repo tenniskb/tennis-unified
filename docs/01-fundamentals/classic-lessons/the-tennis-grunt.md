@@ -19,7 +19,7 @@ movement as well for some of the reasons outlined below.
 
 But in my experience, spanning 30 years of grunting since 1982, I have
 seen the grunt from all angles, the good and the bad, the positive and
-the negative. In this article, let\'s take a look at some of the
+the negative. In this article, let's take a look at some of the
 arguments on both sides.
 
 As an early grunt adopter, there were many tournament and club player
@@ -56,8 +56,7 @@ blocks without the grunt, and that the force rebounded up back through
 the stack, knocking Pumphreys backwards off the platform.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-tennis-grunt/media/image3.jpg){width="2.3472222222222223in"
-height="3.9583333333333335in"}
+confidence](media_the-tennis-grunt/media/image3.jpg)
 
 Billie Jean had a loss to one of the first grunters.
 
@@ -83,14 +82,14 @@ in the modern power game.
 
 So, what is the history of grunting in tennis? Not too many people
 remember Virginia Heinecke, probably the first player to openly grunt
-during matches. In the early 1960\'s she had a win over Billie Jean
+during matches. In the early 1960's she had a win over Billie Jean
 Moffitt (before she became King).
 
 Heinecke was a hard hitter and her grunting marked the start of the end
 of civility in the game of tennis. Ever since that day, tennis has
 become ever more blue collar and less \"gentlemanly\" and \"lady like.\"
 
-During her career, one of Heinecke\'s opponents went to the referee at
+During her career, one of Heinecke's opponents went to the referee at
 Wimbledon and complained, asking that she be called for a hindrance for
 each grunt, but the request was declined.
 
@@ -98,21 +97,21 @@ each grunt, but the request was declined.
 
 **Monica Seles brought the grunt into public awareness.**
 
-Heinecke\'s grunt, according to Billie Jean, \"was more like David
-Ferrer\'s grunt,\" a lower pitched, lower decibel grunt that wasn\'t
-audible in the same way we hear today\'s players due to the improvements
+Heinecke's grunt, according to Billie Jean, \"was more like David
+Ferrer's grunt,\" a lower pitched, lower decibel grunt that wasn't
+audible in the same way we hear today's players due to the improvements
 in on court audio.
 
 \"The microphones never really picked up my grunt,\" Heinecke said. \"We
 have come a long way, electronically.\"
 
-The grunt ante really didn\'t go up until the arrival of Bollettieri
+The grunt ante really didn't go up until the arrival of Bollettieri
 proteges Andre Agassi and Monica Seles. At the time Nick explained why
-his players grunted to the BBC, \"If you hold your lips tightly, you\'re
+his players grunted to the BBC, \"If you hold your lips tightly, you're
 not breathing and you become very tense and less flexible so you get
 tight more quickly.\"
 
-Monica\'s grunt sounded like a linebacker breaking the back of the
+Monica's grunt sounded like a linebacker breaking the back of the
 school principal in a dark shower stall. Or maybe it sounded more like a
 pig getting stuck with a pike and then shot in the forehead with a .22
 caliber rifle.
@@ -120,19 +119,19 @@ caliber rifle.
 Seles was also the first to develop the two part grunt. First a short,
 \"Auuuh, and then a much longer \"AugghcreeeaGGGhhhHHH!\"
 
-Eventually Seles\'s new level of grunting provoked another confrontation
+Eventually Seles's new level of grunting provoked another confrontation
 at Wimbledon, this time a far better known one with tennis legend
 Martina Navratilova in 1992.
 
 ![](media_the-tennis-grunt/media/image1.png)
 
-**Was it Monica\'s grunt or her game that defeated Navritilova?**
+**Was it Monica's grunt or her game that defeated Navritilova?**
 
-In my opinion, Seles\' grunt terrorized Martina and actually created a
+In my opinion, Seles' grunt terrorized Martina and actually created a
 form of sonic paralysis. After she lost to Monica in the Wimbledon semi
 final, Navratilova openly called it \"cheating.\" She complained that
-since she couldn\'t hear the contact she couldn\'t read the pace, spin
-or angle of the shots coming off Sele\'s strings.
+since she couldn't hear the contact she couldn't read the pace, spin
+or angle of the shots coming off Sele's strings.
 
 Whether that complaint was genuine or gamesmanship, only Martina can
 say. But, whatever the truth, Seles fell for it.
@@ -142,7 +141,7 @@ not to grunt in the final against Graff. She lost to Graff 2 and 1,
 having beaten her easily a few weeks earlier at the French.
 
 No doubt it hurt Seles to stop grunting. Afterwards Monica said, \"That
-was one of the few things I\'ve ever regretted in my life.\" Seles went
+was one of the few things I've ever regretted in my life.\" Seles went
 back to the grunt and then beat Graf again at the Australian in January
 of 1993.
 
@@ -153,7 +152,7 @@ received virtually no legal punishment and was quickly released by
 German authorities. Her game and her grunt were never as intimidating
 again.
 
-Still, Monica\'s success had already inspired a whole legion of female
+Still, Monica's success had already inspired a whole legion of female
 grunters, whose decibel levels went on to exceed even Seles herself.
 There is a straight line from Monica to Serena and Venus Williams, Maria
 Sharapova and Victoria Azarenka. As Serena has said, \"I loved Seles
@@ -185,13 +184,12 @@ response times and led to more errors determining direction.
 
 ![A picture containing person, person, wall, posing Description
 automatically
-generated](media_the-tennis-grunt/media/image4.jpg){width="2.6805555555555554in"
-height="1.7777777777777777in"}
+generated](media_the-tennis-grunt/media/image4.jpg)
 
 **Professors Scott Sinnett and Alan Kingstone: studying the grunt
 effect.**
 
-Noting that some professional tennis players\' grunts reach as high as
+Noting that some professional tennis players' grunts reach as high as
 100 decibels, Professor Sinnett wrote: \"Our findings suggest that a
 tennis ball struck along with a loud grunt can travel an extra two feet
 in the air before the opponent is able to respond.\"
@@ -210,20 +208,20 @@ grunting over time.
 ![](media_the-tennis-grunt/media/image1.png)
 
 **Does this reach 100 decibals? Does the duration of the sound continue
-when the ball is in the opponent\'s court?**
+when the ball is in the opponent's court?**
 
 **[[Nonetheless, some people have pointed to this study and concluded
-that grunters distract and slow down their opponents\' reactions. Some
+that grunters distract and slow down their opponents' reactions. Some
 have gone so far to say that the grunt is primarily a \"psyche\" job and
 a form of cheating.]{.underline}]{.mark}** They point out that the
 Azarenka/Sharapova type grunts are of much longer duration and now
-continue until the ball is on the opponent\'s side of the court. This
+continue until the ball is on the opponent's side of the court. This
 camp is calling for a decibel limit/warning system for grunts that
 exceed 60 decibels.
 
-**[But let\'s consider one more point: the possible negative effect upon
+**[But let's consider one more point: the possible negative effect upon
 the grunter him or herself. [The super adrenalized Nadal style grunt may
-affect the grunter\'s own body more dramatically than the standard type
+affect the grunter's own body more dramatically than the standard type
 of grunt.]{.underline}]{.mark}**
 
 Yes, it enlarges the lungs more. But it may also exhale a larger amount
@@ -235,7 +233,7 @@ On the other hand, the constant grunter also exercises his abs more than
 the non grunter, even if the non grunter exhales silently during
 contact. In addition to possibly improving movement, more core strength
 in the abs might help grunters avoid muscle injury, especially in a
-hotter or a humid climate or at a higher altitude. At this point, I\'ll
+hotter or a humid climate or at a higher altitude. At this point, I'll
 have to conclude, these questions are mainly speculation and have no
 definitive answers.
 
@@ -265,8 +263,7 @@ Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/2090-the-tennis-g
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing person, person, player, male Description automatically                                                                                           Geoff Williams grew up playing tennis in his
-  generated](media_the-tennis-grunt/media/image6.jpeg){width="1.8729166666666666in"   hometown of Richmond, California, winning his
-  height="2.73125in"}                                                                                                                                                     first and only junior tournament at age 11. Over
+  generated](media_the-tennis-grunt/media/image6.jpeg)                                                                                                                                                     first and only junior tournament at age 11. Over
                                                                                                                                                                           the years he went on to become a fixture on the
                                                                                                                                                                           Northern California NTRP tournament scene,
                                                                                                                                                                           winning numerous titles at both the 4.5 and 5.0

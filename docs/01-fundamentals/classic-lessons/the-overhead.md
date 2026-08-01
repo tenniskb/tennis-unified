@@ -5,8 +5,7 @@
 **Chris Lewit**
 
 ![A person playing tennis Description automatically
-generated](media_the-overhead/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image1.webp)
 
 A great overhead is the lynchpin of a great attacking game.
 
@@ -28,16 +27,15 @@ importance. In addition, if building a complete all-court game is a
 goal, the overhead is the lynchpin, the glue that holds the all-court
 game together.
 
-A player\'s success at the net is only as strong as its weakest link. In
+A player's success at the net is only as strong as its weakest link. In
 this case, that is often the overhead because it is practiced poorly and
-infrequently. It\'s common for players to spend a lot of time on their
-volley skills but neglect the smash, although some players don\'t spend
+infrequently. It's common for players to spend a lot of time on their
+volley skills but neglect the smash, although some players don't spend
 any time on their net skills at all.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead/media/image2.webp)
 
 Every player should work to make the smash a strong link.
 
@@ -48,11 +46,11 @@ greatest smash.
 
 Proficient overhead skills are also critical to success in doubles,
 which is important at both the club recreational level and in college
-tennis. Don\'t neglect the smash.
+tennis. Don't neglect the smash.
 
 **Fear The Smash**
 
-It\'s very important that the opponent respects and fears a player\'s
+It's very important that the opponent respects and fears a player's
 smash. I was recently telling a nationally ranked boy that having a
 great overhead smash can dramatically improve his success rate when he
 rises to the net. Why? Because if his rival respects and fears his
@@ -62,12 +60,11 @@ above.
 This improves the chances of anticipating or guessing right at the net.
 The rival is limited to two choices on the passing shot rather than
 three. So I believe having a great smash will generally improve a
-player\'s statistical success rate when approaching the net.
+player's statistical success rate when approaching the net.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead/media/image3.webp)
 
 Put the fear of your smash into your opponent in the warm up and early
 in a match.
@@ -75,13 +72,13 @@ in a match.
 Creating that fear of the smash is important from the beginning of the
 match---and it begins in the warmup. I had a wise coach once tell me
 that when the opponent lobs me in the warmup to smash the ball with full
-power and aggression. Why? To make a statement: "Don\'t lob me brother
+power and aggression. Why? To make a statement: "Don't lob me brother
 or I will smash that ball down your throat!\"
 
-It\'s also important to imprint that fear in your opponent from the very
+It's also important to imprint that fear in your opponent from the very
 early stages of the match. If the smash is missed the first few times in
 point play, this emboldens the opponent to lob more, which can become a
-headache. If you earn the rival\'s respect, he or she will be more
+headache. If you earn the rival's respect, he or she will be more
 cautious and reluctant to throw up the lob in critical moments, and this
 can improve your odds of guessing right and hitting a winning volley.
 
@@ -94,8 +91,7 @@ was an important moment.
 
 ![A picture containing text, outdoor, tree, person Description
 automatically
-generated](media_the-overhead/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image4.webp)
 
 Andre almost never missed a smash.
 
@@ -113,15 +109,14 @@ lack of confidence in the smash. And having a poor smash often forces
 players to go for too much on the approach or first volley, resulting in
 unnecessary errors.
 
-If you are a coach reading this, it\'s very important to explain the
+If you are a coach reading this, it's very important to explain the
 philosophical concepts presented above and convince your player of the
 value of training and developing a great smash---because many kids
-don\'t understand why they should practice smashes. It\'s going to be a
+don't understand why they should practice smashes. It's going to be a
 tough sell to your baseline bashers ---but you can do it.
 
 ![A child holding a tennis racket Description automatically
-generated](media_the-overhead/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image5.webp)
 
 Crossover steps are key to get back for deep lobs.
 
@@ -132,8 +127,7 @@ getting back for difficult lobs.]{.underline}]{.mark}** Players can also
 side shuffle backwards for easier lobs within range.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-overhead/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image6.webp)
 
 The hands can stay connected in the preparation, or separate earlier as
 in a serve.
@@ -147,8 +141,7 @@ However, in this style, the take up is generally abbreviated and rarely
 do players take full looping backswings as you see when serving.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-overhead/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image7.webp)
 
 Learning the overhead with the feet anchored can provide simplicity and
 stability.
@@ -158,7 +151,7 @@ stability.
 Some coaches teach the overhead in a stationary way with the feet locked
 to the ground. They believe this provides simplicity and stability.
 
-It\'s fine to teach the smash this way, and in fact, sometimes I will
+It's fine to teach the smash this way, and in fact, sometimes I will
 have my players hit with the feet anchored to improve their balance and
 positioning. However, modern pro overheads are dynamic and I prefer to
 encourage my players to jump in a controlled way, leaving the ground
@@ -166,8 +159,7 @@ when smashing.
 
 ![A picture containing sport, athletic game, tennis Description
 automatically
-generated](media_the-overhead/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image8.webp)
 
 Rotating the arm in the shoulder joint internally is key.
 
@@ -182,21 +174,19 @@ high.]{.underline}]{.mark}**
 
 ![A person jumping in the air Description automatically generated with
 low
-confidence](media_the-overhead/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead/media/image9.webp)
 
 Use the scissor kick when the ball is in danger of getting over you.
 
 **Scissor Kick**
 
-When the lob starts to get over a player\'s head, a common technique is
+When the lob starts to get over a player's head, a common technique is
 to use the scissor kick footwork to allow the body to jump back
 explosively to reach the ball but land with balance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-overhead/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead/media/image10.webp)
 
 When the ball is wide to the forehand side hit an angled slice overhead.
 
@@ -207,37 +197,35 @@ with a mild slice. Some kids will hit the inside edge of the ball and
 over pronate. My old coach Gilad Bloom always use to tell his students
 to "slightly slice\" to help correct this type of over pronation.
 
-When a lob goes wide to the forehand side, it\'s common to hit an angle
+When a lob goes wide to the forehand side, it's common to hit an angle
 slice overhead, cutting the outside edge of the ball. This has a sharper
 wrist action and acceleration across the edge of the ball. And the
 player stays more sideways through the hit versus a power smash from the
 middle of the court.
 
-When the lob get over a player\'s head with the ball going deep, I teach
+When the lob get over a player's head with the ball going deep, I teach
 my players to defensively kick the overhead, imparting safety and
 topspin to the shot, in order to neutralize the tough lob. This is a
 defensive shot rather than a winning shot.
 
 ![A person running on a track Description automatically generated with
 medium
-confidence](media_the-overhead/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-overhead/media/image11.webp)
 
 Learn to hit the backhand overhead in the right situation.
 
 **Backhand Overhead**
 
 Rarely hit or practiced, the backhand overhead is a lost art form. But a
-great weapon to have when you can\'t get into position to hit a normal
+great weapon to have when you can't get into position to hit a normal
 overhead.
 
 Elbow high and back turned to the net. Extreme extension of the wrist is
-key to generating power and security. But it\'s often a difficult shot
+key to generating power and security. But it's often a difficult shot
 for young kids to master.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-overhead/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-overhead/media/image12.webp)
 
 To create realism, smashes should be linked with approaches and volleys.
 
@@ -251,8 +239,7 @@ baseline play with approach, volley, and smash---all in one exercise.
 Now go practice! Vamos!
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-overhead/media/image13.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_the-overhead/media/image13.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -269,13 +256,12 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
-![](media_the-overhead/media/image14.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+![](media_the-overhead/media/image14.jpeg)
 
 **The Secrets of Spanish Tennis**
 

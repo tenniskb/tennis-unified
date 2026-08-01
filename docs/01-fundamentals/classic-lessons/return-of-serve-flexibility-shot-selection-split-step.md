@@ -7,8 +7,7 @@ Flexibility, Shot Selection, Split Step**
 
 ![A picture containing text, athletic game, tennis, sport Description
 automatically
-generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image1.webp)
 
 **Flexibility is a key return principle.**
 
@@ -20,7 +19,7 @@ racquet head, and watching the ball properly.
 
 **Flexibility**
 
-Now let\'s move on to 3 more principles, starting with flexibility.
+Now let's move on to 3 more principles, starting with flexibility.
 Flexibility is a critical component in my overall teaching philosophy.
 And, as with all strokes, **[[flexibility and the ability to adjust are
 important components of the return.]{.mark}]{.underline}**
@@ -56,21 +55,20 @@ higher level.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image2.webp)
 
 **When you move back in the court your return can resemble your
 groundstroke.**
 
 **Flexibility on Returns**
 
-So let\'s see how all this applies to the return. **[[To give one
+So let's see how all this applies to the return. **[[To give one
 example, if the maximum serve speed you typically face is 90 mph and
 then you find yourself returning a 105 mph serve, you will not have the
 proper reactive skills to return from your normal return
 position.]{.underline}]{.mark}**
 
-**[[So don\'t be stubborn\--move back.]{.underline}]{.mark}** The same
+**[[So don't be stubborn\--move back.]{.underline}]{.mark}** The same
 thing would apply if you are playing against a more typical opponent but
 having an off day. My basic rule of thumb is that for every
 step\--approximately 3 feet\--you take back, the serve effectively
@@ -94,8 +92,7 @@ position to improve their chances of breaking serve.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image3.webp)
 
 **Chip returns are a critical tool.**
 
@@ -113,7 +110,7 @@ your toolbox.
 
 Being able to vary your returns also enables you to use the element of
 surprise. For example, if you normally return a serve hit down the T in
-the ad side with an inside out drive to your opponent\'s backhand a chip
+the ad side with an inside out drive to your opponent's backhand a chip
 or drop shot crosscourt is very effective once your opponent is
 conditioned to your typical return.
 
@@ -127,8 +124,7 @@ serve.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image4.webp)
 
 **Sometimes the only step is a lunge.**
 
@@ -157,16 +153,14 @@ the return.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image5.jpg){width="6.5in"
-height="1.582638888888889in"}**Novak Djokovic\'s compact and smooth
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image5.jpg)**Novak Djokovic's compact and smooth
 approach to his return brings stability even when he has to leap out to
 return a difficult serve.**
 
 **Ready Position and Split Step**
 
 ![A person playing tennis Description automatically
-generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image6.webp)
 
 **I prefer stepping forward before the split.**
 
@@ -188,14 +182,13 @@ forward step or steps also gives them a better rhythm.]{.underline}**
 step.]{.underline}]{.mark}** Several things are crucial for the
 split-step on the return. First, as noted in the first article, ([[Click
 Here]{.underline}](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx))
-your eyes need to be on the ball as the server\'s toss arm goes up to
+your eyes need to be on the ball as the server's toss arm goes up to
 release the ball and keep watching the ball for the entire return
 process.
 
 ![A person running on a green field Description automatically generated
 with medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image7.webp)
 
 **The apex of your split should be the moment the server makes
 contact.**
@@ -222,18 +215,16 @@ demonstrated by Novak Djokovic below. Not every top player adheres to
 this principle, but it makes sense to follow it.]{.mark}]{.underline}**
 
 Just like a guard in basketball squares up to the player he or she is
-defending to be able to react to the offensive player\'s movement, you
+defending to be able to react to the offensive player's movement, you
 will react better to the serve if you are directly facing the server
 when you land your split step.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image8.jpg){width="6.5in"
-height="2.7270833333333333in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image8.jpg)
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image9.jpg){width="6.5in"
-height="2.220833333333333in"}
+generated](media_return-of-serve-flexibility-shot-selection-split-step/media/image9.jpg)
 
 Andy Murray demonstrates the ready position, followed by a step forward
 and then a wide split with flexed knees allowing him to leap out and
@@ -244,27 +235,25 @@ staggered position in the ready position which promotes landing the
 split step in the staggered position.]{.underline}]{.mark}** ![A collage
 of a person playing tennis Description automatically generated with
 medium
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image10.jpg){width="6.5in"
-height="2.7083333333333335in"}**Novak Djokovic demonstrating the
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image10.jpg)**Novak Djokovic demonstrating the
 principle of the feet landing from the split step in a staggered
 position so that you can directly face the server.**
 
 **[[Note that in the photo on the left, showing a return from the deuce
-service side, Novak\'s right foot lands ahead of his left foot so that
+service side, Novak's right foot lands ahead of his left foot so that
 he directly faces the server; and in the photo on the right, showing a
-return from the ad service side, Novak\'s left foot lands in front of
+return from the ad service side, Novak's left foot lands in front of
 his right foot so that he directly faces the
 server.]{.mark}]{.underline}**
 
 Three more return principles to come! Stay Tuned.
 
 ![A person in a suit Description automatically generated with low
-confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image11.jpeg){width="1.8243055555555556in"
-height="1.8243055555555556in"}
+confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image11.jpeg)
 
 Bill Tym, a USPTA Master Professional and past USPTA national president,
 has been involved in tennis as a coach, player and administrator for
-half a century. He coached the Vanderbilt University men\'s tennis team
+half a century. He coached the Vanderbilt University men's tennis team
 to its first NCAA tournament. As a player, Tym was a Southeastern
 Conference singles champion at the University of Florida. He also
 competed on the international tour and won 10 national and international

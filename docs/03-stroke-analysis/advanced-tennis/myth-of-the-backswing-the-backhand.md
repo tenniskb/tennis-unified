@@ -3,13 +3,12 @@
 # John Yandell
 
 ![A person holding a tennis racket Description automatically
-generated](media_myth-of-the-backswing-the-backhand/media/image1.webp){width="2.7708333333333335in"
-height="2.125in"}
+generated](media_myth-of-the-backswing-the-backhand/media/image1.webp)
 
 **Watch Agassi and you will see that the key to preparation is the first
 move or unit turn with the body, not the racquet.**
 
-\"Get your racquet back early!\" It\'s a universal mantra in club tennis
+\"Get your racquet back early!\" It's a universal mantra in club tennis
 and tennis teaching. Perhaps you believe in \"early racquet
 preparation\" and have labored hard to follow this sacred advice. If so,
 you are the victim of one of the most powerful myths in tennis: the myth
@@ -19,7 +18,7 @@ levels.
 
 How can the backswing be a myth? All strokes have a preparation phase,
 and obviously, this must involve the racquet at some point. But the fact
-is good players don\'t initiate their forehands by \"taking the racquet
+is good players don't initiate their forehands by \"taking the racquet
 back.\"
 
 The real key to early preparation is not the racquet, but the shoulders
@@ -33,10 +32,9 @@ body.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image2.jpg){width="2.6041666666666665in"
-height="3.0729166666666665in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image2.jpg)
 
-**The start of Agassi\'s turn. The shoulders and feet have turned
+**The start of Agassi's turn. The shoulders and feet have turned
 sideways, but the racquet has not moved independently.**
 
 **[If the arm moves independently at the start of the motion, the
@@ -76,11 +74,10 @@ the rest of the body.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image3.webp){width="2.40625in"
-height="2.5in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image3.webp)
 
 **Watch the first move in the preparation, as the feet and shoulders
-turn Agassi\'s body sideways as a unit.**
+turn Agassi's body sideways as a unit.**
 
 On a good forehand at any level, this unit turn is what allows the
 shoulders to coil as fully as possible. The shoulders can then uncoil
@@ -104,17 +101,15 @@ backswing often becomes almost comically large, with the racquet
 extending up to several feet over the head, and/or traveling back well
 behind the plane of the body.
 
-It\'s a bleak picture, but a common one at the club level and,
+It's a bleak picture, but a common one at the club level and,
 unfortunately, in high level junior tennis. Over the last two years,
-I\'ve had the opportunity to film dozens elite American junior players.
+I've had the opportunity to film dozens elite American junior players.
 What I have seen has been shocking.
 
 ![A person playing tennis Description automatically
-generated](media_myth-of-the-backswing-the-backhand/media/image4.jpg){width="2.0833333333333335in"
-height="2.8333333333333335in"}![A child playing tennis Description
+generated](media_myth-of-the-backswing-the-backhand/media/image4.jpg)![A child playing tennis Description
 automatically generated with medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image5.jpg){width="2.0833333333333335in"
-height="2.8333333333333335in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image5.jpg)
 
 **Many of our top junior players have looping motions far larger than
 the top pros.**
@@ -126,7 +121,7 @@ radically upwards and across their bodies instead of traveling forward
 on the line of the shot.
 
 These are permanent technical limitations that restricts a young
-player\'s potential to progress to higher levels of the competitive
+player's potential to progress to higher levels of the competitive
 game.
 
 The same tendencies are as debilitating at the club level. The
@@ -141,7 +136,7 @@ everyday, sometimes twice a day, and took lessons 2 or 3 times week.
 
 I taught him a compact forehand with a straight backswing, and the shot
 worked very well. But Brent was avid to receive as much instruction as
-possible and since my schedule wouldn\'t allow spending more time with
+possible and since my schedule wouldn't allow spending more time with
 him, he decided to go to a well known adult tennis college for an
 intense, week long learning experience.
 
@@ -176,21 +171,20 @@ the game and what that forehand looks like today.
 
 **The Loop Backswing**
 
-But, could a loop backswing really be as bad as that? Isn\'t it true
-that all the top players use some form of a loop? And shouldn\'t we all
+But, could a loop backswing really be as bad as that? Isn't it true
+that all the top players use some form of a loop? And shouldn't we all
 try to copy the technique of the top pros?
 
 The answer to the first question is yes. Most top pros definitely have a
-loop in their forehand motion. But let\'s begin by actually looking at
+loop in their forehand motion. But let's begin by actually looking at
 the nature of the loop in the professional game. Then we can address the
 second question about what to copy.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image6.webp){width="2.40625in"
-height="2.5in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image6.webp)
 
-**Agassi\'s motion from the completion of the turn to the top of the
+**Agassi's motion from the completion of the turn to the top of the
 loop**
 
 **[[The key questions to ask about the pro loop are: When does it begin?
@@ -203,9 +197,9 @@ we will see they all begin their preparation with the unit turn and no
 significant motion in either arm. This turn precedes the loop backswing
 with the arm.
 
-In Agassi\'s case, as he starts the unit turn, his hands turn the
+In Agassi's case, as he starts the unit turn, his hands turn the
 racquet face slightly downward. But in relation to the rest of his body,
-it\'s as if his arms had actually stayed in the ready position. They
+it's as if his arms had actually stayed in the ready position. They
 stay in front of his torso at about waist level. Since they are attached
 to the rest of his body, they naturally turn as a function of the turn
 with the feet and shoulders.
@@ -223,17 +217,16 @@ turn is complete. This is what I call the pro looping motion.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person playing tennis Description automatically generated with medium                                                                                                                    ![A person playing tennis Description automatically generated with medium
-   confidence](media_myth-of-the-backswing-the-backhand/media/image7.jpg){width="2.0833333333333335in"   confidence](media_myth-of-the-backswing-the-backhand/media/image8.jpg){width="2.4583333333333335in"
-                                                                                      height="2.65625in"}                                                                                                                                                                          height="2.65625in"}
+   confidence](media_myth-of-the-backswing-the-backhand/media/image7.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                             **The start of Agassi\'s loop backswing. The hands separate only after most of the turn is complete.**                                                      **The completion of the turn. At the top of the backswing, Agassi\'s racquet is at most a foot above his head. Both his arm and racquet have stayed on his right side.**
+                                             **The start of Agassi's loop backswing. The hands separate only after most of the turn is complete.**                                                      **The completion of the turn. At the top of the backswing, Agassi's racquet is at most a foot above his head. Both his arm and racquet have stayed on his right side.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This pro looping motion is compact in two ways. First the racquet stays
 on his right side, never traveling backwards behind the plane of his
 body. Second, the height of his loop never reaches more than about a
-racquet head\'s height above his head, at the highest. On his service
+racquet head's height above his head, at the highest. On his service
 returns or when he is on the run, this loop is even more compact,
 verging on a straight backswing motion.
 
@@ -257,8 +250,7 @@ remains unchanged as the racquet moves through the contact point, with
 the wrist release coming only after the ball is well off the strings.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_myth-of-the-backswing-the-backhand/media/image9.jpg){width="2.34375in"
-height="2.3125in"}
+generated](media_myth-of-the-backswing-the-backhand/media/image9.jpg)
 
 **The critical hitting arm or power palm position - elbow in with the
 wrist laid back.**
@@ -279,11 +271,11 @@ turn and the establishment of the power hitting arm position as the
 racquet actually starts forward and upward to the ball.
 
 This is why starting the motion with the arm causes so much devastation
-at the club level. More than once I\'ve heard players, students, and
+at the club level. More than once I've heard players, students, and
 teaching pros defend the loop as the sacred first move and \"the key to
 racquet head speed.\" But it is ridiculous to argue that the loop
 provides more racquet head speed if the player is unable to fully turn
-or establish the hitting arm position. That\'s an extreme example of
+or establish the hitting arm position. That's an extreme example of
 putting the cart before the horse.
 
 **So what is the answer to the second question we posed about whether to
@@ -295,8 +287,7 @@ of the foreswing.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image10.webp){width="2.6458333333333335in"
-height="2.5in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image10.webp)
 
 **The circular backswing connects two critical points in the pro
 forehand: the turn and the hitting arm position when the racquet starts
@@ -309,7 +300,7 @@ seek to copy from the pros.]{.mark}***
 
 Any player can hit the ball well if he has these two positions,
 regardless of the exact size or shape of his backswing. But without
-them, the forehand simply will never be consistent or reach it\'s
+them, the forehand simply will never be consistent or reach it's
 potential and the looping motion can do nothing to overcome these
 deficiencies. Instead, as we have seen, it actually causes these more
 basic problems to occur.
@@ -319,25 +310,24 @@ backswing, emphasizing the turn and the hitting arm position when the
 racquet starts forward to the ball. The great irony is that players who
 develop these two positions tend to then develop a compact loop
 naturally and automatically. As a player progresses to higher levels,
-this loop may expand in size somewhat, but it\'s position in the
+this loop may expand in size somewhat, but it's position in the
 sequence of the motion remains the same-after the turn and before the
 foreswing.
 
 The larger loop should be secondary to all this, and Pete Sampras is a
 perfect example. Most teaching pros have heard this from one or more
-students, \"I\'m developing a close faced loop because I want to hit my
+students, \"I'm developing a close faced loop because I want to hit my
 forehand like Pete Sampras.\"
 
 ![A group of people on a stage Description automatically generated with
 low
-confidence](media_myth-of-the-backswing-the-backhand/media/image11.webp){width="2.5833333333333335in"
-height="2.4791666666666665in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image11.webp)
 
 **The young Pete Sampras (age 9) hits a perfect model forehand using a
 small compact loop and perfect hitting arm position.**
 
-Sampras\'s loop is more closed face and probably slightly larger than
-Agassi\'s. But Pete\'s distinctive backswing motion was not part of his
+Sampras's loop is more closed face and probably slightly larger than
+Agassi's. But Pete's distinctive backswing motion was not part of his
 fundamental technical development. It evolved much later, long after the
 more critical elements were in place.
 
@@ -351,15 +341,14 @@ juniors or club tennis.
 
 If you want to develop a great forehand, take a tip from Pete and start
 with the core fundamentals. Once you become an elite nationally ranked
-player\--or the best 4.0 player in your club\--maybe you\'ll naturally
+player\--or the best 4.0 player in your club\--maybe you'll naturally
 expand your swing a bit and give it your own unique stamp, the way Pete
-did. But first, liberate yourself from the myth of the backswing. It\'s
+did. But first, liberate yourself from the myth of the backswing. It's
 the only way to find out how good your forehand could actually become.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_myth-of-the-backswing-the-backhand/media/image12.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_myth-of-the-backswing-the-backhand/media/image12.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

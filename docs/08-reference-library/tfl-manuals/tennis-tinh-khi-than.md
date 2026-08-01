@@ -1098,7 +1098,7 @@ chất lượng mà bạn không thể giải thích được --- chỉ có th�
 
 > *\"\"Khí không phải là thứ bí ẩn chỉ có thầy phù thủy mới hiểu. Khí là
 > năng lượng vật lý di chuyển qua một hệ thống sinh học. Khoa học gọi nó
-> là \'biokinetics\'. Chúng ta gọi nó là \'tennis\'.\"\"*
+> là 'biokinetics'. Chúng ta gọi nó là 'tennis'.\"\"*
 
 **CHƯƠNG 6: HƠI THỞ ĐAN ĐIỀN (DANTIAN BREATHING)**
 
@@ -1716,7 +1716,7 @@ LÕI**
 
 **Hay: \"Nghệ Thuật Của Sự Chậm Trễ Có Chủ Ý\"**
 
-> *\"\"Trong thế giới thể thao, không có gì \'sai\' hơn sự thật này: để
+> *\"\"Trong thế giới thể thao, không có gì 'sai' hơn sự thật này: để
 > nhanh hơn, đôi khi bạn phải chậm hơn.\"\"*
 
 **10.1. Paradox Của Lag**

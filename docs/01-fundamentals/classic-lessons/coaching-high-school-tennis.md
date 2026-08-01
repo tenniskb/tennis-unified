@@ -6,14 +6,13 @@
 
 ![A group of men in sports uniforms Description automatically generated
 with low
-confidence](media_coaching-high-school-tennis/media/image1.jpg){width="3.3854166666666665in"
-height="2.1145833333333335in"}
+confidence](media_coaching-high-school-tennis/media/image1.jpg)
 
 **High school tennis can create a sport and friendships that last for
 life.**
 
 With less than 1 percent of high school athletes receiving a college
-scholarship, the high school team is the pinnacle of many athletes\'
+scholarship, the high school team is the pinnacle of many athletes'
 experience. A tennis team can be a positive experience that inspires
 friendships and play over a lifetime, or a negative experience that
 results in a player losing interest in the sport completely.
@@ -31,8 +30,7 @@ tennis players. Instead, I see school teachers, basketball coaches,
 dentists and a city manager.
 
 ![A person playing tennis Description automatically
-generated](media_coaching-high-school-tennis/media/image2.jpg){width="2.7777777777777777in"
-height="3.4583333333333335in"}
+generated](media_coaching-high-school-tennis/media/image2.jpg)
 
 **What does it mean to be a role model?**
 
@@ -60,14 +58,13 @@ of challenge that is enough to move them forward without being so
 difficult that they quite, or so facile that they get complacent.
 
 The prospect of cutting players includes the possibility of taking away
-a student\'s opportunity to gain a love for the sports they could play
+a student's opportunity to gain a love for the sports they could play
 for a lifetime. If the varsity becomes too large, form a junior varsity
 or Varsity A and Varsity B team. When high school tennis coaches have
 no-cuts policies, tennis in the community grows.
 
 ![A person playing tennis Description automatically
-generated](media_coaching-high-school-tennis/media/image3.jpg){width="4.513888888888889in"
-height="2.2083333333333335in"}
+generated](media_coaching-high-school-tennis/media/image3.jpg)
 
 **Who plays number one can mean a great deal individually and to the
 team.**
@@ -101,8 +98,7 @@ season.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_coaching-high-school-tennis/media/image4.jpg){width="3.888888888888889in"
-height="2.5972222222222223in"}
+confidence](media_coaching-high-school-tennis/media/image4.jpg)
 
 **When they learn to make pressure volleys players love the net.**
 
@@ -129,8 +125,7 @@ teach players to politely ask the server to call the score out loud.
 
 ![Women holding tennis rackets Description automatically generated with
 medium
-confidence](media_coaching-high-school-tennis/media/image5.jpg){width="3.4722222222222223in"
-height="2.9444444444444446in"}
+confidence](media_coaching-high-school-tennis/media/image5.jpg)
 
 **Having teammates\--one of the most beautiful aspects of high school
 tennis.**
@@ -159,11 +154,10 @@ reasons.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing outdoor, person, person, tree Description automatically                                                                                                     Roy Gessford was a championship high school
-  generated](media_coaching-high-school-tennis/media/image6.jpeg){width="1.5597222222222222in"   player In Los Angeles who played college tennis
-  height="2.2090277777777776in"}                                                                                                                                                     at the University of Californa, San Diego. From
+  generated](media_coaching-high-school-tennis/media/image6.jpeg)                                                                                                                                                     at the University of Californa, San Diego. From
                                                                                                                                                                                      there he went on to play internationally in
                                                                                                                                                                                      France and Mexico as well as across the United
-                                                                                                                                                                                     States. He has coached girls\' and boys\' high
+                                                                                                                                                                                     States. He has coached girls' and boys' high
                                                                                                                                                                                      school tennis teams at schools in the Monterey
                                                                                                                                                                                      Peninsula area in California for almost 20 years,
                                                                                                                                                                                      and also directed an annual team invitational

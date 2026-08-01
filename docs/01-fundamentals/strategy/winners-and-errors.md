@@ -1,13 +1,12 @@
 # Winners And Errors
 
-### Craig O\'Shannessy
+### Craig O'Shannessy
 
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winners-and-errors/media/image1.jpg){width="4.861111111111111in"
-height="3.2777777777777777in"}
+confidence](media_winners-and-errors/media/image1.jpg)
 
 **What is the real significance of errors in First Strike Tennis?**
 
@@ -15,12 +14,12 @@ Tennis is a game of errors. Lots and lots and lots and lots of errors.
 Understanding errors and how to extract them from opponents is the real
 key to match success.
 
-But wait! Haven\'t I just spent the last few articles convincing you
+But wait! Haven't I just spent the last few articles convincing you
 that the key to winning tennis is First Strike points, winning points
 that are decided by serves, returns and at most one more shot? ([Click
 Here](First%20Strike%20Tennis%20-%20All%20Levels.docx).)
 
-Doesn\'t that imply that winners in these brief exchanges are the
+Doesn't that imply that winners in these brief exchanges are the
 essence of successful match play? The answer is no. And here we discover
 the subtlety and the complexity of what really constitutes winning
 tennis in this game we love.
@@ -34,15 +33,14 @@ to be the best player you can possibly be, reaching your potential, and
 possibly, beating players you may have never beaten or thought you could
 beat by looking at the game in a new way?
 
-Errors are the difference in who wins the four hit battles. And let\'s
+Errors are the difference in who wins the four hit battles. And let's
 not forget about points that last 5-8 hits, a category that represents
-another 20% or more of total points. It\'s equally critical there. The
+another 20% or more of total points. It's equally critical there. The
 secret is to reduce your own errors while adopting strategies that cause
 your opponents to make the errors themselves.
 
 ![A person playing tennis Description automatically
-generated](media_winners-and-errors/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_winners-and-errors/media/image2.webp)
 
 **Is it important to distinguish between types of errors?**
 
@@ -69,20 +67,19 @@ call accurately over the course of a match. So the results are often
 skewed.
 
 Secondly, the way matches are usually tallied the role of so-called
-unforced errors doesn\'t make statistical sense. For example, if you add
-up unforced errors and winners, they don\'t account for the total number
+unforced errors doesn't make statistical sense. For example, if you add
+up unforced errors and winners, they don't account for the total number
 of points played.
 
 The rest fall into some gray area. Almost every shot has some kind of
-pressure to it so it\'s best to focus on one simple distinction between
+pressure to it so it's best to focus on one simple distinction between
 winners and errors.
 
 ![A picture containing athletic game, sport, tennis, court Description
 automatically
-generated](media_winners-and-errors/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_winners-and-errors/media/image3.webp)
 
-**Let\'s make the simple distinction between a winner and an error.**
+**Let's make the simple distinction between a winner and an error.**
 
 **The Evidence**
 
@@ -148,14 +145,13 @@ average? Over 74% of all points decided by errors.
   Totals       68,315       17,652        50,663       25.9%       74.1%
   ---------------------------------------------------------------------------
 
-We\'ve looked at many other pro data sets since. The results show that
-at least two thirds, 66% of all points are decided by errors. It\'s a
+We've looked at many other pro data sets since. The results show that
+at least two thirds, 66% of all points are decided by errors. It's a
 constant.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_winners-and-errors/media/image4.jpg){width="1.7359995625546807in"
-height="2.4642727471566053in"}
+confidence](media_winners-and-errors/media/image4.jpg)
 
 **How should you think about errors in your game?**
 
@@ -187,29 +183,27 @@ next article we will look at 8 different strategic approaches that will
 give you the advantage based on the actual reality of how tennis matches
 are played and won.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with low                                                                      | Craig O\'Shannessy is widely recognized as  |
-| confidence](media_winners-and-errors/media/image5.jpg){width="1.875in" | the world leader in analyzing tennis        |
-| height="2.3333333333333335in"}                                                                                                                      | statistics, tennis strategy, and applying   |
-|                                                                                                                                                     | his insights in coaching. His research has  |
-|                                                                                                                                                     | uncovered the real magic numbers in winning |
-|                                                                                                                                                     | tennis across all levels of the game. He    |
-|                                                                                                                                                     | writes for the ATP Tour website and the New |
-|                                                                                                                                                     | York Times among others elite publications. |
-|                                                                                                                                                     |                                             |
-|                                                                                                                                                     | He has coached on the tour for 20 years     |
-|                                                                                                                                                     | working with players including Kevin        |
-|                                                                                                                                                     | Anderson, Amer Delic, and Rajeev Ram. His   |
-|                                                                                                                                                     | website Brain Game Tennis offers detailed   |
-|                                                                                                                                                     | analysis and training programs based on his |
-|                                                                                                                                                     | research that have helped thousands of      |
-|                                                                                                                                                     | players around the world.                   |
-+=====================================================================================================================================================+=============================================+
+| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
+| --- | --- |
+| confidence](media_winners-and-errors/media/image5.jpg) | statistics, tennis strategy, and applying |
+|  | his insights in coaching. His research has |
+|  | uncovered the real magic numbers in winning |
+|  | tennis across all levels of the game. He |
+|  | writes for the ATP Tour website and the New |
+|  | York Times among others elite publications. |
+|  |  |
+|  | He has coached on the tour for 20 years |
+|  | working with players including Kevin |
+|  | Anderson, Amer Delic, and Rajeev Ram. His |
+|  | website Brain Game Tennis offers detailed |
+|  | analysis and training programs based on his |
+|  | research that have helped thousands of |
+|  | players around the world. |
+
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Diagram Description automatically generated with medium                                                                                                          [Click
-  confidence](media_winners-and-errors/media/image6.jpg){width="3.4722222222222223in"   Here](http://www.braingametennis.com/)
-  height="1.7916666666666667in"}                                                                                                                                     to visit Craig\'s site and check out his
+  confidence](media_winners-and-errors/media/image6.jpg)                                                                                                                                     to visit Craig's site and check out his
                                                                                                                                                                      amazing training products!
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------
 

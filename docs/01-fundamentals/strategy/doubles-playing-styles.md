@@ -6,8 +6,7 @@
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_doubles-playing-styles/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image1.webp)
 
 **Attacking and counterattacking patterns make doubles naturally
 exciting.**
@@ -25,8 +24,7 @@ makes doubles naturally exciting to play or to watch.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_doubles-playing-styles/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}\
+confidence](media_doubles-playing-styles/media/image2.webp)\
 **Your tactics must be based on your style of play.**
 
 Most people think that there is only one way of playing doubles, and
@@ -47,8 +45,7 @@ or receiving.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_doubles-playing-styles/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image3.webp)
 
 **Success comes from court coverage, shot selection, teamwork.**
 
@@ -58,18 +55,17 @@ anticipation, command or signal, I formation, and Australian formation)
 that are necessary when serving or receiving. Everyone agrees poaching
 is important but very few players do it frequently or successfully.
 
-But let\'s start by we will addressing an underlying issue in doubles
+But let's start by we will addressing an underlying issue in doubles
 tactical training. This is the issue of game styles. Once we understand
 the style of a particular team, we can see how to implement appropriate
-tactics based on the team\'s strengths and weaknesses as well as those
+tactics based on the team's strengths and weaknesses as well as those
 of the opponents, as well as the specific match situations.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_doubles-playing-styles/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image4.webp)
 
-**Very few players poach frequently and successfully. Good doubles\'
+**Very few players poach frequently and successfully. Good doubles'
 teams poach also on return of serve.**
 
 **Playing Styles**
@@ -89,13 +85,12 @@ styles in doubles into 5 categories:
 
 (5) **Combined Game Style Players**
 
-Let\'s talk a look at the general characteristics of each style, and
+Let's talk a look at the general characteristics of each style, and
 outline some of the potential strengths and weaknesses.
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_doubles-playing-styles/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image5.webp)
 
 **Movers and Poachers create even more uncertainty by \"faking\" to
 cross which has the receiver hit down-the-line.**
@@ -111,8 +106,8 @@ confident enough at the net.
 
 The biggest potential strengths of the team are speed and movement. In
 their service games, this means the server can move in quickly and
-better handle the returns, as well as put away floaters. The server\'s
-partner\'s strength in this style is great presence at the net. This
+better handle the returns, as well as put away floaters. The server's
+partner's strength in this style is great presence at the net. This
 type of partner is agile enough to poach successfully on a regular
 basis, as well as deal with down the line returns and passes.
 
@@ -125,29 +120,27 @@ staying back.
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
-confidence](media_doubles-playing-styles/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image6.webp)
 
 **Quick Movers have the ability to chip and charge the net.**
 
-The receiver\'s partner can move forward and poach very well. The
-creates pressure on the server\'s first volley. This is the best
+The receiver's partner can move forward and poach very well. The
+creates pressure on the server's first volley. This is the best
 possible partner to have if you return well. Fast movers arid poachers
 are always ready to intercept a crosscourt shot in their role as either
-the server\'s or receiver\'s partner.
+the server's or receiver's partner.
 
 Sometimes Movers and Poachers can be overpowered by Hard Hitters,
-particularly teams who have big serves. If they can\'t return, then they
-can\'t put their strengths into play. Poaching too soon can expose this
+particularly teams who have big serves. If they can't return, then they
+can't put their strengths into play. Poaching too soon can expose this
 type of team to winners down the line. Often, they lack defensive skills
-and aren\'t effective when they need to play defense, especially with
+and aren't effective when they need to play defense, especially with
 both players back. On serve they are vulnerable to powerful returns. In
 the return game, they can also be vulnerable to lobs.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_doubles-playing-styles/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image7.webp)
 
 **Hard hitters try to overpower teams with big serves and big
 groundstrokes.**
@@ -160,7 +153,7 @@ and/or power groundstrokes.]{.mark} [Both partners are frequently at the
 baseline on the returns, with the server staying back to initiate the
 point with powerful groundstrokes.]{.mark}]{.underline}** This tactic of
 staying back is sometimes less a preferred tactic than an indication of
-the server\'s lack of confidence in the serve and volley.
+the server's lack of confidence in the serve and volley.
 
 More and more teams now rely on powerful serves, returns, and ground-
 strokes to win their points. One of the main reasons is that juniors are
@@ -173,25 +166,24 @@ labeled serve and volleyers.
 opponents simply through the pace of their shots, either or serve, or
 off the ground, or both.]{.underline}]{.mark}** Hard hitting teams with
 big groundstrokes are sometimes most effective on clay where they have
-more time to set up. Typically, the server\'s partner can protect the
+more time to set up. Typically, the server's partner can protect the
 down the line since the team is less worried about placements and
 poaching. In return games, power off the ground usually translates into
 powerful returns, especially on second serves. If the team is dominant
 enough, playing two back can actually be an advantage.
 
 These teams often lack shot variety and/or the ability to move well as a
-team. This can be a weakness if the opponent\'s return well. Hard
+team. This can be a weakness if the opponent's return well. Hard
 hitters will often struggle on fast surfaces against good volleyers. If
 they return with western grips, typically they will stand further back
 on the returns. This gives the net player more time to poach. Because
 typically these teams do not move forward on the return, or try to poach
-the first volley, there is also less pressure on the server\'s first
+the first volley, there is also less pressure on the server's first
 volley. If the hard-hitting team is playing two back the server can also
 volley to the middle of the court.
 
 ![A person playing tennis Description automatically
-generated](media_doubles-playing-styles/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_doubles-playing-styles/media/image8.webp)
 
 **Hard hitters typically hit power returns from further back in the
 court.**
@@ -208,7 +200,7 @@ balance.
 This game style is much more common at the senior level, where many
 players tend to use primarily backhand slices instead of high-powered
 two-handed drives. Successful precision players have the ability to make
-their opponents look bad. They don\'t usually hit flashy shots, but they
+their opponents look bad. They don't usually hit flashy shots, but they
 hit very accurately and this induces many mistakes in opponents.
 **[[Precision players frequently produce angles that will pull one
 player off the court, leaving only one player to deal with the second
@@ -217,8 +209,7 @@ well.]{.underline}]{.mark}**
 
 ![A group of men playing tennis Description automatically generated with
 medium
-confidence](media_doubles-playing-styles/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image9.webp)
 
 **Precision players have consistency, touch, and good hands.**
 
@@ -226,22 +217,21 @@ height="2.2291666666666665in"}
 first volley and the ability to win points with placement and
 touch.]{.underline}]{.mark}** Typically, they have good hands which
 translates into good touch and good defense. They have the ability to
-keep opponent\'s guessing by mixing shots, with different speeds and
+keep opponent's guessing by mixing shots, with different speeds and
 angles as well as to dink and use the lob on returns and second shots.
 
 One weakness of precision teams is that they rarely intimidate
 opponents. Sometimes there serves lack power and opponents generally
 feel they have the chance to break serve in every game. Opponents are
 less hesitant to poach against there returns. Precision player often
-aren\'t aggressive enough in moving forward. Serving teams in pro tennis
+aren't aggressive enough in moving forward. Serving teams in pro tennis
 are getting more powerful and agile every year, making it tough for this
 type of team to win in pro tennis, but precision players can be very
 successful at the club and senior tennis levels.
 
 ![A group of people playing football Description automatically generated
 with medium
-confidence](media_doubles-playing-styles/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image10.webp)
 
 **All court players can win points both at the net or at the baseline
 with a good variety of groundstrokes.**
@@ -264,8 +254,7 @@ amassing 60 doubles titles\--11 of which were Grand Slam titles.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A couple of men playing tennis Description automatically
-   generated](media_doubles-playing-styles/media/image11.jpg){width="2.5118055555555556in"
-                                                                      height="2.029861111111111in"}
+   generated](media_doubles-playing-styles/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                               **The Woodies were both solid all-court players\--a rarity on a single team.**
 
@@ -281,7 +270,7 @@ All Court teams have more varied options for holding serve. Typically,
 they serve and volley effectively and have a strong presence at the net.
 They have great potential to break serve with solid returns and second
 shots. Typically, the net player can apply pressure at the net on his
-partner\'s returns.
+partner's returns.
 
 **[[They can be beaten in two ways, by teams that are powerful enough to
 hit through them from the baseline, or that can challenge them for
@@ -296,8 +285,7 @@ teams that are composed of players with different playing styles are
 quite common. We can identify three frequent combinations:
 
 ![A person swinging a tennis racket Description automatically
-generated](media_doubles-playing-styles/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_doubles-playing-styles/media/image12.webp)
 
 **The hard hitter sets up his partner with solid cross-courts from the
 baseline.**
@@ -305,13 +293,13 @@ baseline.**
 **Hard Hitter and Poacher**
 
 This combination works when the Hard Hitter gets a high percentage of
-first serves in which maximizes his partner\'s strengths at the net. If
+first serves in which maximizes his partner's strengths at the net. If
 he stays back, he sets up the Poacher with solid cross-courts. On
-returns he needs to remember that he doesn\'t necessarily have to hit
+returns he needs to remember that he doesn't necessarily have to hit
 winners, since his partner can set up his partner to intercept the
-server\'s first volley or groundstroke. He must be able to move forward
+server's first volley or groundstroke. He must be able to move forward
 when necessary because the server will often volley short crosscourt to
-avoid his partner\'s poach. He has to respect that his partner doesn\'t
+avoid his partner's poach. He has to respect that his partner doesn't
 have the same power, but can win points other ways with mobility and
 poaching.
 
@@ -324,8 +312,7 @@ natural to him, preferring to stay back and rely on his powerful drives.
 
 ![A group of people playing tennis Description automatically generated
 with low
-confidence](media_doubles-playing-styles/media/image13.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image13.webp)
 
 **When playing with a Poacher get a high percentage of first serves in
 play.**
@@ -339,10 +326,10 @@ respecting what each player brings to the team.
 
 **Precision Player and Poacher**
 
-In this combination, it\'s even more important that the Precision Player
+In this combination, it's even more important that the Precision Player
 get a high percentage of first serves in since he lacks the power of the
 Hard Hitter. He should also serve to locations that Poacher
-prefers\--either the returner\'s weakness or the side where the Poacher
+prefers\--either the returner's weakness or the side where the Poacher
 believes he can more easily anticipate the return. The Precision Player
 should encourage his partner to continue to poach even if he misses a
 few easy balls. In the return game the Precision Player should set up
@@ -357,7 +344,7 @@ more comfortable using a groundstroke as a second shot.
 
 **Hard Hitter and Precision Player**
 
-In this combination, it\'s important the partners support each other
+In this combination, it's important the partners support each other
 when one or the other is struggling to hold serve, since neither player
 has the advantage of being a great poacher. The Hard Hitter has to
 respect the Precision Player if he misses lobs or gets poached on her
@@ -366,8 +353,7 @@ Hitter misses power returns.
 
 ![A couple of people walk across a tennis court Description
 automatically generated with low
-confidence](media_doubles-playing-styles/media/image14.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_doubles-playing-styles/media/image14.webp)
 
 **Mutual respect\--the challenge to accept your partner for the player
 she is.**
@@ -380,21 +366,20 @@ partner.
 
 Having different game styles is generally advantageous, since it is
 difficult for opponents to adjust to the dissimilar tactics of two
-players as they change from one position to another (server, server\'s
-partner, receiver, receiver\'s partner). Such diverse tactics require
+players as they change from one position to another (server, server's
+partner, receiver, receiver's partner). Such diverse tactics require
 the opposing team to make constant adjustments from point to point.
 
 All these different game styles can win tournaments if the players learn
 to work tactically as a team and support each other. Identify which type
 of player you are and decide which tactical patterns best suit you.
-Identify your current partner\'s game style. Instead of focusing on what
+Identify your current partner's game style. Instead of focusing on what
 he does not do as well as you, discover his strengths and how the two of
 you can work together to maximize the team performance.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person smiling for the camera Description automatically generated with medium                                                                                        Louis Cayer is one of the world\'s best known experts on the art of doubles, and
-  confidence](media_doubles-playing-styles/media/image15.jpeg){width="1.8722222222222222in"   has worked with players who have reached the top of the game, including Grant
-  height="2.1118055555555557in"}                                                                                                                                           Connell, Sebastian Lareau and Daniel Nestor. He is the Head National coach for
+  ![A person smiling for the camera Description automatically generated with medium                                                                                        Louis Cayer is one of the world's best known experts on the art of doubles, and
+  confidence](media_doubles-playing-styles/media/image15.jpeg)                                                                                                                                           Connell, Sebastian Lareau and Daniel Nestor. He is the Head National coach for
                                                                                                                                                                            Tennis Canada, and the former Canadian Davis Cup captain and Olympic Coach.
                                                                                                                                                                            Louis is the author of the highly regarded book written for the International
                                                                                                                                                                            Tennis Federation, Doubles Tennis Tactics, and the companion DVD/video,

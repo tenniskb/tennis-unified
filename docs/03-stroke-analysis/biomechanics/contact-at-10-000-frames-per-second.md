@@ -6,14 +6,13 @@
 
 ![A hand holding a tennis racket Description automatically generated
 with low
-confidence](media_contact-at-10-000-frames-per-second/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image1.webp)
 
 **How long is contact really?**
 
 In my new book, The Art and Science of Ball Watching ([Click
 Here](https://drpaulhamori.com/index.php/product/the-art-and-science-of-ball-watching/))
-I explored Roger Federer\'s unique ball watching technique. The book is
+I explored Roger Federer's unique ball watching technique. The book is
 aimed at finding a methodology to learn how to see contact--in as much
 as this is possible within the limits of physiology and nerve
 transmission speed. ([Click
@@ -38,13 +37,12 @@ Berrittini that measured 129mph at 3930rpm. Alexander Zverev posted
 similar numbers, hitting a forehand at an unbelievable 136mph with
 3700rpm of spin. ([Click
 Here](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/)
-to read Jim\'s pioneering study.) Could any of that be related to
+to read Jim's pioneering study.) Could any of that be related to
 contact times?
 
 ![A tennis racket hitting a ball Description automatically generated
 with medium
-confidence](media_contact-at-10-000-frames-per-second/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image2.webp)
 
 **Do different strings and tensions affect contact time?**
 
@@ -71,7 +69,7 @@ the racket in a fixed position.
 Then using a ball machine, they fired a ball at the racket at 90 miles
 an hour, at a 90 degree angle, straight into the string bed.
 
-This was meant to stimulate a tennis stroke, but doesn\'t take into
+This was meant to stimulate a tennis stroke, but doesn't take into
 account racket, hand, wrist, and forearm flexibility, pronation,
 rotation, and the angle of incidence.
 
@@ -79,8 +77,7 @@ rotation, and the angle of incidence.
 
 ![A tennis ball hitting a racket Description automatically generated
 with medium
-confidence](media_contact-at-10-000-frames-per-second/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image3.webp)
 
 **Decreasing string tension increased contact time by 20%.**
 
@@ -97,7 +94,7 @@ spaghetti strung racket.
 What are spaghetti strings? A stringing method now illegal on the tour
 that increases spin values tremendously. [Click
 Here](https://www.tennisplayer.net/members/physics_of_tennis/josh_speakman/spaghetti_strings/)
-to read John Speakman\'s great story on what spaghetti strings are, how
+to read John Speakman's great story on what spaghetti strings are, how
 they were developed, and why they were eventually banned.
 
 In the book I estimated that a rally ball doubles the contact time, and
@@ -113,8 +110,7 @@ What would it mean to get the strings to work on the ball 20- 30%
 longer?
 
 ![A picture containing dark, close Description automatically
-generated](media_contact-at-10-000-frames-per-second/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_contact-at-10-000-frames-per-second/media/image4.webp)
 
 **A rally ball and spaghetti strings extends contact time by more than
 twice.**
@@ -145,13 +141,12 @@ The balls were fired by a ball machine at a comfortable rally speed for
 a 4-4.5 player.
 
 Then the pressure was on. I had to hit forehands, forehand volleys, and
-serves under the brightest of lights with half of my club\'s beady eyes
+serves under the brightest of lights with half of my club's beady eyes
 upon me. It gave me a newfound respect for what actors go through.
 
 ![A tennis racket and a ball Description automatically generated with
 medium
-confidence](media_contact-at-10-000-frames-per-second/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image5.webp)
 
 **With all rackets and string variations the ball pocketed rather than
 sliding.**
@@ -178,8 +173,7 @@ ball. I also was amazed by the amount of string bed oscillation after
 the stroke--5 or 6 cycles of vibrating to and from.
 
 ![A tennis racket and ball Description automatically generated with low
-confidence](media_contact-at-10-000-frames-per-second/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image6.webp)
 
 **A forehand from the High Speed Archive at 10,000 frames a second.**
 
@@ -192,7 +186,7 @@ published figure of 5 milliseconds. They were closer to 4 milliseconds .
 the published figure. But lowering tension significantly increased the
 contact time, by as much as 20% more.]{.mark}]{.underline}**
 
-A 20% increment is huge in any sport. In tennis that\'s the difference
+A 20% increment is huge in any sport. In tennis that's the difference
 between a 100mph serve and a 120mph serve. So, the extra contact time
 had to be making a difference in terms of ball flight characteristics
 off the racket.
@@ -261,8 +255,7 @@ serve was 3.7 milliseconds.
 
 ![A tennis ball hitting a racket Description automatically generated
 with medium
-confidence](media_contact-at-10-000-frames-per-second/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image7.webp)
 
 **Serve contact times were slightly shorter than forehands or volleys.**
 
@@ -296,13 +289,12 @@ time. And at the higher ball velocities than in our study, the contact
 times and carry distances could be even longer.]{.mark}]{.underline}**
 
 ![A picture containing sky, green, tennis Description automatically
-generated](media_contact-at-10-000-frames-per-second/media/image8.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_contact-at-10-000-frames-per-second/media/image8.webp)
 
 **Carrying distance at 4 milliseconds is about an inch and is longer
 with lower tensions.**
 
-In last month\'s issue ([Click
+In last month's issue ([Click
 Here](https://www.tennisplayer.net/members/mystheavyball/jim_fawcette/new_top_ball_speed/))
 Jim Fawcette describes the incredible velocities and rotation being
 achieved by current professionals. They are shattering the previous
@@ -328,8 +320,7 @@ Stay Tuned! In my next article I am going to analyze the bounce--at
 
 ![A person wearing a suit and tie Description automatically generated
 with medium
-confidence](media_contact-at-10-000-frames-per-second/media/image9.jpeg){width="1.8208333333333333in"
-height="2.1118055555555557in"}
+confidence](media_contact-at-10-000-frames-per-second/media/image9.jpeg)
 
 I began writing the book that is the basis for this article - [The Art
 and Science of Ball
@@ -340,7 +331,7 @@ fifty-five years ago at the age of five. In high school I played four
 years of varsity tennis in addition to sanctioned USTA junior
 tournaments. I probably reached a 4.5-5.0 level. I considered playing
 small college tennis, but by then I was burned out on the sport, and
-knew that my pre-med studies wouldn\'t allow time for college tennis.
+knew that my pre-med studies wouldn't allow time for college tennis.
 
 But tennis was in my blood, and I started playing again with a passion
 after medical school. During this time, I really started to study the

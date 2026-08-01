@@ -6,8 +6,7 @@ Hit Up or Hit Down?**
 **John Yandell**
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-serve-mystery/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-mystery/media/image1.webp)
 
 **A slight downward angle off the racket, but what does that mean in
 terms of intention?**
@@ -15,35 +14,34 @@ terms of intention?**
 You hear it both ways. Hit up on the serve. Hit down on the serve. If
 this question has puzzled you, here is the reality.
 
-What\'s that reality? The reality is both. The motion is upward but also
+What's that reality? The reality is both. The motion is upward but also
 has a small downward component. But the most important question is what
 should your intention be?
 
 **Downward Flight**
 
-As Jim Fawcette\'s Amazing Tour Portraits showed last month ([**[Click
+As Jim Fawcette's Amazing Tour Portraits showed last month ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/tourportraits/jim_fawcette/serve_contact_height/)),
 the flight of the ball off the racket face is without dispute at a
 slight downward angle. This is also obvious in the High Speed Archives,
-and it\'s the same for both first and second serves. Check out the
+and it's the same for both first and second serves. Check out the
 sideviews of any of the servers there. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/high_speed_archive/).)
 
 So if the flight is downward, the racket face must also be angled
 slightly downward. So does this mean the correct explanation is you have
-to hit down? It\'s not that simple and that idea overlooks most of the
+to hit down? It's not that simple and that idea overlooks most of the
 critical elements in a good motion.
 
 **All the Factors**
 
-The serve motion from the racket drop to the contact is complex. It\'s
+The serve motion from the racket drop to the contact is complex. It's
 affected by multiple factors. Whatever the racket head angle at contact,
 the various motions until just before contact are all upward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-mystery/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-mystery/media/image2.webp)
 
 **Upward motion components: legs, torso rotation, right shoulder
 elevation, elbow extension, arm rotation.**
@@ -51,22 +49,22 @@ elevation, elbow extension, arm rotation.**
 The leg drive off the court. The rotation of the body. The extension of
 the elbow. The internal or counter clockwise rotation of the hand arm
 and racket. And also the upward and forward movement of the shoulder,
-technically shoulder abduction. It\'s just the last fraction of a second
+technically shoulder abduction. It's just the last fraction of a second
 that creates the downward angle.
 
 Using the legs, players are getting up into the air from anywhere to a
 few inches to a foot or more. That leg drive is taking the entire body
 upward, and with it, automatically, the racket. As the body rotates, the
-right shoulder is rising as the left shoulder is going down. So that\'s
+right shoulder is rising as the left shoulder is going down. So that's
 also upward.
 
-At the drop the racket head is hanging along the player\'s side, with
+At the drop the racket head is hanging along the player's side, with
 the tip below waist level. Since the contact is above the head, the
 racket obviously has to travel several feet upward to get there.
 
 The major upward component on the way to contact is the extension or
 straightening of the elbow. The elbow is bent 90 degrees plus at the
-racket drop. It\'s straight at contact.
+racket drop. It's straight at contact.
 
 So that motion alone is raising the height of the racket head several
 feet. Further, as the elbow is straightening, the upper arm is also
@@ -74,13 +72,12 @@ rotating in the shoulder joint, part of the prevailing upward movement.
 
 So how is the downward angle created? By the forward or tilting motion
 of the hitting arm in the shoulder joint. At contact, the arm is not
-straight up and down, or perpendicular to the court. It\'s tilted
+straight up and down, or perpendicular to the court. It's tilted
 slightly forward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-mystery/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-mystery/media/image3.webp)
 
 **The hitting arm tilts slightly forward past perpendicular at
 contact.**
@@ -105,12 +102,11 @@ the tossed ball. To a greater or lesser extent, all the players are
 tossing the ball forward into the court. At contact, the ball is
 anywhere from a few inches up to a foot inside the baseline. Or if we
 look at a player like John Isner, up to 4 feet inside the baseline\--as
-Jim Fawcette\'s measurements show.
+Jim Fawcette's measurements show.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-mystery/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-mystery/media/image4.webp)
 
 **Upward motion components: legs, torso rotation, right shoulder
 elevation, elbow extension, arm rotation**.
@@ -125,18 +121,18 @@ creating that slight downward angle of the arm and racket head.
 
 This in turn creates the downward shot line off the racket face. So are
 the players consciously "hitting down"? After a few decades listening to
-players and coaches, it\'s possible that some players are thinking this.
+players and coaches, it's possible that some players are thinking this.
 And technically it is true at least to some relatively small extent.
 
 What I believe however is that this slight forward tilt happens
 automatically in the context of the overwhelmingly upward motion.
 
 You can see this by comparing the different contact points of the top
-players. Roger Federer\'s contact point is just about at the edge of his
+players. Roger Federer's contact point is just about at the edge of his
 face. The arm and racket tilt slightly forward to reach it---it would be
 impossible to make contact otherwise.
 
-John Isner\'s toss is significantly further into the court. His contact
+John Isner's toss is significantly further into the court. His contact
 is therefore also further into the court. So his tilt forward is more,
 again, because it has to be to reach the ball.
 
@@ -144,8 +140,7 @@ again, because it has to be to reach the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-serve-mystery/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-serve-mystery/media/image5.webp)
 
 **A toss contact point over the head with minimal forward arm angle.**
 
@@ -153,12 +148,12 @@ But take a look at a player like Rafa Nadal. Unlike Federer or Isner,
 his contact is significantly further back. Even on his first serve
 contact is behind the front edge of his rest of his body.
 
-Guess what? Since he doesn\'t have to reach as far into the court to
+Guess what? Since he doesn't have to reach as far into the court to
 make contact, his forward arm tilt is visibly less---barely past
-perpendicular. Maybe half as much as Federer\'s and visibly less than
-Isner\'s.
+perpendicular. Maybe half as much as Federer's and visibly less than
+Isner's.
 
-Even though Rafa\'s serve comes off the racket at a slight, possibly
+Even though Rafa's serve comes off the racket at a slight, possibly
 lesser downward angle, it would be hard to describe it as a pronounced
 downward hit. We know Rafa is touchy about taking advice on his
 serve---and sued a Spanish coach who went public about filming him and
@@ -175,14 +170,13 @@ the actual motion is predominantly upward and outward.
 The outward reach to the ball happens automatically because it has to
 happen, not because players are hitting consciously down. If you are
 keying hitting downward, serving 100mph plus and getting 60% plus of
-your first serves in, don\'t change.
+your first serves in, don't change.
 
 If you are having trouble with your percentages, and especially if you
 are hitting faults into the net, try focusing on the dominant upward
 dimensions and then reaching forward to the ball at contact.
 
-![](media_the-serve-mystery/media/image6.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+![](media_the-serve-mystery/media/image6.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

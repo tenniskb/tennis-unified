@@ -5,14 +5,13 @@ Your Forehand and the Modern Forehand**
 
 # The Contact Point
 
-This month, we\'ll take a look at the key moment in the forehand\--the
+This month, we'll take a look at the key moment in the forehand\--the
 contact point. How do you achieve it and how does it relate to your
 position to the ball\--and especially to your hitting arm structure?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image1.webp)
 
 Contact is the key moment, but what are the characteristics of great
 contact and how are they achieved?
@@ -21,8 +20,7 @@ contact and how are they achieved?
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image3.jpeg){width="1.8263888888888888in"
-height="2.6458333333333335in"}
+confidence](media_john-yandell-your-forehand-and-the-modern-forehand-the-contact-point/media/image3.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

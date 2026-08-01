@@ -5,8 +5,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_head-fixation-and-the-mental-game/media/image1.webp)
 
 **Roger Federer: the most dramatic pro example of head fixation.**
 
@@ -39,8 +38,7 @@ This concern about the future has a negative impact on what actually
 occurs.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_head-fixation-and-the-mental-game/media/image2.webp)
 
 **Research shows that staying fixated on the contact zone improves
 concentration.**
@@ -54,9 +52,9 @@ happened.]{.underline}]{.mark}**
 
 **Control**
 
-**[[It\'s critical that players recognize what they can control, and
+**[[It's critical that players recognize what they can control, and
 what they cannot. Focusing on a process key such as head fixation is
-something that is within the player\'s control on every ball he
+something that is within the player's control on every ball he
 strikes.]{.mark}]{.underline}**
 
 There are many areas where players can experience a loss of control:
@@ -75,10 +73,9 @@ pronounced head fixation - has shown a legendary ability to stay relaxed
 and produce great shot making regardless of the score?
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_head-fixation-and-the-mental-game/media/image3.webp)
 
-**Is Federer\'s relaxed style related directly to his pronounced head
+**Is Federer's relaxed style related directly to his pronounced head
 position?**
 
 Head fixation also helps players implement desired technical changes in
@@ -90,14 +87,14 @@ his body tend to remain stable. This allows the player to stay more
 relaxed and communicate information to his body in a way that solidifies
 change. By defusing emotion head fixation reduces the chance a player
 will fall victim to motor paralysis. In this way it works hand in hand
-with a player\'s between point rituals. Ultimately this combination can
+with a player's between point rituals. Ultimately this combination can
 help free the player from fear of failure. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_16_second_cure_prt1_images/jim_loehr_16_second_cure_prt1.html)
-for Jim Loehr\'s classic article on between point rituals.)
+for Jim Loehr's classic article on between point rituals.)
 
 **Confidence**
 
-Self-confidence is one of the most important components of a player\'s
+Self-confidence is one of the most important components of a player's
 psychological state prior to and during a match. Self-confidence is the
 belief that one has the ability to perform successfully.
 
@@ -106,15 +103,14 @@ beyond the moment of ball impact. Head fixation can play a key role in
 developing and maintaining overall confidence.
 
 Since the fixation phase is the same regardless of whether the player is
-winning or losing, it reinforces the player\'s belief that he has the
+winning or losing, it reinforces the player's belief that he has the
 skill necessary to perform well. It is a simple but very powerful
 technique that creates synergy between multiple aspects of the mental
 game and when implemented has a huge positive impact on performance.
 
 ![A person smiling with his eyes closed Description automatically
 generated with low
-confidence](media_head-fixation-and-the-mental-game/media/image4.jpeg){width="1.8263888888888888in"
-height="2.173611111111111in"}
+confidence](media_head-fixation-and-the-mental-game/media/image4.jpeg)
 
 Damien Lafont Ph.D. is a pioneer in mental, vision and movement study.
 Based in Melbourne, Australia, Damien is manager of Vida Mind ([Click
@@ -124,8 +120,7 @@ improving performance. A certified teaching pro, he holds a degree in
 sport science and training as well as a doctorate in physics.
 
 ![Graphical user interface, application Description automatically
-generated](media_head-fixation-and-the-mental-game/media/image5.jpeg){width="1.6694444444444445in"
-height="2.495833333333333in"}
+generated](media_head-fixation-and-the-mental-game/media/image5.jpeg)
 
 **Back to the Zone**
 

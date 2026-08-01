@@ -11,13 +11,12 @@ style, or Type 3, two-handed backhand. We focused on the take back and
 then the creation of the dynamic slot. ([Click
 Here](The%20ATP%20Two%20Handed%20Backhand%20-The%20Take%20Back%20and%20Dynamic%20Slot.docx).)
 
-Now let\'s turn to the forward swing mechanics, beginning with some
-history and important background. To do this let\'s revisit some key
+Now let's turn to the forward swing mechanics, beginning with some
+history and important background. To do this let's revisit some key
 positions and actions at the initiation of the forward swing.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image1.webp)
 
 **What drives the mechanics of the forward swing in the ATP
 two-hander?**
@@ -37,8 +36,7 @@ This contact further forward is a second key attribute of the Type 3
 swing.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image2.webp)
 
 **The independent acceleration of the arms is what makes the ATP
 backhand unique.**
@@ -70,8 +68,7 @@ be oriented forward at contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image3.webp)
 
 **With the top arm more forward, internal shoulder rotation creates
 vertical racquet speed.**
@@ -100,8 +97,7 @@ backwards. This was a result of the force produced by the bottom arm
 pulling forward on the grip.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image4.webp)
 
 **The initial, linear swing up to the transition point with the racquet
 shaft perpendicular to the baseline.**
@@ -133,15 +129,14 @@ vertically]{.mark}**.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image5.webp)
 
 **From the transition point to the rotation of the racquet into
 contact.**
 
 **Vertical Racquet Speed**
 
-Let\'s look at the increase in vertical racquet speed first. This
+Let's look at the increase in vertical racquet speed first. This
 increase is related to the creation of the dynamic slot.
 
 To review, the dynamic slot is a neuromuscular enhancement technique
@@ -161,8 +156,7 @@ elbow of the top arm is straight.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image6.webp)
 
 **The rotation of the top arm can cause exceptionally fast vertical
 motion.**
@@ -190,8 +184,7 @@ the rotations that create the forward speed of the racquet head as it
 approaches contact.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image7.webp)
 
 **Watch the bottom arm bend, facilitating the internal shoulder rotation
 in the top arm.**
@@ -205,7 +198,7 @@ bottom hand is still moving forward.
 
 The relative opposing directions of the force applied by the hands
 creates a turning effect on the racquet. This is known as a \"couple.\"
-In this case it\'s a push/pull couple. The push is with the top hand,
+In this case it's a push/pull couple. The push is with the top hand,
 coupled with the pull of the slowing bottom hand.
 
 **Very Different**
@@ -217,15 +210,14 @@ most interesting observations was that the centripetal component of the
 force on the racquet from the hand caused the angular acceleration
 responsible for forward racquet head speed.
 
-On the Type 3 backhand however, it isn\'t centripetal force. Instead, it
+On the Type 3 backhand however, it isn't centripetal force. Instead, it
 is this push/pull couple. This is what causes the racket to rotate
 horizontally into contact. The Type 3 hitting arm configuration is the
 only the arm configuration that uses this method.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-atp-two-handed-backhand-the-forward-swing/media/image8.webp)
 
 **The type one swing comes from behind the body laterally.**
 
@@ -251,8 +243,7 @@ the bottom hand and something between an Eastern forehand and a
 Semi-Western forehand with the top.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image9.webp)
 
 **With the Type 1 swing the contact is typically much further back in
 the stance.**
@@ -278,10 +269,9 @@ speed on one shot and vertical speed on another -- essentially a choice
 that requires significant alteration in the swing.
 
 ![A person playing tennis Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image10.webp)
 
-**Nadal\'s drastic flip in the dynamic slot.**
+**Nadal's drastic flip in the dynamic slot.**
 
 **True Elegance**
 
@@ -295,25 +285,24 @@ essentially unchanged.
 
 **Tour Examples**
 
-Let\'s see what the Type 3 forward swing looks like and see some of the
+Let's see what the Type 3 forward swing looks like and see some of the
 nuances seen on the tour. To do this let's compare Rafael Nadal and
 Novak Djokovic. Observe how when Rafa comes out of the dynamic slot, the
 racquet flips drastically. You can see that top arm turning, and that he
 is also pulling linearly with the bottom hand.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image11.webp)
 
 **Djokovic: the purest example of the Type 3 two-hander.**
 
 Because Rafa is a rare example of a straight-straight striker on many
-balls, the origins of his angular accelerations aren\'t clear without 3D
-analysis. One thing is clear however, it\'s simple, beautiful, and
+balls, the origins of his angular accelerations aren't clear without 3D
+analysis. One thing is clear however, it's simple, beautiful, and
 usually effective.
 
 Novak hits the backhand flatter in general, so the degree of flip in the
-dynamic slot is less. He doesn\'t need the racquet as much below the
+dynamic slot is less. He doesn't need the racquet as much below the
 ball. Watch how he straightens the top arm out and then drives it during
 the torso rotation. Approaching contact he bends the bottom elbow
 appearing to establish the push-pull couple.
@@ -323,25 +312,24 @@ the average although he can easily adjust the spin output when needed.
 Novak's stroke represents the closest mechanical set up to the Type 3
 model.
 
-So that\'s it for understanding the mechanics. In the next article I
+So that's it for understanding the mechanics. In the next article I
 will try to summarize the oncourt keys to creating the ATP two-hander
 for yourself. Stay Tuned!
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                                        | Dr. Brian Gordon has changed the understanding of the         |
-| generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image12.jpeg){width="1.9626870078740157in" | biomechanics of high level tennis technique. His              |
-| height="2.525699912510936in"}                                                                                                                                                                       | Biomechanically Engineered Stroke Technique (BEST) is the     |
-|                                                                                                                                                                                                     | only empirically based stroke mechanics system in the world,  |
-|                                                                                                                                                                                                     | growing from three decades of both academic and applied on    |
-|                                                                                                                                                                                                     | court research. He is a founder of the Tennis Center for      |
-|                                                                                                                                                                                                     | Performance Research in Miami, Florida, which is creating a   |
-|                                                                                                                                                                                                     | new paradigm for player development. The center has assembled |
-|                                                                                                                                                                                                     | an unprecedented group of specialists with cutting edge       |
-|                                                                                                                                                                                                     | knowledge across the entire range of tennis performance.      |
-|                                                                                                                                                                                                     |                                                               |
-|                                                                                                                                                                                                     | To visit his website, [**[Click                               |
-|                                                                                                                                                                                                     | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
-|                                                                                                                                                                                                     |                                                               |
-|                                                                                                                                                                                                     | Top contact him directly, [**[Click                           |
-|                                                                                                                                                                                                     | Here!]{.underline}**](mailto:gamabrian@icloud.com)            |
-+=====================================================================================================================================================================================================+===============================================================+
+| ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
+| --- | --- |
+| generated](media_the-atp-two-handed-backhand-the-forward-swing/media/image12.jpeg) | Biomechanically Engineered Stroke Technique (BEST) is the |
+|  | only empirically based stroke mechanics system in the world, |
+|  | growing from three decades of both academic and applied on |
+|  | court research. He is a founder of the Tennis Center for |
+|  | Performance Research in Miami, Florida, which is creating a |
+|  | new paradigm for player development. The center has assembled |
+|  | an unprecedented group of specialists with cutting edge |
+|  | knowledge across the entire range of tennis performance. |
+|  |  |
+|  | To visit his website, [**[Click |
+|  | Here!]{.underline}**](https://tennisperformanceresearch.com/) |
+|  |  |
+|  | Top contact him directly, [**[Click |
+|  | Here!]{.underline}**](mailto:gamabrian@icloud.com) |
+

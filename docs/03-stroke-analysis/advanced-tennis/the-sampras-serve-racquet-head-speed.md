@@ -6,10 +6,9 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image1.webp)
 
-**How fast is Pete\'s racket really going when - and for how long?**
+**How fast is Pete's racket really going when - and for how long?**
 
 \"Racket head speed.\" Everyone one talks about it. TV commentators
 claim they can see it. Every player wants it, and every coach claims to
@@ -24,7 +23,7 @@ Does that type of evidence even exist? The answer is yes. Over the years
 there have been academic studies, but little or none of this data has
 ever filtered down into coaching, teaching or commentating.
 
-Now the work of Brian Gordon is changing all that. We\'ve already
+Now the work of Brian Gordon is changing all that. We've already
 published his groundbreaking series on the biomechanics of the serve.
 ([Click Here.)](../Biomechanics/Science%20of%20Biomechanics%20TOC.docx)
 Now he and I are collaborating on another amazing project - the first
@@ -35,12 +34,11 @@ Working with the Tennisplayer team, Brian completed a two camera high
 speed filming of Pete during an exhibition match versus Sam Querry,
 played at the Tiburon Peninsula Club, in beautiful Marin County,
 California. Then Brian went into a dark room with a few computers, some
-software, and tracked 25 different points on Pete\'s body and racket.
+software, and tracked 25 different points on Pete's body and racket.
 
 ![A person doing a handstand on a tennis court Description automatically
 generated with medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image2.webp)
 
 **2 cameras at 200 frames per second tracking 25 points on the body and
 racket.**
@@ -53,24 +51,23 @@ full range of his deliveries.
 
 To me what made this collaboration so exciting is that right from the
 start Brian agreed to let me ask my own questions of this data. That
-doesn\'t necessarily mean, by the way, that he and I will agree on every
-point of interpretation. That would be impossible and it isn\'t the goal
+doesn't necessarily mean, by the way, that he and I will agree on every
+point of interpretation. That would be impossible and it isn't the goal
 anyway.
 
 But I do believe the results will lead us to a greater understanding of
-Pete\'s serve and also of the technical elements involved in all high
+Pete's serve and also of the technical elements involved in all high
 level serving. I also know this article will stimulate further
 discussion - between myself and Brian, as well as other coaches, and
 everyone else in the Tennisplayer community.
 
-I\'m sure Brian and I will agree on much, but we\'ll both probably be
-disappointed if we don\'t find at least a few issues to debate. (I could
+I'm sure Brian and I will agree on much, but we'll both probably be
+disappointed if we don't find at least a few issues to debate. (I could
 have said argue.)
 
 ![A picture containing sport, athletic game, player, hitting Description
 automatically
-generated](media_the-sampras-serve-racquet-head-speed/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-racquet-head-speed/media/image3.webp)
 
 **New data bases are the key to discussion and collaboration.**
 
@@ -83,7 +80,7 @@ both qualitative and quantitative\--we are in a phase where our
 understanding of the game can really advance.
 
 In future articles we will take a quantitative look at other aspects of
-Pete\'s motion beyond the basic analysis of racket speed. For example,
+Pete's motion beyond the basic analysis of racket speed. For example,
 the path of the racket. At any given moment how much is it moving
 upward, downward, sideways, forward or back?
 
@@ -94,17 +91,16 @@ they relate to each other?
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image4.webp)
 
 **How much will we have to modify or previous analyses?**
 
 To me one of the fascinating aspects will be seeing what the numbers
-tell us about the accuracy of the analyses I\'ve done in previous
-articles on Pete\'s serve. These are the qualitative high speed video
+tell us about the accuracy of the analyses I've done in previous
+articles on Pete's serve. These are the qualitative high speed video
 analysis I did in conjunction with our 3D filming ([[Click
 Here]{.underline}](http://www.tennisplayer.net/members/tour_strokes/john_yandell/sampras_serve/sampras_serve_part_1/sampras_serve_part_1.html)),
-and the longer series of articles on Pete\'s motion I did that was one
+and the longer series of articles on Pete's motion I did that was one
 of the seminal components when we launched Tennisplayer over 6 years
 ago. ([[Click
 Here]{.underline}](http://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_serve/sampras_new_filming_protocols/sampras_new_filming_protocols.html).)
@@ -113,8 +109,8 @@ needs modification?
 
 **A Simple Question**
 
-But in this article, let\'s start with what seems like a simple
-question. How fast is Pete\'s racket really going during the service
+But in this article, let's start with what seems like a simple
+question. How fast is Pete's racket really going during the service
 motion? And by that we are referring to the speed of the center of the
 racket - the part of the string bed that makes contact with the ball.
 
@@ -124,21 +120,20 @@ are misleading.
 
 ![A picture containing text, tennis, racket, person Description
 automatically
-generated](media_the-sampras-serve-racquet-head-speed/media/image5.webp){width="3.3333333333333335in"
-height="4.375in"}
+generated](media_the-sampras-serve-racquet-head-speed/media/image5.webp)
 
-**Advance the animation and study Pete\'s racket head speed for
+**Advance the animation and study Pete's racket head speed for
 yourself.**
 
 **The Answers**
 
-Brian\'s camera\'s filmed Pete at 200 frames a second. Because the
+Brian's camera's filmed Pete at 200 frames a second. Because the
 motion takes around 2 seconds from start to finish, that means we have
 about 400 points where we can stop and see how the racket is moving.
 
-Let\'s start with the key moment - contact\--the moment of truth when
-the racket is about to strike the ball. According to Brian\'s data
-Pete\'s racket was traveling about 90mph in that last fraction of a
+Let's start with the key moment - contact\--the moment of truth when
+the racket is about to strike the ball. According to Brian's data
+Pete's racket was traveling about 90mph in that last fraction of a
 second just before contact.
 
 There were no radar guns to give us the ball speed, but the Australian
@@ -151,13 +146,12 @@ is interesting news. But the more interesting question is how is that
 90mph of racket speed really created?
 
 One common theory is that the wind up and the backswing develop racket
-speed gradually over the course of the motion, that it\'s a long, slow
+speed gradually over the course of the motion, that it's a long, slow
 build up over the course of the stroke.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image6.webp)
 
 **30mph to 90mph in about 1/10th of a second.**
 
@@ -180,15 +174,14 @@ thirds of the total speed is generated in a blinding flash.
 
 Rather than thinking of the wind up and backswing as continuously
 building speed, it is probably more realistic to think of them as
-setting up Pete\'s body and racket for a violent explosion. Getting to
+setting up Pete's body and racket for a violent explosion. Getting to
 that drop position is critical, and this fact explains why a player like
 Jay Berger, who reached the top 10 in the world, could serve well over
 100mph with no windup, literally starting from the drop position.
 
 ![A picture containing text, tennis, outdoor, sport Description
 automatically
-generated](media_the-sampras-serve-racquet-head-speed/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-sampras-serve-racquet-head-speed/media/image7.webp)
 
 **The Arm Drop: a half second develops 3.5mph of racket speed.**
 
@@ -222,9 +215,9 @@ at different rates in intervals of different lengths.
 
   ---------------------------------------------------------------------------------
 
-In Pete\'s motion the first of the 3 phases is the arm drop. At the
+In Pete's motion the first of the 3 phases is the arm drop. At the
 start of his motion, he drops his arms until they both point more or
-less directly downward at the court. Interestingly, the racket doesn\'t
+less directly downward at the court. Interestingly, the racket doesn't
 really accelerate during this phase.
 
 From the ready position until the completion of the arm drop the speed
@@ -234,12 +227,11 @@ slightly to about 3.5 mph.
 
 Just this segment of the motion takes over a quarter of the entire
 duration of the serve, a total of about a half second. So after half a
-second, a quarter of the total time, Pete\'s racket is traveling at less
+second, a quarter of the total time, Pete's racket is traveling at less
 than 5mph.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-sampras-serve-racquet-head-speed/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image8.webp)
 
 **The move to the Power Position takes the speed to 10mph.**
 
@@ -283,8 +275,7 @@ more than 10% of its eventual top speed.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image9.webp)
 
 **Things start to speed up as the racket drops, gaining 20mph in 2/10 of
 a second.**
@@ -300,7 +291,7 @@ almost a second and a half to create the first 10mph of racket speed.
 Now in a blink of an eye he triples it.
 
 But as with the previous phase from the arm drop to the power position,
-the rate of acceleration is quite even. As the racket tip falls, Pete\'s
+the rate of acceleration is quite even. As the racket tip falls, Pete's
 upper arm is rotating backwards in the shoulder joint. In the first 15
 or so frames the racket picks up about 5 mph.
 
@@ -326,8 +317,7 @@ to the first 2 phases.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image10.webp)
 
 **The bulk of the speed developed in a few 10ths of a second.**
 
@@ -351,15 +341,14 @@ on edge and is traveling at a speed of 50mph.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image11.webp)
 
 **As the hand turns in the last 6 frames the racket gains 40mph.**
 
 Now the hand and arm start to turn the racket toward the ball and the
 acceleration jumps once again. In the next 4 frames the racket head
 gains 24 mph to reach a speed 74mph. This gain of 24mph happens in
-2/100\'s of a second!
+2/100's of a second!
 
 These changes are becoming more and more difficult even to visualize.
 But there are still two more frames before contact.
@@ -388,8 +377,7 @@ contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image12.webp)
 
 **From 90mph to 30mph in the same interval.**
 
@@ -409,14 +397,14 @@ in about the same interval, 1/10 of a second, the racket has dropped
 back down from 90mph to 30 mph.
 
 Think about that! In 2/10s of one second, the racket goes from 30mph to
-90mph and then back from 90mph to 30mph. That\'s a total speed change of
+90mph and then back from 90mph to 30mph. That's a total speed change of
 120mph in a total 2/10s of a second! And these mind boggling changes
 have occured in a very small fraction of the overall time interval of
 the motion.
 
 This racket deceleration continues on as the motion finishes. Another
 1/10 of a second later, the racket speed has dropped all the way back
-down to less that 5mph. And no, you didn\'t see any of that with your
+down to less that 5mph. And no, you didn't see any of that with your
 naked eye.
 
 **And the Meaning?**
@@ -427,8 +415,7 @@ the series, but for now there are a few obvious general points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image13.webp)
 
 **Pronation and the High Elbow position - 2 elements in the deceleration
 phase.**
@@ -444,7 +431,7 @@ the ball.
 One other fascinating implication is what the data reveals about
 elements in the motion that coaches and players often identified as
 causes of racket head speed. One of these is pronation. A second, often
-seen as unique in Pete\'s case, is his high elbow position in the
+seen as unique in Pete's case, is his high elbow position in the
 followthrough.
 
 Pronation is a tricky term because in coaching lexicon it has become
@@ -461,7 +448,7 @@ speed at what is usually identified as the point of maximum
 
 ![](media_the-sampras-serve-racquet-head-speed/media/image14.png)
 
-**Click here to study Brian\'s 200 frame per second video for
+**Click here to study Brian's 200 frame per second video for
 yourself.**
 
 At that point the racket is traveling only about 45mph. So there is no
@@ -472,20 +459,20 @@ The same point can be made about the elbow position. At the time that
 famous elbow bend becomes most prominent, the racket has slowed down
 even further to about 24mph.
 
-So it\'s the same about the elbow bend, as with pronation. They can\'t
+So it's the same about the elbow bend, as with pronation. They can't
 be generating racket speed. They seem to be more effects than causes.
 They may be evidence of a great motion, but that evidence is more of a
 by product.
 
 So if pronation and or the high elbow position are effects, what are in
-fact is the cause of racket speed in Pete\'s serve?
+fact is the cause of racket speed in Pete's serve?
 
 Is it the path of the racket to the ball? The position of the ball at
-contact? Pete\'s physical flexibility and the relaxation in the motion?
+contact? Pete's physical flexibility and the relaxation in the motion?
 All of the above? Or something else?
 
 Good questions. As we work through the data on the other aspects of the
-motion, we\'ll see what light may be shed. Stay tuned.
+motion, we'll see what light may be shed. Stay tuned.
 
 **To view the complete Stroke Archives of Pete Sampras serves,
 [\]{.underline}
@@ -493,8 +480,7 @@ motion, we\'ll see what light may be shed. Stay tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-sampras-serve-racquet-head-speed/media/image15.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-sampras-serve-racquet-head-speed/media/image15.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

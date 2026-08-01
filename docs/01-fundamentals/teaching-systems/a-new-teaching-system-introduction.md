@@ -6,8 +6,7 @@ Introduction**
 **John Yandell**
 
 ![A person swinging a tennis racket Description automatically
-generated](media_a-new-teaching-system-introduction/media/image1.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+generated](media_a-new-teaching-system-introduction/media/image1.webp)
 
 **A 10-year adventure contemplating amazing variety, culminating in a
 new method.**
@@ -47,8 +46,7 @@ help you build your own world class technical foundation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-introduction/media/image2.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+confidence](media_a-new-teaching-system-introduction/media/image2.webp)
 
 **A methodology that identifies and helps you master the critical
 positions.**
@@ -87,8 +85,7 @@ models, drawn from the pro footage sources.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-introduction/media/image3.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+confidence](media_a-new-teaching-system-introduction/media/image3.webp)
 
 **Flow through your strokes and your matches with image and feeling.**
 
@@ -123,8 +120,7 @@ and feelings and make this process primarily subconscious.
 
 ![A screenshot of a computer Description automatically generated with
 low
-confidence](media_a-new-teaching-system-introduction/media/image4.jpg){width="5.555555555555555in"
-height="3.4722222222222223in"}
+confidence](media_a-new-teaching-system-introduction/media/image4.jpg)
 
 **In this series you'll see how to compare your key positions to your
 strokes models without expensive cameras or software.**
@@ -166,8 +162,7 @@ competitive play. That is never the case.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_a-new-teaching-system-introduction/media/image5.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+confidence](media_a-new-teaching-system-introduction/media/image5.webp)
 
 **Develop the basic elements and the variations that apply to your
 game.**
@@ -203,8 +198,7 @@ come to San Francisco to work with me personally you can, as have so man
 Tennisplayer subscribers over the years.
 
 ![A person playing tennis Description automatically
-generated](media_a-new-teaching-system-introduction/media/image6.webp){width="3.3333333333333335in"
-height="2.4791666666666665in"}
+generated](media_a-new-teaching-system-introduction/media/image6.webp)
 
 **Which pro elements are really right for your game---and when?**
 
@@ -248,8 +242,7 @@ court, and on teaching courts around the world. Stay tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_a-new-teaching-system-introduction/media/image7.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_a-new-teaching-system-introduction/media/image7.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

@@ -6,33 +6,31 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image1.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image1.webp)
 
 **Usually, we associate great overheads with attacking players.**
 
-Whether you\'re a great net player, a strict baseliner, or somewhere in
+Whether you're a great net player, a strict baseliner, or somewhere in
 between, a good overhead should be an essential part of your game. If
 you think of the great players of our game both past and present who
 also had great overheads, many of you would list aggressive players like
 Pete Sampras, John McEnroe, or even Rod Laver.
 
 Many of you might not put Andre Agassi in that group, reasoning that he
-is a baseliner and doesn\'t need a great overhead. But John McEnroe
-himself has said many times that Andre\'s overhead is one of the best,
+is a baseliner and doesn't need a great overhead. But John McEnroe
+himself has said many times that Andre's overhead is one of the best,
 if not the best in the history of the sport. If you think about the top
-players today, both the men and the women, you won\'t find one who
-doesn\'t have a great overhead, no matter their game style.
+players today, both the men and the women, you won't find one who
+doesn't have a great overhead, no matter their game style.
 
-If it is crucial to them in their game, why isn\'t crucial to improve
+If it is crucial to them in their game, why isn't crucial to improve
 yours? If you get a chance to hit an overhead the point should be over
-in most cases. It\'s true for the pros and it should be true for you
-too. The overhead is a put away shot. If yours isn\'t then, then you are
+in most cases. It's true for the pros and it should be true for you
+too. The overhead is a put away shot. If yours isn't then, then you are
 giving away what should be free points.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-overhead/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-pro-overhead/media/image2.webp)
 
 **A baseliner with one of the best overheads ever.**
 
@@ -67,8 +65,7 @@ consistency.
 
 ![A picture containing tennis, road, sport, athletic game Description
 automatically
-generated](media_the-pro-overhead/media/image3.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-pro-overhead/media/image3.webp)
 
 **The turn sideways with the feet and torso within the first steps.**
 
@@ -95,8 +92,7 @@ course**[[, is that as you turn on the overhead, the arms start rise
 upwards above the shoulders.]{.underline}]{.mark}**
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-pro-overhead/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-pro-overhead/media/image4.webp)
 
 **The arm points up with the racket slightly past trophy position.**
 
@@ -105,15 +101,15 @@ where players usually drop the racket arm at least initially in the wind
 up, the arm motion is directly upward. **[[The overhead wind-up motion
 is actually more similar to the super abbreviated serve windup of a
 player like Andy Roddick than it is to most serve windups, probably
-including yours.]{.underline}]{.mark}** So don\'t make another critical
+including yours.]{.underline}]{.mark}** So don't make another critical
 mistake of using a long circular motion.
 
 **[[After the windup starts upwards, it continues until you are in a
 position resembling the trophy position on the
-serve.]{.underline}]{.mark}** I say resembling, because there isn\'t an
-exact match. **[[Typically, the player\'s left arm will be pointed
+serve.]{.underline}]{.mark}** I say resembling, because there isn't an
+exact match. **[[Typically, the player's left arm will be pointed
 directly upward similar to the service toss]{.underline}]{.mark}**,
-**[but sometimes it\'s even higher. And it can be substantially lower
+**[but sometimes it's even higher. And it can be substantially lower
 when the time is short.]{.underline}**
 
 Also, the racket is often further along in the motion. In the classic
@@ -136,8 +132,7 @@ classic serve trophy position as they move, before beginning the racket
 drop when they reach to set up position.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-overhead/media/image5.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-pro-overhead/media/image5.webp)
 
 **More weight on the back foot sets up the jump overhead.**
 
@@ -162,8 +157,7 @@ on.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image6.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image6.webp)
 
 **Cross steps allow a player to keep the body sideways.**
 
@@ -217,8 +211,7 @@ secure in your balance.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image7.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image7.webp)
 
 **The cross steps facilitate rapid, efficient backward movement.**
 
@@ -234,8 +227,7 @@ the time of the hit to deal with the lob attempts of opponents.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image8.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image8.webp)
 
 **On the bounce overhead, players move with cross-steps then shuffle
 steps.**
@@ -262,8 +254,7 @@ the rear foot is stepping towards the net.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image9.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image9.webp)
 
 **The cross-step pattern is the same for forward movement.**
 
@@ -290,13 +281,12 @@ amount of the racket drop on the overhead can be somewhat less than on
 the serve. This is because the extreme leg drive on the modern serve can
 increase the external rotation of the shoulder backwards, and therefore,
 increase the lowest point the racket reaches at the bottom of the drop.
-It\'s not something worry about if your arm is just relaxed, and you let
+It's not something worry about if your arm is just relaxed, and you let
 the racket fall.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image10.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image10.webp)
 
 **The racket drop is along the side but not always as deep as the
 serve.**
@@ -327,12 +317,11 @@ have less pronation. It may be related to the angle of the placement.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-pro-overhead/media/image11.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_the-pro-overhead/media/image11.webp)
 
 **The overhead contact point is further to the side than the serve.**
 
-If you have a good, relaxed service motion, you shouldn\'t have to think
+If you have a good, relaxed service motion, you shouldn't have to think
 about all this too much and it will probably happen naturally as a
 result of your shot choices. Note how, regardless of the pronation, the
 follow-through continues forward, out, and across the body in the
@@ -358,8 +347,7 @@ easy. The net players cannot let the ball bounce either on the lob or
 the volleys.
 
 ![A person playing tennis Description automatically
-generated](media_the-pro-overhead/media/image12.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+generated](media_the-pro-overhead/media/image12.webp)
 
 **The amount of pronation varies with court position and shot
 placement.**
@@ -369,35 +357,34 @@ anything they want\--lob, hit, go to the net, etc. First team to five
 points wins. Then everyone rotates (clockwise) one position and the game
 starts again. Rotating the positions gives the players practice from
 both halves of the court, which is important because of the differences
-in the angles. It\'s a great way to just get completely comfortable with
+in the angles. It's a great way to just get completely comfortable with
 hitting overheads everywhere on the court. Even if you are a singles
 player, it gives you the repetitions and the variety of movement and
 positions on the court that you need.
 
-If you haven\'t really developed an overhead this game can be difficult
+If you haven't really developed an overhead this game can be difficult
 at first because so many of the overheads are hit while moving back.
-It\'s the best way I know of to develop those critical cross steps.
-You\'ll know you are getting better when the team hitting the overheads
+It's the best way I know of to develop those critical cross steps.
+You'll know you are getting better when the team hitting the overheads
 starts to win the majority of the games.
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                            | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_the-pro-overhead/media/image13.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                         | numerous ranked junior players and coached  |
-|                                                                                                                                                                        | a series of championship high school teams. |
-|                                                                                                                                                                        | He was highly ranked both sectionally and   |
-|                                                                                                                                                                        | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                        |                                             |
-|                                                                                                                                                                        | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                        | the John Yandell Tennis School in San       |
-|                                                                                                                                                                        | Francisco, California Kerry and his partner |
-|                                                                                                                                                                        | are now splitting time between homes in     |
-|                                                                                                                                                                        | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                        | continued to coach and to have great        |
-|                                                                                                                                                                        | competitive success winning Canadian        |
-|                                                                                                                                                                        | National seniors titles---not to mention    |
-|                                                                                                                                                                        | continuing to write articles for            |
-|                                                                                                                                                                        | Tennisplayer from his unique perspective.   |
-+========================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_the-pro-overhead/media/image13.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+
 
 ------------------------------------------------------------------------

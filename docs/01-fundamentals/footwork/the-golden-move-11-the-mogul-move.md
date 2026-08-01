@@ -11,7 +11,7 @@ to make tough turns and stay balanced. Here is how the concept of the
 outside weight moves applies in tennis when players are moving wide in
 the court.
 
-It\'s not about getting stationary at the hit - it\'s about moving
+It's not about getting stationary at the hit - it's about moving
 through the hit and shifting the weight out over the outside foot---and
 then smoothly and seamlessly getting back toward the center. See the
 patterns demonstrated by David and skilled players he has worked with
@@ -20,8 +20,7 @@ movement going wide.
 
 ![](media_the-golden-move-11-the-mogul-move/media/image1.png)
 
-![](media_the-golden-move-11-the-mogul-move/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-11-the-mogul-move/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

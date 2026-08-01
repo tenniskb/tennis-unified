@@ -64,14 +64,14 @@ point). Khoảng cách này không phải một con số cố định mà phụ 
 từng tình huống bóng cụ thể: tốc độ, góc tới, chiều sâu, độ nảy của mặt
 sân.
 
-+----------------------------------------------------------------------+
-| **Nguyên lý cốt lõi:**                                               |
-|                                                                      |
-| Khi spacing chính xác, chuỗi động học (kinetic chain) từ chân ---    |
-| hông --- thân --- vai --- cánh tay --- cổ tay được kích hoạt đồng    |
+| **Nguyên lý cốt lõi:** |
+| --- |
+|  |
+| Khi spacing chính xác, chuỗi động học (kinetic chain) từ chân --- |
+| hông --- thân --- vai --- cánh tay --- cổ tay được kích hoạt đồng |
 | bộ. Cánh tay không bị \"kẹp\" vào người (jamming) và không phải vươn |
-| dài quá mức (over-reaching), cả hai đều làm mất lực và kiểm soát.    |
-+----------------------------------------------------------------------+
+| dài quá mức (over-reaching), cả hai đều làm mất lực và kiểm soát. |
+
 
 Khoảng cách tối ưu thường được mô tả là \"một cánh tay duỗi tự nhiên\"
 kể từ thân người đến điểm tiếp xúc bóng. Với cú forehand, điểm tiếp xúc
@@ -133,16 +133,16 @@ Variable Rhythm là nguyên lý cấu trúc trung tâm của bài tập: việc 
 hoạt chế độ phán đoán chủ động. Điều này phỏng theo tính hỗn loạn có
 kiểm soát của tình huống thi đấu thực tế.
 
-+----------------------------------------------------------------------+
-| **Cơ chế thần kinh học:**                                            |
-|                                                                      |
-| Khi nhịp điệu bóng thay đổi, vỏ não vận động (motor cortex) không    |
+| **Cơ chế thần kinh học:** |
+| --- |
+|  |
+| Khi nhịp điệu bóng thay đổi, vỏ não vận động (motor cortex) không |
 | thể dựa vào mẫu phản xạ (pattern matching) đã hình thành. Nó phải xử |
-| lý tín hiệu thị giác theo thời gian thực, tính toán lại quỹ đạo và   |
-| ra quyết định vận động mới. Quá trình lặp lại liên tục tạo ra sự     |
-| thích nghi thần kinh (neural adaptation) giúp tốc độ xử lý tình      |
-| huống ngày càng nhanh hơn.                                           |
-+----------------------------------------------------------------------+
+| lý tín hiệu thị giác theo thời gian thực, tính toán lại quỹ đạo và |
+| ra quyết định vận động mới. Quá trình lặp lại liên tục tạo ra sự |
+| thích nghi thần kinh (neural adaptation) giúp tốc độ xử lý tình |
+| huống ngày càng nhanh hơn. |
+
 
 **PHẦN II: PHÂN TÍCH KỸ THUẬT THEO GIAI ĐOẠN TIẾN TRÌNH**
 
@@ -175,14 +175,14 @@ feeding) hoặc đánh nhẹ bằng vợt, đồng thời hô lớn số lần n
 ngay tại thời điểm bóng rời tay. Đây là nguyên tắc bất biến trong bài
 tập:
 
-+----------------------------------------------------------------------+
-| **Quy tắc then chốt:**                                               |
-|                                                                      |
-| Người chơi KHÔNG ĐƯỢC di chuyển bất kỳ bước nào trước khi nghe khẩu  |
-| lệnh. Vi phạm nguyên tắc này sẽ triệt tiêu toàn bộ mục tiêu huấn     |
-| luyện phản xạ của bài tập, biến nó thành một bài tập dự đoán đơn     |
-| thuần thay vì phản ứng thuần túy.                                    |
-+----------------------------------------------------------------------+
+| **Quy tắc then chốt:** |
+| --- |
+|  |
+| Người chơi KHÔNG ĐƯỢC di chuyển bất kỳ bước nào trước khi nghe khẩu |
+| lệnh. Vi phạm nguyên tắc này sẽ triệt tiêu toàn bộ mục tiêu huấn |
+| luyện phản xạ của bài tập, biến nó thành một bài tập dự đoán đơn |
+| thuần thay vì phản ứng thuần túy. |
+
 
 Sự phân biệt giữa dự đoán (anticipation) và phản xạ (reaction) trong bài
 tập này là then chốt. Dự đoán dựa trên mẫu hình đã biết; phản xạ đòi hỏi
@@ -260,16 +260,16 @@ lúc chờ bóng nảy lần thứ hai.
 
 17. Follow-through → Recovery Phase.
 
-+----------------------------------------------------------------------+
-| **Điểm kỹ thuật nâng cao:**                                          |
-|                                                                      |
-| Lỗi cơ học đặc trưng nhất của tình huống 2 Bounce là \"lao người về  |
-| phía trước do quán tính\" --- người chơi không kịp hãm đà sau khi    |
-| lao nhanh theo phản xạ tự nhiên từ bài tập 1 Bounce. Cơ chế giải     |
-| quyết là chủ động gập sâu hơn ở đầu gối khi bước đệm, giống như xe   |
-| đạp xuống dốc bóp phanh bằng cách tăng ma sát, không phải giảm tốc   |
-| đột ngột.                                                            |
-+----------------------------------------------------------------------+
+| **Điểm kỹ thuật nâng cao:** |
+| --- |
+|  |
+| Lỗi cơ học đặc trưng nhất của tình huống 2 Bounce là \"lao người về |
+| phía trước do quán tính\" --- người chơi không kịp hãm đà sau khi |
+| lao nhanh theo phản xạ tự nhiên từ bài tập 1 Bounce. Cơ chế giải |
+| quyết là chủ động gập sâu hơn ở đầu gối khi bước đệm, giống như xe |
+| đạp xuống dốc bóp phanh bằng cách tăng ma sát, không phải giảm tốc |
+| đột ngột. |
+
 
 **2.5 Tình Huống 3 Bounces --- Kiên Nhẫn Và Thăng Bằng Động**
 
@@ -308,15 +308,15 @@ lần thứ ba.
 
 27. Follow-through ngắn gọn, bùng nổ Recovery Phase.
 
-+----------------------------------------------------------------------+
-| **Cảnh báo kỹ thuật:**                                               |
-|                                                                      |
-| Lỗi nguy hiểm nhất ở tình huống 3 Bounce là \"chân đóng băng\" ---   |
-| người chơi ngừng micro-adjustment steps khi chờ đợi, khiến cơ bắp    |
-| trở về trạng thái thụ động (passive state). Khi bóng đến, phản ứng   |
-| vận động chậm hơn 200--300ms so với trạng thái chủ động. Pattering   |
-| feet phải duy trì LIÊN TỤC không ngắt quãng.                         |
-+----------------------------------------------------------------------+
+| **Cảnh báo kỹ thuật:** |
+| --- |
+|  |
+| Lỗi nguy hiểm nhất ở tình huống 3 Bounce là \"chân đóng băng\" --- |
+| người chơi ngừng micro-adjustment steps khi chờ đợi, khiến cơ bắp |
+| trở về trạng thái thụ động (passive state). Khi bóng đến, phản ứng |
+| vận động chậm hơn 200--300ms so với trạng thái chủ động. Pattering |
+| feet phải duy trì LIÊN TỤC không ngắt quãng. |
+
 
 **\[00:00:09 -- 00:01:00\] Phase 3: Cơ Chế Hồi Vị Bùng Nổ**
 
@@ -626,15 +626,15 @@ ladder drills để phát triển tốc độ micro-adjustment steps; và moveme
 pattern analysis để xây dựng hệ thống footwork toàn diện phù hợp với
 phong cách chơi cá nhân.
 
-+----------------------------------------------------------------------+
-| **Lời kết từ Coach Francis:**                                        |
-|                                                                      |
+| **Lời kết từ Coach Francis:** |
+| --- |
+|  |
 | \"Spacing không phải kỹ năng --- đó là thói quen. Thói quen được xây |
 | dựng bằng sự lặp lại có ý thức, không phải chỉ bằng số lượng. Mỗi cú |
 | bóng trong bài tập này phải được thực hiện với 100% sự tập trung vào |
-| khoảng cách, không phải vào cú đánh. Khi spacing đúng, cú đánh tự    |
-| nhiên đẹp.\"                                                         |
-+----------------------------------------------------------------------+
+| khoảng cách, không phải vào cú đánh. Khi spacing đúng, cú đánh tự |
+| nhiên đẹp.\" |
+
 
 *--- Hết Tài Liệu ---*
 

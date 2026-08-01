@@ -5,17 +5,14 @@ Understanding Match Dynamics**
 
 **Jeff McCullough**
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                |
-| generated](media_the-favorite-and-the-underdog/media/image1.jpg){width="3.2850185914260717in"  |
-| height="2.1776673228346457in"}                                                                                                                                              |
-|                                                                                                                                                                             |
-| ![A person playing tennis Description automatically generated with medium                                                                                                   |
-| confidence](media_the-favorite-and-the-underdog/media/image2.jpg){width="3.3041666666666667in" |
-| height="2.0708333333333333in"}                                                                                                                                              |
-+:===========================================================================================================================================================================:+
-| The Favorite and the Underdog: what were the match dynamics?                                                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person holding a tennis racket Description automatically |
+| --- |
+| generated](media_the-favorite-and-the-underdog/media/image1.jpg) |
+|  |
+| ![A person playing tennis Description automatically generated with medium |
+| confidence](media_the-favorite-and-the-underdog/media/image2.jpg) |
+| The Favorite and the Underdog: what were the match dynamics? |
+
 
 In the quarterfinals of the 2008 U.S. Open the third seed Novak Djokovic
 defeated the eighth seed Andy Roddick in four sets.  Yes, the big
@@ -42,8 +39,7 @@ errors and a low first serve percentage.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A person playing a trumpet Description automatically generated with medium
-   confidence](media_the-favorite-and-the-underdog/media/image3.jpg){width="2.9277777777777776in"
-                                                                         height="2.8256944444444443in"}
+   confidence](media_the-favorite-and-the-underdog/media/image3.jpg)
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                     A Babolat racket was the innocent victim.
 
@@ -77,8 +73,7 @@ Djokovic went on to break back and then was able to win the fourth set
 and the match in the tiebreaker that followed.  
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image4.jpg){width="2.408333333333333in"
-                                                                            height="3.3in"}
+   ![](media_the-favorite-and-the-underdog/media/image4.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            Until the double faults, great positive intensity.
 
@@ -86,12 +81,12 @@ and the match in the tiebreaker that followed.  
 
 The impact was obvious in Andy's altered body language. Prior to the
 double faults, he had exhibited great positive intensity. After breaking
-Djokovic\'s serve earlier in the set, he looked almost like his former
+Djokovic's serve earlier in the set, he looked almost like his former
 coach Jimmy Connors, with his head thrown back and his fists pumping
 wildly, back peddling in a sort of reverse moon walk.   Then suddenly
 after the doubles, he looked beaten. 
 
-It was also obvious when the TV cameras panned into the American\'s
+It was also obvious when the TV cameras panned into the American's
 court side box. Led by Patrick McEnroe, his entourage displayed brave
 faces and gave perfunctory encouraging gestures. But you could see their
 belief had faded.  They had all seen enough tennis matches to know what
@@ -113,19 +108,18 @@ players traded and absorbed furious punches from positions well beyond
 the sidelines, Roddick deposited a backhand drop shot several feet short
 of the net strap.
 
-Now Roddick\'s face had defeat written all over it. He seemed totally
+Now Roddick's face had defeat written all over it. He seemed totally
 resigned as he walked over to the ad court to receive serve, and the
 curtain came down one point later.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image5.jpg){width="2.4479166666666665in"
-                                                                     height="2.9138888888888888in"}
+   ![](media_the-favorite-and-the-underdog/media/image5.jpg)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           **After the double faults, resignation and defeat.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The next day\'s headlines would proclaim that Novak Djokovic defeated
+The next day's headlines would proclaim that Novak Djokovic defeated
 Andy Roddick in a "close" match that "could have gone either way." In
 reality, when Roddick double faulted serving for the fourth set, the
 match was all but over.  So let's examine the dynamics that were at
@@ -147,8 +141,7 @@ just often enough to make it interesting, and upsets are emotionally
 compelling. So why does the favorite usually win?  And when upsets do
 occur why do they happen? 
 
-![](media_the-favorite-and-the-underdog/media/image6.webp){width="3.3333333333333335in"
-height="2.21875in"}
+![](media_the-favorite-and-the-underdog/media/image6.webp)
 
 **Favorites win in part because they have the game.**
 
@@ -189,7 +182,7 @@ in a critical game.
 After an escape like Djokovic had with Roddick's double faults, the
 favorite is likely to be inspired and energized, often hitting another
 gear.  This only compounds the challenge faced by the underdog. The
-result in what I term a "confidence exchange." The underdog\'s rising
+result in what I term a "confidence exchange." The underdog's rising
 confidence is snuffed out, and the favorite's flagging confidence is
 suddenly revived. After breaking to even the match at 5 all Djokovic
 looked both relieved and bolstered. Only a few minutes earlier Roddick
@@ -198,8 +191,7 @@ The bottom line was that The Script played itself out as it usually
 does.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image7.jpg){width="3.279861111111111in"
-                                                                     height="2.5833333333333335in"}
+   ![](media_the-favorite-and-the-underdog/media/image7.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  **After a near escape, the favorite is often relieved and bolstered.**
 
@@ -238,14 +230,13 @@ been criticized by the fans and the press for his relative lack of
 success. The result is that he is so desperate to succeed that sometimes
 it causes him to play either recklessly or foolishly.
 
-Roddick\'s rash decision to go for two huge second serves on these
+Roddick's rash decision to go for two huge second serves on these
 critical points has to be called into question. In point of fact, he has
 a very good second serve and might have held serve by hitting it, rather
 than over hitting and trying to do more than was likely necessary to
 complete this task.
 
-![](media_the-favorite-and-the-underdog/media/image8.webp){width="3.3333333333333335in"
-height="2.21875in"}
+![](media_the-favorite-and-the-underdog/media/image8.webp)
 
 **How does your level of belief affect your shot tolerance?**
 
@@ -274,7 +265,7 @@ also the result of this mentality.  At some level he may have been
 thinking that if he could just hit a couple of huge unreturnable serves
 he could avoid having to test his backhand in pressure packed
 groundstroke rallies.  Novak Djokovic, on the other hand, has no
-discernible technical weaknesses. And that\'s one of the main reasons
+discernible technical weaknesses. And that's one of the main reasons
 that his star is on the rise.   He is not as susceptible to the same
 kind of doubts under pressure.
 
@@ -294,9 +285,7 @@ common trap of thinking that the quick, simple solution lies in simply
 "trying harder."  
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                  ![](media_the-favorite-and-the-underdog/media/image9.jpg){width="2.9533759842519687in"
-   height="2.3796937882764655in"}![](media_the-favorite-and-the-underdog/media/image10.jpg){width="2.9537751531058616in"
-                                                                                     height="2.0559995625546805in"}
+                  ![](media_the-favorite-and-the-underdog/media/image9.jpg)![](media_the-favorite-and-the-underdog/media/image10.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                         A critical question: are you a favorite or an underdog?
 
@@ -330,15 +319,14 @@ winning.
 
 What if you are the underdog?  What if you are playing next weekend in a
 club tournament or league match against a player you have lost to
-previously or who beats your regular opponents?  What if you\'re an
+previously or who beats your regular opponents?  What if you're an
 aspiring pro trying to gain some traction on the challenger circuit?
-What if you\'re number three on your high school team trying to
+What if you're number three on your high school team trying to
 challenge the number one? These are all equivalent situations insofar as
 they all involve the dominance dynamic.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image11.jpg){width="2.1840004374453192in"
-                                                                      height="2.587679352580927in"}
+   ![](media_the-favorite-and-the-underdog/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            **As an underdog can you demonstrate true belief?**
 
@@ -373,8 +361,7 @@ that go with performing in this role.  Again, these are the belief that
 you can win and the courage to seize opportunities.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ![](media_the-favorite-and-the-underdog/media/image12.jpg){width="2.8243055555555556in"
-                                                                      height="1.7638888888888888in"}
+   ![](media_the-favorite-and-the-underdog/media/image12.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         **A favorite has to believe in his level of play, and be able to execute under pressure.**
 
@@ -382,7 +369,7 @@ you can win and the courage to seize opportunities.
 
 **The Favorite Role**
 
-On the other hand, what if you\'re the clear favorite?  Despite what
+On the other hand, what if you're the clear favorite?  Despite what
 many fans believe, it still can be emotionally challenging to play from
 this position because this is where the most pressure often resides. The
 favorite must cope with and overcome the pressure created by the
@@ -413,7 +400,7 @@ In the Open match versus Roddick, Djokovic could draw on this
 experience, as well as on his Grand Slam victory in Australia and his
 higher world ranking.  His confidence was also buoyed by knowing that
 Roddick, lacking big wins, could not have a comparable level of
-self-belief. At this point in his career, Roddick simply doesn\'t have
+self-belief. At this point in his career, Roddick simply doesn't have
 the reputation of being able to come through in big matches.
 
 **[[So another key when you are in the favorite role is to simply
@@ -422,8 +409,7 @@ momentum.  The key is not to panic and continue to play your superior
 game.]{.mark} ]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_the-favorite-and-the-underdog/media/image13.webp){width="3.3333333333333335in"
-height="2.21875in"}
+generated](media_the-favorite-and-the-underdog/media/image13.webp)
 
 **When you are the favorite, play your superior game and show confidence
 with your body language.**
@@ -433,11 +419,11 @@ of a weakening resolve or faltering performance from your opponent. See
 if they really can maintain their nerve.  The odds are against it.  They
 may swing back to the negative, manifested in a change in body language,
 poor shot selection of tactics, or even just one egregious unforced
-error.  Don\'t overreact.  Play within yourself, but continue to create
-pressure that will most likely lead to the underdog\'s downhill
+error.  Don't overreact.  Play within yourself, but continue to create
+pressure that will most likely lead to the underdog's downhill
 slide.]{.underline}]{.mark}** **[[Remember in many close, high stakes
 matches each player is always only one point away from \"cracking.\"
-More often than not it\'s the underdog.]{.underline}]{.mark}**
+More often than not it's the underdog.]{.underline}]{.mark}**
 
 **[[Even favorites are human and an underdog who stays close enough long
 enough will sometimes have a breakthrough.  So if you are the underdog
@@ -445,7 +431,7 @@ you must also look for similar signs of \"cracking\" on the part of the
 favorite. It will happen to every favorite eventually.  If it does, you
 have to apply pressure with a sense of urgency.  You must play within
 your capabilities, of course, but when you have the chance, you have to
-go for it, whether you succeed or not.  As an underdog, it\'s better to
+go for it, whether you succeed or not.  As an underdog, it's better to
 try to take control and fail, then not to try at
 all.]{.mark} ]{.underline}**
 
@@ -464,23 +450,22 @@ to be sending to your opponent.  The body language tells the story and
 if you cannot walk the walk, it will almost always be reflected in your
 results.
 
-In the Open match, Djokovic\'s superior confidence enabled him to win
+In the Open match, Djokovic's superior confidence enabled him to win
 the battle of the body language going away.  Roddick wilted partly due
-to Djokovic\'s more powerful and assured physical presence.  After the
+to Djokovic's more powerful and assured physical presence.  After the
 two double faults Andy went from appearing profoundly inspired to
 looking defeated. And then, when he offered up the drop shot brick, his
 body language demonstrated a complete lack of genuine belief in his
 ability to make a comeback.
 
 There is an incredible body of work on Tennisplayer, dealing with just
-this topic, including two recent article\'s from Jim Loehr on Rafael
-Nadal\'s amazing body language, as well as his training system for
-improving this critical dimension in your game. If you aren\'t familiar
+this topic, including two recent article's from Jim Loehr on Rafael
+Nadal's amazing body language, as well as his training system for
+improving this critical dimension in your game. If you aren't familiar
 with them, they are highly recommended. ([[Click
 Here]{.underline}](../Mental%20game/Love%20the%20Battle-Pathways%20to%20Performing.docx))
 
-![](media_the-favorite-and-the-underdog/media/image14.webp){width="3.3333333333333335in"
-height="2.21875in"}
+![](media_the-favorite-and-the-underdog/media/image14.webp)
 
 **Body language demonstrates belief, or its lack.**
 
@@ -511,10 +496,10 @@ More than anything else at the club level, this means understanding your
 weaknesses, and not trying to do too much when forced to play a less
 functional stroke.  If your opponent has exposed your weak backhand, for
 example, play within yourself to manage this liability.  Understand what
-you can do and stick to do it.  Don\'t self-destruct by trying shots
+you can do and stick to do it.  Don't self-destruct by trying shots
 which you know deep inside you are not capable of hitting.  To use an
 automotive analogy: If you have a car that is engineered to go only 50
-m.p.h. don\'t try to drive it 100 m.p.h. 
+m.p.h. don't try to drive it 100 m.p.h. 
 
 **Beneath the Surface**
 
@@ -537,27 +522,25 @@ court, whether you are the favorite or the underdog.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text, person, person, posing Description automatically                                                                                                  Jeffrey F. McCullough has been a leading California
-  generated](media_the-favorite-and-the-underdog/media/image15.jpeg){width="1.0402777777777779in"   teaching pro for over 30 years. In the early 80\'s,
-  height="1.663888888888889in"}                                                                                                                                                  he worked at San Francisco\'s legendary Golden Gate
+  generated](media_the-favorite-and-the-underdog/media/image15.jpeg)                                                                                                                                                  he worked at San Francisco's legendary Golden Gate
                                                                                                                                                                                  Park where he taught side by side with John
                                                                                                                                                                                  Yandell\--and for a year shared an ocean view
-                                                                                                                                                                                 apartment in the city\'s Sunset district. For the
+                                                                                                                                                                                 apartment in the city's Sunset district. For the
                                                                                                                                                                                  last 13 years he has taught in San Diego, California
                                                                                                                                                                                  at the George E. Barnes Family Jr. Tennis Center.
                                                                                                                                                                                  Specializing in developing junior players, he has
                                                                                                                                                                                  coached over 50 juniors who have gone on to win
                                                                                                                                                                                  tournaments at all levels in USTA play. Jeff is also
                                                                                                                                                                                  the author of the seminal work on the two-handed
-                                                                                                                                                                                 game, \"Two Handed Tennis: How to Play a Winner\'s
+                                                                                                                                                                                 game, \"Two Handed Tennis: How to Play a Winner's
                                                                                                                                                                                  Game.\"
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Text Description automatically                                                                                                                                \"In Two-Handed Tennis: How to Play a Winner\'s Game,\" Jeffrey F. McCullough outlined for the first time the entire history of the two-handed
-  generated](media_the-favorite-and-the-underdog/media/image16.jpeg){width="1.2in"   style, the essential biomechanical differences between one and two-handed shots\--including the various advantages of the latter, and
-  height="1.8243055555555556in"}                                                                                                                                  described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court, including how to develop a
+  ![Text Description automatically                                                                                                                                \"In Two-Handed Tennis: How to Play a Winner's Game,\" Jeffrey F. McCullough outlined for the first time the entire history of the two-handed
+  generated](media_the-favorite-and-the-underdog/media/image16.jpeg)                                                                                                                                  described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court, including how to develop a
                                                                                                                                                                   two-handed forehand in several variations. This classic work was first published in 1984. [[Click
                                                                                                                                                                   Here]{.underline}](http://www.amazon.com/Two-Handed-Tennis-Play-Winners-Game/dp/0871314258/ref=sr_1_1?ie=UTF8&s=books&qid=1219008484&sr=1-1)
                                                                                                                                                                   to order!

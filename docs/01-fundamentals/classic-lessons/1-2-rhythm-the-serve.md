@@ -7,8 +7,7 @@
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-the-serve/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-serve/media/image1.webp)
 
 **What are the real checkpoints for the two rhythm phases on the
 serve?**
@@ -44,8 +43,7 @@ them consistently.
 **Phase 1**
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-the-serve/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-serve/media/image2.webp)
 
 **The interval for Phase 1 varies dramatically for top servers yet all
 are smooth and deliberate.**
@@ -82,8 +80,7 @@ Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/sampras_se
 
 ![A picture containing person, grass, person, outdoor Description
 automatically
-generated](media_1-2-rhythm-the-serve/media/image3.jpg){width="6.5in"
-height="3.0409722222222224in"}
+generated](media_1-2-rhythm-the-serve/media/image3.jpg)
 
 **Note the differences in tossing arm and racket positions for elite
 juniors at the end of Phase 1.**
@@ -104,8 +101,7 @@ the trophy position simply does not correspond directly with the full
 coiling of the legs.
 
 ![A person playing tennis Description automatically
-generated](media_1-2-rhythm-the-serve/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-serve/media/image4.webp)
 
 **Despite the Phase 1 differences, the timing of the explosive Phase 2
 is the same.**
@@ -117,7 +113,7 @@ these variations, the two checkpoints are synched at the beginning of
 Phase 2. That may seem surprising, but we can see this clearly if we
 measure the actual duration of the two phases for great servers.
 
-Let\'s use three great servers who have substantial differences in their
+Let's use three great servers who have substantial differences in their
 Phase 1 motions and timing: Andy Roddick, Pete Sampras, and Roger
 Federer. There are big differences in the overall duration of the motion
 of these 3 champions. But these differences are all in duration of Phase
@@ -135,7 +131,7 @@ seconds, almost twice as much as Andy. At this point all have extended
 their tossing arms and reached maximum knee bend. But note the
 differences in the arm and racket.
 
-Andy\'s are famously to his right side. Pete is closer to the trophy
+Andy's are famously to his right side. Pete is closer to the trophy
 position but not quite there. And Federer is a little closer than Pete,
 but still shy of the classic trophy position.
 
@@ -166,7 +162,7 @@ explode!]{.underline}** Of course, you want to make sure your other key
 positions like the racket drop and the contact are within good technical
 parameters.
 
-But don\'t worry about them or when, exactly, you are making the trophy
+But don't worry about them or when, exactly, you are making the trophy
 position when you are serving in matches. Under pressure this clear
 feeling of the two phases will give you confidence and alleviate anxiety
 and pressure.
@@ -175,8 +171,7 @@ and pressure.
 
 ![A picture containing text, person, sport, athletic game Description
 automatically
-generated](media_1-2-rhythm-the-serve/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_1-2-rhythm-the-serve/media/image5.webp)
 
 **The distinction between the phases is identical for the second
 serve.**
@@ -196,35 +191,34 @@ descriptive terms highlighted at the start of the article, feeling the
 set-up phase is smooth and deliberate, and then the feeling of energy
 and explosiveness that is associated with part 2.
 
-I\'m a big believer in using shadow swings to generate feel, and this
+I'm a big believer in using shadow swings to generate feel, and this
 can really help with the serve with the players pausing in the shadow
 swing at the knee bend with the tossing arm extended to really feel the
 position and also the power potential they are about to unleash.
 
-As with all the strokes, it\'s also critical to video the serve in high
+As with all the strokes, it's also critical to video the serve in high
 speed, and review the footage to look at the set-up phase, the execution
 phase, and of course see what is happening when Part 1 ends and Part 2
 begins!
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                             | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_1-2-rhythm-the-serve/media/image6.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                           | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                          | competitions since formation, and over the last 2 |
-|                                                                                                                                                                          | years alone, his junior players have won 19       |
-|                                                                                                                                                                          | singles tournaments between them at county level. |
-|                                                                                                                                                                          |                                                   |
-|                                                                                                                                                                          | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                          | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                          | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                          | players at all levels, including former British   |
-|                                                                                                                                                                          | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                          |                                                   |
-|                                                                                                                                                                          | His unique teaching video series, covering every  |
-|                                                                                                                                                                          | aspect of the game, is available on his website   |
-|                                                                                                                                                                          | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                          |                                                   |
-|                                                                                                                                                                          | You can also                                      |
-+==========================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_1-2-rhythm-the-serve/media/image6.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also |
+
 
 ------------------------------------------------------------------------

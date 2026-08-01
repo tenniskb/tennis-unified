@@ -8,17 +8,16 @@ Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed
 Last month we look at the preparation and the backswings. ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/one_handed_backhand_part_3/).)
 
-Now it\'s time for the pay off\--producing the forward swing. Let\'s
+Now it's time for the pay off\--producing the forward swing. Let's
 look at the positioning of the hands and arms, the role of the wrist,
 the contact point, the finish and discuss the technical combinations and
 variations that go into creating a gorgeous, powerful, heavy one hander.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image1.webp)
 
-**Let\'s look at the one-handed forward swing, contact, the extension
+**Let's look at the one-handed forward swing, contact, the extension
 and finish.**
 
 ### The Wrist and the Racket Face
@@ -33,8 +32,7 @@ swing will get more spin, but will be unreliable.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image2.webp)
 
 **A firm wrist: difficult to describe but critical in development.**
 
@@ -62,8 +60,7 @@ relatively still and sufficiently firm. This will promote a clean hit
 with solid contact and also minimize the potential to shank or miss hit.
 
 ![A person holding a tennis racket Description automatically
-generated](media_forward-swing/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image3.webp)
 
 **Tilt angle: slightly open in the backswing, slightly closed at the
 start of the foreswing.**
@@ -99,8 +96,7 @@ you can be assured that the wrist is in a sufficiently firm position
 during the backswing.
 
 ![A person playing tennis Description automatically
-generated](media_forward-swing/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image4.webp)
 
 **In the wrap around backswing, the wrist can break slightly backwards
 and then release into the hit, but this is an advanced element that is
@@ -134,8 +130,7 @@ some exceptions can be made for advanced one-handers on a case-by-case
 basis if the player is gifted and has very good eyes and quick hands.
 
 ![A person playing tennis Description automatically
-generated](media_forward-swing/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image5.webp)
 
 **The leg drive can be massive in pro tennis and is key for both power
 and spin.**
@@ -159,10 +154,9 @@ ball between the hip and shoulder.
 
 The feet come up on the toes indicating an excellent push from the
 quads. At times the legs may straighten out completely, depending on the
-player\'s height and the height of the ball.
+player's height and the height of the ball.
 
-![](media_forward-swing/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_forward-swing/media/image5.webp)
 
 **The legs straighten for power and spin, sometimes propelling the
 player off the court surface.**
@@ -191,8 +185,7 @@ the maximum drive upward possible.
 
 ![A picture containing tennis, road, sport, athletic game Description
 automatically
-generated](media_forward-swing/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image6.webp)
 
 **I train kids to leave the court surface, similar to plyometrics.**
 
@@ -217,8 +210,7 @@ with high ball velocity and high swing velocity and is not recommended
 as a teaching point in the developmental phase.
 
 ![A person playing tennis Description automatically
-generated](media_forward-swing/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image7.webp)
 
 **With the arm extended contact far away from the body and far in
 front.**
@@ -249,8 +241,7 @@ shoulder reach approximately 90 degrees, they stop and anchor themselves
 as the right arm extends through the contact.
 
 ![A person playing tennis Description automatically
-generated](media_forward-swing/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image8.webp)
 
 **Hip and shoulder rotation coming into the contact, with the torso
 remaining more or less perpendicular after.**
@@ -280,8 +271,7 @@ the contact has added racquet speed, power, and spin.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image9.webp)
 
 **High level extreme grip one-handers tend to have somewhat greater
 rotation.**
@@ -311,8 +301,7 @@ rotate as extremely to generate power.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image10.webp)
 
 **The head and chin: still and balanced during and slightly after
 contact.**
@@ -337,15 +326,14 @@ Watching the ball into the contact point creates clean contact and
 minimizes miss hits. Nothing will disrupt a swing more than a bobbling
 head.
 
-It\'s hard to stress the point too much. If the head jerks even slightly
+It's hard to stress the point too much. If the head jerks even slightly
 it can pull the shot offline. I see many good junior players who
 basically intuit the last few feet of the incoming ball path. These
 players are estimating\--guessing really\--where to contact the ball.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image11.webp)
 
 **A still head position is a hallmark in my teaching.**
 
@@ -359,7 +347,7 @@ actually hitting the ball. Opponents can read this.
 ### Extension and Followthrough
 
 The arm and racquet should extend straight through the contact point and
-continue outward on the player\'s left side, arcing higher until the arm
+continue outward on the player's left side, arcing higher until the arm
 crosses over and reaches a full extension and stretch on the right side
 of the body. For players who do not extend in this way naturally, it
 must be extensively practiced and trained.
@@ -375,8 +363,7 @@ limit spin production and height on the ball. If he does not hit through
 the ball and extend, he will limit power, depth, and control.
 
 ![A child swinging a tennis racket Description automatically
-generated](media_forward-swing/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_forward-swing/media/image12.webp)
 
 **The hitting arm stretched straight and pointed to the sky**
 
@@ -403,13 +390,12 @@ may release farther and point back toward the back fence.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forward-swing/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_forward-swing/media/image13.webp)
 
 **In the pro game, sometimes the finish points back to the rear fence.**
 
 This comes from extra rotation of the hitting arm, wrist and racket.
-It\'s a common finish in today's pro game, but should only be attempted
+It's a common finish in today's pro game, but should only be attempted
 by advanced players. The key is that his wrist is loosening mostly after
 the shot---not before. Most beginners will try to copy this swing and
 get too wristy at the contact.
@@ -421,15 +407,14 @@ should be minimized because it can develop into a bad habit, causing a
 swing to become too short in general and hurting extension and racquet
 speed.
 
-So that\'s it for the forward swing. Next let\'s look at the critical
+So that's it for the forward swing. Next let's look at the critical
 element of disguise, as important as the technical swing development in
 creating a worldclass one-hander.
 
 Stay Tuned.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_forward-swing/media/image14.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_forward-swing/media/image14.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -446,7 +431,7 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed at
 [[ProdigyMaker.com]{.underline}](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy at
 [[CLTA.teachable.com]{.underline}](https://clta.teachable.com/)

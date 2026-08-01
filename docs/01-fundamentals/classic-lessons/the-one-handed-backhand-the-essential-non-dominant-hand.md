@@ -13,7 +13,7 @@ hand is critical in a great one-handed backhand. Tried it out myself and
 loved it! Yes, the right hand and arm have \"all the fun\" in the swing
 as John puts it.
 
-But it won\'t unless what happens before is pure and correct. The grip
+But it won't unless what happens before is pure and correct. The grip
 change. The turn and racket position, and the counter balance. This
 emphasis could be just what your one-hander doesn't have. And could
 transform it!
@@ -22,8 +22,7 @@ transform it!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image2.jpeg){width="2.0833333333333335in"
-height="2.4479166666666665in"}
+confidence](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image2.jpeg)
 
 John is a former Division I Collegiate player with over 35 years of
 playing, coaching and teaching experience. He is an Elite member of the
@@ -41,5 +40,4 @@ Performance Plus Tennis, John is also a Pro at the Newport Beach Tennis
 Club.
 
 ![Logo, company name Description automatically
-generated](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image3.jpeg){width="2.0833333333333335in"
-height="0.75in"}
+generated](media_the-one-handed-backhand-the-essential-non-dominant-hand/media/image3.jpeg)

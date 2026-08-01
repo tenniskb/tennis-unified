@@ -4,8 +4,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-front-foot-hop/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-front-foot-hop/media/image1.webp)
 
 **Front Foot Hop: an aggressive contact move when you come forward.**
 
@@ -17,15 +16,14 @@ hit, the balance moves after the hit, and also, the recovery steps.
 The Contact Move is a breakthrough concept because it allows us to make
 sense of the bewildering variety of complex movement patterns in high
 level tennis. Based on my study of pro tennis and the video resources of
-Tennisplayer, I\'ve identified almost 20 different pro Contact Moves,
+Tennisplayer, I've identified almost 20 different pro Contact Moves,
 covering every aspect of the game.
 
 In these articles we are breaking the Contact Moves down into three
 categories. These are offensive, neutral, and defensive contact moves.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-front-foot-hop/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-front-foot-hop/media/image2.webp)
 
 **The player steps in, hits, kicks the leg back, and lands on the front
 foot.**
@@ -33,8 +31,8 @@ foot.**
 We already looked at the first two aggressive contact moves, the Step
 Down ([Click Here](Contact%20Moves%20-%20The%20Step%20Down.docx)) and
 the Transfer ([Click Here](Contact%20Moves%20-%20The%20Transfer.docx)).
-Now in this article we\'ll look at the third aggressive contact move,
-what I call the Front Foot Hop. In future articles, I\'ll progress to
+Now in this article we'll look at the third aggressive contact move,
+what I call the Front Foot Hop. In future articles, I'll progress to
 the analysis of neutral and defensive contact moves as well.
 
 **The Hop Move**
@@ -43,12 +41,11 @@ A Front Foot Hop is one variation in a larger category of hop moves.
 **[[In general, a hop move is a contact move in which the ball is hit
 off one foot, with the other foot in the air.]{.underline}]{.mark}** We
 will look at more hop moves when we address neutral and defensive
-footwork. But first let\'s see how to use the hop in aggressive,
+footwork. But first let's see how to use the hop in aggressive,
 attacking footwork. This is the Front Foot Hop variation.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-front-foot-hop/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-front-foot-hop/media/image3.webp)
 
 **An aggressive on the rise groundstroke finishes the point with a Front
 Foot Hop.**
@@ -70,8 +67,7 @@ player hits, he takes a hop forward and lands on the same foot, but in a
 spot forward from the take off point.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-front-foot-hop/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-front-foot-hop/media/image4.webp)
 
 **The Front Foot Hop is the natural transition footwork for attack.**
 
@@ -93,8 +89,7 @@ baseline. You can also hit the Front Foot Hop as a transition shot and
 follow it into the net.
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-front-foot-hop/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-front-foot-hop/media/image5.webp)
 
 **Players use a variety of outsteps to position for the Front Foot
 Hop.**
@@ -127,8 +122,7 @@ Here.](Contact%20Moves%20-%20The%20Step%20Down.docx))
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-front-foot-hop/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-front-foot-hop/media/image6.webp)
 
 **Running around and hitting the Front Foot Hop on a Inside Ball.**
 
@@ -145,8 +139,7 @@ contact.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_contact-moves-the-front-foot-hop/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_contact-moves-the-front-foot-hop/media/image7.webp)
 
 **To recover the player pushes off the outside foot, then uses shuffle
 and/or crossover steps to move back to the center.**
@@ -181,8 +174,7 @@ in the net. In this case you can recover to the
 baseline.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_contact-moves-the-front-foot-hop/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_contact-moves-the-front-foot-hop/media/image8.webp)
 
 **The Front Foot Hop, the split, then movement to the ball in any
 direction.**
@@ -203,12 +195,11 @@ position, he is ready to move either way to finish with a volley, or to
 move backward and finish with the overhead.]{.underline}**
 
 So, there we have it for the third aggressive contact move, the Front
-Foot Hop. Next, we\'ll move on the Neutral Contact Moves with some
+Foot Hop. Next, we'll move on the Neutral Contact Moves with some
 exotic names like The Back Foot Pivot, the Two Foot Pivot and the Spin
 Move. Stay Tuned.
 
-![](media_contact-moves-the-front-foot-hop/media/image9.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_contact-moves-the-front-foot-hop/media/image9.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

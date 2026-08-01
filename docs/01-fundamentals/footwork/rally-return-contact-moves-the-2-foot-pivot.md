@@ -7,8 +7,7 @@ The Two Foot Pivot**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp)
 
 **Top players neutralize hard serves hit directly to them with the two
 foot pivot.**
@@ -18,13 +17,13 @@ returns ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/))
 and defensive returns ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/defensive_returns/)).
-Now let\'s turn to what happens when you hit what I call a Rally Return.
+Now let's turn to what happens when you hit what I call a Rally Return.
 
 By rally return I mean a return in which the player is trying to
 neutralize the effectiveness of the serve. This often means the serve
 has forced the returner on time, or jammed him with the ball location.
 
-On a Rally Return, the returner\'s goal is to maintain his court
+On a Rally Return, the returner's goal is to maintain his court
 position and get into the point on an even footing. My research shows
 there are two basic Contact Moves players use to hit Rally Returns.
 
@@ -32,32 +31,30 @@ The first is what I call the Two Foot Pivot. The second Contact Move for
 a rally return is the Low Spin.
 
 Both moves can be hit on either the forehand or backhand side. This
-month we\'ll start with the Two Foot Pivot returns, and next month
-we\'ll look at the Low Spin.
+month we'll start with the Two Foot Pivot returns, and next month
+we'll look at the Low Spin.
 
-So, as we have for the other return contact moves, let\'s go over the
+So, as we have for the other return contact moves, let's go over the
 components involved in hitting a great Two Foot Pivot on both sides.
 
-+--------------------------------------------------------+
-| **For each of these Contact Moves we will outline:**   |
-+========================================================+
-| 1\. Type ball on which to use contact move             |
-|                                                        |
-| 2\. Out steps or the steps to set up the stance        |
-|                                                        |
-| 3\. Hitting Stance                                     |
-|                                                        |
-| 4\. Contact Move itself                                |
-|                                                        |
-| 5\. Corresponding Balance Move                         |
-|                                                        |
-| 6\. Recovery Steps                                     |
-+--------------------------------------------------------+
+| **For each of these Contact Moves we will outline:** |
+| --- |
+| 1\. Type ball on which to use contact move |
+|  |
+| 2\. Out steps or the steps to set up the stance |
+|  |
+| 3\. Hitting Stance |
+|  |
+| 4\. Contact Move itself |
+|  |
+| 5\. Corresponding Balance Move |
+|  |
+| 6\. Recovery Steps |
+
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image2.webp)
 
 **The split step, followed by a small outstep and a quick body turn.**
 
@@ -91,8 +88,7 @@ toes have turned at about a 45 degree angle to the baseline.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image3.webp)
 
 **The forward swing - note the rotation of the hips and the feet.**
 
@@ -110,7 +106,7 @@ straight up and down. The player also keeps the angles in the legs
 basically unchanged in the forward swing.
 
 Remember the Two Foot Pivot is a rally move. You are letting the ball
-come to you and using your opponent\'s power. The secret is to stay low,
+come to you and using your opponent's power. The secret is to stay low,
 relaxed and stable. You are relying on the rotation of the lower body to
 help make the return.
 
@@ -123,8 +119,7 @@ through the swing and prevents you from coming up too early and losing
 balance and power.
 
 ![A person playing tennis Description automatically
-generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image4.webp)
 
 **Agassi demonstrates the knee drop balance move and a strong crossover
 recovery step.**
@@ -151,8 +146,7 @@ swing. Note how she stays low with both feet on the ground, and how the
 angle of bend in her legs stays constant.
 
 ![A person playing tennis Description automatically
-generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_rally-return-contact-moves-the-2-foot-pivot/media/image5.webp)
 
 **A perfect two foot pivot backhand return: quick turn, torso rotation
 into the shot, knee drop and crossover recovery.**
@@ -162,7 +156,7 @@ player to stand her ground and neutralize the serve. This contact move
 allows players to get into the point on an even footing even n
 aggressive body serves.
 
-Ana\'s balance move is, again, the same as on the forehand, a knee drop.
+Ana's balance move is, again, the same as on the forehand, a knee drop.
 Watch her leg closest to the center of the court bend at the knee,
 reaching an angle approaching 90 degrees.
 
@@ -173,11 +167,10 @@ steps.
 
 The two foot pivot is an awesome weapon for any player. It can help you
 eliminate missed returns, and surprise opponents with solid replies to
-aggressive serves. It\'s a critical component of any return game. Next,
+aggressive serves. It's a critical component of any return game. Next,
 stay tuned for the second rally return: the low spin!
 
-![](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_rally-return-contact-moves-the-2-foot-pivot/media/image6.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

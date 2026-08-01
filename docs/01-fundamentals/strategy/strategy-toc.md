@@ -4,8 +4,7 @@
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_strategy-toc/media/image1.jpeg){width="1.8243055555555556in"
-height="2.6479166666666667in"}
+confidence](media_strategy-toc/media/image1.jpeg)
 
 John Yandell\
 Editor
@@ -27,21 +26,21 @@ It helped me beat players who considered themselves \"better\" than I
 wasand that many observers considered \"better\" as well.
 
 So why is then that so many players would rather obsess over the details
-of their topspin backhand? What I\'ve learned over the years, is that
+of their topspin backhand? What I've learned over the years, is that
 strategy is like the mental game. Powerful but scary. Many players would
 rather not really know how matches are won and lost. If they did, they
 might have to take more responsibility for the outcomeinstead of just
 think they need a little bit bigger first serve.
 
 But if you fall into the category of players willing to take the
-riskthere is a huge payout for you here. I believe most matches aren\'t
-settled by firepower. It\'s the application of firepower that counts.
-More specifically, it means knowing what you really can and can\'t do,
+riskthere is a huge payout for you here. I believe most matches aren't
+settled by firepower. It's the application of firepower that counts.
+More specifically, it means knowing what you really can and can't do,
 making similar assessments of your opponents, and then putting two and
 two together.
 
 To give one example: in a high school tournament I showed up at the
-match of our #3 player to find her down 6-2, 1-0. \"She\'s just too
+match of our #3 player to find her down 6-2, 1-0. \"She's just too
 good. She keeps killing her forehand!\" Caroline explained to me. I
 watched two games and on the changeover I told here one thing. \"From
 now on you will hit every ball to her backhand, period.\" The girl did
@@ -58,7 +57,7 @@ so dive in and get ready to get much happier with your results.
 
 ------------------------------------------------------------------------
 
-**Craig O\'Shannessy**
+**Craig O'Shannessy**
 
 [Rediscovering the Forced Error](Forced%20Errors%20.docx)
 
@@ -307,7 +306,7 @@ Box](Understanding%20the%20Service%20Box.docx)
 
 **Dave Hagler**
 
-[Women\'s Doubles and Your
+[Women's Doubles and Your
 Doubles](Women's%20Doubles%20and%20Your%20Doubles.docx)
 
 [Shot Selection: Foundation of

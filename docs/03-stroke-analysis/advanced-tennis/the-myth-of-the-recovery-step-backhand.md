@@ -10,13 +10,12 @@ foot does not swing around as part of the stroke, instead happening
 after the completion of the extension of the forward swing. ([Click
 Here](The%20myth%20of%20the%20Recovery%20Step%20-%20Forehand.docx).)
 
-Now let\'s look at the recovery step the pro backhand, both the
+Now let's look at the recovery step the pro backhand, both the
 one-hander and the two. High video shows that despite important
 differences in the stances, the sequences are similar.
 
 ![A person swinging a tennis racket Description automatically
-generated](media_the-myth-of-the-recovery-step-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-myth-of-the-recovery-step-backhand/media/image1.webp)
 
 **The sequence of the backhand recovery step is fundamentally similar to
 the forehand.**
@@ -42,8 +41,7 @@ of the forward swing\--and, of course, \"ready\" to recover faster.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-recovery-step-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-backhand/media/image2.webp)
 
 **The actual sequence: forward swing to extension with the recovery foot
 still well behind\-- only then swinging around to the outside.**
@@ -86,17 +84,16 @@ of the recovery step to the outside is often less on the backhands.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-recovery-step-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-backhand/media/image3.webp)
 
 **The closed stance with the rear recovery foot behind can mean the
-recovery step itself lands less to the player\'s side.**
+recovery step itself lands less to the player's side.**
 
 The reason is related to the differences in the stances. On the forehand
 the players are usually hitting with open stances and the recovery foot
 is the outside or left foot closest to the ball.
 
-On high level men\'s backhands, however, we have seen that the preferred
+On high level men's backhands, however, we have seen that the preferred
 stance is closed stance, created with a large diagonal cross step.
 
 This is true for the two-hander, ([Click
@@ -113,7 +110,7 @@ several feet further away.
 
 That can mean the actual length of the recovery step is longer. But
 because of where it starts the landing point is often less to the
-outside and closer to the player\'s body, or even in line with the front
+outside and closer to the player's body, or even in line with the front
 foot.
 
 **The Kick Back**
@@ -128,8 +125,7 @@ differences in the positioning of the shoulders at contact.**
 
 ![A person in an orange shirt Description automatically generated with
 low
-confidence](media_the-myth-of-the-recovery-step-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-backhand/media/image4.webp)
 
 **The rear foot can move backwards-sometimes substantially\-- in order
 to control the amount and timing of the body rotation.**
@@ -139,11 +135,11 @@ usually open or parallel to the net. But the shoulder positions at
 contact on pro backhands are more closed.
 
 On the pro one-hander the hips and shoulders are roughly perpendicular
-to the net at contact. That\'s 90 degrees or so less rotation than the
+to the net at contact. That's 90 degrees or so less rotation than the
 forehands.
 
 On the pro two-hander the angle of the shoulders is about 45 degrees to
-the net. That\'s about half the rotation of the forehand.
+the net. That's about half the rotation of the forehand.
 
 In both cases, early movement of the recover step opens the shoulders
 too much too soon and destroys this alignment. This explains why there
@@ -163,8 +159,7 @@ end up destroying the core elements in your strokes.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-myth-of-the-recovery-step-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-myth-of-the-recovery-step-backhand/media/image5.webp)
 
 **On the open stance backhand, the recovery step pattern is more similar
 to the forehand.**
@@ -184,7 +179,7 @@ recovery foot is now the outside foot closest to the ball.
 In general, the principles are clear across the pro ground strokes.
 Coaches and players can be fooled by the movements of top players in
 real time. They can also be fooled by video, such as the ubiquitous you
-tube clips, that don\'t allow frame by frame advance. Still these clips
+tube clips, that don't allow frame by frame advance. Still these clips
 are posted endlessly on messages boards to \"support\" stroke analysis
 when what they really show may be something totally different than what
 is claimed.
@@ -192,13 +187,12 @@ is claimed.
 If you are working on your footwork, including the critical aspect of
 recovery, make sure you video yourself and take a close look at the
 sequence of the motion, including the all critical extension of the
-swing. That\'s the way to maximize not only your shot production but
+swing. That's the way to maximize not only your shot production but
 your ability to cover the court as rapidly and efficiently as possible!
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-myth-of-the-recovery-step-backhand/media/image6.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-myth-of-the-recovery-step-backhand/media/image6.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

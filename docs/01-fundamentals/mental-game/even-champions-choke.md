@@ -6,8 +6,7 @@
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person hitting a ball with a tennis racket Description automatically
-   generated](media_even-champions-choke/media/image1.jpg){width="2.4090277777777778in"
-                                                                      height="2.8930555555555557in"}
+   generated](media_even-champions-choke/media/image1.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   **Steffi combined shot making with remarkable grace under pressure.**
 
@@ -39,8 +38,7 @@ the set on four consecutive errors and a double fault.
 
 ![A couple of men playing tennis Description automatically generated
 with medium
-confidence](media_even-champions-choke/media/image2.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_even-champions-choke/media/image2.webp)
 
 **Every player has had the experience of making errors under pressure.**
 
@@ -52,7 +50,7 @@ between Graf and the rest of us, however, is in what happened after the
 choke.
 
 At a set all Vicario seemed to have turned the tide of battle and was in
-the driver\'s seat all the way. Steffi was a little down, having choked
+the driver's seat all the way. Steffi was a little down, having choked
 away her chance for a straight set victory.
 
 Vicario moved to a 4-2 lead and had several chances to go up 5-2. Graf
@@ -67,8 +65,7 @@ and had been teetering on the brink of defeat for the past hour.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically
-  generated](media_even-champions-choke/media/image3.jpg){width="1.9791666666666667in"
-  height="2.9479166666666665in"}
+  generated](media_even-champions-choke/media/image3.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Even after choking, Steffi was prepared to fight out the third set**
 
@@ -95,7 +92,7 @@ she knows that if she does this she usually wins.
 
 This is the crucial attitudinal difference between Steffi and many
 tennis players. Most of us are fearful. Against a difficult opponent in
-an important situation we are afraid that we may not have the \'stuff\'
+an important situation we are afraid that we may not have the 'stuff'
 it takes to be a winner.
 
 We become most likely to choke when we get ahead and the match is
@@ -106,19 +103,18 @@ will not get another chance.
 
 ![A person dancing on a stage Description automatically generated with
 low
-confidence](media_even-champions-choke/media/image4.webp){width="3.3333333333333335in"
-height="2.2291666666666665in"}
+confidence](media_even-champions-choke/media/image4.webp)
 
 **Against a difficult opponent in an important situation, many player
 worry they may not have what it takes to execute.**
 
 The feeling that we must win now or never is a tremendous source of
 pressure. And the most debilitating attitude of all is that choking is a
-character deficiency, proof that we are not \'winners.\'
+character deficiency, proof that we are not 'winners.'
 
 So after choking many players lose confidence and courage. They are
 discouraged not just because they lost a few points, but more so because
-they think they don\'t have \'it.\'
+they think they don't have 'it.'
 
 They may gamely attempt to fight on but their confidence is shattered,
 their resolve is weak, and they become unlikely to come up with their
@@ -126,13 +122,12 @@ best tennis in the next crucial situation. And because of this attitude
 they will usually ultimately lose.
 
 Steffi Graf is not admirable because she is without fear. She certainly
-has her fears. She is admirable because she doesn\'t allow them to
+has her fears. She is admirable because she doesn't allow them to
 debilitate her.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_even-champions-choke/media/image5.jpg){width="2.652083333333333in"
-  height="2.1805555555555554in"}
+  confidence](media_even-champions-choke/media/image5.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Steffi Graf was a great champion, not because she was without fears, but because she never allowed them to debilitate her.**
 
@@ -151,9 +146,9 @@ Steffi served two double faults to lose the game.
 Then at 5-all she regained control of herself, played two excellent
 games, and won her seventh Wimbledon. She is truly a great champion.
 
-**This article is excerpted from Allen\'s new book, Tennis: Winning the
+**This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and
-on Allen\'s new website,
+on Allen's new website,
 [www.allenfoxtennis.net](http://www.allenfoxtennis.net).**
 
 Read More From Allen!
@@ -162,62 +157,59 @@ Visit him at [www.allenfoxtennis.net](http://www.allenfoxtennis.net)
 
  
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text, newspaper Description automatically                                                                                                      | Winning the Mental Match Dr. Allen Fox                                                                                |
-| generated](media_even-champions-choke/media/image6.jpeg){width="1.3041666666666667in" |                                                                                                                       |
-| height="2.0in"}                                                                                                                                                       | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more      |
-|                                                                                                                                                                       | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing    |
-|                                                                                                                                                                       | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success,   |
-|                                                                                                                                                                       | it's a must for all competitive players.                                                                              |
-|                                                                                                                                                                       |                                                                                                                       |
-|                                                                                                                                                                       | [Click Here to                                                                                                        |
-|                                                                                                                                                                       | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
-+=======================================================================================================================================================================+=======================================================================================================================+
+| ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
+| --- | --- |
+| generated](media_even-champions-choke/media/image6.jpeg) | Tennis is mentally the most difficult sport due to it's personal nature which makes winning and losing feel more |
+|  | important than they are. In this new book, Allen offers his proven solutions to problems such as choking, reducing |
+|  | stress, finishing matches, and developing confidence. Based on a life time of high level play and coaching success, |
+|  | it's a must for all competitive players. |
+|  |  |
+|  | [Click Here to |
+|  | Order](http://www.amazon.com/Tennis-Winning-Mental-Allen-Fox/dp/0615407765/ref=sr_1_1?ie=UTF8&qid=1336083459&sr=8-1). |
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------+
-| ![Text Description automatically                                                                                                                                      | Winning may not be everything, but Dr. Allen Fox points out |
-| generated](media_even-champions-choke/media/image7.jpeg){width="1.8263888888888888in" | that, if we are honest with ourselves, winning is still     |
-| height="2.7305555555555556in"}                                                                                                                                        | eminently preferable to losing. In his new book, The        |
-|                                                                                                                                                                       | Winner\'s Mind, Allen lays out an original step-by-step     |
-|                                                                                                                                                                       | plan for succeeding at any of life\'s endeavors, based on   |
-|                                                                                                                                                                       | his first hand and very personal observations of the        |
-|                                                                                                                                                                       | careers of both world-class tennis players and successful   |
-|                                                                                                                                                                       | businessman. The bottom line is that even if you are not a  |
-|                                                                                                                                                                       | born champion\--and only a tiny percentage of us are\--you  |
-|                                                                                                                                                                       | can still use the success strategies of champions to tilt   |
-|                                                                                                                                                                       | the odds in your favor. Writing with brutal honesty and dry |
-|                                                                                                                                                                       | humor, Fox lays out the common mental characteristics of    |
-|                                                                                                                                                                       | winners in sports and in life. He explains the critical     |
-|                                                                                                                                                                       | role of intellect over emotion. He analyzes the struggle    |
-|                                                                                                                                                                       | between ambition and fear and the insidious and pervasive   |
-|                                                                                                                                                                       | fear of failure that undermines so many of us. He then      |
-|                                                                                                                                                                       | outline how to confront and overcome these fears in your    |
-|                                                                                                                                                                       | life and career, even when they are initially subconscious. |
-|                                                                                                                                                                       | Must reading from one of the great thinkers in tennis, and  |
-|                                                                                                                                                                       | a Renaissance Man in life. [Click Here to                   |
-|                                                                                                                                                                       | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
-|                                                                                                                                                                       |                                                             |
-|                                                                                                                                                                       | To purchase this book you can also send a check for \$17.95 |
-|                                                                                                                                                                       | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA.    |
-|                                                                                                                                                                       | 93401. The price includes shipping.                         |
-+=======================================================================================================================================================================+=============================================================+
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                         | Allen Fox PhD is a former world class player, a coach, |
-| generated](media_even-champions-choke/media/image8.gif){width="1.2520833333333334in" | a psychologist, and one of the most original and       |
-| height="1.3215277777777779in"}                                                                                                                                       | insightful analysts in modern tennis. A top 10         |
-|                                                                                                                                                                      | American player from the glory days before Open        |
-|                                                                                                                                                                      | tennis, Fox played many of the legendary greats, among |
-|                                                                                                                                                                      | them Roy Emerson, Rod Laver, Stan Smith, and Arthur    |
-|                                                                                                                                                                      | Ashe. At Pepperdine he developed the men\'s tennis     |
-|                                                                                                                                                                      | program into an elite contender for national titles,   |
-|                                                                                                                                                                      | and gave Brad Gilbert the insights that became the     |
-|                                                                                                                                                                      | foundation for \"Winning Ugly\". His book Think to Win |
-|                                                                                                                                                                      | is a modern classic. He has also starred in a series   |
-|                                                                                                                                                                      | of acclaimed videos, including Pro Secrets of Match    |
-|                                                                                                                                                                      | Play and Allen Fox\'s Ultimate Tennis Lesson.          |
-|                                                                                                                                                                      |                                                        |
-|                                                                                                                                                                      |                                                        |
-+======================================================================================================================================================================+========================================================+
+| ![Text Description automatically | Winning may not be everything, but Dr. Allen Fox points out |
+| --- | --- |
+| generated](media_even-champions-choke/media/image7.jpeg) | eminently preferable to losing. In his new book, The |
+|  | Winner's Mind, Allen lays out an original step-by-step |
+|  | plan for succeeding at any of life's endeavors, based on |
+|  | his first hand and very personal observations of the |
+|  | careers of both world-class tennis players and successful |
+|  | businessman. The bottom line is that even if you are not a |
+|  | born champion\--and only a tiny percentage of us are\--you |
+|  | can still use the success strategies of champions to tilt |
+|  | the odds in your favor. Writing with brutal honesty and dry |
+|  | humor, Fox lays out the common mental characteristics of |
+|  | winners in sports and in life. He explains the critical |
+|  | role of intellect over emotion. He analyzes the struggle |
+|  | between ambition and fear and the insidious and pervasive |
+|  | fear of failure that undermines so many of us. He then |
+|  | outline how to confront and overcome these fears in your |
+|  | life and career, even when they are initially subconscious. |
+|  | Must reading from one of the great thinkers in tennis, and |
+|  | a Renaissance Man in life. [Click Here to |
+|  | Order](http://www.tennis-warehouse.com/descpage-MIND.html). |
+|  |  |
+|  | To purchase this book you can also send a check for \$17.95 |
+|  | to Allen Fox, 1120 Inverness Place, San Luis Obispo, CA. |
+|  | 93401. The price includes shipping. |
+
+
+| ![A person holding a tennis racket Description automatically | Allen Fox PhD is a former world class player, a coach, |
+| --- | --- |
+| generated](media_even-champions-choke/media/image8.gif) | insightful analysts in modern tennis. A top 10 |
+|  | American player from the glory days before Open |
+|  | tennis, Fox played many of the legendary greats, among |
+|  | them Roy Emerson, Rod Laver, Stan Smith, and Arthur |
+|  | Ashe. At Pepperdine he developed the men's tennis |
+|  | program into an elite contender for national titles, |
+|  | and gave Brad Gilbert the insights that became the |
+|  | foundation for \"Winning Ugly\". His book Think to Win |
+|  | is a modern classic. He has also starred in a series |
+|  | of acclaimed videos, including Pro Secrets of Match |
+|  | Play and Allen Fox's Ultimate Tennis Lesson. |
+|  |  |
+|  |  |
+
 
 ------------------------------------------------------------------------

@@ -6,8 +6,7 @@
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image1.webp)
 
 **All time great players are also great returners.**
 
@@ -18,7 +17,7 @@ of the all-time great players.
 
 Jimmy Connors and Andre Agassi are often considered the best returners
 ever. But Pete Sampras, who was known for his great serve, was totally
-underrated as a returner. A player can\'t win 14 Grand Slams without
+underrated as a returner. A player can't win 14 Grand Slams without
 having a great return.
 
 In the present game, Federer has an exceptional return. His ability to
@@ -27,8 +26,7 @@ the level of Connors and Agassi by the end of his career. Without their
 return games, neither Federer nor Nadal would be where they are today.
 
 ![A person playing tennis Description automatically generated with low
-confidence](media_the-forehand-return/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image2.webp)
 
 **Is it better to learn to block or swing?**
 
@@ -38,8 +36,8 @@ between blocking and swinging.]{.underline}]{.mark}**
 
 **[[The other distinction is between the swings on a return and the
 swings on a regular ground stroke.]{.underline}]{.mark}** In this
-article we\'ll look at the forehand return and see what these
-distinctions can teach us. In the next article, we\'ll see how it all
+article we'll look at the forehand return and see what these
+distinctions can teach us. In the next article, we'll see how it all
 applies to the backhand return.
 
 Understanding these two points has made a huge difference in my return
@@ -51,25 +49,24 @@ make.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image3.webp)
 
 **The way to develop the feeling of control is to swing.**
 
 **Swinging Versus Blocking**
 
-Over my 25 years of teaching tennis, I\'ve been asked hundreds of times
+Over my 25 years of teaching tennis, I've been asked hundreds of times
 about how to return effectively against fast serves, and also, against
 spinning serves. Do I learn to swing first? Or should I learn to block?
 
 **[[My answer is always the same. A player has to learn to take a full
 swing at the ball first. You learn to block
 later.]{.underline}]{.mark}** If a player learns to block first he may
-very well never learn how to swing. And he probably won\'t learn to
+very well never learn how to swing. And he probably won't learn to
 block that effectively either.
 
 **[[Why? I believe that the only way to feel how to control the ball on
-the return is to swing.]{.underline}]{.mark}** It\'s much more subtle
+the return is to swing.]{.underline}]{.mark}** It's much more subtle
 and difficult to feel this when you block. But once you have the feeling
 of controlling the return, you can translate that into the more compact
 blocking motions.
@@ -83,20 +80,19 @@ follow-through.]{.underline}]{.mark}** **[[Most importantly, the racket
 needs to be sufficiently in front at contact.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
-generated](media_the-forehand-return/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-return/media/image4.webp)
 
 **The block should be instinctive, but with sound fundamentals.**
 
 A full swing teaches a player all these parts of the return. Players
-need to feel these parts before they can abbreviate them. If you don\'t
+need to feel these parts before they can abbreviate them. If you don't
 understand how to make a unit turn or how to move the racket through the
 contact point, how can you execute more compact versions of the same
 motions?
 
 The decision to hit a block return should be an instinctive decision.
 But many lower-level players try to block returns for the wrong reasons,
-usually because they don\'t prepare, or prepare so late that swinging is
+usually because they don't prepare, or prepare so late that swinging is
 not an option. Learning the timing of the swing also helps players
 develop the instinct to know when swinging is not possible.
 
@@ -114,8 +110,7 @@ ask a professional player what he would prefer to do on the return
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image5.webp)
 
 **Compare the height of the hand and the shoulder turn on the return
 versus the forehand groundstroke.**
@@ -125,7 +120,7 @@ versus the forehand groundstroke.**
 If the block return is a compact version of a swing return, then a swing
 return is a compact version of a groundstroke. The differences in the
 size of the swings can vary from player to player, and also from ball to
-ball, but let\'s discuss the issue first in a general way.
+ball, but let's discuss the issue first in a general way.
 
 Compared to the return, there is usually more shoulder turn on a
 groundstroke. The most obvious difference, however, is the size of the
@@ -134,28 +129,27 @@ groundstrokes. By contrast, **[[with the return, the players flatten out
 the looping motion in the take back.]{.mark}]{.underline}**
 
 With some players the difference between the groundstroke and the return
-is obvious. Lleyton Hewitt, one the game\'s best returners, is probably
+is obvious. Lleyton Hewitt, one the game's best returners, is probably
 the most dramatic example. Watch the backswing in the animation as
 Hewitt hits a forehand return and compare that to his forehand
 groundstroke.
 
 On the return, look at the height of the hand. At the highest point, it
 reaches about the level of his nose. Now compare that to the
-groundstroke. Hewitt\'s hand is much higher, about 6 inches above his
+groundstroke. Hewitt's hand is much higher, about 6 inches above his
 head, possibly 2 feet higher than on the return.
 
 ![A person playing tennis Description automatically
-generated](media_the-forehand-return/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-return/media/image6.webp)
 
 **Federer is more compact on both his return and his forehand.**
 
 I have always maintained that if Hewitt had the take back of his return
 on his ground stroke, his forehand would be much more of a weapon, but
-that\'s another story.
+that's another story.
 
-It\'s a little harder to see, but the same thing happens with the
-shoulders and hips. There is definitely a strong body turn on Lleyton\'s
+It's a little harder to see, but the same thing happens with the
+shoulders and hips. There is definitely a strong body turn on Lleyton's
 return, with his shoulders turning roughly 90 degrees to the net. But on
 the groundstroke, he pushes the turn further, with the line of the
 shoulders usually going past perpendicular to the net.
@@ -169,14 +163,13 @@ The difference may not look as obvious, but proportionately, Roger is
 compacting his motion as much as Hewitt. On the return, his hand appears
 to be just slightly above his waist. On the groundstroke, it reaches a
 maximum height at around the shoulder or a little higher. (For more on a
-great drill to work on flattening out the take back, check out Nick\'s
-Bollettieri\'s return article. [Click
+great drill to work on flattening out the take back, check out Nick's
+Bollettieri's return article. [Click
 Here](../Famous%20Coaches/Return%20Technique.docx).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image7.webp)
 
 **The size of the backswing is flexible depending on the type of
 return.**
@@ -191,7 +184,7 @@ a larger backswing is when they run around the ball, often moving back
 up to several feet to hit the return. Usually this happens on second
 serves. ([Click
 Here](http://www.tennisplayer.net/members/tour_strokes/bobby_bernstein/the_%20pro_return/the_%20pro_return.html)
-to read more about this in Bobby Berstein\'s return article.)
+to read more about this in Bobby Berstein's return article.)
 
 The goal is to hit a more aggressive return. This is reflected in the
 size of the backswing, as you can see in the Federer second serve return
@@ -200,20 +193,19 @@ height, very similar to the groundstroke. There is often a bit more of a
 shoulder turn as well.
 
 This variation in the return backswing just underscores my basic point.
-Good player\'s vary the size of the swing to the ball and the shot. All
+Good player's vary the size of the swing to the ball and the shot. All
 are variations on a theme that goes back to the mechanics of the
 groundstroke itself.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image8.webp)
 
 **Players vary the follow-throughs but still hit through the return.**
 
 **Follow-throughs**
 
-Focusing on following through is a huge key to a great return. It\'s the
+Focusing on following through is a huge key to a great return. It's the
 same as for the groundstrokes. There is also a relationship between this
 ability to hit through the shot and the ability to create the correct
 contact point at the front edge of the body.
@@ -227,8 +219,7 @@ block.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}\
+confidence](media_the-forehand-return/media/image9.webp)\
 **The elements of turn, contact, and follow-through on the block.**
 
 **The Block**
@@ -262,15 +253,14 @@ follow-through will be natural for players who have learned to hit
 effective swing returns.
 
 ![A person playing tennis Description automatically
-generated](media_the-forehand-return/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-return/media/image10.webp)
 
 **Players may start bent over, with a narrower stance, but look at the
 posture at contact.**
 
 **The Ready Position**
 
-**[[Now let\'s go over some of the other basics of all types of returns,
+**[[Now let's go over some of the other basics of all types of returns,
 starting with the ready position. The feet are at least shoulder width
 apart, but can be substantially wider.]{.underline}]{.mark}** **[[The
 base widens even further after the split step.]{.underline}]{.mark}**
@@ -292,15 +282,14 @@ forward or backward.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image11.webp)
 
 **One step forward usually precedes the split step.**
 
 For years I have maintained that a serve is not that much different from
 a short ground stroke, especially at the lower levels. Keep in mind on a
 serve, the ball has to land inside the service line to be good. **[[If
-you receive a ground stroke that lands inside the service line, it\'s
+you receive a ground stroke that lands inside the service line, it's
 natural to attack it with a full swing.]{.mark}]{.underline}**
 
 **[[The difference with the serve of course is that the velocity can be
@@ -324,8 +313,7 @@ patterns of speeds, spins, and placements used by a particular server.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image12.webp)
 
 **When players anticipate serve placements, it can drastically increase
 return effectiveness.**
@@ -358,8 +346,7 @@ start to move to the right spot as the toss goes up.
 
 ![A picture containing tennis, ball, athletic game, racket Description
 automatically
-generated](media_the-forehand-return/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-forehand-return/media/image13.webp)
 
 **Subtle differences in tosses and contact points indicate differences
 in spins and placements.**
@@ -379,18 +366,17 @@ a pattern you can start to anticipate it.
 The best example of this on the pro tour is the match up between Federer
 and Roddick. Federer always seems to know where Roddick is going to
 serve, giving him a better chance to return those bombs that come off
-Roddick\'s racket.
+Roddick's racket.
 
-Roddick like most servers has definite patterns and I\'m sure Federer
+Roddick like most servers has definite patterns and I'm sure Federer
 knows exactly what they are, so on big points Federer has a good sense
 where the serve is going. Roddick likes to serve wide on the deuce court
 and down the middle on the ad court. The problem is that these serves go
-into Federer\'s strength, the forehand.
+into Federer's strength, the forehand.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-forehand-return/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-forehand-return/media/image14.webp)
 
 **Michael Chang: great returns and a great return drill.**
 
@@ -406,32 +392,31 @@ Michael. What was amazing about it, was that Michael was hitting these
 huge returns back. He was not blocking them, but cracking them back with
 a full swing.
 
-That practice drill was a real eye opener to me, and one I\'ve used ever
+That practice drill was a real eye opener to me, and one I've used ever
 since. Work this drill on a regular basis and your preparation will
 accelerate, your backswing will flatten, and your movement will get
 better. With practice you may be surprised what you can do with your
 return.
 
-So that\'s it for the forehand return. Many of the same points apply on
-the backhand return, and there are some differences as well. We\'ll take
+So that's it for the forehand return. Many of the same points apply on
+the backhand return, and there are some differences as well. We'll take
 a look at that next. Stay tuned.
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person in a white shirt Description automatically generated with medium                                                                                               | Kerry Mitchell was a leading Bay Area       |
-| confidence](media_the-forehand-return/media/image15.jpeg){width="1.899925634295713in" | teaching pro for 20 years. He developed     |
-| height="1.8156660104986877in"}                                                                                                                                            | numerous ranked junior players and coached  |
-|                                                                                                                                                                           | a series of championship high school teams. |
-|                                                                                                                                                                           | He was highly ranked both sectionally and   |
-|                                                                                                                                                                           | nationally in men\'s 30 and 35 singles.     |
-|                                                                                                                                                                           |                                             |
-|                                                                                                                                                                           | After 15 years as the Head Teaching Pro at  |
-|                                                                                                                                                                           | the John Yandell Tennis School in San       |
-|                                                                                                                                                                           | Francisco, California Kerry and his partner |
-|                                                                                                                                                                           | are now splitting time between homes in     |
-|                                                                                                                                                                           | Merida, Mexico and Toronto, Canada. He has  |
-|                                                                                                                                                                           | continued to coach and to have great        |
-|                                                                                                                                                                           | competitive success winning Canadian        |
-|                                                                                                                                                                           | National seniors titles---not to mention    |
-|                                                                                                                                                                           | continuing to write articles for            |
-|                                                                                                                                                                           | Tennisplayer from his unique perspective.   |
-+===========================================================================================================================================================================+=============================================+
+| ![A person in a white shirt Description automatically generated with medium | Kerry Mitchell was a leading Bay Area |
+| --- | --- |
+| confidence](media_the-forehand-return/media/image15.jpeg) | numerous ranked junior players and coached |
+|  | a series of championship high school teams. |
+|  | He was highly ranked both sectionally and |
+|  | nationally in men's 30 and 35 singles. |
+|  |  |
+|  | After 15 years as the Head Teaching Pro at |
+|  | the John Yandell Tennis School in San |
+|  | Francisco, California Kerry and his partner |
+|  | are now splitting time between homes in |
+|  | Merida, Mexico and Toronto, Canada. He has |
+|  | continued to coach and to have great |
+|  | competitive success winning Canadian |
+|  | National seniors titles---not to mention |
+|  | continuing to write articles for |
+|  | Tennisplayer from his unique perspective. |
+

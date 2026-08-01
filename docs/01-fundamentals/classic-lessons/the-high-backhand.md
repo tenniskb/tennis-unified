@@ -5,8 +5,7 @@
 ### Scott Murphy
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-high-backhand/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image1.webp)
 
 **What are your option in hitting\--or avoiding\--high backhands?**
 
@@ -18,8 +17,8 @@ backhand can be sheer torture!
 
 What can you do to start playing this difficult shot more comfortably
 and confidently? In the last article we looked at various strategies for
-dealing with the high forehand, now let\'s do the same on the other
-wing. We\'ll examine how to avoid the high ball altogether, but also,
+dealing with the high forehand, now let's do the same on the other
+wing. We'll examine how to avoid the high ball altogether, but also,
 how to deal with it effectively and even aggressively when you have to
 make higher contact.
 
@@ -28,7 +27,7 @@ than the forehand. First, you have the one-handed and the two-handed
 backhand options to consider. Plus you have the slice option, which can
 be utilized by either one-handers or two-handers.
 
-So there is a lot to consider. Let\'s see how to decide what ball to
+So there is a lot to consider. Let's see how to decide what ball to
 play, based on an understanding of your style, your capabilities and
 your limitations. This includes not only how many hands you use, but
 also, the impact of grips, stances, court positioning, and awareness of
@@ -36,15 +35,14 @@ what your opponent is doing.
 
 ![A person wearing a white hat Description automatically generated with
 medium
-confidence](media_the-high-backhand/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-backhand/media/image2.webp)
 
-**Track the ball like a hawk and you\'ll develop timing on high balls.**
+**Track the ball like a hawk and you'll develop timing on high balls.**
 
 **Ball Tracking**
 
 First of all, track the ball like a hawk! This is the same point we
-started with on the forehand and it\'s equally vital on the backhand. Of
+started with on the forehand and it's equally vital on the backhand. Of
 course, you want to track the ball in tennis on every shot, but this is
 especially important when you get a major shift in speed, spin, or
 trajectory-and all three of these usually apply on the high ball.
@@ -54,7 +52,7 @@ see the ball will be high. They end up concluding that the ball is too
 difficult or impossible. But if you simply relax and observed the flight
 closely, you will develop a feel for the high ball and sense of the
 difference in the timing of the shot. This is a prerequisite for
-executing any of your technical options. As you\'ll see there are many
+executing any of your technical options. As you'll see there are many
 possible ways to proceed.
 
 **Avoidance**
@@ -66,47 +64,45 @@ comfort zone. At lower levels of play this generally works well because
 the ball tends to be slower and have less spin, affording you time to
 get into good position. Just make sure you turn fully as you move back
 so you can execute the stroke with good technical elements. Again, in
-the panic mode many players don\'t prepare.
+the panic mode many players don't prepare.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image3.webp)
 
 **Moving back or moving forward allows you to avoid a high contact
 point.**
 
 With this strategy, you can comfortably hit a regular groundstroke.
-**[[Remember that by moving back you\'re giving away a lot of court, so
+**[[Remember that by moving back you're giving away a lot of court, so
 make sure your shot includes enough height and depth to counteract that
 and keep your opponent from getting too far ahead, coming in, or
 finishing on the next ball.]{.underline}]{.mark}**
 
-**[[Don\'t fall into the trap of thinking you absolutely have to do
+**[[Don't fall into the trap of thinking you absolutely have to do
 something with a deep, relatively high ball.]{.mark}]{.underline}**
 
 Thousands of unforced errors are made in club matches by players who
-feel they should be able to attack the high ball\--or maybe it\'s the
+feel they should be able to attack the high ball\--or maybe it's the
 desire to punish the opponent for hitting it to them in the first place.
 **[[Respect the fact that this is a difficult shot for players at all
-levels and don\'t donate points to your opponent out of
+levels and don't donate points to your opponent out of
 frustration.]{.underline}]{.mark}**
 
-**[[If your opponent stays back there\'s absolutely nothing wrong with
+**[[If your opponent stays back there's absolutely nothing wrong with
 responding to a high ball with a high ball of your
 own.]{.underline}]{.mark}** You can simply match the arc of his high
-looping shot. It\'s safe and it neutralizes what your opponent is trying
+looping shot. It's safe and it neutralizes what your opponent is trying
 to do. It can turn the frustration tables and lead to surprising and
 unexpected unforced errors from your opponent\-- free points for you.
 
 But remember to keep an eye on his actual response, as sometimes **[[a
 savvy player will sneak in as you retreat, hoping to take advantage of
-all the court you\'ve left open. When this happens your best bet is to
+all the court you've left open. When this happens your best bet is to
 just increase the height of the shot you were about to hit and make it a
 lob.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image4.webp)
 
 **Some players at all levels love to step in whenever possible.**
 
@@ -118,7 +114,7 @@ close to the baseline and hit the ball on the way up on as many balls as
 possible. This strategy can be utilized equally effectively whether you
 hit with one or two hands.
 
-It\'s aggressive and it\'s more difficult to time. Hitting on the rise
+It's aggressive and it's more difficult to time. Hitting on the rise
 is also to some degree a matter of personality and playing style. You
 probably have the natural inclination to hit a lot of balls on the
 rise\--or not.
@@ -136,26 +132,25 @@ exercise on the forehand, place some cones behind you to keep you from
 backing up.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-high-backhand/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image5.webp)
 
 **Learn to time the ball on the rise by hitting half volleys inside the
 service line.**
 
 Now have a partner toss or hit you balls that would bounce any where
-from mid chest to shoulder height. Essentially what you\'re doing here
+from mid chest to shoulder height. Essentially what you're doing here
 is hitting half volleys. Keep your backswings compact. As you become
 more adept at it you can add a bit more follow through, but the idea is
 to keep things simple while you develop confidence taking the ball at an
 earlier point in time.
 
-Another ball you\'ll want to practice from here is the one that lands
+Another ball you'll want to practice from here is the one that lands
 literally right at your feet. You want to play these balls the instant
-they bounce, like a short-hop half volley. I\'ve always thought of the
+they bounce, like a short-hop half volley. I've always thought of the
 ability to make this shot as a rite of passage for tennis players.
 Learning to do it well may take awhile, but once you get the hang of it
-you\'ll no longer fear one of the most difficult shots in the game.
-Whether you use it as a regular strategy or not it\'s bound to improve
+you'll no longer fear one of the most difficult shots in the game.
+Whether you use it as a regular strategy or not it's bound to improve
 your overall sense of timing.
 
 My experience shows there is usually a difference here between the
@@ -167,8 +162,7 @@ nearer the top of the bounce. Or they will opt for the slice (see
 below).
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image6.webp)
 
 **Two-handers are often more likely to take high balls on the way up.**
 
@@ -197,8 +191,7 @@ comfortable and effective way of playing a potentially high bouncing
 ball.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image7.webp)
 
 **Open stance is the first key to hitting high topspin drives\--even for
 two-handers.**
@@ -224,8 +217,7 @@ reply, or be even more aggressive and flatten the ball out even from
 shoulder level.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-high-backhand/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}\
+generated](media_the-high-backhand/media/image8.webp)\
 **Advanced players can use the leg kick to elevate the strike zone.**
 
 Another alternative is the shot that Marat Safin is generally credited
@@ -237,7 +229,7 @@ contact.]{.mark}]{.underline}**
 
 It actually looks similar to the launch on the serve, or what high level
 players do on the forehand side when they make contact with both feet in
-the air. **[[It\'s another way of keeping the contact in your comfort
+the air. **[[It's another way of keeping the contact in your comfort
 zone, but without having to time the ball on the rise, obviously
 something that is very difficult on many balls in pro
 tennis.]{.underline}]{.mark}**
@@ -250,8 +242,7 @@ you.
 
 ![A picture containing sport, athletic game, outdoor, hitting
 Description automatically
-generated](media_the-high-backhand/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}\
+generated](media_the-high-backhand/media/image9.webp)\
 **Grip affects the range of comfortable contact heights on the
 one-hander.**
 
@@ -276,8 +267,7 @@ and typically with a more closed stance at the higher
 levels.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image10.webp)
 
 **The open stance allows you to drive up and through high balls without
 blocking your swing.**
@@ -289,7 +279,7 @@ general their strike zone will be around waist level or most balls.
 
 **[[But whatever grip style you use on your one-handed drive, eventually
 you will have to deal with balls above your normal comfort
-zone.]{.underline}]{.mark}** Within limits, **[[it\'s possible to hit
+zone.]{.underline}]{.mark}** Within limits, **[[it's possible to hit
 many of these as topspin drives, or at least high topspin
 loops.]{.underline}]{.mark}**
 
@@ -299,8 +289,8 @@ topspin is also just like the forehand. With the open stance you will
 now be able to swing upward and outward through the ball with a steeper
 swing plane. Sometimes you will naturally step forward onto the line of
 the shot. But if the ball is too high a closed or even a neutral stance
-can block your ability to swing freely through the stroke. If you\'ve
-set up in position to hit open, you\'ve got this covered.
+can block your ability to swing freely through the stroke. If you've
+set up in position to hit open, you've got this covered.
 
 **[[Your follow through should be out and up and your non racket arm
 should move back behind you on a downward slant to keep your body more
@@ -314,8 +304,7 @@ structure and late contact.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-high-backhand/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-high-backhand/media/image11.webp)
 
 **Visualize the image of the racket head above the wrist to keep the
 hitting arm and racket aligned.**
@@ -344,13 +333,12 @@ which balls he can still drive, and which ones have to be hit with
 slice.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image12.webp)
 
 **All players need slice to deal with balls above certain heights.**
 
 The basic technical elements on the high slice are the same as in any
-sound slice backhand groundstroke, something we\'ve looked at in detail
+sound slice backhand groundstroke, something we've looked at in detail
 in a previous article. ([Click
 Here.](http://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_backhand_slice_images/scott_murphy_backhand_slice.html))
 It starts with the grip which should be some version of a continental.
@@ -374,8 +362,7 @@ and has more energy. This more severe swing plane is required to deal
 with the extra energy from the spin.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image13.webp)
 
 **The higher and heavier the ball, the more downward the swing.**
 
@@ -405,8 +392,7 @@ balls. In this case, the swing is so steeply downward that the tip of
 the racket can come close to hitting the court surface.
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-high-backhand/media/image14.webp)
 
 **The outside edge is often higher when top players carve heavy topspin
 balls with slice.**
@@ -421,7 +407,7 @@ decelerates naturally. In most cases this will mean that follow-through
 will come back up significantly, often as high as shoulder
 level.]{.underline}]{.mark}**
 
-**[[Don\'t become wedded to one idea about how the slice swing plane
+**[[Don't become wedded to one idea about how the slice swing plane
 works. There is a lot of diversity in the speed and angle of the swing,
 even in the pro game.]{.underline}]{.mark}** **[[Experiment to find how
 much to swing downward and when on the various high balls you face at
@@ -433,8 +419,7 @@ loses too much pace and floats-even when the player is trying to hit
 through and create a flatter shot.]{.underline}]{.mark}**
 
 ![A person playing tennis Description automatically
-generated](media_the-high-backhand/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}\
+generated](media_the-high-backhand/media/image15.webp)\
 **Base your response to the high ball on your capabilities, but also
 your opponent.**
 
@@ -447,9 +432,9 @@ makes a delayed opportunity approach.]{.mark}]{.underline}** If he does,
 **[[a slice nailed right at his feet is a great play that forces him to
 hit a tough volley without much pace to work
 with]{.underline}]{.mark}**. This may give you an easy pass on the next
-ball if it doesn\'t draw an outright error.
+ball if it doesn't draw an outright error.
 
-Often, if your opponent stays back, he\'ll try to position himself to
+Often, if your opponent stays back, he'll try to position himself to
 hit inside out or inside in forehands from the backhand side of his
 court. In this case the depth of your shot is critical to keep him from
 getting ahead on the next ball. In terms of placement the best
@@ -458,17 +443,16 @@ deep enough, it is also possible to change direction and go down the
 line, lob, or give him the same type of high ball he just forced you to
 hit.
 
-So there we have a wide range of options. I can\'t stress enough that
+So there we have a wide range of options. I can't stress enough that
 there are a variety of plays that take into account your ability, your
-opponent\'s, the match up, and the specific tactical situation. That\'s
+opponent's, the match up, and the specific tactical situation. That's
 why complete players work so hard to develop their skills and confidence
-on all these shots. It\'s a great feeling not to fear the high ball and
+on all these shots. It's a great feeling not to fear the high ball and
 believe you can turn it to your advantage in a match. Try out these
-approaches and see if you don\'t feel that way too.
+approaches and see if you don't feel that way too.
 
 ![A person holding a tennis racket Description automatically
-generated](media_the-high-backhand/media/image16.gif){width="1.2479166666666666in"
-height="1.2159722222222222in"}
+generated](media_the-high-backhand/media/image16.gif)
 
 **Scott Murphy** is from Marin County, California where he started
 playing tennis at age 5 in a family of tennis nuts. Both of his parents
@@ -482,7 +466,7 @@ Tennis Camp at the Granlibakken Resort for 10 years. Scott now teaches
 privately in Ross, Marin County and in the summer he directs the Tuscan
 Tennis Academy which he founded in Quarrata, Italy.
 
-Check out Scott\'s website at
+Check out Scott's website at
 [scottmurphytennis.net](http://www.scottmurphytennis.net)
 
 You can contact Scott directly at: <scottmrph@yahoo.com>

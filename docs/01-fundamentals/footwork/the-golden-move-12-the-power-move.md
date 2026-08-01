@@ -20,8 +20,7 @@ is the only place to see it in fabulous detail.
 
 ![](media_the-golden-move-12-the-power-move/media/image1.png)
 
-![](media_the-golden-move-12-the-power-move/media/image2.jpeg){width="1.7166666666666666in"
-height="1.6715277777777777in"}
+![](media_the-golden-move-12-the-power-move/media/image2.jpeg)
 
 David Bailey is a native Australian who has spent 15 years studying
 tennis at the professional level. He has developed a new language for

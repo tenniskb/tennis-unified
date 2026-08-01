@@ -6,14 +6,13 @@
 
 Take a deep breath. Feel better? The breath of life. What could be
 easier and more natural, right? You come into the world breathing deeply
-from your gut, but, for most people, that doesn\'t last. In our
+from your gut, but, for most people, that doesn't last. In our
 fast-paced society, with its ever-increasing levels of stress, good
 breathing habits are actually rare.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person swinging a baseball bat Description automatically
-   generated](media_breathing-and-the-mental-game/media/image1.webp){width="2.875in"
-                                                                         height="2.15625in"}
+   generated](media_breathing-and-the-mental-game/media/image1.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            **Many players, even at high levels, restrict their breathing under pressure.**
 
@@ -21,7 +20,7 @@ breathing habits are actually rare.
 
 Most people breath with short, restricted breaths, instead of using the
 deeper, slower abdominal breathing that facilitates relaxation and high
-energy. This is true in life and it\'s true on the tennis court as well.
+energy. This is true in life and it's true on the tennis court as well.
 
 A crucial aspect to improving mental toughness and sustaining the ideal
 performance state is developing better breathing habits on the court.
@@ -42,8 +41,7 @@ our ideal performance state is breath control.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person holding a tennis racket Description automatically
-   generated](media_breathing-and-the-mental-game/media/image2.jpg){width="2.6041666666666665in"
-                                                                          height="3.3645833333333335in"}
+   generated](media_breathing-and-the-mental-game/media/image2.jpg)
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **Breath control is central to fueling your tennis from positive emotions.**
 
@@ -51,7 +49,7 @@ our ideal performance state is breath control.
 
 ### Breath Control
 
-Let\'s look at how to develop breath control, both during actual play
+Let's look at how to develop breath control, both during actual play
 and in the time between points.
 
 Most people tend to hold their breath under stress. In tennis,
@@ -84,8 +82,7 @@ pronounce the word \"yes\" at the contact point.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person playing tennis Description automatically generated with medium
-   confidence](media_breathing-and-the-mental-game/media/image3.webp){width="2.7916666666666665in"
-                                                                                  height="2.5in"}
+   confidence](media_breathing-and-the-mental-game/media/image3.webp)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          **With proper exhalation, you attack the ball with your breath.**
 
@@ -124,8 +121,7 @@ full potential without using both sides of the brain.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         ![A person standing in front of a microphone Description automatically generated with low
-   confidence](media_breathing-and-the-mental-game/media/image4.webp){width="2.84375in"
-                                                                           height="2.21875in"}
+   confidence](media_breathing-and-the-mental-game/media/image4.webp)
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   **Between point breathing as important as breathing during points.**
 
@@ -169,8 +165,7 @@ breathing.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A picture containing person Description automatically
-   generated](media_breathing-and-the-mental-game/media/image5.webp){width="2.615972222222222in"
-                                                                          height="2.2506944444444446in"}
+   generated](media_breathing-and-the-mental-game/media/image5.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                    **On the changeovers, towel off, drink water, and focus on your breathing.**
 
@@ -197,8 +192,7 @@ play and enjoyment of the game.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of
-  confidence](media_breathing-and-the-mental-game/media/image6.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
-  height="2.0722222222222224in"}                                                                                                                                                    himself who still competes nationally in USTA
+  confidence](media_breathing-and-the-mental-game/media/image6.jpeg)                                                                                                                                                    himself who still competes nationally in USTA
                                                                                                                                                                                     events, Jim created the field of Mental
                                                                                                                                                                                     Toughness training with his revolutionary study
                                                                                                                                                                                     of elite pro players. He has been one of the

@@ -1,4 +1,4 @@
-# The Loser\'s Edge
+# The Loser's Edge
 
 ### Kyle LaCroix
 
@@ -6,8 +6,7 @@
 
 ![A person holding a trophy Description automatically generated with
 medium
-confidence](media_the-losers-edge/media/image1.jpg){width="4.166666666666667in"
-height="2.5555555555555554in"}
+confidence](media_the-losers-edge/media/image1.jpg)
 
 **Even the great players are emotionally vulnerable after losses.**
 
@@ -20,7 +19,7 @@ Even if you are among the statistically insignificant percentage of
 tennis players good enough to make a living from pro tournament prize
 money, you will lose. Take the case of Mr. Roger Federer.
 
-Federer has lost over 200 pro matches. That\'s the equivalent of about 3
+Federer has lost over 200 pro matches. That's the equivalent of about 3
 years of tour matches! And Federer is among the winingest players in
 tennis history.
 
@@ -37,12 +36,11 @@ cried during the awards ceremony after an Australian final loss to
 Rafael Nadal, admitting, \"This is killing me.\"
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-losers-edge/media/image2.jpg){width="4.166666666666667in"
-height="2.7777777777777777in"}
+generated](media_the-losers-edge/media/image2.jpg)
 
 Why did Federer call this return luck?
 
-In 2011 he was angry and contemptuous after Novak Djokovic\'s famous
+In 2011 he was angry and contemptuous after Novak Djokovic's famous
 forehand return on match point reversed the course of their U.S. Open
 semi-final. He called the return \"lucky\" and said that Novak had given
 up.
@@ -50,15 +48,15 @@ up.
 Now compare those responses to his comments in 2015 after two other
 Grand Slam losses, both to Djokovic.
 
-At Wimbledon this year after the final he said: \"I\'m very happy to see
+At Wimbledon this year after the final he said: \"I'm very happy to see
 that I can produce a performance like I did the last two weeks. That
 clearly makes me believe that this was just a stepping stone to many
 more great things in the future.\"
 
 And here is what he said after the Open loss in which he converted only
-4 of 23 break points: \"I\'m happy that I played so well to give myself
+4 of 23 break points: \"I'm happy that I played so well to give myself
 23 break point opportunities. Against a player like Novak, to give
-yourself that many chances, you\'re clearly doing many things right.\"
+yourself that many chances, you're clearly doing many things right.\"
 
 That is spinning the negative into relentless positive thinking. But in
 both cases, looking at his face as he said the words you could tell he
@@ -68,10 +66,9 @@ was perfectly sincere.
 
 ![A picture containing person, sport, athletic game, player Description
 automatically
-generated](media_the-losers-edge/media/image3.jpg){width="3.4722222222222223in"
-height="2.4305555555555554in"}
+generated](media_the-losers-edge/media/image3.jpg)
 
-**When you looked at Roger\'s face you believed him.**
+**When you looked at Roger's face you believed him.**
 
 Federer is exceptional in so many ways, so is this just another example
 of what makes him unique? As you go down in the pro rankings the number
@@ -96,13 +93,12 @@ In 1999 he won the US junior title. Fans, writers and coaches called him
 the next big star. This was despite the obvious fact that junior
 dominance is not an accurate predictor of tour stardom.
 
-Nieminen\'s 15 year career on tour was more than a success by any
+Nieminen's 15 year career on tour was more than a success by any
 reasonable standard. He made the quarters in the 3 of the 4 Grand Slams.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-losers-edge/media/image4.jpg){width="3.9722222222222223in"
-height="2.8194444444444446in"}
+confidence](media_the-losers-edge/media/image4.jpg)
 
 **Practicing with Jarrko I learned the value of losing.**
 
@@ -132,23 +128,22 @@ victory.
 
 Tennis teachers and coaches spend hours each day teaching students shots
 and tactics, but little or no time preparing them for those inevitable
-moments of disappointment. Maybe that\'s because they never learned how
+moments of disappointment. Maybe that's because they never learned how
 to face them themselves.
 
 **Love**
 
 ![A group of men holding flags Description automatically generated with
 low
-confidence](media_the-losers-edge/media/image5.jpg){width="4.861111111111111in"
-height="2.9444444444444446in"}
+confidence](media_the-losers-edge/media/image5.jpg)
 
 **Can you look at your losses the way Federer does?**
 
-It\'s easy to say don\'t dwell on a loss. It\'s much harder not to,
+It's easy to say don't dwell on a loss. It's much harder not to,
 especially if the perceived stakes were high. Those stakes might be a
 league match or just a weekly encounter with your nemesis or rival.
 
-In Jim Loehr\'s work one of the fundamental components is learning to
+In Jim Loehr's work one of the fundamental components is learning to
 understand process, learning to love the battle, learning to focus on
 the joy of playing the game rather than the outcome. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/pathway_to_performing_under_pressure/pathway_to_performing_under_pressurehtml.html).)
@@ -166,20 +161,20 @@ Optimism
 
 As players compete, there will be critical moments that determine the
 outcome of a given match, or have the potential to do so. When many
-players don\'t capitalize they often lament of what could have been.
+players don't capitalize they often lament of what could have been.
 
 If you got outplayed in every category, then your opponent was too good.
 But what about your game? Are you honest enough to address what you can
 learn?
 
 Again listen to Federer: \"Usually you learn more when you lose just in
-the sense that you analyze harder, deeper at times. That\'s where you
+the sense that you analyze harder, deeper at times. That's where you
 learn a lot about your game, about your attitude, about your fitness.\"
 
 Think about what David Sammel explained in his article on The Ladder of
 Gain. ([Click
 Here](https://www.tennisplayer.net/members/mentalgame/david_sammel/ladder_of_gain/).)
-Losses don\'t mean going down. They only show you the path upward to the
+Losses don't mean going down. They only show you the path upward to the
 next rung.
 
 And one final thought. Be grateful. You have another chance another day
@@ -187,8 +182,7 @@ to play tennis.
 
 ![A person smiling for the camera Description automatically generated
 with low
-confidence](media_the-losers-edge/media/image6.jpeg){width="2.078472222222222in"
-height="1.9041666666666666in"}
+confidence](media_the-losers-edge/media/image6.jpeg)
 
 Kyle LaCroix is a USPTA and PTR Certified Professional as well as
 receiving his United States Center For Coaching Excellence (USCCE)

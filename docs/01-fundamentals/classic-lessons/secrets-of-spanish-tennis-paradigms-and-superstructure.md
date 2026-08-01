@@ -7,8 +7,7 @@ Paradigms and Superstructure**
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image1.webp)
 
 **Why have the Spanish succeeded in developing world class players?**
 
@@ -27,10 +26,10 @@ teaching methodology. Rather is it is a confluence of philosophical
 assumptions and training techniques, combined with cultural and even
 geographical elements.
 
-In this article let\'s first look at certain paradigmatic elements and
+In this article let's first look at certain paradigmatic elements and
 the unique cultural superstructure of Spanish tennis. Then in upcoming
 we will turn to some of the oncourt \"secrets\" utilized by the
-country\'s top coaches.
+country's top coaches.
 
 Miguel Crespo is a leading Spanish Sport Science researcher, a coach,
 and the head of the ITF research office based in Spain. He identifies
@@ -57,8 +56,7 @@ are unique to Spanish history, culture and geography:
 
 ![A person holding a basketball Description automatically generated with
 low
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image2.jpg){width="2.361111111111111in"
-height="3.0694444444444446in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image2.jpg)
 
 **Manuel Alonso: Wimbledon finalist 1921.**
 
@@ -66,7 +64,7 @@ height="3.0694444444444446in"}
 
 The Spanish have a proud tennis culture and believe strongly in honor
 and tradition. The first great Spanish champion, Manuel Alonzo reached
-the Wimbledon final in 1921. They\'ve had Grand Slam winners from Manuel
+the Wimbledon final in 1921. They've had Grand Slam winners from Manuel
 Santana in the 1960s, to Andres Gimeno and Manuel Orantes in the 1970s.
 
 Starting with Sergi Bruguera and then Carlos Moya (who was the first
@@ -91,8 +89,7 @@ ride away.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image3.webp)
 
 **Sergi Bruguera first of the modern tradition of Spanish champions.**
 
@@ -104,7 +101,7 @@ players because events are close to home. It is possible to play just
 professional circuits the whole year in Spain, all within a 4-8 hour
 radius of Barcelona, for example, without ever getting on a plane.
 
-And Spain\'s location makes traveling to other European events very
+And Spain's location makes traveling to other European events very
 convenient as well. Barcelona has direct flights with destinations all
 over the world from its international airport, which has made it a very
 popular home base for many ATP/WTA professionals.
@@ -112,12 +109,11 @@ popular home base for many ATP/WTA professionals.
 As one Spanish coach said, \"In Spain, we have the three things that a
 player needs to improve: coaches, tournaments and players. And now more
 than ever before, everybody is coming here to Spain \... The best thing
-is to have the three things together. You don\'t find many places with
+is to have the three things together. You don't find many places with
 that.\"
 
 ![Map Description automatically
-generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image4.jpg){width="3.4722222222222223in"
-height="3.236111111111111in"}
+generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image4.jpg)
 
 **Spain, one of the best tournaments schedules, and close to the rest of
 Europe.**
@@ -139,10 +135,9 @@ level.
 **Weather**
 
 ![A person holding a tennis racket Description automatically
-generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image5.jpg){width="3.4722222222222223in"
-height="3.236111111111111in"}
+generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image5.jpg)
 
-**Luis Mediero: a leader in Spain\'s strong coaching education.**
+**Luis Mediero: a leader in Spain's strong coaching education.**
 
 The weather is similar to Florida, sunny year-round with mild
 temperatures in winter. Minimal rainfall allows outdoor play on the red
@@ -155,7 +150,7 @@ than those in Barcelona.
 
 Former world No. 1 doubles player Sergio Casal, cofounder of the
 Casal-Sanchez Academy, perhaps described it best: \"What happens here?
-It\'s windy. It\'s sunny. It\'s hot. And it\'s slow \... And you have to
+It's windy. It's sunny. It's hot. And it's slow \... And you have to
 play. You get strong here. Here you can build everything.\"
 
 In search of better weather and training conditions, Andy Murray came to
@@ -164,7 +159,7 @@ young British hopefuls have since followed.
 
 Marat Safin came to Spain at an early age to hone his game on the red
 clay. Other Russians and Eastern European players have followed him,
-including Marat\'s sister Dinara.
+including Marat's sister Dinara.
 
 **Clay Courts**
 
@@ -174,14 +169,13 @@ development of tennis players in myriad ways.
 
 ![A picture containing tennis, athletic game, sport, ball Description
 automatically
-generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp)
 
 **Marat Safin, one of the first great champions who came to Spain from
 other countries.**
 
 \"We play a lot on clay in Spain because we have a lot of clay courts
-and it\'s good for learning the game,\" said Javier Piles, long-time
+and it's good for learning the game,\" said Javier Piles, long-time
 coach for David Ferrer, the 2013 French Open singles finalist. On clay
 the players learn to move and hit their shots on balance even when they
 are under pressure and this helps them a lot.\"
@@ -205,10 +199,9 @@ The slow and heavy conditions on the red clay force the player to
 develop maximum kinetic chain and racquet speed in order to successfully
 compete. Players learn by necessity to develop strong acceleration.
 
-![](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+![](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image6.webp)
 
-Spain\'s clay courts: ubiquitous and slow.
+Spain's clay courts: ubiquitous and slow.
 
 The inherent instability of the clay surface helps players develop
 better dynamic balance, stability on the run, and general lower body and
@@ -231,14 +224,13 @@ Role models and mentoring are an important component to Spanish success.
 Emilio Sanchez called this the importance of \"generations.\"
 
 ![A person in a white shirt Description automatically generated with low
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image7.jpg){width="2.6041666666666665in"
-height="1.96875in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image7.jpg)
 
 **Emilio Sanchez stresses the importance of \"generations.\"**
 
 Spanish players believe in helping the next generation of players to
 improve Spanish tennis as a whole. Time and again at Spanish training
-centers, I\'ve seen older pros training with younger junior players
+centers, I've seen older pros training with younger junior players
 without whining or complaining. The Spanish have somehow inculcated this
 generous nature towards countrymen in the majority of its successful
 players.
@@ -250,7 +242,7 @@ we can.
 \"When I started, a lot of the top players like Alberto Berasategui and
 Carlos Costa helped me to become a good player by letting me share
 coaches and practices with them. I learned a lot from them as a player,
-and now with this knowledge and my experience, I\'m trying to do the
+and now with this knowledge and my experience, I'm trying to do the
 same as a coach with the players I work with.\"
 
 The mentoring approach was adopted not only by players, but by coaches,
@@ -259,12 +251,11 @@ their knowledge with the younger generation of talented coaches. Even
 today, Pato and Luis are happy to share their knowledge with any coaches
 who come to visit them. ([**[Click
 Here]{.underline}**](https://www.tennisplayer.net/members/%20famouscoach/famouscoach.html) for
-Chris Lewit\'s interviews with Lluis Bruguera.)
+Chris Lewit's interviews with Lluis Bruguera.)
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image8.jpg){width="2.7777777777777777in"
-height="2.8194444444444446in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image8.jpg)
 
 **Luis Bruguera: eager and open to share with younger coaches.**
 
@@ -276,22 +267,21 @@ world by sharing their system.
 
 Coming from the hypercompetitive world of high performance tennis in the
 United States, this statement really left an impression on me. In
-Goodall\'s article \"Spain\'s Generation Game\" published on the ATP
-World Tour\'s website, he described Spain\'s commitment to helping the
+Goodall's article \"Spain's Generation Game\" published on the ATP
+World Tour's website, he described Spain's commitment to helping the
 next generation for both coaches and players: \"
 
 Then, the same situation triggered the next generation; younger coaches
 learning from older ones, they see the results, they imitate, and they
 keep on progressing and so a successful system was formed./I One of the
 products of that system, 1998 and 2001 Roland Garros finalist Corretja,
-stressed it wasn\'t only the coaches who were key, however; but that the
+stressed it wasn't only the coaches who were key, however; but that the
 older; more experienced and higher-ranked players themselves also
 fulfilled an important role by mixing with the juniors at that time.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image9.jpeg){width="0.625in"
-height="1.2333333333333334in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image9.jpeg)
 
 **Alex Corretja stresses the importance of high ranked players mixing
 with juniors.**
@@ -307,7 +297,7 @@ and now the young guys in Spain are practicing with them so it works
 really well.\"
 
 Having benefited from the system himself, Corretja believes older
-players have a duty to nurture young talen. The point wasn\'t lost on
+players have a duty to nurture young talen. The point wasn't lost on
 Moya, who famously took Rafael Nadal under his wing when the Mallorcan
 was a young teenager taking his first tentative steps on the
 professional circuit.
@@ -316,15 +306,15 @@ professional circuit.
 practiced with him a lot back home in Mallorca,\" said Nadal. \"I
 trusted him and he gave me a lot of confidence.\"
 
-Spain\'s focus on blending the generations not only provides mentoring
+Spain's focus on blending the generations not only provides mentoring
 support for players but also helps to reinforce the competitive spirit.
 Said Albert Costa, the 2002 French Open champion, \"The role models are
 very important. And here in Spain, here in this Academy, we have Albert
 Montanes, Nicloas Almagro, Feliciano Lopez, a lot of professional tennis
 players and they practice with the young players.
 
-\"They play with them. For the juniors it\'s good to see the difference
-of the levels. It\'s very, very important.\"
+\"They play with them. For the juniors it's good to see the difference
+of the levels. It's very, very important.\"
 
 This unusual amount of inter-academy cooperation, coach and player
 mentoring and role-modeling, and friendly competition between
@@ -334,8 +324,7 @@ of generosity, humility, sharing and cooperation.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image10.webp)
 
 **Elite players like Feliciano Lopez practice with juniors at the
 Spanish academies.**
@@ -345,7 +334,7 @@ Spanish academies.**
 Intensity and hard work are qualities shared by the players and also the
 coaches. Albert Costa summed this up perfectly when he said, \"The most
 important thing with drills is the intensity. If you make drills with
-intensity, full of concentration, that\'s the only way you can improve
+intensity, full of concentration, that's the only way you can improve
 your tennis.\"
 
 This mentality is evident throughout Spanish tennis. Said Spanish coach
@@ -353,13 +342,12 @@ Alberto Lopez, \"The most important thing is the mentality. We are
 really fierce . This is our game.\"
 
 These eight contributing factors\--coaching philosophies and methods
-aside\--have been tremendously important in Spain\'s rise to dominance
-in the tennis world. Next let\'s look at some of the actual on court
+aside\--have been tremendously important in Spain's rise to dominance
+in the tennis world. Next let's look at some of the actual on court
 secrets.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image11.jpeg){width="1.6118055555555555in"
-height="2.029861111111111in"}
+generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image11.jpeg)
 
 Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
 numerous top 10 nationally ranked juniors and is a leading coach,
@@ -376,14 +364,13 @@ podcast, The Prodigy Maker Show, which is available on Apple Podcasts
 and all other podcasting directories. All shows can be accessed
 at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
 
-Check out Chris\'s blog, also at ProdigyMaker.com for free articles on
+Check out Chris's blog, also at ProdigyMaker.com for free articles on
 high performance junior development and Spanish training. Learn about
 his camp at ChrisLewit.com or visit the online academy
 at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
 
 ![Text Description automatically
-generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image12.jpeg){width="1.761111111111111in"
-height="2.7090277777777776in"}
+generated](media_secrets-of-spanish-tennis-paradigms-and-superstructure/media/image12.jpeg)
 
 **The Secrets of Spanish Tennis**
 

@@ -5,14 +5,14 @@
 **By Donald A. Chu, Ph.D., PT, ATC, CSCS**
 
 It is common knowledge that off-court training can add to the tennis
-player\'s ability to play the game as well as avoid injury. When you
+player's ability to play the game as well as avoid injury. When you
 decide to make your entrance in the weight room for the purpose of
 conditioning your body for the rigors of the game, keep in mind that
 there are different ways in which muscles contract, and each has a role
 in the way you perform on the court. The way you perform a particular
 exercise can emphasize one form of contraction over another.
 
-**The three forms of muscle contraction that we\'ll be looking at in
+**The three forms of muscle contraction that we'll be looking at in
 this article are:**
 
 > **1) eccentric**
@@ -21,26 +21,25 @@ this article are:**
 >
 > **3) concentric**
 
-+---------------------------------------------------------+
-| **- THERE ARE THREE TYPES OF MUSCULAR CONTRACTIONS -**  |
-+=========================================================+
-|   ----------------------------------------------------- |
-|   1\. ISOMETRIC             result in no change in      |
-|   CONTRACTIONS:             length of the muscle\       |
-|                             (example: pushing against a |
-|                             wall)                       |
-|   ------------------------- --------------------------- |
-|   2\. CONCENTRIC            result in a shortening of   |
-|   CONTRACTIONS:             the muscle\                 |
-|                             (example: the up phase of a |
-|                             bicep curl)                 |
-|                                                         |
-|   3\. ECCENTRIC             result in a lengthening of  |
-|   CONTRACTIONS:             the muscle\                 |
-|                             (example: the down phase of |
-|                             a bicep curl)               |
-|   ----------------------------------------------------- |
-+---------------------------------------------------------+
+| **- THERE ARE THREE TYPES OF MUSCULAR CONTRACTIONS -** |
+| --- |
+| ----------------------------------------------------- |
+| 1\. ISOMETRIC             result in no change in |
+| CONTRACTIONS:             length of the muscle\ |
+| (example: pushing against a |
+| wall) |
+| ------------------------- --------------------------- |
+| 2\. CONCENTRIC            result in a shortening of |
+| CONTRACTIONS:             the muscle\ |
+| (example: the up phase of a |
+| bicep curl) |
+|  |
+| 3\. ECCENTRIC             result in a lengthening of |
+| CONTRACTIONS:             the muscle\ |
+| (example: the down phase of |
+| a bicep curl) |
+| ----------------------------------------------------- |
+
 
 **[The movers of the body are the muscles.]{.mark}** **[[Through their
 attachments to the bones by way of the tendons, they provide us with the
@@ -49,7 +48,7 @@ or shorten and produce tension.]{.mark}]{.underline}** They do this by
 either pulling the muscle fibers together, keeping them still, or by
 letting them slide apart. The strength of a muscle contraction is
 determined by how many muscle fibers are involved, and by the
-cross-sectional size of a muscle. So, let\'s look at the types of muscle
+cross-sectional size of a muscle. So, let's look at the types of muscle
 contractions that are available to us, how to stress the muscle in
 specific ways and how this can help your game.\
 \
@@ -57,14 +56,14 @@ specific ways and how this can help your game.\
 contraction. They]{.underline}]{.mark}** are responsible for slowing
 movements down, and then reversing that direction. This means that
 without eccentric strength it would be impossible to run or even walk.
-If we didn\'t have a way to counter the force of gravity, the force that
+If we didn't have a way to counter the force of gravity, the force that
 acts on your body as you stand, walk or run, we would be driven to the
 ground.\
 \
 **[[When we walk, we place approximately 3 times the weight of our body
 on each leg as it makes contact with the ground. When we run, this force
 can go up to 5 times our body weight. It is of interest that our
-bodies\' ability to resist this force can be improved by building
+bodies' ability to resist this force can be improved by building
 strength in the lower extremities, eccentric strength that
 is!]{.underline}]{.mark}**\
 \
@@ -75,7 +74,7 @@ eccentrically.\
 \
 After removing the bar from the rack, lower it slowly, using a count of
 6 to reach the deepest position. This is called the \"descent\" phase of
-the lift. When you reach the bottom of your squat you\'ll have to enlist
+the lift. When you reach the bottom of your squat you'll have to enlist
 an isometric contraction to completely stop, then follow this with a
 concentric contraction to get out of the down position. The concentric
 phase is known as the \"ascent\" phase and consists of acceleration the
@@ -97,7 +96,7 @@ strength. As time went by and research improved, it was found that
 isometric contractions really did improve the abilities of the muscle to
 generate force, but only at very specific angles. So, if you worked the
 muscles around a joint bend of 90 degrees, the strength built was only
-at that 90 degree angle. It didn\'t make sense to work every degree in
+at that 90 degree angle. It didn't make sense to work every degree in
 the range of a joint with the muscle making the isometric contractions
 at each point, because the time required would really make for a long
 workout. Can you imagine a workout for the biceps muscle consisting of a
@@ -112,7 +111,7 @@ or load that is impossible for you to move. Place the weighted bar in a
 position that you want to build strength in, i.e., 140 degrees of knee
 flexion. Get in a position underneath the bar and push upwards with
 maximal effort for 5-7 seconds (remember to exhale as you exert). Repeat
-this exercise for 5-6 reps. Although you don\'t want to make a steady
+this exercise for 5-6 reps. Although you don't want to make a steady
 diet of this type of exercise, it can provide variety as well as help
 you through the weaker points in the joint range of motion, at a
 sticking point or even help strengthen a particular position in your
@@ -129,14 +128,14 @@ together and this bulk equates to muscle size.]{.underline}]{.mark}** It
 should not however, be associated with strength output. A muscle does
 not have to be big and bulky to have the ability to develop force. It is
 of interest that **[[strength studies have shown that the \"speed of
-contraction\" is important in a muscle\'s ability to create power (force
+contraction\" is important in a muscle's ability to create power (force
 development rapidly).]{.underline}]{.mark}** **[[So, the concentric
 contractions should be performed at a tempo that is fairly rapid in
 movement.]{.underline}]{.mark}** **[[This gives a tennis player the best
 chance to maximize the type of muscle contraction most applicable to
 hitting each stroke.]{.underline}]{.mark}**\
 \
-Now that we have looked at all types of muscle contraction, let\'s
+Now that we have looked at all types of muscle contraction, let's
 revisit the eccentric contractions. We need to have eccentric strength
 when we move side to side, as well as up and back. This ability allows
 us to come to a stop more quickly, and then reverse the direction we
@@ -166,8 +165,7 @@ Fall 1995 issue.*
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                            ![A person in a suit smiling Description automatically generated with low
-        confidence](media_eccentric-strength-in-tennis/media/image1.jpeg){width="1.125in"
-        height="1.4270833333333333in"}Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a
+        confidence](media_eccentric-strength-in-tennis/media/image1.jpeg)Donald Chu received his Ph.D. from Stanford University in 1974. His degree in Physical Therapy is also from Stanford. He has a
      Masters in Kinesiology & Physical Education from CSU, Hayward. He is a professor emeritus from CSU, Hayward after a teaching career spanning over twenty years.
   During the time from 1997- 2001, Dr. Chu served as the Program Director of the Ohlone College Physical Therapist Assistant program. From 2001-2003, Dr. Chu served
                as the Director of Athletic Training & Rehabilitation at Stanford University. He is currently Clinic Director of Athercare Fitness & Rehabilitation.\
@@ -189,7 +187,6 @@ Fall 1995 issue.*
      In addition to his specific work with athletes he does consulting with Physical Therapy practices on improving patient care, business development and expansion
       into the areas of performance enhancement. He is also serving as an Expert Witness in litigation involving rehabilitation, fitness and physical therapy areas.
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    ![](media_eccentric-strength-in-tennis/media/image2.gif){width="1.3680555555555556in"
-                                                                                                                                     height="0.15208333333333332in"}
+    ![](media_eccentric-strength-in-tennis/media/image2.gif)
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------

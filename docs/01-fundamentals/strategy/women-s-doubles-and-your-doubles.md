@@ -1,4 +1,4 @@
-# Women\'s Doubles and Your Doubles
+# Women's Doubles and Your Doubles
 
 ### Dave Hagler 
 
@@ -6,8 +6,7 @@
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_women-s-doubles-and-your-doubles/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image1.webp)
 
 **How do changes in equipment affect doubles at the pro, and at the club
 level?**
@@ -27,7 +26,7 @@ statements about doubles that you may or may not agree with: 
     strategies.  Shots that at one time were low percentage or ill
     advised may now be very sound options.  
 
-**The Women\'s Model?**
+**The Women's Model?**
 
 In an earlier article I suggested that modern women's singles was often
 a better model for the club player.  I also believe that, in many cases,
@@ -36,14 +35,13 @@ options.  
 
 The truth is that the world of women's tennis is full of reluctant
 volleyers. For many players, their returns and groundstrokes are much
-better than their net play.  Women\'s teams have found ways to take
+better than their net play.  Women's teams have found ways to take
 advantage of these strengths, and minimized the need to rely on their
 weaknesses.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image2.webp)
 
 **In the modern game, the return can be more effective than the
 volley.**
@@ -56,7 +54,7 @@ effective than in the women's game.
 
 So, this is an alternative model to traditional doubles theory which
 advocates the advantages of the net and a purely attacking style.  As
-we\'ll see I do think there is room for both, and the two styles can be
+we'll see I do think there is room for both, and the two styles can be
 mixed. (For a tremendous presentation of the theory of the pure
 attacking style from Allen Fox, [Click
 Here](https://www.tennisplayer.net/members/strategy/louis%20_cayer/doubles_playing_styles/doubles_playing_styles.html).)
@@ -74,8 +72,7 @@ twice that, with breaks occurring 35% of the time.
 
 ![A picture containing sport, athletic game, sky, tennis Description
 automatically
-generated](media_women-s-doubles-and-your-doubles/media/image3.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_women-s-doubles-and-your-doubles/media/image3.webp)
 
 **A power groundie forces a weak reply, followed by a swinging volley
 into the opening.**
@@ -100,8 +97,7 @@ volley up on their first volleys.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image4.webp){width="3.3333333333333335in"
-height="2.5in"} 
+confidence](media_women-s-doubles-and-your-doubles/media/image4.webp) 
 
 **Serve and volley is still part of the complex mix in the modern
 game.**
@@ -135,8 +131,7 @@ serve can have a huge impact on the outcome of matches.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image5.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image5.webp)
 
 **Why not bring your groundstrokes more into play if they are your
 weapons?**
@@ -161,8 +156,7 @@ the chance to bring your best shots into play. 
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image6.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image6.webp)
 
 **In the backcourt in doubles you can force the action with fewer
 balls. **
@@ -205,8 +199,7 @@ balls\--and that can lead to errors.
 
 ![People playing tennis on a court Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image7.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image7.webp)
 
 **Backcourt exchanges often determine the outcome of most points.**
 
@@ -237,8 +230,7 @@ rationale behind each. 
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image8.webp)
 
 **A basic poach from the server's partner.**
 
@@ -262,8 +254,7 @@ placement.  
 
 ![A couple of people playing tennis Description automatically generated
 with low
-confidence](media_women-s-doubles-and-your-doubles/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}   
+confidence](media_women-s-doubles-and-your-doubles/media/image9.webp)   
 
 **By starting further back, the returning partner can intercept the
 first volley.**
@@ -291,8 +282,7 @@ partner. 
 
 ![People playing tennis on a court Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image10.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image10.webp)
 
 **The I Formation can be effective is dealing with crosscourt returns.**
 
@@ -330,8 +320,7 @@ version of the Australian or the I.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_women-s-doubles-and-your-doubles/media/image11.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image11.webp)
 
 **Crowding the alley protects the reluctant volleyer and against the
 down the line return.**
@@ -365,8 +354,7 @@ strategy.
 
 ![A group of people playing tennis Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image12.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image12.webp)
 
 **Two back brings the groundstrokes and the lob more into play.**
 
@@ -400,8 +388,7 @@ levels.
 
 ![A tennis match in progress Description automatically generated with
 low
-confidence](media_women-s-doubles-and-your-doubles/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image13.webp)
 
 **Receiving teams can set up the net player in crosscourt rallies.**
 
@@ -431,8 +418,7 @@ when she has slightly more time than from a position closer to the net.
 She may even venture to the net if her partner attacks the return.
 
 ![A person playing tennis Description automatically
-generated](media_women-s-doubles-and-your-doubles/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_women-s-doubles-and-your-doubles/media/image14.webp)
 
 **Players can start 3/4s back and attack on a good return.**
 
@@ -451,8 +437,7 @@ The answer is some of the options we've considered. 
 
 ![People playing tennis on a court Description automatically generated
 with medium
-confidence](media_women-s-doubles-and-your-doubles/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_women-s-doubles-and-your-doubles/media/image15.webp)
 
 **Hitting returns at a reluctant volleyer: just one of the new
 options.**
@@ -482,8 +467,7 @@ them during your match.    
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                     Dave Hagler is a Tennis Professional based
-  generated](media_women-s-doubles-and-your-doubles/media/image16.jpeg){width="2.082638888888889in"   in Los Angeles, California. He works with
-  height="2.09375in"}                                                                                                                                                              players of all ages, but he has a special
+  generated](media_women-s-doubles-and-your-doubles/media/image16.jpeg)                                                                                                                                                              players of all ages, but he has a special
                                                                                                                                                                                    passion for junior development. He has
                                                                                                                                                                                    coached numerous sectionally and nationally
                                                                                                                                                                                    ranked junior players and several national
@@ -491,7 +475,7 @@ them during your match.    
                                                                                                                                                                                    Professional and National Tester, a PTR
                                                                                                                                                                                    Master of Tennis -- Performance, and was
                                                                                                                                                                                    one of the first 100 coaches to complete
-                                                                                                                                                                                   the USTA\'s High Performance Coaching
+                                                                                                                                                                                   the USTA's High Performance Coaching
                                                                                                                                                                                    Program. He has been the USPTA California
                                                                                                                                                                                    Division Pro of the Year and one of 5
                                                                                                                                                                                    National Recipients of the "Pro of the

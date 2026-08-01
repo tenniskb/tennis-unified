@@ -77,14 +77,14 @@ với lực (力): lực là co cơ thô, kình là năng lượng đàn hồi �
 hướng. Phát kình là hành động phóng thích kình đó theo một hướng và vào
 một thời điểm chính xác.
 
-+-----------------------------------------------------------------------+
-| **NGUYÊN LÝ CỐT LÕI**                                                 |
-|                                                                       |
-| Cơ thể không đẩy lực từ A đến B. Cơ thể tích trữ năng lượng đàn hồi   |
-| trong pha âm (nén, xoắn), rồi giải phóng nó như sóng trong pha dương  |
-| (bung, phóng). Tốc độ và lực lượng không đến từ co cơ --- chúng đến   |
-| từ việc không cản sóng.                                               |
-+-----------------------------------------------------------------------+
+| **NGUYÊN LÝ CỐT LÕI** |
+| --- |
+|  |
+| Cơ thể không đẩy lực từ A đến B. Cơ thể tích trữ năng lượng đàn hồi |
+| trong pha âm (nén, xoắn), rồi giải phóng nó như sóng trong pha dương |
+| (bung, phóng). Tốc độ và lực lượng không đến từ co cơ --- chúng đến |
+| từ việc không cản sóng. |
+
 
 · · · · ·
 
@@ -96,14 +96,14 @@ một thời điểm chính xác.
 > Phát kình bắt đầu từ trước khi nó xảy ra --- từ khoảnh khắc cơ thể bắt
 > đầu hút lực từ đất vào trong.*
 
-+-----------------------------------------------------------------------+
-| **PHA ÂM · SHUAI JIN · 蓄勁**                                         |
-|                                                                       |
-| **Nén --- Xoắn --- Giữ**                                              |
-|                                                                       |
+| **PHA ÂM · SHUAI JIN · 蓄勁** |
+| --- |
+|  |
+| **Nén --- Xoắn --- Giữ** |
+|  |
 | Toàn bộ năng lượng của phát kình được tạo ra trong pha này. Pha dương |
-| chỉ là giải phóng những gì đã được tích lũy.                          |
-+-----------------------------------------------------------------------+
+| chỉ là giải phóng những gì đã được tích lũy. |
+
 
 ◆ **1. Hạ Thân --- Compression**
 
@@ -141,14 +141,14 @@ Cổ tay và đầu vũ khí tụt lại (lag) do quán tính, không phải do 
 cổ tay, mỗi đoạn đều bị giữ lại một nhịp so với đoạn gốc. Kết quả là
 toàn bộ hệ thống xoắn như dây cung kéo hết cỡ.
 
-+-----------------------------------------------------------------------+
-| **ĐIỂM CHUYỂN CỰC --- YI JI (一機)**                                  |
-|                                                                       |
-| Khoảnh khắc âm cực đại --- khi nén, xoắn, và stretch đều ở mức cao    |
-| nhất --- là điểm quyết định chất lượng của phát kình. Trong Thái cực  |
-| quyền, đây gọi là cơ (機): thời điểm hoàn hảo để chuyển từ âm sang    |
-| dương. Chuyển sớm → sóng yếu. Giữ đúng → phóng tự nhiên và mạnh mẽ.   |
-+-----------------------------------------------------------------------+
+| **ĐIỂM CHUYỂN CỰC --- YI JI (一機)** |
+| --- |
+|  |
+| Khoảnh khắc âm cực đại --- khi nén, xoắn, và stretch đều ở mức cao |
+| nhất --- là điểm quyết định chất lượng của phát kình. Trong Thái cực |
+| quyền, đây gọi là cơ (機): thời điểm hoàn hảo để chuyển từ âm sang |
+| dương. Chuyển sớm → sóng yếu. Giữ đúng → phóng tự nhiên và mạnh mẽ. |
+
 
 · · · · ·
 
@@ -160,14 +160,14 @@ toàn bộ hệ thống xoắn như dây cung kéo hết cỡ.
 > cản trở sóng đang được giải phóng. Mọi sự căng thẳng, mọi cơ gồng quá
 > sớm đều là rào cản làm sóng tắt giữa chừng.*
 
-+-----------------------------------------------------------------------+
-| **PHA DƯƠNG · FA JIN · 發勁**                                         |
-|                                                                       |
-| **Đẩy --- Mở --- Phóng**                                              |
-|                                                                       |
-| Sóng tự lan truyền từ trung tâm ra ngoại vi. Vai trò của ý thức là    |
-| định hướng, không phải tạo lực.                                       |
-+-----------------------------------------------------------------------+
+| **PHA DƯƠNG · FA JIN · 發勁** |
+| --- |
+|  |
+| **Đẩy --- Mở --- Phóng** |
+|  |
+| Sóng tự lan truyền từ trung tâm ra ngoại vi. Vai trò của ý thức là |
+| định hướng, không phải tạo lực. |
+
 
 **CHUỖI LAN TRUYỀN SÓNG · PROXIMAL-TO-DISTAL WAVE PROPAGATION**
 
@@ -215,61 +215,61 @@ toàn bộ hệ thống xoắn như dây cung kéo hết cỡ.
 
 ◆ **Các Bước Chi Tiết**
 
-+:------:+------------------------------------------------------------------+
-| **01** | **Chân Đẩy Đất --- Ground Reaction Force**                       |
-|        |                                                                  |
-|        | Chân duỗi ra, đẩy xuống mặt đất. Mặt đất phản lực lên bằng lực   |
-|        | bằng và ngược chiều (Newton III). Đây là nguồn lực duy nhất      |
-|        | trong phát kình. Không có lực nào được tạo ra ở tay hay vai ---  |
-|        | chúng chỉ là đường đi của sóng. Cảm giác đúng: lực đi từ chân    |
-|        | lên, không từ tay xuống.                                         |
-+--------+------------------------------------------------------------------+
+| **01** | **Chân Đẩy Đất --- Ground Reaction Force** |
+| --- | --- |
+|  |  |
+|  | Chân duỗi ra, đẩy xuống mặt đất. Mặt đất phản lực lên bằng lực |
+|  | bằng và ngược chiều (Newton III). Đây là nguồn lực duy nhất |
+|  | trong phát kình. Không có lực nào được tạo ra ở tay hay vai --- |
+|  | chúng chỉ là đường đi của sóng. Cảm giác đúng: lực đi từ chân |
+|  | lên, không từ tay xuống. |
 
-+:------:+------------------------------------------------------------------+
-| **02** | **Hông Mở Trước --- Wave Initiation**                            |
-|        |                                                                  |
-|        | Đây là bước quan trọng nhất. Hông mở trước vai --- không cùng    |
-|        | lúc. Khoảng trễ này duy trì X-factor stretch, kéo dài thêm pha   |
-|        | năng lượng xoắn. Hông không co cơ để quay --- hông được phóng đi |
-|        | bởi lực phản từ đất, chuyển hướng từ thẳng đứng sang xoay ngang. |
-+--------+------------------------------------------------------------------+
 
-+:------:+------------------------------------------------------------------+
-| **03** | **Tay Trái Thu Vào --- Angular Momentum**                        |
-|        |                                                                  |
-|        | Khi tay trái thu vào sườn, mô men quán tính của thân giảm xuống, |
-|        | làm tốc độ xoay tăng lên theo định luật bảo toàn mô men động     |
-|        | lượng --- giống vận động viên trượt băng kéo tay vào ngực. Đây   |
-|        | là cơ chế tăng tốc thụ động không cần thêm năng lượng từ cơ bắp. |
-+--------+------------------------------------------------------------------+
+| **02** | **Hông Mở Trước --- Wave Initiation** |
+| --- | --- |
+|  |  |
+|  | Đây là bước quan trọng nhất. Hông mở trước vai --- không cùng |
+|  | lúc. Khoảng trễ này duy trì X-factor stretch, kéo dài thêm pha |
+|  | năng lượng xoắn. Hông không co cơ để quay --- hông được phóng đi |
+|  | bởi lực phản từ đất, chuyển hướng từ thẳng đứng sang xoay ngang. |
 
-+:------:+------------------------------------------------------------------+
-| **04** | **Vai Bị Kéo Theo --- Passive Acceleration**                     |
-|        |                                                                  |
-|        | Vai không chủ động quay. Nó bị kéo bởi hông thông qua cân mạc    |
-|        | lưng và cơ chéo. Chính vì vai đi sau hông một nhịp, năng lượng   |
-|        | đàn hồi được giải phóng theo dạng whip --- tăng tốc cấp số nhân. |
-|        | Nếu vai và hông quay cùng lúc, lực triệt tiêu nhau, không có     |
-|        | whip.                                                            |
-+--------+------------------------------------------------------------------+
 
-+:------:+------------------------------------------------------------------+
-| **05** | **Tay Bị Quăng Ra --- Whip Release**                             |
-|        |                                                                  |
-|        | Cánh tay không đánh --- nó bị sóng quăng đi. Hiệu ứng roi da xảy |
-|        | ra khi mỗi đoạn tiếp theo có khối lượng nhỏ hơn nhưng nhận toàn  |
-|        | bộ xung lượng từ đoạn trước. Kết quả: bàn tay hoặc đầu vũ khí    |
-|        | đạt tốc độ cực đại trong khi tay chủ cảm thấy rất nhẹ.           |
-+--------+------------------------------------------------------------------+
+| **03** | **Tay Trái Thu Vào --- Angular Momentum** |
+| --- | --- |
+|  |  |
+|  | Khi tay trái thu vào sườn, mô men quán tính của thân giảm xuống, |
+|  | làm tốc độ xoay tăng lên theo định luật bảo toàn mô men động |
+|  | lượng --- giống vận động viên trượt băng kéo tay vào ngực. Đây |
+|  | là cơ chế tăng tốc thụ động không cần thêm năng lượng từ cơ bắp. |
 
-+:------:+------------------------------------------------------------------+
-| **06** | **Impact --- Wave Transfer**                                     |
-|        |                                                                  |
-|        | Thời điểm chạm không phải đập mà là chuyển sóng vào đối tượng.   |
-|        | Cơ thể không dừng lại tại điểm chạm --- sóng tiếp tục đi xuyên   |
-|        | qua. Đây là lý do tại sao trong Thái cực, lực xuyên thấu có thể  |
-|        | cảm nhận sâu vào bên trong cơ thể đối phương.                    |
-+--------+------------------------------------------------------------------+
+
+| **04** | **Vai Bị Kéo Theo --- Passive Acceleration** |
+| --- | --- |
+|  |  |
+|  | Vai không chủ động quay. Nó bị kéo bởi hông thông qua cân mạc |
+|  | lưng và cơ chéo. Chính vì vai đi sau hông một nhịp, năng lượng |
+|  | đàn hồi được giải phóng theo dạng whip --- tăng tốc cấp số nhân. |
+|  | Nếu vai và hông quay cùng lúc, lực triệt tiêu nhau, không có |
+|  | whip. |
+
+
+| **05** | **Tay Bị Quăng Ra --- Whip Release** |
+| --- | --- |
+|  |  |
+|  | Cánh tay không đánh --- nó bị sóng quăng đi. Hiệu ứng roi da xảy |
+|  | ra khi mỗi đoạn tiếp theo có khối lượng nhỏ hơn nhưng nhận toàn |
+|  | bộ xung lượng từ đoạn trước. Kết quả: bàn tay hoặc đầu vũ khí |
+|  | đạt tốc độ cực đại trong khi tay chủ cảm thấy rất nhẹ. |
+
+
+| **06** | **Impact --- Wave Transfer** |
+| --- | --- |
+|  |  |
+|  | Thời điểm chạm không phải đập mà là chuyển sóng vào đối tượng. |
+|  | Cơ thể không dừng lại tại điểm chạm --- sóng tiếp tục đi xuyên |
+|  | qua. Đây là lý do tại sao trong Thái cực, lực xuyên thấu có thể |
+|  | cảm nhận sâu vào bên trong cơ thể đối phương. |
+
 
 · · · · ·
 
@@ -281,57 +281,50 @@ Trong sóng lực, mỗi bộ phận cơ thể không phải là nguồn lực �
 đóng một vai trò chức năng trong chuỗi lan truyền. Hiểu sai vai trò này
 là nguyên nhân chính của mọi sai lầm trong tập luyện.
 
-+---------------+:-----------------------------------------------------+
-| **Bàn Chân &  | Kết nối với mặt đất, thu nhận Ground Reaction Force. |
-| Cẳng Chân**   | Chân phải ổn định và có rễ để sóng không bị thất     |
-|               | thoát xuống đất.                                     |
-| ROOT · NGUỒN  |                                                      |
-| PHẢN LỰC      |                                                      |
-+---------------+------------------------------------------------------+
-| **Hông &      | Là trung tâm khối lượng và trung tâm xoắn. Hông      |
-| Xương Chậu**  | chuyển hướng lực từ thẳng đứng sang xoay ngang. Mọi  |
-|               | sóng đều xuất phát từ đây. Hông là chủ thể --- mọi   |
-| ENGINE · BỘ   | thứ còn lại là hệ quả.                               |
-| PHÁT SÓNG     |                                                      |
-+---------------+------------------------------------------------------+
+| **Bàn Chân & | Kết nối với mặt đất, thu nhận Ground Reaction Force. |
+| --- | --- |
+| Cẳng Chân** | Chân phải ổn định và có rễ để sóng không bị thất |
+|  | thoát xuống đất. |
+| ROOT · NGUỒN |  |
+| PHẢN LỰC |  |
+| **Hông & | Là trung tâm khối lượng và trung tâm xoắn. Hông |
+| Xương Chậu** | chuyển hướng lực từ thẳng đứng sang xoay ngang. Mọi |
+|  | sóng đều xuất phát từ đây. Hông là chủ thể --- mọi |
+| ENGINE · BỘ | thứ còn lại là hệ quả. |
+| PHÁT SÓNG |  |
 | **Thân (Lưng, | Cân mạc lưng, cơ chéo bụng hoạt động như dây cáp đàn |
 | Sườn, Core)** | hồi --- tích lũy xoắn trong pha âm và giải phóng khi |
-|               | hông mở. Thân phải mềm nhưng có trương lực.          |
-| AMPLIFIER ·   |                                                      |
-| KHUẾCH ĐẠI    |                                                      |
-+---------------+------------------------------------------------------+
-| **Vai Trái    | Vai trái và tay trái là bộ neo của sóng trong pha    |
-| (Tay Không    | âm. Chúng giữ thân trên không mở sớm, kéo dài khoảng |
-| Thuận)**      | stretch giữa hông và vai, tích lũy thêm năng lượng   |
-|               | đàn hồi.                                             |
-| BRAKE · PHANH |                                                      |
-| GIỮ SÓNG      |                                                      |
-+---------------+------------------------------------------------------+
-| **Vai Phải    | Vai phải bị kéo theo bởi hông và thân --- không chủ  |
-| (Tay Thuận)** | động xoay. Vai chủ động quá sớm sẽ làm triệt tiêu    |
-|               | whip effect.                                         |
-| TRANSMITTER · |                                                      |
-| BỘ TRUYỀN     |                                                      |
-+---------------+------------------------------------------------------+
-| **Cánh Tay &  | Phần cuối của roi. Khối lượng nhỏ hơn nhưng nhận     |
-| Cổ Tay**      | toàn bộ xung lượng từ thân và vai --- do đó đạt vận  |
-|               | tốc lớn hơn nhiều. Cổ tay lag tự nhiên do quán tính. |
-| WHIP · ROI    |                                                      |
-| KHUẾCH ĐẠI    |                                                      |
-+---------------+------------------------------------------------------+
-| **Bàn Tay &   | Điểm cuối của chuỗi sóng --- nơi toàn bộ năng lượng  |
-| Ngón Tay**    | được tập trung vào diện tích nhỏ nhất. Bàn tay không |
-|               | đánh --- nó là điểm mà sóng kết thúc.                |
-| WAVE TIP ·    |                                                      |
-| ĐẦU SÓNG CUỐI |                                                      |
-+---------------+------------------------------------------------------+
-| **Hệ Cân Mạc  | Mô liên kết bao phủ toàn thân --- cơ sở hạ tầng vật  |
-| (Fascia)**    | chất của sóng lực. Kết nối tất cả các phần cơ thể    |
-|               | thành một hệ thống liên tục, cho phép sóng đàn hồi   |
-| NETWORK ·     | lan truyền không bị gián đoạn.                       |
-| ĐƯỜNG DẪN     |                                                      |
-| SÓNG          |                                                      |
-+---------------+------------------------------------------------------+
+|  | hông mở. Thân phải mềm nhưng có trương lực. |
+| AMPLIFIER · |  |
+| KHUẾCH ĐẠI |  |
+| **Vai Trái | Vai trái và tay trái là bộ neo của sóng trong pha |
+| (Tay Không | âm. Chúng giữ thân trên không mở sớm, kéo dài khoảng |
+| Thuận)** | stretch giữa hông và vai, tích lũy thêm năng lượng |
+|  | đàn hồi. |
+| BRAKE · PHANH |  |
+| GIỮ SÓNG |  |
+| **Vai Phải | Vai phải bị kéo theo bởi hông và thân --- không chủ |
+| (Tay Thuận)** | động xoay. Vai chủ động quá sớm sẽ làm triệt tiêu |
+|  | whip effect. |
+| TRANSMITTER · |  |
+| BỘ TRUYỀN |  |
+| **Cánh Tay & | Phần cuối của roi. Khối lượng nhỏ hơn nhưng nhận |
+| Cổ Tay** | toàn bộ xung lượng từ thân và vai --- do đó đạt vận |
+|  | tốc lớn hơn nhiều. Cổ tay lag tự nhiên do quán tính. |
+| WHIP · ROI |  |
+| KHUẾCH ĐẠI |  |
+| **Bàn Tay & | Điểm cuối của chuỗi sóng --- nơi toàn bộ năng lượng |
+| Ngón Tay** | được tập trung vào diện tích nhỏ nhất. Bàn tay không |
+|  | đánh --- nó là điểm mà sóng kết thúc. |
+| WAVE TIP · |  |
+| ĐẦU SÓNG CUỐI |  |
+| **Hệ Cân Mạc | Mô liên kết bao phủ toàn thân --- cơ sở hạ tầng vật |
+| (Fascia)** | chất của sóng lực. Kết nối tất cả các phần cơ thể |
+|  | thành một hệ thống liên tục, cho phép sóng đàn hồi |
+| NETWORK · | lan truyền không bị gián đoạn. |
+| ĐƯỜNG DẪN |  |
+| SÓNG |  |
+
 
 · · · · ·
 
@@ -482,15 +475,15 @@ cân mạc --- mô ít mỏi hơn cơ bắp và có thể tái lặp hàng nghì
 trận đấu dài hay một buổi tập kéo dài là bài kiểm tra của kỹ thuật sóng,
 không phải sức mạnh cơ học.
 
-+-----------------------------------------------------------------------+
-| **NGUYÊN LÝ TỔNG HỢP**                                                |
-|                                                                       |
-| Hạ → Khóa → Xoắn → Giữ → Đẩy → Hông dẫn → Tay whip → Thả. Đây không   |
-| chỉ là cue cho forehand tennis hay phát kình trong Thái cực. Đây là   |
-| nguyên lý vật lý cơ bản của cách cơ thể sinh học tạo và truyền lực    |
-| hiệu quả nhất có thể --- bất kỳ môn thể thao, bất kỳ kỹ thuật chiến   |
-| đấu, bất kỳ chuyển động nào. Hông là chủ thể. Tay là hệ quả.          |
-+-----------------------------------------------------------------------+
+| **NGUYÊN LÝ TỔNG HỢP** |
+| --- |
+|  |
+| Hạ → Khóa → Xoắn → Giữ → Đẩy → Hông dẫn → Tay whip → Thả. Đây không |
+| chỉ là cue cho forehand tennis hay phát kình trong Thái cực. Đây là |
+| nguyên lý vật lý cơ bản của cách cơ thể sinh học tạo và truyền lực |
+| hiệu quả nhất có thể --- bất kỳ môn thể thao, bất kỳ kỹ thuật chiến |
+| đấu, bất kỳ chuyển động nào. Hông là chủ thể. Tay là hệ quả. |
+
 
 > *"用意不用力 Dùng ý, không dùng lực"*
 

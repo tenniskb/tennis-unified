@@ -3,13 +3,12 @@
 # John Yandell
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image1.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image1.webp)
 
 **Forehand and backhand volleys: basic similarities, basic
 differences.**
 
-How different are the forehand and backhand volleys? It\'s a fascinating
+How different are the forehand and backhand volleys? It's a fascinating
 and complex question. The fact is that there are fundamental
 similarities and fundamental differences. ([Click
 Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/volleys/forehand_volley/forehand_volley.html)
@@ -40,8 +39,7 @@ general, the backhand volleys average more than twice that, or over
 Here](http://www.tennisplayer.net/members/mystheavyball/john_yandell/spintest_part2/spintest_part2.html).)
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image2.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image2.webp)
 
 **The backhand volley: more spin and a more downward swing plane.**
 
@@ -57,20 +55,18 @@ apply it on both sides. This means they end up either hitting downward
 too much on the forehand volley, or hitting through the backhand volley
 on too straight a line.
 
-And yes, it\'s a matter of degree, because both components are present
+And yes, it's a matter of degree, because both components are present
 in virtually all volleys. But understanding how to combine them in the
 right balance is what makes a given volley effective.
 
-So let\'s go through the backhand volley, break it down step by step,
+So let's go through the backhand volley, break it down step by step,
 and see how all the components fit and work together.
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A picture containing text Description automatically                                                                                                                      | ![A picture containing ground, hand Description automatically                                                                                                 |
-| generated](media_the-backhand-volley/media/image3.jpg){width="2.2777777777777777in" | generated](media_the-backhand-volley/media/image4.jpg){width="2.875in" |
-| height="2.9166666666666665in"}                                                                                                                                             | height="2.9166666666666665in"}                                                                                                                                |
-+:==========================================================================================================================================================================:+:=============================================================================================================================================================:+
-| **We can understand the backhand volley grip in terms of the relationship between the racket handle bevels, the index knuckle and the heel pad.**                                                                                                                                                                                          |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A picture containing text Description automatically | ![A picture containing ground, hand Description automatically |
+| --- | --- |
+| generated](media_the-backhand-volley/media/image3.jpg) |  |
+| **We can understand the backhand volley grip in terms of the relationship between the racket handle bevels, the index knuckle and the heel pad.** |  |
+
 
 **Grip**
 
@@ -79,7 +75,7 @@ by the top players. Virtually every top player uses some version of a
 continental or mild eastern grip on both sides. But the grip can still
 be a controversial issue.
 
-Once again we can refer to the grip terminology we\'ve developed to
+Once again we can refer to the grip terminology we've developed to
 describe how the hand connects with the racket on all strokes. The issue
 is how a player positions the index knuckle and the heel pad in relation
 to the bevels on the grip.
@@ -93,13 +89,11 @@ the heel pad is mainly on the top of the frame, or bevel 1. But even
 these players look like they slide part of the heel pad off Bevel 1 and
 slightly toward the second bevel.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person playing tennis Description automatically generated with medium                                                                                                   | ![A person sitting in a chair Description automatically generated with medium                                                                                              | ![A person holding a tennis racket Description automatically                                                                                                              |
-| confidence](media_the-backhand-volley/media/image5.jpg){width="2.7916666666666665in" | confidence](media_the-backhand-volley/media/image6.jpg){width="2.111111111111111in" | generated](media_the-backhand-volley/media/image7.jpg){width="2.013888888888889in" |
-| height="2.2222222222222223in"}                                                                                                                                              | height="2.2222222222222223in"}                                                                                                                                             | height="2.2222222222222223in"}                                                                                                                                            |
-+=============================================================================================================================================================================+============================================================================================================================================================================+===========================================================================================================================================================================+
-| **Hard to define precisely, but some version of a mild backhand grip.**                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person playing tennis Description automatically generated with medium | ![A person sitting in a chair Description automatically generated with medium | ![A person holding a tennis racket Description automatically |
+| --- | --- | --- |
+| confidence](media_the-backhand-volley/media/image5.jpg) |  |  |
+| **Hard to define precisely, but some version of a mild backhand grip.** |  |  |
+
 
 Many players use a slightly milder grip, more like a 2 1/2 / 1 1/2. This
 means the heel pad is at most halfway on top of the frame, sometimes
@@ -110,15 +104,14 @@ the grip that works best going back and forth between the two sides.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley/media/image8.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley/media/image8.webp)
 
 **Do the top players make subtle grip shifts? Are they invisible?**
 
 Many knowledgeable observers argue, however, **[that the top players
 actually use different grips at the net, shifting how they hold the
-racket at least slightly from ball to ball, and it\'s probably true.
-It\'s just difficult or impossible to see in the video.]{.mark}**
+racket at least slightly from ball to ball, and it's probably true.
+It's just difficult or impossible to see in the video.]{.mark}**
 
 Would it make sense to rotate the hand a little more toward the top to
 hit a shoulder high, relatively flat backhand volley? Yes. Or go the
@@ -145,7 +138,7 @@ Conversely, some players will get the feeling for the hitting arm
 position on the backhand volley much faster if they start with a
 slightly stronger backhand grip.
 
-So in my view, it\'s not a black and white issue, but in the long run
+So in my view, it's not a black and white issue, but in the long run
 you want to settle on one volley grip that you can use on both sides. As
 for the slight adjustments, you can experiment in practice to get the
 feeling of how they improve your leverage or ability to generate
@@ -154,8 +147,7 @@ have to take care of themselves.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley/media/image9.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley/media/image9.webp)
 
 **The body turn and the set up with the hitting arm position.**
 
@@ -181,31 +173,27 @@ shape. On the forehand volley article we saw that the hitting arm is
 configured into an Open U shape. The shape of the backhand volley
 hitting arm is essentially the same.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![A person hitting a tennis ball with a racket Description automatically                                                                                                    |                       | ![A person hitting a ball with a tennis racket Description automatically                                                                                                     |
-| generated](media_the-backhand-volley/media/image10.jpg){width="2.7222222222222223in" |                       | generated](media_the-backhand-volley/media/image11.jpg){width="2.611111111111111in"   |
-| height="1.9444444444444444in"}                                                                                                                                              |                       | height="1.9444444444444444in"}![A person playing tennis Description automatically generated with medium                                                                      |
-|                                                                                                                                                                             |                       | confidence](media_the-backhand-volley/media/image12.jpg){width="2.7222222222222223in" |
-|                                                                                                                                                                             |                       | height="1.9444444444444444in"}                                                                                                                                               |
-+:===========================================================================================================================================================================:+:=====================:+:============================================================================================================================================================================:+
-| **The characteristic U shape with the upper arm and racket at about a 45 degree angle to the forearm.**                                                                                                                                                                                                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![A person hitting a tennis ball with a racket Description automatically |  | ![A person hitting a ball with a tennis racket Description automatically |
+| --- | --- | --- |
+| generated](media_the-backhand-volley/media/image10.jpg)![A person playing tennis Description automatically generated with medium |  |  |
+|  |  | confidence](media_the-backhand-volley/media/image12.jpg) |
+| **The characteristic U shape with the upper arm and racket at about a 45 degree angle to the forearm.** |  |  |
+
 
 The forearm forms the base of the U, with the racket and upper arm
 forming the legs, angled at roughly 45 degrees to the base. The opposite
 arm cradles the racket at the throat, and helps to create this shape and
 position the racket.
 
-It\'s easiest to see the U shape when the forearm is parallel to the
+It's easiest to see the U shape when the forearm is parallel to the
 court or close to it. But if you study the examples in the high speed
-archive, you\'ll see this shape around the contact on virtually every
+archive, you'll see this shape around the contact on virtually every
 pro backhand volley. ([Click
 Here](http://www.tennisplayer.net/members/high_speed_archive/volleys/backhand_volley/backhand_volley_1_high_speed.html).)
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley/media/image13.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley/media/image13.webp)
 
 **Watch the hitting arm shape stay in tact and move almost directly
 forward through contact.**
@@ -231,28 +219,27 @@ plane of the shoulders.
 
 This critical forward hitting arm motion is very hard to see, taking
 only fractions of a second and comprising only a few frames even in high
-speed video. But mastering it is critical. To help show it I\'ve
+speed video. But mastering it is critical. To help show it I've
 isolated it further in another animation, again or a volley that is hit
 virtually flat. Watch the forward, unitary movement of the hitting arm
 structure using the front shoulder muscles.
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_the-backhand-volley/media/image14.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image14.webp)
 
 **A closer look at the forward motion of the hitting arm from the
 shoulder.**
 
-In my experience, for most players to build a solid motion, it\'s
+In my experience, for most players to build a solid motion, it's
 necessary to restrict this additional arm motion as much as possible in
-creating a basic model. Often it\'s necessary to hit the ball almost
+creating a basic model. Often it's necessary to hit the ball almost
 totally flat as in the animation to really feel how this works.
 
 **Is it a Punch?**
 
 Which brings us to the two most common volley tips. Because the hitting
 arm and racket move forward from the shoulder, the concept of
-\"punching\" the volley doesn\'t make much sense on the backhand volley.
+\"punching\" the volley doesn't make much sense on the backhand volley.
 The fist is pointed basically to the sideline once the player sets up
 the hitting arm shape.
 
@@ -264,8 +251,7 @@ of it as a backhanded slap.
 
 ![A picture containing text, person, outdoor, athletic game Description
 automatically
-generated](media_the-backhand-volley/media/image15.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image15.webp)
 
 **How accurate are the most common volley \"tips\"**
 
@@ -275,7 +261,7 @@ The idea of keeping the wrist somewhat firm however, applies much better
 on the backhand volley than the forehand. Why? Because on the forehand
 the palm of the hand is behind the handle, pushing the racket. On the
 backhand volley, the hand and palm are on the opposite side of the
-handle, closest to the ball, at least partially. Of course you don\'t
+handle, closest to the ball, at least partially. Of course you don't
 want to be stiff or rigid on any stroke, but I think a little
 \"firmness\" here is important to keep the shape of the hitting arm in
 tact.
@@ -286,17 +272,16 @@ I feel that it is very important to develop a feeling for the role of
 the hitting arm using the compact model outlined above. But the reality
 is that few backhand volleys are hit with just this basic forward motion
 and/or virtually flat. Most are hit with substantial backswings and high
-levels of underspin. That\'s one of the things that sets the backhand
+levels of underspin. That's one of the things that sets the backhand
 volley apart from the forehand as we noted.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image16.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image16.webp)
 
 **Two backswing factors: raising the hand and hitting arm, and rotating
 them backwards from the shoulder.**
 
-So let\'s see how to combine the hitting arm shape and movement with the
+So let's see how to combine the hitting arm shape and movement with the
 backswing and the creation of underspin. As the unit turn starts, the
 players begin to set up the hitting arm position almost immediately. The
 players typically reach the Open U position when the racket reaches the
@@ -320,8 +305,7 @@ version of this elevation and rotation of the hitting arm on the
 majority of backhand volleys at all levels.
 
 ![A person playing tennis Description automatically
-generated](media_the-backhand-volley/media/image17.webp){width="3.3333333333333335in"
-height="2.5in"}
+generated](media_the-backhand-volley/media/image17.webp)
 
 **The combined forward and downward movement to the contact.**
 
@@ -348,8 +332,7 @@ downward or slightly more outward.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley/media/image18.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley/media/image18.webp)
 
 **Sometimes the elbow extends fully, other times not.**
 
@@ -377,8 +360,7 @@ called \"cupping\" the volley.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_the-backhand-volley/media/image19.webp){width="3.3333333333333335in"
-height="2.5in"}
+confidence](media_the-backhand-volley/media/image19.webp)
 
 **Watch the racket face bevel and slide open after the hit.**
 
@@ -393,16 +375,15 @@ So there we have the elements in the basic backhand volley. **[[The
 foundation is understanding how to set up and move the hitting arm
 through the shot as a unit.]{.underline}]{.mark}** It may be hard to see
 in the high speed footage, but this element there in every pro backhand
-volley in our archive. Once you develop your own feel for it, you\'ll
+volley in our archive. Once you develop your own feel for it, you'll
 know exactly why that is.
 
-Next, we\'ll look more at full range of variations on the backhand
+Next, we'll look more at full range of variations on the backhand
 volley. Stay Tuned.
 
 ![A person smiling for the camera Description automatically generated
 with medium
-confidence](media_the-backhand-volley/media/image20.jpeg){width="1.8208333333333333in"
-height="2.6493055555555554in"}
+confidence](media_the-backhand-volley/media/image20.jpeg)
 
 John Yandell is widely acknowledged as one of the leading videographers
 and students of the modern game of professional tennis. His high speed

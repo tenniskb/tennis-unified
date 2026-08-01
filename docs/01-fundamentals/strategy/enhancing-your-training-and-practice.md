@@ -6,14 +6,13 @@
 
 ![A picture containing outdoor, road, sky, sport Description
 automatically
-generated](media_enhancing-your-training-and-practice/media/image1.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_enhancing-your-training-and-practice/media/image1.webp)
 
 **There is little developmental benefit in simply hitting balls back and
 forth.**
 
 Unless you have the luxury of training full time, finding time to
-practice with all the other things that are going on in your life isn\'t
+practice with all the other things that are going on in your life isn't
 always easy. Practice time is often precious and restricted, so making
 the very most of that time is important.
 
@@ -22,7 +21,7 @@ individual game---the characteristics of which we have been helping you
 discover in the previous articles.
 
 There is little point spending 30 minutes hitting balls back and forth.
-You\'ll get some exercise and some enjoyment, but you won\'t be any
+You'll get some exercise and some enjoyment, but you won't be any
 better prepared for your next match.
 
 Instead set up scenarios that tick all the boxes of quality practice.
@@ -32,7 +31,7 @@ Here is a simple game. Start a rally from the back and play out the
 point. But if you end the point by hitting a quality top shot you are
 awarded 3 points instead of 1.
 
-You don\'t get the 3 points if you hit your top shot defensively and the
+You don't get the 3 points if you hit your top shot defensively and the
 other player happens to make an unforced error. But if you hit your top
 shot with intent and get a winner or forced error, then the 3 points are
 yours. You can also claim the points if your top shot sets up a simple
@@ -40,17 +39,16 @@ put away.
 
 ![A picture containing road, outdoor, athletic game, sport Description
 automatically
-generated](media_enhancing-your-training-and-practice/media/image2.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_enhancing-your-training-and-practice/media/image2.webp)
 
 **If your forehand down the line is your top shot, give yourself 3
 points for a winner.**
 
-For example, let\'s say your top shot is your forehand down the line.
+For example, let's say your top shot is your forehand down the line.
 With the 3 point system, practice will have you constantly looking for
 opportunities to play this shot, and also to think about shots you could
 hit to set it up. As a right-hander, you would be happy rallying in the
-right side pattern, looking for a shorter ball that wasn\'t too near the
+right side pattern, looking for a shorter ball that wasn't too near the
 side line.
 
 Or if you find yourself in the left side pattern, you might be
@@ -64,14 +62,13 @@ to possibly set up shots to switch the pattern to the left side, a
 backhand down the line or a forehand inside in.
 
 This opens the possibility for your top shot, which has the added
-benefit of going to a right handed opponent\'s backhand. With the
+benefit of going to a right handed opponent's backhand. With the
 understanding you have built, straight away your tennis brain is
 thinking more productively through this type of practice game.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_enhancing-your-training-and-practice/media/image3.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_enhancing-your-training-and-practice/media/image3.webp)
 
 **You can also claim the 3 points if your top shot sets up an easy put
 away.**
@@ -98,8 +95,7 @@ assuming they know the opponent well enough.
 
 ![A picture containing outdoor, sport, athletic game, tennis Description
 automatically
-generated](media_enhancing-your-training-and-practice/media/image4.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_enhancing-your-training-and-practice/media/image4.webp)
 
 **The feed goes to your top shot and then you approach.**
 
@@ -111,7 +107,7 @@ approach.
 
 The quality of the feed is very important to make this productive, so I
 always ask the player who receives the feed to feel free to decline it
-if it\'s not right, or it\'s not a ball that they would realistically be
+if it's not right, or it's not a ball that they would realistically be
 happy to hit an approach in a real match.
 
 Since the feeder knows where the first shot is going, he is encouraged
@@ -127,14 +123,13 @@ game, but here is one ticks all the boxes of quality practice.
 
 Pick a side to start the rally from, either right side or left side. The
 feed must go crosscourt, and the receiver must hit their regular shot
-first. In other words, they can\'t run around their backhand to hit a
+first. In other words, they can't run around their backhand to hit a
 forehand from the feed. However, they can use this option on their
 second and subsequent shots.
 
 ![A picture containing sky, outdoor, grass, athletic game Description
 automatically
-generated](media_enhancing-your-training-and-practice/media/image5.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_enhancing-your-training-and-practice/media/image5.webp)
 
 **In Down the Line Live, the scoring starts only when one player hits
 down the line.**
@@ -150,13 +145,13 @@ scores a point. This really focuses players on managing their decision
 making better when it comes to taking balls down the line.
 
 There is one other way in which a point can be scored when the point
-hasn\'t gone live. A clean winner from a quality shot while the rally is
+hasn't gone live. A clean winner from a quality shot while the rally is
 still in the initial crosscourt pattern will earn that player the point.
 This stop players from overly covering the down the line shot. It also
 gives options when an easy put away is available before the point has
 gone live.
 
-Some players moan that their crosscourt play doesn\'t earn them anything
+Some players moan that their crosscourt play doesn't earn them anything
 in this game. Firstly, if the crosscourt play is high quality, it could
 force an unintentional down the line shot from the opponent, which tends
 to put that player in control of the rally at the critical moment it has
@@ -166,8 +161,7 @@ opportunity to take the ball down the line.
 
 ![A picture containing road, outdoor, athletic game, sport Description
 automatically
-generated](media_enhancing-your-training-and-practice/media/image6.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+generated](media_enhancing-your-training-and-practice/media/image6.webp)
 
 **Down the Line Live is about getting the rally to the crucial point of
 changing direction.**
@@ -189,12 +183,11 @@ successfully used their strengths to win points.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_enhancing-your-training-and-practice/media/image7.webp){width="3.3333333333333335in"
-height="1.8645833333333333in"}
+confidence](media_enhancing-your-training-and-practice/media/image7.webp)
 
 **A serve, a return and then a split step.**
 
-Finally, let\'s move on to serve and return practice. This will in turn
+Finally, let's move on to serve and return practice. This will in turn
 take us nicely to the next article, which looks at the start of the
 point. Much is talked about first strike tennis these days, and the
 undisputed importance of the first 4 shots of the point. Now we take
@@ -206,7 +199,7 @@ Serve and return practice in its purest form should simply be about
 serve and return. One player will serve a first serve. The other player
 will be practising only their return of serve.
 
-**[[The server doesn\'t hit the next shot after the return, but instead
+**[[The server doesn't hit the next shot after the return, but instead
 finishes with a well-timed split step. This split step after the serve
 is the hardest to master.]{.mark}]{.underline}**
 
@@ -234,7 +227,7 @@ and perhaps their top shot into the equation. Servers hold the cards
 after a successful first serve, but often the returner has the advantage
 in this regard once the first serve has been missed.
 
-For the purpose of scoring when the point hasn\'t been won within 4
+For the purpose of scoring when the point hasn't been won within 4
 shots, I ask the players to adjudicate based on who has the upper hand
 in the point at the moment the fifth shot in the rally is about to be
 played. Once again, extra points can be awarded when players have
@@ -242,26 +235,25 @@ successfully used their strengths within the first 4 shots, enabling
 them to fully understand how they can do this in different scenarios,
 and that is what the next article is all about!
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
-| ![A person holding a tennis racket Description automatically                                                                                                                      | Nick Wheatley is an LTA Performance Coach and     |
-| generated](media_enhancing-your-training-and-practice/media/image8.jpeg){width="2.079861111111111in" | head coach at Hawker Tennis in south west London. |
-| height="3.3118055555555554in"}                                                                                                                                                    | His junior teams, the Hawker Jets, have won 44    |
-|                                                                                                                                                                                   | competitions since formation, and over the last 2 |
-|                                                                                                                                                                                   | years alone, his junior players have won 19       |
-|                                                                                                                                                                                   | singles tournaments between them at county level. |
-|                                                                                                                                                                                   |                                                   |
-|                                                                                                                                                                                   | He has been ranked in the top 75 nationally in 35 |
-|                                                                                                                                                                                   | and over singles and in the top 5 in Surrey       |
-|                                                                                                                                                                                   | county. Nick has done video analysis for numerous |
-|                                                                                                                                                                                   | players at all levels, including former British   |
-|                                                                                                                                                                                   | Top 10 player Marcus Willis.                      |
-|                                                                                                                                                                                   |                                                   |
-|                                                                                                                                                                                   | His unique teaching video series, covering every  |
-|                                                                                                                                                                                   | aspect of the game, is available on his website   |
-|                                                                                                                                                                                   | [www.nickwtennis.com](http://www.nickwtennis.com) |
-|                                                                                                                                                                                   |                                                   |
-|                                                                                                                                                                                   | You can also contact Nick directly via the        |
-|                                                                                                                                                                                   | homepage of his website.                          |
-+===================================================================================================================================================================================+===================================================+
+| ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
+| --- | --- |
+| generated](media_enhancing-your-training-and-practice/media/image8.jpeg) | His junior teams, the Hawker Jets, have won 44 |
+|  | competitions since formation, and over the last 2 |
+|  | years alone, his junior players have won 19 |
+|  | singles tournaments between them at county level. |
+|  |  |
+|  | He has been ranked in the top 75 nationally in 35 |
+|  | and over singles and in the top 5 in Surrey |
+|  | county. Nick has done video analysis for numerous |
+|  | players at all levels, including former British |
+|  | Top 10 player Marcus Willis. |
+|  |  |
+|  | His unique teaching video series, covering every |
+|  | aspect of the game, is available on his website |
+|  | [www.nickwtennis.com](http://www.nickwtennis.com) |
+|  |  |
+|  | You can also contact Nick directly via the |
+|  | homepage of his website. |
+
 
 ------------------------------------------------------------------------

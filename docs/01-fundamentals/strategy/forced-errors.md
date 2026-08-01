@@ -1,13 +1,12 @@
 # Forced Errors 
 
-### Craig O\'Shannessy
+### Craig O'Shannessy
 
 ------------------------------------------------------------------------
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forced-errors/media/image1.jpg){width="4.861111111111111in"
-height="2.763888888888889in"}
+confidence](media_forced-errors/media/image1.jpg)
 
 **Did Rafa win the French with defense---or offense?**
 
@@ -19,7 +18,7 @@ In the 2018 French Final, won in straight sets by Rafael Nadal, his
 opponent, Dominic Thiem hit 41 winners counting aces. Nadal had only 26.
 
 Thiem made 47 unforced errors including double faults. Nadal had 24
-unforced errors. That would lead you to conclude that Rafa\'s defense
+unforced errors. That would lead you to conclude that Rafa's defense
 rather than offense was the key to the match.
 
 But adding up winners and errors accounted for about three fourths of
@@ -33,14 +32,13 @@ mistakes was a more significant factor than his outright
 winners.]{.mark}]{.underline}**
 
 ![A person hitting a ball with a tennis racket Description automatically
-generated](media_forced-errors/media/image2.jpg){width="4.861111111111111in"
-height="3.1944444444444446in"}
+generated](media_forced-errors/media/image2.jpg)
 
-**What do we make of Thiem\'s 41 winners in a straight set loss?**
+**What do we make of Thiem's 41 winners in a straight set loss?**
 
-These additional points won by Forced Errors more than balanced Thiem\'s
+These additional points won by Forced Errors more than balanced Thiem's
 outright winners. Thiem for his part created only 14 forced
-errors---less than half of Rafa\'s.
+errors---less than half of Rafa's.
 
 How do you define a forced error? According to Leo Levin, director of
 Sports Analytics for SMT which collects data at all 4 Grand Slams,
@@ -74,8 +72,7 @@ control and you make the mistake.\"
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forced-errors/media/image3.jpg){width="3.6458333333333335in"
-height="2.8229166666666665in"}
+confidence](media_forced-errors/media/image3.jpg)
 
 **What kind of pressure creates Forced Errors?**
 
@@ -85,25 +82,24 @@ give players credit for forcing errors, rather than counting these shots
 against the player who made the error.
 
 See how that changes the stats when we think about the French final.
-Nadal\'s total of winners and forced errors was actually 59. Theim\'s
+Nadal's total of winners and forced errors was actually 59. Theim's
 winner and forced errors totaled 55.
 
 Looked at this way, the stats, rather than implying that Thiem was the
-more aggressive player, show that it was actually Nadal. Add on Thiem\'s
+more aggressive player, show that it was actually Nadal. Add on Thiem's
 47 unforced errors and you see why the match was a rout. And maybe with
-the forced error category as an option, Nadal\'s aggressive ratio would
+the forced error category as an option, Nadal's aggressive ratio would
 have been even higher.
 
 ![A person playing tennis Description automatically generated with
 medium
-confidence](media_forced-errors/media/image4.jpg){width="4.404703630796151in"
-height="1.8719991251093613in"}
+confidence](media_forced-errors/media/image4.jpg)
 
 **The Aggressive Margin told the real story of the French.**
 
 Levin has used his concept to look at a large number of tour matches.
 His conclusion is that aggressive play accounts for 67% of all points on
-the men\'s tour and 57% on the women\'s.
+the men's tour and 57% on the women's.
 
 True, the Forced Error is a judgment call with a healthy gray area. But
 forced errors are what players should most obsess about. They are the
@@ -121,16 +117,14 @@ their Wimbledon final the same year ([Click
 Here](https://www.tennisplayer.net/members/strategy/john_yandell/how_roger_federer_won_wimbledon_2006/how_roger_federer_won_wimbledon_2006.html)),
 and the Wimbledon final 2 years later, among other matches. ([Click
 Here](https://www.tennisplayer.net/members/strategy/john_yandell/wimbledon_2008_a_different_story/wimbledon_2008_a_different_story.html).)
-In every case the Aggressive Margin\--adding together a player\'s
+In every case the Aggressive Margin\--adding together a player's
 winners and forced errors and subtracting the unforced errors---told the
 story of the match.
 
 ![A person playing tennis Description automatically
-generated](media_forced-errors/media/image5.jpg){width="3.1253138670166227in"
-height="1.9519510061242344in"} ![A person hitting a ball with his tennis
+generated](media_forced-errors/media/image5.jpg) ![A person hitting a ball with his tennis
 racket Description automatically
-generated](media_forced-errors/media/image6.jpg){width="3.123199912510936in"
-height="1.9506299212598426in"}
+generated](media_forced-errors/media/image6.jpg)
 
 The Forced Error also told the story in several Federer/Nadal matches.
 
@@ -147,57 +141,47 @@ the match of a friend, a junior player, someone you coach, or your own
 child if they are competing.
 
 You can break down the margin down by stroke as well. See if the Forced
-Error isn\'t as revealing to you as in the French final between Nadal
+Error isn't as revealing to you as in the French final between Nadal
 and Thiem.
 
 [Click
 here](https://www.tennisplayer.net/members/strategy/craig_o_shannessy/forced_error/forced_error_chart.docx)
 to download the Forced Error chart as a Word Document.
 
-+-------------+-------------------------------------------------------+
-| Player:     |                                                       |
-+=============+=============+=============+=============+=============+
-|             | Winners     | Forced      | Unforced    | Aggressive  |
-|             |             | Errors      | Errors      | Margin      |
-+-------------+-------------+-------------+-------------+-------------+
-| Serve       |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Forehand    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Backhand    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| FH Volley   |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| BH Volley   |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| Overhead    |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-| **TOTALS:** |             |             |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+| Player: |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Winners | Forced | Unforced | Aggressive |
+|  |  | Errors | Errors | Margin |
+| Serve |  |  |  |  |
+| Forehand |  |  |  |  |
+| Backhand |  |  |  |  |
+| FH Volley |  |  |  |  |
+| BH Volley |  |  |  |  |
+| Overhead |  |  |  |  |
+| **TOTALS:** |  |  |  |  |
 
-+------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------+
-| ![A person smiling for the camera Description automatically generated with low                                                                 | Craig O\'Shannessy is widely recognized as  |
-| confidence](media_forced-errors/media/image7.jpg){width="1.875in" | the world leader in analyzing tennis        |
-| height="2.3333333333333335in"}                                                                                                                 | statistics, tennis strategy, and applying   |
-|                                                                                                                                                | his insights in coaching. His research has  |
-|                                                                                                                                                | uncovered the real magic numbers in winning |
-|                                                                                                                                                | tennis across all levels of the game. He    |
-|                                                                                                                                                | writes for the ATP Tour website and the New |
-|                                                                                                                                                | York Times among others elite publications. |
-|                                                                                                                                                |                                             |
-|                                                                                                                                                | He has coached on the tour for 20 years     |
-|                                                                                                                                                | working with players including Kevin        |
-|                                                                                                                                                | Anderson, Amer Delic, and Rajeev Ram. His   |
-|                                                                                                                                                | website Brain Game Tennis offers detailed   |
-|                                                                                                                                                | analysis and training programs based on his |
-|                                                                                                                                                | research that have helped thousands of      |
-|                                                                                                                                                | players around the world.                   |
-+================================================================================================================================================+=============================================+
+
+| ![A person smiling for the camera Description automatically generated with low | Craig O'Shannessy is widely recognized as |
+| --- | --- |
+| confidence](media_forced-errors/media/image7.jpg) | statistics, tennis strategy, and applying |
+|  | his insights in coaching. His research has |
+|  | uncovered the real magic numbers in winning |
+|  | tennis across all levels of the game. He |
+|  | writes for the ATP Tour website and the New |
+|  | York Times among others elite publications. |
+|  |  |
+|  | He has coached on the tour for 20 years |
+|  | working with players including Kevin |
+|  | Anderson, Amer Delic, and Rajeev Ram. His |
+|  | website Brain Game Tennis offers detailed |
+|  | analysis and training programs based on his |
+|  | research that have helped thousands of |
+|  | players around the world. |
+
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![Diagram Description automatically generated with medium                                                                                                     [Click
-  confidence](media_forced-errors/media/image8.jpg){width="3.4722222222222223in"   Here](http://www.braingametennis.com/)
-  height="1.7916666666666667in"}                                                                                                                                to visit Craig\'s site and check out his
+  confidence](media_forced-errors/media/image8.jpg)                                                                                                                                to visit Craig's site and check out his
                                                                                                                                                                 amazing training products!
   ------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
 
