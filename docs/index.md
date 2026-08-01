@@ -13,25 +13,25 @@ description: Comprehensive unified tennis knowledge base — Fundamentals, Strok
 
 Pick the path that matches what you're looking for. Every entry point below leads to a curated, image-rich knowledge base.
 
-<div class="grid cards" markdown>
+<div class="grid cards" markdown="1">
 
--   :materialtennis:{ .lg .middle } **Fundamentals**
+-   :material-tennis:{ .lg .middle } **Fundamentals**
 
     ---
 
-    **[350+ Articles :octicons-arrow-right-24:](fundamentals/index.html)** from tennisplayer.net — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games & Ultimate Fundamentals.
+    **[350+ Articles :material-arrow-right:](fundamentals/index.html)** from tennisplayer.net — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games & Ultimate Fundamentals.
 
 -   :material-magnify:{ .lg .middle } **Stroke Analysis**
 
     ---
 
-    **[140+ Articles :octicons-arrow-right-24:](stroke-analysis/index.html)** — Advanced Tennis (Yandell), Biomechanics, The Heavy Ball & Tour Strokes. Deep technical breakdowns of pro strokes.
+    **[140+ Articles :material-arrow-right:](stroke-analysis/index.html)** — Advanced Tennis (Yandell), Biomechanics, The Heavy Ball & Tour Strokes. Deep technical breakdowns of pro strokes.
 
--   :material-foundation:{ .lg .middle } **Foundation (tenniskb)**
+-   :material-layers-triple:{ .lg .middle } **Foundation (tenniskb)**
 
     ---
 
-    **[Bilingual EN/VI :octicons-arrow-right-24:](foundation/index.html)** — Basics & 40 Deep Dives: Embodied Cognition, Two Engines, Proprioception, Tensegrity, Fascia & Constraint-Led Learning.
+    **[Bilingual EN/VI :material-arrow-right:](foundation/index.html)** — Basics & 40 Deep Dives: Embodied Cognition, Two Engines, Proprioception, Tensegrity, Fascia & Constraint-Led Learning.
 
 -   :material-rocket-launch:{ .lg .middle } **Advanced & Elite**
 
@@ -43,25 +43,25 @@ Pick the path that matches what you're looking for. Every entry point below lead
 
     ---
 
-    **[8 Chapters :octicons-arrow-right-24:](anatomy-lab/index.html)** — Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk, Hips, Knees, Ankles & Control System.
+    **[8 Chapters :material-arrow-right:](anatomy-lab/index.html)** — Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk, Hips, Knees, Ankles & Control System.
 
 -   :material-triangle-outline:{ .lg .middle } **Angle Atlas**
 
     ---
 
-    **[7 Chapters :octicons-arrow-right-24:](angle-atlas/index.html)** — Biomechanics through joint angles, springs, muscle hierarchy, skeletal architecture & sensor systems.
+    **[7 Chapters :material-arrow-right:](angle-atlas/index.html)** — Biomechanics through joint angles, springs, muscle hierarchy, skeletal architecture & sensor systems.
 
 -   :material-bookshelf:{ .lg .middle } **Reference Library**
 
     ---
 
-    **[7 Collections :octicons-arrow-right-24:](reference-library/index.html)** — Coauthored Books, TFL Manuals, Tennis Books, Technical Reference, Training Programs & Player Profiles.
+    **[7 Collections :material-arrow-right:](reference-library/index.html)** — Coauthored Books, TFL Manuals, Tennis Books, Technical Reference, Training Programs & Player Profiles.
 
--   :material-book:{ .lg .middle } **Tennis Wiki Reference**
+-   :material-book-open-variant:{ .lg .middle } **Tennis Wiki Reference**
 
     ---
 
-    **[10 Categories :octicons-arrow-right-24:](tennis-wiki-reference/index.html)** — Bilingual EN/VI technical reference for Grip, Forehand, Backhand, Serve, Return, Volley, Footwork & Tactics.
+    **[10 Categories :material-arrow-right:](tennis-wiki-reference/index.html)** — Bilingual EN/VI technical reference for Grip, Forehand, Backhand, Serve, Return, Volley, Footwork & Tactics.
 
 </div>
 
