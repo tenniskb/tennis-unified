@@ -1,10 +1,18 @@
-import pathlib, os, shutil
+"""Generate .md -> .html redirect HTML files for legacy URLs.
 
-repo = pathlib.Path(r'C:/Users/Henry/Documents/GitHub/tennis-unified')
-docs = repo / 'docs'
-site = repo / 'site'
+For every docs/<rel>.md we create site/<rel>.md as a small HTML redirect
+pointing at site/<rel>.html.  Works on both Windows and POSIX runners.
+"""
+import pathlib
+import shutil
 
-redirect_template = '''<!DOCTYPE html>
+# CWD-relative so this runs identically on Windows and on GitHub Actions.
+REPO = pathlib.Path(__file__).resolve().parent
+DOCS = REPO / "docs"
+SITE = REPO / "site"
+VI_SITE = SITE / "vi"
+
+REDIRECT_TEMPLATE = """<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
@@ -17,47 +25,42 @@ redirect_template = '''<!DOCTYPE html>
 <body>
   <p>Redirecting to <a href="{target_url}">{target_url}</a>...</p>
 </body>
-</html>'''
+</html>"""
 
-count = 0
-for md_path in docs.rglob('*.md'):
-    if md_path.name == '404.md':
-        continue
 
-    rel = md_path.relative_to(docs)
-    rel_str = str(rel).replace('\\', '/')
-    stem_str = str(rel.with_suffix('')).replace('\\', '/')
-    html_name = md_path.name.replace('.md', '.html')
-    
-    # 1. English site redirects
-    # Create HTML file at site/.../filename.md
-    file_redirect = site / rel
+def emit_redirect(target: pathlib.Path, html_name: str) -> bool:
+    """Write the redirect HTML file at `target` (an .md path inside site/)."""
     try:
-        if file_redirect.is_dir():
-            shutil.rmtree(file_redirect)
-        file_redirect.parent.mkdir(parents=True, exist_ok=True)
-        file_redirect.write_text(redirect_template.format(target_url=html_name), encoding='utf-8')
-    except Exception as e:
-        print(f"Warning writing {file_redirect}: {e}")
+        if target.is_dir():
+            shutil.rmtree(target)
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(REDIRECT_TEMPLATE.format(target_url=html_name), encoding="utf-8")
+        return True
+    except OSError as exc:
+        print(f"Warning writing {target}: {exc}", flush=True)
+        return False
 
-    # Create HTML file at site/.../filename.md/index.html (directory)
-    # Note: On Windows, file_redirect and dir_redirect cannot both have the name filename.md.
-    # So if filename.md is a file, we create site/.../filename.md_redirect/index.html or site/.../filename.md.html
-    # But since file_redirect site/.../filename.md ALREADY exists as an HTML redirect file,
-    # requesting .../filename.md is served directly by GitHub Pages as that redirect file!
 
-    # 2. Vietnamese site redirects (if site/vi exists)
-    vi_site = site / 'vi'
-    if vi_site.exists():
-        vi_file = vi_site / rel
-        try:
-            if vi_file.is_dir():
-                shutil.rmtree(vi_file)
-            vi_file.parent.mkdir(parents=True, exist_ok=True)
-            vi_file.write_text(redirect_template.format(target_url=html_name), encoding='utf-8')
-        except Exception as e:
-            print(f"Warning writing {vi_file}: {e}")
-        
-    count += 1
+def main() -> None:
+    if not DOCS.is_dir():
+        raise SystemExit(f"Docs directory not found: {DOCS}")
+    if not SITE.is_dir():
+        raise SystemExit(f"Site directory not found (run `mkdocs build` first): {SITE}")
 
-print(f'Successfully generated redirect files for {count} markdown sources.')
+    count = 0
+    for md_path in DOCS.rglob("*.md"):
+        if md_path.name == "404.md":
+            continue
+        rel = md_path.relative_to(DOCS)
+        html_name = md_path.name.replace(".md", ".html")
+
+        if emit_redirect(SITE / rel, html_name):
+            count += 1
+        if VI_SITE.is_dir():
+            emit_redirect(VI_SITE / rel, html_name)
+
+    print(f"Successfully generated redirect files for {count} markdown sources.")
+
+
+if __name__ == "__main__":
+    main()
