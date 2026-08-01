@@ -21,4 +21,4 @@ Footwork is the foundation of every stroke.
 
 ---
 
-**Start here:** [First Two Steps](first-two-steps-the-key-to-quickness.md) → [12 Golden Moves Overview](the-12-golden-moves-an-overview.md) → [Contact Moves Introduction](return-of-serve-contact-moves-introduction.md)
+**Start here:** [First Two Steps](../../01-fundamentals/footwork/first-two-steps-the-key-to-quickness.html) → [12 Golden Moves Overview](../../01-fundamentals/footwork/the-12-golden-moves-an-overview.html) → [Contact Moves Introduction](../../01-fundamentals/footwork/return-of-serve-contact-moves-introduction.html)
