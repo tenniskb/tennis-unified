@@ -370,22 +370,3 @@ tennis magic to watch and to play. Hopefully the concept of Flow will
 give you a fresh perspective when you watch tennis in person or study
 the shots in the Stroke Archive as well. See if by reading this article,
 a little bit of that magic doesn't rub off on you.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person with his tongue out Description automatically generated with medium                                                                                **Michael Friedman** has been devoted to
-  confidence](media_forward-flow/media/image14.jpeg)                                                                                                                                 years. Currently he is the Tennis Director at
-                                                                                                                                                                the Millennium Sports Club in Rancho Solano,
-                                                                                                                                                                where he runs an active junior development as
-                                                                                                                                                                well as adult program. Michael has been a
-                                                                                                                                                                mainstay in the United States Professional
-                                                                                                                                                                Tennis Association's Northern California
-                                                                                                                                                                Division, and served as President from 2000
-                                                                                                                                                                through 2001. He has been a featured speaker
-                                                                                                                                                                at many USTA and USPTA tennis workshops
-                                                                                                                                                                throughout Northern California , specializing
-                                                                                                                                                                in teaching footwork and fundamentals to
-                                                                                                                                                                players as well as coaches. Michael was named
-                                                                                                                                                                USPTA Norcal Pro of the Year in 2003
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

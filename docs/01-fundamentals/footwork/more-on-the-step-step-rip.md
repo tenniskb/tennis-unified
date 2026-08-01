@@ -216,22 +216,3 @@ and continuous whole. You can use the words and feeling of the \"Step,
 Step, Hit\" focus on the process of executing your strokes and the shots
 you want will tend to naturally follow. You have now developed a
 powerful new way to execute your shots under match pressure.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person with his tongue out Description automatically generated with medium                                                                                            **Michael Friedman** has been devoted to
-  confidence](media_more-on-the-step-step-rip/media/image9.jpeg)                                                                                                                                             years. Currently he is the Tennis Director at
-                                                                                                                                                                            the Millennium Sports Club in Rancho Solano,
-                                                                                                                                                                            where he runs an active junior development as
-                                                                                                                                                                            well as adult program. Michael has been a
-                                                                                                                                                                            mainstay in the United States Professional
-                                                                                                                                                                            Tennis Association's Northern California
-                                                                                                                                                                            Division, and served as President from 2000
-                                                                                                                                                                            through 2001. He has been a featured speaker
-                                                                                                                                                                            at many USTA and USPTA tennis workshops
-                                                                                                                                                                            throughout Northern California , specializing
-                                                                                                                                                                            in teaching footwork and fundamentals to
-                                                                                                                                                                            players as well as coaches. Michael was named
-                                                                                                                                                                            USPTA Norcal Pro of the Year in 2003
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

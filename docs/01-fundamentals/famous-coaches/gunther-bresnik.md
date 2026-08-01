@@ -18,5 +18,3 @@ check that out.) Second Dominic Thiem's gorgeous one-handed backhand.
 ([Click
 Here](http://www.tennisplayer.net/bulletin/showthread.php?t=2626) to see
 that one!)
-
-![](media_gunther-bresnik/media/image1.png)

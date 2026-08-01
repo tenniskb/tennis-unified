@@ -1,6 +1,6 @@
 site_name: Tennis Unified Library
 use_directory_urls: false
-site_description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Foundation/Advanced/Elite, Anatomy Lab, Angle Atlas, Reference Library, and more
+site_description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Reference Library, and more
 site_author: Henry Pham
 copyright: © 2026 Henry Phạm Đức · Tennis Future Lab Research · All contents are for educational purpose.
 theme:
@@ -82,14 +82,6 @@ plugins:
             Tour Strokes: Tour Strokes
             Your Strokes: Your Strokes
             New Issue: New Issue
-            Foundation: Foundation
-            Overview: Overview
-            Basics: Basics
-            Deep Dives: Deep Dives
-            Advanced: Advanced
-            Elite: Elite
-            Anatomy Lab: Anatomy Lab
-            Angle Atlas: Angle Atlas
             Reference Library: Reference Library
             Coauthored Books: Coauthored Books
             Technical Reference: Technical Reference
@@ -142,14 +134,6 @@ plugins:
             Tour Strokes: Cú Đánh Tour
             Your Strokes: Cú Đánh Của Bạn
             New Issue: Vấn Đề Mới
-            Foundation: Nền Tảng
-            Overview: Tổng Quan
-            Basics: Cơ Bản
-            Deep Dives: Chuyên Sâu
-            Advanced: Cao Cấp
-            Elite: Tinh Hoa
-            Anatomy Lab: Phòng Thí Nghiệm Giải Phẫu
-            Angle Atlas: Atlas Góc Độ
             Reference Library: Thư Viện Tham Khảo
             Coauthored Books: Sách Đồng Tác Giả
             Technical Reference: Tài Liệu Kỹ Thuật
@@ -214,20 +198,6 @@ nav:
       - Tour Strokes: stroke-analysis/tour-strokes/index.md
       - Your Strokes: stroke-analysis/your-strokes/index.md
   - New Issue: new-issue/index.md
-  - Foundation:
-      - Overview: foundation/index.md
-      - Basics: foundation/basics/index.md
-      - Deep Dives: foundation/deep-dives/index.md
-  - Advanced:
-      - Overview: advanced/index.md
-      - Deep Dives: advanced/deep-dives/index.md
-      - Manuals: advanced/manuals/index.md
-  - Elite:
-      - Overview: elite/index.md
-      - Deep Dives: elite/deep-dives/index.md
-      - Manual: elite/manual/index.md
-  - Anatomy Lab: anatomy-lab/index.md
-  - Angle Atlas: angle-atlas/index.md
   - Reference Library:
       - Coauthored Books: reference-library/coauthored-books/index.md
       - TFL Manuals: reference-library/tfl-manuals/index.md

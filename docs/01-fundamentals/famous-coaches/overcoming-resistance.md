@@ -13,5 +13,3 @@ After his talk I had the chance to ask him to explain it for our
 subscribers. You may be surprised at what he says. This information is
 valuable for coaches, but I think it extrapolates to players fighting
 with themselves over their own barriers to change and improvement.
-
-![](media_overcoming-resistance/media/image1.wmf)

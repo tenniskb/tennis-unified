@@ -182,22 +182,3 @@ Note how Serena maintains good body balance by widening her stance. She
 resists moving her body by staying down on her legs. This allows the
 hitting arm and racquet to go through the contact point while the body
 stays still through the follow through.
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A person with his tongue out Description automatically generated with medium                                                                                      **Michael Friedman** has been devoted to
-  confidence](media_the-hitting-stance/media/image10.jpeg)                                                                                                                                       years. Currently he is the Tennis Director at
-                                                                                                                                                                      the Millennium Sports Club in Rancho Solano,
-                                                                                                                                                                      where he runs an active junior development as
-                                                                                                                                                                      well as adult program. Michael has been a
-                                                                                                                                                                      mainstay in the United States Professional
-                                                                                                                                                                      Tennis Association's Northern California
-                                                                                                                                                                      Division, and served as President from 2000
-                                                                                                                                                                      through 2001. He has been a featured speaker
-                                                                                                                                                                      at many USTA and USPTA tennis workshops
-                                                                                                                                                                      throughout Northern California , specializing
-                                                                                                                                                                      in teaching footwork and fundamentals to
-                                                                                                                                                                      players as well as coaches. Michael was named
-                                                                                                                                                                      USPTA Norcal Pro of the Year in 2003
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

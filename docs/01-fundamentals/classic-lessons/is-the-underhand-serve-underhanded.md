@@ -154,33 +154,3 @@ How will you anticipate where the return goes and what is the connecting
 shot after that? It's not, or shouldn't be, just a spur of the moment
 impulse. It takes the same consideration as any other shot you learn to
 master.
-
-Stacy Margolin Potter, former NCAA singles champion and a top twenty
-player on the WTA Tour said that she learned the underhand serve from
-famed coach Jerry Teegarden. Stacy, \"If it's good enough for Peaches
-Barkowicz it's good enough for you.\" For those of you unfamiliar with
-the legendary Peaches Bartkowicz, she was one of the original nine women
-who formed the WTA with Billie Jean King. She was unafraid to use the
-underhand serve.
-
-So, there is more to the underhand serve than most people think. There
-is technique, strategy, and execution. And you also have to prepare for
-the guy who goes Rambo on you. In my opinion if that guy comes charging
-at you, it's okay to protect yourself with an overhand serve or any
-other perfectly legal tennis shot.
-
-![A person with the arms crossed Description automatically generated
-with medium
-confidence](media_is-the-underhand-serve-underhanded/media/image6.jpeg)
-
-Rocky Lang has been involved in the motion picture and television
-business all his life. He has produced, written and directed motion
-pictures, documentaries, television shows, movies-of-the-week and
-mini-series. He produced White Squall, starring Jeff Bridges and
-directed by Ridley Scott. He is also the author of nine books. Rocky is
-an avid tennis player and has been certified as a USPTA tennis
-professional. His next book written with Barbara Hall, is Letters From
-Hollywood, to be published by Abrams Books in 2019. [Click
-Here](http://www.rockylang.com) to visit Rocky's website.
-
-------------------------------------------------------------------------

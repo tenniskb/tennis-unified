@@ -264,39 +264,3 @@ volley. In the modern game one handers need this shot to be complete
 attacking players.
 
 Good luck and have fun with this gorgeous shot!
-
-![](media_one-hand-backhand/media/image10.jpeg)
-
-Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
-numerous top 10 nationally ranked juniors and is a leading coach,
-educator, and author. He has written two best-selling books, The Secrets
-of Spanish Tennis and The Tennis Technique Bible.
-
-Chris runs a popular high performance summer tennis camp in the
-beautiful mountains of Vermont and coaches players world-wide through
-his virtual school, CLTA Online
-([**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)).
-
-Chris also produces a weekly high performance tennis video talk show and
-podcast, The Prodigy Maker Show, which is available on Apple Podcasts
-and all other podcasting directories. All shows can be accessed
-at [**[ProdigyMaker.com]{.underline}**](http://prodigymaker.com/).
-
-Check out Chris's blog, also at ProdigyMaker.com for free articles on
-high performance junior development and Spanish training. Learn about
-his camp at ChrisLewit.com or visit the online academy
-at [**[CLTA.teachable.com]{.underline}**](https://clta.teachable.com/)
-
-![](media_one-hand-backhand/media/image11.jpeg)
-
-**The Secrets of Spanish Tennis**
-
-What makes Spanish tennis so unique and successful? What exactly are
-those Spanish coaches doing so differently to develop superstars like
-Rafael Nadal and David Ferrer that other systems are not doing? These
-and other questions are answered in The Secrets of Spanish Tennis, the
-culmination of five years of study on the Spanish way of training by
-USTA High Performance Coach Chris Lewit.
-
-[**[Click Here to
-Order!]{.underline}**](http://www.amazon.com/gp/product/1937559491/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687522&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0982618212&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1J1QMC9PW98986T3ENJ0)

@@ -14,4 +14,3 @@ this in turn opens a path to working on your weakness from a positive
 perspective. This article shares part of the unique approach that has
 made Sven one of the most successful coaches in tour history. Only on
 Tennisplayer!
-![](media_the-value-of-working-on-your-strength/media/image1.wmf)

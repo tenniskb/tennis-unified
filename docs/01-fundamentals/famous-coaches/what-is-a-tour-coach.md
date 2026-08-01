@@ -14,5 +14,3 @@ working in other areas of the game. In his first article for
 Tennisplayer, Sven gives us an insider's perspective on the
 complexities of coaching tour players-including its wide ranging
 dimensions. Another Tennisplayer exclusive!
-
-![](media_what-is-a-tour-coach/media/image1.png)

@@ -266,23 +266,3 @@ player.\"]{.mark}]{.underline}**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-enigma-of-toni-nadal/media/image8.jpeg)
-
-Chris Lewit, former #1 for Cornell and Pro Circuit player, has coached
-numerous top 10 nationally ranked juniors and is a leading coach,
-educator, and author. He has written two best-selling books, The Secrets
-of Spanish Tennis and The Tennis Technique Bible.
-
-Chris runs a popular high performance summer tennis camp in the
-beautiful mountains of Vermont and coaches players world-wide through
-his virtual school, CLTA Online
-([CLTA.teachable.com](https://clta.teachable.com/)).
-
-Chris also produces a weekly high performance tennis video talk show and
-podcast, The Prodigy Maker Show, which is available on Apple Podcasts
-and all other podcasting directories. All shows can be accessed at
-[ProdigyMaker.com](http://prodigymaker.com/).
-
-Check out Chris's blog, also at ProdigyMaker.com for free articles on
-high performance junior development and Spanish training. Learn about
-his camp at ChrisLewit.com or visit the online academy at
-[CLTA.teachable.com](https://clta.teachable.com/)
