@@ -11,39 +11,55 @@ description: Comprehensive unified tennis knowledge base — Fundamentals, Strok
 
 ## Choose Your Entry Point
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div class="grid cards" markdown>
 
-### 🎾 Fundamentals (tennisplayer.net)
-**[350+ articles](fundamentals/index.md)** from the tennisplayer.net archives — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games, Ultimate Fundamentals  
-*The gold standard for tennis fundamentals*
+-   **🎾 Fundamentals (tennisplayer.net)**
 
-### 🔬 Stroke Analysis (tennisplayer.net)
-**[140+ articles](stroke-analysis/index.md)** — Advanced Tennis (Yandell), Biomechanics, The Heavy Ball, Tour Strokes  
-*Deep technical analysis of pro strokes*
+    ---
 
-### 🏗️ Foundation (tenniskb)
-**[Bilingual EN/VI](foundation/index.md)** — Basics + 40 Deep Dives: Embodied Cognition, Two Engines, Proprioception, Tensegrity, Fascia, X-Factor, Constraint-Led Learning, Pressure Inoculation, Self-Coaching  
-*Neural control theory + practical progressions*
+    **[350+ Articles](fundamentals/index.md)** from tennisplayer.net — Footwork, Classic Lessons, Famous Coaches, Mental Game, Strategy, Drill Games & Ultimate Fundamentals.
 
-### 🚀 Advanced & Elite (tenniskb)
-**[Bilingual EN/VI](advanced/index.md)** — Advanced patterns, tactics, mental game | **[Elite](elite/index.md)** — Decision latency, HRV, self-coaching, dream library  
-*For players and coaches at 4.5+ level*
+-   **🔬 Stroke Analysis (tennisplayer.net)**
 
-### 🧬 Anatomy Lab (New Tennis Knowledge)
-**[8 chapters](anatomy-lab/index.md)** — Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk/Spine, Hips/Thighs, Knees, Ankles/Feet, Control System  
-*Complete tennis anatomy & neurology*
+    ---
 
-### 📐 Angle Atlas / Tuyến Tập (New Tennis Knowledge)
-**[7 chapters](angle-atlas/index.md)** — Angle Atlas, Joints as Springs, Neurological Foundation, Muscle Hierarchy, Skeletal Architecture, 50+ Body, Sensor System  
-*Biomechanics through joint angles*
+    **[140+ Articles](stroke-analysis/index.md)** — Advanced Tennis (Yandell), Biomechanics, The Heavy Ball & Tour Strokes. Deep technical breakdowns.
 
-### 📚 Reference Library
-**[7 collections](reference-library/index.md)** — 13 Coauthored Books, Technical Reference, Training Programs, Player Profiles, Rivalry Analyses, Tennis Lexicon, Visual Library  
-*Curated references & AI-coauthored manuals*
+-   **🏗️ Foundation (tenniskb)**
 
-### 📖 Tennis Wiki Reference
-**[10 categories](tennis-wiki-reference/index.md)** — Grip, Forehand, Backhand, Serve, Return, Volley, Footwork, Lob/Overhead, Tactics, Pressure Neurology (EN/VI)  
-*Published technical reference for 3.5+ players*
+    ---
+
+    **[Bilingual EN/VI](foundation/index.md)** — Basics & 40 Deep Dives: Embodied Cognition, Two Engines, Proprioception, Tensegrity, Fascia & Constraint-Led Learning.
+
+-   **🚀 Advanced & Elite (tenniskb)**
+
+    ---
+
+    **[Advanced](advanced/index.md)** & **[Elite](elite/index.md)** — Tactical patterns, decision latency, HRV, self-coaching & performance psychology for 4.5+ players.
+
+-   **🧬 Anatomy Lab**
+
+    ---
+
+    **[8 Chapters](anatomy-lab/index.md)** — Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk, Hips, Knees, Ankles & Control System.
+
+-   **📐 Angle Atlas**
+
+    ---
+
+    **[7 Chapters](angle-atlas/index.md)** — Biomechanics through joint angles, springs, muscle hierarchy, skeletal architecture & sensor systems.
+
+-   **📚 Reference Library**
+
+    ---
+
+    **[7 Collections](reference-library/index.md)** — Coauthored Books, TFL Manuals, Tennis Books, Technical Reference, Training Programs & Player Profiles.
+
+-   **📖 Tennis Wiki Reference**
+
+    ---
+
+    **[10 Categories](tennis-wiki-reference/index.md)** — Bilingual EN/VI technical reference for Grip, Forehand, Backhand, Serve, Return, Volley, Footwork & Tactics.
 
 </div>
 
@@ -65,34 +81,12 @@ description: Comprehensive unified tennis knowledge base — Fundamentals, Strok
 
 ---
 
-## About This Library
+## Navigation & Features
 
-This unified library consolidates content from:
-
-| Source | Original Location | Articles | Language |
-|--------|------------------|----------|----------|
-| **tennisplayer.net** | `Documents/tennisplayer.net/` | ~500 | EN |
-| **tenniskb** | `GitHub/tenniskb/` | ~200+ | EN/VI |
-| **tennis-wiki** | `GitHub/tennis-wiki/` | ~100+ | EN/VI |
-| **New Tennis Knowledge** | `Documents/New Tennis Knowledge/` | ~100+ | EN/VI |
-
-**Total: ~900+ articles** — all searchable, all linked, all in one place.
-
----
-
-## Navigation Tips
-
-- **Search** (top right) — instant full-text search across everything
-- **Sidebar** — expand sections to see all articles
-- **Language toggle** — EN/VI switch for bilingual sections (Foundation, Advanced, Elite, Wiki Reference)
-- **Breadcrumbs** — always know where you are
-- **3 clicks max** — any article reachable in ≤3 clicks from home
-
----
-
-## Educational Purpose
-
-All content is **for educational purposes only**. Not a substitute for professional coaching. Techniques should be practiced under qualified supervision.
+- **Instant Search** — Full-text search across all 1,300+ articles
+- **Bilingual EN/VI** — Language toggle for Foundation, Advanced, Elite & Wiki Reference
+- **Preserved Media** — High-speed video frame sequences, biomechanics diagrams & coaching illustrations
+- **Structured Hierarchy** — Maximum 3 clicks to reach any article
 
 ---
 
