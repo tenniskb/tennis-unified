@@ -1,0 +1,37 @@
+# The Only Way to Win: The Power of Story
+
+### Jim Loehr
+
+------------------------------------------------------------------------
+
+There is the real world. Then there is our version of the real world.
+And that version is our story. Jim Loehr has spent many years listening
+to players and helping them realign and reshape their stories. Time and
+time again, he has found that creating new mental architecture inspires
+players and creates pathways to reach their goals. Learn to write your
+current story and then write your new story in your own language to
+develop the forehand you want, or to overcome choking, or become a great
+wind player.
+
+![](media_the-only-way-to-win-the-power-of-story/media/image1.png)
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![A person smiling for the camera Description automatically generated with medium                                                                                                          Jim Loehr is a legendary pioneer in the field of
+  confidence](media_the-only-way-to-win-the-power-of-story/media/image2.jpeg){width="1.6159722222222221in"   human performance. An elite tennis player
+  height="2.0722222222222224in"}                                                                                                                                                             himself who still competes nationally in USTA
+                                                                                                                                                                                             events, Jim created the field of Mental
+                                                                                                                                                                                             Toughness training with his revolutionary study
+                                                                                                                                                                                             of elite pro players. He has been one of the
+                                                                                                                                                                                             most influential voices in tennis and tennis
+                                                                                                                                                                                             coaching for over 30 years, and is the author of
+                                                                                                                                                                                             multiple best selling books. He has expanded his
+                                                                                                                                                                                             influence far beyond sports with the creation of
+                                                                                                                                                                                             the Human Performance Institute where he and his
+                                                                                                                                                                                             staff have worked with hundreds of leaders in
+                                                                                                                                                                                             business, law enforcement, and military special
+                                                                                                                                                                                             forces. For the last decade he has also directed
+                                                                                                                                                                                             an academy for junior players helping young
+                                                                                                                                                                                             people learn what winning in life really means.
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

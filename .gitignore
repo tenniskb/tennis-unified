@@ -28,3 +28,8 @@ Thumbs.db
 tmp/
 temp/
 *.bak
+
+# One-off image conversion scripts (regenerable from .docx source)
+optimize_animations.py
+optimize_animations_parallel.py
+build_full_tennis_library.py
