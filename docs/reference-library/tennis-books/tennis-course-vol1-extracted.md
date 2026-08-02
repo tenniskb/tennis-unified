@@ -1,229 +1,145 @@
-# Tennis_course_Vol1_extracted
+---
+title: "Tennis Course Vol 1 — Extracted & Structured"
+description: "OCR-extracted and reformatted from the BLV/Barron's German tennis manual"
+source: BLV Verlagsgesellschaft / Barron's Educational Series, Inc.
+language: en
+volume: 1
+type: extracted
+---
 
-8 Cog
-W u VOLUME 1
-Techniques and Inti
-German Tennis;
-Association
-TENNIS COURSE
-VOLUME 1
-Techniques and Tactics
-SE
-BARRON'S
-2 VOINO MONTE-CARLO OPEN 33
-English language edition © copyright 2000 by Barron's Educational Series, Inc.
-Original title of the book in German is Tennis Lehrplan, Bard 1: Technik & Taktik
-© 1995 BLV Verlagsgesellschaft GmbH, Miinchen/GERMANY
-Written by:
-Rudiger Bomemann
-Harmut Gabler
-Jock Reetz
-Richard Schénborn
-Photo Credits
-Baader: p. 8, 14 (right), 40, 96, 102, 108, 115, 120, 124, 134, 150
-Birkner: p. 16 (bottom)
-Bongarts: p. 2-3, 41, 70-71, 74, 92, 146
-Exler: p. 15 (right), 16 (top), 22, 82, 86, 119, 130
-Sutton: p. 23
-Trotman: p. 126, 158
-Zimmer: p. 10, 13, 14 (left), 15 (left), 17, 18, 25, 33, 37,
-42,51, 52, 57, 76, 88, 100, 135, 162, 164, 168
-ISBN: 0-7641-1485-9
-Library of Congress Catalog Card No.: 99-069379
-Translated from the German by Eric A. Bye, M.A.
-IIlustrations: Jorg Mair
-Cover Photo: Duomo Photography/Chris Trotman
-Cover Design: Network, Munich
-Layout: Manfred Sinicki
-BLV Publishing, Inc.
-Munich Vienna Zurich
-80797 Munich
-All rights reserved.
-No part of this book may be reproduced in any form,
-by photostat, microfilm, xerography, or any other
-means, or incorporated into any information retrieval
-system, electronic or mechanical, without the written
-permission of the copyright owner.
-All inquiries should be addressed to:
-Barron's Educational Series, Inc.
-250 Wireless Boulevard
-Hauppauge, New York 11788
-http://www. barronseduc.com
-Printed in Hong Kong
-98765432
-Table of Contents
-Introduction 
-9
-Basic Theory of
-Movement 
-11
-The Concept of the Game 11
-Basic Tactics 11
-The Ball's Flight and Bounce 11
-Footwork 12
-Stroke Teclaniques 12
-Footwork in Tennis 
-13
-Introduction 13
-Situations 13
-Tasks and Goals 14
-Starting Stance 14
-Ready Position/Split Step 14
-Stroke Position 15
-Support Leg (Anchor Leg/
-Jumping Leg) 16
-Running from the Ready
-Position to Various Positions
-on the Court 16
-Stroke Techniques 
-18
-Theoretical Approaches to
-Movement Analysis 18
-The Concept of Functional
-Movement Analysis 
-20
-Movement Goals 20
-Main Action 20
-Supporting Actions 21
-Possible Variations, Errors, and
-Flaws 22
-Style 22
-The Average Performance of
-a Movement 
-23
-General Performance for
-Normal Situations 23
-Variations in Technique:
-Special Methods for
-Special Situations 23
-Qualitative Phenomena of
-Movement 
-26
-Tennis-Specific Biomechanical
-Principles 26
-Morphological Characteristics of
-Movement 27
-Developing Individual
-Elements of Technique 
-__ 28
-Tactical Qualities of Technique 28
-Hitting the Ball 30
-Wrist Action in Tennis 30
-The Best Distance from the Body
-for Hitting the Ball 31
-Forehand Grip (Eastern
-Grip) 34
-Extreme Forehand Grip
-(Western Grip) 34
-Semicontinental Grip 35
-Backhand Grip (Continental
-Grip) 35
-Two-Handed Backhand
-Grip 35
-Backswing Phase 35
-Stroke Phase 38
-The Ball in Flight
-and Bounce 
-43
-Factors Affecting the
-Ball's Trajectory and
-Bounce 43
-Contact Between Racket
-and Ball—Effect on the
-Ball's Trajectory 43
-Contact Between the Ball and
-the Court Surface 48
-Observations Concerning
-the Characteristics of
-Oncoming Balls 50
-Tactics 
-53
-Tactics and Strategy 
-53
-Tactical Actions 53
-Basic Tactical Situations 55
-Central, Overriding Tactical
-Goals 55
-Individual and General Tactical
-Behaviors 55
-Tactical Quality 56
-Relationship Between Tactics
-and Technique 58
-Fundamental Tactical Elements 59
-External Influences on Tactics 62
-Using Tactics 62
-Tactics in Doubles 70
-Technique 
-77
-Toward a Terminology of
-Stroke Technique 
-TH
-A Description of Stroke
-Techniques 
-78
-BASIC TECHNIQUES ____ 79
-Ground Stroke—Forehand
-and Backhand 
-79
-Ground Stroke—Forehand 80
-Ground Stroke—Backhand 84
-Two-handed Backhand 89
-Volley—Forehand and
-Backhand 
-93
-Volley—Forehand 94
-Volley—Backhand 98
-Serve 
-103
-Straight Lob—Forehand
-and Backhand 
-109
-Smash 
-113
-VARIATIONS IN
-TECHNIQUE 
-117
-Topspin 
-117
-Topspin—Forehand 118
-Topspin—Backhand 122
-Two-handed Topspin: Backhand 126
-Slice 
-127
-Slice—Forehand 128
-_ Slice—Backhand 132
-Drop Shot 
-137
-Drop Shot—Forehand and
-Backhand 138
-Drop Volley 
-143
-Drop Volley—Forehand and
-Backhand 144
-Half Volley
-Half Volley—Forehand and
-Backhand 148
-147
-Slice Lob and Topspin
-Lob—Forehand and
-Backhand 
-151
-Slice Lob 152
-Topspin Lob 156
-Jump Smash 
-759
-Backhand Smash 
-165
-Service—Slice and
-Twist (Kick) 
-171
-Individualized Technique
-in Championship
-Tennis 
-177
-Index 
-178
-Introduction
+# Tennis Course Vol 1 — Extracted & Structured
+
+> **Source:** OCR extraction of *Tennis Course Volume 1* — originally published in German as *Tennis Lehrplan* by BLV Verlagsgesellschaft, translated by Barron's Educational Series.
+> Reformatted from raw OCR text into a navigable Markdown document with a rebuilt table of contents.
+
+**Body length:** 12,313 lines  ·  **TOC entries:** 92  ·  **Chapters:** 27
+
+---
+
+## Table of Contents
+
+- **[Movement](#movement)** — p. 11
+  - The Concept of the Game — p. 11
+  - Basic Tactics — p. 11
+  - The Ball's Flight and Bounce — p. 11
+  - Footwork — p. 12
+  - Stroke Teclaniques — p. 12
+- **[Footwork in Tennis](#footwork-in-tennis)** — p. 13
+  - Introduction — p. 13
+  - Situations — p. 13
+  - Tasks and Goals — p. 14
+  - Starting Stance — p. 14
+  - Ready Position/Split Step — p. 14
+  - Stroke Position — p. 15
+  - Jumping Leg) — p. 16
+  - on the Court — p. 16
+- **[Stroke Techniques](#stroke-techniques)** — p. 18
+  - Movement Analysis — p. 18
+  - Movement Goals — p. 20
+  - Main Action — p. 20
+  - Supporting Actions — p. 21
+  - Flaws — p. 22
+  - Style — p. 22
+- **[a Movement](#a-movement)** — p. 23
+  - Normal Situations — p. 23
+  - Special Situations — p. 23
+  - Principles — p. 26
+  - __ — p. 28
+  - Tactical Qualities of Technique — p. 28
+  - Hitting the Ball — p. 30
+  - Wrist Action in Tennis — p. 30
+  - for Hitting the Ball — p. 31
+  - Grip) — p. 34
+  - (Western Grip) — p. 34
+  - Semicontinental Grip — p. 35
+  - Grip — p. 35
+  - Backswing Phase — p. 35
+  - Stroke Phase — p. 38
+- **[and Bounce](#and-bounce)** — p. 43
+  - Bounce — p. 43
+  - Ball's Trajectory — p. 43
+  - the Court Surface — p. 48
+  - Oncoming Balls — p. 50
+- **[Tactics](#tactics)** — p. 53
+- **[Tactics and Strategy](#tactics-and-strategy)** — p. 53
+  - Tactical Actions — p. 53
+  - Basic Tactical Situations — p. 55
+  - Goals — p. 55
+  - Behaviors — p. 55
+  - Tactical Quality — p. 56
+  - and Technique — p. 58
+  - Fundamental Tactical Elements — p. 59
+  - External Influences on Tactics — p. 62
+  - Using Tactics — p. 62
+  - Tactics in Doubles — p. 70
+- **[Technique](#technique)** — p. 77
+- **[Techniques](#techniques)** — p. 78
+  - BASIC TECHNIQUES ____ — p. 79
+- **[and Backhand](#and-backhand)** — p. 79
+  - Ground Stroke—Forehand — p. 80
+  - Ground Stroke—Backhand — p. 84
+  - Two-handed Backhand — p. 89
+- **[Backhand](#backhand)** — p. 93
+  - Volley—Forehand — p. 94
+  - Volley—Backhand — p. 98
+- **[Serve](#serve)** — p. 103
+- **[Smash](#smash)** — p. 113
+- **[TECHNIQUE](#technique)** — p. 117
+- **[Topspin](#topspin)** — p. 117
+  - Topspin—Forehand — p. 118
+  - Topspin—Backhand — p. 122
+  - Two-handed Topspin: Backhand — p. 126
+- **[Slice](#slice)** — p. 127
+  - Slice—Forehand — p. 128
+  - _ Slice—Backhand — p. 132
+- **[Drop Shot](#drop-shot)** — p. 137
+- **[Drop Volley](#drop-volley)** — p. 143
+  - Slice Lob — p. 152
+  - Topspin Lob — p. 156
+- **[Jump Smash](#jump-smash)** — p. 759
+- **[Backhand Smash](#backhand-smash)** — p. 165
+- **[Twist (Kick)](#twist-kick)** — p. 171
+- **[Tennis](#tennis)** — p. 177
+- **[Index](#index)** — p. 178
+
+---
+
+## Source Text
+
+<a id="chapter-anchors"></a>
+
+**Chapter anchors** (click to jump):
+
+- <a id="movement"></a>[Movement](#movement) — p. 11
+- <a id="footwork-in-tennis"></a>[Footwork in Tennis](#footwork-in-tennis) — p. 13
+- <a id="stroke-techniques"></a>[Stroke Techniques](#stroke-techniques) — p. 18
+- <a id="movement-analysis"></a>[Movement Analysis](#movement-analysis) — p. 20
+- <a id="a-movement"></a>[a Movement](#a-movement) — p. 23
+- <a id="and-bounce"></a>[and Bounce](#and-bounce) — p. 43
+- <a id="tactics"></a>[Tactics](#tactics) — p. 53
+- <a id="tactics-and-strategy"></a>[Tactics and Strategy](#tactics-and-strategy) — p. 53
+- <a id="technique"></a>[Technique](#technique) — p. 77
+- <a id="techniques"></a>[Techniques](#techniques) — p. 78
+- <a id="and-backhand"></a>[and Backhand](#and-backhand) — p. 79
+- <a id="backhand"></a>[Backhand](#backhand) — p. 93
+- <a id="serve"></a>[Serve](#serve) — p. 103
+- <a id="smash"></a>[Smash](#smash) — p. 113
+- <a id="technique"></a>[TECHNIQUE](#technique) — p. 117
+- <a id="topspin"></a>[Topspin](#topspin) — p. 117
+- <a id="slice"></a>[Slice](#slice) — p. 127
+- <a id="drop-shot"></a>[Drop Shot](#drop-shot) — p. 137
+- <a id="drop-volley"></a>[Drop Volley](#drop-volley) — p. 143
+- <a id="jump-smash"></a>[Jump Smash](#jump-smash) — p. 759
+- <a id="backhand-smash"></a>[Backhand Smash](#backhand-smash) — p. 165
+- <a id="twist-kick"></a>[Twist (Kick)](#twist-kick) — p. 171
+- <a id="tennis"></a>[Tennis](#tennis) — p. 177
+- <a id="index"></a>[Index](#index) — p. 178
+
+---
+
+**Body text begins below.** The text is reproduced from OCR; hyphen-broken words have been rejoined within each line, but paragraph breaks are not detected. Use the table of contents above for navigation.
+
+```text
 The primary goal of this instruc-
 tional book is to describe and
 explain the techniques of tennis
@@ -374,7 +290,7 @@ point.
 In the course of a match, the
 player will also have to cope
 with a multitude of positions at
-~ 
+~
 the baseline, at midcourt, and
 at the net.
 The Ball's Flight
@@ -399,7 +315,7 @@ The way a ball behaves in a
 bounce is dependent upon the
 following:
 @ its velocity;
-@ 
+@
 its spin; and
 @ the angle at which it bounces.
 In order to achieve the trajectory
@@ -522,7 +438,7 @@ and how it is strung;
 wind and sunshine); and
 @ the actions of the opponent(s)
 or partner(s).
-In practice, 
+In practice,
 a whole array of
 specific patterns have been
 developed within the framework
@@ -697,8 +613,8 @@ the readiness stance.
 The starting position in a serve varies
 among individual players.
 Footwork in Tennis
-Fig. 
-1 
+Fig.
+1
 Jumping into the readiness
 stance.
 Stroke Position
@@ -769,9 +685,9 @@ Open stance in two-handed backhand
 drive.
 15
 Basic Theory of Movement
-SS 
-ae a 
-aa 
+SS
+ae a
+aa
 a aa
 Support Leg
 (Anchor Leg/
@@ -1355,7 +1271,7 @@ the body is used to support
 the swing of the racket and to
 help direct the stroke; there's
 a lot of latitude in placing the
-- 
+-
 leading leg and in determining
 how far apart the feet should
 be; those details depend on
@@ -1380,7 +1296,7 @@ the stroke phase into the
 follow-through helps with
 control at the point of contact
 and improves the smoothness
-~ 
+~
 and economy of movement.
 The following points describe
 some of the most important
@@ -1397,7 +1313,7 @@ meet the ball and create the
 desired topspin;
 straightening the legs in the
 stroke phase to support the
-stroke movement; 
+stroke movement;
 —
 using the forehand or backhand
 grip (in the case of a forehand
@@ -1427,7 +1343,7 @@ what can be regarded as right
 and wrong in movements that
 are tailored to addressing tactical
 goals. The main action necessary
-to achieve 
+to achieve
 a movement's
 purpose is clearly established.
 Any deviation from that estab-
@@ -1526,11 +1442,11 @@ and that it's their supporting
 actions that express their
 personality traits in very
 individualized ways.
-e-____ 
-— — n — 
+e-____
+— — n —
 LKLK
 22
-The Average Performance of 
+The Average Performance of
 a Movement
 The Average
 Performance of
@@ -1572,7 +1488,7 @@ blend into a single movement,
 the result would be that move-
 ment's standard or average
 performance. This composite
-execution of 
+execution of
 a movement
 provides both an average and
 an ideal form relative to a
@@ -1638,7 +1554,7 @@ a normal volley would be too
 slow to be effective. This
 explains why Agassi plays (as
 in the photo on page 23) a top-
-spin ground stroke with lots_of 
+spin ground stroke with lots_of
 |
 momentum and forward spin.
 In so doing, he reduces the risk
@@ -1955,7 +1871,7 @@ possible. Movement in the
 stroke phase must begin with
 the legs and proceed in succes-
 sion through the adjoining body
-Fig. 
+Fig.
 5 Compensating movement in a
 backhand slice.
 parts in an upward direction
@@ -1986,7 +1902,7 @@ the upper body with respect to
 the lower body. That allows the
 player to impart a greater speed
 to the racket head (see fig. 4).
-Fig. 
+Fig.
 6 Compensating movement in a
 jump smash.
 In the stroke phase, there is an
@@ -2016,12 +1932,12 @@ can be assessed. Table 1 on page
 28 presents this information.
 27
 Basic Theory of Movement
-aa 
-a a a 
+aa
+a a a
 a
 Table 1
-Basic 
-Characteristics 
+Basic
+Characteristics
 of Movement
 28
 Morphological Characteristics of Movement (According to Meindel)
@@ -2166,7 +2082,7 @@ qualities in a tennis match
 consist of the following:
 e reliability;
 e precision; and
-e 
+e
 speed.
 For each playing situation,
 the ball has an ideal trajectory
@@ -2212,26 +2128,26 @@ principles (see table 3).
 Follow-through phase
 Backswing phase
 Stroke phase
-Fig. 7 
+Fig. 7
 Individual phases of a forehand stroke.
-Table 2 
+Table 2
 Biomechanical Principles and Morphological Characteristics of Movement
 Based on
 Biomechanical Principles
-Supporting Actions 
+Supporting Actions
 Morphological
 Characteristics of
 Movement
-Main action 
-Best-possible chance to 
+Main action
+Best-possible chance to
 Precision of movement
-hit ball 
+hit ball
 Consistency of movement
-Backswing and stroke 
-Best-possible acceleration 
+Backswing and stroke
+Best-possible acceleration
 Rhythm of movement
-phase 
-path 
+phase
+path
 Flow of movement
 Scope of movement
 Precision of movement
@@ -2242,11 +2158,11 @@ impulses (including impulse
 conservation)
 Best-possible muscle tension
 Compensating movement
-Follow-through phase 
-Compensating movement 
+Follow-through phase
+Compensating movement
 Rhythm of movement
 Scope of movement
-Table 3 
+Table 3
 Significance of Biomechanical Principles for Tactical Qualities
 Tactical Qualities
 Safety
@@ -2255,13 +2171,13 @@ Precision
 Best-possible acceleration path
 Speed (achieved through use of
 acceleration paths)
-Speed (achieved through use of 
+Speed (achieved through use of
 Coordination of individual impulses
-acceleration forces. 
-: 
-Te 
+acceleration forces.
 :
-) 
+Te
+:
+)
 Best-possible muscular preliminary tensing
 Compensating movement
 29
@@ -2365,8 +2281,8 @@ play at the last moment.
 Fig. 9
 Fig. 11
 Developing Individual Elements of Technique
-GB 
-SIN 
+GB
+SIN
 IETS ISTE ES STE ET
 In the next part of the stroke
 movement, the forearm is
@@ -2421,7 +2337,7 @@ this takes place in a tenth or
 a hundredth of a second.
 The wrist is held firm_at the
 contact point for just about
-three- to five-thousandths of
+threeto five-thousandths of
 a second. In that brief instant,
 the wrist must provide some
 resistance to the ball. In the
@@ -2493,10 +2409,10 @@ combined with the following:
 in forehand shots, serves, and
 smashes;
 32
-Fig. 14 
+Fig. 14
 (left) Optimal contact for a
 shot down the line.
-Fig. 15 
+Fig. 15
 (right) Movement of the racket
 axis, particularly the racket head. The
 time interval between positions amounts
@@ -2525,16 +2441,16 @@ contact height naturally depends
 on the ball's trajectory and the
 way it behaves in a bounce. The
 :
-Fig. 16 
+Fig. 16
 Side distance from ball ina
 forehand baseline shot (arm bent).
-<= 
+<=
 Rotation
-— 
+—
 Transition
 <TD approximately
 MWC —<$ams + §—1() inches
-> 
+>
 (15-25 cm)
 Contact point
 Rotation
@@ -2551,7 +2467,7 @@ contact point over hip height;
 ¢ low bouncing slice balls offer
 low contact points at knee level
 or below (see photo on p. 33).
-Fig.17 
+Fig.17
 Side distance from ball in back-
 “hand baseline shot (straight arm).
 Developing Individual Elements of Technique
@@ -2735,7 +2651,7 @@ Ineffective For:
 @ relatively high contact points;
 in order to keep the contact
 Developing Individual Elements of Technique
-PS 
+PS
 TET PEE
 point in front of the body, the
 forearm must be turned rather
@@ -2826,7 +2742,7 @@ ments, the take back can be
 shortened only in returning fast
 35
 Basic Theory of Movement
-Fig. 18 
+Fig. 18
 Forehand grip seen from
 above and behind.
 serves. The start of the back-
@@ -2851,7 +2767,7 @@ and timing since before the
 forward swing occurs, the
 racket has to be stopped
 and then accelerated anew.
-Fig. 19 
+Fig. 19
 Extreme forehand grip seen
 from above and behind.
 An analysis of world-class
@@ -2876,7 +2792,7 @@ and shoulder (upper arm and
 torso). The backswing phase
 can be lengthened or shortened
 according to the demands of
-Table 4 
+Table 4
 Appropriate Grips for the Most Important Shots
 Backhand
 Side
@@ -2890,7 +2806,7 @@ grip
 Backhand grip,
 semicontinental
 grip
-Fig. 20 
+Fig. 20
 Semicontinental grip for fore-
 hand from above and behind.
 the situation. Lengthening
@@ -2915,13 +2831,13 @@ ments; with slower strokes,
 avoid conscious or extreme
 opening and closing of the
 wrist.
-Forehand 
-Forehand grip | Extreme 
+Forehand
+Forehand grip | Extreme
 Forehand grip, | Forehand grip,
-Side 
+Side
 forehand grip | semicontinental | semicontinental
-grip 
-grip 
+grip
+grip
 grip
 Backhand grip,
 two-handed
@@ -2936,24 +2852,24 @@ semicontinental
 grip
 36
 Developing Individual Elements of Technique
-Fig.21 
-Backhand grip seen from 
-Fig. 22 
-Extreme backhand grip seen 
-Fig. 23 
+Fig.21
+Backhand grip seen from
+Fig. 22
+Extreme backhand grip seen
+Fig. 23
 Two-handed backhand grip
-above and behind. 
-from above and behind. 
+above and behind.
+from above and behind.
 seen from above; right hand using back-
-/ 
+/
 hand grip.
 Basic Theory of Movement
-Fig. 24 
+Fig. 24
 Fairly flat backswing in a forehand ground stroke from the baseline.
 Backswing for Volleys and
 Half Volleys
 Since the available time for a
-volley is often less than six- to
+volley is often less than sixto
 nine-tenths of a second, the
 racket should be taken back
 by turning the shoulder only
@@ -3036,7 +2952,7 @@ the racket at first lags behind
 eee
 38
 Developing Individual Elements of Technique
-Fig. 25 
+Fig. 25
 Very high backswing for a forehand ground stroke from the baseline.
 momentarily. Pausing in the upper
 arm movement (braking) speeds
@@ -3095,7 +3011,7 @@ ward direction of the stroke
 follows the approximate trajec-
 tory of the oncoming ball.
 Stroke Phase in Service
-and Smash Shots 
+and Smash Shots
 :
 With serves and smashes,
 the movement of the racket
@@ -3126,7 +3042,7 @@ maximum at the lowest point
 and the stroke hand is located
 39
 Basic Theory of Movement
-Fig.26 
+Fig.26
 Coordination of leg and arm
 work in a serve.
 behind the head and slightly
@@ -3149,7 +3065,7 @@ high overhead. The freedom
 of the stroke side (see fig. 27)
 allows the kinetic chain to work
 vertically and in a straight line
-Fig.27 
+Fig.27
 Pronation movement and
 freedom of stroke side in a serve.
 to produce the best possible
@@ -3172,7 +3088,7 @@ as the stroke is carried out
 movement is necessary to
 maintain control during the
 stroke.
-Fig. 28 
+Fig. 28
 Compensating movement
 from the throwing arm in a serve.
 Follow-through Phase
@@ -3195,9 +3111,9 @@ photo on p. 41).
 Blocking the
 follow-through
 on a return.
-CC 
+CC
 —
-SCOCLOLLLUDF 
+SCOCLOLLLUDF
 Se
 40
 —_
@@ -3222,7 +3138,7 @@ possesses a particular velocity,
 direction, and spin. These con-
 siderations will be treated in
 the concluding paragraph.
-Table 5 
+Table 5
 Key to Subsequent Illustrations
 S: Midpoint of ball
 V.: Racket speed
@@ -3288,7 +3204,7 @@ possibilities can happen when
 hitting the ball with the racket:
 43
 The Ball in Flight and Bounce
-Fig.29 
+Fig.29
 Central contact.
 ® On the one hand, the racket
 hits the ball directly on center;
@@ -3301,7 +3217,7 @@ racket's energy converts to
 energy of motion in the ball,
 which picks up essentially
 no spin.
-© 
+©
 In the second scenario, the
 racket hits the ball off center;
 that is, the striking impulse
@@ -3325,7 +3241,7 @@ the stroke phase, the spin
 increases and the velocity of the
 ball decreases as the racket is
 swung upward at a greater angle.
-Fig. 30 
+Fig. 30
 Possibilities in hitting off center.
 Usually, the Vs, speed portion is
 greater than the Vs, portion.
@@ -3392,7 +3308,7 @@ steeper than the takeoff angle
 players in action shows that
 the majority of balls are hit at
 about hip or net level.
-_—_— 
+_—_—
 ee
 44
 Contact Between Racket and Ball—Effect on the Ball's Trajectory
@@ -3431,7 +3347,7 @@ produce the same effect
 (making the ball reach the
 baseline). That increases
 the risk of a net fault.
-Fig. 34 
+Fig. 34
 Possible departure angles
 (right and left).
 Vs,
@@ -3440,22 +3356,22 @@ Ne,
 Ney
 Vs
 Vs.
-Fig. 31 
-Parallelogram of forces on a 
-Fig. 32 
+Fig. 31
+Parallelogram of forces on a
+Fig. 32
 The best contact point or
-ball hit off center. 
+ball hit off center.
 sweet spot.
 Fue
 Q
 <
-fF 
-ls 
-LU 
+fF
+ls
+LU
 u
-Fig. 33 
+Fig. 33
 Possible departure angles (high and low).
-Fig. 35 
+Fig. 35
 Flight curve of a ball with no spin.
 1 Ballistic curve
 2 Ideal parabola
@@ -3466,7 +3382,7 @@ Medium topspin
 Shallow departure angle
 Heavy topspin
 Steeper departure angle
-Fig. 36 
+Fig. 36
 Amount of spin as a function of swing direction and speed of the vertical
 racket face.
 Ball with Topspin
@@ -3503,17 +3419,17 @@ same direction) and a reduction
 in speed on the top side (against
 the currents).
 Soll pr *88y,.
-- ed ee 
+- ed ee
 ~
 “A
 U
-< VB 
+< VB
 U
 y
-as 
+as
 3 yr ;
 “4)
-g Ow 
+g Ow
 pre?
 +
 Direction of flight
@@ -3535,7 +3451,7 @@ The effect of Magnus force in
 the direction of gravity entails the
 following consequences for the
 ball's trajectory (see fig. 38):
-© 
+©
 In comparison with a ball
 that has no spin at the same
 departure angle and speed,
@@ -3567,32 +3483,32 @@ in a forward and downward
 direction. Upon contact, the
 racket face must remain essen-
 tially vertical.
-Fig. 37 
+Fig. 37
 Air currents and Magnus force
 with topspin.
 46
 1 Ball with topspin
 2 Ball with no spin
 3 Ideal parabola
-Fig. 38 
+Fig. 38
 Flight curve of a ball with topspin.
-Fig. 39 
-Backspin with open racket 
-Fig. 41 
+Fig. 39
+Backspin with open racket
+Fig. 41
 Ball with left sidespin.
 _ face.
 Q
 oW jPre
-A 
+A
 Sy,
 (o)
 ee
 Direction of flight
 ®
 Oh pre so
-Fig. 40 
+Fig. 40
 Air currents and magnus force with backspin.
-The direction of the hitting 
+The direction of the hitting
 at the moment of contact and on
 impulse points not at the center
 of the ball, but rather, below it.
@@ -3616,7 +3532,7 @@ Magnus force directed upward.
 The following consequences
 are produced for the ball's
 trajectory:
-@ 
+@
 In comparison with the flight
 of a ball with no spin or with
 topspin, the trajectory at the
@@ -3682,10 +3598,10 @@ we can conclude that:
 e the ball picks up topspin in a
 bounce (see fig. 42);
 e the angle of flight before
-Fig. 42 
+Fig. 42
 Creation of spin as a ball without spin bounces.
-Fig.43 
-Change ina 
+Fig.43
+Change ina
 ball's spin with heavy topspin.
 a bounce is not crucial in
 determining the subsequent
@@ -3704,20 +3620,20 @@ of friction on the surface of the
 court. The ball spins faster as it
 skids on the surface and bounces
 off (see fig. 43). As a result:
-¢ 
+¢
 topspin increases when the
 ball bounces;
 e the takeoff angle is smaller
 than the landing angle (see
 fig. 44); and
-e 
+e
 as the vertical portion of
 the velocity decreases, its
 horizontal portion increases;
 therefore, the ball bounces
 quickly toward the opposing
 player.
-Fig.44 
+Fig.44
 Change in takeoff angle of a
 ball with heavy topspin.
 Contact Between the Ball and the Court Surface
@@ -3764,22 +3680,22 @@ hitting the ball causes a bounce
 to the left in the case of left
 sidespin and to the right with
 right sidespin.
-Fig. 45 
+Fig. 45
 Change of spin in takeoff of a backspin ball.
 Lo
-i. 
-| 
+i.
+|
 ‘eo
-Fig.46 
+Fig.46
 Change in takeoff angle of a backspin ball.
-Fig. 47 
+Fig. 47
 Differing height of bounce with topspin and backspin balls.
 _Topspin
-: 
-: 
+:
+:
 oo
-@ 
-| 
+@
+|
 e @
 Backspin
 49
@@ -3918,21 +3834,21 @@ retain their sidespin.
 The position of the racket face
 determines the departure direction
 of a fast oncoming ball with no spin.
-—_—_——— 
+—_—_———
 rr
-ee 
+ee
 SSS
 50
 Observations About the Characteristics of Oncoming Balls
 Ball with rising trajectory
 Ball with falling trajectory
-Fig. 48 
+Fig. 48
 Direction of departure with
 high ball velocity and low racket speed
 (1: direction of approach; 2: departure
 direction; 3: departure direction with
 blocked racket).
-Fig.49 
+Fig.49
 Departure direction at high
 racket speed and low ball velocity
 (1: direction of approach; 2: departure
@@ -3961,7 +3877,7 @@ weather, court surface, and the
 significance of the tournament,
 must also involve tennis-specific
 considerations:
-e 
+e
 safety and accuracy should
 take precedence over speed;
 ¢ only in rare cases can the ball
@@ -3971,14 +3887,14 @@ all other shots, including ser-
 vice, can be played at only
 an optimal speed based on
 the size of the court and the
-height of the net; 
+height of the net;
 —
 e the more highly developed
-an individual technique is, the 
+an individual technique is, the
 —
 greater the tactical variations
 Tactics
-e 
+e
 creativity, risk acceptance, and
 competitive aggressiveness,
 independent of the player's
@@ -3986,7 +3902,7 @@ individual conception of the
 game, are characteristics that
 define performance in contem-
 porary sports;
-e 
+e
 use of theoretically perfect
 tactics to achieve any outcome
 is not always possible or rea-
@@ -4006,7 +3922,7 @@ subcategory of that heading.
 Tactical Actions
 Tactical actions are based on
 the following processes:
-e 
+e
 perception and anticipation;
 evaluating the resulting possi-
 ble actions;
@@ -4041,7 +3957,7 @@ knowledge of the opponent's
 habits and individual behav-
 ioral patterns.
 58
-Tactics(ng 
+Tactics(ng
 |
 The following observations are
 necessary for utilizing this knowl-
@@ -4177,9 +4093,9 @@ around so that a solution is found
 in the nature of the problem.
 ———s
 Thinking through the various
-_ 
+_
 possible actions leads to choosing
-_ 
+_
 the most promising solution.
 This section must reiterate that
 thinking tactically, or coming up
@@ -4197,13 +4113,13 @@ time, want to be victorious in a
 majority of matches need to develop
 their technical strengths and the
 attendant ways of thinking into
-_ 
+_
 effective tools.
 Basic Tactical
 Situations
 In principle, five basic tactical
 situations occur:
-e 
+e
 simple exchanges of shots:
 This usually involves a rally
 from baseline to baseline with
@@ -4224,7 +4140,7 @@ usually in front of the baseline,
 and tries to use an attack stroke
 to get into a promising position at
 the net or to score a point directly.
-e 
+e
 counterattack:
 A well-controlled offensive shot
 can be used as a counterattack
@@ -4232,7 +4148,7 @@ if the opponent's attack shot is
 weak or if the player is very
 effective in anticipating the
 attack shot.
-e 
+e
 defense:
 The player is no longer able to
 get into a good position and
@@ -4243,7 +4159,7 @@ Central, Overriding
 Tactical Goals
 Overriding tactical goals involve
 the criteria of space and time:
-© 
+©
 space:
 The goal is to restrict the oppo-
 nent's space by playing posi-
@@ -4260,7 +4176,7 @@ far—even out of bounds—
 thereby widening the playing
 space and freeing up more
 area for play.
-e 
+e
 time:
 The goal is to afford as little time
 as possible for the opponent to
@@ -4446,12 +4362,12 @@ so on) with the accompanying
 ball flight (that is, fast, slow,
 high, or low).
 Tactics and Strategy
-Tacticsa 
-a 
-a 
-a 
+Tacticsa
 a
-e 
+a
+a
+a
+e
 choice of the right type of
 stroke with reference to the
 selected spatial goal and the
@@ -4535,10 +4451,10 @@ aggressiveness, heightened con-
 centration, and reasonable risk
 acceptance. Most matches are
 won by the player who:
-¢ 
+¢
 scores the absolute majority
 of all points played;
-¢ 
+¢
 can accumulate the greatest
 number of series of three and
 more points in succession.
@@ -4982,7 +4898,7 @@ with a backhand. However, with a
 serve to point 2, the area to cover
 with a forehand shot is larger (b,),
 and the area to cover with a back-
-hand is smaller (a,). 
+hand is smaller (a,).
 A backhand
 hitter can also be forced to deal
 with the server's stronger side in
@@ -5186,31 +5102,31 @@ back safely is tactically correct.
 These include:
 ¢ when the opponent places the
 ball far into the corners;
-e 
+e
 when the opponent plays the
 ball long and at the baseline;
-¢ 
+¢
 when the opponent's tempo
 puts pressure onto the player;
-¢ 
+¢
 when an impatient opponent
 can be induced into making
 risky shots;
-e 
+e
 when the opponent is not very
 tenacious or confident with the
 ball.
 The goal of safe baseline shots
 therefore involves:
-¢ 
+¢
 keeping the opponent back;
 ¢ avoiding mistakes;
 ¢ causing the opponent to make
 mistakes;
-¢ 
+¢
 tiring opponents who are not
 physically fit;
-e 
+e
 putting pressure onto the
 opponent.
 Shot Direction
@@ -5218,7 +5134,7 @@ The safe direction is across
 the court, because:
 ¢ the net is lower in the
 middle;
-e 
+e
 the diagonal of a tennis
 court is longer than the
 sideline, so longer shots
@@ -5247,7 +5163,7 @@ Trajectory, and Shot Speed
 The ball must be /ong in order
 to keep the opponent at the
 baseline. It is ong when it
-_ 
+_
 bounces in the vicinity of the
 baseline so that an opponent
 who is not taking any chances
@@ -5299,10 +5215,10 @@ accepting a certain amount of
 risk is tactically advantageous.
 Examples include:
 Tactics and Strategy
-¢ 
+¢
 when the opponent is playing
 too short;
-e 
+e
 when the opponent has a sig-
 nificant weakness in backhand
 or forehand;
@@ -5318,7 +5234,7 @@ e to cause the opponent to make
 mistakes by playing fast;
 e to attack the opponent on the
 weaker side;
-e 
+e
 to score direct points.
 Shot Speed
 Foremost among shot character-
@@ -5409,7 +5325,7 @@ e the closer to the net the oppo-
 nent stands, the more effective
 a passing shot down the line is
 likely to be;
-e 
+e
 however, if the opponent shows
 any weaknesses in a forehand
 or backhand volley, the passing
@@ -5458,10 +5374,10 @@ Drop Shot
 Here are the tactical goals
 addressed by a drop ball:
 ¢ scoring a point directly;
-e 
+e
 interrupting the opponent's
 rhythm;
-e 
+e
 luring the opponent to the net
 (weak volley);
 ¢ tiring and unnerving an out-
@@ -5469,9 +5385,9 @@ of-shape opponent through
 continuous repetition of the
 shot.
 To that end, the drop shot must:
-¢ 
+¢
 contain an element of surprise;
-e 
+e
 be played short—that is, spend
 the shortest possible time in
 the air.
@@ -5512,7 +5428,7 @@ _ Effective Tactics for Covering
 the Court After a Drop Shot
 If the opponent reaches the drop,
 usually the ball will be returned
-. 
+.
 long to the baseline, short across
 the court, or as another drop
 shot. After a drop shot from the
@@ -5532,24 +5448,24 @@ of the drop ball. Watch out for
 the lob!
 Effective Tactics Against
 a Drop Shot
-| 
+|
 _ When the opponent plays a drop
-_ 
+_
 shot, the player does not have
-| 
+|
 much time to ponder going after
 it. Often, a fraction of a second or
-| 
+|
 asmall step determines if the
 player can get to the ball.
 As the player runs forward, the
-| 
+|
 ball and the opponent should be
-| 
+|
 kept in view. If the opponent is
-| 
+|
 waiting for the ball behind the
-| 
+|
 baseline, the player should attempt
 to play a counterdrop. If the
 opponent is a yard (meter) or two
@@ -5585,7 +5501,7 @@ time for a successful volley may
 be too short when the position is
 too close to the net. Whether the
 ideal net position is right on the
-center line ora 
+center line ora
 little left or right
 depends on the direction of the
 previous attack ball. In any case,
@@ -5625,9 +5541,9 @@ this special instance, covering
 the court most effectively
 is a secondary consideration,
 and the player moves closer
-to the net. 
+to the net.
 ©
-e 
+e
 Av-volley very close to the net
 should be hit short and across
 the court. This shot is not only
@@ -5646,7 +5562,7 @@ should be played into a corner
 from which the weaker passing
 shot is likely to come (see p. 61).
 This involves attacking the weak
-spot. 
+spot.
 ©
 67
 Tactics
@@ -5832,7 +5748,7 @@ Without doubt, this is the short
 cross. This explains why the
 short cross is not considered in
 the tactical concept. The posi-
-| 
+|
 tions indicated in figures 54 and
 55 are the turntable positions
 that the player who is charging
@@ -5887,12 +5803,12 @@ called shot in the back is so
 difficult to reach because the
 player has to move very quickly
 SEO
-Al 
-Aa 
+Al
+Aa
 AS
-(I) 
+(I)
 Zone 1
-SS Zone 
+SS Zone
 2
 E34 Zone 3
 Fig. 58
@@ -6103,15 +6019,15 @@ With a serve from the left, the
 player's own forehand volley
 effectively covers the opponent's
 possible backhand shot down
-the line. 
+the line.
 ~~
 If the partner hits from the)
 right to the opponent's forehand,
-moving a little to the left to 
+moving a little to the left to
 |
 defend against a possible fore- /
 hand return down the line, by /
-using a backhand volley, 
+using a backhand volley,
 is _
 necessary. The partner's serve
 from the left to the opponent's
@@ -6123,7 +6039,7 @@ player at the net cannot attack
 and the partner cannot volley
 effectively, the players should
 try to prevent that exceptionally
-_ 
+_
 good backhand shot. To do so,
 _ the player has to stand in the
 other service court across from
@@ -6193,14 +6109,14 @@ shot as possible. The target
 should not be the baseline but
 the feet of the opponent who
 is running forward. If time is
-| 
+|
 available, the stronger forehand
 return can be used in preference
-| 
+|
 to the backhand. That needs to
 be a really good shot, because
 as the player runs to set up the
-| 
+|
 forehand shot, a portion of the
 player's own court will be left
 unprotected. To the extent
@@ -6287,8 +6203,8 @@ to cover effectively the diagonal
 that runs between A and B.
 Both partners should also stand
 comparable distances from the
-sideline. If 
-A or 
+sideline. If
+A or
 B moves to the
 left after a forehand cross volley
 from one position to the other, as
@@ -6303,18 +6219,18 @@ land in.the court is particularly
 important. That keeps the
 Ws!
 Tactics
-World Team Cup 
+World Team Cup
 &
-PEMGEOT PEUGEO®; PEUGEOT 
+PEMGEOT PEUGEO®; PEUGEOT
 @ UGEOT
 ag
-a Di 
-iiss 
-nuschity 
-O 
-<5 
-Roviee’ ate Siussoidort 
-Rochunchud Dissedoglemma? 
+a Di
+iiss
+nuschity
+O
+<5
+Roviee’ ate Siussoidort
+Rochunchud Dissedoglemma?
 ey
 ,
 J
@@ -6374,7 +6290,7 @@ left (the backhand side) since that
 player's forehand can be used to
 cover the middle.
 This means that:
-e 
+e
 playing the middle against
 opponents situated at about
 the same level on the court
@@ -6427,7 +6343,7 @@ number of shot techniques but
 also some inconsistent definitions:
 _¢ Terminology among books
 often varies or is unclear.
-e 
+e
 Individual terms such as slice
 are used in different ways.
 As a result, forehand slice
@@ -6436,9 +6352,9 @@ to designate shots where
 backspin is imparted to the
 ball and slice service when
 the ball is given primarily
-| 
+|
 sidespin.
-e 
+e
 Different labels are added to
 techniques to make them
 understandable. The term drive,
@@ -6491,13 +6407,13 @@ ones in order to come up with
 some entirely new ones. The
 relevant considerations include
 the following:
-e 
+e
 where the ball is hit with
 respect to the player (on t
 he right or left side, over the
 top of the head, overhead to
 the left, and so on);
-e 
+e
 the contact point with the
 ball in relation to where it
 lands in the court (for
@@ -6520,7 +6436,7 @@ sidespin);
 e the goal with reference to the
 ball's trajectory (low, high, or
 very high);
-e 
+e
 special conditions (including a
 ball hit under extreme condi-
 tions such as behind the body
@@ -6610,10 +6526,10 @@ dealing with mistakes.
 For a practical application of tennis
 instruction, considering the follow-
 ing points is useful:
-e 
+e
 every technique is presented
 with the aid of a diagram;
-e 
+e
 inthe interest of completeness,
 many descriptions and reasons
 appear repeatedly with individ-
@@ -6626,7 +6542,7 @@ included;
 handed players; left-handed
 players need to reverse the
 techniques accordingly;
-e 
+e
 note that the illustrations
 present an average way to
 perform a movement; they
@@ -6696,9 +6612,9 @@ ably flat trajectory.
 e The ball may travel at a rela-
 tively high speed (except to
 keep the ball in play).
-Fig.62 
+Fig.62
 Aiming points.
-Fig. 63 
+Fig. 63
 The ball’s flight.
 79
 Technique
@@ -6733,9 +6649,9 @@ Just before contact, the wrist is
 brought into a position that
 80
 corresponds to the departure
-velocity to produce 
+velocity to produce
 the great-
-est-degree of accuracy. 
+est-degree of accuracy.
 .
 * Upon contact, the grip on the
 racket is tightened, and the
@@ -6764,7 +6680,7 @@ direction of the shot (illustration
 be about hip width apart to
 help maintain balance.
 Stroke Phase
-e 
+e
 Inthe transition to the stroke
 phase, the racket is positioned
 under the predictable contact
@@ -6813,32 +6729,32 @@ e Often the stroke stance varies
 according to the situation; the
 more open it is, the quicker the
 stroke movement and the more
-the shot direction tends to cross. 
-Fig. 65 
+the shot direction tends to cross.
+Fig. 65
 Backswing with a low, upward arc.
 However, the shot is often less
 accurate.
 e This movement can vary
-among individuals in terms 
-Stroke Phase 
+among individuals in terms
+Stroke Phase
 movement can be accomplished
-of its timing and dynamics, 
-e The upper body can be twisted 
+of its timing and dynamics,
+e The upper body can be twisted
 in different ways. The smoother
-especially with respect to 
-; 
-more or less dynamically. That 
+especially with respect to
+;
+more or less dynamically. That
 the acceleration of the racket
-the transition between taking 
-affects the acceleration of the 
+the transition between taking
+affects the acceleration of the
 to the contact point with the
-the racket back in the back- 
-racket. 
+the racket back in the back-
+racket.
 ball, the safer and more con-
-swing phase and accelerating 
-e The initial speed and the accel- 
+swing phase and accelerating
+e The initial speed and the accel-
 trolled the hit.
-it in the stroke phase. 
+it in the stroke phase.
 eration of the racket in the stroke
 81
 Technique
@@ -6855,7 +6771,7 @@ e When using the semicontinental
 grip, the transfer of force is less
 than optimal; difficulties increase
 at higher contact points.
-e 
+e
 Using the backhand grip makes
 keeping the racket face vertical
 at the desired contact point
@@ -6872,7 +6788,7 @@ e Avery late backswing reduces
 the chance of hitting the ball at
 the right moment and under
 control.
-e 
+e
 Using an exaggerated or very high
 backswing creates the danger
 that the ball may be hit too late
@@ -6882,15 +6798,15 @@ of the backswing interferes with
 the flow of the movement
 and contributes to a sudden
 acceleration of the racket.
-Stroke Phase _ 
+Stroke Phase _
 a
 e’ Failure to lower the racket
 : head below the anticipated
 \ contact point makes swinging
-Fig. 66 
+Fig. 66
 Leaning back during the shot.
 the racket in a forward and
-upward motion impossible. 
+upward motion impossible.
 —
 e Straightening the legs too
 early mostly detracts from
@@ -6900,7 +6816,7 @@ the desirable weight shift for-
 ward and upward, which, in turn,
 detracts from acceleration and -
 can spoil the shot (see fig. 66).
-e 
+e
 Turning the hips and upper body
 too early creates poor coordi-
 nation between body rotation
@@ -6912,7 +6828,7 @@ contact point (that is, too late,
 too close, and too far from the
 body), safety and precision suf-
 fer greatly.
-Fig. 67 
+Fig. 67
 Turning too early in the
 direction of the shot.
 e A limp wrist at the moment of
@@ -6923,11 +6839,11 @@ e Ending the follow-through too
 early by stopping the stroke
 movement greatly interferes
 with control.
-e 
+e
 Changing the natural follow-
 through direction too early
 by turning the forearm (that
-is, 
+is,
 a pronation movement) or
 by bending the wrist or the
 elbow shortly after contact
@@ -6968,7 +6884,7 @@ brought into a position appro-
 priate to the ball’s departure
 velocity to create to the great-
 est degree of accuracy.
-e 
+e
 Upon contact, the grip on the
 racket is tightened and the
 wrist is held firmly for a brief
@@ -7030,7 +6946,7 @@ and body is maintained right
 through the moment of con-
 tact (illustrations 9-11) to
 facilitate the best possible hit.
-e 
+e
 Before contact, the right arm is
 straightened (illustrations 7 and
 8) to set up an optimal contact
@@ -7092,13 +7008,13 @@ body turns in the direction of
 the shot.
 Common Flaws and Mistakes
 Backswing
-e 
+e
 Using the forehand grip makes
 keeping the racket face vertical
 at the desired contact point very
 hard and reduces the transfer
 of force.
-e 
+e
 Using little or no twist in the
 upper body and a very short
 backswing interferes with
@@ -7141,12 +7057,12 @@ e When the /ateral stance is
 abandoned too soon, the whole
 body rotates in the stroke
 movement; this significantly
-Fig.69 
+Fig.69
 Straightening the legs too
 soon.
 detracts from ball control (see
 fig. 70).
-e 
+e
 Using an awkward contact
 point, in other words, too late,
 too close, or too far from the
@@ -7172,26 +7088,26 @@ in the wrist indicates that the
 swing was checked too early to
 the detriment of the energy
 transfer (see fig. 72).
-Fig.71 
+Fig.71
 Awkward, late contact point.
-Fig. 70 
+Fig. 70
 Abandoning the lateral stroke
 position too early.
-Fig. 72 
+Fig. 72
 Exaggerated bend in wrist.
 87
 Technique
 Two-handed Backhand
-eS 
+eS
 Tae)
 Two-handed
 Backhand
 Effects on the Behavior
 of the Ball
-e 
+e
 In general, the ball should be
 played at a fairly high speed.
-¢ 
+¢
 Depending on the tactical goal,
 the ball may fly fast and low or
 slower, higher, and farther.
@@ -7220,9 +7136,9 @@ up an attack at the net.
 for a passing shot, especially
 down the line, when the oppo-
 nent is attacking at the net.
-Fig. 73 
+Fig. 73
 Aiming points (/eft).
-Fig. 74 
+Fig. 74
 Flight of ball (be/ow).
 With a two-handed backhand,
 the right upper arm is close to the
@@ -7279,12 +7195,12 @@ at the turning point, the
 right arm is nearly straight,
 and the left one is bent
 (illustration 6).
-¢ 
+¢
 Because of the two-handed
 hold, the racket follows a rela-
 tively flat arc as it is swung ina
 loop (illustrations 1-4).
-e 
+e
 During the backswing, the right
 leg moves forward at an angle
 toward the oncoming ball.
@@ -7339,7 +7255,7 @@ lows a straight line rearward
 and downward; this stroke
 movement rarely places the
 player under any time pressure.
-e 
+e
 In the backswing, the wrist is
 often bent; this makes taking
 the racket head farther back
@@ -7351,11 +7267,11 @@ stance, particularly with fast
 stroke movements, the left leg
 is moved ahead in the direction
 of the shot to maintain balance.
-e 
+e
 Both arms can remain more or
 less bent since this improves
 control.
-e 
+e
 During the stroke movement,
 the left shoulder moves sharply
 forward and upward; the right
@@ -7368,19 +7284,19 @@ e Many players release the left
 hand from the racket upon
 contact and complete the
 swing with only the right hand.
-e 
+e
 The follow-through occurs
 quickly over the right shoulder.
 Two-handed Backhand
 Common Flaws and Mistakes
 Backswing
-e 
+e
 Too little upper body rotation
 makes for an excessively short
 backswing. The result is too
 little swing, and the ball is
 punched.
-e 
+e
 /f the right arm is not brought
 back far enough and is too far
 away from the body, ‘it restricts
@@ -7389,7 +7305,7 @@ Stroke Phase
 e Straightening the legs too soon
 is especially detrimental to
 coordination.
-e 
+e
 /mproper contact points detract
 from reliability and precision.
 Follow-through
@@ -7430,13 +7346,13 @@ the ball. This works especially
 well when the volley is played
 close to the net (see both
 figures, #2).
-e 
+e
 Fast shots put pressure onto the
 opponent and provoke hasty,
 uncontrolled shots.
-¢ 
+¢
 In volley play, the opponent
-~ 
+~
 should have no time to get into
 a good position on the court
 after making a shot. A player
@@ -7453,9 +7369,9 @@ of the Ball
 e The ball may travel quite fast.
 e The ball may be hit with back-
 spin.
-Fig. 76 
+Fig. 76
 Aiming points.
-Fig. 77 
+Fig. 77
 Flight of ball.
 93
 Technique
@@ -7467,7 +7383,7 @@ desired ball trajectory? What is
 this technique used for?
 Features of the Main Action
 Within the Stroke Phase
-e 
+e
 The racket is swung (forward
 and slightly downward to give
 the ball backspin.
@@ -7490,7 +7406,7 @@ cally at contact and the ball
 can be hit in front of the body.
 e The upper body is rotated
 back-and the forearm is
-II 
+II
 raised so that the racket
 head rises above the antici-
 pated contact point (illustra-
@@ -7533,7 +7449,7 @@ way; rather, it is used to take
 a step toward the ball during
 the swing.
 Stroke Phase
-e 
+e
 During the stroke movement
 directed forward and down-
 ward, the‘elbow is gradually
@@ -7541,23 +7457,23 @@ straightened (illustrations 4-7);
 this sets up an ideal contact
 point.
 Simultaneously with the arm
-movement, 
+movement,
 the left leg takes
 a step to meet the ball
 (illustrations 3-6); this
 weight transfer forward
 and downward supports
 the stroke.
-EE 
-ee 
-ae 
+EE
+ee
+ae
 a
 Volley—Forehand
 As the left foot is placed-onto-
 the court surface, the leg bends
 (illustrations 6 and 7) to support
 the forward and downward
-movement. 
+movement.
 =~
 The upper body turns in the
 direction of the shot (illustrations
@@ -7612,7 +7528,7 @@ this creates an advantage
 especially with high contact
 points.
 Stroke Phase
-e 
+e
 Many players maintain a con-
 stant angle in the elbow. This
 can adversely affect control of
@@ -7638,72 +7554,72 @@ position is fairly fluid.
 95
 Technique
 Volley—Forehand
-Fig. 79 
-Very high and extended back- 
-Fig. 80 
-Hitting the ball too late in a 
-Fig. 81 
+Fig. 79
+Very high and extended back-
+Fig. 80
+Hitting the ball too late in a
+Fig. 81
 Premature weight transfer in a
-swing in a forehand volley. 
-i 
-forehand volley. 
+swing in a forehand volley.
+i
 forehand volley.
-Common Flaws and Mistakes 
-Stroke Phase 
+forehand volley.
+Common Flaws and Mistakes
+Stroke Phase
 ¢ With /ate or nonexistent weight
-e The stroke is not directed for- 
+e The stroke is not directed for-
 transfer, the movement is
-Backswing 
-ward and downward; conse- 
-~ 
+Backswing
+ward and downward; conse-
+~
 performed with only the arm;
-e 
-Using the backhand grip inter- 
-quently there is no control or 
+e
+Using the backhand grip inter-
+quently there is no control or
 coordination among move-
-feres with optimal transfer of 
-reliability. 
+feres with optimal transfer of
+reliability.
 ments and ball control are
-force; the contact point lies too 
-e 
-Fxaggeration of the downward 
+force; the contact point lies too
+e
+Fxaggeration of the downward
 lacking (see fig. 81).
-far to the rear; and the racket 
+far to the rear; and the racket
 movement will produce lots of
-face is seldom vertical. 
-backspin, but the ball picks up 
+face is seldom vertical.
+backspin, but the ball picks up
 Follow-through
-e With a very high and extended 
-only minimal speed. 
+e With a very high and extended
+only minimal speed.
 e Starting the follow-through
-backswing, the stroke is not 
-e 
-Inthe stroke movement, the arm 
+backswing, the stroke is not
+e
+Inthe stroke movement, the arm
 too early forward and upward
-made in the desired forward 
-straightens at the elbow away 
+made in the desired forward
+straightens at the elbow away
 greatly reduces ball control in
-direction but, rather, in front of 
-from the body (in a punching 
+direction but, rather, in front of
+from the body (in a punching
 the volley.
-the body and toward the left 
+the body and toward the left
 movement). This detracts from
-(see fig. 79). 
+(see fig. 79).
 ball speed and control.
-e 
-In abackswing with completely 
-=e 
+e
+In abackswing with completely
+=e
 Hitting the ball too late makes
-straight arm, the direction of 
+straight arm, the direction of
 weight transfer impossible (see
-the stroke movement tends 
+the stroke movement tends
 fig. 80).
-more toward the left front of 
-¢ 
+more toward the left front of
+¢
 Having a /oose grip when the
-the body, and the ball often 
+the body, and the ball often
 ball is hit adversely affects ball
-picks up sidespin. 
+picks up sidespin.
 control and safety.
 Footwork and stroke movement
 \ are very well coordinated.
@@ -7810,7 +7726,7 @@ balance and preserving the
 lateral stroke position (illustra-
 tions 6 and 7).
 Follow-through
-e 
+e
 In the follow-through, the
 stroke continues in a forward
 and downward direction and
@@ -7825,7 +7741,7 @@ Possible Variations and
 Their Advantages and
 Disadvantages
 Backswing
-e 
+e
 For a backhand volley, many
 players hold the racket with
 a semicontinental grip; this
@@ -7844,13 +7760,13 @@ ground; the elbow is at
 about shoulder height, and
 the racket head may be a
 bit lower.
-e 
+e
 Some players keep their arm
 long in the backswing; this
 helps control the distance to
 the contact point.
 Stroke Phase
-e 
+e
 For aslow oncoming ball, the
 stroke movement can be more
 sweeping; this lets the player
@@ -7878,17 +7794,17 @@ the starting position should
 be fairly fluid.
 99
 Technique
-(LL RRS 
+(LL RRS
 aaa
 Volley—Backhand
 Common Flaws and Mistakes
 Backswing
-e 
+e
 Using the forehand grip inter-
 feres with energy transfer, and
 the contact point is too far to
 the rear.
-e 
+e
 If the upper body is rotated
 too /ittle or not at all, the con-
 tact point will be too close to -
@@ -7898,10 +7814,10 @@ e When the elbow points in the
 direction of the shot, this pro-
 duces a shot from only the
 forearm (a punching motion).
-Fig. 83 
+Fig. 83
 Bent arm in hitting backhand
 volley (left).
-Fig. 84 
+Fig. 84
 Rotating the upper body too
 early in a backhand volley.
 Stroke Phase
@@ -7979,17 +7895,17 @@ should be played to the oppo-
 nent's weaker return side.
 Effects on the Behavior
 of the Ball
-e 
+e
 On the first serve, the ball
 should travel at a high speed
 and in a flat curve (7).
-e¢ 
+e¢
 On the second serve, the ball
 should cross the net at a lower
 speed in a pronounced arc (2).
-Fig. 85 
+Fig. 85
 Aiming points (above).
-Fig. 86 
+Fig. 86
 Ball flight (below).
 103
 Technique
@@ -8101,7 +8017,7 @@ the contact point.
 At contact, the shoulder of
 the striking arm is as high
 as possible. The arm is com-
-pletely straight. The left foot, 
+pletely straight. The left foot,
 ©
 right shoulder, and right
 hand are perpendicular to
@@ -8113,7 +8029,7 @@ e After contact, the right forearm
 rotates farther inward (prona-
 tion) and swings to the right
 (illustrations 12 and 13).
-e 
+e
 Because of the great accelera-
 tion of the racket in the main
 action and the pronation of
@@ -8138,7 +8054,7 @@ Possible Variations and
 Their Advantages and
 Disadvantages
 Backswing
-e 
+e
 Differences occur in how the
 ball toss and the movement of
 the racket are coordinated:
@@ -8285,37 +8201,37 @@ the contact point means that
 the ideal speed was not achieved
 at contact.
 Serve
-Fig. 88 
-Drawing the upper arm in 
-Fig. 89 
-Straightening the body 
-Fig. 90 
+Fig. 88
+Drawing the upper arm in
+Fig. 89
+Straightening the body
+Fig. 90
 Straightening the elbow
-toward the torso. 
-too early. 
+toward the torso.
+too early.
 and using the wrist too early.
-Fig. 91 
-Planting the right foot 
-Fig. 
+Fig. 91
+Planting the right foot
+Fig.
 92. Thrusting the pelvis rearward
-too early. 
+too early.
 upon contact.
 107
 Technique
 Straight Lob—Forehand and Backhand
-a 
+a
 SY ITS
 Straight Lob—
 Forehand and
 Backhand
-¢ 
+¢
 Sometimes the straight lob—
 particularly at great height—is
 hit to break-the opponent's
 rhythm or to break free from
 pressure applied by the
 opponent.
-e 
+e
 l|tcan also be used as a response
 to being lobbed over by the
 opponent after the player has
@@ -8336,7 +8252,7 @@ Effects on the Behavior
 of the Ball
 e The ball should travel without
 much topspin or backspin.
-e 
+e
 In playing over the opponent,
 the ball should fly neither too
 low, thereby avoiding a smash
@@ -8350,24 +8266,24 @@ return, nor too high. Otherwise,
 the opponent will have enough
 time to run back to make the
 return.
-to the baseline, where the 
-Fig.93 
-Aiming points. 
+to the baseline, where the
+Fig.93
+Aiming points.
 As a defensive move, the ball
-opponent cannot get to it or can 
+opponent cannot get to it or can
 should be hit very high and
-make a return only with great 
+make a return only with great
 fall as vertically as possible
-difficulty. The lob is played 
+difficulty. The lob is played
 to create difficulties for the
-especially when the opponent 
+especially when the opponent
 opponent.
 does not smash well, is close to
 the net, is running forward at
 high speed, or is facing the sun.
 The ball should be hit so that
-the opponent running to or 
-Fig.94 
+the opponent running to or
+Fig.94
 Flight of ball.
 standing near the net finds
 hitting a smash very difficult,
@@ -8388,7 +8304,7 @@ trajectory? What are these
 techniques used for?
 Features of the Main Action
 Within the Stroke Phase
-e 
+e
 The racket is swung with an open
 face in a forward and upward
 direction (illustrations 7-9).
@@ -8397,7 +8313,7 @@ possible in the direction of the
 shot (illustrations 7-9) to
 achieve great accuracy, dis-
 tance, and safety.
-¢ 
+¢
 In comparison with the
 ground shot, the racket is
 swung with less acceleration
@@ -8413,7 +8329,7 @@ assumes a position that corre-
 sponds to the desired depar-
 ture speed to create the great-
 est degree of accuracy.
-e 
+e
 Upon contact, the grip tightens
 and the wrist is held firmly for
 a brief instant to provide resis-
@@ -8426,7 +8342,7 @@ hand grip (or with a backhand
 grip for a straight backhand
 lob) so the ball can be hit far
 enough from the body.
-e 
+e
 For a backhand lob, the left
 hand guides the racket back
 by its throat; this stabilizes
@@ -8465,7 +8381,7 @@ be greater than shoulder
 width apart to maintain
 balance.
 110
-ee 
+ee
 ee a
 Pe
 e To support the upward move-
@@ -8527,7 +8443,7 @@ for example, then the take
 back should approximate the
 backswing for a ground shot.
 Stroke Phase
-¢ 
+¢
 In many situations, the stroke
 is accomplished by /eaning
 back with the upper body.
@@ -8578,14 +8494,14 @@ too early by checking the
 movement of the racket has
 a very detrimental effect on
 ball control.
-Fig.96 
+Fig.96
 Failure to lower the racket
 head.
 e Checking the movement right
 after contact indicates that the
 swing and the ball control were
 defective.
-Fig.97 
+Fig.97
 Straightening the legs too
 soon.
 Smash
@@ -8602,11 +8518,11 @@ What is the ball trajectory like?
 Effects on Behavior of the Ball
 e The ball can travel at very high
 speed and with very little spin.
-e 
+e
 Instead, it can travel more slowly
 and with a little more spin.
 Situations and Positions
-e 
+e
 Usually the smash is hit in
 midcourt (between the net
 and about 3 feet [1 m] behind
@@ -8622,12 +8538,12 @@ be smashed in such a way
 (that is, hard and well placed)
 that the opponent cannot
 get to it.
-Fig.98 
+Fig.98
 Aiming points.
-Fig. 99 
+Fig. 99
 Ball flight.
-4 
-. 
+4
+.
 113
 Technique
 Fig. 100
@@ -8647,7 +8563,7 @@ of the head (illustration 9); at
 contact, the racket face tilts
 slightly forward to send the
 ball in the desired direction.
-e 
+e
 By pronating the arm just
 before contacting the ball, the
 racket face is turned at a right
@@ -8679,7 +8595,7 @@ also helps in tipping the axis of
 the shoulders to the rear (illus-
 trations 2 and 3).
 Stroke Phase
-e 
+e
 During the stroke, the upper
 body turns in the direction of
 the shot; the right shoulder
@@ -8746,11 +8662,11 @@ behind their back as far as with
 a serve; this can result in of hit-
 ting the ball less accurately.
 Follow-through
-¢ 
+¢
 Sometimes the racket is swung
 past the body to the left side as
 with a serve.
-¢ 
+¢
 Hitting using only the arm,
 without involving the body,
 116
@@ -8761,14 +8677,14 @@ upper body would remain
 behind the contact point.
 Common Flaws and Mistakes
 Backswing
-e 
+e
 Using a forehand grip makes
 hitting the ball at the highest
 point impossible.
 ¢ Failure to rotate the upper body
 means the acceleration path is
 not set up properly.
-@ 
+@
 Failure to move up in order
 to get under the ball for a
 short lob means the contact
@@ -8782,7 +8698,7 @@ e Straightening the body too
 early means that the ball will
 not be hit at the best contact
 point.
-Fig. 102 
+Fig. 102
 Hitting the ball above the
 shoulder and to the side.
 Stroke Phase
@@ -8791,7 +8707,7 @@ arm causes the ball to be hit
 with a restricted swing motion
 and not at the highest possible
 point (see fig. 101).
-e 
+e
 \f the racket follows the direc-
 tion of the shot at an angle,
 this gives the ball lots of spin
@@ -8845,27 +8761,27 @@ returns (7).
 called for since even at high
 racket speeds, the ball is likely
 to land in bounds because of
-its trajectory. 
-Fig. 103 
+its trajectory.
+Fig. 103
 Aiming points.
 © A long topspin shot often
 puts exceptional pressure
 onto an opponent. Since the
-ball bounces relatively high 
-Fig. 104 
+ball bounces relatively high
+Fig. 104
 Trajectory.
-and fast, the opponent is 
-= 
+and fast, the opponent is
+=
 oe
 forced far behind the baseline.
 If the opponent stays at the
 baseline, the ball has to be
 hit on the upward bounce
 or as a half volley, and that
-requires lots of experience 
+requires lots of experience
 :
-to execute successfully. 
-a 
+to execute successfully.
+a
 oe
 Effects on the Behavior
 of the Ball
@@ -8993,7 +8909,7 @@ grip is used, the more open
 the position. The more the
 body is used, the more the
 ball should be hit cross court
-( 
+(
 119
 Technique
 and the more the shot is
@@ -9041,7 +8957,7 @@ the right shoulder. This topspin
 is usually employed with a low
 contact point.
 Topspin—Forehand
-Fig. 106 
+Fig. 106
 Too little upper-body
 rotation.
 Common Flaws and Mistakes
@@ -9058,7 +8974,7 @@ and bending the right leg
 more difficult and interferes
 with upper-body rotation in
 the stroke phase.
-Fig. 107 
+Fig. 107
 Exaggerated lateral stroke
 position.
 Stroke Phase
@@ -9081,7 +8997,7 @@ too high and too short.
 especially at the end of the
 racket, gives the ball too little
 topspin and velocity.
-Fig. 108 
+Fig. 108
 Hitting from the shoulder.
 @ Hitting the ball using a move-
 ment from only the shoulder
@@ -9122,7 +9038,7 @@ racket face is at a right angle
 to the shot (illustration 9) in
 the interest of efficient energy
 transfer.
-AZ 
+AZ
 2
 © Just before contact, the wrist
 is placed into a position that
@@ -9148,7 +9064,7 @@ back by its throat (illustrations
 transition to the stroke move-
 ment.
 @ The upper body turns sharply
-~ 
+~
 to the rear so that the right
 half of the back points to the
 net (illustration 5). The tensing
@@ -9273,12 +9189,12 @@ movements that make up the
 stroke.
 The racket arm straightens
 before making contact.
-Fig. 110 
+Fig. 110
 Failure to lower the racket
 head and premature straightening of
 the right leg.
 Topspin—Backhand
-© 
+©
 |f the lateral position is not
 held long enough, the entire
 body rotates with the stroke
@@ -9315,7 +9231,7 @@ features:
 @ The racket is held with both
 hands in a forehand grip (often
 in an extreme forehand grip).
-@ 
+@
 In comparison with the one-
 handed shot, the racket head is
 often brought lower in the
@@ -9382,9 +9298,9 @@ nent's rhythm. Balls nearly out of
 reach or that can be hit only
 under duress can be hit fairly
 safely and accurately with a slice.
-Fig. 111 
+Fig. 111
 Aiming points.
-Fig. 112 
+Fig. 112
 Ball trajectory.
 Slice
 © Shots from the opponent that
@@ -9398,7 +9314,7 @@ ably as it rises;
 relatively slow stroke;
 — the controlled stroke and
 the body movements blend
-together well and provide a 
+together well and provide a
 »
 smooth transition into a run
 forward;
@@ -9447,18 +9363,18 @@ apart to maintain balance.
 Stroke Phase
 @ The transition from the back-
 Within the Stroke Phase
-@ The racket moves in a shallow 
+@ The racket moves in a shallow
 Features of Supporting
-arc from above and behind to 
-Actions 
+arc from above and behind to
+Actions
 swing to the stroke movement
-below and in front (illustrations 
+below and in front (illustrations
 directed forward and down
-6-8) to create backspin. 
-Backswing 
+6-8) to create backspin.
+Backswing
 follows a shallow arc in a fluid
-®@ The racket is accelerated 
-® For a forehand slice, the racket 
+®@ The racket is accelerated
+® For a forehand slice, the racket
 movement (illustrations 3-5).
 slightly up to the contact point
 to create the necessary racket
@@ -9564,7 +9480,7 @@ the follow-through.
 through can be so short forward
 and upward that it is scarcely
 visible.
-® 
+®
 In certain situations (for example,
 returning a slow serve or a
 short cross passing shot), the
@@ -9609,7 +9525,7 @@ turned in the direction of
 the shot, and the contact
 point is in front of the body.
 Slice—Forehand
-Fig. 114 
+Fig. 114
 Failure to bend knee of
 forward leg.
 Failure to maintain lateral
@@ -9628,7 +9544,7 @@ near or too far from the body
 means the ball is given too little
 speed and spin, and control is
 greatly reduced.
-Fig. 115 
+Fig. 115
 Very open racket face at
 contact.
 Follow-through
@@ -9739,7 +9655,7 @@ up to and through the contact
 point (illustrations 7-12) for
 the best possible ball control.
 Follow-through
-® 
+®
 In the follow-through, the
 racket is swung forward and
 downward (illustrations 11 and
@@ -9815,9 +9731,9 @@ back permits a controlled
 133
 Technique
 Slice—Backhand
-ee 
-ee na 
-ean I a ee EE 
+ee
+ee na
+ean I a ee EE
 ed
 stroke. With a later backswing,
 the transition from take back to
@@ -9900,7 +9816,7 @@ causes the momentum of the
 stroke and control to not be
 what they should.
 136
-Fig. 117 
+Fig. 117
 Failure to straighten the arm.
 © Hitting the ball too late, too
 close to, or too far from the
@@ -9913,7 +9829,7 @@ direction of the shot is evi-
 dence that the ball has picked
 up more sidespin than back-
 spin.
-Fig. 118 
+Fig. 118
 Follow-through low and to
 the right.
 © Failure to end the follow-
@@ -9921,7 +9837,7 @@ through forward and upward
 means the movement is
 checked strongly. To bring the
 shot under control, the wrist is
-often bent forward so that the 
+often bent forward so that the
 ~
 back of the hand points in the
 direction of the shot, and the
@@ -9959,7 +9875,7 @@ the opponent from getting to
 it. At least, this should force a
 very low contact point just
 before the second bounce.
-© 
+©
 |f the opponent plays a drop
 shot, the player can score a
 direct point with a counterdrop
@@ -9972,9 +9888,9 @@ spin.
 @ The ball may fly in such a way
 that it drops steeply right behind
 the net.
-Fig. 119 
+Fig. 119
 Aiming points (/eft).
-Fig. 120 
+Fig. 120
 Ball trajectory (below).
 137
 Technique
@@ -9995,7 +9911,7 @@ What does the player do in a
 forehand or backhand drop
 shot to achieve the desired
 are kept greater than hip width
-Features of Supporting 
+Features of Supporting
 apart to maintain balance.
 Actions
 ball trajectory? What is this
@@ -10005,7 +9921,7 @@ Stroke Phase
 closer to the net is bent at the
 Backswing
 © For a forehand drop shot, the
-Features of the Main Action 
+Features of the Main Action
 racket is held with a forehand
 Within the Stroke Phase
 The racket moves from high
@@ -10143,8 +10059,8 @@ the racket face is in a good
 position at the contact point.
 139
 Technique
-a 
-a a 
+a
+a a
 SSE
 EE
 Common Faults and Mistakes
@@ -10175,7 +10091,7 @@ desired backspin but flies too
 high. Control over the length of
 the ball flight is usually lacking.
 Drop Shot—Forehand and Backhand
-Fig. 122 
+Fig. 122
 Opening up the racket face
 too much before contacting the ball.
 © A stroke that carries too. much
@@ -10247,9 +10163,9 @@ Effects on Behavior of the Ball
 © The ball should be slow.
 @ The ball should not fly too high
 over the net.
-Fig. 123 
+Fig. 123
 Aiming points (/eft).
-Fig. 124 
+Fig. 124
 Ball trajectory (below).
 143
 Technique
@@ -10268,7 +10184,7 @@ forward and downward direc-
 tion creates backspin.
 @ The racket moves at very low
 speed to stop the oncoming
-ball. 
+ball.
 ;
 © The contact point is in front of
 the body (illustration 3); at
@@ -10338,7 +10254,7 @@ is thus closer to the body, and
 that may lead to better ball
 control.
 Drop Volley—Forehand and Backhand
-© 
+©
 The forward and downward
 movement of the racket may
 be eliminated. The racket is
@@ -10358,7 +10274,7 @@ drop shot is canceled by its
 flight in a direction away from
 the opponent.
 Follow-through
-©@ 
+©@
 The nature of the follow-
 through depends on how far
 the racket is moved forward
@@ -10391,8 +10307,8 @@ high.
 145
 Technique
 Half Volley
-A 
-SE 
+A
+SE
 PERT pe Se
 Half Volley
 an uneven court surface, the ball
@@ -10435,9 +10351,9 @@ moving backward.
 and speed of a bouncing ball
 are difficult to predict because
 of topspin, sidespin, wind, and
-Fig. 126 
+Fig. 126
 Aiming points (/eft).
-Fig. 127 
+Fig. 127
 Ball flight (be/ow).
 The ball is played as a half
 volley right after it bounces
@@ -10572,7 +10488,7 @@ follow-through is forward
 and high in the direction of
 the shot.
 With a half volley at net
-height and a topspin half. 
+height and a topspin half.
 ,
 volley, the follow-through
 is sharply forward and
@@ -10601,7 +10517,7 @@ ball close to the court surface.
 This adversely affects weight
 shift and energy transfer.
 150
-Fig.129 
+Fig.129
 Straightening the forward
 leg too soon and pointing the racket
 head downward.
@@ -10613,7 +10529,7 @@ words, the ball cannot be hit
 just above the court surface,
 and shot control is reduced.
 Follow-through
-@ 
+@
 If the follow-through is com-
 pletely suppressed, shot control
 suffers greatly.
@@ -10656,7 +10572,7 @@ a solid stance and is coming in
 fairly slowly and not too flat (as
 in a weak attack by the oppo-
 nent), a forehand topspin lob is
-the best choice. It puts a lot 
+the best choice. It puts a lot
 of
 speed onto the ball and sends it
 back into the opponent's court
@@ -10695,7 +10611,7 @@ of the Ball
 The slice lob should be hit with
 backspin, the topspin lob with
 strong topspin.
-© 
+©
 For playing over the opponent,
 the ball should be hit neither
 too low nor too high. In the
@@ -10709,7 +10625,7 @@ player out of a jam or that is
 difficult to smash—especially
 into the sun—the ball should be
 hit as high as possible.
-Fig. 130 
+Fig. 130
 Aiming points (/eft).
 Ball trajectory (below).
 151
@@ -10758,7 +10674,7 @@ ing the upper body rearward
 (farther for a backhand than
 for a forehand shot); the racket
 is brought back in a flat arc.
-© 
+©
 |n the transition to the stroke
 phase, the racket face is open
 so it will be in the right position
@@ -10816,7 +10732,7 @@ The arm can be bent to varying
 degrees in a backhand slice lob.
 Slice Lob
 Stroke Phase
-© 
+©
 |n a competitive situation, if a
 player wants to deceive the
 opponent into expecting a
@@ -10896,7 +10812,7 @@ is this technique used for?
 Features of the Main Action
 Within the Stroke Phase
 The racket is swung: forward
-and steeply upward to hit the 
+and steeply upward to hit the
 ‘
 ball (illustrations 5-7). to create
 the steep angle of departure.
@@ -10951,7 +10867,7 @@ right leg carries the weight in a
 forehand and a backhand top-
 spin lob (illustration 2).
 Stroke Phase
-@ 
+@
 |n the transition to the stroke
 phase, the racket head is
 brought far below the antici-
@@ -10975,7 +10891,7 @@ conjunction with the stroke
 motion. The racket is swung
 upward and slightly forward in
 the interest of optimal energy
-transfer 
+transfer
 and the desired
 trajectory.
 In a backhand topspin lob, the
@@ -10983,7 +10899,7 @@ body weight shifts to the for-
 ward leg. Upper body twist is
 minimal. The lateral position of
 the feet and the body is main-
-tained up to the moment 
+tained up to the moment
 of
 contact to provide the best pos-
 sible shot control and accuracy.
@@ -11062,7 +10978,7 @@ spin.
 (fig. 135) restricts the length of
 the backswing and the even-
 tual speed of the racket.
-®@ 
+®@
 Keeping the legs too straight
 likewise interferes with coordi-
 nation and racket acceleration.
@@ -11096,7 +11012,7 @@ fluid motion is a sign that the
 swing was slowed before hit-
 ting the ball or was inadequate
 at its beginning.
-Fig. 135 
+Fig. 135
 Too little upper-body
 rotation in the backswing.
 Follow through
@@ -11114,7 +11030,7 @@ Situations and Positions
 © The jump smash is usually hit in
 front of or behind the service
 line at midcourt on a very good
-lob by the opponent. 
+lob by the opponent.
 ;
 Tactical Goals
 © Along, fairly flat lob that can
@@ -11137,9 +11053,9 @@ of the Ball
 speed and with minimal spin.
 @ The ball may travel fairly slowly
 and with a little more spin.
-Fig. 136 
+Fig. 136
 Aiming points (/eft).
-Fig. 137 
+Fig. 137
 Ball trajectory (below).
 159
 Technique
@@ -11301,10 +11217,10 @@ By misjudging the height of the
 jump, the ideal contact point
 cannot be achieved.
 The takeoff leg (the left in this
-case) points to the front, and the 
+case) points to the front, and the
 ~
 other leg is used for the landing.
-Fig. 139 
+Fig. 139
 Landing on the right foot
 (takeoff foot) after a smash.
 Jumping too early or too late is
@@ -11335,8 +11251,8 @@ insufficient force.
 163
 Technique
 Backhand Smash
-a 
-ETI 
+a
+ETI
 ETI ST BIT
 Backhand
 Smash
@@ -11388,9 +11304,9 @@ a difficult situation since the
 opponent might have an
 opportunity to set up an -
 attack.
-Fig. 140 
+Fig. 140
 Aiming points.
-Fig. 141 
+Fig. 141
 Ball trajectory.
 165
 Technique
@@ -11398,11 +11314,11 @@ Fig. 142
 Backhand
 Features of the Supporting
 Body weight is shifted onto the
-Actions 
+Actions
 left (rear) leg (illustrations 1-4).
-Smash 
+Smash
 @ |n the second part of the back-
-Backswing 
+Backswing
 swing, the player jumps off the
 What does the player do in
 a backhand smash to achieve
@@ -11429,23 +11345,23 @@ the racket all the way to the
 lowest point of the loop to
 support and stabilize the back-
 swing (illustrations 1-5).
-© The racket head is accelerated in 
+© The racket head is accelerated in
 (illustrations 1-4).
-a sharply forward and upward 
+a sharply forward and upward
 © The elbow rises so high that
-direction (illustrations 7-9). 
+direction (illustrations 7-9).
 the racket points straight down
-© At the start of the main action, 
+© At the start of the main action,
 (illustrations 5 and 6).
-the racket face is nearly at a 
+the racket face is nearly at a
 © The upper body leans back so
-right angle to the shot direc- 
+right angle to the shot direc-
 that the hitting shoulder moves
-tion (illustration 9) so that the 
+tion (illustration 9) so that the
 upward and the axis of the
-racket can be swung under 
+racket can be swung under
 shoulders points sharply upward
-control in this position right 
+control in this position right
 (illustrations 4-6). This is a
 Stroke Phase
 © The arm straightens as part
@@ -11455,14 +11371,14 @@ the shoulder, then the elbow
 the wrist (illustrations 9 and
 10). The arm and upper body
 are completely extended at
-up to the contact point. 
-prerequisite for hitting the 
+up to the contact point.
+prerequisite for hitting the
 contact (between illustrations
-© At contact, the racket face is 
-ball at the desired high point 
+© At contact, the racket face is
+ball at the desired high point
 9 and 10).
-inclined slightly forward (illus- 
-in the stroke. 
+inclined slightly forward (illus-
+in the stroke.
 © The back continues to point
 tration 10) to give the ball the
 desired trajectory.
@@ -11561,12 +11477,12 @@ o
 ©
 =
 Backhand Smash
-a 
-as nn 
-re ns PO a 
-ne ee 
+a
+as nn
+re ns PO a
+ne ee
 eee
-Common Flaws and Mistakes 
+Common Flaws and Mistakes
 e |f rotating the upper body in the
 Backswing
 Inadequate rearward upper-
@@ -11588,7 +11504,7 @@ arm and body (fig. 143) means
 the ball is hit with reduced force
 and below the highest-possible
 point.
-Fig. 143 
+Fig. 143
 Hitting the ball with a bent
 arm.
 direction of the shot, during the
@@ -11605,7 +11521,7 @@ main action means the racket
 moves too slowly and the ball
 cannot be hit hard enough.
 Follow-through
-e@ 
+e@
 Turning the upper body to face
 the direction of the shot is a
 sign that the upper body has
@@ -11645,13 +11561,13 @@ that the stage is set either
 for a mistake on the return
 or for a direct point by the
 server on the next hit.
-Fig. 145 
+Fig. 145
 Ball trajectory
 (SI = slice; T = twist).
 © Aslice service from the right to
 the opponent's forehand side
 should be played in such a way
-as to force the opponent far 
+as to force the opponent far
 ~
 out of the court. The effects of
 sidespin on a bouncing slice
@@ -11684,9 +11600,9 @@ net in a higher and more curv-
 ing arc.
 WA
 Technique
-. 
+.
 Fig. 146 Slice service.
-Fig 147 
+Fig 147
 Twist service.
 Service—Slice and
 Twist (Kick)
@@ -11859,8 +11775,8 @@ the follow-through, the wrist
 turns forward and to the right
 (pronation, see illustrations 14
 and 15).
-¢ 
-Ina 
+¢
+Ina
 slice service, the upper
 body follows the ball in the
 direction of the shot (illustra-
@@ -11943,12 +11859,12 @@ turning the hip too early in
 placing the foot and making
 sure the foot does not touch
 or step over the baseline.
-Fig. 148 
+Fig. 148
 Direction of the toss for a
 twist (above) and a slice (below).
 Service—Slice and Twist (Kick)
 Stroke Phase
-© 
+©
 In the backswing and stroke
 phases, timing and dynamics
 usually vary among individual
@@ -11984,7 +11900,7 @@ is distributed on the left foot
 at landing.
 175
 Technique
-(© RT 
+(© RT
 R
 ,
 Common Flaws and Mistakes
@@ -12015,9 +11931,9 @@ Straightening the arm too
 early (long before making
 contact) greatly interferes
 with acceleration.
-Stroke Phase 
+Stroke Phase
 © Advancing the right foot too
-© Interrupting the flow of the 
+© Interrupting the flow of the
 early in the direction of the
 the torso by bending the elbow
 interferes with the flow of
@@ -12067,7 +11983,7 @@ advancing the right leg too
 soon in a twist serve greatly
 reduce shot control.
 Individualized
-Technique in 
+Technique in
 |
 Championship
 Tennis
@@ -12103,7 +12019,7 @@ able to combine fast running,
 high-speed shots, superb accu-
 racy, and economy of movement.
 Individualized Technique in Championship Tennis
-TE 
+TE
 EL
 This is what allows them to focus
 on the essentials. An observer
@@ -12219,9 +12135,9 @@ for forehand topspin, 118-121
 for forehand volley, 94-95, 97
 for half volley, 148-150
 for jump smash, 160-161, 163
-for kick serve, 173-176 
+for kick serve, 173-176
 ~
-for lob, 110-112 
+for lob, 110-112
 »
 for serve, 105-106
 for slice and twist serve, 173-176
@@ -12245,7 +12161,7 @@ with no spin, 44-45, 48
 oncoming, 50-51
 with sidespin, 47, 49
 with topspin, 46, 48
-trajectory of, 
+trajectory of,
 11-12, 43
 Baseline play:
 positioning for, 60
@@ -12282,7 +12198,7 @@ Drop shot:
 tactics for, 66, 137
 technique, 137-141
 Drop volley, 143-145
-Extreme forehand grip, 34-36 
+Extreme forehand grip, 34-36
 ~
 Footwork, 12-17
 Forehand grip, 34, 36
@@ -12312,10 +12228,10 @@ Intuitive thought, 54
 Jump smash, 159-161, 163
 Kick serve, 171-176
 Lob:
-backswing, 
+backswing,
 110-112
 slice, 151-154
-stroke phase, 
+stroke phase,
 110-112
 tactical goals of, 109
 tactics for, 66
@@ -12342,7 +12258,7 @@ for service, 68
 for service to center service
 line, 68
 for service to sideline, 68
-rr 
+rr
 eee
 178
 Index
@@ -12376,7 +12292,7 @@ Semicontinental grip, 35-36
 Serve:
 backswing for, 38, 105-106
 first, 73, 75
-kick, 
+kick,
 171-176
 net play, 68
 slice and twist, 63, 171-176
@@ -12393,7 +12309,7 @@ offensive, 58
 Sidespin, 47, 49
 Sideways running, 16-17
 Slice:
-backhand, 
+backhand,
 132-136
 forehand, 128-131
 grip for, 36
@@ -12427,7 +12343,7 @@ individual, 55-56
 for offensive shots, 58
 overriding goals, 55
 quality, 56-58
-technique, 
+technique,
 113-116
 Sport-specific intelligence, 54
 Starting stance, 14, 59
@@ -12451,13 +12367,13 @@ for drop volley, 143-145
 for forehand ground stroke,
 81, 83
 for forehand slice, 128-131
-for forehand topspin, 
+for forehand topspin,
 118-121
 for forehand volley, 94-95, 97
 for half volley, 148-150
 for jump smash, 160-161, 163
 for kick serve, 172-176
-for lob, 
+for lob,
 110-112
 for serve, 104-106
 for slice and twist serve,
@@ -12479,7 +12395,7 @@ specific shot technique
 Topspin:
 backhand, 122-125
 ball trajectory with, 46, 48
-forehand, 
+forehand,
 118-121
 grip for, 36
 lob, 151, 156-158
@@ -12500,7 +12416,7 @@ half, 147-150
 positioning for, 60, 93
 stroke phase, 39
 tactics, 93
-Wind, 62 
+Wind, 62
 —
 Wrist action, 30-34, 17
 179
@@ -12511,28 +12427,30 @@ Atlanta-Fulton Public Library
 TENNIS COURSE + VOLUME 1
 Techniques and Tactics
 For beginning
-tennis players, trainers, tennis 
+tennis players, trainers, tennis
 instructors, and
-those looking to improve their tennis 
+those looking to improve their tennis
 game on their own,
 this extensively illustrated tennis course offers solid instruction,
-advice from experts, and a thorough 
+advice from experts, and a thorough
 review of tennis technique
 and theory.
 |
 .
-second volume 
+second volume
 to present advanced instruction for seria
-trainers and instructors 
+trainers and instructors
 of both amateurs and buda
 amateurs, as well as for
 professionals.
-Each of the two volumes presents 
-detailed textual instruction, complemented by 
+Each of the two volumes presents
+detailed textual instruction, complemented by
 more
 than 50 full-color action photos, and more than 100 drawings, diagrams, and charts
-demonstrating body movement, 
+demonstrating body movement,
 racket strokes, ball placement, and more.
 Tennis Course, Volume 1 — Techniques and Tactics
-Tennis Course, Volume 
+Tennis Course, Volume
 2 — Lessons and Training
+
+```
