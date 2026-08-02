@@ -23,7 +23,6 @@ Total Articles: 63
 - [Forehand Made Easy](forehand-made-easy.md)
 - [Gunther Bresnik](gunther-bresnik.md)
 - [Hardcourt Confidential Excerpt](hardcourt-confidential-excerpt.md)
-- [How I Developed Guga](how-i-developed-guga.md)
 - [How you can play better doubles in tennis ](how-you-can-play-better-doubles-in-tennis.md)
 - [Learning from the Pros](learning-from-the-pros.md)
 - [Learning to play](learning-to-play.md)
@@ -73,4 +72,3 @@ Total Articles: 63
 - [What is a Tour Coach](what-is-a-tour-coach.md)
 - [What is the modern forhand](what-is-the-modern-forhand.md)
 - [What's Tennis Con](what-s-tennis-con.md)
-- [Working in with pro  players](working-in-with-pro-players.md)
