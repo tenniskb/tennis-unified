@@ -398,7 +398,7 @@ the required stability and on
 the actions that will follow the
 stroke (especially running);
 in imparting the desired speed
-to the ball, it’s helpful to make
+to the ball, it's helpful to make
 contact at the right distance in
 front of and to the side of the
 body; in the case of a forehand
@@ -557,7 +557,7 @@ An individualized style using a nearly
 straight arm in the backswing for a
 backhand slice.
 ways. This leads to the conclu-
-sion that these players’ main
+sion that these players' main
 actions are practically perfect
 (and almost always effective)
 and that it's their supporting
@@ -648,11 +648,11 @@ backhand return. In contrast
 with the recommendations
 commonly found in existing
 instructionals, which specify a
-“classical” forward and down-
+"classical" forward and down-
 ward (slice) movement in a
 volley, Agassi often uses a
 forehand topspin volley. This
-is not imply that Agassi’s delivery
+is not imply that Agassi's delivery
 should be considered wrong
 according to the instructionals.
 Rather, the reader must take
@@ -727,7 +727,7 @@ good reactions, great coordina-
 tion, and the necessary muscular
 development.
 The foregoing move is so far
-removed from “normal” tennis
+removed from "normal" tennis
 that it may never appear in any
 tennis instructional. (See also
 the photo on page 41.)
@@ -735,7 +735,7 @@ Agassi and Becker apply their
 particular moves in the best way
 possible from a functional and
 individual viewpoint.
-Example 2: Children’s Tennis
+Example 2: Children's Tennis
 Children obviously have
 different physical characteristics
 than adults. For example, they
@@ -1621,7 +1621,7 @@ low contact points at knee level
 or below (see photo on p. 33).
 Fig.17 
 Side distance from ball in back-
-“hand baseline shot (straight arm).
+"hand baseline shot (straight arm).
 
 <hr>
 
@@ -2311,7 +2311,7 @@ air and bounces on the surface
 of the court.
 The following explains how
 the stroke movement acts on the
-ball and on the ball’s trajectory,
+ball and on the ball's trajectory,
 and how the ball behaves in
 a bounce. At the outset, this
 presentation does not mention
@@ -2325,7 +2325,7 @@ Key to Subsequent Illustrations
 S: Midpoint of ball
 V.: Racket speed
 Factors Affecting
-the Ball’s Trajectory
+the Ball's Trajectory
 and Bounce
 The following criteria determine
 the trajectory of a ball:
@@ -2338,7 +2338,7 @@ to the side);
 © gravity.
 Bounce characteristics are a
 product of:
-@ the ball’s velocity at contact
+@ the ball's velocity at contact
 with the surface of the court;
 V,: Speed of ball after contact
 V,: Speed of ball before bouncing onto court surface
@@ -2356,7 +2356,7 @@ Q: Diagonal (Magnus) force on the rotating ball
 L: Relative air currents
 @ the angle at which it bounces
 onto the court surface;
-@ the ball’s spin; and
+@ the ball's spin; and
 © the makeup of the surface
 (cinders, synthetics, grass,
 and so forth).

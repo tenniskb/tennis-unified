@@ -336,7 +336,7 @@ complete at least one match per
 day. International tournaments
 usually last 
 a week, with the
-“Grand Slam" running for two
+"Grand Slam" running for two
 weeks. But there are also three-
 day events (Friday through
 Sunday), in which a competitor
@@ -408,7 +408,7 @@ major factor favoring tennis is that
 it does not require a high level of
 organization. Compared with
 many other sports, one can pursue
-tennis as a hobby to fit one’s
+tennis as a hobby to fit one's
 schedule relatively flexibly, since
 the only necessity is a partner.
 These features of tennis—its
@@ -562,12 +562,12 @@ these and other questions.
 The methodology of tennis
 instruction is teaching the
 teaching-and-learning process
-(methods), the “how" of
+(methods), the "how" of
 formulating educational teaching-
 and-learning processes. General
 methodology deals with common
 aspects of all types of sports, for
-example, the principle of “from
+example, the principle of "from
 easy to difficult," whereas specific
 methodology tries to transfer the
 knowledge of the general
@@ -804,7 +804,7 @@ factors of the teaching situation
 these factors are treated
 individually in the next chapter.
 Before that, learning and the
-students’ individual requirements
+students' individual requirements
 will be dealt with. This will be
 followed by a description of
 general requirements for the
@@ -960,7 +960,7 @@ tactical setting of goals, players
 and trainers concentrate mostly
 on technique. Corrections
 depend on the effective and
-“correct” execution of the
+"correct" execution of the
 movement.
 Training for Tactics
 Training for tactics means using
@@ -1184,7 +1184,7 @@ he will try to change his tech-
 nique. Thus, in practice, learning
 by success occurs when the tennis
 instructor praises or criticizes
-(increased stimulus) his students’
+(increased stimulus) his students'
 execution of particular strokes or
 social behaviors (reactions).
 A further form of learning by
@@ -1201,7 +1201,7 @@ usually learned spontaneously,
 using incremental steps.
 At any rate, the area of
 application of shaping (and that
-of the “simple” learning by
+of the "simple" learning by
 success) is limited to simple
 learning processes. It can hardly
 be expected that the complex
@@ -1283,14 +1283,14 @@ results in instruction in which
 frequent explanations of
 movement allow for quicker and
 more goal-oriented learning.
-Learning as an “Internal
+Learning as an "Internal
 Game"
 Lately it has been recommended
 that learning be based not so
 much on success using models,
 with the help of cognitive
 processes, but rather on processes
-of experience—feeling and “just
+of experience—feeling and "just
 doing it." From this, one can see
 that thoughts (for example, on
 the individual parts of the
@@ -1299,7 +1299,7 @@ nothing to do with the lesson)
 disturb the movement sequence
 and should therefore be
 eliminated. One should
-concentrate rather on the “here
+concentrate rather on the "here
 and now." It is assumed that the
 connection between perception
 and action should be experienced
@@ -1312,7 +1312,7 @@ sequence should be experienced
 as a whole. An important
 characteristic of this type of
 learning, practicing, and playing is
-“letting it happen.”
+"letting it happen."
 Phases of Learning
 Athletic Movement
 The process of mastering athletic
@@ -1609,7 +1609,7 @@ Enthusiastic children practice their game.
 
 Basics of Tennis Instruction
 @ Coordination (see chapter
-entitled “Training
+entitled "Training
 Coordination";
 e@ Ability to acquire motor skills;
 e@ Mental abilities such as play
@@ -1948,7 +1948,7 @@ Young adults
 Years of relative maintenance of motor skills
 Middle-aged adults
 Older adults
-“Years of gradual diminution of motor skills
+"Years of gradual diminution of motor skills
 Years of accelerated diminution of motor skills
 24
 Girls app. 14-17
@@ -2026,38 +2026,38 @@ characteristics of a good tennis
 instructor, you get answers such
 as the following:
 — 
-“He can explain well.”
+"He can explain well."
 — 
-“He tosses the ball well.”
+"He tosses the ball well."
 — 
-“He can analyze and correct
-well.”
+"He can analyze and correct
+well."
 — 
-“He understands how to
+"He understands how to
 motivate me."
 — 
-"He is patient.”
+"He is patient."
 — 
-“| can trust him.”
-— “He treats everyone the same."
-Some of the students’ negative
+"| can trust him."
+— "He treats everyone the same."
+Some of the students' negative
 comments include, for example:
 — 
-“He only criticizes."
+"He only criticizes."
 — 
-"He is moody.”
+"He is moody."
 — 
-"He hardly makes an effort.”
+"He hardly makes an effort."
 — 
-“He asks too much of me.”
+"He asks too much of me."
 — 
-"He doesn't say anything at all.”
+"He doesn't say anything at all."
 — 
-“He's unfair.”
+"He's unfair."
 — 
-“He often arrives late.”
+"He often arrives late."
 — 
-“He doesn't have a plan.”
+"He doesn't have a plan."
 Prerequisites for the
 Tennis Instructor
 Such positive and negative
@@ -2167,11 +2167,11 @@ another. Such relationships
 underlie the structure of the
 group. The individual student has
 a place in this structure: for
-example, as “star,” “loner,” or
-“team player.” Many group
+example, as "star," "loner," or
+"team player." Many group
 members take on particular roles,
-such as “spokesperson,” “leader,”
-or “clown.” Regarding group
+such as "spokesperson," "leader,"
+or "clown." Regarding group
 structure, it is also important to
 know whether the group as a
 whole is homogeneous or
@@ -2231,7 +2231,7 @@ style, the activities are, for the
 most part, left up to the student.
 In a narrow sense, this teaching
 style should not be considered as
-a “leadership” style and is
+a "leadership" style and is
 unimportant in the practice of
 tennis instruction.
 In the democratic leadership style,
@@ -2479,7 +2479,7 @@ opposite service line area.
 3. Sequence of movements with
 the right arm with racket: The
 student stands in the starting
-position behind a line (“T" or
+position behind a line ("T" or
 baseline) and, with the racket
 in the right hand, using a fluid
 and rhythmic sequence, he
@@ -2518,9 +2518,9 @@ increasingly complex therefore
 represent the sequence, and
 simultaneously develop the idea
 that the play-oriented approach is
-the “fast lane" of instruction. In
+the "fast lane" of instruction. In
 this case, we still have to teach in
-the “slow lanes” and always
+the "slow lanes" and always
 technical and tactical skills (Fig. 7).
 On the other hand, the instructor
 who prefers to focus on technique
@@ -2708,7 +2708,7 @@ practiced afterward and used
 in play.
 2. If the tennis instructor teaches
 in the minicourt and uses
-beginners’ rackets and balls,
+beginners' rackets and balls,
 play-oriented procedures
 should be the preferred
 method; that is, students
@@ -2737,12 +2737,12 @@ the instruction.
 Play a lob to him.
 Task: Play the ball into the court.
 . "Try to play the ball quickly and to
-the side.”
+the side."
 . "See how Monica plays the ball—try to
-imitate her.”
+imitate her."
 . "I'll show you and explain again how
 Monica smashed."
-. “Peter, you have problems meeting
+. "Peter, you have problems meeting
 the ball well; let's do the preliminary
 exercises again... "
 Instructional
@@ -2818,7 +2818,7 @@ When and to where does one play a stop?
 Show forehand ground stroke as holistic
 movement.
 To avoid having the student be distracted by
-the ball’s trajectory.
+the ball's trajectory.
 Also demonstrate without a ball
 (dry-run).
 Show the backswing movement
@@ -2913,7 +2913,7 @@ lesson plans. In this way, one can,
 for example, tell the students who
 are practicing the ground stroke
 with the forehand that they might
-“lead” the ball with the racket in
+"lead" the ball with the racket in
 the direction of the stroke,
 although the contact between the
 ball and the strings lasts only a
@@ -2929,7 +2929,7 @@ Therefore, language in
 instruction must be oriented to:
 @ The structure of the material to
 be taught;
-@ The students’ ability to
+@ The students' ability to
 understand, depending on their
 age, intelligence, and previous
 experience.
@@ -2945,7 +2945,7 @@ visual observation. But students
 more often perceive movement
 by way of the internal perspective
 (so-called kinesthetic perception).
-They “feel” that they hit the ball
+They "feel" that they hit the ball
 Table 5 
 Demands on the language (verbal information) of the instructor
 Basic 
@@ -2984,7 +2984,7 @@ gestures
 ence of the 
 — Appropriate-
 student
-too late and “sense” that they
+too late and "sense" that they
 swung the racket too little.
 Therefore they also need from the
 instructor information that
@@ -3043,16 +3043,16 @@ Describing movements has the
 following functions:
 @ 
 |t summarizes the goal (for
-example, on serving: “the
+example, on serving: "the
 racket is increasingly
 accelerated behind the back").
 e@ 
 |t can direct the student's
 attention to what is essential
-(for example, on topspin: “Pay
+(for example, on topspin: "Pay
 attention to the steep and
 quick upward movement of
-the racket”).
+the racket").
 @ 
 |t can link with what is already
 known: ("Take the racket
@@ -3067,7 +3067,7 @@ demonstration. That means:
 @ 
 |t can bring order to the image
 of the movement (for example,
-when serving: “Your left knee
+when serving: "Your left knee
 was already extended when
 the racket face was still
 swinging downward to the
@@ -3077,11 +3077,11 @@ back").
 |t can clearly differentiate what
 is essential from what is not
 (for example, in the case of a
-topspin with forehand: “It is
+topspin with forehand: "It is
 important to swing the racket
 quickly and steeply, no matter
 in what direction and how far
-you follow through”).
+you follow through").
 Explaining
 Movements
 Explaining movements can
@@ -3222,7 +3222,7 @@ addition to coordination problems,
 there is a series of further causes:
 @ 
 Errors as a result of errors in
-judging the ball’s timing and
+judging the ball's timing and
 distance;
 ® 
 Errors as a result of
@@ -3281,11 +3281,11 @@ e Associate corrections with
 encouragement rather than
 with criticism.
 @ Do not formulate the correction
-negatively (for example, “Point
-of impact is too late”), but try
+negatively (for example, "Point
+of impact is too late"), but try
 to offer as much help as
-possible (for example, “Swing
-forward earlier”).
+possible (for example, "Swing
+forward earlier").
 @ Make corrections appropriate
 to the student, that is,
 corresponding to the level of
@@ -3309,9 +3309,9 @@ How to Correct
 The following measures can be
 taken to correct errors:
 @ Provide movement instruction
-(for example, “Stretch your
-arm when you hit the ball” or
-“Play longer at the baseline”).
+(for example, "Stretch your
+arm when you hit the ball" or
+"Play longer at the baseline").
 @ Give repeated demonstration
 of parts of the technique or the
 total movement, also using
@@ -3321,7 +3321,7 @@ the like.
 — Achieve good tactical
 solutions via appropriate
 assignment of tasks (for
-example, “Play higher” and
+example, "Play higher" and
 therefore longer).
 — 
 Simplify tasks (for example,
@@ -3410,7 +3410,7 @@ Speed,
 Frequency,
 Type of spin.
 Direction of the Toss
-The “Stationary” Ball
+The "Stationary" Ball
 The ball is dropped (Fig. 11) or
 tossed (Fig. 12) precisely vertically
 over the intended point of impact;
@@ -3418,7 +3418,7 @@ it then bounces to the height
 where its culmination point is
 situated exactly at the height of
 the point of impact; thus the ball
-“pauses” in the point of impact.
+"pauses" in the point of impact.
 Fig. 11
 impact.
 Ball is dropped from above the planned point of
@@ -3548,7 +3548,7 @@ establish ahead of time:
 @ Where the students should
 stand and practice (somewhat
 close to the net, behind the
-“T." behind the baseline,
+"T." behind the baseline,
 sometimes in front of a wall,
 etc.)—depending on the
 particular tasks assigned and
@@ -3682,7 +3682,7 @@ racket and tied to the net.
 Instructional Activities
 EF 
 ee
-‘eS Visual Aids 
+'eS Visual Aids 
 Advantages 
 Disadvantages
 Sequence of sketches 
@@ -3763,18 +3763,18 @@ on the backhand stroke
 Instructor leads the student's hitting hand on the half-volley 
 Emphasizing awareness of—and feeling for—the movement
 (Fig. 17, p. 40).
-Call: “Bend and hop!" (“Bend" for bending the knee during 
+Call: "Bend and hop!" ("Bend" for bending the knee during 
 Correcting the sequential movements of knee- and arm-extension
-the back-and-forth movement, “and” on extending the knee, 
+the back-and-forth movement, "and" on extending the knee, 
 on the serve
-and “hop” for extending the elbow.)
+and "hop" for extending the elbow.)
 Acoustic
 Aids
-Call: “and now" 
+Call: "and now" 
 Supporting the beginning of the forward swing, in order to
 meet the ball at the right time
 Have the student do footwork at the same time. 
-Imitating the instructor's example (“shadowing”)
+Imitating the instructor's example ("shadowing")
 Student begins the backswing movement when the 
 Supporting correct timing
 instructor's racket moves forward to play the ball to him.
@@ -3956,8 +3956,8 @@ the instructor;
 @ Variability: switching partners
 and tasks;
 e@ Functionality: assigning specific
-tasks such as ball tosser, “ball
-retriever,” and referee;
+tasks such as ball tosser, "ball
+retriever," and referee;
 e@ Appropriateness: forms of play
 and practice appropriate for the
 students, as well as varied
@@ -4095,7 +4095,7 @@ requirements
 an
 Analysis of the state of
 tennis instruction
-‘
+'
 General and tennis-specific
 requirements for the students
 Overall 
@@ -4418,7 +4418,7 @@ At the End of the Lesson
 @ Finish on time, if possible
 without abruptly breaking off
 the last exercise.
-@ Give “homework”: What
+@ Give "homework": What
 should be practiced for next
 time?
 @ 
@@ -4427,7 +4427,7 @@ positive experience.
 @ Finish with a short review and
 preview of the next lesson.
 Table 10 
-Excerpt from a detailed instructional outline for “Introduction to the forehand ground shot”
+Excerpt from a detailed instructional outline for "Introduction to the forehand ground shot"
 Play a 
 TOM
 stationary ball
@@ -4444,7 +4444,7 @@ of errors
 progress
 Newspaper as goal | Groups of two
 Meet the ball at
-the “T" behind
+the "T" behind
 the net
 Racket should not
 be forward and
@@ -4575,7 +4575,7 @@ three basic types of strokes is
 completely open because it
 represents an elementary unit in
 teaching beginners. Organiza-
-tionally, “team teaching” in which
+tionally, "team teaching" in which
 the students are also sometimes
 used as auxiliary instructors, ball
 throwers, and judges should be
@@ -4619,7 +4619,7 @@ ing ball is first played by the
 student with the racket slightly
 tipped up, and then played
 back to the partner, we speak
-of a “control shot” to judge
+of a "control shot" to judge
 the ball. At the beginning, the
 focus is on playing with one
 another, and the number of
@@ -4650,7 +4650,7 @@ ball, the clockwise or counter-
 clockwise running direction is
 around a net, close to the net
 with increasing distance from the
-“T," depending on the abilities of
+"T," depending on the abilities of
 Learning and Training in Groups
 are
 the group. Dividing the larger
@@ -4663,7 +4663,7 @@ opportunities for variation in play
 obstacles).
 With the circular run with two or
 three simultaneously played balls,
-one ball is played in the “T"
+one ball is played in the "T"
 between the two outside
 sidelines, and one ball is played
 over the center line (also twice
@@ -4749,7 +4749,7 @@ nonthrowing hand for his own
 service stroke practice which will
 follow. Very soon, the student is
 able to play the ball first from the
-“T" and later from the baseline
+"T" and later from the baseline
 into the opposite service line area.
 The stroke movement by the
 learner and tossing the ball high
@@ -4761,8 +4761,8 @@ Basics of Tennis Instruction
 into the air by the partner begin
 simultaneously as a verbal signal
 accompanies the movement, for
-example, “and back and forth” or
-“one, two, three.” After several
+example, "and back and forth" or
+"one, two, three." After several
 successful attempts with the aid
 of a partner, the ball is given to
 the student to toss up himself, so
@@ -4810,11 +4810,11 @@ basic requirements concerning
 readiness to play are covered. A
 systematic and methodical
 transition from restricted play on
-minicourts (see “Minicourt
-Tennis,” p. 53) and half- and
-whole “T" areas to regular play
+minicourts (see "Minicourt
+Tennis," p. 53) and half- and
+whole "T" areas to regular play
 can be made by moving back step
-by step from the “T” to the
+by step from the "T" to the
 baseline. 
 |
 The transition to the full court
@@ -4947,7 +4947,7 @@ addresses a small audience, one
 that has been long overlooked,
 but very important for social
 reasons.
-Beginners’
+Beginners'
 Tennis/
 Minicourt
 Tennis/
@@ -5012,7 +5012,7 @@ facilities mainly to save money.
 
 <hr>
 
-Beginners’ Tennis
+Beginners' Tennis
 Meanwhile, views have
 changed, and today tennis is
 taught mostly in groups for all
@@ -5133,7 +5133,7 @@ position (legwork),
 — Variation of the speed during
 the hitting movement.
 Note: — Work less with the
-“stationary” ball.
+"stationary" ball.
 — Limited range of
 movement remains on
 the backswing and
@@ -5146,8 +5146,8 @@ agreed upon.
 <hr>
 
 Tennis Instruction with Various Target Groups
-4. Only when playing from “T"
-to “T" should the distance
+4. Only when playing from "T"
+to "T" should the distance
 between the players
 (instructor/student) be
 increased.
@@ -5170,7 +5170,7 @@ and smash and not wise
 with volley, half volley,
 stop.
 An important success factor in
-beginners’ tennis is that play
+beginners' tennis is that play
 equipment (rackets, balls), court
 size and net height should be
 suited to the individual and grow
@@ -5184,7 +5184,7 @@ The following practical
 recommendations are directed
 toward all beginners.
 Tennis Rackets
-(Beginners’ Rackets)
+(Beginners' Rackets)
 The size of this racket's strung
 head corresponds to.the normal
 racket; however, the weight of
@@ -5203,7 +5203,7 @@ only regular rackets are available,
 students can move their grip
 accordingly.
 Tennis Balls
-Good beginners’ tennis balls are
+Good beginners' tennis balls are
 lighter than regular balls and
 travel more slowly. Being of the
 same size, they look like regular
@@ -5214,7 +5214,7 @@ beginners to judge the trajectory
 better and gives them more time
 for stroke preparation and
 execution. If there are no
-beginners’ balls available, soft,
+beginners' balls available, soft,
 played-out regular balls are also
 suitable.
 Court Size and
@@ -5247,12 +5247,12 @@ Ke
 
 <hr>
 
-Beginners’ Tennis
+Beginners' Tennis
 Fig. 24 
 Minicourt for children within the existing court marking.
 The minicourt available on
 every tennis court—between the
-singles sidelines, “T" and center
+singles sidelines, "T" and center
 line—only partially corresponds to
 the regulation court and therefore
 can be considered only as an
@@ -5329,7 +5329,7 @@ and 200 feet for a competition
 minicourt. Depending on the
 surface, the court markings can
 then be drawn with chalk, tape,
-rope, or “mobile” lines.
+rope, or "mobile" lines.
 Basic Considerations for
 Minicourt Tennis
 Tennis technique develops during
@@ -5342,7 +5342,7 @@ the basic form of an acceptable
 tennis technique is maintained
 and continually develops to
 refined form. Here, there should
-be no “right” and no “wrong,”
+be no "right" and no "wrong,"
 but only suggestions for executing
 the assigned tasks and monitoring
 success, which in most cases, the
@@ -5450,7 +5450,7 @@ motivate her.
 
 <hr>
 
-Beginners’ Tennis
+Beginners' Tennis
 Doubles
 At the beginning, the instructor
 participates, mainly as support for
@@ -5468,7 +5468,7 @@ tried before can now be used in a
 situational context. The variability
 of the game becomes very
 important.
-“Table Tennis" Doubles
+"Table Tennis" Doubles
 This game is very important as
 preparation for singles play. One
 plays first with the instructor and
@@ -5504,7 +5504,7 @@ should always take place between
 the instructor and the student.
 The instructor can build up the
 weaker ones and can keep the
-“smart” ones in check.
+"smart" ones in check.
 The transition can be made
 from the table tennis scoring
 method to regular tennis rules in
@@ -5528,7 +5528,7 @@ tennis tournaments. The instructor
 should be careful that all
 participants get a chance often.
 A timed playing situation, such as
-at a “Gong” tournament with
+at a "Gong" tournament with
 playing times of 10 to 15 minutes,
 would be very advantageous.
 If, at the beginning, people are
@@ -5567,7 +5567,7 @@ should be considered. Thus it
 could well happen that a portion
 of the beginners (for example,
 older people) never get to
-“regular tennis” and have more
+"regular tennis" and have more
 fun playing the easier way.
 Therefore today, with the interest
 in recreational sports, there are
@@ -5611,7 +5611,7 @@ Elementary
 School
 The elementary school is a
 possible venue for beginner's
-tennis with the slogan “from the
+tennis with the slogan "from the
 minicourt (short distances) to the
 large court (long distances)."
 By the end of a systematically
@@ -5663,7 +5663,7 @@ with shorter and lighter tennis
 rackets (or with regular rackets
 gripped higher) and with
 special slowly moving
-beginners’ balls.
+beginners' balls.
 For the most part, students
 practice with a partner. The
 partner takes on the job of
@@ -5689,12 +5689,12 @@ increasing
 distances.
 Use of forehand
 and backhand in
-the “T"-area.
+the "T"-area.
 volley, forehand,
 and backhand.
 forehand and
 backhand in the
-“T"-area asa
+"T"-area asa
 review.
 Playing the ball close over the net.
 Lesson 5:
@@ -5702,7 +5702,7 @@ Lesson 6:
 Use of forehand,
 backhand, and
 volley in the
-“7 -area,
+"7 -area,
 smash.
 forehand and
 backhand at
@@ -5895,7 +5895,7 @@ back over the net forward and
 high (partner should catch the
 ball).
 6. Return the ball that has been
-tossed from the “T" as a volley.
+tossed from the "T" as a volley.
 — 
 Ball tosser: Catch the ball and
 play it again or continue the
@@ -5966,7 +5966,7 @@ volley.
 Tasks should be executed with the
 normal hitting hand.
 1. Throw the ball over the net from
-the “T" in a high arc.
+the "T" in a high arc.
 2. Play the ball forward with the
 partner tossing.
 3. Toss the ball for yourself and play
@@ -6003,7 +6003,7 @@ normal hitting hand or two-handed
 1. Review all stroke techniques,
 focusing on each key point.
 2. Run through test exercises.
-3. Teach “etiquette” (rules of
+3. Teach "etiquette" (rules of
 behavior).
 Tasks should be executed with the
 normal hitting hand or two-handed.
@@ -6036,7 +6036,7 @@ court.
 4. Return balls pitched by the
 instructor as volley and smash:
 — 
-From the “T,” instructor tosses
+From the "T," instructor tosses
 six times In a row.
 — 
 Six times for a forehand volley,
@@ -6067,8 +6067,8 @@ who have more or less
 comprehensive playing
 experiences, and therefore
 reasonably developed techniques.
-These “adult recreational
-players,” have no particular
+These "adult recreational
+players," have no particular
 ambitions for athletic
 achievement. They are mainly
 tennis players who have been
@@ -6125,8 +6125,8 @@ or doubles.
 Even for individuals, playing
 tennis can include other goals,
 such as those described earlier.
-“Playing
-Cooperatively”
+"Playing
+Cooperatively"
 Proceeding from an overarching
 approach, there are internal
 consequences. Partners want to
@@ -6154,8 +6154,8 @@ tennis court.
 If needed, exercises to develop
 the supporting musculature
 (trunk).
-“Playing
-Competitively”
+"Playing
+Competitively"
 Partners want to play opposite
 one another competitively, in
 singles or doubles. In singles, they
@@ -6222,7 +6222,7 @@ shortcomings should be accepted
 as much as possible. It is
 important to focus on appropriate
 rhythm and flow of movement.
-“Compelling” movement aids,
+"Compelling" movement aids,
 ball machines, and videos can
 help the learning process.
 Organization
@@ -6272,7 +6272,7 @@ an inappropriate orientation to
 world-class tennis. Excessive
 hitting speed, balls hit too closely
 over the net, and movements that
-are too “perfect” lead to many
+are too "perfect" lead to many
 unnecessary mistakes.
 Solutions
 @ Players are persuaded to set
@@ -6282,7 +6282,7 @@ reasons as motivation and a lot
 of patience to change.
 e@ 
 Use educational aids: Raise the
-net, play in the “T" area and
+net, play in the "T" area and
 half court, and intensify play
 with forward and backward
 spin.
@@ -6290,7 +6290,7 @@ Poor Positioning When Hitting
 the Ball
 Reasons for this are insufficient
 reckoning of the bali and faulty
-(often “lazy") footwork.
+(often "lazy") footwork.
 Solutions
 @ Assign systematically varied
 (and prearranged) ball tossing
@@ -6401,11 +6401,11 @@ with high movement speeds.
 @ Improve throwing accuracy.
 e@ Simplify the situation
 temporarily (for example, serve
-from the “T").
+from the "T").
 e@ Allow a pause in the backswing
 movement, but shift it to the
 end of the reverse swing
-(“deliberate” pause before the
+("deliberate" pause before the
 swing into the bend, also for
 concentrating on throwing).
 Weak Volleys
@@ -6419,11 +6419,11 @@ Solutions
 ® Create a pressure situation:
 play the volley with the back to
 the wall or the "steering wheel
-volley” (grasp the racket head
+volley" (grasp the racket head
 with both hands like a steering
 wheel and then play the ball as
 a volley, see Fig. 26).
-® Use “overcorrection”: play
+® Use "overcorrection": play
 stopped volleys without
 backswing and hitting.
 @ 
@@ -6433,11 +6433,11 @@ example, perhaps introduce via
 the slice.
 @ 
 Play practice matches with
-“compulsory grips.”
+"compulsory grips."
 62
 Fig. 26 
-For the “steering wheel
-volley,” the racket head is held with
+For the "steering wheel
+volley," the racket head is held with
 both hands.
 
 <hr>
@@ -6482,7 +6482,7 @@ tennis schools offer well-defined
 courses which, at the lowest level,
 end with a first competency test
 after 10 hours of instruction (see
-“Elementary School,” page 56).
+"Elementary School," page 56).
 The most important thing by
 far is having fun with movement
 Advanced Adults in Recreation
@@ -6493,7 +6493,7 @@ methodology are paramount. The
 specific methodological problems
 and solutions in this group are
 described in detail in the chapter
-entitled “Advanced Adults in
+entitled "Advanced Adults in
 Recreational Tennis" and need no
 further amplification.
 The signs of the times indicate
@@ -6509,7 +6509,7 @@ long term if they also offer the
 recreational player adequate
 opportunities and enticements.
 The commercial establishments
-could also create “club” structures
+could also create "club" structures
 within their facilities, thus
 appealing to the minority that
 likes team competition.
@@ -6654,7 +6654,7 @@ shared between school and club,
 and finally, as part of a scholastic
 sports competition, such as
 64
-“Youth Training for the
+"Youth Training for the
 Olympics." For such situations,
 no particular pedagogical advice
 is necessary. The following tips
@@ -6681,7 +6681,7 @@ Tennis in
 <t5n
 Equipment (Balls, Rackets)
 When there is no budget for
-buying beginners’ balls and
+buying beginners' balls and
 rackets, you can also use played-
 out tennis balls and old rackets (to
 be gripped closer to the head),
@@ -6706,7 +6706,7 @@ between 1 and 3. In addition to
 the well-known green balls
 approximately 3 '/2" across, we
 should mention the recently
-developed beginners’ tennis balls.
+developed beginners' tennis balls.
 They are lighter and softer, and
 they travel more slowly and brake
 more sharply when they bounce.
@@ -6794,7 +6794,7 @@ instruction.
 himself to the capabilities of
 the weakest students. The best
 students can also be used as
-“assistants” and thus,
+"assistants" and thus,
 especially encouraged to be
 useful.
 @ At the beginning, enough time
@@ -6872,8 +6872,8 @@ previous experiences from tennis
 clubs or commercial facilities.
 That is mainly the case when
 the school is participating in
-competitions such as “Youth
-Training for the Olympics.” As
+competitions such as "Youth
+Training for the Olympics." As
 in all similarly designed school
 competitions for other sports;
 such a differentiated sports group
@@ -7025,7 +7025,7 @@ more quickly and more skillfully
 and to attain better reliability and
 precision while hitting.
 Just as footwork is very basic in
-tennis for “pedestrians,” learning
+tennis for "pedestrians," learning
 driving technique and ongoing
 training is important for
 appropriate use of the wheelchair.
@@ -7117,7 +7117,7 @@ wheelchair before the stroke; after
 | foam balls or slowly moving 
 transferred.
 that, the ball is played in such a 
-beginners’ balls. There is a difficult 
+beginners' balls. There is a difficult 
 Independent of the various
 way that the student first has to 
 transition from playing to a toss 
@@ -7447,7 +7447,7 @@ with upper-body turning.
 exercises, students often run
 into problems; what has been
 learned can become
-“unlearned.” Remediation
+"unlearned." Remediation
 72
 must be planned; that is, where
 there is repeated failure that is
@@ -7547,7 +7547,7 @@ Learning backswing movement
 in all permissible variations,
 including straight-line.
 @ Hitting balls at a slow pace in
-the “T"-area that were tossed
+the "T"-area that were tossed
 precisely by a partner or the
 tennis instructor.
 (The most important level on the
@@ -7799,7 +7799,7 @@ with loosely extended arm to the
 point of contact.
 Student stands in hitting position—sideways-
 on or slightly open for the forehand and
-sideways-on, behind the “T" (facing the
+sideways-on, behind the "T" (facing the
 net), for the backhand—and executes the
 main action with a ball guide, stationary
 ball, or gently tossed ball.
@@ -7861,12 +7861,12 @@ racket.
 
 <hr>
 
-Ground Stroke—Forehand and Back’
+Ground Stroke—Forehand and Back'
 Actions 
 Explanations
 Student stands in ready position a few feet
-behind the middle of the “T"; gently tossed
-balls should be hit over the “T". The
+behind the middle of the "T"; gently tossed
+balls should be hit over the "T". The
 backswing movement is introduced from the
 ready position by rotating the upper body
 with simultaneous turning step with the leg
@@ -7886,12 +7886,12 @@ movement through spoken support by the
 Backswing, hitting, and follow-
 through movement from the ready
 position; shifting of weight
-instructor (“backswing and hit,” “step to the
-right and swing,” “turn your shoulder”).
+instructor ("backswing and hit," "step to the
+right and swing," "turn your shoulder").
 Fig. 33 
 Student executes the movements
 along with the instructor.
-Student stands behind the “T". Instructor
+Student stands behind the "T". Instructor
 tosses the ball from different positions on
 the same half of the court as the student.
 First, the toss direction is announced; later,
@@ -7909,7 +7909,7 @@ and hitting technique.
 Toss the ball over the net, first with
 precision and announced and then variably,
 followed by volleying over the net.
-Student stands behind the “T". The distance
+Student stands behind the "T". The distance
 between student and instructor is increased
 as the instructor first moves toward the
 baseline one step at a time, and then the
@@ -7931,7 +7931,7 @@ type of student and player.
 The instructor switches from ball tosser to
 opponent and, in gamelike forms of
 training, tests the sureness, precision, and
-effectiveness of his students’ ground strokes,
+effectiveness of his students' ground strokes,
 even strokes with different point-of-contact
 heights.
 LT
@@ -7942,7 +7942,7 @@ Use of Methodological Sequences
 Actions 
 Explanations
 Extending the bent hitting arm 
-Student stands behind the “T" (short
+Student stands behind the "T" (short
 to the point of contact 
 distance from target point); the racket hangs 
 es
@@ -8088,7 +8088,7 @@ be hit in mid-jump.
 The ball must be thrown in such a way
 that the student has to jump backward and
 upward to the intended point of contact
-because otherwise the “scissors-legs" cannot
+because otherwise the "scissors-legs" cannot
 be taught. While landing on the left leg, the
 right leg points forward and to the right. The
 footwork can also be practiced without
@@ -8285,7 +8285,7 @@ Swinging the racket steeply back
 Student stands in the hitting position behind 
 Frequently switch between ground stroke
 and forth to point of contact with 
-the “T". The racket is lowered to the ground 
+the "T". The racket is lowered to the ground 
 and lob to get a feeling for the difference
 open racket face (main action) 
 next to the rear leg. Instructor stands at the 
@@ -8295,7 +8295,7 @@ student's forehand and backhand. Student
 plays high over the racket held vertically
 upward by the instructor; use of forehand
 and backhand grips on corresponding sides.
-Student stands behind the “T" and returns
+Student stands behind the "T" and returns
 the balls gently tossed by the instructor.
 As an orientation aid, a cord can be
 suspended at various points above the net;
@@ -8314,7 +8314,7 @@ Backswing, hitting, and follow-
 through movement from the hitting
 position; shifting of weight
 Student stands in the hitting position behind
-the “T". Return of the racket in a loop with
+the "T". Return of the racket in a loop with
 fluid transition to the hitting movement
 forward and upward. The upper arc of the
 backswing movement can be more or less
@@ -8355,7 +8355,7 @@ Footwork to attain the correct
 hitting position from various
 directions and different distances;
 hitting the ball
-From the “T", the student returns as lobs
+From the "T", the student returns as lobs
 balls that have been played in different ways
 by the instructor.
 At first, the instructor can compensate for
@@ -8422,13 +8422,13 @@ the main action). At the beginning, the
 played balls should travel at least 6 feet
 above the height of the net (suspend a cord
 above the edge of the net).
-behind the “T": the instructor throws the ball
+behind the "T": the instructor throws the ball
 face and edge of net.
-Student stands behind the “T" and hits the
+Student stands behind the "T" and hits the
 gently thrown balls in a downward trajectory,
 using a jump.
 Play into designated areas in front of the
-opposite “T" and determine the bounce
+opposite "T" and determine the bounce
 distance of the balls (effect of spin), that is,
 which combination provides the greatest
 distance between the first and second
@@ -8447,7 +8447,7 @@ Backswing, hitting, and follow-
 through movement from the ready
 position; shifting of weight
 Student stands in ready position behind the
-center of the “T" and contacts the gently
+center of the "T" and contacts the gently
 thrown balls between knee and hip level.
 Playing the ball: a turning step with the leg
 closer to the point of contact, rotating the
@@ -8469,7 +8469,7 @@ hitting position from various
 directions and different distances
 and hitting the ball
 Playing the topspin strokes with motion
-along the “T" to the left and right, forward
+along the "T" to the left and right, forward
 or backward.
 Fig.60 
 Point of contact of topspin at hip
@@ -8519,7 +8519,7 @@ opponent and tests and monitors the
 effectiveness of his student's topspin strokes
 in competition and matchlike types of
 competitive play.
-Student stands behind the “T" in the
+Student stands behind the "T" in the
 sideways-on hitting position; the instructor
 throws the ball from the net. Use forehand
 grip for forehand slice and backhand grip for
@@ -8573,10 +8573,10 @@ Backswing, hitting, and follow-
 Student stands in the hitting position behind 
 = movement is supported by a marked shifting
 through movement from the hitting 
-the “T" or farther from the net (auxiliary 
+the "T" or farther from the net (auxiliary 
 of weight forward and downward.
 position; shifting of weight 
-between “T" and baseline) and holds the 
+between "T" and baseline) and holds the 
 Provide visual orientation for the direction
 racket in front of the body. Instructor throws 
 of the hitting movement (marking on the
@@ -8584,7 +8584,7 @@ from the net. Student adjusts her backswing
 ground) and the end of the follow-through
 and hitting movement to the approaching 
 movement (head of the ball tosser).
-ball. Toss variations: the instructor throws the —_‘ Transition from the face-on position to the
+ball. Toss variations: the instructor throws the —_' Transition from the face-on position to the
 ball overhand so that the student can meet 
 hitting position; then backswing, hit, and
 the ball in a rising arc. Support the 
@@ -8593,7 +8593,7 @@ movement by speaking; the hitting
 Backswing, hitting, and follow- 
 Student stands in the ready position behind
 through movement from the ready 
-the “T": instructor throws from the net. On
+the "T": instructor throws from the net. On
 position; shifting of weight 
 the backswing there is a rotation of the
 upper body, turning steps as the racket is
@@ -8610,7 +8610,7 @@ backswing for the backhand slice.
 Footwork to attain the correct 
 Student stands in the ready position behind
 hitting position from various 
-the “T": instructor tosses balls to different
+the "T": instructor tosses balls to different
 directions and different distances 
 positions. Student moves to the appropriate
 when hitting the ball 
@@ -8701,7 +8701,7 @@ trajectory is directly in front of the net.
 Use of Methodological Sequences
 Actions 
 Explanations
-Student stands behind the “T" in the ready
+Student stands behind the "T" in the ready
 position. A closed racket face during the
 backswing makes it easier for the student
 to execute the hitting and follow-through
@@ -8728,7 +8728,7 @@ Footwork to attain the correct
 hitting position from various
 directions and different distances
 when hitting the ball
-Student stands behind the “T" in the ready
+Student stands behind the "T" in the ready
 position. Instructor first throws from the net
 and later from the baseline, using a variety of
 tosses (left, right, short, flat, high, and
@@ -8742,12 +8742,12 @@ to the distance from the target.
 Swing the racket with extended arm
 parallel to the ground to the point
 of contact (main action)
-Student stands at the “T" in the hitting
+Student stands at the "T" in the hitting
 position. The racket head is located just
 above the ground approximately 4 feet
 behind the point of contact for a half-volley.
 The point of contact is established just above
-the “T" using a ball guide. The racket is
+the "T" using a ball guide. The racket is
 moved forward from the resting position
 (lower edge of the racket on the ground) to
 the point of contact. Use grips as with the
@@ -8818,7 +8818,7 @@ Backswing, hitting, and follow-
 through movement from the ready
 position; shifting of weight
 Student stands in the ready position
-approximately 3 feet behind the “T". When
+approximately 3 feet behind the "T". When
 the ball is thrown, use a turning step with
 the leg closest to the point of contact,
 rotating the upper body and the hitting arm
@@ -8838,7 +8838,7 @@ hitting position from different
 directions and various distances
 when hitting the ball
 Student's starting position is approximately
-3 feet behind the “T".
+3 feet behind the "T".
 Instructor throws slow and high into
 various areas of play in order to give the
 student
@@ -8851,7 +8851,7 @@ and from various court positions;
 playing the half-volley in
 matchlike situations
 Initially, student stands in the ready position
-at first behind the “T" and later behind the
+at first behind the "T" and later behind the
 baseline center. The instructor varies the
 height, speed, and spin of the tossed balls.
 Play the half-volley down the line and
@@ -9444,7 +9444,7 @@ and electrolyte loss. Weight loss
 during a 90-minute tennis
 competition is on average 3-5 lbs.
 for men, although an average of
-‘72 liter of liquid are consumed;
+'72 liter of liquid are consumed;
 women lose approximately
 50-70% of this amount.
 In the course of a tennis
@@ -9474,8 +9474,8 @@ absorbing such materials that
 determine performance from the
 salt-water balance will be covered
 more closely in the section
-entitled “Nutrition for the Tennis
-Player” (p. 243).
+entitled "Nutrition for the Tennis
+Player" (p. 243).
 Psychological
 Requirements
 Forms of behavior (and thus also
@@ -9534,7 +9534,7 @@ must be won by at least two
 points and that scoring begins
 again after each finished set, no
 matter how it ended. Particularly,
-the scoring unit “game” gives the
+the scoring unit "game" gives the
 sequence of a match a particular
 characteristic. Compare tennis
 with table tennis, where, for
@@ -10101,8 +10101,8 @@ This stage includes
 understanding the conceptual
 and theoretical identification of
 conditions and qualities that
-characterize a person as “tennis
-talent.”
+characterize a person as "tennis
+talent."
 e@ Searching and selecting talent:
 The goal of a talent search is to
 find those people who exhibit
@@ -10114,7 +10114,7 @@ the question whether they
 should be channeled into
 specific athletic activities that
 offer encouragement and
-whether the “nontalented”
+whether the "nontalented"
 should be excluded from this
 support.
 e Fostering talent: This stage
@@ -10124,7 +10124,7 @@ talent achieve the expected
 future high achievement.
 Defining Talent
 The first question focuses how
-the concept “talent” can more
+the concept "talent" can more
 accurately be determined. This
 concept is frequently linked to the
 idea that some people are born
@@ -10644,7 +10644,7 @@ vagaries of the opponent's playing
 style, the court surface, balls,
 Stamina (see also the chapter
 school-age children, the following — one-sided stresses) with a healthy
-tions are always “new.” Moreover, 
+tions are always "new." Moreover, 
 general recommendations help
 (and not only for tennis):
 child there are no limitations with
@@ -10652,7 +10652,7 @@ regard to ability to take stress.
 A good aerobic capacity should be
 developed early on to prepare for
 weather conditions, and the like. 
-entitled “Training Conditioning," 
+entitled "Training Conditioning," 
 the high stresses expected in the
 p: 153):
 Recommendations for Training = Aerobic stamina can already be
@@ -10677,7 +10677,7 @@ good aerobic capacity, which is
 not yet developed because of
 their young training age.
 Strength (see also the chapter
-entitled “Training Conditioning,"
+entitled "Training Conditioning,"
 p. 152)
 Children should be directed
 through a strength-training
@@ -10689,7 +10689,7 @@ avoid sports injuries and the basis
 for future training of maximum
 strength and agility.
 Speed (see also the chapter
-entitled “Training Conditioning,"
+entitled "Training Conditioning,"
 p. 152)
 When the performance ability of
 the central nervous system plays a
@@ -10708,7 +10708,7 @@ effective training period shifts to
 older school-age children and
 teenagers.
 Flexibility (see also the chapter
-entitled “Training Conditioning,”
+entitled "Training Conditioning,"
 p. 152)
 Children are essentially more
 flexible than adults. Therefore
@@ -10725,8 +10725,8 @@ stretching exercises that
 simultaneously develop the
 musculature is recommended.
 Coordination (see also the
-chapter entitled “Training
-Coordination,” p. 117)
+chapter entitled "Training
+Coordination," p. 117)
 Coaching of coordination abilities
 is central to training in school-age
 children. For this, the movement
@@ -10739,7 +10739,7 @@ scope. Basic training focuses on a
 tennis-specific development of
 coordination abilities, in which the
 tennis instructor should be careful
-that this is as “broad” as possible
+that this is as "broad" as possible
 (all stroke techniques and forms
 of footwork) and always
 connected with a general
@@ -10827,8 +10827,8 @@ an upper limit of 12 hours per
 week. The following is an
 example of a 10-hour-per-week
 workout:
-@ 4x 2 hours (“60-minute
-hours”) of tennis training; 3 of
+@ 4x 2 hours ("60-minute
+hours") of tennis training; 3 of
 these 8 hours should be
 devoted to conditioning.
 @ 2 hours general coordination
@@ -10895,7 +10895,7 @@ basic training at first produces
 a more limited increase in skills
 in tennis; that means that
 others, who specialize very
-early, temporarily “move
+early, temporarily "move
 ahead." Patience and far-
 sightedness are necessary here.
 110
@@ -10914,7 +10914,7 @@ emphasis on ranking.
 Developmental
 Training
 A few years ago, puberty was still
-viewed as “easytime.” In the
+viewed as "easytime." In the
 meantime, the realization that
 children and teenagers in this
 phase of development are very
@@ -11509,7 +11509,7 @@ a ie
 ot 
 ea ae 
 — 
-‘
+'
 ae ee ag ee a 
 pa 
 a 
@@ -11878,10 +11878,10 @@ A further coordination skill is the
 ability to grasp an acquired
 rhythm and to reproduce it as a
 motor activity, as well as produce
-an “internalized" rhythm that
+an "internalized" rhythm that
 exists as an image that the player
 has of his own movement skills. In
-tennis, “internalized,” temporal,
+tennis, "internalized," temporal,
 spatial, and dynamic linking of the
 movement sequence, based on
 kinesthetic information, is
@@ -11900,7 +11900,7 @@ hitting rhythm and act as the
 situation demands. This depends
 on his position on the court (far
 behind the baseline, in front if it,
-on the “T", etc.), on the type and
+on the "T", etc.), on the type and
 speed of the approaching ball
 (fast, slow, high, flat, etc.), on the
 planned type of stroke (topspin,
@@ -11986,7 +11986,7 @@ opponent's first serve is expected
 on the forehand side and he
 serves to the backhand), with
 volley waves in doubles, on being
-“wiped out” on the wrong foot,
+"wiped out" on the wrong foot,
 and many more.
 To master this situation
 successfully, speed and precision
@@ -12107,7 +12107,7 @@ structured systematically. The first
 step concerns the quality of
 coordination. It is not enough, for
 example, to play soccer, basketball,
-and hockey “just for fun,” to
+and hockey "just for fun," to
 finish various dexterity courses, or
 to do specific coordination
 exercises; it is more important to
@@ -12265,7 +12265,7 @@ Court with Racket and Ball
 Catching and Throwing the Ball
 @ Both players stand behind lines
 (one behind the baseline and
-the other in front of the “T",
+the other in front of the "T",
 facing each other). Then throw
 the ball, which is lying on the
 racket, to each other and try to
@@ -12283,7 +12283,7 @@ then thrown to the partner
 from between the legs.
 , 
 ——a | 
-oe “ CRETE, 
+oe " CRETE, 
 ER hia
 = 
 a ae 
@@ -12315,7 +12315,7 @@ the racket, etc.) and returned
 from another difficult position.
 @ All three of these exercises are
 also performed with the
-clumsy, “wrong” hand.
+clumsy, "wrong" hand.
 
 <hr>
 
@@ -12335,7 +12335,7 @@ the ground or the net or an out
 is counted, the player is given a
 minus point.
 Half-Volley or Volley
-The player stands on the “T" and
+The player stands on the "T" and
 tries to touch the ball tossed by
 the trainer and then always return
 it as a half-volley (or volley).
@@ -12373,7 +12373,7 @@ example, right at the body,
 between the legs, left at the
 body).
 e All these exercises can also be
-done with the “wrong” hand.
+done with the "wrong" hand.
 Fig. 85 
 Returning the ball while lying
 on one's back; the player holds a racket
@@ -12392,7 +12392,7 @@ racket.
 Running Behind a Lob and
 Returning It
 @ The player stands in front of
-the “T". The trainer plays a lob
+the "T". The trainer plays a lob
 above him. He tries to return it
 just before the second ground
 contact using a back-and-forth
@@ -12608,7 +12608,7 @@ pass, it may touch the floor once;
 it can be played three times in
 one's own court. Exception when
 playing 1-on-1: Only one contact
-in one’s own court. Playing the
+in one's own court. Playing the
 ball in flight with head, foot,
 thigh, or chest counts as a second
 hit or as a pass. Fault: Touching
@@ -12724,9 +12724,9 @@ The groups sit opposite one
 another at the center line. There
 can be two players per group, or
 even up to six or eight. When
-someone calls “Day,” the team
-designated “Day” tries to catch
-the “Night” team, which tries to
+someone calls "Day," the team
+designated "Day" tries to catch
+the "Night" team, which tries to
 run to the safety at the edge of
 the court and vice versa. This can
 also be played from a standing
@@ -12757,7 +12757,7 @@ competition rules. And one should
 be careful that technical quality
 and ball handling are given
 precedence. In other words, one
-should not just “play”; specific
+should not just "play"; specific
 coaching of various aspects of ball
 handling (techniques of the
 individual sports) should be the
@@ -12857,7 +12857,7 @@ ball can be bounced with the
 racket, and so on.
 Medicine Ball Golf
 Nine circles (1'/2' diameter) are
-designated as “holes.” A zigzag
+designated as "holes." A zigzag
 path is formed by obstacles
 (equipment, mats, benches, string,
 etc.). The medicine ball is brought
@@ -12880,8 +12880,8 @@ e At first, use only feet (legs).
 @ Then, use the hands
 (arms/shoulders).
 @ 
-Repeat for the “strong” and
-“weak” sides.
+Repeat for the "strong" and
+"weak" sides.
 @ Combine movements according
 to an established pattern, for
 example, moving the ball from
@@ -12908,7 +12908,7 @@ e@ Jumping variations, such as a
 half turn.
 @ Practice throwing from the
 nondominant side also.
-“sample aaa
+"sample aaa
 Roller Skating
 The player learns the basics of
 roller skating, such as pushing off
@@ -13230,15 +13230,15 @@ Later, in the refined-form
 phase, attention is drawn
 increasingly to the most important
 details, that is, that the physical
-“reregistration” is good because it
-has no “disturbances”; the
+"reregistration" is good because it
+has no "disturbances"; the
 movement sequence thus
 becomes more and more
 automatic.
 A movement sequence in
 tennis is considered to be
 automatic, then, when it
-progresses practically “by itself,”
+progresses practically "by itself,"
 to such an extent that the player
 can focus completely on tactics;
 this happens in the phase of
@@ -13420,7 +13420,7 @@ Intensity of Individual
 Exercises
 The intensity of exercise, that is,
 the number of strokes per series
-and/or the speed and use of ‘force
+and/or the speed and use of 'force
 when executing the stroke, must
 be geared to the skills level of the
 player. The intensity also depends
@@ -13737,7 +13737,7 @@ minutes.
 @ Series pause: 15-30 seconds.
 For all other types of exercises,
 see the tips given in the examples
-under the “Execution” section.
+under the "Execution" section.
 Diagrams of the exercise
 examples described below can be
 found on pages 141-144.
@@ -13886,7 +13886,7 @@ fast balls. In spite of this, the
 player must hit the balls in the
 forward movement of the body.
 Baseline Stroke
-Objective: Overtaking a “winner”
+Objective: Overtaking a "winner"
 with forehand.
 Execution: The trainer tosses four
 or five balls in a row from the fore-
@@ -13894,7 +13894,7 @@ hand into the backhand corner. The
 player must overtake the balls and
 always play them only forehand,
 meaning that he must play them
-very fast as “winners.” He can
+very fast as "winners." He can
 play the final ball down the line,
 when he has played the previous
 ones into the backhand corner.
@@ -13960,7 +13960,7 @@ Attack Shot
 Objective: Attack shot with a low
 point of impact.
 Execution: The trainer plays the
-balls flat behind the “T". The
+balls flat behind the "T". The
 player must hit them while
 running forward as a slice or
 topspin. After contact, he must
@@ -14070,7 +14070,7 @@ and length of the strokes.
 Execution: Two players hit
 forehand and backhand from
 baseline to baseline. They try to
-play each ball between the “T”
+play each ball between the "T"
 and the baseline.
 Variation: A rope or construction
 tape is suspended approximately
@@ -14222,7 +14222,7 @@ volley, return.
 Execution: The server hits from
 the right into the center and
 follows the serve to the net. His
-lowing symbols are used to”
+lowing symbols are used to"
 ont the ee of exercises: 
 ;
 opponent returns through the

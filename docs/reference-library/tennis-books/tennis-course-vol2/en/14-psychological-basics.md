@@ -22,7 +22,7 @@ prefer particular articles of
 clothing or a particular racket.
 Such techniques of self-
 influence are considered, from the
-scientific perspective, “naive
+scientific perspective, "naive
 psychological regulation
 techniques." They arise because
 of personal experiences—they are
@@ -238,9 +238,9 @@ imagination, and memory.
 When the server initiates the
 volley, in which he plays an
 unreachable volley-stop and this
-confirms that he has a “good feel
+confirms that he has a "good feel
 for the ball," then the usual idea
-“feeling” in this context is rather
+"feeling" in this context is rather
 misleading because feelings
 generally refer to experiences
 such as joy and sympathy. More
@@ -296,7 +296,7 @@ Visualization of movement
 (for example, visualizing the
 movement sequence of the serve)
 is the result of perceiving other's
-as well as one’s own serves, of
+as well as one's own serves, of
 storing these perceptions in the
 mind, and (frequently) describing
 them with words.
@@ -359,8 +359,8 @@ about the movement while
 picturing it. He gives himself
 command-based elements of the
 movement that are difficult for
-him (for example, “Throw the ball
-far to the left, to the rear,” in
+him (for example, "Throw the ball
+far to the left, to the rear," in
 order to be able to control the
 actual sequence of the movement
 better.
@@ -421,7 +421,7 @@ This skill is fostered in training,
 especially where waiting for the
 end of the opponent's action
 would no longer allow enough
-time for one’s own reaction, as is
+time for one's own reaction, as is
 the case, for example, with a
 volley as a reaction to a fast
 passing shot. The more often one
@@ -454,8 +454,8 @@ See
 especially where the fast-moving
 ball must be observed precisely.
 Before the serve, it helps to
-concentrate one's “internal
-spotlight” totally on the action at
+concentrate one's "internal
+spotlight" totally on the action at
 hand. The range of attention can
 be described in terms of the
 spotlight. When the baffle in front
@@ -483,8 +483,8 @@ the film industry) to different
 situations (shifting attention).
 Using the example of the doubles
 player, this means a sudden shift
-from the “disbursement” of
-attention to “concentration on
+from the "disbursement" of
+attention to "concentration on
 attention" if she herself is played
 to. Generally, with voluntary
 effort, as happens in competition,
@@ -496,8 +496,8 @@ lapses, that is, involuntary shifts of
 the intensity of attention. High
 intensity, as is required in a longer
 tennis match, is connected with a
-high expenditure of “strong
-nerves.” Therefore, the organism
+high expenditure of "strong
+nerves." Therefore, the organism
 tends to keep shutting itself
 down, which leads to the
 attention lapses mentioned earlier.
@@ -558,10 +558,10 @@ LT De aii SRS TY EWA Tn go SR
 therefore with emotional
 excitement) or the if-then
 consideration directed to the
-future (“If | misplay this ball, I'll
-lose the whole set”) impedes
+future ("If | misplay this ball, I'll
+lose the whole set") impedes
 optimal concentration on the
-“Here and Now."
+"Here and Now."
 Finally, it should still be
 mentioned that the ability to
 concentrate depends, to a
@@ -620,7 +620,7 @@ movement when meeting the
 ball. Practicing keeping an eye
 on the ball may be easier with
 colored balls, which may more
-clearly reveal the ball’s
+clearly reveal the ball's
 trajectory and spin.
 @ During breaks, it is helpful to
 systematically practice the shift
@@ -844,7 +844,7 @@ often lead to lapses in
 concentration. A further aspect of
 performance motivation, which in
 Fig. 114 deals with the box
-“Actions” and is very important
+"Actions" and is very important
 for the competitive sport,
 concerns the question of which
 conditions are necessary to keep
@@ -867,8 +867,8 @@ determination. In tennis, this
 ability to guide has two main
 aspects.
 First, tennis players must be
-capable of “controlling
-themselves” in the face of stimuli
+capable of "controlling
+themselves" in the face of stimuli
 that have emotionally negative
 effects, both internally and
 externally, such as anger at
@@ -889,11 +889,11 @@ after a long volley.
 for example, when, if it is very
 hot in the third set, arms and
 legs become heavy and each
-step must be “willed.” In such
+step must be "willed." In such
 cases, one often speaks of a
-“battle against oneself,” and
+"battle against oneself," and
 when ending successfully, a
-“victory over oneself.”
+"victory over oneself."
 Self-control and perseverance
 are significant performance-
 determining factors in training as
@@ -915,7 +915,7 @@ condition, the less likely that
 the player will give in to fatigue
 and lower his commitment.
 @ Finally, the ability to persevere
-(“to grin and bear it,” to
+("to grin and bear it," to
 endure pain, to mobilize
 physical reserves) can be
 considered as a special
@@ -979,7 +979,7 @@ EE
 aaa 
 eee
 @ "Reward" the achievement of
-these goals or “punish” failure
+these goals or "punish" failure
 to achieve them through
 further training tasks.
 Such tasks can mean
@@ -990,11 +990,11 @@ the other hand) or establishing
 handicaps (each game begins at
 0:15) or confronting the players
 with a tie-breaker in the middle of
-the training match. “Rewarding”
+the training match. "Rewarding"
 means that during training,
 players must have some form
 of rewarding themselves;
-“ounishing” means that not
+"ounishing" means that not
 achieving the goal has unpleasant
 consequences, so that even
 during training, the processes of
@@ -1011,9 +1011,9 @@ They must learn to see the goal
 rather than the opponent, and the
 opponent himself as less of a
 threat, because to experience a
-challenge (“You are strong, but |
+challenge ("You are strong, but |
 am, too, and you have to show it
-first”) and not always to equate
+first") and not always to equate
 success with winning and failure
 with losing, but to attribute
 success and failure to appropriate
@@ -1136,7 +1136,7 @@ varied:
 a narrowing of the perceptual
 field, optical illusions, faulty
 interpretation of one's own and
-others’ movement sequences,
+others' movement sequences,
 and inappropriate analysis of
 situations.
 ® Thinking is disturbed by
@@ -1162,7 +1162,7 @@ tension and tension due to
 stress and anxiety, lead to an
 essential impedence of
 coordination ability: Movement
-no longer proceeds “loosely.”
+no longer proceeds "loosely."
 Play has more to do with
 power and less with technique;
 precision of movement
@@ -1196,9 +1196,9 @@ what is best for achieving optimal
 capability is 
 a medium level of
 activation, which also contains
-what people call “starting fright,”
-corresponding to “stage fright.”
-What is meant as “medium level”
+what people call "starting fright,"
+corresponding to "stage fright."
+What is meant as "medium level"
 of activation depends on the
 individual's abilities to control the
 activation level and on her
@@ -1209,7 +1209,7 @@ temperament.
 nic side Bake
 Psychological Forms of Training
 GREETS
-“2%
+"2%
 , :
 We ae sical, cognitive, a
 atonal tensing up
@@ -1253,7 +1253,7 @@ motor region. With many players,
 this mobilization can be observed
 when they drive themselves on
 after a long and tiring, or boring,
-match and “pull themselves
+match and "pull themselves
 together," as they breathe
 deeply, clench their fists, speak
 encouragingly to themselves, and
@@ -1298,12 +1298,12 @@ according to Schultz.
 In autogenic training,
 various exercises are done in
 autosuggestive form, such as, for
-example, the heaviness (“My
+example, the heaviness ("My
 right arm is very heavy"),
 which leads to relaxing the
 corresponding muscles, or the
-warmth exercise (“My left arm is
-very warm”), which causes
+warmth exercise ("My left arm is
+very warm"), which causes
 relaxation of the corresponding
 blood vessels. Therefore, the
 action is again carried out by the
@@ -1313,7 +1313,7 @@ influencing the autonomic area.
 Internal verbalization of such
 exercise formulas in connection
 with general set phrases such as,
-“| am completely calm," while in
+"| am completely calm," while in
 a relaxed sitting position in a quiet
 place, with closed eyes. This
 autorelaxation, achieved through
@@ -1371,7 +1371,7 @@ feet.
 Finally, this is followed by an
 overall tensing and relaxing the
 body. The instructions proceed as,
-for example, “After you have
+for example, "After you have
 relaxed, clench your right fist,
 clench it tighter and tighter and
 simultaneously observe the
@@ -1505,7 +1505,7 @@ Fig. 118
 Psychologically oriented competitive training as a supplement to the
 conditioning, technique, and tactics training.
 Conditioning 
-Techniques’ 
+Techniques' 
 Tactics 
 Competitive
 training 
@@ -1555,7 +1555,7 @@ situations.
 For the trainer, the following
 tips are helpful:
 @ Move behind the player (as his
-“shadow”) in order to be able
+"shadow") in order to be able
 to put oneself better into the
 player's perception and decision
 processes. If necessary,
@@ -1620,7 +1620,7 @@ training can be differentiated from
 each other. Training can be related
 to behavior while playing and to
 behavior during breaks. In
-“playing against each other,” it
+"playing against each other," it
 can first be a matter of
 concentrating on the individual
 volley. Psychologically oriented
@@ -1638,10 +1638,10 @@ volley under psychological
 pressure. Here are three exercise
 examples:
 @ 20 volleys are played. The
-players’ task is to call out
-words like “hop” or “come”
+players' task is to call out
+words like "hop" or "come"
 just as the ball bounces, and
-“hit” or “on” just as they meet
+"hit" or "on" just as they meet
 the ball with the racket. This
 promotes perception and
 concentration, as well as a
@@ -1654,7 +1654,7 @@ against each other.)
 The players now have the task
 of exhaling aloud just as they
 meet the ball, for example,
-saying a long “Aaah.” This
+saying a long "Aaah." This
 also promotes the ability to
 concentrate and assists timing.
 @ One of the two players has the
@@ -1662,7 +1662,7 @@ task of measuring his energy
 and strength output on a four-
 step scale, during the hitting
 movement as the trainer calls
-out. “1" means low and “4”
+out. "1" means low and "4"
 means high, as can be seen in
 the variations in speed of the
 balls. With this exercise, the
@@ -1679,7 +1679,7 @@ competitive tasks that simulate a
 tennis match but can also exceed
 the regulation match rules. To
 provide competitive tasks here
-also means “to play to win” in
+also means "to play to win" in
 the narrow sense.
 e@ Who wins, for example, the
 21st point? Scoring is the same
@@ -1703,8 +1703,8 @@ trainer can suddenly declare
 that tie-breakers are to be
 played; these require flexibility
 and psychological strength.
-e ‘Playing to win under difficult
-conditions” can also mean that
+e 'Playing to win under difficult
+conditions" can also mean that
 handicaps are introduced, for
 example, playing only with the
 forehand, or having only one
@@ -1801,7 +1801,7 @@ There should be a positive
 reaction directly after the volley, if
 at all possible. This is also quite
 easy after winning an important
-point. Thus, the “Becker fist" was
+point. Thus, the "Becker fist" was
 not only a widely recognized
 image of success in tennis; it is the
 expression of joy and pride in
@@ -1821,15 +1821,15 @@ to be able to concentrate
 completely on the next volley. At
 the same time, it is important to
 show—both physically and
-mentally—that she is “above it
-all” and in control. Therefore, in
+mentally—that she is "above it
+all" and in control. Therefore, in
 the case of a volley error, for
 example, the player should turn
 away very deliberately from the
 place of the error, return
 energetically with erect posture to
 the baseline, and say to herself,
-“It doesn't matter!" In this way,
+"It doesn't matter!" In this way,
 negative thoughts and self-doubt
 can be prevented. The faster
 anger and disappointment can be
@@ -1866,7 +1866,7 @@ recommending that the player
 should breathe especially deeply
 and concentrate mentally on
 calming thoughts (for example,
-“Be calm,” “Relax"). In order to
+"Be calm," "Relax"). In order to
 avoid being distracted by external
 stimuli, it is wise, for example, to
 contemplate the strings of the
@@ -1955,7 +1955,7 @@ long and how dramatic it was,
 what the score is, whether
 there are ball retrievers, and
 whether it is singles or doubles.
-The game regions for one’s own
+The game regions for one's own
 ategies in the context of the
 idual phases are large and
 uld 
@@ -2039,7 +2039,7 @@ more or less individually, the
 corresponding measures must
 also be varied according to the
 individual. Therefore, there are
-no “recipes”; it depends rather
+no "recipes"; it depends rather
 on trying out the various
 measures and using them again
 according to the individual
@@ -2049,7 +2049,7 @@ training should not be
 emphasized too much, if the
 player has no problems dealing
 with her ability or if she can
-do this because of “naive”
+do this because of "naive"
 measures.
 @ However, if she has bigger
 problems that cannot be solved
@@ -2081,10 +2081,10 @@ manner, mentally and emotionally
 (in conjunction with a midleve!
 autonomic and muscular
 activation in such a way that they
-have the sense that “everything is
+have the sense that "everything is
 running on automatic"). They
-should be “dead sure” that they
-are “playing as in a dream.” No
+should be "dead sure" that they
+are "playing as in a dream." No
 doubt, distracting thoughts,
 muscular cramping, and similar
 diversions destroy the synthesis of

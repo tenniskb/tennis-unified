@@ -576,7 +576,7 @@ and electrolyte loss. Weight loss
 during a 90-minute tennis
 competition is on average 3-5 lbs.
 for men, although an average of
-‘72 liter of liquid are consumed;
+'72 liter of liquid are consumed;
 women lose approximately
 50-70% of this amount.
 In the course of a tennis
@@ -606,8 +606,8 @@ absorbing such materials that
 determine performance from the
 salt-water balance will be covered
 more closely in the section
-entitled “Nutrition for the Tennis
-Player” (p. 243).
+entitled "Nutrition for the Tennis
+Player" (p. 243).
 Psychological
 Requirements
 Forms of behavior (and thus also
@@ -666,7 +666,7 @@ must be won by at least two
 points and that scoring begins
 again after each finished set, no
 matter how it ended. Particularly,
-the scoring unit “game” gives the
+the scoring unit "game" gives the
 sequence of a match a particular
 characteristic. Compare tennis
 with table tennis, where, for

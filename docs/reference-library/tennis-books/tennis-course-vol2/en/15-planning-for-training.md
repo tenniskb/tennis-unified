@@ -220,7 +220,7 @@ Of5 2
 eaks
 ao 
 > 
-“Og 
+"Og 
 a 
 wos 
 >
@@ -893,7 +893,7 @@ through puberty, relearning
 later is difficult. However, this
 form of a two-handed
 backhand frequently develops
-into a strong “weapon”
+into a strong "weapon"
 (especially when combined
 with topspin and good ball
 control).
@@ -916,8 +916,8 @@ ball speed, spin, behavior of the
 bounce and distance from the ball
 correctly, have problems with
 footwork. However, those who
-are generally stiff or “not adept at
-movement” also have problems
+are generally stiff or "not adept at
+movement" also have problems
 with footwork.
 In principle, footwork technique
 is simple (see Tennis Course,
@@ -935,7 +935,7 @@ various ways of moving on the
 court. For this, one can observe
 players with outstanding footwork
 (for example, Steffi Graf and Pete
-Sampras) and compare one’s own
+Sampras) and compare one's own
 footwork (on video). After that,
 different variants of footwork are
 tried out in prescribed situations in
@@ -990,7 +990,7 @@ to execute steady backswing
 movements.
 It should be emphasized once
 more that footwork should be
-practiced “isolated” only very
+practiced "isolated" only very
 rarely; more often, it should be
 taught and trained as part of
 complex techniques-and-tactics
@@ -1111,7 +1111,7 @@ tactics, it is
 a question of one-
 sided adherence to tactical
 concepts, (for example, those
-who “stick” to the baseline and
+who "stick" to the baseline and
 those who always seem to storm
 the net).
 Retraining is an extremely
@@ -1132,7 +1132,7 @@ student and try to find out what
 has led to these idiosyncrasies.
 A typical baseline player with
 this mentality will not let himself
-“switch” to a serve-and-
+"switch" to a serve-and-
 volley player and vice versa.
 Consequently, the key idea is to
 train such players in the context
@@ -1169,7 +1169,7 @@ dynamic structure of the hitting
 technique that is suited to the
 situation. In no case should a
 successful technique, which is,
-however, a “false” one in the eye
+however, a "false" one in the eye
 of the beholder, be readjusted
 without hesitation. However, the
 instructor should be able to
@@ -1363,7 +1363,7 @@ trends should then be considered:
 baseline,
 — 
 Provoking short balls from the
-opponent through one’s own
+opponent through one's own
 (fast or placed) play,
 — 
 Using the opponent's short balls
@@ -1463,7 +1463,7 @@ for themselves.
 Videotapes of their own
 competitions can also be
 discussed. Here, the trainer gives
-advice for the students’ own
+advice for the students' own
 control of techniques and tactics,
 with the goal that the young
 people learn to coach themselves
@@ -1480,7 +1480,7 @@ own tournaments.
 Training with
 Women
 Women's tennis is different from
-men’s in a few particulars:
+men's in a few particulars:
 @ Women do not serve as hard
 and thus concentrate more on
 the return. In women's
@@ -1528,7 +1528,7 @@ transition from the baseline to
 the net.
 Basically, there have to be
 serious differences between
-women’s and men’s tennis
+women's and men's tennis
 because the men hit harder and
 have a greater ability to jump.
 Men are also in a position to run
@@ -1552,11 +1552,11 @@ even if specific basic strategies
 are individually preferred in a
 match.
 @ Even if there is generally no
-“best of five” matches in
-women’s tennis, conditioning
+"best of five" matches in
+women's tennis, conditioning
 training in women's tennis
 should be given the same value
-as in men’s tennis.
+as in men's tennis.
 Because physical fitness is the
 basis for training techniques and
 tactics, one should also be careful
@@ -1721,7 +1721,7 @@ walks. Resilient stamina and
 flexibility can be taught, for
 example, within a functional
 gymnastics program (see the
-“Training Conditioning”
+"Training Conditioning"
 section).
 
 <hr>

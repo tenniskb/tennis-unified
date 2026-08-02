@@ -7,12 +7,12 @@ THUẬT NGỮ QUẦN VỢT
 
 **Action:** là một cách gọi khác của spin, chỉ về độ xoáy của bóng làm ảnh hướng đến quỹ đạo và độ nảy của bóng.
 
-**Advantage** (viết tắt là **ad)**: chỉ về một tay vợt thắng điểm sau điểm “deuce” và đang đứng trước cơ hội giành chiến thắng trong game đấu.
+**Advantage** (viết tắt là **ad)**: chỉ về một tay vợt thắng điểm sau điểm "deuce" và đang đứng trước cơ hội giành chiến thắng trong game đấu.
 
 **Advantage set:** là set đấu mà người chơi giành chiến thắng cách biệt ít nhất là 2 game thi đấu (ngược lại với tie-break set).
 
-**All** thuật ngữ “all” được dùng khi hai tay vợt có số điểm hoặc số game đấu bằng nhau.  
-Ví dụ: 30-all (30-30), 2 games all (2-2). Nhưng khi tỉ số là 40-40 thì trọng tài sẽ nói là “deuce” (thay vì nói 40-all).
+**All** thuật ngữ "all" được dùng khi hai tay vợt có số điểm hoặc số game đấu bằng nhau.  
+Ví dụ: 30-all (30-30), 2 games all (2-2). Nhưng khi tỉ số là 40-40 thì trọng tài sẽ nói là "deuce" (thay vì nói 40-all).
 
 **All-comers** là dạng giải đấu mà đương kiêm vô địch sẽ không tham dự, và người chiến thắng all-comers sẽ phải đấu trận giữ cúp với nhà đương kim vô địch (challenge round).
 
@@ -98,7 +98,7 @@ Ví dụ: 30-all (30-30), 2 games all (2-2). Nhưng khi tỉ số là 40-40 thì
 
 **Consolidate (a break):** giữ được chiến thắng trong game giao bóng của mình sau khi giành break.
 
-**Counterpuncher:** là tay vợt chuyên chơi phòng thủ ở cuối sân.’
+**Counterpuncher:** là tay vợt chuyên chơi phòng thủ ở cuối sân.'
 
 **Court:** là sân tennis.
 
@@ -274,7 +274,7 @@ Ví dụ: 30-all (30-30), 2 games all (2-2). Nhưng khi tỉ số là 40-40 thì
 
 **Official:** Thuật ngữ chỉ các thành viên trong tổ trọng tài, bao gồm: trọng tài của giải đấu, trọng tài chính của trận đấu, trọng tài biên (trọng tài dây).
 
-**On one’s racket:** khi một tay vợt có thể giành chiến thắng trong một set, một tie-break, một trận đấu và đang nắm trong tay quyền giao bóng.
+**On one's racket:** khi một tay vợt có thể giành chiến thắng trong một set, một tie-break, một trận đấu và đang nắm trong tay quyền giao bóng.
 
 **On serve:** tình huống mà hai bên bằng số break, trận đấu không dừng lại cho đến khi số break cách nhau 1 đơn vị.
 
@@ -556,7 +556,7 @@ Cũng giống như một cú giao bóng, bạn sẽ đánh overhead bằng cách
 
 ![🔹](https://static.xx.fbcdn.net/images/emoji.php/v9/tf3/1/16/1f539.png)DROP SHOT (BỎ NHỎ)
 
-Drop shot là cú đánh nâng cao hơn mà người chơi đánh khi đối thủ của họ ở cuối sân. Các cú drop shot rất khó thực hiện vì chúng thường đòi hỏi yếu tố bất ngờ và khả năng kiểm soát bóng vượt trội, thường được gọi là “cảm giác bóng”.
+Drop shot là cú đánh nâng cao hơn mà người chơi đánh khi đối thủ của họ ở cuối sân. Các cú drop shot rất khó thực hiện vì chúng thường đòi hỏi yếu tố bất ngờ và khả năng kiểm soát bóng vượt trội, thường được gọi là "cảm giác bóng".
 
 Một tình huống có thể xảy ra đối với một cú drop shot là nếu bạn đang rally với đối thủ của mình và bạn thấy họ hơi mất thăng bằng sau khi đánh hoặc bị kéo ra xa sân.
 

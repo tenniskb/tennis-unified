@@ -548,7 +548,7 @@ air and bounces on the surface
 of the court.
 The following explains how
 the stroke movement acts on the
-ball and on the ball’s trajectory,
+ball and on the ball's trajectory,
 and how the ball behaves in
 a bounce. At the outset, this
 presentation does not mention
@@ -562,7 +562,7 @@ Key to Subsequent Illustrations
 S: Midpoint of ball
 V.: Racket speed
 Factors Affecting
-the Ball’s Trajectory
+the Ball's Trajectory
 and Bounce
 The following criteria determine
 the trajectory of a ball:
@@ -575,7 +575,7 @@ to the side);
 © gravity.
 Bounce characteristics are a
 product of:
-@ the ball’s velocity at contact
+@ the ball's velocity at contact
 with the surface of the court;
 V,: Speed of ball after contact
 V,: Speed of ball before bouncing onto court surface
@@ -593,7 +593,7 @@ Q: Diagonal (Magnus) force on the rotating ball
 L: Relative air currents
 @ the angle at which it bounces
 onto the court surface;
-@ the ball’s spin; and
+@ the ball's spin; and
 © the makeup of the surface
 (cinders, synthetics, grass,
 and so forth).
@@ -655,7 +655,7 @@ center.
 While the vertical portion of
 the racket's speed (Vs,) as it
 encounters the ball determines
-the amount of spin, the ball’s
+the amount of spin, the ball's
 velocity is a function of the hori-
 zontal portion (Vs,) (see fig. 31).
 With equal racket speeds in
@@ -738,7 +738,7 @@ ee
 
 Contact Between Racket and Ball—Effect on the Ball's Trajectory
 For a ball with no spin to clear
-the net when it’s hit at this
+the net when it's hit at this
 height, the racket face must
 be slightly open (see fig. 35).
 The takeoff angle is a function
@@ -760,7 +760,7 @@ safe heights over the net.
 than 45 degrees shorten the
 flight distance.
 © The faster the racket is swung,
-the greater the ball’s flight
+the greater the ball's flight
 distance. This increases
 the risk of hitting the ball
 out-of-bounds.
@@ -818,7 +818,7 @@ The racket.is swung against
 the ball from behind and below
 in an upward and forward
 direction. The racket face must
-remain’vertical upon impact.
+remain'vertical upon impact.
 The impulse of the hit thus
 points not at the center of
 the ball, but rather, above it.
@@ -849,14 +849,14 @@ the currents).
 Soll pr *88y,.
 - ed ee 
 ~
-“A
+"A
 U
 < VB 
 U
 y
 as 
 3 yr ;
-“4)
+"4)
 g Ow 
 pre?
 +
@@ -873,7 +873,7 @@ effect). This pressure differential
 works as a force Q (Magnus
 force) directed downward. The
 degree of Magnus force depends
-on the ball’s velocity (quadratic)
+on the ball's velocity (quadratic)
 and on its spin (simple).
 The effect of Magnus force in
 the direction of gravity entails the
@@ -955,7 +955,7 @@ Contact Between Racket and Ball—Effect on the Ball's Trajectory
 the ball. In this case, the departure
 angle increases.
 Effect of Backspin on
-the Ball’s Trajectory
+the Ball's Trajectory
 Air currents are reversed in
 comparison with a topspin ball
 (see fig. 40). This produces a
@@ -1122,7 +1122,7 @@ Change of spin in takeoff of a backspin ball.
 Lo
 i. 
 | 
-‘eo
+'eo
 Fig.46 
 Change in takeoff angle of a backspin ball.
 Fig. 47 
@@ -1157,7 +1157,7 @@ Oncoming Balls
 It has already been established
 that the velocity of a ball in
 flight depends on racket speed,
-the ball’s elasticity, the stringing
+the ball's elasticity, the stringing
 and construction of the racket,
 and the velocity of the oncom-
 ing ball.
@@ -2104,7 +2104,7 @@ returns by player B passes through
 point P. That produces the shorter
 or longer route to the correspond-
 ing position P, the best spot for
-covering one’s own court. Fortu-
+covering one's own court. Fortu-
 nately, as has been determined
 empirically, after a shot down the
 line, waiting for the return at the
@@ -2689,7 +2689,7 @@ of shot is equally reliable, players
 should choose the shot they have
 mastered most completely for a
 safe baseline shot.
-“Offensive” Baseline Shot
+"Offensive" Baseline Shot
 Many situations arise in
 which playing the ball back
 offensively (that is, fast) and
@@ -2974,7 +2974,7 @@ in determining the success of a
 volley. Since the angles for a
 successful volley shorten and
 improve with every step forward
-and’since volleys are easier to hit
+and'since volleys are easier to hit
 from farther forward (from high
 to low) than from farther back
 (from low to high), the player
@@ -2996,8 +2996,8 @@ previous attack ball. In any case,
 the middle of the angle of the
 opponent's best possible returns
 is crucial to the position at the
-net (see pp. 60-61, “Position
-for Net Play”).
+net (see pp. 60-61, "Position
+for Net Play").
 The player must jump into the
 ready position (split step) at the
 net at the instant the opponent

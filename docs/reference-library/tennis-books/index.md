@@ -26,6 +26,7 @@ instead of single-paragraph OCR dumps.
 ## Books Index
 
 ### English Originals
+- **United Tennis Handbook — 30-Chapter CORE Biomechanics System** — [Read Ebook](unified-handbook.html)
 - [1. Absolute tennis_clean](1-absolute-tennis-clean.md)
 - [1. Absolute tennis_structured](1-absolute-tennis-structured.md)
 - [2. Vic Braden's Laugh and Win at Doubles](2-vic-braden-s-laugh-and-win-at-doubles-complete-vi.md)

@@ -36,7 +36,7 @@ Total Articles: 129
 - [Evaluating players](evaluating-players.md)
 - [Fitness, Diet, and the Open Mind](fitness-diet-and-the-open-mind.md)
 - [Forehand Completion](forehand-completion.md)
-- [Forehand Myth “Lag and Snap”](forehand-myth-lag-and-snap.md)
+- [Forehand Myth "Lag and Snap"](forehand-myth-lag-and-snap.md)
 - [Forehand Preparation](forehand-preparation.md)
 - [Forward Swing](forward-swing.md)
 - [Future Trends in Tennis - Part 1](future-trends-in-tennis-part-1.md)

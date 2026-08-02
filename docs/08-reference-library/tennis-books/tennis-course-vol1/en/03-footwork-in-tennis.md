@@ -107,7 +107,7 @@ enters into play, as with serves
 and returns. For a serve, the feet
 are in the starting stance in a solid
 position behind the baseline.
-Many players slightly shift ‘their
+Many players slightly shift 'their
 body weight back and forth to be
 better prepared for the serve. The
 distance between the feet and a
@@ -169,10 +169,10 @@ an open stance. With forehand
 drives, the term closed stance
 is used when a line between
 the toes of both feet follows the
-precise direction of the ball’s flight
+precise direction of the ball's flight
 or angles to the right. If the line
 between the toes of both feet points
-to the left of the ball’s direction of
+to the left of the ball's direction of
 flight, the term open stance is
 used.
 With backhand drives, the rela-

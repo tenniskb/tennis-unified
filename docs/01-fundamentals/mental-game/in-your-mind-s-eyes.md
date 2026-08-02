@@ -1,4 +1,4 @@
-# In your mind’s eyes
+# In your mind's eyes
 
 **In your mind's eyes**
 

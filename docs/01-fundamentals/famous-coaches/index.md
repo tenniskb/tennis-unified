@@ -72,5 +72,5 @@ Total Articles: 63
 - [Tips don't work](tips-don-t-work.md)
 - [What is a Tour Coach](what-is-a-tour-coach.md)
 - [What is the modern forhand](what-is-the-modern-forhand.md)
-- [What’s Tennis Con](what-s-tennis-con.md)
+- [What's Tennis Con](what-s-tennis-con.md)
 - [Working in with pro  players](working-in-with-pro-players.md)

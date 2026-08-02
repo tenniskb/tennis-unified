@@ -134,7 +134,7 @@ achieve them. Topics such as
 methodology, training,
 psychology and tennis injury
 are not covered.
-This book isn’t intended to be
+This book isn't intended to be
 read through from start to
 finish, but rather used as a
 handbook which can be picked
@@ -160,7 +160,7 @@ is in the area of acceptable
 variations that you have scope
 for a personal style. But
 remember that even world-
-class players’ individual styles,
+class players' individual styles,
 however distinctive, are all
 based on solid basic
 techniques.
@@ -186,7 +186,7 @@ game of tennis consists in
 hitting a ball with a racket out
 of your own court over the net
 into your opponent or
-opponents’ court.
+opponents' court.
 In the competitive game
 your goal consists of delivering
 the ball in such a way that your
@@ -267,7 +267,7 @@ understand and be familiar
 with the way a tennis ball
 moves and bounces.
 The important elements of a
-tennis ball’s behaviour in flight
+tennis ball's behaviour in flight
 are
 e direction (from straight
 forward to cross court)
@@ -298,12 +298,12 @@ spin you want to give the ball
 @ the position of the racket
 face on meeting the ball, as
 this affects both the height of
-the ball’s flight and the spin of
+the ball's flight and the spin of
 the ball.
-Player’s movement
+Player's movement
 Try to think of the racket
 hitting the ball as an extension
-of your arm. Of course it’s not
+of your arm. Of course it's not
 only the movement of your
 hand, or even arm, which
 achieves the contact between
@@ -437,7 +437,7 @@ lifting movement and the
 position of your left arm, are
 less so. To bring out the true
 Significance of individual
-phases you can’t simply
+phases you can't simply
 describe the sequence from
 Above: Scheme of a striking
 movement with swing, strike and
@@ -509,7 +509,7 @@ or less useful, in achieving
 this.
 Movements and techniques
 are influenced and determined
-by a players’ intentions and
+by a players' intentions and
 aims and by external factors
 and his opponent's play.
 12
@@ -525,13 +525,13 @@ actions which allow individual
 deviations in their execution,
 so that there can also be
 perfectly valid alternative
-actions. In the first case it’s
+actions. In the first case it's
 appropriate to evaluate actions
 as categorically right or wrong
 whereas in the second case
 judgements such as
-‘appropriate’, ‘less appropriate’
-and ‘inappropriate’ are more
+'appropriate', 'less appropriate'
+and 'inappropriate' are more
 useful.
 Knowing the purpose of an
 action, or its intended
@@ -595,9 +595,9 @@ begins before the turning-point
 and ends with the point of
 impact. The main action also
 ends with the point of impact
-but where it begins can’t be
+but where it begins can't be
 exactly pinpointed. This
-doesn’t matter, however,
+doesn't matter, however,
 because the only crucial thing
 is that the features of the main
 action occur in such a way that
@@ -736,7 +736,7 @@ and disadvantages, that it is
 difficult to mark their
 boundaries. Even so, in this
 case too, they can be regarded
-as incorrect if they don’t
+as incorrect if they don't
 appropriately assist the main
 action, or even as sometimes
 happens, they completely or
@@ -745,7 +745,7 @@ Individual style
 Since the auxiliary actions
 allow relatively large scope for
 variation, it is in them that the
-stamp of the individual’s own
+stamp of the individual's own
 style can best make itself felt.
 In particular the timing of the
 swing and follow-through
@@ -756,7 +756,7 @@ movement can be termed
 movement style, and find
 expression principally in
 spacing and timing. Features
-of individuals’ pattern and
+of individuals' pattern and
 14
 dynamics of movement are for
 example breadth and rhythm
@@ -827,7 +827,7 @@ main categories of action and
 reaction in playing tennis
 which relate partly to the
 pressure of time and partly to
-individual players’ experience
+individual players' experience
 and skill.
 Reflexes
 Intuitive thought and action Is
@@ -1017,7 +1017,7 @@ the ball crosses your opponent's
 baseline.
 at which the ball crosses the
 opposite baseline.
-Distance from player’s
+Distance from player's
 body
 Ideally, the point of impact
 between ball and racket for all
@@ -1236,7 +1236,7 @@ above the upper right slant of
 the handle.
 This grip is possible for
 e forehand ground shots
-(although it isn’t possible to
+(although it isn't possible to
 play the ball above hip level
 without making a correction by
 rotating your lower arm)
@@ -1251,7 +1251,7 @@ stretched and bent)
 @ smashing
 @ lobs
 @ drop shots
-It isn’t recommended for
+It isn't recommended for
 @ higher points of impact
 If the point of impact is to
 remain in front of your leading
@@ -1352,7 +1352,7 @@ SWING
 PHASE
 The backswing prepares for
 the length and direction of the
-racket’'Ss movement towards
+racket''Ss movement towards
 the ball. Its potential extent is
 limited by
 @ the player's reach
@@ -1367,7 +1367,7 @@ Baseline strokes
 The upper arc of the loop
 provides for
 @ building up the potential
-energy of the racket’s weight
+energy of the racket's weight
 @ a smooth transition into the
 hitting phase
 The time available for the
@@ -1427,7 +1427,7 @@ stroke
 Common elements for all strokes
 This variability of action has
 clearly developed as a result of
-players’ different backgrounds:
+players' different backgrounds:
 the ways in which they have
 learned to play and in the
 development of their own
@@ -1466,7 +1466,7 @@ As the time available in a
 volley is often less than six- to
 nine-tenths of a second, your
 racket should be taken back
-only a short distance. ‘It has to
+only a short distance. 'It has to
 be raised above the intended
 hitting height as the volley is
 generally given a backspin.
@@ -1528,7 +1528,7 @@ the case of backspin) as early
 as possible.
 You must co-ordinate all the
 component parts of the action
-so you don’t waste movement
+so you don't waste movement
 and energy in the overall
 movement and, in particular,
 so you achieve the best stroke
@@ -1561,7 +1561,7 @@ Volleys normally entail the ball
 moving at very high speed and
 so rebounding with
 considerable force. In these
-cases it’s useful to hit the ball
+cases it's useful to hit the ball
 with backspin. The main
 reasons for this are
 e@ that the required flight of
@@ -1633,7 +1633,7 @@ behind your head, just above
 the level of the nape of your
 neck. To achieve a stroke
 perpendicular to the direction
-of the ball’s flight your forearm
+of the ball's flight your forearm
 needs to be rotated just before
 the point of impact. This action
 is visibly continued in the
@@ -1748,7 +1748,7 @@ positions are these strokes
 used, and with what tactical
 objectives?
 What effects do they have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 Ground strokes, both forehand
 and backhand, are generally
@@ -1815,7 +1815,7 @@ still on the service line, when
 he is running forwards, or
 when his attacking ball was
 relatively short.
-Effects on the ball’s
+Effects on the ball's
 behaviour
 e As the ball is given iittle
 Spin, its trajectory has to be
@@ -1833,7 +1833,7 @@ ball lower above the net, to
 prevent it 
 from going out of
 court.
-@ The higher the ball’s flight
+@ The higher the ball's flight
 curve, the higher it will
 bounce.
 f-
@@ -1932,7 +1932,7 @@ e You should continue to
 swing your racket in the same
 direction after hitting the ball
 (see photographs 9 to 12). If
-you don’t do this, your
+you don't do this, your
 acceleration into the stroke
 and control on impact will be
 impaired.
@@ -1954,7 +1954,7 @@ with the centre grip: they may
 well find it easier, but it has
 the disadvantage of lessening
 the power behind the stroke
-and the ball can’t be met
+and the ball can't be met
 sufficiently far in front of the
 body.
 e Topspin players also often
@@ -2088,7 +2088,7 @@ stroke adversely affects the way the
 ball is met and prevents you from
 shifting your weight forwards.
 the racket
-If you don’t bring your racket
+If you don't bring your racket
 below the subsequent point of
 impact you won't be able to
 swing It forwards and
@@ -2103,7 +2103,7 @@ far away from the body. This
 lessens the power of the swing and
 stroke acceleration.
 Forehand drive
-isn’t transferred from your
+isn't transferred from your
 back leg to your front leg,
 leading to a reduction in the
 acceleration of the movement
@@ -2231,7 +2231,7 @@ photographs 6 and 7, so you
 can swing forwards and
 upwards in the main action.
 e Your feet should be at least
-your hips’ width apart, as in
+your hips' width apart, as in
 photograph 8, to improve your
 balance.
 e@ Your body weight should be
@@ -2276,7 +2276,7 @@ the transfer of force is less
 than ideal, and you can't meet
 the ball sufficiently far in front
 of your body.
-e Many players don’t take the
+e Many players don't take the
 racket into the upper arc of the
 loop until late in the backswing
 phase; although this can have
@@ -2423,7 +2423,7 @@ This mistake and the one
 } 
 \ 
 {
-’ 
+' 
 K 
 a}
 | 
@@ -2542,7 +2542,7 @@ time.
 e At the start of the hitting
 action, plant your right foot in
 the direction of the oncoming
-ball, at least a shoulder’s width
+ball, at least a shoulder's width
 in front of your foot. Your body
 weight is transferred onto your
 right leg during the hitting
@@ -2683,7 +2683,7 @@ positions is this technique
 used, and what are its uses
 and results?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 Topspin forehand and
 backhand drives are played
@@ -2702,7 +2702,7 @@ the ball is kept in play.
 @ A long and well-placed
 topspin shot puts particular
 pressure on your opponent.
-Given the ball’s relatively high,
+Given the ball's relatively high,
 fast bounce, he is forced well
 behind the baseline, or out of
 court.
@@ -2743,7 +2743,7 @@ as a
 volley or half volley, since they
 have to be met below net
 height.
-Effects on the ball’s
+Effects on the ball's
 behaviour
 e The ball should fly with a
 marked forward spin, and
@@ -3017,7 +3017,7 @@ This causes your racket to be
 Swung too steeply upwards so
 that the forward movement of
 the racket Is largely omitted
-and the ball doesn’t travel far
+and the ball doesn't travel far
 enough into your opponent's
 court.
 @ Little racket acceleration
@@ -3131,7 +3131,7 @@ continues forwards and upwards in
 the direction in which the ball has
 been hit.
 balance your feet should be
-more than your hips’ width
+more than your hips' width
 apart
 e@ Jake your racket back in the
 upper arc of the loop, as in
@@ -3272,7 +3272,7 @@ e@ Failing to support the
 backswing action with the left
 hand
 This often means that your
-upper body isn’t turned far
+upper body isn't turned far
 enough back and your
 movement contol, particularly
 on the transition between the
@@ -3330,7 +3330,7 @@ e Extremely short follow-
 through movement as a result
 of interrupting movement
 This is an indication that the
-racket’Ss momentum was
+racket'Ss momentum was
 decelerated even before the
 point of impact, or was
 inadequate in the first place.
@@ -3390,7 +3390,7 @@ positions is this technique
 used, and what are its uses
 and results?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 Sliced forehand and backhand
 drives are generally played
@@ -3454,7 +3454,7 @@ e@ High-bouncing balls can be
 returned in the upward curve
 as a Slice, to prevent you from
 being forced too far back.
-Effects on the ball’s
+Effects on the ball's
 behaviour
 @ The ball hit with a marked
 backward spin follows a low
@@ -3733,11 +3733,11 @@ given sufficient speed, and
 flies away too high.
 e Meeting the ball too late
 This severely shortens the
-hitting action and the ball can’t
+hitting action and the ball can't
 be given sufficient spin or
 speed.
 Meeting the ball too late means the
-ball isn’t given sufficient spin or
+ball isn't given sufficient spin or
 speed.
 A wide open racket face at the point
 of impact causes the ball to fly off
@@ -3839,7 +3839,7 @@ should be brought forward
 during the backswing phase
 into the intended direction of
 the shot; your feet should be
-more than your hips’ width.
+more than your hips' width.
 apart to give you good
 balance.
 The striking phase
@@ -4091,7 +4091,7 @@ positions is the technique
 used, and what are its uses
 and results ?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 The lob is generally played
 from the baseline area, but
@@ -4149,7 +4149,7 @@ and bounces away high
 The straight lob (G) should bounce
 as Close as possible to the
 opponent's baseline
-Effect on the ball’s
+Effect on the ball's
 behaviour
 e Jo play over your opponent
 the ball should travel neither
@@ -4163,7 +4163,7 @@ e When used as a defensive
 shot or as a ball difficult to
 counter with a smash
 (particularly against the Sun),
-the ball’s flight should be as
+the ball's flight should be as
 high as possible.
 e The straight lob should fly
 without any pronounced
@@ -4259,7 +4259,7 @@ hitting and follow-through
 movement, forward in the
 intended direction of the shot
 (see photograph 5); your feet
-should be at least your hips’
+should be at least your hips'
 width apart, but preferably
 wider, to improve your
 balance.
@@ -4296,7 +4296,7 @@ ball at the ideal point of impact
 and achieve good control over
 your stroke.
 e The momentum of your
-racket’s movement carries It a
+racket's movement carries It a
 relatively long way in the
 direction of the shot and
 sharply upwards, as shown in
@@ -4508,7 +4508,7 @@ forward in the intended
 direction of the shot (see
 photographs 1 and 2). To
 improve your balance your feet
-should be at least your hips’
+should be at least your hips'
 width apart. In the sliced
 backhand lob the sideways-on
 position is SO pronounced that
@@ -4952,7 +4952,7 @@ stroke.
 e Little acceleration of the
 racket, particularly the tip of
 the racket
-As a result of this the ball isn’t
+As a result of this the ball isn't
 given sufficient forward spin.
 @ Meeting the ball very late,
 or too far from or too close to
@@ -4987,7 +4987,7 @@ positions is this technique
 used, and what are its uses
 and results?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 The service is played as the
 opening shot from behind the
@@ -5003,7 +5003,7 @@ net (1).
  To put your opponent under
 oressure with the speed and
 precision of the ball, so that he
-‘s forced to make a weak or
+'s forced to make a weak or
 faulty return.
 @ To play a second service
 mainly for reliability and place-
@@ -5039,7 +5039,7 @@ unpleasant for your opponent
 the rougher the ground, as the
 effect of the spin is particularly
 marked here.
-Effects on the ball’s
+Effects on the ball's
 behaviour
 e@ The ball should fly in a flat
 curve at high speed in the
@@ -5118,7 +5118,7 @@ just in front of your left foot
 and about 20 cm (8 inches)
 inside the baseline.
 e Stand with your legs about
-shoulders’ width apart, as in
+shoulders' width apart, as in
 photograph 1, to give a stable
 Starting position.
 e At the start of the
@@ -5322,7 +5322,7 @@ twist) than in the basic service.
 The backswing phase
 e@ Hold your racket in the
 backhand grip, standing with
-your feet about shoulders’
+your feet about shoulders'
 width apart to give a stable
 Starting position (see
 photographs 1).
@@ -5667,9 +5667,9 @@ This disturbs the timing/
 dynamics of your movement,
 as you have to wait until the
 ball comes back to the height
-of impact; it’s also difficult to
+of impact; it's also difficult to
 meet a ball with precision
-when it’s dropping vertically
+when it's dropping vertically
 and fast.
 36
 Bringing the upper arm in towards
@@ -5683,7 +5683,7 @@ assisted by the transfer of weight.
 enough
 This results in an over-hasty
 backswing movement and the
-point of impact doesn’t
+point of impact doesn't
 coincide with the moment
 when your whole body is fully
 stretched.
@@ -5692,7 +5692,7 @@ throwing the ball too far to the
 front, side or rear
 As a result your weight is
 transferred in the wrong
-direction and the ball isn’t met
+direction and the ball isn't met
 at the ideal point of impact.
 @ Throwing the ball too far to
 the left in the sliced service or
@@ -5785,7 +5785,7 @@ positions is this technique
 used, and what are its uses
 and results?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 The smash is most commonly
 played in the centre part of the
@@ -5830,7 +5830,7 @@ the opponent's court played
 well above the player's
 backhand side, preventing a
 normal smash (3).
-Effects on the ball’s
+Effects on the ball's
 behaviour
 @ A ball with no spin is
 generally given considerable
@@ -5928,7 +5928,7 @@ rear, as shown in photographs
 backward, at the same time
 turning slightly from the waist
 into a sideways-on position in
-relation to the lob’s flight path
+relation to the lob's flight path
 (see photographs 1 to 3).
 e@ To help your balance, your
 left arm stretches upwards;
@@ -6183,7 +6183,7 @@ ball is met too late.
 with a short lob, to get under
 the ball
 As a result you will meet the
-ball too far forward, the ball’s
+ball too far forward, the ball's
 flight path will be too steep
 and the ball will generally be
 hit into the net.
@@ -6216,8 +6216,8 @@ point, hinders the body from being
 used, and reduces the possibility of
 hitting the ball with any force.
 L/ (LE?
-“
-‘ 
+"
+' 
 y
 i 
 s
@@ -6264,7 +6264,7 @@ This makes it difficult to regain
 your balance after hitting the
 ball.
 If the ball is met to the side, above
-the shoulder, it’s impossible to hit
+the shoulder, it's impossible to hit
 the ball with full force and the point
 of impact Is too low
 95
@@ -6564,7 +6564,7 @@ This indicates that your upper
 body was turned in the hitting
 phase.
 If the ball is hit with the arm bent,
-it’s Impossible to use sufficient
+it's Impossible to use sufficient
 force and the point of impact is too
 low.
 oe)
@@ -6575,7 +6575,7 @@ positions is this technique
 used and with what intentions
 and results?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 The volley — both forehand and
 backhand — is usually played
@@ -6624,7 +6624,7 @@ When played from a good net
 position (2) the volley should be hit
 with light backspin and at high
 speed
-Effects on the ball’s
+Effects on the ball's
 behaviour
 e The ball speed is relatively
 high if played from near the
@@ -6756,7 +6756,7 @@ disadvantage Is that it lessens
 the force of the stroke; the
 point of impact in a near-
 vertical position of the racket
-face isn’t far enough forward
+face isn't far enough forward
 and the wrist Is particularly
 104
 stressed. However, using the
@@ -6789,7 +6789,7 @@ Ona
 deep volley the left leg
 should be in position well
 before the stroke action; you
-don’t need any support on the
+don't need any support on the
 stroke action by shifting your
 body weight as the deep
 When playing a deep volley the
@@ -6818,7 +6818,7 @@ The backswing phase
 e Using the backhand grip
 This lessens the force of the
 shot as the point of impact is
-too far back and it’s hardly
+too far back and it's hardly
 possible to have the racket
 face In a vertical position.
 e Very relaxed wrist
@@ -6831,7 +6831,7 @@ e@ Very high and wide swing
 Taking your forearm too far
 away from your upper body
 means that the stroke action
-doesn’t proceed in the
+doesn't proceed in the
 intended direction but veers
 strongly to the left in front of
 your body.
@@ -6857,9 +6857,9 @@ and control.
 e Excessive exaggeration of
 the downwards movement
 This does produce backspin
-but the ball can’t be played
+but the ball can't be played
 deep into the court and
-doesn’t have much speed.
+doesn't have much speed.
 e Not hitting sufficiently in the
 direction of the shot
 This makes it difficult to
@@ -6958,7 +6958,7 @@ relatively short distance backwards
 and up supported by the left hand.
 e@ Shift your body weight onto
 your left leg (photograph 2):
-your right leg doesn’t move
+your right leg doesn't move
 forward at this stage (see
 photographs 2 and 3) allowing
 you to take a step onto the ball
@@ -7032,7 +7032,7 @@ safely over the net.
 leg should be in position well
 before the stroke action; as
 the deep volley isn't generally
-played so forcefully you don’t
+played so forcefully you don't
 need the support on the stroke
 action resulting from shifting
 your body weight.
@@ -7107,7 +7107,7 @@ e Rotating the upper body
 during the stroke action
 A bent arm at the point of impact in
 the backhand volley means that the
-ball isn’t played at the ideal distance
+ball isn't played at the ideal distance
 from the body. It often makes the
 stroke action veer off to the right
 instead of forwards in the direction
@@ -7147,7 +7147,7 @@ positions is this technique
 used and what are its uses
 and outcomes?
 What effects does it have on
-the ball’s behaviour?
+the ball's behaviour?
 Court positions
 e Drop shots — forehand and
 backhand — are usually played
@@ -7182,18 +7182,18 @@ cause him to tire more easily.
 e |f your opponent plays a
 drop shot it is possible to play
 a winning shot by playing a
-‘counter-drop’ or at least to
+'counter-drop' or at least to
 gain a useful position.
 The stop volley is often hit across
 court. It is played below net height
 and travels with backspin.
-“@ The curve of the ball’s flight
+"@ The curve of the ball's flight
 @ Sometimes a stop volley is
 useful when returning low
 balls or topspin passing shots
 as it can be difficult to volley a
 low ball deep into the court.
-Effects on the ball’s
+Effects on the ball's
 behaviour
 e@ The ball has a great deal of
 backspin.
@@ -7343,7 +7343,7 @@ closed at the end of the
 backswing action; as a rule
 this makes it easier to achieve
 A drop shot without a forward and
-upward follow-through (‘chop’); the
+upward follow-through ('chop'); the
 racket face is not opened any
 further after impact.
 114
@@ -7369,7 +7369,7 @@ in the difficulty of controlling
 the ball.
 e@ The position of the racket
 face On Impact can be more or
-less open; it’s open if the
+less open; it's open if the
 point of impact is low and if
 the ball is played on the
 descent after the bounce; this
@@ -7613,7 +7613,7 @@ impact the ball rebounds:-at an
 acute angle to the net; the
 disadvantage of a longer flight
 is compensated for by the
-ball’s new direction (away
+ball's new direction (away
 from the opponent).
 118
 The follow-through phase
@@ -7665,7 +7665,7 @@ positions and with what
 intentions and results is this
 technique used?
 What are the effects on the
-ball’s behaviour?
+ball's behaviour?
 Court positions
 e@ The half volley, both
 forehand and backhand, is
@@ -7697,7 +7697,7 @@ e@
 difficult to judge the direction
 and speed of the bounce
 (topspin, sidespin, wind,
-uneven surface) It’s possible
+uneven surface) It's possible
 to return the ball fairly safely
 using the half volley
 @ The half volley can speed up
@@ -7711,7 +7711,7 @@ and when a player is near the
 bounce but can't play the volley
 The half volley travels low over the
 net at medium speed
-Effects on the ball’s
+Effects on the ball's
 behaviour
 @ The ball travels at medium
 speed.
@@ -7814,7 +7814,7 @@ to 12).
 Stroke techniques
 HALF VOLLEY
 A generous backswing action on the half volley allows the ball to be struck with
-great force; this is only possible if there’s enough time
+great force; this is only possible if there's enough time
 The follow-through on a hard hit half volley rises steeply forwards and up.
 122
 Acceptable
@@ -7981,7 +7981,7 @@ need for them might arise.
 Emergency shots
 For example, it often happens
 that a player at the net Is
-lobbed and can’t play a smash.
+lobbed and can't play a smash.
 He has to turn around and try
 to chase the lob. If he is not
 quick enough to take up a
@@ -7991,11 +7991,11 @@ play the ball on the run with
 his back to the net; in this
 Emergency shots
 ee 
-“ais Hin gg 
+"ais Hin gg 
 ty
 ey
 -)
-“ya
+"ya
 «
 7)
 @
@@ -8213,7 +8213,7 @@ start in any direction.
 Your body should be relaxed,
 Starting position, awaiting a service.
 with your feet approximately
-shoulders’ width apart, your
+shoulders' width apart, your
 knees slightly bent and your
 upper body also leaning
 Slightly forward. Your body
@@ -8453,7 +8453,7 @@ with the left foot pointing in
 the direction of the right-hand
 post of the net, the right foot
 parallel to the baseline, the
-feet shoulders’ width apart
+feet shoulders' width apart
 and an imaginary line between
 the front of the feet pointing in
 the direction of the shot.
@@ -8471,7 +8471,7 @@ slice or twist service, for
 instance, can also influence
 foot positioning.
 Beginning the service with the feet
-wide apart (over hips’ width apart)
+wide apart (over hips' width apart)
 Beginning the service with the feet
 close together.
 Definite walking position in the
@@ -8551,7 +8551,7 @@ in net play about 2 to 3 metres
 (6 to 10 feet) from the net.
 The correct stance in the
 Starting position is with your
-feet over hips’ width apart,
+feet over hips' width apart,
 your ankles and knees slightly
 bent and your upper body
 leaning forwards to a greater
@@ -8674,7 +8674,7 @@ gently from your opponent's
 centre court, and sharply
 across, you bridge the greater
 136
-‘Reach
+'Reach
 distance from the hitting
 position by means of a turning
 step, followed by some normal
@@ -8867,10 +8867,10 @@ the distance of your
 penultimate step from the
 hitting position (or from the
 The distance between the feet is a
-little over hips’ width where the
+little over hips' width where the
 point of impact is above hip height.
 The feet may be close together or
-more than hips’ width apart (1), and
+more than hips' width apart (1), and
 paces can be relatively long or short
 (2).
 point of impact). Where the
@@ -8894,7 +8894,7 @@ point of impact.
 ra
 Footwork at the moment of impact
 Sliding into the hitting position
-enables the body’s momentum to
+enables the body's momentum to
 be checked
 the closer your feet to each
 other, the lower the point of
@@ -9188,7 +9188,7 @@ service line.
 If not attacking, take a
 further step, a stopping step,
 after landing, to brake your
-body’s momentum. Push
+body's momentum. Push
 down with your leg after
 taking the stopping step, and
 move into a good court
@@ -9209,13 +9209,13 @@ about a metre (yard) behind
 the baseline. If you plan to hit
 your opponent's ball well
 behind the baseline you
-shouldn’‘t remain in this
+shouldn''t remain in this
 position waiting for the next
 ball but must run forwards to
 the baseline immediately after
 delivering the shot.
 The same applies when you
-either can’t or don't want to
+either can't or don't want to
 run further towards the net
 after playing a stroke between
 1 and 3 metres (yards) in front
@@ -9247,12 +9247,12 @@ the outside leg when hitting
 from an open position.
 If you reach the hitting
 position at a high-speed run
-you can’t do this. You will have
+you can't do this. You will have
 to make a further step in the
 original direction of movement
 while your racket is following
 through in a stopping step to
-Stop your body’s momentum.
+Stop your body's momentum.
 The pushdown and therefore
 the take-off to the side or rear
 is made from this leg, after the
@@ -9298,7 +9298,7 @@ Packed with an exclusive mix of match action shots, clear
 tactical diagrams and specially commissioned
 instructional photographs of tennis players
 demonstrating their skills, this is the definitive guide to
-playing one of today’s fastest-growing participation
+playing one of today's fastest-growing participation
 e Practical coaching and invaluable advice on all aspects
 of the game from one of the world's leading tennis
 organizations

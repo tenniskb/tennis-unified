@@ -551,7 +551,7 @@ of shot is equally reliable, players
 should choose the shot they have
 mastered most completely for a
 safe baseline shot.
-“Offensive” Baseline Shot
+"Offensive" Baseline Shot
 Many situations arise in
 which playing the ball back
 offensively (that is, fast) and
@@ -836,7 +836,7 @@ in determining the success of a
 volley. Since the angles for a
 successful volley shorten and
 improve with every step forward
-and’since volleys are easier to hit
+and'since volleys are easier to hit
 from farther forward (from high
 to low) than from farther back
 (from low to high), the player
@@ -858,8 +858,8 @@ previous attack ball. In any case,
 the middle of the angle of the
 opponent's best possible returns
 is crucial to the position at the
-net (see pp. 60-61, “Position
-for Net Play”).
+net (see pp. 60-61, "Position
+for Net Play").
 The player must jump into the
 ready position (split step) at the
 net at the instant the opponent
@@ -1412,7 +1412,7 @@ the backhander's partner in a
 tandem system. That forces
 the opponent to make a return
 \/down the line, which may be
-“more difficult. Since players
+"more difficult. Since players
 always have to deal with lob
 returns, the partners should
 clearly understand who is to
@@ -1600,7 +1600,7 @@ iiss
 nuschity 
 O 
 <5 
-Roviee’ ate Siussoidort 
+Roviee' ate Siussoidort 
 Rochunchud Dissedoglemma? 
 ey
 ,
@@ -1962,7 +1962,7 @@ Forehand and
 Backhand
 In what situations and for what
 purposes is this technique used?
-What is the ball’s trajectory
+What is the ball's trajectory
 like?
 Situations and Positions
 Ground shots with forehand
@@ -1998,7 +1998,7 @@ keep the ball in play).
 Fig.62 
 Aiming points.
 Fig. 63 
-The ball’s flight.
+The ball's flight.
 79
 
 <hr>
@@ -2059,7 +2059,7 @@ to provide a fluid transition to
 the stroke phase (illustrations
 4-6).
 ¢ The knees are bent.)
-e ‘Theteftteg points forward in a
+e 'Theteftteg points forward in a
 closed stance in the anticipated
 direction of the shot (illustration
 4); at that point, the feet should
@@ -2195,7 +2195,7 @@ and contributes to a sudden
 acceleration of the racket.
 Stroke Phase _ 
 a
-e’ Failure to lower the racket
+e' Failure to lower the racket
 : head below the anticipated
 \ contact point makes swinging
 Fig. 66 
@@ -2279,7 +2279,7 @@ this produces an ideal transfer
 of energy.
 Just before contact, the wrist is
 brought into a position appro-
-priate to the ball’s departure
+priate to the ball's departure
 velocity to create to the great-
 est degree of accuracy.
 e 
@@ -2527,7 +2527,7 @@ slower, higher, and farther.
 In what situations and for
 what purposes is this tech-
 nique applied? What is the
-ball’s trajectory like?
+ball's trajectory like?
 Situations and Positions
 e The two-handed backhand is
 usually used to hit the ball after
@@ -2718,7 +2718,7 @@ punched.
 e 
 /f the right arm is not brought
 back far enough and is too far
-away from the body, ‘it restricts
+away from the body, 'it restricts
 the swing in the stroke phase.
 Stroke Phase
 e Straightening the legs too soon
@@ -2880,7 +2880,7 @@ Stroke Phase
 e 
 During the stroke movement
 directed forward and down-
-ward, the‘elbow is gradually
+ward, the'elbow is gradually
 straightened (illustrations 4-7);
 this sets up an ideal contact
 point.
@@ -3060,7 +3060,7 @@ picks up sidespin.
 control and safety.
 Footwork and stroke movement
 \ are very well coordinated.
-’
+'
 O77,
 
 <hr>
@@ -6292,7 +6292,7 @@ tions 1 and 2). Feet should be
 kept at least hip width apart
 to maintain balance. With a
 backhand slice lob, the lateral
-“position is so pronounced
+"position is so pronounced
 that the right half of the
 back points to the net.
 
@@ -6427,7 +6427,7 @@ Features of the Main Action
 Within the Stroke Phase
 The racket is swung: forward
 and steeply upward to hit the 
-‘
+'
 ball (illustrations 5-7). to create
 the steep angle of departure.
 The racket must move at a
@@ -6587,7 +6587,7 @@ windshield wiper movement.
 <hr>
 
 Technique
-Common Flaws.and ‘Mistakes
+Common Flaws.and 'Mistakes
 Backswing
 ¢ Failure to use the forehand or
 backhand or extreme grip vari-

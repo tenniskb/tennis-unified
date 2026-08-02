@@ -332,7 +332,7 @@ the net into your opponent's
 court.
 Basic Tactics
 In competitive tennis, the play-
-ers’ goals include the following:
+ers' goals include the following:
 ® scoring points;
 ® causing the opponent to make
 mistakes; and
@@ -391,7 +391,7 @@ following factors:
 down the line to crosscourt);
 @ the height of the ball's flight
 (from low to high);
-@ the ball’s velocity (from slow
+@ the ball's velocity (from slow
 to fast);
 ® the ball's rotation (topspin,
 backspin, or sidespin).
@@ -430,7 +430,7 @@ the height and the placement
 of the shot.
 Footwork
 A ball that's hit by an opponent
-can land at’an infinite number of
+can land at'an infinite number of
 spots on the court between the
 baseline and the net. This means
 that the player must get out of
@@ -539,7 +539,7 @@ them. Coaches are in a position
 to instill these strokes in aspiring
 tennis players and to correct any
 errors that may crop up in their
-students’ techniques.
+students' techniques.
 At this point we will move
 onto a consideration of the theory
 behind footwork and stroke
@@ -649,7 +649,7 @@ enters into play, as with serves
 and returns. For a serve, the feet
 are in the starting stance in a solid
 position behind the baseline.
-Many players slightly shift ‘their
+Many players slightly shift 'their
 body weight back and forth to be
 better prepared for the serve. The
 distance between the feet and a
@@ -708,10 +708,10 @@ an open stance. With forehand
 drives, the term closed stance
 is used when a line between
 the toes of both feet follows the
-precise direction of the ball’s flight
+precise direction of the ball's flight
 or angles to the right. If the line
 between the toes of both feet points
-to the left of the ball’s direction of
+to the left of the ball's direction of
 flight, the term open stance is
 used.
 With backhand drives, the rela-
@@ -1363,7 +1363,7 @@ the required stability and on
 the actions that will follow the
 stroke (especially running);
 in imparting the desired speed
-to the ball, it’s helpful to make
+to the ball, it's helpful to make
 contact at the right distance in
 front of and to the side of the
 body; in the case of a forehand
@@ -1519,7 +1519,7 @@ An individualized style using a nearly
 straight arm in the backswing for a
 backhand slice.
 ways. This leads to the conclu-
-sion that these players’ main
+sion that these players' main
 actions are practically perfect
 (and almost always effective)
 and that it's their supporting
@@ -1607,11 +1607,11 @@ backhand return. In contrast
 with the recommendations
 commonly found in existing
 instructionals, which specify a
-“classical” forward and down-
+"classical" forward and down-
 ward (slice) movement in a
 volley, Agassi often uses a
 forehand topspin volley. This
-is not imply that Agassi’s delivery
+is not imply that Agassi's delivery
 should be considered wrong
 according to the instructionals.
 Rather, the reader must take
@@ -1683,7 +1683,7 @@ good reactions, great coordina-
 tion, and the necessary muscular
 development.
 The foregoing move is so far
-removed from “normal” tennis
+removed from "normal" tennis
 that it may never appear in any
 tennis instructional. (See also
 the photo on page 41.)
@@ -1691,7 +1691,7 @@ Agassi and Becker apply their
 particular moves in the best way
 possible from a functional and
 individual viewpoint.
-Example 2: Children’s Tennis
+Example 2: Children's Tennis
 Children obviously have
 different physical characteristics
 than adults. For example, they
@@ -2553,7 +2553,7 @@ low contact points at knee level
 or below (see photo on p. 33).
 Fig.17 
 Side distance from ball in back-
-“hand baseline shot (straight arm).
+"hand baseline shot (straight arm).
 Developing Individual Elements of Technique
 Basic Theory of Movement
 Problems with Shots from a
@@ -3213,7 +3213,7 @@ air and bounces on the surface
 of the court.
 The following explains how
 the stroke movement acts on the
-ball and on the ball’s trajectory,
+ball and on the ball's trajectory,
 and how the ball behaves in
 a bounce. At the outset, this
 presentation does not mention
@@ -3227,7 +3227,7 @@ Key to Subsequent Illustrations
 S: Midpoint of ball
 V.: Racket speed
 Factors Affecting
-the Ball’s Trajectory
+the Ball's Trajectory
 and Bounce
 The following criteria determine
 the trajectory of a ball:
@@ -3240,7 +3240,7 @@ to the side);
 © gravity.
 Bounce characteristics are a
 product of:
-@ the ball’s velocity at contact
+@ the ball's velocity at contact
 with the surface of the court;
 V,: Speed of ball after contact
 V,: Speed of ball before bouncing onto court surface
@@ -3258,7 +3258,7 @@ Q: Diagonal (Magnus) force on the rotating ball
 L: Relative air currents
 @ the angle at which it bounces
 onto the court surface;
-@ the ball’s spin; and
+@ the ball's spin; and
 © the makeup of the surface
 (cinders, synthetics, grass,
 and so forth).
@@ -3317,7 +3317,7 @@ center.
 While the vertical portion of
 the racket's speed (Vs,) as it
 encounters the ball determines
-the amount of spin, the ball’s
+the amount of spin, the ball's
 velocity is a function of the hori-
 zontal portion (Vs,) (see fig. 31).
 With equal racket speeds in
@@ -3397,7 +3397,7 @@ ee
 44
 Contact Between Racket and Ball—Effect on the Ball's Trajectory
 For a ball with no spin to clear
-the net when it’s hit at this
+the net when it's hit at this
 height, the racket face must
 be slightly open (see fig. 35).
 The takeoff angle is a function
@@ -3419,7 +3419,7 @@ safe heights over the net.
 than 45 degrees shorten the
 flight distance.
 © The faster the racket is swung,
-the greater the ball’s flight
+the greater the ball's flight
 distance. This increases
 the risk of hitting the ball
 out-of-bounds.
@@ -3474,7 +3474,7 @@ The racket.is swung against
 the ball from behind and below
 in an upward and forward
 direction. The racket face must
-remain’vertical upon impact.
+remain'vertical upon impact.
 The impulse of the hit thus
 points not at the center of
 the ball, but rather, above it.
@@ -3505,14 +3505,14 @@ the currents).
 Soll pr *88y,.
 - ed ee 
 ~
-“A
+"A
 U
 < VB 
 U
 y
 as 
 3 yr ;
-“4)
+"4)
 g Ow 
 pre?
 +
@@ -3529,7 +3529,7 @@ effect). This pressure differential
 works as a force Q (Magnus
 force) directed downward. The
 degree of Magnus force depends
-on the ball’s velocity (quadratic)
+on the ball's velocity (quadratic)
 and on its spin (simple).
 The effect of Magnus force in
 the direction of gravity entails the
@@ -3608,7 +3608,7 @@ Contact Between Racket and Ball—Effect on the Ball's Trajectory
 the ball. In this case, the departure
 angle increases.
 Effect of Backspin on
-the Ball’s Trajectory
+the Ball's Trajectory
 Air currents are reversed in
 comparison with a topspin ball
 (see fig. 40). This produces a
@@ -3769,7 +3769,7 @@ Change of spin in takeoff of a backspin ball.
 Lo
 i. 
 | 
-‘eo
+'eo
 Fig.46 
 Change in takeoff angle of a backspin ball.
 Fig. 47 
@@ -3801,7 +3801,7 @@ Oncoming Balls
 It has already been established
 that the velocity of a ball in
 flight depends on racket speed,
-the ball’s elasticity, the stringing
+the ball's elasticity, the stringing
 and construction of the racket,
 and the velocity of the oncom-
 ing ball.
@@ -4721,7 +4721,7 @@ returns by player B passes through
 point P. That produces the shorter
 or longer route to the correspond-
 ing position P, the best spot for
-covering one’s own court. Fortu-
+covering one's own court. Fortu-
 nately, as has been determined
 empirically, after a shot down the
 line, waiting for the return at the
@@ -5291,7 +5291,7 @@ of shot is equally reliable, players
 should choose the shot they have
 mastered most completely for a
 safe baseline shot.
-“Offensive” Baseline Shot
+"Offensive" Baseline Shot
 Many situations arise in
 which playing the ball back
 offensively (that is, fast) and
@@ -5570,7 +5570,7 @@ in determining the success of a
 volley. Since the angles for a
 successful volley shorten and
 improve with every step forward
-and’since volleys are easier to hit
+and'since volleys are easier to hit
 from farther forward (from high
 to low) than from farther back
 (from low to high), the player
@@ -5592,8 +5592,8 @@ previous attack ball. In any case,
 the middle of the angle of the
 opponent's best possible returns
 is crucial to the position at the
-net (see pp. 60-61, “Position
-for Net Play”).
+net (see pp. 60-61, "Position
+for Net Play").
 The player must jump into the
 ready position (split step) at the
 net at the instant the opponent
@@ -6131,7 +6131,7 @@ the backhander's partner in a
 tandem system. That forces
 the opponent to make a return
 \/down the line, which may be
-“more difficult. Since players
+"more difficult. Since players
 always have to deal with lob
 returns, the partners should
 clearly understand who is to
@@ -6313,7 +6313,7 @@ iiss
 nuschity 
 O 
 <5 
-Roviee’ ate Siussoidort 
+Roviee' ate Siussoidort 
 Rochunchud Dissedoglemma? 
 ey
 ,
@@ -6663,7 +6663,7 @@ Forehand and
 Backhand
 In what situations and for what
 purposes is this technique used?
-What is the ball’s trajectory
+What is the ball's trajectory
 like?
 Situations and Positions
 Ground shots with forehand
@@ -6699,7 +6699,7 @@ keep the ball in play).
 Fig.62 
 Aiming points.
 Fig. 63 
-The ball’s flight.
+The ball's flight.
 79
 Technique
 Fig. 64
@@ -6757,7 +6757,7 @@ to provide a fluid transition to
 the stroke phase (illustrations
 4-6).
 ¢ The knees are bent.)
-e ‘Theteftteg points forward in a
+e 'Theteftteg points forward in a
 closed stance in the anticipated
 direction of the shot (illustration
 4); at that point, the feet should
@@ -6884,7 +6884,7 @@ and contributes to a sudden
 acceleration of the racket.
 Stroke Phase _ 
 a
-e’ Failure to lower the racket
+e' Failure to lower the racket
 : head below the anticipated
 \ contact point makes swinging
 Fig. 66 
@@ -6965,7 +6965,7 @@ this produces an ideal transfer
 of energy.
 Just before contact, the wrist is
 brought into a position appro-
-priate to the ball’s departure
+priate to the ball's departure
 velocity to create to the great-
 est degree of accuracy.
 e 
@@ -7198,7 +7198,7 @@ slower, higher, and farther.
 In what situations and for
 what purposes is this tech-
 nique applied? What is the
-ball’s trajectory like?
+ball's trajectory like?
 Situations and Positions
 e The two-handed backhand is
 usually used to hit the ball after
@@ -7383,7 +7383,7 @@ punched.
 e 
 /f the right arm is not brought
 back far enough and is too far
-away from the body, ‘it restricts
+away from the body, 'it restricts
 the swing in the stroke phase.
 Stroke Phase
 e Straightening the legs too soon
@@ -7536,7 +7536,7 @@ Stroke Phase
 e 
 During the stroke movement
 directed forward and down-
-ward, the‘elbow is gradually
+ward, the'elbow is gradually
 straightened (illustrations 4-7);
 this sets up an ideal contact
 point.
@@ -7707,7 +7707,7 @@ picks up sidespin.
 control and safety.
 Footwork and stroke movement
 \ are very well coordinated.
-’
+'
 O77,
 Technique
 Fig. 82
@@ -10774,7 +10774,7 @@ tions 1 and 2). Feet should be
 kept at least hip width apart
 to maintain balance. With a
 backhand slice lob, the lateral
-“position is so pronounced
+"position is so pronounced
 that the right half of the
 back points to the net.
 Stroke Phase
@@ -10897,7 +10897,7 @@ Features of the Main Action
 Within the Stroke Phase
 The racket is swung: forward
 and steeply upward to hit the 
-‘
+'
 ball (illustrations 5-7). to create
 the steep angle of departure.
 The racket must move at a
@@ -11051,7 +11051,7 @@ moves toward the left hip in a
 windshield wiper movement.
 157
 Technique
-Common Flaws.and ‘Mistakes
+Common Flaws.and 'Mistakes
 Backswing
 ¢ Failure to use the forehand or
 backhand or extreme grip vari-
@@ -12254,7 +12254,7 @@ tactics, 64-65
 Baseline players, 56
 Baseline shot:
 description of, 32
-“offensive,” 65-70
+"offensive," 65-70
 speed of, 177
 stroke phase, 38-39
 Biochemical approach, to
@@ -12323,7 +12323,7 @@ technique, 109-112
 topspin, 151, 156-158
 Morphological approach, to move-
 ment, 19
-‘Movement:
+'Movement:
 average performance of, 23-24
 morphological characteristics of,
 27-29
@@ -12346,7 +12346,7 @@ rr
 eee
 178
 Index
-“Offensive” baseline shots, 65-70
+"Offensive" baseline shots, 65-70
 Offensive shots, 58
 Oncoming balls, 50-51
 Operative thought, 54
@@ -12465,7 +12465,7 @@ for slice and twist serve,
 for slice lob, 152-154
 for smash, 113, 116
 for topspin lob, 156-158
-’ for two-handed backhand,
+' for two-handed backhand,
 90-91
 Stroke position:
 description of, 15

@@ -23,7 +23,7 @@ the net into your opponent's
 court.
 Basic Tactics
 In competitive tennis, the play-
-ers’ goals include the following:
+ers' goals include the following:
 ® scoring points;
 ® causing the opponent to make
 mistakes; and
@@ -82,7 +82,7 @@ following factors:
 down the line to crosscourt);
 @ the height of the ball's flight
 (from low to high);
-@ the ball’s velocity (from slow
+@ the ball's velocity (from slow
 to fast);
 ® the ball's rotation (topspin,
 backspin, or sidespin).
@@ -124,7 +124,7 @@ the height and the placement
 of the shot.
 Footwork
 A ball that's hit by an opponent
-can land at’an infinite number of
+can land at'an infinite number of
 spots on the court between the
 baseline and the net. This means
 that the player must get out of
@@ -233,7 +233,7 @@ them. Coaches are in a position
 to instill these strokes in aspiring
 tennis players and to correct any
 errors that may crop up in their
-students’ techniques.
+students' techniques.
 At this point we will move
 onto a consideration of the theory
 behind footwork and stroke

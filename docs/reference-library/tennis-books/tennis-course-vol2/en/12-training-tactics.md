@@ -121,8 +121,8 @@ this example, he must decide
 whether it will be down the
 line or crosscourt; that is, the
 place where the approaching
-ball bounces “forces” the
-player to decide “correctly,”
+ball bounces "forces" the
+player to decide "correctly,"
 like the theoretically best
 solution known to him in an
 analogous situation.
@@ -144,8 +144,8 @@ tactical patterns considered should
 become increasingly more
 difficult, especially because of the
 decisions to be made. At any rate,
-the tactical plan in “learning
-tactics” is, for the most part,
+the tactical plan in "learning
+tactics" is, for the most part,
 prescribed. The opponent's
 behavior plays no role in the
 perception, judgment, and
@@ -183,7 +183,7 @@ volley down the line, as a
 winner or as a stop volley.
 B must therefore note whether
 the ball is relatively short, that
-is, if it bounces in the “T" area,
+is, if it bounces in the "T" area,
 and whether—because of the
 trajectory, speed, and
 rotation—it should be played
@@ -311,7 +311,7 @@ passing shot are weak.
 @ Player A has only one serve.
 Player B should attack this
 serve in any way possible, that
-is, he should attack A’s weak
+is, he should attack A's weak
 side with the return, whose
 spin and speed he chooses. The
 point is played out. The tactical
@@ -458,7 +458,7 @@ Examples
 @ Long balls are hit. The player
 attacks every short ball that
 bounces generally in the area
-of the “T". The points are
+of the "T". The points are
 played out.
 @ Player A hits only safe second
 serves. With the return, Player
@@ -496,10 +496,10 @@ shoulder-level ball to midcourt
 on the forehand side), agreed-
 on plays are practiced, for
 example, alternating stop balls
-and “winners.” It is important
+and "winners." It is important
 at first to follow the prearranged
 sequence exactly (discipline), so
-that even the “tosser" (short,
+that even the "tosser" (short,
 shoulder-level ball into
 midcourt) can fit into the basic
 pattern. After a specified time,
@@ -587,7 +587,7 @@ feet. The point is played out.
 @ Player A serves safe second
 serves. These balls are returned
 by Player B either offensively as
-“winners” to the server's
+"winners" to the server's
 corner (this allows the
 backhand to be overtaken) or
 more slowly to the baseline as
@@ -602,7 +602,7 @@ should last 15 minutes.
 Baseline Play
 Only training makes it clear how
 one operates most effectively
-against one’s closest opponent. A
+against one's closest opponent. A
 partner should take on the role of
 the future opponent. In this way,
 the various alternatives can be
@@ -644,7 +644,7 @@ pressured than the other. And it
 is very difficult for the pressured
 player to avoid making mistakes.
 Therefore, he must operate
-“tactically,” that is, he must adjust
+"tactically," that is, he must adjust
 to the stroke pace of the task; for
 example, he should occasionally
 return the ball higher (in order to
@@ -715,7 +715,7 @@ or a stop volley. B can still try
 to reach this ball and pass to A.
 @ Service from the left, return as
 a passing shot or lob; volley (at
-“T" height) down the line, or a
+"T" height) down the line, or a
 smash. The points are played
 out.
 @ Service to the center, return as
@@ -831,7 +831,7 @@ and coordination skills
 (coordination and flexibility). In
 Tennis-specific conditioning
 the following, we give the
-concept “conditioning”
+concept "conditioning"
 preference because it is widely
 used in sports and is familiar to
 tennis players.
@@ -913,7 +913,7 @@ speed (running and hitting speed),
 thereby limiting performance
 strength. Because of these
 considerations, the subchapter
-entitled “Strength” is geared
+entitled "Strength" is geared
 mainly to the development of
 speed. In addition, a poorly
 developed musculature is often

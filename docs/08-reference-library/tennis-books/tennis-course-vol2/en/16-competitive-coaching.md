@@ -51,7 +51,7 @@ limited to the competition itself
 and in German-speaking areas
 is referred to as coaching.
 However, in English-speaking
-areas, “coaching” refers to all
+areas, "coaching" refers to all
 advising and coaching activities
 in training and competition.
 Short-Term
@@ -434,10 +434,10 @@ strain of competition, some
 auxiliary actions (see Tennis
 Course, Volume 7) reveal actual
 deficiencies that can be corrected.
-Tips such as “Move more,”
-“Stand more to the side," “Bend
-your knee more," and “Watch
-the ball longer when you toss it,”
+Tips such as "Move more,"
+"Stand more to the side," "Bend
+your knee more," and "Watch
+the ball longer when you toss it,"
 can most often be processed.
 However, what should be
 considered is whether the player
@@ -448,7 +448,7 @@ Tips on Tactics
 A central component of coaching
 is to give appropriate advice on
 tactics (see also the chapter
-“Training Tactics”). Therefore, it is
+"Training Tactics"). Therefore, it is
 important from the beginning to
 observe one's opponents and
 analyze their strengths and
@@ -495,8 +495,8 @@ the player exhibits a lack of
 concentration, or if there is a lack
 of proper attitude toward the
 game (see the chapter entitled
-“Psychological Basics/Psychologi-
-cally Oriented Training,” p. 181).
+"Psychological Basics/Psychologi-
+cally Oriented Training," p. 181).
 If the current performance
 motivation is the main problem,
 one should consider whether the
@@ -544,14 +544,14 @@ end of the last point to the next
 serve. This important break can
 be divided into six phases in
 connection with the concept
-“pause between volleys” (see
+"pause between volleys" (see
 p. 
 196).
 First, the player should tak
 enough time to dry off, to take
 a drink, and, as a reaction to
 the finished volley or tt
-play, to express herself and “let
+play, to express herself and "let
 off steam."
 Then the player should relax and
 recuperate, using a chair that is

@@ -35,7 +35,7 @@ Total Articles: 96
 - [Head Fixation and the Mental Game](head-fixation-and-the-mental-game.md)
 - [Head Hunting](head-hunting.md)
 - [How to Deal with Bad Calls](how-to-deal-with-bad-calls.md)
-- [In your mind’s eyes](in-your-mind-s-eyes.md)
+- [In your mind's eyes](in-your-mind-s-eyes.md)
 - [Increasing Confidence](increasing-confidence.md)
 - [John Newcombe The Two Minds](john-newcombe-the-two-minds.md)
 - [Keep the Goal in Mind](keep-the-goal-in-mind.md)

@@ -403,7 +403,7 @@ tions 1 and 2). Feet should be
 kept at least hip width apart
 to maintain balance. With a
 backhand slice lob, the lateral
-“position is so pronounced
+"position is so pronounced
 that the right half of the
 back points to the net.
 
@@ -538,7 +538,7 @@ Features of the Main Action
 Within the Stroke Phase
 The racket is swung: forward
 and steeply upward to hit the 
-‘
+'
 ball (illustrations 5-7). to create
 the steep angle of departure.
 The racket must move at a
@@ -698,7 +698,7 @@ windshield wiper movement.
 <hr>
 
 Technique
-Common Flaws.and ‘Mistakes
+Common Flaws.and 'Mistakes
 Backswing
 ¢ Failure to use the forehand or
 backhand or extreme grip vari-

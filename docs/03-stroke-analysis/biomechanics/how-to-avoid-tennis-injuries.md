@@ -1247,7 +1247,7 @@ Scholar](https://scholar.google.com/scholar_lookup?journal=Br+J+Sports+Med&title
 Injury surveillance at the USTA Boys' Tennis Championships: a 6-yr
 study. Med Sci Sports Exerc. 1995;27(6):826--830.
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/7658943)\] \[[Google
-Scholar](https://scholar.google.com/scholar_lookup?journal=Med+Sci+Sports+Exerc&title=Injury+surveillance+at+the+USTA+Boys’+Tennis+Championships:+a+6-yr+study&author=MR+Hutchinson&author=RF+Laprade&author=QM+Burnett&author=R+Moss&author=J+Terpstra&volume=27&issue=6&publication_year=1995&pages=826-830&pmid=7658943&)\]
+Scholar](https://scholar.google.com/scholar_lookup?journal=Med+Sci+Sports+Exerc&title=Injury+surveillance+at+the+USTA+Boys'+Tennis+Championships:+a+6-yr+study&author=MR+Hutchinson&author=RF+Laprade&author=QM+Burnett&author=R+Moss&author=J+Terpstra&volume=27&issue=6&publication_year=1995&pages=826-830&pmid=7658943&)\]
 
 5\. Winge S, Jorgensen U, Lassen NA. Epidemiology of injuries in Danish
 championship tennis. Int J Sports Med. 1989;10(5):368--371.
@@ -1264,7 +1264,7 @@ Epidemiology of National Collegiate Athletic Association men's and
 women's tennis injuries, 2009/2010-2014/2015. Br J Sports Med.
 2016;50(19):1211--1216.
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26719502)\] \[[Google
-Scholar](https://scholar.google.com/scholar_lookup?journal=Br+J+Sports+Med&title=Epidemiology+of+National+Collegiate+Athletic+Association+men’s+and+women’s+tennis+injuries,+2009/2010-2014/2015&author=RC+Lynall&author=ZY+Kerr&author=A+Djoko&author=BM+Pluim&author=B+Hainline&volume=50&issue=19&publication_year=2016&pages=1211-1216&pmid=26719502&)\]
+Scholar](https://scholar.google.com/scholar_lookup?journal=Br+J+Sports+Med&title=Epidemiology+of+National+Collegiate+Athletic+Association+men's+and+women's+tennis+injuries,+2009/2010-2014/2015&author=RC+Lynall&author=ZY+Kerr&author=A+Djoko&author=BM+Pluim&author=B+Hainline&volume=50&issue=19&publication_year=2016&pages=1211-1216&pmid=26719502&)\]
 
 8\. Okholm Kryger K, Dor F, Guillaume M, Haida A, Noirez P, Montalvan B,
 Toussaint JF. Medical reasons behind player departures from male and
@@ -1291,7 +1291,7 @@ tendinosis in their dominant shoulder compared with their nondominant
 shoulder. J Athl Train. 2015;50(12):1299--1305. \[[PMC free
 article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741256/)\]
 \[[PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26651279)\] \[[Google
-Scholar](https://scholar.google.com/scholar_lookup?journal=J+Athl+Train&title=Asymptomatic+elite+adolescent+tennis+players’+signs+of+tendinosis+in+their+dominant+shoulder+compared+with+their+nondominant+shoulder&author=FR+Johansson&author=E+Skillgate&author=A+Adolfsson&author=G+Jenner&author=E+DeBri&volume=50&issue=12&publication_year=2015&pages=1299-1305&pmid=26651279&)\]
+Scholar](https://scholar.google.com/scholar_lookup?journal=J+Athl+Train&title=Asymptomatic+elite+adolescent+tennis+players'+signs+of+tendinosis+in+their+dominant+shoulder+compared+with+their+nondominant+shoulder&author=FR+Johansson&author=E+Skillgate&author=A+Adolfsson&author=G+Jenner&author=E+DeBri&volume=50&issue=12&publication_year=2015&pages=1299-1305&pmid=26651279&)\]
 
 12\. Lesniak BP, Baraga MG, Jose J, Smith MK, Cunningham S, Kaplan LD.
 Glenohumeral findings on magnetic resonance imaging correlate with
@@ -1661,7 +1661,7 @@ Scholar](https://scholar.google.com/scholar_lookup?journal=J+Bone+Joint+Surg+Am&
 70\. Wilk KE, Williams RA, Dugas JR, Cain EL, Andrews JR. Current
 concepts in the assessment and rehabilitation of the thrower's shoulder.
 Oper Tech Sports Med. 2016;24(3):170--180. \[[Google
-Scholar](https://scholar.google.com/scholar_lookup?journal=Oper+Tech+Sports+Med&title=Current+concepts+in+the+assessment+and+rehabilitation+of+the+thrower’s+shoulder&author=KE+Wilk&author=RA+Williams&author=JR+Dugas&author=EL+Cain&author=JR+Andrews&volume=24&issue=3&publication_year=2016&pages=170-180&)\]
+Scholar](https://scholar.google.com/scholar_lookup?journal=Oper+Tech+Sports+Med&title=Current+concepts+in+the+assessment+and+rehabilitation+of+the+thrower's+shoulder&author=KE+Wilk&author=RA+Williams&author=JR+Dugas&author=EL+Cain&author=JR+Andrews&volume=24&issue=3&publication_year=2016&pages=170-180&)\]
 
 71\. Cools AM, Declercq G, Cagnie B, Cambier D, Witvrouw E. Internal
 impingement in the tennis player: rehabilitation guidelines. Br J Sports

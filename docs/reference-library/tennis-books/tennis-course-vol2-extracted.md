@@ -259,7 +259,7 @@ various ways of moving on the
 court. For this, one can observe
 players with outstanding footwork
 (for example, Steffi Graf and Pete
-Sampras) and compare one’s own
+Sampras) and compare one's own
 footwork (on video). After that,
 different variants of footwork are
 tried out in prescribed situations in
@@ -314,7 +314,7 @@ to execute steady backswing
 movements.
 It should be emphasized once
 more that footwork should be
-practiced “isolated” only very
+practiced "isolated" only very
 rarely; more often, it should be
 taught and trained as part of
 complex techniques-and-tactics
@@ -432,7 +432,7 @@ tactics, it is
 a question of one-
 sided adherence to tactical
 concepts, (for example, those
-who “stick” to the baseline and
+who "stick" to the baseline and
 those who always seem to storm
 the net).
 Retraining is an extremely
@@ -450,7 +450,7 @@ student and try to find out what
 has led to these idiosyncrasies.
 A typical baseline player with
 this mentality will not let himself
-“switch” to a serve-and-
+"switch" to a serve-and-
 volley player and vice versa.
 Consequently, the key idea is to
 train such players in the context
@@ -487,7 +487,7 @@ dynamic structure of the hitting
 technique that is suited to the
 situation. In no case should a
 successful technique, which is,
-however, a “false” one in the eye
+however, a "false" one in the eye
 of the beholder, be readjusted
 without hesitation. However, the
 instructor should be able to
@@ -678,7 +678,7 @@ trends should then be considered:
 baseline,
 —
 Provoking short balls from the
-opponent through one’s own
+opponent through one's own
 (fast or placed) play,
 —
 Using the opponent's short balls
@@ -775,7 +775,7 @@ for themselves.
 Videotapes of their own
 competitions can also be
 discussed. Here, the trainer gives
-advice for the students’ own
+advice for the students' own
 control of techniques and tactics,
 with the goal that the young
 people learn to coach themselves
@@ -792,7 +792,7 @@ own tournaments.
 Training with
 Women
 Women's tennis is different from
-men’s in a few particulars:
+men's in a few particulars:
 @ Women do not serve as hard
 and thus concentrate more on
 the return. In women's
@@ -840,7 +840,7 @@ transition from the baseline to
 the net.
 Basically, there have to be
 serious differences between
-women’s and men’s tennis
+women's and men's tennis
 because the men hit harder and
 have a greater ability to jump.
 Men are also in a position to run
@@ -864,11 +864,11 @@ even if specific basic strategies
 are individually preferred in a
 match.
 @ Even if there is generally no
-“best of five” matches in
-women’s tennis, conditioning
+"best of five" matches in
+women's tennis, conditioning
 training in women's tennis
 should be given the same value
-as in men’s tennis.
+as in men's tennis.
 Because physical fitness is the
 basis for training techniques and
 tactics, one should also be careful
@@ -1030,7 +1030,7 @@ walks. Resilient stamina and
 flexibility can be taught, for
 example, within a functional
 gymnastics program (see the
-“Training Conditioning”
+"Training Conditioning"
 section).
 Training in Senior Competitive Tennis
 a
@@ -1083,7 +1083,7 @@ limited to the competition itself
 and in German-speaking areas
 is referred to as coaching.
 However, in English-speaking
-areas, “coaching” refers to all
+areas, "coaching" refers to all
 advising and coaching activities
 in training and competition.
 Short-Term
@@ -1457,10 +1457,10 @@ strain of competition, some
 auxiliary actions (see Tennis
 Course, Volume 7) reveal actual
 deficiencies that can be corrected.
-Tips such as “Move more,”
-“Stand more to the side," “Bend
-your knee more," and “Watch
-the ball longer when you toss it,”
+Tips such as "Move more,"
+"Stand more to the side," "Bend
+your knee more," and "Watch
+the ball longer when you toss it,"
 can most often be processed.
 However, what should be
 considered is whether the player
@@ -1471,7 +1471,7 @@ Tips on Tactics
 A central component of coaching
 is to give appropriate advice on
 tactics (see also the chapter
-“Training Tactics”). Therefore, it is
+"Training Tactics"). Therefore, it is
 important from the beginning to
 observe one's opponents and
 analyze their strengths and
@@ -1518,8 +1518,8 @@ the player exhibits a lack of
 concentration, or if there is a lack
 of proper attitude toward the
 game (see the chapter entitled
-“Psychological Basics/Psychologi-
-cally Oriented Training,” p. 181).
+"Psychological Basics/Psychologi-
+cally Oriented Training," p. 181).
 If the current performance
 motivation is the main problem,
 one should consider whether the
@@ -1564,14 +1564,14 @@ end of the last point to the next
 serve. This important break can
 be divided into six phases in
 connection with the concept
-“pause between volleys” (see
+"pause between volleys" (see
 p.
 196).
 First, the player should tak
 enough time to dry off, to take
 a drink, and, as a reaction to
 the finished volley or tt
-play, to express herself and “let
+play, to express herself and "let
 off steam."
 Then the player should relax and
 recuperate, using a chair that is
@@ -2082,7 +2082,7 @@ different therapy strategies
 according to current knowledge.
 This type of operation must
 remain the purview of the
-physician (“First Aid from the
+physician ("First Aid from the
 Physician").
 Explanations of
 Concepts
@@ -2966,9 +2966,9 @@ vibration damping,
 Too-taut strings,
 Nonelastic strings,
 Heavy (wet) balls,
-Hard balls (for example, “long-
-play” balls),
-“Fast" court surface,
+Hard balls (for example, "long-
+play" balls),
+"Fast" court surface,
 High speed of opponent's balls
 (particularly on the service).
 Strengthening and Stretching the
@@ -3404,7 +3404,7 @@ performance/skills 1
 must be compared
 and target values. Norm
 c
-‘a
+'a
 sf
 specification profiles wit
 Analysis of the
@@ -3734,14 +3734,14 @@ players has a special place among
 monitoring procedures because it
 observes the student in actual
 training and competitive situations
-and provides precise “hard” data
+and provides precise "hard" data
 at the same time. In contrast to
 the other monitoring processes, it
 is not done under special test
 conditions beyond the competition.
 Basically, one can differentiate
 between systematic observation
-of the player (“scouting”) and
+of the player ("scouting") and
 observation where the judgment
 of performance is made
 unsystematically via cell phone or
@@ -3865,7 +3865,7 @@ scope, this primarily concerns
 carbohydrates, minerals, fluids,
 and protein (especially for children
 and young people). In this
-situation, “empty” calorie carriers
+situation, "empty" calorie carriers
 (such as french fries or ice cream)
 or considerable amounts of
 second-level drinks (such as soft
@@ -4032,7 +4032,7 @@ sports offer the child a range of
 opportunities:
 e Fostering physical, mental, and
 spiritual development;
-@ Experiencing one’s own
+@ Experiencing one's own
 performance limits;
 @ Building self-confidence;
 @ Experiencing community
@@ -4075,7 +4075,7 @@ parents; regular, repeated
 evaluation of opportunities and
 risks for the individual child,
 perhaps slowing down the
-parents’ overzealous
+parents' overzealous
 expectations of performance
 and success.
 On the Pedagogical Responsibility of the Train«
@@ -4117,7 +4117,7 @@ competition into the overall world
 of the children and young people
 in such a way that at the end of
 their athletic careers, they can say
-“The sport has enriched my life."
+"The sport has enriched my life."
 CUE Le
 3 9999 03923 778
 7

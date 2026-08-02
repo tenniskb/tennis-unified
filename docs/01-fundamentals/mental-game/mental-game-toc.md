@@ -212,7 +212,7 @@ Response](Mastering%20Your%20Choking%20Response.docx)
 
 [From Positive to Negative](From%20Negative%20to%20Positive.docx)
 
-[In Your Mind's Eye](In%20your%20mind’s%20eyes.docx)
+[In Your Mind's Eye](In%20your%20mind's%20eyes.docx)
 
 **Allen Fox**
 

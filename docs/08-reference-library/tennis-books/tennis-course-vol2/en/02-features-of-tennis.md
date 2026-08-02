@@ -129,7 +129,7 @@ complete at least one match per
 day. International tournaments
 usually last 
 a week, with the
-“Grand Slam" running for two
+"Grand Slam" running for two
 weeks. But there are also three-
 day events (Friday through
 Sunday), in which a competitor
@@ -201,7 +201,7 @@ major factor favoring tennis is that
 it does not require a high level of
 organization. Compared with
 many other sports, one can pursue
-tennis as a hobby to fit one’s
+tennis as a hobby to fit one's
 schedule relatively flexibly, since
 the only necessity is a partner.
 These features of tennis—its

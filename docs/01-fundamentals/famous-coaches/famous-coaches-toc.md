@@ -47,7 +47,7 @@ this section. Stay tuned for that.
 
 **John Yandell**
 
-[What is Tennis Con?](What’s%20Tennis%20Con.docx) - NEW
+[What is Tennis Con?](What's%20Tennis%20Con.docx) - NEW
 
 **Tim Mayotte**
 

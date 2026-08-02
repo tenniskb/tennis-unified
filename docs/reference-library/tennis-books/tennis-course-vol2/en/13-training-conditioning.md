@@ -179,7 +179,7 @@ over to high stress intensity are
 trained, which expands the
 spectrum of organ functions
 related to stamina. The
-“steeplechase” is especially
+"steeplechase" is especially
 recommended for the tennis
 teacher; here, changes in pace are
 included, corresponding to natural
@@ -667,7 +667,7 @@ Stamina training with a ball-
 tossing machine: Forehand/
 backhand topspin crosscourt or
 backhand slice cross-forehand
-“shot" down the line continually
+"shot" down the line continually
 alternating. Two players regularly
 switch after three to six strokes.
 158
@@ -1557,7 +1557,7 @@ should be carried out according to
 the series approach while varying
 the muscle groups involved.
 Varying the training content
-avoids undesired “speed barriers”
+avoids undesired "speed barriers"
 along with early (pivotal) fatigue
 with corresponding loss of
 performance motivation.
@@ -1577,7 +1577,7 @@ still be expanded before central
 nervous system development is
 complete.
 Numerous studies show that
-the central nervous systems’
+the central nervous systems'
 limited ability to be influenced
 decreases qualitatively through
 early school age and puberty. The
@@ -1711,7 +1711,7 @@ partner stands behind him and
 throws the balls against the wall
 with varying speed, height, and
 direction.
-“Machine-gun” with different
+"Machine-gun" with different
 colored balls (yellow, volley to the
 right; orange, volley to the left).
 The one who is tossing continues
@@ -1829,7 +1829,7 @@ recommended.
 
 Training Conditioning
 Forehand baseline stroke:
-Forehand “winner” from the
+Forehand "winner" from the
 backhand corner low crosscourt
 into the opponent's backhand
 court. From the center of the
@@ -1842,12 +1842,12 @@ running around the backhand.
 Winners with fore- and backhand
 from half court: 10 x 4 forehand
 and/or backhand strokes are hit
-as “winners” down the line or
+as "winners" down the line or
 crosscourt as balls are tossed short
 and high from the half-court.
 Complex Exercises
 Training in return strokes as
-“winners” with quickest possible
+"winners" with quickest possible
 point of contact to a designated
 target.
 Running down a stop or lob with
@@ -1922,7 +1922,7 @@ training not only as a prophylaxis
 for injuries but also as a regenera-
 tive measure after exhaustive
 training and competition stress.
-For a “muscle and limb hygiene,”
+For a "muscle and limb hygiene,"
 better physical and psychological
 well-being can be achieved this
 way as quickly as possible.
@@ -2200,7 +2200,7 @@ the ball far outside.
 @ Low forehand and backhand
 volley or half-volley close to
 the net-starting position:
-“turntable” position as one's
+"turntable" position as one's
 partner tosses or throws.
 Home Training
 Program
@@ -2226,7 +2226,7 @@ to injury: the back (especially the
 lumbar spine), thighs and knees
 due to (over) stress, and the
 hitting shoulder because of
-tennis’ quite one-sided actions,
+tennis' quite one-sided actions,
 as previously discussed. As a
 result, it is primarily a matter of
 strengthening the musculature in
@@ -2463,7 +2463,7 @@ the forearms propped.
 Slowly push backward into the
 mat with the forearms, and at
 the same time, keep the body
-taut (“straight as a board”)
+taut ("straight as a board")
 (Fig. 105).
 In addition, one leg can be
 raised from the floor.
@@ -2613,19 +2613,19 @@ Phenomena and
 Problems
 Before, during, and after
 competitions, one often hears
-something like, “It just didn't
+something like, "It just didn't
 work today—especially my
-forehand just didn't work,”
-“Man, it just can't be that | blew
-such an easy volley,” “He is
-playing like he's in a fog,” “I
+forehand just didn't work,"
+"Man, it just can't be that | blew
+such an easy volley," "He is
+playing like he's in a fog," "I
 know just what I'm doing wrong
 with my backhand, but | just can't
 change it in 
-a competition,” “I've
+a competition," "I've
 already lost often with this kind of
-lead," “With wind like this, you
-can’t win.” Such remarks, heard
+lead," "With wind like this, you
+can't win." Such remarks, heard
 so frequently, indicate that achieve-
 ment in tennis is determined not
 only by physical, technical, and

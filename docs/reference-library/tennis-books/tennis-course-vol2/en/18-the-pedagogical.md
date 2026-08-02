@@ -82,7 +82,7 @@ sports offer the child a range of
 opportunities:
 e Fostering physical, mental, and
 spiritual development;
-@ Experiencing one’s own
+@ Experiencing one's own
 performance limits;
 @ Building self-confidence;
 @ Experiencing community
@@ -128,7 +128,7 @@ parents; regular, repeated
 evaluation of opportunities and
 risks for the individual child,
 perhaps slowing down the
-parents’ overzealous
+parents' overzealous
 expectations of performance
 and success.
 On the Pedagogical Responsibility of the Train«
@@ -170,4 +170,4 @@ competition into the overall world
 of the children and young people
 in such a way that at the end of
 their athletic careers, they can say
-“The sport has enriched my life."
+"The sport has enriched my life."

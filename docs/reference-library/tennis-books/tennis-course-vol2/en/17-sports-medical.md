@@ -231,7 +231,7 @@ different therapy strategies
 according to current knowledge.
 This type of operation must
 remain the purview of the
-physician (“First Aid from the
+physician ("First Aid from the
 Physician").
 Explanations of
 Concepts
@@ -1136,9 +1136,9 @@ vibration damping,
 Too-taut strings,
 Nonelastic strings,
 Heavy (wet) balls,
-Hard balls (for example, “long-
-play” balls),
-“Fast" court surface,
+Hard balls (for example, "long-
+play" balls),
+"Fast" court surface,
 High speed of opponent's balls
 (particularly on the service).
 Strengthening and Stretching the
@@ -1586,7 +1586,7 @@ performance/skills 1
 must be compared
 and target values. Norm
 c 
-‘a 
+'a 
 sf
 specification profiles wit
 Analysis of the
@@ -1922,14 +1922,14 @@ players has a special place among
 monitoring procedures because it
 observes the student in actual
 training and competitive situations
-and provides precise “hard” data
+and provides precise "hard" data
 at the same time. In contrast to
 the other monitoring processes, it
 is not done under special test
 conditions beyond the competition.
 Basically, one can differentiate
 between systematic observation
-of the player (“scouting”) and
+of the player ("scouting") and
 observation where the judgment
 of performance is made
 unsystematically via cell phone or
@@ -2053,7 +2053,7 @@ scope, this primarily concerns
 carbohydrates, minerals, fluids,
 and protein (especially for children
 and young people). In this
-situation, “empty” calorie carriers
+situation, "empty" calorie carriers
 (such as french fries or ice cream)
 or considerable amounts of
 second-level drinks (such as soft

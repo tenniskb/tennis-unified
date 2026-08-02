@@ -54,7 +54,7 @@ good reactions, great coordina-
 tion, and the necessary muscular
 development.
 The foregoing move is so far
-removed from “normal” tennis
+removed from "normal" tennis
 that it may never appear in any
 tennis instructional. (See also
 the photo on page 41.)
@@ -62,7 +62,7 @@ Agassi and Becker apply their
 particular moves in the best way
 possible from a functional and
 individual viewpoint.
-Example 2: Children’s Tennis
+Example 2: Children's Tennis
 Children obviously have
 different physical characteristics
 than adults. For example, they
@@ -948,7 +948,7 @@ low contact points at knee level
 or below (see photo on p. 33).
 Fig.17 
 Side distance from ball in back-
-“hand baseline shot (straight arm).
+"hand baseline shot (straight arm).
 
 <hr>
 

@@ -41,8 +41,8 @@ This stage includes
 understanding the conceptual
 and theoretical identification of
 conditions and qualities that
-characterize a person as “tennis
-talent.”
+characterize a person as "tennis
+talent."
 e@ Searching and selecting talent:
 The goal of a talent search is to
 find those people who exhibit
@@ -54,7 +54,7 @@ the question whether they
 should be channeled into
 specific athletic activities that
 offer encouragement and
-whether the “nontalented”
+whether the "nontalented"
 should be excluded from this
 support.
 e Fostering talent: This stage
@@ -64,7 +64,7 @@ talent achieve the expected
 future high achievement.
 Defining Talent
 The first question focuses how
-the concept “talent” can more
+the concept "talent" can more
 accurately be determined. This
 concept is frequently linked to the
 idea that some people are born
@@ -584,7 +584,7 @@ vagaries of the opponent's playing
 style, the court surface, balls,
 Stamina (see also the chapter
 school-age children, the following — one-sided stresses) with a healthy
-tions are always “new.” Moreover, 
+tions are always "new." Moreover, 
 general recommendations help
 (and not only for tennis):
 child there are no limitations with
@@ -592,7 +592,7 @@ regard to ability to take stress.
 A good aerobic capacity should be
 developed early on to prepare for
 weather conditions, and the like. 
-entitled “Training Conditioning," 
+entitled "Training Conditioning," 
 the high stresses expected in the
 p: 153):
 Recommendations for Training = Aerobic stamina can already be
@@ -617,7 +617,7 @@ good aerobic capacity, which is
 not yet developed because of
 their young training age.
 Strength (see also the chapter
-entitled “Training Conditioning,"
+entitled "Training Conditioning,"
 p. 152)
 Children should be directed
 through a strength-training
@@ -629,7 +629,7 @@ avoid sports injuries and the basis
 for future training of maximum
 strength and agility.
 Speed (see also the chapter
-entitled “Training Conditioning,"
+entitled "Training Conditioning,"
 p. 152)
 When the performance ability of
 the central nervous system plays a
@@ -648,7 +648,7 @@ effective training period shifts to
 older school-age children and
 teenagers.
 Flexibility (see also the chapter
-entitled “Training Conditioning,”
+entitled "Training Conditioning,"
 p. 152)
 Children are essentially more
 flexible than adults. Therefore
@@ -665,8 +665,8 @@ stretching exercises that
 simultaneously develop the
 musculature is recommended.
 Coordination (see also the
-chapter entitled “Training
-Coordination,” p. 117)
+chapter entitled "Training
+Coordination," p. 117)
 Coaching of coordination abilities
 is central to training in school-age
 children. For this, the movement
@@ -679,7 +679,7 @@ scope. Basic training focuses on a
 tennis-specific development of
 coordination abilities, in which the
 tennis instructor should be careful
-that this is as “broad” as possible
+that this is as "broad" as possible
 (all stroke techniques and forms
 of footwork) and always
 connected with a general
@@ -767,8 +767,8 @@ an upper limit of 12 hours per
 week. The following is an
 example of a 10-hour-per-week
 workout:
-@ 4x 2 hours (“60-minute
-hours”) of tennis training; 3 of
+@ 4x 2 hours ("60-minute
+hours") of tennis training; 3 of
 these 8 hours should be
 devoted to conditioning.
 @ 2 hours general coordination
@@ -835,7 +835,7 @@ basic training at first produces
 a more limited increase in skills
 in tennis; that means that
 others, who specialize very
-early, temporarily “move
+early, temporarily "move
 ahead." Patience and far-
 sightedness are necessary here.
 110
@@ -854,7 +854,7 @@ emphasis on ranking.
 Developmental
 Training
 A few years ago, puberty was still
-viewed as “easytime.” In the
+viewed as "easytime." In the
 meantime, the realization that
 children and teenagers in this
 phase of development are very

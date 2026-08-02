@@ -74,7 +74,7 @@ tactics, 64-65
 Baseline players, 56
 Baseline shot:
 description of, 32
-“offensive,” 65-70
+"offensive," 65-70
 speed of, 177
 stroke phase, 38-39
 Biochemical approach, to
@@ -143,7 +143,7 @@ technique, 109-112
 topspin, 151, 156-158
 Morphological approach, to move-
 ment, 19
-‘Movement:
+'Movement:
 average performance of, 23-24
 morphological characteristics of,
 27-29
@@ -169,7 +169,7 @@ eee
 <hr>
 
 Index
-“Offensive” baseline shots, 65-70
+"Offensive" baseline shots, 65-70
 Offensive shots, 58
 Oncoming balls, 50-51
 Operative thought, 54
@@ -288,7 +288,7 @@ for slice and twist serve,
 for slice lob, 152-154
 for smash, 113, 116
 for topspin lob, 156-158
-’ for two-handed backhand,
+' for two-handed backhand,
 90-91
 Stroke position:
 description of, 15

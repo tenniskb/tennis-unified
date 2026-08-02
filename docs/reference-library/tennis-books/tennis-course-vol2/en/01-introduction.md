@@ -22,7 +22,7 @@ Learning and Training in Groups 46
 50 Tennis Instruction
 with Various Target
 Groups
-Beginners’ Tennis/Minicourt
+Beginners' Tennis/Minicourt
 Tennis/Children's Tennis 50
 General Comments on Tennis
 Instruction for Beginners 51
