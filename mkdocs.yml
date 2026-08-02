@@ -15,6 +15,8 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.prune
+    - navigation.prev_next
+    - navigation.footer
     - search.highlight
     - search.suggest
     - alternate
@@ -156,7 +158,52 @@ nav:
       - Overview: fundamentals/index.md
       - Footwork:
           - Overview: fundamentals/footwork/index.md
-          - Contact Moves Introduction: fundamentals/footwork/return-of-serve-contact-moves-introduction.md
+          - "Introduction: The 12 Golden Moves": fundamentals/footwork/introduction-the-12-golden-moves.md
+          - "The 12 Golden Moves Overview": fundamentals/footwork/the-12-golden-moves-an-overview.md
+          - "Golden Move 1: The Stepdown": fundamentals/footwork/the-golden-move-1-the-stepdown.md
+          - "Golden Move 2: The Front Foot Hop": fundamentals/footwork/the-golden-move-2-the-front-foot-hop.md
+          - "Golden Move 3: The Lateral Hop": fundamentals/footwork/the-golden-move-3-the-lateral-hop.md
+          - "Golden Move 4: The Back Foot Hop": fundamentals/footwork/the-golden-move-4-the-back-foot-hop.md
+          - "Golden Move 5: The Loaded Transfer": fundamentals/footwork/the-golden-move-5-the-loaded-transfer.md
+          - "Golden Move 6: Low Spin": fundamentals/footwork/the-golden-move-6-low-spin.md
+          - "Golden Move 7: Reverse Spin": fundamentals/footwork/the-golden-move-7-reverse-spin.md
+          - "Golden Move 8: Two-Foot Pivot": fundamentals/footwork/the-golden-move-8-two-foot-pivot.md
+          - "Golden Move 9: One-Foot Pivot": fundamentals/footwork/the-golden-move-9-one-foot-pivot.md
+          - "Golden Move 10: Closed Backhand Pivot": fundamentals/footwork/the-golden-move-10-closed-backhand-pivot.md
+          - "Golden Move 11: The Mogul Move": fundamentals/footwork/the-golden-move-11-the-mogul-move.md
+          - "Golden Move 12: The Power Move": fundamentals/footwork/the-golden-move-12-the-power-move.md
+          - "First Two Steps: The Key to Quickness": fundamentals/footwork/first-two-steps-the-key-to-quickness.md
+          - "Forward Flow": fundamentals/footwork/forward-flow.md
+          - "Lateral and Forward Movement": fundamentals/footwork/lateral-and-forward-movement.md
+          - "The Athletic Foundation": fundamentals/footwork/the-athletic-foundation.md
+          - "Advanced Reaction Steps": fundamentals/footwork/advanced-reaction-steps.md
+          - "Contact Moves: Building Contact Moves": fundamentals/footwork/the-building-contact-moves.md
+          - "Contact Moves: Front Foot Hop": fundamentals/footwork/contact-moves-the-front-foot-hop.md
+          - "Contact Moves: Spin Moves": fundamentals/footwork/contact-moves-the-spin-moves.md
+          - "Contact Moves: Power Move": fundamentals/footwork/contact-moves-the-power-move.md
+          - "Contact Moves: Mogul Move": fundamentals/footwork/contact-moves-the-mogul-move.md
+          - "Contact Moves: Pivot Moves": fundamentals/footwork/contact-moves-the-pivot-moves.md
+          - "Contact Moves: Step Down": fundamentals/footwork/contact-moves-the-step-down.md
+          - "Contact Moves: Transfer": fundamentals/footwork/contact-moves-the-transfer.md
+          - "Contact Moves: Counter Attacking": fundamentals/footwork/the-counter-attacking-contact-moves.md
+          - "Contact Moves Introduction": fundamentals/footwork/return-of-serve-contact-moves-introduction.md
+          - "Return of Serve: Offensive Contact Moves": fundamentals/footwork/return-of-serve-offensive-contact-moves.md
+          - "Return of Serve: Defensive Contact Moves": fundamentals/footwork/return-of-serve-defensive-contact-moves.md
+          - "Rally Return: 2-Foot Pivot": fundamentals/footwork/rally-return-contact-moves-the-2-foot-pivot.md
+          - "Rally Return: Low Spin": fundamentals/footwork/rally-return-contact-moves-low-spin.md
+          - "Step-Step-Rip": fundamentals/footwork/step-step-rip.md
+          - "More on Step-Step-Rip": fundamentals/footwork/more-on-the-step-step-rip.md
+          - "Hitting on the Run": fundamentals/footwork/hitting-on-the-run.md
+          - "Inside Forehand": fundamentals/footwork/inside-forehand.md
+          - "Court Movement: Forehand": fundamentals/footwork/court-movement-the-forehand.md
+          - "Court Movement: Backhand": fundamentals/footwork/court-movement-the-backhand.md
+          - "Court Movement: Volley": fundamentals/footwork/court-movement-the-volley.md
+          - "Court Movement: Float": fundamentals/footwork/court-movement-the-float.md
+          - "World Class Movement": fundamentals/footwork/world-class-movement.md
+          - "Footwork TOC": fundamentals/footwork/footwork-toc.md
+          - "The Hitting Stance": fundamentals/footwork/the-hitting-stance.md
+          - "Ready Position": fundamentals/footwork/footwork-ready-position.md
+          - "Attacking Contact Moves": fundamentals/footwork/attacking-contact-moves.md
       - Strokes:
           - Overview: fundamentals/strokes/index.md
           - Forehand: fundamentals/strokes/forehand/index.md
