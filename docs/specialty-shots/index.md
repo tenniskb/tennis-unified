@@ -6,8 +6,6 @@ language: en
 
 # Specialty Shots — The Tactical Weapons of Tennis
 
-![Specialty Shots Banner](media_specialty-shots/specialty-shots-banner.webp){ loading=lazy }
-
 Every tennis player has a **forehand, backhand, serve, and volley**. The 3.5 player hits these 4 shots; the 4.5 player has 8+ shots in the toolkit. The specialty shot — drop shot, lob, tweener, half-volley, drive volley, moonball, squash shot, bugling forehand — is what separates **strategic players** from **ball-strikers**.
 
 This landing page catalogs the major specialty shots, when to use them, the technical cues, and the tactical situations where they shine.

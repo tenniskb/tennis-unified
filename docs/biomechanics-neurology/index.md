@@ -6,8 +6,6 @@ language: en
 
 # Biomechanics & Neurology — The Science of Tennis Performance
 
-![Biomechanics Banner](media_biomechanics-neurology/biomechanics-banner.webp){ loading=lazy }
-
 Tennis is a **geometry + physics + neurology** problem dressed up as a sport. Every forehand, every serve, every split-step is a kinetic chain: **ground → feet → knees → hips → trunk → shoulders → arm → racquet → ball**. Every movement decision is a control system: **vision → vestibular → proprioception → execution**. And every championship point is a **neurological event** — myelination, motor learning, and pressure inoculation under fire.
 
 This landing page synthesizes the **8-part Anatomy Lab deep dive series** (DD1–DD8) and integrates the **Elite / Pressure Inoculation** content on myelination, adaptation, and the 50+ body. It maps the science behind every stroke and every decision.

@@ -6,8 +6,6 @@ language: en
 
 # Doubles Tactics — Communication, Formations & The 50+ Longevity Game
 
-![Doubles Banner](media_doubles/doubles-banner.webp){ loading=lazy }
-
 Doubles is **the longevity game of tennis**. Where singles rewards speed, power, and endurance, doubles rewards **communication, positioning, and smart shot selection** — three things that only get better with age. For the 3.5-level recreational player, especially the 50+ player, doubles isn't a consolation prize. It's a strategic reframe: shorter points, smarter angles, and a partner to share the cognitive load.
 
 This landing page synthesizes the **5-chapter Doubles Tactics deep dive** — covering the big idea, communication & movement, the 3 formations, the 4 patterns, and a practice plan with tai chi parallels built in.
