@@ -84,12 +84,8 @@ plugins:
             New Issue: New Issue
             Reference Library: Reference Library
             Coauthored Books: Coauthored Books
-            Technical Reference: Technical Reference
             Training Programs: Training Programs
-            Player Profiles: Player Profiles
-            Rivalry Analyses: Rivalry Analyses
             Tennis Lexicon: Tennis Lexicon
-            Visual Library: Visual Library
             Tennis Wiki Reference: Tennis Wiki Reference
             Grip: Grip
             Forehand: Forehand
@@ -136,12 +132,8 @@ plugins:
             New Issue: Vấn Đề Mới
             Reference Library: Thư Viện Tham Khảo
             Coauthored Books: Sách Đồng Tác Giả
-            Technical Reference: Tài Liệu Kỹ Thuật
             Training Programs: Chương Trình Huấn Luyện
-            Player Profiles: Hồ Sơ Cầu Thủ
-            Rivalry Analyses: Phân Tích Đối Kháng
             Tennis Lexicon: Từ Điển Tennis
-            Visual Library: Thư Viện Hình Ảnh
             Tennis Wiki Reference: Tham Khảo Tennis Wiki
             Grip: Cầm Vợt
             Forehand: Cú Thuận Tay
@@ -202,12 +194,8 @@ nav:
       - Coauthored Books: reference-library/coauthored-books/index.md
       - TFL Manuals: reference-library/tfl-manuals/index.md
       - Tennis Books: reference-library/tennis-books/index.md
-      - Technical Reference: reference-library/technical-reference/index.md
       - Training Programs: reference-library/training-programs/index.md
-      - Player Profiles: reference-library/player-profiles/index.md
-      - Rivalry Analyses: reference-library/rivalry-analyses/index.md
       - Tennis Lexicon: reference-library/tennis-lexicon/index.md
-      - Visual Library: reference-library/visual-library/index.md
   - Tennis Wiki Reference:
       - Grip: tennis-wiki-reference/grip/index.md
       - Forehand: tennis-wiki-reference/forehand/index.md

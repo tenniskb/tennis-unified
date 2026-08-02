@@ -28,5 +28,3 @@ Total Books & Guides: 12
 - [Tennis Course Vol 1 - Extracted](tennis-course-vol1-extracted.md)
 - [Tennis Course Vol 2 - Lessons and Training (VI)](tennis-course-vol2-lessons-and-training-vi.md)
 - [Tennis Course Vol 2 - Extracted](tennis-course-vol2-extracted.md)
-- [Step by Step - Cleaned Text](step-by-step-cleaned.md)
-- [Step by Step - Raw Text](step-by-step-raw.md)
