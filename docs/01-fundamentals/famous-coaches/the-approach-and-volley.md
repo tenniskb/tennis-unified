@@ -10,8 +10,8 @@
 
 ### Here Rafter moves forward with his shoulders coiled and his racquet back, then slices the approach shot, and continues on to the net.
 
-**[[The purpose of the approach shot is to get you to the net and in
-position to make a clean volley.]{.underline}]{.mark}** ***[The best
+**The purpose of the approach shot is to get you to the net and in
+position to make a clean volley.** ***[The best
 ball to approach on is a short ball, one that lands on or near the
 service line because from there, you can get to the net with the fewest
 steps.]{.mark}***
@@ -32,10 +32,10 @@ the net.]{.mark}]{.underline}**
 twisted, as you rotate forward and step on through. Good balance is the
 key to a successful approach shot.]{.mark}]{.underline}**
 
-**[[On the backhand side, most one-handed players find it difficult to
+**On the backhand side, most one-handed players find it difficult to
 hit and control a topspin approach shot. I recommend that these players
 slice the approach shot because it is a physically easier stroke to
-control.]{.underline}]{.mark}** When executing this slice approach,
+control.** When executing this slice approach,
 swing forward and through the ball. Avoid chopping down to much and, of
 course, finish out the follow through.
 
@@ -49,26 +49,26 @@ course, finish out the follow through.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Most approach shots should be hit down the
-line.]{.underline}]{.mark}** **[That's the safest position to hit the
+**Most approach shots should be hit down the
+line.** **[That's the safest position to hit the
 ball because your position on the court will [allow you to get to the
 net quicker]{.underline} (the shortest distance to the net) and [allow
 you to cover the down the line passing shot]{.underline} which is the
 shortest distance the ball can travel to get by you.]{.mark}**
 
-**[[Approaching down the line allows you to stay in control of the point
-until you have a clear opportunity to finish.]{.underline}]{.mark}**
+**Approaching down the line allows you to stay in control of the point
+until you have a clear opportunity to finish.**
 **[Hitting the approach crosscourt opens the court for your opponent to
 take control of the point.]{.mark}** 
 
 **[[Approaching crosscourt is a fundamental mistake in net play at all
-levels]{.mark}]{.underline} - [[falling for the temptation to hit into
+levels]{.mark}]{.underline} - falling for the temptation to hit into
 what looks like a wide opening, only to be passed or lose control of the
-point]{.underline}]{.mark}.**
+point.**
 
-**[[Should you ever hit the approach crosscourt? Yes, if your opponent
+**Should you ever hit the approach crosscourt? Yes, if your opponent
 has a serious weakness on a particular side that you can easily
-exploit.]{.underline}]{.mark}** If your opponent does not have a
+exploit.** If your opponent does not have a
 weakness and you choose to hit the approach crosscourt, you had better
 hit it a dog gone good one because if you don't hurt your opponent,
 he/she will have an opening to pass you right down the line.
@@ -98,12 +98,12 @@ control so you try to set up a stable base and you rotate off of that
 stable base when executing the stroke. But at the net, volleyers are
 moving so there's not a stable stroke.
 
-**[[Where should you position yourself for the volley? The trick at the
+**Where should you position yourself for the volley? The trick at the
 net is to get as close as you safely can. It's easy to knock off almost
-any volley while standing on top of the net.]{.underline}]{.mark}**
-**[[If you are standing farther back, volley's become increasingly more
+any volley while standing on top of the net.**
+**If you are standing farther back, volley's become increasingly more
 difficult, From the service line, even high volleys, become
-difficult.]{.underline}]{.mark}**
+difficult.**
 
 **[[The problem is, standing on top of the net makes it relatively easy
 for your opponent to lob the ball over your head. So, the volleyer has
@@ -112,17 +112,17 @@ once.]{.mark}]{.underline}**
 
 First, he can't move in too close to the net before he knows what his
 opponent's going to do, whether his opponent's going to lob or hit a
-ground stroke**[[. So the safest position at the net is about a third of
-the way in from the service line to the net.]{.underline}]{.mark}** This
+ground stroke**. So the safest position at the net is about a third of
+the way in from the service line to the net.** This
 is where the volleyer should stand while he's waiting for the opponent
 to commit.
 
-**[[As soon as the volleyer sees the opponent is going to hit a
+**As soon as the volleyer sees the opponent is going to hit a
 groundstroke and not a lob, he/she should start moving forward and if
-possible, get right on top of the net.]{.underline}]{.mark}** **[[Then
+possible, get right on top of the net.** **Then
 he/she can hit down on the ball and create extremely sharp angles. From
 further away from the net, the volleyer's angles are reduced and it
-becomes more difficult to end the point.]{.underline}]{.mark}**
+becomes more difficult to end the point.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------
   ![](media_the-approach-and-volley/media/image4.wmf)\
@@ -153,12 +153,12 @@ because you're usually moving forward during the stroke. Of course,
 it's easier to hit the volley standing still. You only have one
 velocity to worry about, the velocity of the ball coming at you.
 
-**[[And that's the way most people practice the volley, standing still
+**And that's the way most people practice the volley, standing still
 or they may take one step into the ball as they block the
-shot.]{.underline}]{.mark}** As I said before, hitting a standing volley
-is relatively simple. **[[But during a match, you are rarely standing
+shot.** As I said before, hitting a standing volley
+is relatively simple. **But during a match, you are rarely standing
 still when volleying. You're always moving forward and that's the way
-the volley should be practiced.]{.underline}]{.mark}**
+the volley should be practiced.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
@@ -168,19 +168,19 @@ the volley should be practiced.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The volley is a coordination of eye, leg, and hands all
-together.]{.underline}]{.mark}**
+**The volley is a coordination of eye, leg, and hands all
+together.**
 
-1.  **[[The eyes see the ball coming and try to distinguish whether
-    it's a lob or a ground stroke.]{.underline}]{.mark}**
+1.  **The eyes see the ball coming and try to distinguish whether
+    it's a lob or a ground stroke.**
 
-2.  **[[When the eye decides it's a ground stroke, it transmits the
+2.  **When the eye decides it's a ground stroke, it transmits the
     message to the legs and you start to move
-    forward.]{.underline}]{.mark}**
+    forward.**
 
-3.  **[[Then you get the hands in place, and your legs drive you
+3.  **Then you get the hands in place, and your legs drive you
     through. You're getting a great deal of your power from your legs
-    alone.]{.underline}]{.mark}**
+    alone.**
 
 ### The Stroke
 
@@ -209,29 +209,29 @@ to add much energy of your own.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[It's important to stay relaxed and well balanced at the
-net]{.underline}]{.mark}**. A lot of people make the mistake of trying
+**It's important to stay relaxed and well balanced at the
+net**. A lot of people make the mistake of trying
 to do too much with the ball when they get in trouble at the net. This
 is especially true on awkward or difficult to handle balls. For awkward
 volleys, the trick is to relax your hands and watch the ball closely.
 Try to manipulate it with the hands. The important thing is to get it
 over the net and work for another shot.
 
-**[[Because you are moving forward on the volley, you step with your
+**Because you are moving forward on the volley, you step with your
 left foot on the hit (forehand) and the right foot comes up parallel to
 the net after contact. That stabilizes you and allows you to gather your
 balance so you can move to either side for the next ball if
-necessary.]{.underline}]{.mark}**
+necessary.**
 
-**[[Remember, you're moving as you hit the ball, but you're not trying
+**Remember, you're moving as you hit the ball, but you're not trying
 to run through it. You don't want to run two or three steps afterwards,
 just that one extra step to stabilize your position. Let your momentum
-carry your other leg through naturally.]{.underline}]{.mark}**
+carry your other leg through naturally.**
 
-**[[If the ball is high, however, and it's a fairly easy put-a-way,
+**If the ball is high, however, and it's a fairly easy put-a-way,
 then you don't have to worry about the next shot. Get to the net as
 fast as you can right on top of the net if possible and knock it
-off.]{.underline}]{.mark}**
+off.**
 
 | ![A picture containing text, newspaper Description automatically | Winning the Mental Match Dr. Allen Fox |
 | --- | --- |

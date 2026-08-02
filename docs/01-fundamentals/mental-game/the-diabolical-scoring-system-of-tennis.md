@@ -10,21 +10,21 @@ confidence](media_the-diabolical-scoring-system-of-tennis/media/image1.jpg)
 
 **What makes the scoring system in tennis diabolical?**
 
-**[[The tennis scoring system is different from most other sports. It
+**The tennis scoring system is different from most other sports. It
 uniquely increases the stress of competition, because throughout the
 match some points are substantially more important than others. In fact,
-this system is diabolical.]{.underline}]{.mark}**
+this system is diabolical.**
 
 In other sports the score is generally cumulative throughout the
 contest, and whoever has the most points at the end wins. In baseball,
 for example, you simply keep adding up the runs, and the winning team is
 the one that has the most after 9 innings. It's very straightforward.
 
-**[[Football, soccer, and basketball are essentially the same except
-that the game is over when time runs out.]{.underline}]{.mark}**
-**[[Still, each team just keeps adding up their points. Even golf is the
+**Football, soccer, and basketball are essentially the same except
+that the game is over when time runs out.**
+**Still, each team just keeps adding up their points. Even golf is the
 same except the numbers are backwards. The winning player has fewer
-points (strokes) than the others.]{.underline}]{.mark}**
+points (strokes) than the others.**
 
 Of course, there is a great deal of pressure in all sports if the scores
 are close toward the end of the contest, but none are as continuously
@@ -39,16 +39,16 @@ generated](media_the-diabolical-scoring-system-of-tennis/media/image2.webp)
 
 **Why is simply plugging away one point at a time the solution?**
 
-**[[You will have won about as many total points as your opponent, and
+**You will have won about as many total points as your opponent, and
 should, for all intents and purposes be about even. But winning the next
 point gives you the set, and you suddenly have half the match under your
 belt. At the same time, you've wiped out all of your opponent's
-points.]{.underline}]{.mark}**
+points.**
 
-**[[Essentially, you have half a match, and your opponent goes back to
+**Essentially, you have half a match, and your opponent goes back to
 zero. That's an enormous discrepancy hinging on the outcome of a single
 point, especially when the two players are actually about
-even.]{.underline}]{.mark}**
+even.**
 
 Moreover, since the play is so evenly balanced you are well-aware of the
 danger looming behind the loss of that set point. Lose it, and it would
@@ -114,16 +114,16 @@ two\--and at the same time, the other team would also lose five points.
 That would add huge pressure periodically to the middle of the
 game\--the way it is all the time in our sport.
 
-**[[These features of the tennis scoring system (as well as its
+**These features of the tennis scoring system (as well as its
 one-on-one, personal aspect) make the game fraught with emotion,
 pressure, and choking. It is simply mentally tougher than most of the
-other sports.]{.underline}]{.mark}**
+other sports.**
 
-**[[So what do you do about it? If you are not particularly confident
+**So what do you do about it? If you are not particularly confident
 (which most people players in fact aren't), you have to resist thinking
 about the score. Getting heavily involved with the score and winning the
 big points will make the unconfident player extremely
-nervous.]{.underline}]{.mark}**
+nervous.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_the-diabolical-scoring-system-of-tennis/media/image5.jpg)
@@ -147,15 +147,15 @@ extensively about all of these factors in another Tennisplayer article
 called \"Becoming a Great Competitor.\" ([Click
 Here](Becoming%20a%20Great%20Competitor.docx).)
 
-**[[The secret is a paradox. To treat all the points the same, even
+**The secret is a paradox. To treat all the points the same, even
 though they aren't. Take the stance that all points are important, but
 none too important. Plug along, one point at a
-time.]{.underline}]{.mark}**
+time.**
 
-**[[Try to ride over the big points by keeping your head into what you
+**Try to ride over the big points by keeping your head into what you
 will be doing in the next few seconds. Then, simply assume something
 good will happen. This type of thinking about our diabolical scoring
-system will increase the chance that it will.]{.underline}]{.mark}**
+system will increase the chance that it will.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

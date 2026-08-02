@@ -9,8 +9,8 @@ confidence](media_point-of-contact/media/image1.webp)
 **Can something as simple as the drop and hit really help you improve
 your contact point?**
 
-**[[For every shot in the game, the point of contact is the most
-important point,]{.underline}]{.mark}** but very few players have a
+**For every shot in the game, the point of contact is the most
+important point,** but very few players have a
 clear understanding of where the contact is, or the feeling for how to
 achieve it, especially when they are on the move.
 
@@ -19,10 +19,10 @@ universal problem and creating good contact. This is to imagine yourself
 catching the ball and executing a perfect drop and hit.
 
 Having watched and studied all levels of players, even at the top,
-**[[I've noticed that most errors come because players hit the ball too
-soon.]{.underline}]{.mark}** **[[A good way to tell if this is happening
+**I've noticed that most errors come because players hit the ball too
+soon.** **A good way to tell if this is happening
 is to see if you hit the ball at the top of the
-strings.]{.underline}]{.mark}**
+strings.**
 
 When a player hits the ball at the top of the frame and you hear that
 horrible sound, that's a telltale sign that he is hitting the ball too
@@ -39,20 +39,20 @@ you'd never miss.**
 **Late?**
 
 When I ask club players why they missed a certain ball, one of the
-standard answers is \"I was late.\" My observation is that **[[they may
+standard answers is \"I was late.\" My observation is that **they may
 have been late preparing, but the real problem was that they were too
-fast at the hit]{.underline}]{.mark}**.
+fast at the hit**.
 
-**[[When you prepare late, the brain realizes that you aren't ready and
+**When you prepare late, the brain realizes that you aren't ready and
 then overreacts. The result is the forward swing happens too
-fast.]{.underline}]{.mark}** It's a kind of panic reaction. It looks
+fast.** It's a kind of panic reaction. It looks
 awkward, it feels terrible, and the results are terrible. Even when
 players are moving forward, up into the court to the ball, they tend to
 swing too soon.
 
-**[[The root of the problem is that these players don't have a true
+**The root of the problem is that these players don't have a true
 feeling for where their contact point should be and are therefore unable
-to find it consistently in match play.]{.underline}]{.mark}**
+to find it consistently in match play.**
 
 **[As players we always say we want to hit the ball in front. But can
 you say exactly where?]{.mark}** What I am talking about is refining the
@@ -77,8 +77,8 @@ down.
 
 You drop it in the correct spot, you're on balance, you're
 comfortable, you make the shot, and you're ready for the next ball.
-**[[To practice this, I encourage players to start every rally with a
-perfect drop and hit.]{.underline}]{.mark}**
+**To practice this, I encourage players to start every rally with a
+perfect drop and hit.**
 
 Now think about applying this in actual play. Imagine if you were always
 in position to drop and hit. Your timing would be excellent. If you

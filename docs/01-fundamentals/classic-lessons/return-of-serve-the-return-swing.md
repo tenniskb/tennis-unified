@@ -34,15 +34,15 @@ position. That is all the backswing you need to return a serve hit with
 good speed\--assuming your return position is not far
 back.]{.mark}]{.underline}**
 
-**[[You want to simplify things so you can meet the ball using its pace.
-When]{.underline}]{.mark}** **[[you rotate the upper body, the outside
+**You want to simplify things so you can meet the ball using its pace.
+When** **[[you rotate the upper body, the outside
 foot---the right foot on a right-handed forehand---will often act as
 hinge and rotate to the outside.]{.mark} [The exact amount of rotation
 will vary among players and the type of serve being
 returned.]{.mark}]{.underline}**
 
 **At the same time you rotate the upper body, you should also emphasize
-[[bending the knee of the inside leg]{.underline}]{.mark}\--the left leg
+bending the knee of the inside leg\--the left leg
 on a right-handed forehand.** **[[This keeps the body in an athletic
 position and enables you to effectively push off the ground and
 explosively lunge out to intercept the return if
@@ -59,8 +59,8 @@ and backhand return.**
 
 The \"modern\" forehand groundstroke involves the so-called stretch
 shorten cycle of the wrist/forearm\--the so-called flip\--combined with
-a **[[closed off racket face at the bottom of the
-backswing]{.underline}]{.mark}**. All with the goal of providing more
+a **closed off racket face at the bottom of the
+backswing**. All with the goal of providing more
 power/explosiveness.
 
 The return of a fast-paced serve is a different stroke. A big serve puts
@@ -87,8 +87,8 @@ confidence](media_return-of-serve-the-return-swing/media/image4.jpg)
 
 **Notice how [much simpler]{.underline} Federer's approach is on the
 forehand return in contrast to his normal forehand groundstroke**.
-**[[The racket face on the return is essentially on edge from the end of
-the backswing through the forward swing.]{.underline}]{.mark}**
+**The racket face on the return is essentially on edge from the end of
+the backswing through the forward swing.**
 **[[There is no stretch shorten cycle with the
 wrist/forearm.]{.mark}]{.underline}**
 
@@ -102,8 +102,8 @@ the racket.**
 
 **Simple Forward Swing**
 
-**[[Simplicity applies on the forward swing as
-well.]{.underline}]{.mark}** **[The emphasis should be on a swing
+**Simplicity applies on the forward swing as
+well.** **[The emphasis should be on a swing
 straight through the ball.]{.underline}** **[[There will be a little
 natural topspin imparted as you center of gravity lifts up as you hit
 the shot, thus making the path of the racket go upwards. But you are

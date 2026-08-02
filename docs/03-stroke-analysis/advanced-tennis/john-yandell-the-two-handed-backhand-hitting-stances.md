@@ -84,17 +84,17 @@ out and body turn.**
 **Neutral Stance**
 
 By **[Neutral Stance (which is also sometimes called the Square
-Stance)]{.mark}** ***[[we mean basically that the front foot and the
+Stance)]{.mark}** ***we mean basically that the front foot and the
 back foot are in line at the time of the step to the
-ball.]{.underline}]{.mark}*** With the Neutral Stance the player has
+ball.*** With the Neutral Stance the player has
 stepped into the shot with the front foot, stepping forward and
 basically in the direction in which the ball will travel. If you drew a
 line along the tips of the player's toes, that line would be
 perpendicular to the baseline, or just slightly across, or sometimes on
 a slight diagonal parallel to the target line of the shot.
 
-***[[The Neutral Stance is most often hit around the center of the
-court.]{.underline}]{.mark}*** It's common when the player reverse
+***The Neutral Stance is most often hit around the center of the
+court.*** It's common when the player reverse
 pivots on the turn move, stepping away from the ball first with the back
 foot to initiate the set up. This happens when the ball comes more or
 less directly at the player, sometimes for example after he hits a serve
@@ -137,11 +137,11 @@ confidence](media_john-yandell-the-two-handed-backhand-hitting-stances/media/ima
 
 **Closed Stance**
 
-***[[One of the most surprising things I found in reviewing the high
+***One of the most surprising things I found in reviewing the high
 speed footage was just how many two-handed shots the players hit from
 radically closed stances. We're not talking about a small adjustment in
 the relative angle and spacing of the feet. We are talking about a
-decisive diagonal step across the body.]{.underline}]{.mark}***
+decisive diagonal step across the body.***
 Sometimes this cross step can appear almost gigantic. It's quite common
 for players like Davydenko to take a cross step that is two or even
 sometimes three shoulder widths in length. You'll see the Closed Stance
@@ -168,12 +168,12 @@ generated](media_john-yandell-the-two-handed-backhand-hitting-stances/media/imag
 two-hander can be closer to a one-handed backhand than a forehand.**
 
 If we look at the role of torso rotation we can start to understand why
-the Closed Stance is viable on the backhand side. ***[[The Closed Stance
+the Closed Stance is viable on the backhand side. ***The Closed Stance
 isn't used on the forehand for the obvious reason that it blocks the
 torso rotation, particularly with the more extreme grips. Players with
 extreme grips often look awkward trying to step in, or have to leave the
 court with the front foot at a certain point in the swing as the torso
-comes around.]{.underline}]{.mark}*** The one handed backhand has far
+comes around.*** The one handed backhand has far
 less rotation. The great one-handers stay sideways with the torso to a
 much greater to degree. At most they appear to open up 30 to 45 degrees,
 and on some balls the torso stays almost perpendicular to the net.
@@ -381,9 +381,9 @@ aren't Davydenko.**
 
 **The Jump Backhand**
 
-***[[But wait, aren't I forgetting the new most fashionable stance on
+***But wait, aren't I forgetting the new most fashionable stance on
 the two-hander? I mean the \"Air Stance\" for want of a better
-term.]{.underline}]{.mark}*** This is the leaping backhand in which the
+term.*** This is the leaping backhand in which the
 players elevate and raise the rear leg and especially the rear knee to
 go up to the ball? The interesting thing is the set up is the reverse of
 what you might expect. Watch Nalbandian in the animation. On all the
@@ -398,22 +398,22 @@ for certain, but the video shows that part of the move appears to be
 coming from the hip joint, not the ground reaction forces resulting from
 the knee bend. It's more of a pull upwards.
 
-***[[The real loading is on the other foot. Watch the sequence.
+***The real loading is on the other foot. Watch the sequence.
 Nalbandian first raises the rear leg with very little push off the
 court. The real push happens after the rear leg is already on the way
 up. The elevation comes from the uncoiling of the right front leg, but
 interestingly, the knee bend there isn't as deep as we might
-suspect.]{.underline}]{.mark}***
+suspect.***
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-the-two-handed-backhand-hitting-stances/media/image19.webp)
 
 **The loading appears to be reversed on the jumping backhand.**
 
-***[[It's amazing how high in the air he really gets. And that's the
+***It's amazing how high in the air he really gets. And that's the
 point of the stance\--it's a way to control the contact height and keep
 balls in the strike zone by elevating the entire body to the level of a
-high bouncing ball.]{.underline}]{.mark}***
+high bouncing ball.***
 
 Not sure if in our subscriber base we have too many players who are
 ready to try it, but it's causing a lot of commentary and stir. My

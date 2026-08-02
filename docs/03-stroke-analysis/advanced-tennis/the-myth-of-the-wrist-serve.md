@@ -114,9 +114,9 @@ the contact, it can't be a causal factor in the motion. If it was a
 causal factor, we would see it in the serves of all the top players
 most, if not all of the time.
 
-***[[There is no doubt that the arm and hand action in the service
+***There is no doubt that the arm and hand action in the service
 motion is by far the most complex of all the
-strokes.]{.underline}]{.mark}*** As we have seen (Myth of the Wrist,
+strokes.*** As we have seen (Myth of the Wrist,
 Forehand), on the forehand, all top players establish a hitting arm
 position before contact that is basically unchanged until well after the
 ball is off the strings. The same is true on the backhand side, and on
@@ -159,9 +159,9 @@ of the toss, the timing of the motion, the depth of knee bend, the level
 of body rotation\--all four players reach the bottom of the racquet drop
 with the racquet in virtually the same position relative to the body.
 
-**[[This position is with the racquet along the side of, and
+**This position is with the racquet along the side of, and
 perpendicular to, the plane of the torso. There is absolutely no such
-thing as a \"back scratch\" position.]{.underline}]{.mark}** Instead the
+thing as a \"back scratch\" position.** Instead the
 racquet falls along the side of the server's body. Note, all four
 players achieve this with a relatively low elbow position. That is, the
 upper arm is parallel to or close to parallel with the plane of the
@@ -180,21 +180,21 @@ develop a full drop. There is no doubt, however, that achieving the
 fullest possible drop with the lowest possible elbow position is the
 most fundamental key in developing a good motion.
 
-***[[From the racquet drop position, the player is now ready to start
+***From the racquet drop position, the player is now ready to start
 the motion upward and forward to the ball. This motion has two parts.
 The first is the triceps extension. At the drop, the hitting arm is bent
 at the elbow at around 90 degrees. Through a contraction of the triceps
 muscles, the player begins to straighten his arm and move it upward
 toward contact, until it becomes fully extended (i.e., straight) at the
-contact point itself.]{.underline}]{.mark}***
+contact point itself.***
 
-***[[When the arm is about half way to full extension, the hand,
+***When the arm is about half way to full extension, the hand,
 racquet, forearm, and upper arm also begin to rotate from left to right
 (again for a righthander). This is the third factor in the swing
 pattern. This internal rotating motion is often referred to by the
 technical term \"pronation.\" At the time of the contact, the hitting
 arm and the racquet are rotating as a unit from the shoulder, a motion
-that continues well out into the follow through.]{.underline}]{.mark}***
+that continues well out into the follow through.***
 
 One of the liveliest debates in coaching in recent years has been over
 the role of pronation, particularly the extreme or fully \"pronated\"

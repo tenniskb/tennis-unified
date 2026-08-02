@@ -46,8 +46,8 @@ generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/me
 **Watch as Federer shifts to a neutral or intermediate grip after his
 forehand, then makes the backhand shift.**
 
-**[[You might assume that, if the players were actually making that kind
-of grip shift. But they're not.]{.underline}]{.mark}** When I started
+**You might assume that, if the players were actually making that kind
+of grip shift. But they're not.** When I started
 looking closely at the high speed footage I was amazed to see what was
 actually happening. So far as I know, it hasn't been previously
 understood or analyzed.
@@ -164,8 +164,8 @@ generated](media_the-one-handed-topspin-backhand-the-grip-shift-and-unit-turn/me
 torso.**
 
 ***[The racket preparation happens as part of a larger pattern of body
-movement that involves the feet and the torso.]{.mark}*** ***[[This
-movement is the Unit Turn.]{.underline}]{.mark}*** ***It's the
+movement that involves the feet and the torso.]{.mark}*** ***This
+movement is the Unit Turn.*** ***It's the
 fundamental, critical move that all good one-handers share, at all
 levels of play. In this first phase of the preparation, the racket
 preparation is automatic as part of the unit, the same as we saw on the

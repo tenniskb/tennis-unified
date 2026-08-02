@@ -281,9 +281,9 @@ focus away from feelings that may be there, so their role is diminished.
 This makes sense because it is most commonly the negative thoughts and
 irrelevant distractions that fuel the anxiety pump in the first place.
 
-**[[So it is not the direct reduction of anxiety - heart rate, and blood
+**So it is not the direct reduction of anxiety - heart rate, and blood
 pressure, for example - that distinguishes the elite from the rest, but
-our ability to shift our attention on demand.]{.underline}]{.mark}** And
+our ability to shift our attention on demand.** And
 so far, it seems, the quicker the better. This information is extremely
 important because it can help us begin to use our psychological
 resources more effectively.
@@ -457,12 +457,12 @@ to affect everything else. As we train ourselves to shift our focus to
 our breath and stay mindful of what we are doing in the moment we
 strengthen our mind and generate new firing patterns in our brain.
 
-**[[As we shift our attention to the moment at hand, we increase the
+**As we shift our attention to the moment at hand, we increase the
 likelihood that we will play the game of tennis on our own terms. No
 longer do we need to be victims of random thoughts or physical
 sensations that shoot through our body. We can create a \"pause\" button
 that redirects our chain of thoughts to a new network that holds the key
-to our greatest potential and joy.]{.underline}]{.mark}** As I always
+to our greatest potential and joy.** As I always
 say, we aren't taking any of these trophies with us. But I believe we
 can lay our rackets down one day knowing that we responded to pressure
 without being held hostage to a mind that was designed largely for

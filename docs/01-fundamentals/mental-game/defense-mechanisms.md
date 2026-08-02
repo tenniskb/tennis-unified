@@ -212,14 +212,14 @@ of resolve. Match results roller-coaster in concert with emotions, and
 they may go through slumps severe enough to make them doubt the
 emotional control process entirely.
 
-**[[For a time, they will often resist reasserting emotional discipline
+**For a time, they will often resist reasserting emotional discipline
 and just let themselves go. This is akin to the overweight person who
 successfully diets for awhile but finally slips and begins to regain
 weight. Dieting has required the constant effort of self-denial. Once
-discipline slips and]{.underline}]{.mark}** **[[the dieter starts to
+discipline slips and** **the dieter starts to
 indulge - just a bit at first - and the lost weight starts to return, it
 becomes doubly difficult to diet again since much of the hopeful initial
-motivation has dissipated.]{.underline}]{.mark}**
+motivation has dissipated.**
 
 In like manner, tennis players, after the opening rush and early
 improvement, will usually relapse. They may not have the stomach to

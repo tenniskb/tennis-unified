@@ -13,12 +13,12 @@ How far should your hands be apart when you are playing a point in
 tennis? There is more than a good chance you have never asked that
 question.
 
-**[[Video analysis shows that the best players in the world keep their
+**Video analysis shows that the best players in the world keep their
 hands close together throughout the stroke production process: moving to
 the ball, striking the ball, and recovering for the next shot. In fact,
 excluding serves and overheads, world class players keep the hands
 shoulder width apart or less around 90% of the
-time.]{.underline}]{.mark}**
+time.**
 
 **Research Study**
 

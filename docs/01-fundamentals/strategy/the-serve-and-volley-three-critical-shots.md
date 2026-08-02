@@ -21,11 +21,11 @@ complete serve and volley player. These are: **[[the half volley and the
 overhead. And in the modern game, even at the club level, the swinging
 volley.]{.mark}]{.underline}**
 
-**[[Serve volley players must have confidence in their ability to deal
-with half volleys that bounce at the feet.]{.underline}]{.mark}**
-**[[They also must have absolute confidence in the overhead, both the
+**Serve volley players must have confidence in their ability to deal
+with half volleys that bounce at the feet.**
+**They also must have absolute confidence in the overhead, both the
 ability to use it to finish points but also to maintain advantage on
-more difficult balls.]{.underline}]{.mark}**
+more difficult balls.**
 
 **[[It's also important to have the ability to hit swinging volleys. In
 a game that is played with modern rackets and strings, even well-placed
@@ -113,17 +113,17 @@ the best way to stay in control.**
 Normally the half volley (especially at the pro level) is hit flat or
 with a small amount of topspin. But underspin is also a viable option.
 
-**[[A half volley hit with slice may have slightly less pace, but it may
+**A half volley hit with slice may have slightly less pace, but it may
 be easier for some players to get the ball up and over the
-net.]{.underline}]{.mark}** **[[The slice variation also has the
+net.** **The slice variation also has the
 advantage of staying lower after it bounces, which can increase the
-difficulty of the passing shot.]{.underline}]{.mark}**
+difficulty of the passing shot.**
 
 Regardless of direction or type of swing or spin, keeping the eyes
 locked on the ball and tracking it all the way into the sweet spot of
-the racquet is paramount to clean contact. The bottom line is **[[the
+the racquet is paramount to clean contact. The bottom line is **the
 most important thing about the half volley is simply making the shot a
-high percentage of the time.]{.underline}]{.mark}**
+high percentage of the time.**
 
 **The Overhead**
 
@@ -187,11 +187,11 @@ confidence](media_the-serve-and-volley-three-critical-shots/media/image6.webp)
 
 **When in doubt, direct the overhead back to the opponent's backhand.**
 
-**[[But when you may not feel this confidence on a given ball, I
+**But when you may not feel this confidence on a given ball, I
 recommend hitting the ball inside out to the opponent's
-backhand.]{.underline}]{.mark}** **[[Not only are you hitting to the
+backhand.** **Not only are you hitting to the
 weaker side, you have more court to work with hitting on a
-diagonal.]{.underline}]{.mark}**
+diagonal.**
 
 **The Swinging Volley**
 

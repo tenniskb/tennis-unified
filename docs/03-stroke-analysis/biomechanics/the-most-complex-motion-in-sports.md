@@ -46,9 +46,9 @@ your average child of 10 years -- good luck.
 
 **Reverse Engineering**
 
-**[[True understanding of the serve requires knowledge of the body
+**True understanding of the serve requires knowledge of the body
 motions that produce the racquet speed in the upward
-swing.]{.underline}]{.mark}** **[*[This understanding in turn leads to
+swing.** **[*[This understanding in turn leads to
 understanding the body actions that occur in earlier parts of the motion
 to facilitate the upward swing mechanics.]{.underline}* This reverse
 engineered approach, assessing the ends to understand the means, is a
@@ -69,9 +69,9 @@ confidence](media_the-most-complex-motion-in-sports/media/image3.webp)
 
 **Upward Swing Kinematics**
 
-***[[Kinematics is the branch of mechanics that describes motion
+***Kinematics is the branch of mechanics that describes motion
 (displacement, velocity, acceleration) without addressing the cause of
-these motions.]{.underline}]{.mark}*** Using advanced 3D motion
+these motions.*** Using advanced 3D motion
 measurement equipment and techniques it is possible to determine with
 high precision the angular velocity (rotational speed) of the body
 segments and therefore joints.

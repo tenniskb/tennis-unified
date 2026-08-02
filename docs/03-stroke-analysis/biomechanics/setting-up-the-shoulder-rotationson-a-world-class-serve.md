@@ -102,12 +102,12 @@ dorsi, the pectoralis major, the subscapularis, and the teres major.
 [**[This motion to the Trophy Position does two
 things]{.mark}**.]{.underline}
 
-**[[First, it increases the speed at which the forearm and racket are
-moving.]{.underline}]{.mark}**
+**First, it increases the speed at which the forearm and racket are
+moving.**
 
-**[[Second, it positions the forearm and racket so that leg thrust will
+**Second, it positions the forearm and racket so that leg thrust will
 be used effectively in producing external shoulder
-rotation]{.underline}]{.mark}**.
+rotation**.
 
 **Note: some high level servers, especially those with high tosses, do
 not include this Motion to Trophy Position in their service motions.**
@@ -121,9 +121,9 @@ racket to rotate backward and down.**
 
 **Leg Thrust**
 
-Now let's look at the Leg Thrust. **[[As the knees extend, the entire
+Now let's look at the Leg Thrust. **As the knees extend, the entire
 body moves upward and forward. This includes the
-shoulder.]{.underline}]{.mark}** **[[As the shoulder accelerates upward,
+shoulder.** **[[As the shoulder accelerates upward,
 the inertia of the forearm and racket cause them to rotate backward and
 down, similar to the way that an accelerating car presses you back into
 the seat.]{.mark}]{.underline}**
@@ -167,9 +167,9 @@ reverses. The tossing shoulder drops and the hitting shoulder
 rises.]{.mark}**
 
 How does this contribute to the stretch shorten cycle and the upper arm
-rotations in the shoulder joint? **[[Like the Leg Thrust, the Cartwheel
+rotations in the shoulder joint? **Like the Leg Thrust, the Cartwheel
 increases the upward acceleration of the hitting
-shoulder.]{.underline}]{.mark}**
+shoulder.**
 
 **[The Cartwheel in turn also increases the external shoulder rotation
 (back and down), again because of the inertia of the forearm and
@@ -196,10 +196,10 @@ position.]{.mark}]{.underline}**
 
 There is a further factor to understand about this Direct Stretch and
 what happens at the Trophy Position **[with the so called 'hip
-thrust'.]{.mark}** **[[At Trophy Position the hip moves forward toward
+thrust'.]{.mark}** **At Trophy Position the hip moves forward toward
 the court. This reduces the distance from the hitting arm to the spine
 and, at the same time, stretches the muscles on the tossing side of the
-body.]{.underline}]{.mark}** This magnifies the effect of the Cartwheel.
+body.** This magnifies the effect of the Cartwheel.
 How? Because the hitting arm starts closer to the spine, when the
 Cartwheel kicks in it will now further increase the arm to spine
 distance. This will create added stretch on the lat muscle and possibly

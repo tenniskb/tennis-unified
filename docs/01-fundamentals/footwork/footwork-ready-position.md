@@ -10,9 +10,9 @@ confidence](media_footwork-ready-position/media/image1.webp)
 split step, stay low with knees bent when moving to the ball and when
 recovering.**
 
-**[[Ultimately the secret to great tennis is great footwork! Great
+**Ultimately the secret to great tennis is great footwork! Great
 footwork means the ability to move into position to hit the ball and
-then recover and be ready for the next shot.]{.underline}]{.mark}**
+then recover and be ready for the next shot.**
 Great footwork will improve your reactions to the ball and how you well
 judge it. It will move you consistently into better position and improve
 your strokes. It will help you generate power from the ground and up
@@ -84,9 +84,9 @@ toes.
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 When you get to the court, establish this position and look up. You
-should be **[[looking through the net]{.underline}]{.mark}** to see
+should be **looking through the net** to see
 where the court surface meets the back fence. If you are looking
-**[[over the net]{.underline}]{.mark}** to see this intersection,
+**over the net** to see this intersection,
 you're too high. Lower your position until you see the intersection of
 the court and the back fence through the net. This position should feel
 like you are guarding someone in basketball, or you're playing the

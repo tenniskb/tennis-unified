@@ -587,10 +587,10 @@ because of adding well timed opportunity attacks. The frequency or
 percentages may not be as high as naturally aggressive players, but the
 fact that they can do it keeps their opponents off balance.
 
-**[[As a player learns about his/her game, patterns will start to
+**As a player learns about his/her game, patterns will start to
 present themselves. Knowing what personality type of player category you
 fall under will give you a better understanding of why success and
-failure occur.]{.underline}]{.mark}** Again, the goal is to incorporate
+failure occur.** Again, the goal is to incorporate
 a few aspects of the other type into your game. The effort is to meld
 changes into your game without taking you out of your personality
 comfort zone. These changes are personal, not based on some theoretical

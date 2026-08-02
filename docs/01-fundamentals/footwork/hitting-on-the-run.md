@@ -16,9 +16,9 @@ of tennis greatness.** **[[Slow reactions, sluggish recoveries, and
 moving with the center of gravity too high, can make the quickest
 athletes appear slow.]{.mark}]{.underline}**
 
-**[[On the other hand, when your intensity and pulse rate is at
+**On the other hand, when your intensity and pulse rate is at
 performance levels and your movement is synced with the tempo of play,
-the strokes flow seamlessly with the movement.]{.underline}]{.mark}**
+the strokes flow seamlessly with the movement.**
 
 In this article we will take a look at how you can develop this same
 ability for yourself. To do this we will explore several techniques for
@@ -68,20 +68,20 @@ generated](media_hitting-on-the-run/media/image2.webp)
 
 The running open stance is basically a hard surface technique. It allows
 you to maintain control of your momentum and let it flow seamlessly
-through the stroke. **[[Federer is as fluid and smooth as they come.
+through the stroke. **Federer is as fluid and smooth as they come.
 Watch how he makes contact before the left foot touches the
-ground]{.underline}]{.mark}**. **[[You don't want that front foot
+ground**. **You don't want that front foot
 planted before contact, or you'll be actually end up hitting from a
-closed stance.]{.underline}]{.mark}**
+closed stance.**
 
-**[[On the run, the last step before the hit sets up a loaded open
-stance.]{.underline}]{.mark}** Note that on the move Federer's racket
+**On the run, the last step before the hit sets up a loaded open
+stance.** Note that on the move Federer's racket
 is already prepared with the upper body turned. Now as the swing starts
 forward, the inside or right leg starts to cross in front of the body.
 
 It happens too fast in real play for the naked eye, but on video you can
-see that the **[[crossing foot does not touch ground until after contact
-is made with the ball.]{.underline}]{.mark}** That's why it is not
+see that the **crossing foot does not touch ground until after contact
+is made with the ball.** That's why it is not
 considered a closed stance. This crossing step works as a
 counter-balance to anchor the stroke.
 
@@ -95,11 +95,11 @@ Watch Rafael Nadal load the left foot very well in the next animation.
 But notice also how his legs go from a wide-open stance in the load up,
 to a fully closed stance on the landing of the lunge.
 
-**[[Watch Nadal closely and you'll see that the right leg and left arm
+**Watch Nadal closely and you'll see that the right leg and left arm
 work together at the same time. As the right foot extends in the cross
 step, the left arm is pulling back across the body, part of the rotation
 forward into the shot generating additional
-power.]{.underline}]{.mark}**
+power.**
 
 **Load and Lunge**
 
@@ -120,20 +120,20 @@ confidence](media_hitting-on-the-run/media/image4.webp)
 his foot.**
 
 Watch how Nadal sets up his left foot into an open stance in the third
-animation, compared to the second. In this example, **[[Nadal lands on
+animation, compared to the second. In this example, **Nadal lands on
 the ball of his rear or left foot. His heel barely touches the ground.
 This move limits the forward stride to allow him to increase the amount
 that he loads. Now watch how he explodes with the lunge step to the
-ball.]{.underline}]{.mark}**
+ball.**
 
 **Braking Techniques**
 
-**[[Recovering while hitting on the run requires that you put on the
+**Recovering while hitting on the run requires that you put on the
 brakes and reverse direction as rapidly and efficiently as
-possible.]{.underline}]{.mark}** **[[At the pro level, braking
+possible.** **At the pro level, braking
 techniques are some of the most stressful movements in tennis, which is
 why it is important that they be clearly
-understood.]{.underline}]{.mark}**
+understood.**
 
 **Stroke and Skid**
 
@@ -143,13 +143,13 @@ generated](media_hitting-on-the-run/media/image5.webp)
 
 **Watch how Coria controls the skid with his upper body posture.**
 
-**[[The first method is what I call the Stroke and
-Skid]{.underline}]{.mark}**. It is one of the most stressful moves in
+**The first method is what I call the Stroke and
+Skid**. It is one of the most stressful moves in
 tennis. The stroke and skid maneuver can easily turn an ankle, create
-stress fractures and strain ankle ligaments. **[[The key to doing it
+stress fractures and strain ankle ligaments. **The key to doing it
 safely is to keep the upper body upright or even leaning back somewhat
 towards center to minimize the force in the foot and
-ankle.]{.underline}]{.mark}**
+ankle.**
 
 **Anti-Lock Brakes**
 
@@ -164,10 +164,10 @@ your strokes. Those who can't tend to run through the stroke like hard
 court play, then skid to a stop after the stroke, adding to the recovery
 distance and slowing recovery.
 
-**[[Sliding or skidding far on hard courts should be avoided because the
+**Sliding or skidding far on hard courts should be avoided because the
 high levels of stress on the lower body put you at extreme risk for
 injury. The kick out step is a less risky, healthier
-alternative.]{.underline}]{.mark}**
+alternative.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -176,25 +176,25 @@ confidence](media_hitting-on-the-run/media/image7.webp)
 **Players use the kick out step like anti-lock brakes, grabbing, letting
 go, and grabbing again.**
 
-**[[This technique works like anti-lock brakes in a car. The speed and
+**This technique works like anti-lock brakes in a car. The speed and
 force moving into the stroke will determine whether it takes more than
 one kick out step to stop and reverse your momentum. Notice in the
 animation that while the weight is on the braking left foot, Nadal tucks
 the right foot in a drop step fashion for a strong 1st step reaction
-forward.]{.underline}]{.mark}**
+forward.**
 
-**[[Some players tend to point their toe forward on the first step when
+**Some players tend to point their toe forward on the first step when
 breaking in this fashion. Though this tendency is quite common, it is
 safer to point your toe outward toward the sideline to reduce the
 possibility of rolling your ankle. Work to keep your body upright or
 leaning back towards the center of the court to minimize the force into
 the braking foot and avoid having to push off the outside foot too hard
-on recovery.]{.underline}]{.mark}**
+on recovery.**
 
-**[[Watch in the closeup how Andre Agassi stays low with his knees bent
+**Watch in the closeup how Andre Agassi stays low with his knees bent
 and is very fluid through the kick out step. Agassi also incorporates
 the drop step on the inside foot to take the driving first step on
-recovery.]{.underline}]{.mark}**
+recovery.**
 
 ![A picture containing tennis, athletic game, sport, player Description
 automatically
@@ -206,7 +206,7 @@ momentum.**
 **Built-in Recovery Technique**
 
 One way to become quicker getting back for the next shot is to develop
-what I call **[[\"built in recovery\".]{.underline}]{.mark}** That means
+what I call **\"built in recovery\".** That means
 when you are stretched wide and have a long way to travel back, you
 build a lower body change of direction into the follow-through.
 Depending on the situation and surface, there are a few common
@@ -233,13 +233,13 @@ generated](media_hitting-on-the-run/media/image9.webp)
 pivoting to face the net.**
 
 Another recovery pattern which is common, particularly when the player
-is coming forward on a diagonal, is the **[[Neutral Stance
-Pivot.]{.underline}]{.mark}** **With this breaking pattern, [[the body
+is coming forward on a diagonal, is the **Neutral Stance
+Pivot.** **With this breaking pattern, the body
 weight drives forward into the neutral stance. The weight drives into
-the front leg as the foot lands]{.underline}]{.mark}.** **[[This forces
+the front leg as the foot lands.** **This forces
 the dominant side to pivot around so the body is facing the net on the
 finish. The result is that the back leg swings around into a split step
-ready position to begin recovery.]{.underline}]{.mark}**
+ready position to begin recovery.**
 
 **Lateral Recovery Movement**
 
@@ -254,13 +254,13 @@ the recovery movement back toward the middle.]{.mark} [Your shoulder
 should remain facing the net. This is the key to protecting against your
 opponent hitting behind you.]{.mark}]{.underline}**
 
-**[[This is the opposite of reaction and movement out to the ball, where
+**This is the opposite of reaction and movement out to the ball, where
 your shoulders face in the direction you are
-moving.]{.underline}]{.mark}** **[[Move as quickly as possible using
+moving.** **Move as quickly as possible using
 crossover and shuffle footwork until you reach a full recovery position
-or until the opponent is about to make contact.]{.underline}]{.mark}**
-**[[Whether you reach full recovery position in time or not, you need to
+or until the opponent is about to make contact.**
+**Whether you reach full recovery position in time or not, you need to
 split step at the opponent's contact to react on time to the next
-shot.]{.underline}]{.mark}** **[[If you fail to split step on time, you
-will be late on reacting to the next shot.]{.underline}]{.mark}**
+shot.** **If you fail to split step on time, you
+will be late on reacting to the next shot.**
 

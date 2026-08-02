@@ -16,10 +16,10 @@ themselves in a poor position to return their opponent's ball.
 **[[The general rule of thumb is to only change directions when a ball
 is "inside" or weak to the outside.]{.mark}]{.underline}**
 
-**[[Don't change direction on good quality "outside balls", or those
-that cross your body.]{.underline}]{.mark}**
+**Don't change direction on good quality "outside balls", or those
+that cross your body.**
 
-**[[When not sure, don't change direction at all.]{.underline}]{.mark}**
+**When not sure, don't change direction at all.**
 
 ![**Weak Outside
 Ball**](media_changing-direction-during-rallies/media/image2.png){alt="A person playing tennis Description automatically generated with medium confidence"
@@ -34,11 +34,11 @@ fill](media_changing-direction-during-rallies/media/image4.svg)
 
 **[Reason:]{.underline}**
 
-**Good Outside Ball:** to change direction, need to create a **[[large
-angle shot]{.underline}]{.mark}** that has too much margin for error.
+**Good Outside Ball:** to change direction, need to create a **large
+angle shot** that has too much margin for error.
 
-**Weak Outside Ball:** to change direction, need to create a **[[medium
-angle shot]{.underline}]{.mark}** that has less margin for error.
+**Weak Outside Ball:** to change direction, need to create a **medium
+angle shot** that has less margin for error.
 
 **Inside Ball:** to change direction, need to create a **[[small]{.mark}
 [angle shot]{.mark}]{.underline}** that has much less margin for error.

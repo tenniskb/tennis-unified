@@ -17,8 +17,8 @@ confidence](media_developing-world-class-volleys-tha-backhand-volley/media/image
 
 **What are the fundamentals of a world class backhand volley?**
 
-As with the forehand, I strongly believe that **[[on the backhand volley
-you have to really hit through the ball.]{.underline}]{.mark}** If you
+As with the forehand, I strongly believe that **on the backhand volley
+you have to really hit through the ball.** If you
 go back to the days of the great Australians who played with wood
 rackets, you'll see this is how they volleyed. I count myself lucky
 that these are the players that I grew up watching and learned from.
@@ -41,8 +41,8 @@ contact without getting properly positioned for the shot. So in the
 modern game, ironically, it may be easier to volley, but the volley is
 far less effective.
 
-**[[Probably the biggest mistake is that modern players have a tendency
-to chop down through the shot.]{.underline}]{.mark}** Even the great
+**Probably the biggest mistake is that modern players have a tendency
+to chop down through the shot.** Even the great
 Pete Sampras had a problem with that on occasion. He used to chop down a
 bit too severely at times on the backhand volley and not hit through it.
 
@@ -52,8 +52,8 @@ strings have made it so much easier to hit topspin passing
 shots.]{.mark}]{.underline}**
 
 What I want to show you in this article is the fundamentals for
-**[[hitting through the ball solidly -
-fundamentals]{.underline}]{.mark}** that are even more critical today,
+**hitting through the ball solidly -
+fundamentals** that are even more critical today,
 if you want to volley effectively.
 
 **The Differences**
@@ -82,14 +82,14 @@ ball, going to a little stronger grip with the hand more on top can be a
 good idea. Or going more to a forehand grip for a drive volley, I'm not
 against that at all. I think it makes complete sense.
 
-**[[Because there is less body motion in comparison to the forehand, the
-backhand volley is actually quite simple]{.underline}]{.mark}**. I think
+**Because there is less body motion in comparison to the forehand, the
+backhand volley is actually quite simple**. I think
 this makes it a bit stronger and a bit steadier. Generally speaking, the
 backhand volley is a little bit safer among top level players, and
 probably at the club level also if players have decent technique.
 
-**[[After the shoulder turn the key is to hit through the
-ball.]{.underline}]{.mark}** ***[[The racquet head can't move too
+**After the shoulder turn the key is to hit through the
+ball.** ***[[The racquet head can't move too
 sharply downward or the ball will lack pace and
 float.]{.mark}]{.underline}***
 
@@ -102,16 +102,16 @@ through the shot.**
 In this way **[the backhand volley is very much like the slice backhand
 approach]{.mark}** - ***[it's a more compact version with a slightly
 smaller swing.]{.mark}*** There is some high to lower action, but
-**[[most of the swing has to be forward and through the
-ball.]{.underline}]{.mark}**
+**most of the swing has to be forward and through the
+ball.**
 
 The wrist positioning is also much easier on the backhand volley. It's
 easier to keep the wrist in a strong, cocked position. That's a bit
 harder on a forehand volley.
 
-**[[On good backhand volleys the shape or structure of the arm and the
+**On good backhand volleys the shape or structure of the arm and the
 racquet stays relatively the same on the forward
-swing.]{.underline}]{.mark}** ***[[You just move that whole structure
+swing.** ***[[You just move that whole structure
 from the shoulder.]{.mark}]{.underline}*** You can just go straight
 through and hit cross court, or by changing the position of the elbow,
 you go down the line or inside out.
@@ -165,15 +165,15 @@ This is because the arm and racket are moving forward from the shoulder
 and keeping their shape.
 
 Because of the positioning of the front shoulder, the backhand is hit
-slightly further in front than the forehand. **[[But at most, the
+slightly further in front than the forehand. **But at most, the
 contact is a few inches further in front of the
-body.]{.underline}]{.mark}**
+body.**
 
 **[At times, players will extend the elbow until it is straighter or
-even straight at contact.]{.mark}** ***[[But if you move too far out
+even straight at contact.]{.mark}** ***But if you move too far out
 front you will lose the position of the shoulder and the relationship
 between the racket and wrist, and this will make the volley too weak to
-be truly effective.]{.underline}]{.mark}***
+be truly effective.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -185,9 +185,9 @@ semi-open.**
 **Stances**
 
 The other big misconception on the backhand volley, similar to the
-forehand, is that you should try to ***[[step across your body with the
+forehand, is that you should try to ***step across your body with the
 front foot. This takes away power, in my opinion, and limits where you
-can go with the ball.]{.underline}]{.mark}*** If you take a sideways
+can go with the ball.*** If you take a sideways
 lunging step, you can really only go crosscourt.
 
 It's hard to keep your balance and almost impossible to hit the ball
@@ -196,11 +196,11 @@ takes an extra recovery step to get back in position]{.mark}***. I think
 this is a common mistake for amateur players and for professionals
 alike.
 
-**[[What players need to concentrate on is getting their left foot
-closer to the ball on the backhand volley.]{.underline}]{.mark}**
-**[[Many times you will want to hit the backhand volley with a semi-open
+**What players need to concentrate on is getting their left foot
+closer to the ball on the backhand volley.**
+**Many times you will want to hit the backhand volley with a semi-open
 or even an open stance. From there you can actually push off with the
-back leg through the shot.]{.underline}]{.mark}**
+back leg through the shot.**
 
 That's not always possible, of course. If the ball is so wide that you
 need to lunge, yes, stick your leg across. But where possible, try to

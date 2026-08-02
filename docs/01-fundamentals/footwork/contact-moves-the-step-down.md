@@ -2,8 +2,8 @@
 
 **David Bailey**
 
-**[[Tennis is a game of steps, stops, stances, and
-moves.]{.underline}]{.mark}** Footwork and balance create the foundation
+**Tennis is a game of steps, stops, stances, and
+moves.** Footwork and balance create the foundation
 for a reliable swing and good contact with the tennis ball. In a fully
 developed player, footwork patterns, directional changes, shot
 execution, and recovery all merge to become flowing, instinctive, and
@@ -49,20 +49,20 @@ generated](media_contact-moves-the-step-down/media/image3.webp)
 
 **How do we make sense of all the dynamic footwork elements in tennis?**
 
-**[[Unlike the static concept of the hitting stance, the Contact Move
+**Unlike the static concept of the hitting stance, the Contact Move
 includes all the dynamic elements that occur with your feet when you hit
-the tennis ball.]{.underline}]{.mark}**
+the tennis ball.**
 
-**[[These are:]{.underline}]{.mark}**
+**These are:**
 
-- **[[the set up before the hit, including the
-  stance]{.underline}]{.mark}**
+- **the set up before the hit, including the
+  stance**
 
-- **[[the movement of the feet during and through the
-  contact]{.underline}]{.mark}**
+- **the movement of the feet during and through the
+  contact**
 
-- **[[and then, the movement after the hit to re-establish balance and
-  set the stage for recovery for the next shot.]{.underline}]{.mark}**
+- **and then, the movement after the hit to re-establish balance and
+  set the stage for recovery for the next shot.**
 
 In my research I have identified as many as 15 different Contact Moves
 that the top players use in different situations at different times,
@@ -82,19 +82,19 @@ generated](media_contact-moves-the-step-down/media/image3.webp)
 
 **3 Categories**
 
-**[[Basically, we can divide the Contact Moves into 3 categories. These
+**Basically, we can divide the Contact Moves into 3 categories. These
 are Offensive, Neutral, and Defensive, depending on where the player is
 on the court, the type of ball he is dealing with, and the type of shot
-he plans to hit.]{.underline}]{.mark}**
+he plans to hit.**
 
 We will begin our study by looking at the Offensive Contact Moves for
 the forehand. In this first article start with the most basic offensive
-move, what I call the Step Down. **[[The Step Down means that the player
+move, what I call the Step Down. **The Step Down means that the player
 steps into the shot with the front foot and a neutral stance, what I
-like to call \"stepping down the court.\"]{.underline}]{.mark}**
+like to call \"stepping down the court.\"**
 
-**[[The Step Down is a core Contact Move for club
-players.]{.underline}]{.mark}** This is because they play more balls at
+**The Step Down is a core Contact Move for club
+players.** This is because they play more balls at
 lower contact heights. But it is used by high level players as well when
 the ball is short, or when they want to stand in and hit the ball on the
 rise. Players use the Step Down in the center of the court, but also
@@ -153,20 +153,20 @@ generated](media_contact-moves-the-step-down/media/image6.webp)
 
 **Andre Agassi demonstrates a complete Step Down sequence.**
 
-**[[The balance moves are followed by recovery
-steps]{.underline}]{.mark}**. **[[The recovery steps will also vary and
+**The balance moves are followed by recovery
+steps**. **The recovery steps will also vary and
 can include both cross over and shuffle steps, depending how far the
-player has moved to the ball.]{.underline}]{.mark}**
+player has moved to the ball.**
 
-So let's see how the components of the Step Down work together. **[[In
+So let's see how the components of the Step Down work together. **In
 the simplest pattern, the player initiates the movement with a step out
 or sideways step with the right foot, and a body turn. The left arm goes
 across and the racket goes upward toward the top of the
-backswing.]{.underline}]{.mark}**
+backswing.**
 
-**[[From this position the player then steps down the court into the
+**From this position the player then steps down the court into the
 shot. The weight stays primarily on the back foot until the step with
-the front foot.]{.underline}]{.mark}**
+the front foot.**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-step-down/media/image7.webp)
@@ -184,10 +184,10 @@ are taking lessons or working on the ball machine.
 
 **The Balance Move**
 
-**[[The Step Down is followed by a Balance Move. There are two
+**The Step Down is followed by a Balance Move. There are two
 variations here depending on the ball height. If the ball is low, the
 player will drop the back knee down for balance keeping it bent and
-close to the court.]{.underline}]{.mark}**
+close to the court.**
 
 After the balance move, the recovery begins. It is important to note the
 timing of the recovery however, which begins only after the player
@@ -198,13 +198,13 @@ generated](media_contact-moves-the-step-down/media/image8.webp)
 
 **Recovery: a step around, then cross steps or shuffle steps.**
 
-**[[After the swing, the player takes a recovery step with right rear
-leg. The]{.underline}]{.mark}** **[[leg comes around at up to about a 45
-degree angle.]{.underline}]{.mark}** From here the player can now cross
+**After the swing, the player takes a recovery step with right rear
+leg. The** **leg comes around at up to about a 45
+degree angle.** From here the player can now cross
 step or slide step back to recover, squaring his hips as soon as
-possible to anticipate the opponent's next shot. **[[I encourage
+possible to anticipate the opponent's next shot. **I encourage
 players to use the cross step as much as possible because I feel it is
-faster than shuffle steps alone.]{.underline}]{.mark}**
+faster than shuffle steps alone.**
 
 With the lower ball, we saw the balance move involves dropping the rear
 leg. If the ball is higher, however, the balance move with the rear leg
@@ -228,10 +228,10 @@ confidence](media_contact-moves-the-step-down/media/image9.webp)
 down.**
 
 When the player has to travel further to the ball, there are two
-variations in the step out patterns. **[[The first is what I call Rhythm
+variations in the step out patterns. **The first is what I call Rhythm
 Steps. This is basically a two step move prior to the Step Down. The
 second is a three step move, what I like to the call the \"Cha Cha
-Cha.\"]{.underline}]{.mark}**
+Cha.\"**
 
 The Rhythm Step pattern consists of is of a step out with the outside or
 right foot, followed by a small sliding step with the left foot, and

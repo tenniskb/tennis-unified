@@ -39,21 +39,21 @@ generated](media_the-strategy-zone-groundstroke-finishes/media/image2.webp)
 
 **Agassi demonstrates a simple change of direction to Finish.**
 
-**[[These first two steps\--Control and Hurt\--set you up to Finish. You
-can't jump over the steps.]{.underline}]{.mark}** I can't stress too
+**These first two steps\--Control and Hurt\--set you up to Finish. You
+can't jump over the steps.** I can't stress too
 strongly that for top players, winners are part of a sequence that you
 build over the course of the point.
 
-**[[The goal is not to hit a highlight winner. The goal is to use a
-pattern to illicit a weak reply.]{.underline}]{.mark}** The goal to
+**The goal is not to hit a highlight winner. The goal is to use a
+pattern to illicit a weak reply.** The goal to
 generate that golden opportunity all good players live for: the short
 ball, and the chance to hit it into the open court for a winner.
 
-**[[The goal of the Finish shot is to hit a winner, but a well-placed
+**The goal of the Finish shot is to hit a winner, but a well-placed
 Finish shot may also force the opponent to make an
-error.]{.underline}]{.mark}** **[[But whichever, these finishing shots
+error.** **But whichever, these finishing shots
 don't occur randomly. The key point to understand is that they are the
-outcome of a strategic pattern or process.]{.underline}]{.mark}**
+outcome of a strategic pattern or process.**
 
 At the Academy we work on hitting the finishing or put away shot
 everyday. But your understanding of the Control and Hurt phases is what
@@ -92,21 +92,21 @@ confidence](media_the-strategy-zone-groundstroke-finishes/media/image4.webp)
 
 **Success Factors**
 
-**[[The success of the groundstroke finishes depends on many factors,
-including ball recognition, footwork and spin.]{.underline}]{.mark}**
+**The success of the groundstroke finishes depends on many factors,
+including ball recognition, footwork and spin.**
 
-**[[A fundamental problem at the lower levels of play is ball
+**A fundamental problem at the lower levels of play is ball
 recognition. Most players only recognize the oncoming shot at the time
 it bounces on their side of the court. Then they react. The failure to
 recognize opportunities prevents them from hitting winners that would
-otherwise be possible and routine.]{.underline}]{.mark}**
+otherwise be possible and routine.**
 
-**[[Higher level players recognize the oncoming shot as it comes off the
+**Higher level players recognize the oncoming shot as it comes off the
 opponent's racket. But at the top levels of the game, it's a different
-world.]{.underline}]{.mark}** **[[Top players actually base their
+world.** **Top players actually base their
 movement and preparation on how well they hit the previous ball. They
 choose the correct shot instinctively and without hesitation based on
-their sense of what is about to happen.]{.underline}]{.mark}**
+their sense of what is about to happen.**
 
 A second factor in finishing points is footwork. Tenniplayer contributor
 David Bailey has done a brilliant job in analyzing for the first timeall
@@ -121,39 +121,39 @@ confidence](media_the-strategy-zone-groundstroke-finishes/media/image5.webp)
 **Instant recognition, explosive forward movement, and a forehand
 finish.**
 
-**[[Top players recognize what shot they need to hit, move to the ball,
+**Top players recognize what shot they need to hit, move to the ball,
 and execute the footwork and shot patterns they need to finish the
-point.]{.underline}]{.mark}** **[[A key to this is to the ability to get
+point.** **A key to this is to the ability to get
 up inside the court very quickly when they recognize the short
-ball.]{.underline}]{.mark}** **[[The first step has to be explosive and
+ball.** **The first step has to be explosive and
 timed to begin as soon as the player reads the oncoming
-shot.]{.underline}]{.mark}**
+shot.**
 
 **Speed and Spin**
 
-**[[The third factor in successful finishing shots is
-spin.]{.underline}]{.mark}** **[[All groundstrokes are hit with a
+**The third factor in successful finishing shots is
+spin.** **All groundstrokes are hit with a
 balance of pace and spin. What combination of pace and spin is ideal in
 a particular finishing shot? Great players understand how to mix these
-two factors.]{.underline}]{.mark}**
+two factors.**
 
-**[[If the opponent is clearly out of position and the court is open,
+**If the opponent is clearly out of position and the court is open,
 the player can finish with a controlled amount of pace and a higher spin
-component.]{.underline}]{.mark}** **[[When the opponent is in the
+component.** **When the opponent is in the
 process of recovering closer to a good neutral position, it's a
-different situation.]{.underline}]{.mark}**
+different situation.**
 
-**[[Now you have a smaller target area to hit into in order to finish.
+**Now you have a smaller target area to hit into in order to finish.
 Great players sense this and hit with more pace and less spin in order
 to make sure the winner really gets past the
-opponent.]{.underline}]{.mark}**
+opponent.**
 
 **[[But the main point for players at lower levels is this]{.underline}.
 [If you are effective in the first two phases, you don't necessarily
-have to hit the ball hard to finish.]{.underline}]{.mark}** **[[The
+have to hit the ball hard to finish.]{.underline}]{.mark}** **The
 first two phases are designed to illicit a weak reply so that we can hit
 the Finish shot into a large target area when possible. Placement is
-actually much more important than power.]{.underline}]{.mark}**
+actually much more important than power.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -163,20 +163,20 @@ confidence](media_the-strategy-zone-groundstroke-finishes/media/image6.webp)
 
 **The Test**
 
-**[[In order to learn to finish, you must develop the ability to take
+**In order to learn to finish, you must develop the ability to take
 short balls and hit them into target areas with accuracy and
-consistency.]{.underline}]{.mark}** **[[But, as we saw with the basic
+consistency.** **But, as we saw with the basic
 patterns in the Control and Hurt phase, most players have surprising
 difficulty hitting these basic placements with any
-consistency.]{.underline}]{.mark}**
+consistency.**
 
-**[[In general players obsess over the minutiae of stroke technique at
+**In general players obsess over the minutiae of stroke technique at
 the expense of the geometric construction of winning
-points.]{.underline}]{.mark}** **[[This may sound harsh but it's true.
+points.** **This may sound harsh but it's true.
 Unless you can effectively hit the patterns outlined in this series, all
 the information you believe you have mastered about technique is has
 very little value\--at least if you goal is to win
-matches.]{.underline}]{.mark}**
+matches.**
 
 The animation shows the drills you should use to evaluate the current
 state of your accuracy in the Finish phase. Can you move up into the
@@ -203,11 +203,11 @@ execute the basic groundstroke finish. We've said that when players
 establish control and then are able to hurt the opponent, they create a
 large target area to finish.
 
-**[[The reality is this. If you watch pro players you'll see that they
+**The reality is this. If you watch pro players you'll see that they
 can only finish successfully when they have half a court to hit
-into.]{.underline}]{.mark}** **[[This means the opponent has been pushed
+into.** **This means the opponent has been pushed
 far enough out of position that they cannot recover to a neutral
-position near the center of the court.]{.underline}]{.mark}**
+position near the center of the court.**
 
 The first drill helps you feel when you have that target area and allows
 you to practice finishing into it. As the animation shows, you divide
@@ -219,13 +219,13 @@ attempt the winner when you have half the court to hit into. If your
 opponent can recover close to the middle, you continue to work to open
 the court.
 
-**[[Too many players are mesmerized by the spectacular highlight
+**Too many players are mesmerized by the spectacular highlight
 winners. What you are really looking for is a weak reply, usually a
 short ball, that allows you to strike the finishing shot when half the
-court is open.]{.underline}]{.mark}** **[[Finishing into large target
+court is open.** **Finishing into large target
 areas of the open court is the bread and butter for winning point after
 point at all levels, and ultimately, winning
-matches.]{.underline}]{.mark}**
+matches.**
 
 ![Tennis players on a court Description automatically generated with
 medium
@@ -242,9 +242,9 @@ baseline. This drill helps the player feel when to actually attempt a
 winner. Basically you should not attempt to finish until you can move
 forward and end up inside of the line.
 
-**[[Again, players confuse power with winning points and typically try
+**Again, players confuse power with winning points and typically try
 far too many low percentage winners from positions that are too deep in
-the court.]{.underline}]{.mark}** This game teaches you to associate the
+the court.** This game teaches you to associate the
 finishing shot with a ball on which you can come forward.
 
 So that's it for the basics of groundstroke finishes. There are many,

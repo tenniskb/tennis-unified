@@ -48,9 +48,9 @@ article.
 
 One problem in volleying in the modern game is that basic volley
 technique has deteriorated with the new rackets. Players can get away
-with a lot more and **[[often tend to just chop down on the ball rather
+with a lot more and **often tend to just chop down on the ball rather
 hitting through it and creating a penetrating
-shot.]{.underline}]{.mark}**
+shot.**
 
 One day I was watching a classic match between Rod Laver and Ken
 Rosewall in black and white, from about the time I was born. **[I just
@@ -58,8 +58,8 @@ noticed these guys were [taking a full swing at the volley,]{.underline}
 not so much with the backswing, but [on the forward
 motion]{.underline}.]{.mark}**
 
-**[[They hit through the ball almost completely flat with a little
-underspin.]{.underline}]{.mark}** That is a key point that still totally
+**They hit through the ball almost completely flat with a little
+underspin.** That is a key point that still totally
 applies if you want to be an effective volleyer at any level.
 
 ![A person playing football Description automatically generated with low
@@ -102,13 +102,13 @@ what really happens. **[There isn't much movement in the arm and wrist
 per se. They need to [stay firm.]{.underline}]{.mark}**
 
 **Although there is far less rotation that on the modern groundstrokes,
-your [[shoulders and hips still rotate to drive the
-motion.]{.underline}]{.mark} Think of a chip shot in golf. The swing is
+your shoulders and hips still rotate to drive the
+motion. Think of a chip shot in golf. The swing is
 through the ball, and the body rotates. That's exactly the same way the
 volley should be.**
 
-On the forehand volley you need **[[to use the left hand as a cantilever
-or counterbalance]{.underline}]{.mark}** if you want to develop good
+On the forehand volley you need **to use the left hand as a cantilever
+or counterbalance** if you want to develop good
 technique. As I just mentioned, modern players have a difficult time
 using the left arm correctly on the volley. **[[The hand should be up
 around chest high and in front of your body at the
@@ -148,8 +148,8 @@ confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image
 
 **Use the racket as a target to develop volley precision.**
 
-**[[The point is that a good volley is very precise
-shot.]{.underline}]{.mark}** A good way to work on this is to put your
+**The point is that a good volley is very precise
+shot.** A good way to work on this is to put your
 racquet through the holes in the net so that the head is sticking up,
 and you aim for the head of the racquet. That's about where you should
 be aiming, particularly for a low volley.
@@ -168,8 +168,8 @@ scraping the court with the knees are long gone.]{.mark}]{.underline}**
 
 First in the modern game you don't have time to get that far down.
 Second, you need time to recover. So, on the low volleys I'm a big
-believer **[[in dropping the head of the racquet down somewhat to the
-ball. There is still going to be some knee bend]{.underline}]{.mark}**,
+believer **in dropping the head of the racquet down somewhat to the
+ball. There is still going to be some knee bend**,
 but it is a fallacy to think that you need to keep the racket head up
 above your hand to hit a good low volley.
 
@@ -177,9 +177,9 @@ I think John McEnroe is a great example, showing that you don't need to
 bend your knees down to the court to have great volleys. McEnroe is
 quite upright. He looks like he's always got time, and he recovers his
 position on the court so well. He does have freakish control with his
-hands, of course, **[[but when the ball is low he uses the racket face
+hands, of course, **but when the ball is low he uses the racket face
 rather than trying to radically lower his whole
-body]{.underline}]{.mark}**. ([Click
+body**. ([Click
 Here](https://www.tennisplayer.net/members/strokearchive/modern_legends/johnmcenroe/mac_volleys_overheads/mac_fhv/mac_fhv.html?MacFHVRear.pct)
 to study his forehand volley in the Stroke Archive.)
 
@@ -197,11 +197,11 @@ with the outside foot, the right foot on the forehand.
 medium
 confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image8.webp)
 
-**Open stance volleying, [getting behind the ball]{.mark} [[with the
-right foot.]{.underline}]{.mark}**
+**Open stance volleying, [getting behind the ball]{.mark} with the
+right foot.**
 
-At almost all costs I **[[try not to step across these
-days]{.underline}]{.mark}**. It just takes your body out of position too
+At almost all costs I **try not to step across these
+days**. It just takes your body out of position too
 much, and **[[often you'll get caught running into the ball and end up
 jamming yourself up.]{.mark}]{.underline}**
 
@@ -211,15 +211,15 @@ This is related to the next fallacy, that you need the ball way in front
 of you. If you can hit it quite late you will have more power with the
 racquet face, and also the more control.
 
-On the forehand, ideally, **[[we're talking about a few inches in front
-of the body]{.underline}]{.mark}**. The basic swing is just slightly
+On the forehand, ideally, **we're talking about a few inches in front
+of the body**. The basic swing is just slightly
 outside to inside the swing, and if you time it right this is a very
 powerful swing.
 
 But if you push the contact too far out there, you are actually going to
-lose control and power. ***[[The only time I would ever step across or
+lose control and power. ***The only time I would ever step across or
 hit the ball way in front would be if the ball is dipping too quickly or
-is too wide for me.]{.underline}]{.mark}***
+is too wide for me.***
 
 ![A person playing tennis Description automatically
 generated](media_developing-world-class-volleys-tha-forehand-volley/media/image9.webp)
@@ -243,9 +243,9 @@ us old guys to look at anymore.
 
 **Split Step**
 
-The final fallacy has to do with the split step. **[[You use the split
+The final fallacy has to do with the split step. **You use the split
 step to change directions. But the key is not to stop, to keep moving
-forward.]{.underline}]{.mark}** Don't stop and wait, if at all
+forward.** Don't stop and wait, if at all
 possible, continue to run through the volley.
 
 Of course, you don't want to run into the volley. But if it's a slow
@@ -257,9 +257,9 @@ generated](media_developing-world-class-volleys-tha-forehand-volley/media/image1
 **Watch how I use the split step to change directions, but keep moving
 forward.**
 
-**[[One of the difficult things for youngsters who want to learn how to
+**One of the difficult things for youngsters who want to learn how to
 volley is that it is a very athletic shot and tough to
-master.]{.underline}]{.mark}** That's why you tend to see the most
+master.** That's why you tend to see the most
 athletic players being the best volleyers. Roger Federer. Lleyton Hewitt
 is a very good volleyer. Andy Murray is a pretty good volleyer. Radak
 Stepanek.

@@ -309,9 +309,9 @@ Sampras, separate their hands. Others, like Agassi and Hewitt, keep
 their opposite hand on the throat of the racquet until the hands reach
 shoulder level.
 
-This variation probably doesn't matter too much. **[[The key point, is
+This variation probably doesn't matter too much. **The key point, is
 that after the hands separate, the left arm extends across the
-body.]{.underline}]{.mark}** Meanwhile the racquet hand is moving upward
+body.** Meanwhile the racquet hand is moving upward
 in some form of looping motion. The exact position of the racquet hand
 at the completion of the turn can vary greatly depending on the player
 and the type of ball he is hitting.
@@ -382,9 +382,9 @@ focused on the shape of Agassi's backswing.
 
 ### Set Up and Alignment
 
-**[[After the turn, the next commonality in all modern forehands is the
+**After the turn, the next commonality in all modern forehands is the
 set up or alignment to the ball, including the coiling of the back
-leg.]{.underline}]{.mark}** Again, there is a characteristic position
+leg.** Again, there is a characteristic position
 top players reach when they have time to set up for the ball. 
 
 Without exception, they set up on the outside foot, or the foot closest
@@ -436,8 +436,8 @@ On balls that require little or no movement, the set up can coincide
 with the completion of the turn. The player will actually come to a full
 stop with the leg fully coiled at about the time he reaches the full
 turn. It can be taught this way, as a basic sequence in developing the
-fundamentals: **[[Start of Turn, Completion of Turn, and then
-immediately, Set Up and Coil.]{.underline}]{.mark}** However, it is also
+fundamentals: **Start of Turn, Completion of Turn, and then
+immediately, Set Up and Coil.** However, it is also
 important to note that **[the turn and the set up are actually
 independent]{.mark} [elements that usually don't occur at the same time
 when the player has to move to the ball.]{.mark}**
@@ -555,11 +555,11 @@ destroy the consistency and power of your forehand. At times players may
 rotate the entire arm backwards lowering the racquet head further, but
 in all cases the integrity of the hitting arm position is maintained.
 
-**[[Finding the hitting arm position at the end of the backswing will
+**Finding the hitting arm position at the end of the backswing will
 position the racquet perfectly to hit through the ball with power, to
 generate the right amount of spin for the given situation, and to hit
 the forehand with consistent technical precision over
-time.]{.underline}]{.mark}**
+time.**
 
 | **The Hitting Arm Position Across the Grip Styles** |  |  |
 | --- | --- | --- |
@@ -642,8 +642,8 @@ confidence](media_common-elements-across-the-grip-styles/media/image48.webp)
 **Agassi moves to the start of the release with the wrist still laid
 back.**
 
-**[[\"Elbow in, wrist laid back.\" It's a magic key to the modern
-forehand.]{.underline}]{.mark}** There is no \"snap\" during the
+**\"Elbow in, wrist laid back.\" It's a magic key to the modern
+forehand.** There is no \"snap\" during the
 contact. The arm should be relaxed and the grip pressure as light as
 possible, but beyond that, the wrist is essentially along for the ride.
 Any forward movement, if and when it does occur, is a natural
@@ -814,9 +814,9 @@ down to about 5mph or less. This is a fraction of the speed at the
 contact, and still far less than the racket head speed at the Universal
 Finish. (More on this study coming in future articles.)
 
-If you think about this, it makes perfect sense. **[[The wrap is the
+If you think about this, it makes perfect sense. **The wrap is the
 natural \"deceleration\" phase of the forehand motion. What speeds up
-has to slow down.]{.underline}]{.mark}** Teaching the wrap to generate
+has to slow down.** Teaching the wrap to generate
 racket head speed violates a basic principle of bio-mechanics, and
 probably, increases the chance of injury.
 
@@ -831,12 +831,12 @@ You'll see it move further as it accelerates to contact and through the
 extension of the motion, and much less as it starts to move backwards
 through the wrap.
 
-Let's be clear: **[[the wrap is a critical part of the motion on the
+Let's be clear: **the wrap is a critical part of the motion on the
 modern forehand. But let's not confuse acceleration and deceleration.
 Most players will naturally wrap as a consequence of extending their
 swing. They have to, in order to slow down the racket smoothly and keep
 from putting additional strain on their shoulder
-muscles.]{.underline}]{.mark}**
+muscles.**
 
 Unfortunately what we see in great numbers of junior players who have
 been taught to wrap is that they never make the technical finish

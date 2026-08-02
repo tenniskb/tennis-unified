@@ -187,9 +187,9 @@ step forward with the left foot into a neutral stance, which is common
 when the ball is low and/or short.
 
 The point is that the turn is critical in setting up both the upper body
-and the legs to maximize leverage in the forward swing. **[[The choice
+and the legs to maximize leverage in the forward swing. **The choice
 of stance will usually be determined by ball depth and ball
-height.]{.underline}]{.mark}**
+height.**
 
 ***[Because in high level tennis the contact points tend to be above
 waist level\--and sometimes at shoulder level or higher\--most pros will

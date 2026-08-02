@@ -192,8 +192,8 @@ step is forward and somewhat to the side with the right foot.
 **Two views of the continental volley grip\--the same for forehand and
 backhand.**
 
-**Simultaneously as you step reach to the incoming ball [[with two
-hands.]{.underline}]{.mark} This two-handed move is the critical key to
+**Simultaneously as you step reach to the incoming ball with two
+hands. This two-handed move is the critical key to
 early contact.**
 
 ![A person playing tennis Description automatically generated with
@@ -203,10 +203,10 @@ confidence](media_the-classic-forehand-volley/media/image10.webp)
 **Both hands reach two feet in front to the ball, with the wrist laid
 back at 45 degrees.**
 
-**[[Your racket head will be placed about 2 feet in front of your right
-shoulder. Your]{.underline}]{.mark}** **[[wrist should be laid back at
+**Your racket head will be placed about 2 feet in front of your right
+shoulder. Your** **wrist should be laid back at
 least in a 45 degree angle, palm pointing towards your
-opponent.]{.underline}]{.mark}**
+opponent.**
 
 Your body is now completely behind the shot. Your eyes are focused at
 the incoming ball level. See the ball in front of your body position,

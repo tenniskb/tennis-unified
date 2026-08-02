@@ -38,14 +38,14 @@ every player can use to improve their point playing skills. (See [Rhythm
 and Rally Speed](Rhythm%20and%20Rally%20Speed.docx) to learn more about
 incorporating this shot into your game.)
 
-Offensive or aggressive tennis includes many styles of play. **[[An
+Offensive or aggressive tennis includes many styles of play. **An
 aggressive player can be a serve and volley player (i.e. Rafter), an
 aggressive baseliner (i.e. Agassi), or a combination of both (i.e.
-Sampras).]{.underline}]{.mark}** All incorporate an aggressive playing
+Sampras).** All incorporate an aggressive playing
 style and seem to always be on the attack. Would you think of these
 players as some of the best defensive players in the world? I do.
-**[[What is often misunderstood about the top players is how well they
-use great defense to set up great offense.]{.underline}]{.mark}**
+**What is often misunderstood about the top players is how well they
+use great defense to set up great offense.**
 
 \"Defensive tennis\" is often viewed as a baseline style in which the
 player gets to every ball and manages to throw it back, making their
@@ -53,8 +53,8 @@ opponent hit an extra shot time and time again (i.e. Chang). We have all
 played the so-called \"pushers\" of the world. No one would think of
 this style of play as offensive, but in a real sense it is. **This is
 because this type of player creates pressure to come up with great shots
-over and over again [[making an opponent feel he is
-being]{.underline}]{.mark}** [**[attacked
+over and over again making an opponent feel he is
+being** [**[attacked
 relentlessly.]{.underline}**]{.mark}
 
 **Neutral Tennis**
@@ -82,27 +82,27 @@ corners.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[This is important factor in my neutral tennis theory. Depth of shot
+**This is important factor in my neutral tennis theory. Depth of shot
 creates far more weak replies than playing angled
-shots.]{.underline}]{.mark}** **Obviously the stronger the opponent the
-longer the neutral rallies must be to gain a short response**. **[[But
+shots.** **Obviously the stronger the opponent the
+longer the neutral rallies must be to gain a short response**. **But
 once you have gained the advantage, striking the ball just 10% harder to
 a corner will force your opponent either to err by \"going for it\", or
 to give you the weak reply you have been waiting for. Now you are in
-position to put the ball away.]{.underline}]{.mark}**
+position to put the ball away.**
 
-**[[An important key to Neutral Tennis is to be prepared to start
-over.]{.underline}]{.mark}**
+**An important key to Neutral Tennis is to be prepared to start
+over.**
 
 Many players are better on defense than on offense and will sometimes be
 able to neutralize your first attacking shot. When this occurs, it is
-time to start over by re-establishing the neutral rally. **[[You may
+time to start over by re-establishing the neutral rally. **You may
 have to start over many times in one point when you are playing a great
-defensive player.]{.underline}]{.mark}** **[[The goal is to be patient
-and stick with the plan.]{.underline}]{.mark}** **[[Too often players
+defensive player.** **The goal is to be patient
+and stick with the plan.** **Too often players
 get on the offensive and don't know when to pull back and start again,
 causing them to hit the ball harder and harder, eventually resulting in
-an error.]{.underline}]{.mark}**
+an error.**
 
 **The Transition Game**
 
@@ -127,28 +127,28 @@ generated](media_neutral-tennis-the-key-to-offense-and-defense/media/image5.jpg)
 good neutral volley or half-volley deep down the center. Don't feel you
 have to put every volley away. Sampras is a master of this shot.**
 
-**[[Here is the secret to making this critical transition, and it can
+**Here is the secret to making this critical transition, and it can
 turn around the outcome of many competitive matches. Again, the answer
-is the neutral ball.]{.underline}]{.mark}** **The idea is to go from a
+is the neutral ball.** **The idea is to go from a
 defensive position to a neutral position, then maybe to the offense.
 [[The key to getting out of the defensive position in the rally is to
 hit a neutral ball at your rally speed deep into the center of your
 opponent's court.]{.mark}]{.underline}**
 
-**[[Centering the ball will cut down on your errors, and also, make it
+**Centering the ball will cut down on your errors, and also, make it
 harder for your opponent to create an angle and keep you on the run.
-Length is the key.]{.underline}]{.mark}** **[All too often players learn
+Length is the key.** **[All too often players learn
 to hit angled shots, but never learn what it takes to hit a good deep
 ball under the pressure of a defensive position. Time and time again I
 see players trying to make incredible winners from the most extreme
 places in the court.]{.underline}**
 
-**[[The depth of your neutral shot will often fool your opponent and he
+**The depth of your neutral shot will often fool your opponent and he
 will make a lot of errors overhitting in an effort to stay on the
-offensive.]{.underline}]{.mark}** **[[Don't fool yourself into thinking
+offensive.** **Don't fool yourself into thinking
 since you made it back to the neutral position the very next ball is
 your opportunity to go on the attack, even if you get a short
-reply.]{.underline}]{.mark}** **Once you have gained the neutral
+reply.** **Once you have gained the neutral
 position again be patient and wait for your opportunity to go on the
 offensive.** You may be out of breath and not able to concentrate well
 enough to make a good aggressive shot. **You might want to hit another
@@ -169,18 +169,18 @@ he/she is in control and this may cause him to \"go for it\" on the next
 shot. In many cases your opponent will make an error or give you an easy
 volley to put away.
 
-**[[When playing a serve-volley type player, your neutral shot is that
+**When playing a serve-volley type player, your neutral shot is that
 good low ball in the center of the court dipping low to your opponent's
-feet.]{.underline}]{.mark}** **Force your opponent into errors by making
+feet.** **Force your opponent into errors by making
 him to play difficult volleys. After hitting this shot don't fall
 victim to your own delusions of glory and overhit the next shot. Realize
 you are on offense but make your pass only 10% harder emphasizing
 placement over power. Don't be afraid to start over if your opponent
 makes a good neutralizing shot of his own. Again, center the ball trying
 to get it at his/her feet. Another option in this situation is a high
-defensive lob. Don't panic and overhit. [[Neutral tennis keeps you from
+defensive lob. Don't panic and overhit. Neutral tennis keeps you from
 feeling rushed when playing the serve-volley player by giving you a
-focus and a plan.]{.underline}]{.mark}**
+focus and a plan.**
 
 Neutral tennis will improve your point playing skills tremendously. You
 can analyze each point and grade yourself on how well you make those

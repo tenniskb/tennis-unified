@@ -16,8 +16,8 @@ control, including how players switch the diagonal from an unfavorable
 to a favorable pattern. ([Click
 Here](Pro%20Patterns%20-%20Basic%20Diagonals.docx).)
 
-**[[But tennis points don't start with crosscourt rallies. They start
-with serves and returns.]{.underline}]{.mark}** So, let's take a step
+**But tennis points don't start with crosscourt rallies. They start
+with serves and returns.** So, let's take a step
 back and see how players use the serve and return to try to establish
 their preferred patterns. Serving well for most players isn't a matter
 of hitting aces and big unreturnable serves. It's knowing how to use
@@ -34,8 +34,8 @@ out most points on your service games in the exchange you want. You need
 to understand how these patterns really work if you want to establish
 your preferred rally in your service games.
 
-**[[Patterns are critical in learning how to win the style versus style
-match up from the baseline.]{.underline}]{.mark}** But it continues to
+**Patterns are critical in learning how to win the style versus style
+match up from the baseline.** But it continues to
 amaze me how few players\--and even coaches\--understand this aspect of
 tactics and how to exploit it. First let's look at how the placement of
 the serve effects the angle of the return. From this we can see how a
@@ -47,10 +47,10 @@ same. No player hits the same return all the time, and a smart opponent
 will adjust his returns if he sees they are yielding unfavorable
 diagonals.
 
-**[[The patterns presented here represent a starting point. If they
+**The patterns presented here represent a starting point. If they
 aren't producing the exchanges you want against a particular opponent,
 you will have to experiment with different
-combinations.]{.underline}]{.mark}** Which serves yield which returns,
+combinations.** Which serves yield which returns,
 and what is the relative strength of the return ball?
 
 **[Forehand to Forehand Rallies]{.underline}**
@@ -66,26 +66,26 @@ OR\
 Serve wide to the forehand**
 
 If your preferred rally is forehand to forehand here is the scenario.
-**[[In the deuce court there are two serves that will generate the
-forehand-to-forehand pattern.]{.underline}]{.mark}** **[[The first is a
+**In the deuce court there are two serves that will generate the
+forehand-to-forehand pattern.** **The first is a
 serve directly into body on the backhand side. In general, this will
 result in an inside out backhand return to your forehand
-side.]{.underline}]{.mark}**
+side.**
 
-**[[The second is the wide serve to your opponent's
-forehand.]{.underline}]{.mark}** In most cases, your opponent will hit a
+**The second is the wide serve to your opponent's
+forehand.** In most cases, your opponent will hit a
 forehand crosscourt return. The exception is if he feels he can hurt you
 with the return down the line.
 
-**[[In the ad court there are also two serves that will tend to generate
+**In the ad court there are also two serves that will tend to generate
 a return to your forehand. The first is the serve into the body on the
-backhand.]{.underline}]{.mark}** **[[This serve jams the player and
+backhand.** **This serve jams the player and
 makes it difficult for him to get the ball sharply crosscourt, returning
-to the middle or down the line.]{.underline}]{.mark}** Either one should
+to the middle or down the line.** Either one should
 allow you to take the first ball crosscourt with your forehand. (This is
 distinguished from a wide serve to Ad which is also a backhand return
-but is usually hit crosscourt.) **[[The second is the serve to the
-forehand down the middle.]{.underline}]{.mark}**
+but is usually hit crosscourt.) **The second is the serve to the
+forehand down the middle.**
 
 ![A couple of people playing tennis Description automatically generated
 with low
@@ -97,8 +97,8 @@ Serve the body on the backhand side\
 OR\
 Serve down the T**
 
-**[[Now, depending on the exact position of the crosscourt return, use
-the following guidelines for your next shot:]{.underline}]{.mark}**
+**Now, depending on the exact position of the crosscourt return, use
+the following guidelines for your next shot:**
 
 - **[If the return comes deep to your forehand\--play deep
   crosscourt.]{.mark}**
@@ -155,12 +155,12 @@ into the body on the forehand side. Typically, this will be returned
 down the line to your backhand. The second is a serve to the backhand,
 which will be hit crosscourt.]{.mark}]{.underline}**
 
-**[[In the ad court, there are also two serves. The first is a wide
+**In the ad court, there are also two serves. The first is a wide
 serve, which is typically returned crosscourt to your backhand. This can
 be broken when a player's strength is the big backhand and he can hit
 an offensive return down the line. The second serve in the Ad court is a
 serve into the forehand which is usually returned inside out
-crosscourt.]{.underline}]{.mark}**
+crosscourt.**
 
 ![Tennis players on a court Description automatically generated with
 medium
@@ -286,12 +286,12 @@ return.**
 
 **Breaking the Models**
 
-**[[The astute player will recognize some players use patterns that
+**The astute player will recognize some players use patterns that
 break the models. Martina Hingis does this by hitting most of her
 returns down the line. Serena Williams is another, returning her
 backhand inside out on the deuce side. A player should know the basic
 patterns and build a game around those patterns of return. Thereafter,
-the player can work on the exceptions.]{.underline}]{.mark}**
+the player can work on the exceptions.**
 
 While it can be frustrating when a returner is breaking a pattern
 consistently, it only means the returner has created a new pattern for

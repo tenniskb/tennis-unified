@@ -81,9 +81,9 @@ As strange as it may initially sound, the technical benefits of open
 stance on the forehand are actually similar to the technical benefits of
 closed stance on the backhand.
 
-**[[The result in both cases is an increase in the use of the torso and
+**The result in both cases is an increase in the use of the torso and
 the legs, and therefore the generation of more racket
-speed.]{.underline}]{.mark}** It goes to show\--once again\--how complex
+speed.** It goes to show\--once again\--how complex
 and dynamic the game is at the highest levels\--and how difficult it is
 to understand.
 
@@ -100,8 +100,8 @@ there are two primary versions of open stance, fully open and semi open.
 It's important to understand that the preferred pro forehand stance is
 semi open\--not fully open\--and to understand why that is.
 
-**[[By semi-open I mean that the front foot is clearly in front of, or
-closer to the net, than the rear foot.]{.underline}]{.mark}** Typically,
+**By semi-open I mean that the front foot is clearly in front of, or
+closer to the net, than the rear foot.** Typically,
 if you draw an imaginary line across the toes, the front foot is off set
 at something like a 30 to 45 degree angle to the rear.
 
@@ -185,9 +185,9 @@ slightly greater.**
 You see the exact same position with the semi open stance with other top
 players. Rafa. Federer. Del Potro. Even Andy on many balls.
 
-Now watch the uncoiling. **[[If the shoulders are turned further away in
+Now watch the uncoiling. **If the shoulders are turned further away in
 the preparation they will automatically rotate further in the forward
-motion.]{.underline}]{.mark}**
+motion.**
 
 Andy is getting around 180 degrees of forward shoulder rotation with the
 open stance. As crazy as it seems, Novak\--or any top player in the

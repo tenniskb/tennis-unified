@@ -14,10 +14,10 @@ losers, by contrast, often seem mindless of their own best interests.
 
 The champions rarely do anything that does not help them win, while the
 losers often do, a tendency, as usual, driven by the fear of failure.
-**[[In fact, the \"Golden Rule\" for anyone working towards becoming a
+**In fact, the \"Golden Rule\" for anyone working towards becoming a
 champion is to test any action before taking it with the question,
 \"Will this help me win the match?\" If the answer is not yes, don't do
-it.]{.underline}]{.mark}**
+it.**
 
 **Meltdown**
 

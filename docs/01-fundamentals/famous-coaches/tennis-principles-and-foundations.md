@@ -6,8 +6,8 @@
 
 **The fundamentals of strategy**
 
-**[[Besides yourself, there are three necessary elements to the game of
-tennis:]{.underline}]{.mark}**
+**Besides yourself, there are three necessary elements to the game of
+tennis:**
 
 1.  **A Ball**
 
@@ -21,10 +21,10 @@ is critical in tennis. **[Essentially it is the ability to see the ball,
 court and opponent all at the same time.]{.underline}**
 
 **We have all heard a coach say "watch the ball" during a lesson. But
-you actually have to [[focus on more than just the ball itself to know
-where it is and where it is going]{.underline}]{.mark}. [[Your "hard
+you actually have to focus on more than just the ball itself to know
+where it is and where it is going. Your "hard
 focus" should be on the ball, but your "soft focus" should be on the
-opponent and the possible openings on the court.]{.underline}]{.mark}**
+opponent and the possible openings on the court.**
 
 If you are only looking at the ball while you are playing, you are
 playing as if you're drunk. When testing potential drunk drivers, the
@@ -35,15 +35,15 @@ them, cars going by, and other movement or objects in the environment.
 
 **[The Second Fundamental: Balance]{.underline}**
 
-Balance is the secret to power. **[[A body is balanced when the center
+Balance is the secret to power. **A body is balanced when the center
 of gravity is directly over the base of support, the
-feet]{.underline}]{.mark}**. **[[The feet need to be well
+feet**. **[[The feet need to be well
 grounded]{.mark} [and the head has to be centered in order to be
 properly balanced]{.mark}]{.underline}**. Move your head off of center
 and you are no longer in balance.
 
-**[[Balance is about the way you move before, during and after the
-swing.]{.underline}]{.mark}** Footwork has a lot to do with balance.
+**Balance is about the way you move before, during and after the
+swing.** Footwork has a lot to do with balance.
 However, working on footwork is not the best way to actually improve
 your footwork. The way to better footwork is actually to work on
 balance. **[[Good footwork results when you are balanced, not the other
@@ -57,83 +57,83 @@ timing. If you're balanced before you swing, you can use your whole body
 you're more likely to be balanced when you finish your swing which means
 you'll be in a position to react better to the next ball.
 
-**[[When executing a stroke, the force of the swing is determined by a
+**When executing a stroke, the force of the swing is determined by a
 kinetic chain that starts in your legs and then travels through the
 hips, trunk, shoulders and arm. It is the key to power. For the kinetic
 chain to work properly, your body needs to be grounded and balanced with
-no disconnect between your upper and lower body.]{.underline}]{.mark}**
+no disconnect between your upper and lower body.**
 
-**[[Your posture needs to be strong with your head centered between your
+**Your posture needs to be strong with your head centered between your
 feet. Without proper posture you'll lose links in your chain and,
-consequently, lose power.]{.underline}]{.mark}**
+consequently, lose power.**
 
-This kinetic chain starts as a result of a phenomenon called **[[Ground
-Reaction Force]{.underline}]{.mark}**. Basically, your legs push against
+This kinetic chain starts as a result of a phenomenon called **Ground
+Reaction Force**. Basically, your legs push against
 the natural force that is keeping you on the ground -- gravity. This
 push starts a rotation in the hips which results in trunk, shoulder and
 arm rotation. Energy moves through your body and, when you make contact,
 into the ball.
 
-**[[Balance is the key fundamental. It is possible for you to compensate
-for certain inadequacies when you hit a ball.]{.underline}]{.mark}** For
+**Balance is the key fundamental. It is possible for you to compensate
+for certain inadequacies when you hit a ball.** For
 example, timing can compensate for lack of speed. Stamina may compensate
-for lack of strength. **[[Nothing however can compensate for a lack of
+for lack of strength. **Nothing however can compensate for a lack of
 balance. Being off balance slows your reaction time and impinges on your
 shots. In tennis, being balanced means you are balanced all the time,
-whether you're standing, moving or hitting.]{.underline}]{.mark}**
+whether you're standing, moving or hitting.**
 
 Whether swinging or punching, the force of an effective swing travels
-from your center of gravity to your racket head. **[[A loss of balance
+from your center of gravity to your racket head. **A loss of balance
 at the beginning of a stroke will inhibit the body's ability to initiate
 force. A loss of balance during a stroke will inhibit your body's
-ability to transfer force to the racket.]{.underline}]{.mark}**
+ability to transfer force to the racket.**
 
-**[[Excessive waist flexion will lead to an off-balance stroke.
-However]{.underline}]{.mark}**, when you are rapidly accelerating to an
+**Excessive waist flexion will lead to an off-balance stroke.
+However**, when you are rapidly accelerating to an
 approaching ball, waist flexion is necessary for maintaining balance.
 Imagine a sprinter as he leaves the starting block. His upper body tilts
 forward. After several steps the posture becomes straighter. However, in
 order to maintain balance during his initial burst of speed, he must
 flex at the waist and lean into the direction of his movement.
 
-**[[An off-balance stroke will also occur when you flex at the waist
-without flexing your knees.]{.underline}]{.mark}** **[[Keeping the head,
+**An off-balance stroke will also occur when you flex at the waist
+without flexing your knees.** **Keeping the head,
 shoulders and hips in a vertical line will help your balance. It also
 reinforces head stability and a consistent contact
-range.]{.underline}]{.mark}**
+range.**
 
-**[[In tennis, being balanced requires moving your
-feet.]{.underline}]{.mark}** **[[This means bouncing, shuffling, and
-running to get to the ball]{.underline}]{.mark}** and **[[back to the
-Ideal Recovery Position.]{.underline}]{.mark}** If you don't have good
+**In tennis, being balanced requires moving your
+feet.** **This means bouncing, shuffling, and
+running to get to the ball** and **back to the
+Ideal Recovery Position.** If you don't have good
 footwork, you won't have good balance. The way to better footwork is to
 work on balance though, not the other way around. You've developed your
 footwork's muscle memory over a lifetime. It won't change easily.
 
-**[[Good players work just as hard between shots as they do when they're
+**Good players work just as hard between shots as they do when they're
 hitting the ball. They have their heels off the ground and are up on the
 balls of their feet, ready to move. Think about when you are running.
 Your heel always comes off the ground before your toe. If you are
 already on your toes between shots, you eliminate the extra movement and
-time needed to pick up your heel.]{.underline}]{.mark}**
+time needed to pick up your heel.**
 
-**[[Your objective is to get your balance before your opponent even hits
-the ball. That's where the "split step" comes in.]{.underline}]{.mark}**
-**[[If your "split step" is well timed, you'll feel very balanced by the
+**Your objective is to get your balance before your opponent even hits
+the ball. That's where the "split step" comes in.**
+**If your "split step" is well timed, you'll feel very balanced by the
 time you react in the direction of the incoming
-ball.]{.underline}]{.mark}** **If you're off balance when the opponent
+ball.** **If you're off balance when the opponent
 strikes the ball, you will be late in responding to the incoming ball
 and can easily become "wrong-footed".**
 
-**[[Balance doesn't need to be taught. It's natural. You just need to
+**Balance doesn't need to be taught. It's natural. You just need to
 become conscious of being balanced to become aware of
-it.]{.underline}]{.mark}** Instead of saying: "Are you ready to react?"
+it.** Instead of saying: "Are you ready to react?"
 say to yourself: "Are you balanced?". That will make you ready.
 
 **The Third Fundamental: Angular and Linear Momentum**
 
-**[[The two most significant sources of power are hip and shoulder
-rotation (]{.underline}]{.mark}*Angular Momentum)*** **[and weight
+**The two most significant sources of power are hip and shoulder
+rotation (*Angular Momentum)*** **[and weight
 transfer]{.underline}** ***(Linear Momentum).*** These power sources are
 important fundamentals. Any stroke can be placed in to one of three
 categories. These categories are based on the stroke's most significant
@@ -150,24 +150,24 @@ source of power.
 - **Some strokes require a balanced combination of both sources
   (approach shots and high volleys).**
 
-**[[In angular momentum, the hips and shoulders are literally the
-central gears of the swing system.]{.underline}]{.mark}** **[[An
+**In angular momentum, the hips and shoulders are literally the
+central gears of the swing system.** **An
 efficient swing is a series of rotational movements that flow in
 sequence and balance is critical to initiate this rotation. The feet
 must be in contact with the ground, and there cannot be a disconnect
-between the upper and lower body.]{.underline}]{.mark}** **[[With the
+between the upper and lower body.** **With the
 hips and shoulders the central gears, the muscles between the hips and
-shoulders are significant.]{.underline}]{.mark}** **[[The swinging
+shoulders are significant.** **The swinging
 movement begins with the muscles of the trunk. Because of the elastic
 action of the muscles between the hips and shoulders, a relatively small
 degree of hip and shoulder rotation can account for a high proportion of
-swing force.]{.underline}]{.mark}**
+swing force.**
 
-**[[The hips and shoulders are not efficient power sources for all
+**The hips and shoulders are not efficient power sources for all
 strokes though. On a low volley, hip and shoulder rotation can be
-detrimental.]{.underline}]{.mark}** **[[On this shot emphasis should be
+detrimental.** **On this shot emphasis should be
 placed on weight transfer, or the use of linear
-momentum.]{.underline}]{.mark}**
+momentum.**
 
 It is critical for an aspiring high-performance player to understand
 these power sources. As a player you want to be efficient to ensure a
@@ -180,24 +180,24 @@ This post follows up on last Monday's post as **[[it is critical for
 players and coaches to understand the roles of the hips and
 shoulders.]{.mark}]{.underline}** The hips and shoulders are literally
 the central gears of the swing system. Your swinging movement begins
-with the muscles of the trunk. **[[As they rotate the generated force
+with the muscles of the trunk. **As they rotate the generated force
 works its way both up into the shoulders and down into the
-legs.]{.underline}]{.mark}**
+legs.**
 
-**[[Muscle is required to initiate hip and shoulder rotation, and even
+**Muscle is required to initiate hip and shoulder rotation, and even
 more muscle is required to translate the generated force into efficient
-racket movement]{.underline}]{.mark}**. **So, if all this force is
+racket movement**. **So, if all this force is
 required, why aren't tennis players more muscular? That's because
-[[there's a distinction between the force generated by the contraction
+there's a distinction between the force generated by the contraction
 of muscle and the force provided by the elastic action of
-muscle.]{.underline}]{.mark} [[Tennis swings require muscle elasticity,
+muscle. Tennis swings require muscle elasticity,
 like a rubber band being stretched and released, rather than muscle
-contraction.]{.underline}]{.mark}**
+contraction.**
 
 **Another very important thing to understand is that in order for the
-trunk muscles to fire effectively, [[the forward rotation of the hips
+trunk muscles to fire effectively, the forward rotation of the hips
 must precede the forward rotation of the
-shoulders.]{.underline}]{.mark}** There is in fact a lag between hip and
+shoulders.** There is in fact a lag between hip and
 shoulder rotation that creates a stretching in the muscles of the trunk
 followed by an explosive snapping action of the shoulders. **[Increasing
 the total amount of hip and shoulder rotation will NOT necessarily
@@ -213,17 +213,17 @@ height.]{.mark}**
 
 **[Spin:]{.underline}**
 
-**[[Only two things make a ball land on the court -- gravity and
-spin.]{.underline}]{.mark}** **[By hitting harder or softer, beginners
+**Only two things make a ball land on the court -- gravity and
+spin.** **[By hitting harder or softer, beginners
 use gravity to help them vary the depth with which they place the ball
-on the court.]{.underline}** **[[Pros however use spin to control the
+on the court.]{.underline}** **Pros however use spin to control the
 depth of the ball, allowing them to hit the ball very hard without
-sacrificing placement.]{.underline}]{.mark}**
+sacrificing placement.**
 
 The fundamental rule in understanding spin is that backspin bounces
-lower and topspin bounces higher. Also**[[, backspin will tend to float
+lower and topspin bounces higher. Also**, backspin will tend to float
 while topspin will dip quickly down toward the
-court.]{.underline}]{.mark}** Observe someone hitting with different
+court.** Observe someone hitting with different
 spins. **[A topspin ball landing at the service line will bounce past
 the baseline. A backspin ball landing on the service line will bounce
 inside the baseline.]{.underline}**
@@ -239,19 +239,19 @@ inside the baseline.]{.underline}**
 | generated](media_tennis-principles-and-foundations/media/image3.png) |  |
 
 
-**[[Use backspin as your control spin and topspin as your power
-spin.]{.underline}]{.mark}**
+**Use backspin as your control spin and topspin as your power
+spin.**
 
 **[Height:]{.underline}**
 
-**[[Generally, on a medium paced ball, the height at which the ball
+**Generally, on a medium paced ball, the height at which the ball
 clears the net relates to how deep it lands in the
-court]{.underline}]{.mark}**. **[[A higher ball will land deep and a
+court**. **[[A higher ball will land deep and a
 lower ball short. Obviously, this varies according to the speed and
 trajectory.]{.mark}]{.underline}**
 
-**[[Good players can see the height of the ball as soon as their
-opponent hits. The]{.underline}]{.mark}** **[[very latest they see it is
+**Good players can see the height of the ball as soon as their
+opponent hits. The** **[[very latest they see it is
 as it crosses the net.]{.mark}]{.underline}** That's why, on a let cord
 shot, a pro will often get to the ball quite easily whereas a club
 player watches the ball fall over for a winner.
@@ -337,10 +337,10 @@ advantage.
 Most players think they should win if they play well. They give very
 little consideration to the opponent's game or how to exploit it.
 Identifying your opponent's strengths and weaknesses is an important
-skill to have. **[[Every player's game is like a combination
-lock.]{.underline}]{.mark}** **[[It's tough to open, but with the right
+skill to have. **Every player's game is like a combination
+lock.** **It's tough to open, but with the right
 combination, you can unlock the secrets to
-success.]{.underline}]{.mark}**
+success.**
 
 **Scout the Opponent**
 
@@ -369,20 +369,20 @@ write down what you see.
 - **How well do they return wide serves and serves into the body?**
 
 One of the most important pieces of information you can write down about
-your opponent is **[[what breaks down under
-pressure.]{.underline}]{.mark}** Players will almost always go for a
+your opponent is **what breaks down under
+pressure.** Players will almost always go for a
 shot they can depend on under pressure. If the backhand is weak, they
 will run around it. Movement tends to break down under pressure.
-**[[Players lose their legs when they get nervous. This is a time to
+**Players lose their legs when they get nervous. This is a time to
 move them away from the center of the court by going for the corners and
-angled shots.]{.underline}]{.mark}**
+angled shots.**
 
 Learning the foundation of awareness of the other side of the court is a
 key ingredient to becoming a good player. Once the match starts, most of
 your attention should be on your opponent's side of the court.
 
-The greatest tool for exploiting your opponent is **[[the utilization of
-the Two Opposites.]{.underline}]{.mark}** There is a pair of opposites
+The greatest tool for exploiting your opponent is **the utilization of
+the Two Opposites.** There is a pair of opposites
 for everything in tennis. Use them to uncover your opponent's weakness
 and then show your opponent that you've discovered it. It will make your
 opponent lose confidence and swing the match in your favor immediately.
@@ -404,17 +404,17 @@ The trick is to find out which your opponent has trouble with:
 
 - **Cross court or down the line?**
 
-**[[Your opponent may have a great low forehand but have real trouble
-with a high ball.]{.underline}]{.mark}**
+**Your opponent may have a great low forehand but have real trouble
+with a high ball.**
 
-**[[A]{.underline}]{.mark}** **[[common pattern is a player who likes a
+**A** **common pattern is a player who likes a
 hard ball to his forehand and a soft ball to his
-backhand.]{.underline}]{.mark}** **[So, a frequently used tactic would
+backhand.** **[So, a frequently used tactic would
 be to hit a slow ball to the forehand and to blast everything to the
 backhand.]{.underline}**
 
-**[[If your opponent cannot cope with a high backhand, hit high looping
-shots to the backhand.]{.underline}]{.mark}**
+**If your opponent cannot cope with a high backhand, hit high looping
+shots to the backhand.**
 
 **[If they are slow, make them run.]{.underline}**
 
@@ -432,11 +432,11 @@ Most players don't know what having a strength means. You may have a
 great forehand, but, if as soon as your opponent approaches the net you
 hit the bottom of the net, your forehand is not a strength. If you can
 serve 120 mph, but at 5-5, 30-40, you usually double fault, your serve
-is not a strength. **[[So, first and foremost, a strength is determined
-by its reliability under pressure.]{.underline}]{.mark}**
+is not a strength. **So, first and foremost, a strength is determined
+by its reliability under pressure.**
 
-**[[A strength is also determined by its adaptability and
-creativity.]{.underline}]{.mark}** You may be able to overpower most
+**A strength is also determined by its adaptability and
+creativity.** You may be able to overpower most
 opponents with your serve, but what happens when you come up against a
 great returner who is able to neutralize your big serve? Now you need to
 consider better placement, depth, spin and height. The adaptability of
@@ -446,7 +446,7 @@ serve and get broken by a great returner.
 
 The same thing applies to your forehand. Some days it won't be as
 reliable as others. A crosswind may disturb you or your timing may be
-off one day. **[[Again, adaptability is key]{.underline}]{.mark}**. If
+off one day. **Again, adaptability is key**. If
 your forehand is truly a strength, you should be able to adapt to the
 situation. For example, you could adapt your game and play more up the
 center of the court.
@@ -454,16 +454,16 @@ center of the court.
 **[[A strength is also determined by its creativity. Top]{.mark}
 [players get very creative with their strengths. They]{.mark} [will open
 the court with angles, dip the ball down at the approaching opponent's
-feet, or maybe flick a topspin lob]{.mark}]{.underline}**. **[[This
+feet, or maybe flick a topspin lob]{.mark}]{.underline}**. **This
 creativity is almost always related to an "educated
-wrist".]{.underline}]{.mark}**
+wrist".**
 
-**[[The "Adapt or Die" drill is a great way to work on this
-creativity.]{.underline}]{.mark}** Stay inside the baseline and have
+**The "Adapt or Die" drill is a great way to work on this
+creativity.** Stay inside the baseline and have
 your partner hit all kinds of balls at you -- high, low, fast, slow.
 Don't back up at all. **[Adapt to what's being thrown at you.]{.mark}**
-**[[Practice it often enough and this practice becomes
-permanent.]{.underline}]{.mark}**
+**Practice it often enough and this practice becomes
+permanent.**
 
 **Movement: Leg Lapse and Beating the Ball to the Bounce**
 
@@ -474,14 +474,14 @@ upper body to compensate for the loss of leverage resulting in a stroke
 that is off balance. It means your body has an inefficient base of
 support due to poor footwork or knee flexion.
 
-**[[Fatigue and laziness are the causes of "leg
-lapse".]{.underline}]{.mark}** **[[The most common "leg lapse" occurs
+**Fatigue and laziness are the causes of "leg
+lapse".** **[[The most common "leg lapse" occurs
 when a shot is wide to either side of the body and you simply "reach"
 for it instead of moving your feet.]{.mark} [The second most common leg
 lapse occurs when a shot is low and you flex at the waist without
-flexing the knees.]{.mark}]{.underline}** **[[The best way to avoid
+flexing the knees.]{.mark}]{.underline}** **The best way to avoid
 fatigue and laziness is to condition your lower
-body.]{.underline}]{.mark}**
+body.**
 
 **Beat the ball to the bounce**
 
@@ -489,17 +489,17 @@ The difference between getting to the ball on time and being early is
 the difference between mediocrity and winning. Early preparation allows
 you to be relaxed and play on balance.
 
-**[[There are 2 types of players: Anticipators and
-Chasers.]{.underline}]{.mark}** Anticipators react as the ball leaves
+**There are 2 types of players: Anticipators and
+Chasers.** Anticipators react as the ball leaves
 the opponents racket and sometimes even earlier. Chasers wait for the
 ball to get to their side before they react.
 
 **[Beating the ball to the bounce is the essence of early preparation.
 You]{.mark}** **[and the ball are in a race and the finish line is the
-bounce.]{.mark} [[You want to get to the bounce before the ball does.
+bounce.]{.mark} You want to get to the bounce before the ball does.
 This is a concept few players understand. Most players move at the same
-pace as the ball.]{.underline}]{.mark}** **[[Great players attempt to
-move at double the speed of the ball.]{.underline}]{.mark}**
+pace as the ball.** **Great players attempt to
+move at double the speed of the ball.**
 
 **[Achieving Optimal Performance: Winning vs Performing -- 1st in a
 series]{.underline}**
@@ -507,14 +507,14 @@ series]{.underline}**
 "When the Great Scorer comes to write against your name, he marks not
 that you won or lost, but how you played the game" --Grantland Rice
 
-**[[We live in a highly competitive society that is obsessed with
-winning.]{.underline}]{.mark}** **[[Most players experience tremendous
+**We live in a highly competitive society that is obsessed with
+winning.** **Most players experience tremendous
 pressure, fear and anxiety generated by an overwhelming obsession to
-win.]{.underline}]{.mark}** Without realizing it, we pass this on to our
+win.** Without realizing it, we pass this on to our
 children starting from the instant they're born. Children are constantly
 measured with grades, win/loss records. etc. Society echoes this chase
-for the win with the **[["Thrill of victory, agony of defeat"
-mentality.]{.underline}]{.mark}**
+for the win with the **"Thrill of victory, agony of defeat"
+mentality.**
 
 This approach, where winning alone is the ultimate goal, has given rise
 to questionable ethical and moral means in competition and has distorted
@@ -524,14 +524,14 @@ dishonesty that plagues our sports and society today. The result of our
 overwhelming desire to be number one can be seen in definite
 dysfunctional behavior patterns. Unrealistic expectations result in
 frustration and anger and some players seek unattainable perfection.
-**[[Players with poor self-esteem blame others when things go wrong as
-they are unable to accept failure on their own.]{.underline}]{.mark}**
+**Players with poor self-esteem blame others when things go wrong as
+they are unable to accept failure on their own.**
 
-**[[As players, coaches, teachers and parents, we tend to lose sight of
-why we're playing sports in the first place.]{.underline}]{.mark}**
-***[[Aside from being enjoyable and healthy, tennis, like many other
+**As players, coaches, teachers and parents, we tend to lose sight of
+why we're playing sports in the first place.**
+***Aside from being enjoyable and healthy, tennis, like many other
 sports, can prepare us for the challenges we will face in
-life.]{.underline}]{.mark}*** The way you meet challenges on court
+life.*** The way you meet challenges on court
 reflects the way you will meet them in life. Playing a sport should be
 thought of as a spiritual journey that combines physical and mental
 activities. The journey has no final destination, because you will be
@@ -540,16 +540,16 @@ evolving and constantly thinking in new ways about how to play.
 Winning should be a by-product of performance. As in life, optimal
 performance in tennis is created by a passion for what we do. Passion
 encourages commitment, discipline, hard work and continuous search for
-excellence. **[[Optimal performers strive to be the best they can be
+excellence. **Optimal performers strive to be the best they can be
 every day. They are more interested in how they've played the game than
 the outcome. Pressure situations are challenges, not threats for them
-and they are not afraid to take risks.]{.underline}]{.mark}** **[[Rather
+and they are not afraid to take risks.** **Rather
 than becoming discouraged from losing, they become motivated to
-improve.]{.underline}]{.mark}**
+improve.**
 
-**[[If you want your kids and players to succeed, stop focusing on the
+**If you want your kids and players to succeed, stop focusing on the
 importance of winning and encourage them to
-perform.]{.underline}]{.mark}**
+perform.**
 
 **Mental: Achieving Optimal Performance -- 2nd in a Series**
 
@@ -563,41 +563,41 @@ this barrier was broken, other people started to believe they could
 break it as well. Within eighteen months of Roger Bannister breaking the
 barrier, the sub four- minute mile was achieved by 45 other runners.
 
-**[[The mind is the most powerful thing we have going for us. We can use
+**The mind is the most powerful thing we have going for us. We can use
 the power of our minds to fulfill our dreams or set the power of our
 minds aside and accept mediocrity. Most people in the world don't expect
 much, so they don't give much and don't get much. Even talented athletes
 settle for less. Why? Different reasons, but mostly because of negative
-input from others.]{.underline}]{.mark}**
+input from others.**
 
 In an effort to save us from the pain of failure, well meaning coaches,
 teachers and even parents often tell us we don't have what it takes to
 become the best, make it to a pro level, etc. Players start to doubt
 their own abilities when they hear these negative messages every day.
-They stop believing in themselves and develop a poor self-image. **[[Low
+They stop believing in themselves and develop a poor self-image. **Low
 self-esteem is probably the biggest obstacle in achieving optimal
-performance.]{.underline}]{.mark}**
+performance.**
 
-**[[The only limitations that exist are those we place on ourselves or
+**The only limitations that exist are those we place on ourselves or
 let other people place upon us. Once the mind believes "I can't", you
-have sabotaged all efforts to reach your goals.]{.underline}]{.mark}**
+have sabotaged all efforts to reach your goals.**
 To become an optimal performer, you have to renounce your restrictive
-beliefs about what you can and cannot accomplish as a player**[[. One of
+beliefs about what you can and cannot accomplish as a player**. One of
 the marks of a good coach, parent or teacher is the ability to inspire
 their players to go beyond preconceived
-limitations]{.underline}]{.mark}**. **[[They challenge their players to
+limitations**. **They challenge their players to
 move out of their comfort zones by putting them in challenging
 situations. They build their self-belief by communicating two very
 important messages: "I believe in you" and "You
-can".]{.underline}]{.mark}**
+can".**
 
-**[[Building self-belief requires a commitment to pursue excellence in
+**Building self-belief requires a commitment to pursue excellence in
 everything and a refusal to settle for mediocrity. Challenge yourself
 daily to do the impossible. Surround yourself with friends and family
-who support your dreams and believe in you.]{.underline}]{.mark}**
-**[[Emulate athletes you admire and look up to. Use visualization and
+who support your dreams and believe in you.**
+**Emulate athletes you admire and look up to. Use visualization and
 affirmations to build your confidence along the
-way.]{.underline}]{.mark}**
+way.**
 
 In the Art of Strategy, R. L. Wing says: "Your inner opponent's greatest
 advantage is your lack of belief in your ultimate triumph". Do not doubt
@@ -636,13 +636,13 @@ These deeply ingrained beliefs and attitudes can be changed through the
 power of positive thinking. A major part of positive thinking is having
 a positive self-image. In the Inner Game of Tennis, Tim Gallway writes,
 "I know of no single factor that more greatly affects our ability to
-perform than the image we have of ourselves." **[[Self image is an
+perform than the image we have of ourselves." **Self image is an
 ongoing conversation within our minds. The voices in the conversation
 are the voices from the people who raised you, telling you what you
 should think about yourself. In addition to the messages you received as
 a child, you also have messages you receive as an adult from loved ones,
 bosses, colleagues and even the media. All of this adds up to a lot of
-unproductive ways of thinking.]{.underline}]{.mark}**
+unproductive ways of thinking.**
 
 Because self-esteem is something that you have learned, not some sort of
 innate genetic trait, it is possible to retrain your thoughts. How?
@@ -654,9 +654,9 @@ with I can", and "I won't, with I will". Write these affirmations down
 on index cards and place them in an area where you see them on a regular
 basis, like the bathroom mirror or in your tennis bag.
 
-**[[You have to stop letting other people have control over the way you
+**You have to stop letting other people have control over the way you
 think about yourself. Learn to make your own choices of how you perceive
-yourself.]{.underline}]{.mark}** Nobody is in a position to make
+yourself.** Nobody is in a position to make
 judgments about you, because nobody knows you like you do. As soon as
 you shut all critical voices out, including your own, your self image
 will improve. You will start to feel positive, accepted, and
@@ -666,10 +666,10 @@ thinking and into close harmony with the reality of positive
 possibilities.
 
 Allowing yourself to think positive does not mean you're ignoring the
-difficulties of an event or circumstance. **[[Positive thinking is
+difficulties of an event or circumstance. **Positive thinking is
 self-direction, not self-deception. Life's difficulties and negative
 occurrences often become lessons that show us how to forge
-ahead.]{.underline}]{.mark}**
+ahead.**
 
 **Achieving Optimal Performance: Relaxation -- 4th in a Series**
 
@@ -697,15 +697,15 @@ performing at ninety percent effort stimulates relaxation and results in
 faster movement, more strength, sharper vision, less fatigue and
 improved sense of well-being.
 
-**[[If your mind is fixed on victory or defeating your opponent, you
-will not function automatically.]{.underline}]{.mark}** The less effort
+**If your mind is fixed on victory or defeating your opponent, you
+will not function automatically.** The less effort
 you have to expend on thinking about what to do and how to do it, the
 faster and more powerful you will be. If your mind is fixed on either
 your own victory or on defeating your opponent, you will be unable to
-function automatically. Too much concentration defeats itself. **[[If
+function automatically. Too much concentration defeats itself. **If
 you truly relax and allow the unconscious to do it's share instead of
 working the unconscious overtime with unproductive thinking and stress,
-concentration can become effortless.]{.underline}]{.mark}**
+concentration can become effortless.**
 
 In athletic environments where people take themselves and their sport
 very seriously, it can often be difficult to relax. So how do you
@@ -790,9 +790,9 @@ Focus is the process of narrowing your concentration in order to
 eliminate unproductive or distractive occurrences. It means keeping the
 mind here and now. By focusing, you can fine-tune your attention so that
 you stay on the moment. In the Tao of Leadership, John Heider states
-**[["Expeditions into distant lands of one's mind distract from what's
+**"Expeditions into distant lands of one's mind distract from what's
 happening. By staying in the present, you can do less, yet achieve
-more."]{.underline}]{.mark}**
+more."**
 
 As the mind is kept in the present, it becomes calm. Concentration
 becomes relaxed. Jerry Lynch, in his book Thinking Body, Dancing Mind,
@@ -803,16 +803,16 @@ finish line of a hundred mile marathon, a reporter asked him how someone
 his age runs a hundred miles. **[["I don't run a hundred miles. I run
 one mile a hundred times"]{.mark}]{.underline}** he said.
 
-**[[Developing the power to devote full attention to the present is one
+**Developing the power to devote full attention to the present is one
 of the most valuable skills in achieving optimum
-performance.]{.underline}]{.mark}** The mind naturally wants to predict
+performance.** The mind naturally wants to predict
 the future or mull over the past. We want things to be different from
 the way they are, and that pulls our minds into an unreal world. But
 this only puts pressure on you and affects your concentration. The only
 way to make something positive happen is to focus on it in the present
-moment. **[[Concentrate on what you have control over. You can't control
+moment. **Concentrate on what you have control over. You can't control
 your opponent, the weather or the crowd. But you can control your own
-performance.]{.underline}]{.mark}**
+performance.**
 
 To learn to focus, you must practice. The key to achieving focus at will
 is to choose a small aspect of your activity and dwell on it. Whatever
@@ -831,22 +831,22 @@ forgets to try too hard. The best way to maintain focus, is to assume
 you don't know much about the ball, no matter how many balls you've hit.
 Not assuming you already know is a powerful principle of focus.
 
-**[[Most players see where the ball is, but very few know where their
+**Most players see where the ball is, but very few know where their
 racket heads are, especially when they start to move
-around.]{.underline}]{.mark}** To maintain focus, try saying the
+around.** To maintain focus, try saying the
 following mantra: "Ball", "Bounce", "Hit". Say "Ball" when the opponent
 strikes the ball, "Bounce" when it bounces on your side and "Hit" when
 you're hitting. The words will keep you in the present and make you feel
 calm. It is difficult to say these words and worry about the score at
 the same time.
 
-**[It is easy to lose focus in between points.]{.mark}** **[[The best
-thing to do is to focus on your breathing.]{.underline}]{.mark}** Notice
+**[It is easy to lose focus in between points.]{.mark}** **The best
+thing to do is to focus on your breathing.** Notice
 that each inhalation carries oxygen that will bring calm throughout your
 body. As you exhale, notice that your breath carries away not only
 carbon dioxide, but also all your tension and anxiety.
 
-**[[The secret is not to think.]{.underline}]{.mark}** That means
+**The secret is not to think.** That means
 quieting the mind so that the body can do instinctively what it's been
 trained to do without the mind getting in the way. The only way to keep
 the mind in the present is through practice. Train the mind to focus
@@ -889,10 +889,10 @@ competitive performances. It helps you see what you need to change in
 your game and in yourself. In turn, your timing will improve so that you
 minimize your risk of error, setback and failure.
 
-**[[Your tennis performance will have its ups and downs, it's a natural
+**Your tennis performance will have its ups and downs, it's a natural
 cycle. Nobody can compete without fluctuations in performance, but much
 is to be gained from reflecting upon these natural
-cycles.]{.underline}]{.mark}** By aligning yourself with these rhythms,
+cycles.** By aligning yourself with these rhythms,
 you gain personal power over your performance. If you are at a low
 period, accept it and you will stop fighting it. You will notice that
 life is more meaningful when you take time to reflect.
@@ -901,30 +901,30 @@ life is more meaningful when you take time to reflect.
 
 Since most moves in tennis are only a few yards, it seems like raw
 acceleration should be the determining factor in getting to the ball.
-**[[But, of far greater importance, is anticipation and the ability to
-change directions without losing balance.]{.underline}]{.mark}**
+**But, of far greater importance, is anticipation and the ability to
+change directions without losing balance.**
 Anticipation means knowing early where your opponent is likely to hit
 and being ready to respond to that.
 
-**[[The first prerequisite for superior court coverage is to know where
+**The first prerequisite for superior court coverage is to know where
 your IRP (Ideal Recovery Position) is for every opponent and every
-situation.]{.underline}]{.mark}** The IRP is not just a geometric
+situation.** The IRP is not just a geometric
 function of where you hit the ball, it also depends on your opponent's
 strengths and weaknesses.
 
-**Secondly, you must time your strokes, not your body**. **[[This means
+**Secondly, you must time your strokes, not your body**. **This means
 you must arrive behind the bounce before the ball
-does.]{.underline}]{.mark}** **[[If you arrive late, your momentum will
-take you beyond contact and affect your recovery.]{.underline}]{.mark}**
-**[[Many players hit well, but their movement back is slower than their
-movement to the ball.]{.underline}]{.mark}** **[[It should be the same
+does.** **If you arrive late, your momentum will
+take you beyond contact and affect your recovery.**
+**Many players hit well, but their movement back is slower than their
+movement to the ball.** **[[It should be the same
 speed.]{.mark} [Recovery is in fact part of your swing. Your stroke is
 not completed until you're in position for the next
 shot.]{.mark}]{.underline}**
 
-**[[Thirdly, you must anticipate your opponent's shots by keeping your
+**Thirdly, you must anticipate your opponent's shots by keeping your
 eyes glued on them. Become sensitive to small cues which give away the
-direction of the next shot.]{.underline}]{.mark}**
+direction of the next shot.**
 
 Continue to recover while keeping your eyes fixed on your opponent's
 body language before making a final decision about where they are going
@@ -947,16 +947,16 @@ amazing, but it fell apart as soon as he lost a little confidence in it.
 **[Very few player's strengths are perfect in every way. They either hit
 spin or flat or they have great disguise. If you want to bust a
 strength, you can't just pound the ball to the one side.]{.underline}**
-**[[You have to use "opposites".]{.underline}]{.mark}** Start with
+**You have to use "opposites".** Start with
 topspin, then throw in backspin. Make your opponent run and then "float"
 one at them. Here's a great example from the pros. Steffi Graf's
 forehand was a huge weapon. Yet, Martina Navratilova played her forehand
 all the time to force her into the center of the court. Then she would
 work her backhand with the approach shot.
 
-**[[Some player's greatest assets are their legs. When playing a good
+**Some player's greatest assets are their legs. When playing a good
 runner, try to hit where they just came from, or hit down the middle of
-the court.]{.underline}]{.mark}**
+the court.**
 
 **Six Steps to Better Footwork**
 
@@ -990,8 +990,8 @@ produce a squeaking noise on hard courts.
 **Step Five: Impact Step**
 
 **[This is the final step before you hit the ball]{.underline}**.
-**[[Make sure the heel of the foot strikes the ground first, not the
-toe.]{.underline}]{.mark}**
+**Make sure the heel of the foot strikes the ground first, not the
+toe.**
 
 **Step Six: Crossover Step**
 
@@ -1007,30 +1007,30 @@ movement will be cautious, and cautious movement will bring success" --
 Fear is a natural emotion. It's a survival instinct and indicates that
 you need to be alert. Trying to fight or force away fear creates a
 counter force that makes you tense and anxious and interferes with your
-performance. What you resist will persist. **[[Because fear is a natural
+performance. What you resist will persist. **Because fear is a natural
 part of life, it doesn't go away. It can paralyze you or you can use it
 to give you the opportunity to assess the risk you're facing and prepare
 for it properly. Fear is a friend that you must
-embrace.]{.underline}]{.mark}**
+embrace.**
 
 If you feel endangered or fearful, ask yourself why you're feeling that
 way. Have you prepared well for what you are doing? Are you thoroughly
 equipped? Let yourself be afraid. You can actually defeat your fear by
 blending with its force. Alan Watts said: "The other side of fear is
-freedom". Remember that you are not alone. **[[Every athlete, even the
-greatest of the great, has fear.]{.underline}]{.mark}**
+freedom". Remember that you are not alone. **Every athlete, even the
+greatest of the great, has fear.**
 
 In the Western world we learn that "winning isn't everything, it's the
 only thing" (Vince Lombardi). Many coaches, teachers and parents believe
 that losing represents failure. This mentality is responsible for much
 of the fear of failure that athletes experience at all levels.
 
-**[[Failure cannot be avoided. The greatest of the great have failed at
-times and so will you. You]{.underline}]{.mark}** **[[perfect your game
-through adversity and failure.]{.underline}]{.mark}** **[[Look at
+**Failure cannot be avoided. The greatest of the great have failed at
+times and so will you. You** **perfect your game
+through adversity and failure.** **Look at
 failure as a lesson from which you can learn. Seeing failure as an
 opportunity for improvement makes it more tolerable and will help you
-relax.]{.underline}]{.mark}**
+relax.**
 
 As a child you learned from repeated failures to master one of the most
 difficult and challenging of skills -- walking. You repeat falling,
@@ -1050,9 +1050,9 @@ treasure of knowledge if we choose to see and accept it that way.
 **Tips for Handling Fear**
 
 - Take a look at fear and ask yourself "What is the worst that could
-  happen if I followed through on this fear-producing situation?" **[[If
+  happen if I followed through on this fear-producing situation?" **If
   you can live with the worst-case scenario, you can go beyond your
-  fear.]{.underline}]{.mark}**
+  fear.**
 
 - Vigorous exercise coupled with relaxation or meditation helps to put
   fear into perspective.
@@ -1100,19 +1100,19 @@ who tries to succeed experiences pressure and tension. By breaking away
 from their stereotypical roles, many feel guilty for achieving beyond
 the limits society has conveniently ordained.
 
-**[[If you knew you were quite good at something, you would feel
+**If you knew you were quite good at something, you would feel
 compelled to act on it, or else feel guilty about not developing that
 potential. But maybe you would rather not act on it. After all,
 developing this aspect of yourself and living up to that standard will
-probably require hard work.]{.underline}]{.mark}** **[[Becoming totally
+probably require hard work.** **Becoming totally
 committed to excellence often means taking time away from family and
 friends. It's a decision that can have serious repercussions. As a
 result, you may choose a road that avoids
-success.]{.underline}]{.mark}**
+success.**
 
-**[[But, if you turn your back on your talent, you create another pain
+**But, if you turn your back on your talent, you create another pain
 to contend with: you must grow old constantly wondering how good you
-could have been.]{.underline}]{.mark}** **[[The choice is yours to
+could have been.** **[[The choice is yours to
 make.]{.mark} *Being aware of this choice may make it easier for you to
 determine what is more important. If you think you'll have regrets
 later, go for it now while you're still capable.*]{.underline}**
@@ -1126,18 +1126,18 @@ is acquired through practice at a comfortable pace.]{.mark} [An
 improvised stroke is a spontaneous reaction that occurs during match
 play or fast paced drills.]{.mark}]{.underline}**
 
-**[[Do not rely on your ability to improvise.]{.underline}]{.mark}**
-**[[Rehearsing your strokes will never make you unimaginative. To the
+**Do not rely on your ability to improvise.**
+**Rehearsing your strokes will never make you unimaginative. To the
 contrary, the more situations you rehearse, the more imaginative your
-range of options.]{.underline}]{.mark}**
+range of options.**
 
-**[[A tennis stroke is not a collection of disconnected
-actions.]{.underline}]{.mark}** **[[An efficient stroke is a series of
+**A tennis stroke is not a collection of disconnected
+actions.** **[[An efficient stroke is a series of
 actions that flow in an instantaneous sequence.]{.mark} [Your muscles
 must be appropriately relaxed in order for the separate actions of the
-stroke to flow.]{.mark}]{.underline}** **[[Whether swinging or punching,
+stroke to flow.]{.mark}]{.underline}** **Whether swinging or punching,
 the force of an efficient swing travels from your center of gravity to
-the racket head in an instantaneous sequence.]{.underline}]{.mark}** A
+the racket head in an instantaneous sequence.** A
 loss of balance at the beginning of the stroke will inhibit your body's
 ability to initiate force. A loss of balance during the stroke will
 inhibit your body's ability to transfer force to the racket.
@@ -1145,11 +1145,11 @@ inhibit your body's ability to transfer force to the racket.
 **Strategy, the Fourth Foundation: You**
 
 Just like it's important for you to understand your opponent's strengths
-and weaknesses, you also need to understand your own. **[[Don't try to
+and weaknesses, you also need to understand your own. **Don't try to
 do what you're not capable of doing. If you're incapable of hitting a
-power serve, why try it?]{.underline}]{.mark}** **[[If your backhand is
+power serve, why try it?** **If your backhand is
 much weaker than your forehand, run around it. If your movement is
-suspect, why try to play a running game?]{.underline}]{.mark}**
+suspect, why try to play a running game?**
 
 **When assessing your limitations there are a few specifics to look
 for:**
@@ -1167,17 +1167,17 @@ for:**
 
 - How well do you move laterally, diagonally and up and down?
 
-**[[Game Plan]{.underline}]{.mark}**
+**Game Plan**
 
 Most tournament players believe that if they play well, they should win.
-To beat good opponents takes more than just playing well. **[[However,
-you have to plan the work and work the plan.]{.underline}]{.mark}**
+To beat good opponents takes more than just playing well. **However,
+you have to plan the work and work the plan.**
 
-**[[A game plan is a set of strategic guidelines to exploit your
-strengths and your opponent's weaknesses.]{.underline}]{.mark}** A good
+**A game plan is a set of strategic guidelines to exploit your
+strengths and your opponent's weaknesses.** A good
 plan should also minimize your weaknesses and your opponent's strengths.
 
-**[[Keep the plan basic:]{.underline}]{.mark}**
+**Keep the plan basic:**
 
 Strengths, weaknesses, patterns and favorite shots under pressure. For
 example, if you know your backhand is weak, your plan should be to run
@@ -1185,7 +1185,7 @@ around it as much as possible. If your opponent's backhand is weak, your
 plan will be to run them wide to the forehand, thereby opening their
 weaker backhand side.
 
-**[[Changing your Plan]{.underline}]{.mark}**
+**Changing your Plan**
 
 You have to know when to change your game plan. The ability to change
 your plan to suit the opponent and situation may be the most important
@@ -1197,7 +1197,7 @@ late to stop Momentum. You should change the plan when you're in a
 losing pattern. For example, if you've been broken twice, find a way to
 upset the momentum.
 
-**[[Percentages vs Priorities]{.underline}]{.mark}**
+**Percentages vs Priorities**
 
 If percentage tennis suggests you approach down the line to the
 backhand, and the opponent's backhand pass is a weapon, is it percentage
@@ -1208,13 +1208,13 @@ Your overall game plan is driven by priorities and should change with
 every opponent. What may be a high priority shot against one player, is
 suicide against another?
 
-**[[Priorities determine that you go to your opponent's weaknesses. If
+**Priorities determine that you go to your opponent's weaknesses. If
 they don't have a weakness you can exploit, then you go to the
-percentages.]{.underline}]{.mark}**
+percentages.**
 
-**[[Your own strengths can be your priority. Forget your opponent if
+**Your own strengths can be your priority. Forget your opponent if
 your strength is stronger than his strength. You don't have to worry
-about percentages at all.]{.underline}]{.mark}**
+about percentages at all.**
 
 **[Create A Vision of Who You Want To Be]{.underline}**
 
@@ -1228,14 +1228,14 @@ life don't expect much, so, they don't give much and don't get much.
 Winners are not born winners like many thinks. There is no genetic code
 in you that will determine who you will be.
 
-Einstein used to say: "**[[Imagination is more important than
-knowledge.]{.underline}]{.mark}** What you need is skill, not knowledge.
+Einstein used to say: "**Imagination is more important than
+knowledge.** What you need is skill, not knowledge.
 The skill to proactively use your imagination. Once you learn this
 skill, the first task is to begin imagining the vision of who you want
 to be".
 
-Earl Nightingale said: "**[[We literally become what we think about most
-of the time".]{.underline}]{.mark}** As you see yourself in the heart of
+Earl Nightingale said: "**We literally become what we think about most
+of the time".** As you see yourself in the heart of
 your thoughts, so you do become. What you see in your mind's eye is what
 you get: Nurse or prostitute, alcoholic or athlete, drug pusher or
 teacher, nobody or somebody, loser or winner. Each of us becomes that
@@ -1280,19 +1280,19 @@ dreams:
 - **[Fear.]{.mark}** Dealing with the pain of failure is the one factor
   that holds most people back from going after their dreams.
 
-- But, believe it or not, **[[the main reason most talented people don't
+- But, believe it or not, **the main reason most talented people don't
   commit to fulfilling their visions, is laziness or lack of
-  desire.]{.underline}]{.mark}**
+  desire.**
 
 There are basically 3 groups of people in the world. Your job is to
 create a vision of which group you want to belong to:
 
-First there are the **[[Spectators.]{.underline}]{.mark}** They are the
+First there are the **Spectators.** They are the
 majority who watch life happen as bystanders. They avoid the main arena
 for fear of being rejected, ridiculed, hurt or defeated. They prefer not
-to get involved and would rather watch others perform. **[[Most of all,
+to get involved and would rather watch others perform. **Most of all,
 Spectators fear winning. Winning carries the burden of responsibilities
-and setting a good example.]{.underline}]{.mark}** That is too much
+and setting a good example.** That is too much
 effort for most, so, they watch others do their thing. They prefer to be
 on the opposite side of the TV screen.
 
@@ -1307,15 +1307,15 @@ their daily emotional stresses. Their blood pressure jumps as they get
 angry quickly and defensive easily. As a result, the Loser drinks more,
 smokes more and pops more pills to escape.
 
-**Then there are the [[Winners.]{.underline}]{.mark}** Winners aren't
+**Then there are the Winners.** Winners aren't
 necessarily the athletes with the trophies, or the students with the
 straight A's. These are the few, who in a natural, free flowing way seem
 to get what they want from life. They put themselves together at work,
 at home and in the community. They set and achieve goals that benefit
 themselves and others. True winning is one's own pursuit of individual
-excellence. **[[Winning is nothing more than taking the talent or
+excellence. **Winning is nothing more than taking the talent or
 potential you have and using it fully towards a purpose or a goal that
-makes you happy.]{.underline}]{.mark}**
+makes you happy.**
 
 Your attitude towards your potential is either the key to or the lock on
 your door of personal fulfillment. Most of us are unable to see the
@@ -1324,10 +1324,10 @@ yourself. You might want to begin expressing it as a fantasy. Think up
 some stories of who you'd like to be. Your subconscious does not know
 that you're fantasizing. Fake it till you make it.
 
-**[[THE MOST DANGEROUS RISK OF ALL:]{.underline}]{.mark}**
+**THE MOST DANGEROUS RISK OF ALL:**
 
-**[[The risk of spending your life not doing what you want on the bet
-you can buy yourself the freedom to do it later.]{.underline}]{.mark}**
+**The risk of spending your life not doing what you want on the bet
+you can buy yourself the freedom to do it later.**
 
 **[Commitment]{.underline}**
 
@@ -1346,8 +1346,8 @@ motivation, willpower and hard work.
 
 **[[Passion for what you do is what gives you the energy to pursue your
 goals with full commitment every day.]{.mark}]{.underline}** There is a
-saying that **[[if you have passion for what you do, you will not work
-another day in your life.]{.underline}]{.mark}** People with passion
+saying that **if you have passion for what you do, you will not work
+another day in your life.** People with passion
 cannot wait to get out of bed to tackle their goals. The work is not an
 inconvenience. It's an investment.
 
@@ -1375,20 +1375,20 @@ are more likely to put in the hard work that is necessary for success.
 Inner drive seems to be stronger than external motivators like prizes,
 prestige or doing it for others. This does not mean external factors are
 not important. There are many examples throughout sport of outside
-forces providing the motivation for outstanding performances. **[[For
+forces providing the motivation for outstanding performances. **For
 many, the motivating factor is money. But this external motivation tends
 to boost performance only in the short -- term. When you are chasing a
 dream that requires a long- term commitment, a desire from within is a
-very powerful source.]{.underline}]{.mark}**
+very powerful source.**
 
 It takes courage to stay committed. Commitment is fueled by energy. The
 more intense your desire to be successful, the more energy you will put
 into achieving your goals. This will influence how often and how hard
 you train and your persistence to keep going, especially when things get
-rough. **[[If you are like most people, your energy is diffused and
+rough. **If you are like most people, your energy is diffused and
 spread over many areas of your life. If you want to get the best out of
 yourself in pursuit of your dreams, you need to harness most of your
-energy to that end.]{.underline}]{.mark}**
+energy to that end.**
 
 With commitment it's a case of actions speaking louder than words. You
 often have to train when you'd rather be doing something else. I
@@ -1407,10 +1407,10 @@ hand, equally committed athletes often miss major championships by
 fractions of a second or through injury, having spent years in pursuit
 of their goals.
 
-**[[Commitment does not guarantee success. There is however great
+**Commitment does not guarantee success. There is however great
 satisfaction in knowing that you gave your best, because it takes
 courage to commit to being the best that you can
-be.]{.underline}]{.mark}** The majority of people lack this courage.
+be.** The majority of people lack this courage.
 They hold back because of fear of failure. People who are afraid to fail
 never give total commitment, so they avoid the hurt and risk that
 results from falling short of their targets. By holding back, they have
@@ -1469,8 +1469,8 @@ perform well. Low confidence is characterized by pessimism, doubt,
 anxiety, and even dread. When you aren't confident you expect to make
 errors, and when you do, it confirms your doubts.
 
-**[[Expectations have a huge impact on performance. Players seldom
-exceed their expectations.]{.underline}]{.mark}** In a sense, you set
+**Expectations have a huge impact on performance. Players seldom
+exceed their expectations.** In a sense, you set
 the scene with your thoughts and feelings, which are closely linked to
 your beliefs. What you believe, you become. This means that expecting
 something to happen actually contributes to making it happen. In the
@@ -1487,10 +1487,10 @@ won't do what is required to realize the goal. But, if you believe "I
 can", you are setting up a path of success. The psychology of dream
 fulfillment includes the mindset of hope, motivation, commitment,
 confidence, courage and concentration. You need to renounce your
-restrictive beliefs about what you can and cannot do in sport. **[[Your
+restrictive beliefs about what you can and cannot do in sport. **Your
 power as an athlete starts with the awareness that you have unlimited
 potential once you align yourself with the belief "I
-can".]{.underline}]{.mark}**
+can".**
 
 So, how did your beliefs get to where they are? Throughout your life you
 receive messages. These messages come in many forms -- remarks,
@@ -1507,9 +1507,9 @@ becomes your self-fulfilling prophecy. An essential ingredient in
 developing confidence is learning from mistakes. If you practice in an
 encouraging environment where mistakes are viewed as learning
 opportunities and feedback is encouraging, you are more likely to become
-confident. **[[Confidence is not a steady state. It can change
+confident. **Confidence is not a steady state. It can change
 throughout the season, from day to day, even within a training session
-or competition.]{.underline}]{.mark}**
+or competition.**
 
 **Strategies to build confidence**
 
@@ -1538,9 +1538,9 @@ How could I be so stupid? Relax and focus
 
 I'm in trouble now I have a good serve
 
-**[[What you should remember is that we all encounter similar
+**What you should remember is that we all encounter similar
 situations. It is how we react to them that accounts for many of the
-differences between us.]{.underline}]{.mark}**
+differences between us.**
 
 **Thought stopping.**
 
@@ -1637,31 +1637,31 @@ thoughts and feelings. **[[Negative thinking and emotions such as fear,
 anger, and anxiety destroy self- confidence and concentration and
 eventually weaken commitment.]{.mark} [Not only do they affect mental
 fitness, but they can also diminish your physical
-performance.]{.mark}]{.underline}** **[[A negative internal environment
+performance.]{.mark}]{.underline}** **A negative internal environment
 creates stress and tension which can cause muscle tightness and poor
-coordination.]{.underline}]{.mark}**
+coordination.**
 
-**[[Research on the effect of words and images on the functions of the
+**Research on the effect of words and images on the functions of the
 body offers amazing evidence of the power that words spoken at random
-can have on body functions.]{.underline}]{.mark}** **[[Science shows
+can have on body functions.** **[[Science shows
 that thoughts can raise and lower body temperature, relax muscles and
 nerve endings, dilate and constrict arteries, and raise and lower pulse
 rate.]{.mark}]{.underline}**
 
-**[[Learning how to control your internal dialogue then also means
+**Learning how to control your internal dialogue then also means
 gaining control over both your mental and physical
-state.]{.underline}]{.mark}**
+state.**
 
-**[[A competitive situation, like a tennis match, is a strong trigger
-for a range of thoughts and emotions.]{.underline}]{.mark}** Your mind
+**A competitive situation, like a tennis match, is a strong trigger
+for a range of thoughts and emotions.** Your mind
 is bombarded with stimuli before and during and event. How you react to
 external stimuli such as the event, the weather, coaches, family, and
 friends and internal stimuli including your own thoughts, feelings,
 memories and images, can determine the outcome of your match. Your mind
-perceives and interprets stimuli in two ways. **[[Humans have a rational
+perceives and interprets stimuli in two ways. **Humans have a rational
 or thinking mind and an emotional or feeling mind. These two "minds"
 work together generating a series of thoughts based on what it sees and
-the emotional mind reacting to it.]{.underline}]{.mark}**
+the emotional mind reacting to it.**
 
 For example, let's say your opponent is on court already and warming up
 when you arrive at the court. Your opponent is the defending champion
@@ -1672,26 +1672,26 @@ have trained really hard and am so prepared for this match. My opponent
 is tough, but I am excited to put all of my hard work into action and
 win.
 
-- **[The first set of reactions are based on fear.]{.mark}** **[[Fear of
+- **[The first set of reactions are based on fear.]{.mark}** **Fear of
   looking foolish and self-doubt can lead to anxiety which of course can
-  lead to getting uptight and nervous.]{.underline}]{.mark}** In this
+  lead to getting uptight and nervous.** In this
   situation most players will play it safe and let their opponent take
   control of the match.
 
 - **[In the second set of reactions, the player is coming from a
-  position of strength, rather than fear.]{.mark}** **[[This player is
+  position of strength, rather than fear.]{.mark}** **This player is
   excited for the challenge and calm and ready to play. They are more
   likely to dictate play rather than just reacting to their
-  opponent.]{.underline}]{.mark}**
+  opponent.**
 
 **[[It takes practice and awareness to gain self-control over your
 thoughts and emotions.]{.mark}]{.underline}** Consider how you react
 when faced with a competitive situation mentally, emotionally, and
 physically. Once you become aware, you can try to exert some control.
 
-**[[You cannot prevent yourself from thinking and feeling, but you can,
+**You cannot prevent yourself from thinking and feeling, but you can,
 with practice, manage these processes so they can help you perform at
-your best.]{.underline}]{.mark}**
+your best.**
 
 **Here are a few strategies to help control thoughts and emotions:**
 
@@ -1703,8 +1703,8 @@ Breathing is a bridge between your mind and your body. When you are calm
 and relaxed, your breathing is quiet and easy. When you are angry, tense
 or upset, you tend to hold your breath or take rapid, short breaths. You
 can use deep and slow breathing to calm the mind and body.
-**[[Exhalation, particularly long slow breaths, stimulate the part of
-the nervous system that calms the body.]{.underline}]{.mark}**
+**Exhalation, particularly long slow breaths, stimulate the part of
+the nervous system that calms the body.**
 
 **Finding Calm Under Pressure**
 
@@ -1764,37 +1764,37 @@ The physical response was already well documented. In what is called the
 releases very powerful hormones including adrenaline. Within seconds the
 flood of adrenaline in the bloodstream speeds up the heart rate and
 breathing, [effectively pumping blood into the larger muscle groups so
-you can fight or flee the stressor.]{.underline}** **[[This
+you can fight or flee the stressor.]{.underline}** **This
 automatically deprives the smaller muscle groups of blood, which causes
-you process lose fine motor control.]{.underline}]{.mark}** **[[Your
+you process lose fine motor control.** **Your
 hands and feet quit working because they have less
-blood.]{.underline}]{.mark}** **[[Your vision grows narrower and you get
-"tunnel effect".]{.underline}]{.mark}** Tunnel effect is why you cannot
+blood.** **Your vision grows narrower and you get
+"tunnel effect".** Tunnel effect is why you cannot
 toss the ball straight. Those butterflies in your stomach bordering on
 nausea? That feeling truly is in your stomach, not in your head. It's
-the result of **[[stomach acid flooding into your stomach while blood
-rushes out to your limbs.]{.underline}]{.mark}** **[[Muscles tense,
-including your laryngeal muscles]{.underline}]{.mark}**, **[[so you feel
-you cannot speak]{.underline}]{.mark}** -- hence **[[the term
-"Choke".]{.underline}]{.mark}**
+the result of **stomach acid flooding into your stomach while blood
+rushes out to your limbs.** **Muscles tense,
+including your laryngeal muscles**, **so you feel
+you cannot speak** -- hence **the term
+"Choke".**
 
-**[[Next the mind reacts, specifically the left hemisphere of your
-brain.]{.underline}]{.mark}** **[[The left brain is inclined to analyze,
+**Next the mind reacts, specifically the left hemisphere of your
+brain.** **The left brain is inclined to analyze,
 criticize, and distract with instructions to the right
-brain]{.underline}]{.mark}**. **[[The voice from this side of the brain
+brain**. **The voice from this side of the brain
 is critical and judgmental. It's the voice of
-doom.]{.underline}]{.mark}** It does not see possibilities, only failure
+doom.** It does not see possibilities, only failure
 or perfection. It does not allow for mistakes. Your right brain is your
 intuitive side. This is where your instinct, training, and muscle memory
 are stored. Under stress, the left brain interferes with the right, so
 the right brain cannot do its job.
 
-**[[There are players who respond to stress differently and you can
+**There are players who respond to stress differently and you can
 learn ways to control your hormonal and adrenaline
-firings.]{.underline}]{.mark}** **[[That's what great athletes do,
+firings.** **That's what great athletes do,
 sometimes consciously and sometimes instinctively. They learn to control
 their bodies and their minds, which is the essence of good
-performance.]{.underline}]{.mark}** Chris Evert sometimes played in such
+performance.** Chris Evert sometimes played in such
 a zone that her hand would cramp around the racket and she had to pry
 her fingers loose. For people like Chris, stress can be a catalyst to
 optimal performance. You can be one of these players. You can take that
@@ -1803,8 +1803,8 @@ performance under tremendous pressure. Use it it to focus your energy,
 silence the sabotaging voice of the left brain and tap into the talent
 and training your right brain is ready to unleash.
 
-How do you do it? **[[I was taught this by a sports psychologist famous
-for helping professional golfers, Dr Bob Rotella.]{.underline}]{.mark}**
+How do you do it? **I was taught this by a sports psychologist famous
+for helping professional golfers, Dr Bob Rotella.**
 **[[You have to learn to control stress through a process called
 "Centering Down".]{.mark} [Centering down works by switching from left
 brain to right brain thinking. You take yourself from words and
@@ -1827,16 +1827,16 @@ soon as you're done centering. Focus on one action, one purpose, one
 goal: "I'm going to hit this next serve out wide with good spin". Use
 assertive language like "I intend" or "I'm going to". Never use the
 "don't", like "Don't miss your serve". The subconscious hears the word
-"miss". **[[The word "don't" should be avoided at all
-cost]{.underline}]{.mark}**. **[[It does not communicate a clear
-intention.]{.underline}]{.mark}**
+"miss". **The word "don't" should be avoided at all
+cost**. **It does not communicate a clear
+intention.**
 
-**[Step 2: Find a focal point.]{.underline}** **[[Find something to fix
-your gaze on that is below eye level.]{.underline}]{.mark}** It can be a
+**[Step 2: Find a focal point.]{.underline}** **Find something to fix
+your gaze on that is below eye level.** It can be a
 chair, water bottles (Nadal uses this method), anything as long as its
 below eye level. It is better to direct your focal energy downwards.
-**[[The more upwards your eyes drift, the more actively you engage your
-left brain, which is what you're trying to avoid.]{.underline}]{.mark}**
+**The more upwards your eyes drift, the more actively you engage your
+left brain, which is what you're trying to avoid.**
 Under stressful circumstances or adversity, this is where you're going
 to direct your focus.
 
@@ -1889,9 +1889,9 @@ motion. The server has a clear intention -- a spin serve out wide -- and
 that is what he's about to realize. At the moment of release, you're
 going to trust your ability, instinct, and experience.
 
-**[[When you start to practice centering down, the goal is not to see
+**When you start to practice centering down, the goal is not to see
 how fast you can do it, but to accomplish each step in the
-process]{.underline}]{.mark}**. Make sure you form a clear intention and
+process**. Make sure you form a clear intention and
 pick a focus point. Once you have that, start proper breathing before
 scanning your key muscles for tension. Take as many breaths as you need
 to get relatively relaxed and find your center before repeating your
@@ -1907,8 +1907,8 @@ for optimal performance.
 
 **6th in the series, "The Ingredients to Becoming Successful"**
 
-**[["Death kills us once. Fear kills us over and over
-again"]{.underline}]{.mark}** -- General Patton
+**"Death kills us once. Fear kills us over and over
+again"** -- General Patton
 
 "Bravery is the capacity to perform properly even when you're scared" --
 General Omar Bradley
@@ -1946,8 +1946,8 @@ anyway.
 Fear, especially in modern times, is not based on reality. There is no
 sabre-toothed tiger chasing you on the tennis court, in the classroom,
 or at work. This modern fear is irrational and is derived from
-self-doubt. I like to think of the word "FEAR" standing for **[["False
-Expectations Appearing Real".]{.underline}]{.mark}** Everybody has
+self-doubt. I like to think of the word "FEAR" standing for **"False
+Expectations Appearing Real".** Everybody has
 experienced that strange feeling in their stomach the moment they had to
 go out to perform. The body gets engulfed with adrenalin, you may start
 to even shake or sweat from it. Logically you know that you are not
@@ -1955,15 +1955,15 @@ going to die giving the performance, but you may feel you will, because
 fear isn't mindful of the facts. Your thoughts of doubt generate your
 emotion of fear.
 
-**[[Fear is powerful but know this. Whatever you fear, you can
-conquer.]{.underline}]{.mark}** Courage, developed through action
+**Fear is powerful but know this. Whatever you fear, you can
+conquer.** Courage, developed through action
 conquers fear. Courage is like a muscle. It atrophies through fear and
 inaction atrophies and flexes and strengthens through action.
 **[[Instinct can be overcome by second nature, but it takes significant
 practice and repetition. Merriam-Webster]{.mark} [defines second nature
 as "an acquired deeply ingrained habit or skill".]{.mark}]{.underline}**
-**[[While fear is an instinctive response, you can train to make courage
-your second nature.]{.underline}]{.mark}** Just like you use workouts to
+**While fear is an instinctive response, you can train to make courage
+your second nature.** Just like you use workouts to
 develop strength and flexibility, you can create workouts to develop
 courage. Your workouts should start small and increase in difficulty and
 duration until action becomes second nature and overcomes your natural
@@ -1977,19 +1977,19 @@ consider myself courageous and trust me, it goes against every instinct
 to jump out of a perfectly good airplane. But the training was rigorous
 and while I still don't like heights I can jump confidently from a
 plane. Military training is effective because it is so repetitious.
-**[[You do what you're trained to do over and over again until you no
+**You do what you're trained to do over and over again until you no
 longer even have to think about it. Your "second nature" starts to
 override your "instinctive nature". This is what prevents fear from
 dictating what you should do, which is good, because fear will propel
 you either to do the wrong thing or to do nothing at
-all.]{.underline}]{.mark}**
+all.**
 
-**[[How can you develop the courage to face fear? You need to get to the
+**How can you develop the courage to face fear? You need to get to the
 point where you trust yourself enough to act and risk defeat even in the
 face of fear. Here are some things you can do to build this trust in
-yourself:]{.underline}]{.mark}**
+yourself:**
 
-- **Establish shorter-term [[performance goals]{.underline}]{.mark}**
+- **Establish shorter-term performance goals**
   that are measurable instead of longer-term outcome goals. Sometimes
   the enormity of a task can be overwhelming. If you set short term
   goals that are achievable, you slowly build the courage to eventually
@@ -2044,8 +2044,8 @@ in the face of fear.
 
 **First in a series on how to counter different styles**
 
-**[[A Retriever stays on the baseline and gets everything back.
-They]{.underline}]{.mark}** **[[are usually in pretty good shape, and
+**A Retriever stays on the baseline and gets everything back.
+They** **[[are usually in pretty good shape, and
 they cover the court well.]{.mark}]{.underline}** They don't use much
 pace, spin, or depth but they're able to recover everything you throw at
 them. A Retriever style can be very effective against an opponent who
@@ -2054,8 +2054,8 @@ against the Retriever.
 
 **Patience**
 
-**[[The key to a Retriever's game is patience. It is also the key to
-beating it.]{.underline}]{.mark}** The Retriever's success is based on
+**The key to a Retriever's game is patience. It is also the key to
+beating it.** The Retriever's success is based on
 the same principle as Chinese water torture -- slow, dull and
 repetitious. **[[The reason you lose to a Retriever is
 impatience.]{.mark}]{.underline}** They are very consistent. They keep
@@ -2064,21 +2064,21 @@ and more and you end up trying shots you never had.
 
 **Go to the net**
 
-**[[Your primary goal against a Retriever is to make them hit some real
-shots]{.underline}]{.mark}**. **[[You want to get them out of their
+**Your primary goal against a Retriever is to make them hit some real
+shots**. **You want to get them out of their
 comfort zone. One way to do it is to go to the
-net.]{.underline}]{.mark}** Suddenly the Retriever faces the problem of
-making a decision. **[[Retrievers don't like to make decisions! They
-just want to counter your decisions.]{.underline}]{.mark}** Bring them
+net.** Suddenly the Retriever faces the problem of
+making a decision. **Retrievers don't like to make decisions! They
+just want to counter your decisions.** Bring them
 in and now all of a sudden they have to decide: "Should I pass cross
-court or down the line? Should I lob?' Hit it right at them?". **[[They
+court or down the line? Should I lob?' Hit it right at them?". **They
 like to hit into the big open court. You need to narrow their options by
-narrowing the target.]{.underline}]{.mark}**
+narrowing the target.**
 
 **Bring the Retriever to the net**
 
-**[[You can also get them out of their comfort zone by drawing them
-towards the net. Let]{.underline}]{.mark} [[them show some volleys,
+**You can also get them out of their comfort zone by drawing them
+towards the net. Let [[them show some volleys,
 overheads, or maybe half volleys.]{.mark} [To do this, you will have to
 hit some short balls.]{.mark}]{.underline}** How do you do it? Well,
 you've done it numerous times unintentionally in practice, now try to do
@@ -2086,17 +2086,17 @@ it on purpose.
 
 **Take the pace away**
 
-**[[In most cases Retrievers feed off the opponent's
-pace.]{.underline}]{.mark}** Players make the mistake of hitting harder
-and harder against Retrievers. Eventually, they over hit. **[[Take pace
-off the ball against Retrievers.]{.underline}]{.mark}**
+**In most cases Retrievers feed off the opponent's
+pace.** Players make the mistake of hitting harder
+and harder against Retrievers. Eventually, they over hit. **Take pace
+off the ball against Retrievers.**
 
 **[Hit your second serve first]{.mark}**
 
 Once again, **[[by hitting the second serve first, it robs them of
 pace.]{.mark} [It will make them have to take a swing at the
-ball,]{.mark}]{.underline}** **[[which is exactly what they want to
-avoid.]{.underline}]{.mark}**
+ball,]{.mark}]{.underline}** **which is exactly what they want to
+avoid.**
 
 **[To be continued...]{.underline}**
 

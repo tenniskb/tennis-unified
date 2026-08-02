@@ -10,8 +10,8 @@
 tennis within your own mind, as if you were actually physically playing
 tennis---seeing yourself as if a real life experience was happening.**
 
-**[[This is also called mental rehearsal or
-visualization.]{.underline}]{.mark}** And the research shows that the
+**This is also called mental rehearsal or
+visualization.** And the research shows that the
 use of mental imagery in this fashion has a demonstrable, positive
 impact in helping you hit your shots when you need them.
 
@@ -47,7 +47,7 @@ tennis?**
 
 [External visual imagery is viewing yourself from the perspective of an
 observer]{.mark}, as if you were watching television or video of
-yourself. **[[This is third person perspective.]{.underline}]{.mark}**
+yourself. **This is third person perspective.**
 
 **[Kinesthetic imagery is when you imagine the feeling of playing in
 your own body.]{.mark}** You feel your body is performing the movement.

@@ -25,8 +25,8 @@ a specific situation.
 
 **The Hard Part**
 
-**[[The hard part is knowing what shots yield what outcomes in what
-circumstances against what opponents.]{.underline}]{.mark}** The reality
+**The hard part is knowing what shots yield what outcomes in what
+circumstances against what opponents.** The reality
 is that it's never cut and dried. That's why so few players are really
 good match players. They don't have an intuitive feel for what the
 probabilities of various situations really are, given all the variables
@@ -55,9 +55,9 @@ know you can make either one, but you also know you're almost certain
 to lose the point either way if you do. The 30% shot in this case is a
 hard, go for broke running down the line forehand.
 
-**[[So, which is really the percentage play? If you play the \"safe\"
+**So, which is really the percentage play? If you play the \"safe\"
 shot, you are going to win 1 point out of ten. But if you play the more
-dangerous shot, you will 3 points.]{.underline}]{.mark}** Suddenly the
+dangerous shot, you will 3 points.** Suddenly the
 \"riskier\" down the line shot looks like the percentage play, because
 on balance, it is going to yield more points.
 
@@ -308,8 +308,8 @@ your backhand side: the ability to drive, to roll, and to slice.
 To ask our original question, for each of the high percentage strategies
 above, what percentage of points are you actually winning?
 
-**[[There is another mort aggressive option. This is to drive the ball
-down the line with pace.]{.underline}]{.mark}** The one-handed backhand
+**There is another mort aggressive option. This is to drive the ball
+down the line with pace.** The one-handed backhand
 down the line is one of the most difficult but also most beautiful shots
 in tennis.
 
@@ -402,10 +402,10 @@ attack the next ball as aggressively. It's also possible that he will
 get anxious since you are neutralizing his attack, overhit the next
 ball, and make an error.
 
-**[[A different approach that is more aggressive is to attempt to take
+**A different approach that is more aggressive is to attempt to take
 the ball early. Step in and hit a half-volley drive cross court with
 pace. This can blunt your opponent's ability to continue the
-attack.]{.underline}]{.mark}** Depending on how well you hit it, he may
+attack.** Depending on how well you hit it, he may
 have to try to neutralize your ball and lose the advantage. Or he may be
 overeager and overhit and donate the point with an error.
 
@@ -414,11 +414,11 @@ generated](media_shot-selection-foundation-of-tactics/media/image15.webp)
 
 **How do you recover to neutral?**
 
-**[[The most aggressive choice is to again take the ball early, but
+**The most aggressive choice is to again take the ball early, but
 instead of going crosscourt, rip it down the
-line.]{.underline}]{.mark}** **[[This is the same option you had with
+line.** **This is the same option you had with
 the neutral ball, but the degree of difficulty is now significantly
-higher.]{.underline}]{.mark}**
+higher.**
 
 Another defensive option is to hit that high looping spin ball, but to
 hit it down the line instead of crosscourt. The idea here is to get off
@@ -461,26 +461,26 @@ generated](media_shot-selection-foundation-of-tactics/media/image17.webp)
 
 **Great players sense the when the 30% shot is the right option.**
 
-**[[It's a great example of how the exchanges and patterns are all
+**It's a great example of how the exchanges and patterns are all
 relative. What makes this so interesting is there again is no definitive
 answer. The \"best\" shot will vary from opponent to opponent, from day
 to day and even from point to point. Geometry is obviously a big part of
 it, but execution, pace, and court movement are all factors that can tip
-the outcome of the exchange.]{.underline}]{.mark}**
+the outcome of the exchange.**
 
-**[[Great players have a natural understanding of the results of their
+**Great players have a natural understanding of the results of their
 shots before they hit them. Even though they may not be consciously
 aware, the choices they make indicate cognizance of the probable results
 of each option. They seem to know when that 30% shot is their best
-option.]{.underline}]{.mark}**
+option.**
 
-**[[There is no perfect choice \-- it depends on what you can do, the
+**There is no perfect choice \-- it depends on what you can do, the
 skill level and individual strengths and weaknesses of your opponent.
 The specific skills of each player create match-ups, and match-ups are
 one thing that makes the game so fascinating to play and to watch. It is
 a matter of being able to force your opponent into situations that he
 does not like (or that you do) with enough frequency that you can
-control the match physically and psychologically.]{.underline}]{.mark}**
+control the match physically and psychologically.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                         Dave Hagler is a Tennis Professional based

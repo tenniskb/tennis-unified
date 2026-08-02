@@ -25,16 +25,16 @@ right arm framework instead!**
 ### The Arm Frameworks
 
 Probably the most misunderstood part of volley mechanics is what I call,
-\"the arm frameworks.\" **[[The arm framework positions your racquet in
+\"the arm frameworks.\" **The arm framework positions your racquet in
 relation to your body and also to the oncoming ball. Unless the ball is
 exceptionally high, low, or wide, the key to the framework for both the
 forehand and backhand volleys is the position of your hands, and your
-elbows in the ready position.]{.underline}]{.mark}**
+elbows in the ready position.**
 
-Remember that **the ready position entails having the [[elbows
-comfortably in front of your hips]{.underline}]{.mark} with [[the
+Remember that **the ready position entails having the elbows
+comfortably in front of your hips with the
 racquet head below eye level and above wrist
-level.]{.underline}]{.mark}** Your elbows should always be bent and your
+level.** Your elbows should always be bent and your
 hitting wrist should be \"back against itself,\" or at a slight angle to
 the forearm. Another way to familiarize yourself with this position is
 to put your palms together as if praying and note the wrist angle
@@ -52,9 +52,9 @@ confidence](media_the-volley-part-2-private-lessons/media/image2.webp)
 and elbow should be maintained as much as possible because they drive
 and stabilize the shot.]{.mark}]{.underline}**
 
-**[[Once the framework is established, the opposite shoulder initiates a
+**Once the framework is established, the opposite shoulder initiates a
 slight turn so that the racquet stays more or less within your
-peripheral vision.]{.underline}]{.mark}** **[[As you turn, you're
+peripheral vision.** **[[As you turn, you're
 basically just moving your ready position over.]{.mark}]{.underline}**
 
 Note that the racquet head is in a 3/4 turn position, or in other words,
@@ -76,9 +76,9 @@ against itself and the racquet face is slightly
 open.]{.mark}]{.underline}**
 
 This position is critical because it paves the way for correct forward
-hitting motion. **[[This movement of the racquet forward to the ball is
+hitting motion. **This movement of the racquet forward to the ball is
 driven by the heel of the racquet hand and the butt of the racquet
-handle.]{.underline}]{.mark}** **[[This \"heel-hand\" combination pushes
+handle.** **[[This \"heel-hand\" combination pushes
 the racquet face to the ball and keeps it firm through
 impact.]{.mark}]{.underline}**
 
@@ -208,8 +208,8 @@ hand.]{.mark}]{.underline}**
 
 ### Footwork
 
-**[[No matter how solid your racquet work is, as always, it has to go
-hand in hand with good footwork.]{.underline}]{.mark}** The importance
+**No matter how solid your racquet work is, as always, it has to go
+hand in hand with good footwork.** The importance
 of the ready hop has been discussed; and sometimes that's all you'll
 have time to do, especially in the fast exchanges encountered in
 doubles.
@@ -221,11 +221,11 @@ confidence](media_the-volley-part-2-private-lessons/media/image9.webp)
 **The volley footwork: a ready hop and a step to the top of the
 imaginary triangle.**
 
-**[[However, whenever possible you should try and step into the
-volley.]{.underline}]{.mark}** **[[The momentum you gain from stepping
+**However, whenever possible you should try and step into the
+volley.** **The momentum you gain from stepping
 in helps insure your volley stroke will remain compact. Flat feet
 practically guarantee you'll overswing to compensate for the lack of
-weight transfer.]{.underline}]{.mark}**
+weight transfer.**
 
 **[It's important to note [that this step starts before the racquet
 begins its forward motion to the ball.]{.underline}]{.mark}**

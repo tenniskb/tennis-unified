@@ -47,10 +47,10 @@ between Germany and Britain.**
 In a closely fought match momentum will ebb and flow. A very powerful
 statement is the ability to absorb punishment with a clear mind.
 
-**[[When you are defending an onslaught you must find something to
+**When you are defending an onslaught you must find something to
 attack. Send the message that you can find a way to hurt your opponent
 even when you are on the defensive. This may cause him to press and make
-strategic errors]{.underline}]{.mark}**.
+strategic errors**.
 
 **[[Winston Churchill did not win World War Two with his decision to
 bomb Berlin early in the conflict. But it irritated Adolph Hitler and

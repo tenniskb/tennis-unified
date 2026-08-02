@@ -22,10 +22,10 @@ better tennis players and you'll start to understand that the
 difference can be huge in terms of stroke mechanics, balance, timing,
 and control.
 
-**[[Correct usage of the non racket arm is a major factor in developing
-flowing, powerful groundstrokes]{.underline}]{.mark}. [[Using it
-incorrectly creates]{.underline}]{.mark} [[counterproductive forces that
-prevent confident stroke production]{.underline}]{.mark}. Incorrect
+**Correct usage of the non racket arm is a major factor in developing
+flowing, powerful groundstrokes. Using it
+incorrectly creates counterproductive forces that
+prevent confident stroke production. Incorrect
 movement of the non-racket arm will not necessarily preclude making a
 shot, but the quality of the shot will often be compromised.**
 
@@ -63,20 +63,20 @@ confidence](media_the-opposite-arm-ground-strokes-part-1/media/image3.webp)
 **The pace car clears the path and the race car follows.**
 
 **In the ready position, the non racket hand cradles the throat of the
-racket to [[take pressure off of the hitting arm]{.underline}]{.mark}
-and [[assist in a grip change if one is called
-for]{.underline}]{.mark}**. **During the backswing or \"coiling\" stage,
+racket to take pressure off of the hitting arm
+and assist in a grip change if one is called
+for**. **During the backswing or \"coiling\" stage,
 the no- racket hand remains on the throat of the racket as both arms
-begin moving to the side. [[The hand releases at approximately the point
+begin moving to the side. The hand releases at approximately the point
 where the left arm is parallel to the net, pointing directly at the
-side.]{.underline}]{.mark}**
+side.**
 
 **For some players the left hand can also stay on slightly beyond that.
 If the swing is well timed, at virtually the moment the non racket hand
-departs, [[the left arm fully extends parallel to the
-net]{.underline}]{.mark}**. **[[It then releases back across the
-body]{.underline}]{.mark}. [[Simultaneously, the hitting arm completes
-the backswing and then the forward swing.]{.underline}]{.mark}**
+departs, the left arm fully extends parallel to the
+net**. **It then releases back across the
+body. Simultaneously, the hitting arm completes
+the backswing and then the forward swing.**
 
 I've always likened this to a \"pace car and race car\" situation. The
 left arm is the pace car, and the hitting arm is the race car. The left
@@ -87,9 +87,9 @@ start of the forward swing. It will then start forward and across the
 body, tracing the arc that the racket hand will
 follow.]{.mark}]{.underline}**
 
-**[[As the opposite arm moves, the elbow will start to bend inwards
+**As the opposite arm moves, the elbow will start to bend inwards
 toward the torso, eventually reaching a right angle, or something
-close.]{.underline}]{.mark}** **[[Now the whole opposite arm will start
+close.** **[[Now the whole opposite arm will start
 to rise. In the classic finish, the upper arm will move upwards until it
 is about parallel to the shoulder.]{.mark} [At the same time the forearm
 will rotate upwards until it is pointing more or less straight up and
@@ -102,8 +102,8 @@ confidence](media_the-opposite-arm-ground-strokes-part-1/media/image4.webp)
 **The opposite hand traces the arc of the racket hand across the range
 of follow-throughs.**
 
-**[[This position is what allows players to \"catch\" the racket with
-the left hand]{.underline}]{.mark}**, a tried and true teaching maxim to
+**This position is what allows players to \"catch\" the racket with
+the left hand**, a tried and true teaching maxim to
 help players develop follow-through. You don't see too many top players
 do this in matches, although it's more common to see it in the
 warm-ups. But if you watch a player like Agassi in actual point play, on
@@ -112,32 +112,32 @@ position or very close to it. **[[It's not the catching itself that
 matters. It's the position of the opposite arm in relation to the swing
 and the movement of the racket.]{.mark}]{.underline}**
 
-**[[This \"catching\" position correlates with more classical over the
-shoulder finishes.]{.underline}]{.mark}** But we know that in the modern
-game, there are a myriad of other forehand finishes. **[[The position of
+**This \"catching\" position correlates with more classical over the
+shoulder finishes.** But we know that in the modern
+game, there are a myriad of other forehand finishes. **The position of
 the opposite arm will vary with the finish of the racket itself.
 Depending on a player's grip and/or the kind of shot he's hitting, the
 non racket hand can finish up around the shoulder, down below the hip,
-or somewhere in between.]{.underline}]{.mark}**
+or somewhere in between.**
 
-**[[The interesting point is that in all cases the opposite hand and arm
-trace the path of the racket.]{.underline}]{.mark}** **[[Also, the
+**The interesting point is that in all cases the opposite hand and arm
+trace the path of the racket.** **Also, the
 opposite arm always stays below the level of racket, even on the more
-extreme across the body finishes]{.underline}]{.mark}**. **[[As with the
+extreme across the body finishes**. **As with the
 over the shoulder finish, the elbow bends and tucks inward, but the arm
 rises proportionately to the height of the racket arm during
-followthrough.]{.underline}]{.mark}**
+followthrough.**
 
-**[[Instead of pointing straight up as with the over the shoulder
+**Instead of pointing straight up as with the over the shoulder
 finish, on these lower finishes, the forearm points partially upward, or
 points forward. It all depends on the height of the
-racket.]{.underline}]{.mark}** **[[Again it's the \"pace car and race
+racket.** **Again it's the \"pace car and race
 car\" concept. The opposite hand will trace an arc that is similar to
-the path of the oncoming racket.]{.underline}]{.mark}**
+the path of the oncoming racket.**
 
 **Having said all that, if you have difficulties with the opposite arm
-motion, the place to start is [[with the simplest
-finish.]{.underline}]{.mark}** **Learning the \"catch\" alone can
+motion, the place to start is with the simplest
+finish.** **Learning the \"catch\" alone can
 sometimes solve all a student's opposite arm problems.** The catch gives
 you the feeling of how the arms work together and their related paths
 across the body. Once you have a better feel for the path of the
@@ -152,9 +152,9 @@ generated](media_the-opposite-arm-ground-strokes-part-1/media/image5.webp)
 **Problems**
 
 So what are some of the wrong ways to use the non-racket arm on the
-forehand? In my experience, players have a tendency to **[[either drop
+forehand? In my experience, players have a tendency to **either drop
 the non racket arm, move it to the left of the body, or, even leave the
-left arm across the body too long.]{.underline}]{.mark}** With the left
+left arm across the body too long.** With the left
 arm hanging at the side the likelihood is that there will be an
 insufficient coil and therefore a swing produced primarily from the
 right arm and not the right side. The stroke won't flow and results in
@@ -202,16 +202,16 @@ speeds, all the while putting the emphasis on the flow of the new model.
 | **4 common finishes with poor opposite arm position.** |  |  |  |
 
 
-**[[One of the biggest problems]{.underline}]{.mark}** I see from
+**One of the biggest problems** I see from
 players day in and day out is **[[that they get too close to the ball
 thereby cramping their hitting zone.]{.mark}]{.underline}** With that in
 mind, I have my students model a loaded open or square stance at the
 point where the non-racket arm is fully extended. I'll then either toss
 them a ball to catch while the arm stays in that position, or have them
 drop and hit a ball from that spot to demonstrate the best lateral
-distance for establishing the forehand hitting zone. **[[The non racket
+distance for establishing the forehand hitting zone. **The non racket
 arm therefore, over time, also becomes an effective measuring
-device.]{.underline}]{.mark}**
+device.**
 
 ![A person playing tennis Description automatically
 generated](media_the-opposite-arm-ground-strokes-part-1/media/image11.webp)
@@ -255,32 +255,32 @@ generated](media_the-opposite-arm-ground-strokes-part-1/media/image13.webp)
 **The opposite arm moves backwards and finishes at different heights
 depending on the spin.**
 
-**[[The non racket arm and shoulder should not rotate
-around]{.underline}]{.mark} with the start of the forward swing. By
+**The non racket arm and shoulder should not rotate
+around with the start of the forward swing. By
 working as a counterbalance, they provide more power for the hitting
-shoulder to pull and drive the stroke in a direct line to the target[[.
+shoulder to pull and drive the stroke in a direct line to the target.
 In other words, you want the plane of the shoulders as sideways as
 possible to the target at contact. It's important to note that if
-you're]{.underline}]{.mark}** **[[hitting a topspin backhand, the
+you're** **hitting a topspin backhand, the
 non-racket hand releases then moves backward and downward to around
-waist level.]{.underline}]{.mark}**
+waist level.**
 
 **[[On a slice backhand the opposite arm moves back more along the plane
 of the forward swing, finishing only a little lower than the racket
 hand.]{.mark}]{.underline} These finishes help create balance relative
 to the different shots. If you look at the animations, you can see that
-the arm goes backwards on both, but [[also the different lines and
-finishing positions.]{.underline}]{.mark}**
+the arm goes backwards on both, but also the different lines and
+finishing positions.**
 
 **Two-Handed Backhand**
 
 In the case of the two-handed backhand the second arm is better referred
 to as the non-dominant arm because it stays on the racket throughout.
 The two-handed backhand has always been, in my mind, more or less a
-forehand on the backhand side. **[[The arm configurations at contact of
+forehand on the backhand side. **The arm configurations at contact of
 bent/bent, bent/straight and straight/straight don't change the fact
 that the dominant arm needs the freedom to drive through the shot and
-extend at the finish as on a forehand.]{.underline}]{.mark}**
+extend at the finish as on a forehand.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-opposite-arm-ground-strokes-part-1/media/image14.webp)
@@ -329,10 +329,10 @@ he's going to be too far away he is, in fact, right where he should be.
 In any case, it's better to work at having to close a gap than to
 continually have no gap at all.
 
-**[[I also like to have players use their outside foot as a measuring
+**I also like to have players use their outside foot as a measuring
 stick. If the intent is to hit from a loaded open or open stance, the
 ball should be struck to the outside of that foot (left foot for a right
-hander).]{.underline}]{.mark}** If they start with that premise and wind
+hander).** If they start with that premise and wind
 up stepping in, as long as they don't close the stance too much there
 should still be sufficient room. If you use a closed stance, be sure to
 leave plenty of room to absorb the room taken up by the cross step.
@@ -340,8 +340,8 @@ leave plenty of room to absorb the room taken up by the cross step.
 Many players are late on the two-hander for the simple fact that they
 can get away with it because they are so much stronger with both hands.
 I plan to do an entire article about the critical role of timing and how
-to develop it but let me just say for now that **[[the ball should be
-contacted in front of your center of gravity.]{.underline}]{.mark}**
+to develop it but let me just say for now that **the ball should be
+contacted in front of your center of gravity.**
 
 ![A person playing tennis Description automatically generated with
 medium

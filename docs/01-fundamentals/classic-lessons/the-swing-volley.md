@@ -81,24 +81,24 @@ forehand.
 
 The first key is ball height. Even in pro tennis, you rarely see players
 take the ball out the air with a swinging volley that is not at least
-waist high. **[[The range of the strike zone is from the waist to the
+waist high. **The range of the strike zone is from the waist to the
 shoulder, and a little higher if you are close to the net and hitting
-the ball down into the court.]{.underline}]{.mark}**
+the ball down into the court.**
 
 **[[Second, grip. You should use your regular, forehand topspin
 grip.]{.mark}]{.underline}**
 
-**[[Third, preparation. Because you are much closer to your opponent and
+**Third, preparation. Because you are much closer to your opponent and
 have less time, an immediate unit turn is critical. This means the
 shoulders and feet turning sideways, and the non-racket arm moving
 across the body pointing at least partially at the
-sideline.]{.underline}]{.mark}**
+sideline.**
 
-**[[Fourth, swing size. The swinging volley almost always uses a full
+**Fourth, swing size. The swinging volley almost always uses a full
 motion, but in general the size of the backswing will be somewhat
 smaller than whatever you use on your regular forehand. The reason is
 the reduced time interval you have in taking the ball out of the
-air.]{.underline}]{.mark}**
+air.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-swing-volley/media/image4.webp)
@@ -119,21 +119,21 @@ much closer to your opponent's baseline.
 
 ### Court Position
 
-**[[After technique, the next two points to understand are when to
+**After technique, the next two points to understand are when to
 actually use a swinging, as compared to a traditional volley. The answer
 depends on two things: what kind of ball you are hitting, and where you
-are in the court.]{.underline}]{.mark}**
+are in the court.**
 
 We can look to Roger Federer for an answer, a player who seems to mix in
-his swinging volleys at the perfect time**[[. In general, swinging
+his swinging volleys at the perfect time**. In general, swinging
 volleys are best suited to slightly slower and/or slightly higher
-balls.]{.underline}]{.mark}**
+balls.**
 
-**[[Swinging volleys are great for finishing when you have closed the
+**Swinging volleys are great for finishing when you have closed the
 net, have an open court, but are hitting a ball without a lot of
-pace.]{.underline}]{.mark}** **[[In these cases, it's sometimes hard to
+pace.** **In these cases, it's sometimes hard to
 put the ball away even if you hit it perfectly into the
-opening.]{.underline}]{.mark}**
+opening.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-swing-volley/media/image5.webp)
@@ -146,19 +146,19 @@ is also a tendency for many players, sensing this danger, to over hit
 the classic volley and make a dispiriting unforced error on what should
 have been an easy point.
 
-**[[The swinging volley over comes this by generating more pace, giving
-the opponent less chance to retrieve and counter.]{.underline}]{.mark}**
-**[[Since you have to really swing, there is also less of a tendency to
+**The swinging volley over comes this by generating more pace, giving
+the opponent less chance to retrieve and counter.**
+**Since you have to really swing, there is also less of a tendency to
 hold back or to choke. In that sense the shot is a good asset in your
-mental as well as your tactical game.]{.underline}]{.mark}**
+mental as well as your tactical game.**
 
 ### The Approach
 
-**[[A second effective use of the swinging volley is as an approach
+**A second effective use of the swinging volley is as an approach
 shot. If you are playing a moonballing opponent who is keeping you deep
 in the court, the swinging volley can help you make the transition to
 the net where you have the chance to end points decisively. This can add
-an entirely new dimension to your attacking game.]{.underline}]{.mark}**
+an entirely new dimension to your attacking game.**
 
 By stepping in and taking the ball in the air, you can usually gain 10
 feet or more of real estate. You are also taking time away from the
@@ -177,11 +177,11 @@ confidence](media_the-swing-volley/media/image6.webp)
 
 **A great way to attack moon balls and approach---note the hop.**
 
-**[[The hop keeps the stroke in line and prevents from rotating or
+**The hop keeps the stroke in line and prevents from rotating or
 bringing the back foot around too soon in your anxiety to get to the
 net. Follow it in and see what you get next, the opportunity to hit a
 classic volley, an overhead, or to finish with a second high power
-swinging shot.]{.underline}]{.mark}**
+swinging shot.**
 
 ### Backhand Swinging Volley
 
@@ -190,9 +190,9 @@ increasing number of players who hit two-handed backhand swinging
 volleys as well. Two-handed players who try it find, as with the
 forehand, that the shot is not as difficult as they may have imagined.
 
-**[[As with the forehand, it's basically a more compact version of the
+**As with the forehand, it's basically a more compact version of the
 regular two-handed groundstroke. And it has the same
-applications.]{.underline}]{.mark}**
+applications.**
 
 You can use the swinging two-hander to create more pace to force the
 backcourt player on the first volley. You can use it as a devasting

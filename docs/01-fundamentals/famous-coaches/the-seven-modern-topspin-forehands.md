@@ -19,8 +19,8 @@ each variation is a technical response to a tactical problem.
 
 If you understand the different topspin forehands and how to use them,
 you develop the ability to swing aggressively and take a full rip at all
-your shots\--**[[but with a purpose, generating a specific forehand with
-a specific tactical goal.]{.underline}]{.mark}**
+your shots\--**but with a purpose, generating a specific forehand with
+a specific tactical goal.**
 
 In this article, we'll go into the different topspin forehands in more
 detail. For each one, we'll look at when and why pro players use them.
@@ -48,17 +48,17 @@ of the most popular topspin forehands on the men's tour. It is hit very
 aggressively with a lot of ball speed and moderate topspin. It has a
 high safety factor because it passes 3 or 4 feet over the net, but is
 still hit with enough spin to ensure that the ball drops down in the
-court. **[[The top pros hit it fearlessly because it's safe. They use
+court. **The top pros hit it fearlessly because it's safe. They use
 the arc to move their opponents around the court and create
-openings.]{.underline}]{.mark}** Although it is less common on the
+openings.** Although it is less common on the
 women's tour, we are now starting to see this ball more frequently
 there as well.
 
 If you watch tennis on television, it's very difficult to see the real
 trajectory of the arc. This is because the high camera shot typically
 used in matches can make it appear that the ball is clearing the net by
-only a few inches. In reality **[[the arc ball clears the net by 3 feet
-or more traveling from baseline to baseline.]{.underline}]{.mark}**
+only a few inches. In reality **the arc ball clears the net by 3 feet
+or more traveling from baseline to baseline.**
 
 ![A person running on a track Description automatically generated with
 medium
@@ -72,12 +72,12 @@ The message is that when you are rallying it's not necessary to hit
 just a few inches over the net, even though it might appear that's what
 the pros are doing. Instead copy the real trajectory of the arc ball.
 
-**[[At the club level, the arc will be hit slightly lower and with a
-little less spin, but the effect is the same]{.underline}]{.mark}**. You
+**At the club level, the arc will be hit slightly lower and with a
+little less spin, but the effect is the same**. You
 will still be able to get the ball up, reduce your errors significantly
-and hit aggressively with spin and depth***[[. If you are trying to
+and hit aggressively with spin and depth***. If you are trying to
 develop consistency from the ground, the arc can actually be a more
-reliable shot than the drive.]{.underline}]{.mark}***
+reliable shot than the drive.***
 
 The finish on the arc, as with all the topspin variations, will vary
 with the player's grip but also with the impact height and the amount
@@ -95,13 +95,13 @@ the shoulder.**
 
 **The Drive**
 
-**[[The drive is a fast, penetrating shot still hit with topspin, but
+**The drive is a fast, penetrating shot still hit with topspin, but
 with a flatter trajectory than the arc. It goes over the net much lower
 than the arc, typically clearing the net by about 1 foot, versus 3 or 4
-feet for the arc.]{.underline}]{.mark}**
+feet for the arc.**
 
-**[[The drive is quick through the air and gets from one end of the
-court to other very rapidly.]{.underline}]{.mark}** ***[Because of the
+**The drive is quick through the air and gets from one end of the
+court to other very rapidly.** ***[Because of the
 increased pace and lower trajectory, the opponent has less time to react
 than with the arc, and this makes the drive more difficult to
 reach.]{.mark}*** **[[The drive is a shot for hurting your opponent
@@ -113,9 +113,9 @@ compared to the men who tend to hit more arcs.
 
 ***[The other primary situation you see players hit the drive is on the
 passing shot, where it is important to keep the ball low.]{.mark}***
-**[[When hitting the pass, depth is irrelevant if you can hit lower over
+**When hitting the pass, depth is irrelevant if you can hit lower over
 the net with pace and keep the ball close to
-sidelines.]{.underline}]{.mark}**
+sidelines.**
 
 For players with more conventional grips the drive finish will typically
 be the elevated finish over the shoulder. With the more extreme grips
@@ -165,10 +165,10 @@ confidence](media_the-seven-modern-topspin-forehands/media/image6.webp)
 
 **TheTopspin Lob**
 
-**[[The topspin lob is hit still higher than the loop, typically
-clearing the net by 12 to 16 feet.]{.underline}]{.mark}** ***[[It's an
+**The topspin lob is hit still higher than the loop, typically
+clearing the net by 12 to 16 feet.** ***It's an
 offensive shot used to hit over the head of an incoming
-volleyer.]{.underline}]{.mark}*** **[The topspin lob keeps the volleyer
+volleyer.*** **[The topspin lob keeps the volleyer
 honest. If a player is closing in on top of the net and picking off
 volleys, an offensive lob will not only win you points outright, [it
 will keep the volleyer guessing and cause him to back off the net a step
@@ -196,10 +196,10 @@ on the same side of his body.
 ***[The angle is hit cross court with a low trajectory and heavy spin.
 It clears the net with about the same height as a drive, about 1
 foot.]{.mark}** **[But it is hit with a sharp angle, typically landing
-at about the sideline T]{.mark}*****[[. Because of the heavy spin the
+at about the sideline T]{.mark}*****. Because of the heavy spin the
 angle is a dipping ball. Players like Monica Seles and Andre Agassi
 pioneered this shot in the pro game. Roger Federer is also a modern day
-master of the angle]{.underline}]{.mark}**.
+master of the angle**.
 
 The angle can be used in various situations. First, a heavy topspin
 angle can be used to run your opponent, by pulling him very wide. By
@@ -230,13 +230,13 @@ weapon.**
 
 **The Dip Drive**
 
-**[[The dip drive is one of the most exciting shots in pro tennis, and
+**The dip drive is one of the most exciting shots in pro tennis, and
 also one of my personal favorites. It's a high octane topspin shot that
 is hit not only on the forehand side, but more and more on the backhand
-as well.]{.underline}]{.mark}**
+as well.**
 
-***[[The dip drive is hit off a short high ball. The player moves in and
-makes contact, usually around shoulder level.]{.underline}]{.mark}***
+***The dip drive is hit off a short high ball. The player moves in and
+makes contact, usually around shoulder level.***
 **[[The ball is hit with great velocity and driven down into the court.
 It's an offensive shot hit with power and spin that the great players
 just blow by their opponents.]{.mark}]{.underline}**
@@ -245,9 +245,9 @@ Years ago a high ball on the forehand was considered a very tough shot
 and caused even the top players problems. But with today's grips and
 today's swing patterns players can rip the cover off this ball. You
 also see the dip drive more and more on the return of serve in pro
-tennis. **[[On the kick serves that used to pose a threat on the
+tennis. **On the kick serves that used to pose a threat on the
 backhand side, the players move around the ball, hit the forehand dip
-drive and go on the offensive with the return.]{.underline}]{.mark}**
+drive and go on the offensive with the return.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -260,31 +260,31 @@ The dip drive has become a huge weapon in today's game. It is extremely
 comfortable for players with the extreme grips. But players with milder
 semi western grips or with a hybrd grip like Federer can hit it as well.
 Players with an eastern grip will find the dip drive difficult because
-of the ball height. **[[A good solution is to let the ball drop lower
+of the ball height. **A good solution is to let the ball drop lower
 into the strike zone to make a penetrating shot. The more conservative
-grips with finish higher on the dip drive.]{.underline}]{.mark}** But a
+grips with finish higher on the dip drive.** But a
 player like Roddick will finish all the way across his body and quite
 low on the left side.
 
 **The Bender**
 
-**[[The bender is typically hit on the run from a low contact point. It
+**The bender is typically hit on the run from a low contact point. It
 has a low trajectory and around a foot of net clearance like the
-drive.]{.underline}]{.mark}** ***[We call it the bender because it has a
+drive.** ***[We call it the bender because it has a
 combination of topspin and sidespin, causing the ball to \"bend\"
 inwards (curving from right to left for a right-handed
-player).]{.mark}*** **[[It allows the player to neutralize a difficult
+player).]{.mark}*** **It allows the player to neutralize a difficult
 ball but also to pressure the opponent with the
-reply.]{.underline}]{.mark}**
+reply.**
 
 ![A person playing tennis Description automatically
 generated](media_the-seven-modern-topspin-forehands/media/image10.webp)
 
 **The bender can be hit with either classic or more extreme grips.**
 
-The bender was one of Pete Sampras's trademark shots. **[[He'd dare
+The bender was one of Pete Sampras's trademark shots. **He'd dare
 players to hit crosscourt forehands or approach with their backhands
-down the line.]{.underline}]{.mark}** Once they took the bait he would
+down the line.** Once they took the bait he would
 hit incredible running benders to both corners.
 
 But the bender is not just for players with classical grips like

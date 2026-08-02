@@ -68,14 +68,14 @@ serves. Some will rotate the forearm so that the racket face is flat
 with the ball at contact on the power serve. Some will rotate it less
 and have the racket still on an angle to the ball.
 
-**[[That's the idea of a slice serve. You don't actually pronate as
+**That's the idea of a slice serve. You don't actually pronate as
 much as for the flat serve so that your racquet is square. You keep the
-racquet at a slight angle.]{.underline}]{.mark}**
+racquet at a slight angle.**
 
 You can train the pronation relatively easily. Just close your eyes and
 say, "flat," "slice," "flat," "kicker." It's a very different pronation
-angle. ***[[Basically, much of your variation in the serve will come
-from variations in the amount of pronation.]{.underline}]{.mark}***
+angle. ***Basically, much of your variation in the serve will come
+from variations in the amount of pronation.***
 
 ***[Pronation will allow you to hit "bite" on the slice. There is no
 question about that. But it's not a big velocity or speed developer
@@ -115,11 +115,11 @@ So the service action, so far is: the leg drive up, the trunk rotation
 meaning hips and shoulders, and then the upper arm comes in: extension
 at the elbow, pronation, internal rotation, and wrist flexion.
 
-**[[So if you are a teaching pro reading this article, do you need to
+**So if you are a teaching pro reading this article, do you need to
 tell your students any of this? Please don't. You'll create absolute
 havoc. This is information that you store in your head that enables you
 to know how to teach people, that enables you how to notice what is
-happening and to look for errors]{.underline}]{.mark}**.
+happening and to look for errors**.
 
 **[Here's my tip on looking for internal rotation. The key to
 understanding the internal rotation is: where is the ball?]{.mark}**
@@ -164,10 +164,10 @@ generated](media_the-power-serve-part-2/media/image7.webp)
 ** 40% of the speed of the racket comes from internal rotation of the
 arm.**
 
-**[[What I'm telling you is that when the serve is fully developed, you
+**What I'm telling you is that when the serve is fully developed, you
 need it to be to the left of the front foot. If you put the ball there,
 internal rotation and shoulder over shoulder rotation will happen almost
-naturally.]{.underline}]{.mark}**
+naturally.**
 
 **Toss Height**
 
@@ -200,11 +200,11 @@ the key to getting the serve in, no question.
 But is the racquet a natural extension of the forearm? Sorry. It's not.
 You do not hit with your arm and your racket straight up and down.
 
-**[[The racquet angle to the forearm is what allows me to use internal
-rotation to help develop power in the serve.]{.underline}]{.mark}**
+**The racquet angle to the forearm is what allows me to use internal
+rotation to help develop power in the serve.**
 
-***[[All you do is just tilt the racquet to the
-side.]{.underline}]{.mark}*** Get behind the good players and watch
+***All you do is just tilt the racquet to the
+side.*** Get behind the good players and watch
 them. Because, if the racquet isn't a full extension of my arm, then as
 you internally rotate, it drives the racquet forward.
 
@@ -219,18 +219,18 @@ How do you accomplish this? Most of the time, it's just a question of
 hitting the ball in line with the left foot, moving the toss there, and
 you'll do it naturally.
 
-***[[If you like angles, here is another one. The angle between my arm
+***If you like angles, here is another one. The angle between my arm
 and my trunk, should be about a hundred degrees. The range we saw in our
-filming was about 90 to 110.]{.underline}]{.mark}***
+filming was about 90 to 110.***
 
-***[[If you see that angle, two things happen. There are two benefits
+***If you see that angle, two things happen. There are two benefits
 for the price of one. You get maximum performance because you can rotate
 your upper arm and in fact your whole arm better. Secondly, you reduce
-the loading on the shoulder and the elbow.]{.underline}]{.mark}***
+the loading on the shoulder and the elbow.***
 
-***[[It is the same as baseball. Baseball pitchers do exactly the same
+***It is the same as baseball. Baseball pitchers do exactly the same
 thing. The angle is about 90 to 110 because that's where you get
-maximum performance, minimum injury risk.]{.underline}]{.mark}***
+maximum performance, minimum injury risk.***
 
 If you watch good players, you can see that that's the way they serve.
 Watch Roddick. Watch any of the big servers.
@@ -319,11 +319,11 @@ generated](media_the-power-serve-part-2/media/image13.webp)
 
 **The "Big Deal" means using all the segments to generate power.**
 
-***[[Remember, you need to rotate the hips and the trunk backwards.
+***Remember, you need to rotate the hips and the trunk backwards.
 Remember, you need to rotate the hips and the trunk forwards. Then need
 to rotate the trunk forward, but more shoulder over shoulder. Remember,
 you have to hit up and out to the ball and have that sequence of
-motion.]{.underline}]{.mark}***
+motion.***
 
 If you find players that leave one bit out, then they are removing a
 segment from the movement, so they can't actually hit with as much

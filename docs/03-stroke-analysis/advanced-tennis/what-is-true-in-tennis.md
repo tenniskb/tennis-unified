@@ -365,9 +365,9 @@ this is much rarer and almost always on the run or in a defensive
 situation.
 
 But the majority of Djokovic's finishes go straight up and over his
-shoulder. ***[[So here we have Novak, defending better than Rafa,
+shoulder. ***So here we have Novak, defending better than Rafa,
 attacking better than Roger, and using an \"inferior\" outdated finish
-to do both.]{.underline}]{.mark}*** As I said, I predict an old absolute
+to do both.*** As I said, I predict an old absolute
 truth is about to become reborn.
 
 **Torso Rotation**
@@ -468,15 +468,15 @@ structures.**
 examine the available footage in detail, you will have three
 experiences.]{.underline}**
 
-**[[First, many of the things you believe will be confirmed, and in fact
+**First, many of the things you believe will be confirmed, and in fact
 reinforced. You will actually become much more confident because you are
 able to put clearer pictures and feelings to your
-ideas.]{.underline}]{.mark}**
+ideas.**
 
-**[[The second thing that happens is that you begin to realize that many
+**The second thing that happens is that you begin to realize that many
 things you believed happen do in fact happen, just not quite in the
 exact way or sequence that you thought. This requires adjustment, but
-again brings added clarity and confidence.]{.underline}]{.mark}**
+again brings added clarity and confidence.**
 
 [**[The third thing is the most exciting though, if you look at it in
 the right way. That's when the video shows that something you believed,

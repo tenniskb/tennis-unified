@@ -74,23 +74,23 @@ step.
 
 **A Power Move resembles an explosive, elevated lunge step.**
 
-- **[[It begins with the player on the dead run.]{.underline}]{.mark}**
+- **It begins with the player on the dead run.**
 
-- **[[Then, just before the start of the forward swing, the player
-  achieves an open running stance.]{.underline}]{.mark}**
+- **Then, just before the start of the forward swing, the player
+  achieves an open running stance.**
 
-- **[[The forward swing starts from here.]{.underline}]{.mark}**
+- **The forward swing starts from here.**
 
-- **[[After the contact, both feet come off the ground, as the player
+- **After the contact, both feet come off the ground, as the player
   continues to take at one additional running
-  step.]{.underline}]{.mark}**
+  step.**
 
-**[[Unlike most open stance shots, the hips (and sometimes the
+**Unlike most open stance shots, the hips (and sometimes the
 shoulders) remain relatively closed through contact with the Power
-Move.]{.underline}]{.mark}** This is when compared to the amount of
-rotation the players normally use on their forehands. **[[As the player
+Move.** This is when compared to the amount of
+rotation the players normally use on their forehands. **As the player
 lands, the rear leg kicks directly backwards. This is critical for the
-player to maintain balance.]{.underline}]{.mark}**
+player to maintain balance.**
 
 The reduced rotation has to do with the pattern of the footwork. The
 player is on the dead run and moving basically sideways. After the hit
@@ -108,20 +108,20 @@ the recovery to a neutral position.**
 
 **Recovery**
 
-**[[The recovery starts with the rear leg coming around the body after
-the kick back to make a breaking step.]{.underline}]{.mark}** **[[Using
+**The recovery starts with the rear leg coming around the body after
+the kick back to make a breaking step.** **Using
 the outside foot, the player is now able to push back the other way and
-begin the recovery toward the middle.]{.underline}]{.mark}**
+begin the recovery toward the middle.**
 
-**[[Since the player is on the run and usually wide in the court, the
+**Since the player is on the run and usually wide in the court, the
 first step back should almost always be a crossover
-step.]{.underline}]{.mark}** This can be followed by one or more
+step.** This can be followed by one or more
 additional running steps, depending on the distance the player has to
 travel, and what the opponent has done with the next ball.
 
-**[[After the crossover, and/or running steps, the player will then use
+**After the crossover, and/or running steps, the player will then use
 one or more shuffle steps to recover to the neutral position and prepare
-to move to the next ball.]{.underline}]{.mark}**
+to move to the next ball.**
 
 ![A person playing tennis Description automatically generated with
 medium

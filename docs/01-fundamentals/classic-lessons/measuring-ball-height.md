@@ -6,10 +6,10 @@
 
 **The Hitting Zone**
 
-**[[One of the most common errors I see everyday in my teaching is the
+**One of the most common errors I see everyday in my teaching is the
 inability of students to find the \"hitting
-zone,\"]{.underline}]{.mark}** **[[or the right contact position in the
-course of their swing.]{.underline}]{.mark}** **[[Players are obsessed
+zone,\"** **or the right contact position in the
+course of their swing.** **[[Players are obsessed
 with technical elements in their strokes - preparation, wrist position,
 follow-through, etc., but they consistently misjudge the height of the
 ball in the hitting zone. This is a major source of backcourt errors at
@@ -23,29 +23,29 @@ all levels below the pro game.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Many of the most basic problems in tennis stem from the inability to
+**Many of the most basic problems in tennis stem from the inability to
 measure ball height correctly, that is, in the hitting
-zone.]{.underline}]{.mark}** **[[These include making consistently late
+zone.** **These include making consistently late
 contact, reaching or flailing for the ball, and the inability to hit up
 on the ball and develop confidence in hitting with
-topspin.]{.underline}]{.mark}**
+topspin.**
 
 **[[The correct ball height at contact can range from the knees to the
 chest, depending on the grip and the particular
 stroke.]{.mark}]{.underline}**
 
-**[[On the forehand side, the correct height is determined in large part
-by the grip position.]{.underline}]{.mark}** **For players with
+**On the forehand side, the correct height is determined in large part
+by the grip position.** **For players with
 [traditional grips]{.underline}, [the optimum height is the lower half
 of this zone, from the knees to the waist]{.underline}.** **For players
 with [western grips, the optimum height is the top half of the hitting
 zone, from the waist to the chest.]{.underline}**
 
-**[[On the one-handed backhand, the optimum hitting height can vary
+**On the one-handed backhand, the optimum hitting height can vary
 depending on whether the choice is to slice (anywhere from the knees to
-the chest) or drive the ball (knees to waist).]{.underline}]{.mark}**
-Players using **[[two hands are most comfortable when the ball height is
-between the knees and the waist]{.underline}]{.mark}**, but they can
+the chest) or drive the ball (knees to waist).**
+Players using **two hands are most comfortable when the ball height is
+between the knees and the waist**, but they can
 also modify their stance to deal with higher balls.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -83,8 +83,8 @@ They are less important than a third critical factor. Players who have
 problems measuring ball height tend to focus on the first two factors,
 but neglect the third.
 
-**[[This third factor is the reaction of the ball after the
-bounce.]{.underline}]{.mark}** This is the most important factor because
+**This third factor is the reaction of the ball after the
+bounce.** This is the most important factor because
 at this point, the ball is closest to the hitting zone. Unfortunately,
 it is also the factor club players pay least attention to.
 
@@ -105,11 +105,11 @@ and watching just after the bounce are critical to making contact at the
 right height in the hitting zone.
 
 By watching the ball more closely as it moves through the bounce,
-players will begin to realize two things. **[[First, the ball slows down
+players will begin to realize two things. **First, the ball slows down
 an incredible amount due to the contact with the court. Second, because
 of this loss of speed, ball height can change quite dramatically,
 dropping lower in the hitting zone than the player
-anticipates.]{.underline}]{.mark}**
+anticipates.**
 
 This is the point where many players, however, have stopped watching the
 ball and already prejudged its height in the contact zone. By watching
@@ -117,11 +117,11 @@ the ball more closely as it moves through the bounce and approaches the
 hitting zone, a player can learn to make better adjustments and reduce
 basic errors.
 
-**[[Most players realize a ball too high or too low in the hitting zone
-is hard to control.]{.underline}]{.mark}** **[[Controlling these types
+**Most players realize a ball too high or too low in the hitting zone
+is hard to control.** **Controlling these types
 of balls are directly related to your ball tracking skills, and
 particularly, tracking the ball through the
-bounce.]{.underline}]{.mark}**
+bounce.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically                                                                                                                ![A person hitting a ball with a tennis racket Description automatically                                                                                                    ![A person holding a tennis racket Description automatically

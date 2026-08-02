@@ -338,10 +338,10 @@ explains why pro players change frames so frequently.
 
 **Time Staggering**
 
-**[[The hand has many thousands of nerve endings, and we learn to
+**The hand has many thousands of nerve endings, and we learn to
 magnify the perception of those nerve endings, to \"stagger\" time so to
-speak.]{.underline}]{.mark}** **[[All top athletes are time
-\"staggerers.\"]{.underline}]{.mark}**
+speak.** **All top athletes are time
+\"staggerers.\"**
 
 ![A football player holding a football Description automatically
 generated](media_my-journey-with-string/media/image13.jpg)
@@ -353,9 +353,9 @@ create the \"grape fruit\" effect.]{.mark} [To them, the ball is moving
 slower and seems bigger, making it an easier target for them to
 attack.]{.mark}]{.underline}**
 
-**[[The same goes for other athletes in other sports, such as football.
+**The same goes for other athletes in other sports, such as football.
 Quarterbacks talk about \"slowing down time\" and how long it takes them
-to be able to do that.]{.underline}]{.mark}** The quarterbacks only have
+to be able to do that.** The quarterbacks only have
 a couple of seconds to find the receiver and lead him correctly before
 getting hit by gigantic muscled defensive players.
 

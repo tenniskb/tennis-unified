@@ -16,9 +16,9 @@ during match play---in fact this is the majority of time in any match.
 This places high demands on the cognitive aspects of the player's
 performance.
 
-**[[One of the key components is self-confidence. Self-confidence is the
+**One of the key components is self-confidence. Self-confidence is the
 degree of certainty that the player has in his or her ability to execute
-a skill or series of tasks.]{.underline}]{.mark}** **How much better
+a skill or series of tasks.** **How much better
 will I play when I'm confident? Self-belief is one of the best
 predictors of competitive success.**
 
@@ -134,12 +134,12 @@ confidence](media_confidence-and-relaxation/media/image5.jpg)
 **Players can learn progressive muscle relaxation both on and off
 court.**
 
-**[[Deep or diaphragmic breathing]{.underline}]{.mark} decreases your
+**Deep or diaphragmic breathing decreases your
 heart rate and stress levels by maximizing oxygen levels in your blood**
 **(which causes the heart to beat slower, expending less energy),
 increases oxygen saturation in the cells and lowers your blood
-pressure.** **[[This in turn reduces the stress hormones in your
-system.]{.underline}]{.mark}** All of these physical reactions are
+pressure.** **This in turn reduces the stress hormones in your
+system.** All of these physical reactions are
 beneficial to your state of mind, calming you and enabling you to relax
 and make better playing decisions.
 
@@ -153,9 +153,9 @@ Tennis players are \"relaxed\" when they are mentally and physically
 free of the tension and anxiety that produces thoughts such as: \"I need
 to win this match\" or \"I cannot double fault.\"
 
-**[[Players in a relaxed state generally report feelings of tranquility
+**Players in a relaxed state generally report feelings of tranquility
 and calmness combined with lack of conscious
-thought.]{.underline}]{.mark}** Through the implementation of breath
+thought.** Through the implementation of breath
 control, progressive relaxation, and the development of on-court
 routines, players can gain higher levels of concentration and focus,
 which in turn lead to more success and a more enjoyable competitive

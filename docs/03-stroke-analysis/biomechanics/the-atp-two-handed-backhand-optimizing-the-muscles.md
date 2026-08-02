@@ -34,8 +34,8 @@ the actual two handed back model.
 
 **[How is it possible that a shorter swing could produce greater racket
 speed? That goes against one long standing theory in teaching.]{.mark}**
-**[[Players \"build\" racket speed over the course of looping
-backswings, and larger loops create more speed.]{.underline}]{.mark}**
+**Players \"build\" racket speed over the course of looping
+backswings, and larger loops create more speed.**
 
 ![A person playing tennis Description automatically
 generated](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image2.webp)
@@ -56,9 +56,9 @@ So that seems to be the mechanism of choice for developing players. Give
 a racquet to a young kid and you say hit the ball hard, and you'll see
 some of the biggest swings that you can imagine.
 
-**[[In contrast, at the highest level of the game the top players are
+**In contrast, at the highest level of the game the top players are
 using swing techniques that appear to be substantially
-shorter.]{.underline}]{.mark}** Obviously the combination of speed and
+shorter.** Obviously the combination of speed and
 spin (heaviness) of the incoming shots is the primary factor that
 mandates compacting the strokes to stay competitive. Yet the abbreviated
 stroke patterns don't seem to have an inhibitory effect on the
@@ -81,10 +81,10 @@ players, even very young junior players, could begin to realize the
 tactical and developmental advantages of decreased swing size without
 compromising, perhaps increasing, racquet speed.
 
-**[[What our applied and basic research has shown is that strength is
+**What our applied and basic research has shown is that strength is
 not the only explanation. It's not necessarily as much a matter of
 strength as it optimizing the neuromuscular
-performance.]{.underline}]{.mark}** **[That is, its not how much muscle
+performance.** **[That is, its not how much muscle
 strength you have necessarily, it is the conditions under which the
 muscles perform that is critical -- conditions controllable through
 technique.]{.mark}**
@@ -213,9 +213,9 @@ rotations.
 
 **Stretch-Shorten Cycle (SSC)**
 
-**[[The stretch-shorten cycle (SSC) refers to a pattern of muscle
+**The stretch-shorten cycle (SSC) refers to a pattern of muscle
 activation during which an active muscle is stretched prior to it being
-shortened.]{.underline}]{.mark}** It is a common neuromuscular pattern
+shortened.** It is a common neuromuscular pattern
 in nearly any human activity and has been shown to increase the force
 output of a muscle substantially. The implication for tennis, and the
 reason it is targeted in our development system is that components of
@@ -245,10 +245,10 @@ confidence](media_the-atp-two-handed-backhand-optimizing-the-muscles/media/image
 
 **Pre-tension allows full muscle output immediately.**
 
-**[[The stretch shorten cycle would be engaged if the muscle was
+**The stretch shorten cycle would be engaged if the muscle was
 prompted to contract, but a technique action caused it to actually
 lengthen. This is called an eccentric
-contraction.]{.underline}]{.mark}** In this high tension state the
+contraction.** In this high tension state the
 muscle would already be fully activated, or pre-tensed, when allowed to
 concentrically shorten. **[*[Since a muscle normally needs a ramp up
 time to reach full force, the pre-tension eliminates the time lag

@@ -39,11 +39,11 @@ motivation.** 
 
 **You've got to make it fun.** 
 
-**[[You've got to make kids feel like they can jump over that fence
+**You've got to make kids feel like they can jump over that fence
 behind them. You've got to make them feel like they can do anything.
 They have to want to do it.  You've got to want to make them love it. So
 it can't be so serious and so negative that they're not going to
-respond.]{.underline}]{.mark}**
+respond.**
 
 ![A tennis player swings a racket Description automatically generated
 with medium
@@ -54,8 +54,8 @@ grips like Nadal.**
 
 **Critical Technique**
 
-**[[Attitude is the prerequisite.  But the technical part is equally
-critical.]{.underline}]{.mark}**  So now, in this second article, let's
+**Attitude is the prerequisite.  But the technical part is equally
+critical.**  So now, in this second article, let's
 start to look at that, beginning with the forehand.  
 
 We all know the "modern" forehand, especially on the men's side, is
@@ -114,16 +114,16 @@ cost them literally millions of dollars.
 
 **Grip**
 
-**[[It all starts with the grip. The grips are the
-key.]{.underline}]{.mark}**  This may sound shocking but I have to say
+**It all starts with the grip. The grips are the
+key.**  This may sound shocking but I have to say
 almost every young child who has come to work with me has had a grip
 that I thought was too far under the handle, either a full western or
 something close.  And it seemed that with every one of them, I had to
 have a conference with the parent to convince them why I needed to
 change the grip.
 
-**[[The grip, obviously, orients the racket
-face.]{.underline}]{.mark}**  And the kids are holding it underneath the
+**The grip, obviously, orients the racket
+face.**  And the kids are holding it underneath the
 handle because it feels natural when the balls bounce up over the
 shoulder. And I just see that as detrimental. They never really develop
 a feel for the strike zone.
@@ -158,8 +158,8 @@ balls outside the doubles lines.
 Women's tennis is a little cleaner, a little flatter. It's more about
 pure ball striking. Which player can get on top of the other with those
 clean, penetrating groundstrokes. I'm not saying you can't have variety
-and spins and angles, but ***[[at the end of the day it comes down more
-to ball striking, and that starts with the grip.]{.underline}]{.mark}***
+and spins and angles, but ***at the end of the day it comes down more
+to ball striking, and that starts with the grip.***
 
 So when a young girl comes to the academy we put her into an eastern
 grip, the handshake grip where the knuckle is going to be flat right
@@ -181,13 +181,13 @@ high-bouncing balls okay.  If as time goes by, they slip to a
 semi-western, or possibly a hybrid grip between the two, that can be
 fine too.
 
-**[[The grip is critical because what I'm trying to establish with a
-young kid is the point of contact.]{.underline}]{.mark}** **[[Second I
+**The grip is critical because what I'm trying to establish with a
+young kid is the point of contact.** **Second I
 am trying to teach them to find the middle of a racket.  You want them
-to understand how to use the racket.]{.underline}]{.mark}**  ***[The
-racket has to be their best friend.]{.underline}*** **[[The conservative
+to understand how to use the racket.**  ***[The
+racket has to be their best friend.]{.underline}*** **The conservative
 grips give them the feeling of controlling the racket head with the
-hand. This is how they find the strike zone.]{.underline}]{.mark}**
+hand. This is how they find the strike zone.**
 
 And in teaching kids the strike zone, it's been my experience that the
 western is deadly. The eastern and the semi-western are just easier for
@@ -219,12 +219,12 @@ forehand?
 position.]{.mark}** You want them to focus on having good balance. You
 want the hands in front, knees bent, good handshake grip. 
 
-**[[And then the preparation.]{.underline}]{.mark}** What we want is for
-the kids to **[[take the racket back as a unit.]{.underline}]{.mark}** A
-lot of kids will take the racket back by itself. **[[You want the racket
+**And then the preparation.** What we want is for
+the kids to **take the racket back as a unit.** A
+lot of kids will take the racket back by itself. **You want the racket
 always to be taken back with the shoulder turn. You're going to take it
 back with the shoulders, always.  And that turn move, that preparation
-should start immediately.]{.underline}]{.mark}**
+should start immediately.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -232,7 +232,7 @@ confidence](media_starting-kids-right-the-forehand/media/image7.webp)
 
 **[Preparation begins with the shoulders.]{.mark}**
 
-**[[This is a game of time.]{.underline}]{.mark}** ***[So preparation is
+**This is a game of time.** ***[So preparation is
 the name of the game. But to establish this with youngsters you've got
 to be repetitive.]{.mark}*** **[[Tennis is a repetitive
 sport.]{.underline} You've got to say the same thing over and over
@@ -252,22 +252,22 @@ is telling the little competitor, hit the ball. And so they all try to
 reach up and hit it with their hand. 
 
 But if they are going to develop a forehand that is a weapon they need
-to learn to hit the ball in their strike zone. **[[To do this they need
-to learn is to let the ball drop.]{.underline}]{.mark}** **[[So one of
+to learn to hit the ball in their strike zone. **To do this they need
+to learn is to let the ball drop.** **So one of
 the basic drills is to learn to back up and let the ball fall into their
-strike zone]{.underline}]{.mark}**, **[[or if it is short and high, to
+strike zone**, **or if it is short and high, to
 do the same, come forward and let the ball
-drop.]{.underline}]{.mark}** **[[Let the ball fall to the correct point
-of contact.]{.underline}]{.mark}**
+drop.** **Let the ball fall to the correct point
+of contact.**
 
 ![A child playing tennis Description automatically generated with medium
 confidence](media_starting-kids-right-the-forehand/media/image8.webp)
 
 **Letting the ball drop allows young players to find the strike zone.**
 
-**[[Now that might sound crazy because eventually they will have to
+**Now that might sound crazy because eventually they will have to
 learn to hit the ball on the rise, and I train my kids to do that when
-the time is right.]{.underline}]{.mark}** I want people to learn to play
+the time is right.** I want people to learn to play
 the ball instead of the ball playing them, but there's a time and place
 to develop that.
 
@@ -328,30 +328,30 @@ confidence](media_starting-kids-right-the-forehand/media/image9.webp)
 
 **Pushing on the ground: a million-dollar lesson.**
 
-**[[But when parents and a lot of coaches see the kid hit 20 in a row
+**But when parents and a lot of coaches see the kid hit 20 in a row
 over the net with the arm, they think that means something. And it
-does.]{.underline}]{.mark}**  **[[It means the kid has good hand-eye
+does.**  **It means the kid has good hand-eye
 coordination. But it doesn't mean he is going to have a good
-forehand.]{.underline}]{.mark}**
+forehand.**
 
 There are many kids that I have worked with that have been number one in
 the nation, and they're very consistent.  But as you get older, it's
-the quality of the consistency. **[[Everybody can be consistent. Number
+the quality of the consistency. **Everybody can be consistent. Number
 one thousand in the world could be hitting with number one in the world
 and they could be doing a drill and you can't see the difference until
-you say, "Play these." And then it changes.]{.underline}]{.mark}**
+you say, "Play these." And then it changes.**
 
 **[[When the kids are young you want fluidity. You want more power with
 less effort. That's what you should be looking for. We're looking for
 the youngster to be able to hit a cleaner shot.]{.mark} ]{.underline}**
 
 I'm not looking for her to win the 8 and under or the 10 and
-under. Believe me, that can't happen if she has other factors.  **[[But
+under. Believe me, that can't happen if she has other factors.  **But
 the technical part is at the top of the
-menu]{.underline}]{.mark}**. **[[You don't want to go out there and
+menu**. **You don't want to go out there and
 start imitating the pros. That can be the kiss of death. What you do
 want to imitate with the pros is if it is a weapon and if it is special,
-imitate the grip.]{.underline}]{.mark}**
+imitate the grip.**
 
 You've got to be very careful because it can be a slippery slope if
 they're holding the racket wrong, or if they're taking it back wrong, or

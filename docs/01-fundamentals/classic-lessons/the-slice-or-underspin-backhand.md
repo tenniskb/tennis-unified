@@ -52,7 +52,7 @@ misconceptions about this shot. First, a good slice backhand is neither
 \"chopped\" nor \"scooped.\" Trying to use these motions can put the
 ball in the bottom of the net or cause it to pop up and float.
 
-**[[The best slice backhands are actually drives]{.underline}]{.mark}**
+**The best slice backhands are actually drives**
 that can be hit with varying degrees of underspin, and we'll present
 the proper swing trajectory to allow you to do this.
 
@@ -78,8 +78,8 @@ a two-hander, it's usually a right-handed forehand grip.
 While it is possible to hit a version of the slice with a full (or
 strong) backhand grip, players who don't shift to the continental
 ultimately work a lot harder to do so. This is because, with the
-stronger grip, it's much harder to **[[get the leading edge of the
-racquet on the outside of the ball.]{.underline}]{.mark}** The result,
+stronger grip, it's much harder to **get the leading edge of the
+racquet on the outside of the ball.** The result,
 typically, is a ball with too much sidespin that is also much harder to
 direct, and sacrifices pace. At the other extreme, trying to slice with
 a forehand grip will cause the ball to float, as well as create possible
@@ -93,8 +93,8 @@ the most natural and flowing stroke in the game.
 
 ### Preparation Phase
 
-As with all other shots, start by making sure **[[you use your eyes
-effectively.]{.underline}]{.mark}** The earlier you see the ball off
+As with all other shots, start by making sure **you use your eyes
+effectively.** The earlier you see the ball off
 your opponent's racquet the sooner you'll be able to determine if your
 reply needs to be hit with slice, and the more quickly you'll be able
 to get into position to hit it.
@@ -140,25 +140,25 @@ position is poor.
 **Your hitting arm should bend at about 45 degrees on the turn. The
 racket face is open, the edges close to even.**
 
-**[[Just prior to the forward swing, plant your back foot (the left foot
+**Just prior to the forward swing, plant your back foot (the left foot
 for right-handers) and transfer your weight onto the front foot as
-straight-ahead as possible.]{.underline}]{.mark}** **[[Be sure to bend
+straight-ahead as possible.** **Be sure to bend
 your knees (except for very high balls), but stay as erect as possible
-from the waist up.]{.underline}]{.mark}** **[[Dipping the lead shoulder
+from the waist up.** **Dipping the lead shoulder
 is a common source of errors when hitting with
-underspin.]{.underline}]{.mark}**
+underspin.**
 
-***[[Avoid hitting from an open stance. Ideally you want to step into
+***Avoid hitting from an open stance. Ideally you want to step into
 the shot, but if you're forced to step more across your body that's
-usually ok.]{.underline}]{.mark}*** **[This is because you can still hit
+usually ok.*** **[This is because you can still hit
 the slice well with a somewhat later contact point than on the other
 groundstrokes.]{.underline}**
 
 **[With this later contact point, you're able to carry the ball longer
 because it allows for maximum extension of the arm into the
-shot.]{.underline}** ***[[Hitting a slice backhand too early can
+shot.]{.underline}** ***Hitting a slice backhand too early can
 actually result in a weak, \"floaty\" shot or a ball that lands in the
-net.]{.underline}]{.mark}***
+net.***
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-slice-or-underspin-backhand/media/image6.jpg)
@@ -170,9 +170,9 @@ There are those who advocate a severe \"high to low\" forward swing.
 This can definitely produce slice, but tends to cause the ball to float
 and lose pace. It may also give you the wrong idea about the finish. If
 you study the animations of Rafter or Philippoussis, you see that
-**[[although the racquet moves downward after the hit, it still finishes
+**although the racquet moves downward after the hit, it still finishes
 high with the hand position close to the same height as a topspin
-drive.]{.underline}]{.mark}**
+drive.**
 
 For these reasons, I prefer the racquet head start only slightly above
 where you'll actually contact the ball. This makes for a simpler swing
@@ -193,21 +193,21 @@ the finish.
 
 High speed video shows that at contact the racquet head will actually be
 square to the court. But trying to consciously create this position
-leads to real trouble. **[[Don't use the wrist to adjust the racquet
-face.]{.underline}]{.mark}** Visualize the face as slightly open at
+leads to real trouble. **Don't use the wrist to adjust the racquet
+face.** Visualize the face as slightly open at
 contact and allow the forearm to roll through the shot naturally and
 make the adjustment. The racquet face will naturally reopen and stay
 that way to the finish.
 
-**[[Aim for the outside of the ball.]{.underline}]{.mark}** The image of
+**Aim for the outside of the ball.** The image of
 hitting across the ball helps solidify ball contact. The follow through
 should be outward toward the top of the net and upward toward the
 target.
 
-**[[During the swing the player should strive to keep the shoulders
+**During the swing the player should strive to keep the shoulders
 sideways to the net position, and minimize the torso rotation. To ensure
 this, at the instant you begin the forward swing send the non-hitting
-arm in the opposite direction.]{.underline}]{.mark}**
+arm in the opposite direction.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
@@ -219,13 +219,13 @@ arm in the opposite direction.]{.underline}]{.mark}**
 
 ### Distance to the Ball
 
-**[[Finding the ideal distance between your body and the ball takes
+**Finding the ideal distance between your body and the ball takes
 experience. If you're too close, you'll wind up leading the swing with
 your elbow, in which case the racquet face will be late and too open. If
 you're too far away your arm will be overe-xtended and you won't be
 able to get any bite on the ball. For high-bouncing balls however, you
 do want to keep your body somewhat further away, and let your front leg
-straighten during the hit.]{.underline}]{.mark}**
+straighten during the hit.**
 
 That covers the basic mechanics of generating slice, something you can
 apply to many situations, some of which we'll be discussing in further

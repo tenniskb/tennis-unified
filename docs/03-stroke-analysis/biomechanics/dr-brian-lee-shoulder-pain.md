@@ -43,7 +43,7 @@
 # Shoulder Pain: Is it Shoulder Impingement?
 
 Shoulder pain is the third most common complaint in orthopedic practice,
-and **[[shoulder impingement is often the cause]{.underline}]{.mark}**.
+and **shoulder impingement is often the cause**.
 Shoulder impingement can make reaching overhead difficult, cause pain or
 discomfort when sleeping, and affect range of motion.
 
@@ -56,8 +56,8 @@ generated](media_dr-brian-lee-shoulder-pain/media/image1.webp)
 this motion, the supraspinatus muscle, the bicep muscle tendon, and/or
 the bursa can become pinched between the bones of the shoulder.**
 
-**[[Shoulder impingement---sometimes called subacromial
-impingement]{.underline}]{.mark}**---refers to the painful pinching of
+**Shoulder impingement---sometimes called subacromial
+impingement**---refers to the painful pinching of
 the muscles, tendons, or other soft tissues between the bones and/or
 ligaments of the shoulder.
 
@@ -69,15 +69,15 @@ bones. This area, called the subacromial space, is located above the
 shoulder's ball-and-socket joint and below the acromion, the top-most
 bone of the shoulder.
 
-**[[When a person raises his or her arm, the subacromial space becomes
-smaller.]{.underline}]{.mark} In a case of shoulder impingement, raising
+**When a person raises his or her arm, the subacromial space becomes
+smaller. In a case of shoulder impingement, raising
 the arm causes the pinching of soft tissues, which results in shoulder
 pain and other symptoms.**
 
-**[[The shoulder joint is a ball-and-socket joint supported by soft
+**The shoulder joint is a ball-and-socket joint supported by soft
 tissues. Its design allows for a high degree of flexibility but also
 makes the shoulder susceptible to injuries such as shoulder
-impingement.]{.underline}]{.mark}**
+impingement.**
 
 **A person may have one or more issues that leads to shoulder
 impingement, including:**
@@ -119,9 +119,9 @@ be felt during:
 
 **Causes and Risk Factors of Shoulder Impingement**
 
-**[[Shoulder impingement is a condition that causes pain and pinching
+**Shoulder impingement is a condition that causes pain and pinching
 sensation in the shoulder. It can also decrease a person's range of
-motion.]{.underline}]{.mark}** Anyone can get shoulder impingement, but
+motion.** Anyone can get shoulder impingement, but
 people with certain risk factors are more likely to develop it.
 
 - **Overuse**. People who participate in sports that require frequent
@@ -140,7 +140,7 @@ people with certain risk factors are more likely to develop it.
 ![Animation showing the different shapes of the
 acromion](media_dr-brian-lee-shoulder-pain/media/image2.webp)
 
-***[[The acromion]{.underline}]{.mark}** is the uppermost part of the
+***The acromion** is the uppermost part of the
 scapula (shoulder blade). An acromion may be flat, curved, or hooked.*
 
 - **Prominent coracoid**. The coracoid is a small projection from the
@@ -453,9 +453,9 @@ following ball impact.
 These eccentric contractions of the rotator cuff following ball impact
 are of vital importance in the shoulder as they assist in maintaining
 the stability required to both prevent injury and enhance performance.
-**[[During the tennis serve the upper arm is initially elevated
+**During the tennis serve the upper arm is initially elevated
 approximately 90-100 degrees relative to the
-body.]{.underline}]{.mark}** From this position, large forces are
+body.** From this position, large forces are
 produced by the internal rotator muscles of the shoulder such as the
 pectoral muscles and rotator cuff to accelerate the arm and racquet head
 upwards and forwards toward an explosive ball impact.

@@ -52,13 +52,13 @@ around the following ideas with an open mind. It is only through
 intelligent, respectful discussion and further research that some of the
 kick serve conundrums can be resolved.
 
-***[[The big question of course is this: is it \"dangerous\" to teach
+***The big question of course is this: is it \"dangerous\" to teach
 the kick, especially to young players? I believe the kick serve can be
 learned safely and efficiently following my system. However, there seems
 to be a lot of disagreement in the coaching community about the safety
 of this serve. Many pros fear teaching the kick for liability reasons or
 because they have become convinced that the serve will ruin their
-students' backs or shoulders.]{.underline}]{.mark}***
+students' backs or shoulders.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -238,15 +238,15 @@ the back.**
 ### Error 1: Bending Backwards at Waist
 
 The first error I often see has to do with how players try to bend in
-the kick motion. ***[[Players often bend backwards from the waist and
+the kick motion. ***Players often bend backwards from the waist and
 push the hips out. There is no back arch\--rather there is an extreme
 lean backwards from the waist with the back more or less straight. I
 believe this move puts a lot of pressure on lower
-back.]{.underline}]{.mark}***
+back.***
 
-***[[The correct way to bend the back is to push the chest out and pull
+***The correct way to bend the back is to push the chest out and pull
 up from the rib cage, arching the more supple middle
-back.]{.underline}]{.mark}*** We'll go into this in more detail in the
+back.*** We'll go into this in more detail in the
 prehabilitation exercises in the next article. At my academy players
 actually work on this exact move as a variation of a yoga stretch in our
 system.
@@ -258,19 +258,19 @@ of the body.**
 
 ### Error 2: Tossing Behind
 
-***[[It's true that the toss for the kick serve is more to the left,
+***It's true that the toss for the kick serve is more to the left,
 and also, possibly slightly further back, compared to flatter
-variations.]{.underline}]{.mark}*** ***[[But too many players exaggerate
+variations.*** ***But too many players exaggerate
 this. In an attempt to get more spin, they move the contact point back
 far behind the front edge of the body. This reduces power and
-depth.]{.underline}]{.mark}***
+depth.***
 
-***[[In my opinion it can also put excessive stress on the
+***In my opinion it can also put excessive stress on the
 shoulder/rotator cuff. If there is any truth to the correlation between
 the kick serve and injury, it may have to do with players making contact
 too far back over many years. Sadly, this ball position undermines the
 strategic value of the serve by taking away so much
-speed.]{.underline}]{.mark}***
+speed.***
 
 Young players, and all players for that matter, should resist trying to
 hit more spin than is natural with a proper contact point. The toss
@@ -286,18 +286,18 @@ confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media
 
 ### Error 3: Early Back Snap
 
-***[[The back arch should happen smoothly and rhythmically as part of
-the motion.]{.underline}]{.mark}*** But some players start the arch
+***The back arch should happen smoothly and rhythmically as part of
+the motion.*** But some players start the arch
 artificially so it occurs too early in the serve. These players tend to
 snap the back with a jerky and spasmodic motion. I often see this
 happening before the toss.
 
-***[[If you look at the pro examples, however, the arching starts later,
+***If you look at the pro examples, however, the arching starts later,
 well after the release of the ball. This early back snap is a forced
 movement, as compared to the natural arching in a well developed kick.
 It's painful to observe and in my view puts additional unnatural
 pressure on back, pressure that could increase the risk of
-injury.]{.underline}]{.mark}***
+injury.***
 
 ![A picture containing player, person, hitting Description automatically
 generated](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media/image11.webp)
@@ -307,9 +307,9 @@ opposite side of the body.**
 
 ### Error 4: Toss Extreme Left
 
-***[[One tendency on the toss is to place the ball behind the edge of
+***One tendency on the toss is to place the ball behind the edge of
 the body. Another is to toss too far to the left. In a worst case
-scenario, these two factors can be combined.]{.underline}]{.mark}***
+scenario, these two factors can be combined.***
 It's true that some of the great servers pull the ball quite far to the
 left. Pete Sampras routinely made contact over the center of his head or
 even further left. But this is the most extreme case with an elite
@@ -317,12 +317,12 @@ server and Grand Slam champion. Meanwhile, I've seen lower level junior
 and pro players actually making contact further to the left than Pete,
 in fact on the actual left side of the body.
 
-***[[It may be true that you can generate more kick from this position,
+***It may be true that you can generate more kick from this position,
 but again you lose speed. It also makes it very difficult to land on
 balance and recover for the next shot. More importantly, I believe this
 contact point goes too far and creates far too much stress on the back
 and shoulder, again, a possible factor in increasing the chance of
-injury.]{.underline}]{.mark}***
+injury.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -332,16 +332,16 @@ confidence](media_the-kick-serve-part-3-phylosophic-issues-common-mistakes/media
 
 ### Error 5: Abbreviated Right Finish
 
-***[[The final error I commonly see is abbreviating the finish on the
-right.]{.underline}]{.mark}*** And, speaking of Pete Sampras, yes you
+***The final error I commonly see is abbreviating the finish on the
+right.*** And, speaking of Pete Sampras, yes you
 can find examples of him not finishing all the way across the body. But
 it all cases, his motion appears totally relaxed. That's not what I see
 when I observe this error.
 
-[[The player exaggerates the right finish and appears to force the
+The player exaggerates the right finish and appears to force the
 racket to stay on the right side, and then stop abruptly. We know from
 biomechanics that one key to any stroke is a smooth and natural
-deceleration of the racket head.]{.underline}]{.mark} Forcing the right
+deceleration of the racket head. Forcing the right
 finish doesn't accomplish that. In my opinion, this puts unnecessary
 stress on the rotator cuff. ***[[It is preferable to release the serving
 arm over to the left pocket after swinging all the way

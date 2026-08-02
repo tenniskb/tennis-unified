@@ -53,15 +53,15 @@ Typically, a player is able to hit winners from the service line or even
 further back, something that is difficult if not impossible with
 traditional volleys.]{.mark}]{.underline}**
 
-**[[When I say Swinging Volleys, I mean both the forehand and backhand
+**When I say Swinging Volleys, I mean both the forehand and backhand
 versions. In this game where the huge majority of junior players hit
 with two-handed backhands, the swinging volley is a shot that should be
-hit off both sides]{.underline}]{.mark}**.
+hit off both sides**.
 
-**[[The swinging volley is not just a shot for the pros. It can be
+**The swinging volley is not just a shot for the pros. It can be
 especially valuable at the lower levels of the game. Why? Because it is
 a very effective shot against pushing style players who hit a lot of
-high, slower paced balls.]{.underline}]{.mark}**
+high, slower paced balls.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -98,28 +98,28 @@ generated](media_the-strategy-zone-the-swinging-volley/media/image4.webp)
 
 **Ball Recognition**
 
-**[[Ball recognition is critical in exploiting the opportunity to hit a
+**Ball recognition is critical in exploiting the opportunity to hit a
 swinging volley. In the pro game, you often see a slight delay before
-the players come forward.]{.underline}]{.mark}** **[[This is different
+the players come forward.** **This is different
 from a traditional approach sequence in which the player is already
-moving forward and committed to coming in.]{.underline}]{.mark}**
+moving forward and committed to coming in.**
 
 **[[Does this mean that the pro players are slow in reacting? It's the
 opposite. They are reacting virtually instantaneously to the opportunity
 presented by the opponent's next ball.]{.mark}]{.underline}**
 
-**[[They may recognize the shot just as the ball comes off the
+**They may recognize the shot just as the ball comes off the
 opponent's racket. But in some cases, they are moving before the
 opponent actually hits. They anticipate the next ball will be short
 enough and high enough for them to come forward. This is because they
 sense that their previous shot will force the opponent to hit a weak or
-floating reply.]{.underline}]{.mark}**
+floating reply.**
 
 **Footwork**
 
-**[[After recognizing the shot, the next key is movement. The top
+**After recognizing the shot, the next key is movement. The top
 players seem to explode forward. The first two steps are
-critical.]{.underline}]{.mark}** Watch how Ana Ivanovic pushes off her
+critical.** Watch how Ana Ivanovic pushes off her
 back foot and then takes two large explosive strides forward. These
 initial explosive steps are usually followed by a series of small
 adjusting steps to position more precisely to the oncoming ball.
@@ -144,8 +144,8 @@ Here](../Footwork/Contact%20Moves%20-%20The%20Power%20Move.docx).)
 
 **Swing Pattern**
 
-**[[Compared to the regular groundstrokes, the backswings on the
-swinging volleys are often somewhat more compact.]{.underline}]{.mark}**
+**Compared to the regular groundstrokes, the backswings on the
+swinging volleys are often somewhat more compact.**
 You can see this in the animation of Fernando Verdasco. Compare the
 height of his hand at the highest point in the forehand groundstroke
 approach versus the forehand swinging volley. But this can vary with the
@@ -157,18 +157,18 @@ confidence](media_the-strategy-zone-the-swinging-volley/media/image6.webp)
 
 **Topspin is critical because of your position on the court.**
 
-**[[As with the groundstroke, the swing is upward from slightly below
+**As with the groundstroke, the swing is upward from slightly below
 the level of the ball. The shot is hit with great racket head speed and
-substantial topspin.]{.underline}]{.mark}** John Yandell has measured
-swinging volleys hit with as much as 2500rpm of total spin. **[[This
+substantial topspin.** John Yandell has measured
+swinging volleys hit with as much as 2500rpm of total spin. **This
 equals the spin level of the some of the heaviest semi-western
-groundstrokes in the game.]{.underline}]{.mark}**
+groundstrokes in the game.**
 
-**[[That makes sense because the shot is hit between the baseline and
+**That makes sense because the shot is hit between the baseline and
 the net. That makes the court shorter and requires the player to drop
-the ball sooner to keep it inside the lines.]{.underline}]{.mark}**
-**[[Typically, the contact height is around shoulder level, although it
-can be lower on shorter weaker balls.]{.underline}]{.mark}**
+the ball sooner to keep it inside the lines.**
+**Typically, the contact height is around shoulder level, although it
+can be lower on shorter weaker balls.**
 
 **Basic Patterns**
 
@@ -183,23 +183,23 @@ generated](media_the-strategy-zone-the-swinging-volley/media/image7.webp)
 **A deep groundstroke drive and a swinging volley winner into the
 opening.**
 
-**[[The most typical finish is to hit the swinging volley deep into the
-open court.]{.underline}]{.mark}** **[[The player hits a groundstroke
+**The most typical finish is to hit the swinging volley deep into the
+open court.** **[[The player hits a groundstroke
 drive deep down the line into to the corner, then comes forward and
 drives the swinging volley crosscourt]{.underline}. But another option
 is to run the ball behind the opponent going short the other
 way.]{.mark}**
 
-**[[Another pattern to create the opportunity to finish with a swinging
+**Another pattern to create the opportunity to finish with a swinging
 volley is to hit a high looping shot against players who tends to hit
-loops themselves.]{.underline}]{.mark}** **[[Most likely they will loop
+loops themselves.** **Most likely they will loop
 back. Anticipating this, you can move forward and take the second ball
-out of the air and go to the open court.]{.underline}]{.mark}**
+out of the air and go to the open court.**
 
 **Serves Points**
 
-**[[You can also set up swinging volley sequences beginning with a
-serve, or with a return.]{.underline}]{.mark}** For example, you can hit
+**You can also set up swinging volley sequences beginning with a
+serve, or with a return.** For example, you can hit
 a wide serve to the ad court. If this produces a short high ball,
 immediately close and hit the forehand crosscourt swinging volley. On a
 wide serve in the deuce court, the forehand swinging volley finish can
@@ -213,21 +213,21 @@ confidence](media_the-strategy-zone-the-swinging-volley/media/image8.webp)
 **A wide serve to open the court and then a power swinging volley to
 finish.**
 
-**[[Another option is to wait one ball and drive the short return into
+**Another option is to wait one ball and drive the short return into
 either corner, followed by a swinging volley going the other
-way.]{.underline}]{.mark}**
+way.**
 
-**[[On serves to the T, you are less likely to have the opportunity to
+**On serves to the T, you are less likely to have the opportunity to
 move forward and hit a swinging volley on the first ball, because your
 opponent will tend to be more in the middle of the court. In this case,
 you can set up the swinging volley with deep drives to the corner, and
 then taking the finishing shot back the other
-way.]{.underline}]{.mark}**
+way.**
 
 **Return Points**
 
-**[[You can also use your return of serve to set up the opportunity to
-finish with a swinging volley.]{.underline}]{.mark}** To do this hit a
+**You can also use your return of serve to set up the opportunity to
+finish with a swinging volley.** To do this hit a
 return aggressively crosscourt, particularly on a second serve. Now
 explode forward and hit a swinging volley the other way into the open
 court. If the opponent handles your return, get around the next ball and
@@ -240,19 +240,19 @@ confidence](media_the-strategy-zone-the-swinging-volley/media/image9.webp)
 
 **An aggressive return on a second serve sets up another opportunity.**
 
-**[[Another option: hit a deep down the middle return. When this forces
+**Another option: hit a deep down the middle return. When this forces
 a short ball hit a crosscourt forehand. Now move in and hit a forehand
-swinging volley down the line.]{.underline}]{.mark}**
+swinging volley down the line.**
 
-**[[All these patterns are best learned as fed ball patterns. For
+**All these patterns are best learned as fed ball patterns. For
 example, you may hit the serve, but a coach or a partner feeds the
 second ball, and then the set-up ball for the swinging volley
-finish.]{.underline}]{.mark}** **[[This is the best way to get
+finish.** **This is the best way to get
 repetitions that will prepare you to recognize and execute the patterns
-in actual play.]{.underline}]{.mark}** **[[As you get the feel for the
+in actual play.** **As you get the feel for the
 court and the potential of this shot to end the point, you will
 naturally put together the combinations that work for you against a
-given opponent.]{.underline}]{.mark}**
+given opponent.**
 
 Next: Let's look at Finish Sequences based on Approaches and
 Traditional Volleys.

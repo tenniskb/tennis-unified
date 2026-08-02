@@ -245,10 +245,10 @@ than the shortest contact time with a regular racket and ball.
                    35 lbs              
   -----------------------------------------------------
 
-**[[The forehand stroke generally had the longest contact time. Volley
+**The forehand stroke generally had the longest contact time. Volley
 contact times were slightly shorter than
-groundstrokes.]{.underline}]{.mark}** **[[Serves were slightly shorter
-than volleys.]{.underline}]{.mark}** As an example, using the Wilson Pro
+groundstrokes.** **Serves were slightly shorter
+than volleys.** As an example, using the Wilson Pro
 staff 97 RF autograph strung with gut at 54 lbs, the forehand contact
 was 4.3 milliseconds, the forehand volley was 4.1 milliseconds, and the
 serve was 3.7 milliseconds.
@@ -269,9 +269,9 @@ gut than poly at 4.5 milliseconds in a Kramer wood Pro Staff.
 So how can tennis players use this information? Not just pros, but
 regular players.
 
-**[[When contact is about 4 milliseconds on average, this translates to
+**When contact is about 4 milliseconds on average, this translates to
 a carry distance of about 1 inch. This is the distance the racket moves
-while the ball is on the strings.]{.underline}]{.mark}** **[[So your
+while the ball is on the strings.** **[[So your
 entire shot is all about the 1 inch that you have the ball on the
 racket.]{.mark}]{.underline}**
 

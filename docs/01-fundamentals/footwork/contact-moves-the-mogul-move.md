@@ -19,40 +19,40 @@ then in the recovery phase. [Click Here](Footwork%20TOC.docx)
 
 We started our analysis of defensive moves by looking at the Power Move.
 This is the footwork pattern used by top players to hit on the full run.
-[Click Here](Contact%20Moves%20-%20The%20Power%20Move.docx) **[[We
+[Click Here](Contact%20Moves%20-%20The%20Power%20Move.docx) **We
 saw that top players use the Power Move to go for broke by attempting
-running forehand winners.]{.underline}]{.mark}**
+running forehand winners.**
 
 Now let's look at a second defensive pattern, what I call the Mogul
-Move. **[[The Mogul Move is a defensive contact move players use when
+Move. **The Mogul Move is a defensive contact move players use when
 they are forced wide, but not so wide that they have to hit on the dead
-run]{.underline}]{.mark}**. **[[Instead, they move one step beyond the
-ball and recover.]{.underline}]{.mark}**
+run**. **Instead, they move one step beyond the
+ball and recover.**
 
-**[[You also see players use the Mogul Move when they move forward or
+**You also see players use the Mogul Move when they move forward or
 backward on an angle toward the ball or away from the
-ball.]{.underline}]{.mark}** You see all three variations used on the
+ball.** You see all three variations used on the
 forehand, and both the one-handed and two-handed backhands.
 
-**[[I call it the Mogul Move because it resembles how skiers move on a
-downhill mogul run.]{.underline}]{.mark}** **[[In both cases, the
+**I call it the Mogul Move because it resembles how skiers move on a
+downhill mogul run.** **In both cases, the
 athlete becomes briefly airborne, keeping his balance as the feet skim
 over the ground. The center of gravity stays between the feet, and the
 hips move sideways in a straight line in the direction of the
-movement.]{.underline}]{.mark}**
+movement.**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-mogul-move/media/image2.webp)
 
 **[[When players use the Power Move, they end up going far beyond the
 ball. But]{.mark} [with the Mogul Move, this movement is more
-controlled.]{.mark}]{.underline}** **[[The Mogul Move allows players to
+controlled.]{.mark}]{.underline}** **The Mogul Move allows players to
 control their bodies and go only one step beyond the
-ball.]{.underline}]{.mark}**
+ball.**
 
-**[[This contains their momentum, allows them to brake, and then change
+**This contains their momentum, allows them to brake, and then change
 direction and move back to the center of the court as quickly and
-efficiently as possible.]{.underline}]{.mark}** This is what makes the
+efficiently as possible.** This is what makes the
 Mogul Move so effective. It allows players to stay in the point and/or
 hitting a counterattacking shot.
 
@@ -69,17 +69,17 @@ ball.]{.mark}]{.underline}** When the player has a substantial distance
 to travel, he will usually begin with a small drop step and then takes
 either one or two crossover or running outsteps toward the ball.
 
-**[[He then positions the outside foot to hit from an open stance, even
-though he is still moving through the hit.]{.underline}]{.mark}**
-**[[This can be anywhere from semi-open to an extreme open stance. The
+**He then positions the outside foot to hit from an open stance, even
+though he is still moving through the hit.**
+**This can be anywhere from semi-open to an extreme open stance. The
 outside foot points to the side fence, usually at a right
-angle.]{.underline}]{.mark}**
+angle.**
 
-**[[The player then makes contact while the weight is still shifting to
-the outside.]{.underline}]{.mark}** **[[After the hit, the player takes
+**The player then makes contact while the weight is still shifting to
+the outside.** **After the hit, the player takes
 one recovery step\--the Mogul Step\--beyond the ball. The player should
 stay low as he goes beyond the ball, keeping positive angles with the
-legs through the bend in the knees.]{.underline}]{.mark}**
+legs through the bend in the knees.**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-mogul-move/media/image4.webp)
@@ -87,8 +87,8 @@ generated](media_contact-moves-the-mogul-move/media/image4.webp)
 **The Mogul step after the hit, the drop step with the inside foot, and
 the cross over recover.**
 
-**[[As he lands with the Mogul step, he can then push off with the
-outside foot to start the recovery.]{.underline}]{.mark}** **[If the
+**As he lands with the Mogul step, he can then push off with the
+outside foot to start the recovery.** **[If the
 player has not traveled far, the recovery steps can be shuffle steps.
 More commonly, the takes a small drop step with the inside foot,
 followed by one or two crossover steps and then shuffle steps to the

@@ -31,9 +31,9 @@ sport.]{.mark}*** The motion a tennis serve most resembles is a tennis
 serve! Why try to hit a serve by emulating a motion from some other
 sport that may be bio-mechanically completely different?
 
-**[[Which brings me to the second problem with these analogies. They
+**Which brings me to the second problem with these analogies. They
 imply that we can't really understand tennis strokes on their own
-terms.]{.underline}]{.mark}** They have to be compared to other motions
+terms.** They have to be compared to other motions
 so we can learn them. This is not only misleading, it makes tennis seem
 like a second rate sport. Tennis strokes are among the most beautiful
 and complex motions in all of sports. They deserve to be understood and

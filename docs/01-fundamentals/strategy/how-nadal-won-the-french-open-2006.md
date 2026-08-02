@@ -267,18 +267,18 @@ reminded of that old impression watching the French final. I also noted
 that Federer's body language seemed less strong and/or confident in
 this final, whereas for the last few years he has seemed almost serene
 under every condition. I think the bottom line is that the French final
-proved Roger is still human. **[[He wanted the Roger Slam and he was
+proved Roger is still human. **He wanted the Roger Slam and he was
 nervous enough about that that it threw his game off just enough to make
-the difference.]{.underline}]{.mark}** **[[The situation may have been
+the difference.** **The situation may have been
 emotionally similar to what I saw at Indian Wells. And maybe the antics
 of Rafael Nadal had something to do with it as well. Maybe that's the
 way Roger deals with it. It's not exactly choking, but he just loses
-control of his shots at surprising times.]{.underline}]{.mark}**
-**[[Maybe that's the way he gives into his own nerves. It's a
+control of his shots at surprising times.**
+**Maybe that's the way he gives into his own nerves. It's a
 hypothesis anyway. But I couldn't help but wonder what if Roger had
 just backed off and just hit a ton of backhand slices crosscourt? I
 would have loved to have seen if that changed the
-match.]{.underline}]{.mark}**
+match.**
 
 I've thought for a few years that at the level of the Grand Slams, that
 clay court tennis and hard court and/or grass court tennis might have

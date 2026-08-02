@@ -144,10 +144,10 @@ In my career I've had to change my thinking many times as new
 information became available. It is not easy to admit you were mistaken
 but it is necessary to innovate and improve.
 
-**[[Coaches, like anyone else, have pride and in general will resist
+**Coaches, like anyone else, have pride and in general will resist
 challenges to their methods. This is particularly true of well-known or
 very experienced coaches that have espoused certain views for a very
-long time.]{.underline}]{.mark}** But as John Yandell has said, "I'd
+long time.** But as John Yandell has said, "I'd
 rather be accurate than consistent.\"
 
 ![A person playing tennis Description automatically generated with

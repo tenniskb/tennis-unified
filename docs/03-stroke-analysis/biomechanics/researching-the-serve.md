@@ -74,15 +74,15 @@ well.
 medium
 confidence](media_researching-the-serve/media/image3.webp)
 
-**[[The Tossing Phase ends with the ball leaving the
-hand.]{.underline}]{.mark} Observation shows great variability in
+**The Tossing Phase ends with the ball leaving the
+hand. Observation shows great variability in
 starting position, shoulder alignment and weight distribution.**
 
 **The Tossing Phase**
 
-***[[The initial phase of the serve begins with the movement of the arms
+***The initial phase of the serve begins with the movement of the arms
 and ends with the ball leaving the hand. This is the ball toss
-phase.]{.underline}]{.mark}*** The goal of this phase is to toss the
+phase.*** The goal of this phase is to toss the
 ball consistently to a desired location that is optimal for ball contact
 and the timing of the stroke.
 
@@ -140,8 +140,8 @@ required to toss the ball to the desired location.
 medium
 confidence](media_researching-the-serve/media/image5.webp)
 
-**[[In reality the toss moves substantially from the player's right to
-left.]{.underline}]{.mark} The straight up and straight down toss is a
+**In reality the toss moves substantially from the player's right to
+left. The straight up and straight down toss is a
 coaching myth.**
 
 **Path of the Toss**
@@ -196,13 +196,13 @@ confidence](media_researching-the-serve/media/image10.webp)
 **The backswing can be full, mildly abbreviated, or extremely
 abbreviated like Andy Roddick.**
 
-***[[Studies have identified two backswing techniques, both of which
+***Studies have identified two backswing techniques, both of which
 lead to the \"checkmark\" position. In the full backswing, the player
 first drops the racquet towards the ground by letting the elbow joint
 extend, a motion which is gravity assisted. The shoulder then moves away
 from the body (technically called \"abduction\") with the elbow
 extended. The movement of the racquet is in a circular path upward and
-away from the ground.]{.underline}]{.mark}***
+away from the ground.***
 
 **[The elbow then flexes approximately 90 degrees at the same time the
 tossing arm reaches its maximal position creating the \"checkmark\".
@@ -210,10 +210,10 @@ This backswing pattern, considered to be classic or old school by most
 coaches, is characteristic of players such as John McEnroe or Mark
 Philippoussis.]{.mark}**
 
-**[[The other backswing technique that has been identified is the
+**The other backswing technique that has been identified is the
 abbreviated backswing. In the abbreviated backswing, the player keeps
 the elbow flexed from the starting position to the end of the
-backswing.]{.underline}]{.mark}**
+backswing.**
 
 **[The movement is generated from the shoulder joint, with two key
 movements. The first is \"abduction\" in which the shoulder moves away
@@ -266,42 +266,42 @@ positioning of the feet?**
 
 **Hips and Shoulders**
 
-**[[The hip and shoulder segments have been shown to rotate to the right
+**The hip and shoulder segments have been shown to rotate to the right
 (for a right handed player) during the backswing
-phase.]{.underline}]{.mark}** The movements in this phase result in the
+phase.** The movements in this phase result in the
 body being rotated to the right of the target with the tossing elbow
 fully extended and the shoulder abducted (which moves the arm away from
 the body) so that the hand is above the level of the head.
 
-**[[The dominant elbow is flexed approximately 90 degrees with the
+**The dominant elbow is flexed approximately 90 degrees with the
 shoulder abducted approximately 90 degrees as
-well.]{.underline}]{.mark}** The hitting arm is also externally rotated
+well.** The hitting arm is also externally rotated
 (or rotated backward in the shoulder joint) about 90 degrees.
 
 ![A person playing tennis Description automatically
 generated](media_researching-the-serve/media/image13.webp)
 
-**[[As hips rotate away from the target, shoulder abduction moves the
+**As hips rotate away from the target, shoulder abduction moves the
 arm way from the body. The dominant shoulder is lower with the knees
-flexed.]{.underline}]{.mark}**
+flexed.**
 
-**[[The dominant shoulder is at a lower vertical position that the
+**The dominant shoulder is at a lower vertical position that the
 non-dominant shoulder with both of the knees flexed. The body is now in
 an optimal position to drive to the ball as the body moves into the
-loading phase of the serve.]{.underline}]{.mark}**
+loading phase of the serve.**
 
 **The Loading Phase**
 
-**[[The Loading Phase of the serve begins as the legs extend to propel
+**The Loading Phase of the serve begins as the legs extend to propel
 the body toward the ball. The Loading Phase ends as the racquet drops
-behind the back to its lowest point.]{.underline}]{.mark}**
+behind the back to its lowest point.**
 
-**[[The goal of this phase is to load or place the muscles of the
+**The goal of this phase is to load or place the muscles of the
 upper-extremity on stretch and increase the range of motion of the path
 that the racquet makes to the ball. Placing a muscle on stretch
 maximizes its capacity to produce force. An increase in range of motion
-of the shoulder and elbow gives the]{.underline}]{.mark}** **[[player
-more space to accelerate the racket.]{.underline}]{.mark}**
+of the shoulder and elbow gives the** **player
+more space to accelerate the racket.**
 
 **Ground Reaction Force**
 
@@ -319,9 +319,9 @@ the player upward and forward into the air toward the ball.]{.mark}***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[There are actually 3 components to the ground reaction force:
+**There are actually 3 components to the ground reaction force:
 upwards (or vertical), forward (or horizontal), and sideways (or
-lateral).]{.underline}]{.mark}**
+lateral).**
 
 **[*[The vertical component is the highest, with a force equal to about
 twice the player's body weight.]{.underline}* The horizontal component
@@ -359,24 +359,24 @@ bent at about 115 degrees.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[This dynamic movement, created by the leg drive and by gravity, is
+**This dynamic movement, created by the leg drive and by gravity, is
 what produces the loading of the shoulder joint, and at the same time,
 increases the length of the racquet drop. At this point, the upper-body
 is in an ideal position to produce the maximum amount of force and
-accelerate the racquet.]{.underline}]{.mark}**
+accelerate the racquet.**
 
 **The Acceleration Phase**
 
-**[[The acceleration phase of the serve begins with the racquet moving
+**The acceleration phase of the serve begins with the racquet moving
 vertically toward the ball and ends when the racquet strings contact the
 ball. The goal of this phase is to accelerate the racquet so that
 maximum racket head velocity occurs at ball impact, and to create the
 ideal racket head path and orientation for the intended ball
-location.]{.underline}]{.mark}**
+location.**
 
-**[[In this phase of the serve, the action of the kinetic chain
+**In this phase of the serve, the action of the kinetic chain
 resembles other physical motions such as, throwing, kicking, and
-striking.]{.underline}]{.mark}** Movement scientists have identified a
+striking.** Movement scientists have identified a
 general principle to explain force production in these movements. This
 is called **[[\"proximal to distal sequencing.\"]{.mark}]{.underline}**
 
@@ -388,11 +388,11 @@ is called **[[\"proximal to distal sequencing.\"]{.mark}]{.underline}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-***[[Basically it means that for each segmental movement the force
+***Basically it means that for each segmental movement the force
 generated is passed to next segment which is referred to as a kinetic
 chain. In this way the forces generated earlier in the motion are
 eventually transferred into the racquet head and finally to the
-ball.]{.underline}]{.mark}***
+ball.***
 
 **[Research has demonstrated that this movement is initiated by the
 heavier, slower central body segments.]{.mark}** ***[Then, as energy
@@ -404,12 +404,12 @@ numerous researchers. Their work has determined that the sequence of the
 maximum velocities of the body parts are achieved in this order: the
 hip, the shoulder, the elbow, the wrist and finally the racquet tip.
 
-***[[Put another way, the hips accelerate and reach their maximum speed
+***Put another way, the hips accelerate and reach their maximum speed
 first. The force is transferred to the shoulder, which reaches it's
 maximum speed next. This is followed by the force transfer to the elbow,
 the wrist and the racket tip. This sequencing of the kinetic chain
 begins at the start of the loading phase and ends a split second prior
-to ball contact.]{.underline}]{.mark}***
+to ball contact.***
 
 **The Movement of the Arm**
 
@@ -447,18 +447,18 @@ technical names that we will explain below.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-***[[Researchers have been able to determine the relative contribution
+***Researchers have been able to determine the relative contribution
 of some of these segments. Studies show that the greatest contributor is
 the internal rotation of the upper arm. This is the forward rotation of
 the upper arm in the shoulder joint, as the racket starts upward to the
 ball. Internal rotation is responsible for over half of total racket
-head speed at 54%.]{.underline}]{.mark}***
+head speed at 54%.***
 
-***[[The next largest contributor is wrist flexion, or the forward
+***The next largest contributor is wrist flexion, or the forward
 motion of the wrist toward the forearm. This is the motion of the wrist
 from its laid back position at the start of the motion to the ball until
 the contact. Wrist flexion was found to contribute 30% of total racket
-head speed.]{.underline}]{.mark}***
+head speed.***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing tennis, sport, athletic game, player Description automatically
@@ -468,10 +468,10 @@ head speed.]{.underline}]{.mark}***
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-***[[The third largest contributor to racquet head speed is horizontal
+***The third largest contributor to racquet head speed is horizontal
 abduction of the shoulder joint at 13%. This is a foreword movement of
 the upper arm at the beginning of the acceleration
-phase.]{.underline}]{.mark}***
+phase.***
 
 Taking a cue from this research, a few exercise physiologists have used
 weight training to strengthen the muscles in the shoulder that produce
@@ -529,10 +529,10 @@ the kinetic chain and therefore ball velocity.]{.mark}***
 
 **The Followthrough Phase**
 
-**[[The follow through phase of the serve is from ball contact to the
+**The follow through phase of the serve is from ball contact to the
 end of the stroke. The primary goals during this phase is to decelerate
 the racquet slowly so that no injury is done to the musculature or
-joints, and to prepare for the next stroke.]{.underline}]{.mark}**
+joints, and to prepare for the next stroke.**
 
 Research is very limited in this phase of the serve and has mainly been
 conducted in a qualitative manner. The main finding is that the racquet

@@ -64,8 +64,8 @@ compared to the forehand or the two hander. The racket head at the
 completion of Phase 1 is actually pointing behind the body at the
 sideline to player's right.]{.mark}]{.underline}**
 
-**[[At the completion of Phase 1, the racket head is also above the
-height of the hand.]{.underline}]{.mark}** The racket face may be on
+**At the completion of Phase 1, the racket head is also above the
+height of the hand.** The racket face may be on
 edge, but for Roger Federer and others it is actually slightly open.
 
 ![A person playing tennis Description automatically
@@ -80,13 +80,13 @@ The forward swing begins at the start of Phase 2. **[[The racket
 acceleration begins as the racket head starts to drop and builds from
 there.]{.mark}]{.underline}**
 
-**[[This acceleration is further increased at the pro level by the
+**This acceleration is further increased at the pro level by the
 common use of closed stances, set up by a diagonal cross
-step.]{.underline}]{.mark}** **[[This allows the hips and the shoulders
+step.** **This allows the hips and the shoulders
 to rotate more than with a neutral stance at the start of the forward
 swing\--though it is important to note that there is still far less
 rotation than on the forehand or the two-handed
-backhand.]{.underline}]{.mark}**
+backhand.**
 
 However, the 1-2 rhythm principle works equally well with neutral or
 even open stances. These stances are usually more applicable for lower
@@ -96,9 +96,9 @@ Compare the Phases on the one-hander to the forehand or the two-hander
 where the hand and racket stay on the hitting side throughout the motion
 in the purest ATP versions of the strokes.
 
-There is another important difference. **[[On the one-hander the racket
+There is another important difference. **On the one-hander the racket
 face doesn't close or tilt downward as it does on the other two
-strokes.]{.underline}]{.mark}**
+strokes.**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
@@ -121,11 +121,11 @@ like Stan Wawrinka. When he hits a winner it seems like a canon. In any
 case, some the highest backhand velocities at all levels are generated
 by one handed players.
 
-**The trick to exploding in phase two is to [[use the front hitting
-shoulder to swing the arm and racket]{.underline}]{.mark} [without over
+**The trick to exploding in phase two is to use the front hitting
+shoulder to swing the arm and racket [without over
 rotating the body.]{.underline}** **This forward action is often
-dramatically paired with [[the left arm moving in the opposite
-direction]{.underline}]{.mark} with an explosive feel of its own.**
+dramatically paired with the left arm moving in the opposite
+direction with an explosive feel of its own.**
 
 As with all shots, 1-2 Rhythm can be activated with simple keys on the
 court\--usually in the form of one word or image for each phase. For
@@ -150,9 +150,9 @@ other examples that I have found powerful and effective. The first word
 is \"Smooth.\" The second word is \"Explode.\" Another combination is
 \"Slow\" then \"Fast.\"
 
-As with the other shots, **[[hitting loose and relaxed is
-ke]{.underline}]{.mark}**y, and **[[will allow the follow-through to
-happen naturally.]{.underline}]{.mark}** When 1-2 Rhythm is really
+As with the other shots, **hitting loose and relaxed is
+ke**y, and **will allow the follow-through to
+happen naturally.** When 1-2 Rhythm is really
 working, technique, feel, and timing are all part of the exquisite
 experience of hitting a powerful, well struck one-handed drive. Stay
 tuned next for the slice!

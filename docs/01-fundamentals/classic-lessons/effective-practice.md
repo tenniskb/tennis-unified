@@ -54,17 +54,17 @@ become non-cognizant competent.
 
 The first three stages seem logical and can be reached in typical
 lessons. But the last stage is the critical one, and the one most
-players never reach. **[[Being non-cognizant competent means you are
+players never reach. **Being non-cognizant competent means you are
 able to physically execute without having to think and process what you
-are doing verbally.]{.underline}]{.mark}**
+are doing verbally.**
 
 Most players think they know what they need to do. But they never
 actually change because they are always thinking about what they need to
 do in match play.
 
-**[[The correct process is to identify a phase of your game you would
+**The correct process is to identify a phase of your game you would
 like to change and learn how to correctly perform that
-change.]{.underline}]{.mark}** But then you must combine add a
+change.** But then you must combine add a
 competitive dimension to your practice, through drill games such as the
 ones outlined below. This competitive element is crucial in integrating
 change. It is also what makes practice fun.

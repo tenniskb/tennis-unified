@@ -7,15 +7,15 @@
 **\"It may have worked for me sometimes, but I don't recommend it for
 the average player.\"**
 
-**[[We all know the secret to winning the mental game is simple. Abuse
+**We all know the secret to winning the mental game is simple. Abuse
 every official in sight, and when things don't go your way, start
-screaming and throwing racquets.]{.underline}]{.mark}** ***[OK, I'm
+screaming and throwing racquets.** ***[OK, I'm
 kidding. That might have worked for me sometimes, but it's probably not
 a good idea for the average player. Take it from me, it can end up
 causing all types of problems.]{.mark}***
 
-**[[The real secret to being mentally tough is
-confidence.]{.underline}]{.mark}** Great players win because they
+**The real secret to being mentally tough is
+confidence.** Great players win because they
 believe in themselves and believe they can come through in tough
 situations.
 
@@ -56,8 +56,8 @@ level from the pros on down.
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The first is to keep your eye on the ball. Watch the
-ball!]{.underline}]{.mark}** How many times have you heard that one? It
+**The first is to keep your eye on the ball. Watch the
+ball!** How many times have you heard that one? It
 may sound like a cliche, but it's about as basic to playing tennis as
 you can get. Watch the slow-motion replays of the great players of the
 Grand Slams, and you'll see they're all looking at the ball right when
@@ -107,10 +107,10 @@ as important as anything else in a close match.]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[You need to use the time between points to keep control of yourself
+**You need to use the time between points to keep control of yourself
 emotionally, to deal with the pressure, and to try to stay positive.
 It's a big mistake to rush your play in tight
-situations.]{.underline}]{.mark}**
+situations.**
 
 After you play a tough point, or before you start a big point, take your
 time. Let yourself recover and decide exactly what you want to do. Be as

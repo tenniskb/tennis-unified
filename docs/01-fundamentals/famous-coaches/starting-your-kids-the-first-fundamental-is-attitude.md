@@ -28,9 +28,9 @@ recognizing what to do with a particular kid and when to do it is in the
 eye of the beholder.
 
 But there are common threads that I will stress with kids no matter what
-age or talent level. **[[These are understanding how to use their legs
+age or talent level. **These are understanding how to use their legs
 to hit the ball, trying to find the contact point, what grips to use to
-start on all the strokes, among others.]{.underline}]{.mark}** In this
+start on all the strokes, among others.** In this
 new series for Tennisplayer, I am going to go over all of that on a
 stroke by stroke basis. But I think virtually everything I am going to
 say will apply to most club players as well.
@@ -44,21 +44,21 @@ players, pay attention.**
 
 **[[Attitude Underlies All]{.mark}]{.underline}**
 
-**[[When it comes to becoming the best player you can be the first
-fundamental is attitude.]{.underline}]{.mark}** Attitude has to
+**When it comes to becoming the best player you can be the first
+fundamental is attitude.** Attitude has to
 underline the whole process. The attitude of the teacher, and the
 attitude of the student. And I think the key word here is fun.
 
-If you are an adult player that's no different for you. **[[So many
+If you are an adult player that's no different for you. **So many
 adults I see are very serious about improving, but at the same time, so
 self-critical and negative that they get in their own
-way.]{.underline}]{.mark} If they could only [[learn to have fun on the
-court and enjoy the process,]{.underline}]{.mark} it would go a long way
+way. If they could only learn to have fun on the
+court and enjoy the process, it would go a long way
 toward helping them achieve their goals.**
 
-**[[With the kids, all the theories, all the technical information,
-that's all irrelevant unless the process is fun.]{.underline}]{.mark}**
-**[[You have to make it very, very fun.]{.underline}]{.mark}** To do
+**With the kids, all the theories, all the technical information,
+that's all irrelevant unless the process is fun.**
+**You have to make it very, very fun.** To do
 this, you have to feel the moment when you can focus on the technical
 issues, and when you have to use motivational skills and even
 entertainment skills to keep them engaged.
@@ -75,8 +75,8 @@ confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/ima
 
 **Theory and technique are irrelevant without fun.**
 
-**[[To me the art of teaching is constantly probing, to feel the
-temperature every day with every kid.]{.underline}]{.mark}** Because
+**To me the art of teaching is constantly probing, to feel the
+temperature every day with every kid.** Because
 it's different all the time. If you tell kids \"you're going to do it
 this, and this is the only way to do it,\" well a lot of kids will just
 float away.
@@ -108,8 +108,8 @@ ask them, \"How do you feel?\" They look at me and say \"great.\"
 medium
 confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/image4.webp)
 
-**[[Tennis is about believing in yourself and your
-game.]{.underline}]{.mark}**
+**Tennis is about believing in yourself and your
+game.**
 
 If it's really hot when I'm out there on the court with a kid, I want
 him or her to think it's not that hot. I want them to see that the can

@@ -11,9 +11,9 @@
 Many elite players, particularly in the men's game, are able to direct
 serves in excess of 125 mph to all parts of the service box. This
 presents a considerable challenge to their opponents, standing some 78
-feet away, **[[who have approximately one third of a second between the
+feet away, **who have approximately one third of a second between the
 hit and the ball bounce to assess the ball's flight and begin a
-well-timed return.]{.underline}]{.mark}**
+well-timed return.**
 
 The battle between the server and returner has attracted the interest of
 researchers for more than 20 years. Various researchers have focused on
@@ -22,8 +22,8 @@ ball flight---as well as the split seconds prior to the hit \--to help
 determine the serve's likely direction, allowing for an improved motor
 response.
 
-**[[Skilled players have been shown to use two forms of advance
-information.]{.underline}]{.mark}** First, situational probability
+**Skilled players have been shown to use two forms of advance
+information.** First, situational probability
 information, such as strategic insights based on known preferences of
 the server. Second the mechanics of the service action.
 
@@ -77,9 +77,9 @@ ball is going to be hit based on the mechanics of their opponent's
 service action.
 
 **These players pick up cues well before the racket meets the ball,
-providing them with more time to plan their serve return. [[The location
-or height of the ball toss]{.underline}]{.mark} [[and the angle of the
-racket during its forward swing to impact]{.underline}]{.mark} seem to
+providing them with more time to plan their serve return. The location
+or height of the ball toss and the angle of the
+racket during its forward swing to impact seem to
 provide the most information.**
 
 In contrast, less skilled players are reliant on ball flight information

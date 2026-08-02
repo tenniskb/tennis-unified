@@ -27,8 +27,8 @@ matches.
 
 ### What Exactly is a Reverse Forehand?
 
-**[[I call this shot the reverse forehand, because it has a reverse
-follow-through.]{.underline}]{.mark}** ***[During the follow-through the
+**I call this shot the reverse forehand, because it has a reverse
+follow-through.** ***[During the follow-through the
 racket head moves slightly forward through the ball, but then moves
 upwards and then backwards in the opposite direction from the
 hit.]{.mark}***
@@ -58,13 +58,13 @@ top players, female and male, use it on a regular basis.
 
 ### The Reverse Forehand Advantage
 
-**[[The advantage of the reverse forehand is that it let's players do
-things that were previously impossible.]{.underline}]{.mark}** Before,
+**The advantage of the reverse forehand is that it let's players do
+things that were previously impossible.** Before,
 when the ball was low and away from you, the player's only option was a
 low percentage play down the line. The reverse forehand allows you to
-take the ball slightly later. **[[You now have the option to hit down
+take the ball slightly later. **You now have the option to hit down
 the line, hit a short crosscourt angle, hit a deep crosscourt, or hit a
-topspin lob.]{.underline}]{.mark}** **[The reverse allows you to [pull
+topspin lob.** **[The reverse allows you to [pull
 the ball crosscourt]{.underline} consistently on the run. You get
 [unbelievable angles]{.underline}. You can use it to hit a [heavy
 topspin lob]{.underline}. Pete also hits it when he

@@ -55,9 +55,9 @@ confidence](media_love-the-battle-pathways-to-performing/media/image2.webp)
 
 **Emotions, positive and negative, are what run the show.**
 
-**[[As my career evolved, I began to realize that the real center stage
+**As my career evolved, I began to realize that the real center stage
 phenomenon was really not mental, but it was
-emotional.]{.underline}]{.mark}** The reason that the mental is
+emotional.** The reason that the mental is
 important, the reason that we become very disciplined in how we're
 thinking, in our rituals, in how we're visualizing is the impact on
 emotion.
@@ -93,13 +93,13 @@ eagerness. So we should look at this as a continuum. There are a wide
 diversity of things, some mental, some physical, that affect
 emotion.]{.mark}]{.underline}**
 
-**[[There is a reason that emotions are so important in the context of
+**There is a reason that emotions are so important in the context of
 competition. This is because emotions reflect what is happening at a
-very deep physiological basis within the person.]{.underline}]{.mark}**
+very deep physiological basis within the person.**
 
-**[[A very important concept in my development of the notion of peak
+**A very important concept in my development of the notion of peak
 performance and the concept of being the very best that you can be was
-the idea of the ideal performance state.]{.underline}]{.mark}** ([Click
+the idea of the ideal performance state.** ([Click
 Here](http://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_ideal_performance_state_images/jim_loehr_ideal_performance_state.html).)
 Perhaps the single most important understanding that I came to in the
 early part of my career was that the same feelings and emotions are
@@ -117,11 +117,11 @@ reflect a very delicate balance of physiological harmony, wherein talent
 and potential become fulfilled. And therein lies the understanding of
 the critical role emotion plays.
 
-**[[Feelings and emotions are simply body talk]{.underline}]{.mark}**.
-**[[They represent the internal eyes and ears of the body. Feelings and
+**Feelings and emotions are simply body talk**.
+**They represent the internal eyes and ears of the body. Feelings and
 emotions are analogous to the instrument gauges on a high-performance
 race car. They reflect what's going on at a much deeper
-level.]{.underline}]{.mark}**
+level.**
 
 And the body is always talking. Feelings and emotions are always
 surfacing in one form or another, and deeply felt emotions have a real
@@ -144,9 +144,9 @@ cells, and even immune cells.
 Every cell in our body contains millions of receptors, like satellite
 dishes pointed outward ready to receive critical information that is
 necessary, that is really communicated via these feelings and emotions.
-**[[A messenger molecule]{.underline}]{.mark}**, for instance, that's
+**A messenger molecule**, for instance, that's
 released in the brain that's associated with positive emotion and joy
-is called **[[endorphin.]{.underline}]{.mark}** And we know that over
+is called **endorphin.** And we know that over
 200 varieties of that single chemical by itself is found in nearly every
 system of the body, including the immune system and the endocrine
 system\--200 varieties!
@@ -157,12 +157,12 @@ confidence](media_love-the-battle-pathways-to-performing/media/image6.webp) 
 
 **Emotions affect how we perceive what is happening.**
 
-But the most important thing is that **[[emotions have a real connection
-to the physiology of the body]{.underline}]{.mark}**. **[[And there is a
+But the most important thing is that **emotions have a real connection
+to the physiology of the body**. **And there is a
 peak emotional state that empowers the body, that bring to life one's
 talent and skill. If we can summon those emotions, if we can summon
 those feelings in the context of competition, that's when we achieve
-greatness.]{.underline}]{.mark}**
+greatness.**
 
 Emotion affects the way we perceive an event. The way we are feeling
 right now powerfully influences the way we see things. And vice versa.
@@ -228,8 +228,8 @@ talent and skill. And it's an emotional response. All those little
 receptor sites are picking up the hormones associated with the fear
 response.
 
-**[[The particular chemical that is apparently the most detrimental is
-what we call cortisol.]{.underline}]{.mark}** And as those cortisol
+**The particular chemical that is apparently the most detrimental is
+what we call cortisol.** And as those cortisol
 levels escalate in an exaggerated way, feelings of dread, feeling of
 just uncomfortableness, muscles get tight. It causes a whole host of
 other messengers to be sent to mobilize the body to flee, to run away.
@@ -266,9 +266,9 @@ instrument gauges on a race car that suggest that the fuel is low. It
 happens sometimes when you're hungry, you're agitated, you're
 overstressed, all kinds of things can trigger it.]{.mark}]{.underline}**
 
-**[[And that's a very important understanding, that negative emotions
+**And that's a very important understanding, that negative emotions
 serve a very real purpose\--they indicate issues that must be
-addressed.]{.underline}]{.mark}** **[[But we have to learn to put aside
+addressed.** **[[But we have to learn to put aside
 negative emotion in the context of competition. Then later we can
 address the needs those negative emotions reflect. Positive emotion
 simply reflects a healthy, normal state of operation internally. There
@@ -323,11 +323,11 @@ confidence brings protection from nerves, brings a wonderful sense of
 take the ball early and not to play it safe and cause you to play to
 win.
 
-**[[It's like, \"I can do this\" and that feeling frees you. The
+**It's like, \"I can do this\" and that feeling frees you. The
 muscles remain more relaxed. You're in a situation you feel you can
 handle. We have to figure out how to get this feeling of confidence to
 surface, because confidence is a tremendously empowering
-emotion.]{.underline}]{.mark}**
+emotion.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -385,13 +385,13 @@ physiology of ours in a wonderfully sensitive way, that we're beginning
 to understand how feelings and emotions are simply windows to
 understanding our physiology.
 
-**[[Yes, an outside event can cause us to be angry, we can understand
+**Yes, an outside event can cause us to be angry, we can understand
 that. But we also can think in ways, we can act in ways which will cause
 that anger to dissipate, to go away. Or perhaps we can avoid even
 triggering that feeling of anger in the first place. Perhaps we can keep
 the emotional balance, the physiological balance that will ultimately
 give us our dreams in sport, to perform to the very best of whatever
-we're capable of doing.]{.underline}]{.mark}**
+we're capable of doing.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                           Jim Loehr is a legendary pioneer in the field of

@@ -208,11 +208,11 @@ or Djokovic's backhand. These shots may have \"classical\" and
 \"modern\" elements to them, but at the end of the day, the core
 elements are timeless, and that makes them great.
 
-**[[It's dangerous to try to put a fancy roof on a house if the
-foundation lacks structural integrity.]{.underline}]{.mark}**
-**[[That's where the role of the right tennis teaching professional is
+**It's dangerous to try to put a fancy roof on a house if the
+foundation lacks structural integrity.**
+**That's where the role of the right tennis teaching professional is
 critical. Look for a pro that helps you establish fundamentals you can
-build on.]{.underline}]{.mark}**
+build on.**
 
 **Modern Tennis and Juniors**
 
@@ -245,12 +245,12 @@ generated](media_the-keys-to-great-lessons/media/image8.webp)
 
 **Set realistic target sizes that create success.**
 
-**[[Giving each student]{.underline}]{.mark} the [[right amount of
+**Giving each student the [[right amount of
 feedback]{.mark} [and attempts]{.mark} [allows all students an even
-playing field]{.mark}]{.underline} and [[a sense of togetherness as a
-group]{.underline}]{.mark}. [This prevents students from]{.underline}
+playing field]{.mark}]{.underline} and a sense of togetherness as a
+group. [This prevents students from]{.underline}
 [[becoming overly competitive with each other]{.mark}]{.underline} and
-[[jealous of the attention of the teaching pro]{.underline}]{.mark}.**
+jealous of the attention of the teaching pro.**
 
 **The End**
 
@@ -271,7 +271,7 @@ them away from the teaching court.**
 
 One of the clear-cut signs of an experienced, knowledgeable and we'll
 trained teaching professional and coach is the way they move around the
-court. **[[They have strong court presence.]{.underline}]{.mark}**
+court. **They have strong court presence.**
 
 Experienced teachers keep the teaching basket nearby like an oxygen
 tank, and then effortlessly move it away when it's time to rally. It's

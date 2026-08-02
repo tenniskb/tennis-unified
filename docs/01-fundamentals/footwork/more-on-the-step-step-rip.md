@@ -16,9 +16,9 @@ rhythm is used throughout the game of tennis.
 
 The movement of your feet can serve as a timing mechanism to trigger all
 your shots, allowing you to hit with more power, precision, and
-consistency than you may have thought possible. **[[Coaches always
+consistency than you may have thought possible. **Coaches always
 preach the importance of moving your feet. \"Take a lot of little
-steps!\"]{.underline}]{.mark}** Most players know that they play better
+steps!\"** Most players know that they play better
 when they do this. How many times have you missed a ball and felt as you
 hit it that your feet were set in concrete? What I want to show you is
 the way the top players use these smaller steps in many different
@@ -34,17 +34,17 @@ overhead smash.
 
 **On the Rise**
 
-**[[When you let a ball come down toward a second bounce you have given
+**When you let a ball come down toward a second bounce you have given
 your opponent time. You might have been able to take the ball on the
 rise and taken time away from your opponent
-instead.]{.underline}]{.mark}** **[[This can be the difference between
-you playing the ball and the ball playing you.]{.underline}]{.mark}**
+instead.** **This can be the difference between
+you playing the ball and the ball playing you.**
 
-**[[Recognizing the right situation is the key to learning when to hit
+**Recognizing the right situation is the key to learning when to hit
 early. If you can judge where the ball is going to bounce you can move
 into position with your back foot, then step with the right foot and hit
 the ball at a comfortable contact point on the
-rise.]{.underline}]{.mark}**
+rise.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
@@ -54,14 +54,14 @@ rise.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[When you hit on the rise, a combination of footwork with a
+**When you hit on the rise, a combination of footwork with a
 continuous backward and forward swing creates natural
-power.]{.underline}]{.mark}** The backswing is synchronized with the
+power.** The backswing is synchronized with the
 bounce of the ball and the step with the right foot. The left foot steps
 forward or slightly to the side, and a continuous swing flow is
-generated as the ball comes up off the bounce. **[[For a right hander,
+generated as the ball comes up off the bounce. **For a right hander,
 the two-step pattern is: right foot step, left foot step, hit. Again,
-that's right foot, left foot, then rip!]{.underline}]{.mark}**
+that's right foot, left foot, then rip!**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                             ![A person playing tennis Description automatically
@@ -133,8 +133,8 @@ to emulate. Every aspect of his swing is designed for power, spin and
 reliability. But let's focus on the timing and rhythm of his feet. Look
 at how he makes a small adjustment step out of the split step. He then
 drives off his left foot, stabilizes on his right leg with the knees
-coiled, and triggers his swing. **[[This is a perfect example of the
-step, step rhythm. Left step, right step, hit.]{.underline}]{.mark}**
+coiled, and triggers his swing. **This is a perfect example of the
+step, step rhythm. Left step, right step, hit.**
 
 First the drive off the left leg. Then the right foot \"sticks the
 landing\" and resists moving, allowing the swing to accelerate through
@@ -188,12 +188,12 @@ step rhythm enables the player to use the natural timing of their swing,
 moving backwards.
 
 When Agassi lets a high defensive lob bounce, the timing of his swing
-again comes from his footwork. **[[Watch as Agassi shuffles step back
+again comes from his footwork. **Watch as Agassi shuffles step back
 and positions his feet behind the ball, keeping his hands relaxed. The
 motion resembles his serve. He starts by raising both arms, and then
-makes two subtle steps.]{.underline}]{.mark}** **[[The first is with his
+makes two subtle steps.** **The first is with his
 front foot from his left to his right. Then second is forward with his
-rear foot, triggering the swing.]{.underline}]{.mark}**
+rear foot, triggering the swing.**
 
 |  |
 | --- |

@@ -119,15 +119,15 @@ in developing muscle memory. When one skill set is learned, the
 acquisition and consolidation of the second skill set is easier.
 
 Why? **[Skilled motor tasks, especially in tennis, have an anticipatory
-component that is separate from the motor task itself.]{.mark}** **[[The
+component that is separate from the motor task itself.]{.mark}** **The
 ball is coming toward you. You anticipate and calculate the angle,
 trajectory speed, and spin. None of this is a motor action. It is
-cognitive.]{.underline}]{.mark}**
+cognitive.**
 
 **[The critical aspect is starting the movement at the right time with
-the right focus on the incoming shot.]{.mark}** **[[And the brain can
+the right focus on the incoming shot.]{.mark}** **And the brain can
 transfer this new anticipatory knowledge to a different situation that
-was not specifically practiced.]{.underline}]{.mark}**
+was not specifically practiced.**
 
 The skill sets you learned when hitting your forehand are now available.
 They are already present when you begin hitting your backhand. So your

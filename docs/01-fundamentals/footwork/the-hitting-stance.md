@@ -117,9 +117,9 @@ through, creating greater club head speed.
 
 ### **Kinetic Chain**
 
-**[[The Kinetic Chain is the sequential movement of linked body parts
+**The Kinetic Chain is the sequential movement of linked body parts
 when swinging a racquet around an axis (the body) creating centrifugal
-force.]{.underline}]{.mark}** If one link is missing it will throw the
+force.** If one link is missing it will throw the
 smooth transition of movement through the body and hence limit the
 potential power one could create at the point of contact.
 
@@ -128,22 +128,22 @@ the weight will move a lot and at a much greater speed. **[The same
 centrifugal force applies in tennis, a little body rotation will
 generate much greater racquet speed]{.underline}**.
 
-**[[The biomechanical sequence starts by pushing off the back foot,
+**The biomechanical sequence starts by pushing off the back foot,
 turning the back leg's shin, knee, and thigh towards the net creating
 the \"K\" position where the back knee rotates to a point almost
 touching the front knee, not unlike the letter
-\"K\".]{.underline}]{.mark}** **[[The core of the body - the hips,
+\"K\".** **The core of the body - the hips,
 torso, and shoulders then rotate towards the net, in that order. The
 front leg absorbs the rotation by staying still, and you should be able
 to feel the pull from the inside of your front knee to the outside of
-the front hip.]{.underline}]{.mark}**
+the front hip.**
 
-**[[The braking of body parts will keep the body from over rotating.
+**The braking of body parts will keep the body from over rotating.
 This will generate more power by getting the body mass in motion and
 then stopping it to create acceleration of the racquet at the point of
 contact. The head and front foot should remain still through the stroke
 and the rear foot, whether using the toe touch or kicking back acts as
-an anchor, stopping the rotation.]{.underline}]{.mark}**
+an anchor, stopping the rotation.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically
@@ -158,9 +158,9 @@ Sampras's lethal running forehand uses the hitting arm to swing while
 stepping across with his left foot. He hits with a closed stance in
 order to keep his body from rotating too much as he swings.
 
-**[[Notice the heel toe landing of his left foot.]{.underline}]{.mark}**
-**[[When the foot lands heel/toe, the whole leg acts like a shock
-absorber]{.underline}]{.mark}**. The ankle and knee bend naturally. If
+**Notice the heel toe landing of his left foot.**
+**When the foot lands heel/toe, the whole leg acts like a shock
+absorber**. The ankle and knee bend naturally. If
 the toe lands first, this stiffens the leg, which does not allow the leg
 to absorb the weight being put on it, so it resists and pushes the
 weight back.

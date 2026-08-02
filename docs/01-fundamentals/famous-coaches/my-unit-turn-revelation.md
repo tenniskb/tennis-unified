@@ -149,19 +149,19 @@ confidence](media_my-unit-turn-revelation/media/image5.webp)
 **Watch Dimitrov as he turns the hitting side of the racket to the
 opponent and rotates the grip immediately at the start of the turn.**
 
-**[[Racquet positioning is critical.]{.underline}]{.mark}** **[For
+**Racquet positioning is critical.** **[For
 topspin groundstrokes the hitting side of the racquet head should face
 away from the player toward the opponent and parallel roughly to the
 baseline.]{.mark}** If a grip change is needed then the non-dominant
 hand helps gently guide the racquet to the correct grip.
 
-**[[For a player with a one-handed backhand the non-dominant hand rests
-up the throat.]{.underline}]{.mark}** For the players with two handed
+**For a player with a one-handed backhand the non-dominant hand rests
+up the throat.** For the players with two handed
 backhands the player usually has both hands on the grip like Andy
 Murray. But other players such as Novak Djokovic slide the hand down.
 
-**[[For volleys and slices the player needs to face the racquet
-forward.]{.underline}]{.mark}** For the backhand volley and slice this
+**For volleys and slices the player needs to face the racquet
+forward.** For the backhand volley and slice this
 is done by cocking the wrist.
 
 The left hand stabilizes the racquet. The variations are many but the
@@ -216,7 +216,7 @@ generated](media_my-unit-turn-revelation/media/image7.webp)
 
 **Novak's outside foot rotates like a greased hinge.**
 
-**[[Why are the level arms so important?]{.underline}]{.mark}**
+**Why are the level arms so important?**
 ***[Because [the arms and racquet have]{.underline} [real mass and
 weight]{.underline}. If players have poor arm position, that mass holds
 the player back. Literally players can throw themselves in the wrong
@@ -307,9 +307,9 @@ in place.
 
 **Root of the Problem**
 
-**[[The large majority of the technical problems, particularly for
+**The large majority of the technical problems, particularly for
 intermediate players and below, start with this issue of the unit
-turn.]{.underline}]{.mark}** Many players develop the turn easily and
+turn.** Many players develop the turn easily and
 naturally, but many players, and again, even good and great ones,
 struggle with the turn one side or the other. Jez Green who was Andy
 Murray's movement coach told me that Murray was far better going to his
@@ -350,9 +350,9 @@ before using that energy in springing to the shot a player must be
 stable, loose, and relaxed above the waist player when landing. That's
 what a great split step allows.]{.mark}**
 
-**[[Like an earthquake safe building, the player absorbs waves of
+**Like an earthquake safe building, the player absorbs waves of
 energy, keeping extra movement in the torso and racquet to a
-minimum.]{.underline}]{.mark}** **[This absorption allows the arm and
+minimum.** **[This absorption allows the arm and
 racquet to stay stable, reducing variables.]{.mark}**
 
 If done properly a great split then sets the stage for a smooth even

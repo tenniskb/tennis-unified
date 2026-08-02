@@ -21,16 +21,16 @@ on our movement skills: approaching the net and the return of serve.
 
 **Attacking the Net**
 
-**[[Being a great all court player means learning how to move forward
-when you have an opportunity to attack the net.]{.underline}]{.mark}**
+**Being a great all court player means learning how to move forward
+when you have an opportunity to attack the net.**
 
 As you move forward, the key is to stay balanced so that you can change
 directions and make a good Initial Move to the first volley.
 
-The Float Move speeds up your ability to break to the ball. **[[Although
+The Float Move speeds up your ability to break to the ball. **Although
 similar to the split step, the Float move allows explosive movement in
 any direction, similar to \"unweighting\" in
-skiing.]{.underline}]{.mark}**
+skiing.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person running on a track Description automatically generated with low
@@ -42,24 +42,24 @@ skiing.]{.underline}]{.mark}**
 
 **Unweighting**
 
-Watch how I unweight and touch and go to the ball. **[[You can see the
-sequence in the animation freeze frames.]{.underline}]{.mark}**
+Watch how I unweight and touch and go to the ball. **You can see the
+sequence in the animation freeze frames.**
 
-> **[[First, I unweight, pushing off so that both feet are momentarily
-> in the air.]{.underline}]{.mark}**
+> **First, I unweight, pushing off so that both feet are momentarily
+> in the air.**
 >
-> **[[Next, I touch down with the Inside Foot.]{.underline}]{.mark}**
+> **Next, I touch down with the Inside Foot.**
 >
-> **[[Now the Inside Foot pushes of in the direction of the
-> movement.]{.underline}]{.mark}**
+> **Now the Inside Foot pushes of in the direction of the
+> movement.**
 >
-> **[[Finally, I take a step to the ball with the Outside
-> Foot.]{.underline}]{.mark}**
+> **Finally, I take a step to the ball with the Outside
+> Foot.**
 
 As with the patterns of movement in the other articles, by Outside Foot
-I mean the foot closest to the ball. **[[This is the left foot on the
+I mean the foot closest to the ball. **This is the left foot on the
 forehand if you are right handed. The Inside Foot is the right foot,
-further away.]{.underline}]{.mark}**
+further away.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person playing tennis Description automatically generated with medium
@@ -71,8 +71,8 @@ further away.]{.underline}]{.mark}**
 
 **The Float on the Backhand Volley**
 
-**[[The float move works in the same way for backhand volley, except the
-pattern is reversed.]{.underline}]{.mark}**
+**The float move works in the same way for backhand volley, except the
+pattern is reversed.**
 
 Now the Outside Foot closest to the ball is the left foot for a
 righthander, and the right foot is the Inside Foot.
@@ -109,8 +109,8 @@ put them away.
 
 **The Float and the Return**
 
-**[[The Float can also speed up your movement on one of the most
-critical shots in tennis, the return of serve.]{.underline}]{.mark}**
+**The Float can also speed up your movement on one of the most
+critical shots in tennis, the return of serve.**
 
 Watch how the great players use the same unweighting or Float Move to
 get their weight up so that they can stay in balance and move forward to
@@ -131,18 +131,18 @@ with a big first serve.
 **The Float Sequence**
 
 We see many variations in the rituals used to prepare for the return of
-serve. But the **[[common theme is that the weight is taken off the feet
-on the preparation to move.]{.underline}]{.mark}**
+serve. But the **common theme is that the weight is taken off the feet
+on the preparation to move.**
 
 The pattern of the feet is essentially the same as with the
 groundstrokes and the volleys.
 
-**[[Your knees flex slightly, and your weight comes forward more over
-the balls of your feet.]{.underline}]{.mark}**
+**Your knees flex slightly, and your weight comes forward more over
+the balls of your feet.**
 
-**[[Again, this unweighting allows for a quick push or thrust with the
+**Again, this unweighting allows for a quick push or thrust with the
 foot away from the ball, as we step with our Outside Foot toward the
-ball]{.underline}]{.mark}**
+ball**
 
 ![A picture containing tree, outdoor, person, purple Description
 automatically

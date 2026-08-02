@@ -112,10 +112,10 @@ confidence](media_the-ladder-of-gain/media/image4.jpg)
 faster than you. Progression is personal and quick progress does not
 mean it will continue at the same rate.]{.mark}]{.underline}**
 
-**[[The rare exceptional talent who may reach dizzy heights quickly only
+**The rare exceptional talent who may reach dizzy heights quickly only
 to slow near the top is not your concern. Your target is not other
 people. Your target is the next rung on your
-ladder.]{.underline}]{.mark}** Whether your goal is to be number one in
+ladder.** Whether your goal is to be number one in
 the world or your club champion, it is your ladder to climb. You climb
 poorly when you do not concentrate fully on your own ladder and gain a
 good rhythm, whether it is with the speed of a tortoise or a hare.
@@ -124,13 +124,13 @@ Wind and rain will slow you down and make certain times miserable, cold,
 lonely and the slippery ladder can be scary as hell but persevere
 because the sun always returns.
 
-**[[Success can also cause fear of heights to kick in. 200 meters up can
+**Success can also cause fear of heights to kick in. 200 meters up can
 be very uncomfortable especially when you look down. It can be a lonely
 place because you know few people and of the people around you might
 seem unfriendly, seemingly wary of you, the new guy or girl gate
-crashing their party.]{.underline}]{.mark}** **[[They will test your
+crashing their party.** **They will test your
 resolve to stay with them. Again, the best answer is to work hard and
-keep focused on your climb.]{.underline}]{.mark}**
+keep focused on your climb.**
 
 **[[The higher you get the greater the choice of frequency and with this
 comes the responsibility to choose widely. Who do you tune
@@ -149,11 +149,11 @@ your potential: that the target is to high or that it's only other
 people with incredible luck or more talent who can climb to the
 top.]{.mark}]{.underline}**
 
-**[[There are many who deliberately or inadvertently weaken your resolve
+**There are many who deliberately or inadvertently weaken your resolve
 by highlighting all the reasons why you can't make
-it.]{.underline}]{.mark}** **[[Avoid anyone who encourages you to stop,
+it.** **Avoid anyone who encourages you to stop,
 to enjoy the view, to forget about the next platform up or tries to
-limit you to the level of their own ambition.]{.underline}]{.mark}**
+limit you to the level of their own ambition.**
 
 The person can be close to you such as a girlfriend, boyfriend, or
 significant other who have different reasons to stop you such as
@@ -177,13 +177,13 @@ generated](media_the-ladder-of-gain/media/image6.jpg)
 
 **A dominant force can be weakened by disruptions in private life.**
 
-**[[After significant success a real danger are the sycophants, people
+**After significant success a real danger are the sycophants, people
 who tell you that you have made it, that the rest of the climb will be
 easy, that you can do other things and that your current support team
 may not appreciate the depth of your talent. They suggest changes by
 implying that although they have done a great job, you have outgrown
 their abilities. The underlying message is that they are in the know and
-can guide you to the big time with inner secrets.]{.underline}]{.mark}**
+can guide you to the big time with inner secrets.**
 
 **[[A worse situation is if the team around you becomes intoxicated by
 the heights and join in the self-congratulations and distractions, no

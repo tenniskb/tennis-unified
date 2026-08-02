@@ -34,15 +34,15 @@ generated](media_return-plan/media/image2.webp)
 **The Need for the Plan**
 
 The fact is that you need a solid plan for your return before the start
-of each point. **[[You need to know in advance what you intend to do on
-the return.]{.underline}]{.mark}** This will eliminate split second
+of each point. **You need to know in advance what you intend to do on
+the return.** This will eliminate split second
 decision-making, take some of the pressure off, and help you execute
 more consistently.
 
 You can never be certain whether the serve will be to your forehand or
 backhand side. The best you can do is anticipate and sometimes influence
-the server's action. **[[But you do have the opportunity before every
-point to decide exactly what you are going to do.]{.underline}]{.mark}**
+the server's action. **But you do have the opportunity before every
+point to decide exactly what you are going to do.**
 
 Great returners have many factors to consider as part of their pre-point
 routine.
@@ -82,9 +82,9 @@ return strategy.
 
 **Block, Chip or Drive?**
 
-**[[Will I block, chip or drive the return? When the serve has
+**Will I block, chip or drive the return? When the serve has
 overwhelming power, block and chip returns are the most effective tools
-for your counter attack.]{.underline}]{.mark}**
+for your counter attack.**
 
 - **[Hitting flatter drive returns on the rise requires great
   timing.]{.mark}**
@@ -92,8 +92,8 @@ for your counter attack.]{.underline}]{.mark}**
 - **[Top spin drives take longer to execute but can be very effective in
   the right circumstances.]{.mark}**
 
-**[[You should decide what type of return you want to hit in advance of
-the serve.]{.underline}]{.mark}** This is largely determined by factors
+**You should decide what type of return you want to hit in advance of
+the serve.** This is largely determined by factors
 we'll look at now.
 
 ![A person playing tennis Description automatically
@@ -107,15 +107,15 @@ generated](media_return-plan/media/image4.webp)
 but too many players don't really consider it and miss the same returns
 in the same way.
 
-**[[In a first serve situation, typically, you'll see a lot of hard
-flat first serves.]{.underline}]{.mark}** **[[Most players look to block
+**In a first serve situation, typically, you'll see a lot of hard
+flat first serves.** **Most players look to block
 and chip against first serves rather than trying to drive the return. In
 these cases, you must prepare mentally by thinking
-defense.]{.underline}]{.mark}**
+defense.**
 
-**[[You must adjust your return swings to become more like volleys than
+**You must adjust your return swings to become more like volleys than
 ground strokes, as we explained in the technique
-article]{.underline}]{.mark}** [Click Here](Return%20Technique.docx).
+article** [Click Here](Return%20Technique.docx).
 Yes Andre Agassi often steps in and absolutely cleans these serves on
 the rise. That's an advanced strategy and there is one way to know if
 it is effective for you. Can you execute it consistently?
@@ -126,24 +126,24 @@ confidence](media_return-plan/media/image5.webp)
 
 **One second serve option: run around and attack.**
 
-**[[In second serve situations, the pressure shifts from the returner to
-the server.]{.underline}]{.mark}** **[[Now the server has to make sure
+**In second serve situations, the pressure shifts from the returner to
+the server.** **Now the server has to make sure
 to get the ball in play. This allows you to become more aggressive with
-court position and shot selection.]{.underline}]{.mark}**
+court position and shot selection.**
 
 When we talk about the return of the second serve, we have to have an
 objective in mind. As the returner, you can expect to see mostly spin
-serves that target your weaker return side**[[. Take care not to give
+serves that target your weaker return side**. Take care not to give
 the point away by trying to do too much. You have to maintain your
 discipline to not over hit and make errors against weaker second
-balls.]{.underline}]{.mark}**
+balls.**
 
-**[[But if the ball is sitting there and it's a defensive serve, I want
-you to challenge the ball.]{.underline}]{.mark}** **[[In this situation,
-trying to take the ball earlier makes more sense.]{.underline}]{.mark}**
+**But if the ball is sitting there and it's a defensive serve, I want
+you to challenge the ball.** **In this situation,
+trying to take the ball earlier makes more sense.**
 
-**[[Another option is to attack the net off the
-return.]{.underline}]{.mark}** **[[Change your position; move forward;
+**Another option is to attack the net off the
+return.** **[[Change your position; move forward;
 chip and charge.]{.mark} [Or get around the ball the way so many top
 players now do and hit that inside-out forehand.]{.mark}]{.underline}**
 This part comes back to attitude. When you get the chance, I want you to
@@ -171,13 +171,13 @@ see it.
 
 **Two Shot Strategy**
 
-**[[When you can sense the serve and volley is coming, you should plan a
-two shot strategy.]{.underline}]{.mark}** **[[This means you use the
-return to set up the passing shot.]{.underline}]{.mark}** Don't think
+**When you can sense the serve and volley is coming, you should plan a
+two shot strategy.** **This means you use the
+return to set up the passing shot.** Don't think
 you have to execute the pass on the return. Take it when it comes to
 you, but don't force it. In many situations, the return can be part of
-a two ball or even a three ball combination. **[[Get the ball low at the
-server's feet.]{.underline}]{.mark}** You may be surprised how many
+a two ball or even a three ball combination. **Get the ball low at the
+server's feet.** You may be surprised how many
 times this is enough to draw a volley error. It may not seem glamorous
 compared to a 90mph return hit on the rise, but it is can be just as
 effective and is a much higher percentage play.
@@ -188,12 +188,12 @@ confidence](media_return-plan/media/image7.webp)
 
 **Get the return low and pass on the second ball.**
 
-**[[If the volleyer plays the ball off the low return, he must hit the
+**If the volleyer plays the ball off the low return, he must hit the
 ball up to get it over the net. This is likely to give you a far less
-difficult ball to hit for the pass]{.underline}]{.mark}**. **[[If you
+difficult ball to hit for the pass**. **If you
 feel pressure from the first volley, consider playing another low ball
 or a short wide ball and see if the next volley gives you the ball you
-want.]{.underline}]{.mark}**
+want.**
 
 **What Direction?**
 
@@ -203,12 +203,12 @@ to that decision. Against to **[a serve and volleyer, [going down to the
 feet is the primary target,]{.underline} [hitting either down the
 line]{.underline} or the [cross court angle.]{.underline}]{.mark}**
 
-**[[Playing baseliners, the direction of your return should be designed
+**Playing baseliners, the direction of your return should be designed
 to set up your preferred cross court rally
-pattern]{.underline}]{.mark}**.
+pattern**.
 
-**[[If you attack the net, then you will tend to hit more returns down
-the line,]{.underline}]{.mark}** although in the ad court you can
+**If you attack the net, then you will tend to hit more returns down
+the line,** although in the ad court you can
 sometime hit the inside out approach if the ball is near the middle of
 the service box.
 
@@ -216,9 +216,9 @@ the service box.
 
 Will I stay back or attack off the return? Against big servers, you'll
 find few opportunities to attack net in first serve situations. But
-***[[on the easier spin second serves, the chip and charge tactic is
+***on the easier spin second serves, the chip and charge tactic is
 very effective at applying pressure to the
-server.]{.underline}]{.mark}***
+server.***
 
 ![A picture containing sport, athletic game, tennis Description
 automatically
@@ -255,9 +255,9 @@ server. A second is starting position from left to right. Typically,
 your normal starting position for the return will be halfway between the
 most extreme serve placements either wide or down the T. We call this
 position \"neutral\" because you favor no one particular side and leave
-no major openings to attack. **[[But as the match progresses and you
+no major openings to attack. **But as the match progresses and you
 begin to see the server neglecting specific serve targets, you should
-adjust your court position to facilitate attack.]{.underline}]{.mark}**
+adjust your court position to facilitate attack.**
 
 If the server is constantly working the backhand side, then shift over a
 step or two towards the backhand side. This will improve your wide reach
@@ -284,16 +284,16 @@ confidence](media_return-plan/media/image10.webp)
 
 **Bait and Switch**
 
-**[[The bait and switch tactic involves using your court position to
+**The bait and switch tactic involves using your court position to
 create openings for the server, then taking the opening away before the
-server makes contact.]{.underline}]{.mark}**
+server makes contact.**
 
-**[[As the server steps up to the baseline, he'll usually look down to
-watch the bounce of the ball.]{.underline}]{.mark}** **[[Then he'll
+**As the server steps up to the baseline, he'll usually look down to
+watch the bounce of the ball.** **Then he'll
 look up to check the returner's position. The server will expect to see
 you in your normal starting position. If you change this position, a red
 flag goes up, and the server sees a possible opening to
-attack.]{.underline}]{.mark}**
+attack.**
 
 If you adjust your starting position to the left, for example, you are
 baiting him to serve to your right side. When you change your starting
@@ -302,15 +302,15 @@ server to overpower you. And when you move much further back from your
 normal neutral position, you challenge the server to go for the extreme
 angle placements.
 
-**[[Once the server sees you have changed position, you have baited the
-trap. There]{.underline}]{.mark}** **[[is a good chance the server will
+**Once the server sees you have changed position, you have baited the
+trap. There** **is a good chance the server will
 try to exploit this opening and/or teach you a lesson. That's where the
-switch comes in]{.underline}]{.mark}**. **[[The moment the server's
+switch comes in**. **The moment the server's
 eyes look up again to watch the toss, you can move back to your normal
 neutral position, with a good idea of where the serve is going. You're
 now in your normal return position no matter where the serve is placed.
 Used sparingly, the bait and switch will work effectively, so try it
-when you need it the most.]{.underline}]{.mark}**
+when you need it the most.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -324,17 +324,17 @@ eyes look up with the toss before you make your move.]{.mark} [Once the
 server's looking up, they are more focused on executing the serve and
 are unable to see you make your move.]{.mark}]{.underline}**
 
-**[[Your court position depth can also be used as one of the most
+**Your court position depth can also be used as one of the most
 effective tools to break down the serve and volley attack. If you always
 return from the same depth in the court, the serve and volleyer can more
 easily establish his movement pattern and timing for the split step and
-first volley.]{.underline}]{.mark}** **[[If you vary the depth of your
+first volley.** **If you vary the depth of your
 position on the return by moving forward or back a step or two, that
 will often be enough to disrupt the server's
-attack.]{.underline}]{.mark}** **[[Rather than thinking you should be
+attack.** **Rather than thinking you should be
 altering your strokes, change your position instead and you may find
 your opponent constantly searching for timing and
-rhythm.]{.underline}]{.mark}**
+rhythm.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -354,15 +354,15 @@ play, again hitting little or no spin.
 
 Since this strategy results in such a low first serve percentage, most
 of the points begin with a second serve. But occasionally these players
-will get a first serve in that will be difficult to deal with. **[[In
+will get a first serve in that will be difficult to deal with. **In
 those cases, the strategy should be just to neutralize the first serve
 by chipping or just blocking the ball. The second serve can actually be
 difficult to deal with because the change in speed is so great compared
 to the first ball. This is where an inexperienced player can donate a
 lot of points trying to hit big returns agains \"easy\"
-serves.]{.underline}]{.mark}**
+serves.**
 
-**[[Remember that generating your own pace on the return is actually
+**Remember that generating your own pace on the return is actually
 more difficult than taking it from the serve. You must establish a
 rhythm and often this means hitting the serve back at something close to
 the pace at which it came to you in order to make the server play. As
@@ -370,7 +370,7 @@ your rhythm solidifies and your confidence increases, now you can start
 to hit some approaches off the returns, or increase the pace. But don't
 turn the push second serve into a weapon for the server by making
 unforced errors because you think you should be able to blast the ball
-yourself.]{.underline}]{.mark}**
+yourself.**
 
 ![A person playing tennis Description automatically generated with
 medium

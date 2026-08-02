@@ -88,10 +88,10 @@ Eventually she came through to win the match.
 
 **Don't Rush**
 
-**[[When momentum is against you, it takes time to turn it around, so
+**When momentum is against you, it takes time to turn it around, so
 the longer you are on court the better. It is vital you take your time
 between points and don't allow yourself to be
-rushed.]{.underline}]{.mark}**
+rushed.**
 
 This is sometimes not so easy to do. The natural reaction to having
 things go against you, is to want to make them right quickly. However,
@@ -110,13 +110,13 @@ at a given moment in a given match.**
 
 **Check Your Body Language**
 
-**[[In wars, planes fly over the enemy dropping leaflets telling them
+**In wars, planes fly over the enemy dropping leaflets telling them
 bad news, for example that their supplies are running out, that their
 fellow soldiers have surrendered, that they should give up now before
 they are killed. Tennis is not war, but certainly you should not let
 your opponent know when you're not feeling as good as you would like.
 Don't drop your own leaflets or broadcast how you
-feel.]{.underline}]{.mark}**
+feel.**
 
 **Switch on the Radar**
 
@@ -295,8 +295,8 @@ renew your efforts quicker.
 
 **How to Create Turning Points**
 
-**[[As well as keeping the radar on to spot potential turning points,
-you should try to create turning points.]{.underline}]{.mark}** There
+**As well as keeping the radar on to spot potential turning points,
+you should try to create turning points.** There
 are many ways you can help create turning points in your favour through
 your own actions. Some of these are: Changing tactics. Not changing
 tactics. Winning the best rallies. Spotting patterns of play.

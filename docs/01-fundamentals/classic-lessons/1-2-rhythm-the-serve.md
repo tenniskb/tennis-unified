@@ -52,12 +52,12 @@ Players all have a ritualistic process they go through before they start
 the service motion, some more involved and complicated than others.
 Phase 1 begins after these rituals are complete.
 
-This is when the arms start to move. Usually this is **[[the movement of
-the arms slightly downward before breaking apart.]{.underline}]{.mark}**
-**[[The tossing arm then moves downward and backward and then moves
+This is when the arms start to move. Usually this is **the movement of
+the arms slightly downward before breaking apart.**
+**The tossing arm then moves downward and backward and then moves
 upward to make the actual toss, although the amount of downward and
 backward movement varies significantly with individual
-players.]{.underline}]{.mark}** \<**[A J-Curve or arc]{.underline}** \>
+players.** \<**[A J-Curve or arc]{.underline}** \>
 
 Meanwhile the racket windup begins. The shape of this windup or
 backswing can also vary tremendous, from some variation of a
@@ -67,9 +67,9 @@ of the hand and racket is actually upward.
 What ties all these variations together is the smooth and deliberate
 feeling of the motion, the essence of Phase 1. This feeling applies to
 the ball toss motion, in which the arm drops and then extends slowly and
-evenly. **[[The release of the ball causes virtually no disruption to
+evenly. **The release of the ball causes virtually no disruption to
 the speed of the tossing arm as the ball departs from the
-fingers]{.underline}]{.mark}.**
+fingers.**
 
 This slow and deliberate feeling also applies to the windup.
 Quantitative studies show that there is very little acceleration of the
@@ -89,9 +89,9 @@ juniors at the end of Phase 1.**
 
 **[It might seem logical that the transition between Phase 1 and Phase 2
 [happens at the trophy position,]{.underline} since so much is made of
-it in coaching and teaching.]{.mark}** **[[In reality the true
+it in coaching and teaching.]{.mark}** **In reality the true
 initiation of Phase 2 is the leg drive, synchronized with the extension
-of the tossing arm.]{.underline}]{.mark}**
+of the tossing arm.**
 
 High speed video shows the trophy position for different players simply
 does not correspond with the explosive start of Phase 2. The variations
@@ -106,8 +106,8 @@ generated](media_1-2-rhythm-the-serve/media/image4.webp)
 **Despite the Phase 1 differences, the timing of the explosive Phase 2
 is the same.**
 
-**[[What does correspond is the extension of the tossing
-arm.]{.underline}]{.mark}** Different players extend their tossing arms
+**What does correspond is the extension of the tossing
+arm.** Different players extend their tossing arms
 more and less directly upward\--or even slightly backward. Whatever
 these variations, the two checkpoints are synched at the beginning of
 Phase 2. That may seem surprising, but we can see this clearly if we
@@ -135,8 +135,8 @@ Andy's are famously to his right side. Pete is closer to the trophy
 position but not quite there. And Federer is a little closer than Pete,
 but still shy of the classic trophy position.
 
-**[[Now look at the timing of Phase 2. Watch the legs uncoil and
-explode.]{.underline}]{.mark}** The timing to the contact is identical
+**Now look at the timing of Phase 2. Watch the legs uncoil and
+explode.** The timing to the contact is identical
 for all three players. How long? A little more than a third of a second,
 or .36 seconds to be exact.
 
@@ -144,18 +144,18 @@ Clearly Phase 2 is what initiates the energy transfer that creates
 massive racket acceleration, power, and spin. And these three great
 players are all timing it indentically.
 
-**[[As the legs drive up and forwards, the body is also
-rotating.]{.underline}]{.mark}** **[[The racket builds speed as it moves
+**As the legs drive up and forwards, the body is also
+rotating.** **The racket builds speed as it moves
 into the drop position, and then accelerates dramatically up to the
-contact point.]{.underline}]{.mark}** **[[The leg drive pushes both feet
+contact point.** **[[The leg drive pushes both feet
 off the ground, and the players land with the front foot inside the
 baseline.]{.mark}]{.underline}**
 
 This transition point and the following explosion are key for players at
 all levels to master 1-2 Rhythm. So find your own transition point.
 
-**[[Feel the deliberate slow windup and the drop of your weight in your
-knee bend.]{.underline}]{.mark}** **[[Find the same feeling in the toss
+**Feel the deliberate slow windup and the drop of your weight in your
+knee bend.** **[[Find the same feeling in the toss
 and the extension point of your tossing motion.]{.mark}]{.underline}
 Learn to make these checkpoints correspond.** **[Now
 explode!]{.underline}** Of course, you want to make sure your other key
@@ -176,17 +176,17 @@ generated](media_1-2-rhythm-the-serve/media/image5.webp)
 **The distinction between the phases is identical for the second
 serve.**
 
-**[[There is no major difference regarding how 1-2 rhythm operates
-between the 1st serve and the 2nd serve,]{.underline}]{.mark}** **[[or
+**There is no major difference regarding how 1-2 rhythm operates
+between the 1st serve and the 2nd serve,** **or
 indeed between how it operates between flat, slice, or topspin
-serves]{.underline}]{.mark}**. The swing path from racket drop through
+serves**. The swing path from racket drop through
 contact point will vary depending on the type of serve the player is
 attempting, but the 1-2 Rhythm will remain the same, as does its
 function to create power and/or spin on the serve in a reliable and
 efficient manner.
 
-**[[Remember, 1-2 rhythm is founded on a relaxed body and hitting
-arm]{.underline}]{.mark}**. Development should be through the use of the
+**Remember, 1-2 rhythm is founded on a relaxed body and hitting
+arm**. Development should be through the use of the
 descriptive terms highlighted at the start of the article, feeling the
 set-up phase is smooth and deliberate, and then the feeling of energy
 and explosiveness that is associated with part 2.

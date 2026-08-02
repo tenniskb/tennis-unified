@@ -63,8 +63,8 @@ percentage of first serves in, and you follow the principles of the
 system regarding your volleys, there's nothing stopping you from serve
 and volleying effectively, regardless of your level.
 
-**[[There are some common fears, misnomers and myths about serve and
-volley. Some players say their serve is too weak.]{.underline}]{.mark}**
+**There are some common fears, misnomers and myths about serve and
+volley. Some players say their serve is too weak.**
 
 **[[You don't need a big serve. You need to develop a reliable spin
 serve for doubles, something virtually everyone can

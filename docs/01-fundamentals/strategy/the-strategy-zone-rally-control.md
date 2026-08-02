@@ -22,10 +22,10 @@ As the first article explains, winning strategic tennis can be broken
 down into 3 parts or phases: Control, Hurt, and Finish.
 
 In this article, let's look more closely at Control, which is the first
-phase or building block in our system. **[[\"Control\" means taking
+phase or building block in our system. **\"Control\" means taking
 charge of the point. Control is about stretching out the
-court.]{.underline}]{.mark}** **[[Control is your ability to stretch
-your opponent and knock them off balance.]{.underline}]{.mark}** Your
+court.** **Control is your ability to stretch
+your opponent and knock them off balance.** Your
 goal is to exert a dominating influence over your opponent, setting the
 stage to execute the next two phases, Hurt and Finish.
 
@@ -40,7 +40,7 @@ progressive steps and give you dozens of detailed drills you need to
 develop each aspect of the Control Shots. ([Click
 Here](http://www.oncourtoffcourt.com/strategy-zone-6-specialized-dvd-set.html).)
 
-**[[4 Basic Shots]{.underline}]{.mark}**
+**4 Basic Shots**
 
 There are 4 basic shots you need to develop to take control during
 rallies. These are: Flat Drives to the corners, Off Speed Angles, High
@@ -59,44 +59,44 @@ combinations to win points.
 
 In the first article we talked about how Andre Agassi liked to run his
 opponents from \"Bradenton to Vegas.\" Andre did this in part by
-**[[hitting flat drives corner to corner.]{.underline}]{.mark}**
+**hitting flat drives corner to corner.**
 
 ![A picture containing match Description automatically
 generated](media_the-strategy-zone-rally-control/media/image2.webp)
 
 **Maria Sharapova dominates with flat drives creating easy winners.**
 
-Another great example is Maria Sharapova. Watch in the animation **[[how
+Another great example is Maria Sharapova. Watch in the animation **how
 she works the corners, hitting both crosscourt and down the line.
 Inevitably, these deep drives produce errors, or short balls which Maria
-can then hit into the open court for winners.]{.underline}]{.mark}**
+can then hit into the open court for winners.**
 
 Notice in the animation that the finishing shot does not have to be a
-spectacular \"highlight\" winner. In fact, the opposite. **[[If the
+spectacular \"highlight\" winner. In fact, the opposite. **If the
 player controls the corners, the final shot is often a relatively easy
 drive into the open court. That is percentage tennis: winners set up by
-groundstroke control.]{.underline}]{.mark}**
+groundstroke control.**
 
 It's one thing to point out what Andre and Maria do and say to other
-players \"**[[control the point with flat drives to the
-corners.\"]{.underline}]{.mark}** But few players below the highest
-level of the game possess the basic skills to do so. **[[At the
+players \"**control the point with flat drives to the
+corners.\"** But few players below the highest
+level of the game possess the basic skills to do so. **At the
 recreational level especially too many players focus on trying to hit
 the ball hard instead of hitting the ball
-accurately.]{.underline}]{.mark}**
+accurately.**
 
-You may think you have a great forehand, or a great backhand. **[[But do
+You may think you have a great forehand, or a great backhand. **But do
 you actually have the ability to establish rally
-control?]{.underline}]{.mark}**
+control?**
 
 At the Academy we do a simple test. Can the player routinely hit the
 ball deep to the corners in a fed ball drill? How many crosscourt
 forehands out of 5 or 10 can you hit to the target area? Down the line?
 Inside out? What about backhands?
 
-**[[Then if the player can hit these shots in fed ball drill, can he or
+**Then if the player can hit these shots in fed ball drill, can he or
 she replicate the same level of control in a live ball
-rally?]{.underline}]{.mark}** The truth is very few players can do this
+rally?** The truth is very few players can do this
 consistently in a basic fed ball drill. And that percentage is much
 lower in a live ball rally. But it is also true that with the right
 drills and the right amount of work, players at all levels are capable
@@ -125,10 +125,10 @@ court.**
 **Off Speed Angles**
 
 **The second shot we stress at the Academy to develop rally control is
-the off speed spin angle. [[With this shot you pull the opponent forward
+the off speed spin angle. With this shot you pull the opponent forward
 and wide, opening the court. You also create the possibility of wrong
 footing your opponent by hitting behind him as he scrambles to
-recover.]{.underline}]{.mark}**
+recover.**
 
 We think of pro tennis as a power baseline game, but some of the
 greatest baseliners in the history of the game used angle shots to
@@ -136,23 +136,23 @@ deadly effect, including two of my most famous former students Monica
 Seles and Andre Agassi. Why were they so effective? Because they did
 short angle drills in practice every single day.
 
-**[[An effective off speed angle should bounce inside the service line
+**An effective off speed angle should bounce inside the service line
 and then run off the court crossing the doubles alley
-sideline.]{.underline}]{.mark}** **[[These angles can be hit relatively
+sideline.** **These angles can be hit relatively
 flat, or higher with a more looping arc and more spin, what we call \"a
-little roller.\"]{.underline}]{.mark}**
+little roller.\"**
 
-**[[When the ball is lower, you can hit these angles with a neutral or
+**When the ball is lower, you can hit these angles with a neutral or
 semi-open stance. When the ball is higher, you should open your stance
-accordingly.]{.underline}]{.mark}** **[[To become a complete player,
+accordingly.** **To become a complete player,
 develop all the varieties of the short angle shot on both the forehand
 and backhand side. You should also be able to hit the same shots from an
-inside out position.]{.underline}]{.mark}**
+inside out position.**
 
-**[[In each case you want to visualize the path of the shot and the
+**In each case you want to visualize the path of the shot and the
 target area, and accelerate the racket head to generate enough spin to
 control the shot and bring it down into the
-court.]{.underline}]{.mark}**
+court.**
 
 Watch in the animation how the player works to hit the ball consistently
 into the target area. As with the drives to the corner, you need to
@@ -167,11 +167,11 @@ confidence](media_the-strategy-zone-rally-control/media/image5.webp)
 
 **High Deep Loops**
 
-**[[The third rally control shot is the high, deep loop, a shot mastered
+**The third rally control shot is the high, deep loop, a shot mastered
 by Rafael Nadal. Typically hit with heavy topspin, the deep loop drives
-your opponent back.]{.underline}]{.mark}** **[[The goal is to make him
+your opponent back.** **The goal is to make him
 play a heavy ball from above his shoulder, usually from a position that
-is deep in the court.]{.underline}]{.mark}**
+is deep in the court.**
 
 **[[High looping balls put your opponent on the defensive and often
 generate short replies that you can then attack.]{.mark} [There is also
@@ -179,20 +179,20 @@ a mental component to the shot, because the deep loop often frustrates
 the opponent, reducing his will to fight and forcing him into
 errors.]{.mark}]{.underline}**
 
-**[[To be a complete player, you should be able to hit the high deep
+**To be a complete player, you should be able to hit the high deep
 loop both crosscourt and down the line, and to do so off both your
-forehand and backhand.]{.underline}]{.mark}** From the inside position,
+forehand and backhand.** From the inside position,
 you must also be able to loop inside out and inside in. **[[Hit with a
 high arc, the deep loop should travel 10 feet or more above the
 opponent's service line.]{.mark} [As with the other basic control
 shots, it is important to visualize the path of the shot and the target
 area to develop confidence and accuracy.]{.mark}]{.underline}**
 
-**[[As with the flat drives, and the short angles, the deep loop is a
+**As with the flat drives, and the short angles, the deep loop is a
 shot that can be used in combination, but first must be developed to a
 point of consistency in fed ball and live ball drilling. Again, you
 should test both your forehand and backhand side, and also playing
-inside out.]{.underline}]{.mark}**
+inside out.**
 
 Can you consistently hit the deep loop to both corners? How many balls
 can you hit to the target area out of 5 or out of 10? Start in fed ball
@@ -208,26 +208,26 @@ confidence](media_the-strategy-zone-rally-control/media/image6.webp)
 
 **Drop Shot**
 
-**[[The final basic shot in developing your ability to control points is
-the drop shot.]{.underline}]{.mark}** **[[In pro tennis, the top players
+**The final basic shot in developing your ability to control points is
+the drop shot.** **[[In pro tennis, the top players
 use the drop shot when opponents are out of position bringing them
 forward and/or wide. This]{.mark} [opens the court for both the pass and
-the lob.]{.mark}]{.underline}** **[[Another important option is to hit
+the lob.]{.mark}]{.underline}** **Another important option is to hit
 the drop shot and come forward, cutting off the opponent's angles and
 hitting the reply as a volley into the open
-court.]{.underline}]{.mark}**
+court.**
 
 **[[Below the pro level, a well executed drop shot is probably even more
 effective. When players stay behind the baseline and take pace off, the
 drop shot gets them out of their comfort zone and forces them to come
 forward.]{.mark}]{.underline}**
 
-**[[Against a pushing style of baseline player, it is one of the best
+**Against a pushing style of baseline player, it is one of the best
 ways to create openings for winners by hitting passing shots or lobs,
 without risking errors from overhitting against slow moon
-balls.]{.underline}]{.mark}** **[[In addition, it can also force errors
+balls.** **In addition, it can also force errors
 at the net from baseliners who are not comfortable in the front half of
-the court.]{.underline}]{.mark}**
+the court.**
 
 Work on your drop shot in fed ball drill first. Your goal should be to
 hit the shot aggressively with underspin so that it bounces twice or

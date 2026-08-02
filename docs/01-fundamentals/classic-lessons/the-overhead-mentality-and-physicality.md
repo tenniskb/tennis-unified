@@ -26,8 +26,8 @@ generated](media_the-overhead-mentality-and-physicality/media/image1.webp)
 **Developing a deadly overhead is more important than ever---at all
 levels.**
 
-**[[The antidote to baseline play is attack, and the overhead is an acid
-test for an attacking player.]{.underline}]{.mark}** I believe in
+**The antidote to baseline play is attack, and the overhead is an acid
+test for an attacking player.** I believe in
 integrating serve and volley at all levels. ([Click
 Here](https://www.tennisplayer.net/members/strategy/kyle_lacroix/serve_and_volley_summary/)
 for the summary article Kyle's series.) A great overhead is integral in
@@ -104,10 +104,10 @@ confidence](media_the-overhead-mentality-and-physicality/media/image4.webp)
 **Do you necessarily need an explosive scissor kick overhead to hit the
 right shot?**
 
-Watching great players, you'll see **[[an immediate reaction to the
+Watching great players, you'll see **an immediate reaction to the
 ball and the start of a unitary turn with the body and
-feet,]{.underline}]{.mark}** **[[followed by shuffle or cross-over
-steps]{.underline}]{.mark}**. Most lower level players have an
+feet,** **followed by shuffle or cross-over
+steps**. Most lower level players have an
 insufficient body turn and can only backpedal with the torso facing the
 net.
 
@@ -143,9 +143,9 @@ and off the back foot. But that doesn't mean hitting an explosive
 100mph scissor kick winner if you don't have the athleticism or the
 confidence.
 
-**[[So you need to recognize that your overhead needs to have both
+**So you need to recognize that your overhead needs to have both
 offensive and defensive aspects, relative to your
-ability.]{.underline}]{.mark}** This doesn't undermine my point about
+ability.** This doesn't undermine my point about
 total belief by the way.
 
 In fact the opposite. Understanding the distinction should give you more
@@ -208,8 +208,8 @@ confidence](media_the-overhead-mentality-and-physicality/media/image7.webp)
 **Bouncing the ball is sound strategy on super high balls or in windy
 conditions---but position and step in.**
 
-**[[No matter how good your overhead, never take it for granted that it
-can't come back.]{.underline}]{.mark}** And realize that if it does
+**No matter how good your overhead, never take it for granted that it
+can't come back.** And realize that if it does
 come back, it will happen fast. A winning return off your overhead can
 be a huge momentum shift and a blow to your confidence. Don't let that
 happen.

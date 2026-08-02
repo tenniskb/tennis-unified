@@ -170,9 +170,9 @@ technology which records at 125 frames/second.]{.mark}** For real time
 analysis this system offers by far the best current application in terms
 of speed and ease of use.
 
-**[[Magnetic sensor technology requires that the players wear sensors
+**Magnetic sensor technology requires that the players wear sensors
 which are attached to computers through a series of
-cables.]{.underline}]{.mark}** The system is somewhat restrictive since
+cables.** The system is somewhat restrictive since
 it won't allow for actual point play or movement for full court
 coverage. However most players adapt to the system and are able to
 reproduce their natural strokes relatively easily in a short period. The

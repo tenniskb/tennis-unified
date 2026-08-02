@@ -166,9 +166,9 @@ straight out to the net. As we initiate the stroke the butt cap and
 ulnar styloid lead the process and we began to externally rotate the
 shoulder.
 
-**[[Look in the animation and the arm and forearm. The ulnar styloid is
+**Look in the animation and the arm and forearm. The ulnar styloid is
 pointing to the sky. Again, visualizing this
-image]{.underline}]{.mark}** **[[is a great key to insure full external
+image** **[[is a great key to insure full external
 rotation.]{.mark}]{.underline}**
 
 ![A person holding a tennis racket Description automatically

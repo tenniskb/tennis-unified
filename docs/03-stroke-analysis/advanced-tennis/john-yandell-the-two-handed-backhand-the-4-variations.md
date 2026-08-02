@@ -448,10 +448,10 @@ What I wanted to do was grab my video camera, run down there and film
 the guy and then experiment with the Bent/Straight variation I'd
 discovered. I would've bet 100 bucks he could have transformed the
 shot. That kind of situation repeats itself thousands of times all over
-the country and around the world, and I think that's tough. ***[[It's
+the country and around the world, and I think that's tough. ***It's
 tough for tennis, because despite the best efforts and intentions of
 hard working players and coaches, real improvement proves difficult and
-elusive]{.underline}]{.mark}***. The game is just too difficult and
+elusive***. The game is just too difficult and
 technically demanding to be taught without using video analysis. Inch by
 inch, we're going in that direction.
 

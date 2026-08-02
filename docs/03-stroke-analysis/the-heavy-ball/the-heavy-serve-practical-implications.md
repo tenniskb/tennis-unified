@@ -83,9 +83,9 @@ generated](media_the-heavy-serve-practical-implications/media/image5.webp)
 
 **Does the Magic Combination Exist?**
 
-**[[So for Pete the magic combination was keeping the velocity at
+**So for Pete the magic combination was keeping the velocity at
 115mpm-125mph while hitting up more to generate a higher topspin
-component.]{.underline}]{.mark}**
+component.**
 
 This allowed him to hurt his opponents with sheer speed and hit his fair
 share of aces. But it also gave him the ability to generate large
@@ -109,9 +109,9 @@ But let's be realistic. When it comes to your serve, the question
 isn't what worked for Pete. If you could match his speed/spin numbers,
 you wouldn't really need to read this article, now would you?
 
-**[[The real question is what combination of speed, slice, and topspin
+**The real question is what combination of speed, slice, and topspin
 is going to make your serve as effective as possible for you, at your
-level of play.]{.underline}]{.mark}**
+level of play.**
 
 And I think there are a number of possible answers. Because the
 so-called \"heavy ball\" is a mix of speed and spin, it's a relative
@@ -143,10 +143,10 @@ ball position allowed Pete to direct some of that energy into topspin.
 
 **Ball Position and Weight**
 
-**[[Now there is no doubt that moving the toss to the left will help any
-player create more topspin.]{.underline}]{.mark}** **[[The question
+**Now there is no doubt that moving the toss to the left will help any
+player create more topspin.** **The question
 though is will this make a given serve
-\"heavier\"?]{.underline}]{.mark}** **[[It may make it bounce higher,
+\"heavier\"?** **[[It may make it bounce higher,
 but how does it affect the other key component which is the
 velocity?]{.mark} [A heavy ball is fast with heavy spin.]{.mark} [You
 need them both.]{.mark}]{.underline}** But \"fast\" and \"heavy spin\"
@@ -205,12 +205,12 @@ confidence](media_the-heavy-serve-practical-implications/media/image8.webp)
 
 **What really happens when you move the ball left to add spin?**
 
-**[[This is exactly the same trade off faced by players at every
+**This is exactly the same trade off faced by players at every
 level\--from the tour all the way down to the club player. What happens
 when you add topspin and reduce speed? Does that it make your serve
 easier or more difficult to return? That's probably the real definition
 of \"heaviness\". Does the ball feel nasty and uncomfortable for the
-opponent at the other end of the court.]{.underline}]{.mark}**
+opponent at the other end of the court.**
 
 **What About Lower Levels?**
 
@@ -223,9 +223,9 @@ especially in senior tennis. And if he got a hard relatively flat serve
 down the line in the ad court. But only if he could get the ball at
 about waist level.
 
-**[[Once I noticed this, I started pulling my toss a little more to the
+**Once I noticed this, I started pulling my toss a little more to the
 left and hitting \"heavier\" spin serves to his backhand on literally
-every point.]{.underline}]{.mark}** The ball wasn't that fast, but it
+every point.** The ball wasn't that fast, but it
 would get up to his around shoulder. He would try to come over it, but
 he couldn't control the ball. It was amazing to witness, because Bruce
 missed virtually every backhand return. I mean he got 5 or 6 returns in
@@ -310,9 +310,9 @@ confidence](media_the-heavy-serve-practical-implications/media/image11.webp)
 
 **One Pro Element**
 
-**[[So if there is one thing we all can definitely model from the pros
+**So if there is one thing we all can definitely model from the pros
 it is hitting all the serve variations with basically the same motion
-and the same toss.]{.underline}]{.mark}** Being a complete player means
+and the same toss.** Being a complete player means
 being able to go down the middle and wide off the same toss, and to vary
 the amount of spin as much as possible as well. Watch the incredible
 Sampras animation as he hits a serve down the middle and then wide in

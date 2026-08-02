@@ -315,10 +315,10 @@ players. Grosjean and Nadal are at opposite ends of the range of
 physical types in the modern game. They use the same grip and similar
 swings, but not necessarily the same way on similar balls.
 
-***[[In general though we can see that the more underneath the grip
+***In general though we can see that the more underneath the grip
 goes, the more natural the players are with very high balls, the more
 they rely on hand rotation, the further they tend to play back, and the
-less comfortable they are with netural stances.]{.underline}]{.mark}***
+less comfortable they are with netural stances.***
 
 It's not possible to say that a given pro player would necessarily do
 better with a different grip style. Eventually quantitative analysis may

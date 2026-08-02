@@ -11,8 +11,8 @@ confidence](media_swinging-volleys-the-new-future-of-attacking-tennis/media/imag
 **Is the serve and swinging volley game the future of attacking
 tennis\--or is that crazy?**
 
-**[[The modern pro era is dominated by huge serves and heavy, high
-velocity groundstrokes]{.underline}]{.mark}**. Although the statistics
+**The modern pro era is dominated by huge serves and heavy, high
+velocity groundstrokes**. Although the statistics
 show that players can still win points when they go to the net, the
 serve and volley game seems effectively dead. By that I mean pure all
 the time serve and volley, coming in behind every first serve and even
@@ -31,7 +31,7 @@ either.]{.mark}**
 
 **What?**
 
-**[[What am I talking about? The swinging volley]{.underline}]{.mark}**.
+**What am I talking about? The swinging volley**.
 Yes we all know it exists. We see it in women's tennis. We see it in
 men's tennis. If you pay attention, you have also seen Andy Murray,
 Novak Djokovic, Serena Williams, and Roger Federer, among others, play
@@ -141,10 +141,10 @@ swing.]{.mark}]{.underline}**
 
 [**[Swing is a key word here]{.underline}**. **[In today's game, the
 swinging volley is essentially the same technical motion as a
-groundstroke.]{.underline}**]{.mark} **[[A swinging volley can also be
+groundstroke.]{.underline}**]{.mark} **A swinging volley can also be
 hit from 10 feet inside the baseline or more. This is a position where
 groundstrokes are regularly hit for clean winners. And you just can't
-do that in most cases with conventional volleys.]{.underline}]{.mark}**
+do that in most cases with conventional volleys.**
 
 **More Data**
 

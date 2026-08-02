@@ -371,9 +371,9 @@ to deflect. But let this happen naturally if at all. The underspin is
 coming from the swing plane and the angle of the racket face at
 contact.]{.mark}**
 
-So there we have the elements in the basic backhand volley. **[[The
+So there we have the elements in the basic backhand volley. **The
 foundation is understanding how to set up and move the hitting arm
-through the shot as a unit.]{.underline}]{.mark}** It may be hard to see
+through the shot as a unit.** It may be hard to see
 in the high speed footage, but this element there in every pro backhand
 volley in our archive. Once you develop your own feel for it, you'll
 know exactly why that is.

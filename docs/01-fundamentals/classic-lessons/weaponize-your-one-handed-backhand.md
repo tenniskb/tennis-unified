@@ -208,8 +208,8 @@ generated](media_weaponize-your-one-handed-backhand/media/image10.webp)
 line with the whole arm. If the elbow is bent, not as much force is
 applied to the shot.]{.mark}]{.underline}**
 
-**[[A bent elbow means the pathway to contact is shorter and the impact
-is softer.]{.underline}]{.mark}** **[[With the radical hip rotation this
+**A bent elbow means the pathway to contact is shorter and the impact
+is softer.** **[[With the radical hip rotation this
 can mean late contact and is the kiss of death in generating a heavy
 ball and shot accuracy.]{.mark}]{.underline}**
 
@@ -302,8 +302,8 @@ generated](media_weaponize-your-one-handed-backhand/media/image13.webp)
 
 **Common Mistakes**
 
-**[[The number one most common mistake is not to
-coil.]{.underline}]{.mark}** Not taking your frame backwards with the
+**The number one most common mistake is not to
+coil.** Not taking your frame backwards with the
 non dominant arm or leaving the non dominant hand at the throat at take
 back. Not coiling your rear shoulder back, not lining up your hips with
 the doubles alley, not closing off your stance with an attacking hitting
@@ -437,9 +437,9 @@ opening up fast, that all comes together when the ball arrives at the
 right point. There is often a feeling \"waiting\" for this to happen,
 but in a very fluid, fast way.]{.mark}]{.underline}**
 
-**[[The faster you can arrive at the point where you are ready to strike
+**The faster you can arrive at the point where you are ready to strike
 from a big coil, the better shot you will be able to
-hit.]{.underline}]{.mark}** That's why the best players always seem to
+hit.** That's why the best players always seem to
 have so much time. And then, in emergency situations, they are so used
 to uncoiling very fast that they are able to handle it better.
 

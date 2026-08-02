@@ -19,9 +19,9 @@ stuck into those marginal gains, and learn how to boost your chances a
 crucial few percent in all the main scenarios you will face during
 competitive matches.
 
-**[[The outcome of a point is not something you can ever control. Your
+**The outcome of a point is not something you can ever control. Your
 chances of winning any single tennis point will always be less than
-100%.]{.underline}]{.mark}** When returning first serves, they will be
+100%.** When returning first serves, they will be
 lowest. They improve when you get to return second serves and improve
 again when you successfully make your first serve.
 
@@ -49,18 +49,18 @@ If you have a serve like John Isner, or a dominant serve at your level,
 the task is much easier. But we know that kind of dominance is rare. So
 how do you use your first serve regardless of level?
 
-**[[Where you aim that serve is the biggest factor, though as we will
+**Where you aim that serve is the biggest factor, though as we will
 see, it's not only about targeting your opponent's weaker
-side.]{.underline}]{.mark}** This seemingly obvious tactic can be a huge
+side.** This seemingly obvious tactic can be a huge
 source of cheap points, or at least points that leave you in charge of
 the rally, but I'm continually amazed how often I see even quite
 experienced players failing to capitalise on this.
 
 If you know your opponent in advance, you should have a good idea which
 is their weaker side. If not, then this information is something you
-will want to gain as early as you can in the match. **[[Warm-ups can
+will want to gain as early as you can in the match. **Warm-ups can
 often be deceiving, so while they are useful, you must wait to see what
-happens when the match starts.]{.underline}]{.mark}**
+happens when the match starts.**
 
 In the warm-up against someone I've never played before, I will look at
 their technique. Which side looks more natural and easy for the player
@@ -87,12 +87,12 @@ focus on their weaker side a lot more often. If the difference is
 marginal, then there won't be the need to be quite so predictable in
 where you aim your first serve.
 
-**[[But a very important point to mention here: if a tactic is working,
+**But a very important point to mention here: if a tactic is working,
 it really doesn't matter how predictable you are with using
-it.]{.underline}]{.mark}** **[[Your opponent may know exactly where you
+it.** **Your opponent may know exactly where you
 will serve the ball, but if your chances to win the point are still
 higher by doing so, then what reason is there to change things
-up?]{.underline}]{.mark}**
+up?**
 
 How about if your opponent doesn't seem to be weak on either side?
 There are 2 things to consider in this scenario. First, which side are
@@ -197,9 +197,9 @@ confidence](media_increasing-your-chances-of-winning-points-on-serve/media/image
 **If your opponent is hurting you off your second serve, one goal is to
 get the point started with a neutral rally.**
 
-**[[If it's a damage limitation exercise, then there are a few things
+**If it's a damage limitation exercise, then there are a few things
 you can do. Top priority is a well-timed split step from your
-opponent's return.]{.underline}]{.mark}** I've touched on the fact the
+opponent's return.** I've touched on the fact the
 service action often takes a fraction longer to recover balance from,
 and this can lead to picking up the ball from your opponents return
 slightly late, and also doing your split step slightly late. **[[As soon
@@ -262,9 +262,9 @@ generated](media_increasing-your-chances-of-winning-points-on-serve/media/image8
 **Don't be afraid to mix in some serve and volley as a surprise tactic
 on either first or second serve.**
 
-**[[If you're brave enough, it can be a great way to save a break
+**If you're brave enough, it can be a great way to save a break
 point, or to finally win a game point in one of those never-ending deuce
-games!]{.underline}]{.mark}**
+games!**
 
 **[[The ability to hit a good kick serve can make this play even more
 worthwhile. The spin will slow the ball down, which gives you a little
@@ -279,13 +279,13 @@ chance they don't connect well with the ball. Whether using this tactic
 on first or second serve, placement should be carefully
 considered.]{.mark}]{.underline}**
 
-**[[Wide serves open up space beautifully for your first volley, whilst
+**Wide serves open up space beautifully for your first volley, whilst
 hitting down the T limits the angles available to your opponent and
 offers space on both sides as well as the wrong-footing
-option.]{.underline}]{.mark}** **[[Don't forget that body serve, which
+option.** **Don't forget that body serve, which
 can easily cause the returner to send the ball up on their return,
 giving you perhaps an easy high volley or a
-smash.]{.underline}]{.mark}**
+smash.**
 
 | ![A person holding a tennis racket Description automatically | Nick Wheatley is an LTA Performance Coach and |
 | --- | --- |

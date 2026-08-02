@@ -12,18 +12,18 @@ confidence](media_the-strategy-zone-transition-and-net-finish/media/image1.webp)
 
 **A varied all around transitional game can be the key to victory.**
 
-**[[I believe that the all-around game is the key to success in modern
+**I believe that the all-around game is the key to success in modern
 tennis. We see it time and time again at the pro level. You have to know
 how to do everything and do everything well. In today's game
 \"everything\" means a lot more than it used to. There are many, many
-ways to get to the net and win points.]{.underline}]{.mark}**
+ways to get to the net and win points.**
 
-**[[How much should you come in? That depends on the difficulty of the
+**How much should you come in? That depends on the difficulty of the
 transition sequences you face, and your success in executing
-them.]{.underline}]{.mark}** **[[The fact is that a few successful
+them.** **The fact is that a few successful
 transition points are the key to winning many close matches. It's true
 at the pro level, and it can be true in your game as
-well.]{.underline}]{.mark}**
+well.**
 
 We know that in almost all matches the player who wins the most total
 points usually wins. This difference is often surprisingly small. Close
@@ -45,28 +45,28 @@ margin, 5 were points he won at the net! ([Click
 Here](http://www.tennisplayer.net/members/notes_on_tour/john_yandell/wimby_2007/wimby_2007.html)
 to read John Yandell's statistical breakdown of that incredible match.)
 
-**[[So being able to take advantage of transition opportunities is huge
+**So being able to take advantage of transition opportunities is huge
 at the pro level. This is as true, or maybe even more true, in club
-tennis.]{.underline}]{.mark}** **[[It's also probably more realistic
+tennis.** **It's also probably more realistic
 because the types of balls you must deal with are in general much less
 difficult than in the pros. The fact is this: a few positive transition
-points can give you the advantage.]{.underline}]{.mark}**
+points can give you the advantage.**
 
 **Developing Your Transition Game**
 
-**[[So why don't more players go to the net more of the time? Finishing
+**So why don't more players go to the net more of the time? Finishing
 the point at the net requires confidence. But hitting challenging first
 volleys and facing aggressive passing shots can make players
-apprehensive to move forward.]{.underline}]{.mark}** **[[If they get
+apprehensive to move forward.** **If they get
 passed on the first opportunity, or miss an easy volley, they may not
 try the transition again for the rest of the
-match.]{.underline}]{.mark}**
+match.**
 
-**[[The other problem is knowing exactly how and when to approach.
+**The other problem is knowing exactly how and when to approach.
 Success at the net is related to the effectiveness of the transition
-shot.]{.underline}]{.mark}** **[[In the modern game it's not as simple
+shot.** **In the modern game it's not as simple
 as \"slice the approach down the line, then hit a crosscourt volley
-winner.\"]{.underline}]{.mark}**
+winner.\"**
 
 ![A picture containing athletic game, sport, tennis, player Description
 automatically
@@ -78,16 +78,16 @@ generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp)
 shot. The players are just too good. They are bigger, stronger, faster,
 more athletic than ever before.]{.mark}]{.underline}**
 
-**[[This is also one respect in which the rackets have changed the game.
+**This is also one respect in which the rackets have changed the game.
 The return of serves are better. There is much more topspin, so the
-passing shots dip harder and sooner.]{.underline}]{.mark}** Remember
+passing shots dip harder and sooner.** Remember
 with wood rackets in the golden age of serve and volley most of the best
 players in the world hit their backhands with one hand, and many players
 hit predominantly with underspin or slice.
 
-**[[So, with the modern rackets, players may come in less. But the
+**So, with the modern rackets, players may come in less. But the
 interesting point is that when they do, they come in on a much great
-variety of patterns.]{.underline}]{.mark}** If you look at pro tennis,
+variety of patterns.** If you look at pro tennis,
 we see that the players will take virtually any opportunity that they
 believe will give them a favorable transition and the chance to hit a
 winning volley.
@@ -99,9 +99,9 @@ on high looping shots, and also, on short angles. And you do still see
 some approaches on slice backhands, or even an occasional slice
 forehand.
 
-**[[It's a different game with many options. Understanding the
+**It's a different game with many options. Understanding the
 potential transition shots gives you more ways to open up the
-court.]{.underline}]{.mark}** This is how the game of tennis has
+court.** This is how the game of tennis has
 evolved. So let's take a closer look at the critical transition shot,
 and the options players utilize. The fact is all of them can apply in
 club tennis.
@@ -112,12 +112,12 @@ There are two different ways to make a successful transition. The
 transition shot can be a surprise attack, and or it can be part of a
 pattern-based tactic.
 
-**[[The goal in both cases is to create a large target area for the
-finish volley.]{.underline}]{.mark}** **[[As we have seen throughout
+**The goal in both cases is to create a large target area for the
+finish volley.** **As we have seen throughout
 this series, the key to finishing is to hurt the opponent, which opens
-the court.]{.underline}]{.mark}** **[[You want to hit the winner to the
+the court.** **You want to hit the winner to the
 largest possible target. Large target areas improve your percentage and
-build your confidence to come in more.]{.underline}]{.mark}** So, let's
+build your confidence to come in more.** So, let's
 look at both options in more detail.
 
 **Surprise Attack**
@@ -141,25 +141,25 @@ opponent back and force them to play the ball at shoulder level or even
 higher. This often forces a weak reply in the form of a high floating
 ball.]{.mark}]{.underline}**
 
-**[[Often when they hit the high looping approach, players sense
-instantly that the shot will hurt the opponent.]{.underline}]{.mark}**
-**[[Other times there is a slight hesitation before this can be
+**Often when they hit the high looping approach, players sense
+instantly that the shot will hurt the opponent.**
+**Other times there is a slight hesitation before this can be
 determined. In either case, when the decision is made the movement
-forward much be decisive and explosive.]{.underline}]{.mark}** **[[The
+forward much be decisive and explosive.** **The
 first two steps are critical. You must explode forward and quickly close
 in for the finishing volley to the open court. This can be either a
 classic or a swing volley depending on the
-response.]{.underline}]{.mark}**
+response.**
 
-**[[The second alternative is to hit a hard flat drive to the corner
+**The second alternative is to hit a hard flat drive to the corner
 that pushes your opponent backward and/or stretches him
-wide.]{.underline}]{.mark}** **[[Again, this creates a potential
+wide.** **Again, this creates a potential
 surprise attack. You can instantly come forward or wait a fraction of a
 second to sense the response your opponent is able to
-make.]{.underline}]{.mark}** **[[If the shot is effective, you should
+make.** **If the shot is effective, you should
 then surprise your opponent by exploding forward. Again, your goal is to
 close quickly and hit the volley into the open
-court.]{.underline}]{.mark}**
+court.**
 
 In the modern game you see players hit these flat drives on all possible
 angles. They hit down the line, but when the opportunity is there, they
@@ -174,22 +174,22 @@ generated](media_the-strategy-zone-transition-and-net-finish/media/image6.webp)
 **A short angle can surprise the opponent and leave the court wide
 open.**
 
-**[[A third option for the surprise attack is to come forward after a
+**A third option for the surprise attack is to come forward after a
 short angle play. Move forward and hit a sharp angle crosscourt to pull
-the opponent off the court.]{.underline}]{.mark}** **[[If the ball is
+the opponent off the court.** **If the ball is
 low and wide enough, the opponent may not be able to get the ball back
 crosscourt, or he may float the ball in an attempt to buy time to
 recover more fully to the center of the court. In either case you may be
 able to hit a volley into a huge opening on the other
-side.]{.underline}]{.mark}**
+side.**
 
-**[[It's simply another way of creating an attackable ball. Your
+**It's simply another way of creating an attackable ball. Your
 opponent will normally not expect you to approach on a short angle, so
 you may be able to surprise him with the court wide
-open.]{.underline}]{.mark}** **[[Again, as soon as you recognize the
+open.** **Again, as soon as you recognize the
 opportunity, accelerate forward and take advantage of the open court. As
 before, you can hit a traditional or a swinging
-volley.]{.underline}]{.mark}**
+volley.**
 
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
@@ -198,13 +198,13 @@ generated](media_the-strategy-zone-transition-and-net-finish/media/image7.webp)
 **Mixing a variety of surprise attacks on the return can be very
 effective.**
 
-**[[A final surprise option is to attack on the second serve. This is
+**A final surprise option is to attack on the second serve. This is
 particularly effective if you have not made a pattern of attacking
 returns, but use it occasionally, for example on a big point when the
-opponent is not expecting you to take a risk.]{.underline}]{.mark}**
-**[[Take advantage of the element of surprise and come forward as
+opponent is not expecting you to take a risk.**
+**Take advantage of the element of surprise and come forward as
 rapidly as possible to hit the finishing volley into the open
-court.]{.underline}]{.mark}**
+court.**
 
 In the modern game you'll see players approach on virtually any type of
 return. They can hit either way from either wing. Meaning? They approach
@@ -259,29 +259,29 @@ confidence](media_the-strategy-zone-transition-and-net-finish/media/image9.webp)
 **The 2-1 Combo: hitting behind the opponent on the approach or first
 volley.**
 
-**[[In 2-1 combinations, the shot behind the opponent can be the
+**In 2-1 combinations, the shot behind the opponent can be the
 approach. Or it can also be the first volley. Often times, a player may
 have a volley opportunity into the open court, but with a target area
-that is too small to ensure finishing the point.]{.underline}]{.mark}**
-**[[If a player volleys cross-court but does not finish or significantly
+that is too small to ensure finishing the point.**
+**If a player volleys cross-court but does not finish or significantly
 hurt the opponent, he exposes himself to the down the line
-pass.]{.underline}]{.mark}**
+pass.**
 
-**[[Hitting the volley back behind the opponent is usually the most
+**Hitting the volley back behind the opponent is usually the most
 effective play in this situation. First it, it limits the angles your
 opponent has to pass, because you are more directly in front of his
 court position. Second, it gives you the ability to close to a more
-favorable position for the second volley.]{.underline}]{.mark}**
+favorable position for the second volley.**
 
-**[[Understanding effective transitional play is a critical dimension in
+**Understanding effective transitional play is a critical dimension in
 becoming a successful competitive player. It's more complex than most
 players appreciate and requires a very complete skill
-set.]{.underline}]{.mark}** **[[There may be fewer overall opportunities
+set.** **There may be fewer overall opportunities
 to attack in the modern game, but the range of options is very
-wide.]{.underline}]{.mark}** **[[It's an area where players at any
+wide.** **It's an area where players at any
 level can exercise their imagination and creativity to find a way to win
 those few critical attacking points that can help you win more
-matches.]{.underline}]{.mark}**
+matches.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of men holding tennis rackets Description automatically generated with medium                                                                                                      Nick Bollettieri (right) is the legendary coach

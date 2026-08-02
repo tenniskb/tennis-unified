@@ -37,9 +37,9 @@ When the momentum is with you, you have to spot potential turning points
 when they occur. If you don't spot a potential turning point and react
 to it, things could turn against you. You need to have your turning
 point radar switched on. Like my old doubles partner Mike Robinson once
-said**[[: \"Winning from a winning position is like drowning someone.
+said**: \"Winning from a winning position is like drowning someone.
 Every time their head pops up above the water, you push it back down
-again!\"]{.underline}]{.mark}** Keeping the radar on is like keeping an
+again!\"** Keeping the radar on is like keeping an
 eye for their heads popping back up!
 
 **[Potential turning points always relate to one of three
@@ -131,8 +131,8 @@ generated](media_when-momentum-is-with-you/media/image6.webp)\
 
 **Attitude and Fighting Spirit**
 
-**[[You may not be able to control your opponent's attitude, but you
-can control yours]{.underline}]{.mark}**. If a turning point has just
+**You may not be able to control your opponent's attitude, but you
+can control yours**. If a turning point has just
 happened against you and your opponent suddenly raises their energy/game
 because they feel good, you have to be prepared to quickly raise your
 energy/game too, so your opponent doesn't get the momentum. It's like
@@ -186,11 +186,11 @@ downcast.**
 
 **Body Language**
 
-**[[Even if you can't control your energy, you need to at least control
-how it looks to your opponent.]{.underline}]{.mark}** **[[If they get a
+**Even if you can't control your energy, you need to at least control
+how it looks to your opponent.** **If they get a
 boost from what's happening in the match (e.g. a big winner, a double
 fault, an unexpected missed smash), you don't want to double this boost
-by letting them see you are downcast by it.]{.underline}]{.mark}**
+by letting them see you are downcast by it.**
 
 It is vital to remember that a potential turning point will end up as
 either an actual Turning Point or merely a Blip depending on your
@@ -201,8 +201,8 @@ is not only needed when you are behind.
 
 **Collecting Points**
 
-**[[When momentum is with you, you should keep the match rolling. Try to
-collect as many points as possible.]{.underline}]{.mark}** Statistics
+**When momentum is with you, you should keep the match rolling. Try to
+collect as many points as possible.** Statistics
 show that the player who wins the most total points will win the match,
 with very few exceptions. Momentum may shift in time. But during the
 time it is with you, stay focussed and collect as many points as
@@ -218,12 +218,12 @@ confidence](media_when-momentum-is-with-you/media/image9.webp)
 
 **Dealing with Gamesmanship**
 
-**[[Players who have the momentum against them and feel they are running
+**Players who have the momentum against them and feel they are running
 out of time sometimes use gamesmanship. This is because players who are
 losing get more desperate. It is basically an attempt to cause a
 distraction, so you lose your focus. It often works because you tend to
 relax a bit when things are going for you and can get distracted more
-easily.]{.underline}]{.mark}**
+easily.**
 
 **[[Understanding what these players are trying to do can help you keep
 your focus. Gamesmanship is all about distraction. It usually involves,
@@ -238,10 +238,10 @@ generated](media_when-momentum-is-with-you/media/image10.webp)
 **Even in his senior career, Mac could change the flow of momentum by
 arguing with officials.**
 
-**[[Players who resort to gamesmanship usually pretend to be ignorant of
+**Players who resort to gamesmanship usually pretend to be ignorant of
 the problem they are causing while knowing there are no rules that can
 deal with it effectively. This adds to the feeling of unfairness and
-increases your distraction.]{.underline}]{.mark}**
+increases your distraction.**
 
 **Choosing the Battlefield**
 
@@ -250,19 +250,19 @@ like having two battlefields on which two different battles are fought.
 On one battlefield there is the tennis game; on the other battlefield is
 the gamesmanship game.
 
-**[[If your opponent can't win on the tennis battlefield, they might
+**If your opponent can't win on the tennis battlefield, they might
 try to entice you onto the gamesmanship battlefield, particularly on a
 big point. Do not be tempted to go there. Winning battles is a lot to do
-with who gets to choose the battlefield.]{.underline}]{.mark}** If your
+with who gets to choose the battlefield.** If your
 opponent is trying gamesmanship, they have probably found it to work
 before and have been practising on that battlefield for a long time. It
 is their home ground. Therefore, stay on your winning battlefield \--
 the tennis battlefield.
 
-**[[In other words, if it's a questionable line call, don't get
+**In other words, if it's a questionable line call, don't get
 involved in arguing if you are in the lead and you know it will distract
 you. Make your point strongly and keep the match about tennis by
-refocusing solely on the game itself.]{.underline}]{.mark}**
+refocusing solely on the game itself.**
 
 **Beware! There are many forms of gamesmanship including:**
 
@@ -282,7 +282,7 @@ confidence](media_when-momentum-is-with-you/media/image11.webp)
 
 **Arguing calls can inadvertently cause you to lose momentum.**
 
-**[[If you do not have an umpire, and you receive a bad line call, it is
+**If you do not have an umpire, and you receive a bad line call, it is
 very easy to be distracted. Here is an example of how you can react
 positively to a bad line call. Walk to the net and calmly but strongly
 ask your opponent if they are sure it was out. If they say yes, ask how
@@ -290,7 +290,7 @@ far out it was. Say you thought it was in and ask if they are prepared
 to play the point again. If they are not, continue with the game and put
 your focus into concentrating on the tennis. This is crucial because you
 do not want long interruptions when you have the
-momentum.]{.underline}]{.mark}**
+momentum.**
 
 If you do have an umpire, you can also query the call but then continue
 soon after for the same reason. Because of the time it takes, it is not
@@ -300,10 +300,10 @@ wind will go out of your sails.
 
 **Biased Clapping**
 
-**[[When you make a mistake, you naturally feel down. When your
+**When you make a mistake, you naturally feel down. When your
 opponent's supporters clap for your mistake they hope to make you feel
 worse, to the point of distracting you from the
-game.]{.underline}]{.mark}** Remember this, and don't fall into the
+game.** Remember this, and don't fall into the
 trap of glaring at them or appealing to their sense of fairness; you may
 as well appeal to the sun not to shine in your eyes on a smash! Stay
 focussed on the tennis.
@@ -316,10 +316,10 @@ confidence](media_when-momentum-is-with-you/media/image12.webp)
 
 **Keeping the Match Running**
 
-**[[When you have the momentum with you, don't create distractions
+**When you have the momentum with you, don't create distractions
 against yourself. Keep the match running. When things are going your
 way, the quicker the match finishes the better, so don't slow it
-down.]{.underline}]{.mark}** Some players, such as Andre Agassi, speed
+down.** Some players, such as Andre Agassi, speed
 up when they have the flow with them - this gives their opponent less
 chance to regroup mentally. Don't interrupt the match by arguing a line
 call too long, taking a toilet break or taking too long between points.
@@ -339,11 +339,11 @@ generated](media_when-momentum-is-with-you/media/image13.webp)
 **You can turn a choke into a Turning Point by letting it affect you
 mentally.**
 
-**[[Make sure you are well prepared. Plan ahead before matches so that
+**Make sure you are well prepared. Plan ahead before matches so that
 you cope with anything that might frustrate you, causing a distraction.
 Make sure you have with you anything you might need: spare rackets
 correctly strung, drinks, spare shoelaces, change of shirt
-etc.]{.underline}]{.mark}**
+etc.**
 
 **Choking**
 

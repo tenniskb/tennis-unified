@@ -222,8 +222,8 @@ position is with the hitting arm completely straight and the wrist
 locked. As the arm and racquet go through the hitting zone, there is no
 motion at either the elbow or the wrist.
 
-***[[Every top pro player establishes this straight hitting arm position
-well before contact]{.underline}]{.mark}***. In the case of
+***Every top pro player establishes this straight hitting arm position
+well before contact***. In the case of
 Philippoussis, who has one of the most beautiful one-handers in recent
 history, this straight arm position is established at about the time the
 racquet head starts to move forward to the ball. At this point, his

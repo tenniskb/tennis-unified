@@ -45,10 +45,10 @@ confidence](media_john-yandell-roger-federer-serve-part1/media/image2.webp)
 Don't get me wrong, I feel it's important to analyze the motions of
 the great players\--obviously, since I have spent so much time doing it.
 Understanding what is really happening is the only way to develop clear
-and accurate information. **[[Coaches need to be knowledgeable about
+and accurate information. **Coaches need to be knowledgeable about
 what is actually happening in the strokes to decide what their
 particular players are capable or incapable of attempting and to help
-them try.]{.underline}]{.mark}**
+them try.**
 
 Some players will always be able to incorporate or partially incorporate
 advanced elements. But my observation is that, for the majority,
@@ -72,10 +72,10 @@ attract the same attention as Pete or Andy.]{.mark}** What makes Federer
 less distinctive is probably what also makes him a better model. It's a
 simpler, more classical motion with fewer extreme elements.
 
-**[[Roger's serve may not have the mph or be as dynamic looking as Andy
+**Roger's serve may not have the mph or be as dynamic looking as Andy
 Roddick's. It may not have as much topspin or be as unplayable as
 Pete's. But it would be hard to claim it isn't effective, and
-seemlessly integrated into his all court game.]{.underline}]{.mark}** If
+seemlessly integrated into his all court game.** If
 you were to pick one service motion from the top players to use as a
 template for building or improving your serve, my opinion is that it
 should be Roger.
@@ -186,9 +186,9 @@ And that's a beautiful and fearsome thing. The question is whether it
 is remotely realistic for the average player. And I have an answer. No.
 So far Andy is the only player I've ever filmed that has made it work.
 
-**[[The point of the windup is to position the racket at the full drop
+**The point of the windup is to position the racket at the full drop
 position so it can then travel upward to the ball on the right path and
-with the most speed.]{.underline}]{.mark}** If the windup doesn't
+with the most speed.** If the windup doesn't
 accomplish that, you're probably better off starting the motion with
 the racket already dropped behind you. Unfortunately this is exactly the
 case for many players who try to copy Roddick. They fail to make the
@@ -221,10 +221,10 @@ point at the court. At this point in the motion, however, Sampras begins
 to abbreviate the backswsing, bending his elbow and starting to raise
 the racket from the shoulder.
 
-**[[In contrast Roger keeps his arm straight and continues to move his
+**In contrast Roger keeps his arm straight and continues to move his
 hand backward and upward tracing a circular path. His arm stays straight
 longer and the tip of the racket doesn't point nearly as far to his
-right.]{.underline}]{.mark}** When be begin to bend his elbow the motion
+right.** When be begin to bend his elbow the motion
 still moves on a curve upward. As noted the only current player with a
 more circular path is Philippoussis, similar to the great John McEnroe
 in a previous generation.
@@ -235,8 +235,8 @@ Someone with a greater knowledge of joint structure will eventually
 explain this fully, but for whatever exact physiological reasons**[,
 [the more circular paths are much more likely to result in a good racket
 drop for the vast majority of players]{.mark}]{.underline}**[.]{.mark}
-**[[It has to do with range of motion in the shoulder
-joint]{.underline}]{.mark}**. As we have seen, players like Sampras and
+**It has to do with range of motion in the shoulder
+joint**. As we have seen, players like Sampras and
 Roddick complete the backswing mainly by rotating the upper arm
 backwards in the shoulder joint, what is called external rotation. This
 is what creates that incredible racket drop position that is so
@@ -434,8 +434,8 @@ issue is what the biomechanical components of the motion really are,
 their quantitative positions in space and time, and their contributions
 to racket head speed.]{.mark}]{.underline}** This is the important,
 ground-breaking work that Brian and a handful of other researchers like
-Bruce Elliot are doing. **[[The second issue is how to make this
-happen.]{.underline}]{.mark}** This has been the focus of my work in
+Bruce Elliot are doing. **The second issue is how to make this
+happen.** This has been the focus of my work in
 high speed filming. My assumption is that if you can help a player match
 the physical positions in a great technical motion, then you are
 probably helping that player maximize the efficiency and the

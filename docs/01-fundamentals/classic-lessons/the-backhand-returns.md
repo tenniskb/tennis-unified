@@ -29,8 +29,8 @@ there a difference compared to the forehand?
 **Backhand Return Similarities**
 
 Let's start with the similarities between the one-handed and two-handed
-backhand returns. **[[The ready position and footwork are basically the
-same, the same as they are for the forehand.]{.underline}]{.mark}** That
+backhand returns. **The ready position and footwork are basically the
+same, the same as they are for the forehand.** That
 makes sense since you don't know in advance which side the serve is
 coming to.
 
@@ -48,11 +48,11 @@ toss of the serve goes up into the air.
 
 **Footwork**
 
-**[[As the toss goes up, the returner takes one or two steps either
+**As the toss goes up, the returner takes one or two steps either
 forward or backward, then launches into the split
-step.]{.underline}]{.mark}** **Video shows that the top players tend to
-be [[in the air just at or even just before the moment of the
-hit.]{.underline}]{.mark}**
+step.** **Video shows that the top players tend to
+be in the air just at or even just before the moment of the
+hit.**
 
 When the player moves backwards, there can also be more steps before the
 split. This typically occurs on slower surfaces like clay. We saw that
@@ -75,8 +75,8 @@ groundstrokes. (For more on this
 
 [Click Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\What%20is%20Open%20Stance.docx).
 
-**[[On a serve hit directly at the player you will sometimes see a
-player take a reverse pivot step.]{.underline}]{.mark}** On a stretch
+**On a serve hit directly at the player you will sometimes see a
+player take a reverse pivot step.** On a stretch
 return you will also occasionally see a drop step where the outside foot
 moves backwards under the player, rather than stepping toward the ball.
 
@@ -85,8 +85,8 @@ turn.]{.mark}]{.underline}** This sideways turning of the feet and torso
 is a fundamental that is the same on both the one-handed and the
 two-handed return.
 
-**[[At its greatest extent, the body turn on the return is virtually
-always less than on the groundstrokes.]{.underline}]{.mark}** On the
+**At its greatest extent, the body turn on the return is virtually
+always less than on the groundstrokes.** On the
 groundstrokes for both the one-handed and two-handed backhand, pro
 players typically turn the shoulders beyond perpendicular to the net,
 reaching an angle of 120 degrees or even more.
@@ -140,17 +140,17 @@ examples where the backswings appears identical on the groundstroke and
 the return. ([Click
 Here](http://www.tennisplayer.net/members/strokearchive/pro_men/thomas_johansson/tj_bh_ret/1st_serve_deuce/1st_serve_deuce.html?TJBHRet1stSDeuceFront1_Tennisplayer440.pct)).
 
-**[[But on most two-handed returns, the size of the take back is
+**But on most two-handed returns, the size of the take back is
 reduced. The easiest way to see this is to look the tip of the
-racket.]{.underline}]{.mark}** On most backhand groundstrokes, the tip
+racket.** On most backhand groundstrokes, the tip
 of the racket usually goes back until it points directly to the back
 fence at about a 90 degree angle, or slightly further. On most backhand
 returns this angle is reduced. The hands don't go back as far, and the
 racket tip reaches an angle of say 70 or 80 degrees.
 
-**[[But it is very important to understand that this reduced backswing
+**But it is very important to understand that this reduced backswing
 is usually combined with a follow-through roughly equal to that on the
-groundstrokes.]{.underline}]{.mark}** Andre Agassi was the master of
+groundstrokes.** Andre Agassi was the master of
 this variation of the two-handed return. I think this longer
 follow-through is the way to develop the drive return.
 
@@ -159,17 +159,17 @@ generated](media_the-backhand-returns/media/image5.webp)
 
 **The basic pattern: more compact backswing, long follow-through.**
 
-**[[As on the forehand, I believe that the follow-through is the only
+**As on the forehand, I believe that the follow-through is the only
 way players will learn to develop spin, hit through the ball, and
-control the return.]{.underline}]{.mark}** So, for the basic return, the
-right model is **[[a strong turn with a somewhat abbreviated backswing,
-and a complete follow-through.]{.underline}]{.mark}**
+control the return.** So, for the basic return, the
+right model is **a strong turn with a somewhat abbreviated backswing,
+and a complete follow-through.**
 
 **Two-Handed Block**
 
-**[[Having said that the drive is the first step, a complete return
+**Having said that the drive is the first step, a complete return
 games means having the ability to block returns as
-well.]{.underline}]{.mark}** With two hands, this blocking motion is
+well.** With two hands, this blocking motion is
 basically just a shorter segment of the return swing described above.
 Two handed players block returns by compressing the backswing even
 further than on the drive return and then shortening up the
@@ -348,8 +348,8 @@ one-handers use the slice return the same way the two-handers use the
 block return. The obvious example in the pro game is the way Roger
 Federer consistently neutralizes Andy Roddick's first serve.
 
-**[[Although it is less and less common in pro tennis, the slice returns
-can also be used as an offensive shot.]{.underline}]{.mark}** The chip
+**Although it is less and less common in pro tennis, the slice returns
+can also be used as an offensive shot.** The chip
 and charge return is an example of an aggressive slice return.
 Federer's short crosscourt slice return is another. But the majority of
 the slice returns made in today's game are used to put the ball in
@@ -396,15 +396,15 @@ There is an even bigger difference is the follow-through. Instead of
 equaling the length of the drive groundstroke, it's the opposite for
 the slice. The follow-through is significantly shorter.
 
-**[[On slice backhand groundstrokes in the pro game the players swing
+**On slice backhand groundstrokes in the pro game the players swing
 radically downward to generate enough underspin to control the levels of
-ball speed.]{.underline}]{.mark}** **[[But there is still a substantial
+ball speed.** **But there is still a substantial
 follow-through. There is a sense of hitting down, but there is also a
 sense of hitting through. You see this is the follow-through where the
-racket hand can reach eye level on many strokes.]{.underline}]{.mark}**
+racket hand can reach eye level on many strokes.**
 
-**[[But the same is not true on the slice return. The swings are shorter
-and the follow-through is usually much lower.]{.underline}]{.mark}** The
+**But the same is not true on the slice return. The swings are shorter
+and the follow-through is usually much lower.** The
 finish is rarely higher than the mid chest and can be as low as the
 waist or even mid thigh level. The feeling is of hitting more sharply
 downward and less outward and through. This goes with the concept of
@@ -440,10 +440,10 @@ confidence](media_the-backhand-returns/media/image15.webp)
 
 BjornBorg, one of the great returners in history, played far back not
 only on clay, but on hard courts and even on grass because he was so
-phenomenally quick. **[[Every player has to find his own comfort zone.
+phenomenally quick. **Every player has to find his own comfort zone.
 In my own game I have tried many positions at various times and found
 some were more successful than others against different
-opponents.]{.underline}]{.mark}**
+opponents.**
 
 Against big servers, try standing significantly further back to allow
 the ball to slow down or kick serves to spin out. But be ready to run
@@ -456,8 +456,8 @@ baseline is a good strategy for players with compact swings and good
 eyes and hands.]{.mark} [Although the difficulty of timing these returns
 is much greater, standing in solves the problem of high kicking spin
 serves, allowing the player to contact them before they get too
-high.]{.mark}]{.underline}** **[[This is particularly an issue on the
-one-handed return.]{.underline}]{.mark}**
+high.]{.mark}]{.underline}** **This is particularly an issue on the
+one-handed return.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -466,17 +466,17 @@ confidence](media_the-backhand-returns/media/image16.webp)
 **Moving and taking the return early is one of the most obvious ways to
 return aggressively.**
 
-**[[The strategy of moving in allows you to use the server's ball speed
-against him.]{.underline}]{.mark}** **[[By taking the ball sooner, you
-take time away from the server on his next ball.]{.underline}]{.mark}**
+**The strategy of moving in allows you to use the server's ball speed
+against him.** **By taking the ball sooner, you
+take time away from the server on his next ball.**
 We probably all remember the backhand return Roger Federer hit against
 Roddick at this year's Open, a shot Roger said was his favorite of the
 entire tournament. This strategy is very common for players with great
 two-handed returns.
 
-**[[Shifting right or left in anticipation can be a good strategy, if
+**Shifting right or left in anticipation can be a good strategy, if
 you know which direction the serve is likely to
-go.]{.underline}]{.mark}** If you observe the serving patterns of your
+go.** If you observe the serving patterns of your
 opponent, you can often be quite sure which way they will serve in a
 given situation. The pattern can be very general\--a certain player
 always serves the backhand on second serves in the deuce court. Or it
@@ -492,11 +492,11 @@ placement near the line.
 
 **The Aggressive Return Mentality**
 
-**[[In general, as a player, what should be the mindset on the return? A
+**In general, as a player, what should be the mindset on the return? A
 player has to develop an aggressive mind set to become a better
 returner. But what does that mean? It doesn't necessarily mean that you
 hit the return hard. In fact, it can often mean the
-opposite.]{.underline}]{.mark}**
+opposite.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -508,30 +508,30 @@ confidence](media_the-backhand-returns/media/image17.webp)
 and hitting brilliant winners. But it can also mean chipping the ball
 and floating it deep.]{.underline}**
 
-**[[What an aggressive return mentally really means is that you use your
-returns as the first step toward breaking serve.]{.underline}]{.mark}**
+**What an aggressive return mentally really means is that you use your
+returns as the first step toward breaking serve.**
 There may be a difference in how you use your returns if you are a
 one-hander or a two-hander, or if you have a big forehand return. Or a
-great one-handed slice. But the mentality is the same. **[[Use what you
+great one-handed slice. But the mentality is the same. **Use what you
 have in the most effective way possible to win points on your
-opponent's serve and generate breaks.]{.underline}]{.mark}**
+opponent's serve and generate breaks.**
 
-**[[So how do you develop this mentality? To do this you develop the
+**So how do you develop this mentality? To do this you develop the
 capacity to hit all the variations of speed and
-spin.]{.underline}]{.mark}** **[[You learn to let the blocking action
+spin.** **You learn to let the blocking action
 happen more instinctively as you get better at reading and responding to
-particular serves.]{.underline}]{.mark}**
+particular serves.**
 
-**[[The other neglected component of an aggressive return mentality is
-the study of patterns, as discussed above.]{.underline}]{.mark}**
-**[[You experiment with your return positions. You learn what you are
-capable of against different serves and servers.]{.underline}]{.mark}**
+**The other neglected component of an aggressive return mentality is
+the study of patterns, as discussed above.**
+**You experiment with your return positions. You learn what you are
+capable of against different serves and servers.**
 
-**[[You use all this knowledge to devise a return plan. Against some
+**You use all this knowledge to devise a return plan. Against some
 players, simply getting every serve in play, even if you take off the
 pace, is the most aggressive possible mentality. This is usually true
 against players to whom you feel superior once the serve is out the
-equation.]{.underline}]{.mark}**
+equation.**
 
 But against players with more weapons, you may have to take more
 chances, and now the mentality has to change. Your opponent may be able

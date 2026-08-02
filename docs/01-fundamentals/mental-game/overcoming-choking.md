@@ -199,11 +199,11 @@ emotional importance to every point and try to slide past the big ones
 without taking excessive notice of them. This is easier said than done,
 but it is important to make the attempt.]{.mark}]{.underline}**
 
-**[[Try to take your normal risks, and assume you will have other
+**Try to take your normal risks, and assume you will have other
 opportunities regardless of what happens on any particular point. If
 this doesn't work soldier on anyway, bearing in mind that nerves come
 and go, and just because you choke on one point it doesn't mean you
-will choke on the next.]{.underline}]{.mark}**
+will choke on the next.**
 
 **[[Don't focus on winning. A common source of nervousness is thinking
 about winning or losing. As best you can, work to push such thoughts out
@@ -254,11 +254,11 @@ that are likely to surface at these times.
 
 **Rituals**
 
-**[[This is where rituals and focusing come in. Rituals are sequences of
+**This is where rituals and focusing come in. Rituals are sequences of
 activity that you perform leading up to the start of the next point that
 are always the same. Notice the word, always, which is meant to
 emphasize the concept that these activity sequences do not
-change.]{.underline}]{.mark}**
+change.**
 
 **[[Rituals calm the nerves. They form an island of stability in a sea
 of competitive uncertainty because they are completely under the
@@ -302,10 +302,10 @@ confidence](media_overcoming-choking/media/image11.webp)
 **Don't let your eyes wander to your opponent, others courts, or
 spectators.**
 
-**[[Then as you walk slowly and deliberately toward your receiving
+**Then as you walk slowly and deliberately toward your receiving
 position, relax, and take a deep breath or two, holding the air in your
 lungs for a second before deliberately relaxing and letting it be
-expelled.]{.underline}]{.mark}**
+expelled.**
 
 **[[Don't let your eyes wander around toward your opponent, other
 courts, or onlookers. You can look at your strings, as so many players
@@ -334,15 +334,15 @@ aggression, and optimism. Keep your eyes glued to the ball as he/she
 tosses it up on his/her serve, and make sure you see it come off the
 court on your side of the net.
 
-**[[Think: short backswing, watch the ball, weight forward, flexible
+**Think: short backswing, watch the ball, weight forward, flexible
 hands. Your attention should now be on your eyes and emotions. The rest
-is all reaction.]{.underline}]{.mark}**
+is all reaction.**
 
-**[[Observing this simple, focused ritual point after point fills your
+**Observing this simple, focused ritual point after point fills your
 mind with constructive thoughts and feelings. These supplant (at least
 partially) the worrying thoughts about winning the match, breaking
 serve, getting down set point, getting up set point, and so
-forth.]{.underline}]{.mark}**
+forth.**
 
 **[[Of course, these thoughts never disappear completely, but it is
 better to have them in the back rather than the front of your view

@@ -123,8 +123,8 @@ of wood.]{.mark}]{.underline}**
 strings can generate up to 33% more spin than gut or other
 synthetics.]{.mark}]{.underline}**
 
-**[[This allows players to dip the ball at the incoming net player more
-easily.]{.underline}]{.mark}** **[[Clean passing shots can be struck
+**This allows players to dip the ball at the incoming net player more
+easily.** **[[Clean passing shots can be struck
 from positions on difficult balls that were simply impossible with wood
 rackets.]{.mark}]{.underline}**
 
@@ -204,18 +204,18 @@ generated](media_the-return-of-serve-and-volley-will-it-ever-happen/media/image7
 
 **At the net part of the turn is creating with the stance.**
 
-**[[Good volleying technique requires the feet to be close together with
+**Good volleying technique requires the feet to be close together with
 the center of gravity in the center of a narrower
-stance]{.underline}]{.mark}**. **[[Great volleys also require quick
+stance**. **Great volleys also require quick
 short steps, upright posture and tremendous
-balance.]{.underline}]{.mark}**
+balance.**
 
 These factors were all commonly taught on the groundstrokes before open
 stance hitting started to dominate. This type of movement was key
 because, without the new racket technology, hitting an aggressive
-groundstroke depended on it. **[[Balance, perfect feet placement and
+groundstroke depended on it. **Balance, perfect feet placement and
 more linear swings maximized power off the ground with eastern and
-continental grips.]{.underline}]{.mark}**
+continental grips.**
 
 Over time players put in thousands and thousands of repetitions using
 motions off the ground that were fundamentally similar to those used at

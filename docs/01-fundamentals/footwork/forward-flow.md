@@ -44,21 +44,21 @@ pros are doing by studying Tennisplayer video, we see that they all flow
 powerfully and gracefully through these shots.
 
 How do we achieve this flowing effortless quality in our own games?
-**[[One of the biggest problems I see that impedes players' ability to
-flow forward is that they are often taught to]{.underline}]{.mark}
-[[stop completely]{.underline}]{.mark} [[before they
-hit]{.underline}]{.mark}. [[This causes them to stop abruptly and get
+**One of the biggest problems I see that impedes players' ability to
+flow forward is that they are often taught to
+stop completely before they
+hit. This causes them to stop abruptly and get
 stuck on the court. The players may stop, but their rackets keep
-moving.]{.underline}]{.mark}** **[[This causes the player to lose
+moving.** **This causes the player to lose
 control of the racquet face. This is commonly known as a \"flick\" or a
-\"flop.\"]{.underline}]{.mark}**
+\"flop.\"**
 
 There are definitely specific step patterns the players use to slow
 down, control their momentum, change direction, and prepare to hit. But
 these all occur within a continuous rhythmic flow. In the sequences we
 are going to examine, we'll see how powerful a force Flow really is
-**[[as we watch top players move several feet forward through the
-contact.]{.underline}]{.mark}**
+**as we watch top players move several feet forward through the
+contact.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically
@@ -70,20 +70,20 @@ contact.]{.underline}]{.mark}**
 
 **The Goal of the Flow**
 
-**[[The goal is to flow through the contact point while still
-controlling the racket face.]{.underline}]{.mark}** **[[You want to keep
+**The goal is to flow through the contact point while still
+controlling the racket face.** **You want to keep
 the racket face lined up with the spot on the ball that will direct the
 ball to the desired target with the desired spin and
-pace.]{.underline}]{.mark}**
+pace.**
 
 I demonstrate to my students that if I keep my racquet still and move
 forward as I make contact, I can hit a volley harder than if I stand
 still. That makes sense because as I move through the point of contact,
-my racquet moves fluidly with me. **[[Where most players get in trouble
+my racquet moves fluidly with me. **Where most players get in trouble
 is when they stop moving but their racquet and arm keep moving forward
-on their own.]{.underline}]{.mark}** **[[This causes a loss of control
+on their own.** **This causes a loss of control
 of the shot and also a loss of power. Watch how the racquet continues
-and flicks and flops.]{.underline}]{.mark}**
+and flicks and flops.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically
@@ -93,9 +93,9 @@ and flicks and flops.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[If you compliment your strokes with forward movement toward your
+**If you compliment your strokes with forward movement toward your
 target you will get the ball to come off the racquet with more force.
-You won't need to muscle or force your swing.]{.underline}]{.mark}**
+You won't need to muscle or force your swing.**
 
 Here is a saying I've developed that puts the process in a nutshell:
 \"When you stop, you flop. When you stick you flick. But when you go you
@@ -118,19 +118,19 @@ Dementieva as an example, one of the best movers in the women's game.
 
 In the first example, the ball is a well inside the baseline. Dementieva
 is able to prepare her racquet early with a full backswing because she
-doesn't have to run that far. **[[Notice how the right foot aligns
-behind the incoming ball.]{.underline}]{.mark}** **[[This enables her to
+doesn't have to run that far. **Notice how the right foot aligns
+behind the incoming ball.** **This enables her to
 point the butt of the racket at the ball on her second to last
-step.]{.underline}]{.mark}** **[[This in turn allows her to establish
+step.** **This in turn allows her to establish
 her regular contact point and use a topspin
-follow-through.]{.underline}]{.mark}**
+follow-through.**
 
-**[[The key point is that Dementieva doesn't stop to make the
-hit.]{.underline}]{.mark}** **[[Watch how she flows through the contact
+**The key point is that Dementieva doesn't stop to make the
+hit.** **Watch how she flows through the contact
 on the run, but in a very controlled and balanced
-way.]{.underline}]{.mark}** **Just before contact she takes a final
-running step with her left front foot and [[actually strikes the ball
-before that left foot lands.]{.underline}]{.mark}** **[The flow carries
+way.** **Just before contact she takes a final
+running step with her left front foot and actually strikes the ball
+before that left foot lands.** **[The flow carries
 her forward so that she lands on her left foot well in front of where
 she actually contacted the ball.]{.underline}**
 
@@ -145,23 +145,23 @@ she actually contacted the ball.]{.underline}**
 **Sprinting**
 
 The second example is more extreme. **Out of her split step Elena takes
-three sprinting steps forward [[with her racket still in front of
-her.]{.underline}]{.mark}** **[She times the start of the backswing so
+three sprinting steps forward with her racket still in front of
+her.** **[She times the start of the backswing so
 that the motion with the racket is continuous, through the contact,
 beginning the swing two and a half steps before she actually hits the
 ball.]{.underline}**
 
 This allows her to keep her contact about a foot in front of her body
-even though she moving rapidly forward. **[[This forward motion is
+even though she moving rapidly forward. **This forward motion is
 driving her racket through the ball. At the same time, she is using her
 hand to brush up the backside of the ball creating the perfect amount of
-topspin to control the shot.]{.underline}]{.mark}**
+topspin to control the shot.**
 
 Again, Elena is flowing forward at contact, making contact between
-strides and **landing on the left foot until [[after
-contact.]{.underline}]{.mark}** **[[As she continues forward, she takes
+strides and **landing on the left foot until after
+contact.** **As she continues forward, she takes
 one more full stride before taking a slightly smaller step as she begins
-to slow down and recover.]{.underline}]{.mark}**
+to slow down and recover.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person playing tennis Description automatically generated with medium
@@ -176,9 +176,9 @@ forward, but then she adjusts to move around the ball to her left. She
 does this with a carioca step with the right foot crossing in front of
 her left foot. This crossover step gets the right foot behind the ball.
 She is now in position to make contact in front and then land on her
-left foot. **[[Notice how her right leg kicks back, maintaining good
+left foot. **Notice how her right leg kicks back, maintaining good
 dynamic balance while she flows through the
-contact.]{.underline}]{.mark}** There is a huge amount of forward flow
+contact.** There is a huge amount of forward flow
 here. See how she lands on her left foot another 4 feet toward the net
 after contact! Look at the extension of her back leg in the kick back at
 the landing. Her back leg then comes forward, but this is only after the
@@ -202,14 +202,14 @@ racket in front of him before he begins his racket preparation. ([Click
 Here](http://www.tennisplayer.net/members/teaching_systems/dave_hagler/teaching_balance/teaching_balance.html)
 to see Dave Halger's drill based on this same concept.)
 
-**[[To position himself to the ball he then takes two carioca steps
-forward with his right foot.]{.underline}]{.mark}** **[[This allows him
+**To position himself to the ball he then takes two carioca steps
+forward with his right foot.** **This allows him
 to align the right foot behind the shot. Now watch his incredible flow
-as he continues forward through the shot.]{.underline}]{.mark}**
-**[[Coria makes contact with both feet in the air. His flow is several
+as he continues forward through the shot.**
+**Coria makes contact with both feet in the air. His flow is several
 feet forward between take off and landing. Again like
-Elena]{.underline}]{.mark}**, **[[he lands on his left front foot with
-the back foot kicking backwards and behind him.]{.underline}]{.mark}**
+Elena**, **he lands on his left front foot with
+the back foot kicking backwards and behind him.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person playing tennis Description automatically generated with medium
@@ -222,14 +222,14 @@ the back foot kicking backwards and behind him.]{.underline}]{.mark}**
 Now let's watch Coria flow in an even more extreme example, this time
 on a low ball where a full swing isn't possible. Again Coria starts
 forward like a sprinter. Watch that he actually pumps his arms up and
-down for multiple steps. **When he reaches the ball, it is [[below the
-net.]{.underline}]{.mark} For this reason Coria uses [[virtually no
-backswing and only minimal follow-through.]{.underline}]{.mark}**
+down for multiple steps. **When he reaches the ball, it is below the
+net. For this reason Coria uses virtually no
+backswing and only minimal follow-through.**
 
 **[He lines up his right foot and racquet face with the
 ball.]{.underline} Now he can [flow through the contact with the racquet
-relatively calm and quiet.]{.underline} As his body moves forward, [[the
-racket moves automatically through the shot.]{.underline}]{.mark}**
+relatively calm and quiet.]{.underline} As his body moves forward, the
+racket moves automatically through the shot.**
 **[[The flow itself actually provides part or even most of the
 swing.]{.mark} [Notice that Coria doesn't put on the brakes
 immediately. The flow continues through the shot.]{.mark}]{.underline}**
@@ -246,8 +246,8 @@ contact.
 
 **Volleys**
 
-**[[On volleys and half volleys, we need the same elements of control of
-direction and flow as on the short ball.]{.underline}]{.mark}** Here are
+**On volleys and half volleys, we need the same elements of control of
+direction and flow as on the short ball.** Here are
 4 volley examples: 2 high penetrating volleys, a half volley, and a drop
 volley, all using the forward flow of the body while making contact.
 
@@ -256,15 +256,15 @@ through the forehand volley. Watch the complex interplay of his steps.
 First, he takes a drop step with his left foot. Then a small crossover
 or carioca step with to his right foot. Next, he drives his weight
 forward to his left foot, with the foot coming down on the court just
-after contact. **[[As with our groundstroke examples, Henman is flowing
-and hitting the ball between steps.]{.underline}]{.mark}**
+after contact. **As with our groundstroke examples, Henman is flowing
+and hitting the ball between steps.**
 
 Next, Henman continues moving toward the net with a lateral side-step
 taken with the right foot. Even though he has hit a winning volley, he
-doesn't try to artificially stop his momentum. **[[He flows forward
+doesn't try to artificially stop his momentum. **He flows forward
 smoothly for two more steps. This ensures that the face of the racquet
 stays under control when he is moving through the
-hit.]{.underline}]{.mark}**
+hit.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person playing tennis Description automatically generated with medium
@@ -282,8 +282,8 @@ him to slide his left foot further out to the left to start his
 positioning. He then takes two carioca steps with his right foot. This
 combination of steps allows him to take the ball as a forehand volley.
 
-**[[The ball is extremely high, actually above head level, but notice
-that there is no flop at contact]{.underline}]{.mark}**. **[[His racquet
+**The ball is extremely high, actually above head level, but notice
+that there is no flop at contact**. **[[His racquet
 face does not come over until the ball has left his strings. This is
 because the flow moves racquet through the contact.]{.mark} [If Tim had
 jammed on the brakes and stopped too soon and/or landed on his left foot
@@ -308,9 +308,9 @@ bounce. **[[Notice how he keeps his center of gravity low almost in
 seated position. He can then take a step forward with his left foot
 using a heel to toe landing.]{.mark}]{.underline}**
 
-**[[His momentum is now flowing directly into the shot. From this
+**His momentum is now flowing directly into the shot. From this
 position he needs only compact, minimal arm movement. The racket is
-driven in part by the Flow.]{.underline}]{.mark}** **[[Even though his
+driven in part by the Flow.** **[[Even though his
 left foot is on the court at contact, watch that it doesn't stick.
 Instead, the forward flow of his body weight literally lifts his left
 foot off the court, so that he lands again further forward toward the
@@ -347,8 +347,8 @@ take pace off the ball and as typically happens, his racket actually
 moves backwards after contact. But notice that even as his racket goes
 backwards, his body is still flowing forward! He takes a step forward
 with his left foot as he hits and his body flows about 5 feet further
-forward in the court. WOW! **[[Power and touch in at the same time
-within the Flow.]{.underline}]{.mark}**
+forward in the court. WOW! **Power and touch in at the same time
+within the Flow.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically

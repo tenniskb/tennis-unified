@@ -12,8 +12,8 @@
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[From the backcourt, most players make a fundamental tactical
-mistake-hitting into the open court too soon]{.underline}]{.mark}**. At
+**From the backcourt, most players make a fundamental tactical
+mistake-hitting into the open court too soon**. At
 the net, the story is the same-too many players lose points hitting into
 the open court at the wrong time.
 
@@ -30,11 +30,11 @@ outright winner. Hitting down the line when you're not in the position
 to finish the point opens the court to your opponent's crosscourt
 reply.]{.mark}]{.underline}**
 
-**[[At the net, however, geometry dictates that a player should stay on
-the same half of the court as his opponent.]{.underline}]{.mark}**
-**[[This keeps you in the center of his passing shot angles, and able to
+**At the net, however, geometry dictates that a player should stay on
+the same half of the court as his opponent.**
+**This keeps you in the center of his passing shot angles, and able to
 guard against the more dangerous down the line
-pass.]{.underline}]{.mark}**
+pass.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A couple of people play tennis Description automatically generated with medium
@@ -44,37 +44,37 @@ pass.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[At the net, the fundamental error is hitting crosscourt too soon,
+**At the net, the fundamental error is hitting crosscourt too soon,
 opening up this down the line pass for your
-opponent.]{.underline}]{.mark}** **[[Volleying crosscourt too soon when
+opponent.** **Volleying crosscourt too soon when
 you are at the net has the same effect as going down the line too soon
-from the backcourt.]{.underline}]{.mark}** **[[It opens the court for
-your opponent to take control of the point.]{.underline}]{.mark}**
+from the backcourt.** **It opens the court for
+your opponent to take control of the point.**
 
-**[[At the net, the safe play is to volley down the line on the first,
+**At the net, the safe play is to volley down the line on the first,
 or sometimes, even the second volley. This allows you to maintain a
 superior geometric position and stay in control of the point until you
-have a clear opportunity to finish.]{.underline}]{.mark}**
+have a clear opportunity to finish.**
 
-**[[The court may appear open for your crosscourt volley, but if your
+**The court may appear open for your crosscourt volley, but if your
 opponent is able to reach your ball, you will find yourself out of
 position, and your own court wide open. This is the fundamental mistake
 in net play at all levels - falling for the temptation to hit into what
 looks like a wide opening, only to be passed or lose control of the
-point.]{.underline}]{.mark}**
+point.**
 
 **Hitting Down the Line**
 
-**[[Why is hitting down the line so geometrically superior at the net?
+**Why is hitting down the line so geometrically superior at the net?
 The difference is most apparent if we use the example of a crosscourt
-approach shot]{.underline}]{.mark}**. **[[If I approach crosscourt, I
+approach shot**. **If I approach crosscourt, I
 must cover an additional ten feet or more if my opponent hits his pass
-down the line pass.]{.underline}]{.mark}**
+down the line pass.**
 
-**[[Compare this to the court geometry when I hit an approach down the
+**Compare this to the court geometry when I hit an approach down the
 line. My opponent has two options for passing shots, crosscourt or down
 the line. But now I am bisecting the two widest angles he can
-hit.]{.underline}]{.mark}** **[[My distance to cover either pass is
+hit.** **[[My distance to cover either pass is
 substantially less than when I approach
 crosscourt.]{.mark}]{.underline}**
 
@@ -157,10 +157,10 @@ In fact, the sharper your crosscourt volley the further you must move to
 cover the down the line passing shot. Your court's open and you have to
 cover a lot of ground in a hurry to close it up.
 
-**[[The basic rule on the volley is: don't hit crosscourt unless
+**The basic rule on the volley is: don't hit crosscourt unless
 you're able to finish the point or at least hurt your opponent badly,
 setting up an easy second volley. If you can't do this, you must now
-play for position and be prepared to hit]{.underline}]{.mark}**
+play for position and be prepared to hit**
 **[[another volley, or two.]{.mark}]{.underline}**
 
 In these situations you should volley down the line, right back to your
@@ -187,8 +187,8 @@ harder to stay in control of the point if you volley
 crosscourt.]{.mark}]{.underline}**
 
 A final important point about attacking the net, that goes beyond basic
-geometry. **[[Never give your opponent too much credit for his ability
-to hit passing shots consistently.]{.underline}]{.mark}** He has to hit
+geometry. **Never give your opponent too much credit for his ability
+to hit passing shots consistently.** He has to hit
 the ball hard and low over the net and close to the lines. This is
 particularly difficult to do late in a match and on big points. The same
 player who hit a great pass at 1-1 in the first set may not be able to

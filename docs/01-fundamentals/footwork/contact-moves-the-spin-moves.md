@@ -45,15 +45,15 @@ landing.**
 
 **Spin Moves**
 
-So now let's address the Spin moves. **[[Spin Moves are contact moves
+So now let's address the Spin moves. **Spin Moves are contact moves
 in which the hips rotate around a central axis. Players use Spin Moves
 to neutralize or counterattack, by spinning their hips and also their
-feet during the swing.]{.underline}]{.mark}**
+feet during the swing.**
 
-**[[They do this to generate racket speed, match the pace of the
-incoming ball, and generate ball spin.]{.underline}]{.mark}** **[[Spin
+**They do this to generate racket speed, match the pace of the
+incoming ball, and generate ball spin.** **Spin
 Moves allow you to stand your ground in a rally, or even reverse your
-position if you are behind.]{.underline}]{.mark}**
+position if you are behind.**
 
 There are 3 spin move variations that players use depending on the type
 of ball they are facing. These are the Low Spin, the High Spin, and the
@@ -76,10 +76,10 @@ outside foot.**
 **Low Spin**
 
 **[Players use Low Spin typically when moving sideways along the
-baseline, or a slight diagonal backwards]{.underline}**. **[[Low Spin
+baseline, or a slight diagonal backwards]{.underline}**. **Low Spin
 moves are usually associated with fast balls hit with topspin, but balls
 that are either relatively low bouncing or played on the
-rise.]{.underline}]{.mark}**
+rise.**
 
 **This makes [the contact at around hip height]{.underline}, versus the
 higher contact point on the other spin moves we'll see below.** **The
@@ -91,23 +91,23 @@ To execute the Low Spin, the player sets up in a semi-open or open
 stance, with about two thirds of the weight on the outside leg, and one
 third on the toes of the inside foot.
 
-**[[As the player swings,]{.underline}]{.mark} [[he stays low and keeps
-the angles in his legs]{.underline}]{.mark}.** **[[He makes contact at
-about hip level]{.underline}]{.mark}**. **[[After contact he spins the
-hips and the feet.]{.underline}]{.mark}** **[[The player lands on the
+**As the player swings, he stays low and keeps
+the angles in his legs.** **He makes contact at
+about hip level**. **After contact he spins the
+hips and the feet.** **The player lands on the
 outside foot first, or sometimes at about the same time with both
-feet.]{.underline}]{.mark}**
+feet.**
 
-**[[The outside foot also lands flat.]{.underline}]{.mark}** **[[This
+**The outside foot also lands flat.** **This
 indicates that the angles in the legs have remained
-unchanged.]{.underline}]{.mark}** **[[At the landing, the toes of the
+unchanged.** **At the landing, the toes of the
 outside foot typically point in the direction of the
-shot.]{.underline}]{.mark}**
+shot.**
 
-**[[This means that if the player is going down the line, the toes point
-straight ahead.]{.underline}]{.mark}** **[[If the ball is hit
+**This means that if the player is going down the line, the toes point
+straight ahead.** **If the ball is hit
 crosscourt, then the outside foot rotates further so that the toes point
-back at an angle in the direction of the shot.]{.underline}]{.mark}**
+back at an angle in the direction of the shot.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -128,14 +128,14 @@ above.]{.mark}]{.underline}**
 is [to not lose your position on the baseline and stay even in the
 rally]{.underline}, or [even counterattack.]{.underline}**
 
-**[[To hit a High Spin, the player again sets up behind the ball in an
+**To hit a High Spin, the player again sets up behind the ball in an
 open stance or semi open stance with two thirds of the weight on the
-outside foot.]{.underline}]{.mark}** **[[As the player swings up to the
+outside foot.** **[[As the player swings up to the
 ball, watch how the opposite leg elevates and bends at the knee.]{.mark}
 [This upward leg action helps the player come up higher off the court to
-control the contact height.]{.mark}]{.underline}** **[[This is the
+control the contact height.]{.mark}]{.underline}** **This is the
 difference compared to the low Spin in which the player stays lower with
-both legs and has a lower contact point.]{.underline}]{.mark}**
+both legs and has a lower contact point.**
 
 **[[After the hit, the hips again spin around the axis of the spine,
 with a similar rotation in the feet.]{.mark} [The player maintains his
@@ -151,26 +151,26 @@ sole of the rear shoe pointing to the other.**
 
 **Reverse Spin**
 
-**[[The Reverse spin is usually hit on high deep balls that have pushed
-the player back off the baseline.]{.underline}]{.mark}** **The biggest
-difference compared to the Low or High Spin is the [[increased amount of
-spin or body rotation]{.underline}]{.mark}.** **After contact the player
+**The Reverse spin is usually hit on high deep balls that have pushed
+the player back off the baseline.** **The biggest
+difference compared to the Low or High Spin is the increased amount of
+spin or body rotation.** **After contact the player
 continues to rotate much further than in the first two variations.**
-**[[Rather than landing on the inside foot, he now lands on the outside
+**Rather than landing on the inside foot, he now lands on the outside
 or opposite foot. The toes of the outside foot are now pointing towards
 the side fence instead of forward in the direction of the
-shot.]{.underline}]{.mark}**
+shot.**
 
-**There is also a [[pronounced balance move here, which is a side kick
-with the opposite leg]{.underline}]{.mark}. [The sole of the shoe of the
+**There is also a pronounced balance move here, which is a side kick
+with the opposite leg. [The sole of the shoe of the
 opposite leg ends up pointing to the other side fence.]{.underline}**
 
-**The advantage of the reverse spin is that [[you can use it to hit a
+**The advantage of the reverse spin is that you can use it to hit a
 very heavy ball, even though it is a defensive shot, but it can also be
-hit quite flat.]{.underline}]{.mark}** **[[Players usually have moved
-back on a diagonal to position for this shot.]{.underline}]{.mark}**
-**[[But the rotation during the hit reverses this and gets the body
-moving back toward the baseline.]{.underline}]{.mark}**
+hit quite flat.** **Players usually have moved
+back on a diagonal to position for this shot.**
+**But the rotation during the hit reverses this and gets the body
+moving back toward the baseline.**
 
 So that's it for the Spin Moves. Stay tuned next for the Two Foot
 Pivot!

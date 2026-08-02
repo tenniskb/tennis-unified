@@ -212,8 +212,8 @@ Fighting Spirit.**
 
 Toni Nadal believes that propriety\--respect and good manners\--is
 critical to achieving a happy life and good performance on the court. He
-says, **[[\"Respect and good manners bring happiness in one's
-life.\"]{.underline}]{.mark}**
+says, **\"Respect and good manners bring happiness in one's
+life.\"**
 
 For Toni, this happiness and satisfaction is just as important as the
 pursuit of goals and professional success. He concludes, \"It is much

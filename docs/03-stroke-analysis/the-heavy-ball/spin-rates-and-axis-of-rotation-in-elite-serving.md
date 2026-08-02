@@ -53,9 +53,9 @@ this data, they determined the top speed of the ball, how fast it was
 rotating, and also its axis of rotation, or the angle the ball was
 spinning as it left the racket.
 
-**[[As you would expect, the so-called \"flat\" serves had the highest
+**As you would expect, the so-called \"flat\" serves had the highest
 velocities, averaging 116mph. The slice serves averaged 104mph, and the
-kick serves averaged 91mph.]{.underline}]{.mark}** These speed
+kick serves averaged 91mph.** These speed
 measurements were all within the range of serving speeds seen on the
 tour, if toward the lower end.
 
@@ -84,8 +84,8 @@ The diagrams show what the spin really looks like. The black arrows
 indicate the spin axis, while the blue arrows reveal the direction and
 angle of the spin. Look how close the three variations really are!
 
-**[[The slice serve is the closest to spinning with pure
-sidespin.]{.underline}]{.mark}** Pure spin would be horizontal, with the
+**The slice serve is the closest to spinning with pure
+sidespin.** Pure spin would be horizontal, with the
 arrow from 9 o'clock to 3 o'clock. The actual direction of the spin is
 slightly only steeper than this from about 8 o'clock to 2 o'clock.
 
@@ -101,9 +101,9 @@ players and coaches believe. On the clock face, the direction of spin
 runs from around 7:30 to 1:30, a long way from pure top spin, and not
 much steeper than the slice.
 
-**[[The direction of spin in the flat serve is somewhere in between
+**The direction of spin in the flat serve is somewhere in between
 other two, steeper than the slice serve, but not as steep as the
-kick.]{.underline}]{.mark}** But the difference here is so small it's
+kick.** But the difference here is so small it's
 hard to even put an exact clock time on them.
 
 Put another way, the study shows that the total difference in the axis
@@ -170,9 +170,9 @@ Marking a few balls and filming with an inexpensive consumer high speed
 camera like the Casios can give coaches an idea of the axis of spin and
 spin rate that their players are achieving.
 
-But there are still unanswered questions. **[[This study focused on
+But there are still unanswered questions. **This study focused on
 serves down the T in the deuce court. What about the four
-corners?]{.underline}]{.mark}** You would expect a wide slice in the
+corners?** You would expect a wide slice in the
 deuce and a heavy kick in the ad might show greater differences, and
 what about specific differences between first and second serves?
 

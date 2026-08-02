@@ -57,11 +57,11 @@ hand and the height of the racket don't necessarily go together. You
 see players with high racket positions and low hand positions, and vice
 versa.
 
-***[[To understand how this works, you have to look at where the players
+***To understand how this works, you have to look at where the players
 point the racket tip as they start the motion. If a player points the
 tip more directly upward the racket position will be higher. If the
 player angles the tip more backwards, the racket height will be
-lower.]{.underline}]{.mark}***
+lower.***
 
 | ![A person holding a microphone Description automatically generated with medium | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
 | --- | --- | --- | --- | --- |

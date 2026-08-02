@@ -94,17 +94,17 @@ me my backhand improved the most by studying and mimicking the best
 player. It was a very confident looking shot. I liked the way that felt.
 
 One thing I loved about Rosewall's backhand was that he finished high.
-**[[I really believe in the high finish on the slice. I think it makes
-you accelerate through the ball.]{.underline}]{.mark}** Today you see so
+**I really believe in the high finish on the slice. I think it makes
+you accelerate through the ball.** Today you see so
 many players hitting so much from high to low that the racquet clips the
 ground. And I'm always shocked at that. I wonder if that actually
 decelerates the racket.
 
-**[[I always tried to go through the ball and finish high, because that
+**I always tried to go through the ball and finish high, because that
 creates depth and allows you to use the slice as an offensive
-shot.]{.underline}]{.mark}** **[[You can create more pressure going
+shot.** **You can create more pressure going
 through and hitting the ball on a flatter line and you also get a lot
-more control.]{.underline}]{.mark}**
+more control.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -112,23 +112,23 @@ confidence](media_the-slice-backhand/media/image16.webp)
 
 **Hit the slice drive on the rise to create depth and pace.**
 
-**[[A really important part of hitting an offensive slice is not letting
+**A really important part of hitting an offensive slice is not letting
 the ball drop from its apex. It's very difficult to hit a good
 offensive slice if the ball drops. I actually try to hit it while the
 ball is still on the rise and make contact just as it's about to reach
-its apex.]{.underline}]{.mark}**
+its apex.**
 
-**[[This allows you to stand in closer to the baseline. It's a real
+**This allows you to stand in closer to the baseline. It's a real
 advantage compared to a topspin backhand. It's easier to hit a flat
 slice on the rise, so it's easier to play aggressively from the
-baseline.]{.underline}]{.mark}**
+baseline.**
 
 You don't see it in the pros, but it's also a great shot to use to
 pass. It worked for Ken Rosewall for about 40 years. He never hit a
-topspin passing shot. **[[With the slice drive you can hit the passing
+topspin passing shot. **With the slice drive you can hit the passing
 shot on the rise, hit it with plenty of pace and keep the ball low going
 either way, and/or play the ball well at the volleyer's
-feet.]{.underline}]{.mark}**
+feet.**
 
 ![A person playing tennis Description automatically
 generated](media_the-slice-backhand/media/image17.webp)
@@ -144,11 +144,11 @@ lets his opponents know that he's not afraid to hit an assertive
 looking slice. And that is a great thing to have.
 
 In addition to the high follow-through another important point is the
-position of the body. **[[I]{.underline}]{.mark}** **[[think in order to
+position of the body. **I** **think in order to
 really achieve the cleanest hit on your backhand and the most depth and
 power you must have a big turn. But you must also keep turned through
 the swing. You don't want to open up too fast. You want to trust your
-swing and stay sideways through the hit.]{.underline}]{.mark}**
+swing and stay sideways through the hit.**
 
 The front foot is another key to this. Rosewall is stepping across and
 into the shot. His foot is right there at the edge of the contact zone.
@@ -171,14 +171,14 @@ If you look at the Rosewall sequence, you'll see that at the time he
 reaches that high finish, his back foot is still behind the front foot,
 and his shoulders are still almost all the way sideways to the net.
 
-You also want to note **[[how Ken's arm forms an \"L\".at the start of
+You also want to note **how Ken's arm forms an \"L\".at the start of
 the backswing. He keeps that shape until he starts the forward swing.
 The arm straightens out as he moves to the contact and that provides a
-lot of the zip on the shot.]{.underline}]{.mark}**
+lot of the zip on the shot.**
 
-**[[But it's really important to note that even though the elbow is
+**But it's really important to note that even though the elbow is
 bent on the backswing, it does straighten out fully before the
-contact.]{.underline}]{.mark}** If you don't really look at the stroke
+contact.** If you don't really look at the stroke
 frame by frame you might miss that.
 
 ![A person holding a tennis racket Description automatically

@@ -79,8 +79,8 @@ confidence](media_ball-watching-part-1/media/image3.jpg)
 **Sight is a slower internal process because [[light must be converted
 to electrical energy via a chemical reaction on the retina]{.mark}
 before it can travel its pathway from the eye to the visual
-cortex.]{.underline} [[This is slower than the mechanical reaction of
-sound travelling through the ear.]{.underline}]{.mark}**
+cortex.]{.underline} This is slower than the mechanical reaction of
+sound travelling through the ear.**
 
 Sound takes only about 50 milliseconds to travel from your ear to your
 brain. But light can take hundreds of milliseconds to process. This
@@ -92,10 +92,10 @@ This means contact has already taken place by the time you hear it or
 see it.
 
 So, the truth is it's impossible to truly see or hear contact in real
-time. I believe, however, that **[[with proper technique and training
+time. I believe, however, that **with proper technique and training
 one can learn to get as close as possible to \"seeing\" racket to ball
-contact.]{.underline}]{.mark}** **[[Perceiving
-contact]{.underline}]{.mark} might be a better way to phrase it.**
+contact.** **Perceiving
+contact might be a better way to phrase it.**
 
 I also believe the subtle difference in the speed of hearing and vision
 can be used to one's advantage in ball watching.
@@ -106,24 +106,24 @@ In our daily lives, we think of vision as a continuous sensory modality.
 In reality, however**[[, it actually occurs in discrete intervals
 separated by intermittent moments of blindness.]{.mark}]{.underline}**
 
-**[[Every time we move our eyes, there is a short blackout to prevent
-blurring of vision as the eyeballs move.]{.underline}]{.mark}** **These
+**Every time we move our eyes, there is a short blackout to prevent
+blurring of vision as the eyeballs move.** **These
 small, essentially imperceptible blackouts are the result of what are
-call [[saccadic eye movements.]{.underline}]{.mark}**
+call saccadic eye movements.**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_ball-watching-part-1/media/image4.webp)
 
 **Saccadic eye movements cause short blackouts.**
 
-**[[These occur when we move our eyes without moving the
-head.]{.underline}]{.mark}** **[[These saccadic movements are very
+**These occur when we move our eyes without moving the
+head.** **These saccadic movements are very
 smooth and very rapid and can happen up to five times or more per
-second.]{.underline}]{.mark}**
+second.**
 
-**[[Every time we move our eyes in a saccadic movement, our visual
+**Every time we move our eyes in a saccadic movement, our visual
 processing system blocks our vision to prevent blurring while our eyes
-are in motion.]{.underline}]{.mark}** **[[The brain fills in these gaps
+are in motion.** **[[The brain fills in these gaps
 with what it expects to see.]{.mark}]{.underline}**
 
 So vision appears to be continuous with no blackouts. These brief
@@ -151,8 +151,8 @@ confidence](media_ball-watching-part-1/media/image5.jpg)
 
 **It is technically impossible to \"see\" contact.**
 
-**[[The brain fills in the gaps with what it expects to be
-seeing.]{.underline}]{.mark}** The gaps don't bother us at all.
+**The brain fills in the gaps with what it expects to be
+seeing.** The gaps don't bother us at all.
 However, **[[it is physiologically impossible to \"always keep your eye
 on the ball.\" Your brain simply won't allow it.]{.mark}]{.underline}**
 

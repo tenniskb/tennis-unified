@@ -55,12 +55,12 @@ finish the point just because you are in a breaker. But your approach
 should be in the context of the game plan that got you to the breaker in
 the first place.
 
-**[[Your mindset is also to absolutely avoid unnecessary unforced
-errors.]{.underline}]{.mark}** **[[It's one thing to miss an
+**Your mindset is also to absolutely avoid unnecessary unforced
+errors.** **It's one thing to miss an
 opportunity to hit a winner. But it's another to donate a point on a
-rally ball by a careless miss.]{.underline}]{.mark}** **[[Giving away
+rally ball by a careless miss.** **Giving away
 that type of free point in a breaker can have a much more negative
-effect than it usually does in a game.]{.underline}]{.mark}**
+effect than it usually does in a game.**
 
 **Serving**
 

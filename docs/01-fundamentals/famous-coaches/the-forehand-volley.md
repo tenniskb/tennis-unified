@@ -44,11 +44,11 @@ when using this grip.**
 
 **Split Step**
 
-The volley doesn't exist in a vacuum. ***[[It's part of a pattern of
+The volley doesn't exist in a vacuum. ***It's part of a pattern of
 movement forward to the net that begins with the approach and
-ends]{.underline}]{.mark}***, hopefully, with you winning the point.
-**[[The key move for transiting from the approach to the volley itself
-is the split step.]{.underline}]{.mark}**
+ends***, hopefully, with you winning the point.
+**The key move for transiting from the approach to the volley itself
+is the split step.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -56,11 +56,11 @@ confidence](media_the-forehand-volley/media/image3.webp)
 
 **When you split stay light on your feet and ready to move.**
 
-**[[As your opponent is about to make contact, you split step to gain
+**As your opponent is about to make contact, you split step to gain
 control of your body's forward momentum and establish your
-balance.]{.underline}]{.mark}** **[[The split step also allows you to
+balance.** **The split step also allows you to
 read the opponent's next shot and make your move to the
-ball.]{.underline}]{.mark}**
+ball.**
 
 The timing of your split step must be in sync with the opponent's
 contact to allow you time to react. Even a fraction of a second late on
@@ -99,8 +99,8 @@ to execute, any excess motion in your preparation will make you late for
 the shot.
 
 **Most of the time when you are at the net, you will be volleying in
-quick reflex mode.** **[[Your preparation needs to be compact with no
-excess motion]{.underline}]{.mark}**. **[Your objective is to [prepare
+quick reflex mode.** **Your preparation needs to be compact with no
+excess motion**. **[Your objective is to [prepare
 immediately for contact]{.underline}. You'll use the pace that is
 already on the passing shots, so you [won't need a back
 swing.]{.underline}]{.mark}**
@@ -111,10 +111,10 @@ generated](media_the-forehand-volley/media/image6.webp)
 
 **Like the catch in baseball, the elbow doesn't move backwards.**
 
-**[[A great analogy for understanding the preparation and the mentality
-on the volley is to study the catch in baseball.]{.underline}]{.mark}**
-Watch the right elbow closely as it prepares for the catch. **[[There's
-no backward movement of the elbow.]{.underline}]{.mark}** The arm and
+**A great analogy for understanding the preparation and the mentality
+on the volley is to study the catch in baseball.**
+Watch the right elbow closely as it prepares for the catch. **There's
+no backward movement of the elbow.** The arm and
 glove move forward to meet the ball.
 
 On the volley, the same movement should occur. You want to eliminate any
@@ -131,15 +131,15 @@ generated](media_the-forehand-volley/media/image7.webp)
 **\
 The best way to test and train the correct preparation habit is by
 positioning yourself up against the back fence and having someone feed
-you volleys. [[If your racquet head hits the back fence, you're taking
-a back swing.]{.underline}]{.mark} This exercise will help you eliminate
+you volleys. If your racquet head hits the back fence, you're taking
+a back swing. This exercise will help you eliminate
 that and come forward to meet the ball.**
 
 **Your preparation should position the racquet in front of you so that
-[[your contact point is preferably between your shoulders and in line
-with the center of your chest.]{.underline}]{.mark}** **[[Your racquet
+your contact point is preferably between your shoulders and in line
+with the center of your chest.** **Your racquet
 and arm should make an L shape, showing strong leverage in the wrist
-position.]{.underline}]{.mark}** On your basic block volley, used in
+position.** On your basic block volley, used in
 reflex situations there's very little if any follow through. Remember,
 you're thinking catch, not swing.
 
@@ -153,42 +153,42 @@ you're thinking catch, not swing.
 
 **The Block Volley**
 
-**[[On a block volley, the arm and racquet function is one solid unit,
-blocking the ball like a backboard.]{.underline}]{.mark}** **[[To
+**On a block volley, the arm and racquet function is one solid unit,
+blocking the ball like a backboard.** **To
 achieve depth, use your footwork to drive your body weight into contact
 to help provide punch to your volley as your arm and racquet remain
-firm.]{.underline}]{.mark}**
+firm.**
 
 ![A person playing tennis Description automatically
 generated](media_the-forehand-volley/media/image10.webp)
 
 **Watch the arm and racket move forward as a unit.**
 
-**When the ball is [[well within your reach, you can create angle
+**When the ball is well within your reach, you can create angle
 volleys by moving your contact point more out in front of
-you,]{.underline}]{.mark}** **[[allowing you to angle the racquet
-face.]{.underline}]{.mark}**
+you,** **allowing you to angle the racquet
+face.**
 
-**For the inside out angle volley, you must allow [[your hand to get a
-little ahead of your contact point]{.underline}]{.mark} to create the
+**For the inside out angle volley, you must allow your hand to get a
+little ahead of your contact point to create the
 inside out angle in the racquet.**
 
 **When you have to lunge and reach for volleys, you can create angle in
-the racquet face by [[adjusting the position of your
-wrist.]{.underline}]{.mark}**
+the racquet face by adjusting the position of your
+wrist.**
 
-For those softer **[[angled touch volleys used to put away the
-ball,]{.underline}]{.mark}** you must create the angle in your racquet
-face, then be prepared to **[[use your arm and racquet like a shock
-absorber.]{.underline}]{.mark}**
+For those softer **angled touch volleys used to put away the
+ball,** you must create the angle in your racquet
+face, then be prepared to **use your arm and racquet like a shock
+absorber.**
 
 **Drop Volley**
 
-**[[To execute a drop volley, your arm and racquet must again function
+**To execute a drop volley, your arm and racquet must again function
 like a shock absorber, absorbing nearly all the pace of the incoming
-shot]{.underline}]{.mark}**. **Your preparation positions the racquet
-face directly to contact point position and, [[in your mind, you're
-thinking,]{.underline}]{.mark} \"Catch the ball on contact.\"**
+shot**. **Your preparation positions the racquet
+face directly to contact point position and, in your mind, you're
+thinking, \"Catch the ball on contact.\"**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -199,16 +199,16 @@ confidence](media_the-forehand-volley/media/image11.webp)
 On impact, the wrist position maintains enough firmness to keep the
 racquet and arm together as one solid unit. Watch how the elbow holds
 position and on impact the lower forearm and racquet recoil together,
-absorbing the shock of the ball. **[[But make sure your hand doesn't
+absorbing the shock of the ball. **But make sure your hand doesn't
 grip too tightly or you'll lose flexibility and feel for the
-shot.]{.underline}]{.mark}**
+shot.**
 
-**[[Your setup for the drop volley should have the same preparation as
+**Your setup for the drop volley should have the same preparation as
 your deep volley, disguising the shot so the opponent can't anticipate
-the depth.]{.underline}]{.mark}** **[[Your intent on the drop volley
+the depth.** **Your intent on the drop volley
 should not be to make the shot perfect, just good enough to force the
 opponent. If you go for the outright winners, you'll end up making too
-many errors.]{.underline}]{.mark}**
+many errors.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -224,11 +224,11 @@ force yourself to get down for these shots by spreading your feet and
 really bending your knees.]{.mark}]{.underline}**
 
 You should realize that the opponent has you in a defensive position,
-having hit the ball to your feet. **[[So don't rush through this
-shot]{.underline}]{.mark}**. Take the time to get the ball back into
-play, and hopefully deep. **[[To give the ball lift over the net, you
+having hit the ball to your feet. **So don't rush through this
+shot**. Take the time to get the ball back into
+play, and hopefully deep. **To give the ball lift over the net, you
 should angle the racquet face so that it is open
-slightly.]{.underline}]{.mark}**
+slightly.**
 
 **Half Volley**
 
@@ -239,8 +239,8 @@ Executing the half volley is not all that difficult if you keep it
 simple and don't panic.
 
 **Treat it just like the low volley by getting down to make the shot.**
-**[[Determine where the ball will bounce, then position the racquet head
-directly behind that spot.]{.underline}]{.mark}**
+**Determine where the ball will bounce, then position the racquet head
+directly behind that spot.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -248,10 +248,10 @@ confidence](media_the-forehand-volley/media/image13.webp)
 
 **On the half volley, position the racket head behind the bounce.**
 
-**[[The closer you can position the racquet behind the bounce, the
+**The closer you can position the racquet behind the bounce, the
 better you can judge the height of contact and the
-timing.]{.underline}]{.mark}** **[[Using a slightly open racquet
-face]{.underline}]{.mark}**, **you can either block the ball or add a
+timing.** **Using a slightly open racquet
+face**, **you can either block the ball or add a
 little punch with a follow through.** The half volley drop shot is often
 a great solution to force the opponent. But avoid trying to make the
 shot better than it needs to be.
@@ -267,8 +267,8 @@ choosing to hit the volley straight ahead down the center of the court
 reduces the passing shot angles and makes the lob a more difficult
 option for the opponent.
 
-**[[Recovery for the volley is even more important than recovery on a
-groundstroke.]{.underline}]{.mark}** Why? When you are at the net the
+**Recovery for the volley is even more important than recovery on a
+groundstroke.** Why? When you are at the net the
 ball is going to reach you as much as 40% faster. The initial volley's
 important, but the recovery for the second volley and the covering of
 position is even more essential.
@@ -286,12 +286,12 @@ swing at it and if you don't use the right technique, the ball can end
 up hitting the fence on the fly.
 
 **[When you need to apply some pace to the volley, there's one key
-element to remember.]{.mark}** **[[As you prepare for the volley with
+element to remember.]{.mark}** **As you prepare for the volley with
 your elbow moving forward as the first move, you should angle the butt
-of the racquet towards the ball.]{.underline}]{.mark}**
+of the racquet towards the ball.**
 
-**As the forward action begins, you [[drive the butt of the racquet
-forward and down along the path like a waterfall.]{.underline}]{.mark}**
+**As the forward action begins, you drive the butt of the racquet
+forward and down along the path like a waterfall.**
 This action sends the racquet face up into contact with plenty of pop.
 **[[Notice there's no snapping of the wrist in this action. The wrist
 maintains the strong leverage position through
@@ -302,8 +302,8 @@ control using this technique for the high floating volley.
 
 The swinging volley has always been a trademark of the Bollettieri
 Academy students. We teach this shot to be used as a tool for sneak
-attack out of the rally. **[[It is basically nothing more than a regular
-ground stroke without letting the ball bounce.]{.underline}]{.mark}**
+attack out of the rally. **It is basically nothing more than a regular
+ground stroke without letting the ball bounce.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -311,11 +311,11 @@ confidence](media_the-forehand-volley/media/image15.webp)
 
 **The swinging volley: a groundstroke hit in the air.**
 
-**[[Shifting to the same grip you use on your forehand ground stroke,
-your back swing should be short and compact.]{.underline}]{.mark}**
-**[[You are preparing to take a slightly low to high stroke. Position
+**Shifting to the same grip you use on your forehand ground stroke,
+your back swing should be short and compact.**
+**You are preparing to take a slightly low to high stroke. Position
 yourself so you can work with the ball within your preferred contact
-zone.]{.underline}]{.mark}**
+zone.**
 
 **[[You should add some top spin and build margin of error into this
 shot as you try to force the opponent.]{.mark} [Follow this shot to net

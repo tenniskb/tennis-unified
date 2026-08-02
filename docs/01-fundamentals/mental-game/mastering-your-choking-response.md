@@ -181,19 +181,19 @@ both the breaker and the match. That match was a watershed for Pete, and
 the rest is history as he went on to take his fourteenth Grand Slam
 title.
 
-**[[The message here is: Don't berate yourself with negative self-talk.
+**The message here is: Don't berate yourself with negative self-talk.
 For many players, the first error is not the problem. Instead, the
 emotional abuse they heap on themselves when they choke is what really
-perpetuates the negative cycle.]{.underline}]{.mark}**
+perpetuates the negative cycle.**
 
-**[[Give yourself a key phrase, such as, \"only the ball.\" If you find
+**Give yourself a key phrase, such as, \"only the ball.\" If you find
 yourself engaging in negative self-talk, say to yourself, let it go, and
-focus on the next point.]{.underline}]{.mark}**
+focus on the next point.**
 
-**[[Focus on each point, one at a time. During the point, there should
+**Focus on each point, one at a time. During the point, there should
 be no past or future, only the present. In this framework, every point
 is of the same importance, and this reduces
-pressure.]{.underline}]{.mark}**
+pressure.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically generated with medium
@@ -203,27 +203,27 @@ pressure.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Don't try to think in words about what you're trying to do
+**Don't try to think in words about what you're trying to do
 technically on the court or how to correct errors. Instead, think in
 pictures. Visualize how you want to hit a specific
-shot.]{.underline}]{.mark}**
+shot.**
 
-**[[Stick with your game plan. You should prepare for each match with a
+**Stick with your game plan. You should prepare for each match with a
 game plan that has several options. Your goal is to play high
 percentage, aggressive tennis. This means making a minimum of unforced
 errors on your part, combined with constant pressure on your
-opponent.]{.underline}]{.mark}**
+opponent.**
 
-**[[A common response to increased pressure is to stop playing
+**A common response to increased pressure is to stop playing
 aggressively and to push, although pushing can win you some matches in
 the short run, in the long run, it inhibits your full development as a
-player.]{.underline}]{.mark}**
+player.**
 
-**[[When you are nervous, stay with what you set out to do in the match.
+**When you are nervous, stay with what you set out to do in the match.
 If one aspect of your game plan is clearly not working, try another.
 But, in the long run, it's better to play the way you want to play and
 lose than to compromise your development for the sake of that one
-match.]{.underline}]{.mark}**
+match.**
 
 Finally, learn to transform the energy you are feeling into a positive
 source of motivation. Use the increased pressure you feel as a way to

@@ -11,12 +11,12 @@ What happens between the creation of the dynamic slot and the contact
 point? The answer is surprising and may change your views when it comes
 to the hotly debated role of the wrist in the modern forehand.
 
-First a brief review. **[[The dynamic slot creates a turbocharging
+First a brief review. **The dynamic slot creates a turbocharging
 effect because it brings elements of the stretch-shorten cycle into play
 in the shoulder muscles, and to a less important extent, in forearm
 muscles as well. The use of stretch-shorten cycle elements causes a
 significant increase in the ability of the muscle to produce
-force.]{.underline}]{.mark}**
+force.**
 
 ![A person playing tennis Description automatically
 generated](media_developing-an-atp-forehand-part2/media/image1.webp)
@@ -120,10 +120,10 @@ into simple terms, this [means the point in the forward swing when the
 racquet is basically perpendicular to the
 baseline.]{.underline}]{.mark}**
 
-Why is this important? **[[The transition point in the ATP style
+Why is this important? **The transition point in the ATP style
 forehand marks the transition from a largely linear acceleration of the
 racquet to a largely rotational acceleration of the
-racquet.]{.underline}]{.mark}**
+racquet.**
 
 It marks the point when the racket starts to rapidly rotate forward
 toward the contact point. [On the ATP style forehand this rotation
@@ -203,10 +203,10 @@ further, so the racquet head drops further below the incoming ball,
 pointing down at the court on a diagonal. Conversely, less flip is
 associated with a flatter shot.
 
-**[[For a player who understands this, controlling the flip allows him
+**For a player who understands this, controlling the flip allows him
 to access his full range of topspin levels---the more flip the more
 spin. Meanwhile the forward racquet head speed contributors remain
-essentially unaltered.]{.underline}]{.mark}**
+essentially unaltered.**
 
 The racquet orientation aspect of the dynamic slot is important to
 development of horizontal racquet head speed in the forward swing. As
@@ -227,10 +227,10 @@ of the hand path. This allows the racquet to follow the hand as it
 tracks the relatively straight (forward and slightly lateral) path
 towards contact.
 
-**[[This means that over a large portion of the first part of the
+**This means that over a large portion of the first part of the
 forward swing the racquet is being pulled linearly grip end first. This
 is why there is a period of relatively linear
-acceleration.]{.underline}]{.mark}**
+acceleration.**
 
 [This more linear path simplifies racquet acceleration compared to more
 the more curved paths in the Type 1 and Type 2 forehands. It does this
@@ -267,11 +267,11 @@ intended directions.]{.mark} In the Type 3 ATP style swing, the reversal
 from external rotation of the shoulder joint to internal rotation of the
 shoulder joint is the most critical sequence.
 
-**[[This happens after the transition point and in fact closer to the
+**This happens after the transition point and in fact closer to the
 contact. Because the shoulder musculature was eccentrically stretched
 (or pre-stretched) during the counter-rotation, it can now produce more
 force when rotating the joints in the intended
-direction.]{.underline}]{.mark}**
+direction.**
 
 In Part 1, we saw that a distinguishing feature of the Type 3 swing was
 independent motion of the hitting arm. In the Type 1 and to a lesser
@@ -283,34 +283,34 @@ generated](media_developing-an-atp-forehand-part2/media/image11.webp)
 **Compared to the Type 2 forehand, the upper arm on the Type 3 Forehand
 points more toward the net at contact.**
 
-But with the ATP style swing, **[[the hitting arm is pulled through the
+But with the ATP style swing, **the hitting arm is pulled through the
 trunk rotation through independent use of the shoulder muscles, rather
 than simply rotating with it. This means the arm is positioned well in
-front of the body at contact.]{.underline}]{.mark}**
+front of the body at contact.**
 
 With this contact position, the upper arm segment is also pointing more
 forward. At contact in the Type 3 swing, a line drawn from the shoulder
 joint to the elbow joint points more toward the net and less downward
 when compared to the Type 1 and 2 swings.
 
-**[[This positioning of the upper arm means that as the shoulder
+**This positioning of the upper arm means that as the shoulder
 internally rotates it causes the racquet to move
-vertically.]{.underline}]{.mark}**
+vertically.**
 
 The net effect is that the neuromuscular enhancement created in the
 dynamic slot is realized as enhanced vertical racquet speed at contact.
 And vertical racquet head speed is, of course, the source of topspin.
 
-**[[The beauty of this is that the enhancement of vertical racquet speed
+**The beauty of this is that the enhancement of vertical racquet speed
 is independent of the sources of forward racquet speed. This clean
 partitioning of forward and vertical racquet speed allows them both to
-be optimized concurrently.]{.underline}]{.mark}**
+be optimized concurrently.**
 
-**[[In other words, the trunk rotation and independent forward motion of
+**In other words, the trunk rotation and independent forward motion of
 the hitting arm at the shoulder joint on the ATP style forehand
 contribute fully to forward racquet head speed regardless of how much
 shoulder internal rotation is used to generate
-topspin.]{.underline}]{.mark}**
+topspin.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -435,12 +435,12 @@ As the hand moves inward and to the left in this fashion, the force the
 hand is exerting on the racquet also turns inward. Understanding this is
 critical to understanding what is happening with the wrist.
 
-**[[The centripetal component (ie, towards the center of rotation) of
+**The centripetal component (ie, towards the center of rotation) of
 this force of the hand on the grip would tend to cause the racquet to
 rotate around it own center. But because the racquet is held firmly in
 place the hand, this racquet rotation will only occur if joint motion
 allows it to do so. On the ATP style swing the wrist is the primary
-joint allowing this racquet rotation.]{.underline}]{.mark}**
+joint allowing this racquet rotation.**
 
 To see how a centripetal force can cause rotation of the racket, just
 hold onto your racquet with your thumb and two fingers and swing the
@@ -544,16 +544,16 @@ For these players, the orientation of the racquet at contact is
 controlled by the timing of attaining the transition point, with minimal
 rotational rate control from the wrist joint musculature.
 
-**[[So if a later transition point is preferable, how do players create
+**So if a later transition point is preferable, how do players create
 it? Quite simply, it is done by maintaining the laid back orientation of
-the wrist for as long as possible.]{.underline}]{.mark}**
+the wrist for as long as possible.**
 
 ![A person playing tennis Description automatically generated with
 medium
 confidence](media_developing-an-atp-forehand-part2/media/image20.webp)
 
-**[[Players create later transition by intentionally keeping the wrist
-laid back.]{.underline}]{.mark}**
+**Players create later transition by intentionally keeping the wrist
+laid back.**
 
 However, this is often easier said than done. The laid back wrist is
 created as a dynamic consequence of the racquet flip in dynamic slot.

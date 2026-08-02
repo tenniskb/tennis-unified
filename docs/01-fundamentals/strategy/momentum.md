@@ -55,9 +55,9 @@ generated](media_momentum/media/image5.jpg)
 
 **Top professionals know that matches can have endless ups and downs.**
 
-**[[It's important to note that these are high level professionals,
+**It's important to note that these are high level professionals,
 skilled at dealing with the endless ups and downs in
-matches.]{.underline}]{.mark}** But for lower levels, having momentum
+matches.** But for lower levels, having momentum
 can actually be dangerous if not fully understood.
 
 I strongly believe the player who initially has the lead should always
@@ -78,8 +78,8 @@ start of the next game to stop the slide.]{.mark}]{.underline}**
 against one player who may just have relaxed a little. Often, such sets
 are then won 7-5 by the player who had the 5-2 lead.]{.mark}**
 
-**[[Making a comeback requires a period of continuous mental and
-physical effort.]{.underline}]{.mark}** You're fighting to win those 3
+**Making a comeback requires a period of continuous mental and
+physical effort.** You're fighting to win those 3
 games in a row, and at 5-5, the exertion of making the comeback can
 often then lead to a little slump in intensity due to the relative
 safety of the 5-5 score line compared to the danger of being 2-5 down.

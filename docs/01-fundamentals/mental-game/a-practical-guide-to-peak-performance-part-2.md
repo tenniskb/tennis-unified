@@ -141,7 +141,7 @@ outcome.]{.mark}]{.underline}**
 
 **Cognitive Component**
 
-**The second component is the [[cognitive]{.underline}]{.mark}**
+**The second component is the cognitive**
 **[[component.]{.mark}]{.underline} Your mind and imagination are
 extremely important tools in your entire high performance tool chest.
 \"For as you think so shall you be\". That's a concept that you find
@@ -171,21 +171,21 @@ little more specific: \"C' mon let's get this next point.\"
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Both of these affirmations allow you to let go of bedeviling
+**Both of these affirmations allow you to let go of bedeviling
 immediate past mistakes. They also keep you from drifting off into the
 uncertainty of the future. Their power is to keep you focused on the
 present moment, the only way peak performance can really
-emerge.]{.underline}]{.mark}**
+emerge.**
 
-**[[As Timothy Gallwey was among the first to point out, great tennis is
-played only when you are fully present.]{.underline}]{.mark}** **[[In
+**As Timothy Gallwey was among the first to point out, great tennis is
+played only when you are fully present.** **In
 his classic work, The Inner Game of Tennis, he states that if you are
 fully committed to each forthcoming point, you give your yourself the
 best chance of being present, and also, of achieving your goal of
 winning as a by product of this focusing process. You let go of the
 disappointment of any previously botched points. And you avoid allowing
 your attention to shift forward to future points which may reveal the
-outcome of the match.]{.underline}]{.mark}**
+outcome of the match.**
 
 **[[When you are present in the moment you are not lost in either the
 past or the future. You will find it easier to enjoy the competition and

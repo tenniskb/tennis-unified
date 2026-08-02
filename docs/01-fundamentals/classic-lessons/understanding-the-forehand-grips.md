@@ -38,9 +38,9 @@ lot with each grip position to acquire clear visual and mental images.
 
 The other mental process to understand about grips is that the image and
 the reality of the contact position don't always correlate perfectly.
-Some coaches call this over-compensation**[[. It means the image the
+Some coaches call this over-compensation**. It means the image the
 player develops is more extreme than the reality of the motion. This
-exaggerated image or over-compensation]{.underline}]{.mark}** is used to
+exaggerated image or over-compensation** is used to
 correct, or to hold in check, natural tendencies most players have in
 their swings.
 
@@ -71,15 +71,15 @@ closed face.]{.mark}]{.underline}** This is true for all three major
 grips, however, for the Western and Semi-Western, the angle will be
 slightly more closed than for the Eastern.
 
-**[[As players swing through the forehand, there is a natural tendency
+**As players swing through the forehand, there is a natural tendency
 to open the palm so the face of the racquet points
-skyward.]{.underline}]{.mark}** This causes a loss of ball control and
+skyward.** This causes a loss of ball control and
 makes it extremely difficult to hit consistent topspin. This natural
 body reaction has to be controlled through the image of the closed face.
 
-**[[The faster the swing speed and/or the more vertical the swing
+**The faster the swing speed and/or the more vertical the swing
 trajectory, the quicker the palm of the hand/racquet face wants to
-open.]{.underline}]{.mark}** For this reason, the more Western your
+open.** For this reason, the more Western your
 grip, the more important the image of the closed face becomes.
 
 At the highest levels of the game, the kind of imaging required can be
@@ -124,14 +124,14 @@ popular over the last 15 years among players as well as instructors.
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Both western grips allow a player to hit more topspin, which in turn
-allows him/her to hit the ball harder and higher over the net. **[[One
+allows him/her to hit the ball harder and higher over the net. **One
 of the problems with any western grip is it requires what I call a
 \"swing away mode\". The more fully you swing the better the
-result.]{.underline}]{.mark}**
+result.**
 
-**[[Without a full swing the racquet head at contact trails too far
+**Without a full swing the racquet head at contact trails too far
 behind and/or below the hand. This causes the face of the racquet to
-open too dramatically producing an error.]{.underline}]{.mark}** It also
+open too dramatically producing an error.** It also
 causes the swing to be too wristy. The arm and hand stop, but the
 racquet head keeps going, causing a loss of racquet head control.
 
@@ -140,9 +140,9 @@ the wrist at contact. In general, this is another over-compensation,
 although, again, on some balls, we can actually see pro players in this
 position.
 
-**[[Even though the extreme western grip is extremely common, in my
+**Even though the extreme western grip is extremely common, in my
 opinion this is the worst possible forehand grip position if you want to
-play a complete game.]{.underline}]{.mark}** The transition from an
+play a complete game.** The transition from an
 extreme western to a continental grip required for the volley and the
 serve (moving between the two most extreme possible grips) is very
 difficult and often not achieved very successfully.
@@ -155,9 +155,9 @@ difficult and often not achieved very successfully.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[With the extreme western grip, the swing pattern is extremely
+**With the extreme western grip, the swing pattern is extremely
 vertical. This is necessary to get the racquet face into the proper
-position at contact.]{.underline}]{.mark}** It is almost impossible to
+position at contact.** It is almost impossible to
 hit a completely flat ball with this grip position and the extra swing
 speed required for this grip position creates a greater potential for
 error.
@@ -168,8 +168,8 @@ correct, the player can actually come across and under the ball,
 creating underspin and right to left side spin. This causes the ball to
 fly and also to fade to the right.
 
-**[[The extreme western also requires open stance foot positioning to
-allow for a complete swing]{.underline}]{.mark}**. **[*[This is because
+**The extreme western also requires open stance foot positioning to
+allow for a complete swing**. **[*[This is because
 the contact point is further back in the stance (nearer the back foot)
 than other grip positions, making trunk rotation impossible with a
 closed stance.]{.mark}* [Open stance positions make hitting the ball
@@ -206,10 +206,10 @@ producing errors both into the net and out of the court.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Unlike the extreme western, the semi-western forehand swing pattern
+**Unlike the extreme western, the semi-western forehand swing pattern
 can have a more horizontal plane producing a flatter, more penetrating
 ball which is essential to playing an all court
-game]{.underline}]{.mark}**. Transitioning from the semi-western grip
+game**. Transitioning from the semi-western grip
 position to a continental grip position is much easier (at least
 compared to an extreme western grip position).
 
@@ -247,15 +247,15 @@ being able to hit on the rise essential.
 Swing speed, swing length, and the swing path (the angle at which the
 racquet travels through the hitting zone) can vary considerably with
 this grip, again making it more versatile than either western grip.
-**[[Unlike a western grip (a \"swing away\" grip position), the eastern
+**Unlike a western grip (a \"swing away\" grip position), the eastern
 grip allows for a variety of swing speeds (slow or
-fast).]{.underline}]{.mark}**
+fast).**
 
 The swing length can be very compact or very loopy. Obviously, loopy
 swings, just like western grips, make hitting on the rise more
-difficult. **[[The swing path with the eastern forehand is more
+difficult. **The swing path with the eastern forehand is more
 horizontal in nature but can be easily adapted to create topspin with a
-slightly more vertical swing path when needed.]{.underline}]{.mark}**
+slightly more vertical swing path when needed.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A person playing tennis Description automatically generated with low

@@ -21,13 +21,13 @@ will find that experiencing strong emotion during match play is
 disruptive. Why?
 
 First, let's consider at a little deeper level how trained tennis
-players hit their beautifully coordinated shots. **[[Tennis is largely a
-game of habit and reflex.]{.underline}]{.mark}** **[[And practice is
-mostly a matter of motor learning.]{.underline}]{.mark}** **[[Through
+players hit their beautifully coordinated shots. **Tennis is largely a
+game of habit and reflex.** **And practice is
+mostly a matter of motor learning.** **Through
 countless hours of repetition players program in patterns of nerve
 responses that drive the muscles to hit the various strokes and react
 properly to the multitude of different on-court
-situations.]{.underline}]{.mark}**
+situations.**
 
 When they get into competitive match there is no time to think during
 points. They simply want their complex and carefully programmed
@@ -40,16 +40,16 @@ presents itself.
 ![A person holding a tennis racket Description automatically
 generated](media_the-dangers-of-strong-emotion/media/image2.webp)
 
-**[[Emotion can disrupt your habits and reflexes leading to
-errors.]{.underline}]{.mark}**
+**Emotion can disrupt your habits and reflexes leading to
+errors.**
 
-**[[When you have very strong emotion it tends to disrupt this finely
+**When you have very strong emotion it tends to disrupt this finely
 tuned nervous system of yours, and you tend to make
-mistakes.]{.underline}]{.mark}** **[[The process is so subtle that you
+mistakes.** **The process is so subtle that you
 might not notice it. For example, you may lose an important point on
 what you consider to be a silly error. The natural response is to
 immediately react emotionally. You get a flash of disappointment and
-anger.]{.underline}]{.mark}**
+anger.**
 
 \"How the Hell could I miss such an easy shot?\" you think to yourself.
 You have the urge to fling your racket into the back fence, but you
@@ -88,9 +88,9 @@ It was subtle, but I observed this pattern emerge over and over. When I
 talked with my player after the match and asked how he felt during the
 breaker he usually said he felt fine. He said he wasn't angry nor did
 he feel unusually stressed, but the results told a different story. The
-conclusion was clear to me - **[[it's best to keep your emotions on
+conclusion was clear to me - **it's best to keep your emotions on
 balance and cool so you don't disrupt your game and lose those few
-extra points that cost you matches.]{.underline}]{.mark}**
+extra points that cost you matches.**
 
 ![A person playing tennis Description automatically generated with
 medium

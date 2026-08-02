@@ -60,9 +60,9 @@ The inside out diagonal is the safest play to start the point and allows
 the returner to establish court position in the center of the server's
 attacking angles.
 
-**[[Returning down the line on the backhand side in the deuce court can
+**Returning down the line on the backhand side in the deuce court can
 make you instantly vulnerable to your opponent's
-crosscourt.]{.underline}]{.mark}** A deep inside out return forces the
+crosscourt.** A deep inside out return forces the
 server to respond with a rally ball or attack down the line.
 
 **Going down the line means changing the direction of the shot diagonal,

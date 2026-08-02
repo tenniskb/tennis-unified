@@ -129,10 +129,10 @@ staying cool and trying to solve it, you will end up a habitual loser.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Psychologists call these kinds of perceptual distortions \"defense
+**Psychologists call these kinds of perceptual distortions \"defense
 mechanisms.\" They act at an unconscious level to shield us from facts
 which we have difficulty accepting at a conscious
-level.]{.underline}]{.mark}**
+level.**
 
 But no one is obliged to suffer indefinitely from these runaway defense
 mechanisms. Anyone can become a more effective competitor by keeping a
@@ -140,29 +140,29 @@ few simple ideas in mind.
 
 The first is that forewarned is forearmed. Once you know that fear of
 losing underlies most maladaptive behavior on court, you can be on the
-lookout for it. **[[Fear is able to work its poison only because it
+lookout for it. **Fear is able to work its poison only because it
 comes in various disguises and we are unaware of
-it.]{.underline}]{.mark}**
+it.**
 
-**[[If you accept crazy, fear-driven thoughts as real, you are in
+**If you accept crazy, fear-driven thoughts as real, you are in
 trouble. Stay vigilant and reject maladaptive
-ideas.]{.underline}]{.mark}**
+ideas.**
 
-**[[Then follow the number one rule of the successful competitor: never
+**Then follow the number one rule of the successful competitor: never
 do anything on court that does not help you win the match. It almost
 seems too simple. But if you could always abide by this rule, you would
-automatically avoid most competitive pitfalls.]{.underline}]{.mark}**
+automatically avoid most competitive pitfalls.**
 
-**[[When you are getting emotional during a match, take a second to ask
+**When you are getting emotional during a match, take a second to ask
 yourself whether the thoughts you are having or the actions you are
 planning will help you win. If they won't, make an effort to change
-them to thoughts or actions that will.]{.underline}]{.mark}**
+them to thoughts or actions that will.**
 
-**[[And finally, remember that no one cares why you lose a match. So
+**And finally, remember that no one cares why you lose a match. So
 don't waste your mental energy during match play thinking about the
 good reasons you have for losing. Real as they may be, your coaches and
 friends will just get bored listening to excuses. Use your energy to
-solve your problems and figure out ways to win.]{.underline}]{.mark}**
+solve your problems and figure out ways to win.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

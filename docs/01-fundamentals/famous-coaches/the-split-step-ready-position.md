@@ -50,9 +50,9 @@ at the end of the stroke. But rarely are we asked about [where the
 racquet should be at the start of a shot.]{.underline}]{.mark}**
 
 Although tennis is commonly compared to dance, this analogy is vague and
-misleading. **[[In reality, tennis movement is a series of mini-dances
+misleading. **In reality, tennis movement is a series of mini-dances
 each punctuated at the beginning and at the end by the Split /
-Ready.]{.underline}]{.mark}**
+Ready.**
 
 If we study the great players we can see that relatively small
 differences in the way they execute the Split /Ready, such as timing,
@@ -71,7 +71,7 @@ generated](media_the-split-step-ready-position/media/image3.webp)
 **The complexity of one shot can almost defy description.**
 
 **So now let's begin to immerse ourselves in the
-[[specifics]{.underline}]{.mark}.** I use the word \"specifics\" with
+specifics.** I use the word \"specifics\" with
 caution. I am humbled by the reality that each shot, even just one shot,
 is an unfolding of elements so complex as to almost defy comprehension.
 Variations even in two like-looking hits are often fantastic at close
@@ -194,9 +194,9 @@ generated](media_the-split-step-ready-position/media/image6.webp)
 The first parameter is Posture and Stability. There has never been a
 great athlete or dancer who does not have impeccable posture.
 
-**[[In most cases perfect posture means that the head and torso are
+**In most cases perfect posture means that the head and torso are
 aligned almost directly above the hips and legs with a slight tilt
-forwards.]{.underline}]{.mark}** Some great players lean forward
+forwards.** Some great players lean forward
 drastically as they prepare to return serve, but pay attention to their
 posture at the moment their opponent makes contact.
 

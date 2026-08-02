@@ -51,10 +51,10 @@ the second ball he rotates the hand and racket over much faster so that
 the strings are actually facing the opponent when he reaches the finish.
 
 Watch the more extreme rotation again, isolated in the second animation.
-***[[The hand, arm and racket are turning over as a unit as Roger goes
+***The hand, arm and racket are turning over as a unit as Roger goes
 from the contact to the followthrough. So how does this element fit into
 the game of the top players and how should the average player utilize it
-at lower levels?]{.underline}]{.mark}***
+at lower levels?***
 
 ![A person swinging a tennis racket Description automatically
 generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image3.webp)
@@ -115,12 +115,12 @@ indicator of the total amount of spin a player has hit on a given ball.
 
 **The Rotation Mechanism**
 
-***[[So how does it work on the backhand? This rotation is generated
+***So how does it work on the backhand? This rotation is generated
 from the shoulder, but also from the forearm. The upper arm rotates in
 the shoulder socket, and the forearm rotates from the elbow. This means
 that there are two components in this rotation, and that there is some
 internal play in the hitting arm from the elbow downward as the hand
-turns over.]{.underline}]{.mark}***
+turns over.***
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image5.webp)
@@ -223,12 +223,12 @@ really fast and the wrap can appear to be part of the forward hitting
 motion. (For more on the Myth of the Wrap, [Click
 Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrap_images/the_myth_of_the_wrap.html).)
 
-**[[But look closely at when all this really happens. Watch the hand and
+**But look closely at when all this really happens. Watch the hand and
 racket rotate, but notice that as they rotate the arm stays straight all
 the way through the extension of the forward swing. The forces generated
 by the rotation probably help account for the exaggerated wrap, but this
 again falls into the category of consequence rather than
-cause.]{.underline}]{.mark}**
+cause.**
 
 ![A person running on a green surface Description automatically
 generated with low
@@ -258,12 +258,12 @@ implications here, if any? I think they are significant for players at
 all levels\--as important as hand and arm rotation on the forehand, and
 maybe at times even more so.
 
-**[[Why? Because it is more difficult to generate substantial topspin on
+**Why? Because it is more difficult to generate substantial topspin on
 the one-handed backhand. Too many club players are obsessed with topspin
 for its own sake. They end up hitting shorter looping balls, or using
 extreme grips that aren't warranted by their natural pace or the types
 of balls they have to hit, because they think topspin in and of itself
-is the goal.]{.underline}]{.mark}**
+is the goal.**
 
 ![A person standing in front of a chalkboard Description automatically
 generated](media_the-one-handed-topspin-backhand-hand-and-arm-rotation/media/image11.webp)
@@ -282,11 +282,11 @@ Players who want to develop this should experiment first in controlled
 drill, ideally with a teaching pro or on a ball machine. Don't just
 read the article and assume you can make it work in your next match.
 
-***[[Visualize rotating everything as a unit. Be careful not to lose the
+***Visualize rotating everything as a unit. Be careful not to lose the
 integrity of the straight hitting arm. Finish at eye level as with the
 classic finish, then stop and check where the face of the strings point.
 They should face the net at the extension of the swing with hitting arm
-still straight.]{.underline}]{.mark}***
+still straight.***
 
 Work specifically on the short angles, and then on dealing with low and
 high balls, and varying the heights of your replies. Use targets. If you

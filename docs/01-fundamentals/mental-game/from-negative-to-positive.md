@@ -67,14 +67,14 @@ As long as the student was unconsciously berating herself after every
 error, she was unable to focus on the next shot and proceeded to miss
 more and more backhands.
 
-**[[Many players, at all levels, are dealing with this kind of
+**Many players, at all levels, are dealing with this kind of
 negativity without even being aware how it's affecting their
-play.]{.underline}]{.mark}**
+play.**
 
-**[[The solution is to replace these negative internal messages with
+**The solution is to replace these negative internal messages with
 positive ones, to learn to think and to talk to yourself in a way that
 will lead to better performances and ultimately to the ability to
-achieve your ideal performance state.]{.underline}]{.mark}**
+achieve your ideal performance state.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person in a striped shirt Description automatically generated with medium

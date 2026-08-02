@@ -28,10 +28,10 @@ fight for supremacy, a concept that clarifies many of the otherwise
 incomprehensible emotions swirling around such
 matches.]{.mark}]{.underline}**
 
-**[[Tennis is a symbolic fight, because you just can't hit each other.
+**Tennis is a symbolic fight, because you just can't hit each other.
 In tennis, each contestant pits his or her physicality, intelligence,
 will, nerve, fortitude, and even character against an opponent who is
-doing likewise as they wrestle to a decision]{.underline}]{.mark}**.
+doing likewise as they wrestle to a decision**.
 **[[On court you can 'feel' your opponents pushing you around - trying
 to dominate and control you - while you do the same in
 return.]{.mark}]{.underline}**
@@ -143,23 +143,23 @@ matter.]{.mark}]{.underline}**
 
 **The Nobel Prize**
 
-**[[Unfortunately, the wiring of our nervous system is not consistent
-with this happy theory.]{.underline}]{.mark}** In his 1966 book, \"On
+**Unfortunately, the wiring of our nervous system is not consistent
+with this happy theory.** In his 1966 book, \"On
 Aggression,\" Nobel prize winning ethnologist, Konrad Lorenz, concluded,
-after years of painstaking observation, that **[[all species of animals,
+after years of painstaking observation, that **all species of animals,
 particularly males, instinctively fight each other over resources.
 Social species, including human beings, compete, fight, or threaten to
 fight in order to raise their status in the social hierarchy, higher
 status providing greater access to territory, food, and, with males, to
-females.]{.underline}]{.mark}**
+females.**
 
 This may all sound pretty distant from the tennis courts, but winning
 tennis matches has not in any way hurt Roger Federer's bank account
-(i.e. territory) or attractiveness to women. And **[[it goes without
+(i.e. territory) or attractiveness to women. And **it goes without
 saying that in any group of tennis players, the highest social status
 goes to the player who wins the most, just as in a group of
 businesspeople, high status accrues to the individuals with the most
-money.]{.underline}]{.mark}**
+money.**
 
 **[[Of course, there is more than a little truth in Gallwey's theories.
 For example, it is satisfying in and of itself to improve one's skills
@@ -206,9 +206,9 @@ for them.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Males are accustomed to fighting and competing from early childhood.
+**Males are accustomed to fighting and competing from early childhood.
 Challenging each other in head to head contests and striving to beat
-each other is natural for them.]{.underline}]{.mark}** **[[In contrast,
+each other is natural for them.** **[[In contrast,
 most women have temperaments with a greater nurturing component, and the
 cut-throat aspect of tennis poses problems for many. It is simply not as
 natural for many women to overtly get in each other's faces

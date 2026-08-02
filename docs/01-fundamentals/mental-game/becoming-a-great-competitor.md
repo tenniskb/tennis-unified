@@ -153,11 +153,11 @@ generated](media_becoming-a-great-competitor/media/image7.webp)
 
 **Once the point starts your reactions take over.**
 
-**[[Because of this, you don't want any point to be too important. If
+**Because of this, you don't want any point to be too important. If
 you react strongly every time you win a point, you're making more out
 of the point than should be there. Each point should have some
 importance. It's important, but not that
-important.]{.underline}]{.mark}**
+important.**
 
 **[[You don't want to acknowledge the fact that any one particular
 point is especially important. If you do, you're setting yourself up to
@@ -203,16 +203,16 @@ A lot of us have had experience with failure and what everybody finds
 out is that the harder you try and the more energy and effort you put
 into trying to succeed, the more painful it is when you fail.
 
-**[[Failing is a part of trying and it's a part of every enterprise.
+**Failing is a part of trying and it's a part of every enterprise.
 And what most people are unable to accept are the painful consequences
 of losing. And because they are unwilling to accept the consequences,
-this causes them to behave in maladaptive ways.]{.underline}]{.mark}**
+this causes them to behave in maladaptive ways.**
 
-**[[Fear of losing actually causes them to engage in behaviors that
+**Fear of losing actually causes them to engage in behaviors that
 virtually guarantee that they will lose. I analogize it to somebody
 who's afraid of dying and they're so afraid of dying that rather than
-face their fear, they commit suicide. Now that's]{.underline}]{.mark}**
-**[[a very maladaptive response to the problem.]{.underline}]{.mark}**
+face their fear, they commit suicide. Now that's**
+**a very maladaptive response to the problem.**
 
 ![A person in a white shirt Description automatically generated with
 medium
@@ -220,14 +220,14 @@ confidence](media_becoming-a-great-competitor/media/image10.webp)
 
 **Once the points starts, it's a matter of reaction.**
 
-**[[But in tennis, you see the same kind of maladaptation. For instance,
+**But in tennis, you see the same kind of maladaptation. For instance,
 you see somebody who's losing a match, and their response to that is to
-tank\-\--to quit.]{.underline}]{.mark}** **[[Now, to me, that's a very
+tank\-\--to quit.** **Now, to me, that's a very
 poor reaction, but the reason they do it is because they don't want to
 accept the pain of fighting it all the way out and being disappointing
 and losing. So they accept failure early and they don't try so hard,
 and then by the end of the match they don't feel as bad when they
-lose.]{.underline}]{.mark}**
+lose.**
 
 So how do we control hidden fear? We do it by learning to set the proper
 emotional stage before every point. And how do we set the proper
@@ -264,10 +264,10 @@ usually arise when you are highly confident. So what I am going to
 suggest is a strategy for dealing with what happens in those matches,
 not instances when you are confident that you will prevail.
 
-**[[Most players in most matches will be dealing with fear and
+**Most players in most matches will be dealing with fear and
 uncertainty. The correct strategy in the face of fear and uncertainty is
 not to emote and try to pump yourself up. That has the potential to
-bring hidden fear to the surface.]{.underline}]{.mark}** When you're
+bring hidden fear to the surface.** When you're
 dealing with a situation where you don't have fear and uncertainty, you
 don't have to worry. Your reactions will be right. But for the ordinary
 person when there is that hidden fear, you need control. And once you
@@ -371,17 +371,17 @@ keys.]{.mark}]{.underline}**
 generated](media_becoming-a-great-competitor/media/image16.webp)**Master these techniques and your on your
 way to becoming a great competitor.**
 
-**[[These four stages are the sequence for the whole match. It doesn't
+**These four stages are the sequence for the whole match. It doesn't
 guarantee you're going to win the match, but it gives you absolutely
-the best chance you're going to have]{.underline}]{.mark}**. If you
+the best chance you're going to have**. If you
 want to become a great competitor, if you want to get out of the 95%,
 develop the discipline to practice these techniques and maintain this
 type of control for an entire match.
 
-**[[You'll have a tremendous advantage over the average person who just
+**You'll have a tremendous advantage over the average person who just
 let's themselves be beaten. If you do, there is a good chance you can
 move up much closer toward that 5% of all tennis players who are the
-great competitors.]{.underline}]{.mark}**
+great competitors.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

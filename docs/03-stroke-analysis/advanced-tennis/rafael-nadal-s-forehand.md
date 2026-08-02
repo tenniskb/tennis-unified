@@ -423,9 +423,9 @@ Federer.
 The easiest way to see this is to look at the top of the racket as it
 starts forward to the ball. The edge of the racket basically points
 upward toward the sky as it approaches contact. As the swing progresses
-the edge of the racket starts to turn. ***[[At the completion of the
+the edge of the racket starts to turn. ***At the completion of the
 wrap, the edge turns completely upside down and is pointing down at the
-court. That's roughly 180 degrees of rotation.]{.underline}]{.mark}***
+court. That's roughly 180 degrees of rotation.***
 Sometimes it's even more. You can see it most easily in the across the
 body finish, but if you look closely, you'll see it in the reverse
 finish as well. Unlike other players with fairly extreme grips, like
@@ -532,12 +532,12 @@ players.
 
 We've found that there is a tremendously complex interplay of factors
 that go into producing the full range of potential shots. But the
-forward snap of the wrist isn't one of them. ***[[We saw with Federer
+forward snap of the wrist isn't one of them. ***We saw with Federer
 that even with the straight hitting arm position, the wrist position is
 still laid back, and in fact can be even further laid back compared to
 the more traditional double bend hitting arm position. The laid back
 wrist remains a key element in allowing the transfer of energy into the
-shot.]{.underline}]{.mark}***
+shot.***
 
 ![A person playing tennis Description automatically generated with
 medium

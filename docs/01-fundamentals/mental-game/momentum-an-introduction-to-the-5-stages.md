@@ -116,8 +116,8 @@ confidence](media_momentum-an-introduction-to-the-5-stages/media/image7.jpg) ![A
 automatically generated with medium
 confidence](media_momentum-an-introduction-to-the-5-stages/media/image8.png)
 
-**[[But it is important to understand that it is the nature of momentum
-to move.]{.underline}]{.mark}** Momentum inevitably changes during most
+**But it is important to understand that it is the nature of momentum
+to move.** Momentum inevitably changes during most
 matches, especially if players are of a similar level. Given a bit of
 encouragement by either player, momentum will shift. If you understand
 this, you can learn to shift momentum in your favor.
@@ -150,10 +150,10 @@ respond to turning points. You will learn how to establish momentum,
 keep it with you, or regain it. You will understand why fighting spirit
 is the key and more importantly, when are the most effective times to
 use it. Managing momentum will help you bring together and control many
-of the variable factors that affect you during matches. **[[By learning
+of the variable factors that affect you during matches. **By learning
 to understand and manage momentum you will develop the ability to raise
 your overall level of play and improve your match results on a
-consistent basis.]{.underline}]{.mark}**
+consistent basis.**
 
 ![A person with his eyes closed Description automatically generated with
 low

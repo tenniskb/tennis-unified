@@ -21,10 +21,10 @@ the court.
 \"Impossible!\" you say. \"I just can't see it.\" \"I'm simply not
 capable of beating that person or playing that well.\"
 
-**[[In a literal sense, that may be true. Why? Because our mental
+**In a literal sense, that may be true. Why? Because our mental
 pictures, what we can and cannot see ourselves do inside our own minds,
 determines what we are capable of doing on a tennis
-court.]{.underline}]{.mark}**
+court.**
 
 **[To play your best tennis, to stay positive, to motivate yourself
 through feelings of optimism and confidence, requires that you have the
@@ -159,10 +159,10 @@ Other typical situations to rehearse, making a series of
 uncharacteristic errors, or missing one or more easy balls at critical
 times.
 
-**[[Another important area. How to react when you get a bad call.
+**Another important area. How to react when you get a bad call.
 Rehearse staying calm and focused, verifying the call from your
 opponent, and, if necessary, requesting a
-linesman.]{.underline}]{.mark}**
+linesman.**
 
 |  |
 | --- |

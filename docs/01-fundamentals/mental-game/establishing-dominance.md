@@ -80,10 +80,10 @@ discouragement are signs of weakness that serve only to strengthen your
 opponent \-- the emotional equivalent of giving him backrubs on
 changeovers.]{.mark}]{.underline}**
 
-**[[If you are moaning and groaning when things are going against you,
+**If you are moaning and groaning when things are going against you,
 expect your opponent to fight you to the bitter end. These are
 submissive gestures, not actions of a dominant competitor, so lose
-them.]{.underline}]{.mark}**
+them.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -122,12 +122,12 @@ Thoughtful, purposeful people frighten uncertain people (which are most
 people). Resist ever allowing your opponent to think that you fear any
 part of his game.
 
-**[[For example, if you serve into your opponent's forehand and he hits
+**For example, if you serve into your opponent's forehand and he hits
 a great return, don't be hesitant about serving immediately to it
-again, indicating that you were not impressed.]{.underline}]{.mark}**
-**[[(Later, after he misses one, you may decide that the shot is indeed
+again, indicating that you were not impressed.**
+**(Later, after he misses one, you may decide that the shot is indeed
 dangerous and largely choose to serve elsewhere, but don't let him feel
-like he has bullied you.)]{.underline}]{.mark}**
+like he has bullied you.)**
 
 If you play a long baseline point and he outsteadies you, don't
 immediately begin to hit harder or rush the net. Go right back at him

@@ -133,20 +133,20 @@ line through the shot. Compared to the two-hander the contact is much
 further in front. Watch the animation of Elliot when he makes contact.
 He is really out front.
 
-**[[There is really no wrist involved. The racquet moves through the
+**There is really no wrist involved. The racquet moves through the
 contact zone without any movement in the wrist. If you see the wrist
 come up and over, that is at the end of the follow-through, long after
-the ball is gone.]{.underline}]{.mark}**
+the ball is gone.**
 
-**[[Once you have made contact with the ball, you leave your left
+**Once you have made contact with the ball, you leave your left
 shoulder back, and you leave your left arm down. You basically stretch
 your shoulders. It's a complete stretch of the shoulders. The chest
-stretches out.]{.underline}]{.mark}**
+stretches out.**
 
-**[[But you don't want to bring your left arm up because that looks
+**But you don't want to bring your left arm up because that looks
 like you're going to take off like a bird. It stays down and you
 stretch. By doing that you'll automatically hit on a straight line
-through the ball.]{.underline}]{.mark}**
+through the ball.**
 
 Some people think that you need more strength and so they struggle with
 it. These days you have more kids going to a more extreme grip on the
@@ -164,12 +164,12 @@ continental grip like Pete or Teltscher.
 
 ###  Follow-through
 
-**[[The difference between the two-hander and the one-hander is that on
+**The difference between the two-hander and the one-hander is that on
 a one-hander you stretch your body out and you basically stay sideways.
 On the two-hander you open up like a forehand. If you have a tendency to
 swing your body open on the one-hander, you will also tend to slide the
 ball with side spin instead of staying with the ball and really hitting
-through it.]{.underline}]{.mark}**
+through it.**
 
 **[[The follow-through comes straight out, almost the same spot as on
 the forehand. This is the most critical part of the whole

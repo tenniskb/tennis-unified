@@ -24,18 +24,18 @@ of mind.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[In order to focus your thoughts and perform at your best you have to
+**In order to focus your thoughts and perform at your best you have to
 tell yourself what to think about, rather than what not to think
-about.]{.underline}]{.mark}** For instance, if you tell yourself not to
+about.** For instance, if you tell yourself not to
 think about a pink elephant, it would be difficult to get a pink
-elephant out of your thoughts. **[[I once heard it described as \"There
+elephant out of your thoughts. **I once heard it described as \"There
 is always a party going on in my head!\" That may be so, but learning to
-control that party will make you a better player.]{.underline}]{.mark}**
-**[[So, rather than telling yourself what not to think, such as, \"I
+control that party will make you a better player.**
+**So, rather than telling yourself what not to think, such as, \"I
 only have to win two more points and I'll win the set!\", learn to
 focus on the task at hand. This can be accomplished through a series of
 questions you can ask yourself and answer very
-quickly.]{.underline}]{.mark}**
+quickly.**
 
 By playing one shot at a time and concentrating on that one shot, you
 can develop a more focused sense of concentration on the court and learn
@@ -70,10 +70,10 @@ shoulders and knees.
 
 ### Establishing the Contact Zone
 
-**[[Without the ball, swing your racquet and stop it at the contact
-point.]{.underline}]{.mark}** **[[Try it first with your eyes open, then
+**Without the ball, swing your racquet and stop it at the contact
+point.** **Try it first with your eyes open, then
 with your eyes closed and see if it is in the same
-position.]{.underline}]{.mark}** Once you have established a comfortable
+position.** Once you have established a comfortable
 contact zone in terms of the balls height, distance from your body, and
 the timing of when your racquet face is parallel to the net, look at the
 distance that spot is from your feet. When moving to the right (toward
@@ -81,8 +81,8 @@ the right-hander's forehand), judge the contact point with your right
 foot, whether you hit with an open stance or you step into the ball with
 your left foot. Moving to the left (the right-hander's backhand), judge
 the ball with your left foot so you have room to step in with your right
-foot. **[[The back foot is the foot that judges the contact
-point.]{.underline}]{.mark}**
+foot. **The back foot is the foot that judges the contact
+point.**
 
 Here is a drill to practice Ball Flight Recognition. Every time your
 opponent hits the ball, ask yourself these three questions: What is it?

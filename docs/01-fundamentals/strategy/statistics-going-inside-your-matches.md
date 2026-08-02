@@ -231,22 +231,22 @@ frustration of dealing with her opponent's tendencies to hit deep,
 topspin moonballs, and also, the length of the rallies which often went
 to 10 balls or more.
 
-**[[What Yulia lacked was the ability to distinguish what her real
+**What Yulia lacked was the ability to distinguish what her real
 opportunities were, and when to take advantage of
-them.]{.underline}]{.mark}** **[[Her mind set was to play aggressively,
+them.** **Her mind set was to play aggressively,
 but this sometimes prevented her from realizing exactly where she was on
 the court and when she was in a defensive
-position.]{.underline}]{.mark}**
+position.**
 
 **[[No doubt, getting the opportunities to finish was difficult against
 this opponent. She rarely missed and didn't mind pushing. But that was
 no excuse for trying to create opportunities where they didn't
 exist.]{.mark}]{.underline}**
 
-**[[What Yulia desperately needed was to understand how to build
+**What Yulia desperately needed was to understand how to build
 points - how to work the exchanges over the course of several balls to
 create the opportunity to put her weapons into
-play.]{.underline}]{.mark}**
+play.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                              ![A person holding a tennis racket Description automatically
@@ -314,11 +314,11 @@ she gave away.
    National 3               3                16            L: 6-2, 6-0
   -----------------------------------------------------------------------
 
-**[[Once again, most of these errors came from deep, defensive positions
+**Once again, most of these errors came from deep, defensive positions
 caused by Yulia's frustration at the girl's consistency and by her own
 tendency to try for the impossible. As in the first match, if she had
 simply cut here errors in half, the outcome might very well have been
-different.]{.underline}]{.mark}**
+different.**
 
 As in the other match, Yulia also could have brought the variety of her
 game more into play. She actually won 4 of the 5 points when she was at

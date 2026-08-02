@@ -368,9 +368,9 @@ generate more spin, then the aerodynamic effects will bring the ball
 down sooner, therefore you can hit the ball harder at the same time,
 which is an obvious advantage,\" observes Stuart Miller at ITF.
 
-**[[\"So, that's why, if you can generate more spin you can keep on
+**\"So, that's why, if you can generate more spin you can keep on
 swinging at the ball harder and it becomes
-faster.]{.underline}]{.mark}** So, if somebody were to produce a string
+faster.** So, if somebody were to produce a string
 that has a step-change in spin-generating capacity then you have to
 assume that players would take advantage of that. And you get them
 swinging the racket faster, generating more spin, \[with the ball\]

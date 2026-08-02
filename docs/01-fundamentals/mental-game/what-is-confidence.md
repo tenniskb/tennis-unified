@@ -133,8 +133,8 @@ player. He was so bad no one wanted to hit with him.\"
 him a little plastic trophy. He got really excited. It changed his whole
 outlook\--his whole life. He discovered his will to win that day.\"
 
-And then Vic said this: **[[\"The desire to win is always the greatest
-factor in success.\"]{.underline}]{.mark}**
+And then Vic said this: **\"The desire to win is always the greatest
+factor in success.\"**
 
 **[[Now that set me off. The desire to win is the greatest factor?
 Always?]{.mark}]{.underline}**

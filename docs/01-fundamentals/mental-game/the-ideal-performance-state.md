@@ -124,17 +124,17 @@ methods that will allow you to create your own Ideal Performance State,
 to overcome choking, to learn to love the competitive battle, and to
 play the game with a sense of real fun.
 
-The emphasis is on the word training. **[[It's not a matter of just
+The emphasis is on the word training. **It's not a matter of just
 understanding how you should think and feel. It's a matter of actually
-thinking and feeling that way.]{.underline}]{.mark}** These articles
+thinking and feeling that way.** These articles
 will present a series of specific physical and psychological techniques
 that, when practiced with discipline over time, will give you the
 ability to literally shift your internal chemistry.
 
-**[[Mental toughness is nothing more than this ability to consistently
+**Mental toughness is nothing more than this ability to consistently
 create IPS, and this state of physical and mental harmony naturally
 leads to your best tennis whenever you are on the
-court.]{.underline}]{.mark}**
+court.**
 
 The result for you will be the same kind of mental toughness we see in
 the world's best players. The ability to win more matches, to beat the

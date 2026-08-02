@@ -20,9 +20,9 @@ reinforcement, \"Let's always be positive!\" And I think that's good.
 That should be the role of the parent.
 
 But what they don't see is that the kid never accomplishes anything.
-**[[The kid may be very \"positive\" but he's never going to be a
+**The kid may be very \"positive\" but he's never going to be a
 tennis player if he isn't disciplined and taught to go from Step 1 to
-Step 2.]{.underline}]{.mark}**
+Step 2.**
 
 That's where I come in. I'm the one who gives them a reality check.
 
@@ -40,10 +40,10 @@ over. We don't just do it once. We do it 20 times. And then we do it 40
 times. That's the way it is. The discipline of repetition is the key to
 success.
 
-**[[If you want to be a tennis player, you can't afford to make
-unforced errors.]{.underline}]{.mark}** **[[You have to be able to
+**If you want to be a tennis player, you can't afford to make
+unforced errors.** **You have to be able to
 swing, hit the ball hard, and know that it's going in the court. The
-only way to develop that is repetition.]{.underline}]{.mark}**
+only way to develop that is repetition.**
 
 Today, a lot of people think that I am being tough on the children. At
 times, I think that is part of a huge problem that parents don't
@@ -125,13 +125,13 @@ ever talks about it. But it's a critical part of learning how to hit
 the ball well, how to hit through the ball and how to penetrate the
 court.
 
-**[[To me the best ball is a ball that goes about two feet above the
+**To me the best ball is a ball that goes about two feet above the
 net. If you hit through the ball, you can crank it about two feet above
-the net, and it goes in hard and deep.]{.underline}]{.mark}**
+the net, and it goes in hard and deep.**
 
-**[[The problem is so many coaches want players to hit higher over the
+**The problem is so many coaches want players to hit higher over the
 net with heavy topspin. And once you go higher, it is more difficult to
-hit with power later on.]{.underline}]{.mark}**
+hit with power later on.**
 
 Basically, there is a zone over the net for every ball. For example, if
 I'm in the forehand corner, and I hit a hard, deep crosscourt, the ball
@@ -149,11 +149,11 @@ about two feet above the net, and about three inches to the left of the
 strap. And I tell you, if you hit the ball there, it'll go right in the
 corner, fast. That's the only zone that'll lead to that shot.
 
-**[[If it goes higher, it'll go out. There's a huge relation between
-power and the level of the ball over the net.]{.underline}]{.mark}** A
-huge relation! **[[And the great guys can hit it hard and low. The
+**If it goes higher, it'll go out. There's a huge relation between
+power and the level of the ball over the net.** A
+huge relation! **And the great guys can hit it hard and low. The
 not-so-great guys can't and that's why they hit the ball in the net,
-or high with topspin.]{.underline}]{.mark}**
+or high with topspin.**
 
 Often the first thing you hear somebody say to a kid, is, \"Give
 yourself a little bit more margin over the net. Go higher over the
@@ -165,10 +165,10 @@ generated](media_discipline/media/image4.webp)
 
 **Go high over the net and you can forget hitting hard.**
 
-**[[You go higher over the net, you can forget hitting it hard. You have
+**You go higher over the net, you can forget hitting it hard. You have
 to hit it soft, or put more top spin on it. It's not the same ball. The
 top guys, when they hit the ball, the ball goes low over the net and
-they don't miss.]{.underline}]{.mark}**
+they don't miss.**
 
 I had a young woman player come to me. She thought she was good enough
 to play on the tour, but she said she had one problem. \"You know
@@ -210,13 +210,13 @@ you're playing someone that doesn't seem to hit the ball that well,
 but then you go up to the net and he rips it by you. And you think,
 \"where did that come from?\"
 
-**[[The answer is you gave him a target. That's what I'm doing in
+**The answer is you gave him a target. That's what I'm doing in
 reverse. I put the target down, and say, \"Okay, let's aim at the
-target.\" \"Let's actually develop the zone.\"]{.underline}]{.mark}**
+target.\" \"Let's actually develop the zone.\"**
 
-Most kids can hit it one, two, maybe three targets out of ten. **[[But
+Most kids can hit it one, two, maybe three targets out of ten. **But
 if you can't hit the target, then you can't hit your ball in the zone,
-it's as simple as that.]{.underline}]{.mark}**
+it's as simple as that.**
 
 Some of the kids love it. I have a funny story, about Justin Gimelstob
 when he was in the juniors. Just before he went to Kalamazoo and won the
@@ -250,16 +250,16 @@ The discipline the kid gets in the lesson is very important. You need to
 have a lot of discipline to develop the strokes and to develop the
 zones.
 
-**[[If a kid has a concentration problem, it's not going to help just
+**If a kid has a concentration problem, it's not going to help just
 to \"ask\" the kid to do it right. If you just let it go and act like
 everything is fine, the kid is never going to
-concentrate.]{.underline}]{.mark}**
+concentrate.**
 
-**[[Little by little by little you force the concentration on
-them.]{.underline}]{.mark}** **[[You move them a little bit and then you
+**Little by little by little you force the concentration on
+them.** **You move them a little bit and then you
 move them a little bit more. The bottom line is, if you demand
 concentration, the kid's concentration will
-improve.]{.underline}]{.mark}**
+improve.**
 
 But that doesn't mean lessons every day make kids into tennis players.
 That's something a lot of parents don't understand. A lot of parents
@@ -453,12 +453,12 @@ I think the first time kids hit balls, if you get them to do it the
 right way, they will do it that way for the rest of their lives. Kids
 need to be disciplined.
 
-**[[That's why it's very important for parents to start the kid out
+**That's why it's very important for parents to start the kid out
 right and get good coaching from the beginning. Parents often make a
 mistake starting their kid with someone who's not experienced with the
 game just to save money. This can cause problems later in the
 development process, particularly if the kid starts with an extreme
-grip.]{.underline}]{.mark}**
+grip.**
 
 They also need to incorporate what they learn for themselves. I'm
 telling you if you start out the kids the way I start them out, in the

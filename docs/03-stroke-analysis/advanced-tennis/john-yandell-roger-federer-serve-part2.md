@@ -82,20 +82,20 @@ sideways.**
 
 To my amazement, when I started looking closely at the tossing motions
 of the top players, I saw that on the way up the tossing arm did not
-point straight forward at the net. **[[Instead the tossing arm pointed
-more towards the sideline.]{.underline}]{.mark}** That's turned out to
-be true of virtually every good server, including Roger. **[[At the time
+point straight forward at the net. **Instead the tossing arm pointed
+more towards the sideline.** That's turned out to
+be true of virtually every good server, including Roger. **At the time
 of the release, his arm is approaching parallel to the baseline, at an
-angle of maybe 15 or 20 degrees.]{.underline}]{.mark}**
+angle of maybe 15 or 20 degrees.**
 
 **The Arc**
 
 The purpose of the \"straight down, straight up\" tossing motion, I was
 taught, was to release the ball so that it could travel directly upward
 in front of the server. But video shows that this isn't how the ball
-actually travels. **[[Rather than traveling straight upward, the toss
+actually travels. **Rather than traveling straight upward, the toss
 traveled on a curve. The actual path is on an arc moving from the
-players's right to his left.]{.underline}]{.mark}**
+players's right to his left.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -108,20 +108,20 @@ time of the ball release, the tossing arm points sideways. If the ball
 traveled straight upward it would end up so far to the right that the
 player couldn't possibly create the correct contact point.
 
-**[[Since the player releases the ball with his arm extended to his
+**Since the player releases the ball with his arm extended to his
 right, the ball has to travel on a curve back toward the player to reach
-the contact point.]{.underline}]{.mark}** The width of this arc for
+the contact point.** The width of this arc for
 Federer is about 2 feet. This is similar to all the other top players.
-***[[So the contact point is actually an intersection of two objects
+***So the contact point is actually an intersection of two objects
 moving in different directions. The racket head moving upward and
 somewhat to the players right, and the toss, moving to the players left
-but also downward.]{.underline}]{.mark}***
+but also downward.***
 
 **Toss Height**
 
-**[[If we look at the arc of the toss we can see that it not only
+**If we look at the arc of the toss we can see that it not only
 travels from right to left, it also drops significantly before
-contact.]{.underline}]{.mark}** Here is another common belief that is
+contact.** Here is another common belief that is
 still widely taught. \"Hit the ball at the top of the toss.\" In
 Federer's case the toss drops about 3 feet before contact. This is a
 little more than Sampras and substantially less than Roddick.
@@ -197,8 +197,8 @@ Vegas. Let's just note again that virtually every great server in the
 history of the game hits the ball on the way down, and some, like Ivan
 Lendl, Boris Becker, and Steffi Graff have had ultra high tosses. If
 there really was some huge advantage to the low toss, it would be a
-commonality among top players. But it's the opposite. **[[All the top
-players have high tosses, not low tosses.]{.underline}]{.mark}**
+commonality among top players. But it's the opposite. **All the top
+players have high tosses, not low tosses.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -277,12 +277,12 @@ the video appears to show is that Pete's racket is traveling somewhat
 more forward an upward. Roger's is traveling slightly more across the
 ball. This is consistent with our theory of the ball placement on the
 toss and aslo with our spin data on both players, as we will see below.
-What the video also indicates is that ***[[the differences in the
+What the video also indicates is that ***the differences in the
 amounts and types of spin are the result of relatively small adjustments
 in the racket path and ball position. These are difficult to see with
 the video, let alone the naked eye. But they can make a big difference
 in the quality of the serve in terms of speed and
-weight.]{.underline}]{.mark}***
+weight.***
 
 A lot has been made of Sampras's tendency to bend the elbow soon after
 contact, so that the hand and racket drop at an angle to the upper arm.
@@ -314,10 +314,10 @@ the ball.
 
 Pete has more topspin, his angle is a little steeper, the racket moves a
 little more forward. But the angle in Federer's racket shows that he is
-still hitting up at contact. **[[The beauty of it is that Federer's
+still hitting up at contact. **The beauty of it is that Federer's
 ball position (or something close to it) and his motion through the
 contact (or something close to it) are within the reach of most
-players.]{.underline}]{.mark}** It's not that your total spin values
+players.** It's not that your total spin values
 will equal Roger's, it's that with a similar ball position you will be
 able to generate a significant topspin component on your own serve.
 
@@ -330,13 +330,13 @@ confidence](media_john-yandell-roger-federer-serve-part2/media/image15.webp)
 **The contact is just at the front edge of the body.**
 
 There is one more important factor to consider in the placement of the
-toss. ***[[This is the position of the ball on the front to back axis.
+toss. ***This is the position of the ball on the front to back axis.
 \"Toss the ball in front of you for more power.\" That's another common
 mantra in teaching. But if we look at Federer, or any top server, we see
 that the contact point is barely in front of the body. If you draw a
 line straight down from the ball toward the court, it's roughly even
 with the edge of the player's face, or at most an inch or two further
-in front.]{.underline}]{.mark}***
+in front.***
 
 This makes perfect sense for a number or reasons. If the toss were
 significantly further in front, the player would have to reach forward
@@ -348,7 +348,7 @@ when we discuss leg position.
 
 **Body Rotation**
 
-**[[We've seen that the top players extend their tossing arms to the
+**We've seen that the top players extend their tossing arms to the
 side and this affects the path of the toss. But why? What's the
 advantage of pointing the arm across the body? The answer is that the
 position of the tossing arm toward the sideline is related to the body
@@ -356,7 +356,7 @@ turn away from the ball. This turn determines the forward body rotation
 in the motion. The stretch of the left arm across the body is actually
 similar to what happens in the preparation phase of the forehand. It
 creates and/or increases the shoulder turn and prepares the torso to
-uncoil into the shot.]{.underline}]{.mark}**
+uncoil into the shot.**
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-roger-federer-serve-part2/media/image16.webp)
@@ -420,12 +420,12 @@ report about on Tennisplayer.
 The whole picture is very complex. But one belief about the torso
 rotation that is definitely inaccurate is the idea that the hips and
 shoulders should be open or parallel to the baseline at contact.
-***[[Federer's shoulders and hips are at an angle to the baseline and
+***Federer's shoulders and hips are at an angle to the baseline and
 somewhat closed, and this is the same for other top players, as we have
 seen in our analysis of Sampras and Roddick. We can also see that the
 torso is more closed in the ad court than in the deuce, something that
 makes sense when we consider the differences in path of the
-ball.]{.underline}]{.mark}***
+ball.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -469,9 +469,9 @@ and in the articles on the great myths in instruction ([Click
 Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html).)
 There are also examples in the Stroke Archive of virtually every top
 server showing the knee bend, the uncoiling, and the left foot landing.
-As I have argued before, I think the platform stance is ***[[probably
+As I have argued before, I think the platform stance is ***probably
 superior at the higher levels and is also much easier to master for the
-majority of players.]{.underline}]{.mark}***
+majority of players.***
 
 Federer is a great model here. The width of his feet in his stance is
 moderate, somewhat narrower than Pete's. As the arms drop it's very
@@ -512,10 +512,10 @@ generated](media_john-yandell-roger-federer-serve-part2/media/image24.webp)
 
 As the racket drops, the weight shift continues onto the front foot.
 Roger comes up on his back toes, and then his rear foot leaves the
-court. As we saw in our analysis of the stances, ***[[the majority of
+court. As we saw in our analysis of the stances, ***the majority of
 the push or drive in a platform stance is coming from the front leg. The
 rear foot is literally being pulled off the
-court.]{.underline}]{.mark}*** The leg drive off this front foot is very
+court.*** The leg drive off this front foot is very
 powerful. Look how far he explodes upward. That is definitely a lot of
 air. It is significantly more than Roddick or Pete, this is with the
 same or less knee bend. We noted that Roger's racket drop isn't quite
@@ -540,25 +540,25 @@ generated](media_john-yandell-roger-federer-serve-part2/media/image25.webp)
 **Landing**
 
 As he gets up into the air look how beautifully he retains his posture!
-**[[He is still almost completely straight up and down with his body in
+**He is still almost completely straight up and down with his body in
 line from the tips of his shoes to the tip of his racket. It looks like
 he is defying gravity because he lifts off the court so
-easily.]{.underline}]{.mark}**
+easily.**
 
 Now watch Roger's incredible balance on his landing. Far and away Roger
 lands with the best posture of any of the top pros. Every player lands
 leaning forward to a certain extent, including Roger. But Roger is the
-closest to truly straight up and down. **[[Body position and balance is
+closest to truly straight up and down. **Body position and balance is
 critical on the landing is because of the speed of the ball in the
-modern game.]{.underline}]{.mark}** **[[The server hits a 130mph first
+modern game.** **The server hits a 130mph first
 serve and lands inside the court with one foot in the air. The returner
 rockets a 95mph return. How quickly can the server recover in order to
-hit the first ground stroke in the rally?]{.underline}]{.mark}**
+hit the first ground stroke in the rally?**
 
 We saw above that Roger lands at most a few inches inside the court or
-even with his heel still on the baseline. ***[[He's almost completely
+even with his heel still on the baseline. ***He's almost completely
 upright which allows him to recover his balance, split, and better ready
-for the first ball.]{.underline}]{.mark}***
+for the first ball.***
 
 What about that landing when it comes to the serve and volley? Isn't
 one of the basic precepts of serving to drive your weight into the ball
@@ -576,11 +576,11 @@ confidence](media_john-yandell-roger-federer-serve-part2/media/image26.webp)
 
 **A balanced landing means that Roger is ready to play.**
 
-If you look at Sampras, or Rusedski, you'll see the same. ***[[In the
+If you look at Sampras, or Rusedski, you'll see the same. ***In the
 modern game, when the player's serve and volley they land on the front
 foot, take 1 or occasionally 2 more steps, then split step for the first
 volley. That's what puts the premium on the
-landing.]{.underline}]{.mark}*** You've probably heard that you should
+landing.*** You've probably heard that you should
 try to reach the service line to hit the first ball. But in pro tennis
 that doesn't happen. The top players are all hitting the first volley
 roughly half way between the baseline and service line. Ironically. a

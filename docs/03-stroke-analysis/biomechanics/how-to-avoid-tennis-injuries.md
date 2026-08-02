@@ -40,9 +40,9 @@ the arm following ball impact.
 These eccentric contractions of the rotator cuff following ball impact
 are of vital importance in the shoulder as they assist in maintaining
 the stability required to both prevent injury and enhance performance.
-**[[During the tennis serve the upper arm is initially elevated
+**During the tennis serve the upper arm is initially elevated
 approximately 90-100 degrees relative to the
-body.]{.underline}]{.mark}** From this position, large forces are
+body.** From this position, large forces are
 produced by the internal rotator muscles of the shoulder such as the
 pectoral muscles and rotator cuff to accelerate the arm and racquet head
 upwards and forwards toward an explosive ball impact.

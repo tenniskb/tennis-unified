@@ -14,8 +14,8 @@ makes a player's forehand or serve \"heavy as a brick\"?
 
 OR is there even such a thing at all? Frankly some of the explanations
 of the I've heard make the least sense of anything I've encountered in
-coaching and teaching. **[[So this section begins a quest to try to
-unravel the \"mysteries of the heavy ball.\"]{.underline}]{.mark}**
+coaching and teaching. **So this section begins a quest to try to
+unravel the \"mysteries of the heavy ball.\"**
 
 We know that\--if there is such a thing the heavy ball must involve some
 combination of ball speed and ball spin. But understanding how they

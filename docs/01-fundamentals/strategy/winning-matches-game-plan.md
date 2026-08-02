@@ -34,13 +34,13 @@ attack or a serious defense. It's not enough to simply try in a tennis
 match. You must try to do something, and that something is to execute
 your game plan.
 
-**[[The ultimate goal of the plan is to break down the structural
+**The ultimate goal of the plan is to break down the structural
 integrity of your opponent's game while retaining the integrity of your
-own.]{.underline}]{.mark}** **[[This means breaking down your
+own.** **This means breaking down your
 opponent's will to fight. You want him to become discouraged and
 therefore mentally disorganized. When he reaches this point, he will
 begin to make more mistakes and ultimately lose the
-match.]{.underline}]{.mark}**
+match.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A picture containing sport, athletic game, tennis, outdoor Description automatically
@@ -50,30 +50,30 @@ match.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Now this can be done in many ways. Two possibilities are through
-brute force or through guile.]{.underline}]{.mark}** **[[The player who
+**Now this can be done in many ways. Two possibilities are through
+brute force or through guile.** **The player who
 uses brute force simply uses his own strengths over and over like a
 bludgeon. He assumes that his game is so strong that his opponent can't
 resist forever. The player who uses guile makes his opponent's
-weaknesses the focus of his assault.]{.underline}]{.mark}** **[[Both
+weaknesses the focus of his assault.** **Both
 methods are based on the hope that if the tactics work well enough an
 opponent will lose commitment to his own plan and be unable to replace
-it with a better one.]{.underline}]{.mark}**
+it with a better one.**
 
-**[[Learning to create and use a game plan can give you a huge advantage
+**Learning to create and use a game plan can give you a huge advantage
 in matches. There are three steps in setting one
-up:]{.underline}]{.mark}**
+up:**
 
-**[[The first is to gain a clear understanding of your strengths and
-weaknesses relative to your opponent.]{.underline}]{.mark}**
+**The first is to gain a clear understanding of your strengths and
+weaknesses relative to your opponent.**
 
-**[[Next, formulate a general plan of how you intend to win most of your
+**Next, formulate a general plan of how you intend to win most of your
 points. Basically, you can win points in only two ways. You win points
 when you yourself hit a winner, or you win points when your opponent
 makes an error. That is, you can win either by playing offense or
-playing defense.]{.underline}]{.mark}**
+playing defense.**
 
-**[[Offense or Defense]{.underline}]{.mark}**
+**Offense or Defense**
 
 **[[Against a particular opponent you must decide whether you are
 primarily going to hit winners yourself and attack, or whether you're
@@ -109,34 +109,34 @@ No matter what your style and/or strategic flexibility, the most
 important thing is to decide in each match what your primary way of
 winning points will be, offense or defense.
 
-**[[The third step in formulating your game plan is to decide on the
+**The third step in formulating your game plan is to decide on the
 specific tactics to use in each match to carry out your general plan.
 This means defining what your opponent's weaknesses are relative to
 your own game. And then pressuring them either by attacking them or out
-steadying them.]{.underline}]{.mark}**
+steadying them.**
 
-**[[In the back court, almost every player is weaker on one side. Can
+**In the back court, almost every player is weaker on one side. Can
 you get an advantage in either crosscourt
-exchange?]{.underline}]{.mark}** ([See Part
+exchange?** ([See Part
 1](Winning%20Matches%20-%20Tactics.docx)) **[Rallying crosscourt to your
 opponent's backhand, for example, can you eventually draw enough errors
-to break his game down?]{.underline}** **[[Note: it's not necessary
+to break his game down?]{.underline}** **Note: it's not necessary
 that your backhand be your stronger shot. It only matters that it's
 better than your opponent's so you can get the advantage in exchanges.
-The idea is to be persistent and systematic.]{.underline}]{.mark}**
-**[[Find a weakness and go after it until your opponent comes up with
+The idea is to be persistent and systematic.**
+**Find a weakness and go after it until your opponent comes up with
 some effective countermeasure, and if he doesn't, continue to exploit
 it until you break it and the rest of his game
-apart.]{.underline}]{.mark}**
+apart.**
 
-**[[What about attacking at the net? Look for your opponent's weaker
-passing shot and serve and volley on that side.]{.underline}]{.mark}**
-**[[Or come in off your groundstrokes.]{.underline}]{.mark}** **[[One of
+**What about attacking at the net? Look for your opponent's weaker
+passing shot and serve and volley on that side.**
+**Or come in off your groundstrokes.** **One of
 the major misunderstandings about net play is the belief that succeeding
 at net is dependent on your ability to hit dramatic winning volleys. The
 reality is that to win at the net your attacking game doesn't have to
 be world class. It only has to be slightly better than your opponent's
-defense.]{.underline}]{.mark}**
+defense.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         ![A couple of men playing tennis Description automatically generated with medium
@@ -146,13 +146,13 @@ defense.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Coming to the net you need to hit at least some volley winners, but
+**Coming to the net you need to hit at least some volley winners, but
 you're also putting pressure on your opponent to get the ball past you
-or over you.]{.underline}]{.mark}** **[[You may win most of your points
+or over you.** **You may win most of your points
 at net because your opponent misses passing shots. Players frequently
 overreact to pressure at the net, and this can lead to a significant
 number of errors on passes. In terms of the score, a missed pass counts
-exactly the same as a winning volley.]{.underline}]{.mark}**
+exactly the same as a winning volley.**
 
 **Play to Your Advantage**
 
@@ -161,34 +161,34 @@ your opponent in every aspect of the game. You simply have to find one
 exchange in which you have a relative advantage and keep working it
 until your opponent cracks.]{.mark}]{.underline}**
 
-**[[At the start of a match commit to the plan with all the intensity
+**At the start of a match commit to the plan with all the intensity
 you can muster. At the same time, without diminishing your commitment,
 you have to monitor the progress of the match and see if it is
-working.]{.underline}]{.mark}** Does the plan feel good? Are you in
+working.** Does the plan feel good? Are you in
 control of the points? Are you winning the match? If it feels good,
 stick with it. It's only if you're losing and at the same time feel
 out of control or dominated that you have to seriously consider changes.
 
-**[[The question to ask in deciding whether or not to alter a game plan
-is this: could this be a temporary condition?]{.underline}]{.mark}** For
+**The question to ask in deciding whether or not to alter a game plan
+is this: could this be a temporary condition?** For
 a few games you may be missing shots that would normally be routine. Or
 your opponent may be having a hot streak that he can't really sustain.
 These situations usually turn around soon if you stay cool and don't
 panic.
 
-**[[The time for a change is when you're convinced your plan has no
+**The time for a change is when you're convinced your plan has no
 hope of success considered in the long-term context of the entire
-match.]{.underline}]{.mark}** Most players make the mistake of giving up
+match.** Most players make the mistake of giving up
 on a game plan too soon or changing it too drastically. They may end up
 adopting a new plan that's worse than the first. Successful players are
 immediately sensitive to what works. They're drawn to a successful
 tactic like a shark to blood. So make sure that you're aware of what's
 working and what's not working, and why.
 
-**[[Change your plan only when your plan is not working and when you can
+**Change your plan only when your plan is not working and when you can
 come up with a better plan. For example, if you find you're not
 steadier than your opponent on the baseline in any of the possible
-exchanges, you might try coming to the net more.]{.underline}]{.mark}**
+exchanges, you might try coming to the net more.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                         ![A couple of men playing tennis Description automatically generated with medium
@@ -198,18 +198,18 @@ exchanges, you might try coming to the net more.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[But monitor the new plan carefully and make sure that it's working
+**But monitor the new plan carefully and make sure that it's working
 better than the old one. If not, go back to the old
-one.]{.underline}]{.mark}** I've seen players lose the first set 6-4
+one.** I've seen players lose the first set 6-4
 playing steady baseline tennis and then decide they have to make a
 change. So, they start going for the lines with their groundstrokes or
 charging the net when they don't volley well and lose the second set
 6-1. These are not smart changes.
 
-**[[Stay cool and unemotional so that you can bring clear-headed
+**Stay cool and unemotional so that you can bring clear-headed
 intelligence to bear on the problem. Change your plan because you're
 optimistic that your new plan will work better, not just to jump over
-the side of a ship that you think is sinking.]{.underline}]{.mark}**
+the side of a ship that you think is sinking.**
 
 The ability to create a specific game plan and make good judgments about
 changes in your game plan is often the difference in who wins between
@@ -217,14 +217,14 @@ players who are equally matched. Learn to use game plans systematically
 and you're likely to win more than your share of those kinds of close
 matches.
 
-**[[At the club level, the deliberate use of game plans has the
+**At the club level, the deliberate use of game plans has the
 potential to raise your game to an entirely new level. This is because
 so many club players have glaring weaknesses that their opponents never
 exploit systematically. Start figuring out what those weaknesses are and
-how to use your strengths against them.]{.underline}]{.mark}**
-**[[You'll have the satisfaction that comes from winning more matches,
+how to use your strengths against them.**
+**You'll have the satisfaction that comes from winning more matches,
 but also the satisfaction that comes from thinking to
-win!]{.underline}]{.mark}**
+win!**
 
 Read More From Allen!
 

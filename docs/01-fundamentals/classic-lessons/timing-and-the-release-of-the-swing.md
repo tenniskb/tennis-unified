@@ -74,18 +74,18 @@ generated](media_timing-and-the-release-of-the-swing/media/image3.webp)
 **On routine balls, the top players release the swing at the time of the
 bounce.**
 
-**[[Most players will reach the unit turn at about the time of the ball
-bounce and then begin the release.]{.underline}]{.mark}** In fact you
-frequently see the pros in this same position. **[[As the ball bounces,
+**Most players will reach the unit turn at about the time of the ball
+bounce and then begin the release.** In fact you
+frequently see the pros in this same position. **As the ball bounces,
 the left arm is fully stretched across the body and the racket is at
-about the top of the backswing.]{.underline}]{.mark}** You can see this
+about the top of the backswing.** You can see this
 for yourself if you look through the rear views in the Stroke Archive on
 balls around the center of the court, or balls that do not force the
 player on time.
 
-**[[This timing will work on balls at a certain depth and speed. But if
+**This timing will work on balls at a certain depth and speed. But if
 the ball is faster, heavier and/or deeper, the release must start
-earlier.]{.underline}]{.mark}** **[[Conversely if the ball is shorter
+earlier.** **[[Conversely if the ball is shorter
 and slower, the release must be slightly delayed.]{.mark}]{.underline}**
 
 On a fast deep ball, waiting to release your swing will make your
@@ -112,8 +112,8 @@ to the pace and depth of the ball. They continue to release the racket
 at the same time regardless of how fast or how slow the ball is
 approaching them.
 
-**[[Accomplished players make slight adjustments on almost every
-ball.]{.underline}]{.mark}** Watch Federer's release in the animation
+**Accomplished players make slight adjustments on almost every
+ball.** Watch Federer's release in the animation
 on these two hard, difficult balls. In both cases the release is well
 before the bounce. On the second ball, which is even faster and deeper
 than the first, the release is clearly sooner. You can see this by
@@ -131,14 +131,14 @@ The precision of his timing is based on the characteristics of each
 individual ball.**
 
 How do players develop their ability to time the release in this way?
-**[[By using their eyes to track the ball and gage the incoming ball's
+**By using their eyes to track the ball and gage the incoming ball's
 various characteristics\--speed, spin, depth, direction, height,
 placement, then using that information to dictate when they release
-their swing.]{.underline}]{.mark}** **[[By focusing on the flight of the
+their swing.** **By focusing on the flight of the
 ball, top players develop the relationship between the incoming ball and
-the racket head.]{.underline}]{.mark}** **[[This in turn allows them to
+the racket head.** **This in turn allows them to
 line up their swing specifically for the exact shot they are
-hitting.]{.underline}]{.mark}**
+hitting.**
 
 I can not stress enough the importance of using your eyes to track the
 ball using the information obtained to determine when to pull the

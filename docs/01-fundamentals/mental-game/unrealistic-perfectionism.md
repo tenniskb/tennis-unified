@@ -33,10 +33,10 @@ dissatisfied, thinking they are somehow remiss and ought to be higher.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[With these highly motivated individuals their strong points are also
+**With these highly motivated individuals their strong points are also
 their weak points. Having high goals and being powerfully motivated
 drives them to work extraordinarily hard, so they get better than most
-people at everything they do. Very admirable!]{.underline}]{.mark}**
+people at everything they do. Very admirable!**
 
 **[[But the downside is that they can be unreasonably hard on
 themselves. They are marvelous people, but they don't realize how
@@ -193,10 +193,10 @@ that you should be better and beat this person or that person - there is
 no end to it. Regardless of how good you get, there will always be
 players who can beat you.]{.mark}]{.underline}**
 
-**[[All you have to do is keep working to get better than you are. And
+**All you have to do is keep working to get better than you are. And
 if playing tournaments and other matches that \"count\" stress you,
-don't play them.]{.underline}]{.mark}** **[[They are meaningless
-anyway.]{.underline}]{.mark}** But if you do decide to play, recognize
+don't play them.** **They are meaningless
+anyway.** But if you do decide to play, recognize
 that you never have anything to lose. Tournaments are all upside because
 you might win them. Losing is no different from not playing - in either
 case, your only loss is that you didn't win.

@@ -17,9 +17,9 @@ generated](media_the-backhand-volley/media/image1.webp)
 **Continental Grip**
 
 It is even more critical on the backhand side that you work with the
-continental grip to create leverage in your wrist. **[[Notice the strong
+continental grip to create leverage in your wrist. **Notice the strong
 wrist position and the big L shape created between the racquet and the
-arm.]{.underline}]{.mark}**
+arm.**
 
 Maintaining this strong wrist position provides solid support to the
 racquet face at contact for the various types of backhand volleys. Watch
@@ -40,10 +40,10 @@ how it never breaks down in the course of the motion.
 |  |  |
 | To execute the basic **one handed backhand volley**, **[your first reaction is a hip and shoulder turn so that your body is facing the point of contact.]{.underline}** |  |
 | **[The first move is [with the feet and the torso]{.underline}, not the racket.]{.mark} With the help of your opposite hand on the throat of the racquet**, **you |  |
-| prepare the racquet head so that [[it is positioned back near your opposite shoulder.]{.underline}]{.mark}** You want to **[[avoid taking the racquet head too far |  |
-| back, getting it behind your body in your preparation.]{.underline}]{.mark}** |  |
+| prepare the racquet head so that it is positioned back near your opposite shoulder.** You want to **avoid taking the racquet head too far |  |
+| back, getting it behind your body in your preparation.** |  |
 |  |  |
-| In this position, **[[your hitting arm is bent and your elbow is centered between your shoulders.]{.underline}]{.mark}** |  |
+| In this position, **your hitting arm is bent and your elbow is centered between your shoulders.** |  |
 |  |  |
 | ![A person playing ping pong Description automatically generated with medium |  |
 | confidence](media_the-backhand-volley/media/image4.webp) |  |
@@ -76,14 +76,14 @@ the face slightly open.**
 
 **Contact**
 
-**[[The body weight is loaded onto the left side, ready to drive forward
+**The body weight is loaded onto the left side, ready to drive forward
 into contact. As the ball approaches, the body weight begins the action,
 driving forward as the elbow begins to straighten out, sending the
-racquet head into contact.]{.underline}]{.mark}** **[[The racquet face
+racquet head into contact.** **The racquet face
 is slightly open and produces a little under spin, making contact
-between the shoulders.]{.underline}]{.mark}** **[[You want to make
+between the shoulders.** **You want to make
 contact just before your arm straightens out completely which leaves you
-with a minimal follow through after contact.]{.underline}]{.mark}**\
+with a minimal follow through after contact.**\
 \
 ![A person playing tennis Description automatically
 generated](media_the-backhand-volley/media/image7.webp)
@@ -93,9 +93,9 @@ generated](media_the-backhand-volley/media/image7.webp)
 **The Opposite Arm**
 
 Now let's focus on the opposite arm as the forward action begins.
-**[[You can see the two arms move in opposite
-directions.]{.underline}]{.mark}** **[[This keeps the shoulders from
-over rotating through contact.]{.underline}]{.mark}** Look how the
+**You can see the two arms move in opposite
+directions.** **This keeps the shoulders from
+over rotating through contact.** Look how the
 shoulder blades come together, stretching the chest muscles as the back
 posture stays upright and strong. You'll find in the heat of battle
 that your opposite arm will work naturally to help you control your
@@ -143,8 +143,8 @@ momentum\>\>]{.mark}]{.underline}**
     out of reach, the opposite arm will separate early to help maintain
     upper body control and balance as you reach beyond your stance.
 
-**[[\<\< Using the wrist snap to change the ball direction and create
-the momentum \>\>]{.underline}]{.mark}**
+**\<\< Using the wrist snap to change the ball direction and create
+the momentum \>\>**
 
 Be confident that you'll regain your balance after making contact on a
 full lunge, or fear will keep you from going for it. Even if you can't
@@ -159,11 +159,11 @@ confidence](media_the-backhand-volley/media/image10.webp)
 
 **The Low Volley**
 
-**On the low volley, [[you must get down for the shot by bending your
-knees.]{.underline}]{.mark} Using [[a slightly open racquet face to
-create lift over the net]{.underline}]{.mark}, [[you should block the
+**On the low volley, you must get down for the shot by bending your
+knees. Using a slightly open racquet face to
+create lift over the net, you should block the
 ball, keeping your wrist position firm to achieve
-depth.]{.underline}]{.mark}**
+depth.**
 
 ***[Remember, the opponent has you in a forcing situation. Don't rush
 through it or you will increase your risk of error.]{.mark}***
@@ -177,20 +177,20 @@ the half volley.**
 
 **The Half Volley**
 
-**[[The half volley is very similar to the low volley in that you must
-get low for the shot and use the block technique]{.underline}]{.mark}**.
+**The half volley is very similar to the low volley in that you must
+get low for the shot and use the block technique**.
 Positioning the racquet face behind the bounce of the ball, you must
 anticipate the height of the bounce and the timing for the shot. And
 remember, sometimes the half volley drop shot is the best alternative
 you have.
 
-**[[When the opponent takes aim and fires, and you realize you are the
+**When the opponent takes aim and fires, and you realize you are the
 target, it is your backhand volley that has the most range in covering
-your body.]{.underline}]{.mark}** **[[Where the forehand volley gets
-jammed and awkward,]{.underline}]{.mark}** **[[your backhand volley can
+your body.** **Where the forehand volley gets
+jammed and awkward,** **your backhand volley can
 pass freely, like a pendulum across the body. Using the block technique,
 you maintain firmness in your arm and racquet to achieve depth on the
-volley.]{.underline}]{.mark}**
+volley.**
 
 ![A person playing tennis Description automatically
 generated](media_the-backhand-volley/media/image12.webp)
@@ -202,8 +202,8 @@ down on the high volley.**
 
 **On the high backhand volley, when the incoming ball is more of a
 floater and you need to add some pop to fill the opening in the court,
-you [[prepare the butt of the racquet so that it points more upward
-towards contact]{.underline}]{.mark}.** **[[The forward action begins by
+you prepare the butt of the racquet so that it points more upward
+towards contact.** **[[The forward action begins by
 driving the butt of the racquet forward and down, sending the racquet
 face up into contact as]{.mark} [you maintain the L shaped position of
 leverage in your wrist.]{.mark}]{.underline}**
@@ -261,12 +261,12 @@ confidence](media_the-backhand-volley/media/image15.webp)\
 **\
 Learn the One-Hander**
 
-You should realize that **[[it is difficult for the attacking net player
+You should realize that **it is difficult for the attacking net player
 to maximize their reach and their range at net using two hands.
 Eventually, you do want to become a skilled one handed volleyer to
-maximize your threat at net.]{.underline}]{.mark}** **[[So you must
+maximize your threat at net.** **So you must
 develop the skill of working with just one hand as
-well.]{.underline}]{.mark}**
+well.**
 
 ![A person wearing sunglasses Description automatically generated with
 medium

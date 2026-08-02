@@ -90,10 +90,10 @@ server at the end of the backswing phase? As an example, we'll use the
 serve of the same junior player we saw in the first article. Again, you
 can access the 3-D data on his motion through the interface below.
 
-**[[As I define it, the back swing begins at the start of the looping
+**As I define it, the back swing begins at the start of the looping
 motion with the racquet, that is, when the racket starts to move
 downward, or possibly forward, toward the racket
-drop.]{.underline}]{.mark}** **[The backswing concludes when the racquet
+drop.** **[The backswing concludes when the racquet
 face center reaches its lowest point, or the point closest to the
 court.]{.mark}**
 
@@ -120,20 +120,20 @@ extent. No such separation is possible in the back swing. [The actions
 of the upper and lower body movements must be coordinated very
 precisely.]{.underline}]{.mark}**
 
-By this I mean **[[coordinating the timing of the movement of the arm
-and racket and the timing of the leg drive.]{.underline}]{.mark} [[Our
+By this I mean **coordinating the timing of the movement of the arm
+and racket and the timing of the leg drive. Our
 research shows that to maximize the benefit for the server, the arm and
 racket motion and the leg drive should start and end at the same time.
 This means that they must also have the same duration. This close
 synchronization is characteristic of all high level service
-motions.]{.underline}]{.mark}**
+motions.**
 
 The coordination of the backswing and leg drive is difficult to verify
 with the naked eye, or even with conventional video. If we look at the
 stick figure of our junior player in the interface, it may appear that
-his timing matches the top servers. But, if we look at the data, **[[it
+his timing matches the top servers. But, if we look at the data, **it
 reveals there is actually a discrepancy that we can
-measure.]{.underline}]{.mark}**
+measure.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -142,9 +142,9 @@ confidence](media_the-backswing-part-1/media/image5.webp)
 **The correlation of the racket drop and leg drive is difficult to
 verify.**
 
-For our player, the data shows the **[[backswing and leg drive are
+For our player, the data shows the **backswing and leg drive are
 slightly out of sync, with the timing of the arm and racquet motion
-slightly ahead of the leg drive.]{.underline}]{.mark}** In other words,
+slightly ahead of the leg drive.** In other words,
 arm and racquet motion starts before the leg drive, and ends while the
 leg drive is still ongoing. The problem here is that if the arm motion
 starts before the leg drive, the player may not fully utilize the push
@@ -160,9 +160,9 @@ The question for our player, and many others with similar timing
 problems, is what causes the leg and arm to go out of sync? And how can
 it be corrected? This is where the complexity sets in.
 
-**[[To answer this we have to go back to something we addressed in
+**To answer this we have to go back to something we addressed in
 Phase 1. This is the nature of the transition between the wind up and
-backswing phase.]{.underline}]{.mark}**
+backswing phase.**
 
 ![A tennis player is serving the ball Description automatically
 generated with low
@@ -336,19 +336,19 @@ parallel to the baseline.**
 **[The most important redistribution of this momentum early in the back
 swing is into the trunk. This results in forward rotation of the trunk
 relative to the legs.]{.mark}** This rotation may also be enhanced by
-the backward lean of the trunk at the end of the wind up. **[[The trunk
+the backward lean of the trunk at the end of the wind up. **The trunk
 rotation at this point is often described as a \"cartwheel\" rotation
 because the body and trunk are generally oriented sideways to the
-net.]{.underline}]{.mark}**
+net.**
 
 Our measurements show that the direct contribution of body forward
 angular momentum to racquet speed at contact is a modest 5 \-- 10 %.
 However, there is a major indirect benefit. This is because the creation
 and redistribution of forward angular momentum has a beneficial
 influence on the segmental sequencing of the motion in the upper body,
-as we'll see in a later article. ***[[For this reason, it is important
+as we'll see in a later article. ***For this reason, it is important
 to generate as much forward angular momentum as
-possible.]{.underline}]{.mark}***
+possible.***
 
 The lion's share of forward angular momentum generated during the serve
 is generated during the back swing. As the player pushes on the ground
@@ -365,10 +365,10 @@ ground.**
 
 **The direction of the ground force, the size of the ground force, and
 the position of the body center of mass during the leg drive are factors
-that determine how much angular momentum is generated. [[But to a great
+that determine how much angular momentum is generated. But to a great
 extent, the player's ability to generate these factors in the backswing
 is also related to what happened in the previous or first phase, the
-wind up.]{.underline}]{.mark}**
+wind up.**
 
 ![A tennis player is serving the ball Description automatically
 generated with low
@@ -394,24 +394,24 @@ mass\--explain the increased forward angular momentum.]{.mark}**
 
 **Hip Rotation Assistance**
 
-**The third contribution of the leg drive is to aid hip rotation. [[The
+**The third contribution of the leg drive is to aid hip rotation. The
 dominant angular momentum component on the serve is forward. We need to
 keep in mind, however, that rotation about the other axes is also
 important. Of particular interest is rotation about the axis passing
 through the center of mass that is perpendicular to the
-court.]{.underline}]{.mark}** [I will refer to momentum around this axis
+court.** [I will refer to momentum around this axis
 as **[\"spin momentum\".]{.underline}**]{.mark}
 
 **[Like forward angular momentum, spin angular momentum is also
 generated in the body by pushing on the ground with the legs to elicit a
-horizontal ground reaction force component.]{.mark}** **[[This spin
+horizontal ground reaction force component.]{.mark}** **This spin
 angular momentum can also be redistributed to the other body segments.
 An important portion of this redistribution is to the hips, creating
-spin rotation of the hips.]{.underline}]{.mark}**
+spin rotation of the hips.**
 
-**[[Rotation of the hips on the serve is important primarily because
+**Rotation of the hips on the serve is important primarily because
 this in turn impacts the rotation of the upper trunk or
-shoulders.]{.underline}]{.mark}** **[Rotating the hips increases the
+shoulders.** **[Rotating the hips increases the
 overall range of shoulder rotation. Rotation of the hips also allows the
 upper trunk rotating muscles to contract in slower more favorable
 conditions.]{.mark}**
@@ -489,9 +489,9 @@ confidence](media_the-backswing-part-1/media/image14.webp)
 
 **[Put simply, it is easier to spin the body and hips than it is to
 rotate the entire body forward and over in the \"cartwheel\"
-rotation.]{.mark}** **[[The back leg is pushing against the hips,
+rotation.]{.mark}** **The back leg is pushing against the hips,
 encountering less resistance, and therefore extending more quickly and
-leaving the ground sooner.]{.underline}]{.mark}**
+leaving the ground sooner.**
 
 Of course the time interval between the back foot and front foot leaving
 the court varies among the pro players. But I believe that the greater
@@ -499,10 +499,10 @@ the premium placed on hip rotation speed in the motion of a particular
 player, the earlier the back foot will leave the ground relative to the
 front foot.
 
-**[[The role of the back leg push in generating hip rotation can be
+**The role of the back leg push in generating hip rotation can be
 enhanced by changes in the stance, by placing the foot further behind
 the front foot in a wide platform, or more to the side of the front foot
-in a lateral pinpoint.]{.underline}]{.mark}**
+in a lateral pinpoint.**
 
 Does this mean that extensive hip rotation from use of the rear leg is
 the necessary key to a more effective serve? Not at all. And remember,
@@ -516,10 +516,10 @@ confidence](media_the-backswing-part-1/media/image15.webp)
 **Hip rotation: one of the myriad factors that contributes to effective
 serving.**
 
-***[[Hip rotation is only one of the myriad, interrelated biomechanical
+***Hip rotation is only one of the myriad, interrelated biomechanical
 factors in elite serving. With our player we chose a different stance
 option to increase forward angular momentum, probably at the expense of
-spin angular momentum.]{.underline}]{.mark}***
+spin angular momentum.***
 
 **[Our research shows that there are trade offs with many technical
 options in each of the phases of the serve. Quantitative analysis

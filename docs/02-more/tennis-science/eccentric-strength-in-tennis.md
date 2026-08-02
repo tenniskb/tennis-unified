@@ -52,20 +52,20 @@ cross-sectional size of a muscle. So, let's look at the types of muscle
 contractions that are available to us, how to stress the muscle in
 specific ways and how this can help your game.\
 \
-**[[\"Eccentric\" contractions are a very important type of muscle
-contraction. They]{.underline}]{.mark}** are responsible for slowing
+**\"Eccentric\" contractions are a very important type of muscle
+contraction. They** are responsible for slowing
 movements down, and then reversing that direction. This means that
 without eccentric strength it would be impossible to run or even walk.
 If we didn't have a way to counter the force of gravity, the force that
 acts on your body as you stand, walk or run, we would be driven to the
 ground.\
 \
-**[[When we walk, we place approximately 3 times the weight of our body
+**When we walk, we place approximately 3 times the weight of our body
 on each leg as it makes contact with the ground. When we run, this force
 can go up to 5 times our body weight. It is of interest that our
 bodies' ability to resist this force can be improved by building
 strength in the lower extremities, eccentric strength that
-is!]{.underline}]{.mark}**\
+is!**\
 \
 We can improve eccentric strength by performing an exercise so that we
 are aware of the speed movement during the lowering phase. For example,
@@ -85,8 +85,8 @@ lifts once per week for one or two of your large muscle group exercises
 Your ability to get into the preparation position for hitting ground
 strokes will improve as your eccentric strength does also.\
 \
-**[[The next type of muscle contraction that we want to consider is the
-isometric contraction.]{.underline}]{.mark}** **[This is a contraction
+**The next type of muscle contraction that we want to consider is the
+isometric contraction.** **[This is a contraction
 in which there is no visible shortening of the muscle. Therefore, no
 motion occurs at the joint, but the muscle tightens with an all-out
 effort to hold a particular position.]{.underline}**\
@@ -117,23 +117,23 @@ you through the weaker points in the joint range of motion, at a
 sticking point or even help strengthen a particular position in your
 stroke.\
 \
-**[[The final contraction type is the \"concentric\" or shortening of a
-muscle.]{.underline}]{.mark}** As you resist an external load in an
+**The final contraction type is the \"concentric\" or shortening of a
+muscle.** As you resist an external load in an
 exercise such as a squat, the concentric phase comes during the ascent
 or raising of the bar. As the bar is driven upward, it is accelerated.
 Acceleration of an object is always associated with a concentric muscle
 contraction. It is the phase we most associate with muscle development,
-hypertrophy or body building. **[[As the muscle shortens, it bunches
-together and this bulk equates to muscle size.]{.underline}]{.mark}** It
+hypertrophy or body building. **As the muscle shortens, it bunches
+together and this bulk equates to muscle size.** It
 should not however, be associated with strength output. A muscle does
 not have to be big and bulky to have the ability to develop force. It is
-of interest that **[[strength studies have shown that the \"speed of
+of interest that **strength studies have shown that the \"speed of
 contraction\" is important in a muscle's ability to create power (force
-development rapidly).]{.underline}]{.mark}** **[[So, the concentric
+development rapidly).** **So, the concentric
 contractions should be performed at a tempo that is fairly rapid in
-movement.]{.underline}]{.mark}** **[[This gives a tennis player the best
+movement.** **This gives a tennis player the best
 chance to maximize the type of muscle contraction most applicable to
-hitting each stroke.]{.underline}]{.mark}**\
+hitting each stroke.**\
 \
 Now that we have looked at all types of muscle contraction, let's
 revisit the eccentric contractions. We need to have eccentric strength
@@ -145,13 +145,13 @@ gravity in the descent phase. They are not working the eccentric muscle
 contraction and in turn missing a big part of the muscle development
 necessary for improvement in tennis.\
 \
-**[[Eccentric contractions should be stressed occasionally in an
-exercise program for tennis development.]{.underline}]{.mark}** Throwing
+**Eccentric contractions should be stressed occasionally in an
+exercise program for tennis development.** Throwing
 in the occasional set of eccentric reps will help to develop many of the
 large muscle groups that are related to absorbing impact. With increased
 muscle development in this area, an athlete can become quicker and more
-injury free. So, the moral to the story becomes: **[[every once in a
-while, work on slowing down, before you speed up.]{.underline}]{.mark}**
+injury free. So, the moral to the story becomes: **every once in a
+while, work on slowing down, before you speed up.**
 
   ---------------------------------------------------------
   *(Before beginning any exercise program consult with your

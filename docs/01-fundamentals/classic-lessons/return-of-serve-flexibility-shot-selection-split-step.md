@@ -27,8 +27,8 @@ important components of the return.]{.mark}]{.underline}**
 So a few general words about flexibility. Tennis is a very difficult and
 complex game. It requires a myriad of skills and responses.
 
-**[[My goal is to give my students a complete toolbox by mastering all
-of the shots and different styles of play.]{.underline}]{.mark}** **[[A
+**My goal is to give my students a complete toolbox by mastering all
+of the shots and different styles of play.** **[[A
 complete toolbox enables a player to choose what strategy and tactics
 work best against a particular opponent and to have multiple game plans
 if your first game plan is not working.]{.mark}]{.underline}**
@@ -41,8 +41,8 @@ you still have a chance to win the match. Having all of the shots also
 allows you to surprise your opponent with a different shot once you have
 set the trap of making him or her conditioned to your "typical\" shot.
 
-**[[Closely allied to flexibility is making adjustments as the match
-goes on]{.underline}]{.mark}**. Having a full toolbox helps you make
+**Closely allied to flexibility is making adjustments as the match
+goes on**. Having a full toolbox helps you make
 adjustments during the match. I view a match as a problem solving
 exercise. In particular, how am I winning points, how am I losing points
 and what adjustments can I make to increase the percentage of winning
@@ -62,13 +62,13 @@ groundstroke.**
 
 **Flexibility on Returns**
 
-So let's see how all this applies to the return. **[[To give one
+So let's see how all this applies to the return. **To give one
 example, if the maximum serve speed you typically face is 90 mph and
 then you find yourself returning a 105 mph serve, you will not have the
 proper reactive skills to return from your normal return
-position.]{.underline}]{.mark}**
+position.**
 
-**[[So don't be stubborn\--move back.]{.underline}]{.mark}** The same
+**So don't be stubborn\--move back.** The same
 thing would apply if you are playing against a more typical opponent but
 having an off day. My basic rule of thumb is that for every
 step\--approximately 3 feet\--you take back, the serve effectively
@@ -172,14 +172,14 @@ Racket held out in front with you racket handle approximately at waist
 height. A relaxed grip. Among other advantages, a relaxed grip will
 enable you to switch grips more quickly.
 
-**[[As a lead into the split step, I prefer that you take one or two
-steps forward and then go into your split.]{.underline}]{.mark}** **[The
+**As a lead into the split step, I prefer that you take one or two
+steps forward and then go into your split.** **[The
 momentum from that step forward can make you even more explosive when
 you land and then spring out of the split step. For many players, the
 forward step or steps also gives them a better rhythm.]{.underline}**
 
-**[[From the forward step, you go right into the split
-step.]{.underline}]{.mark}** Several things are crucial for the
+**From the forward step, you go right into the split
+step.** Several things are crucial for the
 split-step on the return. First, as noted in the first article, ([[Click
 Here]{.underline}](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx))
 your eyes need to be on the ball as the server's toss arm goes up to
@@ -230,9 +230,9 @@ Andy Murray demonstrates the ready position, followed by a step forward
 and then a wide split with flexed knees allowing him to leap out and
 cover a very wide serve.
 
-I personally like to take this one step further and **[[have a slightly
+I personally like to take this one step further and **have a slightly
 staggered position in the ready position which promotes landing the
-split step in the staggered position.]{.underline}]{.mark}** ![A collage
+split step in the staggered position.** ![A collage
 of a person playing tennis Description automatically generated with
 medium
 confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/image10.jpg)**Novak Djokovic demonstrating the

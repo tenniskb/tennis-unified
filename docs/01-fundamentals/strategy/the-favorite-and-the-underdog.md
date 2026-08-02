@@ -414,16 +414,16 @@ generated](media_the-favorite-and-the-underdog/media/image13.webp)
 **When you are the favorite, play your superior game and show confidence
 with your body language.**
 
-**[[Next time you are the favorite and have fallen behind look for signs
+**Next time you are the favorite and have fallen behind look for signs
 of a weakening resolve or faltering performance from your opponent. See
 if they really can maintain their nerve.  The odds are against it.  They
 may swing back to the negative, manifested in a change in body language,
 poor shot selection of tactics, or even just one egregious unforced
 error.  Don't overreact.  Play within yourself, but continue to create
 pressure that will most likely lead to the underdog's downhill
-slide.]{.underline}]{.mark}** **[[Remember in many close, high stakes
+slide.** **Remember in many close, high stakes
 matches each player is always only one point away from \"cracking.\"
-More often than not it's the underdog.]{.underline}]{.mark}**
+More often than not it's the underdog.**
 
 **[[Even favorites are human and an underdog who stays close enough long
 enough will sometimes have a breakthrough.  So if you are the underdog

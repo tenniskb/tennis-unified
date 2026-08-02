@@ -4,19 +4,19 @@
 
 **Section Overview**
 
-**[[Most tennis lessons are taught as a series of disconnected \"tips\".
+**Most tennis lessons are taught as a series of disconnected \"tips\".
 Information can flow to the student almost randomly at
-times.]{.underline}]{.mark}** Even well know coaches and teachers,
+times.** Even well know coaches and teachers,
 including some of the great ones with articles here on Tennisplayer,
 teach more or less situationally. And that's not necessarily bad. In
 fact, it can be good or even great.
 
 But there are a handful of more systematic approaches out there, and I
 think we are going to see more and more of these developed in the
-future. **[[These are systems built around key concepts or principles
+future. **These are systems built around key concepts or principles
 that run through all the strokes, or on principles of learning theory,
 or on standardized teaching progressions, or all of the
-above.]{.underline}]{.mark}**
+above.**
 
 So, in Teaching Systems we'll present some of these approaches,
 starting with a legendary and in my opinion under recognized pioneer in
@@ -39,9 +39,9 @@ We're also going to present some of my own work here, the Visual Tennis
 teaching system. We'll start with the critical role imagery plays in
 learning tennis, talk about how the approach worked for John McEnroe
 (which was notable I feel\...) and then work our way through the
-strokes, with an emphasis on what I find to be **[[one the most vital
+strokes, with an emphasis on what I find to be **one the most vital
 and overlooked elements in teaching and playing: the role of the hitting
-arm in biomechanics.]{.underline}]{.mark}**
+arm in biomechanics.**
 
 And that's just to get started. We'll be bringing complete
 presentations of other important approaches, some that are very well

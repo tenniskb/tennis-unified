@@ -35,8 +35,8 @@ generated](media_the-reverse-forehand-revisited/media/image2.webp)
 **People never understood that the reverse finish was the key to
 Sampras's running forehand. They'd talk about how he curves the ball
 into court, but nobody understood how he was doing it. All they knew is
-the ball was curving in the court. They didn't know [[he was reversing
-to make it happen.]{.underline}]{.mark}**
+the ball was curving in the court. They didn't know he was reversing
+to make it happen.**
 
 The experts don't see the pivotal role it plays in the one of the most
 important match ups in the current game either. This is Rafael Nadal's
@@ -118,18 +118,18 @@ generated](media_the-reverse-forehand-revisited/media/image5.webp)
 **With an extreme grip, you need the reverse of fast wide and/or low
 balls.**
 
-**[[With the extreme forehand grip, if you don't know how to reverse
-the forehand, I think you're in trouble.]{.underline}]{.mark}** **[[On
+**With the extreme forehand grip, if you don't know how to reverse
+the forehand, I think you're in trouble.** **On
 a high ball, you don't have to necessarily reverse it. But if it's a
 low, fast ball, you're dead if you don't have a reverse
-forehand.]{.underline}]{.mark}**
+forehand.**
 
 **The Secret of Reverse Spin**
 
-**[[There is another major point that has been completely unrecognized
+**There is another major point that has been completely unrecognized
 about the reverse, which is the difference in the spin. The difference
 is not in the amount of spin, but the type of
-spin.]{.underline}]{.mark}**
+spin.**
 
 **When you hit a regular forehand topspin, the ball actually rotates
 more in a straight line. It's more of a pure topspin**. **[[But when
@@ -156,9 +156,9 @@ generated](media_the-reverse-forehand-revisited/media/image6.webp)
 just the amount.**
 
 **A regular topspin, even if it's quite heavy, is not that difficult to
-time because the spin follows the line that the ball came on.** **[[But
+time because the spin follows the line that the ball came on.** **But
 with Nadal, the ball jumps away.  I think that's why Federer cannot do
-enough with his high backhand against Nadal.]{.underline}]{.mark}**
+enough with his high backhand against Nadal.**
 
 I've see the same thing when I feed in lessons. I feed a regular
 topspin and then I feed the reverse. And you can see the kids
@@ -192,8 +192,8 @@ his left side.
 
 **Other Reverses**
 
-**[[There are some other important applications of the reverse. Reversed
-lobs for example.]{.underline}]{.mark}** The reverse forehand is the
+**There are some other important applications of the reverse. Reversed
+lobs for example.** The reverse forehand is the
 best way to hit a topspin lob. You see it all the time on TV. Almost
 every time you see a perfect lob, it's reversed.
 
@@ -204,11 +204,11 @@ generated](media_the-reverse-forehand-revisited/media/image8.webp)
 **The reverse is the best possible way to hit a topspin lob.**
 
 **[Another application is in the approach shot. The reverse works
-unbelievably well on the approach.]{.underline}** **[[It seems that the
+unbelievably well on the approach.]{.underline}** **It seems that the
 timing is easier. The motion is a little quicker, a little more compact.
 And you get this natural topspin on it. You don't have to work the
 topspin as much. You don't have the tendency to float the
-ball.]{.underline}]{.mark}**
+ball.**
 
 The footwork seems easier. When you hit a regular forehand, sometimes
 the feet don't quite follow the drive as much. But with the reverse, it
@@ -234,17 +234,17 @@ the reverse. Let's see every player in the game uses it, not only at
 the baseline but to hit lobs, approaches and swinging volleys and
 you're not going to teach it?
 
-To teach it, **[[the first thing I tell players is to follow through on
-the same side as they're hitting from.]{.underline}]{.mark}** **I tell
+To teach it, **the first thing I tell players is to follow through on
+the same side as they're hitting from.** **I tell
 them [to follow through on the right side if they're
 right-handed.]{.underline} That's the first thing I tell them.**
 
 And then I'll see what happens. And there are a lot of things that can
 go wrong. Sometimes maybe they'll hit the reverse and they pull their
 body to the left and they feel awkward. There are little pieces to watch
-for. **[[But once they get the hang of it, you tell them to loosen up a
-little bit, not to be too tight.]{.underline}]{.mark}** **[[And then I
-tell them, get some topspin on it.]{.underline}]{.mark}**
+for. **But once they get the hang of it, you tell them to loosen up a
+little bit, not to be too tight.** **And then I
+tell them, get some topspin on it.**
 
 So, first I see how they manage the reverse, what it feels like and what
 kind of spin comes off the racket and where does the ball go. How they
@@ -257,10 +257,10 @@ have to teach them to drive through the ball more, not come up as quick,
 but actually come through the ball and then make the reverse
 motion.]{.mark}]{.underline}**
 
-**[[And then some kids are the opposite, they're always bangers. Those
+**And then some kids are the opposite, they're always bangers. Those
 kids, you have to actually teach them to put a little more spin on it
 and sometimes get the ball a little bit higher over the
-net.]{.underline}]{.mark}**
+net.**
 
 ![A picture containing text, tennis, sport, athletic game Description
 automatically
@@ -283,11 +283,11 @@ reverses, and then back and forth. Then I have them hit reverse lobs,
 then regular drives. That's exactly the way I did it with Maria. I want
 the reverse to become a completely natural part of what they do.
 
-And then you know what? **[[When the times come in a match, the players
+And then you know what? **When the times come in a match, the players
 just seem to decide on their own when the best time is to drive and the
 best time is to reverse. What happens is the kids will actually pick the
 shot. They don't even know they're doing it. They just do it at the
-right time.]{.underline}]{.mark}**
+right time.**
 
 As I said in my article on the three forehand finishes, players need to
 have a variety of options about how they followthrough.  ([Click

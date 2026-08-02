@@ -66,9 +66,9 @@ opponent.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[This is because hitting down the line opens up your own court so
+**This is because hitting down the line opens up your own court so
 that your opponent can hurt you on the next shot with a crosscourt
-reply]{.underline}]{.mark}**.
+reply**.
 
 **[[When I hit down the line, I can't run my opponent further than the
 sideline, but I have created an angle for him to hit the ball much wider
@@ -118,9 +118,9 @@ actually changes the geometric dimensions of the tennis court.
 
 The further out of position you are, the wider the opening for your
 opponent becomes if you go down the line. Because of this, a key rule in
-back court play is **[[\"the wider you're pulled off the court
+back court play is **\"the wider you're pulled off the court
 crosscourt, the more important it is to go back crosscourt yourself to
-cut down your opponent's angle\".]{.underline}]{.mark}**
+cut down your opponent's angle\".**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person hitting a ball with a tennis racket Description automatically
@@ -131,9 +131,9 @@ cut down your opponent's angle\".]{.underline}]{.mark}**
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **\
-[[As counterintuitive as it may initially seem, the best defense in this
+As counterintuitive as it may initially seem, the best defense in this
 situation is actually to go right back to your
-opponent]{.underline}]{.mark}**[[.]{.mark} **[This is because when your
+opponent**[[.]{.mark} **[This is because when your
 opponent finds he can't win by trading cross-courts with you, he's
 forced to hit down the line too often, and then you can run him from
 corner to corner with low risk crosscourt
@@ -160,10 +160,10 @@ or forcing approaches.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[When you go down the line, your goal is always to attack. You must
+**When you go down the line, your goal is always to attack. You must
 hit a shot that forces an error or a weak reply so you can run your
 opponent violently or come to the net and volley for a
-winner.]{.underline}]{.mark}**
+winner.**
 
 **[[If you and your opponent are equally matched in the exchanges, keep
 hitting crosscourt and try to bluff your opponent into hitting down the

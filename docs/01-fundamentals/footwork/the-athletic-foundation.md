@@ -35,8 +35,8 @@ techniques. In Part 1, I'll explain the physical qualities of the
 athletic foundation and the importance of being able to establish,
 maintain and defend it during battle. I'll also introduce you to my
 patented training device that accelerates the development of these
-skills. It's called the **[[Athletic Performance Belt (A.P.
-Belt).]{.underline}]{.mark}**
+skills. It's called the **Athletic Performance Belt (A.P.
+Belt).**
 
 Initally I was a little reluctant to incorporate the A.P.Belt directly
 into my first article for fear that the series would seem too much like
@@ -60,11 +60,11 @@ So what is the athletic foundation? Let's start with a comparison drawn
 from auto racing. The structural design and components of any vehicle
 tell the story of the vehicle's intended function and determine its
 performance capabilities. Consider the Formula-1 racing car. Beneath
-**[[a Formula 1 car's flashy exterior lies a sturdy frame reinforced by
-a very tight suspension for razor sharp handling.]{.underline}]{.mark}**
+**a Formula 1 car's flashy exterior lies a sturdy frame reinforced by
+a very tight suspension for razor sharp handling.**
 
-**[[The car's center of gravity hovers only inches above the
-ground.]{.underline}]{.mark}** **[[The width of the wheelbase is
+**The car's center of gravity hovers only inches above the
+ground.** **[[The width of the wheelbase is
 proportionately very wide.]{.mark} [Together, the wide base and low
 center of gravity enable the car to perform sharp turns at high speeds
 and achieve maximum stability against the forces that cause
@@ -131,9 +131,9 @@ opportunities for the opponent.
                                                    Patterns
   -----------------------------------------------------------------------
 
-**[[The \"athletic foundation\" is a total body framework that when
+**The \"athletic foundation\" is a total body framework that when
 activated, powers and stabilizes all footwork and all
-strokes.]{.underline}]{.mark}** This foundation parallels the structural
+strokes.** This foundation parallels the structural
 qualities of the Formula 1 car and achieves its structural integrity
 through muscular intensity. You'll see the great athletes establish
 their foundation just prior to their reaction on the first shot. They
@@ -157,9 +157,9 @@ athletic foundation are:
 
 **[Wide Base of Support]{.underline}**
 
-**[[For quicker reaction time as well as better power and control in
+**For quicker reaction time as well as better power and control in
 stroke production, the optimal footwork base is 1.5 to 3 shoulder widths
-apart]{.underline}]{.mark}**. With a wider base it becomes easier to
+apart**. With a wider base it becomes easier to
 maintain the essential low to the ground positioning. If your footwork
 base is too narrow, you'll struggle to remain low enough because it
 creates an added load on your legs which causes fatigue much more
@@ -175,12 +175,12 @@ much upward launching through the stroke.]{.mark}]{.underline}**
 
 **The end result is a loss of power and control in stroke production.**
 
-**[[Many players aren't comfortable establishing a wider footwork base
+**Many players aren't comfortable establishing a wider footwork base
 because they feel it slows down their first-step
-reaction.]{.underline}]{.mark}** However, there is a specific footwork
-technique **[[called the drop step that we will look at in detail that
+reaction.** However, there is a specific footwork
+technique **called the drop step that we will look at in detail that
 allows top players to create an explosive first-step reaction from this
-wider base.]{.underline}]{.mark}**
+wider base.**
 
 ![A person playing tennis Description automatically
 generated](media_the-athletic-foundation/media/image7.webp)
@@ -199,10 +199,10 @@ power and stability to the stroke mechanics.]{.underline}**]{.mark}
 
 **Low Center of Gravity**
 
-**[[The actual location of the center of gravity in humans varies by
+**The actual location of the center of gravity in humans varies by
 body type. In females, the center of gravity tends to be between the
 hips, where in males it tends to be slightly
-higher.]{.underline}]{.mark}** The difference is nominal, however, so we
+higher.** The difference is nominal, however, so we
 typically refer to the hips as the reference point for the center of
 gravity.
 
@@ -216,9 +216,9 @@ confidence](media_the-athletic-foundation/media/image8.webp)
 Athletic Height**
 
 When you are down in the athletic foundation position, you establish
-what is referred to as your \"athletic height\". **[[Your athletic
+what is referred to as your \"athletic height\". **Your athletic
 height should measure approximately 6 inches to one foot below your
-normal standing height.]{.underline}]{.mark}** **[[You achieve this
+normal standing height.** **[[You achieve this
 low-to-the-ground position through bending your knees to lower your
 hips, while maintaining upright back posture.]{.mark}]{.underline}**
 
@@ -231,18 +231,18 @@ foundation.**
 
 Most players have trouble maintaining a low enough athletic height
 during play simply because they haven't developed all the corresponding
-movement techniques associated with being low to the ground. **[[In
+movement techniques associated with being low to the ground. **In
 addition, it requires more leg strength and stamina to play
-low.]{.underline}]{.mark}** Being able to maintain a consistent athletic
+low.** Being able to maintain a consistent athletic
 height in your movement produces that smooth and fluid look of the
 champions. Great athletes make movement look effortless, though it takes
 a considerable amount of effort to create that look.
 
 Because it is not easy to stay low and perform at the ideal athletic
-height, **[[most players succumb to playing too upright much of the
+height, **most players succumb to playing too upright much of the
 time. As a result, they develop inefficient movement habits that
 correspond with a high center of gravity. They end up moving more like
-that tractor than the race car.]{.underline}]{.mark}**
+that tractor than the race car.**
 
 Some players try hard to \"play low\" but just can't seem to maintain
 the low athletic height. Coaches yell at them to \"stay low\" but it is
@@ -311,11 +311,11 @@ stamina.**
 
 Can a person's self-confidence be accurately assessed merely by
 observing how they stand and carry themselves? Most certainly, and the
-most significant indicator is back posture. **[[Typically, people tend
+most significant indicator is back posture. **Typically, people tend
 to display low self-esteem and lack of confidence through poor back
-posture.]{.underline}]{.mark}** **[[Conversely, a person with high
+posture.** **Conversely, a person with high
 self-esteem and confidence tends to maintain strong upright
-posture.]{.underline}]{.mark}** Beyond being a measure of your
+posture.** Beyond being a measure of your
 self-confidence, there are enormous physical benefits you gain by
 maintaining strong back posture.
 
@@ -324,9 +324,9 @@ reinforcing your entire athletic foundation. We've all been told for
 good reason that when lifting heavy objects one should keep their back
 straight to avoid injury. This holds true when competing in sports like
 tennis where moving rigorously and creating powerful strokes are in
-demand. **[[Learning to activate your back muscles with intensity to
+demand. **Learning to activate your back muscles with intensity to
 reinforce your posture creates an ideal support system for the shoulder
-mechanics.]{.underline}]{.mark}**
+mechanics.**
 
 Intensely reinforced back posture efficiently channels the power
 generated from the lower body up to the shoulder mechanics to produce
@@ -402,9 +402,9 @@ The athletic foundation, first step reaction technique, quick stride
 acceleration footwork, change of direction techniques, etc. are
 basically the same maneuvers in most sports. However, all too often the
 emphasis in learning a specific sport is focused solely on
-\"non-movement\" related skills. **[[By neglecting the development of a
+\"non-movement\" related skills. **By neglecting the development of a
 sound athletic foundation, we end up with \"players\" not
-\"athletes.\"]{.underline}]{.mark}** Unfortunately, most tennis players,
+\"athletes.\"** Unfortunately, most tennis players,
 don't really begin developing their athletic qualities until the latter
 stages of development. It should be the other way around. Without
 training with a specific focus on the athletic movement skills, you may

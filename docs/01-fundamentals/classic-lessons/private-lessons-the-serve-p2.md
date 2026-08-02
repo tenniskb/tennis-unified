@@ -17,9 +17,9 @@ having a consistent serving rhythm.**
 
 A player who takes the time to create what I call a \"calm before the
 storm,\" has a much better chance of consistently hitting a rhythmical
-serve. **[[To this end, everything you do prior to launching yourself to
+serve. **To this end, everything you do prior to launching yourself to
 the point of contact should be done smoothly and
-calmly.]{.underline}]{.mark}**
+calmly.**
 
 I see too many players start their service motions like they've got a
 train to catch! Typically, players who rush at the outset have
@@ -29,9 +29,9 @@ It seems that servers who begin their motions with their hands above
 shoulder level are more often the ones who tend to \"rev up\" at the
 wrong time and create a \"storm before the calm.\" In other words, the
 higher you start the greater the potential for a faster motion that will
-destroy your rhythm. But, **[[however your motion begins, you need to
+destroy your rhythm. But, **however your motion begins, you need to
 stay relaxed, learn to store your energy, and then let the \"storm\"
-happen when it should, in the launching phase.]{.underline}]{.mark}**
+happen when it should, in the launching phase.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                           ![A person hitting a tennis ball with his racket Description automatically
@@ -41,18 +41,18 @@ happen when it should, in the launching phase.]{.underline}]{.mark}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The first point in overcoming the tendency to rush is to use a
-ritual before serving.]{.underline}]{.mark}** **[[Align and set your
+**The first point in overcoming the tendency to rush is to use a
+ritual before serving.** **Align and set your
 feet, position yourself sideways to the net and bounce the ball a few
-times.]{.underline}]{.mark}** **[[Support the racquet with the tossing
+times.** **Support the racquet with the tossing
 hand in the ready position to keep the hitting arm
-relaxed.]{.underline}]{.mark}**
+relaxed.**
 
 Now decide exactly what serve you are going to hit and where. Don't
 serve without a purpose! Without taking a long stare to give away your
-intent, **[[draw a line in your mind's eye to the area you'd like the
+intent, **draw a line in your mind's eye to the area you'd like the
 ball to land, take a deep breath and calmly begin your
-serve.]{.underline}]{.mark}**
+serve.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
@@ -66,26 +66,26 @@ serve.]{.underline}]{.mark}**
 
 One of the most common problems I see with servers is the improper knee
 bend. Players will bend their knees at the wrong time, over bend them,
-or not bend them at all**[[. Proper knee bend keeps the serve rhythmical
-and provides an effective launch to the ball.]{.underline}]{.mark}**
-**[[For someone who doesn't know better, it's very instinctive to bend
+or not bend them at all**. Proper knee bend keeps the serve rhythmical
+and provides an effective launch to the ball.**
+**For someone who doesn't know better, it's very instinctive to bend
 the knees at the same time you drop your hands to begin the service
-motion.]{.underline}]{.mark}**
+motion.**
 
-**[[This, however, is incorrect because it will invariably lead
-to]{.underline}]{.mark}** **[[straightening the legs too early, before
-the swing is ever made]{.underline}]{.mark}**. This disrupts rhythm and
-eliminates any launch. **[[It's not necessarily the depth of the knee
+**This, however, is incorrect because it will invariably lead
+to** **straightening the legs too early, before
+the swing is ever made**. This disrupts rhythm and
+eliminates any launch. **It's not necessarily the depth of the knee
 bend\--that varies with the individual. It's the
-timing.]{.underline}]{.mark}**
+timing.**
 
-My recommendation is **[[to remain basically upright as you begin to
-serve.]{.underline}]{.mark}** Keep extra curricular movement at a
+My recommendation is **to remain basically upright as you begin to
+serve.** Keep extra curricular movement at a
 minimum!
 
-**There's a simple formula to time the knee bend.** **[[Flex the knees
+**There's a simple formula to time the knee bend.** **Flex the knees
 down as the hands are going up. The knee bend should be fullest just
-after you release the toss.]{.underline}]{.mark}**
+after you release the toss.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A close-up of a person's legs Description automatically generated with low
@@ -100,17 +100,17 @@ stomach, but with concerted practice both on and away from the court, it
 will soon solidify.
 
 Experiment to find out how much you can drop your weight naturally in
-the bending phase. **[[Relax, let your weight fall, and don't force the
-bend]{.underline}]{.mark}** because you saw how far down Pete Sampras
+the bending phase. **Relax, let your weight fall, and don't force the
+bend** because you saw how far down Pete Sampras
 can go.
 
-**[[This will maximize how much energy you store.]{.underline}]{.mark}**
+**This will maximize how much energy you store.**
 **[This energy in turn will then release naturally as you swing up to
-the ball]{.underline}**. **[[This is the launching phase which is
-critical to generating power.]{.underline}]{.mark}**
+the ball]{.underline}**. **This is the launching phase which is
+critical to generating power.**
 
-Another way to enhance the knee bend is to **[[simultaneously lift your
-heels.]{.underline}]{.mark}** You can bend your knees with your feet
+Another way to enhance the knee bend is to **simultaneously lift your
+heels.** You can bend your knees with your feet
 flat but you won't do it consistently, because it's simply not
 comfortable. In addition, with the heels up you truly \"lock down\" your
 feet eliminating any excessive movement.
@@ -144,12 +144,12 @@ this stance. In fact, you may actually lose leverage from the legs, and
 also, run the risk of rotating through the motion too soon. In my
 teaching I strive to eliminate this extra step.
 
-**[[If you add the knee bend to what I wrote about cocking the arm and
+**If you add the knee bend to what I wrote about cocking the arm and
 racquet in part 1 of this lesson, the so called \"trophy position\" is
-complete.]{.underline}]{.mark}** **[[Note the angle of the
-shoulders.]{.underline}]{.mark}** **[[Tilting the shoulders is important
+complete.** **Note the angle of the
+shoulders.** **Tilting the shoulders is important
 because it allows for a better stretch of the body and encourages
-swinging up.]{.underline}]{.mark}**
+swinging up.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_private-lessons-the-serve-p2/media/image7.jpg)
@@ -166,9 +166,9 @@ extension.
 
 These differences and images are very important to note.
 
-**[[If the timing of the knee bend is correct and the player swings to
+**If the timing of the knee bend is correct and the player swings to
 the \"ceiling,\" all your stored energy will be released and the launch
-will just happen.]{.underline}]{.mark}**
+will just happen.**
 
 **The Weight Transfer**
 
@@ -185,28 +185,28 @@ they toss too far back to get any forward momentum.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[There are essentially two kinds of weight transfers: thrust and
-crossover.]{.underline}]{.mark}**
+**There are essentially two kinds of weight transfers: thrust and
+crossover.**
 
-**[[Thrust footwork is what you currently see all the pros doing. Once
+**Thrust footwork is what you currently see all the pros doing. Once
 you flex those knees they will need to extend and depending on the
 extent of the knee bend this can result in something from a mild to a
-sizeable jump.]{.underline}]{.mark}**
+sizeable jump.**
 
 **[[Immediately after the ball is struck the front foot lands in front
 of the baseline, the back leg kicks back and then quickly comes forward
 to stabilize and or propel you forward.]{.mark}]{.underline}**
 
-**It's important to note that [[the jump is purely
-incidental]{.underline}]{.mark} and [[results from the upward thrust of
-the legs pushing off the ground.]{.underline}]{.mark}**
+**It's important to note that the jump is purely
+incidental and results from the upward thrust of
+the legs pushing off the ground.**
 
-**[[When using the more traditional crossover
-footwork]{.underline}]{.mark}**, **[[the front foot remains stationary
-during and after striking the ball]{.underline}]{.mark}** and **[[then
-the back leg swings around into the court]{.underline}]{.mark}**. Be
-sure, however, **[[to not hit off of a flat front
-foot.]{.underline}]{.mark}**
+**When using the more traditional crossover
+footwork**, **the front foot remains stationary
+during and after striking the ball** and **then
+the back leg swings around into the court**. Be
+sure, however, **to not hit off of a flat front
+foot.**
 
 |  |
 | --- |
@@ -222,13 +222,13 @@ every player should begin to develop the thrust.]{.mark} [It's one of
 the few things that every player can really learn to do like the top
 pros.]{.mark}]{.underline}**
 
-That concludes the second part on the serve. But one final note. **[[If
+That concludes the second part on the serve. But one final note. **If
 you don't love to serve you should work on it until you
-do!]{.underline}]{.mark}**
+do!**
 
-**[[Developing a sound service motion improves your athleticism and can
+**Developing a sound service motion improves your athleticism and can
 give you the confidence to take charge of a match. It's well worth the
-effort!]{.underline}]{.mark}**
+effort!**
 
 ![A person holding a tennis racket Description automatically
 generated](media_private-lessons-the-serve-p2/media/image10.gif)

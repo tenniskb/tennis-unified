@@ -29,10 +29,10 @@ Strategy Zone training system, and for good reason. As we define it,
 the opponent. It's a key component in winning matches tactically, but
 equally important, winning matches psychologically.
 
-**[[\"Hurt\" is the second phase in the three step process in the
+**\"Hurt\" is the second phase in the three step process in the
 Strategy Zone, a process you can master to win matches at any
-level.]{.underline}]{.mark}** **[[Again, those three phases: \"Control,
-Hurt, and Finish.\"]{.underline}]{.mark}**
+level.** **Again, those three phases: \"Control,
+Hurt, and Finish.\"**
 
 ![A person playing tennis Description automatically
 generated](media_the-strategy-zone-phase-2-hurt/media/image2.webp)
@@ -52,10 +52,10 @@ move on. **[[You next learn to dominate them by using shot patterns or
 combinations. This intermediate phase is
 \"Hurt.\"]{.mark}]{.underline}**
 
-**[[Without mastery of the Hurt phase, you will never develop the
-ability to hit consistent winners.]{.underline}]{.mark}** **[[Andre did
+**Without mastery of the Hurt phase, you will never develop the
+ability to hit consistent winners.** **Andre did
 it by dominating the center of the court with change of
-direction.]{.underline}]{.mark}** **[[But too many players without a
+direction.** **[[But too many players without a
 fraction of Andre Agassi's talent try to skip over the Hurt Phase and
 try to finish points too rapidly.]{.mark}]{.underline}**
 
@@ -70,28 +70,28 @@ confidence](media_the-strategy-zone-phase-2-hurt/media/image3.webp)
 
 **Hurt generates short balls to finish points.**
 
-**[[When we talk about Hurt, it's important to emphasize that the
+**When we talk about Hurt, it's important to emphasize that the
 objective is to work a pattern. This can be a change of direction
-pattern or a wrong foot patterning.]{.underline}]{.mark}** **[[There are
+pattern or a wrong foot patterning.** **There are
 a great number of possible variations. The idea is to stretch the
 player, keep him, off balance so the opponent doesn't really know
-what's coming next, and open the court.]{.underline}]{.mark}**
+what's coming next, and open the court.**
 
-**[[If you execute these patterns well, two things are likely to happen.
+**If you execute these patterns well, two things are likely to happen.
 First you may win the point outright because the other player may make
 an unforced error. Second, the other player is also likely to hit the
 ball back short, and/or to the center of the court. If you control the
 center of the court and consistently generate short balls, you are in
 control of the point. This will flow naturally into the third phase,
-called Finish.]{.underline}]{.mark}**
+called Finish.**
 
-**[[Andre loved to use his ability to change directions to run players
+**Andre loved to use his ability to change directions to run players
 side to side and corner to corner. He did this to set up winners. But
 sometimes he just preferred to just keep punishing his opponent's
-corner to corner.]{.underline}]{.mark}** **This was one way Andre
-established his aura of psychological dominance.** **[[Believe me, it
+corner to corner.** **This was one way Andre
+established his aura of psychological dominance.** **Believe me, it
 led to many players giving up and losing the will to continue to
-fight.]{.underline}]{.mark}**
+fight.**
 
 ![A couple of men playing tennis Description automatically generated
 with low
@@ -102,9 +102,9 @@ confidence](media_the-strategy-zone-phase-2-hurt/media/image4.webp)
 **1-1 Combinations**
 
 There are two basic combinations for changing the direction of the shot
-in the Hurt phase and set up the Finish. **[[The first is a 1-1
+in the Hurt phase and set up the Finish. **The first is a 1-1
 Combination. This is a simple change of direction pattern where the ball
-is hit to one side of the court, then the other.]{.underline}]{.mark}**
+is hit to one side of the court, then the other.**
 
 For example, a 1-1 Combination is a ball hit crosscourt to either side,
 followed by a down the line, or vice versa. You can also hit 1-1
@@ -117,10 +117,10 @@ the line. Also, they are usually unaware that they lack this basic
 accuracy. The fact is it's more difficult than it might appear from
 just watching Andre Agassi!
 
-**[[Players obsess about their technique and how to hit with more pace
+**Players obsess about their technique and how to hit with more pace
 and generate more spin. This is often misplaced focus, and a huge
 mistake in priorities if you actually want to win
-matches.]{.underline}]{.mark}** **[[Commit to developing the ability to
+matches.** **[[Commit to developing the ability to
 change directions and go either way on either side on any
 ball.]{.mark}]{.underline}** I challenge you, and I could not feel more
 strongly about it! If you succeed, I guarantee you will see your results
@@ -162,31 +162,31 @@ confidence](media_the-strategy-zone-phase-2-hurt/media/image6.webp)
 **Use this drill to test and develop your skills with 2-1
 Combinations.**
 
-**[[Remember the goal of all this is to produce a weak reply, usually a
+**Remember the goal of all this is to produce a weak reply, usually a
 short ball or a ball in the middle that will allow you to move on to the
-Finish stage.]{.underline}]{.mark}** **[Is this best accomplished by a
+Finish stage.** **[Is this best accomplished by a
 crosscourt forehand and a down the line forehand? Or is the same pattern
 on the backhand side? Or the reverse? Or something else?]{.underline}**
 
 **2-1 Combinations**
 
-**[[The second basic \"Hurt\" pattern is called a 2-1 Combination. This
-is also sometimes called a Wrong Foot Pattern.]{.underline}]{.mark}**
-**[[The 2-1 Combination is a secondary tactic, usually implemented after
+**The second basic \"Hurt\" pattern is called a 2-1 Combination. This
+is also sometimes called a Wrong Foot Pattern.**
+**The 2-1 Combination is a secondary tactic, usually implemented after
 you have successfully established one or more of the basic 1-1
-Combinations.]{.underline}]{.mark}**
+Combinations.**
 
-**[[The 2-1 Combination means that you hit two consecutive balls to the
-same side, then you make the direction change.]{.underline}]{.mark}**
-**[[This confuses the opponent because it is a fundamental change in how
-you are playing the match.]{.underline}]{.mark}**
+**The 2-1 Combination means that you hit two consecutive balls to the
+same side, then you make the direction change.**
+**This confuses the opponent because it is a fundamental change in how
+you are playing the match.**
 
-**[[It can catch him flat footed, or even moving the wrong way to
+**It can catch him flat footed, or even moving the wrong way to
 recover, based on his previous expectations of your shot
-selection.]{.underline}]{.mark}** **[[2-1 Combinations are a critical
+selection.** **2-1 Combinations are a critical
 component on all surfaces. But they are especially effective on clay or
 grass when the footing is much more slippery than hard
-courts.]{.underline}]{.mark}**
+courts.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -198,26 +198,26 @@ confidence](media_the-strategy-zone-phase-2-hurt/media/image7.webp)
 together in many different ways. Two crosscourt forehands, followed by a
 forehand down the line, or the reverse]{.underline}. Or either of these
 combinations hit off your backhand side, or the same diagonals hit from
-the inside position.]{.mark}** **[[Two inside out forehands, then an
+the inside position.]{.mark}** **Two inside out forehands, then an
 inside in, for example. Or the opposite, two inside ins and then the
-inside out. You get the idea.]{.underline}]{.mark}**
+inside out. You get the idea.**
 
 **[[The determination of which of these patterns to use and when to use
 them should be based on your own accuracy and comfort level with a given
 pattern\--and your assessment of the strength of the replies from your
 opponents.]{.mark}]{.underline}**
 
-**[[The success of using all these combinations comes from the knowledge
-of when to use them.]{.underline}]{.mark}** **[[The basic idea is to set
+**The success of using all these combinations comes from the knowledge
+of when to use them.** **The basic idea is to set
 up the change of direction with a series of 1-1 Combinations, then throw
-in the 2-1.]{.underline}]{.mark}** **[[Now you have introduced an
-element of uncertainty.]{.underline}]{.mark}** **[[What will you hit
+in the 2-1.** **Now you have introduced an
+element of uncertainty.** **[[What will you hit
 next? A 1-1 Combo? Another 2-1 Combo?]{.mark}]{.underline}**
 
-**[[You want your opponent to be unsure about what to anticipate
-next.]{.underline}]{.mark}** **[[When you mix the combinations
+**You want your opponent to be unsure about what to anticipate
+next.** **When you mix the combinations
 successfully, this will typically lead to additional unforced errors and
-more balls you can attack to finish points.]{.underline}]{.mark}**
+more balls you can attack to finish points.**
 
 ![A couple of men playing tennis Description automatically generated
 with low
@@ -228,15 +228,15 @@ Combination.**
 
 **Advanced Variations**
 
-**[[Let's look at two other more advanced variations on these basic
+**Let's look at two other more advanced variations on these basic
 combinations. Alternating the depth of shot creates an even greater
 challenge for the opponent. For example, in a 1-1 Combination, the first
 shot can be a short cross court angle, combined with a very deep, even
-looping, second shot down the line.]{.underline}]{.mark}** **[[These
+looping, second shot down the line.** **These
 differences in depth force the player to move on a diagonals forward
 and/or backward, rather than simply side to side. This is more difficult
 to do and also involves a great distance to
-travel.]{.underline}]{.mark}**
+travel.**
 
 **[The second advanced variation is the [use of disguise]{.underline},
 especially in the 2-1 Combinations. If]{.mark}** **[for example you are

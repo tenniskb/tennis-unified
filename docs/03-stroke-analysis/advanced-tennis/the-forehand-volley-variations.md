@@ -65,8 +65,8 @@ confidence](media_the-forehand-volley-variations/media/image3.webp)
 
 **Watch Johnny Mac and Tim Henman kept the U shape in tact.**
 
-**[[The hitting shape often changes just before the critical moment of
-the contact.]{.underline}]{.mark}** In fact you can find the hitting arm
+**The hitting shape often changes just before the critical moment of
+the contact.** In fact you can find the hitting arm
 in many different configurations depending on the ball and how the
 player is positioned. The arm can straighten out partially or all the
 way, and the angle between the racket and the forearm\--one leg of the
@@ -103,9 +103,9 @@ and forwards in the shoulder joint, the same kind of \"supination\" and
 
 What is fascinating however is that these adaptations almost always
 occur after the players establish the basic U shape. And despite the
-changes in the U and the additional movements, **[[the shoulder rotation
+changes in the U and the additional movements, **the shoulder rotation
 remains a central force driving the motion
-forward.]{.underline}]{.mark}**
+forward.**
 
 So on virtually every ball, the players begin with some degree of unit
 turn and also establish the U shape. The shoulder rotation starts the
@@ -151,8 +151,8 @@ his front shoulder muscles to move the arm and racket as a unit without
 any internal play or movement in this altered hitting arm structure.
 It's like a gate swinging on a hinge.
 
-**[[But watch how in another split second the elbow has flexed
-again]{.underline}]{.mark}**, ***[[partially regaining the U shape. No
+**But watch how in another split second the elbow has flexed
+again**, ***[[partially regaining the U shape. No
 wonder the motions on the volleys are misunderstood. The arm moved from
 the U shape to the L shape and then back again to the U shape, driven by
 two different shoulder motions\--all in a few tenths of a second. This
@@ -271,10 +271,10 @@ confidence](media_the-forehand-volley-variations/media/image9.webp)
 
 **Opening the Face**
 
-One of the most perplexing elements in the forehand volley motion **[[is
+One of the most perplexing elements in the forehand volley motion **is
 the additional opening or tilting back of the racket face that occurs
 around contact. This is sometimes called \"cupping\" the
-volley.]{.underline}]{.mark}**
+volley.**
 
 Is it an intentional movement? Is it the key to underspin? Or is
 something else happening here that isn't well understood? If you look

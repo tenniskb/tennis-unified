@@ -65,9 +65,9 @@ tune into your muscle tension level. Your muscles should be loose and
 flexible without tension beyond what is needed to
 perform.]{.mark}]{.underline}**
 
-**[[Letting yourself relax is different from trying to relax. You can
+**Letting yourself relax is different from trying to relax. You can
 use stretching and body movements to help relax between points and on
-game changes.]{.underline}]{.mark}**
+game changes.**
 
 **[[The fourth step is to allow your joy, passion, and enthusiasm for
 tennis show through your body language. These steps are investments in
@@ -81,8 +81,8 @@ confidence](media_flowing-in-the-zone/media/image3.jpg)
 
 **Enemies**
 
-**[[What are the enemies of flow? A preoccupation with winning. The
-desire to impress others.]{.underline}]{.mark}** Making excessive,
+**What are the enemies of flow? A preoccupation with winning. The
+desire to impress others.** Making excessive,
 conscious efforts to achieve a flow state. Lack of confidence. ([Click
 Here](Techniques%20for%20Developing%20Confidence.docx) to read my
 article on Techniques for Developing Confidence.) All of these enemies
@@ -154,11 +154,11 @@ improve your performance. You will have trained your mind and body to
 perform automatically without conscious interference, leading to better
 performance.]{.mark}]{.underline}**
 
-**[[These are some of the other ways to use visualization: To make
+**These are some of the other ways to use visualization: To make
 technique more automatic. To improve positive thinking. To build more
 confidence. To reduce performance anxiety. To regulate energy. To manage
 mistakes. To overcome a subpar past performance. To separate self-worth
-from performance.]{.underline}]{.mark}** (To read a seminal article on
+from performance.** (To read a seminal article on
 the use of mental imagery by Jim Loehr [Click
 Here](https://www.tennisplayer.net/members/mentalgame/jim_loehr/jim_loehr_minds_eye_images/jim_loehr_minds_eye.html).)
 
@@ -195,10 +195,10 @@ opportunity. As Billie Jean King puts it, pressure is a privilege. The
 best way to create psychological pressure situations is to keep score in
 some way.]{.mark}]{.underline}**
 
-**[[So, create pressure situations in practice to try to simulate what
+**So, create pressure situations in practice to try to simulate what
 you will face on match day. This way, you will be better
-prepared]{.underline}]{.mark}** **[[mentally and emotionally to handle
-the real conditions.]{.underline}]{.mark}**
+prepared** **mentally and emotionally to handle
+the real conditions.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_flowing-in-the-zone/media/image7.jpg)

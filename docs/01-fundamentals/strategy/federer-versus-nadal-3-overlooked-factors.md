@@ -52,18 +52,18 @@ As Federer's serve is generally considered better than Nadal's, we might
 expect him to be able to start the point with his forehand more
 frequently. The statistics show that in fact this was the case.
 
-**[[After a first serve Federer started 83% of the points with a
+**After a first serve Federer started 83% of the points with a
 forehand. When he was able to hit a forehand on the first ball, he won
-59% of the points.  83%!]{.underline}]{.mark}**  ***[[So, one of the
+59% of the points.  83%!**  ***So, one of the
 greatest players in tennis history hits a backhand after his first serve
-only one or two times out of ten.]{.underline}]{.mark}***
+only one or two times out of ten.***
 
-**[[And it was basically the same for Nadal.  Rafael was able to hit a
+**And it was basically the same for Nadal.  Rafael was able to hit a
 forehand 72% of the time after a first serve.  This is probably due in
 part to his incredible speed and his ability to run around his backhand.
  When he started with a forehand, Nadal won 62% of the points, actually
 a slightly higher percentage of points than
-Roger.]{.underline}]{.mark}**
+Roger.**
 
 So, it was very close on the forehand side, but with a slight edge in
 total number of points to Roger when both players backed up the first
@@ -80,9 +80,9 @@ Compare this to what happened when the first serve was followed by a
 backhand. There is a dramatic change when the players were unable to hit
 the preferred forehand on the first ball. 
 
-**[[When Federer started with a backhand after his first serve, he won
+**When Federer started with a backhand after his first serve, he won
 only 26% of the points.  When Nadal hits a backhand first, however, he
-won 42% of the points.]{.underline}]{.mark}**  **[This is a major key to
+won 42% of the points.**  **[This is a major key to
 understanding why Nadal won.]{.underline}**
 
 **[[The point difference between the 2 players over 5 sets was only 5
@@ -91,14 +91,14 @@ backhand\--Nadal was 50% more successful than Roger.  This goes a long
 way towards explaining why Federer struggles so much to beat the
 Spaniard.]{.mark} ]{.underline}**
 
-**[[The point is not just that in general Rafael exploits Roger's
+**The point is not just that in general Rafael exploits Roger's
 backhand.  The point here is that there is a statistical difference
 depending on what happens on the first ball after the
-serve.]{.underline}]{.mark}**
+serve.**
 
-**[[The lesson to be drawn from this as a player or a coach is this:
+**The lesson to be drawn from this as a player or a coach is this:
 good serving is obviously important, but it is even more important to
-immediately set up your forehand after the serve.]{.underline}]{.mark}**
+immediately set up your forehand after the serve.**
  The top players are obviously seeking to do this as often as possible. 
 So, it makes sense to practice this combination specifically.  Make sure
 you and/or your players are aware of this, and what advantage it may
@@ -126,12 +126,12 @@ which we will address separately a little further on.
 in this zone---again anywhere from 3 front in front of to 5 feet behind
 the baseline.]{.mark} ]{.underline}**
 
-**[[He produced 25% of all his winners with his backhand hit from the
+**He produced 25% of all his winners with his backhand hit from the
 same zone.  Interestingly, the other 8% of his winners are forehands hit
 from further back, more 5 feet behind the
-baseline.]{.underline}]{.mark}**  **[[He recorded no backhand winners in
+baseline.**  **He recorded no backhand winners in
 the Wimbledon final from deeper than 5 feet behind the
-baseline.]{.underline}]{.mark}**
+baseline.**
 
 ![A person playing tennis Description automatically
 generated](media_federer-versus-nadal-3-overlooked-factors/media/image5.webp)
@@ -181,10 +181,10 @@ match.]{.mark} ]{.underline}**
 10% of these attacking points by actually a volley or an
 overhead.]{.mark} ]{.underline}**
 
-**[[We can see why when we look at the numbers on Nadal's passes. When
+**We can see why when we look at the numbers on Nadal's passes. When
 Federer attacked Nadal won 19% of the total points with winning passes. 
 Only 2% of Federer's attacking points ended with a Nadal passing shot
-error.]{.underline}]{.mark}**
+error.**
 
 **[[The bottom line is that when Nadal had any chance of hitting a
 passing shot, he generally hit it with amazing precision, and rarely

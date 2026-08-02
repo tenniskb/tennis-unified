@@ -64,14 +64,14 @@ the ball on the rise more often, which also requires better movement and
 preparation.
 
 This is the major reason why most one-handed backhand players, at the
-club level, still slice more often in match situations. **[[The
+club level, still slice more often in match situations. **The
 continental grip (underspin grip) allows a player to hit late balls and
 high balls more effectively, a situation that can be traced mainly to
-bad footwork and slow preparation.]{.underline}]{.mark}**
+bad footwork and slow preparation.**
 
-**[[To be a complete one-handed player, however, requires the ability
+**To be a complete one-handed player, however, requires the ability
 not only to slice but to drive the ball flat and also with at least some
-topspin.]{.underline}]{.mark}** This is obviously true in the pro game.
+topspin.** This is obviously true in the pro game.
 It's also a big advantage at the club level.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -82,25 +82,25 @@ It's also a big advantage at the club level.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[As with all grips, the secret to developing control with the eastern
+**As with all grips, the secret to developing control with the eastern
 backhand grip is mental imaging. The player must develop mental images
 which lead to the correct position of the racquet head at
-contact.]{.underline}]{.mark}**
+contact.**
 
-On the one-handed backhand, there are three key mental pictures. **[[The
+On the one-handed backhand, there are three key mental pictures. **The
 first is the image of the racquet head above the
-wrist.]{.underline}]{.mark}** This image is essential to controlling the
+wrist.** This image is essential to controlling the
 ball, whether the shot is hit with topspin or slice.
 
-**[[The leverage on the one-handed backhand is better when your hand
-position is near waist level.]{.underline}]{.mark}** **[[The only way to
+**The leverage on the one-handed backhand is better when your hand
+position is near waist level.** **The only way to
 play higher balls and keep the hand at that level is to raise the
-racquet head to the level of the ball.]{.underline}]{.mark}**
+racquet head to the level of the ball.**
 
-**[[If you raise the hand to the ball level, there is a tendency to drop
-the racquet head causing the ball to fly out.]{.underline}]{.mark}**
-**[[This is why the image of the racquet head above the wrist is
-critical.]{.underline}]{.mark}**
+**If you raise the hand to the ball level, there is a tendency to drop
+the racquet head causing the ball to fly out.**
+**This is why the image of the racquet head above the wrist is
+critical.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                          ![A person holding a tennis racket Description automatically
@@ -110,8 +110,8 @@ critical.]{.underline}]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The second image is of the racquet face partially closed at
-contact.]{.underline}]{.mark}** As I discussed with the forehand grips,
+**The second image is of the racquet face partially closed at
+contact.** As I discussed with the forehand grips,
 this image counteracts the natural tendency for players to open their
 palms toward the sky.
 
@@ -151,9 +151,9 @@ this will be difficult. This is due to the many quick low balls a player
 receives that require opening the racquet face without the dropping of
 the racquet head (much like low volleys).
 
-**[[The right solution to be a complete one-handed player is to combine
+**The right solution to be a complete one-handed player is to combine
 the ability to drive with the eastern grip with the ability to slice
-using the continental.]{.underline}]{.mark}**
+using the continental.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_understanding-the-backhand-grips/media/image6.jpg)
@@ -291,8 +291,8 @@ previously played with two-hands made this process much easier).
 shot. Hitting a great one-handed backhand is far more thrilling then
 hitting a great two-handed shot.]{.mark}]{.underline}**
 
-**[[The two-hander allowed me more freedom to
-adjust.]{.underline}]{.mark}** Simply put, I did not have to be as good
+**The two-hander allowed me more freedom to
+adjust.** Simply put, I did not have to be as good
 with the two-hander. I could get away with slight errors in movement and
 technique and still compete well. Both mentally and physically, it was
 easier to adapt to difficult balls with two hands. I started playing
@@ -300,11 +300,11 @@ with the two-hander as a teenager because my heroes, Borg and Evert used
 it, and as a beginner, I found **[[the two-hander much easier to learn
 than even the forehand.]{.mark}]{.underline}**
 
-**[[I did learn how to hit a one-handed slice later, mainly out of the
-necessity to reach for wide balls and low balls.]{.underline}]{.mark}**
+**I did learn how to hit a one-handed slice later, mainly out of the
+necessity to reach for wide balls and low balls.**
 Learning to hit a one-handed slice was good training for hitting a
-one-handed backhand volley. **[[As noted below, the transition to the
-one-handed drive was far more difficult.]{.underline}]{.mark}**
+one-handed backhand volley. **As noted below, the transition to the
+one-handed drive was far more difficult.**
 
 **Should You Switch?**
 

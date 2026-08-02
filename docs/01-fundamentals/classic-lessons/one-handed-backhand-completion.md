@@ -41,15 +41,15 @@ see many players do this well on their forehands but the mental
 conviction just isn't the same on the backhand. Once an understanding
 of the backhand model has been attained it's then very important to
 approach the shot like you mean business. This doesn't mean to try and
-rip every backhand! **[[It's more about hitting making contact when and
+rip every backhand! **It's more about hitting making contact when and
 where YOU want to instead of the ball dictating
-that.]{.underline}]{.mark}**
+that.**
 
-The contact range will vary from person to person, but on **[[every
+The contact range will vary from person to person, but on **every
 solid one-hander the contact point is beyond or in front of the foot
 that's stepping to the ball. Hitting over or behind the lead foot will
 greatly undermine one's chances of controlling their
-shot.]{.underline}]{.mark}**
+shot.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with low
@@ -59,17 +59,17 @@ shot.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[As you begin to swing forward, pull the butt of the handle towards
-the ball while keeping your wrist locked]{.underline}]{.mark}**. **If
+**As you begin to swing forward, pull the butt of the handle towards
+the ball while keeping your wrist locked**. **If
 the handle doesn't lead the strings, you can still whip the racket
-through, even if the contact range is correct**. **[[Your hitting hand
+through, even if the contact range is correct**. **Your hitting hand
 should pass close to the hip as you bring the racket forward, further
-ensuring good support at contact.]{.underline}]{.mark}**
+ensuring good support at contact.**
 
-**[[As you move the racket forward to the ball, the hitting arm should
+**As you move the racket forward to the ball, the hitting arm should
 straighten out well before contact. This straight arm position continues
 after the hit all the way through the
-follow-through.]{.underline}]{.mark}** It's hard to stress this point
+follow-through.** It's hard to stress this point
 too much. The most common cause of weak one-handers is the dreaded
 \"elbow lead,\" with the arm bent at the contact. This is one reason why
 we stressed in the preparation phase that the loop should be as compact

@@ -59,16 +59,16 @@ confidence](media_playing-winning-doubles-the-return-game/media/image3.webp)
 **If can't take over the net, it's better to change strategy and
 defend playing 2 back.**
 
-**[[Instead, the serving team has to hit through two entrenched
+**Instead, the serving team has to hit through two entrenched
 defenders. From the defender's position there are two high-percentage
-plays.]{.underline}]{.mark}** **[[The first is down the middle, over the
+plays.** **The first is down the middle, over the
 low part of the net. It leaves the volleying team with no angle. It also
 tends to pull the net players together and this opens up the sidelines
-for passing shots on subsequent balls.]{.underline}]{.mark}**
+for passing shots on subsequent balls.**
 
-**[[The other key play from the defending position is to lob. Most
+**The other key play from the defending position is to lob. Most
 people at the recreational level simply do not have overheads that are
-reliable enough to overpower determined lobbers,]{.underline}]{.mark}**
+reliable enough to overpower determined lobbers,**
 
 ![A group of men playing tennis Description automatically generated with
 medium
@@ -77,18 +77,18 @@ confidence](media_playing-winning-doubles-the-return-game/media/image4.webp)
 **Few recreational players have the overheads to defeat determined
 lobbers.**
 
-**[[Lobs fall into two categories: defensive and
-offensive.]{.underline}]{.mark}** **[[Defensive lobs should be hit as
+**Lobs fall into two categories: defensive and
+offensive.** **Defensive lobs should be hit as
 high as possible. Good defensive lobs test your opponent's overhead and
-their nerves.]{.underline}]{.mark}** Usually, they will produce errors
+their nerves.** Usually, they will produce errors
 from the attacking team. In addition, they'll drive your opponents back
 off the net and this will open up the court for passing shots.
 
-**[[If the volleyers move in close to the net, hit offensive lobs with a
-lower trajectory and a higher velocity.]{.underline}]{.mark}** **[[If
+**If the volleyers move in close to the net, hit offensive lobs with a
+lower trajectory and a higher velocity.** **If
 you can get an offensive lob over your opponent's head, you and your
 partner should immediately go on the offense and both rush to the
-net.]{.underline}]{.mark}** Now you have the advantage, and your
+net.** Now you have the advantage, and your
 opponents must defend.
 
 ![A group of people play tennis Description automatically generated with
@@ -98,37 +98,37 @@ confidence](media_playing-winning-doubles-the-return-game/media/image5.webp)
 **Returning down the line early will usually pay off later in the
 match.**
 
-**[[Another element in your receiving strategy should be to hit a few
+**Another element in your receiving strategy should be to hit a few
 crisp returns right down the line, either past or directly at the net
-person.]{.underline}]{.mark}**
+person.**
 
-**[[Do this at the beginning of the match just to show that you are
+**Do this at the beginning of the match just to show that you are
 willing and able to go down the line, and also that you don't fear the
-net player's volley.]{.underline}]{.mark}**
+net player's volley.**
 
-**[[This will pay off later in the match by making your opponents more
+**This will pay off later in the match by making your opponents more
 hesitant to poach on important points. Be aware not to over hit when you
 go down the line. The ball has to go in the court to have the desired
-effect.]{.underline}]{.mark}**
+effect.**
 
-**[[Finally, if the second serve is weak and short, the down the line
+**Finally, if the second serve is weak and short, the down the line
 return can be a point winner. It may be the easiest shot you get at the
-net player.]{.underline}]{.mark}**
+net player.**
 
-**[[When you advance to the net, avoid getting caught in the no-man's
+**When you advance to the net, avoid getting caught in the no-man's
 land between the service line and the baseline. Here you're vulnerable
 to both the pass and the low ball at your feet, and there's nothing you
-can do to hurt your opponents by staying there.]{.underline}]{.mark}**
+can do to hurt your opponents by staying there.**
 
-**[[When going to the net move forward quickly and decisively. Make sure
-you get inside the service line.]{.underline}]{.mark}**
+**When going to the net move forward quickly and decisively. Make sure
+you get inside the service line.**
 
 **One Up One Back**
 
-**[[If the object of smart doubles is to take over the net, why do so
+**If the object of smart doubles is to take over the net, why do so
 many teams play with one player at the net and one player in the back
 court? The answer is that it can be effective so long as both teams stay
-in this formation.]{.underline}]{.mark}**
+in this formation.**
 
 ![A group of men playing tennis Description automatically generated with
 medium
@@ -137,22 +137,22 @@ confidence](media_playing-winning-doubles-the-return-game/media/image6.webp)
 **If you opponent's play 1 up one back, hit deep cross-courts and
 follow them to the net.**
 
-**[[Typically, the points develop into crosscourt ground stroke
+**Typically, the points develop into crosscourt ground stroke
 exchanges between the two back court players, with the volleyers doing
 little or nothing until a ball drifts close to the center. Then one of
-them moves across, poaches, and hits a winner.]{.underline}]{.mark}**
+them moves across, poaches, and hits a winner.**
 
-**[[If your opponents play one up, one back, you can get a decided
+**If your opponents play one up, one back, you can get a decided
 advantage if you can bring both players on your team to the net. If
 you're on the baseline, try to get to net as soon as possible. Hit your
 cross-courts deep to force a short reply and hit an approach that you
-can follow in.]{.underline}]{.mark}**
+can follow in.**
 
-**[[Another alternative is to hit a lob over the opposing net player's
+**Another alternative is to hit a lob over the opposing net player's
 head and follow it in. If you're unwilling or unable to go in, your
 partner should look for the first opportunity to poach. Move across the
 center and hit the volley at the opposing net
-player.]{.underline}]{.mark}**
+player.**
 
 Read More From Allen!
 

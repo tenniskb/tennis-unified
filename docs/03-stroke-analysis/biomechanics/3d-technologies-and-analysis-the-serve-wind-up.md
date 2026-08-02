@@ -48,9 +48,9 @@ Phase 1?**
 
 **Four Phases of the Serve**
 
-**[[The serve in my view is made up of four phases: the wind up, the
+**The serve in my view is made up of four phases: the wind up, the
 back swing, the upward swing, and the follow
-through.]{.underline}]{.mark}** You can see these phases in the computer
+through.** You can see these phases in the computer
 interface if you select \"Racquet Speed Data\" under data options. As
 the animation is played, the 4 phases of the swing are displayed.
 
@@ -135,9 +135,9 @@ confidence](media_3d-technologies-and-analysis-the-serve-wind-up/media/image4.we
 **The end of the wind up usually corresponds with the beginning of the
 leg drive.**
 
-**[[In our definition, the wind up starts as the tossing hand and/or
+**In our definition, the wind up starts as the tossing hand and/or
 ball separate from the racquet. It concludes when the racquet starts to
-drop into the back swing loop.]{.underline}]{.mark}**
+drop into the back swing loop.**
 
 Determining the end of the wind up can be somewhat subjective but is
 normally visually obvious when seen from multiple viewpoints. Among
@@ -268,9 +268,9 @@ with the racket head speed continuing to build?
 
 Put another way: is there a slow down, or even pause or a hesitation, or
 is this transition continuous? We see both variations in the serves of
-high level as well as developing players. ***[[Some have a continuous
+high level as well as developing players. ***Some have a continuous
 transition, others have what I call a hesitation
-transition.]{.underline}]{.mark}***
+transition.***
 
 When servers demonstrate a clear decrease in racquet speed towards the
 end of the wind up, is this a significant problem? The answer can be yes
@@ -413,20 +413,20 @@ muscles that create the leg drive.
 **[[Leg drive force refers to the cumulative effect that the muscles
 have in pushing against the ground.]{.mark}]{.underline}** Earlier I
 mentioned this as one of the main factors determining the size of the
-vertical ground force. ***[[The muscles have properties that allow them
+vertical ground force. ***The muscles have properties that allow them
 to generate more force in certain conditions than in others. These
 conditions can be created by various footwork and leg
-strategies.]{.underline}]{.mark}***
+strategies.***
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image11.jpg)
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                            **To maximize body rotation and angular momentum, players must direct the ground force [[behind]{.underline}]{.mark} the center of mass.**
+                            **To maximize body rotation and angular momentum, players must direct the ground force behind the center of mass.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[One way to enhance this force is through what we call a \"counter
-movement.\"]{.underline}]{.mark}** What that means in this case is the
+**One way to enhance this force is through what we call a \"counter
+movement.\"** What that means in this case is the
 timing of the straightening or extension of the knees following the
 bend. ***[The knee bend is the counter movement to the straightening of
 the legs that follows.]{.mark}***
@@ -503,11 +503,11 @@ operating in the later phases. We'll see how the relative advantages of
 both stances play out in greater detail when we progress to Phases 2
 through 4.
 
-**[[Again there are no simple yes or no answers here. Depending on the
+**Again there are no simple yes or no answers here. Depending on the
 player, the more favorable leg drive conditions of the platform stance
 may or may not outweigh the advantages of the pinpoint in positioning
 the center of mass, and creating angular momentum in the initial phase
-of the motion.]{.underline}]{.mark}**
+of the motion.**
 
 ![](media_3d-technologies-and-analysis-the-serve-wind-up/media/image13.webp)
 
@@ -578,9 +578,9 @@ degree value.**
 
 **Line of Hips to Baseline**
 
-**[[The angle of the hips to the baseline is important as an indicator
+**The angle of the hips to the baseline is important as an indicator
 of the range of motion available for hip rotation in later phases of the
-serve.]{.underline}]{.mark}** Our data indicates 10 degrees to the
+serve.** Our data indicates 10 degrees to the
 non-hitting side of a line perpendicular to the baseline is a good
 amount. Top players can achieve substantially more. Less angle, or an
 angle skewed to the hitting side (ie, with the hips \"open\" to the net)
@@ -608,8 +608,8 @@ conservative goal of 20 degrees to the non-hitting side of the baseline
 perpendicular are typically caused (and can be verified) by the same
 causes as the hip counterpart.
 
-**[[Particular attention should be placed on this angle relative to the
-hip angle.]{.underline}]{.mark}** Having the shoulders rotated more than
+**Particular attention should be placed on this angle relative to the
+hip angle.** Having the shoulders rotated more than
 the hips is evident in all high level servers and, combined with timing
 of the rotation, implies muscular advantage to the muscles that rotate
 the upper trunk.
@@ -618,7 +618,7 @@ the upper trunk.
 
 **[The backward lean of the trunk (seen primarily in a side view) is
 another attribute observed in nearly all high level servers.]{.mark}**
-**[[By leaning the trunk back up to 30 degrees]{.underline}]{.mark}**,
+**By leaning the trunk back up to 30 degrees**,
 **[more rotational range is available for future forward trunk
 rotation.]{.mark}** Also, evidence suggests this position forces the
 back knee into flexion, causing extension to occur under more favorable
@@ -633,10 +633,10 @@ generated](media_3d-technologies-and-analysis-the-serve-wind-up/media/image17.we
 
 **Lateral Lean of the Trunk**
 
-**[[Lateral lean of the trunk (seen in a back view) is a natural
-consequence of knee flexion.]{.underline}]{.mark}** ***[[In later phases
+**Lateral lean of the trunk (seen in a back view) is a natural
+consequence of knee flexion.** ***In later phases
 of the serve its role is important to twisting rotation of the
-trunk.]{.underline}]{.mark}*** **[Pro players can have extreme lateral
+trunk.*** **[Pro players can have extreme lateral
 lean corresponding largely to the depth of the knee bend.]{.mark}** As
 will be discussed in future articles, lateral pinpoint stances tend to
 cause even more extreme leans in the lateral direction.

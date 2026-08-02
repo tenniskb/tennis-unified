@@ -78,9 +78,9 @@ With the T serve, you can volley into the open court, or behind the
 returner. Either volley will force your opponent to move. But be
 careful.
 
-**[[Unless you have a clear opportunity to hit a winner or hurt your
+**Unless you have a clear opportunity to hit a winner or hurt your
 opponent badly, I recommend hitting the first volley in the direction
-your body weight is moving.]{.underline}]{.mark}** In the deuce court,
+your body weight is moving.** In the deuce court,
 if the returner hits to my backhand volley, I will hit my backhand
 volley down the line.
 

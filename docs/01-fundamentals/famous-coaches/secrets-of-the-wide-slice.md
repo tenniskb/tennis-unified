@@ -11,9 +11,9 @@ confidence](media_secrets-of-the-wide-slice/media/image1.webp)
 **The wide slice serve demonstrated on the grass at Mission Hills
 Resort.**
 
-**[[If you examine the records of most of the great servers in tennis
+**If you examine the records of most of the great servers in tennis
 history, they all had the wide slice serve down
-cold]{.underline}]{.mark}**. Pete Sampras had maybe the best wide serve
+cold**. Pete Sampras had maybe the best wide serve
 in the history of the game. The great lefties like John McEnroe and Rod
 Laver had it in the ad court. In today's game it's the same. Roger
 Federer wins a lot of points with wide slice serves, even on the second
@@ -80,8 +80,8 @@ across the outside of the ball.\"
 
 And the first time I threw it up and hit it, I turned my head to follow
 the ball. And he yelled at me. \"Don't you do that!\" He scared the
-heck out of me. He said: **[[\"I don't want to see your head move,
-period.\"]{.underline}]{.mark}**
+heck out of me. He said: **\"I don't want to see your head move,
+period.\"**
 
 **[[And he explained the reason. When players hit a wide slice they have
 a tendency to open up their bodies too much too
@@ -98,9 +98,9 @@ confidence](media_secrets-of-the-wide-slice/media/image4.webp)
 **Half motion, head still: 2000 balls later the wide slice was my best
 serve.**
 
-**[[It's true that you can hit the slice if you twist or rotate your
+**It's true that you can hit the slice if you twist or rotate your
 body, but you are not going to be as consistent, and you are not going
-to get as much pace.]{.underline}]{.mark}** So Pancho made sure I kept
+to get as much pace.** So Pancho made sure I kept
 my upper body relatively quiet and still, and that I concentrated on the
 hands.
 
@@ -110,13 +110,13 @@ timing is just better.]{.mark}*** The key to hitting the ball wide with
 more sidespin is only a slight difference in the way the hand moves the
 racket across the ball.
 
-**[[If you rotate the body too much too soon, you'll tend to be all
-over the place with the contact.]{.underline}]{.mark}** By controlling
+**If you rotate the body too much too soon, you'll tend to be all
+over the place with the contact.** By controlling
 the head position, Pancho believed you learned to hit the wide serve
 with the proper motion and create both pace and spin.
 
-By **[[keeping my head still I developed the feeling for staying
-sideways longer.]{.underline}]{.mark}** I started to make the serve.
+By **keeping my head still I developed the feeling for staying
+sideways longer.** I started to make the serve.
 Pancho made me serve that way for one whole month! I hit 150 or 200
 balls that way every time I practiced. I didn't serve every day, but it
 was probably over 2000 balls I hit that way in a month's time.

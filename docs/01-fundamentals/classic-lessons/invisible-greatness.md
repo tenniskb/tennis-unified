@@ -129,9 +129,9 @@ They have to understand the real cause of the problem.\"
 
 **Invisible Mental**
 
-**[[Still another invisible aspect of tennis that is acknowledged by
+**Still another invisible aspect of tennis that is acknowledged by
 most players is the mental game, yet very few actually know what this
-means.]{.underline}]{.mark}** Certainly, anyone who has played a match
+means.** Certainly, anyone who has played a match
 of any significance can attest to feeling nerves or having mental lapses
 of judgment, but how and why this occurs remains a mystery to most
 players.
@@ -197,9 +197,9 @@ stressful experience?]{.mark}]{.underline}**
 Just consider the scoring system. Most players are completely oblivious
 to its diabolical nature and how it affects them time and time again.
 
-**[[\"Conceptually, tennis scoring presents us with an increasingly
+**\"Conceptually, tennis scoring presents us with an increasingly
 important and stressful series of individual battles, the outcome of
-which is all or nothing, win or lose,\"]{.underline}]{.mark}** wrote Fox
+which is all or nothing, win or lose,\"** wrote Fox
 in "Tennis: Winning the Mental Match".
 
 \"Unlike football or basketball where you can build up a big lead and
@@ -222,22 +222,22 @@ generated](media_invisible-greatness/media/image7.jpg)
 
 **Fox explained to me that [most players are not capable of dealing with
 this stress]{.underline} and so [unconsciously escape from it as soon as
-possible]{.underline} through [[a few common emotional responses: anger,
-excuse-making, and tanking.]{.underline}]{.mark}** **[[A classic example
+possible]{.underline} through a few common emotional responses: anger,
+excuse-making, and tanking.** **A classic example
 is when a player gets ahead in a match - maybe they're serving for the
-set - then suddenly \"chokes\" it away.]{.underline}]{.mark}**
+set - then suddenly \"chokes\" it away.**
 
-**[[\"The hidden fact,\" he says, \"is that these players subconsciously
-want to avoid the growing stress of finishing.]{.underline}]{.mark}**
+**\"The hidden fact,\" he says, \"is that these players subconsciously
+want to avoid the growing stress of finishing.**
 **[They have what appears to be a substantial lead, so they delude
 themselves into feeling they can safely put off this bit of nasty
-work.]{.underline}** **[[They want to delay - unconsciously, of course -
+work.]{.underline}** **They want to delay - unconsciously, of course -
 the increasing mental effort required to win and they end up getting
-beaten.]{.underline}]{.mark}**\"
+beaten.**\"
 
-**[[The best players find creative ways of decreasing their stress
+**The best players find creative ways of decreasing their stress
 before and throughout the match to prevent destructive emotional escape
-responses.]{.underline}]{.mark}** They also practice strict emotional
+responses.** They also practice strict emotional
 discipline. Though we may see Rafael Nadal pump his fist and yell,
 \"Vamos!\" or Maria Sharapova shout, \"Come on!\" Fox says timing is
 everything.
@@ -253,8 +253,8 @@ confidence](media_invisible-greatness/media/image8.webp)
 
 **Don't get too up and down - try not to feel at the end of a point.**
 
-**\"The best tip I could ever give anybody,\" says Fox, \"is [[don't
-have any feeling at the end of a point]{.underline}]{.mark}, because the
+**\"The best tip I could ever give anybody,\" says Fox, \"is don't
+have any feeling at the end of a point, because the
 emotions that you have at the end of a point will be: you hit a great
 shot, you feel good. You hit a bad one, you feel bad.**
 
@@ -262,10 +262,10 @@ shot, you feel good. You hit a bad one, you feel bad.**
 you're gonna lose every other point against a good player]{.underline}.
 So, you've gotta keep an even keel.]{.mark}**
 
-**[[The way you start out doing that is by not having any feeling at the
+**The way you start out doing that is by not having any feeling at the
 end of a point. It's over. Nothing happened. No emotion. No excitement.
 Nothing negative. Just get yourself up for the next
-point.\"]{.underline}]{.mark}**
+point.\"**
 
 Point patterns, anticipation, decision making, the mental game. I was
 beginning to understand why greatness was indeed invisible. Stay tuned

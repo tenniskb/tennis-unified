@@ -76,9 +76,9 @@ learn from them, and how it applies to players at all levels.
 
 **Strategy**
 
-**[[The first component is Strategy. Strategy is the overall plan for
-playing a match. Strategy]{.underline}]{.mark}** **[[is the overarching
-concept that encompasses the other components.]{.underline}]{.mark}**
+**The first component is Strategy. Strategy is the overall plan for
+playing a match. Strategy** **is the overarching
+concept that encompasses the other components.**
 
 There are many factors that can go into determining strategy. Consider
 the hours of game film that football coaches watch to analyse opponents
@@ -87,13 +87,13 @@ and determine the most effective strategy for the upcoming match.
 **[[But what are the factors that need to be considered in
 tennis?]{.mark}]{.underline}**
 
-**[[The first is the opponent.]{.underline}]{.mark}** Cleary this is
+**The first is the opponent.** Cleary this is
 critical and why a coach like Brad Gilbert is famous for his ability to
 assess opponents. Understanding how best to get at your opponents'
 weaknesses and avoid their strengths will increase the chance that they
 will not play as well, and help you impose your game on theirs.
 
-**[[The second factor in strategy is environment.]{.underline}]{.mark}**
+**The second factor in strategy is environment.**
 Though commonly overlooked\--especially by inexperienced and lower-level
 players\--environmental factors such as court surface, weather,
 altitude, and type of ball play a major role in determining strategy.
@@ -114,7 +114,7 @@ go on for 2 or 3 balls compared to 10. For this reason, there can be
 major differences in devising strategy against the same opponent in
 different environments.
 
-**[[The third component is you.]{.underline}]{.mark}** Hopefully as a
+**The third component is you.** Hopefully as a
 player you have a clear idea of your game style, the second component we
 will discuss below.
 
@@ -138,8 +138,8 @@ now let's look at some of the actual strategies themselves.
 
 **Exploit the Weakness**
 
-**[[The first strategy is learning to exploit
-weakness.]{.underline}]{.mark}** Pro players know each other's
+**The first strategy is learning to exploit
+weakness.** Pro players know each other's
 strengths and weaknesses intimately. There is a reason Rafael Nadal
 plays so many balls high to Federer's backhand.
 
@@ -156,8 +156,8 @@ miraculous impact on the outcome of many matches.
 
 **Move the Opponent**
 
-**[[The second basic strategy is controlling space and maximizing the
-amount of court your opponent must cover.]{.underline}]{.mark}** This is
+**The second basic strategy is controlling space and maximizing the
+amount of court your opponent must cover.** This is
 even more effective when playing somebody who has suspect movement or
 fitness. To develop it, however, you most also possess high quality
 cross courts, short angles, and also, the ability to change direction
@@ -178,8 +178,8 @@ Vegas\" as he used to describe it.
 
 **Time Pressure**
 
-**[[Taking time from your opponent is a third fundamental
-strategy]{.underline}]{.mark}**. This affects an opponent's rhythm and
+**Taking time from your opponent is a third fundamental
+strategy**. This affects an opponent's rhythm and
 shot production, and also creates anxiety when he is unable to play his
 game or execute his own strategy.
 
@@ -204,30 +204,30 @@ generated](media_the-four-components-of-match-play-strategy-and-game-style/media
 
 **Changing rhythms and mixing in drop shots - another strategy option.**
 
-**[[Changing rhythms is a fourth basic strategy.]{.underline}]{.mark}**
+**Changing rhythms is a fourth basic strategy.**
 This also disrupts the timing of your opponent. This is a strategy that
 is commonly employed by Andy Murray. It can be a very effective strategy
 when playing big hitters or when wind or court conditions make timing
 more difficult.
 
-**[[Mixing speeds, arcs and spins frustrates players who prefer steady
-exchanges or like to try for regular winners.]{.underline}]{.mark}**
+**Mixing speeds, arcs and spins frustrates players who prefer steady
+exchanges or like to try for regular winners.**
 Murray can hit slower slice backhands, then suddenly attack with a huge
 forehand. Or hit surprise drop shots and mix in net approaches.
 
-**[[Players feel off balance and question what to expect
-next.]{.underline}]{.mark}** Murray shows how effective it can be at the
+**Players feel off balance and question what to expect
+next.** Murray shows how effective it can be at the
 pro level, and for the club player the benefits are probably even
 greater.
 
 **Game style**
 
-**[[The second component is Game Style.]{.underline}]{.mark}** Which
+**The second component is Game Style.** Which
 strategy or combination of strategies should you employ against a given
 opponent? That depends on the characteristics of your Game Style.
 
-**[[Game Style is the range of ways you are capable of
-playing.]{.underline}]{.mark}** It is based on the strengths and
+**Game Style is the range of ways you are capable of
+playing.** It is based on the strengths and
 weaknesses you have and therefore determines your ability to use various
 strategies.
 
@@ -246,7 +246,7 @@ styles.
 
 **All Court**
 
-**[[The first game style is the All Court Player.]{.underline}]{.mark}**
+**The first game style is the All Court Player.**
 This player is equally comfortable at the back and front of the court
 and has a very good transition game. He may not be overwhelmingly
 dominant in any one particular phase or with any particular shot, but he
@@ -265,8 +265,8 @@ generated](media_the-four-components-of-match-play-strategy-and-game-style/media
 
 **Aggressive Baseliner**
 
-**[[The second game style is the Aggressive
-Baseliner.]{.underline}]{.mark}** This player likes to put constant
+**The second game style is the Aggressive
+Baseliner.** This player likes to put constant
 pressure on his opponents by taking their time away, making them cover
 more space, and hurting them with huge velocity.
 
@@ -278,7 +278,7 @@ open court.
 
 **Big Forehand**
 
-**[[A third game style is the Big Forehand.]{.underline}]{.mark}** This
+**A third game style is the Big Forehand.** This
 player likes to dictate play with his forehand and looks for every
 opportunity to use this shot. Usually, this player will look to move
 around many or most backhands and hit his forehand inside out and then
@@ -296,19 +296,19 @@ including inside in winners.
 
 **Sniper**
 
-**[[A fourth style is the Counter Puncher, or
-Sniper.]{.underline}]{.mark}** This player is very patient and willing
+**A fourth style is the Counter Puncher, or
+Sniper.** This player is very patient and willing
 to stay in rallies for extended periods. Tenacity is a major weapon.
 
-**[[But if his opponent takes risks the Sniper looks to turn that risk
-against him.]{.underline}]{.mark}** **[[He does this by using the
+**But if his opponent takes risks the Sniper looks to turn that risk
+against him.** **[[He does this by using the
 opponent's ball speed or placement to counterattack, hitting
 aggressively himself or creating an even better placement or
 angle.]{.mark}]{.underline}**
 
-**[[The Sniper may allow or even encourage an opponent to attempt to
+**The Sniper may allow or even encourage an opponent to attempt to
 strike first, but his response is often more effective and aggressive
-than the original attack.]{.underline}]{.mark}** **[[By trying to open
+than the original attack.** **[[By trying to open
 the court, opponents often play right into the strengths of this game
 style.]{.mark}]{.underline}**
 
@@ -325,8 +325,8 @@ mentally.
 
 **Combo**
 
-**[[Of course, players can also combine some or all of these game
-styles.]{.underline}]{.mark}** Roger Federer is the ultimate example.
+**Of course, players can also combine some or all of these game
+styles.** Roger Federer is the ultimate example.
 Federer is an all-court player. But he also has a huge forehand. He also
 has exceptional defensive and counterattacking skills.
 
@@ -344,7 +344,7 @@ generated](media_the-four-components-of-match-play-strategy-and-game-style/media
 
 **Organic development leads to mastery of your game style.**
 
-**[[Caution!]{.underline}]{.mark}**
+**Caution!**
 
 **[[It is very important for all players to develop their gamestyles
 organically. Few or no players have the variety of a Roger Federer. Game

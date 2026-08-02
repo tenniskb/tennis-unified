@@ -21,8 +21,8 @@ these elements. I have incorporated many of them into my game, and teach
 them as well.
 
 But, based on my experience over the last two years, I believe that
-**[[a simpler more classical approach can also be devastatingly
-effective.]{.underline}]{.mark}** This approach is often as applicable
+**a simpler more classical approach can also be devastatingly
+effective.** This approach is often as applicable
 or even more applicable to the games of many players as compared to the
 more radical elements in \"modern\" tennis.
 
@@ -265,8 +265,8 @@ generated](media_the-traditional-forehand-a-living-model/media/image8.webp)
 **A square stance and long Sampras like finishes, with the racket on
 edge.**
 
-**[[However, he will open the stance somewhat when the ball is
-high.]{.underline}]{.mark}** And again, here is a misconception about
+**However, he will open the stance somewhat when the ball is
+high.** And again, here is a misconception about
 the modern game---that there is an either or choice regarding stance.
 Karsten shows you can have the natural flexibility to open the stance to
 varying degrees with an eastern grip, even if your preference is to step
@@ -313,20 +313,20 @@ But at a minimum he rushes you and your reply. This can make it very
 difficult to find your rhythm if you are used to opponents who play far
 behind the baseline.
 
-**[[Karsten explained to me that one of the keys to his timing is that
+**Karsten explained to me that one of the keys to his timing is that
 he envisions every forehand as if it's an approach
-shot.]{.underline}]{.mark}** This makes sense because in his playing
+shot.** This makes sense because in his playing
 career he played serve and volley, and also looked for every opportunity
 to get to the net from the backcourt and on returns.
 
-**[[The incredible effectiveness of early timing in the backcourt game
+**The incredible effectiveness of early timing in the backcourt game
 is often overlooked at both the pro and the club
-level.]{.underline}]{.mark}** **[[This is strange, since the greatest
+level.** **This is strange, since the greatest
 player of all time in my view, Roger Federer, plays this way, always
 trying to force play by standing and hitting on the
-rise.]{.underline}]{.mark}** **[[This of course was a basic strategy for
+rise.** **This of course was a basic strategy for
 some of the other all time greats including Andre
-Agassi.]{.underline}]{.mark}**
+Agassi.**
 
 ![A person running on a track Description automatically generated with
 medium
@@ -334,8 +334,8 @@ confidence](media_the-traditional-forehand-a-living-model/media/image10.webp)
 
 **Karsten adapts his stance by opening on higher balls.**
 
-But as I mentioned, **[[Karsten is also quite flexible with his stance
-when necessary]{.underline}]{.mark}**. **[[When I hit him high bouncing,
+But as I mentioned, **Karsten is also quite flexible with his stance
+when necessary**. **[[When I hit him high bouncing,
 heavy topspin, he will often open the stance somewhat, playing the ball
 at a noticeably higher contact point, and playing a slightly more
 looping and less penetrating ball, waiting for his chance to step in and
@@ -343,9 +343,9 @@ really punish you.]{.mark}]{.underline}**
 
 So there you have it.
 
-**[[Minimalist preparation that is sound by any standard combined with
+**Minimalist preparation that is sound by any standard combined with
 an equally simple forward swing. An attacking court position and early
-timing.]{.underline}]{.mark}**
+timing.**
 
 **[[Factors that allow Karsten to position upward toward the baseline
 and to create a consistent, penetrating, relatively flat ball, and a

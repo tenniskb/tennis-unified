@@ -210,10 +210,10 @@ grunting over time.
 **Does this reach 100 decibals? Does the duration of the sound continue
 when the ball is in the opponent's court?**
 
-**[[Nonetheless, some people have pointed to this study and concluded
+**Nonetheless, some people have pointed to this study and concluded
 that grunters distract and slow down their opponents' reactions. Some
 have gone so far to say that the grunt is primarily a \"psyche\" job and
-a form of cheating.]{.underline}]{.mark}** They point out that the
+a form of cheating.** They point out that the
 Azarenka/Sharapova type grunts are of much longer duration and now
 continue until the ball is on the opponent's side of the court. This
 camp is calling for a decibel limit/warning system for grunts that

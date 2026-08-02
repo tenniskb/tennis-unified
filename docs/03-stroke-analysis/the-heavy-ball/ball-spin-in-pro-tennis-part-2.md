@@ -595,11 +595,11 @@ there? Similarly, it appeared there was no such thing as a pure
 to be spinning with some combination of the two. But again, what
 combination?
 
-**[[The second major question had to do with the interrelationship
+**The second major question had to do with the interrelationship
 between our first two studies. How did ball speed and spin mix and
 interact in the pro game? Did more speed always mean less spin? What
 effect did various combinations of speed and spin have on the so-called
-\"heaviness\" of the ball?]{.underline}]{.mark}**
+\"heaviness\" of the ball?**
 
 These questions required new more complex filming protocols and new
 methods of analysis. Stay tuned to see what happened when we set out to

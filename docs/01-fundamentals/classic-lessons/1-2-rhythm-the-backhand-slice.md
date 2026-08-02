@@ -23,10 +23,10 @@ two-hander. And [Click
 Here](1-2%20Rhythm%20The%20Single-Handed%20Backhand.docx) for the one
 handed backhand drive.)
 
-**[[The differences in 1-2 Rhythm on the slice have to do in part with
-the shape of the swing. But]{.underline}]{.mark}** **[[the most
+**The differences in 1-2 Rhythm on the slice have to do in part with
+the shape of the swing. But** **the most
 important differences are in the relative role of the body and
-legs.]{.underline}]{.mark}**
+legs.**
 
 There is some body rotation on the slice, but it is minimal compared to
 the forehand or the two hander, and also appreciably less than the
@@ -70,8 +70,8 @@ generated](media_1-2-rhythm-the-backhand-slice/media/image3.webp)
 
 **Phase1: slow and deliberate with the racket wrapped behind the head.**
 
-**As the racket continues to go back it [[actually wraps behind the
-head]{.underline}]{.mark}.** The face of the racket is slightly open and
+**As the racket continues to go back it actually wraps behind the
+head.** The face of the racket is slightly open and
 the tip points behind Roger to the opposite sideline. The left hand is
 positioned on the racket's throat.
 
@@ -115,8 +115,8 @@ Here](https://www.tennisplayer.net/members/classiclessons/nick_wheatley/1-2_rhyt
 By thinking of the forward swing as very aggressive and full of energy,
 players can get a lot more out of their slice backhand.
 
-**[[A signature relationship in the pro slice is between the height of
-the hand and the racket head.]{.underline}]{.mark}** With this explosive
+**A signature relationship in the pro slice is between the height of
+the hand and the racket head.** With this explosive
 downward swing path, **[[the racket head can stay below the hand for the
 entire course of the follow-through with the racket tip actually
 pointing straight down at the court at some point in the

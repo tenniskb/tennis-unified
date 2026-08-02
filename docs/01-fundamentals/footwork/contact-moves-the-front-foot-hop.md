@@ -38,8 +38,8 @@ the analysis of neutral and defensive contact moves as well.
 **The Hop Move**
 
 A Front Foot Hop is one variation in a larger category of hop moves.
-**[[In general, a hop move is a contact move in which the ball is hit
-off one foot, with the other foot in the air.]{.underline}]{.mark}** We
+**In general, a hop move is a contact move in which the ball is hit
+off one foot, with the other foot in the air.** We
 will look at more hop moves when we address neutral and defensive
 footwork. But first let's see how to use the hop in aggressive,
 attacking footwork. This is the Front Foot Hop variation.
@@ -52,9 +52,9 @@ Foot Hop.**
 
 The Front Foot Hop is aggressive because you are using your feet to
 attack the ball. I also like to call this \"Do something!\" footwork.
-**[[You use the Front Foot Hop on opportunities balls when you have the
+**You use the Front Foot Hop on opportunities balls when you have the
 chance to move forward into the court and either finish or attack the
-net.]{.underline}]{.mark}**
+net.**
 
 The Front Foot Hop can be hit off both the forehand and backhand sides.
 It can be hit with either the one handed or two-handed backhand. It can
@@ -71,11 +71,11 @@ generated](media_contact-moves-the-front-foot-hop/media/image4.webp)
 
 **The Front Foot Hop is the natural transition footwork for attack.**
 
-**[[As the player swings, he kicks his rear leg backwards and to the
+**As the player swings, he kicks his rear leg backwards and to the
 side, with the sole of the shoe pointing toward the
-sideline.]{.underline}]{.mark}** **[[This kick back helps the player
+sideline.** **This kick back helps the player
 extend through the swing. It also prevents him from opening up the torso
-too early and/or losing balance.]{.underline}]{.mark}**
+too early and/or losing balance.**
 
 **Three Options**
 
@@ -94,10 +94,10 @@ generated](media_contact-moves-the-front-foot-hop/media/image5.webp)
 **Players use a variety of outsteps to position for the Front Foot
 Hop.**
 
-**[[The Front Foot Hop is hit with a variety of outsteps, the steps you
-use to position to the ball.]{.underline}]{.mark}** **[[This depends on
+**The Front Foot Hop is hit with a variety of outsteps, the steps you
+use to position to the ball.** **This depends on
 where you are in the court, and also, where the ball
-lands.]{.underline}]{.mark}**
+lands.**
 
 The simplest version is on a ball that lands near the center of the
 court. In this case the player steps out to his right or sometimes takes
@@ -131,11 +131,11 @@ ball. In this case the player runs around first, taking a reverse step
 behind with the outside foot. This is followed by a shuffle or a
 crossover which then leads to the execution of the Front Foot Hop.
 
-**[[In all cases, these outsteps are followed a step forward with the
+**In all cases, these outsteps are followed a step forward with the
 front foot into a neutral stance. It is important to note that this step
 with the front foot into the neutral hitting stance happens prior to the
 forward swing. The front foot stays on the ground on
-contact.]{.underline}]{.mark}**
+contact.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -147,17 +147,17 @@ and/or crossover steps to move back to the center.**
 **A Hop Not a Jump**
 
 **When you hit a Front Foot Hop, you want [to keep the angles in your
-legs through contact]{.underline}.** **[[You want to use the swing
+legs through contact]{.underline}.** **You want to use the swing
 itself to impart spin rather than raising your entire body through the
-shot with the legs.]{.underline}]{.mark}**
+shot with the legs.**
 
 **[[It is also very important to hit through the ball, and keep your
 legs flexed is a key to doing this.]{.mark} [You definitely do not want
 to consciously jump up on contact or lift the head and look up too
 early.]{.mark}]{.underline}**
 
-**[[This is why we call this contact move a hop, not a
-jump.]{.underline}]{.mark}** The hop off the court is an explosive
+**This is why we call this contact move a hop, not a
+jump.** The hop off the court is an explosive
 reaction to the forward swing with the knees bent and the weight on the
 front foot. It is not a mechanical attempt to launch into the air.
 
@@ -168,10 +168,10 @@ when it does not, kicking the rear leg back positions it for use in the
 footwork that follows. This differs depending on whether you are moving
 into the net or recovering toward the baseline.
 
-**[[You may move forward and hit a shot but feel that you have not
+**You may move forward and hit a shot but feel that you have not
 really hurt your opponent or hit the ball sufficiently well to follow it
 in the net. In this case you can recover to the
-baseline.]{.underline}]{.mark}**
+baseline.**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-front-foot-hop/media/image8.webp)
@@ -179,11 +179,11 @@ generated](media_contact-moves-the-front-foot-hop/media/image8.webp)
 **The Front Foot Hop, the split, then movement to the ball in any
 direction.**
 
-**[[When the player chooses to recovery to the baseline, the outside
-foot comes around and lands on the court.]{.underline}]{.mark}** **[[The
+**When the player chooses to recovery to the baseline, the outside
+foot comes around and lands on the court.** **The
 player then pushes backwards off this foot to begin the recovery. This
 can be followed by either a shuffle step or with a crossover
-step.]{.underline}]{.mark}**
+step.**
 
 **Continuing Forward**
 

@@ -50,8 +50,8 @@ instead of the other way around.
 
 **Don't Lose Hope**
 
-**[[The most important thing when the momentum is totally against you,
-is not to lose hope.]{.underline}]{.mark}** It is not easily done,
+**The most important thing when the momentum is totally against you,
+is not to lose hope.** It is not easily done,
 because your opponent is full of confidence, has the cushion of a lead
 and is trying to finish you off. That would be tough enough at any time,
 but it usually happens when you are feeling frustrated, disheartened and
@@ -92,8 +92,8 @@ automatically
 generated](media_when-momentum-is-totally-against-you/media/image4.webp)\
 **Giving up hope means giving up the chance of changing momentum.**
 
-**[[Playing one point at a time is very
-important.]{.underline}]{.mark}** When you are well behind in momentum,
+**Playing one point at a time is very
+important.** When you are well behind in momentum,
 it is not possible just to collect points quickly like you can when you
 are in the lead. It's a bit like trying to get out of a pit. Put great
 emphasis on every step.

@@ -115,8 +115,8 @@ opponent is not in a position to hit the ball hard on the next shot and
 when you do hit a hard return it's going to look a lot harder to them
 relative to what they've just had to deal with.
 
-**[[It's always a good idea to develop complementary shots to all of
-your returns. For]{.underline}]{.mark}** **[[example, if you're a
+**It's always a good idea to develop complementary shots to all of
+your returns. For** **[[example, if you're a
 right-handed player in the Ad court and you like to run around your
 backhand and go inside out, it is a good idea to develop a good inside
 in forehand as well.]{.mark}]{.underline}**

@@ -88,9 +88,9 @@ new information coming from a fresh angle can be helpful.
 Equally or even more important is the fact that the new voice can have a
 positive psychological impact. A new coach may lead a struggling player
 to hope in that there is a bit of \"magic\" advice in the offing that
-can break the negative cycle. **[[The belief that this new information
+can break the negative cycle. **The belief that this new information
 can help functions somewhat like a placebo
-effect.]{.underline}]{.mark}**
+effect.**
 
 **Dumbo and the Magic Feather**
 

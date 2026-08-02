@@ -10,10 +10,10 @@ confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image1.web
 
 **Serve and volleyers: a rare breed in pro tennis.**
 
-**[[Because of the blistering returns in the modern game, pure serve and
+**Because of the blistering returns in the modern game, pure serve and
 volley players are harder and harder to find. The power and speed of the
 returns can intimidate the server from moving forward to the
-net.]{.underline}]{.mark}**
+net.**
 
 But there is no doubt that adding serve and volley tactics can result in
 winning more matches, especially against certain opponent. It's not
@@ -46,12 +46,12 @@ adding this dimension to your game.
 
 **Serve Placement**
 
-**[[For a serve and volley sequence to have a chance to succeed, the
+**For a serve and volley sequence to have a chance to succeed, the
 server must gain control at the beginning of the point through the
-placement of the serve.]{.underline}]{.mark}** **[[This means first of
+placement of the serve.** **This means first of
 all the ability to hit accurately wide and down the T in both courts. It
 also means the ability to hit serves at the body on both the forehand
-and backhand sides.]{.underline}]{.mark}**
+and backhand sides.**
 
 **[The 4 components are:]{.underline}**
 
@@ -63,10 +63,10 @@ and backhand sides.]{.underline}]{.mark}**
 
   ------------------------------------------------
 
-**[[One placement or another may be particularly effective against a
+**One placement or another may be particularly effective against a
 certain opponent and can be used repeatedly. At higher levels, a mixture
 of deliveries is usually required to keep opponents off balance and
-uncertain.]{.underline}]{.mark}**
+uncertain.**
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
@@ -74,36 +74,36 @@ confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image3.web
 
 **Establishing control with the service placement is the first step.**
 
-**[[After taking control with the serve placement, the next step is to
-hit a balanced first volley.]{.underline}]{.mark}** This allows you to
+**After taking control with the serve placement, the next step is to
+hit a balanced first volley.** This allows you to
 maintain control of the point, hurt the opponent, and/or finish the
 point with a winning volley.
 
-**[[Part of becoming an effective serve and volleyer is understanding
+**Part of becoming an effective serve and volleyer is understanding
 how to pair your serve locations with your subsequent volley placements
-and combinations.]{.underline}]{.mark}**
+and combinations.**
 
-**[[Certain volley placements will naturally follow from the placements
+**Certain volley placements will naturally follow from the placements
 of the serve. A really effective wide serve in the deuce court will
 often yield volleys winners into the open court. But with some serve
 locations players will need to hit a second or even third volley to
-finish.]{.underline}]{.mark}**
+finish.**
 
 **Timing of Footwork**
 
-**[[Controlled balance on the first volley is what allows the player to
-accurately direct the shot to the target area.]{.underline}]{.mark}**
-**[[To do this the player must find the rhythm between the numbers of
+**Controlled balance on the first volley is what allows the player to
+accurately direct the shot to the target area.**
+**To do this the player must find the rhythm between the numbers of
 steps he moves forward and the split step. Timing the footwork allows
 the player to establish a solid foundation and then react effectively
-and move forward to the first volley.]{.underline}]{.mark}**
+and move forward to the first volley.**
 
-**[[In the modern game, it's not about how far the players get in
+**In the modern game, it's not about how far the players get in
 toward the net, it's about getting balanced, so they have a chance to
 successfully volley those rocketing, dipping returns. If you watch the
 best players in the world, after landing on the serve, they take only
 one or two steps before the split in most
-sequences.]{.underline}]{.mark}**
+sequences.**
 
 ![A tennis player in the middle of a match Description automatically
 generated with low
@@ -111,23 +111,23 @@ confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image4.web
 
 **The split occurs at roughly the time of the return.**
 
-**[[This means that the split step is usually about halfway between the
-service line and the baseline.]{.underline}]{.mark}** **[[It's a very
+**This means that the split step is usually about halfway between the
+service line and the baseline.** **It's a very
 difficult position from which to achieve volley control and explains a
 lot about the reduced serve and volley play in pro
-tennis.]{.underline}]{.mark}**
+tennis.**
 
-**[[To time the split step and get balanced, the top players start the
+**To time the split step and get balanced, the top players start the
 split as the opponents begin the forward swing. They are usually in the
 air by the time the ball is actually struck or shortly
-thereafter.]{.underline}]{.mark}**
+thereafter.**
 
-**[[But the goal in making the split step is not to reach some specific
-spot. It's about timing.]{.underline}]{.mark}** **[[The point is to
+**But the goal in making the split step is not to reach some specific
+spot. It's about timing.** **The point is to
 time the split to be on balance and able to react and move to the
-opponent's ball.]{.underline}]{.mark}** **[[Players at lower levels may
+opponent's ball.** **Players at lower levels may
 actually be able to close further than the top players depending on the
-pace of the exchanges.]{.underline}]{.mark}**
+pace of the exchanges.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -137,29 +137,29 @@ confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image5.web
 
 **Anticipation**
 
-**[[The successful server and volley player must develop the ability to
+**The successful server and volley player must develop the ability to
 anticipate the return. This means anticipating the ball speed,
-placement, height, and type and amount of spin.]{.underline}]{.mark}**
-**[[Good anticipation results from the ability to read the cues from the
+placement, height, and type and amount of spin.**
+**Good anticipation results from the ability to read the cues from the
 returner's body position and swing, but also from the ability to read
-the shot as it leaves the racket.]{.underline}]{.mark}**
+the shot as it leaves the racket.**
 
 In addition, certain serve placements will tend to produce certain
 returns, and this is particularly true when the player studies and
 understands his opponents and their strengths and weaknesses and typical
 return patterns.
 
-**[[Anticipation is developed over time as a result of playing the
-various patterns over and over.]{.underline}]{.mark}** **[[Eventually
+**Anticipation is developed over time as a result of playing the
+various patterns over and over.** **Eventually
 you find you have almost a sixth sense of what the opponent is going to
-do.]{.underline}]{.mark}** But remember, to develop this skill and the
+do.** But remember, to develop this skill and the
 ability to use it effectively, you have to commit to actually trying it
 and doing so repeatedly both in practices and in matches, even if
 initially it doesn't yield the optimum result.
 
-**[[A basic principle here to adjust the path of your approach to the
+**A basic principle here to adjust the path of your approach to the
 location of the serve, and therefore the place from which your opponent
-makes his return.]{.underline}]{.mark}** For example, if you serve wide
+makes his return.** For example, if you serve wide
 in the deuce court, you will approach on a diagonal somewhat more from
 your right to your left to stay in the middle of your opponent's
 angles. If you serve down the T or directly at the body, your approach
@@ -175,22 +175,22 @@ court.**
 
 **Target Areas**
 
-**[[Knowing where to go when with which volleys is critical in effective
-serve and volley play.]{.underline}]{.mark}** In the Strategy Zone
+**Knowing where to go when with which volleys is critical in effective
+serve and volley play.** In the Strategy Zone
 system, we describe the 3 runways all players must master to be able to
-exploit all their opportunities at the net. **[[The first runway is
+exploit all their opportunities at the net. **The first runway is
 directly back at or behind the opponent. The second runway is down the
-middle, and the third is into the open court.]{.underline}]{.mark}**
+middle, and the third is into the open court.**
 
 When should you volley directly into the open court? When should you
 volley back to or behind your opponent? When is the low down the center
 volley the best play? What about short angles and drop volleys?
 
-**[[The principle for finishing at the net is the same as in the other
+**The principle for finishing at the net is the same as in the other
 sequences we've looked at. You should try to finish at the net when we
 can hit successfully into a large target area and either hit a clean
 winner or force the opponent further at of position and/or into an
-error.]{.underline}]{.mark}**
+error.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -199,8 +199,8 @@ confidence](media_the-strategy-zone-the-serve-and-volley-finish/media/image7.web
 **Hitting at or behind the opponent can set up the finish on the second
 volley.**
 
-**[[This is why it's not necessarily right to hit the ball into the
-open court, particularly on the first volley.]{.underline}]{.mark}**
+**This is why it's not necessarily right to hit the ball into the
+open court, particularly on the first volley.**
 **[[Hitting into the open court may seem like the obvious play. It can
 result in winners if your opponent is far enough out of position and
 can't catch up to the ball, or if you can sharpen the angle or
@@ -213,10 +213,10 @@ opponent or behind him, because this reduces the angles for a possible
 pass. It also allows you the critical time you need to close
 further.]{.mark}]{.underline}**
 
-**[[The same is true for going down the middle of the court. In all
+**The same is true for going down the middle of the court. In all
 these cases, you are treating the first volley almost as an approach
 shot to set up a possible volley winner on the next
-ball.]{.underline}]{.mark}**
+ball.**
 
 To make these decisions you must first have the ability to execute all
 the options with confidence. This is why the Strategy Zone we give
@@ -229,22 +229,22 @@ generated](media_the-strategy-zone-the-serve-and-volley-finish/media/image8.webp
 **Practicing all the options is the groundwork for execution in
 matches.**
 
-**[[Playing serve and volley requires mastery of the same elements as
+**Playing serve and volley requires mastery of the same elements as
 the various groundstroke and approach finishes in our system: the
 ability to control the serve to all areas of the box, the ability to get
 control of the point, the ability to get or stay ahead with the first
 volley when necessary, and the ability to finish when you can hit a
 relatively high percentage volley into a relatively large target
-area.]{.underline}]{.mark}**
+area.**
 
 The difficulty of combining and executing all these elements requires
 that they be practiced in progressive controlled drills. But few players
 have that discipline and determination. Do you?
 
-**[[Is your serve accurate enough to create attacking patterns? Can you
+**Is your serve accurate enough to create attacking patterns? Can you
 time your split step and hit balanced first volleys? Can you hit volleys
 off either side to all three runways? Do you know when to finish and can
-you hit the angles and placements to do so?]{.underline}]{.mark}**
+you hit the angles and placements to do so?**
 
 **[[This is just one example of the great challenges and potential
 satisfactions in the game of tennis. Here's wishing you a lifetime of

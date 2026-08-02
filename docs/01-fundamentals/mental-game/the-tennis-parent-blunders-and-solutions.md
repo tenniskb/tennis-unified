@@ -319,9 +319,9 @@ By week six, the old motor program is almost eliminated. It shows up
 about 10 percent of the time as the new improved stroke is programmed to
 replace it.
 
-**[[Issues arise when you put your child into a competitive situation
+**Issues arise when you put your child into a competitive situation
 without giving the new motor program the time it takes to override the
-old one.]{.underline}]{.mark}** If you put your child into a competitive
+old one.** If you put your child into a competitive
 situation before the six- week replacement phase is complete, you are
 absolutely guaranteeing that your child will go back to the old, but
 flawed, comfortable stroke.

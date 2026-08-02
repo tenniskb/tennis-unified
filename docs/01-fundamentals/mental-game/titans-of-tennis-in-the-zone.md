@@ -171,7 +171,7 @@ maintained concentration and rhythm.
 This led to his famous formulation of the 4 stages of between point
 behavior, still widely taught and practiced today.
 
-**[[These stages are:]{.underline}]{.mark}**
+**These stages are:**
 
 1.  **[maintaining a positive physical posture after every
     point]{.mark}**

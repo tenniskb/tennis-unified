@@ -24,8 +24,8 @@ for himself, since it's all being done for him on the teaching court.
 In the beginning it's very important for players to think for
 themselves.
 
-**[[They should have a lesson for an hour once a week, maybe twice a
-week.]{.underline}]{.mark}** Pete Sampras, Lindsay Davenport, Tracy
+**They should have a lesson for an hour once a week, maybe twice a
+week.** Pete Sampras, Lindsay Davenport, Tracy
 Austin, Jeff Tarango - you can name every single player I worked with.
 They had no more than an hour, sometimes 2 hours a week. The only
 exception is if someone comes in from out of town, you might see them
@@ -54,8 +54,8 @@ A second factor is discipline. We live in a society where everything is
 going fast all the time. Kids have computers, they have video games.
 Kids don't read anymore.
 
-**[[Everything switches really quickly, and kids don't learn to
-concentrate on one thing.]{.underline}]{.mark}** I put a lot of effort
+**Everything switches really quickly, and kids don't learn to
+concentrate on one thing.** I put a lot of effort
 into developing discipline and concentration because I know how
 important it is.
 
@@ -85,8 +85,8 @@ do it right once, we're going to do it 20 times. And the kid will do
 cannot believe that all of a sudden, the kid's stroke is the way it's
 supposed to be. That's how I create concentration.
 
-This development process is what I love - **[[the one-on-one interaction
-with the kid.]{.underline}]{.mark}** The kid hits me one ball, I know
+This development process is what I love - **the one-on-one interaction
+with the kid.** The kid hits me one ball, I know
 exactly what's going on. I'm pretty sure I know exactly what the
 kid's about too. You see a kid two months later; you see a little
 improvement. A year later, you see more improvement.
@@ -105,9 +105,9 @@ didn't like that. I didn't enjoy it. I was embarrassed almost - acting
 like, just because I'm here, the kids were going to become great
 players.
 
-**[[There's only one way I could do a live in academy, and that would
+**There's only one way I could do a live in academy, and that would
 be if I really had responsibility for every kid that comes
-there.]{.underline}]{.mark}**
+there.**
 
 ### 
 
@@ -117,17 +117,17 @@ there.]{.underline}]{.mark}**
 
 ### Expectations
 
-A fourth factor is dealing with expectations**[[: It's important to get
+A fourth factor is dealing with expectations**: It's important to get
 across to the parent that when your kid's 12 years old, don't be too
 sure your kids going to be number one in the
-world]{.underline}]{.mark}**. Too many coaches and parents are seduced
-by the idea of having a champion. **[[As soon as kid is pretty good,
+world**. Too many coaches and parents are seduced
+by the idea of having a champion. **As soon as kid is pretty good,
 they think: \"this is going to be my meal ticket.\" They use this
-kid.]{.underline}]{.mark}** A coach says, \"I have this kid at my
+kid.** A coach says, \"I have this kid at my
 academy and he's number one in the 14's.\" And the parents say \"My
 god, he's got the number one player - let's all go there!\" It happens
-all the time. And **[[they don't make the kid any better. The kid
-doesn't really improve. He just gets used]{.underline}]{.mark}**.
+all the time. And **they don't make the kid any better. The kid
+doesn't really improve. He just gets used**.
 
 I've had very good kids. But I've also had kids that were not going to
 be great. Sometimes I have kids that have almost given up on the game.

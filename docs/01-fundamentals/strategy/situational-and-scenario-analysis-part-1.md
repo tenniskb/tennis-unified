@@ -33,18 +33,18 @@ pro tennis, and we'll use pro players as examples. But if you play
 competitive tennis, you'll recognize many of the scenarios from your
 own experience.
 
-**[[We'll assume the scenarios all occur on a medium paced hardcourt,
+**We'll assume the scenarios all occur on a medium paced hardcourt,
 with an average ball bounce height. They are far from exhaustive, and
 the goal should not be to memorize the \"answers.\" The goal is to learn
 techniques for assessing situations and creating solutions for the
 myriad of interesting problems you will encounter in your playing
-career.]{.underline}]{.mark}**
+career.**
 
-**[[You should think of your ability to do situational analysis as a
+**You should think of your ability to do situational analysis as a
 creative art. It should be fun matching wits with a variety of tough new
 opponents. You will find that thinking on your feet and creating new
 scenarios that lead to victories is tremendously
-satisfying.]{.underline}]{.mark}**
+satisfying.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -64,28 +64,28 @@ The first step is to use your brain rather than your ego to judge your
 match up strengths and weaknesses. Very, very few players have so much
 game that they can just disregard how their opponents play.
 
-**[[Against a powerful yet consistent player, you need to vary your game
+**Against a powerful yet consistent player, you need to vary your game
 to keep the ball out of his hitting zone at least part of the time. You
 have to mix your shots, and also the rhythm and the pace of the
 exchanges to keep your opponent from getting into a groove and breaking
-your game apart with power.]{.underline}]{.mark}** **[[You must create
+your game apart with power.** **You must create
 ways of getting to the net using slices, angles and dropshots. Mix in
 serve and volley and chip and charge off the return, even if it is not
 totally successfully in terms of the number of points it
-yields.]{.underline}]{.mark}**
+yields.**
 
-**[[Your serves should take your opponent off the court in order to keep
+**Your serves should take your opponent off the court in order to keep
 him from setting up on the next ball. You should limit the pace of your
 shots in rallies, and work for accuracy, as this will force your
 opponent to expend additional energy creating his own
-power.]{.underline}]{.mark}**
+power.**
 
-**[[But you have to combine this with ruthlessly taking chances when you
+**But you have to combine this with ruthlessly taking chances when you
 are truly in position to hit a winning groundstroke or volley. The
 combination of constant variety, reduced pace and occasional sudden
 winners will often frustrate a more powerful opponent and can lead to a
 stream of errors that swing a close match in your
-favor.]{.underline}]{.mark}**
+favor.**
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
@@ -97,8 +97,8 @@ generated](media_situational-and-scenario-analysis-part-1/media/image3.webp)
 backhand corner and you are stuck hitting inside out forehands to her
 backhand and are losing the battle. Pro Example: Venus Williams.
 
-**[[If you are pinned in an unfavorable exchange, you have to change the
-diagonal of the rally.]{.underline}]{.mark}** **[[If your forehand is
+**If you are pinned in an unfavorable exchange, you have to change the
+diagonal of the rally.** **[[If your forehand is
 your strength, hitting a heavy, deep topspin inside in forehand will
 probably force your opponent to go crosscourt creating the
 forehand-to-forehand rally you desire. The height and spin will also
@@ -118,18 +118,18 @@ approach shot off the same ball, while your opponent attempts to recover
 all the way back across their baseline to pass
 you.]{.mark}]{.underline}**
 
-**[[You can also try to hit a drive down the middle to see if your
+**You can also try to hit a drive down the middle to see if your
 opponent will choose the crosscourt forehand, giving you the
 advantageous rally. If the opponent is also taking her stronger backhand
 up the line, then you must burn her at least occasionally with the
 running crosscourt angle or suffer being out-of-position the whole
-match.]{.underline}]{.mark}**
+match.**
 
-**[[Another play is to take the ball out of her hitting zone with high
+**Another play is to take the ball out of her hitting zone with high
 bouncing, heavy spin, and then look to see whether your opponent
 retreats or try to take the ball on the rise. If she back ups, look for
 a shorter, looping ball and move forward and cut it off with a swinging
-volley.]{.underline}]{.mark}**
+volley.**
 
 ![A person playing tennis Description automatically generated with
 medium

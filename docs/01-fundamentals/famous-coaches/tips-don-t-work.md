@@ -7,11 +7,11 @@ that tips (and drills) alone don't work. For example, "Get your elbow up
 higher on serve" or "unit turn on the forehand" and "extend out to the
 hit" are all reasonable commands in any typical lesson, but they are in
 and of themselves woefully incomplete -- and therefore prove basically
-useless to most players looking to improve. **[[At worst, the tip is
+useless to most players looking to improve. **At worst, the tip is
 just bad advice. More often, a tip is incomplete, rendering it
 relatively useless, unless it is in context with the entirety of the
 stroke -- and will not help you with the improvement you're hoping to
-achieve.]{.underline}]{.mark}**
+achieve.**
 
 I can't tell you how many players come to me after years of lessons and
 relentlessly looking online for "tips and drills" because they feel they
@@ -50,12 +50,12 @@ nots."
 I'm here to tell you that there is however light at the end of the
 tunnel.
 
-**[[NON-LINEAR vs LINEAR Tennis:]{.underline}]{.mark}**
+**NON-LINEAR vs LINEAR Tennis:**
 
 My entire life changed once I discovered the true essence of the natural
-athlete (in all sports,) and the natural-looking tennis player. **[[It
+athlete (in all sports,) and the natural-looking tennis player. **It
 wasn't trying to string together countless tips, but a real study of a
-few basic principles.]{.underline}]{.mark}**  And man, was it worth it!
+few basic principles.**  And man, was it worth it!
 Not only for my game but for my students, including hundreds of kids
 that went on to play college ball and several on the pro tour today. 
 
@@ -76,9 +76,9 @@ will truly transform your game -- and thus your life. Because let's face
 it, when you're a tennis player your entire day is affected negatively
 or positively by how you're playing. Life is better when you truly love
 the way you play. More than just a mere win -- "bragging rights" --
-**[[playing a great game, where you feel you "own" it and you play as
+**playing a great game, where you feel you "own" it and you play as
 natural and confident as a fish swims, a bird flies or a virtuoso plays
-an instrument is truly what will make you happy.]{.underline}]{.mark}**
+an instrument is truly what will make you happy.**
 
 I encourage you to see what changed my game and my life for the better
 and forever at [www.broudytennis.com](http://www.broudytennis.com) and
@@ -89,7 +89,7 @@ understanding of the strokes based on a geometric science -- all new
 information. This will set you on a new path, and set you free. This
 non-linear understanding and instruction will move the needle!
 
-**[[Linear Tips vs Nonlinear Understanding]{.underline}]{.mark}**
+**Linear Tips vs Nonlinear Understanding**
 
 **[Ground Strokes: ]{.underline}**
 
@@ -105,18 +105,18 @@ through (dumb)...recover...load up (really dumb)."
 
 **[[Non-Linear:]{.mark} ]{.underline}**
 
-1\. Understand that **[[the 45º angle to the net is the optimal hitting
+1\. Understand that **the 45º angle to the net is the optimal hitting
 point and balance point of every stroke in the game (except the "kick"
-serve.)]{.underline}]{.mark}** **[[Perfect in nature as it bisects the
-vertical and horizontal axis.]{.underline}]{.mark}**
+serve.)** **Perfect in nature as it bisects the
+vertical and horizontal axis.**
 
-2\. **[[Your hips move in a slow and continuous figure 8 motion, leading
-every stroke -- creating a coil and release.]{.underline}]{.mark}** As
+2\. **Your hips move in a slow and continuous figure 8 motion, leading
+every stroke -- creating a coil and release.** As
 in the strokes of Federer and Djokovic there are no digital abrupt
 motions (and no loading up!)
 
-3\. **[[Your arms ripples off of the figure 8 hip rotation in a
-waveform]{.underline}]{.mark}** that is beautiful, easy to reproduce,
+3\. **Your arms ripples off of the figure 8 hip rotation in a
+waveform** that is beautiful, easy to reproduce,
 controlled, powerful and relatively effortless. 
 
 **[Volleys: ]{.underline}**
@@ -125,7 +125,7 @@ controlled, powerful and relatively effortless. 
 straight...block...short swing...no swing..." (Other than these pros
 have basically given up on teaching the volley.)
 
-**[[Non-Linear Understanding:]{.underline}]{.mark}**
+**Non-Linear Understanding:**
 
 1\. The 45º angle to the net is the optimal contact and balance point
 for every volley
@@ -148,20 +148,20 @@ goodie)...loose arm...swing your racket up and out (???)...practice
 tossing with your arm as a lever (terrible tip)...pinpoint stance...wide
 stance..."
 
-**[[Non-Linear Understanding:]{.underline}]{.mark}**
+**Non-Linear Understanding:**
 
 1\. **Line up the 45º and stay lined up throughout the contact --
 balanced on the 45º to the net.**
 
-2\. **[[The tossing and hitting arms are inter-related throughout the
-stroke. The]{.underline}]{.mark}** **[[tossing arm cannot be isolated
-from the hitting arm or from the body.]{.underline}]{.mark}** **[[The
+2\. **The tossing and hitting arms are inter-related throughout the
+stroke. The** **tossing arm cannot be isolated
+from the hitting arm or from the body.** **The
 toss actually plays off of the hips of a good
-player.]{.underline}]{.mark}**
+player.**
 
-3\. **[[Wind (through hips) and unwind completely, letting the racket
+3\. **Wind (through hips) and unwind completely, letting the racket
 trail and build momentum throughout the serve. Fluidity and balance are
-key ingredients to a big serve.]{.underline}]{.mark}**
+key ingredients to a big serve.**
 
 ![Jack Broudy - Founder of the Non-Linear Tennis
 System](media_tips-don-t-work/media/image1.jpeg)

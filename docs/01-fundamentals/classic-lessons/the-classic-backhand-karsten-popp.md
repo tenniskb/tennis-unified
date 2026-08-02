@@ -137,18 +137,18 @@ day.]{.mark}]{.underline}**
 
 **Inside Out**
 
-**[[Karsten also hits an additional slice variation that is unusual in
+**Karsten also hits an additional slice variation that is unusual in
 the modern game. This is an inside out underspin drive that has a
-vicious side spin component.]{.underline}]{.mark}**
+vicious side spin component.**
 
 **[[This is a very aggressive shot that is difficult for any opponent to
 deal with. If you leave the ball too close to the middle in a crosscourt
 rally, he'll use the inside out slice to hit the ball down the line to
 your forehand corner.]{.mark}]{.underline}**
 
-**[[Because of the sidespin component, it has a nasty curve so that the
+**Because of the sidespin component, it has a nasty curve so that the
 ball moves the away from you to your right and also has a very low
-bounce.]{.underline}]{.mark}** **[[Even if you manage to reach his shot
+bounce.** **[[Even if you manage to reach his shot
 and return it, the rest of your court is now wide
 open.]{.mark}]{.underline}**
 
@@ -173,8 +173,8 @@ In the first article we saw that a core similarity between Karsten's
 forehand and so-called modern forehands was the body turn in the
 preparation. The same is definitely true on the backhand.
 
-**[[Karsten initiates the turn with the movement of the feet and the
-torso on all his backhand variations.]{.underline}]{.mark}**
+**Karsten initiates the turn with the movement of the feet and the
+torso on all his backhand variations.**
 
 **[[His feet and body turn sideways, which automatically moves the
 racket as well. But watch how little independent hand, arm and racket
@@ -242,16 +242,16 @@ backwards toward the fence to counter balance the motion and to stay
 sideways. Also note how his head is sideways at and also after contact,
 again a characteristic associated with Federer.]{.mark}]{.underline}**
 
-**[[Karsten's finishes are long and out towards the
-target]{.underline}]{.mark}**. **[[On both his slice and his drive, the
+**Karsten's finishes are long and out towards the
+target**. **On both his slice and his drive, the
 wrist reaches about eye level with the hitting arm still straight and
-only slightly past perpendicular to the net.]{.underline}]{.mark}**
+only slightly past perpendicular to the net.**
 
-**[[Karsten's contact point is forward of his front foot, though not as
+**Karsten's contact point is forward of his front foot, though not as
 far in front as the player's with more extreme
-grips.]{.underline}]{.mark}** As we noted, **[[he takes the ball early
+grips.** As we noted, **he takes the ball early
 so the height of the contact is usually around waist level, a perfect
-strike zone for his grip.]{.underline}]{.mark}**
+strike zone for his grip.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -260,8 +260,8 @@ confidence](media_the-classic-backhand-karsten-popp/media/image9.webp)
 **The left arm moves backwards and the head stays sideways through the
 contact.**
 
-**[[The cumulative effect of masterfully combining these components is
-effortless power and fantastic control]{.underline}]{.mark}**. I can't
+**The cumulative effect of masterfully combining these components is
+effortless power and fantastic control**. I can't
 even count the number of balls I have ripped at Karsten that I thought
 would be his undoing. Instead, they came back with interest.
 
@@ -304,9 +304,9 @@ probably every one-hander should develop a drive with at least some
 topspin---much easier in this day and age given the racquets and
 especially the strings.]{.mark}]{.underline}**
 
-**[[But is it possible that a hard slice drive might actually be more
+**But is it possible that a hard slice drive might actually be more
 effective for you on some great percentage of balls, especially in
-backhand rallies?]{.underline}]{.mark}** When you hit with Karsten you
+backhand rallies?** When you hit with Karsten you
 realize that is a legitimate question that bears experimentation---and
 could, potentially, make a huge difference in your backhand
 effectiveness.

@@ -31,9 +31,9 @@ We'll analyze the various hitting stances, your swing line and
 increasing your racquet speed, and We'll also look at the benefits of
 using the opposite arm.
 
-You'll learn a new technique called **[[hip
-loading]{.underline}]{.mark}** and **[[how to properly recover after the
-stroke.]{.underline}]{.mark}** Each of these areas are vital to the
+You'll learn a new technique called **hip
+loading** and **how to properly recover after the
+stroke.** Each of these areas are vital to the
 development of the killer forehand.
 
 In addition, you'll see how we have trained some of the top players in
@@ -44,8 +44,8 @@ Your killer forehand is going to be steady. The mentality's going to be
 that you're not going to miss it. You're going to hit it and hit it
 and hit.
 
-**[[You're going to use your feet, your movement, your
-mentality.]{.underline}]{.mark}** Everything we'll show you is building
+**You're going to use your feet, your movement, your
+mentality.** Everything we'll show you is building
 up to give you the biggest killer forehand possible. So, let's get
 started.
 
@@ -59,7 +59,7 @@ started.
 
 ### Grips
 
-**[[It all starts with the grip.]{.underline}]{.mark}** When I first
+**It all starts with the grip.** When I first
 began teaching the game of tennis, there was one or maybe two ways to
 hold a grip. Today, it's very different-you have a wide range of
 options\--and grip has a major bearing on your style of play.
@@ -102,15 +102,15 @@ starts with a strong foundation. A strong foundation starts with a ready
 position that allows you to be strong in all your movements and all your
 strokes.
 
-**[[Your ideal athletic height will be approximately one foot lower than
-your standing height.]{.underline}]{.mark}** That means that if your
+**Your ideal athletic height will be approximately one foot lower than
+your standing height.** That means that if your
 normal standing height is six feet, your ideal athletic height would be
 around five feet.
 
 **[Your hips are dropped down to]{.underline} [[a low center of
-gravity]{.mark}]{.underline} and [[a wide base to
-allow]{.underline}]{.mark} [[you to react and move to various positions
-on the court.]{.underline}]{.mark}**
+gravity]{.mark}]{.underline} and a wide base to
+allow you to react and move to various positions
+on the court.**
 
 **Like a downhill skier, lowering your hip position, or center of
 gravity will improve your quickness, power and stability.**
@@ -145,8 +145,8 @@ foundation that allows you to use the upper part of the body.
 
 ### The Drop Step
 
-Let's work on the first step reaction footwork and **[[find the proper
-technique to go from rest into motion]{.underline}]{.mark}**.
+Let's work on the first step reaction footwork and **find the proper
+technique to go from rest into motion**.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                   ![A picture containing tennis, racket, person, sport Description automatically
@@ -156,30 +156,30 @@ technique to go from rest into motion]{.underline}]{.mark}**.
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[For extreme court coverage, you need an explosive
-reaction]{.underline}]{.mark}**. **[[The drop step and drive footwork
+**For extreme court coverage, you need an explosive
+reaction**. **The drop step and drive footwork
 prove quickest on all types of surfaces for getting to difficult
-balls.]{.underline}]{.mark}**
+balls.**
 
-**[[By shifting your weight off the outside foot]{.underline}]{.mark}**
+**By shifting your weight off the outside foot**
 **[[and tucking the driving foot under your torso,]{.mark} [your body
-weight provides traction,]{.mark}]{.underline}** **[[much like a front
+weight provides traction,]{.mark}]{.underline}** **much like a front
 wheel drive car in the snow, using the weight of the engine to give the
-tires traction.]{.underline}]{.mark}**
+tires traction.**
 
-**[[In one quick move, the drop step establishes upper body momentum in
-the direction you need to move.]{.underline}]{.mark}**
+**In one quick move, the drop step establishes upper body momentum in
+the direction you need to move.**
 
-**[[When the ball's only three or four steps away from you, you won't
+**When the ball's only three or four steps away from you, you won't
 need such an explosive reaction. The weight shift and drive footwork is
-effective for less challenging balls.]{.underline}]{.mark}**
+effective for less challenging balls.**
 
 ### Preparation
 
-There are lots of parts is developing the killer forehand and **[[an
-important part is timing.]{.underline}]{.mark}** **[[As soon as the ball
+There are lots of parts is developing the killer forehand and **an
+important part is timing.** **As soon as the ball
 leaves the opponent's racquet, that's when the preparation starts. And
-remember, you can't prepare too soon.]{.underline}]{.mark}**
+remember, you can't prepare too soon.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                      ![A person playing tennis Description automatically generated with medium
@@ -214,15 +214,15 @@ have to be quick for maximum acceleration that will help you run down
 difficult balls like the wide angle shot.
 
 The gears of a bicycle are a good comparison to footwork strides in
-running. **[[When you run, first gear footwork consists of short,
-powerful strides, the feet pumping quickly.]{.underline}]{.mark}**
+running. **When you run, first gear footwork consists of short,
+powerful strides, the feet pumping quickly.**
 
 Tenth gear footwork, are long, big reaching strides good for maintaining
 speed but not quick on acceleration. For maximum acceleration getting to
 the difficult balls, use first gear footwork.
 
-**[[First gear sprint footwork is always on the balls of the
-feet.]{.underline}]{.mark}** If your heels are touching the ground in
+**First gear sprint footwork is always on the balls of the
+feet.** If your heels are touching the ground in
 the first two to five steps, you're in tenth gear.
 
 Several footwork patterns are commonly used and can be considered the
@@ -269,9 +269,9 @@ positioning in your hitting stance.**
 
 Have your coach watch your head as you move side to side. If there is
 excessive bobbing up and down, you're not gliding, you're wasting
-energy. **[[One of the trademarks of a great athlete is the ability to
+energy. **One of the trademarks of a great athlete is the ability to
 move with footwork as graceful and smooth as a
-dance.]{.underline}]{.mark}** So that's Part 1 on the Killer Forehand.
+dance.** So that's Part 1 on the Killer Forehand.
 If you learned something, stay tuned for Part 2.
 
 ![A person wearing sunglasses Description automatically generated with

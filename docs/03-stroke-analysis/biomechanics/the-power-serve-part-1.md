@@ -24,10 +24,10 @@ power serve.**
 
 **Strength Base: The Prerequisite**
 
-***[[If you want to serve with power, you must load the body. But
+***If you want to serve with power, you must load the body. But
 here's the catch: two places that you typically load the body are where
 injuries now are occurring in tennis, particularly on the pro circuit.
-These are the shoulder and the elbow.]{.underline}]{.mark}*** So, some
+These are the shoulder and the elbow.*** So, some
 of the things I want to explain have to do with how you actually reduce
 the loading on those areas, while still developing the power serve.
 
@@ -117,11 +117,11 @@ higher.]{.mark}**
 body forward. So if you want to get into the net very quickly, quite
 often people will use that foot back technique.]{.mark}**
 
-**[[Now does that mean one technique is better than the other?
+**Now does that mean one technique is better than the other?
 Absolutely not. If the player uses the foot back technique, he is
 probably very good at moving forward into the court, but he may need to
 place particular effort to hit up and out to the ball. It's a trade
-off.]{.underline}]{.mark}**
+off.**
 
 ![A picture containing text, tennis, road, athletic game Description
 automatically
@@ -171,9 +171,9 @@ yourself off the ground.]{.underline}]{.mark}**
 
 **As you move up the body, the next thing to look at is the trunk. I'll
 talk for quite awhile about the trunk, because it's so important to the
-serve. [[You'll see that if you set the serve up right, you're going
+serve. You'll see that if you set the serve up right, you're going
 to spend more time on the legs and trunk than on the upper limb, which
-is next in the chain.]{.underline}]{.mark}**
+is next in the chain.**
 
 **So let's look at the trunk in two parts. The first part of trunk
 movement is backwards. This is the rotation of the hips and rotation of
@@ -187,15 +187,15 @@ generated](media_the-power-serve-part-1/media/image7.webp)
 **You want the shoulders to rotate more than the hips in the movement
 backwards.**
 
-**[[First, that there is some rotation of the hips. Secondly, there is
+**First, that there is some rotation of the hips. Secondly, there is
 more rotation of the shoulders. That puts the muscles of the trunk on
 stretch, so that's going to help us with elastic energy, and we're
 going to use that elastic energy to help drive the whole system
-forward.]{.underline}]{.mark}**
+forward.**
 
-**[[So we want rotation of the hips, rotation of the shoulders, and we
+**So we want rotation of the hips, rotation of the shoulders, and we
 want more rotation of the shoulders than of the
-hips.]{.underline}]{.mark}**
+hips.**
 
 **Be careful with the hips. Sometimes the hips don't turn all that much
 initially, but you still want the trunk to turn on top of the hips.**
@@ -216,8 +216,8 @@ so that they are at least at in line with the direction of the serve.
 If you start with your hips very square to the net, be careful, because
 you can't rotate your shoulders and put your muscles on stretch.
 
-***[[Starting with the shoulder open can facilitate the stretch between
-the shoulders and the hips.]{.underline}]{.mark}***
+***Starting with the shoulder open can facilitate the stretch between
+the shoulders and the hips.***
 
 **[It might be a good teaching point to start with, but when players can
 actually serve, you are better to start more open. They then can rotate
@@ -276,9 +276,9 @@ totally activated by the right shoulder? Absolutely not. The front side
 plays a role. You pull down and you push up.
 
 But don't too think of pulling down, too early because it will collapse
-your base. ***[[Think first of driving the back shoulder up. But when
+your base. ***Think first of driving the back shoulder up. But when
 you start to get a fully developed serve, you'll see players push up
-and pull down.]{.underline}]{.mark}***
+and pull down.***
 
 ![A person jumping over a bar Description automatically generated with
 medium
@@ -293,10 +293,10 @@ foot do you land on? If you believe that you rotate around a twist axis,
 it's logical to assume that you land on your right foot, and then set
 off to the net (Beginners may actually do this and that may be OK).
 
-**[[But if you believe what I'm saying, that you in actual fact rotate
+**But if you believe what I'm saying, that you in actual fact rotate
 shoulder over shoulder, you would land on your left foot, if you're
 right-handed. I land on my left foot, if I go shoulder over
-shoulder.]{.underline}]{.mark}**
+shoulder.**
 
 And that is in fact what virtually all of the top servers do: Sampras,
 Andy Roddick, Taylor Dent, Greg Rusedski.

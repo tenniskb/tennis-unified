@@ -17,8 +17,8 @@ Forehand without a good hitting stance.
 strokes. [When you arrive at the ball, you need to be in a stance that
 allows you all shot possibilities.]{.underline}**
 
-**[[The two desirable hitting stances are an open stance and a neutral
-stance.]{.underline}]{.mark}**
+**The two desirable hitting stances are an open stance and a neutral
+stance.**
 
 For a better understanding of that, let's go to the sport of baseball.
 The batter has to start outside the batters box before the pitch is
@@ -81,10 +81,10 @@ hitting zone.]{.mark}]{.underline}** This will ensure that you wind up
 in the right hitting stance. Remember to prepare early enough to allow
 your feet time to set up.
 
-**[[For better power and control, align the beam of light from the
-flashlight to the path of the oncoming ball.]{.underline}]{.mark}**
-**[[This is what we call "being in the slot" in the
-backswing.]{.underline}]{.mark}**
+**For better power and control, align the beam of light from the
+flashlight to the path of the oncoming ball.**
+**This is what we call "being in the slot" in the
+backswing.**
 
 You can get a better feel for ideal alignment with the baseball glove
 drill. Check and see if you're entering the adjustment zone with your
@@ -97,13 +97,13 @@ confidence](media_the-killer-forehand-part-2/media/image5.webp)
 
 **Your hand and racket must arrive before your body.**
 
-**[[The killer forehand requires rapid acceleration on
-contact.]{.underline}]{.mark}** **[[This means the butt of the racquet
+**The killer forehand requires rapid acceleration on
+contact.** **This means the butt of the racquet
 leads the forward part. Then the racquet head makes acceleration coming
-inside to outside giving you the killer forehand.]{.underline}]{.mark}**
+inside to outside giving you the killer forehand.**
 
-**[[With the hand the foot arriving at the path of the oncoming ball,
-this is where it all comes together.]{.underline}]{.mark}** Good
+**With the hand the foot arriving at the path of the oncoming ball,
+this is where it all comes together.** Good
 foundation, early first reaction, good footwork, technique moving to the
 ball and early and correct preparation has you in a killer forehand
 hitting stance. Now you're ready to fire forward.
@@ -117,9 +117,9 @@ towel and have your partner pull it out of your hands. It simulates the
 stroke.
 
 **To test your flight path or swing line, have someone stand behind you
-with the racquet between their hands. [[The racquet needs to pull
-forward, straight out of]{.underline}]{.mark} [[the
-slot]{.underline}]{.mark}**. Don't let the racquet touch either hand on
+with the racquet between their hands. The racquet needs to pull
+forward, straight out of the
+slot**. Don't let the racquet touch either hand on
 the way out. What we don't want to see is the racquet touching the hand
 first. Not good. No power. No killer forehand.
 
@@ -138,12 +138,12 @@ line.]{.mark}]{.underline}** If you watch the right elbow through the
 stroke, you'll notice that it travels on a diagonal line out and across
 the body as the racquet accelerates into the ball.
 
-**[[By extending to a full reach on your follow through, you'll create
+**By extending to a full reach on your follow through, you'll create
 a contact zone that can be upwards of 18 inches in length, giving you
-better margin for error and control.]{.underline}]{.mark}**
+better margin for error and control.**
 
-**For best leverage, try to consistently make contact [[with stage three
-out in front of your body.]{.underline}]{.mark}**
+**For best leverage, try to consistently make contact with stage three
+out in front of your body.**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
@@ -161,25 +161,25 @@ The follow through is the key to success when executing strokes under
 pressure. The tendency for many players is to tighten up, which
 restricts the follow through.
 
-**[[Extending to the target lengthens the contact zone giving you
+**Extending to the target lengthens the contact zone giving you
 control and consistency. Remember, extend your follow through,
-especially under pressure.]{.underline}]{.mark}**
+especially under pressure.**
 
 ![A picture containing text, sky, outdoor, person Description
 automatically
 generated](media_the-killer-forehand-part-2/media/image9.webp)
 
-**[[The follow-through is the key to executing under
-pressure.]{.underline}]{.mark}**
+**The follow-through is the key to executing under
+pressure.**
 
-**[[As the stroke accelerates out of the slot, focus on the elbow and
-how it passes through the track.]{.underline}]{.mark}** **[[Check your
+**As the stroke accelerates out of the slot, focus on the elbow and
+how it passes through the track.** **Check your
 swing to see if your arm is bent and flexible and whether your elbow
-stays on track.]{.underline}]{.mark}**
+stays on track.**
 
 ### The Opposite Arm
 
-**[[The use of the opposite arm is essential]{.underline}]{.mark} in
+**The use of the opposite arm is essential in
 generating killer forehand speed while maintaining consistency and
 accuracy.** When you're forced wide in the court, your opposite arm can
 serve as a counterbalance keeping your shoulders level through the
@@ -235,13 +235,13 @@ generated](media_the-killer-forehand-part-2/media/image12.webp)
 **[\
 [Try to keep your weight centered on your backfoot throughout the
 stroke]{.mark}]{.underline}**. This will give you a good feel for it.
-**[[Focus on how the body winds up and coils like a spring from the hips
+**Focus on how the body winds up and coils like a spring from the hips
 up to the shoulders and sinks down into the back of the
-stance.]{.underline}]{.mark}**
+stance.**
 
-**[[Loading the hit down below the height of the contact point, or the
+**Loading the hit down below the height of the contact point, or the
 loading line, together with the opposite arm use will put the finishing
-touches to achieving killer forehand speed.]{.underline}]{.mark}**
+touches to achieving killer forehand speed.**
 
 Remember, don't overhit. Remember, when we are building a big forehand,
 we aren't hoping one of five go will go in. We want five out of five to
@@ -257,8 +257,8 @@ forehand.**
 ###  Summary
 
 So the killer forehand is a package weapon. It is a like a jet fighter
-coming at you in all directions. **[[The elements
-are]{.underline}]{.mark}**: **[[the proper grip, a strong foundation,
+coming at you in all directions. **The elements
+are**: **[[the proper grip, a strong foundation,
 first step reaction, the hitting stance, racket head acceleration, the
 follow-through the opposite arm, and loading with the back
 leg.]{.mark}]{.underline}** Practice each of these concepts until you

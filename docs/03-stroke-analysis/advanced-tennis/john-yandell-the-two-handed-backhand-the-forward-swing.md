@@ -90,13 +90,13 @@ good, then the magic of great contact tends to more or less just happen.
 | **The structure of the hitting arms is a critical factor in establishing the contact point.** |  |  |
 
 
-***[[So creating great contact is not a matter of constantly trying to
+***So creating great contact is not a matter of constantly trying to
 tweak the contact point itself to make it \"a little more in front\" or
 \"a little further from the body\"\--or whatever. In fact, I would say
 that this approach undermines the integrity of the stroke, by
 encouraging players to try to make significant changes in the last split
 second before the hit. Creating great contact is largely a function of
-the other variables in the swing.]{.underline}]{.mark}*** If they are
+the other variables in the swing.*** If they are
 right you will develop a feel for the contact easily and naturally. Can
 players make subtle adjustments with the hitting arm structure to take
 the ball a little earlier or to compensate for their position to the
@@ -297,11 +297,11 @@ generated](media_john-yandell-the-two-handed-backhand-the-forward-swing/media/im
 
 **The wrap is the natural consequence of a good finish.**
 
-***[[There is no doubt that a good finish and a good wrap go together,
+***There is no doubt that a good finish and a good wrap go together,
 and you can't have, or shouldn't have, one without the
-other.]{.underline}]{.mark}*** **[[The racket needs to decelerate
+other.*** **The racket needs to decelerate
 smoothly and evenly and the wrap allows that process to reach
-completion.]{.underline}]{.mark}** The \"wrap\" also isn't unique to
+completion.** The \"wrap\" also isn't unique to
 the modern game, as we saw in our analysis of the forehand. It's been
 common to all good players going back about 100 years. In fact the wrap
 of Big Bill Tilden's classic eastern forehand looks virtually identical

@@ -173,10 +173,10 @@ play?
 How do you as a player adapt your game and your match strategy to these
 two seemingly paradoxical facts?
 
-**[[You need to win first strike points. But two thirds of those points
-or more will be decided by errors.]{.underline}]{.mark}** **[[How do you
+**You need to win first strike points. But two thirds of those points
+or more will be decided by errors.** **How do you
 play aggressively without making errors yourself and simultaneously
-extract errors from your opponents?]{.underline}]{.mark}**
+extract errors from your opponents?**
 
 And I have the answer or answers to that question. Stay tuned! In the
 next article we will look at 8 different strategic approaches that will

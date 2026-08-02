@@ -141,9 +141,9 @@ air.
 | **Turn, align, coil\--the principle are the same across the stances.** |  |  |
 
 
-**[[Because so many balls in pro tennis are played partially or wholly
+**Because so many balls in pro tennis are played partially or wholly
 in the air, a new mantra in open stance teaching is \"load, explode,
-land.\"]{.underline}]{.mark}** Fair enough. No doubt it's real and
+land.\"** Fair enough. No doubt it's real and
 it's necessary depending on the ball. But is going airborne an inherent
 part of the modern forehand? Should every ball hit with one or both feet
 in the air. The answer is definitely no.
@@ -228,9 +228,9 @@ motion.
 
 There is another related element. **When extreme players drive the ball,
 they turn the hand and racket over, but they also extend the swing
-outward, similar to players with less extreme grips**. **[[When the
+outward, similar to players with less extreme grips**. **When the
 front foot blocks the torso rotation it also impedes the players'
-ability to extend the hand and arm.]{.underline}]{.mark}** When you see
+ability to extend the hand and arm.** When you see
 top players break off angles, they sometimes stop the torso rotation and
 bring the hand and racket over and across sooner with less extension,
 even with the open stance. But this isn't as effective when they are
@@ -256,9 +256,9 @@ Now, let's be clear. ***[You do see players like Federer and Agassi
 rotate their shoulders further and also use additional hand and arm
 rotation. A hall mark of Federer's forehand is his ability to do this
 on virtually any ball.]{.mark}*** But for the less extreme players it's
-an option not a necessity. ***[[When Federer rotates further, for
+an option not a necessity. ***When Federer rotates further, for
 example, he does it from an open stance and often when he is in the air
-with both feet.]{.underline}]{.mark}*** The same is true of Agassi. The
+with both feet.*** The same is true of Agassi. The
 point is that these players can vary the amount of rotation to the suit
 the stance. Compared to extreme players, they can drive the ball and
 extend further much more naturally when hitting with the neutral stance.
@@ -376,10 +376,10 @@ norm.
 
 I have heard it argued that \"open\" stance means that both feet are
 basically parallel to the baseline, with literally no offset between the
-feet. But you almost never see that in pro tennis. ***[[Players that I
+feet. But you almost never see that in pro tennis. ***Players that I
 have seen trained to hit according to this theory really struggle to get
 a full body turn and tend to overrate or rotate too soon on the forward
-swing.]{.underline}]{.mark}***
+swing.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -392,35 +392,35 @@ still widely misunderstood and the source of many, many problems at
 lower levels. The key to all the stances is to learn how to set up on
 the outside foot, something that several articles on Tennisplayer
 discuss in detail. If you start with a conservative grip and learn to
-hit with a square stance, it is particularly important. ***[[A common
+hit with a square stance, it is particularly important. ***A common
 stance error that we see over and over is the tendency to reach the ball
 with the front foot. This causes many technical problems and is
-difficult to change once established.]{.underline}]{.mark}***
+difficult to change once established.***
 
 The set up for the semi-open and the neutral stance forehand are very
 similar. they can and should be taught in a similar way.
 
-***[[The key is the outside foot. The progression goes like
-this.]{.underline}]{.mark}***
+***The key is the outside foot. The progression goes like
+this.***
 
-1.  ***[[Get a great shoulder turn with the left arm stretched across
-    the body.]{.underline}]{.mark}***
+1.  ***Get a great shoulder turn with the left arm stretched across
+    the body.***
 
-2.  ***[[Align behind the ball with the outside
-    foot.]{.underline}]{.mark}***
+2.  ***Align behind the ball with the outside
+    foot.***
 
-3.  ***[[Load the back leg through a natural, deep knee
-    bend.]{.underline}]{.mark}***
+3.  ***Load the back leg through a natural, deep knee
+    bend.***
 
-4.  ***[[The other foot should be offset to the backfoot at about a 45
+4.  ***The other foot should be offset to the backfoot at about a 45
     degree angle and about two feet closer to the
-    net.]{.underline}]{.mark}***
+    net.***
 
-5.  ***[[Keep your balance and keep your posture
-    upright.]{.underline}]{.mark}***
+5.  ***Keep your balance and keep your posture
+    upright.***
 
-***[[The back foot set up is critical to proper alignment in either
-neutral or open stance.]{.underline}]{.mark}***
+***The back foot set up is critical to proper alignment in either
+neutral or open stance.***
 
 You are now ready to hit open stance. You are also ready to step forward
 and hit netural stance. The principles are the same. In reality, when
@@ -432,9 +432,9 @@ knee bend in the front leg. But all these things tend to happen
 automatically if the player really does have the feel for a balanced set
 up on the outside foot.
 
-***[[I think a lot of the criticisms of \"classical\" or \"old style\"
+***I think a lot of the criticisms of \"classical\" or \"old style\"
 tennis stem from a misunderstanding about this relationship between the
-set up and the hitting stance.]{.underline}]{.mark}*** The fact is that
+set up and the hitting stance.*** The fact is that
 it is more than possible to hit open stance with conventional grips and
 to hit well. The possible advantage of extreme grips doesn't really
 come in play until the rally balls you face are consistently quite high.

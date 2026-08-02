@@ -191,8 +191,8 @@ pats that could rightfully be described as on the table top.
 ![A child playing tennis Description automatically generated with medium
 confidence](media_the-myth-of-the-dog/media/image6.webp)
 
-**[[Roger varies how much the face closes in part depending on ball
-height.]{.underline}]{.mark}**
+**Roger varies how much the face closes in part depending on ball
+height.**
 
 [But Roger definitely pats the dog to some degree on most balls. The
 reality is he does it to different degrees at different times.]{.mark}
@@ -303,10 +303,10 @@ genius of the ATP forehand model created by Brian Gordon.]{.mark}***
 
 The key is the outside backswing position he devised, popularized by
 Rick Macci, when those two began working together several years ago.
-This backswing position is what Rick calls \"tap the dog.\" ***[[The
+This backswing position is what Rick calls \"tap the dog.\" ***The
 racket goes back and up and slightly to the outside with the face
 slightly closed, say at about 30 degrees to the court surface at
-most.]{.underline}]{.mark}*** ([Click
+most.*** ([Click
 Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
 
 ***[[From there Rick tells players to straighten out the arm and then
@@ -357,10 +357,10 @@ Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/t
 Players think they see what the pros do, then torture themselves trying
 to manipulate what should be automatic, consequential movements.
 
-***[[So many players don't realize that if they set up and coil
+***So many players don't realize that if they set up and coil
 correctly and swing forward correctly all that craziness will or will
 not happen on its own at the right time as a result of having simple,
-underlying fundamentals.]{.underline}]{.mark}*** Just check out Scott
+underlying fundamentals.*** Just check out Scott
 Murphy's two articles on forehand preparation ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/scott_murphy/scott_murphy_forehand_preparation_images/scott_murphy_forehand_preparation.html))
 and on forehand completion ([Click
@@ -377,7 +377,7 @@ of Grigor Dimitrov. A \"tap the dog\" racket position at the completion
 of the full turn. A full dog pat. And perfect extension.
 
 Like I said at the end of my article of the myth of lag and snap,
-***[[learn the checkpoints for the full turn.]{.underline}]{.mark}***
+***learn the checkpoints for the full turn.***
 Shoulders and hips fully and appropriately rotated. Left arm stretched.
 Semi open stance with the outside leg coiled, ready to go to neutral
 depending on the ball.

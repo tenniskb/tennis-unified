@@ -33,24 +33,24 @@ generated](media_forehand-preparation/media/image1.webp)
 **Watch Agassi prepare with torso rotation first. The left arm extends
 across the body.**
 
-Using your eyes effectively is also critical in **[[avoiding a
-problem]{.underline}]{.mark}** I see constantly, **[[the inability to
+Using your eyes effectively is also critical in **avoiding a
+problem** I see constantly, **[[the inability to
 establish the correct lateral distance from the
 ball.]{.mark}]{.underline} [Players will actually [place their bodies
 where their racquets need to be]{.underline}, in great part [because
 they don't track the ball long enough or with a still enough head to
 avoid overreacting while establishing position]{.underline}]{.mark}**.
-**[[Keep your head still, your shoulders level, and watch the ball until
-you hear it hit your strings.]{.underline}]{.mark}** There are two other
+**Keep your head still, your shoulders level, and watch the ball until
+you hear it hit your strings.** There are two other
 means of establishing a better range of contact that will be mentioned
 momentarily.
 
 ### Turning the Body
 
 Once you've established the ball is coming to the forehand side,
-initiate a unit turn, or the \"coiling\" phase of the stroke. **[[The
+initiate a unit turn, or the \"coiling\" phase of the stroke. **The
 hips, trunk, and shoulders, in that order, rotate back until the
-shoulders are sideways to the target.]{.underline}]{.mark}** The racquet
+shoulders are sideways to the target.** The racquet
 is actually the last part of this kinetic chain.
 
 ![A person in a black shirt Description automatically generated with low
@@ -59,9 +59,9 @@ confidence](media_forehand-preparation/media/image2.webp)
 **The wrist drops into the laid back position, with the elbow in, and
 the racket on the right side.**
 
-**[[In conjunction with this turn, the non-racket arm moves across the
+**In conjunction with this turn, the non-racket arm moves across the
 body to form an approximately 90-degree angle with the plane of the
-shoulders.]{.underline}]{.mark}** Most pros will **[[keep the
+shoulders.** Most pros will **[[keep the
 non-hitting hand on the racquet throat to help initiate the turn and
 ensure the position of the arm before letting go.]{.mark} [The position
 of the non-racket arm can also assist in distancing yourself laterally
@@ -70,11 +70,11 @@ prevent crowding of the swing.]{.mark} [Additionally, it helps assists
 overall balance and sets up a synchronization of the arms during the
 forward swing.]{.mark}]{.underline}**
 
-**[[Just before the forward rotation of the shoulders, the wrist should
+**Just before the forward rotation of the shoulders, the wrist should
 be locked into a laid back position and the elbow should be bent and
-relatively tight against the body]{.underline}]{.mark}**. **[[At the
+relatively tight against the body**. **At the
 same time, the racquet head should be in front of the plane of the
-shoulders.]{.underline}]{.mark}**
+shoulders.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -82,16 +82,16 @@ confidence](media_forehand-preparation/media/image3.webp)
 
 **Federer aligned and fully loaded with the back foot inside the ball.**
 
-**[[Lastly, when fully prepared to swing forward, the back foot should
+**Lastly, when fully prepared to swing forward, the back foot should
 be planted with the weight of the body loaded on the back
-leg.]{.underline}]{.mark}** **[[*The position of the back foot should be
+leg.** ***The position of the back foot should be
 to the inside of where the ball will be struck. This is yet another
 means to avoid crowding the shot.* If the back foot is planted to the
 outside of the incoming ball you'll be right in its path, thereby
 causing you to pull your shot in an attempt to make room for the
-swing.]{.underline}]{.mark}**
+swing.**
 
-**[[Now you're ready to pull the trigger]{.underline}]{.mark}**. In the
+**Now you're ready to pull the trigger**. In the
 next article I'll talk about how to best utilize good preparation and
 complete the forehand ground stroke package.
 

@@ -26,18 +26,18 @@ generated](media_the-volley-part-3-types-and-tactics/media/image1.webp)
 **Play aggressively on the \"ideal\" volley, but maintain solid
 mechanics.**
 
-Let's start with the high volley. **[[The volley we all love to play is
+Let's start with the high volley. **The volley we all love to play is
 the \"ideal\" high volley. This is a ball above the net, from mid chest
-to just above shoulder height]{.underline}]{.mark}**. Assuming you're
+to just above shoulder height**. Assuming you're
 somewhere in the front two-thirds of the service box, it provides you
 with the opportunity to play aggressively.
 
 **The height allows you to \"comfortably\" volley outward and/or
-downward at a [[wide array of targets]{.underline}]{.mark}.** The best
-volleyers really go after this ball **[[by closing on
-it]{.underline}]{.mark}** and **[[accelerating the racquet head
-forward]{.underline}]{.mark}**, **[[making sure to maintain solid
-mechanics.]{.underline}]{.mark}**
+downward at a wide array of targets.** The best
+volleyers really go after this ball **by closing on
+it** and **accelerating the racquet head
+forward**, **making sure to maintain solid
+mechanics.**
 
 Too often this volley is there for the taking, but for lack of moving
 forward, the ball winds up dropping below the net where you no longer
@@ -67,8 +67,8 @@ mistakenly try to hit this type ball as an overhead, the result is
 usually a line drive off the back fence.
 
 **This is a case where you have to let gravity work for you**.
-**[[Volley this ball firmly, but straight out in an attempt to achieve
-depth.]{.underline}]{.mark}** **[[Some follow through is usually
+**Volley this ball firmly, but straight out in an attempt to achieve
+depth.** **[[Some follow through is usually
 required, particularly if the approaching ball lacks pace. If you want
 to volley this ball down and on an angle, be sure to practice
 constraint!]{.mark}]{.underline}**
@@ -94,11 +94,11 @@ has a lot of pace you can borrow that pace by holding the racquet firmly
 and letting the ball bounce off your strings. If it lacks pace be sure
 to accelerate the racquet through the volley.
 
-**[[Practicing the low volley when you're closer to the net is
+**Practicing the low volley when you're closer to the net is
 essential because the position of the racquet face is critical. Ideally,
 it's open just enough that the ball stays down after it clears the net.
 If the racquet face is too open, the ball can sit up for a passing
-shot.]{.underline}]{.mark}**
+shot.**
 
 More often than not the problem here is that players simply don't get
 low enough to avoid some sort of racquet compensation, resulting in an
@@ -106,11 +106,11 @@ error or a weak shot. It's what I call the \"giraffe at the watering
 hole syndrome,\" where bending at the waist or not bending at all is the
 order of the day.
 
-**[[To volley the low ball well, you have to use your legs
-correctly.]{.underline}]{.mark}** For starters, there should be a fair
+**To volley the low ball well, you have to use your legs
+correctly.** For starters, there should be a fair
 amount of distance between your feet to encourage your knees to be more
-flexible. **[[Both knees should be bent, but the knee of the hind leg
-should be close to the ground.]{.underline}]{.mark}** **[[This will
+flexible. **Both knees should be bent, but the knee of the hind leg
+should be close to the ground.** **[[This will
 allow you to volley a low ball much the way you would an ideal, shoulder
 height ball because, in fact, your shoulders are lower and your eyes are
 closer to the plane of the ball. To get that hind leg down, try turning
@@ -147,9 +147,9 @@ court, or is obviously quite slow.]{.mark}]{.underline}**
 Hitting a drop volley involves decelerating the racquet head at impact.
 Imagine someone tossing you an egg or a water balloon in which you pull
 back a bit to ease the impact of the catch. That's really what you're
-doing on a drop volley, \"catching\" the ball. **[[Generally, a little
+doing on a drop volley, \"catching\" the ball. **Generally, a little
 cupping of the racquet face accompanies this \"catch\", providing enough
-backspin to brake the ball even more.]{.underline}]{.mark}**
+backspin to brake the ball even more.**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
@@ -183,9 +183,9 @@ hitting it into the alley or beyond? It's painful isn't it? In your
 haste to take advantage of a golden opportunity, you wind up overdoing
 it.
 
-**[[The main thing to remember here is that there is a MILE of open
+**The main thing to remember here is that there is a MILE of open
 court. Most of the time, all you have to do is \"bump\" the ball over
-there, leaving a lot more margin for error.]{.underline}]{.mark}** On
+there, leaving a lot more margin for error.** On
 rare occasions, where you're playing someone with Lleyton Hewitt type
 speed, it may be necessary to hit the volley more crisply. Spend the
 time practicing this shot because it can be devastating when you miss it
@@ -199,8 +199,8 @@ back!**
 
 ### Recovery
 
-**[[One last thing, and that is the need to recover from volley to
-volley. This is very important!]{.underline}]{.mark}**
+**One last thing, and that is the need to recover from volley to
+volley. This is very important!**
 
 Never assume the ball won't come back, even in the most offensive
 situations, particularly if you've played a low volley or a wide

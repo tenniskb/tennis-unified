@@ -115,8 +115,8 @@ elbow, forming a straight line all the way up to the shoulder.
 different from the double bend structure we've seen and studied on the
 forehand**? ([Click
 Here](http://www.tennisplayer.net/members/tour_strokes/jeff_counts/forehand_a_spring_event/forehand_a_spring_event%20.html)
-to read Jeff Counts article on the Double Bend Forehand.) ***[[The
-reason is the position of the hitting shoulder.]{.underline}]{.mark}***
+to read Jeff Counts article on the Double Bend Forehand.) ***The
+reason is the position of the hitting shoulder.***
 **[On the forehand, the right shoulder has to rotate forward toward the
 plane of the contact. On the one-handed backhand, the front right
 shoulder is already there at the completion of the turn.]{.mark}**
@@ -126,10 +126,10 @@ the forward swing on the one-hander is to think of the arm and the
 racket as a one piece \"gate\" that swings around and forward from the
 \"hinge\" of the right front hitting shoulder.
 
-**[[There isn't any internal movement in the gate, or the structure of
+**There isn't any internal movement in the gate, or the structure of
 the hitting arm. The player is simply using his shoulder and other upper
 body muscles to swing the \"gate\" around, first to the contact point
-and then out into the followthrough.]{.underline}]{.mark}**
+and then out into the followthrough.**
 
 This is why the straight hitting arm is a prerequisite for the shot to
 work at any level of play. If the elbow stay bent too long, the \"gate\"
@@ -157,13 +157,13 @@ looking at the more basic structure.
 **The Finish**
 
 This straight hitting arm position is maintained out through the forward
-motion, all the way to the point of greatest extension. **[[I call this
+motion, all the way to the point of greatest extension. **I call this
 the finish position, because it is the last point in the motion in which
 the racket is traveling forward and upward toward the target, before
-starting to move backwards in the recovery phase.]{.underline}]{.mark}**
+starting to move backwards in the recovery phase.**
 
-**[[Typically we see this racket position is at about eye level, are a
-few inches higher]{.underline}]{.mark}**. The arm is still straight and
+**Typically we see this racket position is at about eye level, are a
+few inches higher**. The arm is still straight and
 the hand and arm point along the line of the shot or, more usually, 20
 or 30 degrees past this position. Note that you can draw a straight line
 across the torso all the way out to the hand. The exact position will
@@ -322,10 +322,10 @@ generated](media_the-one-handed-topspin-backhand-the-forward-swing/media/image30
 
 **Torso Rotation**
 
-***[[Besides the contact point, there is a second fundamental
+***Besides the contact point, there is a second fundamental
 distinction between the classical and the more extreme backhands. This
 is the amount of torso rotation in the forward
-swing.]{.underline}]{.mark}*** In general the more extreme grip players
+swing.*** In general the more extreme grip players
 rotate their hips and shoulders further through the course of the stroke
 and are more open at contact.
 

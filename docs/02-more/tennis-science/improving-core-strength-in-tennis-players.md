@@ -29,16 +29,16 @@ muscle by rapidly shortening the same muscle with maximum force. This
 process is called the stretch-shortening cycle and is one of fastest
 reflexes in the human body.
 
-**[[First, let's define the trunk. The trunk includes the thorax
+**First, let's define the trunk. The trunk includes the thorax
 (chest), rib cage, abdomen, spine, and shoulder and pelvic
-girdle.]{.underline}]{.mark}** The trunk acts as a base for all
+girdle.** The trunk acts as a base for all
 movement. Looking at a physiological cross-section of the muscles that
 comprise the trunk area, the potential for the development of size is
-not obvious. **[[These muscles are basically flat and thin in their
+not obvious. **These muscles are basically flat and thin in their
 overall shape and perform very specific functions in human
-movement.]{.underline}]{.mark}** **Although these muscles are often
-overlooked in training, [[trunk rotation is a primary and absolutely
-vital movement in tennis.]{.underline}]{.mark}** Training the core area
+movement.** **Although these muscles are often
+overlooked in training, trunk rotation is a primary and absolutely
+vital movement in tennis.** Training the core area
 improves lumbar stability and increases the speed of trunk rotation,
 which leads to improved velocity and control of serves and
 groundstrokes.
@@ -66,7 +66,7 @@ Plyometric exercises for the trunk may be grouped into three categories:
 trunk flexor exercises, trunk extensor exercises, and trunk rotation
 exercises.
 
-**[[Trunk Flexion Exercises]{.underline}]{.mark}**
+**Trunk Flexion Exercises**
 
 **[1. "Chinnies"]{.underline}**
 
@@ -145,7 +145,7 @@ ground by contracting the lower abdominal muscles.
 
 **[Trunk Extension Exercises]{.underline}**
 
-**[[1. "Sitting Toe Touch"]{.underline}]{.mark}**
+**1. "Sitting Toe Touch"**
 
 Start: Sit on the floor with your legs extended in front of you holding
 the ball in both hand over your head.
@@ -155,7 +155,7 @@ your toes. Return to the starting position. This action can also be
 performed while sitting in a "V" (legs apart in a "V") sit position and
 alternating touching each toe.
 
-**[[2. "Bridging"]{.underline}]{.mark}**
+**2. "Bridging"**
 
 Start: Lie on your back, knees bent, arms out to your side for balance
 and place both feet on the ball.
@@ -286,8 +286,8 @@ Let your legs fall towards the ground catching them right before they
 would hit the ground and snap them upwards to the starting position.
 Repeat the action. Do this on both sides.
 
-**[[Plyometric exercises can be performed in conjunction with resistance
-weight training to develop strength and power.]{.underline}]{.mark}** An
+**Plyometric exercises can be performed in conjunction with resistance
+weight training to develop strength and power.** An
 example of this is alternating sets of cable curls with pullover
 crunches or sit-up throws. Another is side bending with dumbbells
 intermixed with side throws or side-lying leg lifts. The combination of

@@ -135,25 +135,25 @@ confidence](media_the-half-volley/media/image6.webp)
 
 **A compact backswing and an abbreviate follow-through are keys.**
 
-**[[On the forehand half volley, the contact point is slightly in front
+**On the forehand half volley, the contact point is slightly in front
 of the front foot. For the backhand half volley, the contact point is
 six to 12 inches farther forward. Hitting the ball behind these contact
 points usually produces a shot that lacks power and depth and sets up an
-easy passing shot for your opponent.]{.underline}]{.mark}** The same
+easy passing shot for your opponent.** The same
 unhappy fate occurs when you hit off-center, away from the "sweet spot
 of the strings. So, you must do everything right to half volley crisply
 and deep.
 
-**[[Generally, you contact the ball with a vertical racket face that is
-perpendicular to the ground.]{.underline}]{.mark}** **[[But on some half
+**Generally, you contact the ball with a vertical racket face that is
+perpendicular to the ground.** **[[But on some half
 volleys, especially closer to the net, to hit the ball with enough
 upward trajectory, you may have to open the racket face slightly and
 swing more upward than usual.]{.mark}]{.underline}**
 
 **Rhythm**
 
-**[[Rhythm is the glue that keeps the parts moving smoothly together in
-every tennis stroke.]{.underline}]{.mark}**
+**Rhythm is the glue that keeps the parts moving smoothly together in
+every tennis stroke.**
 
 So, the more rhythm you can develop in your half volley, the more
 grooved, controlled, and consistent it will be.

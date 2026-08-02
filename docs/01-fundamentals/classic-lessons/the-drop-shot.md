@@ -80,26 +80,26 @@ generated](media_the-drop-shot/media/image4.webp)
 
 **The swing path to contact is downward and outside in.**
 
-**[[This combination of underspin and sidespin is created by the path of
+**This combination of underspin and sidespin is created by the path of
 the swing. The swing is from high to low. But at the same time the swing
-is also from the outside in across the ball.]{.underline}]{.mark}**
+is also from the outside in across the ball.**
 
-**[[The underspin component is what causes the ball to appear to stop or
+**The underspin component is what causes the ball to appear to stop or
 even bounce back toward the net. This sidespin component is what causes
 the ball to curve away from the player in an arc after it is hit, and
-sometimes after it bounces as well.]{.underline}]{.mark}**
+sometimes after it bounces as well.**
 
-**[[The way to develop this combination of spin is to think about the
+**The way to develop this combination of spin is to think about the
 edge of the racket head. To hit the drop shot you have to imagine the
 edge of the racket hitting the top and the outside of the ball, then
-cutting downward and across the ball.]{.underline}]{.mark}** **[[So, the
+cutting downward and across the ball.** **So, the
 edge of the racket closest to the ground traveling downward toward the
-court but also inward across the body.]{.underline}]{.mark}**
+court but also inward across the body.**
 
-**[[A similar image is to visualize leading with the butt of the racket
+**A similar image is to visualize leading with the butt of the racket
 downward and inward toward the opposite knee. In both cases, the motion
 will produce underspin mixed with a less amount
-sidespin.]{.underline}]{.mark}**
+sidespin.**
 
 ![A person playing tennis Description automatically
 generated](media_the-drop-shot/media/image5.webp)
@@ -113,10 +113,10 @@ place it, it will float, and also tend to bounce up and carry through
 the court, making it much easier for the opponent to run it down. The
 speed of the swing will determine the speed of the ball rotation.
 
-**[[The faster the swing, the more spin. This is one of the reasons you
+**The faster the swing, the more spin. This is one of the reasons you
 have to think of the shot as being so aggressive. Racket head speed is
 just as important in a good drop shot as in a heavy topspin
-groundstroke.]{.underline}]{.mark}**
+groundstroke.**
 
 Whether it is a backhand or a forehand the proper grip is the
 continental. Usually this is similar to the player's serve grip,
@@ -273,21 +273,21 @@ moving forward yourself. It may seem counter intuitive, but when good
 players hit the drop shot you see them move forward a high percentage of
 the time.
 
-Why? Two reasons. **[[The first is that a very common response to the
+Why? Two reasons. **The first is that a very common response to the
 drop shot is another drop shot. For the same reason that you hit drop
 shot, your opponent may hit a drop shot of his own. The short part of
-the court is the largest opening.]{.underline}]{.mark}**
+the court is the largest opening.**
 
-**[[Also, if the player struggles to reach the ball, he will typically
+**Also, if the player struggles to reach the ball, he will typically
 lift the ball high over the net in an effort to stay in the point. Now
 you are in position to hit an easy volley into the open
-court.]{.underline}]{.mark}**
+court.**
 
-**[[Another answer to the drop shot is for the opponent to hit a sharply
+**Another answer to the drop shot is for the opponent to hit a sharply
 angled cross court response. In the extreme example this reply can
 travel on a shot line that is almost parallel to the net. If you move
 forward, you can cut off this angle and you will then have the whole
-court open down the line.]{.underline}]{.mark}**
+court open down the line.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-drop-shot/media/image12.webp)

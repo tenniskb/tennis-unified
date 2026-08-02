@@ -61,8 +61,8 @@ My purpose here is to briefly review the key attributes as a conceptual
 refresher and help clarify what my work actually found.
 
 Analysts and teaching professionals tend to focus on the backswing and
-the finish but **[[it is important note that the Type III model is
-defined by only the forward swing.]{.underline}]{.mark}** The pillars
+the finish but **it is important note that the Type III model is
+defined by only the forward swing.** The pillars
 are independent of the backswing and follow through.
 
 These parts of the swing are a focus in the Type III instructional
@@ -87,7 +87,7 @@ path.**
 **[The result is the ability to concurrently maximize speed and spin.
 There is no trade-off.]{.mark}**
 
-**[[The independent arm contribution is key.]{.underline}]{.mark}**
+**The independent arm contribution is key.**
 **[[The separation of racquet velocity to unique sources is only truly
 possible if the hitting arm is accelerated through the body rotation. In
 other words the shoulder joint is used to propel the arm (in addition to
@@ -115,10 +115,10 @@ and allows the hand path trajectory to align closely with the shot
 direction. Toward this end, the hand is positioned to the outside of the
 body exiting the backswing.]{.mark}]{.underline}**
 
-**[[Linearizing the end point (hand) of a two degrees of freedom system
+**Linearizing the end point (hand) of a two degrees of freedom system
 (torso rotation and non-twisting shoulder rotation) requires specific
 proportions for each rotation throughout the
-motion.]{.underline}]{.mark}** **[This is an additional consideration in
+motion.** **[This is an additional consideration in
 the sequencing of body rotations in the Type III model. Not only is
 rotation sequencing necessary to decrease the load on the shoulder it
 must also facilitate hand path linearization.]{.mark}**

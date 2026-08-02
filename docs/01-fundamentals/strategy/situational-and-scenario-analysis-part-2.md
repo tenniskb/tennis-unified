@@ -14,9 +14,9 @@ presented some examples of the incredible range of scenarios that can
 occur in matches. Let's continue in Part 2 by looking at another series
 of scenarios most players at most levels encounter sooner or later.
 
-**[[Developing your ability to do situational analysis both before and
+**Developing your ability to do situational analysis both before and
 during matches is a learned skill, a skill that frequently makes the
-difference between winning and losing.]{.underline}]{.mark}** No two
+difference between winning and losing.** No two
 match situations are ever exactly the same, and the point isn't to
 memorize a series of fixed answers. The point is to study these examples
 in order to help you learn the process of adaptation.

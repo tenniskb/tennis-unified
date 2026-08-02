@@ -119,9 +119,9 @@ desire.
 
 **Resistance Examples**
 
-**[[A common resistance point in competitive tennis occurs when players
+**A common resistance point in competitive tennis occurs when players
 lose emotional control by getting angry at line
-calls.]{.underline}]{.mark}** Again, this can affect even the best
+calls.** Again, this can affect even the best
 players in the world\--think of Serena's reaction to the foot fault call
 against her last year at the Open in 2010. One of the best competitors
 and most mentally tough players ever to play professional tennis,
@@ -387,9 +387,9 @@ momentum in the wrong direction.
 Now formulate the solution. You are now in the position to rehearse the
 solutions physically and mentally over and over in practice.
 
-**[[When the points occur in matches, the first step is simply to
+**When the points occur in matches, the first step is simply to
 recognize them and how you react. You may not be initially able to
-control them, and that is fine.]{.underline}]{.mark}**
+control them, and that is fine.**
 
 **[[But over time, work to implement the solution, step by step, inch by
 inch if necessary. It may not happen the first time, or even the tenth,
@@ -401,8 +401,8 @@ for situations, or beliefs about your own ability. Again, rehearse these
 physically and mentally over and over in practice and have the courage
 to try to implement them in matches.]{.mark}]{.underline}**
 
-**[[Over time your confidence will overwhelm your doubt and you will be
-able to create and/or]{.underline}]{.mark}** **[[preserve the momentum
+**Over time your confidence will overwhelm your doubt and you will be
+able to create and/or** **[[preserve the momentum
 you need to breakthrough and take your game to the next level. And when
 you reach the next level, you can start the process over again to
 continue to rise to your full potential.]{.mark}]{.underline}**

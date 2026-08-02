@@ -61,8 +61,8 @@ buttstratch and the high elbow position.**
 
 From that jumping off point, with rare exception, we will work for
 several days up to several months on one fundamental exercise and its
-variations\--the **[[Triceps Extension Drill or what I affectionately
-like to call TED. This is Exercise One!]{.underline}]{.mark}**
+variations\--the **Triceps Extension Drill or what I affectionately
+like to call TED. This is Exercise One!**
 
 The purpose of the Triceps Extension Drill is manifold. Firstly, it
 breaks the player away from his old serve motion and the bad habits
@@ -87,10 +87,10 @@ generated](media_constructing-the-kick/media/image6.webp)
 
 ### Steps to the TED
 
-Here are the steps to execute the TED: **[[The racket must be positioned
+Here are the steps to execute the TED: **The racket must be positioned
 in the buttscratch position and the arm and racket held down all the way
 down. The elbow points to the sky. This is the axis point for the
-triceps extension.]{.underline}]{.mark}**
+triceps extension.**
 
 To create this position I like to physically manipulate the player,
 forcing the racket down and the elbow up to help him or her feel the

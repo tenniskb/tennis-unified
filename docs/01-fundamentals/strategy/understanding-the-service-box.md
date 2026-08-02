@@ -40,11 +40,11 @@ generated](media_understanding-the-service-box/media/image2.webp)
 
 **Complete serving means understanding all thirds of the box.**
 
-But then Mr. Straley said, **[[\"Paul we're going to get you to the
+But then Mr. Straley said, **\"Paul we're going to get you to the
 point where you can divide that box into thirds.\" So that meant having
 all three serves wide, and all three serves to the T. But it also meant
 have all three serves to the middle third of the
-box.]{.underline}]{.mark}**
+box.**
 
 Mr.Straley thought if you couldn't serve the middle third in both
 boxes, you weren't really a complete server, and to this day, I believe

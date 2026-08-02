@@ -48,9 +48,9 @@ Self-transcendence cannot be produced by force of will.\"
 **Flow**
 
 Hungarian professor Mihaly Czikszentmihalyi believes that the Zone
-cannot be quantified by research, sampling methods, or numbers. **[[He
+cannot be quantified by research, sampling methods, or numbers. **He
 defines the Zone as a flowing state in which the athletes lose
-self-awareness.]{.underline}]{.mark}**
+self-awareness.**
 
 There is a perfect correspondence between the demands of the activity
 and the capacity of the athlete which makes the experience completely
@@ -119,12 +119,12 @@ Bill Walton says: \"Everything slows down except you, and you feel like
 you're operating at a different speed and at a different level than
 anybody else.\"
 
-**[[\<\< The opposite is true that the time is the same for all players,
+**\<\< The opposite is true that the time is the same for all players,
 but the brain of the athlete is activated to a higher level of
 performance, e.g. 80% of full capacity so he/she could process the
 information much faster and give the faster output to control other
 parts of the body. So, it seems the time is slower for the athlete
-relatively.\>\>]{.underline}]{.mark}**
+relatively.\>\>**
 
 ![A picture containing text, person Description automatically
 generated](media_does-the-zone-exist/media/image5.jpg)

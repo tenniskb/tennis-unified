@@ -21,8 +21,8 @@ the average player should copy one particular pro player or another? If
 a top player is successful using complicated biomechanics, does that
 mean club players should try the same things?
 
-**[[The answer, as far as I'm concerned, is that the easiest way is
-usually the best]{.underline}]{.mark}**. If you've got a great athlete
+**The answer, as far as I'm concerned, is that the easiest way is
+usually the best**. If you've got a great athlete
 who practiced five or six hours a day for 10 or 15 years, he might be
 better hitting a ball in a more complex way than you or I could doing it
 the easy way. But that doesn't mean that it wouldn't have been better
@@ -61,8 +61,8 @@ There are essentially four components of power. The first two are fairly
 easy to control. You want to use those as much as you can. The second
 two are much more difficult to control.
 
-**[[The first source of power that can make your racquet move is your
-legs.]{.underline}]{.mark}** Hold the racquet steady and step in. Notice
+**The first source of power that can make your racquet move is your
+legs.** Hold the racquet steady and step in. Notice
 the racquet's moving. That's giving you power.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -81,21 +81,21 @@ face. And that's the reason you step into the ball - you essentially
 get a free three to five miles an hour of racquet head velocity without
 sacrificing any control.
 
-**[[The second way you can get power is by rotating your hips and
-torso.]{.underline}]{.mark}** Set the racquet head in the contact
+**The second way you can get power is by rotating your hips and
+torso.** Set the racquet head in the contact
 position again and rotate the hips and torso while holding everything
 else still. Notice that you have created another stable power source.
 The reason it's stable is because the racquet head stays in the same
 position while the hips and torso are rotated, making it easy to
 control.
 
-**[[The third way you get power is by moving the arm relative to the
-body.]{.underline}]{.mark}** **[*But here is where the problem begins.*
+**The third way you get power is by moving the arm relative to the
+body.** **[*But here is where the problem begins.*
 [I'm now using my arm muscles to control the angle of the face of the
 racquet head as I swing and it may become
-unstable.]{.mark}]{.underline}** **[[And remember, it only has to be off
+unstable.]{.mark}]{.underline}** **And remember, it only has to be off
 a quarter of an inch for you to lose control of the
-shot.]{.underline}]{.mark}**
+shot.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text, person, player, male Description automatically
@@ -105,20 +105,20 @@ shot.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The final power source is the wrist.]{.underline}]{.mark}** ***[And
-again, this is not a terribly stable source, either.]{.mark}*** **[[It
+**The final power source is the wrist.** ***[And
+again, this is not a terribly stable source, either.]{.mark}*** **It
 wiggles. If the racquet is a little open or a little closed, you'll
-make a mistake.]{.underline}]{.mark}**
+make a mistake.**
 
-**[[The bottom line of all of this is that the best strokes are hit
+**The bottom line of all of this is that the best strokes are hit
 using mostly body rotation and leg drive forward for power and less
-arm.]{.underline}]{.mark}** ***[Top pros use their wrists for
+arm.** ***[Top pros use their wrists for
 flexibility]{.mark}, but it's something that you have to play for many,
 many years and be awfully good at to use.***
 
 Jimmy Connors probably executed this best - he just rotated and stepped.
-**[[It was quite cramped at the shoulder. His arm didn't move around
-very much.]{.underline}]{.mark}** And John McEnroe, as different as his
+**It was quite cramped at the shoulder. His arm didn't move around
+very much.** And John McEnroe, as different as his
 game looked from Jimmy Connors, hit the forehand very much the same.
 
 **[[The end result is a stroke that is very compact and simple. You turn
@@ -138,15 +138,15 @@ forward.
 
   ------------------------------------------------------------------------------------------------------------------------------------
 
-**[[A final question, when do you take the racquet back and how
-high?]{.underline}]{.mark}** **[[You take the racquet back by the time
+**A final question, when do you take the racquet back and how
+high?** **[[You take the racquet back by the time
 the ball hits the court on your side. Whether it's high or low doesn't
 really matter terribly as long as the shoulders are turned and the
 racquet's as far back as it's going to go. When the ball hits the
 court, you rotate and step.]{.mark}]{.underline}**
 
-**[[So why do the pros often use a high
-take-back?]{.underline}]{.mark}** That is because most pros use a
+**So why do the pros often use a high
+take-back?** That is because most pros use a
 circular motion, taking the racquet back high then dropping it down and
 through the stroke. **[[The reason they do that is to gain more power in
 the same way a softball pitcher takes a full round wind up so they can
@@ -160,25 +160,25 @@ accelerate more.]{.mark}]{.underline}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[You may get more acceleration with a higher take- back but the
+**You may get more acceleration with a higher take- back but the
 trouble is, it makes it much more difficult to control the
-ball.]{.underline}]{.mark}**
+ball.**
 
 [[**You have to get your racquet to the contact point at exactly the
 same microsecond that the ball reaches that point.** **You're judging
 the ball's trajectory as it approaches, and your racquet is going to
 have to match it perfectly.**]{.mark}]{.underline}
 
-**[[The longer your stroke, the earlier you have to determine exactly
+**The longer your stroke, the earlier you have to determine exactly
 what microsecond the ball's going to be at that spot, and the harder it
-is to control the stroke.]{.underline}]{.mark}**
+is to control the stroke.**
 
-**[[So, a judgment call, based on your ability, as to how far you take
+**So, a judgment call, based on your ability, as to how far you take
 the racquet back or how high. Develop a backswing that allows you to
-have consistent timing.]{.underline}]{.mark}**
+have consistent timing.**
 
-**[[Approach the ball with your shoulders turned toward the net, then
-rotate and drive your weight into the ball.]{.underline}]{.mark}**
+**Approach the ball with your shoulders turned toward the net, then
+rotate and drive your weight into the ball.**
 **[[Notice the body weight going forward and the shoulders rotating
 heavily.]{.mark} [The racquet goes back early, it's waiting. The
 shoulders are turned by the time the ball hits the court, then there's

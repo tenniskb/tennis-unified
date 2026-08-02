@@ -246,16 +246,16 @@ Where do you want to spend your time? On the type of points that
 comprise one percent of match play, or on the type of points that
 comprise the majority?
 
-**[[The implication of the evidence is shocking. The evidence clearly
+**The implication of the evidence is shocking. The evidence clearly
 shows that our time on the practice court is misguide and not nearly as
-effective as it needs to be.]{.underline}]{.mark}** **[[The problem is
+effective as it needs to be.** **[[The problem is
 we have no balance. We grind and slap groundstrokes around for hours,
 get exhausted and congratulate ourselves on how hard we are
 working.]{.mark}]{.underline}**
 
-**[[Meanwhile we don't spend anywhere near enough time on the serve and
+**Meanwhile we don't spend anywhere near enough time on the serve and
 return, the two shots that determine the biggest percentage of
-points.]{.underline}]{.mark}** **[[The shared delusion is that
+points.** **[[The shared delusion is that
 groundstroke rallies are what matter the most. They
 don't.]{.mark}]{.underline}**
 

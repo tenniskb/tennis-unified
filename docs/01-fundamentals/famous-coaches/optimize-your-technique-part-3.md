@@ -63,8 +63,8 @@ featured a set of sequence pictures of Andre hitting a backhand return.
 
 After studying the pictures, his response stood out in my mind. He said,
 "Nick, I don't even think about taking the racquet back. All I think
-about is **[[keeping the racquet in close to my body and turning my
-shoulders]{.underline}]{.mark}** . . . the technique has got to be
+about is **keeping the racquet in close to my body and turning my
+shoulders** . . . the technique has got to be
 simple!
 
 Considering that he has one of the greatest returns of all time, I
@@ -73,9 +73,9 @@ thought I would share that bit of advice with you.
 ### Volleys
 
 The secret to great technique on the volley is simplicity. Most
-important is **[[the ability to move to the ball, on balance, with a
+important is **the ability to move to the ball, on balance, with a
 minimal backswing and the ability to control the racquet face at
-impact.]{.underline}]{.mark}** The more moving parts and the bigger the
+impact.** The more moving parts and the bigger the
 swing on the volley, the harder it is to master the stroke. Unlike on
 ground strokes, there is not as much variation in technique on the
 volley among the top professionals.
@@ -86,9 +86,9 @@ volley among the top professionals.
 | **Tim Henman prepares to hit a backhand volley.** |  |  |
 
 
-- **Prepare your racquet first and then move.** **[[When you are setting
+- **Prepare your racquet first and then move.** **When you are setting
   up for the volley, think in terms of preparing your racquet first and
-  then moving to the ball.]{.underline}]{.mark}** In fact, you will be
+  then moving to the ball.** In fact, you will be
   moving and preparing the racquet at the same time. However, lining up
   your racquet early gives a clear gauge as to exactly where you need to
   move to get in the best position for the shot.\
@@ -112,11 +112,11 @@ volley among the top professionals.
   with the racquet face slightly open.\
    
 
-- **Turn your upper body on the backhand.** **[[Do not start a backhand
+- **Turn your upper body on the backhand.** **Do not start a backhand
   volley with your whole body turned sideways. Facing the ball, rotate
   your upper body as you prepare, getting a pull in the shoulders for
   the strength you need on the shot, then step. This will help load the
-  large-muscle groups of your upper body.]{.underline}]{.mark}**
+  large-muscle groups of your upper body.**
 
 | ![A person holding a tennis racket Description automatically | ![A person playing tennis Description automatically | ![A person playing tennis Description automatically |
 | --- | --- | --- |
@@ -124,9 +124,9 @@ volley among the top professionals.
 | **Roger Federer executes a forehand volley. Federer displays beautiful, simple technique.** |  |  |
 
 
-- **Keep your elbow out on the forehand**. **[[Keep your elbow bent and
+- **Keep your elbow out on the forehand**. **Keep your elbow bent and
   slightly out in front of your body as you prepare for a forehand
-  volley.]{.underline}]{.mark}**\
+  volley.**\
    
 
 - **Use a compact swing.** Yes, the pros often take a big swing at the
@@ -140,9 +140,9 @@ volley among the top professionals.
   control on contact), then you have a great chance of consistently
   hitting the volley well.
 
-**[[With this in mind, in the preparation phase,
-attempt]{.underline}]{.mark}** **[[to line up the racquet face directly
-behind the flight of the oncoming ball.]{.underline}]{.mark}** In
+**With this in mind, in the preparation phase,
+attempt** **to line up the racquet face directly
+behind the flight of the oncoming ball.** In
 reality, you might be slightly higher than the oncoming ball, depending
 on the shot, but the key is to line it up quickly and not turn the
 racquet face away from the oncoming ball. Then focus on keeping the face
@@ -180,8 +180,8 @@ he said. "I am trying to improve my volleys. Is there anything you can
 tell me that might help?"
 
 He held his racquet up as if he were going to hit a forehand volley and
-said, **[["Keep the racquet work simple, and be aggressive with your
-feet. That is when I volley my best."]{.underline}]{.mark}** At first I
+said, **"Keep the racquet work simple, and be aggressive with your
+feet. That is when I volley my best."** At first I
 didn't fully understand, but I never forgot what he said. As I practiced
 my volley and improved it over the years, it became more and more clear
 how right he was. To this day, the concept of simple racquet technique
@@ -213,9 +213,9 @@ doing that, I have selected a few of the most important points on
 technique. Once again, if you improve any one of the following items,
 you will help your serve significantly.
 
-- **Relax**. **[[The serve is liquid power. In particular, make sure
+- **Relax**. **The serve is liquid power. In particular, make sure
   there is little tension in your face or racquet
-  arm.]{.underline}]{.mark}**
+  arm.**
 
 - **Balance**. Be balanced at the start.
 
@@ -345,11 +345,11 @@ in the 1990s. the same is true for women, with Billie Jean King to Chris
 Evert; to Martina Navratilova: to to Steffi Graf: to Monica Seles; to
 Martina Hingis, Lindsay Davenport, and Venus and Serena Williams today.
 
-**[[As a coach, I don't want to limit players to antiquated techniques
+**As a coach, I don't want to limit players to antiquated techniques
 and hitting styles that do not allow them to develop to their full
 potential. So, if you want to develop the next great champion, remember,
 that player will probably look different---technically speaking---from
-the champions of today.]{.underline}]{.mark}**
+the champions of today.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium                                                                                                              In Maximum Tennis, Nick Saviano outlines the 10 characteristics that top players have

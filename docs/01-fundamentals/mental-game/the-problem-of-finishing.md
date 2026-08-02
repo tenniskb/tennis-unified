@@ -237,13 +237,13 @@ result in players changing. And this takes a positive effort.
 (Otherwise, nature will take its course and you will continue to become
 stressed.)
 
-**[[In summary, the best way for a tennis player (or any athlete) to
+**In summary, the best way for a tennis player (or any athlete) to
 handle stress, losses, or setbacks is to consciously adopt a healthy and
-realistic perspective.]{.underline}]{.mark}**
+realistic perspective.**
 
-**[[And this is that tennis is just a game you started out playing for
+**And this is that tennis is just a game you started out playing for
 enjoyment, and regardless of your level, it should continue to be
-fun.]{.underline}]{.mark}**
+fun.**
 
 **[[Many aspects of the game are impossible to control so failures in
 these areas must be unemotionally accepted so you can move on. Worrying

@@ -76,8 +76,8 @@ confidence](media_true-alignment-the-two-handed-backhand/media/image4.webp)
 **Watch the backward movement of the rear leg control the timing and
 amount of rotation of the hips.**
 
-**[[The movement of the back foot controls the timing of this
-rotation]{.underline}]{.mark}** **[[and the correct timing of this
+**The movement of the back foot controls the timing of this
+rotation** **[[and the correct timing of this
 rotation naturally and automatically maximizes the acceleration of the
 hitting arms and racket.]{.mark}]{.underline}**
 
@@ -121,12 +121,12 @@ turning habits, then move to the open stance. I do the reverse. **[[I
 start with proper positioning of the back foot by working on open stance
 hitting then move to more neutral stance hitting.]{.mark}]{.underline}**
 
-**[[The backhand movement is initiated by the rear or outside foot. This
+**The backhand movement is initiated by the rear or outside foot. This
 is important because the final step into the setup is on the same
-foot.]{.underline}]{.mark}** **[[This final step is often called the
+foot.** **This final step is often called the
 \"load step\". It's called that because a player is loading his weight
 on that foot to achieve maximum leg drive into the
-shot.]{.underline}]{.mark}**
+shot.**
 
 The load step should land behind the ball in alignment with the
 player's intended target. This alignment is crucial when the player

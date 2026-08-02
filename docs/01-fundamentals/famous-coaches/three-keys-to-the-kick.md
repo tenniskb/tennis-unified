@@ -29,8 +29,8 @@ Chris Lewit's series on the kick based on the Pinpoint.)
 This can cause you to come across the ball too much with the racket and
 hit too much slice.]{.mark}***
 
-**[[The platform stance on the other hand keeps the rear leg in
-place.]{.underline}]{.mark}** It also allows you to turn your shoulders
+**The platform stance on the other hand keeps the rear leg in
+place.** It also allows you to turn your shoulders
 away from the ball further than with the pinpoint.
 
 This means more overall body rotation and also that you are more
@@ -106,7 +106,7 @@ for Roger Federer.
 One of the biggest problems I see players have with their kick serves is
 the toss. Many players tend to toss the ball straight up in the air.
 
-**[[But for a kick serve the ball needs to arc.]{.underline}]{.mark}**
+**But for a kick serve the ball needs to arc.**
 For a right hander that means it arcs or curves from your right to your
 left.
 
@@ -117,8 +117,8 @@ contact.]{.mark}]{.underline}**
 **[[Think of it as an \"X\". X marks the spot of the intersection of the
 arcs of the toss and the swing.]{.mark}]{.underline}**
 
-**[[Note that the ball has to drop to create the downward arc in the
-toss.]{.underline}]{.mark}** If it doesn't drop or stays too much to
+**Note that the ball has to drop to create the downward arc in the
+toss.** If it doesn't drop or stays too much to
 the right to begin with, it will affect the racket path and make the arc
 of the racket to the contact too flat and not enough upward.
 
@@ -141,8 +141,8 @@ Another way to get the feel for the double arc is to exaggerate it. To
 do this you can toss more radically to your left and actually make
 contact to the left of the body.
 
-**[[The more the ball is to your left the more you will have to hit
-up.]{.underline}]{.mark}** This more extreme toss can help. **[[But as
+**The more the ball is to your left the more you will have to hit
+up.** This more extreme toss can help. **[[But as
 your kick develops, you should work to move the contact back so that
 it's over the head.]{.mark}]{.underline}**
 

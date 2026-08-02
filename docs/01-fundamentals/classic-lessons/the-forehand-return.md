@@ -30,12 +30,12 @@ confidence](media_the-forehand-return/media/image2.webp)
 
 **Is it better to learn to block or swing?**
 
-To me, **[[there are two important distinctions that every player needs
+To me, **there are two important distinctions that every player needs
 to understand to become a better returner. The first distinction is
-between blocking and swinging.]{.underline}]{.mark}**
+between blocking and swinging.**
 
-**[[The other distinction is between the swings on a return and the
-swings on a regular ground stroke.]{.underline}]{.mark}** In this
+**The other distinction is between the swings on a return and the
+swings on a regular ground stroke.** In this
 article we'll look at the forehand return and see what these
 distinctions can teach us. In the next article, we'll see how it all
 applies to the backhand return.
@@ -59,24 +59,24 @@ Over my 25 years of teaching tennis, I've been asked hundreds of times
 about how to return effectively against fast serves, and also, against
 spinning serves. Do I learn to swing first? Or should I learn to block?
 
-**[[My answer is always the same. A player has to learn to take a full
+**My answer is always the same. A player has to learn to take a full
 swing at the ball first. You learn to block
-later.]{.underline}]{.mark}** If a player learns to block first he may
+later.** If a player learns to block first he may
 very well never learn how to swing. And he probably won't learn to
 block that effectively either.
 
-**[[Why? I believe that the only way to feel how to control the ball on
-the return is to swing.]{.underline}]{.mark}** It's much more subtle
+**Why? I believe that the only way to feel how to control the ball on
+the return is to swing.** It's much more subtle
 and difficult to feel this when you block. But once you have the feeling
 of controlling the return, you can translate that into the more compact
 blocking motions.
 
-**[[Blocking a return requires an abbreviated motion. But in many
+**Blocking a return requires an abbreviated motion. But in many
 technical respects, a block is really a more compact version of a swing.
-The turn is shorter.]{.underline}]{.mark}** **[[But there is definitely
-a turn.]{.underline}]{.mark}** **[[The follow-through is
-shorter.]{.underline}]{.mark}** **[[But there is some
-follow-through.]{.underline}]{.mark}** **[[Most importantly, the racket
+The turn is shorter.** **But there is definitely
+a turn.** **The follow-through is
+shorter.** **But there is some
+follow-through.** **[[Most importantly, the racket
 needs to be sufficiently in front at contact.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically
@@ -101,9 +101,9 @@ strategy because of the lack of serve and volley players. A player can
 block back a huge serve, hitting it high and deep without the fear of
 the server taking it out of the air.]{.mark}]{.underline}**
 
-**[[Against certain players this is an effective strategy because it
+**Against certain players this is an effective strategy because it
 neutralizes a big serve and puts the returner on an even playing
-field.]{.underline}]{.mark}** This is one reason Federer does so well
+field.** This is one reason Federer does so well
 against Roddick and the other big servers as well. But I believe if you
 ask a professional player what he would prefer to do on the return
 \"block it back\" or \"take a swing\" the answer would be to swing.
@@ -228,26 +228,26 @@ So what about that \"block\" return? **There are two things to
 understand that make it different from the swing return. These are grip
 and spin.**
 
-**[[When it comes to spin, the block return is usually hit with much
+**When it comes to spin, the block return is usually hit with much
 less topspin, sometimes almost flat. It is also often hit with underspin
-or slice.]{.underline}]{.mark}**
+or slice.**
 
 Effective block returns are also usually hit with some version of a
 continental or backhand grip. On the backhand side, block returns are
 almost always hit with one hand. The use of underspin also predominates
 on the backhand side. These are important differences.
 
-So **[[what do block returns have in common with the swinging returns?
+So **what do block returns have in common with the swinging returns?
 The first thing is the shoulder turn in the
-preparation.]{.underline}]{.mark}** Watch in the Sampras animation how
+preparation.** Watch in the Sampras animation how
 the motion begins with the unit turn. The shoulders turn only slightly
 less than on the drive return.
 
-**[[Second, the racket goes forward and through the
-shot.]{.underline}]{.mark}** There is a noticeable follow-through,
-though again less than the swing return. **[[The contact point on the
+**Second, the racket goes forward and through the
+shot.** There is a noticeable follow-through,
+though again less than the swing return. **The contact point on the
 block can be later than the drive, but it is still at least at the front
-edge of the torso.]{.underline}]{.mark}** This sequence of events, turn
+edge of the torso.** This sequence of events, turn
 the body, contact in front, extend through the contact into the
 follow-through will be natural for players who have learned to hit
 effective swing returns.
@@ -260,24 +260,24 @@ posture at contact.**
 
 **The Ready Position**
 
-**[[Now let's go over some of the other basics of all types of returns,
+**Now let's go over some of the other basics of all types of returns,
 starting with the ready position. The feet are at least shoulder width
-apart, but can be substantially wider.]{.underline}]{.mark}** **[[The
-base widens even further after the split step.]{.underline}]{.mark}**
+apart, but can be substantially wider.** **The
+base widens even further after the split step.**
 
 The knees are bent. Again, this can vary in amount. Some top players
 bend deeply, some only bend a little. This bending action may also
 include a substantial bend of the waist. The amount of waist bending
 varies amongst the pros. But as the toss goes up, the top players all
 straighten up, standing upright at the time of the actual return.
-**[[Like all shots in tennis a player should never be bent at the waist
-when contacting the ball if at all possible.]{.underline}]{.mark}**
+**Like all shots in tennis a player should never be bent at the waist
+when contacting the ball if at all possible.**
 
 **Footwork**
 
-The footwork at the start of the return is often overlooked. **[[The
+The footwork at the start of the return is often overlooked. **The
 footwork actually begins with one or sometimes two small steps prior to
-the split step.]{.underline}]{.mark}** **[[These steps can be either
+the split step.** **[[These steps can be either
 forward or backward.]{.mark}]{.underline}**
 
 ![A person playing tennis Description automatically generated with
@@ -292,23 +292,23 @@ serve, the ball has to land inside the service line to be good. **[[If
 you receive a ground stroke that lands inside the service line, it's
 natural to attack it with a full swing.]{.mark}]{.underline}**
 
-**[[The difference with the serve of course is that the velocity can be
-50% or a 100% higher.]{.underline}]{.mark}** Another difference is that
-on a ground stroke, you are usually already moving. **[[On the return
+**The difference with the serve of course is that the velocity can be
+50% or a 100% higher.** Another difference is that
+on a ground stroke, you are usually already moving. **On the return
 you also have to initiate the movement from a stationary position, which
-takes more time and energy.]{.underline}]{.mark}** **[[You must react
+takes more time and energy.** **You must react
 and begin your motion as soon as possible and this is where anticipation
-is needed.]{.underline}]{.mark}**
+is needed.**
 
 These are things that can make the return more difficult, but from the
-mental point of view, **[[thinking of the return as a short groundstroke
-can be very helpful.]{.underline}]{.mark}**
+mental point of view, **thinking of the return as a short groundstroke
+can be very helpful.**
 
 **[Anticipation]{.mark}**
 
-**[[Anticipation is not just one thing, it is many things. Serving
+**Anticipation is not just one thing, it is many things. Serving
 anticipation requires memory and perception skills more than anything
-else.]{.underline}]{.mark}** These skills help you recognize the
+else.** These skills help you recognize the
 patterns of speeds, spins, and placements used by a particular server.
 
 ![A person playing tennis Description automatically generated with
@@ -351,8 +351,8 @@ generated](media_the-forehand-return/media/image13.webp)
 **Subtle differences in tosses and contact points indicate differences
 in spins and placements.**
 
-**[[Another way to anticipate as a returner is pay attention to the
-toss.]{.underline}]{.mark}** If the server has a good kick serve, pay
+**Another way to anticipate as a returner is pay attention to the
+toss.** If the server has a good kick serve, pay
 attention to where he tosses the ball. Often when he plans to hit with
 more kick, the toss will move slightly further over his head, slightly
 to his left\--your right. Look at the animation of Sampras. These are

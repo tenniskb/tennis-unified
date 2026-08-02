@@ -88,21 +88,21 @@ When we use the term open stance, we have to be precise in what we mean.
 There are several versions of open stance, and judging how \"open\" the
 stance is on a given ball also depends on shot direction, among other
 factors. To understand this we have to look at the shape and dimensions
-of the tennis court itself. **[[The tennis court is a rectangle. It's
+of the tennis court itself. **The tennis court is a rectangle. It's
 defined by right angles. But the most basic shot in the game is not hit
 on a right angle\--it is hit crosscourt, on a diagonal to the lines of
-the court.]{.underline}]{.mark}**
+the court.**
 
 **What does it mean then to \"step into\" a shot? Many instructors will
 say that you step directly forward so that a line across your toes is
 parallel with the sidelines of the court. This is where the confusion
 starts.**
 
-**[[I say that \"stepping in\" means that the front foot steps in the
-direction of the shot]{.underline}]{.mark}**. **[[On a crosscourt shot
+**I say that \"stepping in\" means that the front foot steps in the
+direction of the shot**. **On a crosscourt shot
 the step would be on a diagonal. This means a line drawn across the
 edges of the toes would be parallel to the target
-line.]{.underline}]{.mark}** The sharper the crosscourt angle, the
+line.** The sharper the crosscourt angle, the
 sharper the diagonal.
 
 ![A person playing tennis Description automatically generated with
@@ -115,18 +115,18 @@ shot?**
 Often I feel the court lines themselves confuse players in terms of
 direction. If we were able to move the court lines with each shot to
 line them up with the target, footwork would make more sense to the
-general player. **[[When hitting crosscourt the trajectory of the shot
+general player. **When hitting crosscourt the trajectory of the shot
 does not match the vertical court lines so why should the
-stance?]{.underline}]{.mark}**
+stance?**
 
 In learning proper alignment, this same basic principle applies when it
 comes to open stance hitting. The player may not place his front foot on
 the court, but **[[when he begins his open stance swing, a line drawn
 from the back foot across the front foot should still be more or less on
 the target line.]{.mark}]{.underline}** With open stance the front foot
-may be in the air, but the same geometry applies. **[[You can draw a
+may be in the air, but the same geometry applies. **You can draw a
 line from the back foot to the front foot that is parallel to the flight
-of the ball.]{.underline}]{.mark}**
+of the ball.**
 
 If you learn to look closely or spend a lot of time in the Stroke
 Archive, you'll see this alignment in a significant percentage of the
@@ -140,11 +140,11 @@ generated](media_what-is-open-stance/media/image6.webp)
 **The front foot is in the air, but notice the alignment of the stance
 to the target line.**
 
-**[[After the open stance hit the front foot will often come back around
+**After the open stance hit the front foot will often come back around
 with the body rotation and land on the players left
-side.]{.underline}]{.mark}** **[[But look at the alignment during the
+side.** **But look at the alignment during the
 critical moments around the contact. The feet are aligned on the
-diagonal of the shot line.]{.underline}]{.mark}** **Whether one foot or
+diagonal of the shot line.** **Whether one foot or
 both feet or neither foot is on the court during the hit is not a
 function of alignment per se. Rather this is a [function of ball
 height]{.underline} and [the player's ability to unload upward into the
@@ -168,9 +168,9 @@ generated](media_what-is-open-stance/media/image7.webp)
 
 **More extreme open stance gives players more advanced options.**
 
-**[[But it's a fatal mistake for recreational players to immediately
+**But it's a fatal mistake for recreational players to immediately
 copy the more extreme versions in learning open
-stance.]{.underline}]{.mark}** It is far more difficult to understand
+stance.** It is far more difficult to understand
 and feel the basic turn with an extreme open stance. Players at lower
 levels who stress this too early tend to end up with less body turn and
 less rotation\--the supposed benefits of the open stance in the first
@@ -195,25 +195,25 @@ confidence](media_what-is-open-stance/media/image8.webp)
 **Understanding the role of the back foot in alignment is the key to the
 open stance forehand.**
 
-**[[To gain the proper alignment to the target, what foot would you
+**To gain the proper alignment to the target, what foot would you
 initially align with the incoming ball? In every case, it is the rear
-foot, or the right foot for a righthander.]{.underline}]{.mark}** It is
+foot, or the right foot for a righthander.** It is
 sometimes also called the outside foot. ([Click
 here](../Footwork/Court%20Movement%20-%20The%20Forehand.docx) for Bob
 Hansen's excellent article on positioning on the forehand.) This should
 be done when \"stepping in\". It's also the same for \"true\" open
-stance hitting of all kinds. **[[The positioning of the rear foot is the
-most important point.]{.underline}]{.mark}**
+stance hitting of all kinds. **The positioning of the rear foot is the
+most important point.**
 
-**[[The first aspect of correct alignment is what I call learning to
+**The first aspect of correct alignment is what I call learning to
 \"chase\" or \"lead\" with the rear foot to the incoming
-ball.]{.underline}]{.mark}** Chasing with the rear foot is critical but
+ball.** Chasing with the rear foot is critical but
 is rarely explained or understood in most lessons.
 
-If you watch top players you will often see them **[[take a number of
+If you watch top players you will often see them **take a number of
 small positioning or adjusting steps around the ball in order to create
 this critical alignment between the rear foot and the incoming
-ball.]{.underline}]{.mark}**
+ball.**
 
 This chasing aspect is also used even when moving forward to a short
 ball. The concept of chasing with the rear foot is probably the toughest
@@ -260,30 +260,30 @@ confidence](media_what-is-open-stance/media/image10.webp)
 **Watch how Safin makes the initial turn, then recreates a similar
 position behind the ball.**
 
-**[[This means that the player should learn to step out with the rear
-foot.]{.underline}]{.mark}** The body turns but the left foot should
+**This means that the player should learn to step out with the rear
+foot.** The body turns but the left foot should
 stay on the left side, with the left foot up on the toes. The goal
 should be to achieve the full turn position of the upper body on this
 first step. Once he has a feel for this initial full turn without a
 cross-step, the player should learn to move with the goal of recreating
 this position behind the ball.
 
-This means he **[[reaches the ready to hit or step-up position with the
+This means he **reaches the ready to hit or step-up position with the
 right foot, with the left foot still on the left side. At the set up,
 the weight is on the right rear foot with the toe of the front foot on
-the ground just for balance.]{.underline}]{.mark}**
+the ground just for balance.**
 
-**[[The upper body should be as upright as
-possible.]{.underline}]{.mark}** **[[The hip alignment is perpendicular
-to the net or as close to that as possible]{.underline}]{.mark}**.
+**The upper body should be as upright as
+possible.** **The hip alignment is perpendicular
+to the net or as close to that as possible**.
 Aligning with the rear foot also allows for greater adjustability for
 irregular bounces that do occur more often in today's game. It allows
 more freedom of placing (or not placing) the front foot where necessary
 to make last minute adjustments.
 
-**[[From this proper foot alignment, the angle of the stance can now
+**From this proper foot alignment, the angle of the stance can now
 range from 45 to 90 degrees to the baseline, depending on the angle of
-the diagonal of the shot.]{.underline}]{.mark}** The player can hit with
+the diagonal of the shot.** The player can hit with
 a mild open stance, or step into the shot and hit with the front foot on
 the court. The alignment is the same.
 
@@ -301,8 +301,8 @@ generated](media_what-is-open-stance/media/image11.webp)
 
 **More rotation equals more torque equal more power and spin.**
 
-**[[The second advantage is the increased potential for creating
-topspin.]{.underline}]{.mark}** Open-stance hitting has made creating
+**The second advantage is the increased potential for creating
+topspin.** Open-stance hitting has made creating
 topspin possible on all types of balls. The more traditional player with
 an eastern grip who tries to step in on every ball is only comfortable
 with creating topspin on lower balls. **[[Open stance hitting allows
@@ -352,9 +352,9 @@ They do this even by taking an extra step to the side with the rear foot
 after the first landing. The positioning for recovery is still far more
 favorable.
 
-**[[The fifth and final advantage of open-stance hitting is the better
+**The fifth and final advantage of open-stance hitting is the better
 use of the court in shot making, particularly in terms of creating
-angle.]{.underline}]{.mark}** Aligning the feet to the true direction of
+angle.** Aligning the feet to the true direction of
 the shot, and not with the court, opens up the possibility of greater
 and greater angles. Hitting with a traditional closed stance makes these
 kinds of shots difficult because of the necessity to swing across the

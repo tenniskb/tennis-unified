@@ -86,9 +86,9 @@ by John Yandell in his article entitled \"The Myth of the Wrist.\"
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Most players and coaches would acknowledge that ***[[the most important
+Most players and coaches would acknowledge that ***the most important
 characteristic of the power serve in tennis is the speed of the ball,
-assuming the speed can be controlled.]{.underline}]{.mark}*** Further,
+assuming the speed can be controlled.*** Further,
 the speed of the ball is determined in large part by the speed of the
 racquet at contact. The speed of the racquet is determined by the
 intricate combined motion of all the segments of the body.
@@ -335,8 +335,8 @@ confidence](media_the-serve-and-tennis-science/media/image9.webp)
 optimal racquet speed contribution from ALL available segmental
 sources.**
 
-**[[In practical terms, \"Torque\" is simply the turning or rotational
-effect caused by a force.]{.underline}]{.mark}** In the case of the
+**In practical terms, \"Torque\" is simply the turning or rotational
+effect caused by a force.** In the case of the
 serve, applying torque to a body segment tends to cause that segment to
 rotate. But torque can be applied as a result of direct muscular action,
 or as a result of the motion of adjacent body segments. The latter form
@@ -353,11 +353,11 @@ upward swing, leads to impressive joint rotation speed leading into
 contact. So impressive, that any last ditched effort to increase it at
 contact by consciously \"snapping the wrist\" would likely be fruitless.
 
-**[[The same argument could be expanded to the elbow extension. The data
+**The same argument could be expanded to the elbow extension. The data
 indicate that forearm rotation (due to elbow extension) is critical to
 the swing pattern characteristics, particularly in the second half of
 the upward swing phase. Yet, it is likely that part of this rotation is
-due to motion-dependent effects during the serve.]{.underline}]{.mark}**
+due to motion-dependent effects during the serve.**
 In studies done in throwing, as an example, a nerve blocking agent that
 rendered the triceps muscle (elbow extensor) unusable was given to
 subjects. The results showed minimal differences in throwing attributes,

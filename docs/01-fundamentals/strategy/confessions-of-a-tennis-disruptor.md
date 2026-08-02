@@ -170,9 +170,9 @@ a baseball pitcher who mixes up his pitches or a basketball player who
 makes the guy who shoots better from the left side move to his
 right.]{.mark}]{.underline}**
 
-Ten-time Grand Slam champion Bill Tilden wrote many years ago**[[, \"The
+Ten-time Grand Slam champion Bill Tilden wrote many years ago**, \"The
 primary object of tennis is to break up your opponent's game. Never give
-your opponent a chance to hit a shot he likes.\"]{.underline}]{.mark}**
+your opponent a chance to hit a shot he likes.\"**
 
 Back in 2010, writing an article titled \"Winning Ugly, Revisited,\" I
 interviewed the man who coined that phrase, Brad Gilbert. In the course

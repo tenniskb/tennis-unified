@@ -63,9 +63,9 @@ I also totally agreed with Paul's premise of using Jeff's strength -
 his forehand - to start the approach sequence. Jeff was regularly
 hurting players with his fearsome topspin drives.
 
-**[[The plan was that when the ball was short, Jeff would hit big
+**The plan was that when the ball was short, Jeff would hit big
 approaches, mainly off his forehand, but using his backhand too when the
-opportunity was there.]{.underline}]{.mark}** **[These power approaches
+opportunity was there.** **[These power approaches
 would take away the opponent's time and force him to hit passes with a
 high degree of difficulty.]{.underline}**
 

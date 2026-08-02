@@ -17,8 +17,8 @@ I treat the point that can get me or my opponent to an ad point as a
 major moment because it offers a major reward. That reward is the
 opportunity to win (or convert) a game.
 
-**[[I call any point that precedes an ad point a Set-up
-Point.]{.underline}]{.mark}** The point played at love-30, 30-love,
+**I call any point that precedes an ad point a Set-up
+Point.** The point played at love-30, 30-love,
 15-30, 30-15, 30-30, and deuce are all Set-up Points for one or both
 players.
 

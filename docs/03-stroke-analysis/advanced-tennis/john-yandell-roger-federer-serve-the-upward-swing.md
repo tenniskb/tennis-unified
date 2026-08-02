@@ -163,9 +163,9 @@ That low point occurs sooner in the motion, as the racket falls from the
 power position, typically with the shaft of the racket angled across the
 back at about a 30 degree angle.]{.mark}]{.underline}***
 
-***[[From there the racket tip definitely moves upward to the pro drop.
+***From there the racket tip definitely moves upward to the pro drop.
 It also moves to the player's right - and this is key\--aligning along
-the right side of the player's body.]{.underline}]{.mark}***
+the right side of the player's body.***
 **[Although the low point is equally critical in the biomechanical
 motion, I believe it happens naturally if players move to the pro drop.
 Reaching this drop position is important because it is the starting
@@ -235,9 +235,9 @@ slightly raised, but just slightly.
 **External Rotation**
 
 And here we get to our first technical biomechanical term, \"external
-rotation.\" **[[To achieve the pro drop with the upper arm and shoulder
+rotation.\" **To achieve the pro drop with the upper arm and shoulder
 basically aligned, the player must rotate the upper arm quite far back
-in the shoulder joint.]{.underline}]{.mark}** ***[[This backwards
+in the shoulder joint.** ***[[This backwards
 rotation is what biomechanists call external
 rotation.]{.mark}]{.underline}***
 
@@ -310,9 +310,9 @@ you'll see what this movement really looks like. Now imagine that flex
 at the racket drop and you understand radial deviation in the service
 motion.
 
-**[[Just as external rotation sets up the upper arm to rotate in the
+**Just as external rotation sets up the upper arm to rotate in the
 opposite direction, radial deviation places the wrist in a position that
-allows for a corresponding, opposite countermove.]{.underline}]{.mark}**
+allows for a corresponding, opposite countermove.**
 We'll see what this is and how it works as as the motion moves upward
 to the contact.
 
@@ -367,9 +367,9 @@ confidence](media_john-yandell-roger-federer-serve-the-upward-swing/media/image1
 
 **Watch the upper arm and elbow angle upward: shoulder abduction.**
 
-So what is \"shoulder abduction\"? **[[Hold your arm straight out to the
+So what is \"shoulder abduction\"? **Hold your arm straight out to the
 side. Now raise it from the shoulder. That's shoulder abduction as it
-relates to the serve.]{.underline}]{.mark}**
+relates to the serve.**
 
 You can see this clearly in Federer's motion. It actually starts the
 upward swing. The shoulder raises the upper arm. Watch the angle of the

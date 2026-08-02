@@ -12,25 +12,25 @@ forms. And it seems to be evolving yet again. The volley is beginning to
 reappear and assume, at the highest levels of the game, increasing
 importance.]{.underline}**
 
-**[[But it is not the volley of yesteryear, that of McEnroe, Edberg,
+**But it is not the volley of yesteryear, that of McEnroe, Edberg,
 Rafter, or even Henman. Their volleys were of the chip and charge, serve
 and volley variety, usually requiring a maneuvering volley or two before
-finishing the point.]{.underline}]{.mark}**
+finishing the point.**
 
-**[[By contrast, the new volley is a transition volley, hit after a
+**By contrast, the new volley is a transition volley, hit after a
 severe groundstroke or serve has forced the opponent off balance and
-onto the defense.]{.underline}]{.mark}** **[[The volleyer darts forward
+onto the defense.** **The volleyer darts forward
 opportunistically when he or she senses that the reply from an
 out-of-position opponent will be hit softly or inaccurately Instead of
 multiple volleys, the point is usually ended with the first volley or,
-at most, the second.]{.underline}]{.mark}**
+at most, the second.**
 
 These days, Roger Federer is the most obvious practitioner of this type
-of transition volley **[[Although adept at the net and quite capable of
+of transition volley **Although adept at the net and quite capable of
 mounting an old-style serve and volley attack, he rarely does it.
 Instead, he serves and volleys sporadically, just enough to keep his
 opponent guessing and insecure about hitting low-risk, deep, floating
-returns.]{.underline}]{.mark}**
+returns.**
 
 ![A person playing tennis Description automatically
 generated](media_winning-matches-the-transition-volley/media/image2.webp)
@@ -69,43 +69,43 @@ confidence](media_winning-matches-the-transition-volley/media/image3.webp)
 of the game, particularly on the faster surfaces, the players need
 something extra. And they are starting to recognize this.**
 
-**[[This play works particularly well on an opponent's backhand side -
+**This play works particularly well on an opponent's backhand side -
 especially if the shot is a two-hander. When stretched wide and off
 balance, a player will often be forced to hit with one hand, a
 physically weaker shot, and one that generally necessitates a defensive,
-sliced return]{.underline}]{.mark}**. **[[But even players with strong,
+sliced return**. **But even players with strong,
 one-handed backhands will resort to the defensive slice if forced
-severely.]{.underline}]{.mark}**
+severely.**
 
-**[[And with the ball moving slower and higher over the net (in an
+**And with the ball moving slower and higher over the net (in an
 attempt to maintain depth), the best percentage play for hitting a
-winner is to take the ball in the air.]{.underline}]{.mark}** **[[This
+winner is to take the ball in the air.** **This
 reduces the opponent's recovery time and puts one in position for an
-easy kill if the first volley is not conclusive.]{.underline}]{.mark}**
+easy kill if the first volley is not conclusive.**
 
-**[[The alternative is to allow the ball to sail back to the baseline,
+**The alternative is to allow the ball to sail back to the baseline,
 giving the opponent more time to get back into the court, and to go for
 a winner with a groundstroke. Because of time and distance
 considerations, this shot must be hit very hard and close to the lines,
-imposing greater risk of error.]{.underline}]{.mark}**
+imposing greater risk of error.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_winning-matches-the-transition-volley/media/image4.webp)
 
 **Another important element: occasional serve and volley.**
 
-**[[A secondary benefit of the transition volley is that it will cause
+**A secondary benefit of the transition volley is that it will cause
 one's opponent to make more errors. Opponents get jumpy when surprise
 volleys preclude them from hitting low-risk, defensive returns and
 regaining proper court position. They are now forced to hit more severe
-and perilous shots from awkward positions.]{.underline}]{.mark}**
+and perilous shots from awkward positions.**
 
-**[[This factor also operates as a result of the occasional serve and
+**This factor also operates as a result of the occasional serve and
 volley. They no longer dare to hit the soft, deep, chip return off the
 big serve lest it be intercepted in the air. Now they have to hit with
 less margin against a fast-moving ball that is difficult to control in
 the best of circumstances. The result - more serve return
-errors.]{.underline}]{.mark}**
+errors.**
 
 One might question why Federer and the others have opted to give up on
 the old serve and volley, chip and charge type of volley and replace it
@@ -113,13 +113,13 @@ with the new transition volley? The answer, of course, lies with
 today's more powerful and accurate groundstrokes, heavier balls, and
 slower courts.
 
-**[[In order to profitably attack at the net these days, one must come
+**In order to profitably attack at the net these days, one must come
 forward behind heavier artillery than in days of
-yore.]{.underline}]{.mark}** (In fact, in the old days of sliced
+yore.** (In fact, in the old days of sliced
 backhands, fast courts, and light balls, one almost had an engraved
-invitation to come to net.) **[[Now the serve returns and passing shots
+invitation to come to net.) **Now the serve returns and passing shots
 are hit too hard and too accurately for players to venture forward other
-than behind substantial heat.]{.underline}]{.mark}**
+than behind substantial heat.**
 
 ![A person playing tennis Description automatically
 generated](media_winning-matches-the-transition-volley/media/image5.webp)
@@ -127,10 +127,10 @@ generated](media_winning-matches-the-transition-volley/media/image5.webp)
 **The current winning style: power baseline tennis with transition
 attacking.**
 
-**[[If today's top players are allowed to remain on balance and given
+**If today's top players are allowed to remain on balance and given
 time to set up and hit passing shots, the odds appear to be against even
 the most proficient volleyers, with the possible exception of matches
-played on grass.]{.underline}]{.mark}**
+played on grass.**
 
 **[Tennis is constantly evolving as players come up with bright ideas of
 ways to in response. Tennis, in its early years, was a game played
@@ -142,17 +142,17 @@ had the advantage on fast courts against this type of player. Hence the
 serve and volleyers dominated the game for the next 25
 years.]{.underline}**
 
-**[[To counter the volleyers, players developed topspin groundstrokes
+**To counter the volleyers, players developed topspin groundstrokes
 while, at the same time, the courts were slowed down and the balls made
-heavier]{.underline}]{.mark}**. **[[By the mid-1970's, Borg, Connors,
+heavier**. **By the mid-1970's, Borg, Connors,
 Vilas and the rest killed off most of the volleyers, and the game was
 dominated by baseliner who won largely by
-attrition.]{.underline}]{.mark}**
+attrition.**
 
-**[[The next major development, led by Ivan Lendl, was the aggressive
+**The next major development, led by Ivan Lendl, was the aggressive
 baseliner, who won by attacking from the baseline. And that has been the
 trend up until today, with most players winning as aggressive
-baseliners.]{.underline}]{.mark}**
+baseliners.**
 
 Of course, there were plenty of exceptions to these trends. John McEnroe
 and Stephan Edberg were serve and volleyers during the aggressive
@@ -161,10 +161,10 @@ baseliner in the days of the serve and volleyers, and Maurice McGlochlin
 won by serving and volleying in the 1920's when the early baseliners
 ruled.
 
-**[[But these people were exceptional in their times and we are
+**But these people were exceptional in their times and we are
 discussing general trends. And the newest general trend appears to be
 that of the aggressive baseliner additionally armed with the transition
-volley.]{.underline}]{.mark}**
+volley.**
 
 Read More From Allen!
 

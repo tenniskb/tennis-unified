@@ -6,8 +6,8 @@
 
 ### Scott Murphy
 
-**[[It's generally accepted that the serve is one of the two most
-important shots in tennis]{.underline}]{.mark}** (the other is the
+**It's generally accepted that the serve is one of the two most
+important shots in tennis** (the other is the
 return of serve), because it starts every point, and is the only shot
 not dependent on how the ball is delivered off the opponent's racquet.
 
@@ -56,8 +56,8 @@ very little margin for error. When players try to hit the ball hard,
 this serve never goes in. Under pressure, all too often it leads to a
 dink or what I call the \"granny tap\" serve.
 
-**[[The correct service grips are the continental (the initial grip to
-learn]{.underline}]{.mark}**), and for some players, even the eastern
+**The correct service grips are the continental (the initial grip to
+learn**), and for some players, even the eastern
 backhand.
 
 But the rub in learning the service grip is that for most players, their
@@ -109,7 +109,7 @@ but either way two things are imperative.
 
 
 **\
-The first is that the [[racquet face stays closed]{.underline}]{.mark}
+The first is that the racquet face stays closed
 (an open face on the takeback will force the elbow into a permanently
 low position).**
 
@@ -117,16 +117,16 @@ low position).**
 racquet is straight up and on edge]{.mark} (hitting surface parallel to
 the side fence).]{.underline}**
 
-**[[This is the cocking position. At this point the elbow is bent
-creating a \"V\" formation from the]{.underline}]{.mark}** **[[shoulder
-to the elbow to the hand.]{.underline}]{.mark}** This cocking of the
+**This is the cocking position. At this point the elbow is bent
+creating a \"V\" formation from the** **shoulder
+to the elbow to the hand.** This cocking of the
 racquet is a part of what's called the \"trophy position\" that I'll
 discuss in more detail in part two.
 
-**[[The cocking position automatically begets the next phase, the
-racquet drop]{.underline}]{.mark}**. **[[As the elbow is driven forward
+**The cocking position automatically begets the next phase, the
+racquet drop**. **As the elbow is driven forward
 and upward, the racquet head responds by dropping straight down more or
-less perpendicular to the back.]{.underline}]{.mark}**
+less perpendicular to the back.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person wearing glasses Description automatically generated with low
@@ -144,9 +144,9 @@ out.
 **[[From here the racquet begins its rapid ascent to contact.]{.mark}
 [This is the upward swing to the ball. This is where it can get tricky
 and discouraging for the uninitiated.]{.mark}]{.underline}**
-**[[There's great incentive here though, because this movement, when
+**There's great incentive here though, because this movement, when
 correct, provides the serve's single greatest power
-source.]{.underline}]{.mark}**
+source.**
 
 When the movement is right there is, an internal rotation of the
 shoulder as the racquet is driven upward. This is followed by pronation
@@ -222,32 +222,32 @@ your toss is all over the place!
 ###  The Toss
 
 To me, \"toss\" is a bit of a misnomer because it suggests a throwing
-motion**[[. I think of the toss as more of a \"lift\" in which there's
-a delicate placement of the ball]{.underline}]{.mark}**. **Prior to
+motion**. I think of the toss as more of a \"lift\" in which there's
+a delicate placement of the ball**. **Prior to
 releasing the ball it should be [on the pads of your
-fingers]{.underline}, not the tips and not back in the palm.** **[[The
+fingers]{.underline}, not the tips and not back in the palm.** **The
 palm should be facing up, the arm extended and lifted by means of the
-shoulder.]{.underline}]{.mark}**
+shoulder.**
 
 Make sure the arm drops so that your hand is just inside the thigh of
 your front leg, otherwise you won't get enough momentum to avoid
 forcing the toss. The release of the ball should be as high as you can
 without tossing it back over your shoulder.
 
-**[[I liken this release to the petals of a flower
-opening.]{.underline}]{.mark}** **[[The]{.underline}]{.mark}**
-**[[fingers should \"spread\" away from the ball]{.underline}]{.mark}**
+**I liken this release to the petals of a flower
+opening.** **The**
+**fingers should \"spread\" away from the ball**
 not \"snap\" away from it. A great way to practice this is to work at
 tossing the ball so it doesn't spin on the way up.
 
 High-speed video has shown that Sampras is a master of this and he does
 it repeatedly during matches! Once you can do this, notice how quiet and
-relaxed the lift has become. In the long run **[[it's more the idea
+relaxed the lift has become. In the long run **it's more the idea
 behind the no- spin toss that will make you a better
-tosser.]{.underline}]{.mark}**
+tosser.**
 
-**[[The high, gentle release will lead to a more accurate placement of
-the ball on the toss.]{.underline}]{.mark}**
+**The high, gentle release will lead to a more accurate placement of
+the ball on the toss.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A person holding a fruit Description automatically generated with low                                                                                               ![A person writing on a blackboard Description automatically generated with medium
@@ -257,16 +257,16 @@ the ball on the toss.]{.underline}]{.mark}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A study has shown that **[[the world's top players generally toss to a
+A study has shown that **the world's top players generally toss to a
 spot somewhere between 8 and 12 inches higher than their point of
 contact. The toss needs to be at least as high as the length of your
 hitting arm and racquet but that extra height (within reason) allows for
 better synchronization of your body to the contact
-point.]{.underline}]{.mark}**
+point.**
 
-Another way to practice this is to **[[stand at tossing arms length from
-the fence]{.underline}]{.mark}** **[[and reach up and touch the fence at
-the length of your hitting arm and racquet.]{.underline}]{.mark}** Now
+Another way to practice this is to **stand at tossing arms length from
+the fence** **and reach up and touch the fence at
+the length of your hitting arm and racquet.** Now
 pick a spot about a foot higher and practice consistently lifting the
 ball to that spot.
 
@@ -274,25 +274,25 @@ ball to that spot.
   ![A person holding a tennis racket Description automatically
   generated](media_private-lessons-the-serve/media/image16.jpg)
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **[[The tossing arm moves to extensions after the release and stays there until the racquet is cocked.]{.underline}]{.mark}**
+  **The tossing arm moves to extensions after the release and stays there until the racquet is cocked.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Your tossing arm should continue upward after the ball is released
+**Your tossing arm should continue upward after the ball is released
 so that it's extended straight up as if pointing at the
-ball.]{.underline}]{.mark}**
+ball.**
 
 A common mistake is to discard the arm the instant the ball is released.
 Don't do this! It tends to speed up the hitting motion, prematurely
 open the shoulders and create a jack-knife effect on the body.
 
-**[[The reality is the arm should remain extended until the moment the
-racquet reaches the tip up or cocked position.]{.underline}]{.mark}**
+**The reality is the arm should remain extended until the moment the
+racquet reaches the tip up or cocked position.**
 
-**[[When the tossing arm does release it should fold into your
+**When the tossing arm does release it should fold into your
 mid-section with the elbow bent at more or less 90 degrees. It can
 either stay there for the remainder of the serve, or (more commonly)
-precede the racquet to the follow through.]{.underline}]{.mark}**
+precede the racquet to the follow through.**
 
 Work on these elements individually, then simultaneously, and get ready
 for part two!

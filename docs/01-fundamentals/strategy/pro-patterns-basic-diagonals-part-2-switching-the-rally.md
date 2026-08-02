@@ -20,9 +20,9 @@ game does my opponent have? What are my inherent strengths and what are
 my opponent's weaknesses? How can the strengths of my style prey upon
 the weaknesses of his style?
 
-**[[It's that simple but few players break it down to the essence.
+**It's that simple but few players break it down to the essence.
 It's not about strokes, it's about points. It's no different if you
-want to win in the pros or any other level.]{.underline}]{.mark}**
+want to win in the pros or any other level.**
 
 The first article looked at the multiple variations in baseline
 exchanges, and how pro players use their most favorable diagonal to
@@ -44,8 +44,8 @@ and to force them to play their preferred patterns. For this reason, the
 patterns in most pro matches are much more complicated than simple
 crosscourt exchanges.
 
-**[[It's a chess game with many options and
-decisions.]{.underline}]{.mark}** So, let's investigate the
+**It's a chess game with many options and
+decisions.** So, let's investigate the
 possibilities. Let's look at patterns from actual professional points
 and see how the top players deal with the battle for control. In this
 article we'll start by analyzing the forehand and backhand diagonals.
@@ -78,14 +78,14 @@ confidence](media_pro-patterns-basic-diagonals-part-2-switching-the-rally/media/
 **Switching the rally on a ball in the middle gives you more room for
 error.**
 
-**[[The intelligent opponent will try to switch the rally on a ball
+**The intelligent opponent will try to switch the rally on a ball
 which is closer to the middle than to the sideline, as he will have more
-room for error on the directional change.]{.underline}]{.mark}**
-**[[Thus, your objective is to pin your opponent in the corner with
+room for error on the directional change.**
+**Thus, your objective is to pin your opponent in the corner with
 enough pace and angle to keep him from switching directions to a rally
 which favors him. If you can achieve this, then you will play your
 favorable crosscourt rally and should win the
-match.]{.underline}]{.mark}**
+match.**
 
 ![A person playing tennis Description automatically generated with
 medium

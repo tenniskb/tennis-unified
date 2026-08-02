@@ -26,7 +26,7 @@
 |  |  |
 |  | For the backhand, start in a good, balance ready position, with your feet spread a little more than shoulder width, the knees flexed, and the body upright. |
 |  |  |
-|  | **[[The initial move begins with a push with the Inside Foot and, at the same time, a step with the Outside Foot toward the ball.]{.underline}]{.mark}** |
+|  | **The initial move begins with a push with the Inside Foot and, at the same time, a step with the Outside Foot toward the ball.** |
 |  |  |
 |  | Again, the push is with the Inside Foot. The step to the ball is with the Outside Foot. |
 |  |  |
@@ -41,24 +41,24 @@
 | ![A person playing tennis Description automatically generated with medium | **Alignment** |
 | confidence](media_court-movement-the-backhand/media/image3.webp) | The Initial Move positions the player to hit, and more importantly, to move to the ball. |
 |  |  |
-| **Gauge your distance and position to the ball with the Outside Foot.** | **[[As with the forehand, the running style to the ball should be smooth and relaxed. Maintain a balanced posture.]{.underline}]{.mark}** |
+| **Gauge your distance and position to the ball with the Outside Foot.** | **As with the forehand, the running style to the ball should be smooth and relaxed. Maintain a balanced posture.** |
 |  |  |
 |  | This allows for effective sighting of the ball, proper alignment, and the ability to change directions quickly. |
 |  |  |
-|  | **[[As you move, gauge the distance and position to the ball with the Outside Foot.]{.underline}]{.mark}** Just as with the forehand, you should align the Outside Foot |
+|  | **As you move, gauge the distance and position to the ball with the Outside Foot.** Just as with the forehand, you should align the Outside Foot |
 |  | behind the line of the flight of the ball. |
 |  |  |
 | ![A person running on a track Description automatically generated with low | **Two Options** |
-| confidence](media_court-movement-the-backhand/media/image4.webp) | Once I am aligned behind the ball, as was the case with the forehand, I have two options for my hitting stance. **[[I can step forward into the line of the shot with my |
-|  | right foot as I hit.]{.underline}]{.mark}** |
+| confidence](media_court-movement-the-backhand/media/image4.webp) | Once I am aligned behind the ball, as was the case with the forehand, I have two options for my hitting stance. **I can step forward into the line of the shot with my |
+|  | right foot as I hit.** |
 |  |  |
-|  | **[[I can also hit effectively off the outside foot, keeping the stance open.]{.underline}]{.mark}** If you watch players like Roger Federer, you will see that the open |
+|  | **I can also hit effectively off the outside foot, keeping the stance open.** If you watch players like Roger Federer, you will see that the open |
 |  | stance has become more and more common on the one-handed backhand at the highest levels of the game. |
 | **Once you are aligned behind the ball, you can step into the backhand or hit open stance.** |  |
 | ![A person playing tennis Description automatically generated with medium | **Recovery** |
 | confidence](media_court-movement-the-backhand/media/image5.webp) | Skilled recovery allows you to get back into position for the next ball as efficiently as possible the fewest possible steps. |
 |  |  |
-| **To recover, exchange the Outside Foot with the Inside Foot, and shuffle back smoothly and with good balance.** | **Again, your goal is to return to the [[center of your opponent's possible angles]{.underline}]{.mark} and [re-establish a good ready position before he |
+| **To recover, exchange the Outside Foot with the Inside Foot, and shuffle back smoothly and with good balance.** | **Again, your goal is to return to the center of your opponent's possible angles and [re-establish a good ready position before he |
 |  | hits.]{.underline}** |
 |  |  |
 |  | The key to an efficient recover is to exchange the position of the feet after the hit. Watch how the outside foot comes back and replaces the inside foot. |
@@ -66,7 +66,7 @@
 |  | This is followed by shuffling back to the middle. **[Your feet should brush the court, your movement is smooth and rhythmic with [no jumping.]{.underline}]{.mark}** |
 | The goal is to re-establish the ready position prior to the opponent's hit. Now you can move with equal ease to reach a ball in either direction. There is no wasted motion, so I can stay ahead or gain ground in the point, or make up ground when I'm behind. |  |
 |  |  |
-| **[[Setting up with the outside foot means I have gone no further than is necessary to hit.]{.underline}]{.mark}** The recovery exchange means that in the very next step I have begun to prepare for the next ball. |  |
+| **Setting up with the outside foot means I have gone no further than is necessary to hit.** The recovery exchange means that in the very next step I have begun to prepare for the next ball. |  |
 | ![A person holding a tennis racket Description automatically | **Two - Handed Backhand** |
 | generated](media_court-movement-the-backhand/media/image6.webp) | The movement pattern is exactly the same for the two-handed backhand. The first component is the Initial Move. Again, this is a push with the inside foot and a step |
 |  | with the outside foot. |

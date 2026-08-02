@@ -50,15 +50,15 @@ ball speed.
 
  **The Unit Turn**
 
-**[[Although the overhead is like the serve in obvious ways, in one
+**Although the overhead is like the serve in obvious ways, in one
 basic way it is more like the groundstrokes or volleys. This is because
-it begins with a unit turn.]{.underline}]{.mark}**
+it begins with a unit turn.**
 
 On the serve, the player starts stationary with his feet and shoulders
-already sideways or at least partially sideways to the net. **[[On the
+already sideways or at least partially sideways to the net. **On the
 overhead, the player generally is starting from a ready position. This
 means he must first turn and achieve this sideways
-alignment.]{.underline}]{.mark}** Not making this initial move is a
+alignment.** Not making this initial move is a
 fundamental problem for many players who start moving to the ball first.
 Without a good unit turn your overhead will never have power or
 consistency.
@@ -69,27 +69,27 @@ generated](media_the-pro-overhead/media/image3.webp)
 
 **The turn sideways with the feet and torso within the first steps.**
 
-**[[This unit turn on the overhead has two related parts: the movement
-of the feet and the movement of the torso.]{.underline}]{.mark}** Watch
+**This unit turn on the overhead has two related parts: the movement
+of the feet and the movement of the torso.** Watch
 in the animations how quickly the players turn sideways. The players
 start in the ready position with the shoulders facing the net and the
-tips of the toes pointing more or less straight ahead. **[[Basically,
+tips of the toes pointing more or less straight ahead. **Basically,
 they turn completely sideways within the first two to three
-steps.]{.underline}]{.mark}**
+steps.**
 
 The step pattern differs depending on where the player is on the court,
-and where the lob is hit. But the result is basically the same. **[[At
+and where the lob is hit. But the result is basically the same. **At
 the end of the unit turn, the tips of the toes are pointed sideways at
 the sideline. The torso has turned usually 90 degrees, until it is
-square with the net.]{.underline}]{.mark}**
+square with the net.**
 
-A good key to use when learning this position is to **[[point your front
+A good key to use when learning this position is to **point your front
 shoulder blade toward the ball. If the ball were to fall all the way, it
-would hit the player on the front shoulder blade.]{.underline}]{.mark}**
+would hit the player on the front shoulder blade.**
 
 The big difference in the unit turn compared with the forehand, of
-course**[[, is that as you turn on the overhead, the arms start rise
-upwards above the shoulders.]{.underline}]{.mark}**
+course**, is that as you turn on the overhead, the arms start rise
+upwards above the shoulders.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-pro-overhead/media/image4.webp)
@@ -98,26 +98,26 @@ generated](media_the-pro-overhead/media/image4.webp)
 
 But the wind up here is not identical to the serve. Unlike the serve
 where players usually drop the racket arm at least initially in the wind
-up, the arm motion is directly upward. **[[The overhead wind-up motion
+up, the arm motion is directly upward. **The overhead wind-up motion
 is actually more similar to the super abbreviated serve windup of a
 player like Andy Roddick than it is to most serve windups, probably
-including yours.]{.underline}]{.mark}** So don't make another critical
+including yours.** So don't make another critical
 mistake of using a long circular motion.
 
-**[[After the windup starts upwards, it continues until you are in a
+**After the windup starts upwards, it continues until you are in a
 position resembling the trophy position on the
-serve.]{.underline}]{.mark}** I say resembling, because there isn't an
-exact match. **[[Typically, the player's left arm will be pointed
-directly upward similar to the service toss]{.underline}]{.mark}**,
+serve.** I say resembling, because there isn't an
+exact match. **Typically, the player's left arm will be pointed
+directly upward similar to the service toss**,
 **[but sometimes it's even higher. And it can be substantially lower
 when the time is short.]{.underline}**
 
 Also, the racket is often further along in the motion. In the classic
 trophy position, the racket tip points directly upward with the arm in
-an L shape at the elbow. **[[On the overhead, however, the players have
+an L shape at the elbow. **On the overhead, however, the players have
 usually begun the racket drop, rotating the upper arm backwards, so the
 racket is pointing more sideways toward the
-sideline.]{.underline}]{.mark}**
+sideline.**
 
 The amount of time you have on the overhead is another big difference
 with the serve. The timing of serve is the same with every ball,
@@ -142,18 +142,18 @@ the weight will be more balanced between the feet. This can be similar
 to the serve. But if you are moving backwards, your weight will
 typically be more on the rear foot.]{.mark}]{.underline}** This is what
 makes the jump overhead possible when the players are moving back and
-then **[[launch themselves upward to the hit by pushing off the back
-foot.]{.underline}]{.mark}**
+then **launch themselves upward to the hit by pushing off the back
+foot.**
 
 **Movement**
 
-Beyond these technical differences in the preparation, **[[the biggest
+Beyond these technical differences in the preparation, **the biggest
 difference with the serve is that the player must move to the
-ball]{.underline}]{.mark}**. How a player moves his/her feet to position
+ball**. How a player moves his/her feet to position
 themselves on any shot is key to achieving great success in your game.
-**[[But on the overhead the footwork is especially important and can be
+**But on the overhead the footwork is especially important and can be
 the difference between having no overhead and a having a very good
-on.]{.underline}]{.mark}**
+on.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -163,25 +163,25 @@ confidence](media_the-pro-overhead/media/image6.webp)
 
 On the groundstrokes players with good hands can sometimes get away with
 bad movement and still make a decent shot, but the overhead is a
-different story. **[[Unlike the serve which is hit from the same
+different story. **Unlike the serve which is hit from the same
 position on the court every time, the ball on the overhead is moving
-toward your side of the court.]{.underline}]{.mark}** **[[You can hit an
+toward your side of the court.** **You can hit an
 overhead from literally anywhere on your side of the
-net.]{.underline}]{.mark}** **[[The ball is also descending from a much
+net.** **The ball is also descending from a much
 greater height than the serve toss. This is important because as the
 ball drops, it accelerates due to gravity. For these reasons it is vital
 to be ready when the ball passes through the hitting
-zone.]{.underline}]{.mark}**
+zone.**
 
-The ability to use **[[Carioka Steps]{.underline}]{.mark}**, or what I
+The ability to use **Carioka Steps**, or what I
 call cross steps, is the key to moving upward and back. These steps can
 also be used to move on diagonals across the court when the player needs
 to move sideways at the same time.
 
 If you want to maximize your ability to move on most overheads, do not
 rely only on shuffle steps. This is where most players make their first
-mistake. **[[Shuffling is an inefficient way of moving either forward or
-backward.]{.underline}]{.mark}** There are many instances where you will
+mistake. **Shuffling is an inefficient way of moving either forward or
+backward.** There are many instances where you will
 see a great player shuffle back or forward to hit an overhead, but
 usually it is on a ball where they have a not of time, and/or not much
 movement either forward or back is required.
@@ -191,9 +191,9 @@ They come into play on all the shots in the game at certain times.
 groundstrokes and approaches.) They are just especially critical on the
 overhead.
 
-**[[Mastering the ability to rotate your body and then use these
+**Mastering the ability to rotate your body and then use these
 crossing steps will increase your speed reaching the ball, and your
-power on the overhead.]{.underline}]{.mark}** The tough thing about
+power on the overhead.** The tough thing about
 gaining this ability is to be able to do it with the arms moving upwards
 into the air.
 
@@ -215,10 +215,10 @@ confidence](media_the-pro-overhead/media/image7.webp)
 
 **The cross steps facilitate rapid, efficient backward movement.**
 
-**[[Each time you land the rear foot, place slightly more weight on it
-and relax the knee a bit.]{.underline}]{.mark}** **[[That little bit of
+**Each time you land the rear foot, place slightly more weight on it
+and relax the knee a bit.** **That little bit of
 weight on that leg is important because that is the leg you push off of
-for the jump overhead.]{.underline}]{.mark}**
+for the jump overhead.**
 
 As you get more confident with this movement you can experiment with
 jumping from the back leg to make the upward motion more explosive. Most
@@ -241,16 +241,16 @@ get using the correct footwork.
 **Forward Movement**
 
 The key to forward movement is similar to the backward movement.
-**[[When they have any significant difference to cover, the players will
-use the cross-step pattern.]{.underline}]{.mark}** **[[Now the first
-step is forward with the rear foot.]{.underline}]{.mark}**
+**When they have any significant difference to cover, the players will
+use the cross-step pattern.** **Now the first
+step is forward with the rear foot.**
 
 The side on which the rear foot crosses the front foot depends on
 whether the player is moving forward to the left or right. When the
 player moves to the right and forward the rear foot will cross to the
 right side of the front foot. When moving left and forward, the rear
-foot will cross to left side of the front foot. **[[In each case though,
-the rear foot is stepping towards the net.]{.underline}]{.mark}**
+foot will cross to left side of the front foot. **In each case though,
+the rear foot is stepping towards the net.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -266,9 +266,9 @@ for the lob.
 
 **Overhead Swing**
 
-**[[The first step]{.underline}]{.mark} to creating a great arm swing,
-as in all the shots, is [[creating the turn
-position]{.underline}]{.mark} with your feet and torso as described
+**The first step to creating a great arm swing,
+as in all the shots, is creating the turn
+position with your feet and torso as described
 above. Facing the net too much as you prepare for the overhead will
 restrict acceleration of the racket head. [[The second step is a good
 racket drop]{.underline}.]{.mark}** **As with the serve, the racket
@@ -296,16 +296,16 @@ motion to the ball begins with the straightening of the elbow and then
 continues with the turning of the hand to square the racket. These are
 the same basic mechanisms as the serve.
 
-But there are two differences. **[[First, as we noted above, you
+But there are two differences. **First, as we noted above, you
 position yourself for the overhead so that, if the ball dropped, it
 would land on your right shoulder. This position means that the contact
 point is noticeably more to the right compared to the
-serve]{.underline}]{.mark}**.
+serve**.
 
-**[[The reason for is that the overhead is usually hit flatter than the
-serves hit by the same players. Also]{.underline}]{.mark}**, **[[because
+**The reason for is that the overhead is usually hit flatter than the
+serves hit by the same players. Also**, **because
 the player is around the service line or even closer, the arc of the
-shot is more downward into the court.]{.underline}]{.mark}**
+shot is more downward into the court.**
 
 For these reasons**[[, there is often less pronation or turning of the
 hand and racket during the upward swing.]{.mark}]{.underline}** The
@@ -327,10 +327,10 @@ result of your shot choices. Note how, regardless of the pronation, the
 follow-through continues forward, out, and across the body in the
 animations.
 
-**[[Overall, what makes the overhead difficult is the ability to move in
-position with the proper turn position.]{.underline}]{.mark}** **[[The
+**Overall, what makes the overhead difficult is the ability to move in
+position with the proper turn position.** **The
 unit turn and the movement, I believe, are the two areas where the
-average player needs to focus.]{.underline}]{.mark}** The arm swing is
+average player needs to focus.** The arm swing is
 important, but as your serve arm swing improves in this area so will
 your overhead swing. As I mentioned above, conquering the ability to do
 the cross steps as you initiate the turn will go a long way in making

@@ -24,9 +24,9 @@ player can learn a lot by watching the strategy in pro matches, how the
 players set up their points, and more importantly, how they finish them
 off.
 
-**[[The point is, when you go into a match you need to have several
+**The point is, when you go into a match you need to have several
 specific ideas about how you're going to beat a given
-opponent.]{.underline}]{.mark}** This means knowing what your
+opponent.** This means knowing what your
 opponent's strengths and weaknesses are and how they match up with
 yours. These match ups are the foundation of your game plan.
 
@@ -87,10 +87,10 @@ attack the short ball as well.
 Pete Sampras has a great serve, but he also has a very complete game. He
 can beat you from anywhere on the court, depending on the situation.
 
-**[[The point is, all these players play the percentages based on their
+**The point is, all these players play the percentages based on their
 capabilities. If you want to be successful, you have to find ways to use
 your own shots to win points on a consistent
-basis.]{.underline}]{.mark}**
+basis.**
 
 ### Basics of Winning Tennis
 

@@ -45,10 +45,10 @@ On the forehand, the Transfer Move is associated with the higher contact
 points we commonly see in pro tennis. Typically, this contact point will
 be around chest level, or sometimes higher.
 
-**[[There are two versions of the forehand Transfer. These are the
+**There are two versions of the forehand Transfer. These are the
 Forward Transfer and the Lateral Transfer. The difference is the
 direction of the transfer of the weight during the
-swing.]{.underline}]{.mark}**
+swing.**
 
 The Forward Transfer is typically used on a medium pace ball or a
 floating ball hit around the center of baseline. It can be hit either
@@ -77,19 +77,19 @@ start the recovery.
 **Lateral Transfer**
 
 **The difference with the Lateral Transfer is the direction of the
-movement of the weight during the shot. [[With the Lateral Transfer, the
+movement of the weight during the shot. With the Lateral Transfer, the
 weight shift is less forward and more to the side or to the player's
-left.]{.underline}]{.mark} Typically, players use the Lateral Transfer
+left. Typically, players use the Lateral Transfer
 when they are going Inside In.**
 
 Again, the players use a semi-open stance with the outside leg loaded.
 The player swings and explodes off the court and into the air, with the
 body rotation taking the left foot more across the body.
 
-**[[With the Forward Transfer, the front foot lands ahead of the rear
+**With the Forward Transfer, the front foot lands ahead of the rear
 and points straight ahead. With the Lateral Transfer, it lands even with
 the rear foot or only slightly ahead, pointing more to the sideline than
-forward.]{.underline}]{.mark}**
+forward.**
 
 ![A person playing tennis Description automatically
 generated](media_contact-moves-the-transfer/media/image3.webp)
@@ -130,24 +130,24 @@ the ball on the rise, and using the power of the serve to hit aggressive
 returns. You can see this in the games of the great returners, like
 Andre Agassi and Roger Federer.
 
-**[[As the players prepare, they load the weight on the outside leg. The
+**As the players prepare, they load the weight on the outside leg. The
 difference compared to the groundstroke is that they typically user a
-wider or fully open stance.]{.underline}]{.mark}** **[[As the swing
+wider or fully open stance.** **As the swing
 begins, they elevate off the court and shift the weight forward during
 the swing. The landing is again on the front foot. The back leg curls
 and kicks back away from the player, as with the other
-transfers.]{.underline}]{.mark}**
+transfers.**
 
-**[[Besides the wider open stance in the loading phrase, there are two
+**Besides the wider open stance in the loading phrase, there are two
 other differences compared to the groundstrokes. The first is that the
 contact point is lower because the players are usually taking the ball
-early.]{.underline}]{.mark}**
+early.**
 
-**[[The second difference is the stance after the landing. When players
+**The second difference is the stance after the landing. When players
 use the Transfer Move on returns, they step forward and across with the
-front foot, landing in a closed stance.]{.underline}]{.mark}** **[[This
+front foot, landing in a closed stance.** **This
 is in contrast to forehand groundstroke transfers, where the players
-remain in an open stance during the landing.]{.underline}]{.mark}**
+remain in an open stance during the landing.**
 
 ![](media_contact-moves-the-transfer/media/image5.jpeg)
 

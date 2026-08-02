@@ -116,8 +116,8 @@ lose are your parents, your coach, and your spouse.
 
 So if, during play, you find your thoughts drifting towards what others
 will think if you lose, pause for a moment and say to yourself,
-**[[\"They couldn't care less! I'm playing for
-myself.\"]{.underline}]{.mark}** (And if you were wondering, Julie
+**\"They couldn't care less! I'm playing for
+myself.\"** (And if you were wondering, Julie
 worked her way back into the top 100 and was again being talked up by
 the press and the other players. This time, however, she had a more
 accurate assessment of such praise as superficial and meaningless.)
@@ -153,22 +153,22 @@ The ultimate outcome will then take care of itself.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[As a general rule, it is always wise to simply accept that which you
+**As a general rule, it is always wise to simply accept that which you
 can't control. This is liberating and calming. The situation is
-analogous to riding a roller-coaster.]{.underline}]{.mark}** When the
+analogous to riding a roller-coaster.** When the
 car begins its scary drop down the first hill some people tighten their
 bellies, grab the sides of the car, and try to resist the sensations of
 falling. This makes the event unpleasant. They are going down the hill
 whether they like it or not.
 
-**[[It's better to relax and go with the feeling of falling rather than
+**It's better to relax and go with the feeling of falling rather than
 trying to resist it, since resistance is
-impossible.]{.underline}]{.mark}** **[[They are better off trying to
+impossible.** **They are better off trying to
 enjoy the experience rather than fighting it. Similarly, since the
 outcome of a difficult match is also controllable, it is practical to
 concentrate on playing each point as well as you can and trying to enjoy
 the competitive experience. Be prepared to simply accept the outcome,
-whatever it is, and move on.]{.underline}]{.mark}**
+whatever it is, and move on.**
 
 Worrying about the score is stressful. As a match proceeds most players
 become overly concerned with the score, carefully tracking its every
@@ -196,9 +196,9 @@ matter what the score or odds are, so strive to forget about them.
 
 **High Goals**
 
-**[[Too great an emphasis on goals can be stressful. Having high goals
+**Too great an emphasis on goals can be stressful. Having high goals
 is normally a good thing. But like most good things, too much of it can
-turn it bad]{.underline}]{.mark}**. Such was the case with a young
+turn it bad**. Such was the case with a young
 college freshman, let's call him Frank, with whom I consulted.
 
 Frank had been an outstanding junior, consistently ranked among the top

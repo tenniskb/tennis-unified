@@ -105,7 +105,7 @@ generated](media_the-panic-signal/media/image4.jpg)
 
 **The body reacts to negative perceptions created by the mind.**
 
-The mind creates **[[perceptions,]{.underline}]{.mark}** and the body
+The mind creates **perceptions,** and the body
 begins to physically react to those perceptions. If you see a situation
 as difficult, your body will accept this assessment.
 

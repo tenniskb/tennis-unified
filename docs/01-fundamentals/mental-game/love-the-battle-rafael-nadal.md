@@ -41,8 +41,8 @@ It's not just the flamboyant things Nadal does: jumping up and down
 during the coin toss, the zig zag sprint to baseline for the warm up,
 pumping his fist after a pressure shot.
 
-**[[It's also the way he conducts himself throughout the course of the
-match in every detail.]{.underline}]{.mark}** His extremely precise
+**It's also the way he conducts himself throughout the course of the
+match in every detail.** His extremely precise
 rituals. The way he controls the pace of the match. The way he maintains
 the same demeanor and body language whether he has won or lost the last
 point. Even the way he organizes his water bottles on the change-overs.
@@ -137,15 +137,15 @@ you practice it, the better you get.
 | **Jack, Julia, and Rafa\--three actors at the top of their craft.** |  |  |
 
 
-**[[We know what the script is in sport. It is confidence. It is
-positive fight. It is relaxation. It is fun.]{.underline}]{.mark}** We
+**We know what the script is in sport. It is confidence. It is
+positive fight. It is relaxation. It is fun.** We
 know that that ideal performance state script is where we will get the
 most out of the game, where our talent and skills will be born and will
 be launched into the highest possible orbit, and this will also be where
 we get the most satisfaction and enjoyment and fun from the sport.
 
-**[[But doing all that requires wonderful acting
-skills.]{.underline}]{.mark}** There is some exciting research that
+**But doing all that requires wonderful acting
+skills.** There is some exciting research that
 shows that the chemistry of faked emotion and real emotion in
 professional actors is indistinguishable.
 
@@ -161,22 +161,22 @@ generated](media_love-the-battle-rafael-nadal/media/image8.webp)
 
 **Tough acting can summon the performance you want.**
 
-**[[You may not start out confident. You may feel no energy. You may
+**You may not start out confident. You may feel no energy. You may
 feel like not being there. You may not like playing a particular person
 in front of a particular audience, or whatever. But if you take the same
 procedures and the same skills and the same directions that a great
 actor or actress does, you accept responsibility for your task as a
 competitor, and you create that special climate inside
-yourself.]{.underline}]{.mark}**
+yourself.**
 
 Now, how do Julia Roberts and Jack Nicholson do that? How do they summon
 those emotions? Well, they do exactly what Rafael Nadal does in the
-context of his competitive battles. **[[Rafael Nadal has learned to be
+context of his competitive battles. **Rafael Nadal has learned to be
 very, very careful in how he thinks\--he thinks
-tough.]{.underline}]{.mark}** **[[He has learned to be very careful how
+tough.** **He has learned to be very careful how
 he acts\--he acts tough. And what does that mean? He acts out energy,
 positivism, fun, intensity, confidence. He does this all the
-time.]{.underline}]{.mark}**
+time.**
 
 Nadal rarely deviates from the script. He can even laugh at himself when
 he makes a critical error. Nadal actually smiled when he hit a double
@@ -202,15 +202,15 @@ the look in our face, by moving the muscles of our face. When we
 communicate a smile, we are in a real sense communicating to our
 physiology that it's okay, things are all right.]{.mark}]{.underline}**
 
-**[[In fact, we're moving the physiology at a molecular level. We know
+**In fact, we're moving the physiology at a molecular level. We know
 that autonomic nervous system responses mirror the movement of muscles
 in emotion-specific ways, when we take on the look of a frown or take on
 the look of sadness or take on the look of
-happiness.]{.underline}]{.mark}**
+happiness.**
 
-**[[In fact, just moving the facial muscles to coincide with the
+**In fact, just moving the facial muscles to coincide with the
 emotions we want to experience will help that along
-tremendously.]{.underline}]{.mark}** If you told Julia Roberts, I want
+tremendously.** If you told Julia Roberts, I want
 to carry a smile on your face, but I want you to cry tears of sadness,
 she absolutely could not do it because the body is communicating
 different messages.
@@ -228,15 +228,15 @@ and lazy and without any spirit, you cannot summon the emotions you need
 to be strong, the emotions for mobilizing all the resources that you may
 actually have inside.
 
-**[[The body is all connected. The muscles of your face, the muscles of
+**The body is all connected. The muscles of your face, the muscles of
 your shoulders are connected to what you're thinking. And all of that
 is connected to what images you're carrying in your
-head.]{.underline}]{.mark}** **[[And all of that is connected to the
+head.** **And all of that is connected to the
 physiology and to the emotion that you're carrying at every moment. The
 mind is the body, the body is the mind, and everything you do affects
 everything else. All the cells are connecting and communicating in a
 wonderfully interactive and brilliant, massive network of inner
-responses.]{.underline}]{.mark}**
+responses.**
 
 It's important to understand also that emotions work very much like
 muscles do. If for instance you stimulate a particular muscle, you're
@@ -287,17 +287,17 @@ that theater. You know you haven't gone to Jurassic Park. But the fear
 that comes inside of you is exactly the same fear if you were actually
 there.
 
-**[[You know you're sitting in the theater. Why should you become
+**You know you're sitting in the theater. Why should you become
 afraid when you know logically that you're just sitting there eating
-popcorn?]{.underline}]{.mark}** **[[It's because your central nervous
+popcorn?** **It's because your central nervous
 system cannot distinguish real from unreal, so the real chemistry of
-fear is triggered.]{.underline}]{.mark}** It's the same chemical
+fear is triggered.** It's the same chemical
 profile that you would experience if you went into Jurassic Park and
 those events actually occurred to you.
 
-**[[So, what we are going to try to do here is to either think thoughts
+**So, what we are going to try to do here is to either think thoughts
 that help to summon those emotions or to make visualizations and images
-come alive to make that happen.]{.underline}]{.mark}**
+come alive to make that happen.**
 
 So if you want to cry, you want to get your body to conform to exactly
 those emotions you want to feel. So you would hump over your shoulders
@@ -371,21 +371,21 @@ generated](media_love-the-battle-rafael-nadal/media/image15.webp)
 **Negative thinking will block your ability to access the emotions you
 need.**
 
-**[[We must hold ourselves responsible for how we are thinking and how
+**We must hold ourselves responsible for how we are thinking and how
 we respond emotionally to the things that happen to us in our context of
 competition. We can't control what's happening, but we can control how
 we're thinking about it, how we're imaging about it, and how we are
-responding emotionally to what's happening.]{.underline}]{.mark}**
+responding emotionally to what's happening.**
 
-**[[So training is simply learning to think about things in ways that
+**So training is simply learning to think about things in ways that
 help to fulfill the script. We call that tough thinking, thinking about
 something in a way that enables us to feel positive emotion, to feel
 challenged, to create a sense of fun, to feel relaxed, to feel energized
-in a positive way.]{.underline}]{.mark}** If you tell me, \"I hate my
+in a positive way.** If you tell me, \"I hate my
 serve,\" \"I hate my forehand,\" or \"I hate playing pushers\" or \"I
 hate whatever,\" right away you ensure that you will not be able to
-access the emotions that empower you in the context of the **[[Ideal
-Performance State.]{.underline}]{.mark}**
+access the emotions that empower you in the context of the **Ideal
+Performance State.**
 
 And that's how simple it is. Don't make it more complicated than that.
 Make it very simple. Zero in on exactly this connection, the connection
@@ -442,10 +442,10 @@ at the heart of athletic competition. Over coming choking means that you
 reduced the fear response, fear of failure, fear of looking bad, fear of
 not living up to expectations, and the chemistry of fear began to die.
 
-**[[In a real sense, there's no reason to be afraid. It is okay. It is
+**In a real sense, there's no reason to be afraid. It is okay. It is
 going to be fine. You have to believe tomorrow that life is bigger than
 any athletic contest. Not one single athletic event is going to make or
-break me as a competitor.]{.underline}]{.mark}**
+break me as a competitor.**
 
 By thinking in the context of fun and enjoyment and loving what you do,
 the fear will go away. When we screw up and make stupid mistakes and do
@@ -500,8 +500,8 @@ time.\" If I want the time, I will take it.\"
 inside, I am in control. Just for today, I will do the ordinary things
 extraordinarily well. Just for today, I choose to believe that I can
 make a difference and that I can be in control of my world. The choice
-is really mine. **[[Just for today, I will love the
-battle.\"]{.underline}]{.mark}**
+is really mine. **Just for today, I will love the
+battle.\"**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person smiling for the camera Description automatically generated with medium                                                                                                 Jim Loehr is a legendary pioneer in the field of

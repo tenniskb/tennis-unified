@@ -67,10 +67,10 @@ confidence](media_john-yandell-the-two-handed-backhand-preparation-and-backswing
 
 **Watch the Unit Turn start the preparation.**
 
-***[[The problem is two deeply ingrained beliefs about \"preparation.\"
+***The problem is two deeply ingrained beliefs about \"preparation.\"
 The first is that the key to the preparation is \"getting the racket
 back early.\" The second is that the backswing is the key to starting
-this early movement of the racket.]{.underline}]{.mark}*** These beliefs
+this early movement of the racket.*** These beliefs
 are still the sacred gospel in teaching groundstrokes for many, maybe
 even a majority of coaches, and are constantly repeated in day to day
 teaching around the world. Unfortunately, they don't describe what good

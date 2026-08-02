@@ -618,15 +618,15 @@ dynamic slot causes the upper arm to rotate backward (external shoulder
 rotation) prior to being reversed (internal shoulder rotation) near
 contact.
 
-**[[The most critical of these counter-rotations is of the upper arm
+**The most critical of these counter-rotations is of the upper arm
 (external rotation of the shoulder joint) and, to a lesser extent, the
-counter-rotation of the forearm (supination).]{.underline}]{.mark}**
+counter-rotation of the forearm (supination).**
 
 There is a third rotation that is also important for positioning,
 although it is not targeted for stretch-shorten enhancement as some
-coaches believe**[[. This is the wrist lay- back (or extension). The
+coaches believe**. This is the wrist lay- back (or extension). The
 fascinating and complex role of how the wrist actually functions in the
-ATP forehand will be detailed in future articles.]{.underline}]{.mark}**
+ATP forehand will be detailed in future articles.**
 
 **One More Time**
 
@@ -650,13 +650,13 @@ occur to varying degrees depending on the player and exact shot. The
 effect is often so drastic that at the end of the flip, the tip of the
 racket ends up pointing downward at the court.
 
-And here is the critical point. **[[The dynamic slot occurs during the
+And here is the critical point. **The dynamic slot occurs during the
 start of the forward swing, not in the back swing. It happens as a
 result of the player pulling the grip forward which causes the racquet
 to rotate or flip. The flip of the racquet then causes the key arm joint
 counter-rotations (most critically, the shoulder external rotation) --
 and this is what creates the conditions for muscular enhancement at the
-key arm joints.]{.underline}]{.mark}**
+key arm joints.**
 
 It is very important to understand how this happens as a consequence of
 the correct positions and motions, and not through the conscious muscle

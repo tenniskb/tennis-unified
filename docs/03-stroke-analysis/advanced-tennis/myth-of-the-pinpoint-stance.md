@@ -409,11 +409,11 @@ But when you watch a good server who uses the Pinpoint, the motion is so
 obvious and distinctive, that players and coaches often conclude that it
 somehow must also be important.
 
-***[[But not everything every pro player does is necessarily a
+***But not everything every pro player does is necessarily a
 bio-mechanical advantage or a good thing to copy. This is a
 meta-question that coaches need to address in studying pro players: what
 is core, what is incidental, and what is, possibly,
-counter-productive.]{.underline}]{.mark}***
+counter-productive.***
 
 Interestingly, two of the biggest young servers in the game have
 recently abandoned the Pinpoint Stance, eliminating the step with the

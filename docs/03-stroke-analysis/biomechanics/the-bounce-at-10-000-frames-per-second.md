@@ -102,9 +102,9 @@ generated](media_the-bounce-at-10-000-frames-per-second/media/image4.jpg)
 Static friction allows the ball to grip or bite a surface--similar to a
 shoe or ball if were stuck down with sticky tape. Static friction acts
 to stop the contact surfaces sliding past each other providing the
-surfaces are pushed firmly together. **[[Static friction plays a role in
+surfaces are pushed firmly together. **Static friction plays a role in
 the bounce of the ball but sliding friction plays a much more important
-role in changing speed and spin of the ball]{.underline}]{.mark}**.\"
+role in changing speed and spin of the ball**.\"
 
 Cross describes 4 bounce factors: Angle of incidence, speed/spin,
 hardness of the court, smoothness/roughness of court. These factors
@@ -112,18 +112,18 @@ subsequently affect how long the ball is down on the court, how fast it
 comes off the court, how high it bounces, and what kind of spin it comes
 off the court with.
 
-Everyone who took high school physics can probably tell you \"**[[the
+Everyone who took high school physics can probably tell you \"**the
 angle of incidence is equal to the angle of reflection in a perfectly
-elastic collision]{.underline}]{.mark}**\". **[[Simply put this means
+elastic collision**\". **[[Simply put this means
 the ball comes off of the court at about the same angle it goes into the
 court.]{.mark}]{.underline}**
 
-**[[In real life there is no such thing as a perfectly elastic
+**In real life there is no such thing as a perfectly elastic
 collision. In a tennis bounce energy is lost with ball compression and
 court compression, and then friction and spin play their role to change
-things as well.]{.underline}]{.mark}** **[[In an elastic collision speed
+things as well.** **In an elastic collision speed
 would not be changed, but the tennis ball bounces leads to a 25-40%
-reduction in ball velocity.]{.underline}]{.mark}**
+reduction in ball velocity.**
 
 John Yandell was the first to document this in actual match play in his
 study of ball flights by Pete Sampras about 20 years ago. ([Click
@@ -132,9 +132,9 @@ Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/ball_speed
 Tennis balls lose about 20% of their flight speed while traveling
 through the air and then go on to lose another 25-40% after the bounce.
 
-**[[Because of the effect of the bounce, the net result is that the ball
+**Because of the effect of the bounce, the net result is that the ball
 bounces up about three quarters of its vertical
-drop.]{.underline}]{.mark}** Excepting serves and overheads, it is
+drop.** Excepting serves and overheads, it is
 simply the vertical drop of the ball from the maximum height of ball
 trajectory that determines how high the ball bounces.
 
@@ -209,11 +209,11 @@ The flat balls were basically zero rpm coming into the bounce and
 2175rpm coming out. The slice balls had 1575rpm of underspin coming into
 the bounce and had 1485rpms of topspin coming out.
 
-A rule of thumb supplied by Dr. Cross is **[[\"balls that hit the court
+A rule of thumb supplied by Dr. Cross is **\"balls that hit the court
 at less than 20° tend to slide through the bounce and sliding friction
 will determine how the ball bounces. Balls that hit the court at greater
 than 20° tend to bite more and come up at age steeper
-angle.\"]{.underline}]{.mark}**
+angle.\"**
 
 **So What?**
 

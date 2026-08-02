@@ -329,10 +329,10 @@ the height of most balls in tennis when they cross the baseline.
 neutral or square stance.]{.mark}**
 
 As we saw in our stance article ([Click Here](Forehand%20Stances.docx))
-on the stances, ***[[the players with more extreme grips have bigger
+on the stances, ***the players with more extreme grips have bigger
 shoulder or torso rotational patterns. This makes it awkward to step
 into the ball and hit on the rise, because the front foot actually
-blocks the body rotation.]{.underline}]{.mark}*** If Agassi's grip were
+blocks the body rotation.*** If Agassi's grip were
 any more extreme, he would not be able to play the way he plays.
 
 Most semi-western players on the tour use the more extreme styles

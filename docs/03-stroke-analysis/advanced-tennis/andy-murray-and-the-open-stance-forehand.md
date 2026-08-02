@@ -92,17 +92,17 @@ stance is by far the preferred stance for most players in the pro game.
 And this is true of the three players currently above Andy: Novak, Roger
 and Rafa.]{.mark}]{.underline}***
 
-***[[And stance appears to be a fundamental factor affecting the amount
-of pace and spin on the forehand. Why?]{.underline}]{.mark}***
+***And stance appears to be a fundamental factor affecting the amount
+of pace and spin on the forehand. Why?***
 
 ***[[Because stance is critical in determining the amount of torso
 rotation in the forehand. This means the amount of shoulder rotation,
 but especially the amount of rotation in the hips. This is true in both
 the preparation and the forward swing.]{.mark}]{.underline}***
 
-***[[Extreme open stance restricts the amount of rotation in the hips in
+***Extreme open stance restricts the amount of rotation in the hips in
 the initial body turn. This then restricts the amount of hip rotation
-forward to the contact in the hitting phase]{.underline}]{.mark}***.
+forward to the contact in the hitting phase***.
 
 ![A person playing tennis Description automatically
 generated](media_andy-murray-and-the-open-stance-forehand/media/image4.webp)
@@ -215,8 +215,8 @@ And that's the point. What is the norm for Andy is the exception for
 the other top players. And vice versa.
 
 ***[All top player use all the stances, including a percentage
-that]{.mark}*** ***[[are neutral or square
-stance.]{.underline}]{.mark}*** ***[This stance selection is partially
+that]{.mark}*** ***are neutral or square
+stance.*** ***[This stance selection is partially
 situational, depending on depth, height, and ball speed. But it is also
 a matter of preference, or possibly training, or some combination of
 both.]{.mark}***
@@ -271,11 +271,11 @@ forehands. With the rise of \"modern\" tennis, many teaching pros have
 placed great emphasis on the open stance, because \"that's the way the
 pros play.\"]{.mark}]{.underline}***
 
-And that is not necessarily a bad thing. **[[Unfortunately though there
+And that is not necessarily a bad thing. **Unfortunately though there
 has been far less emphasis on the differences in the open stances, and
 even less attention paid to the pro body turn, one of the very few
 commonalities in the pro game regardless of
-stance.]{.underline}]{.mark}**
+stance.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -283,18 +283,18 @@ confidence](media_andy-murray-and-the-open-stance-forehand/media/image9.webp)
 
 **Note the natural increase in hip turn with the neutral stance.**
 
-***[[In fact if you watch much club tennis it is actually shocking how
+***In fact if you watch much club tennis it is actually shocking how
 few players are preparing fully with the upper body. And ironically, the
 full turn, as we have discussed many times, is one of the easiest
 elements for players at any level to copy from pro players, and one of
 the very view that is universally applicable to the club
-game.]{.underline}]{.mark}*** ([Click
+game.*** ([Click
 Here](John%20Yandell-Your%20forehand%20and%20the%20modern%20forehand-Preparation.docx).)
 
 The emphasis on the open stance only makes this problem worse in my
-opinion. ***[[If a player doesn't understand the turn and is taught to
+opinion. ***If a player doesn't understand the turn and is taught to
 set up fully open it can make great preparation
-impossible.]{.underline}]{.mark}*** I've seen so many players show up
+impossible.*** I've seen so many players show up
 at my court proud of learning the modern open stance, but with little
 body turn and forehands that lack power, consistency and spin because of
 it.

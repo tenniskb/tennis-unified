@@ -285,22 +285,22 @@ confidence](media_john-yandell-andy-roddick-s-backhand/media/image14.webp)
 **Understanding the pro hitting arm positions may increases the chance
 that other players will develop the right combinations for themselves.**
 
-***[[That may sound crazy, but actually it makes complete sense if you
+***That may sound crazy, but actually it makes complete sense if you
 understand players. The point is that for a player at the world class
 level, admitting that there is a significant technical problem on a
 particular stroke could cause a loss of overall confidence that might
 have a worse negative effect than the technical problem
-itself.]{.underline}]{.mark}*** That's what Paul believed about Pete
+itself.*** That's what Paul believed about Pete
 anyway, and I guess he was right because Pete sure hit some beautiful
 backhands in that last, amazing Open final.
 
-***[[This issue of confidence is actually a huge problem for any player
+***This issue of confidence is actually a huge problem for any player
 at any level contemplating deconstructing a stroke. There is a high
 likelihood the process may initially or even permanently increase his
 frustration and have a negative impact on his results. Trying to
 overcome the natural resistance of the student that stems from this just
 may be the biggest problem in coaching at all
-levels.]{.underline}]{.mark}***
+levels.***
 
 That's why I hope that one of the things that comes out of this high
 speed analysis of the various two-handed combinations\--and the whole

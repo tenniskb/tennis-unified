@@ -97,8 +97,8 @@ cross which has the receiver hit down-the-line.**
 
 **Quick Movers and Poachers**
 
-**[[Quick moving and poaching teams tend to move a lot when serving and
-returning. Their]{.underline}]{.mark}** constant movement creates
+**Quick moving and poaching teams tend to move a lot when serving and
+returning. Their** constant movement creates
 uncertainty in their opponents. Most players view them as good doubles
 teams, since they implement poaching actions very well. Many doubles
 players would like to be able to play this game style but do not feel
@@ -147,8 +147,8 @@ groundstrokes.**
 
 **Hard Hitters**
 
-**[[Hard-hitting teams typically seek to overpower their
-opponents.]{.underline}]{.mark}** **[[They rely on big first serves
+**Hard-hitting teams typically seek to overpower their
+opponents.** **[[They rely on big first serves
 and/or power groundstrokes.]{.mark} [Both partners are frequently at the
 baseline on the returns, with the server staying back to initiate the
 point with powerful groundstrokes.]{.mark}]{.underline}** This tactic of
@@ -162,9 +162,9 @@ effective net games anymore. In 2003, there were less than 10 players on
 the tour in the top 100 (both men and women) who could be legitimately
 labeled serve and volleyers.
 
-**[[Their strength of the hard-hitting team is the ability to overpower
+**Their strength of the hard-hitting team is the ability to overpower
 opponents simply through the pace of their shots, either or serve, or
-off the ground, or both.]{.underline}]{.mark}** Hard hitting teams with
+off the ground, or both.** Hard hitting teams with
 big groundstrokes are sometimes most effective on clay where they have
 more time to set up. Typically, the server's partner can protect the
 down the line since the team is less worried about placements and
@@ -202,10 +202,10 @@ players tend to use primarily backhand slices instead of high-powered
 two-handed drives. Successful precision players have the ability to make
 their opponents look bad. They don't usually hit flashy shots, but they
 hit very accurately and this induces many mistakes in opponents.
-**[[Precision players frequently produce angles that will pull one
+**Precision players frequently produce angles that will pull one
 player off the court, leaving only one player to deal with the second
 shot. They are normally hard to read because they disguise their shots
-well.]{.underline}]{.mark}**
+well.**
 
 ![A group of men playing tennis Description automatically generated with
 medium
@@ -213,9 +213,9 @@ confidence](media_doubles-playing-styles/media/image9.webp)
 
 **Precision players have consistency, touch, and good hands.**
 
-**[[The strength of Precision Players is consistency, especially on the
+**The strength of Precision Players is consistency, especially on the
 first volley and the ability to win points with placement and
-touch.]{.underline}]{.mark}** Typically, they have good hands which
+touch.** Typically, they have good hands which
 translates into good touch and good defense. They have the ability to
 keep opponent's guessing by mixing shots, with different speeds and
 angles as well as to dink and use the lob on returns and second shots.
@@ -272,9 +272,9 @@ They have great potential to break serve with solid returns and second
 shots. Typically, the net player can apply pressure at the net on his
 partner's returns.
 
-**[[They can be beaten in two ways, by teams that are powerful enough to
+**They can be beaten in two ways, by teams that are powerful enough to
 hit through them from the baseline, or that can challenge them for
-dominance of the net.]{.underline}]{.mark}** Sometimes their variety can
+dominance of the net.** Sometimes their variety can
 work against them if they hesitate about which tactic to employ or use
 the wrong tactics in certain situations.
 

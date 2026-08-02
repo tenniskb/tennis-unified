@@ -84,8 +84,8 @@ If we're not playing a set, he'll invariably ask me to hit cross-court
 or down-the-line forehands or backhands, or perhaps two volleys and then
 one overhead---anything but random hitting.
 
-**[[Another drill we like is playing serve and volley points using only
-the doubles diagonals.]{.underline}]{.mark}** Whenever I finish
+**Another drill we like is playing serve and volley points using only
+the doubles diagonals.** Whenever I finish
 practicing with Bill, I'm usually more worn out than I am after I've
 practiced with guys my own age and younger.
 

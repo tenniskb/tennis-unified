@@ -122,9 +122,9 @@ generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image5.we
 
 **Closed Stance Preference**
 
-***[[The footage shows that the preference of all the top players is to
+***The footage shows that the preference of all the top players is to
 step across and hit closed stance virtually whenever
-possible.]{.underline}]{.mark}*** You can see this in the Federer
+possible.*** You can see this in the Federer
 animation.
 
 Watch how he sets up on this wide ball where he has plenty of time.
@@ -133,8 +133,8 @@ it's clear that Roger is stopping at a distance and aligning himself to
 step across to the hit.
 
 So what dictates the closed stance preference? First take a close look
-at the alignment of the shoulders. ***[[With the closed stance, the
-players can create much more shoulder turn.]{.underline}]{.mark}***
+at the alignment of the shoulders. ***With the closed stance, the
+players can create much more shoulder turn.***
 
 You can see this in the Justine Henin animation that compares the three
 stances. On the first backhand she is moving back after a serve and will
@@ -184,8 +184,8 @@ are perpendicular to the net, or sometimes a little further in the case
 of the extreme players. So that's at least 45 degrees more rotation
 than if they had simply turned the shoulders perpendicular to the net.
 
-**[[What this footage shows is that torso rotation is a big part of the
-one-handed backhand at the pro level.]{.underline}]{.mark}** Even the
+**What this footage shows is that torso rotation is a big part of the
+one-handed backhand at the pro level.** Even the
 players who stay more or less sideways at the hit are rotating the hips
 and the shoulders substantially prior to contact. And the reason they
 are able to do this is the closed stance.
@@ -201,19 +201,19 @@ generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image8.we
 
 **Uncoiling the Legs**
 
-***[[But the shoulder rotation is only one part of the advantage. The
+***But the shoulder rotation is only one part of the advantage. The
 other element to look at is the legs, specifically, the knee
-bend]{.underline}]{.mark}***. In addition to more shoulder turn***[[,
+bend***. In addition to more shoulder turn***,
 the cross step creates a much wider base between the
-feet]{.underline}]{.mark}***. The distance between the feet can be 3 or
-4 feet, or sometimes more. ***[[And this wide base creates the potential
-to use the legs more dynamically in the stroke.]{.underline}]{.mark}***
+feet***. The distance between the feet can be 3 or
+4 feet, or sometimes more. ***And this wide base creates the potential
+to use the legs more dynamically in the stroke.***
 
-**[[Compared to the open or the neutral stance the closed stance allows
+**Compared to the open or the neutral stance the closed stance allows
 the players to bend the knees more deeply, especially the front knee.
 Then, with the forward swing, the knees naturally uncoil and the legs
 straighten out, adding significant energy to the
-shot.]{.underline}]{.mark}**
+shot.**
 
 This is the idea of the kinetic chain\--that the energy in the strokes
 starts with the legs and passes upward through the body segments. So the
@@ -258,11 +258,11 @@ of talk about recovery steps in coaching today, and while these steps do
 occur, many players are swinging the back foot around too soon and
 destroying the sequence of the swing by trying to force recovery.
 
-Which brings us to the question: ***[[should I try to use the wide
+Which brings us to the question: ***should I try to use the wide
 stance and extreme shoulder turn in my one-hander? And the answer is
 yes. If you are a great athlete and you have perfect, basic
 technique\--and you have already mastered the open and the neutral
-stance.]{.underline}]{.mark}***
+stance.***
 
 And yes, I realize that, no matter the actual condition of your
 backhand, I can't stop you from trying, nor do I really want to. But
@@ -297,10 +297,10 @@ coiled. Good alignment means having the ability to create a balanced
 position before the step to the ball. It's critical on the forehand,
 but equally so on the one-hander.
 
-***[[So when players with poor alignment decide that the key to
+***So when players with poor alignment decide that the key to
 improving their backhand is to emulate the extreme cross steps and
 closed stances of the top pros, they aren't solving their problems.
-They are making them worse.]{.underline}]{.mark}***
+They are making them worse.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -325,12 +325,12 @@ same position whether they step in, step across or hit open. But most
 lower level players don't. Hitting open stance forces them to develop
 it.]{.mark}***
 
-***[[Most club players reach the ball on the front foot without
+***Most club players reach the ball on the front foot without
 gathering themselves and establishing this critical position. Usually
 they are only partially turned, and are also leaning forward and/or over
 to the side. Since they haven't controlled their momentum or achieved
 balance, they crash through the shot, over rotate, and swing the rear
-foot around too soon.]{.underline}]{.mark}***
+foot around too soon.***
 
 Although most top players rarely hit open stance when they have time to
 set up and step in or across, one of the very best ways to develop all

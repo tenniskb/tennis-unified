@@ -227,8 +227,8 @@ generated](media_roger-federer-and-rafael-nadal-round-3-2006/media/image9.webp)
 **Shot tolerance can explain great points that end with unforced
 errors.**
 
-**[[So, why did more of those types of points end with
-errors?]{.underline}]{.mark}** **[[According to Elliot all players have
+**So, why did more of those types of points end with
+errors?** **[[According to Elliot all players have
 a personal limit to the number of quality shots they can hit in any
 given point.]{.mark} [He calls this their \"Shot Tolerance.\" And when a
 player hits his limit, even if it's Federer or Nadal, the points is

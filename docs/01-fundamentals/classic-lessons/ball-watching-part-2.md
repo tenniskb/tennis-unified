@@ -55,8 +55,8 @@ eyes wide open and on the ball. However, quite surprisingly the pictures
 I took showed that Federer actually narrows his eyes as he approaches
 contact the vast majority of the time.
 
-Even more surprising **[[sometimes he actually closes his eyes after
-contact]{.underline}]{.mark}**. So, I broke down what happened with his
+Even more surprising **sometimes he actually closes his eyes after
+contact**. So, I broke down what happened with his
 eyes stroke by stroke based on over 125 example sequences.
 
 | ![Chart Description automatically | ![Chart Description automatically |

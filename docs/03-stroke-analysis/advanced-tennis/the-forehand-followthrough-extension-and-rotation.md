@@ -247,9 +247,9 @@ an artifact of the \"antiquated\" classical style.]{.mark}***
 
 Take a look at the animations. The forehands of these three players may
 appear very different to the naked eye, but compare the checkpoints at
-the extension of the forward swing***[[: wrist at eye level, racket hand
+the extension of the forward swing***: wrist at eye level, racket hand
 even with the opposite shoulder, and tremendous spacing between the
-torso and the hand and racket.]{.underline}]{.mark}***
+torso and the hand and racket.***
 
 But extension is a critical component of every good forehand, regardless
 of grip style or the amount of hand and arm rotation. This is true on
@@ -426,11 +426,11 @@ forehand, there are probably at least 25 different combinations of
 extension and rotation in the footage we've accrued, that now number
 hundreds of his forehands.
 
-***[[All these forehands are dynamic mixtures of the two basic elements
+***All these forehands are dynamic mixtures of the two basic elements
 we've been discussing. So where does that leave the average player? If
 Roger has 25 forehands, do you need 25 forehands as well? What should
 you develop first? Is there a sequence for developing the right amount
-of variety for your game?]{.underline}]{.mark}***
+of variety for your game?***
 
 ![A picture containing sport, athletic game, outdoor, tennis Description
 automatically
@@ -438,9 +438,9 @@ generated](media_the-forehand-followthrough-extension-and-rotation/media/image14
 
 **The basic forehand followthrough: extension with minimal rotation.**
 
-***[[The answer is definitely yes. Most players should develop the
+***The answer is definitely yes. Most players should develop the
 extended finish with minimal rotation first and add the wiper effect as
-needed as their game progresses]{.underline}]{.mark}***. It may seem
+needed as their game progresses***. It may seem
 less exciting and exotic, but the more basic swings that tend to
 maximize the extension factor are most effective for the vast majority
 of balls hit at the recreational level, and even in NTRP tennis to
@@ -473,8 +473,8 @@ confidence](media_the-forehand-followthrough-extension-and-rotation/media/image1
 **Every player needs the wiper in certain situations.**
 
 **This is a forehand that reaches the extension checkpoints we discussed
-above: [[wrist at eye level, hand at the opposite shoulder, good spacing
-between the racket and the torso]{.underline}]{.mark}.**
+above: wrist at eye level, hand at the opposite shoulder, good spacing
+between the racket and the torso.**
 
 ***[Do you need to learn to wiper as well? Yes, definitely. It applies
 on many balls that all players face at least at times. It's critical

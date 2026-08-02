@@ -21,7 +21,7 @@ overcome in that pursuit.
 
 **Learned Helplessness**
 
-**[[The first pitfall is learned helplessness.]{.underline}]{.mark}**
+**The first pitfall is learned helplessness.**
 Learned helplessness is the belief that you can't change the course of
 negative events\--that failure is inevitable and insurmountable. This is
 an ego protection mechanism.
@@ -36,18 +36,18 @@ heat, or the cold. They may exaggerate hurts and pains to have an excuse
 in case they don't win. Learned helplessness can also include the
 belief that opponents always get lucky breaks.
 
-**[[These players are challenge avoiders.
-Challenge]{.underline}]{.mark}** **[[avoiders feel pushed around and
+**These players are challenge avoiders.
+Challenge** **[[avoiders feel pushed around and
 that they have reduced or no influence on the outcome of their matches.
 If they feel the opponent has more ability, they feel helpless to
 win.]{.mark}]{.underline}**
 
-**[[To change this constellation of beliefs players must make a choice
-to accept and embrace their circumstances.]{.underline}]{.mark}** This
+**To change this constellation of beliefs players must make a choice
+to accept and embrace their circumstances.** This
 has to be a conscious choice based on self-awareness of what is holding
 them back.
 
-**[[They must choose to become challenge seekers.]{.underline}]{.mark}**
+**They must choose to become challenge seekers.**
 Challenge seekers choose to believe they're in control of their own
 fate. They feel they have influence on an outcome even if they cannot
 control it. When circumstances that affect their performance arise, they
@@ -61,8 +61,8 @@ confidence](media_emotional-and-mental-pitfalls/media/image2.jpg)
 
 **Fear of Failure**
 
-**[[A second obstacle faced by many players is fear of
-failure.]{.underline}]{.mark}** These athletes fear defeat may damage
+**A second obstacle faced by many players is fear of
+failure.** These athletes fear defeat may damage
 their self-esteem. This fear is the most common motivational obstacle I
 see in players.
 
@@ -72,8 +72,8 @@ in tennis, LeBron James in basketball, Tom Brady in football, or Bryce
 Harper in baseball have all battled doubt at times when the threat of
 failure loomed.
 
-**[[The fear of failure is a preoccupation with the perceived
-consequences of losing.]{.underline}]{.mark}** It's not being able to
+**The fear of failure is a preoccupation with the perceived
+consequences of losing.** It's not being able to
 get your mind off how terrible it will feel if you lose. Typically, this
 leads to a lot of anxiety over outcome before and during the event.
 
@@ -106,8 +106,8 @@ failure.**
 
 **Fear of Success**
 
-**[[The third obstacle is the opposite of the fear of failure---the fear
-of success.]{.underline}]{.mark}** When an athlete becomes fearful of
+**The third obstacle is the opposite of the fear of failure---the fear
+of success.** When an athlete becomes fearful of
 higher expectations, they fear success. Fear of success holds people
 back from achieving their goals.
 
@@ -125,8 +125,8 @@ be higher expectations of them and the opponents will be harder to beat.
 If the athlete fears they cannot handle it, they may back off from going
 all in to play a top position.]{.mark}]{.underline}**
 
-**[[The solution? Focus on maximizing your own potential than
-\"winning\" itself.]{.underline}]{.mark}** See yourself as a successful
+**The solution? Focus on maximizing your own potential than
+\"winning\" itself.** See yourself as a successful
 person if you gave your best and competed hard throughout. Separate
 \"self-worth\" from the outcome.
 
@@ -137,7 +137,7 @@ attitude.
 
 **Perfectionism**
 
-**[[The fourth obstacle is perfectionism]{.underline}]{.mark}**. Ever
+**The fourth obstacle is perfectionism**. Ever
 met someone obsessed with perfection? They are never satisfied. An
 example is a player who over trains and feels guilty when he or she
 takes any time off.
@@ -154,12 +154,12 @@ generated](media_emotional-and-mental-pitfalls/media/image4.jpg)
 
 **Some sports require perfection to succeed---but not tennis.**
 
-**[[In tennis perfectionism can be equally deadly for a different
-reason.]{.underline}]{.mark}** In a close match, no matter the final
+**In tennis perfectionism can be equally deadly for a different
+reason.** In a close match, no matter the final
 outcome you are likely to lose roughly as many points as you win.
 
-**[[Failure to be perfect can result in burnout or a drop in motivation
-to achieve.]{.underline}]{.mark}** According to Randy Frost, a leading
+**Failure to be perfect can result in burnout or a drop in motivation
+to achieve.** According to Randy Frost, a leading
 researcher on perfection, **\"Striving for perfection is fine. The issue
 is how you interpret your own inevitable mistakes and failings. Do they
 make you feel bad about yourself in a global sense?\"**
@@ -170,8 +170,8 @@ points.**
 - **[[Mistakes are part of the game and part of the
   process.]{.mark}]{.underline}**
 
-- **[[How you deal with mistakes is critical to how much stress you
-  incur and how much enjoyment you experience.]{.underline}]{.mark}**
+- **How you deal with mistakes is critical to how much stress you
+  incur and how much enjoyment you experience.**
 
 - **[[It's okay to strive for personal excellence but realize that you
   will be imperfect along the way.]{.mark}]{.underline}**

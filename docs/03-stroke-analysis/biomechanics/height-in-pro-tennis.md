@@ -165,8 +165,8 @@ There are advantages and disadvantages to height. Extremes on one end of
 the spectrum (short) of the other (tall) make it more inherently more
 difficult to reach and stay at the highest level of the sport.
 
-**[[It is pretty clear that for men the optimal height is in the 6'1''
--- 6'4\" range. Presumably]{.underline}]{.mark}** **[[this height
+**It is pretty clear that for men the optimal height is in the 6'1''
+-- 6'4\" range. Presumably** **[[this height
 averages out the benefits and detriments of the extremes. It]{.mark}
 [also seems evident that this optimum is gradually increasing. So, what
 does that mean for outlier individuals to that
@@ -174,12 +174,12 @@ range?]{.mark}]{.underline}**
 
 It by no means says that these individuals can't be great players and
 enjoy tremendous success in tennis. And this was the point I made in the
-60 Minutes piece (that hit the cutting room floor) -- **[[Mr.
+60 Minutes piece (that hit the cutting room floor) -- **Mr.
 Schwartzman has had great success by excelling on return of serve,
 developing adequate ground strokes and volleys, and mental and tactical
-toughness.]{.underline}]{.mark}** **[[It will be very difficult for him,
+toughness.** **It will be very difficult for him,
 however, to achieve the elite status of the perennial top 10 players
-like Federer, Nadal and Djokovic.]{.underline}]{.mark}**
+like Federer, Nadal and Djokovic.**
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |

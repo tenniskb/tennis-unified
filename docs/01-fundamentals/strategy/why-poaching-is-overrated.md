@@ -138,9 +138,9 @@ Now try poaching once when you're way ahead in a game, 40 love or
 look to cut it off as soon as you see it. Don't worry about your alley,
 if they hit a winter down the line you're still ahead.
 
-**[[Poaches when you are ahead are low risk. Whether they successful or
+**Poaches when you are ahead are low risk. Whether they successful or
 not, they still create a layer of concern for your
-opponent.]{.underline}]{.mark}**
+opponent.**
 
 **[[They not only have to focus on hitting their shot, they have one eye
 and part of their brain on you too. Your potential poach is now a factor
@@ -153,9 +153,9 @@ confidence](media_why-poaching-is-overrated/media/image5.webp)
 
 **When you do poach move forward aggressively and cut the ball off.**
 
-**[[Another situation to try the poach is on second serve returns when
+**Another situation to try the poach is on second serve returns when
 the opponent's second serve is weak or if your partner has an
-especially effective return.]{.underline}]{.mark}** **[[When your
+especially effective return.** **[[When your
 partner is about to hit the return, move forward well into the service
 box so you're in better position to start the poach.]{.mark} [If you
 start at the service line like most players do, you will rarely have

@@ -69,12 +69,12 @@ the chain.]{.mark}**
 The leg drive is therefore complete, and the body has been driven or
 pushed upward into the air.]{.mark}**
 
-***[[Since the feet have lost contact with the ground, this means that
+***Since the feet have lost contact with the ground, this means that
 the legs can generate no further force from the ground. This means that
 angular momentum can neither increase or decrease, and is now constant
 around all axes of the body. How this finite amount of momentum moves
 through the kinetic chain is critical for the rest of the
-motion.]{.underline}]{.mark}***
+motion.***
 
 **The Trunk**
 
@@ -108,13 +108,13 @@ baseline.]{.mark}**
 
 **The Hitting Arm**
 
-**[[In the previous article we also saw that during the backswing, the
+**In the previous article we also saw that during the backswing, the
 dominant hitting arm motion was external rotation of the upper arm. This
 motion, combined with the elevation of the upper arm at the shoulder,
 are the factors that are most responsible for the depth of the racket
-drop.]{.underline}]{.mark}** ***[[The depth of the racket drop is
+drop.** ***The depth of the racket drop is
 important because it dictates the available range of motion during the
-upward swing for developing racket head speed.]{.underline}]{.mark}***
+upward swing for developing racket head speed.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -129,9 +129,9 @@ as much racquet speed as possible. The companion goals are to contact
 the ball at the greatest height with the racquet face traveling on the
 optimal path for the desired shot direction.]{.mark}]{.underline}***
 
-***[[The velocity (speed and direction) of the racquet face is the sum
+***The velocity (speed and direction) of the racquet face is the sum
 of the rotations of the joints of the body, considering the joint's
-proximity to the racquet face.]{.underline}]{.mark}*** Elbow extension,
+proximity to the racquet face.*** Elbow extension,
 for example, can cause the racquet face to move \-- the velocity of the
 movement being determined by the rate of the elbow extension and the
 elbow's location in relation to the racquet face.
@@ -143,9 +143,9 @@ Here](http://www.tennisplayer.net/members/biomechanics/brian_gordon/serve_tennis
 They provide great insight into how racquet speed is developed in the
 upward swing, as we'll see below.
 
-***[[It is important to understand, however, that the joint rotations
+***It is important to understand, however, that the joint rotations
 and their contributions to racquet speed do not occur on their
-own.]{.underline}]{.mark}*** **[Instead they are effects of complex
+own.*** **[Instead they are effects of complex
 kinetic interactions. It is not my intention to unravel this kinetic
 puzzle in this article because this has never been accomplished.
 Instead, the goal is to investigate pieces of the puzzle that relate to
@@ -158,8 +158,8 @@ speed is angular momentum. To generate a large amount of racquet speed
 at contact, you must generate a large amount of angular momentum in the
 hand/racquet.]{.mark}]{.underline}***
 
-***[[The most important component for racquet speed is forward angular
-momentum.]{.underline}]{.mark}*** This momentum is first acquired by
+***The most important component for racquet speed is forward angular
+momentum.*** This momentum is first acquired by
 pushing on the ground with the legs. Then it must accumulate in the
 trunk where it can be transferred to the hitting arm, and then on to the
 racket. So the trunk is a major hub in the transfer highway.
@@ -173,8 +173,8 @@ trunk, we must briefly revisit the backswing.
 
 **The \"Cartwheel\" and Shoulder Motion**
 
-***[[The critical portion of the forward angular momentum transfer into
-the trunk occurs during the backswing.]{.underline}]{.mark}*** **[This
+***The critical portion of the forward angular momentum transfer into
+the trunk occurs during the backswing.*** **[This
 transfer is through the so-called cartwheel motion of the trunk. The
 backward lean at the end of the windup (seen in a side view) sets up
 this transfer. This is the so-called \"archer's bow\". It is an
@@ -188,8 +188,8 @@ leg. These actions cause the momentum to be redistributed from the legs
 to the trunk. The trunk then straightens into alignment with the legs
 during the cartwheel.
 
-***[[The transfer to the hitting arm starts later in the backswing and
-continues into the early upward swing.]{.underline}]{.mark}*** **[The
+***The transfer to the hitting arm starts later in the backswing and
+continues into the early upward swing.*** **[The
 transfer is accomplished through muscular activity causing motion at the
 shoulder joint. The motion starts as an upward movement of the upper arm
 (abduction), later combined with a forward movement of the upward arm
@@ -206,10 +206,10 @@ confidence](media_the-3d-serve-upward-swing-part-1/media/image6.webp)
 **Shoulder abduction; the movement of the upper arm upward and
 forward.**
 
-My research indicates that ***[[at the start of the upward swing, high
+My research indicates that ***at the start of the upward swing, high
 level servers have used the cartwheel and shoulder joint motion to
 transfer around 75% of their total forward angular momentum into the
-upper body (trunk and arm).]{.underline}]{.mark}***
+upper body (trunk and arm).***
 
 But if we look at the 3D data in user interface for our junior player,
 we see he has transferred only a little over 50 percent of his total
@@ -227,35 +227,35 @@ transfer is the transfer into the trunk (cartwheel), or into the arm
 
 In the case of the junior player, the answer is both. But if you don't
 happen to have 3D technology on hand to measure angular momentum, how
-can you detect this problem? ***[[A good indicator of the potential
+can you detect this problem? ***A good indicator of the potential
 momentum transfer into the trunk is the backward lean of the trunk at
-the end of the windup.]{.underline}]{.mark}***
+the end of the windup.***
 
 ![](media_the-3d-serve-upward-swing-part-1/media/image7.webp)
 
 **Little backward lean means little momentum transfer.**
 
-Our example player has a small angle of about 5-6 degrees. ***[[This
+Our example player has a small angle of about 5-6 degrees. ***This
 compares to a target value of 30 degrees for the high performance
-servers in our data base.]{.underline}]{.mark}*** (We can see this by
+servers in our data base.*** (We can see this by
 selecting \"Segment/Joint Angles\" in the \"Data Options\" and scrolling
 down to backward lean of the trunk at the end of the wind up). This
 small angle indicates that the potential for trunk cartwheel is low, and
 because of this, it is likely that the forward angular momentum transfer
 into the trunk will be insufficient.
 
-***[[As for the shoulder joint motion (upward and forward upper arm
+***As for the shoulder joint motion (upward and forward upper arm
 movement) and associated angular momentum transfer into the arm, young
 and inexperienced players will almost always lack the strength or
 technique to lift the upper arm at the shoulder
-joint.]{.underline}]{.mark}*** So while I always verify with 3-D data
+joint.*** So while I always verify with 3-D data
 the extent of the problem, I systematically start strength work on
 exercises that mimic this arm position and motion. (More on my views on
 the strength training aspect in a future series of articles.)
 
-***[[Unless this deficiency in the shoulder motion in the early upward
+***Unless this deficiency in the shoulder motion in the early upward
 swing is addressed, the body will devise its own solution. It's not a
-great solution, unfortunately.]{.underline}]{.mark}*** **[This solution
+great solution, unfortunately.*** **[This solution
 is to replace shoulder motion with elbow extension as the source of
 racket speed early in the upward motion. *[This dissipates the
 contribution of the elbow extension too soon and causes irregularity in
@@ -284,10 +284,10 @@ depends on how much lateral trunk tilt a given player has in his motion.
 (Remember that lateral trunk tilt is the angle the trunk is tilted to
 the left when seen in a back view).
 
-***[[As I indicated in the earlier review of backswing positions, the
+***As I indicated in the earlier review of backswing positions, the
 trunk enters the backswing with at least some lateral tilt due to the
 bend of the knees at the end of the wind up. The tilt then continues to
-increase to varying degrees.]{.underline}]{.mark}*** **[This amount of
+increase to varying degrees.*** **[This amount of
 additional tilt is related to the amount of lateral angular momentum
 generated by the leg drive. But another factor affecting the source of
 the tilt is the progression of hip rotation. This is in turn affected by
@@ -296,8 +296,8 @@ the nature of the stance.]{.mark}**
 ![](media_the-3d-serve-upward-swing-part-1/media/image9.webp)**\
 What is the function or value of more extreme tilt?**
 
-***[[The bottom line is that some lateral tilt is optimum, but too much
-is detrimental.]{.underline}]{.mark}*** **[Why is the amount of the tilt
+***The bottom line is that some lateral tilt is optimum, but too much
+is detrimental.*** **[Why is the amount of the tilt
 so important? The reason is that it affects how the player can position
 the arm and racket at contact when he executes the upward
 swing.]{.mark}**
@@ -337,12 +337,12 @@ a way to directly or indirectly gain racket speed. But it is not the
 optimum way, and it may create long term limitations in the motions of
 young players.]{.mark}**
 
-***[[Why does more tilt increase trunk rotation speed? The animation
+***Why does more tilt increase trunk rotation speed? The animation
 illustrates this concept. When the trunk is upright it rotates slowly
 forward \-- however, when on its side, the rate of rotation increases
 drastically even when fueled by the same amount of angular momentum.
 It's similar to the way an ice skater can increase the speed of a spin
-by pulling her arms in closer to the body.]{.underline}]{.mark}***
+by pulling her arms in closer to the body.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -392,10 +392,10 @@ version of what I have actually measured with junior players. This
 configuration shows the common tendency we see in so many developing
 players.
 
-**[[You can see how this change in the angle of the trunk tilt affects
+**You can see how this change in the angle of the trunk tilt affects
 the other angles. The hitting arm in the yellow lines is now at a 160
 degree angle to the shoulder line. The angle between the arm and the
-racket has increased as well to 169 degrees.]{.underline}]{.mark}**
+racket has increased as well to 169 degrees.**
 
 ***[[The changes in these angles have performance outcome consequences,
 and small changes can have big impact. And the choice could not be more
@@ -409,10 +409,10 @@ speed prior to contact comes from the combination of Shoulder Internal
 Rotation and Forearm Pronation. Compare that to the contribution of
 Upper Trunk Twist or rotation at 13 percent.
 
-***[[Remember that by tilting the trunk, greater trunk twist rotation
+***Remember that by tilting the trunk, greater trunk twist rotation
 speed can be achieved with relatively low forward angular momentum. It
 follows that this greater trunk twist rotation will contribute more to
-racquet speed near contact.]{.underline}]{.mark}***
+racquet speed near contact.***
 
   --------------------------------------------------------
             Contributions Just Prior to Contact:
@@ -461,11 +461,11 @@ same effect in the green lines which show less tilt and an even smaller
 angle.  In the green lines, the angle of the trunk tilt is 70 degrees. 
 This reduces the angle between the arm and the racket to 140 degrees.
 
-***[[So to summarize, more tilted configurations favor trunk twist
+***So to summarize, more tilted configurations favor trunk twist
 rotation, elbow extension, and wrist flexion as the main contributors,
 largely at the expense of shoulder internal rotation and pronation. Less
 tilted configurations increase the role of shoulder internal rotation
-and pronation.]{.underline}]{.mark}***
+and pronation.***
 
 ![A person playing tennis Description automatically
 generated](media_the-3d-serve-upward-swing-part-1/media/image14.webp)

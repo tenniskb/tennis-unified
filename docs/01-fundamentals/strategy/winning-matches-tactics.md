@@ -36,7 +36,7 @@ If you're a baseliner with a poor volley and losing to a volleyer, it
 may pay for you to come to the net anyway. Your weak volleys may have
 the advantage in exchanges with his weak ground strokes.
 
-**[[Almost every player has a weaker side.]{.underline}]{.mark}**
+**Almost every player has a weaker side.**
 **[[Even if your opponent's forehand and backhand appear equal, it's
 highly probable that over the course of a match they will not be. A
 vital task then is to determine which side is the weak side, and if
@@ -56,38 +56,38 @@ appearance, a stroke that produces a lot of miss hits or errors with
 wide margins, or a stroke that is hit primarily with the arm as opposed
 to the shoulders and legs.]{.mark}]{.underline}**
 
-**[[Once you've identified it, the weakness becomes your point of
-attack.]{.underline}]{.mark}** **[[How to exploit it depends on how weak
+**Once you've identified it, the weakness becomes your point of
+attack.** **How to exploit it depends on how weak
 it is. If it's much weaker than the stronger side, you can play it
-almost exclusively.]{.underline}]{.mark}** **[[Your goal is to break it
+almost exclusively.** **Your goal is to break it
 down over time. This in turn will erode your opponent's confidence in
-the remaining parts of his game.]{.underline}]{.mark}** **[[If it's
+the remaining parts of his game.** **If it's
 played relentlessly, a severe weakness will usually get worse as the
-match progresses.]{.underline}]{.mark}**
+match progresses.**
 
 The more important the point, the more you should play to the weakness.
 It's most likely to break down in a pressure situation. The strength is
 more likely to hold. Even if the weaker side is not substantially worse
 it should still be attacked on bigger points.
 
-**[[Sometimes you can even create a weakness when an opponent seems to
-have even strokes on both sides.]{.underline}]{.mark}** **[[For example,
+**Sometimes you can even create a weakness when an opponent seems to
+have even strokes on both sides.** **[[For example,
 the forehand can sometimes be broken down, even when it looks good early
 in a match. This is because the forehand is usually more dependent on
 confidence than the backhand.]{.mark} [Hitting a lot of balls to your
 opponent's forehand can cause a player to question his own shot and
-lead to a loss of confidence.]{.mark}]{.underline}** **[[In effect,
+lead to a loss of confidence.]{.mark}]{.underline}** **In effect,
 you're telling him, I don't think your forehand is very good. Prove to
 me that I'm wrong. Often your opponent will start thinking about it and
-start missing.]{.underline}]{.mark}**
+start missing.**
 
 Attacking your opponent's strength can help you dominate him on a
 psychological level. It can make him feel weak and increase the chance
-that he'll lose his resolve at some stage of the match. **[[Another
+that he'll lose his resolve at some stage of the match. **Another
 important tactic in the battle of wills, never show your opponent that
 he's hurt you in any way. If you can project an image of overwhelming
 force, it can make your opponent feel ineffectual and cause him to press
-too hard.]{.underline}]{.mark}**
+too hard.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
@@ -111,13 +111,13 @@ pressure, and even if he's able to hit some good passing shots, this
 tactic may pay off with errors on big points later, maybe at critical
 times in the match.
 
-**[[Another important tactical point: when you have your opponent in
+**Another important tactical point: when you have your opponent in
 trouble, don't let him get out of it by hitting a soft, high, floating
-return.]{.underline}]{.mark}** **[[If he tries this, move forward and
+return.** **If he tries this, move forward and
 volley the next shot from the mid-court area so your opponent does not
 have time to recover. If you move in and pick off a few of these high
 shots, he will be forced to try for more when he's in trouble and make
-more mistakes.]{.underline}]{.mark}**
+more mistakes.**
 
 Another general rule: never hit a more difficult shot than necessary to
 accomplish your objective. In the long run, high percentage players win
@@ -139,27 +139,27 @@ To be a successful competitor you must learn to evaluate the risk to
 reward ratios in your shot making and try to adjust them so that the
 percentages are in your favor over the course of a match.
 
-**[[One way to slant the percentages in your favor is by judicious use
+**One way to slant the percentages in your favor is by judicious use
 of the net. It's good, for example, to serve and volley often enough to
 keep your opponent in doubt. If you don't come to the net at least
 occasionally, he has the freedom to hit high, deep, floating returns off
 your best serves, and these have minimal risk of
-error.]{.underline}]{.mark}**
+error.**
 
-**[[The possibility that you may serve and volley forces him to hit
+**The possibility that you may serve and volley forces him to hit
 lower, harder returns and this can produce extra errors. Attacking the
 net becomes more likely to succeed as the points become more crucial,
-particularly at higher levels of play.]{.underline}]{.mark}**
+particularly at higher levels of play.**
 
-**[[There's a well-known relationship in tennis between the player's
+**There's a well-known relationship in tennis between the player's
 ability to hit shots and his arousal or excitement
-level.]{.underline}]{.mark}** **[[If your arousal level is low, for
+level.** **If your arousal level is low, for
 example if you're half asleep, your performance will be poor. As
 arousal increases, performance improves until it reaches a peak, after
 which it starts to fall as arousal becomes too
-high]{.underline}]{.mark}**. **[[You'll play your best when you are
+high**. **You'll play your best when you are
 moderately excited, but you'll play worse if you're not sufficiently
-excited or if you're overly excited.]{.underline}]{.mark}**
+excited or if you're overly excited.**
 
 **[[Pressure raises your opponent's arousal level. Early in a match his
 arousal level may be low and attacking the net may excite him just
@@ -173,13 +173,13 @@ enough to stimulate some good passing shots.]{.mark}]{.underline}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[But later in the match, say 5-all in the third set when he's
+**But later in the match, say 5-all in the third set when he's
 already under pressure, attacking the net can push his arousal level
 past the optimum level, so that hitting passing shots becomes very
-difficult and his performance declines.]{.underline}]{.mark}** **[[If
+difficult and his performance declines.** **If
 you have a problem with choking on big points because you become overly
 excited, one strategy is to come to the net and give your opponent the
-chance to choke first.]{.underline}]{.mark}**
+chance to choke first.**
 
 **[[There are other ways to gain advantages in certain pressure
 situations. Generally, your opponent will feel more pressure when he's
@@ -187,23 +187,23 @@ ahead, like when he has a chance to close out the set or the match, or
 when he has a break point on your serve or an add point on his own serve
 in an important game.]{.mark}]{.underline}**
 
-**[[In these situations, his nerves can cause him to miss easy shots or
+**In these situations, his nerves can cause him to miss easy shots or
 try something that's tactically foolish because he wants to end the
 point too quickly. Don't let your opponent off the hook by missing
-quickly yourself.]{.underline}]{.mark}** **[[Play consistent,
+quickly yourself.** **Play consistent,
 high-percentage tennis in these situations and test his nerves. Force
 him to beat you with great shots when he's under
-pressure.]{.underline}]{.mark}**
+pressure.**
 
-**[[Another basic tactical decision is how much variety to introduce
+**Another basic tactical decision is how much variety to introduce
 into your particular strategic style. Some players are most effective
 when they try to break up their opponent's rhythm. They do this by
 constantly varying their spins, power, placements and
-strategies]{.underline}]{.mark}**. **Arthur Ash and Rod Laver did
-this.** **[[Against this type of player, you feel off balance and have
+strategies**. **Arthur Ash and Rod Laver did
+this.** **Against this type of player, you feel off balance and have
 little or no rhythm. On the other hand, the player who uses this style
 has less continuity and rhythm himself, and so he tends to make a few
-extra errors also.]{.underline}]{.mark}**
+extra errors also.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A couple of men playing tennis Description automatically generated with medium
@@ -213,16 +213,16 @@ extra errors also.]{.underline}]{.mark}**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The opposite approach is to be very methodical
-in]{.underline}]{.mark}** **[[play patterns. Your opponent knows what
+**The opposite approach is to be very methodical
+in** **play patterns. Your opponent knows what
 you're going to do, but because you have so few decisions to make you
-will probably be very consistent.]{.underline}]{.mark}** **Great players
+will probably be very consistent.** **Great players
 like Jack Kramer, Poncho Gonzalez and John Newcombe did this.**
-**[[Their style was to hit a high percentage of first serves in the
+**Their style was to hit a high percentage of first serves in the
 court, hit deep first volleys, shift consistent low returns, and
 eliminate unforced errors. They felt that if they were able to execute
 their game plans well, there was little their opponent could do about it
-anyway.]{.underline}]{.mark}**
+anyway.**
 
 The question of evaluating which of this wide range of tactical
 approaches will produce winning tennis depends on your capabilities. But

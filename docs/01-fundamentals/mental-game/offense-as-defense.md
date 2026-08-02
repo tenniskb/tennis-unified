@@ -54,11 +54,11 @@ critical times.
 
 **Smart Bombs**
 
-**[[Here is the first rule. To be a successful attacker you have to know
-when and how much to attack.]{.underline}]{.mark}** **[[Being overly
+**Here is the first rule. To be a successful attacker you have to know
+when and how much to attack.** **Being overly
 aggressive too fast is the biggest mistake inexperienced players make,
 especially when they come face to face with the dreaded
-pusher.]{.underline}]{.mark}**
+pusher.**
 
 **[[They panic and feel they have to blow the player off the court on
 every slow ball. This is the suicide bomber approach and it will end in
@@ -74,16 +74,16 @@ winner on every shot, even at the tour level. Even if you make a few you
 are still not getting on Sports Center. And unfortunately, you will
 likely lose every match you play with this mentality.
 
-**[[So don't be a mindless errorist. Learn to assess the
-situation]{.underline}]{.mark}**. There will always be an appropriate
+**So don't be a mindless errorist. Learn to assess the
+situation**. There will always be an appropriate
 ball to attack. It may come very soon, or it may come a little later.
 But you can't attack if you have already lost the point on an impatient
 error.
 
 **Multi Front War**
 
-**[[Be prepared to fight a multi front war. Develop a versatile
-well-rounded game.]{.underline}]{.mark}** Very few players are so
+**Be prepared to fight a multi front war. Develop a versatile
+well-rounded game.** Very few players are so
 dominant that they can impose their game on every opponent. You must be
 able to implement a variety of playing styles, dependent upon our
 opponent's strengths and weaknesses.
@@ -100,14 +100,14 @@ confidence](media_offense-as-defense/media/image4.webp)
 **When attacking be ready and able to put overheads away from deeper in
 the court.**
 
-**[[For example, against a pushing type player, it's normally advised
-to approach the net.]{.underline}]{.mark}** The problem of course is
+**For example, against a pushing type player, it's normally advised
+to approach the net.** The problem of course is
 that with the ball slowed down so much, doing damage on the approach is
 difficult without risking errors.
 
-**[[This gives the defensive player time to hit passes and also lobs.
+**This gives the defensive player time to hit passes and also lobs.
 Don't fall into the trap of volleying into the open court too soon and
-exposing your line.]{.underline}]{.mark}** Be prepared to hit an extra
+exposing your line.** Be prepared to hit an extra
 volley or three back at the player or behind him to keep him pinned down
 until you can really hurt him.
 

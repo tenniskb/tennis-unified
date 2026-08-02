@@ -39,10 +39,10 @@ the opponent in the right mental direction so that it is he, and not
 you, who gives in to the physical and emotional pressure of the moment.
 How can you help him along?
 
-**[[First, keep in mind that a player brings with him to the tennis
+**First, keep in mind that a player brings with him to the tennis
 court all of the components of his psychological makeup from the \"real
 world.\" By better understanding some of these components, you can learn
-to use them to help you win tennis matches.]{.underline}]{.mark}**
+to use them to help you win tennis matches.**
 
 Consider one: **[[a person's attitude about himself - or his
 \"self-image.\" On or off the tennis court, our self-images are largely
@@ -84,14 +84,14 @@ would be deeply affected. In fact, since we are social creatures, we
 ultimately accept the accumulation of other people's \"evaluations\" of
 us (as evidenced by the way they treat us) as reality.
 
-**[[Similarly, on the tennis court, your opponent's self-image as a
+**Similarly, on the tennis court, your opponent's self-image as a
 tennis player will be affected by your attitude toward him. If you fear
-him, he will feel strong.]{.underline}]{.mark}** **[[If you disdain him,
+him, he will feel strong.** **If you disdain him,
 he will feel uncertain. If you respect him, he will fell
-confident.]{.underline}]{.mark}** **[[You must be careful, therefore,
+confident.** **You must be careful, therefore,
 lest you supply your opponent with psychological ammunition to be used
 against you. Your objective is to undermine his confidence, not to build
-it up.]{.underline}]{.mark}**
+it up.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                       ![A person playing tennis Description automatically generated with medium
@@ -101,8 +101,8 @@ it up.]{.underline}]{.mark}**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[First, however, let me qualify this idea with the understanding that
-a tennis match is not a street-fight.]{.underline}]{.mark}** There are
+**First, however, let me qualify this idea with the understanding that
+a tennis match is not a street-fight.** There are
 definite written and unwritten codes of behavior by which we must abide.
 But within these codes, it is absolutely legitimate to try to debilitate
 your opponent in every way you can. You cannot separate the mental and
@@ -111,9 +111,9 @@ emotionally comfortable will make him play better and fight longer,
 whether you do it by massaging his ego or by feeding him his favorite
 shots.
 
-**[[An acceptable, yet effective, attitude is one in which you indicate
+**An acceptable, yet effective, attitude is one in which you indicate
 to your opponent that you expect to beat him no matter what he
-does.]{.underline}]{.mark}** Furthermore, you want him to feel that you
+does.** Furthermore, you want him to feel that you
 have no fear of his game or abilities - that you are completely
 impervious to his finest efforts. In convincing him of these things, the
 line that you must not cross is the one where you overtly attack him by
@@ -122,11 +122,11 @@ money sport such breaches were rare. In those days players were
 sincerely concerned about maintaining the respect and friendship of
 their fellow competitors. Jimmy Connors, Ilie Nastase, and John McEnroe
 changed all that, and in my years of coaching the Pepperdine tennis team
-**[[I often saw young players shaking their fists at opponents, calling
+**I often saw young players shaking their fists at opponents, calling
 them names and behaving boorishly antagonistic. This is not necessary,
 and, moreover, it is wrong. The goal of weakening an opponent mentally
 can be achieved with equal effectiveness and more
-subtlety.]{.underline}]{.mark}**
+subtlety.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing hockey Description automatically generated with low
@@ -136,33 +136,33 @@ subtlety.]{.underline}]{.mark}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Before the open era the great players were very capable of making an
+**Before the open era the great players were very capable of making an
 opponent feel small, weak and vulnerable without the slightest breach of
 sportsmanship or ethics. They did it by their
-attitudes.]{.underline}]{.mark}**
+attitudes.**
 
 When you walked on court with the likes of Rod Laver, Roy Emerson,
 Arthur Ashe, John Newcombe or Stan Smith you were significantly
-intimidated without them appearing to do anything. **[[They did it by
+intimidated without them appearing to do anything. **They did it by
 the way they carried themselves, in their bearings and in their
-reactions to your shots.]{.underline}]{.mark}** **[[Nothing you ever did
+reactions to your shots.** **Nothing you ever did
 seemed to worry them. They looked like they expected to win and your
-small efforts to the contrary were futile.]{.underline}]{.mark}**
+small efforts to the contrary were futile.**
 
-**[[Stan Smith was particularly adept, in his playing days, at making
+**Stan Smith was particularly adept, in his playing days, at making
 opponents feel small and weak. In fact he was even a little annoying,
 although no one could ever actually pin a bad sportsmanship rap on
-him.]{.underline}]{.mark}** What debilitated his opponent was the fact
+him.** What debilitated his opponent was the fact
 that Stan (who won Wimbledon in 1972 and the US Open in 1971) had
 unswerving belief in his own invincibility and his bearing made this
-belief obvious to his opponent. **[[If you hit a great shot against Stan
+belief obvious to his opponent. **If you hit a great shot against Stan
 he never acknowledged it - he didn't look at you, he walked in his
 normal, erect, purposeful manner and went routinely about his business
 as if nothing had happened. Stan always gave the impression that he had
 total control of his little world, you were no part of it, and your
 efforts to shake him were puny and unworthy of notice. Nothing was said.
 This was simply how he appeared, and you, as his opponent, felt like a
-pigmy.]{.underline}]{.mark}**
+pigmy.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically

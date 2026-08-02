@@ -92,19 +92,19 @@ circle and the ellipse, making the task of discrimination impossible.
 Yet the dog continued to try to figure it out and press the bar,
 sometimes getting the food and sometimes the shock.
 
-**[[As a result, the dog became increasingly agitated and disturbed,
+**As a result, the dog became increasingly agitated and disturbed,
 entering a state of what the experimenters termed \"experimental
-neurosis.\"]{.underline}]{.mark}** **[[It yelped and squirmed to avoid
+neurosis.\"** **[[It yelped and squirmed to avoid
 being put into the harness. Of]{.mark} [course, it had only to stop
 pressing the bar regardless of what it saw on the screen to avoid the
 shocks, but the dog kept trying to solve an impossible
 problem.]{.mark}]{.underline}**
 
-**[[So it got randomly rewarded and punished attempting to control an
-outcome that was uncontrollable.]{.underline}]{.mark}** **[[As a result,
+**So it got randomly rewarded and punished attempting to control an
+outcome that was uncontrollable.** **As a result,
 the dog become very nervous and tried to escape from this stressful and
 unpleasant situation - much as tennis players often do in an analogous
-situation.]{.underline}]{.mark}**
+situation.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                           ![A person holding a dog Description automatically generated with medium
@@ -145,9 +145,9 @@ confidence](media_why-emotions-can-be-counter-productive/media/image5.webp)
 
 **Defense Mechanisms**
 
-**[[When players elect to forget about winning in favor of making
+**When players elect to forget about winning in favor of making
 excuses, becoming blindly angry, or deciding that further efforts to win
-are hopeless,]{.underline}]{.mark}** they are employing what Sigmond
+are hopeless,** they are employing what Sigmond
 Freud called **[[\"defense mechanisms.\"]{.mark} [These are unconscious
 distortions of perception and interpretation that protect us from
 unpalatable realities, and they are quite normal.]{.mark}]{.underline}**
@@ -283,8 +283,8 @@ see you as weak for having to tell them about it. In the worst case,
 they don't believe you and think you are fabricating on top of being
 weak. In either case, they lose some respect for you.
 
-**[[Finally, nobody except your mother is interested in your tennis
-problems, real or not.]{.underline}]{.mark}** If you feel an excuse
+**Finally, nobody except your mother is interested in your tennis
+problems, real or not.** If you feel an excuse
 coming, bite your lip, and resist talking about it. Put it out of your
 mind or work around it. If you want to win the match you will need all
 your mental faculties focused on playing better. Lamenting your problems

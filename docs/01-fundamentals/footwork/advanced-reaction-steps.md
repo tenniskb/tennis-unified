@@ -17,21 +17,21 @@ pressures your opponent to execute higher quality shots, which will
 result in more errors.
 
 Recently, I was fortunate to spend time with one of the all-time greats,
-Ivan Lendl. **[[One question I asked him: \"What is the greatest
+Ivan Lendl. **One question I asked him: \"What is the greatest
 strength shared by the best players of any era?\" Ivan didn't hesitate:
 \"Movement,\" he answered. \"The best players of every era have also
-been the players with the best movement.\"]{.underline}]{.mark}**
+been the players with the best movement.\"**
 
 **Sprints**
 
-**[[Players who are slow to react fall behind the tempo of the rally.
+**Players who are slow to react fall behind the tempo of the rally.
 This forces them to rush their movement to try to catch
-up]{.underline}]{.mark}**. **[[A late start means greater risk of
+up**. **A late start means greater risk of
 getting to the ball late and missing opportunities to play
-offensively.]{.underline}]{.mark}** **[[It affects a player's ability
+offensively.** **It affects a player's ability
 to control the ball and sustain longer rallies. Players whose timing is
 out of sync appear to be on the defensive and scrambling to keep up with
-the rally pace.]{.underline}]{.mark}**
+the rally pace.**
 
 ![A person playing tennis Description automatically
 generated](media_advanced-reaction-steps/media/image2.webp)
@@ -40,19 +40,19 @@ generated](media_advanced-reaction-steps/media/image2.webp)
 
 Movement specialists like Roger Federer have mastered the skill of
 timing their movement to stay slightly ahead of the pace of the rally.
-**[[Federer's explosive, well timed starts, agility, smooth footwork,
+**Federer's explosive, well timed starts, agility, smooth footwork,
 and instantaneous changes of direction enable him to look
-effortless.]{.underline}]{.mark}** **[[He makes playing tennis look
-fluid and artistic.]{.underline}]{.mark}** **[[It is the combination of
-his technique and timing that makes it happen.]{.underline}]{.mark}**
+effortless.** **He makes playing tennis look
+fluid and artistic.** **It is the combination of
+his technique and timing that makes it happen.**
 
-**[[In reality, tennis points are nothing more than a series of short,
-multi-directional sprints.]{.underline}]{.mark}** **[[Primarily these
+**In reality, tennis points are nothing more than a series of short,
+multi-directional sprints.** **Primarily these
 are lateral sprints, but they include movement in every direction to
 every point of the court, ranging in length from a few feet to a few
 yards. Like the sprinter, it is extremely important to react explosively
 to the opponent's strike of the ball and then to be equally quick to
-recover.]{.underline}]{.mark}**
+recover.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -63,7 +63,7 @@ confidence](media_advanced-reaction-steps/media/image3.webp)
 In my first article, we discussed the Athletic Foundation, the basic
 posture that makes this explosive possible. Now we'll outline the two
 most common first step reactions in pro tennis. I call these the
-**[[Pivot Step and the Drop Step.]{.underline}]{.mark}** The Pivot Step
+**Pivot Step and the Drop Step.** The Pivot Step
 and the Drop Step are advanced moves that all players must execute if
 they want to play at their highest level possible.
 
@@ -74,12 +74,12 @@ baseline to baseline in less than 2 seconds. At the pro level, sometimes
 that is reduced to little more than a second. At most you have 2 seconds
 to react, move and position to hit. How far can you travel in 2 seconds?
 
-**[[Reacting successfully to the ball in tennis is dictated by this time
+**Reacting successfully to the ball in tennis is dictated by this time
 interval, but also by the basic laws of motion. The human body is an
 object that has mass. In the ready position, the body is also in a state
 of inertia. When enough force is applied to overcome this state of
 inertia, the body is put in motion and establishes momentum in the
-direction of the movement]{.underline}]{.mark}**.
+direction of the movement**.
 
 ![A person playing tennis Description automatically
 generated](media_advanced-reaction-steps/media/image4.webp)
@@ -87,23 +87,23 @@ generated](media_advanced-reaction-steps/media/image4.webp)
 **A lower center of gravity means better use of lower body muscles.**
 
 Your ability to put your body in motion is directly related to your
-center of gravity. **[[In the ready position, the wider your stance, the
-lower your center of gravity.]{.underline}]{.mark}** This is what the
-wide base of the athletic foundation is all about. **[[By bending your
+center of gravity. **In the ready position, the wider your stance, the
+lower your center of gravity.** This is what the
+wide base of the athletic foundation is all about. **By bending your
 knees, widening your base and lowering the hips, you lower your center
-of gravity]{.underline}]{.mark}**. **[[Positioning lower to the ground
+of gravity**. **Positioning lower to the ground
 enables you to better access the strength of your lower body muscles to
 achieve greater stability and greater control of your body
-mass.]{.underline}]{.mark}** **[[This wide base creates less of a load
+mass.** **This wide base creates less of a load
 on the leg muscles by distributing the body weight so that you can use
 the hip and gluteus muscles. Put simply you are in a position to
-initiate your movement more explosively.]{.underline}]{.mark}**
+initiate your movement more explosively.**
 
-**[[If you try to lower your center of gravity from a narrow base with
+**If you try to lower your center of gravity from a narrow base with
 your feet too close together, the load of your body weight distributes
 into the lower thighs just above the knees. This actually makes it more
 difficult to stay down and causes your leg muscles to fatigue more
-quickly.]{.underline}]{.mark}**
+quickly.**
 
 **[Learning to manage a consistently low center of gravity throughout
 play creates the fluid, smooth and agile look of a pro. It is the
@@ -138,17 +138,17 @@ it's time to evolve to the wider base as part of a more advanced
 Athletic Foundation, to become more successful at the higher levels of
 play.
 
-**[[At times you may see top players execute the step out for moving a
+**At times you may see top players execute the step out for moving a
 step or two to hit. But under time pressure when covering greater
 distances, the step out is a slower reaction maneuver because it fails
-to establish much upper body momentum]{.underline}]{.mark}**.
-**[[Establishing upper body momentum in the first move is the key to
+to establish much upper body momentum**.
+**Establishing upper body momentum in the first move is the key to
 explosive first step reactions. It begins by being low and establishing
 a wide base. This is why you will see players establish the wide
-base.]{.underline}]{.mark}** **[[In fact the more challenged they feel,
+base.** **In fact the more challenged they feel,
 the wider the base becomes. This allows the player to use the more
 explosive reaction steps I've identified, the Foot Pivot and the Drop
-Step.]{.underline}]{.mark}**
+Step.**
 
 ![A person running on a tennis court Description automatically
 generated](media_advanced-reaction-steps/media/image6.webp)
@@ -158,19 +158,19 @@ air.**
 
 **Unweighting**
 
-**[[Both these reaction step patterns start when the player unweights
+**Both these reaction step patterns start when the player unweights
 from the ready position. Unweighting is a technique that great movers
 often use just prior to the opponent's contact with the ball.
 Unweighting helps the player overcome the effects of inertia when he
 both feet are on the ground and the body has no directional
-momentum.]{.underline}]{.mark}**
+momentum.**
 
-**[[Unweighting is nothing more than a split step that elevates the
-player off the ground.]{.underline}]{.mark}** **[[Timed to the
+**Unweighting is nothing more than a split step that elevates the
+player off the ground.** **Timed to the
 opponent's contact point, unweighting elevates the feet off the ground
 while the player is determining where the ball is going. By the time the
 feet hit the ground, the player often has already begun to adjust the
-feet for the movement pattern to the ball.]{.underline}]{.mark}**
+feet for the movement pattern to the ball.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -187,14 +187,14 @@ within a few steps away. You see this technique most commonly used
 during groundstroke rallies around the center of the court and on the
 return of serve.
 
-**[[Players typically begin the foot pivot from a base of approximately
+**Players typically begin the foot pivot from a base of approximately
 2 shoulder widths. It starts with a quick, hard push off the outside
 foot (the foot furthest from the direction of movement). The inside foot
 (the foot nearest to the direction of movement) then pivots, turning the
-toe in the direction of movement.]{.underline}]{.mark}**
+toe in the direction of movement.**
 
-**[[The outside foot essentially drives the body weight until it is
-positioned over the inside foot.]{.underline}]{.mark}** **[[This creates
+**The outside foot essentially drives the body weight until it is
+positioned over the inside foot.** **[[This creates
 momentum with the shoulders leading in the direction of
 movement.]{.mark} With the body weight over the inside foot, the inside
 foot can drive hard and achieve maximum traction.]{.underline}** You see
@@ -207,13 +207,13 @@ confidence](media_advanced-reaction-steps/media/image8.webp)
 
 **Federer uses the Foot Pivot on returns.**
 
-**[[Note: When you play on slippery surfaces such as clay or grass, you
+**Note: When you play on slippery surfaces such as clay or grass, you
 must use added caution when attempting the foot pivot and drive. If you
 drive too hard off the outside foot, you'll risk losing traction as
 your body weight shifts off the outside foot. Also, be careful not to
 step too far in the direction you want to move, or it will slow you down
 considerably. All you want to do is pivot the inside foot and use it to
-drive your body into motion.]{.underline}]{.mark}**
+drive your body into motion.**
 
 **The Drop Step and Drive**
 
@@ -228,25 +228,25 @@ confidence](media_advanced-reaction-steps/media/image9.webp)
 **The outside foot pushes, the inside foot drops under the body and then
 drives the player toward the ball.**
 
-**[[When players go to the wider base, the Foot Pivot technique is not
+**When players go to the wider base, the Foot Pivot technique is not
 as quick and effective at establishing upper body
-momentum.]{.underline}]{.mark}** This is where the Drop Step comes in.
+momentum.** This is where the Drop Step comes in.
 The Drop Step and Drive technique is the quickest technique for reacting
 from a very wide base, especially on clay and grass. It is the preferred
 maneuver when reacting to more challenging balls that are greater
 distances away.
 
-**[[The Drop Step begins with the outside foot\--again the foot furthest
+**The Drop Step begins with the outside foot\--again the foot furthest
 from the ball. The outside foot creates a controlled push, shifting the
 body weight towards the direction of movement. At the same time, the
 inside foot\--the foot closest to the ball\--slides under the torso.
 This establishes upper body momentum in the direction of
-movement.]{.underline}]{.mark}**
+movement.**
 
-**[[With the full weight of the body over the inside foot and the
+**With the full weight of the body over the inside foot and the
 shoulders leading in the direction of movement, the inside foot has
 maximum traction for a powerful drive to over come inertia and set your
-body in motion.]{.underline}]{.mark}** Mastery of the Drop Step is
+body in motion.** Mastery of the Drop Step is
 critical in pro tennis for reaching wide balls, changing directions and
 staying even and/or getting ahead on time in baseline rallies.
 
@@ -263,8 +263,8 @@ torso. Now the inside foot is in position to drive the player
 explosively toward the ball.
 
 You can actually see how the momentum has been created by looking at the
-angle of the torso. **[[Notice that the entire torso is tilted in the
-direction of the movement.]{.underline}]{.mark}** Because the move is so
+angle of the torso. **Notice that the entire torso is tilted in the
+direction of the movement.** Because the move is so
 universal in high level tennis, there really can't be any doubt that
 this pattern generates greater speed. It results in quicker movement to
 the ball when small fractions of a second are the difference between

@@ -638,9 +638,9 @@ Oftentimes, a short backscratch results in a \"hook\" serve, causing a
 low trajectory slice rather than good arcing topspin.
 
 In my experience, the buttscratch phase of the kick serve is the most
-commonly misunderstood component. **[[Indeed, mastering this deep racket
+commonly misunderstood component. **Indeed, mastering this deep racket
 drop was one of the most important changes in mastering my own kick
-delivery.]{.underline}]{.mark}**
+delivery.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -682,10 +682,10 @@ dramatically.
 
 From the trophy position, the elbow rises and points up to the sky
 during both the buttscratch and triceps extension portions of the swing.
-**[[The racket needs to accelerate up the runway and there should be no
+**The racket needs to accelerate up the runway and there should be no
 pause or hitch from the buttscratch phase to contact. Players who have
 breakdowns in rhythm during this phase will lose pace and spin on the
-serve.]{.underline}]{.mark}**
+serve.**
 
 ### Back Arch
 
@@ -926,10 +926,10 @@ counterbalance.
 
 ### The Extension
 
-**[[Extension at contact includes more than the triceps and arm. The
+**Extension at contact includes more than the triceps and arm. The
 whole body should be extended as much as possible at contact. This means
 a straight line could be drawn from the toes all the way up the
-fingers.]{.underline}]{.mark}**
+fingers.**
 
 Full extension of the entire body means a maximization of height and
 leverage. The player has got to \"get tall.\" Many younger players tend

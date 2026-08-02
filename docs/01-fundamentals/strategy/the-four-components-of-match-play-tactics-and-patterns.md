@@ -44,15 +44,15 @@ generated](media_the-four-components-of-match-play-tactics-and-patterns/media/im
 As we said in the first article, the first two components are Strategy
 and Game Style.
 
-**[[Strategy is the overall plan to win a match against a given
+**Strategy is the overall plan to win a match against a given
 opponent. Strategy in turn is based on Game
-Style.]{.underline}]{.mark}** **[[Game Style defines what a player is
+Style.** **Game Style defines what a player is
 actually capable of doing on the court, the strengths and weaknesses in
 his or her shot making, movement, and
-temperament.]{.underline}]{.mark}**
+temperament.**
 
-**[[Now let's turn to the third component,
-Tactics.]{.underline}]{.mark}** Tactics are the shot combinations a
+**Now let's turn to the third component,
+Tactics.** Tactics are the shot combinations a
 player with a specific Game Style uses to implement Strategy.
 
 With versatile players, tactical options can be almost infinite. But for
@@ -308,11 +308,11 @@ When and where do you hit the tactical shots you are hoping will
 succeed? What patterns are setting up high percentage opportunities to
 do this?]{.mark}]{.underline}**
 
-**[[If your strategy is to exploit the backhand, a common tactic would
+**If your strategy is to exploit the backhand, a common tactic would
 be to change direction and hit down the line to the backhand from your
-forehand side.]{.underline}]{.mark}** **[[But depending on the nature of
+forehand side.** **But depending on the nature of
 the exchanges, there would be many times that you would stay in a cross
-court forehand rally.]{.underline}]{.mark}**
+court forehand rally.**
 
 So, what influences individual tactical decisions? We can divide the
 answer into factors to evaluate before the point, and other factors that
@@ -331,8 +331,8 @@ Here](The%20Four%20Components%20of%20Match%20Play%20-%20STrategy%20and%20Game%20
 Plus the score in the match, the state of momentum in the match, and
 your confidence at the moment.
 
-**[[Factors that go into tactical decisions during points
-include:]{.underline}]{.mark}**
+**Factors that go into tactical decisions during points
+include:**
 
 1.  **[the quality of the ball you have sent]{.underline}**
 

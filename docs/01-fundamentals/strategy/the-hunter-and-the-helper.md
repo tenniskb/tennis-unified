@@ -12,19 +12,19 @@ generated](media_the-hunter-and-the-helper/media/image1.webp)
 The System starts with the definitions of the two roles on a doubles
 team, the role of the Hunter and role of the Helper.
 
-**[[The Hunter is the player closer to the ball. He is always closer to
+**The Hunter is the player closer to the ball. He is always closer to
 the net. The key to the Hunter's shot selection is that he hits \"close
 to close\" on high volleys and overheads. This means hitting in the
-direction of the opponent closest to the net]{.underline}]{.mark}**.
+direction of the opponent closest to the net**.
 
 The position of the Hunter is determined by the position of the baseline
 opponent. The closer the opponent to the baseline, the closer the Hunter
 is to the net.
 
-**[[The Hunter is always somewhat turned or partially sideways at the
-net with his toes pointing to the ball.]{.underline}]{.mark}** **[[From
+**The Hunter is always somewhat turned or partially sideways at the
+net with his toes pointing to the ball.** **From
 this position, the Hunter moves forward diagonally toward the ball
-rather than laterally.]{.underline}]{.mark}**
+rather than laterally.**
 
 The Hunter has an area of responsibility and must be in the center of
 all possible shots in that area. The Hunter cannot just \"cover their

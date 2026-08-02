@@ -56,8 +56,8 @@ understand how it works or how important it really is.
 Something else that is similar to the forehand, the wrist stays firm in
 the hitting zone.
 
-**[[Basically,]{.underline}]{.mark}** **[[you hit the two-hander the way
-you would a left-handed forehand]{.underline}]{.mark}**. In fact, the
+**Basically,** **you hit the two-hander the way
+you would a left-handed forehand**. In fact, the
 really good two-handers are probably people who can do something quite
 well with the left hand, because the left hand is the dominant hand in
 the two-hander. You could have them hit a left-handed forehand and
@@ -79,11 +79,11 @@ probably a little awkward when playing.
 
 ### Grip
 
-**[[To develop the two-hander, you would like to have the player start
+**To develop the two-hander, you would like to have the player start
 with a continental grip with the right hand and an eastern or a
-semi-western grip with the left hand.]{.underline}]{.mark}** **[[The
+semi-western grip with the left hand.** **The
 grip with the left hand should match the grip the player uses with his
-right hand on his forehand.]{.underline}]{.mark}**
+right hand on his forehand.**
 
 | ![A person holding a tennis racket Description automatically generated with medium | ![A person playing tennis Description automatically generated with low |
 | --- | --- |
@@ -117,8 +117,8 @@ backhands don't bring it back too high.
 
 ### The contact point on the two-hander is at the edge of the front leg.
 
-**[[Getting ready early is critical because it allows you to step into
-the ball with the right or front foot.]{.underline}]{.mark}** This means
+**Getting ready early is critical because it allows you to step into
+the ball with the right or front foot.** This means
 you should reach the ball with the left foot if you are a right-hander.
 Then you can readjust to the ball with your right foot as you step in.
 
@@ -142,15 +142,15 @@ the last second.
 | **When a player hits through the ball both arms come straight and all the way out. After this, it's ok to bring the racquet up and around the neck.** |  |
 
 
-**[[The follow-through is the most important part in learning to hit
+**The follow-through is the most important part in learning to hit
 through the ball on the backhand and developing
-pace.]{.underline}]{.mark}**
+pace.**
 
 It may sound like I'm repeating myself, and I am, it's just that so
 few people really pay attention to what the follow-through means.
 
-**[[The follow-through should come straight out, just like on the
-forehand, with both arms straight.]{.underline}]{.mark}**
+**The follow-through should come straight out, just like on the
+forehand, with both arms straight.**
 
 Just like on the forehand, I teach players to \"hold the racquet out
 front\" to see if they really hit all the way through the ball.

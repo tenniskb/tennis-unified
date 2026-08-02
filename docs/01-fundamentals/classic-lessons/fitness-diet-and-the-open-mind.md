@@ -66,7 +66,7 @@ Academy, in Bradenton, Florida, to give me a better understanding of
 super compensation and how the best athletes in the world are
 implementing it in their training.
 
-\"**[[Super compensation]{.underline}]{.mark}**,\" says Gadeken,
+\"**Super compensation**,\" says Gadeken,
 \"**[[is a concept of really taking an athlete to the point, almost,
 where they're gonna over-train.]{.mark} [You're taking them to the
 point where they need a break, then when you get that break, you come
@@ -225,8 +225,8 @@ confidence](media_fitness-diet-and-the-open-mind/media/image7.jpg)
 **The invisible effect of Novak's first coach Jelena Gencic: classical
 music and an open mind.**
 
-**[[\"How and when you eat are just as important as what you
-eat,\"]{.underline}]{.mark}** Djokovic believes. \"We live in a
+**\"How and when you eat are just as important as what you
+eat,\"** Djokovic believes. \"We live in a
 fast-food culture, and fast food means fast eating. Is it a race? Rule
 number one: Eat slowly and consciously. If I eat quickly, digestion
 slows down. You also don't give your mouth the time it needs to do its

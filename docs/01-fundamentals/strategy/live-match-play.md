@@ -32,9 +32,9 @@ initial 2 shots.
 
 **Strengths**
 
-**[[The foundation of your strategy should be based on using your
+**The foundation of your strategy should be based on using your
 strengths and trying to use the specific work you have carried out on
-the practice court.]{.underline}]{.mark}** Are you able to recognize
+the practice court.** Are you able to recognize
 every opportunity to hit that top shot when it presents itself, and then
 make calculated decisions about whether to do it or opt for another
 option?

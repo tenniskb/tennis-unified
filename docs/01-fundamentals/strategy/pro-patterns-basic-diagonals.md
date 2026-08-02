@@ -95,13 +95,13 @@ generated](media_pro-patterns-basic-diagonals/media/image5.webp)
 **Mastery of the crosscourt means victory through intelligence not
 ego.**
 
-**[[Mastery of the crosscourt rally wins thousands of matches due to
+**Mastery of the crosscourt rally wins thousands of matches due to
 intelligence over ego. Intelligence dictates the competitor play the
 high percentage shot, while offering the opponent the lower-percentage
 down the line play. Ego tempts the shotmaker to hit down the line to the
 shorter part of the court, and over a higher net, believing he can
 produce great shots often enough to win over the long term. Rarely is he
-successful.]{.underline}]{.mark}**
+successful.**
 
 **In the modern pro game, there are three primary crosscourt rallies:**
 
@@ -122,11 +122,11 @@ generated](media_pro-patterns-basic-diagonals/media/image6.webp)
 **A deep crosscourt and a shorter angled crosscourt are actually 2
 different shots.**
 
-**[[When we talk about hitting crosscourt, however, we have to make a
+**When we talk about hitting crosscourt, however, we have to make a
 further distinction between hitting crosscourt deep, and hitting on
-shorter, sharper angles.]{.underline}]{.mark}** **[[These are actually
+shorter, sharper angles.** **These are actually
 different shots that play different roles in the way players construct
-their points.]{.underline}]{.mark}**
+their points.**
 
 **[In working with my players, I use this terminology in describing how
 to put patterns together:]{.underline}**
@@ -200,18 +200,18 @@ mistakes than you.
 
 **A Means to and End**
 
-**[[But winning the diagonal exchanges is rarely if ever just a war of
+**But winning the diagonal exchanges is rarely if ever just a war of
 attrition. The higher the level, the more the crosscourt advantage
 becomes the means to an end. Having the diagonal advantage gives you
 opportunities to create, and to gain responses which you can
-attack.]{.underline}]{.mark}**
+attack.**
 
-**[[Here is where you begin another game based on a hunter mentality.
+**Here is where you begin another game based on a hunter mentality.
 Because your shots are superior to his in your favorable crosscourt
 rally, you will be able to move your opponent into a position where,
 eventually, his ball lands short or is hit close to the middle of the
 court. You can achieve this using depth, angles, short slices, height,
-pace, or sheer patience.]{.underline}]{.mark}**
+pace, or sheer patience.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -222,21 +222,21 @@ confidence](media_pro-patterns-basic-diagonals/media/image10.webp)
 It is up to the player to find the type of shot, which causes his
 opponent to produce a short ball and once spotted, stay with the
 crosscourt rally until you can initiate that shot in every rally.
-**[[Once accomplished, the reward is what all, great tennis players
-dream about\-\--THE SHORT BALL.]{.underline}]{.mark}**
+**Once accomplished, the reward is what all, great tennis players
+dream about\-\--THE SHORT BALL.**
 
-**[[The play is developed and finished in one or two shots. Either, the
+**The play is developed and finished in one or two shots. Either, the
 ball is so short that you can hit an outright winner, or you will strike
 an aggressive down the line approach and move in behind the ball to
 finish with an open court volley. This decision is most often made based
 on the height of the ball. If the ball is above the net, most pro
 players will go for a winner, and a ball below the net will necessitate
-an approach shot.]{.underline}]{.mark}**
+an approach shot.**
 
-**[[Approach shots most often go down the line so as to allow the
+**Approach shots most often go down the line so as to allow the
 net-rusher to assume the volley position more easily, and so the first
 volley can drive an opponent off the court with an angled volley beyond
-the singles line.]{.underline}]{.mark}**
+the singles line.**
 
 ![A picture containing sport, athletic game, tennis, court Description
 automatically
@@ -280,12 +280,12 @@ tactic used to set up the backhand down the line winner.
 
 **Inside Out**
 
-**[[From the inside-out position, the concept is a bit more touchy. You
+**From the inside-out position, the concept is a bit more touchy. You
 will attempt to work the ball out wide with your inside-out forehand to
 the opponent's backhand, creating some angle to open up your
 opponent's forehand side. This is effective against a slow mover, a
 weak running forehand, a western grip forehand, or a player who cannot
-hit backhand angles]{.underline}]{.mark}**.
+hit backhand angles**.
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -454,10 +454,10 @@ generated](media_pro-patterns-basic-diagonals/media/image19.webp)
 position? There are two choices: Either adjust the pace of the ball (hit
 it harder) or adjust the height (hit it higher).]{.mark}]{.underline}**
 
-**[[Which will you choose? The right percentage play is to adjust the
-height of the ball.]{.underline}]{.mark}** **[[A player moving backwards
+**Which will you choose? The right percentage play is to adjust the
+height of the ball.** **A player moving backwards
 or sideways will be less balanced. Less balance makes striking the ball
-with more power more difficult.]{.underline}]{.mark}**
+with more power more difficult.**
 
 **[[By hitting higher, you are also creating a better margin for error,
 which is wise for an off-balance player. Understanding this simple fact
@@ -470,23 +470,23 @@ can build a baseline game. As you begin to see the patterns in
 professional tennis, notice how the depth and width of shots influence
 directional changes.]{.mark}]{.underline}**
 
-**[[Here are the things to watch in pro matches to learn more about
-crosscourt diagonals:]{.underline}]{.mark}**
+**Here are the things to watch in pro matches to learn more about
+crosscourt diagonals:**
 
-**[[Which player is playing his stronger shot more often during the
+**Which player is playing his stronger shot more often during the
 points? Which player is changing direction from the baseline without
-trying to hit a winner?]{.underline}]{.mark}**
+trying to hit a winner?**
 
-**[[Which player is driving his opponent outside the singles sideline,
+**Which player is driving his opponent outside the singles sideline,
 using angles, more often? Can you see one pattern happening more often
 when one player is serving and a different pattern when the other player
-is serving?]{.underline}]{.mark}**
+is serving?**
 
-**[[These are the same questions you should ask about your opponent's
+**These are the same questions you should ask about your opponent's
 game in your own matches. In the next article we'll look at how pro
 players battle to get control of the diagonals, impose their favorite
 patterns, and switch the patterns that favor their
-opponents.]{.underline}]{.mark}**
+opponents.**
 
 ![A tennis player on a court Description automatically generated with
 medium

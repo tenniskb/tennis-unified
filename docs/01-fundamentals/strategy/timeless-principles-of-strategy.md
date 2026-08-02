@@ -60,19 +60,19 @@ principle.**
 Besides hitting to an obvious weakness, there are other reasons hitting
 to certain areas of the court.
 
-**[[The most basic principle: learn to hit cross court with consistency
+**The most basic principle: learn to hit cross court with consistency
 and accuracy. In general, hitting cross-court is to your advantage for
-three reasons.]{.underline}]{.mark}**
+three reasons.**
 
-**[[Number one,]{.underline}]{.mark}** your shot crosses the net at the
+**Number one,** your shot crosses the net at the
 lowest part. The net in the center is 6 inches lower than it is on the
 sidelines. That's a tremendous advantage.
 
-**[[Number two;]{.underline}]{.mark}** the court is much longer on the
+**Number two;** the court is much longer on the
 diagonal than straight down the line. A down the line shot that is out
 by 4 feet would be in if you hit that same shot cross court.
 
-**[[Number three;]{.underline}]{.mark}** your recovery to the center of
+**Number three;** your recovery to the center of
 your opponent's possible returns is also much shorter. Hitting high,
 deep cross court shots will give you the best chance to recover when
 your opponent forces you wide. On the other hand, a down-the-line shot
@@ -214,8 +214,8 @@ important. This will control your natural excitement at playing well and
 sensing victory. You will also capitalize on your opponent's
 anxiousness.
 
-**[[You can only play as fast as the slowest player. It might as well be
-you.]{.underline}]{.mark}**
+**You can only play as fast as the slowest player. It might as well be
+you.**
 
 ![A picture containing tennis, person, player, court Description
 automatically
@@ -252,17 +252,17 @@ confidence](media_timeless-principles-of-strategy/media/image12.webp)
 
 **At the Net**
 
-**[[In order to position yourself correctly to cover your alley and the
+**In order to position yourself correctly to cover your alley and the
 middle of the court, you should move side to side with the ball. If the
 ball is hit wide into the alley, slide one step towards the
-sidelines.]{.underline}]{.mark}**
+sidelines.**
 
-**[[On a ball hit closer to the middle, slide one step the other way.
+**On a ball hit closer to the middle, slide one step the other way.
 Your job is to stay in front of the ball, decreasing your opponent's
 angle and increasing your chance of intercepting his
-shot.]{.underline}]{.mark}** **[[Good doubles players attack the middle,
+shot.** **Good doubles players attack the middle,
 move to the middle and protect the middle of the
-court.]{.underline}]{.mark}**
+court.**
 
 **[[At the net, your goal is to intercept as many balls as possible and
 volley them to the opening between your opponents in the middle of the
@@ -271,11 +271,11 @@ increase your range of movement - moving further toward the middle or
 even your partner's side to pick off weak
 returns.]{.mark}]{.underline}**
 
-**[[As you play better and better doubles, you will want to get to the
+**As you play better and better doubles, you will want to get to the
 net as quickly as possible. This means coming in on cross court rallies
-and on the return of serve.]{.underline}]{.mark}** **[[Developing a
+and on the return of serve.** **Developing a
 solid reliable slice will help keep the ball low and lead to shoulder
-high volleys.]{.underline}]{.mark}**
+high volleys.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -288,9 +288,9 @@ serve accurately to both sides of the service boxes and develop a deep,
 consistent first volley. As you approach the net, continue to move in
 after each shot.
 
-**[[As you come in, you must avoid hitting to the opposing net player. A
+**As you come in, you must avoid hitting to the opposing net player. A
 hard, high ball will allow him to put the ball
-away.]{.underline}]{.mark}**
+away.**
 
 **[[One alternate strategy is to hit off pace shots that stay low. This
 will prevent the opponent from hitting down and making winning volleys.

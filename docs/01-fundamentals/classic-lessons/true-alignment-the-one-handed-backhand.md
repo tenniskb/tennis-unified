@@ -45,9 +45,9 @@ the two. Setting up in open stance teaches players to create the right
 spacing and coils the back leg.]{.mark}]{.underline}**
 
 These are critical factors in a good one hander regardless of stance.
-**[[At this point the weight is on the back foot with the knee bent and
+**At this point the weight is on the back foot with the knee bent and
 typically the player is on the toe of the front
-foot.]{.underline}]{.mark}**
+foot.**
 
 In open stance hitting we see the same concept of \"Slamming the Door\"
 as in the two-hander. By this I mean the legs scissor in opposite
@@ -59,9 +59,9 @@ confidence](media_true-alignment-the-one-handed-backhand/media/image3.webp)
 
 **Watch the legs scissor Slamming the Door.**
 
-This is for the same reason as on the two-hander. **[[Slamming the Door
+This is for the same reason as on the two-hander. **Slamming the Door
 is what controls the hips and keeps them sideways, so they stay aligned
-close to the target line.]{.underline}]{.mark}**
+close to the target line.**
 
 For most one-handers, I believe in hitting neutral stance with a line
 across the toes perpendicular to the net. This is the \"old fashion\"
@@ -112,9 +112,9 @@ The danger is with the wider stance for the hips to over rotate and for
 the back leg to whip around the body as part of the swing.
 
 The challenge in the closed stance is maintaining True Alignment.
-**[[This is created by the rear leg again moving or kick back behind the
+**This is created by the rear leg again moving or kick back behind the
 player before the recovery. It keeps the hips from moving too much too
-soon.]{.underline}]{.mark}**
+soon.**
 
 It's a huge key for power and proper swing line in the pro game. Look
 at the perfect alignment of Roger's hips to the shot line in the

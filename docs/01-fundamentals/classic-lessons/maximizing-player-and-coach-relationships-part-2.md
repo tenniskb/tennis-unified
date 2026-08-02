@@ -27,8 +27,8 @@ they did. The coaches never made themselves bigger than the game.
 **[[They were first to give credit to the athlete after a win and the
 first to defend them after a loss.]{.mark}]{.underline}**
 
-**[[As an athlete, it should provide comfort knowing your coach has your
-back.]{.underline}]{.mark}** **[[However, the one person that should
+**As an athlete, it should provide comfort knowing your coach has your
+back.** **[[However, the one person that should
 believe in you more than a coach is yourself.]{.mark}]{.underline}**
 
 You owe it to yourself and the coach to do your own research, study, and

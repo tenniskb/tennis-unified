@@ -221,19 +221,19 @@ to recover from a loss relatively quickly and are eager for a chance at
 redemption in the next battle. Rarely do they entertain thoughts of
 quitting the game entirely. 
 
-**[[After fear of losing, the next most powerful inhibiting factor is
+**After fear of losing, the next most powerful inhibiting factor is
 too much concern about the opinions of others. What are my friends going
 to think of me if I lose? Or my peers?  My wife?  My poker buddies?  My
 parents?  My coach? It's the same with the pros, who are concerned about
-all of the above, plus the public and the media.]{.underline}]{.mark}**
+all of the above, plus the public and the media.**
 
-**[[All these fears are a real challenge because we are social animals,
+**All these fears are a real challenge because we are social animals,
 naturally predisposed to be concerned about the reactions of others. We
 all have egos and prefer to be held in high esteem rather than in
 disrespect.  But for competitive athletes, these normal concerns can be
 perverted into a debilitating preoccupation with the opinions of
 others.  And this can have a very negative effect on
-performance.]{.underline}]{.mark}**
+performance.**
 
 For most of us this battle to establish a pure inner locus of self
 esteem is never completely won. But to the extent that we can keep these
@@ -284,10 +284,10 @@ players turn to in critical moments may not have the superb emotional
 control of a coach like Carlos Rodriquez, who always seemed to send the
 right energy to Justine.
 
-**[[For most of us, I think it's best to keep your eyes and mind on the
+**For most of us, I think it's best to keep your eyes and mind on the
 task at hand. These other things need to be "blocked out." Sports
 psychologists label a player who is particularly good at this a
-"screener."]{.underline}]{.mark}**  "Non-screeners" are easily and
+"screener."**  "Non-screeners" are easily and
 continually derailed. Any bird, human being, sound, movement or
 seemingly imperceptible environmental alteration becomes a potential
 nemesis when the player insists on keeping tabs on everything happening
@@ -564,10 +564,10 @@ for that next mini-battle we call a tennis point.
 
 I always remind my players that there is no limit to the number of
 breaths they are allowed to take within the twenty seconds that they are
-allotted between points. **[["Take as many as you need," I say.  "Fill
+allotted between points. **"Take as many as you need," I say.  "Fill
 up your lungs to the top and hold it for a good long moment, and do it
 in a way that it does not call too much attention to the fact that
-you're doing it. "]{.underline}]{.mark}**
+you're doing it. "**
 
 Even though you're "playing for yourself" and you wish to be oblivious
 to what anyone else (including your opponent) may glean from this

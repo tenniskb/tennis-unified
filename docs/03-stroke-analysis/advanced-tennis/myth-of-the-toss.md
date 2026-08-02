@@ -229,11 +229,11 @@ find an interval that allows him to develop a smooth, relaxed rhythm.
 This will depend on the individual ability of the player, and also the
 complexity of his biomechanical motion.
 
-***[[The height should be sufficient so that the motion is complete,
+***The height should be sufficient so that the motion is complete,
 with a full racquet drop and full extension at contact. It should be
 relaxed, smooth, and feel comfortably rhythmic, so this timing and
 feeling can be duplicated naturally without conscious effort or extra
-muscle from delivery to delivery.]{.underline}]{.mark}***
+muscle from delivery to delivery.***
 
 **[Of course the toss can be too high as well. The toss should not be so
 high that the player develops any hitches or pauses in the swing
@@ -304,11 +304,11 @@ further and so does his tossing arm. At the time of his ball release,
 it's 90 degrees to the sideline and actually parallel to the
 baseline.]{.mark}**
 
-**[[This is why the path of the toss has to be an arc. To reach the
+**This is why the path of the toss has to be an arc. To reach the
 contact zone, the ball has to travel back toward the player. The contact
 point occurs somewhere along this arced flight. Left undisturbed, this
 arced toss would actually land on the opposite side of the player's
-body.]{.underline}]{.mark}**
+body.**
 
 Because his turn is less extreme, the shape of this arc is also less
 extreme for Greg compared to Pete. This is also related to the different
@@ -337,11 +337,11 @@ like 1 to 2 feet.
 patterns of spin. More on this later and a quantitative analysis of the
 relative weight of the serve of both players.)
 
-***[[As with the tossing height, each player has to develop a tossing
+***As with the tossing height, each player has to develop a tossing
 arc that is comfortable and fits his individual technical style. Start
 by physically establishing your contact point is in relation to your
 torso. Actually stand on the court in serving position and model your
-contact point with your arm and racquet.]{.underline}]{.mark}***
+contact point with your arm and racquet.***
 
 The exact position will depend, on the nature of your delivery and
 whether you try to generate more topspin or slice. But it's a good bet

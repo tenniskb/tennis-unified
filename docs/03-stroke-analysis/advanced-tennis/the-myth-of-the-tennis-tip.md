@@ -54,18 +54,18 @@ players as good as they can be? Are there alternative approaches with
 the potential to accelerate the learning process for average or even
 elite players?
 
-**[[One problem in tip based teaching is the accuracy of the
+**One problem in tip based teaching is the accuracy of the
 information. Because the action occurs so fast, teacher and coaches come
 to conflicting conclusions about what really happens in the
-strokes.]{.underline}]{.mark}**
+strokes.**
 
 In this series, we've examined many of the common myths in teaching by
 analyzing high speed video from [Advanced
 Tennis](http://www.advancedtennis.com).
 
-**[[But a second problem of equal or possibly greater importance, is the
+**But a second problem of equal or possibly greater importance, is the
 issue of how teachers communicate information to players, and how this
-relates to the way most players actually learn.]{.underline}]{.mark}**
+relates to the way most players actually learn.**
 
 As described above, the instructional input in traditional lessons is
 predominately verbal, that is, a continuous (and sometimes overwhelming)
@@ -104,9 +104,9 @@ tennis tip approach. Two, through imagery and visualization. And three,
 through feeling and experiment, what is sometimes called
 kinesthetics.]{.mark}]{.underline}**
 
-**[[The problem is that learning tennis or other sports is primarily
+**The problem is that learning tennis or other sports is primarily
 visual and kinesthetic, not verbal. But teaching today is primarily
-verbal.]{.underline}]{.mark}**
+verbal.**
 
 When I was writing the second edition of Visual Tennis, I commissioned a
 research study of learning styles by Dr. Gary Price at the University of
@@ -219,11 +219,11 @@ research to prove this point (at least not yet) my belief is all this
 happens through subconscious processes that involve mental imagery and
 feeling.]{.mark}**
 
-***[[Top players seem to experience the game at a sub-verbal level. They
+***Top players seem to experience the game at a sub-verbal level. They
 use images and feelings to communicate information to their bodies, make
 split second decisions, and execute under pressure. They imagine what
 they want to do, and their tennis follows their
-imagination.]{.underline}]{.mark}***
+imagination.***
 
 Once again, something McEnroe told me in 1984 gives an insight into how
 this actually happens. We were talking about how the Winning Edge video
@@ -290,9 +290,9 @@ images of what you are actually trying to do on all your strokes.
 
 These models are constructed from a few simple key positions. By passing
 through these key positions you learn to see and to feel what the stroke
-is like inside your own mind's eye. ***[[Creating these internal mental
+is like inside your own mind's eye. ***Creating these internal mental
 pictures/feelings is the key to being able to replicate the model
-accurately and consistently over time.]{.underline}]{.mark}***
+accurately and consistently over time.***
 
 ***[First, the player learns to develop these key positions physically
 without the ball. At the same time, he creates to clear mental images.

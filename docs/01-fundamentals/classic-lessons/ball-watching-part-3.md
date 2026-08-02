@@ -66,8 +66,8 @@ it.]{.mark}]{.underline}**
 Now here's a summary of what your eyes should be doing as you prepare
 to strike the ball.
 
-**[[As the ball comes across the net, your eyes will track it in your
-frontal vision.]{.underline}]{.mark}** As you prepare to hit the ball,
+**As the ball comes across the net, your eyes will track it in your
+frontal vision.** As you prepare to hit the ball,
 your torso will begin to turn to prepare your racket. You continue to
 track the ball over your front shoulder.
 
@@ -80,8 +80,8 @@ generated](media_ball-watching-part-3/media/image4.webp)
 
 **Just before contact shift your eyes to the hand and racket.**
 
-**[[Next, start to narrow the eyes to a slit in order to cut out
-extraneous information from your field of vision.]{.underline}]{.mark}**
+**Next, start to narrow the eyes to a slit in order to cut out
+extraneous information from your field of vision.**
 This will allow for better focus on the internal reference points (i.e.
 hand-racket complex and foot). It also puts the racket head directly in
 the remaining lower field of vision, which has the best shape
@@ -92,9 +92,9 @@ hand racket complex. This produces the perception of stopping/slowing a
 moving object. You take your eye off the ball to put it back on the
 ball.
 
-**[[When you hear the ball hit the strings, you can either keep your
+**When you hear the ball hit the strings, you can either keep your
 eyes narrowed (and keep your head to the side) or even close the eyes
-briefly.]{.underline}]{.mark}** **[[This allows the last visual
+briefly.** **[[This allows the last visual
 information in the pipeline to be transmitted to the visual cortex on a
 black background, which will make it seem more
 prominent.]{.mark}]{.underline}**
@@ -113,16 +113,16 @@ generated](media_ball-watching-part-3/media/image5.webp)
 **Take your eyes off the ball when you turn your head toward the hitting
 side.**
 
-**[[Your proprioceptive senses will help you determine where your hand
+**Your proprioceptive senses will help you determine where your hand
 is in space and time, which in tum will allow you to find the racket
-head more quickly]{.underline}]{.mark}**. You will then be able to
+head more quickly**. You will then be able to
 perceive the racket head beyond your hand as it is touching the ball.
 
-**[[To take your eyes off the ball, turn your head toward the hitting
+**To take your eyes off the ball, turn your head toward the hitting
 side and then saccade your eyes down to your
-hand]{.underline}]{.mark}**. **[[This will bring your internal reference
+hand**. **This will bring your internal reference
 points (foot and racket-hand complex) into your narrowed visual
-field.]{.underline}]{.mark}**
+field.**
 
 With this saccade you'll experience a very brief episode of blindness,
 which you won't notice because your brain suppresses it. This episode
@@ -145,8 +145,8 @@ shot as it heads hack to your opponent. It's a great idea in theory,
 but very hard to do with your eyes open\--you're just dying to see your
 awesome shot.
 
-**[[Instinctively, your head turns to follow the outgoing
-hall.]{.underline}]{.mark}** **[[This has to be consciously suppressed.
+**Instinctively, your head turns to follow the outgoing
+hall.** **[[This has to be consciously suppressed.
 Narrowing the eyes helps tremendously, closing them after you hear
 contact is absolutely effective.]{.mark}]{.underline}**
 
@@ -165,15 +165,15 @@ about what is happening with the hall and your opponent as Damien LaFont
 has pointed out ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/mentalgame/damien_lafont/head_fixation/).)
 
-**[[When your head turns to follow an outgoing hall, your body follows
-suit and can change the mechanics of the stroke.]{.underline}]{.mark}**
+**When your head turns to follow an outgoing hall, your body follows
+suit and can change the mechanics of the stroke.**
 Like I said, this is easier said than done, as you want to see where
 your ball lands. But there is one method that guarantees that you won't
 follow your shot: closing your eyes briefly after contact.
 
-**[[Once the shot is made, it is completely out of your control, and
+**Once the shot is made, it is completely out of your control, and
 there is nothing you can do to change its
-trajectory.]{.underline}]{.mark}** However, your eyes should only close
+trajectory.** However, your eyes should only close
 briefly as you definitely need to see where your ball bounces, he aware
 of your opponent's position (especially if they're at the net), and be
 ever-cognizant of the shortened hitting cycle when you or your opponent

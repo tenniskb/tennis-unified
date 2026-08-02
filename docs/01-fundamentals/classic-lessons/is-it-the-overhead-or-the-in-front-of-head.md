@@ -14,15 +14,15 @@ In my view the overhead isn't really an \"overhead.\" It shouldn't be
 called that. That word doesn't describe the key factor in hitting the
 shot well.
 
-An overhead is really an \"in front of head.\" **[[The critical moment
+An overhead is really an \"in front of head.\" **The critical moment
 is the contact. The contact is not over your head. It needs to be in
-front of your head.]{.underline}]{.mark}**
+front of your head.**
 
-**[[The key to keeping the contact in front of your head is
-footwork.]{.underline}]{.mark}** **[[It's learning how to
-move,]{.underline}]{.mark}** **[[how to stay behind the
-ball,]{.underline}]{.mark}** **[[and how to use your feet and legs
-depending on the type of overhead.]{.underline}]{.mark}**
+**The key to keeping the contact in front of your head is
+footwork.** **It's learning how to
+move,** **how to stay behind the
+ball,** **and how to use your feet and legs
+depending on the type of overhead.**
 
 It's learning what to do when you have to come forward, when you have
 to move back, and also, when you have to move around the ball so you can
@@ -158,8 +158,8 @@ This is another problem in lessons. Players stand on top of the net and
 practice mostly offensive overheads. They have no clue how to keep the
 contact point in front when they have to move back and jump.
 
-**[[To hit an effective defensive overhead you have learn to hit without
-stepping in with the front foot.]{.underline}]{.mark}** **[[You have to
+**To hit an effective defensive overhead you have learn to hit without
+stepping in with the front foot.** **[[You have to
 learn to hit in the air by jumping off the back
 foot.]{.mark}]{.underline}**
 
@@ -213,11 +213,11 @@ This should also be true at the net. Get around the ball and hit an
 inside out overhead. Use your overhead and take advantage of the chance
 to stay ahead or to finish the point.
 
-**[[For the inside out overhead you move back on a diagonal to get into
-position.]{.underline}]{.mark}** **[[But it's also critical that you
-turn and align your shoulders.]{.underline}]{.mark}** **[[Basically, you
+**For the inside out overhead you move back on a diagonal to get into
+position.** **But it's also critical that you
+turn and align your shoulders.** **Basically, you
 want to visualize the shoulders lined up with the opposite corner of the
-court.]{.underline}]{.mark}**
+court.**
 
 With the inside out overhead, the same rules apply about which foot to
 hit off of. Step in on the offensive overheads with the front foot.
@@ -236,8 +236,8 @@ when the ball is short, or you don't have time to get all the way
 around it and hit it in the air. It can be better to let it bounce in
 these cases.]{.mark}]{.underline}**
 
-**[[The key here is the knee. The feeling is that you are lowering
-yourself.]{.underline}]{.mark}** **[[This allows you to keep the same
+**The key here is the knee. The feeling is that you are lowering
+yourself.** **[[This allows you to keep the same
 contact point with the hitting arm extended but still in front of the
 head. Lower yourself and hit off that front foot!]{.mark}]{.underline}**
 

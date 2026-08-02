@@ -122,8 +122,8 @@ Crossover steps are key to get back for deep lobs.
 
 **Footwork**
 
-**[[The drop-step and powerful and quick crossover steps are the key to
-getting back for difficult lobs.]{.underline}]{.mark}** Players can also
+**The drop-step and powerful and quick crossover steps are the key to
+getting back for difficult lobs.** Players can also
 side shuffle backwards for easier lobs within range.
 
 ![A person holding a tennis racket Description automatically
@@ -165,12 +165,12 @@ Rotating the arm in the shoulder joint internally is key.
 
 **Internal Shoulder Rotation**
 
-**[[I teach my players to snap downward in a very extreme way to learn
+**I teach my players to snap downward in a very extreme way to learn
 how to bring the ball down into the court and how to bounce the ball
 high over the rival or the fence. The internal rotation of the shoulder
 is key. A reference point that I use is to finish with the top of the
 racquet in the center of the body, keeping the elbow
-high.]{.underline}]{.mark}**
+high.**
 
 ![A person jumping in the air Description automatically generated with
 low

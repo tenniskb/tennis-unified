@@ -91,12 +91,12 @@ been a huge detriment to serve and volley tennis. Players at all levels
 now wonder after a great serve how fast it was and at the professional
 level, the radar gun proudly displays it every time.
 
-**[[Competitive players will forego sound tactics, try to overpower the
+**Competitive players will forego sound tactics, try to overpower the
 ball and hope someone will recognize they have a \"great
-serve\".]{.underline}]{.mark}** **[[The obsession with speed on a radar
+serve\".** **The obsession with speed on a radar
 device has cutback the opportunities for players of all levels to
 develop spin and placement and perhaps discover their true
-game.]{.underline}]{.mark}**
+game.**
 
 The correct mentality is that the serve sets up the next shot, the
 winning shot, the volley. The time you have to get to the net is
@@ -157,8 +157,8 @@ baseline rallies that leave them frustrated, tired and confused.
 Meanwhile their teammates are smiling after a win, relaxing and eating
 lunch.
 
-Our team philosophy is this: **[[\"we stay in the point on the baseline,
-we win points at net\".]{.underline}]{.mark}** Typically, over the
+Our team philosophy is this: **\"we stay in the point on the baseline,
+we win points at net\".** Typically, over the
 course of a season those reluctant baseline players begin to see value
 of venturing to the net. A player may have a negative opinion of the
 net, but still find that the net will reward you for a visit.

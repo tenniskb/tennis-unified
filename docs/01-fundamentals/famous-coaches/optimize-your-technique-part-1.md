@@ -11,21 +11,21 @@ your level of play.
                                                        ![A person playing tennis Description automatically generated with medium
    confidence](media_optimize-your-technique-part-1/media/image1.webp)
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                       [[Focusing on the true fundamentals will allow your natural hitting style to emerge.]{.underline}]{.mark}
+                                       Focusing on the true fundamentals will allow your natural hitting style to emerge.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[[Focusing on the true fundamentals of technique will allow your natural
+Focusing on the true fundamentals of technique will allow your natural
 hitting style to emerge, enabling you to hit cleanly, consistently, and
 with power. **No standard technique or swing path for a stroke exists
 that is optimum for all players. However, there is an optimum technique
-for each individual player.**    ]{.underline}]{.mark}
+for each individual player.**    
 
-[[Every player is unique, with her own individual physical and
+Every player is unique, with her own individual physical and
 psychological characteristics. What is optimum for one player,
 therefore, may not be optimum for another. That is why the world-class
 professionals in the game today use a variety of
-techniques. ]{.underline}]{.mark}
+techniques. 
 
 [[Good technique is one of the keys to success in tennis; optimum
 technique is a key to reaching your full potential. **The secret to
@@ -36,10 +36,10 @@ evolve.**]{.mark}]{.underline}
 **Understanding the Fundamentals of Technique**
 
 A great deal of confusion exists as to what fundamentals of technique
-are. **[[The secret is to be able to differentiate between critical
+are. **The secret is to be able to differentiate between critical
 mechanical fundamentals and individualistic styles of hitting, while
 eliminating technical flaws that limit your
-ability.]{.underline}]{.mark}** The beautiful thing about knowing the
+ability.** The beautiful thing about knowing the
 fundamentals is that by working on them you will naturally eliminate
 most of the technical flaws.  
 
@@ -120,9 +120,9 @@ match situations.
 
 It's a lot different hitting a slice when you want to approach the net
 than trying to keep the ball low against an opponent who is rushing the
-net. ***[[So, when you are working on technique, always attempt to
+net. ***So, when you are working on technique, always attempt to
 incorporate the tactical element into the
-session.]{.underline}]{.mark}***
+session.***
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person holding a tennis racket Description automatically
@@ -174,9 +174,9 @@ technique.
     game consistent with your personality **[[\<\< and also the physical
     ability, e.g. short, slow, weak, etc.\>\>.]{.mark}]{.underline}**
 
-**[[Remember your objective is to]{.underline}]{.mark}** **[[optimize
+**Remember your objective is to** **optimize
 your technique by learning the mechanical fundamentals of stroke
-production]{.underline}]{.mark}** and **[[allowing for your own
+production** and **[[allowing for your own
 individual stroke characteristics (your style) to
 evolve.]{.mark}]{.underline}**
 
@@ -216,9 +216,9 @@ feet or what is called your base.]{.mark}]{.underline}** This concept is
 critical in understanding balance and stability and how gravity affects
 your tennis techniques.
 
-**For [[optimum stroke production,]{.underline}]{.mark} here are the
-[[key fundamentals relating to balance and center of
-gravity]{.underline}]{.mark} that you should focus on.**
+**For optimum stroke production, here are the
+key fundamentals relating to balance and center of
+gravity that you should focus on.**
 
 - **Keep good upper-body posture**: Keep your head up and your shoulders
   and back relatively straight, as you approach and contact the ball.

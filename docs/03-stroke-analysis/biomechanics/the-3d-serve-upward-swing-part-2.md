@@ -51,11 +51,11 @@ confidence](media_the-3d-serve-upward-swing-part-2/media/image2.webp)
 
 **The Mystery**
 
-**[[The movement of the racket to contact is the subject of much
+**The movement of the racket to contact is the subject of much
 conjecture and misunderstanding in the tennis world. It's not hard to
 understand why. Just look at the many elements involved: upper arm
 rotation, elbow extension, forearm supination and pronation, ulnar
-deviation, and wrist flexion.]{.underline}]{.mark}**
+deviation, and wrist flexion.**
 
 We are talking about a very complicated motion. It is also a motion that
 happens very fast. During the upward swing the racket head speed can
@@ -70,19 +70,19 @@ identify pieces of the puzzle that will help any player.
 
 **Active Muscle Contraction**
 
-***[[The first step in the process is to understand the causes of joint
+***The first step in the process is to understand the causes of joint
 and segment rotation, what I call the \"engines\" of angular momentum
-transfer.]{.underline}]{.mark}***
+transfer.***
 
 1.  **The first is active muscle contraction.**
 
 2.  **The second is what we have called the motion dependent effect, or
     motion dependent torque.**
 
-***[[What do I mean by active contraction? When a muscle is contracted,
+***What do I mean by active contraction? When a muscle is contracted,
 it pulls on the adjacent bones. These bones are connected by a joint.
 The muscle contraction creates torque, called a joint torque, which
-causes the joint to either open or close.]{.underline}]{.mark}***
+causes the joint to either open or close.***
 
 The animation shows how this mechanism works. The muscle in the
 animation connects the forearm and upper arm. The arrows show what
@@ -256,9 +256,9 @@ late portions of the upward swing. Early in the upward swing the
 muscular torques are active, starting the extension of the elbow. There
 is also a contribution from the joint force at the elbow.
 
-***[[Past the midpoint of the upward swing, the contribution of the
+***Past the midpoint of the upward swing, the contribution of the
 joint force at the elbow becomes much larger as the rate of extension
-increases.]{.underline}]{.mark}*** **[During this time, it is
+increases.*** **[During this time, it is
 interesting to note that the muscular driven joint torque at the elbow
 changes to a flexion tendency.]{.mark}**
 
@@ -280,21 +280,21 @@ second duration.]{.mark}**
 automatically
 generated](media_the-3d-serve-upward-swing-part-2/media/image8.webp)
 
-**[[Initial forearm supination, followed by
-pronation.]{.underline}]{.mark}**
+**Initial forearm supination, followed by
+pronation.**
 
 **Pronation/Supination**
 
-***[[In the popular literature, the term pronation is used to describe a
-vast array of motions.]{.underline}]{.mark}*** **[These include the
+***In the popular literature, the term pronation is used to describe a
+vast array of motions.*** **[These include the
 turning of the racket after contact, and turning of the hand and wrist
 at various points of the swing.]{.mark}** ***[[But anatomically, the
 terms pronation and supination specifically refer to the twist rotation
 of the forearm independent of the upper arm
 rotation.]{.mark}]{.underline}***
 
-***[[Forearm pronation is controlled by joint torque throughout the
-upward swing.]{.underline}]{.mark}*** **[Initially in the upward swing,
+***Forearm pronation is controlled by joint torque throughout the
+upward swing.*** **[Initially in the upward swing,
 the forearm tends to supinate. However this effect is slowed by a
 pronator torque. This torque is responsible for the timing of the
 forearm pronation, such that it begins closer to contact. The slowing of
@@ -304,8 +304,8 @@ application of the stretch-shorten cycle.]{.mark}**
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-3d-serve-upward-swing-part-2/media/image9.webp)
 
-**[[Upper arm rotation creates speed, pronation positions the
-racket.]{.underline}]{.mark}**
+**Upper arm rotation creates speed, pronation positions the
+racket.**
 
 **[Although pronation is a term that gets a lot of attention in
 coaching, its impact is arguably much less than the upper arm in
@@ -318,46 +318,46 @@ head speed.]{.mark}]{.underline}***
 
 **The Hand/Racquet**
 
-***[[The hand and racquet are considered as a single segment in this
+***The hand and racquet are considered as a single segment in this
 discussion. They rotate as a function of wrist joint
-motion.]{.underline}]{.mark}*** The motion of the wrist during the
-upward swing is (surprise) also complex. ***[[You may recall that wrist
+motion.*** The motion of the wrist during the
+upward swing is (surprise) also complex. ***You may recall that wrist
 extension was a significant contributor to racquet speed entering the
-upward swing.]{.underline}]{.mark}***
+upward swing.***
 
-**[[During the mid portion of the upward swing, wrist ulnar deviation
+**During the mid portion of the upward swing, wrist ulnar deviation
 takes over as the most important wrist contributor to racquet speed.
 This is the motion of the hand in the direction of the pinky finger.
 This ulnar deviation is not caused by conscious contraction. It is
 driven primarily by joint forces and their motion dependent effects.
 These forces come primarily from the rapid extension of the elbow, as
 the ulnar deviation occurs in tandem with this
-extension.]{.underline}]{.mark}**
+extension.**
 
 ![A picture containing court, sport, swinging, player Description
 automatically
 generated](media_the-3d-serve-upward-swing-part-2/media/image10.webp)
 
-**[[Ulnar deviation, the wrist flex to the right, is motion
-dependent.]{.underline}]{.mark}**
+**Ulnar deviation, the wrist flex to the right, is motion
+dependent.**
 
-***[[Ulnar deviation has its greatest influence at the time elbow
+***Ulnar deviation has its greatest influence at the time elbow
 extension is being driven by the joint force at the elbow. This means
 that it is also driven by the actions of the trunk and shoulder that
-actually create the elbow joint force.]{.underline}]{.mark}*** ***[[This
+actually create the elbow joint force.*** ***[[This
 observation highlights how a seemingly simple joint motion can occur due
 to an intricate pattern of body motions \-- motions that if not
 understood by coaches can yield sub-standard or even dangerous
 results.]{.mark}]{.underline}***
 
-**[[Late in the upward swing, forearm pronation positions the wrist
+**Late in the upward swing, forearm pronation positions the wrist
 flexion axis so that wrist flexion can have the biggest impact on the
 forward component of racquet head velocity. And indeed, wrist flexion is
 a major contributor to racquet speed near and at
-contact.]{.underline}]{.mark}** ***[[The significant portion of this
+contact.** ***The significant portion of this
 flexion is caused by active and conscious muscular contraction and
 associated joint torque. Motion dependent effects have an inhibitory
-influence on this joint motion near contact.]{.underline}]{.mark}***
+influence on this joint motion near contact.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -367,15 +367,15 @@ confidence](media_the-3d-serve-upward-swing-part-2/media/image11.webp)
 
 **Implications of Hitting Arm Kinetics**
 
-And there we have it: **[[upper arm motion, external and internal
+And there we have it: **upper arm motion, external and internal
 rotation, elbow extension, ulnar deviation, pronation, and wrist
 flexion. Some parts driven by contraction, others not, forces that come
 from the hitting arm segment itself, and others from the previous links
 in the biomechanical chain-all in that magic 1/10th of a
-second.]{.underline}]{.mark}**
+second.**
 
-**[[So what does it all mean to players and
-coaches?]{.underline}]{.mark}** ***[I believe the lesson is that the
+**So what does it all mean to players and
+coaches?** ***[I believe the lesson is that the
 tendency in coaching to focus on isolated pieces of the upward swing
 should be reevaluated. Statements such as \"snap here\" or \"extend
 there\" only make sense if made in the context of the overall motion and
@@ -386,10 +386,10 @@ contraction to move a joint in a certain way can actually do far more
 harm than good if other factors throughout the body have not been
 considered.]{.mark}]{.underline}**
 
-**[[We have to keep this complexity in mind when we use great players as
+**We have to keep this complexity in mind when we use great players as
 models for our strokes. A top player may have an isolated observable
 motion pattern that is predicated on many other factors that are not so
-readily observable.]{.underline}]{.mark}**
+readily observable.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -397,16 +397,16 @@ confidence](media_the-3d-serve-upward-swing-part-2/media/image12.webp)
 
 **Angular momentum is generated from the ground up.**
 
-***[[What we need to understand is the big picture. The serve is built
+***What we need to understand is the big picture. The serve is built
 from the ground up. Angular momentum is generated from leg
-drive.]{.underline}]{.mark}*** **[[This is optimized by body position,
+drive.*** **This is optimized by body position,
 and transferred to the hitting arm by timely use of conscious muscular
-force.]{.underline}]{.mark}** ***[[The rotational body sequencing
+force.** ***The rotational body sequencing
 produces motion dependent effects, which dictate further muscular
 contraction \-- all this leads to contact racquet speed and direction.
 Again, it's a complex picture and it's a mistake to isolate one or two
 factors as the magic key to high performance
-serving.]{.underline}]{.mark}***
+serving.***
 
 **Common Upward Swing Problems**
 
@@ -416,11 +416,11 @@ problems I see in coaching, and pose some possible solutions. In this
 way perhaps we can see how technical analysis can actually come into
 play in coaching practice.
 
-***[[Despite the vast array of things that could go wrong, amazingly,
+***Despite the vast array of things that could go wrong, amazingly,
 the common problems that actually occur are within a fairly narrow
 range. And fortunately, we now have a clear way to gauge when problems
 occur and in what specific part of the upward
-swing.]{.underline}]{.mark}***
+swing.***
 
 This is because, in our 3D data, the errors will nearly always manifest
 themselves as irregularities, or plateaus, in the curve charting racquet
@@ -434,11 +434,11 @@ generated](media_the-3d-serve-upward-swing-part-2/media/image13.webp)
 **The legs are key to transferring angular momentum during the
 backswing.**
 
-***[[These plateaus can occur as a result of insufficient, mistimed, or
+***These plateaus can occur as a result of insufficient, mistimed, or
 nonexistent joint rotations in the kinetic sequencing of events. Care
 must be taken to identify these errors early in development because they
 are much more difficult to correct later. Worse, in many cases they can
-also expose players to potential injury.]{.underline}]{.mark}***
+also expose players to potential injury.***
 
 **Insufficient Upper Trunk Twist Rotation**
 
@@ -448,14 +448,14 @@ the force placed on the upper arm at the shoulder joint, a force that,
 as we have repeatedly seen, is important to the sequencing of the
 various kinetic events.
 
-**[[The biggest related problem is that if there is insufficient trunk
+**The biggest related problem is that if there is insufficient trunk
 twist, this racquet speed source must be
-replaced.]{.underline}]{.mark}**
+replaced.**
 
-***[[It turns out that the way players do is this is by adding
+***It turns out that the way players do is this is by adding
 independent (non-twist) rotation of the shoulder joint. Repetitive and
 excessive use of the shoulder joint in this fashion gives us concern for
-injury.]{.underline}]{.mark}***
+injury.***
 
 The causes of the insufficient upper trunk twist rotation can be traced
 to problems in generating or transferring angular momentum during the
@@ -473,18 +473,18 @@ extension, ulnar deviation, internal shoulder rotation, wrist flexion.**
 
 Let's review the chain of events for the hitting arm.
 
-***[[First shoulder joint motion to elevate and move forward the elbow
-joint.]{.underline}]{.mark}***
+***First shoulder joint motion to elevate and move forward the elbow
+joint.***
 
-***[[Next there is elbow extension along with ulnar
-deviation.]{.underline}]{.mark}***
+***Next there is elbow extension along with ulnar
+deviation.***
 
-***[[Finally there is internal shoulder rotation along with wrist
-flexion.]{.underline}]{.mark}***
+***Finally there is internal shoulder rotation along with wrist
+flexion.***
 
-**[[Deficiencies along this chain have a negative impact on racquet
+**Deficiencies along this chain have a negative impact on racquet
 speed development, which we can see in the velocity
-curves.]{.underline}]{.mark}**
+curves.**
 
 **The most common breakdown in this chain at the beginning, [the initial
 shoulder joint motion.]{.underline} Due to lack of strength or poor
@@ -561,8 +561,8 @@ configuration.]{.mark}**
 automatically
 generated](media_the-3d-serve-upward-swing-part-2/media/image16.webp)
 
-**[[The angle of the racket shaft in line with the angle of the
-torso.]{.underline}]{.mark}**
+**The angle of the racket shaft in line with the angle of the
+torso.**
 
 This has been one of the main areas of emphasis in my work with the
 junior shown in the user interface. To see the effect of improved
@@ -636,17 +636,17 @@ generated](media_the-3d-serve-upward-swing-part-2/media/image18.webp)
 **A quick elbow flexion can decrease the risk of injury following full
 extension.**
 
-***[[Recovery from the serve involves quickly regaining balance and
-control of the body.]{.underline}]{.mark}*** This goal is in stark
+***Recovery from the serve involves quickly regaining balance and
+control of the body.*** This goal is in stark
 contrast of the mechanics to create racquet speed which imposes
 rotational chaos to the body. The amount of angular momentum that is
 required to generate racquet speed will create a less than graceful
 transition into the point if not dealt with in the recovery.
 
-***[[In the same way angular momentum was transferred into the trunk
+***In the same way angular momentum was transferred into the trunk
 during the hitting phases, it can be transferred out during the recovery
 phase. This is accomplished by redistributing the body momentum back to
-the legs, and specifically the trailing leg.]{.underline}]{.mark}***
+the legs, and specifically the trailing leg.***
 
 **[This is the reason for the leg kick back we see all the top players
 used. The kick back transfers angular momentum to this leg causing the
@@ -663,8 +663,8 @@ diagnosing what actually happened in the motion.]{.underline}**
 - A kick back to the side indicates too much lateral angular momentum,
   something that should be addressed immediately.
 
-- [[The preferred motion is a strong, straight back
-  kick]{.underline}]{.mark}. This indicates ample forward angular
+- The preferred motion is a strong, straight back
+  kick. This indicates ample forward angular
   momentum.
 
 **Parting Shots**

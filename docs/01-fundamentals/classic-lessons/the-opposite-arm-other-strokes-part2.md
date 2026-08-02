@@ -30,9 +30,9 @@ inaccurate, the model won't be utilized effectively.
 
 To what degree does the way you hold the ball affect the accuracy of
 your toss? There is a range of ways good tossers hold the ball in their
-hand, anyone of which may work for you. **[[What's most important is
+hand, anyone of which may work for you. **What's most important is
 the momentum or lift from the arm, followed by the angle of the arm, and
-also, the relative inactivity of the wrist.]{.underline}]{.mark}**
+also, the relative inactivity of the wrist.**
 Another factor is the spreading of the fingers as the ball is released.
 My suggestion is to **[[hold the ball so that the middle of the ball
 rests between the top two joints of your fingers.]{.mark}]{.underline}**
@@ -88,9 +88,9 @@ erratic toss.
 **The Release**
 
 **The point at which the ball is released will also vary among the top
-players.** **[[It can be anywhere between shoulder height and head
-height.]{.underline}]{.mark}** I like to use [[**\"eye level or
-above**\"]{.underline}]{.mark} as a reference point. But from what I've
+players.** **It can be anywhere between shoulder height and head
+height.** I like to use **\"eye level or
+above**\" as a reference point. But from what I've
 observed, most lower-level players release the ball lower than this,
 somewhere between waist and mid chest. With this lower release, the ball
 tends to shoot substantially forward. But holding on too long can also
@@ -102,13 +102,13 @@ generated](media_the-opposite-arm-other-strokes-part2/media/image4.webp)
 
 **Release between the shoulder and the top of the head.**
 
-**[[Releasing the ball somewhere between the shoulder and the top of the
+**Releasing the ball somewhere between the shoulder and the top of the
 head means the ball has a relatively shorter distance to travel to the
-contact point.]{.underline}]{.mark}** **[[The lift of the arm just
-naturally lifts the ball.]{.underline}]{.mark}** **[[All the player has
+contact point.** **The lift of the arm just
+naturally lifts the ball.** **All the player has
 to do is open and spread his fingers. This release point also insures
 that the tossing arm will follow through to a position of full
-extension.]{.underline}]{.mark}**
+extension.**
 
 The angle of the tossing arm to the baseline is very important, as John
 has pointed out in the Roger Federer serve articles. ([Click
@@ -124,8 +124,8 @@ player develops, and how far left or right he positions the ball.
 **Other Functions**
 
 The opposite arm has another function in the motion besides tossing the
-ball. **[[The full extension of the tossing motion is critical to the
-positioning of the upper body.]{.underline}]{.mark}** **Once the player
+ball. **The full extension of the tossing motion is critical to the
+positioning of the upper body.** **Once the player
 reaches extension, he will [[maintain this position for a fraction of a
 second.]{.mark} [Note how the shoulders are slanted. This will happen
 automatically if the tossing motion extends, and it isn't really
@@ -143,17 +143,17 @@ relax and then release down into the midsection with an approximately 90
 degree bend at the elbow. This acts to slow down the trunk thereby
 accelerating the arm and racket.]{.mark}]{.underline}** Though some
 players will leave the tossing arm in this folded position all the way
-to the serve's conclusion, **[[more commonly the left arm will lead the
+to the serve's conclusion, **more commonly the left arm will lead the
 racket into the follow through. This should happen naturally if the arm
 is just relaxed. (It's actually somewhat similar to the pace car/race
-car on the forehand.)]{.underline}]{.mark}**
+car on the forehand.)**
 
 [**[One common misuse of the tossing arm is to drop it rapidly the
 moment the ball is released. The opposite problem is to leaving it
 extended too long.]{.mark}** **[The result is that when it finally does
 come down, it flies off too far to the left instead of folding it into
-the midsection.]{.mark}**]{.underline} **[[Both of these tendencies will
-disrupt the rhythm of the serve.]{.underline}]{.mark}**
+the midsection.]{.mark}**]{.underline} **Both of these tendencies will
+disrupt the rhythm of the serve.**
 
 **True Serving**
 
@@ -202,12 +202,12 @@ generated](media_the-opposite-arm-other-strokes-part2/media/image9.webp)
 
 **The opposite arm on the overhead and the backhand overhead.**
 
-Again, as with the serve, **[[once the decision to swing is made, the
+Again, as with the serve, **once the decision to swing is made, the
 non-racket arm releases into the midsection to allow the whipping action
 of the arm and racket to take place. On a backhand overhead the non
 racket arm should move in the opposite direction (downward) of the
 upward swing to help maintain balance and drive the racket through
-contact.]{.underline}]{.mark}**
+contact.**
 
 **Return**
 
@@ -239,14 +239,14 @@ groundstrokes.]{.mark}]{.underline}**
 Obviously, the speed of the serve plays the major role in this. It is,
 however, still critical to include the non racket arm during the coil to
 avoid slapping or bunting the return. It also prevents you from opening
-too much before contact. **[[Blocking or \"chipping\" the return of
+too much before contact. **Blocking or \"chipping\" the return of
 serve is also very common, especially on big first serves. This is
 essentially the equivalent to the half volley, and the use of the left
-arm is further reduced.]{.underline}]{.mark}** Still, you will see some
-movement across the body in all these returns. **[[After the
+arm is further reduced.** Still, you will see some
+movement across the body in all these returns. **After the
 preparation, the opposite arm behaves very much as on the forehand
 groundstroke, clearing a path for the forward
-swing.]{.underline}]{.mark}**
+swing.**
 
 On second serves that are moving substantially slower, the non racket
 arm can extend further. This is particularly true if you decide to move
@@ -271,10 +271,10 @@ largely dependent on this movement of the arm.
 
 **The Volley**
 
-**[[The one word that comes to mind when I think of the opposite arm in
-relation to the volley is \"balance]{.underline}]{.mark}**.\"
-**[[Volleys are built on compact, precise
-movements.]{.underline}]{.mark}** The time required to prepare, execute
+**The one word that comes to mind when I think of the opposite arm in
+relation to the volley is \"balance**.\"
+**Volleys are built on compact, precise
+movements.** The time required to prepare, execute
 and recover from a volley is significantly less than a groundstroke. For
 that reason, what you do with your non racket arm on the volley is more
 minimal. But it still has a key roll in the preparation and also in
@@ -294,9 +294,9 @@ Work on the continental grip, please!)
 stays on the racket is minimal compared to the groundstroke. But it is
 critical that the hands don't separate too soon.]{.mark} [The brief
 unit turn gets the shoulders into the shot and can keep you from arming
-the ball with a huge swing.]{.mark}]{.underline}** **[[Turning with both
+the ball with a huge swing.]{.mark}]{.underline}** **Turning with both
 hands briefly on the racket is a subtle move, and one that is sadly
-lacking in the volleys of too many players.]{.underline}]{.mark}**
+lacking in the volleys of too many players.**
 
 The other point is how the left hand moves across the body and to the
 left side in the forward swing. The opposite hand mirrors the position
@@ -325,14 +325,14 @@ generated](media_the-opposite-arm-other-strokes-part2/media/image13.webp)
 
 **The Backhand Volley**
 
-**[[The backhand volley is really just a smaller version of the slice
-backhand groundstroke.]{.underline}]{.mark}** **[[Unless there's
+**The backhand volley is really just a smaller version of the slice
+backhand groundstroke.** **Unless there's
 absolutely no time, some shoulder rotation is
-imperative.]{.underline}]{.mark}** But like the turn on the forehand,
-the extent is usually less than on a groundstroke. **[[Just like the
+imperative.** But like the turn on the forehand,
+the extent is usually less than on a groundstroke. **Just like the
 slice backhand, the left hand stays on the throat until the moment the
 racket is pulled forward, and then the left arm moves back to keep the
-shoulders sideways to the net.]{.underline}]{.mark}**
+shoulders sideways to the net.**
 
 So that's it! We've been around the world with the opposite arm! I
 hope these two articles have shed light on an aspect of the game that's

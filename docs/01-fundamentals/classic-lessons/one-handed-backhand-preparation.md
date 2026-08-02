@@ -36,8 +36,8 @@ direction your opponent will hit the ball.
 
 
 One of the most common problems I see when new students come to my
-teaching court **[[is the incorrect alignment of the feet, especially on
-the one handed backhand]{.underline}]{.mark}**. Your first step should
+teaching court **is the incorrect alignment of the feet, especially on
+the one handed backhand**. Your first step should
 be with the left foot (this is for a right-hander, it's the reverse for
 lefties). The key is to load all the weight onto the back leg prior to
 stepping in. This should leave your lower half in a relatively open
@@ -53,22 +53,22 @@ only a small lateral step or have to move halfway across the court.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[No matter how far you move to the ball, you need to transfer your
+**No matter how far you move to the ball, you need to transfer your
 weight effectively and create a forward avenue with your
-feet.]{.underline}]{.mark}** **[[The step should be with the front foot
+feet.** **The step should be with the front foot
 pointing somewhere between 45 and 90 degrees to the net, so that you
-don't block your hips.]{.underline}]{.mark}** This is something great
+don't block your hips.** This is something great
 one-handers do without thinking, and you can make it as natural and
 automatic yourself.
 
-**[[A related mistake that is also very common on the one handed
-backhand is an incomplete turn.]{.underline}]{.mark}** **[[The remedy
+**A related mistake that is also very common on the one handed
+backhand is an incomplete turn.** **The remedy
 for this is simple. You are fully turned when your hitting shoulder is
 tucked under your chin, while keeping your head level and eyes squarely
 on the ball. At this point, about half of your back is facing your
-opponent.]{.underline}]{.mark}** **[[The difference between doing this
+opponent.** **The difference between doing this
 and not is huge! Your swing will be more effortless and potentially
-powerful.]{.underline}]{.mark}**
+powerful.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
@@ -86,9 +86,9 @@ even Continental grips, which should be reserved for the slice backhand.
 There's just not enough support with the wrist on top of the handle to
 avoid being wristy.
 
-**[[Even with the correct grip make sure to lock your wrist
-in.]{.underline}]{.mark}** This means **[[the angle of the wrist should
-be at about 45 degrees to the forearm.]{.underline}]{.mark}** Be sure to
+**Even with the correct grip make sure to lock your wrist
+in.** This means **the angle of the wrist should
+be at about 45 degrees to the forearm.** Be sure to
 keep your non-hitting hand on the racket through the take back and until
 JUST before you begin the forward swing. This facilitates the grip
 change and steadies the racket.

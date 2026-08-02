@@ -189,9 +189,9 @@ the amount of spin before the return. At the moment the ball hits the
 court, the friction reduces the speed, but at the same time, it actually
 generates great additional spin.]{.mark}]{.underline}**
 
-**[[How? The court \"grabs\" the bottom of the ball. But the top of the
+**How? The court \"grabs\" the bottom of the ball. But the top of the
 ball continues to rotate. The net effect is the loss of speed, but the
-creation of spin.]{.underline}]{.mark}** You can see this yourself if
+creation of spin.** You can see this yourself if
 you set a ball machine to throw a flat ball with no spin. As the ball
 travels towards you, you can actually see the seams of the ball. Now
 watch it after the bounce. The ball will come off the court with
@@ -280,9 +280,9 @@ generated](media_speed-and-spin/media/image9.webp)
 
 **The topspin component: smaller but critical.**
 
-**[[But what combination? Interestingly, the largest component by is
-sidespin or slice]{.underline}]{.mark}**. **[[This is mixed with a
-smaller topspin component]{.underline}]{.mark}**. This insight has
+**But what combination? Interestingly, the largest component by is
+sidespin or slice**. **This is mixed with a
+smaller topspin component**. This insight has
 important teaching implications for the serve, as we will see in our
 next article. **[[The topspin component may be the minority component,
 but the relative amount of topspin turns out to be the key to
@@ -408,7 +408,7 @@ with certain velocity levels. Less speed and more spin wouldn't have
 produced the same result. Certainly, in women's tennis we see less
 topspin, and as we'll examine, that may have to do with the issue of
 speed spin balance. It's going to be the same issue for players at all
-levels. **[[Speed and spin are trade-offs.]{.underline}]{.mark}**
+levels. **Speed and spin are trade-offs.**
 What's the right balance for you? So before you start throwing the ball
 behind your head to try to generate 2500rpms with a heavy topspin
 component, (and maybe trashing your rotator cuff) you may want to

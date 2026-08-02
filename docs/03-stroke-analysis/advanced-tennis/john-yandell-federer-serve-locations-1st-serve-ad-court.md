@@ -14,9 +14,9 @@ Here](John%20Yandell-Roger%20Federer%20Serve%20-The%20Upward%20Swing.docx).)
 The next logical question to ask is how does Federer (or any other top
 player) vary these factors to control the direction of the shot?
 
-**[[We know that the difference between serving to the opposite corners
+**We know that the difference between serving to the opposite corners
 of either service box is a matter of just a few degrees in the angle
-and/or path of the racket head.]{.underline}]{.mark}** And, as we'll
+and/or path of the racket head.** And, as we'll
 see, theses differences at contact are very difficult to see\--if not
 imperceptible\--even in high speed video.
 

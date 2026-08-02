@@ -48,19 +48,19 @@ can't be the concept! I must not be doing it right!
 
 **The Factors**
 
-So let's talk about those four factors: ***[[causation, consequence,
-illusion, and delusion.]{.underline}]{.mark}*** ***[[Lag and snap
-doesn't cause anything.]{.underline}]{.mark}*** ***[[The motions seen
+So let's talk about those four factors: ***causation, consequence,
+illusion, and delusion.*** ***Lag and snap
+doesn't cause anything.*** ***The motions seen
 in some high speed video that have been called \"lag and snap\" are
-actually consequences.]{.underline}]{.mark}***
+actually consequences.***
 
-***[[The idea that players consciously create \"lag\" is an illusion.
+***The idea that players consciously create \"lag\" is an illusion.
 And the idea that players consciously \"snap\" is an actual
-delusion]{.underline}]{.mark}***.
+delusion***.
 
-***[[The reality is that good players with good forehands are trying to
+***The reality is that good players with good forehands are trying to
 moderate or prevent the so-called \"snap\" from
-happening.]{.underline}]{.mark}*** That's right, good players are
+happening.*** That's right, good players are
 trying to inhibit the same motion some \"experts\" are telling lower
 level players they need to maximize. Furthermore, the motions described
 as \"lag and snap\" don't even happen in some good forehands, for
@@ -108,11 +108,11 @@ majority of forehands.**
 
 **The Lag**
 
-***[[If your wrist is relaxed at the top of the backswing it will
+***If your wrist is relaxed at the top of the backswing it will
 naturally lay back as the racket moves downward and the hitting arm
 rotates backward. This backward rotation is called external rotation in
 biomechanics. It's what Rick Macci calls the
-\"Flip.\"]{.underline}]{.mark}*** ([Click
+\"Flip.\"*** ([Click
 Here](https://www.tennisplayer.net/members/high_performance/high_performance.html).)
 
 **[There is no additional delay or \"lag.\"]{.mark}** ***[[The problem
@@ -235,8 +235,8 @@ creates an absolutely frighteningly fearsome flip. And then this
 rotation continues forward through the swing in an extreme
 wiper.]{.mark}]{.underline}***
 
-***[[Plus the lifting and extending from his shoulder. And the great
-outward extension.]{.underline}]{.mark}*** **[But no lag and no snap.
+***Plus the lifting and extending from his shoulder. And the great
+outward extension.*** **[But no lag and no snap.
 Sadly lag and snap is not the holy grail you have been waiting
 for.]{.mark}**
 
@@ -262,8 +262,8 @@ You will get the flip automatically. The wrist will lay back at the
 start of the swing and then flex appropriately without you thinking or
 trying.
 
-***[[So don't even say the words lag and snap again. Think coil and
-extend.]{.underline}]{.mark}*** ***[Or actually visualize and feel coil
+***So don't even say the words lag and snap again. Think coil and
+extend.*** ***[Or actually visualize and feel coil
 and extend---and do that until it's all subconscious.]{.mark}***
 
 ***[If the outside backswing is a problem for you initially just drop

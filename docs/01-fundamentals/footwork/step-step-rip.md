@@ -17,8 +17,8 @@ happens more than you'd like to admit.
 Is it a flaw in you swing\--do you need a \"new\" short forehand? Or
 maybe it's a mental error?
 
-I have a different answer. **[[I believe that in many, if not most
-cases, the real problem is your feet!]{.underline}]{.mark}** If we look
+I have a different answer. **I believe that in many, if not most
+cases, the real problem is your feet!** If we look
 closely at pro players like Roger Federer, Andre Agassi, or Maria
 Sharapova we can see a clear footwork pattern on the short ball. This is
 what I call the \"Step, Step, Rip.\" Although it is common in
@@ -45,12 +45,12 @@ the ability to time the ball in a new way. The rhythm in your feet is
 used as a timing device to trigger your swing, and to do this at the
 exact instant that maximizes pace and consistency.
 
-**[[There are two steps in the \"Step, Step, Rip.\" A step with your
+**There are two steps in the \"Step, Step, Rip.\" A step with your
 right foot that judges your position relative to the ball. Then a step
 with the left foot that triggers the actual swing. The second step can
 be either into the ball, or more to the side in a semi-open stance.
 Timing these steps is the secret to triggering the swing at the right
-time.]{.underline}]{.mark}**
+time.**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person playing tennis Description automatically generated with medium
@@ -60,14 +60,14 @@ time.]{.underline}]{.mark}**
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The correct timing or rhythm is achieved by correlating the steps to
-the bounce of the ball.]{.underline}]{.mark}** **[[The rhythm follows
+**The correct timing or rhythm is achieved by correlating the steps to
+the bounce of the ball.** **The rhythm follows
 this pattern: \"Bounce,\" then immediately, \"Step, Step,
-Hit.\"]{.underline}]{.mark}** **[[The first step comes a fraction of a
-second after the bounce.]{.underline}]{.mark}** **[[The way to develop
+Hit.\"** **The first step comes a fraction of a
+second after the bounce.** **The way to develop
 this fundamental rhythmic pattern is by actually saying the words to
 yourself as you play: \"Bounce, Step, Step,
-Hit.\"]{.underline}]{.mark}** It may sound simple, but the result is
+Hit.\"** It may sound simple, but the result is
 very powerful. Coordinating the words inside your head with the bounce
 and steps makes the timing of the swing virtually automatic. I have more
 than one student who swear by it's magic power.
@@ -78,14 +78,14 @@ step with your left foot. Finally say \"hit\" in order to time your
 contact with the ball.\" Again, the whole pattern is \"Bounce, Step,
 Step, Hit.\" Or better yet, \"Bounce, Step, Step, Rip!\"
 
-**[[A final point on the footwork pattern. After the hit, the back leg
-kicks back behind the body.]{.underline}]{.mark}** **[[This is to
+**A final point on the footwork pattern. After the hit, the back leg
+kicks back behind the body.** **This is to
 decelerate the rotation of the hips and the shoulders, allowing the arm
-and racket to accelerate through the ball.]{.underline}]{.mark}**
-**[[This means the right foot stays behind the body until you finish
+and racket to accelerate through the ball.**
+**This means the right foot stays behind the body until you finish
 your swing. The right foot will then swing around and the player will
 continue towards the net, in the direction of the
-hit.]{.underline}]{.mark}**
+hit.**
 
 |  |
 | --- |
@@ -138,9 +138,9 @@ You'll see the pattern in real time\--can you follow the steps? Then it
 repeats in slow motion\--you'll see the pattern emerge. A positioning
 step with the left foot, then, step, step, rip.
 
-**[[Depending on the bounce of the ball, the right foot can actually
+**Depending on the bounce of the ball, the right foot can actually
 cross over in front of the left foot. This is called the Carioka
-Step.]{.underline}]{.mark}** The Carioka Step can be extreme in an
+Step.** The Carioka Step can be extreme in an
 explosive pro player, as the Federer animation shows. It can also just
 as easily be a step that doesn't cross over and stays behind the left
 foot. If you don't need to move and are already in position the ball,
@@ -160,18 +160,18 @@ chain.]{.underline}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[To really rip the ball you have to make sure you make contact while
-the ball is still above the net.]{.underline}]{.mark}** **[[If it's a
+**To really rip the ball you have to make sure you make contact while
+the ball is still above the net.** **If it's a
 high ball, don't let it drop out of your contact zone. Swing \"high\"
 to \"high\" with the racket starting at the height of the ball keeping
-the ball above the net until it clears the net.]{.underline}]{.mark}**
+the ball above the net until it clears the net.**
 
-**[[If you recognize the short ball early enough, you can also use the
+**If you recognize the short ball early enough, you can also use the
 Step, Step, Rip to take the ball on the rise. Because a ball hit on the
 rise is traveling slightly faster, it's easier to create to
-pace.]{.underline}]{.mark}** **[[In addition, due to the earlier timing,
+pace.** **In addition, due to the earlier timing,
 hitting on the rise takes response time away from the
-opponent.]{.underline}]{.mark}**
+opponent.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
                                      ![A picture containing tennis, sport, racket, athletic game Description automatically
@@ -186,14 +186,14 @@ before the bounce of the ball.]{.mark}]{.underline}** In this case, say
 \"Step, Step Hit,\" starting just before the bounce to speed up the
 timing and pull the trigger earlier.
 
-**[[Understand that good form equals power. Especially when you take the
+**Understand that good form equals power. Especially when you take the
 ball early, you don't need to swing harder, you just need good
-technique and good timing.]{.underline}]{.mark}** **[[So many players
+technique and good timing.** **[[So many players
 make the mistake of trying to completely change their form to take
 bigger swings when they try to put the ball away. Don't do
 it!]{.mark}]{.underline}**
 
-**[[Now you have the Step Step Rip instead.]{.underline}]{.mark}**
+**Now you have the Step Step Rip instead.**
 
 The classic situation to use the Step Step Rip is on the slow second
 serve. In USTA league and tournament play, too many players get away
@@ -214,14 +214,14 @@ when the hit open stance.
 But it's an opportunity too many players squander. They believe it's
 an easy shot. The reality is it is a very difficult shot because the
 rhythm slows down so much, and the player has to generate his own pace.
-**[[The universal tendency is to swing too early. This is because the
+**The universal tendency is to swing too early. This is because the
 returner usually doesn't usually have to move much to reach these slow
 balls, and this means the last step can trigger the swing too
-soon.]{.underline}]{.mark}**
+soon.**
 
-**[[This is where executing the Step, Step, Rip can really pay off. The
+**This is where executing the Step, Step, Rip can really pay off. The
 rhythm pattern puts the returner in perfect sync with the
-ball.]{.underline}]{.mark}** The result is power AND consistency\--the
+ball.** The result is power AND consistency\--the
 ability to exploit an obvious weakness on a regular basis. This can
 result in winning many more matches, especially matches you feel you
 should win, but may lose due to senseless unforced errors on slow balls.

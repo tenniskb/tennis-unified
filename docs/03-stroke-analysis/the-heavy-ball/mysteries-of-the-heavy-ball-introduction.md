@@ -113,10 +113,10 @@ confidence](media_mysteries-of-the-heavy-ball-introduction/media/image4.webp)
 We also saw for the first time what happened to spin during the bounce
 on the court.
 
-**[[Surprisingly, we found the friction between the ball and the court
+**Surprisingly, we found the friction between the ball and the court
 created as much topspin as the initial hit (and sometimes more),
 something which had important implications for the creation of the
-\"heavy ball.\"]{.underline}]{.mark}**
+\"heavy ball.\"**
 
 These studies of speed and spin opened a window on the literally
 invisible world of ball dynamics. They also raised almost as many
@@ -156,16 +156,16 @@ addition, Nasif developed a \"shot simulator\" that actually allowed us
 to measure how changing amounts of spin influenced the curve and the
 drop of high speed professional serves.
 
-The results were again surprising. **[[We found that there was in fact
+The results were again surprising. **We found that there was in fact
 no such thing as a \"topspin\" serve, that the majority of spin in the
 deliveries of both players was sidespin not topspin. But a critical
 difference turned out to be the relative amounts of
-topspin.]{.underline}]{.mark}**
+topspin.**
 
-**[[These differences in the type and amount of spin had a significant
+**These differences in the type and amount of spin had a significant
 impact on the quality of the ball they produced. And it had a
 significant effect on the total \"heaviness\" of the shot at the time of
-the return.]{.underline}]{.mark}**
+the return.**
 
 ![A picture containing sport, athletic game, indoor, tennis Description
 automatically

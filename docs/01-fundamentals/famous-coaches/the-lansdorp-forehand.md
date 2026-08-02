@@ -4,44 +4,44 @@
 
 ### The Grip
 
-**[[The foundation of the forehand is the grip.]{.underline}]{.mark}**
+**The foundation of the forehand is the grip.**
 One of the biggest problems in American junior tennis is the poor
 foundation so many young players have because of their extreme grips.
 
-**[[Under the handle, extreme western grips are incredibly common in
-high level junior tennis.]{.underline}]{.mark}** Kids have great success
+**Under the handle, extreme western grips are incredibly common in
+high level junior tennis.** Kids have great success
 early in their careers because they can hit topspin and get a lot of
 balls in play. If the ball is high and not too fast, these kids actually
 look pretty good.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
-  confidence](media_the-lansdorp-forehand/media/image1.webp)**[[\
-  Pete Sampras hits through the ball with a classic forehand grip and perfect followthrough.]{.underline}]{.mark}**
+  confidence](media_the-lansdorp-forehand/media/image1.webp)**\
+  Pete Sampras hits through the ball with a classic forehand grip and perfect followthrough.**
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The limitations don't show up until later, in the older age
+**The limitations don't show up until later, in the older age
 divisions or when a good young player first tests himself in
 professional tennis. Now these same kids suddenly don't look so great.
 They have severe problems handling the pace in the pro game, especially
-when the ball is low and skidding.]{.underline}]{.mark}**
+when the ball is low and skidding.**
 
-**[[But nobody talks about these problems. Kids hold the rackets with
+**But nobody talks about these problems. Kids hold the rackets with
 the extreme grip and think it's alright. Nobody stands up and says that
 teaching extreme western grips are actually ruining these
-kids.]{.underline}]{.mark}**
+kids.**
 
 Nobody explains to the parents that if you take your 8-year old to a
 coach who let's the kid hit with an extreme grip, you're already up
 the creek - you just won't know it for another 8 years. This is what I
 call the disaster of teaching methods in American junior tennis.
 
-**[[The great players in the history of the game (with very few
+**The great players in the history of the game (with very few
 exceptions) have always had the ability to hit through the ball - to
 drive the ball with topspin and to handle great
-pace.]{.underline}]{.mark}**
+pace.**
 
 Classical grips, the grips I taught players like Tracy Austin, Pete
 Sampras, and Lindsay Davenport, allow young players to handle the ball
@@ -172,11 +172,11 @@ The follow-through shows whether the player really hit through the ball.
 What's critical is how the ball comes off the racket, that the ball is
 solid off the racket.
 
-**[[You have to imagine that the ball doesn't leave the racket right
-away, that you keep the racket behind the ball.]{.underline}]{.mark}**
-**[[You have to feel the ball, you have drive through the ball. The
+**You have to imagine that the ball doesn't leave the racket right
+away, that you keep the racket behind the ball.**
+**You have to feel the ball, you have drive through the ball. The
 follow-through shows whether a player is doing this or
-not.]{.underline}]{.mark}**
+not.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically generated with medium                                                                                           
@@ -194,14 +194,14 @@ Pete Sampras' Forehand-age 9.**
 | #### **Maria Sharapova, age 13, one of the world's top young juniors, demonstrates how to check the follow-through by leaving the racket out front.** | #### ** Note how the player holds the finish position so that the racquet stays on edge.** |
 
 
-**[[Today kids have extreme \"wraps\" at the
-finish]{.underline}]{.mark}**. They bring the racket immediately up and
-around the neck. And this is considered good! Coaches teach it. **[[In
+**Today kids have extreme \"wraps\" at the
+finish**. They bring the racket immediately up and
+around the neck. And this is considered good! Coaches teach it. **In
 reality the extreme wrap guarantees the player won't hit through the
 ball. Instead, he pulls off the ball to wrap the finish, so the racket
-doesn't go out through the line of the shot]{.underline}]{.mark}**.
-**[[When you teach this big rap at the beginning players never get the
-feeling of staying with the shot.]{.underline}]{.mark}**
+doesn't go out through the line of the shot**.
+**When you teach this big rap at the beginning players never get the
+feeling of staying with the shot.**
 
 | ![A person hitting a ball with a tennis racket Description automatically | ![A person playing tennis Description automatically generated with low |
 | --- | --- |
@@ -269,19 +269,19 @@ have to consider shortening it up.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The wrist has to be laid back at the hit. But you have to be very
+**The wrist has to be laid back at the hit. But you have to be very
 careful you don't lay your wrist back too far or you may end up
 slapping the ball. The wrist is moving slightly through the hit but it
-doesn't flop or whip.]{.underline}]{.mark}**
+doesn't flop or whip.**
 
 Too much wrist is very dangerous. It has to be controlled. With extreme
 topspin the wrist can flop all over the place. I don't like all that
 rolling and turning unless you are going to move to Spain and play on
 the red clay.
 
-**[[If the wrist starts to slap, then the player doesn't have control
+**If the wrist starts to slap, then the player doesn't have control
 and it becomes difficult to get the feel of hitting through the
-ball.]{.underline}]{.mark}**
+ball.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically

@@ -58,23 +58,23 @@ net is similar to the ground strokes. Let's look at the forehand first.
 | **From the Initial Move, the player is balanced and ready to hit open or closed.** |  |
 |  | **The Lunge Step** |
 |  |  |
-|  | **[[On a wider ball, you |
+|  | **On a wider ball, you |
 |  | simply increase the length of |
 |  | the first step to get behind |
 |  | the ball. If necessary, you |
 |  | can also take a lunging step |
 |  | to the ball with the front |
-|  | foot.]{.underline}]{.mark}** |
+|  | foot.** |
 |  |  |
 |  | Notice how much ground I can |
 |  | cover with just two steps: the |
 |  | longer step in the initial |
-|  | move and the lunge step. **[[I |
+|  | move and the lunge step. **I |
 |  | stay balanced, and I also |
 |  | continue to move forward |
 |  | toward the net on a diagonal |
 |  | to cut off the oncoming |
-|  | ball.]{.underline}]{.mark}** |
+|  | ball.** |
 
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------+                                |
 | ![A person playing tennis Description automatically |  |

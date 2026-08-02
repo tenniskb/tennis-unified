@@ -37,9 +37,9 @@ to see a distance and calculate the space and time with our feet to get
 to where we want to go. When playing tennis, this means getting to where
 the incoming ball is going, so that it is on our strike zone.
 
-**[[Basically, there are two types of balls any player needs to reach.
+**Basically, there are two types of balls any player needs to reach.
 If the ball is easy to get to, we call it the Inner Ball. If it's
-harder to get to, we call it the Outer Ball.]{.underline}]{.mark}**
+harder to get to, we call it the Outer Ball.**
 
 | ![A picture containing text, outdoor Description automatically | **Pete's Backhand to an Inner Ball: |
 | --- | --- |
@@ -107,8 +107,8 @@ is going.]{.underline}** **[The size of first step dictates the stride
 length for the second step. You want your strides to be of equal length,
 which will give you good balance and timing.]{.mark}**
 
-**[[With the exception of the gravity step (see below), the first step
-must be in the direction you need to go.]{.underline}]{.mark}** This
+**With the exception of the gravity step (see below), the first step
+must be in the direction you need to go.** This
 sounds remedial, but I see a lot of players actually making the first
 step away from where they have to go. For example, when running up for a
 drop shot, some players actually step backwards before they move
@@ -116,8 +116,8 @@ forward.
 
 ### **The Second Step**
 
-**[[The second step is with your back foot, and this step positions you
-to the strike zone or contact point.]{.underline}]{.mark}** This step
+**The second step is with your back foot, and this step positions you
+to the strike zone or contact point.** This step
 judges the relationship of your body and racquet to the ball. If you are
 too close to the ball, your second step with the back foot got you too
 close. If you are too far away from the ball, your second step didn't
@@ -151,9 +151,9 @@ to cover.
 ### **The Gravity Step**
 
 In addition to the basic Two Step pattern, there is one additional step
-you'll need, **[[the \"Gravity Step.\" You make this step on balls that
+you'll need, **the \"Gravity Step.\" You make this step on balls that
 are furthest away. The gravity step is a drop
-step.]{.underline}]{.mark}** The back foot pulls back slightly under the
+step.** The back foot pulls back slightly under the
 body, and this allow you to push off harder so your step across can go
 even further (Read Jim McLennan's articles on Gravity Motion part 1,
 part 2, and part 3). This a very important aspect of footwork employed

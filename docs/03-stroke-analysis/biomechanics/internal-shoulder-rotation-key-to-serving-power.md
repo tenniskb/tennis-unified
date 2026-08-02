@@ -169,13 +169,13 @@ great pitchers and great quarterbacks.
 ***Basically, the function of the external rotation is to stretch the
 internal shoulder rotation muscles, particular the two largest muscles
 attached to your arm, the Latissimus Dorsi and the Pectoralis Major,
-commonly known as the [[lat and the pec]{.underline}]{.mark}.***
+commonly known as the lat and the pec.***
 
 ***[Once the muscles that [produce internal shoulde]{.underline}r
 rotation have been [pre-stretched]{.underline} they shorten very rapidly
 in a few hundredths of a second leading to impact]{.mark}***. This is an
-example of what biomechanists call the **[[*stretch shortening
-cycle*.]{.underline}]{.mark}**
+example of what biomechanists call the ***stretch shortening
+cycle*.**
 
 ![A person swinging a tennis racket Description automatically
 generated](media_internal-shoulder-rotation-key-to-serving-power/media/image6.Contact)
@@ -183,9 +183,9 @@ generated](media_internal-shoulder-rotation-key-to-serving-power/media/image6.Co
 **The pre-stretched internal shoulder rotator muscles rotate the racket
 to impact in a few hundredths of a second for a high level pro serve.**
 
-The racket's well-known positions of **[[edge-on to the ball in the
-upward swing]{.underline}]{.mark}** and **[[face-on to the ball at
-impact]{.underline}]{.mark}** are the direct result of the explosive
+The racket's well-known positions of **edge-on to the ball in the
+upward swing** and **face-on to the ball at
+impact** are the direct result of the explosive
 shortening of the stretched muscles during internal shoulder rotation.
 
 ### Timing
@@ -197,10 +197,10 @@ The quick use of the pre-stretched muscles is critical. To create added
 racket speed this must happen within a few tenths of a second. The more
 quickly they are used, the more energy is returned.
 
-**[[The heart of the high performance service motion is this
+**The heart of the high performance service motion is this
 pre-stretching of the internal shoulder rotation muscles through
 external shoulder rotation all happening over only tenths of a
-second.]{.underline}]{.mark}** This is followed by trained timing that
+second.** This is followed by trained timing that
 shortens these pre-stretched muscles explosively over approximately the
 last 30 milliseconds before impact.
 

@@ -187,10 +187,10 @@ opponent's hope.**
 
 **Watch for a Changes in Tactics**
 
-**[[Knowing how you got ahead allows you to spot changes in the tactics
+**Knowing how you got ahead allows you to spot changes in the tactics
 of your opponent more quickly. You may not know the answer to your
 opponent's new tactics, but don't be caught, realizing that they have
-changed only after the match is even.]{.underline}]{.mark}**
+changed only after the match is even.**
 
 If your opponent does change tactics, be sure to renew your efforts.
 Players who are losing, change tactics because they are desperate.
@@ -219,21 +219,21 @@ may give up more quickly. Some players make it a policy to step up every
 time they have created some daylight between them and their opponent for
 just this reason.]{.mark}]{.underline}**
 
-**[[Tactically, you can afford to gamble a little. You can go for it -
+**Tactically, you can afford to gamble a little. You can go for it -
 take the ball earlier, hit big returns off first serves, serve and
 volley if you like. Realize though that it is a calculated gamble and be
 ready to return to your tactics if you feel things slightly starting to
-slip.]{.underline}]{.mark}**
+slip.**
 
-**[[It's also a good time to vary your game. You are feeling good, so
+**It's also a good time to vary your game. You are feeling good, so
 variations are more likely to work. Not only this, your opponent won't
 realise you vary your game only when the momentum is totally with you,
-they'll just remember that you may vary it.]{.underline}]{.mark}**
+they'll just remember that you may vary it.**
 
-**[[The danger here is gambling for too long and giving your opponent
+**The danger here is gambling for too long and giving your opponent
 cheap points by trying to hit too many winners. Cheap points, of course,
 are exactly what your opponent wants when he is far behind \-- it's
-easier climbing steep hills with a helping hand.]{.underline}]{.mark}**
+easier climbing steep hills with a helping hand.**
 
 ![A person playing tennis Description automatically generated with
 medium

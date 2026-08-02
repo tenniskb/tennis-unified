@@ -60,8 +60,8 @@ confidence](media_court-movement-the-forehand/media/image3.webp)
 
 **The Movement Pattern**
 
-Watch closely in the animations: **[[I push with the Inside Foot and
-step with the Outside Foot toward the ball.]{.underline}]{.mark}**
+Watch closely in the animations: **I push with the Inside Foot and
+step with the Outside Foot toward the ball.**
 
 At the completion of the turn, the player is balanced and his weight is
 centered between his feet. From this position, he is ready to hit or,
@@ -69,9 +69,9 @@ more importantly, he is ready to move.
 
 The running style to the ball should be smooth relaxed, maintaining a
 balanced posture. This allows for effective sitting of the ball, proper
-hitting alignment and the ability to change directions quickly. **[[As
+hitting alignment and the ability to change directions quickly. **As
 the player arrives, he gauges his distance and his position to the ball
-with the Outside Foot.]{.underline}]{.mark}**
+with the Outside Foot.**
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
@@ -116,10 +116,10 @@ Hitting off the Outside Foot with a crossover step to the ball.\
 \
 **Recovery**
 
-The movement pattern after the hit is called the recovery. **[[Great
+The movement pattern after the hit is called the recovery. **Great
 movers are not only skilled at getting out to the ball in position. They
 are also skilled at quickly getting back into position to move to the
-next ball.]{.underline}]{.mark}** We want the most efficient possible
+next ball.** We want the most efficient possible
 method with the fewest possible steps. Your goal is to return to the
 center of your opponent's possible angles and re-establish a good ready
 position before he hits.
@@ -132,14 +132,14 @@ entire pattern and the movement back to the middle.**
 
 **The Recovery Exchange**
 
-This is accomplished by **[[exchanging the position of the feet after
-the hit]{.underline}]{.mark}**. Watch in the animation how I begin the
+This is accomplished by **exchanging the position of the feet after
+the hit**. Watch in the animation how I begin the
 recovery by exchanging the position of my feet. **[[The outside foot
 comes back and replaces the inside foot. This is followed by shuffling
 or side-stepping back toward the middle.]{.mark}]{.underline}**
 
-**[[The outside foot brushes the ground softly, and the player stays
-upright.]{.underline}]{.mark}** This keeps you grounded and stops you
+**The outside foot brushes the ground softly, and the player stays
+upright.** This keeps you grounded and stops you
 from jumping, so your movement is smooth and rhythmic. If there is not
 enough time to recover all the way to the center, re-establish the ready
 position prior to the opponent's hit.

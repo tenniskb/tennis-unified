@@ -190,8 +190,8 @@ to control higher and higher velocities.]{.mark}]{.underline}**
 ![Table Description automatically
 generated](media_groundstroke-velocities-soar-in-pro-tennis/media/image7.jpg)
 
-**[[But the easiest way to increase the speed of everyone's shots is by
-changing the ball.]{.underline}]{.mark}** The French Federeration
+**But the easiest way to increase the speed of everyone's shots is by
+changing the ball.** The French Federeration
 changed to a Wilson ball for Roland Garros a year ago. While we don't
 know the specifications for the Wilson ball (tournaments often use a
 brand name, but don't use off-the-shelf balls, instead requiring they

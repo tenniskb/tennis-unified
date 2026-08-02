@@ -149,30 +149,30 @@ to go!**
 
 ### The Ideal Volley Position
 
-**[[Positioning yourself relative to the ball is also part of being
+**Positioning yourself relative to the ball is also part of being
 ready. Ideal volley position is midway between the net and the service
-line.]{.underline}]{.mark}** If you find that your opponent lobs well
-and often you can back up a step or two. **[[The idea is not to get so
+line.** If you find that your opponent lobs well
+and often you can back up a step or two. **The idea is not to get so
 close that you invite the lob, or to stand so far back that you allow
 the ball to be easily hit at your feet. Always look to move
-forward.]{.underline}]{.mark}**
+forward.**
 
 Unless your opponent is hitting from the center of the court you should
 shift left or right of center to the extent that you cover his shortest
 angle (For more on this see Allen Fox's great article, [Winning at the
 Net](../Strategy/Winning%20Matches%20-%20Winning%20at%20the%20Net.docx)),
-**[[most of the time, this is no more than one full slide step, unless
-the ball on the other side is quite wide]{.underline}]{.mark}**. **[[Be
+**most of the time, this is no more than one full slide step, unless
+the ball on the other side is quite wide**. **Be
 sure and face your opponent as you shift so as to stay balanced and
-ready to move comfortably in any direction.]{.underline}]{.mark}**
+ready to move comfortably in any direction.**
 
-**[[The final two aspects, the use of your eyes and the split step (or
-ready hop) are of tremendous importance.]{.underline}]{.mark}** **[[A
+**The final two aspects, the use of your eyes and the split step (or
+ready hop) are of tremendous importance.** **A
 player who consistently tries to guess where his opponent will hit the
 ball is in for trouble. Think about it. How often do you \"sort of\" see
 the ball off the racquet in your rush to know where the ball might go?
 Are you really seeing the ball or is it more of a
-guess?]{.underline}]{.mark}**
+guess?**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-volley-part-1-are-you-really-ready/media/image8.webp)
@@ -194,10 +194,10 @@ you are prior to volleying. If you're working your way forward you
 don't want to sacrifice balance or the ability to read the ball in an
 effort to get as close to the net as possible.
 
-**The split step shouldn't be excessive, [[just enough to slightly
+**The split step shouldn't be excessive, just enough to slightly
 lower your center of gravity and set the leg muscles prior to moving to
-the ball.]{.underline}]{.mark} [[The intent is to bounce out of the
-split step the moment the feet touch back down.]{.underline}]{.mark}**
+the ball. The intent is to bounce out of the
+split step the moment the feet touch back down.**
 
 ![A picture containing tennis, road, sport, athletic game Description
 automatically

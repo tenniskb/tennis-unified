@@ -59,9 +59,9 @@ pure attack would mean having to win almost all your points hitting
 winners. That is asking a lot of even high-level
 players.]{.mark}]{.underline}**
 
-**[[To make attacking a pusher work, you need to modify your play and
+**To make attacking a pusher work, you need to modify your play and
 adjust to the realities of slower, higher balls and much longer rallies.
-I call this modified all court attack.]{.underline}]{.mark}** Basically
+I call this modified all court attack.** Basically
 you learn to adapt and learn to use your weapons in different ways by
 making major adjustments in the rhythm of the exchanges.
 
@@ -71,9 +71,9 @@ experience observing and also coaching hundreds of high school and NTRP
 players---as well a few of my own painful losses and notable victories
 against this type of opponent.
 
-**[[I call them The Mirror and Drop Shot Destruction. Both are tactical,
+**I call them The Mirror and Drop Shot Destruction. Both are tactical,
 but they are fundamentally psychological at the same
-time.]{.underline}]{.mark}** Because let's face it, a tough match with
+time.** Because let's face it, a tough match with
 a pusher is as much a mental and emotional struggle as a physical
 one\--and usually more.
 
@@ -93,12 +93,12 @@ generated](media_three-secrets-for-destroying-pushers/media/image3.webp)
 are getting into psychologically when you commit to really trying to win
 against a pusher.]{.mark}]{.underline}**
 
-**[[The cold reality is that it isn't easy to defeat experienced,
+**The cold reality is that it isn't easy to defeat experienced,
 successful pushers---even with the right strategies. There is a reason
-pushers push. The reason is that pushing wins.]{.underline}]{.mark}**
+pushers push. The reason is that pushing wins.**
 
-**[[It isn't easy to beat them. And especially it isn't easy at
-first.]{.underline}]{.mark}**
+**It isn't easy to beat them. And especially it isn't easy at
+first.**
 
 **[[Developing the skills and the confidence to consistently defeat
 pushers is one of the biggest challenges in tennis. But it can also be
@@ -149,8 +149,8 @@ Let's begin by trying to understand how the pusher thinks. **[[First,
 the pusher knows very well people don't want to play him. He loves
 that!]{.mark}]{.underline}**
 
-**[[The pusher also knows very well that pushing is an excruciating way
-to win points. He loves that too!]{.underline}]{.mark}** He is ready to
+**The pusher also knows very well that pushing is an excruciating way
+to win points. He loves that too!** He is ready to
 suffer to win and he is betting he is more willing to suffer than his
 opponents---far more willing.
 
@@ -195,9 +195,9 @@ likelihood that you will fall into his trap, unravel, and lose.
 \"I am going to blast this son of a bitch off the court,\" you tell
 yourself.
 
-**[[But let's look at the reality of that kind of declaration. The
+**But let's look at the reality of that kind of declaration. The
 reality is that hard hitting exchanges that end with winners are
-actually a cooperative endeavor.]{.underline}]{.mark}** **[[You need
+actually a cooperative endeavor.** **[[You need
 your opponent to supply some of the pace.]{.mark}]{.underline}**
 
 **[[This is why everyone's ideal opponent is someone who hits the ball
@@ -211,9 +211,9 @@ generated](media_three-secrets-for-destroying-pushers/media/image6.webp)
 
 **Defeating a determine pusher means staying positive no matter what.**
 
-**[[When the pusher slows the ball down that illusion is exposed. The
+**When the pusher slows the ball down that illusion is exposed. The
 pusher never gives you that solid, rhythmic pace that makes hitting
-winner possible. He never makes errors.]{.underline}]{.mark}**
+winner possible. He never makes errors.**
 
 **[[So, you try to generate the ball speed to hit winners for yourself.
 This means changing the speed of every shot, and this is far more
@@ -230,9 +230,9 @@ that you are in a war and that you have to win the psychological
 dimension of the war to win the physical
 dimension.]{.mark}]{.underline}**
 
-**[[This means you need to summon your will. Before you even walk on the
+**This means you need to summon your will. Before you even walk on the
 court you have to accept that there is going to be a level of pain and
-frustration that goes beyond a normal match.]{.underline}]{.mark}**
+frustration that goes beyond a normal match.**
 
 **[[You have to take the attitude that nothing the guy does is going to
 surprise you. You have to expect that you may feel frustrated at times,
@@ -289,8 +289,8 @@ pretend your game is somewhere it's not.
 confidence, there is still a modified alternative that can bring
 tremendous success.]{.mark}]{.underline}**
 
-**[[This is what I call modified all court attack. It could also be
-called rhythm rally attack.]{.underline}]{.mark}** (For more on rhythm
+**This is what I call modified all court attack. It could also be
+called rhythm rally attack.** (For more on rhythm
 rally, a term first coined by our writer Kerry Mitchell, [Click
 Here](../Classic%20Lessons/Rhythm%20and%20Rally%20Speed.docx).)
 
@@ -327,13 +327,13 @@ working the ball crosscourt on both sides. Try getting around and
 hitting forehands inside out. See if one side of his ground game is
 noticeably weaker.]{.mark}]{.underline}**
 
-**[[Slowly and gradually start to work the pusher side to side. Or work
+**Slowly and gradually start to work the pusher side to side. Or work
 him further and further off the court on just one side if it is
-noticeably weaker.]{.underline}]{.mark} [[But do it in
+noticeably weaker. [[But do it in
 rhythm.]{.mark}]{.underline}**
 
-**[[Try to get ridiculously far ahead in the
-rallies]{.underline}]{.mark}**. **[[Now try hitting forcing balls into
+**Try to get ridiculously far ahead in the
+rallies**. **[[Now try hitting forcing balls into
 the open court---but again don't try to artificially increase the pace,
 and don't panic if some of them come back.]{.mark}]{.underline}**
 
@@ -361,11 +361,11 @@ generated](media_three-secrets-for-destroying-pushers/media/image9.webp)
 **[[Everything should feel like it is in slow motion. But it should feel
 good.]{.mark}]{.underline}**
 
-**[[Is the pusher so far out of court that you can hit into the open
+**Is the pusher so far out of court that you can hit into the open
 court and not feel like you have to go big or hit for the lines? Can you
 get some fat shoulder high volleys and short overheads? Can you kick the
 ball high to his weaker side and get a few serve and volley
-points?]{.underline}]{.mark}**
+points?**
 
 **[[You should be mentally prepared to make a few errors and suffer a
 few passes or lob winners. But what are the percentages of these various
@@ -464,19 +464,19 @@ The course of events is then usually something like this. That first
 point goes on for a long while---50 balls sometimes, or even more. The
 next few points can be the same\--or it can continue for a few games.
 
-**[[But almost always a change starts to happen. Slowly, gradually, the
-pusher changes and starts trying to hit.]{.underline}]{.mark}**
+**But almost always a change starts to happen. Slowly, gradually, the
+pusher changes and starts trying to hit.**
 
-**[[For the pusher it's great to win points by hitting a few soft balls
-and inducing errors]{.underline}]{.mark}**. **[[But it's another thing
+**For the pusher it's great to win points by hitting a few soft balls
+and inducing errors**. **But it's another thing
 to have to hit two hundred moon balls to win a game, especially when
 your friends and relatives are getting a good look at the way you
-actually play.]{.underline}]{.mark}**
+actually play.**
 
-**[[So, when the pusher starts to hit, the errors usually start to go
+**So, when the pusher starts to hit, the errors usually start to go
 the other way. The pusher may revert periodically, and that's fine. If
 that happens, just get back into mirror mode
-yourself]{.underline}]{.mark}**.
+yourself**.
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -484,9 +484,9 @@ confidence](media_three-secrets-for-destroying-pushers/media/image12.webp)
 
 **The drop shot is a strategy most players can use against pushers.**
 
-**[[Eventually the same effect will occur. The pusher will become
+**Eventually the same effect will occur. The pusher will become
 emotionally discouraged and start to make more and more unforced
-errors.]{.underline}]{.mark}** I've seen my players lose the first set
+errors.** I've seen my players lose the first set
 time and time again, adopt the mirror strategy, and win the last two
 sets 6-2, 6-0.
 
@@ -498,11 +498,11 @@ worth it. Others just can't go there.]{.mark}]{.underline}**
 
 **Drop Shot Destruction**
 
-**[[Which brings us to the third option. What if you have not developed
+**Which brings us to the third option. What if you have not developed
 the shots it really takes to play modified attacking
-tennis?]{.underline}]{.mark}** **[[What if you simply do not have the
+tennis?** **What if you simply do not have the
 inclination or desire to use the Mirror to break the pusher's
-will?]{.underline}]{.mark}**
+will?**
 
 **[[The third major strategy I call Drop Shot Destruction. And actually,
 this is the one that club players and high school players can often
@@ -528,15 +528,15 @@ The drop shot says that he can completely neutralize the opponent's
 pace and drop it softly out of his reach for a winner. It's not a good
 feeling to see someone do that to one of your power groundstroke drives.
 
-**[[Wait a minute you may ask: the drop shot is also a skill shot I
+**Wait a minute you may ask: the drop shot is also a skill shot I
 don't have. Isn't a great drop shot at the same level of difficulty as
-the attacking tennis you described above?]{.underline}]{.mark}**
+the attacking tennis you described above?**
 
-**[[The answer is that a world class drop shot requires technical skill.
+**The answer is that a world class drop shot requires technical skill.
 But the reality is you don't need a world class drop shot to make this
 strategy work against a pusher. You really just need the ability to hit
 the ball short into the service box with some degree of
-underspin.]{.underline}]{.mark}**
+underspin.**
 
 **[[If you can hit drop shot winners all the better, but the real
 advantage here is not based on hitting winners. The point of the drop
@@ -581,7 +581,7 @@ It's not necessary and as noted above changing ball speed dramatically
 is actually very difficult, and exactly what the pusher hopes you
 try.]{.mark}]{.underline}**
 
-**[[Drop Shot and Lob]{.underline}]{.mark}**
+**Drop Shot and Lob**
 
 **[[The lob is equally effective in this same situation, and you don't
 have to have a great lob that you hit aggressively with topspin. A
@@ -612,12 +612,12 @@ to the middle, you can even run around to hit the shot you want. Since
 many players actually drop the ball better off the backhand side, you
 can hit an inside out backhand drop shot to get the sequence started.
 
-**[[If the pusher tries to retaliate with drop shots or short balls of
+**If the pusher tries to retaliate with drop shots or short balls of
 his own, no problem. Just follow your own drop shot to the
-net.]{.underline}]{.mark}** **[[Since the pusher has to hit up on the
+net.** **Since the pusher has to hit up on the
 ball, you are very likely to get an easy volley. And again, with the
 pusher at the net, it is much easier to get the ball by
-him.]{.underline}]{.mark}**
+him.**
 
 **[[I call it this strategy Drop Shot Destruction not only because you
 can win points so dramatically, but because, like the Mirror, this
@@ -654,11 +654,11 @@ going down in a blaze of unforced errors. Remember the huge
 psychological component involved in these
 matches.]{.mark}]{.underline}**
 
-**[[Be flexible and use your intuition about which option to apply when.
+**Be flexible and use your intuition about which option to apply when.
 You should be excited to have innovative and effective strategies for
 dealing with the pushing style, and eventually, you can develop great
 confidence walking on to the court to face what was previously your most
-feared enemy]{.underline}]{.mark}**.
+feared enemy**.
 
 **[[Realize that the first few matches you may have only partial
 success---winning some points or even a lot of points with one or more

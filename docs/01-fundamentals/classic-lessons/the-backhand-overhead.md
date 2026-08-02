@@ -22,10 +22,10 @@ contact. They hit the shot at the edge of their dominant
 shoulder.]{.mark}]{.underline} This forces them to abbreviate the swing
 and robs the shot of power.**
 
-**[[I believe the contact point should be much further in
-front.]{.underline}]{.mark}** **[[The ideal contact point is not at the
+**I believe the contact point should be much further in
+front.** **The ideal contact point is not at the
 edge of the body, but about a shoulder width in front of the edge of the
-body.]{.underline}]{.mark}** **This allows you to swing with much more
+body.** **This allows you to swing with much more
 force.**
 
 Think of your forehand or your regular overhead. Where do you hit these
@@ -78,8 +78,8 @@ an immediate read of the ball imperative. It's almost a math equation:
 the speed of the read plus the speed of your reaction is equal to the
 quality of your shot.
 
-**[[So, the first step is to read your opponent's lob and realize it is
-going to your backhand side.]{.underline}]{.mark}** We are all taught to
+**So, the first step is to read your opponent's lob and realize it is
+going to your backhand side.** We are all taught to
 lob to the backhand side if possible. How many times have you hit a
 volley at the net, only to see the lob headed over you on that side?
 
@@ -93,9 +93,9 @@ focus.
 The second step is the pattern of your movement. You need to have the
 right footwork to prepare correctly and execute. Here is the sequence.
 
-**[[From the ready position, your right leg crosses over to the front of
+**From the ready position, your right leg crosses over to the front of
 your body or your left side and makes a heavy plant
-step.]{.underline}]{.mark}** It then immediately pushes off driving your
+step.** It then immediately pushes off driving your
 body backwards. This starts the movement, but it also gets your hips
 closed off and parallel to the doubles alley sidelines.
 
@@ -129,8 +129,8 @@ body, but the key is the full racket drop, a drop not dissimilar to the
 serve or to the regular overhead. It's just that it's on the other
 side of your body.]{.mark}]{.underline}**
 
-**[[Make sure your shoulders and hips are turned fully sideways to the
-net.]{.underline}]{.mark}** **[[Meanwhile, you move your arm upward and
+**Make sure your shoulders and hips are turned fully sideways to the
+net.** **[[Meanwhile, you move your arm upward and
 backward from the shoulder, with the elbow bent. Your left hand holds
 the stick loosely, thumb at the throat.]{.mark}]{.underline}**
 
@@ -145,10 +145,10 @@ acceleration.]{.mark}]{.underline}**
 **THE FOURTH STEP: THE SHOT**
 
 **The shot is generated from the rotation of both the hitting arm and
-body**. **[[The entire hitting arm and racket rotate forward and upward
-from the shoulder joint.]{.underline}]{.mark}** **At the same time,
-[[the hips and shoulders are rotating forward and
-around.]{.underline}]{.mark} The result is that the racket moves with
+body**. **The entire hitting arm and racket rotate forward and upward
+from the shoulder joint.** **At the same time,
+the hips and shoulders are rotating forward and
+around. The result is that the racket moves with
 great acceleration toward the contact point.**
 
 ![A person holding a tennis racket Description automatically
@@ -157,14 +157,14 @@ generated](media_the-backhand-overhead/media/image6.webp)
 **Acceleration through the contact, which is slightly lower than a
 regular overhead.**
 
-**[[The contact is actually somewhat lower than on a regular overhead.
+**The contact is actually somewhat lower than on a regular overhead.
 But the key is that it is a full shoulder width in front of your right
-shoulder.]{.underline}]{.mark}** This is the payoff for the immediate
+shoulder.** This is the payoff for the immediate
 reaction and correct technical preparation.
 
 **[After the contact the racket continues and follows through all the
 way across the body.]{.underline}** **The follow through is**
-**[[viciously fast,]{.underline}]{.mark}** **with a** **[[full weight
+**viciously fast,** **with a** **[[full weight
 transfer from the rear plant foot to the front step
 foot.]{.mark}]{.underline}**
 

@@ -230,10 +230,10 @@ perpendicular to the net, and the line across the feet is parallel and
 along this same angle. ([Click
 Here](The%20One%20Handed%20Topspin%20Backhand.docx).)
 
-**[[Although players have less total body rotation on the one-hander
+**Although players have less total body rotation on the one-hander
 than the two-hander or the forehand, the closed stance and the line of
 the torso nevertheless allows them to create significant forward hip and
-shoulder rotation going into the contact.]{.underline}]{.mark}** If you
+shoulder rotation going into the contact.** If you
 look at the line of the shoulders at contact, you see that they have
 rotated 30 or 45 degrees from the full turn and are either sideways to
 the net or slightly open.
@@ -330,9 +330,9 @@ away from the player.
 This straight arm position is critical for an effective slice, and this
 is especially true in club level tennis. Many players copy the extreme
 wrap backswings of the pros, even when the ball is low.
-**[[Unfortunately they miss the much more vital straight arm element and
+**Unfortunately they miss the much more vital straight arm element and
 come through contact with the arm bent, leading with the
-elbow.]{.underline}]{.mark}**
+elbow.**
 
 **[[This leads to late contact, loss of power, lack of control, and
 also, the inability to hit crosscourt. And maybe, tennis
@@ -625,10 +625,10 @@ confidence](media_john-yandell-the-pro-slice-stroke-components/media/image24.web
 
 **After contact, the finish is high, often reaching shoulder level.**
 
-The answer is there is no where left to go. ***[[All tennis swings need
+The answer is there is no where left to go. ***All tennis swings need
 a deceleration phase. The racket has to slow down gradually after
 contact if the player wants to avoid putting dangerous stress on the
-joints and the muscles.]{.underline}]{.mark}***
+joints and the muscles.***
 
 On most pro swings, the hitting arm and racket reach the bottom of the
 potential range of motion shortly after contact. So the only way left to

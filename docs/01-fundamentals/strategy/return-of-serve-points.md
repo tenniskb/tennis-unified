@@ -203,13 +203,13 @@ by running them to one side or the other. However, there are certainly
 situations where using an attacking shot down the middle could be a wise
 choice and returning second serve is at the top of the list!
 
-**[[On the serve, as opposed to a regular groundstroke, it takes a
+**On the serve, as opposed to a regular groundstroke, it takes a
 fraction longer to recover your balance. Therefore, the server is
 vulnerable to being rushed by an early aggressive
-return.]{.underline}]{.mark}** **[[If this return is struck right up the
+return.** **If this return is struck right up the
 middle of the court, it's also an awkward move to get the body out of
 the way to make room for your next shot, and an error from the server on
-their next shot can often arise as a result.]{.underline}]{.mark}**
+their next shot can often arise as a result.**
 
 ![A picture containing sport, athletic game, floor, player Description
 automatically
@@ -264,9 +264,9 @@ rather than trying to take the ball early, in which case holding back a
 little more on the second serve return will allow you to use your
 strengths.]{.mark}]{.underline}**
 
-**[[On the other hand, if your skills lie more with early hitting,
+**On the other hand, if your skills lie more with early hitting,
 standing even closer into the court for second serves is a great option,
-and another tactic often used by tour players.]{.underline}]{.mark}**
+and another tactic often used by tour players.**
 The court surface will also play a factor, with faster lower bouncing
 courts favouring an early strike, and higher bouncing courts favouring
 standing even further back.

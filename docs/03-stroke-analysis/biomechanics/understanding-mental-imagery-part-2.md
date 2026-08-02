@@ -80,9 +80,9 @@ frame by frame.**
 A control group participated in tennis practices without practicing
 their serve. The control group increased service speed by 1 mph.
 
-**[[So, interestingly, the group that did only visualization training
+**So, interestingly, the group that did only visualization training
 increased their serve speed even more than the group that did both
-visualization and weight training.]{.underline}]{.mark}** And the
+visualization and weight training.** And the
 qualitatively opinion of the coaches was that, regardless of the speed
 increases, the participants in the mental imagery group improved their
 technique much more than the other groups.

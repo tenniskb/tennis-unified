@@ -53,8 +53,8 @@ In the 1981 Volvo Masters final, Lendl blasted a forehand off Vitas
 Gerulaitis' head that sent him down. Gerulaitis had been ahead two sets
 to love at the time, but lost the final.
 
-**[[According to John McEnroe, headhunting is a fair play, especially
-against a regular net-rusher.]{.underline}]{.mark}** After Andy Murray
+**According to John McEnroe, headhunting is a fair play, especially
+against a regular net-rusher.** After Andy Murray
 tried to decapitate Roger Federer in the 2012 Wimbledon final. McEnroe
 remarked, \"I was hit by Lendl way more than any other person. It's a
 legitimate play.\"

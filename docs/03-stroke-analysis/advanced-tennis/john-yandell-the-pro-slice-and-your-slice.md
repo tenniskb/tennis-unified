@@ -171,9 +171,9 @@ least some of the attempts.
 with medium
 confidence](media_john-yandell-the-pro-slice-and-your-slice/media/image6.webp)
 
-**[[To gain some control I naturally raised my backswing and increased
+**To gain some control I naturally raised my backswing and increased
 the downward swing - but some classic elements
-remained.]{.underline}]{.mark}**
+remained.**
 
 What was interesting though was what this adjustment naturally did to my
 technical swing pattern. I was not conscious of the changes, but the

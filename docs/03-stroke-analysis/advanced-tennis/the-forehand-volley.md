@@ -236,18 +236,18 @@ arm shape the Open \"U.\"]{.mark}**
 
 This positioning begins at the start of the forehand volley motion. As
 we saw with the groundstrokes ([Click
-Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)), **[[the
+Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)), **the
 key to the preparation is to start the motion with the feet and the
-shoulders.]{.underline}]{.mark}**
+shoulders.**
 
-**[[The motion begins with a step to the side with the outside or right
+**The motion begins with a step to the side with the outside or right
 foot combined with a unit turn of the shoulders, arms and
-racket.]{.underline}]{.mark}** ***At the completion of this unit turn,
+racket.** ***At the completion of this unit turn,
 the hitting arm is set up in the shape that can best be described as an
 Open \"U.\"***
 
-**[[The forearm forms the bottom or base of the
-\"U.\"]{.underline}]{.mark}** ***[The upper arm and the racket form the
+**The forearm forms the bottom or base of the
+\"U.\"** ***[The upper arm and the racket form the
 legs of the U. The \"legs\" are both at about a 45 degree angle to the
 forearm or base.]{.underline}***
 
@@ -315,9 +315,9 @@ too large a motion.
 
 **Contact**
 
-Watch how the rear shoulder drives the motion to the contact. **[[The
+Watch how the rear shoulder drives the motion to the contact. **The
 hand, arm and racket rotate forward through the motion as a
-unit.]{.underline}]{.mark}** ***In essence the palm of the hand and the
+unit.** ***In essence the palm of the hand and the
 shoulder are pushing the racket face to the contact.*** **[The critical
 point is that the hitting arm shape stays constant.]{.underline}**
 
@@ -369,8 +369,8 @@ pointing off the front leg.**
 
 Now look at the isolation of the same movement from yet another angle in
 the animation of Taylor Dent. Look at the perfect construction of the
-hitting arm position. **[[Watch the shoulder start to rotate forward,
-driving this shape to the contact.]{.underline}]{.mark}**
+hitting arm position. **Watch the shoulder start to rotate forward,
+driving this shape to the contact.**
 
 This critical core movement is very brief, subtle and hard to see, even
 with the high speed video. This is in my opinion why the shot is
@@ -429,11 +429,11 @@ better phrase than \"punch\" to make sure you'll never execute the
 actual technical elements of a good forehand volley.
 
 There are similar problems with the second major teaching idea\--\"keep
-the wrist firm.\" **[[As we can see the wrist is actually laid slightly
-back.]{.underline}]{.mark}** This is a fundamental aspect of creating
-the open \"U\" shape. **[[It's what allows the player to make contact
+the wrist firm.\" **As we can see the wrist is actually laid slightly
+back.** This is a fundamental aspect of creating
+the open \"U\" shape. **It's what allows the player to make contact
 slightly in front with the racket face more or less square to the
-ball.]{.underline}]{.mark}**
+ball.**
 
 **[Without this laid back wrist position, the ball will get past the
 front edge of the body and the contact will be late.]{.mark}** If that

@@ -153,8 +153,8 @@ confidence](media_are-you-a-right-side-or-left-side-player/media/image4.webp)
 
 **Secondary Shot**
 
-**[[There is one more step to go in understanding your game. This is to
-pick a secondary shot.]{.underline}]{.mark}** This can be anything that
+**There is one more step to go in understanding your game. This is to
+pick a secondary shot.** This can be anything that
 isn't covered in the shots we've already discussed, such as drop
 shots, a wicked slice angle, lobs, or something linked to net play.
 

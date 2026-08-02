@@ -53,12 +53,12 @@ you will finish them. Visualize various scenarios of how you will
 succeed in those moments.
 
 It can be hard for many players to close out a match, especially if they
-are the underdog, so you need to imagine yourself doing it. **[[If you
+are the underdog, so you need to imagine yourself doing it. **If you
 can see and believe in your own success, your mind will be convinced it
 is in familiar territory during the competition
-itself.]{.underline}]{.mark}** **[[The state of mind initiated by your
+itself.** **The state of mind initiated by your
 imagination following this progression will create more confidence over
-time.]{.underline}]{.mark}**
+time.**
 
 **Positive Self Talk**
 
@@ -121,20 +121,20 @@ generated](media_techniques-for-developing-confidence/media/image4.jpg)
 
 **Do you think Rafa looks focused on the process?**
 
-**[[Focus also on what you are doing right.]{.underline}]{.mark}**
+**Focus also on what you are doing right.**
 **It's important to learn from your mistakes, but don't dwell on them.
 Your confidence will diminish if you spend too much time thinking about
 your mistakes. Your confidence will increase if you primarily focus on
 what you are doing right.**
 
-**[[Concentrate on the process, not outcomes]{.underline}]{.mark}**. By
+**Concentrate on the process, not outcomes**. By
 focusing on the process of improving, you are focusing on something
 within your control. You have influence on outcomes, but not control
 over them. If you focus on the process and you still lose, you may be
 disappointed, but your confidence should not waver as much, and you
 won't be as deterred as you would have had you focused on the outcome.
 
-**[[Focus on yourself, not others.]{.underline}]{.mark}** Concentrate on
+**Focus on yourself, not others.** Concentrate on
 your own performance and personal improvement physically, mentally, and
 emotionally. Focus on what you need to do to improve individually or as
 a team. When you experience improvement, your confidence will grow.
@@ -206,9 +206,9 @@ Even if it's best to not think about winning, it is unrealistic to
 expect an athlete not to think about results at all. Consequently, your
 challenge is to determine what to do when your mind fixates on results.
 
-**[[Become aware when you are focusing on the outcome. Once you are
+**Become aware when you are focusing on the outcome. Once you are
 aware of your outcome focus, recognize that you can only focus on one
-thing at a time.]{.underline}]{.mark}** **If you can replace your
+thing at a time.** **If you can replace your
 outcome focus with a focus on something else, you can stop yourself from
 thinking about results. Ideally, you should refocus on something that
 will enable you to perform your best.**

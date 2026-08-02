@@ -141,11 +141,11 @@ it is now rediscovering this grip and learning how and when to use it.
 It's ironic that the continental has gone from almost universal to near
 extinction in only a couple of generations of players.
 
-**[[The continental grip or what I call the open racquet face
-grip]{.underline}]{.mark}** **[[is used for volleys, both forehand and
+**The continental grip or what I call the open racquet face
+grip** **is used for volleys, both forehand and
 backhand; the slice forehand (not used much in the pro game today, but
 effective at the club level) the slice backhand; and the serve, both
-flat and spin]{.underline}]{.mark}**.
+flat and spin**.
 
 Spin is the controlling element in the game. The continental grip, is
 critical to producing underspin on groundstrokes and volleys, and
@@ -203,24 +203,24 @@ free points.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[On the forehand volley the motion is similar. Again the elbow comes
+**On the forehand volley the motion is similar. Again the elbow comes
 in, moving toward the stomach. Depending on the ball, the high to low
 motion can be more pronounced. Pulling the inside part of the elbow down
 (high to low) and toward the stomach lays the racquet face open and
-slides it under the ball.]{.underline}]{.mark}**
+slides it under the ball.**
 
 What makes this possible is the grip itself. The heal of your hand is
 placed partially on the top panel (palm facing the ground) of the
 racquet allowing the player to push down the butt of the racquet as it
 comes to meet the ball.
 
-How about on the backhand side? **[[On the slice backhand groundstroke
+How about on the backhand side? **On the slice backhand groundstroke
 and the slice backhand volley, the back of the hand slides under the
 ball (low to high) staying in the same position throughout the hitting
-zone.]{.underline}]{.mark}**
+zone.**
 
-**[[On the groundstroke the arm position is straight before, during and
-after the contact.]{.underline}]{.mark}** Again, the head of the racquet
+**On the groundstroke the arm position is straight before, during and
+after the contact.** Again, the head of the racquet
 stays above the wrist as it passes through the ball. Much like the
 forehand, the continental grip allows you to support the racquet head
 above the wrist throughout the stroke.
@@ -239,33 +239,33 @@ hand all the way through.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[One more key on both the volleys:]{.underline}]{.mark}**
+**One more key on both the volleys:**
 
-**[[the continental grip requires a closed
-stance.]{.underline}]{.mark}**
+**the continental grip requires a closed
+stance.**
 
-**[[Hitting an open stance volley will cause the player to catch the
+**Hitting an open stance volley will cause the player to catch the
 ball late and push the face of the racquet too open at the contact
-resulting in an error.]{.underline}]{.mark}**
+resulting in an error.**
 
 **The Serve**
 
-**[[The continental grip on the serve again allows a player to hit spin
+**The continental grip on the serve again allows a player to hit spin
 (topspin and sidespin) which brings the ball down
-faster.]{.underline}]{.mark}** **[[Since the ball comes down faster it
+faster.** **Since the ball comes down faster it
 allows the player to hit the serve harder and more upward (it almost
 forces the player to hit harder because if he/she doesn't, the serve
-will not go over the net).]{.underline}]{.mark}**
+will not go over the net).**
 
 On the serve, the continental grip makes the transition of the racquet
 head through the ball much more efficient. With the continental grip,
 what many instructors call the snap of the wrist (or pronation) occurs
 naturally as part of a good racquet drop.
 
-**[[The spin is a result of the racquet face crossing the from bottom
+**The spin is a result of the racquet face crossing the from bottom
 left to the top right of the ball. (right to left for lefties). A good
 visual image is to reach for the ball with the top edge of the racquet
-head.]{.underline}]{.mark}**
+head.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                        ![A person speaking into a microphone in front of a large crowd Description automatically generated with medium
@@ -280,21 +280,21 @@ wrist back.]{.mark}]{.underline}** This is a common error that occurs
 with many players who serve with other grips and results in very limited
 ability to create good quality, consistent spin.
 
-**[[One mental process to understand is that the right image for a
+**One mental process to understand is that the right image for a
 particular player on a particular shot won't always correlate perfectly
 with the contact point. This can be true on the spin
-serve.]{.underline}]{.mark}**
+serve.**
 
 **Since when serving a player is automatically swinging upward [the
 natural reaction of many players is to open the palm
 skyward]{.underline}. In this case, the player must use an image that
-counteracts this tendency, what some coaches call [[an over-
-compensation.]{.underline}]{.mark}**
+counteracts this tendency, what some coaches call an over-
+compensation.**
 
 To hit spin in this case, the player should visualize the racquet face
-coming across the ball (**[[the head is closed, facing the ground, at
-contact.]{.underline}]{.mark}** **[[In reality the racquet face angle is
-again almost perpendicular to the court.]{.underline}]{.mark}**
+coming across the ball (**the head is closed, facing the ground, at
+contact.** **In reality the racquet face angle is
+again almost perpendicular to the court.**
 
 I'll have more to say on the image versus reality issue in Part 2 when
 we'll take on the forehand grips, especially the Western and

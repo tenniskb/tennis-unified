@@ -44,9 +44,9 @@ understand that ***[[building points is a process and that the
 spectacular shots are the natural outcome of that
 process.]{.mark}]{.underline}***
 
-**[[So, the first step is just to start to think in this way. The next
+**So, the first step is just to start to think in this way. The next
 step is to master the execution of the components of this process for
-yourself.]{.underline}]{.mark}**
+yourself.**
 
 Controlling the return of serve may be the most important factor in
 tennis. If you cannot break serve, you cannot win matches. And if you
@@ -67,15 +67,15 @@ Williams is serving at speeds of 120mph.
 The speed of the serve has created new and even more difficult
 challenges when it comes to using the return to establish control.
 
-**[[To return effectively in the modern game you must find a way to do
+**To return effectively in the modern game you must find a way to do
 two things. First, you have to get more serves in play. Second, you have
 to establish control using your return when ever
-possible.]{.underline}]{.mark}**
+possible.**
 
-**[[To do this you have to neutralize big servers on the first ball and
-make them play points. You]{.underline}]{.mark}** **[[must also take
+**To do this you have to neutralize big servers on the first ball and
+make them play points. You** **must also take
 your opportunities to attack on the second serve whenever
-possible.]{.underline}]{.mark}**
+possible.**
 
 **Neutralizing the First Serve**
 
@@ -108,23 +108,23 @@ confidence](media_the-strategy-zone-return-control/media/image4.webp)
 
 **A deep slice return can neutralize a power server who stays back.**
 
-**[[One way to do this is with a deep floating slice the way Federer
+**One way to do this is with a deep floating slice the way Federer
 plays against Andy Roddick. Many big servers never come to the net, so
 there is little danger of your opponent picking off a higher floating
-ball.]{.underline}]{.mark}**
+ball.**
 
-**[[You can also play the neutral zone return with a deep topspin
-drive]{.underline}]{.mark}**. Besides simply putting the ball in play,
+**You can also play the neutral zone return with a deep topspin
+drive**. Besides simply putting the ball in play,
 this return has many other potential advantages. Often, you would see
 Agassi hit a deep neutral zone return and then take control with the
 next ball. At the Academy we work every day on returning the serve deep
 and right down the center of the court.
 
-**[[The deep neutral zone return is your best chance against a big
+**The deep neutral zone return is your best chance against a big
 server. It can confuse the server. The serve may be surprised that the
 big bomb is coming back. Since it's is coming directly at him, he may
 also have trouble deciding whether to hit a forehand or a
-backhand.]{.underline}]{.mark}**
+backhand.**
 
 ![A picture containing text, person, person, player Description
 automatically
@@ -133,20 +133,20 @@ generated](media_the-strategy-zone-return-control/media/image5.webp)
 **A big server can be forced backwards on the defensive by a deep
 neutral zone return.**
 
-**[[When you return deep you can also catch the server off balance. Many
-big servers land well inside the court.]{.underline}]{.mark}**
-**[[Sometimes they are off balance and leaning quite far forward at the
-waist.]{.underline}]{.mark}** **[[When the ball comes directly to them,
-they can be caught unexpectedly in this position.]{.underline}]{.mark}**
+**When you return deep you can also catch the server off balance. Many
+big servers land well inside the court.**
+**Sometimes they are off balance and leaning quite far forward at the
+waist.** **When the ball comes directly to them,
+they can be caught unexpectedly in this position.**
 
-**[[They may have difficulty regaining their balance and recovering to a
-sound ready position.]{.underline}]{.mark}** **[[The deep neutral return
+**They may have difficulty regaining their balance and recovering to a
+sound ready position.** **The deep neutral return
 can force them to move backwards, and also to rush the return. It can
-force them to play a shoulder high ball.]{.underline}]{.mark}**
+force them to play a shoulder high ball.**
 
-**[[All these factors can lead to unforced errors, or they can force the
+**All these factors can lead to unforced errors, or they can force the
 server to make a defensive reply. This can give you the opportunity to
-hurt them with the next ball.]{.underline}]{.mark}**
+hurt them with the next ball.**
 
 In dealing with a high velocity serve there are some critical technical
 points. The first is the timing of the split step. You should begin your

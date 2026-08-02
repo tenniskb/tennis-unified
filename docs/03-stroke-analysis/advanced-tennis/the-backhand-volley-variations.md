@@ -77,10 +77,10 @@ little tilt. Or the hand can be at the top of the head and the backward
 rotation of the hitting arm structure can tilt the racket back until the
 tip is actually pointed downward toward the court.
 
-**[[What all this means is that the forward swing can start with the
+**What all this means is that the forward swing can start with the
 racket in many different positions. Furthermore, from these various
 starting points, the forward swing can be relatively flat, or very
-sharply downward, or anywhere in between.]{.underline}]{.mark}**
+sharply downward, or anywhere in between.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -100,11 +100,11 @@ followthrough.
 
 **Hitting Arm and Racket Structure**
 
-**[[So that is truly complex, but there is one constant that is critical
+**So that is truly complex, but there is one constant that is critical
 to the forward swing. This is the shape and structure of the hitting arm
 and racket. As with the forehand volley this is one of the most
 important, and often overlooked components in the
-motion.]{.underline}]{.mark}**
+motion.**
 
 Equally important, on all the backhand volleys, the players use the
 front shoulder muscles to move the hitting arm structure forward and
@@ -128,9 +128,9 @@ combine all the elements.
 You might assume that when the ball is high the players would use more
 backswing, open the face more, hit more downward on the ball, and
 generate more underspin. And on most balls that is probably true. But
-not all. **[[So it's important to see that depending on the ball and
+not all. **So it's important to see that depending on the ball and
 court position there are options. As a player you need to develop a feel
-for what they are.]{.underline}]{.mark}**
+for what they are.**
 
 Contrast the two high Tim Henman volleys in the animations. In the first
 animation on a high, relatively slow floating ball with the court open,
@@ -275,9 +275,9 @@ underspin. From where he is the trajectory can be a little flatter, so
 he is probably hitting it somewhat harder than Taylor's volley with
 more spin.
 
-**[[The common point to note is that the forward swing is still the
+**The common point to note is that the forward swing is still the
 independent, unitary movement of the hitting arm structure from the
-front shoulder.]{.underline}]{.mark}** Watch the arm and racket move
+front shoulder.** Watch the arm and racket move
 forward while the torso stays sideways, and the back arm opposing. Note
 also that once again the elbow straightens out, but then reverts to a
 flexed position, recreating the U shape during the followthrough.

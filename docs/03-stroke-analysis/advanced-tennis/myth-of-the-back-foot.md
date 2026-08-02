@@ -54,21 +54,21 @@ Andre Agassi has at least as much leg action as Pete. He has one of the
 most underrated serves in tennis, and he also has one of the deepest
 knee bends.
 
-***[[Both Pete and Andre coil the legs, primarily the quadriceps, which
+***Both Pete and Andre coil the legs, primarily the quadriceps, which
 are the strongest muscles in the body, through their incredible knee
 bend. This stores tremendous energy in the leg muscles. As the legs
 uncoil this energy is naturally released. This in turn propels the
-players upward and into the air toward the ball.]{.underline}]{.mark}***
+players upward and into the air toward the ball.***
 
 ***[Watch how the body natural explodes upward to the ball with the
 energy passing from the legs to the torso. The body is in line with
 itself and moving upward toward the ball as a unit. The natural landing
 from this trajectory is on the front foot.]{.mark}***
 
-***[[The kick back is critical to a balanced landing. In this respect,
+***The kick back is critical to a balanced landing. In this respect,
 the back leg serves as a counterweight. It's backward movement counter
 balances the thrust forward and upward. Usually the leg kicks backward
-at about a 30 or 45 degree angle.]{.underline}]{.mark}***
+at about a 30 or 45 degree angle.***
 
 This allows the players to land on balance on the front foot and keep
 the torso relatively upright. Without the back leg kick, most servers
@@ -77,18 +77,18 @@ would probably have a hard time stopping themselves from falling over.
 It is important to note that this thrust with the legs is not a \"jump\"
 or a \"leap.\" Many top pros could undoubtedly produce a vertical leap
 somewhat comparable to basketball players, that is of 2 feet or more.
-This is not what we see in the leg action of the modern serve. ***[[Pro
+This is not what we see in the leg action of the modern serve. ***Pro
 players are in the air at the hit, but only a few inches above the
-court.]{.underline}]{.mark}***
+court.***
 
-***[[There is no deliberate attempt to jump. Leaving the court is a
+***There is no deliberate attempt to jump. Leaving the court is a
 natural consequence of the uncoiling of the legs from the knee bend. It
 is generated automatically as part of the bio-mechanical chain of the
-service motion.]{.underline}]{.mark}***
+service motion.***
 
-***[[The footwork pattern is actually more like a \"hop\" than a jump.
+***The footwork pattern is actually more like a \"hop\" than a jump.
 As the legs uncoil, the player hops forward a few inches into the air
-landing inside the court on the front foot.]{.underline}]{.mark}***
+landing inside the court on the front foot.***
 
 | ![A person playing tennis Description automatically generated with medium | ![A tennis player in the middle of serving the ball Description automatically generated with low |
 | --- | --- |
@@ -324,12 +324,12 @@ often taught to start the bend as the tossing arm drops, but they tend
 to develop a kind of double pump, in which they bend, but then come up,
 and then try to bend again.]{.mark}***
 
-***[[The exact timing of the knee bend is related to the height of the
+***The exact timing of the knee bend is related to the height of the
 toss. It's also related to the depth of the knee bend, the amount of
 shoulder turn in your motion, and your personal serving rhythm. The
 higher the toss, obviously, the more time you have to complete the
 motion. The more complex the motion, or the slower your rhythm, the more
-time you need.]{.underline}]{.mark}***
+time you need.***
 
 | ![A person playing tennis Description automatically generated with medium | ![A person playing tennis Description automatically generated with medium |
 | --- | --- |
@@ -351,8 +351,8 @@ If you haven't had significant knee bend in your serve up until now,
 you will have to experiment with the height of your toss to find the
 right timing.
 
-***[[If you are adding a lot of bend for the first time, you may find
-you need to toss higher to avoid feeling rushed.]{.underline}]{.mark}***
+***If you are adding a lot of bend for the first time, you may find
+you need to toss higher to avoid feeling rushed.***
 
 ***[[The key to the timing is to feel relaxed and to maximize your knee
 bend when you reach the so-called \"trophy\" or power position.]{.mark}
@@ -415,11 +415,11 @@ special. His motion automatically produces racquet head speed as a
 result of the forces he generates in the bio-mechanical chain, starting
 with his knee bend.
 
-**[[This is something you should strive for as well. Most players are
+**This is something you should strive for as well. Most players are
 far too tense in the arm and shoulder in the effort to generate power.
 Once you learn to use your legs, it can help you to relax your arm-and
 that can mean more consistency, especially under
-pressure.]{.underline}]{.mark}**
+pressure.**
 
 It's a great feeling to know you can count on your serve and you can
 produce your best deliveries when you need them. Develop this pro

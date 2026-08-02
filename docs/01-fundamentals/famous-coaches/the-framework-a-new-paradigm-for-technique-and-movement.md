@@ -197,7 +197,7 @@ are interwoven; one significantly impacts the other and visa versa. I
 believe the separation between swing shape and movement to and from the
 ball is artificial and unhelpful.
 
-**[[In simple terms a stroke is not a shot]{.underline}]{.mark}**. \"The
+**In simple terms a stroke is not a shot**. \"The
 Framework\" assumes that an effective analysis of a shot, any shot, must
 look at the shot from start to finish, from split-step to recovery.
 
@@ -228,8 +228,8 @@ unacceptable.
 **The Framework focuses on the importance of the [continuous powerful
 and smooth transfer of energy and momentum]{.underline} through the
 whole shot.** Most educational sites focus on momentum and the kinetic
-chain in the stroke only. **The Framework analyzes [[how energy is
-used]{.underline}]{.mark} [during movement]{.underline} and [how that
+chain in the stroke only. **The Framework analyzes how energy is
+used [during movement]{.underline} and [how that
 energy is transferred from movement to the racquet and back to
 movement]{.underline}.**
 

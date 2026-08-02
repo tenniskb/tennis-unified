@@ -45,10 +45,10 @@ concentration.**
 
 Research has shown concentration improves with players stay fixated on
 the contact zone until well into the follow-through. This in turn helps
-players stay in the process of playing the game. **[[Under stress the
+players stay in the process of playing the game. **Under stress the
 greatest lapses in concentration come when the player allows his mind to
 project what is about to happen or on what has already
-happened.]{.underline}]{.mark}**
+happened.**
 
 **Control**
 
@@ -62,11 +62,11 @@ wind, sun, temperature, opponent and spectator behavior, types of
 playing surface, etc. If the player becomes distracted by these or other
 issues he suffers increased anxiety and loses focus on the task at hand.
 
-**[[When practiced as a repetitive ritual head fixation not only creates
+**When practiced as a repetitive ritual head fixation not only creates
 the feeling that the player is in control, it also sends the same
-message to the opponent.]{.underline}]{.mark}** **[[This feeling of
+message to the opponent.** **This feeling of
 control reduces stress and counteracts the common problem of becoming
-overly intense in tight competitive situations.]{.underline}]{.mark}**
+overly intense in tight competitive situations.**
 
 Is it coincidence that Roger Federer - the player with the most
 pronounced head fixation - has shown a legendary ability to stay relaxed

@@ -40,12 +40,12 @@ close matches.
 
 **Why Inside?**
 
-**[[Why play inside out? The obvious advantage is that it allows you to
+**Why play inside out? The obvious advantage is that it allows you to
 use your forehand against your opponent's
-backhand.]{.underline}]{.mark}** **[[In general, we know very few top
+backhand.** **In general, we know very few top
 pros have obvious weaknesses on their backhand sides, yet they still
 chose to move around and play a large percentage of balls from the
-inside out position.]{.underline}]{.mark}**
+inside out position.**
 
 ![A couple of men playing tennis Description automatically generated
 with low
@@ -77,10 +77,10 @@ backhand.]{.mark}]{.underline}**
 generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp)\
 **Dominating inside out produces balls to destroy inside in.**
 
-**[[There are many other options. If your opponent hits short and low,
+**There are many other options. If your opponent hits short and low,
 you can use your slice backhand to chip back crosscourt, again looking
 to maneuver for position and set up the inside in. Or you can chip up
-the line and attack.]{.underline}]{.mark}**
+the line and attack.**
 
 **Inside Defense**
 
@@ -152,23 +152,23 @@ Steffi would chip down the line short, and force her opponent to hit to
 her forehand side, once again allowing her to employ the greatest weapon
 in the women's game.
 
-**[[Another tactic players try against the inside position is to try to
+**Another tactic players try against the inside position is to try to
 hit short angles to the backhand side, usually
-slice]{.underline}]{.mark}**. But the great inside player has developed
+slice**. But the great inside player has developed
 a counterplay here by hiting his own backhand slice up the line followed
 by a forehand volley winner. Sampras was the master of this combination.
 
-**[[Your opponent has two other options. He may attempt a drop
-shot.]{.underline}]{.mark}** **[[This shot is risky and will likely not
+**Your opponent has two other options. He may attempt a drop
+shot.** **This shot is risky and will likely not
 be a very effective tactic over the course of a match, especially on a
 hard court. If it is, you can hit your inside-out forehand heavier, or
-higher to prevent him from using that ploy.]{.underline}]{.mark}**
+higher to prevent him from using that ploy.**
 
-**[[The last option is a drive down the middle.]{.underline}]{.mark}**
-**[[This shot is exactly what you have been waiting for. If it is high
+**The last option is a drive down the middle.**
+**This shot is exactly what you have been waiting for. If it is high
 and short enough, you can go on the attack. If it is not, then simply
 return it back inside-out and wait for a better ball to
-attack.]{.underline}]{.mark}**
+attack.**
 
 ![A person playing tennis Description automatically generated with
 medium

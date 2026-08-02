@@ -44,9 +44,9 @@ the legs around the contact has not changed substantially. Only how you
 get there has changed. The optimum position remains similar to the
 neutral stance hit. This is a concept that I call True Alignment.
 
-**[[The most important time to look at the positions of the legs and
+**The most important time to look at the positions of the legs and
 hips is around the hitting zone, that is, just before contact, at
-contact, and just after contact.]{.underline}]{.mark}** This is
+contact, and just after contact.** This is
 impossible to capture with the naked eye and just up until recently,
 difficult to see with normal video images. Now with high-speed video we
 can see just what the legs and hips do in the most crucial section of
@@ -62,13 +62,13 @@ the serve.
 
 As discussed in my open stance forehand article [(Click
 Here](What%20is%20Open%20Stance.docx)) the alignment of the hips and
-legs are crucial for a successful shot. As I explained there, **[[the
+legs are crucial for a successful shot. As I explained there, **the
 first goal is to set up behind the ball on the outside foot. From that
 point, there are 3 general options on the forehand: neutral stance,
-semi-open stance, and open stance.]{.underline}]{.mark}**
+semi-open stance, and open stance.**
 
-**[[With a neutral stance the player steps into the shot from this set
-up behind the ball.]{.underline}]{.mark}** Normally we see the alignment
+**With a neutral stance the player steps into the shot from this set
+up behind the ball.** Normally we see the alignment
 of the feet roughly parallel to the target line in the hitting zone.
 Sometimes the player will keep both feet on the ground aligned on the
 same line all the way through the swing. Usually (though not always)
@@ -109,13 +109,13 @@ With the semi open stance, obviously the players don't step directly
 into the line of the shot. But the interesting thing is that the
 position of the legs and hips still comes back to the neutral stance
 hitting position at contact, or to a variation on that position.
-**[[Before the contact, the left hip pulls or snaps the leg across and
+**Before the contact, the left hip pulls or snaps the leg across and
 into the true alignment position. At the contact, you can see the same
 line of the feet along the target line as with the neutral stance, or
-something close to it.]{.underline}]{.mark}**
+something close to it.**
 
-**[[The big difference is that one or both feet are usually in the
-air.]{.underline}]{.mark}**
+**The big difference is that one or both feet are usually in the
+air.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -124,27 +124,27 @@ confidence](media_true-alignment/media/image5.webp)
 **A line along the stance is parallel to the target line. Again, the
 step through with the back foot comes after the hit.**
 
-**[[A line along the stance is parallel to the target line. Again, the
+**A line along the stance is parallel to the target line. Again, the
 step through with the back foot comes after the
-hit.]{.underline}]{.mark}**
+hit.**
 
 With the more extreme grips it is true you will tend to see more
 shoulder and hip rotation at contact, and the line may be slightly more
-\"open.\" **[[The point is that the hips and the feet have not
+\"open.\" **The point is that the hips and the feet have not
 over-rotated, spinning the body around and causing a loss of
-power.]{.underline}]{.mark}** Despite all the effort that seems to go
+power.** Despite all the effort that seems to go
 into this type of rotating swing, the player never produces the pace
-that he hopes for. In reality, it's the opposite. **[[When the player
+that he hopes for. In reality, it's the opposite. **When the player
 reaches true alignment, it seems to naturally decreases the hip
-rotation.]{.underline}]{.mark}**
+rotation.**
 
-**[[The principle of true alignment applies even more in the full open
-stance.]{.underline}]{.mark}** **[[When the player stays down on the
+**The principle of true alignment applies even more in the full open
+stance.** **When the player stays down on the
 court, or only comes off the court slightly, the line of the feet will
 be more open to the target line compared to the semi-open stance, but
 the line is still at an angle to the baseline. The rear leg stays behind
 the front leg in the hitting zone, with the front foot closer to the
-net.]{.underline}]{.mark}**
+net.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -153,9 +153,9 @@ confidence](media_true-alignment/media/image6.webp)
 **Watch the left leg move from the extreme open stance into true
 alignment.**
 
-**[[The foot comes around in the recovery step after the hit. When it
+**The foot comes around in the recovery step after the hit. When it
 lands the back foot can be even with the front foot, parallel to the
-baseline, or even ahead of the front foot.]{.underline}]{.mark}**
+baseline, or even ahead of the front foot.**
 
 **[[In more extreme examples when the players are coming up off the
 court, the stance actually narrows in the air]{.underline}. The left hip
@@ -167,8 +167,8 @@ going forward and the back leg going back. Rather than coming around in
 a recovery step, the back leg is actually moving in the opposite
 direction.
 
-**[[What makes this position crucial is that it allows a freer arm
-swing.]{.underline}]{.mark}** This produces more power and also
+**What makes this position crucial is that it allows a freer arm
+swing.** This produces more power and also
 maintains the correct pattern of the swing. It also creates greater
 potential to generate spin.
 
@@ -182,10 +182,10 @@ shots in tennis. **[[The first is the inside out or inside in
 forehand.]{.mark}]{.underline}** This is actually where I would say that
 the concept of true alignment is seen most clearly. If you look at the
 animation at the top of the article, you'll recognize this and see the
-scissoring of the legs. **[[Players set up on their rear foot in an open
+scissoring of the legs. **Players set up on their rear foot in an open
 stance, then explode into the ball opening the shoulders at the same
 time the legs are snapped closed back into a neutral
-stance.]{.underline}]{.mark}** This creates true alignment and
+stance.** This creates true alignment and
 incredible arm acceleration.
 
 ![A person playing tennis Description automatically generated with
@@ -195,8 +195,8 @@ confidence](media_true-alignment/media/image7.webp)
 **After pulling into alignment, the legs scissor, and move in opposite
 directions.**
 
-**[[The second explosive shot is the running
-forehand]{.underline}]{.mark}.** If open stance hitting and full hip
+**The second explosive shot is the running
+forehand.** If open stance hitting and full hip
 rotation are the keys to power, how do we account for this shot? When
 the player is on the run, his last step before contact is with the rear
 foot. But as he swings, the front leg is pulled through closing the hips
@@ -213,8 +213,8 @@ confidence](media_true-alignment/media/image8.webp)
 **The step with the rear foot, the front foot pulls into alignment, the
 contact with the torso square, and finally the recovery step.**
 
-**[[So in all the cases, we see the recover step happens after the swing
-is complete.]{.underline}]{.mark}** It's true on all the stances from
+**So in all the cases, we see the recover step happens after the swing
+is complete.** It's true on all the stances from
 neutral to extreme open. This goes against current teaching which
 stresses rotating the hips and feet through the shot, including bringing
 the outside foot around for a recovery step during the actual swing.
@@ -224,11 +224,11 @@ generated](media_true-alignment/media/image9.webp)
 
 **Regardless of stance the foot comes around after the follow-through.**
 
-**[[Yes, the top players definitely bring the outside foot around to
+**Yes, the top players definitely bring the outside foot around to
 recover. But the video shows that the timing is different than often
-supposed.]{.underline}]{.mark}** **[[In virtually all cases, the rear
+supposed.** **In virtually all cases, the rear
 leg stays behind until the completion of the
-shot.]{.underline}]{.mark}** **[[The players maintain true alignment
+shot.** **[[The players maintain true alignment
 well out into the follow-through, somewhere close to the start of the
 wrap.]{.mark} [Then and only then does the rear leg release to the
 outside. The stroke and the recovery step are usually distinct not

@@ -194,8 +194,8 @@ Second, believe that experiencing challenges is a necessary part of
 becoming the best athlete you can. Third, be prepared to meet
 challenges. Fourth, stay positive and motivated in the face of
 difficulties and focus on what you need to do to overcome challenges.
-**[[And finally, accept that you may experience failure when faced with
-new challenges but never give up.]{.underline}]{.mark}**
+**And finally, accept that you may experience failure when faced with
+new challenges but never give up.**
 
 **Developing Confidence**
 
@@ -207,11 +207,11 @@ Remember back in school you were taught in math class to \"round up\" on
 decimals? For example, 89.5 percent would round up to 90.0 percent\--the
 nearest whole number.
 
-**[[You can apply the same principle with your confidence level. Round
+**You can apply the same principle with your confidence level. Round
 up in your self-assessment to think you can do it in a competitive
 situation. If you have a realistic chance, instead of focusing on how
 you have an 85 percent confidence level, round
-up.]{.underline}]{.mark}** Think, I can. Give yourself a 90 percent
+up.** Think, I can. Give yourself a 90 percent
 rating or higher. When do this you are using what's called realistic
 positive conviction.
 

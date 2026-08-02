@@ -85,9 +85,9 @@ This tends to be particularly true if a player has played an especially
 good point or an especially bad point. He will typically step up and try
 to play the next point in as little as five seconds.
 
-**[[If this sounds like you, the first step in learning to develop
+**If this sounds like you, the first step in learning to develop
 emotional control is simply learning to control the pacing of the time
-between points.]{.underline}]{.mark}**
+between points.**
 
 Wear a watch during your practice matches and determine how long you are
 currently taking. Five seconds? Ten seconds? Does it vary with the

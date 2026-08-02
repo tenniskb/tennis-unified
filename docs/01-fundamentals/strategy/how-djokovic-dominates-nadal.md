@@ -93,9 +93,9 @@ specifically standing closer to the baseline on the ad side of the
 court. The second is how he uses his backhand from this
 position.]{.mark}]{.underline}**
 
-**[[Nadal has always relied on his heavy forehand to dominate the ad
+**Nadal has always relied on his heavy forehand to dominate the ad
 court side by using height, depth and spin to force his opponent into a
-neutral or defensive position.]{.underline}]{.mark}** Nadal's 17-8
+neutral or defensive position.** Nadal's 17-8
 record against Roger Federer is almost wholly built around this tactic,
 making his ball jump up around his opponent's shoulders and out of the
 strike zone.
@@ -112,9 +112,9 @@ able to consistently counter with his one-handed backhand.
 
 **Djokovic: standing in and refusing to let the ball get up.**
 
-**[[Since Djokovic is taking the ball earlier, it has the effect of
+**Since Djokovic is taking the ball earlier, it has the effect of
 lowering the general height of the rally, making it harder for Nadal to
-continue to get the ball up.]{.underline}]{.mark}** **[[Because the arc
+continue to get the ball up.** **[[Because the arc
 of the exchanges is also flatter, Djokovic also has taken precious time
 away from Nadal to prepare for the next shot.]{.mark}]{.underline}**
 
@@ -127,16 +127,16 @@ Djokovic can now find Nadal's backhand at will. This is a huge
 difference. Making Nadal hit backhands instead of run-around forehands
 in takes away the engine that drives Nadal's game.
 
-**[[It seems surprising, but the statistics show that from the inside
+**It seems surprising, but the statistics show that from the inside
 out run around position, Nadal's forehand produces many more winners
 and far less errors compared to balls hit from the traditional forehand
-side of the court.]{.underline}]{.mark}**
+side of the court.**
 
-**[[These changes mean Djokovic no longer lives in fear of the Nadal run
+**These changes mean Djokovic no longer lives in fear of the Nadal run
 around forehand because he simply does not let him hit it nearly as
-much.]{.underline}]{.mark}** **[[Djokovic's backhand was always one of
+much.** **Djokovic's backhand was always one of
 the best in the game, but now he is hitting it from the right part of
-the court to beat Nadal.]{.underline}]{.mark}**
+the court to beat Nadal.**
 
 The statistics on Djokovic's backhand bear this out. Nadal has
 continued to use the exact same patterns against Djokovic, but Djokovic
@@ -171,9 +171,9 @@ confidence](media_how-djokovic-dominates-nadal/media/image5.webp)
 
 **Novak: controlling the baseline with his backhand.**
 
-**[[Djokovic's control of the baseline has added an advantage beyond
+**Djokovic's control of the baseline has added an advantage beyond
 neutralizing Nadal's forehand. It also put him in great position to
-force short balls and then attack.]{.underline}]{.mark}** **He had 47
+force short balls and then attack.** **He had 47
 approach points against Nadal and won 66 percent.**
 
 Against Nadal, his primary pattern was to approach to the backhand and
@@ -186,14 +186,14 @@ to Djokovic's superior court position and Nadal's broken strategy. The
 tour average is 8 approaches per set. Djokovic averaged almost 12, while
 Nadal averaged just over four approaches per set.
 
-**[[The real estate battle was clearly won by Djokovic as he prowled the
-baseline and hunted the short ball.]{.underline}]{.mark}** **[[Winning
+**The real estate battle was clearly won by Djokovic as he prowled the
+baseline and hunted the short ball.** **Winning
 the match was an impossible task for Nadal when Djokovic owned both the
-back and the front of the court.]{.underline}]{.mark}**
+back and the front of the court.**
 
-**[[Djokovic also took control of Nadal's service games, breaking him
+**Djokovic also took control of Nadal's service games, breaking him
 11 times with a massive 26 break point
-opportunities.]{.underline}]{.mark}** Converting break point on Nadal's
+opportunities.** Converting break point on Nadal's
 serve used to be the toughest point to win on tour (Soderling went 0/8
 on break points against Nadal in the 2010 French Open final) but
 Djokovic now makes it look easy.
@@ -221,9 +221,9 @@ strikes it from, takes away Nadal's dominance in rallies, helps
 Djokovic get to the net a lot more, and takes points from Nadal's
 favorite serve patterns.
 
-**[[Tennis is a forehand dominated game, with around 75% of total
+**Tennis is a forehand dominated game, with around 75% of total
 groundstrokes winners coming from the forehand
-wing.]{.underline}]{.mark}** Nadal's forehand is widely considered one
+wing.** Nadal's forehand is widely considered one
 of the best shots in the history of the game, and up until now, could
 slay all before it.
 

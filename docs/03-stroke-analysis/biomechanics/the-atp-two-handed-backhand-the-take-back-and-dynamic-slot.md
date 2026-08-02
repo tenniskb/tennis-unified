@@ -44,10 +44,10 @@ racket mass away from the trunk.**
 
 **[The key point is to see how the hand path in the backswing is
 relatively low and moves somewhat away from his body to what we call the
-outside.]{.mark}** **[[This take back path is a one-piece backswing. It
+outside.]{.mark}** **This take back path is a one-piece backswing. It
 ends with the arms and racquet extended very far back (towards the back
 fence). Yet the arms and racquet are still on the hitting side (left) of
-the body.]{.underline}]{.mark}** By one-piece I mean the hand path is
+the body.** By one-piece I mean the hand path is
 continuous from the start of the backswing to the stretched back
 position. So what is the advantage of this position?
 
@@ -90,12 +90,12 @@ Now watch what happens to the arm as the upper torso starts to turn.
 Because the arms and racquet are extended so far behind the torso, when
 the torso turns the arms will tend to lag behind.
 
-**[[This lag will create additional stretching (in addition to that
+**This lag will create additional stretching (in addition to that
 achieved by the aggressive positioning during at the end of the
 backswing) of the right shoulder muscles. If these muscles were at the
 same time contracting to accelerate the right arm forward then this
 would constitute muscular optimization via
-pre-tension.]{.underline}]{.mark}** Pre-tension, again, as described in
+pre-tension.** Pre-tension, again, as described in
 the previous article as one of the attributes of the stretch-shorten
 cycle.
 
@@ -193,9 +193,9 @@ confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/med
 
 **Does this chain of events look familiar?**
 
-**[[To review the concept on the forehand, the force on the grip as the
+**To review the concept on the forehand, the force on the grip as the
 hitting arm was pulled towards contact caused the racquet to flip into
-the dynamic slot.]{.underline}]{.mark}** This in turn caused the upper
+the dynamic slot.** This in turn caused the upper
 arm to rotate externally (shoulder external rotation). This external
 rotation occurred as the shoulder internal rotators were contracting.
 This is turn elicited components of the stretch-shorten cycle when the

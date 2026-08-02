@@ -14,8 +14,8 @@ think we get too pigeonholed as coaches and say, "Here's what I'm
 doing." Even if a coach has had success, it might be in spite of what he
 believes or does on the court.
 
-**[[So the big question when it comes to the backhand for young kids is
-should you always teach two hands?]{.underline}]{.mark}**  When, if
+**So the big question when it comes to the backhand for young kids is
+should you always teach two hands?**  When, if
 ever, do you teach a 5 or 6 year old a one-handed backhand? The answer
 is going to be in the eye of the beholder, but the decision can have a
 huge impact on the career of a young player.
@@ -36,8 +36,8 @@ top.**
 
 **One Handed Backhand**
 
-**[[No doubt one of the most difficult possible shots for any little kid
-to hit is a one-handed backhand.]{.underline}]{.mark}** This is due to
+**No doubt one of the most difficult possible shots for any little kid
+to hit is a one-handed backhand.** This is due to
 the obvious issues of size and strength. But many great players, Justine
 Henin for example, have started with one-handed backhands at an early
 age and never looked back. **[[So how do you make the decision to teach
@@ -54,8 +54,8 @@ stroke. And if you go forward with the one-hander, you are not going to
 see initial competitive results equal to what most young kids can
 achieve using two hands.
 
-**[[But what if that one-hander looks
-natural?]{.underline}]{.mark}** What if, without any instruction or any
+**But what if that one-hander looks
+natural?** What if, without any instruction or any
 real practice, it just looks like the kid's body is saying "I want to
 hit a one-handed backhand? Then I teach that player a one-handed
 backhand. 
@@ -63,9 +63,9 @@ backhand. 
 ![A person playing tennis Description automatically generated with low
 confidence](media_starting-kids-right-the-backhand/media/image3.webp)
 
-**[[The shoulder turn, the loop, the drop into the hit, and the use of
+**The shoulder turn, the loop, the drop into the hit, and the use of
 the legs and left arm---all critical on the
-one-hander.]{.underline}]{.mark}**
+one-hander.**
 
 If we force all kids to hit two-handers in the hope of getting immediate
 success, we will end up diminishing some players' natural instincts for
@@ -77,14 +77,14 @@ Teaching a young kid a one-hander can be amazing. I put them into an
 Eastern backhand grip. I stress the importance of the shoulder turn and
 how that initiates the motion. 
 
-**[[I get them right into a loop backswing. Then I show them how the
+**I get them right into a loop backswing. Then I show them how the
 drop of the racket from the top of the loop leads into the
-hit.]{.underline}]{.mark}**
+hit.**
 
-**[[I don't want them out there trying to hit mainly with their
+**I don't want them out there trying to hit mainly with their
 arms. So I emphasize using the legs. I emphasize trying to stay sideways
 with the torso. I emphasize the left arm moving backwards the other way
-with the forward swing.]{.underline}]{.mark}**
+with the forward swing.**
 
 **[[I want them to feel that when you swing slower, you actually do
 better. I want them to understand that power comes from timing and
@@ -101,7 +101,7 @@ confidence](media_starting-kids-right-the-backhand/media/image4.webp)
 
 **If the kid's body is screaming one-handed backhand, go with it.**
 
-**[[The key to all this is patience.]{.underline}]{.mark}**  You've got
+**The key to all this is patience.**  You've got
 to make sure the kids get the ball at a speed and at a height where
 it's possible to make a correct swing. The degree of difficulty is key.
 
@@ -114,8 +114,8 @@ You can't necessarily start feeding balls out of the basket from the
 other side of the net. If you're feeding from the net, telling the kid
 to judge it, the kid might be over there improvising for 3 years. 
 
-**[[For almost all girls I prefer the two-handed
-backhand.]{.underline}]{.mark}** But if I saw that real flair for a
+**For almost all girls I prefer the two-handed
+backhand.** But if I saw that real flair for a
 one-hander, like Gabriela Sabatini or Justine Henin then I wouldn't
 hesitate to develop the one-hander.
 
@@ -124,9 +124,9 @@ never coming over her backhand. But in reality she had the perfect game
 for women's tennis. I still don't understand why it's not
 duplicated. 
 
-**[[She chiseled the ball 2 inches off the ground with her backhand
+**She chiseled the ball 2 inches off the ground with her backhand
 slice. This was tough for the two-handers to deal with, most of whom
-didn't slice that well themselves.]{.underline}]{.mark}** As soon as
+didn't slice that well themselves.** As soon as
 they popped the ball up or hit too short or too much to the middle,
 Steffi was there waiting with that huge forehand.
 
@@ -136,7 +136,7 @@ confidence](media_starting-kids-right-the-backhand/media/image4.webp)
 **All things considered, the two-hander is still the way to go for most
 kids.**
 
-**[[Two-Handed Backhand]{.underline}]{.mark}**
+**Two-Handed Backhand**
 
 Statistically, for the majority of kids, the one-hander is the
 exception. Almost all boys and girls I see want to hit with two
@@ -148,9 +148,9 @@ fast. Just because it's easier that doesn't necessarily mean it's
 always better, but usually, it is. Once again, this in the eye of the
 beholder.
 
-From the technical point of view, **[[the best thing about teaching the
+From the technical point of view, **the best thing about teaching the
 two-handed backhand is how easily the kids learn to start the motion by
-turning the shoulders.]{.underline}]{.mark}** 
+turning the shoulders.** 
 
 **[Having both hands on the racket, naturally facilitates a better
 shoulder turn, without the kids having to think about it. They just get
@@ -175,8 +175,8 @@ generated](media_starting-kids-right-the-backhand/media/image5.webp)
 
 **Relatively few top women have had great forehands.**
 
-**[[The other big advantage of the two-hander for kids when they are
-learning is in dealing with the high ball.]{.underline}]{.mark}** **When
+**The other big advantage of the two-hander for kids when they are
+learning is in dealing with the high ball.** **When
 the ball is above their shoulders they can play defense more easily. If
 it's not too high they can attack it. It's usually more advantageous on
 the return of serve when players want to be aggressive. It just
@@ -221,9 +221,9 @@ arm is so important. It also makes it natural to start the turn for the
 slice. Then when the player is going to hit the two-handed drive, the
 hand slides down into the two-handed grip.
 
-**[[When it comes to the shape of the swing on the two-hander, I feel
+**When it comes to the shape of the swing on the two-hander, I feel
 players should start with the simplest, most compact
-motion.]{.underline}]{.mark}** Basically this means that as the
+motion.** Basically this means that as the
 shoulders turn, the hands go straight back. Then as the racket comes
 forward, they go straight through. Just as with the forehand, I want the
 players to learn to extend on the followthrough.
@@ -265,12 +265,12 @@ certainly not for me. If I didn't truly believe that then I'd probably
 have to agree with the people who have said I'm crazy to spend 10 hours
 a day on the tennis court in the summer in Florida.
 
-**[[With the kids, all the theories, all the technical information,
+**With the kids, all the theories, all the technical information,
 that's all irrelevant unless the process is fun. You have to make it
-very, very fun.]{.underline}]{.mark}** **[[To do this, you have to feel
+very, very fun.** **To do this, you have to feel
 the moment when you can focus on the technical issues, and when you have
 to use motivational skills and even entertainment skills to keep them
-engaged.]{.underline}]{.mark}**
+engaged.**
 
 **[At our best as coaches we're not just tennis teachers. Especially at
 this early stage of the game, [we're life changers]{.underline}, or I

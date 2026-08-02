@@ -15,20 +15,20 @@ them. I've tried to understand how the game has changed, and my
 teaching has changed to reflect that.
 
 I have always believed in teaching players to hit through the ball. And
-I still do. **[[The follow-through is what determines how the ball comes
+I still do. **The follow-through is what determines how the ball comes
 off the racket and therefore the pace and the spin. That's why I've
 always paid attention to how the player finishes the
-stroke.]{.underline}]{.mark}**
+stroke.**
 
 To be a complete player in today's pro game, I think you need to
 develop three finishes.
 
-**[[The first is the classic out-front finish that I have always
-taught.]{.underline}]{.mark}**
+**The first is the classic out-front finish that I have always
+taught.**
 
-**[[The second one is the \"reverse\" finish where the player reverses
+**The second one is the \"reverse\" finish where the player reverses
 the path of the racket and finishes on the opposite side of the body and
-over the head.]{.underline}]{.mark}** Pete Sampras made this finish
+over the head.** Pete Sampras made this finish
 famous with his running forehand, though it is now common in the pro
 game. I've written about both of these finishes in my previous
 articles. ([Click
@@ -62,8 +62,8 @@ taught it on the forward and backhand. When the two-handed backhand
 began to dominate, I taught the follow-through the same way, as a
 left-handed forehand.
 
-**[[The racket just went straight out. There was no turn of the racket
-head. It worked tremendously well.]{.underline}]{.mark}**
+**The racket just went straight out. There was no turn of the racket
+head. It worked tremendously well.**
 
 ![A picture containing athletic game, sport, player, tennis Description
 automatically
@@ -99,22 +99,22 @@ confidence](media_the-three-forehand-finishes/media/image4.webp)
 **Pete and Lindsay in match play with the arm extended and a little
 flexed.**
 
-**[[The game has changed since I developed that out front finish, and
-the big difference is in the grips.]{.underline}]{.mark}** In the years
+**The game has changed since I developed that out front finish, and
+the big difference is in the grips.** In the years
 when I was teaching Tracy and Pete and Lindsay\--and a lot of other
 players who made the top 30 and higher\--the grips were far more
 conservative. The continental was on its way out, but it was still
-around. Believe it or not, **[[the eastern grip was probably the most
+around. Believe it or not, **the eastern grip was probably the most
 extreme grip, or maybe a grip that slid a little further underneath, but
-not much]{.underline}]{.mark}**. **[[With those grips the exercise of
-holding the racket out front was perfect.]{.underline}]{.mark}**
+not much**. **With those grips the exercise of
+holding the racket out front was perfect.**
 
 I still teach that same finish to anybody and everybody. I do it
 especially with kids. I have them hit and leave it up front. But,
-**[[because of the grips, I'm a little bit more lenient about exactly
+**because of the grips, I'm a little bit more lenient about exactly
 where the racket finishes. The racket might turn a little bit because of
 the grip, and the face of the racket might turn over a little and point
-a little bit to the ground.]{.underline}]{.mark}**
+a little bit to the ground.**
 
 I'm not fanatic about the racket being straight up and down because
 when players do that it doesn't really look right with the modern
@@ -132,13 +132,13 @@ generated](media_the-three-forehand-finishes/media/image5.webp)
 In the last few years, I've also expanded my thinking about **[the
 follow-through beyond just the straight out finish on the
 drive.]{.underline}** It may sound bizarre for me to say, but I now
-believe that **[[the players can also hit through the ball with a lower
+believe that **the players can also hit through the ball with a lower
 finish down and across the body. In fact, I think at higher levels it
-actually works better.]{.underline}]{.mark}**
+actually works better.**
 
 I'm not a scientist, but I've found from working with some of the best
-players in the world that **[[they can not only hit through the ball but
-they can hit with more spin]{.underline}]{.mark}**. If you look at Roger
+players in the world that **they can not only hit through the ball but
+they can hit with more spin**. If you look at Roger
 Federer, this is what is happening. It's one of the reasons he has the
 best forehand in the game.
 
@@ -158,21 +158,21 @@ always loved to watch the South Americans and the European clay courters
 play when I would go the US Open. I love watching guys who just fight.
 And these guys had that mentality. They would just fight, fight, fight.
 
-But **[[when they would get shorter balls, you would see them rip the
+But **when they would get shorter balls, you would see them rip the
 shot with this different finish. They would follow through down, across
-the body, sometimes way down towards the hip.]{.underline}]{.mark}** And
+the body, sometimes way down towards the hip.** And
 they'd just rip winners. And I thought to myself, \"What the hell are
 these guys doing?\" To me that was fascinating.
 
 I certainly didn't change my teaching at that time. But as time went
 on, and I saw more and more players doing it, I started to study this
 finish and I experimented with it myself. What I realized was that
-**[[if you follow through lower across the body, around the waist or
+**if you follow through lower across the body, around the waist or
 sometimes even lower, the ball doesn't float as
-much.]{.underline}]{.mark}** **[[The ball is being hit so hard today,
+much.** **The ball is being hit so hard today,
 that it sometimes floats with the higher finish. With this lower finish
 the players were generating tremendous pace but also as more
-spin.]{.underline}]{.mark}**
+spin.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -192,9 +192,9 @@ Still, he hits heavy spin. So, I started teaching players to try the
 downward finish. What I found was that worked sort of automatically, the
 same way the up-front finish worked in the old days.
 
-**[[By following through lower, my students could drive the ball hard
+**By following through lower, my students could drive the ball hard
 and have maximum topspin, but without really thinking about
-it.]{.underline}]{.mark}** You don't really have to tell players,
+it.** You don't really have to tell players,
 \"Come up. Brush up on the ball.\" Instead, **[[I tell them to finish a
 little lower, but drive through the ball.]{.mark}]{.underline}** You're
 not really trying to hit major spin. It's a natural process where the
@@ -210,24 +210,24 @@ I haven't abandoned the up-front finish. I still have players
 follow-through out-front and hold the finish. But at some point. I
 usually teach the lower finish to everybody as well. Strangely enough, I
 have them hit maybe 20 balls and leave it up front. Then I tell them,
-**[[\"Okay, drive the ball and follow through
-down.\"]{.underline}]{.mark}** And then sometimes I say, \"Okay, drive
+**\"Okay, drive the ball and follow through
+down.\"** And then sometimes I say, \"Okay, drive
 the ball and follow through up.\" And I'm looking at how the ball comes
 off the racket the best.
 
 The ball is being hit harder today than ever and this finish is one
 reason. As they start driving the ball harder and harder, players find
-**[[it's much easier to control the ball by coming down with the
+**it's much easier to control the ball by coming down with the
 follow-through. It makes the ball drop down more than with the higher
-finish.]{.underline}]{.mark}**
+finish.**
 
-**[[I call it the downward finish, but it's important to understand how
-the racket gets to that position.]{.underline}]{.mark}** If you watch
+**I call it the downward finish, but it's important to understand how
+the racket gets to that position.** If you watch
 Federer's forehand, he doesn't just bring it immediately around his
 body. When they watch it on TV, it may look like he immediately wraps
 around. But if you look closely or study it in slow motion, you'll see
-that **[[the racket comes well out towards the net
-first.]{.underline}]{.mark}**
+that **the racket comes well out towards the net
+first.**
 
 ![A person playing tennis Description automatically
 generated](media_the-three-forehand-finishes/media/image9.webp)
@@ -235,8 +235,8 @@ generated](media_the-three-forehand-finishes/media/image9.webp)
 **Sampras made the reverse forehand famous but every player in the game
 uses it at times.**
 
-In fact, **[[with the downward finish, sometimes the racket goes further
-out toward the net than with the high finish.]{.underline}]{.mark}** The
+In fact, **with the downward finish, sometimes the racket goes further
+out toward the net than with the high finish.** The
 extension along the line of the shot may be better. I think the racket
 can come through the ball a little big longer.
 
@@ -251,16 +251,16 @@ shot.]{.mark}]{.underline}**
 
 **Reverse Forehand**
 
-**[[The other forehand finish is the reverse
-finish.]{.underline}]{.mark}** I call this finish the reverse, because
+**The other forehand finish is the reverse
+finish.** I call this finish the reverse, because
 during the follow-through the racket head moves slightly forward through
 the ball, but then moves upwards and then backwards in the opposite
 direction from the hit. Pete Sampras's running forehand was the shot
 that first brought a lot of attention to this shot, but every player in
-the game uses it to a greater or lesser extent. **[[Hitting the reverse
+the game uses it to a greater or lesser extent. **Hitting the reverse
 forehand adds options. With the reverse, a pro player can save himself a
 minimum of 10 points in an average match. That's a huge
-difference.]{.underline}]{.mark}**
+difference.**
 
 ![A person playing tennis Description automatically
 generated](media_the-three-forehand-finishes/media/image10.webp)
@@ -315,8 +315,8 @@ confidence](media_the-three-forehand-finishes/media/image12.webp)
 
 What happens with Maria is she often hits the ball a little late. So,
 for Maria to hit a regular forehand, there was always a lot of work to
-get her to time the ball perfectly. **[[So, the reverse forehand was a
-way to compensate for being late.]{.underline}]{.mark} She does that too
+get her to time the ball perfectly. **So, the reverse forehand was a
+way to compensate for being late. She does that too
 much now.**
 
 The commentators have been really quick to criticize me when they watch
@@ -351,8 +351,8 @@ curved back into the court on his running forehand.\" By the end of his
 career, he was reversing more and more on different balls, even approach
 shots. At that point reverses about 30% of his forehands.
 
-**[[When you hit the reverse forehand, it has quite a bit of topspin on
-it.]{.underline}]{.mark}** When Pete would hit his regular forehand, it
+**When you hit the reverse forehand, it has quite a bit of topspin on
+it.** When Pete would hit his regular forehand, it
 was a little flatter. So, the reverse forehand for Pete maybe
 accomplished some of the things that other players now accomplish with
 the downward finish.
@@ -372,10 +372,10 @@ confidence](media_the-three-forehand-finishes/media/image14.webp)
 
 I remember saying about 7 or 8 years ago that one of these days there
 might be a player who would hit nothing but reverse forehands. That's
-getting closer to reality with Rafael Nadal. Like Pete, **[[Nadal
+getting closer to reality with Rafael Nadal. Like Pete, **Nadal
 reverses everything on the run. But he can hit a reverse forehand from
 anywhere on the court and be effective doing it. Nadal looks much better
-on the reverse than Maria because he is so quick.]{.underline}]{.mark}**
+on the reverse than Maria because he is so quick.**
 
 At Wimbledon this year an even higher percentage than usual of Nadal's
 shots were reverses. The reverse forehand for him has quite a bit of
@@ -387,8 +387,8 @@ The thing that I like about Nadal\--he's very, very smart. To win
 Wimbledon, he has to get more pace on his ball. So, with his grip, the
 reverse forehand may the way he is going to do it. That's why I think
 that he is capable of winning there, because he's not only talented,
-**[[he's smart enough to adjust, and to realize when he needs
-to.]{.underline}]{.mark}**
+**he's smart enough to adjust, and to realize when he needs
+to.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-three-forehand-finishes/media/image15.webp)

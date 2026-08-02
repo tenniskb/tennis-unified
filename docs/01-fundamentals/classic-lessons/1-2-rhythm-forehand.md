@@ -15,8 +15,8 @@ confidence](media_1-2-rhythm-forehand/media/image1.webp)
 This new series introduces a simple concept I call 1-2 Rhythm. What is
 1-2 Rhythm?
 
-**[[1-2 Rhythm breaks the timing of tennis strokes into two parts, or
-phases.]{.underline}]{.mark}**
+**1-2 Rhythm breaks the timing of tennis strokes into two parts, or
+phases.**
 
 Phase 1 is the setup phase, which is smooth and deliberate. Phase 2 is
 the execution phase which is explosive and full of energy.
@@ -50,7 +50,7 @@ high-level players have variations in their stroke patterns. But I have
 found that identifying and focusing on your own transition checkpoints
 often leads to better overall technique.
 
-**[[Phase 1: Smooth and Deliberate]{.underline}]{.mark}**
+**Phase 1: Smooth and Deliberate**
 
 So, let's identify the two phases in the forehand and the transition
 point, when Phase 1 ends and Phase 2 begins.
@@ -64,14 +64,14 @@ above the racket handle.**
 
 Phase 1, the setup phase, begins with the start of the unit turn and the
 release of the opposite hand from the racket. It continues through the
-completion of the body turn, **[[with the opposite arm stretched across
-the baseline]{.underline}]{.mark}**. This smooth preparation helps to
+completion of the body turn, **with the opposite arm stretched across
+the baseline**. This smooth preparation helps to
 **[[avoid the common mistake of rushing the racket back too
 early.]{.mark}]{.underline}**
 
 In Phase 1, there is also substantial movement of the racket backwards
-in the backswing. Commonly **[[the racket head will be positioned above
-the height of the racket handle.]{.underline}]{.mark}** The exact
+in the backswing. Commonly **the racket head will be positioned above
+the height of the racket handle.** The exact
 position of the hitting arm and racket can vary, but typically the
 racket and hitting arm won't quite reach the end of the backswing, or
 the point where the racket has moved furthest backwards in the swing.
@@ -85,7 +85,7 @@ to the baseline.]{.mark} [When players are on the run, it's likely the
 opposite arm will have rotated forwards further up to 30-45 degrees in
 relation to the baseline.]{.mark}]{.underline}**
 
-**[[Phase 2: Explosive]{.underline}]{.mark}**
+**Phase 2: Explosive**
 
 ![A person playing tennis Description automatically
 generated](media_1-2-rhythm-forehand/media/image4.webp)
@@ -102,20 +102,20 @@ backswing at this stage. But the crucial point is that at the start of
 Phase 2, the rate of acceleration of the arm and racket begins to
 increase.
 
-**[[This energized and explosive phase is fuelled by hip
-rotation]{.underline}]{.mark}**, **[[torso rotation and rapid
+**This energized and explosive phase is fuelled by hip
+rotation**, **[[torso rotation and rapid
 acceleration of the hitting arm towards contact
 point.]{.mark}]{.underline}** This explosiveness is what generates and
 transfers energy into the ball, creating power and spin.
 
 **The explosiveness will reach its peak at contact point, but the player
-[[should imagine that explosiveness continuing to build through contact
-and beyond]{.underline}]{.mark}**. **[[This will]{.underline}]{.mark}
-[[promote excellent extension, and increase the effectiveness of the
-shot]{.underline}]{.mark}. The finish will then naturally allow the arm,
+should imagine that explosiveness continuing to build through contact
+and beyond**. **This will
+promote excellent extension, and increase the effectiveness of the
+shot. The finish will then naturally allow the arm,
 and racket to decelerate and recover.**
 
-**[[Mastering 1-2 Rhythm is a matter of feeling.]{.underline}]{.mark}**
+**Mastering 1-2 Rhythm is a matter of feeling.**
 The feeling that the stroke is at first smooth and deliberate, then
 explosive. The feeling that the key positions should not be forced. The
 feeling that the stroke should be flowing.
@@ -165,9 +165,9 @@ is happening when part 1 ends and part 2 begins.
 
 **[Opposite Hand]{.mark}**
 
-**[[A critical factor in the effectiveness of forehand 1-2 Rhythm, and
-the overall timing on the shot]{.underline}]{.mark}** **[[is the release
-of the opposite hand from the racket]{.underline}]{.mark}**. If this is
+**A critical factor in the effectiveness of forehand 1-2 Rhythm, and
+the overall timing on the shot** **is the release
+of the opposite hand from the racket**. If this is
 done too early, then it can disrupt the 1-2 Rhythm and affect the timing
 of the whole shot.
 
@@ -182,7 +182,7 @@ releases too early, the arm and racket may slow or even stop at the time
 that the explosive phase is beginning and this in turn means that
 natural momentum is lost.]{.mark}]{.underline}**
 
-**[[Defensive Shots]{.underline}]{.mark}**
+**Defensive Shots**
 
 Using 1-2 Rhythm on defensive shots is more difficult. There is still a
 clear 1-2 Rhythm but the timing and emphasis of the key words must be

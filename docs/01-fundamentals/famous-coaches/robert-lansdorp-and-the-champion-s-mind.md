@@ -37,12 +37,12 @@ confidence](media_robert-lansdorp-and-the-champion-s-mind/media/image2.webp)** 
 **Robert laid the foundation of my ground game.**
 
 By the time I reached my teens, I assumed that I was going to win
-Wimbledon and the U.S. Open, which was a real reach. **[[A lot of kids
+Wimbledon and the U.S. Open, which was a real reach. **A lot of kids
 are told they're great, believe it, work toward it---and eventually fall
 by the wayside. They may not have the right temperament or long-term
 physical assets; they might not be able to handle the expectations, they
 may have insurmountable ﬂaws in their technique, their dedication, or
-approach to their career.]{.underline}]{.mark}** The idea that none of
+approach to their career.** The idea that none of
 the things that could go wrong *would* go wrong is borderline
 preposterous---except when it isn't.
 

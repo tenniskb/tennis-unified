@@ -77,12 +77,12 @@ was wild. I actually felt if I could hit enough balls back, I could beat
 him. I just couldn't do it. I felt he was not patient and he would go
 for winners very early in the point.
 
-**[[And I think that's what Brad taught him. You don't have to win
+**And I think that's what Brad taught him. You don't have to win
 every point. You cannot win every single point. You have to give your
 opponent a chance to lose. So Andre became more consistent. He learned
 to play points. He learned to move people around. He stopped trying to
 end the point so quickly. And this is the same thing Brad seems to be
-doing for Andy Murray.]{.underline}]{.mark}**
+doing for Andy Murray.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -151,11 +151,11 @@ generated](media_shot-tolerance/media/image6.webp)
 
 The reality is that to win any match, no matter how many winners you
 hit, you have to give the other person a chance to miss. You have to
-keep the ball in play. Notice **[[I didn't say
-push.]{.underline}]{.mark}** Because that's not what I am talking
-about. **[[What I mean is you have to have the confidence to hit the
+keep the ball in play. Notice **I didn't say
+push.** Because that's not what I am talking
+about. **What I mean is you have to have the confidence to hit the
 ball hard and still keep it in play. How many balls can you hit hard and
-deep and crosscourt? That's your shot tolerance.]{.underline}]{.mark}**
+deep and crosscourt? That's your shot tolerance.**
 
 With young players, I want them to hit the ball. I think it's important
 at a young age to get some power and learn how to hit the ball, and to
@@ -169,11 +169,11 @@ generated](media_shot-tolerance/media/image7.webp)
 
 **How many balls to reach your opponent's tolerance?**
 
-**[[I don't care what else you can do, if you can't hit the ball hard,
+**I don't care what else you can do, if you can't hit the ball hard,
 deep, and cross court, you're in trouble. With all the new shots in the
 game, and the big serves, you've got to be able to hit this basic shot
 and do that consistently. I call it the meat and
-potatoes.]{.underline}]{.mark}**
+potatoes.**
 
 You have to wait for the right ball to end the point and if it takes 20
 or 30 shots to get there, then it takes 20 or 30 shots to get there. But
@@ -193,21 +193,21 @@ generated](media_shot-tolerance/media/image8.webp)
 
 **Take the Right Shot**
 
-**[[One of the things I always try to teach people is this: don't be
+**One of the things I always try to teach people is this: don't be
 scared of missing. A lot of people say \"that seems like a
 contradiction.\" But it's not. If you get the right shot, you get a
 short forehand, and you've got an open court, you should go for a
 winner. Because if you get that shot ten times, you might miss it once
 or twice but you're going to make it eight or nine
-times.]{.underline}]{.mark}**
+times.**
 
-**[[But if you're four or five feet behind the baseline, and the
+**But if you're four or five feet behind the baseline, and the
 court's not open, and you try that same shot, you might make it once.
 The odds are that throughout the match, you're going to miss a lot more
 of those than you're going to make. And you're going to lose. It's
 like playing blackjack. No matter how well it's going, if you play long
 enough, eventually the odds will catch up with
-you.]{.underline}]{.mark}**
+you.**
 
 ![A person playing tennis Description automatically
 generated](media_shot-tolerance/media/image9.webp)
@@ -228,10 +228,10 @@ matches. \"I'm now at four all in the tiebreaker in the third. I've
 already been through this at nine.\" I want them to have the mentality
 that they can play the same way no matter what the score.
 
-**[[I want them to hit. I don't want them to be scared of missing. I
+**I want them to hit. I don't want them to be scared of missing. I
 want them to hit the same at three as they do at nine, but I also don't
 want them missing. You've got to be able to hit the ball hard
-regardless of the score.]{.underline}]{.mark}**
+regardless of the score.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -338,10 +338,10 @@ could possibly rush him\--rush his second serve, and rush his backhand,
 but everybody plays the same way now, so at this moment we don't really
 have an answer for that question.
 
-**[[What we do know is that Federer is awfully tough from the baseline
+**What we do know is that Federer is awfully tough from the baseline
 because he combines the best of both worlds, incredible shot making and,
 when he needs it, a very high shot tolerance. That's a tough
-combination to beat.]{.underline}]{.mark}**
+combination to beat.**
 
 | ![A person wearing sunglasses Description automatically generated with medium |  |
 | --- | --- |

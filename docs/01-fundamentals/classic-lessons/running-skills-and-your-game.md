@@ -63,10 +63,10 @@ times I played tennis completely exhausted because of an extremely hard
 workout earlier in the day. This laid the base for addressing the issue
 of on court speed and better on court movement.
 
-**[[There are two basic elements in assessing a players overall court
-movement]{.underline}]{.mark}**. **[[The first is footwork, the actual
+**There are two basic elements in assessing a players overall court
+movement**. **The first is footwork, the actual
 patterns of steps and movement, and how you position to the
-ball]{.underline}]{.mark}**. **[[The second is raw foot speed.]{.mark}
+ball**. **[[The second is raw foot speed.]{.mark}
 [In short, how you move, and how fast you do it.]{.mark}]{.underline}**
 All tennis players fall into four categories: players who are both fast
 and move well (the most dangerous players); players who move and
@@ -104,17 +104,17 @@ Unfortunately, I had to work on my athletic posture when it came to
 sprinting.
 
 The first thing that Malcolm talked about in terms of running was a term
-called **[[\"efficiency of movement\". When the whole body is working
+called **\"efficiency of movement\". When the whole body is working
 together in the right sequence, more energy is produced with less
-effort.]{.underline}]{.mark}** It's the same principle in running as
+effort.** It's the same principle in running as
 for the tennis strokes themselves.
 
 When I first started to train to improve my running technique, I felt
 the same way a beginning tennis player does\--tense and panicked most of
 the time. The key, as Malcolm kept yelling at me on the track and on the
-treadmill, was to learn to relax within the movement. **[[By relaxing
+treadmill, was to learn to relax within the movement. **By relaxing
 more, my efficiency of movement would improve, and in the long term my
-speed would improve also.]{.underline}]{.mark}**
+speed would improve also.**
 
 **Three Basic Concepts**
 
@@ -126,12 +126,12 @@ confidence](media_running-skills-and-your-game/media/image4.webp)
 categories.**
 
 The three basic concepts of better running technique I learned form
-Malcolm were: ***[[use of the arms, the exchange of the feet, and
+Malcolm were: ***use of the arms, the exchange of the feet, and
 staying on the balls of your feet throughout the
-run.]{.underline}]{.mark}***
+run.***
 
-**[[The swinging motion of the arms pulls your feet
-through]{.underline}]{.mark}**. **[[The faster the arms swing the faster
+**The swinging motion of the arms pulls your feet
+through**. **[[The faster the arms swing the faster
 the legs are pulled through.]{.mark} [The arms should swing back and
 forth in a straight line. The term Malcolm uses is \"cheek to
 cheek.\"]{.mark}]{.underline}** **[[The hands should travel from your
@@ -146,10 +146,10 @@ back. Malcolm had me using small hand weights that I could drop part way
 through a sprint to help me focus on the speed and technique of my arm
 action.
 
-**[[The exchange of the feet is basically defined as how fast you can
-put your foot down and pick it up again.]{.underline}]{.mark}** **[[The
+**The exchange of the feet is basically defined as how fast you can
+put your foot down and pick it up again.** **The
 faster the exchange, the less time on the ground, the faster you
-run.]{.underline}]{.mark}**
+run.**
 
 My training for this included running stairs at the local football
 stadium, stressing short quick steps trying not to be on the steps for
@@ -191,12 +191,12 @@ The treadmill I used was in front of a mirror, which allowed me to see
 how I was doing and to focus on specific areas of my body.
 
 In addition to the focus on technique, my basic cardiovascular workout
-would include what is called ***[[interval
-training]{.underline}]{.mark}***. **[[Interval training entails
+would include what is called ***interval
+training***. **Interval training entails
 sprinting for a time or a distance followed by a slow jog or a walk for
 another or the same set of time or distance. The length of the intervals
 varied quite a bit. This prevents your body from becoming too accustomed
-to one set interval.]{.underline}]{.mark}**
+to one set interval.**
 
 ![A picture containing person, indoor, person, preparing Description
 automatically

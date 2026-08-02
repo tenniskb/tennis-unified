@@ -54,10 +54,10 @@ that the best players hit the ball from the right place on the court. 
 They hit the ball at the right height, with the right pace. They also
 hit it to the right place more often. 
 
-**[[Teaching a player how to play is a lot tougher than just teaching
+**Teaching a player how to play is a lot tougher than just teaching
 strokes.  I would much rather work with somebody with lesser shots, but
 a good idea how to play than with somebody with good strokes, but no
-clue where to hit the ball.]{.underline}]{.mark}**
+clue where to hit the ball.**
 
 If a player has problems with a certain stroke, with a number of
 repetitions you can address that.  But if he's got no idea how to play,
@@ -65,10 +65,10 @@ it's going to take a lot longer to teach him how to play than to teach
 him how to do certain technical things better.
 
 Let's say you watch a kid play, and he typically hits the ball from a
-position 8 to 10 feet behind the baseline. **[[Then one of his shots
+position 8 to 10 feet behind the baseline. **Then one of his shots
 goes deep with weight. If he just maintains that position rather than
 moving up in the court, that pretty much tells me his mind is
-dead.]{.underline}]{.mark}** 
+dead.** 
 
 To me he's not really playing tennis. He's just hitting the ball
 because the ball comes to his side. 
@@ -119,8 +119,8 @@ When the ball leaves the other player's racket, it happens very, very
 quickly.  Your body has to react.  But are you reacting to gain ground,
 are you reacting to give ground, or are you reacting to stay natural? 
 
-**[[Receiving well means that the player doesn't go against the
-ball.]{.underline}]{.mark}** The response is appropriate to the ball
+**Receiving well means that the player doesn't go against the
+ball.** The response is appropriate to the ball
 that is coming. Does the player back up when he needs to?  Does he move
 forward to take advantage? Can he open the angles when he is pushed? 
 How well does he see the ball coming? 
@@ -148,15 +148,15 @@ generated](media_learning-to-play/media/image5.webp)
 **When Agassi learned to adjust his contact height that made a big
 difference in his results.**
 
-**[[Sometimes when you don't have a chance to take to step back, you can
+**Sometimes when you don't have a chance to take to step back, you can
 absorb the power of the ball in another way, by leaning back away from
-the ball.]{.underline}]{.mark}**  It's another example of the way good
+the ball.**  It's another example of the way good
 players go with the ball rather than fighting the ball.
 
 When you get caught, then yes, it's an emergency. You do whatever you
 can. But if you're not caught, you move your feet and you let the ball
-come up. **[[So part of receiving is learning to move up and back is to
-adjust to find your strike zone.]{.underline}]{.mark}**
+come up. **So part of receiving is learning to move up and back is to
+adjust to find your strike zone.**
 
 **Patterns**
 
@@ -217,9 +217,9 @@ location.]{.mark} ]{.underline}**
 
 Once again, if the decision is right and you lose the point, then it's
 a matter of execution. It's not a matter of your decision
-making. **[[There are two ways to lose points. The first way is through
+making. **There are two ways to lose points. The first way is through
 bad decisions. The second way is through bad execution of good
-decisions.]{.underline}]{.mark}**
+decisions.**
 
 Bad execution of good decisions, to me, I can accept that. But if you
 make enough bad decisions in a match against a good enough player, he

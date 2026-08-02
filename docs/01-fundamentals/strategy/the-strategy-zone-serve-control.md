@@ -19,23 +19,23 @@ Here](The%20Strategy%20Zone%20-%20Rally%20Control.docx).) Now let's
 continue to develop our understanding by looking at how you can use your
 serve to develop control from the first ball of the point.
 
-Remember **[[Control means your ability to stretch your opponent and
-knock them off balance.]{.underline}]{.mark}** It's one thing to hit
+Remember **Control means your ability to stretch your opponent and
+knock them off balance.** It's one thing to hit
 aces, and yes, when your opponent does not touch your serve, you don't
 have to worry about how to win the rest of the point. Few players, even
 at the top of the pro game, are blessed with this type of serving
 ability.
 
-**[[In fact, the two best players in the world, Justine Henin and Roger
+**In fact, the two best players in the world, Justine Henin and Roger
 Federer, hit relatively few aces. Instead, they use the serve to set up
-and take control of the point.]{.underline}]{.mark}** Andre Agassi was a
+and take control of the point.** Andre Agassi was a
 master of using the serve as the first shot in a sequence that allowed
 him to dominate using his incredible ground game.
 
-**[[This is the strategy that players at all levels must master: gaining
+**This is the strategy that players at all levels must master: gaining
 control by using the serve as the first shot in a
-sequence.]{.underline}]{.mark}** **[[Every serve must be hit with a
-purpose.]{.underline}]{.mark}**
+sequence.** **Every serve must be hit with a
+purpose.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -61,10 +61,10 @@ these patterns into matches.
 
 **Wide Serve**
 
-**[[Everyday at the academy we emphasize the wide serve in both the
+**Everyday at the academy we emphasize the wide serve in both the
 deuce and ad courts. The wide serve allows you to stretch out your
-opponent.]{.underline}]{.mark}** **[[Often with the wide serve, you take
-control from the very first ball.]{.underline}]{.mark}**
+opponent.** **Often with the wide serve, you take
+control from the very first ball.**
 
 ![A tennis player hitting a ball Description automatically generated
 with low
@@ -73,19 +73,19 @@ confidence](media_the-strategy-zone-serve-control/media/image3.webp)
 **To serve wide in the Deuce court, cut the ball in half with your
 racket edge.**
 
-How do we measure an effective wide delivery? **[[The ball must move on
+How do we measure an effective wide delivery? **The ball must move on
 a flight path that crosses the doubles sideline before it reaches the
-baseline.]{.underline}]{.mark}**
+baseline.**
 
-**[[This forces the returner to make contact outside the doubles alley.
+**This forces the returner to make contact outside the doubles alley.
 Even if he is able to make the return from this position, the server is
-left in command of the court.]{.underline}]{.mark}**
+left in command of the court.**
 
 **Visualize Placement and Path**
 
-**[[The key to developing great placement is your ability to visualize
+**The key to developing great placement is your ability to visualize
 the path and target area of the serve, and also the path of your racket
-as it moves upward to contact.]{.underline}]{.mark}**
+as it moves upward to contact.**
 
 **[[In the deuce court, you must imagine that you are leading your swing
 with the edge of the racket. Visualize that you are using the edge of
@@ -101,33 +101,33 @@ confidence](media_the-strategy-zone-serve-control/media/image4.webp)
 
 **To kick the ball wide, visualize brushing up.**
 
-**[[In the ad court the image is different. To get the ball wide with a
+**In the ad court the image is different. To get the ball wide with a
 kicking action you should visualize that the racket face is brushing up
 the backside of the ball, similar to a topspin
-groundstroke.]{.underline}]{.mark}** **[[You most also visualize the
+groundstroke.** **You most also visualize the
 path of the shot, again that the ball travels wide enough to cross the
-doubles sideline before the baseline.]{.underline}]{.mark}**
+doubles sideline before the baseline.**
 
 **T Serve**
 
-**[[The other basic serve for taking control of the point is the T
+**The other basic serve for taking control of the point is the T
 serve. Again, you don not need to hit a 140mph ace to use the T serve to
-tremendous advantage.]{.underline}]{.mark}**
+tremendous advantage.**
 
-**[[Why? The T serve travels in a straighter line, which gives the
+**Why? The T serve travels in a straighter line, which gives the
 opponent less time to move to the ball and execute a
-return.]{.underline}]{.mark}** **[[Even if he is able to put the ball
+return.** **Even if he is able to put the ball
 back in play, quite often he will give you a defensive shot. Once again
 you have accomplished your goal of taking control from the first
-ball.]{.underline}]{.mark}**
+ball.**
 
-**[[There are actually two variations of the T serve, one hit flatter,
+**There are actually two variations of the T serve, one hit flatter,
 and one hit with more spin so that the ball runs from the
-opponent.]{.underline}]{.mark}** **Again, in developing these placements
+opponent.** **Again, in developing these placements
 you should learn to visualize the path of the shot and also the target
-area**. **[[It's important on the T serves that the toss be somewhat
+area**. **It's important on the T serves that the toss be somewhat
 into the court and not too far back or too close to the
-player.]{.underline}]{.mark}**
+player.**
 
 ![A person playing tennis Description automatically
 generated](media_the-strategy-zone-serve-control/media/image5.webp)
@@ -204,11 +204,11 @@ toss?**
 
 **Different Placements: Same Toss**
 
-**[[A final point regarding the toss and the disguise of your
+**A final point regarding the toss and the disguise of your
 placements. Eventually every player should strive to hit all the serves
 we have discussed, both wide serves, and both T serves, off of the same
-toss.]{.underline}]{.mark}** **[[Why? The answer is
-disguise.]{.underline}]{.mark}** If a player varies his toss when he
+toss.** **Why? The answer is
+disguise.** If a player varies his toss when he
 goes for different placements, this telegraphs what is going to happen
 to the receiver. This greatly increases the chance that the receiver
 will be able to put the return in play, or possibly even take control of

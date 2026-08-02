@@ -219,11 +219,11 @@ rise. To step in and hit with a neutral stance. To hit compact,
 relatively flat returns. All the things we associate with classical
 style.
 
-**[[But Roger combines this conservative grip with more extreme
+**But Roger combines this conservative grip with more extreme
 technical elements that allow him to do the same things we normally
 associate with a semi-western or even western style. These are the
 rotation of the torso and the rotation of the hand and
-arm.]{.underline}]{.mark}** These factors probably contribute to his
+arm.** These factors probably contribute to his
 overall racket head speed. They are also what allow him to hit
 \"windshield wiper\" spins and angles where his racket hand eventually
 ends up near his left hip. They account for his amazing variety and
@@ -583,8 +583,8 @@ elbow in, Federer straightens it completely out. Instead of a moderate
 wrist position, he lays it back a full 90 degrees and sometimes it
 appears, even slightly further.
 
-***[[When does he use the straight hitting arm? Most typically when he
-is hitting the ball inside out or inside in.]{.underline}]{.mark}***
+***When does he use the straight hitting arm? Most typically when he
+is hitting the ball inside out or inside in.***
 Federer tends to use this straight arm position on inside balls and when
 he appears to be really going for it\--and also when the ball is higher
 and he is off the court in the air. But you can also see the same thing
@@ -606,20 +606,20 @@ clearly in the animations. There is a characteristic position he often
 reaches where the arm and racket form nearly a straight line and point
 almost directly in the path of the ball.
 
-***[[In teaching we commonly use the phrase \"hitting through the ball\"
+***In teaching we commonly use the phrase \"hitting through the ball\"
 or \"hitting through the line of the shot\" to indicate that the racket
 path is moving for a longer period along the intended path of the shot,
 or at least moving for a longer period closer to that path. In reality,
 the racket never moves in a straight line, but is always moving on a
-curve.]{.underline}]{.mark}*** It moves outward from the body on a curve
+curve.*** It moves outward from the body on a curve
 from the player;s left to right on the way out to the contact. After
 contact the curve moves back from right to left on the way to the
 finish. (More on this in future articles in the BioMechanics section.)
 
-***[[\"Hitting through the ball\" is a powerful teaching key, but what
+***\"Hitting through the ball\" is a powerful teaching key, but what
 it really means is that this curve is flatter or less severe, so the
 path of the racket and the ball are closer for a longer
-period.]{.underline}]{.mark}*** When Federer straightens out his hitting
+period.*** When Federer straightens out his hitting
 arm, the arc of his swing appears to curve much less to the left after
 the hit than other top players. The movement of the racket across the
 body happens later or more gradually than with the traditional double

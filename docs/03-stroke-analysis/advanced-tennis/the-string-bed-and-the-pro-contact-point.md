@@ -139,8 +139,8 @@ actual contact points, another pattern that I hadn't considered started
 to become obvious.
 
   -----------------------------------------------------------------------
-  ***[[Most balls were hit a half inch to an inch off the center line in
-  one direction or another.]{.underline}]{.mark}***
+  ***Most balls were hit a half inch to an inch off the center line in
+  one direction or another.***
 
   -----------------------------------------------------------------------
 
@@ -169,8 +169,8 @@ where the ball hit in relation to this line, I could see if it was
 closer to the throat or the tip.
 
   -----------------------------------------------
-  ***[[Two thirds of the contact points were
-  closer to the tip.]{.underline}]{.mark}***
+  ***Two thirds of the contact points were
+  closer to the tip.***
 
   -----------------------------------------------
 

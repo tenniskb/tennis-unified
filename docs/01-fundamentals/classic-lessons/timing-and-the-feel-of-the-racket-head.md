@@ -50,11 +50,11 @@ first principle\--covered in the first article\--is to know\--and I mean
 really \"know\"\--where your racket head is at all
 times.]{.mark}]{.underline}**
 
-**[[The second principle\--coming up in the second upcoming
+**The second principle\--coming up in the second upcoming
 installment\--is to learn how to release the racket head at different
 times depending upon the kind of ball you are receiving, including all
 the potential variations in speed, spin, angle, depth, and
-location.]{.underline}]{.mark}**
+location.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_timing-and-the-feel-of-the-racket-head/media/image3.webp)
@@ -72,14 +72,14 @@ racket head is swung against the ball.
 
 In a recent television commentator appearance, Andre Agassi stated that
 what set Roger Federer apart was his phenomenal ability to control the
-racket head. **[[Delivering it to the contact point at just the right
+racket head. **Delivering it to the contact point at just the right
 time for the just the right shot is what timing is all
-about.]{.underline}]{.mark}**
+about.**
 
-**[[In my opinion, great players have an innate sense of the racket
+**In my opinion, great players have an innate sense of the racket
 head. In particular, they feel the weight of the racket head both as
 they prepare the racket and then swing it
-forward.]{.underline}]{.mark}**
+forward.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -118,11 +118,11 @@ confidence](media_timing-and-the-feel-of-the-racket-head/media/image5.webp)
 **At the contact point, do you feel the forearm\--or the racket head?**
 
 Most players are far too rigid in their arms, and particularly, the
-forearm. **[[When your forearm is tense you feel the weight of the
+forearm. **When your forearm is tense you feel the weight of the
 forearm itself, rather the weight of the racket
-head.]{.underline}]{.mark}** **[[The tense player becomes
+head.** **The tense player becomes
 \"disconnected\" to the shot because he can no longer feel the critical
-elements in the forward swing.]{.underline}]{.mark}**
+elements in the forward swing.**
 
 Have you noticed how much better you stroke the ball when your arms are
 relaxed? Why is this? **[[A primary reason is that when your racket arm
@@ -160,11 +160,11 @@ with this problem hold the racket too tightly (i.e., squeezing) with
 their thumb and index finger. This tightens the hand too much and the
 weight is felt in the forearm.]{.mark}]{.underline}**
 
-**[[I change this by telling my students to hold the racket more deeply
-in the palm of the racket hand.]{.underline}]{.mark}** **[[The feeling
+**I change this by telling my students to hold the racket more deeply
+in the palm of the racket hand.** **The feeling
 should be \"snug\" but not tight. By moving the pressure point into the
 palm they are more easily able to feel and properly control the momentum
-of the racket head.]{.underline}]{.mark}**
+of the racket head.**
 
 If you hold the racket too tightly, you severely limit your ability to
 hit with power. You have to control your racket to make the swing, but
@@ -315,19 +315,19 @@ to the characteristics of the oncoming ball.
 When you make the unit turn you want to feel \"connected\" to the ball.
 You want to establish a relationship between the incoming ball and your
 racket head as you make the unit turn. Think back to the ball catching
-drill. **[[In order to catch the ball on the strings you need to
-\"connect\" the incoming ball to the racket head.]{.underline}]{.mark}**
+drill. **In order to catch the ball on the strings you need to
+\"connect\" the incoming ball to the racket head.**
 You want that same kind of connection in the unit turn. This connection
 should be continuously developing as you move to and read more
 information about the oncoming ball:
 
-**[[You need to feel the speed, spin, height, angle, etc. of the
+**You need to feel the speed, spin, height, angle, etc. of the
 oncoming shot. Based on this information, you will adjust the position
 of the racket head for the shot you are about to
-hit.]{.underline}]{.mark}** **[[In this way, the unit turn is actually
+hit.** **In this way, the unit turn is actually
 slightly different for every ball. Great players have this subtle,
 continuous feeling and that helps make tough shots look
-easy.]{.underline}]{.mark} [Most recreational players don't, and this
+easy. [Most recreational players don't, and this
 is why they can make easy shots look hard.]{.mark}**
 
 ![A child playing tennis Description automatically generated with low
@@ -354,17 +354,17 @@ addition, they also impair their ability to disguise the shot and
 whether they will hit a lob, slice or a topspin
 drive.]{.mark}]{.underline}**
 
-**[[Most importantly, by stopping at the bottom of the loop, they make
+**Most importantly, by stopping at the bottom of the loop, they make
 the whole motion too deliberate and mechanical. This type of motion will
 have the tendency to break down a lot more under pressure than an
-automatic, continuous motion]{.underline}]{.mark}**.
+automatic, continuous motion**.
 
 **Orientation**
 
-**[[Simply knowing the location of the racket head in phase 2 is not
+**Simply knowing the location of the racket head in phase 2 is not
 enough; you have to actually feel its orientation in
-space.]{.underline}]{.mark}** **[[You should close your eyes and do
-practice swings to better develop this sense.]{.underline}]{.mark}**
+space.** **You should close your eyes and do
+practice swings to better develop this sense.**
 
 **[[Feel the weight of the racket head as you drop it in the loop and
 then feel the momentum of the racket head on the forward swing as the
@@ -372,9 +372,9 @@ racket head goes out towards your intended target. You have to feel how
 the face closes in the backswing.]{.mark} [You have to feel how that
 changes to perpendicular or possibly slightly closed as the racket moves
 onto the intended path of the shot and then through the hitting
-zone.]{.mark}]{.underline}** **[[You must also develop the feeling of
+zone.]{.mark}]{.underline}** **You must also develop the feeling of
 keeping the racket head on this path as long as
-possible.]{.underline}]{.mark}**
+possible.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_timing-and-the-feel-of-the-racket-head/media/image13.webp)

@@ -53,13 +53,13 @@ John Yandell addresses in his article on the Federer forehand. That's
 probably not possible for the average player, and I'll put myself in
 the same category.
 
-**[[But one thing every player can do is establish a still head position
-prior to the hit and keep it there.]{.underline}]{.mark}**
+**But one thing every player can do is establish a still head position
+prior to the hit and keep it there.**
 
-**[[When you see the ball that well you're simply going to hit it
+**When you see the ball that well you're simply going to hit it
 better. He says this ability just came naturally to him which is another
 reason to believe that this guy's from another planet when it comes to
-playing tennis.]{.underline}]{.mark}**
+playing tennis.**
 
 ![A person playing tennis Description automatically
 generated](media_the-two-secrets-of-timing/media/image2.webp)
@@ -67,11 +67,11 @@ generated](media_the-two-secrets-of-timing/media/image2.webp)
 **Establishing and maintaining the head position\--before and after
 contact.**
 
-**[[Certainly, for the average player consistently keeping your eye on
+**Certainly, for the average player consistently keeping your eye on
 the ball until it's off the racket is a sporadic proposition at best.
 As I mentioned at the beginning of the article there are plenty of
 potential distractions and hey, as a rule, we just tend to have short
-attention spans.]{.underline}]{.mark}**
+attention spans.**
 
 I've always told players to watch the ball off the other player's
 racket, actually see the ball bounce and then watch it until they hear
@@ -116,12 +116,12 @@ generated](media_the-two-secrets-of-timing/media/image4.webp)
 
 **Great timing: watching the ball plus hitting on the rise.**
 
-**[[The next phase involves hitting the ball to a spot on the court,
+**The next phase involves hitting the ball to a spot on the court,
 typically crosscourt or down the line. Choose the placement with your
 mind's eye but don't look to see if it went there until after the \"2
 count.\" This is where you will really get excited. Why? Because you
 will find that the placement you choose is exactly where you're hitting
-the ball.]{.underline}]{.mark}**
+the ball.**
 
 The crosscourt shots that used to land short are now deeper. The down
 the line forehand that used to land in the alley is now well inside the
@@ -140,10 +140,10 @@ generated](media_the-two-secrets-of-timing/media/image5.webp)
 
 **To hit on the rise, the coiling is complete just before the bounce.**
 
-**[[To me hitting on the rise means you make contact somewhere between
+**To me hitting on the rise means you make contact somewhere between
 the bounce and the apex of that bounce. Hitting the ball on the rise
 with good timing means sharper, more aggressive
-tennis.]{.underline}]{.mark}**
+tennis.**
 
 To virtually guarantee this kind of ball striking, I've developed a
 two-step process. This is the process of first coiling, then second,
@@ -166,8 +166,8 @@ generated](media_the-two-secrets-of-timing/media/image6.webp)
 
 **The uncoiling should start as the ball comes up off the court.**
 
-**[[Before you can do this effectively hitting the ball, it is important
-to learn to model them in your swing.]{.underline}]{.mark}** Many
+**Before you can do this effectively hitting the ball, it is important
+to learn to model them in your swing.** Many
 players get impatient when asked to do these forms of \"shadow tennis.\"
 That's a big mistake. Once you master the feeling of coiling and then
 uncoiling on both sides, you have taken a big step toward building your
@@ -192,11 +192,11 @@ generated](media_the-two-secrets-of-timing/media/image7.webp)
 **Coiling just before the ball hits the court\--and the uncoiling and
 early timing that follows.**
 
-**[[The solution is all about \"pre-bounce\" and \"moment of the
+**The solution is all about \"pre-bounce\" and \"moment of the
 bounce.\" You want to build your swing around those two moments. Then
 you want to combine them with the ball watching described above. The
 result will be a dramatic improvement in your
-timing.]{.underline}]{.mark}**
+timing.**
 
 When you hit the ball on the rise the benefits are many. First off, I
 think you'll find that you're sharper and more immersed in each point
@@ -213,10 +213,10 @@ turn a defensive situation into an offensive one.
 **All that energy and pace your opponent had in mind for you is actually
 intercepted and redirected back at him when you take the ball on the
 rise. It's amazing how much pace can be generated in this way and it
-brings to mind a cautionary not for control[[, use topspin and don't
-get carried away with huge, maniacal swings.]{.underline}]{.mark} You
-don't need them, and [[the bigger your swing the greater the
-possibility of something going wrong.]{.underline}]{.mark}**
+brings to mind a cautionary not for control, use topspin and don't
+get carried away with huge, maniacal swings. You
+don't need them, and the bigger your swing the greater the
+possibility of something going wrong.**
 
 When you take the ball on the rise you'll generally find you play up
 closer to the baseline and going forward much more. This takes time away
@@ -266,14 +266,14 @@ generated](media_the-two-secrets-of-timing/media/image9.webp)
 **Taking the ball early and around the baseline takes time from the
 opponent.**
 
-**[[When you play big hitters, hitting the ball on the rise is a must.
+**When you play big hitters, hitting the ball on the rise is a must.
 If you don't, you're definitely going to be
-late.]{.underline}]{.mark}** **[[Speaking of big hitters, hitting on the
+late.** **Speaking of big hitters, hitting on the
 rise is a given at the pro level. The balls are constantly traveling at
 a very high rate of speed and their swings have become acclimated to
-it.]{.underline}]{.mark}** **[[They feed off of each other's pace.
+it.** **They feed off of each other's pace.
 It's fun to watch and it's fun to do but be careful to realize it's
-not about overt blasting of the ball.]{.underline}]{.mark}** The one
+not about overt blasting of the ball.** The one
 ball out of 50 that goes in isn't worth it. What is worth it is a
 disciplined, progressive practice regimen of the things that will
 eventually help you hit balls like the pros.

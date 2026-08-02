@@ -35,11 +35,11 @@ statistic,\" the forced error.
 
 **The Forced Error**
 
-**[[I call forced errors the \"unknown statistic,\" because
+**I call forced errors the \"unknown statistic,\" because
 unfortunately they are not recorded by most official tournament scoring
-or in TV statistics.]{.underline}]{.mark}** **[[Yet it may be the most
+or in TV statistics.** **Yet it may be the most
 critical shot category, and usually decides matches at the pro level,
-and every level below.]{.underline}]{.mark}**
+and every level below.**
 
 **[[So, what is a forced error? A forced error is a ball which a player
 has at least the possibility of making a return, is able to execute

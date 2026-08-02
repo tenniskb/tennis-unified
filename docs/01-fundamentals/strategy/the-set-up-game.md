@@ -129,11 +129,11 @@ generated](media_the-set-up-game/media/image5.jpg)
 
 **Every time the victim exhales, the boa tightens slightly.**
 
-**[[Don't force shots. Don't get impatient. Don't try to make
-something out of nothing. Just keep squeezing.]{.underline}]{.mark}**
-**[[When I'm playing the Set-up Game, I'm trying to get the other
+**Don't force shots. Don't get impatient. Don't try to make
+something out of nothing. Just keep squeezing.**
+**When I'm playing the Set-up Game, I'm trying to get the other
 player to make mistakes, to get impatient, to go for the brilliant
-shot.]{.underline}]{.mark}**
+shot.**
 
 At a pivotal moment when a player can get to within four points of the
 set by winning the game, I put a premium on steadiness. I want my

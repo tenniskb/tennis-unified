@@ -135,10 +135,10 @@ confidence](media_fixing-stroke-phobias/media/image5.webp)
 
 **In a match, rely on your game and assume it is good enough to win.**
 
-**[[Don't look around at shots other players can make but you can't
+**Don't look around at shots other players can make but you can't
 and feel diminished. You can practice them after the match if you wish.
 When you miss, focus on relaxing and hitting the ball in the way you
-have practiced.]{.underline}]{.mark}**
+have practiced.**
 
 **[[You can make small adjustments, of course, but don't discard your
 normal strokes. And by all means, don't let errors with one stroke

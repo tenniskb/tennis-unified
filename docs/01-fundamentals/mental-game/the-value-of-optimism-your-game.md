@@ -37,8 +37,8 @@ help you reach.
 **Emotion and Outcome**
 
 In competition your emotional state helps determine your performance,
-and it behooves you, **[[therefore, to elevate your mood as best you
-can.]{.underline}]{.mark}**
+and it behooves you, **therefore, to elevate your mood as best you
+can.**
 
 **[[Put simply, you can become more optimistic by consciously looking
 for positives rather than negatives in most of the match situations in
