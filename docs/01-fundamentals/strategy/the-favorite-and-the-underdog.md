@@ -520,30 +520,4 @@ These insights are directly applicable to the games of most players and
 have the potential to be decisive for you the next time you step on the
 court, whether you are the favorite or the underdog.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![A picture containing text, person, person, posing Description automatically                                                                                                  Jeffrey F. McCullough has been a leading California
-  generated](media_the-favorite-and-the-underdog/media/image15.jpeg)                                                                                                                                                  he worked at San Francisco's legendary Golden Gate
-                                                                                                                                                                                 Park where he taught side by side with John
-                                                                                                                                                                                 Yandell\--and for a year shared an ocean view
-                                                                                                                                                                                 apartment in the city's Sunset district. For the
-                                                                                                                                                                                 last 13 years he has taught in San Diego, California
-                                                                                                                                                                                 at the George E. Barnes Family Jr. Tennis Center.
-                                                                                                                                                                                 Specializing in developing junior players, he has
-                                                                                                                                                                                 coached over 50 juniors who have gone on to win
-                                                                                                                                                                                 tournaments at all levels in USTA play. Jeff is also
-                                                                                                                                                                                 the author of the seminal work on the two-handed
-                                                                                                                                                                                 game, \"Two Handed Tennis: How to Play a Winner's
-                                                                                                                                                                                 Game.\"
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------------------------------------------------
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Text Description automatically                                                                                                                                \"In Two-Handed Tennis: How to Play a Winner's Game,\" Jeffrey F. McCullough outlined for the first time the entire history of the two-handed
-  generated](media_the-favorite-and-the-underdog/media/image16.jpeg)                                                                                                                                  described in detail the biomechanics of all the major two-handed shots in the 3 areas of the tennis court, including how to develop a
-                                                                                                                                                                  two-handed forehand in several variations. This classic work was first published in 1984. [[Click
-                                                                                                                                                                  Here]{.underline}](http://www.amazon.com/Two-Handed-Tennis-Play-Winners-Game/dp/0871314258/ref=sr_1_1?ie=UTF8&s=books&qid=1219008484&sr=1-1)
-                                                                                                                                                                  to order!
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------
-
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

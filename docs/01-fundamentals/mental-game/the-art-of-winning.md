@@ -321,33 +321,3 @@ The ability to remain unflappable under stress is learned behavior.
 Winners practice these protocols with the same dedication they apply to
 their fundamental strokes.
 
-| ![A person smiling for the camera Description automatically generated with medium | Frank Giampaolo has been a leading Southern |
-| --- | --- |
-| confidence](media_the-art-of-winning/media/image10.jpeg) | author of a comprehensive new work on player |
-|  | development, Championship Tennis, as well as the |
-|  | author of The Tennis Parent's Bible. He has |
-|  | conducted workshops on mental training around the |
-|  | world, and participants have included over 60 |
-|  | junior players who went on to win U.S. National |
-|  | singles titles. He speaks regularly at coaching |
-|  | conventions and has made national television |
-|  | appearances worldwide. |
-|  |  |
-|  | To find out more about his mental and emotional |
-|  | training workshops\ |
-|  | [Click |
-|  | Here!](http://mentalemotionaltennisworkshops.com/) |
-
-
-| ![A person playing tennis Description automatically generated with medium | Championship Tennis: The All-Inclusive Guide |
-| --- | --- |
-| confidence](media_the-art-of-winning/media/image11.jpeg) | In this new book from Human Kinetics, Frank Giampaolo presents a life time |
-|  | of high level coaching insight into every aspect of tennis |
-|  | development\--athletic assessment, skill development, the mental factor, |
-|  | match preparation, practice, and planning. This book is designed to help |
-|  | players and coaches accelerate the learning curve by customizing the |
-|  | process to the needs of every individual player. |
-|  |  |
-|  | [CLICK HERE TO ORDER |
-|  | !](http://www.humankinetics.com/products/all-products/Championship-Tennis) |
-
