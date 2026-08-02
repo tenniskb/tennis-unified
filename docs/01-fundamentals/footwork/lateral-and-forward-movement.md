@@ -386,22 +386,3 @@ Stay tuned for Part 4 where you'll learn about hitting on the move, the
 running open stance, the reverse neutral stance, braking techniques and
 other critical information you need to know for quicker recovery.
 
-| ![A person with glasses smiling Description automatically generated with low | Pat Dougherty has been a biomechanics expert |  |
-| --- | --- | --- |
-| confidence](media_lateral-and-forward-movement/media/image16.jpeg) | over 20 years, influencing the development of |  |
-|  | hundreds of elite junior and pro players from |  |
-|  | around the world. As the creator and producer |  |
-|  | of the acclaimed Nick Bollettieri |  |
-|  | instructional video series, Pat was |  |
-|  | responsible for developing the system that has |  |
-|  | become synonymous with the teaching approach |  |
-|  | at the Academy. In this new series for |  |
-|  | Tennisplayer, Pat presents for the first time |  |
-|  | his concepts and patented training methods for |  |
-|  | becoming a tennis movement specialist. For |  |
-|  | more info on The A.P. Belt developed by Pat at |  |
-|  | the world famous Bollettieri Academy, [Click |  |
-|  | Here](http://www.apbelt.com/). |  |
-|  |  |  |
-|  | Contact Pat directly at: pdougherty@apbelt.com |  |
-

@@ -264,22 +264,3 @@ split step at the opponent's contact to react on time to the next
 shot.]{.underline}]{.mark}** **[[If you fail to split step on time, you
 will be late on reacting to the next shot.]{.underline}]{.mark}**
 
-| ![A person with glasses smiling Description automatically generated with low | Pat Dougherty has been a biomechanics expert |  |
-| --- | --- | --- |
-| confidence](media_hitting-on-the-run/media/image11.jpeg) | over 20 years, influencing the development of |  |
-|  | hundreds of elite junior and pro players from |  |
-|  | around the world. As the creator and producer |  |
-|  | of the acclaimed Nick Bollettieri |  |
-|  | instructional video series, Pat was |  |
-|  | responsible for developing the system that has |  |
-|  | become synonymous with the teaching approach |  |
-|  | at the Academy. In this new series for |  |
-|  | Tennisplayer, Pat presents for the first time |  |
-|  | his concepts and patented training methods for |  |
-|  | becoming a tennis movement specialist. For |  |
-|  | more info on The A.P. Belt developed by Pat at |  |
-|  | the world famous Bollettieri Academy, [Click |  |
-|  | Here](http://www.apbelt.com/). |  |
-|  |  |  |
-|  | Contact Pat directly at: pdougherty@apbelt.com |  |
-
