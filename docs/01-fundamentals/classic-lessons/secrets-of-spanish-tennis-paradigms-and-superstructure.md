@@ -249,8 +249,7 @@ The mentoring approach was adopted not only by players, but by coaches,
 like Pato Alvarez and Lluis Bruguera, who were open and eager to share
 their knowledge with the younger generation of talented coaches. Even
 today, Pato and Luis are happy to share their knowledge with any coaches
-who come to visit them. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/%20famouscoach/famouscoach.html) for
+who come to visit them. ([Click Here](https://www.tennisplayer.net/members/%20famouscoach/famouscoach.html) for
 Chris Lewit's interviews with Lluis Bruguera.)
 
 ![A person smiling for the camera Description automatically generated

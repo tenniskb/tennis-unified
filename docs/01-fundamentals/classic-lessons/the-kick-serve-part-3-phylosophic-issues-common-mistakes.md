@@ -13,7 +13,7 @@ In Part 1 of this series on the kick serve, I presented the technical
 reference points for the kick serve motion. This included explaining the
 three versions of the kick that a player needs to be a complete
 competitive server. These versions are true topspin, slice topspin, and
-twist. ([Click Here](Keys%20to%20the%20Kick%20Serve.docx).) Then in Part
+twist. [Click Here](Keys%20to%20the%20Kick%20Serve.docx) Then in Part
 2, I presented the drill progressions and a training plan for developing
 the kick in all variations. ([Click
 Here](Constructing%20the%20Kick.docx).)

@@ -12,7 +12,7 @@ generated](media_the-seven-modern-topspin-forehands/media/image1.webp)
 In the first article in this series, I demonstrated that there really is
 no such thing as THE modern forehand. We established that there are
 actually seven different topspin variations that pro players hit on a
-regular basis. ([Click Here](What%20is%20the%20modern%20forhand.docx).)
+regular basis. [Click Here](What%20is%20the%20modern%20forhand.docx)
 Each of these forehands is situational and hit with a specific tactical
 purpose. When we look at the differences in the swings, we can see that
 each variation is a technical response to a tactical problem.

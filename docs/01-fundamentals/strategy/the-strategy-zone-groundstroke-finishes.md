@@ -111,7 +111,7 @@ their sense of what is about to happen.]{.underline}]{.mark}**
 A second factor in finishing points is footwork. Tenniplayer contributor
 David Bailey has done a brilliant job in analyzing for the first timeall
 the various combinations of aggressive footwork used by pro players.
-([Click Here](../Footwork/Footwork%20TOC.docx).) You can get more
+[Click Here](../Footwork/Footwork%20TOC.docx) You can get more
 details on the specific patterns in his articles.
 
 ![A person playing tennis Description automatically generated with

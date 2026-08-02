@@ -131,7 +131,7 @@ example, in Welby Van Horn's article in this issue of Tennisplayer.
 Here](http://www.tennisplayer.net/members/teaching_systems/welby_vanhorn/true_master_forehand_balance_checkpoints/true_master_forehand_balance_checkpoints.html).)
 Nor would I argue with teaching players to turn the body with a step out
 in the direction of the shot, as shown in the Tennisplayer articles by
-Bob Hansen. ([Click Here](Court%20Movement%20-%20The%20Forehand.docx).)
+Bob Hansen. [Click Here](Court%20Movement%20-%20The%20Forehand.docx)
 This approach may ease learning how to prepare fully on the
 groundstrokes. But once a player has mastered the basic stroke patterns,
 it's time to evolve to the wider base as part of a more advanced

@@ -29,7 +29,7 @@ play between these two great champions.
 
 Over the last few years, I have charted hundreds of professional
 matches, studying the nature of the exchanges between the world's best
-players. ([Click Here](http://www.thebraingame.net/).) This analysis
+players. [Click Here](http://www.thebraingame.net/) This analysis
 provides us with a new perspective on the pro game and allows us to see
 how the changes Djokovic made were the key to his success, his Grand
 Slam championships and his number one ranking.

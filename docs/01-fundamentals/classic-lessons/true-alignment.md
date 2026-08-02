@@ -251,7 +251,7 @@ generated](media_true-alignment/media/image10.webp)
 develop a feel for true alignment.**
 
 The first step is to go back to the set up and open stance as I
-discussed before. ([Click Here](What%20is%20Open%20Stance.docx).) The
+discussed before. [Click Here](What%20is%20Open%20Stance.docx) The
 player then must relearn to how stay behind the ball all the way through
 the shot, keeping the back foot down, and not allowing the hips or feet
 to come through, no matter how out of balance he feels. To do this

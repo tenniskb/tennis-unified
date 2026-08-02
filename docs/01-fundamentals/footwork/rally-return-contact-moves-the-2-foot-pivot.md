@@ -13,10 +13,8 @@ confidence](media_rally-return-contact-moves-the-2-foot-pivot/media/image1.webp)
 foot pivot.**
 
 In the last two articles, we looked at the Contact Moves for aggressive
-returns ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/))
-and defensive returns ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/defensive_returns/)).
+returns ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/))
+and defensive returns ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/defensive_returns/)).
 Now let's turn to what happens when you hit what I call a Rally Return.
 
 By rally return I mean a return in which the player is trying to

@@ -40,7 +40,7 @@ generated](media_the-strategy-zone-phase-2-hurt/media/image2.webp)
 **Agassi, dominating the center of the court with change of direction.**
 
 In our previous articles we looked at the various dimensions of phase 1,
-Control. ([Click Here](The%20Strategy%20Zone%20-%20Introduction.docx).)
+Control. [Click Here](The%20Strategy%20Zone%20-%20Introduction.docx)
 As we saw, there are many potential ways to establish control: deep
 drives, short angles, loops, serves wide or down the T, and also, deep
 neutral zone or angle returns.

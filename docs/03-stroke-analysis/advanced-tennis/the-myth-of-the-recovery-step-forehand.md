@@ -220,7 +220,7 @@ confidence](media_the-myth-of-the-recovery-step-forehand/media/image6.webp)
 
 Previously, we have published brilliant, detailed articles from David
 Bailey on the whole range of footwork patterns\--including the recovery
-steps. ([Click Here](../../Fundamentals/Footwork/Footwork%20TOC.docx).)
+steps. [Click Here](../../Fundamentals/Footwork/Footwork%20TOC.docx)
 
 But one commonality emerges from his work, as well as this study. In
 general the sequence is the completion of the forward swing, then the

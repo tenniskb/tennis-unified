@@ -9,13 +9,11 @@ Forehands**
 
 In my previous article (Four Pillars of the ATP Type III Forehand) I
 presented a \"best practice\" guide for hitting a forehand based on my
-research and work on the court. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii/).)
+research and work on the court. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii/)
 In the first article of this two-part series for the September issue, I
 covered concepts not addressed in that presentation. Specifically, I
 discussed the backswing and the implication of a bent elbow in the
-forward swing. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_01).)
+forward swing. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_01)
 
 The Four Pillars article, combined with the concepts from Part 1 of this
 article, should provide a mechanical framework to better understand many

@@ -604,8 +604,7 @@ is more open or closed.
 
 As John Yandell has shown, there is a significant range of forehand
 grips in the pro game, including multiple variations of both eastern and
-semi-western. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html).)
+semi-western. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/grips/modern_forehand_grip_variations_part1/modern_forehand_grip_variations_part1.html)
 These differences in grips simply alter the wrist joint angles and axes
 of wrist rotation.
 

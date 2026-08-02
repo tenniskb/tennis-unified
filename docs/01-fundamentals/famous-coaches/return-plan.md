@@ -21,8 +21,8 @@ forward and then backwards like the great Andre Agassi.
 
 But I'm here to tell you, you need a lot more than rituals to develop a
 successful return game. We've looked at the right mental attitude.
-([Click Here](The%20Return%20Mentality.docx).) We've looked at the
-fundamentals of technique. ([Click Here](Return%20Technique.docx).) Now
+[Click Here](The%20Return%20Mentality.docx) We've looked at the
+fundamentals of technique. [Click Here](Return%20Technique.docx) Now
 let's look at the third part of developing a great return game: your
 return plan.
 
@@ -115,7 +115,7 @@ defense.]{.underline}]{.mark}**
 
 **[[You must adjust your return swings to become more like volleys than
 ground strokes, as we explained in the technique
-article]{.underline}]{.mark}** ([Click Here](Return%20Technique.docx).).
+article]{.underline}]{.mark}** [Click Here](Return%20Technique.docx).
 Yes Andre Agassi often steps in and absolutely cleans these serves on
 the rise. That's an advanced strategy and there is one way to know if
 it is effective for you. Can you execute it consistently?

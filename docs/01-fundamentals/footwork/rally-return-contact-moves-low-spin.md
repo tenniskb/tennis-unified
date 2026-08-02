@@ -13,8 +13,7 @@ confidence](media_rally-return-contact-moves-low-spin/media/image1.webp)
 shoulders.**
 
 In the last article, we looked at the Contact Move for the first type of
-rally return, what I call the Two Foot Pivot. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/the_two_foot_pivot).)
+rally return, what I call the Two Foot Pivot. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/the_two_foot_pivot)
 Now let's look at the other type: the Low Spin.
 
 By rally return I mean a return in which the player is trying to

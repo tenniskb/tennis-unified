@@ -17,7 +17,7 @@ but you must also know and feel exactly how to hit the
 return.]{.underline}]{.mark}**
 
 In the first article in this series, we looked at the return mentality.
-([Click Here](The%20Return%20Mentality.docx).) Without the right
+[Click Here](The%20Return%20Mentality.docx) Without the right
 attitude, the rest doesn't matter. But now that we have established the
 return mind set, we can address the issue of technique.
 

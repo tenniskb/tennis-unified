@@ -15,11 +15,11 @@ opponents and to transition from defense to offense.
 
 The Contact Move is a unifying concept I have developed to make sense of
 the diversity of movement patterns out to the ball, during the hit, and
-then in the recovery phase. ([Click Here](Footwork%20TOC.docx).)
+then in the recovery phase. [Click Here](Footwork%20TOC.docx)
 
 We started our analysis of defensive moves by looking at the Power Move.
 This is the footwork pattern used by top players to hit on the full run.
-([Click Here](Contact%20Moves%20-%20The%20Power%20Move.docx).) **[[We
+[Click Here](Contact%20Moves%20-%20The%20Power%20Move.docx) **[[We
 saw that top players use the Power Move to go for broke by attempting
 running forehand winners.]{.underline}]{.mark}**
 

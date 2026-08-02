@@ -32,12 +32,10 @@ Toughness Specialist through the Human Performance Institute based on
 the life work of the legendary Dr. Jim Loehr.
 
 He is the founder of Capestany Tennis Inc. which runs tennis websites
-for players and coaches. His website TennisDrillsTV ([**[Click
-Here]{.underline}**](https://tennisdrills.tv/)) has thousands of
+for players and coaches. His website TennisDrillsTV ([Click Here](https://tennisdrills.tv/)) has thousands of
 subscribers in more than 65 countries worldwide and features over 1,000
 videos of tennis drills that can be viewed online and also printed off
-in diagram form. His teaching website ([**[Click
-Here]{.underline}**](https://www.jorgecapestany.com/)) features free
+in diagram form. His teaching website ([Click Here](https://www.jorgecapestany.com/)) features free
 video lessons for players of all levels as well as a free Mental
 Toughness Video Course and eBook. Jorge is also the director of the Hope
 College Professional Tennis Management (PTM) program.
@@ -85,12 +83,10 @@ Toughness Specialist through the Human Performance Institute based on
 the life work of the legendary Dr. Jim Loehr.
 
 He is the founder of Capestany Tennis Inc. which runs tennis websites
-for players and coaches. His website TennisDrillsTV ([**[Click
-Here]{.underline}**](https://tennisdrills.tv/)) has thousands of
+for players and coaches. His website TennisDrillsTV ([Click Here](https://tennisdrills.tv/)) has thousands of
 subscribers in more than 65 countries worldwide and features over 1,000
 videos of tennis drills that can be viewed online and also printed off
-in diagram form. His teaching website ([**[Click
-Here]{.underline}**](https://www.jorgecapestany.com/)) features free
+in diagram form. His teaching website ([Click Here](https://www.jorgecapestany.com/)) features free
 video lessons for players of all levels as well as a free Mental
 Toughness Video Course and eBook. Jorge is also the director of the Hope
 College Professional Tennis Management (PTM) program.

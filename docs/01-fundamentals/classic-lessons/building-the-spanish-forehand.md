@@ -49,8 +49,7 @@ the video that goes with the article establishes. Now in this new
 series, I'm excited to share this system for the first time anywhere
 with Tennisplayer subscribers.
 
-As in my previous series on the kick serve ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)),
+As in my previous series on the kick serve ([Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/keys_to_the_kick/keys_to_the_kick_page1.html)),
 I will begin by detailing the technical reference points that I'm
 looking for when building a Spanish forehand. Then I'll move into a
 discussion of actual drills, exercises, variations, and developmental
@@ -104,8 +103,7 @@ generated](media_building-the-spanish-forehand/media/image4.webp)
 
 When we look at the Spanish forehand the number one characteristic is
 incredible racket head speed. In a previous article I have referred to
-racket speed as the holy grail of Spanish tennis. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/).)
+racket speed as the holy grail of Spanish tennis. [Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/)
 
 Racket speed is what allows Spanish players to develop unequalled levels
 of spin without sacrificing pace. It allows them to hit through the
@@ -130,12 +128,10 @@ size and arc of the parabola can vary from shot to shot. Other coaches
 call this the windshield wiper and again, as John Yandell has shown, the
 length and height of this sweeping forward motion varies tremendously
 when players hit balls from different heights and positions and with
-different spins and shot intentions. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
+different spins and shot intentions. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)
 
 Spanish players as epitomized by Nadal also hit a variety of reverse
-finishes, (a term developed by Robert Lansdorp ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_three_forhand_finishes/lansdorp_three_forhand_finishes.html)).
+finishes, (a term developed by Robert Lansdorp ([Click Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_three_forhand_finishes/lansdorp_three_forhand_finishes.html)).
 In the reverse finish, the racket stays on, or crosses back to, the same
 side of the body the swing starts from. I'll have more to say about
 that in a future article. But I think these variations are something
@@ -148,8 +144,7 @@ In addition to the distinctive parabola swing, the Spanish forehand is
 characterized by explosive body rotation, usually including airborne
 contact. This makes balance critical in the Spanish model, so that the
 player can land and recover effectively. As we saw in the previous
-article, balance is a fanatical point in Spain. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/).)
+article, balance is a fanatical point in Spain. [Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/)
 
 ![Close-up of hands shaking Description automatically generated with
 medium
@@ -367,8 +362,7 @@ Most of the whipping action takes place so fast, that the naked eye is
 challenged as to what exactly is happening in the last moment
 pre-contact, at contact, and post-contact. As articles by John Yandell
 have shown, the wrist action is not always what it appears to be, and
-the subject remains controversial. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_proforehand_images/the_myth_of_the_wrist_proforehand.html).)
+the subject remains controversial. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_wrist_proforehand_images/the_myth_of_the_wrist_proforehand.html)
 
 As John has argued, there is minimal wrist forward movement on most
 whipping forehand shots, despite the millions of coaches who exhort
@@ -448,8 +442,7 @@ To develop whip and racket speed the Spanish way, it is essential for
 players to be allowed to back up and take the ball on the fall. Taking
 the ball early will kill any attempt to hit a heavy topspin ball. I
 believe it is equally important to develop the attacking on-the-rise
-play ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_training_styles/))
+play ([Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_training_styles/))
 but when first learning heavy spin, players must be allowed to step back
 and let the ball drop into their strike zone.
 

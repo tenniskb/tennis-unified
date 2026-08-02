@@ -193,7 +193,7 @@ results could be huge in terms of your results.
 
 In the Strategy Zone package, we also outline a comprehensive series of
 additional drills and games that will let you develop this ability step
-by step. ([Click Here](http://www.nicksstrategyzone.com/).)
+by step. [Click Here](http://www.nicksstrategyzone.com/)
 
 ![A tennis player is serving the ball Description automatically
 generated with low

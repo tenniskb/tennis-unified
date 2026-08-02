@@ -11,8 +11,7 @@ In this new series for Tennisplayer, we are looking at the incredible
 variety of movement patterns in pro tennis, and specifically, the
 concept of the Contact Move, which describes how the feet and body move
 before, during, and after the hit. (For an introduction to the Contact
-Move concept, [**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
+Move concept, [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
 
 My life's work in researching tennis movement has established that
 there are 15 Contact Moves used by elite players. These contact moves
@@ -21,8 +20,7 @@ Defensive Contact Moves.
 
 In the last article we looked at the aggressive Contact Moves when
 players are looking to finish the point or force a weak reply to finish
-with the next ball. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves/).)
+with the next ball. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves/)
 Now let's look at the second category, what I call the Building Contact
 Moves.
 

@@ -71,8 +71,9 @@ and drop step.**
 After the split step, the first step to the ball is with the outside
 foot (left foot for the righties). This is what I call \"chasing the
 ball\" with the outside foot. It is also a basic principle on the
-groundstrokes. (For more on this, [Click
-Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\What%20is%20Open%20Stance.docx)).
+groundstrokes. (For more on this
+
+[Click Here](file:///C:\Users\moosh\AppData\Roaming\Microsoft\Word\What%20is%20Open%20Stance.docx).
 
 **[[On a serve hit directly at the player you will sometimes see a
 player take a reverse pivot step.]{.underline}]{.mark}** On a stretch

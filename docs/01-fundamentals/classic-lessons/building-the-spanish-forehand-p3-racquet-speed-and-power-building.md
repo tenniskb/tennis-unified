@@ -13,8 +13,7 @@ confidence](media_building-the-spanish-forehand-p3-racquet-speed-and-power-build
 As I explained in the first article in this series, racket speed is an
 obsession in Spain, and I don't see why it isn't an obsession in every
 player development system and for every coach around the world.
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
+[Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)
 
 I believe that young players need to start working on whip and power
 early on - definitely under 12 years old\--to lay the foundation for
@@ -53,12 +52,10 @@ right, but to develop the huge weapons that lead to success down the
 road.
 
 In the first article I outlined the technical elements I believe go into
-the foundation Spanish forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
+the foundation Spanish forehand. [Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)
 Then, in the second article, I started to present drills to build
 massive racket speed, starting with some of the classic hand fed
-exercises that are so prevalent in Spain. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/).)
+exercises that are so prevalent in Spain. [Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/)
 
 Now in this third article, let's add more drills, this time drills fed
 with a racket, rather than by hand. These drills are also common in
@@ -146,8 +143,7 @@ rotation. Usually this shot is hit with an open or semi-open stance.
 ![](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image7.webp)
 
 I have to credit my long time mentor Gilad Bloom, the subject of a
-previous article ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/))
+previous article ([Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_two_styles/))
 for creating and naming this drill. It's a favorite with my students.
 
 The title has a certain irony as the drill is not easy to do well. We
@@ -204,14 +200,12 @@ dreaming about doing it.
 ![A picture containing person Description automatically
 generated](media_building-the-spanish-forehand-p3-racquet-speed-and-power-building/media/image9.webp)
 
-Renowned physical trainer Pat Etcheberry ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/physicaltraining/physicaltraining.html) to
+Renowned physical trainer Pat Etcheberry ([Click Here](https://www.tennisplayer.net/members/physicaltraining/physicaltraining.html) to
 see his training system on Tennisplayer) developed this swing trainer
 and I like to use it in workouts with my players. I'm not big on
 gimmicks, but I've found this swing trainer to be valuable tool. It
 looks cool and the kids always enjoy working with it. For more info
-about getting an EtchSwing, [**[Click
-Here]{.underline}**](http://etcheberryexperience.com/en/info/the_etch_swing).
+about getting an EtchSwing, [Click Here](http://etcheberryexperience.com/en/info/the_etch_swing).
 
 Players can perform sets of 10 to 15 repetitions. They can use the
 trainer off court, or even on the court when waiting for the next drill

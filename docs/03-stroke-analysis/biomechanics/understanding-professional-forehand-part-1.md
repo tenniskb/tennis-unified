@@ -15,8 +15,7 @@ The pillars of the Type III ATP forehand are defined by the forward
 swing, independent of the backswing and followthrough.
 
 My previous article described the Four Pillars of the Type III ATP
-forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii).)
+forehand. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/four_pillars_atp_type_iii)
 
 These pillars are exclusively defined by attributes of the forward swing
 -- that is, they are independent of the backswing and follow through.
@@ -181,8 +180,7 @@ contribution from shoulder internal rotation completely.
 So that's it for (most) of the hard core biomechanical theory. In the
 second article, also in this issue, we will turn to the analysis of
 specific players including Federer, Nadal, Djokovic, Sock, Dominic
-Thiem, Garbine Mugurusa, and Simona Halep. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_02).)
+Thiem, Garbine Mugurusa, and Simona Halep. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/understanding_professional_forehands/part_02)
 
 | ![A person holding a tennis racket Description automatically | Dr. Brian Gordon has changed the understanding of the |
 | --- | --- |

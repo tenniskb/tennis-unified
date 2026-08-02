@@ -14,16 +14,14 @@ traditional hitting stances.**
 
 In this first article in this new series on Tennisplayer, I outlined the
 components of world class movement and the specific athletic skills that
-they are based on. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/).)
+they are based on. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/overview/)
 Now let's get into the movement patterns themselves and see the
 incredible athleticism and variety of the world's top players. And see
 how these patterns apply to your game.
 
 Specifically I want to revisit my concept of the Contact Move. I
 introduced this concept over a decade ago and outlined its components in
-my first series of articles on Tennisplayer. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/footwork.html).)
+my first series of articles on Tennisplayer. [Click Here](https://www.tennisplayer.net/members/footwork/footwork.html)
 Over the years this work has made its way and found greater
 understanding and acceptance.
 

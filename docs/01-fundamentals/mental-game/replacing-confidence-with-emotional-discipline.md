@@ -166,7 +166,7 @@ short break from competition. You can, for a week or so, lay off tennis
 entirely or just hit and work on your strokes.
 
 When you return to competition, start out against weaker opponents, a
-tactic I have previously suggested. ([Click Here](Self%20Belief.docx).)
+tactic I have previously suggested. [Click Here](Self%20Belief.docx)
 This way you can gradually rebuild your confidence as a prelude to
 pitting yourself against your tougher opponents.
 

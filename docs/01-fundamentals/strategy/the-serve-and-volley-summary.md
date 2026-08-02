@@ -120,7 +120,7 @@ combinations. It's not one knockout punch but a series of jabs and
 hooks in the form of intelligent serving, aggressive first volleys and
 effective finishing shots. Mixing the 4 serves described of this series
 (T serve, Wide Deep, 3/4, Body) is crucial to any serve and volley game.
-([Click Here](The%20Serve%20and%20Volley%20Tactical%20Components.docx).)
+[Click Here](The%20Serve%20and%20Volley%20Tactical%20Components.docx)
 
 At elite levels, closing in tight to the net is ideal, chances are that
 an approach or volley was struck crisply enough to elicit a week reply

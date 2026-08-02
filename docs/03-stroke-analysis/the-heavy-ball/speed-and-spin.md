@@ -69,7 +69,7 @@ flight of the ball, and what that means at the moment of the return.
 The analysis programs to delve into these mysteries was developed by
 Advanced Tennis scientist Nasif Iskander. We started with the same
 filming protocol Nasif had previously devised to film the speed of the
-ball. ([Click Here](Ball%20Speed%20in%20Pro%20Tennis.docx).) But this
+ball. [Click Here](Ball%20Speed%20in%20Pro%20Tennis.docx) But this
 time we combined it with one of our high speed cameras focused on the
 spin of the ball. Nasif then developed software that allowed us not only
 measure the amount of spin on the ball, but the axis on which the ball

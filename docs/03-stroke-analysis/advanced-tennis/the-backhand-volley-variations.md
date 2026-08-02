@@ -12,7 +12,7 @@ In the last article, we used high speed video from Advanced Tennis
 Research to break down the backhand volley of top players into its
 component parts. We also contrasted these basic components to those in
 the forehand volley, and saw the key similarities and differences.
-([Click Here](The%20Backhand%20Volley.docx).)
+[Click Here](The%20Backhand%20Volley.docx)
 
 Now let's look at the full range of backhand volley variations: high
 volleys, low volleys, volleys hit with different levels of spin and

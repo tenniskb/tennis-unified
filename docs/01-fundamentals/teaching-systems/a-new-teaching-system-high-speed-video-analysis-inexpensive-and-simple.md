@@ -295,7 +295,7 @@ generated](media_a-new-teaching-system-high-speed-video-analysis-inexpensive-and
 Now you are ready to look. Click on a file it'll open in Quick Time. If
 you are a Tennisplayer subscriber you already have Quick Time on your
 computer, but if you don't for any reason you can download it for free.
-([Click Here](http://www.apple.com/quicktime/download/).)
+[Click Here](http://www.apple.com/quicktime/download/)
 
 Why Quick Time? Because it is the only player that allows you to easily
 pause and advance frame by frame.

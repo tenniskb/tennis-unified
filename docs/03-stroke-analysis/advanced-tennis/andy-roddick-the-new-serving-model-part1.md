@@ -307,8 +307,9 @@ your backfoot. You can't keep the front foot on the court, even if you
 try. But the pinpoint players don't do that. They leave with the back
 foot first with the front foot still down. What really happens is that
 the back foot gets pulled along by the action of the front foot and the
-front leg.(See the Myth of the Pinpoint Stance, [Click
-Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html))
+front leg.(See the Myth of the Pinpoint Stance
+
+[Click Here](http://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_pinpoint_stance_images/the_myth_of_the_pinpoint_stance.html)
 
 The leg drive for both the platform and the traditional pinpoint players
 comes mainly from the front foot. But Roddick appears to be the

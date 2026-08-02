@@ -14,8 +14,7 @@ serve.**
 
 In this series we are looking at the Contact Moves to develop world
 class footwork on the return of serve. In the last article, we looked at
-the patterns for aggressive returns. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/).)
+the patterns for aggressive returns. [Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/contact_moves_return/aggressive_return/)
 Now let's turn to defensive returns.
 
 The classic Defensive Contact Move on the return of serve is what I call

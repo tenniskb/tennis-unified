@@ -144,8 +144,7 @@ Long time subscribers of Tennisplayer may remember my previous multiple
 part articles identifying the Contact Moves and their characteristics
 with video examples of elite pro players. That material is available in
 the footwork section of the site in a series of detailed articles.
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/%20footwork.html).)
+[Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/%20footwork.html)
 But in the next article I will attempt to briefly summarize them as
 well.
 

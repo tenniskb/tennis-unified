@@ -38,8 +38,7 @@ predominant at least on hard courts.
 
 That same filming was the first work ever to measure actual spin rates.
 Sampras and Agassi were generating a little less than 2000rpm of spin on
-their forehands. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html).)
+their forehands. [Click Here](https://www.tennisplayer.net/members/mystheavyball/john_yandell/Spintest/spin_test.html)
 Sergi Bruguera was generating spin levels over 3000rpm, but that was
 seen as something that worked only on clay. Rafael Nadal was 11 years
 old.
@@ -57,8 +56,7 @@ confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/ima
 
 **Bruguera's spin levels seemed like an anomaly in 1997.**
 
-We saw in a previous article ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/))
+We saw in a previous article ([Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/classical_tennis_and_modern_tennis/part_01/))
 that classic players of past eras used most of these elements now
 associated with the modern forehand---open stance, leaping with both
 feet in the air, windshield wiper finishes, reverse over the head
@@ -75,12 +73,10 @@ players were better off with more purely classical models?
 
 Because there is so little good film of the strokes of the greats from
 Tilden to Budge to Kramer to Gonzales to Laver (to see the best
-collection anywhere in our Stroke Archive, [**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/strokearchive/strokearchive.html))
+collection anywhere in our Stroke Archive, [Click Here](https://www.tennisplayer.net/members/strokearchive/strokearchive.html))
 it would be hard to create great normative models from the previous with
 real confidence. Perhaps the best source anywhere for understanding the
-classical game is our incredible series from Welby Van Horn. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/teaching_systems/welby_vanhorn/true_master_part1/).)
+classical game is our incredible series from Welby Van Horn. [Click Here](https://www.tennisplayer.net/members/teaching_systems/welby_vanhorn/true_master_part1/)
 
 ![A picture containing text, outdoor, player, scoreboard Description
 automatically
@@ -101,17 +97,14 @@ Many of the current pro elements of course don't apply, despite the
 hopes and delusions of many club players. The important question is
 which ones do?And how do we separate foundational from advanced? This is
 what I have tried to do in my series on the Ultimate Fundamentals
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/ultimate_fundamentals.html).)
+[Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/ultimate_fundamentals.html)
 
 And elsewhere in the Advanced Tennis section I have worked through
 almost the entire pro game in extended detail. There is a lot of
-material. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/index.html).)
+material. [Click Here](https://www.tennisplayer.net/members/avancedtennis/index.html)
 There is also groundbreaking biomechanical research from Brian Gordon
 that brings even greater understanding to issues that were before
-matters of interpretation and opinion. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/index_2.html).)
+matters of interpretation and opinion. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/index_2.html)
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -129,8 +122,7 @@ develop tremendous technical foundations using core elements as models.
 **Split Step**
 
 Let's start with the split step. As Tim Mayotte has recently written
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/famouscoach/tim_mayotte/the_split_step_ready_position/))
+([Click Here](https://www.tennisplayer.net/members/famouscoach/tim_mayotte/the_split_step_ready_position/))
 a great split step separates players even at the pro level. Roger
 Federer is the ultimate example.
 
@@ -223,8 +215,7 @@ be various combinations of first steps happening as the body turns.
 
 There could be a simple pivot, an out step, a backward step, a shuffle
 step or a cross step. David Bailey has outlined them in his phenomenal
-footwork articles ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/footwork.html).)
+footwork articles [Click Here](https://www.tennisplayer.net/members/footwork/footwork.html)
 But the end result is that the right foot usually turns to point
 basically toward the right sideline. The left leg, left foot and hips
 also pivot and come forward, so the foot positioning is offset with the
@@ -275,8 +266,7 @@ confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/ima
 Since Brian Gordon delineated the types of backswings on the forehand
 with his distinction between the so-called WTA and ATP backswings, the
 topic has become the rage on the internet and is the distinction is
-widely accepted by most knowledgeable coaches. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/).)
+widely accepted by most knowledgeable coaches. [Click Here](https://www.tennisplayer.net/members/biomechanics/brian_gordon/developing_an_atp_forehand_part_01/)
 
 His research showed the ATP backswing was both more compact and more
 powerful, in effect \"turbo charging\" the forehand through increased
@@ -288,14 +278,12 @@ and slightly to the outside or away from the player during the
 completion of the turn\--with the hand reaching shoulder height or
 slightly below. The racket face is slightly closed, in what Rick Macci,
 who was heavily influenced in his professional collaboration with Brian,
-calls the \"tap the dog\" position. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
+calls the \"tap the dog\" position. [Click Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/)
 
 From this backswing position, the racket moves down with the hitting
 hand staying the player's right side. This is in comparison to the
 so-called WTA backswing of a player like Madison Keys in which the hand
-moves backward behind the plane of the body. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/bulletin/forum/tennisplayer/66212-interactive-forum-october-2017-madison-keys-groundstrokes).)
+moves backward behind the plane of the body. [Click Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/66212-interactive-forum-october-2017-madison-keys-groundstrokes)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/image10.webp)
@@ -325,8 +313,7 @@ automatic consequence of the move through the flip.
 It is situational and tends to happen most on lower balls and far less
 on higher balls. And many great, great forehands---for example Juan
 Martin Delpotro's forehand have little to no racket face closure. (For
-an article on the Myth of the Dog Pat [**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_dog/).)
+an article on the Myth of the Dog Pat [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_the_dog/).)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/image11.webp)
@@ -339,8 +326,7 @@ completion of the flip and diminish the creation of energy and the
 natural and automatic benefits of the outside backswing by putting a
 mechanical muscle movement into the middle of a critical part of the
 swing. (For an example of the negative effects of trying to pat the dog
-in the forehand a good club player, [**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/your_strokes/fred_bye_fh_3_01_05/fred_bye_fh_3_01_05.html).)
+in the forehand a good club player, [Click Here](https://www.tennisplayer.net/members/your_strokes/fred_bye_fh_3_01_05/fred_bye_fh_3_01_05.html).)
 
 **Accelerator?**
 
@@ -376,8 +362,7 @@ The fact is the precise size and shape of the backswing varies
 tremendously among great players. Many years ago I dove all the way into
 the question and took a detailed looked at the players then at the top
 of the game from Pete Sampras to Andre Agassi to Gustavo Kuerten to
-Marat Safin and others. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html).)
+Marat Safin and others. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/building_modern_forehand_backswing_page1/building_modern_forehand_backswing_page1.html)
 
 I found different hand heights, different racket tip heights, different
 racket tip angles, different shapes in the racket paths, different
@@ -465,8 +450,7 @@ hips, left leg and left foot. Players cannot coil and load as fully. In
 fact if you look at a pro player like Andy Murray, one of the problems
 in his forehand is that he uses more fully open stances and doesn't
 turn as fully as players like Nadal, Federer or Djokovic on balls where
-he could. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/).)
+he could. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/building%20_the_modern%20_forehand/andy_murray_open_stance_forehand/)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/image16.webp)
@@ -586,8 +570,7 @@ school classical players.
 
 We also addressed some bad ideas\--though unfortunately widely
 disseminated\--regarding the timing of preparation, the angle of the
-racket face, and the inferiority of fully open stances. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/).)
+racket face, and the inferiority of fully open stances. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/)
 
 Now let's look at the core elements in forward swing on a basic
 forehand power drive. And the conclusion is the same. As with
@@ -696,8 +679,7 @@ generated](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/imag
 **The hand drops at most only slightly below the ball.**
 
 I wrote about this in detail in an article called Myths About Low to
-High in the Modern Forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_low_to_high/).)
+High in the Modern Forehand. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_low_to_high/)
 As with so many things these elements are impossible to see without high
 speed video.
 
@@ -732,8 +714,7 @@ a power drive.
 **Extension Position**
 
 And what is that finish position? I summarize it in my forehand article
-in Ultimate Fundamentals section. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+in Ultimate Fundamentals section. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 But let's understand it in more depth by looking at the entire path of
 the forward swing.
 
@@ -842,8 +823,7 @@ confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/ima
 with less extension.**
 
 I've detailed the relation between all these factors in an article in
-the Advanced Tennis section. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
+the Advanced Tennis section. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)
 But the key in developing a power topspin drive is understanding what's
 more basic and what is a variation.
 
@@ -879,8 +859,7 @@ If you swing to extension and make the checkpoints, you will naturally
 decelerate or wrap. It would be dangerous probably not to.
 
 Years ago I wrote an article distinguishing this natural wrap and
-natural deceleration from the \"mechanical\" wrap. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+natural deceleration from the \"mechanical\" wrap. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 What it showed was that players often don't make the extension point
 when they are concentrating on forcing the wrap. Instead of maximizing
 acceleration, they were actually limiting it.
@@ -896,8 +875,7 @@ decelerated exponentially.
 So speaking of acceleration let's address another horrible internet
 myth: \"lag and snap.\" Again this is a prevailing view on the internet,
 and I have written extensively about why it's a fatal impediment to
-developing a great forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+developing a great forehand. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-modern-tennis-forehand-where-are-we-now/media/image31.webp)
@@ -984,8 +962,7 @@ forehand.**
 
 So after all that discussion and complexity and controversy we get back
 to two simple points. Develop great preparation as described in the
-first article (Again, ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/).)
+first article (Again, [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/)
 Develop great extension as described here. Develop a clear feeling and a
 clear mental image of both with the checkpoints. You will have a great
 forehand---classical, modern, or in between.

@@ -88,8 +88,6 @@ By the end of this four-article series, you'll have a complete mental model of h
 
 ---
 
-**Read the full article with diagrams and footwork animations:**
-
-**[Return of Serve — Contact Moves Introduction (full article)](../../01-fundamentals/footwork/return-of-serve-contact-moves-introduction.html)**
+**Read the full article with diagrams and footwork animations:Return of Serve — Contact Moves Introduction (full article)(../../01-fundamentals/footwork/return-of-serve-contact-moves-introduction.html)**
 
 [← Back to Footwork index](index.md) | [Browse all Footwork articles →](../../01-fundamentals/footwork/index.md)

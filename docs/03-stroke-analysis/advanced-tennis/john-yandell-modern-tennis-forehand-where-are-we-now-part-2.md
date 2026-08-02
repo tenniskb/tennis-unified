@@ -24,8 +24,7 @@ school classical players.
 
 We also addressed some bad ideas\--though unfortunately widely
 disseminated\--regarding the timing of preparation, the angle of the
-racket face, and the inferiority of fully open stances. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/).)
+racket face, and the inferiority of fully open stances. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/)
 
 Now let's look at the core elements in forward swing on a basic
 forehand power drive. And the conclusion is the same. As with
@@ -134,8 +133,7 @@ generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part-2/med
 **The hand drops at most only slightly below the ball.**
 
 I wrote about this in detail in an article called Myths About Low to
-High in the Modern Forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_low_to_high/).)
+High in the Modern Forehand. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/the_myth/the_myth_of_low_to_high/)
 As with so many things these elements are impossible to see without high
 speed video.
 
@@ -170,8 +168,7 @@ a power drive.
 **Extension Position**
 
 And what is that finish position? I summarize it in my forehand article
-in Ultimate Fundamentals section. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+in Ultimate Fundamentals section. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 But let's understand it in more depth by looking at the entire path of
 the forward swing.
 
@@ -280,8 +277,7 @@ confidence](media_john-yandell-modern-tennis-forehand-where-are-we-now-part-2/me
 with less extension.**
 
 I've detailed the relation between all these factors in an article in
-the Advanced Tennis section. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html).)
+the Advanced Tennis section. [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/your_forehand_and_the_modern_forehand/hand_arm_rotation/hand_arm_rotation.html)
 But the key in developing a power topspin drive is understanding what's
 more basic and what is a variation.
 
@@ -317,8 +313,7 @@ If you swing to extension and make the checkpoints, you will naturally
 decelerate or wrap. It would be dangerous probably not to.
 
 Years ago I wrote an article distinguishing this natural wrap and
-natural deceleration from the \"mechanical\" wrap. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+natural deceleration from the \"mechanical\" wrap. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 What it showed was that players often don't make the extension point
 when they are concentrating on forcing the wrap. Instead of maximizing
 acceleration, they were actually limiting it.
@@ -334,8 +329,7 @@ decelerated exponentially.
 So speaking of acceleration let's address another horrible internet
 myth: \"lag and snap.\" Again this is a prevailing view on the internet,
 and I have written extensively about why it's a fatal impediment to
-developing a great forehand. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/).)
+developing a great forehand. [Click Here](https://www.tennisplayer.net/members/ultimate_fundamentals/john_yandell/the_forehand/)
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-modern-tennis-forehand-where-are-we-now-part-2/media/image12.webp)
@@ -422,8 +416,7 @@ forehand.**
 
 So after all that discussion and complexity and controversy we get back
 to two simple points. Develop great preparation as described in the
-first article (Again, ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/).)
+first article (Again, [Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_tennis/what_have_we_learned/)
 Develop great extension as described here. Develop a clear feeling and a
 clear mental image of both with the checkpoints. You will have a great
 forehand---classical, modern, or in between.

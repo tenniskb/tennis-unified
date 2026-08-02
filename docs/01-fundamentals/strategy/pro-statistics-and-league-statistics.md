@@ -14,7 +14,7 @@ Craig O'Shannessey has revolutionized the way knowledgeable coaches
 think about rally length in pro tennis with statistics showing that 1
 and 2 hit points are the norm and that long rallies of 10 plus balls are
 actually rare. He's already written extensively about it on
-Tennisplayer. ([Click Here](The%20Magic%20Number%20One.docx).)
+Tennisplayer. [Click Here](The%20Magic%20Number%20One.docx)
 
 But do those numbers apply to the rest of us? To find out I did a
 statistical study of women's league play in Atlanta, Georgia. The

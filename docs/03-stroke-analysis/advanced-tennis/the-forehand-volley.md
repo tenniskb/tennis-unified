@@ -280,7 +280,7 @@ points across the body at a similar angle.
 If you've read the articles on preparation on the forehand in the
 Advanced Tennis section, you'll realize that this is basically a
 segment of the same unitary preparation as on the forehand groundstroke.
-([Click Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx).)
+[Click Here](Common%20Elements%20Across%20the%20Grip%20Styles.docx)
 Rather than the shoulders and feet turning 90 degrees plus, they turn
 roughly half as far.
 

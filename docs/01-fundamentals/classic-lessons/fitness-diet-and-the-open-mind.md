@@ -12,7 +12,7 @@ generated](media_fitness-diet-and-the-open-mind/media/image1.jpg)
 
 In part 1 of this series we heard from some of the smartest people in
 tennis weighing in on some of invisible factors that make critical
-contributions to greatness. ([Click Here](Invisible%20Greatness.docx).)
+contributions to greatness. [Click Here](Invisible%20Greatness.docx)
 Let's continue to explore the mystery in this second article looking at
 elements including fitness, diet, classical music, and the role of an
 open mind.

@@ -14,8 +14,7 @@ Spanish forehand.**
 In the first article in this series, I outlined the theoretical
 framework I have developed for building the Spanish forehand, including
 what I believe are the distinguishing technical characteristics of the
-shot. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/).)
+shot. [Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/the_spanish_forehand/)
 
 These include: the shoulder turn and the coiling of the legs, extreme
 body rotation through the forward swing, parabolic swing shapes, the
@@ -75,8 +74,7 @@ confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/
 
 It is said that good coaches invent, great coaches steal. Here I'm
 stealing from the work legendary Robert Lansdorp has done on
-Tennisplayer. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html) to
+Tennisplayer. ([Click Here](https://www.tennisplayer.net/members/classiclessons/chris_lewit/building_the_spanish_forehand_exercises/famouscoach/robert_lansdorp/lansdorp_forehand_images/lansdorp_forehand.html) to
 see Robert's article that includes his original version of this drill.)
 
 The purpose of the drill is to force the player to extend through the
@@ -187,8 +185,7 @@ generated with medium
 confidence](media_building-the-spanish-forehand-stroke-shaping-and-hand-feeding/media/image9.webp)
 
 Here is a version of the classic Spanish defensive movement drill that I
-have written about in a previous article for Tennisplayer. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_training_styles) to
+have written about in a previous article for Tennisplayer. ([Click Here](https://www.tennisplayer.net/members/high_performance/chris_lewit/two_coaches_training_styles) to
 see me doing this drill with an older, higher level player.)
 
 The player retreats back to receive the ball, letting the height drop
@@ -278,8 +275,7 @@ drive.
 
 This exercise provides a natural opportunity for players to work on
 developing their \"reverse forehand \" finish technique, a term
-popularized by Robert Lansdorp. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_revisited/lansdorp_reverse_forehand_revisited.html) to
+popularized by Robert Lansdorp. ([Click Here](https://www.tennisplayer.net/members/famouscoach/robert_lansdorp/lansdorp_reverse_forehand_revisited/lansdorp_reverse_forehand_revisited.html) to
 see his latest article on that topic.)
 
 Watch how my player demonstrates a nice reverse finish in this clip,

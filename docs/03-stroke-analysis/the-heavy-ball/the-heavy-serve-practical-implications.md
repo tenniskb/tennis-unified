@@ -22,7 +22,7 @@ relative amounts of slice and topspin in the balls. Pete had a higher
 topspin component and this was the difference in the amount of topspin
 after the bounce and the height of the bounce. Interestingly our data
 was consistent with first hand accounts of what it was actually like to
-face the serve of both players. ([Click Here](Speed%20and%20Spin.docx).)
+face the serve of both players. [Click Here](Speed%20and%20Spin.docx)
 
 ![A person playing tennis Description automatically generated with
 medium

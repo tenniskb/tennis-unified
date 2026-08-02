@@ -12,10 +12,8 @@ generated](media_the-counter-attacking-contact-moves/media/image1.webp)
 counterattacking Contact Moves.**
 
 In the last two articles, we looked at Contact Moves used for attacking,
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves))
-and Contact Moves used for building points. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/building_contact_moves/))
+([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/attacking_contact_moves))
+and Contact Moves used for building points. ([Click Here](https://www.tennisplayer.net/members/footwork/david_bailey/world_class_movement/building_contact_moves/))
 Now let's move on to a third category: Counter Attacking.
 
 Counter attacking means answering a forcing shot with a forcing shot of

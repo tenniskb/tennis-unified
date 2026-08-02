@@ -12,15 +12,13 @@ backhand?
 In this series we have been looking at the technical characteristics of
 the slice backhand, and also the differences in the swing shapes between
 the so-called classic slice and the more extreme modern slice.
-([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/teaching_systems/john_yandell/slice_backhand/modern_slice).)
+[Click Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/slice_backhand/modern_slice)
 
 A natural question is what are the flight characteristics of each
 version? What are the differences in the amount of spin and how do these
 differences affect the bounce height at the other end of the court?
 
-Using a pocket radar gun ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_change_radar_technology/) for
+Using a pocket radar gun ([Click Here](https://www.tennisplayer.net/members/technology_in_teaching/john_yandell/measuring_change_radar_technology/) for
 more on that) and a high speed camera, I designed an experiment to see.
 My three great friends, Scott Murphy, Karsten Popp, and Giancarlo
 Andreani agreed to help me by letting me measure their slice backhands.
@@ -41,8 +39,7 @@ for all three of 50mph or a little higher.
 So what about spin levels? Karsten's classic slice with a relatively
 level swing plane measured an average of 1500 outgoing rpm.
 Interestingly, that is the exact number of rpms Vic Braden found decades
-ago when he measured Ken Rosewall. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92201-interactive-forum-january-2021-ken-rosewall-backhand) to
+ago when he measured Ken Rosewall. ([Click Here](https://www.tennisplayer.net/bulletin/forum/tennisplayer/92201-interactive-forum-january-2021-ken-rosewall-backhand) to
 see rare footage of Ken's backhand.)
 
 Different spin levels meant different bounce heights.
@@ -53,8 +50,7 @@ His rpm average was higher, a little more than 2000.
 Giancarlo's slice, which has a larger backswing and a modern, more
 extreme downward swing came in at 3200rpm. His motion looks virtually
 identical to Federer, and interestingly his rpms were virtually the same
-as well. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_1/) for
+as well. ([Click Here](https://www.tennisplayer.net/members/avancedtennis/john_yandell/modern_pro_slice_1/) for
 more on slice rpms of Federer and other pro players.)
 
 So what did those differences mean at the other end of the court? We set

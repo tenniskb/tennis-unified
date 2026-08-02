@@ -56,8 +56,7 @@ forward during the swing.
 
 The out step (or the first step) to initiate the movement is a pivot
 step or a step out, sometimes followed by small adjusting steps.
-([**[Click
-Here]{.underline}**](http://www.tennisplayer.net/members/footwork/footwork.html) for
+([Click Here](http://www.tennisplayer.net/members/footwork/footwork.html) for
 more info on outsteps, as explained in the groundstroke articles.)
 
 The player sets up the rear or outside foot at angle of about 45 degrees
@@ -147,8 +146,7 @@ are able to hit an aggressive forehand return.
 
 The out steps are shuffle steps, like those used on and inside out
 forehand groundstroke, as the player moves around the ball to his or her
-left. ([**[Click
-Here]{.underline}**](http://www.tennisplayer.net/members/footwork/david_bailey/contact_move/the_transfer/the_transfer.html) for
+left. ([Click Here](http://www.tennisplayer.net/members/footwork/david_bailey/contact_move/the_transfer/the_transfer.html) for
 more about movment patterns on run around forehand groundstrokes.)
 
 For the Runaround Transfer, the hitting stance is usually semi open as

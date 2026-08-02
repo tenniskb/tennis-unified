@@ -20,13 +20,11 @@ should your intention be?
 
 **Downward Flight**
 
-As Jim Fawcette's Amazing Tour Portraits showed last month ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/tourportraits/jim_fawcette/serve_contact_height/)),
+As Jim Fawcette's Amazing Tour Portraits showed last month ([Click Here](https://www.tennisplayer.net/members/tourportraits/jim_fawcette/serve_contact_height/)),
 the flight of the ball off the racket face is without dispute at a
 slight downward angle. This is also obvious in the High Speed Archives,
 and it's the same for both first and second serves. Check out the
-sideviews of any of the servers there. ([**[Click
-Here]{.underline}**](https://www.tennisplayer.net/members/high_speed_archive/).)
+sideviews of any of the servers there. [Click Here](https://www.tennisplayer.net/members/high_speed_archive/)
 
 So if the flight is downward, the racket face must also be angled
 slightly downward. So does this mean the correct explanation is you have

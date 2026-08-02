@@ -8,7 +8,7 @@ generated](media_contact-moves-the-power-move/media/image1.webp)
 **Top players use the Power Move when they are pushed wide on the run.**
 
 In previous articles, we've looked at the Aggressive and Neutral
-Contact Moves. ([Click Here](Footwork%20TOC.docx).) Now it's time to
+Contact Moves. [Click Here](Footwork%20TOC.docx) Now it's time to
 look at the Defensive Contact Moves.
 
 We'll start by looking at what I call the Power Move, the basis for the
@@ -170,7 +170,7 @@ that the racket path on the forehand Power Move is usually more upward,
 with the finish over the player's head.
 
 This is the \"reverse forehand\" finish described by Robert Lansdorp.
-([Click Here](../Famous%20Coaches/The%20Reverse%20Forehand.docx).) We
+[Click Here](../Famous%20Coaches/The%20Reverse%20Forehand.docx) We
 can see this most famously in the Sampras running forehand, but the same
 swing pattern is used by most of the top pros.
 

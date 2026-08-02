@@ -15,7 +15,7 @@ with my state championship teams.**
 
 In the first article in this series, I talked about the importance of
 unconditional self-acceptance as one of the foundations of true
-confidence. ([Click Here](Self-Acceptance%20and%20Confidence.docx).)
+confidence. [Click Here](Self-Acceptance%20and%20Confidence.docx)
 
 Tennis gives you an opportunity to learn a lot about yourself. If you
 have confidence, you need to use it effectively. If you don't have
