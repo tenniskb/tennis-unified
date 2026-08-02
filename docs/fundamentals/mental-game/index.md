@@ -75,4 +75,4 @@ The mind is where matches are won or lost.
 
 ---
 
-**Start here:** [Peak Performance Part 1](a-practical-guide-to-peak-performance-part-1.md) → [Choking](choking-yes-even-in-the-us-open-final.md) → [Momentum](momentum-an-introduction-to-the-5-stages.md)
+**Start here:** [Peak Performance Part 1](../../01-fundamentals/mental-game/a-practical-guide-to-peak-performance-part-1.html) → [Choking](../../01-fundamentals/mental-game/choking-yes-even-in-the-u-s-open-final.html) → [Momentum](../../01-fundamentals/mental-game/momentum-an-introduction-to-the-5-stages.html)

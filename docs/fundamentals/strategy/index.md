@@ -98,4 +98,4 @@ Winning isn't about hitting harder — it's about playing smarter.
 
 ---
 
-**Start here:** [Strategy Zone Introduction](the-strategy-zone-introduction.md) → [Opening the Court Part 1](opening-the-court-part-1.md) → [Pro Patterns](pro-patterns-basic-diagonals.md)
+**Start here:** [Strategy Zone Introduction](../../01-fundamentals/strategy/the-strategy-zone-introduction.html) → [Opening the Court Part 1](../../01-fundamentals/strategy/opening-the-court-part-1.html) → [Pro Patterns](../../01-fundamentals/strategy/pro-patterns-basic-diagonals.html)

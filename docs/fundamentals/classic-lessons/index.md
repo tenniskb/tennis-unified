@@ -126,4 +126,4 @@ Time-tested lessons from the masters.
 
 ---
 
-**Start here:** [1-2 Rhythm Forehand](1-2-rhythm-forehand.md) → [Building Spanish Forehand](building-the-spanish-forehand.md) → [Kick Serve Part 1](constructing-the-kick.md)
+**Start here:** [1-2 Rhythm Forehand](../../01-fundamentals/classic-lessons/1-2-rhythm-forehand.html) → [Building Spanish Forehand](../../01-fundamentals/classic-lessons/building-the-spanish-forehand.html) → [Kick Serve Part 1](../../01-fundamentals/classic-lessons/constructing-the-kick.html)

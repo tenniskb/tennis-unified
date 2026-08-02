@@ -81,4 +81,4 @@ Insights from the world's greatest tennis coaches.
 
 ---
 
-**Start here:** [The Framework - New Paradigm](the-framework-a-new-paradigm-for-technique-and-movement.md) → [Seven Modern Topspin Forehands](the-seven-modern-topspin-forehands.md) → [Lansdorp Champion's Mind](robert-lansdorp-and-the-champions-mind.md)
+**Start here:** [The Framework - New Paradigm](../../01-fundamentals/famous-coaches/the-framework-a-new-paradigm-for-technique-and-movement.html) → [Seven Modern Topspin Forehands](../../01-fundamentals/famous-coaches/the-seven-modern-topspin-forehands.html) → [Lansdorp Champion's Mind](../../01-fundamentals/famous-coaches/robert-lansdorp-and-the-champion-s-mind.html)
