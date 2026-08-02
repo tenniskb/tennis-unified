@@ -20,22 +20,22 @@ description: Bộ sưu tập 17 chương hướng dẫn quần vợt toàn diệ
 ### Phần 2: Kỹ thuật Cú đánh
 4. [Các kiểu cầm vợt](cach-cam-vot.md)
 5. [Giao bóng — Kỹ thuật, biến tốc, xoáy](giao-bong.md)
-6. [Đỡ giao bóng — Đọc, chặn, sống sót](do-giao-bong.md)
-7. [Đánh thuận tay — Kỹ thuật nền tảng](danh-thuan-tay.md)
-8. [Đánh trái tay — Một tay & Hai tay](danh-trai-tay.md)
-9. [Đánh bóng nhỏ và bóng bổng](bong-nho-bong-bong.md)
-10. [Đánh bóng tấn công — Tiến lên lưới](danh-tan-cong.md)
-11. [Đánh bóng bổng (Volley) — Chốt điểm tại lưới](danh-bong-bong.md)
+6. **Đỡ giao bóng — Đọc, chặn, sống sót** *(đang biên soạn)*
+7. **Đánh thuận tay — Kỹ thuật nền tảng** *(đang biên soạn)*
+8. **Đánh trái tay — Một tay & Hai tay** *(đang biên soạn)*
+9. **Đánh bóng nhỏ và bóng bổng** *(đang biên soạn)*
+10. **Đánh bóng tấn công — Tiến lên lưới** *(đang biên soạn)*
+11. **Đánh bóng bổng (Volley) — Chốt điểm tại lưới** *(đang biên soạn)*
 
 ### Phần 3: Chiến thuật & Tâm lý
-12. [Đơn — Chiến thuật & Định vị](don.md)
-13. [Đôi — Vị trí, phối hợp, chiến thuật](doi.md)
-14. [Tâm lý — Tập trung, bình tĩnh, chiến thuật](tam-ly.md)
-15. [Thể lực — Sức bền, tốc độ, sức mạnh](the-luc.md)
+12. **Đơn — Chiến thuật & Định vị** *(đang biên soạn)*
+13. **Đôi — Vị trí, phối hợp, chiến thuật** *(đang biên soạn)*
+14. **Tâm lý — Tập trung, bình tĩnh, chiến thuật** *(đang biên soạn)*
+15. **Thể lực — Sức bền, tốc độ, sức mạnh** *(đang biên soạn)*
 
 ### Phần 4: Tâm trí & Tương lai
-16. [Tổng kết & Triết lý tập luyện](tong-ket.md)
-17. [Những kỹ thuật tương lai](ky-thuat-tuong-lai.md)
+16. **Tổng kết & Triết lý tập luyện** *(đang biên soạn)*
+17. **Những kỹ thuật tương lai** *(đang biên soạn)*
 
 ---
 

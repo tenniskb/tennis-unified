@@ -1,6 +1,6 @@
 ---
 title: Tennis Unified Library
-description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Foundation/Advanced/Elite, Anatomy Lab, Angle Atlas, Reference Library, and more
+description: Comprehensive unified tennis knowledge base — Fundamentals, Stroke Analysis, Reference Library, and Tennis Wiki Reference
 ---
 
 # Welcome to Tennis Unified Library
@@ -27,30 +27,6 @@ Pick the path that matches what you're looking for. Every entry point below lead
 
     **[140+ Articles :material-arrow-right:](stroke-analysis/index.html)** — Advanced Tennis (Yandell), Biomechanics, The Heavy Ball & Tour Strokes. Deep technical breakdowns of pro strokes.
 
--   :material-layers-triple:{ .lg .middle } **Foundation (tenniskb)**
-
-    ---
-
-    **[Bilingual EN/VI :material-arrow-right:](foundation/index.html)** — Basics & 40 Deep Dives: Embodied Cognition, Two Engines, Proprioception, Tensegrity, Fascia & Constraint-Led Learning.
-
--   :material-rocket-launch:{ .lg .middle } **Advanced & Elite**
-
-    ---
-
-    **[Advanced](advanced/index.html)** & **[Elite](elite/index.html)** — Tactical patterns, decision latency, HRV, self-coaching & performance psychology for 4.5+ players.
-
--   :material-dna:{ .lg .middle } **Anatomy Lab**
-
-    ---
-
-    **[8 Chapters :material-arrow-right:](anatomy-lab/index.html)** — Player in Motion, Shoulders, Arms/Wrists/Hands, Trunk, Hips, Knees, Ankles & Control System.
-
--   :material-triangle-outline:{ .lg .middle } **Angle Atlas**
-
-    ---
-
-    **[7 Chapters :material-arrow-right:](angle-atlas/index.html)** — Biomechanics through joint angles, springs, muscle hierarchy, skeletal architecture & sensor systems.
-
 -   :material-bookshelf:{ .lg .middle } **Reference Library**
 
     ---
@@ -73,11 +49,6 @@ Pick the path that matches what you're looking for. Every entry point below lead
 |---|---|
 | **Learn fundamentals from scratch** | [Fundamentals → Footwork](fundamentals/footwork/index.html) |
 | **Fix a specific stroke** | [Stroke Analysis → Advanced Tennis](stroke-analysis/advanced-tennis/index.html) |
-| **Understand WHY techniques work** | [Foundation → Deep Dives](foundation/deep-dives/index.html) |
-| **Advanced tactics & patterns** | [Advanced → Deep Dives](advanced/deep-dives/index.html) |
-| **Elite mental/self-coaching** | [Elite → Deep Dives](elite/deep-dives/index.html) |
-| **Anatomy for injury prevention** | [Anatomy Lab](anatomy-lab/index.html) |
-| **Biomechanics by joint angles** | [Angle Atlas](angle-atlas/index.html) |
 | **Complete training manuals** | [Reference Library → Coauthored Books](reference-library/coauthored-books/index.html) |
 | **Bilingual quick reference** | [Tennis Wiki Reference](tennis-wiki-reference/index.html) |
 
@@ -86,7 +57,7 @@ Pick the path that matches what you're looking for. Every entry point below lead
 ## Navigation & Features
 
 - **Instant Search** — Full-text search across all 1,300+ articles
-- **Bilingual EN/VI** — Language toggle for Foundation, Advanced, Elite & Wiki Reference
+- **Bilingual EN/VI** — Language toggle for Wiki Reference
 - **Preserved Media** — High-speed video frame sequences, biomechanics diagrams & coaching illustrations
 - **Structured Hierarchy** — Maximum 3 clicks to reach any article
 
