@@ -54,7 +54,7 @@ Chương 11 Giáo án 12 tuần \...\...\...\... 45
 
 Chương 12 Tự đánh giá và kiểm tra tiến độ \...\...\...\... 49
 
-**[PHẦN 1]{.mark}**
+**PHẦN 1**
 
 | **PHẦN 1 --- NỀN TẢNG SINH CƠ HỌC** |
 | --- |

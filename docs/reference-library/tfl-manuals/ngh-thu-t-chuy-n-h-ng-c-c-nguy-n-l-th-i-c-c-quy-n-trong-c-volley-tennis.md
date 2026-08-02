@@ -17,7 +17,7 @@ vợt để làm chủ cú volley như một sự chuyển hướng lực tinh t
 
 1\. Cầm Vợt Volley: Nền Tảng Của Sự Nhạy Cảm
 
-Tài liệu [Volleygrip.md]{.underline} nhấn mạnh rằng cú volley không phải
+Tài liệu Volleygrip.md nhấn mạnh rằng cú volley không phải
 là một cú vung vợt mà là một sự chuyển hướng \[1\]. Điều này đòi hỏi một
 cách cầm vợt không bị nén chặt hoàn toàn, cho phép vợt có những \"chuyển
 động nhỏ\" bên trong lòng bàn tay.
@@ -52,7 +52,7 @@ trên dây vợt\" và điều khiển nó một cách chính xác \[1\].
 
 2\. Các Khung Cấu Trúc: Hình Chữ U và Chữ L
 
-Theo tài liệu [volley.md]{.underline}, việc duy trì các khung hình học
+Theo tài liệu volley.md, việc duy trì các khung hình học
 cụ thể giữa cẳng tay và vợt là chìa khóa cho sự ổn định và kiểm soát
 \[5\].
 

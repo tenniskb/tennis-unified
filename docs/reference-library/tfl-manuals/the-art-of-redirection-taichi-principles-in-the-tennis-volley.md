@@ -16,7 +16,7 @@ as a sophisticated redirection of force.
 
 1\. The Volley Grip: A Foundation of Sensitivity
 
-The [Volleygrip.md]{.underline} document emphasizes that a volley is not
+The Volleygrip.md document emphasizes that a volley is not
 a swing but a redirection \[1\]. This requires a grip that is not fully
 compressed, allowing for \"mini-movements\" of the handle.
 
@@ -50,7 +50,7 @@ the ball on the strings\" and steer it with precision \[1\].
 
 2\. Structural Archetypes: U-Shape and L-Shape
 
-According to the [volley.md]{.underline} document, maintaining specific
+According to the volley.md document, maintaining specific
 geometric frames between the forearm and racquet is key for stability
 and control \[5\].
 
