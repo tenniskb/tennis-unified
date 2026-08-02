@@ -23,10 +23,10 @@ That the idea of starting two feet below the ball is a myth. And that in
 the new era of the windshield wiper forehand, the actual height can vary
 slightly but in a startlingly way.
 
-***[[The two key reference points for understanding the height of the
+***The two key reference points for understanding the height of the
 swing are the racket hand and the racket head. The definition of high to
 low can be very different depending on which one you look
-at.]{.mark}]{.underline}***
+at.***
 
 Most people think of the \"low to high\" path as something that is
 controlled by the hand. But the reality is, as we have seen in past
@@ -54,10 +54,10 @@ rotation of the hand, arm, and racket before, during and after the hit.
 
 **Start of the Wiper**
 
-**[[The key to understanding this apparent paradox is understanding both
+**The key to understanding this apparent paradox is understanding both
 parts of the windshield wiper, a technical element that has become
 ubiquitous in the modern game, especially the part of the wiper that
-happens before the contact.]{.mark}]{.underline}**
+happens before the contact.**
 
 Most explanations of the windshield wiper focus on the path of the
 racket from the contact to the followthrough. In this part of the swing,
@@ -99,10 +99,10 @@ swing and what really constitutes low to high. This is because the
 racket arm does not simply or only rotate forward from
 contact.]{.mark}**
 
-**[[This backward rotation places the racket head below the ball
+**This backward rotation places the racket head below the ball
 regardless of the actual height of the hand. Most pro forehands in the
 modern era have at least some of this backward
-rotation.]{.mark}]{.underline}**
+rotation.**
 
 The amount of backward rotation is just as variable as the forward
 rotation described above. In the extreme case this backward rotation can
@@ -125,20 +125,20 @@ This is what explains the seeming paradox of the hand height. When the
 arm rotates backward, the hand can be slightly above the level of the
 ball and the racket head can still be well below.
 
-***[[The massive forward or upward rotation of the hitting arm from this
+***The massive forward or upward rotation of the hitting arm from this
 position is a critical dimension in the low to high motion. The amount
 of this rotation and the speed of this rotation help explain the
 increases in spin in the pro game, where players routinely generating up
 to 3000rpm of spin and more on forehand drives that can reach 90 or
-100mph.]{.mark}]{.underline}***
+100mph.***
 
 How does all this relate with the traditional idea of \"brushing\" up
 the back of the ball for topspin? There isn't a contradiction. The two
 actually work together.
 
-***[[The brushing action is different than the wiper rotation. The
+***The brushing action is different than the wiper rotation. The
 brushing comes from the upward, lifting action of the arm from the
-shoulder.]{.mark}]{.underline}*** Watch in the animation how the hand
+shoulder.*** Watch in the animation how the hand
 and arm lift the racket so that brushes up the back of the ball. This
 brushing is going on simultaneously with the wiper.
 
@@ -205,9 +205,9 @@ It's fun to understand and experiment. And the full wiper can be very,
 very effective on many balls\--high and heavy, short low and wide. Or to
 hit deep, high bouncers.
 
-***[[Just remember that the extension of the swing is what creates a
+***Just remember that the extension of the swing is what creates a
 real power drive. That hasn't changed in pro tennis and it hasn't
-changed at any other level.]{.mark}]{.underline}***
+changed at any other level.***
 
 In general when I see students in person this is one of the elements
 that is almost always in need of improvement\--extension of the forward

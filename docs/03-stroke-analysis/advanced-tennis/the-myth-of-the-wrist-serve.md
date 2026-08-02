@@ -75,8 +75,8 @@ Far from being the key to power and spin, then, the role of the wrist in
 the serve appears to be passive. It plays virtually no role in creating
 a great swing path and good ball contact, and the attempt to emphasize
 the wrist in the hitting action is misguided and counterproductive.
-***[[As one well-known national coach puts it: the wrist is along for
-the ride.]{.mark}]{.underline}***
+***As one well-known national coach puts it: the wrist is along for
+the ride.***
 
 No significant wrist action at contact on the serve? How could that be?
 Before you call up your personal teaching professional and berate him
@@ -170,9 +170,9 @@ shoulders.
 ![A person playing tennis Description automatically generated with low
 confidence](media_the-myth-of-the-wrist-serve/media/image8.webp)
 
-**[[Despite the many differences in their motions, Sampras and Rusedski
+**Despite the many differences in their motions, Sampras and Rusedski
 share the 3 key elements of racquet drop, triceps extension, and
-internal arm rotation.]{.mark}]{.underline}**
+internal arm rotation.**
 
 The average player may or may not have the flexibility to model this
 position exactly, and may need a higher elbow position in order to

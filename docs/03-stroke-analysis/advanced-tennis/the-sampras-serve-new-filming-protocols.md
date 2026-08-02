@@ -333,10 +333,10 @@ the opponent hits a weak floating return. **[Most the returns are coming
 back at 80 or 90 mph. And that is a major factor accounting for the lack
 of serve and volley play.]{.mark}**
 
-**[[In the modern game, the first volley is usually hit about half way
+**In the modern game, the first volley is usually hit about half way
 between the service line and the baseline. It's a function of now fast
 the ball comes back to the server. And it makes the first volley very
-difficult.]{.mark}]{.underline}**
+difficult.**
 
   ------------------------------------
 

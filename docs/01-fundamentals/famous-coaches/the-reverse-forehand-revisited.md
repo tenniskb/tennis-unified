@@ -132,11 +132,11 @@ is not in the amount of spin, but the type of
 spin.**
 
 **When you hit a regular forehand topspin, the ball actually rotates
-more in a straight line. It's more of a pure topspin**. **[[But when
+more in a straight line. It's more of a pure topspin**. **But when
 you reverse it, it's not exactly the same spin. When you reverse it,
 you get a combination of side spin and topspin on the ball.  The spin is
 different because you come across the ball a little bit
-different.]{.mark}]{.underline}**
+different.**
 
 So with the reverse, the ball jumps and then moves. It doesn't jump and
 go straight. A regular topspin goes up, comes down, and goes up. **[[The
@@ -250,12 +250,12 @@ So, first I see how they manage the reverse, what it feels like and what
 kind of spin comes off the racket and where does the ball go. How they
 react to it depends on the type of player.
 
-**[[Some kids are just drivers all the time, and some kids are spinners
+**Some kids are just drivers all the time, and some kids are spinners
 all the time, you know? So, when you have a spinner and you have a
 reverse, the ball probably will go pretty high. With those kids, you
 have to teach them to drive through the ball more, not come up as quick,
 but actually come through the ball and then make the reverse
-motion.]{.mark}]{.underline}**
+motion.**
 
 **And then some kids are the opposite, they're always bangers. Those
 kids, you have to actually teach them to put a little more spin on it

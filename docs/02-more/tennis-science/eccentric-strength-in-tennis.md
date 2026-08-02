@@ -41,10 +41,10 @@ this article are:**
 | ----------------------------------------------------- |
 
 
-**[The movers of the body are the muscles.]{.mark}** **[[Through their
+**[The movers of the body are the muscles.]{.mark}** **Through their
 attachments to the bones by way of the tendons, they provide us with the
 unique ability to lengthen and resist tension, hold a static position,
-or shorten and produce tension.]{.mark}]{.underline}** They do this by
+or shorten and produce tension.** They do this by
 either pulling the muscle fibers together, keeping them still, or by
 letting them slide apart. The strength of a muscle contraction is
 determined by how many muscle fibers are involved, and by the

@@ -16,8 +16,8 @@ your parents, you are most likely going to remember a teacher or a
 coach. In school players typically spend more time with coaches than
 individual teachers.
 
-**[[The coach can be a primary caregiver. He or she can provide
-security, safety and emotional support.]{.mark}]{.underline}**
+**The coach can be a primary caregiver. He or she can provide
+security, safety and emotional support.**
 
 The athlete/coach relationship is also a performance factor that can be
 more important than all other factors. When the athlete/coach

@@ -48,10 +48,10 @@ generated](media_alexander-zverev-serve/media/image2.webp)
 
 **Zverev's stance and leg action.**
 
-**[[Zverev starts his motion with the front foot pointing almost
+**Zverev starts his motion with the front foot pointing almost
 directly at the net. As the motion starts he angles the toes upward,
 then turns his foot and puts it down so it's about parallel to the
-baseline.]{.mark}]{.underline}**
+baseline.**
 
 Now look at his back foot. He moves it back as the front foot starts to
 tilt up. It's widely offset in two directions. First his stance is now

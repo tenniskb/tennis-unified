@@ -93,9 +93,9 @@ additional spin is it possible to generate?
 
 **Physics of Spin**
 
-The physics of spin are in one sense very straightforward. **[[The
+The physics of spin are in one sense very straightforward. **The
 steeper the swing plane and the faster the swing, the more
-spin.]{.mark}]{.underline}** And at one level that really is the bottom
+spin.** And at one level that really is the bottom
 line.
 
 ![](media_copoly-strings-how-do-they-really-work/media/image4.webp)
@@ -111,19 +111,19 @@ Now the copoly string technology has taken it to another level. But the
 physics of how the new strings really generate extra spin has proven
 much more complicated and difficult to understand.
 
-**[[When the ball enters the string bed on a topspin shot, when it stops
+**When the ball enters the string bed on a topspin shot, when it stops
 sliding it will \"bite\" the strings. At this point the back of the ball
 is embedded in the strings and therefore is actually moving at the same
 speed and in the same direction as the racket - forwards and upwards.
 Keep in mind this is an event occurring in only a few milliseconds, but
 the result is that the ball is launched from the strings spinning with
-topspin.]{.mark}]{.underline}**
+topspin.**
 
 The effect is similar to what happens when a ball bounces on a court.
-**[[As the bottom of the ball hits the court, it slides, slows down, and
+**As the bottom of the ball hits the court, it slides, slows down, and
 then bites. But the top of the ball is still moving forward. The result
 is that the ball bounces off the court rotating forward, with
-topspin.]{.mark}]{.underline}**
+topspin.**
 
 ![A picture containing text Description automatically
 generated](media_copoly-strings-how-do-they-really-work/media/image5.webp)
@@ -142,11 +142,11 @@ don't move out of place. This notion, which many people still believe
 today, led to the theory that because the strings \"don't move\" they
 offer a more solid surface, and thus more friction and spin.
 
-**[[But there is one big difference between strings and tennis courts
+**But there is one big difference between strings and tennis courts
 that illustrates why this view is incorrect. Shots hit onto a tennis
 court often arrive at very acute angles, in which case the ball will
 slide throughout the impact and the bottom of the ball will not
-bite.]{.mark}]{.underline}** If that happens, the ball will have less
+bite.** If that happens, the ball will have less
 spin and speed. But at the more obtuse or shallower angles a ball
 bounces off strings this almost never happens.
 

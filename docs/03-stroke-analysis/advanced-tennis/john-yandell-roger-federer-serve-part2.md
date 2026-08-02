@@ -154,20 +154,20 @@ still drops well over a foot before the contact.
 timing and rhythm.**
 
 ***[The height of the toss determines the interval the player has to hit
-the serve]{.mark}***. **[[The higher the toss, the more total time. A
+the serve]{.mark}***. **The higher the toss, the more total time. A
 super low toss doesn't give most players enough time to move through
 the technical positions of the motion, particularly if they have
 significant body rotation or use the legs much in their motion. Players
 with slower natural rhythms and longer backswings will also tend to add
-time by raising the tossing height.]{.mark}]{.underline}**
+time by raising the tossing height.**
 
 ***[For all the elements to work together and produce the most possible
 racket head speed, the motion needs to be smooth and relaxed.]{.mark}***
-**[[Every player has his own rhythm and should find the toss height that
+**Every player has his own rhythm and should find the toss height that
 helps create that rhythm. The motion shouldn't feel rushed. It
 shouldn't feel like it lags at any point either. The actual rhythm can
 vary tremendously from player to player\--from Andy Roddick to Nicolas
-Kiefer and everything in between.]{.mark}]{.underline}**
+Kiefer and everything in between.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -261,9 +261,9 @@ generated](media_john-yandell-roger-federer-serve-part2/media/image13.webp)
 **Pete's racket moves more forward toward the net. Roger's moves
 slightly more to the side.**
 
-**[[Another clue to the ball position and the relationship between the
+**Another clue to the ball position and the relationship between the
 contact point and the amount of topspin is the path of the racket right
-after the contact.]{.mark}]{.underline}** Again if we compare Pete and
+after the contact.** Again if we compare Pete and
 Roger, the differences are easier to see in the few frames after
 contact. Look at the angle of both players' arms relatively to the
 baseline. Sampras's arm is pointing more forward, and less to the side

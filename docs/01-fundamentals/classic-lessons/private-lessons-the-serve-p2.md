@@ -137,9 +137,9 @@ the front foot before launching. Sometimes that back foot will touch or
 cross the baseline just as the knee flex occurs. We even see this at the
 pro level.
 
-In any event, **[[starting with a foot on the baseline or touching the
+In any event, **starting with a foot on the baseline or touching the
 baseline or the court in front of it before striking the ball is against
-the rules!]{.mark}]{.underline}** I'm not sure you gain anything from
+the rules!** I'm not sure you gain anything from
 this stance. In fact, you may actually lose leverage from the legs, and
 also, run the risk of rotating through the motion too soon. In my
 teaching I strive to eliminate this extra step.
@@ -193,9 +193,9 @@ you flex those knees they will need to extend and depending on the
 extent of the knee bend this can result in something from a mild to a
 sizeable jump.**
 
-**[[Immediately after the ball is struck the front foot lands in front
+**Immediately after the ball is struck the front foot lands in front
 of the baseline, the back leg kicks back and then quickly comes forward
-to stabilize and or propel you forward.]{.mark}]{.underline}**
+to stabilize and or propel you forward.**
 
 **It's important to note that the jump is purely
 incidental and results from the upward thrust of

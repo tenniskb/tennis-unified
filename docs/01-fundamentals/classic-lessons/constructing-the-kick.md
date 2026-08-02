@@ -99,13 +99,13 @@ position. This is the essence of the TED and the first building block of
 the kick. The player can start close to the net and, as coordination and
 strength develops, can take the TED back to the baseline.
 
-**[[Next I encourage my students to toss over the shoulder to 11 o
+**Next I encourage my students to toss over the shoulder to 11 o
 clock. Now from the buttscratch position, they work on scraping up on
 the ball with the triceps and then the hand. The motion should have the
 shape of a fan, with a windshield wiper-like motion from left to right.
 During the toss, the racquet MUST stay down on the butt and the elbow
 MUST remain pointing to the sky until the last split second. Then the
-snap is executed as quickly as possible.]{.mark}]{.underline}**
+snap is executed as quickly as possible.**
 
 A common problem when learning the TED is for the elbow to drop and the
 racket to inch upward while the player is tossing. This ruins the

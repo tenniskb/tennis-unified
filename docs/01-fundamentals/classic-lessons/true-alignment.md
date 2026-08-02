@@ -178,8 +178,8 @@ instead of out through the ball. It also causes a loss of power. If the
 hips are moving too soon, this brings your rear leg around too soon.
 
 We can see true alignment quite clearly on two of the most explosive
-shots in tennis. **[[The first is the inside out or inside in
-forehand.]{.mark}]{.underline}** This is actually where I would say that
+shots in tennis. **The first is the inside out or inside in
+forehand.** This is actually where I would say that
 the concept of true alignment is seen most clearly. If you look at the
 animation at the top of the article, you'll recognize this and see the
 scissoring of the legs. **Players set up on their rear foot in an open

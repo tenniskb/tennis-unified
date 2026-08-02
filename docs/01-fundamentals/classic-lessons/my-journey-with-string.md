@@ -359,15 +359,15 @@ to be able to do that.** The quarterbacks only have
 a couple of seconds to find the receiver and lead him correctly before
 getting hit by gigantic muscled defensive players.
 
-**[[The same principle applies for top tennis players. They stagger time
+**The same principle applies for top tennis players. They stagger time
 to deal with 140mph serves and 90mph forehands, all reaching them in a
-second or sometimes even less.]{.mark}]{.underline}**
+second or sometimes even less.**
 
-**[[It is possible to focus our training/hitting sessions on our
+**It is possible to focus our training/hitting sessions on our
 perceived impact extension. This also helps relax us during our shots,
 and causes less deceleration or braking, which is what you fell when the
 dreaded \"lead arm\" rears its head, a braking effect in the arm/body
-instead of a fluid, relaxed attacking shot.]{.mark}]{.underline}**
+instead of a fluid, relaxed attacking shot.**
 
 It's called choking by most, but actually it's decelerated tension
 caused by rigidity in form. Ever notice how fluid and fast the best are
@@ -518,18 +518,18 @@ snow in Inuit, and innumerable permutations of those roots. Similarly,
 in our game, control/feel/touch/playability, are all close to each
 other, like those 12 Inuit root words are for snow.
 
-**[[Yet, it's all just ice falling from the sky. They are just words.
+**Yet, it's all just ice falling from the sky. They are just words.
 Every snow flake is actually different; as is every shot you ever make,
 and every frame you ever use, and every string job you ever hit
-with!]{.mark}]{.underline}**
+with!**
 
 To match all those variables to your playing style is the real art of
 the stringer, and is the great desire of all pros. But I do believe the
 stringer has to see you hit before he can maximize what he can do for
 you.
 
-**[[And you as the player have to know if you prefer flex and feel or
-spin, over power and penetration.]{.mark}]{.underline}** The true artist
+**And you as the player have to know if you prefer flex and feel or
+spin, over power and penetration.** The true artist
 can create a string job that feels virtually the same every time, and
 give you a maximum hybrid of control and feel and power.
 

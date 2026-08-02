@@ -51,22 +51,22 @@ and where your strengths lie, are you able to develop rallies in a way
 that will develop the play towards your preferred pattern? Then once in
 that preferred pattern, it's time to try and press home your advantage.
 
-**[[For example, let's say your preferred pattern is the left side
+**For example, let's say your preferred pattern is the left side
 pattern, because you love controlling points with your inside in and
 inside out forehands. Let's say your inside in forehand is your top
-shot---your money shot.]{.mark}]{.underline}**
+shot---your money shot.**
 
-**[[You find yourself trading crosscourt forehands with a fellow right
+**You find yourself trading crosscourt forehands with a fellow right
 hander. You should be looking for any slightly weaker ball in order to
 take a forehand down the line, which will hopefully switch the play to
-the left side pattern.]{.mark}]{.underline}**
+the left side pattern.**
 
-**[[You may then need to hit a backhand crosscourt or two, before you
+**You may then need to hit a backhand crosscourt or two, before you
 can run around and start bringing those inside forehands into play, but
 your mind should always be aware of the strategy, understanding which
 pattern you're in, looking to change from your weaker to stronger
 pattern, and looking to ram home the advantage when you have your
-stronger pattern in play.]{.mark}]{.underline}**
+stronger pattern in play.**
 
 **Opponent's Game Style**
 

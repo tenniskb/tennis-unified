@@ -115,12 +115,12 @@ The acceleration of the racquet over the first part of the forward swing
 is relatively linear. In this brief period, the racquet is being pulled
 along like a rope.
 
-**[[So in the first part of the forward swing, essentially the racquet
+**So in the first part of the forward swing, essentially the racquet
 is accelerating butt end first. At a certain point, however, the racquet
 needs to rotate in order to position the racquet head for contact. This
 is what I call the \"transition,\" from a largely linear period of
 acceleration to one that is much more rotational in
-nature.]{.mark}]{.underline}**
+nature.**
 
 **[As the rotation of the racquet starts after the transition point, it
 adds racquet head speed in a very short period of time. This increase in

@@ -56,10 +56,10 @@ This same concept is used with MRIs and CT scans. After the scan, a
 computer is able to remove background noise and increase the contrast to
 create a higher resolution image.
 
-**[[In summary, closing the eyes just after you hear the contact will
+**In summary, closing the eyes just after you hear the contact will
 send the image of the hand-racket-ball complex from the narrowed visual
 fields to your brain with no other incoming information to obscure
-it.]{.mark}]{.underline}**
+it.**
 
 **Eye Motion from Start to Finish**
 
@@ -71,9 +71,9 @@ frontal vision.** As you prepare to hit the ball,
 your torso will begin to turn to prepare your racket. You continue to
 track the ball over your front shoulder.
 
-**[[When your torso starts to unwind, continue to watch the ball by
+**When your torso starts to unwind, continue to watch the ball by
 turning your neck to the side of contact (toward your racket). This will
-minimize visual blackouts.]{.mark}]{.underline}**
+minimize visual blackouts.**
 
 ![A person playing tennis Description automatically
 generated](media_ball-watching-part-3/media/image4.webp)
@@ -94,10 +94,10 @@ ball.
 
 **When you hear the ball hit the strings, you can either keep your
 eyes narrowed (and keep your head to the side) or even close the eyes
-briefly.** **[[This allows the last visual
+briefly.** **This allows the last visual
 information in the pipeline to be transmitted to the visual cortex on a
 black background, which will make it seem more
-prominent.]{.mark}]{.underline}**
+prominent.**
 
 **Take Your Eye Off the Ball**
 
@@ -146,9 +146,9 @@ but very hard to do with your eyes open\--you're just dying to see your
 awesome shot.
 
 **Instinctively, your head turns to follow the outgoing
-hall.** **[[This has to be consciously suppressed.
+hall.** **This has to be consciously suppressed.
 Narrowing the eyes helps tremendously, closing them after you hear
-contact is absolutely effective.]{.mark}]{.underline}**
+contact is absolutely effective.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -156,9 +156,9 @@ confidence](media_ball-watching-part-3/media/image6.webp)
 
 **Train yourself not to turn your head to follow the ball.**
 
-**[[When you don't follow your shot, you can focus on finishing the
+**When you don't follow your shot, you can focus on finishing the
 task at hand (i.e. your stroke), which leads to better contact, balance,
-and recovery.]{.mark}]{.underline}**
+and recovery.**
 
 Surprisingly, not following the ball also helps to decrease anxiety
 about what is happening with the hall and your opponent as Damien LaFont
@@ -179,10 +179,10 @@ of your opponent's position (especially if they're at the net), and be
 ever-cognizant of the shortened hitting cycle when you or your opponent
 are at the net.
 
-**[[Closing your eyes after your shot may not initially be practical in
+**Closing your eyes after your shot may not initially be practical in
 actual game play, but it is a great way to start training your brain to
 focus on the follow-through rather than worrying about where your shot
-is going.]{.mark}]{.underline}**
+is going.**
 
 Take Federer's forehands as I noted in the last article, for example.
 He almost never follows his shot. In fact, 82% of his forehands end in

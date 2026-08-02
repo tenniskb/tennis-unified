@@ -14,11 +14,11 @@ generated](media_the-myth-of-the-recovery-step-forehand/media/image1.webp)
 
 **What is a recovery step and when should it happen?**
 
-***[[The recovery step is part of this continuous flow on a high
+***The recovery step is part of this continuous flow on a high
 percentage of balls. This is the step in which the foot closest to the
 ball swings around the body to the outside, plants, and then pushes back
 to the middle, usually with a crossover step or even two crossover steps
-at the high levels.]{.mark}]{.underline}***
+at the high levels.***
 
 The old paradigm of moving to the ball, setting up in a stationary
 stance, hitting, then shuffling back to the middle to a stationary ready
@@ -95,10 +95,10 @@ the torso. In this example, if anything, the outside, right foot
 actually turns slightly backwards away from the direction of movement.
 We'll see other examples where it is much more pronounced.
 
-***[[The fact is the actual recovery step does not begin until the
+***The fact is the actual recovery step does not begin until the
 racket starts to move backwards and downward, what is usually called the
 wrap. This is final deceleration phase of the
-swing.]{.mark}]{.underline}***
+swing.***
 
 Let's see the sequence. As Roger starts to descend out the air the
 right foot finally begins to swing around. It then lands, clearly to the

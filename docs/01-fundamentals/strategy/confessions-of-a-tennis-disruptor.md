@@ -164,11 +164,11 @@ confidence](media_confessions-of-a-tennis-disruptor/media/image6.webp)
 **In the words of Bill Tilden: the object is to break up your opponent's
 game.**
 
-**[[Tennis is not an individual sport. It is a relationship sport. The
+**Tennis is not an individual sport. It is a relationship sport. The
 two opponents are bound together in a dance. Your mission is the same as
 a baseball pitcher who mixes up his pitches or a basketball player who
 makes the guy who shoots better from the left side move to his
-right.]{.mark}]{.underline}**
+right.**
 
 Ten-time Grand Slam champion Bill Tilden wrote many years ago**, \"The
 primary object of tennis is to break up your opponent's game. Never give

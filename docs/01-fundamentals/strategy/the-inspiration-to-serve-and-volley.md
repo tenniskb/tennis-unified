@@ -164,10 +164,10 @@ I'd have a weekday afternoon match lined up with one of my teammates
 from high school. After that I'd play another match with a 5.0 male
 player.
 
-**[[Then I'd play an evening of doubles with 60 and 70 year old
+**Then I'd play an evening of doubles with 60 and 70 year old
 teammates and opponents, even one guy who was 84 and still loved to
 play. I never turned down an invitation to fill in for ladies doubles
-when the fourth didn't show.]{.mark}]{.underline}**
+when the fourth didn't show.**
 
 My ranking stayed within the Top 50 in Florida for every age group I
 played in since my first tournament when I was 12 to my last when I was

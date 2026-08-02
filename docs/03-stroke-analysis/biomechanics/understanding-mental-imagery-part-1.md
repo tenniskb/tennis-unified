@@ -92,11 +92,11 @@ may not necessarily work best in another.
 
 Why is the use of mental imagery so powerful? The research shows that
 the brain experiences highly vivid imagery as identical or close to
-identical to actual play. **[[When you imagine yourself performing to
+identical to actual play. **When you imagine yourself performing to
 perfection, doing precisely what you want when you want to do it, you
 are actually physiologically creating neural patterns in your brain,
 just as if you had physically performed the
-action.]{.mark}]{.underline}**
+action.**
 
 As one researcher put it mental imagery creates \"the neural patterns in
 our brain teach our muscles to do exactly what we want them to do.\"

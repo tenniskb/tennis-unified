@@ -37,11 +37,11 @@ tell me where to hit, it told me which partner would be better to hit
 to. It told me what kind of spin to use depending on where I was on the
 court. It told me which person to lob over.
 
-**[[The most effective shot you can hit in the System to limit your
+**The most effective shot you can hit in the System to limit your
 opponents' options and set up your partner is a short, angled, low
 return, approach or volley. If you can get your opponent hitting up from
 midcourt, they will be severely limited in their ability to hit hard,
-hit at your feet, and to lob.]{.mark}]{.underline}**
+hit at your feet, and to lob.**
 
 **The Hunter and the Helper**
 
@@ -66,9 +66,9 @@ and volleying effectively, regardless of your level.
 **There are some common fears, misnomers and myths about serve and
 volley. Some players say their serve is too weak.**
 
-**[[You don't need a big serve. You need to develop a reliable spin
+**You don't need a big serve. You need to develop a reliable spin
 serve for doubles, something virtually everyone can
-do.]{.mark}]{.underline}**
+do.**
 
 If you get a high percentage of first serves you and your partner should
 be able to control most points, especially if you communicate where the

@@ -26,9 +26,9 @@ swing path across your body instead of a vertical path to the target.
 This is a waste of energy and time.
 
 **Start with your racket very close to the point of contact, hit the
-ball and extend the follow thru.** **[[The area just before contact,
+ball and extend the follow thru.** **The area just before contact,
 during contact and right after contact is called "The
-Slot".]{.mark}]{.underline}**
+Slot".**
 
 - **A long backswing means a short "Slot".**
 

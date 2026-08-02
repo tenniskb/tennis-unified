@@ -248,16 +248,16 @@ comprise the majority?
 
 **The implication of the evidence is shocking. The evidence clearly
 shows that our time on the practice court is misguide and not nearly as
-effective as it needs to be.** **[[The problem is
+effective as it needs to be.** **The problem is
 we have no balance. We grind and slap groundstrokes around for hours,
 get exhausted and congratulate ourselves on how hard we are
-working.]{.mark}]{.underline}**
+working.**
 
 **Meanwhile we don't spend anywhere near enough time on the serve and
 return, the two shots that determine the biggest percentage of
-points.** **[[The shared delusion is that
+points.** **The shared delusion is that
 groundstroke rallies are what matter the most. They
-don't.]{.mark}]{.underline}**
+don't.**
 
 In a two set match it's likely you will hit 50 to 100 serves. How many
 times have you hit anything close to that number in practice? Much less

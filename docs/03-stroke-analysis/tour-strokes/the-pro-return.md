@@ -171,8 +171,8 @@ slows down]{.underline} and [spin
 outs]{.underline}]{.mark}***[.]{.underline} **It loses some of the
 energy. This means the returner can often hit the
 ball on the way down, after the top of the bounce. This makes it
-easier to time.** This also **[[makes the contact
-at a more comfortable height.]{.mark}]{.underline} From this position
+easier to time.** This also **makes the contact
+at a more comfortable height. From this position
 the returner can hit an aggressive return, again
 similar to a groundstroke.** **He can also neutralize the
 serve and start the point with a deep, heavy
@@ -226,8 +226,8 @@ a backhand chip.**
 This brings us to one more interesting return option we are seeing more
 and more in the pro game. It's a play Federer uses to neutralize big
 servers. Rather than moving back to gain time, Federer actually
-**[[moves in and then chips the ball, especially on the
-backhand.]{.mark}]{.underline}** Taylor Dent does it too. He also chips
+**moves in and then chips the ball, especially on the
+backhand.** Taylor Dent does it too. He also chips
 a large percentage of his forehand returns.
 
 As a coach I think the idea of getting the ball back in play is
@@ -258,9 +258,9 @@ return.**
 So what we have seen is a reversal of conventional wisdom in two
 different ways. **The first reversal has to do with our understanding
 of an aggressive return.** We're used to thinking
-that when players move forward they're thinking attack. **[[But by
+that when players move forward they're thinking attack. **But by
 moving back you can be aggressive in different
-way.]{.mark}]{.underline}** This is by **[[giving yourself time to
+way.** This is by **[[giving yourself time to
 load]{.mark} [and take a bigger swing at the
 ball]{.mark}]{.underline}**.
 

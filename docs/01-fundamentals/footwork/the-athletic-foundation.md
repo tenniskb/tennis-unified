@@ -12,9 +12,9 @@ As the biomechanics specialist at the Bollettieri Tennis Academy, for
 two decades I've worked to help young players develop into tour
 professionals. When I compare the top pros to aspiring young players at
 our academy, the junior players tend to share grips, swings, footwork
-patterns, and stances with the pros. **[[The missing link for most
+patterns, and stances with the pros. **The missing link for most
 juniors is a strong, disciplined athletic
-foundation.]{.mark}]{.underline}**
+foundation.**
 
 The evolution from junior to professional is a process of evolving from
 player into athlete. I have found that the ability to establish and
@@ -99,8 +99,8 @@ characteristics of the tractor. But in tennis, you'll never reach your
 athletic potential performing like a tractor. Instead, you need to
 develop the performance characteristics of the race car.
 
-**[[I believe that the greatest tennis players are \"movement
-specialists.\"]{.mark}]{.underline}** Movement specialists are athletes
+**I believe that the greatest tennis players are \"movement
+specialists.\"** Movement specialists are athletes
 who have learned how to transform their body posture to resemble the
 design characteristics of a Formula 1 car. The chart shows the
 similarities. Top players use their movement strengths as a weapon to
@@ -165,13 +165,13 @@ base is too narrow, you'll struggle to remain low enough because it
 creates an added load on your legs which causes fatigue much more
 quickly.
 
-**[[Another natural by-product of a very narrow base is very slow and
-inefficient first step reactions.]{.mark}]{.underline}** (In Part 2 of
+**Another natural by-product of a very narrow base is very slow and
+inefficient first step reactions.** (In Part 2 of
 this series, you'll learn all about first step reaction techniques.)
 
-**[[When the footwork base is too narrow in the hitting stances, it
+**When the footwork base is too narrow in the hitting stances, it
 prohibits effective forward weight transfer and typically results in too
-much upward launching through the stroke.]{.mark}]{.underline}**
+much upward launching through the stroke.**
 
 **The end result is a loss of power and control in stroke production.**
 
@@ -189,8 +189,8 @@ generated](media_the-athletic-foundation/media/image7.webp)
 reacting to their opponent's shots**
 
 Another component in the athletic foundation that you must learn is
-**[[how to center your balance on the balls of the
-feet.]{.mark}]{.underline}** Movement specialists not only work with
+**how to center your balance on the balls of the
+feet.** Movement specialists not only work with
 quick adjustment step footwork in setting up the optimal stance,
 [**[they continue to adjust their fee until their body weight is
 centered on the balls of their feet]{.underline}**. **[Centering their
@@ -218,9 +218,9 @@ Athletic Height**
 When you are down in the athletic foundation position, you establish
 what is referred to as your \"athletic height\". **Your athletic
 height should measure approximately 6 inches to one foot below your
-normal standing height.** **[[You achieve this
+normal standing height.** **You achieve this
 low-to-the-ground position through bending your knees to lower your
-hips, while maintaining upright back posture.]{.mark}]{.underline}**
+hips, while maintaining upright back posture.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -246,8 +246,8 @@ that tractor than the race car.**
 
 Some players try hard to \"play low\" but just can't seem to maintain
 the low athletic height. Coaches yell at them to \"stay low\" but it is
-often to no avail. **[[In the long run, playing too upright is very
-inefficient.]{.mark}]{.underline}** It not only produces poor results
+often to no avail. **In the long run, playing too upright is very
+inefficient.** It not only produces poor results
 (on court), but you'll fatigue much more quickly over the course of a
 match. The fact is that if you've never practiced and trained your body
 to move while maintaining a low center of gravity, you are not equipped
@@ -337,12 +337,12 @@ posture works like a tight suspension in a Formula 1 car. It allows you
 to generate quick reactions and sharp changes of direction while
 resisting the forces of inertia that slow you down.
 
-**[[Weak posture poorly manages the flow of power production and leads
+**Weak posture poorly manages the flow of power production and leads
 to strokes that easily breakdown. In addition, the risk of injury
 increases dramatically when you misuse the back muscles and maintain
 weak posture. Greater strength in the back muscles, chest and abdomen
 will provide better core stability for more controlled
-power.]{.mark}]{.underline}**
+power.**
 
 **Powerful Lower Body Muscles**
 
@@ -373,11 +373,11 @@ development to nurture and refine their skills to full potential.
 I truly believe that, through hard work and the right training regimen,
 it is very possible for less naturally athletic people to develop more
 athletic skills and movement techniques and evolve into better athletes
-over time**[[. In many respects it's very similar to learning to play a
+over time**. In many respects it's very similar to learning to play a
 musical instrument. All it takes is time to learn the basics, then
 quality repetition of the specific skills and techniques to engrain the
 habits. The better you practice, the better you
-develop.]{.mark}]{.underline}**
+develop.**
 
 As a result of genetics, upbringing, environment and opportunity, some
 players will develop more quickly and excel more than others. Be it

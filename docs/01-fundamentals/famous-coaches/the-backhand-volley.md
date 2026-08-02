@@ -112,12 +112,12 @@ The block volley on the backhand side begins with a hip and shoulder
 turn as you reach directly to contact point position in your
 preparation. As your arm straightens out for contact, the racquet head
 becomes more solid at impact, blocking the ball as you maintain the big
-L shape. **[[Using the exact same preparation, you can totally disguise
-the drop volley.]{.mark}]{.underline} You prepare the racquet to contact
+L shape. **Using the exact same preparation, you can totally disguise
+the drop volley. You prepare the racquet to contact
 point position and get ready to catch the ball on the strings as the arm
-and racquet again work like a shock absorber.** **[[On impact, the
+and racquet again work like a shock absorber.** **On impact, the
 racquet head will flex and recoil, taking the majority of the pace off
-the ball.]{.mark}]{.underline}**
+the ball.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -134,8 +134,8 @@ ways.
     point forward and making contact earlier]{.underline}**, you can
     position the racquet face at the desired angle to create the shot.
 
-**[[\<\<Using shoulder turn and legs drive to generate the
-momentum\>\>]{.mark}]{.underline}**
+**\<\<Using shoulder turn and legs drive to generate the
+momentum\>\>**
 
 2.  Or you can **[create the angle in the racquet face by changing your
     wrist position,]{.underline}** a technique you must learn to be able

@@ -20,21 +20,21 @@ Here](Confessions%20of%20a%20Tennis%20Disruptor.docx).) There is a place
 for the Disruptor in the game and he can be is a challenging opponent
 for those who are unprepared.
 
-**[[This is because the goal of the disruptor is to create doubt. He
+**This is because the goal of the disruptor is to create doubt. He
 succeeds by making the opponent think something that is not actually
-true.]{.mark}]{.underline}**
+true.**
 
-**[[The Disruptor enrages and frustrates the opponent, affecting the
+**The Disruptor enrages and frustrates the opponent, affecting the
 outcome with trickery rather than superior play. His use of variation
 leads players to make uncharacteristic errors and imagine flaws in their
-games.]{.mark}]{.underline}**
+games.**
 
-**[[The Disruptor creates the impression he is not predictable. He will
+**The Disruptor creates the impression he is not predictable. He will
 serve and volley on serves that no one should come in on. He will
 unexpectedly hit second serves to the forehand. He will come in on short
 balls, then not come in, then hit a drop shot. He stops at the service
 line daring you to pass when you know you should
-lob.]{.mark}]{.underline}**
+lob.**
 
 **Warrior Mentality**
 

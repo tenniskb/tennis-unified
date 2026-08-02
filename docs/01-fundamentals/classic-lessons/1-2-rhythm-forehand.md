@@ -66,8 +66,8 @@ Phase 1, the setup phase, begins with the start of the unit turn and the
 release of the opposite hand from the racket. It continues through the
 completion of the body turn, **with the opposite arm stretched across
 the baseline**. This smooth preparation helps to
-**[[avoid the common mistake of rushing the racket back too
-early.]{.mark}]{.underline}**
+**avoid the common mistake of rushing the racket back too
+early.**
 
 In Phase 1, there is also substantial movement of the racket backwards
 in the backswing. Commonly **the racket head will be positioned above
@@ -94,8 +94,8 @@ generated](media_1-2-rhythm-forehand/media/image4.webp)
 
 Phase 2 begins immediately at the completion of Phase 1. Even though we
 are breaking the stroke into two parts for the sake of explanation,
-**[[there is no pause and the transition should be
-seamless.]{.mark}]{.underline}**
+**there is no pause and the transition should be
+seamless.**
 
 The racket and hitting arm may not have fully reached the end of the
 backswing at this stage. But the crucial point is that at the start of
@@ -103,9 +103,9 @@ Phase 2, the rate of acceleration of the arm and racket begins to
 increase.
 
 **This energized and explosive phase is fuelled by hip
-rotation**, **[[torso rotation and rapid
+rotation**, **torso rotation and rapid
 acceleration of the hitting arm towards contact
-point.]{.mark}]{.underline}** This explosiveness is what generates and
+point.** This explosiveness is what generates and
 transfers energy into the ball, creating power and spin.
 
 **The explosiveness will reach its peak at contact point, but the player
@@ -171,10 +171,10 @@ of the opposite hand from the racket**. If this is
 done too early, then it can disrupt the 1-2 Rhythm and affect the timing
 of the whole shot.
 
-**[[The best way to highlight the importance of the opposite arm is to
+**The best way to highlight the importance of the opposite arm is to
 watch pro players when they have a short ball. They never release the
 opposite hand early. Instead, they move into position with the opposite
-hand still on the racket.]{.mark}]{.underline}**
+hand still on the racket.**
 
 Why is this crucial? **[[Because when the opposite hand releases, the
 arm and racket move back independently.]{.mark} [If the opposite hand

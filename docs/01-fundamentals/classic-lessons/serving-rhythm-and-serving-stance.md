@@ -196,10 +196,10 @@ more video of here serve in the Interactive Forum.
 
 **Conclusions**
 
-**[[I've always believed platform stances to be the better option for
+**I've always believed platform stances to be the better option for
 players of all levels, due to the ease of attaining deliberate
 smoothness during the set up phase and building 1-2 rhythm. This makes
-possible a more reliable serve.]{.mark}]{.underline}**
+possible a more reliable serve.**
 
 Currently there are 5 platform servers and 5 pinpoint servers in the top
 10. A look at their career serving percentages is suggestive. The
@@ -218,10 +218,10 @@ confidence](media_serving-rhythm-and-serving-stance/media/image8.webp)
 
 **Federer demonstrating the phases with effortlessly grace.**
 
-**[[The platform stance is by far the simplest and most stable stance
+**The platform stance is by far the simplest and most stable stance
 for the set-up phase of the serve. With neither foot adjusting position
 during the set-up phase, it becomes easier and more natural to reach the
-critical transition point between the phases.]{.mark}]{.underline}**
+critical transition point between the phases.**
 
 For most players, a slightly narrower less extreme platform stance than
 Roger or Novak is a great place to start. You can experiment with more
@@ -229,10 +229,10 @@ extreme variations from there. Check out one version of how to do this
 in John Yandell's article on stance in his new serve series. ([Click
 Here](https://www.tennisplayer.net/members/teaching_systems/john_yandell/legs/).)
 
-**[[A platform stance also naturally facilitates body turn. In the
+**A platform stance also naturally facilitates body turn. In the
 windup the body naturally turns away from the ball along a line across
 the toes, with the hips and shoulders moving in the same
-direction.]{.mark}]{.underline}**
+direction.**
 
 You can see and actually feel this when you watch Roger Federer. The
 motion looks tremendously smooth in Phase 1 and highly explosive in

@@ -167,11 +167,11 @@ high-percentage, low-error tennis and I'll be tied with Emmo with 12
 Slams.\" Unfortunately, these are just the kind of thoughts that get
 players into trouble, even geniuses like Federer.
 
-**[[When you see your opponent choking, you are often liable to start
+**When you see your opponent choking, you are often liable to start
 choking yourself. This is because you start to think, \"He's choking.
 I've got him as long as I don't screw up.\" But that thought will make
 you cautious and hesitant to take your normal
-risks.]{.mark}]{.underline}**
+risks.**
 
 Djokovic served the first game of the second set, and, predictably,
 started out missing his first serve. Federer was handed two, short, easy
@@ -246,17 +246,17 @@ to blow an easy backhand, get down match point, and follow with an
 ill-conceived, feeble drop-shot that landed halfway up the net. He had,
 at some level, given up.
 
-**[[The lessons to be learned here are important at any level of tennis.
+**The lessons to be learned here are important at any level of tennis.
 The first is that you should make every effort to limit the choking
 damage to only those points where you actually choke and
-miss.]{.mark}]{.underline}**
+miss.**
 
-**[[You limit the choking damage by acceptance. This starts by
+**You limit the choking damage by acceptance. This starts by
 acknowledging beforehand that you will, from time to time, choke and
 lose some points, just as you will, from time to time, miss some
 forehands and lose some points. Both must be quickly and routinely
 accepted as simply a natural and inescapable part of the game. Then put
-it out of your mind.]{.mark}]{.underline}**
+it out of your mind.**
 
 ![A picture containing text, athletic game, sport, tennis Description
 automatically
@@ -271,9 +271,9 @@ player in the world.
 
 Rod Laver said it well,
 
-**[[\"We all choke. That's all right. We're not machines. What you
+**\"We all choke. That's all right. We're not machines. What you
 have to learn is to accept the fact and not panic. It's the panic that
-loses the matches, not the nerves.\"]{.mark}]{.underline}**
+loses the matches, not the nerves.\"**
 
 So if you choke, assume that nothing extraordinary has happened, and
 just keep plugging along. In this way the choking itself will only cost
@@ -297,11 +297,11 @@ confidence](media_what-is-choking/media/image10.webp)
 
 **Do believe that there is a stigma to being a choking loser?**
 
-**[[We have all heard locker room snickers about people who are
+**We have all heard locker room snickers about people who are
 \"losers\" and who choke. It reminds me of the joke about Fred at the
 club who was reputed to have the ultimate loser's mentality. When he
 was ahead he eased up. When he was behind he got discouraged. When it
-was close, he choked!]{.mark}]{.underline}**
+was close, he choked!**
 
 Being considered a \"loser\" or \"choker\" hints of character deficiency
 and is embarrassing. We would all prefer to think of ourselves as

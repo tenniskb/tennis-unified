@@ -74,9 +74,9 @@ generated](media_the-strategy-zone-transition-and-net-finish/media/image3.webp)
 
 **Transitional sequences are more varied than ever in the modern game.**
 
-**[[In pro tennis that approach is often a recipe for a routine passing
+**In pro tennis that approach is often a recipe for a routine passing
 shot. The players are just too good. They are bigger, stronger, faster,
-more athletic than ever before.]{.mark}]{.underline}**
+more athletic than ever before.**
 
 **This is also one respect in which the rackets have changed the game.
 The return of serves are better. There is much more topspin, so the
@@ -136,10 +136,10 @@ confidence](media_the-strategy-zone-transition-and-net-finish/media/image5.webp)
 
 **A looping topspin approach can yield volley and overhead winners.**
 
-**[[The first transitional shot is to it a high looping shot to push the
+**The first transitional shot is to it a high looping shot to push the
 opponent back and force them to play the ball at shoulder level or even
 higher. This often forces a weak reply in the form of a high floating
-ball.]{.mark}]{.underline}**
+ball.**
 
 **Often when they hit the high looping approach, players sense
 instantly that the shot will hurt the opponent.**

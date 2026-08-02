@@ -39,8 +39,8 @@ little wider.
 **Too many players literally stop all forward motion when they
 split.** *[If you stop completely, your body will
 have too much inertia and you won't be able to explode to the
-volley]{.mark}*. **[[The way to perform a split step properly is to go
-into the balanced hop, land, and get out.]{.mark}]{.underline}**
+volley]{.mark}*. **The way to perform a split step properly is to go
+into the balanced hop, land, and get out.**
 
 **The way you time this is to land just as the opponent begins the
 forward swing and makes contact with the ball. So when the opponent
@@ -105,9 +105,9 @@ until the shoulders are about 45 degrees to the net.]{.mark} *That's
 about half as much turn as on a forehand
 groundstroke.***
 
-***[[As you turn, lay the wrist back slightly, and use the hand to
+***As you turn, lay the wrist back slightly, and use the hand to
 position the racket head behind the incoming ball with a slightly open
-racket face.]{.mark}]{.underline}*** This allows you to volley in a high
+racket face.*** This allows you to volley in a high
 to low motion giving the ball slight underspin.
 
 **Forward Swing**
@@ -202,16 +202,16 @@ confidence](media_the-attacking-volley/media/image8.webp)
 
 **The drive volley: a longer swing when you need to add pace.**
 
-**[[The drive volley is used more often when the opponent has hit a weak
+**The drive volley is used more often when the opponent has hit a weak
 shot, and you need to provide more velocity to the
-ball.]{.mark}]{.underline}** So you take a little longer stroke and then
+ball.** So you take a little longer stroke and then
 drive the ball more aggressively. You see this in pro tennis. Top
 volleyers will sometimes add more backswing and somewhat more
 followthrough.
 
-**[[The danger in hitting the drive volley is that you risk making more
+**The danger in hitting the drive volley is that you risk making more
 errors because you've got a larger arm action, and this makes it
-difficult to control the racket face.]{.mark}]{.underline}**
+difficult to control the racket face.**
 Unfortunately too many players see the dramatic longer swings in pro
 tennis and try to copy that. Become proficient with the compact version
 first and only then add length.

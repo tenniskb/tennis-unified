@@ -19,10 +19,10 @@ the time serve and volley, coming in behind every first serve and even
 most second serves\--plus coming in on second serve returns and short
 groundstrokes.
 
-**[[Is that death the consequence of the evolution of rackets, strings,
+**Is that death the consequence of the evolution of rackets, strings,
 and the athleticism of the players? Or is it somehow possible top
 players will find new ways to win a majority of their points at the
-net?]{.mark}]{.underline}**
+net?**
 
 **[The reality is that they may already have found it. They just don't
 realize the full implications, and the commentators are too busy
@@ -136,8 +136,8 @@ confidence](media_swinging-volleys-the-new-future-of-attacking-tennis/media/imag
 
 And from there he can hit a conventional first volley with only about
 half the speed and half the spin of a modern groundstroke. That seems
-like suicide. **[[So instead, players let the ball bounce and take a
-swing.]{.mark}]{.underline}**
+like suicide. **So instead, players let the ball bounce and take a
+swing.**
 
 [**[Swing is a key word here]{.underline}**. **[In today's game, the
 swinging volley is essentially the same technical motion as a
@@ -152,15 +152,15 @@ It would be great to know from all that secret Hawkeye data that the ATP
 releases only sporadically, what the average speeds of a few dozen or
 hundred volleys and swinging volleys really are.
 
-**[[But chances are the swinging volleys reach the same speeds\--70mph,
+**But chances are the swinging volleys reach the same speeds\--70mph,
 80mph, or faster as the groundstrokes. And maybe the swinging volleys
-actually have more velocity.]{.mark}]{.underline}**
+actually have more velocity.**
 
-**[[Why? Because the ball loses significant speed when bounces\--roughly
+**Why? Because the ball loses significant speed when bounces\--roughly
 a third of the total velocity is lost due to the friction of the court
 surface at the bounce. But a ball hit in the air before it bounces
 hasn't lost that speed and likely some of that speed is reflected in
-the speed of the swinging volley itself.]{.mark}]{.underline}**
+the speed of the swinging volley itself.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -185,9 +185,9 @@ levels would be as high or higher as well.
 
 **A New Class?**
 
-**[[So, is the swinging volley some new class of shot in terms of speed
+**So, is the swinging volley some new class of shot in terms of speed
 and spin in the pro game? Maybe! But even if not, it's still faster and
-heavier that a volley could ever be.]{.mark}]{.underline}**
+heavier that a volley could ever be.**
 
 So how hard would it be for more players to incorporate more swinging
 volleys\--or even go to so far as to make it a predominant style? Go in
@@ -196,10 +196,10 @@ serves.
 
 **Not hard. In fact, players already know the mechanics intimately.**
 
-**[[A forehand swinging volley is hit with a full body turn. It's hit
+**A forehand swinging volley is hit with a full body turn. It's hit
 with great extension. It's hit with full wiper action. All the things
 that for elite players are already natural and
-automatic.]{.mark}]{.underline}**
+automatic.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_swinging-volleys-the-new-future-of-attacking-tennis/media/image6.webp)

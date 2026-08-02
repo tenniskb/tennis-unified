@@ -319,9 +319,9 @@ forward swing. Federer is later, closer to contact. And, once again,
 Djokovic is in between.
 
 These are fractional differences in the timing, but the point is that
-**[[they set the straight arm up well before contact and maintain this
+**they set the straight arm up well before contact and maintain this
 position throughout the forward swing and well into the
-followthrough.]{.mark}]{.underline}**
+followthrough.**
 
 As the video shows, the elbow begins to relax and bend again only when
 the players reach the recovery phase, with the racket moving backwards
@@ -334,9 +334,9 @@ wrap backswings of the pros, even when the ball is low.
 come through contact with the arm bent, leading with the
 elbow.**
 
-**[[This leads to late contact, loss of power, lack of control, and
+**This leads to late contact, loss of power, lack of control, and
 also, the inability to hit crosscourt. And maybe, tennis
-elbow.]{.mark}]{.underline}** Other than that, it's not a problem.
+elbow.** Other than that, it's not a problem.
 
 For the club player I highly recommend two other great articles that
 talk about the key elements on the slice and the arm postion, the first
@@ -349,8 +349,8 @@ Here](https://www.tennisplayer.net/members/classiclessons/trey_waltke/the_slice_
 
 The most important step in understanding how the players are generating
 3000plus rpm of spin on the slice backhand is to look at the swing plane
-to the contact. We all know the clichés: **[["swing low to high for
-topspin and high to low for slice."]{.mark}]{.underline}** What is
+to the contact. We all know the clichés: **"swing low to high for
+topspin and high to low for slice."** What is
 stunning though is just how steep the downward plane of the swing
 actually is in the pro slice.
 
@@ -635,10 +635,10 @@ potential range of motion shortly after contact. So the only way left to
 go is up.
 
 Players who aim for the contact and don't allow the racket to move
-freely through the finish also probably lose racket head speed. **[[To
+freely through the finish also probably lose racket head speed. **To
 maximize acceleration, the swing needs to be free and relaxed, and this
 means allow the arm and racket to continue and to move and this means
-upward on the slice.]{.mark}]{.underline}**
+upward on the slice.**
 
 As we will see when we start to compare the pro slice to the slice in
 club game, the high finish has additional purpose when players drive

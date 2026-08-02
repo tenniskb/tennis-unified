@@ -152,12 +152,12 @@ any internal play or movement in this altered hitting arm structure.
 It's like a gate swinging on a hinge.
 
 **But watch how in another split second the elbow has flexed
-again**, ***[[partially regaining the U shape. No
+again**, ***partially regaining the U shape. No
 wonder the motions on the volleys are misunderstood. The arm moved from
 the U shape to the L shape and then back again to the U shape, driven by
 two different shoulder motions\--all in a few tenths of a second. This
 is why we need the high speed video to study the dynamics of the swing
-pattern.]{.mark}]{.underline}***
+pattern.***
 
 ![A person playing tennis Description automatically
 generated](media_the-forehand-volley-variations/media/image6.webp)
@@ -244,9 +244,9 @@ much spin,at about 2000rpm. We'll see that makes sense when we look at
 the swing patterns in an upcoming article.
 
 **[On most forehand volleys, there is only a slight downward angle to
-the swing plane]{.mark}**. **[[The racket is moving much more forward
+the swing plane]{.mark}**. **The racket is moving much more forward
 than downward. This is why stress the rotational element in the forward
-swing so much.]{.mark}]{.underline}**
+swing so much.**
 
 Occasionally though you will see a radically downward swing pattern, as
 in the example of the high Federer forehand volley in the animation.

@@ -48,9 +48,9 @@ in the Type III swing?**
 
 ![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image2.png)
 
-**[[Pillar 1: the body motions to create forward racquet speed are
+**Pillar 1: the body motions to create forward racquet speed are
 separate from those creating vertical racquet
-speed.]{.mark}]{.underline}**
+speed.**
 
 The 4 pillars of the model Type III base swing are presented here. It
 should be noted that within the Type III model there are several
@@ -88,18 +88,18 @@ path.**
 There is no trade-off.]{.mark}**
 
 **The independent arm contribution is key.**
-**[[The separation of racquet velocity to unique sources is only truly
+**The separation of racquet velocity to unique sources is only truly
 possible if the hitting arm is accelerated through the body rotation. In
 other words the shoulder joint is used to propel the arm (in addition to
 torso rotation) to a very forward contact point. Therefore the Type III
 swing is multi-segment with two horizontal degrees of freedom (torso
-rotation plus shoulder non-twisting rotation).]{.mark}]{.underline}**
+rotation plus shoulder non-twisting rotation).**
 
-***[[Advancing the arm through the torso rotation implies an additional
+***Advancing the arm through the torso rotation implies an additional
 muscular load at the shoulder joint. Proper sequencing of the body
 rotations (pelvis, torso, arm) attenuates this additional load. The Type
 III model is characterized by a very specific sequencing (timing and
-magnitude) of these body rotations.]{.mark}]{.underline}***
+magnitude) of these body rotations.***
 
 ![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image4.png)
 
@@ -108,12 +108,12 @@ the shot line.**
 
 **Forward Swing Hand Path**
 
-**[[The two horizontal degrees of freedom produce the conditions
+**The two horizontal degrees of freedom produce the conditions
 necessary to create a more linear hand path from the end of the
 backswing to contact. This is a critical attribute of the Type III model
 and allows the hand path trajectory to align closely with the shot
 direction. Toward this end, the hand is positioned to the outside of the
-body exiting the backswing.]{.mark}]{.underline}**
+body exiting the backswing.**
 
 **Linearizing the end point (hand) of a two degrees of freedom system
 (torso rotation and non-twisting shoulder rotation) requires specific
@@ -135,11 +135,11 @@ slot (the flip in tennis speak). The racquet rotation will in turn
 rotate the arm externally prior to internal rotation that creates
 vertical racquet head speed.]{.mark}**
 
-**[[In other words, the racquet rotates the arm (externally) then the
+**In other words, the racquet rotates the arm (externally) then the
 arm (internally) rotates the racquet to produce vertical racquet head
 speed. Generated this way, the external to internal coupling engages
 certain elements of the stretch-shorten
-mechanism.]{.mark}]{.underline}**
+mechanism.**
 
 ![](media_the-4-pillars-of-the-atp-type-iii-swing/media/image5.png)
 

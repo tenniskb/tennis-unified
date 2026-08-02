@@ -121,9 +121,9 @@ stance?**
 
 In learning proper alignment, this same basic principle applies when it
 comes to open stance hitting. The player may not place his front foot on
-the court, but **[[when he begins his open stance swing, a line drawn
+the court, but **when he begins his open stance swing, a line drawn
 from the back foot across the front foot should still be more or less on
-the target line.]{.mark}]{.underline}** With open stance the front foot
+the target line.** With open stance the front foot
 may be in the air, but the same geometry applies. **You can draw a
 line from the back foot to the front foot that is parallel to the flight
 of the ball.**
@@ -179,8 +179,8 @@ basic open stance positioning.
 
 To a certain extent, then, the whole debate about \"open\" versus
 \"closed stance\" is a red herring. It can distract players from
-understanding **[[the most important element in any of the stances,
-which is alignment to the target line.]{.mark}]{.underline}** This gets
+understanding **the most important element in any of the stances,
+which is alignment to the target line.** This gets
 me to the most important underlying point about stances\--**[[the
 critical role of the backfoot in achieving alignment. All]{.mark} [the
 debate about stances is focused on the front foot, but in reality the
@@ -305,10 +305,10 @@ generated](media_what-is-open-stance/media/image11.webp)
 topspin.** Open-stance hitting has made creating
 topspin possible on all types of balls. The more traditional player with
 an eastern grip who tries to step in on every ball is only comfortable
-with creating topspin on lower balls. **[[Open stance hitting allows
+with creating topspin on lower balls. **Open stance hitting allows
 even a traditional styled player to hit topspin on all types of balls,
 even high balls that would be far above the strike zone with an eastern
-grip otherwise.]{.mark}]{.underline}**
+grip otherwise.**
 
 This aspect goes hand in hand with the next advantage of hitting
 open-stance which is power production. The amount of forward rotation

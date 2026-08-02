@@ -343,9 +343,9 @@ racket to stay on the right side, and then stop abruptly. We know from
 biomechanics that one key to any stroke is a smooth and natural
 deceleration of the racket head. Forcing the right
 finish doesn't accomplish that. In my opinion, this puts unnecessary
-stress on the rotator cuff. ***[[It is preferable to release the serving
+stress on the rotator cuff. ***It is preferable to release the serving
 arm over to the left pocket after swinging all the way
-out.]{.mark}]{.underline}*** If on occasion the hand tends to stay more
+out.*** If on occasion the hand tends to stay more
 right as a consequence of the swing path, that's fine, but it should
 happen on its own and not from a mechanical attempt to imitate Pete.
 

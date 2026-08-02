@@ -14,8 +14,8 @@ Here](Return%20of%20Serve%20-%20The%20First%203%20Principles.docx).)
 In the second article we examined flexibility, shot selection and the
 split step ([Click
 Here](Return%20of%20Serve%20-%20Flexibility,%20Shot%20Selection,%20Split%20Step.docx).)
-**[[Now let's look at the actual path of the racket, including both the
-backswing and the forward swing.]{.mark}]{.underline}**
+**Now let's look at the actual path of the racket, including both the
+backswing and the forward swing.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_return-of-serve-the-return-swing/media/image1.webp)
@@ -25,14 +25,14 @@ generated](media_return-of-serve-the-return-swing/media/image1.webp)
 **Rotate and Bend**
 
 I use the phrase \"Rotation and a Bend\" to describe the return
-backswing. **[[As you come down from the split-step and read the
+backswing. **As you come down from the split-step and read the
 direction of the serve you rotate your upper body on both the forehand
-and on the backhand.]{.mark}]{.underline}**
+and on the backhand.**
 
-**[[That rotation takes the racket back to approximately the unit turn
+**That rotation takes the racket back to approximately the unit turn
 position. That is all the backswing you need to return a serve hit with
 good speed\--assuming your return position is not far
-back.]{.mark}]{.underline}**
+back.**
 
 **You want to simplify things so you can meet the ball using its pace.
 When** **[[you rotate the upper body, the outside
@@ -43,10 +43,10 @@ returned.]{.mark}]{.underline}**
 
 **At the same time you rotate the upper body, you should also emphasize
 bending the knee of the inside leg\--the left leg
-on a right-handed forehand.** **[[This keeps the body in an athletic
+on a right-handed forehand.** **This keeps the body in an athletic
 position and enables you to effectively push off the ground and
 explosively lunge out to intercept the return if
-needed.]{.mark}]{.underline}**
+needed.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -89,8 +89,8 @@ confidence](media_return-of-serve-the-return-swing/media/image4.jpg)
 forehand return in contrast to his normal forehand groundstroke**.
 **The racket face on the return is essentially on edge from the end of
 the backswing through the forward swing.**
-**[[There is no stretch shorten cycle with the
-wrist/forearm.]{.mark}]{.underline}**
+**There is no stretch shorten cycle with the
+wrist/forearm.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -104,11 +104,11 @@ the racket.**
 
 **Simplicity applies on the forward swing as
 well.** **[The emphasis should be on a swing
-straight through the ball.]{.underline}** **[[There will be a little
+straight through the ball.]{.underline}** **There will be a little
 natural topspin imparted as you center of gravity lifts up as you hit
 the shot, thus making the path of the racket go upwards. But you are
 basically looking for a simple straight through the ball
-approach.]{.mark}]{.underline}**
+approach.**
 
 So the first three articles have covered nine basic principles of the
 return. In upcoming articles we'll move on to technical\--and

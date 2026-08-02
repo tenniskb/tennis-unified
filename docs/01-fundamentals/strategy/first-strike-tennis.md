@@ -211,9 +211,9 @@ definitely determined the outcome.
 
 **Starting to see a pattern?**
 
-**[[Extended Rallies are not where you win or lose. Know the biggest
+**Extended Rallies are not where you win or lose. Know the biggest
 pool of points by far is in the first 4 shots. That's where you will
-ultimately win or ultimately lose.]{.mark}]{.underline}**
+ultimately win or ultimately lose.**
 
 And, again, this is how you should train, by focusing on the first 4
 shots.

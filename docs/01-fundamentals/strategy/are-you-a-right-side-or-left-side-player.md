@@ -41,18 +41,18 @@ confidence](media_are-you-a-right-side-or-left-side-player/media/image2.webp)
 
 **Easier recovery is the most important reason to hit crosscourt.**
 
-**[[But the most important reason for hitting crosscourt is that
+**But the most important reason for hitting crosscourt is that
 recovery is easier. This is because when you hit crosscourt you position
 yourself slightly left of middle or slightly right of
-middle.]{.mark}]{.underline}**
+middle.**
 
 **[How far away from the middle depends on how wide an angle you may
 need to cover from a given opponent. An extreme angle can cross the
 sideline before reaching the depth of the service line.]{.underline}**
 
-**[[The sharper the angle of your own cross-court the more angle
+**The sharper the angle of your own cross-court the more angle
 opportunity for your opponent. But that angle is only available to the
-opponent cross-court.]{.mark}]{.underline}**
+opponent cross-court.**
 
 This is the reason to position either left or right of the middle in the
 exchange. By knowing this, players can make better decisions when the

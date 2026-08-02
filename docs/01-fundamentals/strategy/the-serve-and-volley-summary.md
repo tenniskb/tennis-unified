@@ -64,29 +64,29 @@ confidence](media_the-serve-and-volley-summary/media/image2.webp)
 **Great serve and volley players are passed and expect to be\--over and
 over.**
 
-**[[You will be passed. So, get over it. It requires a thick skin when a
+**You will be passed. So, get over it. It requires a thick skin when a
 point or a series of points have failed, sometimes
-spectacularly.]{.mark}]{.underline}**
+spectacularly.**
 
-**[[No matter what your level, opponents will find a way to get it by
+**No matter what your level, opponents will find a way to get it by
 you, especially in the beginning. The question is, can they effectively
 do this over and over and especially in the clutch situations that turn
-matches.]{.mark}]{.underline}**
+matches.**
 
-**[[No matter what level of tennis you are watching, you will see
+**No matter what level of tennis you are watching, you will see
 players that hit passing shots with ease early in matches will miss the
 exact same shot at a later and more crucial
-stage.]{.mark}]{.underline}**
+stage.**
 
-**[[Your physical presence at the net is crucial to the success of a
+**Your physical presence at the net is crucial to the success of a
 serve and volley game. You loom large in your opponent's psyche and
 impose your will. This takes a toll over time that isn't always
-obvious.]{.mark}]{.underline}**
+obvious.**
 
-**[[Then suddenly missed pass at a critical time has a huge
+**Then suddenly missed pass at a critical time has a huge
 psychological effect. An opponent who has been playing incredibly well
 can suddenly fall to pieces and lose the will to
-fight.]{.mark}]{.underline}**
+fight.**
 
 Hitting the hardest ball possible in a given situation is rarely the
 answer in serve and volley, and is usually a detriment. The harder you
@@ -150,10 +150,10 @@ volley or push back for the overhead.
 
 **Post Serve Shots**
 
-**[[In serve and volley tennis, the serve is the only guaranteed shot.
+**In serve and volley tennis, the serve is the only guaranteed shot.
 It's not always followed by a shoulder high volley for the put away.
 There are numerous tricky situations: the low volley, the half volley,
-the swinging volley, the deep overhead.]{.mark}]{.underline}**
+the swinging volley, the deep overhead.**
 
 These shots are bridges that connects a well placed, well intended serve
 with the comfortable and easy winning volleys to the open court.

@@ -54,10 +54,10 @@ generated](media_three-secrets-for-destroying-pushers/media/image2.webp)
 
 **What form of attack is the best approach against a pusher?**
 
-**[[Since the pusher doesn't donate unforced errors, to win playing
+**Since the pusher doesn't donate unforced errors, to win playing
 pure attack would mean having to win almost all your points hitting
 winners. That is asking a lot of even high-level
-players.]{.mark}]{.underline}**
+players.**
 
 **To make attacking a pusher work, you need to modify your play and
 adjust to the realities of slower, higher balls and much longer rallies.
@@ -89,9 +89,9 @@ generated](media_three-secrets-for-destroying-pushers/media/image3.webp)
 
 **Reality is Cold**
 
-**[[All three strategies require a basic understanding of just what you
+**All three strategies require a basic understanding of just what you
 are getting into psychologically when you commit to really trying to win
-against a pusher.]{.mark}]{.underline}**
+against a pusher.**
 
 **The cold reality is that it isn't easy to defeat experienced,
 successful pushers---even with the right strategies. There is a reason
@@ -100,10 +100,10 @@ pushers push. The reason is that pushing wins.**
 **It isn't easy to beat them. And especially it isn't easy at
 first.**
 
-**[[Developing the skills and the confidence to consistently defeat
+**Developing the skills and the confidence to consistently defeat
 pushers is one of the biggest challenges in tennis. But it can also be
 one of the most overwhelming satisfying to
-achieve.]{.mark}]{.underline}**
+achieve.**
 
 **It's Tennis Alright**
 
@@ -145,18 +145,18 @@ psychologically be far more satisfying?
 
 **How the Pusher Thinks**
 
-Let's begin by trying to understand how the pusher thinks. **[[First,
+Let's begin by trying to understand how the pusher thinks. **First,
 the pusher knows very well people don't want to play him. He loves
-that!]{.mark}]{.underline}**
+that!**
 
 **The pusher also knows very well that pushing is an excruciating way
 to win points. He loves that too!** He is ready to
 suffer to win and he is betting he is more willing to suffer than his
 opponents---far more willing.
 
-**[[The pusher also knows that you are probably indignant and convinced
+**The pusher also knows that you are probably indignant and convinced
 that you are the better player. Because of this he knows that your
-self-image is on the line big time.]{.mark}]{.underline}**
+self-image is on the line big time.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -164,23 +164,23 @@ confidence](media_three-secrets-for-destroying-pushers/media/image5.webp)
 
 **Will you fall into this trap?**
 
-**[[And he knows that with every point he wins and every \"easy\" winner
+**And he knows that with every point he wins and every \"easy\" winner
 you choke, your frustration and your desperation grow. His real goal is
 to take you apart point by point until you suffer a complete
-collapse.]{.mark}]{.underline}**
+collapse.**
 
-**[[The pusher may back up that strategy by pretending to be the
+**The pusher may back up that strategy by pretending to be the
 friendliest guy in the world. He may make comments like, \"Wow, I'm
 surprised you missed that one.\" Or \"I was really lucky, because I
-thought you had me there.\"]{.mark}]{.underline}**
+thought you had me there.\"**
 
-**[[He loves it when he gets to rub it in that way. Meanwhile, even
+**He loves it when he gets to rub it in that way. Meanwhile, even
 though he seems so polite, you are torn between the impulse to kill him
-and/or kill yourself.]{.mark}]{.underline}**
+and/or kill yourself.**
 
-**[[So, this is the first critical step. To realize what is really
+**So, this is the first critical step. To realize what is really
 happening. To realize he probably isn't really that nice a guy. To
-realize that you are engaged in a war.]{.mark}]{.underline}**
+realize that you are engaged in a war.**
 
 Realize too that the pusher isn't pushing because he can't actually
 hit the ball, he probably can. The pusher is pushing because he believes
@@ -197,14 +197,14 @@ yourself.
 
 **But let's look at the reality of that kind of declaration. The
 reality is that hard hitting exchanges that end with winners are
-actually a cooperative endeavor.** **[[You need
-your opponent to supply some of the pace.]{.mark}]{.underline}**
+actually a cooperative endeavor.** **You need
+your opponent to supply some of the pace.**
 
-**[[This is why everyone's ideal opponent is someone who hits the ball
+**This is why everyone's ideal opponent is someone who hits the ball
 really solidly and is just slightly more inconsistent than they are. You
 have great rallies that mainly end with your opponent's errors. You win
 and walk off the thinking you are a hell of
-player.]{.mark}]{.underline}**
+player.**
 
 ![A person playing tennis Description automatically
 generated](media_three-secrets-for-destroying-pushers/media/image6.webp)
@@ -215,37 +215,37 @@ generated](media_three-secrets-for-destroying-pushers/media/image6.webp)
 pusher never gives you that solid, rhythmic pace that makes hitting
 winner possible. He never makes errors.**
 
-**[[So, you try to generate the ball speed to hit winners for yourself.
+**So, you try to generate the ball speed to hit winners for yourself.
 This means changing the speed of every shot, and this is far more
 difficult than exchanging at a consistent, solid
-pace.]{.mark}]{.underline}**
+pace.**
 
-**[[Most players don't understand this basic fact and so their errors
+**Most players don't understand this basic fact and so their errors
 mount. And then really mount. The errors eventually become more and more
 horrendous. When this spiral down starts the match can be over very
-quickly.]{.mark}]{.underline}**
+quickly.**
 
-**[[So, the first step is simply to become aware. You need to realize
+**So, the first step is simply to become aware. You need to realize
 that you are in a war and that you have to win the psychological
 dimension of the war to win the physical
-dimension.]{.mark}]{.underline}**
+dimension.**
 
 **This means you need to summon your will. Before you even walk on the
 court you have to accept that there is going to be a level of pain and
 frustration that goes beyond a normal match.**
 
-**[[You have to take the attitude that nothing the guy does is going to
+**You have to take the attitude that nothing the guy does is going to
 surprise you. You have to expect that you may feel frustrated at times,
 but you have to refuse to let that carry over from one point to the
-next.]{.mark}]{.underline}**
+next.**
 
-**[[Decide this: you are actually going to enjoy the whole psychodrama,
+**Decide this: you are actually going to enjoy the whole psychodrama,
 because it is part of the process of winning the match. You are going to
 stay positive no matter what---when you win points, and win you lose
-them---as you inevitably will.]{.mark}]{.underline}**
+them---as you inevitably will.**
 
-**[[You are going to believe that over time you will eventually win
-because you have the three secret strategies.]{.mark}]{.underline}**
+**You are going to believe that over time you will eventually win
+because you have the three secret strategies.**
 
 **So, enough pop psychology. Assuming you are prepared emotionally, what
 do you actually do? Let's get into the three strategies.**
@@ -267,8 +267,8 @@ generated](media_three-secrets-for-destroying-pushers/media/image7.webp)
 
 **Do you have the skills to win playing big time attacking tennis?**
 
-**[[OK great. Do you really have the skills to play that
-game?]{.mark}]{.underline}**
+**OK great. Do you really have the skills to play that
+game?**
 
 Do you truly have the technique, not to mention the nerves, to bang
 scissor kick overhead winners from no-man's land? How's your half
@@ -285,9 +285,9 @@ Work to become that player, and when and if you develop the confidence,
 go for it. In the meantime, however, if you truly want to win, don't
 pretend your game is somewhere it's not.
 
-**[[For the average player working toward that level of skill and
+**For the average player working toward that level of skill and
 confidence, there is still a modified alternative that can bring
-tremendous success.]{.mark}]{.underline}**
+tremendous success.**
 
 **This is what I call modified all court attack. It could also be
 called rhythm rally attack.** (For more on rhythm
@@ -309,48 +309,48 @@ generated](media_three-secrets-for-destroying-pushers/media/image8.webp)
 
 **Work the ball in rhythm to open the court for groundstroke winners.**
 
-**[[So, if he is doing this, hitting mostly slow, moderate height
+**So, if he is doing this, hitting mostly slow, moderate height
 groundstrokes, modified attack can be very
-effective.]{.mark}]{.underline}**
+effective.**
 
-**[[Just drop into his rhythm in the backcourt exchanges. Rally at
+**Just drop into his rhythm in the backcourt exchanges. Rally at
 2/3's or half your normal pace---whatever evens out the speed of the
-rallies so your pace is matching his.]{.mark}]{.underline}**
+rallies so your pace is matching his.**
 
 **[This can actually be fun and, surprisingly, soothing. If you have
 relatively good strokes, you realize that you aren't in danger of
 losing any points this way. Suddenly the pressure to crunch the first
 slow ball isn't pressing you the same way.]{.mark}**
 
-**[[But once you have established this rhythm, start to probe. Trying
+**But once you have established this rhythm, start to probe. Trying
 working the ball crosscourt on both sides. Try getting around and
 hitting forehands inside out. See if one side of his ground game is
-noticeably weaker.]{.mark}]{.underline}**
+noticeably weaker.**
 
 **Slowly and gradually start to work the pusher side to side. Or work
 him further and further off the court on just one side if it is
-noticeably weaker. [[But do it in
-rhythm.]{.mark}]{.underline}**
+noticeably weaker. But do it in
+rhythm.**
 
 **Try to get ridiculously far ahead in the
-rallies**. **[[Now try hitting forcing balls into
+rallies**. **Now try hitting forcing balls into
 the open court---but again don't try to artificially increase the pace,
-and don't panic if some of them come back.]{.mark}]{.underline}**
+and don't panic if some of them come back.**
 
-**[[The reality is you might have to hit the equivalent of 2 or 3
+**The reality is you might have to hit the equivalent of 2 or 3
 winners to get one. If your confidence goes up, you can increase your
 velocity, but be ready to drop the rhythm down again if
-necessary.]{.mark}]{.underline}**
+necessary.**
 
-**[[You can use this same rhythm rally principle to attack the net. Work
+**You can use this same rhythm rally principle to attack the net. Work
 the pusher off the court as far as possible then take an opportunity to
 approach down the line. If he has a major weakness attack that. You can
 even try approaching crosscourt to the weaker
-side.]{.mark}]{.underline}**
+side.**
 
-**[[Experiment to see what pattern gets you the greatest geometric
+**Experiment to see what pattern gets you the greatest geometric
 advantage. Then use them over and over unless something
-changes.]{.mark}]{.underline}**
+changes.**
 
 ![A picture containing tennis, sport, athletic game, court Description
 automatically
@@ -358,8 +358,8 @@ generated](media_three-secrets-for-destroying-pushers/media/image9.webp)
 
 **From rhythm rally you can also produce fat, shoulder high volleys.**
 
-**[[Everything should feel like it is in slow motion. But it should feel
-good.]{.mark}]{.underline}**
+**Everything should feel like it is in slow motion. But it should feel
+good.**
 
 **Is the pusher so far out of court that you can hit into the open
 court and not feel like you have to go big or hit for the lines? Can you
@@ -367,17 +367,17 @@ get some fat shoulder high volleys and short overheads? Can you kick the
 ball high to his weaker side and get a few serve and volley
 points?**
 
-**[[You should be mentally prepared to make a few errors and suffer a
+**You should be mentally prepared to make a few errors and suffer a
 few passes or lob winners. But what are the percentages of these various
-plays?]{.mark}]{.underline}**
+plays?**
 
-**[[If you can win only a few more points than you lose, then this is a
+**If you can win only a few more points than you lose, then this is a
 winning strategy. It just may take a while. You just have to be prepared
 to undergo some frustration, not give up, and stay at it as long as it
-takes if your modified attack is working.]{.mark}]{.underline}**
+takes if your modified attack is working.**
 
-**[[Believe me that winner you hit on match point is going to be one of
-the best feelings of your life.]{.mark}]{.underline}**
+**Believe me that winner you hit on match point is going to be one of
+the best feelings of your life.**
 
 **The Mirror Strategy**
 
@@ -389,10 +389,10 @@ But what if you don't? Or what if you feel too much pressure even at
 slow speeds and start making those ridiculous and excruciating errors
 that the pusher lives for?
 
-**[[Well, here's a second approach called the Mirror. The Mirror
+**Well, here's a second approach called the Mirror. The Mirror
 doesn't require winning shot making. In fact, it really isn't really
 based on tactics at all. It's based mainly on psychological
-warfare.]{.mark}]{.underline}**
+warfare.**
 
 ![A person holding a baseball bat Description automatically generated
 with low
@@ -406,29 +406,29 @@ going to let myself lose to this guy.\"
 \"He absolutely cannot beat me. The only way he can win is if I lose to
 him.\"
 
-**[[The Mirror is based on turning the pusher's psychology against him.
+**The Mirror is based on turning the pusher's psychology against him.
 Basically, you are going to show the pusher (with the world watching)
 what his game is really like, by mirroring it until he can no longer
-stand his own image.]{.mark}]{.underline}**
+stand his own image.**
 
-**[[In some ways it's like the rhythm rally. You drop your speed until
+**In some ways it's like the rhythm rally. You drop your speed until
 the exchanges are even going back and forth across the net. But rather
 than now trying to open the court, and hit winners, you simply reflect
-or mirror his every move.]{.mark}]{.underline}**
+or mirror his every move.**
 
-**[[If he hits a soft looper to the middle of the court, hit the same
+**If he hits a soft looper to the middle of the court, hit the same
 one back. If he hits a deep sky lob, hit one up of your own, even higher
-if you can.]{.mark}]{.underline}**
+if you can.**
 
-**[[Most players find that the mirror disturbs the pusher at some deep
+**Most players find that the mirror disturbs the pusher at some deep
 mental level. This can start to show quite quickly, but sometimes you
 have to play many points or games in mirror mode to get the desired
-effect.]{.mark}]{.underline}**
+effect.**
 
-**[[Because in a high percentage of cases, the mirror will eventually
+**Because in a high percentage of cases, the mirror will eventually
 cause a dramatic change. The pusher's humiliation, seeing his own game
 thrown in his face, starts to mount. And then suddenly or gradually he
-abandons the pushing strategy.]{.mark}]{.underline}**
+abandons the pushing strategy.**
 
 I've seen the scenario many times, especially coaching high school
 matches. My player, convinced he or she is far better than the pusher,
@@ -490,11 +490,11 @@ errors.** I've seen my players lose the first set
 time and time again, adopt the mirror strategy, and win the last two
 sets 6-2, 6-0.
 
-**[[But remember, the Mirror only works if you really want it to. You
+**But remember, the Mirror only works if you really want it to. You
 have to be willing to freely accept that you are fighting a
 psychological war. You have to take some pleasure in that battle, and
 yes, be willing to suffer for victory. For many players it's more than
-worth it. Others just can't go there.]{.mark}]{.underline}**
+worth it. Others just can't go there.**
 
 **Drop Shot Destruction**
 
@@ -504,18 +504,18 @@ tennis?** **What if you simply do not have the
 inclination or desire to use the Mirror to break the pusher's
 will?**
 
-**[[The third major strategy I call Drop Shot Destruction. And actually,
+**The third major strategy I call Drop Shot Destruction. And actually,
 this is the one that club players and high school players can often
-implement the most easily.]{.mark}]{.underline}**
+implement the most easily.**
 
 Like the Mirror it's a strategy you don't hear about. But, when
 executed correctly, the drop shot is one of the most aggressive,
 psychologically devastating, and effective shots in the game at all
 levels.
 
-**[[You see this in pro tennis. When a pro player hits a drop shot for a
+**You see this in pro tennis. When a pro player hits a drop shot for a
 clean winner, he is telling his opponent that his ball lacks force,
-aggression, penetration, etc.]{.mark}]{.underline}**
+aggression, penetration, etc.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -538,22 +538,22 @@ strategy work against a pusher. You really just need the ability to hit
 the ball short into the service box with some degree of
 underspin.**
 
-**[[If you can hit drop shot winners all the better, but the real
+**If you can hit drop shot winners all the better, but the real
 advantage here is not based on hitting winners. The point of the drop
 shot is to turn the slow pace of the pusher's ball into a strategic
-asset for you.]{.mark}]{.underline}**
+asset for you.**
 
-**[[It's based on getting the pusher out of his or her comfort zone
+**It's based on getting the pusher out of his or her comfort zone
 back there on the baseline and into a place on the court they don't
-like at all---the midcourt or the net.]{.mark}]{.underline}**
+like at all---the midcourt or the net.**
 
-**[[To retrieve the ball the pusher must come forward and then they are
+**To retrieve the ball the pusher must come forward and then they are
 stuck\--and vulnerable in ways they are not in the
-backcourt.]{.mark}]{.underline}**
+backcourt.**
 
-**[[Normally if he gets to the ball, the pusher will float it up over
+**Normally if he gets to the ball, the pusher will float it up over
 the net. Usually, the shot will be high and soft, and often to the
-middle of the court and relatively short.]{.mark}]{.underline}**
+middle of the court and relatively short.**
 
 ![A person holding a tennis racket Description automatically generated
 with medium
@@ -561,41 +561,41 @@ confidence](media_three-secrets-for-destroying-pushers/media/image14.webp)
 
 **After the drop shot the pusher is also vulnerable to the lob.**
 
-**[[From this position the pusher is vulnerable to either a lob or a
+**From this position the pusher is vulnerable to either a lob or a
 passing shot, and in both cases, these are not shots with a high degree
 of difficulty. In this situation none of your shot options require you
-to generate massive pace.]{.mark}]{.underline}**
+to generate massive pace.**
 
-**[[The passing shot doesn't need to be hard or deep. You can simply
+**The passing shot doesn't need to be hard or deep. You can simply
 stroke the ball past the pusher on either side with a smooth, relatively
 low pace drive. If it bounces on the service line, it's usually a clean
-winner.]{.mark}]{.underline}**
+winner.**
 
-**[[If the pusher tries to recover back to the baseline, it can be
+**If the pusher tries to recover back to the baseline, it can be
 equally effective to simply hit the ball directly at him or at his feet.
 This often draws an error, or sets up an even easier shot past him on
-the next ball.]{.mark}]{.underline}**
+the next ball.**
 
-**[[Don't fall into the trap of trying to blast a 90mph passing shot.
+**Don't fall into the trap of trying to blast a 90mph passing shot.
 It's not necessary and as noted above changing ball speed dramatically
 is actually very difficult, and exactly what the pusher hopes you
-try.]{.mark}]{.underline}**
+try.**
 
 **Drop Shot and Lob**
 
-**[[The lob is equally effective in this same situation, and you don't
+**The lob is equally effective in this same situation, and you don't
 have to have a great lob that you hit aggressively with topspin. A
 floating lob, or a lob with a little underspin is almost always good
-enough.]{.mark}]{.underline}**
+enough.**
 
-**[[Remember, very few pushers have well developed net games or
+**Remember, very few pushers have well developed net games or
 overheads. At most they will be scrambling to somehow stay in the point.
 But again, you now have real openings to hit balls for
-winners.]{.mark}]{.underline}**
+winners.**
 
-**[[A good rule to follow is to try for the medium paced pass if the
+**A good rule to follow is to try for the medium paced pass if the
 ball is in your strike zone and go for the lob if the ball is low or
-especially high.]{.mark}]{.underline}**
+especially high.**
 
 ![A couple of people playing tennis Description automatically generated
 with low
@@ -619,21 +619,21 @@ ball, you are very likely to get an easy volley. And again, with the
 pusher at the net, it is much easier to get the ball by
 him.**
 
-**[[I call it this strategy Drop Shot Destruction not only because you
+**I call it this strategy Drop Shot Destruction not only because you
 can win points so dramatically, but because, like the Mirror, this
 strategy also takes a major psychological toll on the
-pusher.]{.mark}]{.underline}**
+pusher.**
 
-**[[Once again you are exposing the pusher's style to the world and
+**Once again you are exposing the pusher's style to the world and
 taking it apart. Chasing drop shots and then getting passed or lobbed
 takes the fun out of the pusher mentality, which, as we have seen, is
 based on inflicting pain on you, not the other way
-around.]{.mark}]{.underline}**
+around.**
 
-**[[A few drop shots can actually have the same effect as the mirror.
+**A few drop shots can actually have the same effect as the mirror.
 Rather than chasing more balls into the midcourt, the pusher may abandon
 ship and start to try to hit. And that usually goes down the same path
-as the mirror.]{.mark}]{.underline}**
+as the mirror.**
 
 **Mixed Strategies**
 
@@ -648,11 +648,11 @@ generated](media_three-secrets-for-destroying-pushers/media/image16.webp)
 
 **If the pusher hits short, approach after the drop.**
 
-**[[The best part is with three interrelated strategies, you don't feel
+**The best part is with three interrelated strategies, you don't feel
 helpless or that you have no options and end up committing suicide by
 going down in a blaze of unforced errors. Remember the huge
 psychological component involved in these
-matches.]{.mark}]{.underline}**
+matches.**
 
 **Be flexible and use your intuition about which option to apply when.
 You should be excited to have innovative and effective strategies for
@@ -660,12 +660,12 @@ dealing with the pushing style, and eventually, you can develop great
 confidence walking on to the court to face what was previously your most
 feared enemy**.
 
-**[[Realize that the first few matches you may have only partial
+**Realize that the first few matches you may have only partial
 success---winning some points or even a lot of points with one or more
 of these new tactical options but still losing the match. Take heart
 from that success if you don't initially get a victory and just stay
 committed. Over time these strategies can lead to some of the most
-satisfying wins ever!]{.mark}]{.underline}**
+satisfying wins ever!**
 
 ![A person smiling for the camera Description automatically generated
 with medium

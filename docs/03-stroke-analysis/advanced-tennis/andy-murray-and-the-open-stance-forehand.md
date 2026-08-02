@@ -41,8 +41,8 @@ generated](media_andy-murray-and-the-open-stance-forehand/media/image2.webp)
 
 **90mph and 2300rpm is big and heavy, but not biggest or heaviest.**
 
-**[[That's big. But some of the other players are reaching 100mph, or
-even slightly higher.]{.mark}]{.underline}**
+**That's big. But some of the other players are reaching 100mph, or
+even slightly higher.**
 
 We also know from our high speed video studies that his forehand
 doesn't have the same levels of spin as the top three players either.
@@ -66,10 +66,10 @@ produce. But that impact isn't widely understood or discussed.
 
 **Two Open Stance Variations**
 
-***[[The first variation is what I call the fully open or extreme open
+***The first variation is what I call the fully open or extreme open
 stance. With this version, both feet can be parallel to the baseline.
 But usually they are slightly offset, meaning the left foot is a little
-closer to the net.]{.mark}]{.underline}***
+closer to the net.***
 
 ![A person playing tennis Description automatically
 generated](media_andy-murray-and-the-open-stance-forehand/media/image3.webp)
@@ -77,9 +77,9 @@ generated](media_andy-murray-and-the-open-stance-forehand/media/image3.webp)
 **Compare the position of the left foot and the amount of turn in the
 open versus semi-open stance.**
 
-***[[Then there is the semi-open stance. In the semi-open stance this
+***Then there is the semi-open stance. In the semi-open stance this
 offset is significantly greater, with front or left foot is much closer
-to the net.]{.mark}]{.underline}***
+to the net.***
 
 A line drawn along the edge of the feet in the semi-open stance is at an
 angle of about 30 to a 45 degrees to the baseline. As the name
@@ -87,18 +87,18 @@ implies---semi-open\--this stance is somewhere in between a fully open
 stance and a neutral or square stance where the player steps directly
 forward with the front foot.
 
-***[[If we look at high speed video, it's clear that the semi open
+***If we look at high speed video, it's clear that the semi open
 stance is by far the preferred stance for most players in the pro game.
 And this is true of the three players currently above Andy: Novak, Roger
-and Rafa.]{.mark}]{.underline}***
+and Rafa.***
 
 ***And stance appears to be a fundamental factor affecting the amount
 of pace and spin on the forehand. Why?***
 
-***[[Because stance is critical in determining the amount of torso
+***Because stance is critical in determining the amount of torso
 rotation in the forehand. This means the amount of shoulder rotation,
 but especially the amount of rotation in the hips. This is true in both
-the preparation and the forward swing.]{.mark}]{.underline}***
+the preparation and the forward swing.***
 
 ***Extreme open stance restricts the amount of rotation in the hips in
 the initial body turn. This then restricts the amount of hip rotation
@@ -146,10 +146,10 @@ hip turn. Again we can't make an actual measurement, but Novak's hips
 are clearly more turned, probably something like 60 degrees away from
 the net or further, maybe twice as much as Andy's.]{.mark}**
 
-***[[The stance also effects the angle of the shoulder turn, as we can
+***The stance also effects the angle of the shoulder turn, as we can
 again see in the differences between Andy and Novak. Andy's shoulders
 are definitely well turned---square to the net or a little
-more.]{.mark}]{.underline}***
+more.***
 
 But look at Novak. His shoulders are turned somewhat further, maybe
 another 10 or 20 degrees. We see these same elements in the semi-open
@@ -162,10 +162,10 @@ Now let's see what that actually means when the players rotate forward
 to the contact. Watch in the animated comparison how much more hip
 rotation Djokovic has from the set up to contact compared to Murray.
 
-***[[In the modern game, the hips and the shoulders are usually parallel
+***In the modern game, the hips and the shoulders are usually parallel
 to the baseline at contact. Both Novak and Andy arrive at this same
 position, but because of where they start, Novak rotates his hips much
-more than Andy, again maybe twice as much.]{.mark}]{.underline}***
+more than Andy, again maybe twice as much.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -207,9 +207,9 @@ generated](media_andy-murray-and-the-open-stance-forehand/media/image7.webp)
 **The top three players all use more semi-open stance with more body
 turn.**
 
-***[[For Djokovic, Federer, and Nadal it's the opposite. They also use
+***For Djokovic, Federer, and Nadal it's the opposite. They also use
 the extreme open stance at times, but the majority of their forehands
-are hit semi-open.]{.mark}]{.underline}***
+are hit semi-open.***
 
 And that's the point. What is the norm for Andy is the exception for
 the other top players. And vice versa.
@@ -265,11 +265,11 @@ question.
 
 **Lesson for the Rest of Us**
 
-***[[In my opinion there is a very important lesson here for all
+***In my opinion there is a very important lesson here for all
 players, and especially players at the club level who want better
 forehands. With the rise of \"modern\" tennis, many teaching pros have
 placed great emphasis on the open stance, because \"that's the way the
-pros play.\"]{.mark}]{.underline}***
+pros play.\"***
 
 And that is not necessarily a bad thing. **Unfortunately though there
 has been far less emphasis on the differences in the open stances, and
@@ -299,10 +299,10 @@ at my court proud of learning the modern open stance, but with little
 body turn and forehands that lack power, consistency and spin because of
 it.
 
-***[[Most club players should be hitting some percentage of forehands
+***Most club players should be hitting some percentage of forehands
 with a semi-open stance, but as with the pros there are balls where a
 neutral stance is more appropriate---and these balls are likely to be
-much more frequent in club tennis.]{.mark}]{.underline}***
+much more frequent in club tennis.***
 
 My experience with lower level players is that learning to hit neutral
 stance makes it far easier to develop a full body turn---especially with

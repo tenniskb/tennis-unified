@@ -482,9 +482,9 @@ all.
 
 With the reverse finish, Nadal's rotational pattern is also
 consistently more limited. Remember that this is the finish he uses on
-the majority of his forehands. ***[[Rather than continuing to rotate his
+the majority of his forehands. ***Rather than continuing to rotate his
 torso, the shoulder rotation stops as soon as his shoulders reach
-parallel with the baseline.]{.mark}]{.underline}*** From there it's all
+parallel with the baseline.*** From there it's all
 arm extension and hand and arm rotation. Again we see a top player
 reversing the paradigm. Nadal has an extreme grip, but a straight
 hitting arm position, but on most balls he has a torso rotation pattern

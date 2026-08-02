@@ -84,10 +84,10 @@ In any case, the execution of Phase 1 has the same feeling as Phase 1 on
 all strokes. The technical position is different but the rhythm to get
 there is smooth and deliberate.
 
-**[[Phase 2 in the slice starts with the forward swing from the wrap
+**Phase 2 in the slice starts with the forward swing from the wrap
 position around the head. The hitting arm and racket accelerate along a
 high to low swing path towards the ball, with the hitting arm
-straightening out as it approaches contact.]{.mark}]{.underline}**
+straightening out as it approaches contact.**
 
 The explosiveness in Phase 2 is primarily in the movement of the arm and
 racket. This is different from the other strokes where Phase 2 includes
@@ -117,10 +117,10 @@ players can get a lot more out of their slice backhand.
 
 **A signature relationship in the pro slice is between the height of
 the hand and the racket head.** With this explosive
-downward swing path, **[[the racket head can stay below the hand for the
+downward swing path, **the racket head can stay below the hand for the
 entire course of the follow-through with the racket tip actually
 pointing straight down at the court at some point in the
-swing.]{.mark}]{.underline}**
+swing.**
 
 ![A person playing tennis Description automatically generated with
 medium

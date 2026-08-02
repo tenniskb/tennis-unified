@@ -107,8 +107,8 @@ your standing height.** That means that if your
 normal standing height is six feet, your ideal athletic height would be
 around five feet.
 
-**[Your hips are dropped down to]{.underline} [[a low center of
-gravity]{.mark}]{.underline} and a wide base to
+**[Your hips are dropped down to]{.underline} a low center of
+gravity and a wide base to
 allow you to react and move to various positions
 on the court.**
 

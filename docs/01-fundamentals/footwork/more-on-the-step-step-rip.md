@@ -105,10 +105,10 @@ David Nalbandian is an example of how to use this right, left pattern
 powerful and dependable. He hits it with great ease and confidence. To
 me he's a perfect model for the modern forehand.
 
-**[[Look closely at the last two steps. The first is a cross step with
+**Look closely at the last two steps. The first is a cross step with
 the left foot. The second step is with the right leg. With the right leg
 he loads with the knee bend and then explodes to the
-ball.]{.mark}]{.underline}** Watch how he keeps the left leg in front of
+ball.** Watch how he keeps the left leg in front of
 the body in the air until the swing is finished. So, it's left foot
 cross step, right foot load, then rip.
 

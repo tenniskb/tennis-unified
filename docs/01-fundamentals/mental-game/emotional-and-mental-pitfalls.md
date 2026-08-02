@@ -37,10 +37,10 @@ in case they don't win. Learned helplessness can also include the
 belief that opponents always get lucky breaks.
 
 **These players are challenge avoiders.
-Challenge** **[[avoiders feel pushed around and
+Challenge** **avoiders feel pushed around and
 that they have reduced or no influence on the outcome of their matches.
 If they feel the opponent has more ability, they feel helpless to
-win.]{.mark}]{.underline}**
+win.**
 
 **To change this constellation of beliefs players must make a choice
 to accept and embrace their circumstances.** This
@@ -87,9 +87,9 @@ losers in sport and also in life. If this happens with any degree of
 regularity, then the likelihood of them feeling that way increases,
 while other athletes may see the setback as temporary.
 
-**[[There are 3 strategies athletes can use to tum their fear of failure
+**There are 3 strategies athletes can use to tum their fear of failure
 into a challenge if they are willing to embrace
-them.]{.mark}]{.underline}**
+them.**
 
 - **First, separate your identity from your performance.**
 
@@ -120,10 +120,10 @@ players who are more comfortable playing a lower position on the team.
 It seems as if they get a nose bleed from the high altitude of playing a
 top position.
 
-**[[They may fear that if they play at the top of the lineup, there will
+**They may fear that if they play at the top of the lineup, there will
 be higher expectations of them and the opponents will be harder to beat.
 If the athlete fears they cannot handle it, they may back off from going
-all in to play a top position.]{.mark}]{.underline}**
+all in to play a top position.**
 
 **The solution? Focus on maximizing your own potential than
 \"winning\" itself.** See yourself as a successful
@@ -167,14 +167,14 @@ make you feel bad about yourself in a global sense?\"**
 **To avoid the drawbacks of perfectionism, remember the following
 points.**
 
-- **[[Mistakes are part of the game and part of the
-  process.]{.mark}]{.underline}**
+- **Mistakes are part of the game and part of the
+  process.**
 
 - **How you deal with mistakes is critical to how much stress you
   incur and how much enjoyment you experience.**
 
-- **[[It's okay to strive for personal excellence but realize that you
-  will be imperfect along the way.]{.mark}]{.underline}**
+- **It's okay to strive for personal excellence but realize that you
+  will be imperfect along the way.**
 
 ![A person smiling for the camera Description automatically generated
 with medium

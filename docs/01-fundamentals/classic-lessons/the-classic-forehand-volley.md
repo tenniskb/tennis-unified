@@ -213,19 +213,19 @@ the incoming ball level. See the ball in front of your body position,
 almost as if you are looking through the racket strings at an incoming
 ball.
 
-**[[The idea is to get your head, eyes and body down close to the flight
+**The idea is to get your head, eyes and body down close to the flight
 of the ball. If the ball's plane is higher, your body will naturally
-straighten up.]{.mark}]{.underline}**
+straighten up.**
 
-**[[Now step forward with your left foot. Your strike is a short
+**Now step forward with your left foot. Your strike is a short
 downward, angled punch, leading with the bottom edge of the racket,
-stopping at contact point.]{.mark}]{.underline}**
+stopping at contact point.**
 
 **[[Squeeze the racket handle at contact point with a strong grip,
 mostly with your last three fingers.]{.mark} [Stop your racket head at
 contact point for control, power and backspin.]{.mark}]{.underline}**
-**[[Once the ball is hit well in front of your body, you see the shot
-perfectly with both eyes.]{.mark}]{.underline}**
+**Once the ball is hit well in front of your body, you see the shot
+perfectly with both eyes.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -242,9 +242,9 @@ Do not guide your volleys with long finishes unless the oncoming ball is
 very slow. Your squeezed grip feel will have a bit more pressure on your
 last three fingers, not your thumb and first finger.
 
-**[[Do not lean forward in your recovery position. Recover to the ready
+**Do not lean forward in your recovery position. Recover to the ready
 position and keep your feet moving! Be ready for any reply, especially a
-lob.]{.mark}]{.underline}**
+lob.**
 
 Wide, low and reaching balls cannot be hit as far in front of you as a
 straight incoming ball. These struggling balls are contacted naturally

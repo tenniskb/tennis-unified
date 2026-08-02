@@ -68,11 +68,11 @@ opportunities to go on the offensive during the match. This means
 learning to center the ball on the court.
 
 When you watch the pros (especially the women) you will see a definite
-pattern of playing the middle two-thirds of the court. **[[Rather than
+pattern of playing the middle two-thirds of the court. **Rather than
 trying to open the court diagonally, they use the depth of their shots
 to generate short replies. At this point, they go on the attack by
 striking the ball slightly harder into one of the
-corners.]{.mark}]{.underline}**
+corners.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically generated with medium
@@ -131,9 +131,9 @@ have to put every volley away. Sampras is a master of this shot.**
 turn around the outcome of many competitive matches. Again, the answer
 is the neutral ball.** **The idea is to go from a
 defensive position to a neutral position, then maybe to the offense.
-[[The key to getting out of the defensive position in the rally is to
+The key to getting out of the defensive position in the rally is to
 hit a neutral ball at your rally speed deep into the center of your
-opponent's court.]{.mark}]{.underline}**
+opponent's court.**
 
 **Centering the ball will cut down on your errors, and also, make it
 harder for your opponent to create an angle and keep you on the run.
@@ -155,9 +155,9 @@ enough to make a good aggressive shot. **You might want to hit another
 neutral shot allowing you time to gain your composure and your wind
 before trying to attack.**
 
-**[[Playing neutral tennis works no matter what style you play. A
+**Playing neutral tennis works no matter what style you play. A
 serve-volley type player can make good use of this
-theory.]{.mark}]{.underline}**
+theory.**
 
 When your opponent plays a good low ball at your feet as you approach
 the net, play back a good neutral volley or half-volley deep down the

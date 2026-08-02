@@ -136,8 +136,8 @@ outlook\--his whole life. He discovered his will to win that day.\"
 And then Vic said this: **\"The desire to win is always the greatest
 factor in success.\"**
 
-**[[Now that set me off. The desire to win is the greatest factor?
-Always?]{.mark}]{.underline}**
+**Now that set me off. The desire to win is the greatest factor?
+Always?**
 
 **Was this the same approach Rod Laver had revealed to me under
 interrogation in the early morning hours in O'Hare airport? Wasn't Vic

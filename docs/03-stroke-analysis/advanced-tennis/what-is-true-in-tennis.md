@@ -151,11 +151,11 @@ are present in the strokes of top players. Which are common, which are
 individualistic, and which should other players experiment with for
 themselves.
 
-***[[This is not to say that players and coaches should not start with
+***This is not to say that players and coaches should not start with
 preferred concepts or ideas. The shift here, at least in my thinking, is
 to be more open to experimentation, to letting players follow their own
 path, evaluating the results, and then continuing to experiment and
-evolve.]{.mark}]{.underline}***
+evolve.***
 
 So let's take a close look at the range technical elements in these
 three great forehands and see the similarities and differences and the
@@ -404,8 +404,8 @@ coaches and players to contemplate.
 Are there immutable principles about how to teach a forehand? Or is the
 reality messier and more uncertain?]{.mark}***
 
-***[[\"Tennis teaching,\" Allen Fox once told me with a dry smile, \"is
-a black art.\"]{.mark}]{.underline}*** Coaches, he continued, are often
+***\"Tennis teaching,\" Allen Fox once told me with a dry smile, \"is
+a black art.\"*** Coaches, he continued, are often
 perceived by players as wizards with secret knowledge. But the danger
 here is that if the secret knowledge changes, the magic aura disappears.
 
@@ -433,11 +433,11 @@ for more on the arm positions on the two-hander.)
 This is the same problem we encounter when we try to find absolute
 guides by studying the forehands of Roger, Rafa, and Novak.
 
-***[[It's one of the biggest challenges that teachers and theoreticians
+***It's one of the biggest challenges that teachers and theoreticians
 of the game face. What if what they believe and have preached to
 students for years is undermined by changes at the top of the game? Or
 what if video shows that what they have taught years is at variance with
-what top players actually do?]{.mark}]{.underline}***
+what top players actually do?***
 
 The problem is greatest for those who have adopted and wish to maintain
 the mantle of wizard. They are often forced to ignore the reality of
@@ -451,11 +451,11 @@ But the other option is to move away from the darkness of the magical
 world and into the light that comes from objective examination of
 evidence.
 
-***[[It's scary and it's humbling to make the transition. It means
+***It's scary and it's humbling to make the transition. It means
 being willing to reexamine even your most cherished beliefs. It means
 being willing to modify or abandon them in the face of additional
 evidence. It means deciding that it's more important to be accurate
-than consistent.]{.mark}]{.underline}***
+than consistent.***
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -513,10 +513,10 @@ too fast and too dynamic for the human eye. And virtually every writer
 on Tennisplayer - including the big names - has had this same experience
 digging into the video archives.
 
-***[[It's the mark of a great coach or a smart player to always be
+***It's the mark of a great coach or a smart player to always be
 looking to revise his thinking, to become more accurate, to understand
 more completely, to find new information to improve his or her
-understanding of this amazing game.]{.mark}]{.underline}***
+understanding of this amazing game.***
 
 That is one of the things I am proudest about on Tennisplayer. Not the
 interpretations I make or those of all the other amazing voices on the

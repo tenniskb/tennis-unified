@@ -36,9 +36,9 @@ If I win a Set-up Point at 30-30 or deuce, I'm only one point away from
 winning the game. My opponent is three points away. A big difference. If
 I win a point at 30-15 (to go up 40-15) the spread is ever bigger.
 
-Psychologically it's all positive. **[[Winning a set up point allows me
+Psychologically it's all positive. **Winning a set up point allows me
 to move into a strong position mentally whether I'm serving or
-receiving.]{.mark}]{.underline}**
+receiving.**
 
 Often at the club level if your opponent is serving and you win your
 Set-up Point (moving to ad out) it may be all you need to do. A double

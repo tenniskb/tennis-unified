@@ -12,9 +12,9 @@ confidence](media_hitting-on-the-run/media/image1.webp)
 stance.**
 
 **Hitting effortlessly and powerfully on the run is one of the hallmarks
-of tennis greatness.** **[[Slow reactions, sluggish recoveries, and
+of tennis greatness.** **Slow reactions, sluggish recoveries, and
 moving with the center of gravity too high, can make the quickest
-athletes appear slow.]{.mark}]{.underline}**
+athletes appear slow.**
 
 **On the other hand, when your intensity and pulse rate is at
 performance levels and your movement is synced with the tempo of play,
@@ -214,8 +214,8 @@ variations on this kind of built-in recovery.
 
 **Open Stance Slalom Recovery**
 
-The first variation I call the **[[Open Stance
-Slalom.]{.mark}]{.underline}** Like a skier changing directions in the
+The first variation I call the **Open Stance
+Slalom.** Like a skier changing directions in the
 turn around the slalom flag, the lower body shifts underneath the core
 to reverse directional momentum. By the time you complete the
 follow-through, your upper body is positioned to lead the way back.

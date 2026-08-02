@@ -38,9 +38,9 @@ that might be only two steps and no further back than the service line.
 
 **The Helper**
 
-**[[The second player is called the Helper. The Helper is the player
+**The second player is called the Helper. The Helper is the player
 diagonally across from the ball. The Helper plays further back than the
-Hunter, from the area around the service line.]{.mark}]{.underline}**
+Hunter, from the area around the service line.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -48,21 +48,21 @@ confidence](media_the-hunter-and-the-helper/media/image2.webp)
 
 **The Helper is further back, diagonally across from the ball.**
 
-**[[The distance the Helper gets from the net is determined by the
+**The distance the Helper gets from the net is determined by the
 distance from the baseline of the opposite side opponent. The closer the
 opponent gets, the closer the Helper gets but he is always in proximity
-to the service line.]{.mark}]{.underline}**
+to the service line.**
 
 He does not close in unless drawn in by a short ball. This eliminates or
 severely minimizes the effectiveness of the crosscourt lob.
 
-**[[The Helper points his toes toward the ball and stands in the center
+**The Helper points his toes toward the ball and stands in the center
 of all possible returns to his side. To do this he always keeps the net
 strap directly between himself and the crosscourt ball. This eliminates
-vulnerability to sharp angles.]{.mark}]{.underline}**
+vulnerability to sharp angles.**
 
-**[[The Helper hits crosscourt, Deep to Deep. The goal is to keep the
-ball in front of his Hunter partner.]{.mark}]{.underline}**
+**The Helper hits crosscourt, Deep to Deep. The goal is to keep the
+ball in front of his Hunter partner.**
 
 On volleys the Helper hits \"wide to wide\" and \"middle to middle on
 volleys.\" That means an angled ball goes back with angle and a middle
@@ -75,23 +75,23 @@ confidence](media_the-hunter-and-the-helper/media/image3.webp)
 
 **Notice the position of the Helper and Hunter relative to the net.**
 
-**[[The only time the Helper closes in is on a short ball that pulls him
+**The only time the Helper closes in is on a short ball that pulls him
 toward the net. If the ball is a high floater, the roles reverse. The
 Helper now becomes the Hunter and hits directly down the line. His
 partner now drops back to the service line and becomes the
-Helper.]{.mark}]{.underline}**
+Helper.**
 
-**[[But if the Helper is pulled toward the net by a low ball, he hits a
+**But if the Helper is pulled toward the net by a low ball, he hits a
 short angle volley crosscourt in front of his partner. The roles do not
 reverse in this case and the Hunter stands his ground. The Helper then
 simply readjusts his position to keep the net strap in front of the
-ball.]{.mark}]{.underline}**
+ball.**
 
 **Setting Up Points**
 
-**[[Rather blasting deep topspin groundstrokes, the best shot to set up
+**Rather blasting deep topspin groundstrokes, the best shot to set up
 your team in our system is short, angled, and
-low.]{.mark}]{.underline}**
+low.**
 
 ![A group of people play tennis Description automatically generated with
 low
@@ -99,23 +99,23 @@ confidence](media_the-hunter-and-the-helper/media/image4.webp)
 
 **Hitting short, angled, and low gives the Hunter balls to pick off.**
 
-**[[Here's why. Regardless of whether your opponent is staying back or
+**Here's why. Regardless of whether your opponent is staying back or
 coming in, this type of ball forces them to move laterally and hit up.
 Since the player is halfway to the net, lobbing is more difficult and
-much riskier.]{.mark}]{.underline}**
+much riskier.**
 
-**[[Now both the Hunter and Helper can move closer to the net than if
+**Now both the Hunter and Helper can move closer to the net than if
 the ball was hit deep. The opponent will likely hit the ball more slowly
 because it will reach them with much less pace and
-height.]{.mark}]{.underline}**
+height.**
 
-**[[This will create a huge gap between the partners. The result is the
+**This will create a huge gap between the partners. The result is the
 Hunter has a better chance of having time to read and pick off the
-oncoming shot.]{.mark}]{.underline}**
+oncoming shot.**
 
-**[[Once you have established the short angled ball, your other shots
+**Once you have established the short angled ball, your other shots
 will become more effective, especially the down the line lob because it
-has to be covered by the same player.]{.mark}]{.underline}**
+has to be covered by the same player.**
 
 If the opponent starts to cheat in, the lob or a deep hard drive will
 keep them off balance and create errors. You will be hitting a lot of
@@ -200,17 +200,17 @@ opportunity.**
 
 **Both Back**
 
-**[[When both players are back, maintain your basic principles of
+**When both players are back, maintain your basic principles of
 positioning. But now you are looking to hit short angles or drop volleys
 at the first possible opportunity. Patience is key as this may take some
-time.]{.mark}]{.underline}**
+time.**
 
-**[[The mistake many teams make when both players on the other team play
+**The mistake many teams make when both players on the other team play
 back is that they play too close to the net and hit all their shots
 deep. This sets the opponents up to lob over their heads. Make sure to
 practice angled overheads, down the middle overheads as well as angle
 and drop volleys in your practice sessions as these shots will also be
-invaluable in this situation.]{.mark}]{.underline}**
+invaluable in this situation.**
 
 And what if the two back team are the dreaded lobbers? Stay tuned for an
 upcoming article devoted directly to that issue!

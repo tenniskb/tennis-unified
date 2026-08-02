@@ -58,8 +58,8 @@ away. This is justification for at least a brief shot of anger in any
 man's (or woman's) book. But you pull yourself together before the
 next point starts, and you think you are ok.
 
-**[[But you're not quite. You've actually kicked the nervous system
-around a bit.]{.mark}]{.underline}** A shot of adrenaline and other
+**But you're not quite. You've actually kicked the nervous system
+around a bit.** A shot of adrenaline and other
 stress hormones are coursing through your blood stream and bathing your
 nervous system. Under this influence, the nervous circuitry will behave
 slightly differently. So even though you think you are on balance for

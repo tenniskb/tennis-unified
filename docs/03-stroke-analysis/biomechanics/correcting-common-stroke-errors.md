@@ -182,9 +182,9 @@ confidence](media_correcting-common-stroke-errors/media/image8.webp)
 
 **Many players overhit and pull out of the shot too soon.**
 
-**[[The next forehand error we're going to discuss is pulling out of
+**The next forehand error we're going to discuss is pulling out of
 the shot too soon. This tends to happen when you overhit and when
-you're trying to gain more power.]{.mark}]{.underline}** As a result,
+you're trying to gain more power.** As a result,
 **you open your stance too soon and your arm comes out
 prematurely**. **This breaks the natural rhythm
 of your swing. To make the linked system work, you must stay in the
@@ -196,8 +196,8 @@ confidence](media_correcting-common-stroke-errors/media/image9.webp)
 
 **Arms in tight, grip light.**
 
-**[[A final, very important point: you should also grip the racquet very
-lightly.]{.mark}]{.underline}** When you hold the grip lightly, it
+**A final, very important point: you should also grip the racquet very
+lightly.** When you hold the grip lightly, it
 prevents you from trying to over hit the ball. So, keep your arms in
 tight and grip light for compact, efficient strokes.
 
@@ -205,9 +205,9 @@ tight and grip light for compact, efficient strokes.
 
 Trying to over hit the ball can cause real problems with all of your
 strokes, not just the forehand. Now let's look at what happens to your
-backhand when you over hit. ***[[We've got to remember that tennis is a
+backhand when you over hit. ***We've got to remember that tennis is a
 game of control. If you don't have control, it doesn't matter how hard
-you hit the ball.]{.mark}]{.underline}*** Let's look at the one-handed
+you hit the ball.*** Let's look at the one-handed
 backhand first. I see a lot of different errors but let's look at the
 most common one. This involves bailing out too soon with the front
 shoulder.
@@ -217,9 +217,9 @@ generated](media_correcting-common-stroke-errors/media/image10.webp)
 
 **Lifting the shoulder destroys the plane of the swing.**
 
-***[[Controlling your front shoulder is very important when hitting a
+***Controlling your front shoulder is very important when hitting a
 one-handed backhand. That's because your racquet will automatically
-follow the path of your front shoulder.]{.mark}]{.underline}*** Many
+follow the path of your front shoulder.*** Many
 players will lift up their front shoulder when going for extra power.
 But as soon as you do that, you lose the proper plane of your swing and
 send the ball in a different direction.

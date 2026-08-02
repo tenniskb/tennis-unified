@@ -155,13 +155,13 @@ confidence](media_what-is-confidence-2/media/image6.webp)
 
 **Put the ball away with authority.**
 
-**[[Being confident also means having flexibility. You have to ask the
+**Being confident also means having flexibility. You have to ask the
 player what happens when the opponent gets his best shots back? What
 happens if a pattern doesn't work? Are you going to still be confident?
 Are you still confident in your decision making abilities? If things
 aren't going your way, can you go to Plan B? You have to help your
 player be confident in their decision making, and also help them be
-confident in a Plan B game plan.]{.mark}]{.underline}**
+confident in a Plan B game plan.**
 
 **Regaining Confidence**
 
@@ -324,15 +324,15 @@ generated](media_what-is-confidence-2/media/image11.webp)
 
 **Recognize the opportunity to believe when you do something good.**
 
-**[[Players sometimes don't recognize those opportunities. You have to
+**Players sometimes don't recognize those opportunities. You have to
 recognize when you've done something that is very good in a given
 situation, pat yourself on the back, and believe that you can do it
-again when the situation is right.]{.mark}]{.underline}**
+again when the situation is right.**
 
-**[[Again, my advice club players, if you want to get create confidence,
+**Again, my advice club players, if you want to get create confidence,
 then you have to do the same kind of things. You have to focus on the
 positive and tell yourself that when good things happen, you can make
-them happen again.]{.mark}]{.underline}**
+them happen again.**
 
 Next, I'll tell the story of my work coaching Ana Ivanovic and how all
 these issues about confidence relate to her game and the ups and downs

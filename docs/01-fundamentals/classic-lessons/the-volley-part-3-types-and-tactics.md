@@ -68,10 +68,10 @@ usually a line drive off the back fence.
 
 **This is a case where you have to let gravity work for you**.
 **Volley this ball firmly, but straight out in an attempt to achieve
-depth.** **[[Some follow through is usually
+depth.** **Some follow through is usually
 required, particularly if the approaching ball lacks pace. If you want
 to volley this ball down and on an angle, be sure to practice
-constraint!]{.mark}]{.underline}**
+constraint!**
 
 Remember, a high ball that has a great deal of velocity is probably
 going out (unless it has very heavy topspin), so take a good look before
@@ -86,10 +86,10 @@ the ball.**
 ### The Low Volley
 
 Because it's hit below the net, the low volley is more of a defensive
-or set up shot. **[[If you're making this shot moving towards the net
+or set up shot. **If you're making this shot moving towards the net
 but you're in the back third of the service box, it's best to try and
 hit this deep and either down the line or down the middle, before
-continuing to move forward.]{.mark}]{.underline}** If the incoming ball
+continuing to move forward.** If the incoming ball
 has a lot of pace you can borrow that pace by holding the racquet firmly
 and letting the ball bounce off your strings. If it lacks pace be sure
 to accelerate the racquet through the volley.
@@ -110,12 +110,12 @@ order of the day.
 correctly.** For starters, there should be a fair
 amount of distance between your feet to encourage your knees to be more
 flexible. **Both knees should be bent, but the knee of the hind leg
-should be close to the ground.** **[[This will
+should be close to the ground.** **This will
 allow you to volley a low ball much the way you would an ideal, shoulder
 height ball because, in fact, your shoulders are lower and your eyes are
 closer to the plane of the ball. To get that hind leg down, try turning
 your back foot on its side or dragging the top of your
-shoe.]{.mark}]{.underline}**
+shoe.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-volley-part-3-types-and-tactics/media/image4.webp)
@@ -140,9 +140,9 @@ and an alert, speedy player races in and rips a passing shot. You need
 to try and keep this shot relatively low to the net or this will often
 be the consequence.
 
-**[[The best time to try the drop volley is when your opponent is
+**The best time to try the drop volley is when your opponent is
 playing well back of the baseline, has been pulled well wide of the
-court, or is obviously quite slow.]{.mark}]{.underline}**
+court, or is obviously quite slow.**
 
 Hitting a drop volley involves decelerating the racquet head at impact.
 Imagine someone tossing you an egg or a water balloon in which you pull

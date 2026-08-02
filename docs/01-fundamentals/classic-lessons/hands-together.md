@@ -311,13 +311,13 @@ generated](media_hands-together/media/image11.webp)
 **The use of the opposite arm is also critical setting up the backhand
 volley.**
 
-**[[The sport of tennis is much more technical and mechanical than the
-average player realizes.]{.mark}]{.underline}** Often players believe
+**The sport of tennis is much more technical and mechanical than the
+average player realizes.** Often players believe
 that the way to get better is to simply play more and to play against
 better players. The result may be marginal improvement, but often
-players with technical problems actually get worse. **[[In reality most
+players with technical problems actually get worse. **In reality most
 club players need to focus on the process of improving their technique
-to have a chance to improve their level.]{.mark}]{.underline}**
+to have a chance to improve their level.**
 
 This is the difference with high performance players. They know that
 wanting to win in and of itself means nothing. The players who are

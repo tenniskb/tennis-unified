@@ -181,17 +181,17 @@ opponent.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[If you hit on the rise, the second step has to be earlier, actually
-before the bounce of the ball.]{.mark}]{.underline}** In this case, say
+**If you hit on the rise, the second step has to be earlier, actually
+before the bounce of the ball.** In this case, say
 \"Step, Step Hit,\" starting just before the bounce to speed up the
 timing and pull the trigger earlier.
 
 **Understand that good form equals power. Especially when you take the
 ball early, you don't need to swing harder, you just need good
-technique and good timing.** **[[So many players
+technique and good timing.** **So many players
 make the mistake of trying to completely change their form to take
 bigger swings when they try to put the ball away. Don't do
-it!]{.mark}]{.underline}**
+it!**
 
 **Now you have the Step Step Rip instead.**
 

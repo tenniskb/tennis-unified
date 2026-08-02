@@ -42,16 +42,16 @@ generated](media_the-strategy-zone-the-swinging-volley/media/image2.webp)
 
 **Maximum power and more winners from deeper in the court.**
 
-**[[The Swinging Volley is a dynamic finish shot that increases the
+**The Swinging Volley is a dynamic finish shot that increases the
 opportunities to end points. By intercepting the ball in the air and
 hitting with a swing resembling a groundstroke, the player is able to
-generate a maximum amount of power.]{.mark}]{.underline}**
+generate a maximum amount of power.**
 
-**[[Swinging volleys allow players to be more aggressive on high
+**Swinging volleys allow players to be more aggressive on high
 floating balls, and hit winners from further back in the court.
 Typically, a player is able to hit winners from the service line or even
 further back, something that is difficult if not impossible with
-traditional volleys.]{.mark}]{.underline}**
+traditional volleys.**
 
 **When I say Swinging Volleys, I mean both the forehand and backhand
 versions. In this game where the huge majority of junior players hit
@@ -76,10 +76,10 @@ those balls off with some high powered swinging volley winners!
 
 **Technical Points**
 
-**[[The swinging volley is basically a slightly more compact version of
+**The swinging volley is basically a slightly more compact version of
 the groundstroke. The difference obviously is that you take the ball in
 the air before it bounces, but the technical swings are quite
-similar.]{.mark}]{.underline}**
+similar.**
 
 Let's go over the important technical elements. These are as follows:
 ball recognition, explosive early footwork, preparation and stance, and
@@ -104,9 +104,9 @@ the players come forward.** **This is different
 from a traditional approach sequence in which the player is already
 moving forward and committed to coming in.**
 
-**[[Does this mean that the pro players are slow in reacting? It's the
+**Does this mean that the pro players are slow in reacting? It's the
 opposite. They are reacting virtually instantaneously to the opportunity
-presented by the opponent's next ball.]{.mark}]{.underline}**
+presented by the opponent's next ball.**
 
 **They may recognize the shot just as the ball comes off the
 opponent's racket. But in some cases, they are moving before the
@@ -130,10 +130,10 @@ generated](media_the-strategy-zone-the-swinging-volley/media/image5.webp)
 **The swing is usually a slightly more compact than the groundstroke.
 Compare the racket hand heights.**
 
-**[[Basically, you hit the swinging volleys with your groundstroke
+**Basically, you hit the swinging volleys with your groundstroke
 grips. As with the groundstrokes, you also need the ability to hit
 swinging volleys off both an open and a neutral
-stance.]{.mark}]{.underline}**
+stance.**
 
 Watch how the players set up on the outside foot first. Now, depending
 on factors such as ball height and where they plan to go with the ball,

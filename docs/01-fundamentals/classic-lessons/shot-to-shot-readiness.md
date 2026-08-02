@@ -272,8 +272,8 @@ Understanding your hitting zone makes the path to positioning feel
 natural.
 
 To determine your hitting zone, set up on the outside foot in an open
-stance. **[[The ideal distance to the contact is about the length of
-your fully extended non-racket arm.]{.mark}]{.underline}** Watch in the
+stance. **The ideal distance to the contact is about the length of
+your fully extended non-racket arm.** Watch in the
 animation how this works when I drop the ball out of my left hand.
 Notice also that the ball is dropping slightly in front of my torso.
 This means the contact will also be in front, although the exact
@@ -319,9 +319,9 @@ confidence](media_shot-to-shot-readiness/media/image11.webp)
 **Once you've hit the ball, the focus switches to recovering for the
 next shot.**
 
-**[[From a footwork standpoint there's a definite advantage to using
+**From a footwork standpoint there's a definite advantage to using
 the open stance. This is because you can immediately push off with your
-outside foot to initiate the recovery.]{.mark}]{.underline}**
+outside foot to initiate the recovery.**
 
 **The simplest recovery footwork when you don't have a great distance
 to go is to use slide steps. This pattern is somewhat more typical when

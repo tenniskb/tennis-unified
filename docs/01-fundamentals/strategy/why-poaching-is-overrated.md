@@ -12,10 +12,10 @@ From my over forty years as a player and coach I have learned that most
 players, especially at the club level have a lot of anxiety about
 poaching. There is a reason for this: poaching is greatly overrated.
 
-**[[The reality is that if you understand the principles in the System,
+**The reality is that if you understand the principles in the System,
 you don't need to be a great poacher to be a great net player and a
 great doubles player. In fact, you will be better off without excessive
-poaching.]{.mark}]{.underline}**
+poaching.**
 
 For most players poaching is a source of worry and frustration. There
 are many factors that make poaching challenging.
@@ -24,14 +24,14 @@ Players worry about not doing enough poaching. They worry about doing
 too much poaching and aggravating their partner. They also worry about
 what happens if they poach and end up missing an easy ball.
 
-**[[To poach successfully you need the right set up from your partner,
+**To poach successfully you need the right set up from your partner,
 usually a serve or return of serve. A lot of players don't serve well
 enough to set up their partner consistently. On the return many partners
 stand too far back to be able to pick off the first ball with a
-successful poach.]{.mark}]{.underline}**
+successful poach.**
 
-**[[You should almost always be ahead in the game when you poach. At the
-very least you should be even.]{.mark}]{.underline}**
+**You should almost always be ahead in the game when you poach. At the
+very least you should be even.**
 
 It's too risky to poach when you're losing. If everything else is
 going so badly that you want to try something different just to change
@@ -142,10 +142,10 @@ if they hit a winter down the line you're still ahead.
 not, they still create a layer of concern for your
 opponent.**
 
-**[[They not only have to focus on hitting their shot, they have one eye
+**They not only have to focus on hitting their shot, they have one eye
 and part of their brain on you too. Your potential poach is now a factor
 in every point, even if you never take another
-ball.]{.mark}]{.underline}**
+ball.**
 
 ![A couple of men playing tennis Description automatically generated
 with medium
@@ -162,11 +162,11 @@ start at the service line like most players do, you will rarely have
 time to get to get the ball in time or position to make a decisive
 volley.]{.mark}]{.underline}**
 
-**[[Remember all the opportunities to poach should be based on your
+**Remember all the opportunities to poach should be based on your
 evaluation of the overall match situation---the score, your partner, and
 your opponent. Be creative and change your position based on these
 factors and don't just stand in the same place all the
-time.]{.mark}]{.underline}**
+time.**
 
 The bottom line is that by using the System, knowing your position and
 responsibilities and having a partner who knows how to set you up, you

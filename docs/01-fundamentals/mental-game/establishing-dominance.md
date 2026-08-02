@@ -16,10 +16,10 @@ personal and emotional contest in which one player ends up on top (at
 least figuratively) of the other. And one powerful tool that players use
 to help win these matches is to establish dominance.
 
-**[[What is meant by \"dominance?\" It is the feeling that inferior
+**What is meant by \"dominance?\" It is the feeling that inferior
 players get when they face better players. High ranking or successful
 players have a way of making their opponents feel weak and
-ineffectual.]{.mark}]{.underline}**
+ineffectual.**
 
 For example, in addition to his game, Roger Federer's simple presence
 across the net is intimidating. Federer does not just overpower
@@ -67,18 +67,18 @@ Along this line, much of Federer's psychological dominance comes from
 the way he carries himself on court \-- erect, confident, and, to all
 appearances, unresponsive to his opponent's winners or his own errors.
 
-You can do the same. **[[If your opponent hits a great shot, appear to
+You can do the same. **If your opponent hits a great shot, appear to
 take no notice. Simply walk back into position as you always do \-- head
 up, steady stride, under control, and looking like you are confident,
 have a plan, and know exactly what you are doing. This is a dominant
-attitude.]{.mark}]{.underline}**
+attitude.**
 
-**[[If you make an error, no matter how egregious, act as if nothing at
+**If you make an error, no matter how egregious, act as if nothing at
 all happened. Just go about your business and ready yourself to play the
 next point. Realize that displays of frustration, anger, or
 discouragement are signs of weakness that serve only to strengthen your
 opponent \-- the emotional equivalent of giving him backrubs on
-changeovers.]{.mark}]{.underline}**
+changeovers.**
 
 **If you are moaning and groaning when things are going against you,
 expect your opponent to fight you to the bitter end. These are
@@ -93,10 +93,10 @@ confidence](media_establishing-dominance/media/image4.webp)
 
 **Pacing**
 
-**[[Another method of establishing dominance is to control the pace of
+**Another method of establishing dominance is to control the pace of
 the match. Even if you are behind in the score, you can still dominate
 the match pace. Between points you deliberately walk into position at
-your own pace, taking no notice of your opponent.]{.mark}]{.underline}**
+your own pace, taking no notice of your opponent.**
 
 If it is slower than your opponent wishes, make him wait; if it is
 faster, make him feel rushed. You don't do this outside of any written
@@ -113,10 +113,10 @@ determined to play at your own, dominant pace.
 
 **Strategy**
 
-**[[Finally, you can dominate with your match strategy. Having a clear
+**Finally, you can dominate with your match strategy. Having a clear
 game plan and purpose rather than randomly hitting balls into whatever
 opening may be at hand is intimidating. It indicates that you think you
-have found a weakness and intend to exploit it.]{.mark}]{.underline}**
+have found a weakness and intend to exploit it.**
 
 Thoughtful, purposeful people frighten uncertain people (which are most
 people). Resist ever allowing your opponent to think that you fear any

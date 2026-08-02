@@ -47,9 +47,9 @@ generated](media_replacing-confidence-with-emotional-discipline/media/image2.jpg
 
 **How can you escape from a negative mind set?**
 
-**[[Hit more crosscourts and try fewer down the line winners. Be
+**Hit more crosscourts and try fewer down the line winners. Be
 determined to work harder and be willing to do more running than usual.
-Grind more than you normally would.]{.mark}]{.underline}**
+Grind more than you normally would.**
 
 **[All this takes tremendous mental effort. You can't relax your
 concentration even for a moment. But you can do it if you are
@@ -154,8 +154,8 @@ confidence](media_replacing-confidence-with-emotional-discipline/media/image7.jp
 
 **Time**
 
-**[[Another solution to loss of confidence can simply be time. Time can
-be therapeutic.]{.mark}]{.underline}**
+**Another solution to loss of confidence can simply be time. Time can
+be therapeutic.**
 
 Time itself can sometimes aid in breaking out of a slump. This is
 because the decrease in confidence caused by a loss naturally dissipates

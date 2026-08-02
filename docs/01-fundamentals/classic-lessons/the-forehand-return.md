@@ -76,8 +76,8 @@ technical respects, a block is really a more compact version of a swing.
 The turn is shorter.** **But there is definitely
 a turn.** **The follow-through is
 shorter.** **But there is some
-follow-through.** **[[Most importantly, the racket
-needs to be sufficiently in front at contact.]{.mark}]{.underline}**
+follow-through.** **Most importantly, the racket
+needs to be sufficiently in front at contact.**
 
 ![A person playing tennis Description automatically
 generated](media_the-forehand-return/media/image4.webp)
@@ -96,10 +96,10 @@ usually because they don't prepare, or prepare so late that swinging is
 not an option. Learning the timing of the swing also helps players
 develop the instinct to know when swinging is not possible.
 
-**[[Blocking the ball back at the pro level has become a more common
+**Blocking the ball back at the pro level has become a more common
 strategy because of the lack of serve and volley players. A player can
 block back a huge serve, hitting it high and deep without the fear of
-the server taking it out of the air.]{.mark}]{.underline}**
+the server taking it out of the air.**
 
 **Against certain players this is an effective strategy because it
 neutralizes a big serve and puts the returner on an even playing
@@ -125,8 +125,8 @@ ball, but let's discuss the issue first in a general way.
 Compared to the return, there is usually more shoulder turn on a
 groundstroke. The most obvious difference, however, is the size of the
 backswing. Virtually every player takes a larger backswing on the
-groundstrokes. By contrast, **[[with the return, the players flatten out
-the looping motion in the take back.]{.mark}]{.underline}**
+groundstrokes. By contrast, **with the return, the players flatten out
+the looping motion in the take back.**
 
 With some players the difference between the groundstroke and the return
 is obvious. Lleyton Hewitt, one the game's best returners, is probably
@@ -277,8 +277,8 @@ when contacting the ball if at all possible.**
 
 The footwork at the start of the return is often overlooked. **The
 footwork actually begins with one or sometimes two small steps prior to
-the split step.** **[[These steps can be either
-forward or backward.]{.mark}]{.underline}**
+the split step.** **These steps can be either
+forward or backward.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -288,9 +288,9 @@ confidence](media_the-forehand-return/media/image11.webp)
 
 For years I have maintained that a serve is not that much different from
 a short ground stroke, especially at the lower levels. Keep in mind on a
-serve, the ball has to land inside the service line to be good. **[[If
+serve, the ball has to land inside the service line to be good. **If
 you receive a ground stroke that lands inside the service line, it's
-natural to attack it with a full swing.]{.mark}]{.underline}**
+natural to attack it with a full swing.**
 
 **The difference with the serve of course is that the velocity can be
 50% or a 100% higher.** Another difference is that

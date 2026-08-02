@@ -93,9 +93,9 @@ Inside Foot and steps to the ball with the Outside Foot.
 You should also use the Float Move to speed up your move backwards for
 an overhead.
 
-**[[The difference compared to the volleys is that the push with the
+**The difference compared to the volleys is that the push with the
 Outside Foot is backwards, in the direction you are moving to get back
-for the shot.]{.mark}]{.underline}** The increased quickness in your
+for the shot.** The increased quickness in your
 movement can be the difference in reaching more overheads in position to
 put them away.
 

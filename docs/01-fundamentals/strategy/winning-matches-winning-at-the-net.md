@@ -24,11 +24,11 @@ make this mistake at the cost of many points and even entire matches.
 
 In a backcourt rally, as we saw in Part 1, the best position for
 covering the court is on the opposite half diagonally across from your
-opponent. **[[The safe backcourt play is crosscourt, until you are able
+opponent. **The safe backcourt play is crosscourt, until you are able
 to hurt your opponent with a strong down the line approach, or an
 outright winner. Hitting down the line when you're not in the position
 to finish the point opens the court to your opponent's crosscourt
-reply.]{.mark}]{.underline}**
+reply.**
 
 **At the net, however, geometry dictates that a player should stay on
 the same half of the court as his opponent.**
@@ -74,9 +74,9 @@ down the line pass.**
 **Compare this to the court geometry when I hit an approach down the
 line. My opponent has two options for passing shots, crosscourt or down
 the line. But now I am bisecting the two widest angles he can
-hit.** **[[My distance to cover either pass is
+hit.** **My distance to cover either pass is
 substantially less than when I approach
-crosscourt.]{.mark}]{.underline}**
+crosscourt.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing tennis, athletic game, court, person Description automatically
@@ -131,12 +131,12 @@ tries to go.
 
 **The Volley**
 
-**[[This same geometric principle governs the placement of your volleys.
+**This same geometric principle governs the placement of your volleys.
 As a general rule, when you volley crosscourt, the shot should be a
 winner or put so much pressure on your opponent that you force a very
 weak reply. If you're not able to put the ball away or hurt your
 opponent, the geometric advantage swings dramatically his
-way.]{.mark}]{.underline}**
+way.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person hitting a ball with a tennis racket Description automatically
@@ -161,7 +161,7 @@ cover a lot of ground in a hurry to close it up.
 you're able to finish the point or at least hurt your opponent badly,
 setting up an easy second volley. If you can't do this, you must now
 play for position and be prepared to hit**
-**[[another volley, or two.]{.mark}]{.underline}**
+**another volley, or two.**
 
 In these situations you should volley down the line, right back to your
 opponent, or behind him. This leaves you in proper position to cover his
@@ -180,11 +180,11 @@ leads to taking control of the point and hitting an easy winner.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[This down the line volley strategy is especially necessary on low
+**This down the line volley strategy is especially necessary on low
 volleys or when you're hitting your first volley further back from the
 net. Since you must hit up and can't hit with as much pace, it's even
 harder to stay in control of the point if you volley
-crosscourt.]{.mark}]{.underline}**
+crosscourt.**
 
 A final important point about attacking the net, that goes beyond basic
 geometry. **Never give your opponent too much credit for his ability

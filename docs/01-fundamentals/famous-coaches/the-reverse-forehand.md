@@ -110,15 +110,15 @@ almost a must.
 
 ### The Mechanics
 
-**To hit the reverse forehand, [[drop the racket down a little lower
-than you would on a regular drive.]{.mark}]{.underline} This** **creates
+**To hit the reverse forehand, drop the racket down a little lower
+than you would on a regular drive. This** **creates
 more topspin.** **It's usually hit with an open stance, although you
 can hit on the run with a cross step as well.** **[[The contact is a
 little later compared to a normal forehand drive.]{.mark} [When you make
 contact with the ball, you go through the hitting zone for a shorter
 period than with the conventional forehand, then you bring your racket
-head up]{.mark}]{.underline}**, **[[then you actually let the racket
-head go back.]{.mark}]{.underline}** The more spin you want the faster
+head up]{.mark}]{.underline}**, **then you actually let the racket
+head go back.** The more spin you want the faster
 you bring the racket head up. For more of a drive, you come through the
 ball a little more for more pace. Pete hits more of a drive reverse
 forehand, Chang hits more of a spin reverse forehand.

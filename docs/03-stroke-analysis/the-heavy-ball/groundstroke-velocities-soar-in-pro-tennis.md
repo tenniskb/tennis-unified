@@ -176,16 +176,16 @@ ago. More top ATP players are participating in the trend, but not often
 enough yet to increase average forehand or backhand speeds yet; both
 remain in the 70 MPHs.
 
-**[[Why is this happening? We can't attribute this solely to a new
+**Why is this happening? We can't attribute this solely to a new
 generation of players with greater strength or improved technique \--
 not when the Big 3 are participating in the surge. Is it better
 equipment? If so, what changes occurred in merely the last few years;
 aerospace materials and co-poly strings have been here for a while
-now.]{.mark}]{.underline}**
+now.**
 
-**[[Is technique changing to maximize the new equipment? One hypothesis
+**Is technique changing to maximize the new equipment? One hypothesis
 is that as spin levels have gone up players have developed the ability
-to control higher and higher velocities.]{.mark}]{.underline}**
+to control higher and higher velocities.**
 
 ![Table Description automatically
 generated](media_groundstroke-velocities-soar-in-pro-tennis/media/image7.jpg)

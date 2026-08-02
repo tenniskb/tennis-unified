@@ -37,11 +37,11 @@ The next logical question is how did Pete produce that heavy ball? And
 then, can I do it myself? What were the differences in Pete's motion
 that produced the difference in the sidespin/topspin balance?
 
-**[[The obvious answer is the path of the racket at contact, and related
+**The obvious answer is the path of the racket at contact, and related
 to this, the position of the ball toss. The angle of the path of Pete's
 racket appears to be slightly steeper, moving more upwards, compared to
 Rusedski's, which is moving more sideways and somewhat more across the
-ball.]{.mark}]{.underline}**
+ball.**
 
 We can see this at the contact, and also, in the path of the racket
 after contact. Rusedski's racket is moving slightly more from his right
@@ -406,9 +406,9 @@ We can look at one more player who conducted that experiment pretty
 successfully: Roger Federer. His contact is probably somewhere in
 between the extremes of Pete and Greg.
 
-**[[Watch how his contact is just at the front edge of the body, and
+**Watch how his contact is just at the front edge of the body, and
 also how beautifully he lands on balance with his torso more erect than
-either of those players.]{.mark}]{.underline}**
+either of those players.**
 
 More later on his whole service motion and his speed and spin values.
 But suffice it to say that he has found a very effective balance that

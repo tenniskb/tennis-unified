@@ -225,11 +225,11 @@ distraction, so you lose your focus. It often works because you tend to
 relax a bit when things are going for you and can get distracted more
 easily.**
 
-**[[Understanding what these players are trying to do can help you keep
+**Understanding what these players are trying to do can help you keep
 your focus. Gamesmanship is all about distraction. It usually involves,
 at best, bending the rules and, at worst, cheating. This can cause
 feelings of unfairness that can divert some of your mental energy from
-the game itself.]{.mark}]{.underline}**
+the game itself.**
 
 ![A picture containing athletic game, tennis, sport, person Description
 automatically
@@ -347,8 +347,8 @@ etc.**
 
 **Choking**
 
-**[[Choking is perhaps the best-known way for a player to create a
-turning point against himself.]{.mark}]{.underline}** Because choking is
+**Choking is perhaps the best-known way for a player to create a
+turning point against himself.** Because choking is
 perceived as mentally weak, when a player loses a lead through choking,
 he can be affected mentally for the rest of the match. Choking when you
 are in the lead usually causes their self-esteem to plummet. However, if

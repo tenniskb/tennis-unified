@@ -39,10 +39,10 @@ eye. Simple observation will never settle the technical disputes between
 various players and coaches over what they think happens on the
 forehand, or any stroke for that matter.
 
-***[[This is because the eye needs an event that lasts a minimum of 1/8
+***This is because the eye needs an event that lasts a minimum of 1/8
 of second to resolve a clear image. Unfortunately the contact with the
 ball is far too fast, lasting only 1/250 of a second. That's about 30
-times too fast for the human eye to see clearly.]{.mark}]{.underline}***
+times too fast for the human eye to see clearly.***
 
 ![A picture containing text, outdoor, sport, athletic game Description
 automatically

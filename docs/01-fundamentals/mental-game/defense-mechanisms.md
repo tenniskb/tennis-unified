@@ -165,10 +165,10 @@ becomes angry, makes excuses, or stops trying during the match?
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Do you believe he would do any of these things? He would be more
+**Do you believe he would do any of these things? He would be more
 afraid of me than losing. And as long as I am standing there waving my
 gun around, I would bet he will keep control of
-himself.]{.mark}]{.underline}**
+himself.**
 
 His quick calculation would be that escapist emotions are not worth
 dying for. This tells me that players continue to lose emotional control
@@ -181,12 +181,12 @@ even their own budding awareness, they must not forget that outcomes
 will forever remain uncontrollable, hence escapist urges will always be
 there.
 
-**[[Just because they control themselves for awhile, they mustn't
+**Just because they control themselves for awhile, they mustn't
 assume the underlying problem has been solved. It hasn't. Escapist
 tendencies have only been temporarily repressed. If players mentally
 weaken, out they will come again. Like alcoholics on the wagon, players
 must remain constantly vigilant lest backsliding
-occur.]{.mark}]{.underline}**
+occur.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A close-up of a person Description automatically generated with low
@@ -196,10 +196,10 @@ occur.]{.mark}]{.underline}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[I have noted a common sequence as players struggle for control of
+**I have noted a common sequence as players struggle for control of
 errant emotions. When they start, particularly under the influence of a
 good coach or sports psychologist, they usually improve
-immediately.]{.mark}]{.underline}**
+immediately.**
 
 This is because almost anything is better than simply letting nature
 take its course. They are pleased and even begin to hope that the old

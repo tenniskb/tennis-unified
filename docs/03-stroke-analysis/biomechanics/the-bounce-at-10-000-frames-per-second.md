@@ -114,9 +114,9 @@ off the court with.
 
 Everyone who took high school physics can probably tell you \"**the
 angle of incidence is equal to the angle of reflection in a perfectly
-elastic collision**\". **[[Simply put this means
+elastic collision**\". **Simply put this means
 the ball comes off of the court at about the same angle it goes into the
-court.]{.mark}]{.underline}**
+court.**
 
 **In real life there is no such thing as a perfectly elastic
 collision. In a tennis bounce energy is lost with ball compression and
@@ -144,11 +144,11 @@ Which bounces higher? Topspin or slice? This is a paradox--a seeming
 contradiction that is nevertheless true. Everyone will tell you topspin
 bounces higher--that is our practical experience.
 
-**[[But for a given angle of incidence, slice bounces higher. However,
+**But for a given angle of incidence, slice bounces higher. However,
 slice always comes in at a lower angle--hence our perception that it is
 lower bouncing. Topspin is typically coming from a higher peak, and
 dropping at a steeper angle, which adds to the higher
-bounce.]{.mark}]{.underline}**
+bounce.**
 
 ![A picture containing sport, athletic game, tennis, dark Description
 automatically
@@ -217,16 +217,16 @@ angle.\"**
 
 **So What?**
 
-**[[How if at all does this apply to your daily tennis? Primarily, since
+**How if at all does this apply to your daily tennis? Primarily, since
 the brain is a prediction engine you can use it to predict the
-bounce.]{.mark}]{.underline}**
+bounce.**
 
-**[[You have many clues. This starts with the sound of the ball off of
+**You have many clues. This starts with the sound of the ball off of
 your opponent's racket, then trajectory, angle of incidence, and
 observed spin. From all this you can start to anticipate what kind of
 bounce you're going to get and where you are going to need to position
 your body in order to take the ball at a comfortable
-level.]{.mark}]{.underline}**
+level.**
 
 ![A picture containing indoor, sport, athletic game, tennis Description
 automatically

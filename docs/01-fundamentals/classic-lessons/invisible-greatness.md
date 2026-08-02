@@ -136,11 +136,11 @@ of any significance can attest to feeling nerves or having mental lapses
 of judgment, but how and why this occurs remains a mystery to most
 players.
 
-**[[The mental game is invisible - invisible to your parents, to your
+**The mental game is invisible - invisible to your parents, to your
 coach, to the spectators, and often to the players themselves. Though we
 sometimes get a clue as to what a player might be thinking or feeling,
 the fact is we never know for sure. And he may not
-either.]{.mark}]{.underline}**
+either.**
 
 The mental game overlaps with the other invisible aspects of the game.
 If a very skilled player plays a substantially unskilled player, the
@@ -190,9 +190,9 @@ generated](media_invisible-greatness/media/image6.jpg)
 
 **You can't run out the clock like Steff.**
 
-**[[Human beings are not designed to tolerate high levels of stress for
+**Human beings are not designed to tolerate high levels of stress for
 very long periods. And what is a tennis match, but one prolonged
-stressful experience?]{.mark}]{.underline}**
+stressful experience?**
 
 Just consider the scoring system. Most players are completely oblivious
 to its diabolical nature and how it affects them time and time again.

@@ -9,10 +9,10 @@
 **The overhead. No shot in tennis produces such a variety of shot
 outcomes and emotional reactions.**
 
-**[[The overhead is the way to show your opponent you mean business - or
+**The overhead is the way to show your opponent you mean business - or
 that your confidence is fragile. Some players love the opportunity to
 make a statement by putting away a smash. Others freeze with the
-thought, \"Oh no, not an overhead.\"]{.mark}]{.underline}**
+thought, \"Oh no, not an overhead.\"**
 
 I believe that teaching the overhead has never been more important. As
 players get faster and stronger and counter punching and defensive play
@@ -117,10 +117,10 @@ depends on the height of the ball and the amount of time you have to
 hit.]{.mark}]{.underline}**
 
 Fellow Tennisplayer.net writer Scott Murphy has a great positioning
-drill to work on using the opposite arm. **[[He has players learn to
+drill to work on using the opposite arm. **He has players learn to
 catch the ball with the opposite hand. This forces players to find the
 right positioning to the ball, and I use this ball catch progression
-with all my students.]{.mark}]{.underline}**
+with all my students.**
 
 We also know from the great article by Jeremiah Walsh ([Click
 Here](https://www.tennisplayer.net/members/classiclessons/jeremiah_walsh/overhead_or_in_front_of_head/))
@@ -155,10 +155,10 @@ situations.
 **The Swing**
 
 Is the overhead swing exactly like the serve swing? That depends.
-**[[Unlike the serve, where you place the ball with your toss, the
+**Unlike the serve, where you place the ball with your toss, the
 overhead is a shot that you hit off an oncoming, falling ball hit by
 your opponent. The spin, speed, height, and angle of the incoming ball
-are out of your control.]{.mark}]{.underline}**
+are out of your control.**
 
 Some coaches want their players to reach full racquet drop on their
 overheads much like the serve. Others say that a full racquet drop may

@@ -87,12 +87,12 @@ As the better player, I purposely kept my advice to a minimum.
 Fortunately, Ami was kind enough and mature enough to listen, but I took
 a big risk by opening my mouth.
 
-**[[If you're not an instructor - and even if you are one - I don't
+**If you're not an instructor - and even if you are one - I don't
 recommend teaching family members. Bite the bullet and pay for a few
 lessons. And if you're the weaker player, do your spouse - or child or
 parent or sibling or whomever - a favor and make an effort to learn the
 game properly. I guarantee you'll all have more
-fun.]{.mark}]{.underline}**
+fun.**
 
 If you're the stronger player in this equation, you may be thinking
 that this still sounds like a raw deal - that you'll still be the one

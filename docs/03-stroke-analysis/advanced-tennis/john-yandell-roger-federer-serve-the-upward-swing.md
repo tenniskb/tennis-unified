@@ -157,11 +157,11 @@ agree. But when I film club or even high level competitive players, I'm
 amazed how many of them have problems with this fundamental element.
 
 Interestingly, and again this is something I've learned from Brian
-Gordon, what I call ***[[the pro drop doesn't coincide with, and
+Gordon, what I call ***the pro drop doesn't coincide with, and
 shouldn't be confused with, the actual lowest point in the backswing.
 That low point occurs sooner in the motion, as the racket falls from the
 power position, typically with the shaft of the racket angled across the
-back at about a 30 degree angle.]{.mark}]{.underline}***
+back at about a 30 degree angle.***
 
 ***From there the racket tip definitely moves upward to the pro drop.
 It also moves to the player's right - and this is key\--aligning along
@@ -237,9 +237,9 @@ slightly raised, but just slightly.
 And here we get to our first technical biomechanical term, \"external
 rotation.\" **To achieve the pro drop with the upper arm and shoulder
 basically aligned, the player must rotate the upper arm quite far back
-in the shoulder joint.** ***[[This backwards
+in the shoulder joint.** ***This backwards
 rotation is what biomechanists call external
-rotation.]{.mark}]{.underline}***
+rotation.***
 
 With Federer, you can see this clearly in the high speed footage. With
 the racket in the power position, the upper arm rotates backwards, or
@@ -469,8 +469,8 @@ contact.**
 
 We saw above that as the racket dropped, the wrist flexed the other
 way\--radial deviation. So what happens in the upward swing is this:
-**[[the wrist moves from being flexed to the left to being flexed to the
-right.]{.mark}]{.underline}** To use the technical terms, **[the wrist
+**the wrist moves from being flexed to the left to being flexed to the
+right.** To use the technical terms, **[the wrist
 is radially deviated at the drop, but as the arm goes upward and reaches
 the contact ulnar deviation takes over.]{.mark}**
 
@@ -482,10 +482,10 @@ research has shown that it makes a significant contribution to racket
 head speed when the racket is about halfway from the drop to the
 contact.
 
-**[[As for the timing of the ulnar deviation, it starts at about the
+**As for the timing of the ulnar deviation, it starts at about the
 same time as the elbow extension. But unlike the elbow extension which
 is completed before contact, the ulnar deviation continues out into the
-followthrough.]{.mark}]{.underline}**
+followthrough.**
 
 And if anyone out there wants to call that \"wrist snap\" be my guest,
 because, true enough, it is independent movement of the wrist. It's

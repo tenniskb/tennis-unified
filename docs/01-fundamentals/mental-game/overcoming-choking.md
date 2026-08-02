@@ -169,22 +169,22 @@ general, players who invest heavily in preparation and conditioning are
 better able to withstand the mental rigors of competition, not just the
 physical ones, than the less diligent.
 
-**[[If you choke, realize that you will have more opportunities. One
+**If you choke, realize that you will have more opportunities. One
 means of calming the nerves and countering the feelings of desperation
 that may arise in crucial situations is to tell yourself that you will
 have other opportunities - that this is not your only chance to win the
-set or match.]{.mark}]{.underline}**
+set or match.**
 
-**[[In fact one of the primary factors that makes players choke is
+**In fact one of the primary factors that makes players choke is
 feeling that they must win a particular point or game. They fear that if
 they don't their opponents are likely to rebound and beat
-them.]{.mark}]{.underline}**
+them.**
 
-**[[They get that unnerving \"it's now or never\" feeling and ascribe
+**They get that unnerving \"it's now or never\" feeling and ascribe
 too much importance to their immediate performance. Since it is
 impossible to guarantee that you will win any point or game, believing
 that you must do so succeeds only in making you
-nervous.]{.mark}]{.underline}**
+nervous.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                              ![A picture containing person, person, sport, player Description automatically
@@ -194,10 +194,10 @@ nervous.]{.mark}]{.underline}**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[When you are uncertain of winning, it is best to ascribe the same
+**When you are uncertain of winning, it is best to ascribe the same
 emotional importance to every point and try to slide past the big ones
 without taking excessive notice of them. This is easier said than done,
-but it is important to make the attempt.]{.mark}]{.underline}**
+but it is important to make the attempt.**
 
 **Try to take your normal risks, and assume you will have other
 opportunities regardless of what happens on any particular point. If
@@ -205,9 +205,9 @@ this doesn't work soldier on anyway, bearing in mind that nerves come
 and go, and just because you choke on one point it doesn't mean you
 will choke on the next.**
 
-**[[Don't focus on winning. A common source of nervousness is thinking
+**Don't focus on winning. A common source of nervousness is thinking
 about winning or losing. As best you can, work to push such thoughts out
-of your mind.]{.mark}]{.underline}**
+of your mind.**
 
 Of course this is never totally possible, but as with many problems that
 have no total solution, you have the choice of making them better or
@@ -260,12 +260,12 @@ are always the same. Notice the word, always, which is meant to
 emphasize the concept that these activity sequences do not
 change.**
 
-**[[Rituals calm the nerves. They form an island of stability in a sea
+**Rituals calm the nerves. They form an island of stability in a sea
 of competitive uncertainty because they are completely under the
 player's control, unlike the outcome of the next point. Filling your
 mind by focusing on a simple, controllable and repeatable rituals
 reduces fearful thinking and choking, because when you are thinking
-about one thing you cannot think about another.]{.mark}]{.underline}**
+about one thing you cannot think about another.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -307,10 +307,10 @@ position, relax, and take a deep breath or two, holding the air in your
 lungs for a second before deliberately relaxing and letting it be
 expelled.**
 
-**[[Don't let your eyes wander around toward your opponent, other
+**Don't let your eyes wander around toward your opponent, other
 courts, or onlookers. You can look at your strings, as so many players
 do, or at your shoes, as Fred Stolle used to do, or some other neutral,
-close-by object.]{.mark}]{.underline}**
+close-by object.**
 
 When you reach your receiving position, start to get yourself a little
 energized. Bounce up and down a time or two to get activated and ready.
@@ -344,11 +344,11 @@ partially) the worrying thoughts about winning the match, breaking
 serve, getting down set point, getting up set point, and so
 forth.**
 
-**[[Of course, these thoughts never disappear completely, but it is
+**Of course, these thoughts never disappear completely, but it is
 better to have them in the back rather than the front of your view
 screen. It is also a method of putting yourself in a kind of competitive
 bubble, where you are not distracted or shaken by external events. Your
-mind is kept just where it ought to be.]{.mark}]{.underline}**
+mind is kept just where it ought to be.**
 
 ![A person hitting a tennis ball with the racket Description
 automatically
@@ -517,12 +517,12 @@ would have been even worse, but it showed me that a long layoff from
 tournament competition will make your nerves difficult to control under
 pressure, no matter how much experience you have had.
 
-**[[You must accustom yourself to playing and practicing your rituals
+**You must accustom yourself to playing and practicing your rituals
 under pressure. In order to perform well in tournaments you need to play
 a lot of them. Otherwise your nerves are likely to act up. Playing in
 practice and playing in tournaments are very different, particularly if
 you are highly motivated and have a nervous system that revs up quickly
-(like I do).]{.mark}]{.underline}**
+(like I do).**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -539,15 +539,15 @@ So if you are scheduled to play a tournament or important event you
 would be wise to compete in a couple of less important events beforehand
 to accustom your nerves to playing under pressure.
 
-**[[In summary, everyone chokes from time to time, and there is no
+**In summary, everyone chokes from time to time, and there is no
 disgrace in it. It just means you have a strong desire to win, and
 that's not a bad thing. If you choke but don't let it break you down
-mentally, you can still win.]{.mark}]{.underline}**
+mentally, you can still win.**
 
-**[[Try to enjoy the process of competing; focus on your game plan;
+**Try to enjoy the process of competing; focus on your game plan;
 maintain discipline and drive; remain hopeful and positive regardless of
 circumstances; and you will win more than your fair share of
-matches.]{.mark}]{.underline}**
+matches.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

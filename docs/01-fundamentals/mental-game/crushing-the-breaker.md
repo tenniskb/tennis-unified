@@ -40,9 +40,9 @@ opponent the advantage.]{.mark}]{.underline}**
 
 **Strategy**
 
-**[[The fundamental strategic approach to tie breakers is to play
+**The fundamental strategic approach to tie breakers is to play
 aggressively but not foolishly. You will need to take calculated
-risks.]{.mark}]{.underline}**
+risks.**
 
 ![A picture containing text, tennis, ball, player Description
 automatically

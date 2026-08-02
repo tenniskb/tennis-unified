@@ -16,17 +16,17 @@
 You're in a baseline rally, your opponent hits the ball crosscourt, and
 you whack the ball down the line into the opening.**
 
-**[[This strategy has a nice simple ring to it. Your opponent will get
+**This strategy has a nice simple ring to it. Your opponent will get
 tired of running and, if he doesn't run fast enough, your shot will be
 a winner. But even among experienced players, this is probably the most
-common and most costly strategic error in tennis.]{.mark}]{.underline}**
+common and most costly strategic error in tennis.**
 
-**[[Hitting the ball into the open court at the wrong time may result in
+**Hitting the ball into the open court at the wrong time may result in
 more lost points than any other factor in matches below the pro level.
 Why? Pro players like Andre Agassi, make attacking from the baseline
 look easy, because they know how to set it up and when to do it. This is
 because they understand the geometry of baseline play and how to exploit
-it.]{.mark}]{.underline}**
+it.**
 
 **The Crosscourt Exchange**
 
@@ -54,12 +54,12 @@ significantly better chance of staying in the point by hitting the ball
 crosscourt, directly back to your opponent. How could this be true? To
 answer, let's examine the basic geometry of the tennis court.
 
-**[[If I'm pulled wide crosscourt to my forehand side, for example,
+**If I'm pulled wide crosscourt to my forehand side, for example,
 it's true that the whole half of my opponent's court and his backhand
 side may look wide open. But what happens if I hit my forehand down the
 line into the opening? Unless I can hit an outright winner or a forcing
 approach shot, I'll actually create an even greater opening for my
-opponent.]{.mark}]{.underline}**
+opponent.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    ![](media_winning-matches-winning-baseline-exchanges/media/image1.webp)**By working the crosscourt exchange, you can force your opponent to go down the line too soon, opening the court for a forcing crosscourt.**
@@ -70,27 +70,27 @@ opponent.]{.mark}]{.underline}**
 that your opponent can hurt you on the next shot with a crosscourt
 reply**.
 
-**[[When I hit down the line, I can't run my opponent further than the
+**When I hit down the line, I can't run my opponent further than the
 sideline, but I have created an angle for him to hit the ball much wider
 crosscourt into my backhand side. With this shot he can force me further
-wide than I can run him.]{.mark}]{.underline}**
+wide than I can run him.**
 
-**[[His crosscourt may end up being an outright winner, or the added
+**His crosscourt may end up being an outright winner, or the added
 pressure may force me into an error. At the very minimum he is now
 firmly in control of the point, and I am on the run. In fact, the better
 my down the line shot, the more open court I give him to work with and
-the sharper his crosscourt angle can be struck.]{.mark}]{.underline}**
+the sharper his crosscourt angle can be struck.**
 
-**[[So, what happens if I don't fall into this initial trap? What if,
+**So, what happens if I don't fall into this initial trap? What if,
 instead of going down the line into the opening, I reply crosscourt,
 more or less directly back to my opponent. Now, no matter what he does I
 have a much shorter distance to cover to reach his next
-ball.]{.mark}]{.underline}**
+ball.**
 
-**[[A second important advantage, since I'm hitting over the low part
+**A second important advantage, since I'm hitting over the low part
 of the net, my ball has up to six inches more margin of net clearance.
 And finally, I have more court to hit into. Clearly, it's a safer
-shot.]{.mark}]{.underline}**
+shot.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                            ![A tennis court with a net Description automatically generated with low
@@ -100,11 +100,11 @@ shot.]{.mark}]{.underline}**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[When I make the crosscourt reply, my opponent may then choose to go
+**When I make the crosscourt reply, my opponent may then choose to go
 back crosscourt, or he may choose to go down the line into the opening
 himself. I hope he goes down the line because now the situation is
 reversed. Unless he can hit a winner or a powerful forcing shot, he's
-exposed himself to my crosscourt backhand reply.]{.mark}]{.underline}**
+exposed himself to my crosscourt backhand reply.**
 
 In responding to my opponent's down the line, not only do I have less
 court to cover but I also have the chance to hit a backhand crosscourt
@@ -139,9 +139,9 @@ forced to hit down the line too often, and then you can run him from
 corner to corner with low risk crosscourt
 replies.]{.mark}**]{.underline}
 
-**[[Since there are two basic crosscourt exchanges, forehand to forehand
+**Since there are two basic crosscourt exchanges, forehand to forehand
 and backhand to backhand, you should explore both of these to see which
-gives you an advantage.]{.mark}]{.underline}**
+gives you an advantage.**
 
 If your opponent is clearly weaker on one side, you may want to exploit
 it. You can test your strength against his, or you may find that your
@@ -165,10 +165,10 @@ hit a shot that forces an error or a weak reply so you can run your
 opponent violently or come to the net and volley for a
 winner.**
 
-**[[If you and your opponent are equally matched in the exchanges, keep
+**If you and your opponent are equally matched in the exchanges, keep
 hitting crosscourt and try to bluff your opponent into hitting down the
 line first. One way or another your strategy is to use crosscourt
-exchanges to gain control of the points.]{.mark}]{.underline}**
+exchanges to gain control of the points.**
 
 **Crosscourt Rally Game**
 

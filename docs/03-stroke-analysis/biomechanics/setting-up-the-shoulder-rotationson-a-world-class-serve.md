@@ -123,10 +123,10 @@ racket to rotate backward and down.**
 
 Now let's look at the Leg Thrust. **As the knees extend, the entire
 body moves upward and forward. This includes the
-shoulder.** **[[As the shoulder accelerates upward,
+shoulder.** **As the shoulder accelerates upward,
 the inertia of the forearm and racket cause them to rotate backward and
 down, similar to the way that an accelerating car presses you back into
-the seat.]{.mark}]{.underline}**
+the seat.**
 
 The forearm and racket accelerate in sync with the upward acceleration
 of the shoulder and this can be seen in the video. This backwards
@@ -139,10 +139,10 @@ During the final stages of stretch there is so little joint movement
 that it is difficult to determine when the maximum stretch has been
 achieved.
 
-**[[The position of the forearm and racket is important because the goal
+**The position of the forearm and racket is important because the goal
 is the most effective stretch of the internal rotators throughout the
 Leg Thrust. The right timing optimizes the role of the legs in setting
-up the stretch shorten cycle.]{.mark}]{.underline}**
+up the stretch shorten cycle.**
 
 ![A picture containing tennis, ball, court, player Description
 automatically
@@ -152,10 +152,10 @@ generated](media_setting-up-the-shoulder-rotationson-a-world-class-serve/media/i
 
 **Cartwheel**
 
-**[[There are two other motions, the Cartwheel and the Trunk Turn, that
+**There are two other motions, the Cartwheel and the Trunk Turn, that
 begin at the same time during the Leg Thrust and also contribute to the
 external rotation and the stretching of the internal shoulder
-rotators.]{.mark}]{.underline}**
+rotators.**
 
 **[The first motion, the Cartwheel, is the \"shoulder-over-shoulder\"
 motion. This is the change in the tilt between the front and rear
@@ -187,12 +187,12 @@ shoulder forward on a circular path.**
 In addition, there is an important separate stretch that does not result
 from external shoulder rotation as happens with the other motions. This
 stretch motion is closely related to the Cartwheel and has been noted in
-kinesiology. **[[*The Cartwheel and other body motions increase the
+kinesiology. ***The Cartwheel and other body motions increase the
 distance between the upper arm and the spine.* This directly stretches
 the back, particularly the lat muscle, largest of the internal shoulder
 rotator muscles. This back stretch can be seen in all serve videos as
 the hitting arm rises out of the Trophy Position to the impact
-position.]{.mark}]{.underline}**
+position.**
 
 There is a further factor to understand about this Direct Stretch and
 what happens at the Trophy Position **[with the so called 'hip

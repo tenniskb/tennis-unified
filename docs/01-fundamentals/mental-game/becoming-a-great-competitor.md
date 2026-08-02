@@ -159,10 +159,10 @@ of the point than should be there. Each point should have some
 importance. It's important, but not that
 important.**
 
-**[[You don't want to acknowledge the fact that any one particular
+**You don't want to acknowledge the fact that any one particular
 point is especially important. If you do, you're setting yourself up to
 get nervous and choke. There'll always be another point and you have to
-realize that.]{.mark}]{.underline}** You have to take the positive and
+realize that.** You have to take the positive and
 the negative with equal equanimity. If you watch the top players they
 may react emotionally and pump themselves up after winning a big point.
 This is a reflection of true confidence, as we'll discuss below. But

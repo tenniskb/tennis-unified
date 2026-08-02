@@ -23,11 +23,11 @@ first series of neutral moves, called the Spin Moves. ([Click
 Here](http://www.tennisplayer.net/members/footwork/footwork.html).)
 
 Now let's continue our analysis by looking a second series of neutral
-moves, called **the Pivot Moves.** **[[These are
+moves, called **the Pivot Moves.** **These are
 Contact Moves in which players keep one or both feet on the ground. Like
 the Spin Moves, Pivot Moves are used to stay in rallies and/or
 neutralize fast, deep shots. In some circumstances they also give
-players the chance to counterattack.]{.mark}]{.underline}**
+players the chance to counterattack.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -38,9 +38,9 @@ contact.**
 
 **Players use Pivot Moves on relatively low, hard-hit balls, and also,
 when they are hitting half volleys or hitting the ball on the
-rise**. **[[Typically, this is when they are around
+rise**. **Typically, this is when they are around
 the baseline and are forced at least somewhat by
-time.]{.mark}]{.underline}**
+time.**
 
 **With the amount of body rotation in the swings in the modern game,
 pivot moves are critical to allow the players to flow through their
@@ -60,9 +60,9 @@ turning sideways from the split step.]{.mark} [On these balls, the shot
 can be hit with an extreme open stance, as there is usually not time to
 further adjust the feet.]{.mark}]{.underline}**
 
-**[[As the player swings, both feet keep in contact with the court, but
+**As the player swings, both feet keep in contact with the court, but
 pivot or rotate on the court surface. This rotation corresponds to the
-rotation of the body.]{.mark}]{.underline}**
+rotation of the body.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -124,11 +124,11 @@ opposite leg and the opposite foot upwards into the air as they rotate
 through the shot. This allows players to create a higher contact point
 without going completely airborne.**
 
-**[[The One Foot Pivot is also hit with an open stance. Like the Two
+**The One Foot Pivot is also hit with an open stance. Like the Two
 Foot Pivot, the stance can be quite extreme. But it is commonly
 semi-open. As the player starts the forward swing, the left or opposite
 foot comes off the court with the knee bend reaching 45
-degrees.]{.mark}]{.underline}**
+degrees.**
 
 **The timing of the pivot is very important. The pivot move, or the
 rotation or the outside foot, starts after the contact, and moves in

@@ -85,19 +85,19 @@ Early stage stroke development for the genders appears to be pretty
 uniform. The emphasis is generally on looping type swings ("The candy
 cane\"). This is the genesis for the Type I swing on the forehand.
 
-***[[Young children will generally choose the biggest swing possible to
+***Young children will generally choose the biggest swing possible to
 produce racket head speed and the Type I swing is just that.
 Institutionalized instruction tends to favor fun over skills and while
 understandable (and perhaps necessary) it certainly isn't optimal for
-developing advanced mechanics.]{.mark}]{.underline}***
+developing advanced mechanics.***
 
 **Secondary Stage**
 
 It is in the second stage of development that gender differentiation
-seems to be become more evident. **[[Male players in general will start
+seems to be become more evident. **Male players in general will start
 to decrease the size of the loop at a faster rate than female players
 eventually arriving at something close to the ATP style
-swing.]{.mark}]{.underline}**
+swing.**
 
 ![A person running on a grass field Description automatically generated
 with low
@@ -106,12 +106,12 @@ confidence](media_have-tennis-coaches-failed-female-athletes/media/image6.webp)
 **Typically male junior players will decrease the size of the loop more
 and sooner.**
 
-Role models and peer emulation probably play a role. **[[But the main
+Role models and peer emulation probably play a role. **But the main
 reason for this is that boys face more speed and spin on incoming balls
 at an earlier age. Therefore they must adapt their swings accordingly.
 Concurrent with this is the influence of coaching, which presumably
 advocates smaller swing shapes as the speed and difficulty of the game
-increases.]{.mark}]{.underline}**
+increases.**
 
 **Possible Explanations**
 
@@ -165,11 +165,11 @@ programs. Extensive stroke mechanics emphasis is inconsistent with the
 will produce substantive innovation in the evolution of female stroke
 technique.
 
-***[[The confusion and dogmatism in coaching often lead to this
+***The confusion and dogmatism in coaching often lead to this
 argument. Rather than concede there may be a better way it is more
 convenient to simply point to current highly ranked players, or players
 these coaches have developed, and conclude the success of the players
-validates their mechanics approach.]{.mark}]{.underline}***
+validates their mechanics approach.***
 
 Informed contrarians might, while giving credit, also wonder if these
 players could have been even better. To coin a phrase**[, are these
@@ -180,9 +180,9 @@ coaches just producing better apples or creating the orange?]{.mark}**
 Given available information about the advantages of the ATP style
 forehand, and given it is called the ATP style because the best (male)
 players in the world use it without exception, it is difficult to
-understand why females shouldn't. ***[[The only possible explanation
+understand why females shouldn't. ***The only possible explanation
 would be that girls are not physically capable of hitting it and/or it
-will expose them to injury.]{.mark}]{.underline}***
+will expose them to injury.***
 
 The contention is males and females are physiologically different\--this
 is obvious. The assumption is that the ATP style forehand requires a lot

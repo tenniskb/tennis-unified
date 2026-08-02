@@ -335,11 +335,11 @@ confidence](media_the-traditional-forehand-a-living-model/media/image10.webp)
 **Karsten adapts his stance by opening on higher balls.**
 
 But as I mentioned, **Karsten is also quite flexible with his stance
-when necessary**. **[[When I hit him high bouncing,
+when necessary**. **When I hit him high bouncing,
 heavy topspin, he will often open the stance somewhat, playing the ball
 at a noticeably higher contact point, and playing a slightly more
 looping and less penetrating ball, waiting for his chance to step in and
-really punish you.]{.mark}]{.underline}**
+really punish you.**
 
 So there you have it.
 
@@ -347,17 +347,17 @@ So there you have it.
 an equally simple forward swing. An attacking court position and early
 timing.**
 
-**[[Factors that allow Karsten to position upward toward the baseline
+**Factors that allow Karsten to position upward toward the baseline
 and to create a consistent, penetrating, relatively flat ball, and a
 contact point that is very difficult for even high level opponents to
 hit through. But with the flexibility to defend the high bouncer if
-necessary.]{.mark}]{.underline}**
+necessary.**
 
-**[[And yes, you need a certain naturally aggressive inclination to play
+**And yes, you need a certain naturally aggressive inclination to play
 in this exact style, plus the ability to hit your forehand on the rise.
 My hope however is that what I have presented here may resonate with
 some players who have felt compelled to hit the \"modern\" forehand for
-no other reason than that it was modern.]{.mark}]{.underline}**
+no other reason than that it was modern.**
 
 In that way Karsten's traditional approach could be a real inspiration,
 and yes, a great technical model. Stay tuned next for his

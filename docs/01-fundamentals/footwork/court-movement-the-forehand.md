@@ -98,7 +98,7 @@ players at all levels should develop as well.**
 generated with medium
 confidence](media_court-movement-the-forehand/media/image5.webp)
 
-**[[3 movement errors:]{.mark}]{.underline}**
+**3 movement errors:**
 
 1.  **Shuffling to the ball**
 
@@ -134,9 +134,9 @@ entire pattern and the movement back to the middle.**
 
 This is accomplished by **exchanging the position of the feet after
 the hit**. Watch in the animation how I begin the
-recovery by exchanging the position of my feet. **[[The outside foot
+recovery by exchanging the position of my feet. **The outside foot
 comes back and replaces the inside foot. This is followed by shuffling
-or side-stepping back toward the middle.]{.mark}]{.underline}**
+or side-stepping back toward the middle.**
 
 **The outside foot brushes the ground softly, and the player stays
 upright.** This keeps you grounded and stops you

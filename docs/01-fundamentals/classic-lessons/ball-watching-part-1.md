@@ -103,8 +103,8 @@ can be used to one's advantage in ball watching.
 **Blindness in Tennis**
 
 In our daily lives, we think of vision as a continuous sensory modality.
-In reality, however**[[, it actually occurs in discrete intervals
-separated by intermittent moments of blindness.]{.mark}]{.underline}**
+In reality, however**, it actually occurs in discrete intervals
+separated by intermittent moments of blindness.**
 
 **Every time we move our eyes, there is a short blackout to prevent
 blurring of vision as the eyeballs move.** **These
@@ -123,8 +123,8 @@ second.**
 
 **Every time we move our eyes in a saccadic movement, our visual
 processing system blocks our vision to prevent blurring while our eyes
-are in motion.** **[[The brain fills in these gaps
-with what it expects to see.]{.mark}]{.underline}**
+are in motion.** **The brain fills in these gaps
+with what it expects to see.**
 
 So vision appears to be continuous with no blackouts. These brief
 periods of blindness add up to approximately eleven minutes in a
@@ -142,8 +142,8 @@ average tennis match.
 Combined with the small moments of blindness that occur during jump
 saccades, each tennis player is subject to roughly nineteen minutes of
 blindness per match. We don't notice the vision loss caused by blinking
-or saccadic eye movements because **[[our brains have learned to
-disregard these periods of temporary blindness.]{.mark}]{.underline}**
+or saccadic eye movements because **our brains have learned to
+disregard these periods of temporary blindness.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -153,11 +153,11 @@ confidence](media_ball-watching-part-1/media/image5.jpg)
 
 **The brain fills in the gaps with what it expects to be
 seeing.** The gaps don't bother us at all.
-However, **[[it is physiologically impossible to \"always keep your eye
-on the ball.\" Your brain simply won't allow it.]{.mark}]{.underline}**
+However, **it is physiologically impossible to \"always keep your eye
+on the ball.\" Your brain simply won't allow it.**
 
-So can we see contact? Technically, no. **[[We do not perceive contact
-in real time, but in delayed perceptual time.]{.mark}]{.underline}**
+So can we see contact? Technically, no. **We do not perceive contact
+in real time, but in delayed perceptual time.**
 This might lead someone to the conclusion, \"Why bother?\" However, the
 closer we get to perceiving contact, the better we will get at making
 adjustments that ultimately influence the contact event.

@@ -101,10 +101,10 @@ positive images and sensations. Third, making no negative judgments
 based on outcome, and letting the process repeat and refine itself over
 time.
 
-**[[Understanding the conflict between the selves was critical. The
+**Understanding the conflict between the selves was critical. The
 player needed to let go of the disruptive self 1 input to achieve
 relaxed concentration and focus on the ball purely and
-completely.]{.mark}]{.underline}**
+completely.**
 
 Gallwey recommended that the nebulous concept of watching the ball be
 replaced by the concept of watching the seams. Specifically players
@@ -144,11 +144,11 @@ Performance State.\" This was a very specific body and mind set that was
 common to top players, but that he felt could be recreated at will at
 all levels.
 
-**[[Loehr found that the mind had direct biochemical effects on the body
+**Loehr found that the mind had direct biochemical effects on the body
 and vice versa. He found that mental negativity chemically sabotaged
 physical performance and was also self-reinforcing. Anxiety and fear
 reduced performance and reduced performance produced more anxiety and
-fear.]{.mark}]{.underline}**
+fear.**
 
 According to Jim: \"An athlete's thoughts prompt certain emotions, and
 those emotions have physical consequences. They prompt physiological

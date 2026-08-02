@@ -31,10 +31,10 @@ for him to do it the easy way as well.
 So, the forehand I'm going to demonstrate is in my opinion, the easiest
 way to hit the ball.
 
-**[[You've got two goals in hitting a groundstroke. One is to generate
+**You've got two goals in hitting a groundstroke. One is to generate
 power, which you could equate with the racquet head velocity. The second
 is to maintain control. You've got to control the trajectory and the
-angle of the racquet head during the swing.]{.mark}]{.underline}**
+angle of the racquet head during the swing.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person holding a tennis racket Description automatically
@@ -121,11 +121,11 @@ Jimmy Connors probably executed this best - he just rotated and stepped.
 very much.** And John McEnroe, as different as his
 game looked from Jimmy Connors, hit the forehand very much the same.
 
-**[[The end result is a stroke that is very compact and simple. You turn
+**The end result is a stroke that is very compact and simple. You turn
 your shoulders, you're going to hit in that direction, your back is
 actually away from the direction you're going to hit. Then you step in
 and rotate. So the racquet's back, shoulders turn, step in and
-rotate.]{.mark}]{.underline}**
+rotate.**
 
 The arms should be relatively relaxed when you hit, they are moved by
 the shoulders. The stroke starts when you rotate the shoulders and step
@@ -139,18 +139,18 @@ forward.
   ------------------------------------------------------------------------------------------------------------------------------------
 
 **A final question, when do you take the racquet back and how
-high?** **[[You take the racquet back by the time
+high?** **You take the racquet back by the time
 the ball hits the court on your side. Whether it's high or low doesn't
 really matter terribly as long as the shoulders are turned and the
 racquet's as far back as it's going to go. When the ball hits the
-court, you rotate and step.]{.mark}]{.underline}**
+court, you rotate and step.**
 
 **So why do the pros often use a high
 take-back?** That is because most pros use a
 circular motion, taking the racquet back high then dropping it down and
-through the stroke. **[[The reason they do that is to gain more power in
+through the stroke. **The reason they do that is to gain more power in
 the same way a softball pitcher takes a full round wind up so they can
-accelerate more.]{.mark}]{.underline}**
+accelerate more.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person playing tennis Description automatically
@@ -164,10 +164,10 @@ accelerate more.]{.mark}]{.underline}**
 trouble is, it makes it much more difficult to control the
 ball.**
 
-[[**You have to get your racquet to the contact point at exactly the
+**You have to get your racquet to the contact point at exactly the
 same microsecond that the ball reaches that point.** **You're judging
 the ball's trajectory as it approaches, and your racquet is going to
-have to match it perfectly.**]{.mark}]{.underline}
+have to match it perfectly.**
 
 **The longer your stroke, the earlier you have to determine exactly
 what microsecond the ball's going to be at that spot, and the harder it

@@ -24,13 +24,13 @@ the court a bit, the distance to your opponent's baseline is shorter so
 again you don't need to get as much power as you do when you're back
 behind the baseline.
 
-**[[As you run toward the ball, your shoulders should be rotated, and
+**As you run toward the ball, your shoulders should be rotated, and
 your body almost sideways to the net. After contact, continue on toward
-the net.]{.mark}]{.underline}**
+the net.**
 
-**[[Try to stay relaxed, since your body is somewhat tilted, and
+**Try to stay relaxed, since your body is somewhat tilted, and
 twisted, as you rotate forward and step on through. Good balance is the
-key to a successful approach shot.]{.mark}]{.underline}**
+key to a successful approach shot.**
 
 **On the backhand side, most one-handed players find it difficult to
 hit and control a topspin approach shot. I recommend that these players
@@ -61,8 +61,8 @@ until you have a clear opportunity to finish.**
 **[Hitting the approach crosscourt opens the court for your opponent to
 take control of the point.]{.mark}** 
 
-**[[Approaching crosscourt is a fundamental mistake in net play at all
-levels]{.mark}]{.underline} - falling for the temptation to hit into
+**Approaching crosscourt is a fundamental mistake in net play at all
+levels - falling for the temptation to hit into
 what looks like a wide opening, only to be passed or lose control of the
 point.**
 
@@ -105,10 +105,10 @@ any volley while standing on top of the net.**
 difficult, From the service line, even high volleys, become
 difficult.**
 
-**[[The problem is, standing on top of the net makes it relatively easy
+**The problem is, standing on top of the net makes it relatively easy
 for your opponent to lob the ball over your head. So, the volleyer has
 several things he's trying to accomplish at
-once.]{.mark}]{.underline}**
+once.**
 
 First, he can't move in too close to the net before he knows what his
 opponent's going to do, whether his opponent's going to lob or hit a
@@ -131,13 +131,13 @@ becomes more difficult to end the point.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Also, hanging back allows the ball to drop lower forcing the
+**Also, hanging back allows the ball to drop lower forcing the
 volleyer to hit up over the net so the ball can't hit the ball very
-hard.]{.mark}]{.underline}**
+hard.**
 
-**[[The third reason you want to get in close when you hit the volley is
+**The third reason you want to get in close when you hit the volley is
 because the closer you are to the net, the easier it is to cover more of
-the net.]{.mark}]{.underline}** As an example, let's say your opponent
+the net.** As an example, let's say your opponent
 hits a ball across the center angling away from you. If you're standing
 close to the net, you can reach it by taking one step, however, if you
 are standing farther back, you may have to take two or three steps. So,

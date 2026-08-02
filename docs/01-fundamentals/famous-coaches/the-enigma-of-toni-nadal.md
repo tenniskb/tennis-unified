@@ -261,8 +261,8 @@ only a powerful way to develop good tennis players, but it was a pathway
 to develop good human beings and a better society. To me, this is part
 of the genius of his approach and the value his principles hold for
 others, whether they be coaches or parents. Toni himself has said,
-**[[\"It is more important to be a good person than a good
-player.\"]{.mark}]{.underline}**
+**\"It is more important to be a good person than a good
+player.\"**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-enigma-of-toni-nadal/media/image8.jpeg)

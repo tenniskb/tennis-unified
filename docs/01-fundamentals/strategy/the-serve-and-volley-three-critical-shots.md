@@ -17,9 +17,9 @@ volley placements. But not every serve you hit will produce a shoulder
 high first volley that you can direct to the opening of your choice.
 
 There are three other critical shots you must master to become a
-complete serve and volley player. These are: **[[the half volley and the
+complete serve and volley player. These are: **the half volley and the
 overhead. And in the modern game, even at the club level, the swinging
-volley.]{.mark}]{.underline}**
+volley.**
 
 **Serve volley players must have confidence in their ability to deal
 with half volleys that bounce at the feet.**
@@ -27,16 +27,16 @@ with half volleys that bounce at the feet.**
 ability to use it to finish points but also to maintain advantage on
 more difficult balls.**
 
-**[[It's also important to have the ability to hit swinging volleys. In
+**It's also important to have the ability to hit swinging volleys. In
 a game that is played with modern rackets and strings, even well-placed
 approaches and crisp volleys to the open court sometimes aren't enough
 to win points against players with great passing shots or determined
-lobbers.]{.mark}]{.underline}**
+lobbers.**
 
-**[[The swinging volley gives players a way to create more velocity and
+**The swinging volley gives players a way to create more velocity and
 pressure. A swinging volley can often be hit for a winner when a classic
 volley cannot, and this is especially true when the ball is soft and
-high, as it frequently is in club tennis.]{.mark}]{.underline}**
+high, as it frequently is in club tennis.**
 
 ![A person playing tennis Description automatically
 generated](media_the-serve-and-volley-three-critical-shots/media/image2.webp)
@@ -57,11 +57,11 @@ But it's safe to say that few if any players (and probably Pete
 included) would claim the half-volley is their favorite shot. It's not
 really a shot you hit by choice.
 
-**[[Your goal as a serve and volley player is to reach the ball before
+**Your goal as a serve and volley player is to reach the ball before
 it bounces. Sometimes this can't be achieved. Then your goal becomes to
 hit a half volley to stay ahead in the point, pressure the opponent to
 hit a winner and set up the opportunity to
-finish.]{.mark}]{.underline}**
+finish.**
 
 Timing and composure are everything. You must balance with a split step,
 but continue to move forward. Since the contact point is low, you must
@@ -80,10 +80,10 @@ confidence](media_the-serve-and-volley-three-critical-shots/media/image3.webp)
 From the tactical point of view, I feel the key is to keep the ball low
 over the net. I ask players to \"attack the tape.\"
 
-**[[Attacking the tape means to hit this volley firmly and low over the
+**Attacking the tape means to hit this volley firmly and low over the
 net. Many players will compensate for the low ball height by aiming too
 high over the net, sailing the ball too high and directly into the
-opponent's strike zone.]{.mark}]{.underline}**
+opponent's strike zone.**
 
 If my students can aim for and attack the tape, they can stay ahead in
 the point and be in position to finish on the next ball.

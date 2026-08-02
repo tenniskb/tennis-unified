@@ -24,16 +24,16 @@ doubles you need to serve high 70s.\"
 \"So, a lot of the time we won't go for the flat bomb. We will take off
 10mph. We'll go for the higher-percentage serve.\"
 
-**[[The body serve is great in doubles: \"It cuts down opponents' angles
+**The body serve is great in doubles: \"It cuts down opponents' angles
 and jams them and reduces their options, and that frees up your partner
 at the net to poach. Also, when you go for a body serve, you're not
 going to miss the serve wide so that helps to keep your percentage
-up.\"]{.mark}]{.underline}**
+up.\"**
 
-**[[Have a plan for every point: \"We make a quick signal before the
+**Have a plan for every point: \"We make a quick signal before the
 point. It really helps the guy at the net to know where his partner is
 going to serve, as then you have a bead on the
-return.\"]{.mark}]{.underline}**
+return.\"**
 
 ![A group of men playing tennis Description automatically generated with
 medium
@@ -74,9 +74,9 @@ way to hit it. We like to praise those misses because we know that, over
 time, you will get rewarded for taking that sort of risk.\"
 
 If you hit a singles return on a doubles court, it's going to get
-smashed: **[[\"You have to hit returns near the alley and low.
+smashed: **\"You have to hit returns near the alley and low.
 Otherwise, it's a throwaway return. Singles and doubles are completely
-different games.\"]{.mark}]{.underline}**
+different games.\"**
 
 \"The best singles players can't just walk on to a doubles court and
 play good matches. It's something you have to work on.\"
@@ -164,10 +164,10 @@ Always be positive when speaking to your partner on the court:
 team and you need your partner feeling great and playing the best that
 he can.\"
 
-**[[Never order your partner around. Never roll your eyes when talking
+**Never order your partner around. Never roll your eyes when talking
 to your partner. If you've just had a bad defeat, clear the air right
 away. And be honest: \"We like to hash it out pretty quickly after a
-match. We will tell it straight.\"]{.mark}]{.underline}**
+match. We will tell it straight.\"**
 
 \"Two professionals who aren't brothers would probably never say the
 stuff that we say. We get it out there, even if it's not friendly.
@@ -226,23 +226,23 @@ confidence](media_the-bryan-brothers-principles-of-winning-doubles/media/image8.
 Doubles is a fast twitch game. So, you need to be able to make quick,
 explosive movements:
 
-**[[\"Obviously playing singles is more gruesome on the body with the
+**\"Obviously playing singles is more gruesome on the body with the
 endurance, but in doubles you're always crouched down and you have to
-make very explosive moves.]{.mark}]{.underline}**
+make very explosive moves.**
 
-**[[When the singles guys come and play doubles, they tend to be a
+**When the singles guys come and play doubles, they tend to be a
 little flat footed. It takes their eye a little while to get adjusted.
 You have to see everything way out in front. You have to be
-fast.\"]{.mark}]{.underline}**
+fast.\"**
 
-**[[You should be doing lots of preventative work, and with every part
+**You should be doing lots of preventative work, and with every part
 of your body: \"For a tennis player, your body is your business, so if
 we have a week off between tournaments, we're in the gym a couple of
-hours a day.\"]{.mark}]{.underline}**
+hours a day.\"**
 
-**[[Do a lot of resistance band sprints and movement: \"Put the harness
+**Do a lot of resistance band sprints and movement: \"Put the harness
 on, and move about the court\--back-pedaling, changing direction, that
-sort of stuff.\"]{.mark}]{.underline}**
+sort of stuff.\"**
 
 \"We also do that in sand, which strengthens your ankles. So, when you
 get back on the court, it feels a little easier. We're always in that

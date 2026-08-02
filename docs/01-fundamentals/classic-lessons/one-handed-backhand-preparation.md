@@ -78,9 +78,9 @@ powerful.**
 
   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[An integral part of the turn is the grip change. A one-hander, at a
+**An integral part of the turn is the grip change. A one-hander, at a
 minimum, should use an Eastern Backhand grip as it puts the wrist more
-behind the handle for essential support.]{.mark}]{.underline}** I see
+behind the handle for essential support.** I see
 too many one-handers flailing at the ball while using their Forehand or
 even Continental grips, which should be reserved for the slice backhand.
 There's just not enough support with the wrist on top of the handle to

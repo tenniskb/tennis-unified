@@ -21,7 +21,7 @@ that match he had lead two sets to love and missed out on two match
 points. After the match a tennis writer asked how he overcame that
 \"disappointment.\"
 
-**[[His answer was this:]{.mark}]{.underline}**
+**His answer was this:**
 
 \"Disappointment? Are you crazy? I have only one more set to win. All my
 life I dream of winning Wimbledon and still the opportunity is so big! I
@@ -108,9 +108,9 @@ confidence](media_the-ladder-of-gain/media/image4.jpg)
 
 **Focus point to point: boring but right.**
 
-**[[Do not fear or worry about other players who seem to be climbing
+**Do not fear or worry about other players who seem to be climbing
 faster than you. Progression is personal and quick progress does not
-mean it will continue at the same rate.]{.mark}]{.underline}**
+mean it will continue at the same rate.**
 
 **The rare exceptional talent who may reach dizzy heights quickly only
 to slow near the top is not your concern. Your target is not other
@@ -132,9 +132,9 @@ crashing their party.** **They will test your
 resolve to stay with them. Again, the best answer is to work hard and
 keep focused on your climb.**
 
-**[[The higher you get the greater the choice of frequency and with this
+**The higher you get the greater the choice of frequency and with this
 comes the responsibility to choose widely. Who do you tune
-into?]{.mark}]{.underline}**
+into?**
 
 ![A couple of men playing tennis Description automatically generated
 with medium
@@ -142,12 +142,12 @@ confidence](media_the-ladder-of-gain/media/image5.jpg)
 
 **Between stages take only an occasional glance down.**
 
-**[[There are negative personalities on this journey up the ladder who
+**There are negative personalities on this journey up the ladder who
 voice their doubts. Ironically this could be friends, a coach, or
 parents, in fact anyone who you or their actions imply that have reached
 your potential: that the target is to high or that it's only other
 people with incredible luck or more talent who can climb to the
-top.]{.mark}]{.underline}**
+top.**
 
 **There are many who deliberately or inadvertently weaken your resolve
 by highlighting all the reasons why you can't make
@@ -166,11 +166,11 @@ stages. When you reach a rest area, enjoy the moment, replenish your
 strength, evaluate the next goal and without hanging around too long
 start the climb again, eyes firmly fixed on the next rung.
 
-**[[Even the greatest players struggle if their lives become
+**Even the greatest players struggle if their lives become
 complicated. It is extremely difficult to compete effectively if there
 are too many distractions. Tiger Woods was an example of a dominant
 force whose ability to perform was weakened due to the huge disruptions
-in his private life.]{.mark}]{.underline}**
+in his private life.**
 
 ![A picture containing person Description automatically
 generated](media_the-ladder-of-gain/media/image6.jpg)
@@ -185,25 +185,25 @@ implying that although they have done a great job, you have outgrown
 their abilities. The underlying message is that they are in the know and
 can guide you to the big time with inner secrets.**
 
-**[[A worse situation is if the team around you becomes intoxicated by
+**A worse situation is if the team around you becomes intoxicated by
 the heights and join in the self-congratulations and distractions, no
 longer grounding and guiding you, fueling unrealistic expectations
 rather than a desire to work even harder to climb the last few
-rungs.]{.mark}]{.underline}**
+rungs.**
 
-**[[The top of the building is a wonderful achievement. However, many a
+**The top of the building is a wonderful achievement. However, many a
 successful person will tell you, although the view is fantastic and
 rewarding, quickly you notice there is a bridge you can cross to a
 larger tower and you have to decide whether to attempt to climb again,
 because if you don't someone else most certainly will. The focus and
 ability to keep improving is the key to reaching and remaining at high
-levels.]{.mark}]{.underline}**
+levels.**
 
-**[[The climb is far easier if you tune into the encourage voices that
+**The climb is far easier if you tune into the encourage voices that
 support you, yet gently push you to improve. Focus and discipline will
 block the destructive voices. Keep it simple no matter where you are on
 the ladder. Gain the next point, the next game, the next set, and the
-next match.]{.mark}]{.underline}**
+next match.**
 
 | ![A picture containing person, person, indoor, posing Description automatically | David Sammel is a registered ATP tour coach |
 | --- | --- |

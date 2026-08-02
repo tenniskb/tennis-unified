@@ -169,11 +169,11 @@ extension.**
 swing.]{.mark}*** At the completion of the wrap, the racket is traveling
 at the slowest speed of any part on the motion. Yet much \"modern\"
 coaching focuses on teaching players to mechanically create this
-position. \"Show me the butt of the racket.\" ***[[The problem is that
+position. \"Show me the butt of the racket.\" ***The problem is that
 this advice tends to disrupt the natural pattern of racket acceleration
 and alter the shape of the swing. In effect, coaches are asking players
 to purposefully swing in the opposite direction they are trying to hit
-the ball.]{.mark}]{.underline}***
+the ball.***
 
 The wrap definitely happens in high level forehands and is an integral
 part of the overall motion. But I believe that it's a consequence
@@ -446,10 +446,10 @@ maximize the extension factor are most effective for the vast majority
 of balls hit at the recreational level, and even in NTRP tennis to
 around the 5.0 level.
 
-***[[Why? Remember, the point of the wiper action is to generate more
+***Why? Remember, the point of the wiper action is to generate more
 spin. But spin is not a goal in and of itself. Spin is used to create
 control. The more velocity, the more need for spin, and vice
-versa.]{.mark}]{.underline}***
+versa.***
 
 I've seen hundreds of lower level players who seem obsessed with spin
 and heavy wiper finishes, when it isn't necessary or even effective for
@@ -458,10 +458,10 @@ relates to other critical factors like grip, contact height and stance,
 [Click Here](John%20Yandell-The%20Osmosis%20Forehand%20.docx) to see the
 Osmosis Forehand article.)
 
-***[[I think players need to pick a grip style that is appropriate to
+***I think players need to pick a grip style that is appropriate to
 their level and style of play, and then develop a moderate topspin drive
 first with great extension. They should learn to hit with consistency,
-accuracy, and depth.]{.mark}]{.underline}*** You can model elements from
+accuracy, and depth.*** You can model elements from
 all the pros to help create this. But in terms of the finish, you'll
 see the racket more vertical (or on edge) more often with players like
 Henman or even Agassi.

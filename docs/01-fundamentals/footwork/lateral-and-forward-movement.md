@@ -90,11 +90,11 @@ set up automatically based on the position of the hands in the racket
 preparation in the critical moments before the set
 up.**
 
-**[[On the forehand, if the racket hand reaches out to the player's
+**On the forehand, if the racket hand reaches out to the player's
 side, the foot will set up beneath it, triggering an open stance. But if
 the right hand goes back behind the body into a deep backswing, the
 right foot will stay back with the right hand. This will cause the left
-foot to set up in a closed stance.]{.mark}]{.underline}**
+foot to set up in a closed stance.**
 
 ![A person playing tennis Description automatically
 generated](media_lateral-and-forward-movement/media/image4.webp)
@@ -113,9 +113,9 @@ a neutral stance, and allow you to create power.**
 
 **So to set up in the optimal stance for every situation your racket
 should be somewhat to the side of your body as you close into
-position.** **[[This position should be established
+position.** **This position should be established
 before you begin your adjustment steps, to allow yourself enough time to
-set your feet for the shot.]{.mark}]{.underline}**
+set your feet for the shot.**
 
 **Swing Alignment to the Ball**
 
@@ -223,8 +223,8 @@ neutral and open stances.**
 
 **Neutral Stance**
 
-**[[When the stance is perpendicular to the baseline and the front foot
-steps towards the net, this is a neutral stance.]{.mark}]{.underline}**
+**When the stance is perpendicular to the baseline and the front foot
+steps towards the net, this is a neutral stance.**
 When you have time to set up, the optimal choice is to set up the back
 foot then drive forward into a neutral stance. It is considered the
 ideal hitting stance for situations when you have the opportunity to
@@ -252,9 +252,9 @@ transfer.**
 **Open Stance**
 
 **When the front foot is off set to the opposite side of the body from
-the hit, it is called the open stance.** **[[The
+the hit, it is called the open stance.** **The
 stance can be either fully or partially open depending on the exact
-position of the foot.]{.mark}]{.underline}** Being able to effectively
+position of the foot.** Being able to effectively
 execute from the open stance is a required element in today's fast
 paced game on both the forehand and backhand sides.
 
@@ -355,11 +355,11 @@ length.**
 low center of gravity with your upper body momentum leading the way and
 limit the length of you strides.** **Players who
 are very quick use what I refer to as \"first gear\"
-footwork.** **[[That means they run primarily on
+footwork.** **That means they run primarily on
 the balls of the feet using short, choppy strides where the feet remain
 spread out approximately shoulder width apart. The concept is to take
 shorter steps but more of them and pump the legs very rapidly to drive
-your body weight forward.]{.mark}]{.underline}** It is quite similar to
+your body weight forward.** It is quite similar to
 the experience of racing off the start in 1st gear on a ten-speed bike
 which pumps the legs quickly. Traveling the same distance, a quicker
 player may take 15 push off driving steps where a slower player might
@@ -378,9 +378,9 @@ foot forward.**
 forward movement. This is referred to as the kick step. It is called a
 kick step because the rear leg often appears to collide with the front
 leg, almost kicking the front leg forward.**
-**[[The kick step is an effective maneuver on both the forehand and
+**The kick step is an effective maneuver on both the forehand and
 backhand side, to move in a neutral hitting stance one stride forward to
-hit a shorter ball.]{.mark}]{.underline}**
+hit a shorter ball.**
 
 Stay tuned for Part 4 where you'll learn about hitting on the move, the
 running open stance, the reverse neutral stance, braking techniques and

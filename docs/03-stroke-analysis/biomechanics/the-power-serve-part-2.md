@@ -24,8 +24,8 @@ rotate. That you want a leg drive.]{.mark}**
 **[And you want the arm to externally rotate driving the racket down.
 Next you want the arm to move up towards the ball.]{.mark}**
 
-***[[So let's so how that happens. There are four actions that are
-important to understand very, very well.]{.mark}]{.underline}***
+***So let's so how that happens. There are four actions that are
+important to understand very, very well.***
 
  ![A crowd of people in a stadium Description automatically generated
 with medium
@@ -34,10 +34,10 @@ confidence](media_the-power-serve-part-2/media/image2.webp)
 **Extending the elbow provides a high impact position in the power
 serve.**
 
-***[[Firstly there is elbow extension, followed by forearm pronation.
+***Firstly there is elbow extension, followed by forearm pronation.
 Then there is internal rotation and finally wrist flexion. And these are
 the four actions that primarily work to drive the racquet forward and to
-position the racquet for impact.]{.mark}]{.underline}***
+position the racquet for impact.***
 
 **Extension**
 
@@ -192,9 +192,9 @@ When I was taught to play tennis, I was always told that you've got to
 be "extended" on the serve. You've got to be fully extended upwards.
 That's the whole idea of the game. Be as tall as you can be.
 
-I can tell you now, sorry, that's not quite the truth. ***[[Your legs
+I can tell you now, sorry, that's not quite the truth. ***Your legs
 and trunk should be upright. Get them tall. That's what you
-want.]{.mark}]{.underline}*** Height, as Howard Brody has also said, is
+want.*** Height, as Howard Brody has also said, is
 the key to getting the serve in, no question.
 
 But is the racquet a natural extension of the forearm? Sorry. It's not.

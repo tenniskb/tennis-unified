@@ -410,8 +410,8 @@ especially with a young player who already has a platform stance. The
 second, less obvious reason relates to the working conditions of the leg
 muscles that create the leg drive.
 
-**[[Leg drive force refers to the cumulative effect that the muscles
-have in pushing against the ground.]{.mark}]{.underline}** Earlier I
+**Leg drive force refers to the cumulative effect that the muscles
+have in pushing against the ground.** Earlier I
 mentioned this as one of the main factors determining the size of the
 vertical ground force. ***The muscles have properties that allow them
 to generate more force in certain conditions than in others. These
@@ -472,9 +472,9 @@ stance decreased the amount of forward angular momentum generated during
 the wind up from 15.3 % to 11.8 %of the maximum value. This is shown on
 the second line of the table.
 
-**[[It is important to note that each footwork option has relative
+**It is important to note that each footwork option has relative
 advantages and disadvantages dictating that the approach used is based
-on specific needs of a given individual.]{.mark}]{.underline}** The main
+on specific needs of a given individual.** The main
 footwork approaches and their relative success in accomplishing the
 covered mechanical goals are summarized in the table.
 

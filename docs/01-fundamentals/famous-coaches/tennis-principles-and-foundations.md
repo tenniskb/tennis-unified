@@ -176,9 +176,9 @@ waste of energy. So many great players don't reach their full potential
 or careers are cut short due to injury because this fundamental was
 neglected or not properly trained at a young age.
 
-This post follows up on last Monday's post as **[[it is critical for
+This post follows up on last Monday's post as **it is critical for
 players and coaches to understand the roles of the hips and
-shoulders.]{.mark}]{.underline}** The hips and shoulders are literally
+shoulders.** The hips and shoulders are literally
 the central gears of the swing system. Your swinging movement begins
 with the muscles of the trunk. **As they rotate the generated force
 works its way both up into the shoulders and down into the
@@ -246,13 +246,13 @@ spin.**
 
 **Generally, on a medium paced ball, the height at which the ball
 clears the net relates to how deep it lands in the
-court**. **[[A higher ball will land deep and a
+court**. **A higher ball will land deep and a
 lower ball short. Obviously, this varies according to the speed and
-trajectory.]{.mark}]{.underline}**
+trajectory.**
 
 **Good players can see the height of the ball as soon as their
-opponent hits. The** **[[very latest they see it is
-as it crosses the net.]{.mark}]{.underline}** That's why, on a let cord
+opponent hits. The** **very latest they see it is
+as it crosses the net.** That's why, on a let cord
 shot, a pro will often get to the ball quite easily whereas a club
 player watches the ball fall over for a winner.
 
@@ -468,8 +468,8 @@ permanent.**
 **Movement: Leg Lapse and Beating the Ball to the Bounce**
 
 Because your lower body does the exhausting task of moving you from one
-shot to the next, it is easy to experience **[["leg
-lapse"]{.mark}]{.underline}** during execution. A leg lapse causes the
+shot to the next, it is easy to experience **"leg
+lapse"** during execution. A leg lapse causes the
 upper body to compensate for the loss of leverage resulting in a stroke
 that is off balance. It means your body has an inefficient base of
 support due to poor footwork or knee flexion.
@@ -718,8 +718,8 @@ not a care in the world. You are not thinking about making big serves,
 they just happen. As you compete, remember how relaxed those serves
 felt.
 
-**[[Relax to achieve the max. Tension and stress are obstacles to
-achievement.]{.mark}]{.underline}** When you begin to feel tension,
+**Relax to achieve the max. Tension and stress are obstacles to
+achievement.** When you begin to feel tension,
 think of the image of water. Water is soft and yielding, yet strong. In
 the great scheme of things, no loss or setback will ruin your life.
 Create a mental environment for yourself where you take your task
@@ -800,8 +800,8 @@ teaches us that "Relaxed concentration is the supreme art, because no
 art can be achieved without it, while with it, much can be achieved."
 When Soren, a sixty-five-year-old ultra distance runner reached the
 finish line of a hundred mile marathon, a reporter asked him how someone
-his age runs a hundred miles. **[["I don't run a hundred miles. I run
-one mile a hundred times"]{.mark}]{.underline}** he said.
+his age runs a hundred miles. **"I don't run a hundred miles. I run
+one mile a hundred times"** he said.
 
 **Developing the power to devote full attention to the present is one
 of the most valuable skills in achieving optimum
@@ -1344,8 +1344,8 @@ Turning dreams into reality requires a full commitment. Commitment
 involves passion, persistence, determination, dedication, courage,
 motivation, willpower and hard work.
 
-**[[Passion for what you do is what gives you the energy to pursue your
-goals with full commitment every day.]{.mark}]{.underline}** There is a
+**Passion for what you do is what gives you the energy to pursue your
+goals with full commitment every day.** There is a
 saying that **if you have passion for what you do, you will not work
 another day in your life.** People with passion
 cannot wait to get out of bed to tackle their goals. The work is not an
@@ -1462,8 +1462,8 @@ Successful"**
 sooner or later, the man who wins, is the man who thinks he can." Vince
 Lombardi
 
-**[[Confidence is knowing you have the ability to meet the demands of a
-situation you are likely to face.]{.mark}]{.underline}** When you are
+**Confidence is knowing you have the ability to meet the demands of a
+situation you are likely to face.** When you are
 confident, you feel positive, optimistic, and in control. You expect to
 perform well. Low confidence is characterized by pessimism, doubt,
 anxiety, and even dread. When you aren't confident you expect to make
@@ -1629,9 +1629,9 @@ thoughts and emotions, or using self-discipline,]{.underline} is
 critical to getting the best out of yourself in competitive
 situations.]{.mark}**
 
-**[[Understanding and harnessing the power of thought and emotion and
+**Understanding and harnessing the power of thought and emotion and
 how this impacts your performance is a key ingredient in maximizing your
-potential.]{.mark}]{.underline}** Many talented athletes have failed to
+potential.** Many talented athletes have failed to
 reach their full potential simply because they could not control their
 thoughts and feelings. **[[Negative thinking and emotions such as fear,
 anger, and anxiety destroy self- confidence and concentration and
@@ -1643,10 +1643,10 @@ coordination.**
 
 **Research on the effect of words and images on the functions of the
 body offers amazing evidence of the power that words spoken at random
-can have on body functions.** **[[Science shows
+can have on body functions.** **Science shows
 that thoughts can raise and lower body temperature, relax muscles and
 nerve endings, dilate and constrict arteries, and raise and lower pulse
-rate.]{.mark}]{.underline}**
+rate.**
 
 **Learning how to control your internal dialogue then also means
 gaining control over both your mental and physical
@@ -1684,8 +1684,8 @@ win.
   likely to dictate play rather than just reacting to their
   opponent.**
 
-**[[It takes practice and awareness to gain self-control over your
-thoughts and emotions.]{.mark}]{.underline}** Consider how you react
+**It takes practice and awareness to gain self-control over your
+thoughts and emotions.** Consider how you react
 when faced with a competitive situation mentally, emotionally, and
 physically. Once you become aware, you can try to exert some control.
 
@@ -1850,9 +1850,9 @@ and face. Keep breathing deeply. When you find tension, consciously
 relax that muscle on the exhale. Imagine you are literally venting the
 stress.
 
-**[Step 5: Find your center.]{.underline}** **[[Our performance stems
+**[Step 5: Find your center.]{.underline}** **Our performance stems
 from our center of gravity, which is about 2 inches lower than your
-naval.]{.mark}]{.underline}** Take a moment to feel it inside. Stand
+naval.** Take a moment to feel it inside. Stand
 with your feet shoulders width apart so you're grounded. Leave your
 hands hanging by your sides and close your eyes. Move your hips as
 though you're keeping a hula hoop going around your hips. Move your hips
@@ -1913,8 +1913,8 @@ again"** -- General Patton
 "Bravery is the capacity to perform properly even when you're scared" --
 General Omar Bradley
 
-**[[Fear is the one thing that holds most athletes back from reaching
-their full potential.]{.mark}]{.underline}** Some call fear "the thief
+**Fear is the one thing that holds most athletes back from reaching
+their full potential.** Some call fear "the thief
 of dreams". Yet fear is a part of every human experience. The fear
 response is instinctive and a natural part of life. In modern life, we
 are afraid of our teachers, taking exams, being late, or being yelled
@@ -2045,8 +2045,8 @@ in the face of fear.
 **First in a series on how to counter different styles**
 
 **A Retriever stays on the baseline and gets everything back.
-They** **[[are usually in pretty good shape, and
-they cover the court well.]{.mark}]{.underline}** They don't use much
+They** **are usually in pretty good shape, and
+they cover the court well.** They don't use much
 pace, spin, or depth but they're able to recover everything you throw at
 them. A Retriever style can be very effective against an opponent who
 does not know how to break it down. Here are five ways you can win
@@ -2057,8 +2057,8 @@ against the Retriever.
 **The key to a Retriever's game is patience. It is also the key to
 beating it.** The Retriever's success is based on
 the same principle as Chinese water torture -- slow, dull and
-repetitious. **[[The reason you lose to a Retriever is
-impatience.]{.mark}]{.underline}** They are very consistent. They keep
+repetitious. **The reason you lose to a Retriever is
+impatience.** They are very consistent. They keep
 retrieving knowing you will eventually make a mistake. You go for more
 and more and you end up trying shots you never had.
 

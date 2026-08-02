@@ -40,9 +40,9 @@ had just asked a basic math question. \"4\" was shouted from a few rows
 behind me. \"6\" was blurted from the front of the room. I heard another
 coach yell out, \"3.\"
 
-**[[Then Craig gave the real answer, \"1.\" The room got silent fast.
+**Then Craig gave the real answer, \"1.\" The room got silent fast.
 More than 200 tennis coaches in the audience did not believe what Craig
-was saying.]{.mark}]{.underline}**
+was saying.**
 
 \"Far and away, 1 is the most common rally length,\" Craig repeated to a
 very quiet group.
@@ -211,10 +211,10 @@ The women's teams started to love the sense of urgency it created to
 take control of a point early. One men's team I charted had two matches
 going and in 15 minutes, just 7 points went to the fifth shot.
 
-**[[It all suggests - like Craig O'Shannessy says - that the game of
+**It all suggests - like Craig O'Shannessy says - that the game of
 tennis is not only about forehands and backhands, it's more about
 serving and returning, and working on them is what practice should look
-like.]{.mark}]{.underline}**
+like.**
 
 ![A person smiling for the camera Description automatically generated
 with medium

@@ -80,8 +80,8 @@ player take a reverse pivot step.** On a stretch
 return you will also occasionally see a drop step where the outside foot
 moves backwards under the player, rather than stepping toward the ball.
 
-**[[But whatever the first step, it initiates the unit
-turn.]{.mark}]{.underline}** This sideways turning of the feet and torso
+**But whatever the first step, it initiates the unit
+turn.** This sideways turning of the feet and torso
 is a fundamental that is the same on both the one-handed and the
 two-handed return.
 
@@ -187,17 +187,17 @@ confidence](media_the-backhand-returns/media/image6.webp)
 **The two-handed block with dramatic reduction in backswing and
 follow-through.**
 
-**[[It is important to note that even the most compact returns are based
+**It is important to note that even the most compact returns are based
 on the same strong initial unit turn as other
-returns.]{.mark}]{.underline}** The other thing they share in common is
+returns.** The other thing they share in common is
 the contact point. The reduction in the overall size of the motion
 allows the player to make contact at the right time, at the front edge
 of the body, in order to deal with the speed and spin of the return.
 
 Great returners naturally adjust the size of their swings to the speed
 of the serve, and also, to the reduction of the available time interval.
-**[[This is why it is so important to learn to swing first rather than
-block.]{.mark}]{.underline}** The two-handed backhand groundstroke, the
+**This is why it is so important to learn to swing first rather than
+block.** The two-handed backhand groundstroke, the
 two-handed backhand return, and the two-handed block return are all
 based on the same fundamentals.
 
@@ -342,8 +342,8 @@ generated](media_the-backhand-returns/media/image11.webp)
 
 **One-Handed Slice Returns**
 
-Compared to the two-handers, **[[the use of slice on the return is much
-more prevalent for one-handed players.]{.mark}]{.underline}** Most
+Compared to the two-handers, **the use of slice on the return is much
+more prevalent for one-handed players.** Most
 one-handers use the slice return the same way the two-handers use the
 block return. The obvious example in the pro game is the way Roger
 Federer consistently neutralizes Andy Roddick's first serve.

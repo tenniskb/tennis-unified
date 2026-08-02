@@ -103,11 +103,11 @@ efficiently.**
 
 **The Tool Box**
 
-***[[The first step in the development process is to build stroke
+***The first step in the development process is to build stroke
 technique that puts the body segments in the right place at the right
 time. The goal is to minimize unproductive motion while positioning the
 joints of the body such that their rotations uniquely contribute to the
-desired direction of racquet head speed.]{.mark}]{.underline}***
+desired direction of racquet head speed.***
 
 This concept was discussed at length in the forehand series. ([Click
 Here](Science%20of%20Biomechanics%20TOC.docx).) A notable example was
@@ -264,11 +264,11 @@ have been identified. As the muscle is stretched eccentrically, the
 elastic elements are stretched in kind providing for elastic energy
 return upon shortening.
 
-***[[Further, the stretch can activate muscle sensory bodies setting off
+***Further, the stretch can activate muscle sensory bodies setting off
 a spinal stretch-reflex providing further force enhancement. The elastic
 return and stretch reflex are very time sensitive, however, and probably
 not as important in the muscle groups of the upper
-body.]{.mark}]{.underline}***
+body.***
 
 As a practical example of the stretch shorten cycle, let's say that I'm
 trying to bend my elbow (elbow flexion) and someone pushes on my hand

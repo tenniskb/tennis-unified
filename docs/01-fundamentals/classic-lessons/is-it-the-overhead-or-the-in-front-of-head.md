@@ -56,19 +56,19 @@ and improve now which can produce an immediate benefit.
 
 **Where is the Ball Headed?**
 
-**[[When most people picture an overhead they picture a ball dropping
+**When most people picture an overhead they picture a ball dropping
 straight down to them. But tennis pros don't climb up on a ladder and
 drop balls straight down for you to hit in
-matches.]{.mark}]{.underline}**
+matches.**
 
-**[[When the opponent hits a good lob, the ball is headed to the back
+**When the opponent hits a good lob, the ball is headed to the back
 fence. The opponent is trying to get the ball over you. At the very
 least he is trying to get the ball behind your contact
-point.]{.mark}]{.underline}**
+point.**
 
-**[[Movement is key to preventing this and establishing the \"in front
+**Movement is key to preventing this and establishing the \"in front
 of head\" contact point. But most players are not taught how to move to
-the overhead in the most effective way.]{.mark}]{.underline}**
+the overhead in the most effective way.**
 
 **Cross Steps**
 
@@ -82,8 +82,8 @@ confidence](media_is-it-the-overhead-or-the-in-front-of-head/media/image3.webp)
 **All players should learn to cross step back with the first step and
 turn the body.**
 
-**[[But good tennis players rarely take an initial side-step backwards.
-They take a cross step.]{.mark}]{.underline}**
+**But good tennis players rarely take an initial side-step backwards.
+They take a cross step.**
 
 The movement should be like a quarterback. After the snap the first
 thing a quarterback does is take a cross step back.
@@ -122,21 +122,21 @@ generated](media_is-it-the-overhead-or-the-in-front-of-head/media/image4.webp)
 
 **Step into an offensive overhead and find the downward angle.**
 
-**[[Players try for too much power and hit long. Or they try to make the
+**Players try for too much power and hit long. Or they try to make the
 ball bounce too high and end up missing into the
-net.]{.mark}]{.underline}**
+net.**
 
-**[[Your target area should be somewhere around no man's land on the
-opponent's side. I call this the overhead zone.]{.mark}]{.underline}**
+**Your target area should be somewhere around no man's land on the
+opponent's side. I call this the overhead zone.**
 
 That gives you 6 or 8 feet to miss in any direction. Don't try to hit
 at your opponent's feet. The target height should be somewhere between
 the knees and the waist.
 
-**[[On offensive overheads I generally advise my players to hit it about
+**On offensive overheads I generally advise my players to hit it about
 70% of peak power because 70% seems to be the place where people relax
 and get the right trajectory. It should feel
-smooth.]{.mark}]{.underline}**
+smooth.**
 
 When players try to hit a little bit harder and go for 80, 90, or 100%
 of their power, that's when they tend to clench up. They start dumping
@@ -159,22 +159,22 @@ practice mostly offensive overheads. They have no clue how to keep the
 contact point in front when they have to move back and jump.
 
 **To hit an effective defensive overhead you have learn to hit without
-stepping in with the front foot.** **[[You have to
+stepping in with the front foot.** **You have to
 learn to hit in the air by jumping off the back
-foot.]{.mark}]{.underline}**
+foot.**
 
-**[[Remember, the ball is trying to get behind you. If that happens you
+**Remember, the ball is trying to get behind you. If that happens you
 can't generate power. So, you can't let that happen. Your job is to
-cut the ball off before it does.]{.mark}]{.underline}**
+cut the ball off before it does.**
 
-**[[The key is not swinging fast, it's creating the contact point. In
+**The key is not swinging fast, it's creating the contact point. In
 fact, when you hit defensive overheads I suggest you use about 50% off
-your power.]{.mark}]{.underline}**
+your power.**
 
-**[[You can't crush most defensive overheads. The goal is to hit a nice
+**You can't crush most defensive overheads. The goal is to hit a nice
 smooth stroke. The key is to realize at the start that you are
 defending. Don't mistake a defensive overhead for an opportunity that
-it's not.]{.mark}]{.underline}**
+it's not.**
 
 **[Establish the contact in front of the head\--not over the head. If
 you do this, you can hit very effective overheads from no man's
@@ -190,10 +190,10 @@ confidence](media_is-it-the-overhead-or-the-in-front-of-head/media/image6.webp)
 **Practice getting around the ball and hitting the inside out
 overhead.**
 
-**[[This same strategy can work on the overhead. If you aren't certain
+**This same strategy can work on the overhead. If you aren't certain
 how good the lob really is, as soon as the ball goes up your first move
 should be to drop back and make sure you can stay behind the
-ball.]{.mark}]{.underline}**
+ball.**
 
 **The Inside Out Overhead**
 
@@ -231,20 +231,20 @@ generated](media_is-it-the-overhead-or-the-in-front-of-head/media/image7.webp)
 **When the overhead bounces, lower your body to keep the contact
 point.**
 
-**[[A final situation. What about when the ball bounces? This can happen
+**A final situation. What about when the ball bounces? This can happen
 when the ball is short, or you don't have time to get all the way
 around it and hit it in the air. It can be better to let it bounce in
-these cases.]{.mark}]{.underline}**
+these cases.**
 
 **The key here is the knee. The feeling is that you are lowering
-yourself.** **[[This allows you to keep the same
+yourself.** **This allows you to keep the same
 contact point with the hitting arm extended but still in front of the
-head. Lower yourself and hit off that front foot!]{.mark}]{.underline}**
+head. Lower yourself and hit off that front foot!**
 
-**[[The commonalities in all these variations are the same: the right
+**The commonalities in all these variations are the same: the right
 movement pattern, staying behind the ball, knowing which foot to hit off
 of, and most importantly, contact in front of your head. Remember it's
-the in front of head!]{.mark}]{.underline}**
+the in front of head!**
 
 | ![A person wearing a hat Description automatically generated with medium | Jeremiah Walsh has been director of tennis at |
 | --- | --- |

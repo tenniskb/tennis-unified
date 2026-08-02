@@ -134,9 +134,9 @@ run.***
 through**. **[[The faster the arms swing the faster
 the legs are pulled through.]{.mark} [The arms should swing back and
 forth in a straight line. The term Malcolm uses is \"cheek to
-cheek.\"]{.mark}]{.underline}** **[[The hands should travel from your
+cheek.\"]{.mark}]{.underline}** **The hands should travel from your
 face cheek to your butt cheek (the arms bent and
-relaxed).]{.mark}]{.underline}** In my case I was amazed how much my
+relaxed).** In my case I was amazed how much my
 arms moved side to side as I ran. This caused my legs to pull to the
 side, slowing me down.
 

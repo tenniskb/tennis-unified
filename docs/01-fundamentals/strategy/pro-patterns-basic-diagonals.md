@@ -250,10 +250,10 @@ opponent can change the rally. There are several methods of creating the
 winning or attacking shot within these patterns. So let's now progress
 to your options.
 
-**[[Beginning with the forehand crosscourt diagonal, a player is looking
+**Beginning with the forehand crosscourt diagonal, a player is looking
 to create space on the backhand side of the court. Thus, the player may
 strike the ball deep and follow it with an angle, and then attack the
-opposite side of the court.]{.mark}]{.underline}**
+opposite side of the court.**
 
 Generally owning the ability to strike the forehand deep and wide enough
 to prevent an opponent from changing direction will lead you to this
@@ -450,25 +450,25 @@ generated](media_pro-patterns-basic-diagonals/media/image19.webp)
 
 **The right response when moving back is to add height.**
 
-**[[So how do you counter when you are in this weaker, off-balance
+**So how do you counter when you are in this weaker, off-balance
 position? There are two choices: Either adjust the pace of the ball (hit
-it harder) or adjust the height (hit it higher).]{.mark}]{.underline}**
+it harder) or adjust the height (hit it higher).**
 
 **Which will you choose? The right percentage play is to adjust the
 height of the ball.** **A player moving backwards
 or sideways will be less balanced. Less balance makes striking the ball
 with more power more difficult.**
 
-**[[By hitting higher, you are also creating a better margin for error,
+**By hitting higher, you are also creating a better margin for error,
 which is wise for an off-balance player. Understanding this simple fact
-allows to adjust based on position.]{.mark}]{.underline}**
+allows to adjust based on position.**
 
 **Learning From Pro Tennis**
 
-**[[The above patterns and situations are the very basics from which one
+**The above patterns and situations are the very basics from which one
 can build a baseline game. As you begin to see the patterns in
 professional tennis, notice how the depth and width of shots influence
-directional changes.]{.mark}]{.underline}**
+directional changes.**
 
 **Here are the things to watch in pro matches to learn more about
 crosscourt diagonals:**

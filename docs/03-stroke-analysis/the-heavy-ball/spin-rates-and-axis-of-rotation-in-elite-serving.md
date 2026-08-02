@@ -144,9 +144,9 @@ side spin, that is brushing the racquet face across the ball. In the
 context of this study it makes sense that this up and out racket
 trajectory will produce a combination of both spin types.
 
-**[[Based on these results, it may be possible to suggest differences in
+**Based on these results, it may be possible to suggest differences in
 the swing path with slightly different combinations of upward and
-outward action to create the three variations.]{.mark}]{.underline}**
+outward action to create the three variations.**
 
 Anyone who has faced high level servers knows that despite the
 relatively small technical variations, there are clears difference in

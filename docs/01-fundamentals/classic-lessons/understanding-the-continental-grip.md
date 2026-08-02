@@ -170,10 +170,10 @@ the drop shot or the drop volley.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[How is underspin produced? On the forehand side this happens by
+**How is underspin produced? On the forehand side this happens by
 making sure the inside portion of the elbow is pulled toward the stomach
 as the ball is struck. The wrist position is slightly laid back, and the
-racquet head is positioned above the wrist.]{.mark}]{.underline}**
+racquet head is positioned above the wrist.**
 
 This position will be very awkward at first. It's important to know
 that it stays the same on all forehand underspin shots, no matter how
@@ -275,8 +275,8 @@ head.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Unlike the forehand swing, **[[the serve does not involve laying the
-wrist back.]{.mark}]{.underline}** This is a common error that occurs
+Unlike the forehand swing, **the serve does not involve laying the
+wrist back.** This is a common error that occurs
 with many players who serve with other grips and results in very limited
 ability to create good quality, consistent spin.
 

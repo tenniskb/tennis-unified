@@ -382,8 +382,8 @@ confidence](media_return-plan/media/image13.webp)
 
 So there we have it. We've covered the technique, but we've covered
 the equally important mental and strategic aspects of the return.
-**[[One thing is for sure, if you can't break serve, it's very
-difficult to win matches.]{.mark}]{.underline}** Too many players never
+**One thing is for sure, if you can't break serve, it's very
+difficult to win matches.** Too many players never
 consider how the returns differ from the groundstrokes or work
 systematically on developing them. Follow my advice in this article and
 the two other return on Tennisplayer ([Click

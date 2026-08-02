@@ -24,10 +24,10 @@ match can prove critical in determining the winner.
 
 Ultimately, you want your opponent to have to do more than just make the
 first serve to earn the point. So, getting returns in is crucial.
-**[[Trying risky returns on first serves can lead to cheap points for
+**Trying risky returns on first serves can lead to cheap points for
 the server. Even strong servers will struggle to serve accurately enough
 that you can't get your racket to the ball a decent amount of the
-times.]{.mark}]{.underline}**
+times.**
 
 **Depth!**
 
@@ -259,10 +259,10 @@ returner to hit a strong return that will get them into the rally. This
 option doesn't have to be restricted to dealing with deadly kick
 serves.
 
-**[[Your game style may be suited to having more time on the ball,
+**Your game style may be suited to having more time on the ball,
 rather than trying to take the ball early, in which case holding back a
 little more on the second serve return will allow you to use your
-strengths.]{.mark}]{.underline}**
+strengths.**
 
 **On the other hand, if your skills lie more with early hitting,
 standing even closer into the court for second serves is a great option,

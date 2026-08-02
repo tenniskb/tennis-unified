@@ -26,10 +26,10 @@ the total points played. What about the other 45 points? Although
 unrecorded officially, these points were not unforced errors or
 winner\-- they were forced errors.
 
-**[[In the final Nadal may have hit only 26 winners. But he also created
+**In the final Nadal may have hit only 26 winners. But he also created
 32 forced errors. In other words, his ability to force Thiem into
 mistakes was a more significant factor than his outright
-winners.]{.mark}]{.underline}**
+winners.**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_forced-errors/media/image2.jpg)

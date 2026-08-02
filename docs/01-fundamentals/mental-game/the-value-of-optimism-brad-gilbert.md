@@ -86,11 +86,11 @@ hold his serve in the third set and somehow break back, Becker might
 become frustrated at still being on court and having to struggle to win
 a match he thought should have already been over.
 
-**[[Brad reasoned that if he could begin to frustrate Becker, this
+**Brad reasoned that if he could begin to frustrate Becker, this
 frustration could gradually turn into a loss of composure and anger.
 Possibly the end result could even be a big- time breakdown. It had
 happened before in a match Brad had won over Boris earlier in the
-year.]{.mark}]{.underline}**
+year.**
 
 And during the course of the next two hours that is exactly what
 happened. You would not have wanted to bet on it, but to Brad it was

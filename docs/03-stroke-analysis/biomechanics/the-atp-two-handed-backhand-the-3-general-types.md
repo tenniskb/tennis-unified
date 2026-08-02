@@ -100,11 +100,11 @@ racket going back behind the player's body.]{.mark}**
 primarily backward with a minimal lateral or sideways component, usually
 not breaking into what I call the lateral plane.]{.mark}***
 
-**[[The third backhand I call Type 3. This backhand has what I call a
+**The third backhand I call Type 3. This backhand has what I call a
 half loop. The half loop sets the racket back fully at the unit turn. It
 is the most compact, but also the most powerful and efficient as we
 shall see. This is the basis for our teaching model, and the backswing
-most prevalent on the ATP tour.]{.mark}]{.underline}**
+most prevalent on the ATP tour.**
 
 **Type 1**
 
@@ -159,10 +159,10 @@ what we consider a key part of the optimal approach.
 
 Now let's compare than to the Type 3 backhand. Let's use Novak
 Djokovic as an example. There is a big difference here compared to
-Sharapova or Dementieva. **[[Compared to either of the full loop
+Sharapova or Dementieva. **Compared to either of the full loop
 variations, the racket is actually pulled all the way back at the
 completion of the unit turn. It's essentially a straight back swing
-with a half loop.]{.mark}]{.underline}**
+with a half loop.**
 
 ![A person playing tennis Description automatically generated with
 medium

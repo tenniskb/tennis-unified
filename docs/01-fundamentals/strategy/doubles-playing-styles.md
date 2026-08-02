@@ -36,8 +36,8 @@ the style of your team.
 
 **The Three Elements**
 
-**[[The three elements of successful doubles play for all teams are:
-court coverage, shot selection, and teamwork.]{.mark}]{.underline}**
+**The three elements of successful doubles play for all teams are:
+court coverage, shot selection, and teamwork.**
 Great doubles teams have the ability to cover the court effectively with
 proper positioning, movement, and poaching actions. They also execute
 shot selections appropriate to various playing situations when serving
@@ -190,9 +190,9 @@ court.**
 
 **Precision Players**
 
-**[[Precision teams play with great touch and finesse. They move their
+**Precision teams play with great touch and finesse. They move their
 opponents around with angles, dinks, drop shots, and lobs, trying to
-take advantage of any weakness.]{.mark}]{.underline}** Only gifted
+take advantage of any weakness.** Only gifted
 Precision Players make it to the pro tour, since the hard hitters often
 overpower them and the poachers move so well that they throw them off
 balance.

@@ -81,8 +81,8 @@ confidence](media_starting-kids-right-the-forehand/media/image3.webp)
 **[I believe that players need to be learning certain
 fundamentals.]{.mark}** 
 
-**[[Fundamentals that will eventually lead to the development of
-weapons.]{.mark}]{.underline}** At an early age, the goal of these
+**Fundamentals that will eventually lead to the development of
+weapons.** At an early age, the goal of these
 fundamentals is simple. To help young players develop the feeling of
 connecting with the tennis ball. 
 
@@ -318,10 +318,10 @@ swing.
 [**[Learn to push on the ground.]{.underline}** **[Learn to hit the ball
 with your legs.]{.underline}**]{.mark} 
 
-That point right there is a million-dollar lesson. **[[Most young kids,
+That point right there is a million-dollar lesson. **Most young kids,
 no matter what grip they have, play mostly with the arm. The racket
 dominates them instead of the body doing the work. Pushing on the ground
-means the whole body in going to be involved.]{.mark}]{.underline}**
+means the whole body in going to be involved.**
 
 ![A child playing tennis Description automatically generated with medium
 confidence](media_starting-kids-right-the-forehand/media/image9.webp)

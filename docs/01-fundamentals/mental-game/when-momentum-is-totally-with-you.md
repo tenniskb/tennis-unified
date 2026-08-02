@@ -76,9 +76,9 @@ your side as much as possible you need to know how to:
 **Avoid the Dangers**
 
 The momentum may switch but at least make sure it's because your
-opponent gained it, not because you lost it. **[[When the momentum is
+opponent gained it, not because you lost it. **When the momentum is
 totally for you, it is crucial that you do not allow yourself to get
-distracted.]{.mark}]{.underline}** This often happens because players
+distracted.** This often happens because players
 are lulled into a sense of false security when things are heavily in
 their favour. They are playing well, their opponent may be playing
 badly, and it seems fine to relax and enjoy completing the win.

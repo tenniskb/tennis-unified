@@ -77,9 +77,9 @@ You can gain clues as to which is the weaker side, but you must also
 test your theory once the match has begun, and form stronger opinions
 based on the outcome of their returns once the match is underway.
 
-**[[In the majority of cases, the backhand side will be weakest, so this
+**In the majority of cases, the backhand side will be weakest, so this
 should be in your mind while going through the process of gathering
-information.]{.mark}]{.underline}**
+information.**
 
 You will also want to know what difference there is between your
 opponent's two sides. If one side is a lot stronger, then you will
@@ -107,9 +107,9 @@ generated](media_increasing-your-chances-of-winning-points-on-serve/media/image4
 **If you are a left side player, the serve to the T can set up inside
 forehands.**
 
-**[[The second thing to consider is how does your serving target affect
+**The second thing to consider is how does your serving target affect
 the location of the return and what shot may be you able to play
-next?]{.mark}]{.underline}**
+next?**
 
 Based on what we know about the game and the court dynamics, returners
 are least likely to attempt a down the line return on your first serve.
@@ -147,19 +147,19 @@ deuce side, there is much less chance the return will allow you to set
 up the left side pattern, because the returner is more likely to go
 crosscourt, rather than hit the lower percentage down the line.
 
-**[[What about the ad side? Let's use the left side pattern as our
+**What about the ad side? Let's use the left side pattern as our
 example again. In this case, a serve out wide is much more likely to
 create this left side pattern, since the returner is less likely to
 consider a down the line return off your first serve---especially if
-they have a weaker backhand side.]{.mark}]{.underline}**
+they have a weaker backhand side.**
 
-**[[As a server armed with this knowledge, you can aim your serve out
+**As a server armed with this knowledge, you can aim your serve out
 wide on the ad side, expecting that the ball will probably come back
 cross court or middle. As someone who wants to dominate the point with
 inside forehands, you can also adjust your serving position slightly to
 the left, and also be ready to move left after your serve, to increase
 the chance of your next shot being an inside
-forehand.]{.mark}]{.underline}**
+forehand.**
 
 ![A person playing tennis Description automatically
 generated](media_increasing-your-chances-of-winning-points-on-serve/media/image6.webp)
@@ -202,10 +202,10 @@ you can do. Top priority is a well-timed split step from your
 opponent's return.** I've touched on the fact the
 service action often takes a fraction longer to recover balance from,
 and this can lead to picking up the ball from your opponents return
-slightly late, and also doing your split step slightly late. **[[As soon
+slightly late, and also doing your split step slightly late. **As soon
 as your service motion is complete, focus your attention on timing your
 split step well, and spotting which direction the return is heading as
-soon as it leaves your opponent's racket.]{.mark}]{.underline}**
+soon as it leaves your opponent's racket.**
 
 This is a skill that can be developed and used for all situations in a
 tennis rally, but is particularly beneficial when you've just hit a
@@ -266,18 +266,18 @@ on either first or second serve.**
 point, or to finally win a game point in one of those never-ending deuce
 games!**
 
-**[[The ability to hit a good kick serve can make this play even more
+**The ability to hit a good kick serve can make this play even more
 worthwhile. The spin will slow the ball down, which gives you a little
 more opportunity to get closer to the net for your first volley, whilst
 the kick effect will make it difficult for your opponent to keep the
 ball low on their return, which is just what the incoming volleyer
-doesn't like.]{.mark}]{.underline}**
+doesn't like.**
 
-**[[Serve placement should be primarily based on your opponent's weaker
+**Serve placement should be primarily based on your opponent's weaker
 returning side, as the pressure of you coming in will increase the
 chance they don't connect well with the ball. Whether using this tactic
 on first or second serve, placement should be carefully
-considered.]{.mark}]{.underline}**
+considered.**
 
 **Wide serves open up space beautifully for your first volley, whilst
 hitting down the T limits the angles available to your opponent and

@@ -84,8 +84,8 @@ to serve the ball from an overhand position.
 
 In the 20th century the overhand serve became a huge weapon with players
 like Bill Tilden and Ellsworth Vines blasting balls for easy points.
-**[[But the underhand serve was never declared illegal or unethical.
-Technically it was just another possible shot.]{.mark}]{.underline}**
+**But the underhand serve was never declared illegal or unethical.
+Technically it was just another possible shot.**
 
 Butch, the ballistic club player, might as well have said that the drop
 shot is illegal, or that the curveball in baseball or the reverse in

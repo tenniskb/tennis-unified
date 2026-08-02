@@ -443,9 +443,9 @@ game. When I first saw Jim Courier play, I recognized that he had
 developed an extreme court positioning strategy, based on, or at least
 similar to, table tennis.
 
-**[[In table tennis, players try to get around the backhand corner of
+**In table tennis, players try to get around the backhand corner of
 the table and play literally every ball with the inside out or inside in
-forehand.]{.mark}]{.underline}** Courier applied this strategy to tennis
+forehand.** Courier applied this strategy to tennis
 and was able to dominate the tour on clay, winning the French Open twice
 and even reaching the final at Wimbledon.
 

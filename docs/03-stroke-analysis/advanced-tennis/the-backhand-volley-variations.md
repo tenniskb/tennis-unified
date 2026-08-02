@@ -172,8 +172,8 @@ backswing, is still in front of the plane of the body. This is probably
 one of those 2000rpm plus volleys in terms of the spin.
 
 Watch the elbow straighten out as the hitting arm structure comes
-forward. **[[But then see it naturally revert to the U shape in the
-followthrough.]{.mark}]{.underline}** Note also the beautiful opposition
+forward. **But then see it naturally revert to the U shape in the
+followthrough.** Note also the beautiful opposition
 of the back arm. This keeps the torso sideways and also contributes to
 the balanced landing.
 
@@ -320,11 +320,11 @@ generated](media_the-backhand-volley-variations/media/image10.webp)
 
 Watch in the crosscourt volley how Henman starts with the Open U shape
 with the forearm basically parallel to the court. As he moves the racket
-forward, however, he turns it literally upside down. **[[Watch the tip
+forward, however, he turns it literally upside down. **Watch the tip
 of the racket. It goes from pointing upward at the sky to pointing
 directly downward at the court. So the angle has rotated 180 degrees in
 a few fractions of a second. And this is happening simultaneous with the
-forward movement!]{.mark}]{.underline}**
+forward movement!**
 
 This only makes sense if you see it in the context of the unitary
 hitting arm structure. Henman rotates the entire shape to position the

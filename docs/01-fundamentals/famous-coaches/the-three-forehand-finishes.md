@@ -41,8 +41,8 @@ generated](media_the-three-forehand-finishes/media/image2.webp)
 body.**
 
 The next finish is something new that I've gradually added in the last
-few years. **[[This finish is the across the body or the downward
-finish.]{.mark}]{.underline}** This is the finish so many of the top
+few years. **This finish is the across the body or the downward
+finish.** This is the finish so many of the top
 players now use. Roger Federer is the obvious example. The bald guys are
 the only ones who still follow-through high on every ball. In this
 article I'm going to talk about these finishes, how I learned about
@@ -195,8 +195,8 @@ same way the up-front finish worked in the old days.
 **By following through lower, my students could drive the ball hard
 and have maximum topspin, but without really thinking about
 it.** You don't really have to tell players,
-\"Come up. Brush up on the ball.\" Instead, **[[I tell them to finish a
-little lower, but drive through the ball.]{.mark}]{.underline}** You're
+\"Come up. Brush up on the ball.\" Instead, **I tell them to finish a
+little lower, but drive through the ball.** You're
 not really trying to hit major spin. It's a natural process where the
 ball has more spin.
 

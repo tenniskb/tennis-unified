@@ -18,10 +18,10 @@ confidence](media_the-forehand-volley/media/image1.webp)
 
 **The Grip**
 
-One thing all these volleys do have in common is the grip. **[[The
+One thing all these volleys do have in common is the grip. **The
 continental grip is equally effective for both the forehand and backhand
 side, as well as for the bottom hand on two handed backhand
-volleys.]{.mark}]{.underline}** The continental grip positions the V
+volleys.** The continental grip positions the V
 shape between your thumb and first finger in line with the top edge of
 the grip. Since this is also the grip for serves and overheads, you'll
 find when you serve and volley, you never have to change your grip.
@@ -78,10 +78,10 @@ ball.]{.underline} All too often[, when the body weight gets planted
 back on the heels, you end up watching the passing shot go
 by.]{.underline} Don't get too settled in.]{.mark}**
 
-**[[In the ready position, on your split step you should have your arms
+**In the ready position, on your split step you should have your arms
 and racquet out in front of you, centered between your shoulders,
 putting you at the midpoint so that you can turn to either the forehand
-or the backhand side.]{.mark}]{.underline}**
+or the backhand side.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         ![A person holding a tennis racket Description automatically
@@ -293,9 +293,9 @@ of the racquet towards the ball.**
 **As the forward action begins, you drive the butt of the racquet
 forward and down along the path like a waterfall.**
 This action sends the racquet face up into contact with plenty of pop.
-**[[Notice there's no snapping of the wrist in this action. The wrist
+**Notice there's no snapping of the wrist in this action. The wrist
 maintains the strong leverage position through
-contact.]{.mark}]{.underline}** You can learn to add power with great
+contact.** You can learn to add power with great
 control using this technique for the high floating volley.
 
 **The Swinging Volley**

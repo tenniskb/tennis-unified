@@ -17,12 +17,12 @@ doubles is \"the team that closes in has a better chance to win\" and
 the baseline player should be trying to set up his partner for a winning
 net play.
 
-**[[I have a contrarian view. I believe that if you are an average club
+**I have a contrarian view. I believe that if you are an average club
 or a senior player your court perspective should be different than that
 of a world class professional or junior. You can dream of playing like
 professionals but if you want to maximize your results need to be
 practical on the court. You need to learn to play the Challenge Zone
-with confidence.]{.mark}]{.underline}**
+with confidence.**
 
 An unusually high percentage of mistakes are made from two steps in
 front of the baseline to a step or two in front of the service line.

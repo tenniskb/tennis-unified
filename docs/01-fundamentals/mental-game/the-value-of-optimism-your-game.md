@@ -40,9 +40,9 @@ In competition your emotional state helps determine your performance,
 and it behooves you, **therefore, to elevate your mood as best you
 can.**
 
-**[[Put simply, you can become more optimistic by consciously looking
+**Put simply, you can become more optimistic by consciously looking
 for positives rather than negatives in most of the match situations in
-which you find yourself.]{.mark}]{.underline}**
+which you find yourself.**
 
 Consider what can happen if you start out a match playing badly. Do you
 quickly conclude that you are having a bad day and begin acting out

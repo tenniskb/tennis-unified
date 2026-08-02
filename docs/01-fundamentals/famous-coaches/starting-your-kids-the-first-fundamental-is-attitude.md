@@ -42,7 +42,7 @@ confidence](media_starting-your-kids-the-first-fundamental-is-attitude/media/ima
 **In this series I'll share my approach to starting kids\--but club
 players, pay attention.**
 
-**[[Attitude Underlies All]{.mark}]{.underline}**
+**Attitude Underlies All**
 
 **When it comes to becoming the best player you can be the first
 fundamental is attitude.** Attitude has to

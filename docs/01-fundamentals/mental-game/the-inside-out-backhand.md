@@ -21,9 +21,9 @@ inside forehand position are usually even greater at lower levels.
 But most players have never even heard the reverse term: inside out
 backhand. Does the inside out backhand exist? And if so, how is used?
 
-**[[The reality is that the inside out backhand is equally critical in
+**The reality is that the inside out backhand is equally critical in
 developing a complete tactical game. This applies at the pro level and
-every other level as well.]{.mark}]{.underline}**
+every other level as well.**
 
 It is rarely a weapon compared to the inside out forehand but is
 fundamental in three situations. These are: recovering from a wide

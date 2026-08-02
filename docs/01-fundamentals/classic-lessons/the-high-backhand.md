@@ -10,8 +10,8 @@ generated](media_the-high-backhand/media/image1.webp)
 **What are your option in hitting\--or avoiding\--high backhands?**
 
 One of the smartest tactics you can use against virtually any player is
-**[[to hit high bouncing balls to their
-backhands.]{.mark}]{.underline}** For most club players dealing with a
+**to hit high bouncing balls to their
+backhands.** For most club players dealing with a
 high ball on the forehand side is bad enough, but a high ball to the
 backhand can be sheer torture!
 
@@ -78,8 +78,8 @@ make sure your shot includes enough height and depth to counteract that
 and keep your opponent from getting too far ahead, coming in, or
 finishing on the next ball.**
 
-**[[Don't fall into the trap of thinking you absolutely have to do
-something with a deep, relatively high ball.]{.mark}]{.underline}**
+**Don't fall into the trap of thinking you absolutely have to do
+something with a deep, relatively high ball.**
 
 Thousands of unforced errors are made in club matches by players who
 feel they should be able to attack the high ball\--or maybe it's the
@@ -120,10 +120,10 @@ probably have the natural inclination to hit a lot of balls on the
 rise\--or not.
 
 **But every player needs to develop the ability to hit on the rise
-sometimes**. **[[You can pursue it as a strategy or
+sometimes**. **You can pursue it as a strategy or
 just learn to hit early when you are caught in a tight position on the
 court. Either way, working on early timing is a
-must.]{.mark}]{.underline}**
+must.**
 
 **For both two-handers and one-handers, the way to improve your
 ability to hit on the rise is to ease into the timing by starting around
@@ -221,11 +221,11 @@ generated](media_the-high-backhand/media/image8.webp)\
 **Advanced players can use the leg kick to elevate the strike zone.**
 
 Another alternative is the shot that Marat Safin is generally credited
-with starting at the pro level. **[[This is the so-called \"leg kick\"
+with starting at the pro level. **This is the so-called \"leg kick\"
 backhand. Basically, the player raises his strike zone by bending the
 back leg at the knee and raising it upward toward the torso, and then
 leaving the ground with both feet before the
-contact.]{.mark}]{.underline}**
+contact.**
 
 It actually looks similar to the launch on the serve, or what high level
 players do on the forehand side when they make contact with both feet in
@@ -250,8 +250,8 @@ one-hander.**
 
 If you are a one-hander, your ability to deal with the high ball will be
 influenced to some degree by the grip variation you use on your topspin
-drive. **[[Basically, the more extreme the grip, the higher the natural
-contact point.]{.mark}]{.underline}**
+drive. **Basically, the more extreme the grip, the higher the natural
+contact point.**
 
 If you play with more of a classic eastern grip like James Blake or
 Tommy Haas or Roger Federer, your ability to hit over high balls will be
@@ -316,15 +316,15 @@ point at the right time.
 
 **Slice Alternative**
 
-At some point whether you hit with one-hand or two, **[[all players will
-have to change strategies and slice higher balls.]{.mark}]{.underline}**
+At some point whether you hit with one-hand or two, **all players will
+have to change strategies and slice higher balls.**
 This can be a very effective strategic play as well, even on balls that
 you might still be able to drive.
 
 The exact height where you lose your ability to handle the high ball
 with a drive will depend on your backhand. Most of my two-handed friends
-at Harbor Point agreed that **[[when the ball was approaching shoulder
-level or higher they would slice it.]{.mark}]{.underline}**
+at Harbor Point agreed that **when the ball was approaching shoulder
+level or higher they would slice it.**
 
 **This transition point is probably lower for the
 one-handers,** even those with more extreme grips.
@@ -427,8 +427,8 @@ your opponent.**
 
 A final important point. **Always try to be aware of what your
 opponent is doing when you play the high ball in your backhand
-corner.** Be careful not to get caught **[[if he
-makes a delayed opportunity approach.]{.mark}]{.underline}** If he does,
+corner.** Be careful not to get caught **if he
+makes a delayed opportunity approach.** If he does,
 **a slice nailed right at his feet is a great play that forces him to
 hit a tough volley without much pace to work
 with**. This may give you an easy pass on the next

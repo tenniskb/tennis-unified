@@ -98,11 +98,11 @@ Let's examine why this is. The good news is that if you have struggled
 in traditional tennis lessons, possibly for years, it still may not be
 too late for you to make a quantum jump in the level of your play.
 
-**[[In general, people tend to learn in three ways. One, through
+**In general, people tend to learn in three ways. One, through
 auditory or verbal input and explanations-this is the basis of the
 tennis tip approach. Two, through imagery and visualization. And three,
 through feeling and experiment, what is sometimes called
-kinesthetics.]{.mark}]{.underline}**
+kinesthetics.**
 
 **The problem is that learning tennis or other sports is primarily
 visual and kinesthetic, not verbal. But teaching today is primarily
@@ -229,10 +229,10 @@ Once again, something McEnroe told me in 1984 gives an insight into how
 this actually happens. We were talking about how the Winning Edge video
 was designed to give players clear visual models of himself and Lendl.
 
-***[[Suddenly John stopped and said something surprising\--as if he were
+***Suddenly John stopped and said something surprising\--as if he were
 realizing it himself for the first time. \"Sometimes I'll see the shot
 flash across my mind's eye just before I hit
-it!\"]{.mark}]{.underline}***
+it!\"***
 
 ![A person playing tennis Description automatically generated with
 medium

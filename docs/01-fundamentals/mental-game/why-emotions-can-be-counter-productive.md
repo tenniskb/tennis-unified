@@ -11,26 +11,26 @@ confidence](media_why-emotions-can-be-counter-productive/media/image1.jpg)
 **Darwin's theory of emotional response is at odds with what happens in
 tennis matches.**
 
-**[[Emotions are often counterproductive in tennis. Most
+**Emotions are often counterproductive in tennis. Most
 counterproductive emotional responses during tennis matches are driven
 by subconscious fears of failure and urges to escape the stress of
-competition.]{.mark}]{.underline}**
+competition.**
 
 Charles Darwin would have it that emotional responses generally evolve
 because they, in some way, enhance prospects for species survival. In
 other words, they are supposed to be helpful. Unfortunately, in tennis
 matches the opposite is usually the case.
 
-**[[Our nervous systems were not designed to exert fine motor control
+**Our nervous systems were not designed to exert fine motor control
 for long periods of time under high stress. Certain normal emotional
 responses, in particular those involving escape from prolonged and
 excessive anxiety, frequently make players lose to opponents who are
-physically and technically inferior.]{.mark}]{.underline}**
+physically and technically inferior.**
 
-**[[By its very nature, tennis is an emotional game. Of course, it may
+**By its very nature, tennis is an emotional game. Of course, it may
 not look it from the outside, but as noted in the first article, tennis
 is constructed to be a one-on-one, non-contact
-fistfight.]{.mark}]{.underline}**
+fistfight.**
 
 Tennis is inherently antagonistic since players use their tennis tools
 to break down their opponents. It is a battle of wills, where players
@@ -114,28 +114,28 @@ situation.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[It is natural to try to escape from stress. The usual means of
+**It is natural to try to escape from stress. The usual means of
 escape from the stress, uncertainty, and uncontrollability of a tennis
 match are: to become angry, to make excuses, to lose concentration, to
 focus on and complain about 'problems' rather than solve them or
-forget them, or to simply give up.]{.mark}]{.underline}**
+forget them, or to simply give up.**
 
-**[[Of course, this is not a conscious decision, nor is it a productive
+**Of course, this is not a conscious decision, nor is it a productive
 one. But it is quite normal. Any creature will become stressed and try
 to escape from an uncontrollable situation when the alternative outcomes
 are randomly pleasant (winning/food) or extremely painful
-(losing/electric shock).]{.mark}]{.underline}**
+(losing/electric shock).**
 
-**[[Escape responses are natural. It is the exceedingly rare (or
+**Escape responses are natural. It is the exceedingly rare (or
 abnormal) individuals who can remain rational, unemotional, and
 practical in an important match when, despite their committed efforts,
 things are going wrong and the prospects of failure loom
-large.]{.mark}]{.underline}**
+large.**
 
-**[[The vast majority cannot. Since they can't simply pack their bags
+**The vast majority cannot. Since they can't simply pack their bags
 and run off the court, their alternative is to use forms of mental and
 emotional escapism to temporarily insulate themselves from the impending
-pain of defeat.]{.mark}]{.underline}**
+pain of defeat.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -152,13 +152,13 @@ Freud called **[[\"defense mechanisms.\"]{.mark} [These are unconscious
 distortions of perception and interpretation that protect us from
 unpalatable realities, and they are quite normal.]{.mark}]{.underline}**
 
-**[[Freud postulated that cold reality can force us to face stressful or
+**Freud postulated that cold reality can force us to face stressful or
 frightening issues that we cannot resolve. At such times we often
 comfort ourselves, unconsciously, of course, by adjusting the way we see
 things so that these stressors appear to go away. Defense mechanisms
 are, in essence, soothing forms of self-delusion. The key to their
 effectiveness is that while we are using them, we don't realize what we
-are doing.]{.mark}]{.underline}**
+are doing.**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                               ![Map Description automatically
@@ -214,20 +214,20 @@ of tennis matches, but while they are doing it, they feel better. Angry
 players, for example, feel no fear. They are no longer afraid of losing.
 All they feel is anger - problem solved!
 
-**[[Or, a player who is afraid of losing gets a bad call and decides to
+**Or, a player who is afraid of losing gets a bad call and decides to
 tank the match. Once he or she stops trying to win, the fear of losing
 goes away, and the stress is reduced - again, problem solved! Afterward
 the player may regret it, but by then it is too
-late.]{.mark}]{.underline}**
+late.**
 
 **Excuses**
 
-**[[The example above where players tank because of bad calls fits into
+**The example above where players tank because of bad calls fits into
 the general category of rationalization we all recognize as
 excuse-making. After anger, excuse-making is probably the most
 wide-spread method of escape from the stress and uncertainty of
 competition. It's a particularly fertile field and comes in a thousand
-disguises.]{.mark}]{.underline}**
+disguises.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                 ![A person holding a tennis racket Description automatically
@@ -272,11 +272,11 @@ real. It's just that nobody wants to hear them.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Your motivation in telling people your excuse is to convince them
+**Your motivation in telling people your excuse is to convince them
 that you are a better tennis player than today's result might indicate.
 You hope to improve their opinion of you or at least get some sympathy.
 Unfortunately, you will get neither and will, in fact, accomplish
-exactly the opposite.]{.mark}]{.underline}**
+exactly the opposite.**
 
 In the best case they might believe your excuse is real, but they still
 see you as weak for having to tell them about it. In the worst case,
@@ -327,10 +327,10 @@ sniffed the finish line. I was so into the moment I actually enjoyed the
 pain. It was like, \"This is it. Screw it, I'm going to get this done
 right here. No one said it was going to be easy.\"
 
-**[[Here is a perfect example from the highest level of the game of how
+**Here is a perfect example from the highest level of the game of how
 a player can use the power of the mind to triumph over our natural
 tendency to make excuses and escape challenging and stressful
-situations.]{.mark}]{.underline}**
+situations.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

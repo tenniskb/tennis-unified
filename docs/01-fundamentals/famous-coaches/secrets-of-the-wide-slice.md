@@ -83,9 +83,9 @@ the ball. And he yelled at me. \"Don't you do that!\" He scared the
 heck out of me. He said: **\"I don't want to see your head move,
 period.\"**
 
-**[[And he explained the reason. When players hit a wide slice they have
+**And he explained the reason. When players hit a wide slice they have
 a tendency to open up their bodies too much too
-soon.]{.mark}]{.underline}**
+soon.**
 
 Pancho stressed strongly that it was the hands and the path and speed of
 the racket head speed that gave you consistency and control, not the
@@ -146,9 +146,9 @@ out to the right (righthanders) and come around it. But it won't have
 the same pace. And as the receiver you can tell from the toss what is
 going to happen.
 
-**[[If you have only one toss, your opponent won't be able to read the
+**If you have only one toss, your opponent won't be able to read the
 slice. This is one of the things that made Sampras so
-great.]{.mark}]{.underline}**
+great.**
 
 He had a tremendous wide slice serve in the deuce court. But he used the
 exact same toss when he went down the middle. With a good slice serve,

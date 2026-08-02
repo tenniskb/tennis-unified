@@ -56,9 +56,9 @@ The goals are clear, but achieving them is another story. To understand
 what is really going on, we have to learn more about how the body moves
 in this phase of the motion.
 
-One of the major findings in our research is that **[[most of the goals
+One of the major findings in our research is that **most of the goals
 in the backswing are achieved through what are called \"motion dependent
-effects.\"]{.mark}]{.underline}** What this means is that **nearly all
+effects.\"** What this means is that **nearly all
 the arm motion, especially in the second half of the backswing, is the
 result of motion in other segments of the body.**
 
@@ -79,8 +79,8 @@ results in a force being placed on the upper
 arm.]{.underline}]{.mark}*** To understand this force, it is necessary
 to take a detailed look at trunk motion during the backswing.
 
-I've already established **[[a link between the lower body and upper
-body with the discussion of hip rotation]{.mark}]{.underline}** in the
+I've already established **a link between the lower body and upper
+body with the discussion of hip rotation** in the
 last article. **The legs drive the hip rotation, which facilitates an
 upper trunk (shoulder) twisting rotation, that occurs around the
 spine.** ([Click
@@ -112,11 +112,11 @@ that can be difficult to detect with the naked eye, or even with the use
 of video, but can be measured in 3D dimensional analysis.
 
 Although it is subtle, this increased lean, or tilt, is critical in
-driving the motion of the shoulder. **[[It is what allows the upper
+driving the motion of the shoulder. **It is what allows the upper
 trunk twist to drive the shoulder forward and upward. Without the tilt
 there would be no upward motion, only the forward component. The upward
 component, however, is a critical part in creating racket head
-speed.]{.mark}]{.underline}**
+speed.**
 
 To create the additional lean, the player initially leans back slightly
 at the hips and/or extends the spine. Then, as the body turns into the
@@ -124,11 +124,11 @@ shot and faces more forward later in the backswing, the tilt continues
 to increase due to a lateral (sideways) bending in the spine to the left
 side. This bending is referred to a \"cartwheel rotation\" of the trunk.
 
-So, **[[the twisting rotation of the upper trunk\--a critical component
+So, **the twisting rotation of the upper trunk\--a critical component
 of high level serving\--occurs around an axis that is not vertical, but
 rather tilted to the left. This tilt, or angle, is what allows the
 twisting motion to elevate the hitting shoulder later in the
-swing.]{.mark}]{.underline}** This elevation is often attributed to the
+swing.** This elevation is often attributed to the
 cartwheel rotation of the trunk. However, its primary cause is the upper
 trunk twist once the body has achieved the proper angle of incline.
 
@@ -304,8 +304,8 @@ third of the way down the backswing, pointing (from a rear view) to
 roughly at 10:00 on the face of a clock.]{.underline}**
 
 Again, this motion can be in the shape of either a Gamma or an Alpha
-loop. **[[Either way, shoulder external rotation is the most important
-aspect of this motion in both loop patterns.]{.mark}]{.underline}**
+loop. **Either way, shoulder external rotation is the most important
+aspect of this motion in both loop patterns.**
 
 This rotation occurs as a result of several contributing sources. For
 some servers, this rotation is initiated partially by active muscular
@@ -415,8 +415,8 @@ Why would this be the case in high level serving? The internal rotating
 influence indicates that the muscles are being stretched even as they
 attempting to shorten or contract in the opposite direction. Muscle
 physiology tells us that this condition can be beneficial to muscular
-force output. We call this a ***[[\"stretch shorten
-cycle.\"]{.mark}]{.underline} [Stretching the muscles in the opposite
+force output. We call this a ***\"stretch shorten
+cycle.\" [Stretching the muscles in the opposite
 direction can increase the force they generate when they eventually
 succeed in shortening.]{.mark}***
 

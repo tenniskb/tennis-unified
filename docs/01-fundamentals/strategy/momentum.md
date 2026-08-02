@@ -64,15 +64,15 @@ I strongly believe the player who initially has the lead should always
 still hold the upper hand once the scores are level. Let's examine why
 this could be the case.
 
-**[[Humans are naturally wired to obtain satisfaction from success. But
+**Humans are naturally wired to obtain satisfaction from success. But
 the satisfaction gained from recovering to 5-5 in a set from 2-5 down,
 could easily lead to a little lull of intensity during the next game, as
 we congratulate ourselves on the comeback, and perhaps expect that
-pushing on to win the set is now a formality.]{.mark}]{.underline}**
+pushing on to win the set is now a formality.**
 
-**[[Meanwhile, think of the opponent who has lost the 5-2 lead. As long
+**Meanwhile, think of the opponent who has lost the 5-2 lead. As long
 as he hasn't imploded mentally, he will be extra determined at the
-start of the next game to stop the slide.]{.mark}]{.underline}**
+start of the next game to stop the slide.**
 
 **[At 5-5, you therefore have one player who is determined and focused,
 against one player who may just have relaxed a little. Often, such sets

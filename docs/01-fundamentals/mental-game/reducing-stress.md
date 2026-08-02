@@ -127,11 +127,11 @@ generated](media_reducing-stress/media/image5.webp)
 
 **Feeling compelled to control outcomes causes stress.**
 
-**[[Reduce stress by accepting that match outcomes are never completely
+**Reduce stress by accepting that match outcomes are never completely
 controllable. Feeling compelled to control the outcome of a difficult
 match causes stress because it is an impossible task. Players make
 themselves anxious with thoughts like, \"I must win this point.\" or \"I
-must win this match.\"]{.mark}]{.underline}**
+must win this match.\"**
 
 There is no need to become mentally entangled with such worries.
 Instead, it's best to accept the reality that the outcome of difficult

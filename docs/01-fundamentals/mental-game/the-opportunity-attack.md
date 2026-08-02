@@ -84,13 +84,13 @@ generated](media_the-opportunity-attack/media/image4.webp)
 **Opportunity attacking: a new tactical variation.**
 
 **What I would call it is opportunity attacking. Opportunity attacking
-means that [[when you are able to use your groundstrokes weapons to
+means that when you are able to use your groundstrokes weapons to
 create a advantage, you move forward and end the point on relatively
-easy volleys or overheads.]{.mark}]{.underline}**
+easy volleys or overheads.**
 
-**[[Coming in when you have a big advantage off the ground means you can
+**Coming in when you have a big advantage off the ground means you can
 close without having to hit difficult midcourt volleys on a regular
-basis.]{.mark}]{.underline}**
+basis.**
 
 **What Changed?**
 
@@ -254,12 +254,12 @@ implemented it's such a promising tactic for club players. Opportunity
 attacking leverages the deep court and creates an impossible defensive
 situation for opponent.
 
-**[[At the club level most players have stronger forehands and weaker
+**At the club level most players have stronger forehands and weaker
 backhands. But any exchange from the baseline where you have a clear
 advantage and can produce a short ball can yield the same result. It's a
 matter of creating the right match at the right time to give yourself a
 commanding finishing shot with a relatively low degree of
-difficulty.]{.mark}]{.underline}**
+difficulty.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-opportunity-attack/media/image10.webp)

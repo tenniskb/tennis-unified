@@ -40,8 +40,8 @@ top.**
 to hit is a one-handed backhand.** This is due to
 the obvious issues of size and strength. But many great players, Justine
 Henin for example, have started with one-handed backhands at an early
-age and never looked back. **[[So how do you make the decision to teach
-a one-hander from the beginning?]{.mark}]{.underline}**
+age and never looked back. **So how do you make the decision to teach
+a one-hander from the beginning?**
 
 Sometimes the parent says "I want my kid to play with one hand." So if
 that's the case, I'll show them a one-handed backhand, at least at the

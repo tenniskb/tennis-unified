@@ -63,9 +63,9 @@ confidence](media_contact-moves-the-mogul-move/media/image3.webp)
 **The drop step, the crossover, and the set up in the extreme open
 stance.**
 
-**[[The key to making a successful Mogul Move when the player is moving
+**The key to making a successful Mogul Move when the player is moving
 sideways is to work very hard to get out behind the
-ball.]{.mark}]{.underline}** When the player has a substantial distance
+ball.** When the player has a substantial distance
 to travel, he will usually begin with a small drop step and then takes
 either one or two crossover or running outsteps toward the ball.
 

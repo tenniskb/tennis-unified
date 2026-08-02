@@ -115,9 +115,9 @@ The second critical statistic we were able to chart with our software
 was where on the court the players hit each of their shots.  We tend to
 think that Nadal plays much further back in the court than Federer.
 
-**[[But the statistics showed that both players hit most of their
+**But the statistics showed that both players hit most of their
 baseline shots in a zone that stretches from about 3 feet inside the
-baseline to about 5 behind the baseline.]{.mark}]{.underline}**
+baseline to about 5 behind the baseline.**
 
 Let's look first at groundstroke winners, excluding the passing shots,
 which we will address separately a little further on.
@@ -157,11 +157,11 @@ Both players of course hit winners from closer in, but since they
 continue to the net from further in the court, we consider these as a
 different category. 
 
-**[[So, as we might expect, Nadal hits a few more winners from deeper
+**So, as we might expect, Nadal hits a few more winners from deeper
 positions, but the surprise is that the majority of those came from his
 backhand side. Most of his winners on both sides are hit from closer in,
 as with Federer.  But these small differences can be the deciding
-factors in close matches.]{.mark}]{.underline}**
+factors in close matches.**
 
 **[\]{.underline}**
 ![A picture containing text, athletic game, sport, tennis Description

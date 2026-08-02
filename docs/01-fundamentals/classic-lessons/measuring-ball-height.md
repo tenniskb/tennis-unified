@@ -9,11 +9,11 @@
 **One of the most common errors I see everyday in my teaching is the
 inability of students to find the \"hitting
 zone,\"** **or the right contact position in the
-course of their swing.** **[[Players are obsessed
+course of their swing.** **Players are obsessed
 with technical elements in their strokes - preparation, wrist position,
 follow-through, etc., but they consistently misjudge the height of the
 ball in the hitting zone. This is a major source of backcourt errors at
-all levels below the pro game.]{.mark}]{.underline}**
+all levels below the pro game.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                     ![A person holding a trophy Description automatically generated with low
@@ -30,9 +30,9 @@ contact, reaching or flailing for the ball, and the inability to hit up
 on the ball and develop confidence in hitting with
 topspin.**
 
-**[[The correct ball height at contact can range from the knees to the
+**The correct ball height at contact can range from the knees to the
 chest, depending on the grip and the particular
-stroke.]{.mark}]{.underline}**
+stroke.**
 
 **On the forehand side, the correct height is determined in large part
 by the grip position.** **For players with
@@ -65,10 +65,10 @@ players at lower levels struggle often for years without realizing their
 inability to measure the height of the ball is at the root of their
 stroke \"problem\".
 
-**[[Although players misjudge the ball in many ways, by far the most
+**Although players misjudge the ball in many ways, by far the most
 common error measuring ball height is the perception that the contact is
 going to be higher in the hitting zone than it actually
-is.]{.mark}]{.underline}**
+is.**
 
 This in turn stems from two basic misperceptions about the flight of the
 ball. The first is the initial trajectory off the opponent's racket.
@@ -160,13 +160,13 @@ ball. This is just as true if not more true for the large circular
 backswings used by some pros.]{.mark}]{.underline}**
 
 Unfortunately, at the club level the modern swing shape is neither
-circular or low to high. **[[Instead it is what I call \"V\" shaped. The
+circular or low to high. **Instead it is what I call \"V\" shaped. The
 racket, instead of dropping below the ball first and then coming up
 through the ball, comes straight down at the ball from the high initial
 backswing. The player then lifts the racket in a vain attempt to get the
 shot over the net. The \"V\" shaped swing creates a scooping or slicing
 action causing the ball to fly either way out or into the
-net.]{.mark}]{.underline}**
+net.**
 
 The \"V\" shaped swing has another, often unintended, consequence and
 that is the westernization of the grip. The grip naturally slips under

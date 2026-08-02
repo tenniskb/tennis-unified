@@ -304,18 +304,18 @@ through the shot.]{.mark}]{.underline}**
 Watch Taylor Dent step into this half volley but still flow. He splits,
 then makes a drop step under his body with his left foot. This is for
 sideways positioning, so that he can line his racket up behind the
-bounce. **[[Notice how he keeps his center of gravity low almost in
+bounce. **Notice how he keeps his center of gravity low almost in
 seated position. He can then take a step forward with his left foot
-using a heel to toe landing.]{.mark}]{.underline}**
+using a heel to toe landing.**
 
 **His momentum is now flowing directly into the shot. From this
 position he needs only compact, minimal arm movement. The racket is
-driven in part by the Flow.** **[[Even though his
+driven in part by the Flow.** **Even though his
 left foot is on the court at contact, watch that it doesn't stick.
 Instead, the forward flow of his body weight literally lifts his left
 foot off the court, so that he lands again further forward toward the
 net. With this kind of flow, there is never a need to
-flick.]{.mark}]{.underline}**
+flick.**
 
 |  |
 | --- |
@@ -362,10 +362,10 @@ within the Flow.**
 
 We've analyzed some great of examples of the top players flowing
 through the forecourt. In this last animation, take the time to watch
-some of these same sequences in real time. **[[As you do, try to feel
+some of these same sequences in real time. **As you do, try to feel
 the precision, fluidity, and power in the stroke execution. Great flow
 is a combination of coordination, balance, quickness, technique, touch,
-and focus.]{.mark}]{.underline}** These are the qualities that make
+and focus.** These are the qualities that make
 tennis magic to watch and to play. Hopefully the concept of Flow will
 give you a fresh perspective when you watch tennis in person or study
 the shots in the Stroke Archive as well. See if by reading this article,

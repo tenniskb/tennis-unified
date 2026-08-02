@@ -29,10 +29,10 @@ mph in 1/10 of a second during the upward swing. (To see an analysis of
 this on the Sampras serve, [Click
 Here.)](../Advanced%20Tennis/The%20Sampras%20Serve-Racquet%20Head%20Speed.docx)
 
-**[[To accomplish this that server will utilize at least nine unique
+**To accomplish this that server will utilize at least nine unique
 body rotations, many in sequence. And at the end of the upward swing
 these joint rotations must position the racquet into a precise
-orientation with very little margin for error.]{.mark}]{.underline}**
+orientation with very little margin for error.**
 
 ![](media_the-most-complex-motion-in-sports/media/image2.webp)
 

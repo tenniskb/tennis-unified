@@ -197,9 +197,9 @@ confidence](media_discipline/media/image5.webp)
 **Going down the line, the ball still has to travel low over the net to
 be a winner.**
 
-And you look at the pros. **[[The pros don't hit the ball in the net
+And you look at the pros. **The pros don't hit the ball in the net
 that often. But they don't hit the ball that high,
-either.]{.mark}]{.underline}** Because they have a range where they know
+either.** Because they have a range where they know
 they can hit the ball. They know how to find the zone.
 
 That's why I work so much with targets with my kids, to develop a feel

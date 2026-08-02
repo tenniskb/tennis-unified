@@ -94,14 +94,14 @@ generated](media_increasing-confidence/media/image4.jpg)
 
 **Do you really improve playing only \"better\" players?**
 
-**[[The process is analogous to dealing with panic attacks. Panic
+**The process is analogous to dealing with panic attacks. Panic
 attacks feel horrible, but don't actually hurt sufferers physically,
-although it seems at the time that they will.]{.mark}]{.underline}**
+although it seems at the time that they will.**
 
-**[[Panic attacks will eventually go away by themselves for reasons yet
+**Panic attacks will eventually go away by themselves for reasons yet
 unknown. With this in mind people can usually ride them out without
 prolonging the problem by becoming additionally stressed and frightened
-by the physical symptoms themselves.]{.mark}]{.underline}**
+by the physical symptoms themselves.**
 
 Similarly, if you are having a slump, realize that it too will
 eventually turn around, although it feels like it never will. And it

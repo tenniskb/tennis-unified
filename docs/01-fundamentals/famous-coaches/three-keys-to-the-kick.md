@@ -61,10 +61,10 @@ Challenger in Aptos, California. I went on to win that tournament, and
 the benefits from that change were a key part of my run to the ATP top
 100.
 
-***[[In setting up the stance, the front foot should start parallel to
+***In setting up the stance, the front foot should start parallel to
 the baseline or close. The width of the stance should be about shoulder
 width. The back foot can be slightly turned
-back.]{.mark}]{.underline}***
+back.***
 
 These factors vary among top players and every player should experiment
 though to find out the exact stance width and footwork angle is most
@@ -111,11 +111,11 @@ For a right hander that means it arcs or curves from your right to your
 left.
 
 **The racket is also arcing but in the opposite direction from left to
-right. [[The intersection of those two arcs is the
-contact.]{.mark}]{.underline}**
+right. The intersection of those two arcs is the
+contact.**
 
-**[[Think of it as an \"X\". X marks the spot of the intersection of the
-arcs of the toss and the swing.]{.mark}]{.underline}**
+**Think of it as an \"X\". X marks the spot of the intersection of the
+arcs of the toss and the swing.**
 
 **Note that the ball has to drop to create the downward arc in the
 toss.** If it doesn't drop or stays too much to
@@ -142,13 +142,13 @@ do this you can toss more radically to your left and actually make
 contact to the left of the body.
 
 **The more the ball is to your left the more you will have to hit
-up.** This more extreme toss can help. **[[But as
+up.** This more extreme toss can help. **But as
 your kick develops, you should work to move the contact back so that
-it's over the head.]{.mark}]{.underline}**
+it's over the head.**
 
-Why? **[[In addition to putting pressure on the shoulder, the extreme
+Why? **In addition to putting pressure on the shoulder, the extreme
 contact point reduces speed and telegraphs the serve that is
-coming.]{.mark}]{.underline}**
+coming.**
 
 For advanced players, the closer you come to hitting all your serve
 variations off the same toss the better. Pete Sampras and Roger Federer

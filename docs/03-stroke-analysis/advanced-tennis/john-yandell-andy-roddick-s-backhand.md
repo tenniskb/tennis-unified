@@ -179,12 +179,12 @@ generated](media_john-yandell-andy-roddick-s-backhand/media/image10.webp)
 **Watch how much further Andre comes back inside compared to Andy.**
 
 Why is that important? This inside position with the hands and racket is
-a commonality across all the hitting arm variations. ***[[The swings on
+a commonality across all the hitting arm variations. ***The swings on
 the all groundstrokes in tennis follow an inside out path out toward the
 contact. To do this, the hands need to start forward from a position
 relatively close in to the body. This positioning is related to the
 creation of natural body leverage and the way the hands and the torso
-work together in the forward swing.]{.mark}]{.underline}***
+work together in the forward swing.***
 
 The exact position of the hands at the start of the swing and the curve
 of the arc of the inside out swing can vary somewhat from player to

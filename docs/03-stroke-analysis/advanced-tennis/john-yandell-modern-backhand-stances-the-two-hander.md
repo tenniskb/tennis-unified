@@ -140,9 +140,9 @@ But of the two open stances, why the semi open? The answer is greater
 coiling in the preparation, and therefore the additional forward body
 rotation in the forward swing.
 
-**[[We see incredible coiling on the forehand in the modern game, in the
+**We see incredible coiling on the forehand in the modern game, in the
 legs, but also in the hips and shoulders. As a result we see incredible
-uncoiling.]{.mark}]{.underline}**
+uncoiling.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -150,11 +150,11 @@ confidence](media_john-yandell-modern-backhand-stances-the-two-hander/media/imag
 
 **Compare the slighter great turn in the semi-open stance.**
 
-**[[The norm on the modern forehand is for the player to leave the court
+**The norm on the modern forehand is for the player to leave the court
 with one or both feet and for the rear shoulder to rotate forward and
 around until it is pointing at the net or something close. This is an
 incredible 180 degrees of body rotation in the forward swing\--or
-more.]{.mark}]{.underline}**
+more.**
 
 The advantage of the semi-open stance is that it enhances even further
 by allowing players to turn incrementally more in the coiling phase. And
@@ -196,9 +196,9 @@ semi-open stance is getting probably something like 200 degrees or more.
 **Backhand Stances**
 
 So how does this analysis relate to closed stance on the backhand side?
-**[[The answer is players have found a way to incrementally increase the
+**The answer is players have found a way to incrementally increase the
 amount of coiling and body rotation on the backhand as well. This is
-with the closed stance.]{.mark}]{.underline}**
+with the closed stance.**
 
 Why wouldn't top players just set up in a semi-open stance on the
 backhand and rotate through the shot in the same way as the forehand?

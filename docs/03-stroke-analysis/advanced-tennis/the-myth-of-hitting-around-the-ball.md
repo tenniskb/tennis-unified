@@ -186,8 +186,8 @@ give coherent explanations of how they produce their shots. How do they
 then decide on intent and communicate that to the ball? I believe it is
 through natural, subconscious imagining.
 
-***[[As John McEnroe once said, \"Sometimes I see a shot flash across my
-mind, then I hit it.\"]{.mark}]{.underline}***
+***As John McEnroe once said, \"Sometimes I see a shot flash across my
+mind, then I hit it.\"***
 
 This may happen naturally for high level players, but it's also a
 technique that you can consciously cultivate. Try pre-visualizing the

@@ -210,8 +210,8 @@ Some people said that I was very fast on my feet\--and I believe that
 was true. But there was much more going on in the way I played my
 matches.
 
-**[[Anticipating my opponent's shot and knowing my response created a
-comfort level. It created predictability.]{.mark}]{.underline}**
+**Anticipating my opponent's shot and knowing my response created a
+comfort level. It created predictability.**
 
 **[This had the huge additional benefit of [reducing cognitive
 \"chatter\" and indecision.]{.underline} All players like to control
@@ -350,19 +350,19 @@ Still, when Paul Cohen had me at the net angling volleys like a
 beginner, I thought, \"You've got to be kidding. What the hell I am
 doing?\"
 
-**[[Yet as we got into working on this strategy, it became apparent that
+**Yet as we got into working on this strategy, it became apparent that
 one of the reasons I had been reluctant to come to the net in the past
 was the quality of my volleys, especially on the forehand
-side.]{.mark}]{.underline}**
+side.**
 
-**[[Very quickly, with Cohen critiquing every micro-movement, I began to
+**Very quickly, with Cohen critiquing every micro-movement, I began to
 see that there was value in really knowing how to volley. And I realized
-I never had really mastered the shot.]{.mark}]{.underline}**
+I never had really mastered the shot.**
 
-**[[As my technique improved, I gained confidence as I hit volley after
+**As my technique improved, I gained confidence as I hit volley after
 volley for clear winners in Cohen's drills. Gradually I began to see the
 natural opportunities to get in and how to exploit
-them.]{.mark}]{.underline}**
+them.**
 
 ![A person playing tennis Description automatically
 generated](media_the-mind-of-the-baseliner/media/image11.webp)
@@ -402,19 +402,19 @@ generated](media_the-mind-of-the-baseliner/media/image12.webp)
 
 **Dealing with the Baseliner Mind**
 
-**[[These were all critical improvements. But, what about the most
+**These were all critical improvements. But, what about the most
 important piece---dealing with the mind of a career
-baseliner?]{.mark}]{.underline}**
+baseliner?**
 
 This is where my own experience in coaching the mental game played a
 huge part. I knew that I had to open myself to a new and different
 experience, not only of playing points, but of how I enjoyed playing
 them.
 
-**[[One key was to be aware of not exerting too much effort on the
+**One key was to be aware of not exerting too much effort on the
 attack ball or tensing up once I recognized the ball I wanted. With my
 knowledge about how to stay loose and focused at the same time I was
-able to do this without too much trouble.]{.mark}]{.underline}**
+able to do this without too much trouble.**
 
 So I began to consciously let go of my rigid baseline mentality. As I
 did I started to love the moment I recognized a short ball that I could
@@ -424,11 +424,11 @@ I began to take real pride in being a more complete player. Finishing
 off the point at net actually began to feel more dominant than a tough
 baseline point.
 
-**[[Once you realize the enormous benefit of taking time away from your
+**Once you realize the enormous benefit of taking time away from your
 opponent and see him rushing to try to pass, attacking the net starts to
 feel powerful and very dynamic. With the mid-court transition area no
 longer so foreign, I felt I could use the entire court for the first
-time in my life.]{.mark}]{.underline}**
+time in my life.**
 
 ![A person playing tennis Description automatically
 generated](media_the-mind-of-the-baseliner/media/image13.webp)

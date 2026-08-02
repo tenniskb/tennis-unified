@@ -45,10 +45,10 @@ and practice various key skills, they can substantially improve their
 timing. These two articles will cover some of these exercises and drills
 that can help take your timing to a higher level.
 
-The techniques are organized around two fundamental principles. **[[The
+The techniques are organized around two fundamental principles. **The
 first principle\--covered in the first article\--is to know\--and I mean
 really \"know\"\--where your racket head is at all
-times.]{.mark}]{.underline}**
+times.**
 
 **The second principle\--coming up in the second upcoming
 installment\--is to learn how to release the racket head at different
@@ -92,9 +92,9 @@ head]{.underline}. This is what ideally strikes the ball.]{.mark}** When
 a player really feels the weight of the racket head he becomes
 \"connected\" to that pocket.
 
-**[[So, it's very important to distinguish between simply swinging the
+**So, it's very important to distinguish between simply swinging the
 racket, and having a feel for the racket head and the
-pocket.]{.mark}]{.underline}**
+pocket.**
 
 **The Exercises**
 
@@ -125,9 +125,9 @@ head.** **The tense player becomes
 elements in the forward swing.**
 
 Have you noticed how much better you stroke the ball when your arms are
-relaxed? Why is this? **[[A primary reason is that when your racket arm
+relaxed? Why is this? **A primary reason is that when your racket arm
 is relaxed you have a much better kinesthetic sense of the location and
-weight of the racket head.]{.mark}]{.underline}**
+weight of the racket head.**
 
 Feeling the weight of the forearm rather than the weight of the racket
 head is a problem I have encountered with practically every student who
@@ -154,11 +154,11 @@ inches away from what the player is actually feeling. This is the same
 problem that arises when a player tightens up on a difficult shot and/or
 under pressure.
 
-**[[How can this problem be corrected? The solution is to change the
+**How can this problem be corrected? The solution is to change the
 \"pressure points\" in how the player grips the racket. Most players
 with this problem hold the racket too tightly (i.e., squeezing) with
 their thumb and index finger. This tightens the hand too much and the
-weight is felt in the forearm.]{.mark}]{.underline}**
+weight is felt in the forearm.**
 
 **I change this by telling my students to hold the racket more deeply
 in the palm of the racket hand.** **The feeling
@@ -348,11 +348,11 @@ The proper grip pressure, the relaxed arm, and the feeling for
 connecting the ball with the pocket, all come together in these critical
 instants of the forward swing.
 
-**[[Many players stop the racket at the bottom of the backswing loop.
+**Many players stop the racket at the bottom of the backswing loop.
 But in doing so they lose the benefit of the \"gravity drop.\" In
 addition, they also impair their ability to disguise the shot and
 whether they will hit a lob, slice or a topspin
-drive.]{.mark}]{.underline}**
+drive.**
 
 **Most importantly, by stopping at the bottom of the loop, they make
 the whole motion too deliberate and mechanical. This type of motion will

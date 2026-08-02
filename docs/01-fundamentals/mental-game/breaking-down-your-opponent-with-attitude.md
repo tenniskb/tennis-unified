@@ -175,9 +175,9 @@ pigmy.**
 All the great players display some or all of these characteristics.
 Since they actually do believe that they are going to win their body
 language and gestures are merely a reflection of this belief - a belief
-that is palpable and demoralizing to an opponent. **[[Steffi Graf walked
+that is palpable and demoralizing to an opponent. **Steffi Graf walked
 quickly and took no notice of an opponent. Pete Sampras walks slowly
-and, similarly, takes no notice.]{.mark}]{.underline}** The lady-like
+and, similarly, takes no notice.** The lady-like
 Chris Evert had an unflappable, intimidating, and hard-eyed stare for
 opponents, and Martina Hingis, when she was on top, walked and flipped
 her racket around in a cocky, \"I'm better than you are\", manner.

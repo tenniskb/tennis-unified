@@ -137,10 +137,10 @@ generated](media_the-pro-overhead/media/image5.webp)
 **More weight on the back foot sets up the jump overhead.**
 
 Another difference compared to the serve is the distribution of your
-weight at the time the left arm extends. **[[If you can get set, then
+weight at the time the left arm extends. **If you can get set, then
 the weight will be more balanced between the feet. This can be similar
 to the serve. But if you are moving backwards, your weight will
-typically be more on the rear foot.]{.mark}]{.underline}** This is what
+typically be more on the rear foot.** This is what
 makes the jump overhead possible when the players are moving back and
 then **launch themselves upward to the hit by pushing off the back
 foot.**
@@ -307,8 +307,8 @@ serves hit by the same players. Also**, **because
 the player is around the service line or even closer, the arc of the
 shot is more downward into the court.**
 
-For these reasons**[[, there is often less pronation or turning of the
-hand and racket during the upward swing.]{.mark}]{.underline}** The
+For these reasons**, there is often less pronation or turning of the
+hand and racket during the upward swing.** The
 racket can come through the shot and follow-through with the racket face
 pointing straight down. This seems to be related to the direction of the
 shot. When the players want to hit the ball shorter with a higher

@@ -241,10 +241,10 @@ So in my view, the point isn't to blindly take a certain type of step.
 Sometimes a coach can show a player a simple step out and watch them
 naturally default into a pivot step, or even a drop step.
 
-**[[To me that is not a problem as long as players are turning and
+**To me that is not a problem as long as players are turning and
 starting the movement to the ball. The main point is to execute the unit
 turn, and find the steps that are natural for a given
-situation.]{.mark}]{.underline}**
+situation.**
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-novak-djokovic-s-forehand-start-of-the-preparation/media/image9.webp)
@@ -266,10 +266,10 @@ while taking reverse steps away from the ball.
 
 **The Left Side**
 
-**[[The biggest problem I see players have with the unit turn is not
+**The biggest problem I see players have with the unit turn is not
 which first step they take. Rather it's the tendency to not turn the
 torso far enough, and especially not to turn enough with the left
-side.]{.mark}]{.underline}**
+side.**
 
 Usually this is because the left hip and the left leg and foot get stuck
 and just don't rotate with the rest of the body. The right foot and the

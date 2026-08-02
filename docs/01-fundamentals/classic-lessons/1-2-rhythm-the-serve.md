@@ -119,9 +119,9 @@ Federer. There are big differences in the overall duration of the motion
 of these 3 champions. But these differences are all in duration of Phase
 1.
 
-**[[What is surprising and critically important is that the duration of
+**What is surprising and critically important is that the duration of
 Phase 2 from the start of the explosion with the legs to the contact is
-virtually identical for all three.]{.mark}]{.underline}**
+virtually identical for all three.**
 
 As you might expect, Andy is the quickest in Phase 1. To complete Phase
 1\--reaching the extension of the tossing arm and the full coiling of
@@ -147,16 +147,16 @@ players are all timing it indentically.
 **As the legs drive up and forwards, the body is also
 rotating.** **The racket builds speed as it moves
 into the drop position, and then accelerates dramatically up to the
-contact point.** **[[The leg drive pushes both feet
+contact point.** **The leg drive pushes both feet
 off the ground, and the players land with the front foot inside the
-baseline.]{.mark}]{.underline}**
+baseline.**
 
 This transition point and the following explosion are key for players at
 all levels to master 1-2 Rhythm. So find your own transition point.
 
 **Feel the deliberate slow windup and the drop of your weight in your
-knee bend.** **[[Find the same feeling in the toss
-and the extension point of your tossing motion.]{.mark}]{.underline}
+knee bend.** **Find the same feeling in the toss
+and the extension point of your tossing motion.
 Learn to make these checkpoints correspond.** **[Now
 explode!]{.underline}** Of course, you want to make sure your other key
 positions like the racket drop and the contact are within good technical

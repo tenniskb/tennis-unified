@@ -26,8 +26,8 @@ direction of the serve. The back leg usually reaches a position where
 the calf or even the upper leg is actually horizontal, or parallel, to
 the court surface.
 
-***[[So the real pattern is forward with the front foot, and backward
-with the back.]{.mark}]{.underline}*** If you're skeptical, don't take
+***So the real pattern is forward with the front foot, and backward
+with the back.*** If you're skeptical, don't take
 my word for it-just watch any TV match and you'll see exactly what I am
 talking about it.
 

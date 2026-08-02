@@ -268,9 +268,9 @@ critical drop position? The motion from the turn to the racket drop
 takes about another half second, but the hips and shoulders do not move
 in unison during this interval.
 
-**[[As the rotation back toward the contact starts, the hips take the
+**As the rotation back toward the contact starts, the hips take the
 lead. In fact the hips rotate almost 20 degrees before the shoulders
-even begin to move.]{.mark}]{.underline}**
+even begin to move.**
 
 The shoulders at this point remain at the same angle as they were at the
 maximum turn. But the hips move ahead, reaching an angle of 142 degrees
@@ -278,9 +278,9 @@ to the baseline, while the shoulders are still at 160 degrees. This
 shift in the alignment happens in the first 2/10s of a second on the way
 to the drop, a little less than half the total interval.
 
-**[[But then the shoulders immediately start to catch up. In the next
+**But then the shoulders immediately start to catch up. In the next
 2/10s of a second, the shoulder rotation accelerates until the angle of
-the hips and shoulders are again aligned.]{.mark}]{.underline}**
+the hips and shoulders are again aligned.**
 
 Both are now at an angle of about 105 degrees to the baseline.
 Interestingly, this coincides with the actual lowest point the racket

@@ -108,9 +108,9 @@ help players develop follow-through. You don't see too many top players
 do this in matches, although it's more common to see it in the
 warm-ups. But if you watch a player like Agassi in actual point play, on
 many balls his opposite arm and hand are in actually in the catching
-position or very close to it. **[[It's not the catching itself that
+position or very close to it. **It's not the catching itself that
 matters. It's the position of the opposite arm in relation to the swing
-and the movement of the racket.]{.mark}]{.underline}**
+and the movement of the racket.**
 
 **This \"catching\" position correlates with more classical over the
 shoulder finishes.** But we know that in the modern
@@ -203,8 +203,8 @@ speeds, all the while putting the emphasis on the flow of the new model.
 
 
 **One of the biggest problems** I see from
-players day in and day out is **[[that they get too close to the ball
-thereby cramping their hitting zone.]{.mark}]{.underline}** With that in
+players day in and day out is **that they get too close to the ball
+thereby cramping their hitting zone.** With that in
 mind, I have my students model a loaded open or square stance at the
 point where the non-racket arm is fully extended. I'll then either toss
 them a ball to catch while the arm stays in that position, or have them
@@ -265,9 +265,9 @@ you're** **hitting a topspin backhand, the
 non-racket hand releases then moves backward and downward to around
 waist level.**
 
-**[[On a slice backhand the opposite arm moves back more along the plane
+**On a slice backhand the opposite arm moves back more along the plane
 of the forward swing, finishing only a little lower than the racket
-hand.]{.mark}]{.underline} These finishes help create balance relative
+hand. These finishes help create balance relative
 to the different shots. If you look at the animations, you can see that
 the arm goes backwards on both, but also the different lines and
 finishing positions.**

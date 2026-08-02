@@ -60,9 +60,9 @@ aggressive too fast is the biggest mistake inexperienced players make,
 especially when they come face to face with the dreaded
 pusher.**
 
-**[[They panic and feel they have to blow the player off the court on
+**They panic and feel they have to blow the player off the court on
 every slow ball. This is the suicide bomber approach and it will end in
-suicide in most matches.]{.mark}]{.underline}**
+suicide in most matches.**
 
 ![A person playing tennis Description automatically
 generated](media_offense-as-defense/media/image3.webp)
@@ -125,10 +125,10 @@ We all have weaknesses. And we should all work to improve them. But the
 best way to minimize the liability of a weakness in match play is to
 develop a powerful shot and bring it into play as much as possible.
 
-**[[Weaknesses are only weaknesses when they are being attacked. Your
+**Weaknesses are only weaknesses when they are being attacked. Your
 opponents cannot attack your weakness if you have them running corner to
 corner chasing down ammunition fired from your
-weapon.]{.mark}]{.underline}**
+weapon.**
 
 ![A person playing tennis Description automatically
 generated](media_offense-as-defense/media/image5.webp)

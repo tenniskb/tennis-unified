@@ -62,8 +62,8 @@ State.
 Virtually every top player practices his own version the 16 Second Cure.
 See it for yourself the next time you watch professional tennis.
 
-**[[If you pay attention, you can easily identify the stages as the top
-players go through them.]{.mark}]{.underline}**
+**If you pay attention, you can easily identify the stages as the top
+players go through them.**
 
 For the pros they become a matter of routine. But if you are trying to
 develop the 4 stages for the first time yourself, it can seem like a

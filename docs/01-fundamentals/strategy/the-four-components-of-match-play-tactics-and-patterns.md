@@ -297,16 +297,16 @@ There is no decision to be made about game style, once it has been
 developed. You have yours and you will not change it much if at all from
 match to match.
 
-**[[There is a level of decision to be made in strategies. You must
+**There is a level of decision to be made in strategies. You must
 weigh out the influencing factors to determine the best strategy for
 that day. There is also the possibility that in the middle of a match if
 it is not going well that you may choose to move to a \"B Plan\" or a
-secondary strategy.]{.mark}]{.underline}**
+secondary strategy.**
 
-**[[However, with tactics you must be making decisions shot by shot.
+**However, with tactics you must be making decisions shot by shot.
 When and where do you hit the tactical shots you are hoping will
 succeed? What patterns are setting up high percentage opportunities to
-do this?]{.mark}]{.underline}**
+do this?**
 
 **If your strategy is to exploit the backhand, a common tactic would
 be to change direction and hit down the line to the backhand from your
@@ -359,18 +359,18 @@ confidence](media_the-four-components-of-match-play-tactics-and-patterns/media/i
 
 **Basic examples and endless realities.**
 
-**[[You might go crosscourt to the forehand for example when your
+**You might go crosscourt to the forehand for example when your
 opponent's court position, due to a short ball or a poor recovery, or
 other factors, leaves them significantly closer to their backhand
 sideline. Then you could choose to hit into the open space regardless of
-strength or weakness.]{.mark}]{.underline}**
+strength or weakness.**
 
-**[[Or the factor could be your court position. If you are very close to
+**Or the factor could be your court position. If you are very close to
 your forehand sideline, you could decide to stay crosscourt,
 understanding that if your line ball wasn't a winner your recovery
 would be too difficult. Or if the ball you receive is too deep or too
 high tempo you could also decide it was too risky to try and change
-direction.]{.mark}]{.underline}**
+direction.**
 
 I hope the basic examples above give you a clear understanding of the
 way the four components work together. And an indication of how the

@@ -251,10 +251,10 @@ Should grunting be minimized or even banned? Or should players stop
 complaining and start grunting themselves to maximize their own power
 and neutralize any advantage held by grunting opponents?
 
-**[[My own opinion is that, first, grunting helps tennis players, and
+**My own opinion is that, first, grunting helps tennis players, and
 second, without grunting matches would simply not be as intense. For
 these reasons I am thankful for grunting, and love and appreciate the
-players who will half kill to win.]{.mark}]{.underline}**
+players who will half kill to win.**
 
 I have a feeling though that not every Tennisplayer subscriber is going
 to agree. So let me know what you think about grunting and this article

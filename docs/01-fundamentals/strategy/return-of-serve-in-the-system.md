@@ -116,10 +116,10 @@ when you do hit a hard return it's going to look a lot harder to them
 relative to what they've just had to deal with.
 
 **It's always a good idea to develop complementary shots to all of
-your returns. For** **[[example, if you're a
+your returns. For** **example, if you're a
 right-handed player in the Ad court and you like to run around your
 backhand and go inside out, it is a good idea to develop a good inside
-in forehand as well.]{.mark}]{.underline}**
+in forehand as well.**
 
 It will keep the net player honest and can be devastating on second
 serves because even if the net player anticipates the shot, there's

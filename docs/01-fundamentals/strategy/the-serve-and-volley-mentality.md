@@ -119,9 +119,9 @@ To me taking time to hit your shots in the service box to set up a clean
 volley is much more rewarding. Serve and volley should make your
 opponent feel rushed, not you.
 
-**[[A potpourri of spins, speeds and placement is the way to accomplish
+**A potpourri of spins, speeds and placement is the way to accomplish
 this. Think of your serve as an assist machine, something like a great
-point guard in basketball.]{.mark}]{.underline}**
+point guard in basketball.**
 
 I often wonder how many players, both amateur and professional, that may
 have been even more successful at attempts to serve and volley if they
@@ -136,9 +136,9 @@ to both singles and doubles.
 
 **Geometry of Playing the Net**
 
-**[[A simple fact that seems to become lost is that the closer we move
+**A simple fact that seems to become lost is that the closer we move
 to the net, the greater angles we create. Sharper angles allow players
-to hit into a greater percentage of the court.]{.mark}]{.underline}**
+to hit into a greater percentage of the court.**
 
 That may seem simple but how many players really understand its value?
 Players that are new to my ladies teams that have a \"baseline centric\"
@@ -186,9 +186,9 @@ opposition.
 
 **Acceptance**
 
-**[[A challenge that all players face when they come to the net is
+**A challenge that all players face when they come to the net is
 dealing with getting passed. It's a more discouraging event than making
-an error in a rally.]{.mark}]{.underline}**
+an error in a rally.**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_the-serve-and-volley-mentality/media/image6.jpg)
@@ -281,10 +281,10 @@ Just getting a racquet on a ball, sends a significant message to your
 opponent that you might succeed next time. And he may end up overhitting
 the next one. This is a mental, moral and tactical victory all in one.
 
-**[[It's also important to recognize that the positive rush of emotions
+**It's also important to recognize that the positive rush of emotions
 is greater when you hit a clean volley winner than the negative feeling
 of being passed. A volley winner is decisive. It creates momentum.
-That's why players play this style.]{.mark}]{.underline}**
+That's why players play this style.**
 
 Remember in a close 2 set match the winner usually wins only 2 to 5 more
 points than the loser. You have to feed off the positive and let the
@@ -298,10 +298,10 @@ generated](media_the-serve-and-volley-mentality/media/image9.webp)
 
 **Stamina**
 
-**[[It's also important to note the role of stamina in the serve and
+**It's also important to note the role of stamina in the serve and
 volley game. Exploding forward is different than moving side to side.
 You need balance, controlled, efficient movement and
-rhythm.]{.mark}]{.underline}**
+rhythm.**
 
 Some players waste energy trying repeatedly to hit huge serves and crash
 through their volleys only to hit the wall towards the end of a match.

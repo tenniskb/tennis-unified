@@ -84,9 +84,9 @@ your body weight is moving.** In the deuce court,
 if the returner hits to my backhand volley, I will hit my backhand
 volley down the line.
 
-**[[This keeps the ball on my left side and keeps the line covered.
+**This keeps the ball on my left side and keeps the line covered.
 Going for a sharp or short angled volley crosscourt is risky and leaves
-the other line open unless the shot is a winner.]{.mark}]{.underline}**
+the other line open unless the shot is a winner.**
 
 The logic is the same if I get a forehand volley. In this case I will
 tend to hit the volley crosscourt behind the returner.
@@ -164,10 +164,10 @@ baseline and hits great returns off your hard serves but can not create
 his own pace. It's also a great change up that can surprise the
 opponent.
 
-**[[One cautionary point about both wide serves. When you attempt to
+**One cautionary point about both wide serves. When you attempt to
 serve your opponent off the court, returners will sometimes go for broke
 if they believe they have no chance of reaching your
-volley.]{.mark}]{.underline}**
+volley.**
 
 And sometimes they will hit amazing winners. Accept and applaud the shot
 since getting passed is part of the game, but realize the percentages
@@ -225,43 +225,43 @@ confidence](media_the-serve-and-volley-tactical-components/media/image5.webp)
 
 But does that mean running full speed straight forward? Obviously not.
 
-**[[Players need to learn how to transition from one shot to the next.
-For this the split step is critical.]{.mark}]{.underline}**
+**Players need to learn how to transition from one shot to the next.
+For this the split step is critical.**
 
-**[[You cannot achieve even moderate success in serve and volley at any
-level without incorporating the split step.]{.mark}]{.underline}**
+**You cannot achieve even moderate success in serve and volley at any
+level without incorporating the split step.**
 
-**[[The biggest footwork issue when players approach the net is that
+**The biggest footwork issue when players approach the net is that
 that they stop and plant themselves after the split step. Their heels
-dig into the court and then can't move.]{.mark}]{.underline}**
+dig into the court and then can't move.**
 
-**[[The ability to explode to the next shot vanishes. It's unfortunate
+**The ability to explode to the next shot vanishes. It's unfortunate
 how many players think that doing a split step means coming to a
-complete halt.]{.mark}]{.underline}**
+complete halt.**
 
-**[[A split step is not a stop sign on the way to the net. It's a speed
+**A split step is not a stop sign on the way to the net. It's a speed
 bump. When you approach a speed bump in your car, you adjust your
-speed.]{.mark}]{.underline}**
+speed.**
 
-**[[It's the same with the split. Moving forward after a serve a player
+**It's the same with the split. Moving forward after a serve a player
 has significant momentum. If he hits the brakes hard, this is reduced or
 lost. The split or the speed bump allows him to move forward in a
-controlled, balanced fashion.]{.mark}]{.underline}**
+controlled, balanced fashion.**
 
-**[[But serve and volley has to be adapted to the level of student to be
+**But serve and volley has to be adapted to the level of student to be
 effective. At lower levels, club players often close too early. There is
 more time for the defender to respond because of the lower
-pace.]{.mark}]{.underline}**
+pace.**
 
-**[[Because of this, club players make themselves vulnerable to the lob
+**Because of this, club players make themselves vulnerable to the lob
 and can't be expected to hit backpedaling scissor kick overheads to
 compensate. This is where there are shades of grey depending on
-levels.]{.mark}]{.underline}**
+levels.**
 
-**[[Initially, I teach my club level players the \"hover and observe\"
+**Initially, I teach my club level players the \"hover and observe\"
 position. This means positioning themselves at the service line or a
 step or two inside. They remain in a ready position, taking small quick
-ready steps, staying light on their feet.]{.mark}]{.underline}**
+ready steps, staying light on their feet.**
 
 ![A person running on a track Description automatically generated with
 low
@@ -270,11 +270,11 @@ confidence](media_the-serve-and-volley-tactical-components/media/image6.webp)
 **Learning to hover and then close makes you less vulnerable to lobs in
 club tennis.**
 
-**[[By hovering, the attacking player learns to observe the opponent. If
+**By hovering, the attacking player learns to observe the opponent. If
 the opponent looks balanced, chances are the opponent will try to drive
 the ball. The attacking player is now ready to move forward to cut off
 the angles. Otherwise, he can continue to hover and prepare for the
-lob.]{.mark}]{.underline}**
+lob.**
 
 This approach takes much of the feeling of vulnerability from the serve
 and volleyer's mind. With serve and volley, there's a fine line

@@ -112,9 +112,9 @@ different contact heights**
 
 **Open Stance**
 
-***[[By Open Stance we mean that the player does not step forward into
+***By Open Stance we mean that the player does not step forward into
 the shot with the front foot. The outside or left foot stays closest to
-the ball.]{.mark}]{.underline}* [With the Open Stance, there can be
+the ball.* [With the Open Stance, there can be
 variations in degree. The right foot can stay all the way on the right
 side or it can come somewhat more forward and/or across. But it never
 crosses over and the player never plants significant weight on it during

@@ -196,9 +196,9 @@ waist level\--and sometimes at shoulder level or higher\--most pros will
 hit semi-open.]{.mark}*** But, as noted, ***[when the ball is lower they
 will also step in and hit with a neutral or square stance.]{.mark}***
 
-**[[In the neutral stance, the player steps forward with the front foot
+**In the neutral stance, the player steps forward with the front foot
 and a line drawn across the tips of the toes of both feet tends to be
-parallel with the target line.]{.mark}]{.underline} *[This is different
+parallel with the target line. *[This is different
 and not to be confused with the closed stance in which the player steps
 across this line.]{.mark}*** You do actually see closed stance
 occasionally on the forehand, but it is relatively rare in the pro game.

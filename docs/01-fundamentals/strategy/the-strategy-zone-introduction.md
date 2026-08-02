@@ -167,8 +167,8 @@ taking control of the point, and nobody does it better than Maria
 Sharapova.**
 
 **The second shot we emphasize is the off-speed spin
-angle.** **[[Stretching out your opponent a sharp
-angle will often result in a defensive shot.]{.mark}]{.underline}**
+angle.** **Stretching out your opponent a sharp
+angle will often result in a defensive shot.**
 Andre Agassi and Monica Seles both worked on this shot everyday when
 they were at the Academy.
 
@@ -270,8 +270,8 @@ generated](media_the-strategy-zone-introduction/media/image8.webp)
 
 **Great players know when and how to finish.**
 
-**[[In Phase 3, there are 4 different types of finishes we will
-explore.]{.mark}]{.underline}**
+**In Phase 3, there are 4 different types of finishes we will
+explore.**
 
 **[The first finish is the Groundstroke Finish, and here there are many
 variations depending on the shot combination patterns who have executed

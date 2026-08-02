@@ -16,10 +16,10 @@ alignment of the hips is even more important. ([Click
 Here](True%20Alignment%20The%20Two%20Handed%20Backhand.docx) for True
 Alignment on the Two-Hander.)
 
-**[[There is much less body rotation in the forward swing on the one
+**There is much less body rotation in the forward swing on the one
 hander. So the hips and shoulders stay more sideways, anywhere from
 completely perpendicular to the net to opening a small
-amount.]{.mark}]{.underline}**
+amount.**
 
 In general, this means the hips are aligned with the target line or
 close at contact and also out into the followthrough, although with more
@@ -39,10 +39,10 @@ to how should happens. This leads to poor set ups, inconsistent distance
 to the ball, swiveling through the shot, and swings that move across the
 body too soon.
 
-**[[Even though fewer balls are hit open stance, the open stance set up
+**Even though fewer balls are hit open stance, the open stance set up
 is the foundation for true alignment with the one-hander, same as with
 the two. Setting up in open stance teaches players to create the right
-spacing and coils the back leg.]{.mark}]{.underline}**
+spacing and coils the back leg.**
 
 These are critical factors in a good one hander regardless of stance.
 **At this point the weight is on the back foot with the knee bent and
@@ -70,9 +70,9 @@ stepping in with the front foot.
 The key here is that the step into the ball comes off the proper set up
 with the back leg.
 
-**[[The other key elements is that the rear foot stays grounded or more
+**The other key elements is that the rear foot stays grounded or more
 commonly lifts off the ground and moves back behind the player until the
-swing is almost complete.]{.mark}]{.underline}**
+swing is almost complete.**
 
 This is important because if the rear foot moves too early towards the
 outside or the net, power and control are lost because the racket is no
@@ -133,15 +133,15 @@ Another more advanced use of True Alignment is on what David Bailey
 calls the Front Foot Hop. ([Click
 Here](https://www.tennisplayer.net/members/footwork/david_bailey/golden_moves/second_golden_move/).)
 
-**[[The hop on the front foot is forward towards the net more than
+**The hop on the front foot is forward towards the net more than
 simply up in the air. This pushes the body through the ball with more
 force, creating more power. It also allows the player to move forward
 through the shot without losing the correct path of the racket through
-the ball.]{.mark}]{.underline}**
+the ball.**
 
-**[[Here the rear leg will be pressed backwards to achieve maximum
+**Here the rear leg will be pressed backwards to achieve maximum
 extension through the shot towards the intended
-target.]{.mark}]{.underline}**
+target.**
 
 This is most often used on balls where players are moving forward into
 the court or taking a higher ball on the rise. This action keeps the
@@ -166,9 +166,9 @@ generated](media_true-alignment-the-one-handed-backhand/media/image7.webp)
 
 **The Karaoke Step helps maintain true alignment on short balls.**
 
-**[[This type of movement is often used on approach shots when the ball
+**This type of movement is often used on approach shots when the ball
 is low and close to the net. This is important for balance and well as
-control through the shot.]{.mark}]{.underline}**
+control through the shot.**
 
 On the one-handed backhand it is crucial for the good execution of the
 upper body and the swing path. This type of foot work is the most

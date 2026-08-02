@@ -50,8 +50,8 @@ want the opportunity to hit a great return. That's the mindset you
 need.**
 
 This mindset is the secret for returning even the most difficult serves.
-**[[Convince yourself that you love this
-challenge!]{.mark}]{.underline}** This attitude underlies the
+**Convince yourself that you love this
+challenge!** This attitude underlies the
 sensational returns we see at critical moments in the pro matches. It's
 the attitude of players like Andre Agassi and Roger Federer.
 
@@ -203,8 +203,8 @@ you aren't able to break serve early in the match, you cannot allow
 yourself to become frustrated.
 
 You have to respect the good servers and give them credit. Remember,
-**[[if you can successfully hold your serve each time, all you need is
-one break of serve to win the set.]{.mark}]{.underline}**
+**if you can successfully hold your serve each time, all you need is
+one break of serve to win the set.**
 
 ![A person playing tennis Description automatically
 generated](media_the-return-mentality/media/image8.webp)
@@ -215,10 +215,10 @@ generated](media_the-return-mentality/media/image8.webp)
 
 **[The serve is often a player's biggest offensive weapon.]{.mark}**
 **You can use the power of the serve to make your return into your
-biggest defensive weapon.** **[[Think of the serve
+biggest defensive weapon.** **Think of the serve
 as the power supply for your return. This is especially true on first
 serve. All the power you need for your return will be supplied by the
-speed of the serve.]{.mark}]{.underline}**
+speed of the serve.**
 
 **Remember the first goal on the return of serve
 is to get the point started, even when defending
@@ -242,9 +242,9 @@ confidence](media_the-return-mentality/media/image9.webp)
 winners when the opportunity isn't really there.**
 **The result is too many errors getting a point
 started.** **By getting the ball back in play you
-are forcing a good server to play.** **[[You are
+are forcing a good server to play.** **You are
 taking away his biggest weapon and forcing him to beat you with the rest
-of his game.]{.mark}]{.underline}**
+of his game.**
 
 **[[Challenging the server more aggressively isn't really a matter of
 power either]{.underline}. It's more a question of [court position,

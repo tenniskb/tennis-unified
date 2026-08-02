@@ -12,29 +12,29 @@
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Human beings evolved to live and work in groups. We are a social
+**Human beings evolved to live and work in groups. We are a social
 species, like wolves or chimpanzees, and as such there is a social
 hierarchy. It is a pecking order or social ranking, and, like the other
-species, who is on top of whom feels important.]{.mark}]{.underline}**
+species, who is on top of whom feels important.**
 
-**[[Simply, we are genetically programmed to compete with each other to
+**Simply, we are genetically programmed to compete with each other to
 elevate our rankings on this hierarchy. Other social species achieve
 their rankings by fighting (or by threatening to fight). We do it by
 competing successfully in various areas, one of which is
-sport.]{.mark}]{.underline}**
+sport.**
 
-**[[At its most basic level, a competitive tennis match is a symbolic
+**At its most basic level, a competitive tennis match is a symbolic
 fight for supremacy, a concept that clarifies many of the otherwise
 incomprehensible emotions swirling around such
-matches.]{.mark}]{.underline}**
+matches.**
 
 **Tennis is a symbolic fight, because you just can't hit each other.
 In tennis, each contestant pits his or her physicality, intelligence,
 will, nerve, fortitude, and even character against an opponent who is
 doing likewise as they wrestle to a decision**.
-**[[On court you can 'feel' your opponents pushing you around - trying
+**On court you can 'feel' your opponents pushing you around - trying
 to dominate and control you - while you do the same in
-return.]{.mark}]{.underline}**
+return.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                             ![A person with his hand on his face Description automatically generated with medium
@@ -117,11 +117,11 @@ were more important. It spoke against becoming concerned with strokes
 and technique and postulated that such concerns actually hindered the
 emergence of the excellent player already residing within.
 
-**[[To a certain extent Gallwey was onto something. Of course, winning a
+**To a certain extent Gallwey was onto something. Of course, winning a
 tennis match (other than for professionals) is unimportant in the
 greater scheme of life, and focusing on winning during competition can
 certainly make players nervous and hinder performance. I can't argue
-with any of this.]{.mark}]{.underline}**
+with any of this.**
 
 As a book of the 1970's, it fed nicely into the emerging cultural
 zeitgeist. **[[It was, at its heart, anti-competitive and downplayed
@@ -161,13 +161,13 @@ goes to the player who wins the most, just as in a group of
 businesspeople, high status accrues to the individuals with the most
 money.**
 
-**[[Of course, there is more than a little truth in Gallwey's theories.
+**Of course, there is more than a little truth in Gallwey's theories.
 For example, it is satisfying in and of itself to improve one's skills
 as a tennis player - to become more competent. As a form of creativity,
 we all take pleasure in artistically using our capabilities - hitting
 the ball crisply, moving about the court smoothly and on balance,
 swiftly anticipating our opponent's shots, and having our tactics
-function effectively.]{.mark}]{.underline}**
+function effectively.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                  ![A person with a white beard Description automatically generated with low
@@ -208,11 +208,11 @@ for them.
 
 **Males are accustomed to fighting and competing from early childhood.
 Challenging each other in head to head contests and striving to beat
-each other is natural for them.** **[[In contrast,
+each other is natural for them.** **In contrast,
 most women have temperaments with a greater nurturing component, and the
 cut-throat aspect of tennis poses problems for many. It is simply not as
 natural for many women to overtly get in each other's faces
-antagonistically as it is for the men.]{.mark}]{.underline}**
+antagonistically as it is for the men.**
 
 Many of the successful professionals on the women's tour had to be
 pushed into tennis by ambitious parents. Later on they are driven by the

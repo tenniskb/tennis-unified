@@ -91,8 +91,8 @@ Moving these 2 bones correctly allows you to maximize racquet head speed
 to gain the most power with the least effort.
 
 A common terminology confusion in coaching regards the term
-"pronation.\" **[[In reality, pronation is the independent rotation of
-the forearm and hand from the elbow joint.]{.mark}]{.underline}**
+"pronation.\" **In reality, pronation is the independent rotation of
+the forearm and hand from the elbow joint.**
 
 Biomechanical research has shown this movement has no significant role
 in tennis strokes. Yes, the forearm rotates. But this is because it is
@@ -151,8 +151,8 @@ eliminated, but there is still no forward flex in the swing.
 **[[Look at the last frame in the animation.]{.mark} [The ulna styloid
 has rotated with the rest of the arm until the joint with the hand is
 pointing basically up to the sky in a full windshield wiper
-finish.]{.mark}]{.underline}** **[[This rotation of the ulna can serve
-as an excellent image to generate the wiper.]{.mark}]{.underline}**
+finish.]{.mark}]{.underline}** **This rotation of the ulna can serve
+as an excellent image to generate the wiper.**
 
 **One Hand Backhand**
 
@@ -168,8 +168,8 @@ shoulder.
 
 **Look in the animation and the arm and forearm. The ulnar styloid is
 pointing to the sky. Again, visualizing this
-image** **[[is a great key to insure full external
-rotation.]{.mark}]{.underline}**
+image** **is a great key to insure full external
+rotation.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-most-important-bones-in-tennis/media/image6.webp)

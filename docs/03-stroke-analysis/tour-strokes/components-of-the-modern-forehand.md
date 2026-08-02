@@ -35,9 +35,9 @@ confidence](media_components-of-the-modern-forehand/media/image2.webp)
 **Linear momentum associated with stepping in and hitting through the
 line of the shot.**
 
-**[[Angular momentum, on the other hand, is associated with the rotation
+**Angular momentum, on the other hand, is associated with the rotation
 of the body core and the racket arm around the axis of the
-spine.]{.mark}]{.underline}** This is where we see the big change in the
+spine.** This is where we see the big change in the
 modern game. The players today are currently using up to twice as much
 body rotation in the forehand as in the days of wooden rackets and
 classical tennis.
@@ -139,19 +139,19 @@ weight back toward the middle of the court as he
 swings.**
 
 **The player loads with the right leg, explodes into the shot, and
-lands on the left leg.** **[[The proper loading
+lands on the left leg.** **The proper loading
 controls the momentum so that the player explodes upward into the air,
-instead of continuing to move to his right.]{.mark}]{.underline}**
+instead of continuing to move to his right.**
 
 **When the player loads the outside leg, he should be ready to push
 off with the outside foot to start the recovery. In fact, players should
 take this last loading step with the idea that they are already pushing
 back to the middle.**
 
-**[[The exception is when the player is stretcher wider and/or running
+**The exception is when the player is stretcher wider and/or running
 for a ball. In this case, it's also possible for the player to land the
 other foot, that is, on the right or outside
-foot.]{.mark}]{.underline}**
+foot.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -170,9 +170,9 @@ the additional momentum to the outside.** In a more
 extreme case, the player will use a running cross step with the opposite
 or left foot, which is then followed by the hop step with the left.
 
-**[[Depending on where the ball is and how the player moves, the
+**Depending on where the ball is and how the player moves, the
 sequence of loading and landing can be \"Right Foot, Left Foot\" or it
-can be \"Right Foot, Right Foot.\"]{.mark}]{.underline}**
+can be \"Right Foot, Right Foot.\"**
 
 **Recovery**
 

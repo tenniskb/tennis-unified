@@ -444,8 +444,8 @@ of the team if necessary. If I had benched the top two Gladiators, we
 would have lost half of our matches that year but the rest of the team
 would have thanked me. I would have escaped with my sanity, and I could
 have built a solid tennis program for the future instead of nearly
-destroying one. **[[In the end, a coach can't just ask for teamwork and
-cooperation, he has to demand it.]{.mark}]{.underline}**
+destroying one. **In the end, a coach can't just ask for teamwork and
+cooperation, he has to demand it.**
 
 Under my successor, the Gladiators had another undefeated season, and
 I'm told that not much had changed - except that the rest of the league

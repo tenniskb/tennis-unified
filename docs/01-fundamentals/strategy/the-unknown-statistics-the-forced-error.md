@@ -20,9 +20,9 @@ analysis of his game?
 
 The answer is a tremendous amount. Match charting allows any player to
 understand how points are won and lost. It's shocking how few players
-can tell you how they actually win or lose points. **[[It's equally
+can tell you how they actually win or lose points. **It's equally
 shocking how many players have wildly mistaken notions about how they
-win or lose points.]{.mark}]{.underline}**
+win or lose points.**
 
 Understanding the types of shots and shot patterns that lead to winning
 points can revolutionize how you play matches. It's even possible to
@@ -41,12 +41,12 @@ or in TV statistics.** **Yet it may be the most
 critical shot category, and usually decides matches at the pro level,
 and every level below.**
 
-**[[So, what is a forced error? A forced error is a ball which a player
+**So, what is a forced error? A forced error is a ball which a player
 has at least the possibility of making a return, is able to execute
 something approximating a regular swing, but is unable to control and
 return the shot. The result is an error, but this is different than an
 unforced error. The error was \"forced,\" due to the pressure and/or
-placement of the other player's ball.]{.mark}]{.underline}**
+placement of the other player's ball.**
 
 A ball that gets by the player entirely or careens off the tip of his
 racquet is an obvious winner. But when a player has a legitimate swing

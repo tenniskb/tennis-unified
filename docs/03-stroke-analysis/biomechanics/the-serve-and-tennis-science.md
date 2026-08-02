@@ -309,9 +309,9 @@ upward swing phase, the motion of the wrist is a significant determinant
 of the speed of the racquet. Wrist motion also effects the path of the
 swing. John's article, while acknowledging some motion, discounts wrist
 motion as a causative factor, particularly around the contact point.
-**[[His argument is that any motion of the wrist is a reaction to the
+**His argument is that any motion of the wrist is a reaction to the
 motion of other segments and not a conscious effect of muscular
-activity.]{.mark}]{.underline}**
+activity.**
 
 Basically, I agree with this argument. I also agree the benefit of the
 age old advice of snapping the wrist is probably insignificant although

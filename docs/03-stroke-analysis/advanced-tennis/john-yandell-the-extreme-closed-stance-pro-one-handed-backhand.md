@@ -183,11 +183,11 @@ Watch the great one handers. ***[The back foot doesn't come around
 until the players have extended the swing all the way forward and
 outward.]{.mark}***
 
-**[[In fact, the back foot typically stays well to the right of the
+**In fact, the back foot typically stays well to the right of the
 front foot with the sole of the shoe sometimes actually facing the side
 fence. Sometimes it kicks further backwards. It can even move forward
 towards the net during the course of the forward
-swing!]{.mark}]{.underline}**
+swing!**
 
 ![A person playing tennis Description automatically
 generated](media_john-yandell-the-extreme-closed-stance-pro-one-handed-backhand/media/image7.webp)

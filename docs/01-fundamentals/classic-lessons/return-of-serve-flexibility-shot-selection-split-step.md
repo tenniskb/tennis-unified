@@ -21,17 +21,17 @@ racquet head, and watching the ball properly.
 
 Now let's move on to 3 more principles, starting with flexibility.
 Flexibility is a critical component in my overall teaching philosophy.
-And, as with all strokes, **[[flexibility and the ability to adjust are
-important components of the return.]{.mark}]{.underline}**
+And, as with all strokes, **flexibility and the ability to adjust are
+important components of the return.**
 
 So a few general words about flexibility. Tennis is a very difficult and
 complex game. It requires a myriad of skills and responses.
 
 **My goal is to give my students a complete toolbox by mastering all
-of the shots and different styles of play.** **[[A
+of the shots and different styles of play.** **A
 complete toolbox enables a player to choose what strategy and tactics
 work best against a particular opponent and to have multiple game plans
-if your first game plan is not working.]{.mark}]{.underline}**
+if your first game plan is not working.**
 
 If all you can do is hit power baseline drives and either your opponent
 is superior in that phase of the game or your power drives are not
@@ -48,10 +48,10 @@ exercise. In particular, how am I winning points, how am I losing points
 and what adjustments can I make to increase the percentage of winning
 points?
 
-**[[Furthermore, making adjustments during the course of the match
+**Furthermore, making adjustments during the course of the match
 allows you to improve your level of play so that when the critical
 moments of the match occur at the end of the set you are playing at a
-higher level.]{.mark}]{.underline}**
+higher level.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -98,9 +98,9 @@ confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/im
 
 **Shot Selection and Targets**
 
-**[[Flexibility and adjustment are not only important when it comes to
+**Flexibility and adjustment are not only important when it comes to
 return positioning. They are also important in return shot selection and
-tactics.]{.mark}]{.underline}**
+tactics.**
 
 For example, if your normal return is a compact drive but you are making
 too many errors or not able to hit it effectively enough to neutralize
@@ -201,18 +201,18 @@ your legs are split wide apart with a good amount of flex in your knees.
 This wide landing position places your outside leg (right leg for a
 right-handed forehand and left leg for a right-handed backhand) that
 much closer to where you need to reach for a serve placed in either
-corner should you have to lunge on the return. **[[Landing with flexed
+corner should you have to lunge on the return. **Landing with flexed
 knees allows you to more effectively push off the ground should you need
 to leap out to meet the return. Being low also assists in your
-balance.]{.mark}]{.underline}**
+balance.**
 
-**[[One final point on the split step. When you come down from the split
-step, you want to be facing the server.]{.mark}]{.underline}**
+**One final point on the split step. When you come down from the split
+step, you want to be facing the server.**
 
-**[[Since the server is somewhat diagonally across the returner, that
+**Since the server is somewhat diagonally across the returner, that
 means that your feet will land in a slightly staggered position as
 demonstrated by Novak Djokovic below. Not every top player adheres to
-this principle, but it makes sense to follow it.]{.mark}]{.underline}**
+this principle, but it makes sense to follow it.**
 
 Just like a guard in basketball squares up to the player he or she is
 defending to be able to react to the offensive player's movement, you
@@ -239,12 +239,12 @@ confidence](media_return-of-serve-flexibility-shot-selection-split-step/media/im
 principle of the feet landing from the split step in a staggered
 position so that you can directly face the server.**
 
-**[[Note that in the photo on the left, showing a return from the deuce
+**Note that in the photo on the left, showing a return from the deuce
 service side, Novak's right foot lands ahead of his left foot so that
 he directly faces the server; and in the photo on the right, showing a
 return from the ad service side, Novak's left foot lands in front of
 his right foot so that he directly faces the
-server.]{.mark}]{.underline}**
+server.**
 
 Three more return principles to come! Stay Tuned.
 

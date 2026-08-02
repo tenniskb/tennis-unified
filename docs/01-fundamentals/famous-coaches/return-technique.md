@@ -57,8 +57,8 @@ confidence](media_return-technique/media/image3.webp)\
 **A compromise, less extreme forehand grip for returns.**
 
 One compromise here is the return grip used by Roger Federer, similar to
-Pete Sampras before him. Both of these great returners **[[waited with a
-less extreme version of their forehand grip.]{.mark}]{.underline}** This
+Pete Sampras before him. Both of these great returners **waited with a
+less extreme version of their forehand grip.** This
 gives the option of **either blocking or chipping the
 return**. It is also a **relatively small
 adjustment to the full forehand or backhand grip when he decides to
@@ -124,9 +124,9 @@ Fence and The Wall.**
 
 The fence is a great teacher. I use it and I don't have to say a word.
 I just watch. If you stand just in front of the fence, you'll will
-quickly learn to shorten the swing. **[[Have the server move in so the
+quickly learn to shorten the swing. **Have the server move in so the
 ball reaches you in your strike zone. It's impossible to return when
-your backswing hits the fence!]{.mark}]{.underline}**
+your backswing hits the fence!**
 
 Sometimes students don't really believe how big their back swing is,
 but the fence doesn't lie! The players automatically learn to turn
@@ -222,9 +222,9 @@ foot in the air, ending up in a neutral stance on the
 finish.**
 
 **Most players struggle to generate power and maintain control on the
-full reach return.** This is because **[[the
+full reach return.** This is because **the
 majority of players prepare for the full reach return by taking the
-racket back.]{.mark}]{.underline}** But **the best returners prepare
+racket back.** But **the best returners prepare
 by positioning the hand behind the ball as if they are going to catch
 the ball off the bounce.**
 
@@ -238,9 +238,9 @@ confidence](media_return-technique/media/image10.webp)
 returners so compact.** **Watch that the hand and
 racket never go back behind the edge of the body.**
 **Power comes from the explosion forward from the legs into the
-shot.** **[[This is naturally combined with a
+shot.** **This is naturally combined with a
 pulling action of the racket back across the
-body.]{.mark}]{.underline}** So if you want to hit great full reach
+body.** So if you want to hit great full reach
 returns, **[[prepare by reaching out and positioning the hand behind the
 ball. You'll]{.mark} [be able to use this compact motion to put those
 would be aces back into play.]{.mark}]{.underline}** **You'll also

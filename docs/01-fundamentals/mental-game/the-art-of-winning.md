@@ -185,10 +185,10 @@ Here](https://www.tennisplayer.net/members/strategy/allen_fox/winning_matches/Fo
 Another is losing a point because you served a weak second serve to the
 opponent's stronger forehand.
 
-**[[Or you attempted a low percentage passing shot from fifteen feet
+**Or you attempted a low percentage passing shot from fifteen feet
 behind the baseline versus throwing up a defensive lob. Or you hit an
 overhead seventy five mph too hard when a well placed stroke would have
-easily won the point.]{.mark}]{.underline}**
+easily won the point.**
 
 These are just examples. But inappropriate shot selection is easy to fix
 and should be a leading focal point of advanced training.
@@ -212,7 +212,7 @@ generated](media_the-art-of-winning/media/image7.webp)
 **What are your preferred short ball options---and what are your
 opponent's?**
 
-**[[There are four usual options:]{.mark}]{.underline}**
+**There are four usual options:**
 
 1)  **Hit an approach shot**
 
@@ -282,7 +282,7 @@ confidence](media_the-art-of-winning/media/image9.webp)
 
 **Proper between point rituals help you walk through 3 Doors.**
 
-**[[These doors are:]{.mark}]{.underline}**
+**These doors are:**
 
 1\) Emotionally getting over negative past points, while at the same
 time, noting any mistakes technically or tactically.
@@ -297,11 +297,11 @@ Here](https://www.tennisplayer.net/members/jim_loehr/jim_loehr_16_second_cure_pr
 individual players create these personal rituals for themselves and use
 them to create feelings of confidence and control.
 
-**[[Defeating a top ranked opponent can be complicated and very
+**Defeating a top ranked opponent can be complicated and very
 challenging. You need to stay even emotionally through the ups and downs
 of the matches, which can often include mental warfare and gamesmanship.
 The right rituals keep you in the mental and emotional frame of mind to
-play the actual tennis you need.]{.mark}]{.underline}**
+play the actual tennis you need.**
 
 **Summary**
 

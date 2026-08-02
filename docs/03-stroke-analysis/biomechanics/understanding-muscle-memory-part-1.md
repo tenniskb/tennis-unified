@@ -10,11 +10,11 @@
 
 **What is muscle memory and how do you develop it?**
 
-**[[Muscle memory is what determines your strokes and makes your tennis
+**Muscle memory is what determines your strokes and makes your tennis
 game what it is---for the good or for the bad. Developing muscle memory
 means consolidating a specific motor task through repetition. Eventually
 you can perform the task without conscious
-effort.]{.mark}]{.underline}**
+effort.**
 
 At a cellular level, motor learning occurs in the neurons of the motor
 cortex. But it also happens on the muscle and skeletal level. You
@@ -25,10 +25,10 @@ This is not simply my opinion, it is a conclusion based on years of
 research in many overlapping fields, something I have extensively
 detailed in my book shown below.
 
-**[[Muscle memory is created through permanent changes in the brain,
+**Muscle memory is created through permanent changes in the brain,
 nerves, and muscles. Research shows that permanent change in muscle
 memory occurs only through repetitions in a concentrated period of
-time.]{.mark}]{.underline}**
+time.**
 
 ![A picture containing jellyfish, ocean floor Description automatically
 generated](media_understanding-muscle-memory-part-1/media/image2.jpg)

@@ -80,18 +80,18 @@ confidence](media_love-the-battle-pathways-to-performing/media/image3.webp)
 
 **What we do physically is critical to how we feel.**
 
-**[[It works both ways. We know, for instance, that if you become
+**It works both ways. We know, for instance, that if you become
 fatigued, if you're not physically fit enough, if you are literally
 running out of gas physically, your muscles run out of glycogen.
-Suddenly you can't fight the battle anymore.]{.mark}]{.underline}**
+Suddenly you can't fight the battle anymore.**
 
-**[[When you become fatigued, you are forced into emotional submission.
+**When you become fatigued, you are forced into emotional submission.
 The emotions that empower you are gone. When you don't properly sleep,
 when you don't intake food and water properly, the effects are dramatic
 in terms of your motivation, your sense of passion, your sense of
 eagerness. So we should look at this as a continuum. There are a wide
 diversity of things, some mental, some physical, that affect
-emotion.]{.mark}]{.underline}**
+emotion.**
 
 **There is a reason that emotions are so important in the context of
 competition. This is because emotions reflect what is happening at a
@@ -261,18 +261,18 @@ In almost every case, when an athlete maxes out, it comes in the context
 of a positive emotional climate. Positive emotions represent a state of
 balance.
 
-**[[It's true that negative emotions serve a purpose. They're like the
+**It's true that negative emotions serve a purpose. They're like the
 instrument gauges on a race car that suggest that the fuel is low. It
 happens sometimes when you're hungry, you're agitated, you're
-overstressed, all kinds of things can trigger it.]{.mark}]{.underline}**
+overstressed, all kinds of things can trigger it.**
 
 **And that's a very important understanding, that negative emotions
 serve a very real purpose\--they indicate issues that must be
-addressed.** **[[But we have to learn to put aside
+addressed.** **But we have to learn to put aside
 negative emotion in the context of competition. Then later we can
 address the needs those negative emotions reflect. Positive emotion
 simply reflects a healthy, normal state of operation internally. There
-aren't any great needs that are being expressed.]{.mark}]{.underline}**
+aren't any great needs that are being expressed.**
 
 ![A person playing tennis Description automatically generated with
 medium

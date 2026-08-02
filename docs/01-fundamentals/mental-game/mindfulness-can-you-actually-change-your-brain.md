@@ -179,7 +179,7 @@ literally, in split seconds. And the outcome is the incredible high
 percentage execution of the most difficult shots at the most critical
 moments.
 
-**[[But let's take this one step further. Every time Nadal acts on this
+**But let's take this one step further. Every time Nadal acts on this
 pattern with a mentality of \"fight for every point, give up nothing\",
 he actually deepens the connection of this particular neural network for
 use in the future. For example, when he chooses to hit a deep backhand
@@ -187,7 +187,7 @@ crosscourt winner that makes our jaw drop open again, the brain
 circuitry that created this decision becomes even more accessible next
 time. In other words, the physical action Nadal chose will actually act
 back on the brain to further reinforce the connectivity between focus
-and execution.]{.mark}]{.underline}**
+and execution.**
 
 Let's look at another example, but this time not Rafa, but you. You're
 leading 5-4 in the first set ad-out, set point, and as you crouch down
@@ -246,13 +246,13 @@ it is not the nerves that will determine their success but, rather,
 being able to maintain their focus in the moment and committing to the
 shots they believe in.
 
-**[[Putting studies in golf, conducted by Crews and Landers, also
+**Putting studies in golf, conducted by Crews and Landers, also
 revealed that successful amateur golfers who were able to make putts
 under stressful conditions reported feeling as much anxiety as those
 were not able to make the shots. These reports were also confirmed with
 physiological measures: Heart rates of the successful golfers increased
 as much as those of golfers who failed to make their
-putts.]{.mark}]{.underline}**
+putts.**
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                        ![A picture containing grass, outdoor, field, athletic game Description automatically

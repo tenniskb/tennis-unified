@@ -292,11 +292,11 @@ after each shot.
 hard, high ball will allow him to put the ball
 away.**
 
-**[[One alternate strategy is to hit off pace shots that stay low. This
+**One alternate strategy is to hit off pace shots that stay low. This
 will prevent the opponent from hitting down and making winning volleys.
 As you come in, keep the ball low and continue to move in after each
 shot. This will allow you to hit down and put the ball
-away.]{.mark}]{.underline}**
+away.**
 
 If you don't have a volley into the open court, hit all your putaways
 at your closest opponent. If your partner is a good poacher, serve down

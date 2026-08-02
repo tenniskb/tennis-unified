@@ -205,11 +205,11 @@ going for inappropriate shots from deep in the court.
   National 3               14               21             L: 6-2, 6-0
   ------------------------------------------------------------------------
 
-**[[The backhand side was worse. Yulia hit only 5 winners over 3 sets
+**The backhand side was worse. Yulia hit only 5 winners over 3 sets
 but made a whopping 23 unforced errors. Again, most came from going for
 too much at the wrong time, particularly in the middle of deep
 crosscourt rallies where neither player really had an
-advantage.]{.mark}]{.underline}**
+advantage.**
 
 How important were these errors, especially on the backhand side? The
 total number of Yulia's errors exceeded the point margin between the
@@ -217,11 +217,11 @@ players! Over the course of 3 sets, Yulia's opponent won only 11 more
 points than Yulia. Yulia's unforced backhand errors alone were more
 than double this margin!
 
-**[[If Yulia had been able to simple cut her backhand errors in half,
+**If Yulia had been able to simple cut her backhand errors in half,
 she would have probably won the match. If she had been able to reduce
 her errors on both sides so that her Aggressive Margin was in positive
 territory, she probably would have won in straight
-sets.]{.mark}]{.underline}**
+sets.**
 
 Of course, this kind of thing is easier said than done. But the good
 news was these errors weren't coming on high percentage missed
@@ -238,10 +238,10 @@ but this sometimes prevented her from realizing exactly where she was on
 the court and when she was in a defensive
 position.**
 
-**[[No doubt, getting the opportunities to finish was difficult against
+**No doubt, getting the opportunities to finish was difficult against
 this opponent. She rarely missed and didn't mind pushing. But that was
 no excuse for trying to create opportunities where they didn't
-exist.]{.mark}]{.underline}**
+exist.**
 
 **What Yulia desperately needed was to understand how to build
 points - how to work the exchanges over the course of several balls to
@@ -256,21 +256,21 @@ play.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[This was true from the baseline. It was also true at the net. She
+**This was true from the baseline. It was also true at the net. She
 had success in a handful of points with her volleys and overheads. She
 also was able to counter some of her opponent's junk with drop shots
-and at least one lob winner.]{.mark}]{.underline}**
+and at least one lob winner.**
 
 When she used her more varied shotmaking in this way, the percentages
 were in her favor. She won more points (6) than she lost (4). But this
 was in less than 10% of the total number of points, and not quite enough
 to make a difference.
 
-**[[The numbers showed she had more variety and more firepower than her
+**The numbers showed she had more variety and more firepower than her
 opponent. If she had simply believed this more, she would have had the
 patience and the confidence to work the points, be patient, and
 eventually bring her forehand and other weapons into
-play.]{.mark}]{.underline}**
+play.**
 
 We could see the same exact same phenomenon in the match she lost in the
 national tournament. The score was the most lopsided of all the matches

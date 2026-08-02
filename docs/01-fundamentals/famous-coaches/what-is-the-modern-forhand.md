@@ -14,10 +14,10 @@ there is, then how do we explain all the variations in the swings and
 footwork of the top players? Do they simply reflect different \"hitting
 styles\"? The answer is no. The variations in the modern forehand are
 not a question of hitting styles. They are a reflection of the specific
-tactical shots the players are trying to hit. In other words, **[[the
+tactical shots the players are trying to hit. In other words, **the
 pros have developed specific technical solutions to address the wide
 range of tactical problems they encounter in the modern game
-today.]{.mark}]{.underline}**
+today.**
 
 **Each technical solution can require a different footwork pattern,
 impact height, a different preparation and followthrough, and variable
@@ -68,8 +68,8 @@ a fast, high bouncing ball, often played to the
 backhand.**
 
 **The topspin lob** is an ***[offensive shot hit over a net player's
-head]{.mark}.*** **[[Heavy spin drops the ball quickly after it reaches
-its peak.]{.mark}]{.underline}**
+head]{.mark}.*** **Heavy spin drops the ball quickly after it reaches
+its peak.**
 
 **The drive** is a ***[fast, penetrating shot hit with topspin, but with
 a flatter trajectory than the arc.]{.mark}*** **The ball is quick
@@ -92,8 +92,8 @@ shoulder level, and driven down into the court.]{.mark}* It's an
 offensive shot hit with power and spin.**
 
 **The angle** is hit ***[cross court with a low trajectory and heavy
-spin.]{.mark}*** **[[It lands short and is used to open the court, and
-also on a passing shot.]{.mark}]{.underline}**
+spin.]{.mark}*** **It lands short and is used to open the court, and
+also on a passing shot.**
 
 That's just a brief overview and, obviously, there is a lot more to say
 to understand each of these shot types. As you can see there really is
@@ -131,9 +131,9 @@ recovery.]{.mark}***
 
 **Roddick moving to the left: the \"right-left\" footwork.**
 
-Watch in the animation that Roddick is hitting **[[a \"run-around\"
+Watch in the animation that Roddick is hitting **a \"run-around\"
 forehand, moving to the left as he makes the
-shot.]{.mark}]{.underline}** This requires a different footwork pattern
+shot.** This requires a different footwork pattern
 we call the \"right-left\". ***[Again the players initiate the shot
 pushing off their right foot. The difference is that they land on their
 left foot to stop their sideways momentum and initiate their

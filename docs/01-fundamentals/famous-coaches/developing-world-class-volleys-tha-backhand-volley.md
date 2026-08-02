@@ -46,10 +46,10 @@ to chop down through the shot.** Even the great
 Pete Sampras had a problem with that on occasion. He used to chop down a
 bit too severely at times on the backhand volley and not hit through it.
 
-**[[This excessive downward chop makes it's very difficult to penetrate
+**This excessive downward chop makes it's very difficult to penetrate
 the court and hit winning volleys, especially because the racket and the
 strings have made it so much easier to hit topspin passing
-shots.]{.mark}]{.underline}**
+shots.**
 
 What I want to show you in this article is the fundamentals for
 **hitting through the ball solidly -
@@ -89,9 +89,9 @@ backhand volley is a little bit safer among top level players, and
 probably at the club level also if players have decent technique.
 
 **After the shoulder turn the key is to hit through the
-ball.** ***[[The racquet head can't move too
+ball.** ***The racquet head can't move too
 sharply downward or the ball will lack pace and
-float.]{.mark}]{.underline}***
+float.***
 
 ![A person holding a tennis racket Description automatically
 generated](media_developing-world-class-volleys-tha-backhand-volley/media/image4.webp)
@@ -111,15 +111,15 @@ harder on a forehand volley.
 
 **On good backhand volleys the shape or structure of the arm and the
 racquet stays relatively the same on the forward
-swing.** ***[[You just move that whole structure
-from the shoulder.]{.mark}]{.underline}*** You can just go straight
+swing.** ***You just move that whole structure
+from the shoulder.*** You can just go straight
 through and hit cross court, or by changing the position of the elbow,
 you go down the line or inside out.
 
 You do the same thing on the emergency volley when the ball is hit
-directly at you - **[[by pulling the elbow across the body you get the
+directly at you - **by pulling the elbow across the body you get the
 racket head in position and the shape between the arm and the racket
-stays relatively the same.]{.mark}]{.underline}**
+stays relatively the same.**
 
 ![A person playing tennis Description automatically
 generated](media_developing-world-class-volleys-tha-backhand-volley/media/image5.webp)
@@ -238,11 +238,11 @@ generated](media_developing-world-class-volleys-tha-backhand-volley/media/image9
 
 **Junior Players**
 
-I think one of the things that **[[a lot of the young players have a
+I think one of the things that **a lot of the young players have a
 problem with is really chopping down quite severely coming from too high
 a position. This is a real problem with young players because of the
 almost complete dominance of the two-handed
-backhand.]{.mark}]{.underline}**
+backhand.**
 
 You tend to see a lot of fairly ugly backhand volleys from kids with two
 hands. They tend to have a tough time taking one hand off the racquet.
@@ -271,9 +271,9 @@ is absolutely necessary to execute the volley well in match play. As I
 coach I never have players do volley drills where they are standing
 still.
 
-**[[Instead of making a cross step across, take a half a step to the
+**Instead of making a cross step across, take a half a step to the
 left with the outside foot closest to the ball. Volleys are a lot of
-little half steps. You see]{.mark}]{.underline}**
+little half steps. You see**
 
 If you can always be moving forward and just meet the ball with a strong
 solid arm, then the ball is going to get a fair bit of pace, you really

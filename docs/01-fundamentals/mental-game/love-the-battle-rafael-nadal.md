@@ -46,8 +46,8 @@ match in every detail.** His extremely precise
 rituals. The way he controls the pace of the match. The way he maintains
 the same demeanor and body language whether he has won or lost the last
 point. Even the way he organizes his water bottles on the change-overs.
-**[[In terms of his emotional control Nadal is literally the best player
-in the world.]{.mark}]{.underline}**
+**In terms of his emotional control Nadal is literally the best player
+in the world.**
 
 If you watch many of the other top players, even in the top ten in the
 world, their on court behavior can be very uneven emotionally. Often
@@ -196,11 +196,11 @@ the script. They're chastising themselves. They're bellyaching,
 moaning, groaning, complaining. There's no place in the script
 whatsoever for that kind of emotional response.
 
-**[[As tennis players, we have to practice the skills that an actor or
+**As tennis players, we have to practice the skills that an actor or
 actress has to practice. We have to learn how to bring confidence with
 the look in our face, by moving the muscles of our face. When we
 communicate a smile, we are in a real sense communicating to our
-physiology that it's okay, things are all right.]{.mark}]{.underline}**
+physiology that it's okay, things are all right.**
 
 **In fact, we're moving the physiology at a molecular level. We know
 that autonomic nervous system responses mirror the movement of muscles

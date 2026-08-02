@@ -51,14 +51,14 @@ having no answers for preventing those loses. Instead, players are told
 over and over to keep doing the same things that are causing them to
 lose in the first place.
 
-**[[The most common advice that leads to defeat is: \"Keep closing in!
+**The most common advice that leads to defeat is: \"Keep closing in!
 The team that gets to net wins.\" Controlling the net is great but if
 you keep running back for lobs you're not controlling
-anything.]{.mark}]{.underline}**
+anything.**
 
-**[[Let's start by accepting that the lob is a great weapon in doubles.
+**Let's start by accepting that the lob is a great weapon in doubles.
 But the wrong positioning and shot selection makes the lob even more
-effective.]{.mark}]{.underline}**
+effective.**
 
 With the System you will learn to neutralize the lob game. Depending on
 the opponent it may not be easy. It may require patience.
@@ -176,8 +176,8 @@ As the Helper moves forward, he becomes the Hunter. The Hunter moves
 back and becomes the Helper. This will give you balanced positioning at
 all times.
 
-**[[Against lobbers, you never hit the ball deep crosscourt and close
-in. Why? You will get lobbed every time.]{.mark}]{.underline}**
+**Against lobbers, you never hit the ball deep crosscourt and close
+in. Why? You will get lobbed every time.**
 
 The only exception is if the ball is falling short and low as you get to
 it. In this case you hit a touch angle volley crosscourt. Again, this is

@@ -199,9 +199,9 @@ Serve and return practice in its purest form should simply be about
 serve and return. One player will serve a first serve. The other player
 will be practising only their return of serve.
 
-**[[The server doesn't hit the next shot after the return, but instead
+**The server doesn't hit the next shot after the return, but instead
 finishes with a well-timed split step. This split step after the serve
-is the hardest to master.]{.mark}]{.underline}**
+is the hardest to master.**
 
 **[This is because the serve takes a little longer to execute than a
 groundstroke, and often players are then late taking their first split

@@ -107,10 +107,10 @@ As Chris Evert put it: \"You can't miss anything. It's like you
 anticipate way ahead of Time where the ball is going and you also know
 where you're going to hit the ball before you hit.\"
 
-**[[Perhaps the most bizarre reported aspect of the Zone is
+**Perhaps the most bizarre reported aspect of the Zone is
 transformation of time. In the heat of the game, time can slow down,
 giving the perception that we have all the time in the
-world.]{.mark}]{.underline}**
+world.**
 
 Chris Evert recalls, \"Everything seems slower, so you have more time to
 adjust.\"
@@ -145,17 +145,17 @@ In her book Modified Consciousness, Christine Le Scanff describes an
 amnesia that some athletes experience that makes it difficult or even
 impossible to describe a Zone performance.
 
-Bob Trumpy, a former all pro tight end, is a good example: **[[\"It was
+Bob Trumpy, a former all pro tight end, is a good example: **\"It was
 like being in a tunnel and being blinded by a bright light. When I came
 out of the other end of the tunnel, I was in the end zone and my
 teammates were celebrating. But I didn't remember what I
-did.\"]{.mark}]{.underline}**
+did.\"**
 
-**[[Le Scanff notes that detachment can give an athlete increased
+**Le Scanff notes that detachment can give an athlete increased
 tolerance: \"Sport allows an athlete to achieve an altered state of
 consciousness because of the secretion by the body's own biological
 drugs. Beta-endorphin has analgesic power fifty times higher than that
-of morphine.\"]{.mark}]{.underline}**
+of morphine.\"**
 
 ![A picture containing person Description automatically
 generated](media_does-the-zone-exist/media/image6.jpg)

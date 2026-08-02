@@ -64,14 +64,14 @@ basic diagonal in backcourt exchanges?
 
 **Inside Offense**
 
-**[[When you move to the inside out position, your ready position is now
+**When you move to the inside out position, your ready position is now
 on the ad side, a few feet to the left of center. From this position you
 rip inside-out forehands crosscourt, making decisions with every shot.
 If your opponent can keep you close to your singles sideline, you rip it
 back crosscourt to his backhand. If he hits a higher ball towards the
 middle, you can destroy it inside in\--that is down the singles sideline
 to your opponent's forehand. Or you can approach inside-out to his
-backhand.]{.mark}]{.underline}**
+backhand.**
 
 ![A person playing tennis Description automatically
 generated](media_pro-patterns-the-inside-out-diagonal/media/image4.webp)\

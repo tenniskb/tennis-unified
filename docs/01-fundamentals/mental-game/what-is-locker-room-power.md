@@ -80,25 +80,25 @@ You will need to create a picture in your mind of how you look, play and
 behave after you have achieved your goals. This is a blueprint to work
 towards, a finished picture of the product which is you the champion.
 
-**[[You are building an advertising campaign of your abilities as they
+**You are building an advertising campaign of your abilities as they
 develop. But this campaign is built on substance not
-spin.]{.mark}]{.underline}**
+spin.**
 
-**[[Building locker room power is putting things in place in your mind
+**Building locker room power is putting things in place in your mind
 so you have a plan of where you are heading mentally. This in turns sets
 the physical work in motion. The work, the preparation, the commitment,
 the improvement and the attitude are real and reflections of the message
-you convey to the outside world.]{.mark}]{.underline}**
+you convey to the outside world.**
 
-**[[Many players hope to be successful but this hope is undermined by
+**Many players hope to be successful but this hope is undermined by
 the bare fact that deep down they know they are not working hard enough.
 This causes them to hand over locker room power to those players who are
-doing the work.]{.mark}]{.underline}**
+doing the work.**
 
-**[[To develop your personal aura, you will need to build powerful
+**To develop your personal aura, you will need to build powerful
 weapons that are the base of your confidence. You will need to build
 your game plan around these weapons to hurt
-opponents.]{.mark}]{.underline}**
+opponents.**
 
 ![A person wearing a blue uniform Description automatically generated
 with low
@@ -106,11 +106,11 @@ confidence](media_what-is-locker-room-power/media/image4.jpg)
 
 **An aura built on attitude.**
 
-[[**Strengthen your weaknesses** **if they begin to undermine your
+**Strengthen your weaknesses** **if they begin to undermine your
 ability to use your weapons effectively. But otherwise, do not waste
 time trying to eliminate them. Build a vision of the end result and
 slowly work to merge the picture of where you are now into this future
-representation of yourself.**]{.mark}]{.underline}
+representation of yourself.**
 
 **Video**
 
@@ -164,9 +164,9 @@ Any person can create locker room power by simple actions with smart
 training, choosing the language you use carefully and producing an
 advertisement that reflects a great attitude towards competition.
 
-**[[If you advertise a bad product well, it can work against easily
+**If you advertise a bad product well, it can work against easily
 impressed and inexperienced players. However, bluffing is not
-sustainable in the long run.]{.mark}]{.underline}**
+sustainable in the long run.**
 
 The key is to make sure the product is good. The advertising will then
 simply reinforce the product adding to the perceived truth and potency

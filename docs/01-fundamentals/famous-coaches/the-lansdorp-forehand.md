@@ -323,10 +323,10 @@ ball better. With the open stance there's a danger that players are
 going to start wrapping around the body too quickly.
 
 When you start a kid with an open stance, you're asking for trouble.
-**[[Develop the closed stance and then go open stance, because when you
+**Develop the closed stance and then go open stance, because when you
 are running wide for a forehand it should be some variation of the open
 stance - or at least a stance in which the player steps though with the
-front foot after the hit]{.mark}]{.underline}** (for examples of open
+front foot after the hit** (for examples of open
 stance forehands see [Reverse Forehand](The%20Reverse%20Forehand.docx)
 article). But players have to understand the difference. They have to
 understand there are times when it's better to step into the ball, even

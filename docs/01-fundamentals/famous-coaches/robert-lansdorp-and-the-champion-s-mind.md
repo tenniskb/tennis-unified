@@ -97,9 +97,9 @@ with the weighted racket. For a little kid, that was tough, but it
 taught me to drive through the ball. With Robert, it was all about the
 sweet spot and driving through the ball.
 
-There was no secret technique in Lansdorp's repertoire. **[[His big
+There was no secret technique in Lansdorp's repertoire. **His big
 thing was repetition, which had a critical side effect: it taught
-extreme stroking discipline.]{.mark}]{.underline}** Robert had this big,
+extreme stroking discipline.** Robert had this big,
 supermarket-size shopping cart ﬁlled with balls, and whatever we were
 working on---preparation, taking the short midcourt ball, the running
 forehand that became my trademark shot---we would do it for an hour, or

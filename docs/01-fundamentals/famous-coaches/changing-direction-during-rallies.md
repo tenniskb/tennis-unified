@@ -6,15 +6,15 @@
 medium
 confidence](media_changing-direction-during-rallies/media/image1.png)
 
-**[[Making smart choices during competition is just as important as good
+**Making smart choices during competition is just as important as good
 execution. This includes knowing when to change
-directions.]{.mark}]{.underline}**
+directions.**
 
 Some players change directions without any reason to do so and put
 themselves in a poor position to return their opponent's ball.
 
-**[[The general rule of thumb is to only change directions when a ball
-is "inside" or weak to the outside.]{.mark}]{.underline}**
+**The general rule of thumb is to only change directions when a ball
+is "inside" or weak to the outside.**
 
 **Don't change direction on good quality "outside balls", or those
 that cross your body.**

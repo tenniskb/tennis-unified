@@ -104,9 +104,9 @@ feet for the arc.**
 court to other very rapidly.** ***[Because of the
 increased pace and lower trajectory, the opponent has less time to react
 than with the arc, and this makes the drive more difficult to
-reach.]{.mark}*** **[[The drive is a shot for hurting your opponent
+reach.]{.mark}*** **The drive is a shot for hurting your opponent
 and/or finishing the point from the baseline or a few feet
-inside.]{.mark}]{.underline}** In the women's game the drive is
+inside.** In the women's game the drive is
 probably the most common of the seven forehands. This is because women
 tend to hit the ball a little lower and flatter in the basic rallies
 compared to the men who tend to hit more arcs.
@@ -135,10 +135,10 @@ balls.**
 
 **[The loop is a more extreme variation of the arc. It's hit 2 or 3
 times higher over the net than the loop, 6 feet or more.]{.mark}**
-**[[It's also hit with heavy topspin. You commonly see players hit the
+**It's also hit with heavy topspin. You commonly see players hit the
 loop when they are pushed back. The result is a fast, high bouncing
 ball, often played to the backhand from the inside out
-position.]{.mark}]{.underline}**
+position.**
 
 When club players are pushed back, they often make the mistake of
 panicking and going for the outright winner. The pros go for the loop.
@@ -151,9 +151,9 @@ actually make the loop a weapon and a way of transiting from defense to
 offense.]{.mark}]{.underline}**
 
 At high levels of the game the loop ball is hit with extreme spin.
-However, **[[club players who are developing this high looping ball can
+However, **club players who are developing this high looping ball can
 learn the trajectory with less spin. I call this the difference between
-the rolling loop and the ripping loop.]{.mark}]{.underline}** As the
+the rolling loop and the ripping loop.** As the
 speed of the ball increases, the amount of spin should also increase, to
 keep the ball on the same path.
 
@@ -237,9 +237,9 @@ as well.**
 
 ***The dip drive is hit off a short high ball. The player moves in and
 makes contact, usually around shoulder level.***
-**[[The ball is hit with great velocity and driven down into the court.
+**The ball is hit with great velocity and driven down into the court.
 It's an offensive shot hit with power and spin that the great players
-just blow by their opponents.]{.mark}]{.underline}**
+just blow by their opponents.**
 
 Years ago a high ball on the forehand was considered a very tough shot
 and caused even the top players problems. But with today's grips and
@@ -311,10 +311,10 @@ appropriate area of the court with the right tactical goal in mind to be
 successful. But the fact is that not every ball in tennis should be a
 drive. And that's at all levels.
 
-**[[When you add loops, angles, lobs all of a sudden you are building a
+**When you add loops, angles, lobs all of a sudden you are building a
 repertoire. You are expanding the tool kit of shots you have in your
 game. That's how you start to play better
-tennis.]{.mark}]{.underline}** There are many reasons why Roger Federer
+tennis.** There are many reasons why Roger Federer
 is the number one player in the world, but his incredible variety on his
 forehand is definitely one of them. It's a dimension that players at
 all levels should work to add to their games as well.

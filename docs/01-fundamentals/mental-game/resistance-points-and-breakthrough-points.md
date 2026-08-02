@@ -57,10 +57,10 @@ to have breakthrough results.
 
 **Resistance Points**
 
-**[[Resistance points are a part of competition and they always come up
+**Resistance points are a part of competition and they always come up
 en route to any championship performance. Too many players are hoping
 that no resistance points will enter into their performances, and this
-is a huge mistake.]{.mark}]{.underline}**
+is a huge mistake.**
 
 In fact, effectively managing resistance points will push you to have
 breakthrough points. They provide the opportunity to build a belief in
@@ -307,23 +307,23 @@ perspective on what happened.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Djokovic was down 3-5, 15-40 in the fourth. With one blistering
+**Djokovic was down 3-5, 15-40 in the fourth. With one blistering
 forehand return winner he made breakthrough by hitting that \"go for
 broke\" return. He then used this to engage the crowd and further create
 a positive feeling within himself. That one return changed the momentum
-of the match.]{.mark}]{.underline}**
+of the match.**
 
-**[[Meanwhile, this unexpected turn of events plunged Federer into a
+**Meanwhile, this unexpected turn of events plunged Federer into a
 resistance point that he was not prepared to face. He did not lose
 because of bad luck or anything else. He simply was not ready to respond
-at that critical point of the match.]{.mark}]{.underline}**
+at that critical point of the match.**
 
-**[[It appeared he simply could not accept the fact that Djokovic would
+**It appeared he simply could not accept the fact that Djokovic would
 risk it all on one return. In the press conference he stated that he
 would never have tried the same shot himself because he believed in hard
 work over the long term, not risk and luck critical moments. It was as
 if he was offended by Djokovic's attitude and never
-recovered.]{.mark}]{.underline}**
+recovered.**
 
 Here is an example that, even the greatest player of all time, for whom
 I have ultimate respect, can encounter the same problems as other
@@ -391,21 +391,21 @@ solutions physically and mentally over and over in practice.
 recognize them and how you react. You may not be initially able to
 control them, and that is fine.**
 
-**[[But over time, work to implement the solution, step by step, inch by
+**But over time, work to implement the solution, step by step, inch by
 inch if necessary. It may not happen the first time, or even the tenth,
 by over time the important thing to realize is that the resistance point
-is a critical opportunity to make a breakthrough.]{.mark}]{.underline}**
+is a critical opportunity to make a breakthrough.**
 
-**[[Other breakthroughs can come independently by formulating tactics
+**Other breakthroughs can come independently by formulating tactics
 for situations, or beliefs about your own ability. Again, rehearse these
 physically and mentally over and over in practice and have the courage
-to try to implement them in matches.]{.mark}]{.underline}**
+to try to implement them in matches.**
 
 **Over time your confidence will overwhelm your doubt and you will be
-able to create and/or** **[[preserve the momentum
+able to create and/or** **preserve the momentum
 you need to breakthrough and take your game to the next level. And when
 you reach the next level, you can start the process over again to
-continue to rise to your full potential.]{.mark}]{.underline}**
+continue to rise to your full potential.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A person in a black shirt Description automatically generated with medium                                                                                                                   For the past 30 years, Joey Johnson has been competing,

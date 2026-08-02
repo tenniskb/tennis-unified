@@ -40,9 +40,9 @@ confidence](media_the-strategy-zone-return-control/media/image2.webp)
 returns.**
 
 Too many players are mesmerized by highlight reel winners. They don't
-understand that ***[[building points is a process and that the
+understand that ***building points is a process and that the
 spectacular shots are the natural outcome of that
-process.]{.mark}]{.underline}***
+process.***
 
 **So, the first step is just to start to think in this way. The next
 step is to master the execution of the components of this process for
@@ -79,9 +79,9 @@ possible.**
 
 **Neutralizing the First Serve**
 
-**[[The neutral zone return is the key to dealing with the big first
+**The neutral zone return is the key to dealing with the big first
 serve, making those big servers play, and taking control on more return
-points.]{.mark}]{.underline}** Many players try to fight fire with fire
+points.** Many players try to fight fire with fire
 when they return against good servers. They think the answer to a huge
 serve is a huge return.
 

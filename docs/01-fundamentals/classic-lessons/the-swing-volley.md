@@ -85,8 +85,8 @@ waist high. **The range of the strike zone is from the waist to the
 shoulder, and a little higher if you are close to the net and hitting
 the ball down into the court.**
 
-**[[Second, grip. You should use your regular, forehand topspin
-grip.]{.mark}]{.underline}**
+**Second, grip. You should use your regular, forehand topspin
+grip.**
 
 **Third, preparation. Because you are much closer to your opponent and
 have less time, an immediate unit turn is critical. This means the

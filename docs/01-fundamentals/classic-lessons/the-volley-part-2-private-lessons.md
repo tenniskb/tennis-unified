@@ -48,14 +48,14 @@ confidence](media_the-volley-part-2-private-lessons/media/image2.webp)
 
 ### Forehand Volley
 
-**[[During a forehand volley, the bent and locked positions of the wrist
+**During a forehand volley, the bent and locked positions of the wrist
 and elbow should be maintained as much as possible because they drive
-and stabilize the shot.]{.mark}]{.underline}**
+and stabilize the shot.**
 
 **Once the framework is established, the opposite shoulder initiates a
 slight turn so that the racquet stays more or less within your
-peripheral vision.** **[[As you turn, you're
-basically just moving your ready position over.]{.mark}]{.underline}**
+peripheral vision.** **As you turn, you're
+basically just moving your ready position over.**
 
 Note that the racquet head is in a 3/4 turn position, or in other words,
 midway between 12 o'clock and 3 o'clock (or 9 o'clock depending on
@@ -70,17 +70,17 @@ confidence](media_the-volley-part-2-private-lessons/media/image3.jpg)
 
 **The correct, laid back wrist position for a forehand volley.**
 
-**[[At the end of the turn (backswing), the edges of the racquet should
+**At the end of the turn (backswing), the edges of the racquet should
 be lined up more or less evenly. At this point, the wrist is back
 against itself and the racquet face is slightly
-open.]{.mark}]{.underline}**
+open.**
 
 This position is critical because it paves the way for correct forward
 hitting motion. **This movement of the racquet forward to the ball is
 driven by the heel of the racquet hand and the butt of the racquet
-handle.** **[[This \"heel-hand\" combination pushes
+handle.** **This \"heel-hand\" combination pushes
 the racquet face to the ball and keeps it firm through
-impact.]{.mark}]{.underline}**
+impact.**
 
 Without this position, there's a strong likelihood the back of the hand
 will initiate the forward swing, creating a wristy, flipping motion and
@@ -201,10 +201,10 @@ Volley the ball while using the correct models, making sure not to let
 your backswing exceed the net and notice how much power you're able to
 generate even without weight transfer.
 
-**[[The reality however, is that more often than not, it's not sheer
+**The reality however, is that more often than not, it's not sheer
 power, but the ability to volley deep or at an angle that wins the
 point. Better placement and a more compact swing go hand in
-hand.]{.mark}]{.underline}**
+hand.**
 
 ### Footwork
 

@@ -119,8 +119,8 @@ The more vertical the swing pattern and/or the greater the swing
 velocity, the more the natural reaction of racquet hand to open toward
 the sky, causing the racquet face to open.
 
-**[[Another way to develop this position is with the image of the
-knuckles pointing somewhat towards the ground.]{.mark}]{.underline}**
+**Another way to develop this position is with the image of the
+knuckles pointing somewhat towards the ground.**
 Every attempt should be made to maintain this image throughout the swing
 path to guarantee consistent contact and the desired reaction of the
 ball off the strings.
@@ -138,10 +138,10 @@ go a long way in a players ability to play at higher levels.
 
 The ability to drive the one-handed backhand with topspin during match
 play is difficult for most club players but can be achieved by improving
-footwork. This is done by **[[learning to hit the one-hander with open
+footwork. This is done by **learning to hit the one-hander with open
 stance positioning, emphasizing the alignment of the back foot with the
 path of the incoming ball (left foot for righties\--right foot for
-lefties).]{.mark}]{.underline}** This can take a while to become
+lefties).** This can take a while to become
 comfortable because, just like an open stance forehand, the trunk of the
 body has to rotate (read: turn position) to generate good power.
 
@@ -242,10 +242,10 @@ efficient in controlling the racquet head. This combination also makes
 the two-hander more efficient in terms of swing length (shorter). This
 makes difficult balls (high and low) easier to handle under pressure.
 
-**[[Much like the forehand and the one-handed backhand, the two key
+**Much like the forehand and the one-handed backhand, the two key
 mental images for the two-hander are of the racquet head above the hands
 at contact, and of the partially closed racquet
-face.]{.mark}]{.underline}**
+face.**
 
 We actually see this physical position-face closed, racquet head above
 wrist\--on more and more balls in the pros, particularly high balls.
@@ -287,9 +287,9 @@ be on time more often.
 I also had to focus much more on the image of the closed racquet face at
 contact and the image of the racquet head above the wrist (having
 previously played with two-hands made this process much easier).
-**[[What I like about the one-hander is the explosive nature of the
+**What I like about the one-hander is the explosive nature of the
 shot. Hitting a great one-handed backhand is far more thrilling then
-hitting a great two-handed shot.]{.mark}]{.underline}**
+hitting a great two-handed shot.**
 
 **The two-hander allowed me more freedom to
 adjust.** Simply put, I did not have to be as good
@@ -297,8 +297,8 @@ with the two-hander. I could get away with slight errors in movement and
 technique and still compete well. Both mentally and physically, it was
 easier to adapt to difficult balls with two hands. I started playing
 with the two-hander as a teenager because my heroes, Borg and Evert used
-it, and as a beginner, I found **[[the two-hander much easier to learn
-than even the forehand.]{.mark}]{.underline}**
+it, and as a beginner, I found **the two-hander much easier to learn
+than even the forehand.**
 
 **I did learn how to hit a one-handed slice later, mainly out of the
 necessity to reach for wide balls and low balls.**

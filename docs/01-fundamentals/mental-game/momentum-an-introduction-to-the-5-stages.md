@@ -136,8 +136,8 @@ These articles are about the flow of momentum and controlling it in each
 of the 5 Stages. They will explain why momentum fluctuates, how you can
 control it and how to make it work in your favor.
 
-**[[They cover the real problems that tennis players face such
-as:]{.mark}]{.underline}**
+**They cover the real problems that tennis players face such
+as:**
 
 - **How to hold on to a lead.**
 

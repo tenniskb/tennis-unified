@@ -41,11 +41,11 @@ confidence](media_the-myth-of-the-archer-s-bow/media/image2.webp)
 **Shoulder tilt at the extension of the tossing arm, and then reversed
 at the contact.**
 
-***[[The initial tilt is with the left front shoulder higher at an angle
+***The initial tilt is with the left front shoulder higher at an angle
 of 30 to 45 degrees to the right or rear. Then less than a third of a
 second later, this angle reverses at contact. The left shoulder descends
 and the right shoulder rises with the right shoulder now above the left
-at about the same incline.]{.mark}]{.underline}***
+at about the same incline.***
 
 **[The research shows this \"shoulder over shoulder\" motion is an
 important element in creating racket speed.]{.mark}** But how is it
@@ -94,9 +94,9 @@ over the court. Could that be the real key?]{.mark}***
 waist and \"jut\" their front hip forward. But the reality is this just
 doesn't happen in good serving to any significant extent.]{.mark}***
 
-**[[The torso as a whole is angled back, this is true. But this is the
+**The torso as a whole is angled back, this is true. But this is the
 natural consequence of the knee bend. The deeper the knee bend the more
-pronounced the angle.]{.mark}]{.underline}**
+pronounced the angle.**
 
 ***[But there is no additional leaning back from the waist. In fact the
 hips and the torso stay aligned.]{.mark}***
@@ -108,10 +108,10 @@ confidence](media_the-myth-of-the-archer-s-bow/media/image4.webp)
 **Watch how the knee bend angles the torso backward, but that the hips
 stay in line with the upper body.**
 
-**[[At the bottom of the knee bend, look at the line between the hips
+**At the bottom of the knee bend, look at the line between the hips
 the upper torso. It's straight. The hips and torso are dropping
 together as the knees go down. There is no independent movement from the
-waist.]{.mark}]{.underline}**
+waist.**
 
 The angle of the torso helps set the player up for the shoulder over
 shoulder motion in the upward swing. But this angle is created naturally

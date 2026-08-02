@@ -142,7 +142,7 @@ outcome.]{.mark}]{.underline}**
 **Cognitive Component**
 
 **The second component is the cognitive**
-**[[component.]{.mark}]{.underline} Your mind and imagination are
+**component. Your mind and imagination are
 extremely important tools in your entire high performance tool chest.
 \"For as you think so shall you be\". That's a concept that you find
 not only in sports, but in philosophy, religion, and psychology.**
@@ -187,9 +187,9 @@ disappointment of any previously botched points. And you avoid allowing
 your attention to shift forward to future points which may reveal the
 outcome of the match.**
 
-**[[When you are present in the moment you are not lost in either the
+**When you are present in the moment you are not lost in either the
 past or the future. You will find it easier to enjoy the competition and
-play with commitment and confidence.]{.mark}]{.underline}**
+play with commitment and confidence.**
 
 **Attentional Techniques**
 

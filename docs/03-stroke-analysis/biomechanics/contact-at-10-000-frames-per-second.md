@@ -182,9 +182,9 @@ contact times. Not all the data fit perfectly, but in general terms
 contact turned out to be significantly shorter than the generally
 published figure of 5 milliseconds. They were closer to 4 milliseconds .
 
-**[[So, for normally tensioned rackets contact time was 20% lower than
+**So, for normally tensioned rackets contact time was 20% lower than
 the published figure. But lowering tension significantly increased the
-contact time, by as much as 20% more.]{.mark}]{.underline}**
+contact time, by as much as 20% more.**
 
 A 20% increment is huge in any sport. In tennis that's the difference
 between a 100mph serve and a 120mph serve. So, the extra contact time
@@ -271,22 +271,22 @@ regular players.
 
 **When contact is about 4 milliseconds on average, this translates to
 a carry distance of about 1 inch. This is the distance the racket moves
-while the ball is on the strings.** **[[So your
+while the ball is on the strings.** **So your
 entire shot is all about the 1 inch that you have the ball on the
-racket.]{.mark}]{.underline}**
+racket.**
 
-**[[Lowering tension from 67 pounds to 37 pounds increased contact time
+**Lowering tension from 67 pounds to 37 pounds increased contact time
 by about 1 millisecond. This translated to another quarter inch or so of
-carrying time.]{.mark}]{.underline}**
+carrying time.**
 
-**[[Most pros are trending toward 100% poly, though some are using
+**Most pros are trending toward 100% poly, though some are using
 hybrid stringing\--gut in one direction, poly in the other. This
 probably explains why most pros are trending toward lower
-tension.]{.mark}]{.underline}**
+tension.**
 
-**[[They feel they can do more with the ball with the longer contact
+**They feel they can do more with the ball with the longer contact
 time. And at the higher ball velocities than in our study, the contact
-times and carry distances could be even longer.]{.mark}]{.underline}**
+times and carry distances could be even longer.**
 
 ![A picture containing sky, green, tennis Description automatically
 generated](media_contact-at-10-000-frames-per-second/media/image8.webp)

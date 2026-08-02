@@ -20,10 +20,10 @@ Does Roger actually put the racket completely flat on the table top?
 Rarely. Roger closes the racket face but mostly to lesser degrees. And
 he also closes it at different points in the swing.
 
-**[[Rarely is his racket fully face down---that only happens on really
+**Rarely is his racket fully face down---that only happens on really
 low balls like in the animation above. Does he do it intentionally? No
 it's a natural consequence of other underlying
-factors.]{.mark}]{.underline}**
+factors.**
 
 **Accuracy**
 
@@ -118,9 +118,9 @@ to studying tennis after a few years, means that you turn the racket
 face down parallel to the court surface as if you were \"patting a
 dog.\" Get it?
 
-**[[So does pat the dog happen? Yes sometimes. Does it always happen
+**So does pat the dog happen? Yes sometimes. Does it always happen
 with the racket face fully down parallel to the court? Again,
-no.]{.mark}]{.underline}**
+no.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -239,11 +239,11 @@ From this position***[, his entire arm and the racket then rotate
 backwards or clockwise as a unit from the shoulder joint. Technically
 that backward rotation is called external shoulder rotation.]{.mark}***
 
-***[[This backward rotation is then immediately followed by the forward
+***This backward rotation is then immediately followed by the forward
 or counter clockwise rotation of the arm and racket in the forward
 swing. Technically that is called internal shoulder rotation. The two
 rotations are continuous and flow one into the
-other.]{.mark}]{.underline}***
+other.***
 
 Guess what? ***[The first rotation, backwards or the external rotation,
 pre stretches the muscles and, to use another trendy term, creates a
@@ -309,9 +309,9 @@ slightly closed, say at about 30 degrees to the court surface at
 most.*** ([Click
 Here](https://www.tennisplayer.net/members/high_performance/rick_macci/develop_atp_forehand/).)
 
-***[[From there Rick tells players to straighten out the arm and then
+***From there Rick tells players to straighten out the arm and then
 just pull the racket forward and hit the ball! The right amount of pat
-will happen naturally.]{.mark}]{.underline}***
+will happen naturally.***
 
 This \"tap the dog\" is the position Federer achieves on his own
 backswing. Then when Roger moves to his straight arm hitting position,

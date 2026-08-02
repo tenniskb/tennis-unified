@@ -239,8 +239,8 @@ generated](media_the-one-handed-topspin-backhand-hitting-stances/media/image9.we
 
 **And the Implication?**
 
-***[[Executing from the extreme closed stance takes phenomenal strength
-and also tremendous balance.]{.mark}]{.underline}*** Note how, in all
+***Executing from the extreme closed stance takes phenomenal strength
+and also tremendous balance.*** Note how, in all
 the examples, the players stay almost completely erect or straight up
 and down from the waist. This upright torso position is a prerequisite
 to making the extreme stance work so the shoulders and legs can increase

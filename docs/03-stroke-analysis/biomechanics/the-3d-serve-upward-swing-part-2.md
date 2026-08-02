@@ -98,10 +98,10 @@ confidence](media_the-3d-serve-upward-swing-part-2/media/image4.gif)
 
 **Motion Dependent Effects**
 
-***[[The second engine is what I call the motion dependent effect. This
+***The second engine is what I call the motion dependent effect. This
 is a torque that is not created directly by muscular contraction. Rather
 it is created by joint torques and joint forces elsewhere in the chain
-of the motion.]{.mark}]{.underline}***
+of the motion.***
 
 We introduced this concept when we discussed racquet drop in the back
 swing. The animation shows how this works. In this hypothetical
@@ -288,10 +288,10 @@ pronation.**
 ***In the popular literature, the term pronation is used to describe a
 vast array of motions.*** **[These include the
 turning of the racket after contact, and turning of the hand and wrist
-at various points of the swing.]{.mark}** ***[[But anatomically, the
+at various points of the swing.]{.mark}** ***But anatomically, the
 terms pronation and supination specifically refer to the twist rotation
 of the forearm independent of the upper arm
-rotation.]{.mark}]{.underline}***
+rotation.***
 
 ***Forearm pronation is controlled by joint torque throughout the
 upward swing.*** **[Initially in the upward swing,
@@ -311,10 +311,10 @@ racket.**
 coaching, its impact is arguably much less than the upper arm in
 creating racquet speed on the serve. *The fact is that much of the
 forearm rotation observed by coaches is due to shoulder internal
-rotation, and not independent forearm pronation.*]{.mark}** ***[[The
+rotation, and not independent forearm pronation.*]{.mark}** ***The
 reality is that independent forearm pronation is used more for
 positioning the wrist joint and racquet head than for generating racquet
-head speed.]{.mark}]{.underline}***
+head speed.***
 
 **The Hand/Racquet**
 
@@ -344,11 +344,11 @@ dependent.**
 ***Ulnar deviation has its greatest influence at the time elbow
 extension is being driven by the joint force at the elbow. This means
 that it is also driven by the actions of the trunk and shoulder that
-actually create the elbow joint force.*** ***[[This
+actually create the elbow joint force.*** ***This
 observation highlights how a seemingly simple joint motion can occur due
 to an intricate pattern of body motions \-- motions that if not
 understood by coaches can yield sub-standard or even dangerous
-results.]{.mark}]{.underline}***
+results.***
 
 **Late in the upward swing, forearm pronation positions the wrist
 flexion axis so that wrist flexion can have the biggest impact on the
@@ -381,10 +381,10 @@ should be reevaluated. Statements such as \"snap here\" or \"extend
 there\" only make sense if made in the context of the overall motion and
 with an understanding of the unintended consequences.]{.mark}***
 
-**[[For every action, there is a reaction. Advice to initiate a muscular
+**For every action, there is a reaction. Advice to initiate a muscular
 contraction to move a joint in a certain way can actually do far more
 harm than good if other factors throughout the body have not been
-considered.]{.mark}]{.underline}**
+considered.**
 
 **We have to keep this complexity in mind when we use great players as
 models for our strokes. A top player may have an isolated observable
@@ -492,7 +492,7 @@ technique, the elbow is never correctly positioned during the upward
 swing. [This means it does not move upward and/or forward from the
 shoulder joint.]{.underline}**
 
-**[[This can happen for two reasons.]{.mark}]{.underline}**
+**This can happen for two reasons.**
 
 **First, the elbow positioning occurs strictly as a function of trunk
 rotation [without independent shoulder joint motion.]{.underline}**

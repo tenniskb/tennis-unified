@@ -48,20 +48,20 @@ neutral zone or angle returns.
 **Hurt**
 
 Once you understand how to gain control of the opponent, it's time to
-move on. **[[You next learn to dominate them by using shot patterns or
+move on. **You next learn to dominate them by using shot patterns or
 combinations. This intermediate phase is
-\"Hurt.\"]{.mark}]{.underline}**
+\"Hurt.\"**
 
 **Without mastery of the Hurt phase, you will never develop the
 ability to hit consistent winners.** **Andre did
 it by dominating the center of the court with change of
-direction.** **[[But too many players without a
+direction.** **But too many players without a
 fraction of Andre Agassi's talent try to skip over the Hurt Phase and
-try to finish points too rapidly.]{.mark}]{.underline}**
+try to finish points too rapidly.**
 
-**[[Often that results in needless unforced errors, trying to hit
+**Often that results in needless unforced errors, trying to hit
 winners at the wrong time, or from the wrong place on the
-court.]{.mark}]{.underline}** Let's see how this critical phase worked
+court.** Let's see how this critical phase worked
 not only for Andre and how you can develop it yourself.
 
 ![A person playing tennis Description automatically generated with
@@ -120,9 +120,9 @@ just watching Andre Agassi!
 **Players obsess about their technique and how to hit with more pace
 and generate more spin. This is often misplaced focus, and a huge
 mistake in priorities if you actually want to win
-matches.** **[[Commit to developing the ability to
+matches.** **Commit to developing the ability to
 change directions and go either way on either side on any
-ball.]{.mark}]{.underline}** I challenge you, and I could not feel more
+ball.** I challenge you, and I could not feel more
 strongly about it! If you succeed, I guarantee you will see your results
 improve by many levels.
 
@@ -150,10 +150,10 @@ basis for your 1-1 Combinations in matches. But over time you should
 also work to become equally accurate and confident with all the
 potential variations.
 
-**[[The time to change directions is when the first shot has stretched
+**The time to change directions is when the first shot has stretched
 the opponent, moved him off the court, and/or forced him off balance.
 You need to experiment to find which patterns are most effective against
-a given opponent.]{.mark}]{.underline}**
+a given opponent.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -202,17 +202,17 @@ the inside position.]{.mark}** **Two inside out forehands, then an
 inside in, for example. Or the opposite, two inside ins and then the
 inside out. You get the idea.**
 
-**[[The determination of which of these patterns to use and when to use
+**The determination of which of these patterns to use and when to use
 them should be based on your own accuracy and comfort level with a given
 pattern\--and your assessment of the strength of the replies from your
-opponents.]{.mark}]{.underline}**
+opponents.**
 
 **The success of using all these combinations comes from the knowledge
 of when to use them.** **The basic idea is to set
 up the change of direction with a series of 1-1 Combinations, then throw
 in the 2-1.** **Now you have introduced an
-element of uncertainty.** **[[What will you hit
-next? A 1-1 Combo? Another 2-1 Combo?]{.mark}]{.underline}**
+element of uncertainty.** **What will you hit
+next? A 1-1 Combo? Another 2-1 Combo?**
 
 **You want your opponent to be unsure about what to anticipate
 next.** **When you mix the combinations

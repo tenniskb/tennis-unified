@@ -109,23 +109,23 @@ generated](media_the-half-volley/media/image5.webp)
 
 **Rhythm, balance, knee bend, perfect!**
 
-**[[There is also a body turn, usually about half that of a
+**There is also a body turn, usually about half that of a
 groundstroke. It's also vital to get down low with a deep knee bend so
 your eyes are as close to the level of impact as possible. Stay down
 long enough to make solid contact with the ball and continue to let your
 body weight move forward as you gradually and smoothly elevate your
-knees.]{.mark}]{.underline}**
+knees.**
 
 According to research by the German Tennis Federation, the available
 time for a volley is often as little as a half second, so timing is
 crucial. You want to use your opponent's power.
 
-**[[This means the faster the oncoming ball, the shorter the backswing.
-This may mean the racket points at the side fence]{.mark}]{.underline}**
+**This means the faster the oncoming ball, the shorter the backswing.
+This may mean the racket points at the side fence**
 
-**[[The follow-through on the half volley should be smooth and
+**The follow-through on the half volley should be smooth and
 controlled and is usually significantly shorter than a normal
-groundstroke follow-through.]{.mark}]{.underline}**
+groundstroke follow-through.**
 
 **Contact**
 
@@ -145,10 +145,10 @@ of the strings. So, you must do everything right to half volley crisply
 and deep.
 
 **Generally, you contact the ball with a vertical racket face that is
-perpendicular to the ground.** **[[But on some half
+perpendicular to the ground.** **But on some half
 volleys, especially closer to the net, to hit the ball with enough
 upward trajectory, you may have to open the racket face slightly and
-swing more upward than usual.]{.mark}]{.underline}**
+swing more upward than usual.**
 
 **Rhythm**
 
@@ -178,10 +178,10 @@ your opponent is positioned where your down-the-line shot would go, and
 if you have the time, go aggressively crosscourt and
 deep.]{.underline}***
 
-**[[In doubles, the key is to keep your half volley away from the net
+**In doubles, the key is to keep your half volley away from the net
 player. When both opponents are positioned at net, use more topspin and
 lower your net clearance to keep the ball at their
-feet.]{.mark}]{.underline}**
+feet.**
 
 **Baseline Half Volleys**
 

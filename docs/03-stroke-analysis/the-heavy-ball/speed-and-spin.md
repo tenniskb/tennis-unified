@@ -181,13 +181,13 @@ by half or more between the players. Was it the same for the spin?
 Surprisingly the answer was no. In fact the answer was the opposite.
 Speed decreased by half. But in the same interval spin actually doubles.
 
-**[[That's correct the spin doubles! It actually increases over the
+**That's correct the spin doubles! It actually increases over the
 flight of the ball. How is that possible? There are two things to
 consider. First, spin isn't affected as the ball travels through the
 air the same way as speed. Second, the friction of the bounce increases
 the amount of spin before the return. At the moment the ball hits the
 court, the friction reduces the speed, but at the same time, it actually
-generates great additional spin.]{.mark}]{.underline}**
+generates great additional spin.**
 
 **How? The court \"grabs\" the bottom of the ball. But the top of the
 ball continues to rotate. The net effect is the loss of speed, but the
@@ -284,11 +284,11 @@ generated](media_speed-and-spin/media/image9.webp)
 sidespin or slice**. **This is mixed with a
 smaller topspin component**. This insight has
 important teaching implications for the serve, as we will see in our
-next article. **[[The topspin component may be the minority component,
+next article. **The topspin component may be the minority component,
 but the relative amount of topspin turns out to be the key to
 understanding the difference in the serves of Sampras and Rusedski, and
 also, the differences we discovered in the spin after the
-bounce.]{.mark}]{.underline}**
+bounce.**
 
 Using Nasif's software we were able to break down the spin on their
 serves into its sidespin and topspin components as the ball left the
@@ -400,10 +400,10 @@ implications?**
 
 The Advanced study showed conclusively that many of the traditional
 coaching ideas regarding spin serves are not based on reality. We will
-explore them in the next article. **[[But it is important to note that
+explore them in the next article. **But it is important to note that
 the role of topspin is just one factor in a great serve. Heavy topspin
 in and off itself doesn't make a serve effective, or even
-heavy.]{.mark}]{.underline}** We saw that Sampras combined heavy spin
+heavy.** We saw that Sampras combined heavy spin
 with certain velocity levels. Less speed and more spin wouldn't have
 produced the same result. Certainly, in women's tennis we see less
 topspin, and as we'll examine, that may have to do with the issue of

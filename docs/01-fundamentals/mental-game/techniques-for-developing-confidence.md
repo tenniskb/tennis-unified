@@ -102,19 +102,19 @@ from \"what ifs.\" What if I double fault?\" The list of possible
 negative consequences and \"what-if\" scenarios goes on and on in
 tennis.
 
-**[[If you focus on the here and now, you perform in the moment. When
+**If you focus on the here and now, you perform in the moment. When
 you perform in the moment, you are likely to perform with more
-confidence.]{.mark}]{.underline}**
+confidence.**
 
-**[[To achieve this focus on process, you must concentrate on the things
+**To achieve this focus on process, you must concentrate on the things
 that you can control. Some examples of these are practice efficiency and
 intensity, routines, game plans, technique assessment, and reaction to
 your own thoughts and feelings\--even your reaction to the ebbs and
-flows in your confidence itself.]{.mark}]{.underline}**
+flows in your confidence itself.**
 
-**[[Focus on these controllable elements, instead of uncontrollable
+**Focus on these controllable elements, instead of uncontrollable
 factors like the weather, what other people think or say, or the
-coaches' decisions.]{.mark}]{.underline}**
+coaches' decisions.**
 
 ![A person hitting a ball with a tennis racket Description automatically
 generated](media_techniques-for-developing-confidence/media/image4.jpg)

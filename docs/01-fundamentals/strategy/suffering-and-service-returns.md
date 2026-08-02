@@ -38,9 +38,9 @@ and emotional boundaries. Eventually they reached a place where the pain
 was actually welcomed and enjoyed, a place they had been searching for
 their entire lives even if they only realized it in the moment.
 
-**[[The message for any tennis player is this. You win in sport when you
+**The message for any tennis player is this. You win in sport when you
 don't give up -- not when you come out ahead in the
-score.]{.mark}]{.underline}**
+score.**
 
 The match was a shining example of how sport can shape us as players and
 people. Refusal to submit is the great lesson and the great prize.

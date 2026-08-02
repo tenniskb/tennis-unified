@@ -64,10 +64,10 @@ the back leg either stays in place or in most cases actually moves in
 the opposite direction, backwards behind the player. Why is this
 important?
 
-**[[Because of its impact on the rotation of the hips. Yes, the hips
+**Because of its impact on the rotation of the hips. Yes, the hips
 rotate. But if the hips rotate too much too soon, they reduce the
 transfer of power and cause the arms and racket to come across the body
-too far and too soon.]{.mark}]{.underline}**
+too far and too soon.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -77,9 +77,9 @@ confidence](media_true-alignment-the-two-handed-backhand/media/image4.webp)
 amount of rotation of the hips.**
 
 **The movement of the back foot controls the timing of this
-rotation** **[[and the correct timing of this
+rotation** **and the correct timing of this
 rotation naturally and automatically maximizes the acceleration of the
-hitting arms and racket.]{.mark}]{.underline}**
+hitting arms and racket.**
 
 Let's look at what happens in open stance first. Then we will look at
 neutral, and then finally closed. Closed stance is much more advanced
@@ -117,9 +117,9 @@ confidence](media_true-alignment-the-two-handed-backhand/media/image5.webp)
 semi-open stance.**
 
 A lot of teaching pros teach neutral stance hitting first to create good
-turning habits, then move to the open stance. I do the reverse. **[[I
+turning habits, then move to the open stance. I do the reverse. **I
 start with proper positioning of the back foot by working on open stance
-hitting then move to more neutral stance hitting.]{.mark}]{.underline}**
+hitting then move to more neutral stance hitting.**
 
 **The backhand movement is initiated by the rear or outside foot. This
 is important because the final step into the setup is on the same

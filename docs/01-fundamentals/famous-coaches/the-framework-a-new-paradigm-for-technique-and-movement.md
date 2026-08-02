@@ -75,9 +75,9 @@ players cannot create the same mastery in all directions.**
 
 When doing simple hand-feeding or racquet feeding the stroke looks
 better. The swing finds a better length. Loading is fuller. Contact
-point cleans up. **[[But as soon as the practice goes to live ball and
+point cleans up. **But as soon as the practice goes to live ball and
 the player begins to deal with the complications of real play, the
-seemingly remedied issue comes back.]{.mark}]{.underline}**
+seemingly remedied issue comes back.**
 
 You revisit the fixes. For a few moments all seems better, but then the
 problems return and haunt your student and you.

@@ -41,10 +41,10 @@ and forced to hit the ball off running steps.
 
 But the idea isn't necessarily to play defensive tennis, and defensive
 Contact Moves aren't necessarily associated with \"pushing\" or a
-defensive strategic style. **[[The idea behind these Contact Moves is
+defensive strategic style. **The idea behind these Contact Moves is
 something else: to make a successful shot from a defensive position.
 This can be a very aggressive shot, or even a
-winner.]{.mark}]{.underline}**
+winner.**
 
 What we are talking about is a situational response to what is happening
 in a given point. A Defensive Contact Move can help you hit a shot that
@@ -95,9 +95,9 @@ player to maintain balance.**
 The reduced rotation has to do with the pattern of the footwork. The
 player is on the dead run and moving basically sideways. After the hit
 he lands on the front foot, continuing in the same direction he was
-moving. **[[Usually this means when the front foot lands, it is more or
+moving. **Usually this means when the front foot lands, it is more or
 less pointing at the sideline. With the front foot facing sideways, the
-rotation is naturally reduced.]{.mark}]{.underline}**
+rotation is naturally reduced.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -138,7 +138,7 @@ dots to train elite junior players to master the Power Move first
 without the ball. This is a great approach for players at any level who
 want to improve their running forehands.
 
-**[[The progression is:]{.mark}]{.underline}**
+**The progression is:**
 
 - **[running steps toward the ball]{.mark}**
 
@@ -247,9 +247,9 @@ the swing extending.**
 
 **One-Handed Power Move**
 
-**[[On the Power Move, with the one-handed backhand, the torso tends to
+**On the Power Move, with the one-handed backhand, the torso tends to
 stay more sideways naturally, as is the case with the one-handed stroke
-in general.]{.mark}]{.underline}** This is true whether the front foot
+in general.** This is true whether the front foot
 lands pointing sideways or more forward toward the net. Again, watch the
 sequence of the running steps, the running open stance, the front foot
 landing, the kick back and the break step.

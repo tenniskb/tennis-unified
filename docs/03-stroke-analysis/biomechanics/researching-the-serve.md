@@ -378,7 +378,7 @@ location.**
 resembles other physical motions such as, throwing, kicking, and
 striking.** Movement scientists have identified a
 general principle to explain force production in these movements. This
-is called **[[\"proximal to distal sequencing.\"]{.mark}]{.underline}**
+is called **\"proximal to distal sequencing.\"**
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ![A picture containing text Description automatically

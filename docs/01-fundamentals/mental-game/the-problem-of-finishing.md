@@ -24,18 +24,18 @@ the ones that are forever getting angry or depressed when they make
 mistakes on the tennis court - simply suffer from an immature and
 distorted view of reality.
 
-**[[Of course, they make mistakes, and of course they don't like making
+**Of course, they make mistakes, and of course they don't like making
 mistakes. Nobody does. But they have not yet accepted the truth that
 they make mistakes because it is impossible not to make them, and it
 always will be. That's the reality of the situation, and it's a
-reality they are not yet able to accept.]{.mark}]{.underline}**
+reality they are not yet able to accept.**
 
-**[[Calling the trait \"perfectionism\" turns it into more of a virtue
+**Calling the trait \"perfectionism\" turns it into more of a virtue
 than it is and allows them to continue getting angry at mistakes they
 can't help. If they saw the issue as one of being simply immature and
 unrealistic (which are faults, not virtues) they might have to take
 action to correct it, which they are not yet prepared to
-do.]{.mark}]{.underline}**
+do.**
 
 One of my later teams when I was coaching at Pepperdine included a young
 player from France named Charles Auffray. He had been a walk-on as a
@@ -245,11 +245,11 @@ realistic perspective.**
 enjoyment, and regardless of your level, it should continue to be
 fun.**
 
-**[[Many aspects of the game are impossible to control so failures in
+**Many aspects of the game are impossible to control so failures in
 these areas must be unemotionally accepted so you can move on. Worrying
 about losing and mentally punishing yourself for failures that can't be
 controlled simply make the game overly emotional, hurt your confidence,
-and take the fun out of playing.]{.mark}]{.underline}**
+and take the fun out of playing.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

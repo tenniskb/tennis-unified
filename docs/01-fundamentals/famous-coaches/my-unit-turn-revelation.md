@@ -114,9 +114,9 @@ generated](media_my-unit-turn-revelation/media/image4.webp)
 
 If you recall from my first article in this series ([Click
 Here](The%20Framework%20-%20A%20New%20Paradigm%20for%20Technique%20and%20Movement.docx)),
-rule number #4 of the Framework is that **[[players should strive for
+rule number #4 of the Framework is that **players should strive for
 continuous, smooth acceleration/ deceleration of movement and
-swings.]{.mark}]{.underline}** Many players at the club level are very
+swings.** Many players at the club level are very
 slow to move out of the ready position.
 
 So what is the exact sequence? After the split, the feet, hips and
@@ -126,9 +126,9 @@ needs to happen before the player takes one step.
 **Grip Change**
 
 One essential element that can be difficult is to make sure you have the
-correct grip as you start this push to the shot. **[[The grip change
+correct grip as you start this push to the shot. **The grip change
 needs to be completed before the player pushes
-off.]{.mark}]{.underline}**
+off.**
 
 The difficulty of mastering this grip shift should not be
 underestimated. I have had high level juniors who make the grip change a
@@ -173,10 +173,10 @@ push.
 Now let's go back to Djokovic's return. Watching him that day at
 Wimbledon, I began to refine the rules of the Framework.
 
-**[[Rule #1 states that movement and racquet work must be analyzed in
+**Rule #1 states that movement and racquet work must be analyzed in
 tandem. Rule \# 3 argues players should strive to reduce variables. And
 Rule #4 says that a player should strive for smooth acceleration and
-deceleration of movement and swings.]{.mark}]{.underline}**
+deceleration of movement and swings.**
 
 ![A person playing tennis Description automatically generated with
 medium

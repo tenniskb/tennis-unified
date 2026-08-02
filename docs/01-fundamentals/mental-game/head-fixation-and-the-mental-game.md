@@ -28,14 +28,14 @@ Why? Holding a fixed head position after contact can be the key to
 staying in the present moment. This in turn helps players deal with
 pressure in a variety of interrelated ways.
 
-**[[Most tennis players lift their eyes and pull their heads up before
+**Most tennis players lift their eyes and pull their heads up before
 the ball reaches the racket. Their anxiety to follow their shot
 trajectory indicates that they are not truly in the
-present.]{.mark}]{.underline}**
+present.**
 
-**[[Their concern is the outcome of the shot, rather than its execution.
+**Their concern is the outcome of the shot, rather than its execution.
 This concern about the future has a negative impact on what actually
-occurs.]{.mark}]{.underline}**
+occurs.**
 
 ![A person playing tennis Description automatically
 generated](media_head-fixation-and-the-mental-game/media/image2.webp)
@@ -52,10 +52,10 @@ happened.**
 
 **Control**
 
-**[[It's critical that players recognize what they can control, and
+**It's critical that players recognize what they can control, and
 what they cannot. Focusing on a process key such as head fixation is
 something that is within the player's control on every ball he
-strikes.]{.mark}]{.underline}**
+strikes.**
 
 There are many areas where players can experience a loss of control:
 wind, sun, temperature, opponent and spectator behavior, types of

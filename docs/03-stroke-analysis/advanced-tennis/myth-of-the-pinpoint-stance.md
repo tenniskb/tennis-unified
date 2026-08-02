@@ -458,10 +458,10 @@ Advanced Tennis quantitative three-dimensional work we did with a top
 college player that actually measured the negative effects of an extreme
 Pinpoint Stance in terms of his racquet head speed.)
 
-My conclusion? ***[[The real leg action on the serve comes from the
+My conclusion? ***The real leg action on the serve comes from the
 uncoiling of the front leg. The back leg is mostly along for the ride
 (except for the kick back motion as you leave the
-court).]{.mark}]{.underline}*** I've seen it in pro players, and I've
+court).*** I've seen it in pro players, and I've
 proved it to myself and on my teaching court. Develop it, perfect it,
 and more than likely you'll serve much better as well.
 

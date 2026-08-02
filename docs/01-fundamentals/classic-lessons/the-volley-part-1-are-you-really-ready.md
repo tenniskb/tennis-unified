@@ -188,8 +188,8 @@ shot.
 
 ### The Split Step
 
-**[[The timing of the split step is critical. It should occur just
-before the ball is hit.]{.mark}]{.underline}** This applies to wherever
+**The timing of the split step is critical. It should occur just
+before the ball is hit.** This applies to wherever
 you are prior to volleying. If you're working your way forward you
 don't want to sacrifice balance or the ability to read the ball in an
 effort to get as close to the net as possible.

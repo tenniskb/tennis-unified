@@ -34,8 +34,8 @@ hand, anyone of which may work for you. **What's most important is
 the momentum or lift from the arm, followed by the angle of the arm, and
 also, the relative inactivity of the wrist.**
 Another factor is the spreading of the fingers as the ball is released.
-My suggestion is to **[[hold the ball so that the middle of the ball
-rests between the top two joints of your fingers.]{.mark}]{.underline}**
+My suggestion is to **hold the ball so that the middle of the ball
+rests between the top two joints of your fingers.**
 The little finger stays pretty much unattached throughout, but obviously
 that can vary from player to player. If you move the ball more towards
 the fingertips, you'll be more inclined to snap your wrist back towards
@@ -138,10 +138,10 @@ generated](media_the-opposite-arm-other-strokes-part2/media/image5.webp)
 **The opposite arm folds and then leads the follow-through.**
 
 So what happens after the arm extends? This is something else that is
-commonly misunderstood and/or neglected. **[[The opposite arm should
+commonly misunderstood and/or neglected. **The opposite arm should
 relax and then release down into the midsection with an approximately 90
 degree bend at the elbow. This acts to slow down the trunk thereby
-accelerating the arm and racket.]{.mark}]{.underline}** Though some
+accelerating the arm and racket.** Though some
 players will leave the tossing arm in this folded position all the way
 to the serve's conclusion, **more commonly the left arm will lead the
 racket into the follow through. This should happen naturally if the arm
@@ -213,10 +213,10 @@ contact.**
 
 For the return of serve, the non-racket hand should assist in grip
 changes. For one handers while waiting to return, the racket should be
-supported by the non-racket hand at the throat. **[[This allows the
+supported by the non-racket hand at the throat. **This allows the
 racket hand to hold the handle very lightly which makes it easier for
 the non-racket hand to physically assist in the grip
-change.]{.mark}]{.underline}** I actually like this position for a
+change.** I actually like this position for a
 two-hander as well, again because of the light grip pressure it
 encourages. If you try it, just remember to immediately slide the hand
 down for a backhand, and make sure you don't have a gap in the grip.
@@ -231,10 +231,10 @@ two-handed grip if that works better for you.
 On the forehand return the non racket hand stays on the racket as the
 backswing or coil is initiated. This is the same idea as on the forehand
 groundstroke. But watching high speed video of world class players shows
-that on returns, especially high velocity first serves, **[[the hand
+that on returns, especially high velocity first serves, **the hand
 releases a little sooner. The left arm definitely comes across the body,
 but rarely reaches full extension as on the
-groundstrokes.]{.mark}]{.underline}**
+groundstrokes.**
 
 Obviously, the speed of the serve plays the major role in this. It is,
 however, still critical to include the non racket arm during the coil to

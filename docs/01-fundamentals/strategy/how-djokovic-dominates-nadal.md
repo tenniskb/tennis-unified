@@ -88,10 +88,10 @@ his post-match interview that his own game "does not bother" Djokovic.
 He also admitted that Djokovic is in his head, and that losing the four
 previous Masters Series matches affected him more than it should have.
 
-**[[The first key to Djokovic's new game plan in his court position,
+**The first key to Djokovic's new game plan in his court position,
 specifically standing closer to the baseline on the ad side of the
 court. The second is how he uses his backhand from this
-position.]{.mark}]{.underline}**
+position.**
 
 **Nadal has always relied on his heavy forehand to dominate the ad
 court side by using height, depth and spin to force his opponent into a
@@ -100,8 +100,8 @@ record against Roger Federer is almost wholly built around this tactic,
 making his ball jump up around his opponent's shoulders and out of the
 strike zone.
 
-**[[This tactic used to win against Djokovic, but not
-anymore.]{.mark}]{.underline}**
+**This tactic used to win against Djokovic, but not
+anymore.**
 
 Djokovic is now standing up in the court a lot closer to the baseline,
 nullifying Nadal's tactic that used to terrorize him. Djokovic simply
@@ -114,14 +114,14 @@ able to consistently counter with his one-handed backhand.
 
 **Since Djokovic is taking the ball earlier, it has the effect of
 lowering the general height of the rally, making it harder for Nadal to
-continue to get the ball up.** **[[Because the arc
+continue to get the ball up.** **Because the arc
 of the exchanges is also flatter, Djokovic also has taken precious time
-away from Nadal to prepare for the next shot.]{.mark}]{.underline}**
+away from Nadal to prepare for the next shot.**
 
-**[[Robbing Nadal of time is key and has a two-fold effect. It rushes
+**Robbing Nadal of time is key and has a two-fold effect. It rushes
 his preparation for the next shot. Even more importantly, it does not
 allow him the time to run around his backhand and turn it into a
-forehand.]{.mark}]{.underline}**
+forehand.**
 
 Djokovic can now find Nadal's backhand at will. This is a huge
 difference. Making Nadal hit backhands instead of run-around forehands

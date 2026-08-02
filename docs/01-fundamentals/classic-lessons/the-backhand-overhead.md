@@ -17,9 +17,9 @@ the right technique.
 winners in exactly the same way as the regular overhead. The key to
 learning to do this is the [right contact point]{.underline}.]{.mark}**
 
-**[[The problem most players have on the backhand overhead is late
+**The problem most players have on the backhand overhead is late
 contact. They hit the shot at the edge of their dominant
-shoulder.]{.mark}]{.underline} This forces them to abbreviate the swing
+shoulder. This forces them to abbreviate the swing
 and robs the shot of power.**
 
 **I believe the contact point should be much further in
@@ -55,13 +55,13 @@ over the back fence in a tournament match on more than one occasion. In
 addition to winning you a point, that has a psychological effect on your
 opponent.
 
-**[[Whether you play with one hand or two, I believe that all players
+**Whether you play with one hand or two, I believe that all players
 should develop the one-handed backhand overhead. Do you see anybody
-hitting their regular overhead with two hands?]{.mark}]{.underline}**
+hitting their regular overhead with two hands?**
 
-**[[No. And why is that? The range of motion would be limited trying to
+**No. And why is that? The range of motion would be limited trying to
 hit a ball above your head with two hands. The second hand on the racket
-would make a full follow through impossible.]{.mark}]{.underline}**
+would make a full follow through impossible.**
 
 ![A couple of men playing tennis Description automatically
 generated](media_the-backhand-overhead/media/image3.webp)
@@ -124,23 +124,23 @@ confidence](media_the-backhand-overhead/media/image5.webp)
 **The shoulder turn with racket preparation. Note how loosely I hold the
 stick.**
 
-The third component is racket preparation. **[[This starts with the
+The third component is racket preparation. **This starts with the
 body, but the key is the full racket drop, a drop not dissimilar to the
 serve or to the regular overhead. It's just that it's on the other
-side of your body.]{.mark}]{.underline}**
+side of your body.**
 
 **Make sure your shoulders and hips are turned fully sideways to the
-net.** **[[Meanwhile, you move your arm upward and
+net.** **Meanwhile, you move your arm upward and
 backward from the shoulder, with the elbow bent. Your left hand holds
-the stick loosely, thumb at the throat.]{.mark}]{.underline}**
+the stick loosely, thumb at the throat.**
 
-**[[At the completion of the preparation, the butt of the stick is
+**At the completion of the preparation, the butt of the stick is
 pointing upwards at the sky. The tip of the racket falls until it points
-on an angle downward at the court.]{.mark}]{.underline}**
+on an angle downward at the court.**
 
-**[[Your right elbow points upward at the sky as well. This arm position
+**Your right elbow points upward at the sky as well. This arm position
 is what allows you to create fierce racket
-acceleration.]{.mark}]{.underline}**
+acceleration.**
 
 **THE FOURTH STEP: THE SHOT**
 
@@ -164,9 +164,9 @@ reaction and correct technical preparation.
 
 **[After the contact the racket continues and follows through all the
 way across the body.]{.underline}** **The follow through is**
-**viciously fast,** **with a** **[[full weight
+**viciously fast,** **with a** **full weight
 transfer from the rear plant foot to the front step
-foot.]{.mark}]{.underline}**
+foot.**
 
 The result is fluid natural power. When you develop the feel for this
 contact point, you develop confidence that you can hit the ball away.

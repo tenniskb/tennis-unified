@@ -123,9 +123,9 @@ Federer starts with his weight forward on his front foot, standing up on
 his back toes. Then he rocks back and stands up as he starts his windup.
 That initial leaning position is not the key to understanding his
 stance. That a personal ritual, similar to the way Sampras started
-slightly hunched over, with his front toes up in the air. **[[The real
+slightly hunched over, with his front toes up in the air. **The real
 key is to see what happens as he starts his windup and stands up so that
-both feet are flat on the court.]{.mark}]{.underline}**
+both feet are flat on the court.**
 
 What we see at that point is that his front foot is at a slight angle to
 the baseline, a little less than parallel. This angle is a slightly more
@@ -291,8 +291,8 @@ massage, etc.]{.mark}**
 | **The line of the forearm indicates the amount of external rotation.** |  |  |
 
 
-**[[But the point is to develop the best possible racket position given
-whatever natural ability you have.]{.mark}]{.underline}** The alignment
+**But the point is to develop the best possible racket position given
+whatever natural ability you have.** The alignment
 of the racket on the right side of the body with the tip pointing
 basically down at the pro drop position is critical. It's better to do
 this with a higher elbow position than not to do it at all. Otherwise
@@ -429,10 +429,10 @@ left to right motion. Instead the motion breaks off sharply in front of
 them, usually with a restricted followthrough. The whole thing usually
 looks tight and forced.
 
-There are really two separate issues here to consider. **[[The first
+There are really two separate issues here to consider. **The first
 issue is what the biomechanical components of the motion really are,
 their quantitative positions in space and time, and their contributions
-to racket head speed.]{.mark}]{.underline}** This is the important,
+to racket head speed.** This is the important,
 ground-breaking work that Brian and a handful of other researchers like
 Bruce Elliot are doing. **The second issue is how to make this
 happen.** This has been the focus of my work in

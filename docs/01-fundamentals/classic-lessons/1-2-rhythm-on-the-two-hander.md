@@ -205,15 +205,15 @@ confidence](media_1-2-rhythm-on-the-two-hander/media/image7.webp)
 **In the end it's about the feeling and flow that come from great 1-2
 Rhythm.**
 
-**[[Yes, it's important to understand the body, arm, and racket
+**Yes, it's important to understand the body, arm, and racket
 positions during that moment that Part 1 ends and Part 2 begins, but
 those checkpoints shouldn't look forced or
-mechanical.]{.mark}]{.underline}**
+mechanical.**
 
-**[[The checkpoints are not an end in themselves. They are descriptive
+**The checkpoints are not an end in themselves. They are descriptive
 terms used for developing rhythm. And rhythm is not the same thing as
 analysis or understanding. It's not about mechanically making the
-checkpoints - it's using them to develop flow.]{.mark}]{.underline}**
+checkpoints - it's using them to develop flow.**
 
 As we noted in the forehand article, players should develop a key word
 for each Phase. The player can repeat theses key words out loud during

@@ -115,18 +115,18 @@ thus giving the net player less time to cover the volley.
 
 The oversize heads have made it possible to return more serves and
 return more serves more aggressively, as Andre Agassi has pointed out.
-**[[It is possible to hit a high-quality return now without finding the
+**It is possible to hit a high-quality return now without finding the
 precise center of the racket. This was virtually impossible in the days
-of wood.]{.mark}]{.underline}**
+of wood.**
 
-**[[The strings make creating spin far easier. Studies show that poly
+**The strings make creating spin far easier. Studies show that poly
 strings can generate up to 33% more spin than gut or other
-synthetics.]{.mark}]{.underline}**
+synthetics.**
 
 **This allows players to dip the ball at the incoming net player more
-easily.** **[[Clean passing shots can be struck
+easily.** **Clean passing shots can be struck
 from positions on difficult balls that were simply impossible with wood
-rackets.]{.mark}]{.underline}**
+rackets.**
 
 These changes have rendered the conventional down the line slice
 approach---a cornerstone of the older attacking tennis---virtually
@@ -146,14 +146,14 @@ topspin groundstrokes, but travels much slower, relatively speaking.
 This has made coming in behind a slice approach on the first short ball
 something like a suicide charge.
 
-**[[The great additional irony about these changes in strings and
+**The great additional irony about these changes in strings and
 rackets is that they have not only made the groundstrokes substantially
 heavier and more powerful, they have actually made it more difficult to
-volley.]{.mark}]{.underline}**
+volley.**
 
-**[[A good volley is about control and placement, not power. The volley
+**A good volley is about control and placement, not power. The volley
 in most cases is about taking speed off the ball not adding to
-it.]{.mark}]{.underline}**
+it.**
 
 The rackets today make it very difficult to do that since they are so
 alive with power. Deadening the ball with a wood racket was natural and

@@ -226,8 +226,8 @@ confidence](media_the-atp-two-handed-backhand-the-take-back-and-dynamic-slot/med
 **Pushing down with the top left can enhance racket rotation into the
 flip.**
 
-**[[The alternative approach is to actively straighten the top arm elbow
-by pushing downward on the grip.]{.mark}]{.underline} [Because the
+**The alternative approach is to actively straighten the top arm elbow
+by pushing downward on the grip. [Because the
 bottom arm is fully stretched back at the end of the backswing the
 bottom hand is relatively stable at the initiation of the pull. Because
 of this, the left hand can push effectively against the right to enhance

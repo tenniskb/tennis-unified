@@ -75,10 +75,10 @@ playing defense.**
 
 **Offense or Defense**
 
-**[[Against a particular opponent you must decide whether you are
+**Against a particular opponent you must decide whether you are
 primarily going to hit winners yourself and attack, or whether you're
 primarily going to defend and wait for your opponent to make
-errors.]{.mark}]{.underline}**
+errors.**
 
 We can see examples of the success of both offensive and defensive
 strategies in the history of pro tennis. There have been a great many
@@ -156,10 +156,10 @@ exactly the same as a winning volley.**
 
 **Play to Your Advantage**
 
-**[[It's simply untrue that to win a match you have to be better than
+**It's simply untrue that to win a match you have to be better than
 your opponent in every aspect of the game. You simply have to find one
 exchange in which you have a relative advantage and keep working it
-until your opponent cracks.]{.mark}]{.underline}**
+until your opponent cracks.**
 
 **At the start of a match commit to the plan with all the intensity
 you can muster. At the same time, without diminishing your commitment,

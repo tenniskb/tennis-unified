@@ -84,8 +84,8 @@ There are many factors that can go into determining strategy. Consider
 the hours of game film that football coaches watch to analyse opponents
 and determine the most effective strategy for the upcoming match.
 
-**[[But what are the factors that need to be considered in
-tennis?]{.mark}]{.underline}**
+**But what are the factors that need to be considered in
+tennis?**
 
 **The first is the opponent.** Cleary this is
 critical and why a coach like Brad Gilbert is famous for his ability to
@@ -233,11 +233,11 @@ strategies.
 
 **Does your Game Style include all court capability?**
 
-**[[A strategy, obviously, can only succeed if the player has the
+**A strategy, obviously, can only succeed if the player has the
 ability to implement it. It doesn't help to formulate a winning
 strategy if a player cannot actually use it in match play. This is why
 strategy must be based on game style
-capabilities.]{.mark}]{.underline}**
+capabilities.**
 
 So, let's look at a few of the common game styles in both the pro and
 club games. This list is not meant to be exhaustive but just to give an
@@ -301,16 +301,16 @@ Sniper.** This player is very patient and willing
 to stay in rallies for extended periods. Tenacity is a major weapon.
 
 **But if his opponent takes risks the Sniper looks to turn that risk
-against him.** **[[He does this by using the
+against him.** **He does this by using the
 opponent's ball speed or placement to counterattack, hitting
 aggressively himself or creating an even better placement or
-angle.]{.mark}]{.underline}**
+angle.**
 
 **The Sniper may allow or even encourage an opponent to attempt to
 strike first, but his response is often more effective and aggressive
-than the original attack.** **[[By trying to open
+than the original attack.** **By trying to open
 the court, opponents often play right into the strengths of this game
-style.]{.mark}]{.underline}**
+style.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -335,9 +335,9 @@ mixture in the same match. For example: Changing speeds and spins and
 going to net. Dominating with his forehand. Or breaking down attacking
 players with his underrated defense and counterattack.
 
-**[[Obviously, the more components and flexibility in your game style,
+**Obviously, the more components and flexibility in your game style,
 the greater your ability to implement different strategies, and to vary
-your strategies against different opponents.]{.mark}]{.underline}**
+your strategies against different opponents.**
 
 ![A person holding a tennis racket Description automatically
 generated](media_the-four-components-of-match-play-strategy-and-game-style/media/image11.webp)
@@ -346,9 +346,9 @@ generated](media_the-four-components-of-match-play-strategy-and-game-style/media
 
 **Caution!**
 
-**[[It is very important for all players to develop their gamestyles
+**It is very important for all players to develop their gamestyles
 organically. Few or no players have the variety of a Roger Federer. Game
-style can't be forced.]{.mark}]{.underline}**
+style can't be forced.**
 
 But, unfortunately, all too often game style is like Medical School.
 Kids don't make the decision based on their own likes and qualities.

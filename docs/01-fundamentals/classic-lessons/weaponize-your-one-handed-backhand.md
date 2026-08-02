@@ -100,9 +100,9 @@ unorthodox in many ways.
 
 **Creating Rotation**
 
-**[[I believe the fundamental key to weaponizing your topspin backhand
+**I believe the fundamental key to weaponizing your topspin backhand
 is body rotation, specifically hip rotation. The goal is to viciously
-rotate your hips into the shot.]{.mark}]{.underline}**
+rotate your hips into the shot.**
 
 **This rotation is the source of racket speed leading to pace and spin.
 You want to strike the ball with speed not moderation, strike in offense
@@ -111,13 +111,13 @@ rather than in defense.**
 So, let's see how to set up this hip rotation, by looking the
 preparation, including the unit turn and the footwork.
 
-**[[The first point that makes this stroke unusual is the position of
+**The first point that makes this stroke unusual is the position of
 the hands. Unlike virtually any other one-hander, I keep the non
-dominant hand on top of the handle.]{.mark}]{.underline}**
+dominant hand on top of the handle.**
 
-**[[This is similar to the way the majority of two-handers hold the
+**This is similar to the way the majority of two-handers hold the
 racket. But it is unlike any coach will currently
-teach.]{.mark}]{.underline}**
+teach.**
 
 Have you ever seen a baseball player with his batting hands separated in
 the middle of the bat? Only when he bunts. And that's what too many
@@ -151,18 +151,18 @@ together.**
 **Mental Coil**
 
 The coil on the backhand is not just physical. There is what I call the
-\"mental coil\" as well. **[[The will to strike a high velocity flat
+\"mental coil\" as well. **The will to strike a high velocity flat
 shot or a superior rpm topspin shot is also a mental
-thing.]{.mark}]{.underline}**
+thing.**
 
 Having that mental purpose is just as important as the physical coil. A
 flaccid, passive mind will never produce a weaponized backhand. Do not
 mistake relaxation for passivity!
 
 There is a way to relax while ready to strike. The coil is a combination
-of tension and relaxation. **[[Learn to wait in the coil like a snake,
+of tension and relaxation. **Learn to wait in the coil like a snake,
 ready physically and mentally to strike out with full force when the
-target arrives.]{.mark}]{.underline}**
+target arrives.**
 
 **Uncoil**
 
@@ -179,9 +179,9 @@ arm and racket is what generates the ferocious speed and spin.
 chop. This is followed by a full follow-through across and then
 continuing back and to the right.]{.underline}**
 
-**[[Any backhand punch is outlawed by the Queensbury rules in pro
+**Any backhand punch is outlawed by the Queensbury rules in pro
 boxing. It's too powerful to allow in boxing, yet is allowed in martial
-arts. And in tennis.]{.mark}]{.underline}**
+arts. And in tennis.**
 
 **[(How to perform a Karate Chop]{.underline}
 <https://www.youtube.com/watch?v=WRHmf65Rdgw>**
@@ -204,18 +204,18 @@ generated](media_weaponize-your-one-handed-backhand/media/image10.webp)
 
 **The \"arm bar,\" like a 2x4 at contact, straight at the elbow.**
 
-**[[At impact, the arm is \"barred\", like a 2 x 4, with the elbow in
+**At impact, the arm is \"barred\", like a 2 x 4, with the elbow in
 line with the whole arm. If the elbow is bent, not as much force is
-applied to the shot.]{.mark}]{.underline}**
+applied to the shot.**
 
 **A bent elbow means the pathway to contact is shorter and the impact
-is softer.** **[[With the radical hip rotation this
+is softer.** **With the radical hip rotation this
 can mean late contact and is the kiss of death in generating a heavy
-ball and shot accuracy.]{.mark}]{.underline}**
+ball and shot accuracy.**
 
-**[[The wrist is kept locked backwards during the entire stroke. Because
+**The wrist is kept locked backwards during the entire stroke. Because
 of its locked back position, it applies solid force at
-impact.]{.mark}]{.underline}**
+impact.**
 
 **Contact**
 
@@ -233,10 +233,10 @@ With the topspin uni grip backhand, a shot hit even with the front foot
 is a shot hit up to a shoulders width late. This late contact also robs
 you of up to a full shoulders' width of acceleration.
 
-**[[Defending your contact point means keeping all shots in front of
+**Defending your contact point means keeping all shots in front of
 your body, no matter what the incoming shot's speed/spin/height. You
 wait for the ball to approach your hitting zone and then you rotate into
-your strike!]{.mark}]{.underline}**
+your strike!**
 
 This is timed inside your own body and has nothing to do with the bounce
 of the ball or its depth. It has everything to do with the ball's
@@ -314,9 +314,9 @@ The hips are parallel with the doubles alley or even more closed off.
 The plant foot is pointed towards the side fence. The shoulder has to
 coil backwards, and the frame has to reach way back around the body.
 
-**[[The stance has to close off whenever possible for real power. The
+**The stance has to close off whenever possible for real power. The
 cross step is what makes it possible to maximize the hip
-rotation.]{.mark}]{.underline}**
+rotation.**
 
 ![A person playing tennis Description automatically generated with low
 confidence](media_weaponize-your-one-handed-backhand/media/image14.webp)
@@ -327,18 +327,18 @@ confidence](media_weaponize-your-one-handed-backhand/media/image14.webp)
 
 The second common mistake is lifting. Lifting the hitting foot up at
 impact takes you off the ground and interrupts the weight transfer.
-**[[You have to stay grounded to hit the most powerful back hands and
+**You have to stay grounded to hit the most powerful back hands and
 derive forceful acceleration from the ground in timed
-footwork.]{.mark}]{.underline}**
+footwork.**
 
 If you drive up off the plant foot too early, it straightens your front
 leg out, lifts your front shoulder up and your chin, sends the ball
 long, and takes away your planted weight, and moves your head,
 shoulders, and frame upwards too early before the impact of the ball.
 
-**[[All that is fine if the ball has already been struck and the weight
+**All that is fine if the ball has already been struck and the weight
 transferred properly. It's not impossible to hit great shots by lifting
-off too early, but it's a lot harder.]{.mark}]{.underline}**
+off too early, but it's a lot harder.**
 
 A simple thing to concentrate on is keeping your chin stable and even.
 When you are grounded, with your knees bent, weight down, shoulder and
@@ -432,10 +432,10 @@ confidence](media_weaponize-your-one-handed-backhand/media/image17.webp)
 
 **A short ball: drop step, smaller movement steps, great knee bend.**
 
-**[[The unit turn, the foot work, the coil, and arm bar, and the hips
+**The unit turn, the foot work, the coil, and arm bar, and the hips
 opening up fast, that all comes together when the ball arrives at the
 right point. There is often a feeling \"waiting\" for this to happen,
-but in a very fluid, fast way.]{.mark}]{.underline}**
+but in a very fluid, fast way.**
 
 **The faster you can arrive at the point where you are ready to strike
 from a big coil, the better shot you will be able to

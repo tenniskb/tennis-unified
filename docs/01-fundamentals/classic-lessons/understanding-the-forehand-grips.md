@@ -18,9 +18,9 @@ the club level. Now let's take a look at various forehand grips in
 modern tennis and the key images associated with mastering them and
 incorporating them into your game.
 
-As I said in the first article, **[[the most difficult process in
+As I said in the first article, **the most difficult process in
 understanding grips and grip changes is the visual or mental
-aspect.]{.mark}]{.underline}** Correlation between the position of the
+aspect.** Correlation between the position of the
 hand and the angle of the racquet face has to be created visually in the
 mind's eye for each grip position.
 
@@ -65,9 +65,9 @@ generated](media_understanding-the-forehand-grips/media/image4.jpg)
 approaches the ball. Note: The face is slightly more closed for the
 extreme grips.**
 
-However, **[[to create topspin with the modern forehand grips, the
+However, **to create topspin with the modern forehand grips, the
 mental image should be of the racquet head approaching the ball with a
-closed face.]{.mark}]{.underline}** This is true for all three major
+closed face.** This is true for all three major
 grips, however, for the Western and Semi-Western, the angle will be
 slightly more closed than for the Eastern.
 
@@ -235,9 +235,9 @@ in match situations then these grip positions are not for you.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[The eastern forehand grip is the most versatile of all the forehand
+**The eastern forehand grip is the most versatile of all the forehand
 grips, due in large part to the fact that a player can hit either a flat
-or topspin shot; with an open or a closed stance.]{.mark}]{.underline}**
+or topspin shot; with an open or a closed stance.**
 
 A closed, or what I call a neutral stance, is preferable to open stance
 positioning with the eastern grip because of timing problems when the

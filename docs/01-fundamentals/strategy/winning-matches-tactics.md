@@ -37,10 +37,10 @@ may pay for you to come to the net anyway. Your weak volleys may have
 the advantage in exchanges with his weak ground strokes.
 
 **Almost every player has a weaker side.**
-**[[Even if your opponent's forehand and backhand appear equal, it's
+**Even if your opponent's forehand and backhand appear equal, it's
 highly probable that over the course of a match they will not be. A
 vital task then is to determine which side is the weak side, and if
-possible to do it in the warm-up.]{.mark}]{.underline}**
+possible to do it in the warm-up.**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                           ![A picture containing sport, athletic game, outdoor, tennis Description automatically
@@ -50,11 +50,11 @@ possible to do it in the warm-up.]{.mark}]{.underline}**
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[There are certain clues which often give away the weak side. For
+**There are certain clues which often give away the weak side. For
 example, a stroke that has a late back swing or a particularly awkward
 appearance, a stroke that produces a lot of miss hits or errors with
 wide margins, or a stroke that is hit primarily with the arm as opposed
-to the shoulders and legs.]{.mark}]{.underline}**
+to the shoulders and legs.**
 
 **Once you've identified it, the weakness becomes your point of
 attack.** **How to exploit it depends on how weak
@@ -161,9 +161,9 @@ high**. **You'll play your best when you are
 moderately excited, but you'll play worse if you're not sufficiently
 excited or if you're overly excited.**
 
-**[[Pressure raises your opponent's arousal level. Early in a match his
+**Pressure raises your opponent's arousal level. Early in a match his
 arousal level may be low and attacking the net may excite him just
-enough to stimulate some good passing shots.]{.mark}]{.underline}**
+enough to stimulate some good passing shots.**
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
                                            ![A person hitting a ball with a tennis racket Description automatically
@@ -181,11 +181,11 @@ you have a problem with choking on big points because you become overly
 excited, one strategy is to come to the net and give your opponent the
 chance to choke first.**
 
-**[[There are other ways to gain advantages in certain pressure
+**There are other ways to gain advantages in certain pressure
 situations. Generally, your opponent will feel more pressure when he's
 ahead, like when he has a chance to close out the set or the match, or
 when he has a break point on your serve or an add point on his own serve
-in an important game.]{.mark}]{.underline}**
+in an important game.**
 
 **In these situations, his nerves can cause him to miss easy shots or
 try something that's tactically foolish because he wants to end the

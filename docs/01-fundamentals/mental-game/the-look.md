@@ -195,28 +195,28 @@ because I somehow suckered him into taking it too lightly.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[My journey has led me to my current look, but the real point is that
+**My journey has led me to my current look, but the real point is that
 the clothes I wear on the court shouldn't matter to anyone but me. I
 try not to choose them because anyone else is wearing them and I try not
 to wear them to impress anyone else - except, perhaps, to show a certain
-degree of respect.]{.mark}]{.underline}**
+degree of respect.**
 
-**[[Of course, the other side of the coin is that I no longer try to
+**Of course, the other side of the coin is that I no longer try to
 gauge my opponents by what they're wearing, either. When I think back
 on nearly forty years in the game, I've met nice guys who dress well
 and I've met idiots who dress well, too - but I've also met all kinds,
 from gentlemen to jerks, who favor the shabby
-look.]{.mark}]{.underline}**
+look.**
 
-**[[The older I get, the better I understand that style - whether on the
+**The older I get, the better I understand that style - whether on the
 tennis court or off - isn't about copying other people or trying to
 look like something you're not. Style is knowing yourself and coming to
 terms with who you are. Style is understanding what works for you and
-wearing it with confidence.]{.mark}]{.underline}**
+wearing it with confidence.**
 
-**[[Once I got to that point, my game got better, too - and people
+**Once I got to that point, my game got better, too - and people
 finally started showing me the respect I tried so desperately to earn
-when I was young and searching for a Look.]{.mark}]{.underline}**
+when I was young and searching for a Look.**
 
 | ![A person smiling for the camera Description automatically generated with medium | USPTA instructor Keith Hayes attended Pepperdine |
 | --- | --- |

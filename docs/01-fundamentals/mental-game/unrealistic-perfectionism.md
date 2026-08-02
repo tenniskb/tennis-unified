@@ -38,16 +38,16 @@ their weak points. Having high goals and being powerfully motivated
 drives them to work extraordinarily hard, so they get better than most
 people at everything they do. Very admirable!**
 
-**[[But the downside is that they can be unreasonably hard on
+**But the downside is that they can be unreasonably hard on
 themselves. They are marvelous people, but they don't realize how
 marvelous they are. Dissatisfaction with their accomplishments keeps
 complacency at bay and stimulates unending efforts to fix their
-weaknesses and improve their strengths.]{.mark}]{.underline}**
+weaknesses and improve their strengths.**
 
-**[[But some overdo it. With these individuals, their successes never
+**But some overdo it. With these individuals, their successes never
 seem quite good enough, and they get down on themselves for their
 perceived failures. The result can be disappointment, excessive stress,
-and unhappiness - all for no good reason.]{.mark}]{.underline}**
+and unhappiness - all for no good reason.**
 
 It is important, then, for these people to develop better perspective so
 that they can appreciate their successes, recover quickly from their
@@ -188,10 +188,10 @@ more important than it really is.
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[There will always be players better than you. As for the thought
+**There will always be players better than you. As for the thought
 that you should be better and beat this person or that person - there is
 no end to it. Regardless of how good you get, there will always be
-players who can beat you.]{.mark}]{.underline}**
+players who can beat you.**
 
 **All you have to do is keep working to get better than you are. And
 if playing tournaments and other matches that \"count\" stress you,
@@ -217,23 +217,23 @@ accomplishments at whatever level they may be.
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[[Make improving your tennis a long-term project. It is a mistake to
+**Make improving your tennis a long-term project. It is a mistake to
 measure your results from day to day, match to match or tournament to
 tournament, as there are sure to be many ups and downs. Enjoy your
 successes and quickly get over your defeats by maintaining the long-term
-view.]{.mark}]{.underline}**
+view.**
 
-**[[Remember, the ultimate object of the process is self-satisfaction.
+**Remember, the ultimate object of the process is self-satisfaction.
 Getting good is enjoyable. If your progress seems to have stalled,
 recall your start as a player \-- when you would have been happy to just
 hit the ball in the court twice in a row, and recognize how far you have
-come - and take pride in your progress.]{.mark}]{.underline}**
+come - and take pride in your progress.**
 
-**[[This doesn't mean you stop striving to improve, but rather that you
+**This doesn't mean you stop striving to improve, but rather that you
 realistically appreciate what you have done. Sam was, after all, ranked
 #25 in Southern California and needed to realize that about 100,000
 other tennis players of his age would have been happy to trade games
-with him.]{.mark}]{.underline}**
+with him.**
 
 **This article is excerpted from Allen's new book, Tennis: Winning the
 Mental Match, which will be available at the end of 2010 on Amazon and

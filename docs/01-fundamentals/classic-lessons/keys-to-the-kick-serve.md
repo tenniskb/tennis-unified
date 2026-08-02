@@ -26,11 +26,11 @@ ITF pro futures tour.
 For me, it happened because I found a new coach and former elite tour
 player who shared with me the secrets of mastering the kick. I almost
 want to cry when I think of all the hours I spent hitting buckets and
-buckets of balls. **[[My coaches in the juniors were great guys, but
+buckets of balls. **My coaches in the juniors were great guys, but
 they didn't provide me with the technical framework and the check
 points I needed to understand and master the shot. This is the same
 problem most players face. They are never exposed to right technical
-framework or training system.]{.mark}]{.underline}**
+framework or training system.**
 
 ![A child playing tennis Description automatically generated with medium
 confidence](media_keys-to-the-kick-serve/media/image2.webp)
@@ -882,9 +882,9 @@ to get the most uncoiling \"runway\" here.
 
 Dragging or delaying the hip and shoulder rotation can be difficult to
 learn. Players are often accustomed to rotating their hips into the flat
-serve to get maximum power**[[. In learning the kick serve, you have to
+serve to get maximum power**. In learning the kick serve, you have to
 aggressively hold back the right side of the body and \"stay more
-closed.\"]{.mark}]{.underline}**
+closed.\"**
 
 ![A person playing tennis Description automatically generated with
 medium

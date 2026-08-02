@@ -75,9 +75,9 @@ confidence](media_the-killer-forehand-part-2/media/image4.webp)
 **Your hitting hand and feet work together for early preparation and the
 correct stance.**
 
-**[[If the butt of your racquet were a flashlight, in preparation you
+**If the butt of your racquet were a flashlight, in preparation you
 would want to keep the flashlight ahead of your body as you approach the
-hitting zone.]{.mark}]{.underline}** This will ensure that you wind up
+hitting zone.** This will ensure that you wind up
 in the right hitting stance. Remember to prepare early enough to allow
 your feet time to set up.
 
@@ -133,8 +133,8 @@ generated](media_the-killer-forehand-part-2/media/image7.webp)
 **Pull the racket out of the slot without touching the hands.**
 
 **As you pull the trigger and the racquet starts forward out of the
-slot,** **[[the path which your arm travels is called your swing
-line.]{.mark}]{.underline}** If you watch the right elbow through the
+slot,** **the path which your arm travels is called your swing
+line.** If you watch the right elbow through the
 stroke, you'll notice that it travels on a diagonal line out and across
 the body as the racquet accelerates into the ball.
 
@@ -258,10 +258,10 @@ forehand.**
 
 So the killer forehand is a package weapon. It is a like a jet fighter
 coming at you in all directions. **The elements
-are**: **[[the proper grip, a strong foundation,
+are**: **the proper grip, a strong foundation,
 first step reaction, the hitting stance, racket head acceleration, the
 follow-through the opposite arm, and loading with the back
-leg.]{.mark}]{.underline}** Practice each of these concepts until you
+leg.** Practice each of these concepts until you
 have them mastered and soon, you'll be known for having a killer
 forehand.
 

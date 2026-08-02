@@ -85,8 +85,8 @@ player on time.
 
 **This timing will work on balls at a certain depth and speed. But if
 the ball is faster, heavier and/or deeper, the release must start
-earlier.** **[[Conversely if the ball is shorter
-and slower, the release must be slightly delayed.]{.mark}]{.underline}**
+earlier.** **Conversely if the ball is shorter
+and slower, the release must be slightly delayed.**
 
 On a fast deep ball, waiting to release your swing will make your
 contact consistently late. It can result in a hurried and tense swing

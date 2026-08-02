@@ -53,10 +53,10 @@ motion at the end of the backswing. We'll start with the legs, then
 look at the trunk.
 
 We'll also add some further analysis about the role of the trunk in the
-backswing as it relates to the upper swing. ***[[The trunk is what I
+backswing as it relates to the upper swing. ***The trunk is what I
 call \"The Momentum Super Highway.\" Its position and the way it moves
 during the upward swing are critical for creating the correct racket
-path and maximizing racket speed.]{.mark}]{.underline}***
+path and maximizing racket speed.***
 
 ![A person running on a track Description automatically generated with
 medium
@@ -78,9 +78,9 @@ motion.***
 
 **The Trunk**
 
-**[[At the end of the backswing, the trunk has also gone through a
+**At the end of the backswing, the trunk has also gone through a
 complex series of motions. These motions have been the driving force in
-the racquet drop.]{.mark}]{.underline}**
+the racquet drop.**
 
 1.  **[The first motion is the natural elevation of the trunk as the leg
     drive pushes the whole body up in the air.]{.mark}**
@@ -124,10 +124,10 @@ confidence](media_the-3d-serve-upward-swing-part-1/media/image5.webp)\
 
 **The Upward Swing Goals**
 
-***[[Simply put, the performance goal of the upward swing is to generate
+***Simply put, the performance goal of the upward swing is to generate
 as much racquet speed as possible. The companion goals are to contact
 the ball at the greatest height with the racquet face traveling on the
-optimal path for the desired shot direction.]{.mark}]{.underline}***
+optimal path for the desired shot direction.***
 
 ***The velocity (speed and direction) of the racquet face is the sum
 of the rotations of the joints of the body, considering the joint's
@@ -153,10 +153,10 @@ actionable performance issues.]{.mark}**
 
 **The Trunk\--Momentum Super Highway**
 
-***[[At the highest level, the kinetic fuel that produces racquet head
+***At the highest level, the kinetic fuel that produces racquet head
 speed is angular momentum. To generate a large amount of racquet speed
 at contact, you must generate a large amount of angular momentum in the
-hand/racquet.]{.mark}]{.underline}***
+hand/racquet.***
 
 ***The most important component for racquet speed is forward angular
 momentum.*** This momentum is first acquired by
@@ -302,10 +302,10 @@ so important? The reason is that it affects how the player can position
 the arm and racket at contact when he executes the upward
 swing.]{.mark}**
 
-***[[With junior players this tilt is frequently excessive. It can
+***With junior players this tilt is frequently excessive. It can
 already have gone too far by the completion of the windup. But it can
 increase even further in the backswing phase and also in the upward
-swing.]{.mark}]{.underline}***
+swing.***
 
 For our junior player, the tilt at the end of the wind up is already 67
 degrees. (To see this in our junior player, select \"Segment/Joint
@@ -397,9 +397,9 @@ the other angles. The hitting arm in the yellow lines is now at a 160
 degree angle to the shoulder line. The angle between the arm and the
 racket has increased as well to 169 degrees.**
 
-***[[The changes in these angles have performance outcome consequences,
+***The changes in these angles have performance outcome consequences,
 and small changes can have big impact. And the choice could not be more
-important.]{.mark}]{.underline}***
+important.***
 
 To see how these angles affect performance outcomes, let's take a look
 at our previous work on the contributions of joint rotations to racket

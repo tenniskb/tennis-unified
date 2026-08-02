@@ -83,10 +83,10 @@ generated](media_confidence-and-relaxation/media/image3.jpg)
 **Winners tend to have increased execution related thoughts such as \"I
 will attack with my second serve.\"**
 
-**[[Most tennis players want to win, whether competing for money,
+**Most tennis players want to win, whether competing for money,
 trophies, championships, rankings, or for a team or personal
 achievement. This is part of the thrill of competition, but often this
-is also the root of stress and anxiety.]{.mark}]{.underline}**
+is also the root of stress and anxiety.**
 
 Studies on anxiety have concluded that anxiety is detrimental to
 performance as it typically causes players to become more vulnerable,

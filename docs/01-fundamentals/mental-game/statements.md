@@ -52,19 +52,19 @@ attack. Send the message that you can find a way to hurt your opponent
 even when you are on the defensive. This may cause him to press and make
 strategic errors**.
 
-**[[Winston Churchill did not win World War Two with his decision to
+**Winston Churchill did not win World War Two with his decision to
 bomb Berlin early in the conflict. But it irritated Adolph Hitler and
 caused him to shift from bombing airfields to bombing British cities.
 This changed the game by giving British planes time to get into the air
-and defend the skies.]{.mark}]{.underline}**
+and defend the skies.**
 
 Recognizing that a statement has unnerved an opponent is the key to
 learning how to unlock opponents as people. In these moments you should
 work hardest to take the match from them or at least to shift momentum
 back in your favor.
 
-**[[Here is the cycle that leads to success in tough
-competition:]{.mark}]{.underline}**
+**Here is the cycle that leads to success in tough
+competition:**
 
 - **Make a statement and seize momentum.**
 
@@ -77,9 +77,9 @@ competition:]{.mark}]{.underline}**
 
 - **Seize the initiative when the next opportunity arises.**
 
-**[[This cycle is the essence of competition. It can occur countless
+**This cycle is the essence of competition. It can occur countless
 times in a match and sometimes occurs within individual games or even
-points.]{.mark}]{.underline}**
+points.**
 
 Most players can easily recall the last time they practiced their
 backhand or their serve. These same players would be quick to admit that

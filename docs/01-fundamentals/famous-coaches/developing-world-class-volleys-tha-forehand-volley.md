@@ -110,9 +110,9 @@ volley should be.**
 On the forehand volley you need **to use the left hand as a cantilever
 or counterbalance** if you want to develop good
 technique. As I just mentioned, modern players have a difficult time
-using the left arm correctly on the volley. **[[The hand should be up
+using the left arm correctly on the volley. **The hand should be up
 around chest high and in front of your body at the
-hit.]{.mark}]{.underline}** That is probably right about the ideal
+hit.** That is probably right about the ideal
 position.
 
 ![A person playing tennis Description automatically
@@ -162,9 +162,9 @@ confidence](media_developing-world-class-volleys-tha-forehand-volley/media/image
 
 **The Knee Fallacy**
 
-A second huge fallacy has to do with bending the knees. **[[You do have
+A second huge fallacy has to do with bending the knees. **You do have
 to get down to the low volley, but the days of really bending down and
-scraping the court with the knees are long gone.]{.mark}]{.underline}**
+scraping the court with the knees are long gone.**
 
 First in the modern game you don't have time to get that far down.
 Second, you need time to recover. So, on the low volleys I'm a big
@@ -202,8 +202,8 @@ right foot.**
 
 At almost all costs I **try not to step across these
 days**. It just takes your body out of position too
-much, and **[[often you'll get caught running into the ball and end up
-jamming yourself up.]{.mark}]{.underline}**
+much, and **often you'll get caught running into the ball and end up
+jamming yourself up.**
 
 **In Front?**
 

@@ -217,10 +217,10 @@ the drop shot and come forward, cutting off the opponent's angles and
 hitting the reply as a volley into the open
 court.**
 
-**[[Below the pro level, a well executed drop shot is probably even more
+**Below the pro level, a well executed drop shot is probably even more
 effective. When players stay behind the baseline and take pace off, the
 drop shot gets them out of their comfort zone and forces them to come
-forward.]{.mark}]{.underline}**
+forward.**
 
 **Against a pushing style of baseline player, it is one of the best
 ways to create openings for winners by hitting passing shots or lobs,

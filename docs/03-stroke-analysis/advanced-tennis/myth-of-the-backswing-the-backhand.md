@@ -187,10 +187,10 @@ confidence](media_myth-of-the-backswing-the-backhand/media/image6.webp)
 **Agassi's motion from the completion of the turn to the top of the
 loop**
 
-**[[The key questions to ask about the pro loop are: When does it begin?
+**The key questions to ask about the pro loop are: When does it begin?
 What shape does it take? And most importantly: Where does the loop
 deliver the hitting arm and racquet at the critical moment when it
-starts forward and upward to the ball?]{.mark}]{.underline}**
+starts forward and upward to the ball?**
 
 If we examine players such as Andre Agassi, Tommy Haas or Pete Sampras,
 we will see they all begin their preparation with the unit turn and no

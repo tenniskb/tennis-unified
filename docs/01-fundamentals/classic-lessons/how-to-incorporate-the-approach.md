@@ -75,9 +75,9 @@ generated](media_how-to-incorporate-the-approach/media/image3.webp)
 **Starting part way up in the court got Jeff confident with the split
 and balance in the midcourt.**
 
-**[[Meanwhile Jeff would close the net aggressively. The goal was to
+**Meanwhile Jeff would close the net aggressively. The goal was to
 generate a miss on the pass or hit an angled volley or overhead for a
-winner.]{.mark}]{.underline}**
+winner.**
 
 Rather than master unfamiliar multi shot sequences, Jeff only had to do
 what he did best and finish with one more relatively easy ball. These

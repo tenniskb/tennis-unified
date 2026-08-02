@@ -176,14 +176,14 @@ confidence](media_choking-yes-even-in-the-u-s-open-final/media/image7.webp)
 **The last two points: a bad backhand miss and an ill-conceived drop
 shot.**
 
-**[[The lessons to be learned here are important at any level of tennis.
+**The lessons to be learned here are important at any level of tennis.
 First, everyone chokes. There is no shame in it. Federer probably won
 the match because he kept his cool after choking while Djokovic did not.
 If you find yourself choking in a match (and who of us won't?) it is
 important to realize that nerves come and go, and because you choke on
 one occasion it does not mean you will choke on another. The trick is to
 confine the damage to only those points on which you actually choke,
-which Federer did.]{.mark}]{.underline}**
+which Federer did.**
 
 Getting rattled about the lost points, as Djokovic did, extends the
 damage. This does not mean that Djokovic completely lost his head and

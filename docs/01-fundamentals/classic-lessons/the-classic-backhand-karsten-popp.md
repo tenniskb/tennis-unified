@@ -129,11 +129,11 @@ confidence](media_the-classic-backhand-karsten-popp/media/image5.webp)
 **As with his forehand, early contact close to the baseline and a low
 trajectory forces opponents on time.**
 
-**[[But there is one other factor. His incredible consistency. The
+**But there is one other factor. His incredible consistency. The
 mechanics of the stroke are so simple that Karsten rarely misses. This
 is unlike many \"modern" players who believe that have \"weapons,"
 weapons that often never find the court on a given
-day.]{.mark}]{.underline}**
+day.**
 
 **Inside Out**
 
@@ -141,16 +141,16 @@ day.]{.mark}]{.underline}**
 the modern game. This is an inside out underspin drive that has a
 vicious side spin component.**
 
-**[[This is a very aggressive shot that is difficult for any opponent to
+**This is a very aggressive shot that is difficult for any opponent to
 deal with. If you leave the ball too close to the middle in a crosscourt
 rally, he'll use the inside out slice to hit the ball down the line to
-your forehand corner.]{.mark}]{.underline}**
+your forehand corner.**
 
 **Because of the sidespin component, it has a nasty curve so that the
 ball moves the away from you to your right and also has a very low
-bounce.** **[[Even if you manage to reach his shot
+bounce.** **Even if you manage to reach his shot
 and return it, the rest of your court is now wide
-open.]{.mark}]{.underline}**
+open.**
 
 Overall, how good is his backhand? The first time Karsten hit with the
 famous French player Pierre Barthes, Pierre caught the ball in the
@@ -176,14 +176,14 @@ preparation. The same is definitely true on the backhand.
 **Karsten initiates the turn with the movement of the feet and the
 torso on all his backhand variations.**
 
-**[[His feet and body turn sideways, which automatically moves the
+**His feet and body turn sideways, which automatically moves the
 racket as well. But watch how little independent hand, arm and racket
-motion there is in this initial phase.]{.mark}]{.underline}**
+motion there is in this initial phase.**
 
-**[[His backswing motion is very compact. Watch how his racket hand
+**His backswing motion is very compact. Watch how his racket hand
 stays low and close to the left hip pocket on the take back. This is
 similar for all three of his variations and it makes him very difficult
-to predict.]{.mark}]{.underline}**
+to predict.**
 
 Now watch how at the bottom of the loop, as he's about to draw the
 racquet forward, his arm locks out or straightens.
@@ -202,19 +202,19 @@ That works just fine for Roger. For the average player, however, it
 increases the chance of developing the deadly \"elbow lead." The
 simplicity of Karsten's motion make him a great model.
 
-**[[As I mentioned, even for an experienced player, Karsten's backhand
+**As I mentioned, even for an experienced player, Karsten's backhand
 variations are very difficult to anticipate. It's really only in the
 last fractions of a second as the forward swing starts that there is a
 noticeable difference between his drive and his
-slice.]{.mark}]{.underline}**
+slice.**
 
-**[[On his drive, the racquet face squares with the court just as it
+**On his drive, the racquet face squares with the court just as it
 starts to move forward, and then stays perpendicular at contact and in
-the followthrough.]{.mark}]{.underline}**
+the followthrough.**
 
-**[[This allows Karsten to hit the ball almost flat and also with
+**This allows Karsten to hit the ball almost flat and also with
 moderate topspin. As with his forehand drive, the arc of the ball in
-flight is also relatively low over the net.]{.mark}]{.underline}**
+flight is also relatively low over the net.**
 
 **Stances**
 
@@ -237,10 +237,10 @@ stances naturally. Again we can see that certain elements of modern
 tennis aren't really as innovative as many people feel and are in fact
 fundamental to good technique in any era.
 
-**[[Another key is the opposite arm. Karsten moves his left arm
+**Another key is the opposite arm. Karsten moves his left arm
 backwards toward the fence to counter balance the motion and to stay
 sideways. Also note how his head is sideways at and also after contact,
-again a characteristic associated with Federer.]{.mark}]{.underline}**
+again a characteristic associated with Federer.**
 
 **Karsten's finishes are long and out towards the
 target**. **On both his slice and his drive, the
@@ -295,14 +295,14 @@ That pretty much sums it up Karsten's baseline game. And again, as with
 the forehand, it raises several legitimate questions for the club
 player.
 
-**[[What type of backhand do you need to succeed at your level? If Ken
+**What type of backhand do you need to succeed at your level? If Ken
 Rosewall could win a Grand Slam without ever coming over a backhand, how
-important is heavy topspin at the club level?]{.mark}]{.underline}**
+important is heavy topspin at the club level?**
 
-**[[Players succeed at all levels with a wide variety of styles. And
+**Players succeed at all levels with a wide variety of styles. And
 probably every one-hander should develop a drive with at least some
 topspin---much easier in this day and age given the racquets and
-especially the strings.]{.mark}]{.underline}**
+especially the strings.**
 
 **But is it possible that a hard slice drive might actually be more
 effective for you on some great percentage of balls, especially in

@@ -55,23 +55,23 @@ to compete. (For a classic example of a warm up routine developed by Pat
 Etcheberry]{.underline} [Click
 Here](https://www.tennisplayer.net/members/physicaltraining/pat%20_etcheberry/Etcheberry_PSCT_Intro_Warmup_images/Etcheberry_PSCT_Intro_Warmup.html)[.)]{.underline}]{.mark}**
 
-**[[Second, try to relax mentally. Try to put all your concerns,
+**Second, try to relax mentally. Try to put all your concerns,
 worries, and stressors from the rest of your life aside in a figurative
 box. Let your mind go quiet, so instinct can take over. Get out of your
-own way by not overthinking.]{.mark}]{.underline}**
+own way by not overthinking.**
 
-**[[The third step is to relax physically. Before and during the match,
+**The third step is to relax physically. Before and during the match,
 tune into your muscle tension level. Your muscles should be loose and
 flexible without tension beyond what is needed to
-perform.]{.mark}]{.underline}**
+perform.**
 
 **Letting yourself relax is different from trying to relax. You can
 use stretching and body movements to help relax between points and on
 game changes.**
 
-**[[The fourth step is to allow your joy, passion, and enthusiasm for
+**The fourth step is to allow your joy, passion, and enthusiasm for
 tennis show through your body language. These steps are investments in
-yourself that can help lead you into the zone.]{.mark}]{.underline}**
+yourself that can help lead you into the zone.**
 
 ![A person playing tennis Description automatically generated with
 medium
@@ -99,12 +99,12 @@ In his book The Path of No Resistance, Garret Kramer states, \"Only when
 your mind is free from the burden of trying to find mental clarity does
 it leave space for insights and excellence to come pouring in.\"
 
-**[[According to Kramer there are two types of thinking. These are
+**According to Kramer there are two types of thinking. These are
 outside-in thinking and inside-out thinking. Outside-in thinking occurs
 when circumstances dictate your thoughts, in tum making your feelings
 beyond your control. Inside-out thinking is when you chose what thoughts
 to believe and act on and let your feelings follow these
-thoughts.]{.mark}]{.underline}**
+thoughts.**
 
 We all have random and uncontrollable thoughts every day. They can't be
 stopped by some act of will. But we can choose which thoughts we believe
@@ -116,9 +116,9 @@ confidence](media_flowing-in-the-zone/media/image4.jpg)
 
 **Focusing on negative thoughts leads to negative feelings.**
 
-**[[The thoughts we believe or act on affect our feelings. The thoughts
+**The thoughts we believe or act on affect our feelings. The thoughts
 we give attention to and the feelings they elicit affect our ability to
-get into the zone.]{.mark}]{.underline}**
+get into the zone.**
 
 Our feelings are not something we can always turn on or off on command.
 But each human being has an innate ability to self-correct. You don't
@@ -147,12 +147,12 @@ generated](media_flowing-in-the-zone/media/image5.jpg)
 
 **Hitters can visualize before swinging.**
 
-**[[A tennis player can use imagery to see the desired flight of the
+**A tennis player can use imagery to see the desired flight of the
 ball before they serve. These rehearsed images create brain patterns or
 images that, if you trust and allow them to take over, are likely to
 improve your performance. You will have trained your mind and body to
 perform automatically without conscious interference, leading to better
-performance.]{.mark}]{.underline}**
+performance.**
 
 **These are some of the other ways to use visualization: To make
 technique more automatic. To improve positive thinking. To build more
@@ -185,15 +185,15 @@ visualize yourself overcoming these barriers.
 
 **Positive Attitude toward Pressure**
 
-**[[Athletes spend relatively little time practicing under pressure.
+**Athletes spend relatively little time practicing under pressure.
 Part of this is because it's hard to simulate genuine pressure
 situations in practice. But there are things you can do to gain
-simulated experience dealing with pressure.]{.mark}]{.underline}**
+simulated experience dealing with pressure.**
 
-**[[Develop the attitude that pressure situations are a great
+**Develop the attitude that pressure situations are a great
 opportunity. As Billie Jean King puts it, pressure is a privilege. The
 best way to create psychological pressure situations is to keep score in
-some way.]{.mark}]{.underline}**
+some way.**
 
 **So, create pressure situations in practice to try to simulate what
 you will face on match day. This way, you will be better

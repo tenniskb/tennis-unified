@@ -7,8 +7,8 @@
 ### Scott Murphy
 
 One universal problem I see when people come to my teaching court or
-camps is **[[poor preparation on the forehand
-groundstroke.]{.mark}]{.underline}** If this fundamental element is
+camps is **poor preparation on the forehand
+groundstroke.** If this fundamental element is
 incomplete or poor it is likely the stroke will never reach its
 potential. Using pictures of some of the world's great pros as
 examples, let's examine the elements of sound forehand preparation.
@@ -34,9 +34,9 @@ generated](media_forehand-preparation/media/image1.webp)
 across the body.**
 
 Using your eyes effectively is also critical in **avoiding a
-problem** I see constantly, **[[the inability to
+problem** I see constantly, **the inability to
 establish the correct lateral distance from the
-ball.]{.mark}]{.underline} [Players will actually [place their bodies
+ball. [Players will actually [place their bodies
 where their racquets need to be]{.underline}, in great part [because
 they don't track the ball long enough or with a still enough head to
 avoid overreacting while establishing position]{.underline}]{.mark}**.

@@ -107,10 +107,10 @@ the baseline in circumstances where you can't avoid hitting on the
 rise. This happens to the pros all the time when the opponent hits a
 hard, deep return off a big serve.
 
-**[[You want to play these balls the instant they bounce, like a
+**You want to play these balls the instant they bounce, like a
 short-hop half volley. The contact should be below waist level. Learn to
 track the ball from the moment it leaves the other side, to the bounce,
-to the moment you contact it.]{.mark}]{.underline}**
+to the moment you contact it.**
 
 **Take care not to crowd the ball. This is very common among players
 who aren't used to going forward.** **You need
@@ -132,8 +132,8 @@ positions with more pace.
 
 **A high ball can't cause you a problem if it's not high when you
 make contact.** So the simplest solution\--if not
-always the best tactically\--is **[[simply to move back and allow the
-ball to drop to your normal contact height.]{.mark}]{.underline}** This
+always the best tactically\--is **simply to move back and allow the
+ball to drop to your normal contact height.** This
 is easier to accomplish at lower levels of play when the ball is hit
 with less pace and spin.
 
@@ -197,10 +197,10 @@ ball better.
 
 **Once you see where the ball's going, move first and start to build
 the swing on the way as opposed to taking the racquet all the way back
-and then moving.** **[[As you move into position
+and then moving.** **As you move into position
 you should position to the ball with your outside foot. For a right
 hander this is your right foot. This is the foot you're going to load
-your weight on prior to swinging.]{.mark}]{.underline}**
+your weight on prior to swinging.**
 
 ![A tennis player is swinging his racket Description automatically
 generated with low
@@ -283,8 +283,8 @@ up.**
 
 Now you are in position to hit up on the ball similar to any other
 topspin forehand. Something that is of paramount importance in achieving
-this is **[[the relationship between the position of your hand and the
-racquet head.]{.mark}]{.underline}**
+this is **the relationship between the position of your hand and the
+racquet head.**
 
 **Because the racket face naturally closes on the backswing, there is
 a danger that the racquet head will trail too far behind and below the
@@ -390,8 +390,8 @@ adjustment.]{.mark}]{.underline}**
 **High Slice**
 
 Which brings us to one more alternative that is great in club play.
-**[[This is to shift to a continental grip and hit through the high ball
-with a little bit of underspin.]{.mark}]{.underline}** This is a great
+**This is to shift to a continental grip and hit through the high ball
+with a little bit of underspin.** This is a great
 alternative when the ball is at shoulder level but not especially heavy
 or fast. You can neutralize your opponent, float the ball back, buy
 time, and change the pace to through off his rhythm.
@@ -399,8 +399,8 @@ time, and change the pace to through off his rhythm.
 This is what I call a **volley oriented stroke**.
 Essentially, it's like hitting a long half volley. Again, the key to
 having leverage is to **visualize the racquet head is higher than the
-hand.** **[[When you volley, of course, this is
-literally what takes place.]{.mark}]{.underline}**
+hand.** **When you volley, of course, this is
+literally what takes place.**
 
 ![A person playing tennis Description automatically generated with
 medium

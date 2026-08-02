@@ -374,7 +374,7 @@ On many balls, pro players reach the Full Turn by the time the ball
 bounces on their side of the court. In club tennis, the goal should be
 to reach the turn at this point or sooner.
 
-**[[A sense of urgency is key.]{.mark}]{.underline}** But far too many
+**A sense of urgency is key.** But far too many
 players wait for the ball to bounce before starting to prepare. As a
 result they are chronically rushed, late, and/or forced to muscle the
 ball at contact, like our friend from the San Francisco Tennis Club who
@@ -522,8 +522,8 @@ is bent and tucked in toward the torso, and the wrist is laid back. 
 
 The exact angle of the arm and the amount of wrist lay back can vary
 somewhat from player to player, and also, with the height of the
-ball. **[[But the basic elements are virtually universal among modern
-players: elbow in, wrist laid back.]{.mark}]{.underline}** (For an
+ball. **But the basic elements are virtually universal among modern
+players: elbow in, wrist laid back.** (For an
 exception check out Mark Philippoussis in the [Advanced
 Tennis](http://www.advancedtennis.com) footage.)
 
@@ -547,9 +547,9 @@ reality the racquet head is usually only a few inches below the ball at
 the start of the foreswing. This is for pro players who are generating
 phenomenal amounts of topspin, sometimes exceeding 3000rpm!
 
-The key is not trying to drop the racquet way below the ball. **[[The
+The key is not trying to drop the racquet way below the ball. **The
 key is finding the hitting arm position at the completion of the
-backswing.]{.mark}]{.underline}** Dropping the racquet further, will
+backswing.** Dropping the racquet further, will
 actually impede your ability to generate spin, as well as reduce or
 destroy the consistency and power of your forehand. At times players may
 rotate the entire arm backwards lowering the racquet head further, but

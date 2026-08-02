@@ -132,8 +132,8 @@ generated](media_the-panic-signal/media/image5.jpg)
 
 **There are 4 steps to counter the panic signal.**
 
-**[[So do you counter the panic signal? There are four classical
-steps:]{.mark}]{.underline}**
+**So do you counter the panic signal? There are four classical
+steps:**
 
 1.  **Set effective and clear on court goals**
 

@@ -42,9 +42,9 @@ every day for 10 days and then you don't see them for a month.
 There's a difference between this kind of developmental lesson and
 rallying or working on something. You can work on something with the pro
 the day after the lesson. But it doesn't have to be done by the same
-teacher - it can be an assistant or a hitting partner**[[. The key is
+teacher - it can be an assistant or a hitting partner**. The key is
 for the player to develop their own instincts for the
-game.]{.mark}]{.underline}** For example, players should work on their
+game.** For example, players should work on their
 serve everyday outside the lessons, including hitting serves by
 themselves.
 
@@ -61,7 +61,7 @@ important it is.
 
 I have a reputation for being a rough guy with no feeling for kids, but
 that's far from true. I work extremely hard to make every kid a better
-player. **[[I show kids respect.]{.mark}]{.underline}** The kids can
+player. **I show kids respect.** The kids can
 feel this and in return, maybe, they try harder than they even thought
 they could. My compliments may be hard to come by, but they are there. I
 believe that if the kid can hit one great backhand, he can hit ten, and

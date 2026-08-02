@@ -94,10 +94,10 @@ Roger Federer's forehand has usually has forward wrist flexion from
 this laid back position on the way to contact and then more after
 contact? True!
 
-**[[So why shouldn't I believe what I can get for free on YouTube and
+**So why shouldn't I believe what I can get for free on YouTube and
 learn to lag and snap just like Roger? Because Roger isn't doing it
 intentionally and these movements are the result of other movements and
-forces.]{.mark}]{.underline}**
+forces.**
 
 ![A picture containing text, outdoor, person, player Description
 automatically
@@ -115,10 +115,10 @@ biomechanics. It's what Rick Macci calls the
 \"Flip.\"*** ([Click
 Here](https://www.tennisplayer.net/members/high_performance/high_performance.html).)
 
-**[There is no additional delay or \"lag.\"]{.mark}** ***[[The problem
+**[There is no additional delay or \"lag.\"]{.mark}** ***The problem
 is lower level players can be stiff and mechanical and so this rotation
 doesn't happen naturally, and because of this the wrist doesn't lay
-back.]{.mark}]{.underline}***
+back.***
 
 **[These players are intent on creating \"lag\" so they tense up further
 and try to force the wrist back. Which makes everything more awkward and
@@ -146,16 +146,16 @@ This in turn explains the differences in the angle of the wrist and the
 amount of lay back at contact that you see when you study a few hundred
 pro forehands.
 
-***[[The reality, Brian's research shows, is that, depending on the
+***The reality, Brian's research shows, is that, depending on the
 specific ball, players are trying to reduce or eliminate snapping. They
 are actively restraining the forward motion of the wrist. Correct\--the
-exact total opposite of the snap.]{.mark}]{.underline}***
+exact total opposite of the snap.***
 
-***[[The wrist is a hinge and the force of the forward swing naturally
+***The wrist is a hinge and the force of the forward swing naturally
 acts on the racket head making it want to come around. Top players are
 restraining this to align the racket head with the shot. This a major
 insight that makes perfect sense when you look at the video evidence and
-should change the way the forehand is taught.]{.mark}]{.underline}***
+should change the way the forehand is taught.***
 
 And sure, other factors come into play---where the player is on the
 court and the relationship of his position to the line incoming ball.
@@ -226,14 +226,14 @@ His wrist doesn't lay back in the backswing. It doesn't flex in the
 forward swing. So how did his forehand get so fearsome without the magic
 of lag and snap?
 
-***[[What drives it? The same factors that drive all good forehands.
-Coiling and uncoiling in the legs and shoulders.]{.mark}]{.underline}***
+***What drives it? The same factors that drive all good forehands.
+Coiling and uncoiling in the legs and shoulders.***
 
-***[[Heavy rotation of his upper arm in the shoulder joint---backwards
+***Heavy rotation of his upper arm in the shoulder joint---backwards
 from the position with the racket head pointed at the opponent. This
 creates an absolutely frighteningly fearsome flip. And then this
 rotation continues forward through the swing in an extreme
-wiper.]{.mark}]{.underline}***
+wiper.***
 
 ***Plus the lifting and extending from his shoulder. And the great
 outward extension.*** **[But no lag and no snap.

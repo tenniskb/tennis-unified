@@ -33,10 +33,10 @@ The concept isn't based on the analysis of technical elements, which
 sometimes can lead to paralysis. 1-2 Rhythm overcomes the paralysis
 issue by creating a different modality for activating strokes on court.
 
-**[[With 1-2 Rhythm players can execute spontaneously at the actual
+**With 1-2 Rhythm players can execute spontaneously at the actual
 speed of match play, and also increase energy transfer into the strokes.
 Why? Because players feel how to hit the ball more naturally\--the way
-most elite players actually learn.]{.mark}]{.underline}**
+most elite players actually learn.**
 
 ![A person playing tennis Description automatically
 generated](media_1-2-rhythm-the-single-handed-backhand/media/image2.webp)
@@ -59,10 +59,10 @@ in the timing of the two phases. The differences in the timing are due
 to the fundamental nature of a backhand held only with the dominant
 hand.
 
-**[[In Phase 1 the hand and racket travel further behind the body
+**In Phase 1 the hand and racket travel further behind the body
 compared to the forehand or the two hander. The racket head at the
 completion of Phase 1 is actually pointing behind the body at the
-sideline to player's right.]{.mark}]{.underline}**
+sideline to player's right.**
 
 **At the completion of Phase 1, the racket head is also above the
 height of the hand.** The racket face may be on
@@ -76,9 +76,9 @@ explosion through the hit.**
 
 **Phase 2**
 
-The forward swing begins at the start of Phase 2. **[[The racket
+The forward swing begins at the start of Phase 2. **The racket
 acceleration begins as the racket head starts to drop and builds from
-there.]{.mark}]{.underline}**
+there.**
 
 **This acceleration is further increased at the pro level by the
 common use of closed stances, set up by a diagonal cross
@@ -107,9 +107,9 @@ confidence](media_1-2-rhythm-the-single-handed-backhand/media/image4.webp)
 **With the ATP forehand and two-hander, the hand and racket stay on the
 player's hitting side.**
 
-**[[But the racket does slow down or even pause fractionally at the end
+**But the racket does slow down or even pause fractionally at the end
 of this first phase. This is more like the two-hander than the
-forehand.]{.mark}]{.underline}**
+forehand.**
 
 Because players like Federer or Richard Gasquet hit their backhands with
 such flowing style, it's sometimes difficult to recognize the

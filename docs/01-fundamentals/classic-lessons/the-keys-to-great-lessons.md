@@ -142,9 +142,9 @@ tactical style, showing him how to actually use the stroke in matches?
 
 Throughout this process a skilled teaching pro is careful not to
 overwhelm the student with difficult situations and to keep the ratio of
-success high. In the words of the great Welby Van Horn, **[[\"Never put
+success high. In the words of the great Welby Van Horn, **\"Never put
 a student in a situation where he or she will
-fail.\"]{.mark}]{.underline}**
+fail.\"**
 
 The balance is delicate. As a student you should feel optimistic and
 enthusiastic about your progress. But at the same time you should feel
@@ -180,10 +180,10 @@ of those infatuated with the new school approach.
 \"Modern tennis is foolish, confusing and not appropriate for our
 players\" say hard core traditionalists.
 
-Both sides of the debate can ignore something more fundamental. **[[The
+Both sides of the debate can ignore something more fundamental. **The
 reality is that students can't master classic or modern strokes if they
 do not have a proper technical foundation that sets up the progressive
-development.]{.mark}]{.underline}**
+development.**
 
 **Timeless Elements**
 
@@ -198,10 +198,10 @@ generated](media_the-keys-to-great-lessons/media/image7.webp)
 
 **What is classical, what is modern, and what is timeless?**
 
-What do I teach? I think **[[there are timeless elements in all good
+What do I teach? I think **there are timeless elements in all good
 strokes that transcend eras and styles. The danger in teaching the
 modern game is that these elements can be overlooked in the emphasis on
-extreme technical aspects.]{.mark}]{.underline}**
+extreme technical aspects.**
 
 Look at the preparation and balance in the set ups on Federer forehand
 or Djokovic's backhand. These shots may have \"classical\" and
@@ -249,7 +249,7 @@ generated](media_the-keys-to-great-lessons/media/image8.webp)
 feedback]{.mark} [and attempts]{.mark} [allows all students an even
 playing field]{.mark}]{.underline} and a sense of togetherness as a
 group. [This prevents students from]{.underline}
-[[becoming overly competitive with each other]{.mark}]{.underline} and
+becoming overly competitive with each other and
 jealous of the attention of the teaching pro.**
 
 **The End**

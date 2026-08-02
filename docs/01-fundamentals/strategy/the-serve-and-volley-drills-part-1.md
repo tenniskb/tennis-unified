@@ -20,10 +20,10 @@ have found them powerful, effective, and fun. See if you agree!
 
 **Soft Catch**
 
-**[[A big issue in serve and volley is touch and feel. It's difficult
+**A big issue in serve and volley is touch and feel. It's difficult
 for players to transition from the kinesthetic feel of hitting a hard
 serve to a looser grip and the soft hands needed for a controlled
-volley.]{.mark}]{.underline}**
+volley.**
 
 Inexperienced players think of the volley as a powerful kill shot, and
 if the volley is a floater, then that may be the case. When many players

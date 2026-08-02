@@ -201,17 +201,17 @@ volley.**
 
 **This is why it's not necessarily right to hit the ball into the
 open court, particularly on the first volley.**
-**[[Hitting into the open court may seem like the obvious play. It can
+**Hitting into the open court may seem like the obvious play. It can
 result in winners if your opponent is far enough out of position and
 can't catch up to the ball, or if you can sharpen the angle or
-successfully drop the ball.]{.mark}]{.underline}**
+successfully drop the ball.**
 
-**[[But what if your opponent covers the shot? Now your court can be
+**But what if your opponent covers the shot? Now your court can be
 wide open down the line for his passing shot. So, if cannot truly hurt
 your opponent or finish the point, it's better to go back at your
 opponent or behind him, because this reduces the angles for a possible
 pass. It also allows you the critical time you need to close
-further.]{.mark}]{.underline}**
+further.**
 
 **The same is true for going down the middle of the court. In all
 these cases, you are treating the first volley almost as an approach
@@ -246,11 +246,11 @@ time your split step and hit balanced first volleys? Can you hit volleys
 off either side to all three runways? Do you know when to finish and can
 you hit the angles and placements to do so?**
 
-**[[This is just one example of the great challenges and potential
+**This is just one example of the great challenges and potential
 satisfactions in the game of tennis. Here's wishing you a lifetime of
 success in developing all the strategic aspects of your game and
 becoming as complete and successful player as
-possible.]{.mark}]{.underline}**
+possible.**
 
 We hope you've enjoyed and learned from our presentation of the
 Strategy Zone concepts and the three-point progression of control, hurt,
